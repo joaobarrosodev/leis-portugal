@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:455615:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 (Declaração de Rectificação 60/2008): rectifica o Decreto Legislativo Regional n.º 34/2008/M (anexos I-M, II-M, V-M), não o original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

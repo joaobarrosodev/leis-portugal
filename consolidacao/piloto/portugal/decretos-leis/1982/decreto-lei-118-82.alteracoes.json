@@ -1,5 +1,47 @@
 [
   {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — (Definição)\n\nConsideram-se intermunicipais os empreendimentos que, envolvendo técnica e financeiramente municípios e departamentos da administração central, resultem de um processo de decisão colegial dos órgãos municipais interessados e respeitem as regras e condições fixadas no presente diploma.",
+    "depois": "###### Artigo 1.º — (Definição)\n\n1 - Consideram-se intermunicipais os empreendimentos que, envolvendo técnica e financeiramente municípios e departamentos da administração central, resultem de um processo de decisão colegial dos órgãos municipais interessados e respeitem as regras e condições fixadas no presente diploma.\n\n2 - Os empreendimentos que satisfaçam os requisitos previstos no n.º 1 só poderão beneficiar do regime agora estabelecido se forem lançados após a entrada em vigor do presente diploma e não tiverem sido concluídos na data da sua propositura, nos termos referidos nos artigos 10.º a 14.º do presente diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 429/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1982-376060), publicado em 1982-10-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:606481:por",
+    "alterador": "pt:dre:376060:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — (Repartição de encargos)\n\n1 - A repartição de encargos entre a administração central e os municípios atenderá ao interesse regional dos empreendimentos e à capacidade de financiamento dos municípios interessados.\n\n2 - O interesse regional do empreendimento intermunicipal é avaliado pela pontuação atribuída ao agrupamento de municípios onde será implantado, de acordo com a tabela constante do anexo 1.\n\n3 - A capacidade de financiamento dos municípios interessados no empreendimento intermunicipal é aferida pela razão percentualmente estabelecida entre o custo médio anual do respectivo investimento e o somatório do fundo de equilíbrio financeiro de cada um dos municípios interessados no ano em que a proposta de investimento é apresentada, ponderada pela respectiva participação nos encargos com o empreendimento intermunicipal.\n\n4 - A participação da administração central no financiamento de cada empreendimento intermunicipal é medida pelo somatório dos produtos do coeficiente 0,6 pela pontuação atribuída ao seu interesse regional e do coeficiente 0,4 pelo indicador de capacidade de financiamento dos municípios interessados, não podendo nunca exceder 80% dos encargos do empreendimento.",
+    "depois": "###### Artigo 7.º — (Repartição de encargos)\n\n1 - A repartição de encargos entre a administração central e os municípios atenderá ao interesse regional dos empreendimentos e à capacidade de financiamento dos municípios interessados.\n\n2 - O interesse regional do empreendimento intermunicipal é avaliado pela pontuação atribuída ao agrupamento de municípios onde será implantado, de acordo com a tabela constante do anexo 1.\n\n3 - No caso de o empreendimento intermunicipal envolver 2 ou mais municípios integrados em agrupamentos de municípios diferentes, o indicador a que se refere o número anterior é determinado pela média das pontuações de interesse regional de cada um dos agrupamentos, ponderadas pela respectiva participação nos encargos com o empreendimento.\n\n4 - A capacidade de financiamento dos municípios interessados no empreendimento intermunicipal é aferida pela razão percentualmente estabelecida entre o custo médio anual do respectivo investimento e o somatório do fundo de equilíbrio financeiro de cada um dos municípios interessados no ano em que a proposta de investimento é apresentada.\n\n5 - A participação da administração central no financiamento de cada empreendimento intermunicipal é medida pelo somatório dos produtos do coeficiente 0,6 pela pontuação atribuída ao seu interesse regional e do coeficiente 0,4 pelo indicador de capacidade de financiamento dos municípios interessados, não podendo nunca exceder 80% dos encargos do empreendimento.\n\n> Alterado pelo/a [Decreto-Lei n.º 429/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1982-376060), publicado em 1982-10-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:606481:por",
+    "alterador": "pt:dre:376060:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º — (Distribuição regional das disponibilidades orçamentais)\n\n1 - A dotação orçamental para empreendimentos intermunicipais será inscrita no programa de investimentos e despesas de desenvolvimento da administração central, através do Ministério das Finanças e do Plano.\n\n2 - À dotação orçamental para empreendimentos intermunicipais poderão ser deduzidos os quantitativos necessários ao financiamento de programas integrados de desenvolvimento regional propostos pelas comissões de coordenação regional e que contem com a concordância dos órgãos municipais interessados.\n\n3 - A inscrição referida nos números anteriores distinguirá a parcela relativa a compromissos de anos anteriores, a altas de praça e a revisões de preços do montante disponível para o financiamento de novos empreendimentos intermunicipais.\n\n4 - A parcela da dotação orçamental disponível para financiamento de novos empreendimentos intermunicipais será distribuída regionalmente para utilização na área de actuação de cada comissão de coordenação regional, de acordo com a percentagem da soma das pontuações atribuídas aos respectivos agrupamentos de municípios na globalidade das pontuações que lhe são atribuídas pelo anexo 1 ao presente diploma.\n\n5 - Os quantitativos inscritos nos termos dos números anteriores serão globalmente transferidos para cada comissão de coordenação regional, sob a forma de contas de ordem e através de orçamentos suplementares, de acordo com o que se encontra previsto no artigo 18.º",
+    "depois": "###### Artigo 8.º — (Distribuição regional das disponibilidades orçamentais)\n\n1 - A dotação orçamental para empreendimentos intermunicipais será inscrita no programa de investimentos e despesas de desenvolvimento da administração central, através do Ministério das Finanças e do Plano.\n\n2 - À dotação orçamental para empreendimentos intermunicipais poderão ser deduzidos os quantitativos necessários ao financiamento de programas integrados de desenvolvimento regional propostos pelas comissões de coordenação regional e que contem com a concordância dos órgãos municipais interessados.\n\n3 - A inscrição referida nos números anteriores distinguirá a parcela relativa a compromissos de anos anteriores, a altas de praça e a revisões de preços do montante disponível para o financiamento de novos empreendimentos intermunicipais.\n\n4 - A parcela da dotação orçamental disponível para financiamento de novos empreendimentos intermunicipais será distribuída regionalmente para utilização na área de actuação de cada comissão de coordenação regional, de acordo com a percentagem da soma das pontuações atribuídas aos respectivos agrupamentos de municípios na globalidade das pontuações que lhe são atribuídas pelo anexo 1 ao presente diploma.\n\n5 - Os quantitativos inscritos nos termos dos números anteriores serão globalmente transferidos para cada comissão de coordenação regional, sob a forma de contas de ordem e através de orçamentos suplementares, de acordo com o que se encontra previsto no artigo 18.º, não havendo lugar à reposição nos cofres do Estado de eventuais saldos não utilizados no ano da respectiva transferência.\n\n> Alterado pelo/a [Decreto-Lei n.º 429/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1982-376060), publicado em 1982-10-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:606481:por",
+    "alterador": "pt:dre:376060:por"
+  },
+  {
     "artigo": "24.º",
     "operacao": "aditar",
     "regra": "llm",

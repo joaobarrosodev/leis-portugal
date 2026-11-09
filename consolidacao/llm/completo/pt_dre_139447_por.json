@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:139447:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "As gratificações mensais devidas aos cidadãos desalojados que integram as brigadas itinerantes e as comissões regionais, distritais e concelhias são fixadas como se segue:\n\na) Quando seja aplicável regime de prestação de serviço a tempo completo equiparado ao da função pública:\n\n10000$00 aos membros das brigadas itinerantes;\n\n8000$00 aos membros vogais das comissões regionais e distritais;\n\nb) Quando não seja aplicável o regime de prestação de serviço referido na alínea a):\n\n6000$00 aos vogais das comissões concelhias;\n\n4000$00 aos vogais das comissões regionais e distritais.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do art. 1.º - aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:473488:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alt.1 arts. 1.º e 2.º eliminam e aumentam lugares no mapa anexo, e Alt.2 art. 1.º substitui o quadro de pessoal pelo mapa anexo; esses mapas só existem em imagem (ver documento original), pelo que não foram aplicados.",
+  "instrucoes": [
+    "Alt.1 arts. 1.º-2.º: alterações ao mapa anexo (imagem); não aplicadas.",
+    "Alt.1 arts. 3.º-4.º: alteram o regulamento do Decreto 47024 (outro diploma); ignorados.",
+    "Alt.2 art. 1.º: novo quadro de pessoal por mapa anexo (imagem); não aplicado.",
+    "Alt.2 arts. 2.º-15.º: regras próprias e revogações no Decreto 47024 e no DL 49096; não dirigidas ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

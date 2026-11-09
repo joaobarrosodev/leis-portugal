@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:551629:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O § único da Portaria n.º 1196/2008 dá nova redação ao n.º 1 do anexo I, que não consta do texto atual (só vêm os artigos 1.º a 12.º do Regulamento); não há artigo a alterar.",
+  "instrucoes": [
+    "Alterador 1, § único: nova redação do n.º 1 do anexo I (cálculo da AT) — anexo ausente do texto atual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

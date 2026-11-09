@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:262124:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º: altera a escala salarial da carreira de leitor-cobrador no anexo II, que só existe em imagem (ver documento original); não aplicada. Alterador 2 (Decreto Regulamentar Regional n.º 4-A/93/M) vem sem texto no pedido; nada a aplicar.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: novos índices da escala do leitor-cobrador no anexo II; anexo só em imagem, não aplicada.",
+    "Alterador 2: sem artigos transcritos; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

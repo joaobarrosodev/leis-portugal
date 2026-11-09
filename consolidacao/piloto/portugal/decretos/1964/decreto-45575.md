@@ -1100,7 +1100,9 @@ Arquitecto-adjunto.
 
 ###### Artigo 71.º
 
-Os arquitectos e engenheiros de 2.ª classe com mais de 5 anos de serviço na classe e boas informações terão, para todos os efeitos legais, a categoria da letra G do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 48607](https://diariodarepublica.pt/dr/detalhe/decreto/48607-1968-264366), publicado em 1968-10-07.
 
 ###### Artigo 72.º
 

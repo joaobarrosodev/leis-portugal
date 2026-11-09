@@ -1,0 +1,42 @@
+{
+  "id": "pt:dre:396891:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Estrutura",
+      "texto": "A DRCI compreende os seguintes órgãos e serviços:\n\na) Director regional;\n\nb) Gabinete Jurídico;\n\nc) Gabinete de Estudos e Planeamento;\n\nd) Gabinete de Coordenação do Frio;\n\ne) Direcção de Serviços do Comércio;\n\nf) Direcção de Serviços da Indústria;\n\ng) Direcção de Serviços de Energia;\n\nh) O Departamento dos Serviços Administrativos.",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Competências e estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Competências",
+      "texto": "Ao Departamento dos Serviços Administrativos, abreviadamente designado por DSA, compete, nomeadamente:\n\na) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal da DRCI;\n\nb) Coordenar, promover a assegurar os procedimentos administrativos relativos a assuntos de expediente geral e arquivo;\n\nc) Assegurar e controlar a execução orçamental da DRCI;\n\nd) Promover e assegurar a gestão dos recursos patrimoniais, numa perspectiva de optimização dos meios disponíveis, e zelar pela sua conservação, incluindo a dos edifícios e demais instalações afectos à DRCI.",
+      "alterador": 1
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Categorias de operador de reprografia e de auxiliar de limpeza",
+      "texto": "1 - As categorias de operador de reprografia e de auxiliar de limpeza integram o grupo de pessoal auxiliar.\n\n2 - As categorias referidas no n.º 1 são consideradas horizontais para efeitos de progressão.\n\n3 - Sem prejuízo dos demais requisitos exigidos por lei, o ingresso naquelas categorias faz-se, mediante concurso, de entre indivíduos possuidores da escolaridade obrigatória.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 2.º: nova redacção do artigo 3.º (a) a f) mantidas, g) = antiga h), h) nova; antigas g) e i) desaparecem); aplicado.",
+    "Art. 2.º: nova redacção do artigo 12.º (proémio novo, alíneas a) a d) mantidas); aplicado.",
+    "Art. 2.º: nova redacção do artigo 15.º (n.º 1 mantido, n.os 2 e 3 = antigos n.os 3 e 4; antigo n.º 2 desaparece); aplicado.",
+    "Art. 2.º: as epígrafes de capítulo/secção (CAPÍTULO II, SECÇÃO I, SECÇÃO X) não pertencem a artigos; não aplicadas como texto de artigo.",
+    "Art. 3.º: aditamento dos artigos 13.º-A e 13.º-B; o texto atual já coincide, sem mudança.",
+    "Art. 4.º: revogação do artigo 10.º; corpo passa a (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

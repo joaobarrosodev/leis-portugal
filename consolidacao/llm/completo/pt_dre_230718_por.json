@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:230718:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, n.º 3.º: altera o item com a referência n.º 2 do anexo I (calendário) ao Regulamento; o anexo I não consta do texto atual por artigos, pelo que a alteração não se pode aplicar a nenhum artigo.",
+  "instrucoes": [
+    "Alterador 1, 1.º: adita curso ao anexo I da Portaria n.º 714-C/2006 — outro diploma, ignorado.",
+    "Alterador 1, 2.º: regra transitória de candidatura, não altera o texto do original.",
+    "Alterador 1, 3.º: nova redação do item n.º 2 do anexo I do Regulamento — anexo não presente no texto, registado em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

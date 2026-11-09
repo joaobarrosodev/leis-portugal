@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "85.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 85.º — Crachá\n\n1 - O crachá, conforme figura n.º 76, é composto por um escudo nacional numa esfera armilar sobre duas âncoras cruzadas, bordeladas por dois círculos com o interior em esmalte azul escuro, com a inscrição «POLÍCIA MARÍTIMA», tudo sobre uma estrela de seis pontas em metal, de forma côncava; têm 0,060 m de diâmetro.\n\n2 - O crachá é dourado para os inspectores, subinspectores e chefes e prateado para os subchefes e agentes.\n\n3 - É usado, em regra, à frente do lado esquerdo, sobre o peito, fixado através de alfinete com mola ou aposto em presilha para colocação no botão do bolso.\n\n4 - Nas peças de vestuário, em que for aplicável por estampagem, o crachá é azul ou branco, consoante o fundo do artigo de forma a criar contraste.",
+    "depois": "###### Artigo 85.º — Crachá\n\n1 - O crachá, conforme figura n.º 76, é composto por um escudo nacional numa esfera armilar sobre duas âncoras cruzadas, bordeladas por dois círculos com o interior em esmalte azul escuro, com a inscrição «POLÍCIA MARÍTIMA», tudo sobre uma estrela de seis pontas em metal, de forma côncava; têm 0,060 m de diâmetro.\n\n2 - O crachá é dourado para os titulares dos órgãos de comando da Polícia Marítima, para os inspectores, subinspectores e chefes, e é prateado para os subchefes e agentes.\n\n3 - É usado, em regra, à frente do lado esquerdo, sobre o peito, fixado através de alfinete com mola ou aposto em presilha para colocação no botão do bolso.\n\n4 - Nas peças de vestuário, em que for aplicável por estampagem, o crachá é azul ou branco, consoante o fundo do artigo de forma a criar contraste.\n\n> Alterado pelo/a [Portaria n.º 122/2011](https://diariodarepublica.pt/dr/detalhe/portaria/122-2011-277599), publicado em 2011-03-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:684194:por",
+    "alterador": "pt:dre:277599:por"
+  }
+]

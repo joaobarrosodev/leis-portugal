@@ -1,0 +1,76 @@
+{
+  "id": "pt:dre:294711:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Projectos não admissíveis",
+      "texto": "São excluídos os projectos que:\n\na) Não se enquadrem nos objectivos previstos no artigo 1.º;\n\nb) Se destinem ao aumento dos equipamentos em áreas em que já exista excesso de capacidade instalada;\n\nc) Impliquem um investimento global inferior a 5000 contos;\n\nd) (Revogada.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Critérios de prioridade",
+      "texto": "Para efeitos de concessão de apoio aos projectos de modernização dos equipamentos dos portos de pesca, será dada prioridade às candidaturas que satisfaçam uma ou mais das seguintes condições:\n\na) Apresentem interesse para o conjunto dos pescadores utilizadores do porto;\n\nb) Contribuam para o desenvolvimento global do porto e para melhorar os serviços oferecidos aos pescadores;\n\nc) Melhorem as condições de trabalho nos portos de pesca.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Despesas elegíveis",
+      "texto": "Para efeitos de concessão de apoio, são elegíveis as seguintes despesas:\n\na) As que beneficiem as condições de desembarque, primeira venda, tratamento e armazenagem dos produtos da pesca;\n\nb) As que melhorem as condições de exercício da actividade das embarcações de pesca, nomeadamente armazéns de aprestos, abastecimento de combustível, água e gelo;\n\nc) As que contribuam para o ordenamento do cais, por forma a melhorar as condições de segurança no embarque e desembarque dos produtos da pesca.\n\nd) Encargos gerais e despesas imprevistas de investimento até montante máximo de 12% do investimento elegível orçamentado.",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Despesas não elegíveis",
+      "texto": "Não são elegíveis para efeitos de concessão de apoio as seguintes despesas:\n\na) Despesas de funcionamento do beneficiário;\n\nb) Despesas consideradas dispensáveis à eficácia do projecto;\n\nc) Despesas não comprovadas documentalmente e insusceptíveis de verificação;\n\nd) Investimentos destinados, a título principal, à comercialização ou à transformação de produtos da pesca para fins diferentes do consumo humano, excepto os destinados exclusivamente ao tratamento, transformação ou comercialização de resíduos de produtos da pesca;\n\ne) Investimentos ligados, a título principal, à comercialização ou transformação de produtos provenientes de países terceiros;\n\nf) Material de duração média inferior a um ano;\n\ng) Imposto sobre o valor acrescentado (IVA) recuperável pelo beneficiário.\n\nh) Os trabalhos iniciados antes da apresentação da candidatura.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Apresentação das candidaturas",
+      "texto": "1 - As candidaturas ao regime de apoio previsto no presente diploma são apresentadas na Direcção-Geral das Pescas e Aquicultura, na sua sede ou na respectiva direcção regional.\n\n2 - Os processos de candidatura são apresentados em duplicado, mediante o preenchimento dos formulários próprios, devendo ser obrigatoriamente acompanhados de documentos comprovativos de que a situação contributiva perante o Estado e a segurança social se encontra regularizada, bem como de todos os demais comprovativos da verificação das condições previstas neste Regulamento.\n\n3 - O não suprimento de deficiências de instrução do processo, devidamente notificadas aos candidatos, determina o indeferimento do processo respectivo.\n\n4 - A DGP envia uma das cópias ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) para avaliação económica e financeira.\n\n5 - A apreciação técnica e administrativa dos processos compete à DGP.",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Indeferimento das candidaturas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Atribuição de apoio",
+      "texto": "1 - O contrato de atribuição de apoio é celebrado entre o candidato e o IFADAP no prazo de 60 dias após comunicação da concessão do apoio.\n\n2 - A não celebração do contrato no prazo referido no número anterior por causa imputável ao candidato determina a perda do direito ao apoio.\n\n3 - O pagamento do apoio só será efectuado após verificação de que o candidato tem a situação contributiva regularizada perante o Estado e a segurança social.",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Obrigações dos beneficiários",
+      "texto": "Para os efeitos dos artigos 5.º e 6.º do [Decreto-Lei n.º 189/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1994-291604), de 5 de Julho, constarão do contrato de atribuição de apoio, nomeadamente, as seguintes obrigações dos beneficiários:\n\na) Iniciar a execução dos projectos no prazo máximo de 180 dias a contar da data da outorga do contrato referido no artigo anterior;\n\nb) Executar os projectos de acordo com os prazos e condições previstos no contrato de concessão de apoio;\n\nc) Fornecer todos os elementos que forem solicitados pela DGP e pelo IFADAP ou por entidade por estes mandatada para fiscalização, acompanhamento e avaliação do resultado dos projectos.\n\nd) Constituir seguro pelo montante mínimo correspondente ao valor das ajudas concedidas, sempre que esteja em causa a construção ou aquisição de edifícios ou instalações.",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Data limite para apresentação de candidaturas",
+      "texto": "A data limite para apresentação de candidaturas ao presente Regime é 30 de Junho de 1999.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º nova redação do artigo 3.º: alínea a) substituída, b) e c) mantidas ('...'), d) revogada.",
+    "1.º nova redação do artigo 4.º: epígrafe passa a 'Critérios de prioridade', proémio substituído, alíneas mantidas.",
+    "1.º artigo 5.º: proémio igual, alíneas a) a c) mantidas, aditada alínea d).",
+    "1.º artigo 6.º: proémio igual, alíneas a) a g) mantidas, aditada alínea h).",
+    "1.º artigo 8.º: n.os 1 a 3 novos; antigos n.os 3 e 4 passam a 4 e 5.",
+    "1.º artigo 10.º: n.os 1 e 2 mantidos, n.º 3 substituído.",
+    "1.º artigo 11.º: proémio igual, alínea a) substituída, b) e c) mantidas, aditada alínea d).",
+    "1.º artigo 12.º: epígrafe e corpo substituídos.",
+    "2.º revoga o artigo 9.º: corpo '(Revogado.)'.",
+    "3.º norma de aplicação no tempo: não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

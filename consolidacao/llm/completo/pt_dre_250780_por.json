@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:250780:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "É proibida a plantação ou sementeira de pinheiros a menos de 15 m de terrenos cultivados e terras de cultura de regadio e a 25 m de prédios urbanos.\n\n§ único. Exceptuam-se do disposto neste artigo as plantações e sementeiras no caso de se reconhecer que a forma mais conveniente de aproveitamento do terreno em que estiveram radicadas e dos terrenos dos vizinhos é a arborização com aquela espécie.",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - Quando se trate de plantações ou sementeiras de pinheiros feitas anteriormente à vigência do presente diploma e que à data da sua entrada em vigor estejam em contradição com o artigo 1.º, é reconhecido ao lesado o direito de requerer o arranque.\n\n2 - O exercício do direito previsto no número anterior dá lugar a indemnização, nos termos da legislação em vigor.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º do DR 14/79/M: nova redação do § único do artigo 1.º - aplicada",
+    "Art. 2.º do DR 14/79/M: nova redação do artigo 3.º (n.os 1 e 2) - aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

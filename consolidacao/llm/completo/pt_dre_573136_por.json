@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:573136:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Lei 39-B/94), art. 69.º: prorroga até ao exercício de 1998 o prazo de regularização da CEROT, sem dar nova redação a qualquer artigo da Lei n.º 23/90 — alteração não textual.",
+  "instrucoes": [
+    "Alterador 1, arts. 67.º, 70.º e 74.º: apenas remetem para a Lei 23/90 — sem alteração do original.",
+    "Alterador 1, art. 69.º: prorrogação do prazo de regularização (art. 1.º, n.º 2) por norma autónoma — não textual, não aplicada.",
+    "Alterador 2: altera a Lei 39-B/94, o EBF, o DL 404/90 e o DL 142/95 — instruções dirigidas a outros diplomas, ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

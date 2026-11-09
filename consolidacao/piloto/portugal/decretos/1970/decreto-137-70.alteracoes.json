@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1. É autorizada a firma Control Data Eléctrica Lusitana, S. A. R. L., a estabelecer um depósito franco nas suas instalações fabris situadas em Palmela, ao quilómetro 12,4 da estrada nacional n.º 252.\n\n2. As instalações referidas no n.º 1 deste artigo serão exteriormente resguardadas por uma vedação, de conformidade com o artigo 144.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965.\n\n3. Neste depósito franco a empresa propõe-se fabricar e montar equipamentos eléctricos e electrónicos e suas peças, designadamente cartões-circuitos impressos, destinados a computadores electrónicos de diversos tipos.",
+    "depois": "###### Artigo 1.º\n\n1. É autorizada a firma Control Data Portuguesa, S. A. R. L., a estabelecer um depósito franco nas suas instalações fabris situadas em Palmela, ao quilómetro 12,4 da estrada nacional n.º 252 e em Vale de Cobro.\n\n2. As instalações referidas no n.º 1 deste artigo serão exteriormente resguardadas por uma vedação, de conformidade com o artigo 144.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965.\n\n3. Neste depósito franco a empresa propõe-se proceder à montagem de equipamentos eléctricos e electrónicos e suas peças destinadas a computadores electrónicos de diversos tipos, fabricação de equipamento e aparelhos de rádio, televisão, equipamento para telecomunicações e outro material electrónico e fabricação de aparelhos electrodomésticos.\n\n> Alterado pelo/a [Decreto n.º 104/79](https://diariodarepublica.pt/dr/detalhe/decreto/104-1979-369795), publicado em 1979-09-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:229139:por",
+    "alterador": "pt:dre:369795:por;pt:dre:409366:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\n1. Os materiais e peças vindos do estrangeiro entrarão no recinto do depósito franco mediante bilhete de entrada referido no § 5.º do artigo 146.º da Reforma Aduaneira.\n\n2. A alfândega verificará a qualidade dessas mercadorias aquando da entrada no depósito franco, que se devem destinar à fabricação e montagem dos equipamentos e peças indicados no n.º 3 do artigo 1.º\n\n3. Quando pela documentação se verifique estar algum material ou peça sujeito à pauta máxima, será esse artefacto identificado para a hipótese de algum deles ter de voltar a sair do recinto, isolado, para entrar no consumo.\n\n4. A simplificação de formalidades do despacho de entrada no depósito franco de materiais e peças estrangeiros não dispensa o cumprimento das disposições relativas ao registo na Repartição do Comércio Externo.",
+    "depois": "###### Artigo 6.º\n\n1. Os materiais e peças vindos do estrangeiro entrarão no recinto do depósito franco mediante bilhete de entrada referido no § 5.º do artigo 146.º da Reforma Aduaneira.\n\n2. A alfândega verificará a qualidade dessas mercadorias, aquando da entrada no depósito franco, que se devem destinar à fabricação e montagem dos equipamentos, aparelhos, peças e outro material, indicados no n.º 3 do artigo 1.º\n\n3. Quando pela documentação se verifique estar algum material ou peça sujeito à pauta máxima, será esse artefacto identificado para a hipótese de algum deles ter de voltar a sair do recinto, isolado, para entrar no consumo.\n\n4. A simplificação de formalidades do despacho de entrada no depósito franco de materiais e peças estrangeiros não dispensa o cumprimento das disposições relativas ao registo na Repartição do Comércio Externo.\n\n> Alterado pelo/a [Decreto n.º 724/76](https://diariodarepublica.pt/dr/detalhe/decreto/724-1976-409366), publicado em 1976-10-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:229139:por",
+    "alterador": "pt:dre:369795:por;pt:dre:409366:por"
+  },
+  {
+    "artigo": "15.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 15.º\n\n1. É permitida a saída temporária do depósito franco de:\n\na) Peças ou equipamentos para reparação;\n\nb) Peças para incorporação de produto nacional.\n\n2. A saída far-se-á mediante garantia dos direitos por fiança ou depósito e com processamento de guia especial, da qual constarão o prazo em que o trabalho deverá ser executado e os sinais para futuras confrontações, sendo a verificação feita pela alfândega na saída e no regresso ao depósito.\n\n3. Esta guia será registada e transcrita em livro existente no posto fiscal e nele será dada baixa quando a peça regressar ao recinto do depósito franco.",
+    "depois": "###### Artigo 15.º\n\n1. É permitida a saída temporária do depósito franco de:\n\na) Equipamentos, aparelhos, peças e outro material, para reparação;\n\nb) Peças para incorporação de produto nacional.\n\n2. A saída far-se-á mediante garantia dos direitos por fiança ou depósito e com processamento de guia especial, da qual constarão o prazo em que o trabalho deverá ser executado e os sinais para futuras confrontações, sendo a verificação feita pela alfândega na saída e no regresso ao depósito.\n\n3. Esta guia será registada e transcrita em livro existente no posto fiscal e nele será dada baixa quando a peça regressar ao recinto do depósito franco.\n\n> Alterado pelo/a [Decreto n.º 724/76](https://diariodarepublica.pt/dr/detalhe/decreto/724-1976-409366), publicado em 1976-10-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:229139:por",
+    "alterador": "pt:dre:369795:por;pt:dre:409366:por"
+  }
+]

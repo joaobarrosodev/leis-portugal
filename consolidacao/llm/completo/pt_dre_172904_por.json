@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:172904:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Os tabacos destinados ao consumo do continente e ilhas adjacentes, quer de fabrico nacional (1.º grupo), quer estrangeiro (2.º grupo), ficam sujeitos a um imposto de consumo, das taxas a seguir indicadas, sobre o qual não incidirá adicional algum, seja para o Estado, seja para os corpos administrativos.\n\n§ único. As importâncias arrecadadas através deste tributo não serão consideradas para determinação dos descontos mencionados no artigo 23.º do [Decreto-Lei n.º 41386](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41386-1957-251642), de 22 de Novembro de 1957, e sobre as mesmas não incidirá o imposto ad valorem prescrito nos n.os 1.º dos artigos 14.º e 16.º deste diploma.",
+      "alterador": 4
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "As espécies de tabacos em que incidirá o imposto de consumo e correspondentes taxas são as seguintes:\n\na) 1.º grupo:\n\nPicados - taxa de 1$50 sobre cada unidade de 15 g.\n\nCigarros:\n\nTaxa de $90 sobre cada maço ou caixa de 10 ou 12 cigarros, quando de peso superior a 7,5 g;\n\nTaxa de 1$50 sobre cada maço ou caixa de 20 ou 24 cigarros;\n\nTaxa de 4$00 sobre cada maço ou caixa de 25 a 50 cigarros;\n\nTaxa de 9$00 sobre cada maço ou caixa de 51 a 100 cigarros.\n\nCigarrilhas com capa de tabaco:\n\nTaxa de $10 sobre cada cigarrilha cujo preço unitário de venda ao público seja igual ou inferior a 1$00;\n\nTaxa de $90 sobre cada cigarrilha, quando o preço unitário de venda ao público seja superior a 1$00.\n\nCharutos - taxa de 4$00 sobre cada charuto.\n\nb) 2.º grupo:\n\nPicados - taxa de 1$50 sobre cada 15 g ou fracção.\n\nCigarros:\n\nTaxa de $90 sobre cada maço ou caixa de 10 a 12 cigarros, quando de peso superior a 7,5 g;\n\nTaxa de 1$50 sobre cada maço ou caixa de 20 ou 24 cigarros;\n\nTaxa de 4$00 sobre cada maço ou caixa de 25 a 50 cigarros;\n\nTaxa de 9$00 sobre cada maço ou caixa de 51 a 100 cigarros.\n\nCigarrilhas com capa de tabaco:\n\nTaxa de $10 sobre cada cigarrilha cujo preço unitário de venda ao público seja igual ou inferior a 1$00;\n\nTaxa de $90 sobre cada cigarrilha, quando o preço unitário de venda ao público seja superior a 1$00.\n\nCharutos - taxa de 4$00 sobre cada charuto.\n\n§ 1.º Nas manufacturas especificadas no 1.º grupo o valor das taxas será impresso nos respectivos invólucros com a indicação «Imposto de consumo ...$...» ou, simplesmente, «I. C. ...$...».\n\n§ 2.º Para aproveitamento das manufacturas e rotulagens existentes nas fábricas, será permitida, depois de prévia autorização da Inspecção-Geral de Finanças, a aposição de uma sobrecarga, a tinta de óleo, com a indicação determinada no parágrafo anterior e a denominação da empresa produtora.\n\n§ 3.º As marcas lançadas futuramente no mercado pela indústria metropolitana ficam sujeitas ao pagamento do imposto de consumo igual àquele que neste artigo foi fixado para os tipos e espécies de tabacos que se lhes assemelhem.",
+      "alterador": 5
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 48552: nova redação das alíneas a) e b) do art. 2.º — aplicada, depois substituída",
+    "DL 48701: nova redação do art. 2.º (§§ mantidos) — aplicada, depois substituída",
+    "Lei 5/70 base V: aplica o imposto às ilhas adjacentes — não textual",
+    "DL 331/70: nova redação do corpo do art. 1.º (§ único mantido) e do art. 2.º — aplicada",
+    "DL 653/70 art. 12.º: nova redação do art. 2.º (§§ 1.º a 3.º mantidos) — aplicada (redação final)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

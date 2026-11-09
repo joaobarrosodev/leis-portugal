@@ -76,7 +76,9 @@ O direito a que se referem os artigos anteriores inclui a utilização da 1.ª c
 
 ###### Artigo 8.º
 
-As empresas de transporte público podem requerer ao Fundo Especial de Transportes Terrestres compensação pelo transporte realizado nos termos do presente diploma, que será apreciada caso a caso, com base em índices indicadores do grau da respectiva utilização.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 106/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1987-662361), publicado em 1987-03-06.
 
 ###### Artigo 9.º
 

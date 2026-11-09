@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nSão isentas de direitos e dos respectivos emolumentos gerais da tabela II anexa à Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 31665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31665-1941-321313), de 22 de Novembro de 1941, e de quaisquer outras imposições, a importação de materiais e equipamentos que se destinam à manutenção e funcionamento das infra-estruturas N. A. T. O. existentes em Portugal e bem assim a sua exportação, quando tenham de sair do País.\n\n§ único. Para efeitos do disposto neste artigo, a Comissão de Manutenção de Infra-Estruturas N. A. T. O. enviará à Direcção-Geral das Alfândegas lista discriminativa, em triplicado, dos materiais e equipamentos a isentar, relativa a cada importação ou exportação.",
+    "depois": "###### Artigo 2.º\n\nSão isentas de direitos e dos respectivos emolumentos gerais da tabela II anexa à Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1963, e de quaisquer outras imposições a importação de materiais e equipamentos que se destinem à criação, manutenção e funcionamento de infra-estruturas N. A. T. O., a construir ou já existentes em Portugal.\n\n§ único. Para efeitos do disposto neste artigo, a comissão de manutenção de infra-estruturas N. A. T. O. enviará à Direcção-Geral das Alfândegas lista discriminativa, em triplicado, dos materiais e equipamentos a isentar, relativa a cada importação.\n\n> Alterado pelo/a [Decreto-Lei n.º 538/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1973-412261), publicado em 1973-10-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:580100:por",
+    "alterador": "pt:dre:412261:por"
+  }
+]

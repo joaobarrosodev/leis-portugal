@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "29.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 29.º\n\nSó poderão ser admitidos ao concurso os indivíduos que, sendo praças de outras polícias, da Guarda Nacional Republicana, da Guarda Fiscal ou de qualquer outro ramo das forças armadas ou que tendo já prestado serviço militar, reúnam as condições previstas pelo Regulamento do Corpo de Polícia de Segurança Pública em vigor na província.",
+    "depois": "###### Artigo 29.º\n\nSó poderão ser admitidos ao concurso os cabos auxiliares e os cabos auxiliares motoristas do Corpo de Polícia de Segurança Pública da Guiné e os guardas de outras polícias ou praças da Guarda Nacional Republicana, da Guarda Fiscal ou de qualquer ramo das forças armadas, no activo ou na disponibilidade, que reúnam as condições regulamentares.\n\n> Alterado pelo/a [Decreto n.º 49227](https://diariodarepublica.pt/dr/detalhe/decreto/49227-1969-214915), publicado em 1969-09-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:576568:por",
+    "alterador": "pt:dre:214915:por"
+  }
+]

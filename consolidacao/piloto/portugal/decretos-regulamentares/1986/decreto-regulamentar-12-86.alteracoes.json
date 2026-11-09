@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nOs dirigentes, o pessoal de investigação criminal e os demais funcionários que exercem funções nos serviços da Polícia Judiciária que têm a seu cargo a prevenção e a investigação da criminalidade de alta violência praticada por grupos armados e dos crimes referidos nas alíneas f) a m) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 458/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1982-380091), de 24 de Novembro, têm direito, doze vezes por ano, a um subsídio mensal pelo risco acrescido dos montantes seguintes:\n\na) Pessoal dirigente - 8500$00;\n\nb) Inspector-coordenador e inspector - 8000$00;\n\nc) Subinspector - 7500$00;\n\nd) Agente e agente-motorista - 7000$00;\n\ne) Restante pessoal - 5000$00.",
+    "depois": "###### Artigo 1.º\n\nOs dirigentes, o pessoal de investigação criminal e os demais funcionários que exercem funções nos serviços da Polícia Judiciária que têm a seu cargo a prevenção e a investigação da criminalidade de alta violência praticada por grupos armados e dos crimes referidos nas alíneas f) a m) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 458/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1982-380091), de 24 de Novembro, têm direito, doze vezes por ano, a um subsídio mensal pelo risco acrescido dos montantes seguintes:\n\na) Pessoal dirigente - 13690$00;\n\nb) Inspector-coordenador e inspector - 12880$00;\n\nc) Subinspector - 12080$00;\n\nd) Agente ou agente-motorista - 11270$00;\n\ne) Restante pessoal - 8050$00.\n\n> Alterado pelo/a [Decreto n.º 23/89](https://diariodarepublica.pt/dr/detalhe/decreto/23-1989-609872), publicado em 1989-05-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:195072:por",
+    "alterador": "pt:dre:609872:por"
+  }
+]

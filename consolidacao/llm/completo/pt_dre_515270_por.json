@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:515270:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 6-I/2000): o «onde se lê» e o «deve ler-se» vêm só em tabela em imagem; não é possível identificar nem aplicar a rectificação.",
+  "instrucoes": [
+    "Alterador 1: rectificação de uma tabela que só vem em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

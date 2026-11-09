@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:391628:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto n.º 49343) altera a distribuição dos encargos do artigo 2.º indicando apenas os montantes de 1969 e 1970 e um § único, sem nova redação do artigo nem indicação do que sucede aos montantes dos anos anteriores; não é uma alteração textual que se possa aplicar com segurança.",
+  "instrucoes": [
+    "Artigo único do Decreto n.º 49343: altera a distribuição dos encargos do artigo 2.º (1969: 9139243$20; 1970: 1106756$20, acrescido do saldo) — não aplicado, por não ser uma alteração textual clara."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

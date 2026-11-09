@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:381316:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 115.º, alínea g): revoga o Decreto-Lei n.º 252/79 apenas 'na parte em que diz respeito à Direcção-Geral dos Serviços Prisionais'; revogação parcial por âmbito, sem alteração textual determinável do artigo único.",
+  "instrucoes": [
+    "Alterador 1, art. 115.º, g): revogação parcial por âmbito (DGSP) - não aplicada ao texto.",
+    "Restantes alíneas do art. 115.º: revogam outros diplomas - ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

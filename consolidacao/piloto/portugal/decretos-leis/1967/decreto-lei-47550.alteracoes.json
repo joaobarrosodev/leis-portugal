@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º\n\nAos militares a que se refere o artigo 4.º que forem julgados incapazes de todo o serviço será atribuída e paga pelos respectivos departamentos, a partir da data da homologação da decisão da junta competente, a pensão de reforma extraordinária ou de invalidez a que tiverem direito, calculada de harmonia com o disposto no [Decreto-Lei n.º 45684](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45684-1964-582656), de 27 de Abril de 1964, ou no [Decreto-Lei n.º 46046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46046-1964-535420), de 27 de Novembro de 1964, independentemente da conclusão do processo pela Caixa Geral de Aposentações.",
+    "depois": "###### Artigo 9.º\n\nAos militares a que se refere o artigo 4.º que forem julgados incapazes de todo o serviço será atribuída e paga pelos respectivos departamentos, a partir da data da homologação da decisão da junta competente, a pensão de reforma extraordinária ou de invalidez a que tiverem direito, calculada de harmonia com o disposto nos Decretos-Leis n.os 45684, de 27 de Abril de 1964, 46046, de 27 de Novembro de 1964, e 46564, de 1 de Outubro de 1965, independentemente da conclusão do processo pela Caixa Geral de Aposentações.\n\n> Alterado pelo/a [Decreto-Lei n.º 48338](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48338-1968-234535), publicado em 1968-04-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:504547:por",
+    "alterador": "pt:dre:234535:por"
+  }
+]

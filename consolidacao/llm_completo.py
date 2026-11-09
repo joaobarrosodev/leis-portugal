@@ -316,6 +316,9 @@ def _recolocar_assinaturas(consolidado) -> None:
             if antes and _NOMES.match(a.linhas[antes[-1]].strip()):
                 inicio = antes[-1]
             formulas = a.linhas[inicio:]
+            # só se há corpo antes e as fórmulas são curtas: senão é o corpo do artigo
+            if inicio == cheias[0] or sum(1 for l in formulas if l.strip()) > 12:
+                continue
             a.linhas = a.linhas[:inicio]
             if a.linhas and a.linhas[-1].strip():
                 a.linhas.append("")

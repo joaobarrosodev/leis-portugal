@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:508864:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - São devidas pela utilização das seguintes instalações do complexo desportivo do Jamor/Estádio Nacional as taxas que se indicam:\n\na) Campos relvados, pelo período de duas horas:\n\nDiurno:\n\n1) Equipas nacionais ... 25000$00\n\n2) Equipas estrangeiras ... 40000$00\n\nNocturno:\n\n1) Equipas nacionais ... 32500$00\n\n2) Equipas estrangeiras ... 55000$00\n\nb) Campos pelados, pelo período de duas horas:\n\n1) Equipas nacionais ... 15000$00\n\n2) Equipas estrangeiras ... 20000$00\n\nc) Pistas de atletismo em piso sintético:\n\n1) Para competições, por um período de quatro horas ... 7500$00\n\nd) Jogo/treino, campo relvado ... 35000$00\n\ne) Campos de ténis cobertos, pelo período de uma hora:\n\nDiurno ... 650$00\n\nNocturno ... 1250$00\n\nf) Campos de ténis descobertos, pelo período de uma hora:\n\nDiurno ... 450$00\n\nNocturno ... 1000$00\n\ng) Carreira de tiro:\n\n1) Por pessoa ... 250$00\n\nh) Tiro com arco:\n\nCampo relvado, pelo período de duas horas ... 5000$00\n\ni) Sauna:\n\n1) Por cada pessoa ... 600$00\n\n2) Por grupo até cinco pessoas ... 2500$00\n\nj) Banhos de imersão, pelo período de uma hora:\n\n1) Por grupo até cinco pessoas ... 3000$00\n\n2) Por grupo de mais de cinco até dez pessoas ... 4500$00\n\nl) Piscina, pelo período de uma hora:\n\n1) Por pessoa ... 250$00\n\n2) Por pista ... 1000$00\n\n3) Pela totalidade da piscina ... 5000$00\n\nm) Balneários:\n\n1) Por cada duche ... 100$00\n\n2) Por cada toalha ... 200$00\n\n2 - Por filmagens de carácter comercial nas instalações do complexo desportivo do Jamor/Estádio Nacional são devidas as seguintes taxas:\n\na) Filmagens de competições desportivas realizadas no estádio de honra e estádio de ténis:\n\n1) Entre as equipas nacionais e ou estrangeiras ... 150000$00\n\nb) Filmagens de competições desportivas realizadas noutras instalações ... 50000$00\n\nc) Outras filmagens de carácter publicitário ... 50000$00\n\n3 - As taxas referidas pelas alíneas a) e b) do n.º 1 incluem a utilização dos balneários, para duche, por parte dos elementos das respectivas equipas.\n\n3.º Sempre que as instalações a que se refere a presente portaria sejam utilizadas pelos utentes com idade igual ou superior a 60 anos, as taxas a cobrar nos termos da mesma serão reduzidas a 50%.\n\n§ único. A taxa reduzida referida neste número só é aplicável nos dias úteis.\n\n4.º A presente portaria produz efeitos 15 dias após a sua publicação.\n\nMinistério da Educação.\n\nAssinada em 14 de Janeiro de 1991.\n\nO Ministro da Educação, Roberto Artur da Luz Carneiro.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 771/91: aditado § único ao n.º 3.º da Portaria 91/91 (redução de 50% para maiores de 60 anos), que no texto atual está dentro da chave 3.º — inserido a seguir a esse parágrafo"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

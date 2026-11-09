@@ -1,0 +1,180 @@
+{
+  "id": "pt:dre:591283:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "1.º",
+      "epigrafe": "Natureza e atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Composição",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Natureza e atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Natureza",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Atribuições e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Serviços do Gabinete de Estudos, Planeamento e Controlo de Gestão",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Competências dos Serviços do Gabinete de Estudos, Planeamento e Controlo de Gestão",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Natureza",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Atribuições e estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Competências do director da Assessoria Jurídica",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Natureza",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Natureza e estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Natureza e atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "17.º-A",
+      "epigrafe": "Competências e estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Grupos de pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Quadros de pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Regime",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Carreira de coordenador",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Concursos pendentes",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Regime retributivo",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DRR 2/2007/M, art. 1.º: nova redação do artigo 3.º da orgânica (nova alínea b) RPL, renumeração das alíneas, n.º 2 alterado) — superada pela revogação do alterador 2.",
+    "DRR 2/2007/M, art. 2.º: aditado o artigo 17.º-A e alterações de capítulos — o 17.º-A fica depois revogado pelo alterador 2.",
+    "DRR 2/2007/M, art. 3.º: revoga normas do DRR 2/2005/M — outro diploma, ignorada.",
+    "DRR 2/2007/M, art. 5.º: republicação — não é instrução de alteração.",
+    "DRR 16/2008/M, art. 2.º, n.º 1: revoga o DRR 7/2005/M (com excepção dos mapas anexos) — todos os artigos do decreto (1.º a 3.º) e da orgânica anexa (1.º a 23.º e 17.º-A) ficam '(Revogado.)'. Nota: as chaves 1.º, 2.º e 3.º existem duas vezes no texto atual (decreto e orgânica anexa); dá-se um elemento para cada, ambos revogados.",
+    "DRR 16/2008/M, arts. 1.º e 3.º e orgânica anexa: aprovam nova orgânica autónoma — não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -43,7 +43,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 2 - O regime previsto no número anterior é aplicável aos casos de omissão de descrição predial, bem como aos de desactualização do registo por falta de trato sucessivo, desde que se verifique a falta de título que permita estabelecer ou restabelecer o trato sucessivo ou estabelecer um novo trato.
 
-> Alterado pelo/a [Decreto-Lei n.º 65/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2005-573314) e [Lei n.º 41/2005](https://diariodarepublica.pt/dr/detalhe/lei/41-2005-240377), publicado em 2005-08-03.
+> Alterado pelo/a [Decreto-Lei n.º 65/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2005-573314), publicado em 2005-03-15.
 
 ###### Artigo 2.º — Processo de suprimento de prova de factos sujeitos a registo
 
@@ -63,15 +63,15 @@ a) Declaração da junta de freguesia respectiva ou, no caso da ilha do Corvo, d
 
 b) Prova da inscrição matricial do prédio ou, no caso de não se encontrar inscrito, da apresentação do requerimento para tal inscrição, aplicando-se-lhe os prazos previstos nos artigos 31.º e 32.º do Código do Registo Predial.
 
-3 - (Eliminado.)
-
-> Alterado pelo/a [Decreto-Lei n.º 65/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2005-573314) e [Lei n.º 41/2005](https://diariodarepublica.pt/dr/detalhe/lei/41-2005-240377), publicado em 2005-08-03.
+> Alterado pelo/a [Lei n.º 41/2005](https://diariodarepublica.pt/dr/detalhe/lei/41-2005-240377), publicado em 2005-08-03.
 
 ###### Artigo 4.º — Citação e oposição
 
 1 - Após a apresentação do requerimento e cumpridas as formalidades prescritas no n.º 1 do artigo 117.º-D e no artigo 117.º-E do Código do Registo Predial, o conservador procede à citação dos eventuais titulares inscritos para, no prazo de 10 dias, deduzirem oposição.
 
-2 - Não sendo possível a citação referida no número anterior, o conservador promoverá a afixação de editais na conservatória e na Câmara Municipal, pelo prazo de 30 dias, convidando os interessados incertos a deduzirem oposição no prazo de 10 dias a contar do termo do prazo de afixação dos editais.
+2 - Não sendo possível a citação referida no número anterior, o conservador promove a afixação de editais na conservatória, na junta de freguesia e na câmara municipal respectivas, pelo prazo de 30 dias, convidando os interessados incertos a deduzirem oposição no prazo de 10 dias a contar do termo do prazo de afixação dos editais.
+
+> Alterado pelo/a [Decreto-Lei n.º 65/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2005-573314), publicado em 2005-03-15.
 
 ###### Artigo 5.º — Decisão
 
@@ -87,11 +87,15 @@ O registo é lavrado com base no despacho final do conservador, caso não tenha 
 
 ###### Artigo 7.º — Isenção emolumentar
 
-Gozam de isenção emolumentar o processo de suprimento da prova do registo referente aos prédios situados no município do Corvo, os documentos necessários para o instruir e o primeiro acto de registo a lavrar sobre cada um dos prédios cuja situação jurídica se pretende regularizar.
+Gozam de isenção emolumentar o processo de suprimento da prova de registo referente aos prédios situados nos municípios referidos no n.º 1 do artigo 1.º, os documentos necessários para o instruir e o primeiro acto de registo a lavrar sobre cada um dos prédios cuja situação jurídica se pretende regularizar.
 
-###### Artigo 8.º — Prazo de vigência
+> Alterado pelo/a [Lei n.º 41/2005](https://diariodarepublica.pt/dr/detalhe/lei/41-2005-240377), publicado em 2005-08-03.
 
-O regime constante do presente decreto-lei vigora pelo prazo de dois anos a contar da data de entrada em vigor.
+###### Artigo 8.º — Aplicação no tempo
+
+O regime constante do presente diploma vigora pelo prazo de cinco anos a contar da data a sua entrada em vigor.
+
+> Alterado pelo/a [Decreto-Lei n.º 65/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2005-573314), publicado em 2005-03-15.
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Nuno Albuquerque Morais Sarmento.
 

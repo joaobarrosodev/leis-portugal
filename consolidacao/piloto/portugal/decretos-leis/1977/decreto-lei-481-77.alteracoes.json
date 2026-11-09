@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º\n\n1 - O pessoal contratado como docente das disciplinas clínicas, salvo nos casos previstos no número seguinte, passará a exercer, enquanto se mantiver nessa docência, funções hospitalares na correspondente unidade ou estabelecimentos previstos no artigo 5.º, nos termos do artigo 82.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, sendo-lhe aplicável o regime dos artigos 8.º e 12.º do [Decreto-Lei n.º 182/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1977-301226), de 4 de Maio, ficando à responsabilidade do MEIC o pagamento das respectivas retribuições desde que os mesmos sejam reconhecidos como excedentários por despacho do Secretário de Estado da Saúde.\n\n2 - O pessoal docente que exerça funções de chefia noutras unidades hospitalares e cuja permanência à frente dos mesmos serviços seja considerada necessária ou conveniente, por despacho do Secretário de Estado da Saúde, poderá manter-se transitoriamente e não para além do período de instalação da FCM, em acumulação, no exercício de ambos os cargos, sendo-lhe aplicável, em tal caso, o regime do artigo 12.º do [Decreto-Lei n.º 182/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1977-301226).\n\n3 - O pessoal de outros estabelecimentos que, nos termos de acordos previstos no artigo 6.º, venha a exercer funções docentes terá direito a 30% do vencimento da sua categoria no estabelecimento em que preste serviço.",
+    "depois": "###### Artigo 13.º\n\n1 - (Revogado.)\n\n2 - O pessoal docente que exerça funções de chefia noutras unidades hospitalares e cuja permanência à frente dos mesmos serviços seja considerada necessária ou conveniente, por despacho do Secretário de Estado da Saúde, poderá manter-se transitoriamente e não para além do período de instalação da FCM, em acumulação, no exercício de ambos os cargos, sendo-lhe aplicável, em tal caso, o regime do artigo 12.º do [Decreto-Lei n.º 182/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1977-301226).\n\n3 - O pessoal de outros estabelecimentos que, nos termos de acordos previstos no artigo 6.º, venha a exercer funções docentes terá direito a 30% do vencimento da sua categoria no estabelecimento em que preste serviço.\n\n> Alterado pelo/a [Decreto-Lei n.º 172/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1981-578335), publicado em 1981-06-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:305456:por",
+    "alterador": "pt:dre:578335:por"
+  }
+]

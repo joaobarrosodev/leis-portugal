@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nOs quadros de pessoal das Escolas de Enfermagem de Artur Ravara, Beja, Bissaia Barreto, Bragança, Calouste Gulbenkian de Braga, Calouste Gulbenkian de Lisboa, D. Ana Guedes, Dr. Ângelo da Fonseca, Dr. Lopes Dias, Faro, Guarda, Leiria, Portalegre, Santarém, São João, São João de Deus, Viana do Castelo, Vila Real e Viseu passam a ser os constantes do anexo ao presente decreto-lei, que dele faz parte integrante.",
+    "depois": "###### Artigo 1.º\n\nOs quadros de pessoal das Escolas de Enfermagem de Artur Ravara, Beja, Bissaia Barreto, Bragança, Calouste Gulbenkian de Braga, Calouste Gulbenkian de Lisboa, D. Ana Guedes, Dr. Ângelo da Fonseca, Dr. Lopes Dias, Faro, Francisco Gentil, Guarda, Leiria, Portalegre, Santarém, São João, São João de Deus, Viana do Castelo, Vila Real e Viseu passam a ser os constantes ao anexo ao presente decreto-lei, que dele faz parte integrante.\n\n> Alterado pelo/a [Decreto-Lei n.º 290/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1991-680633), publicado em 1991-08-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:285477:por",
+    "alterador": "pt:dre:680633:por"
+  }
+]

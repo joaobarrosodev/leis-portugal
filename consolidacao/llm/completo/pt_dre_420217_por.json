@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:420217:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Todos os alteradores (DRR 2/91, 9/94/A, 11/95/A e Portaria 987/99) alteram ou substituem o quadro de pessoal anexo, que só vem em imagem; nenhum altera o texto dos artigos 1.º ou 2.º.",
+  "instrucoes": [
+    "Alterador 1 (DRR 2/91), artigo único: altera o quadro pelo mapa I; mapa só em imagem, não aplicado.",
+    "Alterador 2 (DRR 9/94/A), artigo único: altera o quadro pelo mapa anexo; só em imagem, não aplicado.",
+    "Alterador 3 (DRR 11/95/A), artigo único: substitui o quadro na parte da docência de enfermagem pelo quadro I; só em imagem, não aplicado.",
+    "Alterador 4 (Portaria 987/99): substitui o quadro pelo mapa anexo; só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

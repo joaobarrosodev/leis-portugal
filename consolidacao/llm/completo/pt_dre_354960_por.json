@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:354960:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O Decreto n.º 1/2002 (art. 1.º) e o Decreto n.º 30/2017 (art. 2.º) alteram o fim de parcelas (120 ha; 23,91 ha e 71,80 ha) da área excluída pelo Decreto n.º 38/88, por remissão a plantas anexas, sem dar nova redação a qualquer artigo do original; não são alterações textuais.",
+  "instrucoes": [
+    "Decreto n.º 1/2002, art. 1.º: altera a finalidade de 120 ha da área excluída para golfe; não textual.",
+    "Decreto n.º 30/2017, art. 2.º: altera o fim de 23,91 ha e 71,80 ha para unidade agropecuária; não textual. Restantes artigos dizem respeito a outras áreas e a outros decretos (25/2004, 27/2007)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

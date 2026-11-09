@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:197491:por",
+  "artigos": [
+    {
+      "chave": "8.º-A",
+      "epigrafe": "Descontos para a ADSE ou para sistemas de assistência na doença",
+      "texto": "1 - Os descontos para a ADSE ou para sistemas de assistência na doença no âmbito da Administração Pública efectuados pelos beneficiários incidem sobre a remuneração base paga, nos termos do n.º 3 do artigo 70.º da Lei n.º 12-A/2008, de 27 de Fevereiro, alterada pelas Leis n.os 64-A/2008, de 31 de Dezembro, 3-B/20010, de 24 de Abril, 34/2010, de 2 de Setembro, e 55-A/2010, de 31 de Dezembro.\n\n2 - (Revogado.)",
+      "alterador": 4
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 (Lei 3-B/2010) art. 16.º: aditado artigo 8.º-A - já presente no texto atual.",
+    "Alt.2 (DL 29-A/2011) art. 84.º: nova redação do n.º 1 do artigo 8.º-A, n.º 2 '...' - aplicada.",
+    "Alt.3 (Lei 64-B/2011) art. 189.º: só menciona o original numa referência - nada a aplicar.",
+    "Alt.4 (DL 105/2013) art. 6.º, 1: revogado o n.º 2 do artigo 8.º-A - aplicado; restantes artigos alteram DL 118/83, 158/2005, 167/2005, 36/2013 - ignorados.",
+    "Alt.5 (Lei 30/2014) e Alt.6 (DL 81/2015): alteram DL 118/83, 158/2005 e 167/2005 - não são do original, ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

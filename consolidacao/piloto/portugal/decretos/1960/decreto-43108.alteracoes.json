@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nEste empréstimo vencerá um juro de 2,5 por cento ao ano e será levantado da seguinte maneira: 44000000$00 em 1960 e 22000000$00 em cada um dos anos de 1961 a 1964.",
+    "depois": "###### Artigo 2.º\n\nEste empréstimo vencerá o juro de 2,5 por cento ao ano e será levantado da seguinte maneira: 44000000$00 em 1960; 22000000$00 em 1961; 44000000$00 em 1962, e 22000000$00 em 1963.\n\n> Alterado pelo/a [Decreto n.º 44465](https://diariodarepublica.pt/dr/detalhe/decreto/44465-1962-162607), publicado em 1962-07-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:501237:por",
+    "alterador": "pt:dre:162607:por"
+  }
+]

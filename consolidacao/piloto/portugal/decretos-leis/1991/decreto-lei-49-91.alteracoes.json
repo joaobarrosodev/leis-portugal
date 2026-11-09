@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Âmbito da reavaliação\n\n1 - Os sujeitos passivos de IRC e de IRS podem reavaliar os elementos do seu activo imobilizado corpóreo afectos ao exercício de uma actividade comercial, industrial ou agrícola existentes e em utilização na data da reavaliação.\n\n2 - Exceptuam-se do disposto no número anterior:\n\na) Os elementos complementares completamente reintegrados na data da reavaliação e já reavaliados ao abrigo dos n.os 3 dos artigos 2.os dos Decretos-Leis n.os [219/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1982-391841), de 2 de Junho, [399-G/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-g-1984-621941), de 28 de Dezembro, [118-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-b-1986-168040), de 27 de Maio, e [111/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1988-286348), de 2 de Abril, ou do n.º 2 do artigo 5.º do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril;\n\nb) Os elementos de reduzido valor cujo custo de aquisição ou de produção tenha sido deduzido num só exercício, nos termos do artigo 31.º do Código do IRC.\n\n3 - A reavaliação deve reportar-se a 31 de Dezembro de 1990 ou, se o exercício económico não coincidir com o ano civil nos termos previstos nos n.os 2 e 3 do artigo 7.º do Código do IRC, ao fim do período de tributação em curso à data da publicação do presente diploma e constar do balanço referente à respectiva data ou do balanço do período de tributação seguinte, no caso de os sujeitos passivos já terem procedido ao encerramento das contas ou não poderem efectuar a reavaliação em tempo útil.",
+    "depois": "###### Artigo 1.º — Âmbito da reavaliação\n\n1 - Os sujeitos passivos de IRC e de IRS podem reavaliar os elementos do seu activo imobilizado corpóreo afectos ao exercício de uma actividade comercial, industrial ou agrícola existentes e em utilização na data da reavaliação.\n\n2 - Exceptuam-se do disposto no número anterior:\n\na) Os elementos complementares completamente reintegrados na data da reavaliação e já reavaliados ao abrigo dos n.os 3 dos artigos 2.os dos Decretos-Leis n.os [219/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1982-391841), de 2 de Junho, [399-G/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-g-1984-621941), de 28 de Dezembro, [118-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-b-1986-168040), de 27 de Maio, e [111/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1988-286348), de 2 de Abril, ou do n.º 2 do artigo 5.º do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril;\n\nb) Os elementos de reduzido valor cujo custo de aquisição ou de produção tenha sido deduzido num só exercício, nos termos do artigo 31.º do Código do IRC.\n\n3 - A reavaliação deve reportar-se a 31 de Dezembro de 1990 ou, se o exercício económico não coincidir com o ano civil, nos termos previstos nos n.os 2 e 3 do artigo 7.º do Código do IRC:\n\na) À data do início do período de tributação em curso em 31 de Dezembro de 1990, se o respectivo termo ocorrer no 2.º semestre de 1991:\n\nb) À data do termo do período de tributação em curso em 31 de Dezembro de 1990, se o respectivo termo ocorrer no 1.º semestre de 1991.\n\n4 - A reavaliação deve constar do balanço referente ao termo do exercício em que se integra a data a que se reporta a reavaliação ou do balanço relativo ao termo do período de tributação seguinte, no caso de os sujeitos passivos já terem procedido ao encerramento das contas ou não puderem efectuar a reavaliação em tempo útil.\n\n> Alterado pelo/a [Decreto-Lei n.º 360/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1991-292879), publicado em 1991-09-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:508453:por",
+    "alterador": "pt:dre:292879:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — Regime fiscal das reintegrações\n\n1 - O regime fiscal das reintegrações dos elementos reavaliados ao abrigo deste diploma regular-se-á pelas disposições sobre reintegrações e amortizações do Código do IRC e pelo [Decreto Regulamentar n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1990-333532), de 12 de Janeiro.\n\n2 - As reintegrações dos elementos do activo imobilizado só poderão calcular-se sobre os valores resultantes da reavaliação prevista neste diploma a partir do exercício de 1991, inclusive.",
+    "depois": "###### Artigo 7.º — Regime fiscal das reintegrações\n\n1 - O regime fiscal das reintegrações dos elementos reavaliados ao abrigo deste diploma regular-se-á pelas disposições sobre reintegrações e amortizações do Código do IRC e pelo [Decreto Regulamentar n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1990-333532), de 12 de Janeiro.\n\n2 - As reintegrações dos elementos do activo imobilizado só poderão calcular-se sobre os valores resultantes da reavaliação prevista neste diploma nos seguintes termos:\n\na) Para os sujeitos passivos cujo período de tributação coincida com o ano civil, a partir do exercício de 1991, inclusive;\n\nb) Para os sujeitos passivos cujo período de tributação em curso em 31 de Dezembro de 1990 termine no 2.º semestre de 1991, a partir deste mesmo período inclusive;\n\nc) Para os sujeitos passivos cujo período de tributação em curso em 31 de Dezembro de 1990 termine no 1.º semestre de 1991, a partir do período de tributação imediatamente seguinte, inclusive.\n\n> Alterado pelo/a [Decreto-Lei n.º 360/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1991-292879), publicado em 1991-09-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:508453:por",
+    "alterador": "pt:dre:292879:por"
+  }
+]

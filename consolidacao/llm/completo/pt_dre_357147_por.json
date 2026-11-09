@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:357147:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 4.º, alínea a): revoga o DLR 12/93/A apenas 'no que respeita às marinas sob jurisdição das administrações portuárias' e com a entrada em vigor de outros regulamentos; é uma revogação parcial quanto ao âmbito de aplicação, não textual, que não permite revogar artigos determinados.",
+  "instrucoes": [
+    "Alterador 1, art. 4.º, a): revogação parcial por âmbito (marinas sob jurisdição das administrações portuárias) - não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

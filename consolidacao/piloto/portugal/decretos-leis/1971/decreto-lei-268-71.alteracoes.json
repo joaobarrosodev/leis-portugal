@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1. O Fundo será gerido por uma comissão administrativa, constituída pelo presidente, que será o presidente da Junta Nacional de Fomento das Pescas, e por dois vogais, que representarão, respectivamente, o Ministro das Finanças e o Ministro da Marinha.\n\n2. A forma de substituição do presidente da comissão será determinada por despacho conjunto dos Ministros das Finanças e da Marinha e a de cada um dos vogais por despacho do Ministro que representar.",
+    "depois": "###### Artigo 3.º\n\n1. O Fundo será gerido por uma comissão administrativa, constituída pelo presidente, que será escolhido pelos Ministros das Finanças e da Marinha, e por dois vogais, que representarão, respectivamente, o Ministro das Finanças e o Ministro da Marinha.\n\n2. A forma de substituição do presidente da comissão será determinada por despacho conjunto dos Ministros das Finanças e da Marinha e a de cada um dos vogais por despacho do Ministro que representar.\n\n> Alterado pelo/a [Decreto-Lei n.º 599/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/599-1971-166044), publicado em 1971-12-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:643293:por",
+    "alterador": "pt:dre:166044:por;pt:dre:296378:por"
+  },
+  {
+    "artigo": "19.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 19.º\n\n1. Os limites a observar nos empréstimos e avales a conceder pelo Fundo para a aquisição ou construção de navios e outros empreendimentos, que não poderão em qualquer caso exceder 75 por cento do custo da aquisição ou construção, serão fixados anualmente pelos Ministros das Finanças e da Marinha, sobre proposta da comissão administrativa.\n\n2. Na fixação desses limites atender-se-á ao facto de os navios a adquirir ou a construir serem ou não de origem nacional.",
+    "depois": "###### Artigo 19.º\n\n1 - Os empréstimos e avales a conceder pelo Fundo não poderão exceder 75% do valor dos empreendimentos ou do custo de aquisição ou construção de navios.\n\n2 - Os empréstimos poderão, no entanto, atingir o valor total dos empreendimentos ou da aquisição ou construção de navios quando os mutuários sejam cooperativas ou empresas cuja actividade seja exercida directamente pelos financiados e satisfaçam os requisitos referidos nas Portarias n.os [9/73](https://diariodarepublica.pt/dr/detalhe/portaria/9-1973-288626) e [51/73](https://diariodarepublica.pt/dr/detalhe/portaria/51-1973-683268), respectivamente, de 6 e 25 de Janeiro.\n\n3 - Na determinação do montante dos empréstimos e avales a conceder deve ser tomado em consideração serem ou não de origem nacional os navios a adquirir ou a construir.\n\n> Alterado pelo/a [Decreto-Lei n.º 103/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1978-296378), publicado em 1978-05-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:643293:por",
+    "alterador": "pt:dre:166044:por;pt:dre:296378:por"
+  }
+]

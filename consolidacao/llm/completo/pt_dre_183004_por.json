@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:183004:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - A taxa de juro a praticar pela Caixa Geral de Depósitos relativamente a esta linha de crédito será equivalente à taxa legal máxima em vigor para operações de prazo idêntico, deduzida de 15% da taxa contratual, com arredondamento para o quarto mais próximo, e de uma bonificação a suportar pela CGD pelo valor e nas condições a estabelecer no protocolo.\n\n2 - As restantes condições da linha de crédito serão idênticas às praticadas por esta instituição relativamente às restantes linhas de crédito aos municípios.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: altera o Decreto-Lei n.º 60/85, outro diploma; ignorado.",
+    "Alterador 1, artigo 2.º: nova redação do n.º 1 do artigo 3.º; aplicada, n.º 2 mantido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

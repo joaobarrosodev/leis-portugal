@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:566189:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A retificação incide sobre a coluna «Categoria» do quadro anexo, que não consta do texto atual (só o artigo único); não há artigo a alterar.",
+  "instrucoes": [
+    "Alterador 1: retifica a categoria no quadro anexo — anexo fora do texto atual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

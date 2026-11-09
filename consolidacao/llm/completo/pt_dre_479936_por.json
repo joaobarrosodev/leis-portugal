@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:479936:por",
+  "artigos": [
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "O G. E. P. T. poderá contratar ou ajustar com entidades ou indivíduos a ele estranhos a realização de estudos ou trabalhos e elaboração de pareceres, anteprojectos ou projectos, em regime de prestação eventual de serviços ou tarefa.\n\n§ 1.º Em casos cuja natureza ou urgência o aconselhem poderá ser autorizada a efectivação dos contratos ou ajustes referidos no corpo do artigo com dispensa da realização de concurso, público ou limitado, e da celebração de contrato escrito.\n\n§ 2.º A realização das despesas referidas no corpo do artigo será regulada pelas disposições aplicáveis do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, nomeadamente quanto a competências e limites, os quais serão os constantes dos seus artigos 10.º ou 11.º, consoante os casos.",
+      "alterador": 1
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "A aplicação das receitas referidas no artigo anterior será feita em cada ano mediante orçamentos aprovados pelo Ministro das Comunicações e visados pelo Ministro das Finanças.\n\nNo orçamento do Ministério das Comunicações inscrever-se-ão por totais as importâncias das respectivas classes de despesa.\n\n§ 1.º O presidente tem competência para autorizar a realização de despesas até à importância de 5000$00, podendo delegá-la, no todo ou em parte, no director-delegado ou num dos vogais do conselho directivo. Aquela competência abrange as despesas referidas no artigo 10.º do presente diploma.\n\n§ 2.º As receitas do G. E. P. T. serão entregues nos cofres do Estado e geridas pelo conselho directivo, com atribuições de conselho administrativo.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º do DL 44123: autonomia administrativa e financeira, norma autónoma; não altera o texto",
+    "Art. 2.º: § único do artigo 10.º substituído por novo § 1.º e aditado § 2.º; corpo mantido ('...')",
+    "Art. 2.º: nova redação do artigo 13.º e seus parágrafos (corpo, § 1.º e § 2.º); os antigos §§ 3.º e 4.º não constam da nova redação e deixam de existir"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

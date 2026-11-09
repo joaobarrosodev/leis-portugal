@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:693413:por",
+  "removidos": [],
+  "nao_aplicavel": null,
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "alterador": 2,
+      "texto": "Os senados dos Estudos Gerais são constituídos:\n\na) Pelo reitor, que é presidente nato;\n\nb) Pelo vice-reitor;\n\nc) Pelo delegado dos professores catedráticos do curso de Ciências Pedagógicas;\n\nd) Pelo delegado dos professores catedráticas dos cursos de professor adjunto do 8.º e 11.º grupos do ensino técnico profissional;\n\ne) Pelo delegado dos professores catedráticos do curso médico-cirúrgico;\n\nf) Pelo delegado dos professores catedráticas dos cursos de Engenharia;\n\ng) Pelo delegado dos professores catedráticos dos cursos de Agronomia e de Silvicultura;\n\nh) Pelo delegado dos professores catedráticos do curso de Medicina Veterinária;\n\ni) Por um representante dos professores extraordinários, encarregados de curso e incumbidos de regência dos Estudos Gerais;\n\nj) Por um representante dos assistentes dos Estudos Gerais.\n\n§ único. Na falta de professores catedráticos, os vogais referidos nas alíneas c) a h) serão substituídos pelo elemento docente mais categorizado do respectivo curso e, havendo vários dessa categoria, pelo mais antigo."
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "alterador": 4,
+      "texto": "Os cargos docentes, técnicos e administrativos poderão ser desempenhados, em comissão, por pessoal dos serviços do Ministério da Educação Nacional, em qualquer situação.\n\n§ 1.º Os cargos docentes e técnicos poderão ainda ser desempenhados, em comissão, por pessoal dos serviços de outros Ministérios, em qualquer situação.\n\n§ 2.º O serviço em comissão considera-se, para todos os efeitos legais, prestado nos serviços a que o pessoal pertencer."
+    }
+  ],
+  "instrucoes": [
+    "Alt. 1 (DL 46255, art. 3.º): nova redação do art. 11.º (substituída depois); arts. 1.º, 2.º e 4.º não textuais.",
+    "Alt. 2 (DL 47002): nova redação do art. 4.º (alíneas a) a j) e § único), aplicada.",
+    "Alt. 3 (DL 47253): nova redação do art. 11.º com §§ 1.º e 2.º (substituída pelo alt. 4).",
+    "Alt. 4 (DL 49274): nova redação do art. 11.º, aplicada.",
+    "Alt. 5 (DL 306/72): norma interpretativa; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

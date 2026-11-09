@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:406326:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Portaria 51/2018, arts. 2.º e 5.º: substitui o conjunto de documentos do dossier fiscal pelo Anexo I da Portaria 51/2018 (só em imagem) e revoga o Anexo I da Portaria 92-A/2011; o anexo não consta dos artigos do texto atual e o novo só vem em imagem, por isso não foi aplicado.",
+  "instrucoes": [
+    "Portaria 51/2018, art. 2.º: documentos do dossier fiscal passam a ser os do novo Anexo I (só em imagem); não aplicada.",
+    "Portaria 51/2018, art. 5.º: revoga o Anexo I da Portaria 92-A/2011; anexo fora dos artigos, não aplicada.",
+    "Portaria 51/2018, arts. 1.º, 3.º, 4.º e 6.º: objeto, aprovação de novos modelos próprios, disposições transitórias e vigência; não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

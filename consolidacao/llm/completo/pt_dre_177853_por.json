@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:177853:por",
+  "artigos": [
+    {
+      "chave": "31.º",
+      "epigrafe": "Instrumentos acústicos e capacetes de protecção",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DR 59/86, art. 1.º: nova redação de artigos do Código da Estrada (outro diploma): ignorado",
+    "Art. 3.º: revoga o art. 1.º do DR 69/85 na parte que se refere aos arts. 31.º e 38.º do Código da Estrada: chaves 31.º e 38.º revogadas; 54.º mantém-se",
+    "Art. 4.º: entrada em vigor/repristinação, não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

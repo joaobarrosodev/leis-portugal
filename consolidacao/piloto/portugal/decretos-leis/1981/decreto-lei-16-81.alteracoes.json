@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1 - As mercadorias que sejam objecto de pequenas remessas sem carácter comercial expedidas do estrangeiro por um particular com destino a um outro particular que se encontre no território aduaneiro nacional beneficiam da franquia de direitos de importação nas condições previstas por este decreto-lei.\n\n2 - Para efeitos do n.º 1, entende-se por:\n\na) «Pequenas remessas sem carácter comercial» as remessas que simultaneamente:\n\nTenham um carácter ocasional;\n\nContenham exclusivamente mercadorias reservadas ao uso pessoal ou familiar dos destinatários, não representando essas mercadorias pela sua natureza ou quantidade qualquer preocupação de ordem comercial;\n\nSejam constituídas por mercadorias cujo valor global, incluindo o dos produtos visados no artigo 2.º, não ultrapasse 30 unidades de conta europeias;\n\nSejam enviadas pelo expedidor ao destinatário sem que este tenha que efectuar qualquer pagamento;\n\nb) «Direitos de importação», tanto os direitos aduaneiros como as taxas de efeito equivalente.",
+    "depois": "###### Artigo 1.º\n\n1 - As mercadorias que sejam objecto de pequenas remessas sem carácter comercial expedidas do estrangeiro por um particular com destino a um outro particular que se encontre no território aduaneiro nacional beneficiam da franquia de direitos de importação nas condições previstas por este decreto-lei.\n\n2 - Para efeitos do n.º 1, entende-se por:\n\na) «Pequenas remessas sem carácter comercial» as remessas que simultaneamente:\n\nTenham um carácter ocasional;\n\nContenham exclusivamente mercadorias reservadas ao uso pessoal ou familiar dos destinatários, não representando essas mercadorias pela sua natureza ou quantidade qualquer preocupação de ordem comercial;\n\nSejam constituídas por mercadorias cujo valor global, incluindo o dos produtos visados no artigo 2.º, não ultrapasse 35 unidades de conta europeias;\n\nSejam enviadas pelo expedidor ao destinatário sem que este tenha de efectuar qualquer pagamento;\n\nb) «Direitos de importação», tanto os direitos aduaneiros como as taxas de efeito equivalente.\n\n> Alterado pelo/a [Decreto-Lei n.º 324/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1982-397913), publicado em 1982-08-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:389874:por",
+    "alterador": "pt:dre:397913:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 5.º\n\nA concessão de novas franquias e a alteração das existentes, no âmbito deste decreto-lei, serão objecto de portaria do Ministro de Estado e das Finanças e do Plano.\n\n> Aditado pelo/a [Decreto-Lei n.º 324/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1982-397913), publicado em 1982-08-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:389874:por",
+    "alterador": "pt:dre:397913:por"
+  }
+]

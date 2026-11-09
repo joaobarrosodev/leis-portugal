@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:571200:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 n.º 2.º adita o anexo IV, cujo quadro só vem em imagem (e não há artigo do texto atual com essa chave); alterador 2 n.º 2.º revoga os anexos III e IV, que não constam do texto atual por artigos. O alterador 1 n.º 1.º e o alterador 2 n.º 1.º não alteram o texto do original (alteram a Portaria n.º 432/96 / fixam relação em tabelas próprias).",
+  "instrucoes": [
+    "Alt. 1, 1.º: altera a Portaria n.º 432/96 — ignorado",
+    "Alt. 1, 2.º: adita anexo IV com quadro em imagem — não aplicado",
+    "Alt. 2, 1.º: relação área/técnico em tabelas do próprio alterador — não é instrução textual ao original",
+    "Alt. 2, 2.º: revoga anexos III e IV — não constam como artigos do texto atual; não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

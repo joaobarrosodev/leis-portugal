@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:275862:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 197/2003), art. 1.º: substitui o anexo (CAE - Rev. 2) pela CAE - Rev. 2.1, cujo texto só vem como tabela em imagem/PDF no documento original; o anexo não consta do texto atual por artigos. Não aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: substituição do anexo pela CAE - Rev. 2.1 — anexo só em imagem, não aplicada (ver nao_aplicavel).",
+    "Alterador 1, art. 2.º: norma própria do DL 197/2003 sobre o âmbito da CAE - Rev. 2.1, sem alteração textual ao original.",
+    "Alterador 2 (DR 61/2007), art. 1.º: mera remissão para a CAE - Rev. 2, sem instrução de alteração."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

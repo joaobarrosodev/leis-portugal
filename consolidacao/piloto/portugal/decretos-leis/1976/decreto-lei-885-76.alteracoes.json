@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nConstituem receita do Instituto dos Cereais:\n\na) A importância resultante da cobrança aos industriais descascadores de 300$00 por tonelada de arroz de produção nacional por eles adquirido à lavoura ou ao Instituto dos Cereais;\n\nb) A importância de 300$00 por tonelada de arroz estrangeiro, que aquele organismo fará acrescer aos custos de importação, para efeito da cobertura das despesas realizadas com a prestação dos respectivos serviços de compra.",
+    "depois": "###### Artigo 1.º\n\nConstituem receita da Empresa Pública de Abastecimento de Cereais - EPAC:\n\na) A importância resultante da cobrança da taxa, a fixar por despacho conjunto dos Secretários de Estado do Orçamento, do Comércio Interno e do Comércio e Indústrias Agrícolas, incidente sobre cada tonelada de arroz de produção nacional adquirido pelos industriais descascadores à lavoura ou à Empresa Pública de Abastecimento de Cereais - EPAC;\n\nb) A importância resultante da cobrança da taxa, fixada nos termos da alínea anterior, incidente sobre cada tonelada de arroz estrangeiro, que aquele organismo fará acrescer aos custos de importação, para efeito da cobertura das despesas realizadas com a prestação dos respectivos serviços de compra.\n\n> Alterado pelo/a [Decreto-Lei n.º 85/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1980-681624), publicado em 1980-04-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:416413:por",
+    "alterador": "pt:dre:681624:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nPor portaria dos Secretários de Estado do Orçamento, do Comércio Interno e do Comércio e Indústrias Agrícolas poderão ser fixados ou modificados em cada campanha, sempre que se considere conveniente, os diferenciais de compensação de preços a pagar ou a receber pelos industriais descascadores, por tonelada de arroz em casca da produção nacional por eles adquirido à lavoura ou ao Instituto dos Cereais.",
+    "depois": "###### Artigo 2.º\n\nPor portaria dos Ministros das Finanças e do Plano, da Agricultura e Pescas e do Comércio e Turismo poderão ser fixados ou modificados em cada campanha, sempre que se considere conveniente, os diferenciais de compensação de preços a pagar ou a receber pelos industriais descascadores por tonelada de arroz em casca da produção nacional por eles adquirido à lavoura ou à Empresa Pública de Abastecimento de Cereais - EPAC.\n\n> Alterado pelo/a [Decreto-Lei n.º 85/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1980-681624), publicado em 1980-04-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:416413:por",
+    "alterador": "pt:dre:681624:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1. Sempre que as condições de produção de arroz nacional o aconselhem, poderão ser estabelecidas no continente bonificações regionais e regulada a forma do seu pagamento, por despacho conjunto dos Secretários de Estado do Orçamento, do Comércio Interno e do Comércio e Indústrias Agrícolas.\n\n2. A importância correspondente à distribuição do encargo decorrente do pagamento da bonificação, referida no número anterior, pela totalidade do arroz em casca da produção nacional, a liquidar ao Instituto dos Cereais pelos industriais descascadores, será fixada por despacho conjunto dos Secretários de Estado ali indicados.\n\n3. A eventual diferença entre as quantias despendidas e arrecadadas pelo Instituto dos Cereais na operação a que se refere este preceito constitui encargo ou receita do Fundo de Abastecimento.",
+    "depois": "###### Artigo 4.º\n\n1. Sempre que as condições de produção de arroz nacional o aconselhem, poderão ser estabelecidas no continente bonificações regionais e regulada a forma do seu pagamento, por despacho conjunto dos Secretários de Estado do Orçamento, do Comércio Interno e do Comércio e Indústrias Agrícolas.\n\n2 - A importância correspondente à distribuição do encargo decorrente do pagamento da bonificação, referida no número anterior, pela totalidade do arroz em casca da produção nacional a liquidar à Empresa Pública de Abastecimento de Cereais - EPAC pelos industriais descascadores será fixada por despacho conjunto dos Secretários de Estado ali indicados.\n\n3 - A eventual diferença entre as quantias despendidas e arrecadadas pela Empresa Pública de Abastecimento de Cereais - EPAC na operação a que se refere este preceito constitui encargo ou receita do Fundo de Abastecimento.\n\n> Alterado pelo/a [Decreto-Lei n.º 85/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1980-681624), publicado em 1980-04-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:416413:por",
+    "alterador": "pt:dre:681624:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\nConstituem encargo ou receita do Fundo de Abastecimento:\n\na) As diferenças entre os custos de importação do arroz adquirido pelo Instituto dos Cereais, acrescidos da importância de 300$00 por tonelada, a que se refere o artigo 1.º, e os respectivos preços de venda;\n\nb) O saldo dos diferenciais de compensação de preços a que se refere o artigo 2.º;\n\nc) As bonificações referidas nos artigos 3.º e 4.º",
+    "depois": "###### Artigo 5.º\n\nConstituem encargo ou receita do Fundo de Abastecimento:\n\na) As diferenças entre os custos de importação do arroz adquirido pela Empresa Pública de Abastecimento de Cereais - EPAC, acrescidos da taxa cobrada por cada tonelada, nos termos do disposto na alínea b) do artigo 1.º, e os preços de venda.\n\nb) O saldo dos diferenciais de compensação de preços a que se refere o artigo 2.º;\n\nc) As bonificações referidas nos artigos 3.º e 4.º\n\n> Alterado pelo/a [Decreto-Lei n.º 85/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1980-681624), publicado em 1980-04-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:416413:por",
+    "alterador": "pt:dre:681624:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\n1. Por despacho dos Secretários de Estado do Orçamento, do Comércio Interno e do Comércio e Indústrias Agrícolas serão fixadas as bonificações a conceder por tonelada de arroz existente na posse dos fabricantes e empacotadores, à data da publicação da portaria que, ao abrigo do disposto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 609-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/609-a-1975-666720), de 8 de Novembro, estabeleça os preços do arroz branqueado para a presente campanha, constituindo as mesmas encargo do Fundo de Abastecimento.\n\n2. As referidas entidades declararão ao Instituto dos Cereais, até dez dias após a publicação da portaria mencionada no número anterior, as suas existências na mesma data.",
+    "depois": "###### Artigo 6.º\n\n1. Por despacho dos Secretários de Estado do Orçamento, do Comércio Interno e do Comércio e Indústrias Agrícolas serão fixadas as bonificações a conceder por tonelada de arroz existente na posse dos fabricantes e empacotadores, à data da publicação da portaria que, ao abrigo do disposto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 609-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/609-a-1975-666720), de 8 de Novembro, estabeleça os preços do arroz branqueado para a presente campanha, constituindo as mesmas encargo do Fundo de Abastecimento.\n\n2 - As referidas entidades declararão à Empresa Pública de Abastecimento de Cereais - EPAC, até dez dias após a publicação da portaria mencionada no número anterior, as suas existências na mesma data.\n\n> Alterado pelo/a [Decreto-Lei n.º 85/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1980-681624), publicado em 1980-04-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:416413:por",
+    "alterador": "pt:dre:681624:por"
+  }
+]

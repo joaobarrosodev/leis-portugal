@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:346075:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "O Secretário de Estado da Estruturação Agrária poderá requisitar aos proprietários e demais afectados por medidas de expropriação o equipamento mecânico e de indústria agrícola e outros componentes das respectivas explorações.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Portaria n.º 629/75 (alterador 1) e Portaria n.º 354/77 (alterador 3) aprovam/alteram as tabelas de equivalência anexas, que só vêm em imagem ('ver documento original'): não aplicadas.",
+  "instrucoes": [
+    "Portaria 629/75: tabelas de equivalência para áreas de regadio, só em imagem; não aplicada (nao_aplicavel).",
+    "DL 895/76, art. 1.º: nova redação do artigo 11.º; aplicada. Art. 2.º altera o DL 407-A/75 (outro diploma): ignorado.",
+    "Portaria 354/77: altera a tabela anexa (Campo Maior e Beja), só em imagem; não aplicada (nao_aplicavel).",
+    "Lei 109/88, art. 51.º: revogação de legislação incompatível (condicional) e manutenção das tabelas; não se aplica ao texto.",
+    "Lei 46/90: altera a Lei 109/88, não o original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

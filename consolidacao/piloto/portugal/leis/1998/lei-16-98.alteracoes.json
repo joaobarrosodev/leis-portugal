@@ -56,5 +56,19 @@
     "unidade": [],
     "diploma": "pt:dre:165851:por",
     "alterador": "pt:dre:239226:por"
+  },
+  {
+    "artigo": "69.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 69.º — Organização\n\n1 - O estágio tem início no dia 15 de Setembro subsequente à conclusão da fase teórico-prática, salvo se outro prazo for definido no despacho previsto no n.º 2 do artigo 59.º\n\n2 - O estágio tem a duração de 10 meses, salvo se a duração for alterada nos termos do artigo seguinte.\n\n3 - (Actual redacção do n.º 2 do artigo 69.º da Lei n.º 16/98, de 8 de Abril, com a redacção dada pela Lei n.º 3/2000, de 20 de Março.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-2000-514813), publicado em 2000-03-20.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 11/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2002-239226), publicado em 2002-01-24.",
+    "depois": "###### Artigo 69.º — Organização\n\n1 - O estágio tem início no dia 15 de Setembro subsequente à conclusão da fase teórico-prática, salvo se outro prazo for definido no despacho previsto no n.º 2 do artigo 59.º\n\n2 - O estágio tem a duração de 10 meses, salvo se a duração for alterada nos termos do artigo seguinte.\n\n3 - A duração do período de estágio pode, excepcionalmente, havendo motivo justificado, ser alterado, mediante deliberação do respectivo Conselho Superior, ouvido o director do Centro de Estudos Judiciários.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-2000-514813), publicado em 2000-03-20.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 11/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2002-239226), publicado em 2002-01-24.\n\n> Alterado pelo/a [Decreto-Lei n.º 11/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2002-239226), publicado em 2002-01-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:165851:por",
+    "alterador": "pt:dre:239226:por"
   }
 ]

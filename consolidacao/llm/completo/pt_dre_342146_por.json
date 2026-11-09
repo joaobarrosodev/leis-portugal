@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:342146:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigo 3.º: substitui o quadro do anexo IV (captações PDR01 a PDR05), que só vem em imagem; nenhum artigo muda.",
+  "instrucoes": [
+    "Alterador 1 art. 3.º: substituição do quadro do anexo IV (imagem) - não aplicado.",
+    "Alterador 1 arts. 2.º, 4.º a 7.º: alteram outros diplomas - ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

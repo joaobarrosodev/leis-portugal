@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nO presente diploma produz efeitos desde 1 de Janeiro de 1976.\n\nJosé Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Jorge de Carvalho Sá Borges.\n\nPromulgado em 31 de Dezembro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.",
+    "depois": "###### Artigo 3.º\n\nO presente diploma produz efeitos desde 1 de Abril de 1976.\n\n> Alterado pelo/a [Decreto-Lei n.º 225-E/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-e-1976-281828), publicado em 1976-03-31.\n\nJosé Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Jorge de Carvalho Sá Borges.\n\nPromulgado em 31 de Dezembro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:355346:por",
+    "alterador": "pt:dre:281828:por"
+  }
+]

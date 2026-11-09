@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "18.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 18.º — (Subsídio de manutenção)\n\n1 - O subsídio de manutenção é, em relação aos países a seguir mencionados, o que resultar da aplicação dos valores seguintes:\n\nEspanha - 600$00 (18000$00 mensais);\n\nPaíses da Europa Ocidental - 700$00 (21000$00 mensais);\n\nCanadá e EUA - 850$00 (25500$00 mensais).\n\n2 - Os quantitativos a atribuir para os restantes países da Europa serão fixados caso a caso, de acordo com as normas e níveis de custo de vida vigentes em cada país.\n\n3 - Para cálculo do subsídio de manutenção far-se-á corresponder a cada mês de duração da bolsa o quantitativo mensal previsto no n.º 1 e a cada dia dos períodos que não perfaçam um mês o subsídio quantitativo diário igualmente previsto no mesmo número.\n\n4 - O quantitativo do subsídio de manutenção para países não referidos nos n.os 1 e 2 é determinado por analogia com os valores neles fixados e dentro dos respectivos limites.\n\n5 - O subsídio de manutenção é concedido pelo período de duração da bolsa fixado nos artigos 4.º e 5.º Porém, nos casos em que a bolsa termine antes da data inicialmente prevista, o subsídio deixa de ser abonado dois dias após o termo daquela.",
+    "depois": "###### Artigo 18.º — (Subsídio de manutenção)\n\n1 - O subsídio de manutenção é, em relação aos países da Europa, EUA e Canadá, de 32000$00 mensais.\n\n2 - Os quantitativos a atribuir aos bolseiros para os restantes países serão fixados caso a caso, de conformidade com as normas e os níveis de custo de vida em cada país.\n\n3 - Para cálculo do subsídio de manutenção far-se-á corresponder a cada mês de duração da bolsa o quantitativo mensal previsto no n.º 1 e a cada dia dos períodos que não perfaçam um mês o subsídio quantitativo diário igualmente previsto no mesmo número.\n\n4 - O quantitativo do subsídio de manutenção para países não referidos nos n.os 1 e 2 é determinado por analogia com os valores neles fixados e dentro dos respectivos limites.\n\n5 - O subsídio de manutenção é concedido pelo período de duração da bolsa fixado nos artigos 4.º e 5.º Porém, nos casos em que a bolsa termine antes da data inicialmente prevista, o subsídio deixa de ser abonado dois dias após o termo daquela.\n\n> Alterado pelo/a [Portaria n.º 113/84](https://diariodarepublica.pt/dr/detalhe/portaria/113-1984-661507), publicado em 1984-02-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:383401:por",
+    "alterador": "pt:dre:661507:por"
+  }
+]

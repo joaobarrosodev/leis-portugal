@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:622173:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "As instituições particulares de solidariedade social, uma vez registadas, ficam ainda isentas dos seguintes impostos, desde que se verifiquem os condicionalismos abaixo estabelecidos:\n\na) Sisa, pela aquisição de bens destinados à directa e imediata realização dos seus fins, nas condições estabelecidas pelo artigo 15.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, com a redacção dada pelo artigo 2.º do [Decreto-Lei n.º 260-D/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-d-1981-158422), de 2 de Setembro;\n\nb) Imposto sobre as sucessões e doações relativamente às heranças, legados e donativos a seu favor, nos termos das disposições referidas na alínea anterior;\n\nc) Contribuição predial, nas condições estabelecidas pelo artigo 10.º do Código da Contribuição Predial, com a redacção dada pelo artigo 3.º do [Decreto-Lei n.º 260-D/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-d-1981-158422), de 2 de Setembro;\n\nd) Direitos de importação sobre mercadorias indispensáveis à prossecução dos seus fins e de que não haja produção no País, nas condições estabelecidas pelo artigo 4.º do [Decreto-Lei n.º 260-D/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-d-1981-158422), de 2 de Setembro;\n\ne) Imposto sobre a venda de veículos automóveis, sobre ambulâncias e viaturas para transporte colectivo dos utentes dos equipamentos sociais das instituições desde que sejam indispensáveis à consecução dos seus fins, nas condições definidas pelo artigo 4.º do [Decreto-Lei n.º 260-D/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-d-1981-158422), de 2 de Setembro;\n\nf) Imposto de capitais, secções A e B, nas condições estabelecidas pelo artigo 12.º do Código do Imposto de Capitais;\n\ng) Imposto de mais-valias, nas condições estabelecidas pelo artigo 9.º do Código do Imposto de Mais-Valias;\n\nh) Contribuição industrial, nas condições estabelecidas pelo artigo 16.º do Código da Contribuição Industrial;\n\ni) Imposto sobre a indústria agrícola, nas condições estabelecidas pelo artigo 10.º para que remete o artigo 321.º, ambos do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola;\n\nj) Imposto de compensação, nas condições definidas nos artigos 7.º, 8.º e 9.º do regulamento aprovado pelo [Decreto-Lei n.º 354-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1982-178563), de 4 de Setembro;\n\nl) Imposto sobre veículos, nas condições constantes do n.º 2 do artigo 5.º do regulamento aprovado pelo [Decreto-Lei n.º 143/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1978-426138), de 12 de Junho;\n\nm) Imposto de circulação, nas condições definidas pelo [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963.\n\nn) Imposto complementar, secção B, nas condições estabelecidas pelo § único do artigo 85.º do CIC.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 arts. 1.º-4.º e 6.º: alteram o Código do Imposto Complementar e regras próprias: não dirigidos ao original, ignorados.",
+    "Alt. 1 art. 5.º n.º 1: aditada a alínea n) ao art. 2.º: aplicada. N.º 2 é norma de aplicação no tempo, não textual.",
+    "Alt. 2 (DLR 14/2017/M): prorroga prazo de outro diploma: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

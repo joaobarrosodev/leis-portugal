@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nA secretaria é integrada pelos elementos constantes do mapa anexo a este diploma, que são requisitados ou admitidos em comissão de serviço, nos termos da lei, sob proposta do presidente da Comissão, devendo o secretário ser um licenciado em Direito de reconhecida competência.",
+    "depois": "###### Artigo 2.º\n\n1 - A secretaria é integrada pelos elementos constantes do mapa anexo a este diploma, que são requisitados ou admitidos em comissão de serviço, nos termos da lei, sob proposta do presidente da Comissão, devendo o secretário ser, de preferência, um licenciado em Direito.\n\n2 - Nas suas faltas e impedimentos o secretário é substituído pelo escrivão de direito mais antigo.\n\n> Alterado pelo/a [Decreto n.º 42/81](https://diariodarepublica.pt/dr/detalhe/decreto/42-1981-389595), publicado em 1981-04-02.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:673410:por",
+    "alterador": "pt:dre:389595:por"
+  }
+]

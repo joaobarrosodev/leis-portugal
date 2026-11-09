@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:550266:por",
+  "artigos": [
+    {
+      "chave": "10.º",
+      "epigrafe": "Regime de instalação",
+      "texto": "1 - Nos termos da legislação aplicável, a instalação da Escola será da competência de uma comissão instaladora, nomeada pelos membros do Governo competentes, sob proposta da Direcção-Geral do Ensino Superior e do Instituto Português do Património Arquitectónico e Arqueológico, e deverá estar concluída no prazo de três anos a contar da data da sua posse.\n\n2 - Durante o regime de instalação poderão ser criados quadros provisórios de pessoal docente e não docente, por portaria conjunta dos Ministros das Finanças e da Educação e do membro do Governo responsável pela área da cultura.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: nova redação do n.º 1 do art. 10.º (prazo de dois anos); substituída depois pelo alt. 2.",
+    "Alt. 2: nova redação do n.º 1 do art. 10.º (três anos, IPPAR); n.º 2 mantido.",
+    "Alt. 3: extingue a Escola, sem alteração textual ao original: nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

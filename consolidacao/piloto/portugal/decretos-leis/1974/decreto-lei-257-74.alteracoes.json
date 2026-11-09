@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1. Por despacho do chefe do Estado-Maior-General das Forças Armadas, e em casos de reconhecida gravidade ou complexidade, podem ser nomeados ad hoc licenciados em Direito ou técnicos de investigação criminal para servirem como adjuntos dos agentes da Polícia Judiciária Militar ou dos promotores de justiça.\n\n2. Os adjuntos recebem a competência que lhes for delegada e podem substituir os promotores de justiça, sem prejuízo da orientação destes.\n\n3. Idênticas funções de adjunto podem ser atribuídas a oficiais com qualificações especiais, ainda que de patente inferior à do arguido.",
+    "depois": "###### Artigo 1.º\n\n1. Por despacho do chefe do Estado-Maior-General das Forças Armadas ou da entidade em quem o mesmo delegar, e em casos de reconhecida necessidade, podem ser nomeados ad hoc licenciados em Direito ou técnicos de investigação criminal para servirem como adjuntos dos agentes da Polícia Judiciária Militar ou dos promotores de justiça.\n\n2. Os adjuntos recebem a competência que lhes for delegada e podem substituir os promotores de justiça, sem prejuízo da orientação destes.\n\n3. Idênticas funções de adjunto podem ser atribuídas a oficiais com qualificações especiais, ainda que de patente inferior à do arguido.\n\n4. Em idênticas condições e pelas entidades referidas no n.º 1 podem ser nomeados ad hoc civis de reconhecida competência para servirem como escrivães dos agentes da Polícia Judiciária Militar ou dos promotores de justiça.\n\n5. Para os fins constantes do número anterior, poder-se-ão requisitar funcionários judiciais ao Ministério da Justiça.\n\n> Alterado pelo/a [Decreto-Lei n.º 619/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/619-1975-310582), publicado em 1975-11-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:662344:por",
+    "alterador": "pt:dre:310582:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — (Natureza e constituição)\n\n1. Os serviços municipais de habitação terão a natureza de serviços especiais dotados de autonomia administrativa e financeira e com personalidade jurídica ou, se e quando a dimensão do parque habitacional a seu cargo o justificar, a de serviços municipalizados.\n\n2. A aprovação dos actos praticados pelos órgãos gestores dos serviços municipais de habitação competirá, quando a ela haja lugar, à câmara municipal ou às câmaras municipais federadas, consoante o serviço tenha jurisdição na área de um ou de mais municípios.\n\n3. O título da constituição dos serviços municipais de Habitação deverá, obrigatoriamente, conter as seguintes menções:\n\na) Data da deliberação camarária da criação dos serviços;\n\nb) Sede dos serviços;\n\nc) Regras de constituição e competência dos órgãos gestores;\n\nd) Área de jurisdição;\n\ne) Funções que são atribuídas aos serviços.",
+    "depois": "###### Artigo 2.º — (Natureza)\n\n1.º Os Serviços Municipais de Habitação regem-se, quanto à natureza, à estrutura e ao funcionamento, pelo disposto nos artigos 143.º, 619.º e seguintes do Código Administrativo.\n\n2.º Os órgãos competentes dos municípios podem deliberar a municipalização dos referidos serviços, em conformidade com a lei.\n\n> Alterado pelo/a [Lei n.º 84/77](https://diariodarepublica.pt/dr/detalhe/lei/84-1977-279814), publicado em 1977-12-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:407338:por",
+    "alterador": "pt:dre:279814:por"
+  }
+]

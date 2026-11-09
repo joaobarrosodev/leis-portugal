@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\nA fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando Naval do Continente.",
+    "depois": "###### Artigo 4.º\n\nA fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando do Corpo de Fuzileiros.\n\n> Alterado pelo/a [Decreto n.º 96/77](https://diariodarepublica.pt/dr/detalhe/decreto/96-1977-250457), publicado em 1977-07-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:412609:por",
+    "alterador": "pt:dre:250457:por"
+  }
+]

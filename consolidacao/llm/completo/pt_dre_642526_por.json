@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:642526:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Nenhum dos alteradores dá nova redação a artigos do Decreto-Lei n.º 326/2007: o DL 30/2011 (art. 1.º, n.º 2, e art. 2.º, n.º 2) altera o Centro Hospitalar do Porto, E. P. E., por fusão e sucessão, e o DL 68/2013 transfere competências para ele; o DL 102/2023 reestrutura o Centro Hospitalar do Tâmega e Sousa em ULS. São alterações não textuais, não aplicadas ao texto.",
+  "instrucoes": [
+    "DL 30/2011: fusão do CHP com o Hospital Joaquim Urbano e sucessão; sem alteração textual do original.",
+    "DL 68/2013: transferência de competências do INSA para o CHP; sem alteração textual do original.",
+    "DL 102/2023: reestruturação do CH Tâmega e Sousa em ULS e alteração de outros diplomas (DL 52/2022, 23/2019, 61/2022, 318/2009): ignorado para o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

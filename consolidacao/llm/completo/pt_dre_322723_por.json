@@ -1,0 +1,105 @@
+{
+  "id": "pt:dre:322723:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — REGULAMENTO DE APOIO À QUALIFICAÇÃO DE MUSEUS::1.º",
+      "epigrafe": "Âmbito de aplicação",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DE APOIO À QUALIFICAÇÃO DE MUSEUS::2.º",
+      "epigrafe": "Destinatários",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DE APOIO À QUALIFICAÇÃO DE MUSEUS::3.º",
+      "epigrafe": "Objectivos gerais",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DE APOIO À QUALIFICAÇÃO DE MUSEUS::4.º",
+      "epigrafe": "Requerentes e beneficiários",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DE APOIO À QUALIFICAÇÃO DE MUSEUS::5.º",
+      "epigrafe": "Modalidades de apoio financeiro",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DE APOIO À QUALIFICAÇÃO DE MUSEUS::6.º",
+      "epigrafe": "Limites dos apoios financeiros",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DE APOIO À QUALIFICAÇÃO DE MUSEUS::7.º",
+      "epigrafe": "Prazos para apresentação de candidaturas",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DE APOIO À QUALIFICAÇÃO DE MUSEUS::8.º",
+      "epigrafe": "Instrução das candidaturas",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DE APOIO À QUALIFICAÇÃO DE MUSEUS::9.º",
+      "epigrafe": "Análise e decisão das candidaturas",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DE APOIO À QUALIFICAÇÃO DE MUSEUS::10.º",
+      "epigrafe": "Critérios de avaliação",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DE APOIO À QUALIFICAÇÃO DE MUSEUS::11.º",
+      "epigrafe": "Despesas elegíveis",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DE APOIO À QUALIFICAÇÃO DE MUSEUS::12.º",
+      "epigrafe": "Formalização dos apoios",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DE APOIO À QUALIFICAÇÃO DE MUSEUS::13.º",
+      "epigrafe": "Fiscalização",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DE APOIO À QUALIFICAÇÃO DE MUSEUS::14.º",
+      "epigrafe": "Falta de cumprimento de obrigações",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DE APOIO À QUALIFICAÇÃO DE MUSEUS::15.º",
+      "epigrafe": "Falsas declarações",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alteradores 1 a 4 (Despachos Normativos 16/2002, 19/2003, 19/2004, 31-A/2005): nova redação do n.º 2 do art. 6.º, do art. 7.º e do n.º 2 do art. 9.º; ficam sem efeito final porque o alterador 5 revoga todo o diploma.",
+    "Alterador 5 (Despacho Normativo 3/2006), n.º 6: revoga o Despacho Normativo 28/2001; todos os artigos 1.º a 15.º do Regulamento ficam (Revogado.).",
+    "Alterador 5, restantes números e anexos: novo programa, não dirigido ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:261687:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Os limites da nova freguesia, conforme representação cartográfica anexa, são:\n\nA norte, pela linha de cintura (ponte do Brasileiro) - tudo o que actualmente pertence à freguesia de Águas Santas, seguindo pela linha de cintura à Travessa de D. Amélia Moutinho Alves, que da linha vai à Rua de Augusto Simões, frente ao n.º 406, seguindo a partilha pela Rua de Macau, a norte do paiol da pólvora de Pedrouços, seguindo pela Rua de Macau em direcção à face poente do prédio onde se encontra implantado o edifício com o número de polícia 435 da Rua do Paço, seguindo por esta até ao entroncamento com a Rua de D. António Castro Meireles, flectindo para sul até ao número de polícia 981, entrando pelo caminho público de servidão agrícola até à linha de água (ribeira do Boi Morto), continuando para montante da referida linha de água até ao limite com a freguesia de São Mamede de Infesta, concelho de Matosinhos;\n\nA oeste, pela linha de água (ribeira do Boi Morto) - tudo o que actualmente é de Águas Santas, a partir de São Mamede de Infesta até à Rua da Arroteia, pela Rua da Arroteia e pela Travessa da Circunvalação até à Circunvalação;\n\nA sul, pela Circunvalação a partir com Faranhos;\n\nA este, desde a Circunvalação até ao Brasoleiro (linha de cintura) a partir com o rio Tinto.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único da Lei 73/88: nova redação do artigo 2.º; substituído o corpo inteiro."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

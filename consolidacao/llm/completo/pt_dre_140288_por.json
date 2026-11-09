@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:140288:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alt. 1 (DL 513-M/79, art. 16.º): substitui a tabela do n.º 2 do art. 9.º por uma tabela que só vem em imagem (ver documento original); não aplicada.",
+  "instrucoes": [
+    "Alt. 1 (DL 513-M/79): art. 16.º substitui a tabela do n.º 2 do art. 9.º (só em imagem, nao_aplicavel); art. 18.º não altera o texto; restantes artigos alteram outros diplomas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\nO quadro de chefes de banda de música tem, nos respectivos postos, os seguintes quantitativos:\n\n3 majores.\n\n3 capitães.\n\n7 tenentes ou alferes.",
+    "depois": "###### Artigo 4.º\n\nO quadro de chefes de bandas de música e fanfarras do Exército tem, nos respectivos postos, os seguintes quantitativos:\n\n1 tenente-coronel;\n\n2 majores;\n\n3 capitães;\n\n7 tenentes ou alferes.\n\n> Alterado pelo/a [Decreto-Lei n.º 100/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1983-311057), publicado em 1983-02-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:382579:por",
+    "alterador": "pt:dre:311057:por"
+  }
+]

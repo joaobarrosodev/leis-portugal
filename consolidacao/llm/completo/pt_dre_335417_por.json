@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:335417:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 2.º do DRR n.º 11/2012/A revoga 'a alínea k) do n.º 1 do artigo 2.º, as alíneas a) a c) do n.º 1 do artigo 4.º, a alínea c) do n.º 8 do artigo 5.º, e o n.º 2 do Anexo II do Decreto Regulamentar Regional n.º 9/2010/A', mas os artigos próprios do DRR 9/2010/A (1.º a 4.º) não têm essas unidades; elas existem no DRR 21/2007/A republicado em anexo, que é outro diploma. Alvo ambíguo, não aplicado.",
+  "instrucoes": [
+    "DRR 11/2012/A, art. 1.º: altera artigos e anexos do DRR 21/2007/A (outro diploma, na redação dada pelo original); ignorado.",
+    "DRR 11/2012/A, art. 2.º: revogações atribuídas ao DRR 9/2010/A mas com alvos que só existem no DRR 21/2007/A; não aplicado (ver nao_aplicavel).",
+    "DRR 11/2012/A, arts. 3.º a 5.º: renumeração de remissões, republicação e produção de efeitos do DRR 21/2007/A; sem efeito no original.",
+    "DLR 12/2014/A, art. 26.º, alínea d): revoga o DRR 21/2007/A (outro diploma); o original não é revogado; restantes artigos criam regime novo, ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

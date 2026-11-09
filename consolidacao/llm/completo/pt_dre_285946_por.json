@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:285946:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1. Sempre que surjam dúvidas sobre o procedimento e os trâmites processuais a seguir em qualquer questão relacionada com o arrendamento rural na Região Autónoma dos Açores, aplicam-se os princípios gerais do direito processual civil.\n\n2. O processo aplicável ao despejo será o previsto nos artigos 964.º e seguintes do Código de Processo Civil; o processo aplicável à fixação e alteração de rendas será o previsto nos artigos 1052.º e seguintes do mesmo diploma.\n\n3. Todas as demais questões seguem os termos do processo declarativo comum.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do DRR 3/A/79 dá nova redação ao n.º 2 do art. 2.º: aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

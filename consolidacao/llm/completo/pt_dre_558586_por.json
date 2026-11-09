@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:558586:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DLR 25/96/A, 27/96/A e 1/97/A só modificam os mapas I a V do Orçamento (anexos só em imagem/PDF); nenhum artigo é alterado.",
+  "instrucoes": [
+    "Alteradores 1-3: alterações aos mapas orçamentais em imagem; não aplicadas; artigos sem mudança."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

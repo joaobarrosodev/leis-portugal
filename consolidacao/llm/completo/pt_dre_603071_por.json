@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:603071:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 8.º: revoga a Portaria n.º 37/2009 (sem prejuízo da norma transitória do art. 7.º); artigos 1.º e 2.º marcados (Revogado.).",
+    "Alterador 1, art. 7.º: norma transitória de aplicação, não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

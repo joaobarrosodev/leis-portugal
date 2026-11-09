@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — (Iniciativa da actualização ou correcção)\n\n1 - Quando o senhorio pretender actualizar a renda, nos termos do artigo 6.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), comunicará ao arrendatário, com a antecedência mínima de 30 dias, por meio de carta registada com aviso de recepção, o montante da nova renda e o coeficiente utilizado no seu cálculo.\n\n2 - A correcção anual da renda, nos termos do artigo 12.º da referida lei, está sujeita a comunicação, com formalidades idênticas às mencionadas no número anterior, devendo, no entanto, a assinatura do senhorio ser reconhecida por notário.",
+    "depois": "###### Artigo 3.º — Iniciativa da actualização ou correcção\n\n1 - Quando o senhorio pretender actualizar a renda, nos termos do artigo 6.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), comunicará ao arrendatário, com a antecedência mínima de 30 dias, por meio de carta registada com aviso de recepção, o montante da nova renda e o coeficiente utilizado no seu cálculo.\n\n2 - A correcção anual da renda, nos termos do artigo 12.º da referida lei, está sujeita a comunicação, com formalidades idênticas às mencionadas no número anterior.\n\n> Alterado pelo/a [Decreto-Lei n.º 9/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1988-283366), publicado em 1988-01-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:192247:por",
+    "alterador": "pt:dre:283366:por"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:611538:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: dá nova redação ao artigo 3.º do Decreto de 13 de Abril de 1963 (outro diploma), ainda que 'alterado pelo artigo 1.º do Decreto n.º 21/89'; ignorado.",
+    "Alterador 1, art. 2.º: produção de efeitos do próprio alterador, não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

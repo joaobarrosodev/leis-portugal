@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "69.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 69.º\n\n1 - A prova psicotécnica (1.ª parte) afecta a selecção dos candidatos na 1.ª fase do concurso conjuntamente com a avaliação da aptidão cultural, para efeito de ordenação dos candidatos, de acordo com o seguinte critério:\n\na) Média resultante da conjugação das classificações obtidas no final do curso correspondente à habilitação literária exigida ou na prova de aptidão cultural com as classificações na prova psicotécnica (1.ª parte), para cujo cálculo as primeiras têm um coeficiente duplo das segundas;\n\nb) Em caso de igualdade, observar-se-ão as seguintes condições de preferência:\n\n1) Para candidatos civis:\n\nMenor idade;\n\nMaiores habilitações literárias;\n\n2) Para candidatos militares:\n\nMais tempo de serviço;\n\nMenor idade;\n\nMaiores habilitações literárias;\n\nc) Caso a referida igualdade se verifique entre um candidato civil e um candidato militar, este tem preferência sobre aquele.\n\n2 - Passam à 2.ª fase do exame de admissão os primeiros candidatos da ordenação referida no n.º 1 do artigo anterior, num quantitativo a definir pelo comandante da Academia Militar, sob proposta do presidente da comissão de recrutamento e admissão.",
+    "depois": "###### Artigo 69.º\n\n1 - A prova psicotécnica (1.ª parte) afecta a selecção dos candidatos na 1.ª fase do concurso conjuntamente com a avaliação da aptidão cultural, para efeito de ordenação dos candidatos, de acordo com o seguinte critério:\n\na) Média resultante da conjugação das classificações obtidas no final do curso correspondente à habilitação literária exigida ou na prova de aptidão cultural com as classificações na prova psicotécnica (1.ª fase), para cujo cálculo as primeiras têm um coeficiente triplo das segundas;\n\nb) Em caso de igualdade, observar-se-ão as seguintes condições de preferência:\n\n1) Para candidatos civis:\n\nMenor idade;\n\nMaiores habilitações literárias;\n\n2) Para candidatos militares:\n\nMais tempo de serviço;\n\nMenor idade;\n\nMaiores habilitações literárias;\n\nc) Caso a referida igualdade se verifique entre um candidato civil e um candidato militar, este tem preferência sobre aquele.\n\n2 - Passam à 2.ª fase do exame de admissão os primeiros candidatos da ordenação referida no n.º 1 do artigo anterior, num quantitativo a definir pelo comandante da Academia Militar, sob proposta do presidente da comissão de recrutamento e admissão.\n\n> Alterado pelo/a [Portaria n.º 482/84](https://diariodarepublica.pt/dr/detalhe/portaria/482-1984-386030), publicado em 1984-07-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:579770:por",
+    "alterador": "pt:dre:386030:por"
+  },
+  {
+    "artigo": "72.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 72.º\n\n1 - Para preenchimento das vagas abertas anualmente pelo Chefe do Estado-Maior do Exército, os candidatos são relacionados por ordem decrescente das respectivas classificações finais obtidas no exame de admissão à Academia Militar. No entanto, os candidatos que possuírem os cursos que conferem a habilitação literária exigida para a admissão à Academia Militar têm sempre preferência sobre os que concorrem mediante prova de aptidão cultural.\n\n2 - A classificação final de cada candidato é calculada através da seguinte fórmula, apurada até às centésimas:\n\nCF = ((2 A + B)/3 + C)/2\n\nem que:\n\nCF é a classificação final;\n\nA é a classificação obtida no final dos cursos que conferem a habilitação literária exigida para admissão à Academia Militar ou na prova de aptidão cultural;\n\nB é a classificação obtida na prova psicotécnica (1.ª parte);\n\nC é a classificação obtida no curso geral milicianos.",
+    "depois": "###### Artigo 72.º\n\n1 - Para preenchimento das vagas abertas anualmente pelo Chefe do Estado-Maior do Exército, os candidatos são relacionados por ordem decrescente das respectivas classificações finais obtidas no exame de admissão à Academia Militar. No entanto, os candidatos que possuírem os cursos que conferem a habilitação literária exigida para a admissão à Academia Militar têm sempre preferência sobre os que concorrem mediante prova de aptidão cultural.\n\n2 - A classificação final de cada candidato é calculada através da seguinte fórmula, apurada até às centésimas:\n\nCF = (((3A + B)/4) + C)/2\n\nem que:\n\nCF é a classificação final;\n\nA é a classificação obtida no final dos cursos que conferem a habilitação literária exigida para admissão à Academia Militar ou na prova de aptidão cultural;\n\nB é a classificação obtida na prova psicotécnica (1.ª parte);\n\nC é a classificação obtida no curso geral de milicianos.\n\n> Alterado pelo/a [Portaria n.º 482/84](https://diariodarepublica.pt/dr/detalhe/portaria/482-1984-386030), publicado em 1984-07-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:579770:por",
+    "alterador": "pt:dre:386030:por"
+  }
+]

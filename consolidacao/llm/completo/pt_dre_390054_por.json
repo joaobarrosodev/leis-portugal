@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:390054:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigo único: altera a 'distribuição dos encargos fixada no artigo 2.º' apenas por uma tabela de montantes para 1969 e 1970 e um § único, sem dar nova redação ao artigo 2.º; não é uma alteração textual que se possa aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1, artigo único: nova distribuição de encargos plurianuais do artigo 2.º - não aplicada (não textual)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

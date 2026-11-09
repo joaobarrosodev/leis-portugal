@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º — (Limitação ao exercício de funções operacionais)\n\n1 - Sem prejuízo da observância das condições médicas exigidas, é fixado para o exercício das funções de combate a incêndio e salvamento o limite de idade de 45 anos.\n\n2 - O pessoal abrangido pelo disposto no número anterior exercerá no serviço quaisquer outras funções inerentes à respectiva carreira para as quais possua a necessária formação.",
+    "depois": "###### Artigo 14.º — (Avaliação do exercício de funções operacionais)\n\n1 - O exercício de funções de combate a incêndio e salvamento fica condicionado ao resultado apurado em exames médicos periódicos.\n\n2 - Se, em resultado dos exames referidos no número anterior, se verificar a existência de pessoal que não possua as capacidades físicas e psíquicas necessárias ao desempenho daquelas funções ficará o mesmo exercendo no serviço quaisquer outras inerentes à respectiva carreira para as quais possua a necessária formação.\n\n3 - As características, extensão, frequência e comunicação dos resultados dos exames médicos referidos no n.º 1, bem como o seu âmbito de aplicação, serão propostas pelas entidades às quais caiba a gestão das infra-estruturas aeroportuárias e aprovadas por despacho do Ministro do Equipamento Social.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 44/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1985-183003), publicado em 1985-07-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:446559:por",
+    "alterador": "pt:dre:183003:por"
+  }
+]

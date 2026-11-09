@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nFica sujeita a servidão militar a área confinante com as instalações do grupo n.º 1 de escolas da Armada, assim delimitada:\n\na) A oeste, pela auto-estrada do Norte;\n\nb) A leste, pela linha da margem esquerda do rio Tejo;\n\nc) A norte, pela linha paralela ao muro que separa as instalações do grupo n.º 1 de escolas da Armada da propriedade municipal (Quinta do Cevadeiro) e seus prolongamentos, à distância de 150 m a norte do mesmo muro;\n\nd) A sul, pelo muro e seus prolongamentos situados à distância de 260 m da estrema sul dos terrenos do grupo n.º 1 de escolas da Armada e que separa as propriedades de António Botelho da Costa das da Sociedade Técnica de Hidráulica (Cimianto).",
+    "depois": "###### Artigo 1.º\n\nFica sujeita a servidão militar a área confinante com as instalações do grupo n.º 1 de escolas da Armada, assim delimitada:\n\na) A oeste, pela auto-estrada do Norte;\n\nb) A leste, pela linha da margem esquerda do rio Tejo;\n\nc) A norte, pela linha paralela ao muro que separa as instalações do grupo n.º 1 de escolas da Armada da propriedade municipal (Quinta do Cevadeiro) e seus prolongamentos, à distância de 150 m a norte do mesmo muro;\n\nd) A sul, pela perpendicular à linha de caminho de ferro que passa junto às instalações do Grupo n.º 1 de Escolas da Armada, traçada à distância de 130 m da esquina sudoeste do pavilhão gimnodesportivo das mesmas instalações.\n\n> Alterado pelo/a [Decreto do Governo n.º 64/84](https://diariodarepublica.pt/dr/detalhe/decreto-governo/64-1984-400007), publicado em 1984-10-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687999:por",
+    "alterador": "pt:dre:400007:por"
+  }
+]

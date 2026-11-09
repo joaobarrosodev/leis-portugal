@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:362686:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 3 (DL 140/2004), art. 27.º, al. a): revoga o Decreto-Lei n.º 113/2001 no seu todo, salvo o art. 2.º quanto à manutenção do quadro de pessoal; revogação global do diploma com ressalva parcial, não é alteração textual de artigos determinados.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação dos n.os 2 e 7 do art. 2.º; o texto atual já coincide letra a letra com a nova redação (só difere a ligação ao DR 56/91), nada a mudar.",
+    "Alterador 2: não contém instruções dirigidas ao original (revoga normas do DL 4/2002); ignorado.",
+    "Alterador 3, art. 27.º, al. a): revogação global do DL 113/2001, salvo o art. 2.º; não aplicada ao texto (ver nao_aplicavel). Restantes alíneas dizem respeito a outros diplomas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

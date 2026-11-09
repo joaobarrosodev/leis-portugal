@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:451456:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "Nas lojas francas existentes nas salas de trânsito internacional dos aeroportos, a que se refere o Decreto-Lei n.º 542/80, de 10 de Novembro, só podem ser transaccionadas mercadorias que preencham as condições previstas nos artigos 9.º e 10.º do tratado que institui a Comunidade Económica Europeia.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, artigo único: nova redacção integral do art. 6.º; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

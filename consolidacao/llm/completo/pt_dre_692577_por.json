@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:692577:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Orgânica da Direcção Regional dos Assuntos Fiscais::24.º-A",
+      "epigrafe": "Natureza e atribuições",
+      "texto": "O Gabinete de Coordenação Local, adiante designado, abreviadamente, por GCL, é o órgão de apoio técnico e logístico do director regional a quem incumbe, designadamente, a coordenação da actividade dos serviços locais de finanças da DRAF.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Orgânica da Direcção Regional dos Assuntos Fiscais::24.º-B",
+      "epigrafe": "Direcção e competências",
+      "texto": "1 - O GCL é dirigido por um director, equiparado, para todos os efeitos legais, a director de serviços, cargo de direcção intermédia do 1.º grau.\n\n2 - Ao director de serviços compete, designadamente:\n\na) Coordenar e dirigir o GCL na prossecução dos objectivos definidos pelo director regional;\n\nb) Definir os princípios e regras que devem presidir na elaboração dos estudos e parecer;\n\nc) Estabelecer critérios de organização e distribuição dos estudos e pareceres;\n\nd) Executar tudo o demais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Art. 10.º do anexo, n.º 1, alínea d): a instrução do alt. 1 diz \"d) [Antiga alínea c).]\", mas o texto atual já traz esse marcador em vez do texto da antiga alínea c), que não está disponível no pedido; não foi possível repor. Alt. 4 (DRR 14/2015/M), art. 20.º: o n.º 1 mantém em vigor os arts. 39.º, 44.º, 50.º e 52.º, mas o n.º 2 (que terá revogado o resto) só aparece como \"(Revogado.)\", sem texto: revogação não aplicada.",
+  "instrucoes": [
+    "Alt. 1 (DLR 28/2006/M, art. 60.º): nova redação dos arts. 3.º, 10.º e 50.º do anexo (já aplicada, salvo o marcador da alínea d) do 10.º); adita a subsecção IV e os arts. 24.º-A e 24.º-B, aplicados (a epígrafe da subsecção não é artigo). Arts. 31.º, 32.º, 37.º, 49.º, 55.º não alteram o texto.",
+    "Alts. 2, 3 e 5 a 14: mantêm suplementos em vigor; não textuais.",
+    "Alt. 4 (DRR 14/2015/M): nova orgânica; art. 20.º em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

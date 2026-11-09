@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:172907:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Todos os 25 alteradores mexem só na lista anexa ao Decreto-Lei n.º 43769 (posições pautais: eliminações, renumerações, inserções e novas redações de artigos pautais como 73.10.05, 69.03.03, 98.11.01, 39.01.22, 29.15.06, 28.40.02 etc.), e essa lista só existe em imagem no texto atual ('[(ver documento original)]'). O Decreto-Lei n.º 47958 (alterador 24) substitui a lista inteira por outra que também só vem em imagem. Nenhuma instrução se dirige ao artigo único, por isso não há texto a alterar com segurança.",
+  "instrucoes": [
+    "Alteradores 1 a 23 e 25 (DL 44562, 44833, 44896, 45153, 45603, 45725, 45730, 45773, 45813, 46119, 46463, 46475, 46540, 46541, 46906, 46966, 47020, 47116, 47149, 47249, 47276, 47836, 47844, 48023): eliminam, renumeram, inserem ou dão nova redação a posições da lista anexa (só em imagem); não aplicadas.",
+    "Instruções dirigidas a outros diplomas (lista do DL 44861 no DL 46119 art. 5.º; lista do DL 46142 no DL 46463 art. 4.º e no DL 46540 art. 3.º) e normas sobre direitos de base e calendários de reduções: não são do original; ignoradas.",
+    "Alterador 24 (DL 47958): substitui a lista anexa pela lista atualizada junta, só em imagem; não aplicada.",
+    "Artigo único sem alterações."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

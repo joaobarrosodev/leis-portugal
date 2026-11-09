@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:611162:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 art. 1.º: novo plano de estudos (anexo), cujos quadros só vêm em imagem; nenhum artigo muda.",
+  "instrucoes": [
+    "Alterador 1 art. 1.º: nova redação do plano de estudos (anexo, em imagem) - não aplicado.",
+    "Alterador 1 arts. 2.º e 3.º: normas autónomas de transição e aplicação."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

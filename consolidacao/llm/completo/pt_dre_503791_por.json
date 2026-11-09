@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:503791:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "O cargo de escriturário de 1.ª classe ou equivalente passa a constituir categoria de ingresso na carreira do pessoal administrativo dos quadros de todos os serviços do Ministério da Saúde e Assistência, sendo o seu provimento feito por concurso de provas públicas, sem prejuízo do disposto no artigo 3.º do Decreto-Lei 45766, de 18 de Junho de 1964.\n\n§ único. O disposto neste artigo não se aplica aos concursos cujos editais hajam sido publicados em data anterior à entrada em vigor deste diploma.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do DL 48203: aditado § único ao art. 1.º — aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

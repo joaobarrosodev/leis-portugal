@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:547662:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Todos os alteradores (DRR 33/91/A, 6/92/A, 2/94/A, 11/96/A, 23/2000/A, 22/2004/A, 33/2004/A) alteram apenas o mapa/quadro de pessoal anexo, que só vem em imagem; nenhum dá nova redação aos artigos.",
+  "instrucoes": [
+    "Alterações aos quadros de pessoal anexos (imagem) — não aplicadas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

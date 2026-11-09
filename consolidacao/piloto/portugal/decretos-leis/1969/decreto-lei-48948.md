@@ -1,0 +1,271 @@
+---
+id: pt:dre:526201:por
+title: Decreto-Lei n.º 48948
+original: data/portugal/decretos-leis/1969/decreto-lei-48948.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:142087:por
+    title: Decreto-Lei n.º 199/70
+    publication_date: '1970-05-08'
+  - id: pt:dre:226036:por
+    title: Decreto-Lei n.º 180/70
+    publication_date: '1970-04-25'
+  - id: pt:dre:548228:por
+    title: Decreto-Lei n.º 318/89
+    publication_date: '1989-09-23'
+  titulos_normalizados: artigos em texto corrido no original, com título pelo parser
+    da fase 3
+---
+
+# Decreto-Lei n.º 48948
+
+No [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957, ao definirem-se as regras orientadoras da reorganização do sistema de crédito e da estrutura bancária no continente e ilhas adjacentes, bem como nos diplomas que vieram completar aquele, foi adoptado o princípio de uma relativa especialização das instituições de crédito.
+
+No entanto, ao prever-se que as operações de crédito a médio e a longo prazo deviam constituir objecto dos institutos de crédito do Estado, de bancos de investimento e de outros estabelecimentos especiais de crédito, desde logo se admitiu que tais operações pudessem ser efectuadas, sob certas condições, pelos bancos comerciais.
+
+De harmonia com esta orientação, e tendo em consideração as tendências que têm vindo a generalizar-se acerca dos mercados de dinheiro a médio prazo e a maior imprecisão das fronteiras entre os mercados monetário e financeiro, aceitou-se que as operações de crédito com duração não superior a dois anos podiam ser abertas aos bancos comerciais. Para evitar riscos graves de liquidez e assegurar a posição dos depositantes, havia que ligar tais operações a classes de depósitos com prazos de exigibilidade adequados. Foi esta orientação que informou as disposições das alíneas c) e d) do artigo 6.º do [Decreto-Lei n.º 46492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46492-1965-292333), de 18 de Agosto de 1965, e das alíneas c) e d) do artigo 5.º do [Decreto-Lei n.º 47910](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47910-1967-390268), de 7 de Setembro de 1967.
+
+Do mesmo modo se permitiu aos bancos comerciais a realização de operações de crédito ainda que de prazo superior a dois anos, quando essas operações fossem efectuadas com capitais próprios do banco mutuante ou constituíssem simples prestação de garantia.
+
+Encontra-se, igualmente, estabelecido o regime geral para as operações de crédito à exportação nacional.
+
+Ponderadas, agora, as circunstâncias prevalecentes nos mercados monetário e financeiro nacionais, nomeadamente os recursos constituídos nos bancos comerciais e as possibilidades da sua mobilização, e consideradas as necessidades de financiamento do III Plano de Fomento, para cuja satisfação se admitiu uma contribuição considerável dos bancos comerciais, entendeu-se ser o momento de, em conformidade com o previsto no artigo 34.º do citado [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), definir novo regime, segundo do qual os bancos comerciais poderão efectuar operações de crédito a médio prazo, numa base mais ampla.
+
+Ao definir-se este regime atende-se, por isso, ao caminho já percorrido no sentido de permitir aos bancos comerciais intervenção nas operações de médio prazo, alargando-se as possibilidades dessa intervenção quando as operações a financiar visem os fins previstos neste diploma.
+
+Assim, o presente diploma tem por objecto, sem prejuízo daqueles aspectos já considerados, o estabelecimento das condições em que os bancos comerciais poderão realizar operações de crédito a médio prazo mediante a aplicação de recursos diferentes dos capitais próprios, bem como a definição do âmbito dessas operações.
+
+E, porque pertencem ao Banco de Portugal, na sua qualidade de banco emissor no continente e ilhas adjacentes, as funções de prestamista do sistema bancário, houve que regular os termos em que ele poderá vir a dar apoio aos bancos comerciais na realização de operações de crédito a médio prazo.
+
+Por outro lado, ao tratar-se da realização de operações de crédito a médio prazo pelos bancos comerciais, analisou-se, de novo, o que tem sido determinado quanto às respectivas garantias de liquidez e solvabilidade. Reconheceu-se que, devendo as regras sobre essas garantias ser objecto de revisões frequentes para a sua adaptação à conjuntura, se impunha maior flexibilidade quanto à possibilidade da sua definição.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+I
+
+Da realização de operações de crédito a médio prazo por bancos comerciais
+
+###### Artigo 1.º
+
+1. Os bancos comerciais podem, com observância das regras aplicáveis à cobertura das suas responsabilidades em moeda nacional e do demais condicionalismo estabelecido nas disposições legais e regulamentares, efectuar operações de crédito a médio prazo, considerando-se como tais aquelas em que o crédito é concedido por período superior a um ano e até cinco anos.
+
+2. O prazo das operações contar-se-á a partir da data em que, nos termos acordados com o respectivo beneficiário, os fundos mutuados forem colocados à disposição deste.
+
+3. As operações de crédito referidas no n.º 1, quando de prazo superior a dois anos, que não sejam de crédito à exportação nacional ou não constituam simples prestação de garantia, ficam sujeitas ao regime estabelecido no presente diploma, desde que realizadas mediante aplicação de fundos diferentes dos capitais próprios dos bancos comerciais. Essas operações de crédito serão designadas por «operações de crédito a médio prazo com regime especial».
+
+4. São considerados capitais próprios, para efeito do disposto neste diploma, o capital social, o fundo de reserva legal e outros fundos de reserva que não tenham qualquer afectação especial.
+
+###### Artigo 2.º
+
+Os bancos comerciais só podem efectuar as operações de crédito a médio prazo com regime especial que, nos termos dos artigos seguintes, devam ser havidas como operações de crédito agrícola e pecuário, de crédito industrial ou a estas equiparadas.
+
+###### Artigo 3.º
+
+As operações de crédito agrícola e pecuário a médio prazo terão por objecto facultar recursos financeiros para as aplicações seguintes:
+
+a) Obras de preparação ou adaptação de terrenos para novas culturas, pastagens ou arborização, incluindo neste caso a aquisição de plantas;
+
+b) Alargamento, intensificação ou melhoria da exploração agrícola, florestal ou pecuária, designadamente pelas formas seguintes: aquisição e emprego de máquinas e de alfaias mecânicas, construção de instalações e aquisição de animais e de equipamentos vários para desenvolvimento da criação de gados; construção de instalações para conservação ou para aproveitamento de produtos agrícolas, silvícolas ou pecuários, em complemento e para uso exclusivo da exploração rural; e construção, montagem, aperfeiçoamento ou renovação de estabelecimentos fabris que tenham por fim a transformação ou melhoramento daqueles produtos, também em complemento da exploração rural;
+
+c) Outros investimentos relacionados directamente com o fomento da produção agro-pecuária que, como os anteriores, se possam reputar, pela sua natureza, financiáveis por meio de operações de crédito a médio prazo.
+
+###### Artigo 4.º
+
+1. As operações de crédito industrial a médio prazo terão por objecto facultar recursos financeiros para as aplicações seguintes:
+
+a) Melhoramento de instalações industriais e montagem de laboratórios e outras instalações tecnológicas;
+
+b) Aquisição de equipamentos tendentes a introduzir novos fabricos, reduzir os custos de produção, melhorar a qualidade dos produtos ou desenvolver a capacidade produtiva, bem como a reparação ou beneficiação desses equipamentos;
+
+c) Reorganização de indústrias nos termos da legislação aplicável;
+
+d) Compra de patentes, marcas, modelos de fabrico, desenhos ou inventos;
+
+e) Desenvolvimento da produção de energia e alargamento ou melhoria das redes de distribuição de energia e de transportes e comunicações, incluindo a aquisição dos equipamentos relacionados com a exploração daquelas fontes de energia ou destas redes;
+
+f) Desenvolvimento ou melhoria do equipamento turístico;
+
+g) Outros investimentos relacionados directamente com o fomento de indústrias ou de serviços que, como os precedentes, se possam reputar, pela sua natureza, financiáveis por meio de operações de crédito a médio prazo.
+
+2. Para efeito de realização de operações de crédito a médio prazo com regime especial, são equiparadas às referidas no número anterior as operações de crédito a médio prazo que visem o financiamento da colocação nos mercados nacionais de produtos considerados de origem nacional, nos termos do [Decreto n.º 44260](https://diariodarepublica.pt/dr/detalhe/decreto/44260-1962-423052), de 31 de Março de 1962, desde que esses produtos sejam bens de equipamento ou de consumo duradouro.
+
+###### Artigo 5.º
+
+1. Na realização de operações de crédito a médio prazo com regime especial os bancos comerciais poderão utilizar os recursos seguintes:
+
+a) Fundos provenientes de créditos, a prazo superior a cento e oitenta dias, concedidos por instituições de crédito estrangeiras;
+
+b) Fundos provenientes de créditos, a prazo superior a cento e oitenta dias, concedidos por institutos de crédito do Estado e estabelecimentos especiais de crédito, nas condições acordadas com estas instituições.
+
+2. O Ministro das Finanças, ouvido o Banco de Portugal, poderá autorizar que os bancos comerciais utilizem, na realização destas operações, os recursos seguintes:
+
+a) Depósitos a prazo superior a cento e oitenta dias;
+
+b) Quaisquer outros fundos, não abrangidos pelo n.º 1 do presente artigo, obtidos nos mercados nacional ou estrangeiros e em condições de serem aplicados em operações de crédito a médio prazo.
+
+###### Artigo 6.º
+
+1. O Ministro das Finanças poderá ainda autorizar os bancos comerciais a emitir obrigações, ficando o produto das emissões consignado à realização de operações de crédito a médio prazo com regime especial que tenham por objecto o financiamento de empreendimentos de reconhecido interesse para o desenvolvimento da economia nacional.
+
+2. A emissão destas obrigações, cujo prazo não excederá sete anos, fica subordinada à legislação vigente
+
+3. Os juros de obrigações emitidas em conformidade com o previsto no presente artigo podem ser isentos, total ou parcialmente, pelo Ministro das Finanças, do imposto de capitais e do imposto complementar.
+
+> Alterado pelo/a [Decreto-Lei n.º 199/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1970-142087), publicado em 1970-05-08.
+
+###### Artigo 7.º
+
+1. A importância total dos saldos das operações de crédito a médio prazo com regime especial, acrescida do quantitativo dos saldos das operações de crédito com prazo superior a dois anos efectuadas com aplicação de capitais próprios, não poderá, para cada banco comercial, exceder duas vezes e meia esses capitais.
+
+2. O referido limite poderá ser alterado por portaria do Ministro das Finanças, sob parecer do Banco de Portugal e ouvido o Conselho Nacional de Crédito.
+
+###### Artigo 8.º
+
+Sendo as operações de crédito a médio prazo com regime especial efectuadas mediante empréstimo, poderá este, durante um período inicial não superior a dois anos, ser utilizado sob a forma de conta corrente.
+
+###### Artigo 9.º
+
+1. As operações de crédito a médio prazo com regime especial deverão ser garantidas por qualquer forma admitida em direito.
+
+2. Tratando-se de garantia real, os bens sobre que ela incida serão seguros contra os riscos usuais.
+
+3. Quando entre o banco comercial e o beneficiário do crédito tiver sido acordada a realização do seguro do crédito concedido, poderá ser cobrada ao beneficiário uma importância não superior ao respectivo prémio a cargo do banco.
+
+###### Artigo 10.º
+
+1. Independentemente do previsto na lei geral ou do acordado pelas partes, os créditos de bancos comerciais resultantes de operações de crédito a médio prazo com regime especial tornam-se imediatamente exigíveis quando, sem autorização do credor, os créditos forem aplicados a fins diferentes daqueles para que haviam sido concedidos.
+
+2. Em qualquer caso de exigibilidade antecipada, poderá o banco credor, por meio de interpelação judicial ou extrajudicial, exigir ao devedor a totalidade da dívida.
+
+3. Quando se verificar a exigibilidade antecipada de um crédito a médio prazo com regime especial, concedido sob a forma de desconto, deverá o banco, no momento do pagamento da dívida, restituir o título descontado.
+
+###### Artigo 11.º
+
+No caso de pagamento voluntário antecipado de crédito a médio prazo com regime especial, tem o banco comercial credor direito a 1/5 do juro correspondente ao período de antecipação; no caso de exigibilidade antecipada, tem direito a metade desse juro.
+
+###### Artigo 12.º
+
+O Ministro das Finanças, ouvido o Banco de Portugal, poderá fixar taxas de juro diferenciadas a aplicar pelos bancos comerciais em operações de crédito a médio prazo com regime especial.
+
+###### Artigo 13.º
+
+1. O Banco de Portugal, dentro da orientação geral do crédito definida pelo Governo e das atribuições que lhe cabem como banco emissor no continente e ilhas adjacentes, poderá, relativamente a operações de crédito a médio prazo com regime especial, conceder crédito aos bancos comerciais, por prazo não superior a um ano.
+
+2. O disposto no número anterior é aplicável às operações de crédito dos bancos comerciais com prazo de um a dois anos e que não sejam de crédito à exportação nacional, desde que, nos termos dos artigos 3.º e 4.º do presente diploma, possam ser havidas como operações de crédito agrícola e pecuário, de crédito industrial ou a estas equiparadas.
+
+3. Para apreciação dos pedidos de crédito referidos nos números anteriores, deverão os bancos comerciais enviar ao Banco de Portugal todos os elementos informativos necessários, com o objectivo de comprovar, nomeadamente, a legitimidade daqueles pedidos.
+
+4. Poderão ser acordadas entre o Banco de Portugal e os bancos comerciais cláusulas relativas ao pagamento antecipado dos créditos concedidos nos termos deste artigo.
+
+###### Artigo 14.º
+
+1. Os institutos de crédito ao Estado e os estabelecimentos especiais de crédito enviarão ao Banco de Portugal, de acordo com as instruções que por este lhes forem transmitidas, os elementos de informação sobre as operações de crédito que realizarem com os bancos comerciais, nos termos da alínea b) do n.º 1 do artigo 5.º deste diploma.
+
+2. Será também enviada cópia desses elementos à Inspecção-Geral de Crédito e Seguros.
+
+II
+
+Das garantias de liquidez e solvabilidade dos bancos comerciais
+
+###### Artigo 15.º
+
+1. São consideradas disponibilidades de caixa dos bancos comerciais:
+
+a) O dinheiro em cofre;
+
+b) Os depósitos à ordem no banco emissor do continente e ilhas adjacentes;
+
+c) As promissórias do fomento nacional.
+
+2. Os vales do correio e os cheques emitidos por entidades de reconhecida idoneidade sobre instituições de crédito domiciliadas no País poderão ser considerados como dinheiro em cofre, pelo período máximo de três dias.
+
+3. Os cheques emitidos por bancos comerciais, quer sobre as suas sucursais, ou vice-versa, quer sobre outras instituições de crédito, não poderão ser considerados como dinheiro em cofre.
+
+###### Artigo 16.º
+
+1. O Ministro das Finanças, ouvido o Banco de Portugal, fixará, por portaria, a participação que, nas disponibilidades de caixa, poderão atingir as promissórias de fomento nacional.
+
+2. Compete ao Banco de Portugal, em conformidade com o disposto no § 2.º do artigo 14.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, determinar:
+
+a) A fracção das disponibilidades de caixa que pode estar representada por cheques e vales do correio, quando considerados dinheiro em cofre;
+
+b) As percentagens, respectivamente, de responsabilidades à vista e de depósitos a prazo, igual ou superior a trinta dias, em moeda nacional, que devem estar cobertas por disponibilidades de caixa;
+
+c) Os valores que podem servir de cobertura, para as citadas responsabilidades à vista e depósitos a prazo, na parte em que as importâncias totais, dessas responsabilidades e destes depósitos, excedam as percentagens referidas na alínea anterior;
+
+d) As regras a observar pelos bancos comerciais na contabilização dos indicados valores.
+
+3. O Banco de Portugal, ao determinar quer as percentagens, quer os valores mencionados nas alíneas b) e c) do n.º 2, poderá classificar os depósitos a prazo em grupos diferentes, de acordo com a duração do dito prazo.
+
+4. Para efeito do presente artigo:
+
+a) Os depósitos com pré-aviso inferior a trinta dias são havidos como responsabilidades à vista;
+
+b) Os depósitos com pré-aviso igual ou superior a trinta dias são equiparados aos depósitos a prazo igual ao pré-aviso estipulado.
+
+5. As determinações tomadas pelo Banco de Portugal no exercício da competência que lhe é atribuída nos n.os 2 e 3 do presente artigo serão comunicadas à Inspecção-Geral de Crédito e Seguros, que as fará publicar na 1.ª série do Diário do Governo.
+
+> Alterado pelo/a [Decreto-Lei n.º 180/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1970-226036), publicado em 1970-04-25.
+
+###### Artigo 17.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 318/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1989-548228), publicado em 1989-09-23.
+
+###### Artigo 18.º
+
+1. Sempre que as operações de crédito efectuadas por bancos comerciais devam obrigatòriamente ser caucionadas, só poderão ser consideradas, para efeito de caução, as seguintes percentagens máximas do valor dos bens dados em garantia:
+
+a) 90 por cento do valor dos títulos do Estado ou garantidos por este;
+
+b) 75 por cento do valor dos outros títulos nacionais;
+
+c) 75 por cento do valor dos títulos de Estado estrangeiros;
+
+d) 70 por cento do valor dos outros títulos estrangeiros;
+
+e) 90 por cento do valor corrente, excluído o estimativo, do ouro ou prata;
+
+f) 75 por cento do valor das mercadorias ou produtos;
+
+g) 60 por cento do valor dos imóveis que for determinado por perito qualificado.
+
+2. Os títulos referidos no número anterior deverão ser cotados em bolsa e o seu valor será o de cotação resultante de operações efectuadas.
+
+3. Tratando-se de títulos amortizáveis por sorteio, o crédito a conceder não poderá ser superior ao valor nominal desses títulos.
+
+4. As margens mínimas de segurança estabelecidas no presente artigo deverão ser mantidas até à liquidação da operação efectuada.
+
+III
+
+Disposições gerais
+
+###### Artigo 19.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 318/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1989-548228), publicado em 1989-09-23.
+
+###### Artigo 20.º
+
+1. As infracções ao disposto no presente diploma, bem como ao que vier a ser determinado de harmonia com os artigos 5.º, 6.º, 7.º, 12.º, 16.º e 17.º, n.º 1, são puníveis nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), de 23 de Dezembro de 1966.
+
+2. O não cumprimento do que for determinado nos termos do n.º 2 do do artigo 17.º é punido, pelo Ministro das Finanças, com multa que poderá ir até ao quantitativo não aplicado.
+
+###### Artigo 21.º
+
+São revogados os artigos 61.º, 63.º e 71.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e o [Decreto-Lei n.º 47910](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47910-1967-390268), de 7 de Setembro de 1967.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Gonçalo da Cunha Sottomayor Correia de Oliveira.
+
+Promulgado em 26 de Março de 1969.
+
+Publique-se.
+
+Presidência da República, 3 de Abril de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

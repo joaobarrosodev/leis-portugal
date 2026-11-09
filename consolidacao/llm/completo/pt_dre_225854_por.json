@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:225854:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1. O pessoal médico que participe nas escalas de urgência (banco) e nas escalas de enfermaria receberá, pelas horas que trabalhar além do serviço normal em tempo parcial ou em tempo completo, uma remuneração proporcional ao seu vencimento-hora.\n\n2. O pessoal de enfermagem e outro pessoal técnico, o pessoal administrativo, menor, auxiliar e oficinal que for escalado para prestar serviço no período compreendido entre as 0 e as 8 horas receberá uma remuneração complementar a fixar por despacho conjunto dos Ministros das Finanças e da Saúde e Assistência.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 87/71, artigo único: nova redação do n.º 2 do art. 1.º (n.º 1 mantido); aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

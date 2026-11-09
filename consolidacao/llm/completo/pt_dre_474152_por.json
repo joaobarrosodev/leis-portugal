@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:474152:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "As três retificações da Declaração de Rectificação n.º 114-D/95 incidem sobre a tabela de selecção anexa, que só existe como imagem/PDF (\"ver documento original\"); não há texto onde as aplicar.",
+  "instrucoes": [
+    "Retificação do prazo da ref. 24 (5 para 3): não aplicável (tabela em imagem)",
+    "Transferência das anotações da ref. 76 para a ref. 77: não aplicável (tabela em imagem)",
+    "Retificação da observação da ref. 121: não aplicável (tabela em imagem)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

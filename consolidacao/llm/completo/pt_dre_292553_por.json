@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:292553:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Os DL 48023 e 48225 substituem os direitos de base do art. 1.º e o programa de reduções do art. 2.º por novos regimes, sem darem nova redação aos artigos do DL 46475 (e o DL 48225 revoga o DL 48023); alterações não textuais, não aplicadas.",
+  "instrucoes": [
+    "DL 48023, arts. 1.º a 3.º: novos direitos de base e novo programa de reduções, sem nova redação dos artigos; não aplicados.",
+    "DL 48225, arts. 1.º a 3.º: idem; art. 4.º revoga o DL 48023 (outro diploma); não aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

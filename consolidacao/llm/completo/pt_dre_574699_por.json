@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:574699:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redacção do artigo 1.º (n.os 1 e 2, equiparação das transmissões de fracção do património às cisões); aplicada e depois prejudicada pela revogação.",
+    "Alterador 2 art. 3.º, n.º 18): revoga o Decreto-Lei n.º 128/81, com a redacção do Decreto-Lei n.º 161/84, sem prejuízo dos benefícios já concedidos; aplicada como revogação dos artigos 1.º e 2.º.",
+    "Restantes números dos artigos 1.º a 3.º do alterador 2: revogam outros diplomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

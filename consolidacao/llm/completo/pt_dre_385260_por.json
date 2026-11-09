@@ -1,0 +1,37 @@
+{
+  "id": "pt:dre:385260:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Estrutura",
+      "texto": "A DRCE compreende os seguintes órgãos e serviços:\n\na) Director regional;\n\nb) Direcção de Serviços dos Assuntos Jurídicos;\n\nc) Direcção de Serviços dos Assuntos Europeus;\n\nd) Direcção de Serviços das Relações Externas e Cooperação;\n\ne) Serviços de Informática;\n\nf) Centro de Informação e Documentação;\n\ng) Departamento dos Serviços Administrativos e de Arquivo.",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Natureza e estrutura",
+      "texto": "1 - O Departamento dos Serviços Administrativos e de Arquivo, abreviadamente designado por DSAA, é o serviço de apoio administrativo e logístico da DRCE e funciona na directa dependência do director regional.\n\n2 - O DSAA compreende as seguintes secções:\n\na) Secção do Secretariado Administrativo;\n\nb) Secção de Pessoal;\n\nc) Secção de Registo e Expediente;\n\nd) Secção de Arquivo;\n\ne) Secção de Contabilidade e Património.",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Competências",
+      "texto": "Ao DSAA compete:\n\na) Assegurar o apoio administrativo e logístico a todos os serviços dependentes da DRCE, bem como à Comissão Regional para os Assuntos das Comunidades Europeias;\n\nb) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal da DRCE, designadamente organizar e manter actualizados os ficheiros de cadastro e dos processos individuais;\n\nc) Assegurar a recepção, classificação, registo e encaminhamento de documentos;\n\nd) Assegurar o tratamento, acondicionamento e gestão de documentos e proceder à organização do serviço de arquivo;\n\ne) Assegurar e controlar a execução orçamental da DRCE;\n\nf) Assegurar a aquisição do material necessário ao bom funcionamento dos serviços, bem como a respectiva gestão;\n\ng) Velar pela segurança e conservação das instalações e dos equipamentos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Artigo 5.º do alterador 1: o novo quadro de pessoal (mapa anexo a que se refere o artigo 13.º) só vem em imagem no documento original; o mapa não foi transcrito. O texto do artigo 13.º não muda.",
+  "instrucoes": [
+    "Art. 2.º: nova redacção do artigo 3.º (alíneas a) a f) mantidas, nova alínea g)); aplicado.",
+    "Art. 2.º: nova redacção integral do artigo 10.º (DSAA e secções); aplicado.",
+    "Art. 2.º: nova redacção do artigo 11.º (proémio novo, a) e b) mantidas, c) e d) novas, e) a g) = antigas d) a f)); aplicado.",
+    "Art. 2.º: as epígrafes de capítulo/secção (CAPÍTULO II, SECÇÃO I, SECÇÃO VIII) não pertencem a artigos; não aplicadas como texto de artigo.",
+    "Art. 3.º: aditamento do artigo 19.º; o texto atual já coincide, sem mudança.",
+    "Art. 4.º: extinção dos lugares de chefe de repartição; disposição autónoma, não altera o texto do original.",
+    "Art. 5.º: novo mapa anexo do quadro de pessoal; só em imagem, não aplicado (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

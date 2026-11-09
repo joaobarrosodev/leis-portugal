@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Condições gerais dos empréstimos\n\nOs empréstimos a realizar pelo Governo devem subordinar-se às seguintes condições gerais:\n\na) Não ultrapassarem o montante global correspondente ao limite que vier a ser estabelecido por lei, não podendo em caso algum exceder os 8 milhões de contos;\n\nb) Serem empréstimos amortizáveis a colocar junto das instituições financeiras, incluindo o Banco de Portugal, ou outras entidades nacionais e internacionais;\n\nc) Serem aplicados no financiamento de investimentos ou de outros empreendimentos especialmente reprodutivos;\n\nd) Serem os empréstimos externos contraídos, em caso de insuficiência do mercado interno, em condições mais favoráveis do que as praticadas no mercado nacional de capitais em matéria de prazo, taxa de juro e demais encargos.",
+    "depois": "###### Artigo 4.º — Condições gerais dos empréstimos\n\nOs empréstimos a realizar pelo Governo devem subordinar-se às seguintes condições gerais:\n\na) Não ultrapassarem o montante global de 10 milhões de contos, sendo 2 milhões de contos de curto prazo.\n\nb) Serem empréstimos amortizáveis a colocar junto das instituições financeiras, incluindo o Banco de Portugal, ou outras entidades nacionais e internacionais;\n\nc) Serem aplicados no financiamento de investimentos ou de outros empreendimentos especialmente reprodutivos;\n\nd) Serem os empréstimos externos contraídos, em caso de insuficiência do mercado interno, em condições mais favoráveis do que as praticadas no mercado nacional de capitais em matéria de prazo, taxa de juro e demais encargos.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 20/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1990-274446), publicado em 1990-12-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:262100:por",
+    "alterador": "pt:dre:274446:por"
+  }
+]

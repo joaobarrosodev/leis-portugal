@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:545618:por",
+  "artigos": [
+    {
+      "chave": "39.º",
+      "epigrafe": "Período de transição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Os anexos não constam do texto atual por artigos: a nova redação do anexo I dada pelo Decreto-Lei n.º 11/2010 (art. 2.º e anexo I) e depois pelo Decreto-Lei n.º 148/2013 (art. 14.º e anexo XI), e a revogação do anexo XIV pelo art. 6.º do Decreto-Lei n.º 11/2010, não foram aplicadas por não haver chave de anexo onde as aplicar.",
+  "instrucoes": [
+    "Alterador 1 (DL 11/2010), art. 2.º: anexo I passa a ter a redação do anexo I do alterador — anexo ausente do texto atual, não aplicado.",
+    "Alterador 1, art. 3.º e 4.º: alteram o DL 218/2008 e o Regulamento aprovado pelo DL 267-B/2000 — outros diplomas, ignorados.",
+    "Alterador 1, art. 6.º: revoga o artigo 39.º — artigo 39.º fica «(Revogado.)»; revoga o anexo XIV — anexo ausente do texto atual, não aplicado.",
+    "Alterador 2 (DL 148/2013), art. 14.º: anexo I passa a ter a redação do anexo XI do alterador — anexo ausente do texto atual, não aplicado.",
+    "Alterador 2, restantes artigos 2.º a 13.º e 15.º a 18.º: alteram outros diplomas, ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

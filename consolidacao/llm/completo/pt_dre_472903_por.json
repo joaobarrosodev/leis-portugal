@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:472903:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "As estampilhas fiscais de emolumentos consulares serão dos seguintes valores em moeda portuguesa: 1$00, 5$00, 10$00, 25$00, 40$00, 50$00, 80$00, 100$00, 150$00, 200$00, 300$00, 480$00, 500$00, 600$00, 800$00, 1000$00, 1440$00, 1500$00, 2000$00, 3200$00 e 3800$00, divididos em sete grupos de cores diferentes, composto cada um de três valores seguidos.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: altera os artigos 1.º, 20.º e 22.º da tabela de emolumentos consulares (Decreto-Lei n.º 46641, outro diploma) - ignorado.",
+    "Alterador 2, artigo único: nova redação do artigo 1.º - aplicada, depois substituída pelo alterador 3.",
+    "Alterador 3, art. 1.º: nova redação do artigo 1.º - aplicada (redação final).",
+    "Alterador 3, art. 2.º: norma autónoma sobre denominações - não altera o texto do original.",
+    "Alterador 4: altera os n.os 4.º e 7.º do artigo 1.º da tabela de emolumentos consulares (outro diploma) - ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

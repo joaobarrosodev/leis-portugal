@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:164576:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 737-A/75): extingue o Serviço de Campanha de Fomento Pecuário e regula o destino do pessoal e dos bens, sem alterar, revogar ou substituir textualmente nenhum artigo do original; não há redação a aplicar.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: extinção do Serviço a partir do final do ano económico; não é alteração textual, não aplicada.",
+    "Alterador 1, arts. 2.º a 4.º: normas autónomas (pessoal, bens, conta de gerência), sem alteração ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -160,11 +160,13 @@ c) A 1,65 vezes do valor do IAS, para o trabalhador com licenciatura ou mestrado
 
 7. Os postos de trabalho preenchidos por jovens, entre os 18 e os 30 anos, desempregados ou à procura do primeiro emprego, inscritos no centro de emprego há pelo menos 4 meses, terão uma majoração de 50% aplicada aos valores estabelecidos no número anterior.
 
-8. O pagamento do financiamento, por posto de trabalho, é realizado desde que verificada a criação do posto de trabalho, em duas prestações de igual montante, devendo a primeira ser concretizada a pedido do beneficiário, devendo este pedido ser apresentado após o fim do primeiro mês subsequente à celebração do contrato de trabalho sem termo, a tempo inteiro, e a segunda a pedido do beneficiário, devendo este pedido ser apresentado 12 meses após o pagamento da primeira prestação.
+8 - O pagamento do financiamento, por posto de trabalho, é realizado desde que verificada a criação do posto de trabalho, em duas prestações de igual montante, sendo concretizadas a pedido do beneficiário, devendo o primeiro pedido ser apresentado após o fim do mês subsequente à celebração do contrato de trabalho sem termo, a tempo inteiro, e o segundo pedido ser apresentado 12 meses após a celebração do contrato de trabalho sem termo.
 
 9. Considera-se criado o posto de trabalho quando o mesmo se encontre preenchido e tenha sido mantido até ao encerramento do projeto.
 
 10. A partir da contratação e durante o período de vigência do contrato de concessão de incentivos, a empresa deve registar, com periodicidade mensal, um número total de trabalhadores igual ou superior ao número de trabalhadores registados no dia seguinte à data da(s) contratação(ões) objeto de apoio.
+
+> Alterado pelo/a [Portaria n.º 261/2014](https://diariodarepublica.pt/dr/detalhe/portaria/261-2014-65889974), publicado em 2014-12-16.
 
 ###### Artigo 9.º — Estruturas de gestão
 

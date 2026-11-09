@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:374600:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - Os senhorios que levarem a efeito, em fogos dados de arrendamento, quaisquer benfeitorias necessárias de carácter extraordinário podem, findos os respectivos trabalhos, requerer avaliação para fixação de nova renda, independentemente dos limites estabelecidos nos artigos anteriores.\n\n2 - Sempre que a renda resultante da avaliação referida no número anterior exceder o dobro da renda praticada à data do pedido, a nova renda não será superior àquele limite nos 12 meses subsequentes à fixação.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "Em todos os demais arrendamentos não rurais aplica-se o disposto nos artigos 2.º e 3.º do presente diploma.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 art. 1.º: nova redação do artigo 3.º (n.os 1 e 2) - aplicada.",
+    "Alterador 1 art. 2.º: nova redação do artigo 8.º (texto único, sem o n.º 2) - aplicada.",
+    "Alterador 1 arts. 3.º e 4.º: normas autónomas, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

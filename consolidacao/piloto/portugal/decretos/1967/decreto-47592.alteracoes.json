@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1. Se antes de decorrido um ano sobre a realização, para qualquer categoria, do concurso de habilitação a que se refere o artigo anterior e após o subsequente concurso de provimento se mantiverem vagos lugares reservados, nos termos da legislação vigente, a candidatos masculinos, podem, em segundo concurso de provimento, ser também admitidos candidatos femininos.\n\n2. O disposto no número anterior é aplicável aos concursos de provimento em que a admissão dependa sòmente do tempo e da qualidade do serviço prestado.",
+    "depois": "###### Artigo 3.º\n\nSe antes de decorrido um ano sobre a realização, para qualquer categoria, de concurso de habilitação e após o subsequente concurso de provimento se mantiverem vagos lugares reservados, nos termos da legislação vigente, a candidatos masculinos, podem, em segundo concurso de provimento, ser também admitidos candidatos femininos.\n\n> Alterado pelo/a [Decreto n.º 28/70](https://diariodarepublica.pt/dr/detalhe/decreto/28-1970-227226), publicado em 1970-01-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:503254:por",
+    "alterador": "pt:dre:227226:por"
+  }
+]

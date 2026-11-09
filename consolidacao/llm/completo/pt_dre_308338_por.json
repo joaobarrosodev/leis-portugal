@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:308338:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "A mais-valia corresponde à diferença entre o valor do prédio à data em que foi requerida a licença de construção e o valor que teria na mesma data, sem o anúncio ou construção da obra rodoviária.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do DR 63/85: nova redação do artigo 3.º"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

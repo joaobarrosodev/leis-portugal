@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:285138:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 779/93), n.º 1.º: altera o plano de estudos do curso superior de Segurança Social constante do anexo do original; o plano só vem em imagem (ver documento original) e o anexo não está no texto atual, pelo que não se aplicou.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 779/93): n.º 1.º altera o plano de estudos (anexo) do curso de Segurança Social; não aplicável (só em imagem). Restantes números autorizam novo curso, sem alterar o texto do original.",
+    "Alterador 2 (Portaria n.º 1222/2004): aprova plano de estudos de outro curso e declara a caducidade da autorização dos bacharelatos em Gestão Bancária e Gestão Seguradora; não é alteração textual do original; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

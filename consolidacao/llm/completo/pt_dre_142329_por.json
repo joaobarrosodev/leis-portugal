@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:142329:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "As alterações dos Decretos n.os 362/72 e 611/73 e das Portarias n.os 1100/80 e 849/82 incidem só sobre os mapas de pessoal anexos, que vêm apenas em imagem (ver documento original); nenhum artigo do original é alterado textualmente.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: altera os mapas I, II, II-A e III por mapas de alterações em imagem; não aplicável ao texto.",
+    "Alterador 2, art. 1.º: altera os mapas I e II por mapas em imagem; não aplicável ao texto.",
+    "Alterador 3, 1.º d): substitui o quadro do mapa I por quadro anexo em imagem; não aplicável.",
+    "Alterador 4, 2.º d): revoga a Portaria 1100/80 e substitui o quadro do mapa I por quadro em imagem; não aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

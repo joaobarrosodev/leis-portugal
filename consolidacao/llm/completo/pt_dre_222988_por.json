@@ -1,0 +1,53 @@
+{
+  "id": "pt:dre:222988:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Órgãos e serviços",
+      "texto": "O NESI compreende os seguintes órgãos e serviços:\n\n1) São órgãos do NESI:\n\na) O conselho coordenador;\n\nb) O conselho consultivo.\n\n2) São serviços do NESI:\n\na) O Gabinete Jurídico;\n\nb) O Gabinete de Apoio Técnico;\n\nc) Divisão Administrativa e de Recursos Humanos.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Composição",
+      "texto": "1 - O conselho coordenador é constituído pelas seguintes entidades:\n\na) Um representante do conselho de administração do Pólo Científico e Tecnológico;\n\nb) O director regional do Planeamento;\n\nc) O director regional de Informática;\n\nd) Um representante da Secretaria Regional da Educação;\n\ne) Um representante da Secretaria Regional da Economia e Cooperação Externa;\n\nf) Um representante da Universidade da Madeira, a designar pelo reitor;\n\ng) Um representante da Sociedade de Desenvolvimento da Madeira.\n\n2 - Os representantes mencionados nas alíneas d) e e) do número anterior serão designados por despacho dos respectivos secretários regionais de entre indivíduos detentores de cargos dirigentes ou equiparados.\n\n3 - O conselho coordenador será presidido por um dos seus membros, a designar por despacho do Secretário Regional do Plano e da Coordenação.",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Composição",
+      "texto": "O conselho consultivo é constituído pelos seguintes elementos:\n\n1 - Membros permanentes:\n\na) Um representante de cada uma das secretarias regionais;\n\nb) Um representante da Universidade da Madeira, a designar pelo reitor;\n\nc) Um representante da DTIM.\n\n2 - Os membros permanentes do conselho consultivo mencionados na alínea a) do número anterior serão designados por despacho dos respectivos secretários regionais de entre indivíduos detentores de cargos dirigentes ou equiparados com responsabilidades nos sistemas de informação, podendo estes, de acordo com a especialidade das acções ou medidas, fazer-se acompanhar ou substituir por outra individualidade.\n\n3 - Membros não permanentes:\n\na) Integrarão ainda o conselho consultivo, em razão do sector ou matéria sobre que incida a consulta ou parecer, representantes de entidades públicas ou privadas de reconhecida importância nestas áreas e individualidades de reconhecida competência na matéria;\n\nb) Os membros não permanentes do conselho consultivo serão designados por deliberação do conselho coordenador, por indicação deste ou mediante apresentação de proposta dos membros permanentes do conselho consultivo.",
+      "alterador": 1
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Natureza e atribuições",
+      "texto": "A Divisão Administrativa e de Recursos Humanos, adiante designada por DARH, é um serviço de apoio e execução administrativa do NESI que tem por atribuições a coordenação da gestão administrativa e de recursos humanos do NESI.",
+      "alterador": 1
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Competências",
+      "texto": "1 - A DARH é dirigida por um chefe de divisão, a quem compete, designadamente:\n\na) Assegurar os procedimentos de recrutamento, promoção e progressão de pessoal;\n\nb) Divulgar pelo pessoal do NESI todas as informações referentes a formação profissional e legislação de interesse geral;\n\nc) Elaborar o balanço social;\n\nd) Manter actualizadas as informações referentes à manutenção e actualização do cadastro pessoal, bem como do arquivo referente aos processos individuais;\n\ne) Assegurar todo o expediente relativo à assiduidade e férias do pessoal;\n\nf) Fornecer à repartição de vencimentos da Secretaria Regional do Plano e da Coordenação todos os indicadores para processamento das remunerações devidas ao pessoal;\n\ng) Organizar os processos relacionados com atribuições da ADSE e com a concessão de abono de família e prestações complementares;\n\nh) Promover as aquisições de bens e serviços necessários ao bom funcionamento do NESI, organizando e mantendo actualizado o respectivo cadastro;\n\ni) Assegurar o registo, encaminhamento e arquivo do expediente;\n\nj) Assegurar, em geral, o normal funcionamento do NESI em tudo o que não seja da competência específica dos demais serviços.\n\n2 - A DARH compreende uma repartição administrativa.",
+      "alterador": 1
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Competências",
+      "texto": "As despesas correntes e de capital serão autorizadas pelo Secretário Regional do Plano e da Coordenação.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1: a substituição da epígrafe da secção III do capítulo IV e a criação de um lugar de chefe de divisão no quadro (mapa anexo) não são texto de artigos; o alterador 2 (DRR 24/2001/M) aprova nova orgânica e faz transitar o pessoal do NESI sem revogar nem alterar o texto do original. Não aplicados.",
+  "instrucoes": [
+    "Alt. 1 (DRR 12/98/M), art. 2.º: nova redação dos arts. 3.º, 5.º, 10.º, 14.º e 15.º; aplicada",
+    "Alt. 1, art. 3.º: nova epígrafe da secção III do cap. IV; não é epígrafe de artigo, não aplicada",
+    "Alt. 1, art. 4.º: aditados capítulo VI e art. 19.º; art. 19.º aplicado",
+    "Alt. 1, art. 5.º: lugar de chefe de divisão no mapa do quadro; não aplicado",
+    "Alt. 2 (DRR 24/2001/M): nova orgânica autónoma; sem instrução textual sobre o original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

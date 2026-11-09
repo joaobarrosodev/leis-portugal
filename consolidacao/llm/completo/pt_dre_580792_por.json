@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:580792:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O artigo 2.º do DL 150/2013 dá nova redação ao anexo I do original (lista dos territórios), que não consta do texto atual (só artigos); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: aditamento do artigo 8.º-A — já consta do texto atual com a mesma redação; nada a mudar.",
+    "Alterador 1, art. 2.º: entrada em vigor, não textual.",
+    "Alterador 2, art. 2.º: nova redação do anexo I — anexo fora do texto atual, não aplicado.",
+    "Alterador 2, art. 3.º: altera o anexo III do DL 163/2005 (outro diploma); ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

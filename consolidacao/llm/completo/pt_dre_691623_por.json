@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:691623:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1. As Oficinas Gerais de Material Aeronáutico são uma organização industrial a cuja actividade se aplicam os princípios e normas que regulam a actividade das empresas privadas, nomeadamente em matéria de capacidade jurídica, competência dos órgãos de gestão, regime de operações comerciais e responsabilidade civil, salvo o disposto especialmente por lei ou regulamento.\n\n2. Como organismo da Secretaria de Estado da Aeronáutica, tem personalidade jurídica e goza de autonomia administrativa e financeira.\n\n3 - A organização interna das Oficinas Gerais de Material Aeronáutico será regulada por despacho do Chefe do Estado-Maior da Força Aérea, a fim de poder corresponder às necessidades de gestão técnica, comercial e financeira de carácter empresarial.\n\n4 - O Chefe do Estado-Maior da Força Aérea poderá delegar no director das Oficinas Gerais de Material Aeronáutico a competência para alterar a organização interna daquele estabelecimento fabril.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 352/78, artigo único: art. 1.º, n.os 1 e 2 mantidos ('...'), novo n.º 3 e aditado n.º 4; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

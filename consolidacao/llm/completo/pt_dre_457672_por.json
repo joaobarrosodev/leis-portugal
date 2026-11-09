@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:457672:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (DL 485/85) dá nova redação ao artigo 3.º e ao artigo 6.º do Decreto-Lei n.º 515/80 (o articulado do decreto: transferência de bens e regime da INDEP), mas o texto atual recebido é só o do Estatuto, cujos artigos 3.º (Objecto principal) e 6.º (Capital estatutário, sem n.º 6) não são esses alvos; além disso a instrução fala no n.º 3 do artigo 6.º e o texto traz um n.º 6. Não aplicado por o alvo não existir no texto atual.",
+  "instrucoes": [
+    "Alterador 1 (DL 61/83): prorroga o prazo do n.º 3 do artigo 7.º do decreto; não é alteração textual; nada feito.",
+    "Alterador 2 (DL 485/85): nova redação do artigo 3.º e do n.º 3 (texto traz n.º 6) do artigo 6.º do DL 515/80; artigos do decreto ausentes do texto atual (só o Estatuto); não aplicado.",
+    "Alterador 3 (DL 363/91): regime do pessoal excedente; só refere o artigo 7.º do decreto, sem alterar o texto; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

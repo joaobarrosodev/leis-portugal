@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:428224:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Os três alteradores (Portarias n.os 390/79, 1069/80 e 188/89) alteram apenas o quadro de pessoal anexo (designação de lugar, aumento de lugares, substituição do mapa), que só vem em imagem e não é artigo; nenhum altera o texto dos artigos.",
+  "instrucoes": [
+    "Alt. 1: lugar de adjunto do quadro anexo passa a subdirector-geral; alteração do quadro, não do artigo 3.º; não aplicado.",
+    "Alt. 2, 1.º, n.º 2: aumento de lugares do quadro (mapa II em imagem); não aplicado. N.º 1 diz respeito a outro diploma (DL 486/79); ignorado.",
+    "Alt. 3: substituição do quadro de pessoal pelo mapa anexo (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:541811:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 art. 3.º n.º 2 (com o anexo I): nova redação da parte II do anexo IV do Regulamento, que não consta do texto por artigos e é dada com remissões '[...]'.",
+  "instrucoes": [
+    "Alterador 1 art. 3.º n.º 1: nova redação dos arts. 1.º, 2.º, 5.º e 13.º do Regulamento - já refletida no texto atual.",
+    "Alterador 1 art. 4.º: aditamento dos arts. 3.º-A e 5.º-A - já refletido no texto atual.",
+    "Alterador 1 art. 3.º n.º 2: parte II do anexo IV - não aplicável.",
+    "Alterador 1 art. 5.º: altera o Regulamento da Homologação CE (outro diploma) - ignorado; arts. 2.º, 6.º e 7.º: normas autónomas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:485051:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O Decreto n.º 20/2000 altera a tradução portuguesa das emendas publicadas em anexo, mas o texto atual só contém o texto em inglês do anexo (a tradução portuguesa não está no texto atual) e parte do anexo (formulário B, figuras) só existe em imagem; não há onde aplicar as novas redações com segurança.",
+  "instrucoes": [
+    "Artigo único: novas redações da tradução portuguesa das Regras 13F (n.os 3, b) a d), 4, 6 e 7, a)), 24(4) e parágrafo 5.8 do formulário B: não aplicadas (tradução portuguesa ausente do texto atual; formulário em imagem)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

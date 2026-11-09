@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1. As funções assistenciais, de ensino e investigação científica das unidades de ensino médico fazem parte das tarefas que incumbem ao pessoal dos referidos hospitais e serviços.\n\n2. Quando essas funções sejam exercidas por licenciados em Medicina, serão asseguradas por elementos dos respectivos quadros de pessoal médico integrados numa carreira única.\n\n3. A carreira médica a que se refere o número anterior será, a título transitório e enquanto não for reformulada a legislação sobre carreiras médicas, a que se encontra definida para os hospitais centrais não escolares, salvo no que se refere aos graus 5 e 6, correspondentes a chefe de serviço e director de serviço, que serão fundidos numa única categoria, com a designação de chefe de clínica, percebendo o vencimento correspondente à letra D.\n\n4. Enquanto não for publicada a legislação que defina uma carreira unificada para todos os estabelecimentos, os quadros e mapas de pessoal médico permanente dos hospitais distritais compreenderão as seguintes categorias:\n\na) Especialista, com vencimento correspondente à letra F;\n\nb) Chefe de clínica, com o vencimento correspondente à letra D, que substitui a categoria de director de serviço de hospital distrital.\n\n5. Os internos de policlínica e os internos de especialidades dos hospitais passam a ter as letras I e H, respectivamente.",
+    "depois": "###### Artigo 4.º\n\n1. Para além do exercício das funções assistenciais que lhe são próprias, incumbe ao pessoal médico dos referidos hospitais e serviços ministrar ensino quando para tal preencha os requisitos legalmente exigidos.\n\n2. A carreira médica hospitalar será, a título transitório e enquanto não for reformulada a legislação sobre carreiras médicas, a que se encontra definida para os hospitais centrais não escolares, salvo no que se refere aos graus 5 e 6, correspondente a chefe de serviço e director de serviço, que serão fundidos numa única categoria com a designação de chefe de clínica, percebendo o vencimento correspondente à letra D.\n\n3. Enquanto não for publicada a legislação que define uma carreira unificada para todos os estabelecimentos, os quadros e mapas de pessoal médico permanente dos hospitais distritais compreenderão as seguintes categorias:\n\na) Especialista, com vencimento correspondente à letra F;\n\nb) Chefe de clínica, com vencimento correspondente à letra D, que substitui a categoria de director de serviço de hospital distrital.\n\n4. Os internos de policlínica e os internos de especialidades dos hospitais passam a ter as letras I e H, respectivamente.\n\n> Alterado pelo/a [Decreto-Lei n.º 182/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1977-301226), publicado em 1977-05-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:309502:por",
+    "alterador": "pt:dre:301226:por;pt:dre:409485:por"
+  },
+  {
+    "artigo": "15.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 15.º\n\n1. Decorridos não mais de trinta dias sobre a conclusão dos concursos a que se refere o artigo anterior, serão abertos concursos à escala nacional para as vagas das diferentes categorias existentes nos quadros ou mapas dos hospitais distritais.\n\n2. Os concursos para cada grau terão lugar de acordo com as regras de admissibilidade e execução inteiramente idênticas às que forem praticadas nos concursos realizados para os hospitais centrais.",
+    "depois": "###### Artigo 15.º\n\n1. Dentro dos trinta dias seguintes à conclusão dos concursos previstos no n.º 2 do artigo 13.º serão abertos concursos à escala nacional para as vagas das diferentes categorias existentes nos quadros ou mapas dos hospitais distritais.\n\n2. Os concursos serão de provas públicas e realizar-se-ão segundo normas a fixar por portaria do Secretário de Estado da Saúde.\n\n3. Os médicos que, prestando serviço nos hospitais centrais, venham a candidatar-se a estes concursos não perdem, por este facto, os direitos que possuam relativamente àqueles hospitais para efeitos de concursos a realizar nos termos deste diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 755/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/755-1976-409485), publicado em 1976-10-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:309502:por",
+    "alterador": "pt:dre:301226:por;pt:dre:409485:por"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:381570:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Nas missões oficiais, as ajudas de custo a abonar aos oficiais que integram a missão serão de quantitativo igual às do elemento que a ela presidir.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 4.º: nova redação do artigo 2.º; aplicada.",
+    "Restantes artigos do alterador 1 dizem respeito a vencimentos e outros diplomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

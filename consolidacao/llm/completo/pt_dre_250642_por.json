@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:250642:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - No transporte rodoviário e ferroviário de caixas, isoladas ou agrupadas em paletas, a altura de carga no veículo não deverá ser superior a 8 unidades.\n\n2 - A partir de 1 de Janeiro de 1987, para distâncias superiores a 100 km, o transporte deverá efectuar-se em condições de ambiente controlado, de forma a serem evitadas temperaturas superiores a 18ºC ou inferiores a 12ºC.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do DR 10/87: nova redação do n.º 2 do artigo 2.º (n.º 1 mantido) - aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

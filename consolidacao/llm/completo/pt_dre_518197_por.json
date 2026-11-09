@@ -1,0 +1,50 @@
+{
+  "id": "pt:dre:518197:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1: substitui a tabela de emolumentos e taxas anexa, que só vem em imagem; não aplicada (o artigo 7.º, onde figura a tabela, fica de qualquer modo revogado pelo alterador 2).",
+  "instrucoes": [
+    "Alterador 1, artigo único: substituição da tabela anexa (imagem); não aplicada.",
+    "Alterador 2, art. 42.º: revoga o Decreto-Lei n.º 44234 com excepção do artigo 2.º; artigos 1.º e 3.º a 7.º ficam (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

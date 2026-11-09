@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "único",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo único\n\nÉ alterada a redacção do corpo do artigo 2.º do Diploma Legislativo Ministerial n.º 1 publicado no Boletim Oficial de Cabo Verde de 25 de Agosto de 1962, que passará a ter a seguinte redacção:\n\nArt. 2.º A Caixa realizará, com vista ao fomento económico da província, operações de crédito a médio e longo prazos, nos sectores da agricultura e pecuária, das pescas e das indústrias transformadoras conexas.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 6 de Outubro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.\n\nPara ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.",
+    "depois": "###### Artigo único\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 48851](https://diariodarepublica.pt/dr/detalhe/decreto/48851-1969-526816), publicado em 1969-01-25.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 6 de Outubro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.\n\nPara ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:387825:por",
+    "alterador": "pt:dre:526816:por"
+  }
+]

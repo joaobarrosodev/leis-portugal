@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:198763:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 513-J/79, art. 19.º: revoga o DL 49184 «em tudo o que for contrário ao presente diploma»: revogação condicional, não aplicada ao texto",
+    "Restantes artigos: novo regime autónomo, sem nova redação de artigos do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

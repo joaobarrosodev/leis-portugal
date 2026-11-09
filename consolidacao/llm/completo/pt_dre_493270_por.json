@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:493270:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Portaria n.º 316/87, n.º 15.º: o quadro de pessoal do Instituto passa a ser o do anexo XIII, que só vem em imagem (ver documento original) e não corresponde a nenhum artigo do texto atual.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 316/87), n.º 15.º: substitui o quadro de pessoal do Instituto pelo anexo XIII, só em imagem; não aplicado.",
+    "Alterador 2 (DL 215/2012), art. 36.º, n.º 1: mantém em vigor os artigos 87.º, 88.º e 92.º; não altera texto; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

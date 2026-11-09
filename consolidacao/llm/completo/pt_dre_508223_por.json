@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:508223:por",
+  "artigos": [
+    {
+      "chave": "28.º",
+      "epigrafe": "",
+      "texto": "Os directores dos museus são escolhidos pela forma seguinte:\n\na) Quanto aos museus nacionais, livremente pelo Ministro de entre pessoas de reconhecida competência;\n\nb) Quanto aos restantes museus, pela forma estabelecida para o recrutamento dos conservadores da respectiva classe.\n\n§ único. O disposto no presente artigo não implica alteração dos regimes especiais em vigor para o Museu Monográfico de Conímbriga e para o Museu de Escultura Comparada.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 752/74), artigo 1.º: nova redação do artigo 28.º; substituído o corpo inteiro.",
+    "Alterador 2 (DR 44/77): integra lugares no quadro único do artigo 32.º; não altera o texto do original.",
+    "Alterador 3 (DL 342/99): cria o IPCR; sem instrução textual sobre o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

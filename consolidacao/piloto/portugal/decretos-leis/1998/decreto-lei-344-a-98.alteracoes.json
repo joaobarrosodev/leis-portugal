@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Taxas de circulação\n\n1 - Pela circulação de embarcações na via navegável é devido, nos termos do disposto na alínea m) do artigo 6.º do [Decreto-Lei n.º 138-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-a-1997-230302), de 3 de Junho, o pagamento de taxas de circulação, a fixar em portaria dos Ministros do Equipamento, do Planeamento e da Administração do Território e do Ambiente.\n\n2 - As taxas mencionadas no número anterior reportam à utilização de cada eclusa, podendo ser pagas pelas formas a identificar na portaria aí referida.",
+    "depois": "###### Artigo 4.º — Taxas de circulação e de exploração\n\n1 - Pela circulação de embarcações na via navegável do Douro é devido o pagamento de taxas de circulação.\n\n2 - As taxas mencionadas no número anterior reportam à utilização de cada eclusa, à utilização do canal de navegação e à utilização das infra-estruturas e dos equipamentos fluviais.\n\n3 - Pelo fornecimento ou uso de bens e prestação de serviços aos utentes da via navegável do Douro, relativos à exploração da via navegável do Douro, é devido o pagamento de taxas de exploração.\n\n4 - O valor das taxas previstas nos números anteriores, bem como a identificação da forma de pagamento, é fixado por portaria dos membros do Governo responsáveis pela área das finanças e pelo sector dos transportes.\n\n5 - O valor das taxas previstas nos números anteriores é revisto, em Janeiro de cada ano, com base na evolução do índice de preços no consumidor, com exclusão da habitação no Continente, publicado pelo Instituto Nacional de Estatística, I. P.\n\n> Alterado pelo/a [Decreto-Lei n.º 29-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), publicado em 2011-03-01.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:272053:por",
+    "alterador": "pt:dre:144217:por"
+  }
+]

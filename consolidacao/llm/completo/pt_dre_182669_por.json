@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:182669:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "As instruções do Decreto do Governo n.º 2/86 dirigem-se ao Regulamento de Uniformes da Guarda Fiscal (n.º 307, alínea c), n.º 1); aditamento da secção V «Pessoal de luto» ao capítulo VI, n.º 608; substituição das figuras 3.7 e 3.8), cujo texto não existe no texto atual (só o título do Regulamento) e cujas figuras vêm em imagem.",
+  "instrucoes": [
+    "Art. 1.º: nova redação do n.º 1) da alínea c) do n.º 307 do RUGF: texto alvo inexistente no texto atual: não aplicado",
+    "Art. 2.º: aditamento da secção V (n.º 608) ao capítulo VI do RUGF: capítulo inexistente no texto atual: não aplicado",
+    "Art. 3.º: substituição das figuras 3.7 e 3.8 (imagem): não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

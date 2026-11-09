@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:529196:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: rectifica um aviso de concurso do Instituto Superior Técnico (substitui a citação da Lei n.º 67-B/2007 pela Lei n.º 66-B/2007); não é instrução dirigida ao original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

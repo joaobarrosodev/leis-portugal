@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:561214:por",
+  "artigos": [
+    {
+      "chave": "22.º",
+      "epigrafe": "",
+      "texto": "Em todas as inspecções os inspectores devem ouvir os magistrados e funcionários sobre as faltas que sejam notadas, das quais lhes entregarão nota articulada, e proceder a quaisquer diligências complementares a que as respostas dêem lugar.\n\nO inspeccionado não pode ser classificado sem a observância destas formalidades.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do art. 22.º e do seu § único — aplicada (copiada tal como vem no alterador)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º\n\n1. Os assistentes e auxiliares sociais constituem um quadro único integrado na Direcção-Geral e funcionam na imediata dependência do inspector dos serviços, ao qual compete orientar e fiscalizar a sua actividade.\n\n2. Os assistentes e auxiliares destacados para os tribunais tutelares de menores ou estabelecimentos dependentes ficam, porém, sem prejuízo da sua imediata subordinação hierárquica ao inspector, sob a direcção dos respectivos juízes o directores.",
+    "depois": "###### Artigo 13.º\n\n1. Os assistentes e auxiliares sociais constituem um quadro único integrado na Direcção-Geral e funcionam na imediata dependência do inspector dos serviços, ao qual compete orientar e fiscalizar a sua actividade.\n\n2. Os assistentes e auxiliares destacados para os tribunais tutelares de menores ou estabelecimentos dependentes ficam, sem prejuízo da sua imediata subordinação hierárquica ao inspector, sob a direcção dos respectivos juízes, curadores e directores.\n\n> Alterado pelo/a [Decreto-Lei n.º 47727](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47727-1967-312816), publicado em 1967-05-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:322681:por",
+    "alterador": "pt:dre:312816:por"
+  }
+]

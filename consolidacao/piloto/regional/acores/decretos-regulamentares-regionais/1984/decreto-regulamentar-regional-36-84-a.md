@@ -26,7 +26,7 @@ Manda o Governo Regional dos Açores, ao abrigo do disposto na alínea d) do art
 
 ###### Artigo 1.º
 
-É estabelecida uma zona geral de protecção em volta do aeródromo da ilha de São Jorge, na qual se distinguem:
+1 - É estabelecida uma zona geral de protecção em volta do aeródromo da ilha de São Jorge, na qual se distinguem:
 
 a) Zona de protecção integral - constituída pelos terrenos que limitam os terminais da pista a sudeste, numa extensão de 300 m, onde toda e qualquer actividade é interdita, assinalada na planta anexa com a letra A;
 
@@ -44,7 +44,7 @@ C' - 95,5 m com 2 % de inclinação.
 
 ###### Artigo 2.º
 
-Dentro da zona de protecção parcial é proibida, sem autorização prévia da Secretaria Regional do Equipamento Social:
+Dentro da zona de proteção parcial é proibida, sem autorização prévia do departamento do Governo Regional com competência em matéria de transportes aéreos:
 
 a) A construção de qualquer natureza;
 
@@ -53,6 +53,8 @@ b) A alteração ao relevo ou configuração do solo;
 c) A plantação de árvores ou arbustos;
 
 d) Outros trabalhos ou actividades que possam prejudicar a segurança das instalações do aeródromo.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 21/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2012-191989), publicado em 2012-11-09.
 
 ###### Artigo 3.º
 

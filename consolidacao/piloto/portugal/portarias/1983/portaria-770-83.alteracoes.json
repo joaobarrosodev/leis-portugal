@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — (Âmbito pessoal)\n\nTêm direito às prestações previstas no presente Regulamento os beneficiários activos abrangidos pela Caixa de Previdência dos Profissionais de Espectáculos e os pensionistas que à data do início da pensão se encontrem abrangidos pela mesma instituição.",
+    "depois": "###### Artigo 2.º — (Âmbito pessoal)\n\n1 - Têm direito às prestações previstas no presente Regulamento os beneficiários activos abrangidos pela Caixa de Previdência dos Profissionais de Espectáculos e os pensionistas que, à data do início da pensão, se encontrem abrangidos pela mesma instituição.\n\n2 - As prestações a que se refere o número anterior são também concedidas aos subsidiados do Fundo de Assistência da Caixa.\n\n> Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453801:por",
+    "alterador": "pt:dre:662733:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — (Condições de atribuição)\n\n1 - Têm acesso a complemento de pensão os pensionistas que tenham rendimentos ilíquidos mensais iguais ou inferiores a 40% da remuneração mínima mensal garantida à generalidade dos trabalhadores, desde que o rendimento ilíquido do respectivo agregado familiar não seja superior àquela remuneração.\n\n2 - Para efeito do número anterior, o agregado familiar é constituído pelos parentes e afins de linha recta e os de linha colateral até ao 3.º grau que convivam em economia familiar com o requerente.\n\n3 - Têm ainda acesso a complemento de pensão os pensionistas que, embora não satisfazendo, por si ou pelo seu agregado familiar, os requisitos de atribuição estabelecidos no n.º 1, se encontrem cumulativamente nas seguintes condições:\n\na) Tenham um agregado familiar cuja capitação de rendimentos não seja superior a 30% da remuneração mínima mensal;\n\nb) Se encontrem em situação de risco social grave, a determinar pelos competentes serviços de acção social, em consequência de perda ou diminuição de rendimentos ou acréscimo anormal de encargos determinados, designadamente por doença ou acidente.",
+    "depois": "###### Artigo 5.º — (Condições de atribuição)\n\n1 - Têm acesso a complemento de pensão os pensionistas que tenham rendimentos ilíquidos mensais iguais ou inferiores a 50% da remuneração mínima mensal garantida à generalidade dos trabalhadores, desde que o rendimento ilíquido do respectivo agregado familiar não seja superior àquela remuneração.\n\n2 - Para efeito do número anterior, o agregado familiar é constituído pelos parentes e afins de linha recta e os de linha colateral até ao 3.º grau que convivam em economia familiar com o requerente.\n\n3 - Têm ainda acesso a complemento de pensão os pensionistas que, embora não satisfazendo, por si ou pelo seu agregado familiar, os requisitos de atribuição estabelecidos no n.º 1, se encontrem cumulativamente nas seguintes condições:\n\na) Tenham um agregado familiar cuja capitação de rendimentos não seja superior a 30% da remuneração mínima mensal;\n\nb) Se encontrem em situação de risco social grave, a determinar pelos competentes serviços de acção social, em consequência de perda ou diminuição de rendimentos ou acréscimo anormal de encargos determinados, designadamente por doença ou acidente.\n\n> Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453801:por",
+    "alterador": "pt:dre:662733:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º — (Montante das prestações)\n\n1 - O montante global das prestações de apoio social será fixado caso a caso e tendo em atenção os elementos constantes do processo, não podendo, no entanto, exceder o valor igual a 4 vezes a remuneração mínima mensal garantida à generalidade dos trabalhadores, mesmo nos casos em que se verifique renovação.\n\n2 - Desde que existam disponibilidades financeiras, poderá a instituição gestora propor superiormente a concessão de uma prestação de apoio social de valor superior ao fixado no número anterior, sempre que a situação de risco social agravado o justifique.",
+    "depois": "###### Artigo 13.º — (Montante das prestações)\n\n1 - O montante global das prestações de apoio social será fixado caso a caso e tendo em atenção os elementos constantes do processo, não podendo, no entanto, exceder o valor igual a quatro vezes a remuneração mínima mensal garantida à generalidade dos trabalhadores.\n\n2 - Desde que existam disponibilidades financeiras, poderá a instituição gestora propor superiormente a concessão de uma prestação de apoio social de valor superior ao fixado no número anterior, sempre que a situação de risco social agravado o justifique.\n\n3 - O montante total das prestações de apoio social atribuídas em cada ano não pode exceder o valor correspondente a 1,5% das receitas do Fundo no ano anterior.\n\n> Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453801:por",
+    "alterador": "pt:dre:662733:por"
+  },
+  {
+    "artigo": "24.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 24.º — (Revisão)\n\n1 - O presente Regulamento será obrigatoriamente revisto 2 anos após a sua entrada em vigor, com vista a adaptá-lo, na base da experiência decorrida, às reais situações de carência dos beneficiários e às disponibilidades financeiras do Fundo.\n\n2 - No final do primeiro ano de gestão do Fundo, de acordo com o presente Regulamento, proceder-se-á à avaliação dos dados físicos e financeiros recolhidos pela Caixa de Previdência dos Profissionais de Espectáculos e pelo Instituto de Gestão Financeira da Segurança Social, por forma a possibilitar uma eventual adequação pontual das prestações aos meios existentes.\n\nO Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.",
+    "depois": "###### Artigo 24.º — (Revisão)\n\nO presente Regulamento deve ser revisto de dois em dois anos com vista a adaptá-lo às reais situações de carência dos beneficiários e às disponibilidades financeiras do Fundo.\n\n> Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25.\n\nO Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453801:por",
+    "alterador": "pt:dre:662733:por"
+  }
+]

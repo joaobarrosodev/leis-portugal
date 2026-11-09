@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:237445:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Junto das unidades e outros órgãos da Força Aérea podem, sempre que tal convenha à sua existência e vida, funcionar serviços, criar-se e funcionar explorações de carácter agrícola, industrial e comercial com a finalidade de, contra pagamento, efectuar fornecimentos e prestar serviços:\n\nPor norma, às unidades e outros órgãos da Força Aérea, ao seu pessoal e respectivos agregados familiares;\n\nEventualmente, e mediante autorização prévia, ao pessoal pertencente às forças militares nacionais ou estrangeiras, bem como a outras entidades estranhas à Força Aérea.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único: nova redação do artigo 1.º — aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

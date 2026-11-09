@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:471896:por",
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "",
+      "texto": "Nas Universidades o desdobramento dos cursos em turmas é permitido nos casos seguintes:\n\na) Para as aulas teóricas, quando as respectivas salas não comportem o número de alunos inscritos;\n\nb) Para as aulas práticas em clínicas, laboratórios ou oficinas, quando houver mais de vinte e cinco alunos, número normal de cada turma;\n\nc) Para as restantes aulas práticas, quando houver mais de trinta alunos, número normal de cada turma.\n\n§ 1.º Nos casos das alíneas b) e c), o director-geral do Ensino Superior e das Belas-Artes pode determinar, quando isso se mostre conveniente, que as turmas tenham até trinta e quarenta alunos, respectivamente.\n\n§ 2.º Não podem manter-se os desdobramentos se no decorrer do ano lectivo, por redução da frequência, deixarem de verificar-se as condições estabelecidas neste artigo.\n\n§ 3.º Poderá ser autorizada a dispensa das condições estabelecidas no presente artigo quando isso se mostrar conveniente para impedir a dispersão da actividade científica do pessoal docente.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 2.º: aditado § 3.º ao artigo único: aplicado",
+    "Arts. 1.º, 3.º, 4.º e 5.º: dirigidos a outros diplomas: ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

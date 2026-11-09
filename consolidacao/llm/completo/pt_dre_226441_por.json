@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:226441:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Regime de instalação",
+      "texto": "1 - A Escola prossegue o seu funcionamento em regime de instalação, por um período que não pode exceder o fim do ano lectivo de 1999-2000.\n\n2 - O regime de instalação é o fixado pelo [Decreto-Lei n.º 24/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1994-495503), de 27 de Janeiro, conjugado com o disposto no [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), de 18 de Agosto, na parte aplicável.\n\n3 - Durante o regime de instalação, o cargo de director da Escola é exercido, por inerência e a título não remunerado, pelo director do Instituto José de Figueiredo.\n\n4 - O director é apoiado no processo de instalação da Escola por um conselho consultivo, nomeado por despacho conjunto dos Ministros da Educação e da Cultura e do membro do Governo que tutele a Administração Pública, e constituído por três a cinco membros.\n\n5 - Os membros do conselho consultivo têm direito a senhas de presença, de montante a fixar por despacho conjunto dos Ministros das Finanças e da Educação.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, art. 1.º: art. 4.º com novo n.º 3; antigos n.os 3 e 4 passam a 4 e 5; n.os 1 e 2 e epígrafe mantidos; aplicado.",
+    "Alt. 1, art. 2.º: produção de efeitos; sem alteração de texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Reconhecimento de novos agrupamentos de produtores\n\n1 - Para efeitos de aplicação da alínea e) do artigo 171.ºC do Regulamento (CE) n.º [1973/2004](http://data.europa.eu/eli/reg/2004/1973/oj?locale=pt), da Comissão, de 29 de Outubro, o pedido de reconhecimento de novos agrupamentos de produtores deve ser feito junto do Gabinete de Planeamento e Política Agro-Alimentar (GPPAA) até ao dia 31 de Outubro do ano anterior à colheita.\n\n2 - O número mínimo de produtores individuais para a constituição de um agrupamento de produtores de tabaco é de 70 para o grupo I (variedade Virginia) e de 25 para o grupo II (variedade Burley).\n\n3 - Podem ser reconhecidas como agrupamentos de produtores as pessoas colectivas que cumpram o disposto no número anterior e cujos estatutos obriguem os seus membros a colocar no mercado por intermédio do agrupamento a totalidade da respectiva produção de tabaco.",
+    "depois": "###### Artigo 3.º — Reconhecimento de novos agrupamentos de produtores\n\n(Revogado.)\n\n> Revogado pelo/a [Declaração de Rectificação n.º 1172/2010](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1172-2010-3620234), publicado em 2010-06-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:360106:por",
+    "alterador": "pt:dre:3620234:por;pt:dre:3015435:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Nível de ajuda\n\n1 - A ajuda é paga pelo INGA em função da quantidade de tabaco entregue até ao dia 15 de Fevereiro do ano seguinte à colheita na empresa de primeira transformação, com base no contrato de cultura celebrado entre o agricultor ou o agrupamento de produtores e a referida empresa.\n\n2 - O valor indicativo da ajuda é fixado em 2,98062 euros/quilograma para o tabaco do grupo I (variedade Virginia) e 2,38423 euros/quilograma para o grupo II (variedade Burley).\n\n3 - Caso venha a ser excedido o montante máximo da ajuda total atribuída para Portugal, o INGA procede a uma redução linear sobre o valor final da ajuda até 15 dias após a conclusão das entregas.",
+    "depois": "###### Artigo 4.º — Nível de ajuda\n\n1 - A ajuda é paga pelo INGA em função da quantidade de tabaco entregue até ao dia 15 de Fevereiro do ano seguinte à colheita na empresa de primeira transformação, com base no contrato de cultura celebrado entre o agricultor ou o agrupamento de produtores e a referida empresa.\n\n2 - O valor indicativo da ajuda é fixado em 2,98062 euros/quilograma para o tabaco do grupo I (variedade Virginia) e 2,38423 euros/quilograma para o grupo II (variedade Burley).\n\n3 - Caso venha a ser excedido o montante máximo da ajuda total atribuída para Portugal, o INGA procede a uma redução linear sobre o valor final da ajuda até 15 dias após a conclusão das entregas.\n\n4 - Na Região Autónoma dos Açores as entregas do tabaco devem ser efectuadas até ao dia 30 de Novembro do ano respeitante à colheita em curso.\n\n5 - A redução linear referida no n.º 3 deve ser efectuada sobre os produtores da Região Autónoma dos Açores sempre que seja excedido o montante total máximo da ajuda atribuída para esta região, que corresponde a 332 mil euros.\n\n> Alterado pelo/a [Despacho Normativo n.º 16/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2006-3015435), publicado em 2006-11-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:360106:por",
+    "alterador": "pt:dre:3620234:por;pt:dre:3015435:por"
+  }
+]

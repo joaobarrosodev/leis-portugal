@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:458393:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A Portaria n.º 333/87 extingue progressivamente as disciplinas de formação básica da licenciatura em Engenharia Electrotécnica criadas ao abrigo do Decreto n.º 122/80, sem dar nova redação a nenhum artigo; alteração não textual.",
+  "instrucoes": [
+    "2.º: extinção das disciplinas de formação básica — não textual, nada aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

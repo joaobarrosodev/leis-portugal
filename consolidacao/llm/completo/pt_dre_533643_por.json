@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:533643:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A retificação (p. 352, grupo 2 «Habitações», artigo 10 «Famílias», 100000 -> 180000) incide sobre os mapas orçamentais, que só existem no documento original em imagem/PDF e não no texto articulado.",
+  "instrucoes": [
+    "Alterador 1: retificação de valor num mapa anexo — não aplicável ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

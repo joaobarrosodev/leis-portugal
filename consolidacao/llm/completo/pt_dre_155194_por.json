@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:155194:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "Em conformidade com o disposto na alínea c) do artigo 6.º do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), o quadro ora instituído ficará a cargo do Fundo de Desenvolvimento da Mão-de-Obra, podendo ser aumentado por despacho conjunto dos Ministros das Finanças e das Corporações e Previdência Social.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (DL 48336), artigo 1.º: nova composição do quadro de pessoal do artigo 1.º constante de mapa que só vem em imagem; não aplicado. Alterador 3 (Decreto 146/78), artigo 41.º, n.º 2: faz cessar o encargo do OGE previsto no n.º 1 do artigo 4.º sem dar nova redação (alteração não textual); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 3.º: nova redação do artigo 3.º; aplicada.",
+    "Alterador 1, arts. 1.º e 2.º: normas próprias sobre o estatuto dos quadros; não alteram o texto.",
+    "Alterador 2, art. 1.º: novo mapa de pessoal só em imagem; não aplicado (nao_aplicavel). Arts. 2.º a 4.º: normas próprias; ignorados.",
+    "Alterador 3, art. 41.º, n.º 2: alteração não textual do n.º 1 do artigo 4.º; não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

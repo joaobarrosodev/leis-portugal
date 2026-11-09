@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nAs percentagens a atribuir a cada uma das categorias de obras serão fixadas tendo em conta as disponibilidades orçamentais existentes na verba respectiva e de acordo com os limites a seguir indicados:\n\n1.º Reparação de estragos provocados pelas intempéries nas propriedades rústicas; problema da habitação dos pequenos agricultores e assalariados rurais, e obras de rega, enxugo e defesa contra a erosão - até 50 por cento;\n\n2.º Obras de electrificação ligadas às explorações agrícolas e arroteamento de terrenos incultos - até 40 por cento;\n\n3.º Outras obras - até 30 por cento.",
+    "depois": "###### Artigo 3.º\n\nAs percentagens a atribuir a cada uma das categorias de obras serão fixadas tendo em conta as disponibilidades orçamentais existentes na verba respectiva e de acordo com os limites a seguir indicados:\n\n1.º Reparação de estragos provocados pelas intempéries nas propriedades rústicas; problema da habitação dos pequenos agricultores e assalariados rurais, e obras de rega, enxugo e defesa contra a erosão - até 50 por cento;\n\n2.º Obras de electrificação ligadas às explorações agrícolas e arroteamento de terrenos incultos - até 40 por cento;\n\n3.º Outras obras - até 30 por cento.\n\n§ único. Nas obras de interesse colectivo a comparticipação poderá atingir o limite do custo das obras ou melhoramentos.\n\n> Alterado pelo/a [Decreto-Lei n.º 49294](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49294-1969-215933), publicado em 1969-10-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:169892:por",
+    "alterador": "pt:dre:215933:por"
+  }
+]

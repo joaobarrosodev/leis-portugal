@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nA exportação de moedas metálicas portuguesas, em circulação, ou fora de circulação, continua sujeita ao disposto no [Decreto-Lei n.º 32087](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32087-1942-315951), de 15 de Junho de 1942.\n\n§ 1.º Poderá o Ministro das Finanças autorizar a exportação, desde que as moedas se destinem a fins numismáticos ou de reconhecido interesse turístico ou sempre que a particular natureza do caso concreto o justifique.\n\n§ 2.º O Ministro das Finanças pode delegar no inspector-geral de Crédito e Seguros a competência para a concessão das autorizações a que se refere o parágrafo anterior:",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:234933:por",
+    "alterador": "pt:dre:451790:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nÉ revogado o artigo 26.º e §§ 1.º e 2.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 4 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 4 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:234933:por",
+    "alterador": "pt:dre:451790:por"
+  }
+]

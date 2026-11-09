@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:296231:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1. A representação do empréstimo far-se-á em obrigações de valor nominal de 1000$00, em títulos de cupão, ao portador, de 1, 5, 10, 50 e 100 obrigações e em certificados de divida inscrita.\n\n2. Cada certificado de dívida inscrita poderá representar qualquer número de obrigações e ser nominativo ou assentado ao portador.\n\n3. Os títulos e certificados referidos no n.º 1 deste artigo levarão a assinatura de chancela do governador-geral da província, serão autenticados por aposição do selo branco da Direcção Provincial dos Serviços de Fazenda e Contabilidade e conterão ainda a assinatura autógrafa do director dos mesmos Serviços.\n\n4. Os certificados de dívida inscrita, a que se refere o n.º 1 do presente artigo, poderão ser desdobrados mediante pedido fundamentado dos seus titulares.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 48236): prorroga a autorização do artigo 1.º para a vigência do III Plano de Fomento e alarga o destino do produto, sem dar nova redação a qualquer artigo; alteração não textual.",
+  "instrucoes": [
+    "Alterador 1, artigo único: prorrogação da autorização do artigo 1.º; não textual, não aplicada ao texto",
+    "Alterador 2, artigo único: nova redação do artigo 5.º (n.os 1 a 4); substituído o corpo inteiro"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

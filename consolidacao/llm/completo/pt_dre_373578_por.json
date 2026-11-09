@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:373578:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "(Regulamentação da prova de aferição)",
+      "texto": "1 - Os pontos a utilizar nos exames da prova de aferição serão elaborados pela Direcção-Geral do Ensino Básico e Secundário e são os dos exames do 12º ano (via de ensino) a prestar pelos alunos que frequentam estabelecimentos de ensino particular e cooperativo sem autonomia ou paralelismo pedagógico, pelos alunos do ensino individual ou doméstico e pelos estudantes não sujeitos a matrícula.\n\n2 - Para as disciplinas de formação específica do 12º ano (via técnico-profissional) cujos programas sejam distintos dos das correspondentes disciplinas do 12º ano (via de ensino) ou que não existam neste, os pontos a utilizar nos exames da prova de aferição serão os expressamente elaborados para este fim pela Direcção-Geral do Ensina Básico o Secundário.\n\n3 - As regras a aplicar à realização dos exames da prova de aferição são as fixadas para os exames referidos no nº 1.\n\n4 - Não será concedida dispensa de avaliação relativa a quaisquer partes das matérias dos programas com fundamento na sua não leccionação no decurso de um ano lectivo.\n\n5 - Os estudantes que estejam na situação prevista no n.º 15 ou na alínea a) do n.º 16.2 do capítulo III do Despacho n.º 10/EBS/86, de 26 de Março, ou disposição análoga de anos anteriores estão dispensados do exame da prova de aferição em relação à disciplina em que não foi atribuída classificação de frequência, salvo no caso em que hajam repetido a frequência e utilizem a respectiva classificação para o cálculo da classificação final do 12.º ano.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterações aos anexos do Regulamento (alterador 1, n.º 2.º: anexos I, II, III, IV.1, IV.3, V, VI, VII.2 e XII; alterador 2: colunas do anexo II; alteradores 3, 4 e 7: aditamentos de cursos aos anexos I.1, II, III.2, VI e VII.1; alterador 5: nota 2 do anexo IV.1; alterador 6: anexo III.2): os anexos não constam do texto atual por artigos e os quadros vêm só em imagem; não aplicadas.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redacção do n.º 5 do art. 9.º; aplicada.",
+    "Alterador 1, n.º 2.º: nova redacção de vários anexos, em imagem; não aplicada.",
+    "Alterador 2: altera colunas do anexo II; não aplicada (anexo fora do texto por artigos).",
+    "Alteradores 3 e 4: criam cursos e aditam-nos aos anexos I.1 e II; não aplicada aos artigos.",
+    "Alterador 5: nova nota 2 do anexo IV.1; não aplicada (anexo fora do texto por artigos).",
+    "Alterador 6: aditamento ao anexo III.2; não aplicado.",
+    "Alterador 7: cria cursos e adita-os aos anexos I.1, II, III.2, VI e VII.1; não aplicado aos artigos."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

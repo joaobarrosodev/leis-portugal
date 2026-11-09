@@ -1,0 +1,111 @@
+{
+  "id": "pt:dre:348921:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::1.º",
+      "epigrafe": "Ano comum",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::2.º",
+      "epigrafe": "Duração do ano comum",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::3.º",
+      "epigrafe": "Estrutura do ano comum",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::4.º",
+      "epigrafe": "Duração dos blocos formativos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::5.º",
+      "epigrafe": "Locais de formação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::6.º",
+      "epigrafe": "Formação em medicina interna",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::7.º",
+      "epigrafe": "Formação em pediatria",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::8.º",
+      "epigrafe": "Formação em obstetrícia",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::9.º",
+      "epigrafe": "Formação em cirurgia geral",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::10.º",
+      "epigrafe": "Formação em cuidados de saúde primários",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::11.º",
+      "epigrafe": "Avaliação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::12.º",
+      "epigrafe": "Responsabilidade pela avaliação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::13.º",
+      "epigrafe": "Classificação final",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::14.º",
+      "epigrafe": "Registo da informação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::15.º",
+      "epigrafe": "Responsável de estágio",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::16.º",
+      "epigrafe": "Regime de trabalho",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 111/2011), art. 1.º: nova redação dos artigos 3.º, 4.º, 5.º, 8.º, 15.º e 16.º do anexo; aplicável, mas sem efeito no resultado final por causa da revogação do alterador 3.",
+    "Alterador 2 (Portaria 53/2013), art. 1.º: nova redação dos artigos 4.º, 5.º, 10.º, 12.º e 15.º e republicação (art. 2.º); igualmente ultrapassada pela revogação do alterador 3.",
+    "Alterador 3 (Portaria 268/2018), art. 3.º, n.º 1: revoga o programa formativo aprovado em anexo à Portaria 1499/2004, ou seja, todos os artigos 1.º a 16.º do anexo: cada um fica '(Revogado.)' com alterador 3. O n.º 2 (aplicação transitória aos médicos a frequentar o ano comum) não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:140540:por",
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 642-E/78), 1.º: substitui designações do pessoal civil no mapa IV, que só vem em imagem (ver documento original). Alterador 1 (Decreto-Lei n.º 48283): regras de preenchimento e aumento do quadro do mapa IV, sem alteração textual do articulado e com o mapa só em imagem.",
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 48283), artigos 1.º e 2.º: normas autónomas sobre o preenchimento e aumento do quadro orgânico do mapa IV; não textuais e mapa em imagem: não aplicadas.",
+    "Alterador 2 (Portaria n.º 642-E/78), 1.º: substituição de designações no mapa IV, só em imagem: não aplicável; 2.º e 3.º não alteram o original.",
+    "Alterador 3 (Decreto-Lei n.º 167/2014), artigo 15.º, n.º 1, alínea c): revoga o Decreto-Lei n.º 44322 na parte respeitante às OGME; o artigo único respeita inteiramente às OGME: artigo único revogado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

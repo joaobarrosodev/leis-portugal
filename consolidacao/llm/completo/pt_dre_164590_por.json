@@ -1,0 +1,124 @@
+{
+  "id": "pt:dre:164590:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 19756): torna o decreto extensivo às províncias ultramarinas e altera o Decreto-Lei n.º 44427: sem alteração textual do original, ignorado.",
+    "Alterador 2 (Decreto n.º 35/74), artigo 1.º: nova redação dos artigos 4.º, 6.º, 7.º, 8.º e 9.º; artigo 2.º: revoga o artigo 10.º: aplicados mas depois absorvidos pela revogação do alterador 4.",
+    "Alterador 3 (Decreto Regulamentar n.º 45/78), artigo 1.º: adita novo artigo 10.º; artigo 2.º: nova redação do artigo 13.º: aplicados mas depois absorvidos pela revogação do alterador 4.",
+    "Alterador 4 (Decreto-Lei n.º 438/88), artigo 53.º, alínea d): revoga os artigos 4.º a 21.º do 'Decreto-Lei n.º 44428, de 29 de Junho de 1962' (é o original, com a mesma data e número): artigos 4.º a 21.º ficam '(Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

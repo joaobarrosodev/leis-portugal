@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:326304:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Fica autorizada a inscrição anual no Orçamento do Estado, na rubrica do PIDDAC do Ministério do Plano e da Administração do Território, das dotações necessárias à comparticipação da administração central no financiamento de 15% dos investimentos municipais integrados na componente não agrícola do PDRITM, de acordo com o seguinte escalonamento, transitando os saldos apurados em cada exercício económico para o exercício seguinte:\n\n... Contos\n\n1986 ... 115000\n\n1987 ... 83200\n\n1988 ... 80000",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - Para o efeito do artigo 1.º, alínea c), são autorizadas as Secretarias de Estado do Tesouro e do Desenvolvimento Regional a celebrar um protocolo com a Caixa Geral de Depósitos (CGD), através do qual esta instituição porá à disposição dos municípios da área do PDRITM uma linha de crédito bonificada pelo Estado e pela CGD.\n\n2 - Os montantes anuais da linha de crédito são os seguintes, podendo os saldos apurados no final de cada exercício transitar para o exercício seguinte:\n\n... (Contos)\n\n1985 ... 750000\n\n1986 ... 750000\n\n1987 ... 345000\n\n3 - As bonificações a praticar são as seguintes:\n\na) 4%, a suportar pelo Estado;\n\nb) Uma bonificação a suportar pela Caixa Geral de Depósitos pelo valor e nas condições a estabelecer no protocolo.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 80/86, art. 1.º: nova redação da alínea b) do n.º 3 do art. 3.º; aplicada. Art. 2.º altera o DL 240/85 (outro diploma); ignorado.",
+    "DL 139/86, art. 1.º: nova redação do art. 2.º (quadro 1986-1988); aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

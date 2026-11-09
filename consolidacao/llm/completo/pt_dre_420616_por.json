@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:420616:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "Contribuição para a Caixa Nacional de Previdência",
+      "texto": "1 - O IACAPS, na qualidade de entidade patronal, entregará mensalmente à Caixa Nacional de Previdência (CGA e Montepio dos Servidores do Estado) uma quantia correspondente a 8% das remunerações sujeitas a desconto para esta instituição de todo o seu pessoal, como contribuição para o financiamento do sistema.\n\n2 - O desconto referido no número anterior será efectuado simultaneamente com a entrega das quotas do respectivo pessoal e poderá ser actualizado por portaria do Ministro das Finanças, caso se verifiquem alterações nos parâmetros estruturais do sistema de aposentação da função pública.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 191/91: nova redação do artigo 6.º (n.º 1 com 8%; n.º 2 '...' mantido do texto atual) - aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

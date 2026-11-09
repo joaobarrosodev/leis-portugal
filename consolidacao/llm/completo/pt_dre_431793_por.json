@@ -1,0 +1,48 @@
+{
+  "id": "pt:dre:431793:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Definições",
+      "texto": "1 - Para efeitos do presente diploma, considerando-se:\n\na) Beneficiário - todo e qualquer indivíduo que preencha os requisitos previstos no presente diploma para ser apoiado;\n\nb) Agregado familiar - conjunto de pessoas constituído pelo candidato ao apoio, seu cônjuge e ou dependentes, que, coabitando, vivam em economia comum;\n\nc) Dependentes (Nd) - elementos que compõem o agregado familiar, para além do candidato e do seu cônjuge, constituído pelos ascendentes em linha recta e pelos descendentes;\n\nd) Pessoa com deficiência - aquela que, por motivo de perda ou anomalia, congénita ou adquirida, de estrutura ou função psicológica, intelectual, fisiológica ou anatómica susceptível de provocar restrições de capacidade para o trabalho ou angariação de meios de subsistência, possua, comprovadamente, grau de incapacidade permanente igual ou superior a 60%;\n\ne) [Actual alínea d).]\n\nf) [Actual alínea e).]\n\ng) [Actual alínea f).]\n\nh) [Actual alínea g).]\n\ni) [Actual alínea h).]\n\nj) [Actual alínea i).]\n\nl) Apoio (Ap) - valor da comparticipação financeira, arredondado para a dezena de euros imediatamente superior, calculado pela fórmula a seguir indicada, em que z e o valor padrão Vp são variáveis a serem fixadas por resolução do Governo Regional dos Açores, podendo esta última ser actualizada com base na taxa de inflação:\n\nAp = (((Ff + Fe + Fh)/3z) + 1) x Vp\n\nm) [Actual alínea 1).]\n\nn) [Actual alínea m).]\n\no) [Actual alínea n).]\n\n2 - Nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo, o valor da comparticipação financeira resultante da aplicação da fórmula prevista na alínea l) do número anterior pode ser objecto de majoração, nos termos a definir por portaria do membro do Governo Regional com competência em matéria de habitação.",
+      "alterador": 3
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Requisitos de acesso",
+      "texto": "1 - Constituem requisitos de acesso ao apoio à aquisição de habitação própria os seguintes:\n\na) Não ter sido, ou estar a ser, o interessado, ou qualquer outro elemento do seu agregado familiar, beneficiado por qualquer programa de apoio à habitação;\n\nb) Não ter a sua situação habitacional resolvida nos termos definidos na alínea m) do artigo 3.º do presente diploma;\n\nc) O requerente não possuir, nem qualquer outro elemento do seu agregado familiar, prédios urbanos ou rústicos, excepto se os prédios rústicos forem a única fonte de rendimento do agregado e, sendo estes passíveis de ser urbanizados, não tenham uma área superior a 1400 m2;\n\nd) Não exceder a área bruta da habitação a adquirir os valores limite fixados na alínea g) do artigo 19.º;\n\ne) Não ser o rendimento médio mensal bruto do candidato ou do agregado superior:\n\ni) A 2,5 salários mínimos nacionais, no caso de o candidato concorrer sozinho;\n\nii) A 3,5 salários mínimos nacionais, no caso de o agregado familiar ser constituído por 2 elementos;\n\niii) A 5 salários mínimos nacionais, no caso de o agregado familiar ser constituído por 3 ou 4 elementos;\n\niv) A 6 salários mínimos nacionais, no caso de o agregado familiar ser constituído por 5 elementos;\n\nv) Em todos os agregados familiares em que o número de elementos seja superior a 5 será considerado mais meio salário mínimo nacional por cada dependente;\n\nf) Não ser o preço da habitação candidatada superior ao valor da avaliação daquela, efectuada pelos serviços competentes;\n\ng) Não ser a área envolvente à habitação candidatada passível de ser urbanizada superior a 250 m2 e 1400 m2 nas zonas urbanas ou rurais, respectivamente;\n\nh) Não ser o preço referido na alínea b) superior a 115 vezes o salário mínimo nacional arredondado para a centena de euros imediatamente superior.\n\n2 - Na análise do processo, o departamento competente do Governo Regional dos Açores poderá considerar uma tolerância de 20% nos limites máximos previstos na alínea d) do número anterior, em casos devidamente ponderados e justificados.\n\n3 - O preço referido na alínea h) poderá beneficiar de uma margem de tolerância até 40%, nos casos em que a localização geográfica da habitação candidata permita reduzir os condicionalismos físicos, ambientais, económicos e sociais do candidato ou de algum elemento do seu agregado familiar com deficiência.",
+      "alterador": 2
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Definição, requisitos e formas de apoio",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Obrigações dos beneficiários",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Sanções",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "No artigo 3.º, as alíneas e) a o) (salvo l) e d)) continuam no texto atual como remissões '[Actual alínea …]' herdadas da alteração anterior, porque o texto das antigas alíneas não consta do texto atual; foram copiadas como estão. A revogação do capítulo VII pelo alterador 4 foi aplicada aos artigos 28.º a 30.º (construção e ou aquisição de habitação social destinada a realojamento), deduzindo o capítulo pela ordem das modalidades, já que os títulos dos capítulos não vêm no texto atual.",
+  "instrucoes": [
+    "Alt. 1: artigos 3.º, 19.º, 24.º, 31.º e aditamento do 31.º-A já refletidos no texto atual: nada a mudar.",
+    "Alt. 2, art. 1.º: nova alínea l) do artigo 3.º (fórmula do apoio em euros) e nova alínea h) do n.º 1 do artigo 24.º: aplicadas.",
+    "Alt. 2, art. 2.º: aditamento do artigo 31.º-B, já presente no texto atual: nada a mudar.",
+    "Alt. 3, art. 1.º: artigo 3.º passa a n.º 1 ('considerando-se') com as alíneas atuais e novo n.º 2 (majoração nas ilhas): aplicado.",
+    "Alt. 3, art. 2.º: altera o DLR n.º 6/2002/A: ignorado.",
+    "Alt. 4, art. 47.º, n.º 1: revoga o capítulo VII: artigos 28.º, 29.º e 30.º revogados. Resto do alterador é regime próprio."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

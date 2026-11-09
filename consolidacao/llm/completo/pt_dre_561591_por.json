@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:561591:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - O pessoal militar da Guarda Fiscal que, por imposição ou escolha, for nomeado para prestar serviço temporariamente nas unidades das Regiões Autónomas dos Açores e da Madeira terá direito ao subsídio mensal de deslocação nos termos seguintes:\n\na) Oficiais ... 14000$00\n\nb) Sargentos ... 12000$00\n\nc) Praças ... 10000$00\n\n2 - Quando aos militares da Guarda Fiscal for fornecida, consoante os casos, habitação ou alojamento, ser-lhes-ão abonados os seguintes quantitativos:\n\na) Oficiais ... 6000$00\n\nb) Sargentos ... 5000$00\n\nc) Praças ... 4000$00",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação integral do artigo 1.º (valores do subsídio); aplicada.",
+    "Alterador 1, art. 2.º: produção de efeitos do próprio alterador, não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

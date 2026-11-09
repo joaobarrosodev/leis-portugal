@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n1. A direcção é constituída por um presidente e três directores.\n\n2. O presidente da direcção e os directores são escolhidos por decisão conjunta do Ministro da Economia e do Secretário de Estado do Comércio.\n\n3. O presidente da direcção será substituído, nas suas faltas ou impedimentos, pelo director designado pelo Secretário de Estado do Comércio, mediante proposta do presidente da direcção.",
+    "depois": "###### Artigo 5.º\n\n1. A direcção é constituída por um presidente e quatro directores.\n\n2. O presidente da direcção e os directores são escolhidos por decisão conjunta do Ministro da Economia e do Secretário de Estado do Comércio.\n\n3. O presidente da direcção será substituído, nas suas faltas ou impedimentos, pelo director designado pelo Secretário de Estado do Comércio, mediante proposta do presidente da direcção.\n\n> Alterado pelo/a [Decreto-Lei n.º 195/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1975-161890), publicado em 1975-04-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:291607:por",
+    "alterador": "pt:dre:161890:por"
+  }
+]

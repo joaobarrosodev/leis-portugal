@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:386784:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Competências do presidente e do secretário-geral",
+      "texto": "1 - Compete, designadamente, ao presidente:\n\na) Convocar e dirigir as reuniões plenárias;\n\nb) Fixar a respectiva ordem de trabalhos;\n\nc) Informar os membros do Conselho sobre quaisquer assuntos de interesse relevante para o mesmo e do seguimento dado às suas deliberações e recomendações.\n\n2 - Ao secretário-geral do Ministério da Reforma do Estado e da Administração Pública compete assegurar o normal funcionamento do Conselho, submetendo a despacho os assuntos que dele careçam.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: altera o DL 269/2000 - ignorado.",
+    "Alterador 1, art. 2.º, n.º 1: nova redação do n.º 1 do artigo 3.º - o texto atual já coincide, sem mudança.",
+    "Alterador 1, art. 2.º, n.º 1: nova redação do artigo 4.º (n.º 1 mantido, novo n.º 2; a nova redação termina no n.º 2, pelo que os anteriores n.os 3 e 4 deixam de existir) - aplicado.",
+    "Alterador 1, art. 2.º, n.º 2: revogação dos artigos 8.º e 9.º - já constam como revogados, sem mudança."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

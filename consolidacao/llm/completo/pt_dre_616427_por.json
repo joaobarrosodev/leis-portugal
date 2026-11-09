@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:616427:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DR 5/92, DR 16/93 e DR 31/99 alteram ou aditam mapas anexos que só vêm em imagem (alterações não textuais). O DL 121/2008 vem sem texto e a revogação do DR 16/91 no mapa VIII (republicado pela Declaração de Rectificação 49/2008) é parcial ('com excepção das disposições relativas às categorias subsistentes e de maquinista marítimo...'), sem alvo determinável por artigo; não aplicada.",
+  "instrucoes": [
+    "DR 5/92, artigo único: adita mapa ao anexo (imagem); não aplicado.",
+    "DR 16/93, art. 1.º: altera o mapa anexo (imagem); não aplicado.",
+    "DR 31/99, art. 1.º: altera escalas salariais segundo mapa anexo (imagem); não aplicado.",
+    "DL 121/2008: sem texto no pedido; não aplicado.",
+    "Declaração de Rectificação 49/2008: retifica o mapa VIII do DL 121/2008 (outro diploma); a revogação parcial do DR 16/91 nele constante não tem alvo por artigo; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

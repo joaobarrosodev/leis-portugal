@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:570703:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Data de extinção das tarifas transitórias para fornecimentos de eletricidade a clientes finais com consumos em AT, MT e BTE",
+      "texto": "A data prevista no n.º 1 do artigo 6.º do [Decreto-Lei n.º 104/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), de 29 de setembro, na sua redação atual, relativa à obrigatoriedade de fornecimento de eletricidade, pelos comercializadores de último recurso, a clientes finais com consumos em MT e BTE que não tenham contratado no mercado livre o seu fornecimento, é fixada, respetivamente em 31 de dezembro de 2021 e 31 de dezembro de 2022.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 art. 3.º: nova redacção do artigo 2.º (31 de dezembro de 2017); aplicada e depois substituída.",
+    "Alterador 1 arts. 2.º, 4.º, 5.º e 6.º: dizem respeito à Portaria n.º 59/2013 ou aprovam datas próprias; não são do original; ignorados.",
+    "Alterador 2 art. 2.º: nova redacção do artigo 2.º (31 de dezembro de 2020); aplicada e depois substituída.",
+    "Alterador 3 art. 5.º: nova redacção do artigo 2.º (MT 2021, BTE 2022); aplicada (redacção final).",
+    "Alterador 3 arts. 2.º a 4.º: alteram as Portarias n.os 59/2013 e 97/2015; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

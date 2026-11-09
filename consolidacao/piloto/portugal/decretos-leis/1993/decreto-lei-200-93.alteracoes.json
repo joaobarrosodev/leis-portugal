@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nSão funções específicas dos CASE:\n\na) Propor a ordenação, por mérito relativo, dos oficiais e sargentos dos quadros permanentes (QP) elegíveis para promoção por escolha;\n\nb) Prestar apoio na apreciação das avaliações relativas a oficiais e sargentos para efeitos de verificação das condições gerais de promoção estabelecidas estatutariamente;\n\nc) Preparar a elaboração das listas de promoção de acordo com as modalidades de promoção estabelecidas estatutariamente;\n\nd) Emitir parecer sobre questões suscitadas pelo comandante do Pessoal do Exército (CPESE) no âmbito da gestão dos recursos humanos.",
+    "depois": "###### Artigo 2.º\n\nCompete aos CASE:\n\na) Prestar apoio na verificação das condições gerais de promoção estabelecidas estatutariamente;\n\nb) Propor a ordenação, por mérito relativo, dos oficiais e sargentos dos quadros permanentes (QP) que reúnam as condições de promoção por escolha;\n\nc) Elaborar as listas de promoção, de acordo com as modalidades de promoção estabelecidas estatutariamente e tendo em conta as regras previstas no Regulamento de Avaliação de Mérito dos Militares do Exército;\n\nd) Emitir parecer sobre questões suscitadas pelo comandante do Pessoal do Exército (CPESE) no âmbito da gestão dos recursos humanos.\n\n> Alterado pelo/a [Decreto-Lei n.º 226/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2003-491932), publicado em 2003-09-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:257600:por",
+    "alterador": "pt:dre:491932:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1 - Os CASE são constituídos por militares dos QP, integrando membros designados e membros eleitos da respectiva arma ou serviço.\n\n2 - Os membros eleitos, em número não inferior a 50% do quantitativo global dos elementos que integram o respectivo conselho, devem assegurar a representatividade das diferentes subcategorias e postos.",
+    "depois": "###### Artigo 3.º\n\n1 - Os CASE são constituídos por militares dos QP, integrando membros designados e membros eleitos da respectiva arma ou serviço.\n\n2 - Os membros eleitos, em número não inferior a 50% do quantitativo global dos elementos que integram o respectivo conselho, devem assegurar a representatividade das diferentes subcategorias e postos.\n\n3 - Quando o número de militares existentes num quadro especial em extinção progressiva for igual ou inferior ao número de membros previsto para a composição do respectivo conselho, será este composto por todos os militares desse quadro, sem necessidade de designação ou eleição.\n\n> Alterado pelo/a [Decreto-Lei n.º 226/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2003-491932), publicado em 2003-09-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:257600:por",
+    "alterador": "pt:dre:491932:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\nO mandato dos membros eleitos tem a duração de um ano, com início no ano civil seguinte ao da eleição.",
+    "depois": "###### Artigo 4.º\n\nO mandato dos membros eleitos tem a duração de dois anos, com início em 1 de Abril.\n\n> Alterado pelo/a [Decreto-Lei n.º 226/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2003-491932), publicado em 2003-09-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:257600:por",
+    "alterador": "pt:dre:491932:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n1 - Os CASE funcionam no Comando do Pessoal, sendo presididos por um oficial general ou oficial superior da respectiva arma ou serviço, a designar, em acumulação de funções, pelo Chefe do Estado-Maior do Exército (CEME).\n\n2 - Os CASE reúnem por convocação do CPESE, com a ordem de trabalhos por este estabelecida.\n\n3 - Os CASE funcionam por comissões, correspondentes às categorias neles representadas, para efeito das funções específicas referidas no artigo 2.º",
+    "depois": "###### Artigo 5.º\n\n1 - Os CASE são presididos por um oficial general ou um oficial superior, se possível da respectiva arma ou serviço, a designar, em acumulação de funções, pelo Chefe do Estado-Maior do Exército (CEME).\n\n2 - Os CASE reúnem sempre que forem convocados pelo CPESE, por sua iniciativa ou mediante proposta do respectivo presidente, com a ordem de trabalhos por aquele estabelecida.\n\n3 - Os CASE funcionam por comissões, correspondentes às categorias neles representadas.\n\n> Alterado pelo/a [Decreto-Lei n.º 226/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2003-491932), publicado em 2003-09-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:257600:por",
+    "alterador": "pt:dre:491932:por"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:487764:por",
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "",
+      "texto": "Os alferes-alunos do curso transitório de engenharia militar que terminaram em 1965 o curso da Academia Militar são promovidos a tenentes-alunos no início do tirocínio, contando a antiguidade de tenente desde 1 de Dezembro de 1964.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único: onde se lê «1 de Dezembro de 1965» deve ler-se «1 de Dezembro de 1964»: aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "único: parágrafo que não está no alterador nem no original: Os alferes-alunos do curso transitório de engenharia militar que terminaram em 1"
+  ]
+}

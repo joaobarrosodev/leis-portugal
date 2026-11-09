@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:178480:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigo 1.º, n.ºs 2 e 3: alteração de coordenadas nos anexos I e II do original; os anexos não constam do texto atual e as novas coordenadas só vêm em imagem (ver documento original); não aplicadas.",
+  "instrucoes": [
+    "Alterador 1, artigo 1.º, n.º 2: coordenadas da captação 47 no anexo I; em imagem, não aplicada.",
+    "Alterador 1, artigo 1.º, n.º 3: vértices da zona de proteção imediata de PS1 e PS2 no anexo II; em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

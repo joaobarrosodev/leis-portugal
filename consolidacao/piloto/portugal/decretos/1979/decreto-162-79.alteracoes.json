@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — (Extinção)\n\n1 - É extinta a Empresa Pública do Jornal O Século.\n\n2 - A EPJS mantém, porém, a capacidade jurídica para efeitos de liquidação até à aprovação das contas apresentadas pela comissão liquidatária.",
+    "depois": "###### Artigo 1.º — Extinção\n\n1 - É extinta a Empresa Pública do Jornal O Século.\n\n2 - A EPJS mantém a personalidade jurídica para efeitos de liquidação até aprovação das contas.\n\n3 - O Estado, representado pela Direcção-Geral da Comunicação Social, constitui-se liquidatário da EPJS, cumprindo-lhe exercer todos os poderes necessários à liquidação do património da Empresa extinta.\n\n> Alterado pelo/a [Decreto-Lei n.º 123/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1986-226985), publicado em 1986-05-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:156809:por",
+    "alterador": "pt:dre:226985:por"
+  }
+]

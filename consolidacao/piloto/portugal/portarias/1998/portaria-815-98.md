@@ -58,7 +58,7 @@ do fundo de calamidades
 
 ###### Artigo 2.º — Acesso
 
-1 - Sem prejuízo do disposto no número seguinte, têm acesso à linha de crédito criada por este diploma os agricultores que desenvolvam as culturas agrícolas constantes do anexo I, nas regiões nele definidas, nos termos e condições previstos no Decreto-Lei n.º 20/96, de 19 de Março, e na Portaria n.º 430/97, de 1 de Julho.
+1 - Sem prejuízo do disposto no número seguinte, têm acesso à linha de crédito criada por este diploma os agricultores que desenvolvam as culturas agrícolas constantes do anexo I, nas regiões nele definidas, nos termos e condições previstos no [Decreto-Lei n.º 20/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1996-535012), de 19 de Março, e na [Portaria n.º 430/97](https://diariodarepublica.pt/dr/detalhe/portaria/430-1997-160511), de 1 de Julho.
 
 2 - Os agricultores de tomate para a indústria só têm acesso à linha de crédito instituída por este diploma quando a respectiva cultura tiver apresentado quebras de produção iguais ou superiores a 50% do volume de produção que foi previsto nos termos do contrato de compra e venda celebrado entre a produção e a indústria.
 

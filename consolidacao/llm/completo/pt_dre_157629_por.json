@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:157629:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O Decreto n.º 6/2013 altera a classificação (redefine núcleos e integra novos núcleos, arts. 1.º e 2.º) e substitui as plantas por um anexo que só vem em imagem; não dá nova redação ao artigo único do Decreto n.º 32/97, pelo que não há alteração textual a aplicar.",
+  "instrucoes": [
+    "Art. 1.º e 2.º do Decreto n.º 6/2013: alteração da classificação e plantas em anexo (imagem), sem nova redação do artigo único: não aplicado ao texto",
+    "Arts. 3.º e 4.º: normas autónomas, não alteram o texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

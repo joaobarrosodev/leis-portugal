@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nO encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:\n\nEm 1969 ... 24646292$20\n\nEm 1970 ... 16430861$60\n\n§ único. A importância fixada para o ano seguinte será acrescida do saldo apurado no ano que lhe antecede.\n\nMarcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.\n\nPromulgado em 5 de Março de 1969.\n\nPublique-se.\n\nPresidência da República, 18 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.",
+    "depois": "###### Artigo 2.º\n\nO encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:\n\n1969 ... 25000000$00\n\n1970 ... 16077153$80\n\n§ único. A importância fixada para o ano de 1970 será acrescida do saldo eventualmente apurado no ano anterior.\n\n> Alterado pelo/a [Decreto n.º 49363](https://diariodarepublica.pt/dr/detalhe/decreto/49363-1969-215882), publicado em 1969-11-07.\n\nMarcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.\n\nPromulgado em 5 de Março de 1969.\n\nPublique-se.\n\nPresidência da República, 18 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:524842:por",
+    "alterador": "pt:dre:215882:por"
+  }
+]

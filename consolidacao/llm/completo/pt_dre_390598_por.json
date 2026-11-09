@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:390598:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 2.º: adita um lugar ao mapa anexo I, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "DRR 9/96/M art. 1.º: nova redação do art. 11.º; já igual ao texto atual, sem mudança",
+    "DRR 9/96/M art. 2.º: aditamento de lugar ao mapa anexo (imagem); não aplicado",
+    "DRR 6/97/M (alteradores 2 e 3): nova orgânica da SRE, sem instruções dirigidas ao original; nada a aplicar"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

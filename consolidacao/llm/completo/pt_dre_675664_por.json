@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:675664:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 6.º: substitui o quadro a que se refere o artigo 1.º do original pelo quadro anexo ao DL 699/73; o quadro (do original e do alterador) só vem em imagem. O art. 7.º, n.º 2, do alterador regula de novo o provimento dos ajudantes de escrivão (matéria do artigo 2.º do original), mas não é uma instrução de alteração do texto do original, pelo que não se aplicou.",
+  "instrucoes": [
+    "Alterador 1, art. 6.º: novo quadro anexo — só em imagem, não aplicado.",
+    "Alterador 1, art. 7.º, n.º 2: nova regra de provimento sem instrução de alteração do artigo 2.º do original — não aplicado.",
+    "Alterador 1, restantes artigos: organização do STA e outros diplomas — não dirigidos ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,306 @@
+{
+  "id": "pt:dre:464231:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "(Estabelecimento de ensino superior)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "(Curso congénere)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "2.º-A",
+      "epigrafe": "(Incompatibilidades)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "(Objecto)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "(Universidades privadas)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "(Outros estabelecimentos privados)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "(Estudantes que estiveram inscritos em curso superior no estrangeiro)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "(Ensino superior militar)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "(Candidatura)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "(Cursos a que se pode candidatar)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "(Local e data da candidatura)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "(Instrução do processo de candidatura)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "(Não realização da candidatura)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "(Exclusão da candidatura)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "(Processo individual)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "(Remessa de processos)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "(Vagas)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "(Regimes de candidatura - Ordenação)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "(Resultados e reclamações)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "(Matrícula no ensino superior)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "(Devolução dos processos)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "(Erros dos serviços)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "(Candidatos ao curso de Educação Física)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "(Objecto)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "(Local e data da instrução do processo)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "(Conteúdo)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "(Instrução do processo)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "(Não realização)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "(Falsas declarações)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "(Processo individual)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "(Distribuição)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "(Remessa dos processos)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "(Matrícula no ensino superior)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "(Candidatos ao curso de Educação Física)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "(Devolução de processos)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "(Reingresso)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "(Mudança de curso)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "(Transferências)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "(Vagas)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "(Integração curricular)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "(Reclamações)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "(Matrícula e ou inscrição)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "(Estudantes abrangidos pela circular n.º 163/72, série B, de 27 de Setembro, da Direcção-Geral do Ensino Superior)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "42.º-A",
+      "epigrafe": "(Integração curricular)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "(Prazos)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "(Revisão)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "(Resolução de dúvidas)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "(Entrada em vigor)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Anexos I e II (tabelas) substituídos pela Portaria 824/82 só vêm em imagem; ficam também revogados pela Portaria 582-B/84, que revoga toda a Portaria 564/80.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 824/82) n.º 1.º: nova redação do art. 23.º e anexos I e II (imagem); superada pela revogação total.",
+    "Alterador 1 n.º 2.º: adita arts. 2.º-A e 42.º-A; depois revogados pelo alterador 4.",
+    "Alterador 1 n.º 3.º: revoga n.º 6 do art. 16.º e n.º 2 do art. 42.º (já no texto atual); superada pela revogação total.",
+    "Alterador 2 (Portaria 4/83): nova redação do n.º 1 do art. 23.º; superada pela revogação total.",
+    "Alterador 3 (Portaria 761/83): nova redação do art. 4.º (epígrafe Universidades privadas); superada pela revogação total, mantida a epígrafe nova.",
+    "Alterador 4 (Portaria 582-B/84) n.º 3.º: revoga toda a Portaria 564/80: todos os artigos (incluindo 2.º-A e 42.º-A) ficam (Revogado.). O regulamento que aprova é diploma novo, não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

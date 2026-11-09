@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:601113:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Artigo 26.º do Decreto Regulamentar Regional n.º 5/2022/A extingue a zona franca de Santa Maria autorizada pelo Decreto-Lei n.º 34/82; não é alteração textual nem revogação expressa de artigos do original, pelo que não se altera o texto.",
+  "instrucoes": [
+    "Alterador 1, art. 26.º: extinção da zona franca de Santa Maria — efeito material, não textual; não aplicado.",
+    "Alterador 1, art. 27.º: revoga outros diplomas (DRR 27/86/A, 9/88/A, 34/91/A, RCGR 141/1991), não o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

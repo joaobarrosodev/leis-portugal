@@ -1,0 +1,42 @@
+{
+  "id": "pt:dre:163242:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "Sempre que as empresas pretendam efectivar despedimentos colectivos por motivos diferentes do previsto no artigo 1.º e as circunstâncias o aconselhem, poderão os Ministros da Economia e das Corporações e Previdência Social, em despacho conjunto e fundamentado, mandar aplicar ao pessoal despedido os benefícios previstos neste diploma e, bem assim, definir a comparticipação das empresas nos encargos correspondentes, nos termos estabelecidos no § 1.º do artigo 9.º\n\n§ 1.º Neste caso, a pensão a que se refere o artigo 4.º será substituída por um subsídio temporário a fixar no despacho a que se refere o corpo deste artigo.\n\n§ 2.º O regime de protecção estabelecido neste artigo é aplicável às empresas de todos os sectores de actividade, com excepção da agricultura e da pesca, que tenham mais de dez trabalhadores ao seu serviço.",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "Para efeito de aplicação do presente diploma e oportuno conhecimento das situações de desemprego colectivo, as empresas industriais abrangidas por uma reorganização, e bem assim as que se encontram na situação prevista no artigo 11.º e seu § 2.º, deverão comunicar os despedimentos ao Ministério das Corporações e Previdência Social com antecedência não inferior a sessenta dias, esclarecendo as razões justificativas da decisão tomada.\n\n§ 1.º A comunicação será acompanhada da relação de todos os trabalhadores a despedir, contendo, relativamente a cada um deles, os seguintes elementos:\n\nnome, morada, estado civil, datas de nascimento e de admissão na empresa, situação perante a previdência, número de pessoas a cargo, assiduidade nos últimos dois anos, rendimento ou qualificação profissional, secção ou secções afectadas, categoria e classe, ordenado ou salário e data de despedimento.\n\n§ 2.º Sempre que ao pessoal a despedir sejam de conceder os benefícios estabelecidos neste diploma, os critérios e condições de despedimento serão fixados em despacho conjunto dos Ministros da Economia e das Corporações e Previdência Social, ouvidas as empresas e os sindicatos interessados.\n\n§ 3.º Para efeito da aplicação deste diploma, entende-se que não há despedimento se as empresas declararem expressamente, na comunicação a fazer nos termos estabelecidos no corpo deste artigo, que assumem a obrigação de readmitir o pessoal dispensado dentro de sessenta dias. A falta de cumprimento da obrigação assumida fará incorrer as empresas na sanção prevista no artigo 13.º\n\n§ 4.º Entende-se que há redução de quadros quando o pessoal despedido não tenha de ser substituído ou o não seja efectivamente, no prazo de 90 dias.",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "O pessoal despedido, ainda não empregado ou reformado, terá preferência no preenchimento das vagas que vierem a verificar-se na empresa donde tiver saído ou naquela em que a mesma tenha sido transformada ou integrada, mantendo os direitos que tinha à data do despedimento desde que o reingresso se verifique no prazo de um ano, a contar daquela data. O mesmo princípio se aplica quando o pessoal já empregado tiver remuneração inferior à que percebia anteriormente.\n\n§ 1.º O Instituto Nacional do Trabalho e Previdência poderá autorizar o preenchimento das vagas de modo diverso, quando a aptidão profissional e física dos trabalhadores se não ajustar às necessidades das empresas.\n\n§ 2.º Se as empresas não derem cumprimento ao determinado no presente artigo, aplicar-se-á o disposto no artigo 13.º",
+      "alterador": 2
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "Ao Ministro das Corporações e Previdência Social incumbe promover o esclarecimento das dúvidas que resultarem da aplicação deste diploma, tomar as providências necessárias à sua perfeita execução, e bem assim adoptar medidas complementares destinadas à protecção e desenvolvimento da mão-de-obra, designadamente em matéria de concessão de subsídios e outros auxílios, incluindo empréstimos a empresas ou organismos, que integrem o esquema previsto e se julguem indispensáveis a uma mais completa realização dos objectivos pretendidos. Cabe-lhe também promover a criação de centros de aprendizagem e outros centros de formação profissional destinados a auxiliar a promoção social do trabalhador.\n\n§ único. Para o mesmo efeito, o Ministro das Corporações e Previdência Social poderá determinar que as empresas comerciais e industriais e quaisquer outras enviem, nos prazos que forem designados, os elementos indispensáveis ao conhecimento do mercado da mão-de-obra nos seus diversos aspectos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 47254), art. 2.º: nova redacção do corpo do artigo 15.º; substituído o corpo, mantido o § único do texto atual.",
+    "Alterador 1, art. 1.º: autonomia do Fundo, disposição autónoma, não altera o texto do original.",
+    "Alterador 2 (DL 48888), artigo único: nova redacção do artigo 11.º (corpo, § 1.º e § 2.º); substituído o artigo inteiro (o antigo § único dá lugar aos §§ 1.º e 2.º).",
+    "Alterador 2: nova redacção do artigo 12.º (corpo, §§ 1.º a 3.º e '...'); substituídos corpo e §§ 1.º a 3.º; o '...' final mantém o § 4.º do texto atual.",
+    "Alterador 2: nova redacção do corpo do artigo 14.º; substituído o corpo, mantidos os §§ 1.º e 2.º.",
+    "Alterador 3 (Decreto 146/78): só cita os artigos 5.º e 17.º do original e reorganiza quadros do Ministério do Trabalho; nenhuma instrução dirigida ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

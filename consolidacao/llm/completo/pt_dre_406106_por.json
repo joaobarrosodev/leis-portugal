@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:406106:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 371/88) altera a Pauta (anexo do original) nos termos dos anexos I a IV, que só vêm em imagem ou se referem a páginas da separata que não consta do texto atual; o seu art. 2.º altera a tabela II da Reforma Aduaneira (outro diploma). Alterador 2 (DL 473/88) reduz e suspende direitos da Pauta por normas próprias, sem alteração textual dos artigos. Nada aplicado.",
+  "instrucoes": [
+    "Art. 1.º do DL 371/88: altera a Pauta nos termos dos anexos I a IV — não aplicado (anexo do original não disponível em texto; anexos I a III só em imagem).",
+    "Art. 2.º do DL 371/88: artigo 10.º da tabela II da Reforma Aduaneira — outro diploma, ignorado.",
+    "Art. 3.º do DL 371/88: revoga o DL 45/87 — outro diploma, ignorado.",
+    "Arts. 1.º e 2.º do DL 473/88: redução temporária e suspensão de direitos da Pauta — normas próprias, não aplicadas ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

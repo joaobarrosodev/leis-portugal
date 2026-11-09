@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:331978:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Lei n.º 32-B/2002, art. 9.º, n.º 4): adita n.º 5 ao artigo 5.º; o texto atual já o contém (já alterado por programa); restantes números do art. 9.º alteram outros diplomas, ignorados",
+    "Alterador 2 (Acórdão n.º 360/2003): declara inconstitucional o art. 9.º da Lei n.º 32-B/2002, o que afastaria o n.º 5",
+    "Alterador 3 (Lei n.º 1/2004, art. 1.º, n.º 4): volta a aditar o n.º 5 ao artigo 5.º com texto idêntico; resultado final igual ao texto atual, nenhum artigo muda"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

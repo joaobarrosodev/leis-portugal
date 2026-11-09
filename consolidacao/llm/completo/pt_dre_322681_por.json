@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:322681:por",
+  "artigos": [
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "1. Os assistentes e auxiliares sociais constituem um quadro único integrado na Direcção-Geral e funcionam na imediata dependência do inspector dos serviços, ao qual compete orientar e fiscalizar a sua actividade.\n\n2. Os assistentes e auxiliares destacados para os tribunais tutelares de menores ou estabelecimentos dependentes ficam, sem prejuízo da sua imediata subordinação hierárquica ao inspector, sob a direcção dos respectivos juízes, curadores e directores.",
+      "alterador": 4
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 e 2 (Portarias 19644 e 19817): criam lugares ao abrigo do Regulamento (Decreto 44289), sem alteração textual; alterador 3 (DL 46610), alterador 4 art. 2.º e alterador 5 (DL 283/71): alteram os mapas n.os 2, 3 e 4 anexos, que só vêm em imagem.",
+  "instrucoes": [
+    "Alteradores 1 e 2: criação de lugares, não textual.",
+    "Alterador 3: altera o mapa n.º 2 (imagem): não aplicado.",
+    "Alterador 4 art. 1.º: nova redação do n.º 2 do artigo 13.º: aplicada.",
+    "Alterador 4 art. 2.º: mapa n.º 4 (imagem): não aplicado.",
+    "Alterador 4 arts. 3.º a 6.º: alteram a Organização Tutelar de Menores (outro diploma): ignorados.",
+    "Alterador 5: altera os mapas n.os 2 e 3 (imagem) e regime remuneratório de enfermagem: não aplicado ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

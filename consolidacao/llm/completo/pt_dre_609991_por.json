@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:609991:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 art. 2.º: nova redação dos critérios de pureza do manitol (E 421) no anexo do original, que não consta do texto por artigos; nenhum artigo muda.",
+  "instrucoes": [
+    "Alterador 1 art. 2.º: substitui os critérios do manitol no anexo do Decreto-Lei n.º 259/2001 - anexo fora dos artigos, não aplicado.",
+    "Alteradores 2, 3 e 4: alteram/republicam o anexo do Decreto-Lei n.º 98/2000 (outro diploma) - ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

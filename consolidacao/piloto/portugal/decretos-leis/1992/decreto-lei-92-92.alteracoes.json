@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "13.º-A",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º-A — Gabinete de Assuntos Europeus\n\n1 - O GAE é o órgão especialmente incumbido de, em permanência, acompanhar a participação nos órgãos das Comunidades Europeias e assegurar a coordenação e dinamização dos assuntos comunitários no âmbito das atribuições do Ministério.\n\n2 - O GAE é equiparado a direcção-geral e dispõe de quadro privativo.\n\n3 - O apoio administrativo do GAE é assegurado pelo pessoal do quadro único do Ministério da Administração Interna.",
+    "depois": "###### Artigo 13.º-A — Gabinete de Assuntos Europeus\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 78/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2007-520432), publicado em 2007-03-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:523409:por",
+    "alterador": "pt:dre:520432:por"
+  },
+  {
+    "artigo": "13.º-B",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º-B — Atribuições e competências\n\nCabe ao GAE o acompanhamento da participação do Ministério e a preparação das decisões nos diferentes órgãos das Comunidades Europeias sobre as questões relacionadas com a segurança interna, competindo-lhe, nomeadamente:\n\na) Organizar os respectivos dossiers e preparar as posições sectoriais a assumir pelo Ministério;\n\nb) Propor a composição das delegações e sugerir as orientações a seguir pelos participantes nacionais nos diversos grupos de trabalho e nas reuniões sectoriais;\n\nc) Receber, tratar e distribuir os documentos emanados dos órgãos próprios das Comunidades Europeias e registar as posições assumidas pelo Ministério;\n\nd) Coadjuvar os membros do Governo na preparação dos documentos sobre as matérias das reuniões em que participem;\n\ne) Seleccionar as matérias que, pela sua importância e interesse público, devam ser amplamente divulgadas;\n\nf) Coordenar a participação das forças e serviços de segurança nos grupos de trabalho e demais realizações no contexto comunitário.\n\nVisto e aprovado em Conselho de Ministros de 26 de Março de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo.\n\nPromulgado em 12 de Maio de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 13 de Maio de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "depois": "###### Artigo 13.º-B — Atribuições e competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 78/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2007-520432), publicado em 2007-03-29.\n\nVisto e aprovado em Conselho de Ministros de 26 de Março de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo.\n\nPromulgado em 12 de Maio de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 13 de Maio de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:523409:por",
+    "alterador": "pt:dre:520432:por"
+  }
+]

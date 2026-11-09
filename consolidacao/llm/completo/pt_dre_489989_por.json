@@ -1,0 +1,716 @@
+{
+  "id": "pt:dre:489989:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Requisição de documentos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Constituição como assistente e patrocínio",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Laudos sobre honorários",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Recursos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Órgãos da Câmara",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Requisitos de elegibilidade",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Duração do mandato",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Apresentação de candidaturas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Decisão sobre a elegibilidade dos candidatos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Afixação das listas admitidas e impugnação da decisão de rejeição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Apresentação de candidaturas em caso de rejeição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Exercício do direito de voto",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Exercício do cargo",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Escusa do exercício do mandato",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Perda do mandato",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Substituição dos presidentes dos órgãos da Câmara",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Substituição dos restantes membros dos órgãos da Câmara",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Impedimento temporário",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Substituição dos delegados",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Mandato dos substitutos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Títulos honoríficos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Composição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Mesa",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Competência do presidente",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Reuniões",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Assembleia geral ordinária",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Assembleia geral extraordinária",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "Deliberações da assembleia geral extraordinária",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "Composição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Reuniões",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Conselho restrito",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "Competência do presidente",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "Composição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "Mesas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "Reuniões",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "Assembleias regionais ordinárias",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "Assembleias regionais extraordinárias",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "Deliberações das assembleias regionais extraordinárias",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "Composição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "Reuniões",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "Conselho de jurisdição disciplinar",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "50.º",
+      "epigrafe": "Competência dos presidentes",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "51.º",
+      "epigrafe": "Delegações",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "52.º",
+      "epigrafe": "Receitas e sua afectação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "53.º",
+      "epigrafe": "Cobrança das receitas e fixação de quotas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "54.º",
+      "epigrafe": "Administração das receitas e repartição dos encargos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "55.º",
+      "epigrafe": "Não restituição das quantias pagas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "56.º",
+      "epigrafe": "Pagamentos à Câmara",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "57.º",
+      "epigrafe": "Encerramento das contas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "58.º",
+      "epigrafe": "Obrigatoriedade da inscrição. Cédula profissional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "59.º",
+      "epigrafe": "Lista dos solicitadores. Sua divulgação e actualização",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "60.º",
+      "epigrafe": "Requisitos de inscrição na Câmara",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "61.º",
+      "epigrafe": "Formalidades do pedido de inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "62.º",
+      "epigrafe": "Prazo para deliberação, registo de inscrição e inscrição única",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "63.º",
+      "epigrafe": "Emissão do diploma e da cédula profissional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "64.º",
+      "epigrafe": "Causas de suspensão da inscrição de solicitador",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "65.º",
+      "epigrafe": "Casos de cessação da suspensão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "66.º",
+      "epigrafe": "Pedido de suspensão ou cancelamento da inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "67.º",
+      "epigrafe": "Cancelamento definitivo da inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "68.º",
+      "epigrafe": "Cassação da cédula profissional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "69.º",
+      "epigrafe": "Solicitador estagiário",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "70.º",
+      "epigrafe": "Serviços de estágio",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "71.º",
+      "epigrafe": "Inscrição e taxa",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "72.º",
+      "epigrafe": "Estágio",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "73.º",
+      "epigrafe": "Período de estágio",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "74.º",
+      "epigrafe": "Trabalhos de estágio",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "75.º",
+      "epigrafe": "Segundo período de estágio",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "76.º",
+      "epigrafe": "Inscrição como solicitador",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "77.º",
+      "epigrafe": "Exclusividade do exercício da solicitadoria",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "78.º",
+      "epigrafe": "Direitos dos solicitadores",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "79.º",
+      "epigrafe": "Das garantias em geral",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "80.º",
+      "epigrafe": "Sociedade de solicitadores",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "81.º",
+      "epigrafe": "Contrato de trabalho",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "82.º",
+      "epigrafe": "Escritórios de procuradoria e de consulta jurídica",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "83.º",
+      "epigrafe": "Apreensão de documentos e buscas em escritório de solicitador",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "84.º",
+      "epigrafe": "Direitos perante a Câmara",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "85.º",
+      "epigrafe": "Deveres dos solicitadores",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "86.º",
+      "epigrafe": "Segredo profissional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "87.º",
+      "epigrafe": "Honorários",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "88.º",
+      "epigrafe": "Incompatibilidades",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "89.º",
+      "epigrafe": "Responsabilidade disciplinar",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "90.º",
+      "epigrafe": "Infracções disciplinares",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "91.º",
+      "epigrafe": "Instauração do processo disciplinar",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "92.º",
+      "epigrafe": "Natureza secreta do processo",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "93.º",
+      "epigrafe": "Prescrição do procedimento disciplinar",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "94.º",
+      "epigrafe": "Efeitos do cancelamento ou suspensão de inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "95.º",
+      "epigrafe": "Penas disciplinares",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "96.º",
+      "epigrafe": "Escolha e medida da pena",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "97.º",
+      "epigrafe": "Aplicação das penas de suspensão e de expulsão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "98.º",
+      "epigrafe": "Publicidade das penas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "99.º",
+      "epigrafe": "Prescrição das penas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "100.º",
+      "epigrafe": "Natureza da instrução",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "101.º",
+      "epigrafe": "Termo da instrução",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "102.º",
+      "epigrafe": "Suspensão preventiva",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "103.º",
+      "epigrafe": "Acusação e defesa",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "104.º",
+      "epigrafe": "Prazo para a instrução",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "105.º",
+      "epigrafe": "Não cumprimento dos prazos de instrução",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "106.º",
+      "epigrafe": "Isenção de tributação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "107.º",
+      "epigrafe": "Parecer final e remessa ao conselho de jurisdição disciplinar",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "108.º",
+      "epigrafe": "Deliberação do conselho de jurisdição disciplinar",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "109.º",
+      "epigrafe": "Notificação do acórdão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "110.º",
+      "epigrafe": "Prazo para pagamento da multa",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "111.º",
+      "epigrafe": "Recursos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "112.º",
+      "epigrafe": "Registo disciplinar individual",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "113.º",
+      "epigrafe": "Selo e insígnia da Câmara",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "114.º",
+      "epigrafe": "Trajo profissional. Direito ao uso de insígnia",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "115.º",
+      "epigrafe": "Medalha de mérito profissional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "116.º",
+      "epigrafe": "Segurança social",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "117.º",
+      "epigrafe": "Isenção de custas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "118.º",
+      "epigrafe": "Requisitos para a alteração do presente Estatuto",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "119.º",
+      "epigrafe": "Regime especial",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "120.º",
+      "epigrafe": "Código deontológico. Regulamentos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "121.º",
+      "epigrafe": "Procuradoria",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alt.1 art. 2.º revoga o Estatuto da Câmara dos Solicitadores aprovado pelo original (artigos 1.º a 121.º do Estatuto). As chaves 1.º a 4.º do Estatuto coincidem com as dos artigos 1.º a 4.º do decreto-lei, que não são revogados; alvo ambíguo, pelo que esses quatro artigos do Estatuto não foram marcados como revogados. O art. 4.º, n.º 10, do alterador mantém transitoriamente normas do original (sem alteração textual).",
+  "instrucoes": [
+    "Alt.1 art. 2.º: revogação do Estatuto; artigos 5.º a 121.º do Estatuto marcados (Revogado.); 1.º a 4.º não marcados por ambiguidade de chave com o articulado do decreto-lei.",
+    "Alt.1 art. 4.º: regime transitório, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

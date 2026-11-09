@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:645077:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Retificação 10-B/99: incide no mapa IX ('Programa e projectos plurianuais'), que só existe em imagem tanto no original como na retificação; não aplicada.",
+  "instrucoes": [
+    "Retificação 10-B/99, mapa IX: só em imagem — não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

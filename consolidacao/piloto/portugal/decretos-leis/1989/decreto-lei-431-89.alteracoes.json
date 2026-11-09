@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "10.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º — Regime de instalação\n\n1 - Nos termos da legislação aplicável, a instalação da Escola será da competência de uma comissão instaladora nomeada pelos membros do Governo competentes, sob proposta da Direcção-Geral do Ensino Superior e do Instituto Português do Património Cultural, e deverá estar concluída no prazo de um ano improrrogável.\n\n2 - Durante o regime de instalação poderão ser criados quadros provisórios de pessoal docente e não docente, por portaria conjunta dos Ministros das Finanças e da Educação e do membro do Governo responsável pela área da cultura.",
+    "depois": "###### Artigo 10.º — Regime de instalação\n\n1 - Nos termos da legislação aplicável, a instalação da Escola será da competência de uma comissão instaladora, nomeada pelos membros do Governo competentes, sob proposta da Direcção-Geral do Ensino Superior e do Instituto Português do Património Arquitectónico e Arqueológico, e deverá estar concluída no prazo de três anos a contar da data da sua posse.\n\n2 - Durante o regime de instalação poderão ser criados quadros provisórios de pessoal docente e não docente, por portaria conjunta dos Ministros das Finanças e da Educação e do membro do Governo responsável pela área da cultura.\n\n> Alterado pelo/a [Decreto-Lei n.º 167/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1992-283920), publicado em 1992-08-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:550266:por",
+    "alterador": "pt:dre:283920:por"
+  }
+]

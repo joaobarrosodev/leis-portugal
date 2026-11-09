@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º — Candidaturas\n\n1 - As candidaturas ao presente regime são apresentadas na sede ou nas direcções regionais da Direcção-Geral das Pescas e Aquicultura (DGPA) ou nos serviços regionais do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).\n\n2 - Os processos de candidatura são apresentados em triplicado, mediante o preenchimento de formulários próprios, devendo ser obrigatoriamente acompanhados dos documentos referidos nos anexos a esses formulários.\n\n3 - Após a recepção das candidaturas, podem ser solicitados pela DGPA ou pelo IFADAP quaisquer esclarecimentos ou documentos que se entenda necessários, devendo o promotor responder no prazo máximo de 15 dias se outro não for fixado.\n\n4 - A ausência de resposta do promotor equivale à desistência da candidatura a que se refere, excepto se o interessado demonstrar que a causa não lhe é imputável.\n\n5 - O fecho das candidaturas ocorrerá em 30 de Junho de 2006, se outra data não for determinada pelo gestor.",
+    "depois": "###### Artigo 12.º — Candidaturas\n\n1 - As candidaturas ao presente regime são apresentadas na sede ou nas direcções regionais da Direcção-Geral das Pescas e Aquicultura (DGPA) ou nos serviços regionais do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).\n\n2 - Os processos de candidatura são apresentados em triplicado, mediante o preenchimento de formulários próprios, devendo ser obrigatoriamente acompanhados dos documentos referidos nos anexos a esses formulários.\n\n3 - Após a recepção das candidaturas, podem ser solicitados pela DGPA ou pelo IFADAP quaisquer esclarecimentos ou documentos que se entenda necessários, devendo o promotor responder no prazo máximo de 15 dias se outro não for fixado.\n\n4 - A ausência de resposta do promotor equivale à desistência da candidatura a que se refere, excepto se o interessado demonstrar que a causa não lhe é imputável.\n\n5 - O fecho das candidaturas ocorre em 30 de Setembro de 2006.\n\n> Alterado pelo/a [Portaria n.º 939/2006](https://diariodarepublica.pt/dr/detalhe/portaria/939-2006-540047), publicado em 2006-09-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:585181:por",
+    "alterador": "pt:dre:540047:por"
+  }
+]

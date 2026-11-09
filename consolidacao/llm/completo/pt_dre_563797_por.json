@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:563797:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Licenciatura em Engenharia Zootécnica",
+      "texto": "1 - A área científica do curso de licenciatura em Produção Animal é a Produção Animal.\n\n2 - A duração normal do curso é de cinco anos.\n\n3 - O número total de unidades de crédito necessárias à concessão do grau é de 158,5, assim distribuídas:\n\n3.1 - Áreas obrigatórias:\n\na) Biologia ... 43\n\nb) Biotecnologia ... 15\n\nc) Geociências ... 6\n\nd) Economia e Sociologia ... 18,5\n\ne) Matemática ... 19\n\nf) Física ... 7\n\ng) Química ... 14\n\nh) Fitotecnia e Engenharia Rural ... 12\n\ni) Línguas Vivas Estrangeiras ... 2\n\n3.2 - Áreas opcionais:\n\na) Avicultura e Cunicultura ... 10\n\nb) Piscicultura ... 10\n\nc) Apicultura ... 10\n\nd) Aquacultura ... 10\n\ne) Silvo-pastorícia ... 10\n\n3.3 - Estágio ... 12",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Licenciatura em Engenharia Florestal",
+      "texto": "1 - A área científica do curso de licenciatura em Produção Florestal é a Produção Florestal.\n\n2 - A duração normal do curso é de cinco anos.\n\n3 - O número total de unidades de crédito necessárias à concessão do grau é de 159, assim distribuídas:\n\n3.1 - Áreas científicas obrigatórias:\n\na) Silvicultura ... 43,5\n\nb) Física ... 7\n\nc) Química ... 7\n\nd) Matemática ... 20\n\ne) Biologia ... 29,5\n\nf) Geociências ... 12\n\ng) Economia e Sociologia ... 10,5\n\nh) Engenharia Rural ... 3\n\ni) Agronomia ... 2,5\n\n3.2 - Conjunto de áreas científicas optativas:\n\na) Línguas Vivas Estrangeiras ... 12\n\nb) Biologia ... 12\n\nc) Economia e Sociologia ... 12\n\nd) Matemática ... 12\n\ne) Silvicultura ... 12\n\n3.3 - Estágio ... 12",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 895/83): muda a designação das licenciaturas (Produção Agrícola, Produção Animal e Produção Florestal passam a Engenharia Agrícola, Engenharia Zootécnica e Engenharia Florestal) sem dar nova redacção a nenhum preceito; alteração não textual, não aplicada ao texto dos artigos 1.º a 4.º (só as epígrafes dos artigos 3.º e 4.º mudam, por virem na redacção dada pelos alteradores 2 e 3).",
+  "instrucoes": [
+    "Alterador 1: altera a designação das licenciaturas sem nova redacção; não aplicada ao texto (ver nao_aplicavel).",
+    "Alterador 2 n.º 1.º, 1: nova redacção do n.º 3 do artigo 3.º e epígrafe Licenciatura em Engenharia Zootécnica; aplicada (n.os 1 e 2 mantidos).",
+    "Alterador 2 n.º 1.º, 2: nova redacção do n.º 3 do artigo 4.º; aplicada e depois substituída pelo alterador 3.",
+    "Alterador 3 n.º 1.º: nova redacção do n.º 3 do artigo 4.º (159 unidades) e epígrafe Licenciatura em Engenharia Florestal; aplicada.",
+    "Alteradores 2 e 3, restantes números (entrada em vigor, plano de estudos, transição): não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

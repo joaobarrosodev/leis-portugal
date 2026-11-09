@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:570522:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Acórdão do TC n.º 631/99 declara, com força obrigatória geral, a ilegalidade da norma do n.º 2 do artigo 6.º — não é alteração textual nem revogação; texto mantido. DLR 32/99/A só altera os mapas I a V (só em imagem/PDF).",
+  "instrucoes": [
+    "Acórdão 631/99: declaração de ilegalidade do art. 6.º, n.º 2; não aplicada ao texto.",
+    "DLR 32/99/A, art. 1.º: alterações aos mapas orçamentais em imagem; não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

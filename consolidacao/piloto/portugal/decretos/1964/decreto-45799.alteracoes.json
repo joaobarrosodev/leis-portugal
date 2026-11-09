@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nSeja qual for o valor dos trabalhos a realizar, a Direcção-Geral dos Serviços Hidráulicos não poderá ser obrigada a despender com pagamentos relativos a trabalhos executados, por virtude do contrato, mais do que as importâncias abaixo indicadas:\n\nEm 1964 ... 2400000$00\n\nEm 1965 ... 2500000$00\n\nEm 1966 ... 2500000$00\n\n§ único. Às importâncias fixadas para cada ano acrescem os saldos dos anos anteriores.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 7 de Julho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.",
+    "depois": "###### Artigo 2.º\n\nSeja qual for o valor dos trabalhos a realizar, a Direcção-Geral dos Serviços Hidráulicos não poderá ser obrigada a despender com pagamentos relativos a trabalhos executados, por virtude do contrato, mais do que as importâncias abaixo indicadas:\n\nEm 1964 ... 2400000$00\n\nEm 1965 ... 1000000$00\n\nEm 1966 ... 4000000$00\n\n§ único. Às importâncias fixadas para cada ano acrescem os saldos dos anos anteriores.\n\n> Alterado pelo/a [Decreto n.º 46730](https://diariodarepublica.pt/dr/detalhe/decreto/46730-1965-507845), publicado em 1965-12-09.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 7 de Julho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:577969:por",
+    "alterador": "pt:dre:507845:por"
+  }
+]

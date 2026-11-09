@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:215774:por",
+  "artigos": [
+    {
+      "chave": "27.º",
+      "epigrafe": "",
+      "texto": "Os lugares de chefe de secção são providos, mediante despacho do Governador, por promoção dos primeiros-oficiais dos Serviços de Educação do respectivo território, com boas informações na categoria e por ordem de antiguidade na mesma.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto 65/75), art. 3.º: nova redação do artigo 27.º.",
+    "Alterador 1, arts. 1.º, 2.º, 4.º e 8.º a 11.º: ratificações e normas autónomas, sem alteração ao original.",
+    "Alterador 1, arts. 5.º, 6.º, 7.º, 9.º e 12.º: alteram outros diplomas (Decreto 49089, Estatuto do Funcionalismo Ultramarino, Decreto 131/70, Decreto 37050); ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

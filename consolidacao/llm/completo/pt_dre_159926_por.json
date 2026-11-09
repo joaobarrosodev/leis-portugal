@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:159926:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Nos termos do n.º 1 do artigo 69.º do Decreto n.º 38969, de 27 de Outubro de 1952, é autorizado o Governo, pelo Ministro da Educação Nacional, a aceitar do benemérito Joaquim Faria Moreira Ramalhão a importância da 250000$00 para fundo de manutenção da Cantina Escolar Joaquim Ramalhão, anexa às escolas do núcleo de Pedras Rubras, freguesia de Moreira, concelho da Maia.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do artigo 1.º; aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

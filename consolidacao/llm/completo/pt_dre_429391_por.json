@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:429391:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - Às empresas que se encontrem em situação de incumprimento quanto à entrega dos comprovativos da realização dos investimentos, nos termos do n.º 1 do artigo 43.º do [Decreto-Lei n.º 194/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1980-472943), de 19 de Junho, e do artigo 57.º do [Decreto-Lei n.º 132/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1983-310440), de 18 de Março, é excepcionalmente concedido um prazo de 30 dias para o fazerem, a contar da notificação para o efeito, por carta registada com aviso de recepção.\n\n2 - A não entrega dos comprovativos no prazo a que se refere o número anterior implica a caducidade automática dos incentivos.\n\n3 - As empresas que na fase de candidatura obtiveram o acesso ao SIII e às bonificações correspondentes a determinada classe apurada, mas que, tendo realizado o investimento, na fase de comprovação não atingiram o patamar de pontuação mínimo para obter a classe A ou se quedaram por uma pontuação conducente à redução de classe, podem optar pela realização de nova comprovação, tendo por base outro ano de laboração normal até 1986, inclusive, ou, em alternativa, dar relevância à utilização de outros critérios aceites pela Direcção-Geral das Contribuições e Impostos.\n\n4 - Nos casos em tenha sido proposta pelos serviços de fiscalização da Direcção-Geral das Contribuições e Impostos ou da Inspecção-Geral das Finanças a redução de classe ou a caducidade dos benefícios concedidos, pode ser autorizado o deslizamento do ano de laboração normal, nos termos previstos no número anterior, salvo quando a proposta tenha como fundamento a não realização do investimento ou situações de fraude fiscal.",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - No caso de a empresa não atingir o limiar de acesso após o deslizamento do ano de laboração normal, designadamente por alterações profundas na conjuntura económica ou no sector de actividade em que se insere o projecto, é declarada a caducidade automática do benefício, não havendo lugar ao pagamento de juros compensatórios nem de juros sobre os incentivos financeiros a repor.\n\n2 - As empresas que tenham reduzido a classe de benefícios na fase de comprovação em relação à pontuação provisória obtida na fase de candidatura, e desde que esse facto não lhe seja imputável, devem restituir os impostos em falta, nos prazos previstos no n.º 3 do artigo 43.º do [Decreto-Lei n.º 194/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1980-472943), de 19 de Junho, e no n.º 1 do artigo 58.º do [Decreto-Lei n.º 132/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1983-310440), de 18 de Março, sendo essa liquidação efectuada pela diferença entre o valor que se mostre definitivamente devido e o que tenha sido liquidado em face da decisão anterior proferida no processo, sem juros compensatórios nem juros sobre os incentivos financeiros a repor.\n\n3 - As empresas que tenham efectuado todo o esforço no sentido de realizar o projecto de investimento nos termos previstos, mas que, por motivo de ordem exógena, não atingiram a pontuação final mínima ou na fase de comprovação se quedaram por pontuação inferior à obtida na fase de arranque e que, simultaneamente, demonstrem dificuldade financeira, podem efectuar o pagamento dos benefícios indevidamente atribuídos em prestações mensais, iguais e sucessivas, as quais não podem exceder 36 prestações nem ser de montante inferior a 500000$00, mediante despacho ministerial a proferir para o efeito, tendo por base um requerimento apresentado pelo promotor no prazo máximo de 30 dias a contar da respectiva notificação.\n\n4 - O pagamento em prestações é efectuado com dispensa de juros de mora, salvo no caso de falta de pagamento de qualquer das prestações no prazo previsto, em que se vencem de imediato todas as restantes.",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "As normas do presente diploma sobre dispensa de juros compensatórios, de juros de mora e de juros sobre os incentivos financeiros a repor aplicam-se directamente aos casos em que já tenha havido despacho definitivo de redução dos incentivos ou de declaração de caducidade dos incentivos que ainda não tenham sido restituídos.",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "A recuperação dos créditos decorrentes dos incentivos financeiros concedidos ao abrigo do SIII é efectuada através do processo de execução fiscal nos termos previstos no Código de Procedimento e de Processo Tributário, constituindo a certidão de dívida emitida pela Direcção-Geral do Tesouro título executivo para esse efeito.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 246/96 artigo único: nova redação dos n.os 3 e 4 do art. 1.º (n.os 1 e 2 mantidos, '...')",
+    "DL 246/96: nova redação dos n.os 1 e 3 do art. 2.º (n.os 2 e 4 mantidos)",
+    "DL 246/96: nova redação do art. 3.º (sem o bloco de assinaturas do original)",
+    "Lei 60-A/2005 art. 103.º: aditado o art. 4.º"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pt:dre:452510:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1 - A duração dos empréstimos a conceder pelas instituições de crédito que actuam na Região para o financiamento dos projectos de investimento de que trata o presente diploma será a seguinte:\n\na) Para a aquisição de equipamento de propulsão, de navegação, de detecção e de comunicações e equipamentos auxiliares de pesca e de segurança no mar:\n\nPeríodo de utilização - máximo de 1 ano;\n\nPeríodo de carência - máximo de 1 ano;\n\nPeríodo de reembolso - máximo de 5 anos;\n\nb) Para a construção, aquisição, transformação e reconversão de embarcações de pesca:\n\nPeríodo de utilização - máximo de 1 ano;\n\nPeríodo de carência - máximo de 2 anos;\n\nPeríodo de reembolso - máximo de 9 anos;\n\nc) Para a aquisição de artes e apetrechos de pesca:\n\nPeríodo de utilização - máximo de 1 ano;\n\nPeríodo de carência - inexistente;\n\nPeríodo de reembolso - máximo de 2 anos.\n\n2 - A contagem do período de reembolso tem início despois de esgotado o período de carência.\n\n3 - Durante o período de utilização a taxa de juro a suportar pelo Governo Regional será de 10%.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "As taxas de juro anuais a suportar pelo Governo Regional para os diferentes projectos de investimento contemplados no presente diploma serão as seguintes:\n\na) Para a aquisição de equipamento de propulsão, de navegação, de detecção e de comunicações e equipamentos auxiliares de pesca e de segurança no mar:\n\n1.º ano - 8%;\n\n2.º ano - 6%;\n\n3.º ano - 4%;\n\n4.º ano - 3%;\n\n5.º ano - 2%;\n\nb) Para construção, aquisição, transformação e reconversão de embarcações de pesca:\n\n1.º ano - 10%;\n\n2.º ano - 8%;\n\n3.º ano - 6%;\n\n4.º ano - 4%;\n\n5.º ano e seguintes - 3%;\n\nc) Para a aquisição de artes e apetrechos de pesca:\n\n1.º ano - 6%;\n\n2.º ano - 4%.",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "1 - Os interessados na obtenção dos auxílios previstos neste diploma apresentarão às instituições de crédito que actuam na Região os projectos de investimento, elaborados em conformidade com as orientações destas, dos quais deverá, obrigatoriamente, constar o seguinte:\n\na) Descrição técnica completa do projecto, com indicações detalhadas do respectivo custo;\n\nb) Demonstração da viabilidade económica e financeira, com base no pescado descarregado ou a descarregar em portos da Região;\n\nc) Elementos demonstrativos da idoneidade do interessado.\n\n2 - As instituições de crédito procederão à análise e avaliação do projecto e remetê-lo-ão à Secretaria Regional da Economia, acompanhado de parecer que caracterize a operação de crédito aprovada.\n\n3 - No prazo de 45 dias a contar da recepção do projecto, o Secretário Regional da Economia decidirá da atribuição dos auxílios previstos neste diploma, sendo respeitadas as orientações consagradas para o sector das pescas e respectivos limites orçamentais.",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "Os auxílios financeiros revistos neste diploma não serão comutativos com quaisquer outros, com excepção dos previstos nos programas de reestruturação e modernização da frota de pesca da Região aprovados no âmbito da política de estruturas da pesca da Comunidade Económica Europeia.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DRR 9/87/M, art. 1.º: nova redação do n.º 3 do art. 4.º (resto '...' mantido), do art. 5.º (todo), dos n.os 2 e 3 do art. 6.º e do art. 11.º.",
+    "DRR 9/87/M, art. 2.º: revogação do art. 10.º — já revogado no texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

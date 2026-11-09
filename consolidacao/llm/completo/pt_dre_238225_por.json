@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:238225:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º: o quadro do pessoal de direcção e chefia passa a ter a constituição do quadro anexo, que só vem em imagem; art. 2.º extingue lugares, alteração que não é textual.",
+  "instrucoes": [
+    "Art. 1.º: novo quadro anexo — não aplicado (só em imagem).",
+    "Art. 2.º: extinção de lugares — não textual, sem artigo a alterar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

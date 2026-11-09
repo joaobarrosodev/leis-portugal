@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:619295:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Nenhuma instrução textual aplicável: as Portarias 1142/90 e 906/93 e o DL 57/2015 mudam a denominação dos Institutos e dizem que as autorizações se consideram feitas em nome da nova denominação, sem dar nova redacção a nenhum artigo (alteração não textual); as Portarias 993/93, 2/98, 1052/99, 148/2002 e 882/2003 substituem os planos de estudos do anexo (artigo 6.º), que só vêm em imagem no documento original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1142/90): ISCD de Lisboa passa a denominar-se ISCS; alteração de denominação não textual, não aplicada.",
+    "Alterador 2 (Portaria 906/93): ISCS passa a ISCS-Sul e ISCD do Porto a ISCS-Norte; não textual, não aplicada.",
+    "Alterador 3 (Portaria 993/93): novos planos de estudos de Medicina Dentária (ISCS-Sul) substituindo o anexo; quadros só em imagem, não aplicado.",
+    "Alterador 4 (Portaria 2/98): novo plano de estudos de Medicina Dentária (ISCS-Norte); quadros só em imagem, não aplicado.",
+    "Alterador 5 (Portaria 1052/99): novo plano de estudos (ISCS-Norte) e número máximo de alunos em disposição própria; quadros só em imagem, nada a aplicar no articulado.",
+    "Alterador 6 (Portaria 148/2002): novo plano de estudos (ISCS-Sul); quadros só em imagem, não aplicado.",
+    "Alterador 7 (Portaria 882/2003): novo plano de estudos (ISCS-Norte); quadros só em imagem, não aplicado.",
+    "Alterador 8 (DL 57/2015): ISCS-Norte passa a instituto universitário com nova denominação; disposições autónomas, não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

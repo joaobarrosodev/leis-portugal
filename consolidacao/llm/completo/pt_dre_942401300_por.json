@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:942401300:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 298/2026/1: altera a Portaria 221/2017 (modelos da declaração periódica do IVA), outro diploma; só menciona a Lei 62/2025 no preâmbulo; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

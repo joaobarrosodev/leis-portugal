@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:582657:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O artigo único do Decreto-Lei n.º 47467 extingue em 31-12-1966 a delegação criada pelo artigo 3.º e transfere as suas atribuições para a Junta Geral do Distrito Autónomo de Angra do Heroísmo, sem dar nova redação nem revogar expressamente qualquer artigo; é alteração não textual, pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "DL 47467, artigo único: extinção da delegação do artigo 3.º e transferência de atribuições/saldos — alteração não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

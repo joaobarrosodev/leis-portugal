@@ -1,0 +1,212 @@
+{
+  "id": "pt:dre:170939:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 19887): nova redação dos arts. 3.º, 16.º, 17.º, 21.º e 31.º; superada pela revogação do alterador 2",
+    "Alterador 2 (Portaria n.º 351/71), art. 32.º: revoga as disposições do regulamento aprovado pela Portaria n.º 18475; todos os artigos 1.º a 33.º ficam (Revogado.)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "pt:dre:185295:por",
+  "artigos": [
+    {
+      "chave": "34.º",
+      "epigrafe": "",
+      "texto": "1. Os membros do júri têm direito à gratificação de 200$00 por cada dia de serviço prestado nos concursos, além das ajudas de custo e despesas de transporte a que haja lugar.\n\n2. O pagamento das importâncias devidas é feito pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante a apresentação da respectiva folha pelo presidente do júri.",
+      "alterador": 3
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "",
+      "texto": "1. Os conservadores e notários são substituídos nas suas faltas, licenças ou impedimentos pelos respectivos ajudantes.\n\n2. Nas conservatórias divididas em secções e nas secretarias notariais, os conservadores e notários substituir-se-ão entre si e só na falta de todos intervém o ajudante.\n\n3. Havendo mais de um ajudante na repartição, a substituição do conservador ou notário cabe ao mais graduado ou, sendo todos da mesma categoria, ao designado pelo director-geral.\n\n4. Na falta ou impedimento dos ajudantes o substituto é o outro conservador ou o notário da mesma localidade e, na sua falta, o chefe da secretaria da câmara municipal, enquanto outra pessoa idónea não for nomeada pelo director-geral.\n\n5. Se o impedimento for de longa duração, pode o lugar ser provido interinamente.\n\n6. Os conservadores dos Registos Centrais são substituídos pelos chefes d~ secção, segundo a ordem de antiguidade, e, na falta destes, pelo ajudante designado pelo director-geral.",
+      "alterador": 3
+    },
+    {
+      "chave": "79.º",
+      "epigrafe": "",
+      "texto": "1. Aos concursos para lugares de chefe de secção da Conservatória dos Registos Centrais são admitidos os ajudantes do respectivo quadro, licenciados em Direito, com mais de três anos de bom e efectivo serviço.\n\n2. Na falta de concorrentes nas condições previstas no número anterior, o lugar vago pode ser substituído por um lugar de primeiro-ajudante e este provido, independentemente de novo concurso, por qualquer requerente licenciado em Direito; o lugar posto a concurso é posteriormente provido pelo ajudante do mesmo quadro que primeiro satisfaça aos requisitos legais.\n\n3. Os conservadores e notários de 3.ª classe podem ser providos nos lugares de chefe de secção, independentemente de concurso, em comissão de serviço, por períodos renováveis de três anos.",
+      "alterador": 3
+    },
+    {
+      "chave": "80.º",
+      "epigrafe": "",
+      "texto": "1. Aos concursos para provimento de lugares de primeiro e segundo-ajudante são admitidos os ajudantes das categorias inferiores com mais de três anos de bom e efectivo serviço prestado em repartição da mesma espécie da do lugar vago.\n\n2. No provimento de lugares de primeiro-ajudante, os segundos-ajudantes têm preferência sobre os terceiros-ajudantes.\n\n3. No provimento de qualquer dos cargos a que se refere o n.º 1 deste artigo preferem, de entre os ajudantes da mesma categoria, em primeiro lugar os que pertençam ao quadro em que a vaga se verifique e em segundo lugar os que tenham maiores habilitações literárias.\n\n4. Na falta de concorrentes nas condições previstas no n.º 1 deste artigo, o lugar vago pode ser substituído por um lugar de terceiro-ajudante e este provido, independentemente de novo concurso, em qualquer requerente que preencha os requisitos legais; o lugar posto a concurso é posteriormente provido no ajudante do mesmo quadro que primeiro satisfaça às condições exigidas.\n\n5. Aos concursos para provimento de lugares de terceiro-ajudante são admitidos os ajudantes de repartições de classe inferior e da mesma espécie do lugar vago e os escriturários com mais de três anos de bom e efectivo serviço prestado em repartição da mesma espécie, preferindo os escriturários de 1.ª classe aos escriturários de 2.ª classe.\n\n6. Na falta de concorrentes com os requisitos exigidos no número anterior, são admitidos os indivíduos habilitados com o 2.º ciclo do liceu ou curso equivalente, que tenham boa caligrafia e saibam escrever correntemente à máquina, e, na falta destes, quaisquer indivíduos que satisfaçam aos requisitos legais para provimento em lugares de escriturário de 2.ª classe.",
+      "alterador": 3
+    },
+    {
+      "chave": "86.º",
+      "epigrafe": "",
+      "texto": "1. Nas conservatórias ou cartórios de Lisboa e Porto o lugar mais graduado de ajudante pode ser desempenhado por um conservador ou notário de 3.ª classe ou por um licenciado ou bacharel em Direito, habilitado com o concurso para conservador ou notário.\n\n2. Os ajudantes nas condições do número anterior desempenham as funções de adjunto do conservador ou notário a que ficam subordinados e, nessa qualidade, têm competência para praticar todos os actos de registo ou notariado.\n\n3. A colocação feita nos termos deste artigo considera-se em comissão e o tempo de serviço nela prestado vale, para todos os efeitos, como exercício efectivo do cargo de conservador ou notário.\n\n4. É aplicável à competência dos chefes de secção da Conservatória dos Registos Centrais o disposto no n.º 2 deste artigo.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 (Portaria n.º 19689) e 2 (Portaria n.º 19924): alteram os quadros do pessoal auxiliar do mapa VI anexo, que só existe em imagem (ver documento original); não há texto de artigo a mudar.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 19689): aumenta quadros do pessoal auxiliar (mapa VI, ao abrigo do n.º 3 do art. 63.º); não textual, não aplicada.",
+    "Alterador 2 (Portaria n.º 19924): substitui lugares de terceiro-ajudante por segundo-ajudante nos quadros (mapa VI); não textual, não aplicada.",
+    "Alterador 3, art. 1.º: altera o art. 20.º do Decreto n.º 40740 (outro diploma); ignorada.",
+    "Alterador 3, art. 2.º: nova redação do art. 34.º (n.º 1 muda 100$00 para 200$00; n.º 2 mantido).",
+    "Alterador 3, art. 2.º: art. 47.º mantém n.os 1 a 5 e adita n.º 6.",
+    "Alterador 3, art. 2.º: nova redação integral do art. 79.º (n.os 1 a 3).",
+    "Alterador 3, art. 2.º: nova redação integral do art. 80.º (n.os 1 a 6).",
+    "Alterador 3, art. 2.º: art. 86.º mantém n.os 1 a 3 e adita n.º 4.",
+    "Alterador 3, arts. 3.º e 4.º: normas autónomas, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

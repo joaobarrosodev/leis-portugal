@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:315161:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Regras de transição",
+      "texto": "1 - O pessoal que à data da entrada em vigor do presente diploma se encontre integrado na carreira de ajudante de creche e jardim-de-infância dos quadros de pessoal dos estabelecimentos de educação dependentes da Secretaria Regional de Educação transita para a carreira de ajudante de acção sócio-educativa, na respectiva categoria de ingresso, em escalão a que corresponda, na estrutura da categoria, índice remuneratório igual ou, se não houver coincidência, o índice remuneratório imediatamente superior.\n\n2 - O pessoal que à data da entrada em vigor do presente diploma se encontre integrado nas carreiras de ajudante de ocupação, ajudante de lar e centro de dia e vigilante do quadro de pessoal do Centro de Segurança Social da Madeira transita, respectivamente, para a carreira de ajudante de ocupação, ajudante de acção directa e ajudante de acção de apoio e vigilância, nos termos do número anterior.\n\n3 - O pessoal que à data da entrada em vigor do presente diploma se encontre integrado nas carreiras de ajudante domiciliário e ajudante familiar do quadro de pessoal do Centro de Segurança Social da Madeira transita para a carreira de ajudante de acção familiar, nos termos do n.º 1.\n\n4 - A transição a que se refere o número anterior será feita de acordo com as seguintes regras:\n\na) De imediato, desde que habilitados com o 9.º ano de escolaridade ou equivalente e antiguidade igual ou superior a um ano na carreira, ou desde que, não cumprindo o requisito da habilitação, tenham antiguidade igual ou superior a três anos na carreira;\n\nb) À medida que perfizerem um ano de antiguidade na carreira, desde que habilitados com o 9.º ano de escolaridade ou equivalente;\n\nc) À medida que perfizerem três anos de antiguidade na carreira, nos restantes casos.\n\n5 - O tempo de serviço prestado nas actuais carreiras conta para efeitos de promoção e de antiguidade na carreira para que se operar a transição.\n\n6 - Nos casos em que da aplicação dos n.os 1, 2 e 3 deste artigo resulte um impulso salarial igual ou inferior a 10 pontos, releva para efeitos de progressão o tempo de permanência no índice de origem.",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Produção de efeitos",
+      "texto": "O presente diploma produz efeitos remuneratórios reportados a 1 de Novembro de 1999, no que respeita à transição prevista na alínea a) do n.º 4 do artigo 5.º, e à data em que ficar preenchido o requisito da antiguidade, no que respeita à transição estabelecida nas alíneas b) e c) do mesmo número e artigo.\n\nAprovado em sessão plenária da Assembleia Legislativa Regional em 20 de Junho de 2000.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 17 de Julho de 2000.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DLR 19/2001/M art. 1.º: nova redação do n.º 4 do art. 5.º (alíneas a) a c)); antigo n.º 5 desaparece; antigos n.os 6 e 7 passam a 5 e 6 — aplicado.",
+    "DLR 19/2001/M art. 1.º: nova redação do art. 11.º — aplicado (mantidas as fórmulas finais do texto atual).",
+    "DLR 19/2001/M art. 2.º: entrada em vigor, sem alteração textual.",
+    "DL 121/2008: sem artigos fornecidos, nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

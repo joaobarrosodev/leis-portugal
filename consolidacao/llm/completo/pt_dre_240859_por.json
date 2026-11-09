@@ -1,0 +1,51 @@
+{
+  "id": "pt:dre:240859:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto-Lei 439/79 art. 1.º: nova redação do art. 4.º (depois substituída pelo Decreto-Lei 68/83).",
+    "Decreto-Lei 68/83 artigo único: novas redações dos arts. 1.º, 2.º (só dois números) e 4.º (depois revogados).",
+    "Decreto-Lei 227/83 art. 49.º n.º 1: revoga o Decreto-Lei 353-O/77 por inteiro; todos os artigos (1.º a 6.º) ficam \"(Revogado.)\". O art. 51.º é norma transitória, não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

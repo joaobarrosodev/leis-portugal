@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:291607:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1. A direcção é constituída por um presidente e quatro directores.\n\n2. O presidente da direcção e os directores são escolhidos por decisão conjunta do Ministro da Economia e do Secretário de Estado do Comércio.\n\n3. O presidente da direcção será substituído, nas suas faltas ou impedimentos, pelo director designado pelo Secretário de Estado do Comércio, mediante proposta do presidente da direcção.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 (DL 369/74): regime cerealífero próprio; o art. 26.º, n.º 2, extingue taxas mas não altera o texto do original — nada aplicado",
+    "Alt.2 (DL 195/75) artigo único: nova redação do n.º 1 do artigo 5.º (quatro directores); n.os 2 e 3 mantidos — aplicado",
+    "Alt.3 (DL 131/76): altera o quadro de pessoal do INE (DL 427/73), não o original — ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:388054:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "A Direcção Regional de Turismo é integrada pelos seguintes serviços:\n\na) Direcção dos Serviços de Promoção, Relações Públicas, Publicidade e Propaganda;\n\nb) Direcção dos Serviços de Animação e Ocupação de Tempos Livres;\n\nc) Direcção dos Serviços de Empresas e Actividades Turísticas, de Património, Estudos, Planeamento, Inspecção e de Utilidade Turística;\n\nd) Direcção dos Serviços de Formação Profissional;\n\ne) Repartição Administrativa.",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - As Direcções de Serviços de Promoção, Relações Públicas, Publicidade e Propaganda e a de Animação e Ocupação de Tempos Livres são integradas, respectivamente, pela Divisão de Marketing, Relações Públicas, Promoção, Publicidade e Propaganda e pela Divisão de Animação e Ocupação de Tempos Livres.\n\n2 - As divisões acima mencionadas compreendem ainda os serviços que se vierem a revelar necessários ao cabal desempenho das actividades da Direcção Regional de Turismo.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "DRR 9/81/M, art. 2.º: altera a rubrica «A) Pessoal dirigente» do quadro de pessoal a que se refere o n.º 2 do artigo 26.º, quadro que só vem em imagem; não aplicada.",
+  "instrucoes": [
+    "DRR 9/81/M, art. 1.º: nova redação do artigo 2.º; aplicada.",
+    "DRR 9/81/M, art. 1.º: nova redação do artigo 3.º; aplicada.",
+    "DRR 9/81/M, art. 2.º: altera o quadro de pessoal anexo (só em imagem); não aplicada.",
+    "DRR 9/81/M, art. 3.º: entrada em vigor do próprio diploma; não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

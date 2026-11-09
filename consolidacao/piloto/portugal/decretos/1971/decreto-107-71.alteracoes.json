@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1. É autorizada a firma Mattel, Inc. (Portugal), Lda., a estabelecer um depósito franco nas suas instalações fabris, situadas no lugar de Pedrógão, concelho das Caldas da Rainha.\n\n2. As instalações referidas no n.º1 deste artigo serão exteriormente resguardadas por uma vedação, de conformidade com o artigo 144.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965.\n\n3. Neste depósito franco a empresa propõe-se fabricar brinquedos, partes e peças separadas dos mesmos, moldes para a sua confecção e artefactos destinados a recreio educativo.",
+    "depois": "###### Artigo 1.º\n\n1. É autorizada a firma Mattel, Inc. (Portugal), Lda., a estabelecer um depósito franco nas suas instalações fabris, situadas no lugar de Pedrógão, concelho das Caldas da Rainha.\n\n2. As instalações referidas no n.º1 deste artigo serão exteriormente resguardadas por uma vedação, de conformidade com o artigo 144.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965.\n\n3. Neste depósito franco a empresa propõe-se fabricar brinquedos, partes e peças separadas dos mesmos, moldes para a sua confecção, artefactos destinados a recreio educativo e cassetes e respectivas partes constituintes.\n\n> Alterado pelo/a [Decreto n.º 405/72](https://diariodarepublica.pt/dr/detalhe/decreto/405-1972-690050), publicado em 1972-10-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:445881:por",
+    "alterador": "pt:dre:690050:por"
+  }
+]

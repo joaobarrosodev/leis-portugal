@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:581377:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DLR 18-A/98/A art. 1.º e DLR 1/99/A art. 1.º alteram os mapas I a V, que só vêm em imagem; DLR 1/99/A art. 2.º eleva para 17 milhões de contos o limite da alínea b) do art. 4.º sem dar nova redação (alteração não textual).",
+  "instrucoes": [
+    "DLR 18-A/98/A: altera mapas I a V (só em imagem) - não aplicado.",
+    "DLR 1/99/A art. 1.º: altera mapa I (só em imagem) - não aplicado.",
+    "DLR 1/99/A art. 2.º: eleva limite da alínea b) do art. 4.º, sem redação nova - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

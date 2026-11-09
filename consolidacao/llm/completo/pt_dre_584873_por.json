@@ -1,0 +1,178 @@
+{
+  "id": "pt:dre:584873:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Natureza",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Estrutura e competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Grupos de pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Concursos pendentes",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Extinção de organismo e transição de pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Revogação",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Entrada em vigor e produção de efeitos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2, artigo 9.º: a revogação do Decreto Regulamentar Regional n.º 31/2005/M ressalva o quadro de pessoal anexo (só em imagem, fora dos artigos) e, transitoriamente, a 'estrutura de cargos de direcção intermédia dos 1.º e 2.º graus' até à sua regulamentação; essa ressalva temporária não tem tradução segura nos artigos e não foi aplicada ao texto (todos os artigos ficaram revogados).",
+  "instrucoes": [
+    "Alterador 1 art. 13.º: mantém o original em vigor até à nova orgânica da DRADR; não altera o texto.",
+    "Alterador 1, restantes artigos: orgânica da Secretaria Regional; não dirigidos ao original.",
+    "Alterador 2 art. 9.º: revoga o Decreto Regulamentar Regional n.º 31/2005/M, com excepção do quadro de pessoal anexo e da estrutura de cargos de direcção intermédia até à sua regulamentação; aplicada como revogação dos artigos 1.º a 27.º (ver nao_aplicavel).",
+    "Alterador 2, restantes artigos: orgânica da DRADR; não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:357556:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Os DL n.os 223/99 e 311/2001 alteram as bases II, IX, X, XIX e XXXII e aditam a base V-A do anexo ao DL n.º 422/88; as bases anexas não constam do texto atual por artigos, pelo que não há onde aplicar com segurança.",
+  "instrucoes": [
+    "DL 223/99, art. 1.º: nova redação da base XIX do anexo; não aplicado (anexo ausente).",
+    "DL 223/99, art. 2.º: revoga norma do DL 182/88 (outro diploma); ignorado.",
+    "DL 311/2001, art. 1.º: nova redação das bases II, IX, X, XIX e XXXII; não aplicado (anexo ausente).",
+    "DL 311/2001, art. 2.º: aditamento da base V-A; não aplicado (anexo ausente).",
+    "DL 311/2001, art. 3.º: autorização de adenda ao contrato, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

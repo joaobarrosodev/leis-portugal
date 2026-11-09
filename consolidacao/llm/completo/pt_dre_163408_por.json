@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:163408:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "O empréstimo será tomado integralmente pelo Banco Nacional Ultramarino, que porá à ordem da província o respectivo valor em escudos moçambicanos, a fim de serem aplicados em obras do II Plano de Fomento a realizar na referida província de Moçambique.",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "Nas datas fixadas nos artigos 5.º e 6.º, a província de Moçambique entregará ao Tesouro, em escudos moçambicanos, quantias iguais às despendidas por este para pagamento de juros e amortizações ao Banco Nacional Ultramarino, de acordo com o estabelecido nos mesmos artigos.\n\n§ único. Sempre que o julgar conveniente, pode a província antecipar as amortizações ao Tesouro.\n\nNeste caso, poderá também o Tesouro, se assim o entender, antecipar as amortizações a que se refere o artigo 6.º",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 45094: nova redação do artigo 2.º; aplicada.",
+    "DL 45094: nova redação do artigo 7.º e seu § único; aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:154850:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "É fixado em 2000$00 o ordenado mensal dos oficiais de diligências das administrações dos bairros.\n\n§ único. (Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 2.º: torna o art. 2.º aplicável aos oficiais de diligências das Câmaras - sem alteração textual",
+    "Alterador 2, art. 8.º: nova redação do § único do art. 2.º (corpo mantido) - aplicada, depois revogada",
+    "Alterador 3, art. 27.º, alínea d): revoga o § único do art. 2.º, na redação do Decreto-Lei n.º 56/74 - § único revogado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "2.º: parágrafo que não está no alterador nem no original: § único. (Revogado.)"
+  ]
+}

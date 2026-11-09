@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma cria a Escola Básica Integrada de Ponta Garça, no concelho de Vila Franca do Campo, doravante designada de EBI de Ponta Garça.\n\n2 - A EBI de Ponta Garça é a unidade orgânica do sistema educativo que assegura o funcionamento da educação pré-escolar e do ensino básico nas freguesias de Ponta Garça e Ribeira das Tainhas, ambas do concelho de Vila Franca do Campo.",
+    "depois": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma cria a Escola Básica Integrada de Ponta Garça, no concelho de Vila Franca do Campo, doravante designada de EBI de Ponta Garça.\n\n2 - A EBI de Ponta Garça é a unidade orgânica do sistema educativo que assegura o funcionamento da educação pré-escolar e do ensino básico na freguesia de Ponta Garça, do concelho de Vila Franca do Campo.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 20/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2011-671468), publicado em 2011-08-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:342859:por",
+    "alterador": "pt:dre:671468:por"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:261705:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Os limites da nova freguesia, conforme representação topográfica anexa, são:\n\nPartindo do norte para nascente, segue o chamado caminho da pedreira ou do areal, que do quilómetro 84,7 da estrada nacional n.º 234 segue virado ao rio Mondego; fica delimitada pelo mesmo caminho até à Barqueira, onde corta mais para nascente, ficando-lhe no cruzamento a propriedade dos herdeiros de Avelino Dias Pereira, conhecida por Pedra-Que-Bole; daqui segue o caminho vicinal que, passando pela chamada «Mata Cortada», pertencente a Maria Celestina Cardoso Pessoa, segue pelas poças ao ribeiro de São João e finalmente até ao rio Mondego;\n\nPartindo do norte para poente, ao quilómetro 84,7 da estrada nacional n.º 254, segue pelo caminho da Escola, ultrapassando a linha férrea da Beira Alta, até ao ribeiro da CUF, nas propriedades rústicas As Janeiras; segue a linha de água formada pelo citado ribeiro até à confluência com o ribeiro do Pai Moiro; daí segue mais para poente o caminho vicinal até ao ribeiro das Fontes, numa linha que limita as propriedades dos herdeiros de Avelino Homem Ribeiro e José Miranda Pinheiro (à ribeira); o limite sul da nova freguesia é o do concelho de Nelas.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único da Lei 30/89: nova redação integral do artigo 2.º; substituído o corpo inteiro."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

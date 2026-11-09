@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:535400:por",
+  "artigos": [
+    {
+      "chave": "ANEXO B — Critérios para a apreciação da proposta de criação de novas infra-estruturas de apoio à indústria::12.º",
+      "epigrafe": "Concretização do projecto",
+      "texto": "1 - Só deverão ser apoiados projectos cuja concretização se verifique até 30 de Setembro de 2000.\n\n2 - Para efeitos administrativos, a concretização do projecto traduzir-se-á na data do último pagamento efectuado pelo beneficiário ou beneficiários no contrato.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 dá nova redação aos n.os 1.º e 4.º do anexo C do Regulamento (Condições específicas de acesso do promotor; Aplicações relevantes), mas o anexo C não consta do texto atual e os novos n.os 1 remetem para '(Redacção do anterior n.º 1.º/4.º)', que não está disponível; não aplicado.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2 do artigo 9.º do Regulamento (n.º 1 mantido) — o texto atual já tem essa redação; sem mudança.",
+    "Alterador 2: nova redação do artigo 12.º (n.º 1 passa a 30 de Setembro de 2000; n.º 2 mantido) — aplicado.",
+    "Alterador 2: nova redação dos n.os 1.º e 4.º do anexo C — anexo C ausente do texto atual; não aplicado (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

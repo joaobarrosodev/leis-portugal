@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nA amortização dos empréstimos concedidos ao abrigo da [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946, e legislação complementar e destinados a arborizações florestais ou frutícolas terá início quando o arvoredo entrar em exploração.\n\n§ 1.º O capital do empréstimo vencerá juros a partir do ano imediatamente anterior ao início de amortização.\n\n§ 2.º A importância a amortizar, capital e juros, poderá ser dividida em fracções, até três, fixando-se para essas fracções períodos de amortização, no total máximo de 30 anos, e dividindo-se a importância a pagar em cada período em prestações anuais e iguais.",
+    "depois": "###### Artigo 1.º\n\nA amortização dos empréstimos concedidos ao abrigo da [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946, e legislação complementar e destinados a arborizações florestais ou frutícolas terá início quando o arvoredo entrar em exploração.\n\n§ 1.º O capital do empréstimo vencerá juros a partir do ano seguinte ao da plantação, contando-se como ano completo o tempo que decorre desde a data da plantação até ao começo do ano seguinte.\n\n§ 2.º A importância a amortizar, capital e juros, poderá ser dividida em fracções, até três, fixando-se para essas fracções períodos de amortização, no total máximo de 30 anos, e dividindo-se a importância a pagar em cada período em prestações anuais e iguais.\n\n> Alterado pelo/a [Decreto-Lei n.º 49294](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49294-1969-215933), publicado em 1969-10-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:683780:por",
+    "alterador": "pt:dre:215933:por"
+  }
+]

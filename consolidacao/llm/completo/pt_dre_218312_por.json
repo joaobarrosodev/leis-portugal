@@ -1,0 +1,95 @@
+{
+  "id": "pt:dre:218312:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º-A",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º-A",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [
+    "12.º"
+  ],
+  "nao_aplicavel": "O texto atual repete as chaves 1.º a 3.º para o decreto e para a orgânica anexa; como o alterador 3 revoga o diploma por inteiro, cada chave 1.º a 11.º fica (Revogado.) para ambos. O quadro de pessoal (anexos em imagem) não foi tratado.",
+  "instrucoes": [
+    "Alt. 1 (DRR 3/2006/M): nova redação dos arts. 1.º, 2.º, 3.º, 4.º e 9.º da orgânica, aditados 5.º-A e 6.º-A, revogado o art. 10.º e os arts. 11.º e 12.º passam a 10.º e 11.º (12.º sai); tudo superado pela revogação do alterador 3",
+    "Alt. 2 (DRR 1/2007/M): nova redação do art. 4.º da orgânica; superada pela revogação",
+    "Alt. 3 (DRR 23/2008/M), art. 2.º n.º 1: revoga o DRR 8/2004/M; todos os artigos ficam (Revogado.)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

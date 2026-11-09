@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:514836:por",
+  "artigos": [
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "A direcção da Federação será composta por um presidente, dois vice-presidentes e três vogais, desempenhando um deles a função de tesoureiro e o outro a de secretário.\n\n§ 1.º O presidente e os vice-presidentes, que o coadjuvam e o substituem na sua falta e impedimentos, são de livre nomeação do Ministro das Corporações e Previdência Social.\n\n§ 2.º Os vogais são eleitos pelo conselho geral da Federação de entre os presidentes ou vogais das direcções das caixas federadas.\n\n§ 3.º O tesoureiro não poderá ter em caixa quantia superior a 10000$00.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redacção do artigo 16.º (dois vice-presidentes); aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

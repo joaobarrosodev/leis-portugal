@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:523182:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - Os directores dos estabelecimentos integrados na Direcção Regional da Segurança Social seguidamente enumerados são, para todos os efeitos legais, equiparados a:\n\na) Director de serviços, os directores de estabelecimentos com capacidade superior a 250 utentes e com autonomia administrativa ou financeira;\n\nb) Chefe de divisão, os directores de estabelecimentos com capacidade compreendida entre 150 a 250 utentes.\n\n2 - O disposto na alínea a) do número anterior aplica-se ao Director do Centro Polivalente do Funchal.\n\n3 - O Director do Lar Bela Vista no exercício das suas competências será coadjuvado por dois subdirectores, os quais serão remunerados pelo vencimento correspondente à categoria de técnico superior principal, escalão 1.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação do art. 1.º, n.º 1, alínea b); o texto citado («150 a 250 contas») difere ligeiramente do atual («150 e 250 contos»), mas o alvo é único; substituído pelo texto retificado «compreendida entre 150 a 250 utentes»."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "1.º: parágrafo que não está no alterador nem no original: b) Chefe de divisão, os directores de estabelecimentos com capacidade compreendi"
+  ]
+}

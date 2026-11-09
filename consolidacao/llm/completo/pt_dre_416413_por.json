@@ -1,0 +1,48 @@
+{
+  "id": "pt:dre:416413:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Constituem receita da Empresa Pública de Abastecimento de Cereais - EPAC:\n\na) A importância resultante da cobrança da taxa, a fixar por despacho conjunto dos Secretários de Estado do Orçamento, do Comércio Interno e do Comércio e Indústrias Agrícolas, incidente sobre cada tonelada de arroz de produção nacional adquirido pelos industriais descascadores à lavoura ou à Empresa Pública de Abastecimento de Cereais - EPAC;\n\nb) A importância resultante da cobrança da taxa, fixada nos termos da alínea anterior, incidente sobre cada tonelada de arroz estrangeiro, que aquele organismo fará acrescer aos custos de importação, para efeito da cobertura das despesas realizadas com a prestação dos respectivos serviços de compra.",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Por portaria dos Ministros das Finanças e do Plano, da Agricultura e Pescas e do Comércio e Turismo poderão ser fixados ou modificados em cada campanha, sempre que se considere conveniente, os diferenciais de compensação de preços a pagar ou a receber pelos industriais descascadores por tonelada de arroz em casca da produção nacional por eles adquirido à lavoura ou à Empresa Pública de Abastecimento de Cereais - EPAC.",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1. Sempre que as condições de produção de arroz nacional o aconselhem, poderão ser estabelecidas no continente bonificações regionais e regulada a forma do seu pagamento, por despacho conjunto dos Secretários de Estado do Orçamento, do Comércio Interno e do Comércio e Indústrias Agrícolas.\n\n2 - A importância correspondente à distribuição do encargo decorrente do pagamento da bonificação, referida no número anterior, pela totalidade do arroz em casca da produção nacional a liquidar à Empresa Pública de Abastecimento de Cereais - EPAC pelos industriais descascadores será fixada por despacho conjunto dos Secretários de Estado ali indicados.\n\n3 - A eventual diferença entre as quantias despendidas e arrecadadas pela Empresa Pública de Abastecimento de Cereais - EPAC na operação a que se refere este preceito constitui encargo ou receita do Fundo de Abastecimento.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "Constituem encargo ou receita do Fundo de Abastecimento:\n\na) As diferenças entre os custos de importação do arroz adquirido pela Empresa Pública de Abastecimento de Cereais - EPAC, acrescidos da taxa cobrada por cada tonelada, nos termos do disposto na alínea b) do artigo 1.º, e os preços de venda.\n\nb) O saldo dos diferenciais de compensação de preços a que se refere o artigo 2.º;\n\nc) As bonificações referidas nos artigos 3.º e 4.º",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "1. Por despacho dos Secretários de Estado do Orçamento, do Comércio Interno e do Comércio e Indústrias Agrícolas serão fixadas as bonificações a conceder por tonelada de arroz existente na posse dos fabricantes e empacotadores, à data da publicação da portaria que, ao abrigo do disposto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 609-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/609-a-1975-666720), de 8 de Novembro, estabeleça os preços do arroz branqueado para a presente campanha, constituindo as mesmas encargo do Fundo de Abastecimento.\n\n2 - As referidas entidades declararão à Empresa Pública de Abastecimento de Cereais - EPAC, até dez dias após a publicação da portaria mencionada no número anterior, as suas existências na mesma data.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 85/80, art. 1.º: nova redação do artigo 1.º (receita da EPAC; taxas nas alíneas a) e b)) - aplicada por inteiro.",
+    "DL 85/80, art. 1.º: nova redação do artigo 2.º - aplicada por inteiro.",
+    "DL 85/80, art. 1.º: nova redação dos n.os 2 e 3 do artigo 4.º; n.º 1 ('...') fica com o texto atual - aplicada.",
+    "DL 85/80, art. 1.º: nova redação da alínea a) do artigo 5.º - aplicada só à alínea a), como diz a instrução; o corpo transcrito no alterador ('Constituem encargos ou receita') não está abrangido pela instrução e ficou com o texto atual; alíneas b) e c) mantidas.",
+    "DL 85/80, art. 1.º: nova redação do n.º 2 do artigo 6.º; n.º 1 ('...') fica com o texto atual - aplicada.",
+    "Portaria 188/85: só revoga a Portaria 163/84 e invoca o art. 5.º como habilitação; nenhuma instrução dirigida ao texto do original - nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

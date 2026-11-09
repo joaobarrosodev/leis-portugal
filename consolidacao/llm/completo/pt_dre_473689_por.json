@@ -1,0 +1,80 @@
+{
+  "id": "pt:dre:473689:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - Na área da Reserva Natural Parcial do Paul do Boquilobo ficam definidas as seguintes zonas, com utilização específica, de acordo com o mapa anexo ao presente diploma:\n\na) Zona de protecção integral:\n\nNorte: o caminho dos Canteiros, entre o rio Almonda e a vala Real; a vala da Mota Travessa, entre a vala Real e a vala do Golfal.\n\nLeste: o caminho que parte, para sul, da confluência da vala da Mota Travessa com a vala do Golfal, cruza a vala da Pereira até ao ponto em que se junta à vala do Valadão; a vala do Valadão, desde o ponto atrás referido para jusante, até à confluência com a vala Real, local denominado «Portas Velhas»; a vala da Sangria, desde o local denominado «Portas Velhas» até à sua confluência no rio Almonda.\n\nSul: o curso do rio Almonda, para montante, desde a confluência da vala da Sangria até ao local denominado «Porto Miranda»; o caminho que parte deste ponto em direcção às casas da Quinta do Miranda, até ao ponto em que, do seu lado norte, a terra começa a ser agricultada.\n\nOeste: o limite da área agricultada, para norte, até a intercepção com o caminho de ferro; o caminho de ferro, para norte, até ao cruzamento com um caminho sem nome que separa a área alagada das terras de cultura; este caminho entre o caminho de ferro e o rio Almonda; o curso do rio Almonda, para montante, até ao caminho dos Canteiros.\n\nb) Zona de uso extensivo, tendo como limites exteriores os descritos no artigo 2.º\n\n2 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DR 49/97), artigo 18.º: revoga o DL 198/80 com exceção do n.º 1 do artigo 3.º e do artigo 4.º (a ressalva 'em tudo quanto não contrarie' refere-se às normas mantidas); artigos 1.º, 2.º e 5.º a 12.º revogados, n.º 2 do artigo 3.º revogado, n.º 1 do artigo 3.º e artigo 4.º mantidos.",
+    "Alterador 1, artigos 1.º e 2.º (reclassificação e novos limites nos anexos do próprio DR 49/97) e artigo 15.º, n.º 2 (aplicação transitória do zonamento): normas autónomas, não alteram o texto do original; sem alteração além da revogação do artigo 18.º."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

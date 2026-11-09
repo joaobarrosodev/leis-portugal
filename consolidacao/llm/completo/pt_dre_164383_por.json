@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:164383:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigo único: nova redação do Quadro II anexo ao Regulamento, que só vem em imagem (ver documento original); não aplicada. O aviso junta ainda o Regulamento 'com a introdução da 2.ª alteração', cujos artigos 4.º e 26.º diferem do texto atual e que adota a grafia nova em vários artigos, mas não há instrução de alteração desses artigos (a diferença parece vir de alteração anterior que não consta do pedido), pelo que não se aplicou.",
+  "instrucoes": [
+    "Alterador 1, artigo único: substituição do Quadro II (imagem); não aplicada.",
+    "Alterador 1, texto do Regulamento com a 2.ª alteração: republicação sem instrução sobre artigos; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

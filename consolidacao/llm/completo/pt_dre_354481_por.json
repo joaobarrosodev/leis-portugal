@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:354481:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1 - O Estado, representado pelo membro do Governo que exerça a tutela do Instituto Português do Património Cultural, e a Câmara Municipal de Lisboa, nos termos dos artigos 27.º e 28.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e pela ordem indicada, gozam do direito de preferência nas transmissões a título oneroso entre particulares de imóveis situados na zona prevista no artigo 1.º e delimitada na planta anexa.\n\n2 - Este direito é concedido pelo prazo de dois anos a contar da data da entrada em vigor do presente diploma.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º: a nova delimitação da área crítica consta de planta anexa que só vem em imagem; o texto do artigo 1.º não é alterado.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova delimitação da área por planta (imagem) - não aplicada ao texto.",
+    "Alterador 1, art. 2.º: nova redação do artigo 4.º - aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

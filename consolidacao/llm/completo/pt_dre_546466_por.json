@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:546466:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Os prazos de remição do [Decreto Legislativo Regional n.º 17/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1983-444431), de 21 de Dezembro, passam a ser os seguintes:\n\na) Até 30 de Abril de 1987 e até 30 de Abril de 1990, os contemplados na alínea a) do artigo 1.º, respectivamente;\n\nb) Até 30 de Abril de 1992, o contemplado na alínea b) do artigo 1.º",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: novos prazos de remição previstos no original, que correspondem às alíneas a) e b) do art. 1.º; alíneas substituídas, corpo mantido.",
+    "Alterador 1, art. 2.º: revogação genérica de legislação em contrário; não aplicada ao texto.",
+    "Alterador 1, art. 3.º: entrada em vigor; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

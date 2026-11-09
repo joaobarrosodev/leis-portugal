@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:283926:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Retificação ao art. 1.º, alínea o) («freguesia de Nossa Senhora de Belém» passa a «freguesia de Santa Maria de Belém»): a expressão ocorre duas vezes na alínea o) do texto atual, alvo ambíguo; não aplicada.",
+  "instrucoes": [
+    "Retificações às alíneas a), e), f), h), n), v) e y) do art. 1.º: o texto atual já tem a redação retificada; sem mudança.",
+    "Retificação à alínea o) do art. 1.º: alvo ambíguo (duas ocorrências), não aplicada.",
+    "Retificação ao art. 5.º (376/74): já consta; sem mudança."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

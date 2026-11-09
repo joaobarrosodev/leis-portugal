@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:667350:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 197/2012), art. 11.º: nova redação do n.º 1 do artigo 5.º do Regime Especial de Exigibilidade do IVA nas Entregas de Bens às Cooperativas Agrícolas, anexo ao original; Alterador 2 (DL 71/2013), art. 7.º, al. c): revoga esse Regime. O Regime anexo não consta do texto atual como artigos com chave (só vem como texto após as assinaturas, sem chaves «Anexo…::N.º»), pelo que não se pode aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1, art. 11.º: nova redação do art. 5.º, n.º 1, do Regime anexo («'Exigibilidade de caixa'») — anexo sem chaves no texto atual, não aplicado.",
+    "Alterador 1, restantes artigos: alteram o Código do IVA e outros diplomas — ignorados.",
+    "Alterador 2, art. 7.º, al. c): revogação do Regime anexo ao original — anexo sem chaves no texto atual, não aplicado.",
+    "Alterador 2, restantes artigos: aprovam o regime de IVA de caixa e alteram outros diplomas — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

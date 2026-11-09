@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:498135:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 388/97) substitui o plano de estudos anexo, que só vem em imagem; alterador 2 (Portaria n.º 572/97) muda a designação do curso para Gestão de Empresas sem dar nova redação a qualquer artigo; alterador 3 (Portaria n.º 978/99) determina a caducidade da autorização de funcionamento do bacharelato; alterações não textuais.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: novo plano de estudos (anexo em imagem); não aplicado",
+    "Alterador 2, único: curso passa a designar-se Gestão de Empresas; sem redação de artigo, não aplicado",
+    "Alterador 3, n.º 3.º: caducidade da autorização do bacharelato; não textual, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

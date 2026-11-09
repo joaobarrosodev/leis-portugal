@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:383214:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Portaria 609/82, n.º 1.º: altera o mapa anexo (quadro do pessoal) de acordo com novo mapa que só vem em imagem (ver documento original); não aplicada.",
+  "instrucoes": [
+    "Portaria 609/82, n.º 1.º: alteração do mapa anexo do quadro de pessoal; mapa só em imagem, não aplicada.",
+    "Portaria 609/82, n.os 2.º e 3.º: transição e efeitos da própria portaria; não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

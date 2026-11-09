@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:162795:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 (Portaria n.º 894-G/85) e 2 (Portaria n.º 733-L/86), 1.º e 2.º: novos preços das tabelas n.os 1, 2, 3, 20, 22 e 23 da Tarifa Geral, que só vêm em imagem (anexos, ver documento original); 3.º: os preços da tabela n.º 26 e de operações do anexo II passam a ser livremente aprovados pela CP, alteração que não é textual. Alterador 3 (Decreto-Lei n.º 124-A/2018) vem sem texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º e 2.º: tabelas de preços substituídas, só em imagem: não aplicável.",
+    "Alterador 1, 3.º: preços livremente aprovados pela CP: não textual, não aplicado.",
+    "Alterador 1, 4.º: entrada em vigor do alterador: não altera o original.",
+    "Alterador 2, 1.º a 4.º: idem ao alterador 1: não aplicável.",
+    "Alterador 3 (Decreto-Lei n.º 124-A/2018): sem artigos transcritos: nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

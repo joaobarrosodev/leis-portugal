@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:328601:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL 181/80 (extinção do Serviço Distrital de Acolhimento, novo objectivo, receitas e regime de instalação do Centro) e DL 6/85 (integração do Centro no CRSS de Lisboa) não contêm instruções textuais de alteração dos artigos do DL 301/78; são alterações de regime não textuais.",
+  "instrucoes": [
+    "DL 181/80: regime autónomo, sem nova redação de artigos do original — nada aplicado",
+    "DL 6/85: integração orgânica, sem nova redação de artigos — nada aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

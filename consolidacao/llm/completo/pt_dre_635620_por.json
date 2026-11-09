@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:635620:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 2.º: revoga os n.os 3 e 4 do mapa anexo ao Decreto n.º 333/71; o mapa só vem em imagem (ver documento original), não se pode aplicar ao texto. Art. 1.º (reversão ao domínio público) não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: reversão de terrenos ao domínio público marítimo — não textual, nada aplicado.",
+    "Alterador 1, art. 2.º: revogação dos n.os 3 e 4 do mapa anexo — mapa só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

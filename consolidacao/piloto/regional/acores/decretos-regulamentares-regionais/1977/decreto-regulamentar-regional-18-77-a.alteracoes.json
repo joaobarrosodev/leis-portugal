@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nA Secretaria Regional dos Transportes e Turismo tem as seguintes direcções regionais:\n\na) Direcção Regional dos Transportes Terrestres;\n\nb) Direcção Regional dos Transportes Marítimos e Aéreos;\n\nc) Direcção Regional de Turismo.",
+    "depois": "###### Artigo 1.º\n\nA Secretaria Regional dos Transportes e Turismo tem as seguintes Direcções Regionais:\n\na) Direcção Regional dos Transportes Terrestres;\n\nb) Direcção Regional de Portos e Transportes Marítimos;\n\nc) Direcção Regional dos Transportes Aéreos;\n\nd) Direcção Regional de Turismo.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1979-383380), publicado em 1979-03-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:139938:por",
+    "alterador": "pt:dre:383380:por"
+  }
+]

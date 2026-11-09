@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:234537:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "As funções de juiz militar, promotor de justiça e defensor oficioso dos tribunais militares territoriais serão exercidas por oficiais de qualquer arma ou serviço com o curso da Academia Militar ou extintas escolas suas antecessoras, no activo ou na reserva, de preferência habilitados com a licenciatura em Direito ou com prática dos serviços de justiça militar, de posto não inferior a major, no caso dos juizes militares, ou a capitão, nos restantes casos, nomeados pelo Ministro do Exército.\n\n§ 1.º Nas províncias ultramarinas poderá recorrer-se a militares de qualquer ramo das forças armadas, em comissão de serviço noutros Ministérios, autorizados pelo respectivo titular, mas, se assim mesmo não for possível nomear um oficial superior para o desempenho das funções de juiz militar, poderá o Ministro do Exército nomear para o cargo um capitão que preencha as condições expressas no corpo deste artigo.\n\n§ 2.º Excepcionalmente, a nomeação para o cargo de defensor oficioso dos tribunais militares territoriais poderá recair em oficial de patente inferior a capitão desde que habilitado com a licenciatura em Direito.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, artigo único: nova redação do art. 1.º (novo § 1.º sobre províncias ultramarinas; antigo § único passa a § 2.º); aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

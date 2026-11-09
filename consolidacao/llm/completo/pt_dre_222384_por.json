@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:222384:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "As importâncias arrecadadas por força do disposto nos n.os 3.º e 4.º do artigo 2.º, correspondentes às percentagens nele previstas e arredondadas, por excesso, para a dezena de centavos, serão devidas pelos clientes e pagas por meio de estampilhas fiscais, com a sobrecarga «Assistência», apostas nas facturas, recibos, contas ou bilhetes, devendo ser inutilizadas pelos donos, gerentes ou empregados dos estabelecimentos.\n\nEstes pagamentos poderão ser efectuados mediante a aprovação, pela Direcção-Geral da Assistência e a título de avença, de uma importância provisória, mensal ou trimestral, a qual deverá ser revista, no final do ano, de forma que os pagamentos totais correspondam efectivamente às taxas ou percentagens legais que forem devidas.\n\n§ 1.º O produto das avenças previstas neste artigo será depositado pelas entidades devedoras, por meio de guia, em triplicado, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Direcção-Geral da Assistência, na conta do Fundo de Socorro Social, nos primeiros vinte dias do período a que a avença respeitar, podendo ainda o pagamento fazer-se por vale de correio registado ou por cheque, pagáveis em Lisboa, à ordem daquela Direcção-Geral.\n\n§ 2.º Os estabelecimentos que arrecadem por meio de estampilhas fiscais as receitas previstas nos n.os 3.º e 4.º do artigo 2.º enviarão à Direcção-Geral da Assistência até ao dia 10 de cada mês uma nota, em duplicado, das importâncias pagas no mês anterior com destino ao Fundo de Socorro Social.",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "A aplicação do Fundo fica dependente de despacho do Ministro da Saúde e Assistência, sem submissão aos preceitos da contabilidade pública. O director-geral da Assistência outorgará em todos os actos e contratos necessários à administração do Fundo e poderá autorizar as correspondentes despesas que não excedam 10000$00.",
+      "alterador": 1
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "",
+      "texto": "Todas as entidades que, sendo obrigadas ao pagamento das taxas ou percentagens indicadas neste diploma, depositarem importâncias inferiores às devidas, prestarem declarações erradas ou de má fé cometerem omissões, incorrerão em multa igual ao quíntuplo da quantia que deixou de ser depositada.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, art. 1.º: nova redação do art. 14.º (limite de despesas 10000$00); aplicado.",
+    "Alt. 2, art. 1.º: segunda parte do art. 5.º substituída (1.º parágrafo e §§ 1.º e 2.º '...' mantidos); aplicado.",
+    "Alt. 2, art. 1.º: nova redação do art. 22.º; aplicado.",
+    "Alt. 2, art. 2.º: interpretação autêntica; sem alteração de texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:213062:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O art. 5.º do DL 467/73 extingue as categorias «segundo-cabo com mais de cinco anos» e «soldado com mais de cinco anos» e muda a designação das de menos de cinco anos, sem dar nova redação ao art. 2.º; alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Arts. 1.º a 4.º e 6.º a 9.º do DL 467/73: regime autónomo de diuturnidades e promoções; não alteram o texto do original",
+    "Art. 5.º: extinção e redesignação de categorias previstas no original; não textual, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

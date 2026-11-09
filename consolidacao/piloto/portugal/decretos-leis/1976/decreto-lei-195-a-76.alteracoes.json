@@ -1,16 +1,58 @@
 [
   {
-    "artigo": "3.º",
+    "artigo": "1.º",
     "operacao": "substituir",
     "regra": "llm",
-    "antes": "###### Artigo 3.º\n\n1. O pedido de indemnização será dirigido ao tribunal da comarca da situação do prédio, devendo o requerimento identificar o titular do domínio útil e ser instruído com a prova documental e a indicação de testemunhas que o requerente pretenda produzir e indicar, até ao número de cinco.\n\nO requerente terá de instruir o seu requerimento com certidão de todos os impostos e contribuições pagos ao Estado nos últimos cinco anos, com indicação das respectivas fontes.\n\n2. O Estado será citado para contestar no prazo de trinta dias. Com a contestação oferecerá a prova documental e o rol de testemunhas, que não podem exceder cinco. O titular do domínio útil será também citado para contestar, se quiser, pela mesma forma e termos.\n\n3. Na falta de contestação de ambos os citados será logo proferida sentença.\n\n4. Havendo contestação, o juiz designará dia para declarações aos titulares dos domínios directo e útil e inquirição das testemunhas. Concluída a diligência, proferirá sentença no prazo de dez dias.\n\n5. Não há recurso dos despachos. Da decisão final haverá recurso para a Relação, o qual abrangerá a matéria de facto e de direito.\n\n6. O processo é isento de imposto de justiça, selos e encargos, salvo os casos de litigência de má fé, a que se aplicará o respectivo regime.\n\n7. Não é obrigatória a constituição de advogado.",
-    "depois": "###### Artigo 3.º\n\n1. O pedido de indemnização será dirigido ao tribunal da comarca da situação do prédio, devendo o requerimento identificar o titular do domínio útil e ser instruído com a prova documental e a indicação de testemunhas que o requerente pretenda produzir e indicar, até ao número de cinco.\n\nO requerente terá de instruir o seu requerimento com certidão de todos os impostos e contribuições pagos ao Estado nos últimos cinco anos, com indicação das respectivas fontes.\n\n2. O Estado será citado para contestar no prazo de trinta dias. Com a contestação oferecerá a prova documental e o rol de testemunhas, que não podem exceder cinco. O titular do domínio útil será também citado para contestar, se quiser, pela mesma forma e termos.\n\n3. Na falta de contestação de ambos os citados será logo proferida sentença.\n\n4. Havendo contestação, o juiz designará dia para declarações aos titulares dos domínios directo e útil e inquirição das testemunhas. Concluída a diligência, proferirá sentença no prazo de dez dias.\n\n5. Não há recurso dos despachos. Da decisão final haverá recurso para a Relação, o qual abrangerá a matéria de facto e de direito.\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 546/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/546-1976-430445) e [Lei n.º 22/87](https://diariodarepublica.pt/dr/detalhe/lei/22-1987-419646) e [Lei n.º 108/97](https://diariodarepublica.pt/dr/detalhe/lei/108-1997-649160), publicado em 1997-09-16.",
+    "antes": "###### Artigo 1.º\n\n1. É abolida a enfiteuse a que se acham sujeitos os prédios rústicos, transferindo-se o domínio directo deles para o titular do domínio útil.\n\n2. Nos contratos de subenfiteuse de pretérito a propriedade plena radica-se no subenfiteuta.\n\n3. Serão oficiosamente efectuadas as correspondentes operações de registo.",
+    "depois": "###### Artigo 1.º\n\n1. É abolida a enfiteuse a que se acham sujeitos os prédios rústicos, transferindo-se o domínio directo deles para o titular do domínio útil.\n\n2. Nos contratos de subenfiteuse de pretérito a propriedade plena radica-se no subenfiteuta.\n\n3. Serão oficiosa e gratuitamente efectuadas as correspondentes operações de registo.\n\n4 - No caso de não haver registo anterior nem contrato escrito, o registo de enfiteuse poderá fazer-se com base em usucapião reconhecida mediante justificação notarial ou judicial.\n\n5 - Considera-se que a enfiteuse se constituiu por usucapião se:\n\na) Desde, pelo menos, 15 de Março de 1946 até à extinção da enfiteuse o prédio rústico, ou a sua parcela, foi cultivado por quem não era proprietário com a obrigação para o cultivador de pagamento de uma prestação anual ao senhorio;\n\nb) Tiverem sido feitas pelo cultivador ou seus antecessores no prédio ou sua parcela benfeitorias, mesmo que depois de 16 de Março de 1976, de valor igual ou superior a, pelo menos, metade do valor do prédio ou da parcela, considerados no estado de incultos e sem atender a eventual aptidão para urbanização ou outros fins não agrícolas.\n\n6 - Pode pedir o reconhecimento da constituição da enfiteuse por usucapião quem tenha sucedido ao cultivador inicial por morte ou por negócio entre vivos, mesmo que sem título, desde que as sucessões hajam sido acompanhadas das correspondentes transmissões da posse.\n\n> Alterado pelo/a [Lei n.º 108/97](https://diariodarepublica.pt/dr/detalhe/lei/108-1997-649160), publicado em 1997-09-16.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:415443:por",
-    "alterador": "pt:dre:430445:por;pt:dre:419646:por;pt:dre:649160:por"
+    "alterador": "pt:dre:649160:por;pt:dre:419646:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1. O pedido de indemnização será dirigido ao tribunal da comarca da situação do prédio, devendo o requerimento identificar o titular do domínio útil e ser instruído com a prova documental e a indicação de testemunhas que o requerente pretenda produzir e indicar, até ao número de cinco.\n\nO requerente terá de instruir o seu requerimento com certidão de todos os impostos e contribuições pagos ao Estado nos últimos cinco anos, com indicação das respectivas fontes.\n\n2. O Estado será citado para contestar no prazo de trinta dias. Com a contestação oferecerá a prova documental e o rol de testemunhas, que não podem exceder cinco. O titular do domínio útil será também citado para contestar, se quiser, pela mesma forma e termos.\n\n3. Na falta de contestação de ambos os citados será logo proferida sentença.\n\n4. Havendo contestação, o juiz designará dia para declarações aos titulares dos domínios directo e útil e inquirição das testemunhas. Concluída a diligência, proferirá sentença no prazo de dez dias.\n\n5. Não há recurso dos despachos. Da decisão final haverá recurso para a Relação, o qual abrangerá a matéria de facto e de direito.\n\n6. O processo é isento de imposto de justiça, selos e encargos, salvo os casos de litigência de má fé, a que se aplicará o respectivo regime.\n\n7. Não é obrigatória a constituição de advogado.",
+    "depois": "###### Artigo 3.º\n\n1. O pedido de indemnização será dirigido ao tribunal da comarca da situação do prédio, devendo o requerimento identificar o titular do domínio útil e ser instruído com a prova documental e a indicação de testemunhas que o requerente pretenda produzir e indicar, até ao número de cinco.\n\nO requerente terá de instruir o seu requerimento com certidão de todos os impostos e contribuições pagos ao Estado nos últimos cinco anos, com indicação das respectivas fontes.\n\n2. O Estado será citado para contestar no prazo de trinta dias. Com a contestação oferecerá a prova documental e o rol de testemunhas, que não podem exceder cinco. O titular do domínio útil será também citado para contestar, se quiser, pela mesma forma e termos.\n\n3. Na falta de contestação de ambos os citados será logo proferida sentença.\n\n4. Havendo contestação, o juiz designará dia para declarações aos titulares dos domínios directo e útil e inquirição das testemunhas. Concluída a diligência, proferirá sentença no prazo de dez dias.\n\n5. Não há recurso dos despachos. Da decisão final haverá recurso para a Relação, o qual abrangerá a matéria de facto e de direito.\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n> Alterado pelo/a [Lei n.º 22/87](https://diariodarepublica.pt/dr/detalhe/lei/22-1987-419646), publicado em 1987-06-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:415443:por",
+    "alterador": "pt:dre:649160:por;pt:dre:419646:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\nA acção a que se refere o artigo 3.º deverá ser intentada até ao dia 31 de Dezembro do ano em curso.",
+    "depois": "###### Artigo 5.º\n\nA acção a que se refere o artigo 3.º deverá ser intentada no prazo de seis meses a contar do registo a que se refere o n.º 3 do artigo 1.º\n\n> Alterado pelo/a [Lei n.º 22/87](https://diariodarepublica.pt/dr/detalhe/lei/22-1987-419646), publicado em 1987-06-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:415443:por",
+    "alterador": "pt:dre:649160:por;pt:dre:419646:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 9.º\n\n1 - Todos os actos judiciais, notariais e registais a que o presente decreto-lei se refere estão isentos de imposto de justiça, selos, encargos e emolumentos, salvo os casos de litigância de má fé, a que se aplica o respectivo regime.\n\n2 - Não é obrigatória a constituição de advogado.\n\n> Aditado pelo/a [Lei n.º 22/87](https://diariodarepublica.pt/dr/detalhe/lei/22-1987-419646), publicado em 1987-06-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:415443:por",
+    "alterador": "pt:dre:649160:por;pt:dre:419646:por"
   }
 ]

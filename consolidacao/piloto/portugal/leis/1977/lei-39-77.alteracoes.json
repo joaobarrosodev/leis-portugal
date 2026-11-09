@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nO benefício referido no artigo 1.º apenas é concedido às empresas que cumpram as formalidades previstas no n.º 1 do artigo 2.º até 31 de Dezembro de 1978.",
+    "depois": "###### Artigo 3.º\n\nO benefício referido no artigo 1.º apenas é concedido às empresas que cumpram as formalidades previstas no n.º 1 do artigo 2.º no prazo de 90 dias a contar da data em que tomaram conhecimento de terem sido autorizadas a proceder à reavaliação.\n\n> Alterado pelo/a [Decreto-Lei n.º 119-F/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-f-1983-401320), publicado em 1983-02-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:253188:por",
+    "alterador": "pt:dre:401320:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1 - A prescrição médica e o fornecimento do material clínico referido no artigo anterior competem ao Centro de Estudos de Paramiloidose do Porto, ao Hospital de Santa Maria e aos Centros de Saúde de Braga, Seia, Bom Sucesso, Figueira da Foz, Vila do Conde, Matosinhos, Póvoa de Varzim, Esposende, Barcelos, Unhais da Serra e Covilhã.\n\n2 - Os encargos decorrentes da prescrição do material de apoio clínico serão suportados pelas entidades prescritoras.",
+    "depois": "###### Artigo 3.º\n\n1 - A prescrição médica e o fornecimento do material clínico referido no artigo anterior competem ao Centro de Estudo de Paramiloidose do Porto, ao Hospital Geral de Santo António, ao Hospital de Santa Maria e aos Centros de Saúde de Braga, Seia, Bom Sucesso, Figueira da Foz, Vila do Conde, Matosinhos, Póvoa de Varzim, Esposende, Barcelos, Unhais da Serra e Covilhã.\n\n2 - Os encargos decorrentes da prescrição do material de apoio clínico serão suportados pelas entidades prescritoras.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 42/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1991-676796), publicado em 1991-08-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:557779:por",
+    "alterador": "pt:dre:676796:por"
+  }
+]

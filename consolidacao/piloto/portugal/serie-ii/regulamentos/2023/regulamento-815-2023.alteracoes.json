@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — Pontos de carregamento de veículos elétricos integrados na rede de mobilidade elétrica\n\nA consideração no regime de autoconsumo de pontos de carregamento de veículos elétricos integrados na rede de mobilidade elétrica, como definida no RME, deve enquadrar-se no âmbito de projetos-piloto, como estabelecidos no Artigo 45.º do presente Regulamento e no RME.",
+    "depois": "###### Artigo 7.º — Participação em autoconsumo de pontos de entrega correspondentes a pontos de medição internos em instalações de consumo não exclusivas para a mobilidade elétrica\n\n1 - Os pontos de entrega correspondentes a pontos de medição internos em instalações de consumo não exclusivas para a mobilidade elétrica, ao abrigo do [Decreto-Lei n.º 93/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2025-928937303), de 14 de agosto, são equiparados aos demais pontos de entrega para efeitos da sua participação em regimes de autoconsumo e da aplicação do presente Regulamento.\n\n2 - O apuramento dos dados de energia nos pontos de entrega referidos no número anterior adota os procedimentos específicos previstos no Guia de Medição, Leitura e Disponibilização de Dados do setor elétrico, bem como as disposições do presente Regulamento.\n\n3 - Os valores de energia apurados no equipamento de medição interno, após a aplicação de saldos, no sentido da instalação para montante, são tratados como injeção na RESP para os efeitos do presente Regulamento.\n\n> Alterado pelo/a [Regulamento n.º 8/2026](https://diariodarepublica.pt/dr/detalhe/regulamento/8-2026-994000577), publicado em 2026-01-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:216251911:por",
+    "alterador": "pt:dre:994000577:por"
+  }
+]

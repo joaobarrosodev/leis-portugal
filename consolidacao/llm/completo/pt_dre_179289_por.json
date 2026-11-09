@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:179289:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Todas as instruções (Lei 66-B/2012 art. 173.º, Lei 51/2013 art. 9.º, Lei 83-C/2013 art. 172.º, Lei 75-A/2014 art. 19.º, Lei 82-B/2014 art. 185.º) alteram o quadro plurianual do anexo a que se refere o art. 2.º, que só vem em imagem; os arts. 1.º a 3.º não recebem nova redação.",
+  "instrucoes": [
+    "Alteradores 1 a 5: substituem o anexo (ou a coluna de um ano do quadro), dado só em imagem: não aplicado",
+    "Restantes artigos dos alteradores: alteram outros diplomas: ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

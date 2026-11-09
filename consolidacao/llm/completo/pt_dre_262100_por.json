@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:262100:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Condições gerais dos empréstimos",
+      "texto": "Os empréstimos a realizar pelo Governo devem subordinar-se às seguintes condições gerais:\n\na) Não ultrapassarem o montante global de 10 milhões de contos, sendo 2 milhões de contos de curto prazo.\n\nb) Serem empréstimos amortizáveis a colocar junto das instituições financeiras, incluindo o Banco de Portugal, ou outras entidades nacionais e internacionais;\n\nc) Serem aplicados no financiamento de investimentos ou de outros empreendimentos especialmente reprodutivos;\n\nd) Serem os empréstimos externos contraídos, em caso de insuficiência do mercado interno, em condições mais favoráveis do que as praticadas no mercado nacional de capitais em matéria de prazo, taxa de juro e demais encargos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alt. 1, art. 1.º: as alterações ao orçamento e aos programas constam dos mapas I a V, só em imagem; não aplicadas.",
+  "instrucoes": [
+    "Alt. 1, art. 1.º: alterações aos mapas do orçamento; em imagem, não aplicado.",
+    "Alt. 1, art. 3.º: nova redação da alínea a) do art. 4.º; aplicado.",
+    "Alt. 1, arts. 2.º, 4.º e 5.º: execução, vigência e efeitos; sem alteração de texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

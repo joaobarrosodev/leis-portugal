@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — Ordenação dos candidatos\n\n1 - Os candidatos são ordenados de acordo com as seguintes prioridades:\n\na) Professores profissionalizados já pertencentes a um dos quadros de zona pedagógica, no grupo em que estão colocados;\n\nb) Outros professores já pertencentes a um dos quadros de zona pedagógica, no grupo em que estão colocados;\n\nc) Candidatos incluídos na alínea b) do artigo anterior, em grupos para que possuem habilitação profissional;\n\nd) Candidatos incluídos na alínea b) do artigo anterior, em grupos para que possuem habilitação própria.\n\n2 - Dentro de cada uma das prioridades referidas no número anterior, os candidatos serão ordenados nos termos previstos no [Decreto Legislativo Regional n.º 4/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1988-374778), de 18 de Maio.\n\n3 - Nenhum candidato pode ser incluído em mais de uma das alíneas do n.º 1.\n\n4 - Os candidatos incluídos nas alíneas c) e d) do n.º 1 podem concorrer, no máximo, a dois grupos de docência.",
+    "depois": "###### Artigo 6.º — Ordenação dos candidatos\n\n1 - Os candidatos são ordenados de acordo com as seguintes prioridades:\n\na) Professores profissionalizados já pertencentes a um dos quadros de zona pedagógica, no grupo em que estão colocados;\n\nb) Outros professores já pertencentes a um dos quadros de zona pedagógica, no grupo em que estão colocados;\n\nc) Professores profissionalizados vinculados à Região Autónoma da Madeira;\n\nd) Professores portadores de habilitação própria vinculados à Região Autónoma da Madeira;\n\ne) Professores incluídos na alínea b) do artigo anterior, em grupos para que possuem habilitação profissional;\n\nf) Professores incluídos na alínea b) do artigo anterior, em grupos para que possuem habilitação própria.\n\n2 - Dentro de cada uma das prioridades referidas no número anterior, os candidatos serão ordenados nos termos previstos no [Decreto Legislativo Regional n.º 4/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1988-374778), de 18 de Maio.\n\n3 - Nenhum candidato pode ser incluído em mais de uma das alíneas do n.º 1.\n\n4 - Os professores incluídos nas alíneas e) e f) do n.º 1 podem concorrer no máximo a dois grupos de docência.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 14-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-a-2001-632385), publicado em 2001-05-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:353534:por",
+    "alterador": "pt:dre:632385:por;pt:dre:544776:por"
+  },
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º — Vinculação e remuneração\n\n1 - Os docentes que tenham obtido provimento num lugar do quadro de zona pedagógica ficam vinculados a esse quadro em 1 de Setembro do ano em que nele ingressem, nos termos do disposto no artigo 30.º e na alínea b) do artigo 31.º do ECD e sem prejuízo do disposto no artigo 12.º do presente diploma, revestindo tal vinculação as seguintes formas:\n\na) Nomeação definitiva, se forem profissionalizados e titulares das habilitações profissionais definidas para os grupos de docência que vão integrar;\n\nb) Nomeação provisória, se tiverem habilitação própria, convertendo-se em definitiva no início do ano escolar subsequente à conclusão da profissionalização em exercício.\n\n2 - Os docentes a que se refere a alínea b), até à conclusão da profissionalização em exercício, são remunerados pelos índices correspondentes à pré-carreira.",
+    "depois": "###### Artigo 14.º — Vinculação e remuneração\n\n1 - Os docentes que tenham obtido provimento num lugar do quadro de zona pedagógica ficam vinculados a esse quadro em 1 de Setembro do ano em que nele ingressem, nos termos do disposto no artigo 30.º e na alínea b) do artigo 31.º do ECD e sem prejuízo do disposto no artigo 12.º do presente diploma, revestindo tal vinculação as seguintes formas:\n\na) Nomeação definitiva, se forem profissionalizados e titulares das habilitações profissionais definidas para os grupos de docência que vão integrar;\n\nb) Nomeação provisória, se tiverem habilitação própria, convertendo-se em definitiva no início do ano escolar subsequente à conclusão da profissionalização em exercício.\n\n2 - Os docentes a que se refere a alínea b), até à conclusão da profissionalização em exercício, são remunerados pelos índices correspondentes à pré-carreira.\n\n3 - Os docentes referidos na alínea b) do n.º 1 serão chamados a realizar a profissionalização em serviço nos termos definidos no [Decreto-Lei n.º 287/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1988-380135), de 19 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 345/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1989-548825), de 11 de Outubro.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 12/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1999-544776), publicado em 1999-04-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:353534:por",
+    "alterador": "pt:dre:632385:por;pt:dre:544776:por"
+  }
+]

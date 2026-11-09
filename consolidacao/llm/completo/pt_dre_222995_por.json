@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:222995:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A alteração do anexo (delimitação) pelo n.º 2 do art. 1.º do alterador 2 só vem em imagem; o art. 3.º do alterador 1 (atualização terminológica genérica) não é textual; o alterador 3 só ressalva a vigência do original. Não aplicados.",
+  "instrucoes": [
+    "Alt. 1 (DRR 8/2006/A), art. 1.º: nova redação dos arts. 9.º, 10.º, 11.º, 14.º, 15.º e 16.º; já refletida no texto atual",
+    "Alt. 1, art. 3.º: atualização terminológica genérica; não textual, não aplicada",
+    "Alt. 2 (DRR 5/2008/A), art. 1.º n.º 1: nova redação dos arts. 1.º, 4.º, 5.º, 8.º, 10.º, 14.º, 15.º e 16.º; já refletida no texto atual (no art. 5.º a única diferença são as hiperligações aos diplomas citados)",
+    "Alt. 2, art. 1.º n.º 2: novo anexo só em imagem; não aplicado",
+    "Alt. 3 (DLR 20/2008/A), art. 46.º n.º 3: mantém a vigência do original; nada a aplicar"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

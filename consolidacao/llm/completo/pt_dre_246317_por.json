@@ -1,0 +1,50 @@
+{
+  "id": "pt:dre:246317:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Carreiras de Inspecção",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - Ao pessoal dirigente da Inspecção Regional da Saúde e Assuntos Sociais é aplicável o disposto no capítulo iv do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, e as disposições constantes do artigo 5.º do presente diploma.",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Conteúdo funcional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Ingresso e acesso na carreira",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Transição de pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alínea c) do art. 22.º do DLR n.º 19/2010/M ressalva o n.º 4 do art. 2.º apenas 'na parte em que remete para o referido artigo 5.º': revogação parcial dentro do número sem alvo textual exato; o n.º 4 foi mantido por inteiro.",
+  "instrucoes": [
+    "Art. 22.º, c), do alterador 1: revoga o DLR n.º 10/2008/M com exceção do art. 5.º e do n.º 4 do art. 2.º — arts. 1.º, 3.º, 4.º, 6.º e 7.º e n.os 1 a 3 do art. 2.º revogados; art. 5.º mantido.",
+    "Restantes alíneas do art. 22.º: revogam outros diplomas — ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

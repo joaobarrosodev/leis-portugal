@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:541273:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 (Lei n.º 53-A/2006) e 2 (Lei n.º 67-A/2007) vêm sem texto no pedido: não há instrução dirigida ao original que se possa aplicar.",
+  "instrucoes": [
+    "Alterador 1 (Lei n.º 53-A/2006): sem texto no pedido; nada aplicado.",
+    "Alterador 2 (Lei n.º 67-A/2007): sem texto no pedido; nada aplicado.",
+    "Alterador 3 (Declaração de Rectificação n.º 1406/2011): retifica o despacho n.º 25187/2008, não o original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

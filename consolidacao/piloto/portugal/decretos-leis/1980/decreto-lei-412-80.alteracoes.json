@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — (Local e realização de matrículas)\n\n1 - Em localidades onde exista ensino oficial, as matrículas são efectuadas na escola da área da residência do aluno, à data de matrícula.\n\n2 - Em localidade onde não exista ensino oficial, as matrículas fazem-se na escola da localidade que ofereça melhores condições naturais de acesso.",
+    "depois": "###### Artigo 2.º — (Local e realização de matrículas)\n\n1 - Em localidades onde exista ensino oficial, as matrículas são efectuadas na escola da área da residência do aluno, à data de matrícula.\n\n2 - Em localidade onde não exista ensino oficial, as matrículas fazem-se na escola da localidade que ofereça melhores condições naturais de acesso.\n\n3 - Serão presentes, a despacho ministerial, as situações devidamente comprovadas pelas entidades escolares, em que se verifique dificuldade na aplicação do disposto no n.º 1 do presente artigo.\n\n> Alterado pelo/a [Decreto-Lei n.º 124/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1983-309770), publicado em 1983-03-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:461650:por",
+    "alterador": "pt:dre:309770:por;pt:dre:171363:por;pt:dre:569099:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — (Fixação do corpo docente)\n\n1 - O corpo docente das escolas é fixado em função da relação professor/aluno definida nos termos seguintes:\n\n1.1 - Em escolas com um número limite de 149 alunos:\n\na) Até 28 alunos - 1 lugar docente;\n\nb) De 29 a 56 alunos - 2 lugares docentes;\n\nc) De 57 a 84 alunos - 3 lugares docentes;\n\nd) De 85 a 112 alunos - 4 lugares docentes;\n\ne) De 113 a 149 alunos - 5 lugares docentes.\n\n1.2 - Em escolas com 150 ou mais alunos o número de lugares docentes é igual ao quociente inteiro da divisão por 25 do total de alunos da escola.\n\n2 - A relação professor/aluno definida no número anterior pode ser alterada em casos especiais devidamente justificados, definidos em despacho ministerial.",
+    "depois": "###### Artigo 5.º — (Fixação do corpo docente)\n\n1 - O corpo docente das escolas é fixado em função da relação professor/aluno definida nos termos seguintes:\n\n1.1 - Em escolas com um número limite de 137 alunos:\n\na) Até 26 alunos - 1 lugar docente;\n\nb) De 27 a 50 alunos - 2 lugares docentes;\n\nc) De 51 a 75 alunos - 3 lugares docentes;\n\nd) De 76 a 100 alunos - 4 lugares docentes;\n\ne) De 101 a 137 alunos - 5 lugares docentes.\n\n1.2 - Em escolas com 138 ou mais alunos o número de lugares docentes é igual ao quociente arredondado da divisão por 25 do total dos alunos.\n\n2 - A relação professor/aluno definida no número anterior pode ser alterada em casos especiais devidamente justificados, definidos em despacho ministerial.\n\n> Alterado pelo/a [Decreto-Lei n.º 460/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1985-171363), publicado em 1985-11-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:461650:por",
+    "alterador": "pt:dre:309770:por;pt:dre:171363:por;pt:dre:569099:por"
+  },
+  {
+    "artigo": "18.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 18.º — (Provimento em instituições particulares de solariedade social)\n\n1 - Os provimentos dos lugares das escolas oficiais que funcionam em estabelecimentos de solidariedade social são feitos nos termos da lei geral.\n\n2 - Exceptuam-se do disposto no número anterior os provimentos com processos em curso à data da entrada em vigor deste diploma.",
+    "depois": "###### Artigo 18.º — (Provimento em instituições de solidariedade social e tutelares de menores)\n\n1 - Os provimentos dos lugares das escolas oficiais que funcionem em estabelecimentos de solidariedade social e tutelares de menores são feitos nos termos da lei geral.\n\n2 - Em relação aos cursos oficiais do ensino básico que funcionam já em instituições privadas de solidariedade social e na Direcção-Geral dos Serviços Tutelares de Menores, os provimentos referidos no número anterior obedecerão a critérios a definir por despacho do Ministro da Educação e das Universidades e do Ministro da Reforma Administrativa, bem como dos Ministros da Justiça e dos Assuntos Sociais, conforme os casos.\n\n> Alterado pelo/a [Decreto-Lei n.º 301/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1981-569099), publicado em 1981-11-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:461650:por",
+    "alterador": "pt:dre:309770:por;pt:dre:171363:por;pt:dre:569099:por"
+  }
+]

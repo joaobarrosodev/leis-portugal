@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:413054:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 34/76), art. 4.º, substitui o mapa II e alteradores 2 e 3 (Portarias 29/76 e 60/76) acrescem unidades ao mapa III: mapas só em imagem/fora do texto por artigos; art. 6.º do DL 34/76 altera as disposições incompatíveis sem as identificar; alterador 4 (DL 186/98), art. 25.º, c), revoga o original só na parte relativa às atribuições e competências que transitaram para a DGT, alvo indeterminado. Nada aplicado.",
+  "instrucoes": [
+    "Alterador 1: reclassificações; substituição do mapa II (imagem) e alteração genérica por incompatibilidade; não aplicáveis.",
+    "Alterador 2: acréscimo de unidades ao mapa III; não aplicável (mapa).",
+    "Alterador 3: alteração do mapa III; não aplicável (mapa).",
+    "Alterador 4, art. 25.º, c): revogação parcial indeterminada; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:409699:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Rect. 216/92: as retificações ao preâmbulo e aos anexos I (n.º 1, alíneas b) e c)), III e IV não se aplicam porque esses textos não constam do texto atual por artigos.",
+  "instrucoes": [
+    "Rect. 216/92: preâmbulo «21 de Junho» -> «21 de Julho»; preâmbulo não consta do texto atual, não aplicada.",
+    "Rect. 216/92: art. 13.º, n.º 1, «Rua de Angelina Vidal» -> «Rua Angelina Vidal»; texto atual já retificado.",
+    "Rect. 216/92: art. 21.º, n.º 2, «extingue-se com o seu pagamento» -> «extingue-se com o pagamento»; texto atual já retificado.",
+    "Rect. 216/92: art. 22.º, n.º 2, «serão remetidos, pelo júri, ao Ministério das Finanças»; texto atual já retificado.",
+    "Rect. 216/92: art. 25.º, n.º 5, «a lista ... n.os 2 e 3» -> «lista ... n.os 3 e 4»; texto atual já retificado (lê-se «nlista», resultado literal da retificação; mantido sem correção).",
+    "Rect. 216/92: art. 26.º, n.º 1, alínea b), n.º 2 e n.º 3, alínea b); texto atual já retificado.",
+    "Rect. 216/92: anexos I, III e IV; anexos não constam do texto atual, não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\n1 - Os depósitos serão aceites por prazos variáveis, consoante o que for estabelecido pelos Serviços de Controle de Qualidade, não excedendo 120 dias e por um mínimo de 60.\n\n2 - Dadas as características especiais do produto depositado, não são admitidas renovações dos depósitos, os quais terão de ser cancelados na data do vencimento mediante prévio resgate das possíveis obrigações contraídas pelo desconto das respectivas cautelas de penhor.\n\n3 - A falta de cumprimento do disposto no número antecedente fará accionar os mecanismos previstos nos artigos 52.º e 67.º do Regulamento Geral dos Serviços de Armazéns Gerais Industriais em tudo quanto seja aplicável.",
+    "depois": "###### Artigo 7.º\n\n1 - Os depósitos serão aceites por prazos variáveis, consoante o que for estabelecido pelos Serviços de Controle de Qualidade, não excedendo 120 dias e por um mínimo de 60.\n\n2 - Dadas as características especiais do produto depositado, não são admitidas renovações dos depósitos, os quais terão de ser cancelados na data do vencimento mediante prévio resgate das possíveis obrigações contraídas pelo desconto das respectivas cautelas de penhor.\n\n3 - A falta de cumprimento do disposto no número antecedente fará accionar os mecanismos previstos nos artigos 52.º e 67.º do Regulamento Geral do Serviço de Armazéns Gerais Industriais, em tudo quanto seja aplicável, salvo decisão em contrário do Ministro do Mar, mediante despacho precedido de parecer do IPCP, para cada caso que, devidamente fundamentado, lhe seja apresentado pelos utentes do serviço.\n\n> Alterado pelo/a [Portaria n.º 462/84](https://diariodarepublica.pt/dr/detalhe/portaria/462-1984-386009), publicado em 1984-07-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:444413:por",
+    "alterador": "pt:dre:386009:por;pt:dre:176676:por"
+  },
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º\n\n1 - O valor a atribuir a cada depósito de sardinha congelada será, respectivamente, o que resulte da média ponderada de valores das facturas de compra em lota da correspondente sardinha fresca ou da factura de compra da sardinha congelada a bordo, tendo em vista o disposto no n.º 1 do artigo 1.º da presente portaria.\n\n2 - Para efeitos de obtenção de crédito através do desconto de cautelas de penhor, os valores de cada depósito serão os referidos no número anterior, não podendo exceder o que resultar do preço máximo por quilograma de sardinha a fixar periodicamente pelo Ministro do Mar, precedendo parecer do IPCP.\n\n3 - Só os industriais de conservas e semiconservas de peixe podem beneficiar do disposto nos números anteriores e das restantes disposições da presente portaria.",
+    "depois": "###### Artigo 11.º\n\n1 - O valor a atribuir a cada depósito de sardinha congelada será, respectivamente, o que resulte da média ponderada dos valores das facturas de compra em lota de sardinha fresca ou da factura de compra de sardinha congelada a bordo, acrescido dos custos de congelação, por quilograma, tendo em vista o disposto no n.º 1.º da presente portaria.\n\n2 - Para efeitos de obtenção de crédito através do desconto de cautelas de penhor, os valores de cada depósito serão os referidos no número anterior, não podendo exceder os que resultarem do preço máximo, por quilograma, de sardinha, incluindo o custo de congelação, a fixar, semestralmente por despacho do Ministro do Mar, precedido de parecer do IPCP.\n\n3 - Só os industriais de conservas e semiconservas de peixe podem beneficiar do disposto nos números anteriores e das restantes disposições da presente portaria.\n\n> Alterado pelo/a [Portaria n.º 462/84](https://diariodarepublica.pt/dr/detalhe/portaria/462-1984-386009), publicado em 1984-07-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:444413:por",
+    "alterador": "pt:dre:386009:por;pt:dre:176676:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º\n\nNão serão aceites depósitos de quantidades inferiores a 5000 kg nem superiores a 20000 kg.",
+    "depois": "###### Artigo 9.º\n\n1 - Não serão aceites depósitos de quantidades inferiores a 5000 kg nem superiores a 20000 kg.\n\n2 - Os limites fixados no número anterior serão 10000 kg e 100000 kg, respectivamente, quando se trate de depósitos de sardinha congelada efectuados nos termos da alínea b) do n.º 1.º da Portaria n.º 535/85, de 2 de Agosto.\n\n> Alterado pelo/a [Portaria n.º 762/85](https://diariodarepublica.pt/dr/detalhe/portaria/762-1985-176676), publicado em 1985-10-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:444413:por",
+    "alterador": "pt:dre:386009:por;pt:dre:176676:por"
+  }
+]

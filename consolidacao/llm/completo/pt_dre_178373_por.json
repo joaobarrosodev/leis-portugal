@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:178373:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - A Academia Internacional da Cultura Portuguesa é declarada instituição de índole cultural, dependente do Ministério da Cultura através do Instituto Português do Património Cultural, e incluída na lista anexa ao [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto.\n\n2 - A Academia Internacional da Cultura Portuguesa, sendo uma instituição de índole cultural, é considerada de utilidade pública, dotada de personalidade jurídica e de autonomia administrativa.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: nova redação do artigo 1.º; n.º 1 com '...' fica com o texto atual, aditado o n.º 2."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

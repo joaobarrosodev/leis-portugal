@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:147998:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigo 3.º e anexo II: nova redação do anexo III ao Decreto-Lei n.º 163/2005; o anexo III não consta do texto atual recebido (só artigos), pelo que não se pode aplicar.",
+  "instrucoes": [
+    "Alterador 1, artigo 2.º: altera o anexo I ao Decreto-Lei n.º 210/2000, outro diploma; ignorado.",
+    "Alterador 1, artigo 3.º: nova redação do anexo III do original; anexo ausente do texto atual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

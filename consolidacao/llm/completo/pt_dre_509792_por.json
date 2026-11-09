@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:509792:por",
+  "artigos": [
+    {
+      "chave": "35.º",
+      "epigrafe": "",
+      "texto": "O Laboratório pode instituir, nas condições que forem aprovadas pelo Ministro das Obras Públicas e dentro das suas disponibilidades financeiras, prémios para os servidores que tenham contribuído de forma excepcional para o progresso dos conhecimentos, para o prestígio da instituição ou para o incremento da eficiência da sua acção, bem como outras formas de estímulo, com o fim de fomentar o aumento da produtividade.",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "O Laboratório tem um conselho administrativo composto pelo director, que presidirá, e por três a seis funcionários do quadro, nomeados pelo Ministro do Equipamento Social, sob proposta do director do LNEC.\n\n§ 1.º A nomeação dos vogais é feita por períodos de três anos, podendo ser dada por finda a todo o tempo, por despacho ministerial.\n\n§ 2.º Às reuniões do conselho administrativo assistirá um delegado do Tribunal de Contas, por este designado, que perceberá uma gratificação mensal cujo quantitativo será fixado pelo Ministro do Equipamento Social, com o acordo do Ministro das Finanças.\n\n§ 3.º Mediante autorização, a conceder anualmente pelo Ministro do Equipamento Social, pode o director fazer-se substituir na presidência do conselho administrativo por um dos vogais.",
+      "alterador": 2
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "Aos concursos para obtenção do certificado de estágio para experimentador poderão também apresentar-se:\n\na) Os ajudantes de experimentador que contem, pelo menos, oito anos de bom e efectivo serviço no exercício destas funções, dentro ou fora do quadro, e tenham obtido aproveitamento no curso para acesso a experimentador;\n\nb) Os ajudantes de experimentador que possuam as habilitações referidas no artigo 15.º e pelo menos dois anos de serviço na categoria.\n\n§ único. Os ajudantes de experimentador que sejam reprovados poderão apresentar-se a concurso mais uma vez, decorridos, pelo menos, quatro anos após a data da publicação da lista das classificações, salvo se possuírem as habilitações referidas no artigo 15.º, caso em que poderão apresentar-se ao novo concurso decorrido um ano.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: nova redação do artigo 35.º: aplicada.",
+    "Alt. 2, art. 1.º: nova redação dos artigos 2.º e 16.º e seus parágrafos: aplicada. Restantes artigos do alt. 2 são normas próprias ou revogam outros diplomas: ignorados.",
+    "Alt. 3: substitui o quadro de pessoal do Decreto-Lei n.º 43825 (anexo em imagem), sem alteração textual do original: nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

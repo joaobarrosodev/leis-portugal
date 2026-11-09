@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:641126:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "Programas de acção",
+      "texto": "1 - Para a prossecução dos objectivos mencionados no artigo 2.º, serão aprovados, por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, programas de acção a aplicar às zonas identificadas como vulneráveis, nos termos do artigo 4.º, tendo em conta:\n\na) Os dados científicos e técnicos disponíveis, sobretudo no que se refere às contribuições relativas de azoto proveniente de fontes agrícolas ou outras;\n\nb) As condições do ambiente, em particular as edafo-climáticas, nas diferentes regiões.\n\n2 - Um programa de acção poderá abranger todas as zonas vulneráveis do território nacional ou poderão ser elaborados vários programas para diferentes zonas ou partes de zonas vulneráveis.\n\n3 - Dos programas de acção constarão obrigatoriamente as medidas referidas no anexo IV ao presente diploma, que dele faz parte integrante, bem como as regras do Código de Boas Práticas Agrícolas que forem consideradas pertinentes.\n\n4 - Os programas de acção deverão estar executados no prazo de quatro anos a contar da respectiva aprovação.\n\n5 - Compete às DRA estabelecer formas de controlo que permitam avaliar da eficácia dos programas de acção estabelecidos por força do presente artigo, que deverão incluir, para além de outras medidas consideradas necessárias, as decorrentes da aplicação do disposto no artigo 5.º\n\n6 - Se da execução dos programas resultar que as medidas referidas no n.º 3 se manifestam insuficientes para a prossecução dos objectivos referidos no artigo 2.º, deverão ser adoptadas as medidas e acções suplementares necessárias.\n\n7 - Os programas de acção, bem como as medidas e acções suplementares mencionadas no número anterior, serão objecto de análise e, se necessário, revistos pelo menos de quatro em quatro anos.\n\n8 - Compete ao INAG dar conhecimento à Comissão Europeia dos programas de acção a que se refere o presente artigo, bem como das alterações que estes venham a merecer e das eventuais medidas e acções a que se refere o n.º 6.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "DL 68/99: nova redação dos anexos I e V, que não constam do texto atual; não aplicada.",
+  "instrucoes": [
+    "Alterador 1: artigos 4.º e 5.º já têm no texto atual a redação do DL 68/99 (só diferem ligações); sem mudança.",
+    "Alterador 1: artigo 7.º, n.º 1 substituído (com alíneas a) e b)); n.os 2 a 8 mantêm o texto atual.",
+    "Alterador 1: anexos I e V ausentes do texto atual; não aplicados.",
+    "Alterador 2 (Portaria 177/2005): altera outro diploma (Portaria 46-A/2001) e só remete para o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

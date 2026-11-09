@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nPoderá a reitoria da Universidade de Lisboa contratar, além do quadro, por conta de verbas globais inscritas no orçamento, o pessoal técnico indispensável para a conservação dos edifícios e do material afectos aos seus serviços, bem como o pessoal menor necessário para a guarda e vigilância do edifício do restaurante universitário.\n\n§ único. O número de unidades a contratar e a respectiva remuneração serão fixados por despachos dos Ministros das Finanças e da Educação Nacional.",
+    "depois": "###### Artigo 1.º\n\nPoderá a reitoria da Universidade de Lisboa contratar ou assalariar, além do quadro, por força das dotações especialmente inscritas no orçamento, o pessoal administrativo, técnico e menor indispensável à utilização e conservação dos edifícios e do material afectos aos seus serviços e à guarda e vigilância dos mesmos edifícios, incluindo as instalações académicas.\n\n§ único. O número de unidades a contratar ou a assalariar e a respectiva remuneração serão fixados por despachos dos Ministros das Finanças e da Educação Nacional.\n\n> Alterado pelo/a [Decreto-Lei n.º 46274](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46274-1965-237799), publicado em 1965-04-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:194018:por",
+    "alterador": "pt:dre:237799:por"
+  }
+]

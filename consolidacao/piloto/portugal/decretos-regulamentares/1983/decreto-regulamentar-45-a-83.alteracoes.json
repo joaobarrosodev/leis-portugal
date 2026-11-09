@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "14.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 14.º-A\n\n1 - O lugar de chefe de repartição será provido de entre chefes de secção com 3 anos de bom e efectivo serviço na categoria ou de entre indivíduos habilitados com curso superior e experiência profissional adequada.\n\n2 - O lugar de chefe de secção será provido de entre indivíduos habilitados com o curso superior e experiência profissional adequada ao exercício das correspondentes funções ou de entre primeiros-oficiais e técnicos auxiliares principais com 3 anos de bom e efectivo serviço nas respectivas categorias.\n\n> Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:209870:por",
+    "alterador": "pt:dre:386655:por"
+  },
+  {
+    "artigo": "14.º-B",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 14.º-B\n\nOs lugares de técnico superior, técnico, oficial administrativo, escriturário-dactilógrafo, telefonista, contínuo e motorista serão providos nos termos da lei geral.\n\n> Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:209870:por",
+    "alterador": "pt:dre:386655:por"
+  },
+  {
+    "artigo": "16.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 16.º-A\n\nAo lugar de técnico de enfermagem é aplicável o regime estabelecido pelo [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro, e legislação complementar.\n\n> Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:209870:por",
+    "alterador": "pt:dre:386655:por"
+  },
+  {
+    "artigo": "16.º-B",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 16.º-B\n\n1 - Os lugares de técnico de serviço social principal e de técnico de serviço social de 1.ª classe, serão providos de entre, respectivamente, técnicos de serviço social de 1.ª classe e técnicos de serviço social de 2.ª classe com o mínimo de 3 anos de bom e efectivo serviço na categoria e habilitados com o curso superior de Serviço Social.\n\n2 - Os lugares de técnico de serviço social de 2.ª classe serão providos de entre indivíduos habilitados com o curso superior de Serviço Social.\n\n> Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:209870:por",
+    "alterador": "pt:dre:386655:por"
+  }
+]

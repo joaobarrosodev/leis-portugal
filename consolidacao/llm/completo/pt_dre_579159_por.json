@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:579159:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto Regulamentar n.º 25/82): declara que os valores das prestações fixadas no original 'são alterados nos termos do presente diploma' e fixa novos montantes nos seus próprios artigos, sem dar nova redacção a nenhum artigo do original; alteração não textual, não aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1: fixa novos montantes das prestações familiares em diploma próprio, sem nova redacção dos artigos do original; não aplicada (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

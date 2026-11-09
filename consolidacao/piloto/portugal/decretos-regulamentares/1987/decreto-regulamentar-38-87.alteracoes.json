@@ -31,5 +31,61 @@
     ],
     "diploma": "pt:dre:419781:por",
     "alterador": "pt:dre:574931:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Órgãos e serviços\n\nA DRABL compreende os seguintes órgãos e serviços:\n\n1) Órgãos:\n\na) Director regional;\n\nb) Conselho Regional Agrário (CRA);\n\nc) Conselho Técnico Regional (CTR);\n\nd) Conselho Administrativo (CA);\n\n2) Serviços de apoio técnico e administrativo:\n\na) Gabinete de Planeamento Agrário Regional (GAPAR);\n\nb) Direcção de Serviços de Administração (DSA);\n\nc) Divisão de Informação de Contabilidades Agrícolas (DICA);\n\nd) Divisão de Informação de Mercados Agrícolas (DIMA);\n\ne) Núcleo de Organização e Informática (NOI);\n\n3) Serviços operativos de âmbito regional:\n\na) Direcção de Serviços de Extensão (DSE);\n\nb) Direcção de Serviços de Experimentação e Fomento da Produção Agro-Pecuária (DSEFPAP);\n\nc) Direcção de Serviços de Protecção à Produção Animal (DSPPA);\n\nd) Direcção de Serviços de Apoio às Estruturas (DSAE);\n\ne) Divisão de Protecção à Produção Vegetal (DPPV);\n\n4) Serviços operativos de âmbito local:\n\nDivisão da Zona Agrária.",
+    "depois": "###### Artigo 3.º — Órgãos e serviços\n\nA DRABL compreende os seguintes órgãos e serviços:\n\n1) Órgãos:\n\na) Director regional;\n\nb) Conselho Regional Agrário (CRA);\n\nc) Conselho Técnico Regional (CTR);\n\nd) Conselho Administrativo (CA);\n\n2) Serviços de apoio técnico e administrativo:\n\na) Gabinete de Planeamento Agrário Regional (GAPAR);\n\nb) Direcção de Serviços de Administração (DSA);\n\nc) Divisão de Informação de Contabilidades Agrícolas (DICA);\n\nd) Divisão de Informação de Mercados Agrícolas (DIMA);\n\ne) Núcleo de Organização e Informática (NOI);\n\n3) Serviços operativos de âmbito regional:\n\na) Direcção de Serviços de Extensão (DSE);\n\nb) Direcção de Serviços de Experimentação e Fomento da Produção Agro-Pecuária (DSEFPAP);\n\nc) Direcção de Serviços de Protecção à Produção Animal (DSPPA);\n\nd) Direcção de Serviços de Apoio às Estruturas (DSAE);\n\ne) Direcção de Serviços de Vitivinicultura (DSV);\n\nf) Divisão de Protecção à Produção Vegetal (DPPV);\n\n4) Serviços operativos de âmbito local:\n\n> Alterado pelo/a [Decreto-Lei n.º 184/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1990-574931), publicado em 1990-06-06.\n\nDivisão da Zona Agrária.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:419781:por",
+    "alterador": "pt:dre:574931:por;pt:dre:563608:por"
+  },
+  {
+    "artigo": "13.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 13.º-A — Direcção de Serviços de Vitivinicultura\n\n1 - A DSV tem as competências referidas nas alíneas a), b), c), j) e l) do n.º 1, alínea a) do n.º 2, alíneas a) e b) do n.º 4 e alínea i) do n.º 5 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, na parte aplicável à vitivinicultura, e compreende as seguintes divisões:\n\na) Estação Vitivinícola da Beira Litoral;\n\nb) Centro de Estudos Vitivinícolas do Dão.\n\n2 - À Estação Vitivinícola da Beira Litoral compete:\n\na) Assegurar o estudo e promover a implementação de medidas destinadas ao desenvolvimento e melhoria da produção de vinhos, incluindo os referentes à reconversão e ao condicionamento da vinha;\n\nb) Assegurar o estudo dos processos de fabrico e conservação dos vinhos e promover a divulgação das suas características;\n\nc) Promover o aproveitamento dos subprodutos da vinificação;\n\nd) Promover o fornecimento de material de propagação vegetativo com garantia varietal e sanitária;\n\ne) Assegurar a gestão das unidades experimentais da DRABL, no âmbito da vitivinicultura;\n\nf) Colaborar na manutenção e controlo da qualidade dos vinhos e no levantamento do cadastro vitícola.\n\n3 - Ao Centro de Estudo Vitivinícolas do Dão, na área específica da sua actuação, compete:\n\na) Assegurar o estudo e promover a implementação de medidas destinadas ao desenvolvimento e melhoria da produção de vinhos, incluindo os referentes à reconversão e ao condicionamento da vinha;\n\nb) Assegurar o estudo dos processos de fabrico e conservação de vinhos e promover a divulgação das suas características;\n\nc) Promover o aproveitamento dos subprodutos da vinificação;\n\nd) Promover o fornecimento de material de propagação vegetativo com garantia varietal e sanitária;\n\ne) Assegurar a gestão das unidades experimentais da DRABL, no âmbito da vitivinicultura;\n\nf) Colaborar na manutenção e controlo da qualidade dos vinhos e no levantamento do cadastro vitícola.\n\n> Aditado pelo/a [Decreto-Lei n.º 184/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1990-574931), publicado em 1990-06-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:419781:por",
+    "alterador": "pt:dre:574931:por;pt:dre:563608:por"
+  },
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º",
+    "depois": "###### Artigo 14.º — Divisão de Protecção à Produção Vegetal\n\nA DPPV tem as competências referidas no n.º 2 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, sem prejuízo das atribuídas no n.º 2 do artigo 13.º-A à Estação Vitivinícola da Beira Litoral.\n\n> Alterado pelo/a [Decreto-Lei n.º 184/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1990-574931), publicado em 1990-06-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:419781:por",
+    "alterador": "pt:dre:574931:por;pt:dre:563608:por"
+  },
+  {
+    "artigo": "16.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 16.º — Núcleos de apoio administrativo\n\n1 - As divisões das zonas agrárias dispõem de núcleos de apoio administrativo, na dependência do respectivo chefe de zona, coadjuvado por um oficial administrativo, tendo como atribuições assegurar as tarefas de natureza administrativa, financeira e patrimonial necessárias ao desenvolvimento das actividades da zona agrária.\n\n2 - Atendendo à dispersão geográfica e complexidade das actividades desenvolvidas, os núcleos administrativos assumir-se-ão como secções administrativas nas zonas agrárias de Aveiro, de Viseu e da Bairrada, funcionando esta junto da Estação Vitivinícola da Beira Litoral.",
+    "depois": "###### Artigo 16.º — Núcleos de apoio administrativo\n\n1 - As divisões das zonas agrárias dispõem de núcleos de apoio administrativo, na dependência do respectivo chefe de zona, coadjuvado por um oficial administrativo, tendo como atribuições assegurar as tarefas de natureza administrativa, financeira e patrimonial necessárias ao desenvolvimento das actividades da zona agrária.\n\n2 - Atendendo à dispersão geográfica e complexidade das actividades desenvolvidas, os núcleos administrativos assumir-se-ão como secções administrativas nas Zonas Agrárias de Aveiro, Leiria, Viseu e da Bairrada, funcionando esta junto da Estação Vitivinícola da Beira Litoral.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 43/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1990-563608), publicado em 1990-12-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:419781:por",
+    "alterador": "pt:dre:574931:por;pt:dre:563608:por"
   }
 ]

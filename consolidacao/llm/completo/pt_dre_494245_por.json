@@ -1,0 +1,48 @@
+{
+  "id": "pt:dre:494245:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::7.º",
+      "epigrafe": "Critérios de elegibilidade das operações",
+      "texto": "1 - Podem beneficiar dos apoios previstos no presente Regulamento as operações que se enquadrem nos objectivos definidos no artigo 2.º e promovam a inovação através da cooperação entre os agentes da fileira, de acordo com a seguinte tipologia:\n\na) Concepção de novos produtos, processos e tecnologias;\n\nb) Adaptação evolutiva de processos e tecnologias;\n\nc) Realização de testes de aplicabilidade e operacionalização.\n\n2 - As operações referidas no número anterior devem apresentar impacte a curto ou médio prazo na competitividade do sector agro-florestal ou impacte a longo prazo se relacionadas com o ciclo de vida de povoamentos florestais, e reunir as seguintes condições:\n\na) Apresentar um plano de demonstração e incorporação de resultados com coerência técnica, económica e financeira, de forma integrada desde a concepção até à incorporação no produto ou sector e com uma duração anual ou plurianual;\n\nb) Identificar as empresas potenciais destinatárias dos resultados;\n\nc) Integrar a componente de divulgação ou demonstração de resultados pelos destinatários finais da operação;\n\nd) Assegurar as fontes de financiamento de capital alheio.\n\n3 - Não são elegíveis, para efeitos do presente Regulamento, as operações relativas a actividades de investigação fundamental.\n\n4 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem.\n\n5 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO::15.º",
+      "epigrafe": "Readmissão de pedidos de apoio",
+      "texto": "Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::19.º",
+      "epigrafe": "Análise dos pedidos de pagamento",
+      "texto": "1 - O secretariado técnico analisa os pedidos de pagamento e emite o relatório de análise, no prazo máximo de 30 dias úteis, a contar da data da apresentação dos pedidos.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.\n\n4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.\n\n5 - Para efeitos de pagamento ao beneficiário, o secretariado técnico comunica a validação da despesa ao IFAP, I. P.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO::21.º",
+      "epigrafe": "Controlo",
+      "texto": "1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.\n\n2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO::22.º",
+      "epigrafe": "Reduções e exclusões",
+      "texto": "Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis aos beneficiários as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Anexos I, II e III do Regulamento (alterados pelos alteradores 1, 2 e 3, e n.º 35 do anexo I revogado pelo artigo 38.º, n.º 24, do alterador 1) não constam do texto atual e o anexo II só vem como \"ver documento original\"; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, art. 29.º: artigos 6.º, 7.º, 9.º, 11.º, 12.º e 13.º já com a nova redação no texto atual; nada a mudar.",
+    "Alterador 1, art. 29.º: nova redação e epígrafe do artigo 15.º; aplicada.",
+    "Alterador 1: anexos ii e iii e revogação do n.º 35 do anexo i; não constam do texto atual, não aplicados.",
+    "Alterador 1, art. 38.º, n.º 24: revogação das alíneas c) e d) do artigo 6.º; já aplicada.",
+    "Alterador 2, art. 22.º: nova redação do n.º 4 do artigo 7.º, n.º 4 do artigo 19.º, artigo 21.º (n.os 1 e 2) e artigo 22.º; aplicadas. Anexo ii só em imagem, não aplicado.",
+    "Alterador 3, art. 10.º: altera o anexo I, que não consta do texto atual; não aplicado. Restantes artigos do alterador 3 dizem respeito a outros regulamentos; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

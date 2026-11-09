@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:606527:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Declaração de Rectificação n.º 210/94: rectifica o anexo I, parte B, n.º 1 («cálculo da arqueação líquida» passa a «cálculo da arqueação bruta e líquida»), mas o anexo I não consta do texto atual; não aplicada.",
+  "instrucoes": [
+    "Alterador 1: rectificação no anexo I, parte B, n.º 1; anexo ausente do texto atual, não aplicada.",
+    "Alterador 2 (DL 9/2011, art. 2.º): apenas remete para o original numa definição; não contém instrução de alteração."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

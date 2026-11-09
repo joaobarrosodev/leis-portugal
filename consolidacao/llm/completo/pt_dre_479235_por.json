@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:479235:por",
+  "artigos": [
+    {
+      "chave": "34.º",
+      "epigrafe": "",
+      "texto": "1. As questões entre senhorios e arrendatários ou entre parceiros serão decididas, com recurso para o tribunal da comarca, por uma comissão arbitral, composta pelo juízo municipal, que presidirá, por um representante dos serviços de agricultura, por um representante dos serviços a cargo de quem estiver o desenvolvimento agrário, por um representante dos proprietários da região e, conforme os casos, por um representante dos arrendatários ou parceiros cultivadores da região.\n\n2. As nomeações dos vogais serão da competência do governador, devendo o diploma regulamentar definir o processo de designação dos vogais representantes dos proprietários, arrendatários e parceiros cultivadores.\n\n3. Nas sedes de comarca a comissão arbitral será presidida pelo administrador do concelho.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 art. 1.º: adita o n.º 3 ao art. 34.º; aplicado.",
+    "Alt.1 art. 2.º: revoga a Portaria 22862 (outro diploma); ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

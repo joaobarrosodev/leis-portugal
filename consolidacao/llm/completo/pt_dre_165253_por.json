@@ -1,0 +1,52 @@
+{
+  "id": "pt:dre:165253:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::24.º",
+      "epigrafe": "Consulta à bolsa de emprego público",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::25.º",
+      "epigrafe": "Declaração de inexistência de pessoal em SME",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::26.º",
+      "epigrafe": "Abertura do procedimento de selecção para reinício de funções",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::28.º",
+      "epigrafe": "Candidatura do pessoal em SME a procedimentos concursais",
+      "texto": "1 - O pessoal em SME formaliza a sua candidatura a procedimentos concursais nos termos da lei aplicável.\n\n2 - Para os efeitos do disposto na subalínea ii) da alínea b) do n.º 2 do artigo 39.º da lei, a EGM coloca à disposição do serviço que procede à publicitação do procedimento concursal, no portal da bolsa de emprego público (BEP) e dentro do prazo previsto para a apresentação das candidaturas, a lista do pessoal considerado opositor obrigatório a esse procedimento.\n\n3 - Sem prejuízo do regime legal de acesso a dados pessoais, a EGM pode permitir que o serviço aceda a documentos disponíveis no sistema e exigidos para efeitos de admissão ou avaliação dos candidatos.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::29.º",
+      "epigrafe": "Selecção e recrutamento",
+      "texto": "1 - No prazo de 10 dias após o termo do prazo de recepção de candidaturas, o serviço que pretende recrutar pessoal deve comunicar à EGM, mediante o preenchimento de formulário electrónico próprio disponível no sistema, a identificação de todos os candidatos ao procedimento, sem prejuízo de aquele sistema poder vir a possibilitar a consulta, em tempo real, das candidaturas que vão sendo apresentadas.\n\n2 - No prazo de cinco dias após a respectiva ocorrência, o serviço deve comunicar à EGM, mediante o preenchimento de formulário electrónico próprio disponível no sistema, toda e qualquer situação de não comparência, desistência ou recusa verificada no decurso do procedimento de selecção.\n\n3 - No prazo de cinco dias após a decisão final relativamente a cada candidato em SME, o serviço que efectua o recrutamento deve comunicar tal decisão à EGM, mediante o preenchimento de formulário electrónico próprio disponível no sistema.\n\n4 - A EGM assegura, sucessivamente, através do sistema, a transmissão da informação referida nos n.os 2 e 3 às secretarias-gerais ou departamentos governamentais de recursos humanos a que o pessoal em causa esteja afecto.\n\n5 - O funcionário ou agente que não compareça, desista ou se recuse a participar nos procedimentos de selecção a que seja opositor obrigatório e pretenda justificar tal facto perante a secretaria-geral ou departamento governamental de recursos humanos a que se encontra afecto, pode fazê-lo mediante o preenchimento de formulário electrónico próprio disponível no sistema e a apresentação dos documentos comprovativos exigíveis.\n\n6 - Sem prejuízo do disposto no número anterior, o funcionário ou agente pode informar previamente os serviços referidos naquele dispositivo, mediante a utilização de formulário electrónico próprio disponível no sistema ou por outro meio, de qualquer situação que implique a sua previsível indisponibilidade para comparecer.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::53.º",
+      "epigrafe": "Concessão de licença extraordinária",
+      "texto": "1 - Para os efeitos do disposto no n.º 13 do artigo 32.º da lei, o trabalhador deve apresentar o requerimento na secretaria-geral ou departamento governamental de recursos humanos a que se encontra afecto.\n\n2 - O pedido pode ser efectuado mediante o preenchimento de formulário electrónico próprio disponível no sistema.\n\n3 - No prazo de cinco dias após o recebimento do pedido, os serviços mencionados no n.º 1 submetem-no à apreciação da EGM, mediante a utilização de formulário electrónico próprio disponível no sistema.\n\n4 - Após a recepção do parecer da EGM a que respeita o número anterior, os serviços referidos no n.º 1 devem submeter o pedido, devidamente informado e acompanhado do referido parecer, a decisão dos membros do Governo referidos no n.º 13 do artigo 32.º da lei.\n\n5 - Caso o pedido de concessão de licença extraordinária venha a ser deferido, os serviços referidos no n.º 1 devem promover a notificação do interessado daquela decisão, no prazo de cinco dias a contar do conhecimento da mesma, informando também a EGM do facto e da data de início da licença.\n\n6 - Após recepção da comunicação prevista no número anterior, a EGM procede à actualização dos registos relativos ao trabalhador em causa constantes do sistema, colocando-o na situação de licença extraordinária.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Art. 2.º, n.º 2, da Portaria n.º 182/2011 (referências a «procedimento de selecção» e a «funcionário ou agente» tidas por feitas a «procedimento concursal» e a «trabalhador»): regra de interpretação, não alteração textual; não aplicada ao texto.",
+  "instrucoes": [
+    "Art. 2.º, n.º 1: nova redação dos artigos 28.º (texto e epígrafe novos), 29.º (epígrafe nova, n.º 3 novo, restantes números '...' mantidos) e 53.º (epígrafe '[...]' mantida, n.os 1, 4 e 6 novos, restantes mantidos); aplicado.",
+    "Art. 2.º, n.º 2: remissão interpretativa geral; não aplicada (nao_aplicavel).",
+    "Art. 2.º, n.º 3: revogados os artigos 24.º a 26.º; um elemento '(Revogado.)' por artigo.",
+    "Art. 1.º e anexo da Portaria n.º 182/2011: regime próprio, não altera o texto do original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

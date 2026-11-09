@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:297028:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterações ao quadro de pessoal anexo (Decreto Regulamentar 2/79 art. 3.º; Portaria 26-B/80 n.º 4; Portarias 777/80, 121/82, 298/82 e 487/82): o quadro não consta do texto por artigos e os novos mapas só vêm em imagem. Suspensão dos arts. 37.º, 38.º, 56.º e 57.º (Decreto Regulamentar 2/79 art. 1.º) e prorrogação do art. 59.º (art. 2.º) não são alterações textuais.",
+  "instrucoes": [
+    "Decreto Regulamentar 2/79: suspende os arts. 37.º, 38.º, 56.º e 57.º, prolonga o regime do art. 59.º e altera letras do quadro; sem nova redação; não aplicado.",
+    "Portaria 26-B/80 n.º 4: substitui o quadro de pessoal (anexo IV, em imagem); não aplicado. Restantes números dizem respeito a outros serviços.",
+    "Portaria 777/80 n.º 3, Portaria 121/82, Portaria 298/82 e Portaria 487/82: aumentam o quadro de pessoal (mapas em imagem); não aplicado.",
+    "Decreto-Lei 331/81: mantém em vigor o diploma; sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

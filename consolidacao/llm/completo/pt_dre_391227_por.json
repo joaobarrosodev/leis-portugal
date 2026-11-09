@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:391227:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - O encargo resultante do contrato referido no artigo anterior não poderá, em cada ano, exceder as quantias seguintes:\n\nEm 1976 ... 3200000$00\n\nEm 1977 ... 7766000$00\n\nEm 1978 ... 6600000$00\n\nEm 1979 ... 5414000$00\n\n2 - À importância a despender nos anos de 1977, 1978 e 1979 acrescerá o saldo que eventualmente se apurar no ano anterior.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto 159/78, artigo único: nova redação do artigo 2.º; aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

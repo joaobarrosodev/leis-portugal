@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:592878:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 3 (Decreto-Lei n.º 19/2016), artigo 21.º: revoga o n.º 2.10 do anexo I e o n.º XIV do anexo II ao Regulamento Interno do Pessoal do INEM; esses anexos não constam do texto atual por artigos, pelo que a revogação não pode ser aplicada.",
+  "instrucoes": [
+    "Alterador 1 art. 16.º: mantém em vigor o Despacho Normativo n.º 46/2005 até à aprovação do regulamento de pessoal; não altera o texto.",
+    "Alterador 2: sem artigos transcritos; nada aplicado.",
+    "Alterador 3 art. 21.º: revoga o n.º 2.10 do anexo I e o n.º XIV do anexo II do Regulamento; anexos ausentes do texto, não aplicada (ver nao_aplicavel).",
+    "Alterador 3, restantes artigos: carreira especial de TEPH; não dirigidos ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

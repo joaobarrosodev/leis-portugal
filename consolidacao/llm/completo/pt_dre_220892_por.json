@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:220892:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 16/2013), art. 5.º, n.º 1, al. d): revoga os n.os 1 e 3 do artigo 12.º e o artigo 14.º do original 'na parte em que contrariem' o decreto-lei; revogação condicional, não aplicada ao texto.",
+    "Alterador 1, art. 5.º, n.º 2: revogação genérica das normas que contrariem o decreto-lei; condicional, não aplicada.",
+    "Alterador 1, art. 1.º, n.º 2, al. g): só menciona o original no âmbito de aplicação; não é instrução de alteração."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

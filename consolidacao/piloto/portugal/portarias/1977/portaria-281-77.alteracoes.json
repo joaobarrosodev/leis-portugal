@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n1. Enquanto frequentarem a Academia Militar, os alunos denominam-se cadetes-alunos, com excepção dos alunos admitidos como oficiais milicianos e dos alunos graduados nas condições referidas nos números seguintes deste artigo, os quais serão denominados por aspirantes a oficial, alferes ou tenentes-alunos, consoante a sua graduação.\n\n2. Os cadetes-alunos dos cursos cuja frequência na Academia Militar tenha a duração de quatro anos são graduados em aspirantes a oficial, no início do tirocínio, com data de 1 de Outubro, assim como os cadetes-alunos que frequentam cursos cuja duração de frequência na Academia seja igual ou superior a cinco anos.\n\n3. Os aspirantes a oficial aluno dos cursos cuja duração de frequência na Academia Militar seja igual a seis anos são graduados em alferes-alunos no dia 1 de Outubro do ano em que iniciam o 6.º ano do respectivo curso.\n\n4.º Findo o tirocínio com aproveitamento, os alunos a que se refere o n.º 2 deste artigo ingressam nos quadros permanentes com o posto de alferes, sendo a antiguidade no posto referida a 1 de Novembro do ano civil seguinte àquele em que tiver início o tirocínio.\n\n5. Findo o tirocínio com aproveitamento, os alunos a que se refere o n.º 3 deste artigo ingressam no quadro permanente com o posto de tenente, sendo a antiguidade no posto referida a 1 de Novembro do ano em que terminam o tirocínio.\n\n6. Os alunos dos cursos cuja duração de frequência na Academia Militar seja superior a seis anos são graduados nos postos correspondentes aos dos restantes cursos do mesmo ano de entrada na Academia, ingressando no quadro permanente imediatamente após o tirocínio com a antiguidade da data de graduação em tenente.",
+    "depois": "###### Artigo 5.º\n\n1. Enquanto frequentarem a Academia Militar, os alunos denominam-se cadetes-alunos, com excepção dos alunos admitidos como oficiais milicianos e dos alunos graduados nas condições referidas nos números seguintes deste artigo, os quais serão denominados por aspirantes a oficial, alferes ou tenentes-alunos, consoante a sua graduação.\n\n2. Os cadetes-alunos dos cursos cuja frequência na Academia Militar tenha a duração de quatro anos são graduados em aspirantes a oficial, no início do tirocínio, com data de 1 de Outubro, assim como os cadetes-alunos que frequentam cursos cuja duração de frequência na Academia seja igual ou superior a cinco anos.\n\n3. Os aspirantes a oficial aluno dos cursos cuja duração de frequência na Academia Militar seja igual a seis anos são graduados em alferes-alunos no dia 1 de Outubro do ano em que iniciam o 6.º ano do respectivo curso.\n\n4 - Findo o tirocínio com aproveitamento, os alunos a que se refere o n.º 2 deste artigo ingressam nos quadros permanentes com o posto de alferes, sendo a antiguidade no posto a da data do referido ingresso.\n\n5 - Findo o tirocínio com aproveitamento, os alunos a que se refere o n.º 3 deste artigo ingressam nos quadros permanentes com o posto de tenente, sendo a antiguidade no posto a da data do referido ingresso.\n\n6. Os alunos dos cursos cuja duração de frequência na Academia Militar seja superior a seis anos são graduados nos postos correspondentes aos dos restantes cursos do mesmo ano de entrada na Academia, ingressando no quadro permanente imediatamente após o tirocínio com a antiguidade da data de graduação em tenente.\n\n> Alterado pelo/a [Portaria n.º 140/80](https://diariodarepublica.pt/dr/detalhe/portaria/140-1980-677615), publicado em 1980-03-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:252004:por",
+    "alterador": "pt:dre:677615:por;pt:dre:392449:por"
+  },
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º\n\n1. Os alunos da Academia Militar estão sujeitos às leis, disciplina e regulamentos militares.\n\n2. De acordo com a natureza particular da Academia e da sua função educativa, é estabelecido um regime especial de recompensas e punições.",
+    "depois": "###### Artigo 11.º\n\n1. Os alunos da Academia Militar estão sujeitos às leis, disciplina e regulamentos militares.\n\n2. De acordo com a natureza particular da Academia e da sua função educativa, é estabelecido um regime especial de recompensas e punições.\n\n3 - O regime disciplinar definido neste capítulo é aplicável aos alunos desde a sua admissão na Academia Militar até ao seu ingresso no quadro permanente como oficiais, qualquer que seja a sua situação.\n\n> Alterado pelo/a [Portaria n.º 497/82](https://diariodarepublica.pt/dr/detalhe/portaria/497-1982-392449), publicado em 1982-05-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:252004:por",
+    "alterador": "pt:dre:677615:por;pt:dre:392449:por"
+  },
+  {
+    "artigo": "16.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 16.º\n\n1. O limite da competência disciplinar dos comandos da Academia Militar é o marcado no quadro anexo a este diploma, e que a seguir se discrimina:\n\na) Comandante da Academia Militar - coluna A;\n\nb) 2.os comandantes - coluna B;\n\nc) Comandante do Corpo de Alunos - coluna C;\n\nd) Comandante de batalhão - coluna D;\n\ne) Comandante de companhia - coluna E;\n\nf) Professores militares quando chefiando missões ou comandando destacamentos - coluna C.\n\n2. As decisões do comandante da Academia Militar, no que respeita à aplicação das penas previstas no artigo 13.º, são definitivas.\n\n3. As decisões de natureza disciplinar tomadas pelos 2.os comandantes, pelo comandante do Corpo de Alunos e pelos professores militares no exercício das funções indicadas na alínea f) deste artigo não carecem de homologação.",
+    "depois": "###### Artigo 16.º\n\n1 - A competência disciplinar dos oficiais da Academia Militar exercendo funções de comando sobre os alunos é a indicada no quadro anexo a este diploma.\n\n2 - Os oficiais das unidades, estabelecimentos ou órgãos militares que exerçam funções de comando, direcção ou chefia sobre os alunos da Academia Militar neles apresentados têm sobre estes a competência disciplinar indicada no quadro anexo, em correspondência com as funções de comando dos oficiais da Academia Militar.\n\n3 - A competência disciplinar fixa-se no posto que, organicamente, corresponde à função exercida, quando exista essa correspondência.\n\n4 - Os oficiais comandantes de destacamento ou chefes de missão da Academia Militar têm sobre os alunos que comandam ou chefiam a competência disciplinar correspondente ao seu posto.\n\n5 - Os oficiais subalternos, quando comandantes de destacamento ou chefes de missão, têm sobre os alunos que comandam ou chefiam a competência disciplinar correspondente ao posto de capitão.\n\n6 - O comandante da Academia Militar é a única entidade com a faculdade de atenuar, agravar ou substituir as penas escolares impostas aos alunos por entidades exteriores à Academia Militar.\n\n7 - As decisões do comandante da Academia Militar no que respeita à aplicação das penas previstas no artigo 13.º são definitivas.\n\n> Alterado pelo/a [Portaria n.º 497/82](https://diariodarepublica.pt/dr/detalhe/portaria/497-1982-392449), publicado em 1982-05-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:252004:por",
+    "alterador": "pt:dre:677615:por;pt:dre:392449:por"
+  }
+]

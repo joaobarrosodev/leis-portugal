@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "27.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 27.º\n\nOs lugares de chefe de secção serão preenchidos por promoção dos primeiros-oficiais, mediante qualificação de serviço, habilitações literárias e antiguidade.",
+    "depois": "###### Artigo 27.º\n\nOs lugares de chefe de secção são providos, mediante despacho do Governador, por promoção dos primeiros-oficiais dos Serviços de Educação do respectivo território, com boas informações na categoria e por ordem de antiguidade na mesma.\n\n> Alterado pelo/a [Decreto n.º 65/75](https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298), publicado em 1975-02-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:215774:por",
+    "alterador": "pt:dre:160298:por"
+  }
+]

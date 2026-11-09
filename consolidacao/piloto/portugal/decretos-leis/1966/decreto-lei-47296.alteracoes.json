@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nÉ o Ministro das Finanças autorizado a contrair empréstimos externos e internos para assegurar o financiamento de planos de fomento aprovados por lei na qual se preveja o recurso ao crédito, com dispensa das formalidades exigidas pelos Decretos-Leis n.os 42900, de 5 de Abril de 1960, e 46152, de 11 de Janeiro de 1965.",
+    "depois": "###### Artigo 1.º\n\nÉ o Ministro das Finanças autorizado a contrair empréstimos externos e internos para assegurar o financiamento de planos de fomento ou de despesas extraordinárias de reapetrechamento, aprovados por lei na qual se preveja o recurso ao crédito, com dispensa das formalidades exigidas pelos Decretos-Leis n.os 42900, de 5 de Abril de 1960, e 46152, de 11 de Janeiro de 1965.\n\n> Alterado pelo/a [Decreto-Lei n.º 49022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49022-1969-200845), publicado em 1969-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:478627:por",
+    "alterador": "pt:dre:200845:por"
+  }
+]

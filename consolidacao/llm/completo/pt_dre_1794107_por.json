@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:1794107:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Competições elegíveis",
+      "texto": "1 - As competições desportivas elegíveis no âmbito das federações desportivas nacionais referidas no artigo 1.º são as seguintes:\n\na) Campeonatos nacionais, divisões nacionais, fases regulares, intermédias e fases finais dos escalões sénior e júnior (escalão imediatamente abaixo do escalão sénior) e dos géneros masculino e feminino, relativamente às competições desportivas de natureza não profissional;\n\nb) Taça de Portugal ou uma competição equivalente por género masculino e feminino.\n\n2 - As competições desportivas elegíveis nos termos do número anterior são propostas no início da época por cada uma das federações desportivas nacionais referidas no artigo 1.º e validadas pelo Instituto Português do Desporto e Juventude, I. P. (IPDJ, I.P.).\n\n3 - O número máximo de competições desportivas elegíveis ao abrigo da alínea a) do n.º 1 por federação desportiva nacional, não pode ultrapassar seis, com exceção da federação desportiva nacional de futebol, caso em que não pode ultrapassar doze, considerando as disciplinas de futebol 11 e de futsal.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Comparticipação financeira",
+      "texto": "1 - A comparticipação financeira respeitante aos encargos com as deslocações por via aérea e/ou marítima indicadas na alínea a) do artigo 4.º, independentemente do local de início da viagem ou destino final nas Regiões Autónomas, corresponde ao valor das despesas apresentadas pela federação desportiva, com os limites máximos por deslocação constantes do Anexo I ao presente despacho, que do mesmo constitui parte integrante.\n\n2 - Para efeitos do disposto na alínea a) do artigo 4.º, é comparticipada uma deslocação aérea e/ou marítima por cada equipa desportiva de clube do território do continente, em cada fase da competição, com exceção da disciplina de futebol 11.\n\n3 - A comparticipação financeira respeitante aos encargos com as deslocações por via aérea e/ou marítima indicadas nas alíneas b) e c) do artigo 4.º, independentemente do local de início da viagem ou destino final nas Regiões Autónomas, corresponde ao valor das despesas apresentadas pela federação desportiva, com os seguintes limites máximos:\n\na) Deslocação entre as duas regiões autónomas - (euro) 285,00 por viagem ida-e-volta;\n\nb) Deslocação do continente para a Região Autónoma dos Açores ou no sentido inverso - (euro) 285,00 por viagem ida-e-volta;\n\nc) Deslocação do continente para a Região Autónoma da Madeira ou no sentido inverso - (euro) 237,50 por viagem ida-e-volta;\n\nd) Deslocação entre ilhas de uma mesma Região Autónoma - (euro) 190,00 por viagem ida-e-volta;\n\n4 - As competições desportivas devem ser organizadas com utilização da jornada dupla.\n\n5 - Excetuam-se do disposto no número anterior os casos de:\n\na) Competições desportivas da disciplina de futebol 11;\n\nb) Competições desportivas com a participação de apenas uma equipa de uma Região Autónoma;\n\nc) Competições desportivas por eliminatória.\n\n6 - A não utilização da jornada dupla, exceto nos casos do número anterior e quando devidamente justificado perante o IPDJ, I.P., determina a não concessão da comparticipação financeira respeitante aos encargos com a respetiva deslocação por via aérea e/ou marítima.\n\n7 - No caso de realização de jornada dupla, nos termos do n.º 4, é concedido um valor adicional de (euro) 60,00 por elemento da comitiva indicada no n.º 1 do artigo 7.º, até ao valor máximo do apoio estabelecido no Anexo I.\n\n8 - No caso de participação de equipas desportivas de clubes do território do continente em competições da disciplina de futebol 11 que incluam equipas desportivas de clubes das Regiões Autónomas, é concedido um valor adicional de (euro) 60,00 por elemento da comitiva indicada no n.º 1 do artigo 7.º no caso de ser necessária a estada, até ao valor máximo do apoio estabelecido no Anexo I.",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Elementos da comitiva",
+      "texto": "1 - As comitivas das equipas desportivas de clubes que disputam competições desportivas nas Regiões Autónomas, tal como referidas no artigo 4.º, são constituídas pelos praticantes desportivos, treinadores e, facultativamente, por elementos de apoio médico e dirigentes do clube.\n\n2 - O número máximo de árbitros ou juízes, por deslocação para participação em jogo ou conjunto de jogos é o que consta do anexo II do presente despacho, que do mesmo constitui parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Nova redação do anexo I (limites máximos de comparticipação) só disponível em imagem e o anexo não consta do texto atual; não aplicada.",
+  "instrucoes": [
+    "Art. 2.º do alterador 1: nova redação do n.º 3 do art. 3.º, dos n.os 7 e 8 do art. 5.º e do n.º 1 do art. 7.º — aplicadas.",
+    "Art. 2.º do alterador 1: anexo I em imagem — não aplicado.",
+    "Art. 4.º: republicação — ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

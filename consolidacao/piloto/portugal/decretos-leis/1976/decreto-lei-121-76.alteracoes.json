@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1. É abolida a exigência de avisos de recepção para as notificações em quaisquer processos, sendo contudo obrigatório o registo postal em todos os avisos e notificações, incluindo os relativos a preparos, multas e custas.\n\n2. O funcionário que emitir qualquer aviso ou notificação mencionará por escrito, no canto superior esquerdo do seu rosto ou do respectivo sobrescrito, o número e secção do processo, bem como a data do registo, assinando estas menções.\n\n3. Todas as notificações e avisos efectuados nos termos dos números anteriores se presumem feitos no terceiro dia posterior ao do registo ou no primeiro dia útil seguinte a esse, quando o não seja, não produzindo efeitos anteriores.\n\n4. A presunção do n.º 3 só pode ser ilidida pelo avisado ou notificado quando o facto da recepção do aviso ou notificação ocorra em data posterior à presumida, por razões que não lhe sejam imputáveis, requerendo no processo que seja requisitada aos correios informação sobre a data efectiva dessa recepção.",
+    "depois": "###### Artigo 1.º\n\n1. É abolida a exigência de avisos de recepção para as notificações em quaisquer processos, sendo contudo obrigatório o registo postal em todos os avisos e notificações, incluindo os relativos a preparos, multas e custas.\n\n2. O funcionário que emitir qualquer aviso ou notificação mencionará por escrito, no canto superior esquerdo do seu rosto ou do respectivo sobrescrito, o número e secção do processo, bem como a data do registo, assinando estas menções.\n\n3 - Todas as notificações e avisos efectuados nos termos dos números anteriores presumem-se feitos no quinto dia posterior ao do registo, ainda que não seja dia útil, contando-se como um só qualquer prazo que se siga àquele quinto dia.\n\n4. A presunção do n.º 3 só pode ser ilidida pelo avisado ou notificado quando o facto da recepção do aviso ou notificação ocorra em data posterior à presumida, por razões que não lhe sejam imputáveis, requerendo no processo que seja requisitada aos correios informação sobre a data efectiva dessa recepção.\n\n> Alterado pelo/a [Lei n.º 3/83](https://diariodarepublica.pt/dr/detalhe/lei/3-1983-311375), publicado em 1983-02-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:506793:por",
+    "alterador": "pt:dre:311375:por"
+  }
+]

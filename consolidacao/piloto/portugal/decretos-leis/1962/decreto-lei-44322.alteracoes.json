@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "único",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo único\n\nO quadro orgânico das Oficinas Gerais de Material de Engenharia (mapa IV), anexo ao [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, nos termos do seu artigo 28.º, é substituído pelo quadro orgânico publicado em anexo ao presente diploma.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 3 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nMAPA IV\n\nOficinas Gerais de Material de Engenharia\n\nQuadro orgânico\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/05/10000/06330635.pdf)\n\nMinistério do Exército, 3 de Maio de 1962. - O Ministro do Exército, Mário José Pereira da Silva.",
+    "depois": "###### Artigo único\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 167/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2014-58763441), publicado em 2014-11-06.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 3 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nMAPA IV\n\nOficinas Gerais de Material de Engenharia\n\nQuadro orgânico\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/05/10000/06330635.pdf)\n\nMinistério do Exército, 3 de Maio de 1962. - O Ministro do Exército, Mário José Pereira da Silva.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:140540:por",
+    "alterador": "pt:dre:58763441:por"
+  }
+]

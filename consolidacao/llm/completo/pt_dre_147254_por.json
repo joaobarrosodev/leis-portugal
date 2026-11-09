@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:147254:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Lei 53/2006 art. 49.º a) revoga a Lei n.º 1/95 apenas 'no que se refere ao quadro de afectação e ao regime aplicável ao respectivo pessoal' — revogação parcial por matéria, sem alvo textual seguro; art. 47.º só remete para a lei. Não aplicado.",
+  "instrucoes": [
+    "Lei 53/2006 art. 47.º: reafeta pessoal dos quadros criados ao abrigo da lei — não altera o texto",
+    "Lei 53/2006 art. 49.º a): revogação parcial por matéria — não aplicada ao texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

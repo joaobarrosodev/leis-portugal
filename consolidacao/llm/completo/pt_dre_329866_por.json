@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:329866:por",
+  "artigos": [
+    {
+      "chave": "17.º",
+      "epigrafe": "(Pessoal administrativo)",
+      "texto": "1 - Os diplomas a publicar relativos ao pessoal administrativo deverão ter na devida consideracão as seguintes regras:\n\na) O ingresso far-se-á pela categoria de terceiro-oficial com o curso geral do ensino secundário ou equiparado;\n\nb) A carreira desenvolver-se-á pelas categorias de terceiro-oficial, segundo-oficial e primeiro-oficial, a que corresponderão, respectivamente, as letras M, L e J, ficando condicionado o acesso à categoria imediatamente superior à prestação de três anos de bom e efectivo serviço em cada categoria funcional.\n\n2 - Para efeitos do ingresso na carreira referida no número anterior, terão preferência os escriturários-dactilógrafos que possuam as habilitações fixadas na alínea a) do mesmo número.\n\n3 - Os actuais escriturários-dactilógrafos que não possuam a habilitação referida na alínea a) do n.º 1 não poderão ascender a categoria superior a segundo-oficial enquanto não possuírem aquelas habilitações.\n\n4 - É autonomizada a carreira de escriturário-dactilógrafo, que se desenvolverá de harmonia com as seguintes regras:\n\na) A habilitação mínima exigível para efeitos de ingresso é a escolaridade obrigatória;\n\nb) A carreira desenvolver-se-á pelas categorias de escriturário-dactilógrafo de 2.ª classe, 1.ª classe e principal, a que corresponderão, respectivamente, as letras S, Q e N.\n\nc) A mudança de classe fica condicionada à prestação de cinco anos na classe anterior, com bom e efectivo serviço.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do art. 17.º; só muda a alínea b) do n.º 4 (o resto vem com '...'); aplicado.",
+    "Alterador 1, art. 2.º: entrada em vigor; não altera o texto.",
+    "Alterador 2, arts. 1.º a 16.º: regime próprio do pessoal dirigente e adaptações do Decreto-Lei n.º 323/89; não são instruções textuais dirigidas ao original.",
+    "Alterador 2, art. 17.º, a): revoga o original 'no que respeita aos cargos previstos no presente diploma' — revogação parcial por matéria, sem artigos identificados; não aplicada ao texto.",
+    "Alterador 2, art. 17.º, b): revoga outro diploma (Decreto Regional n.º 25/79/M); ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:139938:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "A Secretaria Regional dos Transportes e Turismo tem as seguintes Direcções Regionais:\n\na) Direcção Regional dos Transportes Terrestres;\n\nb) Direcção Regional de Portos e Transportes Marítimos;\n\nc) Direcção Regional dos Transportes Aéreos;\n\nd) Direcção Regional de Turismo.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DRR 9/79/A, art. 1.º: nova redação do art. 1.º; aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "pt:dre:419781:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Órgãos e serviços",
+      "texto": "A DRABL compreende os seguintes órgãos e serviços:\n\n1) Órgãos:\n\na) Director regional;\n\nb) Conselho Regional Agrário (CRA);\n\nc) Conselho Técnico Regional (CTR);\n\nd) Conselho Administrativo (CA);\n\n2) Serviços de apoio técnico e administrativo:\n\na) Gabinete de Planeamento Agrário Regional (GAPAR);\n\nb) Direcção de Serviços de Administração (DSA);\n\nc) Divisão de Informação de Contabilidades Agrícolas (DICA);\n\nd) Divisão de Informação de Mercados Agrícolas (DIMA);\n\ne) Núcleo de Organização e Informática (NOI);\n\n3) Serviços operativos de âmbito regional:\n\na) Direcção de Serviços de Extensão (DSE);\n\nb) Direcção de Serviços de Experimentação e Fomento da Produção Agro-Pecuária (DSEFPAP);\n\nc) Direcção de Serviços de Protecção à Produção Animal (DSPPA);\n\nd) Direcção de Serviços de Apoio às Estruturas (DSAE);\n\ne) Direcção de Serviços de Vitivinicultura (DSV);\n\nf) Divisão de Protecção à Produção Vegetal (DPPV);\n\n4) Serviços operativos de âmbito local:\n\nDivisão da Zona Agrária.",
+      "alterador": 4
+    },
+    {
+      "chave": "13.º-A",
+      "epigrafe": "Direcção de Serviços de Vitivinicultura",
+      "texto": "1 - A DSV tem as competências referidas nas alíneas a), b), c), j) e l) do n.º 1, alínea a) do n.º 2, alíneas a) e b) do n.º 4 e alínea i) do n.º 5 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, na parte aplicável à vitivinicultura, e compreende as seguintes divisões:\n\na) Estação Vitivinícola da Beira Litoral;\n\nb) Centro de Estudos Vitivinícolas do Dão.\n\n2 - À Estação Vitivinícola da Beira Litoral compete:\n\na) Assegurar o estudo e promover a implementação de medidas destinadas ao desenvolvimento e melhoria da produção de vinhos, incluindo os referentes à reconversão e ao condicionamento da vinha;\n\nb) Assegurar o estudo dos processos de fabrico e conservação dos vinhos e promover a divulgação das suas características;\n\nc) Promover o aproveitamento dos subprodutos da vinificação;\n\nd) Promover o fornecimento de material de propagação vegetativo com garantia varietal e sanitária;\n\ne) Assegurar a gestão das unidades experimentais da DRABL, no âmbito da vitivinicultura;\n\nf) Colaborar na manutenção e controlo da qualidade dos vinhos e no levantamento do cadastro vitícola.\n\n3 - Ao Centro de Estudo Vitivinícolas do Dão, na área específica da sua actuação, compete:\n\na) Assegurar o estudo e promover a implementação de medidas destinadas ao desenvolvimento e melhoria da produção de vinhos, incluindo os referentes à reconversão e ao condicionamento da vinha;\n\nb) Assegurar o estudo dos processos de fabrico e conservação de vinhos e promover a divulgação das suas características;\n\nc) Promover o aproveitamento dos subprodutos da vinificação;\n\nd) Promover o fornecimento de material de propagação vegetativo com garantia varietal e sanitária;\n\ne) Assegurar a gestão das unidades experimentais da DRABL, no âmbito da vitivinicultura;\n\nf) Colaborar na manutenção e controlo da qualidade dos vinhos e no levantamento do cadastro vitícola.",
+      "alterador": 4
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Divisão de Protecção à Produção Vegetal",
+      "texto": "A DPPV tem as competências referidas no n.º 2 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, sem prejuízo das atribuídas no n.º 2 do artigo 13.º-A à Estação Vitivinícola da Beira Litoral.",
+      "alterador": 4
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Núcleos de apoio administrativo",
+      "texto": "1 - As divisões das zonas agrárias dispõem de núcleos de apoio administrativo, na dependência do respectivo chefe de zona, coadjuvado por um oficial administrativo, tendo como atribuições assegurar as tarefas de natureza administrativa, financeira e patrimonial necessárias ao desenvolvimento das actividades da zona agrária.\n\n2 - Atendendo à dispersão geográfica e complexidade das actividades desenvolvidas, os núcleos administrativos assumir-se-ão como secções administrativas nas Zonas Agrárias de Aveiro, Leiria, Viseu e da Bairrada, funcionando esta junto da Estação Vitivinícola da Beira Litoral.",
+      "alterador": 6
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterações ao quadro de pessoal (mapa anexo I) feitas pelos alteradores 1, 2, 3, 4 (art. 5.º), 5, 6 (art. 7.º), 7, 8, 9, 10 e 11: o mapa só vem em imagem e as criações de lugares não são alterações textuais aos artigos. Alterador 12 (DR 12/2007) não contém instrução textual dirigida ao original.",
+  "instrucoes": [
+    "Alt. 1-3, 5, 7-11: criação/alteração de lugares no quadro de pessoal (mapa anexo I em imagem): não aplicável ao texto.",
+    "Alt. 4 art. 2.º: art. 3.º, n.º 3), novas alíneas e) DSV e f) DPPV; restante mantido.",
+    "Alt. 4 art. 2.º: nova redação do art. 14.º (Divisão de Protecção à Produção Vegetal).",
+    "Alt. 4 art. 3.º: aditado art. 13.º-A.",
+    "Alt. 4 art. 4.º: revoga alínea c) do n.º 1 e n.º 4 do art. 11.º: já constam do texto atual, sem mudança.",
+    "Alt. 4 art. 5.º: mapa anexo I alterado (imagem): não aplicável.",
+    "Alt. 6 art. 4.º: altera DR 63/86, outro diploma: ignorado.",
+    "Alt. 6 art. 5.º: nova redação do n.º 2 do art. 16.º; n.º 1 mantido.",
+    "Alt. 12: reestruturação das DRAP sem instrução textual ao original: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

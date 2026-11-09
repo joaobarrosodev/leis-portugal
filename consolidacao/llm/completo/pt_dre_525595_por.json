@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:525595:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:\n\n1969 ... 3000000$00\n\n1970 ... 1605726$70\n\n§ único. A importância fixada para o ano de 1970 será acrescida do saldo eventualmente apurado no ano anterior.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova distribuição dos encargos do art. 2.º e novo § único; aplicada, corpo introdutório mantido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

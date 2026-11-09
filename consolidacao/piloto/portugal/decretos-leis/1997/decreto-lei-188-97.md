@@ -28,55 +28,27 @@ Nos termos do n.º 2 do artigo 201.º da Constituição, o Governo decreta o seg
 
 ###### Artigo 1.º — Natureza e objectivos
 
-A Fundação para a Ciência e a Tecnologia (FCT), é um instituto público dotado de autonomia administrativa e financeira, com atribuições nos domínios da promoção, financiamento, acompanhamento e avaliação de instituições, programas e projectos de ciência e tecnologia e da formação e qualificação dos recursos humanos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ###### Artigo 2.º — Superintendência
 
-A FCT está sujeita à superintendência do Ministro da Ciência e da Tecnologia, que abrange a determinação do enquadramento geral em que se deve desenvolver a sua actividade e das linhas prioritárias da sua actuação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ###### Artigo 3.º — Tutela
 
-A FCT está sujeita à tutela de mérito e de legalidade do Ministro da Ciência e da Tecnologia, a qual compreende:
+(Revogado.)
 
-a) A aprovação dos projectos de orçamento e respectivas alterações;
-
-b) A aprovação dos planos de actividades anuais e plurianuais, bem como do relatório anual de actividades;
-
-c) A aprovação da política geral de preços dos serviços prestados;
-
-d) A aprovação da participação da FCT em sociedades, associações, fundações e outras entidades;
-
-e) A aprovação dos actos de aquisição, oneração ou alienação de bens imóveis;
-
-f) A fiscalização do funcionamento da FCT;
-
-g) A prática dos actos cuja realização resulte de obrigação imposta por lei ou por compromisso internacional e que hajam sido omitidos pelos órgãos ou serviços da FCT;
-
-h) A apreciação e decisão dos recursos cuja interposição para o Ministro da Ciência e da Tecnologia esteja prevista na lei.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ###### Artigo 4.º — Atribuições
 
-1 - São atribuições da FCT:
+(Revogado.)
 
-a) Promover a realização de programas e projectos nos domínios da investigação científica e do desenvolvimento tecnológico;
-
-b) Financiar ou co-financiar os programas e projectos aprovados e acompanhar a respectiva execução;
-
-c) Promover a criação de infra-estruturas de apoio às actividades de investigação científica e de desenvolvimento tecnológico;
-
-d) Financiar ou co-financiar acções de formação e qualificação de investigadores, nomeadamente através da atribuição de bolsas de estudo no País e no estrangeiro e de subsídios de investigação;
-
-e) Celebrar contratos-programas ou protocolos e atribuir subsídios a instituições que promovam ou se dediquem à investigação científica ou ao desenvolvimento tecnológico;
-
-f) Avaliar a actividade da ciência e da tecnologia nacional sob todas as suas formas;
-
-g) Promover acções tendentes a que o interesse e o gosto pelas actividades da ciência e da tecnologia se generalizem e aprofundem, em especial através da difusão e da divulgação do conhecimento científico e técnico e do ensino da ciência e a tecnologia;
-
-h) Subsidiar conferências, colóquios, jornadas, seminários, encontros e, em geral, quaisquer projectos, programas ou eventos de interesse científico ou tecnológico, conceder apoio financeiro a publicações científicas e apoiar a concessão de prémios e outras recompensas por acções de mérito científico;
-
-i) Propor ao Ministro da Ciência e da Tecnologia o reconhecimento da actividade de entidades públicas ou privadas como de interesse científico ou tecnológico.
-
-2 - Para o exercício das suas atribuições, a FCT pode participar em sociedades, associações, fundações e outras entidades, bem como receber doações, heranças, legados e subsídios.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ### CAPÍTULO II — Órgãos e serviços
 
@@ -84,35 +56,15 @@ i) Propor ao Ministro da Ciência e da Tecnologia o reconhecimento da actividade
 
 ###### Artigo 5.º — Órgãos
 
-São órgãos da FCT:
+(Revogado.)
 
-a) O conselho directivo;
-
-b) Os conselhos científicos;
-
-c) O conselho coordenador;
-
-d) A comissão de fiscalização.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ###### Artigo 6.º — Serviços
 
-São serviços da FCT:
+(Revogado.)
 
-a) A Direcção de Serviços de Formação dos Recursos Humanos;
-
-b) A Direcção de Serviços de Programas e Projectos;
-
-c) A Direcção de Serviços de Apoio às Instituições Científicas e Tecnológicas;
-
-d) A Direcção de Serviços de Difusão da Cultura Científica e Tecnológica;
-
-e) A Direcção de Serviços de Gestão e Administração;
-
-f) A Direcção de Serviços de Informação e Documentação;
-
-g) A Divisão de Apoio Jurídico;
-
-h) A Divisão de Apoio Informático.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 #### SECÇÃO II — Órgãos
 
@@ -120,97 +72,29 @@ h) A Divisão de Apoio Informático.
 
 ###### Artigo 7.º — Conselho directivo
 
-1 - O conselho directivo é constituído por um presidente e dois vice-presidentes, equiparados, respectivamente, a director-geral e a subdirector-geral.
+(Revogado.)
 
-2 - Quando a sua escolha recair em professor catedrático ou investigador-coordenador de nomeação definitiva, o presidente e os vice-presidentes auferem, respectivamente, a remuneração correspondente à de reitor e vice-reitor de universidade pública.
-
-3 - A FCT obriga-se mediante a assinatura de dois membros do conselho directivo, sendo obrigatória a do seu presidente ou de quem o substituir.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ###### Artigo 8.º — Competência
 
-Compete ao conselho directivo:
+(Revogado.)
 
-a) Dirigir as actividades da FCT;
-
-b) Decidir sobre os apoios a instituições, programas e projectos de ciência e tecnologia e acções de formação e qualificação de recursos humanos, no quadro dos planos aprovados superiormente, e submeter a homologação do Ministro da Ciência e da Tecnologia as propostas sobre as mesmas matérias que não estejam previstas nos mencionados planos;
-
-c) Decidir sobre, ou submeter a homologação, nos termos referidos na alínea anterior, a criação de infra-estruturas de apoio às actividades de investigação científica e desenvolvimento tecnológico no quadro dos planos aprovados superiormente;
-
-d) Decidir sobre, ou submeter a homologação, nos termos referidos na alínea b), a atribuição de subsídios e outras formas de apoio financeiro a eventos de interesse científico e tecnológico e publicações científicas e sobre o apoio à concessão de prémios e outras recompensas por acções de mérito científico;
-
-e) Aprovar os regulamentos internos necessários ao funcionamento da FCT;
-
-f) Aprovar os projectos de orçamento e respectivas alterações, a submeter a aprovação tutelar;
-
-g) Aprovar, ouvido o conselho coordenador, os projectos de planos anuais e plurianuais de actividades e o relatório anual de actividades, a submeter a aprovação tutelar;
-
-h) Aprovar a conta de gerência e remetê-la ao Tribunal de Contas;
-
-i) Aprovar os documentos de prestação de contas previstos na lei e promover o seu encaminhamento;
-
-j) Autorizar a realização de despesas e zelar pela cobrança e arrecadação de receitas;
-
-l) Submeter a aprovação tutelar as aquisições, onerações e alienações de bens imóveis;
-
-m) Autorizar as aquisições, onerações e alienações de quaisquer direitos, com ressalva do disposto na alínea anterior;
-
-n) Aceitar doações, heranças, legados e subsídios, com ressalva do disposto na alínea l);
-
-o) Gerir os fundos de origem nacional e internacional, designadamente comunitária, atribuídos à FCT;
-
-p) Praticar todos os actos necessários à prossecução das atribuições da FCT que não sejam da competência de outros órgãos;
-
-q) Exercer as competências que lhe sejam delegadas pelo Ministro da Ciência e da Tecnologia.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ###### Artigo 9.º — Presidente
 
-1 - Compete ao presidente:
+(Revogado.)
 
-a) Convocar, presidir e dirigir as reuniões do conselho directivo e do conselho coordenador;
-
-b) Zelar pela execução das deliberações dos órgãos da FCT;
-
-c) Representar a FCT para todos os efeitos legais;
-
-d) Exercer as competências que lhe forem delegadas pelo Ministro da Ciência e da Tecnologia e pelo conselho directivo.
-
-2 - O presidente é substituído, nas suas faltas e impedimentos, pelo vice-presidente por si designado.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ##### SUBSECÇÃO II — Conselhos científicos
 
 ###### Artigo 10.º — Conselhos científicos
 
-1 - No quadro da FCT funcionam seis conselhos científicos de natureza consultiva, cujo âmbito de actuação é referido a áreas científicas diferenciadas, a definir por portaria do Ministro da Ciência e da Tecnologia.
+(Revogado.)
 
-2 - Aos conselhos científicos compete promover na respectiva área científica, sem prejuízo da competência própria do conselho directivo:
-
-a) A identificação de programas e projectos de investigação científica e desenvolvimento tecnológico, a determinação das respectivas necessidades de financiamento, bem como o acompanhamento da execução dos que vierem a ser concretizados;
-
-b) A avaliação das candidaturas a financiamentos de programas e projectos de investigação científica e desenvolvimento tecnológico, concedidos no quadro das atribuições da FCT, bem como o acompanhamento da respectiva execução;
-
-c) A avaliação das candidaturas ao financiamento de acções de formação e qualificação de investigadores e das correspondentes implicações financeiras, a materializar, nomeadamente, através da concessão de bolsas de estudo e de subsídios de investigação;
-
-d) A avaliação de candidaturas a financiamentos de instituições científicas e tecnológicas, bem como o acompanhamento da execução dos contratos-programas e outro tipo de acordos celebrados com as instituições financiadas;
-
-e) A propositura das modalidades de financiamento plurianual das instituições;
-
-f) O levantamento das necessidades em matéria de infra-estruturas de apoio às actividades de investigação científica e desenvolvimento tecnológico;
-
-g) A identificação da oportunidade de celebração de contratos-programas, protocolos e outro tipo de acordos com instituições nacionais, estrangeiras ou internacionais;
-
-h) A propositura da criação de novas instituições científicas ou reforma das existentes;
-
-i) A propositura de criação ou reformulação dos instrumentos de política científica relevantes;
-
-j) O estudo das formas mais apropriadas de estimular, junto da população, o gosto pelas actividades científicas e tecnológicas;
-
-l) A propositura da concessão de subsídios e outros apoios financeiros a eventos de interesse científico e tecnológico e publicações científicas, bem como de apoios a prémios e outras recompensas por acções de mérito científico;
-
-m) A propositura das linhas prioritárias de actuação da FCT.
-
-3 - Cada um dos conselhos científicos reportará o resultado da sua actividade, desenvolvida nos termos do número anterior, ao conselho directivo, sob a forma, consoante os casos, de pareceres, estudos ou recomendações.
-
-4 - Por despacho, podem ser constituídas comissões científicas eventuais, de duração limitada, sempre que necessidades de coordenação científica e tecnológica específicas o justifiquem.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ###### Artigo 11.º — Composição e funcionamento
 
@@ -232,57 +116,29 @@ m) A propositura das linhas prioritárias de actuação da FCT.
 
 ###### Artigo 12.º — Conselho coordenador
 
-1 - Ao conselho coordenador compete promover a articulação entre os diferentes órgãos e serviços da FCT, incumbindo-lhe, para o efeito, emitir pareceres sobre as seguintes matérias:
+(Revogado.)
 
-a) Linhas de orientação e domínios prioritários da actividade da FCT, tomando como base a informação canalizada pelos conselhos científicos;
-
-b) Planos de actividade anuais e plurianuais e relatório anual de actividades;
-
-c) Formas mais eficazes de assegurar a articulação entre os diferentes órgãos e serviços da FCT e entre esses e a comunidade científica e tecnológica;
-
-d) Gestão, tratamento e difusão da informação processada pelos diferentes órgãos e serviços da FCT.
-
-2 - Os pareceres referidos no número anterior são dirigidos ao conselho directivo.
-
-3 - No âmbito das suas competências em matéria de coordenação dos órgãos e serviços da FCT, o conselho coordenador submete ao conselho directivo os projectos de regulamentos internos necessários ao funcionamento da FCT.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ###### Artigo 13.º — Composição e funcionamento
 
-1 - O conselho coordenador é composto pelo presidente, vice-presidentes e directores dos serviços da FCT e pelos presidentes dos conselhos científicos.
+(Revogado.)
 
-2 - Em moldes a definir por despacho do Ministro da Ciência e da Tecnologia, os presidentes das comissões científicas eventuais podem ser chamados a participar nos trabalhos do conselho coordenador.
-
-3 - O conselho coordenador reúne-se ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo seu presidente, por iniciativa própria ou a solicitação de qualquer dos seus membros.
-
-4 - O conselho coordenador delibera por maioria simples, tendo o presidente voto de qualidade.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ##### SUBSECÇÃO IV — Comissão de fiscalização
 
 ###### Artigo 14.º — Comissão de fiscalização
 
-1 - A comissão de fiscalização é composta por três membros, designados por despacho conjunto dos Ministros das Finanças e da Ciência e da Tecnologia.
+(Revogado.)
 
-2 - O mandato da comissão de fiscalização tem a duração de três anos, renovável, continuando, porém, a exercer funções até à sua efectiva substituição.
-
-3 - Os membros da comissão de fiscalização têm direito, por cada reunião em que participarem, à percepção de senhas de presença de montante a fixar por despacho conjunto dos Ministros das Finanças e da Ciência e da Tecnologia e do membro do Governo que tiver a seu cargo a Administração Pública.
-
-4 - A comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocada pelo seu presidente, por iniciativa própria ou a solicitação de qualquer dos seus membros.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ###### Artigo 15.º — Competência
 
-À comissão de fiscalização compete velar pelo cumprimento das normas legais e regulamentares aplicáveis à FCT e, em especial:
+(Revogado.)
 
-a) Examinar periodicamente a contabilidade da FCT e seguir, através de informações adequadas, a sua evolução;
-
-b) Acompanhar a execução dos planos de actividades e dos orçamentos;
-
-c) Pronunciar-se e emitir parecer sobre os instrumentos de gestão referidos no artigo 29.º;
-
-d) Emitir parecer sobre a aquisição, alienação ou oneração de bens imóveis;
-
-e) Pronunciar-se sobre quaisquer questões que lhe sejam submetidas pelos órgãos da FCT ou por sua iniciativa em matéria de gestão económico-financeira;
-
-f) Participar às entidades competentes as irregularidades que detectar.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 #### SECÇÃO III — Serviços
 
@@ -290,161 +146,71 @@ f) Participar às entidades competentes as irregularidades que detectar.
 
 ###### Artigo 16.º — Direcção de Serviços de Formação dos Recursos Humanos
 
-Compete à Direcção de Serviços de Formação dos Recursos Humanos:
+(Revogado.)
 
-a) Assegurar a gestão corrente das acções de formação e qualificação de recursos humanos na área da ciência e da tecnologia promovidas no âmbito das competências da FCT;
-
-b) Promover as tarefas necessárias aos trabalhos de avaliação de candidaturas a financiamentos de acções de formação e qualificação de investigadores desenvolvidos pelos conselhos científicos, realizando para o efeito os estudos adequados;
-
-c) Realizar as tarefas necessárias ao acompanhamento pelos conselhos científicos de acções de formação e qualificação financiadas e co-financiadas pela FCT, realizando para o efeito os estudos adequados;
-
-d) Promover a articulação entre os programas de formação desenvolvidos no âmbito da FCT e de outras instituições;
-
-e) Promover a participação da comunidade científica e tecnológica nacional em reuniões de cariz científico e apoiar a realização desses eventos no País.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ##### SUBSECÇÃO II — Direcção de Serviços de Programas e Projectos
 
 ###### Artigo 17.º — Direcção de Serviços de Programas e Projectos
 
-Compete à Direcção de Serviços de Programas e Projectos:
+(Revogado.)
 
-a) Assegurar a gestão corrente dos programas e projectos de investigação científica e desenvolvimento tecnológico apoiados e financiados pela FCT;
-
-b) Promover as acções necessárias aos trabalhos de avaliação de candidaturas a financiamentos de programas e projectos de investigação científica e desenvolvimento tecnológico desenvolvidos pelos conselhos científicos, realizando, para o efeito, os estudos adequados;
-
-c) Realizar as tarefas necessárias ao acompanhamento pelos conselhos científicos dos programas e projectos de investigação científica e desenvolvimento tecnológico financiados ou co-financiados pela FCT, realizando para o efeito os estudos adequados;
-
-d) Promover a articulação dos programas e projectos financiados pela FCT com os participados por outras instituições.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ##### SUBSECÇÃO III — Direcção de Serviços de Apoio às Instituições Científicas e Tecnológicas
 
 ###### Artigo 18.º — Direcção de Serviços de Apoio às Instituições Científicas e Tecnológicas
 
-Compete à Direcção de Serviços de Apoio às Instituições Científicas e Tecnológicas:
+(Revogado.)
 
-a) Assegurar a gestão corrente dos apoios a instituições concedidos pela FCT;
-
-b) Promover as acções necessárias aos trabalhos de avaliação, pelos conselhos científicos, das candidaturas de instituições científicas a apoios a conceder pela FCT, nomeadamente aqueles que se concretizarão mediante a celebração de contratos-programas, realizando para o efeito os estudos adequados;
-
-c) Realizar os estudos necessários às deliberações relativas ao financiamento plurianual das instituições;
-
-d) Realizar as tarefas necessárias ao acompanhamento pelos conselhos científicos das instituições apoiadas pela FCT, realizando para o efeito os estudos adequados;
-
-e) Promover a articulação dos apoios a instituições científicas concedidos pela FCT com os participados por outras instituições.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ##### SUBSECÇÃO IV — Direcção de Serviços de Difusão da Cultura Científica e Tecnológica
 
 ###### Artigo 19.º — Direcção de Serviços de Difusão da Cultura Científica e Tecnológica
 
-1 - Compete à Direcção de Serviços de Difusão da Cultura Científica e Tecnológica:
+(Revogado.)
 
-a) Promover a difusão nacional e internacional da cultura científica e tecnológica produzida em Portugal, sem prejuízo das competências do Observatório das Ciências e das Tecnologias;
-
-b) Assegurar a ligação a bases de dados nacionais e internacionais de informação científica e tecnológica que se revelem importantes para a prossecução dos objectivos de difusão e divulgação do conhecimento científico e tecnológico;
-
-c) Promover as melhores formas de facultação à comunidade científica e tecnológica e ao público em geral das fontes de informação disponíveis na FCT;
-
-d) Promover a edição de trabalhos de investigação e divulgação científica que pela sua relevância o mereçam, designadamente os resultantes de acções de formação e qualificação, programas e projectos financiados ou co-financiados pela FCT;
-
-e) Colaborar em catálogos colectivos nacionais, estrangeiros e de organizações internacionais;
-
-f) Promover a realização de congressos, seminários, colóquios e encontros da mesma natureza nos domínios científico e tecnológico;
-
-g) Promover a realização de exposições, mostras e iniciativas da mesma natureza no âmbito da divulgação do conhecimento científico e tecnológico;
-
-h) Promover a constituição de uma mediateca especializada nas áreas científica e tecnológica;
-
-i) Promover e participar no desenvolvimento de estruturas, redes e sistemas de informação científica e tecnológica, a nível nacional e internacional, que se revelem importantes para a prossecução dos objectivos de difusão e divulgação do conhecimento científico e tecnológico;
-
-j) Acompanhar e promover a aplicação de novas tecnologias ao tratamento e difusão da informação científica e tecnológica, procedendo, nomeadamente, e em articulação com a Divisão de Apoio Informático, à constituição, gestão e desenvolvimento das bases de dados em matéria científica e tecnológica que se revelem importantes para a prossecução dos objectivos de difusão e divulgação do conhecimento científico e tecnológico;
-
-l) Avaliar e financiar acções de divulgação científica e tecnológica e instituições, públicas e privadas, que promovam a difusão da cultura científica e tecnológica.
-
-2 - A FCT pode criar, com outras entidades, uma agência especializada para a difusão da cultura científica e tecnológica, assegurando o director de serviços de Difusão da Cultura Científica e Tecnológica a ligação com essa entidade.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ##### SUBSECÇÃO V — Direcção de Serviços de Gestão e Administração
 
 ###### Artigo 20.º — Direcção de Serviços de Gestão e Administração
 
-1 - À Direcção de Serviços de Gestão e Administração cabe a gestão do pessoal e das verbas da FCT, designadamente as destinadas ao financiamento de programas e projectos de investigação científica e tecnológica.
+(Revogado.)
 
-2 - A Direcção de Serviços de Gestão e Administração compreende:
-
-a) A Repartição de Gestão Financeira e Patrimonial;
-
-b) A Repartição de Pessoal e Expediente.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ###### Artigo 21.º — Repartição de Gestão Financeira e Patrimonial
 
-1 - À Repartição de Gestão Financeira e Patrimonial compete:
+(Revogado.)
 
-a) Preparar todos os processos conducentes à concessão de qualquer tipo de subsídio e outros financiamentos;
-
-b) Assegurar a elaboração dos orçamentos, bem como dos planos financeiros;
-
-c) Assegurar o controlo orçamental e financeiro, avaliar a afectação dos recursos financeiros às actividades desenvolvidas pelos órgãos e serviços, organizar a conta de gerência e promover a elaboração de todos os documentos de prestação de contas exigidos por lei;
-
-d) Assegurar a execução dos orçamentos e a estruturação das receitas e despesas;
-
-e) Assegurar a programação e orçamentação dos financiamentos aprovados;
-
-f) Organizar e manter uma contabilidade analítica de gestão;
-
-g) Inventariar e administrar o património e promover as aquisições necessárias.
-
-2 - A Repartição de Gestão Financeira e Patrimonial compreende:
-
-a) A Secção de Contabilidade e Tesouraria, que assegura o exercício das competências referidas nas alíneas a), d), f) e g) do número anterior;
-
-b) A Secção de Orçamento e Conta, que assegura o exercício das competências referidas nas alíneas b), c) e e) do número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ###### Artigo 22.º — Repartição de Pessoal e Expediente
 
-1 - À Repartição de Pessoal e Expediente compete:
+(Revogado.)
 
-a) Elaborar os estudos necessários à gestão do pessoal e à sua correcta afectação pelos diversos serviços;
-
-b) Estudar e colaborar na aplicação de métodos actualizados de gestão dos recursos humanos e desenvolver metodologias que se relacionem com a modernização administrativa;
-
-c) Desenvolver as acções necessárias à organização e instrução dos processos referentes à situação profissional do pessoal, designadamente o recrutamento, acolhimento e movimentação do pessoal, e zelar pela manutenção do cadastro do pessoal;
-
-d) Assegurar a execução dos processos de classificação de serviço e das listas de antiguidade do pessoal;
-
-e) Recolher e organizar a informação sócio-económica relativa aos recursos humanos de modo a proporcionar uma correcta gestão, em termos profissionais, assim como a elaboração do balanço social;
-
-f) Assegurar a execução das normas sobre condições ambientais de higiene e segurança no trabalho;
-
-g) Promover a elaboração e execução do plano de formação profissional do pessoal do FCT não inserido na carreira de investigação;
-
-h) Assegurar os serviços de expediente geral e organizar e manter o arquivo permanentemente organizado.
-
-2 - A Repartição de Pessoal e Expediente compreende:
-
-a) A Secção de Pessoal, que assegura o exercício das competências referidas nas alíneas a) a g) do número anterior;
-
-b) A Secção de Expediente e Arquivo, que assegura o exercício das competências referidas na alínea h) do número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ##### SUBSECÇÃO VI — Direcção de Serviços de Informação e Documentação
 
 ###### Artigo 23.º — Direcção de Serviços de Informação e Documentação
 
-Compete à Direcção de Serviços de Informação e Documentação:
+(Revogado.)
 
-a) Identificar, seleccionar, adquirir e tratar fontes bibliográficas e documentais de natureza científica e tecnológica relevantes para as actividades da FCT;
-
-b) Estimular a modernização, articulação e reforço das bibliotecas científicas;
-
-c) Garantir a elaboração e actualização de um inventário e cadastro documental e bibliográfico na área da ciência e da tecnologia, disponível nas diferentes bibliotecas e centros de documentação portugueses, disponibilizando-a à comunidade científica e ao público em geral;
-
-d) Gerir o serviço de consulta, fornecimento, empréstimo e permuta das fontes bibliográficas e documentais existentes na FCT;
-
-e) Desenvolver as acções necessárias à prossecução de uma política de língua portuguesa em matéria científica e tecnológica
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ##### SUBSECÇÃO VII
 
 ##### Divisão de Apoio Jurídico
 
 ###### Artigo 24.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ##### Divisão de Apoio Jurídico
 
@@ -466,6 +232,10 @@ e) Informar e esclarecer os órgãos, serviços e pessoal da FCT sobre o conteú
 
 ###### Artigo 25.º
 
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
+
 ##### Divisão de Apoio Informático
 
 Compete à Divisão de Apoio Informático:
@@ -480,51 +250,27 @@ c) Participar na elaboração de cadernos de encargos, selecção, aquisição, 
 
 ###### Artigo 26.º — Património
 
-O património da FCT é constituído pela universalidade dos seus bens, direitos e obrigações.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ###### Artigo 27.º — Receitas
 
-1 - Constituem receitas da FCT, para além das dotações transferidas do Orçamento do Estado, as seguintes:
+(Revogado.)
 
-a) O produto resultante dos serviços prestados, nomeadamente realização de estudos, inquéritos e outros trabalhos de carácter técnico confiados à FCT por entidades nacionais, estrangeiras ou internacionais;
-
-b) O rendimento de bens próprios e, bem assim, o produto da alienação e da constituição de direitos sobre eles;
-
-c) O produto da venda das suas publicações;
-
-d) As comparticipações e os subsídios concedidos por quaisquer entidades;
-
-e) As doações, heranças ou legados de que for beneficiária;
-
-f) Quaisquer outros rendimentos que por lei ou contrato lhe devam pertencer.
-
-2 - As receitas enunciadas no número anterior são afectas ao pagamento das despesas da FCT, mediante inscrição de dotações com compensação em receita.
-
-3 - Os saldos apurados no final de cada gerência transitam para o ano seguinte nos termos da lei, seja qual for a origem das receitas correspondentes.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ###### Artigo 28.º — Despesas
 
-São despesas da FCT:
+(Revogado.)
 
-a) Os encargos com o respectivo funcionamento e com o cumprimento das atribuições e competências que lhe são confiadas;
-
-b) Os custos de aquisição, manutenção e conservação de bens, equipamentos ou serviços que tenha de utilizar.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ###### Artigo 29.º — Gestão patrimonial e financeira
 
-1 - A gestão patrimonial e financeira da FCT rege-se pelos seguintes instrumentos de gestão previsional:
+(Revogado.)
 
-a) Planos de actividades e planos financeiros, anuais e plurianuais;
-
-b) Orçamento de tesouraria;
-
-c) Demonstração de resultados;
-
-d) Balanço previsional;
-
-e) Relatório anual de actividades.
-
-2 - A FCT utiliza um sistema de contabilidade que se enquadre no Plano Oficial de Contabilidade (POC).
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ### CAPÍTULO IV — Do pessoal
 
@@ -536,27 +282,29 @@ e) Relatório anual de actividades.
 
 ###### Artigo 31.º — Quadro de pessoal
 
-1 - A FCT dispõe de quadro de pessoal aprovado por portaria conjunta dos Ministros das Finanças e da Ciência e da Tecnologia e do membro do Governo que tiver a seu cargo a Administração Pública.
+(Revogado.)
 
-2 - Os lugares de pessoal dirigente da FCT são os constantes do mapa anexo ao presente diploma, que dele faz parte integrante.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
 ###### Artigo 32.º — Transição de pessoal
 
-A transição de pessoal do quadro de pessoal da Junta Nacional de Investigação Científica e Tecnológica para o quadro da FCT é feita nos termos do artigo 15.º do [Decreto-Lei n.º 144/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1996-401914), de 26 de Agosto.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ###### Artigo 33.º — Transferência de bens, direitos e obrigações
 
-1 - Os bens, direitos e obrigações, incluindo as posições contratuais e as de membro de qualquer associação, fundação, sociedade ou outra entidade, da Junta Nacional de Investigação Científica e Tecnológica transferem-se, independentemente de quaisquer formalidades, para a FCT, enquanto afectos às competências que para ela transitam pelo presente decreto-lei.
+(Revogado.)
 
-2 - A discriminação dos bens, direitos e obrigações referidos no número anterior constará de despacho do Ministro da Ciência e da Tecnologia.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 ###### Artigo 34.º — Providências orçamentais
 
-1 - Transitam, em termos a estabelecer por despacho conjunto dos Ministros das Finanças e da Ciência e da Tecnologia, para a FCT, de acordo com a respectiva transferência de atribuições, competências e pessoal, os saldos das verbas orçamentais atribuídas à JNICT - Junta Nacional de Investigação Científica e Tecnológica.
+(Revogado.)
 
-2 - Ficam os Ministros das Finanças e da Ciência e da Tecnologia autorizados a proceder às alterações orçamentais necessárias, incluindo as relativas aos encargos com os vencimentos dos novos cargos dirigentes.
+> Revogado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 

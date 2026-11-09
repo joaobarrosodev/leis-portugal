@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:605360:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (DPR 20/2009): ratificação do Protocolo — sem alteração textual",
+    "Alt. 2 (Decl. Ret. 16/2010): retifica o Aviso n.º 54/2010, outro diploma — ignorada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

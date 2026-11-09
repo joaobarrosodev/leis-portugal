@@ -111,7 +111,7 @@ c) (Revogada.)
 
 d) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000.
 
-> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 7.º — Critérios de elegibilidade das operações
 
@@ -123,7 +123,11 @@ b) Justificação da realização das acções propostas, identificação dos ob
 
 c) Calendarização e orçamentação previsional, anualizadas, das acções previstas.
 
-2 - Os planos de acção devem respeitar a seguinte tipologia:
+2 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem.
+
+3 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas.
+
+4 - Os planos de acção devem respeitar a seguinte tipologia:
 
 a) Estudos ou pesquisas de mercado, com vista à definição de posicionamento do produto num dado mercado;
 
@@ -133,13 +137,15 @@ c) Estudos de controlo e avaliação da implementação do plano de acção;
 
 d) Estudos de caracterização da especificidade e qualidade do produto e elaboração de estratégias de adequação ao mercado, incluindo adaptação de cadernos de especificações a requisitos decorrentes de alterações regulamentares.
 
-3 - Os planos de acção devem pelo menos contemplar uma acção da tipologia referida na alínea b) do número anterior, não podendo o conjunto das restantes acções representar mais de 50 % do valor total do apoio.
+5 - Os planos de acção devem pelo menos contemplar uma acção da tipologia referida na alínea b) do número anterior, não podendo o conjunto das restantes acções representar mais de 50 % do valor total do apoio.
 
-4 - As acções da tipologia referida na alínea b) do n.º 2 devem conter uma descrição detalhada, projectos e maquetes, do respectivo material de informação, promoção e publicidade.
+6 - As acções da tipologia referida na alínea b) do n.º 2 devem conter uma descrição detalhada, projectos e maquetes, do respectivo material de informação, promoção e publicidade.
 
-5 - As acções referidas no n.º 2 estão limitadas ao mercado interno da União Europeia e não podem ser dirigidas preferencial ou exclusivamente a marcas comerciais.
+7 - As acções referidas no n.º 2 estão limitadas ao mercado interno da União Europeia e não podem ser dirigidas preferencial ou exclusivamente a marcas comerciais.
 
-6 - Não podem ser objecto de financiamento no âmbito do presente Regulamento quaisquer acções que tenham sido aprovadas para efeitos de apoio ao abrigo do Regulamento (CE) n.º [3/2008](http://data.europa.eu/eli/reg/2008/3/oj?locale=pt), do Conselho, de 17 de Dezembro.
+8 - Não podem ser objecto de financiamento no âmbito do presente Regulamento quaisquer acções que tenham sido aprovadas para efeitos de apoio ao abrigo do Regulamento (CE) n.º [3/2008](http://data.europa.eu/eli/reg/2008/3/oj?locale=pt), do Conselho, de 17 de Dezembro.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 8.º — Despesas elegíveis e não elegíveis
 
@@ -191,17 +197,23 @@ e) Coerência do programa financeiro (P).
 
 2 - Os pedidos de apoio são hierarquizados, por ordem decrescente, em função do resultado do cálculo da respectiva valia do plano da acção (VPA), calculada de acordo com a fórmula constante do anexo iii.
 
+3 - A alteração dos critérios de selecção referidos nos números anteriores, aprovada em conformidade com o procedimento legalmente previsto, é divulgada no sítio do PRODER, em www.proder.pt.
+
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
+
 ### CAPÍTULO II — Procedimento
 
 ###### Artigo 12.º — Apresentação dos pedidos de apoio
 
-1 - Os pedidos de apoio são submetidos por concurso, ao abrigo do disposto na alínea b) do n.º 2 do artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, divulgado pela autoridade de gestão com a antecedência de 10 dias seguidos relativamente à data da publicidade do respectivo aviso de abertura.
+1 - Os pedidos de apoio são submetidos ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, na modalidade de concurso, de período definido ou de período contínuo, consoante decisão do gestor, sendo os respectivos períodos de abertura divulgados pela autoridade de gestão com uma antecedência não inferior a 10 dias seguidos relativamente ao início do prazo de submissão.
 
 2 - A apresentação dos pedidos de apoio efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio.
 
-###### Artigo 13.º — Avisos de abertura
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
-1 - Os avisos de abertura são aprovados pelo gestor e homologados pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas e indicam, nomeadamente, o seguinte:
+###### Artigo 13.º — Avisos de abertura e anúncios
+
+1 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:
 
 a) A área geográfica elegível;
 
@@ -211,21 +223,29 @@ c) A dotação orçamental a atribuir;
 
 d) O nível dos apoios a conceder, respeitando o disposto no artigo 10.º
 
-2 - Os avisos de abertura dos concursos são divulgados em www.proder.pt e publicados em dois jornais de grande circulação e, quando se justifique, num jornal regional relevante na área geográfica do respectivo concurso.
+e) Os critérios de selecção e respectivos factores e fórmulas, em função dos objectivos e prioridade fixados.
+
+2 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são divulgados em www.proder.pt e publicitados em dois órgãos de comunicação social.
+
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 14.º — Análise e decisão dos pedidos de apoio
 
 1 - O secretariado técnico analisa e emite parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, bem como a aplicação dos factores referidos no artigo 11.º, o apuramento do montante do custo total elegível e procede à hierarquização dos pedidos de apoio em função da pontuação obtida no cálculo da VPA.
 
-2 - São solicitados aos candidatos, quando se justifique, pelo secretariado técnico, os documentos exigidos no formulário do pedido de apoio ou elementos complementares.
+2 - São solicitados aos candidatos, quando se justifique, pelo secretariado técnico, os documentos exigidos ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamentos para a não aprovação do pedido.
 
 3 - O parecer referido no n.º 1 é emitido no prazo máximo de 60 dias úteis, a contar do termo de apresentação dos pedidos de apoio.
 
 4 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelo secretariado técnico, no prazo máximo de cinco dias úteis a contar da data da decisão.
 
-###### Artigo 15.º — Transição de pedidos
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
-Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental transitam automaticamente para o concurso subsequente, sendo definitivamente recusados caso não obtenham aprovação nesse concurso.
+###### Artigo 15.º — Readmissão de pedidos de apoio
+
+Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental de acordo com a hierarquização obtida no respectivo concurso ou período.
+
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 16.º — Contrato de financiamento
 
@@ -243,7 +263,7 @@ Os pedidos de apoio que tenham sido objecto de parecer favorável e que não ten
 
 1 - A apresentação dos pedidos de pagamento efectua-se através de formulário electrónico disponível no sítio da Internet, em www.ifap.pt, e está sujeita a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
 
-2 - Os pedidos de pagamento reportam-se às despesas efectivamente realizadas e pagas, devendo os comprovativos das mesmas ser entregues nas Direcções Regionais de Agricultura e Pescas (DRAP), no prazo de cinco dias úteis a contar da data de apresentação do pedido.
+2 - O pedido de pagamento reporta-se às despesas efectivamente realizadas e pagas, devendo os comprovativos das mesmas ser entregues no secretariado técnico, no prazo de cinco dias úteis a contar da data de apresentação do pedido.
 
 3 - Apenas são aceites os pedidos de pagamentos relativos a despesas efectuadas por transferência bancária, débito em conta e cheques, comprovados pelo respectivo extracto bancário demonstrativo do pagamento, nos termos das cláusulas contratuais e dos números seguintes.
 
@@ -251,17 +271,23 @@ Os pedidos de apoio que tenham sido objecto de parecer favorável e que não ten
 
 5 - Podem ser apresentados até quatro pedidos de pagamento por plano de acção.
 
+6 - Quando previsto no contrato de financiamento, pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, mediante a constituição de caução correspondente a 110 % do montante do adiantamento.
+
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
+
 ###### Artigo 19.º — Análise dos pedidos de pagamento
 
-1 - As DRAP analisam os pedidos de pagamento e emitem o relatório de análise, num prazo máximo de 30 dias úteis, a contar da data da apresentação dos pedidos.
+1 - O secretariado técnico analisa os pedidos de pagamento e emite o relatório de análise, no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos.
 
 2 - Podem ser solicitados aos beneficiários elementos complementares, sendo que a ausência de resposta constitui fundamento de não aprovação do pedido.
 
 3 - Do relatório de análise referido no n.º 1, resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.
 
-4 - São realizadas visitas aos locais da operação pelo menos uma vez durante o seu período de execução e, preferencialmente, aquando da análise do último pedido de pagamento.
+4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
-5 - Para efeitos de pagamento ao beneficiário, as DRAP comunicam a validação da despesa ao IFAP, I. P.
+5 - Para efeitos de pagamento ao beneficiário, o secretariado técnico comunica a validação da despesa ao IFAP, I. P.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 20.º — Pagamentos
 
@@ -269,13 +295,17 @@ Os pagamentos dos apoios são efectuados pelo IFAP, I. P., por transferência ba
 
 ###### Artigo 21.º — Controlo
 
-1 - A operação está sujeita a acções de controlo até 24 meses após a realização do pagamento final.
+1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
-2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo elaborado o respectivo relatório da visita, do qual deve ser notificado o beneficiário, que tem 10 dias úteis para se pronunciar sobre o mesmo.
+2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 22.º — Reduções e exclusões
 
-Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis, ao beneficiário, as reduções e as exclusões previstas no Regulamento (CE) n.º [1975/2006](http://data.europa.eu/eli/reg/2006/1975/oj?locale=pt), da Comissão, de 7 de Dezembro.
+Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis, ao beneficiário, as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ## ANEXO I — Despesas elegíveis e não elegíveis
 

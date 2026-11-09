@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:546432:por",
+  "artigos": [
+    {
+      "chave": "58.º",
+      "epigrafe": "",
+      "texto": "1 - Sem prejuízo das disposições especiais aplicáveis aos objectos de correspondência postal e às encomendas postais, e com excepção dos casos em que deva ser apresentada uma licença, uma autorização ou um certificado de importação, não será exigida declaração escrita relativamente às mercadorias:\n\na) Importadas para fins não comerciais, nos termos da legislação aplicável;\n\nb) Integradas em pequenas remessas enviadas de particular a particular ou contidas nas bagagens pessoais dos viajantes desde que não revistam carácter comercial;\n\nc) Contidas em pequenos volumes, vindos por qualquer via, desde que enviadas a título ocasional, quando na sua totalidade o peso não for superior a 50 kg e o valor não exceda 100000$00.\n\n2 - As mercadorias referidas no n.º 1 são tributadas oficiosamente, com base em declaração verbal do interessado e nos resultados da verificação, utilizando-se, para o efeito, os formulários apropriados em uso nos serviços.",
+      "alterador": 2
+    },
+    {
+      "chave": "62.º",
+      "epigrafe": "",
+      "texto": "1 - Com ressalva das disposições aplicáveis à liquidação, ao registo de liquidação e à garantia ou pagamento das imposições devidas, as formalidades previstas no artigo 240.º do Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941, passam a ser, relativamente ao regime geral, as seguintes:\n\na) Entrega da declaração;\n\nb) Controlo de aceitação;\n\nc) Aceitação;\n\nd) Controlo da declaração;\n\ne) Saída.\n\n2 - A conferência da declaração, nos casos em que tenha lugar, em conformidade com os critérios de amostragem definidos por despacho do Ministro das Finanças, pode ser efectuada após ter sido dada a autorização de saída das mercadorias.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 288/90 art. 1.º: nova redação do art. 62.º; aplicada",
+    "DL 288/90 art. 2.º: altera o art. 261.º-A do Regulamento das Alfândegas (outro diploma); ignorada",
+    "DL 239/91: nova redação do art. 58.º (n.º 1 corpo, b) e c) novas, a) mantida, n.º 2 novo); aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

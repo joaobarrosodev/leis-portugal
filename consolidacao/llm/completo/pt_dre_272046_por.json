@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:272046:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1. A representação do empréstimo far-se-á em títulos de cupão de uma, cinco e dez obrigações, do valor nominal de 1000$00 cada uma, ou em certificados de dívida inscrita correspondentes a qualquer número de títulos.\n\n2. Os títulos e certificados representativos das obrigações emitidas serão equiparados a títulos da dívida pública portuguesa, gozando dos direitos, isenções e garantias consignados no artigo 58.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, e nos n.os 2.º a 6.º do artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, continuando igualmente a beneficiar da isenção do imposto do selo e dos emolumentos para a sua admissão na bolsa.\n\n3. Os títulos ou certificados representativos deste empréstimo poderão ser provisórios, fazendo-se a sua substituição por definitivos no prazo máximo de dois anos, e, no caso de serem entregues aos portadores certificados de dívida inscrita provisórios, será dispensável a indicação nos mesmos certificados dos números dos títulos neles representados.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1. O serviço de administração do empréstimo será confiado à Junta do Crédito Público.\n\n2. Todas as despesas relativas à emissão deste empréstimo serão pagas por força das competentes dotações orçamentais do Fundo de Turismo, dos anos económicos em que tiverem lugar, devendo para tal efeito a comissão administrativa do referido Fundo fazer à Junta do Crédito Público as provisões que, a seu requerimento, se mostrem necessárias.\n\n3.º O Fundo de Turismo, cujas receitas próprias assegurarão prioritàriamente o pagamento dos juros e amortizações deste empréstimo, entregará anualmente no Tesouro, com a antecipação necessária, as importâncias que deverão fazer face a esses encargos, as quais serão inscritas no orçamento de receita, inscrevendo-se no orçamento de despesa do Ministério das Finanças igual importância.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º: nova redação do n.º 2 do artigo 3.º e do n.º 3 do artigo 5.º (este vem numerado «3.º» no alterador, copiado tal qual) — aplicado.",
+    "Art. 2.º: condições da 1.ª série de obrigações — norma autónoma, sem artigo do original a alterar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

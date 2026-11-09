@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:656845:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Declaração de Rectificação 6-E/97: rectifica a alínea d) do n.º 2 do artigo 9.º do caderno de encargos ('de reados empreendimentos' por 'de realização dos empreendimentos'). No texto atual recebido, os artigos do caderno de encargos têm as mesmas chaves ('1.º' a '35.º') que os artigos do decreto-lei, sem prefixo de anexo, pelo que a chave '9.º' é ambígua (designa também o artigo 9.º do decreto-lei, sobre indisponibilidade das acções); a rectificação não foi aplicada para não alterar o artigo errado.",
+  "instrucoes": [
+    "Declaração de Rectificação 6-E/97: rectificação do art. 9.º, n.º 2, alínea d), do caderno de encargos — não aplicada por chave ambígua (duplicada com o art. 9.º do decreto-lei)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:227195:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DRR 28/86/A, art. 1.º: substitui o quadro de pessoal anexo (só em imagem); o art. 2.º repete a redação do art. 2.º do original. Sem alteração textual aos artigos.",
+  "instrucoes": [
+    "Art. 1.º: substituição do quadro de pessoal anexo — só em imagem; não aplicada.",
+    "Art. 2.º: norma igual ao art. 2.º do original; não é instrução de alteração do texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

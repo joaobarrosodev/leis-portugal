@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:367220:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - A presente lei regula o regime e o exercício da actividade de radiotelevisão em território nacional.\n\n2 - Considera-se radiotelevisão a transmissão à distância de imagens não permanentes e sons, efectuada por ondas electromagnéticas, propagando-se no espaço ou por cabo, destinada à recepção directa pelo público.\n\n3 - Onde nesta lei se refira a radiotelevisão como titular de direito ou obrigações, deve considerar-se referido o sujeito jurídico da respectiva actividade.",
+      "alterador": 1
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "(Isenções fiscais)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: nova redação do n.º 1 do artigo 1.º, n.os 2 e 3 mantidos: aplicada.",
+    "Alt. 2, art. 2.º, 6): revoga o artigo 48.º (benefícios fiscais da RTP) a partir de 1 de Janeiro de 1989: artigo revogado. Restantes revogações dizem respeito a outros diplomas: ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

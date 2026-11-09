@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:400201:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "A gratificação referida no artigo anterior é extensiva aos inspectores da Direcção-Geral do Ensino Superior e ao inspector do Gabinete Coordenador do Ingresso no Ensino Superior.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do art. 2.º"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

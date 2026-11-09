@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:453801:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "(Âmbito pessoal)",
+      "texto": "1 - Têm direito às prestações previstas no presente Regulamento os beneficiários activos abrangidos pela Caixa de Previdência dos Profissionais de Espectáculos e os pensionistas que, à data do início da pensão, se encontrem abrangidos pela mesma instituição.\n\n2 - As prestações a que se refere o número anterior são também concedidas aos subsidiados do Fundo de Assistência da Caixa.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "(Condições de atribuição)",
+      "texto": "1 - Têm acesso a complemento de pensão os pensionistas que tenham rendimentos ilíquidos mensais iguais ou inferiores a 50% da remuneração mínima mensal garantida à generalidade dos trabalhadores, desde que o rendimento ilíquido do respectivo agregado familiar não seja superior àquela remuneração.\n\n2 - Para efeito do número anterior, o agregado familiar é constituído pelos parentes e afins de linha recta e os de linha colateral até ao 3.º grau que convivam em economia familiar com o requerente.\n\n3 - Têm ainda acesso a complemento de pensão os pensionistas que, embora não satisfazendo, por si ou pelo seu agregado familiar, os requisitos de atribuição estabelecidos no n.º 1, se encontrem cumulativamente nas seguintes condições:\n\na) Tenham um agregado familiar cuja capitação de rendimentos não seja superior a 30% da remuneração mínima mensal;\n\nb) Se encontrem em situação de risco social grave, a determinar pelos competentes serviços de acção social, em consequência de perda ou diminuição de rendimentos ou acréscimo anormal de encargos determinados, designadamente por doença ou acidente.",
+      "alterador": 1
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "(Montante das prestações)",
+      "texto": "1 - O montante global das prestações de apoio social será fixado caso a caso e tendo em atenção os elementos constantes do processo, não podendo, no entanto, exceder o valor igual a quatro vezes a remuneração mínima mensal garantida à generalidade dos trabalhadores.\n\n2 - Desde que existam disponibilidades financeiras, poderá a instituição gestora propor superiormente a concessão de uma prestação de apoio social de valor superior ao fixado no número anterior, sempre que a situação de risco social agravado o justifique.\n\n3 - O montante total das prestações de apoio social atribuídas em cada ano não pode exceder o valor correspondente a 1,5% das receitas do Fundo no ano anterior.",
+      "alterador": 1
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "(Revisão)",
+      "texto": "O presente Regulamento deve ser revisto de dois em dois anos com vista a adaptá-lo às reais situações de carência dos beneficiários e às disponibilidades financeiras do Fundo.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 n.º 2.º: nova redação do artigo 2.º; aplicada.",
+    "Alt.1 n.º 3.º: nova redação do n.º 1 do artigo 5.º; aplicada.",
+    "Alt.1 n.º 4.º: nova redação do artigo 13.º; aplicada.",
+    "Alt.1 n.º 5.º: nova redação do artigo 24.º; aplicada.",
+    "Alt.1 n.º 6.º e Alt.2: disposições autónomas (revisão antecipada; integração da Caixa nos centros regionais), sem alteração textual; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

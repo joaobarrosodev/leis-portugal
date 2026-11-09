@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:274851:por",
+  "artigos": [
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "1. O Ministro do Ultramar poderá, sob parecer dos governos das províncias ultramarinas interessadas, alterar, por portaria, relativamente a uma ou a mais províncias, os limites das taxas de juro referidos nos artigos 9.º e 10.º\n\n2. A afixação das taxas de juro das operações passivas referidas no artigo 9.» poderá ser feita em função da taxa de desconto do banco emissor da respectiva província ultramarina.",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "Os Ministros das Finanças e do Ultramar poderão, sob parecer dos Governos das províncias ultramarinas interessadas, estabelecer, por portaria:\n\na) A participação das promissórias de fomento ultramarino e o limite da representação dos cheques à vista e dos vales do correio nas disponibilidades de caixa referidas no artigo 3.º;\n\nb) Os limites e as condições a que devem obedecer as coberturas mencionadas no corpo do artigo 5.º e no corpo do artigo 6.º;\n\nc) As condições em que valores não indicados no corpo do artigo 5.º e no corpo do artigo 6.º, ou aí referidos, mas a prazos superiores aos neles estabelecidos, poderão ser contados nas coberturas das responsabilidades dos bancos comerciais em moeda nacional com curso legal na província;\n\nd) O limite mínimo da relação entre o montante de capital e fundos de reserva dos bancos comerciais, por um lado, e, por outro, o montante dos depósitos e outras responsabilidades efectivas destes bancos para com terceiros, bem como da relação entre aquele montante do capital e fundos de reserva e o das responsabilidades dos bancos por aceites, avales e garantias concedidas.\n\n§ único. Os limites e condições a estabelecer nos termos do presente artigo poderão variar de província para província ou, na mesma província ultramarina, com a evolução da sua conjuntura monetária e financeira.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: nova redação do artigo 13.º (n.os 1 e 2): aplicada.",
+    "Alt. 2: nova redação do artigo 7.º: aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

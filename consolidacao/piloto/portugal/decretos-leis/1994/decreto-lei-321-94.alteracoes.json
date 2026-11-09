@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "23.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 23.º — Conselho Superior de Polícia\n\n1 - O Conselho Superior de Polícia é um órgão consultivo do comandante-geral e é composto por membros designados por inerência, membros nomeados e membros eleitos.\n\n2 - São membros designados por inerência:\n\na) O comandante-geral, que preside;\n\nb) O 2.º comandante-geral;\n\nc) Os superintendentes-gerais;\n\nd) O inspector-geral;\n\ne) O comandante da Escola Superior de Polícia;\n\nf) O comandante da Escola Prática de Polícia;\n\ng) Os comandantes metropolitanos;\n\nh) Os comandantes regionais;\n\ni) O comandante das forças especiais;\n\nj) O subintendente mais antigo;\n\nl) O comissário mais antigo;\n\nm) O subcomissário mais antigo;\n\nn) O subchefe principal mais antigo;\n\no) O guarda principal mais antigo.\n\n3 - São membros nomeados três comandantes de comandos de polícia, a nomear pelo comandante-geral.\n\n4 - São membros eleitos três vogais eleitos de entre os candidatos apresentados pelas associações profissionais, nos termos da lei.",
+    "depois": "###### Artigo 23.º — Conselho Superior de Polícia\n\n1 - O Conselho Superior de Polícia é um órgão consultivo do comandante-geral e é composto por membros designados por inerência, membros nomeados e membros eleitos.\n\n2 - São membros designados por inerência:\n\na) O comandante-geral, que preside;\n\nb) O 2.º comandante-geral;\n\nc) Os superintendentes-gerais;\n\nd) O inspector-geral;\n\ne) O comandante da Escola Superior de Polícia;\n\nf) O comandante da Escola Prática de Polícia;\n\ng) Os comandantes metropolitanos;\n\nh) O comandante regional da Região Autónoma da Madeira e o comandante regional da Região Autónoma dos Açores mais graduado, aplicando-se subsidiariamente o princípio da maior antiguidade;\n\ni) O comandante das forças especiais;\n\nj) O subintendente mais antigo;\n\nl) O comissário mais antigo;\n\nm) O subcomissário mais antigo;\n\nn) O subchefe principal mais antigo;\n\no) O guarda principal mais antigo.\n\n3 - São membros nomeados três comandantes de comandos de polícia, a nomear pelo comandante-geral.\n\n4 - São membros eleitos três vogais eleitos de entre os candidatos apresentados pelas associações profissionais, nos termos da lei.\n\n> Alterado pelo/a [Decreto-Lei n.º 255/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1995-575732), publicado em 1995-09-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:322095:por",
+    "alterador": "pt:dre:575732:por;pt:dre:261165:por"
+  },
+  {
+    "artigo": "147.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 147.º — Suplemento de residência\n\n1 - Têm ainda direito a um suplemento de residência, nos termos estabelecidos no artigo 102.º e por um período até 24 meses, quando se proceda à extinção da unidade policial na qual prestavam serviço, desde que ocorra até 31 de Dezembro de 1997, os oficiais, subchefes e guardas colocados por imposição em local distanciado em mais de 30 km da sede do comando da unidade extinta ou da localidade da sua residência habitual.\n\n2 - Não é concedido suplemento de residência nos casos em que previamente tenha havido um pedido de colocação cujo destino coincida com o destino da colocação referida no número anterior.",
+    "depois": "###### Artigo 147.º — Suplemento de residência\n\n1 - Têm ainda direito a um suplemento de residência, nos termos estabelecidos no artigo 102.º e por um período até 24 meses, quando se proceda à extinção da unidade policial na qual prestavam serviço, desde que ocorra até 31 de Dezembro de 1997, os oficiais, subchefes e guardas colocados por imposição em local distanciado em mais de 30 km da sede do comando da unidade extinta ou da localidade da sua residência habitual.\n\n2 - Não é concedido suplemento de residência nos casos em que previamente tenha havido um pedido de colocação cujo destino coincida com o destino da colocação referida no número anterior.\n\n3 - Os oficiais, subchefes e guardas que prestaram serviço a partir de 1 de Janeiro de 1992 nas unidades policiais extintas antes da data de entrada em vigor da presente Lei Orgânica, no âmbito do processo de reestruturação das forças de segurança, têm direito ao suplemento previsto no n.º 1, nos termos aí prescritos.\n\n> Alterado pelo/a [Decreto-Lei n.º 255/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1995-575732), publicado em 1995-09-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:322095:por",
+    "alterador": "pt:dre:575732:por;pt:dre:261165:por"
+  },
+  {
+    "artigo": "60.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 60.º — Comandante-geral\n\n1 - O comandante-geral da PSP é nomeado pelo Ministro da Administração Interna de entre os oficiais-generais do Exército com a patente de general ou de entre os oficiais de polícia de posto não inferior a superintendente-chefe.\n\n2 - As funções referidas no número anterior serão desempenhadas em comissão normal com a duração de quatro anos, considerando-se renovada se, até 30 dias antes do seu termo, o Ministro da Administração Interna, o Ministro da Defesa Nacional, neste caso quando a nomeação incidir em oficial-general do Exército, ou o interessado não tiverem manifestado a intenção de a fazer cessar.\n\n3 - Em qualquer momento a comissão de serviço referida no número anterior pode ser dada por finda por despacho do Ministro da Administração Interna, por iniciativa deste ou a requerimento do interessado.\n\n4 - Quando a nomeação incidir em oficiais-generais do Exército, a mesma depende de despacho dos Ministros da Defesa Nacional e da Administração Interna.",
+    "depois": "###### Artigo 60.º — Comandante-geral\n\n1 - O comandante-geral da PSP é nomeado pelo Ministro da Administração Interna e será um oficial general do Exército, um oficial de polícia de posto não inferior a superintendente-chefe, um magistrado judicial ou do Ministério Público, ou outra personalidade de reconhecida idoneidade.\n\n2 - As funções referidas no número anterior serão desempenhadas em comissão normal com a duração de quatro anos, considerando-se renovada se, até 30 dias antes do seu termo, o Ministro da Administração Interna, o Ministro da Defesa Nacional, neste caso quando a nomeação incidir em oficial-general do Exército, ou o interessado não tiverem manifestado a intenção de a fazer cessar.\n\n3 - Em qualquer momento a comissão de serviço referida no número anterior pode ser dada por finda por despacho do Ministro da Administração Interna, por iniciativa deste ou a requerimento do interessado.\n\n4 - Quando a nomeação incidir em oficiais-generais do Exército, a mesma depende de despacho dos Ministros da Defesa Nacional e da Administração Interna.\n\n> Alterado pelo/a [Decreto-Lei n.º 2-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-a-1996-261165), publicado em 1996-01-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:322095:por",
+    "alterador": "pt:dre:575732:por;pt:dre:261165:por"
+  }
+]

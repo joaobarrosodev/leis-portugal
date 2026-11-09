@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "18.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 18.º\n\nNo prazo máximo de cinco anos a comercialização do algodão ultramarino deverá fazer-se em moldes semelhantes aos praticados no mercado internacional.",
+    "depois": "###### Artigo 18.º\n\nA comercialização do algodão ultramarino far-se-á em moldes semelhantes aos praticados no mercado internacional, a partir da campanha 1968-1969.\n\n> Alterado pelo/a [Decreto-Lei n.º 47765](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47765-1967-312013), publicado em 1967-06-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:693412:por",
+    "alterador": "pt:dre:312013:por;pt:dre:644532:por"
+  },
+  {
+    "artigo": "19.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 19.º\n\nEnquanto não estiver completamente processada a evolução prevista no artigo anterior, é proibida a exportação para o estrangeiro de algodão ultramarino, salvo se se mostrar assegurado o abastecimento da indústria nacional.",
+    "depois": "###### Artigo 19.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 202/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1971-644532), publicado em 1971-05-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:693412:por",
+    "alterador": "pt:dre:312013:por;pt:dre:644532:por"
+  },
+  {
+    "artigo": "20.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 20.º\n\n1. Aos Ministros do Ultramar e da Economia, ouvidos os governos das províncias e a Comissão Reguladora do Comércio de Algodão em Rama, compete fixar por portaria, até 31 de Maio de cada ano, a quantidade de algodão ultramarino da respectiva colheita que os importadores nacionais deverão adquirir e, bem assim, os preços correspondentes.\n\n2. Ao Ministro do Ultramar caberá distribuir as quantidades fixadas pelas províncias ultramarinas produtoras.",
+    "depois": "###### Artigo 20.º\n\nAos Ministros do Ultramar e da Economia, ouvidos os governos das províncias ultramarinas interessadas e a Comissão Reguladora do Comércio do Algodão em Rama, compete fixar, até 31 de Maio de cada ano, os preços que vigorarão no abastecimento obrigatório do mercado nacional com o algodão ultramarino da respectiva colheita.\n\n> Alterado pelo/a [Decreto-Lei n.º 202/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1971-644532), publicado em 1971-05-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:693412:por",
+    "alterador": "pt:dre:312013:por;pt:dre:644532:por"
+  },
+  {
+    "artigo": "21.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 21.º\n\n1. Os importadores nacionais têm direito de opção, nos termos que vierem a ser estabelecidos, sobre o algodão ultramarino destinado à exportação para o estrangeiro.\n\n2. Este direito será exercido pela Comissão Reguladora do Comércio de Algodão em Rama.\n\n3. Poderão ser objecto de opção todas as ramas ultramarinas, sem excepção das de qualidade inferior ao tipo VI.\n\n4. O algodão que for objecto de opção deverá sempre ser utilizado no mercado nacional.",
+    "depois": "###### Artigo 21.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 202/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1971-644532), publicado em 1971-05-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:693412:por",
+    "alterador": "pt:dre:312013:por;pt:dre:644532:por"
+  },
+  {
+    "artigo": "26.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 26.º\n\nSobre cada quilo de algodão em rama transaccionado recairá uma taxa que constituirá receita do instituto do algodão e não deverá exceder a percentagem de 5 por cento sobre o preço C. I. F. Leixões.\n\nV\n\nDisposições gerais e transitórias",
+    "depois": "###### Artigo 26.º\n\nSobre cada quilograma de algodão em rama produzido incide uma taxa que constituirá receita do Instituto do Algodão, a qual não deverá exceder 5 por cento do preço C. I. F. fixado para as ramas de algodão na metrópole.\n\n> Alterado pelo/a [Decreto-Lei n.º 202/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1971-644532), publicado em 1971-05-13.\n\nV\n\nDisposições gerais e transitórias",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:693412:por",
+    "alterador": "pt:dre:312013:por;pt:dre:644532:por"
+  }
+]

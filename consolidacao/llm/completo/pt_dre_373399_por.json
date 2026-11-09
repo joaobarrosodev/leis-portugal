@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:373399:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "Comissão directiva: composição, competência e funcionamento",
+      "texto": "1 - A comissão directiva é constituída pelas seguintes entidades:\n\na) SNPRCN, que a coordena e orienta;\n\nb) Câmaras Municipais de Vila do Bispo, Aljezur, Odemira e Sines;\n\nc) Comissão de Coordenação da Região do Algarve, Comissão de Coordenação da Região do Alentejo, Direcção-Geral do Ordenamento do Território, Direcção-Geral da Marinha, Direcção-Geral de Hidráulica e Engenharia Agrícola e Direcção-Geral dos Portos.\n\n2 - O SNPRCN é representado pelo respectivo presidente, pelo vice-presidente ou por um director de serviços com poderes delegados para o efeito.\n\n3 - As Câmaras Municipais são representadas pelo respectivo presidente ou por um vereador com poderes delegados para o efeito.\n\n4 - A comissão directiva compete:\n\na) Exercer, em geral, os poderes de coordenação da actividade dos órgãos da Paisagem Protegida e, nomeadamente, emitir instruções genéricas dirigidas ao director, sem prejuízo do disposto no artigo 16.º;\n\nb) Submeter à aprovação do SNPRCN os planos de investimentos anuais e plurianuais;\n\nc) Apreciar e propor à aprovação superior o plano de ordenamento da Paisagem Protegida;\n\nd) Definir a orientação geral da administração da Paisagem Protegida e emitir as directivas necessárias;\n\ne) Aplicar as coimas e sanções acessórias previstas no presente diploma na área terrestre;\n\nf) Tomar as medidas administrativas de reposição e renaturalização previstas no presente diploma.\n\n5 - As competências referidas nas alíneas c), e) e f) do número anterior não prejudicam as competências próprias que nas matérias em causa estão cometidas às entidades administrantes do domínio público marítimo.\n\n6 - As deliberações da comissão directiva são tomadas com o voto favorável de seis das entidades que a compõem, com excepção das deliberações para as quais seja legalmente exigida outra maioria.\n\n7 - A comissão directiva reunirá ordinariamente de dois em dois meses e extraordinariamente sempre que convocada por três dos seus membros.\n\n8 - A comissão directiva elabora e aprova o seu próprio regimento.",
+      "alterador": 1
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Regulamentação",
+      "texto": "O presente diploma será regulamentado por decreto regulamentar no prazo de 90 dias.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Lei 51/90, art. 1.º: nova redação da alínea c) do n.º 1 do art. 6.º (alíneas a) e b) e restantes números mantidos). Aplicado.",
+    "Lei 51/90, art. 2.º: nova redação do art. 24.º. Aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

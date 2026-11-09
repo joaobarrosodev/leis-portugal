@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:150506:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "As duas portarias alteram apenas linhas dos anexos I e II (cursos e vagas), que não constam do texto atual por artigos; nenhum artigo muda.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: alterações às linhas do anexo I - anexo não está no texto atual, não aplicado",
+    "Alterador 2, 1.º: aditamento de curso ao anexo II - anexo não está no texto atual, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

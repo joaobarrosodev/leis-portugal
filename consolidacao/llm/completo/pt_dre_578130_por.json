@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:578130:por",
+  "artigos": [
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "texto": "Nas faltas e impedimentos do juiz auditor será este substituído, quando juiz da comarca, pelos seus substitutos licenciados em Direito; quando auditor privativo, pelo conservador dos registos da comarca sede do tribunal ou pelo conservador do registo predial nas comarcas de Luanda e Lourenço Marques, e, na falta deste, pelo seu substituto, nas condições anteriores.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 111/70: nova redação do art. 17.º - aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

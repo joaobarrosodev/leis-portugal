@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:186556:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O alterador (DRR 10/2000/M) altera os artigos 3.º, 27.º, 29.º e 30.º, adita artigos e revoga números da estrutura orgânica da DREER aprovada pelo DRR 13-A/97/M (outro diploma, ainda que o art. 29.º tenha redação dada pelo original); o art. 6.º substitui o quadro de pessoal do mapa anexo, que só existe em imagem. Nada aplicado ao texto do original.",
+  "instrucoes": [
+    "Art. 2.º: nova redação dos arts. 3.º, 27.º, 29.º e 30.º da orgânica (DRR 13-A/97/M); outro diploma, ignorado",
+    "Art. 3.º: aditamento de arts. 2.º-A, 20.º-A e 31.º à orgânica; outro diploma, ignorado",
+    "Art. 5.º: revogação dos n.os 4 e 5 do art. 2.º da orgânica; outro diploma, ignorado",
+    "Art. 6.º: novo mapa do quadro de pessoal (anexo em imagem); não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

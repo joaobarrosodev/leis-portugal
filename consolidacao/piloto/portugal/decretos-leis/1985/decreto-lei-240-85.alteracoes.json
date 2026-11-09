@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1 - A taxa de juro a praticar pela CGD relativamente a esta linha de crédito será equivalente à taxa legal máxima em vigor para operações de prazo idêntico, deduzida de 4% e de uma bonificação a suportar pela CGD idêntica à que esta instituição vier anualmente a praticar para as restantes linhas de crédito bonificadas para os municípios.\n\n2 - As restantes condições da linha de crédito serão idênticas às praticadas por esta instituição relativamente às restantes linhas de crédito aos municípios.",
+    "depois": "###### Artigo 3.º\n\n1 - A taxa de juro a praticar pela Caixa Geral de Depósitos relativamente a esta linha de crédito será equivalente à taxa legal máxima em vigor para operações de prazo idêntico, deduzida de 15% da taxa contratual, com arredondamento para o quarto mais próximo, e de uma bonificação a suportar pela CGD pelo valor e nas condições a estabelecer no protocolo.\n\n2 - As restantes condições da linha de crédito serão idênticas às praticadas por esta instituição relativamente às restantes linhas de crédito aos municípios.\n\n> Alterado pelo/a [Decreto-Lei n.º 80/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1986-227439), publicado em 1986-05-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:183004:por",
+    "alterador": "pt:dre:227439:por"
+  }
+]

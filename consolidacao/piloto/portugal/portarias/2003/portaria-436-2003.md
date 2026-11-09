@@ -158,7 +158,9 @@ m) Despesas com garantias bancárias exigidas ao promotor, definidas no contrato
 
 5 - A despesa elegível identificada na alínea j) do n.º 1 aplica-se apenas nos casos em que o promotor seja uma entidade pertencente ao Sistema Científico e Tecnológico.
 
-6 - As despesas elegíveis identificadas na alínea l) do n.º 1 e no n.º 2 não podem, no seu conjunto, exceder 10% das despesas elegíveis do projecto, até ao limite de (euro) 50000, podendo este valor ser excedido em casos devidamente justificados mediante proposta do gestor do POE ao Ministro da Economia.
+6 - As despesas elegíveis identificadas na alínea k) do n.º 1 e no n.º 2 não podem, no seu conjunto, exceder 10% das despesas elegíveis do projecto, até ao limite de (euro) 50000, podendo este valor ser excedido em casos devidamente justificados mediante proposta do gestor do PRIME ao Ministro da Economia.
+
+> Alterado pelo/a [Portaria n.º 902/2003](https://diariodarepublica.pt/dr/detalhe/portaria/902-2003-633278), publicado em 2003-08-28.
 
 ###### Artigo 8.º — Despesas não elegíveis
 
@@ -198,11 +200,13 @@ c) «Tipo de promotor», a atribuir a projectos com participação de entidades 
 
 4 - Nos investimentos realizados no âmbito do n.º 2 do artigo 7.º, o apoio a conceder reveste a forma de incentivo não reembolsável, sendo determinado pela aplicação às despesas elegíveis da taxa de 100%.
 
-5 - No caso dos projectos previstos na alínea a) do n.º 1 do artigo 3.º, o incentivo a conceder no âmbito do presente Regulamento nunca pode ser de forma que, no total dos apoios concedidos, sejam ultrapassados os limites máximos fixados nas regras do programa comunitário em causa, caso este especifique um limite máximo para o incentivo a atribuir, bem como os limites fixados no presente Regulamento.
+5 - No caso dos projectos previstos na alínea c) do n.º 1 do artigo 3.º, o incentivo a conceder no âmbito do presente Regulamento nunca pode ser de forma a que, no total dos apoios concedidos, sejam ultrapassados os limites máximos fixados nas regras do programa comunitário em causa, caso este especifique um limite máximo para o incentivo a atribuir, bem como os limites fixados no presente Regulamento.
 
 6 - O montante total do incentivo a conceder no âmbito do presente Regulamento não pode exceder (euro) 750000 por projecto, valor este que no caso de projectos que incidam sobre as actividades previstas na divisão 40 da CAE é de (euro) 1250000.
 
 7 - No âmbito do presente Regulamento, será utilizado o conceito de pequena e média empresa (PME) definido na Recomendação n.º [96/280/CE](http://data.europa.eu/eli/reco/1996/280/oj?locale=pt), da Comissão Europeia, de 3 de Abril.
+
+> Alterado pelo/a [Portaria n.º 902/2003](https://diariodarepublica.pt/dr/detalhe/portaria/902-2003-633278), publicado em 2003-08-28.
 
 ###### Artigo 11.º — Entidade gestora
 
@@ -286,9 +290,11 @@ a) Verificação da execução física dos projectos suportada por relatórios t
 
 b) Verificação da execução financeira dos projectos suportada por relatórios financeiros, elaborados de acordo com periodicidade e estruturas padrão a comunicar aos promotores na fase de assinatura do contrato;
 
-c) A verificação financeira do projecto para efeitos de pagamento de incentivos poderá ter por base uma declaração de despesa do investimento apresentada pelo promotor e certificada por um revisor oficial de contas, que confirme a realização das despesas de investimento indicadas no relatório financeiro em causa e a correcta contabilização dos documentos comprovativos do investimento e do incentivo concedido nos termos definidos na alínea g) do artigo 16.º;
+c) A verificação financeira do projecto para efeitos de pagamento de incentivos poderá ter por base uma declaração de despesa de investimento apresentada pelo promotor e certificada por um revisor oficial de contas que confirme a realização de despesas de investimento indicadas no relatório financeiro em causa e a correcta contabilização dos documentos comprovativos do investimento e do incentivo concedido nos termos definidos na alínea g) do n.º 1 do artigo 16.º
 
 d) A verificação a que se refere a alínea c) não invalida a necessidade de validação do apuramento das despesas elegíveis do projecto por parte da entidade gestora.
+
+> Alterado pelo/a [Portaria n.º 902/2003](https://diariodarepublica.pt/dr/detalhe/portaria/902-2003-633278), publicado em 2003-08-28.
 
 ###### Artigo 18.º — Acumulação de incentivos
 

@@ -1,0 +1,42 @@
+{
+  "id": "pt:dre:694207:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Órgãos",
+      "texto": "São órgãos da Reserva Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Comissão directiva",
+      "texto": "1 - A comissão directiva, composta por um presidente e dois vogais, é o órgão executivo da Reserva Natural.\n\n2 - A comissão directiva é nomeada nos termos previstos pelo artigo 17.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 221/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2002-432178), de 22 de Outubro.\n\n3 - As Câmaras Municipais da Golegã e de Torres Novas dispõem do prazo de 44 dias úteis para indicar um dos vogais da comissão directiva.\n\n4 - O mandato dos titulares da comissão directiva é de três anos.\n\n5 - A comissão directiva reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocada pelo presidente.\n\n6 - O presidente tem voto de qualidade.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Conselho consultivo",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Competências do conselho consultivo",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Arts. 2.º e 3.º do Decreto Regulamentar n.º 2/2005 alteram os limites e revogam os anexos I e II, substituindo-os pelos anexos do próprio Decreto Regulamentar n.º 2/2005 (o anexo II só vem em imagem); os anexos não constam do texto por artigos, pelo que não foram aplicados.",
+  "instrucoes": [
+    "DR 2/2005, art. 1.º: art. 3.º com redação idêntica ao texto atual; nada muda.",
+    "DR 2/2005, art. 1.º: art. 6.º com novos n.os 2 e 3 e n.os 4 a 6 = anteriores n.os 5 a 7; anteriores n.os 4 e 8 desaparecem.",
+    "DR 2/2005, art. 1.º: art. 8.º, n.º 1 com novas alíneas f) e h) e renumeração; sem efeito por o art. 8.º ser depois revogado.",
+    "DR 2/2005, arts. 2.º e 3.º: limites e anexos substituídos; não aplicado (ver nao_aplicavel).",
+    "DL 78/2015, art. 3.º, al. g): revoga a alínea b) do art. 5.º e os arts. 8.º e 9.º; aplicado.",
+    "DL 78/2015, art. 2.º: altera o DL 135/2012; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

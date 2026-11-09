@@ -34,7 +34,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objecto
 
-O presente decreto-lei estabelece o modelo de organização, as competências dos organismos de controlo e de acompanhamento e os procedimentos a observar pelas entidades nacionais para assegurar a execução dos controlos previstos nos artigos 76.º a 80.º do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho, de 2 de dezembro.
+O presente decreto-lei estabelece o modelo de organização, as competências dos organismos de controlo e de acompanhamento e os procedimentos a observar pelas entidades nacionais para assegurar a execução dos controlos previstos nos artigos 76.º a 80.º do [Regulamento (UE) 2021/2116](https://data.europa.eu/eli/reg/2021/2116/oj?locale=pt), do Parlamento Europeu e do Conselho, de 2 de dezembro.
 
 > Alterado pelo/a [Decreto-Lei n.º 136/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2026-1145969703), publicado em 2026-07-10.
 
@@ -46,9 +46,9 @@ O presente decreto-lei estabelece o modelo de organização, as competências do
 
 ###### Artigo 3.º — Execução dos controlos
 
-1 - Os controlos previstos nos artigos 76.º a 80.º do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho, de 2 de dezembro, são realizados pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), sem prejuízo do disposto no número seguinte.
+1 - Os controlos previstos nos artigos 76.º a 80.º do [Regulamento (UE) 2021/2116](https://data.europa.eu/eli/reg/2021/2116/oj?locale=pt), do Parlamento Europeu e do Conselho, de 2 de dezembro, são realizados pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), sem prejuízo do disposto no número seguinte.
 
-2 - Os controlos previstos nos artigos 76.º a 80.º do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho, de 2 de dezembro, relativos a restituições à exportação, regimes de abastecimento das Regiões Autónomas e outras ajudas da mesma natureza, são assegurados pela Autoridade Tributária e Aduaneira (AT).
+2 - Os controlos previstos nos artigos 76.º a 80.º do [Regulamento (UE) 2021/2116](https://data.europa.eu/eli/reg/2021/2116/oj?locale=pt), do Parlamento Europeu e do Conselho, de 2 de dezembro, relativos a restituições à exportação, regimes de abastecimento das Regiões Autónomas e outras ajudas da mesma natureza, são assegurados pela Autoridade Tributária e Aduaneira (AT).
 
 3 - Os organismos indicados nos n.os 1 e 2, adiante designados por organismos de controlo, podem contratar entidades de auditoria para a realização dos controlos previstos no presente decreto-lei.
 
@@ -66,43 +66,33 @@ O presente decreto-lei estabelece o modelo de organização, as competências do
 
 ###### Artigo 5.º — Garantia do exercício do controlo
 
-1 - Os agentes dos organismos de controlo podem, quando façam prova de actuação nessa qualidade, apreender ou mandar apreender cautelarmente, requisitar por tempo determinado ou reproduzir documentos comerciais na posse da empresa ou de terceiro, quando isso se mostre indispensável à eficácia do controlo.
+(Revogado.)
 
-2 - Nos termos do número anterior, na situação de apreensão cautelar ou requisição de documentos comerciais, o organismo de controlo deve permitir à empresa ou ao terceiro a manutenção na sua posse de cópia dos referidos documentos, quando estes o solicitarem.
-
-3 - Para os efeitos do disposto no presente artigo, é levantado o competente auto, para apuramento de eventual responsabilidade contra-ordenacional ou penal, dispensável no caso de simples reprodução dos documentos comerciais.
+> Revogado pelo/a [Decreto-Lei n.º 136/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2026-1145969703), publicado em 2026-07-10.
 
 ###### Artigo 6.º — Competências do serviço específico
 
-1 - A IGAP assegura as funções de serviço específico, nos termos do artigo 11.º do Regulamento (CEE) n.º [4045/89](https://data.europa.eu/eli/reg/1989/4045/oj?locale=pt), do Conselho, de 21 de Dezembro, competindo-lhe, nomeadamente:
+(Revogado.)
 
-a) Desempenhar a função de interlocutor nacional junto da Comissão Europeia;
-
-b) Estabelecer o programa anual de controlos, promovendo a articulação com os organismos de controlo;
-
-c) Elaborar o relatório anual sobre a aplicação do regulamento comunitário, centralizando a informação necessária para o efeito;
-
-d) Assegurar a assistência mútua necessária à execução dos controlos, enquanto Estado membro requerente e requerido, e comunicar à Comissão Europeia, bem como aos restantes Estados membros, as informações previstas no artigo 7.º do regulamento comunitário;
-
-e) Avaliar a fiabilidade dos controlos executados no âmbito do presente decreto-lei.
-
-2 - A IGAP pode apoiar a formação profissional dos funcionários e agentes dos organismos intervenientes na aplicação do Regulamento (CEE) n.º [4045/89](https://data.europa.eu/eli/reg/1989/4045/oj?locale=pt), do Conselho, de 21 de Dezembro.
+> Revogado pelo/a [Decreto-Lei n.º 136/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2026-1145969703), publicado em 2026-07-10.
 
 ###### Artigo 7.º — Deveres de informação
 
 1 - O IFAP, I. P., presta a informação que lhe venha a ser solicitada pela AT para efeitos de execução dos controlos indicados no n.º 2 do artigo 3.º
 
-2 - [Revogado.]
+2 - (Revogado.)
 
-3 - A AT remete ao IFAP, I. P., os relatórios de controlo, a fim de este Instituto assegurar, na qualidade de organismo pagador, nomeadamente, a recuperação dos montantes dos apoios recebidos, nos termos da alínea b) do n.º 2 do artigo 64.º do Decreto-Lei n.º 5/2023, de 25 de janeiro.
+3 - A AT remete ao IFAP, I. P., os relatórios de controlo, a fim de este Instituto assegurar, na qualidade de organismo pagador, nomeadamente, a recuperação dos montantes dos apoios recebidos, nos termos da alínea b) do n.º 2 do artigo 64.º do [Decreto-Lei n.º 5/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2023-206478423), de 25 de janeiro.
 
 > Alterado pelo/a [Decreto-Lei n.º 136/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2026-1145969703), publicado em 2026-07-10.
 
 ###### Artigo 8.º — Sigilo
 
-1 - As informações recolhidas no âmbito dos controlos a efectuar nos termos do presente decreto-lei e do Regulamento (CEE) n.º [4045/89](https://data.europa.eu/eli/reg/1989/4045/oj?locale=pt), do Conselho, de 21 de Dezembro, a qualquer das empresas ou outras entidades nestes visadas, estão abrangidas pelo sigilo profissional, não podendo ser comunicadas a outras pessoas ou entidades.
+1 - As informações recolhidas no âmbito dos controlos a efetuar nos termos do presente decreto-lei e do [Regulamento (UE) 2021/2116](https://data.europa.eu/eli/reg/2021/2116/oj?locale=pt), do Parlamento Europeu e do Conselho, de 2 de dezembro, a qualquer das empresas ou outras entidades nestes visadas, estão abrangidas pelo sigilo profissional, não podendo ser comunicadas a outras pessoas ou entidades.
 
 2 - O disposto no número anterior não se aplica às entidades que nos Estados membros ou nas instituições da Comunidade Europeia devam ter conhecimento das referidas informações, para estrito cumprimento das respectivas atribuições e competências.
+
+> Alterado pelo/a [Decreto-Lei n.º 136/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2026-1145969703), publicado em 2026-07-10.
 
 ###### Artigo 9.º — Irregularidades
 
@@ -112,45 +102,39 @@ e) Avaliar a fiabilidade dos controlos executados no âmbito do presente decreto
 
 ###### Artigo 10.º — Inobservância das obrigações por parte das empresas
 
-A inobservância, por parte das empresas, das obrigações previstas neste decreto-lei e no Regulamento (CEE) n.º [4045/89](https://data.europa.eu/eli/reg/1989/4045/oj?locale=pt), do Conselho, de 21 de Dezembro, que impossibilitem o controlo da realidade e da regularidade das operações em causa, consubstancia irregularidade que tem como consequência a devolução dos montantes recebidos acrescidos de juros legais, nos termos do artigo 4.º do Regulamento (CE, Euratom) n.º [2988/95](https://data.europa.eu/eli/reg/1995/2988/oj?locale=pt), do Conselho, de 18 de Dezembro.
+A inobservância, por parte das empresas, das obrigações previstas neste decreto-lei e no [Regulamento (UE) 2021/2116](https://data.europa.eu/eli/reg/2021/2116/oj?locale=pt), do Parlamento Europeu e do Conselho, de 2 de dezembro, que impossibilitem o controlo da realidade e da regularidade das operações em causa, consubstancia irregularidade que tem como consequência a devolução dos montantes recebidos acrescidos de juros legais, nos termos do artigo 4.º do [Regulamento (CE, Euratom) n.º 2988/95](https://data.europa.eu/eli/reg/1995/2988/oj?locale=pt), do Conselho, de 18 de dezembro.
+
+> Alterado pelo/a [Decreto-Lei n.º 136/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2026-1145969703), publicado em 2026-07-10.
 
 ###### Artigo 11.º — Contra-ordenações
 
-1 - Sem prejuízo do estipulado no artigo anterior, constitui contra-ordenação punível com coima de (euro) 100 a (euro) 3740,98 ou de (euro) 200 a (euro) 44 891,81, consoante o agente seja pessoa singular ou colectiva:
+(Revogado.)
 
-a) A violação do disposto nas alíneas a), c), d) e e) do artigo 4.º;
-
-b) O incumprimento do disposto na alínea b) do artigo 4.º, decorrido o prazo a que se refere o n.º 5 do artigo 3.º;
-
-c) A recusa ou inviabilização, por qualquer forma ou meio, da realização de acção de controlo, devidamente notificada, pelos organismos de controlo.
-
-2 - A negligência e a tentativa são puníveis, sendo os limites máximos e mínimos das coimas reduzidos a metade.
+> Revogado pelo/a [Decreto-Lei n.º 136/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2026-1145969703), publicado em 2026-07-10.
 
 ###### Artigo 12.º — Processos de contra-ordenação
 
-1 - Compete à IGAP ou à DGAIEC o levantamento do auto de notícia das infracções apuradas no âmbito das acções previstas, respectivamente, nos n.os 1 e 2 do artigo 3.º, devendo o mesmo ser remetido para a entidade com competência para a instrução.
+(Revogado.)
 
-2 - Compete ao IFAP, I. P., a instrução dos respectivos processos de contra-ordenação e ao conselho directivo deste Instituto a decisão de aplicação das respectivas coimas, com possibilidade de delegação.
+> Revogado pelo/a [Decreto-Lei n.º 136/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2026-1145969703), publicado em 2026-07-10.
 
 ###### Artigo 13.º — Afectação do produto das coimas
 
-A afectação do produto das coimas cobradas em resultado da aplicação do presente decreto-lei é feita da seguinte forma:
+(Revogado.)
 
-a) 60 % para os cofres do Estado;
-
-b) 10 % para a entidade que levantou o auto;
-
-c) 10 % para a entidade que instruiu o processo;
-
-d) 20 % para a entidade que aplicou a coima.
+> Revogado pelo/a [Decreto-Lei n.º 136/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2026-1145969703), publicado em 2026-07-10.
 
 ###### Artigo 14.º — Regime aplicável
 
-Às contra-ordenações previstas no presente decreto-lei é aplicável, em tudo o que não se encontrar aqui regulado, o regime geral do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de Outubro.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 136/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2026-1145969703), publicado em 2026-07-10.
 
 ###### Artigo 15.º — Aplicação de regime especial
 
-A aplicação do regime de contra-ordenações previsto no presente decreto-lei fica prejudicada sempre que a infracção seja susceptível de qualificação como contra-ordenação tributária ou aduaneira, nos termos previstos na Lei n.º 15/2001, de 5 de Junho.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 136/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2026-1145969703), publicado em 2026-07-10.
 
 ###### Artigo 16.º — Norma revogatória
 

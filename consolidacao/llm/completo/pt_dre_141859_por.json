@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:141859:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Decreto 106/82, art. 2.º: revoga o Decreto 188/70 só na parte em que altera o artigo 2.º do Decreto 25638; revogação parcial do artigo único sem delimitação textual segura no texto atual; não aplicada.",
+  "instrucoes": [
+    "Decreto 106/82, art. 1.º: nova redação do art. 2.º do Decreto 25638 (outro diploma); ignorado.",
+    "Decreto 106/82, art. 2.º: revogação parcial do Decreto 188/70 (parte que altera o art. 2.º do Decreto 25638); não aplicada por falta de alvo textual seguro."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

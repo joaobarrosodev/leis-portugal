@@ -56,15 +56,17 @@ b) Apresentem contrato com consultor técnico de reconhecida capacidade científ
 
 São excluídos os projectos que:
 
-a) Não se enquadrem nas necessidades e objectivos da política de pescas;
+a) Não se enquadrem nos objectivos previstos no artigo 1.º;
 
 b) Impliquem um investimento global inferior a 10000 contos;
 
 c) Não prevejam o acompanhamento técnico e científico das acções durante o prazo mínimo de cinco anos, designadamente para a avaliação e controlo da evolução dos recursos das zonas marinhas em causa.
 
-###### Artigo 4.º — Critérios de selecção
+> Alterado pelo/a [Portaria n.º 437/98](https://diariodarepublica.pt/dr/detalhe/portaria/437-1998-429422), publicado em 1998-07-27.
 
-Para efeitos de concessão de apoio, será dada prioridade às candidaturas que satisfaçam as seguintes condições:
+###### Artigo 4.º — Critérios de prioridade
+
+Para efeitos de concessão de apoio, será dada prioridade às candidaturas que satisfaçam uma ou mais das seguintes condições:
 
 a) Protecção de juvenis de stocks de menor abundância;
 
@@ -75,6 +77,8 @@ c) Protecção de espécies de mais difícil controlo;
 d) Qualidade científica do projecto;
 
 e) Qualidade científica da equipa de apoio ao projecto.
+
+> Alterado pelo/a [Portaria n.º 437/98](https://diariodarepublica.pt/dr/detalhe/portaria/437-1998-429422), publicado em 1998-07-27.
 
 ###### Artigo 5.º — Despesas elegíveis
 
@@ -87,6 +91,10 @@ b) Construção e instalação de infra-estruturas de apoio directamente relacio
 c) Construção e instalação de estruturas de produção e protecção;
 
 d) Acompanhamento científico da acção.
+
+e) Encargos gerais e despesas imprevistas de investimento até ao montante máximo de 12% do investimento elegível orçamentado.
+
+> Alterado pelo/a [Portaria n.º 437/98](https://diariodarepublica.pt/dr/detalhe/portaria/437-1998-429422), publicado em 1998-07-27.
 
 ###### Artigo 6.º — Despesas não elegíveis
 
@@ -118,13 +126,17 @@ h) Imposto sobre o valor acrescentado (IVA) recuperável pelo beneficiário.
 
 ###### Artigo 8.º — Apresentação das candidaturas
 
-1 - Os interessados na obtenção dos apoios previstos no presente Regulamento apresentarão na Direcção-Geral das Pescas (DGP) os processos de candidatura até aos dias 31 de Março e 31 de Agosto de cada ano.
+1 - As candidaturas ao regime de apoio previsto no presente diploma são apresentadas na Direcção-Geral das Pescas e Aquicultura, na sua sede ou respectiva direcção regional.
 
-2 - Os processos de candidatura são apresentados em duplicado, mediante o preenchimento dos formulários próprios, devendo ser obrigatoriamente acompanhados de documentos comprovativos da verificação das condições previstas neste Regulamento.
+2 - Os processos de candidatura são apresentados em duplicado, mediante o preenchimento dos formulários próprios, devendo ser obrigatoriamente acompanhados de documentos comprovativos de que a situação contributiva perante o Estado e a segurança social se encontra regularizada, bem como da verificação das condições previstas neste Regulamento.
 
-3 - A DGP envia uma das cópias ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) para avaliação económica e financeira.
+3 - O não suprimento de deficiências de instrução do processo, devidamente notificadas aos candidatos, determina o indeferimento do processo respectivo.
 
-4 - A apreciação técnica e administrativa dos processos compete à DGP.
+4 - A DGP envia uma das cópias ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) para avaliação económica e financeira.
+
+5 - A apreciação técnica e administrativa dos processos compete à DGP.
+
+> Alterado pelo/a [Portaria n.º 437/98](https://diariodarepublica.pt/dr/detalhe/portaria/437-1998-429422), publicado em 1998-07-27.
 
 ###### Artigo 9.º — Indeferimento das candidaturas
 
@@ -138,22 +150,28 @@ h) Imposto sobre o valor acrescentado (IVA) recuperável pelo beneficiário.
 
 2 - A não celebração do contrato no prazo referido no número anterior por causa imputável ao candidato determina a perda do direito ao apoio.
 
-3 - O pagamento do apoio só será efectuado após verificação de que o candidato tem a situação contributiva regularizada perante a segurança social.
+3 - O pagamento do apoio só será efectuado após verificação de que o candidato tem a situação contributiva regularizada perante o Estado e a segurança social.
+
+> Alterado pelo/a [Portaria n.º 437/98](https://diariodarepublica.pt/dr/detalhe/portaria/437-1998-429422), publicado em 1998-07-27.
 
 ###### Artigo 11.º — Obrigações dos beneficiários
 
 Para os efeitos dos artigos 5.º e 6.º do [Decreto-Lei n.º 189/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1994-291604), de 5 de Julho, constarão dos contratos de atribuição de apoio, nomeadamente, as seguintes obrigações dos beneficiários:
 
-a) Iniciar a execução dos projectos no prazo máximo de 180 dias a contar da data de notificação para início de execução;
+a) Iniciar a execução dos projectos no prazo máximo de 180 dias a contar da data da outorga do contrato referido no artigo anterior;
 
 b) Executar os projectos de acordo com os prazos e condições previstos no contrato de concessão de apoio;
 
 c) Fornecer todos os elementos que forem solicitados pela DGP e pelo IFADAP ou por entidade por estes mandatada para fiscalização, acompanhamento e avaliação do resultado dos projectos.
 
+> Alterado pelo/a [Portaria n.º 437/98](https://diariodarepublica.pt/dr/detalhe/portaria/437-1998-429422), publicado em 1998-07-27.
+
 ###### Artigo 12.º — Alterações ao projecto
 
 Podem ser propostas alterações aos projectos aprovados, desde que se trate de alterações técnicas que não alterem a concepção estrutural e científica do projecto inicial.
 
-###### Artigo 13.º — Disposições transitórias
+###### Artigo 13.º — Data limite da apresentação das candidaturas
 
-No ano de 1994 os processos de candidatura serão apresentados até 15 de Setembro.
+A data limite da apresentação das candidaturas ao presente Regime é 30 de Junho de 1999.
+
+> Alterado pelo/a [Portaria n.º 437/98](https://diariodarepublica.pt/dr/detalhe/portaria/437-1998-429422), publicado em 1998-07-27.

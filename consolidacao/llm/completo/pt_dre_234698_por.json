@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:234698:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Todas as instruções dos alteradores 1 a 8 alteram os efectivos dos mapas I e II anexos, que no texto atual só existem como imagem ('ver documento original'); várias trazem os novos valores também só em imagem (DL 65/73, DL 166/85, DL 279/86) ou são aumentos/reduções relativos (DL 535/72, DL 136/74, DL 27/76, Portaria 57/85). Não há alteração textual a nenhum artigo.",
+  "instrucoes": [
+    "Alterador 1 (DL 370/72): fixa efectivos da classe dos músicos no mapa II, que só vem em imagem; não aplicado.",
+    "Alterador 2 (DL 535/72): acresce um capitão-de-mar-e-guerra aos farmacêuticos navais no mapa I (imagem); não aplicado.",
+    "Alterador 3 (DL 65/73): novos efectivos de capitães-de-mar-e-guerra e capitães-de-fragata; quadro só em imagem; não aplicado.",
+    "Alterador 4 (DL 136/74): aumenta efectivos da classe do serviço especial no mapa I (imagem); restantes artigos são normas próprias; não aplicado.",
+    "Alterador 5 (DL 27/76): reduções e aumentos de efectivos no mapa I (imagem); não aplicado.",
+    "Alterador 6 (Portaria 57/85): redistribui efectivos de primeiro-tenente dos fuzileiros no mapa I (imagem); não aplicado.",
+    "Alterador 7 (DL 166/85): altera efectivos da classe de oficiais técnicos no mapa I com valores em quadro anexo em imagem; não aplicado.",
+    "Alterador 8 (DL 279/86): ajusta efectivos dos fuzileiros no mapa I com quadro anexo em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

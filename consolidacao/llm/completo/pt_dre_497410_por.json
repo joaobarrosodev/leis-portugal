@@ -1,0 +1,80 @@
+{
+  "id": "pt:dre:497410:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objeto",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Requisitos de admissão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Ordenação dos candidatos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Norma remissiva",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Quadro de vinculação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Dotação das vagas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Aceitação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Apresentação ao concurso interno",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Ingresso na carreira",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Efetivação da colocação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 art. 60.º, n.º 1, alínea e): revoga o Decreto Legislativo Regional n.º 22/2013/M (com efeitos à data da portaria do art. 56.º); todos os artigos 1.º a 11.º marcados (Revogado.).",
+    "Alt.1 art. 57.º: extinção do quadro de vinculação (não textual)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

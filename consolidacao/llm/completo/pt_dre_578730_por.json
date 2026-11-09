@@ -1,0 +1,61 @@
+{
+  "id": "pt:dre:578730:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "Se os contentores forem importados temporariamente por empresas ferroviárias ou empresas de navegação marítima ou aérea, ou seus agentes, a garantia aos direitos exigida por lei poderá ser substituída por uma garantia especial de carácter permanente, no montante de 1000000$00.",
+      "alterador": 3
+    },
+    {
+      "chave": "12.º-A",
+      "epigrafe": "",
+      "texto": "Se os recebedores dos contentores ou as respectivas empresas transportadoras se responsabilizarem, por escrito, a registar em livro próprio o movimento de cada contentor importado temporàriamente e a facultar ao exame da fiscalização aduaneira todos os elementos que se tornem necessários para a averiguação desse movimento, poderá ser dispensada a garantia aos direitos a que se referem os artigos 8.º e 9.º e não serão exigidos bilhetes de despacho de importação temporária e de reexportação, processando-se em sua substituição simples guias.\n\n§ único. As guias a que se refere o corpo deste artigo poderão ser solicitadas pelos empregados dos recebedores ou das empresas transportadoras, devendo, porém, tais empregados ser abonados pela respectiva entidade patronal.",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "Os contentores poderão ser utilizados no tráfego interno desde que sigam por um caminho tanto quanto possível directo até ao local ou até um ponto próximo do local onde devam ser carregadas as mercadorias a exportar ou a partir do qual devam ser reexportados vazios.\n\n§ único. Cada contentor só poderá ser utilizado uma vez no tráfego interno antes da sua reexportação.",
+      "alterador": 1
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "É permitida a exportação temporária de contentores, vazios ou acondicionando mercadorias, cuja autorização é da competência dos directores das alfândegas, os quais poderão delegá-la nos chefes das estâncias aduaneiras, caso as circunstâncias o aconselhem.\n\n§ único. Os contentores que sejam propriedade de empresas de caminho de ferro seguem, porém, na exportação temporária e sua reemportação, o regime aduaneiro a que estão sujeitos os vagões.",
+      "alterador": 2
+    },
+    {
+      "chave": "15.º-A",
+      "epigrafe": "",
+      "texto": "Para efeito de exportação temporária e reimportação de contentores, não se exigirão bilhetes de despacho, processando-se em sua substituição simples guias.\n\n§ único. As guias a que se refere o corpo deste artigo poderão ser solicitadas pelos empregados dos exportadores nas condições expressas no § único do artigo 12.º-A.",
+      "alterador": 2
+    },
+    {
+      "chave": "17.º-A",
+      "epigrafe": "",
+      "texto": "É permitida a importação temporária de acessórios e equipamentos de contentores sob qualquer das modalidades previstas neste diploma para os contentores, aplicando-se-lhes as disposições dos artigos 13.º e 16.º\n\n§ único. Os acessórios e equipamentos referidos no corpo deste artigo poderão ser:\n\na) Importados com um contentor e reexportados isoladamente ou com um outro contentor, ou importados isoladamente e reexportados com um contentor;\n\nb) Utilizados no tráfego interno em conformidade com as disposições do artigo 14.º quando forem transportados com um contentor que beneficie das disposições do referido artigo.",
+      "alterador": 2
+    },
+    {
+      "chave": "17.º-B",
+      "epigrafe": "",
+      "texto": "É permitida a exportação temporária de acessórios e de equipamentos de contentores, mesmo quando se apresentem isoladamente, aplicando-se-lhes as disposições dos artigos 15.º e 15.º-A.\n\n§ único. Os acessórios e equipamentos referidos no corpo deste artigo poderão ser reimportados, quer isoladamente, quer com um outro contentor.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [
+    "18.º"
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1: nova redação do artigo 14.º - aplicada.",
+    "Alt.2 art. 1.º: aditados 12.º-A, 15.º-A, 17.º-A e 17.º-B - aplicados.",
+    "Alt.2 art. 2.º: eliminado o artigo 18.º (removido) e nova redação do corpo do 15.º, mantendo o § único atual - aplicados.",
+    "Alt.2 arts. 3.º a 5.º: alteram a Reforma Aduaneira e suas tabelas - não são do original, ignorados.",
+    "Alt.3: nova redação do artigo 9.º - aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

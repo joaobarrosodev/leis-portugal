@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:662081:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, arts. 3.º, 4.º e 6.º: alteram as bases I, III, XI, XII, XIII, XVII, XIX e XXVIII, os anexos I e II às bases e revogam a base XV e o n.º 2 da base XIX; as bases da concessão não constam do texto atual (só o título «Bases da concessão») e o anexo I só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, art. 2.º: nova redação do artigo 2.º — já estava no texto atual, nada a mudar.",
+    "Alterador 1, art. 3.º: nova redação de bases do anexo — bases ausentes do texto atual, não aplicado.",
+    "Alterador 1, art. 4.º: nova redação dos anexos I e II às bases — ausentes (anexo I em imagem), não aplicado.",
+    "Alterador 1, art. 6.º: revogação da base XV e do n.º 2 da base XIX — bases ausentes, não aplicado.",
+    "Alterador 1, arts. 1.º, 5.º e 7.º: objeto, aditamento ao contrato e entrada em vigor — não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

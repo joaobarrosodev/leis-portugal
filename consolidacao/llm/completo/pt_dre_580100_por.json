@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:580100:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "São isentas de direitos e dos respectivos emolumentos gerais da tabela II anexa à Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1963, e de quaisquer outras imposições a importação de materiais e equipamentos que se destinem à criação, manutenção e funcionamento de infra-estruturas N. A. T. O., a construir ou já existentes em Portugal.\n\n§ único. Para efeitos do disposto neste artigo, a comissão de manutenção de infra-estruturas N. A. T. O. enviará à Direcção-Geral das Alfândegas lista discriminativa, em triplicado, dos materiais e equipamentos a isentar, relativa a cada importação.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 538/73, artigo único: nova redação do artigo 2.º (corpo e § único) — substituído integralmente."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

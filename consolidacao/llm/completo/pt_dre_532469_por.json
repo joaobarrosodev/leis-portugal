@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:532469:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º, n.º 1: o quadro n.º 5 anexo passa a ter a redação do anexo, que só vem em imagem (ver quadro no documento original); não aplicado. Alterador 1, n.º 1.º, n.º 2: nova redação do n.º 2.º da Portaria, mas o n.º 2.º não consta do texto atual (só existem 3.º e 4.º), e a sua epígrafe é desconhecida; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º, n.º 1: substituição do quadro n.º 5 (imagem); não aplicável.",
+    "Alterador 1, n.º 1.º, n.º 2: nova redação do n.º 2.º, ausente do texto atual; não aplicada.",
+    "Alterador 1, n.º 2.º: aplicação no tempo; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

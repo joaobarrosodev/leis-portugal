@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "17.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 17.º — (Pessoal administrativo)\n\n1 - Os diplomas a publicar relativos ao pessoal administrativo deverão ter na devida consideracão as seguintes regras:\n\na) O ingresso far-se-á pela categoria de terceiro-oficial com o curso geral do ensino secundário ou equiparado;\n\nb) A carreira desenvolver-se-á pelas categorias de terceiro-oficial, segundo-oficial e primeiro-oficial, a que corresponderão, respectivamente, as letras M, L e J, ficando condicionado o acesso à categoria imediatamente superior à prestação de três anos de bom e efectivo serviço em cada categoria funcional.\n\n2 - Para efeitos do ingresso na carreira referida no número anterior, terão preferência os escriturários-dactilógrafos que possuam as habilitações fixadas na alínea a) do mesmo número.\n\n3 - Os actuais escriturários-dactilógrafos que não possuam a habilitação referida na alínea a) do n.º 1 não poderão ascender a categoria superior a segundo-oficial enquanto não possuírem aquelas habilitações.\n\n4 - É autonomizada a carreira de escriturário-dactilógrafo, que se desenvolverá de harmonia com as seguintes regras:\n\na) A habilitação mínima exigível para efeitos de ingresso é a escolaridade obrigatória;\n\nb) A carreira desenvolver-se-á pelas categorias de escriturário-dactilógrafo de 2.ª classe, 1.ª classe e principal, a que corresponderão, respectivamente, as letras S, Q e N.\n\nc) A mudança de classe fica condicionada à prestação de cinco anos na classe anterior, com bom e efectivo serviço.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 3/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1979-383036), publicado em 1979-05-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:329866:por",
+    "alterador": "pt:dre:383036:por"
+  }
+]

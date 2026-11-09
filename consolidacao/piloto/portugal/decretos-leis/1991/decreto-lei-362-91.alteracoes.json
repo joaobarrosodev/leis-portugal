@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\n1 - A constituição de novas sociedades determinadas pelo artigo 9.º é documentada apenas pelas actas das respectivas deliberações, as quais constituem título suficiente para os necessários registos.\n\n2 - São isentos de taxas e emolumentos devidos ao Registo Nacional de Pessoas Colectivas e às conservatórias dos registos predial ou comercial e de automóveis todos os actos a praticar para a execução do disposto no presente diploma.\n\nVisto e aprovado em Conselho de Ministros de 20 de Junho de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - José Manuel Cardoso Borges Soeiro.\n\nPromulgado em 19 de Setembro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 26 de Setembro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "depois": "###### Artigo 14.º\n\n1 - Para constituição de novas sociedades criadas na execução do disposto no artigo 9.º em que a INDEP, S. A., detenha a totalidade ou a maioria do capital social, bem como para as alterações dos estatutos desta até à sua constituição em sociedade gestora de participações sociais, incluindo a própria transformação, serão título bastante as actas das referidas deliberações, que, para todos os efeitos legais, substituem a respectiva escritura notarial e são título suficiente para os necessários registos, averbamentos e publicações.\n\n2 - Até que seja efectivada a alteração a que se refere o n.º 1 do artigo 13.º, são isentos de taxas e emolumentos devidos aos cartórios notariais, ao Registo Nacional de Pessoas Colectivas e às conservatórias dos registos predial, comercial e de automóveis todos os actos a praticar pela INDEP, S. A., para a execução do disposto no presente diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 221/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1993-268839), publicado em 1993-06-18.\n\nVisto e aprovado em Conselho de Ministros de 20 de Junho de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - José Manuel Cardoso Borges Soeiro.\n\nPromulgado em 19 de Setembro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 26 de Setembro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:293719:por",
+    "alterador": "pt:dre:268839:por"
+  }
+]

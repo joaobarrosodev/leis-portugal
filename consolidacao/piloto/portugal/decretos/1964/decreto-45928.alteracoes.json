@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nO Fundo é constituído por receitas próprias destinadas a custear os encargos com a acção social a desenvolver juntos dos trabalhadores rurais e por valores consignados aos fins previstos no Código do Trabalho Rural, incluindo as importâncias depositadas para despesas de repatriação.",
+    "depois": "###### Artigo 3.º\n\nO Fundo é constituído por receitas próprias destinadas a custear os encargos com a acção social a desenvolver juntos dos trabalhadores rurais e por valores consignados aos fins previstos no Código do Trabalho Rural, incluindo as importâncias depositadas para despesas de repatriação.\n\n§ único. Embora o Fundo vise principalmente o trabalho rural e equiparado, serão abrangidos também na sua acção social os trabalhadores não rurais que para ele hajam contribuído financeiramente, aproveitando os respectivos benefícios na medida da sua contribuição.\n\n> Alterado pelo/a [Decreto n.º 46972](https://diariodarepublica.pt/dr/detalhe/decreto/46972-1966-487314), publicado em 1966-04-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:537653:por",
+    "alterador": "pt:dre:487314:por"
+  }
+]

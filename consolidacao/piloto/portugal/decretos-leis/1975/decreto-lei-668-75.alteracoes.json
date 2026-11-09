@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nAs pensões devidas por acidentes de trabalho e doenças profissionais, independentemente da entidade responsável, são sempre calculadas com base na [Lei n.º 2137](https://diariodarepublica.pt/dr/detalhe/lei/2137-1968-256472), de 3 de Agosto de 1965, e [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto, e no salário anual de 48000$00, caso a retribuição real anual seja inferior a este valor.",
+    "depois": "###### Artigo 1.º\n\nAs pensões devidas por acidentes de trabalho ou por doenças profissionais que não sejam da responsabilidade da Caixa Nacional de Seguros de Doenças Profissionais são sempre calculadas com base na [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), de 3 de Agosto de 1965, no [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), de 23 de Novembro, e nos salários anuais correspondentes a doze vezes a remuneração mínima mensal legalmente fixada para o sector em que o trabalhador exerce a sua actividade e para o território - continente ou Regiões Autónomas dos Açores ou da Madeira - onde a exerce, desde que a respectiva remuneração anual seja inferior a esses valores.\n\n> Alterado pelo/a [Decreto-Lei n.º 39/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1981-388427), publicado em 1981-03-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:309894:por",
+    "alterador": "pt:dre:388427:por"
+  }
+]

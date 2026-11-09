@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\nSalvo caso de força maior, o processo deverá estar concluído no prazo de quarenta e cinco dias após a data do acidente.",
+    "depois": "###### Artigo 14.º\n\nSalvo caso de força maior, o processo deverá estar concluído no prazo de vinte dias após a data do acidente.\n\n> Alterado pelo/a [Portaria n.º 306/79](https://diariodarepublica.pt/dr/detalhe/portaria/306-1979-381170), publicado em 1979-06-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400061:por",
+    "alterador": "pt:dre:381170:por"
+  },
+  {
+    "artigo": "16.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 16.º\n\nO processo instaurado em conformidade com a secção II do presente Regulamento será enviado à Chefia do Serviço de Justiça para que se pronuncie acerca da sua elaboração.",
+    "depois": "###### Artigo 16.º\n\nO processo instaurado em conformidade com a secção II do presente Regulamento será enviado à Chefia do Serviço de Justiça para que, dentro do prazo de vinte dias, se pronuncie acerca da sua elaboração.\n\n> Alterado pelo/a [Portaria n.º 306/79](https://diariodarepublica.pt/dr/detalhe/portaria/306-1979-381170), publicado em 1979-06-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400061:por",
+    "alterador": "pt:dre:381170:por"
+  },
+  {
+    "artigo": "35.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 35.º\n\nA organização do processo ficará a cargo do mesmo oficial que for nomeado para instruir o processo disciplinar e criminal.",
+    "depois": "###### Artigo 35.º\n\nA organização do processo ficará a cargo do oficial que for nomeado para instruir o processo disciplinar, com observância do mesmo prazo estabelecido no n.º 14.º\n\n> Alterado pelo/a [Portaria n.º 306/79](https://diariodarepublica.pt/dr/detalhe/portaria/306-1979-381170), publicado em 1979-06-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400061:por",
+    "alterador": "pt:dre:381170:por"
+  },
+  {
+    "artigo": "39.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 39.º\n\nO processo assim instaurado será enviado à Chefia do Serviço de Justiça para que se pronuncie acerca da sua elaboração.",
+    "depois": "###### Artigo 39.º\n\nO processo assim instaurado será enviado à Chefia do Serviço de Justiça para que, dentro do mesmo prazo estabelecido no n.º 16.º, se pronuncie acerca da sua elaboração.\n\n> Alterado pelo/a [Portaria n.º 306/79](https://diariodarepublica.pt/dr/detalhe/portaria/306-1979-381170), publicado em 1979-06-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400061:por",
+    "alterador": "pt:dre:381170:por"
+  }
+]

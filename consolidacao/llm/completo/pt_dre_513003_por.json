@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:513003:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::27.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, arts. 2.º e 3.º: artigos 1.º e 5.º alterados e 8.º e 9.º aditados; já constam do texto atual.",
+    "Alterador 1, art. 4.º: artigos 2.º, 3.º, 4.º, 5.º, 8.º, 9.º, 10.º, 12.º, 14.º, 18.º e 19.º dos estatutos; já constam do texto atual.",
+    "Alterador 1, art. 5.º: aditamento do artigo 25.º-A dos estatutos; já consta.",
+    "Alterador 1, art. 6.º, a): revogações no decreto-lei; já aplicadas.",
+    "Alterador 1, art. 6.º, b): revogação dos artigos 6.º e 27.º dos estatutos; aplicada (os n.os 3 do 8.º, 1 e 2 do 9.º e 3 do 10.º já estavam revogados).",
+    "Alterador 1, art. 6.º, c): revoga artigo de outro diploma; ignorado.",
+    "Alterador 1, art. 7.º: republicação; sem outras alterações a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

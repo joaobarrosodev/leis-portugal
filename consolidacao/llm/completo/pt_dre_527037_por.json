@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:527037:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "Quando o oficial submetido a julgamento for oficial general, será nomeado para promotor ad hoc um oficial general, dos quadros do activo ou da reserva, se possível mais antigo do que aquele.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do art. 3.º; aplicada.",
+    "Alterador 1, art. 2.º: entrada em vigor; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

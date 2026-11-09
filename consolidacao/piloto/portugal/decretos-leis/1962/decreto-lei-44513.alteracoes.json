@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nO empréstimo será tomado integralmente pelo Banco Nacional Ultramarino, que porá à ordem da província o respectivo contravalor em escudos moçambicanos, a fim de serem aplicados em obras do II Plano de Fomento a realizar na referida província de Moçambique.",
+    "depois": "###### Artigo 2.º\n\nO empréstimo será tomado integralmente pelo Banco Nacional Ultramarino, que porá à ordem da província o respectivo valor em escudos moçambicanos, a fim de serem aplicados em obras do II Plano de Fomento a realizar na referida província de Moçambique.\n\n> Alterado pelo/a [Decreto-Lei n.º 45094](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45094-1963-693235), publicado em 1963-06-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:163408:por",
+    "alterador": "pt:dre:693235:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nNas datas fixadas nos artigos 5.º e 6.º, a província de Moçambique entregará ao Tesouro, em escudos metropolitanos, quantias iguais às despendidas por este para pagamento de juros e amortizações.\n\n§ único. Sempre que o julgar conveniente, pode a província proceder a amortizações antecipadas.\n\nNesse caso, poderá também o Tesouro, se assim o entender, antecipar as amortizações a que se refere o artigo 6.º",
+    "depois": "###### Artigo 7.º\n\nNas datas fixadas nos artigos 5.º e 6.º, a província de Moçambique entregará ao Tesouro, em escudos moçambicanos, quantias iguais às despendidas por este para pagamento de juros e amortizações ao Banco Nacional Ultramarino, de acordo com o estabelecido nos mesmos artigos.\n\n§ único. Sempre que o julgar conveniente, pode a província antecipar as amortizações ao Tesouro.\n\nNeste caso, poderá também o Tesouro, se assim o entender, antecipar as amortizações a que se refere o artigo 6.º\n\n> Alterado pelo/a [Decreto-Lei n.º 45094](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45094-1963-693235), publicado em 1963-06-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:163408:por",
+    "alterador": "pt:dre:693235:por"
+  }
+]

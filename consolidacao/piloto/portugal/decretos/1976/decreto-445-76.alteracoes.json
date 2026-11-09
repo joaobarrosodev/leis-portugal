@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1. A Comissão é composta por:\n\na) Dois médicos farmacologistas;\n\nb) Três médicos pertencentes à carreira hospitalar, dos quais um pediatra;\n\nc) Cinco farmacêuticos pertencentes à carreira hospitalar;\n\nd) Um representante da Direcção de Serviços de Farmácia e Medicamentos da Direcção-Geral de Saúde.\n\n2. Os membros da Comissão são nomeados por períodos de três anos, renováveis.\n\n3. O presidente é eleito pela Comissão, de entre os seus membros, por um período de três anos.",
+    "depois": "###### Artigo 3.º\n\n1. A Comissão é composta por:\n\na) Dois médicos farmacologistas;\n\nb) Três médicos pertencentes à carreira hospitalar, dos quais um pediatra;\n\nc) 3 farmacêuticos pertencentes à carreira hospitalar, um dos quais com experiência em farmácia clínica, e 2 farmacêuticos, sendo um deles tecnologista;\n\nd) Um representante da Direcção de Serviços de Farmácia e Medicamentos da Direcção-Geral de Saúde.\n\n2. Os membros da Comissão são nomeados por períodos de três anos, renováveis.\n\n3. O presidente é eleito pela Comissão, de entre os seus membros, por um período de três anos.\n\n> Alterado pelo/a [Decreto do Governo n.º 54/84](https://diariodarepublica.pt/dr/detalhe/decreto-governo/54-1984-399253), publicado em 1984-09-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:427174:por",
+    "alterador": "pt:dre:399253:por"
+  }
+]

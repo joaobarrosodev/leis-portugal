@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:616424:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DR 11/93 adita um mapa ao mapa anexo, que só vem em imagem (e o mapa anexo não está no texto atual). O texto do DL 121/2008 não vem no pedido; o mapa VIII republicado pela Decl. Ret. 49/2008 revoga o DR 15/91 'com excepção das disposições relativas às categorias subsistentes', sem identificar que artigos ficam, pelo que não se aplica.",
+  "instrucoes": [
+    "DR 11/93 art. 1.º: aditamento de mapa (imagem) - não aplicado.",
+    "DL 121/2008: sem texto no pedido - nada aplicado.",
+    "Decl. Ret. 49/2008 (mapa VIII): revogação com exceção de alcance indeterminado - não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

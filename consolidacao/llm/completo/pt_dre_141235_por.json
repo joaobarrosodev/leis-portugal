@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:141235:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL 603/71, art. 5.º: altera a redação de posições pautais da lista anexa ao DL 363/70, que só vem em imagem (ver documento original); não aplicado. Art. 1.º: novos direitos de base, sem alteração textual dos artigos.",
+  "instrucoes": [
+    "DL 603/71, art. 1.º: novas taxas como direitos de base; não textual, não aplicado.",
+    "DL 603/71, arts. 2.º, 3.º, 4.º, 6.º e 7.º: alteram listas de outros diplomas; ignorados.",
+    "DL 603/71, art. 5.º: altera a lista anexa ao original (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

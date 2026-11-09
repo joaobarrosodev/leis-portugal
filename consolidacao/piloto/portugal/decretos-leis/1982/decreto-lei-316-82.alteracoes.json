@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1 - A medalha de ouro será atribuída a pessoas colectivas, nacionais ou estrangeiras, que se hajam distinguido por serviços extraordinários e de invulgar relevo para o turismo nacional prestados, pelo menos, durante 5 anos.\n\n2 - Excepcionalmente, poderá ser concedida a medalha de ouro a pessoas singulares, nacionais ou estrangeiras, desde que estejam indissociavelmente ligadas às entidades previstas no número anterior.",
+    "depois": "###### Artigo 4.º\n\n1 - A medalha de ouro será atribuída a pessoas colectivas, nacionais ou estrangeiras, que se hajam distinguido por serviços extraordinários e de invulgar relevo para o turismo nacional prestados, pelo menos, durante 5 anos.\n\n2 - Poderá também ser concedida a medalha de ouro a pessoas singulares, nacionais ou estrangeiras, que ao turismo nacional hajam prestado serviços extraordinários e de excepcional relevo e mérito.\n\n> Alterado pelo/a [Decreto-Lei n.º 142/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1989-625606), publicado em 1989-04-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:397904:por",
+    "alterador": "pt:dre:625606:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\nA medalha de bronze destina-se a galardoar os profissionais de turismo que demonstrem especial competência e dedicação nas suas funções ou que hajam sido distinguidos em quaisquer concursos ou manifestações internacionais como resultado da capacidade que lhe foi reconhecida.",
+    "depois": "###### Artigo 6.º\n\nA medalha de bronze destina-se a galardoar as pessoas colectivas, nacionais ou estrangeiras, que tenham contribuído para a dignificação e valorização do turismo nacional e, bem assim, os profissionais de turismo que demonstrem especial competência no exercício das suas funções ou hajam sido distinguidos em quaisquer manifestações internacionais como resultado da capacidade que lhes foi reconhecida.\n\n> Alterado pelo/a [Decreto-Lei n.º 142/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1989-625606), publicado em 1989-04-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:397904:por",
+    "alterador": "pt:dre:625606:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nA menção honrosa é concedida para distinguir iniciativas e realizações de interesse para o turismo nacional, quando a relevância das mesmas possa ser apontada como exemplo a seguir.",
+    "depois": "###### Artigo 7.º\n\n1 - A menção honrosa é concedida para distinguir iniciativas e realizações de interesse para o turismo nacional quando a relevância da mesma possa ser apresentada como exemplo a seguir.\n\n2 - A menção honrosa atribuída à entidade organizadora de acontecimentos que revistam especial importância como atractivo turístico e, com carácter de regularidade, sirvam a defesa e promoção de valores tradicionais, culturais ou etnológicos, confere a faculdade de aqueles eventos usarem a designação de acontecimento de «interesse turístico internacional» ou «interesse turístico nacional».\n\n3 - A menção honrosa concedida a autor de livro ou obra impressa, filme ou outro suporte áudio-visual de comunicação confere o direito a designar como de «interesse turístico» a obra em atenção à qual haja sido atribuída.\n\n4 - A menção honrosa concedida a pessoa ou entidade que tenha realizado um trabalho especialmente relevante na valorização da gastronomia e dos vinhos portugueses confere o direito a designarem como de «interesse turístico» as obras ou iniciativas em atenção às quais haja sido atribuída.\n\n> Alterado pelo/a [Decreto-Lei n.º 142/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1989-625606), publicado em 1989-04-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:397904:por",
+    "alterador": "pt:dre:625606:por"
+  }
+]

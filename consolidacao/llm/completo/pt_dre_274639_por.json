@@ -1,0 +1,35 @@
+{
+  "id": "pt:dre:274639:por",
+  "artigos": [
+    {
+      "chave": "56.º",
+      "epigrafe": "",
+      "texto": "1. O pessoal dos hospitais e serviços da organização hospitalar, bem como todos os que ali exerçam funções por eles remunerados, temporárias ou permanentes, ficam sujeitos ao regime disciplinar dos servidores civis do Estado.\n\n2. A este regime podem ser introduzidas alterações no Regulamento Geral dos Hospitais, no que respeita aos estabelecimentos das Misericórdias e demais instituições de assistência particular, para o adaptar à natureza específica dos mesmos.\n\n3. A distribuição da competência disciplinar relativa ao pessoal dos estabelecimentos e serviços administrados por instituições de assistência particular constará também do Regulamento Geral dos Hospitais.\n\n4 - (Revogado.)",
+      "alterador": 7
+    },
+    {
+      "chave": "83.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 7
+    },
+    {
+      "chave": "84.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 7
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 4, 5 e 6 (Decretos-Leis n.os 498/70, 275/71 e 160/72) alteram/acrescentam categorias ao quadro tipo anexo a que se refere o artigo 72.º, que só vem em imagem ('ver documento original'); não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (DL 49176): torna o artigo 50.º aplicável às comissões inter-hospitalares; não é alteração textual, ignorado.",
+    "Alterador 2 (DL 49459): extensão do Estatuto aos institutos médico-sociais; não é alteração textual, ignorado.",
+    "Alterador 3 (DL 44/70): extensão às carreiras médicas dos hospitais das Universidades de Luanda e Lourenço Marques; não é alteração textual, ignorado.",
+    "Alteradores 4, 5 e 6: alteram o quadro tipo anexo (só em imagem); não aplicado, ver nao_aplicavel.",
+    "Alterador 7 (DL 253/2009), art. 3.º, a): revoga o n.º 4 do artigo 56.º (marcado '4 - (Revogado.)') e os artigos 83.º e 84.º (corpo '(Revogado.)')."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

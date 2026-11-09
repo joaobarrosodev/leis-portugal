@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:464000:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A Portaria n.º 808/80 (alteradores 1 e 2, o mesmo texto) adita cursos e nucleares aos quadros dos anexos I e II e substitui 'Engenharia Electrónica' por 'Engenharia Electrotécnica' no anexo I, mas esses anexos (e parte dos aditamentos) só existem em imagem; não há texto onde aplicar.",
+  "instrucoes": [
+    "Alt. 1 n.º 1.º a) e b): aditamentos ao anexo I (quadro em imagem): não aplicados.",
+    "Alt. 1 n.º 1.º c): retificação 'Engenharia Electrónica' -> 'Engenharia Electrotécnica' no anexo I: texto não existe no texto atual (anexo em imagem): não aplicada.",
+    "Alt. 1 n.º 2.º a) e b): aditamentos aos quadros do anexo II (Ciências Musicais, nota (a)): anexo II não está no texto atual: não aplicados.",
+    "Alt. 2: repetição da mesma Portaria n.º 808/80: idem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1 - São criadas ou reestruturadas as seguintes missões militares portuguesas na OTAN:\n\na) Missão Militar OTAN, em Bruxelas;\n\nb) Representação Militar Nacional junto do Quartel-General do Comando Supremo das Forças Aliadas na Europa, em Mons;\n\nc) Representação Nacional de Ligação junto do Quartel-General do Comando Supremo Aliado do Atlântico, em Washington;\n\nd) Representação Nacional de Ligação junto do Quartel-General do Comando-Chefe Aliado do Canal, em Londres;\n\ne) Gabinete do Oficial de Ligação junto da Agência OTAN de Manutenção e Abastecimento, no Luxemburgo;\n\nf) Gabinete do Oficial de Ligação junto do Quartel-General das Forças Aliadas do Sul da Europa, em Nápoles.\n\n2 - A estruturação, composição, criação e extinção de cada missão na OTAN será fixada em portaria conjunta do Chefe do Estado-Maior-General das Forças Armadas, do Ministro da Defesa Nacional, do Ministro dos Negócios Estrangeiros e do Ministro das Finanças e do Plano, ouvidos os Chefes dos Estados-Maiores dos ramos.\n\n3 - Na dependência administrativa e disciplinar do chefe da missão, dos representantes nacionais e dos oficiais de ligação podem ser colocados militares exercendo cargos internacionais OTAN, nomeados ao abrigo do [Decreto-Lei n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1981-389381), de 31 de Março.",
+    "depois": "###### Artigo 1.º\n\n1 - São criadas ou reestruturadas as seguintes missões militares portuguesas na OTAN:\n\na) Missão Militar OTAN, em Bruxelas;\n\nb) Representação Militar Nacional junto do Quartel-General do Comando Supremo das Forças Aliadas na Europa, em Mons;\n\nc) Representação Nacional de Ligação junto do Quartel-General do Comando Supremo Aliado do Atlântico, em Washington;\n\nd) Representação Nacional de Ligação junto do Quartel-General do Comando-Chefe Aliado do Canal, em Londres;\n\ne) Gabinete do Oficial de Ligação junto da Agência OTAN de Manutenção e Abastecimento, no Luxemburgo;\n\nf) Gabinete do Oficial de Ligação junto do Quartel-General das Forças Aliadas do Sul da Europa, em Nápoles.\n\ng) Unidade Nacional de Apoio junto da NATO Airborne Early Warning Force, na E-3A Component - Geilenkirchen.\n\nh) Missão Militar junto do Colégio de Defesa OTAN, em Roma.\n\n2 - A estruturação, composição, criação e extinção de cada missão na OTAN será fixada em portaria conjunta do Chefe do Estado-Maior-General das Forças Armadas, do Ministro da Defesa Nacional, do Ministro dos Negócios Estrangeiros e do Ministro das Finanças e do Plano, ouvidos os Chefes dos Estados-Maiores dos ramos.\n\n3 - Na dependência administrativa e disciplinar do chefe da missão, dos representantes nacionais e dos oficiais de ligação podem ser colocados militares exercendo cargos internacionais OTAN, nomeados ao abrigo do [Decreto-Lei n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1981-389381), de 31 de Março.\n\n> Alterado pelo/a [Decreto-Lei n.º 62/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1990-332907), publicado em 1990-02-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:576960:por",
+    "alterador": "pt:dre:332907:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "10.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º\n\n1 - O Fundo de Fomento da Habitação poderá conceder às câmaras municipais empréstimos destinados à aquisição ou expropriação de terrenos, bem como à construção das respectivas infra-estruturas, necessários aos empreendimentos habitacionais que beneficiem do disposto no artigo 1.º deste diploma.\n\n2 - Os empréstimos referidos no número anterior serão regulamentados por portaria conjunta dos Ministros das Finanças e do Plano e da Habitação e Obras Públicas.\n\n3 - O Fundo de Fomento da Habitação poderá adquirir ou expropriar os terrenos referidos no n.º 1 deste artigo, que cederá ao património municipal respectivo, tendo como contrapartida o reembolso da importância despendida, de acordo com as condições a fixar nos termos do n.º 2 deste artigo.\n\n4 - Os empréstimos a conceder às câmaras municipais nos termos deste artigo são dispensados do disposto no artigo 674.º do Código Administrativo.",
+    "depois": "###### Artigo 10.º\n\n1 - O Fundo de Fomento da Habitação poderá conceder às câmaras municipais empréstimos destinados à aquisição ou expropriação de terrenos, bem como à construção das respectivas infra-estruturas, necessários aos empreendimentos habitacionais que beneficiem do disposto no artigo 1.º deste diploma.\n\n2 - Os empréstimos referidos no número anterior serão regulamentados por portaria conjunta dos Ministros das Finanças e do Plano e da Habitação e Obras Públicas.\n\n3 - O Fundo de Fomento da Habitação poderá adquirir ou expropriar os terrenos referidos no n.º 1 deste artigo, que cederá ao património municipal respectivo, tendo como contrapartida o reembolso da importância despendida, de acordo com as condições a fixar nos termos do n.º 2 deste artigo.\n\n4 - Os empréstimos a conceder às câmaras municipais nos termos deste artigo são dispensados do disposto no artigo 674.º do Código Administrativo.\n\n5 - As cooperativas de habitação poderão beneficiar de financiamentos para a realização ou conclusão das infra-estruturas dos empreendimentos por elas promovidos nos termos dos n.os 1 e 2 deste artigo.\n\n> Alterado pelo/a [Decreto-Lei n.º 403/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1983-443544), publicado em 1983-11-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:330177:por",
+    "alterador": "pt:dre:443544:por"
+  }
+]

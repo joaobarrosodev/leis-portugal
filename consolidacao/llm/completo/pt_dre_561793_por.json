@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:561793:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O alterador substitui o anexo I (plano de estudos do 4.º ao 6.º anos), que só existe em imagem no documento original e não consta do texto por artigos.",
+  "instrucoes": [
+    "1.º: nova redação do anexo I — não aplicável (anexo só em imagem).",
+    "2.º: regra de aplicação no tempo — sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

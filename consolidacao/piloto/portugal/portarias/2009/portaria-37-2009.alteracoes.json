@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Objecto\n\nPela presente portaria é alterado o Regulamento do Programa de Alargamento da Rede de Equipamentos Sociais (PARES), anexo à [Portaria n.º 426/2006](https://diariodarepublica.pt/dr/detalhe/portaria/426-2006-659940), de 2 de Maio.",
+    "depois": "###### Artigo 1.º — Objecto\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 290/2019](https://diariodarepublica.pt/dr/detalhe/portaria/290-2019-124457188), publicado em 2019-09-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:603071:por",
+    "alterador": "pt:dre:124457188:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nPelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social, em 9 de Janeiro de 2009.",
+    "depois": "###### Artigo 2.º — Entrada em vigor\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 290/2019](https://diariodarepublica.pt/dr/detalhe/portaria/290-2019-124457188), publicado em 2019-09-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:603071:por",
+    "alterador": "pt:dre:124457188:por"
+  }
+]

@@ -14,5 +14,19 @@
     ],
     "diploma": "pt:dre:223626:por",
     "alterador": "pt:dre:438175:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Produto das coimas\n\nO produto das coimas aplicadas nos termos do presente diploma reverte a favor das seguintes entidades:\n\na) 60% para o Estado;\n\nb) 30% para a Direcção-Geral das Florestas ou, nos casos previstos no n.º 2 do artigo 2.º, para o ICN;\n\nc) 10% para a entidade autuante.",
+    "depois": "###### Artigo 3.º — Produto das coimas\n\nO produto das coimas aplicadas nos termos do presente diploma reverte a favor das seguintes entidades:\n\na) 60% para o Estado;\n\nb) 20% para a Direcção-Geral das Florestas ou, nos casos previstos no n.º 2 do artigo 2.º, para o ICN;\n\nc) 10% para a entidade instrutora;\n\nd) 10% para a entidade autuante.\n\n> Alterado pelo/a [Decreto-Lei n.º 253/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1998-438175), publicado em 1998-08-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:223626:por",
+    "alterador": "pt:dre:438175:por"
   }
 ]

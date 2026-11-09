@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:454831:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 148/2013), art. 16.º: substitui o anexo III do Regulamento (lista de códigos de países da marca de homologação), que não consta do texto atual por artigos e vem com '[...]' sobre conteúdo não disponível; não aplicado.",
+  "instrucoes": [
+    "Alt. 1, art. 16.º: nova redação do anexo III do Regulamento; não aplicada (anexo fora do texto por artigos).",
+    "Alt. 1, restantes artigos: alteram outros diplomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

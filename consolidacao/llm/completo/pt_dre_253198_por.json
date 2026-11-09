@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:253198:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 573/80): altera a alínea c) do artigo 23.º do DL 47331 e substitui o quadro do DL 308/74 — instruções dirigidas a outros diplomas, não ao original; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

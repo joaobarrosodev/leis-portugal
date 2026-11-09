@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:421599:por",
+  "artigos": [
+    {
+      "chave": "64.º",
+      "epigrafe": "",
+      "texto": "1. Os lugares de secretário-geral e de director-geral de Administração Local serão providos, por nomeação do Primeiro-Ministro e do Ministro da Administração Interna, de entre licenciados em Direito com reconhecida capacidade para o desempenho das respectivas funções.\n\n2. Sempre que a nomeação recaia em quem já seja funcionário público ou administrativo, os lugares serão exercidos em comissão de serviço, pelo período de três anos, renovável, sem prejuízo das remunerações e regalias atribuídas ao cargo de origem, e contando-se, para todos os efeitos legais, como se neste fora prestado, todo o tempo em que o funcionário se mantiver no desempenho dos referidos lugares.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 391/74), art. 1.º: altera quadro anexo ao DL 320/73, outro diploma: ignorado.",
+    "Alterador 1, art. 2.º: nova redação do art. 64.º; substituída depois pelo alterador 2.",
+    "Alterador 2 (Decreto 707/74), artigo único: nova redação do art. 64.º (n.os 1 e 2): aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

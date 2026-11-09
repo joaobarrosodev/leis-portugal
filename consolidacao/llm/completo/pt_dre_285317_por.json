@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:285317:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Departamentos, serviços e áreas funcionais",
+      "texto": "As valências existentes no Hospital de São José integram os departamentos, serviços e áreas funcionais seguintes:\n\nDepartamento de medicina, que integra os serviços e áreas funcionais:\n\nServiço de medicina interna;\n\nServiço de cuidados intensivos médicos polivalente;\n\nHospital de dia;\n\nNeurologia/neurofisiologia;\n\nGastrenterologia;\n\nDepartamento de cirurgia geral, que integra os serviços:\n\nCirurgia geral:\n\nServiço 3;\n\nServiço 4;\n\nDepartamento de especialidades cirúrgicas, que integra os serviços:\n\nServiço 6:\n\nCirurgia plástica e reconstrutiva e queimados;\n\nCirurgia maxilofacial e estomatologia;\n\nServiço 7:\n\nOftalmologia;\n\nServiço 8:\n\nOtorrinolaringologia;\n\nDepartamento de ortopedia, que integra os serviços e áreas funcionais:\n\nOrtopedia;\n\nTraumatologia;\n\nVertebromedular;\n\nDepartamento de neurocirurgia, que integra os sectores e áreas funcionais:\n\nNeurocirurgia;\n\nNeurotraumatologia;\n\nCuidados intensivos;\n\nCuidados intermédios;\n\nDepartamento de cuidados ambulatórios, que integra todas as especialidades e subespecialidades existentes no Hospital:\n\nConsultas externas;\n\nUrgência;\n\nServiço de patologia morfológica;\n\nServiço de patologia clínica;\n\nServiço de anestesiologia;\n\nServiço de imagiologia;\n\nServiço de imuno-hemoterapia;\n\nServiço de medicina física e reabilitação.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 986/2000, n.º 1.º, dá nova redação ao art. 3.º: no departamento de ortopedia, 'Ortopedia:' com Serviço 5 e Serviço 9 passa a 'Ortopedia;' e 'Traumatologia;'; restantes unidades mantidas ('...').",
+    "Portaria 115-A/2004 cria o Centro Hospitalar de Lisboa (Zona Central) e extingue o Hospital como pessoa colectiva: sem alteração textual ao regulamento; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

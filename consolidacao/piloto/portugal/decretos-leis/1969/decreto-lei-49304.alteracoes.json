@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "49.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 49.º\n\nEnquanto persistirem as circunstâncias a que alude o artigo 22.º na província de Macau as funções atribuídas aos fundos cambiais pelos artigos 34.º, 37.º, 38.º e 39.º serão exercidas pelo banco emissor da mesma província.",
+    "depois": "###### Artigo 49.º\n\n1. Enquanto persistirem as circunstâncias a que alude o artigo 22.º, na província de Macau as funções atribuídas aos fundos cambiais pelos artigos 34.º, 37.º, 38.º e 39.º serão exercidas pelo banco emissor da mesma província.\n\n2. O Governo de Macau poderá, por despacho, aumentar a representação das actividades económicas da província no Conselho de Câmbios até três unidades, elevando simultâneamente do mesmo número a representação dos serviços provinciais referida na alínea b) do n.º 1 do artigo 25.º\n\n> Alterado pelo/a [Decreto-Lei n.º 641/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/641-1970-146176), publicado em 1970-12-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:216289:por",
+    "alterador": "pt:dre:146176:por"
+  }
+]

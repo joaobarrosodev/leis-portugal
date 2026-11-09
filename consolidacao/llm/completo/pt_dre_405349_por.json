@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:405349:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "É autorizado o Ministro das Finanças a substituir, por despacho, a tabela de emolumentos especiais referida no [Decreto n.º 33023](https://diariodarepublica.pt/dr/detalhe/decreto/33023-1943-400235), de 6 de Setembro de 1943, e bem assim as gratificações de serviço aos oficiais e sargentos da Guarda Fiscal, dentro dos limites estabelecidos para a Guarda Nacional Republicana.",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "É autorizada a Guarda Fiscal a contratar ou assalariar, mediante aprovação do Ministro das Finanças, o pessoal civil necessário à boa execução dos seus serviços, dentro dos limites das verbas inscritas no Orçamento Geral do Estado para esses fins.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação dos artigos 1.º e 2.º, substituídos; o art. 2.º do alterador (tabela continua em vigor) não altera o original",
+    "Alterador 2 (Despacho Normativo n.º 75/89): substitui a tabela do Decreto n.º 33023, não o texto do original; ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

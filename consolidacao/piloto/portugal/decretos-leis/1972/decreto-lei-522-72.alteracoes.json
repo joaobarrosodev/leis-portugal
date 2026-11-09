@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "39.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 39.º\n\n1. O pessoal técnico e administrativo actualmente ao serviço do Instituto de Estudos Sociais poderá ser colocado nos lugares da mesma categoria do quadro do Instituto Superior de Ciências do Trabalho e da Empresa, mediante relação nominal aprovada pelo Ministro da Educação Nacional e publicada no Diário do Governo, com dispensa de quaisquer outras formalidades, excepto visto do Tribunal de Contas, desde que possua as habilitações legais exigidas para o cargo.\n\n2. O pessoal que se encontra em regime de comissão de serviço pode manter a mesma forma de provimento.",
+    "depois": "###### Artigo 39.º\n\n1. O pessoal técnico, administrativo e auxiliar actualmente ao serviço do Instituto de Estudos Sociais poderá ser colocado nos lugares da mesma categoria do quadro do Instituto Superior de Ciências do Trabalho e da Empresa, mediante relação nominal aprovada pelo Ministro da Educação e Cultura e publicada no Diário do Governo, com dispensa de quaisquer outras formalidades, excepto a anotação pela Direcção-Geral do Tribunal de Contas, desde que possua as habilitações legais exigidas para o cargo.\n\n2. O pessoal que se encontra em regime de comissão de serviço pode manter a mesma forma de provimento.\n\n> Alterado pelo/a [Decreto-Lei n.º 280/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1975-335907), publicado em 1975-06-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:685448:por",
+    "alterador": "pt:dre:335907:por"
+  },
+  {
+    "artigo": "40.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 40.º\n\nOs actuais docentes do Instituto de Estudos Sociais podem manter-se ao serviço por um período de dois anos, na situação em que se encontram à data da promulgação do presente diploma, desde que neles se verifiquem as condições exigidas pela legislação universitária.",
+    "depois": "###### Artigo 40.º\n\n1. Os actuais docentes do Instituto de Estudos Sociais podem manter-se ao serviço por um período de dois anos, na situação em que se encontram à data da promulgação do presente diploma, desde que neles se verifiquem as condições exigidas pela legislação universitária.\n\n2. Sob proposta do Instituto, o período referido no número anterior poderá ser prolongado por períodos anuais automaticamente renováveis, até ao limite do prazo fixado no n.º 1 do artigo 43.º\n\n> Alterado pelo/a [Decreto-Lei n.º 280/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1975-335907), publicado em 1975-06-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:685448:por",
+    "alterador": "pt:dre:335907:por"
+  },
+  {
+    "artigo": "44.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 44.º\n\nConsiderar-se-ão como possuidores de um curso superior os diplomados pelo Instituto de Estudos Sociais que à data da sua admissão possuíssem o curso complementar dos liceus.",
+    "depois": "###### Artigo 44.º\n\nConsideram-se, para todos os efeitos, como bacharéis os diplomados pelo Instituto de Estudos Sociais.\n\n> Alterado pelo/a [Decreto-Lei n.º 280/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1975-335907), publicado em 1975-06-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:685448:por",
+    "alterador": "pt:dre:335907:por"
+  }
+]

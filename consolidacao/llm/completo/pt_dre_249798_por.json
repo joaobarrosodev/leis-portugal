@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:249798:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º: substitui os mapas I a IV (e altera o IX) do orçamento, que só vêm em imagem e não estão no texto por artigos; não aplicado.",
+  "instrucoes": [
+    "Alt. 1 (DLR 26-A/98/M), art. 1.º: alteração dos mapas do orçamento — não aplicável (mapas em imagem).",
+    "Alt. 1, art. 2.º: nova redação do artigo 8.º — já refletida no texto atual, sem mudança.",
+    "Alt. 1, art. 3.º: altera o DLR 23/98/M — ignorado (outro diploma)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

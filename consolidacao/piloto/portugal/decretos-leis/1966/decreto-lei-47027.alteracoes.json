@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\nO presente decreto-lei apenas se aplica às infracções criminais e disciplinares cometidas durante o período em que os seus autores se encontravam apresentados em qualquer dos departamentos do Estado das forças armadas.\n\n§ 1.º Os benefícios constantes deste diploma, na parte criminal, não aproveitam a quaisquer reincidentes, aos delinquentes de difícil correcção, nem aos militares referidos no corpo do artigo 40.º do Código de Justiça Militar, que tenham cometido qualquer dos crimes previstos nesse preceito legal. A baixa de posto, aplicada por força do citado código, não será anulada.\n\n§ 2.º Os benefícios de natureza disciplinar não compreendem a anulação dos efeitos de transferência, mudança de quadro, baixa de posto, eliminação, baixa de serviço, passagem à reforma, descida na escala de antiguidade e preterição, já verificada, na promoção.\n\n§ 3.º As penas disciplinares anuladas nos termos deste decreto-lei serão sempre tomadas em consideração para o efeito do disposto no artigo 187.º do Regulamento de Disciplina Militar.",
+    "depois": "###### Artigo 8.º\n\nO presente decreto-lei apenas se aplica às infracções criminais e disciplinares cometidas durante o período em que os seus autores se encontram apresentados em qualquer dos departamentos do Estado das forças armadas e das forças militarizadas.\n\n§ 1.º Os benefícios constantes deste diploma, na parte criminal, não aproveitam a quaisquer reincidentes, aos delinquentes de difícil correcção, nem aos militares referidos no corpo do artigo 40.º do Código de Justiça Militar, que tenham cometido qualquer dos crimes previstos nesse preceito legal. A baixa de posto, aplicada por força do citado código, não será anulada.\n\n§ 2.º Os benefícios de natureza disciplinar não compreendem a anulação dos efeitos de transferência, mudança de quadro, baixa de posto, eliminação, baixa de serviço, passagem à reforma, descida na escala de antiguidade e preterição, já verificada, na promoção.\n\n§ 3.º As penas disciplinares anuladas nos termos deste decreto-lei serão sempre tomadas em consideração para o efeito do disposto no artigo 187.º do Regulamento de Disciplina Militar.\n\n> Alterado pelo/a [Decreto-Lei n.º 47628](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47628-1967-509671), publicado em 1967-04-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:473493:por",
+    "alterador": "pt:dre:509671:por"
+  }
+]

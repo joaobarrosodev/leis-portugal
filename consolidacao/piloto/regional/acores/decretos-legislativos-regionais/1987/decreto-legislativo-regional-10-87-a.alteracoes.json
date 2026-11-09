@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n1 - Os deputados à Assembleia Regional percebem mensalmente um vencimento correspondente ao dos deputados à Assembleia da República, menos a diferença entre a letra A e a letra B dos vencimentos do funcionalismo público.\n\n2 - Cada grupo parlamentar poderá ter dois vice-presidentes; mais um, caso ultrapasse o número de vinte deputados.\n\n3 - A situação dos presidentes das comissões é equiparada à dos presidentes dos grupos parlamentares e a dos secretários da mesa e a dos relatores das comissões é equiparada à dos vice-presidentes dos grupos parlamentares.\n\n4 - É proibida a acumulação de abonos por vários títulos.",
+    "depois": "###### Artigo 5.º\n\n1 - Os deputados à Assembleia Legislativa Regional percebem mensalmente um vencimento correspondente ao dos deputados à Assembleia da República, deduzida a percentagem de 3,5%.\n\n2 - Cada grupo parlamentar poderá ter dois vice-presidentes; mais um, caso ultrapasse o número de vinte deputados.\n\n3 - A situação dos presidentes das comissões é equiparada à dos presidentes dos grupos parlamentares e a dos secretários da mesa e a dos relatores das comissões é equiparada à dos vice-presidentes dos grupos parlamentares.\n\n4 - É proibida a acumulação de abonos por vários títulos.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 18/94/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1994-291222), publicado em 1994-07-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:419650:por",
+    "alterador": "pt:dre:291222:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\n1 - O regime de ajudas de custo dos deputados à Assembleia Regional é idêntico ao dos deputados à Assembleia da República, distinguindo-se a situação dos que residam na ilha onde se realizam as reuniões ou fora dela.\n\n2 - Na contagem dos dias ter-se-á em conta, como factor correctivo, a duração exacta da deslocação dos deputados da ilha onde residam, por motivos de trabalhos do plenário, das comissões ou outras admitidas pelo Estatuto dos Deputados, derivada das contingências dos transportes na Região.",
+    "depois": "###### Artigo 6.º\n\n1 - O critério de atribuição de ajudas de custo aos deputados à Assembleia Legislativa Regional, nos termos legais em vigor, será fixado por deliberação da Assembleia Legislativa Regional, distinguindo-se a situação dos que residam na ilha onde se realizam as reuniões ou fora dela.\n\n2 - Na contagem dos dias ter-se-á em conta, como factor correctivo, a duração exacta da deslocação dos deputados da ilha onde residam, por motivos de trabalhos do plenário, das comissões ou outras admitidas pelo Estatuto dos Deputados, derivada das contingências dos transportes na Região.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 18/94/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1994-291222), publicado em 1994-07-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:419650:por",
+    "alterador": "pt:dre:291222:por"
+  }
+]

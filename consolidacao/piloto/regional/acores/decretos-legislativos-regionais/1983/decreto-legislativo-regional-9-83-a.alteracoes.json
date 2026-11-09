@@ -14,5 +14,47 @@
     ],
     "diploma": "pt:dre:310441:por",
     "alterador": "pt:dre:372619:por"
+  },
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1 - Sem prejuízo de outros limites já fixados no n.º 1 do artigo 18.º do Código da Estrada, a circulação nas estradas regionais de veículos com peso bruto superior a:\n\n16 t - veículos de 3 ou mais eixos;\n\n16 t - veículos articulados de 3 eixos;\n\n32 t - veículos articulados de 5 ou mais eixos;\n\n32 t - conjuntos veículo-reboque de 5 ou mais eixos;\n\n16 t - reboques de 3 ou mais eixos;\n\nsó será permitida mediante autorização a conceder caso por caso.\n\n2 - A circulação nas mesmas estradas de veículos articulados ou de conjuntos veículo-reboque com comprimento superior a 12 m fica sujeita a idêntica autorização.\n\n3 - (Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 25/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1988-372619), publicado em 1988-07-22.",
+    "depois": "###### Artigo 1.º\n\n1 - Sem prejuízo de outros limites já fixados no n.º 1 do artigo 18.º do Código da Estrada, com a redacção que lhe foi dada pelo [Decreto Regulamentar n.º 78/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1985-170482), de 26 de Novembro, a circulação, nas estradas regionais, de veículos com peso bruto superior a 19 t só será permitida mediante autorização a conceder caso a caso.\n\n2 - A circulação nas mesmas estradas de veículos articulados ou de conjuntos veículo-reboque com comprimento superior a 12 m fica sujeita a idêntica autorização.\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 25/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1988-372619), publicado em 1988-07-22.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 25/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1988-372619), publicado em 1988-07-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:310441:por",
+    "alterador": "pt:dre:372619:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1 - Os veículos já em circulação na Região e cujo peso ou comprimento excedam os valores referidos nos artigos 1.º e 2.º deverão requerer a necessária autorização de circulação no prazo de 60 dias, a contar da data da entrada em vigor do presente decreto.\n\n2 - A autorização referida no número anterior será sempre concedida sem necessidade da condição prevista no n.º 1 do artigo 3.º\n\n3 - Para os veículos não afectos ao serviço público, a autorização em causa terá a validade de 1 ano, sendo renovada por iguais períodos após inspecção anual a realizar pela autoridade competente a requerimento do interessado.",
+    "depois": "###### Artigo 4.º\n\n1 - Os proprietários dos veículos já em circulação na Região, cujos modelos tenham sido homologados e cujo peso bruto venha a exceder o valor referido no n.º 1 do artigo 1.º, deverão requerer, no prazo de 60 dias a contar da data da entrada em vigor do presente diploma, a substituição da autorização já concedida.\n\n2 - A nova autorização não poderá conter restrições que derivem da alteração introduzida pelo n.º 1 do artigo 1.º\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 25/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1988-372619), publicado em 1988-07-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:310441:por",
+    "alterador": "pt:dre:372619:por"
+  },
+  {
+    "artigo": "6.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 6.º-A\n\nAs autoridades com jurisdição nas áreas de circulação dos veículos a que se refere o n.º 1 do artigo 1.º estabelecerão, por meio de sinalização adequada, os condicionamentos e proibições que forem julgados necessários.\n\n> Aditado pelo/a [Decreto Legislativo Regional n.º 25/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1988-372619), publicado em 1988-07-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:310441:por",
+    "alterador": "pt:dre:372619:por"
   }
 ]

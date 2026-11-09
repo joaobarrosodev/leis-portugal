@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:3317501:por",
+  "artigos": [
+    {
+      "chave": "35.º",
+      "epigrafe": "Contas de titularidade directa",
+      "texto": "1 - Ainda que não se adopte o sistema previsto no n.º 2 do artigo 17.º, inscrevem-se obrigatoriamente junto da entidade gestora contas de titularidade directa relativas aos valores mobiliários pertencentes às seguintes entidades:\n\na) Instituições de investimento colectivo;\n\nb) Fundos de pensões.\n\n2 - Podem ainda abrir contas de titularidade directa as entidades que possam prestar serviços de liquidação de valores mobiliários ou outros instrumentos financeiros.\n\n3 - O somatório dos saldos das contas globais é igual à diferença entre o saldo da conta de emissão e o somatório dos saldos das contas de titularidade directa.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Reg. CMVM 3/2003 art. 1.º: nova redação do n.º 1 do art. 35.º (alíneas a) e b)); n.os 2 e 3 mantidos — aplicado.",
+    "Art. 2.º: entrada em vigor, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

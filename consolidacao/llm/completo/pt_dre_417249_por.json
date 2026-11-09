@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:417249:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1, 2 e 3 alteram o quadro de pessoal anexo, que só vem em imagem (ver documento original); não alteram o texto de nenhum artigo. Alterador 4 não traz texto de artigos que mencionem o original.",
+  "instrucoes": [
+    "Alterador 1 (DRR 15/91/A), artigo único: altera o quadro de pessoal anexo; quadro só em imagem, não aplicado.",
+    "Alterador 2 (DRR 8/93/A), artigo único: altera o quadro de pessoal anexo; quadro só em imagem, não aplicado.",
+    "Alterador 3 (DRR 18/95/A), artigo único: altera o quadro anexo; quadro só em imagem, não aplicado.",
+    "Alterador 4 (DRR 11/98/A): sem texto fornecido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

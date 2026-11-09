@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:356141:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 64-B/89 art. 1.º: altera os arts. 14.º a 17.º e 21.º do DL 398/83, não a Lei 107/88 — ignorado.",
+    "DL 64-B/89 arts. 2.º e 3.º: normas próprias, sem alteração ao original.",
+    "Acórdão 581/95: sem artigos fornecidos, nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

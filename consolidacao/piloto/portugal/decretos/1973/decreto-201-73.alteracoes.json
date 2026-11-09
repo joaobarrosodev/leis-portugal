@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º\n\n1. Constituem encargo do Cofre Geral dos Tribunais as despesas de transporte e as ajudas de custo dos funcionários chamados a frequentar os cursos, salvo quando se trate de deslocações para frequência dos cursos exigidos por lei como condição de ingresso nos quadros ou de provimento definitivo.\n\n2. Será igualmente suportado pelo Cofre o encargo com o pagamento da diferença entre o quantitativo da gratificação, previsto na lei, e o quantitativo do vencimento do cargo de origem, a abonar ao director do Instituto, quando as respectivas funções não forem exercidas em regime de acumulação.\n\nMarcello Caetano - Mário Júlio Brito de Almeida Costa.\n\nPromulgado em 14 de Abril de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.",
+    "depois": "###### Artigo 12.º\n\n1. Constituem encargo do Cofre Geral dos Tribunais as despesas de transporte e as ajudas de custo dos funcionários chamados a frequentar cursos do Instituto.\n\n2. Será igualmente suportado pelo Cofre o encargo com o pagamento da diferença entre o quantitativo da gratificação, previsto na lei, e o quantitativo do vencimento do cargo de origem, a abonar ao director do Instituto, quando as respectivas funções não forem exercidas em regime de acumulação.\n\n> Alterado pelo/a [Decreto n.º 237/76](https://diariodarepublica.pt/dr/detalhe/decreto/237-1976-502820), publicado em 1976-04-06.\n\nMarcello Caetano - Mário Júlio Brito de Almeida Costa.\n\nPromulgado em 14 de Abril de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:422009:por",
+    "alterador": "pt:dre:502820:por"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "pt:dre:363960:por",
+  "artigos": [
+    {
+      "chave": "10.º-A",
+      "epigrafe": "Docentes no exercício de funções de administração e gestão",
+      "texto": "À avaliação dos docentes que ocupem cargos de direcção, gestão e administração dos estabelecimentos de educação ou de ensino e que exerçam simultaneamente funções lectivas são aplicáveis as regras estabelecidas no presente diploma e no ECD, com as seguintes especialidades:\n\na) As competências previstas nos artigos 5.º, 7.º e 8.º, n.º 2, relativamente ao processo de avaliação dos docentes titulares dos cargos de director de estabelecimento de educação pré-escolar e do 1.º ciclo do ensino básico não integrado no modelo de gestão definido pelo [Decreto-Lei n.º 172/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1991-612219), de 10 de Maio, de director executivo de escola ou de área escolar, de presidente de conselho directivo de escola e de director de escola profissional são exercidas pelo respectivo director regional de educação;\n\nb) Os docentes, quando membros do órgão colegial a quem compete proceder à avaliação, não podem participar na deliberação que lhes diga directamente respeito.",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Avaliação",
+      "texto": "1 - O disposto neste capítulo é aplicável aos docentes que exerçam funções de natureza técnico-pedagógica em serviços da Administração Pública.\n\n2 - A avaliação prevista no número anterior exprime-se por uma menção qualitativa obtida através do sistema de notação em vigor para o pessoal técnico superior ou técnico do serviço onde o docente se encontra requisitado, destacado ou em comissão de serviço, com as adaptações previstas nos números seguintes.\n\n3 - O serviço prestado por docentes no exercício de funções de direcção ou chefia considera-se, para efeitos deste diploma, avaliado como Satisfaz.\n\n4 - Os docentes que ocupem cargos de direcção, gestão e administração nos estabelecimentos de educação ou de ensino, desde que não vinculados à prestação efectiva de funções lectivas, consideram-se avaliados, para os efeitos estabelecidos no presente diploma, com Satisfaz.",
+      "alterador": 2
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Dispensa da avaliação relativa ao tempo de serviço prestado em anos anteriores",
+      "texto": "1 - Os docentes abrangidos pelo regime previsto no presente diploma ficam dispensados da avaliação relativa ao tempo de serviço prestado até à data da sua entrada em vigor, sendo facultativa a elaboração do relatório crítico sobre a actividade desenvolvida no período de tempo de serviço que releva para os efeitos de progressão na carreira.\n\n2 - Até à aplicação generalizada do novo modelo de administração, direcção e gestão dos estabelecimentos de educação e de ensino, definido pelo [Decreto-Lei n.º 172/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1991-612219), de 10 de Maio, nos jardins-de-infância e nas escolas do 1.º ciclo do ensino básico, o respectivo dirctor exercerá as funções previstas os artigos 5.º, 6.º, 7.º e 8.º deste diploma.\n\n3 - Em relação às escolas com menos de três lugares, as competências referidas no número anterior são exercidas pelo presidente do conselho escolar.\n\n4 - No caso de jardins-de-infância sem director, as competências previstas no n.º 2 são exercidas pelo delegado escolar respectivo.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (Decl. Ret. 184/92): art. 26.º n.º 1 'no presente capítulo ficam' -> 'no presente diploma ficam': aplicado.",
+    "Alt. 1: retificação das assinaturas (João de Deus Rogado Salvador Pinheiro -> António Fernando Couto dos Santos): o art. 27.º já foi alterado pelo programa e já contém a assinatura retificada; não mexido.",
+    "Alt. 2 (DR 58/94) art. 1.º: aditado o art. 10.º-A.",
+    "Alt. 2 art. 2.º: epígrafe do capítulo IV (não é artigo, não aplicável a artigos) e art. 12.º com nova epígrafe 'Avaliação', n.os 1-3 mantidos e n.º 4 aditado.",
+    "Alt. 3 (DL 41/96): revogação do art. 10.º do DL 409/89 é de outro diploma; revogação condicional (n.º 2 do art. 3.º) não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "26.º: parágrafo que não está no alterador nem no original: 1 - Os docentes abrangidos pelo regime previsto no presente diploma ficam dispen"
+  ]
+}

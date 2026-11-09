@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:407338:por",
+  "removidos": [],
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "(Natureza)",
+      "alterador": 1,
+      "texto": "1.º Os Serviços Municipais de Habitação regem-se, quanto à natureza, à estrutura e ao funcionamento, pelo disposto nos artigos 143.º, 619.º e seguintes do Código Administrativo.\n\n2.º Os órgãos competentes dos municípios podem deliberar a municipalização dos referidos serviços, em conformidade com a lei."
+    }
+  ],
+  "nao_aplicavel": "Alt. 2 (Lei 81/2014, art. 38.º, n.º 1, alínea b)): revoga o DL 797/76 \"na parte relativa à atribuição de habitações\", sem indicar artigos; revogação parcial de alvo indeterminado, não aplicada.",
+  "instrucoes": [
+    "Alt. 1 (Lei 84/77): nova redação do art. 2.º, com epígrafe (Natureza) e n.os 1.º e 2.º; aplicada (os n.os 2 e 3 antigos desaparecem).",
+    "Alt. 2 (Lei 81/2014): revogação parcial indeterminada; em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

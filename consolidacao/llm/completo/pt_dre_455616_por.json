@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:455616:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "Valor a pagar à Região Autónoma da Madeira",
+      "texto": "O valor a pagar pela VIAMADEIRA à Região Autónoma da Madeira será satisfeito pelo pagamento dos encargos com a execução das empreitadas de obras públicas relativas à execução das vias rodoviárias constantes do artigo 3.º dos estatutos da VIAMADEIRA, que constituem o anexo i do Decreto Legislativo Regional n.º 36/2008/M, de 14 de Agosto.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alt.1 art. 2.º altera as bases VII, XIII, XIV, XXII, XXVII e XXX do anexo II e o art. 3.º revoga a base XLIV do anexo II; o anexo II (bases da concessão) não consta do texto atual, pelo que essas alterações não foram aplicadas. O texto atual do art. 8.º tinha essas bases indevidamente coladas; ficou só com a redação do art. 8.º.",
+  "instrucoes": [
+    "Alt.1 art. 2.º: nova redação do art. 8.º; aplicada (só o corpo do art. 8.º, retirando as bases que lhe estavam coladas).",
+    "Alt.1 art. 2.º: novas redações das bases VII, XIII, XIV, XXII, XXVII e XXX do anexo II; não aplicáveis (anexo II ausente).",
+    "Alt.1 art. 3.º: revoga a base XLIV do anexo II; não aplicável (anexo II ausente).",
+    "Alt.2 (DLR 9/2016/M): altera o DLR 1/2004/M e as suas bases; outro diploma, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

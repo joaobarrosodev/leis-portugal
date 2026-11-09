@@ -1,0 +1,46 @@
+{
+  "id": "pt:dre:514056:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Ouvida a comissão administrativa da Federação, poderão integrar-se nesta outros concelhos, por portaria do Ministro do Interior e do Secretário de Estado da Indústria, adoptando-se, em relação a esses concelhos, procedimento análogo ao estabelecido para os que já estiverem federados nessa data.",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "O director-delegado ou, nas suas faltas e impedimentos, o seu substituto legal ficam responsáveis, perante a Federação e a Direcção-Geral dos Serviços Eléctricos, pelo cumprimento dos programas aprovados para a execução de novas instalações e remodelação das existentes, pelo estado de conservação das instalações em que superintende, pelos incidentes da sua exploração e pelo exacto cumprimento dos regulamentos e normas de segurança em vigor, devendo, no caso de a Federação se opor ou não a dar seguimento às suas propostas, informar a Direcção-Geral dos Serviços Eléctricos, que apreciará o assunto e tomará as providências que se justifiquem.",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "A aprovação do quadro do pessoal técnico e administrativo da Federação é da competência do Ministro do Interior, ouvido o Ministro da Economia, e deverá ser pedida pela Federação no prazo de seis meses, a contar da data da publicação do presente diploma.\n\n§ 1.º O pessoal dos quadros das câmaras municipais federadas, ou que com estas venham a federar-se, incluindo os dos respectivos serviços municipalizados, e que preste serviço na distribuição de energia eléctrica nos respectivos concelhos, transitará para o quadro da Federação, independentemente de quaisquer formalidades, na situação que ao tempo tiver ou naquela que no referido quadro vier a ser-lhe atribuída, sendo-lhe reconhecido o direito de reingresso no quadro de origem, no caso de dissolução da Federação.\n\n§ 2.º Poderá igualmente ingressar no quadro de pessoal da Federação, independentemente dos requisitos de habilitações e idade e de quaisquer formalidades, excepto a posse, o pessoal de carácter permanente ao serviço de empresas concessionárias da pequena distribuição de energia eléctrica em concelhos que pretendam, finda a concessão, integrar-se na Federação, desde que preste serviço, exclusivamente, na exploração concedida pelo município.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "Até 30 de Setembro de cada ano, a Federação deverá submeter a aprovação da Direcção-Geral dos Serviços Eléctricos os projectos e orçamentos das obras a realizar no ano seguinte, para as quais pretenda obter a comparticipação do Estado.",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "A Federação poderá contrair empréstimos nos termos da base XXV da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758) e do § único do artigo 175.º do Código Administrativo, consignando aos encargos desses empréstimos as receitas do fundo de obras.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 10 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Calos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: altera o Código Administrativo; ignorado.",
+    "Alterador 1, art. 2.º: nova redação dos artigos 2.º, 6.º, 8.º e 11.º; aplicada (fórmula final do 11.º mantida).",
+    "Alterador 1, art. 2.º: artigo 7.º com corpo mantido e § único substituído por §§ 1.º e 2.º; aplicado.",
+    "Alterador 2, art. 14.º: torna aplicável a esta Federação o n.º 2 do artigo 2.º do Decreto-Lei n.º 5/72; não é alteração textual do original, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

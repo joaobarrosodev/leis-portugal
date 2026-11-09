@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1. A representação do empréstimo far-se-á em títulos de cupão de uma, cinco e dez obrigações, do valor nominal de 1000$00 cada uma, ou em certificados de dívida inscrita correspondentes a qualquer número de títulos.\n\n2. Os títulos e certificados representativos das obrigações emitidas serão equiparados a títulos da dívida pública portuguesa, gozando de aval do Estado, que garante o pagamento integral do capital e juros, e dos direitos, isenções e garantias consignados no artigo 58.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, e nos n.os 2.º a 6.º do artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, continuando igualmente a beneficiar da isenção do imposto do selo e dos emolumentos para a sua admissão na Bolsa.\n\n3. Os títulos ou certificados representativos deste empréstimo poderão ser provisórios, fazendo-se a sua substituição por definitivos no prazo máximo de dois anos, e, no caso de serem entregues aos portadores certificados de dívida inscrita provisórios, será dispensável a indicação nos mesmos certificados dos números dos títulos neles representados.",
+    "depois": "###### Artigo 3.º\n\n1. A representação do empréstimo far-se-á em títulos de cupão de uma, cinco e dez obrigações, do valor nominal de 1000$00 cada uma, ou em certificados de dívida inscrita correspondentes a qualquer número de títulos.\n\n2. Os títulos e certificados representativos das obrigações emitidas serão equiparados a títulos da dívida pública portuguesa, gozando dos direitos, isenções e garantias consignados no artigo 58.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, e nos n.os 2.º a 6.º do artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, continuando igualmente a beneficiar da isenção do imposto do selo e dos emolumentos para a sua admissão na bolsa.\n\n3. Os títulos ou certificados representativos deste empréstimo poderão ser provisórios, fazendo-se a sua substituição por definitivos no prazo máximo de dois anos, e, no caso de serem entregues aos portadores certificados de dívida inscrita provisórios, será dispensável a indicação nos mesmos certificados dos números dos títulos neles representados.\n\n> Alterado pelo/a [Decreto-Lei n.º 49017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49017-1969-200833), publicado em 1969-05-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:272046:por",
+    "alterador": "pt:dre:200833:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n1. O serviço de administração do empréstimo será confiado à Junta do Crédito Público.\n\n2. Todas as despesas relativas à emissão deste empréstimo serão pagas por força das competentes dotações orçamentais do Fundo de Turismo, dos anos económicos em que tiverem lugar, devendo para tal efeito a comissão administrativa do referido Fundo fazer à Junta do Crédito Público as provisões que, a seu requerimento, se mostrem necessárias.\n\n3. No orçamento de despesa do Ministério das Finanças serão inscritas anualmente as importâncias necessárias ao pagamento dos encargos de juros e amortizações deste empréstimo, inscrevendo-se no orçamento de receita igual importância, a receber do Fundo de Turismo, cujas receitas próprias assegurarão prioritàriamente o reembolso daqueles encargos.",
+    "depois": "###### Artigo 5.º\n\n1. O serviço de administração do empréstimo será confiado à Junta do Crédito Público.\n\n2. Todas as despesas relativas à emissão deste empréstimo serão pagas por força das competentes dotações orçamentais do Fundo de Turismo, dos anos económicos em que tiverem lugar, devendo para tal efeito a comissão administrativa do referido Fundo fazer à Junta do Crédito Público as provisões que, a seu requerimento, se mostrem necessárias.\n\n3.º O Fundo de Turismo, cujas receitas próprias assegurarão prioritàriamente o pagamento dos juros e amortizações deste empréstimo, entregará anualmente no Tesouro, com a antecipação necessária, as importâncias que deverão fazer face a esses encargos, as quais serão inscritas no orçamento de receita, inscrevendo-se no orçamento de despesa do Ministério das Finanças igual importância.\n\n> Alterado pelo/a [Decreto-Lei n.º 49017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49017-1969-200833), publicado em 1969-05-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:272046:por",
+    "alterador": "pt:dre:200833:por"
+  }
+]

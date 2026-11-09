@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:233327:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "Na execução dos serviços que lhe são cometidos, o S. P. M. procederá de acordo com o preceituado nos seus regulamentos privativos, os quais, porém, deverão subordinar-se, quanto possível, ao disposto nas leis e regulamentos em vigor nas Administrações dos CTT metropolitanos e ultramarinos, especialmente no que respeita à cooperação das respectivas redes, previstas no artigo anterior.\n\n§ único. Serão suportadas pelos correios, telégrafos e telefones (CTT) e correios, telégrafos e telefones ultramarinos (CTTU) as indemnizações que, eventualmente, hajam de ser pagas aos remetentes ou destinatários das correspondências e encomendas simplesmente registadas e das cartas, caixas e encomendas registadas com valor declarado.\n\nPara o efeito, serão tidas em atenção as disposições aplicáveis dos respectivos regulamentos.\n\nOs órgãos postais militares (estações e postos), nestes casos, são considerados como delegações dos correios, telégrafos e telefones (CTT) ou dos correios, telégrafos e telefones ultramarinos (CTTU), quando se situem, respectivamente, na metrópole ou no ultramar.\n\nEste condicionalismo pode ser suspenso por despacho dos Ministros das Comunicações ou do Ultramar, conforme o caso.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "Os encargos com a manutenção do S. P. M. no ultramar e com órgãos de execução e de apoio técnico na metrópole são liquidados pela dotação global das forças militares extraordinárias no ultramar.\n\n§ único. O disposto no corpo deste artigo não se aplica ao material normalizado destinado aos órgãos militares, que poderá ser cedido gratuitamente pelos correios, telégrafos e telefones (CTT) ou pelos correios, telégrafos e telefones ultramarinos (CTTU) mediante acordo a estabelecer com o serviço postal militar.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 47643 artigo único: adita § único ao art. 3.º; aplicado",
+    "DL 47643 artigo único: adita § único ao art. 8.º; aplicado",
+    "Portaria 170/71: altera quadro anexo à Portaria n.º 22607, outro diploma; ignorada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": "pt:dre:355570:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 212/2004), art. que enumera as revogações, alínea d): revoga o DL 350/88 com excepção dos artigos 5.º e 6.º; aplicado aos artigos 1.º a 4.º e 7.º a 12.º. A manutenção transitória do regime revogado (n.º 2) não muda o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

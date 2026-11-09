@@ -1,0 +1,58 @@
+{
+  "id": "pt:dre:281452:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "Os pedidos de aquisição ou de construção só poderão ter seguimento desde que a mensalidade correspondente à casa pretendida não exceda um terço dos rendimentos do agregado familiar, devendo na sua apreciação considerar-se os elementos referidos no § único do artigo seguinte.\n\n§ 1.º Na definição do agregado familiar e determinação do seu rendimento observar-se-á o disposto na base VII da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958.\n\n§ 2.º Sempre que concorram proventos da função pública e réditos de outra origem, estes sòmente serão considerados até quantitativo igual à totalidade dos primeiros.\n\n§ 3.º O interessado poderá satisfazer imediatamente a importância necessária para que a mensalidade se contenha dentro do limite fixado no corpo deste artigo.",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "A atribuição de casas em regime de propriedade resolúvel, quando adquiridas ou construídas por iniciativa da Caixa, será precedida de concurso anunciado com a antecedência mínima de 30 dias, para a admissão ao qual se terá de observar o preceituado na primeira parte do corpo do artigo anterior e nos seus parágrafos.\n\n§ 1.º Na classificação dos concorrentes atender-se-á, na medida do possível, ao maior número e ao mais próximo grau de parentesco das pessoas que constituem o agregado familiar, às mais deficientes condições e aos mais pesados encargos da actual habitação, ao menor rendimento familiar per capita e à maior idade do requerente.\n\n§ 2.º Se nos concursos a que alude o corpo do artigo não se inscreverem funcionários em número suficiente para preencher as habitações a distribuir, poderá o Ministro das Finanças, sob proposta da Caixa, decidir que a novo concurso sejam admitidos indivíduos estranhos à função pública, sempre, porém, sem prejuízo da preferência daqueles, ou determinar qualquer outro destino às mesmas habitações.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "As mensalidades serão iguais e antecipadas, adoptando-se no seu cálculo a taxa média de 4 por cento ao ano, se outra não vier a ser fixada por despacho do Ministro das Finanças, ouvida a administração da Caixa.",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "As mensalidades serão distribuídas por períodos anuais, com o limite máximo de vinte e cinco anos, à escolha dos interessados, mas sempre de forma que a idade destes, no fim do prazo, não ultrapasse 70 anos.",
+      "alterador": 2
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "",
+      "texto": "As habitações dadas em arrendamento podem passar ao regime de propriedade resolúvel a pedido do respectivo arrendatário, competindo à Caixa promover, nesse caso, a competente divisão do prédio em fracções autónomas.\n\n§ único. O preço corresponderá ao capital investido ou será o que a Caixa fixar em equivalência à despesa que teria de ser efectuada nesse momento para a construção no mesmo local de uma casa de igual tipo, se essa despesa for superior à do capital investido.",
+      "alterador": 2
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "",
+      "texto": "A perda, por parte dos arrendatários ou dos moradores-adquirentes, da qualidade de funcionários ou a sua passagem à situação de licença ilimitada implicarão:\n\na) A rescisão do contrato, no caso de demissão;\n\nb) A revisão das condições financeiras do contrato, no caso de exoneração ou de passagem à situação de licença ilimitada.\n\n§ único. A revisão das condições financeiras consistirá no cálculo de uma nova renda, ou da prestação de amortização, a partir da data da modificação da situação do funcionário, utilizando-se no novo cálculo as taxas de 15,5% no caso de exoneração e de 14,5% no caso de passagem à licença ilimitada.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: adita § 2.º ao art. 6.º e o § único passa a § 1.º; aplicado.",
+    "Alterador 1, art. 2.º: nova redacção do art. 8.º; aplicada e depois substituída pela do alterador 2.",
+    "Alterador 2, art. 1.º: art. 5.º com novo § 2.º e o antigo § 2.º passa a § 3.º; aplicado.",
+    "Alterador 2, art. 1.º: nova redacção dos arts. 8.º e 9.º; aplicada.",
+    "Alterador 2, art. 1.º: nova redacção do corpo do art. 29.º, mantendo o § único; aplicada.",
+    "Alterador 2, art. 2.º: norma autónoma sobre registo; nada a aplicar.",
+    "Alterador 3, artigo único: nova redacção do § único do art. 32.º; aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "5.º: parágrafo que não está no alterador nem no original: § 3.º O interessado poderá satisfazer imediatamente a importância necessária par",
+    "6.º: parágrafo que não está no alterador nem no original: § 1.º Na classificação dos concorrentes atender-se-á, na medida do possível, ao "
+  ]
+}

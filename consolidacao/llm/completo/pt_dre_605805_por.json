@@ -1,0 +1,42 @@
+{
+  "id": "pt:dre:605805:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1. O Serviço de Saúde da Força Aérea compreende:\n\na) A Direcção;\n\nb) Órgãos de execução constituídos em unidades independentes;\n\nc) Órgãos de execução da Força Aérea integrados em unidades estranhas ao Serviço e incluídos na organização para estas autorizada.\n\n2. A Direcção compreende:\n\nO director e inspector;\n\nO subdirector;\n\nA inspecção;\n\nA 1.ª Repartição - Medicina sanitária e profiláctica, medicina aeronáutica e medicina legal, pessoal;\n\nA 2.ª Repartição - Material e equipamento, estudos técnicos e infra-estruturas, evacuações sanitárias, contrôle de indisponíveis;\n\nA secretaria;\n\nO conselho administrativo;\n\nA biblioteca.\n\n3. Os órgãos de execução constituídos em unidades independentes, referidos no n.º 1, e que para efeitos administrativos estão dependentes da Direcção do Serviço de Saúde, são:\n\na) Hospital da Força Aérea, localizado em Lisboa.\n\nb) Centro de Medicina Aeronáutica, localizado em Lisboa, para selecção e revisão médica e psicológica do pessoal navegante e aperfeiçoamento do pessoal médico e de enfermagem.\n\n4. As atribuições e o funcionamento dos órgãos referidos no número anterior serão regulamentados em portarias do Chefe do Estado-Maior da Força Aérea.\n\n5. Os órgãos de execução integrados em unidades estranhas ao Serviço de Saúde referidos no n.º 1 são fixados em portarias do Chefe do Estado-Maior da Força Aérea.\n\n6. O Serviço de Saúde da Força Aérea pode recorrer aos órgãos de tratamento hospitalar do Exército e da Armada ou a organismos civis especializados sempre que necessário.",
+      "alterador": 7
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1. O director do Serviço de Saúde superintende:\n\na) Nos elementos da própria direcção;\n\nb) Nos respectivos órgãos de execução referidos nos n.os 3 e 5 do artigo 2.º, dirigindo-os e presidindo à sua inspecção apenas do ponto de vista técnico.\n\n2. As directivas, instruções, ordens e outras determinações de carácter técnico, dadas pelo mesmo director aos órgãos de execução integrados em unidades dele não dependentes, assim como as inspecções que, sob a sua presidência, lhes sejam feitas, sê-lo-ão sempre com conhecimento dos chefes, comandantes ou directores de tais unidades.",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "Em especial, o director do Serviço de Saúde é responsável:\n\na) Pela disciplina dos elementos da própria Direcção;\n\nb) Pela eficiência do Serviço, responsabilidade que inclui o aperfeiçoamento técnico do pessoal do Serviço e recomendações e propostas quanto à formação e utilização do mesmo pessoal e quanto a necessidades materiais do Serviço;\n\nc) Pela colaboração no estabelecimento dos planos e programas gerais da Força Aérea e pelo desenvolvimento e execução de programas específicos de apoio.",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "Na dependência do comandante da 1.ª Região Aérea é constituído o Depósito Geral de Adidos da Força Aérea, em Lisboa, para:\n\na) Enquadramento de pessoal que presta serviço nos órgãos centrais da Força Aérea;\n\nb) Apoio de pessoal em trânsito, nos aspectos necessários;\n\nc) Apoio logístico dos órgãos de execução do Serviço de Saúde referidos nas alíneas a) e b) do n.º 3 do artigo 2.º e da banda de música da Força Aérea.",
+      "alterador": 6
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 3 (DL 525/75), art. 1.º: nova redação do segundo parágrafo do preâmbulo (não é artigo; não aplicada). Alterador 3, art. 2.º: nova redação do n.º III) do mapa n.º 1 e do n.º 1) do mapa n.º 3 do anexo — o anexo não está dividido em artigos no texto atual; não aplicada. Alterador 8 (DL 412/83): extingue o Depósito Geral de Adidos (art. 5.º) sem alteração textual; não aplicada.",
+  "instrucoes": [
+    "Alterador 1 (DL 527/72), 2 (DL 711/73), 4 (DL 526/75) e 5 (DL 464/76): alteram quadros de outros diplomas (DL 42066, DL 41492) ou criam órgãos novos; nada ao texto do original.",
+    "Alterador 3, art. 1.º: nova redação do art. 2.º (n.os 2 a 6; antigo n.º 5 sobre o Núcleo Hospitalar n.º 2 desaparece), do art. 3.º (n.º 1) e do art. 4.º (alínea a)) — aplicada; preâmbulo não aplicado.",
+    "Alterador 3, art. 2.º: alteração dos mapas n.os 1 e 3 do anexo — não aplicada (nao_aplicavel).",
+    "Alterador 6 (DL 741/76): nova redação do art. 2.º, n.º 3, e do art. 5.º, alínea c) — aplicada.",
+    "Alterador 7 (DL 114/79): nova redação da alínea a) do n.º 3 do art. 2.º — aplicada.",
+    "Alterador 8 (DL 412/83): extinção do Depósito Geral de Adidos — não textual (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

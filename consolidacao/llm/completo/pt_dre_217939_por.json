@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:217939:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "As Portarias n.º 397/2005 e n.º 689/2005 alteram apenas o quadro de pessoal (mapa anexo), que só existe em imagem no documento original; não há alteração textual aos artigos 1.º e 2.º.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 397/2005): adita carreiras e abate lugares no mapa anexo; mapa em imagem, não aplicado.",
+    "Alt. 2 (Portaria 689/2005): cria um lugar de assistente administrativo no mapa anexo; não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

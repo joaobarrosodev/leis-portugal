@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:303201:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Só o DL 148/2013 (art. 8.º) se dirige ao original: substitui o anexo VIII do Regulamento, que não consta do texto por artigos. DL 178/2005 e DL 135/2008 alteram outros diplomas; o DL 198/2007 não traz artigos.",
+  "instrucoes": [
+    "DL 178/2005: altera os DL 253/2000 e 72/2000 — ignorado",
+    "DL 198/2007: sem conteúdo — nada",
+    "DL 135/2008: altera o DL 72/2000 — ignorado",
+    "DL 148/2013, art. 8.º: nova redação do anexo VIII do Regulamento — anexo fora do texto, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

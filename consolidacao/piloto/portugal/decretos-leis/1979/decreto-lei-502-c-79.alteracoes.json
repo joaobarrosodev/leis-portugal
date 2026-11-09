@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\nAs empresas abrangidas pelo presente diploma ficam sujeitas ao pagamento de uma quota de Inspecção correspondente a 0,5% da reserva de reavaliação autorizada, a qual será liquidada e cobrada pela IGF após a data da respectiva autorização, que lhe deve ser comunicada pela Direcção-Geral das Contribuições e Impostos.",
+    "depois": "###### Artigo 4.º\n\nAs empresas abrangidas pelo presente diploma ficam sujeitas ao pagamento de uma quota de inspecção correspondente a 0,5% da reserva de reavaliação autorizada, até ao limite máximo de 500000$00, a qual será liquidada e cobrada pela IGF após a data da respectiva autorização, que lhe deve ser comunicada pela Direcção-Geral das Contribuições e Impostos.\n\n> Alterado pelo/a [Decreto-Lei n.º 280/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1980-470814), publicado em 1980-08-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:676847:por",
+    "alterador": "pt:dre:470814:por"
+  }
+]

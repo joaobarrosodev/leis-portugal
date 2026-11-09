@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:616624:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DR 49/91 adita um mapa ao mapa anexo e DR 15/2000 altera escalas salariais por mapa anexo, ambos só em imagem; as revogações do DR 15/2000 (art. 4.º, 'na parte correspondente às carreiras objecto do presente diploma') e do DL 121/2008/Rect. 49/2008 (mapa VIII, 'com excepção das disposições relativas às categorias subsistentes e de marinheiro') são parciais por matéria, sem alvo textual determinável nos artigos; não aplicadas.",
+  "instrucoes": [
+    "Alterador 1 (DR 49/91): adita mapa ao mapa anexo (só em imagem); não aplicado.",
+    "Alterador 2 (DR 15/2000), art. 1.º: altera escalas salariais pelo mapa anexo (imagem); art. 4.º: revogação parcial por carreiras, sem alvo textual; não aplicados.",
+    "Alterador 3 (DL 121/2008): sem artigos transcritos; nada aplicado.",
+    "Alterador 4 (Rect. 49/2008): republica o mapa VIII do DL 121/2008, que revoga o original com excepção das categorias subsistentes e de marinheiro; revogação parcial por matéria, não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

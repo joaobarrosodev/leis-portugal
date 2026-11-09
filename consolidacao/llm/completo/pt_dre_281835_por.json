@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:281835:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Regulamento dos Concursos Especiais de Acesso ao Ensino Superior::3.º-A",
+      "epigrafe": "Cursos pós-secundários",
+      "texto": "1 - Os pares estabelecimento/curso pós-secundários abrangidos pela alínea c) do n.º 1 do artigo 10.º do Decreto-Lei n.º 393-B/99, de 2 de Outubro, são os fixados no anexo a este Regulamento.\n\n2 - Os pares estabelecimento/curso de ensino superior a que os titulares dos cursos referidos no número anterior se podem candidatar, bem como as condições adicionais que devem satisfazer, são os fixados no anexo a este Regulamento.\n\n3 - Os titulares de um diploma de especialização tecnológica obtido nos termos da [Portaria n.º 989/99](https://diariodarepublica.pt/dr/detalhe/portaria/989-1999-694187), de 3 de Novembro, com as alterações constantes das Portarias n.os [698/2001](https://diariodarepublica.pt/dr/detalhe/portaria/698-2001-399182), de 11 de Julho, e [392/2002](https://diariodarepublica.pt/dr/detalhe/portaria/392-2002-303187), de 12 de Abril, com 18 meses de actividade profissional na área de formação do diploma realizados após a obtenção deste, podem ainda candidatar-se aos pares estabelecimento/curso fixados nos termos da alínea a) do n.º 4 ou do n.º 5 do n.º 5.º daquela portaria.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO — Regulamento dos Concursos Especiais de Acesso ao Ensino Superior::4.º",
+      "epigrafe": "Instrução da candidatura",
+      "texto": "1 - A candidatura é instruída com:\n\na) Boletim de candidatura, de modelo fixado nos termos do artigo 16.º, devidamente preenchido;\n\nb) Documento(s) comprovativo(s) da titularidade da habilitação com que o estudante se candidata, com a totalidade dos elementos necessários à candidatura;\n\nc) Fotocópia do bilhete de identidade;\n\nd) Procuração, quando o requerimento for apresentado por procurador.\n\n2 - Os candidatos que disponham dos documentos a que se referem as alíneas b) a d) do número anterior arquivados na instituição de ensino superior a que se candidatam não necessitam de os entregar novamente, salvo se algum deles carecer de actualização.\n\n3 - Os candidatos à matrícula e inscrição em par estabelecimento/curso que exija pré-requisitos devem entregar documento comprovativo da sua satisfação.\n\n4 - Os candidatos à matrícula e inscrição em par estabelecimento/curso objecto de concurso local devem entregar documento emitido pelo estabelecimento de ensino comprovativo de que satisfazem aos requisitos especiais objecto de avaliação no concurso.\n\n5 - Os candidatos titulares de um dos cursos a que se refere o anexo ao presente Regulamento devem entregar documento comprovativo da satisfação das condições adicionais eventualmente exigidas.\n\n6 - Da candidatura é entregue ao apresentante, como recibo, o duplicado do respectivo boletim da candidatura.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Portaria 1081/2001 n.º 1.º, n.º 2: o anexo aditado ao Regulamento (quadros de cursos pós-secundários) só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Portaria 1081/2001 1.º n.º 1: adita art. 3.º-A; já presente no texto atual",
+    "Portaria 1081/2001 1.º n.º 2: adita anexo em imagem; não aplicável",
+    "Portaria 1081/2001 2.º: nova redação do art. 4.º (n.º 5 novo, anterior n.º 5 passa a n.º 6); aplicado",
+    "Portaria 393/2002 1.º: adita n.º 3 ao art. 3.º-A; aplicado",
+    "Portaria 393/2002 2.º: adita arts. 3.º-B e 11.º-A; já presentes e iguais no texto atual",
+    "DL 39/2022: altera o Decreto-Lei n.º 88/2006, outro diploma; ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

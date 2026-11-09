@@ -1,0 +1,129 @@
+{
+  "id": "pt:dre:227986:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "(Artesanato)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "(Artesão)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "(Incentivos)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "(Empréstimos)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "(Subsídios)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "(Concessão de apoios financeiros)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "(Acesso aos apoios)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "(Início do processo)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "(Instrução do processo)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "(Efectivação dos financiamentos)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "(Controle)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "(Cartão de artesão)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "(Pedido do cartão de artesão)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "(Apreciação do pedido)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "(Prazo de validade do cartão de artesão)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "(Norma transitória)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "(Dúvidas e casos omissos)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "(Norma revogatória)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "(Entrada em vigor)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DRR 74/88/A), art. 6.º: nova redação dos arts. 4.º a 15.º e 17.º — ultrapassada pela revogação total do alterador 2.",
+    "Alterador 1, arts. 1.º a 5.º, 7.º a 9.º: criação do CRAA e normas próprias; não alteram o texto do original.",
+    "Alterador 2 (DLR 34/2012/A), art. 18.º, alínea a): revoga o Decreto Regulamentar Regional n.º 26/86/A na totalidade; todos os artigos 1.º a 19.º ficam «(Revogado.)»."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1 - As remunerações dos médicos civis contratados pela Guarda Nacional Republicana (GNR) e pela Polícia de Segurança Pública (PSP) são as constantes, respectivamente, dos quadros I e II em anexo ao presente diploma.\n\n2 - Os médicos-chefes da PSP não poderão ter menos de cinco anos de exercício profissional.",
+    "depois": "###### Artigo 1.º\n\n1 - As remunerações dos médicos com os graus de generalista e consultor contratados pela Guarda Nacional Republicana (GNR) e pela Polícia de Segurança Pública (PSP), quando em regime de tempo completo, correspondem a 0,66 dos valores fixados para as correspondentes categorias, respectivamente, dos quadros I e II anexos ao presente diploma, do qual fazem parte integrante, com arredondamento para a centena de escudos imediatamente superior.\n\n2 - O valor do índice 100 das tabelas constantes dos mapas I e II a que se refere o número anterior é igual ao valor do índice 100 que se encontrar estabelecido para as carreiras médicas, nos termos do n.º 1 do artigo 11.º do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março, sendo a respectiva actualização automática.\n\n> Alterado pelo/a [Decreto-Lei n.º 270/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1991-681579), publicado em 1991-08-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:418190:por",
+    "alterador": "pt:dre:681579:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1 - As funções dos médicos a que se refere o presente diploma podem ser exercidas em regime de tempo completo ou de tempo parcial.\n\n2 - Ao regime de tempo completo correspondem, por semana, 36 horas de trabalho normal.\n\n3 - São considerados como tempo parcial os horários de serviço semanal inferiores a 36 horas e até um máximo de 9 horas.\n\n4 - A remuneração correspondente à prestação de trabalho a tempo parcial é determinada de acordo com o regime aplicável aos funcionários e agentes da Administração.",
+    "depois": "###### Artigo 2.º\n\n1 - As funções dos médicos a que se refere o presente diploma podem ser exercidas em regime de tempo completo ou de tempo parcial.\n\n2 - Ao regime de tempo completo correspondem, por semana, trinta e cinco horas de trabalho.\n\n3 - São considerados como tempo parcial os horários de serviço semanal compreendidos entre trinta e quatro horas e nove horas.\n\n4 - A remuneração correspondente à prestação de trabalho a tempo parcial é determinada de acordo com o regime aplicável aos funcionários e agentes da Administração.\n\n> Alterado pelo/a [Decreto-Lei n.º 270/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1991-681579), publicado em 1991-08-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:418190:por",
+    "alterador": "pt:dre:681579:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\nOs médicos especialistas são contratados com observância do disposto na legislação aplicável às carreiras médicas.",
+    "depois": "###### Artigo 4.º\n\n1 - Os médicos a que se refere o presente diploma são contratados com observância do disposto na legislação aplicável às carreiras médicas.\n\n2 - Os médicos-chefes da PSP são contratados de entre médicos com o grau de consultor ou de entre assistentes com pelo menos cinco anos de antiguidade na categoria.\n\n> Alterado pelo/a [Decreto-Lei n.º 270/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1991-681579), publicado em 1991-08-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:418190:por",
+    "alterador": "pt:dre:681579:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n1 - Os médicos a que se refere o presente diploma são, consoante os casos, sujeitos aos deveres e obrigações estabelecidos no Regulamento do Serviço de Saúde da GNR ou da PSP e demais legislação aplicável.\n\n2 - O provimento dos médicos será efectuado por contrato, com sujeição às condições gerais estabelecidas no [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.\n\n3 - Os horários de trabalho serão definidos pontualmente no respectivo contrato, de acordo com as necessidades, consoante os casos, da GNR ou da PSP, e serão aprovados pelos comandantes-gerais, sob proposta dos respectivos serviços de saúde.",
+    "depois": "###### Artigo 5.º\n\n1 - Os médicos a que se refere o presente diploma são, consoante os casos, sujeitos aos deveres e obrigações estabelecidos no Regulamento do Serviço de Saúde da GNR ou da PSP e demais legislação aplicável.\n\n2 - O provimento dos médicos pode ser efectuado por contrato administrativo de provimento, com observância do disposto na lei geral.\n\n3 - Os horários de trabalho serão definidos pontualmente no respectivo contrato, de acordo com as necessidades, consoante os casos, da GNR ou da PSP, e serão aprovados pelos comandantes-gerais, sob proposta dos respectivos serviços de saúde.\n\n> Alterado pelo/a [Decreto-Lei n.º 270/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1991-681579), publicado em 1991-08-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:418190:por",
+    "alterador": "pt:dre:681579:por"
+  }
+]

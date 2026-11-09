@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:497796:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "Excepção ao regime previsto neste diploma",
+      "texto": "O regime previsto no n.º 3 do artigo anterior aplica-se aos concursos que se encontrem pendentes à data da entrada em vigor do presente diploma.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do artigo 8.º; texto atual já coincide, nada a mudar.",
+    "Alterador 1, art. 1.º: nova redação do artigo 9.º (sem epígrafe na nova redação, mantida a atual); aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

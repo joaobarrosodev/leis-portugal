@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:348525:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 2.º: revoga o Decreto Regulamentar Regional n.º 15/2001/M 'com excepção da estrutura das unidades orgânicas até à sua regulamentação'. A exceção não identifica os artigos que se mantêm (e as chaves 1.º e 2.º repetem-se entre o decreto e a orgânica anexa), pelo que não é possível determinar com segurança que artigos ficam revogados.",
+  "instrucoes": [
+    "Alterador 1, art. 2.º: revogação global com exceção da estrutura das unidades orgânicas - não aplicada por ambiguidade do alcance.",
+    "Alterador 1, art. 1.º e anexo: aprova nova orgânica autónoma - não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

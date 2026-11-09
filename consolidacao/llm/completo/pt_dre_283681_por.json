@@ -1,0 +1,35 @@
+{
+  "id": "pt:dre:283681:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Forma de pagamento",
+      "texto": "1 - As taxas são pagas, no prazo de 30 dias, mediante documento a emitir pelas entidades competentes, privilegiando o pagamento através de meios electrónicos, nomeadamente através de terminal Multibanco, de sistema de homebanking na Internet.\n\n2 - As taxas previstas no presente decreto-lei, quando sejam cobradas no âmbito da administração central, constituem receita, na sua totalidade, das entidades competentes.\n\n3 - (Revogado.)\n\n4 - A cobrança coerciva das dívidas provenientes da falta de pagamento das taxas faz-se pelo processo de execução fiscal, servindo de título executivo a certidão passada pela entidade que prestar os serviços.",
+      "alterador": 1
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Âmbito e valores",
+      "texto": "1 - As taxas diversas são devidas por serviços prestados nos seguintes casos:\n\na) Apreciação do projecto de instalações eléctricas de abastecimento público que não carecem de licença de estabelecimento;\n\nb) Vistoria de instalações eléctricas de serviço particular que não carecem de licença de estabelecimento;\n\nc) Revistoria para verificação de cláusulas impostas;\n\nd) Aprovação de projectos de instalações eléctricas tipo ou elementos tipo de instalações eléctricas.\n\ne) Apreciação de projecto de instalações eléctricas de serviço particular;\n\nf) Averbamentos e emissão de segunda via de licenças;\n\ng) Transferência de titularidade de licenças.\n\n2 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Contra-ordenações",
+      "texto": "1 - Constitui contra-ordenação punível com coima de (euro) 100 a (euro) 1000, no caso de pessoas singulares, e de (euro) 500 a (euro) 5000, no caso de pessoas colectivas:\n\na) A falta de comunicação prevista no artigo 13.º;\n\nb) A falta dos registos permanentes actualizados nos termos do artigo 21.º;\n\nc) O não envio dos boletins referidos nos artigos 11.º e 20.º;\n\nd) A falta de participação prevista no artigo 17.º;\n\ne) A desmontagem de uma instalação do 1.º grupo com infracção do disposto no artigo 14.º;\n\nf) O preenchimento errado dos boletins previstos nos artigos 11.º e 20.º com prejuízos para o Estado.\n\n2 - A negligência e a tentativa são puníveis, sendo os limites mínimos e máximos das coimas aplicáveis reduzidos a metade.\n\n3 - Simultaneamente com a coima e a título de sanção acessória poderá ser ordenada a suspensão do fornecimento de energia, que se manterá enquanto não for reparada a situação que lhe deu origem.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 246/2009 art. 1.º: nova redação dos n.os 1, 2 e 4 do art. 5.º (n.º 3 revogado) aplicada",
+    "DL 246/2009 art. 1.º: aditadas as alíneas e) a g) ao n.º 1 do art. 24.º; n.º 2 revogado",
+    "DL 246/2009 art. 1.º: nova redação dos n.os 1 e 2 do art. 26.º; n.º 3 mantido",
+    "DL 246/2009 art. 2.º: revoga n.º 3 do art. 5.º e n.º 2 do art. 24.º; já refletido",
+    "Portaria 299/2011: altera a Portaria 311/2002, não o original; ignorada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

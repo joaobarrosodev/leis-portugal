@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nConcluído o estágio com aproveitamento, os estagiários devem submeter-se a exame em que demonstrem os seus conhecimentos das matérias referidas no artigo 4.º A aprovação neste exame confere direito ao diploma de bibliotecário-arquivista-documentalista.\n\n§ único. As provas realizam-se em Janeiro.",
+    "depois": "###### Artigo 7.º\n\nConcluído o estágio com aproveitamento, os estagiários devem submeter-se a exame ou outro tipo de avaliação final de conhecimentos, que versarão as matérias referidas no artigo 4.º\n\nA sua aprovação confere direito ao diploma de bibliotecário-arquivista-documentalista.\n\n§ 1.º Por parecer do director-geral dos Assuntos Culturais poderão os exames ser substituídos por um sistema de avaliação de conhecimentos.\n\n§ 2.º As provas realizam-se no mês de Janeiro.\n\n> Alterado pelo/a [Decreto-Lei n.º 38/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1975-159362), publicado em 1975-01-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:201455:por",
+    "alterador": "pt:dre:159362:por"
+  }
+]

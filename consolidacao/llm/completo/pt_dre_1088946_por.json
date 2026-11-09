@@ -1,0 +1,51 @@
+{
+  "id": "pt:dre:1088946:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objeto",
+      "texto": "1 - É concedida uma ajuda nacional aos produtores das espécies de bovinos, ovinos e caprinos, sob forma de subvenção a fundo perdido, com vista a compensar o aumento dos custos na alimentação animal devido à escassez de pastagens e forragens e de algumas espécies vegetais.\n\n2 - São excluídos os produtores que sejam considerados empresas em dificuldade na aceção das orientações comunitárias relativas aos auxílios estatais de emergência e à reestruturação a empresas em dificuldade, publicadas no JO, n.º C 244, de 1 de outubro de 2004.",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Limite financeiro",
+      "texto": "1 - A presente subvenção tem como montante global 20 milhões de euros.\n\n2 - Caso o montante global, decorrente das candidaturas apresentadas, venha a ultrapassar o montante fixado no número anterior, a ajuda é objeto de rateio, reduzindo-se proporcionalmente em função do excesso verificado e diminuindo-se, em conformidade, o montante da ajuda a conceder.",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Valor unitário da ajuda e condições de elegibilidade",
+      "texto": "1 - O montante individual da ajuda a conceder é fixado do seguinte modo:\n\na) (euro) 30 por fêmea da espécie bovina das raças constantes do anexo i ao presente diploma e que deste faz parte integrante, com idade superior a 24 meses;\n\nb) (euro) 22,5 por fêmea de outras raças de espécie bovina com idade superior a 24 meses;\n\nc) (euro) 9 por fêmea das espécies ovina e caprina já paridas, ou com mais de 6 meses de idade já cobertas.\n\n2 - A ajuda é paga relativamente ao número de bovinos elegíveis na posse do produtor e inscritos como tal no Sistema Nacional de Informação e Registo Animal (BD SNIRA), à data de 1 de fevereiro de 2012, bem como o número de ovinos e caprinos constante da declaração de existências do produtor à data de 31 de dezembro de 2011, e como tal comunicada à BD SNIRA até ao final do período de candidatura, sem prejuízo do disposto no artigo 5.º do presente despacho.\n\n3 - Do montante máximo elegível apurado nos termos do presente despacho é deduzido qualquer valor recebido a título de regimes de seguros para a cobertura seca.\n\n4 - A ajuda concedida ao abrigo do presente despacho quando acumulada com outras contribuições financeiras nacionais ou comunitárias para as mesmas despesas elegíveis não pode ultrapassar a intensidade máxima de auxílio estabelecida no artigo 11.º do Regulamento (CE) n.º 1857/2006, da Comissão, de 15 de dezembro.",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Procedimento",
+      "texto": "1 - A candidatura à ajuda prevista no presente despacho é formalizada diretamente pelo produtor ou através de associação de produtores ou da direção regional de agricultura e pescas (DRAP) territorialmente competente até 20 dias após a entrada em vigor do presente diploma, utilizando formulário próprio disponível na área reservada do sítio do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), em www.ifap.pt.\n\n2 - A candidatura à ajuda aos produtores que tenham passado a deter efetivos da espécie bovina entre 1 de janeiro e 1 de fevereiro de 2012 pode ser apresentada, nos termos do número anterior, entre o dia 21 de maio de 2012 e até dois dias após a publicação do presente despacho normativo.\n\n3 - São aplicáveis, com as devidas adaptações, os procedimentos do regulamento geral de procedimentos de acesso às ajudas e aos pagamentos a efetuar pelo IFAP, I. P., aprovado pela Portaria n.º 86/2011, de 25 de fevereiro.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Pagamento da ajuda",
+      "texto": "1 - O pagamento incide sobre os elementos constantes da BD SNIRA à data de 9 de abril, tendo por base o número de bovinos na posse do produtor a 1 de fevereiro de 2012, bem como o número de ovinos e caprinos constantes da declaração de existências à data de 31 de dezembro de 2011.\n\n2 - (Revogado.)\n\n3 - A ajuda é paga pelo IFAP, I. P., por meio de transferência bancária para a conta do produtor.",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Pagamento indevido",
+      "texto": "1 -Em caso de pagamento indevido por ato imputável ao agricultor, bem como em caso de não recuperação de auxílio anterior declarado incompatível, incumbe ao agricultor reembolsar o montante em questão acrescido de juros calculados relativamente ao período decorrido entre a notificação ao agricultor da obrigação de reembolso e o reembolso ou dedução efetivas.\n\n2 - O reembolso previsto no n.º 1 não exclui a aplicação de qualquer outra sanção legal que ao caso couber.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Artigo 2.º do alterador 1 substitui o anexo I (lista de raças), que não consta do texto atual por artigos; não aplicado.",
+  "instrucoes": [
+    "Art. 1.º do alterador 1: nova redação dos artigos 1.º a 6.º; aplicada mantendo as unidades com [...] / ... e passando o antigo n.º 2 do art. 4.º a n.º 3.",
+    "Art. 2.º do alterador 1: substitui o anexo I; o anexo não está no texto atual, não aplicado.",
+    "Art. 3.º do alterador 1: revoga o n.º 2 do art. 5.º; já revogado, mantido (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

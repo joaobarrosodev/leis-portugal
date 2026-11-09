@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:373581:por",
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "",
+      "texto": "1 - A alínea a) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, aplicado à Região Autónoma dos Açores, com adaptações, pelo [Decreto Legislativo Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795), de 26 de Maio, passa a ter a seguinte redacção:\n\n1 - ...\n\na) Quando a única forma de provimento prevista seja contrato e se destine ao preenchimento de lugares do quadro, bem como a contratação além dos quadros quando esta se revele indispensável ao funcionamento dos serviços de natureza transitória.\n\n2 - (Revogado.)\n\nAprovado pela Assembleia Regional dos Açores, na Horta, em 10 de Março de 1988.\n\nO Presidente da Assembleia Regional, José Guilherme Reis Leite.\n\nAssinado em Angra do Heroísmo em 15 de Abril de 1988.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 art. 36.º c): revoga o n.º 2 do artigo único - n.º 2 (com o texto que aditava) substituído por '2 - (Revogado.)'.",
+    "Restantes instruções do alterador 1 (revogações de outros diplomas, regime novo) não se dirigem ao original - ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:333276:por",
+  "artigos": [
+    {
+      "chave": "34.º",
+      "epigrafe": "Pessoal de informática",
+      "texto": "O pessoal de informática será recrutado e provido nos termos do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro.",
+      "alterador": 1
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Pessoal das áreas funcionais de biblioteca e documentação e de arquivo",
+      "texto": "Os requisitos para o ingresso e acesso nas carreiras de pessoal específicas das áreas funcionais de biblioteca e documentação e de arquivo são os constantes do [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho.",
+      "alterador": 1
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Técnico auxiliar de formação e secretário-recepcionista",
+      "texto": "Para efeitos de ingresso nas carreiras de técnico auxiliar de formação e de secretário-recepcionista, considera-se equiparado ao curso de formação profissional previsto na alínea b) do n.º 2 do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, o 11.º ano, na área C, secretariado, na área D, administração pública ou jornalismo-turismo, ou 12.º ano, na área D, técnico de secretariado.",
+      "alterador": 1
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "Mordomo",
+      "texto": "O lugar de mordomo será provido de entre os auxiliares administrativos posicionados no 5.º escalão ou superior e classificação de serviço não inferior a Bom.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Artigo 4.º do DRR 14/92/A: substituição do mapa anexo (quadro de pessoal), que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "DRR 14/92/A art. 1.º: nova redação dos arts. 34.º, 35.º, 37.º e 39.º (com epígrafes) — aplicado.",
+    "Arts. 2.º e 3.º: normas autónomas (carreira de técnico auxiliar de cooperação financeira e transições), não alteram o texto do original.",
+    "Art. 4.º: substituição do mapa anexo em imagem — não aplicado.",
+    "DRR 11/93/A: sem artigos fornecidos, nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

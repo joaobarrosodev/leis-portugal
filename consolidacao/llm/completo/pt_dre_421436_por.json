@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:421436:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Os anexos A e B não constam do texto atual: não aplicadas a nova redação do anexo B (alterador 1), a inclusão de artigos pautais no anexo A (alterador 2) nem o aditamento de sector ao anexo B (alterador 3).",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do anexo B - anexo ausente, não aplicada; art. 2.º norma de aplicação autónoma",
+    "Alterador 2: inclusão dos artigos pautais 70.08 e 91.01.08 no anexo A - anexo ausente, não aplicada",
+    "Alterador 3: aditamento do sector Ex 3825 ao anexo B - anexo ausente, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

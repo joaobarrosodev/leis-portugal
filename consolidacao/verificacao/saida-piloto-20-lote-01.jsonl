@@ -1,0 +1,195 @@
+{"id": "pt:dre:108010873:por", "artigo": "Artigo 5.º", "veredicto": "dúvida", "motivo": "O corpo (entrada em vigor a 1 de janeiro de 2018) é a nova redação. A epígrafe vem como '[...]' e o original não tem artigo 5.º, logo a epígrafe 'Entrada em vigor' não se deduz do que a vista mostra.", "texto_esperado": ""}
+{"id": "pt:dre:108010873:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:108010873:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:108010873:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:108010873:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:108010873:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "DL 119/2003: n.º 2 com nova alínea b) (SE Adjunto do PM) e renumeração das seguintes; n.os 3 e 4 passam para o artigo 6.º-A.", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 6.º-A", "veredicto": "certo", "motivo": "Aditado pelo DL 119/2003: n.º 1 novo; n.os 2 e 3 são os anteriores n.os 3 e 4 do artigo 6.º, com o texto original.", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "n.º 1 com a redação do DL 119/2003; n.º 4 alínea d) revogada pelo DL 176/2004; resto igual ao original.", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "DL 119/2003: n.º 2 com nova redação.", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "DL 119/2003: n.º 4 com nova redação; n.os 1 a 3 iguais ao original.", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "DL 20/2004: n.º 1 com nova redação (SE das Florestas); n.º 2 igual.", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "DL 119/2003: n.º 2 com nova redação; n.os 1, 3 e 4 iguais ao original.", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 24.º", "veredicto": "certo", "motivo": "DL 119/2003: n.º 2 com nova redação; resto igual.", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 25.º", "veredicto": "certo", "motivo": "n.º 2 com a redação do DL 176/2004; n.º 6 alínea c) com a redação do DL 119/2003; novos n.os 6 e 7 do DL 176/2004; anterior n.º 6 passa a n.º 8; resto igual ao original.", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 26.º", "veredicto": "dúvida", "motivo": "As remissões 'anterior alínea X)' do DL 119/2003 não batem com a numeração das alíneas do original (por exemplo, a anterior c) é a Agência Portuguesa de Apoio ao Desenvolvimento, não o Instituto Geológico e Mineiro), e o original tem alíneas que não aparecem na redação nova (Agência de Inovação, APAD, Instituto de Investigação das Pescas e do Mar, ANEFA). O consolidado coincide com o anexo de republicação do DL 176/2004, mantendo o texto original nas alíneas f) e m). A aplicação literal das instruções é ambígua.", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 27.º", "veredicto": "certo", "motivo": "DL 119/2003: n.os 1 e 2 com nova redação.", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 29.º", "veredicto": "certo", "motivo": "DL 119/2003: n.º 2 com nova redação; n.os 1 e 3 iguais ao original.", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 30.º", "veredicto": "certo", "motivo": "DL 119/2003: n.º 2 com nova redação; n.os 1, 3 e 4 iguais ao original.", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 31.º", "veredicto": "certo", "motivo": "DL 119/2003: n.º 2 com nova redação; n.os 1, 3 e 4 iguais ao original.", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 32.º-A", "veredicto": "certo", "motivo": "Aditado pelo DL 176/2004 com o texto indicado.", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "CAPÍTULO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 28.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "CAPÍTULO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "CAPÍTULO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 32.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 33.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 34.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 35.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "artigo": "Artigo 36.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:371035:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Redação do DL 55/98 (letra a letra)", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "n.º 5 do DL 55/98; n.os 1 a 4 mantidos", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "DL 55/98: n.º 1, 2, 6 e 7 novos; 3 a 5 mantidos", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 7.º", "veredicto": "errado", "motivo": "Texto novo do DL 55/98 duplicado com o texto original, que devia ter sido substituído", "texto_esperado": "O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro dos Negócios Estrangeiros ou pelo ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República nos termos do artigo 185.º, n.º 1, da Constituição."}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Revogado pelo DL 55/98", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "n.º 1 mantido, n.º 2 novo (DL 55/98)", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 9.º-A", "veredicto": "certo", "motivo": "Aditado pelo DL 55/98", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 9.º-B", "veredicto": "certo", "motivo": "Aditado pelo DL 55/98", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "DL 55/98: n.os 1 e 2 = actuais n.os 1 e 2 do artigo 11.º", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "DL 55/98: n.os 1 a 3 = actuais do artigo 10.º (n.º 3 aditado pelo DL 23/96)", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Revogado pelo DL 23/96", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "n.º 1 do DL 43/96", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "n.º 2 do DL 55/98 (substitui o do DL 43/96); resto mantido", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "n.º 2 do DL 17/99", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "Revogado pelo DL 23/96", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Artigo substituído integralmente pelo DL 55/98 (n.os 5 e 6 deixam de existir)", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Revogado pelo DL 55/98", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "Redação do DL 55/98", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 24.º", "veredicto": "certo", "motivo": "Redação do DL 55/98", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 25.º", "veredicto": "certo", "motivo": "n.º 1 do DL 55/98; n.º 2 mantido", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 26.º", "veredicto": "certo", "motivo": "Alíneas d) a x) do n.º 3 do DL 23/96; a) a c) mantidas", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 30.º", "veredicto": "certo", "motivo": "DL 55/98: n.º 3 = actual n.º 4; original n.º 3 eliminado", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 31.º", "veredicto": "certo", "motivo": "n.º 1 do DL 55/98 (supera o do DL 23/96); resto mantido", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 32.º", "veredicto": "certo", "motivo": "n.º 1 do DL 55/98; resto mantido", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 33.º", "veredicto": "certo", "motivo": "n.º 1 do DL 55/98; resto mantido", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 33.º-A", "veredicto": "certo", "motivo": "Aditado pelo DL 267/98", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 34.º", "veredicto": "certo", "motivo": "n.º 5 do DL 23/96 e n.os 6 a 8 aditados", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 38.º-A", "veredicto": "certo", "motivo": "Aditado pelo DL 55/98", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 38.º-B", "veredicto": "certo", "motivo": "Aditado pelo DL 55/98", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "CAPÍTULO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 27.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 28.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 29.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "CAPÍTULO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "CAPÍTULO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 35.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 36.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 37.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 38.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "artigo": "Artigo 39.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:455465:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "DL 17/2005 muda a alínea t) para Juventude, Desporto e Reabilitação e o DL 26/2005 revoga-a: t) (Revogada.); restantes alíneas iguais ao original.", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "n.º 1 d) revogada (DL 26/2005); n.º 2 com c) Assuntos Parlamentares, d) Adjunto do Ministro Adjunto do PM, e) Juventude, f) Desporto e Reabilitação.", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "n.º 1 substituído pelo DL 17/2005; n.os 2 a 5 iguais ao original.", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 27.º", "veredicto": "certo", "motivo": "Redação do DL 26/2005.", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 28.º", "veredicto": "certo", "motivo": "Antigo artigo 29.º renumerado pelo DL 26/2005 (o antigo 28.º, Assuntos Parlamentares, foi substituído pelo DL 17/2005 e revogado pelo DL 26/2005); texto igual ao do antigo 29.º.", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 29.º", "veredicto": "certo", "motivo": "Antigo artigo 30.º renumerado; texto igual.", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 30.º", "veredicto": "certo", "motivo": "Antigo artigo 31.º renumerado; texto igual.", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 31.º", "veredicto": "certo", "motivo": "Antigo artigo 32.º renumerado; texto igual.", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 32.º", "veredicto": "certo", "motivo": "Antigo artigo 33.º renumerado; o DL 17/2005 elimina a alínea m) Assuntos Parlamentares e a anterior n) passa a m).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 33.º", "veredicto": "certo", "motivo": "Antigo artigo 34.º renumerado; texto igual (apenas 'ás' passou a 'às' no n.º 7, sem alcance de substância).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 34.º", "veredicto": "certo", "motivo": "Antigo artigo 35.º renumerado; texto igual.", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 35.º", "veredicto": "certo", "motivo": "Antigo artigo 36.º renumerado; texto igual.", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 36.º", "veredicto": "certo", "motivo": "Antigo artigo 37.º renumerado; texto igual.", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 37.º", "veredicto": "certo", "motivo": "Antigo artigo 38.º renumerado; texto igual.", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 38.º", "veredicto": "certo", "motivo": "Antigo artigo 39.º renumerado; texto igual.", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 39.º", "veredicto": "certo", "motivo": "Antigo artigo 40.º renumerado; texto igual.", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "CAPÍTULO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 24.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 25.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 26.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "CAPÍTULO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "CAPÍTULO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "artigo": "Artigo 40.º", "veredicto": "certo", "motivo": "Não existe no consolidado por renumeração: o seu texto está no artigo 39.º (DL 26/2005, 'Anterior artigo 40.º'). Ausência correta.", "texto_esperado": ""}
+{"id": "pt:dre:551625:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Redação do DL 247/2001 (última), letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "n.os 1 e 2 do DL 247/2001; n.º 3 do DL 116/2001; n.º 4 é o antigo n.º 6 (DL 267-A/2000).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 7.º", "veredicto": "errado", "motivo": "O consolidado tem dois parágrafos: a nova redação do DL 267-A/2000 e a redação original ('pelo Ministro de Estado ou pelo ministro...') que devia ter sido substituída. Deve ficar só a nova.", "texto_esperado": "O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição."}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "n.º 2 do DL 247/2001 (último a alterar); n.os 1 e 3 originais.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Revogado pelo DL 267-A/2000, art. 3.º.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Revogado pelo DL 267-A/2000, art. 3.º.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Revogado pelo DL 267-A/2000 e repristinado com nova redação pelo DL 247/2001, art. 2.º; texto conforme.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "n.º 2 do DL 116/2001; restantes números e alíneas originais.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "n.º 1 alterado pelo DL 267-A/2000 e revogado pelo DL 247/2001; n.º 2 original.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "n.º 1 do DL 267-A/2000; n.º 2 original.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 17.º", "veredicto": "dúvida", "motivo": "O DL 267-A/2000 aditou o n.º 3 (Gabinete do Plano de Desenvolvimento da Área de Sines). O DL 247/2001 dá nova redação ao artigo só com os n.os 1 e 2 ('...'), sem n.º 3. Lido à letra, o n.º 3 deixa de existir; o consolidado manteve-o. Pode ser lapso do legislador, mas a redação publicada não o inclui.", "texto_esperado": "1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Tesouro e Finanças, pelo Secretário de Estado do Orçamento e pelo Secretário de Estado dos Assuntos Fiscais.\n\n2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no Ministério com o mesmo nome."}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "n.º 1 do DL 247/2001; n.º 2 original.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "n.º 1 do DL 116/2001, n.os 2 e 3 originais, n.º 4 do DL 116/2001, n.º 5 do DL 247/2001.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "n.º 1 do DL 267-A/2000; n.º 2 original.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "n.º 1 do DL 247/2001; n.º 2 original.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 24.º", "veredicto": "certo", "motivo": "n.º 1 do DL 247/2001; n.º 2 original.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 25.º", "veredicto": "certo", "motivo": "n.º 2 (sem ponto final, como no diploma), n.os 5 e 6 do DL 267-A/2000; n.os 1, 3 e 4 originais.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 26.º", "veredicto": "certo", "motivo": "n.os 1, 3 e 4 do DL 247/2001; n.º 2 original.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 28.º-A", "veredicto": "certo", "motivo": "Aditado pelo DL 267-A/2000; n.º 2 alterado pelo DL 116/2001.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 33.º", "veredicto": "certo", "motivo": "n.os 1 e 2 do DL 267-A/2000; n.os 3 e 4 originais.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 33.º-A", "veredicto": "certo", "motivo": "Aditado pelo DL 267-A/2000, art. 2.º.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 34.º", "veredicto": "certo", "motivo": "n.os 1 e 2 do DL 267-A/2000; n.os 3 e 4 originais.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 35.º", "veredicto": "certo", "motivo": "Revogado pelo DL 267-A/2000, art. 3.º.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 36.º", "veredicto": "certo", "motivo": "Revogado pelo DL 267-A/2000, art. 3.º.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 37.º", "veredicto": "certo", "motivo": "n.º 4 do DL 267-A/2000; n.º 9 original substituído pelo antigo n.º 10 (n.º 9 atual); n.os 1-3 e 5-8 originais.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 37.º-A", "veredicto": "certo", "motivo": "Aditado pelo DL 24/2002.", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "CAPÍTULO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 27.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 28.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 29.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 30.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 31.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "CAPÍTULO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 32.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "CAPÍTULO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 38.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 39.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 40.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 41.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 42.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 43.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "artigo": "Artigo 44.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:692200:por", "instrucoes_em_falta": ["DL 267-A/2000, art. 3.º n.º 2: o capítulo II passa a designar-se «Do Conselho de Ministros». O CAPÍTULO II consta da lista dos IGUAIS ao original; se o título original era diferente, a instrução não foi aplicada (a vista não mostra o título, não verificável)."], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "Possível falta: designação do capítulo II («Do Conselho de Ministros») dada pelo DL 267-A/2000, art. 3.º n.º 2; o consolidado diz-se igual ao original nesse título. Restante sem alterações."}

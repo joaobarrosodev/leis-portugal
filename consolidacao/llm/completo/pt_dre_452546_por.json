@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:452546:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "As emendas dos alteradores 1 a 3 inserem notas explicativas no anexo 6 da Convenção TIR (nota 2.2.1 c)-1 f) e nota 0.8.5), mas o anexo 6 não existe no texto atual; o Aviso n.º 151/99 (alterador 4) só anuncia a entrada em vigor de emendas cujo texto não reproduz.",
+  "instrucoes": [
+    "Alt. 1 (Decreto do Governo 76/84): insere nota explicativa f) após 2.2.1 c)-1 e) no anexo 6: não aplicável, anexo 6 ausente.",
+    "Alt. 2 (Aviso de 1985): emenda que insere nota 0.8.5 no anexo 6: não aplicável, anexo 6 ausente.",
+    "Alt. 3 (Decreto do Governo 48/85): insere nota 0.8.5 no anexo 6: não aplicável, anexo 6 ausente.",
+    "Alt. 4 (Aviso 151/99): só publicita a entrada em vigor de emendas sem texto: nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

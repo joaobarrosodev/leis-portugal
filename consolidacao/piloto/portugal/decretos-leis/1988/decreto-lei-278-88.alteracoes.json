@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — Comparticipações\n\n1 - As comparticipações referidas no artigo 1.º podem ser concedidas por cada município e pelo Estado, através do Instituto de Gestão e Alienação do Património Habitacional do Estado, adiante designado por IGAPHE, até 40% do preço de venda das habitações, em partes iguais e sem qualquer contrapartida.\n\n2 - Para efeitos do disposto no número anterior, devem as autarquias locais, antes do início da execução ou aquisição dos empreendimentos em causa, apresentar as respectivas candidaturas ao IGAPHE, instruídas com os elementos necessários e suficientes para a apreciação e concretização das comparticipações em causa.\n\n3 - O preço de venda das habitações sociais será determinado de acordo com o estabelecido no [Decreto-Lei n.º 220/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1983-451825), de 26 de Maio, e legislação complementar.\n\n4 - Em relação à parte do preço de venda não comparticipada nos termos do disposto no n.º 1, podem os beneficiários recorrer ao sistema de crédito à habitação própria instituído pelo [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro.",
+    "depois": "###### Artigo 5.º — Comparticipações\n\n1 - As comparticipações referidas no artigo 1.º podem ser concedidas por cada município e pelo Estado, através do Instituto de Gestão e Alienação do Património Habitacional do Estado, adiante designado por IGAPHE, até 50% do preço de venda das habitações, suportando o IGAPHE 50% desta comparticipação.\n\n2 - Para efeitos do disposto no número anterior, devem as autarquias locais, antes do início da execução ou aquisição dos empreendimentos em causa, apresentar as respectivas candidaturas ao IGAPHE, instruídas com os elementos necessários e suficientes para a apreciação e concretização das comparticipações em causa.\n\n3 - O preço de venda das habitações sociais será determinado de acordo com o estabelecido no [Decreto-Lei n.º 220/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1983-451825), de 26 de Maio, e legislação complementar.\n\n4 - Em relação à parte do preço de venda não comparticipada nos termos do disposto no n.º 1, podem os beneficiários recorrer ao sistema de crédito à habitação própria instituído pelo [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro.\n\n> Alterado pelo/a [Decreto-Lei n.º 150-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1991-478048), publicado em 1991-04-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:377089:por",
+    "alterador": "pt:dre:478048:por"
+  }
+]

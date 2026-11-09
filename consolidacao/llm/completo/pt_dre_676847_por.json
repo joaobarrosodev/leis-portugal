@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:676847:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "As empresas abrangidas pelo presente diploma ficam sujeitas ao pagamento de uma quota de inspecção correspondente a 0,5% da reserva de reavaliação autorizada, até ao limite máximo de 500000$00, a qual será liquidada e cobrada pela IGF após a data da respectiva autorização, que lhe deve ser comunicada pela Direcção-Geral das Contribuições e Impostos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do artigo 4.º — aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

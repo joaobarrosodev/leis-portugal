@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:187505:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 2-G/2003 retifica o anexo II, cujo quadro (texto errado e texto correto) só vem em imagem.",
+  "instrucoes": [
+    "Retificação do anexo II (quadro em imagem): não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

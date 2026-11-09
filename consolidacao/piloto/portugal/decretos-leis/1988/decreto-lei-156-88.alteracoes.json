@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "38.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 38.º — Alargamento especial dos períodos de concessão dos auxílios\n\nOs períodos de concessão dos subsídios de desemprego e de pré-reforma, bem como os correspondentes auxílios financeiros no âmbito da Convenção e do presente diploma, podem ser alargados para 36 meses por força e nos termos prescritos nos programas especiais aprovados pela Comissão das Comunidades.",
+    "depois": "###### Artigo 38.º — Alargamento especial dos períodos de concessão dos auxílios\n\nOs períodos de concessão das medidas de apoio, bem como os correspondentes auxílios financeiros previstos no âmbito da Convenção e do presente diploma, podem ser alargados por força e nos termos prescritos nos programas especiais aprovados pela Comissão das Comunidades.\n\n> Alterado pelo/a [Decreto-Lei n.º 58/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1989-612416), publicado em 1989-02-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:373594:por",
+    "alterador": "pt:dre:612416:por"
+  }
+]

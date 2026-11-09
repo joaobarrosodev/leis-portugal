@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:650114:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Modalidades",
+      "texto": "1 - Na 1.ª fase da reprivatização proceder-se-á à alienação, por venda directa, de um bloco indivisível de 2 milhões de acções representativas de 94,97% do capital social da SETENAVE.\n\n2 - A 2.ª fase da reprivatização concretizar-se-á mediante a alienação, por oferta pública de venda reservada a trabalhadores da SETENAVE e pequenos subscritores, de acções representativas de 5,03% do capital social da SETENAVE.\n\n3 - O adquirente do bloco de acções a alienar na 1.ª fase da reprivatização fica obrigado a adquirir a totalidade das acções eventualmente não colocadas no âmbito da oferta pública de venda a que alude o número anterior, ao preço de aquisição das acções objecto da venda directa.",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Oferta pública de venda",
+      "texto": "1 - O Conselho de Ministros fixará, mediante resolução, as condições concretas aplicáveis à oferta pública de venda das acções, designadamente:\n\na) O número exacto de acções a alienar;\n\nb) As quantidades de acções reservadas para aquisição por trabalhadores da SETENAVE e pequenos subscritores;\n\nc) As quantidades mínimas e máximas de acções que podem ser adquiridas por cada pessoa ou entidade dentro das categorias de investidores referidas na alínea anterior;\n\nd) Os critérios de rateio aplicáveis;\n\ne) Os termos a que obedecerá a transferência de acções remanescentes de uma categoria para outra;\n\nf) As condições especiais aplicáveis à aquisição das acções pelos pequenos subscritores e pelos trabalhadores da SETENAVE.\n\n2 - O preço de venda a praticar na oferta pública de venda reservada a trabalhadores e pequenos subscritores será de 94% do preço de alienação a fixar para as acções objecto da venda directa.\n\n3 - Caso, em resultado da venda directa prevista no n.º 1 do artigo 2.º ou em cumprimento da obrigação a que alude o n.º 3 do artigo 2.º, se verifique a situação prevista no artigo 490.º, n.º 1 do Código das Sociedades Comerciais:\n\na) A sociedade dominante ficará obrigada a não exercer o direito que lhe é conferido pelo número 3 do artigo 490.º do Código das Sociedades Comerciais;\n\nb) Os titulares de acções adquiridas no âmbito da oferta pública de venda não poderão, em relação às mesmas, durante 3 anos contados da data de realização da sessão especial de bolsa destinada à execução da oferta, exercer os direitos consagrados nos n.os 5 e 6 do artigo 490.º do Código das Sociedades Comerciais.\n\n5 - Para efeitos do disposto no número 2 do artigo 2.º, consideram-se trabalhadores da SETENAVE as pessoas que se encontram nas condições previstas no artigo 12.º da Lei 11/90, de 5 de Abril, em relação à SETENAVE - Estaleiros Navais de Setúbal, S. A.",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Actos prévios à reprivatização",
+      "texto": "A SETENAVE, previamente às operações de venda reguladas pelo presente diploma, procederá a uma redução do seu capital social para 2,106 milhões de contos, destinada à cobertura de prejuízos.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Artigo 6.º: a nova redação (alteradores 1 e 2) só enumera os n.os 1 a 3 (n.º 3 = anterior n.º 4) e nada diz sobre o anterior n.º 5; manteve-se como \"5 -\" sem o renumerar nem eliminar.",
+  "instrucoes": [
+    "Alterador 1: nova redação dos artigos 2.º (n.os 1 e 2; já no texto atual), 6.º (anterior n.º 4 passa a n.º 3, eliminado o anterior n.º 3) e 8.º (2,160 milhões de contos).",
+    "Alterador 2, artigo 1.º: nova redação dos artigos 2.º (n.os 1 e 2: 2 milhões de acções, 94,97% e 5,03%), 6.º (igual ao alterador 1) e 8.º (2,106 milhões de contos); aplicada sobre a do alterador 1.",
+    "Alterador 2, artigo 2.º: revoga o Decreto-Lei n.º 5/98; não é instrução dirigida ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

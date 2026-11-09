@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "58.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 58.º\n\n1 - Com ressalva das disposições especiais aplicáveis aos objectos de correspondência postal e às encomendas postais, a declaração mencionada no artigo 3.º não é exigida relativamente às mercadorias:\n\na) Importadas para fins não comerciais, nos termos da legislação aplicável;\n\nb) Integradas em pequenas remessas enviadas a particulares ou contidas nas bagagens pessoas dos viajantes, desde que não revistam carácter comercial;\n\nc) Contidas em pequenos volumes, vindos por qualquer via, quando na sua totalidade o peso não for superior a 20 kg e o valor não exceda 15000$00.\n\n2 - Sem prejuízo da aplicação de quaisquer medidas de proibição ou restrição a que eventualmente estejam sujeitas, as mercadorias referidas no n.º 1 são tributadas oficiosamente, com base em declaração verbal do interessado e nos resultados da verificação, utilizando-se, para o efeito, os formulários apropriados em uso nos serviços.",
+    "depois": "###### Artigo 58.º\n\n1 - Sem prejuízo das disposições especiais aplicáveis aos objectos de correspondência postal e às encomendas postais, e com excepção dos casos em que deva ser apresentada uma licença, uma autorização ou um certificado de importação, não será exigida declaração escrita relativamente às mercadorias:\n\na) Importadas para fins não comerciais, nos termos da legislação aplicável;\n\nb) Integradas em pequenas remessas enviadas de particular a particular ou contidas nas bagagens pessoais dos viajantes desde que não revistam carácter comercial;\n\nc) Contidas em pequenos volumes, vindos por qualquer via, desde que enviadas a título ocasional, quando na sua totalidade o peso não for superior a 50 kg e o valor não exceda 100000$00.\n\n2 - As mercadorias referidas no n.º 1 são tributadas oficiosamente, com base em declaração verbal do interessado e nos resultados da verificação, utilizando-se, para o efeito, os formulários apropriados em uso nos serviços.\n\n> Alterado pelo/a [Decreto-Lei n.º 239/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1991-667897), publicado em 1991-07-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:546432:por",
+    "alterador": "pt:dre:667897:por;pt:dre:557466:por"
+  },
+  {
+    "artigo": "62.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 62.º\n\nCom ressalva das disposições aplicáveis à liquidação, ao registo de liquidação e à garantia ou pagamento das imposições devidas, as formalidades previstas no artigo 240.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passam a ser, relativamente ao regime geral regulado no título II, as seguintes: entrega da declaração, controle de aceitação, aceitação, controle da declaração e saída.",
+    "depois": "###### Artigo 62.º\n\n1 - Com ressalva das disposições aplicáveis à liquidação, ao registo de liquidação e à garantia ou pagamento das imposições devidas, as formalidades previstas no artigo 240.º do Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941, passam a ser, relativamente ao regime geral, as seguintes:\n\na) Entrega da declaração;\n\nb) Controlo de aceitação;\n\nc) Aceitação;\n\nd) Controlo da declaração;\n\ne) Saída.\n\n2 - A conferência da declaração, nos casos em que tenha lugar, em conformidade com os critérios de amostragem definidos por despacho do Ministro das Finanças, pode ser efectuada após ter sido dada a autorização de saída das mercadorias.\n\n> Alterado pelo/a [Decreto-Lei n.º 288/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1990-557466), publicado em 1990-09-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:546432:por",
+    "alterador": "pt:dre:667897:por;pt:dre:557466:por"
+  }
+]

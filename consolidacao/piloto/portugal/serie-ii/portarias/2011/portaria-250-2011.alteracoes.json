@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Zona especial de protecção\n\na) É fixada a zona especial de protecção (ZEP) conjunta do Mercado do Bom Sucesso e da Casa e Capela do Bom Sucesso, imóveis identificados nas alíneas a) e b), respectivamente, do artigo anterior, conforme planta de delimitação constante do anexo i à presente portaria, da qual faz parte integrante.\n\nb) O Paço da Loba, imóvel identificado na alínea c) do artigo anterior, beneficia da zona especial de protecção (ZEP) coincidente com a ZEP conjunta à igreja matriz de Fonte Arcada, classificada como imóvel de interesse público pelo [Decreto n.º 40361](https://diariodarepublica.pt/dr/detalhe/decreto/40361-1955-245491), publicado no Diário de Governo, n.º 228, de 20 de Outubro de 1955 e Pelourinho de Fonte Arcada, classificado como imóvel de interesse público pelo Decreto n.º 23 122, publicado no Diário de Governo, n.º 231, de 11 de Outubro de 1933, conforme planta de delimitação constante do anexo ii à presente portaria, da qual faz parte integrante.\n\n11 de Janeiro de 2011. - O Secretário de Estado da Cultura, Elísio Costa Santos Summavielle.",
+    "depois": "###### Artigo 2.º — Zona especial de protecção\n\na) É fixada a zona especial de protecção (ZEP) conjunta do Mercado do Bom Sucesso e da Casa e Capela do Bom Sucesso, imóveis identificados nas alíneas a) e b), respectivamente, do artigo anterior, conforme planta de delimitação constante do anexo i à presente portaria, da qual faz parte integrante.\n\nb) É fixada a zona especial de protecção (ZEP) conjunta do Paço da Loba, imóvel identificado na alínea c) do artigo anterior, da igreja matriz de Fonte da Arcada, classificada como imóvel de interesse público pelo [Decreto n.º 40361](https://diariodarepublica.pt/dr/detalhe/decreto/40361-1955-245491), publicado no Diário do Governo, n.º 228, de 20 de Outubro de 1955, e do Pelourinho de Fonte da Arcada, classificado como imóvel de interesse público pelo Decreto n.º 23 122, publicado no Diário do Governo, n.º 231, de 11 de Outubro de 1933, conforme planta de delimitação constante do anexo ii à presente portaria, da qual faz parte integrante.»\n\n> Alterado pelo/a [Declaração de Rectificação n.º 322/2011](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/322-2011-2465230), publicado em 2011-02-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1859036:por",
+    "alterador": "pt:dre:2465230:por"
+  }
+]

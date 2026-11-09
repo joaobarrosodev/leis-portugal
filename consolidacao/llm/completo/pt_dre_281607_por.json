@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:281607:por",
+  "artigos": [
+    {
+      "chave": "24.º",
+      "epigrafe": "",
+      "texto": "Os oficiais em comissão militar no ultramar que deixarem a efectividade de serviço, a seu pedido, perdem o direito às passagens de regresso para si e suas famílias.\n\n§ único. Será fornecido transporte por conta do Estado para as localidades onde estabeleçam domicílio aos oficiais que, desligados da efectividade de serviço, a seu pedido, fiquem exercendo no ultramar quaisquer actividades ou profissões civis.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 43821): estende à Armada e Força Aérea o direito de passagem; não altera o texto; nada feito.",
+    "Alterador 2 (Decreto 44914), artigo 1.º: adita § único ao artigo 24.º; aplicado. Artigo 2.º: norma autónoma de âmbito; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

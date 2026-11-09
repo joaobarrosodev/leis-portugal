@@ -26,5 +26,61 @@
     "unidade": [],
     "diploma": "pt:dre:524793:por",
     "alterador": "pt:dre:302156:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1 - O capital social da OGMA, S. A., é de 7000000000$00, totalmente subscrito e realizado pelo Estado com os valores integrantes do património da sociedade.\n\n2 - As acções representativas do capital da OGMA, S. A., poderão ser detidas pelo Estado e por entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, desde que se observe o disposto no n.º 1 do artigo anterior.\n\n3 - As acções de que o Estado é titular são detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestão poder ser cometida a uma pessoa colectiva de direito público ou a outro sujeito integrado no sector público.\n\n4 - Os direitos do Estado como accionista da sociedade são exercidos por um representante nomeado por despacho conjunto dos Ministros da Defesa Nacional e das Finanças, salvo quando a gestão tenha sido cometida a outra entidade, nos termos do número anterior.",
+    "depois": "###### Artigo 2.º\n\n1 - O capital social da OGMA, S. A., é de 7000000000$00, totalmente subscrito e realizado pelo Estado com os valores integrantes do património da sociedade.\n\n2 - As acções representativas do capital da OGMA, S. A., poderão ser detidas pelo Estado e por entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, bem como por entidades privadas.\n\n3 - As acções de que o Estado é titular são detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestão poder ser cometida a uma pessoa colectiva de direito público ou a outro sujeito integrado no sector público.\n\n4 - Os direitos do Estado como accionista da sociedade são exercidos por um representante nomeado por despacho conjunto dos Ministros da Defesa Nacional e das Finanças, salvo quando a gestão tenha sido cometida a outra entidade, nos termos do número anterior.\n\n> Alterado pelo/a [Decreto-Lei n.º 99/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2004-302156), publicado em 2004-05-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:524793:por",
+    "alterador": "pt:dre:302156:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\nA OGMA, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, sendo as respectivas competências fixadas na lei e nos Estatutos.",
+    "depois": "###### Artigo 5.º\n\nA OGMA, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal ou fiscal único, sendo as respectivas competências fixadas na lei e nos estatutos.\n\n> Alterado pelo/a [Decreto-Lei n.º 99/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2004-302156), publicado em 2004-05-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:524793:por",
+    "alterador": "pt:dre:302156:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\n1 - Os oficiais das Forças Armadas podem prestar serviço na OGMA, S. A., em comissão normal, nos termos do Estatuto dos Militares das Forças Armadas.\n\n2 - Os oficiais engenheiros aeronáuticos e electrotécnicos do quadro permanente da Força Aérea poderão ser colocados na OGMA, S. A., em comissão normal de serviço, por um período de quatro anos, prorrogável por mais dois anos.\n\n3 - Os quantitativos de oficiais engenheiros aeronáuticos e electrotécnicos e a sua distribuição por funções serão definidos em conjunto pela OGMA, S. A., e pela Força Aérea, sendo revistos para efeitos de actualização no final de períodos de dois anos.\n\n4 - O número de oficiais engenheiros em consideração será de 25% para os engenheiros aeronáuticos e de 20% para os engenheiros electrotécnicos em relação aos efectivos dos respectivos quadros especiais da Força Aérea.\n\n5 - Aos oficiais engenheiros aeronáuticos e electrotécnicos licenciados da Força Aérea é assegurado o estágio profissionalizante na OGMA, S. A.\n\n6 - As condições de concretização dos números anteriores serão objecto de protocolo de acordo entre a OGMA, S. A., e a Força Aérea.",
+    "depois": "###### Artigo 8.º\n\n1 - Os oficiais das Forças Armadas podem prestar serviço na OGMA, S. A., em comissão normal, nos termos do Estatuto dos Militares das Forças Armadas.\n\n2 - Os oficiais engenheiros aeronáuticos e electrotécnicos do quadro permanente da Força Aérea poderão ser colocados na OGMA, S. A., em comissão normal de serviço, por um período de quatro anos, prorrogável por mais dois anos.\n\n3 - Os quantitativos de oficiais engenheiros aeronáuticos e electrotécnicos e a sua distribuição por funções serão definidos em conjunto pela OGMA, S. A., e pela Força Aérea, sendo revistos para efeitos de actualização no final de períodos de dois anos.\n\n4 - Aos oficiais engenheiros aeronáuticos e electrotécnicos licenciados da Força Aérea é assegurado o estágio profissionalizante na OGMA, S. A.\n\n5 - As condições de concretização dos números anteriores serão objecto de protocolo de acordo entre a OGMA, S. A., e a Força Aérea.\n\n> Alterado pelo/a [Decreto-Lei n.º 99/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2004-302156), publicado em 2004-05-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:524793:por",
+    "alterador": "pt:dre:302156:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º\n\n1 - A OGMA, S. A., no âmbito da sua actividade, prossegue uma missão de interesse económico geral no âmbito da defesa nacional, de prossecução de objectivos essenciais e vitais para a segurança nacional, devendo conceder prioridade à execução das encomendas das Forças Armadas Portuguesas, seja no quadro dos respectivos programas e planos gerais de manutenção e revisão previamente elaborados e fixados anualmente pelas mesmas, seja em resposta a necessidades de manutenção urgentes.\n\n2 - Em caso de guerra declarada ou iminente, bem como em períodos ou situações de grave emergência, toda a actividade da OGMA, S. A., sujeita ou não a obrigações militares, ficará dependente das orientações e determinações dos órgãos competentes do Estado, de acordo com as leis e as normas em vigor.",
+    "depois": "###### Artigo 9.º\n\n1 - A OGMA, S. A., no âmbito da sua actividade, prossegue uma missão de interesse económico geral no âmbito da defesa nacional, de prossecução de objectivos essenciais e vitais para a segurança nacional, devendo conceder prioridade à execução das encomendas das Forças Armadas Portuguesas, seja no quadro dos respectivos programas e planos gerais de manutenção e revisão previamente elaborados e fixados anualmente pelas mesmas, seja em resposta a necessidades de manutenção urgentes.\n\n2 - Em caso de guerra declarada ou iminente, bem como em períodos ou situações de grave emergência, toda a actividade da OGMA, S. A., sujeita ou não a obrigações militares, ficará dependente das orientações e determinações dos órgãos competentes do Estado, de acordo com as leis e as normas em vigor.\n\n3 - A actividade da OGMA, S. A., no que diz respeito à manutenção da frota da Força Aérea portuguesa, é desenvolvida em articulação com o Chefe do Estado-Maior da Força Aérea, não podendo nenhuma decisão de encerramento ou de cessação dessas actividades, total ou parcial, ser tomada sem obtenção do prévio acordo do Ministro da Defesa Nacional.\n\n> Alterado pelo/a [Decreto-Lei n.º 99/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2004-302156), publicado em 2004-05-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:524793:por",
+    "alterador": "pt:dre:302156:por"
   }
 ]

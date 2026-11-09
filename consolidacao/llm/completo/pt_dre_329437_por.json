@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:329437:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Artigo único do DRR 38/80/A: o quadro de pessoal a que se refere o artigo 27.º passa a ter a composição do quadro anexo, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "DRR 38/80/A artigo único: nova composição do quadro de pessoal (anexo em imagem) — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

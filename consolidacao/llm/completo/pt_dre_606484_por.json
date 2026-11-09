@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:606484:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "Os SSGF poderão exercer uma acção supletiva da assistência na doença por conta do Estado, que compreenderá exclusivamente os casos não contemplados por aquela assistência que sejam considerados merecedores de especial atenção pelas características excepcionalmente gravosas de que se revistam.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "1 - A assistência na invalidez, no desamparo e na velhice destina-se aos inválidos, às viúvas carenciadas e aos filhos solteiros menores e órfãos em situação comprovada de desamparo e, bem assim, àqueles que, pela sua avançada idade e condições de desamparo, devidamente comprovadas, requeiram cuidados especiais.\n\n2 - Este tipo de assistência pode assumir a forma de internamento em recolhimentos, orfanatos, casas de repouso e outros estabelecimentos análogos, de atribuição de subsídios ou qualquer outra modalidade de auxílio, também com o condicionamento referido no artigo 5.º do presente Regulamento.",
+      "alterador": 1
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "texto": "A perda da qualidade de subscritor verificar-se-á:\n\na) Quando o subscritor deixar de estar nas situações referidas no artigo 6.º do [Decreto-Lei n.º 511/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1980-462409), de 25 de Outubro;\n\nb) Por declaração de desistência;\n\nc) Por despacho do director, em relação a subscritores voluntários, em consequência de actos reprováveis e atentatórios do bom nome dos SSGF por eles praticados;\n\nd) Automaticamente, quando o subscritor voluntário dever aos SSGF 6 meses de quotas e não responder dentro de 15 dias à comunicação que lhe for feita sobre se deseja ou não continuar a ser subscritor.\n\ne) Automaticamente, quando o subscritor passar compulsivamente à situação de reserva ou de reforma.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 835/84, 1.º: nova redação do artigo 5.º (corpo único, substitui os n.os 1-4) e do n.º 2 do artigo 8.º (n.º 1 mantido).",
+    "Portaria 835/84, 2.º: entrada em vigor — não altera o texto.",
+    "Portaria 832/87, 1.º: aditada alínea e) ao artigo 17.º (alíneas a)-d) mantidas letra a letra).",
+    "Portaria 832/87, 2.º: entrada em vigor."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

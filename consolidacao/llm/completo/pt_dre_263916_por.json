@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:263916:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:\n\nEm 1968 ... 329000$00\n\nEm 1970 - 164500$00;\n\nEm 1971 - 164500$00;\n\n§ único. A importância fixada para o último ano será acrescida do saldo apurado no ano que lhe antecede.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do Decreto 50/70: o encargo de 1969 (329000$00) do artigo 2.º é substituído pelos de 1970 e 1971 (164500$00 cada), copiados do alterador; o § único passa a referir o último ano. Mantidos a frase inicial e o encargo de 1968."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "2.º: parágrafo que não está no alterador nem no original: § único. A importância fixada para o último ano será acrescida do saldo apurado "
+  ]
+}

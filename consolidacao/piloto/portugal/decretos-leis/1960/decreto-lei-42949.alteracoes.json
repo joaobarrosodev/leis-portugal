@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nO mapa n.º 5 exporá a conta geral da dívida fictícia, indicando por totais as somas do capital da dívida e do encargo anual de juros e amortizações, em cada uma das divisões seguintes:\n\nDivisão A - Títulos entregues pelo Tesouro em caução de empréstimos.\n\nDivisão B - Títulos existentes na posse real do Tesouro.\n\nDivisão C - Títulos existentes na posse do outras pessoas colectivas de direito público (dívida inscrita).",
+    "depois": "###### Artigo 7.º\n\nO mapa n.º 5 exporá a conta geral da dívida fictícia, indicando por totais as somas do capital da dívida e do encargo anual de juros e amortizações, em cada uma das divisões seguintes:\n\nDivisão A - Títulos entregues pelo Tesouro em caução de empréstimos.\n\nDivisão B - Títulos existentes na posse real do Tesouro.\n\nDivisão C - Títulos na posse do Fundo de regularização da dívida pública.\n\nDivisão D - Títulos na posse do Fundo de renda vitalícia.\n\nDivisão E - Títulos existentes na posse de outras pessoas colectivas de direito público (dívida inscrita).\n\n> Alterado pelo/a [Decreto-Lei n.º 45020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45020-1963-627872), publicado em 1963-05-10.\n\nDivisão C - Títulos existentes na posse do outras pessoas colectivas de direito público (dívida inscrita).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:281450:por",
+    "alterador": "pt:dre:627872:por"
+  }
+]

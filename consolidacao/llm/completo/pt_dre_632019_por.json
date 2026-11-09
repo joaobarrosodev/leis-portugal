@@ -1,0 +1,62 @@
+{
+  "id": "pt:dre:632019:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 11.º: revoga os artigos 11.º a 18.º do DL 543/71 - um elemento (Revogado.) por artigo. As restantes revogações (DL 21360, Regulamento Geral das Capitanias) e a revogação genérica das normas contrárias não são do original/condicionais: ignoradas.",
+    "Alterador 1, arts. 1.º a 10.º e 12.º: regime autónomo, sem instruções textuais dirigidas ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

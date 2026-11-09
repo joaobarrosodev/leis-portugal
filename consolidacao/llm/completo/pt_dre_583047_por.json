@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:583047:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A retificação incide sobre o mapa III anexo, que só vem em imagem (ver documento original) e não consta do texto atual; não aplicada.",
+  "instrucoes": [
+    "Alterador 1: retifica o mapa III (despesas por classificação funcional) — quadro em imagem, fora do texto atual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

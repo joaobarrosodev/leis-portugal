@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:583420:por",
+  "artigos": [
+    {
+      "chave": "22.º",
+      "epigrafe": "Estada, regresso ou transferência de residência",
+      "texto": "1 - O trabalhador vítima de acidente de trabalho ou de doença profissional beneficia das prestações durante a permanência temporária no território do Estado Contratante que não seja o do Estado competente ou quando do regresso ou transferência da residência para o território do Estado de que é nacional.\n\n2 - As prestações são concedidas directamente ao trabalhador pela instituição competente, nos termos da legislação por ela aplicada.",
+      "alterador": 2
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Agravamento de doença profissional",
+      "texto": "Em caso de agravamento de uma doença profissional indemnizada ao abrigo da legislação de um dos Estados Contratantes, residindo o trabalhador no território do outro Estado, são aplicadas as seguintes regras:\n\n1 - Se o trabalhador não tiver exercido no território do Estado da nova residência uma actividade susceptível de provocar ou agravar a doença em causa, a instituição competente do primeiro Estado toma a seu cargo o agravamento da doença, em conformidade com a legislação por ela aplicada.\n\n2 - Se o trabalhador tiver exercido no território do Estado da nova residência uma actividade profissional susceptível de agravar essa doença:\n\na) A instituição competente do primeiro Estado Contratante deve assumir o encargo das prestações, sem ter em conta o agravamento, em conformidade com a legislação por ela aplicada;\n\nb) A instituição competente do outro Estado deve assumir o encargo do suplemento da prestação correspondente ao agravamento. O montante deste suplemento é determinado nos termos da legislação aplicada por este último Estado e é igual à diferença entre o montante da prestação que teria sido devida após o agravamento e o montante da prestação que teria sido devida antes do agravamento, como se a doença tivesse ocorrido no seu território.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: aviso que publica o Acordo Administrativo de aplicação da Convenção; sem instruções de alteração do original; ignorado.",
+    "Alterador 2 n.º 1: numeração e pontuação do artigo 9.º; texto atual já rectificado, sem mudança.",
+    "Alterador 2 n.º 2: pontuação e '3 - ' no artigo 16.º; texto atual já rectificado, sem mudança.",
+    "Alterador 2 n.º 3: vírgula no artigo 19.º; texto atual já rectificado, sem mudança.",
+    "Alterador 2 n.º 4: numeração '1 - ' e '2 - ' dos parágrafos do artigo 22.º; aplicada.",
+    "Alterador 2 n.º 5: '4 - ' no artigo 25.º; texto atual já rectificado, sem mudança.",
+    "Alterador 2 n.º 6: numeração do artigo 26.º já rectificada; ponto final no fim do n.º 1 ('aplicada.') ainda em falta; aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "26.º: parágrafo que não está no alterador nem no original: 1 - Se o trabalhador não tiver exercido no território do Estado da nova residênc"
+  ]
+}

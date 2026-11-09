@@ -1,0 +1,993 @@
+{
+  "id": "pt:dre:347907:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Natureza",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Protecção da designação",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Sede",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Secções regionais",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Representação",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Órgãos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Deliberações",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Assembleia geral",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Disposições comuns a todas as sessões da assembleia geral",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Assembleias gerais ordinárias",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Assembleias gerais extraordinárias",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Eleição dos órgãos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Assembleias eleitorais",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Continuação do desempenho dos cargos sociais",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Regulamento eleitoral",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Conselho geral",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Reuniões",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Conselho directivo",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Funcionamento",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Conselho de inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Organização, revisão e publicação da lista",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Funcionamento",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Recurso",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Conselho disciplinar",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Funcionamento",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Conselho fiscal",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "Competências dos revisores no exercício de funções de interesse público",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "Definição genérica de revisão legal",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Sujeição a revisão legal",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Processamento da revisão legal",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Certificação legal das contas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "Competências específicas dos revisores",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "Outras funções",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "Modalidades",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "Designação",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "Área de actuação",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "Direitos e deveres específicos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "Vínculo contratual",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "Inamovibilidade",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "Obrigações acessórias",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "Fornecimento de elementos por sociedades de revisores",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "Revisor orientador ou executor",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "Comunicação do início e da cessação de contratos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "50.º",
+      "epigrafe": "Honorários e reembolso de despesas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "51.º",
+      "epigrafe": "Fixação de honorários",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "52.º",
+      "epigrafe": "Cédula profissional",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "53.º",
+      "epigrafe": "Deveres em geral",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "54.º",
+      "epigrafe": "Observância das determinações da Câmara",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "55.º",
+      "epigrafe": "Desempenho de cargos por eleição ou designação da Câmara",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "56.º",
+      "epigrafe": "Desempenho de funções profissionais por designação da Câmara",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "57.º",
+      "epigrafe": "Pagamento de quotas, taxas, emolumentos e multas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "58.º",
+      "epigrafe": "Controlo de qualidade",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "59.º",
+      "epigrafe": "Conservação dos processos de trabalho",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "60.º",
+      "epigrafe": "Uso do nome e menção de qualidade",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "61.º",
+      "epigrafe": "Publicidade",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "62.º",
+      "epigrafe": "Sigilo profissional",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "63.º",
+      "epigrafe": "Caução da responsabilidade",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "64.º",
+      "epigrafe": "Participação de crimes públicos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "65.º",
+      "epigrafe": "Cessação de funções em caso de incompatibilidade",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "66.º",
+      "epigrafe": "Incompatibilidades em geral",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "67.º",
+      "epigrafe": "Incompatibilidades específicas de exercício",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "68.º",
+      "epigrafe": "Incompatibilidades absolutas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "69.º",
+      "epigrafe": "Incompatibilidades relativas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "70.º",
+      "epigrafe": "Impedimento após cessação de funções de revisão legal",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "71.º",
+      "epigrafe": "Responsabilidade disciplinar",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "72.º",
+      "epigrafe": "Penas disciplinares",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "73.º",
+      "epigrafe": "Responsabilidade disciplinar das sociedades de revisores",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "74.º",
+      "epigrafe": "Processo disciplinar",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "75.º",
+      "epigrafe": "Recurso",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "76.º",
+      "epigrafe": "Destino e pagamento das multas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "77.º",
+      "epigrafe": "Suspensão preventiva",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "78.º",
+      "epigrafe": "Suspensão e expulsão",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "79.º",
+      "epigrafe": "Prescrições",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "80.º",
+      "epigrafe": "Isenção de custas e selos. Despesas do processo",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "81.º",
+      "epigrafe": "Revisão",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "82.º",
+      "epigrafe": "Regulamento disciplinar",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "83.º",
+      "epigrafe": "Factos passíveis de serem considerados infracção penal",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "84.º",
+      "epigrafe": "Publicidade das decisões",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "85.º",
+      "epigrafe": "Natureza jurídica e regime supletivo",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "86.º",
+      "epigrafe": "Objecto",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "87.º",
+      "epigrafe": "Sócios",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "88.º",
+      "epigrafe": "Firma",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "89.º",
+      "epigrafe": "Aprovação dos estatutos e das suas alterações",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "90.º",
+      "epigrafe": "Constituição",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "91.º",
+      "epigrafe": "Inscrição na lista",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "92.º",
+      "epigrafe": "Publicidade dos estatutos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "93.º",
+      "epigrafe": "Alteração dos sócios",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "94.º",
+      "epigrafe": "Escrituração",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "95.º",
+      "epigrafe": "Assinatura de documentos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "96.º",
+      "epigrafe": "Entradas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "97.º",
+      "epigrafe": "Capital e quotas sociais",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "98.º",
+      "epigrafe": "Administração",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "99.º",
+      "epigrafe": "Assembleia geral",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "100.º",
+      "epigrafe": "Relatório e contas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "101.º",
+      "epigrafe": "Aplicação dos resultados",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "102.º",
+      "epigrafe": "Distribuição dos lucros",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "103.º",
+      "epigrafe": "Impossibilidade temporária de exercício das funções",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "104.º",
+      "epigrafe": "Aumento do capital social",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "105.º",
+      "epigrafe": "Exame de documentos pelos sócios",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "106.º",
+      "epigrafe": "Deveres específicos dos sócios",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "107.º",
+      "epigrafe": "Incompatibilidade específica dos sócios",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "108.º",
+      "epigrafe": "Representação",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "109.º",
+      "epigrafe": "Responsabilidade pelas dívidas sociais",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "110.º",
+      "epigrafe": "Responsabilidade civil dos sócios",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "111.º",
+      "epigrafe": "Responsabilidade civil das sociedades de revisores",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "112.º",
+      "epigrafe": "Conceito",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "113.º",
+      "epigrafe": "Forma de cessão e da amortização",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "114.º",
+      "epigrafe": "Cessão de quotas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "115.º",
+      "epigrafe": "Eficácia, quanto a terceiros, da transmissão",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "116.º",
+      "epigrafe": "Amortização de quotas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "117.º",
+      "epigrafe": "Destino da quota de sócio exonerado",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "118.º",
+      "epigrafe": "Destino da quota de sócio falecido",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "119.º",
+      "epigrafe": "Destino da quota de sócio excluído",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "120.º",
+      "epigrafe": "Suspensão dos direitos sociais",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "121.º",
+      "epigrafe": "Exclusão de sócio",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "122.º",
+      "epigrafe": "Dissolução",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "123.º",
+      "epigrafe": "Liquidação",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "124.º",
+      "epigrafe": "Liquidatários",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "125.º",
+      "epigrafe": "Poderes e deveres do liquidatário",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "126.º",
+      "epigrafe": "Obrigatoriedade de inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "127.º",
+      "epigrafe": "Requisitos gerais de inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "128.º",
+      "epigrafe": "Inscrição de estrangeiros",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "129.º",
+      "epigrafe": "Comissão de estágio",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "130.º",
+      "epigrafe": "Duração do estágio",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "131.º",
+      "epigrafe": "Validade do estágio",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "132.º",
+      "epigrafe": "Regime de estágio",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "133.º",
+      "epigrafe": "Periodicidade",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "134.º",
+      "epigrafe": "Regime do exame",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "135.º",
+      "epigrafe": "Inscrição na lista",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "136.º",
+      "epigrafe": "Registo e apreciação pelo conselho de inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "137.º",
+      "epigrafe": "Anulação da inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "138.º",
+      "epigrafe": "Suspensão voluntária de exercício",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "139.º",
+      "epigrafe": "Suspensão compulsiva de exercício",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "140.º",
+      "epigrafe": "Regime",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "141.º",
+      "epigrafe": "Cancelamento voluntário da inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "142.º",
+      "epigrafe": "Cancelamento compulsivo da inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "143.º",
+      "epigrafe": "Levantamento da suspensão",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "144.º",
+      "epigrafe": "Reinscrição após cancelamento de inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "145.º",
+      "epigrafe": "Reinscrição após expulsão",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "146.º",
+      "epigrafe": "Âmbito de aplicação",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "147.º",
+      "epigrafe": "Definições",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "148.º",
+      "epigrafe": "Reconhecimento do título profissional",
+      "texto": "1 - São reconhecidas em Portugal na qualidade de revisores, e como tal autorizadas a exercer a respectiva profissão, prestando os serviços a ela correspondentes, as pessoas que, nos respectivos Estados membros das Comunidades Europeias, estejam autorizadas a exercer as actividades profissionais de nível equiparado, nomeadamente as designadas a seguir:\n\nNa Bélgica: reviseur d'entreprise/bedrijfsrevisor;\n\nNa Dinamarca: stats authoriserede revisorer;\n\nNa República Federal da Alemanha: wirstschaftsprufer\n\nNa França: commissaire aux comptes;\n\nNa Grécia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/303a02/00060033.pdf)\n\nNa Irlanda: chartered accountant;\n\nNa Itália: dottore commercialista;\n\nNo Luxemburgo: reviseur/reviseur d'entreprise;\n\nNos Países Baixos: registeraccountant\n\nNo Reino Unido: chartered accountant;\n\nNa Espanha: auditor de cuentas.\n\n2 - (Revogado.)\n\n3 - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "149.º",
+      "epigrafe": "Modo de prestação de serviços",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "150.º",
+      "epigrafe": "Estatuto profissional",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "151.º",
+      "epigrafe": "Sanções aplicáveis",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "152.º",
+      "epigrafe": "Prova de aptidão",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "153.º",
+      "epigrafe": "Inscrição de revisores comunitários",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "154.º",
+      "epigrafe": "Comunicações pela Câmara às empresas e outras entidades",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "155.º",
+      "epigrafe": "Sociedades",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "156.º",
+      "epigrafe": "Sociedades de estrangeiros",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "157.º",
+      "epigrafe": "Colaboração de entidades",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "158.º",
+      "epigrafe": "Legislação anterior",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "159.º",
+      "epigrafe": "Remissões para disposições revogadas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "160.º",
+      "epigrafe": "Honorários mínimos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "161.º",
+      "epigrafe": "Órgãos da Câmara",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "162.º",
+      "epigrafe": "Comissão de inscrição e auditor jurídico",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "163.º",
+      "epigrafe": "Regularização de situações existentes",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "O artigo 1.º do Decreto-Lei n.º 261/98 prorroga por mais três anos o período do artigo 160.º sem lhe dar nova redação (alteração não textual); não aplicado ao texto (o artigo 160.º fica de qualquer modo revogado pelo Decreto-Lei n.º 487/99).",
+  "instrucoes": [
+    "Alterador 1 (DL 261/98), art. 1.º: prorrogação do prazo do art. 160.º, sem nova redação; não aplicada ao texto.",
+    "Alterador 2 (DL 487/99), art. 168.º, n.º 1, a): revoga o DL 422-A/93 exceto o n.º 1 do art. 148.º; todos os artigos 1.º a 163.º ficam (Revogado.), salvo o 148.º, que mantém o n.º 1 e fica com os n.os 2 e 3 revogados.",
+    "Alterador 2, art. 168.º, n.º 1, b) e c), e n.º 2: dirigidos a outros diplomas ou regulamentos; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

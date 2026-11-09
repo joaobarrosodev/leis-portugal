@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:502860:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1. A administração do Fundo de Diversificação e Desenvolvimento será exercida por um conselho administrativo presidido pelo secretário provincial de fomento rural e constituído pelos seguintes membros:\n\na) O director do Instituto do Café de Angola, como vice-presidente;\n\nb) O presidente da Comissão Técnica de Planeamento e Integração Económica;\n\nc) O director provincial dos serviços de economia;\n\nd) Dois vogais a nomear anualmente por despacho do governador-geral entre as entidades mais directamente interessadas no fomento económico da província.\n\n2. Para os efeitos previstos na alínea b) do n.º 1 do artigo 3.º, poderá o conselho administrativo delegar parcialmente a gestão do Fundo de Diversificação e Desenvolvimento em organismos de crédito apropriados.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto 48778 artigo único: nova redação do n.º 2 do art. 5.º; aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

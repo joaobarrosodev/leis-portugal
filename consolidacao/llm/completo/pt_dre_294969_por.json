@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:294969:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "A Junta tem um presidente, um vice-presidente e os demais membros indicados no respectivo Regimento.\n\n§ 1.º O presidente é nomeado por despacho conjunto do Presidente do Conselho e do Ministro de entre pessoas que tenham dado relevantes provas de interesse pelos problemas da educação nacional, podendo, quando professor, ser dispensado do exercício das funções docentes.\n\n§ 2.º Se a escolha recair em funcionário dos serviços centrais do Ministério da Educação Nacional, a nomeação implicará dispensa total do serviço no quadro a que pertencer.\n\n§ 3.º O presidente da Junta Nacional da Educação tem a categoria de director-geral, de harmonia com o quadro anexo ao presente decreto-lei, e precede em hierarquia os demais funcionários do Ministério.\n\n§ 4.º O vice-presidente é o secretário-geral do Ministério, cabendo-lhe substituir o presidente nas suas faltas ou impedimentos.\n\n§ 5.º Os restantes membros, com excepção dos que tenham essa qualidade por inerência a outros cargos, são nomeados pelo Ministro de entre pessoas de reconhecida competência, sendo em todos os casos a aceitação da nomeação obrigatória quando se trate de professores ou outros funcionários dependentes do Ministério da Educação Nacional.\n\n§ 6.º A nomeação do presidente da Junta será feita por um período de três anos, ao fim do qual poderá tornar-se definitiva por despacho do Ministro da Educação Nacional, mas em casos justificados poderá revestir logo de início carácter definitivo; as nomeações dos demais membros são feitas por três anos e renováveis por iguais períodos, mas o Ministro pode em qualquer momento substituir as pessoas nomeadas.\n\n§ 7.º Se o presidente for funcionário dos quadros do Ministério, abrirá vaga no respectivo quadro, a qual será provida interinamente enquanto a nomeação para a presidência da Junta se não converter em definitiva.\n\n§ 8.º As nomeações para vacaturas que ocorrerem no decurso do triénio entendem-se feitas até ao termo deste.",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "O Conselho Permanente da Acção Educativa é constituído pelo presidente da Junta Nacional da Educação, pelos presidentes das secções desta, pelo presidente da direcção do Gabinete de Estudos e Planeamento da Acção Educativa, pelo presidente da direcção do Instituto de Meios Áudio-Visuais de Educação, pelo inspector superior do Ensino Particular e por outras personalidades, até ao limite de dez, com serviços relevantes prestados à educação nacional e nomeadas pelo Ministro.\n\n§ 1.º Quando as personalidades referidas na parte final do artigo 4.º façam parte dos quadros do Ministério da Educação Nacional, poderão ser dispensadas do serviço no quadro a que pertencem, continuando, no entanto, a ser abonadas pelas dotações do mesmo quadro.\n\n§ 2.º No caso da dispensa de serviço a que se refere o parágrafo anterior, poderá o Ministro nomear para o lugar funcionário de outro quadro, que continuará a ser abonado pelas dotações do seu quadro de origem, acrescendo uma gratificação mensal a fixar em portaria dos Ministros das Finanças e da Educação Nacional.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 (DL 49458): nova redação dos artigos 3.º e 4.º — aplicada",
+    "Alt.2 (DL 47/71): nova redação do § 6.º do artigo 3.º — aplicada",
+    "Alt.3 (DL 70/77): extingue a Junta e transfere funções, sem alteração textual do original — nada aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

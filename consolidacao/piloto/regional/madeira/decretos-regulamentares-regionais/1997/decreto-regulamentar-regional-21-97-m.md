@@ -35,18 +35,6 @@ Nos termos do artigo 7.º, alínea b), do Decreto Legislativo Regional n.º 24-A
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-Aprovado em Conselho do Governo Regional em 31 de Julho de 1997.
-
-Pelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.
-
-Assinado em 25 de Agosto de 1997.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
-
-ORGÂNICA DA DIRECÇÃO REGIONAL DOS RECURSOS HUMANOS
-
 ### CAPÍTULO I — Natureza
 
 ###### Artigo 1.º — Natureza e atribuições
@@ -117,7 +105,7 @@ j) O Serviço de Actividades Desportivas, Culturais e Recreativas, designado abr
 
 ###### Artigo 3.º — Composição e competências
 
-1 - O CA é composto pelo director regional, que preside, pelo director de Serviços Administrativos e Financeiros e pelo chefe de Repartição de Contabilidade.
+1 - O CA é composto pelo director regional, que preside, pelo director dos Serviços Administrativos e Financeiros e pelo chefe do Departamento de Orçamento e Contabilidade.
 
 2 - Ao CA compete, designadamente:
 
@@ -136,6 +124,8 @@ f) Verificar a legalidade e eficiência das despesas e autorizar a sua realizaç
 3 - O CA pode delegar, total ou parcialmente, em qualquer dos seus membros competências para a autorização de realização de despesas.
 
 4 - O CA aprovará, mediante regulamento, as normas internas do seu funcionamento.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2000-515260), publicado em 2000-03-22.
 
 #### SECÇÃO II — Gabinete de Apoio Jurídico
 
@@ -403,9 +393,11 @@ a) O Gabinete de Apoio às Comunidades Madeirenses, ao qual incumbe, especialmen
 
 b) O Gabinete de Apoio à Emigração, ao qual incumbe, especialmente, desenvolver as actividades necessárias ao exercício das competências fixadas nas alíneas a), b), c), d), e) e f) do n.º 1 deste artigo.
 
-3 - O CCM compreende a Repartição Administrativa, com uma secção.
+3 - O CCM compreende o Departamento Administrativo, com uma secção, ao qual compete promover os procedimentos relacionados com o expediente geral e arquivo, para além de outras acções de carácter administrativo indispensáveis ao normal funcionamento do serviço.
 
 4 - O CCM é dirigido por um director de serviços.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2000-515260), publicado em 2000-03-22.
 
 #### SECÇÃO VII — Serviço de Defesa do Consumidor
 
@@ -439,23 +431,31 @@ g) Fomentar e apoiar o associativismo através da concessão de meios técnicos 
 
 2 - A DSAF compreende:
 
-a) A Repartição de Recursos Humanos, que integra a Secção de Pessoal;
+a) O Departamento de Recursos Humanos;
 
-b) A Repartição de Contabilidade, que integra as Secções de Contabilidade e de Vencimentos;
+b) O Departamento de Orçamento e Contabilidade;
 
-c) A Repartição de Expediente e Serviços Gerais, que integra a Secção de Expediente e Arquivo;
+c) O Departamento de Vencimentos;
 
-d) A Repartição de Economato e Património, que integra a Secção de Aprovisionamento.
+d) O Departamento de Expediente e Serviços Gerais;
 
-3 - Os serviços referidos no número anterior são chefiados por chefes de repartição e de secção.
+e) O Departamento de Economato;
+
+f) O Departamento de Documentação e Relações Públicas;
+
+g) O Departamento de Cadastro e Património.
+
+3 - Os serviços referidos no número anterior são chefiados por chefes de departamento.
 
 4 - A DSAF é dirigida por um director de serviços.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2000-515260), publicado em 2000-03-22.
 
 ##### SUBSECÇÃO I — Repartição de Recursos Humanos
 
 ###### Artigo 16.º — Competências
 
-Compete à Repartição de Recursos Humanos, designadamente:
+1 - Compete ao Departamento de Recursos Humanos, designadamente:
 
 a) Assegurar o acolhimento e o atendimento do pessoal em matéria de recursos humanos;
 
@@ -473,29 +473,33 @@ g) Promover a verificação de faltas ou licenças por doença;
 
 h) Executar tudo o mais que por determinação superior lhe for determinado.
 
+2 - O Departamento de Recursos Humanos integra a Secção de Pessoal.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2000-515260), publicado em 2000-03-22.
+
 ##### SUBSECÇÃO II — Repartição de Contabilidade
 
 ###### Artigo 17.º — Competências
 
-1 - Compete especialmente à Repartição de Contabilidade:
+1 - Compete ao Departamento de Orçamento e Contabilidade, designadamente:
 
-a) Elaborar as folhas de vencimento e outros abonos, de prestações complementares e de outras remunerações e elaborar os mapas e relação dos respectivos descontos;
+a) Elaborar o projecto de orçamento da SRRH e propor as respectivas alterações;
 
-b) Elaborar o projecto de orçamento da SRRH e propor as respectivas alterações;
+b) Elaborar o relatório anual de execução orçamental;
 
-c) Elaborar o relatório anual de execução orçamental;
+c) Manter organizada a contabilidade;
 
-d) Manter organizada a contabilidade;
+d) Controlar a execução do orçamento e plano de actividades, designadamente através do cabimento de verbas;
 
-e) Controlar a execução do orçamento e plano de actividades, designadamente através do cabimento de verbas;
+e) Tratar do expediente e arquivo da documentação da contabilidade;
 
-f) Tratar do expediente e arquivo da documentação da contabilidade;
+f) Organizar a conta de gerência a remeter à Secção Regional da Madeira do Tribunal de Contas;
 
-g) Organizar a conta de gerência a remeter à Secção Regional da Madeira do Tribunal de Contas;
+g) Executar tudo o mais que por determinação superior lhe for determinado.
 
-h) Executar tudo o mais que por determinação superior lhe for determinado.
+2 - O Departamento de Orçamento e Contabilidade integra a Secção de Contabilidade.
 
-2 - Adstrita à Repartição de Contabilidade funciona a tesouraria, à qual compete designadamente:
+3 - Adstrita ao Departamento de Orçamento e Contabilidade funciona a Tesouraria, à qual compete, designadamente:
 
 a) Arrecadar e escriturar as receitas;
 
@@ -505,11 +509,13 @@ c) Manter rigorosamente actualizada a escrita, de modo a ser possível verificar
 
 d) Elaborar o expediente geral relacionado com o seu funcionamento normal, assim como executar as acções que superiormente lhe forem cometidas.
 
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2000-515260), publicado em 2000-03-22.
+
 ##### SUBSECÇÃO III — Repartição de Expediente e Serviços Gerais
 
 ###### Artigo 18.º — Competências
 
-Compete à Repartição de Expediente e Serviços Gerais, designadamente:
+1 - Compete ao Departamento de Expediente e Serviços Gerais, designadamente:
 
 a) Assegurar a recepção, abertura, registo, expedição, distribuição e arquivo de toda a correspondência e o controlo da circulação da documentação pelos diversos serviços da SRRH;
 
@@ -521,23 +527,25 @@ d) Promover a encadernação do Diário da República e do Jornal Oficial da Reg
 
 e) Assegurar a realização de outras tarefas de apoio aos serviços que lhe sejam cometidas.
 
+2 - O Departamento de Expediente e Serviços Gerais integra a Secção de Arquivo.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2000-515260), publicado em 2000-03-22.
+
 ##### SUBSECÇÃO IV — Repartição de Economato e Património
 
 ###### Artigo 19.º — Competências
 
-Compete à Repartição de Economato e Património, designadamente:
+1 - Compete ao Departamento de Economato, designadamente:
 
-a) Providenciar que os bens, instalações, equipamento e mobiliário afectos à SRRH se mantenham em boas condições de utilização;
+a) Assegurar a tramitação dos processos de aquisição de mobiliário, equipamentos e demais bens materiais;
 
-b) Assegurar a tramitação dos processos de aquisição de mobiliário, equipamento e demais bens patrimoniais;
+b) Promover a gestão dos stocks necessários ao bom funcionamento dos serviços;
 
-c) Organizar e manter actualizado o inventário do património da SRRH;
+c) Executar as acções que superiormente lhe forem cometidas.
 
-d) Promover a gestão dos stocks necessários ao bom funcionamento dos serviços;
+2 - O Departamento de Economato integra a Secção de Aprovisionamento.
 
-e) Organizar os processos de abate e inutilização de bens;
-
-f) Executar as acções que superiormente lhe forem cometidas.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2000-515260), publicado em 2000-03-22.
 
 ###### Artigo 19.º-A — Competências
 
@@ -637,13 +645,15 @@ h) Pessoal operário.
 
 1 - Compete, genericamente, ao agente de desenvolvimento a prestação de apoio técnico aos desempregados e potenciais empresários, colaborar no preenchimento de fichas de inscrição para emprego e formulários de candidatura, motivar e sensibilizar para novas profissões e programas na área do emprego.
 
-2 - A carreira de agente de desenvolvimento integra-se no grupo de pessoal técnico-profissional, nível 3, e desenvolve-se pelas categorias de técnico de desenvolvimento de 2.ª classe, técnico de desenvolvimento de 1.ª classe, técnico de desenvolvimento principal e técnico de desenvolvimento especialista.
+2 - A carreira de agente de desenvolvimento integra-se no grupo de pessoal técnico-profissional e desenvolve-se pelas categorias de técnico de desenvolvimento de 2.ª classe, técnico de desenvolvimento de 1.ª classe, técnico de desenvolvimento principal, técnico de desenvolvimento especialista e técnico de desenvolvimento especialista principal.
 
-3 - O recrutamento para as categorias de técnico de desenvolvimento de 1.ª classe, técnico de desenvolvimento principal e técnico de desenvolvimento especialista faz-se de acordo com as regras estabelecidas na alínea a) do n.º 2 do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
+3 - O recrutamento para as categorias de técnico de desenvolvimento de 1.ª classe, técnico de desenvolvimento principal, técnico de desenvolvimento especialista e técnico de desenvolvimento especialista principal faz-se de acordo com as regras estabelecidas no [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro.
 
 4 - O recrutamento para a categoria de técnico de desenvolvimento de 2.ª classe faz-se de entre indivíduos habilitados com o curso de agentes de desenvolvimento, para além de nove anos de escolaridade, ou habilitados com o 11.º ano de escolaridade ou equivalente e, em qualquer dos casos, com um curso de formação adequado.
 
 5 - A descrição do conteúdo funcional da carreira de agente de desenvolvimento consta do anexo ao presente diploma.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2000-515260), publicado em 2000-03-22.
 
 ###### Artigo 24.º — Comissões, grupos de trabalho e conselhos consultivos
 
@@ -681,7 +691,7 @@ b) Com observância das habilitações legais, para a carreira e categoria que i
 
 ###### Artigo 31.º-A — Regras de transição para chefe de departamento
 
-1 - São extintos os lugares de chefe de repartição que constam do quadro de pessoal anexo ao Decreto Regulamentar Regional n.º 21/97/M, de 22 de Setembro.
+1 - São extintos os lugares de chefe de repartição que constam do quadro de pessoal anexo ao [Decreto Regulamentar Regional n.º 21/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1997-654151), de 22 de Setembro.
 
 2 - Os chefes das repartições ora extintas transitam, com a entrada em vigor do presente diploma e independentemente de quaisquer formalidades, para a categoria de chefe de departamento, prevista no quadro de pessoal anexo.
 
@@ -693,13 +703,13 @@ b) Com observância das habilitações legais, para a carreira e categoria que i
 
 6 - Os lugares de chefe de departamento são a extinguir quando vagarem.
 
-7 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho.
+7 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
 
 > Aditado pelo/a [Decreto Regulamentar Regional n.º 22/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2000-515260), publicado em 2000-03-22.
 
 ###### Artigo 31.º-B — Concursos pendentes e expectativas de promoção
 
-1 - Mantêm-se em vigor e são válidos os concursos cujos avisos de abertura se encontravam publicados à data da publicação do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, por força do disposto no seu artigo 30.º e no artigo 10.º do Decreto-Lei n.º 204/98, de 11 de Julho, adaptado à Região pela Resolução n.º 1014/98, de 6 de Agosto, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 53, de 11 de Agosto de 1998.
+1 - Mantêm-se em vigor e são válidos os concursos cujos avisos de abertura se encontravam publicados à data da publicação do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, por força do disposto no seu artigo 30.º e no artigo 10.º do [Decreto-Lei n.º 204/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1998-484843), de 11 de Julho, adaptado à Região pela Resolução n.º 1014/98, de 6 de Agosto, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 53, de 11 de Agosto de 1998.
 
 2 - Os candidatos que tenham sido ou vierem a ser nomeados nesses concursos são integrados nas categorias de chefe de departamento ou de técnico superior de 1.ª classe, de acordo com o disposto no artigo anterior, na parte aplicável.
 
@@ -724,6 +734,18 @@ b) Com observância das habilitações legais, para a carreira e categoria que i
 6 - A progressão faz-se em módulos de três anos.
 
 > Aditado pelo/a [Decreto Regulamentar Regional n.º 22/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2000-515260), publicado em 2000-03-22.
+
+Aprovado em Conselho do Governo Regional em 31 de Julho de 1997.
+
+Pelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.
+
+Assinado em 25 de Agosto de 1997.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
+
+ORGÂNICA DA DIRECÇÃO REGIONAL DOS RECURSOS HUMANOS
 
 ## ANEXO — (a que se refere o n.º 5 do artigo 23.º do presente diploma)
 

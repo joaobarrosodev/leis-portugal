@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:217699:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 363/93), art. 1.º: substitui a planta anexa a que se refere o artigo 1.º; a planta só vem em imagem e o texto do artigo 1.º não muda, por isso não há redação a aplicar.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: substituição da planta anexa (imagem); não aplicada, texto do artigo 1.º inalterado.",
+    "Alterador 1, art. 2.º: obrigação autónoma do GATTEL, sem alteração ao original.",
+    "Alterador 2 (Declaração de Rectificação 850/2009): retifica um anúncio da Câmara Municipal de Loures e publica termos de referência de um plano de pormenor; não se dirige ao original, ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:503626:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O Decreto n.º 48708 altera a distribuição de encargos do artigo 2.º (1968: 112777$80; 1969: 387222$20, com § único) sem dar nova redação ao artigo; a substituição no texto não é inequívoca.",
+  "instrucoes": [
+    "Artigo único: nova distribuição de encargos do art. 2.º — não aplicada ao texto (sem nova redação)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

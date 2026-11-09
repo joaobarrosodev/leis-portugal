@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:192247:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Iniciativa da actualização ou correcção",
+      "texto": "1 - Quando o senhorio pretender actualizar a renda, nos termos do artigo 6.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), comunicará ao arrendatário, com a antecedência mínima de 30 dias, por meio de carta registada com aviso de recepção, o montante da nova renda e o coeficiente utilizado no seu cálculo.\n\n2 - A correcção anual da renda, nos termos do artigo 12.º da referida lei, está sujeita a comunicação, com formalidades idênticas às mencionadas no número anterior.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto-Lei n.º 9/88, artigo único: nova redação do n.º 2 do art. 3.º (suprime o reconhecimento notarial); n.º 1 ('...') mantido do texto atual; aplicado.",
+    "Decreto-Lei n.º 329-A/2000: cria regime próprio que substitui o dos arts. 4.º a 13.º e 20.º (já revogados pelo Decreto-Lei n.º 321-B/90, segundo o preâmbulo) e considera feitas para si as remissões (art. 10.º); não dá nova redação nem revoga artigos do original; nada aplicado ao texto.",
+    "Declaração de Rectificação n.º 2516/2010: arts. 149.º e 150.º só remetem para o n.º 1 do art. 7.º do original; não o alteram; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

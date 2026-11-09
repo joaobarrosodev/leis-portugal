@@ -157,6 +157,8 @@ f) Secretário de Estado do Desporto e Reabilitação.
 
 ###### Artigo 9.º
 
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado e das Actividades Económicas e do Trabalho ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.
+
 ###### Artigo 10.º
 
 1 - É criado o Ministério das Actividades Económicas e do Trabalho.
@@ -614,5 +616,3 @@ f) Instituto de Gestão do Fundo Social Europeu.
 Até à entrada em vigor dos decretos-leis que aprovem as orgânicas dos ministérios criados pelo presente diploma, os respectivos ministros poderão, estando em causa atribuições cuja prossecução seja da sua responsabilidade, exercer poderes de direcção, superintendência ou tutela sobre serviços e organismos integrados noutros ministérios e aos quais estejam actualmente cometidas essas atribuições.
 
 > Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
-
-O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado e das Actividades Económicas e do Trabalho ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.

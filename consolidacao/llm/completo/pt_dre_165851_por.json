@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:165851:por",
+  "artigos": [
+    {
+      "chave": "69.º",
+      "epigrafe": "Organização",
+      "texto": "1 - O estágio tem início no dia 15 de Setembro subsequente à conclusão da fase teórico-prática, salvo se outro prazo for definido no despacho previsto no n.º 2 do artigo 59.º\n\n2 - O estágio tem a duração de 10 meses, salvo se a duração for alterada nos termos do artigo seguinte.\n\n3 - A duração do período de estágio pode, excepcionalmente, havendo motivo justificado, ser alterado, mediante deliberação do respectivo Conselho Superior, ouvido o director do Centro de Estudos Judiciários.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Art. 59.º n.º 1: o alterador 2 diz '(Redacção do anterior corpo artigo.)', mas o corpo anterior do art. 59.º não consta do pedido (o texto atual já tem essa nota literal), pelo que não se pode reconstituir; mantido. Alterador 3 (Lei 2/2008), art. 118.º a): revoga a Lei 16/98 'com excepção da secção ii do capítulo i do título ii e dos artigos 27.º e 28.º', que se mantêm transitoriamente; a sistemática (títulos/capítulos/secções) não consta do texto atual, pelo que não se consegue identificar com segurança os artigos excepcionados; e o art. 113.º n.º 2 mantém a lei em vigor para a formação transitória — não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Lei 3/2000), art. 2.º: nova redação do n.º 2 do art. 69.º — passou a n.º 3 pelo alterador 2.",
+    "Alterador 2 (DL 11/2002): art. 58.º já constava do texto atual; art. 59.º já constava (n.º 1 com nota literal não reconstituível); art. 69.º: n.os 1 e 2 novos e n.º 3 = redação do anterior n.º 2 dada pela Lei 3/2000, reconstituída a partir do alterador 1 (o texto atual tinha a nota literal).",
+    "Alterador 3 (Lei 2/2008), arts. 113.º e 118.º: revogação com excepções e regime transitório — não aplicada (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

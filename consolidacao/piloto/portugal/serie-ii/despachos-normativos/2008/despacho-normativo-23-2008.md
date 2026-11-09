@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:3485374:por
-    title: Despacho Normativo n.º 9/2009
-    publication_date: '2009-02-19'
   - id: pt:dre:1929758:por
     title: Despacho Normativo n.º 24/2009
     publication_date: '2009-07-03'
+  - id: pt:dre:3620234:por
+    title: Declaração de Rectificação n.º 1172/2010
+    publication_date: '2010-06-18'
 ---
 
 # Despacho normativo n.º 23/2008
@@ -101,7 +101,7 @@ São excluídas as candidaturas a acções com o mesmo objectivo que tenham obti
 
 5 - Os modelos de candidatura são definidos pelo IFAP e estão disponíveis nos balcões das DRAP e no sítio da Internet do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP).
 
-> Alterado pelo/a [Despacho Normativo n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2009-3485374) e [Despacho Normativo n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-2009-1929758), publicado em 2009-07-03.
+> Alterado pelo/a [Despacho Normativo n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-2009-1929758), publicado em 2009-07-03.
 
 ###### Artigo 6.º — Documentos integrantes das candidaturas
 
@@ -137,7 +137,7 @@ b) O Instituto Nacional dos Recursos Biológicos, I.P (INRB) relativamente à ac
 
 c) As DRAP, ou os serviços competentes das RA, relativamente às acções 1 e 3;
 
-> Alterado pelo/a [Despacho Normativo n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2009-3485374) e [Despacho Normativo n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-2009-1929758), publicado em 2009-07-03.
+> Alterado pelo/a [Despacho Normativo n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-2009-1929758), publicado em 2009-07-03.
 
 ###### Artigo 9.º — Avaliação e decisão das candidaturas
 
@@ -209,13 +209,9 @@ c) Implicar um aumento da ajuda aprovada.
 
 ###### Artigo 16.º — Reconhecimento
 
-1 - Os agrupamentos apícolas referidos no artigo 3.º são reconhecidos, para efeitos do PAN, por despacho do Director do Gabinete de Planeamento e Políticas (GPP).
+(Revogado.)
 
-2 - Os beneficiários que pretendam candidatar-se ao PAN enquanto agrupamento apícola devem, no acto de formalização da primeira candidatura, apresentar requerimento junto da respectiva DRAP ou serviços competentes nas RA, nos termos e condições aplicáveis do anexo ii do [Despacho Normativo n.º 23/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2005-568359), publicado no Diário da República, 1.ª série-B, de 7 de Abril, com as adaptações referidas nos números seguintes.
-
-3 - Para efeitos do disposto no número anterior, é fixado em dez o número mínimo de membros e vinte toneladas o volume mínimo de produção comercializada.
-
-4 - Apenas podem ser reconhecidos os agrupamentos cujos associados obedeçam ao regime jurídico estabelecido pelo [Decreto-Lei n.º 203/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2005-481729), de 25 de Novembro.
+> Revogado pelo/a [Declaração de Rectificação n.º 1172/2010](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1172-2010-3620234), publicado em 2010-06-18.
 
 ### CAPÍTULO IV — Forma, execução, acompanhamento e controlo
 
@@ -241,7 +237,7 @@ As ajudas são concedidas às despesas elegíveis efectuadas pelo beneficiário,
 
 7 - O IFAP procede aos pagamentos e informa os beneficiários no prazo máximo de 60 dias após a recepção dos respectivos pedidos.
 
-> Alterado pelo/a [Despacho Normativo n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2009-3485374) e [Despacho Normativo n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-2009-1929758), publicado em 2009-07-03.
+> Alterado pelo/a [Despacho Normativo n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-2009-1929758), publicado em 2009-07-03.
 
 ###### Artigo 19.º — Controlos
 
@@ -309,7 +305,7 @@ e) Acção 5, Medida 5A, Apoio à Criação de Rainhas - número de rainhas come
 
 6 - A não realização de controlo por causa imputável ao beneficiário determina a não concessão de ajudas ou a devolução dos montantes recebidos, conforme o caso.
 
-> Alterado pelo/a [Despacho Normativo n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2009-3485374) e [Despacho Normativo n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-2009-1929758), publicado em 2009-07-03.
+> Alterado pelo/a [Despacho Normativo n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-2009-1929758), publicado em 2009-07-03.
 
 ### CAPÍTULO VI — Acompanhamento
 
@@ -347,7 +343,7 @@ j) Direcção Regional de Desenvolvimento Agrário da Região Autónoma dos Aço
 
 6 - As entidades referidas nas alíneas b) a i) do n.º 2 devem indicar os respectivos representantes ao GPP no prazo de 10 dias após a entrada em vigor do presente diploma.
 
-> Alterado pelo/a [Despacho Normativo n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2009-3485374) e [Despacho Normativo n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-2009-1929758), publicado em 2009-07-03.
+> Alterado pelo/a [Despacho Normativo n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-2009-1929758), publicado em 2009-07-03.
 
 ###### Artigo 23.º — Comunicações
 

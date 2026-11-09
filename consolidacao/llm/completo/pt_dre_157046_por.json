@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:157046:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alteradores 1 a 3 (Despachos Normativos n.os 15/81, 3/82 e 57/83): vêm sem texto; nenhuma instrução dirigida ao original.",
+    "Alterador 4 (Despacho Normativo n.º 52/96): emitido ao abrigo do artigo 3.º do original, adita habilitações ao Despacho Normativo n.º 32/84 (anexo I só em imagem); não altera o texto do original. Nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

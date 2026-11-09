@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:184496:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Os médicos internos e os médicos aprovados em mérito relativo nos concursos de admissão aos internatos dos hospitais centrais que sejam chamados à prestação de serviço militar obrigatório, convocados extraordinàriamente ou mobilizados, abrem vaga, mas poderão retomar ou iniciar, quando desmobilizados ou licenciados, o estágio para obtenção do respectivo diploma do internato, se o requererem dentro do prazo de um ano, a partir da data da desmobilização, licenciamento ou qualquer outra forma de cessação do impedimento verificado, ficando supranumerários ao quadro e sem direito a vencimento.\n\n§ 1.º Aos médicos referidos no presente artigo, sempre que o requeiram, é contado o tempo de serviço militar para efeito de estágio hospitalar do internato geral, independentemente do número de faltas dadas, desde que esse serviço tenha sido prestado como oficial médico.\n\n§ 2.º Quando o período de impedimento por serviço militar exceder o tempo equivalente ao internato geral, pode o restante ser considerado para a contagem do estágio do internato intermédio nos hospitais onde existir.\n\n§ 3.º Os médicos que obtiverem aprovação no primeiro concurso para os internatos complementares ou graduados, aberto após a cessação do impedimento, podem requerer que lhes seja contado como exercício desses mesmos internatos o tempo que hajam trabalhado em serviço de saúde militar das especialidades correspondentes. O deferimento depende de parecer favorável dos conselhos técnicos dos hospitais respectivos.",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "A aplicação do regime definido no presente decreto-lei pode ser requerida pelos médicos que se encontrem nas condições nele estabelecidas, desde que o início de prestação de serviço militar obrigatório, a convocação extraordinária ou a sua mobilização hajam tido lugar depois de 1 de Janeiro de 1959.",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "Os médicos que, por motivo de prestação de serviço militar obrigatório, hajam de adiar a sua apresentação a provas de exame ou concurso do internato médico ficam sujeitos, quando venham a apresentar-se a tais provas, se o fizerem na primeira oportunidade após ter cessado o impedimento, às mesmas condições que lhes seriam legalmente aplicáveis se tivessem podido apresentar-se no tempo normal.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (DL 45357): nova redação do corpo e §§ 1.º e 2.º do art. 1.º (§ 3.º mantido) e do art. 3.º; aplicada",
+    "Alt. 2 (DL 535/71): aditado art. 4.º; aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

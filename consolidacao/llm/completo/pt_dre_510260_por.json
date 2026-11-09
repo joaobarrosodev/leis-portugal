@@ -1,0 +1,38 @@
+{
+  "id": "pt:dre:510260:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "As reclassificações atribuídas pela junta especial prevista no artigo 2.º, nas categorias de apurado para todo o serviço militar e de apto para serviços auxiliares, só poderão ser alteradas por uma junta especial com a constituição prevista no artigo 3.º",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "São considerados compelidos ao serviço militar os indivíduos chamados à reclassificação que, tendo menos de 45 anos, não se apresentem à junta especial até ao último dia da incorporação do curso que se seguir à data marcada para a sua reclassificação.",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "São considerados refractários ao serviço militar os indivíduos reclassificados nas categorias de apurados para todo o serviço militar e aptos para serviços auxiliares que, sem justificação bastante, não se apresentem, nas unidades a que tenham sido destinados, dentro do prazo fixado.",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "Os compelidos e refractários ao serviço militar, nos termos dos artigos 7.º e 8.º, podem ser obrigados a prestar serviço no quadro de complemento do Exército até ao dobro do tempo normal, transitando depois para o escalão e classe correspondentes à sua idade e ficando sujeitos às demais consequências atribuídas pela regulamentação em vigor àquelas situações militares.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: adita o artigo 6.º; aplicado.",
+    "Alterador 2: adita os artigos 7.º, 8.º e 9.º; aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

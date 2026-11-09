@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:515269:por
     title: Decreto Regulamentar Regional n.º 14/2000/M
     publication_date: '2000-03-21'
-  - id: pt:dre:515269:por
-    title: Decreto Regulamentar Regional n.º 14/2000/M
-    publication_date: '2000-03-21'
 ---
 
 # Decreto Regulamentar Regional n.º 10/97/M
@@ -34,18 +31,6 @@ Nos termos do n.º 2 do artigo 12.º do [Decreto Legislativo Regional n.º 24-A/
 ###### Artigo 2.º
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
-
-Aprovado em Conselho do Governo Regional em 20 de Março de 1997.
-
-Pelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.
-
-Assinado em 10 de Abril de 1997.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
-
-ORGÂNICA DA DIRECÇÃO REGIONAL DAS COMUNIDADES EUROPEIAS E DA COOPERAÇÃO EXTERNA
 
 ### CAPÍTULO I — Natureza e atribuições
 
@@ -273,19 +258,23 @@ e) Secção de Contabilidade e Património.
 
 ###### Artigo 11.º — Competências
 
-À RSA compete:
+Ao DSAA compete:
 
 a) Assegurar o apoio administrativo e logístico a todos os serviços dependentes da DRCE, bem como à Comissão Regional para os Assuntos das Comunidades Europeias;
 
 b) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal da DRCE, designadamente organizar e manter actualizados os ficheiros de cadastro e dos processos individuais;
 
-c) Assegurar o registo, encaminhamento, arquivo, expedição de documentação, contabilidade e património;
+c) Assegurar a recepção, classificação, registo e encaminhamento de documentos;
 
-d) Assegurar e controlar a execução orçamental da DRCE;
+d) Assegurar o tratamento, acondicionamento e gestão de documentos e proceder à organização do serviço de arquivo;
 
-e) Assegurar a aquisição do material necessário ao bom funcionamento dos serviços, bem como a respectiva gestão;
+e) Assegurar e controlar a execução orçamental da DRCE;
 
-f) Velar pela segurança e conservação das instalações e dos equipamentos.
+f) Assegurar a aquisição do material necessário ao bom funcionamento dos serviços, bem como a respectiva gestão;
+
+g) Velar pela segurança e conservação das instalações e dos equipamentos.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21.
 
 ### CAPÍTULO III — Pessoal
 
@@ -352,3 +341,15 @@ Direcção Regional das Comunidades Europeias e da Cooperação Externa
 6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho.
 
 > Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21.
+
+Aprovado em Conselho do Governo Regional em 20 de Março de 1997.
+
+Pelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.
+
+Assinado em 10 de Abril de 1997.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
+
+ORGÂNICA DA DIRECÇÃO REGIONAL DAS COMUNIDADES EUROPEIAS E DA COOPERAÇÃO EXTERNA

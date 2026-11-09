@@ -127,10 +127,10 @@
   },
   {
     "artigo": "12.º",
-    "operacao": "substituir",
+    "operacao": "revogar",
     "regra": "llm",
     "antes": "###### Artigo 12.º\n\nO presente diploma aplica-se às regiões autónomas, com as alterações decorrentes da transferência de competências do Governo da República para os governos regionais, mediante diploma regional adequado.\n\nVisto e aprovado em Conselho de Ministros de 11 de Agosto de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Arlindo Marques Cunha.\n\nPromulgado em 9 de Setembro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Setembro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
-    "depois": "###### Artigo 12.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23.\n\nVisto e aprovado em Conselho de Ministros de 11 de Agosto de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Arlindo Marques Cunha.\n\nPromulgado em 9 de Setembro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Setembro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "depois": "###### Artigo 12.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23.\n\nVisto e aprovado em Conselho de Ministros de 11 de Agosto de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Arlindo Marques Cunha.\n\nPromulgado em 9 de Setembro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Setembro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

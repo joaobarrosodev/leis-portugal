@@ -1,0 +1,304 @@
+{
+  "id": "pt:dre:381752:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Natureza",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Competências",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Órgãos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Director-geral",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Conselho técnico",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Conselho consultivo veterinário",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Conselho administrativo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Serviços",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Direcção de Serviços de Gestão e Administração",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Repartição de Administração Geral",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Direcção de Serviços de Planeamento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Gabinete Jurídico",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Gabinete de Garantia da Qualidade dos Serviços",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Direcção de Serviços de Saúde Animal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Direcção de Serviços de Meios de Defesa da Saúde, Bem-Estar e Alimentação Animal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Direcção de Serviços de Higiene Pública Veterinária",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Divisão de Inspecção Hígio-Sanitária dos Produtos da Pesca e Aquicultura Frescos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Direcção de Serviços dos Controlos Veterinários",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "34.º-A",
+      "epigrafe": "Direcção de Serviços de Produção e Melhoramento Animal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "34.º-B",
+      "epigrafe": "Divisão de Melhoramento Animal e de Apoio à Produção",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "34.º-C",
+      "epigrafe": "Divisão de Selecção e Reprodução Animal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Corpo Nacional de Inspecção Sanitária",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Princípios e instrumentos de gestão",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Receitas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "Despesas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "Depósito, movimento de receitas e fundo de maneio",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "Cobrança coerciva de dívidas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "Quadro de pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "Transição de pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "Estágios",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "Transição de serviços e afectação de património",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (DL 526/99) art. 1.º: altera o art. 8.º do DL 74/96, outro diploma: ignorado.",
+    "Alt. 1 art. 2.º: nova redação parcial dos arts. 2.º, 6.º, 8.º, 10.º, 11.º, 14.º, 18.º, 42.º e 44.º; art. 3.º adita 34.º-A a 34.º-C (2.º, 6.º, 8.º e 34.º-A/B/C já aplicados pelo programa); art. 4.º substitui o mapa anexo (só em imagem). Todas ficam prejudicadas pela revogação do alterador 3 (os arts. 10.º, 11.º e 14.º não têm texto atual).",
+    "Alt. 2 (DR 6/2007): orgânica do GPP; revoga outros diplomas: nada aplicado ao original.",
+    "Alt. 3 (DR 11/2007) art. 9.º: revoga o DL 106/97 com exceção do art. 45.º: 48 artigos ficam '(Revogado.)'; o art. 45.º mantém-se."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

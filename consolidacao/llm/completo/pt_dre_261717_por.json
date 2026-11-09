@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:261717:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "É criada no concelho de Abrantes a freguesia de Vale das Mós.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único, n.os 1 e 2, da Lei 15/86: designação passa a Vale das Mós no artigo 1.º; feito. A alteração da epígrafe (título) do diploma não é de um artigo.",
+    "N.º 3: produção de efeitos; sem alteração de texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "1.º: parágrafo que não está no alterador nem no original: É criada no concelho de Abrantes a freguesia de Vale das Mós."
+  ]
+}

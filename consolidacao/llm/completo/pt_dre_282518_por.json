@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:282518:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A alínea o) do n.º 1 do artigo 55.º da Lei n.º 9/2009 revoga o Decreto-Lei n.º 186/93 por inteiro (revogação do diploma, não de artigos determinados); além disso, as chaves do texto atual (4.º, 5.º e três vezes 3.º) são redações dadas a artigos de outros diplomas e repetem-se, pelo que não é seguro marcar artigos como revogados.",
+  "instrucoes": [
+    "Alteradores 1 a 4 (DL 170/2003, 175/2003, 174/2003, 177/2003): alteram e aditam artigos e anexos dos DL 333/87, 332/87, 327/87 e 326/87; não são do original, ignorados.",
+    "Alterador 5 (Lei 9/2009, art. 55.º, n.º 1, alínea o)): revoga o diploma inteiro; não aplicado a artigos (ver nao_aplicavel). N.º 2: manutenção transitória; sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

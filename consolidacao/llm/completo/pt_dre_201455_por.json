@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:201455:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "Concluído o estágio com aproveitamento, os estagiários devem submeter-se a exame ou outro tipo de avaliação final de conhecimentos, que versarão as matérias referidas no artigo 4.º\n\nA sua aprovação confere direito ao diploma de bibliotecário-arquivista-documentalista.\n\n§ 1.º Por parecer do director-geral dos Assuntos Culturais poderão os exames ser substituídos por um sistema de avaliação de conhecimentos.\n\n§ 2.º As provas realizam-se no mês de Janeiro.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 38/75), artigo único: nova redação integral do artigo 7.º; aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

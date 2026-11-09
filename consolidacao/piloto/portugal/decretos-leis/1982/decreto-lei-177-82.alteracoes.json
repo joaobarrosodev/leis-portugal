@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "28.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 28.º-A\n\nPara efeitos do disposto no presente capítulo, o tempo de serviço efectivo dos oficiais oriundos do quadro permanente e do quadro de complemento do Exército é o resultante do somatório do tempo de serviço efectivo prestado nas forças armadas e do tempo de serviço efectivo prestado na Polícia de Segurança Pública, após a respectiva integração.\n\n> Aditado pelo/a [Decreto-Lei n.º 200/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1990-574953), publicado em 1990-06-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:392849:por",
+    "alterador": "pt:dre:574953:por"
+  }
+]

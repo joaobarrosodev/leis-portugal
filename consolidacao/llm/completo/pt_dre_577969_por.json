@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:577969:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Seja qual for o valor dos trabalhos a realizar, a Direcção-Geral dos Serviços Hidráulicos não poderá ser obrigada a despender com pagamentos relativos a trabalhos executados, por virtude do contrato, mais do que as importâncias abaixo indicadas:\n\nEm 1964 ... 2400000$00\n\nEm 1965 ... 1000000$00\n\nEm 1966 ... 4000000$00\n\n§ único. Às importâncias fixadas para cada ano acrescem os saldos dos anos anteriores.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 7 de Julho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: altera o escalonamento de 1965 e 1966 no artigo 2.º para 1000000$00 e 4000000$00; aplicado. Os §§ 1.º e 2.º do alterador (fontes de financiamento e saldo) são disposições próprias, não textuais no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:252181:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "As obrigações do Tesouro - FIP, classe A, 1977, terão as seguintes características:\n\na) Taxa de juro nominal de 14% ao ano;\n\nb) Valor nominal de 1000$00;\n\nc) Amortização, ao par, por sorteio, em cinco anuidades iguais, excepto uma, se necessário;\n\nd) Primeira amortização em 1980.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (Lei n.º 83, de 6 de Dezembro), artigo 1.º: o n.º 1 passa a indexar à taxa básica de desconto do Banco de Portugal as taxas de juro das obrigações FIP classes A e B (alíneas a) dos artigos 5.º e 6.º), e o n.º 3 aumenta para 1200$00 o prémio de reembolso da alínea e) do artigo 6.º; são alterações de regime sem nova redação textual, pelo que não se aplicam ao texto.",
+  "instrucoes": [
+    "Alterador 1 (Declaração de rectificação): artigo 5.º, alínea d), '1900' passa a '1980' — aplicado.",
+    "Alterador 2, art. 1.º, n.os 1 e 3: alterações não textuais das taxas de juro e do prémio de reembolso — registadas em nao_aplicavel.",
+    "Alterador 2, arts. 2.º e 3.º: produção de efeitos e alteração dos títulos, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "5.º: parágrafo que não está no alterador nem no original: d) Primeira amortização em 1980."
+  ]
+}

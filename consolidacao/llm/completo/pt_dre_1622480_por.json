@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:1622480:por",
+  "artigos": [
+    {
+      "chave": "17.º",
+      "epigrafe": "Controlo",
+      "texto": "1 - São efetuados controlos administrativos e no local destinados a verificar o cumprimento das condições de concessão das ajudas previstas no presente despacho.\n\n2 - As entidades avaliadoras realizam controlos administrativos à totalidade dos pedidos de ajuda, cabendo, no caso da medida 1-C, estes controlos ao IFAP, I.P.\n\n3 - As DRAP realizam controlos no local e comunicam ao IFAP, I.P. o resultado dos mesmos no prazo de 20 dias úteis após a tomada de conhecimento da apresentação dos pedidos de pagamento intermédios ou de 10 dias úteis no caso do pedido final.\n\n4 - É da responsabilidade do IFAP, I. P., a realização do controlo de qualidade aos controlos efetuados pelas DRAP.\n\n5 - Sempre que um beneficiário da ajuda, ou um seu representante, impedir a realização de ação de controlo no local, a candidatura em causa é integralmente rejeitada.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigos 2.º e 3.º: nova redação e republicação dos anexos I a VII, que só vêm em imagem (ver documento original) e não constam do texto atual; não aplicadas.",
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: nova redação do n.º 4 do artigo 3.º; o texto atual já coincide, sem mudança.",
+    "Alterador 1, artigo 1.º: nova redação dos n.ºs 2 e 3 do artigo 17.º; aplicada, n.ºs 1, 4 e 5 mantidos.",
+    "Alterador 1, artigos 2.º e 3.º: anexos em imagem; não aplicados.",
+    "Alterador 1, artigo 4.º: período adicional de candidaturas, norma própria; não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

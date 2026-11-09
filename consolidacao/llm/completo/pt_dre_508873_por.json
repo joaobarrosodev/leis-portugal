@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:508873:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - O estabelecimento das entidades referidas no artigo anterior dá lugar ao pagamento de uma taxa anual respeitante à licença de funcionamento, nas condições e montante a definir pelos respectivos governos regionais.\n\n2 - Para efeitos do disposto no número anterior, e consoante o caso, o Banco de Portugal ou o Instituto de Seguros de Portugal enviará ao respectivo governo regional cópia dos processos de estabelecimento nas referidas zonas francas das sucursais e agências ou das agências gerais, delegações e escritórios de representação das entidades mencionadas no artigo anterior.\n\n3 - A concessão da licença referida no n.º 1 pressupõe, no caso de sucursal ou agência de instituição de crédito ou sociedade financeira, a prévia classificação em sucursal financeira exterior ou em sucursal financeira internacional, consoante aquela exclua ou não do âmbito da sua actividade as operações com residentes e restantes entidades referidas na alínea c) do n.º 1 do artigo 41.º do Estatuto dos Benefícios Fiscais nos termos e condições aí enunciados.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 art. 1.º: altera o artigo 41.º do Estatuto dos Benefícios Fiscais, não o original; ignorada.",
+    "Alterador 1 art. 2.º: nova redacção do n.º 3 do artigo 2.º; aplicada e depois substituída pelo alterador 2.",
+    "Alterador 2 art. 7.º n.º 5: nova redacção do n.º 3 do artigo 2.º; aplicada (redacção final).",
+    "Restantes números do art. 7.º do alterador 2 dizem respeito a outros diplomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

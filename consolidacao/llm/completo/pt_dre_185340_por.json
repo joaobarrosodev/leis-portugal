@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:185340:por",
+  "artigos": [
+    {
+      "chave": "63.º",
+      "epigrafe": "",
+      "texto": "O pessoal permanente do Cofre é o constante dos quadros II e III anexos ao presente estatuto.\n\n§ 1.º As secções são chefiadas por comissários ou chefes, coadjuvados por adjuntos, graduados.\n\n§ 2.º O conselho administrativo é constituído pelo presidente, oficial do Comando-Geral ou dos Serviço Sociais, por um secretário, comissário ou chefe, por um tesoureiro e por um comissário ou chefe, que será chefe da contabilidade.\n\n§ 3.º Ao tesoureiro do conselho administrativo do Cofre de Previdência da Polícia de Segurança Pública é atribuído um abono para falhas no montante mensal de 300$00, sujeito a qualquer reajustamento que legalmente venha a ser publicado.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 173/77, n.º 1: adita § 3.º ao artigo 63.º; aplicado.",
+    "Portaria 173/77, n.º 2: produção de efeitos, não textual.",
+    "DL 203/2006, art. 16.º, n.º 2, f): extingue o Cofre por fusão; não é alteração textual do estatuto, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "63.º: parágrafo que não está no alterador nem no original: § 3.º Ao tesoureiro do conselho administrativo do Cofre de Previdência da Políci"
+  ]
+}

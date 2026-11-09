@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:164226:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "O pessoal navegante e pessoal terrestre de apoio têm os seguintes direitos:\n\na) Dispensa de comparência, sem perda de remunerações, nos serviços públicos e privados, quando, em emergência ou em guerra, sejam designados pelos comandos de regiões ou zonas aéreas para missões aéreas inadiáveis;\n\nb) Gratificações de serviço aéreo ou de especialidade, quando, em emergência ou em guerra, sejam designados pelos comandos de regiões ou zonas aéreas para missões de serviço;\n\nc) Pensões por incapacidade e pensões de preço de sangue, quando sofram acidentes em missões de serviço ordenadas pelos comandos das regiões ou zonas aéreas.\n\n§ 1.º Para efeitos do disposto nas alíneas b) e c) do corpo deste artigo o pessoal navegante e o pessoal terrestre de apoio é equiparado a pessoal militar da Força Aérea com os postos e especialidades a fixar, para cada indivíduo, pelo Secretário de Estado da Aeronáutica, sob proposta dos comandantes de regiões ou zonas aéreas baseada nas habilitações literárias e preparação militar do interessado.\n\n§ 2.º O benefício referido na alínea b) é concedido, sujeito a sanção do Secretário de Estado da Aeronáutica, pela Força Aérea e por forma e em condições idênticas às vigentes para o pessoal militar da Força Aérea.\n\n§ 3.º O benefício referido na alínea c) é concedido por forma e em condições idênticas às vigentes para o pessoal militar da Força Aérea.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do DL 45118: nova redação do § 1.º do art. 7.º (substitui o § 1.º e a equiparação que o acompanhava): aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

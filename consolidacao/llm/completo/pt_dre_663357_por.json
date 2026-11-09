@@ -1,0 +1,63 @@
+{
+  "id": "pt:dre:663357:por",
+  "artigos": [
+    {
+      "chave": "35.º",
+      "epigrafe": "",
+      "texto": "1 - As formas de recrutamento e regime de provimento do pessoal dirigente são as previstas no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e no artigo 14.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, no que se refere ao vice-presidente.\n\n2 - O cargo de vice-presidente dos SSUNL é equiparado, para todos os efeitos legais, ao de subdirector-geral.\n\n3 - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Portaria 527/93 altera o quadro de pessoal (mapa anexo, só em imagem) e abate lugares ao quadro — não textual quanto aos artigos.",
+  "instrucoes": [
+    "Portaria 527/93 n.os 1.º e 2.º: novo mapa do grupo de pessoal de informática e abate de dois lugares no quadro — não aplicados (mapa em imagem)",
+    "DL 121/2008, mapa viii (republicado pela Declaração de Rectificação 49/2008): revoga o n.º 3 do artigo 35.º e os artigos 36.º a 42.º do DR 8/87 — aplicado",
+    "Declaração de Rectificação 49/2008 n.º 1: corrige outra entrada do mapa viii, sem efeito no original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

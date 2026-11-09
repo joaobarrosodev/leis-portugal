@@ -14,5 +14,19 @@
     ],
     "diploma": "pt:dre:378319:por",
     "alterador": "pt:dre:182047:por"
+  },
+  {
+    "artigo": "37.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 37.º — (Criação)\n\n1 - A criação das delegações regionais far-se-á em função do desenvolvimento das actividades da DGEFAP, mediante decreto do Ministro de Estado e das Finanças e do Plano e do Ministro da Reforma Administrativa, que fixará, simultaneamente, os respectivos quadros de pessoal.\n\n2 - Consideram-se desde já criadas as Delegações Regionais do Porto e Coimbra.",
+    "depois": "###### Artigo 37.º — (Criação)\n\n1 - A criação das delegações regionais far-se-á em função do desenvolvimento das actividades da DGEFAP, mediante decreto do Ministro de Estado e das Finanças e do Plano e do Ministro da Reforma Administrativa, que fixará, simultaneamente, os respectivos quadros de pessoal.\n\n2 - Consideram-se desde já criadas as Delegações Regionais do Porto e Coimbra.\n\n3 - As delegações mencionadas no número anterior têm o nível orgânico de direcções de serviço.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 38/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1985-182047), publicado em 1985-06-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:378319:por",
+    "alterador": "pt:dre:182047:por"
   }
 ]

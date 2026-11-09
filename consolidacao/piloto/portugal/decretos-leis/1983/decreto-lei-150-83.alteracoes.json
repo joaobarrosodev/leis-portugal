@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 1.º-A\n\nIdêntico tratamento será aplicado aos trabalhadores contratados além dos quadros de pessoal da empresa, em relação ao período de tempo em que permaneceram em regime de disponibilidade, sem serviço.\n\n> Aditado pelo/a [Lei n.º 25/87](https://diariodarepublica.pt/dr/detalhe/lei/25-1987-419632), publicado em 1987-06-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312391:por",
+    "alterador": "pt:dre:419632:por"
+  }
+]

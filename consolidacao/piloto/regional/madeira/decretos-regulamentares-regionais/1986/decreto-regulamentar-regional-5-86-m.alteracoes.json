@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1 - O produto das coimas aplicadas em matéria de higiene e segurança e medicina do trabalho e de protecção contra acidentes de trabalho e doenças profissionais reverterá para o Fundo de Garantia e Actualização de Pensões.\n\n2 - O produto das demais coimas reverterá para o Fundo de Desemprego, que transferirá anualmente 30% da receita efectivamente arrecadada para o orçamento da Região.\n\n3 - A receita transferida nos termos do número anterior será destinada a custear, a título de compensação, as despesas de funcionamento e processuais a suportar pela Inspecção Regional do Trabalho.",
+    "depois": "###### Artigo 2.º\n\n1 - Metade do produto das coimas aplicadas em processos cuja instrução esteja cometida à Inspecção Regional do Trabalho reverterá para esta, a título de compensação de custos de funcionamento e despesas processuais.\n\n2 - O remanescente terá o seguinte destino:\n\na) Entidade gestora do Fundo de Garantia e Actualização de Pensões, quanto ao produto das coimas aplicadas em matéria de higiene, segurança e medicina do trabalho e de protecção contra acidentes de trabalho e doenças profissionais;\n\nb) 35% para a Segurança Social e 15% para o orçamento da Região, quanto ao produto das coimas que por lei lhes não seja dado outro destino.\n\n3 - O produto das coimas será depositado, mediante guias, em conta corrente à ordem da Região Autónoma da Madeira, competindo à entidade gestora daquela proceder às respectivas transferências.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1989-549989), publicado em 1989-11-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:196241:por",
+    "alterador": "pt:dre:549989:por"
+  }
+]

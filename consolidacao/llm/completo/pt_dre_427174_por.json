@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:427174:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1. A Comissão é composta por:\n\na) Dois médicos farmacologistas;\n\nb) Três médicos pertencentes à carreira hospitalar, dos quais um pediatra;\n\nc) 3 farmacêuticos pertencentes à carreira hospitalar, um dos quais com experiência em farmácia clínica, e 2 farmacêuticos, sendo um deles tecnologista;\n\nd) Um representante da Direcção de Serviços de Farmácia e Medicamentos da Direcção-Geral de Saúde.\n\n2. Os membros da Comissão são nomeados por períodos de três anos, renováveis.\n\n3. O presidente é eleito pela Comissão, de entre os seus membros, por um período de três anos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto do Governo 54/84, art. 1.º: nova redação da alínea c) do n.º 1 do artigo 3.º - aplicado; restantes alíneas '...' mantidas",
+    "Decreto do Governo 54/84, art. 2.º: entrada em vigor do próprio decreto - não altera o original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

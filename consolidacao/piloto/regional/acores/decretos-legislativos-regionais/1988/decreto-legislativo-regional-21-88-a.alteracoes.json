@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "único",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo único\n\n1 - A alínea a) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, aplicado à Região Autónoma dos Açores, com adaptações, pelo [Decreto Legislativo Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795), de 26 de Maio, passa a ter a seguinte redacção:\n\n1 - ...\n\na) Quando a única forma de provimento prevista seja contrato e se destine ao preenchimento de lugares do quadro, bem como a contratação além dos quadros quando esta se revele indispensável ao funcionamento dos serviços de natureza transitória.\n\n2 - Ao artigo 2.º do [Decreto Legislativo Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795), de 26 de Maio, é aditado o n.º 4, com a seguinte redacção:\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - A contratação a prazo certo ao abrigo do [Decreto-Lei n.º 280/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1985-183214), de 22 de Julho, poderá ser celebrada por urgente conveniência de serviço, de harmonia com o disposto nos n.os 2 e 3 do artigo 3.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.\n\nAprovado pela Assembleia Regional dos Açores, na Horta, em 10 de Março de 1988.\n\nO Presidente da Assembleia Regional, José Guilherme Reis Leite.\n\nAssinado em Angra do Heroísmo em 15 de Abril de 1988.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.",
+    "depois": "###### Artigo único\n\n1 - A alínea a) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, aplicado à Região Autónoma dos Açores, com adaptações, pelo [Decreto Legislativo Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795), de 26 de Maio, passa a ter a seguinte redacção:\n\n1 - ...\n\na) Quando a única forma de provimento prevista seja contrato e se destine ao preenchimento de lugares do quadro, bem como a contratação além dos quadros quando esta se revele indispensável ao funcionamento dos serviços de natureza transitória.\n\n2 - (Revogado.)\n\nAprovado pela Assembleia Regional dos Açores, na Horta, em 10 de Março de 1988.\n\nO Presidente da Assembleia Regional, José Guilherme Reis Leite.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 1/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-534776), publicado em 2005-05-09.\n\nAssinado em Angra do Heroísmo em 15 de Abril de 1988.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:373581:por",
+    "alterador": "pt:dre:534776:por"
+  }
+]

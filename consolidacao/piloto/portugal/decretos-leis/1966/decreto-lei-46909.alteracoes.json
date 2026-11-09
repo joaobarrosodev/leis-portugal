@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\nO Gabinete de Estudos e as duas direcções de serviços do Secretariado Técnico são chefiadas por directores de serviços, que coadjuvam o director-geral no exercício das suas funções e o substituem, por ordem de antiguidade, nas suas faltas ou impedimentos.",
+    "depois": "###### Artigo 14.º\n\nOs Serviços de Planeamento são chefiados por um director com a categoria de inspector superior, que coadjuvará o director-geral no exercício das suas funções e o substituirá nas suas faltas e impedimentos. O Gabinete de Estudos e os Serviços de Integração Económica Nacional são chefiados por directores de serviços, que coadjuvarão igualmente o director-geral e, no caso de impedimento simultâneo deste e do director do planeamento, os substituirão pela ordem que for superiormente determinada.\n\n> Alterado pelo/a [Decreto-Lei n.º 47320](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47320-1966-477629), publicado em 1966-11-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:486774:por",
+    "alterador": "pt:dre:477629:por"
+  },
+  {
+    "artigo": "15.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 15.º\n\nAs divisões da Direcção de Serviços de Planeamento são dirigidas por chefes de divisão, aos quais incumbe coadjuvar o respectivo director de serviços no exercício das suas funções, assegurando, por ordem de antiguidade, a respectiva substituição nos casos de falta ou impedimento.",
+    "depois": "###### Artigo 15.º\n\nAs divisões da Direcção de Serviços de Planeamento são dirigidas por chefes de divisão, aos quais incumbe coadjuvar o respectivo director no exercício das suas funções e substituí-lo, nos casos de falta ou impedimento, pela ordem que for determinada pelo director-geral.\n\n> Alterado pelo/a [Decreto-Lei n.º 47320](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47320-1966-477629), publicado em 1966-11-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:486774:por",
+    "alterador": "pt:dre:477629:por"
+  }
+]

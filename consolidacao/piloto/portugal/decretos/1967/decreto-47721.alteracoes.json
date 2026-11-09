@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nA Junta Autónoma dos Portos do Distrito de Ponta Delgada não poderá despender com pagamentos relativos a este fornecimento, por virtude do contrato, mais de:\n\nEm 1967 ... 1285500$00\n\nEm 1968 ... 857000$00\n\n§ único. À importância fixada para 1968 acrescerá o saldo que porventura se apurar no ano anterior.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 20 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.",
+    "depois": "###### Artigo 2.º\n\nA Junta Autónoma dos Portos do Distrito de Ponta Delgada não poderá despender com pagamentos relativos a este fornecimento, por virtude do contrato, mais de:\n\n1969 ... 1285500$00\n\n1970 ... 214250$00\n\n§ único. À importância fixada para 1968 acrescerá o saldo que porventura se apurar no ano anterior.\n\n> Alterado pelo/a [Decreto n.º 49436](https://diariodarepublica.pt/dr/detalhe/decreto/49436-1969-217358), publicado em 1969-12-10.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 20 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312872:por",
+    "alterador": "pt:dre:217358:por"
+  }
+]

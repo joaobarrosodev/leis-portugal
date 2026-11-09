@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:139436:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "O comandante do Corpo de Intervenção tem competência disciplinar igual à do comandante distrital da Polícia de Segurança Pública de Lisboa.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "O 2.º comandante tem a mesma competência disciplinar do 2.º comandante da Polícia de Segurança Pública de Lisboa.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 550/80), artigo 1.º: nova redação dos artigos 4.º e 5.º: aplicada.",
+    "Alterador 1, artigos 2.º e 3.º: norma autónoma do próprio alterador e revogação do Decreto-Lei n.º 277/76: não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

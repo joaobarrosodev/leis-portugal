@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:631418:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1. É fixada em 6000000 t de petróleos brutos e seus resíduos a capacidade de laboração anual da refinaria ampliada.\n\n2. Salvo autorização especial do Governo, fundada na ponderação das necessidades do abastecimento nacional, a Sacor não colocará no mercado interno mais do que a produção correspondente à capacidade de tratamento anual de 4000000 t de petróleos brutos e seus resíduos.",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "1. A Sacor participará, conjuntamente com o Amoníaco Português, na instalação e exploração das unidades industriais em que vier a concretizar-se o esquema da petroquímica de aromáticos, a que se referem os artigos 14.º e seguintes do despacho ministerial de 16 de Outubro de 1970, publicado no Diário do Governo, 3.ª série, n.º 256, de 4 de Novembro do mesmo ano.\n\n2. O programa e as modalidades de realização desse esquema serão aprovados pelo Ministro das Finanças e pelo Secretário de Estado da Indústria.\n\n3. O não cumprimento, imputável à Sacor, das obrigações impostas neste artigo importará a caducidade da autorização para exploração da refinaria cuja ampliação é permitida por este diploma.",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "Art. 12.º - 1. A Sacor satisfará anualmente a taxa de fiscalização de 3000000$00, nos termos da alínea f) da base XIV da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272).\n\n2. A taxa fixada no número anterior será paga em duas prestações semestrais, iguais, em Janeiro e Julho, por meio de guias passadas pela Direcção-Geral dos Combustíveis.\n\n3. As receitas cobradas por força deste artigo serão escrituradas no Orçamento Geral do Estado e servirão de contrapartida aos encargos emergentes do exercício da competência da Direcção-Geral dos Combustíveis em matéria de fiscalização, investigação e desenvolvimento da indústria petrolífera.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 524/72, art. 1.º: nova redação dos artigos 2.º (n.º 1: 6000000 t; n.º 2 copiado do alterador num só parágrafo) e 12.º (n.º 1: 3000000$00; n.os 2 e 3 iguais).",
+    "DL 524/72, segundo 'Art. 2.º': norma própria do alterador (prazo de adaptação do cracking) — não altera o original.",
+    "DL 665/73, artigo único: nova redação integral do artigo 10.º (n.os 1-3)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

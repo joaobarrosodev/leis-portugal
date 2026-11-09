@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:374830:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "O curso de complemento de formação a que os mestres dos quadros dos institutos superiores de engenharia se têm de submeter deve ser concluído até 31 de Dezembro de 1990.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 242/90, artigo único: nova redação do art. 3.º (prazo até 31/12/1990); aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

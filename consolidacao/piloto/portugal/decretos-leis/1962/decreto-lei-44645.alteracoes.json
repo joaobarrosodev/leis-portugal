@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\nFicam as câmaras municipais e o Ministério das Obras Públicas, dentro das disponibilidades do Fundo de Desemprego e das dotações especiais que forem para esse fim inscritas no Orçamento Geral do Estado, autorizados a conceder aos beneficiários do regime deste diploma subsídios reembolsáveis até à importância global de 1/4 do custo das casas a construir, segundo os projectos aprovados, incluindo o preço do terreno.\n\n§ 1.º O reembolso será efectuado no período máximo de dez anos, a partir do termo do prazo fixado para a construção das casas, mediante prestações mensais, sem incidência de juro.\n\n§ 2.º A concessão de subsídios pelo Ministério das Obras Públicas e o seu reembolso efectuar-se-ão por intermédio das câmaras municipais respectivas, nos termos que vierem a ser estabelecidos por despacho do Ministro das Obras Públicas.\n\n§ 3.º Para efeito do disposto no parágrafo anterior, podem as câmaras municipais aprovar orçamentos suplementares, além dos previstos no § único do artigo 680.º do Código Administrativo.\n\n§ 4.º Os créditos provenientes dos subsídios gozam de privilégio imobiliário, com preferência a quaisquer outros.",
+    "depois": "###### Artigo 6.º\n\nFicam as câmaras municipais e o Ministério das Obras Públicas, dentro das disponibilidades do Fundo de Desemprego e das dotações especiais que forem para esse fim inscritas no Orçamento Geral do Estado, autorizados a conceder aos beneficiários do regime deste diploma subsídios reembolsáveis até à importância global de 1/4 do custo das casas a construir, segundo os projectos aprovados, incluindo o preço do terreno.\n\n§ 1.º O reembolso será efectuado no período máximo de dez anos, a partir do termo do prazo fixado para a construção das casas, mediante prestações mensais, sem incidência de juro.\n\n§ 2.º A concessão de subsídios pelo Ministério das Obras Públicas e o seu reembolso efectuar-se-ão por intermédio das câmaras municipais, nos termos que vierem a ser estabelecidos por despacho do Ministro das Obras Públicas, não sendo devidos imposto do selo nem emolumentos pelas escrituras respectivas.\n\n§ 3.º Para efeito do disposto no parágrafo anterior, podem as câmaras municipais aprovar orçamentos suplementares, além dos previstos no § único do artigo 680.º do Código Administrativo.\n\n§ 4.º Os créditos provenientes dos subsídios gozam de privilégio imobiliário, com preferência a quaisquer outros.\n\n> Alterado pelo/a [Decreto-Lei n.º 46869](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46869-1966-488174), publicado em 1966-02-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:156579:por",
+    "alterador": "pt:dre:488174:por;pt:dre:141399:por"
+  },
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nFicam as câmaras municipais e as juntas de freguesia autorizadas a vender a chefes de família que se encontrem em qualquer das situações previstas no artigo 256.º do Código Administrativo, independentemente de hasta pública, lotes de terreno de que disponham ou que adquiram para esse efeito, com destino à construção da sua própria habitação.\n\n§ 1.º Na atribuição dos terrenos observar-se-ão as normas estabelecidas nos artigos 2.º a 4.º do [Decreto n.º 35106](https://diariodarepublica.pt/dr/detalhe/decreto/35106-1945-465634), de 6 de Novembro de 1945, sendo de 60 dias, porém, o prazo para a apresentação dos requerimentos dos interessados.\n\n§ 2.º Os terrenos vendidos revertem para a entidade que os alienou, com as suas benfeitorias, sem direito a qualquer indemnização, quando neles se não tenha edificado moradia para o respectivo adquirente dentro do prazo de dois anos, a contar da data da alienação.\n\n§ 3.º A reversão opera-se por declaração judicial, para a qual são competentes os tribunais comuns.",
+    "depois": "###### Artigo 1.º\n\nFicam as câmaras municipais autorizadas a vender ou ceder, em regime de direito de superfície, a cidadãos cujo nível de rendimento do respectivo agregado familiar corresponda a uma capitação inferior ao salário mínimo nacional lotes de terreno de que disponham ou que adquiram para esse efeito, com destino à construção da sua própria habitação.\n\n§ 1.º Na atribuição dos terrenos observar-se-ão as normas estabelecidas no [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e legislação complementar, atendendo-se, em caso de mais de um interessado, ao menor rendimento per capita do agregado familiar.\n\n§ 2.º Os terrenos cedidos revertem para a entidade que os cedem, com as suas benfeitorias, sem direito a qualquer indemnização, quando neles se não tenha edificado habitação para o respectivo adquirente dentro do prazo de dois anos, a contar da data da cedência.\n\n§ 3.º A reversão opera-se por declaração judicial, para a qual são competentes os tribunais comuns.\n\n> Alterado pelo/a [Decreto-Lei n.º 53/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1977-141399), publicado em 1977-02-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:156579:por",
+    "alterador": "pt:dre:488174:por;pt:dre:141399:por"
+  }
+]

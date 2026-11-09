@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:140331:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "1. Os lugares de chefe da 4.ª Repartição e de chefe de divisão do Serviço do Contencioso e Notariado serão providos, por escolha, por indivíduos do quadro do Ministério ou estranhos a ele, com a licenciatura em Direito.\n\n2. Os lugares de chefes das secções criadas pelo presente diploma serão providos por indivíduos que satisfaçam as condições gerais fixadas para a admissão nesta categoria nos quadros do Ministério.\n\n3. O provimento de dois dos lugares de técnico de 3.ª classe previstos no artigo anterior será feito entre licenciados em Direito, podendo os outros lugares ser providos entre licenciados com um curso superior adequado ao exercício das respectivas funções.\n\n4. Os lugares de técnico de 2.ª classe serão providos entre técnicos de 3.ª classe, com, pelo menos, três anos de bom e efectivo serviço, bem como entre chefes de secção e inspectores dos quadros do Ministério das Corporações e Previdência Social, igualmente com três anos de bom e efectivo serviço, quando licenciados com um curso superior adequado ao exercício das respectivas funções.\n\n5. O provimento dos lugares de técnico de 1.ª classe criados por este diploma far-se-á por promoção entre os técnicos de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço.\n\n6. Os lugares de técnico especialista serão providos entre técnicos de 1.ª classe, chefes de repartição e inspectores-chefes dos quadros do Ministério das Corporações e Previdência Social, com, pelo menos, três anos de bom e efectivo serviço.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigos 1.º e 2.º: acrescem lugares ao núcleo de técnicos do artigo 5.º e alteram a composição do Serviço do Contencioso do artigo 4.º sem dar nova redação a esses artigos (alteração não textual).",
+  "instrucoes": [
+    "Alterador 1, art. 3.º: nova redação dos n.os 4 e 6 do artigo 6.º; aplicada, restantes números mantidos.",
+    "Alterador 1, arts. 1.º e 2.º: alterações não textuais aos artigos 5.º e 4.º; não aplicadas (nao_aplicavel).",
+    "Alterador 1, arts. 4.º a 6.º: não alteram o texto do original; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

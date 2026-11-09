@@ -12,5 +12,61 @@
     "unidade": [],
     "diploma": "pt:dre:452510:por",
     "alterador": "pt:dre:665705:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1 - A duração dos empréstimos a conceder pelas instituições de crédito que actuam na Região para o financiamento dos projectos de investimento de que trata o presente diploma será a seguinte:\n\na) Para a aquisição de equipamento de propulsão, de navegação, de detecção e de comunicações e equipamentos auxiliares de pesca e de segurança no mar:\n\nPeríodo de utilização - máximo de 1 ano;\n\nPeríodo de carência - máximo de 1 ano;\n\nPeríodo de reembolso - máximo de 5 anos;\n\nb) Para a construção, aquisição, transformação e reconversão de embarcações de pesca:\n\nPeríodo de utilização - máximo de 1 ano;\n\nPeríodo de carência - máximo de 2 anos;\n\nPeríodo de reembolso - máximo de 9 anos;\n\nc) Para a aquisição de artes e apetrechos de pesca:\n\nPeríodo de utilização - máximo de 1 ano;\n\nPeríodo de carência - inexistente;\n\nPeríodo de reembolso - máximo de 2 anos.\n\n2 - A contagem do período de reembolso tem início despois de esgotado o período de carência.\n\n3 - Durante o período de utilização a taxa de juro a suportar pelo Governo Regional será de 15%.",
+    "depois": "###### Artigo 4.º\n\n1 - A duração dos empréstimos a conceder pelas instituições de crédito que actuam na Região para o financiamento dos projectos de investimento de que trata o presente diploma será a seguinte:\n\na) Para a aquisição de equipamento de propulsão, de navegação, de detecção e de comunicações e equipamentos auxiliares de pesca e de segurança no mar:\n\nPeríodo de utilização - máximo de 1 ano;\n\nPeríodo de carência - máximo de 1 ano;\n\nPeríodo de reembolso - máximo de 5 anos;\n\nb) Para a construção, aquisição, transformação e reconversão de embarcações de pesca:\n\nPeríodo de utilização - máximo de 1 ano;\n\nPeríodo de carência - máximo de 2 anos;\n\nPeríodo de reembolso - máximo de 9 anos;\n\nc) Para a aquisição de artes e apetrechos de pesca:\n\nPeríodo de utilização - máximo de 1 ano;\n\nPeríodo de carência - inexistente;\n\nPeríodo de reembolso - máximo de 2 anos.\n\n2 - A contagem do período de reembolso tem início despois de esgotado o período de carência.\n\n3 - Durante o período de utilização a taxa de juro a suportar pelo Governo Regional será de 10%.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:452510:por",
+    "alterador": "pt:dre:665705:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\nAs taxas de juro anuais a suportar pelo Governo Regional para os diferentes projectos de investimento contemplados no presente diploma serão as seguintes:\n\na) Para a aquisição de equipamento de propulsão, de navegação, de detecção e de comunicações e equipamentos auxiliares de pesca e de segurança no mar:\n\n1.º ano - 12%;\n\n2.º ano - 10%;\n\n3.º ano - 8%;\n\n4.º ano - 6,5%;\n\n5.º ano - 5%;\n\nb) Para construção, aquisição, transformação e reconversão de embarcações de pesca:\n\n1.º ano - 15%;\n\n2.º ano - 12%;\n\n3.º ano - 10%;\n\n4.º ano - 8%.\n\n5.º ano e seguintes - 6,5%;\n\nc) Para a aquisição de artes e apetrechos de pesca:\n\n1.º ano - 10%;\n\n2.º ano - 8%;",
+    "depois": "###### Artigo 5.º\n\nAs taxas de juro anuais a suportar pelo Governo Regional para os diferentes projectos de investimento contemplados no presente diploma serão as seguintes:\n\na) Para a aquisição de equipamento de propulsão, de navegação, de detecção e de comunicações e equipamentos auxiliares de pesca e de segurança no mar:\n\n1.º ano - 8%;\n\n2.º ano - 6%;\n\n3.º ano - 4%;\n\n4.º ano - 3%;\n\n5.º ano - 2%;\n\nb) Para construção, aquisição, transformação e reconversão de embarcações de pesca:\n\n1.º ano - 10%;\n\n2.º ano - 8%;\n\n3.º ano - 6%;\n\n4.º ano - 4%;\n\n5.º ano e seguintes - 3%;\n\nc) Para a aquisição de artes e apetrechos de pesca:\n\n1.º ano - 6%;\n\n2.º ano - 4%.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:452510:por",
+    "alterador": "pt:dre:665705:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\n1 - Os interessados na obtenção dos auxílios previstos neste diploma apresentarão às instituições de crédito que actuam na Região os projectos de investimento, elaborados em conformidade com as orientações destas, dos quais deverá, obrigatoriamente, constar o seguinte:\n\na) Descrição técnica completa do projecto, com indicações detalhadas do respectivo custo;\n\nb) Demonstração da viabilidade económica e financeira, com base no pescado descarregado ou a descarregar em portos da Região;\n\nc) Elementos demonstrativos da idoneidade do interessado.\n\n2 - As instituições de crédito procederão à análise e avaliação do projecto e remetê-lo-ão à Secretaria Regional de Agricultura e Pescas, acompanhado de parecer que caracterize a operação de crédito aprovada.\n\n3 - No prazo de 45 dias a contar da recepção do projecto, os Secretários Regionais da Agricultura e Pescas e do Planeamento e Finanças decidirão da atribuição dos auxílios previstos neste diploma, sendo respeitadas as orientações consagradas para o sector das pescas e respectivos limites orçamentais.",
+    "depois": "###### Artigo 6.º\n\n1 - Os interessados na obtenção dos auxílios previstos neste diploma apresentarão às instituições de crédito que actuam na Região os projectos de investimento, elaborados em conformidade com as orientações destas, dos quais deverá, obrigatoriamente, constar o seguinte:\n\na) Descrição técnica completa do projecto, com indicações detalhadas do respectivo custo;\n\nb) Demonstração da viabilidade económica e financeira, com base no pescado descarregado ou a descarregar em portos da Região;\n\nc) Elementos demonstrativos da idoneidade do interessado.\n\n2 - As instituições de crédito procederão à análise e avaliação do projecto e remetê-lo-ão à Secretaria Regional da Economia, acompanhado de parecer que caracterize a operação de crédito aprovada.\n\n3 - No prazo de 45 dias a contar da recepção do projecto, o Secretário Regional da Economia decidirá da atribuição dos auxílios previstos neste diploma, sendo respeitadas as orientações consagradas para o sector das pescas e respectivos limites orçamentais.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:452510:por",
+    "alterador": "pt:dre:665705:por"
+  },
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º\n\nOs auxílios financeiros previstos neste diploma serão cumulativos com os já existentes e com os que eventualmente venham a ser criados na Região.",
+    "depois": "###### Artigo 11.º\n\nOs auxílios financeiros revistos neste diploma não serão comutativos com quaisquer outros, com excepção dos previstos nos programas de reestruturação e modernização da frota de pesca da Região aprovados no âmbito da política de estruturas da pesca da Comunidade Económica Europeia.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:452510:por",
+    "alterador": "pt:dre:665705:por"
   }
 ]

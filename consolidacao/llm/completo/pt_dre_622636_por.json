@@ -1,0 +1,46 @@
+{
+  "id": "pt:dre:622636:por",
+  "artigos": [
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "1. Os concorrentes serão classificados por ordem decrescente do total de pontos obtidos, devendo a entidade promotora publicar a lista de verificação e reclamação no prazo máximo de sessenta dias, a contar da data do encerramento do concurso.\n\n2. No caso de empate entre os concorrentes que obtenham a mesma pontuação, atender-se-á em primeiro lugar ao menor rendimento per capita e de seguida à maior idade do concorrente.",
+      "alterador": 1
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "A lista é fixada nos locais em que teve lugar a apresentação dos requerimentos e posta em reclamação pelo prazo de oito dias, devendo ser dada publicidade ao facto pelos mesmos meios utilizados para a abertura do concurso.",
+      "alterador": 1
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "Apreciadas as reclamações, o promotor fixará a lista definitiva de atribuição, da qual não haverá recurso hierárquico.",
+      "alterador": 1
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "1. Será estabelecida uma relação de efectivos em função do número de habitações disponíveis, sendo os demais concorrentes considerados suplentes.\n\n2. Será atribuído ao concorrente o tipo de fogo adequado à composição do agregado familiar de acordo com a ordem de classificação.",
+      "alterador": 2
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "texto": "1. As declarações sobre a situação do concorrente a observar para a classificação reportam-se à data de abertura do concurso.\n\n2. Sempre que haja lugar a nova distribuição, o promotor notificará os concorrentes suplentes para procederem à actualização das declarações, com vista à sua reclassificação, reportando-se as condições a observar à data da notificação.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Portaria 327/75, n.º 3: as alterações ao mapa de classificação anexo só vêm em imagem no documento original; não aplicadas.",
+  "instrucoes": [
+    "Portaria 327/75, n.º 1: nova redação dos artigos 13.º, 14.º, 15.º, 16.º (n.os 2 e 4 substituídos, n.os 1 e 3 mantidos, n.º 5 aditado) e 17.º.",
+    "Portaria 327/75, n.º 2: revoga o artigo 12.º — já consta '(Revogado.)' no texto atual, sem mudança.",
+    "Portaria 327/75, n.º 3: alteração do mapa anexo — só em imagem, não aplicada.",
+    "Portaria 2/77: nova redação integral do artigo 16.º (apenas n.os 1 e 2), substituindo a do alterador 1."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

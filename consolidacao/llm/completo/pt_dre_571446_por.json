@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:571446:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - Sempre que as entidades obrigadas à restituição de qualquer quantia recebida no âmbito das comparticipações do Fundo Social Europeu e do Estado Português não cumpram a sua obrigação no prazo estipulado, será a mesma realizada através de execução fiscal.\n\n2 - A execução fiscal será promovida pelos serviços competentes de justiça fiscal com base em certidão do despacho do director-geral do Departamento para os Assuntos do Fundo Social Europeu que determine a restituição e sua notificação à entidade devedora.\n\n3 - A representação do exequente nos tribunais tributários faz-se nos termos do disposto no artigo 42.º do Código de Processo Tributário, aprovado pelo Decreto-Lei n.º 154/91, de 23 de Abril.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do artigo 1.º — n.º 1 '...' mantido, n.º 2 substituído (com as alíneas antigas suprimidas) e n.º 3 novo.",
+    "Alterador 1, art. 2.º: aplicação no tempo do próprio alterador, não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

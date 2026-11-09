@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:512989:por",
+  "artigos": [
+    {
+      "chave": "24.º",
+      "epigrafe": "",
+      "texto": "O chefe da Repartição de Saúde e Higiene será nomeado em comissão ordinária de serviço e escolhido entre os médicos de 1.ª classe do quadro comum do ultramar ou do quadro complementar de cirurgiões e especialistas que possuam demonstrada competência.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 9.º: nova redação do artigo 24.º - aplicado.",
+    "Alterador 1, restantes artigos: alteram os Decretos-Leis n.os 39602, 43203, 41169 e 42194 - não são do original, ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:324735:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Os alteradores 1 a 8 (Portarias n.os 977/80, 297/81, 630/81, 234/82, 503/82, 620/82, 643/82 e 1019/82) só alteram ou aumentam os quadros/mapas de pessoal anexos, que vêm apenas em imagem ('ver documento original'); nenhum altera o texto de qualquer artigo.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 977/80): n.º 3.º aumenta o quadro do FDMO com o mapa VI (imagem); não aplicável ao texto.",
+    "Alterador 2 (Portaria 297/81): substitui os mapas dos quadros da DGE, FDMO e GGFD (imagem); não aplicável.",
+    "Alterador 3 (Portaria 630/81): altera o quadro do GGFD por mapa em imagem; não aplicável.",
+    "Alterador 4 (Portaria 234/82): aumenta o quadro do FDMO por mapa em imagem; não aplicável.",
+    "Alterador 5 (Portaria 503/82): aumenta o quadro do FDMO de 1 lugar de técnico superior principal; alteração ao mapa, não textual; não aplicável.",
+    "Alterador 6 (Portaria 620/82): nova composição das carreiras de tesoureiro e secretário-recepcionista nos quadros (imagem); não aplicável.",
+    "Alterador 7 (Portaria 643/82): aumenta o quadro do FDMO de um lugar (mapa em imagem); não aplicável.",
+    "Alterador 8 (Portaria 1019/82): altera o mapa de subinspectores do GGFD (imagem); não aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "único",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo único\n\nFica autorizado o pagamento da remuneração por trabalhos extraordinários ao pessoal assalariado com funções de fiscalização em serviço nos diversos departamentos do Ministério das Obras Públicas, incluindo os organismos de carácter eventual.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 14 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.",
+    "depois": "###### Artigo único\n\nFica autorizado o pagamento da remuneração por trabalhos extraordinários ao pessoal assalariado em serviço nos diversos departamentos do Ministério das Obras Públicas, incluindo os organismos de carácter eventual.\n\n> Alterado pelo/a [Decreto-Lei n.º 46249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46249-1965-238637), publicado em 1965-03-19.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 14 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:471559:por",
+    "alterador": "pt:dre:238637:por"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "39.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 39.º\n\nEste processo será constituído por:\n\n1.º Descrição sumária do acidente;\n\n2.º Relatório do exame parcial dos prejuízos, levados a efeito por dois peritos militares qualificados, sempre que possível ambos oficiais ou sargentos do quadro do serviço de material, do ramo auto, cuja nomeação será superiormente solicitada pelo oficial instrutor do processo;\n\n3.º Declaração do chefe ou encarregado das oficinas da unidade ou do estabelecimento a que pertencer a viatura acidentada sobre a possibilidade ou impossibilidade de nelas ser efectuada a sua reparação, juntando também o orçamento definitivo no caso de tal reparação poder ser aí efectuada;\n\n4.º As declarações, com o mesmo objectivo, de quaisquer outros organismos de manutenção e reparação militares, no caso de as oficinas da unidade ou estabelecimento a que pertencer a viatura declararem não lhes ser possível efectuar a reparação desta;\n\n5.º Os orçamentos de três casas civis da especialidade, se as houver na área da unidade ou estabelecimento, sempre que a reparação da viatura não possa ter lugar em oficinas militares;\n\n6.º O duplicado ou cópia autenticada do documento comprovativo do depósito efectuado nos termos do artigo 28.º, quando o arguido se tenha responsabilizado pelos prejuízos causados;\n\n7.º O visto do comandante da unidade ou chefe de estabelecimento.",
+    "depois": "###### Artigo 39.º\n\nEste processo será constituído por:\n\n1.º Descrição sumária do acidente;\n\n2.º Relatório do exame parcial dos prejuízos, levados a efeito por dois peritos militares qualificados, sempre que possível ambos oficiais ou sargentos do quadro do serviço de material, do ramo auto, cuja nomeação será superiormente solicitada pelo oficial instrutor do processo;\n\n3.º Declaração do chefe ou encarregado das oficinas da unidade ou do estabelecimento a que pertencer a viatura acidentada sobre a possibilidade ou impossibilidade de nelas ser efectuada a sua reparação, juntando também o orçamento definitivo no caso de tal reparação poder ser aí efectuada;\n\n4.º As declarações, com o mesmo objectivo, de quaisquer outros organismos de manutenção e reparação militares, no caso de as oficinas da unidade ou estabelecimento a que pertencer a viatura declararem não lhes ser possível efectuar a reparação desta;\n\n5.º Os orçamentos de três casas civis da especialidade, se as houver na área da unidade ou estabelecimento, sempre que a reparação da viatura não possa ter lugar em oficinas militares por razões de ordem técnica ou de economia;\n\n6.º O duplicado ou cópia autenticada do documento comprovativo do depósito efectuado nos termos do artigo 28.º, quando o arguido se tenha responsabilizado pelos prejuízos causados;\n\n7.º O visto do comandante da unidade ou chefe de estabelecimento.\n\n> Alterado pelo/a [Portaria n.º 396/76](https://diariodarepublica.pt/dr/detalhe/portaria/396-1976-431400), publicado em 1976-07-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:477982:por",
+    "alterador": "pt:dre:431400:por"
+  },
+  {
+    "artigo": "42.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 42.º\n\nO recurso a oficinas civis só se justificará se as várias oficinas militares declararem não ter possibilidades técnicas, ou o excessivo trabalho lhes não permitir que seja nelas reparada a viatura.",
+    "depois": "###### Artigo 42.º\n\nO recurso a oficinas civis será sempre ditado por razões de ordem técnica ou económica devidamente expressas nos autos.\n\n> Alterado pelo/a [Portaria n.º 396/76](https://diariodarepublica.pt/dr/detalhe/portaria/396-1976-431400), publicado em 1976-07-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:477982:por",
+    "alterador": "pt:dre:431400:por"
+  },
+  {
+    "artigo": "43.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 43.º\n\nO processo, assim instruído, será remetido pelas vias competentes à 3.ª Repartição da Direcção do Serviço de Material para que esta julgue da conveniência da reparação da viatura do ponto de vista técnico e logístico e, caso afirmativo, proceda à apreciação e aprovação do orçamento mais conveniente.",
+    "depois": "###### Artigo 43.º\n\nO processo assim instruído será directamente remetido à 3.ª Repartição da Direcção do Serviço de Material para que esta julgue da conveniência da reparação da viatura do ponto de vista técnico e logístico e, caso afirmativo, proceda à apreciação e aprovação do orçamento mais conveniente.\n\n> Alterado pelo/a [Portaria n.º 396/76](https://diariodarepublica.pt/dr/detalhe/portaria/396-1976-431400), publicado em 1976-07-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:477982:por",
+    "alterador": "pt:dre:431400:por"
+  },
+  {
+    "artigo": "45.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 45.º\n\nObtida esta autorização, será ela comunicada ao quartel-general que enviou o processo e, através deste, à unidade a que pertencer a viatura.\n\n§ único. Nesta comunicação mencionar-se-á sempre a matrícula da viatura, a identidade militar do respectivo condutor e o local e data do acidente.",
+    "depois": "###### Artigo 45.º\n\nObtida esta autorização, será ela directamente comunicada à unidade a que pertencer a viatura, com conhecimento ao quartel-general da respectiva região.\n\n§ único. Nesta comunicação mencionar-se-á sempre a matrícula da viatura, a identidade militar do respectivo condutor e o local e data do acidente.\n\n> Alterado pelo/a [Portaria n.º 396/76](https://diariodarepublica.pt/dr/detalhe/portaria/396-1976-431400), publicado em 1976-07-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:477982:por",
+    "alterador": "pt:dre:431400:por"
+  },
+  {
+    "artigo": "51.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 51.º\n\nA comunicação da autorização relativa à reparação da viatura militar e do exacto montante dos prejuízos por esta sofridos será prontamente feita à Repartição de Justiça do Ministério do Exército e, através do quartel-general da região militar, à unidade a que a viatura pertencer.\n\n§ único. Nesta comunicação observar-se-á o disposto no § único do artigo 45.º, devendo ainda fazer-se referência aos restantes intervenientes.",
+    "depois": "###### Artigo 51.º\n\nA comunicação da autorização relativa à reparação da viatura militar e do exacto montante dos prejuízos por esta sofridos será prontamente feita à Repartição de Justiça e Disciplina do Ministério do Exército e à unidade a que pertencer a viatura, com conhecimento ao quartel-general da respectiva região.\n\n§ único. Nesta comunicação observar-se-á o disposto no § único do artigo 45.º, devendo ainda fazer-se referência aos restantes intervenientes.\n\n> Alterado pelo/a [Portaria n.º 396/76](https://diariodarepublica.pt/dr/detalhe/portaria/396-1976-431400), publicado em 1976-07-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:477982:por",
+    "alterador": "pt:dre:431400:por"
+  }
+]

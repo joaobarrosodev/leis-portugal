@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:354160:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Os DRR n.os 33/91/A, 6/92/A, 20/93/A, 11/96/A, 23/2000/A, 22/2004/A e 33/2004/A alteram apenas o quadro de pessoal (mapa anexo) do Centro de Saúde do Nordeste, que só vem em imagem; nenhum artigo do original é alterado.",
+  "instrucoes": [
+    "DRR 33/91/A, art. 1.º: novo quadro de pessoal de informática (imagem); não aplicado.",
+    "DRR 6/92/A, art. 1.º: alteração dos quadros de pessoal (imagem); não aplicado.",
+    "DRR 20/93/A, artigo único: alteração do quadro de pessoal (imagem); não aplicado.",
+    "DRR 11/96/A, arts. 1.º e 2.º: quadros de pessoal técnico de diagnóstico e terapêutica (imagem) e extinção de lugares; não aplicado.",
+    "DRR 23/2000/A, arts. 1.º e 2.º: quadro de pessoal médico (imagem) e regra autónoma de provimento; não aplicado.",
+    "DRR 22/2004/A, artigo único: mapa de pessoal (imagem); não aplicado.",
+    "DRR 33/2004/A, art. 1.º: quadros de pessoal de enfermagem (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

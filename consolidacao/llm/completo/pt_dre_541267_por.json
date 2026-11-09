@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:541267:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 38/2014), art. 6.º, b): revoga os artigos 5.º e 8.º 'na parte relativa à intervenção «Reforma Antecipada»' e o n.º 1 do artigo 16.º 'na parte em que se refere ao Regulamento (CEE) n.º 2079/92' — revogações parciais por matéria, não textuais; não aplicadas.",
+  "instrucoes": [
+    "Alterador 1, art. 6.º, b): revogação parcial (por matéria) dos arts. 5.º, 8.º e 16.º, n.º 1 — não textual, não aplicada (nao_aplicavel).",
+    "Alterador 1, art. 6.º, a), c), d): dizem respeito a outros diplomas; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

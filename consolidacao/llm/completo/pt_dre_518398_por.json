@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:518398:por",
+  "artigos": [
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "Compete ao gabinete de estudos:\n\n1.º Realizar os estudos que lhe forem determinados em relação a matéria do âmbito dos serviços e, em especial:\n\na) Organizar planos de parcelamento de zonas rústicas com excepção daquelas que, pelas suas características especiais ou de proximidade de centros populacionais, devam estar sob a jurisdição e competência urbanística de outros serviços.\n\nb) Estudar os problemas relacionados com o aperfeiçoamento das técnicas empregadas pelos serviços e com a introdução de novos processos de medição, de cálculo ou de registo;\n\nc) Estudar processos e técnicas sugeridos e sobre eles dar parecer quanto às vantagens ou inconvenientes que da sua aplicação possam resultar para os serviços sob os aspectos científico e prático.\n\n2.º Dar parecer sobre relatórios, estudos e artigos que devam ser divulgados através das publicações dos serviços ou de publicações estranhas que os solicitem;\n\n3.º Preparar as publicações dos serviços;\n\n4.º Assegurar o funcionamento da biblioteca;\n\n5.º Compilar e manter actualizados os elementos estatísticos;\n\n6.º Orientar o funcionamento da oficina de precisão;\n\n§ 1.º Nos trabalhos do gabinete de estudos participam, além do seu pessoal próprio, todos os funcionários da direcção dos serviços cuja intervenção o director julgue conveniente.\n\n§ 2.º Para os fins do disposto na parte final da alínea a) do n.º 1.º do corpo deste artigo, é obrigatória a audição da Comissão Provincial de Urbanização referida no artigo 22.º do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 26 de Fevereiro de 1964.",
+      "alterador": 2
+    },
+    {
+      "chave": "74.º",
+      "epigrafe": "",
+      "texto": "O pessoal dos actuais quadros será colocado, independentemente de qualquer formalidade ou visto e com todos os direitos adquiridos, mediante portaria publicada no Boletim Oficial, no quadro do pessoal referido no artigo 73.º, mantendo-se nas províncias onde actualmente presta serviço pela forma seguinte e dentro dos limites estabelecidos nos mapas anexos a este diploma:\n\na) Os inspectores chefes dos serviços transitam para os lugares de director provincial dos serviços;\n\nb) Os chefes de divisão técnica transitam para os lugares de engenheiro geógrafo-chefe;\n\nc) Os chefes de contencioso transitam para os lugares de adjunto administrativo;\n\nd) Os engenheiros geógrafos nomeados ou contratados por verbas dos serviços, com mais de quatro anos de bom e efectivo serviço, transitam, dentro das vagas existentes e por ordem de antiguidade nos mesmos serviços, para os lugares de engenheiro geógrafo-chefe;\n\ne) O adjunto da divisão de Moçambique transita para o lugar de chefe de contencioso;\n\nf) Os topógrafos principais transitam para os lugares de topógrafo geómetra-chefe;\n\ng) Os topógrafos de 1.ª classe transitam para os lugares de topógrafo geómetra;\n\nh) Os topógrafos de 3.ª classe transitam para os lugares de topógrafo de 2.ª classe;\n\ni) Os chefes de secretaria transitam para os lugares de chefe de secção;\n\nj) Os primeiros-oficiais com mais de quatro anos na categoria ou com mais de quinze de bom e efectivo serviço transitam para os lugares de chefe de secção;\n\nl) Os calculadores de 3.ª classe transitam para os lugares de calculadores de 2.ª classe;\n\nm) Os desenhadores principais transitam para os lugares de desenhador cartográfico-chefe;\n\nn) Os desenhadores de 1.ª e 2.ª classes transitam para os lugares de desenhador cartográfico;\n\no) Os desenhadores de 3.ª classe e os desenhadores auxiliares transitam para os lugares de desenhador;\n\np) Os restantes funcionários e agentes transitam, no mesmo regime de prestação de serviço, para os lugares de categoria igual à que presentemente possuem.\n\nq) Os topógrafos de 2.ª classe transitam para os lugares de topógrafo de 1.ª classe.\n\n§ 1.º O actual chefe da Repartição dos Serviços de Agrimensura da índia transita para o lugar de engenheiro geógrafo-chefe e continua a desempenhar as funções de chefe de repartição dos mesmos serviços.\n\n§ 2.º O lugar de piloto aviador fotogramétrico criado no quadro de pessoal contratado poderá ser provido pelo piloto aviador fotogramétrico contratado dos serviços de Angola, se assim o requerer no prazo de 30 dias.\n\n§ 3.º Os lugares de operador de restituição principal poderão ser providos pelos operadores e pelos operadores de restituição de 1.ª classe que presentemente estão contratados nos serviços de Moçambique e de Angola, respectivamente, se assim o requererem no prazo de 30 dias.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto 45083 art. 29.º: aditada al. q) ao art. 74.º, após a al. p); aplicado",
+    "Decreto 45083 restantes artigos: dirigidos a outros diplomas ou não textuais; ignorados",
+    "Decreto 47167 art. 1.º: nova redação da al. a) do n.º 1.º do art. 13.º; aplicado",
+    "Decreto 47167 art. 2.º: nova redação do § 2.º do art. 13.º; aplicado",
+    "Decreto 47167 arts. 3.º a 5.º: alteram o Decreto 43894; ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

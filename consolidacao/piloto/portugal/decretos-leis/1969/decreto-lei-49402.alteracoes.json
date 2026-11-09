@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1. Os membros da Assembleia Nacional têm direito, durante o funcionamento efectivo da Assembleia, ao subsídio mensal de 5000$00 e a uma senha de presença por dia de comparência aos trabalhos da Assembleia da importância de 300$00.\n\n2. Quando os Deputados forem funcionários públicos ou tenham comissão ou emprego retribuído pelo Estado devem optar entre os vencimentos dos seus respectivos cargos e o subsídio mensal.\n\n3. O subsídio mensal dos Deputados que tiverem a sua residência fora dos concelhos a que se refere o n.º 1 do artigo 195.º do Código Administrativo será acrescido, durante os dias que tiverem de permanecer em Lisboa, por motivo do funcionamento da Assembleia Nacional, de um quantitativo igual à ajuda de custo que estiver fixada para a categoria A do funcionalismo público.\n\n4. Os abonos a que se referem os números anteriores serão liquidados, em qualquer dos casos, pela verba inscrita no Orçamento Geral do Estado para pagamento de subsídios e senhas de presença aos membros da Assembleia Nacional e da Câmara Corporativa, no capítulo respeitante à Representação Nacional.",
+    "depois": "###### Artigo 1.º\n\n1. Os membros da Assembleia Nacional têm direito, durante o funcionamento efectivo da Assembleia, ao subsídio mensal de 6500$00 e a uma senha de presença, por dia de comparência aos trabalhos da Assembleia, da importância de 500$00.\n\n2. Os Deputados do ultramar e ilhas adjacentes que aí tenham a sua residência habitual têm direito a senhas de presença correspondentes ao número de dias em que, em cada mês, for devida comparência, com um mínimo de 6500$00.\n\n3. Quando os Deputados forem funcionários públicos ou tenham comissão ou emprego retribuído pelo Estado devem optar entre os vencimentos dos seus respectivos cargos e o subsídio mensal.\n\n4. O subsídio mensal dos Deputados que tiverem a sua residência fora dos concelhos a que se refere o n.º 1 do artigo 195.º do Código Administrativo será acrescido, durante os dias que tiverem de permanecer em Lisboa, por motivo do funcionamento da Assembleia Nacional, de um quantitativo igual à ajuda de custo que estiver fixada para a categoria A do funcionalismo público.\n\n5. Os Deputados do ultramar quando aí tenham a sua residência habitual e se desloquem a Lisboa por virtude do exercício do seu mandato têm direito a um subsídio diário de montante igual à ajuda de custo que estiver fixada para a categoria A do funcionalismo público, de harmonia com a tabela a que se refere o artigo. 42.º, alínea d), do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.\n\n6. Os Deputados do ultramar com residência habitual na metrópole, quando se desloquem às províncias ultramarinas, nos termos do artigo 3.º, têm direito ao subsídio diário referido na alínea b) do mesmo artigo 42.º do Estatuto do Funcionalismo Ultramarino.\n\n7. Os abonos a que se referem os números anteriores serão liquidados, em qualquer dos casos, pela verba inscrita no Orçamento Geral do Estado para pagamento de subsídios e senhas de presença aos membros da Assembleia Nacional e da Câmara Corporativa, no capítulo respeitante à Representação Nacional.\n\n> Alterado pelo/a [Decreto-Lei n.º 614/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1973-178987), publicado em 1973-11-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:176283:por",
+    "alterador": "pt:dre:178987:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1. Os Deputados têm direito a transporte quando convocados para tomar assento na Assembleia Nacional, logo que esta encerre os seus trabalhos e sempre que tenham de deslocar-se para o desempenho de qualquer comissão por ela confiada.\n\n2. É lícito aos Deputados do continente requisitar transporte entre a sua residência e a capital do País, até ao limite de quatro vezes por mês, enquanto durarem os trabalhos da Assembleia.\n\n3. Os Deputados do ultramar e das ilhas adjacentes, quando aí tenham a sua residência habitual, poderão usar da faculdade prevista no número antecedente até três vezes por cada sessão legislativa, desde que as deslocações possam realizar-se sem prejuízo da sua comparência aos trabalhos da Assembleia.\n\n4. No entanto, ser-lhe-á permitido optarem, também por cada sessão legislativa, pela utilização de duas passagens, tanto para a viagem de vinda, no início da sessão, como para a viagem de regresso, após o respectivo encerramento, desde que uma delas se destine à respectiva esposa.\n\n5. As despesas com transportes serão liquidadas pela verba para tal fim inscrita no Orçamento Geral do Estado, no capítulo respeitante à Representação Nacional.",
+    "depois": "###### Artigo 3.º\n\n1. Os Deputados têm direito a transporte quando convocados para tomar assento na Assembleia Nacional, logo que esta encerre os seus trabalhos e sempre que tenham de deslocar-se para o desempenho de qualquer comissão por ela confiada.\n\n2. É lícito aos Deputados do continente requisitar transporte entre a sua residência e a capital do País, até ao limite de quatro vezes por mês, enquanto durarem os trabalhos da Assembleia.\n\n3. Os Deputados do ultramar e das ilhas adjacentes, quando aí tenham a sua residência habitual, poderão usar da faculdade prevista no número antecedente até três vezes por cada período da sessão legislativa, desde que as deslocações possam realizar-se sem prejuízo da sua comparência aos trabalhos da Assembleia.\n\n4. No entanto, ser-lhes-á permitido optarem, também por cada período da sessão legislativa, pela utilização de duas passagens, tanto para a viagem de vinda, no início da sessão, como para a viagem de regresso, após o respectivo encerramento, desde que uma delas se destine à respectiva esposa.\n\n5. Os Deputados pelo ultramar que aí não tenham a sua residência habitual podem requisitar transporte para a província respectiva até duas passagens anuais, sem prejuízo do disposto na parte finas do n.º 3 deste artigo.\n\n6. As despesas com transportes serão liquidadas pela verba para tal fim inscrita no Orçamento Geral do Estado, no capítulo respeitante à Representação Nacional.\n\n> Alterado pelo/a [Decreto-Lei n.º 614/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1973-178987), publicado em 1973-11-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:176283:por",
+    "alterador": "pt:dre:178987:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1. Os Procuradores à Câmara Corporativa terão direito, por cada dia de participação nos trabalhos da Câmara, a uma senha de presença igual à fixada para os membros da Assembleia Nacional, bem como a despesas de transporte, quando hajam de deslocar-se do local da sua residência permanente.\n\n2. Durante os períodos de sessão legislativa todos os Procuradores terão direito a uma remuneração mínima de 1500$00 mensais, quer tenham ou não vencido senhas de presença.\n\n3. Aos Procuradores designados para relatores será abonada a senha de presença correspondente ao número de dias, não excedente a trinta, que lhes for fixado para elaboração dos pareceres.",
+    "depois": "###### Artigo 4.º\n\n1. Os Procuradores à Câmara Corporativa terão direito, por cada dia de participação nos trabalhos da Câmara, a uma senha de presença igual à fixada para os membros da Assembleia Nacional, bem como a despesas de transporte, quando hajam de deslocar-se do local da sua residência permanente.\n\n2. Durante os períodos de sessão legislativa todos os Procuradores terão direito a uma remuneração mínima de 2000$00 mensais, quer tenham ou não vencido senhas de presença.\n\n3. Aos Procuradores designados para relatores será abonada a senha de presença correspondente ao número de dias, não excedente a trinta, que lhes for fixado para elaboração dos pareceres.\n\n> Alterado pelo/a [Decreto-Lei n.º 614/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1973-178987), publicado em 1973-11-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:176283:por",
+    "alterador": "pt:dre:178987:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n1. Os presidentes da Assembleia Nacional e da Câmara Corporativa têm direito, durante as sessões legislativas, ao subsídio mensal de 5000$00 e, durante toda a legislatura, até ao final da última sessão legislativa, ao abono para despesas de representação de quantitativo igual ao que por lei estiver fixado para o Presidente do Conselho.\n\n2. Os secretários das mesas são considerados no exercício permanente de funções durante todo o período legislativo, continuando a receber o subsídio mensal no intervalo das sessões.\n\n3. Os membros da mesa da Câmara Corporativa que sejam funcionários públicos ou administrativos poderão, quando em exercício na Câmara, interromper o desempenho dos seus cargos, devendo nesse caso optar entre os vencimentos a que teriam direito e as remunerações que, pelo exercício das funções naquela Câmara, lhes couberem.",
+    "depois": "###### Artigo 5.º\n\n1. Os presidentes da Assembleia Nacional e da Câmara Corporativa têm direito, durante toda a legislatura, até ao apuramento, do resultado das novas eleições gerais, ao subsídio mensal de 6500$00 e ao abono para despesas de representação de quantitativo igual ao que por lei estiver fixado para o Presidente do Conselho.\n\n2. Os secretários das mesas são considerados no exercício permanente de funções durante toda a legislatura, até ao apuramento do resultado das novas eleições gerais.\n\n3. Os membros da mesa da Câmara Corporativa que sejam funcionários públicos ou administrativos poderão, quando em exercício na Câmara, interromper o desempenho dos seus cargos, devendo nesse caso optar entre os vencimentos a que teriam direito e o subsídio mensal atribuído ao exercício de funções naquela Câmara.\n\n> Alterado pelo/a [Decreto-Lei n.º 614/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1973-178987), publicado em 1973-11-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:176283:por",
+    "alterador": "pt:dre:178987:por"
+  }
+]

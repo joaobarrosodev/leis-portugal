@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "17.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 17.º\n\nNas faltas e impedimentos do juiz auditor será este substituído, quando juiz da comarca, pelos seus substitutos licenciados em Direito; quando auditor privativo, pelo juiz da comarca sede do tribunal e seus substitutos nas condições indicadas.",
+    "depois": "###### Artigo 17.º\n\nNas faltas e impedimentos do juiz auditor será este substituído, quando juiz da comarca, pelos seus substitutos licenciados em Direito; quando auditor privativo, pelo conservador dos registos da comarca sede do tribunal ou pelo conservador do registo predial nas comarcas de Luanda e Lourenço Marques, e, na falta deste, pelo seu substituto, nas condições anteriores.\n\n> Alterado pelo/a [Decreto-Lei n.º 111/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1970-228802), publicado em 1970-03-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:578130:por",
+    "alterador": "pt:dre:228802:por"
+  }
+]

@@ -1,0 +1,321 @@
+{
+  "id": "pt:dre:484667:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto e âmbito de aplicação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Condição do exercício da actividade",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Princípio geral",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Escolha do sítio",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Autorização preliminar do sítio para centros electroprodutores termoeléctricos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Processo de consulta e selecção para o estabelecimento e exploração do centro electroprodutor",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Celebração do contrato de vinculação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Modificação do contrato de vinculação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Prorrogação do contrato de vinculação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Extinção do contrato de vinculação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Caducidade do contrato de vinculação por decurso do prazo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Caducidade do contrato de vinculação por revogação da respectiva licença vinculada",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Caducidade do contrato de vinculação nos termos do plano de expansão aprovado",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Extinção do contrato de vinculação por rescisão",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Início e instrução do procedimento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Atribuição da licença",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Conteúdo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Duração",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Transmissão",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Extinção",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Caducidade",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Revogação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Modificação ou prorrogação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Direitos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Deveres",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Protecção do ambiente",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Ligação e exploração dos centros electroprodutores",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Início e instrução do procedimento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Consulta à Entidade de Planeamento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Fundamentos de recusa",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "Inquérito público",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "Atribuição da licença",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Conteúdo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Duração",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Transmissão",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "Extinção",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "Caducidade",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "Revogação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "Direitos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "Deveres",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "Responsabilidade civil e criminal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "Seguro",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "Participação de desastres e acidentes",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "Requisitos técnicos e de segurança",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "Encargos com a ligação à rede",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "Fiscalização técnica",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "Informação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "50.º",
+      "epigrafe": "Contra-ordenações",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "51.º",
+      "epigrafe": "Processos de contra-ordenação e aplicação de coimas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "52.º",
+      "epigrafe": "Taxas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "54.º",
+      "epigrafe": "Norma revogatória",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (DL 56/97, art. 2.º): nova redação dos arts. 4.º, 5.º, 6.º, 8.º, 10.º, 11.º, 14.º, 15.º, 17.º, 18.º, 27.º, 30.º, 31.º, 32.º, 49.º e 50.º; os 4.º-30.º já estavam aplicados; 31.º, 32.º, 49.º e 50.º ficam absorvidos pela revogação do alt. 3.",
+    "Alt. 2 (DL 198/2000, art. 3.º): adita n.os 4 e 5 ao 13.º e n.º 5 ao 15.º; absorvidos pela revogação do alt. 3. Art. 1.º altera o DL 182/95: ignorado.",
+    "Alt. 3 (DL 76/2019, art. 79.º, n.º 1): revoga o DL 183/95 com exceção dos arts. 6.º, 7.º e 53.º (vigência transitória ressalvada, sem efeito no texto): 51 artigos ficam (Revogado.). Art. 70.º não altera texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:240660:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "Conteúdo do articulado da proposta do decreto legislativo regional",
+      "alterador": 1,
+      "texto": "O articulado da proposta do decreto legislativo regional deve conter:\n\n1) As condições de aprovação dos mapas orçamentais e as normas necessárias para orientar a execução orçamental;\n\n2) A indicação das fontes de financiamento que acresçam às receitas efectivas, bem como a indicação do destino a dar aos fundos resultantes de eventual excedente;\n\n3) O montante e as condições gerais de recurso ao crédito público;\n\n4) A indicação do limite dos avales a conceder pelo Governo Regional durante o exercício orçamental;\n\n5 - O montante de empréstimos a conceder e de outras operações activas a realizar pela Região, incluindo os fundos e serviços autónomos, desde que não sejam dívida flutuante.\n\n6) Todas as outras medidas que se revelem indispensáveis à correcta gestão orçamental da Região para o ano económico a que o Orçamento se destina."
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Conta da Assembleia Legislativa Regional",
+      "alterador": 2,
+      "texto": "1 - O relatório e a conta da Assembleia Legislativa Regional são elaborados pelo Conselho de Administração e aprovados pelo Plenário.\n\n2 - Para efeitos da alínea d) do artigo 8.º da [Lei n.º 86/89](https://diariodarepublica.pt/dr/detalhe/lei/86-1989-547238), de 8 de Setembro, o relatório e a conta da Assembleia Legislativa Regional são remetidos ao Tribunal de Contas até 31 de Março do ano seguinte àquele a que digam respeito."
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Lei 30-C/92, art. 55.º): nova redação do n.º 5 do art. 11.º; substituído o item 5) pelo texto do alterador, copiado letra a letra (incluindo o marcador '5 -' e o ponto final).",
+    "Alterador 2 (Lei 53/93, art. 3.º): nova redação integral do art. 31.º (n.os 1 e 2); aplicada. Arts. 1.º e 2.º alteram a Lei 6/91 e a Lei 77/88: ignorados.",
+    "Alterador 3 (DLR 4/2011/M): altera o DLR 2/2011/M e só cita o art. 20.º do original como habilitação: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

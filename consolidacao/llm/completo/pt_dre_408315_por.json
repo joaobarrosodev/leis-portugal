@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:408315:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "É autorizado o Governo de Macau a segurar ao Banco Nacional Ultramarino e ao Banco de Fomento Nacional, ou a qualquer deles, os riscos emergentes das garantias bancárias que vierem a ser prestadas e dos créditos documentários que vierem a ser abertos até ao montante total em capital de 4500 milhões de ienes, acrescidos dos juros e demais encargos que forem devidos, e, ainda, a assumir a responsabilidade por diferenças de câmbio que porventura se verificarem, tudo em consequência do contrato de adjudicação da central termoeléctrica de Coloane, realizado, em regime de pagamentos diferidos, entre a Companhia de Electricidade de Macau, S. A. R. L., e a empresa japonesa Mitsubishi Corporation.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto 412-F/75, artigo único: nova redação do artigo 1.º; aplicada e depois substituída.",
+    "Decreto 418/75, artigo único: nova redação do artigo 1.º; aplicada (redação final)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

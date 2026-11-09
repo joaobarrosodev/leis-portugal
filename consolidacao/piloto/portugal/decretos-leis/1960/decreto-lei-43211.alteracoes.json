@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nOuvida a comissão administrativa da Federação, poderão integrar-se nela outros concelhos limítrofes, por portaria dos Ministros do Interior e da Economia, mediante proposta da Direcção-Geral dos Serviços Eléctricos, adoptando-se, em relação a esses concelhos, procedimento análogo ao estabelecido para os que já estiverem federados nessa data.",
+    "depois": "###### Artigo 2.º\n\nOuvida a comissão administrativa da Federação, poderão integrar-se nesta outros concelhos, por portaria do Ministro do Interior e do Secretário de Estado da Indústria, adoptando-se, em relação a esses concelhos, procedimento análogo ao estabelecido para os que já estiverem federados nessa data.\n\n> Alterado pelo/a [Decreto-Lei n.º 49479](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49479-1969-213063), publicado em 1969-12-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514056:por",
+    "alterador": "pt:dre:213063:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\nO director-delegado fica responsável, perante a Federação e a Direcção-Geral dos Serviços Eléctricos, pelo cumprimento dos programas aprovados para a execução de novas instalações e remodelação das existentes, pelo estado de conservação das instalações em que superintende, pelos incidentes da sua exploração e pelo exacto cumprimento dos regulamentos e normas de segurança em vigor, devendo, no caso de a Federação se opor ou não dar seguimento às suas propostas, informar a Direcção-Geral dos Serviços Eléctricos, que apreciará o assunto e tomará as providências que a situação requerer.",
+    "depois": "###### Artigo 6.º\n\nO director-delegado ou, nas suas faltas e impedimentos, o seu substituto legal ficam responsáveis, perante a Federação e a Direcção-Geral dos Serviços Eléctricos, pelo cumprimento dos programas aprovados para a execução de novas instalações e remodelação das existentes, pelo estado de conservação das instalações em que superintende, pelos incidentes da sua exploração e pelo exacto cumprimento dos regulamentos e normas de segurança em vigor, devendo, no caso de a Federação se opor ou não a dar seguimento às suas propostas, informar a Direcção-Geral dos Serviços Eléctricos, que apreciará o assunto e tomará as providências que se justifiquem.\n\n> Alterado pelo/a [Decreto-Lei n.º 49479](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49479-1969-213063), publicado em 1969-12-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514056:por",
+    "alterador": "pt:dre:213063:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nA aprovação do quadro do pessoal técnico e administrativo da Federação é da competência do Ministro do Interior, ouvido o Ministro da Economia, e deverá ser pedida pela Federação no prazo de seis meses, a contar da data da publicação do presente diploma.\n\n§ único. O pessoal dos serviços municipalizados de Évora e o das outras câmaras municipais federadas, que preste serviço, exclusivamente, na distribuição de electricidade nos respectivos concelhos, transitará para a Federação, independentemente de quaisquer formalidades, na situação actual ou naquela que vier a ser-lhe atribuída no quadro aprovado nos termos do corpo deste artigo, sendo-lhe reconhecido o direito de regresso ao quadro a que pertence, no caso de dissolução da Federação.",
+    "depois": "###### Artigo 7.º\n\nA aprovação do quadro do pessoal técnico e administrativo da Federação é da competência do Ministro do Interior, ouvido o Ministro da Economia, e deverá ser pedida pela Federação no prazo de seis meses, a contar da data da publicação do presente diploma.\n\n§ 1.º O pessoal dos quadros das câmaras municipais federadas, ou que com estas venham a federar-se, incluindo os dos respectivos serviços municipalizados, e que preste serviço na distribuição de energia eléctrica nos respectivos concelhos, transitará para o quadro da Federação, independentemente de quaisquer formalidades, na situação que ao tempo tiver ou naquela que no referido quadro vier a ser-lhe atribuída, sendo-lhe reconhecido o direito de reingresso no quadro de origem, no caso de dissolução da Federação.\n\n§ 2.º Poderá igualmente ingressar no quadro de pessoal da Federação, independentemente dos requisitos de habilitações e idade e de quaisquer formalidades, excepto a posse, o pessoal de carácter permanente ao serviço de empresas concessionárias da pequena distribuição de energia eléctrica em concelhos que pretendam, finda a concessão, integrar-se na Federação, desde que preste serviço, exclusivamente, na exploração concedida pelo município.\n\n> Alterado pelo/a [Decreto-Lei n.º 49479](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49479-1969-213063), publicado em 1969-12-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514056:por",
+    "alterador": "pt:dre:213063:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\nAté 30 de Junho de cada ano, a Federação deverá submeter à aprovação da Direcção-Geral dos Serviços Eléctricos o plano de obras a realizar no ano seguinte.",
+    "depois": "###### Artigo 8.º\n\nAté 30 de Setembro de cada ano, a Federação deverá submeter a aprovação da Direcção-Geral dos Serviços Eléctricos os projectos e orçamentos das obras a realizar no ano seguinte, para as quais pretenda obter a comparticipação do Estado.\n\n> Alterado pelo/a [Decreto-Lei n.º 49479](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49479-1969-213063), publicado em 1969-12-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514056:por",
+    "alterador": "pt:dre:213063:por"
+  },
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º\n\nNos termos da base XXV da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), a Federação poderá contrair empréstimos na Caixa Geral de Depósitos, Crédito e Previdência para novas instalações, consignando ao serviço desses empréstimos as receitas do fundo de obras.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 10 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Calos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.",
+    "depois": "###### Artigo 11.º\n\nA Federação poderá contrair empréstimos nos termos da base XXV da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758) e do § único do artigo 175.º do Código Administrativo, consignando aos encargos desses empréstimos as receitas do fundo de obras.\n\n> Alterado pelo/a [Decreto-Lei n.º 49479](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49479-1969-213063), publicado em 1969-12-30.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 10 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Calos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514056:por",
+    "alterador": "pt:dre:213063:por"
+  }
+]

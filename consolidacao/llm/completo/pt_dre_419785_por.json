@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:419785:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "Sem prejuízo do disposto no artigo anterior, ao provimento e recrutamento dos assistentes, assistentes eventuais e assistentes especialmente contratados são aplicáveis as disposições previstas no [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 artigo único: nova redação do art. 5.º; aplicado.",
+    "Alt.2 e alt.3: fixam a composição dos quadros de pessoal das Escolas Superiores de Belas-Artes do Porto e de Lisboa (aprovados pelo Decreto-Lei n.º 41362); não alteram o texto do original; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

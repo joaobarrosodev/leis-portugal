@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:354156:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 a 7: todos alteram o quadro de pessoal do Centro de Saúde de Vila do Porto (mapa anexo) através de quadros/mapas que só vêm em imagem; nenhum artigo do original é alterado.",
+  "instrucoes": [
+    "Alterador 1: quadros de pessoal de informática (anexos em imagem) - não aplicado.",
+    "Alterador 2: alteração dos quadros (serviço social), mapas em imagem - não aplicado.",
+    "Alterador 3: quadros de técnicos de diagnóstico e terapêutica, em imagem - não aplicado.",
+    "Alterador 4: quadro do pessoal auxiliar, mapa em imagem - não aplicado.",
+    "Alterador 5: pessoal médico de clínica geral, mapa em imagem - não aplicado.",
+    "Alterador 6: pessoal de apoio geral, mapa em imagem - não aplicado.",
+    "Alterador 7: pessoal de enfermagem, mapas em imagem - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:261964:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "Os veterinários municipais perceberão mensalmente, pelo exercício das funções de subintendente de pecuária, complemento de vencimento, pago por dotação a considerar na verba do pessoal dos quadros aprovados por lei, da Direcção-Geral dos Serviços Pecuários, na seguinte conformidade:\n\nSubintendente de pecuária em concelhos de 1.ª ordem - 1800$00;\n\nSubintendente de pecuária em concelhos de 2.ª ordem - 1500$00;\n\nSubintendente de pecuária em concelhos de 3.ª ordem - 1300$00.\n\n§ 1.º É aplicável ao complemento de vencimento dos subintendentes de pecuária o regime prescrito no § 1.º do artigo 527.º do Código Administrativo.\n\n§ 2.º Havendo lugar ao aumento do complemento de vencimento do subintendente de pecuária, por virtude de mudança da ordem administrativa do concelho, será o excesso transitòriamente pago pelas disponibilidades das dotações para pessoal dos quadros da Direcção-Geral dos Serviços Pecuários.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2, art. 9.º: extinção das subintendências de pecuária criadas pelo diploma; não é alteração textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do artigo 6.º (corpo mantido, § único substituído por §§ 1.º e 2.º); aplicada.",
+    "Alterador 1, art. 2.º: produção de efeitos; sem alteração textual.",
+    "Alterador 2, art. 5.º, n.º 5: absorção das quantias de subintendente; sem alteração textual.",
+    "Alterador 2, art. 9.º: extinção das subintendências; não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

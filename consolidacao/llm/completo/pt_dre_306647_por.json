@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:306647:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "1. Serão providos nos lugares de especialistas dos quadros das respectivas Estações:\n\na) Os estagiários do quadro do pessoal de investigação, os estagiários contratados além do quadro, cujo provimento na categoria tenha sido feita mediante concurso, e os técnicos do quadro técnico da Direcção-Geral dos Serviços Agrícolas que, sem interrupção nos últimos nove anos, tenham prestado serviço na Estação Agronómica Nacional ou na Estação de Melhoramento de Plantas, com boas informações de mérito científico;\n\nb) Os especialistas contratados da Direcção-Geral dos Serviços Agrícolas que anteriormente a essa situação tenham desempenhado as funções de estagiários do quadro;\n\nc) Os técnicos da Direcção-Geral dos Serviços Agrícolas aprovados em mérito absoluto no concurso para investigadores da Estação Agronómica Nacional, que o requererem no prazo de oito dias, a contar da data da publicação do presente diploma;\n\nd) Os médicos veterinários, naturalistas e outros funcionários diplomados com cursos superiores de especialização adequada para o desempenho das funções que exercem, que, sem interrupção nos últimos nove anos, tenham trabalhado em serviços de investigação naquelas Estações, com boas informações de mérito científico, independentemente da situação em que o serviço foi prestado e das verbas por que tenham sido remunerados.\n\n2. Para efeitos do provimento previsto no número anterior, não é considerada interrupção o tempo de não permanência naquelas Estações dos respectivos funcionários, quando esse facto resulte do cumprimento de comissão de serviço, requisição e outras formas de colocação em organismos nacionais ou de carácter internacional, ou o afastamento temporário do serviço, em qualquer situação, seja consequência de efectiva colaboração em estabelecimentos de investigação científica ou universitários, nacionais ou estrangeiros, comprovando-se o mérito científico pelas últimas informações relativas ao serviço prestado em qualquer das Estações.\n\n3. Os provimentos a que se referem os números anteriores são feitos segundo a categoria e a ordem de antiguidade.\n\n4. Os funcionários providos na categoria de especialistas que se encontrem em comissão de serviço, requisitados ou destacados, mantêm-se nesse regime, processando-se o seu regresso aos quadros nos termos da legislação que permitiu as respectivas situações.\n\n5. Os funcionários que se encontrem nas situações previstas nos n.os 1 e 2 poderão ser contratados como especialistas além do quadro, nele ingressando, segundo a ordem de antiguidade, à medida que se verificarem vagas.\n\n6. As disposições do artigo 5.º só serão aplicadas depois de efectuados os provimentos nos termos do presente artigo.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "DL 569/70 arts. 3.º e 4.º: acrescem e extinguem lugares no quadro do mapa n.º 1, que só existe em imagem; alteração não textual, não aplicada.",
+  "instrucoes": [
+    "DL 569/70 art. 1.º: nova redação do art. 12.º; aplicada",
+    "DL 569/70 art. 2.º e 5.º: normas autónomas; ignoradas",
+    "DL 569/70 arts. 3.º e 4.º: alteram o quadro (mapa em imagem); não aplicáveis"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

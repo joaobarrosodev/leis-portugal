@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nSempre que haja queixa formulada pelo Grémio dos Armadores ou pela União dos Sindicatos de Oficiais, Mestrança e Marinhagem da Navegação Marítima, deve a autoridade marítima determinar uma inspecção extraordinária.\n\n§ único. Só serão consideradas as queixas que dêem entrada na repartição marítima pelo menos 24 horas antes da hora fixada para a saída do navio.",
+    "depois": "###### Artigo 7.º\n\nSempre que haja queixa formulada pelo Grémio dos Armadores, pela União dos Sindicatos de Oficiais, Mestrança e Marinhagem da Navegação ou por membros da tripulação em número nunca inferior a 10 por cento da lotação, deve a autoridade marítima determinar uma inspecção extraordinária.\n\n§ único. Só serão consideradas as queixas que dêem entrada na repartição marítima pelo menos 24 horas antes da hora fixada para a partida do navio.\n\n> Alterado pelo/a [Decreto-Lei n.º 47763](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47763-1967-312011), publicado em 1967-06-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:505203:por",
+    "alterador": "pt:dre:312011:por;pt:dre:554605:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º\n\nOs relatórios a que se referem os artigos 6.º e 8.º serão remetidos à 1.ª Repartição da Direcção da Marinha Mercante para a elaboração do relatório anual.\n\n§ único. Do relatório anual serão extraídas cópias para:\n\na) A Repartição Internacional do Trabalho;\n\nb) A Direcção-Geral de Saúde;\n\nc) O Ministério das Corporações e Previdência Social;\n\nd) O Grémio dos Armadores;\n\ne) A União dos Sindicatos de Oficiais, Mestrança e Marinhagem.",
+    "depois": "###### Artigo 9.º\n\nOs relatórios a que se referem os artigos 6.º e 8.º serão remetidos à 1.ª Repartição da Direcção da Marinha Mercante para a elaboração do relatório anual.\n\n§ único. Do relatório anual serão extraídas cópias para:\n\na) A Repartição Internacional do Trabalho;\n\nb) A Junta Nacional da Marinha Mercante;\n\nc) A Direcção-Geral de Saúde;\n\nd) O Ministério das Corporações e Previdência Social;\n\ne) O Grémio dos Armadores;\n\nf) A União dos Sindicatos de Oficiais, Mestrança e Marinhagem.\n\n> Alterado pelo/a [Decreto-Lei n.º 43509](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43509-1961-554605), publicado em 1961-02-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:505203:por",
+    "alterador": "pt:dre:312011:por;pt:dre:554605:por"
+  }
+]

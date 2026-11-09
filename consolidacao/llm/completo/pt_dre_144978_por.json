@@ -1,0 +1,44 @@
+{
+  "id": "pt:dre:144978:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - Os trabalhadores da Portugal Telecom, S. A., que sejam subscritores da Caixa Geral de Aposentações podem, até 31 de Dezembro de 1997, nos termos dos números seguintes, aposentar-se sem submissão a junta médica, desde que completem em alternativa:\n\na) 30 anos de serviço e 50 de idade;\n\nb) 25 anos de serviço e 55 de idade.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Artigo 4.º do alterador 1: revoga o diploma salvo as alíneas a) e b) do n.º 1 do artigo 1.º, 'que passa a reportar-se a 31 de Dezembro de 2005'. A revogação parcial do proémio do n.º 1 e a referência à nova data não são alterações textuais definidas; o n.º 1 ficou com o texto atual e apenas foram revogados os n.ºs 2 a 6 do artigo 1.º e os artigos 2.º a 5.º.",
+  "instrucoes": [
+    "Alterador 1, artigo 4.º: revogação do Decreto-Lei n.º 13/95 salvo alíneas a) e b) do n.º 1 do artigo 1.º; revogados os artigos 2.º a 5.º e os n.ºs 2 a 6 do artigo 1.º; n.º 1 mantido (ver nao_aplicavel).",
+    "Alterador 1, artigos 1.º a 3.º: regime próprio do novo diploma, não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

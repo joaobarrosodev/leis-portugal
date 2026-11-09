@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:413060:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Os alimentos compostos para animais, além do disposto no Regulamento de Preparação e Comércio de Alimentos para Animais, deverão obedecer às designações, tipos, características e condições seguintes:\n\n1.º As designações, tipos e características serão os constantes do quadro anexo a este diploma.\n\n2.º - a) O teor máximo de água para os tipos de alimentos incluídos no quadro anexo ao n.º 1.º deste artigo é de 13%, à excepção dos substitutos de leite, para os quais o teor máximo permitido é de 9%.\n\nb) O teor mínimo de gordura para os alimentos a que correspondem as designações B-300 e O-500 é de 13%, para aquele a que corresponde a designação S-848 é de 15% e para aquele a que corresponde a designação B-301 é de 18%.\n\n3.º O valor da proteína bruta solubilizada pela pepsina em HCl dos alimentos compostos para aves, suínos e ruminantes jovens não deverá ser inferior a 80% e nos restantes alimentos compostos a 75% do valor da proteína bruta.\n\n4.º Os alimentos compostos melaçados deverão conter um mínimo de 4% de açúcares totais expressos em sacarose. O teor máximo em água destes alimentos não poderá exceder 16%.\n\n5.º A designação referida no § 1.º do artigo 11.º do Regulamento de Preparação e Comércio de Alimentos para Animais para qualquer outro alimento que não conste da lista integrada no quadro referido no n.º 1.º será proposta pela competente Comissão Técnica de Normalização.",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "Para efeitos de comercialização, os alimentos compostos deverão ser convenientemente acondicionados, de forma inviolável, em embalagens perdidas, e acompanhados de dísticos, rótulos ou etiquetas, dos quais deverão constar obrigatoriamente:\n\na) Nome da empresa industrial ou comercial responsável;\n\nb) Designação e tipo do produto, de acordo com o quadro a que se refere o n.º 1.º do artigo 1.º desta portaria;\n\nc) Características do produto relativas aos componentes para os quais existam limites legalmente fixados;\n\nd) Indicações exigidas nos termos do § 2.º do artigo 2.º, sempre que haja incorporação de ureia ou de biureto;\n\ne) Data do fabrico;\n\ne facultativamente:\n\nf) Marca do produto;\n\ng) Indicação qualitativa dos alimentos simples utilizados em percentagem superior a 5;\n\nh) Indicação do valor energético em unidade adequada para a espécie e função a que o alimento se destina. No caso dos alimentos para aves, o valor energético será expresso em calorias metabolizáveis;\n\ni) Outras indicações julgadas convenientes pela empresa responsável.\n\n§ 1.º Quando a incorporação de suplementos alimentares ou aditivos for voluntariamente mencionada ou declarada, nos termos da legislação que vier a ser publicada sobre a matéria, deverá indicar-se a quantidade, por quilograma de alimento composto, de cada um dos elementos activos que o constituem e o prazo durante o qual o fabricante garante a sua actividade biológica.\n\n§ 2.º Quando haja incorporação de melaços acima de 5%, deverá apor-se, devidamente destacada, a designação «Melaçado».\n\n§ 3.º Todas as indicações contidas nos dísticos, rótulos ou etiquetas são da exclusiva responsabilidade das empresas a que se refere a alínea a) deste artigo.\n\n§ 4.º Para efeitos de fiscalização das características do produto a que se refere a alínea c) deste artigo e sem prejuízo do estabelecido no n.os 1.º, 2.º e 4.º do artigo 1.º e no § 1.º do artigo 2.º desta portaria, serão considerados os teores declarados nos dísticos, rótulos ou etiquetas com as seguintes tolerâncias:\n\na) +10% do valor indicado para os teores de água, celulose bruta, cinza total e cinza insolúvel no HCl 3N;\n\nb) -10% do valor indicado para os teores de proteína bruta até 14,9%.\n\n-5 do valor indicado para os teores de proteína bruta acima de 15%.\n\n+10% do valor indicado de azoto para o equivalente proteico do azoto proveniente da ureia ou do biureto adicionados;\n\nc) -5% do valor indicado para o teor de gordura;\n\nd) (mais ou menos) 0,20% para os limites estabelecidos para os teores de cálcio;\n\ne) (mais ou menos) 0,15% para os limites estabelecidos para os teores de fósforo;\n\nf) -5% do valor indicado para o teor em açúcares totais expressos em sacarose.\n\nNo cálculo e fixação das tolerâncias estabelecidas em percentagem dos teores indicados proceder-se-á sempre ao arredondamento à décima imediatamente superior em valor absoluto.\n\n§ 5.º No caso de se tratar de embalagens de papel ou de cartão, devem estas ser fabricadas com pastas isentas de materiais de recuperação de papéis ou trapos; se se tratar de embalagens confeccionadas com matérias plásticas artificiais ou de outro material, não devem estas originar qualquer inconveniente para a saúde dos animais.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "São revogados os artigos 6.º, 8.º e 9.º da [Portaria n.º 22767](https://diariodarepublica.pt/dr/detalhe/portaria/22767-1967-314055), de 5 de Julho de 1967, e as Portarias n.º 22921, de 23 de Setembro de 1967, e n.º 23896, de 4 de Fevereiro de 1969.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 155/74: nova redação do n.º 4.º do art. 1.º, do § 2.º do art. 3.º e do art. 5.º. Aplicado; o resto desses artigos mantém-se."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

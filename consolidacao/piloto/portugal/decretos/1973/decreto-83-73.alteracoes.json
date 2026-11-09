@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1. É autorizada a firma Philips Portuguesa, S. A. R. L., a estabelecer um depósito franco nas suas instalações fabris, situadas no lugar de Pardala (concelho de Ovar).\n\n2. As instalações referidas no n.º 1 deste artigo serão exteriormente resguardadas por uma vedação, de conformidade com o artigo 144.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965.\n\n3. Neste depósito franco a empresa propõe-se fabricar e montar bobinas, transformadores e componentes para aparelhos radiorreceptores e receptores de televisão, bem como para outros aparelhos electrónicos.",
+    "depois": "###### Artigo 1.º\n\n1. É autorizada a firma Philips Portuguesa, S. A. R. L., a estabelecer um depósito franco nas suas instalações fabris, situadas no lugar de Pardala (concelho de Ovar).\n\n2. As instalações referidas no n.º 1 deste artigo serão exteriormente resguardadas por uma vedação, de conformidade com o artigo 144.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965.\n\n3 - Neste depósito franco a empresa propõe-se fabricar e montar bobinas, transformadores e componentes para aparelhos radiorreceptores e receptores de televisão, bem como para outros aparelhos electrónicos, e ainda aparelhos receptores de radiodifusão e televisão.\n\n> Alterado pelo/a [Decreto do Governo n.º 72/84](https://diariodarepublica.pt/dr/detalhe/decreto-governo/72-1984-400424), publicado em 1984-11-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:684462:por",
+    "alterador": "pt:dre:400424:por"
+  }
+]

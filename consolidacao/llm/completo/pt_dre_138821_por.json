@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:138821:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1. O pessoal militar permanente privativo da Força Aérea e o pessoal civil contratado constante do mapa n.º 1 anexo ao presente diploma é aumentado aos efectivos da Força Aérea e integrado nos mapas I e V anexos ao [Decreto-Lei n.º 42066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42066-1958-342607), de 29 de Dezembro de 1968, conforme as especialidades, nos quadros de oficiais pilotos aviadores, técnicos de mecanografia e estatística, do serviço geral e nos do pessoal civil contratado de secretaria, de mecanografia e menor.\n\n2. Quando nos quadros de oficiais técnicos de mecanografia e estatística ou de civis contratados de mecanografia se verificarem, em determinados graus hierárquicos ou classes, vacaturas que não possam ser preenchidas por falta de candidatos com as necessárias condições, podem tais vacaturas ser ocupadas por pessoal dos mesmos quadros de graus hierárquicos ou categorias inferiores.",
+      "alterador": 4
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "O quadro do pessoal da Direcção do Serviço de Informática da Força Aérea será objecto de portaria do Chefe do Estado-Maior da Força Aérea será objecto de portaria do Chefe Força Aérea, sem alteração dos efectivos gerais autorizados para a Força Aérea.",
+      "alterador": 4
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 4 (DL 177/75), art. 4.º altera a nota do mapa n.º 1, que não é artigo do texto atual; e o '3. ...' da nova redação do art. 5.º remete para um n.º 3 que não existe no texto atual (ignorado). Dúvida: a nova redação dos arts. 5.º e 8.º corresponde em conteúdo aos atuais 8.º e 11.º, mas a instrução nomeia expressamente os arts. 5.º e 8.º do DL 409/70 e foi aplicada assim.",
+  "instrucoes": [
+    "Alterador 1 (DL 527/72): altera efectivos do DL 42066 — não é do original; ignorado.",
+    "Alterador 2 (Portaria 319/73): quadro orgânico de arquivistas — não altera texto do original.",
+    "Alterador 3 (DL 711/73): altera DL 41492 e DL 42066 — não é do original; ignorado.",
+    "Alterador 4 (DL 177/75), art. 1.º: mudança de designação do Serviço — não textual; art. 3.º: nova redação dos arts. 5.º (n.os 1 e 2) e 8.º aplicada; art. 4.º: nota do mapa n.º 1 — não aplicada.",
+    "Alterador 5 (DL 115/77): regras autónomas de recrutamento — sem alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

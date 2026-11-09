@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:173970:por",
+  "artigos": [
+    {
+      "chave": "33.º",
+      "epigrafe": "",
+      "texto": "Os fundos de fomento algodoeiro serão geridos em cada uma das províncias por uma comissão presidida pelo governador da província ou seu delegado e cujos vogais serão o director do respectivo instituto (quando este não for, como em regra deverá ser, o próprio delegado) e um ou dois dos seus chefes de serviços, a designar pelo governador, por forma que a comissão, em qualquer dos casos, seja composta de três membros.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 32.º: nova redacção do artigo 33.º; artigo substituído pelo texto dado (a nova redacção não traz o § único, que deixa de constar).",
+    "Alterador 1, arts. 27.º, 28.º e 29.º: remetem para os arts. 22.º e 23.º do original sem os alterar; nada a aplicar.",
+    "Alterador 1, art. 36.º: revoga o Decreto-Lei n.º 40405, não o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

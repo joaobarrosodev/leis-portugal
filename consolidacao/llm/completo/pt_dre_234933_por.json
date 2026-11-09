@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:234933:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do § 2.º do artigo 1.º (governador do Banco de Portugal) — absorvida pela revogação posterior.",
+    "Alterador 2, art. 49.º, n.º 1: revoga o Decreto-Lei n.º 48311 na totalidade — artigos 1.º e 2.º ficam (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:392817:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto Regulamentar n.º 33/83) não dá nova redação aos artigos do Decreto Regulamentar n.º 25/82: declara que os valores nele fixados são alterados nos termos do próprio diploma e fixa os novos montantes em normas próprias, com vigência própria (1 de Junho de 1983); não é uma alteração textual do original.",
+  "instrucoes": [
+    "Art. 1.º do DR 33/83: os valores do DR 25/82 são alterados nos termos do DR 33/83 — não aplicado ao texto (alteração por normas próprias).",
+    "Arts. 2.º a 4.º do DR 33/83: novos montantes do abono de família, abono complementar, subsídio vitalício e subsídios de nascimento, aleitação, casamento e funeral — normas próprias, não aplicadas ao texto.",
+    "Art. 5.º do DR 33/83: entrada em vigor do próprio diploma — não aplicável ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

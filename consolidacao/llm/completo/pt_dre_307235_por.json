@@ -1,0 +1,60 @@
+{
+  "id": "pt:dre:307235:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "As instituições de crédito sob a forma de empresa pública dispõem de um capital inicial, afectado pelo Estado, de montante não inferior ao legalmente exigido às restantes instituições de crédito do mesmo tipo.",
+      "alterador": 4
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1 - As instituições de crédito têm um fundo de reserva, sem limite máximo, constituído pela transferência de lucros líquidos, apurados em cada exercício, distribuídos nos termos do artigo 29.º\n\n2 - Além do fundo referido no número anterior, podem os conselhos de gestão das respectivas instituições, com prévio acordo do Ministro das Finanças, criar outros fundos e provisões necessários para prevenir riscos de depreciação ou prejuízos a que determinadas espécies de valores ou operações estejam particularmente sujeitas.\n\n3 - O Ministro das Finanças poderá fixar fundos de reserva de criação obrigatória, bem como critérios para a formação de provisões.",
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "1 - O conselho de gestão é composto por um mínimo de três e um máximo de sete membros, um dos quais é o presidente, podendo, quando as circunstâncias o recomendem, ser designado um vice-presidente.\n\n2. Os membros do conselho de gestão exercem as suas funções por períodos renováveis de três anos, podendo fazê-lo em comissão de serviço.\n\n3. Considera-se termo do período de três anos a data da aprovação das contas do último exercício.",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "O presidente e os restantes membros do conselho de gestão são nomeados pelo Conselho de Ministros, sob proposta do Ministro das Finanças, de entre pessoas que satisfaçam os requisitos de idoneidade e experiência exigidos aos administradores das restantes instituições de crédito do mesmo tipo.",
+      "alterador": 4
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "1 - O presidente será substituído, nas suas faltas ou impedimentos, do modo e pela ordem seguintes:\n\na) Pelo vice-presidente;\n\nb) Pelo membro mais antigo do conselho ou, em igualdade de circunstâncias, pelo mais velho.\n\n2. A regra de substituição estabelecida no número anterior aplica-se aos casos de vacatura do cargo, enquanto esta se verificar.",
+      "alterador": 3
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "",
+      "texto": "1 - Uma fracção dos lucros da instituição igual a 10% será destinada ao fundo de reserva mencionado no n.º 1 do artigo 4.º\n\n2 - Uma fracção dos lucros será destinada a remunerar os capitais estatutários atribuídos pelo Estado, nos termos do [Decreto-Lei n.º 75-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-a-1977-509011), de 28 de Fevereiro.\n\n3 - Uma fracção dos lucros, de importância a acordar com o Ministro das Finanças, será, eventualmente, destinada aos fundos e provisões indicados nos n.os 2 e 3 do artigo 4.º e à satisfação de quaisquer outros fins a designar pelo Ministro das Finanças.\n\n4 - O remanescente dos lucros reverterá para o Estado.",
+      "alterador": 2
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "",
+      "texto": "1 - Salvo quando em representação da instituição, é vedado aos membros do conselho de gestão e da comissão de fiscalização, bem como a todos os demais trabalhadores, fazer parte dos corpos gerentes de outra instituição de crédito ou nesta exercer cumulativamente quaisquer funções.\n\n2 - Os membros do conselho de gestão não poderão exercer quaisquer funções profissionais remuneradas fora da instituição ou ser membros dos corpos sociais de qualquer sociedade.\n\n3 - Os membros do conselho de administração ou de gestão das instituições de crédito do sector público poderão optar, uma vez cessadas as suas funções, pela carreira de gestor público ou pela de trabalhador bancário, em lugar de responsabilidade directiva ou a esse equiparado, a exercer em qualquer daquelas instituições por designação do Ministro das Finanças.\n\n4 - Sempre que os membros dos órgãos de gestão referidos no número anterior optem pela qualidade de trabalhador bancário, será considerado o tempo de exercício de quaisquer funções no sector público ou no sistema bancário.\n\n5 - Os demais trabalhadores da instituição não poderão exercer funções profissionais remuneradas fora dela ou ser membros dos corpos sociais de qualquer sociedade, salvo autorização expressa do conselho de gestão, que deverá ser renovada anualmente.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 450/76), art. 4.º: alarga até 30 de Junho de 1976, só para o exercício de 1975, o prazo do n.º 1 do artigo 28.º; derrogação transitória, não altera o texto do artigo 28.º.",
+  "instrucoes": [
+    "Alterador 1 (DL 450/76): arts. 1.º a 3.º regulam contas de 1974/1975, não dirigidos ao original; art. 4.º alarga prazo do art. 28.º só para 1975, não textual (ver nao_aplicavel).",
+    "Alterador 2 (DL 513/77), art. 1.º: nova redação dos artigos 4.º (n.os 1 a 3) e 29.º; aplicada.",
+    "Alterador 2 (DL 513/77), art. 2.º: nova redação do artigo 31.º (n.os 1 a 5); aplicada.",
+    "Alterador 3 (DL 176/79), art. 1.º: substitui o n.º 1 do artigo 10.º e o n.º 1 do artigo 16.º; aplicados, restantes números mantidos do texto atual.",
+    "Alterador 4 (DL 49/86), art. 4.º: nova redação dos artigos 3.º e 11.º; aplicada. Restantes artigos alteram outros diplomas, ignorados.",
+    "Alterador 5 (DL 282-A/90): transforma a SFP, E. P., em sociedade anónima; sem instrução dirigida ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

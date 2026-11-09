@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:447876:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Nenhum alterador traz instrução textual dirigida ao Decreto n.º 10/78: a Resolução 29/79 suspende juros sobre créditos da Finangeste; o DL 250/82 extingue a Finangeste E. P. e cria a S. A. R. L. (extinção de entidade, não alteração de texto); o DL 89/2015 revoga o DL 250/82, outro diploma.",
+  "instrucoes": [
+    "Alterador 1 (Resolução 29/79): suspende débito de juros; não altera o texto do original.",
+    "Alterador 2 (DL 250/82), art. 1.º, n.º 2: extingue a Finangeste E. P. criada pelo original; não é alteração textual, não aplicada.",
+    "Alterador 3 (DL 89/2015), art. 4.º: revoga o DL 250/82 e outros diplomas, não o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

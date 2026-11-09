@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:291849:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "O artigo 3.º do [Decreto-Lei n.º 44-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-b-1986-628280), de 7 de Março, passa a ter a seguinte redacção:\n\nArt. 3.º - 1 - A hora legal de Portugal continental coincide com o tempo universal coordenado, aumentado de sessenta minutos, no período compreendido entre a 1 hora UTC do último domingo de Setembro e a 1 hora UTC do último domingo de Março seguinte (período de hora de Inverno) e coincide com o tempo universal coordenado, aumentado de cento e vinte minutos, no período compreendido entre a 1 hora UTC do último domingo de Março e a 1 hora UTC do último domingo de Setembro seguinte (período de hora de Verão).\n\n2 - As mudanças de hora efectuar-se-ão adiantando os relógios de sessenta minutos à 1 hora UTC (às 2 horas de tempo legal) do último domingo de Março e atrasando-os de sessenta minutos à 1 hora UTC (às 3 horas de tempo legal) do último domingo de Setembro seguinte.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Rectificação n.º 172/92: no art. 1.º, n.º 2 do art. 3.º citado, 'à 1 hora de tempo legal' -> 'às 2 horas de tempo legal' e 'às 2 horas' -> 'às 3 horas'; aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

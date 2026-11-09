@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:342103:por
     title: Portaria n.º 946/2010
     publication_date: '2010-09-22'
-  - id: pt:dre:342103:por
-    title: Portaria n.º 946/2010
-    publication_date: '2010-09-22'
   - id: pt:dre:553953:por
     title: Portaria n.º 80/2012
     publication_date: '2012-03-27'
@@ -50,13 +47,13 @@ Manda o Governo, pelo Ministro de Estado e das Finanças, em cumprimento do disp
 
 ###### Artigo 2.º
 
-1 - A concessão pelo Estado de garantias pessoais ao abrigo do regime da Lei n.º 60-A/2008, de 20 de outubro, tem por objeto exclusivamente o cumprimento de obrigações assumidas em contratos de financiamento ou de emissão de dívida não subordinada, com um prazo mínimo de três meses e um prazo máximo de cinco anos.
+1 - A concessão pelo Estado de garantias pessoais ao abrigo do regime da [Lei n.º 60-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2008-383202), de 20 de outubro, tem por objeto exclusivamente o cumprimento de obrigações assumidas em contratos de financiamento ou de emissão de dívida não subordinada, com um prazo mínimo de três meses e um prazo máximo de cinco anos.
 
-2 - O prazo máximo referido no número anterior pode ir até aos sete anos quando se trate de concessão de garantia pessoal a uma emissão de obrigações hipotecárias ou de obrigações sobre o setor público nos termos do Decreto-Lei n.º 59/2006, de 20 de março.
+2 - O prazo máximo referido no número anterior pode ir até aos sete anos quando se trate de concessão de garantia pessoal a uma emissão de obrigações hipotecárias ou de obrigações sobre o setor público nos termos do [Decreto-Lei n.º 59/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2006-667889), de 20 de março.
 
 3 - Ficam excluídas do âmbito do presente regime as operações do mercado monetário de depósitos interbancário, as operações de dívida subordinada, as operações que já beneficiem de outro tipo de garantia, bem assim como as operações de financiamento realizadas em jurisdição que não observe padrões de transparência internacionalmente aceites.
 
-> Alterado pelo/a [Portaria n.º 946/2010](https://diariodarepublica.pt/dr/detalhe/portaria/946-2010-342103) e [Portaria n.º 80/2012](https://diariodarepublica.pt/dr/detalhe/portaria/80-2012-553953), publicado em 2012-03-27.
+> Alterado pelo/a [Portaria n.º 80/2012](https://diariodarepublica.pt/dr/detalhe/portaria/80-2012-553953), publicado em 2012-03-27.
 
 ###### Artigo 3.º
 

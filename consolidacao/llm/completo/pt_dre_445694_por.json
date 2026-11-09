@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:445694:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Portaria n.º 557/80 substitui o quadro de pessoal (mapa anexo a que se refere o artigo 5.º), que só vem em imagem; não altera o texto de nenhum artigo.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 557/80), n.º 1.º: substitui o quadro de pessoal pelo quadro anexo; só em imagem, não aplicado. N.os 2.º e 3.º: disposições próprias, não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

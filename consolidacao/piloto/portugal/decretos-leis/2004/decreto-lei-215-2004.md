@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:583413:por
     title: Decreto-Lei n.º 191/2005
     publication_date: '2005-11-07'
-  - id: pt:dre:502980:por
-    title: Decreto-Lei n.º 148/2013
-    publication_date: '2013-10-24'
 ---
 
 # Decreto-Lei n.º 215/2004
@@ -191,7 +188,7 @@ iv) Posições prescritas e marcas de homologação de dispositivos obrigatório
 
 ll) «Veículo» qualquer automóvel conforme com a definição constante na parte A do anexo II do Regulamento aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio.
 
-> Alterado pelo/a [Decreto-Lei n.º 191/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-2005-583413) e [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.
+> Alterado pelo/a [Decreto-Lei n.º 191/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-2005-583413), publicado em 2005-11-07.
 
 #### SECÇÃO II — Pedido de homologação CE de um dispositivo para visão indirecta quanto à instalação
 

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:684579:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Decreto do Governo n.º 29/83, artigo único: adita um n.º 4 ao artigo 4.º do «Decreto-Lei n.º 80/73, de 9 de Fevereiro», mas o preâmbulo diz que as dúvidas são sobre o Decreto-Lei n.º 80/83, de 9 de Fevereiro, e o novo n.º 4 fala de «titulares dos respectivos cursos», que nada tem a ver com o artigo 4.º do original (exploração ferroviária em concessão). A referência a 80/73 parece ser um erro por 80/83; o alvo é ambíguo e o aditamento não foi aplicado.",
+  "instrucoes": [
+    "DG 29/83, artigo único: aditamento do n.º 4 ao artigo 4.º — não aplicado; o alvo real parece ser o DL 80/83 (cursos), não o DL 80/73 (ferrovia)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

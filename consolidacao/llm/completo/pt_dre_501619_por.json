@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:501619:por",
+  "artigos": [
+    {
+      "chave": "33.º",
+      "epigrafe": "Direito aos dividendos",
+      "texto": "As acções objecto deste concurso são transmitidas incorporando o direito aos dividendos relativos ao exercício de 1993.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Rectificações ao preâmbulo («Assim:») e aos anexos II, III e IV do caderno de encargos não aplicadas: preâmbulo e anexos não constam do texto atual por artigos.",
+  "instrucoes": [
+    "Rect. art. 13.º, n.º 1: texto atual já rectificado; nada a mudar.",
+    "Rect. art. 26.º, n.º 3, alínea b): texto atual já completo; nada a mudar.",
+    "Rect. art. 30.º: texto atual já completo; nada a mudar.",
+    "Rect. art. 33.º: epígrafe «Direito aos dividendos»; aplicada.",
+    "Rect. preâmbulo e anexos II, III e IV: não aplicáveis (não constam do texto)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

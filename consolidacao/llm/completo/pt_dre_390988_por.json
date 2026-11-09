@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:390988:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 30/70: sem texto fornecido de artigos que alterem o original; nada a aplicar",
+    "DL 530/74: altera os artigos 405.º e 406.º e a tabela A do Código Administrativo e o Estatuto dos Distritos Autónomos (outros diplomas); ignorado",
+    "DL 399-B/84: altera os artigos 404.º e 406.º do Código Administrativo, incluindo o § 3.º do artigo 406.º cuja redação o art. 20.º do original fixara; é alteração ao Código, não ao original; ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

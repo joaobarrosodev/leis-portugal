@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:418398:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Rendimentos",
+      "texto": "1 - São considerados, para os efeitos referidos no artigo anterior, os seguintes rendimentos anuais ilíquidos:\n\na) Rendimentos do trabalho dependente e ou independente;\n\nb) Rendimentos comerciais, industriais e ou agrícolas;\n\nc) Rendimentos de capitais;\n\nd) Rendimentos prediais;\n\ne) Pensões.\n\nf) Outras prestações sociais compensatórias da perda ou inexistência de rendimentos concedidas no âmbito dos regimes de protecção social.\n\n2 - Os rendimentos compreendidos no âmbito das categorias enunciadas nas alíneas a) a e) do número anterior são os estabelecidos para as correspondentes categorias na legislação que regula o imposto sobre os rendimentos das pessoas singulares (IRS).\n\n3 - Não são considerados os rendimentos relativos a prestações familiares e ao subsídio por assistência de terceira pessoa concedidos no âmbito dos regimes de protecção social.",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Actuação das instituições ou serviços gestores das prestações",
+      "texto": "1 - Sempre que da obrigação de declarar anualmente os rendimentos resulte, por acção ou omissão, posicionamento em escalão de rendimentos de que venha a resultar valor de subsídio familiar a crianças e jovens inferior ao que vinha sendo concedido ao seu titular, devem as instituições gestoras das prestações observar os seguintes procedimentos:\n\na) Notificar os interessados de que o valor do subsídio familiar a crianças e jovens irá sofrer redução a partir do início do ano civil subsequente àquele em que a prova de rendimentos teve lugar, como consequência do posicionamento em escalão diferente daquele em que estavam posicionados;\n\nb) Conceder prazo até 31 de Dezembro do ano civil em que é feita a prova de rendimentos para os interessados requererem a respectiva rectificação de escalão, sendo caso disso;\n\nc) O não cumprimento do prazo referido na alínea anterior sem justificação atendível determina a concessão da prestação pelos montantes inferiores no ano civil subsequente àquele em que a prova de rendimentos teve lugar.\n\n2 - As instituições ou serviços gestores das prestações podem solicitar, sempre que se justifique, quaisquer elementos que permitam comprovar a veracidade das declarações de rendimentos prestadas pelos interessados, designadamente a especificação das despesas regulares dos agregados familiares.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DR 15/99), artigo único: nova redação do artigo 3.º com '...' nos n.os 1 (alíneas a) a e)) e 2 e aditamento da alínea f) ao n.º 1; mantidos o texto atual dessas unidades e o n.º 3, que a nova redação não menciona.",
+    "Alterador 1 (DR 15/99), artigo único: nova redação integral do artigo 9.º (n.os 1 e 2); copiada do alterador.",
+    "Alterador 2 (DL 176/2003), artigo 56.º, n.º 1, a): derrogação 'na parte relativa às prestações reguladas neste diploma' — revogação parcial condicional; não aplicada ao texto.",
+    "Alterador 3 (DL 133/2012), artigo 56.º, n.º 1, a): mesma derrogação condicional; não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

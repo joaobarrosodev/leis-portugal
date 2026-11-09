@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:370786:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "Se o prémio referido nos artigos 5.º e 6.º se destinar a contemplar aluno ou alunos de mais de um estabelecimento do mesmo ou de diferente grau de ensino ou de mais de um distrito escolar, a efectuação do depósito ou a instituição da renda vitalícia far-se-ão em nome da respectiva direcção-geral de ensino, respeitando-se, em tudo o mais, o estabelecido naqueles artigos.",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "1 - O quantitativo pecuniário do prémio será levantado pelo director de escola, director de distrito escolar, conselho directivo ou por quem as suas vezes fizer, consoante o caso.\n\n2 - Quando se verifique o disposto no artigo 7.º do presente diploma, o levantamento será efectuado pela respectiva direcção-geral de ensino, que, de imediato, deverá pôr à disposição do director da escola ou escolas, do director de distrito ou do conselho directivo do estabelecimento de ensino a que pertença o aluno ou alunos premiados as respectivas importâncias.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do art. 7.º (aplicada).",
+    "Alterador 1, artigo único: nova redação do n.º 2 do art. 12.º; n.º 1 '...' mantido (aplicada)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

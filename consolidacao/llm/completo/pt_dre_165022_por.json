@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:165022:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1: retificações nos números de referência 26 e 180 da tabela de selecção (anexo I ao Regulamento), que não consta do texto atual recebido; não aplicadas.",
+  "instrucoes": [
+    "Alterador 1: retificação de '7.2 - Conta de gerência' para '7.2.2 - Conta de gerência' (ref. 26) e de '18.1.9' para '18.2.9' (ref. 180) na tabela de selecção; anexo ausente, não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

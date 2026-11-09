@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:269400:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 5.º, n.º 1, al. b): revoga os n.os 2 e 3 do art. 7.º e o art. 8.º \"na parte em que contrariem\" o DL 16/2013; revogação condicional, não aplicada ao texto.",
+    "Alterador 1, art. 5.º, n.º 2: revogação genérica das normas contrárias; condicional, não aplicada.",
+    "Alterador 1, arts. 1.º a 4.º e 6.º: regime de juros autónomo, sem instruções textuais para o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

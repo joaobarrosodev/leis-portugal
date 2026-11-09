@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:261715:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Os limites da nova freguesia, conforme representação cartográfica anexa, são:\n\nA norte, acompanha o talvegue da foz do Rego desde o limite da freguesia de Costa da Caparica até à antiga Quinta do Oliva, que atravessa Daqui inflecte para nordeste e contorna o muro da Quinta da Regateira até à estrada nacional n.º 377, seguindo depois esta estrada para norte até ao cruzamento do Lazarim, onde conflui com a freguesia de Sobreda;\n\nA oeste, desde a foz do Rego, pelo limite da freguesia da Costa da Caparica, até ao limite do concelho.\n\nA sul, o limite do concelho;\n\nA leste, o limite do concelho até à Madalena e daqui por caminho a leste de Vale de Rosal, Conde, Bico e fábrica de cerâmica até Vale de Figueira.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º da Lei 22/86: dirigido à Lei 124/85; ignorado.",
+    "Art. 2.º da Lei 22/86: substitui o limite oeste do artigo 2.º; feito.",
+    "Art. 3.º da Lei 22/86: remete para representação cartográfica; não é alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

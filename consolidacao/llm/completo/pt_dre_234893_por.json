@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:234893:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alínea d) do n.º 1 do art. 15.º do DL 167/2014 revoga o DL 48283 'na parte respeitante às OGME': aplicada só ao artigo 2.º, que se refere expressamente às OGME; o artigo 1.º (mapa IV do DL 44322) não se identifica com segurança como respeitante só às OGME e fica como está.",
+  "instrucoes": [
+    "Art. 15.º, n.º 1, d), do DL 167/2014: revogação na parte respeitante às OGME - artigo 2.º revogado; artigo 1.º mantido por dúvida",
+    "Art. 15.º, n.º 2: revogação genérica de legislação complementar - não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

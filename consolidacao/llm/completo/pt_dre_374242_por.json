@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:374242:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 808/88): n.os 1.º e 2.º alteram as zonas de modulação do anexo II, que só vem em imagem (documento original) e não está no texto atual; não aplicado. Alterador 2 (DL 35/95): altera o Decreto-Lei n.º 188/88, não a Portaria; o seu art. 2.º, n.º 3 limita a vigência da Portaria sem alteração textual.",
+  "instrucoes": [
+    "Portaria 808/88 1.º e 2.º: municípios de Setúbal passam à zona de modulação III do anexo II; anexo só em imagem, não aplicado",
+    "Portaria 808/88 3.º: produção de efeitos; não textual",
+    "DL 35/95 art. 1.º: altera o DL 188/88 (outro diploma); ignorado",
+    "DL 35/95 art. 2.º n.º 3: vigência residual da Portaria; não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

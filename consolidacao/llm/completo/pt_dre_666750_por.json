@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:666750:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1. A comissão administrativa terá todos os poderes que, pela lei ou pelos estatutos, pertenciam, com ou sem prévia concordância dos corpos sociais, à direcção do Montepio Geral, com excepção:\n\na) Da faculdade de admissão, promoção, transferência, demissão ou alteração de remunerações ou quaisquer outras regalias dos trabalhadores;\n\nb) Da capacidade para a prática de actos que não estejam estritamente relacionados com as necessidades de gestão corrente da instituição.\n\n2. A prática de actos mencionados nas alíneas a) e b) do número anterior dependerá, em cada caso, de despacho de autorização dos Ministros das Finanças e dos Assuntos Sociais.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 366/75, art. 1.º: nova redação do n.º 1 do artigo 4.º (alíneas e n.º 2 mantidos); aplicado.",
+    "DL 729-M/75, art. 5.º: mantém em vigor as disposições que não contrariem o novo regime; revogação condicional, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

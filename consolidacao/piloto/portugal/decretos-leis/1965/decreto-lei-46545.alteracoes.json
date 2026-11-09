@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 6.º\n\nAs reclassificações atribuídas pela junta especial prevista no artigo 2.º, nas categorias de apurado para todo o serviço militar e de apto para serviços auxiliares, só poderão ser alteradas por uma junta especial com a constituição prevista no artigo 3.º\n\n> Aditado pelo/a [Decreto-Lei n.º 47683](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47683-1967-309538), publicado em 1967-05-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:510260:por",
+    "alterador": "pt:dre:309538:por;pt:dre:390784:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 7.º\n\nSão considerados compelidos ao serviço militar os indivíduos chamados à reclassificação que, tendo menos de 45 anos, não se apresentem à junta especial até ao último dia da incorporação do curso que se seguir à data marcada para a sua reclassificação.\n\n> Aditado pelo/a [Decreto-Lei n.º 47921](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47921-1967-390784), publicado em 1967-09-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:510260:por",
+    "alterador": "pt:dre:309538:por;pt:dre:390784:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 8.º\n\nSão considerados refractários ao serviço militar os indivíduos reclassificados nas categorias de apurados para todo o serviço militar e aptos para serviços auxiliares que, sem justificação bastante, não se apresentem, nas unidades a que tenham sido destinados, dentro do prazo fixado.\n\n> Aditado pelo/a [Decreto-Lei n.º 47921](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47921-1967-390784), publicado em 1967-09-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:510260:por",
+    "alterador": "pt:dre:309538:por;pt:dre:390784:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 9.º\n\nOs compelidos e refractários ao serviço militar, nos termos dos artigos 7.º e 8.º, podem ser obrigados a prestar serviço no quadro de complemento do Exército até ao dobro do tempo normal, transitando depois para o escalão e classe correspondentes à sua idade e ficando sujeitos às demais consequências atribuídas pela regulamentação em vigor àquelas situações militares.\n\n> Aditado pelo/a [Decreto-Lei n.º 47921](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47921-1967-390784), publicado em 1967-09-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:510260:por",
+    "alterador": "pt:dre:309538:por;pt:dre:390784:por"
+  }
+]

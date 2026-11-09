@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:421462:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL 109/90 altera a base II das bases anexas ao DL 208/87, cujo texto não consta do texto atual recebido (só o título 'BASES ANEXAS'); não aplicado.",
+  "instrucoes": [
+    "DL 109/90: nova redação da base II anexa - não aplicada por a base não existir no texto atual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

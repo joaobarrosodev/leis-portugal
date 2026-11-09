@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:264349:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1. São criados no quadro da Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa três lugares de auditor e três de técnico de 1.ª classe para prestarem serviço na Câmara Corporativa, nomeados pelo Presidente do Conselho, sob proposta do Presidente da Câmara, entre diplomados com um curso superior adequado ao exercício das respectivas funções.\n\n2. Os auditores e técnicos coadjuvarão os relatores dos pareceres em tudo o que por estes lhes seja incumbido.\n\n3. As funções de auditor e de técnico da Câmara Corporativa poderão ser desempenhadas em comissão de serviço por magistrados judiciais ou do Ministério Público ou por funcionários em que concorram os requisitos necessários, mas a comissão durará apenas até ao termo da legislatura em que tiver lugar, sendo-lhes contado para todos os efeitos legais o tempo de exercício nessas funções como prestado nos próprios quadros.\n\n4. Os lugares de auditor a que se refere o n.º 1 terão a categoria correspondente à letra E do quadro do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do n.º 1 do artigo 4.º; aplicada, restantes números mantidos."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -40,6 +40,10 @@ A Assembleia Regional dos Açores decreta, ao abrigo da alínea a) do artigo 229
 
 2 - O montante das indemnizações e os métodos de eliminação e destino final dos subprodutos animais resultantes será fixado tendo em conta o parecer técnico dos departamentos da administração regional autónoma com competência em matéria de sanidade animal e de ambiente e publicado na portaria referida no n.º 2 do artigo anterior.
 
+Aprovado pela Assembleia Regional dos Açores, na Horta, em 21 de Janeiro de 1987.
+
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
+
 > Alterado pelo/a [Decreto Legislativo Regional n.º 29/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2011-146215), publicado em 2011-11-16.
 
 Assinado em Angra do Heroísmo em 17 de Fevereiro de 1987.

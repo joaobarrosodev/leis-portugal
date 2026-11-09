@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:399205:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1 - As comissões venatórias de ilha têm a seguinte composição:\n\nTrês caçadores efectivos e dois suplentes;\n\nTrês representantes dos agricultores e dois suplentes;\n\nUm representante dos serviços florestais.\n\n2 - As comissões venatórias têm um presidente e um secretário, que serão sempre caçadores, eleitos pelos membros das respectivas comissões.",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "1 - As comissões reúnem ordinariamente por trimestre e extraordinariamente quando convocadas pelos respectivos presidentes, por iniciativa destes ou a solicitação da maioria dos seus membros.\n\n2 - Na convocatória para as reuniões extraordinárias deverão ser indicados expressamente os assuntos a tratar.\n\n3 - As reuniões só poderão efectuar-se quando esteja presente a maioria dos membros das comissões, incluindo o presidente ou o vogal que este designar para o substituir, sendo as deliberações tomadas por maioria de votos dos presentes.\n\n4 - Em caso de empate, o presidente ou o vogal que o substituir têm voto de qualidade.\n\n5 - De cada reunião será lavrada acta, que é assinada pelo presidente e pelo secretário.\n\n6 - Das decisões das comissões venatórias poderão os representantes dos agricultores ou dos serviços florestais apresentar recursos com efeito suspensivo ao Secretário Regional da Agricultura e Pescas, sempre que considerem lesados os interesses que representem.\n\n7 - Poderão participar nas reuniões das comissões venatórias, a solicitação destas, representantes de outros serviços que possuam ligações com os assuntos a debater.\n\n8 - As comissões venatórias ficam na dependência dos serviços florestais existentes nas respectivas ilhas, garantindo a Direcção Regional dos Recursos Florestais, através das direcções de serviços e administrações florestais, apoio administrativo ao seu funcionamento, bem como o pagamento das senhas de presença.",
+      "alterador": 1
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "Os representantes dos agricultores serão designados pelas respectivas associações de agricultores ou, na falta destas, pelos conselhos de ilha ou assembleias municipais territorialmente competentes.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (Decreto Legislativo Regional n.º 3/90/A), art. 40.º, b): revoga o diploma 'com efeito à data da entrada em vigor da regulamentação prevista no artigo 39.º', revogação dependente de facto futuro não determinado no pedido; não aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1: nova redação do art. 5.º (n.os 1 e 2), dos n.os 3 e 4 do art. 7.º (restantes mantidos) e do art. 13.º",
+    "Alterador 2, art. 40.º, b): revogação diferida e condicionada à futura regulamentação - não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

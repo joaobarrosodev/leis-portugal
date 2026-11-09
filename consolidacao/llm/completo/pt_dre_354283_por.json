@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:354283:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 a 8: alteram o quadro de pessoal do Centro de Saúde de Santa Cruz da Graciosa (mapa anexo) por quadros/mapas que só vêm em imagem; nenhum artigo do original é alterado.",
+  "instrucoes": [
+    "Alterador 1: pessoal de informática (em imagem) - não aplicado.",
+    "Alterador 2: serviço social (em imagem) - não aplicado.",
+    "Alterador 3: técnicos de diagnóstico e terapêutica (em imagem) - não aplicado.",
+    "Alterador 4: pessoal médico de clínica geral (em imagem) - não aplicado.",
+    "Alterador 5: novo quadro de pessoal (em imagem) - não aplicado.",
+    "Alterador 6: pessoal de apoio geral (em imagem) - não aplicado.",
+    "Alterador 7: pessoal de enfermagem (em imagem) - não aplicado.",
+    "Alterador 8: correção dos quadros (em imagem) - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

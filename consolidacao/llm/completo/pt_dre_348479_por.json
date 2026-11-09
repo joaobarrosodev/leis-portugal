@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:348479:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Os mapas I e II (quadros de pessoal) anexos ao DRR 12/2001/M são 'alterados e substituídos' pelos mapas anexos ao DRR 15/2002/M e, depois, pelos anexos ao DLR 5/2008/M (no texto dos artigos 26.º/27.º da orgânica); esses mapas só vêm em imagem e não são artigos, pelo que não se aplicou a substituição.",
+  "instrucoes": [
+    "DRR 15/2002/M: altera e revoga artigos da orgânica aprovada pelo DRR 2/96/M (outro diploma, ainda que 'com as alterações' do original); ignorado, salvo a substituição dos mapas I e II do original, só em imagem, não aplicada.",
+    "Acórdão TC n.º 18/2007: declara inconstitucionais normas do DRR 15/2002/M; não se dirige ao texto do original.",
+    "DLR 5/2008/M: altera a orgânica do DRR 2/96/M e o art. 3.º do DRR 15/2002/M (outros diplomas); substituição dos mapas I e II do original só em imagem, não aplicada.",
+    "DRR 19/2012/M: revoga o DRR 2/96/M (outro diploma); sem instrução dirigida ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

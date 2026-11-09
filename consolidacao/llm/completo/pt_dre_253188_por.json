@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:253188:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "O benefício referido no artigo 1.º apenas é concedido às empresas que cumpram as formalidades previstas no n.º 1 do artigo 2.º no prazo de 90 dias a contar da data em que tomaram conhecimento de terem sido autorizadas a proceder à reavaliação.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 119-F/83), artigo 1.º: nova redação do artigo 3.º; aplicado. Artigo 2.º: norma transitória autónoma; nada feito.",
+    "Alterador 2 (DL 126/87): permite conceder os benefícios da Lei 39/77 durante 1987; não altera o texto; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

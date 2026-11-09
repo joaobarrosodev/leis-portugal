@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:501237:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Este empréstimo vencerá o juro de 2,5 por cento ao ano e será levantado da seguinte maneira: 44000000$00 em 1960; 22000000$00 em 1961; 44000000$00 em 1962, e 22000000$00 em 1963.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 16.º: nova redação do artigo 2.º; aplicada. Restantes artigos do alterador dizem respeito a outros diplomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

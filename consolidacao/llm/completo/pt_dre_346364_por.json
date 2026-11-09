@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:346364:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Declaração de Rectificação n.º 41/2006: retifica o sumário e a epígrafe (entidade emitente), que não fazem parte do texto dos artigos; nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

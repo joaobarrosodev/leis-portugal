@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — (Composição do conselho directivo)\n\nO conselho directivo é composto por 1 presidente e 2 vogais.",
+    "depois": "###### Artigo 4.º — (Composição do conselho directivo)\n\nO conselho directivo é composto por um presidente e três vogais.\n\n> Alterado pelo/a [Portaria n.º 324/86](https://diariodarepublica.pt/dr/detalhe/portaria/324-1986-228577), publicado em 1986-06-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:180006:por",
+    "alterador": "pt:dre:228577:por;pt:dre:638920:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — (Enunciação dos serviços)\n\nO Centro dispõe dos seguintes serviços:\n\na) A Direcção de Serviços de Regimes de Segurança Social;\n\nb) A Direcção de Serviços de Acção Social;\n\nc) A Direcção de Serviços Administrativos;\n\nd) A Divisão de Gestão Financeira;\n\ne) A Divisão de Organização e Informática;\n\nf) A Divisão de Gestão de Pessoal e Apoio Técnico;\n\ng) O Centro de Relações Públicas e Documentação;\n\nh) O Serviço de Fiscalização;\n\ni) Os serviços locais.",
+    "depois": "###### Artigo 5.º — (Enunciação dos serviços)\n\nO Centro dispõe dos seguintes serviços:\n\na) A Direcção de Serviços de Regimes de Segurança Social;\n\nb) A Direcção de Serviços de Acção Social;\n\nc) A Direcção de Serviços Administrativos;\n\nd) A Divisão de Gestão Financeira;\n\ne) A Divisão de Organização e Informática;\n\nf) A Divisão de Gestão de Pessoal e Apoio Técnico;\n\ng) A Divisão de Contra-Ordenações;\n\nh) O Centro de Relações Públicas e Documentação;\n\ni) O Serviço de Fiscalização;\n\nj) Os serviços locais.\n\n> Alterado pelo/a [Portaria n.º 345/93](https://diariodarepublica.pt/dr/detalhe/portaria/345-1993-638920), publicado em 1993-03-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:180006:por",
+    "alterador": "pt:dre:228577:por;pt:dre:638920:por"
+  },
+  {
+    "artigo": "19.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 19.º-A — Divisão de Contra-Ordenações\n\nCompete à Divisão de Contra-Ordenações:\n\na) Organizar e instruir os processos de contra-ordenações;\n\nb) Elaborar relação dos processos arquivados;\n\nc) Propor a nomeação de defensor oficioso nos casos legalmente previstos;\n\nd) Propor a aplicação de coimas nos termos regulamentares;\n\ne) Determinar o montante de custas dos processos;\n\nf) Preparar os processos para decisão final;\n\ng) Remeter os processos a tribunal, nas circunstâncias legalmente previstas;\n\nh) Representar a instituição de segurança social na fase judicial da contra-ordenação;\n\ni) Organizar e actualizar ficheiros relacionados com os processos de contra-ordenações;\n\nj) Promover a emissão de orientações para os serviços que procedam à averiguação de infracções ou que, de qualquer modo, sejam chamados a colaborar;\n\nl) Recolher e tratar os necessários dados estatísticos.\n\n> Aditado pelo/a [Portaria n.º 345/93](https://diariodarepublica.pt/dr/detalhe/portaria/345-1993-638920), publicado em 1993-03-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:180006:por",
+    "alterador": "pt:dre:228577:por;pt:dre:638920:por"
+  }
+]

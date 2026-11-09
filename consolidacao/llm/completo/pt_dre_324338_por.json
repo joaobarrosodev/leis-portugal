@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:324338:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O artigo 14.º, n.º 1, do Decreto-Lei n.º 45/94 extingue o Gabinete de Navegabilidade do Douro, mas não revoga nem altera textualmente nenhum artigo do Decreto-Lei n.º 127/85; o Decreto-Lei n.º 25/95 só regula a sucessão do ex-GND, sem instruções textuais.",
+  "instrucoes": [
+    "Alterador 1 (DL 45/94), art. 14.º: extinção do GND, sem revogação expressa nem alteração textual; nada aplicado.",
+    "Alterador 2 (DL 25/95): transferência de direitos, obrigações e bens do ex-GND para a DRARN/N; não altera o texto; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

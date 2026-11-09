@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Transição de categoria\n\n1 - Os actuais tesoureiros-ajudantes principais, de 1.ª classe e 2.ª classe transitam para a categoria de tesoureiro-ajudante.\n\n2 - Para todos os efeitos legais, com excepção dos remuneratórios, o tempo de serviço prestado nas actuais categorias de tesoureiro-ajudante principal, de 1.ª classe e de 2.ª classe releva como se fosse prestado na categoria de tesoureiro-ajudante.",
+    "depois": "###### Artigo 4.º — Transição de categoria\n\n1 - Os actuais tesoureiros-ajudantes de 1.ª classe e de 2.ª classe transitam para a categoria de tesoureiro-ajudante.\n\n2 - Para todos os efeitos legais, com excepção dos remuneratórios, o tempo de serviço prestado nas actuais categorias de tesoureiro-ajudante de 1.ª classe e de 2.ª classe releva como se fosse prestado na categoria de tesoureiro-ajudante.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 27/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-300468), publicado em 1992-06-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:294152:por",
+    "alterador": "pt:dre:300468:por"
+  }
+]

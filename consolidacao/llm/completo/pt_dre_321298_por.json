@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:321298:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "Contingentes",
+      "texto": "1 - Na 1.ª fase as vagas fixadas para cada curso em cada estabelecimento de ensino superior são distribuídas por um contingente geral e por contingentes especiais.\n\n2 - São criados os seguintes contingentes especiais:\n\na) Contingente especial para candidatos oriundos da Região Autónoma dos Açores, a que são atribuídos 3,5% das vagas fixadas para a 1.ª fase;\n\nb) Contingente especial para candidatos oriundos da Região Autónoma da Madeira, a que são atribuídos 3,5% das vagas fixadas para a 1.ª fase;\n\nc) Contingente especial para candidatos emigrantes e familiares que com eles residam, a que são atribuídos 7%, acrescidos excepcionalmente de 2%, das vagas fixadas para a 1.ª fase;\n\nd) Contingente especial para candidatos que se encontrem a prestar serviço militar efectivo nos regimes de voluntariado ou de contrato, a que são atribuídos 2% das vagas fixadas para a 1.ª fase;\n\ne) Contingente especial para candidatos portadores de deficiência física ou sensorial, a que são atribuídos 1% das vagas fixadas para a 1.ª fase.\n\n3 - O resultado do cálculo dos valores a que se refere o número anterior:\n\na) É arredondado para o inteiro superior, se tiver parte decimal maior ou igual a 5;\n\nb) Assume o valor 1, se for inferior a 0,5.\n\n4 - As vagas atribuídas ao contingente geral são o resultado da diferença entre o número de vagas fixadas para a 1.ª fase e as vagas afectadas aos contingentes especiais nos termos dos n.os 2 e 3.",
+      "alterador": 1
+    },
+    {
+      "chave": "65.º",
+      "epigrafe": "Estudantes oriundos do território de Macau",
+      "texto": "1 - A título excepcional, para a candidatura à matrícula e inscrição no ano lectivo de 2000-2001, e para efeitos de aplicação do disposto no artigo 12.º, considera-se como residência em país estrangeiro a residência no território de Macau sob administração portuguesa.\n\n2 - Igualmente a título excepcional, consideram-se abrangidos, em segunda prioridade, pelo contingente especial para candidatos emigrantes e seus familiares, os estudantes que residiram no território de Macau sob administração portuguesa e que comprovem satisfazer aos requisitos que se encontravam previstos no n.º 2 do artigo 10.º do Regulamento do Concurso Nacional de Acesso ao Ensino Superior Público para Matrícula e Inscrição no Ano Lectivo de 1999-2000, aprovado pela [Portaria n.º 505-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/505-a-1999-449730), de 15 de Julho, reportada a contagem do prazo referido na alínea b) dessa norma ao momento da presente candidatura.\n\n3 - Ainda a título excepcional, os candidatos referidos nos n.os 1 e 2 têm prioridade absoluta na colocação até 2% das vagas do contigente especial para emigrantes portugueses e familiares que com eles residam.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 9.º: nova redação da alínea c) do n.º 2; resto mantido",
+    "Art. 65.º: aditado n.º 3"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

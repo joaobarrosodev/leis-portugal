@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:336353:por
     title: Decreto-Lei n.º 406/75
     publication_date: '1975-07-29'
-  - id: pt:dre:314468:por
-    title: Decreto-Lei n.º 427/75
-    publication_date: '1975-08-12'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -37,11 +34,9 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 ###### Artigo 2.º
 
-1 - (Revogado.)
+1. O Conselho Administrativo do Fundo de Fomento da Habitação é constituído pelo presidente, por um dos vice-presidentes a designar pelo Secretário de Estado da Habitação e Urbanismo e pelo director de Serviços de Finanças e Administração.
 
 2. Às reuniões do Conselho Administrativo assistirá um delegado do Tribunal de Contas, sem voto, devendo constar das actas os pareceres do referido delegado sempre que o Conselho delibere sobre matérias a que se referem os n.os 2 e 3 do artigo 17.º do [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), de 30 de Dezembro.
-
-> Alterado pelo/a [Decreto-Lei n.º 406/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1975-336353) e [Decreto-Lei n.º 427/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1975-314468), publicado em 1975-08-12.
 
 ###### Artigo 3.º
 
@@ -53,7 +48,13 @@ b) Vice-presidentes do mesmo;
 
 c) Seis funcionários do mesmo organismo exercendo funções de chefia, designados pelo Secretário de Estado da Habitação e Urbanismo.
 
-2. Os lugares de presidente e vice-presidente do Fundo podem ser desempenhados por oficiais do quadro permanente das Forças Armadas, por nomeação directa do Ministro do Equipamento Social e do Ambiente, com dispensa de quaisquer formalidades.
+2. Os lugares de presidente e de vice-presidente do Fundo são ocupados, em regime de comissão de serviço, por escolha e nomeação do Ministro do Equipamento Social e do Ambiente, com dispensa de quaisquer formalidades, entre:
+
+a) Oficiais do quadro permanente das forças armadas;
+
+b) Licenciados com curso superior adequado.
+
+2-A) Quando os agentes a que se refere a alínea b) do n.º 2 forem técnicos do Fundo, fica salvaguardado o seu regresso à situação anterior, qualquer que seja.
 
 3. Compete ao Conselho Directivo do Fundo de Fomento da Habitação:
 
@@ -72,6 +73,8 @@ e) Propor alteração à orgânica do Fundo de Fomento da Habitação.
 a) Têm direito a uma gratificação de 1000$00 por acumularem tais funções com as de chefia que exercem;
 
 b) São solidariamente responsáveis pela realização do programa anual de actividade aprovado.
+
+> Alterado pelo/a [Decreto-Lei n.º 406/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1975-336353), publicado em 1975-07-29.
 
 ###### Artigo 4.º
 
@@ -111,7 +114,15 @@ b) Os quadros do pessoal.
 
 4. Os funcionários nomeados para os cargos referidos no n.º 2 deste artigo terão os vencimentos correspondentes às letras D e E e as gratificações de 1000$00 e 500$00, consoante, respectivamente, se trate de directores de serviço ou de chefes de divisão.
 
-5. É criado o cargo de notário privativo do Fundo de Fomento da Habitação.
+5. Os agentes referidos na alínea a) do n.º 2 do artigo 3.º têm direito a:
+
+a) Contagem de tempo de serviço, tanto no serviço civil como no militar, para todos os efeitos previstos na lei;
+
+b) Percepção de diuturnidades, vencidas ou a vencer, nos termos do Decreto-Lei n.º 710/72 ou legislação subsequente, para além do vencimento e justificações correspondentes aos lugares que ocupam no Fundo.
+
+6. O disposto no número anterior aplica-se retroactivamente às situações já existentes.
+
+> Alterado pelo/a [Decreto-Lei n.º 406/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1975-336353), publicado em 1975-07-29.
 
 ###### Artigo 8.º
 

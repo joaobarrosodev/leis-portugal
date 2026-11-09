@@ -1,0 +1,47 @@
+{
+  "id": "pt:dre:477982:por",
+  "artigos": [
+    {
+      "chave": "39.º",
+      "epigrafe": "",
+      "texto": "Este processo será constituído por:\n\n1.º Descrição sumária do acidente;\n\n2.º Relatório do exame parcial dos prejuízos, levados a efeito por dois peritos militares qualificados, sempre que possível ambos oficiais ou sargentos do quadro do serviço de material, do ramo auto, cuja nomeação será superiormente solicitada pelo oficial instrutor do processo;\n\n3.º Declaração do chefe ou encarregado das oficinas da unidade ou do estabelecimento a que pertencer a viatura acidentada sobre a possibilidade ou impossibilidade de nelas ser efectuada a sua reparação, juntando também o orçamento definitivo no caso de tal reparação poder ser aí efectuada;\n\n4.º As declarações, com o mesmo objectivo, de quaisquer outros organismos de manutenção e reparação militares, no caso de as oficinas da unidade ou estabelecimento a que pertencer a viatura declararem não lhes ser possível efectuar a reparação desta;\n\n5.º Os orçamentos de três casas civis da especialidade, se as houver na área da unidade ou estabelecimento, sempre que a reparação da viatura não possa ter lugar em oficinas militares por razões de ordem técnica ou de economia;\n\n6.º O duplicado ou cópia autenticada do documento comprovativo do depósito efectuado nos termos do artigo 28.º, quando o arguido se tenha responsabilizado pelos prejuízos causados;\n\n7.º O visto do comandante da unidade ou chefe de estabelecimento.",
+      "alterador": 1
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "",
+      "texto": "O recurso a oficinas civis será sempre ditado por razões de ordem técnica ou económica devidamente expressas nos autos.",
+      "alterador": 1
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "",
+      "texto": "O processo assim instruído será directamente remetido à 3.ª Repartição da Direcção do Serviço de Material para que esta julgue da conveniência da reparação da viatura do ponto de vista técnico e logístico e, caso afirmativo, proceda à apreciação e aprovação do orçamento mais conveniente.",
+      "alterador": 1
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "",
+      "texto": "Obtida esta autorização, será ela directamente comunicada à unidade a que pertencer a viatura, com conhecimento ao quartel-general da respectiva região.\n\n§ único. Nesta comunicação mencionar-se-á sempre a matrícula da viatura, a identidade militar do respectivo condutor e o local e data do acidente.",
+      "alterador": 1
+    },
+    {
+      "chave": "51.º",
+      "epigrafe": "",
+      "texto": "A comunicação da autorização relativa à reparação da viatura militar e do exacto montante dos prejuízos por esta sofridos será prontamente feita à Repartição de Justiça e Disciplina do Ministério do Exército e à unidade a que pertencer a viatura, com conhecimento ao quartel-general da respectiva região.\n\n§ único. Nesta comunicação observar-se-á o disposto no § único do artigo 45.º, devendo ainda fazer-se referência aos restantes intervenientes.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 5.º do artigo 39.º (restantes números mantidos); aplicada.",
+    "Alterador 1, 1.º: nova redação do artigo 42.º; aplicada.",
+    "Alterador 1, 1.º: nova redação do artigo 43.º; aplicada.",
+    "Alterador 1, 1.º: nova redação do corpo do artigo 45.º; aplicada, § único mantido.",
+    "Alterador 1, 1.º: nova redação do corpo do artigo 51.º; aplicada, § único mantido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

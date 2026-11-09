@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:309041:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 1.º, n.º 2, da Portaria n.º 97-A/2013 dá nova redação ao n.º 1 da secção A do capítulo XI do anexo (tabela de taxas), que não consta do texto atual do original; não aplicado.",
+  "instrucoes": [
+    "Art. 1.º, n.º 1: mantém em vigor as tabelas; sem alteração textual.",
+    "Art. 1.º, n.º 2: altera o anexo (tabela não presente no texto atual); não aplicado.",
+    "Art. 2.º: produção de efeitos da portaria; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

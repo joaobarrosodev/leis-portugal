@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:185326:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alt.1 art. 9.º: 'É extinta a secção de contabilidade criada nos serviços de agricultura e veterinária pelo artigo 14.º' - extinção material do serviço, sem revogação nem nova redação do artigo 14.º; não é alteração textual.",
+  "instrucoes": [
+    "Alt.1 (Decreto 46068): disposições próprias para 1965 e alterações a outros diplomas (Decretos 45045, 45664, 44314, 41432, etc.) - não são do original, ignoradas.",
+    "Alt.1 art. 9.º: extinção da secção de contabilidade do artigo 14.º - não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

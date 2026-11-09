@@ -1,0 +1,59 @@
+{
+  "id": "pt:dre:199627:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Quando circunstâncias excepcionais o impuserem, poderá a estruturação das forças armadas em cada parcela ultramarina compreender, no todo ou em parte, conforme for decidido:\n\na) Comando-chefe;\n\nb) Comando militar;\n\nc) Comando naval;\n\nd) Comando aéreo;\n\ne) Forças de guarnição normal, compreendendo:\n\nUnidades militares, comandos de defesa marítima e unidades da Armada, bases aéreas e aeródromos-bases;\n\nEstabelecimentos militares;\n\nCampos de instrução;\n\nf) Forças de reforço, compreendendo:\n\nComandos operacionais;\n\nUnidades do Exército, da Armada e da Força Aérea;\n\nElementos de reforço dos órgãos de comando e dos serviços das forças de guarnição normal.\n\nA) Comando-chefe",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "O comando-chefe poderá ser constituído por:\n\na) Comandante-chefe;\n\nb) Comandantes-adjuntos do comandante-chefe;\n\nc) Quartel-general;\n\nd) Gabinete militar.",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "O comandante-chefe será nomeado por portaria do Chefe do Estado-Maior-General das Forças Armadas, de quem directamente depende, ouvidos o Ministro da Coordenação Interterritorial e o Chefe do Estado-Maior a que pertence, podendo, conforme os casos, ser graduado em posto superior ao seu, designadamente em oficial general.",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "1. Os comandantes militar, naval e aéreo serão os comandantes adjuntos do comandante-chefe para a conduta das operações, competindo-lhes em tal qualidade ser os conselheiros do comandante-chefe para o emprego operacional das forças dos respectivos ramos.\n\n2. Os comandantes-adjuntos exercem as suas funções em acumulação com os cargos de que são titulares.\n\n3. Para as províncias ultramarinas onde decorram operações militares ou de polícia e onde o comandante-chefe acumule esta função com a de governador, poderá eventualmente ser nomeado, sob proposta deste, um oficial general com a função de comandante-adjunto para a coordenação operacional, nomeadamente a relativa às operações militares não dependentes dos comandos militar, naval ou aéreo.\n\n4. A nomeação do oficial referido no n.º 3 terá de ser sempre objecto de portaria do Ministro da Defesa Nacional.\n\n5. Quando o comandante-chefe desempenhar também as funções de comandante militar, naval ou aéreo, poderá existir um comandante-adjunto para o ramo das forças armadas cujo comando aquele exercer por acumulação, o qual será normalmente general ou contra-almirante, conforme o respectivo ramo, terá hierarquia idêntica à dos comandantes referidos no n.º 1 deste artigo e nele delegará o comandante-chefe, na qualidade de comandante militar, naval ou aéreo, as funções que entender e ainda a competência para autorização de despesas dentro dos limites permitidos por lei.",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "A organização e a composição do quartel-general e do gabinete militar do comando-chefe serão fixadas por portaria do Chefe do Estado-Maior-General das Forças Armadas.",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "O comandante-chefe poderá requisitar aos comandos militares ou aos governos das províncias o pessoal militar ou civil necessário para preencher lugares previstos no quadro orgânico do comando-chefe.\n\nB) Comandos militar, naval e aéreo",
+      "alterador": 3
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "",
+      "texto": "Os casos omissos e duvidosos suscitados na aplicação deste diploma serão resolvidos por despacho do Chefe do Estado-Maior-General das Forças Armadas, ouvido, se for caso disso, o Ministro da Coordenação Interterritorial.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 153/70), artigo único: adita n.os 3 e 4 ao artigo 6.º; aditados.",
+    "Alterador 2 (DL 38/73), artigo único: adita n.º 5 ao artigo 6.º (n.os 1 a 4 com '...'); aditado, artigo 6.º final com n.os 1 a 5.",
+    "Alterador 3 (DL 18/75), art. 1.º: nova redação dos artigos 1.º (só proémio; alíneas a) a f) com '...' mantidas do texto atual), 4.º, 5.º, 7.º e 8.º; aplicada. A linha de secção 'A) Comando-chefe' / 'B) Comandos militar, naval e aéreo' que o texto atual tem no fim dos artigos 1.º e 8.º foi mantida.",
+    "Alterador 3 (DL 18/75), art. 2.º: adita o artigo 24.º; aditado. Art. 3.º (entrada em vigor) não é dirigido ao original.",
+    "Alterador 4 (DL 705/75): reorganiza as forças de Macau e extingue o Comando-Chefe em Macau; sem instrução textual dirigida ao original, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

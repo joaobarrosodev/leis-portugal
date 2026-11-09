@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1 - As repúblicas e os solares de estudantes de Coimbra constituídos de harmonia com a praxe académica consideram-se associações sem personalidade jurídica.\n\n2 - Sem prejuízo de outros meios de prova, consideram-se sempre verificados os requisitos bastantes para o reconhecimento da qualidade de república ou de solar de estudantes quando o reitor da Universidade de Coimbra os certificar, depois de consulta à Associação Académica e ao Conselho das Repúblicas, se este se encontrar em funcionamento.",
+    "depois": "###### Artigo 1.º\n\n1 - As repúblicas e os solares de estudantes do ensino superior constituídos de harmonia com a praxe académica ou usos e costumes universitários consideram-se associações sem personalidade jurídica.\n\n2 - Sem prejuízo de outros meios de prova, consideram-se sempre verificados os requisitos bastantes para o reconhecimento da qualidade de república ou de solar de estudantes quando o reitor da universidade o declarar, depois de consultadas as estruturas representativas dos estudantes e as estruturas representativas das repúblicas, se estas se encontrarem em funcionamento.\n\n> Alterado pelo/a [Lei n.º 12/85](https://diariodarepublica.pt/dr/detalhe/lei/12-1985-181398), publicado em 1985-06-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:601311:por",
+    "alterador": "pt:dre:181398:por"
+  }
+]

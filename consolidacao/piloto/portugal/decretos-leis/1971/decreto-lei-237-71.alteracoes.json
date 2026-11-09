@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "16.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 16.º\n\n1. É criado na Direcção-Geral dos Serviços Pecuários um corpo de inspectores de sanidade pecuária, a quem competirá, além do referido no artigo 2.º, desempenhar, relativamente aos matadouros referidos no artigo 6.º:\n\na) A inspecção e exame previstos no artigo 9.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), de 20 de Novembro de 1957;\n\nb) A fiscalização do cumprimento das regras, providências ou outras medidas estabelecidas em virtude da disposição legal referida na alínea precedente;\n\nc) Os poderes estabelecidos nos n.os 2.º, 3.º e 12.º do artigo 153.º do Código Administrativo;\n\nd) A fiscalização da execução dos regulamentos a que se refere o artigo 21.º\n\n2. O corpo de inspectores referido no número precedente exercerá igualmente a sua competência em relação aos matadouros industriais de carácter privado aprovados pela Comissão Permanente da Indústria de Abate que pretendam beneficiar do que relativamente a eles é estabelecido neste diploma.\n\n3. Constituem receita geral do Estado as taxas cobradas pelos serviços prestados pelos inspectores de sanidade pecuária, conforme forem aprovadas em portaria conjunta do Ministro das Finanças e do Secretário de Estado da Agricultura.",
+    "depois": "###### Artigo 16.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:643954:por",
+    "alterador": "pt:dre:666744:por"
+  }
+]

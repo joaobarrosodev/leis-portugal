@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:310414:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Os agentes das infracções previstas no [Decreto-Lei n.º 207-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-a-1975-146881), de 17 de Abril, quando detidos em flagrante delito, continuarão nessa situação até ao final do julgamento, salvo quando:\n\na) Por confissão espontânea ou por qualquer outro modo, tenham contribuído para a descoberta e apreensão das armas;\n\nb) Sejam meros portadores ou simples detentores, sem terem feito ou esboçado a intenção de deles fazerem uso proibido, de armas brancas ou outros instrumentos que, embora susceptíveis de ser usados como arma de agressão, possam, pelo seu formato e dimensões, ser considerados de porte frequente.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 328/76, art. 1.º: altera artigos do DL 207-A/75 (outro diploma); ignorado.",
+    "DL 328/76, art. 2.º: nova redação do art. 2.º; depois substituída pela do DL 462-A/76.",
+    "DL 462-A/76, art. 1.º: nova redação do art. 2.º; aplicada (redação final).",
+    "DL 462-A/76, art. 2.º: altera o DL 207-A/75; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

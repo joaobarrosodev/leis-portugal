@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:188357:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::27.º",
+      "epigrafe": "Definição das características dos óleos usados",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "A alínea c) do artigo 48.º do DL 85/2005 revoga também o anexo II da Portaria n.º 240/92, que não vem no texto atual (só há o anexo I, em imagem); a revogação do anexo II não foi aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1 (DL 85/2005), artigo 46.º, n.º 2: afasta a aplicação do artigo 27.º e do anexo II a certas instalações; não é alteração textual; nada feito.",
+    "Alterador 1 (DL 85/2005), artigo 48.º, alínea c): revoga o artigo 27.º e o anexo II; artigo 27.º do Regulamento marcado (Revogado.); anexo II ausente do texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

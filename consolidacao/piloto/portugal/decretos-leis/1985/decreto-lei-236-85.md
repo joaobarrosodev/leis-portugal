@@ -86,49 +86,49 @@ Nestes termos:
 
 Usando da autorização legislativa conferida pelo artigo 41.º da [Lei n.º 2-B/85](https://diariodarepublica.pt/dr/detalhe/lei/2-b-1985-190671), de 28 de Fevereiro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição o seguinte:
 
-###### Artigo 1.º — (Conceito)
+###### Artigo 1.º — Conceito
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 2.º — (Extensão)
+###### Artigo 2.º — Extensão
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 3.º — (Intervenção do INH)
+###### Artigo 3.º — Intervenção do INH
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 4.º — (Requisitos essenciais das empresas)
+###### Artigo 4.º — Requisitos essenciais das empresas
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 5.º — (Regime jurídico das habitações)
+###### Artigo 5.º — Regime jurídico das habitações
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 6.º — (Terrenos para construção)
+###### Artigo 6.º — Terrenos para construção
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 7.º — (Investimentos anual)
+###### Artigo 7.º — Investimentos anual
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 8.º — (Benefícios a conceder às empresas construtoras)
+###### Artigo 8.º — Benefícios a conceder às empresas construtoras
 
 1 - As empresas construtoras que sejam sujeitos de CDH usufruem dos seguintes benefícios:
 
@@ -146,55 +146,55 @@ d) Gratuitidade dos actos de registo predial inerentes ao objecto do CDH, inclui
 
 > Alterado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 9.º — (Obrigações das empresas)
+###### Artigo 9.º — Obrigações das empresas
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 10.º — (Controle da execução do contrato)
+###### Artigo 10.º — Controle da execução do contrato
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 11.º — (Condições do financiamento)
+###### Artigo 11.º — Condições do financiamento
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 12.º — (Garantia de compra)
+###### Artigo 12.º — Garantia de compra
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 13.º — (Intervenção do INH no financiamento de garantia de compra)
+###### Artigo 13.º — Intervenção do INH no financiamento de garantia de compra
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 14.º — (Valor de venda das habitações)
+###### Artigo 14.º — Valor de venda das habitações
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 15.º — (Valor da rendas das habitações)
+###### Artigo 15.º — Valor da rendas das habitações
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 16.º — (Comercialização das habitações)
+###### Artigo 16.º — Comercialização das habitações
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 17.º — (Benefícios a conceder aos adquirentes das habilitações)
+###### Artigo 17.º — Benefícios a conceder aos adquirentes das habilitações
 
 1 - (Revogado.)
 
@@ -212,35 +212,35 @@ b) Gratuitidade dos actos do registo predial.
 
 > Alterado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 18.º — (Valor máximo de venda nas segundas transmissões)
+###### Artigo 18.º — Valor máximo de venda nas segundas transmissões
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 19.º — (Incumprimento do contrato por parte das empresas construtoras)
+###### Artigo 19.º — Incumprimento do contrato por parte das empresas construtoras
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 20.º — (Aplicação)
+###### Artigo 20.º — Aplicação
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 21.º — (Disposição transitória)
+###### Artigo 21.º — Disposição transitória
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
-###### Artigo 22.º — (Regulamentação)
+###### Artigo 22.º — Regulamentação
 
 (Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
+> Revogado pelo/a [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), publicado em 1989-02-01.
 
 Visto e aprovado em Conselho de Ministros de 23 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes - José Veiga Simão - Carlos Montez Melancia.
 

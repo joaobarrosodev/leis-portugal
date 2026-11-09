@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:363882:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A Portaria n.º 168/80 altera alíneas e números dos anexos E, F e G e substitui o anexo H da Portaria n.º 575/79; os novos planos e coeficientes só vêm em imagem e os anexos não constam do texto atual; não aplicada.",
+  "instrucoes": [
+    "Portaria n.º 168/80, 1.º a 5.º: novas alíneas d) e h) do n.º 2 do anexo E, h) do n.º 2 e n.º 3 dos anexos F e G; quadros só em imagem, não aplicados.",
+    "Portaria n.º 168/80, 6.º: substituição do anexo H; só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

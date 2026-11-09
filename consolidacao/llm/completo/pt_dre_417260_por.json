@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:417260:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "As medidas preventivas referidas no artigo anterior consistem na sujeição a prévia autorização do IPPC e da Câmara Municipal de Lisboa, e sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, dos actos ou actividades seguintes:\n\na) Construção, reconstrução, ampliação de edifícios ou outras instalações;\n\nb) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;\n\nc) Derrube de árvores em maciço, com qualquer área;\n\nd) Destruição do solo vivo e do coberto vegetal.",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "O IPPC, a DGOT e a Câmara Municipal de Lisboa são competentes para promover a fiscalização do cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 2 e 3 (Decretos Regulamentares n.os 21/89 e 27/90): prorrogam por um ano o prazo do art. 1.º sem dar nova redação; alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação dos arts. 2.º e 3.º",
+    "Alterador 2: prorrogação do prazo do art. 1.º - não textual",
+    "Alterador 3: prorrogação do prazo do art. 1.º - não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

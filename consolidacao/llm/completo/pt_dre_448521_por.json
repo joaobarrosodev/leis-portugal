@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:448521:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "Os lugares do quadro a que se refere o artigo anterior serão providos mediante despacho do Secretário de Estado da Cultura, sob proposta da Academia, de acordo com as seguintes regras:\n\na) Primeiro-bibliotecário, segundo-bibliotecário ou terceiro-bibliotecário - nos termos do artigo 16.º do [Decreto-Lei n.º 46350](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46350-1965-294971), de 22 de Maio de 1965;\n\nb) Terceiro-oficial - mediante concurso de provas práticas e de entre indivíduos habilitados com o curso geral dos liceus ou equiparado, ou escriturários-dactilógrafos com mais de três anos de bom e efectivo serviço;\n\nc) Segundo-oficial - mediante concurso de provas práticas e de entre terceiros-oficiais com três anos de bom e efectivo serviço;\n\nd) Primeiro-oficial - mediante concurso de provas práticas e de entre segundos-oficiais habilitados com o curso geral dos liceus ou equiparado e com mais de três anos de bom e efectivo serviço;\n\ne) Catalogador de 2.ª classe - mediante concurso de provas práticas e de entre indivíduos habilitados com o curso geral dos liceus ou equiparado;\n\nf) Catalogador de 1.ª classe - de entre catalogadores de 2.ª classe com três anos de bom e efectivo serviço;\n\ng) Escriturário-dactilógrafo e contínuo - nos termos da lei geral.",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º-A",
+      "epigrafe": "",
+      "texto": "1 - A Secretaria é o serviço de apoio administrativo da Academia, competindo-lhe assegurar as funções relativas às áreas de administração de pessoal, expediente, arquivo, contabilidade, economato e património, secretariado e dactilografia.\n\n2 - À Secretaria compete ainda colaborar na composição e impressão do Boletim da Academia Nacional de Belas-Artes e das demais publicações académicas, bem como, de uma forma geral, apoiar a acção desenvolvida pela Academia no âmbito das suas atribuições.\n\n3 - A Secretaria é chefiada por um chefe de secção.",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º-B",
+      "epigrafe": "",
+      "texto": "1 - A Biblioteca é constituída por todas as publicações oferecidas à Academia ou por esta adquiridas.\n\n2 - O Arquivo contém os livros de actas, de posse e presença às sessões, relatórios, propostas, pareceres, colecções de fotografias e documentos ou outras espécies que não tenham cabimento na Biblioteca, e ainda documentos da Secretaria que devem ser conservados pelo seu valor histórico ou por imposição da lei.\n\n3 - A Biblioteca e o Arquivo funcionam sob orientação de um funcionário com competência técnica adequada.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (DL 371/98), artigo 2.º: o quadro de pessoal anexo (a que se refere o artigo 7.º) passa a ser o do mapa anexo, que só vem em imagem ('ver quadro no documento original'); não se pode aplicar textualmente.",
+  "instrucoes": [
+    "Alterador 1 (DL 418/78): nova redação do artigo 8.º com corpo '...' (mantido o proémio atual) e novas alíneas a) a g); aplicado, a antiga h) desaparece por a lista nova ter só sete alíneas.",
+    "Alterador 2 (DL 371/98), art. 1.º: aditados os artigos 4.º-A e 4.º-B, sem epígrafe; aplicado.",
+    "Alterador 2 (DL 371/98), art. 2.º: substituição do quadro de pessoal pelo mapa anexo em imagem; não aplicado (nao_aplicavel).",
+    "Alterador 3 (Portaria 297/99): altera o artigo 6.º da Portaria n.º 80/78, outro diploma; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

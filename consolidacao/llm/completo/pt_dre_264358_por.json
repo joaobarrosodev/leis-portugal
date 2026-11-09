@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:264358:por",
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "Alteração ao [Decreto-Lei n.º 83/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2000-275430), de 11 de Maio",
+      "texto": "Os artigos 23.º, 30.º e 31.º do [Decreto-Lei n.º 83/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2000-275430), de 11 de Maio, passam a ter a seguinte redacção:\n\n«Artigo 23.º\n\n[...]\n\n1 - ...\n\n2 - A autorização a que se refere o número anterior deve constar de documento escrito, datado e com a assinatura de quem exerce o poder paternal legalmente certificada, conferindo ainda, quando seja este o caso, poderes de acompanhamento por parte de terceiros, devidamente identificados.\n\n3 - ...\n\n4 - ...\n\nArtigo 30.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Funcionários de nacionalidade portuguesa, desde que não tenham a nacionalidade do país onde exercem funções, do quadro único de vinculação dos serviços externos do Ministério dos Negócios Estrangeiros, quando não tenham direito à emissão de passaporte diplomático;\n\ne) Pessoal de nacionalidade portuguesa, desde que não tenha a nacionalidade do país onde exercem funções, que integra o quadro único de contratação dos serviços externos do Ministério dos Negócios Estrangeiros, sempre que por imposição das autoridades locais do país em que residam tal se torne efectivamente indispensável ao exercício das respectivas funções, ou à sua correspondente acreditação local;\n\nf) Cônsules honorários quando de nacionalidade portuguesa, desde que não tenham a nacionalidade do país onde exercem funções.\n\n3 - ...\n\nArtigo 31.º\n\n[...]\n\n1 - ...\n\na) O Ministro dos Negócios Estrangeiros sempre que as situações ocorram fora do território nacional ou nos casos a que se referem as alíneas c) a f) do n.º 2 e o n.º 3 do artigo anterior;\n\nb) ...\n\nc) ...\n\n2 - ...\n\n3 - ...»\n\nVisto e aprovado em Conselho de Ministros de 26 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - António Jorge de Figueiredo Lopes.\n\nPromulgado em 26 de Abril de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 29 de Abril de 2004.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Lei 13/2005, artigo único): altera a redação dos arts. 30.º e 31.º do DL 83/2000 constante do artigo único do original: no art. 30.º n.º 2, alíneas d) e e) substituídas e aditada f); no art. 31.º n.º 1, nova alínea a). Aplicado no texto do artigo único.",
+    "Alterador 2 (DL 138/2006): sem texto que mencione o original; nada a aplicar.",
+    "Alterador 3 (DL 19/2018): altera e republica o DL 83/2000, outro diploma; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

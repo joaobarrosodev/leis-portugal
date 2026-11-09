@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:507636:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 1.º do Decreto 30/2007 substitui a planta anexa (só em imagem); art. 2.º concede de novo o direito de preferência até 31 de Maio de 2010 como norma própria, sem dar nova redação ao art. 3.º do Decreto 16/2004.",
+  "instrucoes": [
+    "Art. 1.º: substituição da planta — imagem, não aplicada",
+    "Art. 2.º: nova concessão do direito de preferência — sem nova redação do art. 3.º, não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

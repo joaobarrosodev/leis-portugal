@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:536860:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "A admissão e demissão do pessoal civil contratado serão feitas pelo Ministro do Exército, mediante proposta da Escola Prática de Engenharia, nos termos da legislação em vigor.\n\nO pessoal civil assalariado é admitido e despedido pelo comandante da Escola Prática de Engenharia, cumpridas as disposições legais em vigor e depois de ouvida a Direcção do Serviço de Pessoal, no que respeita à admissão do pessoal civil assalariado permanente.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do art. 2.º; aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -26,5 +26,19 @@
     "unidade": [],
     "diploma": "pt:dre:534413:por",
     "alterador": "pt:dre:482794:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — Cumprimento do aumento de efectivo\n\n1 - O plano referido no artigo anterior deve conduzir a um efectivo aleitante igual ou superior ao efectivo inicial, referido na alínea b) do n.º 2 do artigo 5.º, acrescido do número de direitos solicitados ao abrigo deste despacho.\n\n2 - O plano deve, no que respeita ao previsto na alínea c) do n.º 2 do artigo anterior, garantir que sejam atingidos, no 1.º ano pelo menos 25% do aumento de efectivo proposto, no 2.º ano pelo menos 50% e no 3.º ano os 100%.\n\n3 - O não cumprimento do plano no que respeita ao aumento do efectivo aleitante implica a reversão dos direitos não utilizados para a reserva nacional, ficando os agricultores impedidos de se candidatarem à referida reserva nos três anos subsequentes ao da atribuição dos direitos.",
+    "depois": "###### Artigo 6.º — Cumprimento do aumento de efectivo\n\n1 - O plano referido no artigo anterior deve conduzir a um efectivo aleitante igual ou superior ao efectivo inicial, referido na alínea b) do n.º 2 do artigo 5.º, acrescido do número de direitos solicitados ao abrigo deste despacho.\n\n2 - O plano deve, no que respeita ao previsto na alínea c) do n.º 2 do artigo anterior, garantir que sejam atingidos, no 1.º ano pelo menos 25% do aumento de efectivo proposto, no 2.º ano pelo menos 50% e no 3.º ano os 100%.\n\n3 - O não cumprimento do plano no que respeita ao aumento do efectivo aleitante implica a reversão dos direitos não utilizados para a reserva nacional, ficando os agricultores impedidos de se candidatarem à referida reserva nos três anos subsequentes ao da atribuição dos direitos.\n\n4 - Em derrogação do número anterior, não são excluídos do acesso à reserva nacional para os anos de 2007 e 2008 os agricultores que tenham cumprido os valores mínimos previstos no n.º 2 do presente artigo.\n\n> Alterado pelo/a [Despacho Normativo n.º 8/2007](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2007-1850890), publicado em 2007-01-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:534413:por",
+    "alterador": "pt:dre:1850890:por"
   }
 ]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1 - O pessoal militar da Guarda Fiscal que, por imposição ou escolha, for nomeado para prestar serviço temporariamente nas unidades das Regiões Autónomas da Madeira e dos Açores terá direito ao subsídio mensal de deslocação abaixo designado:\n\na) Oficiais - 5300$00;\n\nb) Sargentos - 4500$00;\n\ne) Praças - 3700$00.\n\n2 - Quando ao militar da Guarda Fiscal for fornecida, consoante os casos, habitação ou alojamento, ser-lhe-ão abonados apenas 2500$00.",
+    "depois": "###### Artigo 1.º\n\n1 - O pessoal militar da Guarda Fiscal que, por imposição ou escolha, for nomeado para prestar serviço temporariamente nas unidades das Regiões Autónomas dos Açores e da Madeira terá direito ao subsídio mensal de deslocação nos termos seguintes:\n\na) Oficiais ... 14000$00\n\nb) Sargentos ... 12000$00\n\nc) Praças ... 10000$00\n\n2 - Quando aos militares da Guarda Fiscal for fornecida, consoante os casos, habitação ou alojamento, ser-lhes-ão abonados os seguintes quantitativos:\n\na) Oficiais ... 6000$00\n\nb) Sargentos ... 5000$00\n\nc) Praças ... 4000$00\n\n> Alterado pelo/a [Decreto-Lei n.º 314/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1984-399650), publicado em 1984-09-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:561591:por",
+    "alterador": "pt:dre:399650:por"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:360106:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Reconhecimento de novos agrupamentos de produtores",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Nível de ajuda",
+      "texto": "1 - A ajuda é paga pelo INGA em função da quantidade de tabaco entregue até ao dia 15 de Fevereiro do ano seguinte à colheita na empresa de primeira transformação, com base no contrato de cultura celebrado entre o agricultor ou o agrupamento de produtores e a referida empresa.\n\n2 - O valor indicativo da ajuda é fixado em 2,98062 euros/quilograma para o tabaco do grupo I (variedade Virginia) e 2,38423 euros/quilograma para o grupo II (variedade Burley).\n\n3 - Caso venha a ser excedido o montante máximo da ajuda total atribuída para Portugal, o INGA procede a uma redução linear sobre o valor final da ajuda até 15 dias após a conclusão das entregas.\n\n4 - Na Região Autónoma dos Açores as entregas do tabaco devem ser efectuadas até ao dia 30 de Novembro do ano respeitante à colheita em curso.\n\n5 - A redução linear referida no n.º 3 deve ser efectuada sobre os produtores da Região Autónoma dos Açores sempre que seja excedido o montante total máximo da ajuda atribuída para esta região, que corresponde a 332 mil euros.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DN 16/2006, 1.º: aditados os n.os 4 e 5 ao art. 4.º; aplicado.",
+    "Rectificação n.º 1172/2010: rectifica o art. 18.º do DN 11/2010, cujo texto rectificado revoga o artigo 3.º do DN 36/2006; aplicada a revogação do art. 3.º (a correção 'anexo i' -> 'anexo ii' respeita ao DN 23/2005, ignorada)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:456778:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Estatutos de RESIESTRELA - Valorização e Tratamento de Resíduos Sólidos, S. A.::6.º",
+      "epigrafe": "Aumento de capital social",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 3.º (aditamento dos arts. 8.º e 9.º), art. 4.º (estatutos 3.º, 5.º, 7.º, 8.º, 13.º, 18.º) e art. 5.º (estatutos 24.º-A): já refletidos no texto atual",
+    "Art. 6.º b): revogação dos arts. 3.º, 4.º e 7.º — já refletida",
+    "Art. 6.º c): revogado o artigo 6.º dos estatutos — aplicado; restantes revogações já refletidas",
+    "Arts. 2.º e 6.º a): dirigidos ao DL 319-A/2001 — ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

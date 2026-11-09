@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:630643:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Lei n.º 34/84, artigo 1.º: os mapas I a V que substituem, na parte respectiva, os mapas I a V da Lei n.º 42/83 só vêm em imagem (ver documento original). Lei n.º 34/84, artigo 2.º: fixa o limite de 269 milhões de contos para os empréstimos referidos no n.º 1 do artigo 3.º, mas sem dar nova redação ao artigo; é alteração não textual, por isso não se aplica ao texto.",
+  "instrucoes": [
+    "Lei n.º 34/84, art. 1.º: altera o Orçamento e substitui, na parte respectiva, os mapas I a V; os mapas só vêm em imagem, por isso não foram aplicados (nao_aplicavel).",
+    "Lei n.º 34/84, art. 2.º: fixa em 269 milhões de contos o limite do n.º 1 do art. 3.º sem nova redação; alteração não textual, art. 3.º mantido.",
+    "Lei n.º 34/84, arts. 3.º e 4.º: normas autónomas, não alteram o original; ignorados.",
+    "Decreto-Lei n.º 3/85: usa a autorização da alínea b) do art. 19.º e suspende normas do Decreto-Lei n.º 304/83; não altera o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

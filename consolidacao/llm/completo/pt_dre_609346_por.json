@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:609346:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - A QUIMIGAL - Química de Portugal, S. A., tem inicialmente um capital social de 34006060000$00, que se encontra integralmente realizado pelo Estado à data da entrada em vigor do presente diploma.\n\n2 - O capital social é representado por acções do tipo A e do tipo B, com as seguintes características:\n\na) As acções do tipo A são nominativas e delas apenas podem ser titulares o Estado, pessoas colectivas de direito público ou outras entidades que, por imposição legal, pertençam ao sector público, sendo obrigatoriamente deste tipo as acções correspondentes à soma do capital social das empresas que foram objecto de nacionalização e às quais sucedeu a QUIMIGAL - Química de Portugal, E. P., agora objecto de transformação em sociedade anónima, e as acções adicionais necessárias para que 51% do capital social existente em cada momento seja detido pelas entidades acima referidas;\n\nb) As acções do tipo B são nominativas ou ao portador, podendo delas ser titulares entidades públicas ou privadas.\n\n3 - As acções representativas do capital subscrito pelo Estado serão detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestão poder ser cometida a uma pessoa colectiva de direito público ou a outra entidade que, por imposição legal, pertença ao sector público.\n\n4 - Os fundos públicos e organismos congéneres do sector público administrativo com receitas próprias, não integradas no Orçamento do Estado, e que, nos termos legais, apenas excepcionalmente possam recorrer a dotações do Estado podem subscrever acções representativas do capital social da QUIMIGAL - Química de Portugal, S. A., desde que para esse efeito sejam autorizados por despacho do Ministro das Finanças.\n\n5 - A alienação do capital social da QUIMIGAL - Química de Portugal, S. A., quando o Estado o julgue oportuno, será regulada nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183) de 5 de Abril, por decreto-lei específico.\n\n6 - Os direitos do Estado, como accionista da sociedade, são exercidos através de representante designado por despacho conjunto dos Ministros das Finanças e da Indústria e Energia, salvo quando a gestão das acções tenha sido confiada a outra entidade nos termos do n.º 3.\n\n7 - A alienação de capital social das sociedades resultantes da autonomização de áreas de actividade da QUIMIGAL - Química de Portugal, S. A., ainda que pela associação ou fusão com terceiros, para as quais tenham sido transferidos activos produtivos da mesma, bem como a da titularidade ou do direito de exploração de meios de produção nacionalizados, será feita por venda directa, precedida de consultas limitadas, competindo ao Conselho de Ministros a aprovação do caderno de encargos, a escolha dos adquirentes e a definição das condições específicas da transacção.\n\n8 - O produto total das alienações de participações sociais, incluindo as referidas no n.º 7, será integralmente aplicado na amortização da dívida da QUIMIGAL - Química de Portugal, S. A., e do respectivo equilíbrio económico-financeiro.\n\n9 - As disposições constantes dos n.os 7 e 8 vigoram apenas até que a resolução do Conselho de Ministros dê por findo o processo de reestruturação empresarial e reequilibro financeiro da QUIMIGAL - Química de Portugal, S. A.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do artigo 3.º; n.os 1 a 4 e 6 ('...') mantêm o texto atual, n.º 5 substituído e aditados os n.os 7 a 9."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

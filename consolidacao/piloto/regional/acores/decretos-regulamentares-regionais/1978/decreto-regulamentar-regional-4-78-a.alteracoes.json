@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1 - Dentro do prazo de trinta dias, a contar da data da publicação do presente diploma, o conselho de administração da Federação proporá à aprovação do Secretário Regional do Comércio e Indústria a nomeação de um engenheiro electrotécnico ou engenheiro técnico de electrotecnia e máquinas para desempenhar as funções de director-delegado dos seus serviços e, bem assim, o vencimento mensal que pretende atribuir-lhe.\n\n2 - Se o proposto pertencer aos quadros do Estado ou da Região, será considerado em comissão de serviço, mantendo todos os direitos e regalias como se permanecesse na efectividade do quadro.\n\n3 - Se o proposto não pertencer aos quadros do Estado ou da Região, deverá ser contratado pelo prazo de três anos, considerando-se o contrato sucessivamente renovado por períodos iguais se não for denunciado com antecedência de três meses relativamente ao termo do período em curso.",
+    "depois": "###### Artigo 2.º\n\n1 - O conselho de administração da Federação proporá à aprovação dos Secretários Regionais da Administração Pública e do Comércio e Indústria a nomeação de um engenheiro electrotécnico ou engenheiro técnico de electrotecnia e máquinas para desempenhar as funções de director-delegado dos seus serviços e, bem assim, o vencimento mensal que pretende atribuir-lhe.\n\n2 - Se o proposto pertencer aos quadros do Estado ou da Região, será considerado em comissão de serviço, mantendo todos os direitos e regalias como se permanecesse na efectividade do quadro.\n\n3 - Se o proposto não pertencer aos quadros do Estado ou da Região, deverá ser contratado pelo prazo de três anos, considerando-se o contrato sucessivamente renovado por períodos iguais se não for denunciado com antecedência de três meses relativamente ao termo do período em curso.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1978-325921), publicado em 1978-11-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:448926:por",
+    "alterador": "pt:dre:325921:por"
+  }
+]

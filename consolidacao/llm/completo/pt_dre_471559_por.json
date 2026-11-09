@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:471559:por",
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "",
+      "texto": "Fica autorizado o pagamento da remuneração por trabalhos extraordinários ao pessoal assalariado em serviço nos diversos departamentos do Ministério das Obras Públicas, incluindo os organismos de carácter eventual.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único: nova redação do artigo único: aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

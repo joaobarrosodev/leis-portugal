@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:157007:por",
+  "artigos": [
+    {
+      "chave": "21.º",
+      "epigrafe": "(Depósito de capitais)",
+      "texto": "1 - Os capitais das instituições são depositados, à ordem ou a prazo, na Caixa Geral de Depósitos, Crédito e Previdência ou em qualquer banco nacional.\n\n2 - Os depósitos a prazo serão objecto de deliberação do órgão competente da instituição, nos termos dos respectivos estatutos e tendo em conta as orientações técnico-normativas gerais, de carácter financeiro, do Instituto de Gestão Financeira da Segurança Social.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Decreto-Lei n.º 467/80, artigos 2.º e 3.º: prorrogam os prazos do n.º 3 do artigo 88.º (até 30 de Junho de 1982) e do artigo 89.º (até 31 de Março de 1981) sem dar nova redação a esses preceitos; não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do n.º 2 do artigo 21.º; n.º 1 ('...') mantido do texto atual. Aplicado.",
+    "Alterador 1, art. 2.º: prorrogação do prazo do n.º 3 do artigo 88.º; não textual, não aplicado.",
+    "Alterador 1, art. 3.º: prorrogação do prazo do artigo 89.º; não textual, não aplicado.",
+    "Alterador 2 (Decreto-Lei n.º 4/94): revoga o Decreto-Lei n.º 108/82; não se dirige ao original. Ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

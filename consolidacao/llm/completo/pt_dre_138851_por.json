@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:138851:por",
+  "artigos": [
+    {
+      "chave": "64.º",
+      "epigrafe": "",
+      "texto": "1. O capital da instituição de crédito estrangeira responde pelas operações que esta realizar através da sua dependência na província.\n\n2. O activo aplicado em Macau só responde pelas obrigações assumidas em outros países pela sede ou agências da instituição principal depois de satisfeitas todas as obrigações contraídas na província.\n\n3. As referidas instituições de crédito são obrigadas a aplicar em Macau a importância do capital afectado às operações na província, bem como as reservas aqui formadas e os depósitos aqui recebidos, podendo, todavia, ter como saldo credor na sede e sucursais no estrangeiro importância total não superior a 10 por cento do seu capital.\n\n4. Não se incluem no limite fixado no número anterior os créditos correspondentes a uma percentagem, a fixar pelo Governo da província, entre 40% e 20% do volume de depósitos de clientes em moeda estrangeira e dos que constituírem provisões para operações em curso.\n\n5. A sentença estrangeira que decretar a falência ou a liquidação de uma instituição de crédito domiciliada no estrangeiro só poderá aplicar-se à dependência que ela tenha na província, mesmo quando revista pelos tribunais portugueses competentes, depois de cumprido o disposto no n.º 2 deste artigo.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 523/74, artigo único: nova redação do n.º 4 do artigo 64.º; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:2298645:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "É classificado como Monumento de Interesse Público (MIP) o Solar do Conde de Bolhão, freguesia de Santo Ildefonso, concelho e distrito do Porto.",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "É fixada a respectiva zona especial de protecção do monumento de interesse público identificado no artigo anterior, conforme planta de delimitação constante do anexo à presente portaria, da qual faz parte integrante.»",
+      "alterador": 1
+    }
+  ],
+  "removidos": [
+    "único"
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Retificação: o artigo único passa a artigos 1.º e 2.º com a redação do 'deve ler-se'; a chave 'único' deixa de existir."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

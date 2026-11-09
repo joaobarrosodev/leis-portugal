@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:641676:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 art. 15.º: nova redação do anexo I do Regulamento (anexo XII do alterador), que não consta do texto por artigos; nenhum artigo muda.",
+  "instrucoes": [
+    "Alterador 1 art. 15.º: substitui o anexo I do Regulamento - não aplicável (fora dos artigos).",
+    "Alterador 1 arts. 2.º a 14.º, 16.º a 18.º: alteram outros diplomas - ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:272274:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Fica a Câmara Municipal de Lisboa autorizada a contrair um empréstimo externo, de montante não superior a 320000 contos, e a celebrar os contratos que forem necessários para a realização desta operação.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, artigo único: nova redação do art. 1.º (retira a moeda do empréstimo); aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

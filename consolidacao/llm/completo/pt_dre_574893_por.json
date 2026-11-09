@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:574893:por",
+  "artigos": [
+    {
+      "chave": "17.º",
+      "epigrafe": "Direcção de Serviços dos Assuntos Jurídicos",
+      "texto": "1 - A Direcção de Serviços dos Assuntos Jurídicos é composta por um director de serviços e por consultores jurídicos.\n\n2 - Ao director de serviços compete:\n\na) Superintender, acompanhar e coordenar, a nível regional, toda a actividade jurídica ligada aos assuntos comunitários relacionados com o seu âmbito de competência;\n\nb) Coordenar, a nível regional, todas as acções de carácter jurídico de adaptação e implementação relacionadas com a integração nas Comunidades Europeias;\n\nc) Colaborar na preparação de diplomas legislativos.\n\n3 - Aos consultores jurídicos compete exclusivamente exercer funções de mera consulta jurídica, nomeadamente:\n\na) Emitir pareceres e elaborar estudos jurídicos;\n\nb) Emitir pareceres sobre projectos e propostas de portarias, de decretos regulamentares regionais, decretos legislativos regionais e de outros diplomas legais.\n\n4 - Os técnicos superiores licenciados em Direito que, à data de entrada em vigor do presente diploma, estejam providos nos lugares da carreira técnica superior do quadro de pessoal da Direcção Regional para os Assuntos das Comunidades Europeias transitam para a carreira de consultor jurídico, sendo-lhes contado, para todos os efeitos legais, o tempo de serviço prestado na carreira e categoria anteriores.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Art. 2.º do alterador: substitui o quadro de pessoal da DRACE do anexo I por mapa anexo que só existe em imagem no documento original.",
+  "instrucoes": [
+    "Art. 1.º do alterador: nova redação do art. 17.º — aplicada.",
+    "Art. 2.º do alterador: novo quadro de pessoal (anexo I) — mapa em imagem, não aplicável.",
+    "Art. 3.º: entrada em vigor — autónoma."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

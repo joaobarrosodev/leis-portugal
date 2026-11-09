@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:629462:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DR 39/93 art. 1.º: 'A data limite de 31 de Dezembro de 1992 fixada no artigo 1.º do DR 30/91 é alterada para 31 de Dezembro de 1994' — alteração não textual (não dá nova redacção ao artigo 1.º), não aplicada ao texto.",
+  "instrucoes": [
+    "DR 39/93 art. 1.º: prorroga a data limite fixada no art. 1.º, sem nova redacção — não aplicado",
+    "DR 15/2007: altera e revoga artigos do DR 43/87 (outro diploma) — ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

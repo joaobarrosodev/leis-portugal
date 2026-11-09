@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:683780:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "A amortização dos empréstimos concedidos ao abrigo da [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946, e legislação complementar e destinados a arborizações florestais ou frutícolas terá início quando o arvoredo entrar em exploração.\n\n§ 1.º O capital do empréstimo vencerá juros a partir do ano seguinte ao da plantação, contando-se como ano completo o tempo que decorre desde a data da plantação até ao começo do ano seguinte.\n\n§ 2.º A importância a amortizar, capital e juros, poderá ser dividida em fracções, até três, fixando-se para essas fracções períodos de amortização, no total máximo de 30 anos, e dividindo-se a importância a pagar em cada período em prestações anuais e iguais.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "O artigo 1.º do Decreto-Lei n.º 46523 eleva para 60 contos o limite fixado no artigo 2.º do original, mas não dá nova redação a esse artigo (e o Decreto-Lei n.º 46523 é depois revogado pelo artigo 16.º do Decreto-Lei n.º 49294, que fixa o limite diretamente no Decreto-Lei n.º 43355); não é alteração textual do original, pelo que o art. 2.º fica como está.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: limite de 50 para 60 contos no art. 2.º do original, sem nova redação - não aplicado (ver nao_aplicavel)",
+    "Alterador 1, art. 2.º: regra autónoma sobre fiança bancária - não é do original, ignorada",
+    "Alterador 2, art. 13.º: altera o Decreto-Lei n.º 43355 - não é do original, ignorado",
+    "Alterador 2, art. 14.º: nova redação do § 1.º do art. 1.º - aplicada",
+    "Alterador 2, art. 16.º: revoga o Decreto-Lei n.º 46523 e outras normas de outros diplomas - sem efeito textual no original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

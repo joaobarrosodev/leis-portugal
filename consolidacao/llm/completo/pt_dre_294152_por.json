@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:294152:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Transição de categoria",
+      "texto": "1 - Os actuais tesoureiros-ajudantes de 1.ª classe e de 2.ª classe transitam para a categoria de tesoureiro-ajudante.\n\n2 - Para todos os efeitos legais, com excepção dos remuneratórios, o tempo de serviço prestado nas actuais categorias de tesoureiro-ajudante de 1.ª classe e de 2.ª classe releva como se fosse prestado na categoria de tesoureiro-ajudante.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigo 3.º: substituição do mapa IV anexo pelo mapa anexo ao DRR 27/92/A, que só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1 art. 1.º: altera o artigo 17.º do DRR 41/80/A (outro diploma): ignorado.",
+    "Alterador 1 art. 2.º: nova redação do artigo 4.º: aplicada.",
+    "Alterador 1 art. 3.º: substitui o mapa IV (imagem): não aplicado.",
+    "Alterador 2 (DLR 33/2004/A) art. 16.º: revoga o DRR 41/80/A com as redações dadas pelo 32/91/A; não revoga artigos do original: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

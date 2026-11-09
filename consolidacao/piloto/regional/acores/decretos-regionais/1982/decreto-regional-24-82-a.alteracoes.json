@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nOs senhorios que levarem a efeito, em fogos dados de arrendamento, quaisquer benfeitorias necessárias de carácter extraordinário podem, findos os respectivos trabalhos, requerer avaliação para fixação de nova renda, independentemente dos limites estabelecidos nos artigos anteriores.",
+    "depois": "###### Artigo 3.º\n\n1 - Os senhorios que levarem a efeito, em fogos dados de arrendamento, quaisquer benfeitorias necessárias de carácter extraordinário podem, findos os respectivos trabalhos, requerer avaliação para fixação de nova renda, independentemente dos limites estabelecidos nos artigos anteriores.\n\n2 - Sempre que a renda resultante da avaliação referida no número anterior exceder o dobro da renda praticada à data do pedido, a nova renda não será superior àquele limite nos 12 meses subsequentes à fixação.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 26/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1983-455116), publicado em 1983-08-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:374600:por",
+    "alterador": "pt:dre:455116:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\n1 - Em todos os demais arrendamentos não rurais aplica-se o disposto no artigo 2.º do presente diploma.\n\n2 - Porém, os arrendamentos para fins comerciais, industriais e para exercício de profissão liberal ficam sujeitos à legislação especial existente a nível nacional.",
+    "depois": "###### Artigo 8.º\n\nEm todos os demais arrendamentos não rurais aplica-se o disposto nos artigos 2.º e 3.º do presente diploma.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 26/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1983-455116), publicado em 1983-08-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:374600:por",
+    "alterador": "pt:dre:455116:por"
+  }
+]

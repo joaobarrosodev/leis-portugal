@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:378091:por",
+  "artigos": [
+    {
+      "chave": "1.º-A",
+      "epigrafe": "Gratificação do presidente",
+      "texto": "Ao presidente da comissão instaladora, referida no artigo anterior, poderá ser atribuída uma gratificação, por despacho conjunto dos Secretários Regionais das Finanças, Planeamento e Administração Pública e da Saúde e Segurança Social.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: aditado o artigo 1.º-A - aplicado. Nota: o preâmbulo do alterador refere a comissão instaladora do Centro de Oncologia dos Açores (DRR 33/89/A), o que não corresponde ao conteúdo do texto atual (GEPAP); aplicado conforme a instrução, que designa o DRR 33/88/A."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:165413:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 13.º do Decreto n.º 44736 dá nova redação ao § único do artigo 1.º, mas as características das moedas só vêm em imagem ('ver documento original'); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 13.º: nova redação do § único do art. 1.º com quadro só em imagem; não aplicado",
+    "Restantes artigos do Decreto n.º 44736 não se dirigem ao original; ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

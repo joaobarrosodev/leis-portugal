@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:394727:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto Regulamentar Regional n.º 2/82/A) substitui o quadro anexo do original por um quadro que só vem em imagem e acresce dois lugares ao quadro da Repartição dos Serviços Administrativos; nenhuma das alterações incide sobre o texto dos artigos e o quadro não está disponível em texto.",
+  "instrucoes": [
+    "Art. 1.º, n.º 1, do DRR 2/82/A: o quadro de pessoal passa a ser o do anexo (só em imagem) — não aplicado.",
+    "Art. 1.º, n.º 2, do DRR 2/82/A: acresce 2 lugares de primeiro-oficial ao quadro — não aplicado (alteração do quadro, não dos artigos)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

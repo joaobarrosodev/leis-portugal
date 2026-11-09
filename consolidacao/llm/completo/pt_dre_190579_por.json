@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:190579:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Decreto n.º 29/2013, art. 1.º: substitui o anexo (cartografia/planta) do Decreto n.º 31/2012, que só vem em imagem; não há alteração textual aos artigos.",
+  "instrucoes": [
+    "Art. 1.º: altera o anexo (planta) — só em imagem; não aplicado.",
+    "Art. 2.º: entrada em vigor e produção de efeitos; não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

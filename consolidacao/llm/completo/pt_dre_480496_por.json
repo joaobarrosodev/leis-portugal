@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:480496:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alt.1 (Decreto-Lei 587/72) muda a designação da Direcção-Geral e extingue a Direcção de Serviços da Habitação Económica criada pelo art. 2.º do original, sem dar nova redação nem revogar expressamente artigos do original; efeito não textual, não aplicado.",
+  "instrucoes": [
+    "Alt.1 art. 1.º: mudança de designação da Direcção-Geral (não textual).",
+    "Alt.1 art. 2.º: extinção da Direcção de Serviços da Habitação Económica e transferência de serviços (não textual).",
+    "Alt.1 arts. 3.º-5.º: extinção da Federação, alteração ao DL 446/70 e dúvidas; não dirigidos ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

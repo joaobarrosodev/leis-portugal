@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "16.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 16.º\n\nA direcção da Federação será composta por um presidente, um vice-presidente e três vogais, desempenhando um deles a função de tesoureiro e outro a de secretário.\n\n§ 1.º O presidente e o vice-presidente, que o coadjuva e o substitui na sua falta e impedimentos, são de livre nomeação do Ministro das Corporações e Previdência Social.\n\n§ 2.º Os vogais são eleitos pelo conselho geral da Federação de entre os presidentes ou vogais das direcções das caixas federadas.\n\n§ 3.º O tesoureiro não poderá ter em caixa quantia superior a 10000$00.",
+    "depois": "###### Artigo 16.º\n\nA direcção da Federação será composta por um presidente, dois vice-presidentes e três vogais, desempenhando um deles a função de tesoureiro e o outro a de secretário.\n\n§ 1.º O presidente e os vice-presidentes, que o coadjuvam e o substituem na sua falta e impedimentos, são de livre nomeação do Ministro das Corporações e Previdência Social.\n\n§ 2.º Os vogais são eleitos pelo conselho geral da Federação de entre os presidentes ou vogais das direcções das caixas federadas.\n\n§ 3.º O tesoureiro não poderá ter em caixa quantia superior a 10000$00.\n\n> Alterado pelo/a [Portaria n.º 19534](https://diariodarepublica.pt/dr/detalhe/portaria/19534-1962-155428), publicado em 1962-11-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514836:por",
+    "alterador": "pt:dre:155428:por"
+  }
+]

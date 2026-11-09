@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:218547:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O art. 16.º do DL 397/98 revoga a alínea c) do n.º 1 do artigo 2.º só «no que se refere à matéria abrangida pelo presente diploma» (comércio de armamento), mantendo-a quanto à produção; revogação parcial/condicional, não aplicada ao texto.",
+  "instrucoes": [
+    "DL 397/98, arts. 1.º a 15.º: regime autónomo do comércio de armamento; não altera o original",
+    "Art. 16.º: revogação da alínea c) do n.º 1 do art. 2.º restrita à matéria do diploma; condicional, não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

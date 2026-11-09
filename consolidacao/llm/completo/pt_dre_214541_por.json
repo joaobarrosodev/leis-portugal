@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:214541:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Portaria n.º 772/96: corrige o preâmbulo da Portaria n.º 511/96 (data da Assembleia Municipal), que não consta do texto atual dos artigos; não aplicada.",
+  "instrucoes": [
+    "Correção do preâmbulo: «11 de Fevereiro de 1996» -> «11 de Dezembro de 1995» — o preâmbulo não está no texto dos artigos; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -57,5 +57,33 @@
     "unidade": [],
     "diploma": "pt:dre:565978:por",
     "alterador": "pt:dre:693814:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — Instituição competente\n\nO requerimento deve ser apresentado na instituição que, à sua data, abranja o interessado, se o mesmo for beneficiário activo da Segurança Social, ou, caso contrário, no centro regional da área da sua residência, cabendo a decisão final do processo de reconhecimento ao respectivo órgão directivo.",
+    "depois": "###### Artigo 6.º — Instituição competente\n\n1 - O requerimento deve ser apresentado na instituição que, à sua data, abranja o interessado, se o mesmo for beneficiário activo da Segurança Social, ou, caso contrário, no centro regional da área da sua residência, cabendo a decisão final do processo de reconhecimento ao respectivo órgão directivo.\n\n2 - No caso de o interessado não residir em território nacional, a instituição competente para os efeitos do presente diploma é o Centro Regional de Segurança Social de Lisboa e Vale do Tejo.\n\n> Alterado pelo/a [Decreto-Lei n.º 465/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1999-693814), publicado em 1999-11-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:565978:por",
+    "alterador": "pt:dre:693814:por;pt:dre:197511:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º — Financiamento\n\nOs encargos com as prestações originadas com o reconhecimento a que se refere o presente diploma são suportados pela verba «Encargos com a descolonização» do Ministério das Finanças, o qual transfere, anualmente, para o Instituto de Gestão Financeira da Segurança Social as verbas necessárias, nos termos a estabelecer por despacho conjunto dos membros do Governo responsáveis pelas áreas do Orçamento e da Segurança Social.",
+    "depois": "###### Artigo 8.º — Financiamento\n\nOs encargos com as prestações originadas com o reconhecimento a que se refere o presente decreto-lei são suportados pela Direcção-Geral do Tesouro, através do capítulo 60 do Ministério das Finanças e da Administração Pública, a qual transfere, anualmente, para o Instituto de Gestão Financeira da Segurança Social as verbas necessárias.\n\n> Alterado pelo/a [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), publicado em 2006-12-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:565978:por",
+    "alterador": "pt:dre:693814:por;pt:dre:197511:por"
   }
 ]

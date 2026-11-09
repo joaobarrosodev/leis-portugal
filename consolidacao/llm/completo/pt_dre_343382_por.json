@@ -1,0 +1,57 @@
+{
+  "id": "pt:dre:343382:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Prescrição pela DCI",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Liberdade de escolha",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Comparticipação",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Modelo de receita médica",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Objectivos de crescimento",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Revogação",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DLR 2/2012/M, arts. 1.º e 2.º: nova redação dos arts. 2.º, 3.º e 4.º e revogação do n.º 2 do art. 4.º e do anexo; o texto atual já as reflete, nada a mudar.",
+    "DLR 29/2012/M, art. 6.º: revoga o DLR 16/2010/M na íntegra; arts. 1.º a 7.º ficam '(Revogado.)'.",
+    "DLR 29/2012/M, restantes artigos: regime próprio, sem alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

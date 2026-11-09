@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:644481:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 6.º: altera a redação das posições ex 29.39, 82.05, 85.15 e 85.19 da lista B anexa ao original; a lista B não é um artigo do texto atual por artigos (vem como anexo após as assinaturas) e a posição 82.05 não tem a mesma estrutura, pelo que não se aplica aos artigos. Arts. 1.º a 5.º e 7.º a 9.º dirigem-se a outros diplomas ou não são textuais.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: novos direitos de base — não textual, nada aplicado.",
+    "Alterador 1, arts. 2.º a 5.º e 7.º: alteram listas de outros diplomas — ignorados.",
+    "Alterador 1, art. 6.º: altera posições da lista B do original — lista em anexo fora dos artigos, não aplicado.",
+    "Alterador 1, arts. 8.º e 9.º: calendário e entrada em vigor — não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

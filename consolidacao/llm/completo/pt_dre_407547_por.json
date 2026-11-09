@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:407547:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A Portaria n.º 353/77 substitui a composição e distribuição do quadro constante da Portaria n.º 754/76 pelo mapa anexo, que só vem em imagem (ver documento original); não há texto a aplicar.",
+  "instrucoes": [
+    "Portaria 353/77: o quadro da Portaria 754/76 passa a ter a composição do mapa anexo — mapa só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

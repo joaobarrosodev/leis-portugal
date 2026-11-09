@@ -7,15 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:2628886:por
-    title: Despacho Normativo n.º 1/2011
-    publication_date: '2011-01-26'
-  - id: pt:dre:2086569:por
-    title: Despacho Normativo n.º 9/2011
-    publication_date: '2011-05-23'
   - id: pt:dre:3182253:por
     title: Despacho Normativo n.º 2/2013
     publication_date: '2013-01-23'
+  - id: pt:dre:2086569:por
+    title: Despacho Normativo n.º 9/2011
+    publication_date: '2011-05-23'
 ---
 
 # Despacho normativo n.º 27/2010
@@ -206,7 +203,7 @@ c) Implicar um aumento da ajuda aprovada.
 
 2 - Os pedidos de alteração são remetidos pela entidade receptora à respectiva entidade avaliadora no prazo de 5 dias úteis a contar da data da sua recepção, sendo, após avaliação, remetidos ao IFAP, I. P., no prazo de 10 dias úteis.
 
-> Alterado pelo/a [Despacho Normativo n.º 1/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2011-2628886) e [Despacho Normativo n.º 9/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2011-2086569) e [Despacho Normativo n.º 2/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2013-3182253), publicado em 2013-01-23.
+> Alterado pelo/a [Despacho Normativo n.º 2/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2013-3182253), publicado em 2013-01-23.
 
 ### CAPÍTULO III — Forma, execução, acompanhamento e controlo das ajudas
 
@@ -230,7 +227,7 @@ A execução material das candidaturas pode iniciar-se a partir de 1 de Setembro
 
 5 - Sem prejuízo do disposto no n.º 2 do presente artigo, os pedidos de pagamento para a medida 1B e para a medida 2A, relativo às acções efectuadas em cada trimestre de cada campanha, devem ser apresentados junto das entidades receptoras até um mês após o fim do respectivo trimestre.
 
-> Alterado pelo/a [Despacho Normativo n.º 1/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2011-2628886) e [Despacho Normativo n.º 9/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2011-2086569) e [Despacho Normativo n.º 2/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2013-3182253), publicado em 2013-01-23.
+> Alterado pelo/a [Despacho Normativo n.º 2/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2013-3182253), publicado em 2013-01-23.
 
 ###### Artigo 19.º — Análise dos pedidos de pagamento
 
@@ -239,6 +236,10 @@ A execução material das candidaturas pode iniciar-se a partir de 1 de Setembro
 2 - Os pedidos de pagamento devem ser remetidos ao IFAP, I. P., no prazo de 15 dias úteis a contar da data da recepção pelas entidades avaliadoras.
 
 3 - O prazo estabelecido no número anterior é de 30 dias seguidos, para os pedidos de pagamento dos beneficiários sujeitos a controlo.
+
+4 - Sem prejuízo do disposto nos números 2 e 3, para a campanha de 2013, o prazo máximo de remessa dos pedidos de pagamento ao IFAP, I.P., é o dia 31 de agosto, com exceção da medida 1B, em que a data limite de remessa é o dia 10 de setembro.
+
+> Alterado pelo/a [Despacho Normativo n.º 2/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2013-3182253), publicado em 2013-01-23.
 
 ###### Artigo 20.º — Pagamento
 
@@ -354,9 +355,11 @@ b) Ao GPP, no final de cada campanha, o relatório global sobre os resultados do
 
 3 - A DGV remete ainda ao GPP, até ao dia 12 de Dezembro de cada ano, o número de novas zonas controladas, o número de novos criadores de rainhas seleccionadas, a prevalência da varroa e a percentagem de análises não conformes realizadas pelo rastreio oficial.
 
-4 - As entidades avaliadoras remetem ao IFAP, I. P., no prazo de 30 dias úteis após a sua conclusão os resultados dos controlos efectuados ao abrigo do n.º 2 do artigo 21.º do presente diploma.
+4 - As entidades avaliadoras remetem ao IFAP, I. P., no prazo de 15 dias úteis após a sua conclusão, os resultados dos controlos efetuados ao abrigo do n.º 2 do artigo 21.º do presente despacho normativo.
 
 5 - Os resultados das verificações de desvios nos termos do n.º 4 do artigo 22.º são comunicados ao IFAP, I. P., pelas respectivas entidades avaliadoras no prazo de 15 dias úteis após o seu apuramento.
+
+> Alterado pelo/a [Despacho Normativo n.º 2/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2013-3182253), publicado em 2013-01-23.
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
@@ -376,7 +379,7 @@ b) Ao GPP, no final de cada campanha, o relatório global sobre os resultados do
 
 7 - Os pedidos de pagamento relativos às despesas realizadas antes da data de aprovação das candidaturas para a campanha de 2011 devem ser apresentados no prazo de 30 dias seguidos após a respectiva aprovação financeira.
 
-> Alterado pelo/a [Despacho Normativo n.º 1/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2011-2628886) e [Despacho Normativo n.º 9/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2011-2086569) e [Despacho Normativo n.º 2/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2013-3182253), publicado em 2013-01-23.
+> Alterado pelo/a [Despacho Normativo n.º 9/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2011-2086569), publicado em 2011-05-23.
 
 ###### Artigo 27.º — Entrada em vigor
 

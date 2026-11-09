@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:664336:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1130-B/99): só traz duas novas redações de um 'Artigo 2.º — Conteúdo' (uma do PP3, outra do PP4), sem a instrução de alteração; no texto atual há dois artigos com a mesma chave '2.º' (Regulamento do PP4 e Regulamento do PP3), pelo que o alvo é ambíguo e não se sabe se o resto dos regulamentos foi também alterado. Não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 1130-B/99): novas redações do artigo 2.º dos regulamentos do PP3 e do PP4 sem instrução explícita e com chave '2.º' duplicada no original: não aplicado (nao_aplicavel).",
+    "Alterador 2 (Decreto-Lei n.º 24/2000): altera o artigo 3.º do Decreto-Lei n.º 98/99, não o original: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:261325:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "Execução dos projectos",
+      "texto": "A data limite de execução dos projectos aprovados e apresentação do pedido de pagamento no âmbito do presente regime é 18 de Novembro de 2003, excepto para as medidas de carácter sócio-económico, em que esta data é 30 de Outubro de 2004.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, n.º 1.º: nova redação do art. 11.º (18 de Novembro de 2003); aplicado e depois substituído pelo alt. 3.",
+    "Alt. 2: prorrogação de prazos de candidatura e regras próprias; não altera o texto do original.",
+    "Alt. 3, n.º 1.º: nova redação do art. 11.º (medidas sócio-económicas até 30 de Outubro de 2004); aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "pt:dre:693412:por",
+  "artigos": [
+    {
+      "chave": "18.º",
+      "epigrafe": "",
+      "texto": "A comercialização do algodão ultramarino far-se-á em moldes semelhantes aos praticados no mercado internacional, a partir da campanha 1968-1969.",
+      "alterador": 1
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "Aos Ministros do Ultramar e da Economia, ouvidos os governos das províncias ultramarinas interessadas e a Comissão Reguladora do Comércio do Algodão em Rama, compete fixar, até 31 de Maio de cada ano, os preços que vigorarão no abastecimento obrigatório do mercado nacional com o algodão ultramarino da respectiva colheita.",
+      "alterador": 2
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "",
+      "texto": "Sobre cada quilograma de algodão em rama produzido incide uma taxa que constituirá receita do Instituto do Algodão, a qual não deverá exceder 5 por cento do preço C. I. F. fixado para as ramas de algodão na metrópole.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1: nova redação do artigo 18.º - aplicada.",
+    "Alt.2 art. 1.º e 3.º: regime de liberalização e competência dos Governos-Gerais - normas próprias, não alteram o original.",
+    "Alt.2 art. 2.º: nova redação do artigo 26.º - aplicada.",
+    "Alt.2 art. 4.º: altera o Regulamento do Comércio de Algodão (Decreto 47739) - não é do original, ignorada.",
+    "Alt.2 art. 5.º: nova redação do artigo 20.º (passa a corpo único) - aplicada.",
+    "Alt.2 art. 6.º: revogados os artigos 19.º e 21.º - aplicados; revogação do art. 30.º do DL 40405 ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

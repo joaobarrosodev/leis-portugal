@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "27.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 27.º — (Atrasos nos pagamentos)\n\n1. No caso de o assinante de um posto não efectuar o pagamento das taxas devidas dentro do prazo de vinte dias, a contar da data da apresentação do respectivo documento de cobrança, as ligações do posto serão cortadas.\n\n2. Satisfeitos os débitos em atraso nos dez dias seguintes ao corte das ligações previsto no número anterior, o restabelecimento das ligações será efectuado depois de paga a correspondente taxa fixada no tarifário. No caso, porém, de se manter a falta de pagamento, considerar-se-á a concessão como caduca, sendo o material do posto levantado e as taxas em dívidas cobradas coercivamente, por intermédio das execuções fiscais.",
+    "depois": "###### Artigo 27.º — (Atrasos nos pagamentos)\n\n1 - No caso de o assinante de um posto não efectuar o pagamento das taxas devidas dentro do prazo de doze dias a contar da data da apresentação do respectivo documento de cobrança, as ligações do posto serão cortadas.\n\n2 - Satisfeitos os débitos em atraso nos oito dias seguintes ao corte das ligações previsto no número anterior, será promovido imediatamente o restabelecimento das ligações, sendo a correspondente taxa do tarifário incluída na factura do mês seguinte. No caso, porém, de se manter a falta de pagamento, considerar-se-á a concessão como caduca, sendo o material do posto levantado e as taxas em dívida cobradas coercivamente, por intermédio das execuções fiscais.\n\n> Alterado pelo/a [Portaria n.º 85/79](https://diariodarepublica.pt/dr/detalhe/portaria/85-1979-393616), publicado em 1979-02-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:676624:por",
+    "alterador": "pt:dre:393616:por;pt:dre:563273:por"
+  },
+  {
+    "artigo": "43.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 43.º — (Deficiências e interrupções de serviço)\n\nOs CTT obrigam-se a fornecer um serviço telex eficiente, quer em rapidez de estabelecimento de comunicações, que em qualidade de transmissão, e a desenvolver todos os esforços para corrigir demoras, dificuldades de selecção, perturbações na transmissão ou interrupções do serviço, não assumindo, porém, qualquer responsabilidade pelas deficiências verificadas ou pelas consequências delas resultantes.\n\nMinistério das Comunicações, 8 de Agosto de 1972. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.",
+    "depois": "###### Artigo 43.º — (Deficiências e interrupções de serviço)\n\n1 - Os CTT obrigam-se a fornecer um serviço telex eficiente, quer em rapidez de estabelecimento de comunicações, quer em qualidade de transmissão, e a desenvolver todos os esforços para corrigir demoras, dificuldades de selecção, perturbações na transmissão ou interrupções do serviço, não assumindo, porém, qualquer responsabilidade pelas deficiências verificadas ou pelas consequências delas resultantes.\n\n2 - Todavia, se o funcionamento de um posto telex sofrer, por motivo de avaria ou por exigência dos serviços, interrupção superior a três dias, ao assinante será descontada a importância correspondente ao número de dias que tiver durado a interrupção, na razão de um trigésimo de assinatura mensal por cada dia de interrupção.\n\n3 - As interrupções que forem devidas a abalos sísmicos, inundações ou outros casos de força maior não dão lugar a qualquer compensação.\n\n> Alterado pelo/a [Portaria n.º 813/81](https://diariodarepublica.pt/dr/detalhe/portaria/813-1981-563273), publicado em 1981-09-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:676624:por",
+    "alterador": "pt:dre:393616:por;pt:dre:563273:por"
+  }
+]

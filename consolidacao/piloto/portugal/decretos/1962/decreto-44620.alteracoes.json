@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nPoderão inscrever-se nos cursos regulares do Instituto de Estudos Sociais os indivíduos que tenham, pelo menos, 16 anos e possuam alguma das seguintes habilitações:\n\na) O curso complementar dos liceus;\n\nb) Curso dos institutos de ensino médio que habilite à admissão em escola superior;\n\nc) O curso geral dos liceus ou equivalente, desde que aprovados em exame de aptidão.",
+    "depois": "###### Artigo 7.º\n\nPoderão inscrever-se nos cursos regulares do Instituto de Estudos Sociais os indivíduos que possuam, pelo menos, algumas das seguintes habilitações:\n\na) O curso complementar dos liceus;\n\nb) O curso dos institutos de ensino médio que habilite à admissão em escola superior.\n\n§ único. As habilitações equivalentes a qualquer dos cursos referidos nas alíneas a) e b) deste artigo apenas permitirão a inscrição nos cursos regulares do Instituto de Estudos Sociais desde que essas equivalências sejam concedidas para efeito de sequência de estudos.\n\n> Alterado pelo/a [Decreto n.º 48429](https://diariodarepublica.pt/dr/detalhe/decreto/48429-1968-272391), publicado em 1968-06-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:156792:por",
+    "alterador": "pt:dre:272391:por"
+  }
+]

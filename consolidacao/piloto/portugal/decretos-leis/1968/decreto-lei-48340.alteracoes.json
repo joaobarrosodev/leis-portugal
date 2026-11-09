@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nAs funções de juiz militar, promotor de justiça e defensor oficioso dos tribunais militares territoriais serão exercidas por oficiais de qualquer arma ou serviço com o curso da Academia Militar ou extintas escolas suas antecessoras, no activo ou na reserva, de preferência habilitados com a licenciatura em Direito ou com prática dos serviços de justiça militar, de posto não inferior a major, no caso dos juízes militares, ou a capitão, nos restantes casos, nomeados pelo Ministro do Exército.\n\n§ único. Excepcionalmente, a nomeação para o cargo de defensor oficioso dos tribunais militares territoriais poderá recair em oficial de patente inferior a capitão desde que habilitado com a licenciatura em Direito.",
+    "depois": "###### Artigo 1.º\n\nAs funções de juiz militar, promotor de justiça e defensor oficioso dos tribunais militares territoriais serão exercidas por oficiais de qualquer arma ou serviço com o curso da Academia Militar ou extintas escolas suas antecessoras, no activo ou na reserva, de preferência habilitados com a licenciatura em Direito ou com prática dos serviços de justiça militar, de posto não inferior a major, no caso dos juizes militares, ou a capitão, nos restantes casos, nomeados pelo Ministro do Exército.\n\n§ 1.º Nas províncias ultramarinas poderá recorrer-se a militares de qualquer ramo das forças armadas, em comissão de serviço noutros Ministérios, autorizados pelo respectivo titular, mas, se assim mesmo não for possível nomear um oficial superior para o desempenho das funções de juiz militar, poderá o Ministro do Exército nomear para o cargo um capitão que preencha as condições expressas no corpo deste artigo.\n\n§ 2.º Excepcionalmente, a nomeação para o cargo de defensor oficioso dos tribunais militares territoriais poderá recair em oficial de patente inferior a capitão desde que habilitado com a licenciatura em Direito.\n\n> Alterado pelo/a [Decreto-Lei n.º 68/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1972-398799), publicado em 1972-03-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:234537:por",
+    "alterador": "pt:dre:398799:por"
+  }
+]

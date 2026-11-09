@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:684232:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei 287/73) altera o n.º 1 da base LIII anexa ao Decreto-Lei 104/73; as bases anexas não constam do texto atual, pelo que não se aplica.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1 da base LIII — bases não presentes no texto atual; não aplicado.",
+    "Alterador 2 (Decreto 609/75): abre crédito especial; não altera o original.",
+    "Alterador 3 (Decreto-Lei 137-A/2009): art. 15.º n.º 4 c) mantém transitoriamente regimes das bases do original; não é alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n1. A taxa da contribuição industrial devida pelos agrupamentos de exportadores e associações agrícolas que beneficiem do disposto neste diploma será reduzida a um terço relativamente aos lucros imputáveis à sua actividade decorrente do objectivo referido no n.º 2 do artigo 1.º durante um período de cinco anos, a contar da data da sua constituição.\n\n2. As entidades agrupadas ou associadas nos termos deste diploma beneficiarão da redução de 50 por cento da taxa da contribuição industrial sobre lucros imputáveis ao exercício da indústria de concentrado de tomate durante o período de cinco anos, a contar da data da sua entrada para o agrupamento ou associação.",
+    "depois": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:139389:por",
+    "alterador": "pt:dre:401901:por"
+  }
+]

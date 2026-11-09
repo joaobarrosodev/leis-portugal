@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:600356:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Portaria n.º 655/88: extingue os lugares do mapa anexo ao original e substitui-os pelo mapa anexo à portaria, que só vem em imagem (ver documento original); não é alteração ao texto dos artigos.",
+  "instrucoes": [
+    "Portaria 655/88: substitui o mapa de pessoal anexo por outro, só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

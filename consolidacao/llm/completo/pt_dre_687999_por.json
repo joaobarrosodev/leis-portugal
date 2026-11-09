@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:687999:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Fica sujeita a servidão militar a área confinante com as instalações do grupo n.º 1 de escolas da Armada, assim delimitada:\n\na) A oeste, pela auto-estrada do Norte;\n\nb) A leste, pela linha da margem esquerda do rio Tejo;\n\nc) A norte, pela linha paralela ao muro que separa as instalações do grupo n.º 1 de escolas da Armada da propriedade municipal (Quinta do Cevadeiro) e seus prolongamentos, à distância de 150 m a norte do mesmo muro;\n\nd) A sul, pela perpendicular à linha de caminho de ferro que passa junto às instalações do Grupo n.º 1 de Escolas da Armada, traçada à distância de 130 m da esquina sudoeste do pavilhão gimnodesportivo das mesmas instalações.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto 99/78: nova redação da alínea d) do artigo 1.º (120 m); substituída depois pelo alterador 2.",
+    "Decreto do Governo 64/84, art. 1.º: nova redação da alínea d) do artigo 1.º (130 m); aplicado. Art. 2.º revoga o Decreto 99/78 (outro diploma); ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

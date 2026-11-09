@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:240980:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 1.º da Portaria 186-A/2010 altera o anexo da Portaria 172-A/2010 (número de estagiários por entidade promotora), mas o anexo e o novo quadro só vêm em imagem/documento original; não aplicável ao texto.",
+  "instrucoes": [
+    "Art. 1.º da Portaria 186-A/2010: alteração do anexo (quadro em imagem) - não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

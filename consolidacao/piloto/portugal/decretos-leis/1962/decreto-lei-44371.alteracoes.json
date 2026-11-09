@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nO pessoal navegante e pessoal terrestre de apoio têm os seguintes direitos:\n\na) Dispensa de comparência, sem perda de remunerações, nos serviços públicos e privados, quando, em emergência ou em guerra, sejam designados pelos comandos de regiões ou zonas aéreas para missões aéreas inadiáveis;\n\nb) Gratificações de serviço aéreo ou de especialidade, quando, em emergência ou em guerra, sejam designados pelos comandos de regiões ou zonas aéreas para missões de serviço;\n\nc) Pensões por incapacidade e pensões de preço de sangue, quando sofram acidentes em missões de serviço ordenadas pelos comandos das regiões ou zonas aéreas.\n\n§ 1.º Para efeitos do disposto nas alíneas b) e c) do Corpo deste artigo deve observar-se a seguinte equiparação:\n\nPessoal navegante - tenente piloto aviador.\n\nPessoal terrestre de apoio - segundo-sargento especialista.\n\n§ 2.º O benefício referido na alínea b) é concedido, sujeito a sanção do Secretário de Estado da Aeronáutica, pela Força Aérea e por forma e em condições idênticas às vigentes para o pessoal militar da Força Aérea.\n\n§ 3.º O benefício referido na alínea c) é concedido por forma e em condições idênticas às vigentes para o pessoal militar da Força Aérea.",
+    "depois": "###### Artigo 7.º\n\nO pessoal navegante e pessoal terrestre de apoio têm os seguintes direitos:\n\na) Dispensa de comparência, sem perda de remunerações, nos serviços públicos e privados, quando, em emergência ou em guerra, sejam designados pelos comandos de regiões ou zonas aéreas para missões aéreas inadiáveis;\n\nb) Gratificações de serviço aéreo ou de especialidade, quando, em emergência ou em guerra, sejam designados pelos comandos de regiões ou zonas aéreas para missões de serviço;\n\nc) Pensões por incapacidade e pensões de preço de sangue, quando sofram acidentes em missões de serviço ordenadas pelos comandos das regiões ou zonas aéreas.\n\n§ 1.º Para efeitos do disposto nas alíneas b) e c) do corpo deste artigo o pessoal navegante e o pessoal terrestre de apoio é equiparado a pessoal militar da Força Aérea com os postos e especialidades a fixar, para cada indivíduo, pelo Secretário de Estado da Aeronáutica, sob proposta dos comandantes de regiões ou zonas aéreas baseada nas habilitações literárias e preparação militar do interessado.\n\n§ 2.º O benefício referido na alínea b) é concedido, sujeito a sanção do Secretário de Estado da Aeronáutica, pela Força Aérea e por forma e em condições idênticas às vigentes para o pessoal militar da Força Aérea.\n\n§ 3.º O benefício referido na alínea c) é concedido por forma e em condições idênticas às vigentes para o pessoal militar da Força Aérea.\n\n> Alterado pelo/a [Decreto-Lei n.º 45118](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45118-1963-693036), publicado em 1963-07-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:164226:por",
+    "alterador": "pt:dre:693036:por"
+  }
+]

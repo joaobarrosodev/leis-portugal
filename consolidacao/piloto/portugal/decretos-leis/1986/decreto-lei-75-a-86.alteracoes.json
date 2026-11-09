@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1 - A emissão de certificados de origem, em Portugal, compete às entidades abaixo designadas:\n\nAssociação Comercial de Lisboa - Câmara de Comércio e Indústria Portuguesa;\n\nAssociação Comercial do Porto - Câmara de Comércio e Indústria do Porto;\n\nAssociação Comercial e Industrial do Funchal - Câmara de Comércio e Indústria da Madeira;\n\nCâmara de Comércio de Angra do Heroísmo - Associação de Comerciantes, Industriais, Importadores e Exportadores das Ilhas Terceira, Graciosa e São Jorge;\n\nCâmara de Comércio de Ponta Delgada - Associação de Comerciantes, Industriais, Exportadores e Importadores das Ilhas de São Miguel e Santa Maria;\n\nCâmara de Comércio da Horta - Associação de Comerciantes, Industriais, Importadores e Exportadores das Ilhas do Faial, Pico, Flores e Corvo;\n\nInstituto dos Têxteis: único organismo com competência para certificar a origem dos produtos têxteis dos capítulos 50 a 63 (n.os 50.01.000 a 63.02.500) da Nomenclatura Estatística das Mercadorias do Comércio Externo (NEMCE).\n\n2 - Deixam de poder emitir certificados de origem outras entidades que à data da entrada em vigor do presente diploma detenham tal competência.",
+    "depois": "###### Artigo 3.º\n\n1 - A emissão de certificados de origem, em Portugal, compete às entidades abaixo designadas:\n\nAssociação Comercial de Lisboa - Câmara de Comércio e Indústria Portuguesa;\n\nAssociação Comercial do Porto - Câmara de Comércio e Indústria do Porto;\n\nAssociação Comercial e Industrial do Funchal - Câmara de Comércio de Angra do Heroísmo - Associação de Comerciantes, Industriais, Importadores e Exportadores das Ilhas Terceira, Graciosa e São Jorge;\n\nCâmara de Comércio de Ponta Delgada - Associação de Comerciantes, Industriais, Exportadores e Importadores das Ilhas de São Miguel e Santa Maria;\n\nCâmara de Comércio da Horta - Associação de Comerciantes, Industriais, Importadores e Exportadores das Ilhas do Faial, Pico, Flores e Corvo;\n\nInstituto do Bordado, Tapeçaria e Artesanato da Madeira, único organismo com competência para certificar a origem do bordado, tapeçaria e artesanato da Região da Madeira.\n\n2 - Deixam de poder emitir certificados de origem outras entidades que à data da entrada em vigor do presente diploma detenham tal competência.\n\n> Alterado pelo/a [Decreto-Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1990-332948), publicado em 1990-02-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:646918:por",
+    "alterador": "pt:dre:332948:por"
+  }
+]

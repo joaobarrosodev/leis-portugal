@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:312209:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "(Possibilidade de arrendamento de casas para desalojados)",
+      "texto": "1. Fica autorizado o Ministério do Equipamento Social e do Ambiente, através do serviço competente ou organismo da Administração-Pública que se lhe substitua, a promover o aluguer de casas destinadas a realojar famílias de modestos recursos que em consequência de obras públicas fiquem desalojadas das suas habitações.\n\n2. Só se recorrerá a esta providência quando não for possível o realojamento em habitação social do Estado, de institutos públicos ou de autarquias locais, relativamente à qual os desalojados terão preferência.\n\n3. Em casos excepcionais o serviço ou organismo competente poderá ser autorizado, mediante aprovação do Conselho de Ministros, a adquirir as habitações necessárias ao realojamento das famílias referidas no n.º 1.\n\n4 - Não sendo possível proceder ao realojamento nas condições referidas no número anterior poderá o serviço ou organismo competente, pelos seus próprios meios ou através de concurso público e mediante aprovação em Conselho de Ministros, construir as habitações que se mostrem necessárias àquele fim.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: adita n.º 3 ao art. 1.º; aplicado",
+    "Alt. 2: adita n.º 4 ao art. 1.º; aplicado (elemento único com alterador 2)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

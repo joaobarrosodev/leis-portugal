@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "28.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 28.º\n\nOs directores dos museus são escolhidos pela forma seguinte:\n\na) Quanto aos Museus Nacionais de Arte Antiga, de Arte Contemporânea, dos Coches e de Soares dos Reis, livremente pelo Ministro de entre pessoas de reconhecida competência;\n\nb) Quanto ao Museu Nacional de Arqueologia e Etnologia, livremente pelo Ministro de entre elementos do pessoal docente universitário;\n\nc) Quanto aos restantes museus, pela forma estabelecida para o recrutamento dos conservadores da respectiva classe.\n\n§ único. O disposto no presente artigo não importa alteração dos regimes especiais em vigor para o Museu Monográfico de Conímbriga e para o Museu de Escultura Comparada.",
+    "depois": "###### Artigo 28.º\n\nOs directores dos museus são escolhidos pela forma seguinte:\n\na) Quanto aos museus nacionais, livremente pelo Ministro de entre pessoas de reconhecida competência;\n\nb) Quanto aos restantes museus, pela forma estabelecida para o recrutamento dos conservadores da respectiva classe.\n\n§ único. O disposto no presente artigo não implica alteração dos regimes especiais em vigor para o Museu Monográfico de Conímbriga e para o Museu de Escultura Comparada.\n\n> Alterado pelo/a [Decreto-Lei n.º 752/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/752-1974-595085), publicado em 1974-12-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:508223:por",
+    "alterador": "pt:dre:595085:por"
+  }
+]

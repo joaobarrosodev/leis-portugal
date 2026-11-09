@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:503254:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "Se antes de decorrido um ano sobre a realização, para qualquer categoria, de concurso de habilitação e após o subsequente concurso de provimento se mantiverem vagos lugares reservados, nos termos da legislação vigente, a candidatos masculinos, podem, em segundo concurso de provimento, ser também admitidos candidatos femininos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 6.º do Decreto 28/70: nova redação do art. 3.º (corpo único, sem números) — aplicada",
+    "Arts. 1.º-5.º: dirigidos aos Decretos 37029 e 41177 — ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

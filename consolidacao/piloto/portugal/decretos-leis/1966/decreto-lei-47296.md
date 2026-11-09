@@ -1,0 +1,53 @@
+---
+id: pt:dre:478627:por
+title: Decreto-Lei n.º 47296
+original: data/portugal/decretos-leis/1966/decreto-lei-47296.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:200845:por
+    title: Decreto-Lei n.º 49022
+    publication_date: '1969-05-24'
+  titulos_normalizados: artigos em texto corrido no original, com título pelo parser
+    da fase 3
+---
+
+# Decreto-Lei n.º 47296
+
+O [Decreto-Lei n.º 46152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46152-1965-226659), de 11 de Janeiro de 1965, fixou novas normas para a realização dos empréstimos indispensáveis ao financiamento das operações económicas previstas em planos de fomento.
+
+Já o Decreto n.º 44361, de 23 de Maio de 1962, criara um condicionalismo a que se deveriam subordinar os empréstimos destinados a financiar empreendimentos de fomento económico incluídos no II Plano de Fomento.
+
+Apesar das normas formuladas num e noutro destes diplomas, a celeridade exigida actualmente para as operações financeiras, internas e internacionais, impõe que elas possam ser contratadas em condições de maleabilidade e de oportunidade que se não compadecem com os requisitos formais presentemente exigidos.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º
+
+É o Ministro das Finanças autorizado a contrair empréstimos externos e internos para assegurar o financiamento de planos de fomento ou de despesas extraordinárias de reapetrechamento, aprovados por lei na qual se preveja o recurso ao crédito, com dispensa das formalidades exigidas pelos Decretos-Leis n.os 42900, de 5 de Abril de 1960, e 46152, de 11 de Janeiro de 1965.
+
+> Alterado pelo/a [Decreto-Lei n.º 49022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49022-1969-200845), publicado em 1969-05-24.
+
+###### Artigo 2.º
+
+Os serviços destes empréstimos ficam a cargo da Junta do Crédito Público ou da Direcção-Geral da Fazenda Publica, conforme sejam ou não representados em títulos, devendo ser enviadas a cada uma destas entidades cópias autênticas dos contratos relativos aos empréstimos cujos serviços lhes respeitem.
+
+###### Artigo 3.º
+
+No Orçamento Geral do Estado indicar-se-ão, em mapa anexo, os montantes, composição e condições da dívida interna e externa contraída ao abrigo do presente diploma e serão inscritas as verbas necessárias para ocorrer aos encargos que constarem dos respectivos contratos, dos quais, para estes efeitos, serão enviadas igualmente cópias autênticas à Direcção-Geral da Contabilidade Pública.
+
+###### Artigo 4.º
+
+As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças, inscritas nos orçamentos dos anos económicos em que tiverem lugar.
+
+###### Artigo 5.º
+
+Este diploma entra imediatamente em vigor.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 31 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

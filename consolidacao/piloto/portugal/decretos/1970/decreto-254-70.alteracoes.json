@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1. O empréstimo terá um prazo de cinco anos, o qual poderá ser prorrogado por mais dois anos, mediante acordo prévio entre o Leal Senado da Câmara de Macau e o Banco de Fomento Nacional.\n\n2. O empréstimo é passível, durante o período de utilização, de uma comissão semestral de 0,5 por cento sobre o seu montante total e de juros à taxa anual de 4 por cento sobre a parte efectivamente utilizada, e durante o período de amortização de juros à taxa de 5 por cento ao ano.\n\n3. A comissão e os juros referidos no número anterior serão pagos no termo de cada semestre.\n\n4. A amortização do empréstimo terá lugar em prestações semestrais, de montantes a acordar entre o Leal Senado e o Banco de Fomento Nacional, vencendo-se a primeira dois anos e meio após a celebração do contrato.",
+    "depois": "###### Artigo 2.º\n\n1. O empréstimo terá um prazo de oito anos, pelo que o seu reembolso deverá ter lugar até 17 de Outubro de 1978.\n\n2. O empréstimo é passível, durante o período de utilização, de uma comissão semestral de 0,5 por cento sobre o seu montante total e de juros à taxa anual de 4 por cento sobre a parte efectivamente utilizada, e durante o período de amortização de juros à taxa de 5 por cento ao ano.\n\n3. A comissão e os juros referidos no número anterior serão pagos no termo de cada semestre.\n\n4. A amortização do empréstimo terá lugar em prestações semestrais, de montantes a acordar entre o Leal Senado e o Banco de Fomento Nacional, vencendo-se a primeira dois anos e meio após a celebração do contrato.\n\n> Alterado pelo/a [Decreto n.º 738/74](https://diariodarepublica.pt/dr/detalhe/decreto/738-1974-468273), publicado em 1974-12-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:142537:por",
+    "alterador": "pt:dre:468273:por"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:220120:por",
+  "artigos": [
+    {
+      "chave": "34.º",
+      "epigrafe": "(Candidatos pelo contingente especial da Região Autónoma da Madeira)",
+      "texto": "1 - Os candidatos inscritos pelo contingente especial previsto na alínea b) do n.º 1 do artigo 31.º terão prioridade absoluta de colocação nos cursos do Instituto Superior de Artes Plásticas da Madeira e da Escola Superior de Educação da Madeira que, nos termos do n.º 1 do artigo 42.º, tenham indicado antes de quaisquer outros.\n\n2 - Os candidatos inscritos pelo contingente especial para a Região Autónoma da Madeira apenas podem concorrer a vagas desse contingente respeitantes a cursos congéneres dos professados no Instituto Superior de Artes Plásticas da Madeira e na Escola Superior de Educação da Madeira, desde que concorram antes daquelas às vagas dos cursos congéneres daquele Instituto ou daquela Escola.\n\n3.º Às vagas aprovadas pela Portaria n.º 286-B/86, de 17 de Junho, alterada pela Portaria n.º 442-B/86, de 14 de Agosto, é introduzido o seguinte aditamento:\n\nEstabelecimento - Escola Superior de Educação da Madeira.\n\nCurso - professores do ensino primário.\n\nVagas - vinte.\n\nCódigo - 98702.\n\n4.º Aos estudantes que já hajam apresentado a candidatura no decurso do prazo indicado na referência 6 do anexo X do regulamento aprovado pela Portaria n.º 173/86, de 30 de Abril, é autorizada a sua alteração até ao dia 25 de Setembro de 1986, desde que tal alteração tenha por objectivo incluir o curso de professores do ensino primário da Escola Superior de Educação da Madeira.\n\n5.º Esta portaria entra em vigor na data da sua publicação.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º da Portaria n.º 538-A/86: nova redação do n.º 4.º da Portaria n.º 509/86; o n.º 4.º está, no texto atual, dentro do corpo da chave «34.º»; substituído esse parágrafo.",
+    "2.º: entrada em vigor; não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

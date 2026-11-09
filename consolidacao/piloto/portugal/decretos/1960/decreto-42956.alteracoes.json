@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nO comando do Corpo de Polícia de Segurança Pública da província de Macau será constituído pelos seguintes oficiais do quadro permanente do exército metropolitano, nomeados em comissão civil:\n\n1 comandante (major ou capitão);\n\n4 adjuntos (um capitão e três subalternos);\n\nos quais, embora enquadrados, para efeitos de categoria civil, nos grupos das letras, respectivamente, E e F dos mapas I e X anexos ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, terão os vencimentos que na província corresponderem às suas patentes.",
+    "depois": "###### Artigo 1.º\n\nO comando do Corpo da Polícia de Segurança Pública da província de Macau será constituído pelos seguintes oficiais do exército metropolitano:\n\n1 de comandante (major ou capitão do quadro permanente);\n\n4 adjuntos (um capitão e três subalternos do quadro permanente ou do quadro de complemento).\n\n§ único. Os oficiais de que trata o corpo deste arigo, embora enquadrados, e para efeitos de categoria civil, respectivamente, nos grupos E e F dos mapas I e X anexos ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, terão os vencimentos que na província corresponderem às suas patentes.\n\n> Alterado pelo/a [Decreto n.º 43340](https://diariodarepublica.pt/dr/detalhe/decreto/43340-1960-514185), publicado em 1960-11-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:281577:por",
+    "alterador": "pt:dre:514185:por"
+  }
+]

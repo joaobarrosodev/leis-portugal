@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:456790:por
     title: Decreto-Lei n.º 133/2008
     publication_date: '2008-07-21'
-  - id: pt:dre:502980:por
-    title: Decreto-Lei n.º 148/2013
-    publication_date: '2013-10-24'
 ---
 
 # Decreto-Lei n.º 115/2002
@@ -333,7 +330,7 @@ d) O veículo pode, se necessário para atingir as forças de ensaio exigidas, s
 
 e) No caso de o veículo estar equipado com suspensão hidropneumática, hidráulica ou pneumática ou com um dispositivo de nivelamento automático em função da carga, deve ser ensaiado com a suspensão ou o dispositivo em condições normais de funcionamento, especificadas pelo fabricante.
 
-> Aditado pelo/a [Decreto-Lei n.º 133/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2008-456790) e [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.
+> Aditado pelo/a [Decreto-Lei n.º 133/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2008-456790), publicado em 2008-07-21.
 
 ###### Artigo 22.º — Definições
 
@@ -445,7 +442,7 @@ b) Zorras e outros reboques análogos destinados ao transporte de toros ou de ou
 
 c) Veículos cuja utilização seja incompatível com a existência de uma protecção à retaguarda contra o encaixe.
 
-> Alterado pelo/a [Decreto-Lei n.º 133/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2008-456790) e [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.
+> Alterado pelo/a [Decreto-Lei n.º 133/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2008-456790), publicado em 2008-07-21.
 
 ###### Artigo 26.º-A — Veículos equipados com plataforma elevatória
 
@@ -457,9 +454,9 @@ b) Os elementos individuais do dispositivo de protecção contra o encaixe devem
 
 c) Os elementos individuais do dispositivo de protecção contra o encaixe devem ter dimensões suficientes para cumprir o disposto no n.º 7 do artigo anterior, pelo qual se determinam as posições relativas dos pontos de ensaio, e no caso de os pontos P1 estarem situados na área de interrupção mencionada no n.º 1, os pontos P1 a utilizar devem estar situados no centro de qualquer secção lateral do dispositivo de protecção à retaguarda contra o encaixe.
 
-2 - Não se aplica o disposto na alínea a) do n.º 5 do artigo anterior à área de interrupção do dispositivo de protecção contra o encaixe para efeitos de montagem da plataforma elevatória.
+2 - Não se aplica o disposto na alínea a) do n.º 5 do artigo anterior à área de interrupção do dispositivo de protecção contra o encaixe para efeitos de montagem da plataforma elevatória.»
 
-> Aditado pelo/a [Decreto-Lei n.º 133/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2008-456790) e [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.
+> Aditado pelo/a [Decreto-Lei n.º 133/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2008-456790), publicado em 2008-07-21.
 
 #### SECÇÃO IV — Da marca de homologação CE
 

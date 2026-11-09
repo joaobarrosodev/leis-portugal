@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:332190:por",
+  "artigos": [
+    {
+      "chave": "28.º",
+      "epigrafe": "Benefícios fiscais às estruturas de empresas públicas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (DL 442/78), art. 3.º, n.º 2, altera os prazos do artigo 18.º só para despesas por conta de reforços ou inscrições, sem nova redação do artigo; não aplicado ao texto.",
+  "instrucoes": [
+    "Alterador 1 (DL 444/78): regime orçamental transitório de 1979, sem alteração textual; nada aplicado.",
+    "Alterador 2 (DL 442/78), art. 3.º, n.º 2: prazos do art. 18.º alterados para certas despesas; não textual, não aplicado.",
+    "Alterador 3 (DL 485/88), art. 1.º, n.º 9: revoga o artigo 28.º; aplicado (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

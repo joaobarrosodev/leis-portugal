@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:155210:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "Ao director técnico do Laboratório de Análises Clínicas é atribuída a gratificação especial anual de 3000$00.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 2.º: nova redação do art. 7.º - aplicada",
+    "Alterador 1, restantes artigos: medidas autónomas e alterações a outros diplomas - ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

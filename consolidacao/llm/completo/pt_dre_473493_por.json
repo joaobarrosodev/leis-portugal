@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:473493:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "O presente decreto-lei apenas se aplica às infracções criminais e disciplinares cometidas durante o período em que os seus autores se encontram apresentados em qualquer dos departamentos do Estado das forças armadas e das forças militarizadas.\n\n§ 1.º Os benefícios constantes deste diploma, na parte criminal, não aproveitam a quaisquer reincidentes, aos delinquentes de difícil correcção, nem aos militares referidos no corpo do artigo 40.º do Código de Justiça Militar, que tenham cometido qualquer dos crimes previstos nesse preceito legal. A baixa de posto, aplicada por força do citado código, não será anulada.\n\n§ 2.º Os benefícios de natureza disciplinar não compreendem a anulação dos efeitos de transferência, mudança de quadro, baixa de posto, eliminação, baixa de serviço, passagem à reforma, descida na escala de antiguidade e preterição, já verificada, na promoção.\n\n§ 3.º As penas disciplinares anuladas nos termos deste decreto-lei serão sempre tomadas em consideração para o efeito do disposto no artigo 187.º do Regulamento de Disciplina Militar.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do corpo do artigo 8.º; aplicada, §§ 1.º a 3.º mantidos."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

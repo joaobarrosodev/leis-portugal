@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nOs intervenientes, funcionários da administração pública regional e local, que, isoladamente ou integrados em grupos, participem em actividades de cariz cultural, na Região ou fora dela, e consideradas pelo Governo Regional como de interesse para a Região, têm direito a que o tempo disponibilizado nessas actividades seja considerado como tempo de serviço, para efeitos de antiguidade, sendo as faltas ao trabalho daí decorrentes havidas como justificadas.",
+    "depois": "###### Artigo 1.º\n\nOs trabalhadores a qualquer título vinculados à Região Autónoma da Madeira ou outras pessoas coletivas de direito público, que, isoladamente ou integrados em grupos, participem em atividades de cariz cultural, na Região ou fora dela, e consideradas pelo Governo Regional como de interesse para a Região, têm direito a que o tempo disponibilizado nessas atividades seja considerado como tempo de serviço, para efeitos de antiguidade, sendo as faltas ao trabalho daí decorrentes havidas como justificadas.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), publicado em 2022-12-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:219693:por",
+    "alterador": "pt:dre:205450899:por"
+  }
+]

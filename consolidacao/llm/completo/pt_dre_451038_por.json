@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:451038:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "(Júri)",
+      "texto": "1 - O júri dos concursos de admissão ao estágio da carreira de técnicos superiores de saúde é constituído por um presidente e dois vogais efectivos.\n\n2 - O presidente será um funcionário com categoria não inferior a técnico superior de saúde principal, integrado num dos ramos previstos no artigo 2.º, n.º 1, do [Decreto Regulamentar n.º 29/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332), de 24 de Junho.\n\n3 - Os dois vogais efectivos serão funcionários com categorias não inferiores a técnico superior de saúde de 1.ª classe e integrados num dos ramos previstos no artigo 2.º, n.º 1, do [Decreto Regulamentar n.º 29/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332), de 24 de Junho.\n\n4 - O despacho constitutivo do júri designará ainda, para as situações de falta e impedimento, dois vogais suplentes, escolhidos de entre os funcionários integrados na carreira institucionalizada pelo [Decreto Regulamentar n.º 29/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332), de 24 de Junho.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Portaria 924/91: manda aditar a licenciatura em Química ao elenco da alínea b) do n.º 2 do artigo 6.º sem dar a redação nova da alínea; a forma exata do texto não é dada, pelo que não se aplicou.",
+  "instrucoes": [
+    "Portaria 706/86: nova redação do artigo 7.º (n.os 1 a 4); aplicada.",
+    "Portaria 924/91: aditamento de 'Química' à alínea b) do n.º 2 do artigo 6.º sem texto; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

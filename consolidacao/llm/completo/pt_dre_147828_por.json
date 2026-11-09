@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:147828:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigo 4.º: extingue a Escola Técnica de António Inácio da Cruz criada pelo original e cria em sua substituição a Escola Secundária; é uma alteração de regime, não textual, sem nova redação de qualquer artigo do original.",
+  "instrucoes": [
+    "Alterador 1, artigo 4.º: extinção da Escola Técnica criada pelo original e novos quadros de pessoal; sem instrução textual, nada aplicado.",
+    "Alterador 1, restantes artigos: extinção da Fundação e destino do património; regime próprio, não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

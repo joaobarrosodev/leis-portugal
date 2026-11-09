@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:329986:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Lei 28/2003), art. 1.º: altera o título e artigos da Lei n.º 77/88 na redacção dada pela Lei 59/93 — instrução dirigida a outro diploma (Lei 77/88), ignorada; nada muda no texto da Lei 59/93.",
+    "Alterador 1, art. 2.º: revoga artigos 28.º, 31.º, 32.º, 37.º, 38.º, 39.º, 42.º e 42.º-A da Lei 77/88 e renumera o 33.º como 53.º — dirigido à Lei 77/88, ignorado.",
+    "Alterador 1, art. 4.º: entrada em vigor e regras transitórias sobre a Lei 77/88 — sem alteração textual do original.",
+    "Alterador 2 (Lei 52/2010): só remete para a Lei 77/88 e suas alterações para efeitos da Lei 47/2010 — nenhuma instrução dirigida ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

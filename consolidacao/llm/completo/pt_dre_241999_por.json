@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:241999:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Resolução 15/2003/M): o art. 1.º substitui o quadro de pessoal pelo anexo I, que só vem em imagem (\"ver quadro no documento original\"); o art. 4.º muda a designação das categorias (encarregado/auxiliar de bar para cafetaria; encarregado de pessoal auxiliar parlamentar) sem dar nova redação aos artigos 36.º-J, 36.º-K e 36.º-H, por isso não é uma alteração textual; os arts. 2.º e 3.º integram carreiras e mandam aplicar o 36.º-F, sem alterar texto.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: novo quadro de pessoal no anexo I, só em imagem; não aplicado.",
+    "Alterador 1, arts. 2.º e 3.º: integração de carreiras de informática e aplicação do art. 36.º-F à carreira de ecónomo; não alteram texto; nada a fazer.",
+    "Alterador 1, art. 4.º: nova designação de categorias dos arts. 36.º-J, 36.º-K e 36.º-H, sem redação nova; não aplicado ao texto.",
+    "Alteradores 2 e 3: sem artigos que mencionem o original; nada a fazer.",
+    "Alterador 4, arts. 1.º e 2.º: alteram os arts. 46.º e 47.º do DLR 24/89/M (outro diploma); ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

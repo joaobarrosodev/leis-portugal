@@ -1,0 +1,61 @@
+{
+  "id": "pt:dre:180205:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "(Enunciação dos serviços)",
+      "texto": "O Centro dispõe dos seguintes serviços:\n\na) A Direcção de Serviços de Identificação e Registo de Remunerações;\n\nb) A Direcção de Serviços de Atribuição de Prestações;\n\nc) A Direcção de Serviços de Acção Social;\n\nd) A Direcção de Serviços Administrativos;\n\ne) A Divisão de Gestão Financeira;\n\nf) A Divisão de Informática;\n\ng) A Divisão de Organização e Gestão de Pessoal;\n\nh) A Divisão de Contra-Ordenações;\n\ni) O Centro de Relações Públicas e Documentação;\n\nj) O Serviço de Fiscalização;\n\nl) Os serviços locais.",
+      "alterador": 6
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "(Direcção de Serviços de Identificação e Registo de Remunerações)",
+      "texto": "1 - A Direcção de Serviços de Identificação e Registo de Remunerações compreende a Repartição de Identificação e a Repartição de Registo de Remunerações.\n\n2 - Compete à Direcção de Serviços de Identificação e de Registo de Remunerações criar e manter actualizados os ficheiros que permitam conhecer e avaliar a situação dos beneficiários e contribuintes.",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "(Direcção de Serviços de Atribuição de Prestações)",
+      "texto": "1 - A Direcção de Serviços de Atribuição de Prestações compreende a Repartição de Benefícios Imediatos e a Repartição de Prestações Familiares e Benefícios Diferidos.\n\n2 - Compete à Direcção de Serviços de Atribuição de Prestações organizar os processos relativos à atribuição de prestações e efectuar os respectivos processamentos.",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º-A",
+      "epigrafe": "(Repartição de Atribuição de Benefícios Imediatos)",
+      "texto": "1 - A Repartição de Atribuição de Benefícios Imediatos é constituída por três secções.\n\n2 - Compete à Repartição de Atribuição de Benefícios Imediatos:\n\na) Analisar e organizar os documentos condicionantes da atribuição dos benefícios por doença, maternidade, tuberculose, férias, Natal, desemprego e social de desemprego, de renda de casa ou outros da área da Repartição, mantendo, em caso de insuficiência ou de dúvida, estreito relacionamento com os interessados, outros serviços do Centro ou outras instituições de segurança social, com vista à rápida conclusão dos processos;\n\nb) Organizar e manter actualizados os ficheiros de requerentes, de controlo de provas de direito e de processamentos;\n\nc) Processar prestações pecuniárias e controlar a sua execução;\n\nd) Controlar as situações de processamento indevido de prestações resultantes de sobreposições, erros, dolo ou outras, assegurando o necessário expediente e desenvolvendo os mecanismos que conduzam à sua regularização;\n\ne) Colaborar com outros serviços do Centro, designadamente de relações públicas e fiscalização, em acções tendentes a controlar o acesso indevido à atribuição de prestações;\n\nf) Promover ou colaborar em acções de esclarecimento ou de informação com vista à obtenção de provas periódicas de direitos e proceder ao tratamento das informações recebidas;\n\ng) Verificar e controlar a exactidão das informações recebidas dos serviços de saúde, sobretudo no que se refere à identificação dos beneficiários, e estabelecer com aqueles serviços as ligações funcionais necessárias à progressiva melhoria de qualidade de informação;\n\nh) Colaborar com os serviços de emprego e formação profissional na organização dos processos e no controlo de atribuição de prestações no desemprego.",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º-B",
+      "epigrafe": "(Repartição de Atribuição de Prestações Familiares e Benefícios Diferidos)",
+      "texto": "1 - A Repartição de Atribuição de Prestações Familiares e Benefícios Diferidos é constituída por três secções.\n\n2 - Compete à Repartição de Atribuição de Prestações Familiares e Benefícios Diferidos:\n\na) Analisar a documentação e organizar os processos respeitantes à concessão de abono de família e de outras prestações familiares;\n\nb) Conferir os respectivos processamentos;\n\nc) Solicitar aos beneficiários os meios de prova julgados convenientes e controlar a exactidão das informações recebidas;\n\nd) Colaborar com o Serviço de Fiscalização e com o Centro de Relações Públicas em acções tendentes a evitar o acesso indevido à atribuição de benefícios;\n\ne) Analisar a documentação e organizar os processos respeitantes à concessão de pensões de invalidez, velhice e sobrevivência, pensão social, grande invalidez, complemento de pensão por cônjuge a cargo e subsídio por morte;\n\nf) Recolher os elementos necessários ao cálculo dos benefícios diferidos e comunicar ao Centro Nacional de Pensões, via informática, os dados necessários ao seu processamento;\n\ng) Estabelecer a correspondência necessária com outras instituições de segurança social, tendo em vista a recolha de elementos necessários à organização e deferimento dos processos;\n\nh) Estabelecer a articulação conveniente com o Serviço de Verificação de Incapacidades Permanentes (SVIP);\n\ni) Organizar e manter actualizados os ficheiros e registos que se tornem necessários ao controlo da movimentação dos processos;\n\nj) Proceder ao registo de dados estatísticos, de acordo com as normas estabelecidas.",
+      "alterador": 3
+    },
+    {
+      "chave": "19.º-A",
+      "epigrafe": "(Divisão de Contra-Ordenações)",
+      "texto": "Compete à Divisão de Contra-Ordenações:\n\na) Organizar e instruir os processos de contra-ordenações;\n\nb) Elaborar relação dos processos arquivados;\n\nc) Propor a nomeação de defensor oficioso nos casos legalmente previstos;\n\nd) Propor a aplicação de coimas nos termos regulamentares;\n\ne) Determinar o montante de custas dos processos;\n\nf) Preparar os processos para decisão final;\n\ng) Remeter os processos a tribunal, nas circunstâncias legalmente previstas;\n\nh) Representar a instituição de segurança social na fase judicial da contra-ordenação;\n\ni) Organizar e actualizar ficheiros relacionados com os processos de contra-ordenações;\n\nj) Promover a emissão de orientações para os serviços que procedam à averiguação de infracções ou que, de qualquer modo, sejam chamados a colaborar;\n\nl) Recolher e tratar os necessários dados estatísticos.",
+      "alterador": 6
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "(Quadro de pessoal)",
+      "texto": "O quadro de pessoal deste Centro é o constante do anexo à [Portaria n.º 289/88](https://diariodarepublica.pt/dr/detalhe/portaria/289-1988-373453), de 9 de Maio, salvo no que respeita ao pessoal dirigente, que é o que figura no mapa anexo a esta portaria.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 e 2 (Portaria 101/87) criam um lugar no quadro de pessoal (anexo em imagem) e o alterador 6 (n.º 3.º) altera o quadro por mapa só em imagem; alteradores 4 e 5 (Portarias 935/92 e 58/93) integram caixas no Centro sem alterar o texto do Regulamento. Não aplicados.",
+  "instrucoes": [
+    "Alt. 1 e 2 (Portaria 101/87): cria lugar de assessor no quadro; não textual, não aplicado",
+    "Alt. 3 (Portaria 982/89), n.º 1.º: nova redação dos arts. 5.º, 6.º, 9.º e 28.º; aplicada (art. 5.º depois substituído pelo alt. 6)",
+    "Alt. 3, n.º 2.º: aditados arts. 9.º-A e 9.º-B; aplicado",
+    "Alt. 4 e 5: integração de caixas de previdência; não textual",
+    "Alt. 6 (Portaria 348/93), n.º 1.º: nova redação do art. 5.º; aplicada",
+    "Alt. 6, n.º 2.º: aditado art. 19.º-A; aplicado",
+    "Alt. 6, n.º 3.º: quadro de pessoal por mapa em imagem; não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

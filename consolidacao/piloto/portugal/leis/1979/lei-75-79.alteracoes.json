@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1 - A presente lei regula o regime e o exercício da actividade de radiotelevisão em território nacional ou sob administração portuguesa.\n\n2 - Considera-se radiotelevisão a transmissão à distância de imagens não permanentes e sons, efectuada por ondas electromagnéticas, propagando-se no espaço ou por cabo, destinada à recepção directa pelo público.\n\n3 - Onde nesta lei se refira a radiotelevisão como titular de direito ou obrigações, deve considerar-se referido o sujeito jurídico da respectiva actividade.",
+    "depois": "###### Artigo 1.º\n\n1 - A presente lei regula o regime e o exercício da actividade de radiotelevisão em território nacional.\n\n2 - Considera-se radiotelevisão a transmissão à distância de imagens não permanentes e sons, efectuada por ondas electromagnéticas, propagando-se no espaço ou por cabo, destinada à recepção directa pelo público.\n\n3 - Onde nesta lei se refira a radiotelevisão como titular de direito ou obrigações, deve considerar-se referido o sujeito jurídico da respectiva actividade.\n\n> Alterado pelo/a [Lei n.º 23/82](https://diariodarepublica.pt/dr/detalhe/lei/23-1982-397484), publicado em 1982-08-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:367220:por",
+    "alterador": "pt:dre:397484:por;pt:dre:401901:por"
+  },
+  {
+    "artigo": "48.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 48.º — (Isenções fiscais)\n\nA Radiotelevisão Portuguesa, E. P., beneficia das seguintes isenções fiscais:\n\na) Contribuição industrial;\n\nb) Imposto complementar - secção B;\n\nc) Imposto de mais-valias;\n\nd) Imposto de comércio e indústria;\n\ne) Imposto do selo;\n\nf) Imposto de capitais;\n\ng) Imposto de sucessões e doações;\n\nh) Imposto da sisa;\n\ni) Imposto de transacções;\n\nj) Contribuição predial rústica e urbana;\n\nl) Imposto sobre espectáculos públicos;\n\nm) Imposto sobre veículos;\n\nn) Imposto de circulação de veículos;\n\no) Imposto de compensação sobre viaturas diesel;\n\np) Direitos aduaneiros de importação e exportação e imposições aduaneiras;\n\nq) Sobretaxas de importação e exportação;\n\nr) Taxas de radiodifusão e de televisão.",
+    "depois": "###### Artigo 48.º — (Isenções fiscais)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:367220:por",
+    "alterador": "pt:dre:397484:por;pt:dre:401901:por"
+  }
+]

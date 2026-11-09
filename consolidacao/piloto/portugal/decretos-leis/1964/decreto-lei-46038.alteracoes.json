@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\n1. O Instituto desempenha as suas atribuições por intermédio dos seguintes órgãos:\n\na) Conselho Superior;\n\nb) Conselho de Fomento Cultural;\n\nc) Conselho de Investigação Científica;\n\nd) Conselho de Intercâmbio Cultural;\n\ne) Conselho Executivo;\n\nf) Secretariado.\n\n2. Junto do Instituto haverá um representante do Ministério dos Negócios Estrangeiros, designado pelo respectivo Ministro.\n\n3. As deliberações do Instituto estão sujeitas a homologação ministerial.",
+    "depois": "###### Artigo 6.º\n\n1. O Instituto desempenha as suas atribuições por intermédio dos seguintes órgãos:\n\na) Conselho Superior;\n\nb) Conselho Executivo;\n\nc) Conselho Administrativo;\n\nd) Conselho de Fomento Cultural;\n\ne) Conselho de Investigação Científica;\n\nf) Conselho de Intercâmbio Cultural;\n\ng) Secretariado.\n\n2. Junto do Instituto haverá um representante do Ministério dos Negócios Estrangeiros, designado pelo respectivo Ministro.\n\n3. As deliberações do Instituto estão sujeitas a homologação ministerial.\n\n> Alterado pelo/a [Decreto-Lei n.º 49457](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49457-1969-216349), publicado em 1969-12-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:536578:por",
+    "alterador": "pt:dre:216349:por"
+  },
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\n1. O secretário e o secretário-adjunto são nomeados pelo Ministro da Educação Nacional, o primeiro de entre professores do ensino superior ou doutores, o segundo de entre licenciados.\n\n2. A nomeação far-se-á pelo período de um ano, findo o qual o nomeado cessará as suas funções ou será provido definitivamente.\n\n3. Mas, sendo professor a pessoa escolhida como secretário-adjunto, a sua nomeação será feita em comissão de serviço, contando-se para todos os efeitos como docente o serviço prestado. Se, passado um ano, obtiver exoneração do cargo de professor, poderá o provimento tornar-se definitivo.\n\n4. O secretário e o secretário-adjunto perceberão os vencimentos correspondentes, respectivamente, aos grupos C e F do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, salvo se estiverem em comissão de serviço e lhes competirem vencimentos superiores em razão dos respectivos cargos docentes.",
+    "depois": "###### Artigo 14.º\n\n1. O secretário e o secretário-adjunto são nomeados pelo Ministro da Educação Nacional de entre indivíduos de reconhecido mérito, diplomados com um curso superior.\n\n2. As nomeações terão carácter provisório durante três anos, findos os quais os funcionários serão providos definitivamente, se tiverem bom e efectivo serviço, ou exonerados, no caso contrário.\n\n3. Se, porém, a nomeação recair em algum professor, será feita em comissão de serviço, pelo prazo de três anos, contando-se para todos os efeitos como docente o serviço prestado; se, passados três anos, o nomeado for exonerado do cargo de professor, o provimento poderá tornar-se definitivo.\n\n4. O secretário e o secretário-adjunto perceberão os ordenados correspondentes, respectivamente, às categorias D e F, salvo se estiverem em comissão de serviço e lhes competirem ordenados superiores em razão dos respectivos cargos docentes.\n\n> Alterado pelo/a [Decreto-Lei n.º 49457](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49457-1969-216349), publicado em 1969-12-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:536578:por",
+    "alterador": "pt:dre:216349:por"
+  },
+  {
+    "artigo": "24.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 24.º\n\nO serviço de correspondência em línguas estrangeiras é assegurado, em regime de prestação eventual de serviços, por pessoa ou pessoas de especial competência, da escolha do secretário, homologada pelo Ministro da Educação Nacional, e remunerado nos termos estabelecidos em despacho do Ministro, sobre proposta do secretário.",
+    "depois": "###### Artigo 24.º\n\nO serviço de correspondência em línguas estrangeiras e bem assim o de estudo e planeamento poderão ser assegurados por pessoal eventual, a recrutar nos termos e com as remunerações que forem aprovadas pelo Ministro da Educação Nacional, sob proposta do Conselho Executivo, e com o acordo do Ministro das Finanças.\n\n> Alterado pelo/a [Decreto-Lei n.º 49457](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49457-1969-216349), publicado em 1969-12-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:536578:por",
+    "alterador": "pt:dre:216349:por"
+  }
+]

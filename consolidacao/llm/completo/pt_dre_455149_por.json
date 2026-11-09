@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:455149:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Orçamento",
+      "texto": "1 - A dotação anual disponível para o financiamento de cada plano de obras tem por limite máximo, incluindo eventuais saldos transitados, a previsão constante do orçamento do Turismo de Portugal, I. P., para o exercício correspondente, a qual deve cumprir integralmente o disposto no n.º 3 do artigo 84.º do Decreto-Lei n.º 422/89, de 2 de Dezembro, alterado pela Lei n.º 64-A/2008, de 31 de Dezembro.\n\n2 - A previsão constante do orçamento do Turismo de Portugal, I. P., no que refere à dotação anual disponível para o financiamento de cada plano de obras não pode ser nunca inferior ao disposto no n.º 3 do artigo 84.º do Decreto-Lei n.º 422/89, de 2 de Dezembro, alterado pela lei n.º 64-A/2008, de 8 de Agosto, podendo o referido plano de obras ter natureza plurianual, desde que seja demonstrada a sua compatibilidade de execução com o valor estimado das correspondentes dotações anuais.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, art. 143.º: nova redação do art. 5.º; já refletida no texto atual.",
+    "Alt. 2, art. 17.º: art. 5.º mantém o texto atual como n.º 1 e recebe novo n.º 2; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

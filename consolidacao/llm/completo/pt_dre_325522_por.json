@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:325522:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O art. 2.º, n.º 1, do DRR n.º 7/86/A revoga o DRR n.º 6/85/A 'com excepção do disposto nos artigos 11.º e 13.º a 15.º' do DL n.º 40-A/85: a revogação é parcial e a parte que se mantém (aplicação desses artigos do DL 40-A/85) não corresponde a artigos do original, pelo que não se pode aplicar textualmente com segurança.",
+  "instrucoes": [
+    "DRR 7/86/A, art. 1.º: aplica outro decreto-lei, não altera o original.",
+    "DRR 7/86/A, art. 2.º, n.º 1: revogação do original com exceção relativa a artigos do DL 40-A/85; não aplicada (ver nao_aplicavel).",
+    "DRR 7/86/A, art. 2.º, n.º 2: mantém em vigor outro diploma, não diz respeito ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

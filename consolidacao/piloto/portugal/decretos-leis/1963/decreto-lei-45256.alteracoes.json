@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nAs gratificações a que se refere o artigo anterior são fixadas nos quantitativos seguintes:\n\na) Gratificação de serviço de mergulhador:\n\nOficiais especializados em mergulhadores-sapadores ... 1500$00\n\nOficiais provenientes da classe de mergulhadores ... 1500$00\n\nSargentos e praças da classe de mergulhadores:\n\n1.ª categoria ... 900$00\n\n2.ª categoria ... 700$00\n\n3.ª categoria ... 500$00\n\nb) Gratificação suplementar:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/09/22300/14951496.pdf)\n\n§ único. Durante a frequência de cursos de mergulhadores, no País ou no estrangeiro, os alunos oficiais terão direito à percepção de 75 por cento da correspondente gratificação fixada na alínea a) deste artigo e os alunos sargentos e praças igual percentagem da gratificação estabelecida na mesma disposição para a 3.ª categoria, mas o abono só lhes poderá ser liquidado e pago depois de os mesmos terem atingido uma qualificação equivalente à de mergulhador-vigia.",
+    "depois": "###### Artigo 2.º\n\nAs gratificações a que se refere o artigo anterior são fixadas do seguinte modo:\n\na) Gratificação de serviço de mergulhador, nos quantitativos mensais correspondentes às seguintes percentagens, arredondados para a centena de escudos imediatamente superior, do vencimento base de primeiro-tenente, no caso da subalínea 1), e do vencimento base de primeiro-sargento, nos restantes casos:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17201/00010004.pdf)\n\nb) A gratificação suplementar é fixada mediante despacho conjunto dos Ministros da Defesa Nacional e das Finanças.\n\n§ 1.º Durante a frequência de cursos de mergulhadores no País ou no estrangeiro os alunos-oficiais terão direito à percepção de 75% da correspondente gratificação fixada na alínea a) deste artigo e os alunos-sargentos e praças igual percentagem da gratificação estabelecida na mesma disposição para a 3.ª categoria, mas o abono só lhes poderá ser liquidado e pago depois de os mesmos terem atingido uma qualificação equivalente à de mergulhador-vigia.\n\n§ 2.º Os oficiais médicos e os sargentos enfermeiros que tenham de prestar serviço em câmaras de compressão, designadamente em testes e provas nas inspecções para submarinistas e mergulhadores, tratamentos por oxigenoterapia hiperbárica e tratamentos de acidentes em mergulho, sempre que sujeitos a pressão, terão direito a uma percentagem de gratificação suplementar estabelecida no corpo deste artigo, a definir por despacho do Chefe do Estado-Maior da Armada.\n\n> Alterado pelo/a [Decreto-Lei n.º 47/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1989-612421), publicado em 1989-02-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:686788:por",
+    "alterador": "pt:dre:612421:por"
+  }
+]

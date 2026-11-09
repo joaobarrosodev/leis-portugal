@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1 - Os membros do Governo Regional vencerão:\n\na) O Presidente do Governo, 30000$00 mensais;\n\nb) Os Secretários Regionais, 27500$00 mensais.\n\n2 - Os membros do Governo Regional têm ainda direito a transporte, quando se desloquem em serviço da Região, e a ajudas de custo, que serão:\n\na) O Presidente do Governo, as correspondentes a Ministro;\n\nb) Os Secretários Regionais, as correspondentes a Secretário de Estado.\n\n3 - Não é permitida a atribuição aos membros do Governo Regional de qualquer retribuição mensal a título de despesas de representação, devendo as que ocorrem, necessariamente, ser suportadas pelo Orçamento Regional.\n\n4 - Os chefes de gabinete e o adjunto do Presidente do Governo Regional vencerão pela letra C da escala do funcionalismo público, a que acrescem 1000$00 mensais.\n\n5 - Os secretários particulares vencerão pela letra J.\n\n6 - As pessoas mencionadas neste artigo vencerão ainda dois subsídios extraordinários, cada um deles de valor igual ao subsídio mensal, nos meses de Junho e Dezembro, e terão um regime de previdência nos termos do Estatuto dos Deputados à Assembleia Regional.\n\n7 - As pessoas mencionadas neste artigo que sejam funcionários do Estado ou de outras pessoas colectivas públicas podem optar pelos respectivos vencimentos e subsídios.",
+    "depois": "###### Artigo 3.º\n\n1 - Os vencimentos e verbas auferidos para despesas pessoais de representação do Presidente do Governo Regional e dos Secretários Regionais corresponderão ao estabelecido na lei geral, respectivamente, para Ministros e Secretários de Estado.\n\n2 - Os membros do Governo Regional têm ainda direito a transporte, quando se desloquem em serviço da Região, e a ajudas de custo, que serão:\n\na) O Presidente do Governo, as correspondentes a Ministro;\n\nb) Os Secretários Regionais, as correspondentes a Secretário de Estado.\n\n3 - Não é permitida a atribuição aos membros do Governo Regional de qualquer retribuição mensal a título de despesas de representação, devendo as que ocorrem, necessariamente, ser suportadas pelo Orçamento Regional.\n\n4 - Os chefes de gabinete e o adjunto do Presidente do Governo Regional vencerão pela letra B da escala do funcionalismo público.\n\n5 - Os secretários particulares vencerão pela letra J.\n\n6 - As pessoas mencionadas neste artigo vencerão ainda dois subsídios extraordinários, cada um deles de valor igual ao subsídio mensal, nos meses de Junho e Dezembro, e terão um regime de previdência nos termos do Estatuto dos Deputados à Assembleia Regional.\n\n7 - As pessoas mencionadas neste artigo que sejam funcionários do Estado ou de outras pessoas colectivas públicas podem optar pelos respectivos vencimentos e subsídios.\n\n> Alterado pelo/a [Decreto Regional n.º 15/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/15-1981-565190), publicado em 1981-09-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:446142:por",
+    "alterador": "pt:dre:565190:por"
+  }
+]

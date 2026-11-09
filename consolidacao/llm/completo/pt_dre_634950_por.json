@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:634950:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Todas as instruções do Decreto-Lei n.º 214-A/2015 (arts. 1.º, 2.º, 3.º, 5.º e 6.º) visam as bases da concessão anexas, que não constam do texto atual recebido (só os artigos 1.º a 5.º do decreto-lei); não aplicadas.",
+  "instrucoes": [
+    "Art. 1.º: nova redação de várias bases (I a LXXXVI): bases ausentes do texto atual, não aplicada.",
+    "Art. 2.º: aditamento das bases X-A, XVII-A, XVIII-A, XXII-A, XLIII-A, LV-A a LV-M, LIX-A a LIX-F e LXXXIV-A a LXXXIV-E: não aplicado (anexo ausente).",
+    "Art. 3.º: alterações sistemáticas (capítulos) às bases: não aplicadas.",
+    "Art. 5.º: revogação de alíneas, números e bases: não aplicada (anexo ausente).",
+    "Art. 6.º: republicação das bases: sem efeito no texto dos artigos 1.º a 5.º.",
+    "Nenhuma instrução altera os artigos 1.º a 5.º do decreto-lei."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

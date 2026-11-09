@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:1926318:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "As instruções dos alteradores 2 a 4 dirigem-se ao Regulamento n.º 11/2000 da CMVM (deveres de informação: n.º 1 do art. 6.º, n.º 1 do art. 8.º, art. 1.º, novo art. 8.º-A, al. b) do n.º 2 do art. 3.º), não a este Regulamento n.º 11/2000 da ESTG de Leiria; os números, alíneas e textos visados não existem no texto atual (que só tem arts. 1.º a 5.º sobre inscrições e graus). O alterador 1 (Regulamento n.º 24/2000, regulamento de estágio do IPL) não contém instruções dirigidas ao original.",
+  "instrucoes": [
+    "Alterador 1: regulamento autónomo, sem instruções ao original",
+    "Alterador 2 (CMVM 34/2000): adita al. f) ao n.º 1 do art. 6.º e altera o n.º 1 do art. 8.º do Regulamento CMVM 11/2000: alvos inexistentes: não aplicado",
+    "Alterador 3 (CMVM 13/2002): altera art. 1.º, adita art. 8.º-A, revoga al. b) do n.º 2 do art. 3.º do Regulamento CMVM 11/2000: outro diploma, alvos inexistentes: não aplicado",
+    "Alterador 4 (CMVM 11/2003): altera art. 8.º-A do Regulamento CMVM 11/2000: inexistente: não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

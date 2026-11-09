@@ -1,0 +1,50 @@
+{
+  "id": "pt:dre:654526:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Natureza e fins",
+      "texto": "1 - Os comandos administrativos são os órgãos, situados na linha de comando do Chefe do Estado-Maior da Armada (CEMA), destinados a promover o aprontamento e o apoio logístico e administrativo das unidades navais e meios operacionais que lhes estejam atribuídos.\n\n2 - Os comandos administrativos compreendem:\n\na) A Flotilha;\n\nb) A Esquadrilha de Escoltas Oceânicos;\n\nc) A Esquadrilha de Navios Patrulhas;\n\nd) A Esquadrilha de Draga-Minas;\n\ne) A Esquadrilha de Submarinos;\n\nf) A Esquadrilha de Helicópteros.\n\n3 - Os comandos administrativos referidos nas alíneas b) a e) do número anterior designam-se genericamente por esquadrilhas de navios.",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Departamento de Logística",
+      "texto": "1 - Ao Departamento de Logística compete:\n\na) Acompanhar a execução dos planos de manutenção das unidades atribuídas à Flotilha e esquadrilhas;\n\nb) Promover e coordenar o recurso aos meios de apoio técnico disponíveis nas esquadrilhas pelas unidades atribuídas à Flotilha e esquadrilhas;\n\nc) Promover e coordenar, no seu âmbito, a execução de estudos de natureza técnica relativos aos diversos tipos de unidades navais, propondo as soluções que visem aumentar a sua eficiência;\n\nd) Executar as tarefas de natureza administrativa inerentes à gestão, bem-estar e bom estado sanitário do pessoal em serviço na Flotilha e, no âmbito do sistema de gestão de recursos humanos da Marinha, propor a movimentação temporária de pessoal das unidades atribuídas à Flotilha e às esquadrilhas;\n\ne) Elaborar estudos relativos aos requisitos e à utilização do pessoal das guarnições das unidades atribuídas à Flotilha e às esquadrilhas.\n\n2 - O Departamento de Logística compreende os seguintes serviços:\n\na) O Serviço de Manutenção, ao qual incumbe o exercício das competências indicadas nas alíneas a), b) e c) do n.º 1;\n\nb) O Serviço de Pessoal, ao qual incumbe o exercício das competências indicadas nas alíneas d) e e) do n.º 1.",
+      "alterador": 1
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Esquadrilha de Escoltas Oceânicos",
+      "texto": "À Esquadrilha de Escoltas Oceânicos (EEO) compete:\n\na) Assegurar ou promover o aprontamento e a avaliação do nível de prontidão e de desempenho das unidades navais que lhe estejam atribuídas;\n\nb) Promover o apoio logístico e administrativo das unidades navais que lhe estejam atribuídas, ainda que executem missões sob o comando operacional de outras entidades;\n\nc) Cooperar na elaboração de estudos e propostas relativos às unidades navais atribuídas;\n\nd) Assegurar ou promover o apoio técnico especializado às unidades navais, nomeadamente no âmbito da manutenção preventiva e correctiva;\n\ne) Cooperar na definição ou actualização dos padrões de prontidão das unidades navais atribuídas;\n\nf) Promover a conservação e manutenção das infra-estruturas da EEO;\n\ng) Assegurar a execução dos procedimentos de segurança superiormente definidos aplicáveis à EEO e unidades navais atribuídas.",
+      "alterador": 1
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Esquadrilha de Navios Patrulhas",
+      "texto": "À Esquadrilha de Navios Patrulhas (ENP) compete:\n\na) Assegurar ou promover o aprontamento e a avaliação do nível de prontidão e de desempenho das unidades navais e outros meios de acção naval que lhe estejam atribuídos;\n\nb) Promover o apoio logístico e administrativo das unidades navais que lhe estejam atribuídas, ainda que executem missões sob o comando operacional de outras entidades;\n\nc) Cooperar na elaboração de estudos e propostas relativos às unidades navais atribuídas;\n\nd) Assegurar ou promover o apoio técnico especializado às unidades navais, nomeadamente no âmbito da manutenção preventiva e correctiva;\n\ne) Cooperar na definição ou actualização dos padrões de prontidão das unidades navais atribuídas;\n\nf) Promover a conservação e manutenção das infra-estruturas da Esquadrilha;\n\ng) Assegurar a execução dos procedimentos de segurança superiormente definidos, aplicáveis à Esquadrilha e unidades navais atribuídas.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º, n.º 2, al. b): «Oceânicas;» por «Oceânicos;» — já estava no texto atual.",
+    "Art. 1.º, n.º 2, al. c): «Navios-Patrulhas;» por «Navios Patrulhas;» — aplicado.",
+    "Art. 12.º, n.º 1, al. d): «à Flotilha e esquadrilhas;» por «à Flotilha e às esquadrilhas;» — já estava no texto atual.",
+    "Art. 12.º, n.º 1, al. e): «à Flotilha e esquadrilhas» por «à Flotilha e às esquadrilhas» — aplicado (no texto atual a alínea termina em ponto, não em ponto e vírgula; mantido o ponto).",
+    "Art. 14.º, epígrafe: «Oceânicas» por «Oceânicos» — já estava; corpo «À Esquadrilha de Escoltas Oceânicas (EEO)» por «Oceânicos» — aplicado; al. a) «prontidão e do desempenho» por «prontidão e de desempenho» — aplicado.",
+    "Art. 20.º, epígrafe — já estava; corpo «À Esquadrilha de Navios-Patrulhas (ENP) compete:» por «Navios Patrulhas» — aplicado.",
+    "Art. 57.º, n.º 2: «oceânicas e de navios-patrulhas...» — já estava no texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "1.º: parágrafo que não está no alterador nem no original: b) A Esquadrilha de Escoltas Oceânicos;",
+    "1.º: parágrafo que não está no alterador nem no original: c) A Esquadrilha de Navios Patrulhas;",
+    "12.º: parágrafo que não está no alterador nem no original: d) Executar as tarefas de natureza administrativa inerentes à gestão, bem-estar ",
+    "12.º: parágrafo que não está no alterador nem no original: e) Elaborar estudos relativos aos requisitos e à utilização do pessoal das guarn",
+    "14.º: parágrafo que não está no alterador nem no original: À Esquadrilha de Escoltas Oceânicos (EEO) compete:",
+    "14.º: parágrafo que não está no alterador nem no original: a) Assegurar ou promover o aprontamento e a avaliação do nível de prontidão e de"
+  ]
+}

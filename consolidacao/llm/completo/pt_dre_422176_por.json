@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:422176:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Todos os alteradores (Portaria 42/76, DR 70/77, Portaria 683/78, Portaria 714/79, DR 49/80, Portaria 438/81) alteram apenas o quadro de pessoal do mapa anexo (artigo 20.º), que só existe em imagem; não há alteração textual a artigos.",
+  "instrucoes": [
+    "Alt.1 Portaria 42/76: aumenta o quadro do mapa anexo (quadro em imagem) - não aplicável ao texto.",
+    "Alt.2 DR 70/77: aumenta lugares do quadro e regula provimento em normas próprias, não altera artigos do original - nada a aplicar.",
+    "Alt.3 Portaria 683/78 n.º 3.º: altera números de lugares do mapa anexo - não aplicável ao texto (mapa em imagem).",
+    "Alt.4 Portaria 714/79: aumenta o quadro (mapa IV em imagem) - não aplicável.",
+    "Alt.5 DR 49/80: extingue carreira de arquivista e acrescenta lugares ao mapa - não aplicável ao texto.",
+    "Alt.6 Portaria 438/81: rectifica mapa da Portaria 514/80 (imagem) - não é do texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

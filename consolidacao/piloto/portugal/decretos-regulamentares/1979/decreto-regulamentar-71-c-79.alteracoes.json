@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — (Pessoal dirigente)\n\n1 - Os cargos de presidente e vogal do conselho de direcção são equiparados, respectivamente, a director-geral e subdirector-geral.\n\n2 - Os cargos de directores do Centro de Estudos Demográficos, do Centro de Estudos Económicos e do Centro de Informática são equiparados a directores de serviços.\n\n3 - O cargo de subdirector do Centro de Informática é equiparado a chefe de divisão.\n\n4 - Os cargos referidos nos números anteriores e os de director de serviços e chefe de divisão são providos nos termos da lei geral.\n\n5 - O lugar de chefe de repartição será provido de entre:\n\na) Chefe de secção com o mínimo de três anos de bom e efectivo serviço na categoria;\n\nb) Indivíduos possuidores de curso superior e experiência adequada.\n\n6 - Os lugares de chefe de delegação, equiparados a chefe de repartição, serão providos de entre:\n\na) Técnicos de estatística principal ou de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Chefes de secção com o mínimo de três anos de bom e efectivo serviço na categoria;\n\nc) Indivíduos possuidores de curso superior e experiência adequada.",
+    "depois": "###### Artigo 3.º — (Pessoal dirigente)\n\n1 - Os cargos de presidente e vogal do conselho de direcção são equiparados, respectivamente, a director-geral e subdirector-geral.\n\n2 - Os cargos de directores do Centro de Estudos Demográficos, do Centro de Estudos Económicos e do Centro de Informática são equiparados a directores de serviços.\n\n3 - O cargo de subdirector do Centro de Informática é equiparado a chefe de divisão.\n\n4 - Os cargos referidos nos números anteriores e os de director de serviços e chefe de divisão são providos nos termos da lei geral.\n\n5 - O lugar de chefe de repartição será provido de entre:\n\na) Chefe de secção com o mínimo de três anos de bom e efectivo serviço na categoria;\n\nb) Indivíduos possuidores de curso superior e experiência adequada.\n\n6 - Os lugares de chefe de delegação, equiparados a chefe de repartição, serão providos de entre:\n\na) (Revogada.)\n\nb) Chefes de secção com o mínimo de três anos de bom e efectivo serviço na categoria;\n\nc) Indivíduos possuidores de curso superior e experiência adequada.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 63/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1982-375264), publicado em 1982-09-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:157016:por",
+    "alterador": "pt:dre:375264:por"
+  },
+  {
+    "artigo": "15.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 15.º — (Intercomunicabilidade de carreiras)\n\n1 - Para efeitos de aplicação do disposto no artigo 6.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, as carreiras da mesma área funcional deverão constar do respectivo aviso de abertura do concurso.\n\n2 - Os técnicos de estatística principal poderão transitar para técnico superior de estatística de 1.ª classe, mediante provas de selecção que impliquem a avaliação de conhecimentos de nível superior.",
+    "depois": "###### Artigo 15.º — (Intercomunicabilidade de carreiras)\n\n1 - Para efeitos de aplicação do disposto no artigo 6.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, as carreiras da mesma área funcional deverão constar do respectivo aviso de abertura do concurso.\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 63/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1982-375264), publicado em 1982-09-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:157016:por",
+    "alterador": "pt:dre:375264:por"
+  },
+  {
+    "artigo": "16.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 16.º — (Carreira a extinguir)\n\nA carreira de técnico de estatística extinguir-se-á à medida que forem os lugares vagando em resultado da normal progressão na carreira.",
+    "depois": "###### Artigo 16.º — (Carreira a extinguir)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 63/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1982-375264), publicado em 1982-09-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:157016:por",
+    "alterador": "pt:dre:375264:por"
+  }
+]

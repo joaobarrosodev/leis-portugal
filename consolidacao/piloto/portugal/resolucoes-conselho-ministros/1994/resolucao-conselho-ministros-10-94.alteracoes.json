@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:501619:por",
     "alterador": "pt:dre:385808:por"
+  },
+  {
+    "artigo": "33.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 33.º\n\nAs acções objecto deste concurso são transmitidas incorporando o direito aos dividendos relativos ao exercício de 1993.",
+    "depois": "###### Artigo 33.º — Direito aos dividendos\n\nAs acções objecto deste concurso são transmitidas incorporando o direito aos dividendos relativos ao exercício de 1993.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 17/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-1994-385808), publicado em 1994-02-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:501619:por",
+    "alterador": "pt:dre:385808:por"
   }
 ]

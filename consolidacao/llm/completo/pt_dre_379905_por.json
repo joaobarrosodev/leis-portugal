@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:379905:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 115/87) e alterador 2 (Portaria 549/88, n.º 2.º): mudam a designação dos cursos de Engenharia Electrotécnica e de Engenharia de Construção Naval, sem instrução textual sobre o artigo 1.º do Decreto Regulamentar; não aplicado como alteração de texto. Portaria 549/88 n.º 1.º altera anexos da Portaria 1127/82 (outro diploma).",
+  "instrucoes": [
+    "Portaria 115/87: curso de Engenharia Electrotécnica passa a designar-se Engenharia Electrotécnica e de Computadores; não textual, não aplicado",
+    "Portaria 549/88 1.º: altera anexos da Portaria 1127/82; outro diploma, ignorado",
+    "Portaria 549/88 2.º: Engenharia de Construção Naval passa a Engenharia Naval; não textual, não aplicado",
+    "Portaria 549/88 3.º e 4.º: funcionamento e transição; não dirigidos ao texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nO quadro de oficiais médicos fixado pelo artigo 28.º do [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937, passa a ser o seguinte:\n\nCoronéis ... 5\n\nTenentes-coronéis ... 9\n\nMajores ... 12\n\nCapitães ... 40\n\nSubalternos ... 30",
+    "depois": "###### Artigo 1.º\n\nO quadro de oficiais médicos fixado pelo artigo 28.º do [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937, passa a ser o seguinte:\n\nCoronéis ... 6\n\nTenentes-coronéis ... 9\n\nMajores ... 18\n\nCapitães e subalternos ... 60\n\n> Alterado pelo/a [Decreto-Lei n.º 52/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1974-407489), publicado em 1974-02-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:401690:por",
+    "alterador": "pt:dre:407489:por"
+  }
+]

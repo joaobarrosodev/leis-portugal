@@ -104,7 +104,17 @@ c) A concessão dos montantes de subsídio familiar a crianças e jovens pelos v
 
 ###### Artigo 9.º — Actuação das instituições ou serviços gestores das prestações
 
-As instituições ou serviços gestores das prestações podem solicitar, sempre que se justifique, quaisquer elementos que permitam comprovar a veracidade das declarações de rendimentos prestadas pelos interessados, designadamente a especificação das despesas regulares dos agregados familiares.
+1 - Sempre que da obrigação de declarar anualmente os rendimentos resulte, por acção ou omissão, posicionamento em escalão de rendimentos de que venha a resultar valor de subsídio familiar a crianças e jovens inferior ao que vinha sendo concedido ao seu titular, devem as instituições gestoras das prestações observar os seguintes procedimentos:
+
+a) Notificar os interessados de que o valor do subsídio familiar a crianças e jovens irá sofrer redução a partir do início do ano civil subsequente àquele em que a prova de rendimentos teve lugar, como consequência do posicionamento em escalão diferente daquele em que estavam posicionados;
+
+b) Conceder prazo até 31 de Dezembro do ano civil em que é feita a prova de rendimentos para os interessados requererem a respectiva rectificação de escalão, sendo caso disso;
+
+c) O não cumprimento do prazo referido na alínea anterior sem justificação atendível determina a concessão da prestação pelos montantes inferiores no ano civil subsequente àquele em que a prova de rendimentos teve lugar.
+
+2 - As instituições ou serviços gestores das prestações podem solicitar, sempre que se justifique, quaisquer elementos que permitam comprovar a veracidade das declarações de rendimentos prestadas pelos interessados, designadamente a especificação das despesas regulares dos agregados familiares.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 15/99](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1999-434786), publicado em 1999-08-17.
 
 ###### Artigo 10.º — Produção de efeitos
 

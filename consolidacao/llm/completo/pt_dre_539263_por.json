@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:539263:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Como gratificação para despesas de representação do comandante-chefe da província da Guiné ser-lhe-á atribuída, mensalmente, a quantia de 5000$00.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do art. 2.º; aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

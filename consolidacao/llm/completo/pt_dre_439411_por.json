@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:439411:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL 11/2010, art. 3.º, dá nova redação ao anexo III do DL 218/2008, que não consta do texto atual recebido (só artigos); não aplicado.",
+  "instrucoes": [
+    "DL 11/2010, art. 3.º: nova redação do anexo III - não aplicado (anexo ausente do texto atual)",
+    "DL 11/2010, arts. 2.º, 4.º e 6.º: alteram o DL 237/2006 e o DL 267-B/2000 - ignorados",
+    "DL 11/2010, arts. 1.º e 5.º: normas próprias - não alteram o original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

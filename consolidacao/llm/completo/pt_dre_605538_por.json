@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:605538:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Prorrogação",
+      "texto": "1 - É prorrogada, por um período de seis meses, a atribuição do subsídio social de desemprego inicial ou subsequente ao subsídio de desemprego que cesse no decurso do ano de 2010, sem prejuízo do disposto no número seguinte.\n\n2 - A prorrogação prevista no número anterior não se aplica às situações de prorrogação da atribuição do subsídio social de desemprego inicial ou subsequente ao subsídio de desemprego ocorridas durante o ano de 2009.\n\n3 - O montante diário do subsídio referido no número anterior corresponde a 1/30 de 60 % do valor do indexante dos apoios sociais (IAS), sem prejuízo do disposto no número seguinte.\n\n4 - O montante diário do subsídio é majorado em 1/30 de 10 % do IAS por cada filho que integre o agregado familiar do titular da prestação, não podendo o montante diário total exceder 1/30 do valor do IAS.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 15/2010): nova redação do artigo 2.º (n.os 1 e 2 novos, antigos 2 e 3 passam a 3 e 4); aplicado.",
+    "Alteradores 2 a 5 (DL 72/2010, 64/2012, 13/2013, 153/2019): alteram o DL 220/2006 e outros diplomas, não o original; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

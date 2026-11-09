@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:373825:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 (art. 1.º) e 2 (art. 1.º): substituem membros da Comissão (Dr. Jorge Miranda pelo tenente-coronel Mário Stoffel Martins; Dr. António Pinto Machado pelo licenciado Júlio Menino Salcedas) sem darem nova redação textual ao artigo 1.º; a forma exata das novas linhas da lista (tratamento, capitalização) teria de ser inventada, pelo que não foi aplicada.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: substituição de um técnico na composição - não aplicada (sem redação textual).",
+    "Alterador 2, art. 1.º: substituição do representante do MNE - não aplicada (sem redação textual)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

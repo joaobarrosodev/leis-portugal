@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:184543:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Para efeitos estatísticos, a duração da gestação, que se designa por idade gestacional, será classificada nos seguintes grupos:\n\n1.º grupo: menos de vinte e duas semanas completas;\n\n2.º grupo: de vinte e duas semanas a menos de vinte e oito semanas completas;\n\n3.º grupo: vinte e oito semanas completas ou mais;\n\n4.º grupo: duração desconhecida.\n\n§ único. A idade gestacional é expressa em dias ou semanas completas e é calculada a partir do primeiro dia do último período menstrual normal.",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - Segundo a duração da gestação, é de pré-termo o nascimento que ocorra antes de trinta e sete semanas completas de gestação; é de termo o que ocorre entre trinta e sete semanas e quarenta e uma semanas e seis dias de gestação; é de pós-termo o que ocorre com quarenta e duas semanas completas ou mais de gestação.\n\n2 - Segundo o peso ao nascer, é de baixo peso o feto ou recém-nascido cuja primeira medida de peso seja inferior a 2500 g.\n\n§ único. A primeira medida de peso deverá ser feita, de preferência, na primeira hora de vida, antes que ocorra uma significativa perda de peso pós-natal.",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "Sempre que se produza antes do nascimento, a morte do produto da fecundação será designada por morte fetal.\n\n§ único. A morte fetal, com relação à duração da gestação, poderá ser:\n\na) Precoce, se a gestação pertencer ao 1.º grupo;\n\nb) Intermédia, se pertencer ao 2.º;\n\nc) Tardia, caso se classifique no 3.º",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "Para todos os efeitos legais, são ùnicamente de adoptar os conceitos e designação técnica constantes deste decreto-lei.\n\n§ único. A anterior designação de abortamento corresponde à actual designação de morte fetal precoce. A anterior designação de mortinatalidade, à de morte fetal intermédia ou tardia; e a de nado-morto, à de feto morto.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 27/80), art. 1.º: nova redação do artigo 1.º (corpo, grupos e § único).",
+    "Alterador 1, art. 1.º: nova redação integral do artigo 3.º (n.os 1 e 2 e § único).",
+    "Alterador 1, art. 1.º: artigo 4.º, corpo '...' mantido do texto atual, § único e alíneas a) a c) substituídos.",
+    "Alterador 1, art. 1.º: artigo 5.º, corpo '...' mantido do texto atual, § único substituído.",
+    "Alterador 1, art. 2.º: entrada em vigor, norma autónoma; o artigo 2.º do original não é alterado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

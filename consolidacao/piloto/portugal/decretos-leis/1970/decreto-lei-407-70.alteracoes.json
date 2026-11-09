@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\nAs funções de bedel das Faculdades da Universidade de Coimbra passam a ser exercidas por primeiros ou segundos-oficiais.",
+    "depois": "###### Artigo 8.º\n\nAs funções de bedel das escolas universitárias são exercidas por primeiros, segundos ou terceiros-oficiais.\n\n> Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:138828:por",
+    "alterador": "pt:dre:146056:por"
+  }
+]

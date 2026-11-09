@@ -42,39 +42,45 @@ a) «Crédito à habitação»: os contratos de crédito para aquisição, const
 
 b) «Crédito conexo»: os contratos de crédito garantidos por hipoteca que incide, total ou parcialmente, sobre um imóvel que simultaneamente garante um contrato de crédito à habitação celebrado com a mesma instituição de crédito, nos termos definidos no n.º 2 do artigo 1.º do [Decreto-Lei n.º 51/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2007-519187), de 7 de Março;
 
-c) «Empréstimo»: qualquer contrato de crédito à habitação ou de crédito conexo;
+c) 'Outro crédito hipotecário': os contratos de crédito, não abrangidos pelas alíneas anteriores, garantidos por hipoteca sobre coisa imóvel ou por outro direito sobre coisa imóvel, e celebrados com pessoas singulares que atuem com objetivos alheios à sua atividade comercial ou profissional, nos termos definidos no n.º 3 do artigo 1.º do [Decreto-Lei n.º 51/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2007-519187), de 7 de março;
 
-d) «Empréstimo padrão»: empréstimo comercializado numa base regular, que configura, face a opções de financiamento alternativas, a modalidade mais simples, com taxa de juro variável indexada à Euribor, à qual acresce o spread base atribuído ao cliente, reembolsado, desde o início, em prestações constantes de capital e juros;
+d) 'Empréstimo': qualquer contrato de crédito à habitação, de crédito conexo ou de outro crédito hipotecário;
 
-e) «Aprovação do empréstimo»: decisão da instituição de crédito de proceder à concessão do empréstimo, na sequência da análise dos elementos necessários a essa concessão, incluindo o resultado da avaliação do imóvel;
+e) «Empréstimo padrão»: empréstimo comercializado numa base regular, que configura, face a opções de financiamento alternativas, a modalidade mais simples, com taxa de juro variável indexada à Euribor, à qual acresce o spread base atribuído ao cliente, reembolsado, desde o início, em prestações constantes de capital e juros;
 
-f) «Instrução»: diploma complementar ao presente Aviso, a emitir pelo Banco de Portugal;
+f) «Aprovação do empréstimo»: decisão da instituição de crédito de proceder à concessão do empréstimo, na sequência da análise dos elementos necessários a essa concessão, incluindo o resultado da avaliação do imóvel;
 
-g) «Comissões»: as prestações pecuniárias exigíveis aos clientes pelas instituições de crédito como retribuição pelos serviços por elas prestados, ou subcontratados a terceiros, no âmbito da negociação, celebração e vigência dos empréstimos;
+g) «Instrução»: diploma complementar ao presente Aviso, a emitir pelo Banco de Portugal;
 
-h) «Despesas»: os demais encargos suportados pelas instituições de crédito, que lhe são exigíveis por terceiros, e repercutíveis nos clientes, nomeadamente os pagamentos a Conservatórias, Cartórios Notariais ou que tenham natureza fiscal;
+h) «Comissões»: as prestações pecuniárias exigíveis aos clientes pelas instituições de crédito como retribuição pelos serviços por elas prestados, ou subcontratados a terceiros, no âmbito da negociação, celebração e vigência dos empréstimos;
 
-i) «TAE»: a taxa anual efectiva, calculada nos termos do [Decreto-Lei n.º 220/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1994-218727), de 23 de Agosto, abrangendo, quando for o caso, todas as condições promocionais associadas ao empréstimo e a redução de comissões e demais custos desse empréstimo em resultado de vendas associadas facultativas, nos termos definidos, respectivamente, no artigo 3.º e no n.º 2 do artigo 9.º do [Decreto-Lei n.º 51/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2007-519187), de 7 de Março, bem como outras situações susceptíveis de afectar o custo do empréstimo;
+i) «Despesas»: os demais encargos suportados pelas instituições de crédito, que lhe são exigíveis por terceiros, e repercutíveis nos clientes, nomeadamente os pagamentos a Conservatórias, Cartórios Notariais ou que tenham natureza fiscal;
 
-j) «TAER»: a taxa anual efectiva revista, calculada nos termos do disposto no [Decreto-Lei n.º 220/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1994-218727), de 23 de Agosto, e no artigo 9.º do [Decreto-Lei n.º 51/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2007-519187), de 7 de Março;
+j) «TAE»: a taxa anual efectiva, calculada nos termos do [Decreto-Lei n.º 220/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1994-218727), de 23 de Agosto, abrangendo, quando for o caso, todas as condições promocionais associadas ao empréstimo e a redução de comissões e demais custos desse empréstimo em resultado de vendas associadas facultativas, nos termos definidos, respectivamente, no artigo 3.º e no n.º 2 do artigo 9.º do [Decreto-Lei n.º 51/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2007-519187), de 7 de Março, bem como outras situações susceptíveis de afectar o custo do empréstimo;
 
-k) «TAN»: a taxa de juro anual nominal;
+k) «TAER»: a taxa anual efectiva revista, calculada nos termos do disposto no [Decreto-Lei n.º 220/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1994-218727), de 23 de Agosto, e no artigo 9.º do [Decreto-Lei n.º 51/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2007-519187), de 7 de Março;
 
-l) «Taxa de juro fixa»: a taxa de juro determinada pela instituição de crédito para os empréstimos abrangidos pelo regime de taxa fixa;
+l) «TAN»: a taxa de juro anual nominal;
 
-m) «Taxa de juro fixa contratada»: a taxa de juro determinada pela instituição de crédito para os empréstimos abrangidos pelo regime de taxa fixa, em resultado da existência de vendas associadas facultativas, condições promocionais ou outras situações susceptíveis de afectar o custo do empréstimo;
+m) «Taxa de juro fixa»: a taxa de juro determinada pela instituição de crédito para os empréstimos abrangidos pelo regime de taxa fixa;
 
-n) «Spread base»: a margem aplicada sobre o indexante, em regime de taxa de juro variável, ou sobre a taxa de referência, em regime de taxa de juro fixa, se aplicável, atribuída ao cliente após avaliação do seu risco de crédito e das garantias oferecidas para cumprimento do empréstimo;
+n) «Taxa de juro fixa contratada»: a taxa de juro determinada pela instituição de crédito para os empréstimos abrangidos pelo regime de taxa fixa, em resultado da existência de vendas associadas facultativas, condições promocionais ou outras situações susceptíveis de afectar o custo do empréstimo;
 
-o) «Spread contratado»: a margem aplicada sobre o indexante, em regime de taxa de juro variável, ou sobre a taxa de referência, em regime de taxa de juro fixa, se aplicável, atribuída ao cliente em resultado da existência de vendas associadas facultativas, condições promocionais ou outras situações susceptíveis de afectar o custo do empréstimo;
+o) «Spread base»: a margem aplicada sobre o indexante, em regime de taxa de juro variável, ou sobre a taxa de referência, em regime de taxa de juro fixa, se aplicável, atribuída ao cliente após avaliação do seu risco de crédito e das garantias oferecidas para cumprimento do empréstimo;
 
-p) «Suporte duradouro»: qualquer instrumento que permita ao cliente armazenar informações que lhe sejam pessoalmente dirigidas, de modo a que, no futuro, possa ter acesso fácil às mesmas durante um período de tempo adequado aos fins a que essas informações se destinam e, bem assim, reproduzi-las de forma integral e inalterada.
+p) «Spread contratado»: a margem aplicada sobre o indexante, em regime de taxa de juro variável, ou sobre a taxa de referência, em regime de taxa de juro fixa, se aplicável, atribuída ao cliente em resultado da existência de vendas associadas facultativas, condições promocionais ou outras situações susceptíveis de afectar o custo do empréstimo;
+
+q) «Suporte duradouro»: qualquer instrumento que permita ao cliente armazenar informações que lhe sejam pessoalmente dirigidas, de modo a que, no futuro, possa ter acesso fácil às mesmas durante um período de tempo adequado aos fins a que essas informações se destinam e, bem assim, reproduzi-las de forma integral e inalterada.
+
+> Alterado pelo/a [Aviso do Banco de Portugal n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/16-2012-3647908), publicado em 2012-12-17.
 
 ###### Artigo 3.º — Dever de informação
 
 1 - As instituições de crédito devem informar os clientes sobre os diferentes elementos caracterizadores dos empréstimos que comercializam, bem como sobre os diversos encargos a suportar pelos clientes.
 
-2 - A informação a prestar pelas instituições de crédito no âmbito da negociação, celebração e vigência de contratos de crédito à habitação e de crédito conexo deve ser completa, verdadeira, actual, clara, objectiva e apresentada de forma legível.
+2 - A informação a prestar pelas instituições de crédito no âmbito da negociação, celebração e vigência de contratos de crédito à habitação, de crédito conexo e de outro crédito hipotecário deve ser completa, verdadeira, atual, clara, objetiva e apresentada de forma legível.
+
+> Alterado pelo/a [Aviso do Banco de Portugal n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/16-2012-3647908), publicado em 2012-12-17.
 
 ###### Artigo 4.º — Informação pré-contratual
 

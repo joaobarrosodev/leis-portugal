@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:431014:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Regulamento Relativo aos Sistemas de Aquecimento dos Automóveis e Seus Reboques::26.º",
+      "epigrafe": "Requisitos de segurança",
+      "texto": "Os requisitos de segurança aplicáveis aos aquecedores de combustão a GPL e aos sistemas de aquecimento a GPL para utilização rodoviária ou para uso exclusivamente estacionário constam do anexo X do presente Regulamento.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Substituições dos anexos técnicos do Regulamento (anexos I, II, III, V, VI e X pelo alt. 1; anexo X e aditamento do anexo XI pelo alt. 2; anexo V pelo alt. 3): os anexos não constam do texto atual por artigos e o seu conteúdo não está aqui em forma de artigos; não aplicadas.",
+  "instrucoes": [
+    "Alt. 1, art. 2.º: aditada secção III ao capítulo IV com o art. 26.º do Regulamento; aplicado.",
+    "Alt. 1, art. 3.º: nova redacção dos anexos I, II, III, V, VI e X do Regulamento; não aplicada (anexos fora do texto por artigos).",
+    "Alt. 1, art. 4.º: altera outro diploma (DL 72/2000); ignorado.",
+    "Alt. 2, art. 2.º: nova redacção do anexo X e aditamento do anexo XI do Regulamento; não aplicada.",
+    "Alt. 3, art. 11.º: nova redacção do anexo V do Regulamento; não aplicada. Restantes artigos alteram outros diplomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

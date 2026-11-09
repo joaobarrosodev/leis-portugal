@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:397938:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 6-E/2000) rectifica os mapas VII e VIII, que só vêm em imagem; não aplicado. Alterador 2 (Acórdão n.º 532/2000) não traz texto dirigido ao original.",
+  "instrucoes": [
+    "Alterador 1: rectificação dos mapas VII e VIII (imagem) - não aplicada",
+    "Alterador 2: sem conteúdo - nada a aplicar"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

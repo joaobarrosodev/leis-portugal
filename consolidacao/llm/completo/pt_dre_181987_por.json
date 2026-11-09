@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:181987:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 4.º, 4: altera o anexo II do original na parte da 'Villa romana de Miroiços', mas o anexo II não consta do texto atual; planta de delimitação só em imagem.",
+  "instrucoes": [
+    "Art. 1.º e 3.º: novas classificações/reclassificação - não alteram o original.",
+    "Art. 2.º e 4.º, 1, 2 e 5: alteram outros decretos - ignoradas.",
+    "Art. 4.º, 3: rectifica alínea c) do artigo único ('valores concelhios') - texto atual já tem essa redação; nada a mudar.",
+    "Art. 4.º, 4: nova redação no anexo II - não aplicável (anexo ausente do texto atual)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

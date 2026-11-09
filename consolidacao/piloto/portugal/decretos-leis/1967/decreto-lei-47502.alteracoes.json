@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 4.º\n\nO Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas está isento de custas e selos em todos os processos em que for parte ou interessado e de quaisquer emolumentos, taxas, contribuições ou impostos e beneficia de todas as facilidades conferidas por lei às instituições oficiais de assistência.\n\n§ único. O disposto no corpo deste artigo é aplicável aos processos em que o Cofre já teve intervenção.\n\n> Aditado pelo/a [Decreto-Lei n.º 47725](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47725-1967-312823), publicado em 1967-05-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:501580:por",
+    "alterador": "pt:dre:312823:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nOs boletins de condução de que sejam titulares oficiais, sargentos ou praças de qualquer dos ramos das forças armadas continuam a ser válidos quando aqueles militares se encontrem na situação de reforma.",
+    "depois": "###### Artigo 1.º\n\nOs boletins de condução de que sejam titulares os oficiais, sargentos e praças dos quadros permanentes das forças armadas continuam a ser válidos quando aqueles militares se encontrem nas situações de reserva ou reforma.\n\n> Alterado pelo/a [Decreto-Lei n.º 323/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1990-565581), publicado em 1990-10-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:263558:por",
+    "alterador": "pt:dre:565581:por"
+  }
+]

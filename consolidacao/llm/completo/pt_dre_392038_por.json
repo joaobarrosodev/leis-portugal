@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:392038:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Declaração de Rectificação n.º 15-H/99: (1) a rectificação do preâmbulo do Acordo incide sobre texto que não é artigo; (2) a regra de que, nos artigos 4.º, 13.º, 15.º, 16.º, 17.º, 19.º e 20.º, os números cardinais de dias ou meses passam a constar entre parêntesis antecedidos da designação por extenso não traz o texto novo, que teria de ser composto e não copiado; (3) as rectificações dos textos em espanhol e inglês incidem sobre versões que não constam do texto atual. Nenhuma foi aplicada.",
+  "instrucoes": [
+    "Preâmbulo, 1.º parágrafo: «daqui em diante designados 'Partes Contratantes':» → «daqui em diante designados por 'as Partes Contratantes':» — não aplicado (preâmbulo, não artigo).",
+    "Artigos 4.º, 13.º, 15.º, 16.º, 17.º, 19.º e 20.º (português): números de dias ou meses entre parêntesis e por extenso — não aplicado (regra genérica sem texto novo).",
+    "Texto espanhol (artigo 3.º e artigos 4.º, 13.º, 15.º, 16.º, 17.º, 19.º e 20.º) — não aplicado (versão ausente).",
+    "Texto inglês (artigo 2.º, n.º 3; artigo 3.º, n.º 1; artigos 4.º, 13.º, 15.º, 16.º, 17.º, 19.º e 20.º) — não aplicado (versão ausente)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

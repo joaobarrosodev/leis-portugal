@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1. Em relação aos indivíduos abrangidos pelo artigo anterior, a competência em matéria disciplinar caberá a um conselho de disciplina constituído a bordo.\n\n2. Desse conselho de disciplina fará parte o comandante, mestre ou arrais da embarcação, que presidirá e terá voto de qualidade.\n\n3. Nos navios com mais de quinze tripulantes integrarão o conselho de disciplina, além do comandante, dois trabalhadores dos oficiais, dois trabalhadores da mestrança e dois trabalhadores da marinhagem.\n\n4. Nos navios com quinze ou menos tripulantes integrarão o conselho de disciplina, além do comandante, mestre ou arrais, um trabalhador dos oficiais, um trabalhador da mestrança e dois da marinhagem.\n\n5. A eleição dos membros do conselho de disciplina é feita por escrutínio secreto, entre os trabalhadores dos oficiais, mestrança e marinhagem, que elegem os respectivos representantes.",
+    "depois": "###### Artigo 2.º\n\n1 - Em relação aos indivíduos abrangidos pelo artigo anterior, a competência em matéria disciplinar caberá ao armador ou ao comandante, mestre ou arrais da embarcação como seu representante legal.\n\n2 - A entidade a quem cabe o exercício do poder disciplinar ouvirá, antes da decisão final, o conselho de disciplina, quando exista, o qual se pronunciará, mediante parecer fundamentado, no prazo de dois dias úteis a contar da data em que o processo lhe seja entregue por cópia.\n\n3 - Para efeitos do disposto nos números anteriores, poderão ser constituídos conselhos de disciplina a bordo.\n\n4 - Nos navios com mais de quinze tripulantes, integrarão o conselho de disciplina dois trabalhadores dos oficiais, dois trabalhadores da mestrança e dois trabalhadores da marinhagem.\n\n5 - Nos navios com quinze ou menos tripulantes, integrarão o conselho de disciplina um trabalhador dos oficiais, um trabalhador da mestrança e dois trabalhadores da marinhagem.\n\n6 - A eleição dos membros do conselho de disciplina é feita por escrutínio secreto, entre os trabalhadores dos oficiais, mestrança e marinhagem, que elegem os respectivos representantes.\n\n> Alterado pelo/a [Decreto-Lei n.º 194/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1978-297402), publicado em 1978-07-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:311405:por",
+    "alterador": "pt:dre:297402:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\n1. Das penas aplicadas pelo conselho de disciplina cabe recurso para o conselho disciplinar da Federação dos Sindicatos do Mar.\n\n2. Quando os arguidos sejam pescadores, o conselho disciplinar da Federação dos Sindicatos do Mar será ampliado com representante do respectivo sindicato.",
+    "depois": "###### Artigo 7.º\n\nDas penas aplicadas cabe recurso, nos termos gerais de direito.\n\n> Alterado pelo/a [Decreto-Lei n.º 194/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1978-297402), publicado em 1978-07-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:311405:por",
+    "alterador": "pt:dre:297402:por"
+  }
+]

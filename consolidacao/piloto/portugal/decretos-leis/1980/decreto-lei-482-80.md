@@ -77,6 +77,10 @@ b) Caramelo, nas quantidades mínimas necessárias à normalização da cor do p
 
 3 - A designação de whisky português (whisky) é reservada ao whisky destilado e envelhecido em Portugal que satisfaça os requisitos constantes dos artigos 1.º e 2.º
 
+4 - A designação de whisky nacional, nos termos do número anterior, não impede a inclusão de malt whisky importado, mas não poderá ser feita referência, na rotulagem do recipiente em que o whisky for vendido ou exposto para venda ao público, à origem estrangeira desse componente.
+
+> Alterado pelo/a [Decreto-Lei n.º 305/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1985-179993), publicado em 1985-07-29.
+
 ###### Artigo 6.º
 
 É proibida a utilização:
@@ -131,7 +135,7 @@ d) A afixação dos rótulos aos recipientes será feita de modo a impedir a sua
 
 11 - É proibido o armazenamento, nas instalações de engarrafamento, de matérias-primas ou produtos cuja utilização não seja permitida nas operações de lotação, diluição, engarrafamento, rotulagem e selagem de Scotch whisky.
 
-> Alterado pelo/a [Decreto-Lei n.º 305/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1985-179993) e [Decreto-Lei n.º 340/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1987-496081), publicado em 1987-10-21.
+> Alterado pelo/a [Decreto-Lei n.º 340/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1987-496081), publicado em 1987-10-21.
 
 ###### Artigo 10.º
 
@@ -175,7 +179,7 @@ d) A afixação dos rótulos aos recipientes será feita de modo a impedir a sua
 
 11 - É proibido o armazenamento, nas instalações de produção ou de engarrafamento, de matérias-primas ou produtos cuja utilização não seja permitida nas operações de produção, lotação, diluição, engarrafamento, rotulagem e selagem de whisky português.
 
-> Alterado pelo/a [Decreto-Lei n.º 305/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1985-179993) e [Decreto-Lei n.º 340/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1987-496081), publicado em 1987-10-21.
+> Alterado pelo/a [Decreto-Lei n.º 340/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1987-496081), publicado em 1987-10-21.
 
 ###### Artigo 12.º
 

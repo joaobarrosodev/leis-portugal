@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:442304:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "1 - Constituem receitas do Fundo de Fomento Cultural:\n\na) As dotações para o efeito inscritas no orçamento da Secretaria de Estado da Cultura;\n\nb) Os saldos de gerência anteriores verificados em contas de ordem;\n\nc) Os juros dos fundos capitalizados e dos empréstimos concedidos;\n\nd) Os rendimentos da edição ou reedição de obras de arte, gravuras documentos históricos ou livros que subsidie;\n\ne) Os rendimentos cobrados por serviços prestados, materiais fornecidos, publicacações, filmes, diapositivos e outras gravações áudio-visuais. espectáculos realizados e, em geral, por quaisquer outras actividades efectuadas pelos organismos representados no conselho administrativo que não sejam administrativa e financeiramente autónomos;\n\nf) Quaisquer donativos, heranças ou legados para fins de acção cultural;\n\ng) Quaisquer outras receitas não proibidas por lei.\n\n2 - As receitas a que se refere o número anterior serão depositadas à sua ordem em instituição de crédito e a sua movimentação será isenta de imposto do selo e de prémio de transferência.",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "1 - Os organismos e serviços que cobrem ou arrecadem receitas destinadas ao Fundo efectuarão o seu depósito, dentro dos prazos legais, na conta referida no n.º 2 do artigo 7.º mediante guias em quadruplicado.\n\n2 - A instituição de crédito reterá um exemplar da guia e devolverá no acto do depósito, depois de averbado, os restantes exemplares ao depositante, o qual enviará dois deles ao FFC.\n\n3 - Dentro dos prazos estabelecidos para o depósito de receitas, as entidades responsáveis pela sua cobrança ou arrecadação enviarão ao conselho administrativo do Fundo, nos termos que vierem a ser determinados, elementos elucidativos acerca do depósito efectuado.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: nova redação do artigo 7.º (alíneas b) a g) do n.º 1 e n.º 2; alínea a) mantida) e do n.º 2 do artigo 9.º: aplicadas.",
+    "Alt. 2 (Lei Orgânica do Governo) e alt. 3 (orgânica do Ministério da Cultura): sem instruções textuais dirigidas ao original: nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

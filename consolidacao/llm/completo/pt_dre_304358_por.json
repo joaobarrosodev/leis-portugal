@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:304358:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A Lei n.º 123/2015 (artigo 2.º) dá ao Estatuto a redação constante do seu anexo I e a Lei n.º 11/2024 altera o Estatuto, mas o pedido só traz os artigos de objeto, regulamentação e republicação, sem o texto das novas redações; nada aplicado.",
+  "instrucoes": [
+    "Lei 123/2015, art. 2.º: Estatuto passa a ter a redação do anexo I — texto não fornecido, não aplicado.",
+    "Lei 123/2015, arts. 1.º, 4.º e 7.º: objeto, regulamentação e republicação — sem alteração textual.",
+    "Lei 11/2024, art. 1.º: objeto — sem texto de alteração fornecido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

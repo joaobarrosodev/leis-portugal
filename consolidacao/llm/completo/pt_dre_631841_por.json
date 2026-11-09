@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:631841:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Substituição",
+      "texto": "1 - Quando não haja disponibilidade ou possibilidade por parte dos conservadores referidos no artigo anterior para celebrar o casamento, devem aqueles designar o respectivo substituto para esse efeito, de acordo com a seguinte ordem de preferência:\n\na) Conservador auxiliar;\n\nb) Adjunto de conservador;\n\nc) Substitutos do conservador, pela ordem por que foram designados;\n\nd) Demais oficiais da conservatória, por ordem de categoria funcional e de classe pessoal.\n\n2 - Sempre que não haja disponibilidade para a celebração de casamento nos termos do número anterior, deve o conservador ou o seu substituto informar e remeter o pedido ao director-geral dos Registos e do Notariado, podendo ser designado, em regime de substituição, conservador, notário ou ajudante de serviços de registo civil do mesmo concelho ou concelho limítrofe.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 324/2007, art. 8.º: nova redação dos artigos 2.º e 3.º — já refletida no texto atual, sem mudança adicional.",
+    "Retificação 107/2007, n.os 1-3, 5 e 6: incidem no Código do Registo Civil e no art. 13.º do DL 324/2007 — outros diplomas, ignoradas.",
+    "Retificação 107/2007, n.º 4: n.º 1 do artigo 3.º retificado ('dos conservadores referidos no artigo anterior', 'devem aqueles'); n.º 2 mantido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

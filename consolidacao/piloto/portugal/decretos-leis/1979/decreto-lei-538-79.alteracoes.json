@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:230891:por",
     "alterador": "pt:dre:647322:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1 - A frequência do ensino básico é obrigatória para todos os menores em idade escolar.\n\n2 - A idade escolar é fixada entre os 6 anos completos e os 14 anos.\n\n3 - Ficam sujeitos à obrigatoriedade de matrícula em cada ano escolar os menores que completarem 6 anos até 30 de Setembro do ano civil em que o ano escolar tiver início.\n\n4 - A idade escolar considera-se terminada com a obtenção do diploma da escolaridade obrigatória ou, não o tendo obtido, no termo do ano escolar em que os menores atinjam a idade determinada como limite superior da escolaridade obrigatória.",
+    "depois": "###### Artigo 4.º\n\n1 - A frequência do ensino básico é obrigatória para todos os menores em idade escolar.\n\n2 - A idade escolar é fixada entre os 6 anos completos e os 14 anos.\n\n3 - Ficam sujeitos à obrigatoriedade de matrícula em cada ano escolar os menores que completarem 6 anos até 31 de Dezembro do ano civil em que o ano escolar tiver início.\n\n4 - Poderão ainda ser matriculados, a título voluntário, os menores que completem os referidos seis anos, até 31 de Dezembro do mesmo ano.\n\n5 - A idade escolar considera-se terminada com a obtenção do diploma de escolaridade obrigatória ou, não o tendo obtido, no termo do ano escolar em que os menores atinjam a idade determinada como limite superior da escolaridade obrigatória.\n\n> Alterado pelo/a [Decreto-Lei n.º 220/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1981-579969), publicado em 1981-07-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:230891:por",
+    "alterador": "pt:dre:579969:por"
   }
 ]

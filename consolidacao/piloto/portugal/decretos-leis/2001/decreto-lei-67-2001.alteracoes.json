@@ -40,5 +40,19 @@
     "unidade": [],
     "diploma": "pt:dre:386784:por",
     "alterador": "pt:dre:300610:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Competências do presidente e do secretário-geral\n\n1 - Compete, designadamente, ao presidente:\n\na) Convocar e dirigir as reuniões plenárias;\n\nb) Fixar a respectiva ordem de trabalhos;\n\nc) Informar os membros do Conselho sobre quaisquer assuntos de interesse relevante para o mesmo e do seguimento dado às suas deliberações e recomendações.\n\n2 - O secretário-geral possui a competência atribuída aos directores-gerais pelo mapa II anexo à [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho, incumbindo-lhe ainda:\n\na) Assessorar o membro do Governo competente em matéria de reforma do Estado e da Administração Pública e assegurar o normal funcionamento do Conselho, submetendo a despacho os assuntos que dele careçam;\n\nb) Representar o Conselho perante quaisquer entidades públicas ou privadas e outorgar os contratos em que o mesmo seja parte;\n\nc) Orientar os meios técnicos e humanos a que alude o artigo 9.º\n\n3 - Incumbe ao secretário-geral-adjunto:\n\na) Coadjuvar o presidente e o secretário-geral no exercício das suas funções;\n\nb) Preparar as reuniões do plenário;\n\nc) Assegurar a gestão corrente dos assuntos referentes ao Conselho.\n\n4 - O secretário-geral pode delegar no secretário-geral-adjunto o exercício de poderes ou a prática de actos da sua competência.",
+    "depois": "###### Artigo 4.º — Competências do presidente e do secretário-geral\n\n1 - Compete, designadamente, ao presidente:\n\na) Convocar e dirigir as reuniões plenárias;\n\nb) Fixar a respectiva ordem de trabalhos;\n\nc) Informar os membros do Conselho sobre quaisquer assuntos de interesse relevante para o mesmo e do seguimento dado às suas deliberações e recomendações.\n\n2 - Ao secretário-geral do Ministério da Reforma do Estado e da Administração Pública compete assegurar o normal funcionamento do Conselho, submetendo a despacho os assuntos que dele careçam.\n\n> Alterado pelo/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:386784:por",
+    "alterador": "pt:dre:300610:por"
   }
 ]

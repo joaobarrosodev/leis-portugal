@@ -1,0 +1,320 @@
+---
+id: pt:dre:606484:por
+title: Portaria n.º 392/82
+original: data/portugal/portarias/1982/portaria-392-82.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:400586:por
+    title: Portaria n.º 835/84
+    publication_date: '1984-10-29'
+  - id: pt:dre:496363:por
+    title: Portaria n.º 832/87
+    publication_date: '1987-10-17'
+  titulos_normalizados: artigos em texto corrido no original, com título pelo parser
+    da fase 3
+---
+
+# Portaria n.º 392/82
+
+de 20 de Abril
+
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano, ao abrigo do disposto no artigo 16.º do [Decreto-Lei n.º 511/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1980-462409), de 25 de Outubro, aprovar o Regulamento dos Serviços Sociais da Guarda Fiscal, que se publica em anexo à presente portaria.
+
+Ministério das Finanças e do Plano, 25 de Março de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento.
+
+REGULAMENTO DOS SERVIÇOS SOCIAIS DA GUARDA FISCAL
+
+### CAPÍTULO I — Natureza e fins
+
+###### Artigo 1.º
+
+Os Serviços Sociais da Guarda Fiscal (SSGF) têm por finalidade contribuir para a satisfação de necessidades de natureza económica, social e cultural dos elementos da Guarda Fiscal e seus familiares, levando, assim, ao estreitamento dos laços de solidariedade e, consequentemente, à manutenção de um salutar sentimento de tranquilidade e bem-estar no seio da corporação.
+
+###### Artigo 2.º
+
+Os SSGF são uma pessoa colectiva de direito público, têm personalidade jurídica, gozam de autonomia administrativa e financeira, estão isentos de custas e selos em todos os processos em que forem partes ou interessados e de quaisquer emolumentos, sisas, taxas, contribuições ou impostos e beneficiam de todas as facilidades conferidas pela lei às instituições oficiais de assistência.
+
+§ único. O Cofre de Previdência, na dependência dos SSGF, é uma instituição de carácter especial e de utilidade pública.
+
+###### Artigo 3.º
+
+1 - A acção dos SSGF exercer-se-á nos domínios: da previdência; da assistência, nomeadamente assistência médica e medicamentosa, materno-infantil, na velhice, na invalidez e no desamparo; da habitação, incluindo o alojamento temporário; da educação e cultura; dos abastecimentos e outras formas de apoio social, nomeadamente convívio social, repouso e recreação.
+
+2 - A acção dos SSGF será condicionada pelas prioridades estabelecidas e limitada pelas possibilidades em pessoal e material e pelas disponibilidades financeiras.
+
+### CAPÍTULO II — Assistência
+
+1.ª SECÇÃO
+
+Formas de assistência
+
+###### Artigo 4.º
+
+1 - A assistência será prestada em todos os domínios onde se reconheça a sua necessidade.
+
+2 - Nos domínios em que existir assistência a cargo do Estado, a acção dos SSGF poderá exercer-se apenas a título complementar.
+
+3 - Os benefícios da assistência dos SSGF não são acumuláveis com benefícios de igual natureza concedidos pelos Serviços Sociais das Forças Armadas. Os benefícios que se encontrem naquelas condições serão definidos por despacho do director, sob proposta do secretário-geral.
+
+###### Artigo 5.º
+
+Os SSGF poderão exercer uma acção supletiva da assistência na doença por conta do Estado, que compreenderá exclusivamente os casos não contemplados por aquela assistência que sejam considerados merecedores de especial atenção pelas características excepcionalmente gravosas de que se revistam.
+
+> Alterado pelo/a [Portaria n.º 835/84](https://diariodarepublica.pt/dr/detalhe/portaria/835-1984-400586), publicado em 1984-10-29.
+
+###### Artigo 6.º
+
+A assistência materno-infantil, em complemento da assegurada pelo Estado, pode assumir a forma de auxílio material ou de prestação de serviços no domicílio ou através de creches, parques ou jardins infantis e outros estabelecimentos apropriados.
+
+###### Artigo 7.º
+
+A assistência escolar será realizada, nomeadamente, pela implantação e funcionamento de lares académicos, pela comparticipação no pagamento das despesas com os estudos de alunos deficientes em estabelecimentos de ensino especial, na aquisição de livros e material escolar e no pagamento de propinas, e, ainda, pela concessão de prémios e bolsas de estudo.
+
+###### Artigo 8.º
+
+1 - A assistência na invalidez, no desamparo e na velhice destina-se aos inválidos, às viúvas carenciadas e aos filhos solteiros menores e órfãos em situação comprovada de desamparo e, bem assim, àqueles que, pela sua avançada idade e condições de desamparo, devidamente comprovadas, requeiram cuidados especiais.
+
+2 - Este tipo de assistência pode assumir a forma de internamento em recolhimentos, orfanatos, casas de repouso e outros estabelecimentos análogos, de atribuição de subsídios ou qualquer outra modalidade de auxílio, também com o condicionamento referido no artigo 5.º do presente Regulamento.
+
+> Alterado pelo/a [Portaria n.º 835/84](https://diariodarepublica.pt/dr/detalhe/portaria/835-1984-400586), publicado em 1984-10-29.
+
+###### Artigo 9.º
+
+1 - A assistência poderá também assumir a modalidade de subsídio para compensar prejuízos resultantes de calamidades e como ajuda em outras situações de comprovada necessidade que justifiquem esta modalidade de auxílio.
+
+2 - Os SSGF podem também fazer adiantamentos de vencimentos aos seus subscritores, em caso de reconhecida urgência e necessidade.
+
+3 - Os SSGF poderão, ainda, conceder empréstimos aos seus subscritores através de caixa económica a criar, conforme regulamentação própria a estabelecer.
+
+###### Artigo 10.º
+
+No domínio da habitação, os SSGF promoverão a construção ou a aquisição de casas para arrendamento aos subscritores, mediante o pagamento de rendas acessíveis.
+
+###### Artigo 11.º
+
+No sector dos abastecimentos, os SSGF procurarão proporcionar a aquisição de artigos de fardamento e vestuário, de consumo e de uso corrente, nas melhores condições de preço, em órgãos de abastecimento próprios ou no comércio em geral.
+
+###### Artigo 12.º
+
+O alojamento temporário e o convívio social serão facilitados pela utilização de messes, residenciais, cantinas, refeitórios, clubes e salas de recreio.
+
+###### Artigo 13.º
+
+O repouso e a recreação serão proporcionados pela utilização de colónias de férias e casas de repouso, de campo e à beira-mar, de parques de campismo e de outras instituições ou estabelecimentos destinados àqueles fins.
+
+###### Artigo 14.º
+
+A acção de educação e cultura será exercida por meio de conferências, espectáculos teatrais e cinematográficos, pela rádio e pela televisão, através de bibliotecas e publicações, pelo patrocínio da organização de festivais e competições desportivas, por meio de visitas de estudo e excursões, grupos cénicos, corais ou musicais e por outros meios apropriados.
+
+###### Artigo 15.º
+
+Poderão, ainda, os SSGF, no âmbito da prestação de serviços, proporcionar apoio aos subscritores nos domínios que forem considerados mais convenientes, utilizando, para o efeito, meios próprios ou estabelecendo contratos com empresas especializadas.
+
+2.ª SECÇÃO
+
+Subscritores
+
+###### Artigo 16.º
+
+1 - A admissão dos subscritores é feita mediante entrega de simples declaração na companhia a que pertencem. Exceptua-se a admissão de sargentos e praças que será automaticamente apresentada pela respectiva companhia, por força do disposto no artigo 5.º do [Decreto-Lei n.º 511/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1980-462409), de 25 de Outubro.
+
+2 - As viúvas e órfãos dos subscritores manterão os direitos que possuíam à data do falecimento destes, ficando dispensados do pagamento de quotas.
+
+###### Artigo 17.º
+
+A perda da qualidade de subscritor verificar-se-á:
+
+a) Quando o subscritor deixar de estar nas situações referidas no artigo 6.º do [Decreto-Lei n.º 511/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1980-462409), de 25 de Outubro;
+
+b) Por declaração de desistência;
+
+c) Por despacho do director, em relação a subscritores voluntários, em consequência de actos reprováveis e atentatórios do bom nome dos SSGF por eles praticados;
+
+d) Automaticamente, quando o subscritor voluntário dever aos SSGF 6 meses de quotas e não responder dentro de 15 dias à comunicação que lhe for feita sobre se deseja ou não continuar a ser subscritor.
+
+e) Automaticamente, quando o subscritor passar compulsivamente à situação de reserva ou de reforma.
+
+> Alterado pelo/a [Portaria n.º 832/87](https://diariodarepublica.pt/dr/detalhe/portaria/832-1987-496363), publicado em 1987-10-17.
+
+###### Artigo 18.º
+
+As readmissões de subscritores, quando fundamentadas, serão autorizadas por despacho do director dos SSGF.
+
+###### Artigo 19.º
+
+São obrigações dos subscritores:
+
+a) Pagar pontualmente as quotas;
+
+b) Cumprir as obrigações legais e normativas em vigor;
+
+c) Zelar pelo bom nome e património dos SSGF.
+
+###### Artigo 20.º
+
+Os subscritores têm direito:
+
+a) A todas as formas de assistência, apoio e previdência prestadas pelos SSGF, apenas com as limitações impostas pelas leis, regulamentos e normas em vigor;
+
+b) A usufruirem de todas as instalações e serviços dependentes dos SSGF, com observância dos regulamentos e normas que condicionam a sua utilização;
+
+c) A beneficiarem de todas as facilidades e regalias que o Comando-Geral da Guarda Fiscal conceda aos subscritores dos seus Serviços Sociais;
+
+d) A apresentarem oralmente ou por escrito aos SSGF, directamente ou através das subdelegações e delegações e das suas representações no conselho geral, todas as sugestões e propostas que entendam contribuir para o aperfeiçoamento dos serviços e assistência prestada pelos mesmos SSGF.
+
+### CAPÍTULO III — Previdência
+
+###### Artigo 21.º
+
+1 - A previdência, que continua a ser exercida pelo Cofre de Previdência e a regular-se pelos estatutos aprovados pelo Decreto-Lei n.º 41042, de 25 de Março de 1957, tem por objecto fundamental garantir, por falecimento dos seus subscritores, um subsídio pecuniário único, pago de uma só vez à pessoa ou pessoas consideradas hábeis para o efeito, nos termos dos respectivos estatutos.
+
+2 - A inscrição no Cofre de Previdência apenas faculta os benefícios consignados nos statutos do mesmo Cofre.
+
+###### Artigo 22.º
+
+Sem prejuízo da finalidade essencial referida no artigo anterior, e quando as suas condições financeiras o permitirem, o Cofre poderá cooperar na aquisição e construção de fogos e nas demais actividades de interesse social a cargo dos SSGF.
+
+### CAPÍTULO IV — Organização
+
+###### Artigo 23.º
+
+Os SSGF possuem a seguinte estrutura:
+
+a) Órgãos de chefia:
+
+1) Director;
+
+2) Secretariado geral;
+
+3) Delegações junto dos comandos dos batalhões ou escalão equivalente;
+
+4) Subdelegações junto dos comandos das companhias com responsabilidades administrativas ou escalão equivalente;
+
+b) Órgão consultivo - Conselho geral;
+
+c) Órgãos de inspecção:
+
+1) Inspector-geral;
+
+2) Inspector administrativo;
+
+d) Órgãos executivos e serviços dependentes.
+
+###### Artigo 24.º
+
+O quadro de pessoal dos SSGF está inserto no quadro orgânico da Guarda Fiscal.
+
+###### Artigo 25.º
+
+O pessoal para os SSGF será nomeado da seguinte forma:
+
+a) Secretário-geral, por escolha do comandante-geral da Guarda Fiscal;
+
+b) Para funções de chefia de secção e CA, por despacho do comandante-geral, sob proposta do secretário-geral;
+
+c) Para as restantes funções, conforme as normas gerais em vigor na Guarda Fiscal para as colocações de pessoal.
+
+### CAPÍTULO V — Competências
+
+###### Artigo 26.º
+
+1 - Compete ao director dos SSGF, para além da orientação da política geral:
+
+a) Mandar estudar e pôr em execução todas as medidas que possam contribuir para a realização dos objectivos dos SSGF, propondo superiormente a adopção das que excederem a sua competência;
+
+b) Orientar e coordenar todas as actividades de carácter social;
+
+c) Promover e orientar a elaboração dos regulamentos necessários e estabelecer as normas de execução relativas à organização e funcionamento dos SSGF;
+
+d) Exonerar e designar o pessoal indispensável para o funcionamento dos Serviços;
+
+e) Promover a elaboração dos orçamentos, relatórios e contas de gerência, submetendo-os à aprovação superior;
+
+f) Inspeccionar ou fazer inspeccionar os órgãos e actividades dos SSGF, bem como as actividades que se exerçam em proveito directo dos mesmos serviços;
+
+g) Delegar no secretário-geral as atribuições que julgar convenientes;
+
+h) Convocar o conselho geral quando o entenda necessário.
+
+2 - Compete:
+
+a) Ao inspector-geral e inspector administrativo:
+
+1) Inspeccionar, por determinação do director, os órgãos e actividades a que se refere a alínea f) do número anterior, velando pela ordem e eficiência dos serviços e pelo escrupuloso cumprimento da lei, regulamentos, ordens e instruções;
+
+2) Colaborar nos inquéritos e estudos que visem a melhoria, desenvolvimento e actualização dos Serviços.
+
+b) Ao inspector administrativo, velar pela conveniente administração dos fundos e outros bens pertencentes aos SSGF.
+
+3 - O secretário-geral é responsável pelo funcionamento do secretariado e compete-lhe, nomeadamente:
+
+a) Reunir, preparar, coordenar e fornecer ao director os elementos necessários ao exercício da direcção dos SSGF;
+
+b) Transmitir as directivas, ordens e instruções do director e promover e velar pela sua execução;
+
+c) Propor a convocação do conselho geral para discussão do relatório e contas anuais e do plano de actividades para o ano seguinte.
+
+4 - Às delegações dos SSGF compete:
+
+a) Orientar as actividades dos SSGF, na área de responsabilidade da sua unidade, de acordo com as normas em vigor;
+
+b) Propor as medidas que considerarem mais apropriadas para melhorar o apoio social ao pessoal;
+
+c) Pronunciar-se sobre todas as propostas das subdelegações dependentes relativas a pessoal, material e instalações ou que se refiram a alterações estruturais em qualquer domínio;
+
+d) Inspeccionar os órgãos e serviços dos Serviços Sociais localizados na área da sua unidade;
+
+e) Elaborar relatórios e informações acerca da forma como são conduzidas as actividades dos Serviços Sociais na área da sua unidade.
+
+5 - Às subdelegações dos SSGF compete:
+
+a) Pôr em execução e fiscalizar as actividades dos Serviços Sociais na área da sua responsabilidade, de acordo com as normas em vigor e as directivas recebidas dos escalões superiores;
+
+b) Propor as medidas que entenderem necessárias para a melhoria do serviço, do material e das instalações;
+
+c) Prestar contas ao conselho administrativo dos SSGF de todas as despesas efectuadas com as actividades dos Serviços Sociais que decorram na sua área, de acordo com as instruções difundidas pelo mesmo conselho administrativo;
+
+d) Elaborar relatórios das actividades dos SSGF realizadas na área da companhia.
+
+6 - O expediente do serviço de inspecção será assegurado pelo secretariado.
+
+7 - Para o serviço de inspecção pode ser pedida a qualquer organismo público a colaboração que se torne necessária e nos termos que, para o efeito, vierem a ser estabelecidos.
+
+### CAPÍTULO VI — Administração
+
+###### Artigo 27.º
+
+O conselho administrativo do secretariado rege-se pelo regulamento dos conselhos administrativos das unidades da Guarda Fiscal, competindo-lhe a elaboração dos orçamentos e das contas de gerência, a enviar directamente ao Tribunal de Contas, e, bem assim, a colaboração necessária ao planeamento e aos estudos administrativos dos SSGF.
+
+###### Artigo 28.º
+
+As disponibilidades em numerário podem ser aplicadas na aquisição de títulos de crédito ou ser depositadas em estabelecimentos bancários, mediante autorização do Ministro de Estado e das Finanças e do Plano.
+
+###### Artigo 29.º
+
+1 - As despesas com obras ou aquisições de bens e serviços podem ser autorizadas:
+
+a) Até 10000$00, pelo conselho administrativo;
+
+b) Até 100000$00, pelo secretário-geral;
+
+c) Pelo director, até aos quantitativos fixados por lei para os órgãos dirigentes dos serviços dotados de autonomia administrativa e financeira.
+
+2 - Os limites referidos no número anterior, relativos às competências do secretário-geral e do conselho administrativo, podem ser alterados por despacho do Ministro de Estado e das Finanças e do Plano, sob proposta do director.
+
+### CAPÍTULO VII — Diversos
+
+###### Artigo 30.º
+
+Os critérios a utilizar na prestação da assistência, bem como a organização e funcionamento das secções e órgãos dos SSGF, serão objecto de normas a aprovar pelo director, depois de submetidas ao parecer das entidades que fazem parte do conselho geral.
+
+###### Artigo 31.º
+
+Os casos omissos serão regulados por despacho do Ministro de Estado e das Finanças e do Plano, mediante proposta dos SSGF.
+
+###### Artigo 32.º
+
+São revogadas as Portarias n.os 23811, de 27 de Dezembro de 1968, e 24409, de 13 de Novembro de 1969.

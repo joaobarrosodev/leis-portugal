@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:230682:por",
+  "artigos": [
+    {
+      "chave": "10.º",
+      "epigrafe": "Departamento de Apoio Administrativo",
+      "texto": "1 - O Departamento de Apoio Administrativo é o órgão de apoio administrativo e logístico da DSPD, com atribuições em matérias de expediente, registo, arquivo, pessoal e assuntos de natureza genérica.\n\n2 - O Departamento de Apoio Administrativo compreende quatro secções:\n\na) Secção Administrativa;\n\nb) Secção de Pessoal Docente da Educação Pré-Escolar;\n\nc) Secção de Pessoal Docente do 1.º Ciclo do Ensino Básico;\n\nd) Secção de Pessoal Docente dos 2.º e 3.º Ciclos do Ensino Básico e Secundário.",
+      "alterador": 1
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Departamento de Apoio Administrativo",
+      "texto": "1 - O Departamento de Apoio Administrativo é o órgão de apoio administrativo e logístico da DSPnD com atribuições em matéria de expediente, registo, arquivo, pessoal e assuntos de natureza genérica.\n\n2 - O Departamento de Apoio Administrativo compreende duas secções:\n\na) Secção de Pessoal não Docente;\n\nb) Secção Administrativa.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Arts. 9.º e 12.º (alt. 1, art. 2.º): a nova redação mantém o n.º 1 e as suas alíneas ('...'), mas o texto atual destes artigos está vazio, pelo que não é possível compor o corpo completo; não aplicados. O mapa de pessoal (alt. 1, art. 4.º) só existe em imagem.",
+  "instrucoes": [
+    "Alt. 1, art. 2.º: art. 9.º (epígrafe 'Divisão de Pessoal Docente', novo n.º 2) não aplicado: texto atual vazio, n.º 1 desconhecido.",
+    "Alt. 1, art. 2.º: art. 10.º passa a 'Departamento de Apoio Administrativo' (n.º 1 e proémio do n.º 2 novos; alíneas mantidas); aplicado.",
+    "Alt. 1, art. 2.º: art. 12.º (epígrafe 'Divisão de Pessoal não Docente', novo n.º 2) não aplicado: texto atual vazio.",
+    "Alt. 1, art. 2.º: art. 13.º passa a 'Departamento de Apoio Administrativo' (n.º 1 e proémio do n.º 2 novos; alíneas mantidas); aplicado.",
+    "Alt. 1, art. 3.º: aditamento do art. 15.º-A; já consta do texto atual igual ao alterador, sem mudança.",
+    "Alt. 1, art. 4.º: substituição do mapa anexo; em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

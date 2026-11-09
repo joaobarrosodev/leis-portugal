@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:385797:por",
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "",
+      "texto": "Pela prestação de todos os serviços aduaneiros conducentes ao desalfandegamento das mercadorias importadas e verificadas cobrar-se-á, por cada bilhete de despacho, a taxa de serviço englobada de 0,2% sobre o valor CIF das mercadorias importadas.\n\nDa totalidade da receita proveniente desta taxa 50% constituirá receita do Estado, 25% constituirá receita a repartir equitativamente pelos cofres de emolumentos referidos no artigo 319.º da Reforma Aduaneira e o remanescente reverterá a favor do cofre de subsídios de deslocação.\n\nTerminal Internacional Rodoviário de Alverca\n\nREGULAMENTO INTERNO",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "DL 291/89, arts. 13.º e 14.º: alteram o n.º 3 do artigo 2.º e a secção II (artigo 9.º) dos Regulamentos Internos dos Terminais TIR de Alverca e do Freixieiro, aprovados pelo DL 242/84; esses regulamentos não existem no texto atual (só o título), pelo que não se aplicam.",
+  "instrucoes": [
+    "DL 36/85, artigo único: nova redação do artigo único da tabela III; aplicada ao artigo único (mantidos no fim os títulos que o texto atual traz a seguir).",
+    "DL 291/89, art. 13.º: nova redação do n.º 3 do art. 2.º dos regulamentos internos; texto inexistente no atual, não aplicada.",
+    "DL 291/89, art. 14.º: nova redação da secção II dos regulamentos internos; texto inexistente no atual, não aplicada.",
+    "DL 291/89, restantes artigos (11.º, 12.º, 15.º, 16.º, 17.º): dirigidos a outros diplomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

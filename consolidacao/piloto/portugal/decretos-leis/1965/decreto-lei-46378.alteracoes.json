@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n1. A representação do empréstimo far-se-á em obrigações do valor nominal de 1000$00, em títulos de cupão, ao portador, de uma, cinco e dez obrigações.\n\n2. Os títulos referidos no n.º 1 deste artigo levarão a assinatura de chancela do governador-geral da província, serão autenticados por aposição do selo branco da Direcção Provincial dos Serviços de Fazenda e Contabilidade e conterão ainda a assinatura autógrafa do director dos mesmos serviços.\n\n3. Excepcionalmente, poderão ser provisórios os títulos das primeiras séries emitidas, fazendo-se a sua substituição, no prazo máximo de um ano, por títulos definitivos.",
+    "depois": "###### Artigo 5.º\n\n1. A representação do empréstimo far-se-á em obrigações de valor nominal de 1000$00, em títulos de cupão, ao portador, de 1, 5, 10, 50 e 100 obrigações e em certificados de divida inscrita.\n\n2. Cada certificado de dívida inscrita poderá representar qualquer número de obrigações e ser nominativo ou assentado ao portador.\n\n3. Os títulos e certificados referidos no n.º 1 deste artigo levarão a assinatura de chancela do governador-geral da província, serão autenticados por aposição do selo branco da Direcção Provincial dos Serviços de Fazenda e Contabilidade e conterão ainda a assinatura autógrafa do director dos mesmos Serviços.\n\n4. Os certificados de dívida inscrita, a que se refere o n.º 1 do presente artigo, poderão ser desdobrados mediante pedido fundamentado dos seus titulares.\n\n> Alterado pelo/a [Decreto-Lei n.º 48630](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48630-1968-263974), publicado em 1968-10-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:296231:por",
+    "alterador": "pt:dre:263974:por"
+  }
+]

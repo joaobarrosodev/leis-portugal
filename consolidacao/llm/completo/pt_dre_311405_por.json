@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:311405:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - Em relação aos indivíduos abrangidos pelo artigo anterior, a competência em matéria disciplinar caberá ao armador ou ao comandante, mestre ou arrais da embarcação como seu representante legal.\n\n2 - A entidade a quem cabe o exercício do poder disciplinar ouvirá, antes da decisão final, o conselho de disciplina, quando exista, o qual se pronunciará, mediante parecer fundamentado, no prazo de dois dias úteis a contar da data em que o processo lhe seja entregue por cópia.\n\n3 - Para efeitos do disposto nos números anteriores, poderão ser constituídos conselhos de disciplina a bordo.\n\n4 - Nos navios com mais de quinze tripulantes, integrarão o conselho de disciplina dois trabalhadores dos oficiais, dois trabalhadores da mestrança e dois trabalhadores da marinhagem.\n\n5 - Nos navios com quinze ou menos tripulantes, integrarão o conselho de disciplina um trabalhador dos oficiais, um trabalhador da mestrança e dois trabalhadores da marinhagem.\n\n6 - A eleição dos membros do conselho de disciplina é feita por escrutínio secreto, entre os trabalhadores dos oficiais, mestrança e marinhagem, que elegem os respectivos representantes.",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "Das penas aplicadas cabe recurso, nos termos gerais de direito.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 194/78, artigo único: nova redação dos arts. 2.º e 7.º; aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

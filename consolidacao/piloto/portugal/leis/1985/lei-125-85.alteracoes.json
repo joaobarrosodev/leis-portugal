@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nOs limites da nova freguesia, conforme representação cartográfica anexa, são:\n\nA norte, acompanha o talvegue da foz do Rego desde o limite da freguesia de Costa da Caparica até à antiga Quinta do Oliva, que atravessa Daqui inflecte para nordeste e contorna o muro da Quinta da Regateira até à estrada nacional n.º 377, seguindo depois esta estrada para norte até ao cruzamento do Lazarim, onde conflui com a freguesia de Sobreda;\n\nA oeste, desde o alto de Brielas, pelo limite da freguesia de Costa da Caparica, até ao limite do concelho;\n\nA sul, o limite do concelho;\n\nA leste, o limite do concelho até à Madalena e daqui por caminho a leste de Vale de Rosal, Conde, Bico e fábrica de cerâmica até Vale de Figueira.",
+    "depois": "###### Artigo 2.º\n\nOs limites da nova freguesia, conforme representação cartográfica anexa, são:\n\nA norte, acompanha o talvegue da foz do Rego desde o limite da freguesia de Costa da Caparica até à antiga Quinta do Oliva, que atravessa Daqui inflecte para nordeste e contorna o muro da Quinta da Regateira até à estrada nacional n.º 377, seguindo depois esta estrada para norte até ao cruzamento do Lazarim, onde conflui com a freguesia de Sobreda;\n\nA oeste, desde a foz do Rego, pelo limite da freguesia da Costa da Caparica, até ao limite do concelho.\n\nA sul, o limite do concelho;\n\nA leste, o limite do concelho até à Madalena e daqui por caminho a leste de Vale de Rosal, Conde, Bico e fábrica de cerâmica até Vale de Figueira.\n\n> Alterado pelo/a [Lei n.º 22/86](https://diariodarepublica.pt/dr/detalhe/lei/22-1986-218889), publicado em 1986-08-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:261715:por",
+    "alterador": "pt:dre:218889:por"
+  }
+]

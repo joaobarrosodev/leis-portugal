@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:399634:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1, 2 e 3 (Portarias n.os 343/86, 346/86 e 68/87) criam, cada uma, um lugar no quadro de pessoal constante do original (mapa anexo), que não está no texto atual por artigos; não há texto de artigo a alterar, pelo que não se aplicaram.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 343/86): cria um lugar de engenheiro assessor no quadro de pessoal; alteração do mapa, não aplicada.",
+    "Alterador 2 (Portaria 346/86): cria um lugar de engenheiro principal no quadro de pessoal; alteração do mapa, não aplicada.",
+    "Alterador 3 (Portaria 68/87): cria um lugar de engenheiro assessor no quadro de pessoal; alteração do mapa, não aplicada.",
+    "Alterador 4 (DR 14/87), art. 19.º: revoga o original 'em tudo o que contrarie o presente diploma'; revogação condicional, não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

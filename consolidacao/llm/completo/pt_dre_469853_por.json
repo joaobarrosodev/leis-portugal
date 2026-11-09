@@ -1,0 +1,37 @@
+{
+  "id": "pt:dre:469853:por",
+  "artigos": [
+    {
+      "chave": "70.º",
+      "epigrafe": "",
+      "texto": "O quadro comum dos engenheiros e arquitectos dos serviços de obras públicas e transportes do ultramar compreende as seguinte categorias com o número de unidades e distribuição constantes do mapa II anexo a este diploma:\n\nEngenheiro-director;\n\nEngenheiro-chefe;\n\nArquitecto-chefe;\n\nEngenheiro de 1.ª classe;\n\nArquitecto de 1.ª classe;\n\nEngenheiro-adjunto;\n\nArquitecto-adjunto.\n\n§ único. São desempenhados por técnicos com a categoria de engenheiro-director os cargos de inspector provincial, de director de serviços e de subdirector de serviços (letra D do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de engenheiro-chefe, os cargos de chefe de repartição dos serviços centrais, de director regional, de chefe do parque e oficinas, em Angola e Moçambique, e de chefe de repartição provincial (letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de arquitecto-chefe, os cargos de chefe da Divisão de Estudos da Repartição de Edifícios e Monumentos e da Divisão do Inquérito e Planificação da Repartição de Urbanismo (letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de engenheiro de 1.ª classe ou de engenheiro-adjunto, os cargos de chefes de repartição distrital e de divisão técnica; com a categoria de arquitecto de 1.ª classe ou de arquitecto-adjunto, os cargos de chefes de secção de urbanização.",
+      "alterador": 1
+    },
+    {
+      "chave": "71.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "72.º",
+      "epigrafe": "",
+      "texto": "As vagas na categoria de engenheiro e de arquitecto de 1.ª classe são providas por meio de promoção, respectivamente, dos engenheiros-adjuntos e arquitectos-adjuntos com, pelo menos, três anos do serviço nesta classe com boas informações.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Art. 3.º do Decreto n.º 48607 (lugares aumentados e suprimidos nos quadros de pessoal) e o novo mapa II só vêm em imagem ('ver documento original'); art. 7.º substitui genericamente qualquer referência a engenheiros/arquitectos de 2.ª classe por engenheiro-adjunto/arquitecto-adjunto, alteração não textual sem alvos especificados, não aplicada aos restantes artigos (p. ex. 33.º, 39.º).",
+  "instrucoes": [
+    "Art. 1.º: nova redação do artigo 70.º — substituído o corpo inteiro pelo texto do alterador.",
+    "Art. 2.º: nova redação do artigo 72.º — substituído o corpo.",
+    "Art. 3.º: aumento/supressão de lugares nos quadros (em imagem) — não aplicado, ver nao_aplicavel.",
+    "Art. 4.º e 6.º: alteram o Decreto n.º 47499 — ignorados.",
+    "Art. 5.º: norma transitória autónoma — sem alteração ao texto.",
+    "Art. 7.º: substituição genérica de referências a engenheiros/arquitectos de 2.ª classe — não aplicada, ver nao_aplicavel.",
+    "Art. 8.º: revoga o artigo 71.º — marcado '(Revogado.)'; revogação genérica da legislação em contrário não aplicada; § 1.º do art. 33.º do Decreto n.º 47499 ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

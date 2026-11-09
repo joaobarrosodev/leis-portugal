@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "24.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 24º\n\nOs oficiais em comissão militar no ultramar que deixarem a efectividade de serviço, a seu pedido, perdem o direito às passagens de regresso para si e suas famílias.",
+    "depois": "###### Artigo 24.º\n\nOs oficiais em comissão militar no ultramar que deixarem a efectividade de serviço, a seu pedido, perdem o direito às passagens de regresso para si e suas famílias.\n\n§ único. Será fornecido transporte por conta do Estado para as localidades onde estabeleçam domicílio aos oficiais que, desligados da efectividade de serviço, a seu pedido, fiquem exercendo no ultramar quaisquer actividades ou profissões civis.\n\n> Alterado pelo/a [Decreto n.º 44914](https://diariodarepublica.pt/dr/detalhe/decreto/44914-1963-194065), publicado em 1963-03-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:281607:por",
+    "alterador": "pt:dre:194065:por"
+  }
+]

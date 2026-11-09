@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:1037778:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Regulamento dos Serviços Prestados pelos Órgãos e Serviços da Autoridade Marítima nos Portos::2.º",
+      "epigrafe": "Definições",
+      "texto": "Para efeitos do disposto no presente Regulamento, entende-se por:\n\na) \"Vistoria suplementar\" a que for determinada pelo órgão local da Autoridade Marítima especificamente para verificação da correcção das deficiências detectadas em vistoria anterior;\n\nb) \"Tonelada ou fracção\" a unidade de referência para o cálculo das verbas que sejam cobradas em função da tonelagem de arqueação bruta (TAB);\n\nc) \"Unidade de arqueação bruta ou fracção\" - para o cálculo do valor das verbas a serem cobradas em função da dimensão global da embarcação, deverá ser considerada a arqueação bruta (GT) calculada pelas novas regras de arqueação. Quando apenas esteja disponível a arqueação em toneladas Moorsom (TAB), este valor será automaticamente considerado como valor em GT enquanto o armador ou proprietário não requeira e disponha do seu cálculo pelas novas regras;\n\nd) 'Serviço prioritário' aquele que pela sua natureza ou por determinação legal tem de ser efectuado nos termos e períodos especificamente definidos por lei;\n\ne) 'Serviço urgente' aquele que sendo requisitado durante o período de atendimento deve ser concluído no prazo máximo de três dias úteis.\n\nf) \"Período de atendimento\" o período durante o qual os serviços se encontram abertos para atendimento ao público e não coincidente com o período nocturno;\n\ng) \"Período nocturno\" o período que medeia entre as 20 horas de um dia e as 8 horas do dia seguinte;\n\nh) \"Dias de descanso semanal e complementar\" o domingo e o sábado, respectivamente.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "N.os 1.º e 3.º da Portaria 553-A/2008: as tabelas I, II e III são substituídas por novas tabelas que só vêm em imagem; a tabela II antiga (em texto no fim do art. 9.º) não foi tocada por falta do texto novo.",
+  "instrucoes": [
+    "2.º: nova redação das alíneas d) e e) do art. 2.º do Regulamento — aplicada",
+    "1.º e 3.º: tabelas I a III substituídas/revogadas — em imagem, não aplicadas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:674832:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1. Na área definida nos termos do n.º 2 do artigo 1.º e até à aprovação do plano da região do Porto, carecem de autorização do Ministro das Obras Públicas, ouvidas a respectiva câmara municipal, a Direcção-Geral dos Serviços de Urbanização e, consoante os casos, a Direcção-Geral dos Serviços Agrícolas e a Direcção-Geral dos Serviços Florestais e Aquícolas:\n\na) A criação de novos núcleos populacionais quando se situem fora das zonas previstas, para esse efeito, nos planos de urbanização aprovados;\n\nb) As novas explorações regidas pela legislação referente a pedreiras e a ampliação da área de terreno declarada e na qual a exploração estava autorizada à data do presente decreto-lei, bem como a execução de terraplenagens importantes de qualquer natureza susceptíveis de alterar a configuração geral do terreno e o derrube contínuo de árvores em maciço, salvo nos casos de exploração florestal normal.\n\n2. Nos casos previstos nas alíneas precedentes, o licenciamento necessário fica dependente da exibição pelos interessados, perante os serviços competentes, de documento que prove a autorização exigida no número anterior.\n\n3. Até à aprovação do plano, fica também sujeita a autorização do Ministro das Obras Públicas por intermédio da Direcção-Geral dos Serviços de Urbanização e mediante parecer da câmara municipal, a construção ou ampliação de edificações fora dos perímetros dos aglomerados existentes, excepto quando situadas nas áreas para esse efeito definidas nos planos de urbanização legalmente aprovados.\n\n4. As autorizações serão negadas quando da sua concessão possa resultar inconveniente para a execução futura do plano.\n\n5. O Ministro das Obras Públicas poderá fixar, por despacho, mediante proposta da Direcção-Geral dos Serviços de Urbanização, os perímetros das povoações a considerar na aplicação do disposto neste artigo.\n\n6. As câmaras municipais não poderão conceder licenças de edificação ou reedificação em quaisquer povoações ou locais onde por lei ou por deliberação municipal esteja em vigor o regime de licenciamento de obras sem se exibir a autorização exigida no n.º 3 deste artigo.\n\n7. Para efeitos do disposto neste artigo, o Ministro das Obras Públicas deverá pronunciar-se nos seguintes prazos a contar da data de entrada dos respectivos requerimentos na Direcção de Urbanização de Braga ou na Circunscrição de Urbanização do Norte:\n\na) Para a criação de novos núcleos populacionais, cento e oitenta dias;\n\nb) Para as restantes hipóteses previstas, noventa dias.\n\n8. A falta de decisão nos prazos referidos no número anterior interpreta-se, para todos os efeitos, como consentimento.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "DL 344/75 (artigo único) e DL 361/77 (artigo 1.º) prorrogam o prazo do n.º 1 do artigo 1.º sem lhe dar nova redação: alteração não textual.",
+  "instrucoes": [
+    "DL 344/75: prorroga até 30-06-1976 o prazo do artigo 1.º, n.º 1; não textual, não aplicada.",
+    "DL 361/77: prorroga até 30-06-1978 o mesmo prazo; não textual, não aplicada.",
+    "DL 14/88 art. 1.º: altera o DL 17/72, outro diploma; ignorado.",
+    "DL 14/88 art. 2.º: nova redação da alínea a) do n.º 1 do artigo 3.º; aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

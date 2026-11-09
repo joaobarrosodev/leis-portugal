@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "34.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 34.º — Pessoal de informática\n\nO pessoal de informática será recrutado e provido nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.",
+    "depois": "###### Artigo 34.º — Pessoal de informática\n\nO pessoal de informática será recrutado e provido nos termos do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1992-188358), publicado em 1992-03-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:333276:por",
+    "alterador": "pt:dre:188358:por"
+  },
+  {
+    "artigo": "35.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 35.º — Técnico auxiliar de BAD\n\nOs requisitos para o ingresso e acesso na carreira de técnico auxiliar de BAD são os constantes do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.",
+    "depois": "###### Artigo 35.º — Pessoal das áreas funcionais de biblioteca e documentação e de arquivo\n\nOs requisitos para o ingresso e acesso nas carreiras de pessoal específicas das áreas funcionais de biblioteca e documentação e de arquivo são os constantes do [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1992-188358), publicado em 1992-03-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:333276:por",
+    "alterador": "pt:dre:188358:por"
+  },
+  {
+    "artigo": "37.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 37.º — Técnico auxiliar de formação e secretário-recepcionista\n\nPara efeitos de ingresso nas carreiras de técnico auxiliar de formação e de secretário-recepcionista considera-se equiparado ao curso de formação profissional previsto na alínea b) do n.º 2 do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, o 11.º ano, na área C, secretariado.",
+    "depois": "###### Artigo 37.º — Técnico auxiliar de formação e secretário-recepcionista\n\nPara efeitos de ingresso nas carreiras de técnico auxiliar de formação e de secretário-recepcionista, considera-se equiparado ao curso de formação profissional previsto na alínea b) do n.º 2 do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, o 11.º ano, na área C, secretariado, na área D, administração pública ou jornalismo-turismo, ou 12.º ano, na área D, técnico de secretariado.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1992-188358), publicado em 1992-03-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:333276:por",
+    "alterador": "pt:dre:188358:por"
+  },
+  {
+    "artigo": "39.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 39.º — Mordomo\n\nO ingresso na categoria de mordomo far-se-á de entre indivíduos habilitados com a escolaridade obrigatória e possuidores de experiência comprovada.",
+    "depois": "###### Artigo 39.º — Mordomo\n\nO lugar de mordomo será provido de entre os auxiliares administrativos posicionados no 5.º escalão ou superior e classificação de serviço não inferior a Bom.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1992-188358), publicado em 1992-03-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:333276:por",
+    "alterador": "pt:dre:188358:por"
+  }
+]

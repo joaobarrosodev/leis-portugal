@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:151291:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DLR 28-B/99/M), artigo 1.º: substitui, nas partes alteradas, os mapas I a IV e IX do orçamento, que só vêm em imagem no documento original; não há alteração ao texto dos artigos.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: substituição parcial dos mapas I a IV e IX (só em imagem); não aplicada.",
+    "Alterador 1, art. 2.º: norma própria sobre receitas da concessão, não altera o texto do original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

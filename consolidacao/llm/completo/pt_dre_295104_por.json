@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:295104:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - As percentagens estabelecidas do anexo ao [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, para os veículos classificados na actual Pauta dos Direitos de Importação pelas subposições 87.02 A. I. b) 1. aa) 44, 87.02 A. I. b) 1. bb) 44, 87.02 A. I. b) 1. cc) 44, 87.02 A. I. b) 2. dd) e 87.02 A. II. b) passam a ser obtidas, para aqueles cuja cilindrada seja de 1400 cm3 ou menos, pela aplicação da fórmula:\n\nIVVA = 0,04 CC\n\nem que:\n\nIVVA = taxa de imposto sobre a venda de veículos automóveis aplicável em cada caso, arredondando-se o resultado de modo a eliminar as casas decimais;\n\nCC = cilindrada, em centímetros cúbicos, do veículo.\n\n2 - Relativamente aos veículos das subposições referidas no número anterior cuja cilindrada exceda 1400 cm3, as percentagens estabelecidas no mencionado [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132) passam a ser as indicadas no quadro seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/22902/00050006.pdf)",
+      "alterador": 4
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "O quadro do n.º 2 do art. 2.º (alterador 4) só vem em imagem; copiou-se a ligação tal como consta do alterador.",
+  "instrucoes": [
+    "Alt. 1 art. 1.º: nova redação do art. 2.º (coeficiente 0,042): substituída pelas seguintes.",
+    "Alt. 2 art. 1.º: nova redação do art. 2.º (n.os 1 e 2): substituída pela do alt. 4. Art. 3.º revoga o art. 1.º do DL 282/79 (outro diploma).",
+    "Alt. 3 art. 2.º: altera o art. 4.º do DL 697/73 (na redação dada pelo art. 3.º do original): outro diploma, ignorado.",
+    "Alt. 4 art. 1.º: nova redação do art. 2.º: aplicada (quadro do n.º 2 em imagem). Arts. 3.º-5.º: alteram/revogam o DL 697/73 e outros: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

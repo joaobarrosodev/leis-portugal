@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º\n\nO Instituto de Reorganização Agrária poderá requisitar aos proprietários, arrendatários e demais afectados por medidas de expropriação o equipamento mecânico e industrial, gado e outros componentes das respectivas explorações excedentários em relação à área que fiquem a cultivar, gozando, em qualquer caso, de direito de preferência, com eficácia real, em todas as alineações por aqueles efectuadas.",
+    "depois": "###### Artigo 11.º\n\nO Secretário de Estado da Estruturação Agrária poderá requisitar aos proprietários e demais afectados por medidas de expropriação o equipamento mecânico e de indústria agrícola e outros componentes das respectivas explorações.\n\n> Alterado pelo/a [Decreto-Lei n.º 895/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/895-1976-416472), publicado em 1976-12-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:346075:por",
+    "alterador": "pt:dre:416472:por"
+  }
+]

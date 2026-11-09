@@ -174,9 +174,11 @@ d) Taxa máxima de juro de mora: taxa máxima aplicada pelo Turismo de Portugal,
 
 ###### Artigo 10.º — Candidaturas
 
-1 - As candidaturas são apresentadas a todo o tempo, em formulário electrónico disponível no sítio da internet do Turismo de Portugal, I. P.
+1 - As candidaturas podem efectuar-se a todo o tempo, através do formulário electrónico disponível no sítio www.turismodeportugal.pt.
 
-2 - Os processos de candidatura são instruídos com os seguintes elementos:
+2 - Por despacho do membro do Governo responsável pela área do turismo, e no âmbito do presente Regulamento, podem ser criados programas de apoio ou concursos específicos, com períodos de vigência, condições e dotações orçamentais próprias.
+
+3 - Os processos de candidatura são instruídos com os seguintes elementos:
 
 a) Projectos aprovados pelas entidades para tanto competentes, sempre que os investimentos a realizar os exijam;
 
@@ -188,9 +190,11 @@ d) Cronogramas dos investimentos e demonstração da sustentabilidade dos mesmos
 
 e) Comprovativos da regularidade das situações devedora e contributiva junto da administração fiscal e da segurança social.
 
-3 - O Turismo de Portugal, I. P., aprecia tecnicamente as candidaturas no prazo máximo de 30 dias úteis.
+4 - O Turismo de Portugal, I. P., aprecia tecnicamente as candidaturas no prazo máximo de 30 dias úteis.
 
-4 - O prazo referido no número anterior suspende-se sempre que o Turismo de Portugal, I. P., solicite esclarecimentos complementares, até à data da prestação destes.
+5 - O prazo referido no número anterior suspende-se sempre que o Turismo de Portugal, I. P., solicite esclarecimentos complementares, até à data da prestação destes.
+
+> Alterado pelo/a [Despacho Normativo n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2010-3620231), publicado em 2010-06-18.
 
 ###### Artigo 11.º — Processo negocial e decisão final
 
@@ -258,7 +262,7 @@ c) Resolução por mútuo acordo dos contratos a que se refere a alínea anterio
 
 ###### Artigo 16.º — Prazos máximos de reembolso
 
-1 - Os prazos máximos a acordar para o reembolso dos financiamentos total ou parcialmente reembolsáveis não pode exceder o menor de dois limites:
+1 - Sem prejuízo do disposto no artigo 19.º, os prazos máximos a acordar para o reembolso dos financiamentos total ou parcialmente reembolsáveis não pode exceder o menor de dois limites:
 
 a) Cinco anos;
 
@@ -271,6 +275,8 @@ b) O termo final do prazo para a amortização dos financiamentos caso os corres
 4 - Os prazos máximos definidos nos n.os 1 e 2 podem ser excepcionalmente alargados sempre que as entidades devedoras demonstrem incapacidade financeira para efectuar o reembolso integral das dívidas nos prazos aí definidos.
 
 5 - Sempre que as obrigações das entidades devedoras estejam assistidas por garantias especiais de reembolso, o alargamento de prazos a que se refere o número anterior não pode prejudicar a manutenção e a consistência de tais garantias especiais.
+
+> Alterado pelo/a [Despacho Normativo n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2010-3620231), publicado em 2010-06-18.
 
 ###### Artigo 17.º — Juros de capital
 

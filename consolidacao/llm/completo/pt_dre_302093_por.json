@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:302093:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Artigo 6.º do alterador 1 revoga o anexo ao Decreto-Lei n.º 4/97, que não consta do texto atual por artigos.",
+  "instrucoes": [
+    "Art. 2.º: nova redação dos arts. 2.º a 8.º; texto atual já coincide, sem mudança",
+    "Art. 3.º: aditamento dos arts. 5.º-A, 5.º-B e 10.º; já presentes e iguais, sem mudança",
+    "Art. 6.º: revoga o anexo; não está no texto atual, não aplicada",
+    "Art. 7.º: republicação; não é instrução de alteração"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

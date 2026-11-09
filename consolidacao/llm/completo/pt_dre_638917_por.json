@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:638917:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Retificação 93/93: incide no n.º 4.º da Portaria (Portaria n.º 298/88 -> 289/88) e no mapa anexo (alíneas a) e b) e coluna 'Número de lugares'), textos que não constam do texto atual (que só tem os artigos 5.º, 16.º e 16.º-A, estes dois vazios); não há onde aplicar com segurança.",
+  "instrucoes": [
+    "Portaria 935/92: anterior ao original e sem instruções dirigidas a ele — ignorada.",
+    "Retificação 93/93, n.º 4.º: texto ausente do texto atual — não aplicada.",
+    "Retificação 93/93, mapa anexo: ausente do texto atual — não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

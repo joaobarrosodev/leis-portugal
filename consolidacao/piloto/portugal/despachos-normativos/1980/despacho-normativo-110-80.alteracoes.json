@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\n1 - As provas de aptidão serão constituídas por:\n\na) Um teste psicotécnico;\n\nb) Prova escrita e prova oral, versando matérias de direito e processo penal, técnica e táctica de investigação e ciências auxiliares.\n\n2 - O exame psicotécnico será realizado por empresa de especialidade, do Estado, sector público ou privado, fixada pelo Ministro da Justiça, sob proposta do director-geral da Polícia Judiciária.",
+    "depois": "###### Artigo 7.º\n\n1 - As provas de aptidão serão constituídas por:\n\na) Prova escrita, versando matérias de direito e processo penal, técnica e táctica de investigação e ciências auxiliares;\n\nb) Teste psicotécnico;\n\nc) Prova oral sobre as matérias referidas na alínea a).\n\n2 - O exame psicotécnico será realizado por empresa de especialidade, do Estado, sector público ou privado, fixada pelo Ministro da Justiça, sob proposta do director-geral da Polícia Judiciária.\n\n> Alterado pelo/a [Despacho Normativo n.º 62/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/62-1982-606715), publicado em 1982-04-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:677648:por",
+    "alterador": "pt:dre:606715:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\n1 - O teste psicotécnico terá em vista apreciar a aptidão dos candidatos para o desempenho dos cargos a que se destinam, designadamente no respeitante a qualidades de chefia, estabilidade emocional, relacionamento de grupo e demais características de um técnico de investigação criminal.\n\n2 - Os candidatos declarados não aptos pela entidade encarregada dos testes serão excluídos.",
+    "depois": "###### Artigo 8.º\n\n1 - O teste psicotécnico terá em vista apreciar a aptidão dos candidatos para o desempenho dos cargos a que se destinam, designadamente no respeitante a qualidades de chefia, estabilidade emocional, relacionamento de grupo e demais características de um técnico de investigação criminal.\n\n2 - O teste psicotécnico não assume, de per si, carácter eliminatório, destinando-se a transmitir ao júri elementos informativos dos candidatos com vista à sua apreciação global.\n\n3 - Só os candidatos que obtenham passagem na prova escrita serão submetidos a testes psicotécnicos.\n\n4 - A entidade encarregada dos testes formulará o seu parecer em 3 grupos (I grupo - Favorável, II grupo - Favorável com reservas, III grupo - Não favorável), fazendo uma apreciação justificativa dos motivos que levaram à inclusão dos candidatos em cada um dos grupos.\n\n5 - Os resultados serão presentes ao júri em reunião marcada para o efeito, antes da realização das provas orais.\n\n> Alterado pelo/a [Despacho Normativo n.º 62/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/62-1982-606715), publicado em 1982-04-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:677648:por",
+    "alterador": "pt:dre:606715:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º\n\n1 - A cada prova escrita ou oral será atribuída uma classificação de 0 a 20 valores.\n\n2 - A atribuição de nota inferior a 10 valores na prova escrita determina a exclusão, sendo, portanto, impeditiva da realização da prova oral.\n\n3 - O conjunto das provas escrita e oral será objecto de uma classificação global, com referência à pauta valorativa mencionada no n.º 1, arredondando-se para a unidade superior ou inferior consoante o valor decimal for ou não igual ou superior a 5.\n\n4 - A atribuição de uma média inferior a 10 valores no conjunto das provas escrita e oral determina a exclusão do candidato.",
+    "depois": "###### Artigo 13.º\n\n1 - A cada prova escrita ou oral será atribuída uma classificação de 0 a 20 valores.\n\n2 - A atribuição de nota inferior a 10 valores na prova escrita determina a exclusão, sendo, portanto, impeditiva da realização do teste psicotécnico e da prova oral.\n\n3 - A classificação global dos candidatos deverá ter em conta os resultados das provas escrita e oral e do teste psicotécnico, formulada de acordo com o estabelecido no n.º 1, arredondando-se para a unidade superior ou inferior, consoante o valor decimal for ou não igual ou superior a 5.\n\n4 - São excluídos os candidatos que tenham obtido média inferior a 10 valores no conjunto das provas escrita e oral, podendo igualmente ser excluídos os candidatos cuja inclusão nos grupos II e III dos testes psicotécnicos e curriculum profissional não permitam inferir uma real capacidade para o desempenho das funções a que se candidatam. Os motivos da exclusão ou aprovação destes últimos candidatos deverão constar da acta.\n\n> Alterado pelo/a [Despacho Normativo n.º 62/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/62-1982-606715), publicado em 1982-04-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:677648:por",
+    "alterador": "pt:dre:606715:por"
+  }
+]

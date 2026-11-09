@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nNa Região Autónoma dos Açores, nos concelhos cuja população não atinja o nível legalmente fixado, apenas poderá ser autorizada a instalação de uma escola de condução.",
+    "depois": "###### Artigo 2.º\n\n1 - Na Região Autónoma dos Açores, nos concelhos cuja população não atinja o nível legalmente fixado, apenas poderá ser autorizada a instalação de uma escola de condução.\n\n2 - Por despacho do secretário regional da tutela, sob proposta do director regional de Transportes Terrestres, poderão ser concedidos alvarás, independentemente do condicionalismo escola/população, desde que tal se mostre adequado à configuração apresentada pela procura previsível.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 18/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1989-550047), publicado em 1989-11-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:196244:por",
+    "alterador": "pt:dre:550047:por"
+  }
+]

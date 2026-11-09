@@ -334,7 +334,7 @@ d) Justificação de eventuais desvios financeiros.
 
 ###### Artigo 17.º-B — Relatório de avaliação
 
-O relatório redigido pela Comissão de Apreciação é entregue ao diretor regional com competência em matéria de cultura que elaborará um relatório de avaliação, do qual conste a apreciação da comissão bem como a apreciação final dos serviços técnicos da direção regional com competência em matéria de cultura, a ser enviado a cada uma das entidades beneficiárias.
+O relatório redigido pela Comissão de Apreciação é entregue ao diretor regional com competência em matéria de cultura que elaborará um relatório de avaliação, do qual conste a apreciação da comissão bem como a apreciação final dos serviços técnicos da direção regional com competência em matéria de cultura, a ser enviado a cada uma das entidades beneficiárias.»
 
 > Aditado pelo/a [Decreto Legislativo Regional n.º 9/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2014-25345668), publicado em 2014-07-03.
 

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:196244:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - Na Região Autónoma dos Açores, nos concelhos cuja população não atinja o nível legalmente fixado, apenas poderá ser autorizada a instalação de uma escola de condução.\n\n2 - Por despacho do secretário regional da tutela, sob proposta do director regional de Transportes Terrestres, poderão ser concedidos alvarás, independentemente do condicionalismo escola/população, desde que tal se mostre adequado à configuração apresentada pela procura previsível.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do alterador 1: nova redação do art. 2.º (n.os 1 e 2) — aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

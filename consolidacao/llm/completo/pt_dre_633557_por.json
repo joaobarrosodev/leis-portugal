@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:633557:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DR 48/97: o art. 1.º altera a delimitação da área crítica através de nova planta (só em imagem) e o art. 2.º faz incidir o direito de preferência sobre a nova área; nenhum dá nova redação a artigos do DR 32/91 — alteração não textual, não aplicada.",
+  "instrucoes": [
+    "DR 48/97, art. 1.º: nova delimitação da área por planta anexa — não textual/imagem.",
+    "DR 48/97, art. 2.º: direito de preferência do art. 2.º passa a incidir sobre a nova área — sem nova redação, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

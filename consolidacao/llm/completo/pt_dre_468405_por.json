@@ -1,0 +1,147 @@
+{
+  "id": "pt:dre:468405:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Transformação",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Missão e objecto",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Regime jurídico",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Sucessão",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Património",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Capital",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Titularidade e função accionista",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Deveres especiais de informação",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Poderes de autoridade",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Obrigações e empréstimos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Pagamentos no âmbito do Serviço Regional de Saúde",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Contratos de aprovisionamento",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Primeira reunião da assembleia geral",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Recursos humanos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Regime laboral público e transição",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Requisições e comissões de serviço",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Estatutos e registos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Nomeação do representante da Região Autónoma dos Açores",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Revogação",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Alteração ao [Decreto Legislativo Regional n.º 28/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-1999-346705), de 31 de Julho",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DLR 2/2007/A): sem texto que mencione o original: nada aplicado.",
+    "Alterador 2 (DLR 25/2019/A) art. 12.º: revoga o DLR 41/2003/A, com exceção dos Estatutos anexos: arts. 1.º a 22.º ficam (Revogado.); artigos do anexo mantêm-se.",
+    "Alterador 2 restantes artigos: regime de extinção da SAUDAÇOR, sem alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

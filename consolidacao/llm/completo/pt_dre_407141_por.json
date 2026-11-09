@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:407141:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alt.1 (Portaria n.º 515/77) adita duas unidades de telefonista ao quadro de pessoal anexo e alt.2 (Portaria n.º 415/80, n.º 4) substitui esse quadro pelo anexo IV; o quadro só existe em imagem e nenhum artigo é alterado.",
+  "instrucoes": [
+    "Alt.1 n.º 1.º: aditamento ao quadro anexo (imagem); não aplicável ao texto.",
+    "Alt.2 n.º 4: substitui o quadro anexo pelo anexo IV (imagem); não aplicável. Restantes números dizem respeito a outros diplomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

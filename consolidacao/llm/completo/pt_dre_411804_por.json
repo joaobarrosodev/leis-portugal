@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:411804:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º: o n.º 1 do art. 1.º é '(Actual artigo 1.º)', ou seja, o texto do antigo artigo 1.º, que não consta do pedido (o texto atual já tem só o marcador); não foi possível repor esse texto.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do art. 1.º (n.os 2 e 3 já aplicados; n.º 1 com marcador '(Actual artigo 1.º)' sem o texto antigo disponível) e aditamento do n.º 4 ao art. 3.º (já aplicado)",
+    "Alterador 1, art. 2.º: extinção do sistema do Cávado-Homem - norma autónoma, não altera o original",
+    "Alterador 2 (Decreto-Lei n.º 70/2023): prorrogação do prazo da concessão e extinção do sistema - normas autónomas, sem alteração textual do original",
+    "Alterador 3 (Decreto-Lei n.º 98/2025): altera o Decreto-Lei n.º 70/2023 - não dirigido ao original, ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

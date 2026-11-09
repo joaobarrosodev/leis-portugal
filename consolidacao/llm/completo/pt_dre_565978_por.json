@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:565978:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "Instituição competente",
+      "texto": "1 - O requerimento deve ser apresentado na instituição que, à sua data, abranja o interessado, se o mesmo for beneficiário activo da Segurança Social, ou, caso contrário, no centro regional da área da sua residência, cabendo a decisão final do processo de reconhecimento ao respectivo órgão directivo.\n\n2 - No caso de o interessado não residir em território nacional, a instituição competente para os efeitos do presente diploma é o Centro Regional de Segurança Social de Lisboa e Vale do Tejo.",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Financiamento",
+      "texto": "Os encargos com as prestações originadas com o reconhecimento a que se refere o presente decreto-lei são suportados pela Direcção-Geral do Tesouro, através do capítulo 60 do Ministério das Finanças e da Administração Pública, a qual transfere, anualmente, para o Instituto de Gestão Financeira da Segurança Social as verbas necessárias.",
+      "alterador": 4
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 45/93: revoga alínea d) do n.º 1 do art. 1.º - já não existe no texto atual (redação posterior do DL 465/99 só tem a) a c)).",
+    "DL 278/98: alarga prazo do art. 4.º - não textual; art. 4.º revogado depois.",
+    "DL 465/99: arts. 1.º e 3.º já coincidem com o texto atual; art. 6.º passa a n.os 1 e 2 - aplicado; revoga art. 4.º - já revogado.",
+    "Lei 53-A/2006 art. 139.º: nova redação do art. 8.º - aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

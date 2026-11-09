@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:393216:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 537/80): revoga o n.º 6 da Portaria 455/79 (outro diploma) e apenas remete para o artigo 21.º do original; nada a alterar no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:390609:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 777/82, n.º 1.º): fixa a duração do curso em 18 meses sem dar nova redação ao artigo 3.º do Decreto (\"um ano escolar\"); alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Portaria 777/82 1.º: duração do curso passa a 18 meses; não textual, não aplicado",
+    "Portaria 777/82 2.º e 3.º: plano de estudos e diplomas; sem instrução dirigida ao texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

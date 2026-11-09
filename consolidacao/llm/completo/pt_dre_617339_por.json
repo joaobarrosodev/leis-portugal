@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:617339:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "A taxa do imposto de capitais incidente sobre os juros de depósitos a prazo constituídos por emigrantes e equiparados nas instituições de crédito legalmente autorizadas a recebê-los, quando produzidos por «Conta poupança emigrante», «Conta de emigrante em moeda estrangeira» e «Contas acessíveis a residentes», desde que, neste último caso, as contas tenham sido ou venham a ser alimentadas com fluxos monetários provenientes do exterior devidamente comprovados, é de 50% da taxa a que se refere o § 4.º do artigo 21.º do Código do Imposto de Capitais.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 121/87), art. 4.º: nova redação do artigo 4.º (substituída depois).",
+    "Alterador 2 (Lei 2/88), art. 49.º, n.º 3: nova redação do artigo 4.º (substituída depois); o resto do artigo diz respeito a outros diplomas.",
+    "Alterador 3 (DL 73/88), art. 6.º, n.º 1: nova redação do artigo 4.º; aplicada como texto final. Restantes artigos alteram o Código do Imposto de Capitais e o DL 74/87, ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

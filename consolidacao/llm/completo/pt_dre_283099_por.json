@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:283099:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Estatuto da SATA Air Açores - Serviço Açoreano de Transportes Aéreos, E. P.::6.º-A",
+      "epigrafe": "Comissão executiva",
+      "texto": "1 - O conselho de administração poderá delegar, numa comissão executiva, formada entre os seus membros, os poderes constantes das alíneas f), g), h), i), j), l) e m) do n.º 2 do artigo anterior, bem como outros que entenda convenientes, para assegurar a gestão corrente da empresa, sem prejuízo do direito de avocação de competências delegadas.\n\n2 - A comissão executiva referida no número anterior laborará em regime de tempo inteiro, será presidida pelo presidente do conselho de administração e constituída por um máximo de três membros, competindo a sua nomeação e exoneração ao Governo Regional, sob proposta do secretário regional da tutela.\n\n3 - Só os membros do conselho de administração que façam parte da comissão executiva se consideram em regime de tempo inteiro.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Estatuto da SATA Air Açores - Serviço Açoreano de Transportes Aéreos, E. P.::7.º",
+      "epigrafe": "Competência do presidente do CA",
+      "texto": "1 - Compete, especialmente, ao presidente do CA ou ao seu substituto legal:\n\na) Representar a empresa;\n\nb) Coordenar e dirigir as actividades do CA;\n\nc) Convocar as reuniões do CA;\n\nd) Presidir às reuniões do CA;\n\ne) Fazer cumprir as deliberações do CA e, em particular, velar pela execução e pelo cumprimento dos orçamentos e dos planos anuais e plurianuais;\n\nf) Assegurar as relações com o Governo Regional;\n\ng) Exercer os poderes que o CA nele delegar.\n\n2 - (Revogado.)\n\n3 - O presidente, ou o seu substituto legal, terá sempre voto de qualidade e poderá opor o seu veto a deliberações que considere contrárias à lei e ao presente estatuto, com a consequente suspensão de executoriedade da deliberação, até que sobre esta se pronuncie o secretário regional da tutela.\n\n4 - O veto deverá ser comunicado no prazo de oito dias pelo presidente ao secretário regional da tutela, o qual terá igual prazo para se pronunciar, findo o qual considerar-se-á confirmada a deliberação tomada nos termos do número anterior.\n\n5 - A confirmação do veto acarreta a ineficácia da deliberação.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Estatuto da SATA Air Açores - Serviço Açoreano de Transportes Aéreos, E. P.::9.º",
+      "epigrafe": "Reuniões",
+      "texto": "1 - O conselho de administração reúne, ordinariamente, uma vez por quinzena e, extraordinariamente, sempre que for convocado pelo presidente, por iniciativa própria ou a solicitação dos seus membros.\n\n2 - A comissão executiva, quando exista, reunirá, ordinariamente, uma vez por semana e, extraordinariamente, nos termos prescritos para o conselho de administração.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º adita o artigo 6.º-A (Comissão executiva): aditado com o texto do alterador.",
+    "Art. 2.º dá nova redação ao artigo 9.º (epígrafe Reuniões): substituído por inteiro.",
+    "Art. 3.º revoga o n.º 2 do artigo 7.º: n.º 2 passa a '2 - (Revogado.)', resto mantido.",
+    "Art. 4.º entrada em vigor: não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nQuando o oficial submetido a julgamento no C. S. D. A. for mais graduado ou antigo que qualquer dos membros ou que o promotor, serão nomeados ad hoc para o desempenho de tais funções oficiais mais graduados ou antigos, os quais, desde que necessário, poderão ser do quadro de reformados.",
+    "depois": "###### Artigo 3.º\n\nQuando o oficial submetido a julgamento for oficial general, será nomeado para promotor ad hoc um oficial general, dos quadros do activo ou da reserva, se possível mais antigo do que aquele.\n\n> Alterado pelo/a [Decreto-Lei n.º 876/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/876-1976-416401), publicado em 1976-12-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:527037:por",
+    "alterador": "pt:dre:416401:por"
+  }
+]

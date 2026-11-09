@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nPara efeitos estatísticos, a duração da gravidez será classificada nos seguintes grupos:\n\n1.º grupo: menos de 20 semanas completas;\n\n2.º grupo: de 20 semanas a menos de 28 semanas completas;\n\n3.º grupo: 28 semanas ou superior;\n\n4.º grupo: duração desconhecida.\n\n§ único. A duração da gravidez é contada desde o primeiro dia do último cataménio até ao dia do nascimento.",
+    "depois": "###### Artigo 1.º\n\nPara efeitos estatísticos, a duração da gestação, que se designa por idade gestacional, será classificada nos seguintes grupos:\n\n1.º grupo: menos de vinte e duas semanas completas;\n\n2.º grupo: de vinte e duas semanas a menos de vinte e oito semanas completas;\n\n3.º grupo: vinte e oito semanas completas ou mais;\n\n4.º grupo: duração desconhecida.\n\n§ único. A idade gestacional é expressa em dias ou semanas completas e é calculada a partir do primeiro dia do último período menstrual normal.\n\n> Alterado pelo/a [Decreto-Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834), publicado em 1980-02-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:184543:por",
+    "alterador": "pt:dre:678834:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nDesignar-se-ão por prematuros os nado vivos cujo nascimento se verifique com menos de 37 semanas de gravidez provável ou que pesem ao nascer 2,5 kg ou menos.",
+    "depois": "###### Artigo 3.º\n\n1 - Segundo a duração da gestação, é de pré-termo o nascimento que ocorra antes de trinta e sete semanas completas de gestação; é de termo o que ocorre entre trinta e sete semanas e quarenta e uma semanas e seis dias de gestação; é de pós-termo o que ocorre com quarenta e duas semanas completas ou mais de gestação.\n\n2 - Segundo o peso ao nascer, é de baixo peso o feto ou recém-nascido cuja primeira medida de peso seja inferior a 2500 g.\n\n§ único. A primeira medida de peso deverá ser feita, de preferência, na primeira hora de vida, antes que ocorra uma significativa perda de peso pós-natal.\n\n> Alterado pelo/a [Decreto-Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834), publicado em 1980-02-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:184543:por",
+    "alterador": "pt:dre:678834:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\nSempre que se produza antes do nascimento, a morte do produto da fecundação será designada por morte fetal.\n\n§ único. A morte fetal, com relação à duração da gravidez, poderá ser:\n\na) Precoce, se a gravidez pertencer ao 1.º grupo;\n\nb) Intermédia, se pertencer ao 2.º;\n\nc) Tardia, caso se classifique no 3.º",
+    "depois": "###### Artigo 4.º\n\nSempre que se produza antes do nascimento, a morte do produto da fecundação será designada por morte fetal.\n\n§ único. A morte fetal, com relação à duração da gestação, poderá ser:\n\na) Precoce, se a gestação pertencer ao 1.º grupo;\n\nb) Intermédia, se pertencer ao 2.º;\n\nc) Tardia, caso se classifique no 3.º\n\n> Alterado pelo/a [Decreto-Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834), publicado em 1980-02-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:184543:por",
+    "alterador": "pt:dre:678834:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\nPara todos os efeitos legais, são ùnicamente de adoptar os conceitos e designação técnica constantes deste decreto-lei.\n\n§ único. A anterior designação de abortamento corresponde às actuais designações de morte fetal precoce ou intermédia, consoante a duração de gravidez; e as de mortinatalidade ou de nado morto, respectivamente à de morte fetal tardia ou de feto que a sofreu.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 28 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser presente à Assembleia Nacional.",
+    "depois": "###### Artigo 5.º\n\nPara todos os efeitos legais, são ùnicamente de adoptar os conceitos e designação técnica constantes deste decreto-lei.\n\n§ único. A anterior designação de abortamento corresponde à actual designação de morte fetal precoce. A anterior designação de mortinatalidade, à de morte fetal intermédia ou tardia; e a de nado-morto, à de feto morto.\n\n> Alterado pelo/a [Decreto-Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834), publicado em 1980-02-29.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 28 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser presente à Assembleia Nacional.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:184543:por",
+    "alterador": "pt:dre:678834:por"
+  }
+]

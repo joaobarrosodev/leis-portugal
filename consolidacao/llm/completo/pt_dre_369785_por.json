@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:369785:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Dependem directamente do Ministro das Finanças os serviços seguintes:\n\na) Gabinete do Ministro;\n\nb) Secretaria-Geral;\n\nc) Gabinete de Estudos e Planeamento;\n\nd) Auditoria Jurídica;\n\ne) Gabinete para a Cooperação Económica Externa;\n\nf) Gabinete de Informação e Relações Públicas.\n\ng) Biblioteca Central do Ministério das Finanças.",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "Na dependência do Secretário de Estado das Finanças funcionarão os serviços seguintes:\n\na) Gabinete do Secretário de Estado;\n\nb) Direcção-Geral do Património;\n\nc) Direcção-Geral do Tribunal de Contas;\n\nd) Serviços Sociais do Ministério das Finanças;\n\ne) Gabinete de Gestão de Veículos do Estado;\n\nf) Serviço de Informação para o Abastecimento Estatal.\n\ng) Comissão Liquidatária do Comissariado para os Desalojados.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (DN 315/79): aditada ao art. 7.º a alínea g) Comissão Liquidatária do Comissariado para os Desalojados.",
+    "Alt. 2 (DN 317/79): aditada ao art. 2.º (serviços dependentes do Ministro) a alínea g) Biblioteca Central do Ministério das Finanças.",
+    "Alt. 3 (Portaria 698/79): substitui quadro de pessoal anexo ao DR 66/77, outro diploma: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

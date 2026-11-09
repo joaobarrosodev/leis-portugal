@@ -1,0 +1,63 @@
+{
+  "id": "pt:dre:570323:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "(Âmbito de aplicação)",
+      "texto": "1 - As disposições do presente diploma aplicam-se aos funcionários providos em lugares dos quadros dos diversos serviços e organismos da administração regional autónoma dos Açores e dos institutos públicos dela dependentes que revistam a natureza de serviços personalizados ou de fundos públicos.\n\n2 - São igualmente aplicáveis aos agentes dos serviços referidos no número anterior as disposições do presente diploma que se traduzam em valorizações de categoria correspondente do pessoal do quadro.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "(Carreira de tesoureiro)",
+      "texto": "1 - A carreira de tesoureiro desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras H, I e J.\n\n2 - O recrutamento para ingresso na carreira far-se-á de entre segundos-oficiais administrativos habilitados com o curso geral do ensino secundário ou equiparado e com, pelo menos, 3 anos na categoria.\n\n3 - O acesso à categoria fica condicionado à permanência de um mínimo de 5 anos na categoria imediatamente inferior e de classificação de serviço não inferior a Bom.\n\n4 - O disposto nos números anteriores não é aplicável à carreira de tesoureiro da Secretaria Regional das Finanças.",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "(Regime genérico aplicável)",
+      "texto": "Às carreiras a que se referem os artigos anteriores é aplicável o regime estabelecido no [Decreto Regulamentar Regional n.º 27/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1977-277307), de 26 de Outubro, com as alterações introduzidas pelo [Decreto Regulamentar Regional n.º 19/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1979-369824), de 19 de Setembro, e legislação complementar em tudo o que não esteja especialmente regulado neste diploma.",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "(Transição)",
+      "texto": "1 - A transição do pessoal abrangido pelo presente diploma far-se-á na categoria ou classe em que o funcionário ou agente actualmente se encontra, sem prejuízo da valorização operada pela atribuição das novas letras de vencimento.\n\n2 - Transita para a base das respectivas carreiras, estruturadas nos termos do presente diploma, o pessoal que se encontra provido em categoria ou classe inferior.\n\n3 - Para efeitos de progressão na respectiva carreira, é considerado na categoria de ingresso o tempo de serviço prestado em categoria ou classe inferior extinta nos termos do presente diploma.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "(Alterações aos quadros de pessoal)",
+      "texto": "1 - Para efeitos de aplicação do presente diploma, consideram-se automaticamente alterados os quadros de pessoal dos organismos e serviços de acordo com as seguintes regras:\n\na) Na letra de vencimento, em relação às categorias valorizadas e cuja designação não se altere;\n\nb) Aumentada a dotação de fiscal de obras públicas de 2.ª classe ou de fiscal de obras de 2.ª classe em tantas unidades quantas as de, respectivamente, fiscal de obras públicas auxiliar e fiscal de obras auxiliar.\n\n2 - As alterações aos quadros do pessoal para efeitos de criação da categoria de secretário-recepcionista principal serão feitas mediante decreto regulamentar regional, de acordo com as seguintes regras:\n\na) O número de lugares a criar não pode ser superior ao número de lugares da categoria imediatamente inferior;\n\nb) Os encargos resultantes da criação dos lugares serão satisfeitos por conta das disponibilidades existentes nas dotações orçamentais que suportam as despesas com o pessoal dos quadros aprovados por lei e do pessoal contratado não pertencente aos quadros.",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "(Salvaguarda de direitos adquiridos)",
+      "texto": "A aplicação do disposto no presente diploma não prejudicará em caso algum a situação que os funcionários já detêm.",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto do Presidente do Governo Regional e do Secretário Regional da Administração Pública.",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "O presente diploma produz efeitos desde 1 de Novembro do corrente ano.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigo 2.º: renumera os artigos 5.º a 9.º como 6.º a 10.º mas nada diz sobre o antigo artigo 10.º (produção de efeitos), que colidiria com o novo 10.º; foi colocado como 11.º por consequência da renumeração, sem instrução expressa.",
+  "instrucoes": [
+    "Alterador 1 art. 1.º: nova redacção do n.º 1 do artigo 1.º; aplicada.",
+    "Alterador 1 art. 2.º: os artigos 5.º, 6.º, 7.º, 8.º e 9.º passam a 6.º, 7.º, 8.º, 9.º e 10.º; aplicada; o antigo 10.º passou a 11.º (ver nao_aplicavel).",
+    "Alterador 1 art. 3.º: adita o artigo 5.º (Carreira de tesoureiro); aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

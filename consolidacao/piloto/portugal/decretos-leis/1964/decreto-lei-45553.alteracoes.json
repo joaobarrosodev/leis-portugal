@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\nO pessoal civil oriundo do funcionalismo público manterá, quando em serviço nas infra-estruturas N. A. T. O., todos os seus direitos como se estivesse em serviço nos respectivos quadros, nomeadamente no que se refere à contagem de tempo de serviço, desconto para a Caixa Geral de Aposentações e organismos de previdência ou quaisquer outros de que por imposição legal sejam contribuintes.",
+    "depois": "###### Artigo 4.º\n\nO pessoal civil oriundo do funcionalismo público manterá, quando em serviço nas infra-estruturas N. A. T. O., todos os seus direitos como se estivesse em serviço nos respectivos quadros, nomeadamente no que se refere à contagem de tempo de serviço, desconto para a Caixa Geral de Aposentações e organismos de previdência ou quaisquer outros de que por imposição legal sejam contribuintes.\n\n§ único. Os lugares deixados vagos nos quadros de origem por este pessoal poderão ser preenchidos, até terminar o impedimento dos titulares respectivos, por funcionários de nomeação provisória ou interina que possuam idêntica aptidão profissional, devendo ser dada preferência a indivíduos já classificados em concurso a aguardar vacatura.\n\n> Alterado pelo/a [Decreto-Lei n.º 184/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1970-141868), publicado em 1970-04-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:469644:por",
+    "alterador": "pt:dre:141868:por"
+  }
+]

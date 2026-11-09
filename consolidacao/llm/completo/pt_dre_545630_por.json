@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:545630:por",
+  "artigos": [
+    {
+      "chave": "ANEXO A::7.º",
+      "epigrafe": "Despesas elegíveis",
+      "texto": "1 - São consideradas despesas elegíveis para efeito de cálculo do incentivo as directamente relacionadas com as actividades do núcleo de I&DT e realizadas com:\n\na) Pessoal técnico do promotor a admitir e que se destine ao exercício de actividades permanentes de investigação e desenvolvimento, de acordo com os critérios definidos no despacho n.º 3007/2001 (2.ª série), de 13 de Fevereiro;\n\nb) Software e equipamento informático para apoio técnico e administrativo;\n\nc) Bibliografia e acesso a bases de dados técnicas;\n\nd) Contratos de transferência ou aquisição de tecnologia que se traduzam na sua efectiva endogeneização por parte do núcleo;\n\ne) Intervenção de revisores oficiais de contas ou técnicos oficiais de contas, no âmbito da comprovação da execução financeira do plano de actividades, prevista na alínea c) do artigo 17.º;\n\n2 - Para efeitos do número anterior, o núcleo de I&DT a apoiar será constituído no máximo por três técnicos e o apoio terá um máximo de cinco anos.\n\n3 - No caso dos investimentos previstos na alínea b), apenas é considerado como despesa elegível o valor das respectivas amortizações correspondentes ao período da sua utilização no plano de actividades do núcleo de I&DT.\n\n4 - A despesa elegível prevista na alínea c) do n.º 1 não pode exceder (euro) 5000.\n\n5 - As despesas elegíveis identificadas nas alíneas b) e c) do n.º 1 não podem, no seu conjunto, exceder as despesas elegíveis identificadas na alínea a) do mesmo número.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "N.º 1.º do alterador (referências ao POE entendidas como feitas ao PRIME) e n.º 2.º (denominação abreviada NITEC) são regras interpretativas, sem alteração textual do articulado.",
+  "instrucoes": [
+    "1.º: referências ao POE entendidas como ao PRIME — interpretativa, não aplicada ao texto.",
+    "2.º: denominação abreviada NITEC — sem alteração textual.",
+    "3.º: suprimida a alínea f) do n.º 1 do art. 7.º, mantendo o resto do artigo — aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

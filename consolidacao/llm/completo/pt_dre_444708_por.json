@@ -1,0 +1,104 @@
+{
+  "id": "pt:dre:444708:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Natureza e finalidades do Projecto VIDA",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Instrumentos de planeamento do Projecto VIDA",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Órgãos de coordenação, acompanhamento e consulta",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Comissão interministerial",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Conselho nacional da toxicodependência",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Coordenador nacional do Projecto VIDA",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - O coordenador nacional usufruirá de estatuto remuneratório e disporá de gabinete equivalentes aos de subsecretário de Estado.\n\n4 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Comissão técnica de acompanhamento",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Colaboração dos serviços públicos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Serviço de apoio do Projecto VIDA",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Apoio administrativo",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Receitas do projecto VIDA",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Transição de pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Delegação de competências",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Disposições finais e transitórias",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - Os núcleos distritais do Projecto VIDA continuam a reger-se pelo disposto no artigo 9.º do [Decreto-Lei n.º 193/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1996-231535), de 15 de Outubro, e pelo Regulamento publicado em anexo ao mesmo diploma, até à publicação de legislação que defina o seu novo enquadramento.\n\n5 - As competências atribuídas pelo [Decreto-Lei n.º 193/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1996-231535), de 15 de Outubro, ao alto-comissário e relativas aos núcleos distritais do Projecto VIDA são exercidas pelo coordenador nacional do Projecto VIDA.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 90/2000), art. 48.º, a): revogado o diploma, ressalvados os n.os 4 e 5 do art. 15.º, o art. 16.º e o n.º 3 do art. 7.º; arts. 1.º-6.º e 8.º-14.º passam a '(Revogado.)', no art. 7.º revogados os n.os 1, 2 e 4 e no art. 15.º os n.os 1 a 3; art. 16.º mantido",
+    "Alterador 1, arts. 44.º, 45.º e 46.º: extinção do Projecto VIDA e transições - normas autónomas, sem alteração textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

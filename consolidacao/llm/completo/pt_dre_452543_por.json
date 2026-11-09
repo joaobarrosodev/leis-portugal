@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:452543:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto 21/89, art. 1.º: altera o artigo 3.º do decreto de 13 de Abril de 1963 (outro diploma), ainda que na redação dada pelo original - ignorado",
+    "Decreto 21/89, art. 2.º: produção de efeitos - não altera o original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:2455467:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 7.º do alterador 1: alteração do Anexo I e aditamento dos Anexos V a VIII com a redação do Anexo C, que não vem no pedido.",
+  "instrucoes": [
+    "Art. 6.º: nova redação do artigo 4.º — o texto atual já coincide com ela; nada a mudar.",
+    "Art. 7.º: anexos I e V a VIII — não aplicado (texto dos anexos ausente)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

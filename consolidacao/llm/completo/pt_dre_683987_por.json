@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:683987:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1 - Os planos anuais de actividades, os orçamentos, as contas e os relatórios de gerência das câmaras municipais, assembleias distritais e juntas de freguesia, assim como os regimentos dos órgãos deliberativos das autarquias locais, poderão deixar de ser transcritos nas actas das reuniões em que forem apreciados e aprovados, desde que os originais sejam assinados pelos membros presentes e por eles rubricados em todas as folhas, sendo depois arquivados em pasta anexa ao respectivo livro de actas.\n\n2 - O disposto no número anterior aplica-se ainda às posturas e regulamentos que forem aprovados pelos órgãos deliberativos das autarquias locais, sem prejuízo da respectiva publicação nos termos legais.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 334/82), artigo único: nova redação do artigo 5.º: aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

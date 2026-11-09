@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:486306:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1. É criado no Fundo de Fomento da Habitação um Conselho Directivo, constituído por:\n\na) Presidente do Fundo;\n\nb) Vice-presidentes do mesmo;\n\nc) Seis funcionários do mesmo organismo exercendo funções de chefia, designados pelo Secretário de Estado da Habitação e Urbanismo.\n\n2. Os lugares de presidente e de vice-presidente do Fundo são ocupados, em regime de comissão de serviço, por escolha e nomeação do Ministro do Equipamento Social e do Ambiente, com dispensa de quaisquer formalidades, entre:\n\na) Oficiais do quadro permanente das forças armadas;\n\nb) Licenciados com curso superior adequado.\n\n2-A) Quando os agentes a que se refere a alínea b) do n.º 2 forem técnicos do Fundo, fica salvaguardado o seu regresso à situação anterior, qualquer que seja.\n\n3. Compete ao Conselho Directivo do Fundo de Fomento da Habitação:\n\na) Elaborar e propor o plano de actividades e orçamento referentes ao ano civil seguinte, a submeter à aprovação do Ministro do Equipamento Social e do Ambiente até 30 de Junho;\n\nb) Proceder, mensalmente, ao contrôle de execução do plano de actividades e dos programas dos sectores e assegurar a respectiva coordenação, tomando ou propondo ao Governo as medidas adequadas;\n\nc) Apresentar, anualmente, um relatório do Fundo de Fomento da Habitação até 15 de Abril;\n\nd) Deliberar sobre a admissão do pessoal além dos quadros e questões relativas a política do pessoal, sendo quanto a esta última matéria as suas atribuições definidas por despacho do Secretário de Estado da Habitação e Urbanismo;\n\ne) Propor alteração à orgânica do Fundo de Fomento da Habitação.\n\n4. Os membros do Conselho:\n\na) Têm direito a uma gratificação de 1000$00 por acumularem tais funções com as de chefia que exercem;\n\nb) São solidariamente responsáveis pela realização do programa anual de actividade aprovado.",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "1. Os quadros do pessoal do Fundo de Fomento da Habitação constam do decreto que alterará a organização dos serviços.\n\n2. Os cargos de director de serviços e de chefe de divisão do Fundo de Fomento da Habitação passam a ser exercidos, em regime de comissão de serviço, por tempo indeterminado.\n\n3. Os funcionários que ocupavam esses lugares passarão a ter, respectivamente, as categorias de engenheiro civil-inspector, arquitecto-inspector ou técnico-inspector e de engenheiro civil-chefe, arquitecto-chefe ou técnico-chefe, consoante as habilitações, com vencimentos e gratificações iguais aos que auferiam.\n\n4. Os funcionários nomeados para os cargos referidos no n.º 2 deste artigo terão os vencimentos correspondentes às letras D e E e as gratificações de 1000$00 e 500$00, consoante, respectivamente, se trate de directores de serviço ou de chefes de divisão.\n\n5. Os agentes referidos na alínea a) do n.º 2 do artigo 3.º têm direito a:\n\na) Contagem de tempo de serviço, tanto no serviço civil como no militar, para todos os efeitos previstos na lei;\n\nb) Percepção de diuturnidades, vencidas ou a vencer, nos termos do Decreto-Lei n.º 710/72 ou legislação subsequente, para além do vencimento e justificações correspondentes aos lugares que ocupam no Fundo.\n\n6. O disposto no número anterior aplica-se retroactivamente às situações já existentes.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 406/75): artigo 3.º com n.º 1 '...' (mantido), novo n.º 2 com alíneas a) e b) e aditado o n.º 2-A); n.os 3 e 4 mantidos; aplicado.",
+    "Alterador 1 (DL 406/75): artigo 7.º com n.os 1 a 4 '...' (mantidos), novo n.º 5 com alíneas a) e b) (o antigo n.º 5 sobre o notário privativo é substituído) e aditado o n.º 6; aplicado.",
+    "Alterador 2 (DL 427/75), art. 4.º, n.º 2: revoga o n.º 1 do artigo 2.º; anulado pelo alterador 3, que repõe esse n.º 1 em vigor, pelo que o artigo 2.º fica como está. As restantes normas (Comissão Directiva provisória) não alteram o texto do original.",
+    "Alterador 3 (DL 158/79): revoga o DL 427/75 e repõe em vigor o n.º 1 do artigo 2.º; o texto atual do artigo 2.º já o contém, nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

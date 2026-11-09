@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:422009:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "1. Constituem encargo do Cofre Geral dos Tribunais as despesas de transporte e as ajudas de custo dos funcionários chamados a frequentar cursos do Instituto.\n\n2. Será igualmente suportado pelo Cofre o encargo com o pagamento da diferença entre o quantitativo da gratificação, previsto na lei, e o quantitativo do vencimento do cargo de origem, a abonar ao director do Instituto, quando as respectivas funções não forem exercidas em regime de acumulação.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto 237/76, art. 1.º: altera os Decretos 199/73 e 200/73, não o original - ignorado",
+    "Decreto 237/76, art. 2.º: nova redação do n.º 1 do artigo 12.º - aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

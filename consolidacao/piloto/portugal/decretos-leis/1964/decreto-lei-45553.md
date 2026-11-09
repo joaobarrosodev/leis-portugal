@@ -1,0 +1,59 @@
+---
+id: pt:dre:469644:por
+title: Decreto-Lei n.º 45553
+original: data/portugal/decretos-leis/1964/decreto-lei-45553.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:141868:por
+    title: Decreto-Lei n.º 184/70
+    publication_date: '1970-04-29'
+  titulos_normalizados: artigos em texto corrido no original, com título pelo parser
+    da fase 3
+---
+
+# Decreto-Lei n.º 45553
+
+Tendo em conta o disposto no [Decreto-Lei n.º 44894](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44894-1963-193271), de 21 de Fevereiro de 1963;
+
+Considerando a necessidade de estabelecer as condições em que se verificará a manutenção e funcionamento das infra-estruturas N. A. T. O. existentes em Portugal na dependência do Ministério da Marinha, infra-estruturas para as quais é necessário fixar princípios reguladores que definam atribuições e responsabilidades tanto no que se refere à sua administração financeira, como à admissão do respectivo pessoal;
+
+Usando da faculdade conferida pela 1.ª parte do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º
+
+Compete ao Ministro da Marinha, de harmonia com as directivas aprovadas pelo Ministro da Defesa Nacional, assegurar a manutenção, funcionamento e defesa das infra-estruturas N. A. T. O. existentes em Portugal na dependência do Ministério da Marinha.
+
+§ único. A administração financeira destas infra-estruturas será regulada segundo normas a fixar pelos organismos de manutenção de infra-estruturas N. A. T. O. do Secretariado-Geral da Defesa Nacional e é exercida pelos organismos executivos de manutenção de infra-estruturas N. A. T. O. do Ministério da Marinha.
+
+###### Artigo 2.º
+
+Por despacho do Ministro da Marinha serão definidos os organismos da Armada que apoiarão dos pontos de vista militar, técnico e logístico as referidas infra-estruturas e reguladas as condições em que se realizará esse apoio.
+
+###### Artigo 3.º
+
+Por despacho do Ministro da Defesa Nacional, sob proposta do Ministro da Marinha, serão fixadas as lotações das infra-estruturas N. A. T. O. dependentes do Ministério da Marinha em pessoal militar e em pessoal civil ou militar em comissão civil.
+
+###### Artigo 4.º
+
+O pessoal civil oriundo do funcionalismo público manterá, quando em serviço nas infra-estruturas N. A. T. O., todos os seus direitos como se estivesse em serviço nos respectivos quadros, nomeadamente no que se refere à contagem de tempo de serviço, desconto para a Caixa Geral de Aposentações e organismos de previdência ou quaisquer outros de que por imposição legal sejam contribuintes.
+
+§ único. Os lugares deixados vagos nos quadros de origem por este pessoal poderão ser preenchidos, até terminar o impedimento dos titulares respectivos, por funcionários de nomeação provisória ou interina que possuam idêntica aptidão profissional, devendo ser dada preferência a indivíduos já classificados em concurso a aguardar vacatura.
+
+> Alterado pelo/a [Decreto-Lei n.º 184/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1970-141868), publicado em 1970-04-29.
+
+###### Artigo 5.º
+
+O pessoal militar, quando em serviço nas infra-estruturas N. A. T. O., mantém os direitos consignados na legislação especial que lhe diz respeito relativamente às situações em que prestar serviço nas mesmas infra-estruturas.
+
+###### Artigo 6.º
+
+Fica revogado o [Decreto n.º 44680](https://diariodarepublica.pt/dr/detalhe/decreto/44680-1962-155849), de 12 de Novembro de 1962, considerando-se, porém, legalizadas todas as disposições que ao seu abrigo foram tomadas.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 5 de Fevereiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.

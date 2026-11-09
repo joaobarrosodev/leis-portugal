@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\nAs importâncias arrecadadas por força do disposto nos n.os 3.º e 4.º do artigo 2.º, correspondentes às percentagens nele previstas e arredondadas, por excesso, para a dezena de centavos, serão devidas pelos clientes e pagas por meio de estampilhas fiscais, com a sobrecarga «Assistência», apostas nas facturas, recibos, contas ou bilhetes, devendo ser inutilizadas pelos donos, gerentes ou empregados dos estabelecimentos.\n\nEstes pagamentos poderão ser efectuados por avença mensal, trimestral, semestral ou anual, desde que o seu quantitativo tenha sido aprovado prèviamente pela Direcção-Geral da Assistência.\n\n§ 1.º O produto das avenças previstas neste artigo será depositado pelas entidades devedoras, por meio de guia, em triplicado, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Direcção-Geral da Assistência, na conta do Fundo de Socorro Social, nos primeiros vinte dias do período a que a avença respeitar, podendo ainda o pagamento fazer-se por vale de correio registado ou por cheque, pagáveis em Lisboa, à ordem daquela Direcção-Geral.\n\n§ 2.º Os estabelecimentos que arrecadem por meio de estampilhas fiscais as receitas previstas nos n.os 3.º e 4.º do artigo 2.º enviarão à Direcção-Geral da Assistência até ao dia 10 de cada mês uma nota, em duplicado, das importâncias pagas no mês anterior com destino ao Fundo de Socorro Social.",
+    "depois": "###### Artigo 5.º\n\nAs importâncias arrecadadas por força do disposto nos n.os 3.º e 4.º do artigo 2.º, correspondentes às percentagens nele previstas e arredondadas, por excesso, para a dezena de centavos, serão devidas pelos clientes e pagas por meio de estampilhas fiscais, com a sobrecarga «Assistência», apostas nas facturas, recibos, contas ou bilhetes, devendo ser inutilizadas pelos donos, gerentes ou empregados dos estabelecimentos.\n\nEstes pagamentos poderão ser efectuados mediante a aprovação, pela Direcção-Geral da Assistência e a título de avença, de uma importância provisória, mensal ou trimestral, a qual deverá ser revista, no final do ano, de forma que os pagamentos totais correspondam efectivamente às taxas ou percentagens legais que forem devidas.\n\n§ 1.º O produto das avenças previstas neste artigo será depositado pelas entidades devedoras, por meio de guia, em triplicado, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Direcção-Geral da Assistência, na conta do Fundo de Socorro Social, nos primeiros vinte dias do período a que a avença respeitar, podendo ainda o pagamento fazer-se por vale de correio registado ou por cheque, pagáveis em Lisboa, à ordem daquela Direcção-Geral.\n\n§ 2.º Os estabelecimentos que arrecadem por meio de estampilhas fiscais as receitas previstas nos n.os 3.º e 4.º do artigo 2.º enviarão à Direcção-Geral da Assistência até ao dia 10 de cada mês uma nota, em duplicado, das importâncias pagas no mês anterior com destino ao Fundo de Socorro Social.\n\n> Alterado pelo/a [Decreto-Lei n.º 46799](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46799-1965-508397), publicado em 1965-12-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:222384:por",
+    "alterador": "pt:dre:508397:por;pt:dre:554094:por"
+  },
+  {
+    "artigo": "22.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 22.º\n\nTodos aqueles que, sendo obrigados ao pagamento das importâncias previstas neste diploma, depositarem importância inferior à cobrada do público, prestarem declarações erradas ou de má fé cometerem omissões incorrerão em multa igual ao quíntuplo da quantia desviada.",
+    "depois": "###### Artigo 22.º\n\nTodas as entidades que, sendo obrigadas ao pagamento das taxas ou percentagens indicadas neste diploma, depositarem importâncias inferiores às devidas, prestarem declarações erradas ou de má fé cometerem omissões, incorrerão em multa igual ao quíntuplo da quantia que deixou de ser depositada.\n\n> Alterado pelo/a [Decreto-Lei n.º 46799](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46799-1965-508397), publicado em 1965-12-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:222384:por",
+    "alterador": "pt:dre:508397:por;pt:dre:554094:por"
+  },
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\nA aplicação do Fundo fica dependente de despacho do Ministro da Saúde e Assistência, sem submissão aos preceitos da contabilidade pública. O director-geral da Assistência outorgará em todos os actos e contratos necessários à administração do Fundo e poderá autorizar as correspondentes despesas que não excedam 5000$00.",
+    "depois": "###### Artigo 14.º\n\nA aplicação do Fundo fica dependente de despacho do Ministro da Saúde e Assistência, sem submissão aos preceitos da contabilidade pública. O director-geral da Assistência outorgará em todos os actos e contratos necessários à administração do Fundo e poderá autorizar as correspondentes despesas que não excedam 10000$00.\n\n> Alterado pelo/a [Decreto-Lei n.º 46111](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46111-1964-554094), publicado em 1964-12-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:222384:por",
+    "alterador": "pt:dre:508397:por;pt:dre:554094:por"
+  }
+]

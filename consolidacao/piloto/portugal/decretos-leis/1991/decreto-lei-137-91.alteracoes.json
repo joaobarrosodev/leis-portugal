@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 21 de Março de 1991. - Aníbal António Cavaco Silva - Luís Miguel Courceiro Pizarro Beleza.\n\nPromulgado em 4 de Abril de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 4 de Abril de 1991.\n\nO Primeiro-Ministro, Anbíbal António Cavaco Silva.",
+    "depois": "###### Artigo 13.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nPromulgado em 5 de Abril de 1991.\n\nReferendado em 5 de Abril de 1991.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 71/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-1991-185152), publicado em 1991-04-30.\n\nVisto e aprovado em Conselho de Ministros de 21 de Março de 1991. - Aníbal António Cavaco Silva - Luís Miguel Courceiro Pizarro Beleza.\n\nPromulgado em 4 de Abril de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 4 de Abril de 1991.\n\nO Primeiro-Ministro, Anbíbal António Cavaco Silva.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:140559:por",
+    "alterador": "pt:dre:185152:por"
+  }
+]

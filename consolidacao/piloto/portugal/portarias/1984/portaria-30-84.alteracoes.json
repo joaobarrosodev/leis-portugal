@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — (Correspondência quantitativa e qualitativa da pontuação)\n\n1 - A classificação de serviço de cada funcionário ou agente, atribuída nos termos do n.º 1 do artigo 4.º, deverá ser traduzida numa das seguintes menções qualitativas, de acordo com o intervalo de valores em que a pontuação se situar:\n\nAté 7 - Insuficiente;\n\nDe 8 a 13 - Suficiente;\n\nDe 14 a 16 - Bom;\n\nDe 17 a 20 - Muito bom.\n\n2 - Sempre que a pontuação obtida se traduzir num número decimal, proceder-se-á ao seu arredondamento para número inteiro, por excesso.\n\n3 - As menções quantitativas são relevantes para todos os efeitos legais, designadamente progressão na carreira e transferências.",
+    "depois": "###### Artigo 6.º — (Correspondência quantitativa e qualitativa da pontuação)\n\n1 - A classificação de serviço de cada funcionário ou agente, atribuída nos termos do n.º 1 do artigo 4.º, deverá ser traduzida numa das seguintes menções qualitativas, de acordo com o intervalo de valores em que a pontuação se situar:\n\nAté 7 - Insuficiente;\n\nDe 8 a 13 - Suficiente;\n\nDe 14 a 16 - Bom;\n\nDe 17 a 20 - Muito bom.\n\n2 - Sempre que a pontuação obtida se traduzir num número decimal, proceder-se-á ao seu arredondamento para número inteiro por excesso ou por defeito, consoante o valor decimal obtido seja igual ou superior a 0,5 ou inferior a este, respectivamente.\n\n3 - As menções quantitativas são relevantes para todos os efeitos legais, designadamente progressão na carreira e transferências.\n\n> Alterado pelo/a [Portaria n.º 742/84](https://diariodarepublica.pt/dr/detalhe/portaria/742-1984-399620), publicado em 1984-09-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:660163:por",
+    "alterador": "pt:dre:399620:por"
+  }
+]

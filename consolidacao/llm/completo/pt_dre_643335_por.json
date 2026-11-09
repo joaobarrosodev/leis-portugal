@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:643335:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "As três alterações (DL 155/73, Decreto 22/78 e Decreto Regulamentar 41/83) incidem sobre o quadro anexo ao Decreto-Lei n.º 274/71, que só existe em imagem (ver documento original); não aplicadas.",
+  "instrucoes": [
+    "DL 155/73, art. 1.º: acrescenta a categoria de terceiro-assistente no quadro anexo (só em imagem): não aplicado; art. 2.º: norma autónoma.",
+    "Decreto 22/78: letra H para a categoria de farmacêutico do quadro anexo: não aplicado (imagem).",
+    "Decreto Regulamentar 41/83: letra F para a mesma categoria: não aplicado (imagem).",
+    "O artigo único do original não é alterado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

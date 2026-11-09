@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:286105:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 411/99), art. 2.º, n.º 2: os mapas II a IV anexos ao DL 412/98 passam a ser os do anexo II do DL 411/99, que só vem em imagem (\"ver tabela no documento original\"); não aplicado. Art. 2.º, n.º 3: altera a remuneração dos assessores técnicos prevista nos n.os 1 a 3 do artigo 9.º do DL 412/98 \"nos termos seguintes\" sem dar nova redação ao artigo; alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1 (DL 411/99), art. 1.º: altera o artigo 19.º do DL 437/91, outro diploma; ignorada.",
+    "Alterador 1, art. 2.º, n.º 1: altera a tabela I do DL 437/91 (outro diploma, anexo em imagem); ignorada.",
+    "Alterador 1, art. 2.º, n.º 2: substitui os mapas II a IV anexos ao original pelo anexo II, só em imagem; não aplicável.",
+    "Alterador 1, art. 2.º, n.º 3: fixa índices para os assessores técnicos (art. 9.º do original) sem nova redação; não textual, não aplicada.",
+    "Alterador 1, art. 3.º: entrada em vigor; não altera o texto.",
+    "Alterador 2 (Declaração de Rectificação n.º 1618/2011): rectifica o aviso n.º 17602/2011, não o original; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

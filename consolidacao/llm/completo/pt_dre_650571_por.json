@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:650571:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "RAR 20/2004, art. 42.º, n.º 2, alínea c): o quadro de pessoal (mapa anexo) é substituído pelo mapa anexo I da RAR 20/2004; o mapa não vem no pedido e a substituição não altera o texto dos artigos.",
+  "instrucoes": [
+    "RAR 20/2004, art. 42.º, n.º 2, c): mantém em vigor a RAR 59/2003, salvo o quadro de pessoal, substituído pelo mapa anexo I; não aplicado (mapa não disponível, artigos sem alteração textual).",
+    "Declaração de Retificação 1249/2010: retifica o aviso n.º 11 447/2010, não o original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

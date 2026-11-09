@@ -30,7 +30,11 @@ O Governo decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 201.
 
 ###### Artigo 1.º — (Definição)
 
-Consideram-se intermunicipais os empreendimentos que, envolvendo técnica e financeiramente municípios e departamentos da administração central, resultem de um processo de decisão colegial dos órgãos municipais interessados e respeitem as regras e condições fixadas no presente diploma.
+1 - Consideram-se intermunicipais os empreendimentos que, envolvendo técnica e financeiramente municípios e departamentos da administração central, resultem de um processo de decisão colegial dos órgãos municipais interessados e respeitem as regras e condições fixadas no presente diploma.
+
+2 - Os empreendimentos que satisfaçam os requisitos previstos no n.º 1 só poderão beneficiar do regime agora estabelecido se forem lançados após a entrada em vigor do presente diploma e não tiverem sido concluídos na data da sua propositura, nos termos referidos nos artigos 10.º a 14.º do presente diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 429/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1982-376060), publicado em 1982-10-22.
 
 ###### Artigo 2.º — (Iniciativa)
 
@@ -122,9 +126,13 @@ A colocação técnica e financeira da administração central em empreendimento
 
 2 - O interesse regional do empreendimento intermunicipal é avaliado pela pontuação atribuída ao agrupamento de municípios onde será implantado, de acordo com a tabela constante do anexo 1.
 
-3 - A capacidade de financiamento dos municípios interessados no empreendimento intermunicipal é aferida pela razão percentualmente estabelecida entre o custo médio anual do respectivo investimento e o somatório do fundo de equilíbrio financeiro de cada um dos municípios interessados no ano em que a proposta de investimento é apresentada, ponderada pela respectiva participação nos encargos com o empreendimento intermunicipal.
+3 - No caso de o empreendimento intermunicipal envolver 2 ou mais municípios integrados em agrupamentos de municípios diferentes, o indicador a que se refere o número anterior é determinado pela média das pontuações de interesse regional de cada um dos agrupamentos, ponderadas pela respectiva participação nos encargos com o empreendimento.
 
-4 - A participação da administração central no financiamento de cada empreendimento intermunicipal é medida pelo somatório dos produtos do coeficiente 0,6 pela pontuação atribuída ao seu interesse regional e do coeficiente 0,4 pelo indicador de capacidade de financiamento dos municípios interessados, não podendo nunca exceder 80% dos encargos do empreendimento.
+4 - A capacidade de financiamento dos municípios interessados no empreendimento intermunicipal é aferida pela razão percentualmente estabelecida entre o custo médio anual do respectivo investimento e o somatório do fundo de equilíbrio financeiro de cada um dos municípios interessados no ano em que a proposta de investimento é apresentada.
+
+5 - A participação da administração central no financiamento de cada empreendimento intermunicipal é medida pelo somatório dos produtos do coeficiente 0,6 pela pontuação atribuída ao seu interesse regional e do coeficiente 0,4 pelo indicador de capacidade de financiamento dos municípios interessados, não podendo nunca exceder 80% dos encargos do empreendimento.
+
+> Alterado pelo/a [Decreto-Lei n.º 429/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1982-376060), publicado em 1982-10-22.
 
 ###### Artigo 8.º — (Distribuição regional das disponibilidades orçamentais)
 
@@ -136,7 +144,9 @@ A colocação técnica e financeira da administração central em empreendimento
 
 4 - A parcela da dotação orçamental disponível para financiamento de novos empreendimentos intermunicipais será distribuída regionalmente para utilização na área de actuação de cada comissão de coordenação regional, de acordo com a percentagem da soma das pontuações atribuídas aos respectivos agrupamentos de municípios na globalidade das pontuações que lhe são atribuídas pelo anexo 1 ao presente diploma.
 
-5 - Os quantitativos inscritos nos termos dos números anteriores serão globalmente transferidos para cada comissão de coordenação regional, sob a forma de contas de ordem e através de orçamentos suplementares, de acordo com o que se encontra previsto no artigo 18.º
+5 - Os quantitativos inscritos nos termos dos números anteriores serão globalmente transferidos para cada comissão de coordenação regional, sob a forma de contas de ordem e através de orçamentos suplementares, de acordo com o que se encontra previsto no artigo 18.º, não havendo lugar à reposição nos cofres do Estado de eventuais saldos não utilizados no ano da respectiva transferência.
+
+> Alterado pelo/a [Decreto-Lei n.º 429/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1982-376060), publicado em 1982-10-22.
 
 ###### Artigo 9.º — (Propostas regionais de regulamentação)
 
@@ -238,6 +248,12 @@ O património e os equipamentos públicos afectos a empreendimentos intermunicip
 
 2 - Os processamentos previstos na legislação agora revogada serão assegurados até ao final da execução do programa de empreendimentos intermunicipais de 1981.
 
+###### Artigo 24.º
+
+As dúvidas resultantes do presente decreto-lei serão resolvidas, conforme os casos, por despacho do Ministro da Administração Interna ou por despacho conjunto deste e do Ministro de Estado e das Finanças e do Plano.
+
+> Aditado pelo/a [Decreto-Lei n.º 429/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1982-376060), publicado em 1982-10-22.
+
 Visto e aprovado em Conselho de Ministros de 14 de Janeiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
 Promulgado em 1 de Abril de 1982.
@@ -245,12 +261,6 @@ Promulgado em 1 de Abril de 1982.
 Publique-se.
 
 O Presidente da República, ANTÓNIO RAMALHO EANES.
-
-###### Artigo 24.º
-
-As dúvidas resultantes do presente decreto-lei serão resolvidas, conforme os casos, por despacho do Ministro da Administração Interna ou por despacho conjunto deste e do Ministro de Estado e das Finanças e do Plano.
-
-> Aditado pelo/a [Decreto-Lei n.º 429/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1982-376060), publicado em 1982-10-22.
 
 ## ANEXO 1 — Tabela de pontuação dos agrupamentos de municípios para efeitos de repartição de encargos a que se refere o n.º 2 do artigo 7.º
 

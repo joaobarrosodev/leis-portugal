@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:580312:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - Considera-se residência oficial, para efeitos de ajudas de custo, a periferia da localidade onde o funcionário tem o seu domicílio necessário.\n\n2 - O domicílio necessário é determinado pelo local onde o funcionário tomou posse do cargo, se aí ficou a prestar serviço, por aquele onde exercer as funções, se for colocado noutro local, ou, não havendo local certo, por aquele onde se situe o centro da sua actividade funcional, desde que aí esteja colocado com carácter de permanência, e ainda pelo estabelecido em lei especial.\n\n3 - Para efeitos do n.º 1, a periferia da cidade de Lisboa considera-se limitada por uma linha envolvendo Cascais-Sintra-Granja do Marquês-Loures-Alverca-Montijo-Barreiro-Seixal-Monte da Caparica-Cascais e a do Porto por uma linha envolvendo Perafita-Moreira-Maia-Alfena-Valongo-Gondomar-Avintes-Moura-Granja-Perafita, conforme se representa nos anexos I e II, respectivamente.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 93/85, art. 1.º: aditado n.º 3 ao artigo 2.º (n.os 1 e 2 mantidos). Os anexos I e II (mapas) só existem em imagem no documento original e não são artigos do original.",
+    "DL 93/85, art. 2.º: entrada em vigor do próprio alterador — não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

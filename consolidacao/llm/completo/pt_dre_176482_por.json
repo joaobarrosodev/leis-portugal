@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:176482:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Fica o Governo autorizado a emitir um empréstimo interno amortizável, até à importância total de 42 milhões de contos, à taxa de juro que não poderá exceder a taxa básica de desconto do Banco de Portugal.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Lei n.º 41/79), artigo único: nova redação do artigo 1.º; aplicada.",
+    "Alterador 2 (DL n.º 463-B/79), artigo 1.º: altera a taxa de juro dos empréstimos constantes dos DL n.º 52/78 e 443/78, não o texto da Lei n.º 88/77; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

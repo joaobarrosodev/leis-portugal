@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:536469:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Artigo 1.º do DL 375/77 extingue o Fundo de aquisição do estabelecimento da APT (criado pelo artigo 3.º do original) sem dar nova redação a nenhum artigo: alteração não textual.",
+  "instrucoes": [
+    "Art. 1.º do DL 375/77: extingue o Fundo de aquisição; não é alteração textual do original, não aplicada ao texto.",
+    "Art. 2.º do DL 375/77: altera o Estatuto dos TLP (anexo ao DL 48007), outro diploma; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:640914:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (Decreto-Lei n.º 157/2012), artigo 17.º, revoga o Decreto-Lei n.º 304/2007 no seu todo (salvo o artigo 21.º quanto ao n.º 5 do artigo 35.º do Decreto-Lei n.º 422/99); é uma revogação global do diploma, com ressalva parcial não textual, e não uma instrução artigo a artigo, pelo que não foi aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do artigo 21.º (n.º 1 e n.º 3 mantidos, n.º 2 substituído); o n.º 2 novo é igual ao texto atual, sem mudança.",
+    "Alterador 2, artigos 1.º a 16.º: regulam de novo o LNEC num diploma próprio; não alteram o original.",
+    "Alterador 2, artigo 17.º: revogação global do Decreto-Lei n.º 304/2007 com ressalva parcial do artigo 21.º; não aplicada (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

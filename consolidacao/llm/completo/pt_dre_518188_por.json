@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:518188:por",
+  "artigos": [
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "Aos mapas II e III anexos ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, são introduzidas as seguintes alterações:\n\n1.º Acrescentar nos dois mapas:\n\na) Na rubrica engenheiros directores: ou inspectores provinciais;\n\nb) Na rubrica engenheiros-chefes: chefe da Divisão de Serviços Técnicos;\n\nc) Na rubrica engenheiros de 1.ª classe: ou de chefe de brigada;\n\nd) Na rubrica engenheiros de 2.ª classe: ou de chefes de brigada.\n\n2.º Acrescentar no mapa II:\n\nEngenheiros de 2.ª classe, quando exercendo funções de adjunto de chefes de serviços, adjunto de chefes de oficinas ou de brigada - 500$00.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto 45/70, art. 4.º: nova redação do n.º 2.º do artigo 10.º (n.º 1.º mantém-se); aplicado.",
+    "Decreto 45/70, art. 3.º: aumenta um lugar ao quadro comum, mas no mapa anexo ao Decreto 48768, não ao do original; não é alteração textual do original.",
+    "Decreto 45/70, arts. 1.º e 2.º: não se dirigem ao original (art. 2.º altera o Estatuto do Funcionalismo Ultramarino)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nOs limites da nova freguesia, conforme representação cartográfica anexa, são:\n\nA norte, via rápida para a Costa da Caparica, desde o caminho público da Quinta do Secretário até ao cruzamento em Casas Velhas com a estrada nacional n.º 377;\n\nA oeste, desde o cruzamento anterior até ao alto do Lazarim, pela estrada nacional n.º 377;\n\nA sul, desde Aleluia, pelo caminho público, até ao cruzamento para a Cerieira, Graça e Vale de Figueira e daqui, pela fábrica de cerâmica, Valbom, Vale de Rosal e Carcereira, até ao limite de Vale de Milhaços, junto da Madalena.",
+    "depois": "###### Artigo 2.º\n\nOs limites da nova freguesia, conforme representação cartográfica anexa, são:\n\nA norte, via rápida para a Costa da Caparica, desde o caminho público da Quinta do Secretário até ao cruzamento em Casas Velhas com a estrada nacional n.º 377;\n\nA oeste, desde o cruzamento anterior até ao alto do Lazarim, pela estrada nacional n.º 377;\n\nA sul, desde o Alto do Lazarim, pela caminho municipal, até ao cruzamento da Cerieira, inflecte para sul por caminho público até à vala da Regateira, seguindo depois por esta até à Rua do General Humberto Delgado, junto à fábrica de cerâmica, Valbom, Vale Rosal e Carcereira, até ao limite do concelho em Vale Milhaços, junto a Madalena.\n\n> Alterado pelo/a [Lei n.º 22/86](https://diariodarepublica.pt/dr/detalhe/lei/22-1986-218889), publicado em 1986-08-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:261704:por",
+    "alterador": "pt:dre:218889:por"
+  }
+]

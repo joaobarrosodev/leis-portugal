@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:194018:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Poderá a reitoria da Universidade de Lisboa contratar ou assalariar, além do quadro, por força das dotações especialmente inscritas no orçamento, o pessoal administrativo, técnico e menor indispensável à utilização e conservação dos edifícios e do material afectos aos seus serviços e à guarda e vigilância dos mesmos edifícios, incluindo as instalações académicas.\n\n§ único. O número de unidades a contratar ou a assalariar e a respectiva remuneração serão fixados por despachos dos Ministros das Finanças e da Educação Nacional.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 46274, artigo único: nova redação do art. 1.º e seu § único: aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

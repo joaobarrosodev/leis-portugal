@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1 - O provimento do lugar de mordomo far-se-á, mediante concurso documental, de entre indivíduos que possuam, cumulativamente, as habilitações seguintes:\n\na) Curso geral do ensino secundário ou equiparado;\n\nb) Formação e experiência profissional adequadas à função a que se destinam.\n\n2 - O primeiro provimento deste lugar será feito pelo Ministro dos Negócios Estrangeiros de entre o pessoal auxiliar em serviço à data da entrada em vigor deste diploma, independentemente do preenchimento da condição prevista na alínea a), após ter sido ouvido o conselho do Ministério, nos termos do [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), de 20 de Fevereiro.",
+    "depois": "###### Artigo 4.º\n\nO recrutamento para o lugar de mordomo faz-se, mediante concurso, de entre:\n\na) Encarregados de pessoal auxiliar, auxiliares administrativos posicionados no escalão 5 ou superior e fiéis de armazém e auxiliares técnicos de sala também no escalão 5 ou superior, todos com classificação de Muito bom nos últimos três anos;\n\nb) Indivíduos habilitados com o curso geral do ensino secundário ou equiparado e formação e experiência profissional adequadas.\n\n> Alterado pelo/a [Decreto-Lei n.º 256/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1993-391419), publicado em 1993-07-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:457071:por",
+    "alterador": "pt:dre:391419:por"
+  }
+]

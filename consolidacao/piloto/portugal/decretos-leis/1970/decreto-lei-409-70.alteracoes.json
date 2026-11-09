@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n1. O pessoal militar permanente privativo da Força Aérea e civil contratado destinado à constituição do Serviço de Mecanografia e Estatística da Força Aérea é o constante do mapa n.º 1 anexo ao presente decreto-lei.\n\n2. O recrutamento de pessoal militar e civil a que se refere o n.º 1 deste artigo será efectuado gradualmente e à medida que os trabalhos de mecanização se forem ampliando, o que deverá ser reconhecido por despacho do Secretário de Estado da Aeronáutica.",
+    "depois": "###### Artigo 5.º\n\n1. O pessoal militar permanente privativo da Força Aérea e o pessoal civil contratado constante do mapa n.º 1 anexo ao presente diploma é aumentado aos efectivos da Força Aérea e integrado nos mapas I e V anexos ao [Decreto-Lei n.º 42066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42066-1958-342607), de 29 de Dezembro de 1968, conforme as especialidades, nos quadros de oficiais pilotos aviadores, técnicos de mecanografia e estatística, do serviço geral e nos do pessoal civil contratado de secretaria, de mecanografia e menor.\n\n2. Quando nos quadros de oficiais técnicos de mecanografia e estatística ou de civis contratados de mecanografia se verificarem, em determinados graus hierárquicos ou classes, vacaturas que não possam ser preenchidas por falta de candidatos com as necessárias condições, podem tais vacaturas ser ocupadas por pessoal dos mesmos quadros de graus hierárquicos ou categorias inferiores.\n\n> Alterado pelo/a [Decreto-Lei n.º 177/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1975-161720), publicado em 1975-04-02.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:138821:por",
+    "alterador": "pt:dre:161720:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\n1. O pessoal discriminado no mapa n.º 1 anexo ao presente decreto-lei é aumentado aos efectivos da Força Aérea e integrado nos mapas I e V anexos ao [Decreto-Lei n.º 42066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42066-1958-342607), de 29 de Dezembro de 1958, conforme as especialidades, nos quadros de oficiais pilotos aviadores técnicos de mecanografia e estatística e do serviço geral e nos de pessoal civil contratado de secretaria, de mecanografia e menor.\n\n2. Quando nos quadros de oficiais técnicos de mecanografia e estatística ou de civis contratados de mecanografia se verificarem, em determinados graus hierárquicos ou classes, vacaturas que não possam ser preenchidas por falta de candidatos com as necessárias condições, podem tais vacaturas ser ocupadas por pessoal dos mesmos quadros de graus hierárquicos ou categorias inferiores.",
+    "depois": "###### Artigo 8.º\n\nO quadro do pessoal da Direcção do Serviço de Informática da Força Aérea será objecto de portaria do Chefe do Estado-Maior da Força Aérea será objecto de portaria do Chefe Força Aérea, sem alteração dos efectivos gerais autorizados para a Força Aérea.\n\n> Alterado pelo/a [Decreto-Lei n.º 177/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1975-161720), publicado em 1975-04-02.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:138821:por",
+    "alterador": "pt:dre:161720:por"
+  }
+]

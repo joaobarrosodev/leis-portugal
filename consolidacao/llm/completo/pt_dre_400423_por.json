@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:400423:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "O disposto no artigo anterior não exclui a intervenção da administração central da realização na Região Autónoma dos Açores de investimentos públicos, mediante acordos de colaboração a celebrar pelo Governo da República com o Governo Regional e as autarquias locais.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: adita o artigo 6.º; acrescentado com o texto do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

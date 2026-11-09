@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1 - O reembolso do empréstimo será feito em vinte e quatro prestações semestrais, aproximadamente iguais, vencendo-se a primeira em 1 de Dezembro de 1983 e a última em 1 de Junho de 1995.\n\n2 - Os juros serão pagáveis semestralmente nos dias 1 de Junho e 1 de Dezembro e contados dia a dia à taxa de juro idêntica à que vier a ser fixada no contrato de empréstimo com o Banco Internacional de Reconstrução e Desenvolvimento.\n\n3 - O mutuário pagará ao Estado uma comissão de imobilização, sobre as parcelas não levantadas do empréstimo, equivalente ao valor da comissão a pagar pelo Estado ao Banco em conformidade com o Acordo de Empréstimo.\n\n4 - O pagamento do capital, juros e comissão de imobilização será efectuado em escudos.",
+    "depois": "###### Artigo 3.º\n\n1 - O reembolso do empréstimo será feito em vinte e quatro prestações semestrais, aproximadamente iguais, vencendo-se a primeira em 1 de Dezembro de 1983 e a última em 1 de Junho de 1995.\n\n2 - Os juros serão pagáveis semestralmente nos dias 1 de Junho e 1 de Dezembro e contados dia a dia à taxa de juro de 10%.\n\n3 - O mutuário pagará ao Estado uma comissão de imobilização, sobre as parcelas não levantadas do empréstimo, equivalente ao valor da comissão a pagar pelo Estado ao Banco em conformidade com o Acordo de Empréstimo.\n\n4 - O pagamento do capital, juros e comissão de imobilização será efectuado em escudos.\n\n> Alterado pelo/a [Decreto-Lei n.º 50/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1981-388047), publicado em 1981-03-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:461576:por",
+    "alterador": "pt:dre:388047:por"
+  }
+]

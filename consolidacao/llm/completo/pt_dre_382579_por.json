@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:382579:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "O quadro de chefes de bandas de música e fanfarras do Exército tem, nos respectivos postos, os seguintes quantitativos:\n\n1 tenente-coronel;\n\n2 majores;\n\n3 capitães;\n\n7 tenentes ou alferes.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 100/83, art. 1.º: nova redação do artigo 4.º; aplicada.",
+    "DL 100/83, art. 2.º: encargos do próprio diploma; não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

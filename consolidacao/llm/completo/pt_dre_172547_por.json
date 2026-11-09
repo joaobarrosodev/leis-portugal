@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:172547:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL 765/74 art. 1.º extingue o Comando da Zona Aérea de Cabo Verde e Guiné criado pelo diploma, sem alterar nem revogar o seu texto; não é alteração textual.",
+  "instrucoes": [
+    "DL 765/74 art. 1.º: extinção do comando — não textual, não aplicada",
+    "DL 765/74 arts. 2.º e 3.º: regime do pessoal e comissão liquidatária — não dirigidos ao texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

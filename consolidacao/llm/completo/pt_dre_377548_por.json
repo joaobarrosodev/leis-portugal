@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:377548:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigo único: altera o texto do verso do modelo de cartão de identificação, que consta do anexo e só vem em imagem; nenhum artigo do original é alterado.",
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação da referência às regalias sociais no modelo anexo (imagem) - não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

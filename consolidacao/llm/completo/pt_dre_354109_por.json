@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:354109:por",
+  "artigos": [
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "1 - Os institutos disporão, ainda, do quadro transitório de professores-coordenadores e de professores-adjuntos, constantes do mapa III anexo ao presente diploma, que do mesmo faz parte integrante, cujos lugares se extinguirão, à medida que vagarem, após o primeiro provimento ou, caso não venham a ser providos, após se ter esgotado a forma de provimento prevista no número seguinte, sendo aplicável a esses quadros o preceituado nos n.os 2 e 3 do artigo 8.º do presente decreto-lei.\n\n2 - O provimento nos lugares de professor-coordenador e de professor-adjunto, constantes do quadro referido no número anterior, só pode recair em individualidades que sejam titulares de lugares de professor auxiliar ou de assistente dos quadros referidos no artigo anterior, precedendo a avaliação curricular prevista no artigo seguinte ou mediante o requerimento a que se refere o n.º 3 do mesmo preceito.\n\n3 - A antiguidade nas categorias de professor-coordenador e de professor-adjunto dos docentes dos Institutos Superiores de Engenharia de Coimbra, de Lisboa e do Porto que vierem a ser providos naquelas categorias, quer nos termos do presente artigo, quer nos termos do disposto no artigo 14.º, reporta-se a 1 de Dezembro de 1989.\n\n4 - O disposto no número anterior não tem quaisquer outras implicações, designadamente para efeitos remuneratórios.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 144/90): nova redação do art. 13.º com n.os 1 e 2 '...' e aditamento dos n.os 3 e 4; substituída depois pelo alterador 2.",
+    "Alterador 2 (DL 317/90), art. 1.º: nova redação do art. 13.º (n.os 1 e 2 '...' mantêm o texto atual; n.os 3 e 4 do alterador); aplicado. Art. 2.º revoga o DL 144/90, não o original.",
+    "Alteradores 3 e 4 (Portaria 221/96): aditam lugares aos quadros transitórios (mapas em imagem); sem texto de artigo; não alteram artigos.",
+    "Alteradores 5 e 6 (Portaria 359/96): substitui o quadro docente do ISE do Porto (mapa em imagem); não altera artigos.",
+    "Alterador 7 (Portaria 18/97): substitui o quadro docente do ISE de Coimbra (mapa em imagem); não altera artigos.",
+    "Alterador 8 (Portaria 1114/97): altera a estrutura orgânica aprovada pela Portaria 469/89; não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

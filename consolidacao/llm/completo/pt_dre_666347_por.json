@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:666347:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 737/74 extingue as federações de Casas do Povo e regula a liquidação, mas não dá nova redação nem revoga expressamente nenhum artigo do Decreto-Lei n.º 443/70; a extinção não é uma alteração textual.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: extinção das federações - sem alteração textual ao original, nada aplicado",
+    "Alterador 1, art. 4.º: remissão para a alínea a) do n.º 1 do art. 14.º do original, sem alterar o seu texto - nada aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

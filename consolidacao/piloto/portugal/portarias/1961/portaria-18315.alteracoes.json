@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "22.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 22.º\n\nNas inspecções não há lugar à audição dos magistrados e funcionários inspeccionados, salvo se o inspector a julgar indispensável para a formação do seu juízo.\n\n§ único. O Conselho Superior Judiciário do Ultramar sòmente poderá determiná-la quando os factos relatados na inspecção constituírem faltas, que importem sanção disciplinar.",
+    "depois": "###### Artigo 22.º\n\nEm todas as inspecções os inspectores devem ouvir os magistrados e funcionários sobre as faltas que sejam notadas, das quais lhes entregarão nota articulada, e proceder a quaisquer diligências complementares a que as respostas dêem lugar.\n\nO inspeccionado não pode ser classificado sem a observância destas formalidades.\n\n> Alterado pelo/a [Portaria n.º 19849](https://diariodarepublica.pt/dr/detalhe/portaria/19849-1963-628358), publicado em 1963-05-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:561214:por",
+    "alterador": "pt:dre:628358:por"
+  }
+]

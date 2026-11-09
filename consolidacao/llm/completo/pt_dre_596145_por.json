@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:596145:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O artigo 3.º da Portaria n.º 289-B/2015 dá nova redação às instruções de preenchimento da declaração modelo n.º 43, anexas ao original e ausentes do texto atual (que só tem os artigos 1.º a 4.º; o anexo vem em imagem); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 2.º: altera a Portaria n.º 311-D/2011 (outro diploma); ignorado.",
+    "Alterador 1, art. 3.º: nova redação das instruções de preenchimento do modelo 43 (anexo) — fora do texto atual, não aplicado.",
+    "Alterador 1, art. 4.º: entrada em vigor, não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

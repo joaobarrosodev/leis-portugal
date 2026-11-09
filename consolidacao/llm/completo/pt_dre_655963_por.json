@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:655963:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 art. 2.º: alterações aos anexos I e II do original, que não constam do texto por artigos; nenhum artigo muda.",
+  "instrucoes": [
+    "Alterador 1 art. 2.º (e anexo): altera os anexos I e II - não aplicável (fora dos artigos)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

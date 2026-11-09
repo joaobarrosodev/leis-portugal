@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nAs medidas preventivas referidas no artigo anterior consistem na sujeição a prévia autorização do IPPC, e sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, dos actos ou actividades seguintes:\n\na) Construção, reconstrução, ampliação de edifícios ou outras instalações;\n\nb) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;\n\nc) Derrube de árvores em maciço, com qualquer área;\n\nd) Destruição do solo vivo e do coberto vegetal.",
+    "depois": "###### Artigo 2.º\n\nAs medidas preventivas referidas no artigo anterior consistem na sujeição a prévia autorização do IPPC e da Câmara Municipal de Lisboa, e sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, dos actos ou actividades seguintes:\n\na) Construção, reconstrução, ampliação de edifícios ou outras instalações;\n\nb) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;\n\nc) Derrube de árvores em maciço, com qualquer área;\n\nd) Destruição do solo vivo e do coberto vegetal.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 66/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1987-406123), publicado em 1987-12-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:417260:por",
+    "alterador": "pt:dre:406123:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nO IPPC e a DGOT são competentes para promover a fiscalização do cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.\n\nAníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro.\n\nPromulgado em 4 de Julho de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 15 de Julho de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/17200/29572957.pdf)",
+    "depois": "###### Artigo 3.º\n\nO IPPC, a DGOT e a Câmara Municipal de Lisboa são competentes para promover a fiscalização do cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 66/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1987-406123), publicado em 1987-12-31.\n\nAníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro.\n\nPromulgado em 4 de Julho de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 15 de Julho de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/17200/29572957.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:417260:por",
+    "alterador": "pt:dre:406123:por"
+  }
+]

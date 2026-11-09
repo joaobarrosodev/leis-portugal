@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nAs instituições de crédito mencionadas na alínea c) do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387) não serão obrigadas a subscrever promissórias emitidas na província ultramarina onde exercerem a sua actividade por quantitativo superior ao que corresponder à percentagem das suas disponibilidades de caixa que for fixada de harmonia com o disposto na parte final do artigo 77.º do mesmo decreto-lei.",
+    "depois": "###### Artigo 7.º\n\nAs instituições de crédito mencionadas na alínea c) do corpo do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387) poderão subscrever, sem qualquer limite, promissórias de fomento ultramarino emitidas nas províncias onde exercerem a sua actividade, mas só lhes será permitido incluir, nas respectivas disponibilidades de caixa, o quantitativo correspondente à percentagem que for fixada de harmonia com o disposto no artigo 7.º, alínea a), do [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), de 6 de Maio de 1968.\n\n> Alterado pelo/a [Decreto-Lei n.º 49296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49296-1969-215959), publicado em 1969-10-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:296233:por",
+    "alterador": "pt:dre:215959:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\nO quantitativo das promissórias a subscrever pelo banco emissor de cada província ultramarina será estabelecido, caso por caso, por acordo entre o Estado, representado pelo Ministro do Ultramar, e o referido banco emissor.",
+    "depois": "###### Artigo 8.º\n\nPor contrato entre o Estado, representado pelo Ministro do Ultramar, e os bancos emissores das províncias ultramarinas, serão fixados os quantitativos das promissórias a subscrever directamente pelas referidas instituições de crédito, bem como estabelecidas as condições em que as mesmas se obrigarão a adquirir, aos bancos comerciais das respectivas províncias, as promissórias que, para o efeito, por estes lhes vierem a ser oferecidas.\n\n> Alterado pelo/a [Decreto-Lei n.º 49296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49296-1969-215959), publicado em 1969-10-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:296233:por",
+    "alterador": "pt:dre:215959:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º\n\n1. Em casos de reconhecidas dificuldades financeiras de bancos comerciais detentores de promissórias de fomento ultramarino que imponham a imediata liquidação dos respectivos títulos, ou ainda quando o volume de promissórias em carteiras ultrapasse o limite considerado no artigo 7.º deste decreto-lei, o governo da província emitente das promissórias obriga-se a promover a sua transferência para outras entidades ou, se necessário, a proceder ao reembolso antecipado das mesmas.\n\n2. Com vista à consecução das finalidades procuradas no n.º 1 do presente artigo, o Ministro do Ultramar poderá, nomeadamente, fazer uso da faculdade conferida na parte final do artigo 77.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).",
+    "depois": "###### Artigo 9.º\n\n1. Enquanto os bancos emissores ultramarinos não assumirem, por contrato com o Estado. as obrigações previstas na parte final do artigo anterior, os governos das províncias emitentes das promissórias, quando solicitados pelos bancos comerciais detentores dos referidos títulos, deverão promover a sua transferência para outras entidades ou, se necessário, proceder ao reembolso antecipado das mesmas.\n\n2. Com vista à consecução das finalidades procuradas no n.º 1 do presente artigo, o Ministro do Ultramar poderá, nomeadamente, fazer uso da faculdade conferida na parte final do artigo 77.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).\n\n> Alterado pelo/a [Decreto-Lei n.º 49296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49296-1969-215959), publicado em 1969-10-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:296233:por",
+    "alterador": "pt:dre:215959:por"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:281577:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "O comando do Corpo da Polícia de Segurança Pública da província de Macau será constituído pelos seguintes oficiais do exército metropolitano:\n\n1 de comandante (major ou capitão do quadro permanente);\n\n4 adjuntos (um capitão e três subalternos do quadro permanente ou do quadro de complemento).\n\n§ único. Os oficiais de que trata o corpo deste arigo, embora enquadrados, e para efeitos de categoria civil, respectivamente, nos grupos E e F dos mapas I e X anexos ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, terão os vencimentos que na província corresponderem às suas patentes.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 53.º do Decreto 43340 dá nova redação ao art. 1.º do Decreto 42956: aplicada.",
+    "Restantes artigos do Decreto 43340 dizem respeito a outros diplomas ou são disposições próprias: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:408095:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alt. 1 (DL 211/77), art. 1.º: aumenta os quadros da 1.ª e 2.ª secções em quatro e dois juízes sem alterar o texto do artigo 1.º (alteração não textual). Alt. 2 (DL 227/77), art. 7.º: altera o quadro anexo a que se refere o artigo 6.º, que só vem em imagem e não é artigo.",
+  "instrucoes": [
+    "Alt. 1, art. 1.º: aumento de juízes sem nova redação; não aplicado (não textual).",
+    "Alt. 2, art. 1.º: altera o Regulamento aprovado pelo Decreto n.º 41234; ignorado.",
+    "Alt. 2, art. 3.º: regra autónoma sobre funcionamento do tribunal pleno; não altera o texto do artigo 2.º.",
+    "Alt. 2, art. 7.º: alteração do quadro anexo de funcionários; não aplicado.",
+    "Alt. 3 (DL 324/2003): sem texto fornecido; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

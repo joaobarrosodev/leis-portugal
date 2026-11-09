@@ -1,0 +1,51 @@
+---
+id: pt:dre:238984:por
+title: Decreto-Lei n.º 46155
+original: data/portugal/decretos-leis/1965/decreto-lei-46155.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:503213:por
+    title: Decreto-Lei n.º 47600
+    publication_date: '1967-03-22'
+  titulos_normalizados: artigos em texto corrido no original, com título pelo parser
+    da fase 3
+---
+
+# Decreto-Lei n.º 46155
+
+Estabelecendo a actual legislação da Comissão Técnica de Cooperação Económica Externa que os chefes das delegações junto dos organismos económicos internacionais são remunerados por gratificação;
+
+Convindo, para efeitos administrativos, que os funcionários designados para aqueles cargos mantenham o vencimento das suas categorias, fixando-se-lhes a importância complementar a título de representação e compensação;
+
+Tendo-se reconhecido conveniente que, em determinadas condições, os chefes de delegação possam ser assistidos por um adjunto;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º
+
+Os funcionários destacados na Presidência do Conselho para chefiarem as delegações permanentes junto dos organismos económicos internacionais referidos no [Decreto-Lei n.º 44301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44301-1962-516064), de 27 de Abril de 1962, terão direito a ser abonados pela Comissão Técnica de Cooperação Económica Externa dos vencimentos da sua categoria e de uma importância atribuída a título de representação e compensação.
+
+§ 1.º Quando os chefes das delegações exercerem as suas funções cumulativamente com as de representante diplomático, terão apenas direito às importâncias correspondentes a representação e compensação.
+
+§ 2.º As importâncias atribuídas a título de representação e compensação serão fixadas, em cada caso, por proposta da Comissão Técnica de Cooperação Económica Externa, com o acordo do Presidente do Conselho e do Ministro das Finanças.
+
+###### Artigo 2.º
+
+Aos funcionários do Ministério dos Negócios Estrangeiros destacados na Presidência do Conselho para prestarem serviço nas delegações a que se refere o artigo anterior será aplicável o disposto no artigo 120.º do regulamento daquele Ministério, aprovado pelo [Decreto n.º 29970](https://diariodarepublica.pt/dr/detalhe/decreto/29970-1939-186275), de 13 de Outubro de 1939, com as alterações introduzidas pelo artigo 9.º do Decreto n.º 35985, de 23 de Novembro de 1946, bem como o disposto na alínea c) do artigo 123.º Aos chefes de delegação será aplicado também o disposto no artigo 115.º e seu § 4.º, no n.º 2.º da alínea b) do artigo 123.º e no artigo 139.º do citado regulamento, com a alteração introduzida neste último pelo artigo 14.º do [Decreto-Lei n.º 43344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43344-1960-513011), de 22 de Novembro de 1960.
+
+###### Artigo 3.º
+
+Quando o representante permanente de Portugal junto dos organismos económicos internacionais referidos no [Decreto-Lei n.º 44301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44301-1962-516064), de 27 de Abril de 1962, exercer cumulativamente a chefia de mais de uma das respectivas delegações ou quando as conveniências do serviço de cada delegação assim o aconselhem, poderá, em despacho conjunto dos Ministros dos Negócios Estrangeiros e da Economia, ser nomeado um adjunto desse chefe de delegação.
+
+§ único. Será aplicável ao adjunto do chefe de delegação o disposto nos artigos 1.º e 2.º do presente decreto-lei.
+
+> Alterado pelo/a [Decreto-Lei n.º 47600](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47600-1967-503213), publicado em 1967-03-22.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 16 de Janeiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional

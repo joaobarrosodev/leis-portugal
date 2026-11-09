@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nA comissão será constituída pelo vice-presidente do Conselho Coordenador do Ministério da Saúde e Assistência, que presidirá, pelo director-geral da Contabilidade Pública e por um director-geral do Ministério da Saúde e Assistência ou por um administrador dos hospitais a designar pelo Ministro da Saúde e Assistência.",
+    "depois": "###### Artigo 2.º\n\nA Comissão será constituída pelo secretário-geral do Ministério da Saúde e Assistência, que presidirá, por representantes do respectivo Gabinete de Estudos e Planeamento e dos directores-gerais da Contabilidade Pública, de Saúde e dos Hospitais.\n\n> Alterado pelo/a [Decreto-Lei n.º 476/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-1973-412818), publicado em 1973-09-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:171351:por",
+    "alterador": "pt:dre:412818:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\nA administração de fundos afectos ao reapetrechamento dos estabelecimentos hospitalares compete a um conselho administrativo constituído pelo director-geral da Contabilidade Pública, que presidirá, por um director-geral do Ministério da Saúde e Assistência a designar pelo respectivo Ministro e por um funcionário superior especializado em administração pública, que coadjuvará o presidente.\n\n§ único. O funcionário superior referido no presente artigo será proposto pelo presidente do conselho administrativo, com o acordo dos Ministros das Finanças e da Saúde e Assistência.",
+    "depois": "###### Artigo 5.º\n\nA administração dos fundos afectos ao reapetrechamento dos estabelecimentos hospitalares compete a um conselho administrativo constituído por um representante da Contabilidade Pública, que presidirá, por representantes dos directores-gerais de Saúde e dos Hospitais e por um funcionário superior especializado em administração pública, que coadjuvará o presidente.\n\n§ único. O funcionário superior referido no presente artigo será proposto pelo presidente do conselho administrativo, com o acordo dos Ministros das Finanças e da Saúde e Assistência.\n\n> Alterado pelo/a [Decreto-Lei n.º 476/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-1973-412818), publicado em 1973-09-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:171351:por",
+    "alterador": "pt:dre:412818:por"
+  }
+]

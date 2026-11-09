@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:534413:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "Cumprimento do aumento de efectivo",
+      "texto": "1 - O plano referido no artigo anterior deve conduzir a um efectivo aleitante igual ou superior ao efectivo inicial, referido na alínea b) do n.º 2 do artigo 5.º, acrescido do número de direitos solicitados ao abrigo deste despacho.\n\n2 - O plano deve, no que respeita ao previsto na alínea c) do n.º 2 do artigo anterior, garantir que sejam atingidos, no 1.º ano pelo menos 25% do aumento de efectivo proposto, no 2.º ano pelo menos 50% e no 3.º ano os 100%.\n\n3 - O não cumprimento do plano no que respeita ao aumento do efectivo aleitante implica a reversão dos direitos não utilizados para a reserva nacional, ficando os agricultores impedidos de se candidatarem à referida reserva nos três anos subsequentes ao da atribuição dos direitos.\n\n4 - Em derrogação do número anterior, não são excluídos do acesso à reserva nacional para os anos de 2007 e 2008 os agricultores que tenham cumprido os valores mínimos previstos no n.º 2 do presente artigo.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: n.os 2 e 4 do art. 7.º e n.º 1 do art. 8.º — já constam do texto atual; nada a mudar.",
+    "Alterador 2: regime excecional autónomo para 2005, sem alteração textual do original — ignorado.",
+    "Alterador 3, art. 1.º: aditado n.º 4 ao art. 6.º (n.os 1-3 mantidos) — aplicado.",
+    "Alterador 3, n.º 2 do art. 1.º e art. 3.º: alteram o Despacho Normativo n.º 55/2005 — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

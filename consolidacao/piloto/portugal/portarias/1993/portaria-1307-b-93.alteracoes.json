@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO — Regulamento das Entradas e Saídas de Fundos, da Contabilização e Controlo das operações de Tesouraria e do Funcionamento das Caixas::7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — Contabilização\n\n1 - Para a contabilização das operações de tesouraria serão utilizados como suporte os registos diários e os mapas resumo das operações referidas no artigo 5.º discriminando os movimentos por conta de operações de tesouraria.\n\n2 - Com base nos referidos suportes serão preparados os seguintes documentos:\n\na) Balancetes mensais do Razão, evidenciando os movimentos ocorridos nas contas e respectivos valores acumulados, quer sob o ponto de vista das responsabilidades perante terceiros, quer sob a óptica da natureza ou tipo de operações;\n\nb) Balancetes anuais do Razão, nos termos referidos na alínea anterior;\n\nc) Balanço financeiro do Tesouro, evidenciando as disponibilidades existentes no final do exercício, as responsabilidades e os direitos de Tesouraria do Estado perante terceiros.",
+    "depois": "###### Artigo 7.º — Contabilização\n\n1 - Para a contabilização das operações de tesouraria que não utilizem na sua origem o documento único de cobrança, serão utilizados como suporte os registos diários e os mapas resumo das operações referidas no artigo 5.º, discriminando os movimentos por conta de operações de tesouraria.\n\n2 - As operações de tesouraria cuja entrada se processe através da utilização do documento único de cobrança são contabilizadas pelo serviço processador do documento, utilizando os suportes informáticos criados para o efeito.\n\n3 - Com base nos referidos suportes, serão preparados os seguintes documentos:\n\na) Balancetes mensais do Razão, evidenciando os movimentos ocorridos nas contas e respectivos valores acumulados, quer sob o ponto de vista das responsabilidades perante terceiros, quer sob a óptica da natureza ou tipo de operações;\n\nb) Balancetes anuais do Razão, nos termos referidos na alínea anterior;\n\nc) Balanço financeiro do Tesouro, evidenciando as disponibilidades existentes no final do exercício, as responsabilidades e os direitos de Tesouraria do Estado perante terceiros.\n\n> Alterado pelo/a [Portaria n.º 1491-A/95](https://diariodarepublica.pt/dr/detalhe/portaria/1491-a-1995-448554), publicado em 1995-12-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:415444:por",
+    "alterador": "pt:dre:448554:por"
+  }
+]

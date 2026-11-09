@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:277816:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 101.º, n.º 2, do DL 72/91 revoga o Decreto Regulamentar n.º 72/77 (com efeitos a partir da entrada em vigor da regulamentação da mesma matéria): artigos 1.º a 3.º revogados.",
+    "Art. 101.º, n.º 1, revoga outros diplomas: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

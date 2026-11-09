@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:362312:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 74/2018), arts. 30.º, 33.º e 37.º: extingue carreiras, faz subsistir a de inspetor-adjunto e declara que o original deixa de ser aplicável aos trabalhadores da ASAE; são normas de aplicação/transição sem instrução textual sobre artigos do original; nada alterado.",
+    "Alterador 2 (DRR 18/2022/A), arts. 54.º e 64.º: apenas mantêm em vigor/remetem para o original na Região Autónoma dos Açores; sem instrução textual; nada alterado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

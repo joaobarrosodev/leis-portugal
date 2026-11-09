@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:508054:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL 558/71, art. 1.º: altera designações e número de lugares do quadro geral anexo, que só vem em imagem (ver documento original); não é alteração aplicável ao texto dos artigos.",
+  "instrucoes": [
+    "DL 558/71, art. 1.º, n.os 1 e 2: alteram categorias e lugares do quadro geral anexo (só em imagem); não aplicado.",
+    "DL 558/71, arts. 2.º a 5.º: normas autónomas, sem alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1. São dispensados da prestação das provas orais de qualquer das disciplinas do 3.º ciclo os examinandos que nas provas escritas tenham obtido classificação não inferior a 14 valores. A classificação final de exame da disciplina será a da prova escrita.\n\n2. Os examinandos nas condições do n.º 1 deste artigo poderão prestar provas orais, se o desejarem e requererem.",
+    "depois": "###### Artigo 3.º\n\n1. Os alunos internos do 7.º ano dos liceus ou das escolas oficializadas são dispensados de exame nas disciplinas em que tenham obtido no 6.º e 7.º anos média de, pelo menos, 14 valores, podendo, no entanto, requerê-lo, se o desejarem. A classificação final de cada disciplina será a da respectiva média de dispensa de exame.\n\n2. São dispensados da prestação das provas orais de qualquer das disciplinas do 7.º ano os examinandos que nas provas escritas tenham obtido classificação não inferior a 14 valores. A classificação final de exame da disciplina será a da prova escrita.\n\n3. Os examinandos nas condições do n.º 2 deste artigo poderão prestar provas orais, se o desejarem e requererem.\n\n> Alterado pelo/a [Decreto n.º 255/70](https://diariodarepublica.pt/dr/detalhe/decreto/255-1970-142544), publicado em 1970-06-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:142319:por",
+    "alterador": "pt:dre:142544:por"
+  }
+]

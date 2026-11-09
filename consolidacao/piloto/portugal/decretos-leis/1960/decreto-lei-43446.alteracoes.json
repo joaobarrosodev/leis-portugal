@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nPara os fins do artigo 19.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, a Junta Geral do Distrito Autónomo do Funchal poderá conceder subsídios aos moradores desalojados em consequência das obras e que se encontrem nas demais condições previstas naquele artigo.\n\n§ 1.º A Junta Geral poderá ainda adquirir ou expropriar edificações para habitação dos desalojados ou terrenos para construção das mesmas, transmitindo-lhes a respectiva propriedade pela importância por que forem adquiridos ou expropriados e com isenção de quaisquer impostos ou contribuições.\n\n§ 2.º Os terrenos transmitidos na conformidade do § 1.º reverterão para os expropriados, ou, não querendo estes exercer tal direito, para a Junta Geral, mediante a restituição da importância ali referida, se neles não forem construídas as habitações a que se destinam, no prazo marcado no acto da transmissão.\n\n§ 3.º Os registos da transmissão para os adquirentes só poderão ser feitos uma vez concluída a construção das respectivas habitações.",
+    "depois": "###### Artigo 2.º\n\nPara os fins do artigo 19.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, a Junta Geral do Distrito Autónomo do Funchal poderá conceder subsídios aos moradores desalojados em consequência das obras e que se encontrem nas demais condições previstas naquele artigo.\n\n§ 1.º A Junta Geral, para reinstalação dos desalojados, poderá ainda expropriar, ou adquirir por outra forma, imóveis urbanos ou rústicos, transmitindo-lhes a respectiva propriedade pela importância por que forem adquiridos ou expropriados e com isenção de quaisquer impostos.\n\n§ 2.º Os imóveis transmitidos na conformidade do § 1.º reverterão para os expropriados, ou, não querendo eles exercer tal direito, para a Junta Geral, mediante a restituição da importância ali referida, quando, destinando-se a construção, as habitações não forem concluídas no prazo marcado no acto da transmissão.\n\n§ 3.º Os registos da transmissão para os adquirentes só poderão ser feitos uma vez concluída a construção das respectivas habitações.\n\n§ 4.º A Junta Geral poderá ainda transmitir para os expropriados os terrenos sobrantes da reinstalação dos desalojados, com as isenções previstas na parte final do § 1.º até ao valor, para cada adquirente, dos bens que lhe forem expropriados.\n\n> Alterado pelo/a [Decreto-Lei n.º 44023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44023-1961-181407), publicado em 1961-11-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:479944:por",
+    "alterador": "pt:dre:181407:por"
+  }
+]

@@ -152,6 +152,8 @@ d) Secretário de Estado da Juventude e Desportos.
 
 ###### Artigo 7.º
 
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pela Ministra de Estado e das Finanças ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.
+
 ###### Artigo 8.º
 
 Os Ministros de Estado exercem os poderes que neles forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
@@ -535,5 +537,3 @@ O Presidente da República, JORGE SAMPAIO.
 Referendado em 26 de Abril de 2002.
 
 O Primeiro-Ministro, José Manuel Durão Barroso.
-
-O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pela Ministra de Estado e das Finanças ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.

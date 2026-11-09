@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:355510:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 1281/93): altera o mapa I (carreiras de biblioteca e documentação) por mapa que só vem em imagem e extingue a carreira de técnico auxiliar do mapa II, anexos que só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1 n.º 1.º: alteração do mapa I (imagem): não aplicada.",
+    "Alterador 1 n.º 2.º: extinção da carreira de técnico auxiliar no mapa II (imagem): não aplicada.",
+    "Alterador 2 (Portaria 518/95): altera o quadro de pessoal do IPIMAR aprovado pela Portaria 11/94 (outro diploma): ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

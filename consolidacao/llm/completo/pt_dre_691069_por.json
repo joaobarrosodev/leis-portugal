@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:691069:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL 698/76, art. 5.º: fixa novos efectivos da classe dos músicos em substituição dos fixados pelo DL 370/72, sem nova redação do artigo único (lista diferente, sem total); não aplicado por não ser alteração textual segura.",
+  "instrucoes": [
+    "DL 698/76, art. 5.º: novos efectivos da classe dos músicos; não é nova redação textual do artigo único, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

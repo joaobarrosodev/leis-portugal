@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:313627:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1. É autorizado o Governo-Geral de Moçambique a prestar aval a empréstimo a efectuar por bancos nacionais, em conjunto ou isoladamente, ao Grémio dos Industriais de Óleos Vegetais para aquisição de matérias-primas na província necessárias ao abastecimento dos seus agremiados durante a campanha compreendida entre 7 de Junho de 1967 e 14 de Dezembro de 1968.\n\n2. A responsabilidade do Estado de Moçambique decorrente do aval não excederá o montante de 300000000$00.\n\n3. O empréstimo, que poderá ser desdobrado em várias operações respeitando a determinadas matérias-primas ou grupos de matérias-primas e válidas por períodos diferentes, mas sempre compreendidos no período previsto na parte final do n.º 1 deste artigo, assumirá, em qualquer caso, a forma de empréstimo em conta corrente. O Grémio dos Industriais de Óleos Vegetais movimentará o ou os créditos concedidos, sacando as importâncias necessárias ao pagamento das matérias-primas que vá adquirindo e depositando uma proporção não inferior a 80 por cento do valor das vendas dos produtos manufacturados com essas matérias-primas.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do DL 469/74: nova redação do n.º 2 do artigo 1.º; n.os 1 e 3 mantêm-se"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

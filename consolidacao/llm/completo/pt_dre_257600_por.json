@@ -1,0 +1,42 @@
+{
+  "id": "pt:dre:257600:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Compete aos CASE:\n\na) Prestar apoio na verificação das condições gerais de promoção estabelecidas estatutariamente;\n\nb) Propor a ordenação, por mérito relativo, dos oficiais e sargentos dos quadros permanentes (QP) que reúnam as condições de promoção por escolha;\n\nc) Elaborar as listas de promoção, de acordo com as modalidades de promoção estabelecidas estatutariamente e tendo em conta as regras previstas no Regulamento de Avaliação de Mérito dos Militares do Exército;\n\nd) Emitir parecer sobre questões suscitadas pelo comandante do Pessoal do Exército (CPESE) no âmbito da gestão dos recursos humanos.",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - Os CASE são constituídos por militares dos QP, integrando membros designados e membros eleitos da respectiva arma ou serviço.\n\n2 - Os membros eleitos, em número não inferior a 50% do quantitativo global dos elementos que integram o respectivo conselho, devem assegurar a representatividade das diferentes subcategorias e postos.\n\n3 - Quando o número de militares existentes num quadro especial em extinção progressiva for igual ou inferior ao número de membros previsto para a composição do respectivo conselho, será este composto por todos os militares desse quadro, sem necessidade de designação ou eleição.",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "O mandato dos membros eleitos tem a duração de dois anos, com início em 1 de Abril.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1 - Os CASE são presididos por um oficial general ou um oficial superior, se possível da respectiva arma ou serviço, a designar, em acumulação de funções, pelo Chefe do Estado-Maior do Exército (CEME).\n\n2 - Os CASE reúnem sempre que forem convocados pelo CPESE, por sua iniciativa ou mediante proposta do respectivo presidente, com a ordem de trabalhos por aquele estabelecida.\n\n3 - Os CASE funcionam por comissões, correspondentes às categorias neles representadas.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterações aos anexos I e II (alt. 1, art. 1.º): os anexos não constam do texto atual do original, pelo que não há onde aplicar as novas redações e remissões '(Anterior n.º ...)'.",
+  "instrucoes": [
+    "Alt. 1, art. 1.º: nova redação do art. 2.º (alíneas a) a c) novas; d) mantida); aplicado.",
+    "Alt. 1, art. 1.º: aditamento do n.º 3 ao art. 3.º; aplicado.",
+    "Alt. 1, art. 1.º: nova redação do art. 4.º (mandato de dois anos); aplicado.",
+    "Alt. 1, art. 1.º: nova redação do art. 5.º; aplicado.",
+    "Alt. 1, art. 1.º: novas redações dos anexos I e II; anexos ausentes do texto atual; não aplicado.",
+    "Alt. 1, art. 2.º: republicação; não altera texto por si."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:668290:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 311-A/95 dá nova redação ao n.º 1 do artigo 7.º do Decreto-Lei n.º 277/95 (diploma preambular), artigo que não consta do texto atual recebido (só os artigos do Código do Registo de Bens Móveis anexo); não aplicada.",
+  "instrucoes": [
+    "DL 311-A/95, art. 1.º: nova redação do n.º 1 do artigo 7.º do DL 277/95: artigo ausente do texto atual, não aplicada; art. 2.º: produção de efeitos, autónomo.",
+    "Lei n.º 176-A/99: altera outros diplomas (Lei 87-B/98, DL 382/89, Imposto do Selo, Lei 150/99, etc.) e só menciona o DL 277/95; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

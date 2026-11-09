@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:629140:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O DL 196/2009 altera os artigos 1.º, 2.º e 25.º, adita o artigo 11.º-A e altera/adita anexos do Regulamento anexo ao DL 346/2007; esse Regulamento não consta do texto atual recebido (que só tem os artigos 1.º a 7.º do decreto-lei, com o Regulamento em imagem), pelo que nada foi aplicado. O DL 47/2018 só remete para o DL 346/2007 noutro diploma, sem o alterar.",
+  "instrucoes": [
+    "DL 196/2009 art. 2.º: arts. 1.º, 2.º e 25.º do Regulamento — Regulamento não recebido, não aplicado",
+    "DL 196/2009 art. 3.º e 5.º: alteração e aditamento de anexos do Regulamento — não aplicados",
+    "DL 196/2009 art. 4.º: aditamento do art. 11.º-A do Regulamento — não aplicado (não é artigo do decreto-lei)",
+    "DL 47/2018: altera o DL 181/2012 e só remete para o original — ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

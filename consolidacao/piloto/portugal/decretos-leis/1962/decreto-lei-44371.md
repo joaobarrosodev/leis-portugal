@@ -1,0 +1,117 @@
+---
+id: pt:dre:164226:por
+title: Decreto-Lei n.º 44371
+original: data/portugal/decretos-leis/1962/decreto-lei-44371.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:693036:por
+    title: Decreto-Lei n.º 45118
+    publication_date: '1963-07-10'
+  titulos_normalizados: artigos em texto corrido no original, com título pelo parser
+    da fase 3
+---
+
+# Decreto-Lei n.º 44371
+
+Tendo a experiência revelado o valor da cooperação voluntária de elementos das organizações referidas no [Decreto-Lei n.º 41281](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41281-1957-254659), de 21 de Setembro de 1957, e no [Decreto n.º 43808](https://diariodarepublica.pt/dr/detalhe/decreto/43808-1961-172681), de 20 de Julho de 1961, no que respeita à execução de missões aéreas complementares da acção militar;
+
+Tornando-se, contudo necessário, para seu pleno rendimento, enquadrá-los na orgânica geral da Força Aérea, assisti-los tècnicamente, subsidiá-los e integrar a sua actuação na acção geral aérea;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para, valer como lei, o seguinte:
+
+###### Artigo 1.º
+
+Nas organizações referidas no artigo 1.º do [Decreto-Lei n.º 41281](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41281-1957-254659), de 21 de Setembro de 1957, e no artigo 1.º do [Decreto n.º 43808](https://diariodarepublica.pt/dr/detalhe/decreto/43808-1961-172681), de 20 de Julho de 1961, podem constituir-se formações aéreas voluntárias destinadas à execução de missões aéreas complementares da acção militar.
+
+§ único. Exceptuam-se das organizações referidas no corpo deste artigo as relativas a pára-quedismo e aeromodelismo.
+
+###### Artigo 2.º
+
+As formações aéreas voluntárias são, normalmente, compostas por pessoal navegante e pessoal terrestre de apoio, dispondo de aeronaves e outro material.
+
+Sem prejuízo do disposto no artigo 23.º da [Lei n.º 2056](https://diariodarepublica.pt/dr/detalhe/lei/2056-1952-566238), de 2 de Junho de 1952, a constituição de formações aéreas voluntárias carece de autorização dos comandos das regiões ou zonas aéreas em que deva ter lugar.
+
+###### Artigo 3.º
+
+O pedido de autorização deve ser apresentado por uma das organizações referidas no artigo 1.º do presente diploma e instruído com as declarações individuais de aceitação do pessoal navegante e pessoal terrestre de apoio, assim como da relação das aeronaves e outro material que ficarão à disposição da formação aérea voluntária respectiva.
+
+§ 1.º Os comandos das regiões ou zonas aéreas podem condicionar a autorização, referida no corpo deste artigo, à prestação de provas reveladoras da necessária capacidade.
+
+§ 2.º Quando as aeronaves e outro material pertencerem à Direcção-Geral da Aeronáutica Civil ou aos serviços provinciais da aeronáutica civil, a sua inclusão na relação referida no corpo deste artigo carece de prévia autorização daquela Direcção-Geral ou destes serviços.
+
+###### Artigo 4.º
+
+As formações aéreas voluntárias ficam na dependência dos comandos das regiões ou zonas aéreas onde forem constituídas, para tudo o que diga respeito à instrução e assistência técnica ligadas com a execução de missões aéreas e para tudo o que diga respeito a estas missões.
+
+§ 1.º Sem prejuízo do disposto no corpo deste artigo, as autoridades aeronáuticas civis mantêm a plenitude da sua competência sobre as organizações referidas no artigo 1.º, decorrentes do disposto no Decreto-Lei. n.º 41281, de 21 de Setembro de 1957, e no [Decreto n.º 43808](https://diariodarepublica.pt/dr/detalhe/decreto/43808-1961-172681), de 20 de Julho de 1961.
+
+§ 2.º Os comandos das regiões ou zonas aéreas devem dar prévio conhecimento à Direcção-Geral da Aeronáutica Civil ou aos serviços provinciais da aeronáutica civil dos programas de instrução e assistência técnica referidos no corpo deste artigo.
+
+§ 3.º A execução das missões aéreas só deve ter lugar em emergência ou em guerra.
+
+###### Artigo 5.º
+
+As aeronaves e outro material cedidos pelo Estado com a finalidade exclusiva de instrução e assistência técnica, ligadas com a execução de missões aéreas e de execução destas missões não podem ser desviados daquela finalidade.
+
+###### Artigo 6.º
+
+As formações aéreas voluntárias, no que respeita a actividade ordenada pelos comandos das regiões ou zonas aéreas, podem beneficiar de:
+
+a) Facilidades de instrução de pessoal navegante e de pessoal terrestre de apoio;
+
+b) Assistência técnica para manutenção de aeronaves e outro material;
+
+c) Fornecimento gratuito de combustíveis e lubrificantes;
+
+d) Concessão de subsídios;
+
+e) Empréstimo de aeronaves e outro material.
+
+§ 1.º A concessão dos benefícios previstos no corpo deste artigo compete:
+
+a) Ao Ministro das Comunicações, pela Direcção-Geral da Aeronáutica Civil, no que respeita aos benefícios referidos nas alíneas d) e e);
+
+b) Ao Secretário de Estado da Aeronáutica, pela Força Aérea, no que respeita aos benefícios referidos nas alíneas a), b), c), d) e e);
+
+c) Aos governadores das províncias ultramarinas, pelos respectivos serviços provinciais da aeronáutica civil, no que respeita aos benefícios referidos nas alíneas d) e e).
+
+§ 2.º As aeronaves referidas no artigo 5.º deverão ter matrícula militar.
+
+§ 3.º A assistência técnica prevista na alínea b), quando concedida a aeronaves de matrícula civil, deverá respeitar as normas técnicas de manutenção vigentes na aviação civil.
+
+§ 4.º As aeronaves de matrícula civil empregadas nas formações aéreas voluntárias só poderão ser conduzidas por pessoal da Força Aérea ou por pessoal civil titular das licenças civis competentes.
+
+###### Artigo 7.º
+
+O pessoal navegante e pessoal terrestre de apoio têm os seguintes direitos:
+
+a) Dispensa de comparência, sem perda de remunerações, nos serviços públicos e privados, quando, em emergência ou em guerra, sejam designados pelos comandos de regiões ou zonas aéreas para missões aéreas inadiáveis;
+
+b) Gratificações de serviço aéreo ou de especialidade, quando, em emergência ou em guerra, sejam designados pelos comandos de regiões ou zonas aéreas para missões de serviço;
+
+c) Pensões por incapacidade e pensões de preço de sangue, quando sofram acidentes em missões de serviço ordenadas pelos comandos das regiões ou zonas aéreas.
+
+§ 1.º Para efeitos do disposto nas alíneas b) e c) do corpo deste artigo o pessoal navegante e o pessoal terrestre de apoio é equiparado a pessoal militar da Força Aérea com os postos e especialidades a fixar, para cada indivíduo, pelo Secretário de Estado da Aeronáutica, sob proposta dos comandantes de regiões ou zonas aéreas baseada nas habilitações literárias e preparação militar do interessado.
+
+§ 2.º O benefício referido na alínea b) é concedido, sujeito a sanção do Secretário de Estado da Aeronáutica, pela Força Aérea e por forma e em condições idênticas às vigentes para o pessoal militar da Força Aérea.
+
+§ 3.º O benefício referido na alínea c) é concedido por forma e em condições idênticas às vigentes para o pessoal militar da Força Aérea.
+
+> Alterado pelo/a [Decreto-Lei n.º 45118](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45118-1963-693036), publicado em 1963-07-10.
+
+###### Artigo 8.º
+
+As dotações necessárias à cobertura das despesas que, por força do presente diploma, incumbem à Força Aérea, Direcção-Geral da Aeronáutica Civil e serviços provinciais da aeronáutica civil serão inscritas nos respectivos orçamentos.
+
+###### Artigo 9.º
+
+As instruções que venham a verificar-se necessárias para execução do disposto no presente diploma serão emanadas, na metrópole, conjuntamente do Estado-Maior da Força Aérea e da Direcção-Geral da Aeronáutica Civil e, nas províncias ultramarinas, dos respectivos conselhos aeronáuticos provinciais.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 29 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - Kaulza Oliveira de Arriaga.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A. Moreira.

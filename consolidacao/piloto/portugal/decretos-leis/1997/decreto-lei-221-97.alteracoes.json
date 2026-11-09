@@ -110,5 +110,33 @@
     "unidade": [],
     "diploma": "pt:dre:195800:por",
     "alterador": "pt:dre:281197:por"
+  },
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º — Serviços de apoio técnico e administrativo\n\n1 - O Conselho dispõe de uma assessoria técnica e administrativa, assegurada pelo Ministério do Ambiente e coordenada pelo secretário executivo.\n\n2 - Compete à assessoria o apoio às actividades do Conselho, designadamente as de natureza técnica, informação, documentação, secretariado, expediente e arquivo.\n\n3 - O pessoal necessário ao funcionamento da assessoria técnica e administrativa é designado por despacho do Ministro do Ambiente, sob proposta do presidente do Conselho, de entre o pessoal dos quadros de pessoal do Ministério do Ambiente, cujas funções são exercidas em regime de requisição ou destacamento.",
+    "depois": "###### Artigo 11.º — Serviços de apoio técnico e administrativo\n\n1 - O Conselho dispõe de uma assessoria técnica e administrativa, assegurada com o apoio da Secretaria-Geral do Ministério das Cidades, Ordenamento do Território e Ambiente e coordenada pelo secretário executivo.\n\n2 - Compete à assessoria o apoio às actividades do Conselho, designadamente as de natureza técnica, informação, documentação, secretariado, expediente e arquivo.\n\n> Alterado pelo/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:195800:por",
+    "alterador": "pt:dre:281197:por"
+  },
+  {
+    "artigo": "17.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 17.º — Encargos financeiros e instalações\n\n1 - Os encargos com o funcionamento do Conselho são cobertos por dotação orçamental inscrita no orçamento da Secretaria-Geral do Ministério do Ambiente.\n\n2 - Constituem, entre outros, encargos de funcionamento do Conselho os seguintes:\n\na) Remuneração do presidente;\n\nb) Remuneração do secretário executivo;\n\nc) Senhas de presença;\n\nd) Aquisição de serviços, pareceres e assessoria técnica;\n\ne) Os que resultem do seu normal funcionamento e das actividades dos seus membros.\n\n3 - As instalações necessárias ao funcionamento do Conselho serão asseguradas pelo Ministério do Ambiente.",
+    "depois": "###### Artigo 17.º — Encargos financeiros e instalações\n\n1 - Os encargos com o funcionamento do Conselho são cobertos por dotação orçamental inscrita no orçamento do Ministério das Cidades, Ordenamento do Território e Ambiente.\n\n2 - Constituem, entre outros, encargos de funcionamento do Conselho os seguintes:\n\na) Remuneração do presidente;\n\nb) Remuneração do secretário executivo;\n\nc) Senhas de presença;\n\nd) Aquisição de serviços, pareceres e assessoria técnica;\n\ne) Os que resultem do seu normal funcionamento e das actividades dos seus membros.\n\n3 - As instalações necessárias ao funcionamento do Conselho serão asseguradas pelo Ministério do Ambiente.\n\n> Alterado pelo/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:195800:por",
+    "alterador": "pt:dre:281197:por"
   }
 ]

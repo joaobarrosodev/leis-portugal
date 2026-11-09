@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:285910:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Os comandantes distritais, da Escola Prática de Polícia, do Corpo de Intervenção ou unidades equivalentes da PSP que disponham de conselhos administrativos, bem como os próprios conselhos administrativos e o presidente do conselho administrativo do Comando-Geral da mesma Polícia, são competentes para autorizarem despesas com obras ou com aquisição de material até ao limite de 200000$00.",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "As decisões relativas a despesas superiores a 40000$00 são proferidas sobre processo especialmente organizado pelo respectivo conselho administrativo.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do DL 259/86 altera as importâncias dos arts. 1.º e 2.º para 200000$00 e 40000$00: substituídas 50000$00 e 10000$00."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "1.º: parágrafo que não está no alterador nem no original: Os comandantes distritais, da Escola Prática de Polícia, do Corpo de Intervenção",
+    "2.º: parágrafo que não está no alterador nem no original: As decisões relativas a despesas superiores a 40000$00 são proferidas sobre proc"
+  ]
+}

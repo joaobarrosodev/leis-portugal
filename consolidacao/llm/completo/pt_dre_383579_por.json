@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:383579:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 n.º 8.º: revoga o n.º 4.º da Portaria n.º 286/79; artigo 4.º fica (Revogado.). Os restantes números do alt.1 aprovam novos modelos e não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

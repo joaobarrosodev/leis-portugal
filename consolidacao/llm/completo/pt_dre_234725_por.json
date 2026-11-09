@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:234725:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 1063/2006) declara temporariamente (um ano) a praia da Almagreira de uso suspenso, sem alterar o texto do regulamento; não é alteração textual.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 1063/2006): suspensão temporária do uso balnear de uma praia — não textual, nada aplicado.",
+    "Alt. 2 (RCM 66/2019): sem artigos que mencionem o original no pedido — nada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

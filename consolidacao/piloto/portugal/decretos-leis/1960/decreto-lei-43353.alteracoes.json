@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "24.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 24.º\n\nO chefe da Repartição de Saúde e Higiene será escolhido entre médicos de 1.ª classe do quadro comum do ultramar que por serviços prestados possuam demonstrada competência e servirá em comissão ordinária.",
+    "depois": "###### Artigo 24.º\n\nO chefe da Repartição de Saúde e Higiene será nomeado em comissão ordinária de serviço e escolhido entre os médicos de 1.ª classe do quadro comum do ultramar ou do quadro complementar de cirurgiões e especialistas que possuam demonstrada competência.\n\n> Alterado pelo/a [Decreto-Lei n.º 44585](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44585-1962-159931), publicado em 1962-09-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:512989:por",
+    "alterador": "pt:dre:159931:por"
+  }
+]

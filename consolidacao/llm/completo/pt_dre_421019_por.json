@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:421019:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Arts. 1.º a 4.º e bases do DL 677/74: regime próprio para Angola, não são redação nova do original; nada aplicado.",
+    "Art. 5.º do DL 677/74: revoga o original 'na parte aplicável a Angola'; revogação parcial territorial, não se aplica ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

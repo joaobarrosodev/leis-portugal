@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:238984:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "Quando o representante permanente de Portugal junto dos organismos económicos internacionais referidos no [Decreto-Lei n.º 44301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44301-1962-516064), de 27 de Abril de 1962, exercer cumulativamente a chefia de mais de uma das respectivas delegações ou quando as conveniências do serviço de cada delegação assim o aconselhem, poderá, em despacho conjunto dos Ministros dos Negócios Estrangeiros e da Economia, ser nomeado um adjunto desse chefe de delegação.\n\n§ único. Será aplicável ao adjunto do chefe de delegação o disposto nos artigos 1.º e 2.º do presente decreto-lei.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 16 de Janeiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do DL 47600: nova redação do artigo 3.º (corpo alterado, § único igual) - aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

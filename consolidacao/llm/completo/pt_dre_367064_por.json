@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:367064:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Decreto 52/81, artigo 1.º: substitui a tabela de ajudas de custo do artigo 1.º, mas a nova tabela só vem em imagem (ver documento original); não aplicada.",
+  "instrucoes": [
+    "Decreto 52/81, art. 1.º: substituição da tabela do artigo 1.º; tabela só em imagem, não aplicada.",
+    "Decreto 52/81, art. 2.º: efeitos do próprio decreto alterador; não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:666343:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "O Conselho Superior da Acção Social compreende as seguintes secções e subsecções:\n\na) Secção Permanente;\n\nb) 1.ª Secção - Trabalho:\n\n1.ª Subsecção - Regulamentação do trabalho;\n\n2.ª Subsecção - Emprego e formação profissional;\n\n3.ª Subsecção - Ocupação dos tempos livres;\n\nc) 2.ª Secção - Saúde:\n\n1.ª Subsecção - Salubridade e higiene geral;\n\n2.ª Subsecção - Medicina social;\n\n3.ª Subsecção - Organização hospitalar;\n\n4.ª Subsecção - Medicina do trabalho;\n\nd) 3.ª Secção - Promoção e segurança social:\n\n1.ª Subsecção - Estruturas administrativas e financiamento;\n\n2.ª Subsecção - Protecção da família;\n\n3.ª Subsecção - Riscos comuns;\n\n4.ª Subsecção - Riscos profissionais;\n\n5.ª Subsecção - Serviço Social e Desenvolvimento Comunitário.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "DL 611/72: a alteração do quadro anexo (de 5 para 6 vogais permanentes) incide sobre um quadro que só vem em imagem; não aplicada. DL 599/74 e DL 83/91 (art. 27.º): extinção do Conselho Superior da Acção Social, sem alteração textual ao original; não aplicada.",
+  "instrucoes": [
+    "DL 611/72 art. 1.º: cria um lugar de vogal permanente e altera o quadro anexo; quadro em imagem, em nao_aplicavel",
+    "DL 587/72 art. 4.º n.º 1: extinta a 5.ª Subsecção (Habitação económica) da 3.ª Secção, al. d) do art. 2.º; linha retirada",
+    "DL 587/72 art. 4.º n.º 2: a 6.ª Subsecção passa a «5.ª Subsecção - Serviço Social e Desenvolvimento Comunitário»; aplicado",
+    "DL 587/72 arts. 1.º a 3.º e 5.º: não se dirigem ao texto do original; ignorados",
+    "DL 599/74 art. 1.º: extinção do Conselho; não textual, em nao_aplicavel",
+    "DL 83/91 art. 27.º: efectiva a extinção do Conselho; não textual, em nao_aplicavel; art. 36.º revoga o DL 47/78 e disposições em contrário (condicional), não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "2.º: parágrafo que não está no alterador nem no original: 5.ª Subsecção - Serviço Social e Desenvolvimento Comunitário."
+  ]
+}

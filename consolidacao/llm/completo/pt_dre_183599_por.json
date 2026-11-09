@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:183599:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 44582), art. 1.º: altera a composição dos quadros do pessoal administrativo e menor (mapa I a que se refere o art. 78.º), que não é artigo; o texto do art. 78.º não é alterado. Alterador 2 (Portaria 222/85): quadro de professores em mapa anexo só em imagem.",
+  "instrucoes": [
+    "Alt. 1 art. 1.º: nova composição do mapa I (quadro de pessoal), sem alteração do texto dos artigos: não aplicado. Art. 2.º: extingue lugares noutros serviços: ignorado.",
+    "Alt. 2: novo quadro de professores (mapa em imagem): não aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

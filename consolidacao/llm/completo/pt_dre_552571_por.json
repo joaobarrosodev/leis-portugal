@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:552571:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1. As espécies de tabacos em que incidirá o imposto de consumo e as taxas correspondentes a cada uma das marcas fabricadas no continente são as indicadas em lista anexa a este diploma e que dele faz parte integrante.\n\n2. As espécies de tabacos em que incidirá o imposto de consumo e as taxas correspondentes a cada uma das marcas fabricadas nas ilhas adjacentes serão fixadas por decreto, dentro dos limites que constam da lista a que se refere o número antecedente.\n\n3. Serão as seguintes as espécies de tabaco em que incidirá o imposto de consumo e as correspondentes taxas aplicáveis aos tabacos fabricados no estrangeiro e territórios ainda sob a dominação portuguesa:\n\nPicados - Taxa de 5$00 sobre cada 15 g ou fracção.\n\nCigarros:\n\nTaxa de 5$50 sobre cada maço ou caixa de 10 a 19 cigarros;\n\nTaxa de 11$00 sobre cada maço ou caixa de 20 a 24 cigarros;\n\nTaxa de 22$50 sobre cada maço ou caixa de 25 a 50 cigarros;\n\nTaxa de 45$00 sobre cada maço ou caixa com mais de 51 cigarros.\n\nCigarrilhas com capa de tabaco:\n\nTaxa de 1$00 sobre cada cigarrilha cujo preço unitário de venda ao público seja igual ou inferior a 1$00;\n\nTaxa de 4$00 sobre cada cigarrilha cujo preço unitário de venda ao público seja superior a 1$00 e não exceda 10$00.\n\nTaxa de 7$50 sobre cada cigarrilha cujo preço unitário de venda ao público seja superior a 10$00.\n\nCharutos:\n\nTaxa de 10$00 sobre cada charuto cujo preço unitário de venda ao público não exceda 20$00;\n\nTaxa de 20$00 sobre cada charuto cujo preço unitário de venda ao público seja superior a 20$00 e não exceda 40$00;\n\nTaxa de 30$00 sobre cada charuto cujo preço unitário de venda ao público seja superior a 40$00.\n\n4. Os produtos a que se refere o número anterior, quando importados dos países membros da Associação Europeia de Comércio Livre para o território metropolitano, ficam isentos da taxa para o Fundo de Socorro Social.",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "Este decreto-lei entra em vigor em 9 de Setembro de 1974.\n\nVisto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.\n\nPromulgado em 2 de Setembro de 1974.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO DE SPÍNOLA.\n\nLista a que se refere o n.º 1 do artigo 2.º\n\nTaxa sobre cada embalagem de tabaco picado ou maço de cigarros das seguintes marcas:\n\nPicados:\n\nGama ... 20$00\n\nComodoro ... 20$00\n\nCigarros sem filtro:\n\nProvisórios, com 12 ... 2$00\n\nDefinitivos, com 12 ... 2$00\n\nProvisórios, com 24 ... 4$00\n\nDefinitivos, com 24 ... 4$00\n\nLusos ... 4$00\n\nAntoninos ... 5$50\n\nSporting ... 5$50\n\nPortuguês Suave ... 5$50\n\nParis ... 5$50\n\n20-20-20 ... 5$50\n\nHigh-Life ... 5$50\n\nCigarros com filtro:\n\nAntoninos ... 8$00\n\nKart (normal) ... 8$00\n\nSagres (normal) ... 8$00\n\nSporting ... 8$00\n\nPorto (normal) ... 8$00\n\nRitz ... 8$00\n\nNegritas (normal) ... 8$00\n\nCT (normal) ... 8$00\n\nSG (normal) ... 8$00\n\nSG (ventil) ... 8$00\n\nTamariz ... 8$50\n\nSagres (longo) ... 8$50\n\nKart (longo) ... 8$50\n\nMonserrate ... 8$50\n\nMini Kayak ... 8$50\n\nPorto (gigante) ... 8$50\n\nRitz (gigante) ... 8$50\n\nCT (longo) ... 8$50\n\nSG (gigante) ... 8$50\n\nNegritas (gigante) ... 8$50\n\n2002 ... 8$50\n\nEstoril ... 11$00\n\nSintra ... 11$00\n\nKayak ... 11$00\n\nValetes ... 11$00\n\nNobel ... 11$00\n\nPlaza ... 11$00\n\nO Ministro das Finanças, José da Silva Lopes.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 323/75: adita n.º 4 ao art. 2.º - aplicado.",
+    "DL 713/75 art. 1.º: nova redação do art. 2.º (n.os 1 e 2 '...', n.º 3 novo) - aplicado, mantido o n.º 4 aditado pelo DL 323/75.",
+    "DL 713/75 art. 2.º: nova lista a que se refere o n.º 1 do art. 2.º - substituídas as entradas da lista (que está no corpo do 9.º).",
+    "DL 621/76: fixa taxas da Madeira em diploma próprio, sem alteração textual do original - nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}
