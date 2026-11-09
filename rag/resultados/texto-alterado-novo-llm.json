@@ -1,0 +1,35 @@
+{
+ "configuracao": {
+  "reranker": "cruzado",
+  "limiar": 3.0,
+  "llm": "sessão do Claude"
+ },
+ "resumo": {
+  "texto_alterado": {
+   "n": 99,
+   "nao_sei": 58,
+   "respondidas": 41,
+   "certas": 36,
+   "artigo@1": 84,
+   "texto@1": 65,
+   "artigo@5": 93,
+   "texto@5": 72,
+   "artigo@10": 95,
+   "texto@10": 72,
+   "com_fonte": 99
+  },
+  "total": {
+   "n": 99,
+   "nao_sei": 58,
+   "respondidas": 41,
+   "certas": 36,
+   "artigo@1": 84,
+   "texto@1": 65,
+   "artigo@5": 93,
+   "texto@5": 72,
+   "artigo@10": 95,
+   "texto@10": 72,
+   "com_fonte": 99
+  }
+ }
+}
