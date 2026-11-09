@@ -170,6 +170,10 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:1192107481:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:891541240:por
   label: null
   source: null

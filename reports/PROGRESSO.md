@@ -1,6 +1,6 @@
 # Progresso do projeto
 
-Relatório gerado em 2026-11-06.
+Relatório gerado em 2026-11-09.
 
 ## Estado real
 
@@ -9,11 +9,11 @@ Relatório gerado em 2026-11-06.
 | Estrutura do pacote Python | Implementado | `src/leis_portugal/` |
 | Registo de fontes | Implementado | `config/sources.yml` validado por esquema |
 | Esquemas de metadados | Implementado | `schemas/` |
-| Conector EUR-Lex/CELLAR (por data, por CELEX e atos referidos) | Operacional | 35659 ato(s) da UE no acervo |
-| Conector DRE (por data, por caminho, consolidados, em falta e referidos) | Operacional | 304868 documento(s) do DRE |
+| Conector EUR-Lex/CELLAR (por data, por CELEX e atos referidos) | Operacional | 35663 ato(s) da UE no acervo |
+| Conector DRE (por data, por caminho, consolidados, em falta e referidos) | Operacional | 304873 documento(s) do DRE |
 | Verificação pelos sitemaps do DRE | Implementado | `collect dre --missing` (`reports/dre_sitemap_coverage.json`) |
 | Catálogo do Jornal Oficial dos Açores | Implementado | registos regionais em `data/regional/acores/` |
-| Recolha direta (vs. importação inicial) | Concluída | 340526 recolhidos diretamente; 1 ainda com o texto da importação inicial |
+| Recolha direta (vs. importação inicial) | Concluída | 340535 recolhidos diretamente; 1 ainda com o texto da importação inicial |
 | Relações entre diplomas | Implementado | DRE e CELLAR (alterações, revogações, retificações); citações e transposições detetadas no texto; ligações inversas nos atos da UE; referências por ELI resolvidas para ids do acervo (`link`) |
 | Índice de relações e exportação | Implementado | `leis-portugal export` (JSONL, SQLite, Parquet em `exports/`) |
 | Relatórios derivados dos dados | Implementado | `reports/` |
@@ -24,8 +24,8 @@ Relatório gerado em 2026-11-06.
 
 | Fonte | Estado | Última verificação | Documentos |
 |---|---|---|---:|
-| eurlex-cellar | operational | 2026-10-26 | 35659 |
-| dre | operational | 2026-10-26 | 304868 |
+| eurlex-cellar | operational | 2026-10-26 | 35663 |
+| dre | operational | 2026-10-26 | 304873 |
 | parlamento | planned | — | 0 |
 | cnpd | planned | — | 0 |
 

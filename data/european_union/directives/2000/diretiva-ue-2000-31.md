@@ -128,6 +128,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1192107480:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:124981336:por
   label: null
   source: null
