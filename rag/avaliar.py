@@ -28,6 +28,7 @@ import time
 from collections import defaultdict
 from pathlib import Path
 
+from rag import reescrita
 from rag.fontes import RAIZ, normalizar
 from rag.pesquisa import Consulta, Pesquisa
 from rag.resposta import Resposta, llm_disponivel, responder
@@ -64,8 +65,11 @@ def _mesmo_sentido():
     return mesmo_sentido
 
 
-def avaliar_pergunta(pesquisa: Pesquisa, p: dict, *, limiar: float | None, usar_llm: bool) -> dict:
-    consulta = pesquisa.pesquisar(p["pergunta"], p["data_referencia"], k=max(KS))
+def avaliar_pergunta(pesquisa: Pesquisa, p: dict, *, limiar: float | None, usar_llm: bool, usar_reescrita: bool = False) -> dict:
+    if usar_reescrita:
+        consulta = reescrita.pesquisar(pesquisa, p["pergunta"], p["data_referencia"], k=max(KS))
+    else:
+        consulta = pesquisa.pesquisar(p["pergunta"], p["data_referencia"], k=max(KS))
     return pontuar(p, consulta, responder(consulta, limiar=limiar, usar_llm=usar_llm))
 
 
@@ -211,6 +215,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--candidatos", type=int, default=100, help="Candidatos de cada BM25.")
     parser.add_argument("--limiar", type=float, help="'Não sei' quando o reranker dá ao melhor artigo menos do que isto.")
     parser.add_argument("--sem-llm", action="store_true", help="Não usar o LLM mesmo que haja chave.")
+    parser.add_argument("--sem-reescrita", action="store_true", help="Com LLM, pesquisar pela pergunta tal como está, sem a reescrever (rag.reescrita).")
     parser.add_argument("--sem-reais", action="store_true")
     parser.add_argument("--tipos", help="Só estes tipos de pergunta, separados por vírgulas (p. ex. `real`), para medir depressa.")
     parser.add_argument("--limite", type=int)
@@ -223,6 +228,7 @@ def main(argv: list[str] | None = None) -> int:
         reranker = Reranker(args.reranker, maximo=args.maximo)
     pesquisa = Pesquisa(args.indice, reranker=reranker, candidatos=args.candidatos)
     usar_llm = llm_disponivel() and not args.sem_llm
+    usar_reescrita = usar_llm and not args.sem_reescrita
     perguntas = ler_perguntas(not args.sem_reais)
     if args.tipos:
         perguntas = [p for p in perguntas if p["tipo"] in args.tipos.split(",")]
@@ -232,11 +238,11 @@ def main(argv: list[str] | None = None) -> int:
     linhas = []
     inicio = time.time()
     for n, p in enumerate(perguntas, 1):
-        linhas.append(avaliar_pergunta(pesquisa, p, limiar=args.limiar, usar_llm=usar_llm))
+        linhas.append(avaliar_pergunta(pesquisa, p, limiar=args.limiar, usar_llm=usar_llm, usar_reescrita=usar_reescrita))
         if n % 50 == 0:
             print(f"{n}/{len(perguntas)} ({time.time() - inicio:.0f} s)", file=sys.stderr, flush=True)
 
-    configuracao = {"reranker": args.reranker, "limiar": args.limiar, "llm": usar_llm}
+    configuracao = {"reranker": args.reranker, "limiar": args.limiar, "llm": usar_llm, "reescrita": usar_reescrita}
     resumo = guardar(args.nome, configuracao, linhas)
     print(tabela(resumo))
     for tipo in ("revogada",):

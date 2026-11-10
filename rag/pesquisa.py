@@ -76,6 +76,7 @@ class Consulta:
     resultados: list[Resultado]
     diplomas_citados: list[str] = field(default_factory=list)  # ids encontrados no acervo
     diplomas_em_falta: list[str] = field(default_factory=list)  # citados mas não encontrados
+    pesquisa_por: str | None = None  # a consulta reescrita (rag.reescrita), quando difere da pergunta
 
 
 class Pesquisa:

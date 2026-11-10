@@ -18,12 +18,12 @@ A sessão que responde não pode ver as respostas certas: só recebe `entrada-NN
 from __future__ import annotations
 
 import argparse
-import dataclasses
 import json
 import sys
 from pathlib import Path
 
 from rag import avaliar
+from rag import reescrita as reescrita_mod
 from rag.fontes import RAIZ
 from rag.pesquisa import Pesquisa
 from rag.resposta import INSTRUCOES, LIMIAR_PADRAO, Resposta, contexto, interpretar, mensagem, nao_sei_antes
@@ -44,10 +44,9 @@ def ler_reescrita(pasta: Path | None) -> dict[str, str]:
 
 
 def pesquisar(pesquisa: Pesquisa, p: dict, reescrita: dict[str, str]):
-    """Pesquisa com a consulta reescrita, se existir; a pergunta do utilizador fica na consulta para o LLM e os juízes."""
-    q = reescrita.get(p["id"], p["pergunta"])
-    consulta = pesquisa.pesquisar(q, p["data_referencia"], k=max(avaliar.KS))
-    return dataclasses.replace(consulta, pergunta=p["pergunta"])
+    """Pesquisa com a consulta reescrita pelas sessões, se existir (sem chamar o LLM); a pergunta do
+    utilizador fica na consulta para o LLM e os juízes."""
+    return reescrita_mod.pesquisar(pesquisa, p["pergunta"], p["data_referencia"], k=max(avaliar.KS), consulta=reescrita.get(p["id"], p["pergunta"]))
 
 
 def exportar(nome: str, tipos: set[str], por_lote: int, limiar: float, indice: Path | None, reescrita: dict[str, str]) -> None:

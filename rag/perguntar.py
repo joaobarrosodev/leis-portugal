@@ -25,6 +25,7 @@ import textwrap
 from datetime import date, datetime
 from pathlib import Path
 
+from rag import reescrita
 from rag.fontes import RAIZ
 from rag.pesquisa import Consulta, Pesquisa
 from rag.resposta import llm_disponivel, responder
@@ -54,6 +55,8 @@ def mostrar(consulta: Consulta, resposta, k: int) -> None:
         print(_paragrafos(topo.texto, 600))
     for aviso in resposta.avisos:
         print(f"   ⚠ {aviso}")
+    if consulta.pesquisa_por:
+        print(f"   Pesquisa por: {consulta.pesquisa_por}")
     if consulta.diplomas_em_falta:
         print(f"   ⚠ Não está no acervo: {', '.join(consulta.diplomas_em_falta)}")
     citados = {r.id for r in resposta.citacoes}
@@ -71,6 +74,7 @@ def registar(consulta: Consulta, resposta, anotacao: dict) -> None:
         "quando": datetime.now().isoformat(timespec="seconds"),
         "pergunta": consulta.pergunta,
         "data_referencia": consulta.data,
+        "pesquisa_por": consulta.pesquisa_por,
         "responde": resposta.responde,
         "com_llm": resposta.com_llm,
         "resposta": resposta.texto,
@@ -103,6 +107,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--limiar", type=float, help=f"'Não sei' abaixo desta pontuação do reranker (por omissão: {LIMIAR:g}).")
     parser.add_argument("-k", type=int, default=4, help="Quantos artigos mostrar.")
     parser.add_argument("--sem-llm", action="store_true")
+    parser.add_argument("--sem-reescrita", action="store_true", help="Com LLM, pesquisar pela pergunta tal como está, sem a reescrever numa consulta jurídica.")
     args = parser.parse_args(argv)
 
     tipo = args.reranker or ("cruzado" if importlib.util.find_spec("fastembed") else "nenhum")
@@ -115,9 +120,13 @@ def main(argv: list[str] | None = None) -> int:
     limiar = args.limiar if args.limiar is not None else (LIMIAR if tipo == "cruzado" else None)
     pesquisa = Pesquisa(args.indice, reranker=reranker)
     usar_llm = llm_disponivel() and not args.sem_llm
+    usar_reescrita = usar_llm and not args.sem_reescrita
 
     def uma(pergunta: str, interativo: bool) -> None:
-        consulta = pesquisa.pesquisar(pergunta, args.data, k=max(args.k, 10))
+        if usar_reescrita:
+            consulta = reescrita.pesquisar(pesquisa, pergunta, args.data, k=max(args.k, 10))
+        else:
+            consulta = pesquisa.pesquisar(pergunta, args.data, k=max(args.k, 10))
         resposta = responder(consulta, limiar=limiar, usar_llm=usar_llm)
         mostrar(consulta, resposta, args.k)
         registar(consulta, resposta, anotar() if interativo else {})
@@ -127,7 +136,7 @@ def main(argv: list[str] | None = None) -> int:
         return 0
     print(
         "\nProtótipo: dá o artigo mais provável, não uma resposta escrita"
-        + (" (com LLM)." if usar_llm else " (sem LLM).")
+        + (" (com LLM" + (" e reescrita da pergunta)." if usar_reescrita else ").") if usar_llm else " (sem LLM).")
         + "\nEscreve a pergunta e carrega Enter. Enter numa linha vazia para sair.\n",
         file=sys.stderr,
     )

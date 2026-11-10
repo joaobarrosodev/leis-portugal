@@ -67,3 +67,34 @@ def test_termos_ignoram_consoantes_mudas_da_grafia_antiga():
     assert termos("trabalho noturno") == termos("trabalho nocturno")
     assert termos("exceção") == termos("excepção")
     assert termos("direção") == termos("direcção")
+
+
+def test_reescrita_instrucoes_sem_a_linha_dos_ficheiros():
+    from rag import reescrita
+
+    texto = reescrita.instrucoes()
+    assert "entrada-NN" not in texto and "saida-NN" not in texto
+    assert "Mantém todos os elementos da pergunta" in texto
+    assert texto.endswith("sem aspas nem explicações.")
+
+
+def test_reescrever_sem_chave_devolve_a_pergunta(monkeypatch):
+    from rag import reescrita
+
+    monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
+    assert reescrita.reescrever("q tem d ter uma fatura") == "q tem d ter uma fatura"
+
+
+def test_pesquisar_reescrito_guarda_a_pergunta_original():
+    from rag import reescrita
+    from rag.pesquisa import Consulta
+
+    class Pesquisa:
+        def pesquisar(self, pergunta, data, k):
+            return Consulta(pergunta, data, referencias.extrair(pergunta), [])
+
+    c = reescrita.pesquisar(Pesquisa(), "q tem d ter uma fatura", "2026-11-10", k=10, consulta="Requisitos da fatura como documento de transporte")
+    assert c.pergunta == "q tem d ter uma fatura"
+    assert c.pesquisa_por == "Requisitos da fatura como documento de transporte"
+    igual = reescrita.pesquisar(Pesquisa(), "Quantos dias de férias?", "2026-11-10", k=10, consulta="Quantos dias de férias?")
+    assert igual.pesquisa_por is None
