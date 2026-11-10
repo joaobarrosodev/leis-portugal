@@ -216,6 +216,17 @@ Ressalvas: o reescritor é o mesmo modelo que responde e que julga, e conhece a 
 
 A reescrita não baixa a fiabilidade (96%, pior caso 93%, igual ao modo estrito sem reescrita) e faz o sistema responder a 351 perguntas em vez de 249. Nas reais, o artigo certo passa a estar em 1.º em 68% (antes 42%) e 81% das perguntas recebem resposta certa (antes 56%). Nas de premissa errada responde a mais 7 e continua a corrigir a premissa em 91% delas. Não fez o sistema responder onde devia recusar: as sem resposta continuam em 78 de 80. Ressalvas iguais às das coloquiais: reescritor, respondedor e juízes são o mesmo modelo; sem jurista. As literais, temporais e revogadas (sintéticas) não foram medidas com reescrita.
 
+**Reescrita nas sintéticas** (10/11/2026, `sinteticas-reescrito`: as 407 literais, temporais e revogadas, mesmo índice e mesma reescrita de `rag/REESCRITA.md`, modo estrito, quatro juízes às cegas). O receio era a reescrita perder a referência explícita ao diploma ou artigo e piorar estas perguntas; não aconteceu: artigo certo em 1.º em 94% e nos 10 primeiros em 100%, "não sei" 1%.
+
+| Tipo | n | Respondidas | Certas (palavras) | Certas (juízes) | Fiabilidade | Limite inferior 95% |
+|---|--:|--:|--:|--:|--:|--:|
+| Literais | 250 | 249 | 237 | 248 | 100% (248/249) | 98% |
+| Temporais | 102 | 98 | 89 | 98 | 100% (98/98) | 96% |
+| Revogadas | 55 | 55 | 55 | 55 | 100% (55/55) | 93% |
+| Total | 407 | 402 | 381 (95%) | 401 | **100% (401/402)** | **99%** |
+
+Pelo critério das palavras fica igual ao que era sem reescrita (95% contra 94%). Os juízes dão 401 certas; nas 21 em que discordam das palavras, uma amostra de 6 lida à mão dá razão aos juízes (diferenças de formatação de números e moeda, frases mais completas que a referência). Ressalvas: os juízes são o mesmo modelo e deram só 1 "incompleta" em 402, o que é pouco escrutínio; as sintéticas são perguntas fáceis por construção (citam o diploma); e houve um incidente de contaminação entre dois juízes que partilharam um ficheiro temporário, resolvido com a repetição dos 14 lotes afetados do juiz b por um juiz novo em pasta própria.
+
 **Texto alterado com o acervo consolidado** (09/11/2026, `texto-alterado-novo`: as 99 perguntas de texto alterado, índice reconstruído com os 1.056 diplomas que a frente B pôs em vigor em `data/`, modo estrito, sem reescrita, quatro juízes às cegas): o texto em vigor chega ao 1.º lugar em 66% (antes 43%, quando só existia o original com aviso); o modo estrito deixa passar 41 respostas em vez de zero e os quatro juízes dão as **41 como certas** (limite inferior 91%); "não sei" 59%. As 58 recusadas são, na maioria, diplomas cujo artigo ainda traz o aviso "Texto original; alterado por…" (54 das 99 mensagens): só se resolvem com mais consolidação. Ressalva: 41 respostas é pouco para um intervalo apertado, e os juízes são o mesmo modelo.
 
 **Perguntas como as escreve um utilizador** (30/10/2026, `coloquial`): as 281 reais reescritas, com a mesma resposta certa, em três perfis (pessoa de 65 anos, jovem de 22, pessoa aflita com um caso): pouco contexto, sem termos jurídicos, sem números de artigos. Quatro juízes às cegas.

@@ -1,0 +1,65 @@
+{
+ "configuracao": {
+  "reranker": "cruzado",
+  "limiar": 3.0,
+  "llm": "sessão do Claude"
+ },
+ "resumo": {
+  "literal": {
+   "n": 250,
+   "nao_sei": 1,
+   "respondidas": 249,
+   "certas": 237,
+   "artigo@1": 234,
+   "texto@1": 234,
+   "artigo@5": 249,
+   "texto@5": 249,
+   "artigo@10": 249,
+   "texto@10": 249,
+   "com_fonte": 250
+  },
+  "temporal": {
+   "n": 102,
+   "nao_sei": 4,
+   "respondidas": 98,
+   "certas": 89,
+   "artigo@1": 96,
+   "texto@1": 96,
+   "artigo@5": 102,
+   "texto@5": 102,
+   "artigo@10": 102,
+   "texto@10": 102,
+   "com_fonte": 102
+  },
+  "revogada": {
+   "n": 55,
+   "nao_sei": 0,
+   "respondidas": 55,
+   "certas": 55,
+   "artigo@1": 53,
+   "texto@1": 53,
+   "artigo@5": 55,
+   "texto@5": 55,
+   "artigo@10": 55,
+   "texto@10": 55,
+   "com_fonte": 55,
+   "avisa_revogacao@1": 55,
+   "revogado_por_certo@1": 55
+  },
+  "total": {
+   "n": 407,
+   "nao_sei": 5,
+   "respondidas": 402,
+   "certas": 381,
+   "artigo@1": 383,
+   "texto@1": 383,
+   "artigo@5": 406,
+   "texto@5": 406,
+   "artigo@10": 406,
+   "texto@10": 406,
+   "com_fonte": 407,
+   "avisa_revogacao@1": 55,
+   "revogado_por_certo@1": 55
+  }
+ }
+}
