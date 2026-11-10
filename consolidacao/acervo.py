@@ -271,7 +271,7 @@ def main() -> int:
             acervo.write_history(caminho, dados)
         aplicados += 1
         print(f"{'(dry-run) ' if args.dry_run else ''}{resultado['path']}: {len(alteracoes)} alteração(ões) de {len(alteradores)} alterador(es) ({resultado['estado']}), em vigor desde {data_alteracao}")
-    print(f"Aplicados: {aplicados}. Já aplicados: {ja_aplicados}. Recusados: {len(recusados)}. Verificados que já não estão aplicados: {len(fora)}. Consolidados por verificar: {sem_verificar}.")
+    print(f"Aplicados: {aplicados}. Já aplicados: {ja_aplicados}. Recusados: {len(recusados)}. Verificados que já não estão aplicados: {len(fora)}. Consolidados sem saída ou com reparos na última ronda (não se aplicam): {sem_verificar}.")
     for linha in recusados + fora:
         print("  ", linha)
     return 1 if recusados else 0
