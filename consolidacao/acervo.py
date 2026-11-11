@@ -220,6 +220,11 @@ def main() -> int:
             fora.append(f"{resultado['title']}: {resultado['estado']} ({resultado['motivo']})")
             continue
         piloto = RAIZ / resultado["consolidado"]
+        if not piloto.exists():
+            # Um juntado cujo consolidado não chegou ao repositório (ficou por fazer commit no ramo
+            # de origem): fica como estava, em vez de parar a aplicação dos outros.
+            recusados.append(f"{id_}: o consolidado não está no repositório ({resultado['consolidado']})")
+            continue
         consolidado = corpo(piloto.read_text(encoding="utf-8"))
         if _NOTA_PILOTO.sub("", consolidado) != entrada["texto_consolidado"]:
             recusados.append(f"{id_}: o consolidado mudou depois da verificação às cegas")
