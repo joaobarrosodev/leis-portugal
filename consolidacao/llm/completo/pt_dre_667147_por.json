@@ -2,21 +2,45 @@
   "id": "pt:dre:667147:por",
   "artigos": [
     {
-      "chave": "7.º",
+      "chave": "7.º#2",
       "epigrafe": "Forma",
       "texto": "1 - O contrato de arrendamento urbano deve ser celebrado por escrito.\n\n2 - A inobservância da forma escrita só pode ser suprida pela exibição do recibo de renda e determina a aplicação do regime de renda condicionada, sem que daí possa resultar aumento de renda.\n\n3 - No caso dos arrendamentos sujeitos a registo, a falta deste não impede que o contrato se considere plenamente eficaz pelo prazo máximo por que o poderia ser sem essa exigência, desde que tenha sido observada a forma escrita.",
       "alterador": 10
     },
     {
-      "chave": "9.º",
+      "chave": "9.º#2",
       "epigrafe": "Licença de utilização",
       "texto": "1 - Só podem ser objecto de arrendamento urbano os edifícios ou suas fracções cuja aptidão para o fim pretendido pelo contrato seja atestado pela licença de utilização, passada pela autoridade municipal competente, mediante vistoria realizada menos de oito anos antes da celebração do contrato.\n\n2 - Quando as partes aleguem urgência na celebração do contrato, a licença referida no número anterior pode ser substituída por documento comprovativo de a mesma ter sido requerida, em conformidade com o direito à utilização do prédio nos termos legais e com a antecedência mínima requerida por lei.\n\n3 - A mudança de finalidade no sentido de permitir arrendamentos comerciais deve ser sempre previamente autorizada pela câmara municipal, seja através de nova licença, seja por averbamento à anterior.\n\n4 - A existência de licença de utilização bastante ou, quando isso não seja possível, do documento comprovativo da mesma ter sido requerida deve ser referida no próprio texto do contrato, nos termos da alínea c) do n.º 2 do artigo anterior, não podendo ser celebrado qualquer contrato de arrendamento sem essa menção.\n\n5 - A inobservância do disposto nos n.os 1 a 3, por causa imputável ao senhorio, determina a sujeição do mesmo a uma coima não inferior a um ano de renda, observados os limites legais, salvo quando a falta de licença se fique a dever a atraso que não lhe seja imputável.\n\n6 - Na situação prevista no número anterior, o arrendatário pode resolver o contrato, com direito a indemnização nos termos gerais, ou requerer a notificação do senhorio para a realização das obras necessárias, aplicando-se o regime dos artigos 14.º a 18.º e mantendo-se a renda inicialmente fixada, salvo o disposto no número seguinte.\n\n7 - O arrendamento não habitacional de locais licenciados apenas para habitação é nulo, sem prejuízo, sendo esse o caso, da aplicação da sanção prevista no n.º 5 e do direito do arrendatário à indemnização.",
       "alterador": 10
     },
     {
-      "chave": "12.º",
+      "chave": "12.º#2",
       "epigrafe": "Obras de conservação ordinária",
-      "texto": "1 - As obras de conservação ordinária estão a cargo do senhorio, sem prejuízo do disposto no artigo 1043.º do Código Civil e no artigo 4.º do presente diploma.\n\n2 - A realização das obras referidas no número anterior dá lugar à actualização das rendas regulada nos artigos 38.º e 39.º",
+      "texto": "As obras de conservação ordinária estão a cargo do senhorio, sem prejuízo do disposto no artigo 1043.º do Código Civil e nos artigos 4.º e 120.º do presente diploma.",
+      "alterador": 4
+    },
+    {
+      "chave": "13.º#2",
+      "epigrafe": "Obras de conservação extraordinária e de beneficiação",
+      "texto": "1 - As obras de conservação extraordinária e de beneficiação ficam a cargo do senhorio quando, nos termos das leis administrativas em vigor, a sua execução lhe seja ordenada pela câmara municipal competente ou quando haja acordo escrito das partes no sentido da sua realização, com discriminação das obras a efectuar.\n\n2 - A realização das obras referidas no número anterior dá lugar à actualização das rendas regulada nos artigos 38.º e 39.º\n\n3 - Ficam ressalvados todos os direitos que o senhorio e o arrendatário tenham perante terceiros.",
+      "alterador": 11
+    },
+    {
+      "chave": "15.º#2",
+      "epigrafe": "Execução administrativa",
+      "texto": "1 - Para efeitos da execução das obras coercivas, nos termos previstos nos artigos 91.º e 107.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, pode a câmara municipal proceder ao despejo administrativo, ocupar o prédio ou fogos, total ou parcialmente, até ao período de um ano após a data da conclusão das obras, devendo proceder, se for o caso, ao arrolamento de bens.\n\n2 - O início das obras deve, no entanto, ser precedido da elaboração de um orçamento do respectivo custo, a comunicar ao senhorio, por escrito, e que representa o valor máximo pelo qual este é responsável.\n\n3 - O pagamento das obras executadas pela câmara municipal nos termos do número anterior deve ser feito através do recebimento das rendas, até ao limite previsto no n.º 5, durante o tempo necessário ao reembolso integral das despesas efectuadas e respectivos juros, acrescidos de 10% destinados a encargos gerais de administração.\n\n4 - Após a ocupação do prédio referida no n.º 1, a câmara municipal notificará os arrendatários, por carta registada ou por afixação de edital na porta da respectiva casa e na sede da junta de freguesia, de que as rendas deverão ser depositadas nos termos do artigo 23.º à ordem da mesma câmara.\n\n5 - O senhorio tem o direito de levantar os depósitos até ao montante autorizado expressamente pela respectiva câmara municipal, que não pode ser inferior a 30% da renda efectivamente cobrada à data da ocupação referida no n.º 1.\n\n6 - No prazo de 10 dias após ter sido requerida pelo senhorio, a câmara municipal respectiva deverá emitir declaração para os efeitos referidos no número anterior.\n\n7 - No caso previsto no n.º 1 e para efeitos do disposto no n.º 3, pode a câmara municipal arrendar os fogos devolutos, por concurso público, em regime de renda condicionada nos termos do artigo 98.º, pelo prazo mínimo de três anos e máximo de oito anos, não sendo aplicável a caducidade prevista no n.º 2 do artigo 66.º\n\n8 - O disposto no número anterior não é aplicável se o senhorio arrendar os fogos devolutos, por valor não inferior ao da renda condicionada, no prazo de quatro meses após a ocupação do prédio pela câmara municipal ou após a conclusão das obras.\n\n9 - A ocupação referida no n.º 1 cessa automaticamente um ano após a conclusão das obras, sem prejuízo do disposto nos n.os 7 e 12.\n\n10 - Aos contratos de arrendamento celebrados posteriormente à data de ocupação referida no n.º 1 é aplicável o disposto nos n.os 3, 4 e 6, bem como o disposto no n.º 7 relativamente ao valor da renda.\n\n11 - No prazo de 10 dias após o reembolso integral referido no n.º 3, a câmara municipal respectiva notificará os inquilinos da cessação do dever referido no n.º 4 nos termos nele estatuídos.\n\n12 - A notificação de intimação do despejo prevista no n.º 3 do artigo 92.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, será efectuada nos termos previstos no n.º 4.\n\n13 - O aumento de renda referido no n.º 5 do artigo 92.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, será apurado nos termos do Regime Especial de Comparticipação na Recuperação de Imóveis Arrendados (RECRIA).\n\n14 - Para efeitos do arrolamento referido no n.º 1, proceder-se-á da seguinte forma:\n\na) Será lavrado auto em que se descrevam os bens, em verbas numeradas, como em inventário.\n\nO auto mencionará ainda todas as ocorrências com interesse e será assinado pelo funcionário que o lavre e pelo possuidor dos bens, se existir, devendo intervir duas testemunhas quando for assinado por este último;\n\nb) Ao acto de arrolamento assiste o possuidor ou detentor dos bens, sempre que esteja no local ou seja possível chamá-lo e queira assistir. Pode este interessado fazer-se representar por mandatário judicial;\n\nc) Os bens arrolados ficam depositados à guarda da câmara municipal e serão entregues ao arrendatário, a requerimento deste, sem prejuízo de só poderem ser repostos no fogo despejando após a conclusão das respectivas obras;\n\nd) São aplicáveis ao arrolamento as disposições relativas à penhora, com as devidas adaptações, em tudo que não contrarie o estabelecido neste artigo.\n\n15 - Os inquilinos que não dêem cumprimento à intimação a que se refere o n.º 12 serão responsáveis por todas as despesas resultantes do despejo, depósito e arrolamento dos bens.\n\n16 - Para efeito do disposto no n.º 1, mantêm-se em vigor todas as vistorias e actos administrativos subsequentes praticados até à entrada em vigor do referido diploma.",
+      "alterador": 11
+    },
+    {
+      "chave": "16.º#2",
+      "epigrafe": "Execução pelo arrendatário",
+      "texto": "1 - O arrendatário, quando a câmara municipal não inicie as obras a que se refere o artigo 15.º, n.º 1, no prazo de 120 dias a contar da recepção do requerimento por ele formulado, pode proceder à sua execução.\n\n2 - No caso previsto no número anterior, o arrendatário deve obter previamente, junto da câmara municipal, um orçamento do respectivo custo, a comunicar ao senhorio, por escrito, e que repressenta o valor máximo pelo qual este é o responsável.\n\n3 - Havendo pluralidade de arrendatários, o disposto nos números anteriores, relativamente às partes comuns, depende do assentimento de, pelo menos, metade deles, ficando os restantes vinculados.\n\n4 - O presente artigo não prejudica o disposto no artigo 1036.º do Código Civil.\n\n5 - Nos casos a que se referem os n.os 1 e 4 pode ainda o arrendatário submeter à aprovação da câmara municipal o orçamento para execução das obras.",
+      "alterador": 11
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Reembolso do arrendatário",
+      "texto": "Quando o arrendatário execute as obras ao abrigo do artigo 16.º, e enquanto não estiver integralmente reembolsado das despesas efectuadas e respectivos juros, acrescidos de 10% destinados a despesas de administração, apenas é obrigado a pagar ao senhorio 30% da renda vigente à data da notificação municipal ao senhorio para a execução das referidas obras.",
       "alterador": 11
     },
     {
@@ -32,9 +56,51 @@
       "alterador": 11
     },
     {
+      "chave": "32.º",
+      "epigrafe": "Coeficiente de actualização",
+      "texto": "1 - O coeficiente de actualização anual de renda dos diversos tipos de arrendamento é o resultante da totalidade da variação do índice de preços no consumidor, sem habitação, correspondente aos últimos 12 meses e para os quais existam valores disponíveis à data de 31 de Agosto, apurado pelo Instituto Nacional de Estatística.\n\n2 - O Instituto Nacional de Estatística fará publicar no Diário da República até 30 de Outubro o aviso com o coeficiente referido no número anterior.\n\n3 - A renda resultante da actualização referida no n.º 1 deve ser arredondada para a centena de escudos imediatamente superior.",
+      "alterador": 11
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Recurso a comissão especial",
+      "texto": "1 - Quando o senhorio rejeite o montante indicado, nos termos do n.º 3 do artigo 35.º, o arrendatário pode, nos 15 dias subsequentes à recepção da comunicação da rejeição, requerer a fixação definitiva do aumento devido a uma comissão especial ou ao tribunal de comarca competente, no prazo de 30 dias, sob pena de aceitação definitiva.\n\n2 - A composição e o funcionamento da comissão são definidos por portaria conjunta dos Ministros do Equipamento Social, das Finanças, da Economia e da Justiça.\n\n3 - À comissão referida nos números anteriores aplica-se o regime previsto na legislação processual civil para o tribunal arbitral necessário.\n\n4 - A renda anterior mantém-se até à decisão final, sem prejuízo do disposto no artigo seguinte.",
+      "alterador": 11
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "Disposição geral",
+      "texto": "1 - Quando o senhorio realize no prédio obras de conservação ordinária ou extraordinária, ou obras de beneficiação que se enquadrem na lei geral ou local necessárias para a concessão de licença de utilização e que sejam aprovadas ou compelidas pela respectiva câmara municipal, pode exigir do arrendatário um aumento de renda apurado nos termos do Regime Especial de Comparticipação na Recuperação de Imóveis Arrendados (RECRIA).\n\n2 - A renda actualizada nos termos do número anterior ou a que resulte de obras realizadas ao abrigo do RECRIA é exigível no mês subsequente ao da conclusão das obras, sendo actualizável nos termos da alínea a) do n.º 1 do artigo 31.º\n\n3 - O disposto neste preceito não prejudica a possibilidade do acordo referido no artigo seguinte.\n\n4 - A actualização por obras de conservação ordinária prevista no n.º 1 só é aplicável aos arrendatários que se mantenham no local arrendado há oito ou mais anos nessa qualidade, considerando-se também para este efeito como tendo a qualidade de arrendatário a pessoa a quem tal posição se transfira por força dos artigos 84.º e 85.º, contando-se o decurso do tempo de que o transmitente já beneficiasse.",
+      "alterador": 11
+    },
+    {
+      "chave": "56.º",
+      "epigrafe": "Forma do processo",
+      "texto": "1 - A acção de despejo, na sua fase declarativa, segue a tramitação do processo comum com as alterações constantes do presente diploma.\n\n2 - Juntamente com o pedido de despejo, o autor pode requerer a condenação do réu no pagamento de rendas ou de indemnização.\n\n3 - Quando o pedido de despejo tiver por fundamento a falta de residência permanente do arrendatário e quando este tenha na área das comarcas de Lisboa ou do Porto e suas limítrofes ou na respectiva localidade quanto ao resto do País outra residência ou a propriedade de imóvel para habitação adquirido após o início da relação de arrendamento, com excepção dos casos de sucessão mortis causa, pode o senhorio, simultaneamente, pedir uma indemnização igual ao valor da renda condicionada, desde o termo do prazo para contestar até à entrega efectiva da habitação.\n\n4 - O réu, ao contestar, pode deduzir em reconvenção o seu direito a benfeitorias ou a uma indemnização.",
+      "alterador": 11
+    },
+    {
+      "chave": "64.º",
+      "epigrafe": "Casos de resolução pelo senhorio",
+      "texto": "1 - O senhorio só pode resolver o contrato se o arrendatário:\n\na) Não pagar a renda no tempo e lugar próprios nem fizer depósito liberatório;\n\nb) Usar ou consentir que outrem use o prédio arrendado para fim ou ramo de negócio diverso daquele ou daqueles a que se destina;\n\nc) Aplicar o prédio, reiterada ou habitualmente, a práticas ilícitas, imorais ou desonestas;\n\nd) Fizer no prédio, sem consentimento escrito do senhorio, obras que alterem substancialmente a sua estrutura externa ou a disposição interna das suas divisões, ou praticar actos que nele causem deteriorações consideráveis, igualmente não consentidas e que não possam justificar-se nos termos dos artigos 1043.º do Código Civil ou 4.º do presente diploma;\n\ne) Dar hospedagem a mais de três pessoas das mencionadas no n.º 3 do artigo 76.º, quando não seja esse o fim para que o prédio foi arrendado; ou violar cláusula contratual, estabelecida nos termos da alínea b) do n.º 1 do mesmo artigo;\n\nf) Subarrendar ou emprestar, total ou parcialmente, o prédio arrendado, ou ceder a sua posição contratual, nos casos em que estes actos são ilícitos, inválidos por falta de forma ou ineficazes em relação ao senhorio, salvo o disposto no artigo 1049.º do Código Civil;\n\ng) Cobrar do subarrendatário renda superior à que é permitida nos termos do artigo 1062.º do Código Civil;\n\nh) Conservar encerrado, por mais de um ano, o prédio arrendado para comércio, indústria ou exercício de profissão liberal, salvo caso de força maior ou ausência forçada do arrendatário que não se prolongue por mais de dois anos;\n\ni) Conservar o prédio desabitado por mais de um ano ou, sendo o prédio destinado a habitação, não tiver nele residência permanente, habite ou não outra casa, própria ou alheia;\n\nj) Deixar de prestar ao proprietário ou ao senhorio os serviços pessoais que determinaram a ocupação do prédio.\n\n2 - Não tem aplicação o disposto na alínea i) do número anterior:\n\na) Em caso de força maior ou de doença;\n\nb) Se o arrendatário se ausentar por tempo não superior a dois anos, em cumprimento de deveres militares, ou no exercício de outras funções públicas ou de serviço particular por conta de outrem, e bem assim sem dependência de prazo, se a ausência resultar de comissão de serviço publico, civil ou militar por tempo determinado;\n\nc) Se permanecerem no prédio o cônjuge ou parentes em linha recta do arrendatário ou outros familiares dele, desde que, neste último caso, com ele convivessem há mais de um ano.",
+      "alterador": 11
+    },
+    {
       "chave": "69.º",
       "epigrafe": "Casos de denúncia pelo senhorio",
       "texto": "1 - Sem prejuízo dos casos previstos no artigo 89.º-A, o senhorio pode denunciar o contrato para o termo do prazo ou da sua renovação nos casos seguintes:\n\na) Quando necessite do prédio para sua habitação ou dos seus descendentes em 1.º grau;\n\nb) Quando necessite do prédio para nele construir a sua residência ou dos seus descendentes em 1.º grau;\n\nc) Quando se proponha ampliar o prédio ou nele construir novos edifícios por forma a aumentar o número de locais arrendáveis e disponha do respectivo projecto de arquitectura, aprovado pela câmara municipal;\n\nd) Quando o prédio esteja degradado e não se mostre aconselhável, sob o aspecto técnico ou económico, a respectiva beneficiação ou reparação e esteja aprovado pela câmara municipal o respectivo projecto de arquitectura.\n\n2 - O disposto neste artigo não é aplicável às casas de saúde nem aos estabelecimentos de ensino oficial ou particular.",
+      "alterador": 11
+    },
+    {
+      "chave": "71.º",
+      "epigrafe": "Denúncia para habitação",
+      "texto": "1 - O direito de denúncia para habitação do senhorio depende, em relação a ele, da verificação dos seguintes requisitos:\n\na) Ser proprietário, comproprietário ou usufrutuário do prédio há mais de cinco anos, ou, independentemente deste prazo, se o tiver adquirido por sucessão;\n\nb) Não ter, há mais de um ano, na área das comarcas de Lisboa ou do Porto e suas limítrofes ou na respectiva localidade quanto ao resto do País casa própria ou arrendada que satisfaça as necessidades de habitação própria ou dos seus descendentes em 1.º grau.\n\n2 - O senhorio que tiver diversos prédios arrendados só pode denunciar o contrato relativamente àquele que, satisfazendo às necessidades de habitação própria e da família, esteja arrendado há menos tempo.\n\n3 - O direito de denúncia para habitação do descendente está sujeito à verificação do requisito previsto na alínea a) do n.º 1 relativamente ao senhorio e do da alínea b) do mesmo número para o descendente.",
+      "alterador": 11
+    },
+    {
+      "chave": "73.º",
+      "epigrafe": "Denúncia para aumento da capacidade do prédio ou por degradação do mesmo",
+      "texto": "1 - A denúncia do contrato para aumento do número de locais arrendáveis é objecto de legislação especial.\n\n2 - À denúncia do contrato previsto na alínea d) do n.º 1 do artigo 69.º aplica-se o regime referido no número anterior.",
       "alterador": 11
     },
     {
@@ -98,6 +164,12 @@
       "alterador": 1
     },
     {
+      "chave": "107.º",
+      "epigrafe": "Limitações",
+      "texto": "1 - O direito de denúncia do contrato de arrendamento, facultado ao senhorio pelas alíneas a) e b) do n.º 1 do artigo 69.º, não pode ser exercido quando no momento em que deva produzir efeitos ocorra alguma das seguintes circunstâncias:\n\na) Ter o arrendatário 65 ou mais anos de idade ou, independentemente desta, se encontre na situação de reforma por invalidez absoluta, ou, não beneficiando de pensão de invalidez, sofra de incapacidade total para o trabalho, ou seja portador de deficiência a que corresponda incapacidade superior a dois terços;\n\nb) Manter-se o arrendatário no local arrendado há 30 ou mais anos, nessa qualidade, ou por um período de tempo mais curto previsto em lei anterior e decorrido na vigência desta.\n\n2 - Para efeitos da alínea b) do número anterior, considera-se como tendo a qualidade de arrendatário o cônjuge a quem tal posição se transfira, nos termos dos artigos 84.º e 85.º, contando-se a seu favor o decurso do tempo de que o transmitente já beneficiasse.",
+      "alterador": 11
+    },
+    {
       "chave": "111.º",
       "epigrafe": "Cessão de exploração do estabelecimento comercial",
       "texto": "1 - Não é havido como arrendamento de prédio urbano ou rústico o contrato pelo qual alguém transfere temporária e onerosamente para outrem, juntamente com o gozo do prédio, a exploração de um estabelecimento comercial ou industrial nele instalado.\n\n2 - Se, porém, ocorrer alguma das circunstâncias previstas no n.º 2 do artigo 115.º, o contrato passa a ser havido como arrendamento do prédio.\n\n3 - A cessão de exploração do estabelecimento comercial deve constar de documento escrito, sob pena de nulidade.",
@@ -150,98 +222,26 @@
       "epigrafe": "Arrendamentos para outros fins",
       "texto": "1 - Aos contratos de arrendamento urbano para qualquer aplicação lícita do prédio, não habitacional e diferente das constantes dos capítulos III e IV do presente diploma, pode ser aplicável o disposto nos artigos 117.º a 120.º, sem prejuízo do disposto no número seguinte.\n\n2 - Se o contrato de arrendamento se destinar ao exercício de uma actividade não lucrativa, podem as partes, em alternativa e de forma expressa, convencionar a respectiva sujeição ao regime dos artigos 98.º a 101.º do presente diploma.",
       "alterador": 4
-    },
-    {
-      "chave": "15.º",
-      "epigrafe": "Execução administrativa",
-      "texto": "1 - Para efeitos da execução das obras coercivas, nos termos previstos nos artigos 91.º e 107.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, pode a câmara municipal proceder ao despejo administrativo, ocupar o prédio ou fogos, total ou parcialmente, até ao período de um ano após a data da conclusão das obras, devendo proceder, se for o caso, ao arrolamento de bens.\n\n2 - O início das obras deve, no entanto, ser precedido da elaboração de um orçamento do respectivo custo, a comunicar ao senhorio, por escrito, e que representa o valor máximo pelo qual este é responsável.\n\n3 - O pagamento das obras executadas pela câmara municipal nos termos do número anterior deve ser feito através do recebimento das rendas, até ao limite previsto no n.º 5, durante o tempo necessário ao reembolso integral das despesas efectuadas e respectivos juros, acrescidos de 10% destinados a encargos gerais de administração.\n\n4 - Após a ocupação do prédio referida no n.º 1, a câmara municipal notificará os arrendatários, por carta registada ou por afixação de edital na porta da respectiva casa e na sede da junta de freguesia, de que as rendas deverão ser depositadas nos termos do artigo 23.º à ordem da mesma câmara.\n\n5 - O senhorio tem o direito de levantar os depósitos até ao montante autorizado expressamente pela respectiva câmara municipal, que não pode ser inferior a 30% da renda efectivamente cobrada à data da ocupação referida no n.º 1.\n\n6 - No prazo de 10 dias após ter sido requerida pelo senhorio, a câmara municipal respectiva deverá emitir declaração para os efeitos referidos no número anterior.\n\n7 - No caso previsto no n.º 1 e para efeitos do disposto no n.º 3, pode a câmara municipal arrendar os fogos devolutos, por concurso público, em regime de renda condicionada nos termos do artigo 98.º, pelo prazo mínimo de três anos e máximo de oito anos, não sendo aplicável a caducidade prevista no n.º 2 do artigo 66.º\n\n8 - O disposto no número anterior não é aplicável se o senhorio arrendar os fogos devolutos, por valor não inferior ao da renda condicionada, no prazo de quatro meses após a ocupação do prédio pela câmara municipal ou após a conclusão das obras.\n\n9 - A ocupação referida no n.º 1 cessa automaticamente um ano após a conclusão das obras, sem prejuízo do disposto nos n.os 7 e 12.\n\n10 - Aos contratos de arrendamento celebrados posteriormente à data de ocupação referida no n.º 1 é aplicável o disposto nos n.os 3, 4 e 6, bem como o disposto no n.º 7 relativamente ao valor da renda.\n\n11 - No prazo de 10 dias após o reembolso integral referido no n.º 3, a câmara municipal respectiva notificará os inquilinos da cessação do dever referido no n.º 4 nos termos nele estatuídos.\n\n12 - A notificação de intimação do despejo prevista no n.º 3 do artigo 92.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, será efectuada nos termos previstos no n.º 4.\n\n13 - O aumento de renda referido no n.º 5 do artigo 92.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, será apurado nos termos do Regime Especial de Comparticipação na Recuperação de Imóveis Arrendados (RECRIA).\n\n14 - Para efeitos do arrolamento referido no n.º 1, proceder-se-á da seguinte forma:\n\na) Será lavrado auto em que se descrevam os bens, em verbas numeradas, como em inventário.\n\nO auto mencionará ainda todas as ocorrências com interesse e será assinado pelo funcionário que o lavre e pelo possuidor dos bens, se existir, devendo intervir duas testemunhas quando for assinado por este último;\n\nb) Ao acto de arrolamento assiste o possuidor ou detentor dos bens, sempre que esteja no local ou seja possível chamá-lo e queira assistir. Pode este interessado fazer-se representar por mandatário judicial;\n\nc) Os bens arrolados ficam depositados à guarda da câmara municipal e serão entregues ao arrendatário, a requerimento deste, sem prejuízo de só poderem ser repostos no fogo despejando após a conclusão das respectivas obras;\n\nd) São aplicáveis ao arrolamento as disposições relativas à penhora, com as devidas adaptações, em tudo que não contrarie o estabelecido neste artigo.\n\n15 - Os inquilinos que não dêem cumprimento à intimação a que se refere o n.º 12 serão responsáveis por todas as despesas resultantes do despejo, depósito e arrolamento dos bens.\n\n16 - Para efeito do disposto no n.º 1, mantêm-se em vigor todas as vistorias e actos administrativos subsequentes praticados até à entrada em vigor do referido diploma.",
-      "alterador": 11
-    },
-    {
-      "chave": "16.º",
-      "epigrafe": "Execução pelo arrendatário",
-      "texto": "1 - O arrendatário, quando a câmara municipal não inicie as obras a que se refere o artigo 15.º, n.º 1, no prazo de 120 dias a contar da recepção do requerimento por ele formulado, pode proceder à sua execução.\n\n2 - No caso previsto no número anterior, o arrendatário deve obter previamente, junto da câmara municipal, um orçamento do respectivo custo, a comunicar ao senhorio, por escrito, e que repressenta o valor máximo pelo qual este é o responsável.\n\n3 - Havendo pluralidade de arrendatários, o disposto nos números anteriores, relativamente às partes comuns, depende do assentimento de, pelo menos, metade deles, ficando os restantes vinculados.\n\n4 - O presente artigo não prejudica o disposto no artigo 1036.º do Código Civil.\n\n5 - Nos casos a que se referem os n.os 1 e 4 pode ainda o arrendatário submeter à aprovação da câmara municipal o orçamento para execução das obras.",
-      "alterador": 11
-    },
-    {
-      "chave": "18.º",
-      "epigrafe": "Reembolso do arrendatário",
-      "texto": "Quando o arrendatário execute as obras ao abrigo do artigo 16.º, e enquanto não estiver integralmente reembolsado das despesas efectuadas e respectivos juros, acrescidos de 10% destinados a despesas de administração, apenas é obrigado a pagar ao senhorio 30% da renda vigente à data da notificação municipal ao senhorio para a execução das referidas obras.",
-      "alterador": 11
-    },
-    {
-      "chave": "32.º",
-      "epigrafe": "Coeficiente de actualização",
-      "texto": "1 - O coeficiente de actualização anual de renda dos diversos tipos de arrendamento é o resultante da totalidade da variação do índice de preços no consumidor, sem habitação, correspondente aos últimos 12 meses e para os quais existam valores disponíveis à data de 31 de Agosto, apurado pelo Instituto Nacional de Estatística.\n\n2 - O Instituto Nacional de Estatística fará publicar no Diário da República até 30 de Outubro o aviso com o coeficiente referido no número anterior.\n\n3 - A renda resultante da actualização referida no n.º 1 deve ser arredondada para a centena de escudos imediatamente superior.",
-      "alterador": 11
-    },
-    {
-      "chave": "36.º",
-      "epigrafe": "Recurso a comissão especial",
-      "texto": "1 - Quando o senhorio rejeite o montante indicado, nos termos do n.º 3 do artigo 35.º, o arrendatário pode, nos 15 dias subsequentes à recepção da comunicação da rejeição, requerer a fixação definitiva do aumento devido a uma comissão especial ou ao tribunal de comarca competente, no prazo de 30 dias, sob pena de aceitação definitiva.\n\n2 - A composição e o funcionamento da comissão são definidos por portaria conjunta dos Ministros do Equipamento Social, das Finanças, da Economia e da Justiça.\n\n3 - À comissão referida nos números anteriores aplica-se o regime previsto na legislação processual civil para o tribunal arbitral necessário.\n\n4 - A renda anterior mantém-se até à decisão final, sem prejuízo do disposto no artigo seguinte.",
-      "alterador": 11
-    },
-    {
-      "chave": "38.º",
-      "epigrafe": "Disposição geral",
-      "texto": "1 - Quando o senhorio realize no prédio obras de conservação ordinária ou extraordinária, ou obras de beneficiação que se enquadrem na lei geral ou local necessárias para a concessão de licença de utilização e que sejam aprovadas ou compelidas pela respectiva câmara municipal, pode exigir do arrendatário um aumento de renda apurado nos termos do Regime Especial de Comparticipação na Recuperação de Imóveis Arrendados (RECRIA).\n\n2 - A renda actualizada nos termos do número anterior ou a que resulte de obras realizadas ao abrigo do RECRIA é exigível no mês subsequente ao da conclusão das obras, sendo actualizável nos termos da alínea a) do n.º 1 do artigo 31.º\n\n3 - O disposto neste preceito não prejudica a possibilidade do acordo referido no artigo seguinte.\n\n4 - A actualização por obras de conservação ordinária prevista no n.º 1 só é aplicável aos arrendatários que se mantenham no local arrendado há oito ou mais anos nessa qualidade, considerando-se também para este efeito como tendo a qualidade de arrendatário a pessoa a quem tal posição se transfira por força dos artigos 84.º e 85.º, contando-se o decurso do tempo de que o transmitente já beneficiasse.",
-      "alterador": 11
-    },
-    {
-      "chave": "56.º",
-      "epigrafe": "Forma do processo",
-      "texto": "1 - A acção de despejo, na sua fase declarativa, segue a tramitação do processo comum com as alterações constantes do presente diploma.\n\n2 - Juntamente com o pedido de despejo, o autor pode requerer a condenação do réu no pagamento de rendas ou de indemnização.\n\n3 - Quando o pedido de despejo tiver por fundamento a falta de residência permanente do arrendatário e quando este tenha na área das comarcas de Lisboa ou do Porto e suas limítrofes ou na respectiva localidade quanto ao resto do País outra residência ou a propriedade de imóvel para habitação adquirido após o início da relação de arrendamento, com excepção dos casos de sucessão mortis causa, pode o senhorio, simultaneamente, pedir uma indemnização igual ao valor da renda condicionada, desde o termo do prazo para contestar até à entrega efectiva da habitação.\n\n4 - O réu, ao contestar, pode deduzir em reconvenção o seu direito a benfeitorias ou a uma indemnização.",
-      "alterador": 11
-    },
-    {
-      "chave": "64.º",
-      "epigrafe": "Casos de resolução pelo senhorio",
-      "texto": "1 - O senhorio só pode resolver o contrato se o arrendatário:\n\na) Não pagar a renda no tempo e lugar próprios nem fizer depósito liberatório;\n\nb) Usar ou consentir que outrem use o prédio arrendado para fim ou ramo de negócio diverso daquele ou daqueles a que se destina;\n\nc) Aplicar o prédio, reiterada ou habitualmente, a práticas ilícitas, imorais ou desonestas;\n\nd) Fizer no prédio, sem consentimento escrito do senhorio, obras que alterem substancialmente a sua estrutura externa ou a disposição interna das suas divisões, ou praticar actos que nele causem deteriorações consideráveis, igualmente não consentidas e que não possam justificar-se nos termos dos artigos 1043.º do Código Civil ou 4.º do presente diploma;\n\ne) Dar hospedagem a mais de três pessoas das mencionadas no n.º 3 do artigo 76.º, quando não seja esse o fim para que o prédio foi arrendado; ou violar cláusula contratual, estabelecida nos termos da alínea b) do n.º 1 do mesmo artigo;\n\nf) Subarrendar ou emprestar, total ou parcialmente, o prédio arrendado, ou ceder a sua posição contratual, nos casos em que estes actos são ilícitos, inválidos por falta de forma ou ineficazes em relação ao senhorio, salvo o disposto no artigo 1049.º do Código Civil;\n\ng) Cobrar do subarrendatário renda superior à que é permitida nos termos do artigo 1062.º do Código Civil;\n\nh) Conservar encerrado, por mais de um ano, o prédio arrendado para comércio, indústria ou exercício de profissão liberal, salvo caso de força maior ou ausência forçada do arrendatário que não se prolongue por mais de dois anos;\n\ni) Conservar o prédio desabitado por mais de um ano ou, sendo o prédio destinado a habitação, não tiver nele residência permanente, habite ou não outra casa, própria ou alheia;\n\nj) Deixar de prestar ao proprietário ou ao senhorio os serviços pessoais que determinaram a ocupação do prédio.\n\n2 - Não tem aplicação o disposto na alínea i) do número anterior:\n\na) Em caso de força maior ou de doença;\n\nb) Se o arrendatário se ausentar por tempo não superior a dois anos, em cumprimento de deveres militares, ou no exercício de outras funções públicas ou de serviço particular por conta de outrem, e bem assim sem dependência de prazo, se a ausência resultar de comissão de serviço publico, civil ou militar por tempo determinado;\n\nc) Se permanecerem no prédio o cônjuge ou parentes em linha recta do arrendatário ou outros familiares dele, desde que, neste último caso, com ele convivessem há mais de um ano.",
-      "alterador": 11
-    },
-    {
-      "chave": "71.º",
-      "epigrafe": "Denúncia para habitação",
-      "texto": "1 - O direito de denúncia para habitação do senhorio depende, em relação a ele, da verificação dos seguintes requisitos:\n\na) Ser proprietário, comproprietário ou usufrutuário do prédio há mais de cinco anos, ou, independentemente deste prazo, se o tiver adquirido por sucessão;\n\nb) Não ter, há mais de um ano, na área das comarcas de Lisboa ou do Porto e suas limítrofes ou na respectiva localidade quanto ao resto do País casa própria ou arrendada que satisfaça as necessidades de habitação própria ou dos seus descendentes em 1.º grau.\n\n2 - O senhorio que tiver diversos prédios arrendados só pode denunciar o contrato relativamente àquele que, satisfazendo às necessidades de habitação própria e da família, esteja arrendado há menos tempo.\n\n3 - O direito de denúncia para habitação do descendente está sujeito à verificação do requisito previsto na alínea a) do n.º 1 relativamente ao senhorio e do da alínea b) do mesmo número para o descendente.",
-      "alterador": 11
-    },
-    {
-      "chave": "73.º",
-      "epigrafe": "Denúncia para aumento da capacidade do prédio ou por degradação do mesmo",
-      "texto": "1 - A denúncia do contrato para aumento do número de locais arrendáveis é objecto de legislação especial.\n\n2 - À denúncia do contrato previsto na alínea d) do n.º 1 do artigo 69.º aplica-se o regime referido no número anterior.",
-      "alterador": 11
-    },
-    {
-      "chave": "107.º",
-      "epigrafe": "Limitações",
-      "texto": "1 - O direito de denúncia do contrato de arrendamento, facultado ao senhorio pelas alíneas a) e b) do n.º 1 do artigo 69.º, não pode ser exercido quando no momento em que deva produzir efeitos ocorra alguma das seguintes circunstâncias:\n\na) Ter o arrendatário 65 ou mais anos de idade ou, independentemente desta, se encontre na situação de reforma por invalidez absoluta, ou, não beneficiando de pensão de invalidez, sofra de incapacidade total para o trabalho, ou seja portador de deficiência a que corresponda incapacidade superior a dois terços;\n\nb) Manter-se o arrendatário no local arrendado há 30 ou mais anos, nessa qualidade, ou por um período de tempo mais curto previsto em lei anterior e decorrido na vigência desta.\n\n2 - Para efeitos da alínea b) do número anterior, considera-se como tendo a qualidade de arrendatário o cônjuge a quem tal posição se transfira, nos termos dos artigos 84.º e 85.º, contando-se a seu favor o decurso do tempo de que o transmitente já beneficiasse.",
-      "alterador": 11
     }
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 6 (Acórdão n.º 114/98): declara inconstitucional, com força obrigatória geral, o n.º 1 do artigo 36.º do RAU — não é alteração textual, texto do 36.º mantido sem mudança. Alterador 7 (Acórdão n.º 55/99): declara inconstitucional a alínea a) do n.º 1 do artigo 69.º na parte 'ou dos seus descendentes em 1.º grau' — não é alteração textual, a alínea a) ficou tal como está (o 69.º só mudou pelo alterador 1). Alterador 9 (Acórdão n.º 97/2000): declara inconstitucional a alínea b) do n.º 1 do artigo 107.º — não é alteração textual, 107.º mantido. Nota sobre chaves: o pedido tem dois artigos com as chaves 7.º, 9.º e 12.º (os do decreto-lei preambular e os do Regime do Arrendamento Urbano); as alterações aos 7.º, 9.º e 12.º aqui devolvidas referem-se aos artigos do Regime do Arrendamento Urbano (epígrafes Forma, Licença de utilização, Obras de conservação ordinária), e não aos artigos 7.º, 9.º e 12.º do decreto-lei preambular, que não mudam. | Alterador 14 (Lei n.º 6/2006), art. 60.º, n.º 1: revoga o RAU inteiro 'com todas as alterações subsequentes, salvo nas matérias a que se referem os artigos 26.º e 28.º' — revogação global com ressalva por matéria (e o art. 26.º mantém expressamente a alínea a) do n.º 1 do artigo 107.º), não é uma revogação textual artigo a artigo que se possa aplicar com segurança; não marquei nenhum artigo como revogado. Nota: as chaves 12.º, 15.º e 16.º existem duas vezes no texto atual (artigos do decreto preambular e artigos do Regime do Arrendamento Urbano); as alterações do alterador 11 dirigem-se às do RAU (segundo bloco), que foram as que devolvi.",
+  "nao_aplicavel": "Alterador 4 (DL 257/95, art. 5.º) adita um 'CAPÍTULO V — Do arrendamento para outros fins não habitacionais' (antes do art. 123.º): título novo, não está no texto atual, não vai em 'titulos'; os arts. 117.º a 120.º novos inserem-se no capítulo III (antes do título do capítulo IV), posição que a resposta não exprime. Alteradores 6 (Ac. TC 114/98, art. 36.º n.º 1), 7 (Ac. TC 55/99, art. 69.º n.º 1 a), na parte dos descendentes) e 9 (Ac. TC 97/2000, art. 107.º n.º 1 b)): declarações de inconstitucionalidade com força obrigatória geral, não textuais; de resto essas normas foram depois reescritas pelo DL 329-B/2000 (alterador 11), cuja redação se aplicou. Alterador 14 (Lei 6/2006, art. 60.º): revoga o RAU 'salvo nas matérias a que se referem os artigos 26.º e 28.º' — revogação ressalvada/parcial, sem alvo textual determinado; não aplicada. Alterador 13 (Lei 7/2001) só revoga a Lei 135/99 (não toca o texto do RAU); alteradores 15 e 16 não têm instruções para o original. Nota: o alterador 11 diz 'Artigo 12.º' com '1 - ... 2 - A realização das obras referidas no número anterior dá lugar à actualização das rendas regulada nos artigos 38.º e 39.º'; o art. 12.º não tem números e esse texto é o n.º 2 do art. 13.º (que remetia para o art. 38.º), pelo que se aplicou ao 13.º#2.",
   "instrucoes": [
-    "Alt. 1, art. 1.º: nova redacção do 30.º (passa a um único parágrafo), da alínea a) do n.º 1 do 31.º, do proémio do n.º 1 do 69.º, do 78.º (n.os 1 e 2), do n.º 1 do 89.º e do n.º 2 do 99.º — aplicado.",
-    "Alt. 1, art. 1.º, 89.º: a redacção nova só enumera os n.os 1 e 2 (eliminação do n.º 3); o alterador 5 (Acórdão n.º 410/97) declarou inconstitucional com força obrigatória geral essa eliminação, pelo que o n.º 3 ficou com o texto atual.",
-    "Alt. 1, art. 2.º: aditados os artigos 81.º-A, 89.º-A, 89.º-B, 89.º-C e 89.º-D (este sem epígrafe) — aplicado.",
-    "Alt. 1, art. 3.º: regime fiscal da indemnização (não altera o texto do original) — ignorado.",
-    "Alt. 2, artigo único: 81.º-A com novo n.º 2 e o anterior n.º 2 passa a n.º 3 — aplicado (alterador 2).",
-    "Alt. 3, art. 1.º e 2.º: alterações ao Código Civil — ignoradas; art. 3.º: novo n.º 4 do 84.º — aplicado.",
-    "Alt. 4, art. 1.º: nova redacção do 12.º do RAU — aplicado. Art. 2.º: inseridos os novos 117.º a 120.º — aplicado. Art. 3.º: os antigos 117.º e 118.º passam a 121.º e 122.º — aplicado (as chaves 117.º e 118.º continuam a existir com o conteúdo novo, por isso nada vai em removidos). Art. 4.º: nova redacção do 121.º (Remissão) — aplicado. Art. 5.º: aditado o capítulo V com o 123.º — aplicado (o título do capítulo não é artigo). Art. 6.º: norma transitória, não altera o texto.",
-    "Alt. 5 (Acórdão n.º 410/97): inconstitucionalidade da eliminação do n.º 3 do 89.º — aplicado mantendo o n.º 3.",
-    "Alt. 6 (Acórdão n.º 114/98): inconstitucionalidade do n.º 1 do 36.º — não textual, ver nao_aplicavel.",
-    "Alt. 7 (Acórdão n.º 55/99): inconstitucionalidade parcial da alínea a) do n.º 1 do 69.º — não textual, ver nao_aplicavel.",
-    "Alt. 8, art. 5.º: nova redacção do 85.º do RAU (o título diz 'Artigo 5.º' por gralha, mas a instrução refere o 85.º): nova alínea e) do n.º 1, novo n.º 2, anteriores n.os 2 e 3 passam a 3 e 4 — aplicado. Art. 4.º da lei só remete para o 84.º, não o altera.",
-    "Alt. 9 (Acórdão n.º 97/2000): inconstitucionalidade da alínea b) do n.º 1 do 107.º — não textual, ver nao_aplicavel.",
-    "Alt. 10, art. 1.º: 7.º passa a ter só três números (n.os 2 e 3 novos, antigo n.º 4 desaparece); novo n.º 4 do 9.º; novo n.º 3 do 111.º; novo n.º 3 do 115.º; novo n.º 2 do 122.º — aplicado. Art. 2.º altera o Código do Notariado — ignorado.",
-    "Alterador 11, art. 1.º: nova redacção dos arts. 12.º, 15.º, 16.º, 18.º, 31.º, 32.º, 36.º, 38.º, 56.º, 64.º, 69.º, 71.º, 73.º e 107.º do RAU — aplicadas: 12.º (corpo passa a n.º 1, aditado n.º 2), 15.º (n.os 1 e 3 a 16 novos, n.º 2 mantido), 16.º (aditado n.º 5), 18.º (corpo novo), 31.º (alíneas a) e b) do n.º 1 novas), 32.º (todo novo), 36.º (n.os 1 a 3 novos, anterior n.º 3 passa a n.º 4), 38.º (n.os 1, 2 e 4 novos), 56.º (n.º 3 novo, anterior n.º 3 passa a n.º 4), 64.º (alínea e) do n.º 1 nova), 69.º (alíneas a) a d) do n.º 1 novas), 71.º (aditado n.º 3), 73.º (nova epígrafe e corpo em dois números), 107.º (n.º 1 novo).",
-    "Alterador 11, arts. 2.º a 4.º: alteram a Lei n.º 2088, o DL 105/96 e o DL 68/86 — outros diplomas, ignorados. Art. 5.º: norma transitória sobre o DL 555/99, não altera o texto.",
-    "Alterador 12 (Lei n.º 6/2001), art. 6.º: aditada a alínea f) ao n.º 1 do art. 85.º — aplicada.",
-    "Alterador 13 (Lei n.º 7/2001): nenhuma instrução dirigida ao original (o art. 5.º, n.º 10, remete para o Código Civil).",
-    "Alterador 14 (Lei n.º 6/2006), arts. 26.º, 27.º e 60.º: regime transitório e revogação global do RAU com ressalvas — não aplicada ao texto (ver nao_aplicavel).",
-    "Alterador 15 (Lei n.º 29/2009): sem artigos que mencionem o original.",
-    "Alterador 16 (Lei n.º 24/2017): só menciona o DL 321-B/90 na lista de alterações ao Código Civil; nenhuma instrução dirigida ao original."
+    "Alt. 1 (DL 278/93) art. 1.º: nova redação dos arts. 30.º, 31.º, 69.º, 78.º, 89.º e 99.º do RAU; 31.º e 69.º depois refeitos pelo alt. 11; 89.º: n.º 1 novo, n.º 3 mantido (ver alt. 5).",
+    "Alt. 1 art. 2.º: aditados 81.º-A, 89.º-A, 89.º-B, 89.º-C, 89.º-D (89.º-D sem epígrafe).",
+    "Alt. 2 (Lei 13/94): 81.º-A com novo n.º 2 e antigo n.º 2 como n.º 3.",
+    "Alt. 3 (DL 163/95) art. 3.º: n.º 4 do 84.º; o resto do diploma altera o Código Civil (ignorado).",
+    "Alt. 4 (DL 257/95): 12.º#2 nova redação; aditados 117.º a 120.º; antigos 117.º e 118.º passam a 121.º e 122.º; 121.º com nova redação; aditado 123.º (e capítulo V, não representável em 'titulos').",
+    "Alt. 5 (Ac. TC 410/97): inconstitucional a eliminação do n.º 3 do 89.º pelo DL 278/93; o n.º 3 mantém-se.",
+    "Alt. 6, 7, 9 (Acs. TC 114/98, 55/99, 97/2000): declarações de inconstitucionalidade não textuais; ver nao_aplicavel.",
+    "Alt. 8 (Lei 135/99) art. 5.º (diz 'Artigo 5.º' mas é o 85.º): nova alínea e), novo n.º 2, antigos n.os 2 e 3 passam a 3 e 4.",
+    "Alt. 10 (DL 64-A/2000): 7.º#2 (n.os 2 e 3 novos, sai o antigo n.º 4), 9.º#2 n.º 4, 111.º n.º 3 aditado, 115.º n.º 3, 122.º n.º 2; o resto altera o Código do Notariado.",
+    "Alt. 11 (DL 329-B/2000) art. 1.º: 13.º#2 n.º 2 (texto indicado como 'Artigo 12.º'), 15.º#2, 16.º#2 (n.º 5), 18.º, 31.º, 32.º, 36.º, 38.º, 56.º, 64.º (alínea e) do n.º 1), 69.º, 71.º (n.º 3), 73.º (epígrafe e texto), 107.º; arts. 2.º-4.º alteram outros diplomas (ignorados).",
+    "Alt. 12 (Lei 6/2001) art. 6.º: aditada a alínea f) ao n.º 1 do 85.º.",
+    "Alt. 13 (Lei 7/2001): revoga a Lei 135/99, sem efeito no texto do RAU.",
+    "Alt. 14 (Lei 6/2006) art. 60.º: revogação do RAU com ressalva das matérias dos arts. 26.º e 28.º; não aplicada (ver nao_aplicavel).",
+    "Alt. 15 e 16: sem instruções para o original."
   ],
   "modelo": "claude-fable-5-1",
   "pedido": "completo",
@@ -258,14 +258,7 @@
         7,
         8,
         9,
-        10
-      ],
-      "chars": 214064,
-      "artigos": 25
-    },
-    {
-      "n": 2,
-      "alteradores": [
+        10,
         11,
         12,
         13,
@@ -273,8 +266,8 @@
         15,
         16
       ],
-      "chars": 149488,
-      "artigos": 15
+      "chars": 282632,
+      "artigos": 37
     }
   ],
   "problemas": []

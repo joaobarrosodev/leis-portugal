@@ -519,3 +519,38 @@ Os 19 que não chegam ao acervo:
 **Leis do orçamento:** não pedidas. A Lei n.º 30-G/2000 (reforma fiscal, não orçamento, mas do mesmo tipo) mostra o padrão: em 46 alteradores, só 2 mudaram o texto dela.
 
 Os ficheiros de trabalho (pedidos, respostas por passagem, vistas da ronda 23) estão no scratchpad da sessão. O que fica no repositório é `llm/completo/<id>.json`, já fundido, e `verificacao/entrada-piloto-23-lote-01.jsonl` com a saída ao lado.
+
+### Correções depois do bloco 1 e rondas 40 e 41
+
+Feito a pedido, antes do bloco 2, para atacar as causas da ronda 23. Nada em `data/`. As rondas são a 40 e a 41, porque a 24 a 28 estão ocupadas no `main`.
+
+**O que mudou no código:**
+
+- **Títulos de divisão.** O pedido mostra-os pela ordem do texto ("#### Título de divisão: …"). A resposta pode trazer `titulos` para mudar a designação ou a epígrafe de um título, ou para o eliminar. O texto novo passa pela verificação letra a letra. Um título repetido (o mesmo "TÍTULO II" em dois livros) é o primeiro a seguir ao anterior da lista. Mover e aditar títulos continua por exprimir.
+- **Chaves repetidas.** O decreto que aprova e o estatuto que vem a seguir na mesma parte têm artigos com a mesma chave. A segunda ocorrência vem como "4.º#2" no pedido e na resposta (`texto.Corpo.artigo`). A remoção é por identidade.
+- **Fórmulas finais.** `_recolocar_assinaturas` só move as fórmulas que, no original publicado, estão no último artigo da parte. Antes movia também as do decreto que aprova um regulamento, e punha-as no fim do regulamento. Isto mudou o texto de 29 juntados de rondas anteriores, que foram à ronda 40, e 12 deles passam agora.
+- **Regras novas no pedido.** Um artigo que as regras deixaram errado pode ser corrigido. Uma revogação adiada para um facto futuro (um regulamento, um plano, uma portaria) não se aplica.
+- `verificar._REVOGADO` aceita "1.ª (Revogada.)".
+
+**O que se repediu:** 4 das 5 respostas recusadas letra a letra, ao mesmo subagente, só com o parágrafo recusado. O DL 46311 fica de fora, porque a última passagem adita uma tabela inteira, em anexo novo, que o formato não exprime. Refizeram-se de raiz, com o pedido novo, os 4 recusados por títulos (DL 376/87, 34-A/90, 361/78 e 139-A/90) e os 3 de chaves repetidas (DL 321-B/90, DLR n.º 2/2007/A e DL 408/93). Acabou-se a Lei n.º 30-G/2000 (8 passagens).
+
+| Bloco 1 | Ronda 23 | Rondas 40 e 41 |
+| --- | --: | --: |
+| Juntados e verificados | 16 | 21 |
+| Sem reparos às cegas | 6 | **8** |
+| Sobre o bloco (25) | 24% | **32%** |
+| Sobre os verificados | 38% | 38% |
+
+Os 2 novos sem reparos são o DL 376/87 (o título da secção IV) e o Decreto n.º 47478 (as fórmulas finais no sítio). Ganhar 2 com 5 juntados a mais deixa o bloco **ainda abaixo dos 35%**, por isso o bloco 2 continua parado. Fica o que melhorou sem passar:
+
+- **DL 139-A/90:** de 2 errados e 5 dúvidas para 0 errados e 2 dúvidas. As alíneas vêm com "..." de um diploma anterior que não está entre os alteradores.
+- **DL 34-A/90:** 375 de 378 certos. Continua o artigo 2.º "(Revogado.)" das regras, que o LLM não desfez apesar da regra nova. Falta uma tabela que só existe em imagem.
+- **DL 361/78:** falta um título aditado ("DIVISÃO XI — Funchal").
+- **DL 321-B/90:** as chaves certas, mas um artigo com texto a mais e o capítulo V aditado.
+- **DLR n.º 2/2007/A:** 25 de 25 certos, mas uma renomeação de hospitais não literal e um apêndice em imagem.
+
+O DL 408/93 passou na ronda 41 e é do bloco 2, como o DR n.º 12/79. Dos 7 do bloco 2 já verificados, 2 estão sem reparos. Os outros 18 estão por pedir.
+
+**Aplicáveis (`acervo.py --dry-run`): 19.** São 8 do bloco 1, 2 do bloco 2 e 9 juntados anteriores corrigidos pelas fórmulas finais. Há também 2 verificados sem reparos que o `acervo.py` recusa, porque o registo em `data/` já é o consolidado anterior: `pt:dre:643086:por` e `pt:dre:348524:por`. Aplicar a versão nova pede que o `acervo.py` saiba substituir um consolidado seu.
+
+**O que ainda faria subir o rendimento:** aditar e mover títulos de divisão (DL 361/78, 321-B/90, 633/76); a fonte dos "..." quando a redação intermédia vem de um diploma que não está entre os alteradores; e anexos e tabelas, que só existem em imagem e continuam a ser a primeira causa nos diplomas grandes.

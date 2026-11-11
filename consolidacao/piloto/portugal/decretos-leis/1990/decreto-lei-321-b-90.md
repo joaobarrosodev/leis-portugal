@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:583855:por
     title: Decreto-Lei n.º 64-A/2000
     publication_date: '2000-04-22'
+  - id: pt:dre:575727:por
+    title: Decreto-Lei n.º 257/95
+    publication_date: '1995-09-30'
   - id: pt:dre:516973:por
     title: Decreto-Lei n.º 329-B/2000
     publication_date: '2000-12-22'
@@ -25,9 +28,6 @@ consolidacao:
   - id: pt:dre:314191:por
     title: Lei n.º 6/2001
     publication_date: '2001-05-11'
-  - id: pt:dre:575727:por
-    title: Decreto-Lei n.º 257/95
-    publication_date: '1995-09-30'
 ---
 
 # Decreto-Lei n.º 321-B/90
@@ -202,37 +202,17 @@ Revogação do n.º 3 do artigo 1029.º e do n.º 2 do artigo 1051.º do Código
 
 O disposto nos artigos 7.º e 8.º do Regime do Arrendamento Urbano não prejudica os precisos efeitos que os artigos 1.º do [Decreto-Lei n.º 13/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1986-192247), de 23 de Janeiro, e 1029.º, n.º 3, do Código Civil reconheciam aos contratos celebrados antes da entrada em vigor do presente diploma.
 
-###### Artigo 7.º — Forma
+###### Artigo 7.º — Novo regime de transmissão por morte
 
-1 - O contrato de arrendamento urbano deve ser celebrado por escrito.
-
-2 - A inobservância da forma escrita só pode ser suprida pela exibição do recibo de renda e determina a aplicação do regime de renda condicionada, sem que daí possa resultar aumento de renda.
-
-3 - No caso dos arrendamentos sujeitos a registo, a falta deste não impede que o contrato se considere plenamente eficaz pelo prazo máximo por que o poderia ser sem essa exigência, desde que tenha sido observada a forma escrita.
-
-> Alterado pelo/a [Decreto-Lei n.º 64-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2000-583855), publicado em 2000-04-22.
+Os contratos de arrendamento transmitidos por força do artigo 85.º do Regime do Arrendamento Urbano, e a que se aplique o regime de renda condicionada, nos termos do artigo 87.º, mantêm até 31 de Outubro de 1993 o montante da renda vigente à data da transmissão, sem prejuízo da sua actualização anual, nos termas gerais.
 
 ###### Artigo 8.º — Contratos de duração limitada celebrados por SGII e FII
 
 As sociedades de gestão e investimento imobiliário (SGII) e os fundos de investimento imobiliário (FII) podem celebrar contratos de duração limitada, ao abrigo do n.º 3 do artigo 98.º do Regime do Arrendamento Urbano, relativamente a uma percentagem dos fogos que integrem, por força de lei, o património imobiliário destinado a arrendamento para habitação, a fixar por portaria dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-###### Artigo 9.º — Licença de utilização
+###### Artigo 9.º — Avaliações extraordinárias e correcções extraordinárias de rendas
 
-1 - Só podem ser objecto de arrendamento urbano os edifícios ou suas fracções cuja aptidão para o fim pretendido pelo contrato seja atestado pela licença de utilização, passada pela autoridade municipal competente, mediante vistoria realizada menos de oito anos antes da celebração do contrato.
-
-2 - Quando as partes aleguem urgência na celebração do contrato, a licença referida no número anterior pode ser substituída por documento comprovativo de a mesma ter sido requerida, em conformidade com o direito à utilização do prédio nos termos legais e com a antecedência mínima requerida por lei.
-
-3 - A mudança de finalidade no sentido de permitir arrendamentos comerciais deve ser sempre previamente autorizada pela câmara municipal, seja através de nova licença, seja por averbamento à anterior.
-
-4 - A existência de licença de utilização bastante ou, quando isso não seja possível, do documento comprovativo da mesma ter sido requerida deve ser referida no próprio texto do contrato, nos termos da alínea c) do n.º 2 do artigo anterior, não podendo ser celebrado qualquer contrato de arrendamento sem essa menção.
-
-5 - A inobservância do disposto nos n.os 1 a 3, por causa imputável ao senhorio, determina a sujeição do mesmo a uma coima não inferior a um ano de renda, observados os limites legais, salvo quando a falta de licença se fique a dever a atraso que não lhe seja imputável.
-
-6 - Na situação prevista no número anterior, o arrendatário pode resolver o contrato, com direito a indemnização nos termos gerais, ou requerer a notificação do senhorio para a realização das obras necessárias, aplicando-se o regime dos artigos 14.º a 18.º e mantendo-se a renda inicialmente fixada, salvo o disposto no número seguinte.
-
-7 - O arrendamento não habitacional de locais licenciados apenas para habitação é nulo, sem prejuízo, sendo esse o caso, da aplicação da sanção prevista no n.º 5 e do direito do arrendatário à indemnização.
-
-> Alterado pelo/a [Decreto-Lei n.º 64-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2000-583855), publicado em 2000-04-22.
+O disposto no artigo 4.º do [Decreto-Lei n.º 330/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1981-567896), de 4 de Dezembro, com a redacção dada pelo [Decreto-Lei n.º 392/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-1982-375839), de 18 de Setembro, nos artigos 5.º a 11.º do [Decreto-Lei n.º 436/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/436-1983-443522), de 19 de Dezembro, com o alcance resultante do n.º 17, alínea c), do Acórdão do Tribunal Constitucional n.º 77/88, de 12 de Abril de 1988, e nos artigos 11.º a 15.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), de 20 de Setembro, no tocante a avaliações extraordinárias e a correcções extraordinárias de rendas, bem como a legislação para que eles remetam, mantém-se em vigor enquanto tiver aplicação.
 
 ###### Artigo 10.º — Valor real dos fogos
 
@@ -246,13 +226,9 @@ b) Nos arrendamentos não habitacionais, pelo produto da capitalização das ren
 
 Enquanto não entrarem em funções as comissões de avaliação previstas no Código das Avaliações, mantêm-se em funções as comissões de avaliação previstas no Decreto-Lei n.º 37021, de 20 de Agosto de 1948, com as alterações introduzidas pelo [Decreto n.º 37784](https://diariodarepublica.pt/dr/detalhe/decreto/37784-1950-658920), de 14 de Março de 1950, e pelos Decretos Regulamentares n.os [1/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1986-616471), de 2 de Janeiro, e [1/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1989-234489), de 7 de Janeiro.
 
-###### Artigo 12.º — Obras de conservação ordinária
+###### Artigo 12.º — Subsídio de renda
 
-1 - As obras de conservação ordinária estão a cargo do senhorio, sem prejuízo do disposto no artigo 1043.º do Código Civil e no artigo 4.º do presente diploma.
-
-2 - A realização das obras referidas no número anterior dá lugar à actualização das rendas regulada nos artigos 38.º e 39.º
-
-> Alterado pelo/a [Decreto-Lei n.º 329-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-2000-516973), publicado em 2000-12-22.
+Mantêm-se em vigor os artigos 22.º a 27.º e 36.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), de 20 de Setembro, e o [Decreto-Lei n.º 68/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1986-196194), de 27 de Março, no que respeita à atribuição do subsídio de renda.
 
 ###### Artigo 13.º — Prédios arrendados nos termos do artigo 31.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451)
 
@@ -262,65 +238,17 @@ O disposto nos artigos 31.º a 34.º e no artigo 39.º da [Lei n.º 46/85](https
 
 Os senhorios que recebam rendas superiores às fixadas na lei, recusem recibo de renda ou recebam quantia superior ao mês de caução na celebração do contrato de arrendamento e os inquilinos que recebam qualquer quantia que não lhes seja devida, pela desocupação do local arrendado, quando haja cessado o arrendamento, cometem crime de especulação, punível nos termos da legislação respectiva.
 
-###### Artigo 15.º — Execução administrativa
+###### Artigo 15.º — Falsas declarações
 
-1 - Para efeitos da execução das obras coercivas, nos termos previstos nos artigos 91.º e 107.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, pode a câmara municipal proceder ao despejo administrativo, ocupar o prédio ou fogos, total ou parcialmente, até ao período de um ano após a data da conclusão das obras, devendo proceder, se for o caso, ao arrolamento de bens.
+1 - A prestação pelo arrendatário de falsas declarações para obtenção do subsídio de renda, para além de constituir conduta ilícita nos termos da legislação penal, dá lugar à restituição dos montantes indevidamente recebidos acrescidos de 100%, à cessação do pagamento do subsídio relativo ao período de pagamento em curso e à suspensão do direito do subsídio de renda pelo período de um a 10 anos.
 
-2 - O início das obras deve, no entanto, ser precedido da elaboração de um orçamento do respectivo custo, a comunicar ao senhorio, por escrito, e que representa o valor máximo pelo qual este é responsável.
+2 - O acréscimo referido no número anterior constitui receita do Fundo de Socorro Social do Instituto de Gestão Financeira da Segurança Social.
 
-3 - O pagamento das obras executadas pela câmara municipal nos termos do número anterior deve ser feito através do recebimento das rendas, até ao limite previsto no n.º 5, durante o tempo necessário ao reembolso integral das despesas efectuadas e respectivos juros, acrescidos de 10% destinados a encargos gerais de administração.
+3 - A pena correspondente ao crime previsto no n.º 1 só pode ser suspensa quando as quantias indevidamente recebidas e o competente agravamento sejam restituídas no prazo de 60 dias, contado do trânsito em julgado da sentença.
 
-4 - Após a ocupação do prédio referida no n.º 1, a câmara municipal notificará os arrendatários, por carta registada ou por afixação de edital na porta da respectiva casa e na sede da junta de freguesia, de que as rendas deverão ser depositadas nos termos do artigo 23.º à ordem da mesma câmara.
+###### Artigo 16.º — Direito de representação das associações de inquilinos
 
-5 - O senhorio tem o direito de levantar os depósitos até ao montante autorizado expressamente pela respectiva câmara municipal, que não pode ser inferior a 30% da renda efectivamente cobrada à data da ocupação referida no n.º 1.
-
-6 - No prazo de 10 dias após ter sido requerida pelo senhorio, a câmara municipal respectiva deverá emitir declaração para os efeitos referidos no número anterior.
-
-7 - No caso previsto no n.º 1 e para efeitos do disposto no n.º 3, pode a câmara municipal arrendar os fogos devolutos, por concurso público, em regime de renda condicionada nos termos do artigo 98.º, pelo prazo mínimo de três anos e máximo de oito anos, não sendo aplicável a caducidade prevista no n.º 2 do artigo 66.º
-
-8 - O disposto no número anterior não é aplicável se o senhorio arrendar os fogos devolutos, por valor não inferior ao da renda condicionada, no prazo de quatro meses após a ocupação do prédio pela câmara municipal ou após a conclusão das obras.
-
-9 - A ocupação referida no n.º 1 cessa automaticamente um ano após a conclusão das obras, sem prejuízo do disposto nos n.os 7 e 12.
-
-10 - Aos contratos de arrendamento celebrados posteriormente à data de ocupação referida no n.º 1 é aplicável o disposto nos n.os 3, 4 e 6, bem como o disposto no n.º 7 relativamente ao valor da renda.
-
-11 - No prazo de 10 dias após o reembolso integral referido no n.º 3, a câmara municipal respectiva notificará os inquilinos da cessação do dever referido no n.º 4 nos termos nele estatuídos.
-
-12 - A notificação de intimação do despejo prevista no n.º 3 do artigo 92.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, será efectuada nos termos previstos no n.º 4.
-
-13 - O aumento de renda referido no n.º 5 do artigo 92.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, será apurado nos termos do Regime Especial de Comparticipação na Recuperação de Imóveis Arrendados (RECRIA).
-
-14 - Para efeitos do arrolamento referido no n.º 1, proceder-se-á da seguinte forma:
-
-a) Será lavrado auto em que se descrevam os bens, em verbas numeradas, como em inventário.
-
-O auto mencionará ainda todas as ocorrências com interesse e será assinado pelo funcionário que o lavre e pelo possuidor dos bens, se existir, devendo intervir duas testemunhas quando for assinado por este último;
-
-b) Ao acto de arrolamento assiste o possuidor ou detentor dos bens, sempre que esteja no local ou seja possível chamá-lo e queira assistir. Pode este interessado fazer-se representar por mandatário judicial;
-
-c) Os bens arrolados ficam depositados à guarda da câmara municipal e serão entregues ao arrendatário, a requerimento deste, sem prejuízo de só poderem ser repostos no fogo despejando após a conclusão das respectivas obras;
-
-d) São aplicáveis ao arrolamento as disposições relativas à penhora, com as devidas adaptações, em tudo que não contrarie o estabelecido neste artigo.
-
-15 - Os inquilinos que não dêem cumprimento à intimação a que se refere o n.º 12 serão responsáveis por todas as despesas resultantes do despejo, depósito e arrolamento dos bens.
-
-16 - Para efeito do disposto no n.º 1, mantêm-se em vigor todas as vistorias e actos administrativos subsequentes praticados até à entrada em vigor do referido diploma.
-
-> Alterado pelo/a [Decreto-Lei n.º 329-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-2000-516973), publicado em 2000-12-22.
-
-###### Artigo 16.º — Execução pelo arrendatário
-
-1 - O arrendatário, quando a câmara municipal não inicie as obras a que se refere o artigo 15.º, n.º 1, no prazo de 120 dias a contar da recepção do requerimento por ele formulado, pode proceder à sua execução.
-
-2 - No caso previsto no número anterior, o arrendatário deve obter previamente, junto da câmara municipal, um orçamento do respectivo custo, a comunicar ao senhorio, por escrito, e que repressenta o valor máximo pelo qual este é o responsável.
-
-3 - Havendo pluralidade de arrendatários, o disposto nos números anteriores, relativamente às partes comuns, depende do assentimento de, pelo menos, metade deles, ficando os restantes vinculados.
-
-4 - O presente artigo não prejudica o disposto no artigo 1036.º do Código Civil.
-
-5 - Nos casos a que se referem os n.os 1 e 4 pode ainda o arrendatário submeter à aprovação da câmara municipal o orçamento para execução das obras.
-
-> Alterado pelo/a [Decreto-Lei n.º 329-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-2000-516973), publicado em 2000-12-22.
+As associações de inquilinos, constituídas nos termos do n.º 2 do artigo 12.º da [Lei n.º 29/81](https://diariodarepublica.pt/dr/detalhe/lei/29-1981-575922), de 22 de Agosto, quando expressamente autorizadas pelos interessados, gozam de legitimidade para assegurar a defesa judicial dos seus membros em questões relativas à habitação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Setembro de 1990. - Joaquim Fernando Nogueira - Álvaro José Brilhante Laborinho Lúcio - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - José Albino da Silva Peneda - José António Leite de Araújo.
 
@@ -392,15 +320,11 @@ f) Os arrendamentos sujeitos a legislação especial.
 
 1 - O contrato de arrendamento urbano deve ser celebrado por escrito.
 
-2 - Devem ser reduzidos a escritura pública:
+2 - A inobservância da forma escrita só pode ser suprida pela exibição do recibo de renda e determina a aplicação do regime de renda condicionada, sem que daí possa resultar aumento de renda.
 
-a) Os arrendamentos sujeitos a registo;
+3 - No caso dos arrendamentos sujeitos a registo, a falta deste não impede que o contrato se considere plenamente eficaz pelo prazo máximo por que o poderia ser sem essa exigência, desde que tenha sido observada a forma escrita.
 
-b) Os arrendamentos para o comércio, indústria ou exercício de profissão liberal.
-
-3 - No caso do n.º 1, a inobservância da forma escrita só pode ser suprida pela exibição do recibo de renda e determina a aplicação do regime de renda condicionada, sem que daí possa resultar aumento de renda.
-
-4 - No caso da alínea a) do n.º 2, a falta de escritura pública ou de registo não impede que o contrato se considere validamente celebrado e plenamente eficaz pelo prazo máximo por que o poderia ser sem a exigência de escritura pública e de registo, desde que tenha sido observada a forma escrita.
+> Alterado pelo/a [Decreto-Lei n.º 64-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2000-583855), publicado em 2000-04-22.
 
 ###### Artigo 8.º — Conteúdo
 
@@ -446,13 +370,15 @@ i) Quaisquer outras cláusulas facultadas por lei e pretendidas pelas partes, di
 
 3 - A mudança de finalidade no sentido de permitir arrendamentos comerciais deve ser sempre previamente autorizada pela câmara municipal, seja através de nova licença, seja por averbamento à anterior.
 
-4 - A existência da licença de utilização bastante ou, quando isso não seja possível, do documento comprovativo da mesma ter sido requerida, deve ser referida no próprio texto do contrato, nos termos do n.º 2, da alínea c), do artigo anterior, não podendo ser celebrada qualquer escritura pública de arrendamento sem essa menção.
+4 - A existência de licença de utilização bastante ou, quando isso não seja possível, do documento comprovativo da mesma ter sido requerida deve ser referida no próprio texto do contrato, nos termos da alínea c) do n.º 2 do artigo anterior, não podendo ser celebrado qualquer contrato de arrendamento sem essa menção.
 
 5 - A inobservância do disposto nos n.os 1 a 3, por causa imputável ao senhorio, determina a sujeição do mesmo a uma coima não inferior a um ano de renda, observados os limites legais, salvo quando a falta de licença se fique a dever a atraso que não lhe seja imputável.
 
 6 - Na situação prevista no número anterior, o arrendatário pode resolver o contrato, com direito a indemnização nos termos gerais, ou requerer a notificação do senhorio para a realização das obras necessárias, aplicando-se o regime dos artigos 14.º a 18.º e mantendo-se a renda inicialmente fixada, salvo o disposto no número seguinte.
 
 7 - O arrendamento não habitacional de locais licenciados apenas para habitação é nulo, sem prejuízo, sendo esse o caso, da aplicação da sanção prevista no n.º 5 e do direito do arrendatário à indemnização.
+
+> Alterado pelo/a [Decreto-Lei n.º 64-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2000-583855), publicado em 2000-04-22.
 
 #### SECÇÃO III — Do prazo
 
@@ -480,15 +406,19 @@ c) Em geral, as obras destinadas a manter o prédio nas condições requeridas p
 
 ###### Artigo 12.º — Obras de conservação ordinária
 
-As obras de conservação ordinária estão a cargo do senhorio, sem prejuízo do disposto no artigo 1043.º do Código Civil e no artigo 4.º do presente diploma.
+As obras de conservação ordinária estão a cargo do senhorio, sem prejuízo do disposto no artigo 1043.º do Código Civil e nos artigos 4.º e 120.º do presente diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 257/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1995-575727), publicado em 1995-09-30.
 
 ###### Artigo 13.º — Obras de conservação extraordinária e de beneficiação
 
 1 - As obras de conservação extraordinária e de beneficiação ficam a cargo do senhorio quando, nos termos das leis administrativas em vigor, a sua execução lhe seja ordenada pela câmara municipal competente ou quando haja acordo escrito das partes no sentido da sua realização, com discriminação das obras a efectuar.
 
-2 - A realização das obras referidas no número anterior dá lugar à actualização das rendas regulada no artigo 38.º
+2 - A realização das obras referidas no número anterior dá lugar à actualização das rendas regulada nos artigos 38.º e 39.º
 
 3 - Ficam ressalvados todos os direitos que o senhorio e o arrendatário tenham perante terceiros.
+
+> Alterado pelo/a [Decreto-Lei n.º 329-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-2000-516973), publicado em 2000-12-22.
 
 ###### Artigo 14.º — Depósito da actualização das rendas
 
@@ -502,11 +432,49 @@ As obras de conservação ordinária estão a cargo do senhorio, sem prejuízo d
 
 ###### Artigo 15.º — Execução administrativa
 
-1 - Quando o senhorio não executar as obras de conservação ou de beneficiação que lhe caibam no prazo fixado pela câmara municipal, pode esta deliberar, por sua iniciativa ou a requerimento do arrendatário, precedendo vistoria, ocupar o prédio de harmonia com o Regulamento Geral das Edificações Urbanas, para o efeito de mandar proceder à sua execução imediata.
+1 - Para efeitos da execução das obras coercivas, nos termos previstos nos artigos 91.º e 107.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, pode a câmara municipal proceder ao despejo administrativo, ocupar o prédio ou fogos, total ou parcialmente, até ao período de um ano após a data da conclusão das obras, devendo proceder, se for o caso, ao arrolamento de bens.
 
 2 - O início das obras deve, no entanto, ser precedido da elaboração de um orçamento do respectivo custo, a comunicar ao senhorio, por escrito, e que representa o valor máximo pelo qual este é responsável.
 
-3 - O pagamento das obras executadas pela câmara municipal nos termos do número anterior deve ser feito em prestações mensais até ao valor de 70% da renda, durante o tempo necessário ao reembolso integral das despesas efectuadas e respectivos juros.
+3 - O pagamento das obras executadas pela câmara municipal nos termos do número anterior deve ser feito através do recebimento das rendas, até ao limite previsto no n.º 5, durante o tempo necessário ao reembolso integral das despesas efectuadas e respectivos juros, acrescidos de 10% destinados a encargos gerais de administração.
+
+4 - Após a ocupação do prédio referida no n.º 1, a câmara municipal notificará os arrendatários, por carta registada ou por afixação de edital na porta da respectiva casa e na sede da junta de freguesia, de que as rendas deverão ser depositadas nos termos do artigo 23.º à ordem da mesma câmara.
+
+5 - O senhorio tem o direito de levantar os depósitos até ao montante autorizado expressamente pela respectiva câmara municipal, que não pode ser inferior a 30% da renda efectivamente cobrada à data da ocupação referida no n.º 1.
+
+6 - No prazo de 10 dias após ter sido requerida pelo senhorio, a câmara municipal respectiva deverá emitir declaração para os efeitos referidos no número anterior.
+
+7 - No caso previsto no n.º 1 e para efeitos do disposto no n.º 3, pode a câmara municipal arrendar os fogos devolutos, por concurso público, em regime de renda condicionada nos termos do artigo 98.º, pelo prazo mínimo de três anos e máximo de oito anos, não sendo aplicável a caducidade prevista no n.º 2 do artigo 66.º
+
+8 - O disposto no número anterior não é aplicável se o senhorio arrendar os fogos devolutos, por valor não inferior ao da renda condicionada, no prazo de quatro meses após a ocupação do prédio pela câmara municipal ou após a conclusão das obras.
+
+9 - A ocupação referida no n.º 1 cessa automaticamente um ano após a conclusão das obras, sem prejuízo do disposto nos n.os 7 e 12.
+
+10 - Aos contratos de arrendamento celebrados posteriormente à data de ocupação referida no n.º 1 é aplicável o disposto nos n.os 3, 4 e 6, bem como o disposto no n.º 7 relativamente ao valor da renda.
+
+11 - No prazo de 10 dias após o reembolso integral referido no n.º 3, a câmara municipal respectiva notificará os inquilinos da cessação do dever referido no n.º 4 nos termos nele estatuídos.
+
+12 - A notificação de intimação do despejo prevista no n.º 3 do artigo 92.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, será efectuada nos termos previstos no n.º 4.
+
+13 - O aumento de renda referido no n.º 5 do artigo 92.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, será apurado nos termos do Regime Especial de Comparticipação na Recuperação de Imóveis Arrendados (RECRIA).
+
+14 - Para efeitos do arrolamento referido no n.º 1, proceder-se-á da seguinte forma:
+
+a) Será lavrado auto em que se descrevam os bens, em verbas numeradas, como em inventário.
+
+O auto mencionará ainda todas as ocorrências com interesse e será assinado pelo funcionário que o lavre e pelo possuidor dos bens, se existir, devendo intervir duas testemunhas quando for assinado por este último;
+
+b) Ao acto de arrolamento assiste o possuidor ou detentor dos bens, sempre que esteja no local ou seja possível chamá-lo e queira assistir. Pode este interessado fazer-se representar por mandatário judicial;
+
+c) Os bens arrolados ficam depositados à guarda da câmara municipal e serão entregues ao arrendatário, a requerimento deste, sem prejuízo de só poderem ser repostos no fogo despejando após a conclusão das respectivas obras;
+
+d) São aplicáveis ao arrolamento as disposições relativas à penhora, com as devidas adaptações, em tudo que não contrarie o estabelecido neste artigo.
+
+15 - Os inquilinos que não dêem cumprimento à intimação a que se refere o n.º 12 serão responsáveis por todas as despesas resultantes do despejo, depósito e arrolamento dos bens.
+
+16 - Para efeito do disposto no n.º 1, mantêm-se em vigor todas as vistorias e actos administrativos subsequentes praticados até à entrada em vigor do referido diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 329-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-2000-516973), publicado em 2000-12-22.
 
 ###### Artigo 16.º — Execução pelo arrendatário
 
@@ -517,6 +485,10 @@ As obras de conservação ordinária estão a cargo do senhorio, sem prejuízo d
 3 - Havendo pluralidade de arrendatários, o disposto nos números anteriores, relativamente às partes comuns, depende do assentimento de, pelo menos, metade deles, ficando os restantes vinculados.
 
 4 - O presente artigo não prejudica o disposto no artigo 1036.º do Código Civil.
+
+5 - Nos casos a que se referem os n.os 1 e 4 pode ainda o arrendatário submeter à aprovação da câmara municipal o orçamento para execução das obras.
+
+> Alterado pelo/a [Decreto-Lei n.º 329-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-2000-516973), publicado em 2000-12-22.
 
 ###### Artigo 17.º — Cobrança coerciva
 

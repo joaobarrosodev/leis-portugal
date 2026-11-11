@@ -476,6 +476,264 @@ Regime jurídico dos hospitais integrados no Serviço Regional de Saúde dos Aç
 
 ### CAPÍTULO I — Entidades públicas empresariais
 
+###### Artigo 1.º — Objecto
+
+1 - São criados o Hospital Divino Espírito Santo de Ponta Delgada, E. P. E., o Hospital de Santo Espírito de Angra do Heroísmo, E. P. E., e o Hospital da Horta, E. P. E., identificados no mapa I do apêndice I do presente regime.
+
+2 - São aprovados os estatutos, constantes dos apêndices I e II do presente regime, das entidades públicas empresariais previstas no número anterior.
+
+3 - As unidades de saúde que dão origem às entidades públicas empresariais previstas no n.º 1 consideram-se extintas para todos os efeitos legais, com dispensa de todas as formalidades legais.
+
+###### Artigo 2.º — Sucessão
+
+As entidades públicas empresariais abrangidas pelo presente regime, adiante designadas abreviadamente por hospitais E. P. E., sucedem nos direitos e obrigações das unidades de saúde que lhes deram origem, independentemente de quaisquer formalidades.
+
+###### Artigo 3.º — Capital estatutário
+
+1 - O capital estatutário dos hospitais E. P. E. é detido pela Região Autónoma dos Açores e pode ser aumentado ou reduzido por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde, que constitui título bastante para todos os efeitos legais, incluindo os de registo.
+
+2 - O capital estatutário das entidades públicas empresariais referidas no n.º 1 do artigo 1.º é realizado pela Região Autónoma dos Açores, de acordo com o fixado no mapa I do anexo I do presente diploma, correspondente à respectiva reavaliação dos edifícios e terrenos e o montante correspondente à conversão de passivos, aprovados por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde, e ao qual acresce o montante da entrega em espécie correspondente ao valor do património líquido que se encontrava na propriedade das entidades extintas constante do respectivo balanço reportado à data da sua extinção.
+
+###### Artigo 4.º — Registos
+
+O presente diploma e os seus anexos constituem título bastante para todos os efeitos legais, designadamente os de registo.
+
+### CAPÍTULO II — Regime jurídico
+
+###### Artigo 5.º — Natureza e regime
+
+1 - As entidades públicas empresariais abrangidas pelo presente regime são pessoas colectivas de direito público de natureza empresarial dotadas de autonomia administrativa, financeira e patrimonial, nos termos do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, e do artigo 8.º-F do Estatuto do Serviço Regional de Saúde.
+
+2 - Os hospitais E. P. E. são ainda dotados de autonomia técnica.
+
+3 - Os hospitais E. P. E. regem-se pelo regime jurídico aplicável às entidades públicas empresariais, com as especificidades previstas no presente regime e nos seus estatutos constantes dos anexos I e II, bem como nos respectivos regulamentos internos e nas normas em vigor para o Serviço Regional de Saúde que não contrariem as normas aqui previstas.
+
+4 - Aos hospitais E. P. E. aplicam-se as especificidades estatutárias previstas no anexo I deste regime, designadamente quanto à denominação, sede e capital estatutário.
+
+###### Artigo 6.º — Superintendência
+
+1 - Compete ao membro do Governo Regional com competência em matéria de saúde:
+
+a) Aprovar os objectivos e estratégias dos hospitais E. P. E;
+
+b) Dar orientações, recomendações e directivas para prossecução das atribuições dos hospitais E. P. E., designadamente nos seus aspectos transversais e comuns;
+
+c) Definir normas de organização e de actuação hospitalar;
+
+d) Homologar os regulamentos internos dos hospitais E. P. E;
+
+e) Exigir todas as informações julgadas necessárias ao acompanhamento da actividade dos hospitais E. P. E., bem como determinar auditorias e inspecções ao seu funcionamento.
+
+2 - O membro do Governo Regional com competência em matéria de saúde pode delegar os poderes referidos no número anterior no director regional de Saúde.
+
+###### Artigo 7.º — Capacidade
+
+1 - A capacidade jurídica dos hospitais E. P. E. abrange todos os direitos e obrigações necessários ou convenientes à prossecução do seu objecto e das suas atribuições.
+
+2 - É da exclusiva competência dos hospitais E. P. E. a cobrança das receitas e taxas provenientes da sua actividade.
+
+###### Artigo 8.º — Órgãos sociais
+
+Os hospitais E. P. E. dispõem dos órgãos sociais previstos nos estatutos constantes do anexo II do presente regime.
+
+###### Artigo 9.º — Organização
+
+1 - Os hospitais E. P. E. organizam-se de acordo com as normas e critérios genéricos definidos pela tutela em função das suas atribuições e áreas de actuação específicas, devendo os respectivos regulamentos internos prever a estrutura orgânica com base em serviços agregados em departamentos e englobando unidades funcionais.
+
+2 - As estruturas orgânicas devem desenvolver a sua acção por centros de responsabilidade que permitam a realização, internamente contratualizada, dos respectivos programas de actividade com autonomia e responsabilidade, de modo a possibilitar formas de trabalho centradas prioritariamente no doente, de acordo com as boas práticas de gestão clínica.
+
+### CAPÍTULO III — Regime financeiro
+
+###### Artigo 10.º — Tutela
+
+Compete aos membros do Governo Regional com competências em matérias de finanças e saúde:
+
+a) Aprovar os planos de actividade e os orçamentos;
+
+b) Aprovar os documentos de prestação de contas;
+
+c) Autorizar as aquisições e venda de imóveis, bem como a sua oneração, mediante parecer prévio do fiscal único;
+
+d) Autorizar a realização de investimentos, quando as verbas globais correspondentes não estejam previstas nos orçamentos aprovados e sejam de valor superior ao valor do investimento aprovado para o respectivo ano, mediante parecer favorável do fiscal único;
+
+e) Determinar os aumentos e reduções do capital estatutário;
+
+f) Autorizar a contracção de empréstimos, independentemente do respectivo valor ou da natureza ou forma que revistam;
+
+g) Autorizar cedências de exploração de serviços hospitalares bem como a constituição de associações com outras entidades públicas para a melhor prossecução das atribuições dos hospitais E. P. E.;
+
+h) Autorizar a participação dos hospitais E. P. E. em sociedades anónimas que tenham por objecto a prestação de cuidados de saúde cujo capital social seja por eles maioritariamente detido;
+
+i) Autorizar, sem prejuízo do disposto na alínea anterior, para a prossecução dos pertinentes objectivos estratégicos, a participação dos hospitais E. P. E. no capital social de outras sociedades, nos termos do artigo 37.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro;
+
+j) Autorizar os demais actos que, nos termos da legislação aplicável, necessitem de aprovação tutelar.
+
+###### Artigo 11.º — Controlo financeiro
+
+1 - Sem prejuízo do disposto nos artigos 12.º, quanto ao Tribunal de Contas, e 13.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, devem os hospitais E. P. E. submeter aos membros do Governo Regional com competências em matérias de finanças e saúde:
+
+a) Os planos de actividades e de investimentos e os orçamentos, até ao final do mês de Julho de cada ano;
+
+b) Os documentos de prestação de contas, até ao final do mês de Março de cada ano;
+
+c) A informação sobre a respectiva actividade, aspectos económico-financeiros, recursos humanos e outros definidos pelos membros do Governo Regional com competências em matérias de finanças e saúde, com a periodicidade que for estabelecida.
+
+2 - As competências referidas no n.º 1 relativas ao Ministério das Finanças reportam-se na Região ao departamento do Governo Regional com competência em matéria de finanças.
+
+###### Artigo 12.º — Financiamento
+
+1 - Os hospitais E. P. E. são financiados através das dotações orçamentais incluídas nos contratos-programa ou de gestão a celebrar com o Governo Regional ou com quem este indicar.
+
+2 - São receitas dos hospitais E. P. E, além das previstas no número anterior:
+
+a) Outras dotações, comparticipações e subsídios do Estado, da Região ou de outras entidades;
+
+b) O pagamento de cuidados em quarto particular ou outra modalidade não prevista para a generalidade dos utentes;
+
+c) O pagamento de cuidados por parte de terceiros responsáveis, legal ou contratualmente, nomeadamente subsistemas de saúde ou entidades seguradoras;
+
+d) O pagamento de cuidados prestados a não beneficiários do Serviço Regional de Saúde quando não há terceiros responsáveis;
+
+e) O pagamento de taxas por serviços prestados ou utilização de instalações ou equipamentos nos termos legalmente previstos;
+
+f) O rendimento de bens próprios;
+
+g) O produto da alienação de bens próprios e da constituição de direitos sobre os mesmos;
+
+h) As doações, heranças ou legados;
+
+i) O produto da efectivação de responsabilidade dos utentes por infracções às regras da organização e do funcionamento do sistema e por uso doloso dos serviços e do material de saúde;
+
+j) Quaisquer outros rendimentos ou valores que resultem da sua actividade ou que, por lei ou contrato, devem pertencer-lhes.
+
+###### Artigo 13.º — Aquisição de bens e serviços
+
+1 - A aquisição de bens e serviços e a contratação de empreitadas pelos hospitais E. P. E. regem-se pelas normas de direito privado, sem prejuízo da aplicação do regime do direito comunitário relativo à contratação pública, bem como do disposto no n.º 3.
+
+2 - Devem os regulamentos internos dos hospitais E. P. E. garantir o disposto no número anterior, bem como, em qualquer caso, o cumprimento dos princípios gerais da livre concorrência, transparência e boa gestão, designadamente a fundamentação das decisões tomadas.
+
+3 - Os mecanismos de aprovisionamento centralizado para o sector da saúde em vigor são obrigatórios para os hospitais E. P. E.
+
+###### Artigo 14.º — Encargos
+
+Constitui encargo dos hospitais E. P. E. o pagamento de todos os actos relativos a doentes, praticados ou determinados por profissionais habilitados no âmbito da actividade de prestação de cuidados de saúde a cargo do hospital, designadamente os relativos a:
+
+a) Comparticipações de medicamentos comparticipados ou outros produtos ou serviços alvo de comparticipação;
+
+b) Meios complementares de diagnóstico e terapêutica;
+
+c) Encaminhamento e estada de doentes em casas de saúde;
+
+d) Deslocação de doentes, nos termos do n.º 1 do artigo 43.º do Estatuto do Serviço Regional de Saúde e demais legislação e regulamentação aplicáveis.
+
+### CAPÍTULO IV — Contratos-programa ou de gestão
+
+###### Artigo 15.º — Contratos-programa ou de gestão
+
+1 - Os contratos-programa ou de gestão têm por objecto a realização de prestações de saúde aos utentes do Serviço Regional de Saúde mediante o pagamento de contrapartidas financeiras em função das condições previstas e resultados obtidos.
+
+2 - Os contratos-programa ou de gestão baseiam-se em princípios de gestão criteriosa, garantia de critérios, qualidade na prestação de cuidados de saúde e cumprimento de metas a alcançar de acordo com os recursos disponíveis.
+
+3 - Os contratos-programa ou de gestão devem promover o equilíbrio dos níveis de eficiência das unidades de saúde do Serviço Regional de Saúde.
+
+4 - Os contratos-programa ou de gestão têm como referencial os preços praticados no mercado para os diversos actos clínicos, assentando a valorização dos actos e serviços efectivamente prestados numa tabela de preços base a fixar anualmente pelo membro do Governo Regional com competência em matéria de saúde.
+
+5 - Quando não sejam celebrados com o próprio ou com quem o represente os contratos-programa ou de gestão, são objecto de autorização prévia do membro do Governo Regional com competência em matéria de saúde.
+
+###### Artigo 16.º — Conteúdo dos contratos-programa ou de gestão
+
+1 - Os contratos-programa ou de gestão estabelecem os objectivos e metas qualitativas e quantitativas, sua calendarização, os meios e instrumentos para os prosseguir, designadamente de investimento, os indicadores para avaliação do desempenho dos serviços e do nível de satisfação dos utentes e as demais obrigações assumidas pelas partes.
+
+2 - Os contratos-programa ou de gestão estabelecem, nomeadamente:
+
+a) A discriminação das prestações de saúde a efectuar por linhas de produção, bem como da produção contratada a elas correspondente;
+
+b) As políticas de melhoria a implementar, de forma a garantir níveis de serviço e indicadores de qualidade crescente;
+
+c) Os objectivos de convergência destinados a aproximar as unidades de saúde do Serviço Regional de Saúde entre si na utilização de recursos, bem como a promover níveis de eficiência mais elevados;
+
+d) A disponibilidade de pessoal em número suficiente e dotado de formação adequada para exercer, de forma contínua e pontual, as actividades objecto do contrato;
+
+e) A disponibilidade, manutenção e conservação de equipamentos e sistemas médicos suficientes, adequados, actualizados e em boas condições de utilização para dar cumprimento à produção contratada e aos parâmetros de qualidade exigidos;
+
+f) Integração com a rede de cuidados;
+
+g) Procedimentos aplicáveis à referenciação e ou transferência de utentes;
+
+h) Requisitos aplicáveis à qualidade dos serviços;
+
+i) Requisitos aplicáveis aos sistemas de informação e de gestão;
+
+j) Remuneração em função de critérios objectivos, nomeadamente em função da capitação;
+
+l) Custos fixos;
+
+m) Produção marginal;
+
+n) Integração nos mecanismos de aprovisionamento centralizado para o sector da saúde em vigor;
+
+o) Programas específicos a implementar nos hospitais E. P. E.;
+
+p) Mecanismos de acompanhamento da execução do contrato.
+
+3 - As prestações de saúde previstas na alínea a) do n.º 2 implicam a prestação integrada, directa ou indirectamente, de todos os outros serviços de que deva beneficiar o utente relacionados com o respectivo estado de saúde, designadamente a prestação de serviços de apoio.
+
+### CAPÍTULO V — Recursos humanos
+
+###### Artigo 17.º — Regime de pessoal
+
+1 - Sem prejuízo do disposto no número seguinte, os trabalhadores dos hospitais E. P. E. estão sujeitos ao regime do contrato de trabalho, de acordo com o Código do Trabalho, demais legislação laboral, normas imperativas sobre títulos profissionais, instrumentos de regulamentação colectiva de trabalho e regulamentos internos.
+
+2 - Os hospitais E. P. E. devem prever anualmente uma dotação global de custos com pessoal em qualquer regime, através dos respectivos orçamentos, considerando os planos de actividade.
+
+3 - Os hospitais E. P. E. não podem ultrapassar a dotação de custos com pessoal prevista no número anterior, salvo aprovação conjunta dos membros do Governo Regional com competência em matéria de finanças e saúde.
+
+###### Artigo 18.º — Regime laboral público e de transição
+
+1 - O pessoal com relação jurídica de emprego público que, à data da entrada em vigor do presente regime, esteja provido em lugares dos quadros das unidades de saúde abrangidas pelo artigo 1.º, bem como o respectivo pessoal com contrato administrativo de provimento, transita para os hospitais E. P. E. que lhes sucedem, sendo garantida a manutenção integral do seu estatuto jurídico, designadamente quanto à natureza do vínculo e regime de aposentação.
+
+2 - O pessoal a que se refere o número anterior pode optar pelo regime de contrato individual de trabalho no prazo de um ano a contar da data da entrada em vigor do presente diploma, mediante declaração escrita, individual e irrevogável, dirigida ao presidente do conselho de administração do hospital E. P. E. respectivo, implicando a celebração do contrato a exoneração do lugar de origem e a cessação do vínculo à função pública.
+
+3 - Os funcionários que não optem pela aplicação do regime de contrato individual de trabalho mantêm-se integrados nos lugares do quadro de pessoal existente à data da entrada em vigor do presente diploma, vigorando o referido quadro exclusivamente para esse efeito, incluindo a promoção e a progressão nas respectivas carreiras.
+
+4 - Mantêm-se válidos os concursos de pessoal pendentes e os estágios e cursos de especialização em curso à data da entrada em vigor do presente regime.
+
+###### Artigo 19.º — Comissão de serviço
+
+Aplica-se aos hospitais E. P. E. o regime de comissão de serviço previsto no artigo 17.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, sendo esse regime aplicável também aos funcionários da administração regional, assim como aos respectivos serviços.
+
+###### Artigo 20.º — Regime de protecção social
+
+1 - Sem prejuízo do disposto no n.º 1 do artigo 18.º, o regime de protecção social dos hospitais E. P. E. é o regime geral da segurança social.
+
+2 - Relativamente aos funcionários e agentes que não optem pelo regime do contrato individual de trabalho ou que, nos termos do número anterior, mantenham o regime de protecção social da função pública, os hospitais E. P. E. contribuem para o financiamento da Caixa Geral de Aposentações com a importância que se encontrar legalmente estabelecida para a contribuição das entidades empregadoras com autonomia administrativa e financeira.
+
+3 - Os hospitais E. P. E. observam, relativamente ao pessoal referido no número anterior, o regime previsto nos Decretos-Leis n.os [118/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1983-311397), de 25 de Fevereiro, e [503/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), de 20 de Novembro, para os organismos dotados de autonomia administrativa e financeira.
+
+### CAPÍTULO VI — Disposições finais e transitórias
+
+###### Artigo 21.º — Cessação dos mandatos e das comissões de serviço
+
+1 - Com a entrada em vigor do presente regime cessam automaticamente os mandatos dos membros dos conselhos de administração e dos órgãos de direcção técnica das unidades abrangidas pelo artigo 1.º, mantendo-se os mesmos em gestão corrente até à nomeação dos novos titulares.
+
+2 - Cessam igualmente as comissões de serviço dos titulares dos cargos de direcção e chefia, mantendo-se os respectivos titulares até à designação dos novos titulares, nos termos previstos no Código do Trabalho.
+
+###### Artigo 22.º — Regulamentos internos
+
+Os regulamentos internos dos hospitais E. P. E. devem ser elaborados e submetidos a homologação do membro do Governo Regional com competência em matéria de saúde no prazo de 120 dias a contar da data de entrada em vigor do presente regime.
+
+APÊNDICE I
+
+Especificidades estatutárias
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01700/06420665.pdf)
+
+APÊNDICE II
+
+Estatutos
+
+### CAPÍTULO I — Princípios gerais
+
 ###### Artigo 1.º — Natureza e duração
 
 1 - O hospital EPER. é uma pessoa coletiva de direito público de natureza empresarial dotada de autonomia administrativa, financeira e patrimonial, nos termos do Regime Jurídico do Setor Público Empresarial da Região Autónoma dos Açores, e do artigo 8.º-F do Estatuto do Serviço Regional de Saúde.
@@ -510,7 +768,15 @@ As atribuições do hospital EPER. constam dos seus regulamentos internos, são 
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
-### CAPÍTULO II — Regime jurídico
+###### Artigo 4.º-A — Sede
+
+1 - A sede do hospital, EPER., é a fixada no apêndice I do regime que aprova os presentes estatutos.
+
+2 - A sede do hospital, EPER., é alterada por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
+
+### CAPÍTULO II — Órgãos sociais
 
 ###### Artigo 5.º — Órgãos
 
@@ -523,6 +789,8 @@ b) O fiscal único;
 c) O conselho consultivo.
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
+
+#### SECÇÃO I — Conselho de administração
 
 ###### Artigo 6.º — Composição e mandato
 
@@ -626,8 +894,6 @@ l) Acompanhar e avaliar sistematicamente outros aspectos relacionados com o exer
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
-### CAPÍTULO III — Regime financeiro
-
 ###### Artigo 10.º — Enfermeiro-diretor
 
 Compete ao enfermeiro-diretor a coordenação técnica da atividade de enfermagem do hospital EPER., velando pela sua qualidade, e, sem prejuízo do disposto em sede do regulamento interno, designadamente:
@@ -682,11 +948,11 @@ O hospital EPER. obriga-se pela assinatura, com indicação da qualidade, de doi
 
 1 - O Conselho de Administração pode ser dissolvido nos casos e nos termos previstos no Estatuto do Gestor Público Regional.
 
-2 - (Revogado.)
+2 - [Revogado.]
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
-### CAPÍTULO IV — Contratos-programa ou de gestão
+#### SECÇÃO II — Fiscal único
 
 ###### Artigo 15.º — Fiscal único
 
@@ -732,7 +998,7 @@ l) Verificar se os critérios valorimétricos adotados pelo hospital EPER. condu
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
-### CAPÍTULO V — Recursos humanos
+#### SECÇÃO III — Auditor
 
 ###### Artigo 17.º — Auditor
 
@@ -755,6 +1021,8 @@ l) Verificar se os critérios valorimétricos adotados pelo hospital EPER. condu
 9 - A existência de auditor pode ser dispensada em função da reduzida dimensão e complexidade do hospital EPER., sempre que os membros do Governo Regional com competências em matéria de finanças e saúde o entendam conveniente.
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
+
+#### SECÇÃO IV — Conselho consultivo
 
 ###### Artigo 18.º — Composição do conselho consultivo
 
@@ -796,15 +1064,17 @@ c) Emitir recomendações tendo em vista o melhor funcionamento dos serviços a 
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
-###### Artigo 20.º — Regime de protecção social
+###### Artigo 20.º — Funcionamento do conselho consultivo
 
-1 - Sem prejuízo do disposto no n.º 1 do artigo 18.º, o regime de protecção social dos hospitais E. P. E. é o regime geral da segurança social.
+1 - O conselho consultivo reúne, pelo menos, uma vez por ano e as suas deliberações são tomadas por maioria simples e constam de acta, tendo o presidente voto de qualidade.
 
-2 - Relativamente aos funcionários e agentes que não optem pelo regime do contrato individual de trabalho ou que, nos termos do número anterior, mantenham o regime de protecção social da função pública, os hospitais E. P. E. contribuem para o financiamento da Caixa Geral de Aposentações com a importância que se encontrar legalmente estabelecida para a contribuição das entidades empregadoras com autonomia administrativa e financeira.
+2 - As reuniões são convocadas pelo presidente com a antecedência mínima de cinco dias úteis, devendo ser indicados na convocatória a data, a hora e o local em que se realizam, bem como a respectiva ordem de trabalhos.
 
-3 - Os hospitais E. P. E. observam, relativamente ao pessoal referido no número anterior, o regime previsto nos Decretos-Leis n.os [118/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1983-311397), de 25 de Fevereiro, e [503/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), de 20 de Novembro, para os organismos dotados de autonomia administrativa e financeira.
+3 - Se à hora indicada não existir quórum, a reunião efectua-se uma hora depois, podendo o conselho deliberar por maioria dos votos dos membros presentes.
 
-### CAPÍTULO VI — Disposições finais e transitórias
+4 - As demais regras de funcionamento do conselho consultivo são definidas em regulamento próprio, o qual deve incluir a previsão da substituição dos seus membros em situações de falta ou impedimento.
+
+#### SECÇÃO V — Comissões de apoio técnico
 
 ###### Artigo 21.º — Comissões de apoio técnico
 
@@ -826,6 +1096,8 @@ d) Farmácia e terapêutica.
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
 
+### CAPÍTULO III — Avaliação, controlo e prestação de contas
+
 ###### Artigo 22.º — Instrumentos de gestão previsional
 
 A gestão financeira e patrimonial do hospital EPER. rege-se, designadamente, pelos seguintes instrumentos de gestão previsional:
@@ -845,354 +1117,6 @@ f) Contratos de gestão externos;
 g) Contratos-programa internos.
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
-
-### CAPÍTULO I — Princípios gerais
-
-###### Artigo 1.º — Natureza e duração
-
-1 - O hospital E. P. E. é uma pessoa colectiva de direito público de natureza empresarial dotada de autonomia administrativa, financeira e patrimonial, nos termos do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, e do artigo 8.º-F do Estatuto do Serviço Regional de Saúde.
-
-2 - O hospital E. P. E. é ainda dotado de autonomia técnica.
-
-3 - O hospital E. P. E. é constituído por tempo indeterminado.
-
-###### Artigo 2.º — Objecto
-
-1 - O hospital E. P. E. tem por objecto principal a prestação de cuidados de saúde à população, designadamente aos beneficiários do Serviço Regional de Saúde e aos beneficiários dos subsistemas de saúde, ou de entidades externas que com ele contratualizem a prestação de cuidados de saúde, e a todos os cidadãos em geral.
-
-2 - O hospital E. P. E. também tem por objecto desenvolver actividades de investigação, formação e ensino, sendo a sua participação na formação de profissionais de saúde dependente da respectiva capacidade formativa, podendo ser objecto de contratos de gestão em que se definam as respectivas formas de financiamento.
-
-###### Artigo 3.º — Atribuições
-
-As atribuições do hospital E. P. E. constam dos seus regulamentos internos, são fixadas de acordo com a política de saúde e com os planos estratégicos superiormente aprovados e são desenvolvidas através de contratos de gestão, em articulação com as atribuições das demais instituições do sistema de saúde.
-
-###### Artigo 4.º — Capital estatutário
-
-1 - O capital estatutário do hospital E. P. E. é o fixado no apêndice I do regime que aprova os presentes estatutos.
-
-2 - O capital estatutário é detido pela Região Autónoma dos Açores e é aumentado ou reduzido por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde.
-
-3 - Sem prejuízo do disposto na lei, os poderes da Região Autónoma dos Açores relativos ao hospital E. P. E. são exercidos pelos membros do Governo Regional competentes em razão da matéria, designadamente pelo membro do Governo Regional competente em matéria de finanças e ou pelo membro do Governo Regional competente em matéria de saúde.
-
-###### Artigo 4.º-A — Sede
-
-1 - A sede do hospital, EPER., é a fixada no apêndice I do regime que aprova os presentes estatutos.
-
-2 - A sede do hospital, EPER., é alterada por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde.
-
-> Aditado pelo/a [Decreto Legislativo Regional n.º 22/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360), publicado em 2015-09-18.
-
-### CAPÍTULO II — Órgãos sociais
-
-###### Artigo 5.º — Órgãos
-
-São órgãos do hospital E. P. E.:
-
-a) O conselho de administração;
-
-b) O fiscal único;
-
-c) O conselho consultivo.
-
-#### SECÇÃO I — Conselho de administração
-
-###### Artigo 6.º — Composição e mandato
-
-1 - O conselho de administração é composto pelo presidente e um máximo de seis vogais, em função da dimensão e complexidade do hospital E. P. E., sendo um deles, obrigatoriamente, o director clínico e outro o enfermeiro-director.
-
-2 - Os membros do conselho de administração são nomeados por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde de entre individualidades de reconhecido mérito e perfil adequado, sendo o director clínico um médico e o enfermeiro-director um enfermeiro.
-
-3 - O mandato dos membros do conselho de administração tem a duração de três anos, sendo renovável por iguais períodos, permanecendo aqueles no exercício das suas funções até efectiva substituição.
-
-###### Artigo 7.º — Competências do conselho de administração
-
-1 - Compete ao conselho de administração garantir o cumprimento dos objectivos básicos, bem como o exercício de todos os poderes de gestão que não estejam reservados a outros órgãos, e em especial:
-
-a) Propor os planos de acção anuais e plurianuais e respectivos orçamentos, bem como os demais instrumentos de gestão previsional legalmente previstos, e assegurar a respectiva execução;
-
-b) Celebrar contratos de gestão externos e internos;
-
-c) Definir as linhas de orientação a que devem obedecer a organização e o funcionamento do hospital E. P. E. nas áreas clínicas e não clínicas, propondo a criação de novos serviços, sua extinção ou modificação;
-
-d) Definir as políticas referentes a recursos humanos, incluindo as remunerações dos trabalhadores e dos titulares dos cargos de direcção e chefia;
-
-e) Autorizar a realização de trabalho extraordinário e de prevenção dos trabalhadores do hospital E. P. E., independentemente do seu estatuto, bem como autorizar o respectivo pagamento;
-
-f) Designar o pessoal para cargos de direcção e chefia;
-
-g) Aprovar o regulamento disciplinar do pessoal e as condições de prestação e disciplina do trabalho;
-
-h) Apresentar os documentos de prestação de contas, nos termos definidos na lei;
-
-i) Aprovar e submeter a homologação do membro do Governo Regional com competência em matéria de saúde o regulamento interno e fazer cumprir as disposições legais e regulamentares aplicáveis;
-
-j) Decidir sobre a realização de ensaios clínicos e terapêuticos, ouvida a comissão de ética, sem prejuízo do cumprimento das disposições aplicáveis;
-
-l) Acompanhar e avaliar sistematicamente a actividade desenvolvida pelo hospital E. P. E., designadamente responsabilizando os diferentes sectores pela utilização dos meios postos à sua disposição e pelos resultados atingidos, nomeadamente em termos da qualidade dos serviços prestados;
-
-m) Tomar conhecimento e determinar as medidas adequadas, se for caso disso, sobre as queixas e reclamações apresentadas pelos utentes;
-
-n) Decidir sobre a admissão e gestão do pessoal;
-
-o) Autorizar a aplicação de todas as modalidades de regimes de trabalho legalmente admissíveis;
-
-p) Exercer a competência em matéria disciplinar prevista na lei, independentemente da relação jurídica de emprego;
-
-q) Acompanhar a execução do orçamento, aplicando as medidas destinadas a corrigir os desvios em relação às previsões realizadas;
-
-r) Assegurar a regularidade da cobrança das dívidas e autorizar a realização e o pagamento da despesa do hospital E. P. E.;
-
-s) Tomar as providências necessárias à conservação do património afecto ao desenvolvimento da sua actividade e autorizar as despesas inerentes, previstas no plano de investimentos.
-
-2 - Sem prejuízo do disposto no número anterior e em normas especiais, o conselho de administração detém, ainda, as competências legalmente atribuídas aos titulares dos cargos de direcção superior de 1.º grau relativamente aos funcionários e agentes da Administração Pública.
-
-3 - O conselho de administração pode delegar as suas competências nos seus membros ou demais pessoal de direcção e chefia, com excepção das previstas nas alíneas a) a j) do n.º 1, definindo em acta os limites e condições do seu exercício.
-
-###### Artigo 8.º — Presidente do conselho de administração
-
-1 - Compete ao presidente do conselho de administração:
-
-a) Coordenar a actividade do conselho de administração e dirigir as respectivas reuniões;
-
-b) Garantir a correcta execução das deliberações do conselho de administração;
-
-c) Submeter a aprovação ou a autorização dos membros do Governo Regional competentes todos os actos que delas careçam;
-
-d) Representar o hospital E. P. E. em juízo e fora dele e em convenção arbitral, podendo designar mandatários para o efeito constituídos;
-
-e) Exercer as competências que lhe sejam delegadas.
-
-2 - O presidente do conselho de administração é substituído nas suas ausências e impedimentos pelo vogal por si designado.
-
-###### Artigo 9.º — Director clínico
-
-Ao director clínico compete a direcção de produção clínica do hospital E. P. E., que compreende a coordenação da assistência prestada aos doentes e a qualidade, correcção e prontidão dos cuidados de saúde prestados, designadamente:
-
-a) Coordenar a elaboração dos planos de acção apresentados pelos vários serviços e departamentos de acção médica a integrar no plano de acção global do hospital;
-
-b) Assegurar uma integração adequada da actividade médica dos departamentos e serviços, designadamente através de uma utilização não compartimentada da capacidade instalada;
-
-c) Propor medidas necessárias à melhoria das estruturas organizativas, funcionais e físicas dos serviços de acção médica, dentro de parâmetros de eficiência e eficácia reconhecidos, que produzam os melhores resultados face às tecnologias disponíveis;
-
-d) Aprovar as orientações clínicas relativas à prescrição de medicamentos e meios complementares de diagnóstico e terapêutica, bem como os protocolos clínicos adequados às patologias mais frequentes, respondendo perante o conselho de administração pela sua adequação em termos de qualidade e de custo-benefício;
-
-e) Propor ao conselho de administração a realização, sempre que necessário, da avaliação externa do cumprimento das orientações clínicas e protocolos mencionados, em colaboração com a Ordem dos Médicos e instituições de ensino médico e sociedades científicas;
-
-f) Desenvolver a implementação de instrumentos de garantia de qualidade técnica dos cuidados de saúde;
-
-g) Decidir sobre conflitos de natureza técnica entre serviços de acção médica;
-
-h) Decidir as dúvidas que lhe sejam presentes sobre deontologia médica, desde que não seja possível o recurso, em tempo útil, à comissão de ética;
-
-i) Participar na gestão do pessoal médico, designadamente nos processos de admissão e mobilidade interna, ouvidos os respectivos directores de serviço;
-
-j) Velar pela constante actualização do pessoal médico;
-
-l) Acompanhar e avaliar sistematicamente outros aspectos relacionados com o exercício da medicina e com a formação dos médicos.
-
-###### Artigo 10.º — Enfermeiro-director
-
-Compete ao enfermeiro-director a coordenação técnica da actividade de enfermagem do hospital E. P. E., velando pela sua qualidade, e, sem prejuízo do disposto em sede do regulamento interno, designadamente:
-
-a) Coordenar a elaboração dos planos de acção de enfermagem apresentados pelos vários serviços a integrar no plano de acção global do hospital E. P. E.;
-
-b) Colaborar com o director clínico na compatibilização dos planos de acção dos diferentes serviços de acção médica;
-
-c) Contribuir para a definição das políticas ou directivas de formação e investigação em enfermagem;
-
-d) Definir padrões de cuidados de enfermagem e indicadores de avaliação dos cuidados de enfermagem prestados;
-
-e) Elaborar propostas referentes à gestão do pessoal de enfermagem, designadamente participar no processo de admissão e de mobilidade dos enfermeiros;
-
-f) Promover e acompanhar o processo de avaliação do pessoal de enfermagem;
-
-g) Propor a criação de um sistema efectivo de classificação de utentes que permita determinar necessidades em cuidados de enfermagem e zelar pela sua manutenção;
-
-h) Elaborar estudos para determinação de custos e benefícios no âmbito dos cuidados de enfermagem;
-
-i) Acompanhar e avaliar sistematicamente outros aspectos relacionados com o exercício da actividade de enfermagem e com a formação dos enfermeiros.
-
-###### Artigo 11.º — Funcionamento do conselho de administração
-
-1 - O conselho de administração reúne, pelo menos, semanalmente e, ainda, sempre que convocado pelo presidente ou por solicitação de dois dos seus membros ou do fiscal único.
-
-2 - As regras de funcionamento do conselho de administração são fixadas pelo próprio conselho na sua primeira reunião e constam do regulamento interno do hospital E. P. E.
-
-3 - O presidente do conselho de administração tem voto de qualidade.
-
-4 - Das reuniões do conselho de administração devem ser lavradas actas, a aprovar na reunião seguinte.
-
-###### Artigo 12.º — Vinculação
-
-O hospital E. P. E. obriga-se pela assinatura, com indicação da qualidade, de dois membros do conselho de administração ou de quem esteja legitimado para o efeito, nos termos do n.º 3 do artigo 7.º
-
-###### Artigo 13.º — Estatuto dos membros
-
-1 - Aos membros do conselho de administração aplica-se o estatuto de gestor público, sem prejuízo do disposto no artigo 23.º do Estatuto do Serviço Regional de Saúde.
-
-2 - A remuneração dos membros do conselho de administração do hospital E. P. E. é fixada por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde e varia em função da complexidade de gestão.
-
-###### Artigo 14.º — Dissolução do conselho de administração
-
-1 - Os membros do Governo Regional com competências em matérias de finanças e saúde podem dissolver o conselho de administração nos seguintes casos:
-
-a) Desvio substancial entre os orçamentos e a respectiva execução;
-
-b) Deterioração dos resultados da actividade, incluindo a qualidade dos serviços prestados.
-
-2 - Não há lugar a dissolução nos casos em que o conselho de administração tenha tomado todas as medidas adequadas para evitar a verificação dos factos referidos no número anterior.
-
-#### SECÇÃO II — Fiscal único
-
-###### Artigo 15.º — Fiscal único
-
-1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do hospital E. P. E.
-
-2 - O fiscal único é nomeado por despacho conjunto dos membros do Governo Regional com competência em matérias de finanças e saúde obrigatoriamente de entre revisores oficiais de contas ou sociedades de revisores oficiais de contas, por um período de três anos, renovável.
-
-3 - O fiscal único tem sempre um suplente, que é igualmente revisor oficial de contas ou sociedade de revisores oficiais de contas.
-
-4 - Cessando o mandato, o fiscal único mantém-se em exercício de funções até à posse do respectivo substituto.
-
-5 - A remuneração do fiscal único é fixada por despacho conjunto dos membros do Governo Regional com competências em matéria de finanças e saúde.
-
-###### Artigo 16.º — Competências
-
-1 - O fiscal único tem as competências, os poderes e os deveres estabelecidos na lei e nestes estatutos.
-
-2 - Ao fiscal único compete, especialmente:
-
-a) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte;
-
-b) Dar parecer sobre o relatório de gestão do exercício e certificar as contas;
-
-c) Acompanhar com regularidade a gestão através de balancetes e mapas demonstrativos da execução orçamental;
-
-d) Manter o conselho de administração informado sobre os resultados das verificações e dos exames a que proceda;
-
-e) Propor a realização de auditorias externas, quando tal se mostre necessário ou conveniente;
-
-f) Pronunciar-se sobre qualquer outro assunto em matéria de gestão económica e financeira e fiscal, que seja submetido à sua consideração pelo conselho de administração;
-
-g) Dar parecer sobre a aquisição, arrendamento, alienação e oneração de bens imóveis;
-
-h) Dar parecer sobre a realização de investimentos e a contracção de empréstimos;
-
-i) Elaborar relatórios da sua acção fiscalizadora, incluindo relatórios trimestrais e um relatório anual global;
-
-j) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de administração, pelo Tribunal de Contas e pelas entidades que integram o controlo estratégico do sistema de controlo interno da administração financeira do Estado;
-
-l) Verificar se os critérios valorimétricos adoptados pelo hospital E. P. E. conduzem a uma correcta avaliação do património e dos resultados.
-
-#### SECÇÃO III — Auditor
-
-###### Artigo 17.º — Auditor
-
-1 - No hospital E. P. E. deve existir um auditor com a devida qualificação ou experiência devidamente comprovada na área, designado por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde a quem compete proceder ao controlo interno nos domínios contabilístico, financeiro, operacional, informático e de recursos humanos.
-
-2 - No âmbito das suas funções, o auditor deve fornecer ao conselho de administração análises e recomendações sobre as actividades revistas para a melhoria do funcionamento dos serviços e propor a realização de auditorias por entidades terceiras.
-
-3 - O auditor é nomeado por um período de três anos, renovável.
-
-4 - A remuneração do auditor é fixada em despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde.
-
-5 - No sentido de obter informação adequada para o desenvolvimento das auditorias, o auditor tem acesso livre a registos, computadores, instalações e pessoal do hospital, com excepção do acesso aos registos clínicos individuais dos utentes.
-
-6 - O auditor elabora um plano anual de auditoria.
-
-7 - O auditor elabora, semestralmente, um relatório sobre a actividade desenvolvida em que se refiram os controlos efectuados, as anomalias detectadas e as medidas correctivas a adoptar, que deve ser submetido por este aos membros do Governo Regional com competências em matéria de finanças e saúde, com conhecimento ao conselho de administração.
-
-8 - A actividade do auditor deve ser articulada com a da Inspecção Administrativa Regional e da Inspecção Regional de Saúde.
-
-9 - A existência de auditor pode ser dispensada em função da reduzida dimensão e complexidade do hospital E. P. E., sempre que os membros do Governo Regional com competências em matéria de finanças e saúde o entendam conveniente.
-
-#### SECÇÃO IV — Conselho consultivo
-
-###### Artigo 18.º — Composição do conselho consultivo
-
-1 - O conselho consultivo tem a seguinte composição:
-
-a) Uma personalidade de reconhecido mérito nomeada pelo membro do Governo Regional com competência em matéria de saúde, que preside;
-
-b) Um representante da respectiva unidade de saúde de ilha;
-
-c) Um representante dos utentes, designado pela respectiva associação ou por equivalente estrutura de representação;
-
-d) Um representante eleito pelos trabalhadores do hospital E. P. E.;
-
-e) Um representante dos prestadores de trabalho voluntário no hospital E. P. E., entre estes eleito, quando existam;
-
-f) Dois elementos, escolhidos pelo conselho de administração do hospital E. P. E., que sejam profissionais de saúde sem vínculo ao mesmo;
-
-g) Um representante da estrutura responsável pelo planeamento e gestão do sistema regional de saúde.
-
-2 - Compete ao presidente do conselho consultivo promover a designação dos respectivos membros.
-
-3 - Os membros do conselho de administração e o fiscal único podem ter assento no conselho consultivo, sem direito de voto.
-
-4 - O mandato dos membros do conselho consultivo tem a duração de três anos, sem prejuízo da possibilidade da sua substituição, a todo o tempo, pelas entidades que os designaram ou elegeram.
-
-5 - O exercício do cargo de membro do conselho consultivo não é remunerado, sendo as ajudas de custo a que houver lugar suportadas pelos organismos públicos que designaram os seus representantes e, nos restantes casos, suportadas pelo hospital E. P. E.
-
-###### Artigo 19.º — Competências do conselho consultivo
-
-Compete ao conselho consultivo:
-
-a) Apreciar os planos de actividade de natureza anual e plurianual;
-
-b) Apreciar as informações necessárias para o acompanhamento da actividade do hospital E. P. E.;
-
-c) Emitir recomendações tendo em vista o melhor funcionamento dos serviços a prestar às populações, tendo em conta os recursos disponíveis.
-
-###### Artigo 20.º — Funcionamento do conselho consultivo
-
-1 - O conselho consultivo reúne, pelo menos, uma vez por ano e as suas deliberações são tomadas por maioria simples e constam de acta, tendo o presidente voto de qualidade.
-
-2 - As reuniões são convocadas pelo presidente com a antecedência mínima de cinco dias úteis, devendo ser indicados na convocatória a data, a hora e o local em que se realizam, bem como a respectiva ordem de trabalhos.
-
-3 - Se à hora indicada não existir quórum, a reunião efectua-se uma hora depois, podendo o conselho deliberar por maioria dos votos dos membros presentes.
-
-4 - As demais regras de funcionamento do conselho consultivo são definidas em regulamento próprio, o qual deve incluir a previsão da substituição dos seus membros em situações de falta ou impedimento.
-
-#### SECÇÃO V — Comissões de apoio técnico
-
-###### Artigo 21.º — Comissões de apoio técnico
-
-1 - As comissões de apoio técnico são órgãos de carácter consultivo que têm por função colaborar com o conselho de administração, por sua iniciativa ou a pedido daquele, nas matérias da sua competência.
-
-2 - Em cada hospital E. P. E. são imperativamente constituídas as seguintes comissões:
-
-a) Ética;
-
-b) Humanização e qualidade de serviços;
-
-c) Controlo da infecção hospitalar;
-
-d) Farmácia e terapêutica.
-
-3 - Sem prejuízo do disposto no número anterior, podem ser criadas pelo conselho de administração outras comissões de apoio técnico que, nos termos da lei, da actividade do hospital e da legis artis, se justifiquem, devendo a sua estrutura, composição e funcionamento constar do regulamento interno.
-
-4 - Compete ao conselho de administração, sob proposta do director clínico, a designação do presidente e dos membros das comissões de apoio técnico.
-
-### CAPÍTULO III — Avaliação, controlo e prestação de contas
-
-###### Artigo 22.º — Instrumentos de gestão previsional
-
-A gestão financeira e patrimonial do hospital E. P. E. rege-se, designadamente, pelos seguintes instrumentos de gestão previsional:
-
-a) Planos plurianuais e anuais de actividades, de investimento e financeiros, com um horizonte de três anos;
-
-b) Orçamento anual de investimento;
-
-c) Orçamento anual de exploração, desdobrado em orçamento de proveitos e orçamento de custos e incluindo detalhe por centros de custo;
-
-d) Orçamento anual de tesouraria;
-
-e) Balanço previsional;
-
-f) Contratos de gestão externos;
-
-g) Contratos-programa internos.
 
 ###### Artigo 23.º — Reservas e fundos
 

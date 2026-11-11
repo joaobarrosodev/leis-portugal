@@ -1234,7 +1234,7 @@ A DGCI pode prestar serviços e realizar trabalhos, no âmbito das suas atribui�
 
 1 - O artigo 52.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, passa a ter a seguinte redacção:
 
-«Artigo 52.º
+'Artigo 52.º
 
 Nomeação
 
@@ -1250,11 +1250,11 @@ d) ...
 
 e) ...
 
-2 - Na falta de candidatos com a classificação indicada nas alíneas a) e b) do número anterior, poderão ser admitidos às provas de selecção para juristas e economistas candidatos licenciados nos cursos aí previstos com classificação não inferior a 14 valores ou a Bom e aprovação em mestrado.»
+2 - Na falta de candidatos com a classificação indicada nas alíneas a) e b) do número anterior, poderão ser admitidos às provas de selecção para juristas e economistas candidatos licenciados nos cursos aí previstos com classificação não inferior a 14 valores ou a Bom e aprovação em mestrado.
 
 2 - O artigo 2.º do [Decreto-Lei n.º 434/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1991-331853), de 8 de Novembro, passa a ter a seguinte redacção:
 
-«Artigo 2.º
+'Artigo 2.º
 
 Funcionários das câmaras municipais
 
@@ -1266,59 +1266,9 @@ Funcionários das câmaras municipais
 
 4 - ...
 
-5 - ...»
+5 - ...'
 
 > Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
-
-###### Artigo 4.º — Mobilidade
-
-1 - ...
-
-2 - ...
-
-3 - Os funcionários que, encontrando-se nomeados para cargos de chefia tributária, tenham acesso à categoria imediatamente superior em resultado de aprovação em concurso de promoção são integrados na nova categoria no escalão que resultar da aplicação das regras previstas no artigo 6.º ao escalão que detinham na categoria de origem.
-
-###### Artigo 9.º — Progressão
-
-1 - ...
-
-2 - A aplicação do disposto no número anterior aos funcionários que se encontrem nomeados em cargos de chefia tributária far-se-á relativamente à categoria de origem, com a necessária repercussão na escala salarial do cargo.
-
-###### Artigo 10.º — Funções de coordenação
-
-Os funcionários designados para a chefia ou coordenação de equipas constituídas na DGCI que não beneficiem de regime remuneratório próprio terão direito a um acréscimo salarial correspondente a 30 pontos indiciários, a adicionar ao índice da respectiva categoria.
-
-2 - O artigo 52.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, passa a ter a seguinte redacção:
-
-###### Artigo 52.º — Nomeação
-
-1 - ...
-
-a) ...
-
-b) ...
-
-c) ...
-
-d) ...
-
-e) ...
-
-2 - Na falta de candidatos com a classificação indicada nas alíneas a) e b) do número anterior, poderão ser admitidos às provas de selecção para juristas e economistas candidatos licenciados nos cursos aí previstos com classificação não inferior a 14 valores ou a Bom e aprovação em mestrado.
-
-3 - O artigo 2.º do [Decreto-Lei n.º 434/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1991-331853), de 8 de Novembro, passa a ter a seguinte redacção:
-
-###### Artigo 2.º — Funcionários das câmaras municipais
-
-1 - Os funcionários pertencentes aos quadros de pessoal das câmaras municipais que passaram a exercer funções nos serviços dos juízos dos tribunais tributários referidos no artigo precedente com as categorias de oficial administrativo, escriturário-dactilógrafo, telefonista, auxiliar administrativo e auxiliar de serviços gerais são integrados no quadro de pessoal da DGCI, sendo-lhes aplicável o disposto no artigo 36.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro.
-
-2 - ...
-
-3 - ...
-
-4 - ...
-
-5 - ...
 
 ###### Artigo 56.º — Disposição transitória
 

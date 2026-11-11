@@ -70,24 +70,30 @@
     {
       "chave": "55.º",
       "epigrafe": "Alterações de legislação",
-      "texto": "1 - O artigo 52.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, passa a ter a seguinte redacção:\n\n«Artigo 52.º\n\nNomeação\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\n2 - Na falta de candidatos com a classificação indicada nas alíneas a) e b) do número anterior, poderão ser admitidos às provas de selecção para juristas e economistas candidatos licenciados nos cursos aí previstos com classificação não inferior a 14 valores ou a Bom e aprovação em mestrado.»\n\n2 - O artigo 2.º do [Decreto-Lei n.º 434/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1991-331853), de 8 de Novembro, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\nFuncionários das câmaras municipais\n\n1 - Os funcionários pertencentes aos quadros de pessoal das câmaras municipais que passaram a exercer funções nos serviços dos juízos dos tribunais tributários referidos no artigo precedente com as categorias de oficial administrativo, escriturário-dactilógrafo, telefonista, auxiliar administrativo e auxiliar de serviços gerais são integrados no quadro de pessoal da DGCI, sendo-lhes aplicável o disposto no artigo 36.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...»",
+      "texto": "1 - O artigo 52.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, passa a ter a seguinte redacção:\n\n'Artigo 52.º\n\nNomeação\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\n2 - Na falta de candidatos com a classificação indicada nas alíneas a) e b) do número anterior, poderão ser admitidos às provas de selecção para juristas e economistas candidatos licenciados nos cursos aí previstos com classificação não inferior a 14 valores ou a Bom e aprovação em mestrado.\n\n2 - O artigo 2.º do [Decreto-Lei n.º 434/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1991-331853), de 8 de Novembro, passa a ter a seguinte redacção:\n\n'Artigo 2.º\n\nFuncionários das câmaras municipais\n\n1 - Os funcionários pertencentes aos quadros de pessoal das câmaras municipais que passaram a exercer funções nos serviços dos juízos dos tribunais tributários referidos no artigo precedente com as categorias de oficial administrativo, escriturário-dactilógrafo, telefonista, auxiliar administrativo e auxiliar de serviços gerais são integrados no quadro de pessoal da DGCI, sendo-lhes aplicável o disposto no artigo 36.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...'",
       "alterador": 6
     }
   ],
-  "removidos": [],
-  "nao_aplicavel": "Alterador 6 (DL 42/97), art. 55.º: no texto atual o artigo 55.º vem partido em falsas chaves ('4.º', '9.º', '10.º', '52.º' e '2.º', que são as redações citadas do DL 187/90, DR 42/83 e DL 434/91 e colidem com artigos verdadeiros do original); devolvi o 55.º inteiro com os dois números novos, mas não pus essas chaves em 'removidos' por serem ambíguas. Alteradores 1 a 4 (Portarias 663/94, 225/95, 515/95, 1141-A/95) mexem no mapa anexo (lugares aditados/abatidos), que só vem em imagem. Alteradores 5, 7, 9 e 10 (DL 158/96 art. 39.º, DL 376/99 art. 30.º, DL 237/2004 art. 3.º, DL 18/2005) transferem/extinguem serviços ou represtinam artigos, sem alteração textual; o DL 262/2002 art. 2.º n.º 2 represtina os arts. 17.º, 18.º e 25.º, que já estão no texto atual.",
+  "removidos": [
+    "4.º#2",
+    "9.º#2",
+    "10.º#2",
+    "52.º#2",
+    "2.º#2"
+  ],
+  "titulos": [],
+  "nao_aplicavel": "Portarias 663/94 (2.º), 225/95 (6.º, 8.º), 515/95 (6.º) e 1141-A/95 (1.º) aditam ou abatem lugares ao mapa anexo do quadro de pessoal dirigente, que só vem em imagem: não aplicável. DL 158/96 (art. 39.º, transição das direcções de serviços dos arts. 28.º a 31.º para a DGITA) e DL 18/2005 (extinção da Direcção de Finanças da Madeira) não são alterações textuais. DL 262/2002 (art. 2.º, n.º 2) e DL 237/2004 (art. 3.º) repristinam os arts. 17.º, 18.º, 25.º e 26.º 'enquanto não for publicada a portaria' do art. 24.º do DL 366/99; esses artigos estão em vigor no texto atual (a revogação pelo DL 366/99 não é instrução do pedido), por isso nada muda.",
   "instrucoes": [
-    "Alt. 1 (Portaria 663/94) n.º 2.º: adita lugares ao mapa anexo; mapa só em imagem, não aplicado.",
-    "Alt. 2 (Portaria 225/95) n.º 6.º e 8.º: abate lugares ao mapa anexo; só em imagem, não aplicado.",
-    "Alt. 3 (Portaria 515/95) n.º 6.º: abate lugares ao mapa anexo; só em imagem, não aplicado.",
-    "Alt. 4 (Portaria 1141-A/95) n.º 1.º: adita três lugares de chefe de divisão ao mapa anexo; só em imagem, não aplicado.",
-    "Alt. 5 (DL 158/96) art. 39.º: transição das direcções de serviços dos arts. 28.º a 31.º para a DGITA; não textual.",
-    "Alt. 6 (DL 42/97) art. 1.º: nova redação dos arts. 32.º, 33.º, 36.º, 37.º, 38.º, 39.º, 40.º, 41.º, 42.º, 44.º, 46.º e 55.º; aplicada, com '...' preenchido do texto atual.",
-    "Alt. 6 (DL 42/97) art. 4.º n.º 2 e): remissão para o art. 42.º; não altera o texto.",
-    "Alt. 7 (DL 376/99) art. 30.º: extingue GAI, CEF e CF da DGCI; não textual (sem revogação de artigos).",
-    "Alt. 8 (DL 262/2002) art. 2.º n.º 2: represtina os arts. 17.º, 18.º e 25.º; já constam do texto atual, sem mudança.",
-    "Alt. 9 (DL 237/2004) art. 3.º: represtina também o art. 26.º; já consta do texto atual, sem mudança.",
-    "Alt. 10 (DL 18/2005) art. 1.º: extingue a Direcção de Finanças da R. A. Madeira; não textual."
+    "Alterador 1 (Portaria 663/94): aprova quadro de pessoal próprio e adita lugares ao mapa anexo (imagem); nada aplicado ao texto.",
+    "Alterador 2 (Portaria 225/95): reorganiza repartições e abate lugares ao mapa anexo (imagem); nada aplicado.",
+    "Alterador 3 (Portaria 515/95): idem, e altera a Portaria 225/95 (outro diploma); nada aplicado.",
+    "Alterador 4 (Portaria 1141-A/95): adita lugares ao quadro anexo (imagem) e altera a Portaria 663/94; nada aplicado.",
+    "Alterador 5 (DL 158/96, art. 39.º): transição de direcções de serviços para a DGITA, não textual; nada aplicado.",
+    "Alterador 6 (DL 42/97, art. 1.º): nova redação dos arts. 32.º, 33.º, 36.º, 37.º, 38.º, 39.º, 40.º, 41.º, 42.º, 44.º, 46.º e 55.º; aplicada, com '...' preenchido pelo texto atual. No 55.º desaparece o antigo n.º 1 (DL 187/90), pelo que as chaves falsas 4.º#2, 9.º#2 e 10.º#2 vão em removidos; os artigos citados 52.º#2 e 2.º#2 passam para dentro do corpo do 55.º (n.os 1 e 2) e também saem como chaves. O art. 2.º do DL 42/97 altera o DL 187/90 (outro diploma): ignorado.",
+    "Alterador 7 (DL 376/99): cria a AGT e extingue serviços, sem instrução textual dirigida ao original; nada aplicado.",
+    "Alterador 8 (DL 262/2002, art. 2.º, n.º 2): repristinação condicional dos arts. 17.º, 18.º e 25.º, que já estão em vigor no texto atual; nada muda.",
+    "Alterador 9 (DL 237/2004, art. 3.º): nova redação do art. 2.º, n.º 2, do DL 262/2002 (repristina também o 26.º), já em vigor no texto atual; art. 7.º revoga o art. 10.º do DL 187/90 (outro diploma); nada aplicado.",
+    "Alterador 10 (DL 18/2005): extingue a Direcção de Finanças da Madeira, sem alteração textual do original; nada aplicado."
   ],
   "modelo": "claude-fable-5-1",
   "pedido": "completo",
@@ -106,7 +112,7 @@
         9,
         10
       ],
-      "chars": 201256,
+      "chars": 201313,
       "artigos": 12
     }
   ],
