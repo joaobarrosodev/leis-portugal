@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:662958:por
     title: Lei n.º 27/91
     publication_date: '1991-07-17'
-  - id: pt:dre:662958:por
-    title: Lei n.º 27/91
-    publication_date: '1991-07-17'
   - id: pt:dre:275443:por
     title: Decreto-Lei n.º 157/92
     publication_date: '1992-07-31'
@@ -1446,25 +1443,39 @@ O Estatuto dos Militares das Forças Armadas, adiante designado por Estatuto, de
 
 > Revogado pelo/a Artigo 438.º do/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 3.º — Designação do militar
+###### Artigo 3.º — Formas de prestação de serviço
 
-1 - O militar, consoante a forma de prestação de serviço, é designado:
+As formas de prestação do serviço efectivo são as seguintes:
 
-a) Dos quadros permanentes (QP);
+a) Serviço efectivo nos quadros permanentes (QP);
 
-b) Em regime de contrato (RC);
+b) Serviço efectivo normal (SEN);
 
-c) Em serviço militar obrigatório (SMO).
+c) Serviço efectivo em regime de voluntariado (RV);
 
-2 - O SMO compreende o serviço efectivo normal (SEN) e o serviço efectivo decorrente de convocação ou mobilização.
+d) Serviço efectivo em regime de contrato (RC);
+
+e) Serviço efectivo decorrente de convocação ou mobilização.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
 ###### Artigo 4.º — Militar dos QP
 
-É militar dos QP o que, tendo ingressado voluntariamente na carreira militar e adquirido formação profissional adequada ao seu exercício, se encontra vinculado às forças armadas com carácter de permanência.
+É militar do QP, nos termos do artigo 4.º, n.º 4, da Lei n.º 30/87, o que, tendo ingressado voluntariamente na carreira militar, se encontra vinculado às Forças Armadas com carácter de permanência.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 5.º — Militar em RC
 
-É militar em RC o que, tendo cumprido o SEN, continua ou regressa voluntariamente ao serviço por um período de tempo limitado, com vista à satisfação de necessidades das forças armadas não supríveis adequadamente de outra forma ou ao seu eventual recrutamento para os QP.
+É militar em RC o que, tendo cumprido o SEN e prestado serviço em RV pelo período mínimo de 12 meses, continua ou regressa ao serviço por um período de tempo limitado, com vista à satisfação de necessidades das Forças Armadas ou ao seu eventual recrutamento para os QP.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 5.º-A — Militar em RV
+
+É militar em RV o que, tendo cumprido o SEN, deseje manter-se ao serviço por um período de tempo não superior a 18 meses, com vista à satisfação de necessidades das Forças Armadas, à passagem ao RC ou ao seu eventual recrutamento para os QP.
+
+> Aditado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
 ###### Artigo 6.º — Militar em SEN
 
@@ -1472,17 +1483,27 @@ c) Em serviço militar obrigatório (SMO).
 
 ###### Artigo 7.º — Militar convocado ou mobilizado
 
-1 - É militar convocado o que, na situação de reserva, de disponibilidade e licenciamento, é chamado a prestar serviço efectivo, nos termos previstos na Lei do Serviço Militar (LSM) e seu regulamento.
+1 - Serviço efectivo decorrente de convocação é o prestado nos termos do artigo 28.º da Lei n.º 30/87, de 7 de Julho, e aplica-se aos cidadãos na situação de disponibilidade.
 
-2 - É militar mobilizado o que, abrangido pela mobilização militar, é chamado a prestar serviço efectivo nas forças armadas, nos termos previstos na lei e regulamento referidos no número anterior e demais legislação aplicável.
+2 - Serviço efectivo decorrente de mobilização é o prestado nos termos do artigo 29.º da Lei n.º 30/87, de 7 de Julho, e aplica-se aos cidadãos nas situações de reserva de disponibilidade e licenciamento e reserva territorial.
+
+3 - São aplicáveis aos militares convocados ou mobilizados as disposições estatutárias respeitantes às formas de prestação de serviço que antecederam a passagem à reserva de disponibilidade e licenciamento.
+
+4 - Aos militares mobilizados a que se refere o número anterior serão igualmente aplicadas as disposições estatutárias respeitantes a outras formas de prestação de serviço quando a duração dos períodos de mobilização o justifique.
+
+5 - Aos militares mobilizados a partir da reserva territorial são aplicáveis as disposições estatutárias respeitantes aos militares em SEN.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
 ###### Artigo 8.º — Juramento de bandeira
 
-O militar, em cerimónia pública, presta juramento de bandeira perante o Estandarte Nacional, mediante a fórmula seguinte:
+O militar, em cerimónia pública, presta juramento de bandeira perante a Bandeira Nacional, mediante a fórmula seguinte:
 
-Juro, como português e como militar, servir as forças armadas, cumprir os deveres militares, guardar e fazer guardar a Constituição e as leis da República.
+Juro, como português e como militar, servir as Forças Armadas, cumprir os deveres militares, guardar e fazer guardar a Constituição e as leis da República.
 
 Juro defender a minha pátria e estar sempre pronto a lutar pela sua liberdade e independência, mesmo com o sacrifício da própria vida.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ## TÍTULO II — Deveres e direitos
 
@@ -1490,15 +1511,23 @@ Juro defender a minha pátria e estar sempre pronto a lutar pela sua liberdade e
 
 ###### Artigo 9.º — Defesa da Pátria
 
-O militar deve estar sempre pronto a defender a Pátria, mesmo com sacrifício da própria vida, o que, em cerimónia pública, solenemente, afirma perante o Estandarte Nacional.
+O militar deve estar sempre pronto a defender a Pátria, mesmo com sacrifício da própria vida, o que em cerimónia pública solenemente afirma perante a Bandeira Nacional.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 10.º — Dever de obediência
 
-O militar deve cumprir completa e prontamente as leis e regulamentos militares e as determinações que de umas e outros derivam, bem como as ordens e instruções dimanadas de superior hierárquico dadas em assuntos de serviço, desde que o seu cumprimento não implique a prática de crime.
+1 - A subordinação à disciplina militar baseia-se no cumprimento de leis e regulamentos respectivos e no dever de obediência aos escalões hierárquicos, bem como no dever do exercício responsável de autoridade.
+
+2 - O militar deve cumprir completa e prontamente as leis e regulamentos militares e as determinações que de umas e outros derivam, bem como as ordens e instruções dimanadas de superior hierárquico dadas em assuntos de serviço, desde que o seu cumprimento não implique a prática de crime.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 11.º — Dever de dedicação ao serviço
 
-O militar deve dedicar-se devotadamente ao serviço, diligenciando melhorar e desenvolver, através da instrução, esforço e iniciativa, as qualidades pessoais e aptidões profissionais necessárias ao pleno exercício das funções e ao cumprimento das missões atribuídas.
+O militar deve dedicar-se ao serviço, diligenciando melhorar e desenvolver, através da instrução, esforço e iniciativa, as qualidades pessoais e aptidões profissionais necessárias ao pleno exercício das funções e ao cumprimento das missões atribuídas.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 12.º — Dever de disponibilidade
 
@@ -1508,7 +1537,9 @@ O militar deve dedicar-se devotadamente ao serviço, diligenciando melhorar e de
 
 3 - O militar é obrigado, no caso de ausência por licença ou doença, a comunicar superiormente o local onde possa ser encontrado ou contactado.
 
-4 - Em situações de estado de sítio ou de guerra, o militar pode ser nomeado para o desempenho de outras funções, além das prescritas neste Estatuto, desde que compatíveis com o seu posto e aptidão física e psíquica.
+4 - Em situação de estado de sítio e de estado de guerra, o militar, nos termos da lei respectiva, pode ser nomeado para o desempenho de funções compatíveis com o seu posto e aptidão física e psíquica.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 13.º — Procedimento quando detido
 
@@ -1518,9 +1549,11 @@ O militar tem o dever de comunicar com os seus superiores quando detido por qual
 
 1 - O militar que desempenhe funções de comando, direcção ou chefia exerce o poder de autoridade inerente a essas funções, bem como a correspondente competência disciplinar.
 
-2 - O militar deve observar e fazer observar o princípio da autoridade, assumindo a responsabilidade por todos os actos que por si ou por sua ordem forem praticados.
+2 - O exercício dos poderes de autoridade implica a responsabilidade dos actos que por si ou por sua ordem forem praticados.
 
 3 - O exercício do poder de autoridade tem como limites a Constituição e as demais leis da República, as convenções internacionais e os costumes de guerra.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 15.º — Dever de tutela
 
@@ -1600,17 +1633,23 @@ O militar tem direito a receber do Estado patrocínio judiciário e assistência
 
 O militar tem, nomeadamente, direito:
 
-a) A receber formação, instrução e treino adequados à sua valorização humana e profissional, de acordo com os interesses da instituição militar;
+a) A progredir na carreira, nos termos do artigo 11.º, n.º 1, da Lei n.º 11/89, de 1 de Junho;
 
-b) A ser compensado financeiramente, a título de reparação, dos efeitos de acidente ou doença adquirida ou agravada por motivo do desempenho das suas funções militares;
+b) A receber treino e formação geral, cívica, científica, técnica e profissional, inicial e permanente, adequados ao pleno exercício das funções e missões que lhe forem atribuídas;
 
-c) A assistência médica, medicamentosa, meios de diagnóstico e hospitalar, nos termos fixados em diploma próprio;
+c) A receber formação de actualização, reciclagem e progressão, com vista à sua valorização humana e profissional e a progredir na carreira;
 
-d) A serem-lhe aplicadas, em matéria de maternidade e paternidade, as disposições constantes da lei;
+d) A beneficiar para si, e para a sua família, de assistência médica, medicamentosa, hospitalar e de meios de diagnóstico, nos termos fixados em diploma próprio;
 
-e) A apresentar queixas ao Provedor de Justiça, de acordo com a LDNFA e nos termos que vierem a ser fixados em lei da Assembleia da República;
+e) A serem-lhe aplicadas em matéria de maternidade e paternidade as disposições constantes da lei;
 
-f) A redução nas tarifas dos transportes colectivos públicos, de acordo com o estabelecido em legislação própria.
+f) A apresentar queixas ao Provedor de Justiça, de acordo com a LDNFA e nos termos que vierem a ser fixados em lei da Assembleia da República;
+
+g) A redução nas tarifas dos transportes colectivos públicos, de acordo com o estabelecido em legislação própria;
+
+h) A beneficiar, nos termos da lei, para si e para a sua família, de um sistema de assistência e protecção, abrangendo designadamente pensões de reforma, de sobrevivência e de preço de sangue e subsídios de invalidez e outras formas de assistência e apoio social.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ## TÍTULO III — Hierarquia, cargos e funções
 
@@ -1624,7 +1663,7 @@ f) A redução nas tarifas dos transportes colectivos públicos, de acordo com o
 
 ###### Artigo 28.º — Categorias
 
-1 - Os militares agrupam-se hierarquicamente, e por ordem decrescente, nas seguintes categorias:
+Os militares agrupam-se hierarquicamente, e por ordem decrescente, nas seguintes categorias:
 
 a) Oficiais;
 
@@ -1632,11 +1671,7 @@ b) Sargentos;
 
 c) Praças.
 
-2 - Os oficiais desempenham funções de comando, direcção ou chefia e desenvolvem actividades de estudo, concepção, planeamento e instrução próprias dos respectivos postos e são responsáveis pela disciplina e eficária das forças que lhes estão subordinadas.
-
-3 - Os sargentos, no âmbito dos respectivos postos, classes, armas, serviços e especialidades, desempenham funções de comando ou chefia e de natureza executiva e desenvolvem actividades de carácter técnico, administrativo-logístico e de instrução.
-
-4 - As praças desempenham funções de natureza executiva simples próprias dos respectivos postos, classes, armas, serviços e especialidades e desenvolvem actividades de carácter técnico-administrativo.
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 29.º — Postos militares
 
@@ -1648,9 +1683,11 @@ A antiguidade do militar em cada posto conta desde a data fixada no respectivo d
 
 ###### Artigo 31.º — Antiguidade relativa entre militares
 
-1 - O militar dos QP é sempre considerado mais antigo que os militares em RC e em SMO promovidos a posto igual ou correspondente com a mesma data de antiguidade.
+1 - O militar dos QP é sempre considerado mais antigo que os militares em RC, RV, SEN, mobilizados e convocados promovidos a posto igual ou correspondente com a mesma data de antiguidade.
 
 2 - O militar graduado é sempre considerado mais moderno que os militares promovidos a posto igual ou correspondente.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
 ###### Artigo 32.º — Escalas hierárquicas
 
@@ -1676,7 +1713,7 @@ A hierarquia funcional é a que decorre dos cargos e funções militares, devend
 
 ###### Artigo 36.º — Funções militares
 
-1 - Considera-se desempenho de funções militares o exercício das responsabilidades e competências legalmente estabelecidas para os militares.
+1 - Considera-se desempenho de funções militares o exercício das competências legalmente estabelecidas para os militares.
 
 2- As funções militares classificam-se em:
 
@@ -1688,9 +1725,11 @@ c) Estado-maior;
 
 d) Execução.
 
-3 - O desempenho de funções inicia-se com a aceitação do cargo, suspende-se com o afastamento temporário do titular e cessa com a sua exoneração ou abate.
+3 - O desempenho de funções inicia-se com a aceitação do cargo, suspende-se com o afastamento temporário do titular e cessa com a sua exoneração ou abate aos quadros.
 
 4 - Consideram-se funções essenciais características dos quadros e postos as funções militares cujo exercício é considerado indispensável para o acesso ao posto imediato, por facultarem a aquisição de experiência profissional e a comprovação do mérito pessoal para a promoção.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 37.º — Função comando
 
@@ -1716,7 +1755,9 @@ A função estado-maior consiste na prestação do apoio e assessoria ao comanda
 
 ###### Artigo 41.º — Competência e responsabilidade
 
-A cada cargo militar deve ser outorgada uma competência compatível com as responsabilidades atribuídas e definidos os requisitos exigidos para o seu desempenho eficiente, no que respeita ao posto e qualificações dos militares.
+A cada militar deve ser outorgada competência compatível com as respectivas funções, de que derivam as correspondentes responsabilidades, e definidos os requisitos exigidos para o seu desempenho eficiente no que respeita ao posto e qualificação dos militares.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 42.º — Cargo de posto inferior
 
@@ -1727,6 +1768,10 @@ O militar não pode ser nomeado para cargo a que corresponda posto inferior ao s
 1 - O militar nomeado para cargo a que corresponda posto superior ao seu é investido, enquanto nessa situação, da autoridade correspondente a esse posto em relação a todos os subordinados.
 
 2 - A nomeação a que se refere o número anterior tem carácter provisório.
+
+3 - Enquanto exercer cargo de posto superior, o militar tem os direitos e regalias remuneratórias desse posto.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 44.º — Actos e cerimónias
 
@@ -1744,11 +1789,13 @@ Em actos e cerimónias militares ou civis, excepto formaturas, os militares colo
 
 3 - Os efectivos dos comandos, unidades, estabelecimentos e órgãos militares não integrados nos ramos são fixados por decreto-lei, sob proposta do CCEM.
 
-4 - Os efectivos em regime de contrato e os voluntários a ele destinados são anualmente fixados, para cada ramo, em portaria do Ministro da Defesa Nacional (MDN), sob proposta do CCEM.
+4 - Os efectivos em RC e RV e os voluntários a eles destinados são anualmente fixados, para cada ramo, em portaria do Ministro da Defesa Nacional (MDN), sob proposta do CCEM, e são expressos na Lei do Orçamento do Estado.
 
 5 - Os efectivos conscritos a incorporar anualmente nos ramos das forças armadas são expressos na lei do Orçamento do Estado, mediante proposta do CCEM.
 
 6 - Os efectivos convocados ou mobilizadas são fixados de acordo com as disposições previstas na LSM e demais legislação aplicável.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
 ###### Artigo 46.º — Situações quanto à prestação de serviço
 
@@ -1760,11 +1807,13 @@ b) Fora da efectividade de serviço.
 
 2 - A situação de efectividade de serviço caracteriza-se pelo exercício efectivo de cargos e funções próprios do posto, classe, arma, serviço ou especialidade definidos neste Estatuto.
 
-3 - Considera-se fora da efectividade de serviço o militar que, para além de outras situações, se encontre:
+3 - Considera-se fora da efectividade de serviço o militar que, para além de outras situações tipificadas na lei, se encontre:
 
 a) No cumprimento de penas a que a legislação penal ou disciplinar atribuam esse efeito;
 
 b) De licença registada.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ### CAPÍTULO II — Do tempo de serviço
 
@@ -1772,7 +1821,9 @@ b) De licença registada.
 
 1 - Conta-se como tempo de serviço, no sentido de serviço prestado ao Estado, o tempo de serviço militar, acrescido do prestado no exercício de funções públicas.
 
-2 - O tempo de serviço é contado para efeitos de cálculo da pensão de reforma.
+2 - O tempo de serviço é contado para efeitos de cálculo de pensão de reforma e da remuneração da reserva.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 48.º — Contagem de tempo de serviço militar
 
@@ -1836,13 +1887,17 @@ A promoção por antiguidade consiste no acesso ao posto imediato, mediante a ex
 
 1 - A promoção por escolha consiste no acesso ao posto imediato, mediante a existência de vacatura e desde que satisfeitas as condições de promoção, nos termos previstos neste Estatuto e independentemente da posição do militar na escala de antiguidades.
 
-2 - A promoção por escolha tem em vista seleccionar os militares considerados mais competentes no respectivo posto e que se revelem com maior aptidão para o desempenho de funções inerentes aos postos superiores.
+2 - A promoção por escolha tem em vista seleccionar os militares considerados mais competentes no respectivo posto e que se revelem com maior aptidão para o desempenho de funções inerentes ao posto imediato.
+
+3 - A promoção por escolha deve ser fundamentada, sendo a ordenação realizada com base em critérios gerais, definidos por portaria do MDN.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 57.º — Promoção por distinção
 
 1 - A promoção por distinção consiste no acesso a posto superior, em princípio ao posto imediato, independentemente da existência de vacatura, da posição do militar na escala de antiguidades e da satisfação das condições especiais de promoção.
 
-2 - A promoção por distinção tem por finalidade premiar excepcionais virtudes militares e dotes de comando ou chefia demonstrados em campanha ou em acções que tenham contribuído para a glória da Pátria ou para o prestigio da instituição militar.
+2 - A promoção por distinção premeia excepcionais virtudes militares e dotes de comando, direcção ou chefia demonstrados em campanha ou em acções que tenham contribuído para a glória da Pátria ou para o prestígio da instituição militar.
 
 3 - A promoção por distinção realiza-se a todos os postos previstos nas respectivas classes, armas, serviços e especialidades e sem alteração da forma de prestação de serviço efectivo.
 
@@ -1857,6 +1912,8 @@ A promoção por antiguidade consiste no acesso ao posto imediato, mediante a ex
 8 - O processo para a promoção por distinção deve ser instruído com os documentos necessários para o perfeito conhecimento e prova dos factos praticados que fundamentam a promoção, podendo incluir inquérito contraditório.
 
 9 - A promoção por distinção pode ter lugar a título póstumo.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 58.º — Promoção a título excepcional
 
@@ -1906,6 +1963,10 @@ c) De outros documentos constantes do processo individual do militar ou que nele
 
 2 - Os conselhos superiores formularão os seus pareceres com base nos elementos mencionados no artigo anterior, devendo obrigatoriamente ouvir o militar em causa e outras pessoas de reconhecido interesse para a elaboração desses pareceres.
 
+3 - A decisão mencionada no n.º 1 tomará em conta os pareceres das entidades referidas no mesmo número, e deve ser devidamente fundamentada e obrigatoriamente comunicada ao interessado.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
 ###### Artigo 63.º — Inexistência de avaliação
 
 A inexistência da avaliação a que se refere a alínea a) do n.º 1 do artigo 61.º não pode constituir fundamento para se considerar o militar como não satisfazendo as condições gerais de promoção.
@@ -1922,11 +1983,13 @@ c) Frequência de curso de promoção com aproveitamento ou de estágio com info
 
 d) Prestação de provas de concurso;
 
-e) Outras condições de natureza específica.
+e) Outras condições de natureza específica previstas no presente Estatuto.
 
-2 - Ao militar deve ser facultada a satisfação oportuna das condições especiais de promoção exigidas para o acesso ao posto imediato, competindo ao órgão de gestão de pessoal do respectivo ramo tomar as providências adequadas, sem prejuízo dos condicionalismos próprios do serviço.
+2 - Ao militar deve ser facultada, sem necessidade de o solicitar, mas sem prejuízo de o poder fazer, a satisfação oportuna das condições especiais de promoção exigidas para o acesso ao posto imediato, competindo ao órgão de gestão de pessoal do respectivo ramo tomar as providências adequadas.
 
 3 - A verificação da satisfação das condições especiais de promoção incumbe aos órgãos de gestão de pessoal de cada ramo.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 65.º — Exclusão temporária
 
@@ -1950,9 +2013,11 @@ d) Quando a verificação da aptidão física ou psíquica esteja dependente de 
 
 e) Quando o militar não tenha satisfeito as condições especiais de promoção por razões que não lhe sejam imputáveis.
 
-2 - O militar demorado não deve, tanto quanto possível, prestar serviço sob as ordens de militares mais modernos que, entretanto, tenham sido promovidos.
+2 - O militar demorado não deve prestar serviço sob as ordens de militares mais modernos que, entretanto, tenham sido promovidos.
 
 3 - O militar demorado é promovido logo que cessem os motivos que determinam a demora na promoção, independentemente da existência de vacatura, indo ocupar na escala de antiguidades no novo posto a mesma posição que teria se a promoção ocorresse sem demora.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 67.º — Preterição na promoção
 
@@ -1962,9 +2027,11 @@ a) O militar não satisfaça uma das três primeiras condições gerais de promo
 
 b) O militar não satisfaça qualquer das condições especiais de promoção por razões que lhe sejam imputáveis;
 
-c) Nos demais casos em que a lei expressamente o determine.
+c) Nos demais casos em que a lei expressamente o determine e que são os tipificadamente previstos no CGM e no RAM.
 
 2 - O militar, logo que cessem os motivos que determinaram a sua preterição, passa a ser apreciado, para efeitos de promoção ao posto imediato, em igualdade de circunstâncias com os militares de igual posto, classe, arma, serviço ou especialidade, salvo o disposto no n.º 2 do artigo 195.º
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 68.º — Processo pendente
 
@@ -1992,7 +2059,9 @@ d) Despacho do chefe de estado-maior do ramo, com possibilidade de delegação e
 
 2 - O documento oficial de promoção deve conter menção expressa da data da respectiva antiguidade e da data a partir da qual são devidos os vencimentos do novo posto.
 
-3 - A promoção deve ser publicada no Diário da República, nas ordens dos ramos ou nas ordens de serviço, de acordo com as categorias, modalidades de promoção e formas de prestação de serviço efectivo.
+3 - A promoção deve ser publicada no Diário da República e transcrita nas ordens dos ramos e nas ordens de serviço, com excepção da promoção dos militares em serviço efectivo normal, que não necessita de publicação no Diário da República.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ### CAPÍTULO II — Das graduações
 
@@ -2094,7 +2163,9 @@ c) Promoção;
 
 d) Desempenho de funções.
 
-2 - Para os fins referidos no número anterior, o conhecimento de cada militar requer um largo espectro de dados e avaliações referentes ao exercício de todas as suas actividades e funções.
+2 -.Para fins requeridos no número anterior, o conhecimento de cada militar requer um largo espectro de dados e apreciação feita com base em critérios objectivos, referentes ao exercício de todas as suas actividades e funções.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 86.º — Instruções
 
@@ -2110,9 +2181,11 @@ As instruções para a execução do sistema de avaliação do mérito serão re
 
 4 - A avaliação individual é sempre fundamentada e deve estar subordinada a juízos de valor precisos e objectivos, de modo a evitar julgamentos preconcebidos, sejam ou não favoráveis.
 
-5 - A avaliação individual desfavorável é obrigatoriamente comunicada ao interessado.
+5 - A avaliação individual desfavorável é obrigatoriamente comunicada ao interessado e a avaliação individual favorável é-lhe comunicada quando ele a requerer.
 
 6 - A avaliação individual é condicionada pela forma de prestação de serviço militar efectivo, categoria e especificidades dos ramos.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 88.º — Finalidade
 
@@ -2130,7 +2203,11 @@ e) Incentivar o cumprimento dos deveres militares e o aperfeiçoamento técnico-
 
 ###### Artigo 89.º — Confidencialidade
 
-A avaliação individual é confidencial, de modo a garantir o necessário sigilo no seu processamento, sem prejuízo da publicitação dos resultados finais dos cursos, concursos, provas, tirocínios, estágios ou outros elementos que devam ou possam ser do conhecimento geral.
+1 - A avaliação individual é confidencial, de modo a garantir o necessário sigilo no seu processamento, sem prejuízo da publicação dos resultados finais dos cursos, concursos, provas, tirocínios, estágios ou outros elementos que devam ou possam ser do conhecimento geral.
+
+2 - No tratamento informático, devem ser respeitadas as regras prescritas na Constituição e na lei.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 90.º — Periodicidade
 
@@ -2162,7 +2239,9 @@ Quando, após um conjunto de avaliações sobre o militar, se verificar uma aval
 
 ###### Artigo 93.º — Juízo favorável ou não favorável
 
-Sempre que da avaliação individual conste referência, parecer ou juízo significativamente favorável ou não favorável, as entidades competentes de cada ramo podem convocar o militar para lhe dar conhecimento, no intuito de contribuir para o estímulo, orientação e valorização do mesmo.
+Sempre que da avaliação individual conste referência, parecer ou juízo significativamente favorável ou não favorável, as entidades competentes de cada ramo devem convocar o militar para lhe dar conhecimento, no intuito de contribuir para o estímulo, orientação e valorização do mesmo.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 94.º — Tratamento da avaliação
 
@@ -2210,7 +2289,9 @@ O militar que adquirir uma diminuição permanente na capacidade geral de ganho 
 
 3 - As peças que constituem o processo individual devem ser registadas, numeradas e classificadas.
 
-4 - O militar pode requerer o acesso ao respectivo processo individual.
+4 - O militar tem direito a acesso ao respectivo processo individual.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ## TÍTULO VIII — Licenças
 
@@ -2236,7 +2317,19 @@ h) Outras de natureza específica estabelecidas neste Estatuto ou em legislaçã
 
 ###### Artigo 101.º — Licença para férias
 
-1 - Em cada ano civil o militar tem direito a licença para férias por um período de 22 dias úteis, seguidos ou interpolados, tendo em atenção o seguinte:
+1 - O militar tem direito, em cada ano civil, a um período de licença para férias, a gozar seguida ou interpoladamente, calculado de acordo com as seguintes regras:
+
+a) 22 dias úteis de férias até completar 39 anos de idade;
+
+b) 23 dias úteis de férias até completar 49 anos de idade;
+
+c) 24 dias úteis de férias até completar 59 anos de idade;
+
+d) 25 dias úteis de férias a partir dos 60 anos de idade.
+
+2 - A idade relevante para efeitos da aplicação do número anterior é aquela que o militar completar até 31 de Dezembro do ano em que a licença para férias se vence.
+
+3 - Na concessão da licença para férias deve ter-se em atenção o seguinte:
 
 a) Só pode ser concedida a quem tiver 12 meses ou mais de serviço efectivo;
 
@@ -2252,9 +2345,11 @@ f) É concedida independentemente do gozo anterior de qualquer outra licença ou
 
 g) A sua concessão deve obedecer a um planeamento capaz de assegurar o regular funcionamento dos serviços.
 
-2 - A licença para férias respeitante a determinado ano não gozada por motivo de serviço pode sê-lo no ano civil imediato, seguida ou não das férias vencidas neste.
+4 - A licença para férias respeitante a determinado ano não gozada por motivo de serviço ou doença pode sê-lo no ano civil imediato, seguida ou não das férias vencidas neste.
 
-3 - No caso de acumulação de férias por motivo de serviço, o militar não pode ser impedido de gozar os dias de férias respeitantes ao ano anterior mais metade dos dias de férias a que tiver direito no ano a que as mesmas se reportam.
+5 - No caso de acumulação de férias por motivo de serviço ou doença, o militar não pode ser impedido de gozar os dias de férias respeitantes ao ano anterior mais metade dos dias de férias a que tiver direito no ano a que as mesmas se reportem.
+
+> Alterado pelo/a [Decreto-Lei n.º 175/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1997-149645), publicado em 1997-07-22.
 
 ###### Artigo 102.º — Licença por mérito
 
@@ -2276,17 +2371,21 @@ b) Por dois dias seguidos, pelo falecimento de parente ou afim em qualquer outro
 
 ###### Artigo 105.º — Licença por casamento
 
-A licença por casamento é concedida por 10 dias seguidos, incluindo o dia do casamento, tendo em atenção o seguinte:
+A licença por casamento é concedida por 11 dias úteis seguidos, tendo em atenção o seguinte:
 
-a) O pedido deve ser apresentado com uma antecedência mínima de 30 dias;
+a) O pedido deve ser apresentado com uma antecedência mínima de 15 dias relativamente à data em que se pretende iniciar o período de licença;
 
-b) A confirmação do casamento é efectuada através de certidão, necessária ao averbamento nos documentos de matrícula.
+b) A confirmação do casamento é efectuada através de certidão destinada ao processo individual.
+
+> Alterado pelo/a [Decreto-Lei n.º 175/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1997-149645), publicado em 1997-07-22.
 
 ###### Artigo 106.º — Licença registada
 
 1 - A licença registada pode ser concedida, a requerimento do interessado, por motivos de natureza particular que justifiquem tal petição, ou imposta por motivos decorrentes de conveniência de serviço.
 
-2 - A licença registada não confere direito a remuneração e não conta como tempo de serviço militar.
+2 - A licença registada não confere direito a remuneração ou compensação financeira e não conta como tempo de serviço militar.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
 ###### Artigo 107.º — Licença por maternidade ou paternidade
 
@@ -2302,53 +2401,69 @@ b) Ao militar do sexo masculino, por 2 dias, podendo ser gozados, seguidos ou in
 
 ###### Artigo 108.º — Reclamação e recurso
 
-O militar poderá, nos termos legalmente previstos, reclamar e recorrer dos actos administrativos que entenda feridos de ilegalidade.
+O militar poderá, nos termos legalmente previstos, reclamar e recorrer dos actos administrativos.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ###### Artigo 109.º — Legitimidade para reclamar e recorrer
 
-O militar tem o direito de reclamação e de recurso dos actos administrativos em cuja revogação ou anulação tenha interesse directo, pessoal e legítimo.
+1 - Tem legitimidade para reclamar ou recorrer o militar que tenha um interesse directo, pessoal e legítimo no acto reclamado ou recorrido.
 
-###### Artigo 110.º — Fundamentos do recurso
+2 - Nos termos gerais, a reclamação e o recurso hierárquico, quando não se trate de impugnação administrativa necessária à abertura da via de recurso contencioso, não suspendem nem interrompem os prazos para a interposição do recurso que for próprio.
 
-(Revogado.)
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 110.º — Reclamação
+
+1 - A reclamação do acto administrativo deve ser singular e escrita e dirigida, através das vias competentes, ao autor do acto, no prazo de 15 dias contados a partir do seu conhecimento oficial pelo reclamante.
+
+2 - Não sendo proferida decisão sobre a reclamação no prazo de 15 dias a contar da respectiva apresentação, é conferida ao interessado a faculdade de a presumir indeferida para efeitos do disposto no artigo seguinte.
 
 > Revogado pelo/a Artigo 438.º do/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 111.º — Reclamação
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-A reclamação de acto administrativo deve ser singular e dirigida por escrito, através das vias competentes, ao autor do acto no prazo de 15 dias contados a partir do seu conhecimento oficial pelo reclamante.
+###### Artigo 111.º — Recurso hierárquico
 
-###### Artigo 112.º — Recurso hierárquico
+1 - Quando a reclamação referida no artigo anterior não for, no todo ou em parte, atendida, assiste sempre ao reclamante o direito de interpor, no prazo de 15 dias contados a partir daquele em que foi notificado, recurso hierárquico para os chefes imediatos das autoridades que os decidiram até obter decisão definitiva e executória. A falta de decisão no prazo de 15 dias confere ao interessado a faculdade de presumir indeferido o recurso.
 
-1 - Quando a reclamação referida no artigo anterior não for, no todo ou em parte, atendida, assiste ao reclamante o direito de interpor recurso hierárquico para o chefe imediato da autoridade que a decidiu no prazo de 15 dias contados a partir daquele em que foi notificado da decisão que recaiu sobre a reclamação.
+2 - Salvo delegação de competência genérica, só as decisões do CEMGFA ou do CEM, consoante as respectivas atribuições, são definitivas e executórias.
 
-2 - Não sendo proferida decisão sobre a reclamação no prazo de 15 dias a contar da respectiva apresentação, considera-se aquela tacitamente indeferida, cabendo recurso hierárquico nos termos do número anterior.
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-3 - Se o autor do acto objecto de reclamação for subordinado de comandante de unidade da Armada, de comandante de unidade independente ou de chefe ou director de estabelecimento ou órgão, o recurso hierárquico será interposto para estas entidades.
-
-4 - Pode ainda recorrer-se hierarquicamente, no prazo de 30 dias a partir do conhecimento oficial da decisão, total ou parcialmente, desfavorável recaída sobre o recurso anterior:
-
-a) Das decisões que apreciem os recursos previstos nos números anteriores, para o oficial general que seja chefe imediato daquele que dedidiu;
-
-b) Das decisões que apreciem os recursos previstos na alínea anterior, para o CEMGFA ou para os CEM dos ramos, consoante a subordinação da entidade que decidir.
-
-5 - Não sendo proferida decisão sobre os recursos hierárquicos previstos nos n.os 1, 3 e 4, alínea a), no prazo de 30 dias a contar das respectivas apresentações, consideram-se aqueles tacitamente indeferidos, cabendo recurso hierárquico nos termos e no prazo previstos no n.º 4, alínea b).
-
-###### Artigo 113.º — Decisão definitiva
+###### Artigo 112.º — Decisão definitiva
 
 Das decisões do CEMGFA e dos CEM dos ramos não cabe recurso hierárquico.
 
-###### Artigo 114.º — Recurso contencioso
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 113.º — Recurso contencioso
 
 Das decisões definitivas e executórias em matéria administrativa cabe recurso contencioso.
 
-###### Artigo 115.º — Prazos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 114.º — Prazos
 
 O recurso contencioso deve ser interposto nos prazos e termos fixados na Lei de Processo nos Tribunais Administrativos.
 
-###### Artigo 116.º — Indeferimento tácito
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-Quando decorridos 45 dias sobre a apresentação de recurso hierárquico para o CEMGFA ou para os CEM, consoante os casos, não seja obtida decisão, assiste ao recorrente o direito de recurso contencioso, nos termos do artigo anterior, contando-se o prazo para a interposição de recurso a partir do termo dos referidos 45 dias.
+###### Artigo 115.º — Indeferimento tácito
+
+1 - Sem prejuízo do disposto no artigo 110.º, n.º 2, a falta, no prazo de 90 dias, de decisão administrativa de recurso hierárquico ou reclamação para o CEMGFA ou para o CEM, ou ainda para entidade à qual tenha sido conferida delegação de competência genérica, confere aos interessados a faculdade de presumir indeferida a pretensão, para poderem exercer o meio legal de impugnação competente.
+
+2 - Na impugnação facultativa a que se refere o número anterior a imputação da autoria dos actos tácitos de indeferimento, bem como a contagem dos prazos para presunção destes, regulam-se pelo disposto na lei geral administrativa.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 116.º — Militares dos QP
+
+1 - Os militares dos QP servem as Forças Armadas como profissionais, com base num vínculo caracterizado pela sua permanência, e constituem factor da afirmação e perenidade dos valores da instituição militar.
+
+2 - Os militares dos QP servem as forças armadas como profissionais, com base num vínculo caracterizado pela sua permanência, e constituem o garante da afirmação e perenidade dos valores da instituição militar.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ## LIVRO II — Dos militares dos quadros permanentes
 
@@ -2358,47 +2473,49 @@ Quando decorridos 45 dias sobre a apresentação de recurso hierárquico para o 
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 117.º — Militares dos QP
-
-1 - São militares dos QP os oficiais, sargentes e praças que, tendo ingressado voluntariamente na carreira militar e adquirido formação profissional específica para o seu exercício, integram um quadro especial do ramo respectivo.
-
-2 - Os militares dos QP servem as forças armadas como profissionais, com base num vínculo caracterizado pela sua permanência, e constituem o garante da afirmação e perenidade dos valores da instituição militar.
-
-3 - A condição de militar dos QP adquire-se com o ingresso no primeiro posto do respectivo quadro especial.
-
-###### Artigo 118.º — Juramento de fidelidade
+###### Artigo 117.º — Juramento de fidelidade
 
 Com o ingresso nos QP, o militar, em cerimónia própria, presta juramento de fidelidade, em obediência à seguinte fórmula:
 
 Juro, por minha honra, como português e como oficial/sargento/praça da(o) Armada/Exército/Força Aérea, guardar e fazer guardar a Constituição da Repúblia, cumprir as ordens e deveres militares, de acordo com as leis e regulamentos, contribuir com todas as minhas capacidades para o prestígio das forças armadas e servir a minha pátria em todas as circunstâncias e sem limitações, mesmo com o sacrifício da própria vida.
 
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 118.º — Deveres específicos
+
+1 - O militar dos QP deve dedicar-se ao serviço, colocando na sua execução toda a lealdade, zelo, competência, integridade de carácter e espírito de bem servir.
+
+2 - O militar dos QP deve empenhar-se no acesso aos postos imediatos, desenvolvendo de forma permanente a formação técnico-militar e humanística adequada à sua categoria e assegurando a necessária aptidão física e psíquica.
+
+3 - O militar dos QP deve empenhar-se na formação dos militares subordinados, desenvolvendo neles o culto dos valores pátrios e fortalecendo o seu espírito militar e cívico.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
 ### CAPÍTULO II — Deveres e direitos
 
 #### SECÇÃO I — Dos deveres
 
-###### Artigo 119.º — Deveres específicos
+###### Artigo 119.º — Incompatibilidade relativa
 
-1 - O militar dos QP deve dedicar-se devotadamente ao serviço, colocando na sua execução toda a lealdade, zelo, competência, integridade de carácter e espírito de bem servir.
+O militar dos QP na efectividade de serviço não pode aceitar nomeação ou provimento para o desempenho de quaisquer funções não militares sem prévia autorização do CEM do ramo respectivo.
 
-2 - O militar dos QP deve empenhar-se no acesso aos postos imediatos, desenvolvendo de forma permanente a formação técnico-militar e humanística adequada à sua categoria e assegurando a necessária aptidão física e psíquica.
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-3 - O militar dos QP deve empenhar-se na formação dos militares subordinados, desenvolvendo-lhes o culto pelos valores pátrios e castrenses, por forma a fortalecer o seu espírito militar e cívico.
+###### Artigo 120.º — Acesso na carreira
 
-###### Artigo 120.º — Incompatibilidade relativa
+Os militares dos QP têm o direito ao acesso aos postos imediatos dentro da sua carreira, segundo as aptidões, competência profissional e tempo de serviço que possuem, de acordo com as modalidades de promoção e vagas existentes nos respectivos quadros especiais.
 
-O militar dos QP na efectividade de serviço não pode aceitar nomeação ou provimento para o desempenho de quaisquer funções sem prévia autorização do CEM do ramo respectivo.
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 #### SECÇÃO II — Dos direitos
 
-###### Artigo 121.º — Acesso na carreira
-
-É reconhecido a todos os militares dos QP o direito ao acesso aos postos imediatos dentro da sua carreira, segundo as aptidões, competência profissional e tempo de serviço que possuem, de acordo com as modalidades de promoção e vagas existentes nos respectivos quadros especiais.
-
-###### Artigo 122.º — Formação
+###### Artigo 121.º — Formação
 
 O militar dos QP tem direito a formação permanente adequada às especificidades do respectivo quadro especial, visando a obtenção ou actualização de conhecimentos técnico-militares necessários ao desempenho das funções que lhe possam vir a ser cometidas.
 
-###### Artigo 123.º — Direito de transporte e alojamento
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 122.º — Direito de transporte e alojamento
 
 1 - Para o desempenho das suas funções militares, e consoante o cargo exercido, são atribuídos ao militar dos QP transporte e alojamento condignos, de acordo com o nível de segurança exigível, tendo em conta a sua permanente disponibilidade para o serviço.
 
@@ -2406,17 +2523,23 @@ O militar dos QP tem direito a formação permanente adequada às especificidade
 
 3 - O militar dos QP tem direito a um abono por compensação das despesas feitas resultantes da sua deslocação e do seu agregado familiar e ao transporte de bagagem, qualquer que seja o meio de transporte utilizado, quando colocado por motivo de natureza não disciplinar, cujo montante será fixado em portaria conjunta dos Ministros da Defesa Nacional e das Finanças.
 
-###### Artigo 124.º — Remuneração
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-O militar dos QP na efectividade de serviço tem, nos termos definidos em legislação própria, direito a remuneração adequada à especificidade, exclusividade e relevo do serviço que presta, de acordo com o posto, o tempo de permanência neste, as aptidões, os cargos exercidos e as funções desempenhadas.
+###### Artigo 123.º — Remuneração
 
-###### Artigo 125.º — Suplementos
+O militar dos QP na efectividade de serviço tem, nos termos definidos em legislação própria, direito a remuneração adequada à especificidade, exclusividade e relevo do serviço que presta, de acordo com o posto, o tempo de permanência neste, as aptidões, os cargos exercidos e as qualificações.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 124.º — Suplementos
 
 O militar dos QP beneficia, nos termos fixados em legislação própria, de suplementos específicos conferidos em virtude da natureza da condição militar, dos cargos exercidos, funções desempenhadas e riscos acrescidos.
 
-###### Artigo 126.º — Remuneração na reserva
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-1 - O militar na situação de reserva tem direito a uma remuneração calculada com base no posto, escalão, tempo de serviço e suplementos que a lei defina como extensivos a esta situação.
+###### Artigo 125.º — Remuneração na reserva
+
+1 - O militar na situação de reserva tem direito a uma remuneração calculada com base no posto, escalão e tempo de serviço, tal como definido neste Estatuto e suplemento que a lei defina como extensivos a esta situação.
 
 2 - O militar que, ao transitar para a situação de reserva, tenha completado 36 anos de tempo de serviço militar tem direito a perceber remuneração de montante igual à do militar com o mesmo posto e escalão no activo, acrescida dos suplementos que a lei defina como extensivos a esta situação.
 
@@ -2424,35 +2547,49 @@ O militar dos QP beneficia, nos termos fixados em legislação própria, de supl
 
 4 - Nos casos em que ao militar na situação de reserva seja, nos termos da lei, permitido desempenhar funções públicas ou prestar serviço em empresas públicas ou entidades equiparadas e o vencimento correspondente seja superior à remuneração da reserva, o montante desta será reduzido a um terço, salvo se, por despacho do Primeiro-Ministro, sob proposta do Ministro da Defesa Nacional, for autorizado montante superior, até ao limite da mesma remuneração.
 
-###### Artigo 127.º — Pensão de reforma
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-O militar dos QP na situação de reforma, de acordo com o regime estabelecido na legislação especificamente aplicável, beneficia do regime de pensões em função do posto, do escalão, do tempo de serviço e dos descontos efectuados para o efeito.
+###### Artigo 126.º — Pensão de reforma
 
-###### Artigo 128.º — Pensão de reforma extraordinária
+O militar dos QP na situação de reforma, de acordo com o regime estabelecido na legislação especificamente aplicável, beneficia do regime de pensões em função do posto, do escalão, do tempo de serviço, dos descontos efectuados para o efeito e dos suplementos que a lei defina como extensivos a esta situação.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 127.º — Pensão de reforma extraordinária
 
 1 - Sempre que a pensão de reforma do militar dos QP a que se refere o artigo 176.º, calculada de acordo com o Estatuto da Aposentação, resulte inferior à remuneração de reserva do correspondente posto e escalão do activo, ser-lhe-á abonado, a título de complemento de pensão, o diferencial verificado.
 
 2 - As verbas eventualmente necessárias para fazer face ao abono previsto no número anterior serão anualmente inscritas no orçamento do Ministério da Defesa Nacional.
 
-###### Artigo 129.º — Assistência à família
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 128.º — Assistência à família
 
 Aos membros do agregado familiar do militar dos QP é garantido o direito à assistência médica, medicamentosa e hospitalar e apoio social, de acordo com o regime definido em legislação especial.
 
-###### Artigo 130.º — Transferência de quadro especial
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-Tendo em atenção a necessidade de reclassificação, o militar dos QP pode, com a sua anuência, ser transferido de quadro especial, desde que, para o efeito, reúna as aptidões e qualificações necessárias.
+###### Artigo 129.º — Transferência de quadro especial
 
-###### Artigo 131.º — Identificação militar
+1 - Tendo em atenção a conveniência ou necessidade de reclassificação, por razões de serviço ou por conveniência do próprio, o militar dos QP pode ser transferido, com a sua anuência ou por requerimento seu, do quadro especial, desde que, para o efeito, reúna as aptidões e qualificações necessárias.
+
+2 - A transferência do quadro especial pode também ocorrer a pedido do interessado, desde que não haja inconveniente para o serviço.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 130.º — Identificação militar
 
 Ao militar dos QP é atribuído um bilhete de identidade militar, que substitui, para todos os efeitos legais, em território nacional o bilhete de identidade civil.
 
-###### Artigo 132.º — Uso e porte de arma
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 131.º — Uso e porte de arma
 
 O militar dos QP tem direito à detenção, uso e porte de arma de qualquer natureza, sendo, no entanto, obrigatório o seu manifesto quando da mesma seja proprietário.
 
-### CAPÍTULO III — Hierarquia e funções
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 133.º — Listas de antiguidade
+###### Artigo 132.º — Listas de antiguidade
 
 1 - Anualmente serão publicadas as listas de antiguidade dos oficiais, sargentos e praças dos QP de cada ramo, onde se inscrevem os militares no activo, reserva e reforma.
 
@@ -2460,7 +2597,11 @@ O militar dos QP tem direito à detenção, uso e porte de arma de qualquer natu
 
 3 - Nas listas referentes às situações de reserva e reforma os militares são inscritos de acordo com as classes, armas e serviços, especialidades, postos e antiguidade relativa.
 
-###### Artigo 134.º — Inscrição na lista de antiguidade
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+### CAPÍTULO III — Hierarquia e funções
+
+###### Artigo 133.º — Inscrição na lista de antiguidade
 
 1 - O militar dos QP na situação de activo ocupa um lugar na lista de antiguidade do quadro especial a que pertence.
 
@@ -2478,31 +2619,43 @@ c) Maior idade.
 
 5 - No ordenamento hierárquico ditado pela lista de antiguidade considera-se qualquer militar à esquerda de todos os que são mais antigos do que ele e à direita dos que são mais modernos.
 
-###### Artigo 135.º — Alteração na antiguidade
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 134.º — Alteração na antiguidade
 
 1 - Sempre que seja alterada a colocação de um militar dos QP na lista de antiguidade, a data da sua nova antiguidade deve constar expressamente do documento que determina essa alteração.
 
 2 - Sempre que militares do mesmo quadro especial forem promovidos a um dado posto na mesma data, havendo alteração do ordenamento anterior, deve esta constar expressamente do documento oficial de promoção.
 
-###### Artigo 136.º — Antiguidade por transferência de quadro especial
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 135.º — Antiguidade por transferência de quadro especial
 
 O militar dos QP transferido, por reclassificação, para outro quadro especial mantém o posto e antiguidade do quadro de origem e é inscrito na lista de antiguidade, tendo em atenção as regras estabelecidas no artigo seguinte.
 
-###### Artigo 137.º — Antiguidade relativa
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 136.º — Antiguidade relativa
 
 A antiguidade relativa entre militares dos QP com o mesmo posto ou postos correspondentes, mas de quadros especiais diferentes, é determinada pelas datas de antiguidade nesse posto e, em caso de igualdade destas, pelas datas de antiguidade no posto anterior, e assim sucessivamente, aplicando-se para o posto de ingresso o estabelecido no artigo 134.º
 
-###### Artigo 138.º — Funções do militar dos QP
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 137.º — Funções do militar dos QP
 
 Ao militar dos QP é cometido o desempenho de funções características do posto e quadro especial a que pertence, tendo em atenção as qualificações, a competência e a experiência profissional reveladas e o interesse do serviço.
 
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 138.º — Carreira militar
+
+A carreira militar é o conjunto hierarquizado de postos em cada categoria que se concretiza em determinado quadro especial e a que corresponde o exercício de cargos e o desempenho de funções diferenciados entre si.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
 ### CAPÍTULO IV — Carreiras militares
 
-###### Artigo 139.º — Carreira militar
-
-A carreira militar é o conjunto hierarquizado de postos em cada categoria, que se reflecte num dado quadro especial e a que corresponde o exercício de cargos e o desempenho de funções diferenciados entre si.
-
-###### Artigo 140.º — Princípios
+###### Artigo 139.º — Princípios
 
 O desenvolvimento das carreiras militares orienta-se pelos seguintes princípios:
 
@@ -2522,25 +2675,35 @@ g) Da mobilidade - faculdade de compatibilizar os interesses da instituição mi
 
 h) Da credibilidade - transparência dos métodos e critérios a aplicar.
 
-###### Artigo 141.º — Objectivos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 140.º — Objectivos
 
 O desenvolvimento da carreira militar visa a promoção dos militares aos diferentes postos, atentos os princípios mencionados no artigo anterior, os interesses da instituição militar e os anseios pessoais de valorização.
 
-###### Artigo 142.º — Condicionamentos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-O fluxo normal do desenvolvimento da carreira está condicionado à verificação dos seguintes pressupostos:
+###### Artigo 141.º — Condicionamentos
+
+1 - O fluxo normal do desenvolvimento da carreira está condicionado à verificação dos seguintes pressupostos:
 
 a) Existência de mecanismos reguladores que assegurem flexibilidade de gestão e permanente motivação dos militares;
 
 b) Alimentação adequada às necessidades em cada quadro especial.
 
-###### Artigo 143.º — Desenvolvimento da carreira
+2 - Consideram-se mecanismos reguladores, designadamente, as condições de promoção estabelecidas nos artigos 60.º e 64.º, bem como a avaliação de mérito constante dos artigos 85.º e seguintes.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 142.º — Desenvolvimento da carreira
 
 1 - O desenvolvimento da carreira verifica-se de acordo com as qualificações, a antiguidade e o mérito revelados no seu desempenho profissional, observada a satisfação das condições, gerais e especiais, de promoção e as necessidades estruturais das forças armadas.
 
 2 - O desenvolvimento da carreira deve possibilitar uma permanência significativa e funcionalmente eficaz nos diferentes postos que a constituem.
 
-###### Artigo 144.º — Designação das carreiras
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 143.º — Designação das carreiras
 
 1 - As carreiras militares designam-se:
 
@@ -2552,11 +2715,13 @@ c) De praças.
 
 2 - O militar dos QP, desde que reúna as condições previstas neste Estatuto e legislação complementar aplicável, pode candidatar-se à frequência de cursos que possibilitem o acesso a carreira militar de nível superior à sua.
 
-###### Artigo 145.º — Carreira de oficiais
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 144.º — Carreira de oficiais
 
 1 - Para o acesso à carreira de oficiais é exigida licenciatura ou formação militar e técnica equiparada a bacharelato.
 
-2 - A carreira de oficais cuja formação de base é uma licenciatura ou curso legalmente equiparado destina-se, essencialmente, ao exercício de comando de forças, direcção ou chefia e ao desempenho de funções técnico-científicas que requeiram elevado grau de conhecimentos e especialização.
+2 - A carreira de oficiais cuja formação de base é uma licenciatura ou curso legalmente equiparado destina-se ao exercício de funções de comando de forças, direcção ou chefia, estado-maior e execução e ao desempenho de funções técnico-científicas que requeiram elevado grau de conhecimentos e especialização.
 
 3 - Os quadros especiais referentes à carreira mencionada no número anterior podem, consoante as necessidades específicas de cada ramo, incluir os seguintes postos:
 
@@ -2578,7 +2743,7 @@ Segundo-tenente (2TEN) ou tenente (TEN);
 
 Guarda-marinha (GMAR) ou alferes (ALF).
 
-4 - A carreira de oficiais cuja formação de base seja equiarada a bahcarelato destina-se, essencialmente, ao exercício de funções de comando ou chefia em áreas técnicas.
+4 - A carreira de oficiais cuja formação de base seja equiparada a bacharelato destina-se ao exercício de funções de comando, chefia e execução em áreas técnicas.
 
 5 - Os quadros especiais referentes à carreira mencionada no número anterior podem, consoante as necessidades específicas de cada ramo, incluir os seguintes postos:
 
@@ -2594,9 +2759,11 @@ Segundo-tenente ou tenente;
 
 Subtenente (STEN) ou alferes.
 
-###### Artigo 146.º — Carreira de sargentos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-1 - Para o ingresso na carreira de sargentos é exigida uma formação militar e técnica equiparada a curso técnico-profissional, prevista na legislação em vigor.
+###### Artigo 145.º — Carreira de sargentos
+
+1 - Para o ingresso na carreira de sargentos é exigido o ensino secundário, concluído com aproveitamento, complementado pela formação militar necessária ao exercício de funções naquela categoria, ou formação militar que habilite a certificação de qualificação profissional de nível 3 e equivalência com o ensino secundário.
 
 2 - A carreira de sargentos destina-se, de acordo com os respectivos quadros especiais e postos, ao exercício de funções de comando e chefia, de natureza executiva, de carácter técnico, administrativo-logístico e de instrução.
 
@@ -2612,17 +2779,21 @@ Primeiro-sargento (1SAR);
 
 Segundo-sargento (2SAR).
 
-###### Artigo 147.º — Carreira de praças
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 146.º — Carreira de praças
 
 Para o ingresso na carreira de praças é exigida a escolaridade obrigatória, acrescida de formação militar e técnica específica, e destina-se ao exercício, sob orientação, de funções de natureza executiva e ao desenvolvimento de actividades de âmbito técnico e administrativo, próprias dos respectivos quadros especiais e postos.
 
-###### Artigo 148.º — Recrutamento
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 147.º — Recrutamento
 
 O recrutamento para os QP é feito através de recrutamento especial, por concurso de admissão, nos termos previstos em legislação própria.
 
-### CAPÍTULO V — Nomeações e colocações
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 149.º — Colocação de militares
+###### Artigo 148.º — Colocação de militares
 
 A colocação dos militares em unidades, estabelecimentos ou órgãos militares é efectuada por nomeação e deve ser realizada em obediência aos seguintes princípios:
 
@@ -2634,39 +2805,47 @@ c) Aproveitamento da capacidade profissional, avaliada em função da competênc
 
 d) Conciliação, na medida do possível, dos interesses pessoais com os do serviço.
 
-###### Artigo 150.º — Tipo de nomeações
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+### CAPÍTULO V — Nomeações e colocações
+
+###### Artigo 149.º — Tipo de nomeações
 
 A nomeação dos militares para o exercício de quaisquer funções militares desempenhadas em comissão normal processa-se por escolha, oferecimento ou imposição de serviço.
 
-###### Artigo 151.º — Nomeação por escolha
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 150.º — Nomeação por escolha
 
 1 - A nomeação por escolha tem carácter nominal, processa-se independentemente de qualquer escala e é da competência do CEM do ramo.
 
 2 - A nomeação por escolha resulta dos superiores interesses do serviço e terá em conta as qualificações técnicas, as qualidades pessoais do nomeado e as exigências do cargo ou das funções a desempenhar.
 
-###### Artigo 152.º — Nomeação por oferecimento
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 151.º — Nomeação por oferecimento
 
 1 - A nomeação por oferecimento tem por base uma declaração do militar, na qual, de forma expressa, se oferece para exercer uma determinada função ou cargo.
 
 2 - O processo de nomeação por oferecimento inicia-se com o respectivo convite aos militares que satisfaçam os requisitos técnicos e profissionais exigidos, devendo tal convite ser objecto de divulgação através das ordens de serviço.
 
-###### Artigo 153.º — Nomeação por imposição
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-1 - A nomeação por imposição de serviço recai no militar ao qual, por escala, compete o exercício de determinada função ou cargo.
+###### Artigo 152.º — Nomeação por imposição
+
+1 - A nomeação por imposição de serviço recai no militar ao qual, por escala, compete o exercício de determinada função própria do posto ou cargo.
 
 2 - Nas escalas referidas no número anterior são inscritos os militares dos QP que satisfaçam os requisitos técnicos e profissionais exigidos para o exercício de determinadas funções ou cargos.
 
-###### Artigo 154.º — Normas de nomeação e colocação
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 153.º — Normas de nomeação e colocação
 
 As normas de nomeação e colocação são, no respeito do fixado no presente capítulo, estabelecidas por despacho do respectivo CEM.
 
-### CAPÍTULO VI — Situações e efectivos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-#### SECÇÃO I — Situações
-
-##### SUBSECÇÃO I — Disposições gerais
-
-###### Artigo 155.º — Situações
+###### Artigo 154.º — Situações
 
 O militar dos QP encontra-se numa das seguintes situações:
 
@@ -2676,13 +2855,23 @@ b) Reserva;
 
 c) Reforma.
 
-###### Artigo 156.º — Activo
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+### CAPÍTULO VI — Situações e efectivos
+
+#### SECÇÃO I — Situações
+
+##### SUBSECÇÃO I — Disposições gerais
+
+###### Artigo 155.º — Activo
 
 1 - Considera-se no activo o militar dos QP que se encontre afecto ao serviço efectivo ou em condições de ser chamado ao seu desempenho e não tenha sido abrangido pelas situações de reserva ou de reforma.
 
 2 - O militar no activo pode encontrar-se na efectividade de serviço ou fora da efectividade de serviço.
 
-###### Artigo 157.º — Reserva
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 156.º — Reserva
 
 1 - Reserva é a situação para que transita o militar dos QP no activo desde que verificadas as condições estabelecidas neste Estatuto, mantendo-se, no entanto, disponível para o serviço.
 
@@ -2690,15 +2879,17 @@ c) Reforma.
 
 3 - Os efectivos dos militares na situação de reserva não são fixos.
 
-###### Artigo 158.º — Reforma
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 157.º — Reforma
 
 1 - A reforma é a situação para que transita o militar dos QP no activo ou na reserva que seja abrangido pelo disposto no artigo 175.º
 
 2 - O militar na reforma não pode exercer funções militares, salvo nas circunstâncias excepcionais previstas neste Estatuto.
 
-##### SUBSECÇÃO II — Activo
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 159.º — Situações em relação à prestação de serviço
+###### Artigo 158.º — Situações em relação à prestação de serviço
 
 O militar dos QP no activo pode estar, em relação à prestação de serviço, numa das seguintes situações:
 
@@ -2710,21 +2901,29 @@ c) Inactividade temporária;
 
 d) Licença sem vencimento.
 
-###### Artigo 160.º — Comissão normal
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+##### SUBSECÇÃO II — Activo
+
+###### Artigo 159.º — Comissão normal
 
 1 - Designa-se por comissão normal a prestação de serviço, nas forças armadas ou em cargos militares, fora do seu âmbito.
 
 2 - O militar que tenha sido nomeado para determinado cargo considerado de interesse nacional ou da instituição militar, e desde que o respectivo diploma assim o determine, é considerado em comissão normal.
 
-###### Artigo 161.º — Comissão especial
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 160.º — Comissão especial
 
 1 - Designa-se por comissão especial o exercício de cargos ou desempenho de funções públicas que, não sendo de natureza militar, assumam interesse nacional.
 
 2 - Ao militar em comissão especial não é permitido o uso de uniforme em actos de serviço relativos às funções a que não corresponda o direito ao uso de insígnias militares.
 
-###### Artigo 162.º — Inactividade temporária
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-1 - A inactividade temporária consiste no afastamento temporário do desempenho de funções por motivo de acidente, doença ou de cumprimento de pena de natureza criminal ou disciplinar.
+###### Artigo 161.º — Inactividade temporária
+
+1 - A inactividade temporária consiste no afastamento temporário do desempenho de funções, nos casos referidos na alínea a) do número seguinte, ou por cumprimento de pena de natureza criminal ou disciplinar.
 
 2 - O militar dos QP no activo considera-se em inactividade temporária nos seguintes casos:
 
@@ -2736,7 +2935,9 @@ b) Por motivos criminais ou disciplinares, quando no cumprimento das penas de pr
 
 4 - A situação do militar assistido pela Assistência aos Tuberculosos das Forças Armadas (ATFA) é regulada em legislação especial.
 
-###### Artigo 163.º — Efeitos da inactividade temporária
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 162.º — Efeitos da inactividade temporária
 
 1 - Quando decorridos 48 meses de inactividade temporária por doença ou acidente e a junta médica, por razões justificadas, não esteja ainda em condições de se pronunciar quanto à capacidade definitiva do militar dos QP, deverá observar-se o seguinte:
 
@@ -2746,11 +2947,15 @@ b) Se a inactividade for resultante de acidente ocorrido em serviço ou de doen�
 
 2 - A inactividade temporária resultante do cumprimento de penas criminais ou disciplinares produz os efeitos previstos na lei.
 
-###### Artigo 164.º — Licença sem vencimento
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 163.º — Licença sem vencimento
 
 Considera-se na situação de licença sem vencimento o militar que se encontre de licença ilimitada ou registada nos termos do presente Estatuto.
 
-###### Artigo 165.º — Situações quanto à efectividade de serviço
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 164.º — Situações quanto à efectividade de serviço
 
 1 - Considera-se na efectividade de serviço o militar dos QP no activo quando se encontre:
 
@@ -2764,21 +2969,25 @@ a) Em comissão especial;
 
 b) De licença ilimitada.
 
-###### Artigo 166.º — Mudanças de situação por força de sanções extraordinárias
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 165.º — Mudanças de situação por força de sanções extraordinárias
 
 1 - O militar dos QP cujo comportamento, em processo próprio, no qual lhe será dada a possibilidade, material e jurídica, de apresentar a sua defesa, se revele incompatível com a permanência no activo e na efectividade de serviço, pela prática de actos atentatórios do prestígio da instituição militar, transita compulsivamente para a situação de reforma se reunir as condições legais para o efeito ou é separado do serviço.
 
 2 - A aplicação destas sanções extraordinárias é da competência do CEM respectivo, ouvido o CSD do ramo.
 
-###### Artigo 167.º — Regresso à situação do activo
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 166.º — Regresso à situação do activo
 
 1 - Regressa ao activo o militar dos QP na reserva ou na reforma que exerça o cargo de Presidente da República, voltando à situação anterior logo que cesse o seu mandato.
 
 2 - Regressa ao activo o militar dos QP na reserva ou na reforma que seja promovido por distinção ou a título excepcional, voltando à situação anterior se se mantiverem as condições que do antecedente determinaram a passagem a essas situações.
 
-##### SUBSECÇÃO III — Reserva
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 168.º — Condições de passagem à reserva
+###### Artigo 167.º — Condições de passagem à reserva
 
 Transita para a situação de reserva o militar dos QP que:
 
@@ -2788,7 +2997,11 @@ b) Tenha 20 ou mais anos de serviço militar, a requeira e lhe seja deferida;
 
 c) Declare, por escrito, desejar a passagem à reserva depois de completar 36 anos de tempo de serviço militar.
 
-###### Artigo 169.º — Limites de idade
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+##### SUBSECÇÃO III — Reserva
+
+###### Artigo 168.º — Limites de idade
 
 Os limites de idade de passagem à reserva nos postos dos militares dos QP são os seguintes:
 
@@ -2822,7 +3035,9 @@ d) Praças:
 
 Todos os postos - 57.
 
-###### Artigo 170.º — Prestação de serviço por militares na reserva
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 169.º — Prestação de serviço por militares na reserva
 
 1 - A prestação de serviço efectivo por militares na reserva processa-se:
 
@@ -2836,7 +3051,9 @@ c) A requerimento do próprio, mediante despacho favorável do CEM do ramo.
 
 3 - O militar que transitar para a situação de reserva mediante requerimento só pode regressar à efectividade de serviço, a seu pedido, decorridos dois anos sobre a data da mudança de situação, desde que haja interesse para o serviço.
 
-###### Artigo 171.º — Serviço efectivo dos militares na reserva
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 170.º — Serviço efectivo dos militares na reserva
 
 1 - O militar dos QP na situação de reserva na efectividade de serviço desempenha cargos ou funções inerentes ao seu posto compatíveis com o seu estado físico ou psíquico.
 
@@ -2846,21 +3063,29 @@ c) A requerimento do próprio, mediante despacho favorável do CEM do ramo.
 
 4 - Os termos em que o militar na situação de reserva pode ser chamado à efectividade de serviço constarão de portaria do Ministro da Defesa Nacional, ouvido o CCEM.
 
-###### Artigo 172.º — Estado de sítio ou guerra
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 171.º — Estado de sítio ou guerra
 
 Decretada a mobilização geral ou declarado o estado de sítio ou guerra, o militar na reserva deve apresentar-se ao serviço efectivo, de acordo com as normas estabelecidas pelo seu ramo.
 
-###### Artigo 173.º — Data da passagem à reserva
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 172.º — Data da passagem à reserva
 
 A passagem à reserva tem lugar na data fixada no documento oficial que promova a mudança de situação.
 
-###### Artigo 174.º — Suspensão da passagem à reserva
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-A passagem à situação de reserva de um militar dos QP que atinja o limite de idade para o seu posto é sustada quando se verifique a existência de uma vacatura em data anterior e de cujo preenchimento possa resultar a sua promoção ao posto seguinte, transitando para a situação de adido até à data da promoção ou da mudança de situação.
+###### Artigo 173.º — Suspensão da passagem à reserva
 
-##### SUBSECÇÃO IV — Reforma
+1 - A passagem à situação de reserva de um militar dos QP que atinja o limite de idade para o seu posto é sustada quando se verifique a existência de uma vacatura em data anterior e de cujo preenchimento possa resultar a sua promoção ao posto seguinte, transitando para a situação de adido até à data da promoção ou da mudança de situação.
 
-###### Artigo 175.º — Reforma
+2 - A suspensão de passagem à reserva nos termos do número anterior termina logo que ocorra a primeira promoção àquele posto no respectivo quadro especial.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 174.º — Reforma
 
 Transita para a situação de reforma o militar dos QP que:
 
@@ -2874,11 +3099,15 @@ a) Tendo prestado o tempo mínimo de serviço previsto no Estatuto da Aposentaç
 
 b) Atinja os 65 anos de idade;
 
-c) Complete, seguida ou interpoladamente, nove anos de situação de reserva fora da efectividade de serviço;
+c) Complete, seguida ou interpoladamente, cinco anos na situação de reserva fora da efectividade de serviço;
 
 d) Requeira a passagem à reforma depois de completados 60 anos de idade e 36 de tempo de serviço.
 
-###### Artigo 176.º — Reforma extraordinária
+> Alterado pelo/a [Lei n.º 15/92](https://diariodarepublica.pt/dr/detalhe/lei/15-1992-274443), publicado em 1992-08-05.
+
+##### SUBSECÇÃO IV — Reforma
+
+###### Artigo 175.º — Reforma extraordinária
 
 Transita para a situação de reforma extraordinária o militar dos QP que:
 
@@ -2888,19 +3117,21 @@ b) Opte pela colocação nesta situação quando se verifique a circunstância p
 
 c) Seja abrangido por outras condições estabelecidas na lei.
 
-###### Artigo 177.º — Prestação de serviço na reforma
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 176.º — Prestação de serviço na reforma
 
 Em situação de estado de sítio ou de guerra, o militar dos QP na situação de reforma pode ser chamado a prestar serviço efectivo compatível com o seu posto, aptidões e estado físico e psíquico.
 
-###### Artigo 178.º — Data da passagem à reforma
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 177.º — Data da passagem à reforma
 
 A passagem à reforma tem lugar na data fixada no documento oficial que promova a mudança de situação.
 
-#### SECÇÃO II — Efectivos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-##### SUBSECÇÃO I — Quadros
-
-###### Artigo 179.º — Quadro de pessoal
+###### Artigo 178.º — Quadro de pessoal
 
 1 - Designa-se por quadro de pessoal, em cada ramo, o número dos efectivos permanentes, na situação do activo, distribuídos por categorias e postos, com vista ao exercício de cargos e desempenho de funções, no mesmo ramo.
 
@@ -2908,7 +3139,13 @@ A passagem à reforma tem lugar na data fixada no documento oficial que promova 
 
 3 - O quadro de pessoal de cada ramo é fixado por decreto-lei, sob proposta do CCEM.
 
-###### Artigo 180.º — Quadros especiais
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+#### SECÇÃO II — Efectivos
+
+##### SUBSECÇÃO I — Quadros
+
+###### Artigo 179.º — Quadros especiais
 
 1 - Designa-se por quadros especiais o conjunto de lugares distribuídos por categorias e postos segundo a mesma formação de base ou afim.
 
@@ -2922,9 +3159,11 @@ Especialidades ou grupo de especialidades, na Força Aérea.
 
 3 - As classes, na Marinha, armas e serviços, no Exército, e as especialidades ou grupos de especialidades, na Força Aérea, são criados e extintos por portaria do Ministro da Defesa Nacional, sob proposta do CCEM.
 
-4 - Os quadros especiais são aprovados por despacho do CEM de cada ramo.
+4 - Os quadros especiais são aprovados por despacho do CEM de cada ramo, ouvido o respectivo conselho superior.
 
-###### Artigo 181.º — Vacaturas
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 180.º — Vacaturas
 
 1 - Os lugares dos quadros especiais, quando não preenchidos pelos efectivos legalmente aprovados, dizem-se vagos e constituem vacaturas nos mesmos quadros.
 
@@ -2936,7 +3175,9 @@ Especialidades ou grupo de especialidades, na Força Aérea.
 
 5 - O efectivo fixado para o posto mais elevado para o qual se efectuou o movimento ao abrigo do número anterior é aumentado, transitoriamente, do quantitativo de militares promovidos nestas condições.
 
-###### Artigo 182.º — Ingresso
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 181.º — Ingresso
 
 1 - O ingresso nos QP faz-se, após a conclusão com aproveitamento do respectivo curso de formação, no posto fixado para início de carreira, independentemente de vacatura.
 
@@ -2948,11 +3189,15 @@ Especialidades ou grupo de especialidades, na Força Aérea.
 
 5 - O militar é graduado no posto a que já tenha ascendido em regime de contrato quando, por ingresso nos QP, lhe compita posto inferior.
 
-###### Artigo 183.º — Data de ingresso
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 182.º — Data de ingresso
 
 A data de ingresso nos QP é a constante do documento oficial que promove o militar no posto fixado para início da respectiva carreira.
 
-###### Artigo 184.º — Abate aos QP
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 183.º — Abate aos QP
 
 1 - É abatido aos QP, ficando sujeito às obrigações decorrentes da Lei do Serviço Militar (LSM), o militar que:
 
@@ -2962,7 +3207,7 @@ b) Seja separado do serviço;
 
 c) Não tendo cumprido o tempo mínimo de serviço efectivo após o ingresso nos QP fixado neste Estatuto para cada categoria, o requeira, e a tanto seja autorizado, mediante indemnização à Fazenda Nacional, a fixar pelo respectivo CEM;
 
-d) Tendo cumprido o tempo mínimo de serviço efectivo após o ingresso nos QP fixado neste Estatuto para cada categoria, o requeira e seja autorizado;
+d) O requeira, tendo cumprido o tempo mínimo de serviço efectivo após o ingresso nos QP fixado neste Estatuto para cada categoria, sem prejuízo do disposto no n.º 2 do artigo 206.º;
 
 e) Exceda o período de 10 anos, seguidos ou interpolados, na situação de licença ilimitada e não reúna as condições legais para transitar para a situação de reserva;
 
@@ -2972,9 +3217,9 @@ f) Se encontre em ausência superior a dois anos sem que dele haja notícia.
 
 3 - Na fixação da indemnização a que se refere a alínea c) do n.º 1 devem ser tidos em consideração, designadamente, a duração e custos dos cursos de formação e subsequentes acções de qualificação e actualização, na perspectiva de utilização efectiva do militar em funções próprias do quadro especial e posto decorrentes da formação adquirida.
 
-##### SUBSECÇÃO II — Situações em relação ao quadro especial
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 185.º — Situações
+###### Artigo 184.º — Situações
 
 O militar dos QP no activo pode estar, em relação ao quadro especial a que pertence, numa das seguintes situações:
 
@@ -2984,11 +3229,17 @@ b) Adido ao quadro;
 
 c) Supranumerário.
 
-###### Artigo 186.º — Militar no quadro
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+##### SUBSECÇÃO II — Situações em relação ao quadro especial
+
+###### Artigo 185.º — Militar no quadro
 
 Considera-se no quadro o militar dos QP que é contado nos efectivos do respectivo quadro especial.
 
-###### Artigo 187.º — Adido ao quadro
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 186.º — Adido ao quadro
 
 Considera-se adido ao quadro o militar dos QP no activo que não seja contado nos efectivos do respectivo quadro especial, por se encontrar numa das seguintes situações:
 
@@ -3018,7 +3269,9 @@ b) Em comissão normal;
 
 11) Seja considerado desertor, prisioneiro de guerra ou desaparecido.
 
-###### Artigo 188.º — Supranumerário
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 187.º — Supranumerário
 
 1 - Considera-se supranumerário o militar dos QP no activo que, não estando na situação de adido, não possa ocupar vaga no quadro especial a que pertence por falta de vacatura no seu posto.
 
@@ -3038,9 +3291,9 @@ e) Regresso da situação de adido;
 
 f) Reabilitação em consequência da revisão de processo disciplinar ou criminal.
 
-#### SECÇÃO III — Tempo de serviço
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 189.º — Contagem de tempo de serviço efectivo
+###### Artigo 188.º — Contagem de tempo de serviço efectivo
 
 Conta-se como tempo de serviço efectivo, para além do referido no artigo 49.º, o seguinte:
 
@@ -3054,31 +3307,43 @@ d) Do tempo em que o militar esteve compulsivamente afastado do serviço, desde 
 
 e) Da frequência de cursos de formação nos estabelecimentos de ensino militar que habilitam o ingresso nos quadros permanentes nas categorias de sargento e praça.
 
-### CAPÍTULO VII — Promoções e graduações
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 190.º — Promoções
+#### SECÇÃO III — Tempo de serviço
+
+###### Artigo 189.º — Promoções
 
 1 - A promoção do militar dos QP realiza-se segundo o ordenamento estabelecido nas listas de promoção do quadro especial a que pertence, salvo no caso das promoções por distinção e a título excepcional.
 
 2 - A promoção do militar dos QP efectua-se independentemente da sua situação em relação ao seu quadro especial, salvo o disposto no artigo 203.º
 
-###### Artigo 191.º — Promoção de militares na reserva e na reforma
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+### CAPÍTULO VII — Promoções e graduações
+
+###### Artigo 190.º — Promoção de militares na reserva e na reforma
 
 Os militares na situação de reserva ou de reforma apenas podem ser promovidos por distinção e a título excepcional, nos termos de legislação especial.
 
-###### Artigo 192.º — Promoção de adidos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 191.º — Promoção de adidos
 
 1 - O militar dos QP adido ao quadro a quem caiba a promoção por antiguidade ou por escolha será promovido, não ocupando vacatura e mantendo-se na mesma situação, em relação ao quadro, no novo posto, com a excepção do n.º 2 deste artigo.
 
 2 - Nas promoções por antiguidade e por escolha o militar dos QP adido ao quadro deve ocupar a vacatura que deu origem à sua promoção, desde que no novo posto não possa continuar na situação de adido.
 
-###### Artigo 193.º — Promoção de supranumerários
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 192.º — Promoção de supranumerários
 
 1 - O militar dos QP na situação de supranumerário a quem caiba a promoção por antiguidade ou escolha será promovido, ocupando vacatura, no novo posto.
 
 2 - Quando do antecedente não existam supranumerários e se verifique no mesmo dia uma vacatura e uma situação de supranumerário, este ocupa aquela vacatura.
 
-###### Artigo 194.º — Listas de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 193.º — Listas de promoção
 
 1 - Designa-se por lista de promoção a relação anual, ordenada, em cada posto e quadro especial, de acordo com a modalidade de promoção estabelecida para acesso ao posto imediato, dos militares que até 31 de Dezembro de cada ano reúnam as condições de promoção.
 
@@ -3096,13 +3361,17 @@ Os militares na situação de reserva ou de reforma apenas podem ser promovidos 
 
 8 - O disposto nos números anteriores não se aplica às promoções a oficial general e de oficial general, as quais se processam nos termos da LDNFA.
 
-###### Artigo 195.º — Não satisfação das condições gerais
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 194.º — Não satisfação das condições gerais
 
 1 - O militar dos QP que não satisfaça qualquer das condições gerais de promoção previstas no artigo 60.º fica excluído da promoção, sendo do facto notificado por escrito.
 
 2 - O militar que num mesmo posto e em dois anos seguidos ou alternados não satisfaça, por falta de mérito absoluto, qualquer das três primeiras condições gerais de promoção é definitivamente excluído da promoção.
 
-###### Artigo 196.º — Verificação da quarta condição geral
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 195.º — Verificação da quarta condição geral
 
 A verificação da satisfação da quarta condição geral de promoção a que se refere o artigo 60.º é feita:
 
@@ -3110,23 +3379,31 @@ a) Pelas competentes juntas médicas, quando se trate das promoções aos postos
 
 b) Pelos elementos que constam das informações periódicas e dos livretes de saúde, quando se trate das promoções a outros postos, devendo o militar, em caso de dúvida, ser presente às juntas referidas no número anterior.
 
-###### Artigo 197.º — Satisfação das condições especiais de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 196.º — Satisfação das condições especiais de promoção
 
 1 - As condições especiais de promoção são satisfeitas em comissão normal.
 
 2 - O militar dos QP em comissão especial deve declarar, com a antecedência necessária, se deseja ou não que lhe seja facultada a satisfação das condições especiais de promoção.
 
-###### Artigo 198.º — Não satisfação das condições especiais de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 197.º — Não satisfação das condições especiais de promoção
 
 Sempre que um militar dos QP não reúna todas as condições especiais de promoção, mas esteja incluído no conjunto dos militares em apreciação, é analisado do mesmo modo que os militares com a totalidade das condições, com parecer do órgão de gestão de pessoal do ramo sobre se deve ou não delas ser dispensado.
 
-###### Artigo 199.º — Dispensa das condições especiais de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 198.º — Dispensa das condições especiais de promoção
 
 1 - Para efeitos de inclusão na lista de promoção, o CEM de cada ramo, mediante despacho fundamentado, pode, a título excepcional e por conveniência de serviço, dispensar o militar da satisfação das condições especiais de promoção a que se referem as alíneas b), c) e e) do n.º 1 do artigo 64.º
 
 2 - A dispensa prevista no número anterior só pode ser concedida a título nominal e por uma só vez ao longo da sua carreira.
 
-###### Artigo 200.º — Data da antiguidade
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 199.º — Data da antiguidade
 
 1 - A data da antiguidade no posto corresponde:
 
@@ -3148,7 +3425,9 @@ f) À data em que, após terem cessado os motivos da preterição, ocorrer a vac
 
 4 - A data da antiguidade do militar dos QP a quem seja alterada a colocação na lista de antiguidade do seu posto por efeito do n.º 1 do artigo 58.º é a do militar do seu quadro especial que, na nova posição, lhe fique imediatamente a seguir na ordem descendente, salvo se outra data for indicada no diploma que determina a alteração.
 
-###### Artigo 201.º — Antiguidade para efeitos de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 200.º — Antiguidade para efeitos de promoção
 
 Para efeitos de promoção não conta como antiguidade:
 
@@ -3160,65 +3439,83 @@ c) O tempo de permanência em licença ilimitada;
 
 d) O tempo de serviço prestado antes do ingresso nos QP.
 
-###### Artigo 202.º — Organização dos processos de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 201.º — Organização dos processos de promoção
 
 1 - Incumbe aos órgãos de gestão de pessoal de cada ramo proceder à organização dos processos de promoção, os quais devem incluir todos os elementos necessários para a verificação das condições de promoção.
 
-2 - Os processos de promoção são confidenciais, devendo ao interessado ser facultada a consulta do respectivo processo individual, desde que fundamentadamente o requeira.
+2 - Os processos de promoção são confidenciais, mas o interessado tem direito à consulta do respectivo processo individual, desde que o requeira.
 
-###### Artigo 203.º — Exclusão da promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 202.º — Exclusão da promoção
 
 O militar na situação de licença ilimitada não pode ser promovido enquanto se mantiver em tal situação.
 
-###### Artigo 204.º — Cessação da graduação
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 203.º — Cessação da graduação
 
 1 - A graduação do militar dos QP cessa com a sua passagem à situação de reserva no posto em que se encontra promovido.
 
 2 - A graduação não confere ao militar dos QP direito à alteração da remuneração auferida na situação de reserva ou da pensão de reforma.
 
-### CAPÍTULO VIII — Formação, instrução e treino
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 205.º — Cursos de formação
+###### Artigo 204.º — Cursos de formação
 
-1 - O processo de admissão, o regime escolar e a organização dos cursos de formação que habilitam ao ingresso nos QP, bem como o estabelecimento das equivalências entre disciplinas e cursos, são regulamentados em legislação própria.
+1 - O processo de admissão, o regime escolar e a organização dos cursos de formação que habilitam ao ingresso nos QP são regulados por disposições próprias.
 
 2 - O número de vagas para admissão aos cursos de formação para ingresso nos QP é fixado anualmente por despacho do MDN, sob proposta do CEM do ramo respectivo, tendo em conta:
 
-a) A necessidade de alimentação dos quadros especiais;
+a) As necessidades estruturais e organizacionais e as decorrentes necessidades de alimentação dos quadros especiais;
 
 b) A programação e desenvolvimento dos diferentes tipos de carreiras.
 
-3 - Os efectivos em frequência de cursos de formação para ingresso nos QP, genericamente designados por alunos dos estabelecimentos de ensino militar têm a condição militar, ficando, com as necessárias adaptações, constantes de legislação própria, sujeitos ao regime geral de deveres e direitos constantes deste Estatuto.
+3 - Os efectivos recrutados ao abrigo do artigo 147.º que frequentem cursos de formação para ingresso nos QP, abreviadamente designados por militares alunos, ficam, com as adaptações decorrentes da sua condição de aluno, constantes de legislação própria, sujeitos ao regime geral de deveres e direitos respeitantes aos militares da forma de prestação de serviço a que se destinam.
 
-###### Artigo 206.º — Nomeação para os cursos de promoção
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+### CAPÍTULO VIII — Formação, instrução e treino
+
+###### Artigo 205.º — Nomeação para os cursos de promoção
 
 1 - A nomeação do militar dos QP para os cursos de promoção é feita por despacho do CEM do ramo respectivo, tendo em conta:
 
 a) As necessidades do ramo;
 
-b) As condições de acesso fixadas para a sua frequência;
+b) As condições de acesso fixadas na lei para a sua frequência;
 
 c) A posição do militar na lista de antiguidade do posto a que pertence.
 
 2 - Não é nomeado para o curso de promoção o militar que durante a sua frequência atinja o limite de idade de passagem à situação de reserva.
 
-###### Artigo 207.º — Nomeação para os cursos de especialização ou qualificação
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-1 - A nomeação dos militares dos QP para frequência de cursos de especialização ou qualificação é feita por despacho do CEM respectivo, de acordo com as necessidades próprias de cada ramo, tendo em conta os seguintes factores:
+###### Artigo 206.º — Nomeação para os cursos de especialização ou qualificação
+
+1 - A realização e os requisitos dos cursos de especialização e de qualificação serão sempre publicados em ordem de serviço, com uma antecedência mínima de 60 dias.
+
+2 - A nomeação dos militares dos QP para frequência de cursos de especialização ou qualificação é feita por despacho do CEM respectivo, de acordo com as necessidades próprias de cada ramo, tendo em conta os seguintes factores:
 
 a) Voluntariado, preferência e aptidões manifestadas pelos militares candidatos;
 
 b) Currículo do militar e das funções que desempenhe ou venha a desempenhar.
 
-2 - O militar habilitado com curso de especialização ou qualificação não pode deixar o serviço efectivo antes do período mínimo previamente fixado pelo CEM de cada ramo, de acordo com a natureza desse curso, condições de ingresso, duração e estabelecimento de ensino, nacional ou estrangeiro, em que seja ministrado.
+3 - O militar habilitado com curso de especialização ou qualificação não pode deixar o serviço efectivo antes do período mínimo previamente fixado pelo CEM de cada ramo, de acordo com a natureza desse curso, condições de ingresso, duração e estabelecimento de ensino, nacional ou estrangeiro, em que seja ministrado.
 
-###### Artigo 208.º — Dispensa da frequência de cursos de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 207.º — Dispensa da frequência de cursos de promoção
 
 O militar dos QP dispensado da frequência de curso de promoção, nos termos do artigo 199.º, deverá frequentá-lo, logo que possível, sob a forma de estágio.
 
-###### Artigo 209.º — Adiamento da frequência de cursos de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-1 - O CEM de cada ramo pode adiar a frequência de curso de promoção nos seguintes casos:
+###### Artigo 208.º — Adiamento da frequência de cursos de promoção
+
+1 - O CEM de cada ramo pode adiar ou suspender a frequência de curso de promoção nos seguintes casos:
 
 a) Por razões de acidente ou doença, mediante parecer da competente junta médica;
 
@@ -3228,27 +3525,37 @@ b) Por uma só vez, a requerimento do interessado, por motivos de ordem pessoal.
 
 3 - O militar dos QP a quem seja concedido o adiamento da frequência de curso de promoção ao abrigo da alínea b) do n.º 1 é nomeado para o curso seguinte, ficando preterido se, entretanto, lhe competir a promoção.
 
-###### Artigo 210.º — Desistência da frequência de cursos de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 209.º — Desistência da frequência de cursos de promoção
 
 O militar dos QP pode desistir da frequência de curso de promoção, não podendo, porém, ser novamente nomeado.
 
-###### Artigo 211.º — Falta de aproveitamento nos cursos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 210.º — Falta de aproveitamento nos cursos
 
 A falta de aproveitamento nos cursos e suas consequências serão objecto de tratamento normativo específico de cada ramo.
 
-###### Artigo 212.º — Valorização profissional
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 211.º — Valorização profissional
 
 O militar dos QP, visando a sua valorização profissional e prestígio da instituição militar, pode, sem prejuízo do serviço, habilitar-se com qualquer curso ou estágio de conteúdo genérico ou de especialização técnico-profissional, devendo o mesmo ser averbado no seu processo individual.
 
-### CAPÍTULO IX — Avaliação
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 213.º — Finalidade
+###### Artigo 212.º — Finalidade
 
 1 - A avaliação do militar dos QP na efectividade de serviço tem em vista, além das finalidades gerais, assegurar o desenvolvimento na carreira e contribuir para a selecção dos mais aptos, com fundamento na demonstração da capacidade militar e da competência técnica, para o desempenho de funções de mais elevado nível de responsabilidade.
 
 2 - A avaliação do militar dos QP destina-se ainda a apreciar o mérito absoluto e relativo e permite a correcção e aperfeiçoamento do sistema, das técnicas e dos critérios de avaliação.
 
-###### Artigo 214.º — Avaliações periódicas
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+### CAPÍTULO IX — Avaliação
+
+###### Artigo 213.º — Avaliações periódicas
 
 São obrigatoriamente objecto de avaliação periódica dos comandantes, directores ou chefes a que estão subordinados os militares do activo em comissão normal e os da reserva na efectividade de serviço, com excepção de:
 
@@ -3256,7 +3563,9 @@ a) Almirantes ou generais de quatro estrelas e vice-almirantes ou generais;
 
 b) Contra-almirantes ou brigadeiros, nos quadros especiais em que estes postos sejam os mais elevados.
 
-###### Artigo 215.º — Avaliações extraordinárias
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 214.º — Avaliações extraordinárias
 
 Sem prejuízo do disposto no n.º 3 do artigo 90.º, as avaliações extraordinárias são prestadas sempre que:
 
@@ -3266,7 +3575,9 @@ b) Qualquer dos avaliadores considere justificado e oportuno alterar a última a
 
 c) Por determinação superior.
 
-###### Artigo 216.º — Juntas médicas
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 215.º — Juntas médicas
 
 1 - Independentemente das inspecções médicas periódicas, o militar dos QP deve ser presente à competente junta médica nos seguintes casos:
 
@@ -3278,7 +3589,9 @@ c) Quando houver dúvidas acerca da sua aptidão física.
 
 2 - O CEM do respectivo ramo pode dispensar da apresentação à junta médica a que se refere a alínea a) do número anterior o militar que, por motivos imperiosos de serviço, a ela não possa ser presente.
 
-###### Artigo 217.º — Livrete de saúde
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 216.º — Livrete de saúde
 
 1 - O livrete de saúde está sujeito às regras de manuseamento dos documentos de natureza classificada e destina-se ao registo dos factos de índole sanitária de cada militar dos QP, fazendo parte do respectivo processo individual.
 
@@ -3286,13 +3599,17 @@ c) Quando houver dúvidas acerca da sua aptidão física.
 
 3 - A escrituração do livrete de saúde cabe ao serviço de saúde da unidade, órgão ou estabelecimento onde o militar se encontra colocado.
 
-### CAPÍTULO X — Licenças
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 218.º — Licença registada
+###### Artigo 217.º — Licença registada
 
 A licença registada não pode ser imposta ao militar dos QP, sendo concedida exclusivamente a seu requerimento, não podendo perfazer mais de seis meses, seguidos ou interpolados, por cada período de cinco anos.
 
-###### Artigo 219.º — Outros tipos de licença
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+### CAPÍTULO X — Licenças
+
+###### Artigo 218.º — Outros tipos de licença
 
 Ao militar dos QP podem ser concedidas, além das expressamente indicadas no artigo 100.º, as seguintes licenças:
 
@@ -3300,7 +3617,9 @@ a) Ilimitada;
 
 b) Para estudos.
 
-###### Artigo 220.º — Licença ilimitada
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 219.º — Licença ilimitada
 
 1 - A licença ilimitada pode ser concedida pelo CEM do ramo respectivo, por um período não inferior a um ano, ao militar dos QP que:
 
@@ -3326,7 +3645,9 @@ b) Em estado de sítio ou guerra, ao militar dos QP na situação de reserva.
 
 8 - O militar na situação de licença ilimitada não tem direito a qualquer remuneração.
 
-###### Artigo 221.º — Licença para estudos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 220.º — Licença para estudos
 
 1 - A licença para estudos é concedida pelo CEM do ramo respectivo, a requerimento do interessado, para efeitos de frequência de cursos, estágios ou disciplina em estabelecimentos de ensino nacionais ou estrangeiros estranhos às forças armadas, com interesse para as mesmas e de que resulte valorização profissional e técnica dos militares.
 
@@ -3340,61 +3661,85 @@ b) Em estado de sítio ou guerra, ao militar dos QP na situação de reserva.
 
 6 - A concessão da licença para estudos obriga o requerente, após a conclusão do curso, a prestar serviço nas forças armadas por um período a fixar no despacho de autorização, atento o disposto no n.º 2 do artigo 207.º
 
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 221.º — Carta-patente
+
+A carta-patente é o documento de encarte dos oficiais dos QP, conferido no acto de ingresso na categoria.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
 ## TÍTULO II — Oficiais
 
 ### CAPÍTULO I
 
 ## Parte comum
 
-###### Artigo 222.º — Carta-patente
-
-A carta-patente é o documento de encarte dos oficiais dos QP, conferido no acto de ingresso na categoria.
-
-###### Artigo 223.º — Ingresso na categoria
+###### Artigo 222.º — Ingresso na categoria
 
 1 - O ingresso na categoria de oficial dos QP faz-se nos postos de guarda-marinha, subtenente ou alferes e de segundo-tenente ou tenente, conforme os ramos e quadros especiais considerados.
 
 2 - A antiguidade dos oficiais ingressados nos termos do número anterior é referida, em regra, a 1 de Outubro do ano em que concluam o curso de formação e respectivo estágio ou tirocínio.
 
-###### Artigo 224.º — Chefe do Estado-Maior-General das Forças Armadas
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 223.º — Chefe do Estado-Maior-General das Forças Armadas
 
 O Chefe do Estado-Maior-General das Forças Armadas (CEMGFA) tem a patente de almirante ou general de quatro estrelas e é hierarquicamente superior a todos os oficiais generais, sendo nomeado e exonerado nos termos da Lei de Defesa Nacional e das Forças Armadas.
 
-###### Artigo 225.º — Chefe de estado-maior do ramo
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 224.º — Chefe de estado-maior do ramo
 
 O chefe de estado-maior do ramo tem a patente de almirante ou general de quatro estrelas, segue em precedência os almirantes da Armada e marechais, é hierarquicamente superior a todos os oficiais generais, com excepção do CEMGFA, e é nomeado e exonerado nos termos da LDNFA.
 
-###### Artigo 226.º — Presidente do Supremo Tribunal Militar
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 225.º — Presidente do Supremo Tribunal Militar
 
 O presidente do Supremo Tribunal Militar (STM) tem a patente de almirante ou general de quatro estrelas, segue em precedência hierárquica os CEM dos ramos e é nomeado e exonerado nos termos da LDNFA.
 
-###### Artigo 227.º — Vice-Chefe do Estado-Maior-General das Forças Armadas
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 226.º — Vice-Chefe do Estado-Maior-General das Forças Armadas
 
 O Vice-Chefe do Estado-Maior-General das Forças Armadas (VCEMGFA) tem a patente de almirante ou general de quatro estrelas, segue em precedência hierárquica o presidente do STM e é nomeado e exonerado nos termos da LDNFA.
 
-###### Artigo 228.º — Vice-chefe do estado-maior do ramo
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 227.º — Vice-chefe do estado-maior do ramo
 
 O vice-chefe do estado-maior (VCEM) do ramo tem a patente de vice-almirante ou general, é hierarquicamente superior a todos os oficiais do seu posto e é nomeado e exonerado nos termos da LDNFA.
 
-###### Artigo 229.º — Comandante-chefe
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 228.º — Comandante-chefe
 
 O oficial dos QP investido no cargo de comandante-chefe é hierarquicamente superior a todos os oficiais do mesmo posto que comandam cada uma das forças subordinadas e é nomeado e exonerado nos termos previstos na LDNFA.
 
-###### Artigo 230.º — Hierarquia superior do EMGFA e dos ramos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 229.º — Hierarquia superior do EMGFA e dos ramos
 
 Ao CEMGFA e aos CEM dos ramos compete estabelecer o ordenamento hierárquico dos restantes oficiais generais que prestam serviço na sua dependência, de acordo com a natureza dos cargos que ocupam.
 
-###### Artigo 231.º — Almirante da Armada e marechal
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 230.º — Almirante da Armada e marechal
 
 Ao almirante ou general de quatro estrelas e ao vice-almirante ou general que, no exercício de funções de comando ou direcção suprema, tenha revelado predicados excepcionais, prestado serviços distintíssimos e relevantes ou praticado feitos com honra e lustre para a Nação e para as forças armadas poderá ser concedido, por decreto do Presidente da República, independentemente da idade ou do vínculo ao serviço, o título de almirante da Armada ou de marechal do Exército ou da Força Aérea, o qual constitui uma dignidade honorífica no âmbito do Estado, constando o estatuto dos respectivos titulares de legislação própria.
 
-###### Artigo 232.º — Suspensão do limite de idade de passagem à reserva
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 231.º — Suspensão do limite de idade de passagem à reserva
 
 1 - Aos oficiais generais que, nos termos da LDNFA, sejam nomeados para os cargos de CEMFGA, CEM dos ramos, presidente do STM e VCEMGFA é suspenso o limite de idade de passagem à reserva enquanto permanecerem no exercício de tais funções.
 
 2 - Aos oficiais generais nomeados para cargos militares em organizações internacionais de que Portugal faça parte e a que corresponda o posto de almirante ou general de quatro estrelas é aplicado o disposto no número anterior.
 
-###### Artigo 233.º — Situação especial de passagem à reserva
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 232.º — Situação especial de passagem à reserva
 
 Os almirantes ou generais de quatro estrelas que cessem as funções que impuseram a sua promoção àqueles postos passam à reserva 120 dias após a data da cessação das respectivas funções, se antes do termo deste prazo não forem nomeados para:
 
@@ -3402,7 +3747,9 @@ a) Cargo para o qual a lei exija o posto de almirante ou general de quatro estre
 
 b) Funções que, por diploma legal, sejam consideradas compatíveis com o seu posto.
 
-###### Artigo 234.º — Promoção a oficial general
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 233.º — Promoção a oficial general
 
 1 - São promovidos ao posto de almirante ou general de quatro estrelas os vice-almirantes ou generais que forem nomeados para ocuparem os cargos de CEMGFA, de CEM dos ramos, de presidente do STM ou de VCEMGFA, sendo o diploma de nomeação simultaneamente o da promoção.
 
@@ -3410,7 +3757,9 @@ b) Funções que, por diploma legal, sejam consideradas compatíveis com o seu p
 
 3 - A data da antiguidade dos oficiais a que se referem os n.os 1 e 2 é, no primeiro caso, a do diploma de nomeação e, no segundo, a da deliberação do CCEM.
 
-###### Artigo 235.º — Promoções
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 234.º — Promoções
 
 As promoções aos postos da categoria de oficial realizam-se através das seguintes modalidades:
 
@@ -3426,11 +3775,15 @@ e) Segundo-tenente ou tenente, por diuturnidade ou por habilitação com curso a
 
 f) Guarda-marinha, subtenente ou alferes, por habilitação com curso adequado.
 
-###### Artigo 236.º — Competência de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 235.º — Competência de promoção
 
 A promoção dos oficiais até ao posto de capitão-de-mar-e-guerra ou coronel é da competência do CEM do ramo a que pertencem.
 
-###### Artigo 237.º — Tempo mínimo de permanência nos postos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 236.º — Tempo mínimo de permanência nos postos
 
 O tempo mínimo de permanência em cada posto para acesso ao posto imediato é o seguinte:
 
@@ -3446,15 +3799,21 @@ e) Quatro anos no posto de capitão-de-fragata ou tenente-coronel;
 
 f) Dois anos no posto de capitão-de-mar-e-guerra ou coronel.
 
-###### Artigo 238.º — Tempo mínimo global
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 237.º — Tempo mínimo global
 
 O tempo mínimo global para acesso ao posto de capitão-de-mar-e-guerra ou coronel após o ingresso na categoria de oficial dos QP é de 20 anos de serviço efectivo.
 
-###### Artigo 239.º — Abate aos QP
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 238.º — Abate aos QP
 
 O tempo mínimo de serviço efectivo a que se referem as alíneas c) e d) do n.º 1 do artigo 184.º é de oito anos.
 
-###### Artigo 240.º — Cursos de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 239.º — Cursos de promoção
 
 Nos cursos que, nos termos do presente Estatuto, constituam condição especial de promoção incluem-se, designadamente, os seguintes:
 
@@ -3462,21 +3821,27 @@ a) Curso de promoção a oficial general, para acesso a contra-almirante ou brig
 
 b) Curso de promoção a oficial superior, para acesso a capitão-tenente ou major.
 
-###### Artigo 241.º — Nomeação para os cursos de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 240.º — Nomeação para os cursos de promoção
 
 1 - A nomeação para o curso de promoção a oficial general é feita por escolha de entre os capitães-de-mar-e-guerra ou coronéis e capitães-de-fragata ou tenentes-coronéis.
 
 2 - A nomeação para o curso de promoção a oficial superior é feita por antiguidade de entre os primeiros-tenentes e capitães, excluindo aqueles a quem seja adiada a sua frequência e os que declarem dele desistir, os quais ficarão abrangidos pelo disposto nos artigos 209.º e 210.º, respectivamente.
 
-### CAPÍTULO II — Da Marinha
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 242.º — Classes
+###### Artigo 241.º — Classes
 
 Os oficiais dos QP da Armada distribuem-se pelas seguintes classes e postos:
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/02001/00020061.pdf)
 
-###### Artigo 243.º — Ingresso nas classes
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+### CAPÍTULO II — Da Marinha
+
+###### Artigo 242.º — Ingresso nas classes
 
 1 - O ingresso nas classes de marinha, engenheiros navais, administração naval e fuzileiros é feito por promoção a guarda-marinha dos alunos da Escola Naval que sejam licenciados em Ciências Militares com os cursos de marinha, de engenheiros navais, de administração naval e de fuzileiros.
 
@@ -3488,7 +3853,9 @@ Os oficiais dos QP da Armada distribuem-se pelas seguintes classes e postos:
 
 5 - O ingresso na classe do serviço técnico é feito por promoção a subtenente dos militares que tenham concluído, com aproveitamento, o curso de formação de oficiais do serviço técnico equiparado a bacharelato.
 
-###### Artigo 244.º — Subclasses e ramos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 243.º — Subclasses e ramos
 
 1 - As classes podem ser divididas em subclasses, podendo umas e outras compreender um ou mais ramos.
 
@@ -3498,11 +3865,15 @@ Os oficiais dos QP da Armada distribuem-se pelas seguintes classes e postos:
 
 4 - A criação e extinção das subclasses e ramos e a fixação dos efectivos permanentes correspondentes às subclasses são determinadas por despacho do Chefe do Estado-Maior da Armada (CEMA).
 
-###### Artigo 245.º — Transferência de subclasse
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 244.º — Transferência de subclasse
 
 Por necessidade de racionalização do emprego de recursos humanos ou outras necessidades de serviço, os oficiais poderão, sem prejuízo da sua situação militar e respectivo ordenamento hierárquico, ser transferidos de subclasse, de acordo com as condições e demais normas estabelecidas por despacho do CEMA.
 
-###### Artigo 246.º — Caracterização funcional das classes
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 245.º — Caracterização funcional das classes
 
 Aos oficiais das classes a seguir indicadas incumbe especialmente:
 
@@ -3518,9 +3889,9 @@ Direcção, inspecção e execução das actividades relativas ao uso dos sistem
 
 Direcção, inspecção e execução de actividades relativas à navegação, hidrografia, oceanografia, farolagem e balizagem;
 
-Exercício de funções de justiça, designadamente de presidente e de juízes do Supremo Tribunal Militar e de presidente e de juiz vogal do Tribunal da Marinha;
+Exercício de funções de justiça, incluindo de Presidente do STM e do Tribunal da Marinha;
 
-Exercício de funções, nomeadamente de chefia, no Estado-Maior da Armada e em outros estados-maiores;
+Exercício de funções em estados-maiores;
 
 Exercício de funções em missões militares junto de representações diplomáticas de Portugal no estrangeiro;
 
@@ -3536,6 +3907,10 @@ Direcção, inspecção e execução de actividades relativas à construção, r
 
 Direcção, inspecção e execução de actividades no âmbito do sector do material em estaleiros navais, estabelecimentos fabris, organismos de assistência oficinal e outras com responsabilidades no capítulo de construção, manutenção e reparação naval;
 
+Exercício de funções diplomáticas de Portugal no estrangeiro;
+
+Exercício de funções de justiça;
+
 Exercício de funções em estados-maiores;
 
 Exercício de funções no âmbito das actividades relativas à navegação, hidrografia, oceanografia, farolagem e balizagem e do sistema de autoridade marítima que requeiram a qualificação técnico-profissional da classe;
@@ -3548,6 +3923,10 @@ Direcção, inspecção e execução de actividades relativas ao abastecimento;
 
 Direcção, inspecção e execução das actividades relativas à administração financeira;
 
+Exercício de funções diplomáticas de Portugal no estrangeiro;
+
+Exercício de funções de justiça;
+
 Exercício de funções em estados-maiores;
 
 Exercício de outras funções para as quais sejam requeridos os conhecimentos técnico-profissionais da classe;
@@ -3559,6 +3938,10 @@ Comando e inspecção de forças e unidades de fuzileiros e de desembarque;
 Direcção, inspecção e execução de actividades no âmbito dos sectores do pessoal e de administração financeira ligadas aos fuzileiros nas categorias de pessoal cuja gestão lhes esteja atribuída;
 
 Desempenho a bordo de funções compatíveis com a sua preparação;
+
+Exercício de funções diplomáticas de Portugal no estrangeiro;
+
+Exercício de funções de justiça;
 
 Exercício de funções, nomeadamente de chefia, em estados-maiores de comandos e de forças de fuzileiros;
 
@@ -3596,7 +3979,9 @@ Exercício de funções relativas às actividades específicas da banda da Armad
 
 Exercício de outras funções que requeiram conhecimentos técnico-profissionais e artísticos próprios da classe.
 
-###### Artigo 247.º — Cargos e funções
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 246.º — Cargos e funções
 
 1 - Aos oficiais da Armada incumbe, de uma maneira geral, o desempenho de funções nos comandos, forças, unidades, serviços e outros organismos da Marinha, de acordo com as respectivas classes e postos, bem como o exercício de funções que à Marinha respeitam nos quartéis-generais ou estados-maiores de comandos de forças conjuntas ou combinadas e noutros departamentos do Estado.
 
@@ -3758,7 +4143,9 @@ Exercício de funções no âmbito de actividades de natureza científica e téc
 
 Desempenho de funções executivas de natureza administrativa.
 
-###### Artigo 248.º — Comissão normal
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 247.º — Comissão normal
 
 Para além das situações de comissão normal definidas no artigo 160.º do presente Estatuto, são considerados em comissão normal os oficiais no desempenho dos seguintes cargos ou funções:
 
@@ -3766,11 +4153,15 @@ a) Capitães-de-bandeira;
 
 b) No comando e guarnição de navios mercantes, quando, por motivos operacionais, for julgado conveniente o desempenho de tais cargos por oficiais da Armada.
 
-###### Artigo 249.º — Apreciação das condições gerais de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-A apreciação das avaliações relativas a oficiais, para efeitos da verificação das condições gerais de promoção, compete ao superintendente dos Serviços do Pessoal da Armada e é efectuada com base nos elementos organizados pela Direcção do Serviço do Pessoal.
+###### Artigo 248.º — Apreciação das condições gerais de promoção
 
-###### Artigo 250.º — Condições especiais de promoção
+A apreciação das avaliações relativas a oficiais, para efeitos de verificação das condições gerais de promoção, compete ao superintendente dos Serviços de Pessoal da Armada, apoiado nos conselhos de classe, e é efectuada com base nos elementos organizados pela Direcção do Serviço de Pessoal.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 249.º — Condições especiais de promoção
 
 1 - As condições especiais de promoção compreendem:
 
@@ -3792,15 +4183,21 @@ e) Outras condições de natureza específica das classes.
 
 2 - As condições especiais de promoção para os diversos postos e classes, para além das fixadas nos artigos 237.º e 238.º, constam do anexo II ao presente diploma.
 
-###### Artigo 251.º — Tirocínios de embarque
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 250.º — Tirocínios de embarque
 
 Os tirocínios de embarque só são válidos para efeitos de satisfação da condição especial de promoção quando sejam efectuados em navios armados e o oficial pertença à guarnição da força ou unidade naval ou, estando embarcado em diligência, desempenhe as funções que competem aos oficiais da respectiva lotação.
 
-###### Artigo 252.º — Tempo de navegação
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 251.º — Tempo de navegação
 
 Como tempo de navegação apenas é contado, para efeitos de satisfação da condição especial de promoção, o que for realizado no mar e aquele que, efectuado dentro de barras, rios ou portos fechados, corresponda a navegação preliminar ou complementar da navegação no mar.
 
-###### Artigo 253.º — Contagem de tirocínios
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 252.º — Contagem de tirocínios
 
 1 - Os tirocínios de embarque e em terra apenas podem ser contados relativamente a oficiais em comissão normal e que não se encontrem nas situações de:
 
@@ -3812,11 +4209,15 @@ b) Cumprimento de pena que implique suspensão de funções.
 
 3 - Os tirocínios em terra não são contados aos oficiais que estejam no uso de licença por motivo de doença.
 
-###### Artigo 254.º — Dispensa de tirocínios
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 253.º — Dispensa de tirocínios
 
 O CEMA pode dispensar dos tirocínios de embarque ou em terra, num só posto, qualquer oficial que, por conveniência excepcional do serviço, esteja impedido de os realizar.
 
-###### Artigo 255.º — Formação militar
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 254.º — Formação militar
 
 1 - A preparação básica e complementar dos oficiais realiza-se essencialmente através de acções de investimento, de evolução e de ajustamento, a concretizar mediante adequadas actividades de educação e treino.
 
@@ -3846,7 +4247,9 @@ c) Informação/orientação - têm por finalidade a familiarização com uma or
 
 d) Conversão parcial - têm por finalidade a substituição parcial por aptidões utilizáveis de competências previamente adquiridas que, por qualquer motivo, deixaram de ter aplicação útil.
 
-###### Artigo 256.º — Cursos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 255.º — Cursos
 
 1 - Os cursos em que se traduzem as acções ou actividades referidas no artigo anterior são, em regra, ministrados nos estabelecimentos de ensino da Marinha ou em unidades ou serviços para esse fim designados.
 
@@ -3854,7 +4257,9 @@ d) Conversão parcial - têm por finalidade a substituição parcial por aptidõ
 
 3 - Aos cursos frequentados nas condições estabelecidas no número anterior podem ser atribuídas equivalências aos ministrados nos estabelecimentos de ensino da Marinha.
 
-###### Artigo 257.º — Cursos de formação
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 256.º — Cursos de formação
 
 Os cursos de formação que habilitam ao ingresso nas classes dos oficiais são os seguintes:
 
@@ -3864,7 +4269,9 @@ b) De licenciatura ministrados em estabelecimentos de ensino superior, complemen
 
 c) De bacharelato ministrados em estabelecimentos de ensino superior, complementados por cursos de formação ministrados em organismos militares adequados, ou cursos equiparados a bacharelato ministrados nos mesmos organismos militares.
 
-###### Artigo 258.º — Cursos de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 257.º — Cursos de promoção
 
 Os cursos de promoção que habilitam os oficiais para o desempenho de funções do posto imediato são os seguintes:
 
@@ -3872,7 +4279,9 @@ a) Curso superior naval de guerra (CSNG), ou equiparado, para a promoção a ofi
 
 b) Curso geral naval de guerra (CGNG), ou equiparado, para a promoção a oficial superior.
 
-###### Artigo 259.º — Designação dos oficiais
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 258.º — Designação dos oficiais
 
 1 - Os oficiais são designados pelo número de identificação, seguido do posto, classe e nome.
 
@@ -3880,9 +4289,9 @@ b) Curso geral naval de guerra (CGNG), ou equiparado, para a promoção a oficia
 
 3 - Aos oficiais na situação de reserva ou de reforma é incluída na sua designação, respectivamente, a indicação RES ou REF a seguir à classe.
 
-### CAPÍTULO III — Do Exército
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 260.º — Corpo de oficiais generais, armas e serviços
+###### Artigo 259.º — Corpo de oficiais generais, armas e serviços
 
 1 - Os oficiais dos QP do Exército no activo distribuem-se pelo corpo de oficiais generais, armas e serviços e inscrevem-se em quadros especiais, de acordo com os seguintes postos:
 
@@ -3900,13 +4309,19 @@ b) Ao posto de brigadeiro, pelos oficiais provenientes do quadro de gestão de r
 
 5 - A alimentação do quadro de gestão de recursos humanos é feita por transferência de quadro especial do Exército, de acordo com as suas necessidades, vagas existentes e satisfeitas as necessárias aptidões e qualificações, definidas por despacho do CEME.
 
-###### Artigo 261.º — Ingresso nas armas e serviços de alunos da Academia Militar
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+### CAPÍTULO III — Do Exército
+
+###### Artigo 260.º — Ingresso nas armas e serviços de alunos da Academia Militar
 
 1 - O ingresso nas armas e serviços do Exército faz-se por promoção ao posto de alferes dos alunos da Academia Militar que sejam licenciados em Ciências Militares, ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas.
 
 2 - A antiguidade de alferes dos alunos ingressados nos termos do número anterior é referida a 1 de Outubro do ano em que concluíram, com aproveitamento, a licenciatura ou antecipada de tantos anos quantos os que a organização escolar do respectivo curso exceder cinco anos.
 
-###### Artigo 262.º — Ingresso nos QP de oficiais por concurso
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 261.º — Ingresso nos QP de oficiais por concurso
 
 1 - O ingresso nos QP de oficiais do Exército de candidatos licenciados admitidos por concurso, de acordo com legislação especial, faz-se por promoção ao posto de alferes, após concluído, com aproveitamento, o respectivo tirocínio.
 
@@ -3914,13 +4329,17 @@ b) Ao posto de brigadeiro, pelos oficiais provenientes do quadro de gestão de r
 
 3 - A ordenação na lista de antiguidade dos alferes mencionados neste artigo com a mesma antiguidade faz-se, em cada quadro especial, segundo a classificação final, resultante da média ponderada das classificações obtidas na licenciatura e no tirocínio, e, em igualdade de classificação final, de harmonia com o disposto no n.º 4 do artigo 134.º
 
-###### Artigo 263.º — Ingresso nos QP de oficiais com cursos de formação equiparados a bacharelato
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 262.º — Ingresso nos QP de oficiais com cursos de formação equiparados a bacharelato
 
 1 - O ingresso nos quadros técnicos do Exército faz-se no posto de alferes, por promoção de sargentos dos QP que tenham completado o respectivo curso de formação equiparado a bacharelato, ordenados por curso e, dentro de cada curso, pelas classificações nele obtidas.
 
 2 - A antiguidade de alferes dos oficiais a que respeita o número anterior é referida a 1 de Outubro do ano em que concluíram, com aproveitamento, o respectivo curso.
 
-###### Artigo 264.º — Cargos e funções
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 263.º — Cargos e funções
 
 1 - Aos oficiais do Exército incumbe, de uma maneira geral, o desempenho de funções nos comandos, forças, unidades, serviços e organismos do Exército e nos quartéis-generais ou estados-maiores de comandos de forças conjuntas ou combinadas, de acordo com as respectivas armas e serviços, e ainda noutros departamentos do Estado.
 
@@ -3944,7 +4363,9 @@ h) Tenente - desempenha as funções de auxiliar directo do comandante de compan
 
 i) Alferes - desempenha funções de comando de subunidade ou órgão de escalão pelotão, eventualmente as de auxiliar de comandante de companhia; responsável por actividades de formação e de carácter táctico, técnico e administrativo correspondentes ao seu nível hierárquico.
 
-###### Artigo 265.º — Pára-quedistas
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 264.º — Pára-quedistas
 
 1 - Os oficiais dos QP do Exército em serviço nas tropas pára-quedistas da Força Aérea serão considerados, para efeitos de promoção, no quadro especial de origem do Exército, como mantendo a posição inicial no curso de origem da respectiva arma ou serviço.
 
@@ -3954,17 +4375,23 @@ i) Alferes - desempenha funções de comando de subunidade ou órgão de escalã
 
 4 - Os oficiais nas condições no n.º 2 não preenchem vaga nos quadros especiais das respectivas armas ou serviços, ficando na situação de supranumerários até à sua promoção ao posto imediato.
 
-###### Artigo 266.º — Apreciação das condições de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 265.º — Apreciação das condições de promoção
 
 1 - Aos directores das armas e dos serviços e ao inspector das Bandas e Fanfarras do Exército (IBFE), apoiados nos respectivos conselhos, compete a apreciação da segunda e da terceira condições gerais de promoção dos oficiais dos respectivos quadros especiais.
 
 2 - Na apreciação dos oficiais, os directores das armas e dos serviços e o IBFE devem ser informados pela Direcção do Serviço de Pessoal se aqueles satisfazem ou não as condições especiais de promoção.
 
-###### Artigo 267.º — Promoção a tenente
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 266.º — Promoção a tenente
 
 É condição especial de promoção ao posto de tenente a prestação do tempo mínimo de permanência indicado na alínea a) do artigo 237.º
 
-###### Artigo 268.º — Promoção a capitão
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 267.º — Promoção a capitão
 
 1 - São condições especiais de promoção ao posto de capitão, para além do tempo mínimo de permanência referido na alínea b) do artigo 237.º, as seguintes:
 
@@ -3980,7 +4407,9 @@ b) Pelos tenentes médicos e veterinários, nos hospitais militares ou nas unida
 
 c) Pelos tenentes dos serviços, em funções específicas do respectivo serviço.
 
-###### Artigo 269.º — Promoção a major
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 268.º — Promoção a major
 
 1 - São condições especiais de promoção ao posto de major, para além do tempo mínimo de permanência referido na alínea c) do artigo 237.º, as seguintes:
 
@@ -4000,11 +4429,15 @@ b) Pelos capitães médicos ou veterinários, nos hospitais militares ou nas uni
 
 c) Pelos capitães dos restantes serviços, em funções específicas do respectivo serviço.
 
-###### Artigo 270.º — Promoção a tenente-coronel
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 269.º — Promoção a tenente-coronel
 
 É condição especial de promoção a tenente-coronel o tempo mínimo de permanência referido na alínea d) do artigo 237.º
 
-###### Artigo 271.º — Promoção a coronel
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 270.º — Promoção a coronel
 
 1 - São condições especiais de promoção ao posto de coronel, para além dos tempos de permanência referidos na alínea e) do artigo 237.º e no artigo 238.º, as seguintes:
 
@@ -4020,7 +4453,9 @@ a) Pelos oficiais das armas, nas unidades, centros de instrução ou escolas pr�
 
 b) Pelos oficiais dos serviços, em funções específicas do respectivo serviço.
 
-###### Artigo 272.º — Promoção a brigadeiro
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 271.º — Promoção a brigadeiro
 
 São condições especiais de promoção ao posto de brigadeiro, para além do tempo mínimo de permanência referido na alínea f) do artigo 237.º, as seguintes:
 
@@ -4030,7 +4465,9 @@ b) Para os coronéis das armas, ter exercido, no posto de coronel ou tenente-cor
 
 c) Para os coronéis dos serviços, ter exercido, no posto de coronel ou tenente-coronel, pelo período mínimo de um ano seguido, com informação favorável, o comando de unidade independente ou escola prática, chefia de serviço, direcção de estabelecimento ou outra função de comando, chefia ou direcção considerada, por despacho do CEME, de categoria equivalente ou superior.
 
-###### Artigo 273.º — Cursos e tirocínios
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 272.º — Cursos e tirocínios
 
 Os cursos e tirocínios regidos por legislação específica que habilitam ao ingresso na categoria de oficial dos QP são os seguintes:
 
@@ -4040,7 +4477,9 @@ b) Cursos equiparados a cursos superiores de curta duração nos estabelecimento
 
 c) Tirocínios para oficiais admitidos por concurso em candidatos com curso superior.
 
-###### Artigo 274.º — Cursos de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 273.º — Cursos de promoção
 
 Os cursos de promoção que habilitam os oficiais para o desempenho de funções de posto imediato são os seguintes:
 
@@ -4052,7 +4491,9 @@ c) Curso de promoção a oficial superior dos serviços (CPOS/S);
 
 d) Curso de promoção a capitão (CPC).
 
-###### Artigo 275.º — Designação dos oficiais
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 274.º — Designação dos oficiais
 
 1 - Os oficiais são designados pelo posto, seguido da arma ou serviço, número de identificação e nome.
 
@@ -4060,23 +4501,27 @@ d) Curso de promoção a capitão (CPC).
 
 3 - O oficial com o curso superior de comando e direcção, quando coronel, passa a designar-se por coronel tirocinado (CORTIR).
 
-### CAPÍTULO IV — Da Força Aérea
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 276.º — Especialidades
+###### Artigo 275.º — Especialidades
 
-1 - Os oficiais dos QP da Força Aérea distribuem-se pelas seguintes especialidades e postos:
+Os oficiais dos QP da Força Aérea distribuem-se pelas seguintes especialidades e postos:
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/02001/00020061.pdf)
 
-2- Os oficiais pilotos, navegadores, técnicos, de polícia aérea e serviço geral pára-quedista poderão ter acesso ao posto de coronel para prover cargos de comando, direcção ou chefia cujas funções não sejam consideradas obrigatoriamente privativas de certas especialidades.
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 277.º — Ingresso na especialidade de pilotos aviadores
+### CAPÍTULO IV — Da Força Aérea
+
+###### Artigo 276.º — Ingresso na especialidade de pilotos aviadores
 
 1 - O ingresso na especialidade de pilotos aviadores faz-se no posto de alferes, por promoção dos alunos da Academia da Força Aérea que sejam licenciados em Ciências Militares (curso de piloto aviador), ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas.
 
 2 - A antiguidade de alferes dos oficiais ingressados nos termos do número anterior é referida a 1 de Outubro do ano em que concluíram, com aproveitamento, a licenciatura, antecipada ou retardada de tantos anos quantos os que a organização escolar do respectivo curso, incluindo o tirocínio, exceder ou for inferior a cinco anos.
 
-###### Artigo 278.º — Ingresso na especialidade de pára-quedistas
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 277.º — Ingresso na especialidade de pára-quedistas
 
 1 - O ingresso na especialidade de pára-quedistas faz-se por concurso de entre:
 
@@ -4100,7 +4545,9 @@ b) Oficiais superiores, capitães e subalternos das armas do Exército, oficiais
 
 9 - Os oficiais dos QP da Armada e do Exército, após admissão definitiva nas tropas pára-quedistas e enquanto ao seu serviço, são considerados oficiais dos QP da Força Aérea e, como tal, são-lhes aplicáveis as disposições pertinentes do presente Estatuto.
 
-###### Artigo 279.º — Ingresso nas especialidades de engenheiros
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 278.º — Ingresso nas especialidades de engenheiros
 
 1 - O ingresso nas especialidades de engenheiros aeronáuticos, de aeródromos, electrotécnicos e de informática faz-se no posto de alferes, por promoção dos alunos que tenham completado as respectivas licenciaturas da Academia da Força Aérea ou escola militar equivalente, ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas.
 
@@ -4120,7 +4567,9 @@ b) Oficiais superiores, capitães e subalternos das armas do Exército, oficiais
 
 9 - O CEMFA pode, outrossim, autorizar que os alferes dos QP da Força Aérea originariamente alunos da Academia da Força Aérea eliminados na fase do tirocínio de pilotagem frequentem em universidades, nacionais ou estrangeiras, cursos de Engenharia, em regime de licença para estudos, os quais, após a conclusão do estágio de adaptação técnico-militar, ingressam nas respectivas especialidades no posto de alferes, sendo graduados no posto que já tenham, caso seja superior.
 
-###### Artigo 280.º — Ingresso na especialidade de médicos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 279.º — Ingresso na especialidade de médicos
 
 1 - O ingresso na especialidade de médicos faz-se pela promoção ao posto de alferes, após a frequência, com aproveitamento, de estágio de adaptação técnico-militar, de:
 
@@ -4136,7 +4585,9 @@ b) Oficiais graduados admitidos de entre licenciados em Medicina habilitados com
 
 5 - A ordenação na escala dos alferes mencionados no número anterior, com a antiguidade referida à mesma data, faz-se segundo a classificação final, resultante da média ponderada das classificações obtidas na licenciatura e no estágio de adaptação técnico-militar, e, em igualdade de classificação final, de harmonia com o disposto no n.º 4 do artigo 134.º
 
-###### Artigo 281.º — Ingresso na especialidade de administração aeronáutica
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 280.º — Ingresso na especialidade de administração aeronáutica
 
 1 - O ingresso na especialidade de administração aeronáutica faz-se no posto de alferes, por promoção dos alunos da Academia da Força Aérea ou escola militar equivalente que sejam licenciados em Ciências Militares (curso de administração aeronáutica), ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas.
 
@@ -4154,7 +4605,9 @@ b) Oficiais graduados admitidos de entre licenciados em Medicina habilitados com
 
 8 - Os mesmos oficiais ingressam na especialidade à esquerda dos alferes referidos no n.º 1 sempre que a antiguidade neste posto de uns e outros estiver referida à mesma data.
 
-###### Artigo 282.º — Ingresso na especialidade de juristas
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 281.º — Ingresso na especialidade de juristas
 
 1 - O ingresso na especialidade de juristas faz-se pela promoção ao posto de alferes, após frequência, com aproveitamento, de estágio de adaptação técnico-militar, de oficiais graduados admitidos de entre licenciados em Direito inscritos na respectiva Ordem como advogados aprovados em concurso, de acordo com legislação especial.
 
@@ -4166,7 +4619,9 @@ b) Oficiais graduados admitidos de entre licenciados em Medicina habilitados com
 
 5 - A ordenação na escala dos alferes mencionados no número anterior, com antiguidade referida à mesma data, faz-se segundo a classificação final, resultante da média ponderada das classificações obtidas na licenciatura e no estágio de adaptação técnico-militar, e, em igualdade de classificação final, de harmonia com o disposto no n.º 4 do artigo 134.º
 
-###### Artigo 283.º — Ingresso nas especialidades de piloto, navegador, técnicos de polícia aérea e do serviço geral pára-quedista
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 282.º — Ingresso nas especialidades de piloto, navegador, técnicos de polícia aérea e do serviço geral pára-quedista
 
 1 - O ingresso nas especialidades de piloto, navegador, técnicos, de polícia aérea e do serviço geral pára-quedista faz-se no posto de alferes, por promoção de oficiais em RC e sargentos dos QP que estejam habilitados com o respectivo curso de formação de oficiais (CFO) equivalente a bacharelato, ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas.
 
@@ -4182,7 +4637,9 @@ b) Oficiais graduados admitidos de entre licenciados em Medicina habilitados com
 
 7 - Os oficiais a que se refere o número anterior não preenchem vaga no quadro especial de origem, ficando na situação de supranumerários até à sua promoção ao posto imediato.
 
-###### Artigo 284.º — Caracterização funcional das especialidades
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 283.º — Caracterização funcional das especialidades
 
 Aos oficiais das especialidades a seguir indicadas, para além do exercício de actividades de natureza militar e de formação comuns a todos os oficiais, do exercício de funções em estados-maiores e outras de carácter técnico, incumbe, especialmente:
 
@@ -4200,11 +4657,13 @@ Desempenhar cargos em missões militares junto de representações diplomáticas
 
 b) Pára-quedistas:
 
-Desempenhar o cargo de comandante do Corpo de Tropas Pára-Quedistas e chefia em estados-maiores;
+Desempenhar o cargo de comandante do Corpo de Tropas Pára-Quedistas, de vogal do STM e de chefia em estados-maiores.
 
 Comandar e inspeccionar as tropas e unidades pára-quedistas;
 
 Dirigir, inspeccionar e executar actividades de instrução e treino, operacionais e de combate, das tropas pára-quedistas;
+
+Desempenhar cargos em missões militares junto de representações diplomáticas de Portugal no estrangeiro.
 
 c) Engenheiros aeronáuticos:
 
@@ -4214,11 +4673,19 @@ Dirigir, inspeccionar e executar actividades respeitantes à manutenção de aer
 
 Dirigir estabelecimentos fabris e oficinais;
 
+Desempenhar os cargos de vogal do STM, comandante funcional e funções de chefia em estados-maiores;
+
+Desempenhar cargos em missões militares junto de representações diplomáticas de Portugal no estrangeiro.
+
 d) Engenheiros de aeródromos:
 
 Exercer a direcção superior especializada;
 
 Dirigir, inspeccionar e executar actividades respeitantes à construção, manutenção e reparação das infra-estruturas;
+
+Desempenhar os cargos de vogal do STM, comandante funcional e funções de chefia em estados-maiores;
+
+Desempenhar cargos em missões militares junto de representações diplomáticas de Portugal no estrangeiro.
 
 e) Engenheiros electrotécnicos:
 
@@ -4228,11 +4695,19 @@ Dirigir, inspeccionar e executar actividades respeitantes aos sistemas eléctric
 
 Dirigir estabelecimentos fabris e oficinais;
 
+Desempenhar os cargos de vogal do STM, comandante funcional e funções de chefia em estados-maiores;
+
+Desempenhar cargos em missões militares junto de representações diplomáticas de Portugal no estrangeiro.
+
 f) Engenheiros de informática:
 
 Exercer a direcção superior especializada;
 
 Dirigir, inspeccionar e executar actividades respeitantes à concepção e desenvolvimento de sistemas de informação, à configuração dos respectivos suportes físicos e lógicos de computação e de redes de transmissão de dados, no âmbito da gestão e dos meios operacionais;
+
+Desempenhar os cargos de vogal do STM, comandante funcional e funções de chefia em estados-maiores;
+
+Desempenhar cargos em missões militares junto de representações diplomáticas de Portugal no estrangeiro.
 
 g) Médicos:
 
@@ -4253,6 +4728,10 @@ Exercer a direcção superior especializada;
 Dirigir, inspeccionar e executar actividades relacionadas com a gestão dos recursos financeiros;
 
 Dirigir, inspeccionar e executar actividades relacionadas com a gestão dos meios de intendência;
+
+Desempenhar os cargos de vogal do STM, comandante funcional e funções de chefia em estados-maiores;
+
+Desempenhar cargos em missões militares junto de representações diplomáticas de Portugal no estrangeiro.
 
 i) Juristas:
 
@@ -4350,7 +4829,9 @@ Chefiar e inspeccionar a banda da Força Aérea;
 
 Exercer funções relativas às actividades específicas da banda e fanfarras da Força Aérea.
 
-###### Artigo 285.º — Cargos e funções
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 284.º — Cargos e funções
 
 1 - Aos oficiais da Força Aérea incumbe, de uma maneira geral, o desempenho de funções no Estado-Maior da Força Aérea, nos comandos, forças, serviços, unidades e outros órgãos da Força Aérea, de acordo com as respectivas especialidades e postos, bem como o exercício de funções que respeitam à Força Aérea nos quartéis-generais ou estados-maiores de comandos de forças conjuntas ou combinadas e noutros departamentos do Estado.
 
@@ -4372,11 +4853,15 @@ g) Capitão - comandante de unidades de escalão esquadrilha ou equivalente; fun
 
 h) Subalterno - comandante de unidades de escalão pelotão de forças especiais; funções de carácter técnico da especialidade; funções de instrução; outras funções de natureza equivalente.
 
-###### Artigo 286.º — Apreciação das condições gerais de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-A apreciação das avaliações relativas a oficiais para efeitos de verificação das condições gerais de promoção a que se refere o artigo 60.º compete ao comandante de Pessoal da Força Aérea (CPESFA) e é efectuada com base nos processos individuais de promoção organizados pela Direcção de Pessoal (DP).
+###### Artigo 285.º — Apreciação das condições gerais de promoção
 
-###### Artigo 287.º — Condições especiais de promoção dos oficiais pilotos aviadores
+A apreciação das avaliações relativas a oficiais para efeitos de verificação das condições gerais de promoção a que se refere o artigo 60.º compete ao comandante de pessoal da Força Aérea (CPESFA), apoiado nos conselhos de especialidade, e é efectuada com base nos processos individuais de promoção organizados pela Direcção de Pessoal (DP).
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 286.º — Condições especiais de promoção dos oficiais pilotos aviadores
 
 1 - As condições especiais de promoção dos oficiais pilotos aviadores, para além das mencionadas nos artigos 237.º e 238.º, são as seguintes:
 
@@ -4422,7 +4907,9 @@ f) Para a promoção a brigadeiro:
 
 2 - A apreciação para promoção dos oficiais pilotos aviadores regressados das tropas pára-quedistas e intercalados nas listas de antiguidade do seu quadro especial de origem, de acordo com o disposto no n.º 7 do artigo 278.º, processar-se-á na altura que lhes competiria se tivessem mantido a sua posição inicial na especialidade de origem.
 
-###### Artigo 288.º — Condições especiais de promoção dos oficiais pára-quedistas
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 287.º — Condições especiais de promoção dos oficiais pára-quedistas
 
 As condições especiais de promoção dos oficiais pára-quedistas, para além das mencionadas nos artigos 237.º e 238.º, são as seguintes:
 
@@ -4456,7 +4943,9 @@ f) Para a promoção a brigadeiro;
 
 2) Ter frequentado, com aproveitamento, o curso superior de guerra aérea ou equivalente.
 
-###### Artigo 289.º — Condições especiais de promoção dos oficiais engenheiros, médicos, de administração aeronáutica e juristas
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 288.º — Condições especiais de promoção dos oficiais engenheiros, médicos, de administração aeronáutica e juristas
 
 As condições especiais de promoção dos oficiais engenheiros, médicos, de administração aeronáutica e juristas, para além das mencionadas nos artigos 237.º e 238.º, são as seguintes:
 
@@ -4492,7 +4981,9 @@ f) Para a promoção a brigadeiro:
 
 2) Ter frequentado, com aproveitamento, o curso superior de guerra aérea.
 
-###### Artigo 290.º — Condições especiais de promoção dos oficiais pilotos, navegadores, técnicos, de polícia aérea e do serviço geral pára-quedista
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 289.º — Condições especiais de promoção dos oficiais pilotos, navegadores, técnicos, de polícia aérea e do serviço geral pára-quedista
 
 1 - As condições especiais de promoção dos oficiais pilotos, navegadores, técnicos, de polícia aérea e do serviço geral pára-quedista, além das mencionadas nos artigos 237.º e 238.º, são as seguintes:
 
@@ -4530,15 +5021,21 @@ e) Para a promoção a coronel:
 
 2 - A apreciação para promoção dos oficiais regressados das tropas pára-quedistas e intercalados nas listas de antiguidade do seu quadro especial de origem, de acordo com o disposto no n.º 6 do artigo 283.º, processar-se-á na altura em que lhes competiria se tivessem mantido a sua posição inicial na especialidade de origem.
 
-###### Artigo 291.º — Treino mínimo de voo
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 290.º — Treino mínimo de voo
 
 Independentemente das condições especiais exigidas para a promoção aos diferentes postos, nenhum oficial piloto aviador, piloto ou navegador poderá ser promovido ao posto imediato sem ter realizado nos dois semestres anteriores o treino mínimo de voo exigido por lei, salvo se o CEMFA reconhecer que esse treino não foi executado por motivo de serviço.
 
-###### Artigo 292.º — Obtenção das condições especiais de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 291.º — Obtenção das condições especiais de promoção
 
 No ano de comando ou direcção exigido para a promoção a brigadeiro e no ano de comando exigido para a promoção a coronel piloto aviador, a coronel pára-quedista e a major pára-quedista, bem como nos 12 meses, seguidos ou interpolados, referidos na condição 3.ª da alínea c) do n.º 1 do artigo 287.º de promoção a major piloto aviador, não são contados os tempos em que os oficiais estejam no uso de qualquer licença ou impedidos de prestar serviço por motivo de doença.
 
-###### Artigo 293.º — Cursos de formação
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 292.º — Cursos de formação
 
 Os cursos de formação que habilitam ao ingresso na categoria de oficial dos QP são os seguintes:
 
@@ -4546,7 +5043,9 @@ a) De licenciatura ministrados na Academia da Força Aérea ou em estabeleciment
 
 b) Equiparados a bacharelato ministrados nos estabelecimentos militares de ensino adequados.
 
-###### Artigo 294.º — Cursos de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 293.º — Cursos de promoção
 
 Os cursos de promoção que habilitam os oficiais dos QP para o desempenho de funções do posto imediato são os seguintes:
 
@@ -4556,11 +5055,21 @@ b) Curso geral de guerra aérea (CGGA), para a promoção a oficial superior;
 
 c) Curso básico de comando (CBC), para a promoção a capitão.
 
-###### Artigo 295.º — Designação dos oficiais
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 294.º — Designação dos oficiais
 
 1 - Os oficiais são designados pelo posto, seguido da especialidade, número de identificação e nome.
 
 2 - Aos oficiais na situação de reserva (RES) ou de reforma (REF) é acrescentada, a seguir à especialidade, a respectiva situação em que se encontram, sob forma abreviada.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 295.º — Diploma de encarte
+
+O diploma de encarte adoptado como forma de encarte de sargento dos QP é conferido no acto de ingresso na categoria.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 ## TÍTULO III — Sargentos
 
@@ -4568,15 +5077,17 @@ c) Curso básico de comando (CBC), para a promoção a capitão.
 
 ## Parte comum
 
-###### Artigo 296.º — Diploma de encarte
+###### Artigo 296.º — Ingresso na categoria
 
-O diploma de encarte adoptado como forma de encarte de sargento dos QP é conferido no acto de ingresso na categoria.
+1 - O ingresso na categoria de sargento faz-se no posto de segundo-sargento ou no posto fixado no presente Estatuto, para os militares e militares alunos que logrem aproveitamento no curso de formação de sargentos dos QP adequado à respectiva classe, arma, serviço ou especialidade.
 
-###### Artigo 297.º — Ingresso na categoria
+2 - A data da antiguidade da promoção a segundo-sargento é referida a 1 de Outubro do ano da conclusão do curso de formação de sargentos ou a data fixada no presente Estatuto para os sargentos oriundos do RC.
 
-O ingresso na categoria de sargentos dos QP faz-se no posto de segundo-sargento.
+3 - A data de antiguidade no posto de ingresso na categoria de sargento é antecipada de tantos anos quantos os que a organização escolar dos respectivos cursos de formação, somada à duração do respectivo estágio ou tirocínio, exceder dois anos.
 
-###### Artigo 298.º — Modalidades de promoção
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 297.º — Modalidades de promoção
 
 A promoção aos postos da categoria de sargentos realiza-se mediante as seguintes modalidades:
 
@@ -4590,7 +5101,9 @@ d) Primeiro-sargento, por diuturnidade;
 
 e) Segundo-sargento, por habilitação com curso adequado.
 
-###### Artigo 299.º — Tempo mínimo de permanência nos postos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 298.º — Tempo mínimo de permanência nos postos
 
 O tempo mínimo de permanência em cada posto para acesso ao posto imediato é o seguinte:
 
@@ -4602,27 +5115,35 @@ c) Cinco anos no posto de sargento-ajudante;
 
 d) Quatro anos no posto de sargento-chefe.
 
-###### Artigo 300.º — Tempo mínimo global
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 299.º — Tempo mínimo global
 
 1 - O tempo mínimo global para acesso ao posto de sargento-mor após ter ingressado na categoria de sargento é de 20 anos de serviço efectivo.
 
 2 - O tempo mínimo global para acesso ao posto de sargento-chefe após ter ingressado na categoria de sargento é de 15 anos de serviço efectivo.
 
-###### Artigo 301.º — Abate aos QP
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 300.º — Abate aos QP
 
 O tempo mínimo de serviço efectivo a que se referem as alíneas c) e d) do n.º 1 do artigo 184.º é de oito anos.
 
-###### Artigo 302.º — Curso de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 301.º — Curso de promoção
 
 O curso de promoção a sargento-chefe constitui condição especial para acesso a este posto e é frequentado no posto de sargento-ajudante.
 
-###### Artigo 303.º — Nomeação para os cursos de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 302.º — Nomeação para os cursos de promoção
 
 A nomeação para os cursos de promoção a sargento-chefe é feita por antiguidade de entre os sargentos-ajudantes, excluindo aqueles a quem seja adiada a sua frequência e os que declarem deles desistir, os quais ficarão abrangidos pelo disposto nos artigos 209.º e 210.º, respectivamente.
 
-### CAPÍTULO II — Da Marinha
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 304.º — Classes
+###### Artigo 303.º — Classes
 
 Os sargentos dos QP da Armada distribuem-se pelas seguintes classes e postos:
 
@@ -4634,35 +5155,35 @@ Postos:
 
 Sargento-mor, sargento-chefe, sargento-ajudante, primeiro-sargento e segundo-sargento.
 
-###### Artigo 305.º — Ingresso nas classes
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-1 - O ingresso nas classes de electrotécnicos, maquinistas navais e enfermeiros e paramédicos é feito por promoção a segundo-sargento, após conclusão de todas as fases dos respectivos cursos de formação, os quais se designam por:
+### CAPÍTULO II — Da Marinha
 
-a) Curso de alistamento de electrotécnicos;
+###### Artigo 304.º — Ingresso nas classes
 
-b) Curso de alistamento de maquinistas navais;
+As classes de sargentos são alimentadas:
 
-c) Curso de alistamento de enfermeiros e paramédicos.
+a) Pelos militares de classe homónima da categoria de praça dos QP, quando aplicável e nas condições fixadas no artigo 296.º;
 
-2 - A admissão aos cursos referidos no número anterior é feita por concurso, regulado por legislação especial, de entre civis, militares em SEN e praças da Armada dos QP ou em RC.
+b) Por militares em SEN ou RV, praças da Armada em RC ou QP ou candidatos civis, admitidos aos cursos de formação de sargentos por concurso regulado por legislação especial;
 
-3 - Os candidatos civis admitidos são aumentados aos efectivos da Marinha como segundos-grumetes alunos.
+c) Por sargentos em RC, que o requeiram e sejam autorizados, sendo a data de antiguidade no posto que detinham em RC coincidente com a que resulta da sua integração na lista de antiguidades, à esquerda dos militares dos QP que frequentaram o mesmo CFS.
 
-4 - Os cursos de alistamento compreendem um período de instrução militar básica, a frequentar pelos candidatos civis admitidos, e uma parte comum, constituída pela fase geral e pela fase complementar.
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-5 - Os alunos dos cursos de alistamento que concluam, com aproveitamento, o 2.º período ou 2.º ano da fase geral são graduados, a contar do dia 1 de Outubro desse ano, no posto de segundo-sargento da classe a que se destinam.
-
-6 - O ingresso nas classes de artilheiros, condutores de máquinas, comunicações, radaristas, electricistas, torpedeiros-detectores, manobras, abastecimento, mergulhadores, fuzileiros, condutores mecânicos de automóveis e taifa é feito por promoção a segundo-sargento dos cabos das classes correspondentes que tenham completado o curso de formação de sargentos.
-
-###### Artigo 306.º — Subclasses e ramos
+###### Artigo 305.º — Subclasses e ramos
 
 As classes podem ser divididas em subclasses e ramos, de acordo com os princípios definidos no artigo 244.º
 
-###### Artigo 307.º — Transferência de subclasse ou ramo
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 306.º — Transferência de subclasse ou ramo
 
 Por necessidade de serviço ou de racionalização do emprego de recursos humanos ou outras necessidades de serviço, os sargentos podem, sem prejuízo da sua situação militar e respectivo ordenamento hierárquico, ser transferidos de subclasse ou ramo, de acordo com as condições e demais normas estabelecidas por despacho do CEMA.
 
-###### Artigo 308.º — Caracterização funcional das classes
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 307.º — Caracterização funcional das classes
 
 1 - De acordo com a classe a que pertencem, incumbe, genericamente, aos sargentos:
 
@@ -4698,7 +5219,9 @@ p) Condutores mecânicos de automóveis - dirigir e coordenar a utilização e c
 
 q) Taifa - dirigir organizar e controlar a execução de todas as funções relacionadas com o serviço do rancho, designadamente ao nível da confecção das refeições, fabricação do pão pastelaria, serviço de mesa, copa e bar.
 
-###### Artigo 309.º — Cargos e conteúdos funcionais
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 308.º — Cargos e conteúdos funcionais
 
 1 - Aos sargentos da Armada incumbe, de uma maneira geral, o desempenho de funções nos comandos, forças, unidades, serviços e organismos da Marinha, de acordo com as respectivas classes e postos, bem como o exercício de funções que à Marinha respeitam nos quartéis-generais ou estados-maiores de comandos de forças conjuntas ou combinadas.
 
@@ -4712,13 +5235,17 @@ b) Sargento-ajudante - funções ligadas à organização, coordenação e contr
 
 c) Primeiro-sargento e segundo-sargento - funções de instrução, de condução de pessoal e de execução de trabalhos técnicos, chefiando ou comandando secções em unidades navais ou unidades de fuzileiros.
 
-###### Artigo 310.º — Apreciação das condições gerais de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-1 - A apreciação das avaliações relativas a sargentos, para efeitos da verificação da satisfação das condições gerais de promoção, compete ao director do Serviço do Pessoal e é efectuada com base nos elementos organizados pelas respectivas repartições da Direcção do Serviço de Pessoal.
+###### Artigo 309.º — Apreciação das condições gerais de promoção
+
+1 - A análise das avaliações relativas a sargentos, para efeitos da verificação da satisfação das condições gerais de promoção, compete ao director do Serviço de Pessoal e é efectuada com base nos elementos organizados pelas respectivas repartições da Direcção do Serviço de Pessoal, apoiado no conselho de classe.
 
 2 - Nos casos em que a entidade referida no número anterior considere que não são satisfeitas as condições gerais de promoção ou tenha dúvidas sobre essa satisfação, o assunto será submetido à apreciação do superintendente dos Serviços de Pessoal da Armada.
 
-###### Artigo 311.º — Condições especiais de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 310.º — Condições especiais de promoção
 
 1 - As condições especiais de promoção compreendem:
 
@@ -4734,7 +5261,9 @@ d) Outras condições de natureza específica das classes.
 
 3 - Aos sargentos são aplicáveis as normas estabelecidas para os oficiais relativamente à contagem e dispensa de tirocínios.
 
-###### Artigo 312.º — Formação militar
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 311.º — Formação militar
 
 1 - A preparação básica e complementar dos sargentos, efectuada essencialmente por acções de investimento, de evolução e de ajustamento, desenvolve-se através das actividades enunciadas no artigo 255.º
 
@@ -4750,13 +5279,17 @@ c) Cursos de aperfeiçoamento;
 
 d) Cursos de actualização.
 
-###### Artigo 313.º — Cursos de formação
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 312.º — Cursos de formação
 
 1 - A preparação e os conhecimentos militares, culturais e técnicos necessários ao ingresso na categoria de sargento são obtidos através do curso de formação de sargentos (CFS) ou dos cursos de alistamento referidos no artigo 305.º, cujos níveis de ensino são equiparados a curso técnico-profissional de nível 4 previsto na legislação em vigor.
 
 2 - Os cursos referidos no número anterior são ministrados em organismos militares adequados.
 
-###### Artigo 314.º — Designação dos sargentos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 313.º — Designação dos sargentos
 
 1 - Os sargentos são designados pelo número de identificação, seguido do posto, classe e nome.
 
@@ -4764,9 +5297,9 @@ d) Cursos de actualização.
 
 3 - Aos sargentos na situação de reserva ou de reforma é incluída na sua designação, respectivamente, a indicação RES ou REF a seguir à classe.
 
-### CAPÍTULO III — Do Exército
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 315.º — Armas e serviços
+###### Artigo 314.º — Armas e serviços
 
 Os sargentos dos QP do Exército distribuem-se por armas e serviços e inscrevem-se em quadros especiais, de acordo com os seguintes postos:
 
@@ -4778,13 +5311,19 @@ Postos:
 
 Sargento-mor, sargento-chefe, sargento-ajudante, primeiro-sargento e segundo-sargento.
 
-###### Artigo 316.º — Ingresso nas armas e serviços
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+### CAPÍTULO III — Do Exército
+
+###### Artigo 315.º — Ingresso nas armas e serviços
 
 1 - O ingresso nos QP de sargentos faz-se no posto de segundo-sargento, após conclusão do curso de formação de sargentos (CFS), equiparado a curso técnico-profissional de nível 4 previsto na legislação em vigor, ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas.
 
 2 - A antiguidade dos segundos-sargentos a que respeita o número anterior é referida a 1 de Outubro do ano em que concluíram, com aproveitamento, o curso previsto no número anterior, antecipada ou retardada de tantos anos quantos os que a organização escolar dos referidos cursos exceder ou for inferior a dois anos.
 
-###### Artigo 317.º — Cargos e funções
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 316.º — Cargos e funções
 
 1 - Aos sargentos do Exército incumbe, de uma maneira geral, o desempenho de funções nos comandos, forças, unidades, serviços e organismos do Exército e em forças conjuntas ou combinadas e quartéis-generais dos respectivos comandos, de acordo com as respectivas armas e serviços, e ainda noutros departamentos do Estado.
 
@@ -4800,15 +5339,21 @@ d) Primeiro-sargento - comando de subunidades elementares em órgãos de escalã
 
 e) Segundo-sargento - comando de subunidades elementares ou órgãos de escalão secção, eventualmente auxiliar do adjunto do comandante de companhia e exercício de funções no âmbito do serviço interno da unidade e nos órgãos de serviços técnicos, administrativos, logísticos e na instrução de quadros e tropas.
 
-###### Artigo 318.º — Apreciação das condições gerais de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 317.º — Apreciação das condições gerais de promoção
 
 Aos directores das armas, dos serviços e ao inspector das bandas e fanfarras do Exército (IBFE), apoiados nos respectivos conselhos, compete a apreciação da segunda e da terceira condições gerais de promoção dos sargentos dos respectivos quadros especiais.
 
-###### Artigo 319.º — Promoção a primeiro-sargento
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 318.º — Promoção a primeiro-sargento
 
 É condição especial de promoção ao posto de primeiro-sargento que o tempo mínimo de permanência referido na alínea a) do artigo 299.º tenha sido cumprido, exclusivamente, nas unidades, escolas, centros de instrução e nos órgãos técnicos dos serviços.
 
-###### Artigo 320.º — Promoção a sargento-ajudante
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 319.º — Promoção a sargento-ajudante
 
 São condições especiais de promoção ao posto de sargento-ajudante, para além do tempo mínimo de permanência referido na alínea b) do artigo 299.º:
 
@@ -4816,7 +5361,9 @@ a) Frequência, com aproveitamento, do estágio de promoção a sargento-ajudant
 
 b) Ter prestado, no mínimo, dois anos de serviço efectivo em unidades, escolas práticas, centros de instrução, estabelecimentos ou órgãos próprios da respectiva arma ou serviço.
 
-###### Artigo 321.º — Promoção a sargento-chefe
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 320.º — Promoção a sargento-chefe
 
 São condições especiais de promoção ao posto de sargento-chefe, para além do tempo mínimo de permanência referido na alínea c) do artigo 299.º:
 
@@ -4824,7 +5371,9 @@ a) Aprovação no curso de promoção a sargento-chefe;
 
 b) Ter cumprido o tempo mínimo global previsto no n.º 2 do artigo 300.º
 
-###### Artigo 322.º — Promoção a sargento-mor
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 321.º — Promoção a sargento-mor
 
 São condições especiais de promoção ao posto de sargento-mor, para além do tempo mínimo de permanência referido na alínea d) do artigo 299.º:
 
@@ -4832,7 +5381,9 @@ a) Ter desempenhado, pelo menos durante um ano seguido, as funções de adjunto 
 
 b) Ter cumprido o tempo mínimo global previsto no n.º 1 do artigo 300.º
 
-###### Artigo 323.º — Cursos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 322.º — Cursos
 
 Os sargentos dos QP recebem a preparação cultural, técnica e profissional-militar ao longo da carreira, essencialmente pela frequência de:
 
@@ -4844,23 +5395,29 @@ c) Cursos de especialização ou qualificação;
 
 d) Cursos de actualização.
 
-###### Artigo 324.º — Curso de formação
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 323.º — Curso de formação
 
 O curso de formação de sargentos é ministrado na Escola de Sargentos do Exército (ESE) e regido por legislação específica.
 
-###### Artigo 325.º — Cursos e estágios de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 324.º — Cursos e estágios de promoção
 
 Além do curso referido no artigo 302.º, realiza-se o estágio de promoção a sargento-ajudante.
 
-###### Artigo 326.º — Designação dos sargentos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 325.º — Designação dos sargentos
 
 1 - Os sargentos são designados pelo posto, seguido da arma ou serviço, número de identificação e nome.
 
 2 - Aos sargentos na situação de reserva (RES) ou de reforma (REF) é acrescentada, a seguir à arma ou serviço, a respectiva situação em que se encontram, sob forma abreviada.
 
-### CAPÍTULO IV — Da Força Aérea
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 327.º — Especialidades
+###### Artigo 326.º — Especialidades
 
 Os sargentos dos QP da Força Aérea distribuem-se pelas seguintes especialidades e postos:
 
@@ -4872,7 +5429,11 @@ Postos:
 
 Sargento-mor, sargento-chefe, sargento-ajudante, primeiro-sargento e segundo-sargento.
 
-###### Artigo 328.º — Ingresso nas especialidades
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+### CAPÍTULO IV — Da Força Aérea
+
+###### Artigo 327.º — Ingresso nas especialidades
 
 1 - O ingresso nas especialidades de pára-quedistas, operadores, mecânicos, abastecimentos, construção e manutenção de infra-estruturas, serviço de saúde, polícia área e secretariado e apoio dos serviços faz-se no posto de segundo-sargento, por promoção de sargentos e praças em RC habilitados com o respectivo curso de formação de sargentos (CFS), equiparado a curso técnico-profissional de nível 4 previsto na legislação em vigor, ou curso equivalente, ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas.
 
@@ -4882,7 +5443,9 @@ Sargento-mor, sargento-chefe, sargento-ajudante, primeiro-sargento e segundo-sar
 
 4 - Os sargentos a que se refere o número anterior regressados das tropas pára-quedistas são intercalados nas listas de antiguidade do seu quadro especial de origem, de acordo com os postos e antiguidades que detenham, ficando na situação de supranumerários até à promoção ao posto imediato.
 
-###### Artigo 329.º — Caracterização funcional das especialidades
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 328.º — Caracterização funcional das especialidades
 
 Aos sargentos das especialidades a seguir indicadas, para além de actividades de natureza militar e de instrução comuns a todos os sargentos, bem como funções de comando de subunidades até ao escalão secção ou de chefia de órgãos equivalentes, incumbe, especialmente:
 
@@ -4924,7 +5487,9 @@ s) Secretariado e apoio dos serviços - coordenar e executar as actividades rela
 
 t) Da banda e fanfarras - integrar, como executantes, a banda de musica e fanfarras da Força Aérea, bem como coordenar e executar as actividades relacionadas com a manutenção e afinação dos instrumentos distribuídos.
 
-###### Artigo 330.º — Cargos e funções
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 329.º — Cargos e funções
 
 1 - Aos sargentos da Força Aérea incumbe, de uma maneira geral, o desempenho de funções nos comandos, forças, serviços, unidades e outros órgãos da Força Aérea, de acordo com as respectivas especialidades e postos, bem como o exercício de funções que respeitam à Força Aérea no âmbito das forças armadas, em quartéis-generais de comandos de forças conjuntas ou combinadas e ainda noutros departamentos do Estado.
 
@@ -4938,11 +5503,15 @@ c) Sargento-ajudante - chefe de equipa; chefe de secretaria de unidade de escal�
 
 d) Primeiro-sargento e segundo-sargento - comandante de unidade de escalão secção de forças especiais; coordenador das actividades desenvolvidas no âmbito da sua especialidade pelo pessoal de si dependente; execução de funções técnicas da sua especialidade; funções de instrução; outras funções de natureza equivalente.
 
-###### Artigo 331.º — Apreciação das condições gerais de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 330.º — Apreciação das condições gerais de promoção
 
 A apreciação das avaliações relativas a sargentos, para efeitos de verificação das condições gerais de promoção a que se refere o artigo 60.º, compete ao comandante de Pessoal da Força Aérea (CPESFA) e é efectuada com base nos processos individuais de promoção organizados pela Direcção de Pessoal (DP).
 
-###### Artigo 332.º — Condições especiais de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 331.º — Condições especiais de promoção
 
 1 - As condições especiais de promoção dos sargentos pára-quedistas, operadores, mecânicos, de abastecimento, de construção e manutenção de infra-estruturas, do serviço de saúde, de polícia aérea e de secretariado e apoio dos serviços, para além das mencionadas nos artigos 299.º e 300.º, são as seguintes:
 
@@ -4960,7 +5529,9 @@ d) Para a promoção a sargento-mor - ter prestado, pelo menos durante dois anos
 
 2 - A apreciação, para efeitos de promoção ao posto imediato, dos sargentos regressados das tropas pára-quedistas e intercalados no respectivo quadro especial de origem, de acordo com o disposto no n.º 4 do artigo 328.º, processar-se-á na altura em que lhes competiria se tivessem mantido a sua posição inicial na especialidade de origem.
 
-###### Artigo 333.º — Cursos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 332.º — Cursos
 
 Os sargentos do QP recebem a preparação cultural, técnica e profissional-militar ao longo da carreira, essencialmente pela frequência de cursos de:
 
@@ -4974,27 +5545,37 @@ d) Especialização;
 
 e) Actualização.
 
-###### Artigo 334.º — Cursos de formação
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 333.º — Cursos de formação
 
 Os cursos de formação de sargentos (CFS) destinam-se a ministrar preparação cultural, técnica e militar adequada ao ingresso nos QP de sargentos e ao exercício de funções correspondentes às especialidades referidas no artigo 327.º
 
-###### Artigo 335.º — Curso de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 334.º — Curso de promoção
 
 O curso de promoção a sargento-chefe (CPSH) visa aprofundar os conhecimentos técnicos e militares necessários à execução técnica avançada, à supervisão e à chefia da execução, bem como exercer papel selectivo para a promoção aos postos de sargento-chefe e sargento-mor.
 
-###### Artigo 336.º — Designação dos sargentos
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 335.º — Designação dos sargentos
 
 1 - Os sargentos são designados pelo posto, seguido da especialidade, número de identificação e nome.
 
 2 - Aos sargentos na situação de reserva (RES) ou de reforma (REF) é acrescentada, a seguir à especialidade, a respectiva situação em que se encontram, sob forma abreviada.
 
-## TÍTULO IV — Praças da Marinha
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-###### Artigo 337.º — Certificado de encarte
+###### Artigo 336.º — Certificado de encarte
 
 O certificado de encarte adoptado como forma de encarte das praças dos QP da Armada é conferido no acto de ingresso na categoria.
 
-###### Artigo 338.º — Classes
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+## TÍTULO IV — Praças da Marinha
+
+###### Artigo 337.º — Classes
 
 As praças dos QP da Armada distribuem-se pelas seguintes classes e postos:
 
@@ -5006,21 +5587,31 @@ Postos:
 
 Cabo e primeiro-marinheiro.
 
-###### Artigo 339.º — Ingressos nas classes
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-1 - O ingresso na categoria de praças dos QP da Armada é feito por promoção a primeiro-marinheiro dos segundos-grumetes alunos provenientes do recrutamento especial que, após frequência, com aproveitamento, da instrução militar básica, tenham concluído, com aproveitamento, o curso de formação técnica (CFT) e das praças provenientes do recrutamento geral que, após cumprimento do SEN, tenham concluído, com aproveitamento, o curso técnico complementar (CTC).
+###### Artigo 338.º — Ingressos nas classes
 
-2 - O CEMA pode autorizar o ingresso na categoria de praças dos QP, nas classes correspondentes, das praças em RC que, tendo cumprido o tempo de serviço a que estavam obrigadas, possuam as necessárias qualificações e o requeiram.
+1 - O ingresso na categoria de praças dos QP é feito por promoção a primeiro-marinheiro dos militares e militares alunos que se vinculem à prestação de serviço nos QP e estejam habilitados com o curso de formação básica para praças, curso de formação de grumetes e curso de formação de marinheiros (CFM).
 
-###### Artigo 340.º — Subclasses e ramos
+2 - A data de antiguidade dos militares e militares alunos que ingressem nos QP após habilitação com os CFM adequados às diversas classes é antecipada de tantos dias quantos os necessários para ser coincidente com a data de conclusão do CFM que, iniciado simultaneamente, termine em primeiro lugar.
+
+3 - O ingresso na categoria de praças dos QP dos primeiros-marinheiros RC que, tendo cumprido o tempo de serviço a que se vincularam, o requeiram e sejam autorizados é feito por inscrição na lista de antiguidades, à esquerda dos primeiros-marinheiros QP que frequentaram o mesmo CFM.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 339.º — Subclasses e ramos
 
 As classes podem ser divididas em subclasses e ramos, de acordo com os princípios definidos no artigo 244.º
 
-###### Artigo 341.º — Transferência de subclasse
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 340.º — Transferência de subclasse
 
 Por necessidade de racionalização do emprego de recursos humanos ou outras necessidades de serviço, as praças poderão, sem prejuízo da sua situação militar e respectivo ordenamento hierárquico, ser transferidas de subclasse, de acordo com as condições e demais normas estabelecidas por despacho do CEMA.
 
-###### Artigo 342.º — Funções
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 341.º — Funções
 
 1 - Às praças incumbe, de uma maneira geral, o desempenho de funções de natureza executiva nos comandos, forças, unidades, serviços e demais organismos da Marinha, de acordo com as respectivas classes e postos, bem como o exercício de funções que à Marinha respeitam nos quartéis-generais ou estados-maiores de comandos de forças conjuntas ou combinadas e noutros departamentos de Estado.
 
@@ -5042,7 +5633,7 @@ f) Executar as tarefas que lhes sejam determinadas no âmbito das acções de vi
 
 g) Cuidar do armazenamento e conservação do material cuja guarda lhes seja confiada, de acordo com as normas e regulamentos em vigor;
 
-h) Executar trabalhos correntes de secretaria, quando possuam a adequada habilitação com o respectivo curso de aperfeiçoamento ou, não existindo pessoal especialmente qualificado, se reconheça disporem de condições próprias para o desempenho de tais tarefas;
+h) Executar trabalhos correntes de secretaria;
 
 i) Efectuar os registos e escrituração inerentes à natureza da função que desempenham;
 
@@ -5050,7 +5641,9 @@ j) Executar as tarefas de arrumação, limpezas e pequenas conservações que lh
 
 4 - Aos cabos poderão ainda ser cometidas funções relativas à condução de pessoal e ao controlo de execução.
 
-###### Artigo 343.º — Caracterização funcional das classes
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 342.º — Caracterização funcional das classes
 
 1 - De acordo com a classe a que pertencem, incumbe, genericamente, às praças:
 
@@ -5080,11 +5673,15 @@ m) Condutores mecânicos de automóveis - condução de todos os tipos de veícu
 
 n) Taifa - executar todas as funções relacionadas com o serviço do rancho, designadamente ao nível da confecção das refeições, fabricação do pão, pastelaria, serviço de mesa, copa e bar.
 
-###### Artigo 344.º — Abate aos QP
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 343.º — Abate aos QP
 
 O tempo mínimo de serviço efectivo a que se referem as alíneas c) e d) do n.º 1 do artigo 184.º é de quatro anos.
 
-###### Artigo 345.º — Promoções
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 344.º — Promoções
 
 As promoções aos postos da categoria de praça realizam-se mediante as seguintes modalidades:
 
@@ -5092,13 +5689,17 @@ a) Cabo, por antiguidade;
 
 b) Primeiro-marinheiro, por habilitação com curso adequado.
 
-###### Artigo 346.º — Apreciação das condições gerais de promoção
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
-1 - A apreciação das avaliações relativas a praças, para efeitos da verificação da satisfação das condições gerais de promoção, compete ao director do Serviço do Pessoal e é efectuada com base nos elementos organizados pelas respectivas repartições da Direcção do Serviço do Pessoal.
+###### Artigo 345.º — Apreciação das condições gerais de promoção
 
-2 - Nos casos em que a entidade referida no número anterior considere que não são satisfeitas as condições gerais de promoção ou tenha dúvidas sobre essa satisfação, o assunto será submetido à apreciação do superintendente dos Serviços do Pessoal da Armada.
+1 - A análise das avaliações relativas a praças, para efeitos da verificação da satisfação das condições gerais de promoção, compete ao director do Serviço de Pessoal e é efectuada com base nos elementos organizados pelas respectivas repartições da Direcção do Serviço de Pessoal.
 
-###### Artigo 347.º — Condições especiais de promoção
+2 - Nos casos em que a entidade referida no número anterior considere que não são satisfeitas as condições gerais de promoção ou tenha dúvidas sobre esse satisfação, o assunto será submetido à apreciação do superintendente dos Serviços do Pessoal da Armada, o qual procederá à audição prévia do órgão consultivo das praças da Armada.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 346.º — Condições especiais de promoção
 
 1 - As condições especiais de promoção ao posto de cabo são as seguintes:
 
@@ -5108,13 +5709,17 @@ b) Ter efectuado no posto de primeiro-marinheiro 18 meses de embarque, salvo se 
 
 2 - Às praças são aplicáveis as normas estabelecidas para os oficiais e sargentos relativamente à contagem e dispensa de tirocínios.
 
-###### Artigo 348.º — Formação militar
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 347.º — Formação militar
 
 1 - A preparação básica e complementar das praças, efectuada essencialmente por acções de investimento, de evolução e de ajustamento, desenvolve-se através das actividades mencionadas no artigo 255.º
 
 2 - A preparação militar e técnica das praças deve ainda ser completada e melhorada de forma contínua por acções desenvolvidas nas unidades ou serviços onde se encontram colocadas.
 
-###### Artigo 349.º — Designação das praças
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 348.º — Designação das praças
 
 1 - As praças são designadas pelo número de identificação, seguido do posto, classe e nome.
 
@@ -5122,427 +5727,513 @@ b) Ter efectuado no posto de primeiro-marinheiro 18 meses de embarque, salvo se 
 
 3 - Às praças na situação de reserva ou de reforma é incluída na sua designação, respectivamente, a indicação RES ou REF a seguir à classe.
 
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
+
+###### Artigo 349.º — Início e duração do SEN
+
+O serviço efectivo normal tem início no primeiro dia da incorporação do turno respectivo e tem a duração fixada nos termos previstos na Lei do Serviço Militar (LSM).
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
 ## LIVRO III — Do serviço militar obrigatório
 
 ## TÍTULO I
 
 ## Parte comum
 
-###### Artigo 350.º — Militar em SMO
+###### Artigo 350.º — Designação e identificação dos militares em SEN
 
-1 - É militar em SMO o oficial, sargento ou praça proveniente do recrutamento geral ou especial que se encontra em serviço efectivo normal (SEN) ou em serviço efectivo decorrente de convocação ou mobilização.
+1 - Os militares em SEN são designados pelo posto, classe, arma ou serviço e especialidade, em função do respectivo ramo, pelo regime em que se encontram e número de identificação e nome.
 
-2 - As disposições aplicáveis aos militares em SEN são extensíveis aos militares convocados e mobilizados, sem prejuízo do estabelecido neste Estatuto e em legislação especial.
+2 - Os militares em SEN são designados por:
 
-###### Artigo 351.º — Compensação financeira e material
+a) Cadete SEN (CADSEN) ou soldado cadete (SOLCAD), quando destinado a oficial;
 
-Ao militar em SEN é atribuída uma compensação financeira e material, visando a satisfação das suas necessidades básicas.
+b) Segundo-grumete instruendo (2GRINS) ou soldado instruendo (SOLINS), quando destinado a sargento;
 
-###### Artigo 352.º — Assistência à saúde
+c) Segundo-grumete recruta (2GRREC) ou soldado recruta (SOLREC), quando destinado a praça.
 
-O militar em SEN que à data da passagem à disponibilidade se encontre em tratamento ou com baixa hospitalar por doença em serviço ou acidente dele resultante poderá, se assim o declarar, beneficiar de assistência médica, medicamentosa e hospitalar gratuita, a prestar pelos serviços de saúde militar, até à data da alta hospitalar.
+3 - Após a preparação militar geral, os militares referidos na alínea c) do número anterior deixam de ter a designação «recruta».
 
-###### Artigo 353.º — Amparo
+4 - Durante o período nas fileiras, os militares em SEN, cuja formação civil dispense a preparação complementar da classe ou especialidade a que se destinam e desde que sejam utilizados em funções de acordo com as necessidades dos ramos, podem ser objecto de graduação, após a preparação militar geral, nos postos previstos para os militares desta forma de prestação de serviço, na data de passagem à disponibilidade.
 
-O militar em SEN pode requerer a qualificação como amparo de família, nos termos previstos na legislação aplicável.
+5 - Ao militar em SEN é atribuído, em substituição da cédula, um cartão de identificação, de uso obrigatório, para comprovar a sua identidade para efeitos militares.
 
-###### Artigo 354.º — Identificação militar
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-Ao militar em SEN é atribuído, em substituição da célula militar, um cartão de identificação militar, de uso obrigatório, para comprovar a sua identidade para efeitos militares.
+###### Artigo 351.º — Funções
 
-###### Artigo 355.º — Postos
+1 - Ao militar em SEN incumbe o desempenho de funções compatíveis com a preparação obtida e, sempre que possível, com as habilitações académicas e qualificações profissionais que detenha.
 
-1 - Sem prejuízo de promoção por distinção ou graduação, o militar em SEN só poderá ingressar e ascender nas seguintes categorias e postos da hierarquia militar:
+2 - Os militares em SEN distribuem-se, do ponto de vista funcional e técnico, de acordo com as normas estabelecidas por despacho do CEM do respectivo ramo.
 
-a) Oficiais:
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-Subtenente ou alferes;
+###### Artigo 352.º — Postos
 
-Aspirante a oficial (ASPOF).
+1 - Sem prejuízo de promoção por distinção, o militar em SEN é promovido, na data da passagem à situação de disponibilidade ou no primeiro dia do prolongamento excepcional do SEN, aos seguintes postos:
 
-b) Sargentos:
+a) Oficiais - aspirante a oficial;
 
-Subsargento (SSAR) ou furriel (FUR);
+b) Sargentos - segundo-subsargento ou segundo-furriel.
 
-Segundo-furriel (2FUR).
+2 - As praças mantêm as designações que detinham, podendo ainda ser promovidas a primeiro-grumete ou segundo-cabo quando habilitadas com o curso de formação de grumetes ou curso de promoção a cabo.
 
-c) Praças:
+3 - A inscrição no posto de cada uma das categorias acima referidas é feita, dentro de cada turno de incorporação, por ordem decrescente de classificação nos respectivos cursos de formação.
 
-Segundo-marinheiro (2MAR) ou primeiro-cabo (1CAB);
+4 - Na categoria de praças, quando não sejam atribuídas classificações, a inscrição é feita por ordem decrescente dos números de identificação militar (NIM).
 
-Primeiro-grumete (1GR) ou segundo-cabo (2CAB);
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-Segundo-grumete (2GR) ou soldado (SOL).
+###### Artigo 353.º — Antiguidade relativa
 
-2 - O militar em SEN é incorporado com a designação militar estabelecida de acordo com as regras especiais de cada ramo, a qual se mantém durante a preparação militar geral.
+A antiguidade relativa entre militares em SEN da mesma categoria e posto é determinada inicialmente pela ordem de inscrição no respectivo posto.
 
-3 - O militar convocado ou mobilizado presta serviço efectivo no posto em que transitou para a situação de reserva, de disponibilidade e licenciamento, podendo ser promovido ou graduado, nos termos previstos neste Estatuto.
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-###### Artigo 356.º — Inscrição no primeiro posto
+###### Artigo 354.º — Preparação militar geral
 
-1 - A inscrição no primeiro posto de cada uma das categorias é feita, dentro de cada turno de incorporação, por ordem decrescente de classificação nos respectivos cursos de formação.
+1 - O militar em SEN, é sujeito, após a incorporação, à preparação militar geral, que visa fornecer conhecimentos adequados às características do ramo a que pertence.
 
-2 - Na categoria de praças, quando não sejam atribuídas classificações, a inscrição é feita por ordem decrescente dos números de identificação militar (NIM).
+2 - A preparação militar geral termina no acto de juramento de bandeira e a sua duração é fixada por portaria do Ministro da Defesa Nacional, sob proposta do CCEM.
 
-###### Artigo 357.º — Antiguidade relativa
+3 - O militar destinado exclusivamente a cumprir o SEN que não obtenha aproveitamento na preparação militar geral é submetido a novo período de preparação no turno seguinte.
 
-A antiguidade relativa entre militares com o mesmo posto ou com postos correspondentes nas diferentes classes e especialidades é determinada pelas datas de antiguidade nesse posto e, em caso de igualdade destas, pelas datas de antiguidade no posto anterior, e assim sucessivamente, até ao primeiro posto da respectiva categoria, em relação ao qual se atende ao estabelecido no artigo anterior.
+4 - O militar destinado exclusivamente a cumprir o SEN, na categoria de oficial ou sargento, que não obtenha aproveitamento na preparação militar geral por motivos disciplinares ou escolares cumpre o serviço efectivo como praça e é submetido a novo período de preparação no turno seguinte.
 
-###### Artigo 358.º — Funções dos militares em SEN
+5 - O militar destinado exclusivamente a cumprir o SEN, na categoria de oficial ou sargento, que, por motivo de acidente ou doença, não obtenha aproveitamento na preparação militar geral é submetido a novo período de prepração no turno seguinte.
 
-O militar em SEN desempenha funções de acordo com o respectivo posto, qualificações e capacidades pessoais.
+6 - O militar aluno que interrompa a frequência de cursos de formação para acesso a outras formas de prestação de serviço, após um período de frequência superior ao fixado para a duração do SEN e que obtenha aproveitamento na preparação militar geral, é considerado como tendo cumprido o SEN.
 
-###### Artigo 359.º — Início e duração do SEN
+7 - O militar que deva repetir a preparação militar geral entra em licença registada até à data de início do turno seguinte.
 
-1 - O SEN tem início no primeiro dia da incorporação do turno respectivo e tem a duração fixada nos termos previstos na LSM, podendo o CEM de cada ramo, por razões de serviço, determinar a antecipação da passagem à disponibilidade.
+8 - O período de preparação militar geral em que o militar não obteve aproveitamento por motivos disciplinares não é contado para efeitos de duração do SEN.
 
-2 - Será contado como tempo de serviço o tempo que o militar cumpriria normalmente se não tivesse sido abrangido pela antecipação referida no número anterior.
+9 - A preparação militar geral que antecede o período nas fileiras é ministrada através de cursos de formação básica (CFB), para oficiais, sargentos e praças.
 
-###### Artigo 360.º — Termo do SEN
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-Após perfazer o tempo de serviço efectivo fixado na Lei do Serviço Militar, o militar transita para uma das seguintes situações:
-
-a) Reserva de disponibilidade e licenciamento;
-
-b) Serviço efectivo em RC.
-
-###### Artigo 361.º — Tempo não contável
-
-Ao militar incorporado como voluntário não é contado como tempo de serviço efectivo o período de preparação militar geral caso não tenha aproveitamento por motivos disciplinares ou escolares.
-
-###### Artigo 362.º — Modalidades de promoção e condições especiais
-
-1 - Ao militar em SEN não se aplicam as modalidades de promoção por antiguidade e escolha.
-
-2 - As condições especiais de promoção do militar em SEN são as estabelecidas nos capítulos especificamente aplicáveis a cada um dos ramos.
-
-###### Artigo 363.º — Casos especiais
-
-1 - O militar, ao ingressar voluntariamente como praça para prestar serviço efectivo em categoria ou especialidade que requeira uma preparação complementar militar e formação técnica específica, é graduado no posto correspondente, após ter concluído a preparação militar geral.
-
-2 - Caso não obtenha aproveitamento por motivos escolares ou disciplinaras na preparação complementar militar e formação técnica específica, cessa a graduação, mantendo-se nas fileiras como praça, até ao cumprimento do SEN, na especialidade que convier aos ramos.
-
-3 - Após concluída a preparação complementar militar e formação técnica específica com aproveitamento, o militar será promovido ao posto correspondente à categoria a que se destinar.
-
-###### Artigo 364.º — Preparação militar geral
-
-1 - O militar em SEN é sujeito, após a incorporação, à preparação militar geral, que visa fornecer conhecimentos adequados às características do ramo a que pertence.
-
-2 - A preparação militar geral termina no acto do juramento de bandeira e a sua duração é fixada por portaria do Ministro da Defesa Nacional, sob proposta do CCEM.
-
-3 - O militar destinado a cumprir o SEN como praça que não obtenha aproveitamento na preparação militar geral é submetido a novo período de preparação no turno seguinte.
-
-4 - O militar destinado a oficial ou sargento que não obtenha aproveitamento na preparação militar geral por motivos disciplinares ou escolares cumpre o serviço efectivo como praça e é submetido a novo período de preparação no turno seguinte, se for considerado como não tendo adquirido a formação militar básica indispensável para o cumprimento do SEN.
-
-5 - O militar destinado a oficial ou sargento que, por motivo de acidente ou doença, não obtenha aproveitamento na preparação militar geral é submetido a novo período de preparação no turno seguinte.
-
-6 - O militar que deva repetir a preparação militar geral entra em licença registada até à data de início do turno seguinte.
-
-7 - O período de preparação militar geral em que o militar não obteve aproveitamento é contado para efeitos de duração do SEN.
-
-###### Artigo 365.º — Preparação complementar
-
-A preparação complementar destina-se ao desenvolvimento da formação militar e técnica adequada ao exercício das funções específicas das categorias, classes ou especialidades de cada ramo.
-
-###### Artigo 366.º — Período nas fileiras
+###### Artigo 355.º — Período nas fileiras
 
 1 - Concluída, com aproveitamento, a preparação militar geral, o militar em SEN inicia o período nas fileiras.
 
-2 - O períodos nas fileiras abrange a preparação complementar, quando deva ter lugar, e o serviço nas unidades e estabelecimentos militares.
+2 - O período nas fileiras abrange a preparação complementar, quando deva ter lugar, e o serviço nas unidades e estabelecimentos militares.
 
-3 - Se à data da passagem à disponibilidade o militar se encontrar com baixa por doença adquirida em serviço ou por acidente dele resultante e a junta médica não estiver em condições de se pronunciar sobre a capacidade ou incapacidade definitivas do militar, poderá este permanecer nas fileiras até à decisão definitiva daquela junta, desde que o requeira ao CEM do ramo a que pertence.
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-###### Artigo 367.º — Avaliação individual
+###### Artigo 356.º — Preparação complementar
+
+1 - A preparação complementar destina-se ao desenvolvimento da formação militar proporcionada durante a preparação militar geral e terá em conta o ramo, categoria e forma de prestação de serviço, classe ou especialidade a que o militar se destina.
+
+2 - A preparação complementar dos militares das categorias indicadas, destinados a prestar serviço em SE, é designada por:
+
+a) Oficiais - curso de formação de oficiais do SEN (CFO/SEN);
+
+b) Sargentos - curso de formação de sargentos do SEN (CFS/SEN);
+
+c) Praças - curso de formação de praças do SEN (CFP/SEN).
+
+3 - O militar em SEN que se destina ao RV ou RC pode ser objecto de acções de formação adequadas para o desempenho de funções naquelas formas de prestação de serviço durante o período do SEN legalmente fixado.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 357.º — Avaliação individual
 
 O militar em SEN é sujeito a avaliação individual, nomeadamente para os efeitos seguintes:
 
 a) Promoção;
 
-b) Outras formas de prestação de serviço efectivo nas forças armadas.
+b) Outras formas de prestação de serviço efectivo nas Forças Armadas.
 
-###### Artigo 368.º — Falta de aptidão
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 358.º — Falta de aptidão
 
 O militar em SEN que não satisfaça a aptidão física ou psíquica necessária ao desempenho das funções militares e seja considerado incapaz para o serviço militar pela competente junta médica é alistado na reserva territorial, sem prejuízo da situação que lhe competir, nos termos da LSM e respectivo regulamento.
 
-###### Artigo 369.º — Licença de férias
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-Ao militar em SEN, após ter cumprido seis meses de serviço efectivo, pode ser concedida licença de férias, por antecipação, caso se preveja venha a satisfazer o disposto na alínea a) do n.º 1 do artigo 101.º
+###### Artigo 359.º — Compensação material e financeira
 
-###### Artigo 370.º — Licença registada
+1 - O militar em SEN tem direito a alojamento, alimentação e fardamento gratuitos.
 
-1 - A licença registada, concedida a requerimento do militar, não pode exceder o período de três meses.
+2 - Ao militar em SEN é atribuída uma compensação financeira, de montante uniforme, a actualizar nos termos da lei.
 
-2 - A licença registada imposta ao militar em SEN, nos termos do n.º 6 do artigo 364.º, não conta como tempo de SEN.
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-## TÍTULO II — Da Marinha
+###### Artigo 360.º — Assistência na doença
 
-###### Artigo 371.º — Classes, subclasses e ramos
+1 - O militar em SEN que à data da passagem à disponibilidade se encontre em tratamento ou com baixa hospitalar por doença em serviço ou acidente dele resultante beneficia de assistência médica, medicamentosa e hospitalar gratuita, a prestar pelos serviços de saúde militar, até à data da alta hospitalar.
 
-Do ponto de vista funcional e técnico, os militares em SEN distribuem-se por classes, subclasses e ramos, de acordo com normas estabelecidas por despacho do CEMA.
+2 - Beneficia do mesmo tipo de apoio, salvo declaração expressa em contrário do próprio, o militar em SEN que à data da passagem à disponibilidade se encontre com baixa hospitalar por doença ou acidente sem relação com o serviço, e a alta hospitalar não possa ser concedida sem grave prejuízo do processo de recuperação clínica do acamado.
 
-###### Artigo 372.º — Funções
+3 - O militar na situação prevista no número anterior continua em SEN no posto que detém, passando à disponibilidade na data da alta hospitalar ou à reserva territorial se for julgado incapaz para o serviço efectivo.
 
-Ao militar do SEN incumbem, genericamente, as funções que estatutariamente se encontram definidas para os militares dos QP do mesmo posto ou categoria, condicionadas ao grau de qualificação obtido durante as fases de preparação militar, geral e complementar.
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-###### Artigo 373.º — Apreciação das condições gerais de promoção
+###### Artigo 361.º — Amparo
 
-Para a apreciação das avaliações relativas aos militares em SEN, para efeitos de verificação da satisfação das condições gerais de promoção, são aplicáveis as normas estabelecidas neste Estatuto para os militares dos QP da Armada da mesma categoria.
+O militar em SEN pode requerer a qualificação como amparo de família, nos termos previstos na legislação aplicável.
 
-###### Artigo 374.º — Condições especiais de promoção
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-1 - São condições especiais de promoção para os oficiais:
+###### Artigo 362.º — Licença registada
 
-a) A habilitação com a preparação militar geral, para a promoção a aspirante a oficial;
+1 - A licença registada concedida a título excepcional a requerimento do militar não pode exceder o período de um mês.
 
-b) A prestação de 12 meses de serviço efectivo no posto de aspirante a oficial, para a promoção a subtenente.
+2 - A licença registada a que se refere o n.º 7 do artigo 354.º não conta como tempo de SEM.
 
-2 - É condição especial de promoção para os sargentos provenientes do recrutamento geral a habilitação com a preparação militar geral para a promoção a subsargento.
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-3 - São condições especiais de promoção para as praças provenientes do recrutamento geral:
+###### Artigo 363.º — Termo do SEN
 
-a) A habilitação com a preparação militar geral, para a promoção a segundo-grumete;
+1 - Após perfazer o tempo de serviço efectivo fixado na Lei do Serviço Militar, o militar transita para uma das seguintes situações:
 
-b) A habilitação com a preparação complementar militar e formação técnica específica, obtida através da instrução técnica básica (ITB), e a prestação de 12 meses de serviço efectivo, contados a partir da data de incorporação, para a promoção a primeiro-grumete.
+a) Reserva de disponibilidade e licenciamento;
 
-4 - São condições especiais de promoção para as praças provenientes do recrutamento especial destinadas ao RC:
+b) Serviço efectivo em RV.
 
-a) A habilitação com a preparação militar geral, para a promoção a segundo-grumete;
+2 - Se à data da passagem à disponibilidade o militar se encontrar com baixa por doença e a junta não estiver em condições de se pronunciar sobre a capacidade ou incapacidade definitivas do militar, este permanece nas fileiras, na mesma forma de prestação de serviço, até à decisão definitiva daquela junta, salvo declaração expressa em contrário do próprio.
 
-b) A habilitação com a preparação complementar militar e formação técnica específica, obtida através do curso de formação técnica complementar (CFTC), para a promoção a primeiro-grumete;
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-c) A prestação de 12 meses de serviço efectivo, contados a partir da data de incorporação, para a promoção a segundo-marinheiro.
+###### Artigo 364.º — Tempo não contável
 
-###### Artigo 375.º — Graduação
+Ao militar incorporado como voluntário não é contado como tempo de serviço efectivo o período de preparação militar geral caso não tenha aproveitamento por motivos disciplinares ou escolares.
 
-Os segundos-grumetes que frequentam o CFTC são graduados em primeiro-grumete.
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-###### Artigo 376.º — Organização dos processos de promoção
+###### Artigo 365.º — Início e duração do RV
 
-1 - A organização dos processos de promoção, dos quais devem constar todos os elementos que forem julgados convenientes para uma completa apreciação dos militares, incumbe à Direcção do Serviço do Pessoal, através das repartições competentes.
+1 - A prestação do serviço efectivo em RV inicia-se no dia imediato ao termo do SEN ou, estando o militar na reserva de disponibilidade e licenciamento, no dia do regresso à efectividade do serviço.
 
-2 - Os processos de promoção são confidenciais, devendo ao interessado ser facultada a consulta do respectivo processo individual, desde que fundamentadamente o requeira.
+2 - A prestação de serviço em RV terá a duração mínima e máxima de acordo com o fixado na Lei do Serviço Militar.
 
-###### Artigo 377.º — Preparação militar geral
+3 - Sempre que numa classe ou especialidade o período inicial da prestação de serviço efectivo em RV deva ter uma duração superior ao mínimo estabelecido na lei, essa duração será fixada em portaria do MDN, sob proposta do CEM do respectivo ramo.
 
-A preparação militar geral que antecede o período nas fileiras é ministrada:
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-a) Para oficiais, através do curso de formação de oficiais da reserva naval (CFORN);
+###### Artigo 366.º — Candidatura
 
-b) Para sargentos e praças, através de instrução militar básica (IMB).
+1 - A candidatura ao RV formaliza-se em requerimento dirigido ao CEM respectivo.
 
-###### Artigo 378.º — Designação dos militares em SEN
+2 - Os prazos e procedimentos a observar na apresentação da candidatura para admissão ao serviço efectivo em RV e respectiva cessação são fixados por despacho do CEM respectivo.
 
-1 - O militar em SEN é designado pelo número de identificação, posto, classe e nome.
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-2 - À designação dos oficiais é acrescentada a indicação RN após a classe.
+###### Artigo 367.º — Condições de admissão
 
-3 - Durante o período de preparação militar geral os militares em SEN são designados:
+1 - Constituem condições gerais de admissão ao RV:
 
-a) Cadete da reserva naval, quando destinado a oficial;
+a) Ter bom comportamento militar;
 
-b) Segundo-grumete instruendo, quando proveniente do recrutamento geral e destinado a sargento em SEN;
+b) Reunir condições físicas e psíquicas para o desempenho das funções inerentes ao posto e classe ou especialidade;
 
-c) Segundo-grumete recruta, quando proveniente do recrutamento geral e destinado a praça em SEN;
+c) Possuir habilitações literárias e técnico-profissionais necessárias à classe ou especialidade;
 
-d) Segundo-grumete aluno, quando proveniente do recrutamento especial e destinado a praça em RC.
+d) Não ter avaliações desfavoráveis relativamente ao período de prestação do SEN.
 
-## TÍTULO III — Do Exército
+2 - As condições especiais de admissão são estabelecidas por despacho do CEM respectivo, em função das categorias, classes ou especialidades.
 
-###### Artigo 379.º — Especialidades dos militares em SEN
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-Os militares em SEN distribuem-se por postos e especialidades das armas e serviços do Exército, definidos por despacho do CEME.
+###### Artigo 368.º — Designação e identificação dos militares em RV
 
-###### Artigo 380.º — Funções
+1 - Os militares em RV são designados pelo posto, classe, arma ou serviço e especialidade, em função do respectivo ramo, pelo regime em que se encontram, sob forma abreviada e número de identificação e nome.
 
-Aos militares em SEN incumbem funções de acordo com o posto e especialidade, previstos nos regulamentos e quadros orgânicos das unidades, estabelecimentos e órgãos do Exército.
+2 - Exceptuam-se do mencionado no n.º 1 os militares alunos cujas designações constam nos regulamentos escolares dos cursos que frequentam.
 
-###### Artigo 381.º — Apreciação das condições gerais de promoção
+3 - Ao militar em RV é conferido um cartão de identificação militar, de uso obrigatório, para comprovação da sua identidade para efeitos militares.
 
-1 - Ao director do Serviço de Pessoal compete a apreciação das condições gerais de promoção a que se refere o artigo 60.º
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-2 - A apreciação das condições gerais de promoção do militar em SEN é feita com base nos documentos que constituem o processo de promoção e outros constantes do seu processo individual ou que nele venham a ser integrados após decisão superior.
+###### Artigo 369.º — Funções
 
-###### Artigo 382.º — Condições especiais de promoção
+1 - Os militares em RV exercem funções de acordo com o seu posto, classe ou especialidade e qualificações.
 
-São condições especiais de promoção dos militares em SEN as seguintes:
+2 - Compete ao CEM do ramo fixar, por despacho, as funções específicas dos militares em RV.
 
-a) A aspirante a oficial - a conclusão, com aproveitamento, da preparação militar geral, especificamente designada curso de formação de oficiais do SEN (CFO/SEN);
+3 - De acordo com o disposto nos números anteriores, os militares em RV são distribuídos ou agrupados por classes ou especialidades por despacho do CEM do ramo respectivo.
 
-b) A alferes - o cumprimento da totalidade ou parte do SEN, ocorrendo a promoção no dia imediato ao seu termo para o respectivo turno de incorporação;
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-c) A segundo-furriel - a conclusão, com aproveitamento, da preparação militar geral, especificamente designada curso de formação de sargentos do SEN (CFS/SEN);
+###### Artigo 370.º — Postos
 
-d) A furriel - o cumprimento da totalidade ou parte do SEN, ocorrendo a promoção no dia imediato ao seu termo para o respectivo turno de incorporação;
-
-e) A soldado - a conclusão, com aproveitamento, da preparação militar geral, especificamente designada curso de formação de praças do SEN (CFP/SEN);
-
-f) A segundo-cabo - a conclusão, com aproveitamento, do respectivo curso de promoção;
-
-g) A primeiro-cabo - o cumprimento da totalidade ou parte do SEN e a aprovação no curso de promoção a cabo, ocorrendo a promoção no dia imediato ao termo do SEN para o respectivo turno de incorporação.
-
-###### Artigo 383.º — Verificação das condições especiais de promoção
-
-A verificação da satisfação das condições especiais de promoção dos militares em SEN compete aos órgãos de gestão de pessoal das unidades, estabelecimentos ou órgãos onde estejam colocados.
-
-###### Artigo 384.º — Organização dos processos de promoção
-
-1 - A organização dos processos de promoção dos militares em SEN compete aos órgãos de gestão de pessoal das unidades, estabelecimentos ou órgãos a que os militares pertencem.
-
-2 - Os processos de promoção são confidenciais, devendo ao interessado ser facultada a consulta do respectivo processo individual, desde que fundamentadamente o requeira.
-
-###### Artigo 385.º — Designação dos militares em SEN
-
-1 - Os militares em SEN são designados pelo posto, seguido, sob forma abreviada, do regime em que se encontram, especialidade, arma ou serviço, número de identificação e nome.
-
-2 - O recruta durante a preparação militar geral é designado como se refere:
-
-a) Soldado cadete, durante o CFO/SEN;
-
-b) Soldado instruendo, durante o CFS/SEN;
-
-c) Soldado recruta, durante o CFP/SEN.
-
-## TÍTULO IV — Da Força Aérea
-
-###### Artigo 386.º — Especialidades dos militares em SEN
-
-Os militares em SEN distribuem-se, do ponto de vista funcional e técnico, pelas especialidades estabelecidas por despacho do CEMFA.
-
-###### Artigo 387.º — Funções
-
-Ao militar em SEN incumbe, de uma maneira geral, o desempenho de funções nos comandos, forças e serviços, unidades e outros órgãos da Força Aérea, de acordo com o grau de qualificação obtido durante as fases de preparação militar, geral e complementar.
-
-###### Artigo 388.º — Apreciação das condições gerais de promoção
-
-A apreciação das avaliações relativas a militares em SEN, para efeitos de verificação da satisfação das condições gerais de promoção a que se refere o artigo 60.º, compete ao CPESFA e é efectuada com base nos processos individuais de promoção organizados pela Direcção de Pessoal (DP).
-
-###### Artigo 389.º — Condições especiais de promoção
-
-1 - São condições especiais de promoção do oficial em SEN:
-
-a) A aspirante a oficial - ter concluído, com aproveitamento, a preparação militar geral e a formação técnica específica da especialidade a que se destina;
-
-b) A alferes - ter prestado 12 meses de serviço efectivo após o termo de preparação militar geral e depois de concluído o tirocínio ou estágio inerente à respectiva especialidade.
-
-2 - São condições especiais de promoção do sargento em SEN:
-
-a) A segundo-furriel - ter concluído, com aproveitamento, a preparação militar geral e a formação técnica específica da especialidade a que se destina;
-
-b) A furriel - ter prestado 12 meses de serviço efectivo após o termo de preparação militar geral e depois de concluído o tirocínio ou estágio inerente à respectiva especialidade.
-
-3 - São condições especiais de promoção da praça em SEN:
-
-a) A soldado - ter concluído, com aproveitamento, a preparação militar geral;
-
-b) A segundo-cabo - ter concluído, com aproveitamento, o respectivo curso de promoção a cabo;
-
-c) A primeiro-cabo - ter prestado dois meses de serviço efectivo após a promoção a segundo-cabo ou, para a praça proveniente do recrutamento especial, ter concluído, com aproveitamento, a formação técnica específica da respectiva especialidade.
-
-###### Artigo 390.º — Graduação
-
-1 - O militar destinado a oficial é graduado no posto de aspirante a oficial após a conclusão, com aproveitamento, da preparação militar geral.
-
-2 - O militar destinado a sargento é graduado no posto de segundo-furriel após a conclusão, com aproveitamento, da preparação militar geral.
-
-3 - O militar do recrutamento especial é graduado no posto de primeiro-cabo após a conclusão, com aproveitamento, da preparação militar geral.
-
-###### Artigo 391.º — Organização dos processos de promoção
-
-1 - Compete à DP a organização dos processos de promoção, dos quais devem constar todos os elementos necessários para a verificação da satisfação das condições de promoção e para avaliação objectiva dos militares.
-
-2 - Os processos de promoção são confidenciais, devendo ao interessado ser facultada a consulta do respectivo processo individual, desde que fundamentadamente o requeira.
-
-###### Artigo 392.º — Preparação militar geral
-
-A preparação militar geral é assegurada, conforme a categoria a que os militares se destinam, pela frequência dos seguintes cursos:
-
-a) Curso de formação de oficiais do SEN (CFOSEN);
-
-b) Curso de formação de sargentos do SEN (CFSSEN);
-
-c) Curso de formação de praças do SEN (CFPSEN).
-
-###### Artigo 393.º — Preparação complementar
-
-A preparação complementar militar e formação técnica específica são asseguradas, conforme a categoria a que os militares se destinam, pela frequência dos seguintes cursos:
-
-a) Curso de formação técnica de oficiais do SEN (CFTOSEN);
-
-b) Curso de formação técnica de sargentos do SEN (CFTSSEN);
-
-c) Curso de formação técnica de praças do SEN (CFTPSEN).
-
-###### Artigo 394.º — Designação dos militares em SEN
-
-1 - Os militares em SEN são designados pelo posto, seguido da especialidade, regime em que se encontram, sob forma abreviada, número de identificação e nome.
-
-2 - Os militares em SEN, durante a frequência da preparação militar geral, são designados por:
-
-a) Soldados cadetes (SOLCAD), instruendos destinados a oficiais;
-
-b) Soldados alunos (SOLAL), instruendos destinados a sargentos ou instruendos do recrutamento especial destinados a praças;
-
-c) Soldados recrutas (SOLREC), instruendos provenientes do recrutamento geral destinados a praças.
-
-## LIVRO IV — Do regime de contrato
-
-## TÍTULO I
-
-## Parte comum
-
-###### Artigo 395.º — Deveres específicos
-
-O militar em RC deve dedicar-se devotadamente ao serviço e empenhar-se na sua valorização profissional.
-
-###### Artigo 396.º — Formação
-
-Ao militar em RC podem ser proporcionadas acções de formação adequadas à sua especialidade e à sua valorização profissional, tendo em vista os interesses específicos da instituição militar e a sua posterior inserção no mercado de trabalho.
-
-###### Artigo 397.º — Ingresso nos QP
-
-Ao militar em RC que revele vocação e aptidões para a carreira militar pode ser facultada a possibilidade de ingressar nos QP, nas condições que forem legalmente fixadas.
-
-###### Artigo 398.º — Direito de transporte e alojamento
-
-1 - Para o exercício das suas funções militares são atribuídos aos militares em RC transporte e alojamento condignos, de acordo com o posto e tendo em conta a permanente disponibilidade para o serviço.
-
-2 - O militar em RC, quando, deslocado da sua residência habitual por motivo de serviço, não disponha, na localidade onde vai prestar serviço, de alojamento para si e seu agregado familiar fornecido pelo Estado mediante o pagamento de uma contraprestação mensal, tem direito a um suplemento de residência, a fixar em decreto-lei.
-
-3 - O militar em RC tem direito ao abono por compensação das despesas feitas resultantes da sua deslocação e do seu agregado familiar e ao transporte de bagagem, qualquer que seja o meio de transporte utilizado, quando colocado por motivo de natureza não disciplinar, cujo montante será fixado em portaria conjunta dos Ministros da Defesa Nacional e das Finanças.
-
-###### Artigo 399.º — Remuneração
-
-O militar em RC tem, nos termos definidos em legislação própria, direito à remuneração adequada à especificidade do serviço que presta, ao posto e ao tempo de permanência neste.
-
-###### Artigo 400.º — Reforma extraordinária
-
-1 - Transita para a situação de reforma extraordinária o militar em RC que:
-
-a) Independentemente do tempo de serviço militar, seja julgado física ou psiquicamente incapaz para o serviço mediante parecer de competente junta médica, homologado pelo respectivo CEM nos casos em que a incapacidade for resultante de acidente ou doença adquirida ou agravada em serviço ou por motivo do mesmo;
-
-b) Seja abrangido por outras condições estabelecidas na lei.
-
-2 - O militar em RC na reforma extraordinária tem direito a uma pensão, calculada de acordo com o estabelecido no Estatuto de Aposentação.
-
-3 - Sempre que a pensão referida no número anterior seja inferior à remuneração da reserva do correspondente posto e escalão dos militares do QP no activo, será abonado ao militar em RC o diferencial verificado, a título de complemento de pensão.
-
-4 - As verbas eventualmente necessárias para fazer face ao abono previsto no número anterior serão anualmente inscritas no orçamento do Ministério da Defesa Nacional.
-
-###### Artigo 401.º — Assistência à família
-
-Aos membros do agregado familiar do militar em RC é, enquanto subsistir o vínculo contratual, garantido o direito à assistência médica, medicamentosa e hospitalar e apoio social, nos termos estabelecidos em legislação própria.
-
-###### Artigo 402.º — Identificação militar
-
-Ao militar em RC é conferido um cartão de identificação militar, de uso obrigatório, para comprovação da sua identidade para efeitos militares.
-
-###### Artigo 403.º — Postos
-
-Sem prejuízo de promoção por distinção ou graduação, o militar em RC só pode ingressar ou ascender nas seguintes categorias e postos:
+Sem prejuízo de promoção por distinção, o militar em RV só pode ingressar ou ascender nas seguintes categorias e postos:
 
 a) Oficiais:
 
-Primeiro-tenente ou capitão;
+Subtenente ou alferes;
+
+Aspirante a oficial (ASPOF);
+
+b) Sargentos:
+
+Subsargento ou furriel;
+
+Segundo-subsargento ou segundo-furriel;
+
+c) Praças:
+
+Segundo-marinheiro ou primeiro-cabo;
+
+Primeiro-grumete ou segundo-cabo;
+
+Segundo-grumete ou soldado.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+## TÍTULO II — Da Marinha
+
+###### Artigo 371.º — Postos de ingresso em RV
+
+1 - São os seguintes os postos de ingresso em RV:
+
+a) Aspirante a oficial, para os militares destinados à categoria de oficial;
+
+b) Segundo-subsargento ou segundo-furriel, para os militares destinados à categoria de sargento;
+
+c) Primeiro-grumete ou segundo-cabo, para os militares destinados à categoria de praça e habilitados com o curso de formação de grumetes (CFG/RV) ou curso de promoção a cabo, respectivamente;
+
+d) Segundo-grumete ou soldado, para os militares destinados à categoria de praça e habilitados com o CFB, na Marinha, ou CFP, no Exército e na Força Aérea.
+
+2 - São graduados em subtenente ou alferes os militares que tenham curso de licenciatura ou legalmente equivalente e se destinem à classe ou especialidade a que corresponda a sua formação académica.
+
+3 - Os postos ou designações dos militares em RV, durante a frequência de cursos de formação, são os fixados nos regulamentos escolares dos cursos que frequentem.
+
+4 - Os militares que ingressem no RV e que frequentem cursos de formação para o RC, cuja duração, de acordo com a respectiva organização escolar, exceda o limite máximo em RV, são considerados militares alunos, ficando com as adaptações decorrentes da sua condição de alunos, sujeitos ao regime geral de deveres e direitos dos militares desta forma de prestação de serviço.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 372.º — Inscrição no primeiro posto
+
+A inscrição no primeiro posto de cada uma das categorias é feita por ordem decrescente de classificação nos respectivos cursos de formação.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 373.º — Condições gerais de promoção
+
+1 - As condições gerais de promoção dos militares em RV são as constantes do artigo 60.º do presente Estatuto.
+
+2 - À apreciação das condições gerais de promoção, a que se refere o número anterior, são aplicáveis as normas estabelecidas neste Estatuto para os militares dos QP da mesma categoria do respectivo ramo.
+
+3 - Quando se verifique a existência de classes ou especialidades em RV sem correspondência nos QP, compete ao CEM do ramo definir a entidade responsável pela apreciação das condições gerais de promoção.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 374.º — Condições especiais de promoção
+
+1 - São necessários, para efeitos de promoção aos postos indicados, e no respeito pelos efectivos fixados nos termos do n.º 4 do artigo 45.º, os seguintes tempos mínimos de permanência nos postos antecedentes:
+
+a) Subtenente ou alferes - um ano no posto de aspirante a oficial, para os oficiais a que se referem as alíneas a) e b) do n.º 1 do artigo 371.º;
+
+b) Subsargento ou furriel - seis meses no posto de segundo-subsargento ou segundo-furriel, para os militares com formação que habilite a certificação de qualificação profissional de nível 3 e equivalência com o ensino secundário, que corresponda à classe ou especialidade a que se destina;
+
+c) Subsargento ou furriel - um ano no posto de segundo-subsargento ou segundo-furriel, para os militares destinados à categoria de sargento e não incluídos na alínea anterior.
+
+2 - É condição especial de promoção aos postos de segundo-marinheiro e primeiro-cabo ter prestado 12 meses de serviço efectivo, respectivamente, nos postos de primeiro-grumete e segundo-cabo.
+
+3 - Para os segundos-cabos da Força Aérea é requisito de promoção, cumulativamente com o tempo de serviço, ter obtido aproveitamento na formação técnica específica da especialidade.
+
+4 - É condição especial de promoção ao posto de segundo-cabo estar habilitado com o curso de promoção a cabo.
+
+5 - As condições especiais de promoção, satisfeitas, no todo ou em parte, durante a prestação do SEN, com excepção do tempo de permanência no posto, são consideradas para efeitos de promoção dos militares em RV.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 375.º — Organização dos processos de promoção
+
+1 - A organização dos processos de promoção, dos quais devem constar todos os elementos que forem julgados convenientes para uma completa apreciação dos militares, incumbe aos serviços de gestão de pessoal do respectivo ramo, através das subunidades orgânicas que os compõem.
+
+2 - Os processos de promoção são confidenciais.
+
+3 - O militar tem direito de acesso ao respectivo processo individual, no qual se inclui o processo de promoção.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 376.º — Antiguidade relativa
+
+A antiguidade relativa entre militares em RV com o mesmo posto ou com postos correspondentes nas diferentes classes e especialidades é determinada pelas datas de antiguidade nesse posto e, em caso de igualdade destas, pelas datas de antiguidade no posto anterior, e assim sucessivamente, até ao primeiro posto da respectiva categoria, em relação ao qual se atende ao estabelecido para o militar em SEN.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 377.º — Formação e orientação profissional
+
+1 - Ao militar em RV são proporcionadas acções de formação adequadas à sua classe, arma ou serviço e especialidade e à sua valorização profissional, através da frequência, designadamente, de cursos e estágios, tendo em vista os interesses específicos da instituição militar e a sua posterior inserção no mercado de trabalho.
+
+2 - A preparação complementar e formação técnica específica dos militares destinados ao RV, para as categorias indicadas, pode incluir a habilitação com os cursos seguintes, a frequentar durante ou após o SEN:
+
+a) Oficiais - curso de formação de oficiais para o regime de voluntariado (CFO/RV);
+
+b) Sargentos - curso de formação de sargentos para o regime de voluntariado (CFS/RV);
+
+c) Praças - curso de formação de praças para o regime de voluntariado (CFP/RV), ou curso de formação de grumetes (CFG/RV).
+
+3 - Ao militar em RV são ainda proporcionadas acções de informação e orientação profissional e apoio a obtenção de habilitações académicas, nos termos fixados em legislação especial.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 378.º — Avaliação
+
+O militar em RV deve ser objecto de avaliação para efeitos, nomeadamente, de:
+
+a) Prorrogação do RV;
+
+b) Promoção;
+
+c) Eventual ingresso no RC;
+
+d) Eventual acesso aos QP.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+## TÍTULO III — Do Exército
+
+###### Artigo 379.º — Retribuição monetária
+
+O militar em RV tem direito, nos termos definidos em legislação própria, a uma retribuição monetária adequada ao posto e à especificidade do serviço que presta.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 380.º — Alojamento, alimentação e fardamento
+
+1 - Para o exercício das suas funções militares é atribuído alojamento aos militares em RV de acordo com o posto e tendo em conta a permanente disponibilidade para o serviço.
+
+2 - O militar em RV tem direito à alimentação e ao fardamento por conta do Estado.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 381.º — Licença registada
+
+1 - Ao militar em RV pode ser concedida licença registada, quando o requeira, por tempo não superior a dois meses, seguidos ou interpolados, dependendo a sua concessão de não existir inconveniente para o serviço e devendo a prestação de serviço ser prolongada por igual período
+
+2 - A licença registada não pode ser imposta ao militar em RV.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 382.º — Licença de férias
+
+Ao militar em RV, após ter cumprido seis meses de serviço efectivo, pode ser concedida licença de férias por antecipação.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 383.º — Prorrogação
+
+1 - A prorrogação da prestação de serviço em RV ocorre após a conclusão do período inicial fixado nos termos do n.º 3 do artigo 365.º e só pode ter lugar se o militar desempenhar meritória e eficientemente as respectivas funções.
+
+2 - A prorrogação pode ser autorizada até ao período máximo em RV, em condições a fixar por despacho do CEM do respectivo ramo.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 384.º — Cessação
+
+1 - A prestação de serviço do militar em RV pode cessar verificada alguma das seguintes condições:
+
+a) A seu requerimento, desde que não haja inconveniente para o serviço;
+
+b) Por desistência ou não aproveitamento em curso por razões que lhe sejam imputáveis;
+
+c) Por falta de aptidão física ou psíquica, comprovada por competente junta médica, desde que não resulte de acidente em serviço ou doença adquirida por motivo do mesmo;
+
+d) Por comprovada falta de aptidão técnico-profissional para o desempenho das suas funções;
+
+e) Por aplicação das sanções previstas no CJM e no RDM ou carência de idoneidade para se manter na efectividade de serviço, após conclusão do respectivo processo.
+
+2 - O apuramento dos factos que levam à aplicação das alíneas d) e e) do n.º 1 será feito em processo próprio, do qual deve constar a matéria necessária à apreciação e decisão final, que compete ao CEM do ramo respectivo ou em quem este delegar.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 385.º — Caducidade
+
+A prestação de serviço em RV caduca:
+
+a) Findo o período inicial ou o que resulte de sua prorrogação;
+
+b) Com o ingresso do militar em RC.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+## TÍTULO IV — Da Força Aérea
+
+###### Artigo 386.º — Admissão nos quadros permanentes
+
+Ao militar em RV que revele vocação e aptidões adequadas para a carreira militar é ainda facultada a possibilidade de ingressar nos QP nas condições legalmente fixadas.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 387.º — Casos especiais
+
+1 - O militar em RV que à data da passagem à disponibilidade se encontre em tratamento ou com baixa hospitalar por doença em serviço ou acidente dele resultante beneficia de assistência médica, medicamentosa e hospitalar gratuita, a prestar pelos serviços de saúde militar, até à data em que estiver clinicamente curado.
+
+2 - Beneficia do mesmo tipo de apoio, salvo declaração expressa em contrário do próprio, o militar em RV que à data da passagem à disponibilidade se encontre em baixa hospitalar por doença ou acidente sem relação com o serviço e a alta hospitalar não possa ser concedida sem grave prejuízo do processo de recuperação clínica do acamado.
+
+3 - O militar nas situações previstas no número anterior continua em serviço em regime de voluntariado, no posto que detém, passando à disponibilidade na data da alta hospitalar ou à reserva territorial se for julgado incapaz para o serviço efectivo.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 388.º — Início e duração
+
+1 - O militar em RV, vinculado ao RC, inicia automaticamente a prestação de serviço efectivo neste regime após o cumprimento do período a que se encontrava obrigado naquela forma de prestação de serviço.
+
+2 - Para o início do RC não é exigida formação complementar aos militares que, após o cumprimento do RV, prolongam o serviço para frequentarem cursos de formação para ingresso nos QP.
+
+3 - O militar oriundo da situação de disponibilidade, desde que satisfeitas as condições de admissão ao RC, inicia a prestação de serviço efectivo neste regime no dia de regresso à efectividade de serviço.
+
+4 - A prestação de serviço em RC terá a duração mínima e máxima de acordo com o fixado na Lei do Serviço Militar.
+
+5 - Sempre que numa classe ou especialidade o período inicial da prestação de serviço efectivo em RC deva ter uma duração superior ao mínimo estabelecido na lei, essa duração será fixada em portaria do MDN, sob proposta do CEM do respectivo ramo.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 389.º — Candidatura
+
+1 - A candidatura ao RC formaliza-se em requerimento dirigido ao CEM respectivo.
+
+2 - Os prazos e procedimentos a observar na apresentação da candidatura para admissão ao serviço efectivo em RC, sua prorrogação e cessação são fixados por despacho do CEM respectivo.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 390.º — Condições de admissão
+
+1 - Constituem condições gerais de admissão ao RC:
+
+a) Ter bom comportamento militar;
+
+b) Reunir condições físicas e psíquicas para o desempenho das funções inerentes ao posto e classe, arma ou serviço e especialidade;
+
+c) Possuir habilitações literárias e técnico-profissionais necessárias à categoria a que se destina;
+
+d) Ter avaliações favoráveis relativamente ao período da prestação do RV.
+
+2 - As condições especiais de admissão são estabelecidas por portaria do MDN, sob proposta do CEM respectivo, em função das categorias e classes, armas ou serviços e especialidades.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 391.º — Designação e identificação dos militares
+
+1 - Os militares em RC são designados pelo posto, classe, arma ou serviço e especialidade, em função do respectivo ramo, regime em que se encontram, sob forma abreviada, número de identificação e nome.
+
+2 - Exceptuam-se do mencionado no n.º 1 os militares alunos cujas designações constam nos regulamentos escolares dos cursos que frequentam.
+
+3 - Ao militar em RC é conferido um cartão de identificação militar, de uso obrigatório, para comprovação da sua identidade para efeitos militares.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 392.º — Funções
+
+1 - Os militares em RC exercem funções de acordo com o seu posto, classe, arma ou serviço, especialidade e qualificações.
+
+2 - Compete ao CEM do ramo fixar, por despacho, as funções específicas dos militares em RC.
+
+3 - De acordo com o disposto nos números anteriores, os militares em RC são distribuídos ou agrupados por classes ou especialidades por despacho do CEM do ramo respectivo.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 393.º — Postos
+
+1 - Sem prejuízo de promoção por distinção, o militar só pode ingressar ou ascender no RC nas seguintes categorias e postos:
+
+a) Oficiais:
 
 Segundo-tenente ou tenente;
 
@@ -5560,111 +6251,101 @@ c) Praças:
 
 Primeiro-marinheiro ou cabo-adjunto (CADJ);
 
-Segundo-marinheiro ou primeiro-cabo.
+Segundo-marinheiro ou primeiro-cabo;
 
-###### Artigo 404.º — Antiguidade relativa
+Primeiro-grumete ou segundo-cabo;
 
-Ao militar em RC aplicam-se as disposições sobre antiguidade relativa estabelecidas para os militares em SEN.
+Segundo-grumete ou soldado.
 
-###### Artigo 405.º — Funções
+2 - Os postos ou designações dos militares em RC, durante a frequência de cursos de formação, são os fixados nos regulamentos escolares dos cursos que frequentem.
 
-O militar em RC exerce funções de acordo com o seu posto, especialidade e qualificações.
+3 - Os militares que ingressem no RC e que frequentem cursos de formação para o RC, cuja duração, de acordo com a respectiva organização escolar, exceda o limite máximo em RV, são considerados militares alunos, ficando, com as adaptações decorrentes da sua condição de alunos, sujeitos ao regime geral de deveres e direitos dos militares desta forma de prestação de serviço.
 
-###### Artigo 406.º — Condições de admissão
+4 - O militar ao abrigo do n.º 1 do artigo 387.º ingressa no RC com o posto que detinha em RV.
 
-1 - Constituem condições gerais de admissão ao RC:
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-a) Ter bom comportamento;
+###### Artigo 394.º — Inscrição no primeiro posto
 
-b) Reunir condições físicas e psíquicas para o desempenho das funções inerentes ao posto e classe ou especialidade;
+A inscrição no primeiro posto de cada uma das categorias é feita por ordem decrescente de classificação nos respectivos cursos de formação.
 
-c) Possuir as habilitações literárias, técnicas e profissionais necessárias à categoria a que se destina;
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-d) Ter informações favoráveis relativamente ao período da prestação do SEN.
+## LIVRO IV — Do regime de contrato
 
-2 - As condições especiais de admissão são estabelecidas por portaria do MDN, sob proposta do CEM respectivo, em função das categorias e classes ou especialidades.
+## TÍTULO I
 
-3 - A candidatura ao RC formaliza-se em requerimento, dirigido ao CEM respectivo.
+## Parte comum
 
-###### Artigo 407.º — Início do regime de contrato
+###### Artigo 395.º — Condições de promoção
 
-1 - O militar oriundo do recrutamento especial destinado ao RC inicia automaticamente a prestação do serviço efectivo neste regime após o período de tempo correspondente ao SEN.
+1 - As condições gerais de promoção dos militares em RC são as constantes do artigo 60.º do presente Estatuto.
 
-2 - O militar oriundo do recrutamento geral, desde que satisfeitas as condições de admissão ao RC, inicia a prestação do serviço efectivo neste regime no dia imediato ao termo do SEN ou, estando na reserva de disponibilidade e licenciamento, no dia de regresso à efectividade de serviço.
+2 - À apreciação das condições gerais de promoção a que se refere o número anterior são aplicáveis as normas estabelecidas neste Estatuto para os militares dos QP da mesma categoria do respectivo ramo.
 
-###### Artigo 408.º — Duração
+3 - Quando se verifique a existência de classes ou especialidades em RC sem correspondência nos QP, compete ao CEM do ramo definir a entidade responsável pela apreciação das condições gerais de promoção.
 
-1 - A prestação de serviço em RC terá a duração inicial fixada em portaria do MDN, sob proposta do CEM do respectivo ramo.
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-2 - O militar não pode manter-se em RC para além da data em que completa 30 anos de idade, salvo se estiver a frequentar o curso de formação para ingresso nos QP.
+###### Artigo 396.º — Condições especiais de promoção
 
-3 - Sem prejuízo do disposto no número anterior, o Ministro da Defesa Nacional, sob proposta do CCEM, pode, a título excepcional, autorizar a manutenção dos militares em RC até completarem 34 anos de idade.
+1 - São necessários, para efeitos de promoção aos postos indicados e no respeito pelos efectivos fixados nos termos do n.º 4 do artigo 45.º, os seguintes tempos mínimos de permanência no posto antecedente:
 
-###### Artigo 409.º — Prorrogação
+a) Segundo-tenente ou tenente - três anos no posto de subtenente ou alferes;
 
-(Revogado.)
+b) Primeiro-sargento - quatro anos no posto de segundo-sargento;
 
-> Revogado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958) e [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443) e [Lei n.º 15/92](https://diariodarepublica.pt/dr/detalhe/lei/15-1992-274443) e [Decreto-Lei n.º 175/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1997-149645), publicado em 1997-07-22.
+c) Segundo-sargento - um ano no posto de subsargento ou furriel, para os militares a que se refere a alínea b) do n.º 1 do artigo 374.º;
 
-###### Artigo 410.º — Cessação
+d) Segundo-sargento - três anos no posto de subsargento ou furriel, para os restantes.
 
-1 - A prestação de serviço do militar em RC pode cessar a todo o tempo, verificada alguma das seguintes situações:
+2 - Na promoção a segundo-tenente ou tenente conta, para efeitos de tempo de permanência no posto, o tempo em que o militar permaneceu como graduado no posto antecedente.
 
-a) Seja objecto de sanções previstas no CJM e no RDM ou considerado sem condições idóneas para se manter na efectividade de serviço;
+3 - Os militares que durante o RV e RC frequentem CFS que habilitem a certificação profissional de nível 3 e equivalência ao ensino secundário são promovidos a segundo-sargento, com a data de 1 de Outubro do ano em que terminem o CFS.
 
-b) A seu requerimento, por motivos justificados, desde que não haja inconveniente para o serviço;
+4 - É condição especial de promoção aos postos de primeiro-marinheiro a habilitação com o curso de formação de marinheiros, a frequentar no início do RC.
 
-c) Por desistência ou não aproveitamento em curso por razões que lhe sejam imputáveis;
+5 - É condição especial de promoção ao posto de cabo-adjunto ter prestado quatro anos de serviço efectivo no posto de primeiro-cabo.
 
-d) Por falta de aptidão física ou psíquica, comprovada por competente junta médica, desde que não resultante de acidente em serviço ou doença adquirida por motivo do mesmo;
+6 - É condição especial de promoção aos postos de segundo-marinheiro e primeiro-cabo ter prestado 12 meses de serviço efectivo, respectivamente, nos postos de primeiro-grumete e segundo-cabo.
 
-e) Por comprovada falta de aptidão técnico-profissional para o desempenho das suas funções.
+7 - As condições especiais de promoção, satisfeitas, no todo ou em parte, durante a prestação do SEN e RV, são consideradas para efeitos de promoção dos militares em RC.
 
-2 - O apuramento dos factos que levam à aplicação das alíneas a) e e) será feito em processo próprio, do qual deve constar a matéria necessária à apreciação e decisão final, que compete ao CEM do ramo respectivo ou em quem este delegar.
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-###### Artigo 411.º — Caducidade
+###### Artigo 397.º — Organização dos processos de promoção
 
-A prestação de serviço em RC caduca:
+1 - A organização dos processos de promoção, dos quais devem constar todos os elementos que forem julgados convenientes para uma completa apreciação dos militares, incumbe aos serviços de gestão de pessoal do respectivo ramo, através das subunidades orgânicas que os compõem.
 
-a) Findo o prazo de duração previamente estabelecido;
+2 - Os processos de promoção são confidenciais.
 
-b) Com o ingresso do militar nos QP;
+3 - O militar tem direito de acesso ao respectivo processo individual, no qual se inclui o processo de promoção.
 
-c) Quando atinja o limite de idade fixado no artigo 408.º
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-###### Artigo 412.º — Prazos e procedimentos
+###### Artigo 398.º — Antiguidade relativa
 
-Os prazos e procedimentos a observar na apresentação da candidatura para admissão ao serviço efectivo em RC, sua prorrogação e cessação são fixados por despacho do CEM respectivo.
+A antiguidade relativa entre militares em RC com o mesmo posto ou com postos correspondentes nas diferentes classes, armas ou serviços e especialidades é determinada pelas datas de antiguidade nesse posto e, em caso de igualdade destas, pelas datas de antiguidade no posto anterior, e assim sucessivamente, até ao primeiro posto da respectiva categoria, em relação ao qual se atende ao estabelecido para o militar em RV.
 
-###### Artigo 413.º — Modalidades de promoção
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-Aos militares em RC não se aplicam as modalidades de promoção por antiguidade e escolha.
+###### Artigo 399.º — Formação e orientação profissional
 
-###### Artigo 414.º — Condições especiais de promoção
+1 - Ao militar em RC são proporcionadas acções de formação adequadas à sua classe, arma ou serviço e especialidade, através da frequência, designadamente, de cursos e estágios e à sua valorizaão profissional, tendo em vista os interesses específicos da instituição militar e a sua posterior inserção no mercado de trabalho.
 
-1 - São considerados, para efeitos de promoção ao posto imediato dos oficiais e sargentos em RC, os seguintes tempos de permanência:
+2 - A preparação complementar e formação técnica específica dos militares destinados ao RC, para as categorias indicadas, pode incluir a habilitação com os cursos seguintes, a frequentar durante ou após o SEN ou RV:
 
-a) Três anos de serviço efectivo no posto de subtenente ou alferes;
+a) Oficiais - curso de formação de oficiais para o regime de contrato (CFO/RC);
 
-b) Sete anos de serviço efectivo no posto de segundo-tenente ou tenente;
+b) Sargentos - curso de formação de sargentos para o regime de contrato (CFS/RC);
 
-c) Três anos de serviço efectivo no posto de subsargento ou furriel;
+c) Praças - curso de formação de praças para o regime de contrato (CFP/RC), sendo, na Marinha, designado por curso de formação de marinheiros (CFM).
 
-d) Sete anos de serviço efectivo no posto de segundo-sargento.
+3 - Ao militar em RC são ainda proporcionadas acções de informação e orientação profissional e apoio à obtenção de habilitações académicas, nos termos fixados em legislação especial.
 
-2 - As condições especiais de promoção das praças em RC são estabelecidas na parte específica de cada ramo.
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-3 - As condições especiais de promoção, satisfeitas, no todo ou em parte, durante a prestação do SEN, são consideradas para efeitos de promoção dos militares em RC.
-
-###### Artigo 415.º — Graduações
-
-O militar em RC que frequente curso de formação para ingresso nos QP pode ser graduado nos postos e nas condições previstos no respectivo regulamento escolar.
-
-###### Artigo 416.º — Cursos e estágios
-
-A preparação do militar em RC pode ser complementada pela frequência de cursos e estágios, tendo em vista o desempenho das respectivas funções.
-
-###### Artigo 417.º — Avaliação
+###### Artigo 400.º — Avaliação
 
 O militar em RC deve ser objecto de avaliação para efeitos, nomeadamente, de:
 
@@ -5672,129 +6353,281 @@ a) Prorrogação do RC;
 
 b) Promoção;
 
-c) Frequência de curso de formação para ingresso nos QP.
+c) Eventual acesso aos QP.
 
-###### Artigo 418.º — Licença registada
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-1 - Ao militar em RC pode ser concedida licenca registada, quando o requeira, por tempo não superior a três meses, seguidos ou interpolados, por cada período de três anos, dependendo a sua concessão de não existir inconveniente para o serviço e devendo a prestação de serviço ser prolongada por igual período.
+###### Artigo 401.º — Remuneração
+
+O militar em RC tem direito, nos termos definidos em legislação própria, à remuneração adequada à especificidade do serviço que presta, ao posto e ao tempo de permanência neste.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 402.º — Assistência à família
+
+Aos membros do agregado familiar do militar em RC é, enquanto subsistir o vínculo contratual, garantido o direito à assistência médica, medicamentosa e hospitalar e apoio social, nos termos estabelecidos em legislação própria.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 403.º — Licença registada
+
+1 - Ao militar em RC pode ser concedida licença registada, quando o requeira, por tempo não superior a três meses, seguidos ou interpolados, por cada período de três anos, dependendo a sua concessão de não existir inconveniente para o serviço e devendo a prestação de serviço ser prolongada por igual período.
 
 2 - A licença registada não pode ser imposta ao militar em RC.
 
-###### Artigo 419.º — Caso especial
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-É considerado em RC o militar abrangido pelo disposto no n.º 3 do artigo 366.º
+###### Artigo 404.º — Prorrogação
+
+1 - A prorrogação da prestação de serviço em RC é anual e só pode ter lugar se o militar desempenhar meritória e eficientemente as respectivas funções.
+
+2 - Em caso de acidente em serviço ou doença relacionada com o mesmo, ao militar em RC é facultada a prorrogação automática da prestação de serviço até à decisão definitiva da competente junta médica.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 405.º — Cessação
+
+1 - A prestação do serviço militar em RC pode cessar nas seguintes condições:
+
+a) A seu requerimento, desde que não haja inconveniente para o serviço;
+
+b) Por desistência ou não aproveitamento em curso por razões que lhe sejam imputáveis;
+
+c) Por falta de aptidão física ou psíquica, comprovada por competente junta médica, desde que não resultante de acidente em serviço ou doença adquirida por motivo do mesmo;
+
+d) Por comprovada falta de aptidão técnico-profissional para o desempenho das suas funções;
+
+e) Por aplicação das sanções previstas no CJM e no RDM ou carência de idoneidade para se manter na efectividade de serviço, após conclusão do respectivo processo.
+
+2 - O apuramento dos factos que levam à aplicação das alíneas a) e e) do n.º 1 será feito em processo próprio, do qual deve constar a matéria necessária à apreciação e decisão final, que compete ao CEM do ramo respectivo ou em quem este delegar.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 406.º — Caducidade
+
+A prestação de serviço em RC caduca:
+
+a) No termo do prazo estabelecido no contrato;
+
+b) Quando atinja a duração máxima fixada na Lei do Serviço Militar;
+
+c) Com o ingresso nos QP.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 407.º — Admissão nos quadros permanentes
+
+Ao militar em RC que revele vocação e aptidões adequadas à carreira militar é ainda facultada a possibilidade de ingressar nos QP nas condições legalmente fixadas.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 408.º — Casos especiais
+
+1 - O militar em RC que à data da passagem à disponibilidade se encontre em tratamento ou com baixa hospitalar por doença em serviço ou acidente dele resultante beneficia de assistência médica, medicamentosa e hospitalar gratuita, a prestar pelos serviços de saúde militar, até à data em que estiver clinicamente curado.
+
+2 - Beneficia do mesmo tipo de apoio, salvo declaração expressa em contrário do próprio, o militar em RC que à data da passagem à disponibilidade se encontre com baixa hospitalar por doença ou acidente sem relação com o serviço e a alta hospitalar não possa ser concedida sem grave prejuízo do processo de recuperação clínica do acamado.
+
+3 - O militar na situação prevista no número anterior continua em serviço em regime de contrato, no posto que detém, passando à disponibilidade na data da alta hospitalar ou à reserva territorial se for julgado incapaz para o serviço efectivo.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 409.º — Cessação
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 410.º — Caducidade
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 411.º — Prazos e procedimentos
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 412.º — Modalidades de promoção
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 413.º — Condições especiais de promoção
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 414.º — Graduações
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 415.º — Cursos e estágios
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 416.º — Avaliação
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 417.º — Licença registada
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 418.º — Caso especial
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 419.º — Classes
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
 ## TÍTULO II — Da Marinha
 
-###### Artigo 420.º — Classes
+###### Artigo 420.º — Funções
 
-1 - Do ponto de vista funcional e técnico, os militares em RC agrupam-se em classes, subclasses e ramos, à semelhança do que estiver estabelecido para os militares dos QP ou em SEN.
+(Revogado.)
 
-2 - Por despacho do CEMA são estabelecidas as classes, subclasses e ramos em que se processa a admissão de militares para a prestação de serviço efectivo em RC.
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-###### Artigo 421.º — Funções
+###### Artigo 421.º — Apreciação das condições gerais de promoção
 
-Aos militares em RC incumbem, genericamente, as funções dos militares em SEN ou dos QP da mesma categoria, posto e classe.
+(Revogado.)
 
-###### Artigo 422.º — Apreciação das condições gerais de promoção
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-Para a apreciação das avaliações relativas aos militares em RC, para efeitos de verificação da satisfação das condições gerais de promoção, são aplicáveis as normas estabelecidas neste Estatuto para os militares dos QP da Armada da mesma categoria.
+###### Artigo 422.º — Condições especiais de promoção
 
-###### Artigo 423.º — Condições especiais de promoção
+(Revogado.)
 
-1 - As condições especiais de promoção dos oficiais são as fixadas no artigo 414.º
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-2 - As praças oriundas do recrutamento especial e destinadas ao RC são promovidas a primeiro-marinheiro no início do mesmo.
+###### Artigo 423.º — Organização dos processos de promoção
 
-3 - As praças em RC oriundas do recrutamento geral ingressam no RC com o posto de segundo-marinheiro e são promovidas a primeiro-marinheiro após terem completado, com aproveitamento, a preparação complementar militar e a formação técnica específica.
+(Revogado.)
 
-###### Artigo 424.º — Organização dos processos de promoção
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-1 - A organização dos processos de promoção, dos quais devem constar todos os elementos que forem julgados convenientes para um completa apreciação dos militares, incumbe à Direcção do Serviço do Pessoal, através das repartições competentes.
+###### Artigo 424.º — Formação militar
 
-2 - Os processos de promoção são confidenciais, devendo ao interessado ser facultada a consulta do respectivo processo individual, desde que fundamentadamente o requeira.
+(Revogado.)
 
-###### Artigo 425.º — Formação militar
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-1 - A preparação complementar militar e formação técnica específica dos oficiais consiste na habilitação com o curso complementar de especialização, a realizar durante a prestação do SEN, para os que se destinam a suprir necessidades não satisfeitas por oficiais dos QP.
+###### Artigo 425.º — Designação dos militares em RC
 
-2 - A preparação complementar militar e formação técnica específica das praças consiste na habilitação com o curso de formação técnica complementar, sendo frequentado durante o SEN, no caso das praças provenientes do recrutamento especial, e durante ou após o SEN, para as praças provenientes do recrutamento geral.
+(Revogado.)
 
-3 - Ao militar que, após o cumprimento do SEN, prolonga o serviço efectivo para frequentar curso de formação para ingresso nos QP ou para suprir necessidades não satisfeitas por pessoal em SEN não é exigida a frequência de curso complementar.
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-###### Artigo 426.º — Designação dos militares em RC
+###### Artigo 426.º — Armas e serviços
 
-Os militares prestando serviço efectivo em regime de contrato são designados pelo número de identificação, posto, classe seguido da indicação RC e nome.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
 ## TÍTULO III — Do Exército
 
-###### Artigo 427.º — Armas e serviços
+###### Artigo 427.º — Funções
 
-Os militares em RC distribuem-se por postos e especialidades das armas e serviços do Exército, definidos por despacho do CEME.
+(Revogado.)
 
-###### Artigo 428.º — Funções
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-Aos militares em RC incumbem funções de acordo com o posto e especialidade, previstos nos regulamentos e quadros orgânicos das unidades, estabelecimentos e órgãos do Exército, prioritariamente no âmbito da instrução e treino.
+###### Artigo 428.º — Apreciação das condições gerais de promoção
 
-###### Artigo 429.º — Apreciação das condições gerais de promoção
+(Revogado.)
 
-1 - Ao director do Serviço de Pessoal compete a apreciação das condições gerais de promoção a que se refere o artigo 60.º
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-2 - A apreciação das condições gerais de promoção do militar em RC é feita com base nos documentos que constituem o processo de promoção e outros constantes do seu processo individual ou que nele venham a ser integrados após decisão superior.
+###### Artigo 429.º — Condições especiais de promoção
 
-###### Artigo 430.º — Condições especiais de promoção
+(Revogado.)
 
-1 - Para além das condições especiais de promoção dos oficiais e sargentos fixadas no artigo 414.º deste Estatuto, é condição especial de promoção ao posto de capitão a frequência, com aproveitamento, do curso de promoção a capitão (CPC) adequado.
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-2 - É condição especial de promoção ao posto de cabo-adjunto ter prestado quatro anos de serviço efectivo no posto de primeiro-cabo.
+###### Artigo 430.º — Organização dos processos de promoção
 
-###### Artigo 431.º — Organização dos processos de promoção
+(Revogado.)
 
-1 - A organização dos processos de promoção dos militares em RC compete aos órgãos de gestão de pessoal das unidades, estabelecimentos ou órgãos a que os militares pertencem.
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-2 - Os processos de promoção são confidenciais, devendo ao interessado ser facultada a consulta do respectivo processo individual, desde que fundamentadamente o requeira.
+###### Artigo 431.º — Formação militar
 
-###### Artigo 432.º — Formação militar
+(Revogado.)
 
-A preparação militar e técnica dos militares do recrutamento especial destinados à prestação de serviço efectivo em RC realiza-se através de uma preparação complementar própria da respectiva categoria e especialidade, após completamento da preparação militar geral.
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-###### Artigo 433.º — Designação dos militares em RC
+###### Artigo 432.º — Designação dos militares em RC
 
-Os militares em RC são designados pelo posto, seguido, sob forma abreviada, do regime em que se encontram, especialidade, arma ou serviço, número de identificação e nome.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 433.º — Especialidades dos militares em RC
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
 ## TÍTULO IV — Da Força Aérea
 
-###### Artigo 434.º — Especialidades dos militares em RC
+###### Artigo 434.º — Funções
 
-Os militares em RC distribuem-se, do ponto de vista funcional e técnico, pelas especialidades definidas por despacho do CEMFA.
+(Revogado.)
 
-###### Artigo 435.º — Funções
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-Aos militares em RC incumbem as funções gerais estabelecidas para os militares em SEN ou dos QP da mesma categoria, posto e especialidade.
+###### Artigo 435.º — Apreciação das condições gerais de promoção
 
-###### Artigo 436.º — Apreciação das condições gerais de promoção
+(Revogado.)
 
-A apreciação das avaliações relativas a militares em RC, para efeitos de verificação da satisfação das condições gerais de promoção a que se refere ao artigo 60.º, compete ao CPESFA e é efectuada com base nos processos individuais de promoção organizados pela DP.
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-###### Artigo 437.º — Condições especiais de promoção
+###### Artigo 436.º — Condições especiais de promoção
 
-1 - As condições especiais de promoção dos oficiais e sargentos em RC são as fixadas no artigo 414.º
+(Revogado.)
 
-2 - É condição especial de promoção ao posto de cabo-adjunto ter prestado quatro anos de serviço efectivo no posto de primeiro-cabo.
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-###### Artigo 438.º — Organização dos processos de promoção
+###### Artigo 437.º — Organização dos processos de promoção
 
-1 - Compete à DP a organização dos processos de promoção, dos quais devem constar todos os elementos necessários para a verificação das condições de promoção e para a avaliação objectiva dos militares.
+(Revogado.)
 
-2 - Os processos de promoção são confidenciais, devendo ao interessado ser facultada a consulta do respectivo processo individual, desde que fundamentadamente o requeira.
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-###### Artigo 439.º — Formação militar
+###### Artigo 438.º — Formação militar
 
-A preparação militar e técnica dos militares do recrutamento especial destinados à prestação de serviço efectivo em RC realiza-se através de uma formação complementar própria da respectiva categoria e especialidade, após o completamento da preparação militar geral.
+(Revogado.)
 
-###### Artigo 440.º — Designação dos militares em RC
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-Os militares em RC são designados pelo posto, seguido da especialidade, regime em que se encontram, sob a forma abreviada, número de identificação e nome.
+###### Artigo 439.º — Designação dos militares em RC
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
+
+###### Artigo 440.º — Suspensão do artigo 166.º
+
+A aplicação do artigo 166.º do Estatuto dos Militares das Forças Armadas, aprovado pelo artigo 1.º do Decreto-Lei n.º 34-A/90, de 24 de Janeiro, fica suspensa até à publicação da nova legislação relativa ao Código de Justiça Militar e Regulamento de Disciplina Militar.
+
+> Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
 O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo.
 

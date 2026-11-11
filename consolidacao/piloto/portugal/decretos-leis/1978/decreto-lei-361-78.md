@@ -7,27 +7,21 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:678396:por
-    title: Portaria n.º 123/80
-    publication_date: '1980-03-17'
-  - id: pt:dre:472102:por
-    title: Portaria n.º 443/80
-    publication_date: '1980-07-26'
-  - id: pt:dre:609829:por
-    title: Decreto-Lei n.º 188/89
-    publication_date: '1989-06-03'
-  - id: pt:dre:554142:por
-    title: Decreto-Lei n.º 403/93
-    publication_date: '1993-12-07'
-  - id: pt:dre:361882:por
-    title: Decreto-Lei n.º 143/97
-    publication_date: '1997-06-06'
   - id: pt:dre:223012:por
     title: Decreto-Lei n.º 331/98
     publication_date: '1998-11-03'
+  - id: pt:dre:361882:por
+    title: Decreto-Lei n.º 143/97
+    publication_date: '1997-06-06'
+  - id: pt:dre:554142:por
+    title: Decreto-Lei n.º 403/93
+    publication_date: '1993-12-07'
   - id: pt:dre:469069:por
     title: Decreto-Lei n.º 229/2005
     publication_date: '2005-12-29'
+  - id: pt:dre:609829:por
+    title: Decreto-Lei n.º 188/89
+    publication_date: '1989-06-03'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -58,85 +52,63 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 1.º — Conceito
+###### Artigo 1.º — (Conceito)
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 2.º — (Regime jurídico)
 
-O INPP rege-se pelo presente diploma e pelos regulamentos que o completam, designadamente, o estatuto do pessoal, o regulamento disciplinar e o regulamento de prestação de serviços e taxas, os quais são publicados em anexo a este diploma, dele fazendo parte integrante.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 3.º — (Objectivos)
 
-1 - O INPP tem por objectivo assegurar a eficiência do serviço público de pilotagem nas barras, portos, rios, terminais ou bóias de amarração, na orla marítima sob jurisdição nacional, considerados lugares susceptíveis de realização de opções comerciais.
+(Revogado.)
 
-2 - Além dos serviços referidos no número anterior, poderá o INPP exercer quaisquer outras actividades complementares ou subsidiárias que a índole do serviço imponha ou a experiência e o progresso técnico aconselhem.
-
-3 - O INPP deverá ainda colaborar com as entidades ligadas à exploração, segurança e defesa dos portos.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 4.º — (Atribuições)
 
-São atribuições do INPP:
+(Revogado.)
 
-a) A instalação, manutenção e desenvolvimento dos departamentos de pilotagem nos diferentes portos do País;
-
-b) A coordenação no âmbito nacional de tudo quanto respeite à execução de tratados, convenções e acordos internacionais relacionados com o objectivo fundamental do INPP, bem como a representação do Estado Português nos correspondentes organismos internacionais, quando de outro modo não for determinado.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 5.º — (Natureza, âmbito e regime de serviço)
 
-1 - O INPP explora em regime de exclusivo o serviço público de pilotagem marítima e fluvial.
+(Revogado.)
 
-2 - A pilotagem é obrigatória para todas as embarcações nacionais e estrangeiras nos portos em que existam departamentos de pilotagem e abrange os serviços prestados à navegação nos termos consignados no Regulamento de Prestação de Serviços e Taxas, anexo a este diploma.
-
-3 - Pelos serviços a que se referem os números anteriores o INPP cobrará dos navios ou entidades as taxas estipuladas nas tabelas anexas ao Regulamento de Prestação de Serviços e Taxas, anexo a este diploma.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 6.º — (Competência)
 
-No âmbito das atribuições referidas no artigo 4.º, compete ao INPP:
+(Revogado.)
 
-a) Elaborar e propor para homologação pelo Governo regulamentação e medidas relativas aos serviços de pilotagem;
-
-b) Propor ou apreciar as iniciativas legislativas e regulamentares relativas aos serviços de pilotagem, em colaboração com todas as entidades interessadas;
-
-c) Dar parecer sobre estudos, experiências ou realizações de carácter técnico da iniciativa de outros organismos que por algum modo possam interferir nos serviços de pilotagem;
-
-d) Planear e instalar os departamentos de pilotagem nos locais julgados convenientes e assegurar o seu funcionamento;
-
-e) Executar estudos nos domínios da pilotagem, por forma a dar satisfação às necessidades nacionais e aos compromissos internacionais e contribuir para o desenvolvimento técnico naqueles domínios;
-
-f) Recrutar o seu pessoal e promover a sua instrução;
-
-g) Assegurar a unidade de orientação e de métodos de trabalho nos domínios da pilotagem, no território nacional, elaborando instruções, fixando terminologia e estabelecendo normas;
-
-h) Promover a realização de reuniões em que participem utilizadores e ou representantes de outros serviços públicos com vista a aumentar a eficiência do serviço;
-
-i) Assegurar a representação oficial do sector de pilotagem em todos os organismos nacionais e internacionais ou iniciativas em que sejam tratados assuntos da especialidade;
-
-j) Desempenhar todas as tarefas que resultem deste diploma e da demais legislação em vigor ou das funções que, cumulativamente, lhe forem atribuídas.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 7.º — (Uso público dos serviços)
 
-1 - A todos é lícito utilizar os serviços de pilotagem, desde que sejam observadas as disposições legais e regulamentares aplicáveis.
+(Revogado.)
 
-2 - A lei poderá definir prioridades de uso dos serviços de pilotagem e estabelecer preferências e benefícios em favor de entidades que prossigam interesses públicos dignos de protecção especial.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 8.º — (Relações com outros serviços ou entidades)
 
-1 - Para o bom desempenho das atribuições que lhe são cometidas pelo presente diploma, o INPP articulará a sua acção com outros serviços ou entidades, quer nacionais ou estrangeiras, públicas ou privadas, civis ou militares, que de qualquer modo se ocupem ou interessem por assuntos relacionados com a navegação e segurança dos portos.
+(Revogado.)
 
-2 - Sempre que se mostre necessário, poderá o INPP contactar com os referidos serviços ou entidades com o objectivo de adquirir e permutar conhecimentos e experiências sobre todos os assuntos da sua especialidade.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ### CAPÍTULO II — Orgânica
 
 ##### DIVISÃO I — Disposições comuns
 
-###### Artigo 9.º — Estrutura geral do INPP
+###### Artigo 9.º — (Estrutura geral do INPP)
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO II — Órgãos
 
@@ -144,151 +116,65 @@ j) Desempenhar todas as tarefas que resultem deste diploma e da demais legislaç
 
 ###### Artigo 10.º — (Conceito)
 
-O conselho de gestão é um órgão de gestão do INPP, com a competência definida no artigo 12.º
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 11.º — (Constituição)
 
-1 - O conselho de gestão é nomeado pelo Ministro dos Transportes e Comunicações e é constituído pelos seguintes elementos:
+(Revogado.)
 
-a) Um presidente;
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
-b) Quatro vogais, escolhidos de entre os pilotos, sendo dois do departamento de Lisboa, um do departamento do Douro e Leixões e um do departamento de Setúbal, ouvido o pessoal dos respectivos departamentos.
-
-2 - A representação dos diversos departamentos no conselho de gestão, nos termos referidos na alínea b) do número anterior, poderá ser alterada por portaria do Secretário de Estado da Marinha Mercante.
-
-3 - Os membros do conselho de gestão exercerão o mandato durante três anos renováveis e isentos de caução, podendo ser exonerados a qualquer tempo.
-
-4 - O exercício das funções de vogal do conselho de gestão é inacumulável com o desempenho de qualquer outro cargo directivo dentro do INPP.
-
-###### Artigo 12.º — Competência
+###### Artigo 12.º — (Competência)
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
-###### Artigo 13.º — (Delegação de competência)
+###### Artigo 13.º — Competência do presidente
 
-1 - Para além das atribuições referidas no artigo anterior, o Secretário de Estado da Marinha Mercante poderá delegar no conselho de gestão outras funções que a lei lhe permita delegar nos directores-gerais.
+(Revogado.)
 
-2 - O conselho de gestão poderá delegar, no todo ou em parte, em qualquer dos membros os poderes que lhe são conferidos no artigo 12.º
-
-3 - O presidente do conselho de gestão poderá estabelecer, sempre que o julgue necessário, os limites e termos do exercício dos poderes delegados referidos no número anterior.
-
-4 - O conselho de gestão poderá delegar nas comissões administrativas dos departamentos de pilotagem, a título provisório, no todo ou em parte, a sua competência específica em relação ao respectivo departamento, quando assim o entender e tal se justificar para melhor funcionamento dos serviços.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 14.º — (Funcionamento)
 
-1 - O conselho de gestão reunirá:
+(Revogado.)
 
-a) Ordinariamente, duas vezes por mês;
-
-b) Extraordinariamente, sempre que convocado pelo presidente por sua iniciativa ou a pedido de qualquer dos vogais.
-
-2 - O conselho de gestão só pode deliberar quando estiver presente a maioria dos seus membros. As deliberações serão tomadas por maioria de votos dos presentes; todavia, quando se verificar o quórum mínimo, as deliberações só serão válidas quando tomadas por unanimidade.
-
-Em caso de empate, o presidente terá voto de qualidade.
-
-3 - No caso de demissão ou impedimento por mais de sessenta dias consecutivos de qualquer dos vogais do conselho de gestão, este será substituído definitivamente, por nomeação, nos termos do n.º 1 do artigo 11.º
-
-4 - Todas as reuniões serão secretariadas por um dos vogais eleito, no início de cada mandato, por todos os membros do conselho de gestão.
-
-5 - As deliberações constarão de acta da reunião em que foram tomadas e só por ela podem ser aprovadas.
-
-6 - As actas podem ser aprovadas:
-
-a) No final da reunião;
-
-b) Na reunião seguinte.
-
-7 - As actas são assinadas por todos os membros presentes às reuniões a que respeitem e podem ser exaradas:
-
-a) Em livro próprio;
-
-b) Em folhas soltas, que serão arquivadas por ordem cronológica.
-
-8 - São admitidas declarações de voto devidamente fundamentadas.
-
-9 - O conselho de gestão poderá convocar para assistir às suas reuniões elementos a ele estranhos, pertencentes ou não ao INPP, cuja presença seja considerada de utilidade, devendo consignar-se os seus pareceres na acta da respectiva reunião.
-
-10 - Sem prejuízo do disposto no presente diploma e seus regulamentos, as normas de funcionamento interno do conselho de gestão poderão por este ser estabelecidas, carecendo de aprovação do Secretário de Estado da Marinha Mercante.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 #### SECÇÃO II — Conselho geral
 
-###### Artigo 15.º — Conceito
+###### Artigo 15.º — (Conceito)
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882), publicado em 1997-06-06.
 
 ###### Artigo 16.º — (Constituição)
 
-1 - O conselho geral é constituído pelos seguintes elementos:
+(Revogado.)
 
-a) Presidente do conselho de gestão;
-
-b) Vogais do conselho de gestão;
-
-c) Chefes dos departamentos de pilotagem;
-
-d) Representantes dos departamentos de pilotagem na seguinte proporção por cada departamento:
-
-Departamento até dez elementos - um trabalhador eleito por todo o pessoal de cada um dos departamentos;
-
-Departamento até vinte elementos - um piloto e um auxiliar eleitos pelo pessoal respectivo;
-
-Departamento até quarenta elementos - dois pilotos e dois auxiliares eleitos pelo pessoal respectivo;
-
-Departamento até oitenta elementos - três pilotos e três auxiliares eleitos pelo pessoal respectivo;
-
-Departamento com mais de oitenta elementos - quatro pilotos e quatro auxiliares eleitos pelo pessoal respectivo.
-
-2 - Para efeitos da alínea d) do número anterior, considera-se auxiliar todo o pessoal não piloto.
+> Revogado pelo/a [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882), publicado em 1997-06-06.
 
 ###### Artigo 17.º — (Competência)
 
-1 - Compete ao conselho geral:
+(Revogado.)
 
-a) Apreciar os planos de actividade, orçamento e relatórios e contas anuais apresentados pelo conselho de gestão e sobre eles emitir os respectivos pareceres;
-
-b) Pronunciar-se sobre as directrizes gerais de actuação do INPP e propor linhas de orientação para a sua actividade;
-
-c) Pronunciar-se sobre qualquer assunto que o conselho de gestão entenda dever submeter à sua consideração;
-
-d) Pronunciar-se sobre a revisão fundamentada dos quadros do pessoal do INPP;
-
-e) Pronunciar-se sobre os regulamentos dos concursos e dos cursos de aperfeiçoamento;
-
-f) Pronunciar-se sobre quaisquer assuntos que lhe sejam submetidos pelo Secretário de Estado da Marinha Mercante, pelos restantes órgãos do Instituto ou por qualquer dos membros do próprio conselho geral.
-
-2 - O conselho geral ou qualquer dos seus membros poderá solicitar ao conselho de gestão elementos de informação necessários ao despacho das suas funções.
+> Revogado pelo/a [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882), publicado em 1997-06-06.
 
 ###### Artigo 18.º — (Funcionamento)
 
-1 - O conselho geral reunirá ordinariamente uma vez por semestre e extraordinariamente, mediante convocação do presidente, por iniciativa deste ou a pedido de um terço dos seus membros.
+(Revogado.)
 
-2 - O conselho geral será convocado por ofício registado com aviso de recepção dirigido a cada um dos seus membros com a antecedência de dez dias da data marcada para o plenário.
-
-3 - As deliberações do conselho geral só serão válidas desde que se encontre presente, pelo menos, dois terços dos seus membros, e serão tomadas por maioria de votos, tendo o presidente voto de qualidade, em caso de empate.
-
-4 - Para efeitos das alíneas a) e b) do artigo 17.º, a deliberação do conselho geral sobre aquelas matérias deve ser tomada por maioria absoluta dos seus membros.
-
-5 - São admitidas declarações de voto devidamente fundamentadas.
-
-6 - Qualquer membro do conselho geral pode fazer-se representar nas suas faltas ou impedimentos por outro dos seus membros que não seja vogal do conselho de gestão.
-
-7 - Os vogais do conselho de gestão participarão nos trabalhos do conselho geral, usando da palavra e apresentando propostas e sugestões, mas sem voto deliberativo.
-
-8 - As deliberações constarão da acta da reunião em que foram tomadas.
-
-9 - A acta de cada reunião deverá ser redigida nos primeiros oito dias seguintes e apresentada pessoalmente ou enviada pelo correio a cada um dos membros presentes à reunião para assinatura.
-
-10 - A agenda de trabalhos referentes às reuniões ordinárias deverá ser enviada a cada um dos membros com a antecedência mínima de um mês.
-
-Quando se trate de reuniões extraordinárias, aquele prazo poderá ser apenas de oito dias.
+> Revogado pelo/a [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882), publicado em 1997-06-06.
 
 ###### Artigo 19.º — (Participação)
 
-Quando a natureza dos assuntos a tratar no conselho geral o tornar conveniente, poderá o presidente, por sua iniciativa, ou a pedido do conselho, convidar a participar nas reuniões, sem direito a voto, pessoas de reconhecida competência nas matérias em análise.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882), publicado em 1997-06-06.
 
 ##### DIVISÃO III — Serviços
 
@@ -296,47 +182,35 @@ Quando a natureza dos assuntos a tratar no conselho geral o tornar conveniente, 
 
 ###### Artigo 20.º — (Conceito)
 
-Os serviços administrativos centrais são os serviços do INPP que asseguram o apoio burocrático e administrativo indispensável ao funcionamento daquele, dentro da orientação estabelecida superiormente.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 21.º — (Constituição)
 
-Os serviços administrativos do INPP são integrados pelas secções seguintes:
+(Revogado.)
 
-a) Secção de expediente e pessoal;
-
-b) Secção de contabilidade, tesouraria e aprovisionamento.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 22.º — (Atribuições da secção de expediente e pessoal)
 
-A secção de expediente e pessoal tem as seguintes atribuições:
+(Revogado.)
 
-a) Organizar a gestão do pessoal e manter o cadastro disciplinar e técnico actualizado;
-
-b) Assegurar o expediente geral, organizar e manter actualizado o arquivo geral;
-
-c) Assegurar o funcionamento da acção social complementar a prosseguir no INPP e o expediente geral desta, assim como toda a actividade empreendida pelos serviços públicos no âmbito daquela segurança social;
-
-d) Prestar apoio administrativo ao conselho de gestão;
-
-e) Coordenar o apoio administrativo dos diversos órgãos e serviços do INPP.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 23.º — (Atribuições da secção de contabilidade, tesouraria e aprovisionamento)
 
-A secção de contabilidade, tesouraria e aprovisionamento tem as seguintes atribuições:
+(Revogado.)
 
-a) Assegurar a contabilidade e tesouraria;
-
-b) Assegurar o processo administrativo dos orçamentos;
-
-c) Assegurar o processo administrativo do aprovisionamento geral do INPP;
-
-d) Assegurar a gestão dos stocks de material de expediente do INPP.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 #### SECÇÃO II — Serviços de apoio técnico
 
 ###### Artigo 24.º — (Constituição)
 
-O conselho de gestão disporá dos serviços de apoio técnico que vierem a ser considerados necessários, podendo, para o efeito, contratar os técnicos indispensáveis, mediante autorização do Secretário de Estado da Marinha Mercante.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO IV — Departamentos de pilotagem
 
@@ -344,151 +218,79 @@ O conselho de gestão disporá dos serviços de apoio técnico que vierem a ser 
 
 ###### Artigo 25.º — (Organização)
 
-1 - A nível local, em cada um dos portos onde havia uma corporação ou secção de pilotos, passam a existir departamentos de pilotagem, cujo quadro de pessoal será estabelecido no respectivo regulamento interno de cada departamento.
+(Revogado.)
 
-2 - Compete ao Secretário de Estado da Marinha Mercante criar ou extinguir departamentos de pilotagem nos portos do continente.
-
-3 - Cada departamento de pilotagem terá a seguinte constituição:
-
-a) Uma comissão administrativa;
-
-b) Serviços auxiliares.
-
-4 - Cada departamento de pilotagem será chefiado por um piloto nomeado pelo conselho de gestão do INPP, após consulta prévia ao respectivo departamento, de entre os membros da comissão administrativa.
-
-5 - Nos departamentos onde não se justifique a orgânica consignada no n.º 3, o exercício das funções e competência correspondente àqueles órgãos e serviços serão regulados pelos respectivos regulamentos internos.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 26.º — (Classificação)
 
-1 - Os departamentos de pilotagem classificar-se-ão em 1.ª, 2.ª, 3.ª e 4.ª categorias.
+(Revogado.)
 
-2 - É da competência do Secretário de Estado da Marinha Mercante, sob proposta do conselho de gestão do INPP, a classificação e reclassificação dos departamentos de pilotagem nas categorias referidas no número anterior, tendo em consideração os seguintes factores:
-
-a) Quantidade e qualidade dos serviços efectuados em cada departamento;
-
-b) Tonelagem bruta da navegação movimentada;
-
-c) Rentabilidade dos respectivos departamentos de pilotagem;
-
-d) Regime de prestação dos serviços (contínuo ou intermitente);
-
-e) Extensão da área dos portos e seus acessos.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 #### SECÇÃO II — Comissão administrativa
 
 ###### Artigo 27.º — (Conceito)
 
-A comissão administrativa é um órgão de gestão do INPP com a competência definida no artigo 29.º
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 28.º — (Constituição)
 
-A constituição da comissão administrativa será definida no regulamento interno de cada departamento de pilotagem, o qual terá de ter a aprovação do conselho de gestão do INPP.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 29.º — (Competência)
 
-Compete à comissão administrativa:
+(Revogado.)
 
-a) Dirigir a actividade do respectivo departamento, zelar e defender os interesses do INPP a nível local;
-
-b) Cumprir e fazer cumprir as disposições regulamentares e as determinações do conselho de gestão do INPP;
-
-c) Gerir os fundos que forem confiados à sua guarda e responsabilidade;
-
-d) Velar por que sejam escriturados e estejam sempre em dia todos os seus livros e registos;
-
-e) Elaborar uma conta de caixa dos fundos que administra, extraindo dela uma cópia mensal, que, devidamente instruída com os seus documentos de receita e de despesa, será submetida a exame e aprovação do conselho de gestão;
-
-f) Propor ao conselho de gestão as alterações que entender convenientes para o bom funcionamento dos serviços locais;
-
-g) Efectuar as despesas que nos termos das alíneas g) e j) do n.º 1 do artigo 12.º lhe forem autorizadas pelo conselho de gestão;
-
-h) Exercer a competência que lhe for atribuída pelo estatuto disciplinar.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 30.º — (Responsabilidade)
 
-Os membros da comissão administrativa são solidariamente responsáveis perante o conselho de gestão do INPP por todos os actos da sua gerência.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 31.º — (Funcionamento)
 
-1 - A comissão administrativa será presidida pelo chefe do respectivo departamento de pilotagem ou, na sua falta ou impedimento, por quem o substituir, e reunirá ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo presidente ou a pedido da maioria dos seus membros.
+(Revogado.)
 
-2 - A comissão administrativa só poderá reunir quando estiver presente a maioria dos seus membros e as resoluções são tomadas por maioria de votos, tendo o presidente voto de qualidade, em caso de empate.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ### CAPÍTULO III — Gestão financeira
 
 ###### Artigo 32.º — (Receitas)
 
-1 - Constituem receitas do INPP:
+(Revogado.)
 
-a) Taxas;
-
-b) As remunerações de serviços prestados;
-
-c) Produto de reboques e de aluguer de embarcações e material;
-
-d) Os juros das quantias em depósito;
-
-e) Produto de venda de embarcações e outros artigos que já não convenham ao serviço;
-
-f) Produto de achados, feitas as deduções legais;
-
-g) Produto dos descontos efectuados por motivo de licença ou doença;
-
-h) Produto de quaisquer multas aplicadas, nos termos do regulamento de prestação de serviços e taxas ou do estatuto disciplinar;
-
-i) Estornos de seguros;
-
-j) Indemnizações das companhias de seguros por acidentes de trabalho, quando o INPP pague aos interessados;
-
-k) Restituição de quaisquer abonos recebidos e não vencidos;
-
-l) Doações, heranças ou legados que lhe sejam destinados;
-
-m) As dotações que lhe sejam especialmente atribuídas no Orçamento Geral do Estado;
-
-n) Quaisquer outros proventos ou rendimentos não especificados.
-
-2 - As receitas destinam-se a cobrir as despesas a que se refere o artigo 36.º
-
-3 - O valor das remunerações por serviços prestados e, bem assim, as taxas referidas na alínea a) do n.º 1 serão fixados por portaria do Secretário de Estado da Marinha Mercante, de modo a assegurar o equilíbrio económico entre as receitas e os encargos do INPP, a fim de satisfazer com regularidade e continuidade as necessidades colectivas, acompanhando o desenvolvimento destas e o aperfeiçoamento dos meios técnicos utilizáveis.
-
-4 - No cálculo das taxas ter-se-á em conta, designadamente:
-
-a) A cobertura do custo de produção dos serviços prestados;
-
-b) A reintegração dos bens utilizados, de modo a permitir a sua oportuna renovação;
-
-c) A satisfação dos encargos financeiros dos capitais investidos.
-
-5 - Na fixação das taxas relativas aos serviços de pilotagem serão também tomadas em consideração as disposições aplicáveis dos tratados, convenções e acordos em vigor.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 33.º — (Cobrança e arrecadação das receitas locais)
 
-1 - Os departamentos de pilotagem procederão à cobrança e arrecadação das receitas locais, devendo efectuar o seu apuramento no último dia de cada mês.
+(Revogado.)
 
-2 - O montante das receitas locais mensalmente apuradas será enviado ao conselho de gestão até ao dia 15 do mês seguinte e deverá ser acompanhado de um balancete donde conste:
-
-a) O montante das receitas arrecadadas;
-
-b) Os duplicados dos recibos cobrados e outros documentos que justifiquem as receitas;
-
-c) Uma relação dos recibos cobrados e não cobrados com referência a esse mês;
-
-d) Uma relação das despesas do mês devidamente discriminadas e comprovadas.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 34.º — (Exame e aprovação dos balancetes)
 
-Até ao fim do mês em que forem recebidos, o conselho de gestão procederá ao exame e aprovação dos balancetes dos departamentos de pilotagem, devendo remeter a cada um, tanto quanto possível dentro deste prazo, a importância correspondente às despesas relacionadas, a fim de que seja reintegrado o respectivo fundo de maneio.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 35.º — (Reserva e fundos)
 
 1 - Para efeitos de movimentação das receitas e despesas existirá:
 
-a) A nível central, um fundo de reserva administrado pelo conselho de gestão e fiscalizado pelo conselho geral, para o qual transitará a parte dos excedentes de cada exercício que lhe for anualmente destinada, nunca inferior a 10% dos mesmos;
+a) (Revogada.)
 
-b) A nível central e de cada departamento de pilotagem, um fundo de maneio, cuja existência será fixada pelo conselho de gestão durante o mês de Janeiro de cada ano e corresponderá ao triplo da média mensal das respectivas despesas efectuadas no ano anterior; este fundo destina-se a fazer face às despesas correntes de cada mês;
+b) (Revogada.)
 
-c) A nível central, um fundo para fins sociais, destinado a financiar benefícios sociais ou fornecimentos de serviços colectivos ao pessoal.
+c) (Revogada.)
+
+d) A nível central, um Fundo de Aposentações, destinado a suportar os encargos de aposentação do pessoal que, nos termos legais, sejam da responsabilidade do INPP.
 
 2 - Constituem fundo para fins sociais as seguintes receitas:
 
@@ -496,431 +298,369 @@ a) 2% das receitas apuradas em cada exercício;
 
 b) As receitas provenientes de comparticipações, dotações ou subsídios de que o INPP seja beneficiário e destinado a esse fim.
 
+3 - Constituem fontes de financiamento do Fundo de Aposentações as seguintes receitas:
+
+a) Uma percentagem das receitas a fixar anualmente pela tutela, por meio de portaria, mediante proposta do conselho de gestão;
+
+b) As receitas provenientes das comparticipações, dotações ou subsídios de que o INPP seja beneficiário e destinados a esse fim.
+
+4 - O Fundo de Aposentações poderá ser substituído por participação em fundo de pensões já constituído, após parecer fundamentado do conselho de gestão e aprovação da tutela.
+
+> Alterado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
+
 ###### Artigo 36.º — (Despesas)
 
-Constituem despesas do INPP todas as que resultem do normal exercício das suas funções.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 37.º — (Dívida ao INPP)
 
-1 - As dívidas ao INPP, quando não forem pagas dentro do prazo para pagamento voluntário, vencem juros de mora.
+(Revogado.)
 
-2 - Na falta de pagamento, são competentes para a cobrança judicial os tribunais comuns, servindo de título executivo o certificado de dívida, assinado por qualquer membro do conselho de gestão, com selo branco.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 38.º — (Património)
 
-1 - O INPP administra o domínio público do Estado afecto à exploração dos serviços a seu cargo, devendo manter em dia o respectivo cadastro, afectar-lhe os bens que nele convenha incorporar, desafectar os dispensáveis e assegurar a respectiva política.
+(Revogado.)
 
-2 - Os bens do domínio privado do INPP afectos ou não à exploração dos seus serviços e os demais bens que o Instituto receba ou adquira para realização dos seus fins constituem o seu património privativo.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 39.º — (Previsões da gestão financeira)
 
-A gestão financeira e patrimonial do INPP será disciplinada pelas seguintes previsões:
+(Revogado.)
 
-a) Programas anual e plurianuais de actividades;
-
-b) Orçamento anual.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 40.º — (Aprovação dos planos de actividade e do orçamento)
 
-1 - O INPP submeterá à aprovação do Ministro dos Transportes e Comunicações e ao visto do Ministro das Finanças e do Plano os programas de actividade e orçamento.
+(Revogado.)
 
-2 - Anualmente, o Estado promoverá a inscrição no Orçamento Geral do Estado de um subsídio estritamente necessário para a cobertura do deficit de exercício do INPP, salvaguardados o fundo de reserva e as dotações atribuídas ao fundo para fins sociais referidos no artigo 35.º
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 41.º — (Transferências de verbas)
 
-As transferências de verbas ou o reforço das dotações orçamentais carecem de prévia autorização do conselho de gestão.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 42.º — (Alienação de bens)
 
-A alienação de quaisquer bens do património do INPP dependerá da autorização prévia do conselho de gestão.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 43.º — (Empréstimos)
 
-1 - O INPP pode contrair empréstimos em moeda nacional ou estrangeira, titulados por qualquer das formas de uso corrente e em conformidade com os preceitos da legislação vigente.
+(Revogado.)
 
-2 - Os empréstimos por prazo superior a cinco anos só podem ser contraídos para a realização de investimentos reprodutivos, para renovação ou ampliação de instalações e serviços ou para conversão de dívidas anteriores a curto ou a médio prazo.
-
-3 - Os títulos de crédito, os bens do domínio privado do INPP e os rendimentos do seu património poderão servir de garantia aos empréstimos contraídos.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 44.º — (Contabilidade)
 
-1 - A contabilidade do INPP obedece às regras de gestão empresarial que lhe é própria, mantendo-se paralelamente à escrita orçamental.
+(Revogado.)
 
-2 - Da escrita orçamental deverá constar: quanto à receita, a verba orçamentada e a cobrança realizada; no tocante aos encargos figurarão as dotações atribuídas, os pagamentos efectuados e os saldos de cada dotação.
-
-3 - A contabilidade dos departamentos de pilotagem obedecerá às regras que vierem a ser definidas pelo conselho de gestão.
-
-4 - A contabilidade subordinar-se-á ao plano estabelecido pelo conselho de gestão e mostrará a posição das contas do activo, passivo e situação líquida, bem como da conta de resultados.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 45.º — (Livros e impressos)
 
-1 - Todos os livros e impressos a utilizar nos serviços de secretaria e tesouraria serão do número e do modelo a estabelecer pelo conselho de gestão.
+(Revogado.)
 
-2 - Os livros da escrita principais terão termos de abertura e encerramento e folhas numeradas e serão assinados pelo presidente do conselho de gestão.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 46.º — (Balancetes mensais)
 
-1 - Mensalmente, além dos extractos da conta «Caixa» mensal e da escrita orçamental, serão elaborados balancetes do Caixa e do Razão, em que se mostra as posições orçamentais das diferentes contas.
+(Revogado.)
 
-2 - Cópias dos extractos da conta «Caixa» e da escrita orçamental, bem como dos balancetes do Caixa e do Razão, serão mensalmente enviados, para conhecimento, aos departamentos locais de pilotagem.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 47.º — (Elaboração de um «Desenvolvimento»)
 
-A crédito da conta «Resultados» são levados os saldos da conta «Exploração», os resultados das verbas dos bens considerados dispensáveis e os rendimentos da aplicação de fundos. A débito da mesma conta são levadas todas as despesas não consideradas na conta «Exploração». Anexo à conta «Resultados» será elaborado um «Desenvolvimento» suficientemente discriminado desta conta.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 48.º — (Saldos da conta «Resultados»)
 
-Os saldos positivos da conta «Resultados» transitarão para o fundo de reserva.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 49.º — (Aprovação do relatório e contas anuais da gerência)
 
-Até ao dia 31 de Março de cada ano, o conselho de gestão deverá submeter à apreciação e aprovação do conselho geral o relatório e contas anuais da sua gerência, que posteriormente serão submetidos à homologação do Ministro dos Transportes e Comunicações.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 50.º — (Arquivo)
 
-1 - O conselho de gestão e as comissões administrativas conservarão em arquivo e pelo prazo de dez anos a correspondência e os elementos da sua escrita principal.
+(Revogado.)
 
-2 - As fotocópias dos documentos arquivados têm a mesma força probatória dos originais, mesmo quando se trate de ampliações de microfilmes que os reproduzem.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ### CAPÍTULO IV — Pessoal
 
 ###### Artigo 51.º — (Regime jurídico)
 
-1 - O pessoal do INPP fica sujeito ao regime administrativo especial constante dos estatutos e regulamentos anexos a este diploma e que dele fazem parte integrante.
+(Revogado.)
 
-2 - Subsidiariamente aplicar-se-á o regime do contrato individual de trabalho.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
+
+###### Artigo 51.º-A — Limite de idade
+
+(Revogado.)
+
+> Aditado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 52.º — (Pessoal do quadro)
 
-O pessoal do INPP será o constante dos quadros a que se referem os artigos 57.º a 67.º deste diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 53.º — (Remunerações)
 
-1 - Os vencimentos do pessoal constarão de tabela a aprovar por despacho do Secretário de Estado da Marinha Mercante.
+(Revogado.)
 
-2 - As remunerações que forem previstas na referida tabela serão acumuláveis com quaisquer outras que sejam devidas ao mesmo pessoal, nos termos deste diploma e seus regulamentos e demais legislação em vigor.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 54.º — (Pessoal requisitado a outros serviços)
 
-1 - Quando se mostre indispensável, o Secretário de Estado da Marinha Mercante poderá requisitar pessoal de outros serviços ou institutos públicos para prestar serviço no INPP, fixando-lhe a respectiva remuneração, a pagar por dotação especial para este efeito inscrita no orçamento do INPP, e com o acordo do Ministro requisitando, se for esse o caso.
+(Revogado.)
 
-2 - O pessoal requisitado ao abrigo do número anterior não abre vaga no serviço de origem, mas o respectivo lugar pode ser preenchido interinamente.
-
-3 - O tempo de serviço prestado pelos funcionários requisitados contará, para todos os efeitos, como se tivesse sido prestado nos quadros a que pretencem, mantendo os mesmos durante esse tempo os respectivos direitos, incluindo os relativos a promoção.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 55.º — (Pessoal contratado e assalariado além do quadro)
 
-1 - Quando se reconheça ser absolutamente indispensável, poderá o INPP admitir temporariamente pessoal além do quadro em regime de:
+(Revogado.)
 
-a) Contrato;
-
-b) Assalariamento.
-
-2 - O pessoal admitido nos termos do número antecedente poderá exercer a sua actividade em:
-
-a) Tempo total;
-
-b) Tempo parcial.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 56.º — (Prestação de serviços)
 
-1 - O INPP poderá recorrer à colaboração de empresas ou técnicos ao serviço de entidades nacionais ou estrangeiras para elaboração de estudos, pareceres ou projectos específicos ou para a execução de funções da sua especialidade em regime de prestação de serviços.
+(Revogado.)
 
-2 - Os contratos que forem celebrados nos termos e para os efeitos do número anterior deverão especificar obrigatoriamente a natureza das tarefas a executar, prazo de duração e remuneração.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ## PARTE II — Disposições especiais
 
 ### CAPÍTULO I — Departamento central
 
-###### Artigo 57.º — (Quadro do pessoal)
+###### Artigo 57.º — Quadros de pessoal
 
-O quadro do pessoal do departamento central será fixado, no prazo de três meses após a entrada em vigor do presente diploma, por portaria conjunta do Secretário de Estado da Marinha Mercante e do Secretário de Estado do Orçamento, sob proposta do conselho de gestão.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ### CAPÍTULO II — Departamentos de pilotagem
 
 Viana do Castelo
 
-###### Artigo 58.º — Quadro de pessoal
+###### Artigo 58.º — (Quadro de pessoal)
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142), publicado em 1993-12-07.
 
 ###### Artigo 59.º — (Quadro de pessoal)
 
-O departamento de pilotagem do Douro e Leixões terá o seguinte quadro de pessoal:
+(Revogado.)
 
-27 pilotos.
-
-1 chefe de oficina.
-
-5 motoristas.
-
-5 mestres.
-
-6 marinheiros.
-
-4 vigias radiotelefonistas.
-
-1 carpinteiro.
-
-1 chefe dos serviços administrativos.
-
-1 adjunto dos serviços administrativos.
-
-1 escriturário-dactilógrafo.
-
-1 servente.
-
-Aveiro
+> Revogado pelo/a [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142), publicado em 1993-12-07.
 
 ###### Artigo 60.º — (Quadro de pessoal)
 
-O departamento de pilotagem de Aveiro terá o seguinte quadro de pessoal:
+(Revogado.)
 
-4 pilotos.
-
-1 mestre.
-
-1 marinheiro.
-
-1 escriturário-dactilógrafo.
-
-Figueira da Foz
+> Revogado pelo/a [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142), publicado em 1993-12-07.
 
 ###### Artigo 61.º — (Quadro de pessoal)
 
-O departamento de pilotagem da Figueira da Foz terá o seguinte quadro de pessoal:
+(Revogado.)
 
-2 pilotos.
-
-1 mestre.
-
-1 marinheiro.
-
-Lisboa
+> Revogado pelo/a [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142), publicado em 1993-12-07.
 
 ###### Artigo 62.º — (Quadro de pessoal)
 
-O departamento de pilotagem de Lisboa terá o seguinte quadro de pessoal:
+(Revogado.)
 
-68 pilotos.
-
-1 chefe de oficina.
-
-4 motoristas.
-
-9 mestres.
-
-15 marinheiros.
-
-8 vigias radiotelefonistas.
-
-1 chefe dos serviços administrativos
-
-1 adjunto dos serviços administrativos.
-
-1 primeiro-oficial.
-
-2 segundos-oficiais.
-
-2 escriturários-dactilógrafos.
-
-1 tesoureiro.
-
-1 cobrador.
-
-1 contínuo.
-
-1 fiel de armazém.
-
-2 serventes.
-
-Setúbal
+> Revogado pelo/a [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142), publicado em 1993-12-07.
 
 ###### Artigo 63.º — (Quadro de pessoal)
 
-O departamento de pilotagem de Setúbal terá o seguinte quadro de pessoal:
+(Revogado.)
 
-10 pilotos.
+> Revogado pelo/a [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142), publicado em 1993-12-07.
 
-3 mestres.
-
-3 motoristas.
-
-3 marinheiros.
-
-1 primeiro-oficial.
-
-1 segundo-oficial.
-
-1 servente.
-
-Sines
-
-###### Artigo 64.º — Quadro de pessoal
+###### Artigo 64.º — (Quadro de pessoal)
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142), publicado em 1993-12-07.
 
 ###### Artigo 65.º — (Quadro de pessoal)
 
-O departamento de pilotagem de Portimão terá o seguinte quadro de pessoal:
+(Revogado.)
 
-2 pilotos.
-
-1 mestre.
-
-Faro-Olhão
+> Revogado pelo/a [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142), publicado em 1993-12-07.
 
 ###### Artigo 66.º — (Quadro de pessoal)
 
-O departamento de pilotagem de Faro-Olhão terá o seguinte quadro de pessoal:
+(Revogado.)
 
-2 pilotos.
-
-1 mestre.
-
-1 motorista.
-
-1 marinheiro.
-
-Vila Real de Santo António
+> Revogado pelo/a [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142), publicado em 1993-12-07.
 
 ###### Artigo 67.º — (Quadro de pessoal)
 
-O departamento de pilotagem de Vila Real de Santo António terá o seguinte quadro de pessoal:
+(Revogado.)
 
-1 piloto.
+> Revogado pelo/a [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142), publicado em 1993-12-07.
 
-1 mestre.
+###### Artigo 67.º-A — (Quadro de pessoal)
 
-1 motorista.
+(Revogado.)
 
-1 marinheiro.
+> Aditado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ## PARTE III — Disposições finais e transitórias
 
 ###### Artigo 68.º — (Regime de serviço prestado no conselho de gestão)
 
-1 - Os servidores do INPP que forem investidos nos lugares de presidente do conselho de gestão e de vogal deste conselho desempenharão essas funções em comissão de serviço.
+(Revogado.)
 
-2 - O tempo de serviço prestado no conselho de gestão pelos servidores a que alude o número anterior é contado para efeitos de aposentação e antiguidade.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 69.º — (Selo branco)
 
-1 - O selo branco do Instituto produzirá efeitos idênticos aos dos selos brancos dos serviços públicos do Estado.
+(Revogado.)
 
-2 - O Instituto, salvo em actos de mero expediente, obriga-se pelas assinaturas do presidente e de um dos vogais do conselho de gestão, ou pela assinatura de dois vogais, podendo, em qualquer caso, uma delas ser delegada.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 70.º — (contratos de arrendamento)
 
-Os contratos de arrendamento em que o INPP seja parte deverão ser reduzidos a escrito, revestindo a forma que a lei determinar.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 71.º — (Isenção de impostos)
 
-O INPP está isento de todos os impostos, contribuições ou taxas, custos ou emolumentos e selos nos processos, actos notariais de registo ou outros em que intervenha, em termos e condições idênticos aos do Estado.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 72.º — (Tempo de serviço para efeitos de aposentação)
 
-Para efeitos de aposentação, o tempo de serviço efectivo prestado nos serviços de pilotagem pelo pessoal do INPP, nas circunstâncias que se indicam, será acrescido das percentagens seguintes:
+(Revogado.)
 
-a) Mais 30%, quando prestado de modo contínuo ou intermitente ou por turnos e desde que efectuado em serviço de pilotagem a bordo de navios;
+> Revogado pelo/a [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
 
-b) Mais 15%, quando prestado de modo contínuo ou intermitente ou por turnos e desde que efectuado a bordo das embarcações dos serviços de pilotagem.
-
-###### Artigo 73.º — Aposentação
+###### Artigo 73.º — (Aposentação)
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829), publicado em 1989-06-03.
 
 ###### Artigo 74.º — (Extinção das corporações/secções)
 
-São extintas a Corporação Geral dos Pilotos e as corporações e secções de pilotos actualmente existentes nos portos e barras do continente.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 75.º — (Normas subsidiárias)
 
-A exploração, o uso público e funcionamento dos serviços a cargo do INPP continuam a reger-se pelas leis e regulamentos correspondentes em tudo o que não estiver previsto neste diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 76.º — (Regime especial)
 
-1 - O INPP conserva os direitos e assume as responsabilidades atribuídas ao Estado, nas disposições legais e regulamentares aplicáveis, designadamente quanto:
+(Revogado.)
 
-a) À cobrança coerciva de taxas e rendimentos do serviço e de outros créditos do INPP;
-
-b) À sua representação pelo Ministério Público em quaisquer tribunais, sem prejuízo de patrocínio por advogado constituído, sempre que o conselho de gestão assim o entenda;
-
-c) À expropriação por utilidade pública, efectivação de despejos administrativos e policiais, ocupação de terrenos, implantação de traçados, estabelecimento de zonas de protecção e construção de instalações;
-
-d) À suspensão temporária, total ou parcial, por determinação do Governo de qualquer dos serviços a seu cargo;
-
-e) Ao uso público dos serviços, à sua fiscalização, definição de infracções respectivas e à aplicação das consequentes penalidades;
-
-f) À responsabilidade civil extracontratual.
-
-2 - Em relação aos utentes, a responsabilidade do INPP não poderá abranger, em caso algum, lucros cessantes; as indemnizações por danos emergentes serão fixadas nos termos e dentro dos limites previstos no Regulamento de Prestação de Serviços e Taxas.
-
-3 - Fica excluída a responsabilidade do INPP quando se prove a existência de culpa ou dolo dos utentes ou de caso fortuito ou de força maior e quando tenham expirado os prazos regulamentares de reclamação.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 77.º — (Credencial)
 
-Salvo quanto ao patrocínio judiciário, a representação do INPP prevista no artigo 6.º poderá efectivar-se, no que respeita a actos e contratos, mediante simples credencial subscrita pelo presidente do conselho de gestão e autenticada com o selo branco do Instituto.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 78.º — (Casos omissos e alterações ao diploma)
 
-Os casos omissos e as alterações a este diploma e regulamentos que o venham a completar serão regulados por portaria do Secretário de Estado da Marinha Mercante, salvo quando, respeitando também a matéria da competência específica de outros departamentos governamentais, deva ser conjuntamente subscrita pelos respectivos membros do Governo.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142), publicado em 1993-12-07.
 
 ###### Artigo 79.º — (Resolução de dúvidas)
 
-As dúvidas suscitadas na interpretação ou aplicação deste diploma serão resolvidas por despacho do Secretário de Estado da Marinha Mercante.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142), publicado em 1993-12-07.
 
 ###### Artigo 80.º — (Revisão deste diploma)
 
-O conselho de gestão do INPP, ouvido o conselho geral dois anos após a publicação deste diploma e posteriormente de cinco em cinco anos, deverá reexaminar a presente organização, submetendo à consideração superior as alterações que a experiência torne aconselháveis.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 81.º — (Quadros de pessoal)
 
-Nos lugares ou categorias em que, por força da aplicação do presente diploma, os actuais servidores que transitam das extintas corporações e secções de pilotos excedam o número de lugares no novo quadro, considerar-se-á este aumentado, nos correspondentes lugares e categorias, de tantos lugares e categorias quantas as unidades que ultrapassem as fixadas no mesmo, extinguindo-se esses lugares à medida que forem ocorrendo as respectivas vagas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 82.º — (Transferências)
 
-Em consequência do disposto no artigo anterior só serão admitidas transferências de pessoal entre quadros dos diferentes departamentos para preenchimento de vagas nestes ocorridas nos termos e condições para o efeito estabelecidos no estatuto do pessoal.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 83.º — (Preenchimento dos novos quadros)
 
-Enquanto se verificar existir numa categoria ou classe pessoal em número excedente ao fixado nos novos quadros constantes dos artigos 58.º a 67.º, não poderá ser preenchido nas categorias ou classes superiores respectivas, a não ser por promoção, um número de lugares correspondentes a esse excesso.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 84.º — (Transferência do património)
 
-1 - Transitam para o INPP todos os bens, direitos e obrigações integrados no património das extintas Corporação Geral dos Pilotos e corporações e secções de pilotos do continente.
+(Revogado.)
 
-2 - A transferência para o INPP dos imóveis, dos móveis, incluindo embarcações e veículos automóveis, instalações e demais bens que integram a universalidade dos estabelecimentos a cargo da Corporação Geral dos Pilotos e das corporações e secções de pilotos, qualquer que seja a modalidade de inscrição nos correspondentes registos, operar-se-á por força deste artigo, que constituirá título suficiente para todos os efeitos, inclusive os de registo.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 85.º — (Ressalva de direitos)
 
-Ao pessoal que mudar de situação em consequência da aplicação das disposições do presente diploma será contado nos novos lugares, para todos os efeitos, o tempo de serviço prestado nos anteriormente ocupados, em qualquer situação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 86.º — (Vencimentos)
 
-Enquanto não for publicada a tabela de vencimentos a que se refere o artigo 53.º deste diploma, manter-se-á em vigor a tabela aprovada por despacho do Secretário de Estado da Marinha Mercante de 31 de Dezembro de 1976, publicada no Diário da República, 2.ª série, de 7 de Fevereiro de 1977.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 87.º — (Lista nominativa)
 
-O INPP publicará no Diário da República, dentro do prazo de sessenta dias a contar da data da entrada em vigor do presente diploma, e depois de aprovada pelo Secretário de Estado da Marinha Mercante, a lista nominal dos seus funcionários, com indicação dos lugares e situações em que ficarem providos, de harmonia com as disposições deste diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 88.º — (Integração da pilotagem da Madeira e dos Açores)
 
-Ao Ministro dos Transportes e Comunicações caberá decidir sobre a eventual extensão do âmbito do INPP aos portos da Madeira e dos Açores, após audição das entidades interessadas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 89.º — (Encargos decorrentes da execução deste diploma)
 
-O Ministro das Finanças e do Plano fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução deste diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 90.º — (Legislação revogada)
 
-Fica revogado o [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958, com as alterações que posteriormente lhe foram introduzidas e que não tenham sido expressamente ressalvadas no presente diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 Alfredo Jorge Nobre da Costa - José da Silva Lopes - Amílcar José de Gouveia Marques.
 
@@ -938,135 +678,85 @@ O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 2.º
 
-O pessoal a que se refere o artigo 51.º da Lei Orgânica do INPP abrange os profissionais do Instituto com carácter de permanência, designadamente:
+(Revogado.)
 
-a) Pilotos;
-
-b) Pessoal dos serviços auxiliares de pilotagem;
-
-c) Pessoal administrativo e auxiliar.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ### CAPÍTULO II — Deveres, direitos e garantias
 
 ###### Artigo 3.º
 
-1 - Além de outros que as leis e os regulamentos inscrevam, são designadamente deveres do pessoal do INPP os seguintes:
+(Revogado.)
 
-a) Estar ao serviço do interesse público e não de quaisquer interesses particulares, incumbindo-lhe acatar e fazer respeitar a autoridade do Estado na esfera de acção do Instituto;
-
-b) Guardar segredo sobre os assuntos de serviços de carácter reservado;
-
-c) Obedecer às ordens e instruções emanadas dos seus legítimos superiores sobre objecto de serviço e forma legal;
-
-d) Cooperar com os restantes agentes do Instituto na execução dos trabalhos da sua competência;
-
-e) Desempenhar pessoalmente as suas funções, com zelo e competência, procurando realizar o que for de interesse do Instituto e evitar quanto lhe possa causar prejuízo;
-
-f) Tomar todas as providências excepcionais ao seu alcance que o serviço exigir, quando por circunstâncias extraordinárias não seja possível aguardar ordens superiores;
-
-g) Cumprir com pontualidade as suas obrigações profissionais;
-
-h) Desempenhar as suas funções quando e onde lhe for determinado;
-
-i) Comportar-se com tacto e delicadeza nas suas relações com os utentes, superiores, camaradas, subordinados e o público em geral;
-
-j) Observar as normas de segurança no trabalho;
-
-k) Conservar e utilizar devidamente todos os bens relacionados com o seu trabalho;
-
-l) Ser portador do bilhete de identidade passado pelo INPP, quando em serviço deste.
-
-2 - O dever estatuído na alínea c) do número anterior não exclui o direito de representação por parte de quem receba as ordens e instruções, o qual se processará nos termos do artigo 5.º, n.º 1, alínea e).
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 4.º
 
-O pessoal dirigente dos departamentos de pilotagem é responsável perante o conselho de gestão pelo bom funcionamento destes, cumprindo-lhe designadamente:
+(Revogado.)
 
-a) Velar pela observância das leis, regulamentos e mais disposições do serviço;
-
-b) Interessar-se pela máxima eficiência e melhoramento do serviço, dentro da maior economia, adoptando ou propondo a adopção de medidas de sua iniciativa ou sugeridas pelos seus subordinados, que julgarem convenientes e proveitosas para aqueles fins;
-
-c) Cooperar com os demais departamentos do Instituto em matérias das suas atribuições;
-
-d) Manter a disciplina, prevenindo infracções;
-
-e) Informar com verdade, isenção e espírito de justiça, designadamente em relação aos seus subordinados.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 5.º
 
-1 - São direitos do pessoal, nomeadamente, os seguintes:
+(Revogado.)
 
-a) Receber os abonos que lhe forem fixados;
-
-b) Ser aposentado de acordo com as normas legais aplicáveis;
-
-c) Gozar o descanso semanal e as férias anuais;
-
-d) Usufruir do benefício das obras sociais, culturais e de previdência facultadas pelo Instituto;
-
-e) Usar de representação perante os superiores ou para eles interpor recursos das decisões que julgue lesivas dos seus direitos e interesses;
-
-f) Exercer as suas funções em condições de higiene e segurança;
-
-g) Desempenhar tarefas mais leves que as anteriormente exercidas, em caso de capacidade de trabalho reduzida, desde que devidamente comprovada e que as possibilidades dos serviços o permitam.
-
-2 - Quando as circunstâncias o justifiquem, poderá o INPP custear as despesas judiciais e de procuradoria a servidores seus com a intervenção em quaisquer processos, quando motivados pelo serviço ou por actos legitimamente praticados no exercício das suas funções.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ### CAPÍTULO III — Transferências
 
 ###### Artigo 6.º
 
-1 - É permitida a transferência de trabalhadores, da mesma categoria, de um departamento para outro mediante requerimento dos interessados dirigido ao presidente do conselho de gestão. Exceptuam-se as transferências em que o candidato não possa garantir a plena satisfação dos requisitos físicos e sanitários exigidos pelo condicionalismo próprio do serviço de pilotagem do porto onde o departamento para que pretenda ser transferido exerce a sua actividade; nestes casos a transferência não será autorizada.
+(Revogado.)
 
-2 - Os pedidos de transferência serão considerados aquando do pedido de abertura do respectivo concurso de admissão, nos termos do artigo 15.º
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 7.º
 
-O candidato à transferência para o quadro de outro departamento deve dar conhecimento por escrito à comissão administrativa do departamento a que pertence, o que será certificado por anotação exarada no requerimento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 8.º
 
-Em igualdade de condições, são condições de preferência para a transferência as indicadas pela ordem seguinte:
+(Revogado.)
 
-a) Ter o candidato menos idade;
-
-b) Mais tempo de serviço na categoria.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 9.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 10.º
 
-O trabalhador transferido não poderá prejudicar nenhum dos trabalhadores do departamento para onde transitou quanto a direitos que estes tenham adquirido, designadamente os referentes a escalas de serviço.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 11.º
 
-1 - É permitida, também, a transferência por permuta de trabalhadores da mesma categoria entre os quadros dos departamentos abrangidos por este regulamento, mediante requerimento, devidamente fundamentado, subscrito por ambos os interessados, dirigido ao presidente do conselho de gestão.
+(Revogado.)
 
-2 - A transferência por permuta só pode efectuar-se desde que haja acordo expresso das comissões administrativas dos dois respectivos departamentos de pilotagem.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 12.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ### CAPÍTULO IV — Regime de trabalho
 
 ###### Artigo 13.º
 
-1 - O regime de trabalho será fixado pelo conselho de gestão, sob proposta da comissão administrativa do respectivo departamento, atendendo às necessidades e organização específica dos serviços a cargo do mesmo.
+(Revogado.)
 
-2 - A duração normal do serviço semanal do pessoal do departamento central do INPP é a que estiver em vigor para o pessoal de secretaria da função pública.
-
-3 - Quando as necessidades de serviço imperiosamente o exigirem, poderá haver lugar à prestação de serviço extraordinário.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ### CAPÍTULO V — Pessoal
 
@@ -1074,49 +764,9 @@ O trabalhador transferido não poderá prejudicar nenhum dos trabalhadores do de
 
 ###### Artigo 14.º
 
-As categorias de pessoal ao serviço do INPP são as seguintes:
+(Revogado.)
 
-a) Pessoal dirigente;
-
-b) Pilotos;
-
-c) Pessoal auxiliar dos serviços de pilotagem:
-
-Mestre.
-
-Primeiro-marinheiro.
-
-Segundo-marinheiro.
-
-Vigia radiotelefonista.
-
-Carpinteiro.
-
-Primeiro-motorista.
-
-Segundo-motorista.
-
-Ajudante de motorista.
-
-d) Pessoal administrativo e auxiliar:
-
-Chefe dos serviços administrativos.
-
-Adjunto dos serviços administrativos.
-
-Primeiro-oficial.
-
-Segundo-oficial.
-
-Escriturário-dactilógrafo.
-
-Cobrador.
-
-Contínuo.
-
-Telefonista.
-
-Servente.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO II — Admissão
 
@@ -1126,7 +776,7 @@ Servente.
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 #### SECÇÃO II — Concursos
 
@@ -1134,175 +784,107 @@ Servente.
 
 ###### Artigo 16.º
 
-A admissão de pilotos para preenchimento de vagas nos quadros dos departamentos de pilotagem é precedida de concurso documental aberto por trinta dias pelo conselho de gestão, ouvido o parecer do departamento de pilotagem interessado.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 17.º
 
-1 - O concurso é aberto mediante aviso mandado publicar pelo presidente do conselho de gestão no Diário da República e durante, pelo menos, três dias em dois jornais diários de grande circulação no País e num regional, devendo ser, simultaneamente, afixado na porta principal da sede de todos os departamentos do INPP.
+(Revogado.)
 
-2 - Só pode ser pedida a abertura do concurso quando se tenham dado ou sejam previstas vagas no quadro do departamento de pilotagem interessado.
-
-3 - O concurso pode ser aberto com a antecedência máxima de oito meses em relação à primeira vaga prevista.
-
-4 - O prazo de validade do concurso é de um ano, destinando-se este prazo a permitir preencher o número de vagas que no respectivo aviso de abertura for fixado. Para este efeito, o período de um ano começa a contar-se da data da primeira tomada de posse provisória relativa aos candidatos chamados.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 18.º
 
-Do aviso de abertura devem constar os seguintes elementos:
+(Revogado.)
 
-a) Departamento de pilotagem a que se destina;
-
-b) Condições de habilitação e preferência;
-
-c) Documentos a apresentar para ser admitido a concurso;
-
-d) Local e data limite de entrega dos documentos.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 19.º
 
-1 - Só podem habilitar-se ao concurso os candidatos que preencham os seguintes requisitos:
+(Revogado.)
 
-a) Ter a nacionalidade portuguesa;
-
-b) Ter cumprido o serviço militar obrigatório ou dele estar isento;
-
-c) Ter já completado 25 anos de idade e ainda não ter perfeito 35 anos de idade à data da publicação do aviso de abertura do concurso;
-
-d) Ter, pelo menos, carta de piloto de 2.ª classe da marinha mercante nacional, com o mínimo de dois anos de exercício nesta categoria, bom comportamento e aptidão profissional.
-
-2 - Em igualdade de condições, são condições de preferência no concurso as indicadas pela ordem seguinte:
-
-a) Mais tempo de comando com carta de capitão da marinha mercante nacional;
-
-b) Mais tempo de comando comprovado por autoridades portuguesas;
-
-c) Ter carta de capitão da marinha mercante nacional;
-
-d) Ter carta de maior categoria;
-
-e) Mais tempo de embarque como oficial da marinha mercante nacional.
-
-3 - Em caso de igualdade dentro de cada uma das alíneas do número anterior, é ainda condição de preferência ter menos idade.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 20.º
 
-1 - O pedido de admissão ao concurso é feito por requerimento dirigido ao presidente do conselho, de gestão e deve ser acompanhado dos seguintes documentos:
+(Revogado.)
 
-a) Certidão narrativa completa do registo de nascimento;
-
-b) Documentos comprovativos das condições de admissão no concurso e de preferência nas classificações;
-
-c) Certificado do registo criminal.
-
-2 - O requerimento será entregue contra recibo na secretaria do INPP e nele deverá mencionar-se os documentos que o acompanham.
-
-3 - A prova de habilitações e das condições de preferência só pode ser feita por documentos autênticos ou autenticados.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 21.º
 
-1 - Encerrado o concurso, todos os documentos apresentados pelos candidatos serão entregues pela secretaria do INPP ao conselho de gestão, que reunirá para ordenar os candidatos em classificação documental segundo as suas habilitações e preferências, devendo a classificação assim ordenada e acompanhada dos processos individuais ser homologada pelo presidente, no prazo de trinta dias.
+(Revogado.)
 
-2 - A classificação documental ordenada nos termos dos números anteriores, depois de homologada, será publicada no Diário da República e afixada na porta principal do INPP.
-
-3 - Da decisão homologatória poderão os candidatos recorrer para o Secretário de Estado da Marinha Mercante, no prazo de trinta dias a contar da data da publicação da lista de classificação no Diário da República.
-
-4 - O recurso tem efeito suspensivo.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 22.º
 
-No caso de o concurso ficar deserto, a resolução do preenchimento das vagas em causa será da competência do conselho de gestão, que, depois de ouvida a comissão administrativa do respectivo departamento de pilotagem, procederá tendo em atenção o seguinte:
+(Revogado.)
 
-a) Condições actuais do porto e suas perspectivas futuras;
-
-b) Viabilidade do preenchimento da vaga ou vagas mediante contrato temporário a efectuar com indivíduo qualificado para o desempenho do lugar de piloto desse porto, de modo a poder ser aberto concurso logo após a cessação do contrato.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 23.º
 
-1 - Dos candidatos admitidos serão chamados por ordem de classificação apenas os julgados necessários pelo conselho de gestão para um período de aprendizagem pelo tempo determinado no regulamento interno de serviço do respectivo departamento de pilotagem, de forma que o fim da sua aprendizagem coincida, tanto quanto possível, com a abertura das vagas.
+(Revogado.)
 
-2 - Antes de se iniciar o período de aprendizagem, as condições físicas e psíquicas dos candidatos chamados serão apreciadas por uma junta médica designada pelo conselho de gestão.
-
-3 - Os pareceres da junta basear-se-ão em prévios exames psicotécnicos e de inspecção médica ordenados pela mesma, segundo tabelas publicadas em anexo a este estatuto.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 24.º
 
-1 - O candidato será eliminado se, por parecer da junta, homologado pelo conselho de gestão, não se encontrar nas condições físicas e psíquicas para o desempenho do lugar.
+(Revogado.)
 
-2 - Das deliberações homologatórias dos pareceres da junta cabe recurso para o Secretário de Estado da Marinha Mercante, no prazo de oito dias a contar da sua notificação aos candidatos interessados.
-
-3 - No acto da interposição do recurso o candidato terá de prestar uma caução no valor a fixar em cada concurso pelo conselho de gestão.
-
-4 - O recurso tem efeito suspensivo.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 25.º
 
-1 - No caso de ser admitido o recurso, o conselho de gestão nomeará nova junta médica, a qual não poderá ser constituída pelos elementos que formaram a que anteriormente deu o parecer fundamento do recurso.
+(Revogado.)
 
-2 - Da decisão homologatória do parecer da segunda junta não há recurso.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 26.º
 
-1 - As despesas com a primeira junta ficam a cargo do INPP.
+(Revogado.)
 
-2 - As despesas com a segunda junta serão também por conta do Instituto, mas, no caso de não ser concedido provimento ao recurso, o recorrente reembolsará aquele das despesas efectuadas; de contrário, ser-lhe-á devolvida a caução prestada aquando da apresentação do recurso.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 27.º
 
-A aprendizagem referida no n.º 1 do artigo 23.º será feita:
+(Revogado.)
 
-a) Por praticagem a bordo dos navios, indistintamente com qualquer dos pilotos nomeados para efectuar o serviço de pilotagem;
-
-b) Por aulas teóricas e práticas ministradas pelo chefe do departamento respectivo ou por quem ele designar.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 28.º
 
-1 - O aproveitamento dos candidatos será apreciado por meio de informações escritas dadas pelos pilotos com quem praticarem.
+(Revogado.)
 
-2 - Os elementos referidos no número anterior são obrigados a pronunciar-se dentro do prazo que for fixado.
-
-3 - As informações serão devidamente fundamentadas.
-
-4 - O exame das informações será feito por uma comissão de pilotos para o efeito designada pelo chefe do departamento respectivo e destinar-se-á a apurar, tendo em consideração o prescrito nos números anteriores, a situação final, devidamente fundamentada, de apto ou inapto dos candidatos. O número de pilotos que compõe a referida comissão será determinado pelo conselho de gestão.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 29.º
 
-1 - Os candidatos declarados inaptos serão notificados da deliberação da comissão referida no artigo anterior, acompanhada da respectiva fundamentação.
+(Revogado.)
 
-2 - Os candidatos a que se refere o número anterior terão direito à prorrogação do período de aprendizagem por mais três meses; para tanto, deverão declará-lo por escrito ao chefe do departamento respectivo, dentro do prazo de três dias a contar da data da notificação da deliberação.
-
-3 - Findo o período de três meses, a comissão de pilotos procederá nos termos dos n.os 4 e 5 do artigo anterior.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### Subsecção II — Pessoal auxiliar dos serviços de pilotagem, pessoal administrativo e auxiliar
 
 ###### Artigo 30.º
 
-À admissão do pessoal auxiliar dos serviços de pilotagem aplicar-se-ão as regras consignadas nos artigos 16.º, 17.º, 18.º, 20.º, 21.º, 22.º, 24.º, 25.º e 26.º em tudo o que não vier regulado especialmente nos artigos seguintes.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 31.º
 
-1 - Só podem habilitar-se ao concurso os candidatos que preencham os seguintes requisitos:
+(Revogado.)
 
-a) Ter nacionalidade portuguesa;
-
-b) Ter as habilitações profissionais e literárias exigidas para o desempenho do lugar;
-
-c) Ter já completado, pelo menos, 21 anos à data da publicação do aviso de abertura do concurso.
-
-2 - Em igualdade de condições, são condições de preferência no concurso, as indicadas pela ordem seguinte:
-
-a) Melhores habilitações profissionais para o exercício do lugar;
-
-b) Mais tempo de exercício profissional na categoria;
-
-c) Melhores habilitações literárias;
-
-d) Ter menos idade;
-
-e) Ter o serviço militar cumprido ou estar dele isento.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 32.º
 
-As condições físicas e psíquicas dos candidatos a admitir serão apreciadas por uma junta médica, para o efeito designada pelo conselho de gestão.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 #### SECÇÃO III — Provimento
 
@@ -1310,97 +892,73 @@ As condições físicas e psíquicas dos candidatos a admitir serão apreciadas 
 
 ###### Artigo 33.º
 
-1 - Finda a aprendizagem, os candidatos declarados aptos serão nomeados provisoriamente, por ordem de classificação, nos lugares que forem ficando vagos.
+(Revogado.)
 
-2 - O provimento provisório das vagas far-se-á, pelo período de um ano, mediante despacho do presidente do conselho de gestão.
-
-3 - No despacho de nomeação fixar-se-á o prazo dentro do qual o candidato terá de se apresentar no departamento de pilotagem a fim de tomar posse. O prazo não poderá ser inferior a trinta dias.
-
-4 - A posse provisória será conferida pelo chefe do departamento respectivo.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 34.º
 
-1 - Findo o período de um ano de provisório, os candidatos serão providos definitivamente por despacho de nomeação do presidente do conselho de gestão, homologado pelo Secretário de Estado da Marinha Mercante, se, por informação devidamente fundamentada da comissão referida no artigo 28.º, se verificarem cumulativamente os seguintes requisitos:
+(Revogado.)
 
-a) Bom comportamento;
-
-b) Aptidão física para o desempenho do lugar;
-
-c) Aptidão profissional.
-
-2 - Não se verificando qualquer dos requisitos das alíneas do número anterior, o candidato será exonerado por deliberação do conselho de gestão, homologada pelo Secretário de Estado da Marinha Mercante, sem direito a qualquer indemnização.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 35.º
 
-1 - A posse definitiva será conferida pelo presidente do conselho de gestão, que poderá delegar esta função no chefe do respectivo departamento no prazo de trinta dias, a contar da data da notificação da deliberação do conselho de gestão, homologada pelo Secretário de Estado da Marinha Mercante.
+(Revogado.)
 
-2 - A não tomada de posse dentro do prazo é considerada abandono do lugar e faz cessar imediatamente todos os direitos do candidato.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 36.º
 
-As notificações e convocações dos candidatos serão feitas por carta registada com aviso de recepção e enviadas para a última residência que constar no respectivo departamento de pilotagem.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### Subsecção II — Pessoal auxiliar dos serviços de pilotagem, pessoal administrativo e auxiliar
 
 ###### Artigo 37.º
 
-1 - Os candidatos aprovados no concurso ocuparão definitivamente, por ordem de classificação, as vagas, à medida que elas se forem verificando, mediante despacho de nomeação do presidente do conselho de gestão.
+(Revogado.)
 
-2 - A posse será conferida pelo chefe do departamento respectivo, no prazo de trinta dias, a contar da data da publicação, a que se refere o artigo 21.º, no Diário da República.
-
-3 - À não tomada de posse e às notificações e convocações dos candidatos aplica-se o disposto no n.º 2 do artigo 35.º e no artigo 36.º
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO III — Vencimentos
 
 ###### Artigo 38.º
 
-1 - Os vencimentos do pessoal do Instituto, no activo, são constituídos por remunerações certas ordinárias e extraordinárias, por remunerações acidentais e por abonos diversos.
+(Revogado.)
 
-2 - Consideram-se remunerações certas ordinárias, para efeitos do número anterior, o vencimento base, e remunerações certas extraordinárias o subsídio de férias e o subsídio de Natal.
-
-3 - Consideram-se remunerações acidentais, para efeitos do n.º 1, aquelas que se destinam a retribuir o pessoal por serviços previstos neste diploma, mas cuja prestação depende da necessidade ou da oportunidade que os próprios serviços determinarem, nomeadamente o subsídio de chefia ou remunerações complementares por exercício de cargos nos órgãos do INPP, o subsídio de trabalho extraordinário, os abonos para despesas de representação e outros análogos.
-
-4 - Consideram-se abonos, para efeitos do n.º 1, os abonos que não constituam retribuição de serviços, mas simples indemnizações de despesas ou encargos a que, por virtude do serviço, o pessoal seja obrigado, nomeadamente ajudas de custo, subsídios de deslocação, de viagem, despesas de instalação, abonos para falhas e subsídios para alimentação.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 39.º
 
-As remunerações acidentais só são devidas ao pessoal em serviço activo ou moderado.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 40.º
 
-1 - Os vencimentos base são os constantes da tabela de vencimentos a aprovar por portaria do Secretário de Estado da Marinha Mercante.
+(Revogado.)
 
-2 - Anualmente ou quando o conselho de gestão considerar oportuno, os vencimentos referidos no número anterior serão revistos e actualizados.
-
-3 - Sempre que se derem alterações à tabela de vencimentos, operar-se-á a sua substituição pela nova tabela, que ficará fazendo parte integrante deste regulamento.
-
-4 - Os candidatos ao preenchimento das vagas que ocorrerem nos quadros do Instituto receberão, durante o período de aprendizagem ou experiência a que se referem os artigos 23.º a 29.º, 75% do vencimento base da respectiva categoria e as remunerações que o conselho de gestão determinar.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 41.º
 
-1 - O pessoal em serviço activo ou moderado e os aposentados têm direito a um subsídio de Natal (13.º mês), que será pago até ao dia 10 de Dezembro de cada ano.
+(Revogado.)
 
-2 - O pessoal em serviço activo ou moderado tem direito a um subsídio de férias, que se vence em 1 de Janeiro de cada ano e é relativo ao trabalho prestado no ano civil anterior. Este subsídio será pago:
-
-a) Quando se iniciar o período de férias a que tem direito, ou até ao dia trinta de Junho de cada ano;
-
-b) Em caso de aposentação e sem ter gozado ainda o período de férias a que se refere a alínea a), no mês seguinte, conjuntamente com a parte proporcional ao tempo de serviço prestado no ano em que se aposentou;
-
-c) Em caso de falecimento e sem ter gozado ainda o período de férias a que se refere a alínea a), aos seus herdeiros, até ao dia trinta do mês seguinte à data do falecimento; não havendo herdeiros, reverterá para os fundos do Instituto.
-
-3 - O valor pecuniário de cada um dos subsídios a que se refere este artigo é igual a um vencimento base mensal.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 42.º
 
-1 - O presidente do conselho de gestão, o vogal-têm direito a perceber uma gratificação mensal de-secretário e os restantes vogais deste mesmo conselho quantitativo fixado na tabela de vencimentos.
+(Revogado.)
 
-2 - Os chefes dos departamentos de pilotagem e os vogais das comissões administrativas a quem, nos termos dos respectivos regulamentos internos dos serviços, forem atribuídas tarefas específicas, a desempenhar no âmbito da actividade das referidas comissões, têm direito a perceber uma gratificação mensal do quantitativo fixado na tabela de vencimentos. Os restantes vogais perceberão por cada reunião a que assistam uma senha de presença do quantitativo fixado na tabela de vencimentos.
-
-3 - Os membros do conselho geral perceberão por cada reunião a que assistam uma senha de presença de quantitativo fixado pelo Secretário de Estado da Marinha Mercante, sob proposta do conselho de gestão, e terão direito ao reembolso das despesas efectuadas quando participem em reuniões ou actos de serviço.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 43.º
 
-O pessoal, quando em serviço, tem direito a receber abonos em dinheiro para a compensação de despesas com transportes, alimentação e outros gastos, nos termos e valor a fixar anualmente pelo conselho de gestão.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO IV — Férias, licenças, folgas e faltas ao serviço
 
@@ -1408,141 +966,95 @@ O pessoal, quando em serviço, tem direito a receber abonos em dinheiro para a c
 
 ###### Artigo 44.º
 
-1 - Todo o pessoal do INPP tem direito a gozar férias em virtude do trabalho prestado em cada ano civil, com direito ao vencimento por inteiro.
+(Revogado.)
 
-2 - Consideram-se vencimento, para efeitos deste artigo, todas as remunerações e abonos concedidos, com excepção das ajudas de custo, subsídios de deslocação, de viagem, despesas de instalação e subsídios para alimentação.
-
-3 - O direito a férias vence-se no dia 1 de Janeiro do ano civil subsequente.
-
-4 - O direito a férias é irrenunciável e não pode ser substituído por remuneração suplementar ou qualquer outra vantagem, ainda que de comum acordo.
-
-5 - O período de férias é de trinta dias, salvo o disposto no n.º 3 do artigo 53.º
-
-6 - As férias serão gozadas no decurso do ano civil em que se vençam.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 45.º
 
-As férias devem ser gozadas seguidamente; todavia, por conveniência dos serviços ou do interessado e sem prejuízo de terceiros, podem as mesmas ser interpoladas desde que um dos períodos seja no mínimo de quinze dias seguidos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 #### SECÇÃO II — Licenças
 
 ###### Artigo 46.º
 
-1 - Ao pessoal do Instituto pode ser concedido, a seu requerimento, em cada ano civil e sem prejuízo do serviço, licença sem vencimento:
+(Revogado.)
 
-a) Até cento e oitenta dias, desde que tenha mais de três anos de antiguidade;
-
-b) Por tempo ilimitado, desde que tenha mais de cinco anos de antiguidade.
-
-2 - A licença até cento e oitenta dias não dá vaga no quadro e será descontada na antiguidade.
-
-3 - A licença por tempo ilimitado faz suspender os direitos, deveres e garantias do interessado a quem for concedida e dará vaga no quadro respectivo, não podendo aquele requerer o seu ingresso antes de decorrido o prazo de um ano, a contar da data do início da licença. O requerimento terá de ser dirigido ao presidente do conselho de gestão pelo menos trinta dias antes da abertura de qualquer concurso. O reingresso faz-se automaticamente após parecer favorável de uma junta médica, designada pelo conselho de gestão, seguindo-se em tudo o mais, com as necessárias adaptações, as regras consignadas para o primeiro provimento.
-
-4 - O pessoal na situação de licença ilimitada tem direito à reintegração na primeira vaga que o departamento de pilotagem a que pertencia deliberar preencher após a apresentação do requerimento do interessado pedindo o reingresso.
-
-5 - O reingresso far-se-á por ordem de apresentação dos respectivos requerimentos. No caso de terem sido apresentados no mesmo dia mais de um requerimento, a prioridade será concedida àquele que tiver mais tempo de antiguidade, relativamente.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 47.º
 
-A competência para a concessão de licenças pertence ao conselho de gestão, ouvido o parecer do departamento respectivo.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 #### SECÇÃO III — Folgas
 
 ###### Artigo 48.º
 
-1 - Em cada departamento, os serviços serão organizados em escalas, de modo que o pessoal goze as folgas possíveis e necessárias ao seu descanso.
+(Revogado.)
 
-2 - As folgas estabelecidas serão obrigatoriamente gozadas, salvo motivo imperioso de serviço.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 #### SECÇÃO IV — Faltas ao serviço
 
 ###### Artigo 49.º
 
-1 - Todo o pessoal que, por motivos pessoais, não possa comparecer ao serviço terá de o comunicar ao respectivo departamento e será considerado em falta de serviço.
+(Revogado.)
 
-2 - As faltas podem ser autorizadas e não autorizadas; e estas ainda podem ser justificadas e não justificadas.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 50.º
 
-Consideram-se autorizadas as faltas ao serviço, sem prejuízo do mesmo, até duas por mês, num máximo de quinze em cada ano civil, desde que tenham sido previamente comunicadas. Estas faltas não carecem de justificação e não dão motivo a qualquer desconto.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 51.º
 
-Consideram-se justificadas:
+(Revogado.)
 
-a) As faltas por motivo de doença até ao máximo de trinta dias consecutivos ou quarenta e cinco alternados, em cada ano civil. Ao quarto dia consecutivo de doença é obrigatória a justificação mediante a apresentação de atestado médico;
-
-b) As faltas por motivo de acidente em serviço de que não tenha resultado imediatamente incapacidade definitiva;
-
-c) As faltas dadas no cumprimento de obrigações legais ou pela necessidade devidamente comprovada de prestar assistência inadiável aos membros do seu agregado familiar, em caso de acidente ou doença, até ao máximo de trinta dias em cada ano civil. Neste caso a apreciação da prova ficará a cargo da comissão administrativa ou chefia do respectivo departamento;
-
-d) As faltas dadas por altura do seu casamento, até ao máximo de sete dias consecutivos;
-
-e) As faltas, até quatro dias consecutivos, originadas por falecimento do cônjuge ou de parente ou afins no 1.º grau da linha recta, ou até dois dias consecutivos, originadas por falecimento de parentes ou afins nos restantes graus da linha recta e no 2.º grau da linha colateral.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 52.º
 
-As faltas autorizadas e as justificadas a que se referem os artigos anteriores são independentes e acumuláveis.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 53.º
 
-1 - Consideram-se não justificadas todas as faltas não abrangidas nos artigos anteriores. Estas faltas dão lugar a desconto total nas remunerações certas ordinárias, na antiguidade, no período de férias e respectivo subsídio, e são registadas na nota de assentamento, podendo ainda ser passíveis de procedimento disciplinar, desde que precedido do parecer do chefe de departamento respectivo.
+(Revogado.)
 
-2 - Os descontos feitos nas remunerações nos termos do número anterior revertem a favor dos fundos do Instituto.
-
-3 - O desconto no período de férias far-se-á à razão de um por cada três faltas, até ao máximo de um terço das férias.
-
-4 - O desconto no subsídio de férias far-se-á à razão de um trinta avos por cada dia descontado no período de férias.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO V — Impedimentos e incapacidades
 
 ###### Artigo 54.º
 
-1 - Passa à situação de inactividade temporária:
+(Revogado.)
 
-a) O pessoal que, por doença devidamente comprovada e dentro de cada ano civil, deixar de prestar serviço durante mais de trinta dias consecutivos ou quarenta e cinco interpelados;
-
-b) O pessoal que, por acidente em serviço de que não tenha resultado imediatamente incapacidade definitiva, deixar de prestar serviço durante mais de noventa dias consecutivos.
-
-2 - A situação de inactividade temporária será comprovada por uma junta médica nomeada pelo conselho de gestão, sendo o respectivo parecer sujeito a homologação deste.
-
-3 - O pessoal que estiver na inactividade temporária só pode voltar ao serviço quando a junta médica o der por apto.
-
-4 - O pessoal que atingir quinhentos e quarenta dias na inactividade temporária e não puder voltar ainda ao serviço passará, conforme desejar, à situação de aposentado, se a ela tiver direito, ou a situação de licença ilimitada para tratamento. Neste último caso mantém, durante o período de licença ilimitada para tratamento, os direitos e garantias regulamentares como se estivesse ao serviço, com exclusão de todos os vencimentos e da contagem de tempo dessa licença para a sua antiguidade.
-
-5 - O reingresso no serviço do pessoal que tiver passado à situação de licença ilimitada para tratamento faz-se nos termos do n.º 3 do artigo 46.º, mas sem sujeição ao decurso do prazo de um ano.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 55.º
 
-O pessoal que em qualquer momento for considerado definitivamente incapaz para todo o serviço será aposentado ou exonerado, conforme tiver ou não direito à aposentação, nos termos do regime legal que lhe for aplicável.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 56.º
 
-1 - O pessoal que, por opinião da junta médica, não for considerado capaz para todo o serviço poderá ser empregado em serviços moderados, devendo estes ser fixados no regulamento interno de cada departamento.
+(Revogado.)
 
-2 - O pessoal poderá permanecer na situação de serviços moderados durante cinco anos seguidos ou oito interpolados.
-
-3 - O pessoal na situação de serviço moderado pode regressar ao serviço normal por decisão da junta médica.
-
-4 - O pessoal em serviço moderado não dá vaga, continuando no respectivo quadro durante todo o tempo que se conservar nesta situação.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 57.º
 
-1 - O pessoal que se encontre doente nos termos dos artigos anteriores sofre as seguintes deduções nos seus vencimentos:
+(Revogado.)
 
-a) 100% nas remunerações acidentais e abonos a partir do primeiro dia de doença, inclusive;
-
-b) 10% nas remunerações certas a que se refere o n.º 2 do artigo 38.º a partir dos primeiros trinta dias consecutivos ou quarenta e cinco dias interpolados, e até perfazer cento e oitenta dias;
-
-c) 20% nas remunerações certas a que se refere o n.º 2 do artigo 38.º a partir dos cento e oitenta dias, até perfazer trezentos e sessenta dias;
-
-d) 40% nas remunerações certas a que se refere o n.º 2 do artigo 38.º a partir dos trezentos e sessenta dias, até final da inactividade temporária.
-
-2 - O pessoal acidentado em serviço, nos termos dos artigos anteriores, não sofre qualquer desconto nas suas remunerações e abonos até final da sua inactividade temporária.
-
-3 - O pessoal que se encontre na situação de serviços moderados, nos termos do artigo anterior, sofre os descontos de 10% nas suas remunerações e abonos.
-
-4 - Ao pessoal do INPP subscritor da Caixa Geral de Aposentações acidentado em serviço aplicar-se-á o regime estatuído pelo [Decreto-Lei n.º 38523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38523-1951-593352), de 23 de Novembro de 1951.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO VI — Aposentação
 
@@ -1578,145 +1090,91 @@ Assistência
 
 ###### Artigo 60.º
 
-A todo o pessoal do INPP e seus familiares é concedida assistência médica, medicamentosa e hospitalar nos termos e condições consignados pelo regime da Assistência na Doença aos Servidores do Estado (ADSE).
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 61.º
 
-Todo o pessoal, quer em serviço activo ou moderado, quer aposentado, tem direito ao abono de família, nos termos que vigorarem no esquema de previdência no Ministério dos Assuntos Sociais.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 62.º
 
-O conselho de gestão estudará e promoverá a concessão de outras formas de assistência já consagradas ou que venham a ser consagradas na lei.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 #### SECÇÃO II — Subsídio por morte
 
 ###### Artigo 63.º
 
-1 - Por morte, o pessoal do INPP confere direito à percepção de um subsídio igual a seis duodécimos do último vencimento base ou pensão de aposentação em relação à data da morte.
+(Revogado.)
 
-2 - O trabalhador que àquela data se encontrar de licença ilimitada não confere direito à percepção daquele subsídio, salvo se esta licença tiver sido concedida nos termos do artigo 56.º deste Estatuto. Neste caso, o subsídio é igual ao último vencimento base percebido.
-
-3 - O pessoal do INPP inscrito na Caixa Geral de Aposentações segundo o regime consignado no Estatuto da Aposentação, por morte, confere direito à percepção de um subsídio, nos termos do artigo 83.º do Estatuto da Aposentação.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 64.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 65.º
 
-1 - O subsídio que o trabalhador tem direito a deixar pertencerá:
+(Revogado.)
 
-a) Metade à pessoa ou pessoas indicadas na declaração entregue; e outra metade, e em partes iguais, aos descendentes que na data da sua morte estiverem ou devessem estar a seu cargo;
-
-b) Na falta de descendentes nas condições da alínea anterior, o subsídio pertencerá na totalidade à pessoa ou pessoas indicadas na declaração;
-
-c) Às pessoas a quem for legada a parte ou a totalidade do subsídio, na proporção que pelo trabalhador for designada, e, na falta dessa indicação, será dividido por todos em partes iguais;
-
-d) Na falta de declaração e existindo os herdeiros designados na segunda parte da alínea a) e cônjuge sobrevivo, metade àqueles nas condições dessa mesma alínea e metade ao cônjuge sobrevivo. Não havendo os referidos herdeiros, o subsídio pertencerá na totalidade ao cônjuge sobrevivo.
-
-2 - O cônjuge separado judicialmente ou de facto ou que tiver violado as suas obrigações para com filhos menores comuns do casal perde o direito ao subsídio.
-
-3 - O cônjuge que, embora separado judicialmente ou de facto, tiver direito a alimentos conserva o direito ao subsídio, salvo se tiver praticado o facto a que se refere a parte final do número anterior. Neste caso, a parte do subsídio que competia ao cônjuge reverterá a favor desses filhos.
-
-4 - O cônjuge separado judicialmente por mútuo consentimento só terá direito a perceber o subsídio, na parte que lhe compete, quando na declaração sobre bens junta ao requerimento em que os cônjuges pediram a separação houver sido consignada uma pensão de alimentos ou se tiver consignado expressamente na referida declaração o direito ao subsídio.
-
-5 - No caso de divórcio, o ex-cônjuge não culpado e que não haja contraído novo casamento tem direito ao subsídio. Se, porém, o trabalhador for bínubo, a parte do subsídio que couber ao cônjuge será dividida em partes iguais por todos os ex-cônjuges que, nos termos definidos neste artigo, a ele tenham direito.
-
-6 - Para efeito do disposto nas alíneas a) e d) do n.º 1 e só no que se refere aos descendentes, preferem sempre os de grau mais próximo aos de grau mais afastado.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 66.º
 
-1 - Logo que o INPP tenha conhecimento oficial do falecimento de qualquer seu trabalhador, dará cumprimento às suas disposições e publicará em dois dos jornais de maior circulação avisos convidando os herdeiros referidos no n.º 1 do artigo 64.º a apresentarem, no prazo de trinta dias, os documentos justificativos do direito ao subsídio; e, findo esse prazo, concederá definitivamente esse subsídio.
+(Revogado.)
 
-2 - O INPP, sempre que sejam incertos os beneficiários a que se refere o n.º 1 do artigo 64.º ou quando, por questões de segurança, o julgue necessário, mandará proceder à sua citação edital, nos termos do Código de Processo Civil, seguindo-se as normas prescritas no mesmo Código na parte que for aplicável à natureza do processo adoptado.
-
-3 - Quando se verificarem as circunstâncias do número anterior, o eventual ou eventuais beneficiários são obrigados a devolver ao INPP a parte ou a totalidade do subsídio recebido indevidamente, por se ter reconhecido outros ou serem outros os titulares do direito.
-
-4 - Se o direito à percepção do subsídio recair em indivíduo menor ou interdito e se não se apresentar a exercê-lo o respectivo representante legal, poderá a liquidação ser feita a pessoa de família que tenha ficado com o encargo da sua manutenção ou, não se verificando este caso, a pessoa idónea sob cuja dependência se encontre o menor ou interdito, sem prejuízo, porém, de oportuna prestação de contas a quem venha a provar estar legalmente investido na representação.
-
-5 - O INPP não é responsável pelo prejuízo que porventura advenha a qualquer herdeiro por se não ter apresentado no prazo referido neste artigo a comprovar o seu direito.
-
-6 - Os subsídios que não forem reclamados no prazo de um ano, contado da data do termo dos avisos, revertem a favor dos fundos do INPP.
-
-7 - As despesas resultantes do cumprimento do disposto nos números anteriores são deduzidas no montante do subsídio.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 67.º
 
-1 - O beneficiário que for condenado judicialmente como autor, cúmplice ou encobridor da morte do trabalhador ou tenha incorrido nalguns dos actos referidos nos artigos 2134.º e 2166.º do Código Civil perde o direito ao subsídio.
+(Revogado.)
 
-2 - A pronúncia pelos crimes a que se refere o número anterior implica a suspensão da concessão do subsídio.
-
-3 - O beneficiário que se encontre nas circunstâncias dos números anteriores, mas, entretanto, tenha já recebido o subsídio, é obrigado a repô-lo.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 68.º
 
-O direito à percepção deste subsídio é inalienável e impenhorável.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO VIII — Disposições finais e transitórias
 
 ###### Artigo 69.º
 
-1 - Em cada ano, com referência a 31 de Dezembro, elaborar-se-á um mapa de antiguidade donde conste:
+(Revogado.)
 
-As datas das posses na categoria;
-
-A antiguidade referida a 31 de Dezembro anterior;
-
-Os dias de férias gozados;
-
-As faltas autorizadas;
-
-As faltas não justificadas;
-
-As faltas por doença;
-
-Os dias de licença;
-
-Os dias de inactividade temporária;
-
-O tempo de antiguidade actual.
-
-2 - O mapa referido no número anterior, depois de aprovado pelos chefes dos departamentos de pilotagem respectivos, será afixado na respectiva sede de 20 a 31 de Janeiro, sendo facultada a sua consulta, fora deste período a qualquer trabalhador. Uma cópia deste mapa será enviada ao conselho de gestão.
-
-3 - Em relação ao departamento central, o mapa referido no número anterior será aprovado pelo presidente do conselho de gestão.
-
-4 - Não o achando conforme, qualquer trabalhador tem o direito de solicitar a devida rectificação, no prazo de dez dias, para o que apresentará, por escrito, ao chefe do departamento de pilotagem respectivo ou, no caso referido no n.º 3, ao presidente do conselho de gestão a reclamação fundamentada.
-
-5 - Para efeitos de aposentação, com base no mapa referido no n.º 1 elaborar-se-á uma lista nominal, donde conste a antiguidade e o número de anos, meses e dias, referida a 31 de Dezembro último.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 70.º
 
-1 - As juntas médicas a que este estatuto se refere para efeitos de declaração de incapacidade temporária ou definitiva do pessoal que continue subordinado ao regime estatuído pelo [Decreto n.º 41688](https://diariodarepublica.pt/dr/detalhe/decreto/41688-1958-353331), de 7 de Junho de 1958, com as alterações que lhe foram introduzidas pelas Portarias n.os [279/76](https://diariodarepublica.pt/dr/detalhe/portaria/279-1976-427453) e [663/76](https://diariodarepublica.pt/dr/detalhe/portaria/663-1976-407135), respectivamente de 3 de Maio e de 10 de Novembro, serão designadas pelo conselho de gestão.
+(Revogado.)
 
-2 - Das decisões destas juntas cabe recurso para o Secretário de Estado da Marinha Mercante, no prazo de oito dias, a contar da data da sua notificação ao interessado.
-
-3 - A nova junta será nomeada também pelo conselho de gestão, não podendo, no entanto, ser constituída por nenhum dos membros que formaram a que anteriormente deu o parecer.
-
-4 - Da decisão homologatória do parecer da segunda junta não há recurso.
-
-5 - As despesas com a segunda junta serão por conta do Instituto; mas, no caso de não ser concedido provimento ao recurso, o recorrente reembolsará o INPP das despesas efectuadas.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 71.º
 
-1 - O pessoal no activo usará como documento de identificação, no exercício das suas funções, um cartão de identidade mandado passar pelo INPP e assinado pelo presidente do conselho de gestão, conforme anexo a este estatuto.
+(Revogado.)
 
-2 - As fotografias devem ser actuais, obtidas em tons de preto e branco e representar o interessado em posição que não seja de perfil.
-
-Não são admitidas fotografias com óculos de lentes de cor escura, salvo se o interessado provar a necessidade premente do seu uso.
-
-3 - Os cartões serão substituídos sempre que haja mudança dos elementos de identificação dos seus titulares.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 72.º
 
-As alterações e os casos omissos deste estatuto serão regulados por portaria do Secretário de Estado da Marinha Mercante.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 73.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ## ANEXO 1 — Modelo de cartão de identidade
 
@@ -2322,255 +1780,157 @@ Nota: 1 - No exame audiométrico o deficit global não deve exceder 40%.
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 2.º
 
-1 - Considera-se infracção disciplinar o facto voluntário praticado por qualquer dos indivíduos referidos no artigo anterior com violação das disposições deste Estatuto.
+(Revogado.)
 
-2 - A violação de deveres é punível, quer consista em acção, quer em omissão, independentemente de ter produzido resultado perturbador do serviço.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 3.º
 
-1 - O direito de exigir a responsabilidade disciplinar prescreve passados seis meses sobre a data em que a falta tiver sido cometida, salvo o disposto no número seguinte.
+(Revogado.)
 
-2 - Se o facto qualificado de infracção disciplinar for também considerado infracção penal e os de prescrição do procedimento criminal forem superiores a seis meses, aplicar-se-ão ao procedimento disciplinar os prazos estabelecidos ao Código Penal.
-
-3 - Interrompem a prescrição o processo de sindicância aos serviços e o mero processo de averiguações e ainda os processos de inquérito e disciplinar, mesmo que não tenham sido dirigidos contra o trabalhador a quem a prescrição interesse, mas nos quais venham a apurar-se faltas de que seja responsável.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 4.º
 
-1 - Os indivíduos abrangidos por este regulamento ficam sujeitos ao poder disciplinar desde a data da posse e se esta não for exigida desde a data de entrada ao serviço.
+(Revogado.)
 
-2 - A circunstância de deixarem o serviço ou mudarem a situação não impede que sejam punidos pelas faltas cometidas durante o tempo em que desempenharam funções. As penas dos n.os 3 e 7 do artigo 11.º deste regulamento serão sempre executadas desde que o infractor regresse ao serviço.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 5.º
 
-1 - O despacho de pronúncia com trânsito em julgado determina a suspensão do exercício até decisão final; todavia, enquanto o indivíduo se mantiver nesta situação ser-lhe-á apenas abonado o seu vencimento base.
+(Revogado.)
 
-2 - A perda de vencimento que resultar do disposto no número anterior será reparada somente no caso de absolvição.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 6.º
 
-Quando a infracção disciplinar for também de carácter penal, observar-se-á sempre o disposto no artigo 164.º do Código de Processo Penal.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 7.º
 
-Em tudo o que não estiver regulado no presente regulamento, quanto à suspensão ou demissão, por efeito de pena imposta nos tribunais competentes, são aplicáveis subsidiariamente as disposições do Código Penal e do Código de Processo Penal.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 8.º
 
-1 - O dever que incumbe ao pessoal de cumprir as ordens dadas pelos órgãos do Instituto com funções directivas em objecto de serviço e forma legal não exclui o direito de representação por parte de quem as receba, desde que se observe o disposto nos números seguintes.
+(Revogado.)
 
-2 - Se for dada ordem de carácter excepcional, pode ser solicitado que, para salvaguarda da responsabilidade, seja confirmada por escrito, nos seguintes casos:
-
-a) Quando haja motivo plausível para se duvidar da sua autenticidade;
-
-b) Quando seja ilegal;
-
-c) Quando, com evidência, se mostre que foi dada por virtude de qualquer procedimento doloso ou errada informação;
-
-d) Quando da sua execução se devam recear graves males que seja de supor não foram previstos por quem deu a ordem.
-
-3 - Se o pedido de confirmação da ordem por escrito não for satisfeito dentro do tempo em que, sem prejuízo, o cumprimento desta possa ser demorado, o executante comunicará, também por escrito, a quem deu a ordem, os termos exactos da ordem recebida e do pedido formulado, bem como a não satisfação deste, executando a ordem seguidamente.
-
-4 - Se a ordem não puder estar sujeita a nenhuma demora, ou se for ordenado o seu imediato cumprimento, o executante fará a comunicação referida no número anterior logo depois de executada a ordem.
-
-5 - Considerando ilegal a ordem recebida ou que da sua execução se devem recear graves males, fará o executante expressamente menção destes factos ao pedir a sua confirmação por escrito ou na declaração que se seguir ao cumprimento.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 9.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 10.º
 
-1 - A todos os indivíduos abrangidos por este Estatuto assiste o direito de queixa contra quem tiver emitido a ordem, quando por este for praticado qualquer acto de que resulte para o destinatário lesão de direitos consignados nas leis e nos regulamentos.
+(Revogado.)
 
-2 - A queixa será singular e apresentada por escrito. Da decisão cabe recurso, nos termos do que, para o efeito, se dispõe neste capítulo.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO II — Penas disciplinares e seus efeitos
 
 ###### Artigo 11.º
 
-As penas aplicáveis ao pessoal abrangido por este regulamento, pelas infracções disciplinares que cometer, são:
+(Revogado.)
 
-1.º Advertência;
-
-2.º Repreensão verbal ou por escrito;
-
-3.º Multa correspondente aos vencimentos de um a cinco dias;
-
-4.º Suspensão de exercício e vencimentos até sessenta dias;
-
-5.º Suspensão de exercício e vencimentos de mais de sessenta dias até cento e oitenta dias;
-
-6.º Aposentação compulsiva;
-
-7.º Demissão.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 12.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 13.º
 
-1 - Só as penas disciplinares dos n.os 3 e seguintes do artigo 11.º serão registadas no respectivo processo individual.
+(Revogado.)
 
-2 - As amnistias não destroem os efeitos já produzidos pela aplicação da pena nem determinam, relativamente ao castigo aplicado, o cancelamento do registo, que servirá para apreciação da conduta do indivíduo, mas nele se averbará que, por virtude da amnistia, a pena deixou de produzir no futuro os efeitos legais.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 14.º
 
-1 - As penas disciplinares têm unicamente os efeitos declarados no número seguinte.
+(Revogado.)
 
-2 - Os efeitos das penas são os seguintes:
-
-a) As penas de suspensão de exercício e vencimentos implicam:
-
-1.º A perda de um dia por cada três dias de duração da suspensão, até ao máximo de dois terços no tempo de férias, correspondente ao período em que foi aplicada a pena;
-
-2.º A perda, para efeitos de antiguidade, de tantos dias quantos tenha durado a suspensão;
-
-3.º A perda das remunerações certas ordinárias por todo o tempo que durar a suspensão;
-
-b) A pena de demissão importa a perda de todos os direitos do trabalhador e a impossibilidade de ser readmitido nos quadros do INPP.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 15.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 16.º
 
-Para o pessoal aposentado ou por qualquer outra razão fora da actividade do serviço, as penas de multa e suspensão serão substituídas pela perda da pensão ou vencimento de qualquer natureza por igual tempo.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO III — Competência disciplinar
 
 ###### Artigo 17.º
 
-1 - As penas dos n.os 1, 2 e 3 do artigo 11.º são da competência do chefe dos serviços administrativos centrais e dos chefes dos departamentos de pilotagem quanto ao pessoal deles dependente; e do presidente do conselho de gestão depois de ouvido este conselho, quanto ao chefe dos serviços administrativas centrais e aos chefes dos departamentos de pilotagem.
+(Revogado.)
 
-2 - As penas dos n.os 4 e 5 do artigo 11.º são da competência do presidente do conselho de gestão, depois de ouvido este conselho.
-
-3 - As penas de aposentação compulsiva e de demissão são da competência do MTC, precedendo parecer do conselho de gestão.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO IV — Factos a que são aplicáveis as diferentes penas disciplinares
 
 ###### Artigo 18.º
 
-As penas dos n.os 1 e 2 do artigo 11.º serão aplicadas por faltas leves de serviço que não tragam prejuízo para este ou terceiros.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 19.º
 
-1 - A pena do n.º 3 do artigo 11.º será aplicada, em geral, nos casos de negligência dos deveres profissionais.
+(Revogado.)
 
-2 - Esta pena será especialmente aplicada ao pessoal:
-
-a) Que desobedecer às ordens sem consequências importantes;
-
-b) Que cometer faltas de respeito;
-
-c) Que pelo defeituoso cumprimento ou desconhecimento das disposições legais e regulamentares ou das ordens demonstrar falta de zelo pelo serviço;
-
-d) Que não compareça, a tempo e horas, onde e nas ocasiões que lhe competir estar presente, havendo resultado prejuízo para o serviço ou para terceiros.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 20.º
 
-1 - As penas dos n.os 4 e 5 do artigo 11.º são em geral aplicáveis nos seguintes casos:
+(Revogado.)
 
-a) De negligência grave e demonstrativa de falta de zelo pelo serviço;
-
-b) De erro de ofício;
-
-c) De procedimento que atente gravemente contra a dignidade e prestígio do indivíduo ou da função.
-
-2 - A pena referida no n.º 4 do artigo 11.º será especialmente aplicável ao pessoal:
-
-a) Que der faltas de que trata o artigo 53.º do estatuto do pessoal e passíveis de procedimento disciplinar;
-
-b) Que, por falta de cuidado, der informação errada em matéria de serviço, de que resulte prejuízo para o Estado, para o serviço ou para terceiros;
-
-c) Que cometer inconfidência se do facto resultar prejuízo para o Estado, para o serviço ou para terceiros;
-
-d) Que demonstrar falta de conhecimento de normas essenciais reguladoras do serviço, da qual haja resultado prejuízo para o Estado, para o serviço ou para terceiros;
-
-e) Que abandonar o serviço para que for nomeado, sem motivo justificativo e sem comunicação superior.
-
-3 - A pena referida no n.º 5 do artigo 11.º será especialmente aplicável ao pessoal:
-
-a) Que desobedecer de modo escandaloso ou em público às ordens superiores;
-
-b) Que se apresentar ao serviço em estado de embriaguez;
-
-c) Que agredir, injuriar ou desrespeitar gravemente alguém em serviço;
-
-d) Que incitar à indisciplina ou à insubordinação os seus camaradas;
-
-e) Que praticar durante o serviço actos de grave insubordinação ou de indisciplina;
-
-f) Que receber fundos, cobrar receitas ou recolher verbas de que não preste contas nos prazos legais ou que não sejam da sua competência.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 21.º
 
-1 - A pena de aposentação compulsiva só pode ser aplicada aos indivíduos que reúnam os requisitos regulamentares para lhes ser concedida a aposentação, dispensando-se, porém, o da incapacidade física.
+(Revogado.)
 
-2 - A pena a que se refere o número anterior será aplicada nos seguintes casos:
-
-a) Quando se der segunda reincidência em qualquer dos casos citados no n.º 3 do artigo anterior;
-
-b) Quando em processo disciplinar se julgar provada definitivamente a incompetência profissional ou a incapacidade moral do indivíduo;
-
-c) Quando em processo disciplinar se verificar que o indivíduo é alcoólico incorrigível.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 22.º
 
-A pena de demissão será sempre aplicada ao pessoal:
+(Revogado.)
 
-a) Que esteja em qualquer das situações definidas no n.º 2 do artigo anterior e não reúna os requisitos legais para aposentação;
-
-b) Que abandonar o lugar.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 23.º
 
-Na aplicação das penas atender-se-á aos critérios gerais enunciados nos artigos precedentes, à natureza do serviço e, de um modo geral, a todas as circunstâncias em que a infracção tiver sido cometida.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 24.º
 
-São circunstâncias atenuantes especiais da infracção disciplinar:
+(Revogado.)
 
-a) A prestação de serviço com exemplar comportamento e zelo;
-
-b) A confissão espontânea da infracção;
-
-c) A provocação.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 25.º
 
-1 - São circunstâncias agravantes especiais da infracção disciplinar:
+(Revogado.)
 
-a) A vontade determinada de, pela conduta seguida, produzir resultados prejudiciais ao serviço ou ao interesse geral, independentemente de estes se verificarem;
-
-b) A produção efectiva de resultados prejudiciais ao serviço ou ao interesse geral, nos casos em que o indivíduo devesse prever essa consequência como efeito necessário da sua conduta;
-
-c) A premeditação;
-
-d) A combinação com outros indivíduos para a prática da infracção;
-
-e) O facto de ser cometida durante o cumprimento da pena disciplinar;
-
-f) A reincidência;
-
-g) A acumulação de infracções.
-
-2 - A premeditação consiste no desígnio formado vinte e quatro horas antes, pelo menos, da prática da infracção.
-
-3 - A acumulação dá-se quando duas ou mais infracções são cometidas na mesma ocasião ou quando uma é cometida antes de ter sido punida a anterior.
-
-4 - A reincidência dá-se quando a infracção é cometida antes de passado um ano sobre o dia em que tiver findado o cumprimento de pena imposta por virtude de infracção anterior.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO V — Processo disciplinar
 
@@ -2578,43 +1938,39 @@ g) A acumulação de infracções.
 
 ###### Artigo 26.º
 
-1 - O processo disciplinar pode ser comum ou especial.
+(Revogado.)
 
-O processo especial aplica-se aos casos expressamente designados na lei; o processo comum a todos os casos a que não corresponde processo especial.
-
-2 - Os processos especiais regulam-se pelas disposições que lhe são próprias e, na parte nelas não previstas, pelas disposições respeitantes ao processo comum.
-
-3 - Nos casos omissos pode o instrutor adoptar as providências que se afigurarem convenientes para a descoberta da verdade.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 27.º
 
-1 - O processo disciplinar é de investigação sumária, devendo remover-se os obstáculos contrários ao seu rápido e regular andamento.
+(Revogado.)
 
-2 - A forma dos actos, quando não esteja expressamente regulada na lei, ajustar-se-á ao fim que se tem em vista e limitar-se-á ao indispensável para atingir essa finalidade.
-
-3 - A entidade que proceder à investigação em processo disciplinar poderá ordenar oficiosamente as diligências e actos necessários à descoberta da verdade.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 28.º
 
-1 - O processo disciplinar é de natureza secreta. O arguido ou o seu representante legal, porém, pode examinar o processo, sob condição de não divulgar o que dele conste.
+(Revogado.)
 
-2 - O exame dos autos será, também, facultado aos autores da participação.
-
-3 - Só será permitida a passagem de certidões quando destinadas à defesa de legítimos interesses em face de requerimento especificando o fim a que se destinam.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 29.º
 
-As penas dos n.os 3 e seguintes do artigo 11.º serão sempre aplicadas precedendo apuramento dos factos em processo disciplinar.
+(Revogado.)
 
-As dos n.os 1 e 2 serão aplicadas sem dependência de processo, mas com audiência, mesmo verbal, do arguido, podendo, no entanto, a pedido deste, ser reduzido a escrito o seu depoimento.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 30.º
 
-A instauração de processos disciplinares para averiguação dos factos a que correspondem as penas dos n.os 4 e seguintes do artigo 11.º é da competência do presidente do conselho de gestão, dos chefes dos departamentos de pilotagem e do chefe do departamento dos serviços administrativos centrais, relativamente ao pessoal deles dependente, mediante participação dos interessados.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 31.º
 
-Em processo disciplinar, a falta de audiência do arguido é fundamento de nulidade de todo o processo.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 #### SECÇÃO II — Processo disciplinar comum
 
@@ -2622,293 +1978,273 @@ Em processo disciplinar, a falta de audiência do arguido é fundamento de nulid
 
 ###### Artigo 32.º
 
-1 - A instrução do processo disciplinar deve iniciar-se no prazo fixado pela entidade que o mandou instaurar e ultimar-se no prazo de trinta dias, só podendo ser excedido este prazo mediante despacho da entidade que tiver de proferir a decisão.
+(Revogado.)
 
-2 - Os instrutores devem informar a entidade que os tiver nomeado da data em que derem início à instrução do processo.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### Subsecção II — Instrução do processo até à acusação
 
 ###### Artigo 33.º
 
-A entidade que tiver conhecimento de infracção disciplinar deverá logo participá-la, se não for competente para instaurar o processo disciplinar.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 34.º
 
-Para todas as infracções cometidas por um mesmo indivíduo será organizado um só processo, mas, tendo-se instaurado diversos, serão apensados ao da infracção mais grave e, no caso de a gravidade ser a mesma, àquele que primeiro tiver sido instaurado.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 35.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 36.º
 
-1 - O instrutor do processo será nomeado, em cada caso, pelo presidente do conselho de gestão.
+(Revogado.)
 
-2 - O instrutor pode escolher secretário da sua confiança, cuja nomeação compete à entidade que o nomeou e bem assim requisitar a colaboração de técnicos.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 37.º
 
-Compete aos instrutores tomar, desde a sua nomeação, as providências precisas para que se não possa alterar o estado dos factos e dos documentos ou livros em que se descobriu ou se presuma existir alguma irregularidade, nem subtrair as provas desta.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 38.º
 
-1 - O instrutor fará autuar a participação e procederá à investigação, ouvindo o participante, as testemunhas por este indicadas e as mais que julgar necessárias, procedendo a exames e mais diligências que possam esclarecer a verdade e fazendo juntar aos autos o certificado do registo disciplinar do arguido.
+(Revogado.)
 
-2 - O instrutor poderá ouvir o arguido, sempre que o entender conveniente, até se ultimar a instrução, e poderá também acareá-lo com as testemunhas ou com os participantes.
-
-3 - Durante a fase da instrução do processo poderá o participante ou o arguido solicitar do instrutor que promova quaisquer diligências para que tenha competência; mas o instrutor somente dará seguimento ao pedido quando entenda que essas diligências poderão contribuir para a descoberta da verdade, juntando, porém, aos autos todos os papéis recebidos do participante ou do arguido que respeitem ao processo.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 39.º
 
-1 - Na fase de instrução do processo o número de testemunhas é ilimitado.
+(Revogado.)
 
-2 - Quando o instrutor julgue suficiente a prova produzida, poderá indeferir o requerimento para se inquirirem novas testemunhas.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 40.º
 
-Concluída a investigação, se o instrutor entender que os factos constantes dos autos não constituem infracção disciplinar, que não foi o arguido o agente da infracção ou que não é de exigir responsabilidade disciplinar por virtude de prescrição ou outro motivo, elaborará no prazo de três dias o seu relatório e remetê-lo-á imediatamente com o respectivo processo à entidade que o tiver mandado instaurar, propondo que ele se arquive.
+(Revogado.)
 
-No caso contrário, deduzirá no prazo de cinco dias a acusação, articulando, com a possível e necessária discriminação, as faltas que reputar averiguadas, com referência aos preceitos legais infringidos.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### Subsecção III — Defesa do arguido
 
 ###### Artigo 41.º
 
-1 - Da acusação extrair-se-á cópia no prazo de quarenta e oito horas, a qual será imediatamente entregue ou remetida pelo correio, conforme for mais rápido e eficiente, marcando-se ao arguido um prazo entre três e quinze dias, para apresentar a sua defesa escrita.
+(Revogado.)
 
-2 - Quando o processo seja complexo, pelo número e natureza das infracções ou por abranger vários arguidos, poderá o instrutor conceder maior prazo, depois de autorizado pela entidade que mandou instaurar o processo.
-
-3 - A remessa pelo correio da referida cópia será feita com aviso de recepção para a sede do departamento a que pertence, se o arguido estiver ao serviço; de contrário, será endereçada para a sua residência.
-
-4 - Respeitar-se-á a escolha de domicílio feita pelo arguido para receber as notificações.
-
-5 - As notificações não deixam de produzir efeito pelo facto de os papéis serem devolvidos ou não vir assinado o aviso postal, uma vez que a remessa seja expedida para o domicílio necessário ou escolhido, considerando-se feitas na data da respectiva devolução.
-
-6 - Se o arguido se tiver ausentado do país continental ou de qualquer das regiões autónomas ou se for desconhecida a localidade onde se encontra, será notificado por éditos afixados na porta do departamento a que pertence. O edital conterá um resumo da acusação, indicando ainda o prazo da defesa, que será fixado entre trinta e sessenta dias.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 42.º
 
-1 - Se o arguido estiver impossibilitado de organizar a sua defesa em virtude de anomalia mental ou física, ou por motivo de doença e se não tiver constituído advogado, o instrutor imediatamente lhe nomeará um curador, preferindo a pessoa a quem competiria a tutela no caso de interdição, segundo a ordem estabelecida no Código Civil.
+(Revogado.)
 
-2 - Esta nomeação é restrita ao processo disciplinar, podendo o curador usar de todos os meios de defesa facultados aos arguidos.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 43.º
 
-1 - Durante o prazo para a apresentação de defesa pode o arguido ou o seu representante legal examinar o processo, o qual apenas a este poderá ser confiado para exame em casa.
+(Revogado.)
 
-2 - A resposta deve ser assinada pelo arguido ou pelo seu representante legal e será apresentada no local onde o processo tiver sido instaurado.
-
-3 - Deve o arguido, com a resposta, apresentar o rol das testemunhas e juntar documentos, requerendo também quaisquer diligências.
-
-4 - As testemunhas só podem depor sobre factos para que forem precisamente indicadas.
-
-5 - A falta de resposta dentro do prazo marcado vale como efectiva audiência do arguido para todos os efeitos legais.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 44.º
 
-Na resposta deve o arguido expor com clareza e concisão os factos e as razões da sua defesa.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 45.º
 
-1 - O instrutor deverá inquirir as testemunhas e reunir os demais elementos de prova oferecidos pelo arguido no prazo máximo de sessenta dias, podendo ser prorrogado quando as circunstâncias o exijam.
+(Revogado.)
 
-2 - Finda a produção da prova oferecida pelo arguido, podem ainda ordenar-se, em despacho fundamentado, novas diligências que se tornem indispensáveis para completo esclarecimento da verdade.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### Subsecção IV — Decisão disciplinar e sua execução
 
 ###### Artigo 46.º
 
-1 - Finda a instrução do processo, o instrutor elaborará no prazo de cinco dias um relatório completo e conciso, donde conste a existência material das faltas, suas qualificação e gravidade, importâncias que porventura haja a repor e seu destino, e bem assim a pena que entender justa ou a proposta para que os autos se arquivem por ser insubsistente a acusação.
+(Revogado.)
 
-2 - A entidade a quem incumbir a decisão poderá, quando a complexidade do processo o exigir, prorrogar o prazo fixado no corpo deste artigo.
-
-3 - O processo, depois de relatado, será remetido no prazo de vinte e quatro horas à entidade que o tiver mandado instaurar, a qual, se não for competente para decidir, o enviará dentro de cinco dias a quem deva proferir a decisão.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 47.º
 
-1 - A entidade competente examinará e decidirá o processo, concordando ou não com as conclusões do relatório, podendo ordenar novas diligências dentro do prazo que marcar.
+(Revogado.)
 
-2 - A entidade que decidir o processo fundamentará sempre a sua decisão quando discordar da proposta formulada no relatório do instrutor.
-
-3 - A decisão será notificada ao arguido, observando-se o disposto no artigo 41.º
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 48.º
 
-As penas disciplinares começam a produzir os seus efeitos legais no próprio momento da notificação do arguido ou, não podendo ser notificado, dez dias após a afixação do edital.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 49.º
 
-As penas disciplinares podem ser suspensas, nos termos gerais de direito.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 #### SECÇÃO III — Processo de inquérito e de sindicância
 
 ###### Artigo 50.º
 
-1 - O presidente do conselho de gestão pode ordenar inquéritos ou sindicâncias aos serviços do INPP.
+(Revogado.)
 
-2 - O inquérito tem o fim de apurar factos determinados; a sindicância destina-se a uma averiguação geral acerca do funcionamento do serviço.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 51.º
 
-A escolha e nomeação dos inquiridores ou dos sindicantes e dos seus secretários nos processos ordenados nos termos do artigo anterior será feita pelo presidente do conselho de gestão.
+(Revogado.)
 
-###### Artigo 52.º — A instrução dos processos de inquérito ou sindicância ordenados nos termos do artigo 50.º regem-se na parte aplicável, pelo disposto no artigo 38.º
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
+
+###### Artigo 52.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 53.º
 
-1 - Se o processo for de sindicância, deve o sindicante, logo que a ele dê início, fazê-lo constar por anúncios publicados em um ou dois jornais da localidade, havendo-os, e por meio de editais, cuja afixação requisitará às autoridades administrativas ou policiais, a fim de que toda a pessoa que tenha razão de queixa ou de agravo contra o regular funcionamento dos serviços sindicados se apresente a ele, sindicante, para os fins convenientes, no prazo designado.
+(Revogado.)
 
-2 - A publicação dos anúncios pela imprensa é obrigatória para os periódicos a que forem remetidos, sob pena de desobediência qualificada, e a despesa a que der causa será documentada pelo sindicante, para efeitos de pagamento.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 54.º
 
-1 - Concluída a instrução do processo, deve o inquiridor ou o sindicante elaborar, no prazo de cinco dias, o seu relatório, que remeterá imediatamente ao conselho de gestão, salvo se houver motivo para a conversão do processo em disciplinar.
+(Revogado.)
 
-2 - O prazo fixado neste artigo pode ser prorrogado pelo conselho de gestão quando a complexidade do processo o justifique.
-
-3 - O processo de inquérito ou de sindicância constituirá a fase acusatória do processo disciplinar, quando o instrutor deduzir, nos termos e dentro do prazo referido na parte final do artigo 40.º, a acusação do arguido ou arguidos, seguindo-se os demais termos do processo disciplinar.
-
-4 - A instauração dos processos disciplinares a que derem lugar as sindicâncias ou inquéritos fica dependente de deliberação do conselho de gestão.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 #### SECÇÃO IV — Processo por abandono de lugar e por falta de assiduidade
 
 ###### Artigo 55.º
 
-Sempre que um trabalhador deixe de comparecer ao serviço durante cinco dias, depois de ter manifestado a intenção de abandonar o cargo, ou faltar durante trinta dias úteis seguidos e sem justificação, será o facto comunicado pelos responsáveis directos pelo sector respectivo ao conselho de gestão, que mandará levantar auto de abandono de lugar.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 56.º
 
-A presunção de abandono de lugar, constituída pelos factos a que se refere a parte final do artigo anterior, só pode ser destruída após o levantamento do auto, por meios julgados capazes de justificar as faltas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 57.º
 
-Será levantado auto por falta de assiduidade ao trabalhador que, dentro do mesmo ano civil, der trinta dias de faltas, interpoladas, não justificadas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 58.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 #### SECÇÃO V — Recursos
 
 ###### Artigo 59.º
 
-1 - Da decisão proferida em processo disciplinar pode caber recurso hierárquico e recurso contencioso.
+(Revogado.)
 
-2 - O recurso contencioso só cabe das decisões condenatórias do Ministro dos Transportes e Comunicações e é regulado pela lei em vigor.
-
-3 - Pode recorrer-se hierarquicamente das deliberações do conselho de gestão que não sejam de mero expediente.
-
-4 - Podem interpor este recurso o arguido, o participante e o instrutor do processo.
-
-5 - O recurso hierárquico interpõe-se directamente para o Ministro dos Transportes e Comunicações no prazo de cinco dias a contar da data em que o arguido tenha sido notificado do despacho, ou no prazo de quinze dias a contar da afixação de edital, nos termos do artigo 48.º, sendo apenas admissível a prova por documentos. Na data em que se fizer a notificação ao arguido, deverá avisar-se dessa notificação o instrutor e também o participante, se tiver requerido no processo que o aviso lhe seja feito.
-
-6 - Se o arguido não tiver sido notificado ou se a pena não tiver sido anunciada em edital, nos termos do número anterior, o prazo conta-se a partir da data em que o arguido teve conhecimento do despacho.
-
-7 - A interposição de recurso hierárquico suspende a execução da decisão condenatória e devolve ao Ministro dos Transportes e Comunicações a competência para decidir definitivamente, podendo este mandar proceder a novas diligências e manter, substituir, agravar, diminuir ou anular a pena.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 60.º
 
-Com o requerimento em que interponham o recurso poderão os recorrentes juntar documentos que entendam convenientes e que não pudessem ser utilizados antes, devendo o Ministro dos Transportes e Comunicações, quando o recurso envolver novos meios de prova, mandar ouvir o arguido, se for recorrido, no prazo de cinco a dez dias.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 #### SECÇÃO VI — Revisão dos processos disciplinares
 
 ###### Artigo 61.º
 
-1 - A revisão dos processos disciplinares é admitida quando se verifiquem circunstâncias ou meios de prova susceptíveis de demonstrar a inexistência dos factos e que não pudessem ter sido utilizados pelo arguido no processo disciplinar.
+(Revogado.)
 
-2 - A revisão deverá ser pedida no prazo de cento e oitenta dias, contados da data em que o arguido obteve a possibilidade de invocar as circunstâncias ou os meios de prova alegados como fundamento da revisão.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 62.º
 
-1 - O interessado na revisão de um processo disciplinar apresentará requerimento nesse sentido ao Ministro dos Transportes e Comunicações.
+(Revogado.)
 
-2 - O requerimento indicará as circunstâncias ou meios de prova, não considerados no processo disciplinar, que ao requerente pareçam justificar a revisão e será instruído com os documentos indispensáveis.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 63.º
 
-1 - Recebido o requerimento, o Ministro dos Transportes e Comunicações resolverá sobre se deve ou não ser concedida a revisão do processo.
+(Revogado.)
 
-2 - Do despacho que não conceder a revisão cabe recurso contencioso, nos termos gerais de direito.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 64.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 65.º
 
-A revisão do processo não suspende o cumprimento da pena.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 66.º
 
-1 - Julgando-se procedente a revisão, será revogada a decisão proferida no processo previsto.
+(Revogado.)
 
-2 - A revogação a que se refere este artigo produzirá os seguintes efeitos:
-
-a) Cancelamento do registo da pena no processo individual do trabalhador;
-
-b) Anulação dos efeitos da pena.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO VI — Recompensas
 
 ###### Artigo 67.º
 
-As recompensas ao pessoal abrangido por este Estatuto são as seguintes:
+(Revogado.)
 
-a) Licenças sem perda de vencimentos até trinta dias;
-
-b) Louvores;
-
-c) Recompensas pecuniárias.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 68.º
 
-1 - A competência para a concessão das recompensas pertence ao conselho de gestão, sob proposta dos respectivos departamentos.
+(Revogado.)
 
-2 - As recompensas serão registadas em livro próprio existente na secretaria do Instituto e a cópia da acta da sua atribuição será enviada ao departamento respectivo, que dela fará registo, também, em livro próprio e a afixará em local destinado a esse fim.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO VII — Disposições finais
 
 ###### Artigo 69.º
 
-1 - A inobservância dos prazos estabelecidos neste Estatuto será punida com a multa de 50$00 a 500$00 e, no caso de reincidência, com o dobro da que primeiro tiver sido aplicada.
+(Revogado.)
 
-2 - A multa referida neste artigo será aplicada sem mais formalidades pela entidade que decidir o processo e na própria decisão em que este for julgado.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 70.º
 
-1 - As multas aplicadas nos termos deste regulamento constituem receitas do Instituto.
+(Revogado.)
 
-2 - Se o arguido, condenado em multa, despesas ou na reposição de qualquer quantia, não pagar o que for devido no prazo de trinta dias a contar da notificação, ser-lhe-á a importância respectiva descontada nos vencimentos ou pensão que haja de receber, em prestações mensais não excedentes à quinta parte dos vencimentos ou pensão, segundo decisão da entidade que julgar o processo, que, para isso, fixará o montante de cada uma das prestações.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 71.º
 
-As recompensas e punições, com excepção das advertências e repreensões, serão transcritas nos livros de assentamentos, nos precisos termos em que forem redigidos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 72.º
 
-1 - As penas serão canceladas depois de decorrido o tempo e verificadas as condições seguintes:
+(Revogado.)
 
-Multa - três anos depois de ter sido aplicada se, durante esse tempo, o punido não tiver sofrido outra pena;
-
-Suspensão - cinco anos depois de ter sido aplicada se, durante esse tempo, o punido não tiver sofrido outra pena.
-
-2 - Salvo nos casos previstos neste artigo, as penas averbadas só podem ser anuladas por efeito de recurso atendido.
-
-3 - Em qualquer dos casos previstos neste artigo averbar-se-á no registo correspondente uma contranota anulando o castigo e indicando o motivo da anulação ou da alteração, no caso de recurso atendido.
-
-4 - Nas notas extraídas dos registos não se fará menção dos castigos anulados nem da contranota que os anulou.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 73.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ## ANEXO IV — Regulamento de Prestação de Serviços e Taxas
 
@@ -2918,119 +2254,103 @@ Suspensão - cinco anos depois de ter sido aplicada se, durante esse tempo, o pu
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 2.º
 
-A assistência às embarcações de que trata o artigo anterior faz-se com a presença de piloto a bordo, podendo, no entanto, fazer-se por sinais ou outros meios de comunicação e orientação, sempre que o embarque do piloto não seja possível devido às condições do mar.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 3.º
 
-A pilotagem compreende a assistência às embarcações:
+(Revogado.)
 
-a) Na navegação na entrada e saída de portos e barras;
-
-b) Na navegação em calas e canais no interior dos portos;
-
-c) Na navegação dentro e fora dos portos para experiências de máquinas ou outros aparelhos, provas de velocidade, regulação, calibração e experiências de quaisquer auxiliares de navegação;
-
-d) Na navegação no interior dos portos;
-
-e) Nas manobras de fundear;
-
-f) Nas manobras de atracar e desatracar a (de) cais, muralhas, pontes, pontões ou outras embarcações;
-
-g) Nas manobras de correr ao longo do cais, muralhas ou pontes, quando impliquem mudança de cabos nos cabeços sem deixar de ter contacto com a terra;
-
-h) Nas manobras de amarrar e desamarrar a (de) dois ferros, bóias, estacas e tirar voltas a amarras;
-
-i) Nas manobras de entrada e saída de docas secas, diques ou planos inclinados;
-
-j) Nas manobras para encalhar e desencalhar em praias ou varadouros;
-
-k) Nas manobras de arriar e rondar cabos a uma embarcação para manobra de outra que esteja por dentro ou fora desta, sem fazer qualquer movimento interior;
-
-l) Nas manobras de colocar ou suspender amarrações fixas com ou sem bóias;
-
-m) Nas manobras para rocegar amarras ou ferros;
-
-n) Nas manobras para espiar âncoras ou amarras;
-
-o) Na navegação e em manobras fora ou dentro dos limites da área de pilotagem em serviços não especificados que impliquem a presença de piloto a bordo.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 4.º
 
-1 - Considera-se navegação na entrada de portos ou barras, a que se refere a alínea a) do artigo anterior, a efectuada desde o momento em que a embarcação entra nos limites da área de pilotagem estabelecidos no artigo 18.º deste Regulamento até às zonas de fundeadouro no interior do porto.
+(Revogado.)
 
-2 - Considera-se navegação na saída de portos ou barras, a que se refere a alínea a) do artigo anterior, a efectuada desde as zonas de fundeadouro no interior do porto até se encontrar em franquia fora da área obrigatória de pilotagem.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 5.º
 
-Considera-se navegação em calas ou canais no interior dos portos, a que se refere a alínea b) do artigo 3.º, a efectuada para acesso a fundeadouros, cais, muralhas, pontes ou pontões, desde o momento em que a embarcação deixe a zona dos fundeadouros no interior do porto até se encontrar no local do novo fundeadouro ou em frente do local de atracação; ou a navegação em sentido inverso.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 6.º
 
-Considera-se navegação dentro ou fora dos portos para experiências de máquinas ou outros aparelhos, provas de velocidade, regulação, calibração e experiências de quaisquer auxiliares de navegação, a que se refere a alínea c) do artigo 3.º, a efectuada para qualquer destes fins, desde o momento em que a embarcação inicia qualquer das operações acima referidas até o momento em que a termina.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 7.º
 
-Considera-se navegação no interior dos portos, a que se refere a alínea d) do artigo 3.º, a efectuada pelas embarcações, dentro dos limites do porto, desde as zonas de fundeadouro até o local de atracação, ou desde o local de atracação até às zonas de fundeadouro.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 8.º
 
-Considera-se manobra de fundear, a que se refere a alínea e) do artigo 3.º, a efectuada desde que, chegada a embarcação ao local do fundeadouro, é largado o ferro até que este esteja unhado no fundo e a amarra com o comprimento devido.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 9.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 10.º
 
-Considera-se manobra de correr ao longo do cais, muralhas ou pontes, a que se refere a alínea g) do artigo 3.º, a efectuada desde que se muda de cabeço o primeiro cabo até que esteja toda a amarração com volta, no local definitivo, sem que a embarcação deixe de ter contacto com o cais, muralha ou ponte.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 11.º
 
-1 - Considera-se manobra de amarrar a dois ferros, a que se refere a alínea h) do artigo 3.º, a efectuada desde que, chegada a embarcação ao local da amarração, é largado o primeiro ferro até que o último esteja unhado no fundo e as amarras com o comprimento devido.
+(Revogado.)
 
-2 - Considera-se manobra de amarrar a bóias ou estacas, a que se refere a alínea h) do artigo 3.º, a efectuada desde que, chegada a embarcação junto da bóia ou estaca, é passado o primeiro cabo até que esteja passado o último.
-
-3 - Considera-se manobra de desamarrar de dois ferros, a que se refere a alínea h) do artigo 3.º, a efectuada desde que se principia a virar o primeiro ferro até o último estar ao lume de água.
-
-4 - Considera-se manobra de desamarrar de bóias ou estacas, a que se refere a alínea h) do artigo 3.º a efectuada desde que se principia a largar o primeiro cabo da bóia ou estaca até estar largado o último cabo.
-
-5 - Considera-se manobra de tirar voltas a amarras, a que se refere a alínea h) do artigo 3.º, a efectuada desde que se inicia o serviço até as amarras estarem claras e safas e o navio voltar à posição do fundeadouro.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 12.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 13.º
 
-1 - Considera-se manobra para encalhar em praias ou varadouros, a que se refere a alínea j) do artigo 3.º, a efectuada desde que a embarcação se encontre a flutuar em frente ao local de encalhe até que esteja encalhada.
+(Revogado.)
 
-2 - Considera-se manobra para desencalhar de praia ou varadouro, a que se refere a alínea j) do artigo 3.º, a efectuada desde que se iniciam as operações de desencalhe até que a embarcação se encontre a flutuar em frente da mesma praia ou varadouro.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 14.º
 
-Considera-se manobra de arriar ou rondar cabos a uma embarcação para manobra de outra que esteja por dentro ou por fora desta, a que se refere a alínea k) do artigo 3.º, a efectuada desde que se principia a arriar ou a largar o primeiro cabo até que a embarcação volte a estar devidamente amarrada no primitivo local de atracação, sem fazer qualquer movimento interior.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 15.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 16.º
 
-Considera-se manobra para rocegar amarras ou ferros, a que se refere a alínea m) do artigo 3.º, a efectuada desde a hora para que o piloto foi requisitado até terem terminado os trabalhos referentes à recolha do ferro ou amarra ou até ao momento em que o piloto seja dispensado por se desistir do trabalho.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 17.º
 
-Considera-se manobra para espiar âncoras ou amarras, a que se refere a alínea n) do artigo 3.º, a efectuada desde o momento para que foi requisitado o serviço até que o mesmo seja dado por findo.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ### CAPÍTULO II — Serviços e taxas
 
@@ -3040,219 +2360,111 @@ I - Serviços
 
 ###### Artigo 18.º
 
-1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, tanto na navegação de entrada como de saída dos portos e barras, como na navegação e manobras feitas no interior dos portos, nas radas, em águas marítimas e fluviais dos rios e canais e todas as instalações colocadas no espaço marítimo nacional, abrangidas por este Regulamento.
+(Revogado.)
 
-2 - Para efeitos do número anterior, a área ou áreas onde a pilotagem é obrigatória será definida nos artigos 36.º e seguintes deste Regulamento.
-
-3 - Compete ao INPP propor à autoridade marítima as zonas e embarcações em que, para além da obrigatoriedade de pilotagem, é indispensável a presença do piloto a bordo.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 19.º
 
-1 - As requisições de pilotos serão feitas segundo as normas para o efeito, definidas nos artigos 36.º e seguintes deste Regulamento e conterão obrigatoriamente o nome da embarcação, a natureza do serviço pretendido, a data e a hora para que o piloto é requisitado.
+(Revogado.)
 
-2 - O INPP não é responsável pelos prejuízos causados ao navio pela demora em fornecer piloto quando a chegada deste ou a requisição do serviço pretendido não tiver sido anunciada ou feita nos termos regulamentares.
-
-3 - As despesas com a deslocação do piloto de e para a embarcação que o requisitou ou outras, não expressamente previstas noutras disposições deste Regulamento, constituem encargo da embarcação.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 20.º
 
-1 - Uma embarcação, sempre que tenha motivos fortes que o justifique, pode requisitar piloto para ir embarcar noutro porto com o fim de a pilotar na entrada daquele a cujo departamento de pilotagem pertença. A requisição, que terá de mencionar o fundamento do pedido, será satisfeita se o departamento de pilotagem respectivo considerar atendíveis os motivos apresentados e as disponibilidades de pilotos o permitirem.
+(Revogado.)
 
-2 - Terminada a navegação de saída e na impossibilidade de o piloto desembarcar, este poderá seguir viagem, dando do facto conhecimento aos respectivos serviços. O seu desembarque deverá processar-se no porto mais próximo que o permita fazer com segurança.
-
-3 - Em caso de viagem em serviço, ao piloto a bordo da embarcação serão fornecidos alimentação, alojamento e tratamento iguais aos que forem dados aos oficiais da mesma embarcação.
-
-4 - Quando o piloto tiver que se deslocar em serviço de uma embarcação para fora da área de pilotagem do seu departamento, o meio de transporte será de sua escolha e serão de conta da embarcação todas as despesas de deslocação, alojamento e alimentação em 1.ª classe, além de uma compensação diária, determinada pelo INPP, que a embarcação lhe pagará pela sua deslocação, de acordo com tabelas fixadas periodicamente pelo conselho de gestão.
-
-5 - Além das despesas de deslocação referidas no número anterior, será ainda de conta da embarcação o prémio de um seguro de vida a vigorar desde a data da saída do piloto do porto até ao dia do seu regresso, inclusive. Para este efeito, o INPP celebrará contratos com companhias de seguros de modo que baste a informação do nome do piloto e a data do início da viagem para entrar em vigor essa apólice, que cessará quando o INPP informar a companhia de seguros da chegada do piloto.
-
-Em caso de morte do piloto, o valor do seguro será aumentado no subsídio de morte a que se referem os artigos 63.º e seguintes do estatuto do pessoal.
-
-6 - A compensação a que se refere o n.º 4 é contada desde a data da saída do porto a que o piloto pertence até à data da chegada de regresso a este, inclusive.
-
-7 - Além desta compensação, a embarcação pagará ao INPP a importância que estiver estabelecida na respectiva tabela C.
-
-8 - Todo o capitão que, ignorando a vontade do piloto, o force a seguir viagem poderá, consoante o caso, incorrer no pagamento de uma multa, cujo quantitativo será anualmente estabelecido pelo Ministro dos Transportes e Comunicações, sob proposta do conselho de gestão. Da aplicação destas multas caberá recurso, no prazo de cento e oitenta dias, para o Ministro dos Transportes e Comunicações, contados a partir da data da notificação da deliberação.
-
-II - Taxas
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 21.º
 
-1 - O INPP cobra dos navios ou de entidades as seguintes taxas:
+(Revogado.)
 
-a) De pilotagem;
-
-b) De ocupação extraordinária de pilotos;
-
-c) De aluger de material.
-
-2 - Para efeitos de cobrança das taxas de pilotagem referidas em 1, os serviços serão classificados de acordo com as manobras descritas nos artigos 4.º a 17.º deste Regulamento.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 22.º
 
-1 - As taxas a que se refere a alínea a) do artigo anterior são devidas:
+(Revogado.)
 
-a) Por todas as embarcações que, utilizando ou não a pilotagem, entrem ou saiam as barras ou portos, naveguem ou manobrem nas águas marítimas e fluviais das áreas de pilotagem obrigatórias, ainda que só para mudança de fundeadouro ou de local de atracação, e mesmo que a sua deslocação se faça a reboque, com excepção das isenções estabelecidas neste Regulamento;
-
-b) Por todas as entidades que requisitem a assistência dos serviços de pilotagem ou a presença de piloto.
-
-2 - As taxas a que se referem as alíneas b) e c) do artigo anterior são devidas pelas embarcações e entidades mencionadas no número anterior que embarquem ou requisitem a presença a bordo de piloto ou utilizem o material do INPP.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 23.º
 
-1 - As taxas de pilotagem, a que se refere a alínea a) do artigo 21.º, são cobradas em função:
+(Revogado.)
 
-a) Da tonelagem de arqueação bruta, para os navios mercantes;
-
-b) Da tonelagem de deslocamento, para os navios de guerra.
-
-2 - Para efeitos de aplicação da alínea a) do n.º 1 aos casos das alíneas l), m) e n) do artigo 3.º, a tonelagem a considerar é a do maior navio que possa amarrar a essa bóia ou amarração, para o caso da alínea l), ou do navio a que pertencer o ferro ou amarra a rocegar ou a espiar, para o caso das alíneas m) e n). Porém, quando seja desconhecido o navio a que pertence o ferro ou amarra rocegada, a tonelagem será estimada em função das tabelas estabelecidas pelas autoridades marítimas.
-
-3 - As taxas de ocupação extraordinária de pilotos e de aluguer de material, a que se referem as alíneas b) e c) do artigo 21.º, são cobradas em função do tempo de ocupação dos pilotos e do tempo e serviço em que foi utilizado o material.
-
-4 - Quando os documentos das embarcações mencionam mais do que uma tonelagem da mesma espécie, a taxa é sempre cobrada pela tonelagem maior.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 24.º
 
-1 - As taxas de pilotagem a cobrar são as que constam das tabelas A e B anexas a este Regulamento - anexo I - depois de lhes ser aplicado o coeficiente que para cada departamento de pilotagem for estabelecido anualmente por despacho do MTC, sob proposta do INPP.
+(Revogado.)
 
-2 - As taxas de pilotagem que constam da tabela A aplicam-se:
-
-a) Aos casos referidos nas alíneas a) e b) do artigo 3.º;
-
-b) Aos casos referidos na alínea e) do artigo 3.º, só para as embarcações que não entrem no porto e façam fora dele as suas operações comerciais ou outras, ainda que o serviço consista só na indicação do fundeadouro. Nestes casos, não se cobrará a taxa a que se refere a alínea a) do mesmo artigo.
-
-3 - As taxas de pilotagem que constam da tabela B aplicam-se nos casos referidos nas alíneas c), d), e), f), g), h), i), j), k), l), m), n) e o) do artigo 3.º
-
-4 - As taxas de pilotagem que constam da tabela B aplicam-se nos casos referidos na alínea e) do artigo 3.º, quando se trate de embarcações que, entrando no porto, não passem além das zonas de fundeadouro, ou que, não entrando no porto, também não façam fora dele quaisquer operações comerciais, ainda que o serviço consista só na indicação do fundeadouro. No caso referido na última parte deste número, não se cobrará a taxa a que se refere a alínea a) do mesmo artigo.
-
-5 - Não há lugar à cobrança de taxa de pilotagem no caso referido na alínea e) do artigo 3.º, quando a este sucedam imediatamente os casos referidos nas alíneas a), b), c) e d) do mesmo artigo ou ainda quando sejam exclusivamente devidos à má visibilidade ou a fim de dar a volta para aproar à corrente de água para imediatamente a seguir ir atracar, fundear ou amarrar no local que lhe foi destinado, exceptuando os casos referidos no número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 25.º
 
-1 - As taxas de pilotagem que constam da tabela A são reduzidas de 50%:
+(Revogado.)
 
-a) Para as embarcações de guerra nacionais, quando tomem o piloto;
-
-b) Para as embarcações que arribem aos portos para meter combustíveis, mantimentos ou fazer aguada, sem proceder a qualquer outra operação comercial;
-
-c) Nos serviços de pilotagem previstos na alínea b) do artigo 3.º
-
-2 - As taxas de pilotagem que constam da tabela B são reduzidas de 50%:
-
-Para as embarcações de guerra nacionais, quando tomem piloto.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 26.º
 
-São isentas de pagamento da taxa de pilotagem, quando não tomem piloto e ou não utilizem os seus serviços:
+(Revogado.)
 
-a) Os navios de guerra nacionais;
-
-b) As embarcações nacionais de tráfego e pesca local;
-
-c) As embarcações nacionais de pesca do alto e pesca costeira;
-
-d) As embarcações nacionais e estrangeiras de recreio e desporto;
-
-e) As embarcações espanholas, enquanto nos portos espanhóis forem concedidas iguais vantagens às embarcações portuguesas das mesmas tonelagens;
-
-f) Às embarcações nacionais que o INPP conceda tal isenção;
-
-g) Às embarcações que arribem aos portos e neles fundeiem em zona em que não for obrigatória a presença de piloto para essa manobra, desde que o façam para se abrigarem do mau tempo e não tenham qualquer contacto com a terra ou outras embarcações.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 27.º
 
-1 - São isentas do pagamento da taxa de pilotagem:
+(Revogado.)
 
-a) As embarcações nacionais e estrangeiras que arribem aos portos para desembarcar náufragos, tripulantes ou passageiros em perigo de vida ou que precisem de ser socorridos em virtude de desastre sofrido a bordo ou doença grave e apenas se demorem no porto o tempo indispensável para o respectivo desembarque ou assistência médica, não fazendo qualquer outra operação ou serviço;
-
-b) As embarcações propriedade do Estado nacional ou estrangeiro, em missões científicas ou de benemerência internacional, salvo quando o INPP não conceda tal isenção;
-
-c) As embarcações que tenham de mudar de fundeadouro ou de local de acostagem por exclusiva necessidade dos departamentos de pilotagem.
-
-2 - As embarcações referidas nas alíneas a) e b) do número anterior não são isentas da aplicação do artigo 30.º
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 28.º
 
-1 - Os navios de guerra ou propriedade de Estados estrangeiros, desde que não façam operações comerciais, beneficiam de isenção ou redução de taxas de pilotagem nos casos em que estiver estabelecida reciprocidade de tratamento.
+(Revogado.)
 
-2 - Às delegações de pilotagem será dado conhecimento pelo INPP das nações a cujos navios se deve aplicar a doutrina deste artigo e das alterações que se verifiquem.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 29.º
 
-1 - As taxas que constam das tabelas A, B e C são acrescidas das sobretaxas seguintes:
+(Revogado.)
 
-a) 50% de segunda-feira a sexta-feira, entre as 12 e as 13 horas e entre as 17 e as 24 horas, e ao sábado, entre as 12 e as 17 horas;
-
-b) 100% aos domingos e feriados, de segunda-feira a sexta-feira, entre as 0 e as 8 horas, e ao sábado, entre as 0 e as 8 horas e entre as 17 e as 24 horas.
-
-2 - Para os fins do corpo deste artigo, o horário normal fica definido entre as 8 e as 12 horas e entre as 13 e as 17 horas dos dias úteis, de segunda-feira a sexta-feira, e entre as 8 e as 12 horas de sábado.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 30.º
 
-1 - As taxas de ocupação extraordinária de pilotos a cobrar são as que constam de uma tabela C, anexa a este Regulamento - anexo II -, estabelecida pelo INPP depois de lhe ser aplicado o coeficiente determinado anualmente por despacho do MTC, sob proposta do INPP.
+(Revogado.)
 
-2 - As taxas de ocupação extraordinária de pilotos que constam da tabela C aplicam-se em todos os casos referidos nas alíneas do artigo 3.º, quando se verifique alguma das situações previstas no número seguinte.
-
-3 - Considera-se especialmente ocupação extraordinária de pilotos para efeitos de aplicação da respectiva tabela:
-
-a) A sua permanência a bordo da embarcação fora da barra, quando requisitado para pilotar embarcação que não possa entrar por qualquer motivo;
-
-b) A sua permanência a bordo, dentro do porto, quando requisitado pelas embarcações ou mandado pela autoridade marítima por motivo de mau tempo;
-
-c) Quando em serviços que excedam duas horas;
-
-d) Quando o piloto, por interrupção do serviço, se mantenha em terra ou a bordo, às ordens de uma embarcação, por mais de uma hora, excepto por:
-
-1.º Condições de tempo locais que impossibilitem a navegação;
-
-2.º Nível de marés nos serviços para demandar calas e locais de carga e descarga;
-
-3.º Avarias no navio ocorridas durante a pilotagem;
-
-4.º Dificuldade de obter meios para a execução da manobra;
-
-e) Quando de quarentena, a bordo ou em terra, ou sujeito a revisão médico-sanitária;
-
-f) Quando requisitado para serviço que se não chegou a efectuar por conveniência da embarcação;
-
-g) Os casos a que se referem os n.os 1 e 2 do artigo seguinte;
-
-h) Quando em viagem por conta de uma embarcação;
-
-i) A transmissão de ordens a um navio no mar, quando não chegue a entrar;
-
-j) O pedido de piloto fora de horas de expediente estabelecidas;
-
-k) Outros motivos de idêntica natureza não previstos especialmente neste artigo.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 31.º
 
-1 - Quando as embarcações que provenham de fora dos limites da área de pilotagem cheguem à mesma com atraso superior a duas horas em relação à hora anunciada na sua última comunicação, considera-se que o piloto por elas requisitado esteve às ordens a partir dessas duas horas até ao momento em que for recebida alteração da hora de chegada ou o seu cancelamento ou as mesmas se encontram dentro da área de pilotagem prontas a serem pilotadas.
+(Revogado.)
 
-2 - Quando as embarcações se encontrem dentro da área de pilotagem, considera-se o piloto à ordem no período entre a hora para que foi requisitada a sua presença e aquela a que a embarcação se encontrar pronta a iniciar a manobra.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 32.º
 
-1 - As taxas de aluguer de material a cobrar são as que constam de uma tabela D, anexa a este Regulamento - anexo III -, estabelecida pelo INPP.
+(Revogado.)
 
-2 - Da tabela D referida no número anterior devem constar as taxas a cobrar pelo embarque e desembarque do piloto e por reboques eventualmente prestados por embarcações pertencentes ao INPP e aplicam-se a todas as embarcações, sem qualquer excepção ou redução.
-
-3 - Não será feita nenhuma redução na taxa de aluguer de material empregado no serviço de amarrações ou outros para qualquer embarcação, incluindo os navios de guerra, nacionais e estrangeiros.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 33.º
 
-Todas as alterações às taxas constantes das tabelas A, B, C e D serão estabelecidas por despacho do MTC, sob proposta do INPP.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 34.º
 
-Para a cobrança das diversas taxas estabelecidas por este Regulamento usar-se-ão recibos de modelo a estabelecer pelo INPP, numerados seguidamente em cada ano. Os recibos serão assinados pelos chefes dos departamentos respectivos e os talões serão arquivados e constituirão documento oficial.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 35.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ### CAPÍTULO III — Normas especiais
 
@@ -3262,89 +2474,51 @@ I - Pilotagem
 
 ###### Artigo 36.º
 
-1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas na área para leste do arco de círculo oeste com raio de três milhas centrado na torre de sinais da sede do Departamento de Pilotagem do Porto de Aveiro (DPPA).
+(Revogado.)
 
-2 - A pilotagem pode fazer-se pela presença de piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, conforme o artigo 2.º deste Regulamento.
-
-3 - É, porém, indispensável a presença de piloto a bordo na navegação e manobras efectuadas nas áreas a montante da sede do DPPA e ainda nas embarcações que na área a oeste da mesma sede efectuem qualquer operação comercial, excepto em ocasiões em que, por dificuldade de ordem técnica dos serviços de pilotagem, a presença do piloto a bordo não se possa efectuar, procurando-se nestes casos resolver a dificuldade da maneira mais eficiente e conveniente quer à embarcação, quer ao respectivo serviço.
-
-4 - Para efeito do artigo 7.º deste Regulamento, considera-se limite exterior do porto o meridiano que passa pela torre da sede do DPPA.
-
-II - Requisições
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 37.º
 
-Os serviços de pilotagem funcionam do nascer ao pôr do Sol.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 38.º
 
-1 - As requisições de serviços de pilotagem devem ser dirigidas por telefone para o DPPA, dentro do horário de funcionamento dos serviços de secretaria (das 8 às 12 e das 14 às 18 horas, nos dias úteis, excepto aos sábados, em que funciona das 8 às 12 horas), ou através de VHF, IF e telefone, todos os dias, nos períodos de escuta a seguir indicados: 0905/0915; 1105/1115; 1505/1515, e 1705/1715.
+(Revogado.)
 
-2 - Entradas. - Todos os navios deverão, por intermédio do seu armador ou agente, informar, por escrito, pelo menos com vinte e quatro horas de antecedência, a chegada provável do navio e fazer a respectiva rectificação ou confirmação com, pelo menos, seis horas de antecedência. Nesta informação deverão ser fornecidos os seguintes elementos:
-
-Tonelagem bruta;
-
-Porte (dead weight);
-
-Comprimento fora a fora;
-
-Calado máximo;
-
-Velocidade máxima.
-
-3 - Saídas e movimento interiores. - Deverá ser fornecida uma previsão de serviço com, pelo menos, seis horas de antecedência e a respectiva confirmação deverá ser feita com, pelo menos, duas horas de antecedência em relação à hora de início do movimento da embarcação.
-
-4 - Pedidos de emergência. - Podem ser feitos por meio dos processos já referidos ou pelos telefones particulares dos pilotos.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 39.º
 
-O embarque e desembarque dos pilotos nos serviços de entradas e saídas poderá efectuar-se no mar, quando as condições o permitirem, ou entre molhes, em caso contrário. No segundo caso, serão fornecidas aos navios, por qualquer meio de comunicação a combinar, todas as instruções necessárias para entrar ou sair a barra até ao embarque ou desembarque do piloto, nos termos do artigo 2.º deste Regulamento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 40.º
 
-1 - Para o embarque e desembarque dos pilotos os navios devem arriar uma escada de quebra-costas com as características a seguir indicadas, sem o que o piloto não será obrigado a embarcar:
+(Revogado.)
 
-a) Deve estar fixada em posição livre de quaisquer esgotos ou descargas e por forma que todos os degraus se apoiem firmemente no costado, não tendo o piloto que subir, desde o lume de água ao local de acesso, nem menos de 1,5 m nem mais de 5 m;
-
-b) Os degraus devem ser de madeira rija, com as dimensões de 47,5 cm de comprimento, 12 cm de largura e 2,5 cm de espessura, estarem afastados entre si de 30 cm a 37,5 cm e manterem-se horizontais;
-
-c) Os dois cordões laterais devem ser de manila de 5,5 cm de bitola;
-
-d) Deve ser dotada de travessas com pelo menos 1,8 m de comprimento, por forma que a escada se não enrole;
-
-e) Deve ter duas boças de manila de 5,5 cm de bitola devidamente fixadas ao navio prontas a ser arriadas;
-
-f) Deve possuir meios que permitam ao piloto passar com segurança do topo da escada para o interior do navio, os quais, no caso de a escada terminar à borda, constarão de um escadote com dois corrimãos devidamente posicionados;
-
-g) Deve ter pronta uma bóia de salvação com facho Holmes e volta para uma retenida longa, devidamente colhida e pronta a ser usada;
-
-h) De noite, deve dispor de uma luz que lhe ilumine o costado, o local de embarque e o de acesso ao navio, a qual não deve nunca, por ser perigoso, estar fixada à escada.
-
-2 - Ainda para o embarque e desembarque do piloto, os navios de grande porte podem utilizar uma escada elevatória (pilot-hoist) de acordo com as recomendações da EMPA (European Maritime Pilots Association), nos termos descritos em anexo a este Regulamento - anexo IV.
-
-3 - Todas as operações de embarque e desembarque do piloto e respectivos preparativos, nomeadamente os do número seguinte, devem ser dirigidas e assistidas por um oficial.
-
-4 - Para aumentar as condições de rapidez e segurança do embarque e desembarque, os navios de mais de 5 m de altura do costado livre acima do lume de água que não disponham de porta de costado nem de outros meios modernos de embarque e desembarque de pilotos, caso o tempo o permita, devem arriar a escada de portaló até cerca de 3 m do nível do mar e colocar uma escada de quebra-costas de modo a ficar ligada ao patim inferior do portaló, conforme desenho em anexo a este Regulamento - anexo V.
-
-III - Taxas
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 41.º
 
-1 - São isentos do pagamento de taxas de pilotagem, quando, não utilizem os serviços de pilotagem:
+(Revogado.)
 
-a) Na entrada e na saída do porto, nos movimentos e manobras no interior do mesmo, os navios nacionais registados exclusivamente na navegação costeira de tonelagem inferior a 200 tb;
-
-b) Na entrada e saída do porto e nos movimentos e manobras no interior do mesmo, os navios nacionais de pesca do alto e costeira de tonelagem inferior a 200 tb.
-
-2 - Para cálculo das tonelagens referidas no número anterior aplicar-se-á o critério da alínea a) do n.º 1 do artigo 23.º deste Regulamento.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 42.º
 
-As taxas de ocupação extraordinária de pilotos a cobrar são as que constam da tabela C anexa a este Regulamento, depois de lhe ser aplicado o coeficiente estabelecido nos termos do n.º 1 do artigo 30.º deste Regulamento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 43.º
 
-As taxas de aluguer de material a cobrar são as que constam da tabela D anexa a este Regulamento - anexo III.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO II — Douro e Leixões
 
@@ -3352,73 +2526,39 @@ I - Pilotagem
 
 ###### Artigo 44.º
 
-1 - A pilotagem é obrigatória para todas as embarcações, nacionais e estrangeiras, na navegação e ou manobras efectuadas nas áreas a seguir indicadas:
+(Revogado.)
 
-a) No porto de Leixões, em toda a zona interior do porto e docas e até ao limite exterior de duas milhas contadas a partir do farolim do Esporão;
-
-b) No rio Douro, em toda a zona navegável do rio até à orla dos bancos de fora.
-
-2 - É, porém, indispensável a presença de piloto a bordo na navegação e manobras efectuadas nas seguintes áreas:
-
-a) No rio Douro, uma milha a oeste do farolim de Felgueiras;
-
-b) Em Leixões, no interior do porto e ao norte do paralelo do farolim do Esporão.
-
-3 - Para efeitos do artigo 7.º deste Regulamento, considera-se limite exterior do porto de Leixões o paralelo do farolim do Esporão e no rio Douro a linha que une a bóia n.º 2 com o farolim de Felgueiras.
-
-4 - As embarcações que, para esperar maré ou lugar no cais, tenham que fundear fora do porto, dentro da área de pilotagem obrigatória referida no n.º 1 deste artigo, não serão obrigadas a pagamento de qualquer taxa, desde que não utilizem os serviços de pilotagem.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 45.º
 
-1 - Todas as embarcações que se destinem aos portos do Douro e Leixões e que necessitem ou venham a necessitar dos seus serviços de pilotagem devem anunciar a sua chegada com uma antecedência mínima de doze horas e confirmá-la até quatro horas antes da sua efectivação. Se a embarcação faltar ao cumprimento destas normas, o Departamento de Pilotagem dos Portos do Douro e Leixões (DPPDL) não será de forma alguma responsável pela demora no fornecimento de piloto.
+(Revogado.)
 
-2 - Os navios de chegada devem mencionar:
-
-Nome do navio;
-
-Nacionalidade;
-
-Hora de chegada à zona de pilotagem;
-
-Calado e comprimento de fora a fora;
-
-Velocidade;
-
-Procedência.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 46.º
 
-Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 40.º deste Regulamento.
+(Revogado.)
 
-II - Requisições
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 47.º
 
-1 - As requisições de pilotos para a execução de qualquer serviço de pilotagem nos portos do Douro e Leixões, salvo os casos de emergência, têm de ser recebidas no DPPDL dentro do horário normal de expediente do departamento - das 8 às 12 e das 14 às 18 horas - e serão feitas com a antecedência mínima de três horas ou duas horas, conforme os pedidos sejam referidos, respectivamente, ao porto do Douro ou ao de Leixões:
+(Revogado.)
 
-a) No porto de Leixões, com a antecedência mínima de uma ou duas horas, conforme a embarcação se encontre, respectivamente, dentro ou fora do porto;
-
-b) No rio Douro, com a antecedência mínima de duas horas.
-
-2 - As requisições referidas no número anterior conterão obrigatoriamente o nome da embarcação, o local onde se encontra, a natureza do serviço pretendido e a data e a hora para que o serviço é requisitado.
-
-3 - Para a barra do Douro, o serviço é prestado somente entre o nascer e o pôr do Sol, atendendo às marés e condições de tempo e mar.
-
-4 - O serviço de pilotagem no porto de Leixões poderá ser efectuado a qualquer hora do dia ou da noite, se o navio tiver lugar no porto, livre prática de sanidade marítima e forem favoráveis as condições de tempo e mar.
-
-III - Taxas
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 48.º
 
-As embarcações que, vindas de fora da área de pilotagem, se destinem directamente aos locais de atracação passarão a pagar taxa de pilotagem por ocupação extraordinária de piloto - tabela C - se, duas horas depois da hora indicada no seu aviso de chegada, não estiverem prontas a receber piloto.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 49.º
 
-Nos portos do Douro e Leixões são isentas de pagamento de taxa de pilotagem, sempre que não utilizem os respectivos serviços:
+(Revogado.)
 
-a) Nas entradas e saídas e em todos os movimentos e manobras no interior dos portos, as embarcações nacionais registadas exclusivamente na navegação costeira cuja tonelagem bruta seja inferior a 200 tb;
-
-b) Nas entradas e saídas e em todos os movimentos no interior dos portos, as embarcações nacionais de pesca costeira e do alto cuja tonelagem bruta seja inferior a 500 tb.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO III — Faro e Olhão
 
@@ -3426,73 +2566,45 @@ I - Pilotagem
 
 ###### Artigo 50.º
 
-1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas no percurso entre a orla dos bancos de fora e o cais comercial de Faro e também entre os mesmos bancos e a doca de Olhão.
+(Revogado.)
 
-2 - A pilotagem pode fazer-se pela presença de piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento, até à entrada dos molhes da barra.
-
-3 - Para efeitos do artigo 7.º, considera-se limite exterior do porto de Faro e Olhão a linha que une os dois molhes.
-
-4 - É indispensável a presença do piloto a bordo na navegação e manobra efectuadas no percurso entre os molhes da barra e o cais comercial de Faro ou entre os mesmos molhes e a doca de Olhão.
-
-II - Requisições
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 51.º
 
-1 - Os serviços de pilotagem de entrada, saída e movimentos interiores funcionam do nascer ao pôr do Sol e podem ser requisitados para a sede do DPPFO em Faro, através do telefone 23710, do DPPFO.
+(Revogado.)
 
-2 - Entradas. - Todos os navios que se destinam ao porto de Faro ou de Olhão deverão, por intermédio do seu armador ou agente, informar por escrito com, pelo menos, vinte e quatro horas de antecedência a chegada provável do navio e fazer a respectiva rectificação ou confirmação com, pelo menos, seis horas de antecedência da sua chegada, indicando os seguintes elementos:
-
-Nome do navio;
-
-Hora de chegada à área de pilotagem do DPPFO;
-
-Calado do navio;
-
-Comprimento fora a fora;
-
-Procedência.
-
-3 - Saídas e movimentos na ria. - Deverá ser fornecida uma previsão de serviço com, pelo menos, quatro horas de antecedência e a respectiva confirmação terá de ser feita com, pelo menos, duas horas de antecedência em relação à hora do início do movimento da embarcação, indicando os seguintes elementos:
-
-Nome do navio;
-
-Dia, hora e local (cais comercial de Faro ou doca de Olhão) onde o piloto deve comparecer;
-
-Nome do armador ou agente;
-
-Movimento que a embarcação pretende efectuar;
-
-No caso de saída, qual o porto de destino.
-
-4 - Pedidos de emergência. - Podem ser feitos por qualquer forma e a qualquer hora.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 52.º
 
-1 - O embarque e desembarque dos pilotos nos serviços de entradas e saídas poderá efectuar-se a uma milha a sul da barra e no cais comercial de Faro ou doca de Olhão.
+(Revogado.)
 
-2 - As entradas ou saídas dos navios só poderão ser efectuadas entre o nascer e o pôr do Sol, ficando os serviços condicionados aos seus calados e à altura da maré.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
-###### Artigo 53.º — Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 40.º
+###### Artigo 53.º
 
-III - Taxas
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 54.º
 
-1 - São isentos do pagamento de taxas de pilotagem:
+(Revogado.)
 
-a) Na entrada e saída do porto e nos movimentos e manobras no interior do mesmo, os navios nacionais registados exclusivamente na navegação costeira de tonelagem inferior a 200 tb;
-
-b) Na entrada e saída do porto e nos movimentos e manobras no interior do mesmo, os navios nacionais de pesca do alto e costeira de tonelagem inferior a 250 tb.
-
-2 - Para o cálculo das tonelagens referidas nas alíneas do número anterior aplicar-se-á o critério da alínea a) do n.º 1 do artigo 23.º deste Regulamento.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 55.º
 
-As taxas de ocupação extraordinária de pilotos a cobrar são as que constam da tabela C anexa a este Regulamento, depois de lhe ser aplicado o coeficiente estabelecido nos termos do n.º 1 do artigo 30.º
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 56.º
 
-As taxas de aluguer de material a cobrar são as que constam da tabela D anexa a este Regulamento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO IV — Figueira da Foz
 
@@ -3500,47 +2612,45 @@ I - Pilotagem
 
 ###### Artigo 57.º
 
-1 - A pilotagem é obrigatória para todas as embarcações, nacionais e estrangeiras, na navegação e ou manobras efectuadas na área para leste do arco de círculo oeste com raio de duas milhas centrado na ponta oeste do molhe norte.
+(Revogado.)
 
-2 - A pilotagem pode fazer-se pela presença do piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento.
-
-3 - É, porém, indispensável a presença do piloto a bordo na navegação e manobras efectuadas na área leste da bóia n.º 2.
-
-4 - Para efeitos do artigo 7.º deste Regulamento, considera-se limite exterior do porto a linha definida pelas pontas dos molhes.
-
-II - Requisições
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 58.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
-###### Artigo 59.º — Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 40.º
+###### Artigo 59.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 60.º
 
-Quando, por motivo de mau tempo, o piloto não puder embarcar fora da barra, este entrará em contacto com o navio por fonia ou VHF e orientá-lo-á na entrada, processando-se o embarque dentro do rio, o mais próximo possível da barra.
+(Revogado.)
 
-III - Taxas
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 61.º
 
-1 - São isentos do pagamento de taxas de pilotagem, quando não utilizem os serviços de pilotagem:
+(Revogado.)
 
-a) Na entrada e saída do porto e nos movimentos e manobras no interior do mesmo, os navios nacionais registados exclusivamente na navegação costeira de tonelagem inferior a 200 tb;
-
-b) Na entrada e saída do porto e nos movimentos e manobras no interior do mesmo, os navios nacionais de pesca do alto e costeira de tonelagem inferior a 200 tb.
-
-2 - Para cálculo das tonelagens referidas nas alíneas do número anterior aplicar-se-á o critério da alínea a) do n.º 1 do artigo 23.º deste Regulamento.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 62.º
 
-As taxas de ocupação extraordinária de pilotos a cobrar são as que constam da tabela C anexa a este Regulamento, depois de lhe ser aplicado o coeficiente estabelecido nos termos do n.º 1 do artigo 30.º deste Regulamento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 63.º
 
-As taxas de aluguer de material são as que constam da tabela D anexa a este Regulamento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO VI — Lisboa
 
@@ -3550,117 +2660,61 @@ I - Pilotagem
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 65.º
 
-1 - As requisições de serviços de pilotagem devem ser dirigidas para «Pilotos de Lisboa - Estação do Bom Sucesso» e feitas normalmente do seguinte modo:
+(Revogado.)
 
-a) Entradas. - Por radiograma, que pode ser enviado a qualquer hora, mas com uma antecedência não inferior a seis horas, salvo o disposto no n.º 2 deste artigo, nem superior a vinte e quatro horas em relação à hora da chegada da embarcação à área de pilotagem, devendo essa chegada ser confirmada com duas horas de antecedência.
-
-Da requisição terão de constar:
-
-Nome da embarcação;
-
-Nome do agente;
-
-Hora da chegada à área de pilotagem obrigatória do Departamento de Pilotagem do Porto de Lisboa (DPPL);
-
-O local onde se pretende embarcar o piloto (Cascais ou Bom Sucesso);
-
-Calado da embarcação;
-
-Procedência;
-
-Eventualmente os meios especiais existentes para embarque do piloto;
-
-b) Saídas e movimentos no rio. - Por telex ou chamada telefónica, que deve ser enviado ou efectuada dentro do horário das 8 às 12 e 30 minutos e das 14 às 18 horas, nos dias úteis, e das 8 às 12 horas e 30 minutos, aos domingos e dias feriados, e com, pelo menos, duas horas de antecedência em relação à hora de início do movimento da embarcação, indicando os seguintes elementos:
-
-Nome da embarcação;
-
-Nome do armador ou agente;
-
-Dia, hora e local da margem norte onde o piloto deve comparecer;
-
-Movimento que a embarcação pretende efectuar;
-
-No caso de saída, qual o porto de destino;
-
-c) Pedidos de emergência. - Podem ser feitos por qualquer sistema e a qualquer hora.
-
-2 - Para os navios estacionados na área de pilotagem obrigatória, em que não é indispensável a presença de piloto a bordo, que pretendam entrar no porto, a requisição do serviço de pilotagem pode ser feita com a antecedência mínima de duas horas.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 66.º
 
-Para efeitos das requisições a que se refere o artigo anterior, o DPPL dispõe de uma estação localizada no molhe oeste da doca do Bom Sucesso (38.º 41,5' N. e 09º 12,7' W.) e dos seguintes meios de comunicação:
+(Revogado.)
 
-a) VHF. - Em escuta permanente no canal 13, podendo, no entanto, responder em qualquer dos seguintes canais que lhe for solicitado: 8, 11, 12, 13, 14 e 16;
-
-b) IF. - Em escuta obrigatória em 2182 kHz dos 5 ao 15 e dos 35 aos 45 minutos de cada hora, respondendo em 2341 kHz. Todavia, a escuta em IF é mantida para além destes períodos mas sem carácter de obrigatoriedade, podendo ainda, a pedido, responder nas frequências de 2056 kHz ou 2132 kHz;
-
-c) Telefone. - Dispondo dos seguintes números: PBX 613311/2/3/4;
-
-d) Telex. - Com o n.º 12771 P.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 67.º
 
-1 - O embarque e desembarque dos pilotos nos serviços de entradas e saídas poderá efectuar-se em Cascais ou no Bom Sucesso, por intermédio de embarcações do DPPL.
+(Revogado.)
 
-2 - Em Cascais, o embarque e desembarque processa-se a qualquer hora, devendo o navio pairar para o efeito nas imediações da posição 38º 40,8' N. e 09º 24' W. No entanto, perante acordo prévio, o embarque ou desembarque poderá ser feito noutro local, desde que as condições meteorológicas o permitam.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
-3 - No Bom Sucesso, para o embarque e desembarque do piloto a embarcação deverá pairar a sul desta estação.
+###### Artigo 68.º
 
-4 - O embarque do piloto no Bom Sucesso para navios de entrada poderá efectuar-se:
+(Revogado.)
 
-a) Entre as 6 e as 18 horas e 30 minutos, normalmente, para todos os navios;
-
-b) Entre as 18 horas e 30 minutos e as 24 horas, só para os navios que nestes períodos tenham livre prática ou visita extraordinária das autoridades portuárias ou estejam dispensados de tais visitas;
-
-c) Entre as 24 e as 6 horas, para todos os navios cuja atracação esteja condicionada e que se verifique dentro desse período, ou que tenham livre prática ou tenham requisitado visita extraordinária às autoridades portuárias ou estejam dispensados delas.
-
-5 - O embarque do piloto no Bom Sucesso para a saída de navios fundeados a oeste da Torre de Belém poderá efectuar-se a qualquer hora, desde que a sua presença tenha sido requisitada com a observância das normas estabelecidas no artigo 71.º
-
-6 - O desembarque de pilotos de navios em movimento de saída poderá processar-se no Bom Sucesso a qualquer hora.
-
-7 - O fornecimento de meio de transporte de e para bordo dos pilotos que vão prestar serviços às embarcações fundeadas para leste da Torre de Belém ou atracadas na margem sul é da responsabilidade da embarcação.
-
-###### Artigo 68.º — Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 40.º
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 69.º
 
-1 - Quando, por motivo de mau tempo, o piloto não puder embarcar fora da barra, o embarque far-se-á dentro do rio e o mais próximo possível da barra.
+(Revogado.)
 
-2 - Em consequência do disposto no número anterior, a DPPL difundirá comunicados por meio de avisos aos navegantes urgentes, que serão transmitidos pelas estações: de Monsanto Rádio, em radiotelefonia (em português e inglês), e de Rádio Naval de Cascais, em radiotelefonia (em português), em 2182 kHz. Estes avisos são transmitidos por aquelas estações após os boletins meteorológicos, nas frequências e horas indicadas na Lista de Ajudas à Navegação.
-
-3 - Independentemente dos avisos referidos nos números anteriores, a estação de pilotos fará também um comunicado em fonia (em português e inglês), em 2182 kHz, fora dos períodos de silêncio mas próximos dos mesmos, e içará no mastro de sinais: de dia, a bandeira N do CIS; de noite, três faróis na mesma vertical, sendo o superior vermelho e o médio e inferior brancos.
-
-4 - Idêntico procedimento ao estabelecido nos n.os 2 e 3 se adoptará quando deixe de se verificar o condicionalismo descrito no n.º 1.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 70.º
 
-Quando por outros motivos que não o mau tempo o embarque e o desembarque do piloto fora da barra forem suspensos temporariamente, a estação de pilotos assinalará este facto içando no mastro de sinais os seguintes sinais: de dia, a bandeira C do CIS; de noite, três faróis na mesma vertical, sendo o superior e o inferior vermelhos e o do meio branco.
+(Revogado.)
 
-III - Taxas
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 71.º
 
-1 - São isentos do pagamento de taxas de pilotagem, se não utilizarem os serviços de pilotagem:
+(Revogado.)
 
-a) Na entrada e saída do porto e nos movimentos e manobras no interior do mesmo, os navios nacionais registados exclusivamente na navegação costeira de tonelagem inferior a 500 tb;
-
-b) Na entrada e saída do porto e nos movimentos e manobras no interior do mesmo, os navios nacionais de pesca do alto e costeira de tonelagem inferior a 500 tb.
-
-2 - Para cálculo das tonelagens referidas nas alíneas do número anterior aplicar-se-á o critério da alínea a) do n.º 1 do artigo 23.º deste Regulamento.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 72.º
 
-As taxas de ocupação extraordinárias de pilotos a cobrar são as que constam da tabela C anexa a este Regulamento - anexo II -, depois de lhe ser aplicado o coeficiente estabelecido nos termos do n.º 1 do artigo 30.º deste Regulamento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 73.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 123/80](https://diariodarepublica.pt/dr/detalhe/portaria/123-1980-678396) e [Portaria n.º 443/80](https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102) e [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829) e [Decreto-Lei n.º 403/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1993-554142) e [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882) e [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO VII — Portimão
 
@@ -3668,57 +2722,39 @@ I - Pilotagem
 
 ###### Artigo 74.º
 
-1 - A pilotagem é obrigatória para todas as embarcações, nacionais e estrangeiras, na navegação e ou manobras efectuadas na área para norte do arco de círculo sul com raio de duas milhas centrado na testa do molhe oeste.
+(Revogado.)
 
-2 - A pilotagem pode fazer-se pela presença de piloto a bordo ou ainda por sinais ou outros meios de comunicação, tal como refere o artigo 2.º deste Regulamento.
-
-3 - É, porém, indispensável a presença de piloto a bordo na navegação e manobras efectuadas no interior do porto.
-
-4 - Para efeitos do artigo 7.º deste Regulamento, considera-se limite exterior do porto de Portimão a linha entre molhes.
-
-II - Requisições
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 75.º
 
-As requisições de serviço de pilotagem devem ser dirigidas para «Pilotagem de Portimão» e feitas normalmente do seguinte modo:
+(Revogado.)
 
-a) Entradas. - Por telefone ou por impresso próprio, com antecedência não inferior a seis horas em relação à hora de chegada da embarcação, contendo os seguintes elementos:
-
-Nome do navio;
-
-Hora de chegada à área de pilotagem obrigatória;
-
-Calado do navio;
-
-Procedência;
-
-b) Saídas e movimentos no rio. - Por telefone, que devem ser efectuadas dentro do horário das 9 horas e 30 minutos às 17 horas e 30 minutos, nos dias úteis, excepto aos sábados, que será das 9 horas e 30 minutos às 13 horas, com, pelo menos, três horas de antecedência em relação à hora da preia-mar.
-
-c) Pedidos de emergência. - Podem ser feitos por telefone ou directamente a qualquer hora.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 76.º
 
-Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 40.º deste Regulamento.
+(Revogado.)
 
-III - Taxas
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 77.º
 
-1 - São isentos do pagamento de taxas de pilotagem, quando não utilizem os serviços de pilotagem:
+(Revogado.)
 
-a) Na entrada e saída do porto e no movimento e manobras no interior do mesmo, os navios nacionais registados exclusivamente na navegação costeira de tonelagem inferior a 200 tb;
-
-b) Na entrada e saída do porto e movimento e manobras no interior do mesmo, os navios nacionais de pesca do alto e costeira de tonelagem inferior a 200 tb.
-
-2 - Para cálculo das tonelagens referidas nas alíneas do número anterior aplicar-se-á o critério da alínea a) do n.º 1 do artigo 23.º deste Regulamento.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 78.º
 
-As taxas de ocupação extraordinária de pilotos a cobrar são as que constem da tabela C anexa a este Regulamento - anexo II -, depois de lhe ser aplicado o coeficiente estabelecido nos termos do n.º 1 do artigo 30.º deste Regulamento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 79.º
 
-As taxas de aluguer de material a cobrar são as que constam da tabela D anexa a este Regulamento - anexo III.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO VIII — Setúbal
 
@@ -3726,89 +2762,39 @@ I - Pilotagem
 
 ###### Artigo 80.º
 
-1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas em todo o espaço marítimo e fluvial limitado a oeste por um arco de circunferência com centro no farol do Outão e com um raio de cinco milhas.
+(Revogado.)
 
-2 - A pilotagem pode fazer-se pela presença de piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento.
-
-3 - É, porém, indispensável a presença de piloto a bordo na área para dentro do farol do Outão e nas embarcações que, para fora do mesmo farol, efectuem quaisquer operações comerciais.
-
-4 - Para efeitos do artigo 7.º deste Regulamento, considera-se limite exterior do porto de Setúbal o paralelo que passa pelo farol do Outão.
-
-II - Requisições
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 81.º
 
-1 - As requisições de serviços de pilotagem devem ser dirigidas para «Pilotos de Setúbal» e feitas normalmente do seguinte modo:
+(Revogado.)
 
-a) Entradas. - Por radiograma, que pode ser enenviado a qualquer hora, mas com uma antecedência não inferior a seis horas nem superior a vinte e quatro horas em relação à hora de chegada da embarcação à área de pilotagem, devendo essa chegada ser confirmada com duas horas de antecedência, por comunicação da agência.
-
-Da requisição terão de constar:
-
-Nome da embarcação;
-
-Nome do armador ou agente;
-
-Hora de chegada à área de pilotagem obrigatória;
-
-Calado da embarcação;
-
-Procedência;
-
-Eventualmente, os meios especiais existentes para o embarque do piloto;
-
-b) Saídas e movimentos no rio. - Por chamada telefónica, que deve ser feita dentro do horário das 8 às 12 horas e 30 minutos e das 14 às 18 horas, nos dias úteis, e das 8 às 13 horas, aos sábados, domingos e dias feriados, e com, pelo menos, duas horas de antecedência em relação à hora do início do movimento da embarcação, indicando os seguintes elementos:
-
-Nome da embarcação;
-
-Nome do armador ou agente;
-
-Hora da requisição;
-
-Movimento que a embarcação pretende efectuar;
-
-Calado da embarcação;
-
-c) Pedidos de emergência. - Podem ser feitos por qualquer sistema e a qualquer hora.
-
-2 - Para efeitos das requisições a que se refere o número anterior, o DPPS dispõe de uma estação localizada na Praça da República, em Setúbal, e dos seguintes meios de comunicação:
-
-a) VHF. - Escuta permanente no canal 16;
-
-b) IF. - Escuta permanente em 2182 kHz;
-
-c) Telefone. - O seguinte número: 22914.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 82.º
 
-1 - O embarque e desembarque dos pilotos nos serviços de entradas e saídas poderá efectuar-se por intermédio de embarcações do DPPS.
+(Revogado.)
 
-2 - O embarque e desembarque dos pilotos nos serviços, entradas e saídas e os movimentos no porto processam-se a qualquer hora, salvo o condicionalismo de calados, marés, mau tempo ou outros que não aconselhem as manobras.
-
-3 - O fornecimento de meio de transporte de e para bordo dos pilotos que vão prestar serviço às embarcações é da responsabilidade da embarcação.
-
-4 - Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 40.º
-
-III - Taxas
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 83.º
 
-1 - São isentos do pagamento de taxa de pilotagem, quando não utilizem os serviços de pilotagem:
+(Revogado.)
 
-a) Na entrada e saída do porto, os navios nacionais registados exclusivamente na navegação costeira de tonelagem inferior a 500 tb;
-
-b) Nos movimentos e manobras no interior do porto, os navios nacionais registados exclusivamente na navegação costeira de tonelagem inferior a 500 tb;
-
-c) Na entrada e saída do porto e nos movimentos no interior do mesmo, os navios nacionais de pesca do alto e costeira de tonelagem inferior a 500 tb.
-
-2 - Para o cálculo das tonelagens referidas nas alíneas do número anterior aplicar-se-á, também, o critério da alínea a) do n.º 1 do artigo 23.º deste Regulamento.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 84.º
 
-As taxas de ocupação extraordinária de pilotos a cobrar são as que constam da tabela C anexa a este Regulamento, depois de lhe ser aplicado o coeficiente estabelecido nos termos do n.º 1 do artigo 30.º deste Regulamento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 85.º
 
-As taxas de aluguer de material a cobrar são as que constam da tabela D anexa a este Regulamento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO IX — Sines
 
@@ -3816,59 +2802,39 @@ I - Pilotagem
 
 ###### Artigo 86.º
 
-1 - A pilotagem é obrigatória para todas as embarcações, nacionais e estrangeiras, na navegação e ou manobras efectuadas na área para leste do arco de círculo oeste com raio de três milhas centrado na ponta do molhe oeste.
+(Revogado.)
 
-2 - A pilotagem pode fazer-se pela presença de piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento.
-
-3 - É, porém, indispensável a presença de piloto a bordo na navegação e manobras efectuadas na área para dentro da linha leste-oeste da ponta do molhe oeste.
-
-4 - Para efeitos do artigo 7.º deste Regulamento, considera-se limite exterior do porto a linha referida no número anterior.
-
-II - Requisições
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 87.º
 
-As requisições de serviços de pilotagem devem ser dirigidas para «Departamento de Pilotagem de Sines» e feitas normalmente do seguinte modo:
+(Revogado.)
 
-a) Entradas. - Por radiograma, que pode ser enviado a qualquer hora, mas com uma antecedência não inferior a seis horas nem superior a vinte e quatro horas em relação à hora da chegada da embarcação a área de pilotagem obrigatória, devendo essa chegada ser confirmada com duas horas de antecedência.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
-Da requisição terão de constar:
+###### Artigo 88.º
 
-Nome da embarcação;
+(Revogado.)
 
-Hora de chegada à área de pilotagem;
-
-Calado da embarcação;
-
-Procedência;
-
-Eventualmente, os meios especiais existentes para embarque do piloto;
-
-b) Saídas e movimentos no porto. - Por chamada telefónica dentro do horário de expediente e com, pelo menos, duas horas de antecedência em relação à hora do início do movimento da embarcação;
-
-c) Pedidos de emergência. - Podem ser feitos por qualquer sistema e a qualquer hora.
-
-###### Artigo 88.º — Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecimento no artigo 40.º
-
-III - Taxas
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 89.º
 
-1 - São isentos do pagamento da taxa de pilotagem, quando não utilizarem os serviços de pilotagem:
+(Revogado.)
 
-a) Na entrada e saída do porto, os navios nacionais registados exclusivamente na navegação costeira de tonelagem inferior a 200 tb;
-
-b) Nos movimentos e manobras no interior do porto, os navios nacionais de pesca do alto e costeira de tonelagem inferior a 200 tb.
-
-2 - Para o cálculo das tonelagens referidas nas alíneas do número anterior aplicar-se-á o critério da alínea a) do n.º 1 do artigo 23.º deste Regulamento.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 90.º
 
-As taxas de ocupação extraordinária de pilotos a cobrar são as que constam da tabela C anexa a este Regulamento, depois de lhe ser aplicado o coeficiente estabelecido nos termos do n.º 1 do artigo 30.º deste Regulamento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 91.º
 
-As taxas de aluguer de material são as que constam da tabela D anexa a este Regulamento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO X — Viana do Castelo
 
@@ -3876,73 +2842,39 @@ I - Pilotagem
 
 ###### Artigo 92.º
 
-1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas na área da orla dos bancos de fora da barra até ao interior do porto e neste.
+(Revogado.)
 
-2 - A pilotagem pode fazer-se pela presença de piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento.
-
-3 - É, porém, indispensável a presença de piloto a bordo na navegação e manobras efectuadas na área do anteporto, assim como no interior do porto.
-
-4 - Para efeitos do artigo 7.º deste Regulamento, considera-se limite exterior do porto a linha que limita a entrada do anteporto.
-
-II - Requisições
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 93.º
 
-1 - As requisições de serviços de pilotagem devem ser dirigidas para «Pilotagem de Viana - Torre de Vigia» e feita normalmente do seguinte modo:
+(Revogado.)
 
-a) Entradas. - Por telefone, que pode ser recebido das 8 às 19 horas, mas com uma antecedência não inferior a seis horas nem superior a vinte e quatro horas em relação à hora da chegada da embarcação à área de pilotagem, contendo os seguintes elementos:
-
-Nome do navio;
-
-Hora da chegada à área de pilotagem obrigatória;
-
-Calado do navio;
-
-Procedência;
-
-b) Saídas e movimentos no interior do porto. - Por telefone, que pode ser recebido das 8 às 18 horas, e com, pelo menos, a antecedência de seis horas para movimento de saídas e de duas horas de antecedência para movimento no interior do porto. No caso de saída, deve conter os seguintes elementos:
-
-Nome do navio;
-
-Calado do navio;
-
-Porto de destino;
-
-Movimento que a embarcação pretende efectuar.
-
-2 - Para efeitos das requisições a que se refere o número anterior, o DPPVC dispõe de uma estação localizada na torre de Vigia, no molhe norte do canal de acesso à doca de flutuação, e dos seguintes meios de comunicação:
-
-a) Telefone. - N.º 22697;
-
-b) IF. - Em escuta sem carácter de obrigatoriedade em 2182 kHz, respondendo em 2341 kHz ou ainda em 2132 kHz;
-
-c) VHF. - Em escuta com a lancha em movimento no canal 16, podendo, no entanto, responder em qualquer dos seguintes canais: 11, 13 e 16.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 94.º
 
-1 - O embarque e desembarque dos pilotos nos serviços de entradas e saídas efectua-se na área da orla dos bancos de fora da barra.
+(Revogado.)
 
-2 - O embarque e desembarque dos pilotos está condicionado às horas aproximadas das marés, e desde que as condições meteorológicas o permitam, por intermédio da embarcação da DPPVC.
-
-III - Taxas
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 95.º
 
-1 - São isentos de pagamento de taxas de pilotagem, se não utilizarem os serviços de pilotagem:
+(Revogado.)
 
-a) Na entrada e saída do porto e nos movimentos e manobras no interior do mesmo, os navios nacionais registados exclusivamente na navegação costeira de tonelagem inferior a 100 tb;
-
-b) Na entrada e saída do porto e nos movimentos e manobras no interior do mesmo, os navios nacionais de pesca do alto e costeira de tonelagem inferior a 200 tb.
-
-2 - Para cálculo das tonelagens referidas nas alíneas do número anterior aplicar-se-á o critério da alínea a) do n.º 1 do artigo 23.º deste Regulamento.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 96.º
 
-As taxas de ocupação extraordinária de pilotos a cobrar são as que constam da tabela C anexa a este Regulamento - anexo II -, depois de lhe ser aplicado o coeficiente estabelecido nos termos do n.º 1 do artigo 30.º deste Regulamento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 97.º
 
-As taxas de aluguer de material são as que constam da tabela D anexa a este Regulamento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ##### DIVISÃO XI — Vila Real de Santo António
 
@@ -3950,55 +2882,39 @@ I - Pilotagem
 
 ###### Artigo 98.º
 
-1 - A pilotagem é obrigatória para todas as embarcações, nacionais e ou estrangeiras, na navegação ou manobras efectuadas no percurso entre a orla dos bancos de fora e o interior do porto.
+(Revogado.)
 
-2 - A pilotagem pode fazer-se pela presença do piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento.
-
-3 - É, porém, indispensável a presença do piloto a bordo na navegação e manobras efectuadas na área a norte da linha da foz do rio Guadiana.
-
-4 - Para efeitos do artigo 7.º deste Regulamento, considera-se limite exterior do porto a linha da foz do rio Guadiana.
-
-II - Requisições
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 99.º
 
-As requisições dos serviços de pilotagem devem ser dirigidas para «Departamento de Pilotagem de Vila Real de Santo António (DPPVR)» e feitas normalmente do seguinte modo:
+(Revogado.)
 
-a) Entradas. - Por telefone ou radiotelegrama, com uma antecedência não inferior a seis horas em relação à hora de chegada da embarcação, contendo os seguintes elementos:
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
-Nome do navio;
+###### Artigo 100.º
 
-Hora de chegada à área de pilotagem obrigatória;
+(Revogado.)
 
-Calado do navio;
-
-Procedência;
-
-b) Saídas e movimentos no interior do porto. - Por telefone, dentro do horário seguinte, 9 às 17 horas e 30 minutos e com, pelo menos, três horas de antecedência em relação à hora da preia-mar;
-
-c) Pedidos de emergência. - Podem ser feitos por telefone ou directamente a qualquer hora.
-
-###### Artigo 100.º — Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 40.º
-
-III - Taxas
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 101.º
 
-1 - São isentos do pagamento de taxas de pilotagem, se não utilizarem os serviços de pilotagem:
+(Revogado.)
 
-a) Na entrada e saída do porto e nos movimentos e manobras no interior do mesmo, os navios nacionais registados exclusivamente na navegação costeira de tonelagem inferior a 200 tb;
-
-b) Na entrada e saída do porto e nos movimentos e manobras no interior do mesmo, os navios nacionais de pesca do alto e costeira de tonelagem inferior a 200 tb.
-
-2 - Para o cálculo das tonelagens referidas nas alíneas do número anterior aplicar-se-á o critério da alínea a) do n.º 1 do artigo 23.º deste Regulamento.
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 102.º
 
-As taxas de ocupação extraordinária de pilotos a cobrar são as que constam da tabela C anexa a este Regulamento, depois de lhe ser aplicado o coeficiente estabelecido nos termos do n.º 1 do artigo 30.º
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ###### Artigo 103.º
 
-As taxas de aluguer de material a cobrar são as que constam da tabela D anexa a este Regulamento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 331/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012), publicado em 1998-11-03.
 
 ## ANEXO I — TABELA A
 

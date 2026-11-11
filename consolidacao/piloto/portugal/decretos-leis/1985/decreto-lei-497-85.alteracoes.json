@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\n1 - O Primeiro-Ministro poderá delegar em qualquer membro do Governo, com possibilidade de conferir poderes de subdelegação, a competência relativa aos seguintes organismos e serviços que se consideram integrados na Presidência do Conselho de Ministros:\n\na) Secretaria-Geral da Presidência do Conselho de Ministros;\n\nb) Auditoria Jurídica da Presidência do Conselho de Ministros;\n\nc) Serviços Sociais da Presidência do Conselho de Ministros;\n\nd) Direcção-Geral da Comunicação Social;\n\ne) Direcção-Geral da Família;\n\nf) Todos os organismos e serviços anteriormente integrados na Secretaria de Estado do Turismo, do Ministério do Comércio e Turismo;\n\ng) O Fundo de Apoio aos Organismos Juvenis;\n\nh) Instituto Nacional de Administração;\n\ni) Gabinete de Macau;\n\nj) Gabinete de Estudos e Coordenação da Reforma Administrativa;\n\nl) Conselho Superior de Informações;\n\nm) Conselho Permanente da Concertação Social;\n\nn) Conselho Nacional de Telecomunicações;\n\no) Secretariado para a Desconcentração;\n\np) Comissão da Condição Feminina;\n\nq) Comissão para o Ano Internacional da Juventude;\n\nr) Comissão Organizadora do Dia da Liberdade;\n\ns) Comissão Organizadora do Dia de Portugal, de Camões e das Comunidades Portuguesas;\n\nt) Comissão Liquidatária da Empresa do Jornal O Século;\n\nu) Outros serviços integrados na Presidência do Conselho de Ministros, por diploma anterior a esta lei orgânica, e não indicados nas alíneas antecedentes, que não tenham sido expressamente integrados noutros departamentos.\n\n2 - O Primeiro-Ministro exerce a tutela, que poderá delegar em qualquer membro do Governo, com a possibilidade de conferir poderes de subdelegação sobre as seguintes empresas públicas:\n\na) ENATUR, E. P.;\n\nb) Radiodifusão Portuguesa, E. P.;\n\nc) Radiotelevisão Portuguesa, E. P.;\n\nd) Agência Noticiosa Portuguesa, E. P.;\n\ne) Empresa Pública dos Jornais Notícias e Capital;\n\nf) Empresa Pública do Jornal Diário Popular.\n\n3 - São criados na Presidência do Conselho de Ministros a Direcção-Geral da Juventude e o Secretariado para a Modernização Administrativa.",
+    "depois": "###### Artigo 8.º\n\n1 - O Primeiro-Ministro poderá delegar em qualquer membro do Governo, com possibilidade de conferir poderes de subdelegação, a competência relativa aos seguintes organismos e serviços que se consideram integrados na Presidência do Conselho de Ministros:\n\na) Secretaria-Geral da Presidência do Conselho de Ministros;\n\nb) Auditoria Jurídica da Presidência do Conselho de Ministros;\n\nc) Serviços Sociais da Presidência do Conselho de Ministros;\n\nd) Direcção-Geral da Comunicação Social;\n\ne) Direcção-Geral da Família;\n\nf) Todos os organismos e serviços anteriormente integrados na Secretaria de Estado do Turismo, do Ministério do Comércio e Turismo;\n\ng) O Fundo de Apoio aos Organismos Juvenis;\n\nh) Instituto Nacional de Administração;\n\ni) Gabinete de Macau;\n\nj) Gabinete de Estudos e Coordenação da Reforma Administrativa;\n\nl) Conselho Superior de Informações;\n\nm) Conselho Permanente da Concertação Social;\n\nn) Conselho Nacional de Telecomunicações;\n\no) Secretariado para a Desconcentração;\n\np) Comissão da Condição Feminina;\n\nq) Comissão para o Ano Internacional da Juventude;\n\nr) Comissão Organizadora do Dia da Liberdade;\n\ns) Comissão Organizadora do Dia de Portugal, de Camões e das Comunidades Portuguesas;\n\nt) Comissão Liquidatária da Empresa do Jornal O Século;\n\nu) Outros serviços integrados na Presidência do Conselho de Ministros, por diploma anterior a esta lei orgânica, e não indicados nas alíneas antecedentes, que não tenham sido expressamente integrados noutros departamentos.\n\n2 - O Primeiro-Ministro exerce a tutela, que poderá delegar em qualquer membro do Governo, com a possibilidade de conferir poderes de subdelegação sobre as seguintes empresas públicas:\n\na) ENATUR, E. P.;\n\nb) Radiodifusão Portuguesa, E. P.;\n\nc) Radiotelevisão Portuguesa, E. P.;\n\nd) Agência Noticiosa Portuguesa, E. P.;\n\ne) Empresa Pública dos Jornais Notícias e Capital;\n\nf) Empresa Pública do Jornal Diário Popular.\n\n3 - São criados na Presidência do Conselho de Ministros a Direcção-Geral da Juventude e o Secretariado para a Modernização Administrativa.\n\n4 - É integrado na Presidência do Conselho de Ministros o Gabinete de Apoio Técnico-Legislativo, criado pelo [Decreto-Lei n.º 245/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1984-385848), de 19 de Julho.\n\n> Alterado pelo/a [Decreto-Lei n.º 371/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1986-221089), publicado em 1986-11-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:169972:por",
+    "alterador": "pt:dre:221089:por;pt:dre:220076:por"
+  },
+  {
+    "artigo": "13.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 13.º-A\n\nO Ministro da Justiça é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto do Ministro da Justiça.\n\n> Aditado pelo/a [Decreto-Lei n.º 278/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1986-220076), publicado em 1986-09-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:169972:por",
+    "alterador": "pt:dre:221089:por;pt:dre:220076:por"
+  }
+]

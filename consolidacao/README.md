@@ -479,3 +479,43 @@ Por tamanho: 51 entre 150 e 250 mil, 28 entre 250 e 500 mil, 14 acima de 500 mil
 **Porque ficaram de fora:** um pedido destes não cabe no contexto de um subagente com margem para a resposta. Duas formas de os fazer, nenhuma tentada: (1) partir os alteradores em grupos e pedir ao LLM cada grupo sobre o texto que o grupo anterior deixou (o `juntar` já aceita várias passagens por diploma, mas o pedido não); (2) para os de 150 a 250 mil, subir `--max-chars` e usar um modelo com contexto maior. Em ambos a verificação às cegas é a mesma e `cegas_vista.py` já divide a vista por pedaços.
 
 **Bloco 7: abaixo dos 35%, e porquê.** 21 dos 40 diplomas não deram nada a verificar: o LLM respondeu que não há instrução textual a aplicar (15 respostas "sem alterações", 3 recusadas na verificação letra a letra e mais as não juntadas). Os que mudam texto continuam a passar (13 de 19). A fila foi ficando cheia de diplomas em que tudo o que falta é quadros e anexos só em imagem, revogações condicionais, "na parte em que contrariem", prorrogações de prazo e referências a mudar de nome, que não se resolvem por texto. Depois de `_recolocar_assinaturas` corrigido (só move fórmulas curtas e com corpo antes), 5 diplomas foram a uma ronda 20 de repetição. Continuam a falhar os de chaves repetidas no texto atual (o artigo 7.º do DL 296-A/95 fica com o texto novo e o antigo).
+
+### Os 93 grandes: passagens por grupos de alteradores (ronda 23)
+
+Feito em 2026-11-11, sem alterar `data/`. As duas vias da secção anterior juntaram-se numa só, `llm_completo.py passagem IDS PASTA --max-chars N`. Um subagente lê bem um pedido de até ~320 mil caracteres: o teste foi um de 287 mil, com 362 artigos na resposta, e depois um de 319 mil. Por isso o limite subiu de 150 para 280 mil caracteres (320 mil na Lei n.º 30-G/2000). Quando o pedido inteiro não cabe, os alteradores partem-se em grupos, por ordem de aplicação. Cada passagem leva o texto que as anteriores deixaram, com os artigos que elas mudaram assinalados, e só os alteradores do seu grupo, numerados como no diploma inteiro.
+
+- Por diploma, `PASTA/<id>/` guarda `estado.json`, `pedido-K.md` e as respostas `resposta-K.json` (ou `resposta-K.parteN.json`, quando a resposta é longa demais para uma escrita só).
+- Cada vez que corre, `passagem` aplica as respostas que já há, faz a verificação letra a letra (contra o original, todos os alteradores e o texto atual) e escreve o pedido seguinte.
+- Sem alteradores por pedir, funde as passagens: o texto de um artigo é o da última que o deu. Grava a resposta em `llm/completo/<id>.json`, e `juntar` trata-a como as outras.
+- `importar` também aceita respostas em partes.
+- `verificar._REVOGADO` passou a aceitar "2. (Revogado.)". Antes recusava o DL 413/71 só por isso.
+
+**Bloco 1** (os 25 diplomas não orçamentais mais citados; um subagente Opus por passagem, até 6 de cada vez; verificação às cegas por Sonnet, uma vista por subagente, a maior com 588 mil caracteres):
+
+| | Diplomas |
+| --- | --: |
+| Pedidos | 25 |
+| Respondidos até ao fim | 22 (55 passagens; o DL 34-A/90 levou 6, o DL 46311 3) |
+| Juntados | 16 |
+| Sem reparos às cegas | **6** |
+
+Rendimento: **6 em 25 (24%) sobre o bloco**, 6 em 16 (38%) sobre os juntados e verificados. Fica abaixo dos 35% sobre o bloco, por isso **o trabalho parou aqui** (a regra da tarefa). Os 6 sem reparos são os DL 519-A1/79, 497/85, 437/91 e 309/2001, o Decreto n.º 45266 e a Lei n.º 39/78. `acervo.py --dry-run` dá **6 aplicáveis**, mais 1.056 já aplicados.
+
+Os 19 que não chegam ao acervo:
+
+- **Não acabados (3).** O DL 38/2003 ficou parado: o original está mal segmentado (a chave "6.º" contém os artigos 7.º a 23.º e o anexo), e as 23 passagens, de 290 mil caracteres cada, seriam caras e quase certamente recusadas. A Lei n.º 30-G/2000 fez 7 das 8 passagens e mudou 5 artigos (os outros alteradores mexem nos códigos fiscais). A passagem 8 está escrita em `PASTA`, por responder. O DL 139-A/90 acabou e conta nos verificados.
+- **Recusados na verificação letra a letra (5):** Decreto n.º 44623, DL 46311, DL 47743, DL 224-A/96 e DL 321-B/90. Um ou dois parágrafos que o LLM compôs (uma alínea renumerada, uma linha de um quadro) em vez de copiar.
+- **Sem artigos a mudar (2):** a Lei n.º 65/98 (os alteradores mudam o Código Penal, não ela) e o DL 47/93 (as alterações já estavam no texto). Não há nada a verificar.
+- **Com reparos às cegas (10):**
+  - *Epígrafes de secção ou de título que mudam (5):* DL 376/87, 34-A/90, 361/78 e 139-A/90, e as fórmulas finais mudadas de sítio no Decreto n.º 47478. O formato de resposta só tem artigos. Uma instrução "a secção IV passa a designar-se…" fica por aplicar, e o diploma não passa.
+  - *Erros do LLM (3):* o marcador "(Actual corpo do artigo.)" copiado no DL 158/96, uma alínea perdida no DL 227-B/2000 e um n.º 5 trocado no DR 42/83.
+  - *Erro das regras (1):* no DL 34-A/90, o artigo 2.º "(Revogado.)" já vinha do texto que as regras deixaram.
+  - *Outros:* artigos com a mesma chave no decreto preambular e no estatuto anexo (DL 139-A/90); um artigo aditado sem instrução (DL 361/78); uma anotação de quadro posta dentro do último artigo (DL 413/71); uma dúvida sobre uma revogação a prazo (DL 214/88).
+
+**O que faria subir o rendimento:** deixar a resposta mudar epígrafes de secções, capítulos e títulos (5 dos 10 recusados às cegas); voltar a pedir, só sobre o parágrafo recusado, as 5 respostas que falharam a verificação letra a letra; e corrigir a segmentação das chaves repetidas (decreto preambular e estatuto anexo). Sem isto, os 52 diplomas não orçamentais que faltam (blocos 2 e 3) devem render à volta de um quarto.
+
+**Bloco 2, começado antes de parar:** 7 dos 25 respondidos até ao fim e importados, todos sem problemas letra a letra: Lei n.º 3/2001, DR n.º 12/79, DLR n.º 19/2007/A, DL 633/76, DL 408/93, DLR n.º 2/2007/A e DLR n.º 4/2000/M. Nenhum foi juntado nem verificado às cegas. Os `pedido-1.md` dos 25 estão em `PASTA`. Dois subagentes avisaram do mesmo problema de chaves repetidas. No DLR n.º 2/2007/A, os artigos do apêndice II têm as chaves dos do regime do anexo I. No DL 408/93, o artigo 55.º vem partido em chaves que colidem com artigos verdadeiros. Convém corrigir antes de os juntar.
+
+**Leis do orçamento:** não pedidas. A Lei n.º 30-G/2000 (reforma fiscal, não orçamento, mas do mesmo tipo) mostra o padrão: em 46 alteradores, só 2 mudaram o texto dela.
+
+Os ficheiros de trabalho (pedidos, respostas por passagem, vistas da ronda 23) estão no scratchpad da sessão. O que fica no repositório é `llm/completo/<id>.json`, já fundido, e `verificacao/entrada-piloto-23-lote-01.jsonl` com a saída ao lado.

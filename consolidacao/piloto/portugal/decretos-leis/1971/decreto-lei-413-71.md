@@ -7,54 +7,21 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:676628:por
-    title: Decreto-Lei n.º 331/72
-    publication_date: '1972-08-22'
-  - id: pt:dre:472685:por
-    title: Decreto-Lei n.º 515/74
-    publication_date: '1974-10-02'
-  - id: pt:dre:160307:por
-    title: Decreto-Lei n.º 73/75
-    publication_date: '1975-02-20'
-  - id: pt:dre:336487:por
-    title: Decreto-Lei n.º 403/75
-    publication_date: '1975-07-25'
-  - id: pt:dre:431395:por
-    title: Decreto n.º 510/76
-    publication_date: '1976-07-03'
-  - id: pt:dre:492685:por
-    title: Portaria n.º 3/77
-    publication_date: '1977-01-05'
-  - id: pt:dre:139189:por
-    title: Portaria n.º 224/77
-    publication_date: '1977-04-26'
-  - id: pt:dre:253384:por
-    title: Decreto Regulamentar n.º 39/77
-    publication_date: '1977-06-15'
-  - id: pt:dre:468830:por
-    title: Portaria n.º 18/78
-    publication_date: '1978-01-11'
-  - id: pt:dre:446535:por
-    title: Decreto Regulamentar n.º 7/78
-    publication_date: '1978-02-20'
-  - id: pt:dre:329999:por
-    title: Decreto n.º 89/78
-    publication_date: '1978-09-05'
   - id: pt:dre:231286:por
     title: Decreto-Lei n.º 530/79
     publication_date: '1979-12-31'
-  - id: pt:dre:475125:por
-    title: Portaria n.º 224/80
-    publication_date: '1980-05-06'
-  - id: pt:dre:578518:por
-    title: Portaria n.º 534/81
-    publication_date: '1981-06-29'
-  - id: pt:dre:661913:por
-    title: Decreto-Lei n.º 91/84
-    publication_date: '1984-03-26'
+  - id: pt:dre:676628:por
+    title: Decreto-Lei n.º 331/72
+    publication_date: '1972-08-22'
+  - id: pt:dre:446535:por
+    title: Decreto Regulamentar n.º 7/78
+    publication_date: '1978-02-20'
   - id: pt:dre:208255:por
     title: Decreto-Lei n.º 215/97
     publication_date: '1997-08-18'
+  - id: pt:dre:468830:por
+    title: Portaria n.º 18/78
+    publication_date: '1978-01-11'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -275,7 +242,9 @@ b) A Direcção-Geral dos Hospitais;
 
 c) A Direcção-Geral da Assistência Social.
 
-> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628) e [Decreto-Lei n.º 515/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1974-472685) e [Decreto-Lei n.º 73/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1975-160307) e [Decreto-Lei n.º 403/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1975-336487) e [Decreto n.º 510/76](https://diariodarepublica.pt/dr/detalhe/decreto/510-1976-431395) e [Portaria n.º 3/77](https://diariodarepublica.pt/dr/detalhe/portaria/3-1977-492685) e [Portaria n.º 224/77](https://diariodarepublica.pt/dr/detalhe/portaria/224-1977-139189) e [Decreto Regulamentar n.º 39/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1977-253384) e [Portaria n.º 18/78](https://diariodarepublica.pt/dr/detalhe/portaria/18-1978-468830) e [Decreto Regulamentar n.º 7/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1978-446535) e [Decreto n.º 89/78](https://diariodarepublica.pt/dr/detalhe/decreto/89-1978-329999) e [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286) e [Portaria n.º 224/80](https://diariodarepublica.pt/dr/detalhe/portaria/224-1980-475125) e [Portaria n.º 534/81](https://diariodarepublica.pt/dr/detalhe/portaria/534-1981-578518) e [Decreto-Lei n.º 91/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1984-661913) e [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), publicado em 1997-08-18.
+6. O Conselho dos Directores-Gerais é um órgão de coordenação, ao qual incumbe coadjuvar o Ministro na harmonização e conjugação das actividades dos diversos órgãos e serviços do Ministério.
+
+> Alterado pelo/a [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286), publicado em 1979-12-31.
 
 #### SECÇÃO II — Secretaria-Geral
 
@@ -285,7 +254,7 @@ c) A Direcção-Geral da Assistência Social.
 
 2. A Secretaria-Geral compreende os seguintes serviços:
 
-a) Serviços de Contencioso;
+a)Serviços de Contencioso;
 
 b) Serviços de Inspecção;
 
@@ -293,13 +262,15 @@ c) Serviços de Aprovisionamento;
 
 d) Serviços de Instalações e Equipamento;
 
-e) Gabinete de Organização;
+e) Serviços de Pessoal e de Organização;
 
 f) Repartição de Serviços Administrativos.
 
-3. A Secretaria-Geral é dirigida por um secretário-geral, que superintende em todos os seus serviços e submete a despacho os assuntos que careçam de resolução superior.
+3. A Secretaria-Geral é dirigida por um secretário-geral, que, coadjuvado por um adjunto, superintende em todos os seus serviços e submete a despacho os assuntos que careçam de resolução superior.
 
-4. A junta médica do Ministério funciona na Secretaria-Geral.
+4. A junta médica do Ministério funciona na Secretaria-Geral, sob a presidência de um inspector superior ou director de serviços do Ministério que seja médico.
+
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
 
 ###### Artigo 13.º — Serviços de Contencioso
 
@@ -341,37 +312,47 @@ f) Repartição de Serviços Administrativos.
 
 6. Aos Serviços de Instalações e Equipamento incumbe orientar e coordenar as actividades relacionadas com a reparação e manutenção da aparelhagem em uso nos diversos estabelecimentos.
 
-###### Artigo 17.º — Gabinete de Organização
+7. O Ministro pode determinar, por despacho, que as despesas dos Serviços de Instalações e Equipamento decorrentes da elaboração de projectos, direcção, administração e fiscalização de obras e recepção de material sejam suportadas pelos respectivos utilizadores, até ao limite de 5 por cento do respectivo valor, devendo a aplicação desta verba ser justificada em balancete semestral, a aprovar pelo Ministro.
 
-1. Compete ao Gabinete de Organização:
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
 
-a) Promover o estudo e divulgação dos princípios e técnicas de organização;
+###### Artigo 17.º — Serviços de Pessoal e de Organização
 
-b) Propor as medidas tendentes à permanente actualização da estrutura e do funcionamento dos serviços, bem como à racionalização e simplificação do trabalho administrativo;
-
-c) Proceder aos estudos preparatórios relativos à utilização da informática no âmbito do Ministério.
-
-d) Colaborar nos estudos e diligências tendentes a racionalizar a instalação e o equipamento dos serviços;
-
-e) Colaborar com os serviços interessados, designadamente os do Ministério das Finanças e com o Gabinete de Estudos e Planeamento, na preparação do orçamento do Ministério.
-
-###### Artigo 18.º — Repartição de Pessoal e Administração Geral
-
-1. Compete especialmente à Repartição de Pessoal e Administração Geral:
+Compete aos Serviços de Pessoal e de Organização:
 
 a) Proceder aos estudos relativos a sistemas integrados de gestão do pessoal do Ministério, propondo as medidas necessárias ao seu gradual estabelecimento, e promover as respeitantes ao seu próprio pessoal;
 
 b) Exercer, relativamente à administração de pessoal, a acção orientadora e coordenadora dos serviços congéneres do Ministério;
 
-c) Promover, em ligação com a Secretaria-Geral da Presidência do Conselho, acções de formação e aperfeiçoamento em técnicas de administração do pessoal e colaborar em acções de formação profissional promovidas por outros departamentos do Ministério.
+c) Promover, em ligação com a Secretaria-Geral da Presidência do Conselho, acções de formação e aperfeiçoamento em técnicas de administração do pessoal e colaborar em acções de formação profissional promovidas por outros departamentos do Ministério;
 
-2. Incumbirá também à Repartição de Pessoal e Administração Geral:
+d) Promover o estudo e divulgação dos princípios e técnicas de organização;
 
-a) Executar o expediente geral da Secretaria-Geral e o que lhe seja cometido pelo Gabinete do Ministro;
+e) Propor as medidas tendentes à permanente actualização da estrutura e do funcionamento dos serviços, bem como à racionalização e simplificação do trabalho administrativo;
 
-b) Executar o serviço de contabilidade e economato da Secretaria-Geral, bem como o do Gabinete do Ministro, sem prejuízo da competência atribuída aos chefes de Gabinete.
+f) Proceder aos estudos preparatórios relativos à utilização da informática no âmbito do Ministério;
 
-3. A Repartição é constituída por três secções.
+g) Colaborar nos estudos e diligências tendentes a racionalizar a instalação e o equipamento dos serviços;
+
+h) Colaborar com os serviços interessados, designadamente os do Ministério das Finanças, e com o Gabinete de Estudos e Planeamento na preparação do orçamento do Ministério.
+
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
+
+###### Artigo 18.º — Repartição de Serviços Administrativos
+
+1. Compete à Repartição de Serviços Administrativos:
+
+a) Reunir os orçamentos preparados pelos serviços centrais e fazê-los presentes ao Conselho dos Directores-Gerais, para coordenação;
+
+b) Executar o expediente geral da Secretaria-Geral e o que lhe seja cometido pelo Gabinete do Ministro;
+
+c) Executar o serviço de contabilidade e economato da Secretaria-Geral, bem como o do Gabinete do Ministro, sem prejuízo da competência atribuída aos chefes de gabinete;
+
+d) Executar outras tarefas que lhe sejam cometidas pelo secretário-geral.
+
+2. A Repartição é constituída por quatro secções.
+
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
 
 #### SECÇÃO III — Órgãos de natureza consultiva
 
@@ -517,13 +498,13 @@ e) O Grupo de Trabalho sobre Poluição do Ar, criado pela [Portaria n.º 22035]
 
 1. As direcções-gerais são órgãos centrais a que compete, dentro das suas atribuições específicas, orientar as instituições, serviços e estabelecimentos de saúde e assistência, coordenar a sua actuação e fiscalizar a execução das respectivas actividades.
 
-2 - (Revogado.)
+2. (Revogado.)
 
 3. A Direcção-Geral dos Hospitais orienta, coordena e fiscaliza as actividades dos estabelecimentos hospitalares centrais e distritais e presta o apoio que lhe seja solicitado pela Direcção-Geral de Saúde no domínio das atribuições de internamento que a esta competem.
 
 4. A Direcção-Geral da Assistência Social orienta e fiscaliza a actuação dos serviços, estabelecimentos e instituições de assistência, coordenando as actividades promotoras da integração social dos indivíduos, pela sua participação na vida da comunidade, tendo em especial atenção as crianças, os jovens e a população idosa, e actuando no quadro da instituição familiar para o fomento do bem-estar pessoal.
 
-> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628) e [Decreto-Lei n.º 515/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1974-472685) e [Decreto-Lei n.º 73/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1975-160307) e [Decreto-Lei n.º 403/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1975-336487) e [Decreto n.º 510/76](https://diariodarepublica.pt/dr/detalhe/decreto/510-1976-431395) e [Portaria n.º 3/77](https://diariodarepublica.pt/dr/detalhe/portaria/3-1977-492685) e [Portaria n.º 224/77](https://diariodarepublica.pt/dr/detalhe/portaria/224-1977-139189) e [Decreto Regulamentar n.º 39/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1977-253384) e [Portaria n.º 18/78](https://diariodarepublica.pt/dr/detalhe/portaria/18-1978-468830) e [Decreto Regulamentar n.º 7/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1978-446535) e [Decreto n.º 89/78](https://diariodarepublica.pt/dr/detalhe/decreto/89-1978-329999) e [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286) e [Portaria n.º 224/80](https://diariodarepublica.pt/dr/detalhe/portaria/224-1980-475125) e [Portaria n.º 534/81](https://diariodarepublica.pt/dr/detalhe/portaria/534-1981-578518) e [Decreto-Lei n.º 91/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1984-661913) e [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), publicado em 1997-08-18.
+> Alterado pelo/a [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286), publicado em 1979-12-31.
 
 ###### Artigo 28.º — Atribuições comuns às direcções-gerais
 
@@ -547,7 +528,7 @@ Cada direcção-geral é dirigida por um director-geral, que superintende em tod
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628) e [Decreto-Lei n.º 515/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1974-472685) e [Decreto-Lei n.º 73/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1975-160307) e [Decreto-Lei n.º 403/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1975-336487) e [Decreto n.º 510/76](https://diariodarepublica.pt/dr/detalhe/decreto/510-1976-431395) e [Portaria n.º 3/77](https://diariodarepublica.pt/dr/detalhe/portaria/3-1977-492685) e [Portaria n.º 224/77](https://diariodarepublica.pt/dr/detalhe/portaria/224-1977-139189) e [Decreto Regulamentar n.º 39/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1977-253384) e [Portaria n.º 18/78](https://diariodarepublica.pt/dr/detalhe/portaria/18-1978-468830) e [Decreto Regulamentar n.º 7/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1978-446535) e [Decreto n.º 89/78](https://diariodarepublica.pt/dr/detalhe/decreto/89-1978-329999) e [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286) e [Portaria n.º 224/80](https://diariodarepublica.pt/dr/detalhe/portaria/224-1980-475125) e [Portaria n.º 534/81](https://diariodarepublica.pt/dr/detalhe/portaria/534-1981-578518) e [Decreto-Lei n.º 91/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1984-661913) e [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), publicado em 1997-08-18.
+> Revogado pelo/a [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286), publicado em 1979-12-31.
 
 ###### Artigo 31.º — Serviços da Direcção-Geral de Saúde
 
@@ -567,83 +548,13 @@ b) (Revogada.)
 
 c) Parque Sanitário.
 
-> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628) e [Decreto-Lei n.º 515/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1974-472685) e [Decreto-Lei n.º 73/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1975-160307) e [Decreto-Lei n.º 403/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1975-336487) e [Decreto n.º 510/76](https://diariodarepublica.pt/dr/detalhe/decreto/510-1976-431395) e [Portaria n.º 3/77](https://diariodarepublica.pt/dr/detalhe/portaria/3-1977-492685) e [Portaria n.º 224/77](https://diariodarepublica.pt/dr/detalhe/portaria/224-1977-139189) e [Decreto Regulamentar n.º 39/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1977-253384) e [Portaria n.º 18/78](https://diariodarepublica.pt/dr/detalhe/portaria/18-1978-468830) e [Decreto Regulamentar n.º 7/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1978-446535) e [Decreto n.º 89/78](https://diariodarepublica.pt/dr/detalhe/decreto/89-1978-329999) e [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286) e [Portaria n.º 224/80](https://diariodarepublica.pt/dr/detalhe/portaria/224-1980-475125) e [Portaria n.º 534/81](https://diariodarepublica.pt/dr/detalhe/portaria/534-1981-578518) e [Decreto-Lei n.º 91/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1984-661913) e [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), publicado em 1997-08-18.
+> Alterado pelo/a [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286), publicado em 1979-12-31.
 
 ###### Artigo 32.º — Inspecção Superior de Salubridade
 
-1. À Inspecção Superior de Salubridade cabe, em geral, a promoção das condições de higiene do meio ambiente, de construções e de instalações e a vigilância da utilização de substâncias ou produtos potencialmente prejudiciais ou nocivos à saúde, e bem assim as matérias técnicas, administrativas e de inspecção correlacionadas com tais actividades.
+(Revogado.)
 
-2. A competência da Inspecção Superior de Salubridade abrange, em especial:
-
-a) A higiene da habitação;
-
-b) A higiene das instalações industriais e comerciais e de outros locais de trabalho, recintos de espectáculos e instalações de utilização pública;
-
-c) O saneamento de águas e esgotos;
-
-d) A prevenção e luta contra a poluição do ar, do solo e das águas;
-
-e) A salubridade dos meios de transporte;
-
-f) A prevenção e luta contra as radiações ionizantes;
-
-g) A prevenção e luta contra os ruídos;
-
-h) O contrôle de reservatórios e vectores de agentes patogénicos;
-
-i) A higiene da alimentação;
-
-j) O contrôle de substâncias ou produtos com implicações sanitárias nos alimentos;
-
-k) A vigilância relativa às concessões e explorações de águas minero-medicinais e de mesa e às instalações de hidroterapia e fisioterapia.
-
-3. Para o exercício da sua competência, a Inspecção Superior de Salubridade compreende os seguintes serviços:
-
-a) Direcção de Serviços de Engenharia Sanitária;
-
-b) Direcção de Serviços de Higiene da Alimentação;
-
-c) Inspecção Técnica de Hidroterapia e Fisioterapia.
-
-4. A competência relativa às matérias constantes das alíneas a) a h) do n.º 2 deste artigo é exercida por intermédio da Direcção de Serviços de Engenharia Sanitária.
-
-5. Cabe ainda à Direcção de Serviços de Engenharia Sanitária:
-
-a) O licenciamento e vigilância de piscinas, parques de campismo e turismo e instalações similares;
-
-b) Outros aspectos de higiene do meio ambiente.
-
-6. Até serem organizados na Direcção de Serviços de Engenharia Sanitária os Serviços de Luta Contra Vectores, a respectiva competência continuará a ser exercida pelos Serviços de Higiene Rural e Defesa Anti-Sezonática, que mantêm, entretanto, a sua autonomia.
-
-7. É exercida por intermédio da Direcção dos Serviços de Higiene da Alimentação a competência relativa às matérias constantes das alíneas i) e j) do n.º 2 deste artigo, a qual abrange, designadamente:
-
-a) A higiene dos alimentos, acompanhada ao longo de todo o circuito de produção, industrialização, armazenagem, comercialização e utilização ou consumo;
-
-b) A higiene de substâncias ou produtos relacionados com os alimentos, designadamente adubos, pesticidas, aditivos, antibióticos e similares;
-
-c) A higiene das embalagens dos produtos referidos nas alíneas anteriores;
-
-d) A prospecção e estudo das rações de animais nos aspectos relacionados com a saúde do homem;
-
-e) A melhoria das condições de nutrição, em colaboração com o Instituto Nacional de Saúde nas matérias que a este competem;
-
-f) A orientação da dietética, nomeadamente quanto a estabelecimentos públicos ou particulares que forneçam refeições colectivas.
-
-8. É exercida por intermédio da Inspecção Técnica de Hidroterapia e Fisioterapia a competência relativa às matérias constantes da alínea k) do n.º 2 deste artigo, a qual abrange, designadamente:
-
-a) O licenciamento e vigilância de estabelecimentos termais;
-
-b) O licenciamento e vigilância das explorações industriais e comerciais de águas minero-medicinais e de mesa;
-
-c) A higiene dos locais de exploração de águas;
-
-d) A vigilância das concessões de águas, quer se encontrem exploradas ou não, e a promoção do seu aproveitamento em boas condições higiénicas;
-
-e) O licenciamento e vigilância de estabelecimentos e instalações balneoterapêuticas e similares;
-
-f) O licenciamento e vigilância dos estabelecimentos e instalações destinados a actividades de fisioterapia.
-
-9. A Inspecção Técnica de Hidroterapia e Fisioterapia será dirigida por funcionário de categoria não inferior a técnico de 1.ª classe.
+> Revogado pelo/a [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286), publicado em 1979-12-31.
 
 ###### Artigo 33.º — Inspecção Superior de Medicina Social
 
@@ -669,7 +580,7 @@ e) A Direcção de Serviços de Saúde Mental;
 
 f) A Direcção de Serviços de Cuidados Médicos.
 
-3. A Direcção de Serviços de Profilaxia é dirigida pelo inspector superior de Medicina Social.
+3. Uma das direcções de serviços é dirigida pelo inspector superior de Medicina Social.
 
 4. Compete, em geral, à Direcção de Serviços de Profilaxia o combate às doenças transmissíveis, a cooperação no estudo e promoção de medidas de prevenção das doenças crónico-degenerativas, dos acidentes e das malformações evitáveis, bem como a preparação e coordenação de planos e programas de vacinação e o planeamento e execução de exames médicos preventivos sistemáticos da população e, em especial:
 
@@ -805,6 +716,8 @@ g) Colaborar com os demais serviços do Ministério, ou outros, em tudo quanto p
 
 h) Estudar e propor as medidas que julgue necessárias ao desenvolvimento e melhoria da prestação de cuidados médicos.
 
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
+
 ###### Artigo 34.º — Inspecção Superior do Exercício Profissional
 
 1. À Inspecção Superior do Exercício Profissional cabe, em geral, a vigilância do exercício da medicina e das profissões paramédicas e auxiliares e, em especial:
@@ -831,6 +744,8 @@ j) Colaborar nos aspectos de ordem administrativa relacionados com a comprovaç�
 
 k) Assegurar, em cada um dos sectores profissionais, a aplicação das medidas referentes a carreiras de saúde pública e colaborar com o Gabinete de Estudos e Planeamento na promoção dos correspondentes meios de actualização.
 
+l) Orientar e fiscalizar os serviços de enfermagem dos estabelecimentos dependentes da Direcção-Geral de Saúde.
+
 2. Para o exercício da sua competência, a Inspecção Superior do Exercício Profissional compreende os seguintes serviços:
 
 a) Direcção de Serviços do Exercício da Medicina;
@@ -841,7 +756,7 @@ c) Inspecção Técnica do Exercício de Enfermagem;
 
 d) Inspecção Técnica do Exercício de Profissões Paramédicas e Auxiliares.
 
-3. A Direcção de Serviços do Exercício da Medicina é dirigida pelo inspector superior do Exercício Profissional.
+3. Uma das direcções de serviços é dirigida pelo inspector superior de Exercício Profissional.
 
 4. A competência relativa às matérias constantes das alíneas a) a i) e l) do n.º 1 deste artigo é exercida, relativamente a cada um dos respectivos grupos profissionais, por intermédio dos serviços indicados no número anterior.
 
@@ -857,27 +772,29 @@ d) A proibição de venda e apreensão dos produtos fabricados em contravenção
 
 6. As Inspecções Técnicas do Exercício de Enfermagem e de Profissões Paramédicas e Auxiliares serão dirigidas por funcionários de categoria não inferior a técnico de 1.ª classe.
 
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
+
 ###### Artigo 35.º — Alteração de serviços e da sua competência
 
-1. Quando as circunstâncias o aconselhem, o esquema de serviços a que se referem os artigos 32.º a 34.º pode ser alterado por decreto.
+(Revogado.)
 
-2. Quando se considerar vantajoso para melhor funcionamento dos serviços, poderá o Ministro, por portaria, transferir alguma ou algumas das competências de uns para outros, ainda que sejam de inspecções superiores diferentes.
+> Revogado pelo/a [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286), publicado em 1979-12-31.
 
 ###### Artigo 36.º — Outros serviços
 
-1 - (Revogado.)
+1. (Revogado.)
 
-2 - (Revogado.)
+2. (Revogado.)
 
-3 - (Revogado.)
+3. (Revogado.)
 
-4 - (Revogado.)
+4. (Revogado.)
 
-5 - (Revogado.)
+5. (Revogado.)
 
 6. O Parque Sanitário é um serviço de apoio da Direcção-Geral de Saúde, designadamente das Inspecções Superiores de Profilaxia e de Medicina Social, ao qual compete armazenar e conservar o material sanitário de consumo corrente, bem como os medicamentos, soros, vacinas, desinfectantes, desinfestantes e outras substâncias de utilização normal, e ainda recolher e cuidar da manutenção das viaturas em serviço.
 
-> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628) e [Decreto-Lei n.º 515/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1974-472685) e [Decreto-Lei n.º 73/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1975-160307) e [Decreto-Lei n.º 403/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1975-336487) e [Decreto n.º 510/76](https://diariodarepublica.pt/dr/detalhe/decreto/510-1976-431395) e [Portaria n.º 3/77](https://diariodarepublica.pt/dr/detalhe/portaria/3-1977-492685) e [Portaria n.º 224/77](https://diariodarepublica.pt/dr/detalhe/portaria/224-1977-139189) e [Decreto Regulamentar n.º 39/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1977-253384) e [Portaria n.º 18/78](https://diariodarepublica.pt/dr/detalhe/portaria/18-1978-468830) e [Decreto Regulamentar n.º 7/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1978-446535) e [Decreto n.º 89/78](https://diariodarepublica.pt/dr/detalhe/decreto/89-1978-329999) e [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286) e [Portaria n.º 224/80](https://diariodarepublica.pt/dr/detalhe/portaria/224-1980-475125) e [Portaria n.º 534/81](https://diariodarepublica.pt/dr/detalhe/portaria/534-1981-578518) e [Decreto-Lei n.º 91/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1984-661913) e [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), publicado em 1997-08-18.
+> Alterado pelo/a [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286), publicado em 1979-12-31.
 
 ##### SUBSECÇÃO III — Direcção-Geral dos Hospitais
 
@@ -1051,7 +968,7 @@ b) O Instituto da Família e Acção Social.
 
 a) Propor a aprovação ou alteração dos estatutos das instituições particulares de assistência, assim como a remodelação, concentração ou extinção das mesmas instituições;
 
-b) Aprovar os quadros de pessoal e os orçamentos, ouvidas as direcções-gerais interessadas;
+b) Aprovar os quadros de pessoal e os orçamentos, ouvidas as direcções-gerais interessadas, dentro dos limites a fixar por despacho ministerial;
 
 c) Julgar as contas de gerência, de valor inferior a 2000 contos, das instituições particulares de assistência, bem como das associações religiosas a que se refere o artigo 450.º do Código Administrativo;
 
@@ -1074,6 +991,8 @@ b) A Direcção de Serviços de Orientação e Gestão.
 6. É exercida pela Direcção de Serviços de Assuntos Jurídicos a competência relativa às matérias constantes da alínea e) do n.º 1 deste artigo, cabendo-lhe ainda o estudo das questões jurídicas emergentes do exercício das restantes atribuições inerentes à tutela administrativa das instituições de assistência particular.
 
 7. A competência relativa às matérias constantes das alíneas a) a d) do n.º 1 deste artigo é exercida pela Direcção de Serviços de Orientação e Gestão.
+
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
 
 ###### Artigo 45.º — Instituto da Família e Acção Social
 
@@ -1205,9 +1124,11 @@ g) Da constituição, nas regiões, de inspecções coordenadoras, nos distritos
 
 As inspecções coordenadoras representam nas regiões as direcções-gerais e são constituídas por delegados, respectivamente da Direcção-Geral de Saúde, com a categoria de inspector de saúde, e das Direcções-Gerais dos Hospitais e da Assistência Social, com a categoria de director de serviço.
 
-###### Artigo 52.º — Subordinação hierárquica
+###### Artigo 52.º — Funcionamento
 
-As inspecções coordenadoras das regiões são hieràrquicamente subordinadas à Direcção-Geral de Saúde e apoiadas administrativamente pelos respectivos centros de saúde distritais, sem prejuízo de os despachos correrem pela correspondente Direcção-Geral, consoante as suas matérias ou assuntos.
+As inspecções coordenadoras das regiões são apoiadas administrativamente pelos respectivos centros de saúde distritais, correndo os despachos pela correspondente direcção-geral, segundo as suas matérias ou assuntos.
+
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
 
 ###### Artigo 53.º — Competência
 
@@ -1361,13 +1282,15 @@ e) Exercer as demais competências que por lei lhes sejam cometidas.
 
 2. As autoridades sanitárias distritais são coadjuvadas pelo pessoal técnico que for indispensável ao serviço, conforme a extensão e as valências dos respectivos centros de saúde.
 
-3. Em Lisboa e Porto, os directores de saúde são coadjuvados, respectivamente, por dois e por um delegado de saúde de 1.ª classe, além do demais pessoal técnico que for indispensável ao funcionamento dos serviços.
+3. Em Lisboa e Porto haverá dois directores de saúde, designando o Secretário de Estado da Saúde aquele a quem, coadjuvado pelo outro e por demais pessoal técnico indispensável, compete dirigir os serviços.
 
 4. Os directores de saúde dirigem os centros de saúde distritais, pelo que perceberão uma gratificação.
 
 5. Em Lisboa e Porto poderá existir mais de um centro de saúde, funcionando um deles como distrital em relação aos restantes, classificados de concelhios.
 
 6. A direcção dos centros concelhios a que se refere a parte final do número anterior será normalmente exercida com gratificação.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 7/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1978-446535), publicado em 1978-02-20.
 
 ###### Artigo 60.º — Unidades de saúde
 
@@ -1393,9 +1316,11 @@ d) Funções de política sanitária, a cargo do delegado de saúde, no concelho
 
 1. As comissões arbitrais de assistência são órgãos jurisdicionais, a que compete a declaração e liquidação das responsabilidades pelos encargos de assistência em que estejam interessados os estabelecimentos, serviços ou instituições de saúde e assistência.
 
-2. As comissões arbitrais regem-se por legislação própria.
+2. As comissões arbitrais regem-se por legislação própria, passando a caber à Secretaria-Geral as funções de apoio administrativo que, nos termos do [Decreto-Lei n.º 42596](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42596-1959-440479), de 19 de Outubro de 1959, cabiam à Direcção-Geral da Assistência.
 
 3. O expediente dos processos a decidir pelas comissões arbitrais de Lisboa e Porto será assegurado por pessoal do quadro da Secretaria-Geral, tendo os respectivos funcionários a competência atribuída aos funcionários de justiça dos tribunais comuns.
+
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
 
 #### SECÇÃO II — Serviços sociais
 
@@ -1419,9 +1344,11 @@ Os serviços sociais regem-se por legislação própria e têm por objectivo a p
 
 2. Os quadros constantes da tabela A entram imediatamente em vigor.
 
-3. Os quadros constantes da tabela B entrarão em vigor nos termos que sejam determinados em portarias dos Ministros das Finanças e da Saúde e Assistência.
+3. Os quadros constantes da tabela B entrarão em vigor nos termos que sejam determinados em portarias dos Ministros das Finanças e da Saúde e Assistência, sendo o primeiro provimento feito de harmonia com o disposto no artigo 65.º
 
 4. Enquanto não estiverem preenchidos os quadros constantes da tabela B, e para satisfazer necessidades urgentes de pessoal, além do compreendido nos quadros da tabela A, poderá este ser admitido e remunerado por conta de dotações destinadas a pagamento de serviços, respeitando-se, porém, nas admissões, as categorias e remunerações constantes dos quadros.
+
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
 
 ###### Artigo 65.º — Primeiro preenchimento dos quadros
 
@@ -1435,6 +1362,10 @@ Os serviços sociais regem-se por legislação própria e têm por objectivo a p
 
 5. Para aplicação do disposto no presente artigo, o Ministro poderá transferir os funcionários de um serviço para outro, desde que o novo serviço não se encontre instalado a mais de 30 km do actual, salvo acordo do interessado.
 
+6. Efectuadas as colocações referidas nos n.os 1, 2 e 3 deste artigo, as primeiras nomeações para os lugares dos quadros serão feitas por escolha do Ministro da Saúde e Assistência de entre indivíduos com a idade e as habilitações legais, obedecendo o respectivo provimento ao disposto no artigo 67.º deste diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
+
 ###### Artigo 66.º — Provimento dos lugares
 
 1. O preenchimento de lugares que não haja de obedecer às regras do artigo anterior será feito segundo as normas de provimento constantes dos números seguintes.
@@ -1443,13 +1374,13 @@ Os serviços sociais regem-se por legislação própria e têm por objectivo a p
 
 3. O director da Escola Nacional de Saúde Pública e de Medicina Tropical é nomeado nos termos estabelecidos no seu diploma orgânico.
 
-4. Os directores e subdirectores ou adjuntos do Instituto Nacional de Saúde e dos demais institutos são livremente nomeados pelo Ministro de entre pessoas especialmente qualificadas para o desempenho dos cargos.
+4. O adjunto do secretário-geral, o subdirector do Gabinete de Estudos e Planeamento, os directores e subdirectores ou adjuntos do Instituto Nacional de Saúde e dos demais institutos são livremente nomeados pelo Ministro de entre pessoas especialmente qualificadas para o desempenho dos cargos.
 
 5. Os inspectores superiores, inspectores de saúde e directores de serviços são providos nos termos e condições previstos nas carreiras profissionais ou entre o pessoal dirigente e técnico superior dos quadros dos serviços centrais ou locais, de harmonia com a preparação de base necessária para o desempenho das funções, quando a natureza técnica destas assim o exija.
 
 6. Os presidentes das comissões arbitrais de Lisboa e Porto serão magistrados nomeados pelo Ministro, em comissão de serviço, por um triénio sucessivamente renovável.
 
-7. Os chefes de repartição serão nomeados de entre diplomados com um curso superior.
+7. Os chefes de repartição serão nomeados por escolha do Ministro de entre diplomados com um curso superior, ou de entre os chefes de secção dos quadros do Ministério, ou, na falta destes, de outros serviços públicos, num e noutro caso com mais de cinco anos de bom e efectivo serviço nesta categoria.
 
 8. O pessoal integrado em carreiras profissionais é provido de acordo com as normas para elas estabelecidas.
 
@@ -1462,6 +1393,8 @@ Os serviços sociais regem-se por legislação própria e têm por objectivo a p
 12. O provimento de pessoal administrativo de categoria inferior a segundo-oficial obedece às normas gerais em vigor, sem prejuízo do disposto na alínea a) do n.º 1 do artigo 18.º
 
 13. O pessoal auxiliar poderá ser provido, mediante delegação ministerial, por despacho dos directores-gerais ou funcionários equiparados, devendo, no acesso, atender-se à antiguidade, salvo se puder observar-se o critério de selecção por habilitações devidamente comprovadas.
+
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
 
 ###### Artigo 67.º — Regimes de provimento
 
@@ -1487,11 +1420,15 @@ Os serviços sociais regem-se por legislação própria e têm por objectivo a p
 
 ###### Artigo 70.º — Pessoal do Gabinete de Estudos e Planeamento
 
-1. Além do pessoal compreendido no mapa anexo, o Ministro pode requisitar, para prestarem serviço no Gabinete de Estudos e Planeamento, funcionários com a categoria dos cargos que estejam a desempenhar na altura da requisição, ainda que neles providos interinamente ou em comissão de serviço.
+1. Além do pessoal compreendido no mapa anexo, o Ministro pode requisitar, para prestarem serviço no Gabinete de Estudos e Planeamento, funcionários com a categoria dos cargos que estejam a desempenhar na altura da requisição, ainda que neles providos interinamente ou em comissão de serviço, ou admitidos ao abrigo do artigo 82.º deste diploma.
 
-2. A estes cargos poderão regressar, nas mesmas condições, logo que sejam dispensados dos seus serviços no Gabinete.
+2. A estes cargos poderão regressar, nas mesmas condições e sem perda de quaisquer direitos ou regalias dos lugares de origem, logo que sejam dispensados dos seus serviços no Gabinete.
 
 3. Os funcionários requisitados nos termos do n.º 1 deste artigo não abrem vaga, mas os cargos em que estão providos poderão ser preenchidos provisòriamente.
+
+4. O tempo de serviço prestado no Gabinete de Estudos e Planeamento pelos funcionários requisitados nos termos do n.º 1 contará para todos os efeitos, incluindo os de acesso nas carreiras a que pertençam.
+
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
 
 ###### Artigo 71.º — Pessoal dos serviços dotados de autonomia
 
@@ -1583,49 +1520,53 @@ A criação de serviços ou estabelecimentos será feita, ouvido o Gabinete de E
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628) e [Decreto-Lei n.º 515/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1974-472685) e [Decreto-Lei n.º 73/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1975-160307) e [Decreto-Lei n.º 403/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1975-336487) e [Decreto n.º 510/76](https://diariodarepublica.pt/dr/detalhe/decreto/510-1976-431395) e [Portaria n.º 3/77](https://diariodarepublica.pt/dr/detalhe/portaria/3-1977-492685) e [Portaria n.º 224/77](https://diariodarepublica.pt/dr/detalhe/portaria/224-1977-139189) e [Decreto Regulamentar n.º 39/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1977-253384) e [Portaria n.º 18/78](https://diariodarepublica.pt/dr/detalhe/portaria/18-1978-468830) e [Decreto Regulamentar n.º 7/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1978-446535) e [Decreto n.º 89/78](https://diariodarepublica.pt/dr/detalhe/decreto/89-1978-329999) e [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286) e [Portaria n.º 224/80](https://diariodarepublica.pt/dr/detalhe/portaria/224-1980-475125) e [Portaria n.º 534/81](https://diariodarepublica.pt/dr/detalhe/portaria/534-1981-578518) e [Decreto-Lei n.º 91/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1984-661913) e [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), publicado em 1997-08-18.
+> Revogado pelo/a [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), publicado em 1997-08-18.
 
 ###### Artigo 80.º — Cobertura de encargos
 
-As despesas com o funcionamento dos serviços ou estabelecimentos instalados nos termos do artigo anterior serão satisfeitas, mediante despacho ministerial, por conta das dotações globais ou dos subsídios que lhes forem atribuídos ou ainda pelas disponibilidades verificadas em quaisquer receitas dos organismos em que forem criados.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), publicado em 1997-08-18.
 
 ###### Artigo 81.º — Receitas e despesas no período de instalação
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628) e [Decreto-Lei n.º 515/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1974-472685) e [Decreto-Lei n.º 73/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1975-160307) e [Decreto-Lei n.º 403/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1975-336487) e [Decreto n.º 510/76](https://diariodarepublica.pt/dr/detalhe/decreto/510-1976-431395) e [Portaria n.º 3/77](https://diariodarepublica.pt/dr/detalhe/portaria/3-1977-492685) e [Portaria n.º 224/77](https://diariodarepublica.pt/dr/detalhe/portaria/224-1977-139189) e [Decreto Regulamentar n.º 39/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1977-253384) e [Portaria n.º 18/78](https://diariodarepublica.pt/dr/detalhe/portaria/18-1978-468830) e [Decreto Regulamentar n.º 7/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1978-446535) e [Decreto n.º 89/78](https://diariodarepublica.pt/dr/detalhe/decreto/89-1978-329999) e [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286) e [Portaria n.º 224/80](https://diariodarepublica.pt/dr/detalhe/portaria/224-1980-475125) e [Portaria n.º 534/81](https://diariodarepublica.pt/dr/detalhe/portaria/534-1981-578518) e [Decreto-Lei n.º 91/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1984-661913) e [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), publicado em 1997-08-18.
+> Revogado pelo/a [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), publicado em 1997-08-18.
 
 ###### Artigo 82.º — Admissão de pessoal no período de instalação
 
-1. Durante o período de instalação, o Ministro da Saúde e Assistência poderá autorizar livremente a admissão do pessoal indispensável ao funcionamento dos serviços, sem prejuízo, porém, das exigências das habilitações de base e do limite de idade, estabelecidas para lugares de idênticas categorias dos quadros ou das carreiras profissionais.
+(Revogado.)
 
-2. As admissões serão feitas em regime de prestação eventual de serviço, salvo se recaírem em funcionários públicos ou administrativos, caso em que serão feitas em comissão de serviço.
-
-3. O despacho de admissão estabelecerá a competente remuneração, tendo em conta o vencimento fixado para idênticas categorias dos quadros ou carreiras.
-
-4. As admissões caducam, findo o período de instalação, se os admitidos não vierem a ingressar nos quadros do respectivo serviço ou estabelecimento.
+> Revogado pelo/a [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), publicado em 1997-08-18.
 
 ###### Artigo 83.º — Regime de previdência
 
-O pessoal admitido nos termos do artigo 82.º será inscrito na Caixa Geral de Aposentações e poderá beneficiar do regime da Assistência na Doença aos Servidores Civis do Estado.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), publicado em 1997-08-18.
 
 ###### Artigo 84.º — Aprovação de quadros e distribuição de pessoal
 
-1. Os quadros do pessoal serão aprovados por decreto conjunto dos Ministros das Finanças e da Saúde e Assistência antes do termo do período fixado para a instalação.
+(Revogado.)
 
-2. O pessoal admitido durante o período de instalação que se encontrar em exercício à data da publicação dos quadros poderá ser distribuído pelos lugares iguais ou equivalentes constantes dos mesmos, mediante despacho ministerial, independentemente de visto e posse.
+> Revogado pelo/a [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), publicado em 1997-08-18.
 
 ###### Artigo 85.º — Comissões instaladoras
 
-O Ministro da Saúde e Assistência pode determinar, em portaria, a constituição de comissões encarregadas da gerência, reforma ou instalação de certos serviços ou estabelecimentos ou ramos de serviços sob a sua jurisdição, fixando, por despacho, as remunerações dos seus componentes, com o acordo do Ministro das Finanças.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), publicado em 1997-08-18.
 
 ###### Artigo 86.º — Alteração de serviços
 
-1. A concentração, conversão, alteração ou extinção dos serviços e estabelecimentos previstos no presente diploma far-se-ão, ouvido o Gabinete de Estudos e Planeamento, por decreto do Ministro da Saúde e Assistência, referendado pelo Ministro das Finanças.
+1. A concentração, conversão, alteração ou extinção dos serviços e estabelecimentos previstos no presente diploma, com excepção dos centros de saúde, far-se-ão, ouvido o Gabinete de Estudos e Planeamento e a direcção-geral interessada, por decreto do Ministro da Saúde e Assistência, referendado pelo Ministro das Finanças.
 
 2. Os encargos dos serviços transferidos continuarão a ser satisfeitos até final do ano económico pelas rubricas em que tinham cabimento.
 
 3. Nos decretos que extingam serviços ou estabelecimentos será fixado o destino dos respectivos bens.
+
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
 
 ## TÍTULO III — Disposições gerais, transitórias e finais
 
@@ -1655,15 +1596,19 @@ Para efeitos de internamento e tratamento hospitalar, mantém-se a hierarquia de
 
 ###### Artigo 91.º — Extinção das delegações e subdelegações de saúde
 
-1. As delegações e subdelegações de saúde serão extintas logo que nos respectivos concelhos sejam criados centros de saúde, para os quais transitam as suas funções.
+1. As delegações e subdelegações de saúde consideram-se extintas a partir da data em que, por despacho ministerial publicado no Diário do Governo, for decidida a entrada em funcionamento normal dos centros de saúde dos respectivos concelhos, para os quais transitam as suas funções.
 
 2. Os delegados e subdelegados de saúde das delegações e subdelegações extintas que por não reunirem as condições estabelecidas para o ingresso na carreira médica de saúde pública não possam nela ser integrados mantêm os seus vencimentos, prestando, contudo, serviço nos centros de saúde do respectivo concelho nas valências que a autoridade sanitária determinar, salvo se preferirem ingressar no grau 2 da referida carreira.
 
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
+
 ###### Artigo 92.º — Extinção dos dispensários de higiene social
 
-1. Os dispensários de higiene social serão extintos logo que nos respectivos concelhos sejam criados centros de saúde, para os quais transitam as suas funções, direitos e obrigações.
+1. Os dispensários de higiene social consideram-se extintos a partir da data em que, por despacho ministerial, publicado no Diário do Governo, for decidida a entrada em funcionamento normal dos centros de saúde dos respectivos concelhos, para os quais transitam as suas funções, direitos e obrigações.
 
 2. O pessoal dos dispensários extintos transita para os correspondentes centros de saúde.
+
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
 
 ###### Artigo 93.º — Extinção dos dispensários de higiene social de Lisboa, Porto e Coimbra
 
@@ -1697,35 +1642,37 @@ a) [Decreto n.º 20285](https://diariodarepublica.pt/dr/detalhe/decreto/20285-19
 
 b) [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942;
 
-c) [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, mantendo-se transitòriamente em vigor os artigos 66.º a 70.º, aplicáveis às delegações e subdelegações de saúde até à sua completa extinção, bem como os referentes às instituições particulares de assistência, enquanto não for publicado o seu novo regulamento;
+c) [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, mantendo-se transitòriamente em vigor os artigos 66.º a 70.º, aplicáveis às delegações e subdelegações de saúde até à sua completa extinção e os artigos referentes às instituições particulares de assistência, enquanto não for publicado o seu novo regulamento, bem como o quadro do pessoal das circunscrições de defesa sanitária dos portos marítimos e aéreos, que consta do mapa V anexo ao referido [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), até que aquelas venham a integrar-se nos centros de saúde distritais, extinguindo-se, porém, os respectivos lugares à medida que forem vagando;
 
 d) [Decreto-Lei n.º 38331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38331-1951-583380), de 4 de Julho de 1951;
 
 e) [Decreto-Lei n.º 41401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41401-1957-251457), de 27 de Novembro de 1957;
 
-f) [Decreto-Lei n.º 42210](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42210-1959-585976), de 13 de Abril de 1959;
+f) [Decreto-Lei n.º 42210](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42210-1959-585976), de 13 de Abril de 1959, excepto o § 2.º do artigo 6.º, enquanto não for publicado o diploma que reorganize a Junta Sanitária de Águas;
 
 g) [Decreto-Lei n.º 43754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43754-1961-171543), de 24 de Junho de 1961;
 
 h) [Decreto-Lei n.º 43792](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43792-1961-172703), de 14 de Julho de 1961;
 
-i) [Decreto-Lei n.º 43853](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43853-1961-173122), de 10 de Agosto de 1961;
+i) [Decreto-Lei n.º 48853](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48853-1969-526655), de 10 de Agosto de 1961, excepto os artigos 8.º e 9.º;
 
 j) [Decreto-Lei n.º 44277](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44277-1962-516257), de 13 de Abril de 1962;
 
-k) [Decreto-Lei n.º 44320](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44320-1962-516057), de 30 de Abril de 1962;
+k) [Decreto-Lei n.º 44320](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44320-1962-516057), de 30 de Abril de 1962, mantendo-se, contudo, transitòriamente, as situações criadas ao abrigo do mesmo e existentes na data da publicação do presente diploma;
 
 l) [Decreto-Lei n.º 45148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45148-1963-693639), de 20 de Julho de 1963;
 
 m) [Decreto-Lei n.º 45294](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45294-1963-687426), de 4 de Outubro de 1963;
 
-n) [Decreto-Lei n.º 46310](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46310-1965-236719), de 27 de Abril de 1965;
+n) [Decreto-Lei n.º 46310](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46310-1965-236719), de 27 de Abril de 1965, excepto os n.os 2 e 3 do artigo 1.º;
 
-o) [Decreto-Lei n.º 48166](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48166-1967-401512), de 27 de Dezembro de 1967;
+o) [Decreto-Lei n.º 48166](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48166-1967-401512), de 27 de Dezembro de 1967, excepto o artigo 5.º, o n.º 2 do artigo 14.º e a alínea a) do artigo 19.º, e sem prejuízo do disposto no [Decreto-Lei n.º 211/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1972-674003), de 23 de Junho.
 
 p) [Decreto-Lei n.º 102/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1971-445756), de 24 de Março.
 
 2. O Regulamento Geral de Saúde e de Beneficência Pública, de 24 de Dezembro de 1901, considera-se revogado a partir do momento em que for publicado o regulamento a que se refere o artigo seguinte.
+
+> Alterado pelo/a [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), publicado em 1972-08-22.
 
 ###### Artigo 98.º — Regulamentação, interpretação e entrada em vigor deste decreto-lei
 
@@ -1736,6 +1683,10 @@ p) [Decreto-Lei n.º 102/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei
 3. A integração dos serviços oficiais de saúde e assistência das ilhas adjacentes na orgânica estabelecida por este diploma será feita nos termos e prazos a fixar em portaria dos Ministros do Interior e da Saúde e Assistência.
 
 4. Este decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+
+Para efeito de preenchimento dos lugares de auxiliar de enfermagem de saúde pública e de enfermeiro de 3.ª e de 2.ª classes de saúde pública é considerado como limite o número global correspondente ao somatório do número de lugares destas três categorias.
+
+> Alterado pelo/a [Portaria n.º 18/78](https://diariodarepublica.pt/dr/detalhe/portaria/18-1978-468830), publicado em 1978-01-11.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 

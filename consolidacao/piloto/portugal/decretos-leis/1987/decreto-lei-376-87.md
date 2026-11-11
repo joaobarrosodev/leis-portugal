@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:666745:por
     title: Decreto-Lei n.º 364/93
     publication_date: '1993-10-22'
-  - id: pt:dre:666745:por
-    title: Decreto-Lei n.º 364/93
-    publication_date: '1993-10-22'
   - id: pt:dre:241228:por
     title: Lei n.º 44/96
     publication_date: '1996-09-03'
@@ -82,7 +79,7 @@ O expediente dos tribunais judiciais, incluindo o do Ministério Público, é as
 
 4 - O serviço urgente que deva ser executado para além do horário de funcionamento das secretarias é assegurado, sob a superior orientação dos magistrados, pela forma acordada entre os funcionários que chefiem os respectivos serviços judiciais e do Ministério Público.
 
-> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745) e [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228) e [Decreto-Lei n.º 150/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1997-367398) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Alterado pelo/a [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228), publicado em 1996-09-03.
 
 ###### Artigo 4.º — Entrada nas secretarias
 
@@ -100,21 +97,25 @@ O expediente dos tribunais judiciais, incluindo o do Ministério Público, é as
 
 ###### Artigo 6.º — Distribuição do pessoal
 
-1 - Os escrivães de direito e os técnicos de justiça principais são titulares da secção para que foram nomeados.
+1 - Consoante a natureza e o volume do serviço, os secretários judiciais e os secretários técnicos dirigem uma ou mais secretarias.
 
-2 - O restante pessoal é distribuído, conforme os casos, por despacho do secretário do tribunal ou do funcionário que superintender nos serviços do Ministério Público, ouvidos os magistrados e os funcionários interessados.
+2 - Quando o volume do serviço assim o permitir, os secretários judiciais colocados em secretarias-gerais podem dirigir secretaria ou secretarias abrangidas por aquela.
 
-3 - Independentemente dos lugares que ocupam, e em casos excepcionais, designadamente da vacatura de lugares ou de grande acumulação de serviço, os oficiais de justiça têm o dever de colaborar na normalização do serviço.
+3 - Os escrivães de direito e os técnicos de justiça principais são titulares da secção para que foram nomeados.
+
+4 - O restante pessoal é distribuído, conforme os casos, por despacho do secretário do tribunal ou do funcionário que superintender nos serviços do Ministério Público, ouvidos os magistrados e os funcionários interessados.
+
+5 - Independentemente dos lugares que ocupam, e em casos excepcionais, designadamente da vacatura de lugares ou de grande acumulação de serviço, os oficiais de justiça têm o dever de colaborar na normalização do serviço.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 7.º — Turnos de férias de Verão
 
-1 - Até ao fim do mês de Maio, e sem prejuízo do disposto no artigo 85.º, o secretário judicial deve distribuir por turnos de férias de Verão o pessoal da secretaria e o funcionário que superintender nos serviços do Ministério Público, o respectivo pessoal após a sua audição e a dos respectivos magistrados.
+1 - Os mapas de férias previstos no n.º 4 do artigo 85.º distribuem por turnos de férias de Verão o pessoal das secretarias, tendo em conta o estado dos serviços.
 
-2 - Quando não seja possível organizar turnos autónomos, a distribuição será feita pelo secretário judicial, por forma a assegurar o serviço do tribunal de instrução criminal e do Ministério Público.
+2 - Se não for possível organizar turnos autónomos, a distribuição é feita pelo secretário judicial, por forma a assegurar também o serviço do Ministério Público.
 
-3 - Os oficiais de justiça que não estejam de turno podem ausentar-se da sede da comarca durante o período de férias, mediante simples comunicação escrita dirigida ao seu superior hierárquico e indicação do lugar para onde vão residir.
-
-4 - São considerados de licença para férias, para todos os efeitos legais, os dias em que, ao abrigo do disposto no número anterior, os funcionários estiverem ausentes da sede da comarca.
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 7.º-A — Funcionários das secretarias dos tribunais de turno
 
@@ -140,19 +141,17 @@ c) Que abranja as restantes comarcas, um funcionário dos serviços judiciais e 
 
 8 - Os oficiais justiça devem, sempre que possível, comunicar a ocorrência das situações referidas no número anterior por forma que fique assegurada a respectiva substituição.
 
-> Aditado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745) e [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228) e [Decreto-Lei n.º 150/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1997-367398) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Aditado pelo/a [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228), publicado em 1996-09-03.
 
 ###### Artigo 8.º — Coadjuvação de autoridades
 
 1 - Os funcionários das secretarias judiciais e dos serviços do Ministério Público podem solicitar a colaboração de quaisquer autoridades para execução de actos de serviço.
 
-2 - Em cada tribunal superior e em cada juízo do tribunal criminal e do Tribunal de Instrução Criminal de Lisboa e do Porto há um guarda da Polícia de Segurança Pública e nos restantes tribunais de competência especializada de Lisboa e do Porto há um guarda da Polícia de Segurança Pública para cada grupo de três juízos ou para cada juízo, conforme estejam instalados ou não no mesmo edifício.
+2 - Junto dos tribunais em que as circunstâncias inerentes ao seu funcionamento o imponham, haverá guardas da Polícia de Segurança Pública, em termos a estabelecer por despacho conjunto dos Ministros da Administração Interna e da Justiça.
 
-3 - O disposto no número anterior pode ser tornado extensivo a outros tribunais, sempre que as circunstâncias o exijam, mediante despachos dos Ministros da Administração Interna e da Justiça.
+3 - Os guardas da Polícia de Segurança Pública só podem ser requisitados para coadjuvar os oficiais de justiça na efectivação de diligências externas ou para assegurarem a manutenção da ordem pública no decurso de actos judiciais de que possa resultatar a sua perturbação.
 
-4 - Consideram-se proferidos ao abrigo do número anterior os despachos conjuntos dos Ministros da Administração Interna e da Justiça proferidos ao abrigo do disposto no n.º 3 do artigo 10.º do [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro.
-
-5 - Os guardas da Polícia de Segurança Pública só podem ser requisitados para coadjuvar os oficiais de justiça na efectivação de diligências externas ou para assegurarem a manutenção da ordem pública no decurso de actos judiciais de que possa resultatar a sua perturbação.
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 #### SECÇÃO II — Composição e competências das secretarias judiciais
 
@@ -164,7 +163,17 @@ c) Que abranja as restantes comarcas, um funcionário dos serviços judiciais e 
 
 2 - A secretaria das relações compreende uma repartição administrativa, composta por duas secções, serviços judiciais, compostos por uma secção central e por secções de processos, e serviços do Ministério Público.
 
-3 - A secretaria dos tribunais de 1.ª instância compreende serviços judiciais, compostos por uma secção central e uma ou mais secções de processos, e serviços do Ministério Público, que, consoante a natureza e volume do serviço, são constituídos por uma secção central e uma ou mais secções de processos ou por unidades de apoio.
+3 - A secretaria dos tribunais de 1.ª instância compreende:
+
+a) Serviços judiciais, compostos, consoante a natureza e volume do serviço, por uma secção central e uma ou mais secções de processos, ou por uma secção central e de processos única;
+
+b) Serviços do Ministério Público, compostos, consoante a natureza e volume do serviço, por uma secção central e secções de processos, por uma secção central e de processos única, ou por unidades de apoio.
+
+4 - Onde o volume de serviço o justifique, podem criar-se secções centrais de serviço externo com funções de centralização do serviço desta natureza de uma ou mais secretarias.
+
+5 - A secção central de serviço externo integra-se numa das secretarias abrangidas ou, quando exista, na Secretaria-Geral.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 10.º — Competência da secretaria do Supremo Tribunal de Justiça
 
@@ -172,7 +181,7 @@ c) Que abranja as restantes comarcas, um funcionário dos serviços judiciais e 
 
 a) Efectuar o registo dos requerimentos dirigidos à presidência e dos despachos preferidos pelo presidente;
 
-b) Elaborar os termos de posse;
+b) Elaborar os termos de aceitação e posse;
 
 c) Organizar a biblioteca;
 
@@ -210,25 +219,23 @@ f) Desempenhar quaisquer outras funções conferidas por lei.
 
 3 - Compete aos serviços do Ministério Público da Secretaria do Supremo Tribunal de Justiça:
 
-a) Elaborar os termos de posse dos magistrados do Ministério Público e dos funcionários dos respectivos serviços;
+a) Movimentar os processos e efectuar o respectivo registo e expediente;
 
-b) Organizar o arquivo e respectivos índices;
+b) Coadjuvar o procurador-geral-adjunto e os procuradores da República na movimentação dos processos a cargo das secções, designadamente no controle de prazos e elaboração de pareceres, alegações e contra-alegações;
 
-c) Movimentar os processos e efectuar o respectivo registo e expediente;
+c) Preparar, tratar e organizar os elementos e dados necessários à elaboração do relatório anual;
 
-d) Coadjuvar o procurador-geral-adjunto e os procuradores da República na movimentação dos processos a cargo das secções, designadamente no controle de prazos e elaboração de pareceres, alegações e contra-alegações;
+d) Passar certidões, cópias e extractos;
 
-e) Preparar, tratar e organizar os elementos e dados necessários à elaboração do relatório anual;
+e) Desempenhar quaisquer outras funções conferidas por lei.
 
-f) Passar certidões, cópias e extractos;
-
-g) Desempenhar quaisquer outras funções conferidas por lei.
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 11.º — Competência da secretaria das relações
 
 1 - Compete à Repartição Administrativa da secretarias das relações:
 
-a) Elaborar os termos de posse;
+a) Elaborar os termos de aceitação e posse;
 
 b) Organizar a biblioteca;
 
@@ -274,7 +281,7 @@ b) Apresentar os processos prontos para julgamento;
 
 c) Passar certidões relativas a processos pendentes;
 
-d) Preencher verbetes estatísticos relativos aos processos;
+d) Preencher verbetes estatísticos relativos aos processos e fornecer os dados necessários à elaboração dos respectivos mapas;
 
 e) Efectuar liquidações;
 
@@ -294,6 +301,8 @@ e) Registar e tratar a informação criminal e de outra natureza;
 
 f) Desempenhar quaisquer outras funções conferidas por lei.
 
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
+
 ###### Artigo 12.º — Competência das secretarias dos tribunais de 1.ª instância
 
 1 - Compete à secção central dos serviços judiciais da secretaria dos tribunais de 1.ª instância:
@@ -310,19 +319,21 @@ e) Escriturar a receita e despesa do cofre;
 
 f) Processar as despesas da secretaria;
 
-g) Elaborar os termos de posse;
+g) Elaborar os termos de aceitação e posse;
 
 h) Organizar o arquivo e os respectivos índices;
 
 i) Organizar a biblioteca;
 
-j) Elaborar os mapas estatísticos;
+j) Guardar os objectos respeitantes a processos;
 
-l) Passar certidões;
+l) Elaborar os mapas estatísticos;
 
-m) Executar o expediente que não seja da competência das secções de processos;
+m) Passar certidões;
 
-n) Desempenhar quaisquer outras funções conferidas por lei.
+n) Executar o expediente que não seja da competência das secções de processos;
+
+o) Desempenhar quaisquer outras funções conferidas por lei.
 
 2 - Compete às secções de processos dos serviços judiciais da secretaria dos tribunais de 1.ª instância:
 
@@ -330,7 +341,7 @@ a) Registar e movimentar os processos;
 
 b) Passar certidões relativas a processos pendentes;
 
-c) Preencher verbetes estatísticos relativos aos processos;
+c) Preencher os verbetes estatísticos relativos aos processos e fornecer os dados necessários à elaboração dos respectivos mapas;
 
 d) Efectuar liquidações;
 
@@ -344,23 +355,23 @@ b) Efectuar a distribuição de processos, denúncias e papéis pelas secções 
 
 c) Registar e tratar a informação criminal;
 
-d) Registar e guardar em depósito as armas e objectos apreendidos, bem como guardar quaisquer documentos que não possam ser apensos ou incorporados nos processos;
+d) Registar as armas e objectos apreendidos;
 
-e) Escriturar as receitas e despesas orçamentais;
+e) Guardar as armas e objectos apreendidos e, bem assim, quaisquer documentos que não possam ser apensos ou incorporados nos processos;
 
-f) Elaborar os termos de posse;
+f) Escriturar as receitas e despesas orçamentais;
 
-g) Organizar o arquivo e biblioteca;
+g) Elaborar os termos de aceitação e posse;
 
-h) Elaborar os documentos estatísticos;
+h) Organizar o arquivo e biblioteca;
 
-i) Executar o expediente que não seja da competência das secções de processos;
+i) Elaborar os documentos estatísticos;
 
-j) Passar certificados de registos de denúncia, bem como cópias, extractos ou certidões de processos findos, nos termos da lei de processo;
+j) Executar o expediente que não seja da competência das secções de processos;
 
-l) Atender o público e prestar as informações a que este possa ter acesso;
+l) Passar certificados de registos de denúncia, bem como cópias, extractos ou certidões de processos findos, nos termos da lei de processo;
 
-m) Desempenhar quaisquer outras funções conferidas por lei.
+m) Atender o público e prestar as informações a que este possa ter acesso;
 
 4 - Compete às secções de processos dos serviços do Ministério Público da secretaria dos tribunais de 1.ª instância:
 
@@ -372,17 +383,29 @@ c) Preencher as fichas necessárias respeitantes a processos pendentes;
 
 d) Desempenhar quaisquer outras funções conferidas por lei.
 
-5 - As unidades de apoio dos serviços do Ministério Público nas secretarias dos tribunais de 1.ª instância têm a competência prevista nos n.os 3 e 4 deste artigo.
+5 - Compete à secção central de serviço externo da secretaria dos tribunais de 1.ª instância:
+
+a) Receber e registar os papéis que lhe sejam remetidos para execução de serviço externo;
+
+b) Diligenciar pelo cumprimento do serviço externo que lhe seja cometido;
+
+c) Devolver, registando, os papéis, após cumprimento do serviço ordenado ou na sua impossibilidade;
+
+d) Desempenhar quaisquer outras funções conferidas por lei.
+
+6 - As unidades de apoio dos serviços do Ministério Público nas secretarias de 1.ª instância têm as competências previstas nos n.os 3 e 4, com excepção das referidas nas alíneas d), e), f) e g) do n.º 3, as quais cabem à secção central do tribunal.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ##### SUBSECÇÃO II — Secretarias-gerais
 
 ###### Artigo 13.º — Secretarias-gerais
 
-1 - Onde a natureza e o volume de serviço o exigirem haverá secretarias judiciais com funções de centralização administrativa, designadas por secretarias-gerais.
+1 - Onde a natureza e o volume de serviço o exijam, haverá secretarias judiciais com funções de centralização administrativa, designadas por secretarias-gerais, abrangendo um ou mais tribunais ou um ou mais serviços do Ministério Público.
 
-2 - As secretarias-gerais compreendem uma secção de expediente geral e uma secção de informações e arquivo.
+2 - As secretarias-gerais compreendem uma secção de expediente geral, uma secção de informações e arquivo e, quando exista, a secção central de serviço externo.
 
-3 - Nas comarcas de Lisboa e Porto há uma secretaria-geral que abrange todos os tribunais com excepção dos tribunais do trabalho, que dispõem de uma secretaria-geral própria.
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 14.º — Competência das secretarias-gerais
 
@@ -400,7 +423,11 @@ e) Guardar e catalogar todos os processos findos ou como tal considerados;
 
 f) Passar certidões respeitantes aos processos confiados à sua guarda e elaborar a respectiva conta;
 
-g) Desempenhar quaisquer outras funções conferidas por lei.
+g) Assegurar a realização do serviço cometido à secção central de serviço externo, quando esta exista;
+
+h) Desempenhar quaisquer outras funções conferidas por lei.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ##### SUBSECÇÃO III — Secretarias privativas do Ministério Público
 
@@ -408,7 +435,9 @@ g) Desempenhar quaisquer outras funções conferidas por lei.
 
 1 - Onde a natureza e o volume de serviço o exigirem haverá secretarias privativas dos serviços do Ministério Público.
 
-2 - As secretarias privativas do Ministério Público compreendem uma secção central e uma ou mais secções de processos, podendo ainda compreender uma ou mais subsecções, adstritas a áreas específicas.
+2 - As secretarias privativas do Ministério Público compreendem uma secção central e uma ou mais secções de processos ou uma secção central e de processos única, podendo ainda compreender uma ou mais subsecções, adstritas a áreas específicas.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 16.º — Competência das secretarias privativas do Ministério Público
 
@@ -448,7 +477,9 @@ Os livros das secretarias são legalizados pelo funcionário que as chefiar, med
 
 ###### Artigo 21.º — Suportes magnéticos e informáticos
 
-O Conselho Superior da Magistratura, a Procuradoria-Geral da República e o Conselho dos Oficiais de Justiça podem propor à Direcção-Geral dos Serviços Judiciários a substituição dos diversos livros por suportes magnéticos e informáticos adequados.
+O Conselho Superior da Magistratura, a Procuradoria-Geral da República e o Conselho dos Oficiais de Justiça podem propor à Direcção-Geral dos Serviços Judiciários a substituição dos diversos livros, designadamente por suportes magnéticos e informáticos adequados.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ### CAPÍTULO III — Arquivos
 
@@ -460,11 +491,13 @@ O Conselho Superior da Magistratura, a Procuradoria-Geral da República e o Cons
 
 2 - Nas comarcas onde existam secretarias-gerais o arquivo centraliza-se nas mesmas.
 
-Artigo 23.ºInutilização ou microfilmagem
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
-1 - Ponderadas a sua antiguidade e espécies e atenta a falta de espaço nos arquivos, pode o Ministro da Justiça, em condições a definir por portaria, determinar a inutilização ou microfilmagem dos processos e inquéritos findos, bem como dos demais livros e papéis.
+###### Artigo 23.º — Inutilização ou microfilmagem
 
-2 - Mantém-se em vigor a [Portaria n.º 660/84](https://diariodarepublica.pt/dr/detalhe/portaria/660-1984-373628), de 31 de Agosto.
+Ponderadas a sua antiguidade e espécies, e atenta a falta de espaço nos arquivos, pode o Ministério da Justiça, em condições a definir por portaria, determinar a inutilização ou microfilmagem dos processos e inquéritos findos, bem como dos demais livros e papéis.
+
+> Aditado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 #### SECÇÃO II — Arquivo dos serviços judiciais
 
@@ -474,9 +507,11 @@ Artigo 23.ºInutilização ou microfilmagem
 
 b) Os processos cíveis, decorridos três meses após o trânsito em julgado da respectiva sentença;
 
-c) Os processos parados há mais de um ano após a interrupção da instância.
+c) Os processos em que se verifique a interrupção da instância;
 
 2 - Os processos judiciais, livros e papéis darão ingresso no arquivo do tribunal após a fiscalização do Ministério Público e a correição do juiz.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 25.º — Saída de processos do arquivo
 
@@ -576,25 +611,29 @@ b) Operador de meios áudio-visuais;
 
 c) Tradutor.
 
+d) Técnico-adjunto de biblioteca e documentação;
+
+e) Técnico-adjunto de arquivo.
+
 3 - Nas secretarias judiciais e nos serviços do Ministério Público podem ser criados lugares das carreiras técnico-profissionais de nível 3, designadamente:
 
 a) Técnico auxiliar;
 
-b) Técnico auxiliar de biblioteca, arquivo e documentação;
+b) Secretário-recepcionista.
 
-c) Secretário-recepcionista.
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 34.º — Pessoal administrativo
 
-1 - Nas secretarias judiciais e nos serviços do Ministério Público o grupo de pessoal administrativo compreende a carreira de oficial administrativo e a carreira de escriturário-dactilógrafo.
+Nas secretarias judiciais e nos serviços do Ministério Público, o grupo de pessoal administrativo compreende a carreira de oficial administrativo e a carreira de escriturário-dactilógrafo.
 
-2 - As carreiras de oficial administrativo e de escriturário-dactilógrafo integram as categorias previstas no regime geral das carreiras da função pública.
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 35.º — Pessoal auxiliar
 
-1 - Nas secretarias judiciais e nos serviços do Ministério Público podem ser criados lugares das carreiras e categorias não insertas em carreiras do grupo auxiliar, designadamente:
+Nas secretarias judiciais e nos serviços do Ministério Público podem ser criados lugares das carreiras e categorias insertas em carreiras do grupo auxiliar, designadamente:
 
-a) Oficial-porteiro;
+a) Oficial porteiro;
 
 b) Auxiliar de segurança;
 
@@ -606,11 +645,11 @@ e) Telefonista;
 
 f) Auxiliar administrativo.
 
-2 - As carreiras mencionadas no número anterior integram as categorias previstas no regime geral de carreiras da função pública.
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 36.º — Pessoal operário
 
-1 - Nas secretarias judiciais podem ser criados lugares da carreira de operário qualificado, designadamente:
+Nas secretarias judiciais podem ser criados lugares das carreiras de operário qualificado e semiqualificado, designadamente:
 
 a) Canalizador;
 
@@ -618,9 +657,11 @@ b) Electricista;
 
 c) Carpinteiro;
 
-d) Serralheiro.
+d) Serralheiro;
 
-2 - A carreira mencionada no número anterior integra as categorias previstas no regime geral de carreiras da função pública.
+e) Jardineiro.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 #### SECÇÃO II — Descrição de conteúdos funcionais
 
@@ -638,35 +679,31 @@ Os secretários de tribunal superior, os secretários judiciais e os funcionári
 
 ###### Artigo 39.º — Movimentos dos oficiais de justiça
 
-1 - A Direcção-Geral dos Serviços Judiciários realiza movimentos dos oficiais de justiça para provimento dos lugares vagos e a vagar.
+1 - A Direcção-Geral dos Serviços Judiciários realiza movimentos dos oficiais de justiça para preenchimento dos lugares vagos e a vagar.
 
-2 - O provimento em lugares do quadro da secretaria de qualquer tribunal ou serviço do Ministério Público é efectuado mediante requerimento dirigido ao director-geral dos Serviços Judiciários.
+2 - Os movimentos dos oficiais de justiça podem ser ordinários ou extraordinários.
 
-3 - O provimento em lugares de diversas categorias depende de apresentação de requerimento para cada uma delas.
+3 - São ordinários os movimentos dos oficiais de justiça que se realizam nos meses de Fevereiro, Junho e Novembro.
 
-4 - O requerimento obedece às seguintes formalidades:
+4 - São extraordinários os movimentos dos oficiais de justiça que a Direcção-Geral dos Serviços Judiciários realiza para além daqueles a que se refere o número anterior.
 
-a) Graduação dos diferentes lugares em linhas separadas e por ordem de preferência de provimento;
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
-b) Indicação do título, efectivo ou interino, do provimento pretendido;
+###### Artigo 40.º — Requerimentos
 
-c) Menção da categoria preferida, na hipótese de apresentação de requerimentos para categorias diferentes.
+1 - Sem prejuízo do disposto no n.º 3 do artigo 55.º, o provimento em lugares do quadro da secretaria de qualquer tribunal ou serviço do Ministério Público é efectuado mediante requerimento dirigido ao director-geral dos Serviços Judiciários.
 
-5 - Não são considerados os requerimentos dos interessados que à data da sua entrada na Direcção-Geral dos Serviços Judiciários não reúnam os requisitos de admissão para os lugares pretendidos.
+2 - O provimento em lugares de diferentes categorias depende da apresentação de requerimento para cada uma delas.
 
-6 - Em cada movimento são considerados os requerimentos que tenham dado entrada na Direcção-Geral dos Serviços Judiciários até ao dia 20 do mês anterior.
+3 - O modelo do requerimento é aprovado por despacho do director-geral dos Serviços Judiciários.
 
-7 - Os requerimentos caducam com a apresentação de novo requerimento para idêntica categoria ou com a nomeação para um dos lugares pretendidos.
+4 - São considerados os requerimentos que tenham dado entrada na Direcção-Geral dos Serviços Judiciários até ao dia 10 do mês anterior ao da realização de cada movimento.
 
-8 - Os requerimentos referentes ao primeiro movimento de oficiais de justiça para o preenchimento de lugares dos quadros dos serviços do Ministério Público não estão sujeitos ao prazo previsto no n.º 6.
+5 - Não são considerados os requerimentos dos interessados que, até ao termo do prazo referido no número anterior, não reúnam os requisitos de admissão para os lugares pretendidos.
 
-###### Artigo 40.º — Periodicidade dos movimentos dos oficiais de justiça
+6 - Os requerimentos caducam decorrido um ano sobre a data da sua apresentação, com a apresentação de novo requerimento para idêntica categoria ou com a nomeação para os lugares pretendidos.
 
-1 - Os movimentos dos oficiais de justiça podem ser ordinários ou extraordinários.
-
-2 - São ordinários os movimentos dos oficiais de justiça que se realizam nos meses de Março, Junho, Setembro e Dezembro de cada ano.
-
-3 - São extraordinários os movimentos dos oficiais de justiça que a Direcção-Geral dos Serviços Judiciários realiza para além daqueles a que se refere o número anterior.
+> Alterado pelo/a [Decreto-Lei n.º 150/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1997-367398), publicado em 1997-06-16.
 
 ###### Artigo 41.º — Natureza do provimento
 
@@ -682,17 +719,21 @@ A admissão de oficiais de justiça entende-se sempre feita por urgente conveni�
 
 1 - Gozam de preferência os oficiais de justiça que requeiram transferência, salvo se possuírem na categoria classificação inferior a Bom.
 
-2 - Salvo o disposto no número anterior, na primeira nomeação para lugares de ingresso da carreira de oficial de justiça em secretarias de tribunais instalados em comarcas periféricas gozam de preferência absoluta os interessados que no requerimento a que se refere o n.º 2 do artigo 39.º assumam o compromisso de permanência no lugar pelo período de três anos.
+2 - Salvo o disposto no número anterior, na promoção para lugares das carreiras de oficial de justiça em secretarias de tribunais instalados em comarcas periféricas gozam de preferência absoluta os interessados que, no requerimento a que se refere o n.º 1 do artigo 40.º, assumam o compromisso de permanência em qualquer daquelas comarcas pelo período de três anos.
 
 3 - Salvo o disposto nos números anteriores, gozam de preferência os oficiais de justiça que requeiram transição entre categorias de ingresso e possuam na categoria de que são titulares classificação não inferior a Bom.
 
-4 - Por despacho do Ministro da Justiça e sob proposta da Direcção-Geral dos Serviços Judiciários são fixados, para efeitos do disposto no n.º 2, os tribunais instalados em comarcas periféricas.
+> Alterado pelo/a [Decreto-Lei n.º 150/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1997-367398), publicado em 1997-06-16.
 
 ###### Artigo 44.º — Transferências, transições e permutas
 
 1 - Os oficiais de justiça podem requerer transferência decorridos dois anos sobre a data da posse.
 
-2 - O tempo de permanência no lugar é reduzido a um ano, em movimento subsequente àquele que não tenha provido o lugar a preencher.
+2 - O tempo de permanência no lugar é reduzido a um ano:
+
+a) Em movimento subsequente àquele que não tenha provido o lugar a preencher por falta de candidatos;
+
+b) Quando, nos termos do n.º 3 do artigo 55.º, o funcionário haja sido nomeado oficiosamente.
 
 3 - Constituem factores atendíveis na transferência a classificação de serviço e a antiguidade.
 
@@ -701,6 +742,8 @@ A admissão de oficiais de justiça entende-se sempre feita por urgente conveni�
 5 - Os requisitos referidos nos números anteriores devem verificar-se à data da entrada do requerimento.
 
 6 - É facultada aos oficiais de justiça a permuta para lugares da mesma categoria, desde que tenham mais de um ano de serviço efectivo no lugar e lhes falte mais de três anos para atingir o limite mínimo de idade para a aposentação.
+
+> Alterado pelo/a [Decreto-Lei n.º 150/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1997-367398), publicado em 1997-06-16.
 
 ###### Artigo 45.º — Condições de acesso
 
@@ -714,11 +757,9 @@ A admissão de oficiais de justiça entende-se sempre feita por urgente conveni�
 
 ###### Artigo 46.º — Desistências
 
-1 - Os oficiais de justiça que desistam do provimento num lugar para o qual foram nomeados ficam impedidos de ser deslocados, a qualquer título, antes de decorrido um ano após o deferimento do pedido de desistência.
+Os oficiais de justiça que sejam autorizados a desistir de provimento em lugar para o qual foram nomeados passam à situação de disponibilidade, não gozando, contudo, da preferência consagrada no n.º 4 do artigo 71.º
 
-2 - Os candidatos que desistam da primeira nomeação para lugares de ingresso no quadro de oficiais de justiça não podem ser nomeados para tais lugares antes de decorrido um ano após o deferimento do pedido de desistência.
-
-3 - Sem prejuízo do disposto no n.º 1, os oficiais de justiça cujo pedido de desistência obtenha deferimento passam à situação de supranumerários no quadro de pessoal das secretarias onde estavam colocados e são nele integrados logo que ocorra vaga em lugar da respectiva categoria.
+> Alterado pelo/a [Decreto-Lei n.º 150/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1997-367398), publicado em 1997-06-16.
 
 ###### Artigo 47.º — Substituição e acumulação de funções
 
@@ -730,23 +771,37 @@ A admissão de oficiais de justiça entende-se sempre feita por urgente conveni�
 
 ##### SUBSECÇÃO II — Regras de recrutamento
 
-###### Artigo 48.º — Secretários dos tribunais superiores
+###### Artigo 48.º — Lugares a prover em comissão de serviço
 
-Sem prejuízo do disposto no n.º 1 do artigo 43.º, os lugares de secretário de tribunal superior são providos, em comissão de serviço, sob proposta da Direcção-Geral dos Serviços Judiciários, de entre secretários judiciais e secretários técnicos com classificação de Muito bom, preferindo os licenciados em Direito.
+1 - Os lugares de secretário superior são providos, em comissão de serviço, de entre secretários judiciais e secretários técnicos com classificação de Muito bom.
+
+2 - O provimento nos lugares a que se refere o número anterior é feito por despacho do director-geral dos Serviços Judiciários.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 49.º — Chefes de repartição
 
 Os lugares de chefe de repartição são providos de entre chefes de secção com, pelo menos, três anos de bom e efectivo serviço ou de entre indivíduos habilitados com curso superior adequado.
 
+###### Artigo 49.º-A — Secretários judiciais em tribunais superiores e secretarias-gerais
+
+1 - Os lugares de secretário judicial em tribunais superiores e em secretarias-gerais são providos por transferência ou transição, de entre secretários judiciais e técnicos com classificação de Muito bom na categoria e que se encontrem a mais de três anos do limite de idade para o exercício de funções.
+
+2 - Os oficiais de justiça providos nos lugares mencionados no número anterior que venham a obter classificação inferior a Muito bom são colocados na situação de disponibilidade.
+
+> Aditado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
+
 ###### Artigo 50.º — Secretários judiciais e secretários técnicos
 
-1 - O acesso à categoria de secretário judicial ou de secretário técnico faz-se por promoção de escrivães de direito e técnicos de justiça principais declarados aptos em cursos a realizar pelo centro de formação permanente de oficiais de justiça ou, ainda, por licenciados em Direito que tenham frequentado com aproveitamento os aludidos cursos.
+1 - O acesso às categorias de secretário judicial ou secretário técnico faz-se por promoção de escrivães de direito e técnicos de justiça principais declarados aptos em curso comum, a realizar pelo Centro de Formação Permanente de Oficiais de Justiça, ou, ainda, de oficiais de justiça licenciados em Direito, Economia ou Gestão, com classificação de serviço não inferior a Bom com distinção, que tenham frequentado com aproveitamento o aludido curso.
 
 2 - Gozam de preferência no provimento os escrivães de direito, técnicos de justiça principais ou licenciados em Direito que tenham realizado o curso há mais tempo.
 
 3 - Sem prejuízo do disposto no número anterior, a nomeação efectua-se segundo a ordem de graduação no curso e, em caso de igualdade, pela maior antiguidade na categoria.
 
-4 - A percentagem de licenciados em Direito a admitir a cada curso será fixada nos termos previstos no n.º 1 do artigo 181.º
+4 - A percentagem dos licenciados referidos no n.º 1 a admitir a cada curso é fixada nos termos previstos no n.º 1 do artigo 181.º
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 51.º — Escrivães de direito
 
@@ -782,9 +837,9 @@ Os lugares de chefe de repartição são providos de entre chefes de secção co
 
 1 - Os lugares de escriturário judicial e de técnico de justiça auxiliar são providos de entre indivíduos que reúnam os seguintes requisitos:
 
-a) Curso complementar do ensino secundário ou equiparado como habilitações literárias mínimas;
+a) O 11.º ano do ensino unificado ou equiparado como habilitações mínimas;
 
-b) Aprovação em provas de aptidão;
+b) Aprovação em processo de selecção;
 
 c) Aproveitamento em estágio;
 
@@ -800,79 +855,87 @@ d) Aprovação em testes públicos, a realizar no termo do estágio.
 
 6 - Os funcionários que tenham sido exonerados por inaptidão só poderão reingressar no quadro de oficiais de justiça após aprovação em novo processo de admissão.
 
-> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745) e [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228) e [Decreto-Lei n.º 150/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1997-367398) e [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
+> Alterado pelo/a [Decreto-Lei n.º 150/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1997-367398), publicado em 1997-06-16.
 
 ###### Artigo 56.º — Chefe de secção
 
-1 - Os lugares de chefe de secção são providos de entre oficiais administrativos principais habilitados com o curso geral do ensino secundário ou equiparado com, pelo menos, três anos de bom e efectivo serviço na categoria.
+Os lugares de chefe de secção são providos de entre oficiais administrativos principais habilitados com o curso geral do ensino secundário ou equiparado com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
-2 - Durante o período a que se refere o artigo 38.º, n.º 2, do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, o provimento dos lugares de chefe de secção poder-se-á também fazer de entre primeiros-oficiais.
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 57.º — Outros grupos de pessoal
 
 1 - Os lugares de outros grupos de pessoal existentes nas secretarias judiciais e nos serviços do Ministério Público são providos de acordo com as normas de provimento de pessoal da Direcção-Geral dos Serviços Judiciários.
 
-2 - A progressão nas respectivas carreiras faz-se nos termos da lei geral.
+2 - O desenvolvimento das respectivas carreiras faz-se nos termos da lei geral.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ##### SUBSECÇÃO III — Estágio para ingresso nas carreiras de oficial de justiça
 
 ###### Artigo 58.º — Processo de admissão
 
-1 - A abertura do processo de admissão é anunciada por aviso a publicar pela Direcção-Geral dos Serviços Judiciários no Diário da República, 2.ª série, do qual constem, designadamente, a indicação do programa geral das provas de aptidão e a data e o local da sua realização.
+1 - O processo de admissão inicia-se com a publicação de aviso na 2.ª série do Diário da República, do qual devem constar, designadamente, a forma e o prazo para apresentação de candidaturas e a especificação dos métodos de selecção a utilizar.
 
-2 - Os candidatos devem requerer a sua admissão às provas nos quinze dias seguintes à publicação do aviso, dirigindo o requerimento ao director-geral dos Serviços Judiciários.
+2 - A aprovação no processo de selecção é válida pelo prazo de quatro anos contados desde a data da publicação da lista dos candidatos aprovados, não podendo tais candidatos submeter-se nesse período a novo processo de admissão.
 
-3 - Entre a data da publicação do aviso a que se refere o n.º 1 e a da realização das provas mediará um espaço de tempo não inferior a 30 dias.
+3 - A lista dos candidatos aprovados ou o aviso de abertura de novo estágio, conforme os casos, são publicados na 2.ª série do Diário da República e conterão a indicação da data do início do estágio, do seu programa e do número de estagiários a colocar em cada secretaria judicial.
 
-4 - A validade das provas de aptidão é de dois anos, contados desde a data da publicação das provas.
+4 - No prazo de 10 dias a contar da publicação da lista ou do aviso a que se refere o número anterior, os candidatos aprovados indicam as secretarias judiciais onde pretendem efectuar o estágio, por ordem de preferência e em linhas separadas.
 
-5 - A lista dos candidatos declarados aptos ou o aviso de abertura de novo estágio, conforme os casos, são publicados no Diário da República, 2.ª série, e conterão a indicação da data do início do estágio, do seu programa e do número de estagiários a colocar em cada secretaria judicial, o qual não pode exceder o de escrivães de direito que nela prestam serviço.
+5 - Os candidatos são colocados por despacho do director-geral dos Serviços Judiciários, de acordo com a graduação na lista classificativa, preferindo, em caso de igualdade, os mais velhos.
 
-6 - No prazo de dez dias a contar da publicação da lista ou do aviso a que se refere o número anterior, os candidatos declarados aptos indicam, por ordem de preferência e em linhas separadas, as secretarias judiciais onde pretendem efectuar o estágio.
+6 - As colocações são publicadas na 2.ª série do Diário da República e afixadas nos tribunais cujas secretarias foram designadas para a realização do estágio.
 
-7 - Os candidatos são colocados, por despacho do director-geral dos Serviços Judiciários, de acordo com a graduação na lista classificativa, preferindo, em caso de igualdade, os mais velhos.
-
-8 - As colocações são publicadas no Diário da República, 2.ª série, e afixadas nos tribunais cujas secretarias foram designadas para a realização do estágio.
-
-9 - As provas de aptidão dos candidatos residentes nas regiões autónomas são realizadas nas sedes dos círculos judiciais do Funchal e de Ponta Delgada, devendo os avisos, listas e colocações a que se referem os números anteriores ser publicados no Diário da República, 2.ª série.
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 59.º — Estágio
 
 1 - O estágio é efectuado em secretarias judiciais de tribunais de competência genérica, cíveis, de família, criminais, correccionais e do trabalho, sob a orientação de escrivães de direito e técnicos de justiça principais, a designar pelo director-geral dos Serviços Judiciários, sob proposta do Conselho dos Oficiais de Justiça.
 
-2 - No estágio, cuja duração ininterrupta pode variar entre quatro e seis meses, são administradas matérias teóricas e práticas com vista a familiarizar os estagiários com o serviço e a aferir da sua capacidade.
+2 - No decurso do estágio, cuja duração é fixada por despacho do director-geral dos Serviços Judiciários, são ministradas matérias teóricas e práticas, tendo em vista familiarizar os estagiários com o serviço e aferir da sua capacidade.
 
 3 - Durante o estágio, e sob a responsabilidade do funcionário orientador, os estagiários incumbem-se, em grau crescente de dificuldade, de tarefas próprias das atribuições dos escriturários judiciais e dos técnicos de justiça auxiliares.
 
-4 - O estágio é dado por findo pelo secretário judicial, por sua iniciativa ou sob proposta dos funcionários orientadores, ouvidos os magistrados, se o estagiário manifestar desinteresse evidente ou conduta incompatível com a dignidade das funções.
+4 - O estágio é dado por findo pelo Centro de Formação Permanente de Oficiais de Justiça, por sua iniciativa ou sob proposta dos funcionários orientadores, se o estagiário manifestar desinteresse evidente ou conduta incompatível com a dignidade das funções.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 60.º — Conclusão do estágio
 
 1 - Concluído o estágio, o funcionário orientador elabora um relatório fundamentado sobre o aproveitamento do estagiário, com especial incidência sobre a sua idoneidade cívica, aptidão e interesse pelo serviço.
 
-2 - O relatório é submetido à apreciação do secretário judicial, que, ouvidos os magistrados, sobre ele emite parecer, concluindo pela proposta de aprovação ou exclusão do estagiário.
+2 - O relatório é submetido à apreciação do secretário judicial ou secretário técnico, que sobre ele emite parecer.
 
 3 - O relatório, o parecer e os demais elementos são remetidos, no prazo de vinte dias após o termo do estágio, à Direcção-Geral dos Serviços Judiciários, para apreciação.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 61.º — Testes públicos
 
 1 - Os estagiários que tiverem obtido bom aproveitamento são submetidos a testes públicos, incidindo sobre matérias próprias das atribuições dos escriturários judiciais e técnicos de justiça auxiliares, a realizar no prazo de 60 dias após a conclusão dos estágios.
 
-2 - Os candidatos excluídos nos testes públicos podem ser admitidos, por uma só vez, a novo processo de ingresso no quadro nunca antes de dois anos após a publicação da lista dos candidatos aprovados.
+2 - Os candidatos excluídos nos testes públicos podem ser admitidos, por uma só vez, a novo processo, nunca antes de dois anos após a publicação da respectiva lista.
 
 3 - A validade dos testes públicos é de cinco anos, contados desde a data da publicação dos resultados.
+
+> Alterado pelo/a [Decreto-Lei n.º 150/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1997-367398), publicado em 1997-06-16.
 
 ###### Artigo 62.º — Dispensa de estágio
 
 1 - Os funcionários dos quadros de pessoal da Direcção-Geral dos Serviços Judiciários e das instituições judiciárias providos em lugares dos grupos de pessoal técnico-profissional, administrativo, auxiliar e operário podem ingressar nas carreiras de oficial de justiça com dispensa de estágio, em termos a definir por despacho do Ministro da Justiça, desde que reúnam os seguintes requisitos:
 
-a) Curso complementar do ensino secundário ou equiparado como habilitações literárias mínimas;
+a) O 11.º ano do ensino unificado ou equiparado como habilitações mínimas;
 
 b) Três anos de bom e efectivo serviço;
 
 c) Aprovação nos testes públicos a que se refere o n.º 1 do artigo 61.º
 
-2 - O provimento dos funcionários a que se refere o número anterior nos lugares de técnico de justiça auxiliar e de escriturário judicial é definitivo e obedece ao disposto nos n.os 2 e 3 do artigo 55.º
+2 - Os funcionários aprovados nos testes públicos a que se refere o n.º 1 do artigo anterior não poderão, durante o prazo de validade destes, submeter-se a novos testes.
+
+3 - O provimento dos funcionários a que se refere o n.º 1 nos lugares de técnico de justiça auxiliar e de escriturário judicial é definitivo e obedece ao disposto nos n.os 2 e 3 do artigo 55.º
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ##### SUBSECÇÃO IV — Instrumentos de mobilidade
 
@@ -906,39 +969,45 @@ Aos funcionários de justiça requisitados é aplicável o disposto nos n.os 1, 
 
 2 - O destacamento faz-se pelo prazo de um ano, podendo ser prorrogado por igual período.
 
-###### Artigo 66.º — Abertura de vaga e provimento interino
+###### Artigo 66.º — Abertura de vaga
 
-1 - Em caso de provimento de funcionário em comissão de serviço, o director-geral dos Serviços Judiciários, ponderada a conveniência dos serviços, pode declarar vagos os lugares de origem.
+Em caso de requisição para departamento estranho ao Ministério da Justiça para a qual o funcionário tenha dado a sua anuência ou de provimento de funcionário em comissão de serviço, o director-geral dos Serviços Judiciários, ponderada a conveniência dos serviços, pode declarar vago o lugar de origem.
 
-2 - Pode ser provido interinamente o lugar de origem de funcionários em comissão de serviço, na situação de requisição e, em geral, em quaisquer situações que não determinem a abertura de vaga.
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 67.º — Restrições à mobilidade de oficiais de justiça
 
-1 - Nenhum oficial de justiça pode ser requisitado, destacado ou provido interinamente em lugar da sua categoria noutra secretaria judicial, serviço ou organismo antes de decorrido um ano de efectivo serviço de funções no lugar anterior ou quando nele se encontre provisoriamente provido.
+1 - Nenhum oficial de justiça pode ser requisitado, destacado ou provido interinamente antes de decorrido um ano de efectivo serviço no respectivo lugar ou enquanto nele se encontre provisoriamente provido.
 
 2 - Findas as situações de requisição, destacamento ou provimento interino, os oficiais de justiça devem regressar ao lugar de origem no prazo de cinco dias.
 
+> Alterado pelo/a [Decreto-Lei n.º 150/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1997-367398), publicado em 1997-06-16.
+
 ##### SUBSECÇÃO V — Posse, início e cessação de funções
 
-###### Artigo 68.º — Posse
+###### Artigo 68.º — Aceitação de nomeação
 
-1 - O prazo para tomar posse ou iniciar funções em qualquer lugar dos quadros das secretarias judiciais é fixado no despacho de nomeação, não podendo, contudo, exceder 30 dias.
+1 - O prazo para a aceitação da nomeação em lugar dos quadros das secretarias judiciais é fixado no despacho de nomeação, não podendo exceder 30 dias.
 
 2 - Na fixação do prazo tem-se em conta a localização geográfica da secretaria judicial a cujo quadro pertence o lugar a prover.
 
-3 - Os funcionários de justiça tomam posse perante o secretário judicial do respectivo tribunal.
+3 - Os funcionários de justiça aceitam a nomeação ou tomam posse perante o secretário judicial do respectivo tribunal.
 
-4 - Exceptuam-se do disposto no número anterior a posse dos oficiais de justiça pertencentes às secretarias privativas do Ministério Público, que é tomada perante o respectivo secretário técnico, bem como a dos secretários de tribunal superior, a dos secretários judiciais e a dos secretários técnicos, que tomam posse, conforme os casos, perante o presidente do tribunal ou perante o respectivo magistrado.
+4 - Exceptuam-se do disposto no número anterior os oficiais de justiça pertencentes às secretarias privadas do Ministério Público, que aceitam a nomeação ou tomam posse perante o respectivo secretário técnico, bem como os secretários de tribunais superiores, os secretários-gerais, os secretários judiciais e os secretários técnicos, que o fazem perante o presidente do tribunal ou o respectivo magistrado.
 
-5 - Em casos justificados, pode o director-geral dos Serviços Judiciários autorizar que os funcionários tomem posse em local e perante entidade diferente daquela para onde e sob cuja dependência tenham sido nomeados.
+5 - Em casos justificados, pode o director-geral dos Serviços Judiciários autorizar que os funcionários aceitem a nomeação ou tomem posse em local e perante entidades diferentes daquelas para onde ou sob cuja dependência tenham sido nomeados.
 
-6 - A falta de posse no prazo legal determina a impossibilidade de provimento nos quadros das secretarias judiciais pelo período de dois anos ou o levantamento de auto por abandono do lugar, conforme se trate ou não de primeira nomeação para lugares de ingresso.
+6 - A falta de aceitação ou posse nos casos de primeira nomeação para lugares de ingresso implica a exclusão do respectivo processo de admissão; nos restantes casos determina o levantamento de auto por abandono de lugar.
 
-7 - No prazo de cinco dias será enviado à Direcção-Geral dos Serviços Judiciários um duplicado do termo de posse.
+7 - No prazo de cinco dias será enviado à Direcção-Geral dos Serviços Judiciários duplicado do termo de aceitação ou posse.
+
+> Alterado pelo/a [Decreto-Lei n.º 150/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1997-367398), publicado em 1997-06-16.
 
 ###### Artigo 69.º — Funcionários em comissão
 
-Os funcionários de justiça que sejam promovidos enquanto em comissão de serviço ingressam na nova categoria, independentemente de posse, a partir da publicação do respectivo despacho.
+Os funcionários de justiça que sejam promovidos enquanto em comissão de serviço ou requisição ingressam na nova categoria, independentemente da aceitação da nomeação ou da posse, a partir da publicação do respectivo despacho.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 70.º — Cessação de funções
 
@@ -952,23 +1021,41 @@ c) No dia imediato àquele em que chegar à comarca ou lugar onde servem o Diár
 
 #### SECÇÃO IV — Disponibilidade e licença ilimitada
 
-###### Artigo 71.º — Disponibilidade e licença ilimitada
+###### Artigo 71.º — Disponibilidade e licenças
 
 1 - Consideram-se na situação de disponibilidade os funcionários de justiça que aguardam colocação em vaga da sua categoria:
 
-a) Por ter findado a comissão de serviço em que se encontravam;
+a) Por terem findado as situações de comissão de serviço ou de requisição em que se encontravam;
 
 b) Por terem regressado à actividade após cumprimento de pena;
 
-c) Por terem sido extintos os lugares que ocupavam;
-
-d) Nos demais casos previstos na lei.
+c) Nos demais casos previstos na lei.
 
 2 - A situação de disponibilidade não implica a perda de antiguidade ou de qualquer remuneração.
 
-3 - Sem prejuízo do disposto no n.º 3 do artigo 46.º, os funcionários na situação de disponibilidade são nomeados logo que ocorra vaga em lugar da respectiva categoria no quadro de secretaria de tribunal pertencente ao círculo judicial onde se integrava o último tribunal em que exerceram funções ou ao círculo judicial onde se integra a comarca em que estiveram em comissão de serviço, gozando de preferência absoluta no provimento em vaga de qualquer outra secretaria se o requererem.
+3 - Os funcionários de justiça na situação de disponibilidade são nomeados logo que ocorra vaga em lugar da respectiva categoria no quadro da secretaria do tribunal pertencente ao círculo judicial onde se integrava o último tribunal em que exerceram funções, ao círculo judicial onde se integrava a comarca em que estiveram em comissão de serviço ou requisitados, bem como, dentro dos limites de utilização do cartão de livre trânsito, às comarcas limítrofes daquele círculo judicial.
 
-4 - Os funcionários que se encontrem em gozo de licença ilimitada e desejem regressar ao serviço requerem os lugares em condições de igualdade com os que estão no exercício efectivo de funções.
+4 - Os funcionários de justiça na situação de disponibilidade por força das situações referidas nas alíneas a) e c) do n.º 1 gozam de preferência absoluta no provimento em qualquer vaga da sua categoria ou de categoria para que possam transitar, se o requererem, desde que este não implique alteração da remuneração base.
+
+5 - Aos funcionários de justiça na situação de disponibilidade é aplicável o disposto no n.º 5 do artigo 71.º-A.
+
+6 - Os funcionários que se encontrem em gozo de licença ilimitada ou de licença sem vencimento de longa duração e desejem regressar ao serviço requerem os lugares em condições de igualdade com os que estão em exercício efectivo de funções.
+
+> Alterado pelo/a [Decreto-Lei n.º 150/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1997-367398), publicado em 1997-06-16.
+
+###### Artigo 71.º-A — Supranumerários
+
+1 - Os funcionários de justiça cujos lugares sejam extintos passam à situação de supranumerários no quadro de pessoal da secretaria onde estavam colocados.
+
+2 - Os funcionários supranumerários são nomeados logo que ocorra vaga em lugar da respectiva categoria no quadro de secretaria de tribunal pertencente ao círculo judicial onde se integrava o tribunal em que exerciam funções ou, dentro dos limites de utilização do cartão de livre trânsito, a comarcas limítrofes deste círculo judicial.
+
+3 - Os funcionários supranumerários gozam de preferência absoluta no provimento em qualquer vaga da sua categoria ou de outra para que possam transitar, se o requererem, desde que tal não implique alteração da remuneração base.
+
+4 - Em caso de colocação oficiosa, o funcionário manterá a preferência referida no número anterior durante dois anos, não ficando sujeito ao prazo previsto no n.º 1 do artigo 44.º
+
+5 - Enquanto se mantiverem na situação de supranumerário, os funcionários de justiça podem ser afectos pelo director-geral dos Serviços Judiciários aos serviços da comarca que o justifiquem, independentemente da carreira a que pertençam.
+
+> Aditado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 #### SECÇÃO V — Antiguidade
 
@@ -984,23 +1071,27 @@ d) Nos demais casos previstos na lei.
 
 ###### Artigo 73.º — Funcionários interinos
 
-1 - Aos funcionários de justiça é contado, para efeitos de antiguidade, o tempo de serviço prestado como interinos quando não decorra um período de tempo superior a 90 dias, reportado à data do despacho de nomeação, entre a cessação da interinidade e o provimento efectivo.
+1 - Aos oficiais de justiça é contado, para efeitos de antiguidade, o tempo de serviço prestado como interinos, quando sejam nomeados definitivamente no primeiro movimento que se realize após a cessação da interinidade.
 
 2 - A contagem de tempo de serviço a que se refere o número anterior inicia-se no momento em que o funcionário provido interinamente satisfaça os requisitos exigidos para a nomeação efectiva.
 
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
+
 ###### Artigo 74.º — Listas de antiguidade
 
-1 - As listas de antiguidade dos funcionários de justiça são divulgadas anualmente pela Direcção-Geral dos Serviços Judiciários, sendo o respectivo anúncio publicado na 2.ª série do Diário da República.2 - Os funcionários são graduados por categorias, de harmonia com o tempo de serviço que lhes for contado, mencionando-se, a respeito de cada um, a data de nascimento, o cargo ou função que desempenha e a data de colocação.
+1 - As listas de antiguidade dos funcionários de justiça são divulgadas e distribuídas anualmente por cada tribunal pela Direcção-Geral dos Serviços Judiciários, sendo o respectivo anúncio publicado na 2.ª série do Diário da República.
+
+2 - Os funcionários são graduados por categorias, de harmonia com o tempo de serviço que lhes for contado, mencionando-se, a respeito de cada um, a data de nascimento, o cargo ou função que desempenha e a data de colocação.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 75.º — Reclamações
 
-1 - Os funcionários de justiça que se considerem lesados pela graduação constante da lista de antiguidade podem reclamar, no prazo de 30 dias a contar da publicação do anúncio a que se refere o n.º 1 do artigo anterior, em requerimento dirigido ao director-geral dos Serviços Judiciários, acompanhado de tantos duplicados quantos os funcionários a quem a reclamação possa prejudicar.
+1 - Os funcionários de justiça que se considerarem lesados pela graduação constante da lista de antiguidade podem reclamar, em requerimento dirigido ao director-geral dos Serviços Judiciários, no prazo de 30 dias, contado da publicação do anúncio a que se refere o n.º 1 do artigo anterior.
 
-2 - Os funcionários que possam ser prejudicados devem ser identificados no requerimento e serão notificados para responderem no prazo de dez dias.
+2 - A reclamação não pode fundamentar-se em contagem de tempo de serviço ou em outras circunstâncias que tenham sido consideradas em listas anteriores.
 
-3 - Apresentadas as respostas ou decorrido o prazo a elas reservado, o director-geral dos Serviços Judiciários decidirá no prazo de quinze dias.
-
-4 - A procedência da reclamação implica a reintegração do reclamante no lugar em que haja sido preterido.
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 76.º — Correcção oficiosa de erros materiais
 
@@ -1020,11 +1111,15 @@ Quando a Direcção-Geral dos Serviços Judiciários verificar que houve erro ma
 
 2 - Não são consideradas faltas as ausências, até ao limite de quatro por mês, que ocorram em virtude do exercício de funções directivas em organizações sindicais ou de classe.
 
-3 - Em caso de ausência, os funcionários devem informar previamente o respectivo superior hierárquico e indicar o local onde podem ser encontrados.
+3 - O direito previsto no número anterior pode ser cedido, no todo ou em parte, mediante declaração, a favor de um ou mais dirigentes, até atingir o tempo necessário ao exercício da actividade sindical a tempo inteiro.
 
-4 - Quando a urgência da saída não permita informar previamente o superior hierárquico, deve o funcionário comunicá-lo logo que possível, pelo meio mais expedito ao seu alcance, oferecendo na primeira oportunidade a justificação necessária.
+4 - Em caso de ausência, os funcionários devem informar previamente o respectivo superior hierárquico e indicar o local onde podem ser encontrados.
 
-5 - Os secretários dos tribunais superiores, os secretários judiciais e os secretários técnicos ou quem os substitua devem comunicar à Direcção-Geral dos Serviços Judiciários até ao dia 5 de cada mês as faltas de qualquer natureza dadas ao serviço no mês anterior pelos funcionários do tribunal.
+5 - Quando a urgência da saída não permita informar previamente o superior hierárquico, deve o funcionário comunicá-lo logo que possível, pelo meio mais expedito ao seu alcance, oferecendo na primeira oportunidade a justificação necessária.
+
+6 - Os secretários dos tribunais superiores, os secretários judiciais e os secretários técnicos ou quem os substitua devem comunicar à Direcção-Geral dos Serviços Judiciários até ao dia 5 de cada mês as faltas de qualquer natureza dadas ao serviço no mês anterior pelos funcionários do tribunal.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 79.º — Deveres
 
@@ -1058,15 +1153,17 @@ e) Pertencer às comissões concelhias de arrendamento rural.
 
 3 - O modelo da capa a que se refere o n.º 1 pode ser alterado por portaria do Ministério da Justiça.
 
-###### Artigo 82.º — Vencimentos
+###### Artigo 82.º — Sistema retributivo
 
-1 - Para efeitos de vencimento, os funcionários de justiça distribuem-se de acordo com a tabela anexa ao presente diploma.
+1 - Os sistemas retributivos dos funcionários de justiça são regulados em diplomas autónomos.
 
-2 - Os escrivães de direito dos tribunais superiores auferem o vencimento correspondente ao cargo de secretário judicial.
+2 - O suplemento remuneratório diário devido aos oficiais de justiça pela prestação de serviço na secretaria do tribunal de turno é fixado em portaria dos Ministros das Finanças e da Justiça.
 
-3 - A tabela referida no n.º 1 constitui, para os oficiais de justiça e para os secretários de tribunal superior, o vencimento da categoria, do qual fazem parte integrante as diuturnidades.
+3 - A remuneração devida pela execução de serviço urgente aos sábados, domingos e feriados em secretarias de tribunais com sede em comarcas não abrangidas por tribunais de turno é a fixada na portaria referida no número anterior.
 
-4 - Sempre que um funcionário seja provido em nova categoria ou lugar tem direito a receber o vencimento correspondente à situação anterior até tomar posse da nova categoria ou lugar.
+4 - Sempre que um funcionário seja provido em nova categoria ou lugar tem direito a receber a remuneração correspondente à situação anterior até à aceitação da nova categoria ou lugar.
+
+> Alterado pelo/a [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228), publicado em 1996-09-03.
 
 ###### Artigo 83.º — Participação em custas
 
@@ -1082,7 +1179,7 @@ e) Pertencer às comissões concelhias de arrendamento rural.
 
 ###### Artigo 84.º — Despesas de deslocação
 
-1 - Os funcionários de justiça têm direito ao reembolso, se não optarem pelo recebimento adiantado, das despesas com a sua deslocação e do agregado familiar e transporte de bagagem, quando providos, transferidos ou colocados por motivos de natureza não disciplinar.
+1 - Os funcionários de justiça têm direito ao reembolso, se não optarem pelo recebimento adiantado, das despesas com a sua deslocação e do agregado familiar e transporte da bagagem indispensável à respectiva vida doméstica, quando providos, transferidos ou colocados por motivos de natureza não disciplinar.
 
 2 - No caso de primeiras nomeações, e uma vez em exercício de funções, os funcionários de justiça têm direito ao reembolso das despesas referidas no número anterior.
 
@@ -1090,21 +1187,31 @@ e) Pertencer às comissões concelhias de arrendamento rural.
 
 4 - Os encargos a que se referem os n.os 1 e 2 são suportados nos termos do artigo 206.º
 
-###### Artigo 85.º — Licença para férias
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
-1 - A licença para férias deve ser utilizada, ainda que interpoladamente, durante o período de férias judiciais de Verão.
+###### Artigo 85.º — Direito a férias e a dias de descanso
 
-2 - Por motivo justificado, a licença para férias pode ser gozada em período diferente do referido no número anterior.
+1 - Os funcionários de justiça têm direito, em cada ano civil, a um período de férias igual ao previsto no regime geral do funcionalismo público, acrescido de tantos dias de descanso quantos os de prestação de serviço em dia de descanso semanal, complementar e feriado, designadamente em secretarias de tribunais de turno, relativos ao ano anterior.
 
-3 - Por imposição de serviço, o magistrado de quem o funcionário dependa pode determinar o seu regresso às funções, sem prejuízo do direito deste a gozar 30 dias de licença em cada ano.
+2 - O período de férias e de dias de descanso deve ser gozado, ainda que interpoladamente, durante o período de férias judiciais, em especial as de Verão.
 
-4 - À ausência para gozo de licença é aplicável o preceituado no n.º 3 do artigo 78.º
+3 - Por motivo justificado, o período de férias pode ser gozado em momento diferente do referido no número anterior.
+
+4 - Até ao fim do mês de Maio de cada ano, os funcionários que chefiem os serviços judiciais e os do Ministério Público, com a anuência dos respectivos magistrados e a audição prévia dos funcionários, devem organizar os mapas de férias do pessoal dos respectivos serviços, neles incluindo os dias de descanso que ainda não tenham gozado.
+
+5 - Por imposição de serviço, o magistrado de quem o funcionário dependa pode determinar o seu regresso às funções, sem prejuízo do direito ao gozo da totalidade do período de férias e de descanso anual.
+
+6 - Aos funcionários de justiça é aplicável o disposto no artigo 3.º do [Decreto-Lei n.º 171/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1981-578336), de 24 de Junho, com as devidas adaptações, sendo a respectiva despesa suportada nos termos do n.º 3 do artigo 206.º do presente diploma.
+
+7 - À ausência para gozo de férias e de dias de descanso é aplicável o disposto no n.º 4 do artigo 78.º
+
+> Alterado pelo/a [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228), publicado em 1996-09-03.
 
 ###### Artigo 86.º — Direito ao lugar
 
-1 - Os funcionários de justiça só podem ser transferidos para fora da comarca do lugar de origem em virtude de decisão disciplinar, por motivo de extinção do lugar ou a seu pedido.
+Os funcionários de justiça só podem ser transferidos para fora da comarca do lugar de origem em virtude de decisão disciplinar, disponibilidade, extinção do lugar ou a seu pedido.
 
-2 - No caso de extinção do lugar, o funcionário será colocado, requerendo, em secretaria de tribunal instalado na mesma comarca.
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 87.º — Direitos especiais
 
@@ -1164,9 +1271,11 @@ h) A pontualidade, assiduidade e efectividade de serviço.
 
 ###### Artigo 91.º — Periodicidade das classificações
 
-1 - Os funcionários de justiça são classificados anualmente.
+1 - Os oficiais de justiça são classificados, pelo menos, de dois em dois anos.
 
 2 - Em caso de não classificação por motivo não imputável ao funcionário, mantém-se válida a última classificação.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 92.º — Inspecções
 
@@ -1190,25 +1299,27 @@ Ao Conselho dos Oficiais de Justiça cabe apreciar o mérito e exercer o poder d
 
 ###### Artigo 96.º — Composição
 
-1 - O Conselho dos Oficiais de Justiça é presidido pelo director-geral dos Serviços Judiciários e composto pelos seguintes vogais:
+O Conselho dos Oficiais de Justiça é presidido pelo director-geral dos Serviços Judiciários e composto pelos seguintes vogais:
 
-a) Dois designados pela Direcção-Geral dos Serviços Judiciários;
+a) Dois designados pela Direcção-Geral dos Serviços Judiciários, sendo um oficial de justiça;
 
 b) Um designado pelo Conselho Superior da Magistratura;
 
 c) Um designado pela Procuradoria-Geral da República;
 
-d) Um oficial de justiça por cada distrito judicial, eleito pelos seus pares de entre secretários judiciais, secretários técnicos, escrivães de direito e técnicos de justiça principais.
+d) Um oficial de justiça por cada distrito judicial, eleito pelos seus pares.
 
-2 - O cargo de vogal do Conselho dos Oficiais de Justiça não pode ser recusado.
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 97.º — Vice-presidente e secretário
 
-1 - O vice-presidente do Conselho dos Oficiais de Justiça é um dos vogais a que se refere a alínea a) do n.º 1 do artigo anterior.
+1 - O vice-presidente do Conselho dos Oficiais de Justiça é um dos vogais a que se refere a alínea a) do artigo anterior.
 
 2 - O Conselho é secretariado por um oficial de justiça por ele designado.
 
 3 - O secretário aufere o vencimento correspondente à categoria imediatamente superior à sua.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 98.º — Forma de designação
 
@@ -1226,13 +1337,15 @@ d) No caso de restar um ou mais mandatos por distribuir, por os termos seguintes
 
 ###### Artigo 99.º — Princípios eleitorais
 
-1 - A eleição dos oficiais de justiça referida na alínea d) do n.º 1 do artigo 96.º é feita com base em recenseamento organizado pela Direcção-Geral dos Serviços Judiciários, entidade que remeterá os cadernos eleitorais ao Conselho.
+1 - A eleição dos oficiais de justiça referida na alínea d) do artigo 96.º é feita com base em recenseamento organizado pela Direcção-Geral dos Serviços Judiciários, entidade que remeterá os cadernos eleitorais ao Conselho.
 
 2 - É facultado aos eleitores o exercício do direito de voto por correspondência.
 
 3 - Só poderão ser eleitos os oficiais de justiça em efectividade de serviço.
 
 4 - A eleição tem lugar dentro dos 30 dias anteriores à vacatura dos cargos e é anunciada, com a antecedência mínima de 45 dias, por publicação no Diário da República.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 100.º — Organização de listas
 
@@ -1242,7 +1355,9 @@ d) No caso de restar um ou mais mandatos por distribuir, por os termos seguintes
 
 3 - Não pode haver candidatos por mais de uma lista.
 
-4 - Na falta de candidaturas, os vogais a que se refere a alínea d) do artigo 96.º são designados pelo director-geral dos Serviços Judiciários, devendo convocar-se novas eleições decorridos dois anos sobre esta designação.
+4 - Na falta de candidaturas, serão designadas novas eleições, a realizar no prazo de seis meses, mantendo-se em funções os vogais anteriormente eleitos.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 101.º — Comissão de eleições
 
@@ -1268,11 +1383,13 @@ A Direcção-Geral dos Serviços Judiciários adoptará as providências que se 
 
 ###### Artigo 105.º — Exercício dos cargos
 
-1 - Os vogais eleitos do Conselho dos Oficiais de Justiça mantêm-se em funções por um período de três anos, não podendo ser eleitos no triénio imediatamente seguinte.
+1 - Os vogais eleitos do Conselho dos Oficiais de Justiça mantêm-se em funções por um período de três anos.
 
 2 - Sempre que durante o exercício do cargo um vogal eleito fique impedido, é chamado o suplente, e, na falta deste, faz-se declaração de vacatura, procedendo-se a nova eleição, nos termos dos artigos anteriores.
 
 3 - Os membros do Conselho dos Oficiais de Justiça mantêm-se em exercício até à entrada em funções dos que os venham substituir.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 106.º — Estatuto dos membros do Conselho dos Oficiais de Justiça
 
@@ -1290,7 +1407,7 @@ A Direcção-Geral dos Serviços Judiciários adoptará as providências que se 
 
 Compete ao Conselho dos Oficiais de Justiça:
 
-a) Apreciar o mérito profissional e exercer a acção disciplinar sobre oficiais de justiça, sem prejuízo da competência disciplinar atribuída a juízes;
+a) Apreciar o mérito profissional e exercer a acção disciplinar sobre os oficiais de justiça, sem prejuízo da competência disciplinar atribuída a magistrados;
 
 b) Emitir parecer sobre diplomas legais relativos à organização judiciária e ao estatuto dos oficiais de justiça e, em geral, sobre matérias relativas à administração judiciária;
 
@@ -1300,23 +1417,27 @@ d) Elaborar o plano anual de inspecções;
 
 e) Ordenar inspecções, sindicâncias e inquéritos às secretarias ou funcionários de justiça;
 
-f) Aprovar o regulamento interno do Conselho;
+f) Aprovar o regulamento interno do Conselho, o regulamento das inspecções e o regulamento eleitoral;
 
 g) Adoptar as providências necessárias à organização e boa execução do processo eleitoral;
 
 h) Exercer as demais funções conferidas por lei.
 
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
+
 ###### Artigo 108.º — Funcionamento
 
 1 - O Conselho dos Oficiais de Justiça funciona em plenário.
 
-2 - O plenário é constituído por todos os membros do Conselho, nos termos do n.º 1 do artigo 96.º
+2 - O plenário é constituído por todos os membros do Conselho, nos termos do artigo 96.º
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 109.º — Competência do presidente
 
 Compete ao presidente do Conselho dos Oficiais de Justiça:
 
-a) Exercer as funções que lhe forem delegadas pelo Conselho;
+a) Representar o Conselho dos Oficiais de Justiça, bem como exercer as funções que lhe forem delegadas pelo Conselho;
 
 b) Dar posse ao vice-presidente, ao secretário e aos inspectores e respectivos secretários;
 
@@ -1325,6 +1446,8 @@ c) Dirigir e coordenar os serviços de inspecção;
 d) Elaborar, mediante proposta do secretário, ordens de execução permanente;
 
 e) Executar as demais funções conferidas por lei.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 110.º — Competência do vice-presidente
 
@@ -1498,7 +1621,9 @@ A pena de multa é fixada em dias, no mínimo de 5 e no máximo de 30.
 
 ###### Artigo 130.º — Pena de transferência
 
-A pena de transferência consiste na colocação do oficial de justiça em cargo da mesma categoria fora da área de jurisdição do tribunal ou serviço em que anteriormente exercia funções.
+A pena de transferência consiste na colocação do oficial de justiça em cargo da mesma categoria fora da área da comarca onde está sediado o tribunal ou serviço em que anteriormente exercia funções.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 131.º — Penas de suspensão de exercício e de inactividade
 
@@ -1800,7 +1925,9 @@ O funcionamento e a estrutura do Centro de Formação Permanente dos Oficiais de
 
 ###### Artigo 179.º — Aprovação dos programas
 
-Os programas dos estágios e acções de formação a ministrar no âmbito de formação permanente dos oficiais de justiça serão aprovados pelo director-geral dos Serviços Judiciários e pelo director do Centro de Estudos Judiciários, sob proposta do Conselho dos Oficiais de Justiça.
+Sob proposta do Centro de Formação de Oficiais de Justiça, os programas dos estágios e acções de formação a ministrar no âmbito da formação permanente dos oficiais de justiça são aprovados pelo director-geral dos Serviços Judiciários, ouvido o Conselho dos Oficiais de Justiça.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ###### Artigo 180.º — Regulamentação
 
@@ -1810,19 +1937,25 @@ Os cursos são regulamentados por despacho do Ministro da Justiça, com observâ
 
 1 - O número de candidatos a admitir a cada curso é estabelecido, de acordo com o cômputo previsível de vagas, pelo Ministro da Justiça, sob proposta da Direcção-Geral dos Serviços Judiciários.
 
-2 - À frequência dos cursos podem candidatar-se oficiais de justiça da categoria imediatamente inferior àquela a que pretendem ascender, preferindo os melhores classificados e, em caso de igualdade, os mais antigos.
+2 - À frequência dos cursos podem candidatar-se os oficiais de justiça da categoria imediatamente inferior com, pelo menos, três anos de serviço e classificação não inferior a Bom na categoria.
 
-3 - A inscrição abre-se por aviso publicado no Diário da República, 2.ª série, sendo de quinze dias a contar da publicação o prazo para entrada dos requerimentos na Direcção-Geral dos Serviços Judiciários.
+3 - Ao curso de formação para acesso à categoria de secretário judicial e secretário técnico podem, ainda, candidatar-se oficiais de justiça habilitados com as licenciaturas previstas no n.º 1 do artigo 50.º com, pelo menos, sete anos de serviço efectivo e classificação de Muito bom, preferindo sucessivamente a categoria e a antiguidade.
 
-4 - Nos quinze dias posteriores ao termo do prazo referido no número anterior, a Direcção-Geral remeterá para publicação a lista provisória dos candidatos admitidos e excluídos.
+4 - A inscrição abre-se por aviso publicado no Diário da República, 2.ª série, sendo de quinze dias a contar da publicação o prazo para entrada dos requerimentos na Direcção-Geral dos Serviços Judiciários.
 
-5 - Os candidatos excluídos podem reclamar perante o director-geral dos Serviços Judiciários no prazo de dez dias, devendo a reclamação ser decidida nos dez dias subsequentes, publicando-se em seguida a lista definitiva.
+5 - O processo de candidatura aos cursos inicia-se com a publicação do aviso de abertura no Diário da República, 2.ª série, sendo de 10 dias a contar da publicação o prazo para entrada dos requerimentos na Direcção-Geral dos Serviços Judiciários.
 
-6 - No curso são ministradas matérias cujo conhecimento é imprescindível ao exercício das funções inerentes aos lugares a prover, independentemente da espécie de tribunal onde o candidato presta serviço.
+6 - Os candidatos excluídos podem reclamar perante o director-geral dos Serviços Judiciários no prazo de dez dias, devendo a reclamação ser decidida nos dez dias subsequentes, publicando-se em seguida a lista definitiva.
 
-7 - Os candidatos que não concluam o curso com aproveitamento por desistência injustificada ou por terem sido julgados não aptos podem frequentar novo curso, por uma só vez, decorridos dois anos sobre a conclusão do primeiro.
+7 - No curso são ministradas matérias cujo conhecimento é imprescindível ao exercício das funções inerentes aos lugares a prover, independentemente da espécie de tribunal onde o candidato presta serviço.
 
-8 - A validade do curso é de cinco anos, contados da data da publicação dos resultados.
+8 - Os candidatos que não concluam o curso com aproveitamento por desistência injustificada ou por terem sido julgados não aptos podem frequentar novo curso, por uma só vez, decorridos dois anos sobre a conclusão do primeiro.
+
+9 - A validade do curso é de cinco anos, contados da data da publicação dos resultados.
+
+10 - A validade do curso é de cinco anos, contados da data da publicação dos resultados, não podendo os candidatos aprovados concorrer, nesse período, a curso idêntico.
+
+> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 
 ### CAPÍTULO VII — Regime supletivo
 
@@ -1833,6 +1966,12 @@ Os cursos são regulamentados por despacho do Ministro da Justiça, com observâ
 2 - São subsidiariamente aplicáveis aos funcionários de justiça no activo ou aposentados as normas vigentes para a função pública e aos primeiros o n.º 1 do artigo 95.º do [Decreto-Lei n.º 458/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1982-380091), de 24 de Novembro.
 
 3 - Os funcionários de justiça que venham a ser abrangidos pelo limite de idade previsto no número anterior podem continuar ao serviço até atingirem 65 anos de idade, desde que o requeiram nos 30 dias anteriores à data em que completarem 60 anos de idade.
+
+###### Artigo 182.º-A
+
+(Revogado.)
+
+> Aditado pelo/a [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
 
 ### CAPÍTULO VIII — Disposições finais e transitórias
 

@@ -7,21 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:391188:por
-    title: Portaria n.º 201/81
-    publication_date: '1981-02-21'
-  - id: pt:dre:311835:por
-    title: Portaria n.º 472/83
-    publication_date: '1983-04-22'
-  - id: pt:dre:321747:por
-    title: Portaria n.º 95-A/85
-    publication_date: '1985-02-13'
-  - id: pt:dre:171926:por
-    title: Portaria n.º 867/85
-    publication_date: '1985-11-15'
-  - id: pt:dre:332043:por
-    title: Portaria n.º 261/90
-    publication_date: '1990-04-09'
   - id: pt:dre:218365:por
     title: Decreto-Lei n.º 237/2004
     publication_date: '2004-12-18'
@@ -53,565 +38,303 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 ###### Artigo 1.º — (Tesourarias da Fazenda Pública: atribuições)
 
-1 - As tesourarias da Fazenda Pública constituem, nas sedes dos concelhos ou fora deles, os serviços locais da Direcção-Geral do Tesouro.
+(Revogado.)
 
-2 - Às tesourarias da Fazenda Pública incumbe, enquanto órgãos primários do tesouro público nacional:
-
-a) O serviço de arrecadação e cobrança das receitas do Estado liquidadas pela Direcção-Geral das Contribuições e Impostos;
-
-b) O serviço de arrecadação e cobrança de outras receitas do Estado ou de outras pessoas colectivas de direito público que lhes seja atribuído por lei;
-
-c) O serviço de pagamento das despesas do Estado que lhes seja cometido por lei;
-
-d) O serviço de pagamento dos vales do correio nos termos da lei;
-
-e) O serviço de pagamento de juros, rendas e outras despesas a satisfazer da conta da Junta do Crédito Público, nas localidades fora das capitais dos distritos onde esta não tenha sede ou delegação;
-
-f) O serviço de liquidação dos juros de mora das receitas virtuais;
-
-g) Quaisquer outras funções que lhes sejam cometidas por lei.
-
-3 - Compete à Direcção-Geral do Tesouro o estudo das medidas necessárias à fixação e alteração dos prazos de cobrança voluntária, à boca do cofre, das receitas previstas na alínea a) do número anterior, cabendo a sua iniciativa cumulativamente à Direcção-Geral do Tesouro e à Direcção-Geral das Contribuições e Impostos.
-
-4 - Quando a iniciativa seja da Direcção-Geral do Tesouro, deverá esta obter parecer prévio da Direcção-Geral das Contribuições e Impostos.
-
-5 - Quando a iniciativa seja da Direcção-Geral das Contribuições e Impostos, deverá esta remeter a sua proposta para estudo e apreciação final à Direcção-Geral do Tesouro, a quem compete exclusivamente apresentá-la ao Governo.
-
-6 - O disposto nos números anteriores tem prevalência absoluta sobre quaisquer normas especiais constantes de diplomas legais ou regulamentares.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 2.º — (Tesourarias da Fazenda Pública: criação e classes)
 
-1 - De acordo com o volume de serviço, deverá haver em cada concelho mais do que uma tesouraria da Fazenda Pública, criada por portaria emanada do Ministério das Finanças, sob proposta da Direcção-Geral do Tesouro, sempre que no respectivo concelho ou localidade seja criada mais do que uma repartição de finanças.
+(Revogado.)
 
-2 - O número de tesourarias da Fazenda Pública e a sua área em Lisboa e Porto devem ser alterados, por portaria do Ministério das Finanças, sob proposta da Direcção-Geral do Tesouro, sempre que o número dos bairros fiscais de Lisboa e Porto e respectivas áreas sejam alterados.
-
-3 - As tesourarias da Fazenda Pública são de 1.ª, 2.ª e 3.ª classes, nos mesmos termos em que o são as correspondentes repartições de finanças, devendo a alteração da sua classificação constar de portaria do Ministério das Finanças, sob proposta da Direcção-Geral do Tesouro, sempre que idênticas alterações se verifiquem nas respectivas repartições de finanças.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 3.º — (Concentração o desdobramento das tesourarias da Fazenda Pública)
 
-1 - Mediante portaria do Ministério das Finanças, sob proposta da Direcção-Geral do Tesouro, deverá proceder-se à concentração total ou parcial das tesourarias da Fazenda Pública, ou ao seu desdobramento, sempre que idêntico procedimento seja adoptado em relação às correspondentes repartições de finanças.
+(Revogado.)
 
-2 - Igualmente se poderá proceder ao desdobramento de tesourarias da Fazenda Pública, independentemente de idêntico procedimento em relação às repartições de finanças, sempre que o volume dos respectivos serviços, as suas características e a comodidade dos contribuintes o justifiquem, sob proposta da Direcção-Geral do Tesouro.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 4.º — (Fixação e alteração dos quadros)
 
-1 - O pessoal das tesourarias da Fazenda Pública integra-se num quadro geral, no âmbito da Direcção-Geral do Tesouro, e distribui-se pelos seguintes grupos profissionais:
+(Revogado.)
 
-a) Pessoal dirigente;
-
-b) Pessoal técnico exactor;
-
-c) Pessoal auxiliar.
-
-2 - O quadro geral do pessoal das tesourarias da Fazenda Pública, suas categorias, letras de vencimento e número de funcionários, à excepção do pessoal auxiliar, são os que constam do mapa anexo ao presente diploma, podendo ser alterados por portaria conjunta do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública, sob proposta da Direcção-Geral do Tesouro.
-
-3 - O quadro do pessoal auxiliar das tesourarias da Fazenda Pública será objecto de decreto regulamentar emanado do Ministério das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública, sob proposta da Direcção-Geral do Tesouro.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 5.º — (Recrutamento)
 
-1 - O recrutamento para o preenchimento de lugares de ingresso ou de acesso do quadro geral do pessoal das tesourarias da Fazenda Pública far-se-á sempre por métodos e técnicas de selecção objectivos e será precedido (de estágios e cursos destinados à apreciação das aptidões dos candidatos e à respectiva preparação profissional.
+(Revogado.)
 
-2 - O tempo de serviço prestado durante o período de estágio será contado para todos os efeitos.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
-3 - Na classificação final dos funcionários que sejam candidatos aos diferentes lugares serão tidos em linha de conta os resultados das provas de selecção e será ponderado o respectivo mérito profissional, avaliado com base na classificação de serviço.
-
-4 - Os funcionários do quadro geral das tesourarias da Fazenda Pública que frequentarem cursos ou estágios terão direito, para além do abono de ajudas de custo e transportes, às remunerações inerentes aos lugares de que são titulares.
-
-5 - Durante o estágio os candidatos a lugares de ingresso terão direito apenas ao vencimento constante do mapa anexo, não participando das remunerações acessórias previstas no presente decreto-lei.
-
-###### Artigo 6.º — (Contingentação)
-
-1 - O pessoal do quadro geral das tesourarias da Fazenda Pública será contingentado por portaria do Ministro das Finanças, sob proposta da Direcção-Geral do Tesouro, tendo em conta em cada tesouraria os documentos e papéis movimentados, qualquer que seja a sua natureza, os valores selados vendidos, os fundos arrecadados e as características específicas de cada tesouraria, com observância do disposto nos números seguintes.
-
-2 - Nas tesourarias da Fazenda Pública de 1.ª classe existirão, além de um tesoureiro da Fazenda Pública de 1.ª classe, a quem está confiada a gerência da respectiva tesouraria, com a designação de tesoureiro gerente, um tesoureiro da Fazenda Pública de 2.ª classe, substituto legal do primeiro, com a designação de tesoureiro subgerente, e ainda tesoureiros-ajudantes de qualquer classe, indistintamente.
-
-3 - Nas tesourarias da Fazenda Pública de 2.ª classe existirão, além de um tesoureiro da Fazenda Pública de 2.ª classe, a quem está confiada a gerência da respectiva tesouraria, com a designação de tesoureiro gerente, um tesoureiro da Fazenda Pública de 3.ª classe, substituto legal do primeiro, com a designação de tesoureiro subgerente, e ainda tesoureiros-ajudantes de qualquer classe, indistintamente, num mínimo de dois.
-
-4 - Nas tesourarias da Fazenda Pública de 3.ª classe existirão, além de um tesoureiro da Fazenda Pública de 3.ª classe, a quem está confiada a gerência da respectiva tesouraria, com a designação de tesoureiro gerente, tesoureiros-ajudantes de qualquer classe, indistintamente, num mínimo de dois, um dos quais, de acordo com o disposto no artigo 58.º deste decreto-lei, será o seu substituto legal, com a designação de tesoureiro-adjunto.
-
-###### Artigo 7.º — (colocação do pessoal)
-
-1 - Os tesoureiros da Fazenda Pública de a classe serão sempre colocados em tesourarias de classe idêntica à que possuírem e para desempenharem as funções de tesoureiros gerentes.
-
-2 - Os tesoureiros da Fazenda Pública de 2.ª classe podem ser colocados, indistintamente:
-
-a) Em tesourarias de classe idêntica à que possuírem para desempenharem as funções de tesoureiros gerentes;
-
-b) Em tesourarias da Fazenda Pública de 1.ª a classe para desempenharem as funções de tesoureiros gerentes.
-
-3 - Os tesoureiros da Fazenda Pública de 3.ª classe podem ser colocados, indistintamente:
-
-a) Em tesourarias de classe idêntica à que possuírem para desempenharem as funções de tesoureiros gerentes;
-
-b) Em tesourarias da Fazenda Pública de 2.ª classe para desempenharem as funções de tesoureiros gerentes.
-
-4 - Os tesoureiros-ajudantes, qualquer que seja a sua categoria, à excepção dos estagiários, podem ser colocados, indistintamente, em qualquer tesouraria, qualquer que seja a sua categoria, sendo-lhes permitida a progressão na respectiva carreira sem que sejam deslocados da tesouraria em que se encontram colocados.
-
-5 - os tesoureiros-ajudantes estagiários só poderão desempenhar as funções nas tesourarias da Fazenda Pública em que sejam admitidos a estágio.
-
-###### Artigo 8.º — (Formas de provimento)
-
-1 - O provimento do pessoal do quadro geral das tesourarias da Fazenda Pública pertencente a categorias integradas quer na carreira do pessoal técnico exactor quer na carreira do pessoal dirigente será feito por nomeação com carácter definitivo.
-
-2 - O disposto no número anterior não se aplica, porém, aos tesoureiros-ajudantes estagiários, cujo provimento é provisório durante o período do estágio.
-
-###### Artigo 9.º — (Equiparações legais)
-
-1 - Os tesoureiros da Fazenda Pública a quem está confiada a gerência de uma tesouraria, os tesoureiros gerentes, são os chefes das suas repartições e têm, para todos os efeitos legais, inclusive no que diz respeito a vencimentos e demais prerrogativas, categoria igual à dos chefes das respectivas repartições de finanças.
-
-2 - Os tesoureiros da Fazenda Pública que desempenham as funções de substituto legal dos tesoureiros encarregados da gerência de uma tesouraria, os tesoureiros subgerentes, têm, para todos os efeitos legais, inclusive no que diz respeito a vencimentos e demais prerrogativas, categoria igual à dos adjuntos dos chefes das respectivas repartições de finanças.
-
-3 - Os tesoureiros-ajudantes estagiários, os tesoureiros-ajudantes de 2.ª classe e de 1.ª classe e os tesoureiros-ajudantes principais têm, para todos os efeitos legais, inclusive no que diz respeito a vencimentos e demais prerrogativas, categoria igual, respectivamente, à dos liquidadores tributários estagiários, liquidadores tributários de 2.ª classe, liquidadores tributários de 1.ª classe e técnicos tributários de 2.ª classe das respectivas repartições de finanças.
-
-###### Artigo 10.º — Horário
+###### Artigo 6.º — (Contigentação)
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 201/81](https://diariodarepublica.pt/dr/detalhe/portaria/201-1981-391188) e [Portaria n.º 472/83](https://diariodarepublica.pt/dr/detalhe/portaria/472-1983-311835) e [Portaria n.º 95-A/85](https://diariodarepublica.pt/dr/detalhe/portaria/95-a-1985-321747) e [Portaria n.º 867/85](https://diariodarepublica.pt/dr/detalhe/portaria/867-1985-171926) e [Portaria n.º 261/90](https://diariodarepublica.pt/dr/detalhe/portaria/261-1990-332043) e [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
+
+###### Artigo 7.º — (colocação do pessoal)
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
+
+###### Artigo 8.º — (Formas de provimento)
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
+
+###### Artigo 9.º — (Equiparações legais)
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
+
+###### Artigo 10.º — (Horário)
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 11.º — (classificação de serviço)
 
-Os funcionários do quadro geral das tesourarias da Fazenda Pública serão objecto de classificação de serviço, nos termos que vierem a ser definidos em portaria a emanar do Ministério das Finanças, sob proposta da Direcção-Geral do Tesouro, de acordo com os critérios em vigor para a função pública em geral, sem prejuízo dos seguintes princípios:
+(Revogado.)
 
-a) Periodicidade da classificação de serviço;
-
-b) Conhecimento ao interessado;
-
-c) Garantia de recurso.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 12.º — (Participação dos funcionários na gestão e organização dos serviços)
 
-Os funcionários do quadro geral das tesourarias da Fazenda Pública terão direito à participação na organização dos respectivos serviços, nos termos que vierem a ser definidos na lei geral, mas sempre de acordo com as limitações imperativas decorrentes do disposto no presente decreto-lei.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 13.º — (Dos deveres em geral)
 
-Além dos deveres gerais inerentes ao regime da função pública, o pessoal do quadro geral das tesourarias da Fazenda Pública tem ainda os seguintes deveres especiais:
+(Revogado.)
 
-a) Velar pelo respeito do princípio da legalidade no domínio das atribuições exclusivas da Direcção-Geral do Tesouro, exercidas pelas tesourarias da Fazenda Pública;
-
-b) Usar da maior urbanidade e discrição nas suas relações com os contribuintes e demais utentes dos respectivos serviços;
-
-c) Guardar sigilo profissional, nomeadamente no que respeita à divulgação de quaisquer elementos relativos à situação dos contribuintes para com o Estado, bem como a de quaisquer outros utentes dos respectivos serviços;
-
-d) Actuar com a indispensável diligência de modo a evitar aglomerações, situações incómodas para o público ou que possam pôr em perigo a segurança dos respectivos serviços;
-
-e) Zelar pelos interesses do Estado, designadamente no que toca à defesa dos valores existentes em cada tesouraria e à observância das indispensáveis normas de segurança;
-
-f) Inscrever-se obrigatoriamente no Fundo de Cauções.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 14.º — (Segurança pessoal)
 
-1 - Para o bom desempenho das suas funções ficam os funcionários do quadro geral das tesourarias da Fazenda Pública:
+(Revogado.)
 
-a) Dispensados da licença de uso e porte de arma de defesa, nos termos da legislação em vigor, não sendo responsáveis pelas consequências que resultem do uso legítimo que dela fizerem, em protecção dos interesses do Estado ou em defesa própria, no exercício das suas funções;
-
-b) Autorizados a prender, em flagrante delito, os indivíduos que os ofendam no desempenho das suas funções, bem como a requisitar o auxílio das autoridades, quando necessário, entregando-os à que se encontrar mais próxima, juntamente com o respectivo auto de notícia.
-
-2 - Os tesoureiros da Fazenda Pública e os tesoureiros-adjuntos têm direito à distribuição de armamento do Estado e consideram-se permanentemente no exercício das suas funções.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 15.º — (Instalações)
 
-Será criado, por decreto regulamentar, a emanar dos Ministérios das Finanças e das Obras Públicas e Habitação, um gabinete técnico de instalações e segurança, na directa dependência do director-geral do Tesouro, com as seguintes atribuições:
+(Revogado.)
 
-a) Os estudos e trabalhos técnicos necessários à aquisição e localização dos imóveis destinados às tesourarias da Fazenda Pública;
-
-b) A manutenção das instalações das tesourarias da Fazenda Pública;
-
-c) A elaboração e execução de programas relacionados com o equipamento e material necessários ao funcionamento das tesourarias da Fazenda Pública;
-
-d) A segurança das instalações das tesourarias da Fazenda Pública, nomeadamente no que diz respeito à casa-forte, instalação de alarmes contra assaltos e contra incêndios, instalação eléctrica e canalização de água, característica e funcionalidade do balcão e número de caixas a instalar em cada tesouraria.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 16.º — (Medidas de polícia)
 
-Serão objecto de decreto regulamentar, a emanar dos Ministérios das Finanças e da Administração Interna:
+(Revogado.)
 
-a) As medidas de polícia necessárias à segurança dos valores e fundos existentes em cada tesouraria da Fazenda Pública;
-
-b) As medidas de polícia necessárias à segurança do pessoal quando em exercício de funções na respectiva tesouraria da Fazenda Pública;
-
-c) As medidas de polícia necessárias à segurança do pessoal quando em exercício de funções fora da respectiva tesouraria da Fazenda Pública seja portador de valores ou fundos públicos.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 17.º — (Incompatibilidades)
 
-É vedado ao pessoal das tesourarias da Fazenda Pública:
+(Revogado.)
 
-a) Exercer advocacia ou qualquer espécie de procuradoria, nomeadamente a que diga respeito aos serviços atribuídos às tesourarias da Fazenda Pública;
-
-b) Exercer qualquer ramo do comércio ou indústria, salvo em casos justificados, autorizados pelo Ministro das Finanças, mediante parecer favorável da Direcção-Geral do Tesouro;
-
-c) Desempenhar sem autorização do Ministro das Finanças, mediante parecer favorável da Direcção-Geral do Tesouro, qualquer actividade pública ou privada susceptível de comprometer a isenção exigida no exercício das suas funções, designadamente quando essas actividades se relacionarem com aquelas, ainda que desempenhadas por interposta pessoa.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 18.º — (Remunerações e abonos diversos)
 
-1 - Os funcionários do quadro geral das tesourarias da Fazenda Pública têm direito ao vencimento correspondente às respectivas categorias constantes do mapa anexo ao presente decreto-lei e às remunerações acessórias estabelecidas nos artigos seguintes.
+(Revogado.)
 
-2 - Além das remunerações referidas no número anterior, os funcionários do quadro geral das tesourarias da Fazenda Pública têm direito aos seguintes abonos e pensões, definir por portaria a emanar do Ministério das Finanças:
-
-a) Transportes;
-
-b) Alojamento;
-
-c) Instalação;
-
-d) Habitação;
-
-e) Indemnização em caso de dano provocado por assalto;
-
-f) Pensões a atribuir em caso de dano provocado por assalto.
-
-3 - É fixado em 10% do vencimento ilíquido o abono para falhas a atribuir:
-
-a) Aos tesoureiros gerentes;
-
-b) Aos tesoureiros subgerentes quando investidos no serviço de caixa, quando lhes tenha sido conferido mandato de gerência ou quando tenham assumido a gerência da respectiva tesouraria, mediante prévio termo de transição de valores.
-
-4 - É fixado em 10% do vencimento ilíquido correspondente à categoria de tesoureiro-ajudante de 1.ª classe o abono para falhas a atribuir a qualquer tesoureiro-ajudante que seja investido no serviço de caixa.
-
-5 - O abono para falhas atribuído aos tesoureiros-ajudantes investidos no serviço de caixa é reversível, dia a dia, a favor dos funcionários nele investidos, sendo atribuído globalmente por cada tesouraria da Fazenda Pública, tendo em consideração o número de caixas nela existentes, e distribuído pelo tesoureiro gerente na proporção do tempo de serviço de caixa prestado por cada funcionário.
-
-6 - Por cada fracção de abono para falhas atribuído aos tesoureiros-ajudantes investidos no serviço de caixa será passado recibo em triplicado, um dos quais será entregue ao funcionário beneficiado, outro será remetido à direcção de finanças distrital e outro ficará arquivado na respectiva tesouraria.
-
-7 - Sempre que o abono para falhas globalmente atribuído a cada tesouraria da Fazenda Pública para ser distribuído pelo respectivo tesoureiro gerente aos tesoureiros-ajudantes investidos no serviço de caixa não seja totalmente utilizado, o remanescente será depositado pelo tesoureiro gerente em rubrica especial de operações de tesouraria, para os efeitos do estabelecido na parte final do n.º 3 do artigo 64.º do presente decreto-lei.
-
-8 - Quando for caso disso, o abono para falhas será arredondado para a centena de escudos imediatamente superior.
-
-9 - O disposto nos n.os 5 a 8 é igualmente aplicável ao abono para falhas a atribuir aos tesoureiros subgerentes nos termos da alínea b) do n.º 3 do presente artigo.
-
-10 - No caso de o serviço de caixa ser assegurado pelo tesoureiro gerente, terá apenas direito ao abono previsto na alínea a) do n.º 3.
-
-11 - Independentemente do disposto nos n.os 3 e 4 do presente artigo, os montantes destinados ao abono para falhas não poderão exceder 2000$00 mensais, excepto se o Ministro das Finanças por despacho fixar montante ou condições diferentes a que deve obedecer a fixação do abono para falhas.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 19.º — (Remunerações acessórias)
 
-1 - As remunerações acessórias do pessoal das tesourarias da Fazenda Pública são constituídas pelas participações que recebem do prémio de cobrança.
+(Revogado.)
 
-2 - Não participam nas remunerações acessórias referidas no número anterior os tesoureiros-ajudantes estagiários e o pessoal auxiliar.
-
-3 - As remunerações acessórias serão distribuídas mensalmente pelo pessoal das tesourarias da Fazenda Pública que a elas tenha direito na proporção dos respectivos vencimentos e de acordo com o disposto no artigo 21.º do presente decreto-lei.
-
-4 - Às remunerações acessórias previstas no presente diploma é aplicado o regime de vencimento de exercício e vencimento de categoria seguido em matéria de faltas e licenças.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 20.º — (Prémio de cobrança)
 
-O prémio de cobrança é constituído por:
+(Revogado.)
 
-a) 0,5% da cobrança das receitas referidas no artigo 99.º do [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, à excepção das provenientes da venda de valores selados;
-
-b) 3% sobre a venda de valores selados efectuada por cada tesouraria da Fazenda Pública directamente ao público;
-
-c) 1,5% sobre a venda de valores selados efectuada por cada tesouraria da Fazenda Pública aos revendedores.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 21.º — (Distribuição do prémio de cobrança)
 
-1 - A percentagem do prémio de cobrança referida na alínea a) do artigo anterior é distribuída pela Direcção-Geral do Tesouro nos seguintes termos:
+(Revogado.)
 
-a) As direcções distritais de finanças comunicarão mensalmente à direcção dos serviços administrativos os quantitativos resultantes da sua aplicação às cobranças efectuadas mensalmente nas tesourarias da Fazenda Pública;
-
-b) Apurados os quantitativos de todos os distritos, a direcção dos serviços administrativos processará a respectiva folha de despesa orçamental, que, uma vez autorizada, será convertida em operações de tesouraria, distribuindo-se no mês seguinte ao das cobranças a que respeita.
-
-2 - Da parte sobrante poderão ser satisfeitos os subsídios de residência e a verba para falhas prevista no artigo 18.º do presente decreto-lei.
-
-3 - As percentagens do prémio de cobrança referidas nas alíneas b) e c) do artigo anterior são distribuídas nos termos do n.º 1 pelos funcionários de cada tesouraria da Fazenda Pública, tendo em conta as receitas provenientes da venda dos valores selados arrecadadas por cada uma.
-
-4 - Para o efeito da distribuição das percentagens referidas no número anterior, nas localidades onde houver mais do que uma tesouraria da Fazenda Pública, estas constituem apenas uma unidade.
-
-5 - O montante que ultrapassar as participações previstas nas alíneas b) e c) do artigo anterior para a venda de valores selados deverá ser distribuído pelas tesourarias da Fazenda Pública cujos funcionários não atinjam os limites referidos na alínea b) do artigo seguinte.
-
-6 - Da parte não distribuída nos termos dos números anteriores reverterão para o Fundo de Cauções:
-
-a) 10% quanto à parte não distribuída da percentagem do prémio de cobrança referida na alínea a) do artigo anterior;
-
-b) 5% quanto à parte não distribuída da percentagem do prémio de cobrança referida na alínea b) do artigo anterior;
-
-c) 2,5% quanto à parte não distribuída da percentagem do prémio de cobrança referida na alínea c) do artigo anterior.
-
-7 - Apenas o excedente da parte não distribuída nos termos dos artigos anteriores poderá ser convertido em receita do Estado, por despacho do Ministro das Finanças, sob proposta da Direcção-Geral do Tesouro.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 22.º — (Limites)
 
-Nenhum funcionário poderá receber durante o ano importância superior à que resulte da aplicação ao respectivo vencimento das percentagens a seguir indicadas:
+(Revogado.)
 
-a) 20% quanto à participação no prémio de cobrança referida na alínea a) do artigo 20.º do presente decreto-lei;
-
-b) 5% quanto à participação nas percentagens do prémio de cobrança referidas nas alíneas b) e c) do artigo 20.º do presente decreto-lei.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 23.º — (Participações que não entram no limite previsto no número anterior)
 
-1 - Não entram no limite fixado no artigo anterior quanto à participação no prémio de cobrança referida na alínea a) do artigo 20.º do presente decreto-lei:
+(Revogado.)
 
-a) O subsídio de isolamento atribuído aos funcionários das Tesourarias da Fazenda Pública:
-
-1) Do Corvo, 25% do vencimento;
-
-2) Das Lajes das Flores, de Santa Cruz das Flores, de Vila do Porto e de Porto Santo, 15% do vencimento;
-
-b) 5% do valor do vencimento atribuído a tesoureiros da Fazenda Pública de 2.ª e 3.ª classes, com funções de gerência ou de subgerência, e tesoureiros-adjuntos;
-
-c) 10% do valor do vencimento atribuído aos tesoureiros da Fazenda Pública de 1.ª classe;
-
-d) O subsídio de residência a atribuir aos funcionários que por motivo de promoção têm de mudar de residência, cujo montante será fixado por despacho do Ministro das Finanças, sob proposta da Direcção-Geral do Tesouro.
-
-2 - Também não entram nos limites do artigo anterior, quanto às participações no prémio de cobrança referidas nas alíneas b) e c) do artigo 20.º deste decreto-lei, 5% do vencimento atribuído aos tesoureiros da Fazenda Pública com funções de gerência e de subgerência.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 24.º — (Local da posse)
 
-1 - A posse será, por via de regra, dada pessoalmente e na tesouraria onde o funcionário for colocado.
+(Revogado.)
 
-2 - A posse poderá ser conferida por procuração mediante prévia autorização da Direcção-Geral do Tesouro.
-
-3 - Sempre que se mostre conveniente, a posse poderá ser conferida na Direcção-Geral do Tesouro ou na sede do distrito respectivo.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 25.º — (Entidades conferentes da posse)
 
-1 - A posse será conferida pelo tesoureiro gerente ou quem as suas vezes fizer, salvo se se verificar na Direcção-Geral do Tesouro ou na sede do distrito, em que o conferente será respectivamente o director-geral ou o seu substituto legal e o seu representante no distrito, ou quem as suas vezes fizer.
+(Revogado.)
 
-2 - A competência conferida ao director-geral do Tesouro nos termos do número anterior poderá ser delegada em qualquer director de serviços.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 26.º — (Consequência da falta de posse)
 
-A não comparência ao acto de posse nos prazos legais implica, salvo motivo justificado:
+(Revogado.)
 
-a) No caso de primeira nomeação, a anulação do respectivo despacho, sem precedência de qualquer formalidade;
-
-b) Nos casos de nomeação ou transferência de funções, a impossibilidade de provimento noutros lugares pelo período de três anos a contar da data limite em que deveria ter ocorrido a posse;
-
-c) No caso de reassunção de funções, o abandono de lugar.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 27.º — (Prorrogação dos prazos de posse)
 
-Os prazos de posse referidos no artigo anterior podem ser prorrogados pelo director-geral do Tesouro quando seja alegado motivo justificado ou quando as exigências do serviço assim o aconselharem.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 28.º — (Prazo da posse)
 
-1 - O prazo da posse será de trinta dias, contados do dia imediato ao do final do balanço de transição ou da entrega dos valores, se for caso disso, respectivamente, para os tesoureiros com funções de gerência ou restante pessoal.
+(Revogado.)
 
-2 - A posse está sempre dependente da publicação do despacho de nomeação, transferência ou promoção no Diário da República, a partir de cuja data se inicia o prazo referido no número anterior para os funcionários que não tenham valores à sua guarda e responsabilidade.
-
-3 - Tratando-se de posse que não implique mudança de residência, o prazo referido no n.º 1 deste artigo é de cinco dias.
-
-4 - Quando o funcionário tiver de se deslocar do continente para as regiões autónomas, ou destas para o continente, ou de uma para outra ilha das referidas regiões, o disposto no n.º 2 do presente artigo reporta-se à data da chegada do Diário da República à respectiva localidade.
-
-5 - Poderá o Ministro das Finanças, sob proposta do director-geral do Tesouro, reduzir o prazo referido nos números anteriores sempre que se justifique e desde que tal não seja susceptível de causar prejuízo aos funcionários.
-
-6 - A todos os funcionários das tesourarias da Fazenda Pública quando providos ou transferidos serão mantidos os vencimentos, diuturnidades e remunerações acessórias e respeitada a antiguidade durante o tempo que medear entre a cessação de funções num concelho e a posse noutro, considerando-se, porém, que nos casos de promoção os novos vencimentos serão devidos a partir da publicação do despacho no Diário da República.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 29.º — (Os funcionários empossados têm de se caucionar previamente)
 
-Não poderá ser conferida posse a qualquer funcionário das tesourarias da Fazenda Pública sem que o interessado faça prova de ter cumprido as formalidades referentes à obrigatoriedade de inscrição no Fundo de Cauções.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 30.º — (Transferências dos tesoureiros da Fazenda Pública; condições de preferência)
 
-1 - Os tesoureiros da Fazenda Pública podem ser transferidos a seu pedido, por promoção, por conveniência de serviço ou permuta.
+(Revogado.)
 
-2 - Os tesoureiros da Fazenda Pública só podem solicitar transferência para lugares da mesma categoria desde que tenham mais de um ano de serviço de permanência no lugar, constituindo condições de preferência, sem prejuízo do disposto no n.º 4 deste artigo e no artigo 34.º
-
-a) Melhor classificação de serviço reportada ao ano anterior;
-
-b) Maior antiguidade no lugar em que se encontram;
-
-c) Maior antiguidade na categoria;
-
-d) Maior antiguidade no quadro da Direcção-Geral do Tesouro.
-
-3 - Para os efeitos deste artigo, consideram-se como tendo a mesma antiguidade os funcionários que, incluídos no mesmo movimento, tomam posse no prazo legalmente fixado.
-
-4 - Deixarão de ser observadas as preferências previstas nos números anteriores quando qualquer dos interessados prove que o seu cônjuge exerce há mais de um ano funções públicas de carácter permanente no concelho sede da tesouraria onde exista a vaga.
-
-5 - Os pedidos de transferência poderão ser efectuados entre 15 e 30 de cada mês, devendo a Direcção-Geral do Tesouro anunciar de 1 a 15 do mesmo mês, no Diário da República, as vagas existentes no quadro geral das tesourarias da Fazenda Pública.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 31.º — (Promoções dos tesoureiros da Fazenda Pública)
 
-As promoções dos tesoureiros da Fazenda Pública só se efectuarão após a realização dos movimentos de transferências nos termos previstos no artigo anterior.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 32.º — (Transferências de tesoureiros-ajudantes; condições de preferência)
 
-1 - Os tesoureiros-ajudantes podem ser transferidos a seu pedido, por conveniência de serviço ou permuta.
+(Revogado.)
 
-2 - Os tesoureiros-ajudantes, independentemente da sua categoria, podem solicitar transferência para qualquer lugar vago da sua carreira desde que tenham mais de um ano de permanência no lugar, constituindo condições de preferência, sem prejuízo do disposto no n.º 4 deste artigo e no artigo 34.º:
-
-a) Categoria mais elevada;
-
-b) Melhor classificação de serviço reportada ao ano anterior;
-
-c) Maior antiguidade na categoria;
-
-d) Maior antiguidade no quadro geral dos funcionários das tesourarias da Fazenda Pública.
-
-3 - Para os efeitos do disposto neste artigo, consideram-se como tendo a mesma antiguidade os funcionários que, incluídos no mesmo movimento, tomem posse no prazo legalmente fixado.
-
-4 - Deixarão de ser observadas as preferências previstas nos números anteriores quando qualquer dos interessados prove que o seu cônjuge exerce há mais de um ano funções públicas de carácter permanente no concelho sede da tesouraria onde exista a vaga.
-
-5 - Os pedidos de transferência poderão ser efectuados entre 15 e 30 de cada mês, devendo a Direcção-Geral do Tesouro anunciar de 1 a 15 do mesmo mês, no Diário da República, as vagas existentes no quadro geral das tesourarias da Fazenda Pública.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 33.º — (Transferências por conveniência de serviço)
 
-1 - As transferências por conveniência de serviço só poderão verificar-se no caso de o comportamento dos funcionários prejudicar o bom clima de relações humanas nos serviços e a eficiência destes ou contribuir para o desprestígio da função e serão sempre precedidas de inquérito ordenado pelo director-geral do Tesouro, com audiência dos funcionários e demais garantias constantes da lei geral.
+(Revogado.)
 
-2 - Independentemente do disposto no número anterior, também poderá haver lugar a transferência por conveniência de serviço, no interesse simultâneo da Administração e dos funcionários, por iniciativa daquela e mediante acordo expresso destes, após a realização dos movimentos previstos nos artigos 30.º e 32.º
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 34.º — (Transferência de funcionários deslocados nas regiões autónomas)
 
-Os funcionários do quadro geral das tesourarias da Fazenda Pública deslocados para as regiões autónomas têm preferência absoluta nas transferências quando tenham ali prestado, pelo menos, dois anos de serviço efectivo, com classificação de serviço não inferior a 12 ou a Suficiente no último triénio, sem prejuízo das transferências que, nos termos do presente diploma, possam ser efectuadas por livre iniciativa do Ministério das Finanças.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 35.º — (Permutas)
 
-1 - Os tesoureiros da Fazenda Pública podem requerer a permuta dos seus lugares, quando sejam da mesma classe e categoria, desde que não haja inconveniência para os serviços e os permutantes estejam a mais de cinco anos do limite de idade para a aposentação.
+(Revogado.)
 
-2 - Os tesoureiros-ajudantes podem requerer a permuta dos seus lugares, qualquer que seja a sua classe e categoria, desde que não haja inconveniência para os serviços e os permutantes estejam a mais de cinco anos do limite de idade para a aposentação.
-
-3 - A inconveniência para os serviços deverá ser sempre devidamente fundamentada.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 36.º — (Nomeação)
 
-1 - A nomeação do pessoal técnico exactor será feita nos seguintes termos:
+(Revogado.)
 
-a) Tesoureiros-ajudantes de 2.ª classe, de entre tesoureiros-ajudantes estagiários que tenham concluído com aprovação o respectivo estágio e a prova final a ele subsequente;
-
-b) Tesoureiros-ajudantes de 1.ª classe, de entre os tesoureiros-ajudantes de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 12 ou Suficiente no último triénio;
-
-c) Tesoureiros-ajudantes principais, de entre os tesoureiros-ajudantes de 1.ª classe com, pelo pelo menos, dois anos de serviço na categoria e aprovação nas provas de selecção.
-
-2 - As regras de progressão na carreira do pessoal técnico exactor previstas no número anterior não envolvem a deslocação dos respectivos tesoureiros-ajudantes das tesourarias da Fazenda Pública onde estão colocados.
-
-3 - A nomeação do pessoal dirigente será feita nos seguintes termos:
-
-a) Tesoureiros da Fazenda Pública de 3.ª classe, de entre tesoureiros-ajudantes principais com, pelo menos, três anos de serviço na categoria, média de classificação de serviço não inferior a 12 ou Suficiente e aprovação nas respectivas provas de selecção;
-
-b) Tesoureiros da Fazenda Pública de 2.ª classe, de entre os tesoureiros da Fazenda Pública de 3.ª classe com, pelo menos, três anos de serviço na categoria e aprovação nas respectivas provas de selecção;
-
-c) Tesoureiros da Fazenda Pública de 1.ª classe, de entre os tesoureiros da Fazenda Pública de 2.ª classe com, pelo menos, três anos de serviço na categoria e aprovação nas respectivas provas de selecção.
-
-4 - O prazo previsto na alínea b) do n.º 1 e nas alíneas a), b) e c) do n.º 3 do presente artigo será reduzido a um ano desde que os funcionários, reunindo as restantes condições, tenham obtido nota não inferior a 14, respectivamente nas provas de classificação de tesoureiro-ajudante de 2.ª classe, tesoureiro-ajudante principal e tesoureiro da Fazenda Pública de 3.ª e 2.ª classes, e possuam classificação de serviço não inferior a 14 ou Bom no último ano.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 37.º — (Admissão de tesoureiros-ajudantes estagiários)
 
-1 - A admissão de tesoureiros-ajudantes estagiários far-se-á mediante provas de admissão, às quais poderão candidatar-se indivíduos que tenham, pelo menos, 18 anos de idade e possuam o curso complementar do ensino secundário ou habilitações equivalentes.
+(Revogado.)
 
-2 - Na admissão a que se refere o número anterior terão preferência, em igualdade de circunstâncias, os indivíduos que, anteriormente à entrada em vigor do [Decreto-Lei n.º 564/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1976-430594), de 17 de Julho, tenham exercido funções, ainda que interinamente, de auxiliares, de propostos ou ajudantes de tesoureiro, com bom e efectivo serviço e que posteriormente se tenham desvinculado da função pública ou desligado do serviço.
-
-3 - Serão admitidos a estágio tantos candidatos quantas as vagas que se prevejam no período de validade das provas de admissão.
-
-4 - O estágio a que se refere o presente artigo terá a duração de um ano, envolvendo a frequência do curso básico de tesouraria do Estado.
-
-5 - Os candidatos considerados aptos nas provas de admissão são incluídos numa lista provisória, por ordem de classificação obtida através da nota conseguida, publicada no Diário da República e que tem o prazo de validade de três anos.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 38.º — (Graduação dos candidatos para efeitos do nomeação para a categoria de tesoureiro-ajudante de 2.ª classe)
 
-1 - As nomeações para a categoria de tesoureiro-ajudante de 2.ª classe serão efectuadas segundo graduação estabelecida em função dos seguintes factores:
+(Revogado.)
 
-a) Nota do exame final a realizar após o curso básico de tesouraria do Estado;
-
-b) Informação referente ao estágio propriamente dito.
-
-2 - A classificação final para efeitos de graduação a que se refere o número anterior será a média ponderada da nota do exame final referida na alínea a) do número anterior, a que se atribui o coeficiente 2, e a informação referida na alínea b) do número anterior, a que se atribui o coeficiente 1, sendo excluídos os candidatos com média final inferior a 10 valores e os que obtenham nota inferior a 10 no exame final, independentemente da média geral.
-
-3 - Aos candidatos aprovados nos termos do número anterior é assegurada a colocação na tesouraria da Fazenda Pública em que foram admitidos a estágio, com respeito pela respectiva lista de graduação e desde que ocorrida a colocação dentro do seu prazo de validade.
-
-4 - Os candidatos que sejam excluídos nos termos do n.º 2 serão dispensados do serviço.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 39.º — (Provas de selecção para tesoureiros-ajudantes principais e tesoureiros da Fazenda Pública de 3.ª, 2.ª e 1.ª classes)
 
-As provas de selecção para recrutamento das categorias de tesoureiro-ajudante principal e de tesoureiro da Fazenda Pública de 3.ª, 2.ª e 1.ª classes são constituídas por:
+(Revogado.)
 
-a) Cursos previstos no artigo 40.º;
-
-b) Exames finais previstos no artigo 41.º
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 40.º — (Cursos)
 
-Haverá os seguintes cursos:
+(Revogado.)
 
-a) Curso geral de tesouraria do Estado, necessário à preparação de candidatos a tesoureiros-ajudantes principais;
-
-b) Curso complementar de tesouraria do Estado - 1.º ciclo, necessário à apresentação de candidatos a tesoureiros da Fazenda Pública de 3.ª classe;
-
-c) Curso complementar de tesouraria do Estado - 2.º ciclo, necessário à preparação de candidatos a tesoureiros da Fazenda Pública de 2.ª classe;
-
-d) Curso complementar de tesouraria do Estado - 3.º ciclo, necessário à preparação de candidatos a tesoureiros da Fazenda Pública de 1.ª classe.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 41.º — (Exames finais)
 
-1 - O recrutamento para as categorias de tesoureiro-ajudante principal e tesoureiro da Fazenda Pública de 3.ª, 2.ª e 1.ª classes depende da aprovação em exames finais, constituídos por provas escritas e orais a realizar após os cursos previstos no artigo anterior, devendo a avaliação do mérito dos candidatos, tendo em vista a respectiva graduação global no conjunto das provas de selecção, fazer-se com base nos seguintes factores:
+(Revogado.)
 
-a) Nota final obtida nas provas escritas e orais dos exames finais;
-
-b) Informação relativa à frequência dos cursos previstos no artigo anterior;
-
-c) Classificação de serviço referente ao último ano;
-
-d) Antiguidade na categoria.
-
-2 - O factor referido na alínea a) do número anterior será ponderado com o coeficiente 4, o factor referido na alínea b) com o coeficiente 3, o factor referido na alínea c) com o coeficiente 2 e a antiguidade será valorizada com 0,2 valores por ano de serviço na categoria até ao máximo de dez anos.
-
-3 - A classificação final dos candidatos será a média ponderada dos factores mencionados nas alíneas a), b), c) e d), sendo excluídos os candidatos com média inferior a 10 valores e os que tenham nota inferior a 10 no exame final, independentemente da média geral.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 42.º — (Provas de selecção para tesoureiros da Fazenda Pública de 3.ª classe quando seja insuficiente o número de candidatos tesoureiros-ajudantes principais.)
 
-1 - Sempre que o número dos tesoureiros-ajudantes principais aprovados, sem prejuízo do disposto no artigo 48.º, nas provas de selecção para tesoureiros da Fazenda Pública de 3.ª classe seja insuficiente para o preenchimento das vagas existentes de tesoureiros da Fazenda Pública de classe com funções de gerência em tesourarias da Fazenda Pública de 3.ª classe ou com funções de subgerência em tesourarias da Fazenda Pública de 2.ª classe, poderá o Ministro das Finanças, sob proposta da Direcção-Geral do Tesouro, autorizar a admissão a provas de selecção para tesoureiros da Fazenda Pública de 3.ª classe de tesoureiros-ajudantes de 1.ª classe com dois anos de serviço na categoria e classificação de serviço não inferior a Suficiente.
+(Revogado.)
 
-2 - Para os efeitos do disposto no número anterior, os tesoureiros-ajudantes de 1.ª classe serão obrigados à frequência dos cursos previstos nas alíneas a) e b) do artigo 40.º, a realizar sucessivamente, com dispensa do exame final para tesoureiros-ajudantes principais.
-
-3 - Para os efeitos de graduação global, como tesoureiros da Fazenda Pública de classe, dos candidatos referidos neste artigo, o factor b) do n.º 1 do artigo 41.º é substituído pelas médias aritméticas das informações obtidas em cada um dos cursos referidos no número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 43.º — (Prazo de validade das provas de selecção)
 
-1 - O prazo de validade do conjunto das provas de selecção previstas nos artigos anteriores é de três anos a contar da data da publicação das listas da classificação final no Diário da República.
+(Revogado.)
 
-2 - O Ministro das Finanças poderá autorizar, sob proposta da Direcção-Geral do Tesouro, que o prazo referido no número anterior seja prorrogado até serem nomeados os candidatos que tenham nota não inferior a 12.
-
-3 - Os candidatos aprovados nas provas ou incluídos em listas de promoção poderão desistir da nomeação, passando, neste caso, para o último lugar das referidas listas.
-
-4 - A segunda desistência implica a perda de direitos resultantes da aprovação nas provas referidas no número anterior ou da inclusão em listas classificativas sem que decorram, pelo menos, três anos.
-
-5 - Os pedidos de desistência só poderão ser considerados se forem apresentados antes de proferido o despacho de nomeação.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 44.º — (Efeitos de reprovação nas provas selectivas)
 
-1 - Os candidatos reprovados nas provas de selecção só poderão ser admitidos a novas provas para a mesma categoria decorrido o prazo de um ano sobre a data da última prova.
+(Revogado.)
 
-2 - Os candidatos que reprovem três vezes seguidas em provas de selecção para as mesmas categorias só poderão ser admitidos a novas provas depois de decorridos três anos sobre a data da última prova.
-
-3 - Para efeitos dos números anteriores consideram-se reprovações as faltas não justificadas às provas de selecção.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 45.º — (Repetição de provas)
 
-As provas de selecção poderão ser repetidas uma vez, para melhoria de nota, desde que os funcionários tenham obtido aprovação nas mesmas e sem qualquer dispêndio para o Estado.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 46.º — (Tesoureiros-ajudantes de 1.ª classe)
 
-O recrutamento para a categoria de tesoureiro-ajudante de 1.ª classe não depende da realização de provas de selecção, devendo, no entanto, a determinação do mérito dos candidatos, tendo em vista a respectiva graduação, fazer-se com base nos factores c) e d) referidos no n.º 1 do artigo 41.º, sendo excluídos os candidatos com média de classificação de serviço inferior a 12 valores ou a Suficiente no último triénio.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 47.º — (Preferências a atender em caso de igualdade de circunstâncias)
 
-Nas nomeações previstas nos artigos anteriores, quer para as categorias de tesoureiro-ajudante de 2.ª e de 1.ª classes e principal quer para as de tesoureiro da Fazenda Pública de 3.ª, de 2.ª e de 1.ª classes, terão preferência, em igualdade de circunstâncias:
+(Revogado.)
 
-a) Os candidatos com melhores habilitações literárias;
-
-b) Os candidatos mais antigos na categoria;
-
-c) Os candidatos mais antigos no quadro geral das tesourarias da Fazenda Pública;
-
-d) Os candidatos mais antigos na função pública.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 48.º — (Insuficiência de candidatos para o provimento dos lugares vagos)
 
-1 - Quando o número dos candidatos aprovados não seja suficiente para o preenchimento das vagas que ocorrerem durante o prazo de validade das provas de selecção, o Ministro das Finanças, mediante proposta fundamentada do director-geral do Tesouro, poderá autorizar a admissão às provas imediatas dos concorrentes normais, com dispensa do tempo de serviço previsto no presente diploma.
+(Revogado.)
 
-2 - Caso os candidatos referidos no número anterior não sejam suficientes para o preenchimento das vagas que ocorrerem durante o prazo de validade das provas de selecção, o Ministro das Finanças, mediante proposta igualmente fundamentada do director-geral do Tesouro, poderá autorizar a admissão às provas subsequentes previstas no número anterior de funcionários da categoria imediatamente anterior, mediante a frequência prévia e obrigatória dos cursos previstos para as duas categorias imediatamente superiores a realizar sucessivamente.
-
-3 - Para os efeitos da graduação dos candidatos referidos no número anterior, o factor b) do n.º 1 do artigo 41.º é substituído pela média aritmética das informações obtidas em cada um dos respectivos cursos.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 49.º — (Promoção dos funcionários licenciados)
 
-1 - Podem candidatar-se às provas que visem a nomeação para a categoria de tesoureiro da Fazenda Pública de 2.ª classe os funcionários que possuam pelo menos a categoria de tesoureiro-ajudante de 1.ª classe, com classificação não inferior a 12 ou a Suficiente no último triénio, desde que sejam licenciados em Direito, Economia, Finanças ou Organização e Gestão de Empresas.
+(Revogado.)
 
-2 - Podem também candidatar-se às provas que visem a nomeação para a categoria de tesoureiro da Fazenda Pública de 1.ª classe os funcionários que possuam pelo menos a categoria de tesoureiro-ajudante principal, com classificação não inferior a 12 ou Suficiente no último triénio, desde que sejam licenciados em Direito, Economia, Finanças ou Organização e Gestão de Empresas.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 50.º
 
-1 - Serão objecto de portaria a emanar do Ministério das Finanças, sob proposta da Direcção-Geral do Tesouro, os programas das provas de admissão ao estágio previsto no artigo 37.º, do exame final previsto na alínea a) do n.º 1 do artigo 38.º, dos cursos previstos no artigo 40.º e dos exames finais subsequentes a estes cursos.
+(Revogado.)
 
-2 - A composição dos júris e o local de funcionamento das provas referidas no número anterior serão igualmente objecto de portaria do Ministro das Finanças, sob proposta da Direcção-Geral do Tesouro.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 51.º — (competência dos tesoureiros gerentes)
 
@@ -695,71 +418,45 @@ V) Quaisquer outras funções que lhe sejam cometidas por lei.
 
 ###### Artigo 52.º — (Delegação de competência)
 
-Os tesoureiros gerentes poderão, obtida autorização da Direcção-Geral do Tesouro, delegar nos funcionários que lhes estejam subordinados a competência para a prática de actos próprios das suas funções, sem prejuízo das limitações constantes do artigo 55.º do presente decreto-lei, dando posteriormente conhecimento à Direcção-Geral do Tesouro.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 53.º — (Competência dos tesoureiros subgerentes e tesoureiros-adjuntos)
 
-1 - Compete aos tesoureiros subgerentes e tesoureiros-adjuntos:
+(Revogado.)
 
-I) Substituir o tesoureiro gerente nas suas ausências ou impedimentos, nos seguintes termos:
-
-a) Meliante termo de transição e início de nova gerência, de acordo com o previsto no artigo 74.º deste decreto-lei;
-
-b) Mediante mandato de gerência, de harmonia com o disposto no artigo 75.º deste decreto-lei;
-
-c) Em todas as restantes situações em que não haja lugar a termos de transição ou mandato de gerência;
-
-II) Desempenhar as funções de claviculário assistente, para o que devem ter sempre em seu poder as chaves do cofre ou da casa-forte que abrem em segundo lugar, devendo estar presentes à abertura e encerramento;
-
-III) Desempenhar as funções que lhes sejam atribuídas pelo tesoureiro gerente.
-
-2 - Nas suas ausências e impedimentos, as competências dos tesoureiros subgerentes ou tesoureiros-adjuntos serão exercidas pelos seus substitutos legais, indicados no artigo 54.º deste decreto-lei.
-
-3 - O tesoureiro subgerente ou o tesoureiro-adjunto só terão direito a ser abonados dos vencimentos e demais proventos que ao tesoureiro gerente cabem nos casos e nos períodos em que lhes for cometida a gerência da respectiva tesouraria, mediante termo de transição de valores.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 54.º — (Substituição dos tesoureiros subgerentes e dos tesoureiros-adjuntos)
 
-Os terceiros subgerentes e os tesoureiros-adjuntos serão substituídos nas suas ausências e impedimentos pelos tesoureiros-ajudantes em serviço na respectiva tesouraria, de acordo com as seguintes preferências:
+(Revogado.)
 
-a) Categoria mais elevada;
-
-b) Melhor classificação de serviço;
-
-c) Maior antiguidade na categoria;
-
-d) Melhores habilitações literárias.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 55.º — (Competência dos funcionários encarregados do serviço de caixa)
 
-1 - Aos funcionários encarregados do serviço de caixa compete assegurar o expediente da caixa a seu cargo, devendo rubricar e carimbar todos os documentos nela movimentados, sem prejuízo da quitação prevista no artigo 51.º deste decreto-lei.
+(Revogado.)
 
-2 - A quitação a que se refere o número anterior constitui competência própria do tesoureiro gerente, que só a poderá delegar no tesoureiro subgerente, no tesoureiro-adjunto ou em qualquer tesoureiro-ajudante a quem não esteja confiado o serviço de caixa, salvo se o número de funcionários o não permitir.
-
-3 - Sempre que as circunstâncias e o volume do respectivo serviço de caixa o justifiquem, poderão ser atribuídas as funções de coadjuvar o restante pessoal em todo o expediente da tesouraria pelo respectivo tesoureiro-gerente.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 56.º — (Competência do restante pessoal)
 
-Aos funcionários sem competência específica estabelecida no presente decreto-lei compete executar os serviços de que sejam encarregados pelos respectivos superiores hierárquicos, sem prejuízo da competência que lhes vier a ser atribuída por despacho do director-geral do Tesouro.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 57.º — (Serviço externo)
 
-A prática de actos de serviço externo que por lei não seja da competência de outros funcionários incumbe, quando os não houver, aos tesoureiros-ajudantes a designar pelo tesoureiro gerente ou quem suas vezes fizer.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 58.º — (Gerência das tesourarias da Fazenda Pública)
 
-1 - A gerência das tesourarias da Fazenda Pública de 1.ª, 2.ª e 3.ª classes é confiada a tesoureiros da Fazenda Pública da mesma classe e categoria, com a designação de tesoureiro gerente.
+(Revogado.)
 
-2 - Nas tesourarias da Fazenda Pública de 1.ª e 2.ª classes a respectiva subgerência é atribuída a tesoureiros da Fazenda Pública de 2.ª e 3.ª classes, respectivamente, com a designação de tesoureiro subgerente.
-
-3 - Nas tesourarias da Fazenda Pública de 3.ª classe a respectiva subgerência é atribuída aos tesoureiros-ajudantes, com a designação de tesoureiro-adjunto, de acordo com as seguintes preferências:
-
-a) Categoria mais elevada;
-
-b) Melhor classificação de serviço;
-
-c) Maior antiguidade na categoria;
-
-d) Melhores habilitações literárias.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 59.º — (Clavicularidade)
 
@@ -877,17 +574,19 @@ b) Levantar os autos de ocorrência, previstos no artigo 67.º do presente decre
 
 4 - O disposto nos números anteriores é igualmente aplicável aos alcances de que sejam autores materiais quer os tesoureiros da Fazenda Pública quer os tesoureiros-ajudantes, quando verificados pela Inspecção-Geral de Finanças no exercício das suas atribuições.
 
-###### Artigo 68.º — Balanço diário
+###### Artigo 68.º — (Balanço diário)
 
 1 - O tesoureiro gerente é obrigado diariamente a verificar, pelos elementos de contabilidade da tesouraria, as contas das diversas caixas e a apurar, pelo seu cômputo, o saldo em dinheiro e documentos de despesa e a venda de valores selados e impressos.
 
 2 - (Revogado.)
 
-> Alterado pelo/a [Portaria n.º 201/81](https://diariodarepublica.pt/dr/detalhe/portaria/201-1981-391188) e [Portaria n.º 472/83](https://diariodarepublica.pt/dr/detalhe/portaria/472-1983-311835) e [Portaria n.º 95-A/85](https://diariodarepublica.pt/dr/detalhe/portaria/95-a-1985-321747) e [Portaria n.º 867/85](https://diariodarepublica.pt/dr/detalhe/portaria/867-1985-171926) e [Portaria n.º 261/90](https://diariodarepublica.pt/dr/detalhe/portaria/261-1990-332043) e [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
+> Alterado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 69.º — (Balanço semanal)
 
-O tesoureiro gerente deverá extrair semanalmente do livro Caixa as notas de fundo que permitam a verificação das contas, nesse período, e remetê-las às direcções de finanças distritais.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 70.º — (Balanço mensal)
 
@@ -955,13 +654,9 @@ d) Se a análise dos termos de apuramento de contas diárias permitir determinar
 
 ###### Artigo 76.º — (Dos montantes dos alcances garantidos pelo Fundo de Cauções)
 
-1 - O Fundo de Cauções constitui uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, destinada a garantir o cumprimento, como fiador e principal pagador, das obrigações emergentes das responsabilidades financeiras assumidas pelos tesoureiros da Fazenda Pública e pelos tesoureiros-ajudantes pela prática de alcances e peculatos, no exercício das suas funções, pelo montante que ultrapasse a importância resultante da soma dos respectivos abonos para falhas e participações mensais no prémio de cobrança a que tenham direito, até ao limite de um terço do conjunto global das remunerações percebidas pelos seus subscritores.
+(Revogado.)
 
-2 - Pelo acto jurídico do pagamento, através da entrega, nos cofres da tesouraria em que se verificou o alcance, das importâncias em dívida, o Fundo de Cauções fica legalmente sub-rogado nos direitos do Estado contra o autor material do alcance.
-
-3 - O crédito de que o Fundo de Cauções dispõe sobre os autores materiais dos alcances por ele satisfeitos vence juros de mora, a seu favor, desde a data em que o Fundo efectuou o pagamento, com observância das regras constantes do artigo 4.º do [Decreto-Lei n.º 49168](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49168-1969-198913), de 5 de Agosto de 1969.
-
-4 - O Fundo de Cauções deverá proceder ao pagamento dos montantes em dívida, provenientes da prática de alcances pelos seus subscritores, logo após a recepção do auto de ocorrência previsto no n.º 2 do artigo 67.º do presente decreto-lei.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 77.º — (Dos montantes dos alcances não garantidos pelo Fundo de Cauções)
 
@@ -971,189 +666,165 @@ d) Se a análise dos termos de apuramento de contas diárias permitir determinar
 
 ###### Artigo 78.º — (Garantias do Fundo de Cauções)
 
-1 - Os bens dos subscritores do Fundo de Cauções constituem garantia especial das importâncias em que se alcançarem e que o Fundo satisfaça.
+(Revogado.)
 
-2 - Para execução desta garantia é constituída hipoteca legal sobre os bens imóveis das tesoureiros da Fazenda Pública e dos tesoureiros-ajudantes, a favor do Fundo de Cauções, nos termos do artigo 705.º, alínea b), do Código Civil.
-
-3 - O crédito do Fundo de Cauções proveniente do pagamento da importância do alcance sobre o produto da venda dos bens móveis dos tesoureiros da Fazenda Pública e dos tesoureiros-ajudantes goza de privilégio creditório especial, devendo ser graduado em primeiro lugar.
-
-4 - O Fundo de Cauções, uma vez recebido o auto de ocorrência previsto no n.º 3 do artigo 67.º do presente decreto-lei, deverá promover de imediato, através do agente do Ministério Público da comarca territorialmente competente, o arresto preventivo dos bens dos autores materiais dos alcances que satisfaça, nos termos do artigo 410.º e seguintes do Código de Processo Civil.
-
-5 - As garantias do Fundo de Cauções não prejudicam o disposto no artigo 1696.º do Código Civil.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 79.º — (Inscrição no Fundo de Cauções)
 
-1 - A inscrição no Fundo de Cauções é obrigatória para todos os tesoureiros da Fazenda Pública e tesoureiros-ajudantes e substitui para todos os efeitos o processo de prestação e aprovação de cauções previsto no Decreto de 3 de Novembro de 1860, no [Decreto n.º 3171](https://diariodarepublica.pt/dr/detalhe/decreto/3171-1917-268827), de 1 de Junho de 1917, e na [Portaria n.º 84/78](https://diariodarepublica.pt/dr/detalhe/portaria/84-1978-448492), de 14 de Fevereiro.
+(Revogado.)
 
-2 - O disposto no número anterior poderá ser tornado extensivo ao pessoal auxiliar previsto no n.º 3 do artigo 4, por portaria do Ministro das Finanças e ouvido o conselho administrativo do Fundo de Cauções.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 80.º — (Quotas e jóias)
 
-1 - Os subscritores do Fundo de Cauções são obrigados ao pagamento de uma quota mensal correspondente a 0,5 por cento do vencimento ilíquido e ao pagamento de uma jóia, reembolsável a sua solicitação, logo que cesse o exercício das funções que deram origem à inscrição no Fundo de Cauções e tenham sido julgados quites, para com o Estado, pelo Tribunal de Contas, no caso dos tesoureiros da Fazenda Pública, e tenham satisfeito integralmente os seus créditos para com o Fundo de Cauções, no caso dos tesoureiros da Fazenda Pública e dos tesoureiros-ajudantes, que será fixada pelo conselho administrativo do Fundo, tendo em consideração o montante dos fundos movimentados e que não pode ser inferior aos seguintes montantes:
+(Revogado.)
 
-Tesoureiros-ajudantes ... 7500$00
-
-Tesoureiros da Fazenda Pública ... 10000$00
-
-2 - A percentagem e os montantes previstos no número anterior poderão ser objecto de actualização mediante proposta do conselho administrativo do Fundo de Cauções e sempre que as necessidades do Fundo assim o justificarem, por portaria do Ministro das Finanças.
-
-3 - Os serviços processadores de vencimentos ficam autorizados a deduzir as importâncias correspondentes à quota mensal.
-
-4 - Efectuada a dedução prevista no número, os serviços processadores das folhas de vencimentos devem realizar a sua conversão em «Operações de tesouraria» e depósitos na rubrica «Fundo de Cauções - Conta quota».
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 81.º — (Actuais jóias)
 
-Os actuais subscritores do Fundo de Cauções podem solicitar que os montantes das jóias pagas nos termos da [Portaria n.º 84/78](https://diariodarepublica.pt/dr/detalhe/portaria/84-1978-448492), de 14 de Fevereiro,
+(Revogado.)
 
-sejam deduzidos, para efeitos de pagamento dos montantes que acrescidos àquelas prefaçam as jóias previstas no artigo anterior.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 82.º — (Estatutos do Fundo de Cauções)
 
-1 - Os estatutos do Fundo de Cauções serão aprovados por decreto-lei no prazo de noventa dias a partir da data da entrada em vigor deste diploma, devendo até essa data o Estado assegurar a solvabilidade do Fundo de Cauções.
+(Revogado.)
 
-2 - Enquanto não forem aprovados os estatutos previstos no número anterior, o Fundo de Cauções continua a reger-se em tudo o que não seja contrariado pelo presente diploma pelo disposto no [Decreto-Lei n.º 22728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22728-1933-318701), de 24 de Junho de 1933, e na [Portaria n.º 84/78](https://diariodarepublica.pt/dr/detalhe/portaria/84-1978-448492), de 14 de Fevereiro, cabendo à Direcção-Geral do Tesouro assegurar os meios indispensáveis ao serviço do expediente a seu cargo.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 83.º — (Transição dos actuais funcionários e agentes)
 
-1 - O ingresso dos actuais funcionários e agentes que prestam serviço nas tesourarias da Fazenda Pública, no quadro criado pelo presente decreto-lei, far-se-á de acordo com as regras de transição constantes dos artigos seguintes.
+(Revogado.)
 
-2 - Quando da aplicação das disposições referidas no número anterior resultarem excedentes de pessoal, em cada categoria, relativamente ao número de lugares previstos no mapa anexo a este diploma, considerar-se-á o quadro geral do pessoal das tesourarias da Fazenda Pública transitoriamente alterado em conformidade.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 84.º — (Ajudantes de tesoureiro)
 
-1 - Os ajudantes de tesoureiro que possuam, pelo menos, três anos de serviço na categoria à data da entrada em vigor deste decreto-lei e informação de serviço não inferior a Suficiente no último ano, incluindo os que foram admitidos além do quadro previsto no mapa a que se refere o n.º 1 do artigo 4.º do [Decreto-Lei n.º 564/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1976-430594), de 17 de Julho, com as alterações que lhe foram introduzidas pelo n.º 24 da [Portaria n.º 508/78](https://diariodarepublica.pt/dr/detalhe/portaria/508-1978-329992), de 5 de Setembro, e os de nomeação interina, transitam para a categoria de tesoureiro-ajudante de 1.ª classe.
+(Revogado.)
 
-2 - Os restantes ajudantes de tesoureiro, incluindo os que foram admitidos além do quadro nos termos referidos no número anterior e os de nomeação interina, transitam para a categoria de tesoureiros-ajudantes de 2.ª classe.
-
-3 - Os ajudantes de tesoureiro com seis ou mais anos de serviço na categoria e classificação de serviço não inferior a Bom no último ano, incluindo os que foram admitidos além do quadro e os de nomeação interina, transitam para a categoria de tesoureiro-ajudante principal.
-
-4 - Para os efeitos do disposto nos números anteriores será contado o tempo de serviço prestado em diversas categorias, mesmo que em regime de nomeação interina.
-
-5 - Aos actuais ajudantes de tesoureiro que não disponham das habilitações literárias previstas no n.º 1 do artigo 37.º, é assegurado o direito, uma vez integrados nas categorias previstas nos números anteriores, de progredirem na carreira de pessoal técnico-exactor e de pessoal dirigente.
-
-6 - Os actuais ajudantes de tesoureiro só passarão a responder pelos seus actos e omissões, nos termos do artigo 61.º e seguintes, e a ter direito ao abono para falhas previsto no artigo 18.º do presente decreto-lei a partir da publicação da lista nominativa a que se refere o artigo 98.º
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 85.º — (Antigos propostos, auxiliares e ajudantes sem habilitações literárias)
 
-1 - Poderão requerer a admissão às primeiras provas para tesoureiros-ajudantes estagiários, a realizar após a entrada em vigor do presente decreto-lei, os antigos propostos, auxiliares e ajudantes admitidos a qualquer título, independentemente de habilitações literárias.
+(Revogado.)
 
-2 - Os candidatos referidos no número anterior só poderão ser admitidos às provas de selecção para tesoureiro-ajudante principal se entretanto obtiverem o curso complementar dos liceus ou habilitações equivalente.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 86.º — (Tesoureiros da Fazenda Pública)
 
-1 - Os tesoureiros da Fazenda Pública mantêm-se na mesma categoria, sem prejuízo da revalorização das letras de vencimento já operada, com a entrada em vigor do [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, por força do disposto do n.º 1 do artigo 2.º do [Decreto-Lei n.º 48675](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48675-1968-263560), de 11 de Novembro de 1968.
+(Revogado.)
 
-2 - Sempre que os tesoureiros gerentes não disponham dos meios humanos e materiais que permitam realizar cabalmente as suas funções de contrôle, fiscalização e apuramento de valores, deverão, para os efeitos do disposto no n.º 4 do artigo 61.º deste decreto-lei, comunicá-lo à Direcção-Geral do Tesouro, através do seu superior hierárquico.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 87.º — (Candidatos aprovados em concursos cujo prazo de validade tenha expirado ou que tenham desistido)
 
-1 - Os actuais funcionários e agentes que tenham sido aprovados em concursos realizados anteriormente à data da entrada em vigor deste diploma e cujo prazo de validade tenha expirado ou de que tenha desistido poderão requerer no prazo de cento e oitenta dias, a partir da publicação do presente diploma, o seu provimento na classe correspondente à categoria para que concorreram, após o movimento e colocação dos candidatos aprovados nos últimos concursos realizados para cada uma das respectivas categorias.
+(Revogado.)
 
-2 - Para os efeitos do disposto no número anterior, será elaborada para cada uma das categorias uma lista classificativa publicada no Diário da República, em que os candidatos serão graduados em função da nota final obtida nos concursos realizados para cada um dos requerentes, ou, no caso de haver candidatos com a mesma nota, de acordo com as preferências previstas no artigo 47.º do presente decreto-lei.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
-3 - Os candidatos graduados nos termos definidos no número anterior podem reclamar, no prazo de trinta dias, a partir da publicação da lista no Diário da República, para o director-geral do Tesouro, cabendo recurso das decisões deste para o Ministro das Finanças, no prazo de trinta dias, a contar da sua notificação.
+###### Artigo 88.º — (Tesoureiros da Fazenda Pública de 3.ª classe subgerentes das tesourarias da Fazenda Pública de 1.ª classe)
 
-4 - Os prazos referidos no número anterior serão de sessenta dias, respectivamente para os candidatos residente nas Regiões Autónomas dos Açores e da Madeira.
+(Revogado.)
 
-###### Artigo 88.º — (Tesoureiros da Fazenda Pública de 3.ª classe colocados nos termos do artigo 41.º do [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054), de 9 de Outubro.)
-
-1 - Os tesoureiros da Fazenda Pública de 3.ª classe colocados em tesourarias da Fazenda Pública de 1.ª classe, ao abrigo do disposto no artigo 41.º do [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054), de 9 de Outubro, e da [Portaria n.º 439/79](https://diariodarepublica.pt/dr/detalhe/portaria/439-1979-378956), de 20 de Agosto, para desempenharem as funções de tesoureiros-adjuntos, mantêm-se na mesma categoria, passando a desempenhar, enquanto o respectivo lugar não vagar, as funções de tesoureiro subgerente.
-
-2 - Os tesoureiros da Fazenda Pública de 3.ª classe referidos no número anterior têm direito a ser admitidos às primeiras provas de selecção para tesoureiros da Fazenda Pública de 2.ª classe, a realizar após a entrada em vigor do presente decreto-lei, com dispensa do tempo de serviço.
-
-3 - Em caso de aprovação, os candidatos a que se refere o número anterior terão prioridade absoluta na colocação como tesoureiros da Fazenda Pública de 2.ª classe, desempenhando as funções de tesoureiro subgerente, nas tesourarias da Fazenda Pública de 1.ª classe, onde estão colocados, com respeito pela ordem rigorosa da lista de classificação e dentro do prazo de validade das respectivas provas de selecção.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 89.º — (Ajudantes de tesoureiro concursados para tesoureiros da Fazenda Pública de 3.ª classe em tesourarias da Fazenda Pública de 2.ª classe.)
 
-Os ajudantes de tesoureiro colocados em tesourarias da Fazenda Pública de 2.ª classe concursados para tesoureiros da Fazenda Pública de 3.ª classe à data da publicação deste diploma terão preferência absoluta na colocação como tesoureiros da Fazenda Pública de 3.ª classe, para desempenharem, nessas mesmas tesourarias, as funções de tesoureiros subgerentes, com respeito pela ordem rigorosa da lista classificativa e dentro do prazo de validade do respectivo concurso.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 90.º — (Propostas de admissão pendentes de ajudantes de tesoureiro)
 
-1 - As propostas de admissão de ajudantes de tesoureiro que tenham dado entrada na Direcção-Geral do Tesouro até à data da publicação do presente diploma seguirão os seus trâmites normais, nos termos da legislação anterior.
+(Revogado.)
 
-2 - Aos ajudantes de tesoureiro que vierem a ser admitidos nos termos do número anterior aplica-se, no que diz respeito ao ingresso no quadro geral do pessoal das tesourarias da Fazenda Pública, o disposto no presente diploma quanto aos actuais ajudantes de tesoureiro.
-
-3 - Até à publicação da lista nominativa, nos termos do artigo 98.º, os ajudantes de tesoureiro referidos nos números anteriores ficam sujeitos ao disposto no n.º 6 do artigo 84 do presente diploma.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 91.º — (Admissão de tesoureiros-ajudantes estagiários até à realização das primeiras provas de admissão a realizar após a publicação deste diploma)
 
-1 - Até à primeira prova de admissão para tesoureiros-ajudantes estagiários a realizar após a publicação do presente diploma, e sempre que as necessidades de serviço o justifiquem, poderão ser admitidos tesoureiros-ajudantes estagiários por despacho do Ministro das Finanças, sob proposta do respectivo tesoureiro gerente e parecer favorável do director-geral do Tesouro.
+(Revogado.)
 
-2 - Os tesoureiros-ajudantes estagiários referidos no número anterior ficam sujeitos à realização de estágio e frequência do curso básico de tesouraria do Estado previsto no artigo 37.º do presente decreto-lei, contando como tempo de estágio o tempo de serviço prestado na respectiva tesouraria até à abertura do respectivo estágio.
-
-3 - Uma vez realizado o estágio, os tesoureiros-ajudantes estagiários referidos no número anterior ficam sujeitos à realização do exame final previsto no artigo 38.º do presente decreto-lei.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 92.º — (Salvaguarda dos direitos relacionados com a actual colocação dos funcionários)
 
-Sempre que, por virtude da aplicação do presente diploma, as dotações de qualquer serviço ficarem excedidas nas diferentes categorias profissionais, aplicar-se-ão as seguintes regras:
+(Revogado.)
 
-a) Se na localidade existirem serviços onde haja lugares para os funcionários excedentes, serão para estes transferidos, com prioridade sobre quaisquer outros pretendentes;
-
-b) Se na localidade não se verificar a situação referida na alínea anterior, os funcionários manter-se-ão nos mesmos locais de trabalho, considerando-se, para o efeito, o quadro de contingentação transitoriamente alterado em conformidade.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 93.º — (Listas dos candidatos já aprovados em concursos para tesoureiros da Fazenda Pública)
 
-As listas em vigor de candidatos aprovados em concursos para tesoureiros da Fazenda Pública de 3.ª, 2.ª e 1.ª classes mantêm a validade estabelecida na legislação vigente à data da realização dos concursos e os funcionários delas constantes serão nomeados ou promovidos à medida que surjam vagas para as categorias correspondentes àquelas para que poderão ser nomeados, nos termos da legislação acima referida.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 94.º — (Colocação de tesoureiros gerentes quando se verifique a elevação da classificação do concelho ou localidade)
 
-1 - No caso de elevação da classe do concelho ou localidade, o respectivo tesoureiro gerente, se estiver concursado ou aprovado em provas de selecção para a classe a que o concelho ou localidade tenham sido elevados, será promovido, com respeito pela ordem rigorosa da lista de classificação, mantendo-se no mesmo cargo.
+(Revogado.)
 
-2 - Se não estiver concursado ou tiver expirado o prazo de validade do concurso sem que tenha sido promovido, manter-se-á na mesma categoria, continuando a desempenhar as funções de tesoureiro gerente.
-
-3 - Os tesoureiros da Fazenda Pública referidos no número anterior são candidatos obrigatórios às primeiras provas de selecção para as classes imediatamente superiores a realizar sucessivamente após a elevação do respectivo concelho ou localidade, com dispensa de tempo de serviço.
-
-4 - Em caso de aprovação, os candidatos a que se refere o número anterior terão prioridade absoluta na colocação como tesoureiros gerentes na categoria correspondente à classe do respectivo concelho ou localidade, com respeito pela ordem rigorosa da lista de classificação.
-
-5 - Em caso de reprovação, os candidatos referidos no presente artigo serão colocados em concelho ou localidade da sua categoria, se não estiver vago o lugar de tesoureiro subgerente, que poderá ocupar com preferência absoluta sobre os demais candidatos.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 95.º — (Contagem de tempo de serviço dos ajudantes de tesoureiro)
 
-A contagem de tempo de serviço dos ajudantes de tesoureiro que transitam para as categorias de tesoureiro-ajudante de 2.ª, 1.ª e principal abrange o tempo prestado na categoria donde transitaram.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 96.º — (Classificação de serviço)
 
-1 - Enquanto não for definido o esquema de classificação de serviço nos termos do artigo 11.º do presente decreto-lei, será determinado por despacho do Ministro das Finanças, mediante proposta do director-geral do Tesouro, o sistema a vigorar transitoriamente.
+(Revogado.)
 
-2 - A classificação de serviço dos funcionários do quadro geral das tesourarias da Fazenda Pública será determinada pela média das informações respeitantes aos períodos de tempo previstos no presente decreto-lei, seja qual for a sua proveniência e de conformidade com o que for estabelecido no respectivo regulamento.
-
-3 - Enquanto não for definido o esquema de classificação de serviço nos termos do artigo 11.º e não for aprovado o despacho referido no n.º 1, todas as referências feitas no presente diploma quanto à classificação de serviço dos tesoureiros da Fazenda Pública e tesoureiros-ajudantes devem entender-se como referidas à classificação dada pela última visita da Inspecção-Geral de Finanças e, na sua ausência, à classificação atribuída pelo respectivo serviço.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 97.º
 
-Serão aprovados por portaria do Ministro das Finanças, a publicar no prazo de trinta dias a partir da entrada em vigor do presente decreto-lei, os modelos dos impressos e livros de escrita necessários à execução do disposto neste diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 98.º
 
-1 - O provimento nas novas categorias decorrente das transições estabelecidas no presente decreto-lei será feito mediante listas nominativas, aprovadas pelo Ministro das Finanças e publicadas no Diário da República, considerando-se os funcionários providos definitivamente nos respectivos lugares a partir da data da entrada em vigor deste diploma, com dispensa de quaisquer formalidades, salvo o visto do Tribunal de Contas e a inscrição no Fundo de Cauções.
+(Revogado.)
 
-2 - A inscrição no Fundo de Cauções deve ser provada mediante a apresentação de certidão passada pelo conselho administrativo do Fundo de Cauções.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 99.º — (Manutenção de direitos em matéria de remunerações globais)
 
-Da aplicação do presente diploma não poderá resultar, para qualquer funcionário, diminuição da remuneração global que presentemente aufere.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 100.º — (Fiéis depositários dos bens dos serviços)
 
-1 - Os tesoureiros da Fazenda Pública com funções de gerência são fiéis depositários do mobiliário, dos valores, dos processos, dos objectos e do arquivo que lhes dizem respeito.
+(Revogado.)
 
-2 - Os funcionários referidos no número anterior devem conferir o inventário quando tomarem posse do respectivo cargo e anualmente devem apresentar um relatório de conferência.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 101.º — (Fornecimento do «Diário da República» às tesourarias da Fazenda Pública)
 
-A partir da data da entrada em vigor do presente decreto-lei as tesourarias da Fazenda Pública passarão a receber o Diário da República referente à 1.ª e 2.ª séries.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 102.º — (Colaboração do sistema bancário nacionalizado)
 
-No exercício das suas atribuições, e tendo em vista o cabal cumprimento das competências que lhe são cometidas pelo artigo 1.º, n.º 2, deste decreto-lei, poderá o Tesouro Público Nacional, se se mostrar conveniente, recorrer ao sistema bancário nacionalizado, em condições e em termos a definir por decreto-lei, ouvido o Banco de Portugal e a Direcção-Geral do Tesouro.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 103.º — (Resolução de dúvidas)
 
-As dúvidas surgidas na aplicação do presente decreto-lei serão resolvidas por despacho do Ministro das Finanças e por despacho conjunto do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública, quando estiverem em causa matérias da competência deste último.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 104.º — (Entrada em vigor)
 
-O presente diploma entra em vigor no dia imediato ao da sua publicação, salvo quanto a vencimentos, a participação no prémio de cobrança e a contagem de antiguidade nas novas categorias, as quais produzirão efeitos a partir do dia 1 de Janeiro de 1980.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
