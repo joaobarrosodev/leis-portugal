@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:621159:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-10-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c24fe55928686694"
+   ]
+  },
+  {
+   "date": "1996-08-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:406699:por",
+     "title": "Portaria n.º 369/96",
+     "published": "1996-08-19",
+     "dre_path": "/dr/detalhe/portaria/369-1996-406699"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 9"
+   ],
+   "fragments": [
+    "5c755b0513bc557f"
+   ]
+  }
+ ],
+ "fragments": {
+  "c24fe55928686694": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Outubro\n\nSob proposta do Instituto Politécnico de Bragança e da sua Escola Superior de Tecnologia e de Gestão;\n\nConsiderando o disposto no [Decreto-Lei n.º 395/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1990-565268), de 11 de Dezembro;\n\nAo abrigo do disposto no artigo 4.º do [Decreto-Lei n.º 303/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1980-470779), de 16 de Agosto, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pela Ministra da Educação, o seguinte:\n\n1.º\n\nTransferência\n\nO curso de bacharelato em Informática de Gestão, criado pela [Portaria n.º 547/90](https://diariodarepublica.pt/dr/detalhe/portaria/547-1990-575743), de 14 de Julho, na Escola Superior Agrária do Instituto Politécnico de Bragança, é transferido para a Escola Superior de Tecnologia e Gestão do mesmo Instituto.\n\n2.º\n\nAlteração\n\nO plano de estudos do curso de bacharelato em Informática de Gestão passa a ser o constante do anexo à presente portaria.\n\n3.º\n\nCompetências\n\nAs competências cometidas pela [Portaria n.º 862/90](https://diariodarepublica.pt/dr/detalhe/portaria/862-1990-557605), de 19 de Setembro, aos órgãos da Escola Superior Agrária do Instituto Politécnico de Bragança passam a ser cometidas aos órgãos da Escola Superior de Tecnologia e de Gestão do mesmo Instituto.\n\n4.º\n\nAplicação\n\nO disposto na presente portaria será concretizado nos termos a fixar por despacho do presidente do Instituto Politécnico de Bragança, sob proposta das comissões instaladoras das suas Escolas Superior Agrária e Superior de Tecnologia e de Gestão.\n\n5.º\n\nRevogação\n\nSão revogados os quadros anexos à [Portaria n.º 862/90](https://diariodarepublica.pt/dr/detalhe/portaria/862-1990-557605), de 19 de Setembro.\n\nMinistério da Educação.\n\nAssinada em 3 de Outubro de 1994.\n\nPela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/251b00/65356536.pdf)"
+  },
+  "5c755b0513bc557f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1996-08-24",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 369/96](https://diariodarepublica.pt/dr/detalhe/portaria/369-1996-406699), publicado em 1996-08-19."
+   ],
+   "markdown": "de 29 de Outubro\n\nSob proposta do Instituto Politécnico de Bragança e da sua Escola Superior de Tecnologia e de Gestão;\n\nConsiderando o disposto no [Decreto-Lei n.º 395/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1990-565268), de 11 de Dezembro;\n\nAo abrigo do disposto no artigo 4.º do [Decreto-Lei n.º 303/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1980-470779), de 16 de Agosto, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pela Ministra da Educação, o seguinte:\n\n1.º\n\nTransferência\n\nO curso de bacharelato em Informática de Gestão, criado pela [Portaria n.º 547/90](https://diariodarepublica.pt/dr/detalhe/portaria/547-1990-575743), de 14 de Julho, na Escola Superior Agrária do Instituto Politécnico de Bragança, é transferido para a Escola Superior de Tecnologia e Gestão do mesmo Instituto.\n\n1.º-A\n\nLocais onde o curso é ministrado\n\nO curso pode ser ministrado em Bragança e em Mirandela.\n\n> Aditado pelo/a [Portaria n.º 369/96](https://diariodarepublica.pt/dr/detalhe/portaria/369-1996-406699), publicado em 1996-08-19.\n\n2.º\n\nAlteração\n\nO plano de estudos do curso de bacharelato em Informática de Gestão passa a ser o constante do anexo à presente portaria.\n\n3.º\n\nCompetências\n\nAs competências cometidas pela [Portaria n.º 862/90](https://diariodarepublica.pt/dr/detalhe/portaria/862-1990-557605), de 19 de Setembro, aos órgãos da Escola Superior Agrária do Instituto Politécnico de Bragança passam a ser cometidas aos órgãos da Escola Superior de Tecnologia e de Gestão do mesmo Instituto.\n\n4.º\n\nAplicação\n\nO disposto na presente portaria será concretizado nos termos a fixar por despacho do presidente do Instituto Politécnico de Bragança, sob proposta das comissões instaladoras das suas Escolas Superior Agrária e Superior de Tecnologia e de Gestão.\n\n5.º\n\nRevogação\n\nSão revogados os quadros anexos à [Portaria n.º 862/90](https://diariodarepublica.pt/dr/detalhe/portaria/862-1990-557605), de 19 de Setembro.\n\nMinistério da Educação.\n\nAssinada em 3 de Outubro de 1994.\n\nPela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/251b00/65356536.pdf)"
+  }
+ }
+}

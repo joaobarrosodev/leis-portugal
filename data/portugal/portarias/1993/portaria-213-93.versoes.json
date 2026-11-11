@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:656592:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-02-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f772fd35c8312212"
+   ]
+  },
+  {
+   "date": "1994-05-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:262851:por",
+     "title": "Portaria n.º 312/94",
+     "published": "1994-05-19",
+     "dre_path": "/dr/detalhe/portaria/312-1994-262851"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 12-13"
+   ],
+   "fragments": [
+    "d33772d444841db2"
+   ]
+  }
+ ],
+ "fragments": {
+  "f772fd35c8312212": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Fevereiro\n\nTem sido preocupação do Governo, considerando os meios financeiros disponíveis e as variações do custo de vida, assegurar anualmente a revisão dos montantes das prestações, como acontece com o abono de família e as demais prestações familiares, incluindo as que são especialmente dirigidas às crianças e aos jovens com deficiência.\n\nDeste modo e no desenvolvimento de uma política que visa a melhoria do bem-estar social das famílias, procede o Governo, através do presente diploma, ao ajustamento das referidas prestações, tendo em vista uma actualização que, dentro dos limites possíveis, garanta a efectiva recuperação do valor das mesmas. Para o efeito, foi considerada a taxa previsível de inflação para o corrente ano.\n\nAssim:\n\nManda o Governo, nos termos do artigo 16.º do [Decreto-Lei n.º 170/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1980-474564), de 29 de Maio, pela Secretária de Estado Adjunta e do Orçamento e pelo Secretário de Estado da Segurança Social, o seguinte:\n\n1.º\n\nActualização\n\nOs valores das prestações familiares, no âmbito do regime de segurança social e do regime de protecção social da função pública, são actualizados nos termos do presente diploma.\n\n2.º\n\nAbono de família\n\n1 - O montante do abono de família é de 2330$00 por cada descendente, salvo o disposto no número seguinte.\n\n2 - O montante mensal do abono de família relativamente ao terceiro descendente e seguintes é de 3500$00, tratando-se de agregados familiares cujos rendimentos ilíquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.\n\n3.º\n\nSubsídio de aleitação\n\nO montante mensal do subsídio de aleitação é de 4100$00.\n\n4.º\n\nSubsídios de nascimento, de casamento e de funeral\n\nOs subsídios seguidamente indicados são actualizados para os valores de:\n\na) Subsídio de nascimento - 22260$00;\n\nb) Subsídio de casamento - 18510$00;\n\nc) Subsídio de funeral - 25890$00.\n\n5.º\n\nPrestações a crianças e jovens com deficiência\n\n1 - O abono complementar a crianças e jovens com deficiência é atribuído nos montantes mensais e dentro dos limites de idades seguintes:\n\na) 5580$00, até aos 14 anos de idade;\n\nb) 8150$00, dos 14 aos 18 anos de idade;\n\nc) 10880$00, dos 18 aos 24 anos de idade.\n\n2 - O montante do subsídio mensal vitalício é igual ao que se encontra estabelecido para a pensão social do regime não contributivo de segurança social.\n\n3 - O montante do subsídio por assistência de terceira pessoa é igual ao que se encontra estabelecido para o suplemento de grande inválido dos pensionistas de invalidez e de velhice do regime geral.\n\n6.º\n\nEntrada em vigor\n\nA presente portaria produz efeitos a partir de 1 de Janeiro de 1993.\n\nMinistérios das Finanças e do Emprego e da Segurança Social.\n\nAssinada em 19 de Janeiro de 1993.\n\nA Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro."
+  },
+  "d33772d444841db2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1994-05-24",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 312/94](https://diariodarepublica.pt/dr/detalhe/portaria/312-1994-262851), publicado em 1994-05-19."
+   ],
+   "markdown": "de 22 de Fevereiro\n\nTem sido preocupação do Governo, considerando os meios financeiros disponíveis e as variações do custo de vida, assegurar anualmente a revisão dos montantes das prestações, como acontece com o abono de família e as demais prestações familiares, incluindo as que são especialmente dirigidas às crianças e aos jovens com deficiência.\n\nDeste modo e no desenvolvimento de uma política que visa a melhoria do bem-estar social das famílias, procede o Governo, através do presente diploma, ao ajustamento das referidas prestações, tendo em vista uma actualização que, dentro dos limites possíveis, garanta a efectiva recuperação do valor das mesmas. Para o efeito, foi considerada a taxa previsível de inflação para o corrente ano.\n\nAssim:\n\nManda o Governo, nos termos do artigo 16.º do [Decreto-Lei n.º 170/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1980-474564), de 29 de Maio, pela Secretária de Estado Adjunta e do Orçamento e pelo Secretário de Estado da Segurança Social, o seguinte:\n\n1.º\n\nActualização\n\nOs valores das prestações familiares, no âmbito do regime de segurança social e do regime de protecção social da função pública, são actualizados nos termos do presente diploma.\n\n2.º\n\nAbono de família\n\n1 - O montante do abono de família é de 2450$00 por cada descendente, salvo o disposto no número seguinte.\n\n2 - O montante mensal do abono de família relativamente ao terceiro descendente e seguintes é de 3680$00, tratando-se de agregados familiares cujos rendimentos ilíquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.\n\n> Alterado pelo/a [Portaria n.º 312/94](https://diariodarepublica.pt/dr/detalhe/portaria/312-1994-262851), publicado em 1994-05-19.\n\n3.º\n\nSubsídio de aleitação\n\nO montante mensal do subsídio de aleitação é de 4100$00.\n\n4.º\n\nSubsídios de nascimento, de casamento e de funeral\n\nOs subsídios seguidamente indicados são actualizados para os valores de:\n\na) Subsídio de nascimento - 22260$00;\n\nb) Subsídio de casamento - 18510$00;\n\nc) Subsídio de funeral - 25890$00.\n\n5.º\n\nPrestações a crianças e jovens com deficiência\n\n1 - O abono complementar a crianças e jovens com deficiência é atribuído nos montantes mensais e dentro dos limites de idades seguintes:\n\na) 5580$00, até aos 14 anos de idade;\n\nb) 8150$00, dos 14 aos 18 anos de idade;\n\nc) 10880$00, dos 18 aos 24 anos de idade.\n\n2 - O montante do subsídio mensal vitalício é igual ao que se encontra estabelecido para a pensão social do regime não contributivo de segurança social.\n\n3 - O montante do subsídio por assistência de terceira pessoa é igual ao que se encontra estabelecido para o suplemento de grande inválido dos pensionistas de invalidez e de velhice do regime geral.\n\n6.º\n\nEntrada em vigor\n\nA presente portaria produz efeitos a partir de 1 de Janeiro de 1993.\n\nMinistérios das Finanças e do Emprego e da Segurança Social.\n\nAssinada em 19 de Janeiro de 1993.\n\nA Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro."
+  }
+ }
+}

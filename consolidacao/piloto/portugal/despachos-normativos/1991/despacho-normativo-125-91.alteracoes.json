@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 2-2",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Considerando que, em 5 de Março de 1991, cessou a comissão de serviço da licenciada Georgete de Castro Madureira Carmo Simões, à data chefe de divisão do Instituto Nacional de Intervenção e Garantia Agrícola;",
+    "depois": "Considerando que, em 5 de Março de 1991, cessou a comissão de serviço da licenciada Maria Georgete de Castro Madureira Carmo Simões, à data chefe de divisão do Instituto Nacional de Intervenção e Garantia Agrícola;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:658450:por",
+    "alterador": "pt:dre:245139:por"
+  },
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - É criado no quadro de pessoal do Instituto Nacional de Intervenção e Garantia Agrícola, aprovado pela [Portaria n.º 745/89](https://diariodarepublica.pt/dr/detalhe/portaria/745-1989-618302), de 30 de Agosto, um lugar de assessor principal na carreira técnica superior, a extinguir quando vagar.",
+    "depois": "1 - É criado no quadro de pessoal do Instituto Nacional de Intervenção e Garantia Agrícola, constante da [Portaria n.º 1227/90](https://diariodarepublica.pt/dr/detalhe/portaria/1227-1990-563588), de 21 de Dezembro, um lugar de assessor principal na carreira técnica superior, a extinguir quando vagar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:658450:por",
+    "alterador": "pt:dre:245139:por"
+  }
+]

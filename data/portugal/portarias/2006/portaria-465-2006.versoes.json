@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:632893:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2006-05-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "aa87b55291bac7e1"
+   ]
+  },
+  {
+   "date": "2006-11-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:546004:por",
+     "title": "Portaria n.º 1154/2006",
+     "published": "2006-10-31",
+     "dre_path": "/dr/detalhe/portaria/1154-2006-546004"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8"
+   ],
+   "fragments": [
+    "7496c0a21b14dd3c"
+   ]
+  }
+ ],
+ "fragments": {
+  "aa87b55291bac7e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Maio\n\nPela [Portaria n.º 501/2002](https://diariodarepublica.pt/dr/detalhe/portaria/501-2002-288206), de 27 de Abril, alterada pela [Portaria n.º 1033-BA/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1033-ba-2004-284082), de 10 de Agosto, foi concessionada à Associação de Caçadores da Ribeira a zona de caça associativa da Ribeira (processo n.º 2756-DGRF), situada no município de Loulé.\n\nA concessionária requereu agora a anexação à referida zona de caça de dois prédios rústicos, com a área de 14 ha.\n\nAssim:\n\nCom fundamento no disposto no artigo 11.º, na alínea a) do artigo 40.º, no n.º 1 do artigo 118.º e no n.º 2 do artigo 164.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, e ouvido o Conselho Cinegético Municipal:\n\nManda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º São anexados à zona de caça associativa concessionada pela [Portaria n.º 501/2002](https://diariodarepublica.pt/dr/detalhe/portaria/501-2002-288206), de 27 de Abril, vários prédios rústicos situados nas freguesias de Bensafrim e Boliqueime, município de Loulé, com a área de 14 ha, ficando a mesma com a área total de 1267 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n2.º A presente anexação só produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.\n\nPelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 30 de Abril de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 7 de Fevereiro de 2006.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/098b00/34503451.pdf)"
+  },
+  "7496c0a21b14dd3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-11-05",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1154/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1154-2006-546004), publicado em 2006-10-31."
+   ],
+   "markdown": "de 22 de Maio\n\nPela [Portaria n.º 501/2002](https://diariodarepublica.pt/dr/detalhe/portaria/501-2002-288206), de 27 de Abril, alterada pela [Portaria n.º 1033-BA/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1033-ba-2004-284082), de 10 de Agosto, foi concessionada à Associação de Caçadores da Ribeira a zona de caça associativa da Ribeira (processo n.º 2756-DGRF), situada no município de Loulé.\n\nA concessionária requereu agora a anexação à referida zona de caça de dois prédios rústicos, com a área de 14 ha.\n\nAssim:\n\nCom fundamento no disposto no artigo 11.º, na alínea a) do artigo 40.º, no n.º 1 do artigo 118.º e no n.º 2 do artigo 164.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, e ouvido o Conselho Cinegético Municipal:\n\nManda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º São anexados à zona de caça associativa concessionada pela [Portaria n.º 501/2002](https://diariodarepublica.pt/dr/detalhe/portaria/501-2002-288206), de 27 de Abril, vários prédios rústicos situados nas freguesias de Benafim e Boliqueime, município de Loulé, com a área de 14 ha, ficando a mesma com a área total de 1267 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n> Alterado pelo/a [Portaria n.º 1154/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1154-2006-546004), publicado em 2006-10-31.\n\n2.º A presente anexação só produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.\n\nPelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 30 de Abril de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 7 de Fevereiro de 2006.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/098b00/34503451.pdf)"
+  }
+ }
+}

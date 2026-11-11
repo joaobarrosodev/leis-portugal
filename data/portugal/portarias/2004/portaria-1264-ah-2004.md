@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-09-24'
+version_history:
+  file: portaria-1264-ah-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-09-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-09-24'
+    amending: pt:dre:541625:por
+    amending_title: Portaria n.º 1005/2006
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1264-ah/2004/09/29/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:55:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1005/2006. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-1264-ah-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,7 +158,9 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Florestas, o seguinte:
 
 1.º Pela presente portaria é criada a zona de caça municipal de Vila Viçosa (processo n.º 3879-DGRF), pelo período de seis anos, e transferida a sua gestão para a Real Viçosa - Associação de Caçadores de Vila Viçosa, com o número de pessoa colectiva 506937585 e com sede no ex-Asilo Reixa Lobo, Quinta de São Paulo, 7160 Vila Viçosa.
 
-2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Conceição, município de Vila Viçosa, com a área de 3383 ha.
+2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Conceição, município de Vila Viçosa, com a área de 3147 ha.
+
+> Alterado pelo/a [Portaria n.º 1005/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1005-2006-541625), publicado em 2006-09-19.
 
 3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:
 

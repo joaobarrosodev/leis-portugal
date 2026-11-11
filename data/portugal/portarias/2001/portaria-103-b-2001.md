@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-05-15'
+version_history:
+  file: portaria-103-b-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-02-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-05-15'
+    amending: pt:dre:313806:por
+    amending_title: Portaria n.º 480/2001
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/103-b/2001/02/16/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:27:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 480/2001. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-103-b-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,7 +155,9 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 3.º É revogada a [Portaria n.º 346/2000](https://diariodarepublica.pt/dr/detalhe/portaria/346-2000-288422), de 14 de Junho.
 
-4.º A presente portaria produz efeitos a partir do dia 26 de Novembro de 2000.
+4.º A presente portaria produz efeitos a partir do dia 1 de Junho de 2000.
+
+> Alterado pelo/a [Portaria n.º 480/2001](https://diariodarepublica.pt/dr/detalhe/portaria/480-2001-313806), publicado em 2001-05-10.
 
 Em 15 de Fevereiro de 2001.
 

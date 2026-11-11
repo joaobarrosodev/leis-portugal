@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 26-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/205b00/57335734.pdf)](https://files.diariodarepublica.pt/1s/2001/09/205b00/57335734.pdf)",
+    "depois": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/251b00/68986899.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:631066:por",
+    "alterador": "pt:dre:589532:por"
+  }
+]

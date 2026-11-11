@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Pela presente portaria é renovada, por um período de seis anos, renovável automaticamente por um único e igual período, a concessão desta zona de caça, abrangendo o prédio rústico denominado Herdade do Brunhal, sito na freguesia de Figueira de Cavaleiros, município de Ferreira do Alentejo, com a área de 1675 ha.",
+    "depois": "1.º Pela presente portaria é renovada, por um período de 10 anos, renovável automaticamente por um único e igual período, a concessão desta zona de caça, abrangendo o prédio rústico denominado Herdade do Brunhal, sito na freguesia de Figueira de Cavaleiros, município de Ferreira do Alentejo, com a área de 1675 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:607773:por",
+    "alterador": "pt:dre:307851:por"
+  }
+]

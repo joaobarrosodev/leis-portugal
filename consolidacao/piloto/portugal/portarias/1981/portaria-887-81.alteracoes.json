@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 18-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Estudos Anglo-Portugueses;\n\nAnálise das Fontes e Crítica Literária.",
+    "depois": "a) Estudos Anglo-Portugueses/Estudos Anglo-Americanos;\n\nb) Análise das Fontes e Crítica Literária.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:564052:por",
+    "alterador": "pt:dre:547642:por"
+  },
+  {
+    "artigo": "unidades 22-22",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Literatura Inglesa.",
+    "depois": "b) Literatura de Expressão Inglesa;\n\nc) Culturas de Expressão Inglesa;\n\nd) Culturas de Expressão Portuguesa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:564052:por",
+    "alterador": "pt:dre:547642:por"
+  },
+  {
+    "artigo": "unidades 28-35",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "As unidades de crédito necessárias à obtenção do curso distribuem-se da seguinte forma:\n\nI) Áreas obrigatórias:\n\na) Estudos Anglo-Portugueses ... 8\n\nb) Análise das Fontes e Crítica Literária ... 4\n\nII):\n\na) Literatura Portuguesa ... 4\n\nb) Literatura Inglesa ... 4\n\nTotal ... 16",
+    "depois": "I - Áreas obrigatórias:\n\na) Estudos Anglo-Portugueses/Estudos Anglo-Americanos ... 8\n\nb) Análise das Fontes e Crítica Literária ... 4\n\nII - Áreas opcionais:\n\na) Literatura Portuguesa ... 4\n\nb) Literatura de Expressão Inglesa ... 4\n\nc) Culturas de Expressão Inglesa ... 4\n\nd) Culturas de Expressão Portuguesa ... 4",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:564052:por",
+    "alterador": "pt:dre:547642:por"
+  }
+]

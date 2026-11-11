@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É autorizada a apanha de perceve no Parque Natural do Sudoeste Alentejano e Costa Vicentina, de ora em diante designado por Parque, desde que se observem cumulativamente as seguintes condições:",
+    "depois": "1.º É autorizada a apanha de perceve no Parque Natural do Sudoeste Alentejano e Costa Vicentina (PNSAC), nas seguintes condições:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:650362:por",
+    "alterador": "pt:dre:448961:por"
+  },
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Por dia, cada apanhador não pode apanhar ou transportar na área do Parque mais de 20 kg de perceve «em bruto», incluindo o marisco escolhido e a respectiva escolha.",
+    "depois": "c) Os limites de transporte e apanha diária por cada apanhador são fixados com base no peso 'em bruto', nos seguintes termos:\n\ni) 10 kg, no período compreendido entre 16 de Dezembro e final de Fevereiro;\n\nii) 15 kg, no período compreendido entre 1 de Março e 14 de Setembro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:650362:por",
+    "alterador": "pt:dre:448961:por"
+  },
+  {
+    "artigo": "depois da unidade 16",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "2.º-A - Os espécimes de perceves com tamanho inferior a 20 mm não podem ser transportados, armazenados, expostos, colocados à venda ou vendidos separadamente, devendo a todo o momento estar garantida no peso de cada lote a percentagem de 75 % referida no número anterior.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:650362:por",
+    "alterador": "pt:dre:448961:por"
+  },
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º Tendo em conta a avaliação feita pela Comissão de Acompanhamento e o estado dos recursos, por despacho conjunto dos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas podem ser estabelecidos outros períodos e zonas de defeso, bem como regimes de rotatividade das zonas de apanha.",
+    "depois": "4.º Tendo em conta a avaliação feita pela Comissão de Acompanhamento e o estado dos recursos, por despacho conjunto dos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas podem ser estabelecidos outros limites diários de captura, períodos e zonas de defeso, bem como regimes de rotatividade das zonas de apanha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:650362:por",
+    "alterador": "pt:dre:448961:por"
+  }
+]

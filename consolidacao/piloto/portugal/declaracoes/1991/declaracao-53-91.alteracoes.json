@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "(1) Inclui 415057 contos, com compensação em receita, ao abrigo do artigo único do [Decreto-Lei n.º 216/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1984-385404), de 1 de Julho.",
+    "depois": "(1) Inclui 422513 contos, com compensação em receita, ao abrigo do artigo único do [Decreto-Lei n.º 216/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1984-385404), de 1 de Julho.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:616248:por",
+    "alterador": "pt:dre:521471:por"
+  },
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "704126 contos ao abrigo do artigo 13.º do [Decreto-Lei n.º 187/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1990-575126), de 7 de Junho, e do artigo 7.º do [Decreto-Lei n.º 199/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1990-574952), de 19 de Junho;",
+    "depois": "917159 contos ao abrigo do artigo 13.º do [Decreto-Lei n.º 187/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1990-575126), de 7 de Junho, e do artigo 7.º do [Decreto-Lei n.º 199/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1990-574952), de 19 de Junho;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:616248:por",
+    "alterador": "pt:dre:521471:por"
+  }
+]

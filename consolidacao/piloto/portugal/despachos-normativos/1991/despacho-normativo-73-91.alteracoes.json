@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Nos restantes casos, o custo máximo elegível é de 4% do investimento objecto das ajudas, não podendo o seu valor global ultrapassar 3000 ECU.",
+    "depois": "b) Nos restantes casos, o custo máximo elegível é de 4% do investimento objecto das ajudas, não podendo o seu valor global ultrapassar 3546 ECU.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:622996:por",
+    "alterador": "pt:dre:264749:por"
+  }
+]

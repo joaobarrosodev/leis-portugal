@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-05-03'
+version_history:
+  file: despacho-normativo-230-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-08-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-05-03'
+    amending: pt:dre:542184:por
+    amending_title: Despacho Normativo n.º 479/93; Despacho Normativo n.º 20/95
+    changes:
+    - Adita Artigo depois da unidade 5
+    - Altera Artigo unidades 16-16
+    - Altera Artigo unidades 26-26
+    - Altera Artigo unidades 28-28
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/230/1993/08/27/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:03:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 479/93; Despacho
+    Normativo n.º 20/95. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1993/despacho-normativo-230-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,6 +138,12 @@ Determino o seguinte:
 
 1 - A ajuda prevista no Regulamento (CEE) n.º [1372/93](https://data.europa.eu/eli/reg/1993/1372/oj?locale=pt) será concedida às empresas das indústrias transformadoras legalmente constituídas que obtenham por transformação e comercializem, ou que obtenham por transformação e utilizem em consumos intermédios, os produtos constantes do anexo I que se destinem ao mercado nacional.
 
+1.1 - Sempre que as operações de transformação e comercialização referidas no n.º 1 ocorram em empresas distintas, ao abrigo de contratos celebrados entre si, a ajuda será concedida às empresas responsáveis pela transformação, nos termos contratuais, as quais podem fazer reflectir aquela ajuda nesses contratos.
+
+1.2 - O disposto no ponto anterior produz efeitos a partir de 1 de Abril de 1993.
+
+> Aditado pelo/a [Despacho Normativo n.º 479/93](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/479-1993-542184), publicado em 1993-12-24.
+
 2 - Para efeitos do presente despacho, a actividade de transformação deverá implicar mudança de posição pautal da mercadoria.
 
 3 - A ajuda prevista no número anterior será distribuída nos termos do anexo II.
@@ -140,7 +164,9 @@ Indicação das quantidades dos produtos objecto do pedido de ajuda produzidas e
 
 8 - A taxa de conversão agrícola a usar para o cálculo do montante da ajuda será a que estiver em vigor no último dia útil do trimestre a que respeita o pedido de ajuda.
 
-9 - O cálculo do montante da ajuda a conceder terá em conta as quantidades reais indicadas por cada empresa e os montantes unitários fixados no anexo I.
+9 - O cálculo do montante da ajuda a conceder em cada trimestre terá em conta as quantidades reais relativas ao mesmo trimestre e indicadas por cada empresa e os montantes unitários fixados no anexo I, podendo, em casos devidamente justificados e autorizados por despacho do Ministro da Agricultura, aquele montante ser corrigido em função de alterações de quantidade relativas a trimestres anteriores.
+
+> Alterado pelo/a [Despacho Normativo n.º 20/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-1995-223049), publicado em 1995-04-28.
 
 10 - Constatando-se, num sector determinado, que as ajudas pedidas excedem o montante trimestral fixado para esse sector no anexo II, aquelas serão corrigidas de acordo com a seguinte fórmula:
 
@@ -160,11 +186,15 @@ VP = somatório dos valores dos pedidos de ajuda apresentados no trimestre pelas
 
 12 - Os controlos previstos no Regulamento (CEE) n.º [1372/93](https://data.europa.eu/eli/reg/1993/1372/oj?locale=pt) incidirão sobre as empresas beneficiárias da ajuda e serão realizados pelo INGA ou por outras entidades por este designadas para o efeito.
 
-13 - Os beneficiários da ajuda devem possuir contabilidade organizada nos termos da legislação em vigor e manter à disposição do INGA, durante os três anos seguintes a cada ano de concessão de ajuda, os seguintes elementos:
+13 - Os beneficiários da ajuda devem possuir contabilidade organizada nos termos da legislação em vigor e manter à disposição do INGA, durante os três anos seguintes a cada ano de concessão da ajuda, os seguintes elementos:
+
+> Alterado pelo/a [Despacho Normativo n.º 20/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-1995-223049), publicado em 1995-04-28.
 
 As facturas relativas às vendas efectuadas;
 
-Um inventário permanente das existências que identifique, nomeadamente:
+Registo de movimentação física das existências que indentifique, nomeadamente:
+
+> Alterado pelo/a [Despacho Normativo n.º 20/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-1995-223049), publicado em 1995-04-28.
 
 As matérias-primas;
 

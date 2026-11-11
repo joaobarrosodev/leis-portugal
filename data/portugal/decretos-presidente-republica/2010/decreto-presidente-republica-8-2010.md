@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-02-04'
+version_history:
+  file: decreto-presidente-republica-8-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-01-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-02-04'
+    amending: pt:dre:617109:por
+    amending_title: Decreto do Presidente da República n.º 13/2010
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decpresrep/8/2010/01/22/p/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:09:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto do Presidente da República
+    n.º 13/2010. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-presidente-republica/2010/decreto-presidente-republica-8-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -104,7 +119,9 @@ de 22 de Janeiro
 
 O Presidente da República decreta, nos termos do n.º 2 do artigo 25.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de Julho, o seguinte:
 
-É confirmada a promoção ao posto de Major-General do Coronel Tirocinado de Cavalaria Carlos José Filipe Antunes Calçada, efectuada por deliberação de 13 de Janeiro de 2010 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional da mesma data.
+É confirmada a promoção ao posto de Major-General do Coronel Tirocinado de Cavalaria José Carlos Filipe Antunes Calçada, efectuada por deliberação de 13 de Janeiro de 2010 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional da mesma data.
+
+> Alterado pelo/a [Decreto do Presidente da República n.º 13/2010](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/13-2010-617109), publicado em 2010-02-04.
 
 Assinado em 19 de Janeiro de 2010.
 

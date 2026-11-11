@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-11-30'
+version_history:
+  file: portaria-1025-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-11-30'
+    amending: pt:dre:668128:por
+    amending_title: Declaração de Rectificação n.º 201/92
+    changes:
+    - Altera Artigo unidades 18-18
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1025/1992/10/31/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:06:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 201/92.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-1025-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,6 +167,8 @@ Factores acumulados resultantes da correcção extraordinária nos oito primeiro
 
 TABELA III
 
-Factores de correcção extraordinária a aplicar a partir de Janeiro de 1993, nos termos do n.º 4 do artigo 12.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), de 20 de Dezembro.
+Factores de correcção extraordinária a aplicar a partir de Janeiro de 1993, nos termos do n.º 4 do artigo 12.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), de 20 de Setembro.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 201/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/201-1992-668128), publicado em 1992-11-30.
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/252b01/00020003.pdf)

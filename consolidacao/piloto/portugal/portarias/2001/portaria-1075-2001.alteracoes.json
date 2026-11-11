@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Curso de complemento de formação em Enfermagem",
+    "depois": "## ANEXO — Curso de complemento de formação em enfermagem",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:631071:por",
+    "alterador": "pt:dre:584015:por"
+  },
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/205b00/57485748.pdf)",
+    "depois": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/246b00/68066807.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:631071:por",
+    "alterador": "pt:dre:584015:por"
+  }
+]

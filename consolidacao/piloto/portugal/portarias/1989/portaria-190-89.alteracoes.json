@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 21-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º É aprovado o logótipo a usar nos impressos, conforme modelo anexo, com impressão nas cores do emblema ou só a preto e branco, podendo ainda ser usado em relevo sem cores.",
+    "depois": "2.º É aprovado o logótipo do Serviço de Estrangeiros e Fronteiras, a usar nos documentos electrónicos ou impressos, nos locais de atendimento ao público, bem como em placares, cartazes e outros suportes de comunicação, conforme modelo anexo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:613059:por",
+    "alterador": "pt:dre:3277363:por"
+  },
+  {
+    "artigo": "depois da unidade 21",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "3.º O logótipo pode ser usado em cor azul ou só a preto e branco, ou ainda em relevo sem cores.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:613059:por",
+    "alterador": "pt:dre:3277363:por"
+  }
+]

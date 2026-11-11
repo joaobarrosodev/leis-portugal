@@ -29,10 +29,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-09-11'
+version_history:
+  file: portaria-1010-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-11-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-09-11'
+    amending: pt:dre:370206:por
+    amending_title: Portaria n.º 619/88
+    changes:
+    - Altera Artigo unidades 36-36
+    - Altera Artigo unidades 40-42
+    - Altera Artigo unidades 44-44
+    - Altera Artigo unidades 59-62
+    - Altera Artigo unidades 71-71
 identifiers:
   celex: null
   eli: null
@@ -58,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:34:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 619/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-1010-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -179,7 +198,9 @@ A duração normal do curso é de 3 trimestres lectivos.
 
 (Unidades de crédito)
 
-As unidades de crédito necessárias à conclusão do curso são 35, distribuídas da seguinte forma:
+As unidades de crédito necessárias à conclusão do curso são 37,5, distribuídas da seguinte forma:
+
+> Alterado pelo/a [Portaria n.º 619/88](https://diariodarepublica.pt/dr/detalhe/portaria/619-1988-370206), publicado em 1988-09-06.
 
 a) Áreas obrigatórias:
 
@@ -187,15 +208,19 @@ I) Métodos Quantitativos ... 5
 
 II) Direito de Empresa ... 2,5
 
-III) Teoria Económica ... 7,5
+III) Teoria Económica ... 2,5
 
-IV) Marketing ... 2,5
+IV) Marketing ... 5
 
-V) Finanças ... 5
+V) Finanças ... 7,5
+
+> Alterado pelo/a [Portaria n.º 619/88](https://diariodarepublica.pt/dr/detalhe/portaria/619-1988-370206), publicado em 1988-09-06.
 
 VI) Recursos Humanos ... 5
 
-VII) Política de Empresa ... 2,5
+VII) Política de Empresa ... 5
+
+> Alterado pelo/a [Portaria n.º 619/88](https://diariodarepublica.pt/dr/detalhe/portaria/619-1988-370206), publicado em 1988-09-06.
 
 b) Áreas opcionais:
 
@@ -225,13 +250,23 @@ A tabela e o regime de precedência serão fixados pelo conselho científico.
 
 9.º
 
-(«Numerus clausus»)
+Limitações quantitativas
 
-1 - O numerus clausus do curso será fixado anualmente por despacho do Ministro da Educação e das Universidades.
+1 - A matrícula e a inscrição no curso estão sujeitas a limitações quantitativas a fixar anualmente por despacho do reitor da Universidade Nova de Lisboa, ao abrigo do disposto na alínea e) do artigo 2.º do [Decreto-Lei n.º 323/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1984-400032), de 9 de Outubro, sob proposta do conselho científico.
 
-2 - Uma percentagem do numerus clausus, a fixar igualmente no despacho a que se refere o número anterior, será reservada a docentes de estabelecimentos de ensino superior.
+2 - O curso não poderá funcionar com um número de inscrições inferior a vinte.
 
-3 - O numerus clausus e a percentagem referidos nos números anteriores serão fixados sob proposta da Faculdade de Economia da Universidade Nova de Lisboa.
+3 - O despacho a que se refere o n.º 1 estabelecerá ainda:
+
+a) Qual a percentagem do numerus clausus que será reservada prioritariamente a docentes de estabelecimentos de ensino superior;
+
+b) Qual a percentagem do numerus clausus que será reservada prioritariamente a candidatos que não sejam docentes de estabelecimentos de ensino superior, a qual não poderá ser inferior a 50%;
+
+c) Qual o número mínimo de inscrições indispensável ao funcionamento do curso, se mais elevado que o referido no n.º 2.
+
+4 - O despacho a que se refere o n.º 1 deverá ser publicado na 2.ª série do Diário da República antes do início do prazo de candidatura.
+
+> Alterado pelo/a [Portaria n.º 619/88](https://diariodarepublica.pt/dr/detalhe/portaria/619-1988-370206), publicado em 1988-09-06.
 
 10.º
 
@@ -249,7 +284,9 @@ d) Resultado do teste de aptidão;
 
 e) Experiência docente.
 
-2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 9.º, n.º 2, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino.
+2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas na alínea a) do n.º 3 do n.º 9.º, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino.
+
+> Alterado pelo/a [Portaria n.º 619/88](https://diariodarepublica.pt/dr/detalhe/portaria/619-1988-370206), publicado em 1988-09-06.
 
 3 - O conselho científico poderá determinar aos candidatos à matrícula a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco da licenciatura ou outras como condição prévia para a candidatura à matrícula no curso.
 

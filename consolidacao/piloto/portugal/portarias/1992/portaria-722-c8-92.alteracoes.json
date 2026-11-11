@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdade do Corvo», sito na freguesia de Santa Bárbara, município de Castro Verde, com uma área de 132,4250 ha, e «Monte Branco», «Herdade do Pereiro» e «Herdade do Reguengo», sitos na freguesia de Graça de Padrões, município de Almodôvar, com uma área de 512,1422 ha, perfazendo uma área de 644,5672 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.",
+    "depois": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdade do Corvo», sito na freguesia de Santa Bárbara, município de Castro Verde, com uma área de 132,4250 ha, e «Monte Branco», parcelas da «Herdade do Pereiro» e parcelas da «Herdade do Reguengo», sitos na freguesia de Graça de Padrões, município de Almodôvar, com uma área de 512,1422 ha, perfazendo uma área de 644,5672 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:617495:por",
+    "alterador": "pt:dre:627606:por"
+  }
+]

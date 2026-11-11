@@ -1,0 +1,89 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:641753:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-10-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3716daa2f67ad8d5",
+    "4c33cc4c3126a1dd",
+    "69e28e865dee3788"
+   ]
+  },
+  {
+   "date": "2008-03-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:247034:por",
+     "title": "Portaria n.º 236/2008",
+     "published": "2008-03-12",
+     "dre_path": "/dr/detalhe/portaria/236-2008-247034"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 22-23",
+    "Altera Artigo unidades 25-25",
+    "Altera Artigo unidades 28-47"
+   ],
+   "fragments": [
+    "3716daa2f67ad8d5",
+    "71d08e8cb5b9f473",
+    "cc5d8b1c53331c76"
+   ]
+  }
+ ],
+ "fragments": {
+  "3716daa2f67ad8d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Outubro\n\nSob proposta do Instituto Politécnico de Bragança e da sua Escola Superior de Tecnologia e de Gestão;\n\nConsiderando o disposto nos artigos 13.º e 31.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro (Lei de Bases do Sistema Educativo), alterada pelas Leis n.os [115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro, e [49/2005](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), de 30 de Agosto;\n\nConsiderando o disposto no [Decreto-Lei n.º 42/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2005-606304), de 22 de Fevereiro;\n\nInstruído, organizado e apreciado o processo nos termos do artigo 68.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de Março;\n\nConsiderando o disposto na [Portaria n.º 714-A/2006](https://diariodarepublica.pt/dr/detalhe/portaria/714-a-2006-230717), de 14 de Julho;\n\nAo abrigo do disposto na [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro (estatuto e autonomia dos estabelecimentos de ensino superior politécnico), alterada pelas Leis n.os [20/92](https://diariodarepublica.pt/dr/detalhe/lei/20-1992-283353), de 14 de Agosto, e [71/93](https://diariodarepublica.pt/dr/detalhe/lei/71-1993-593710), de 26 de Novembro, e no capítulo iii do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:\n\n1.º\n\nÁreas científicas\n\nAs áreas científicas e os créditos que devem ser reunidos para a obtenção do grau de licenciado em Engenharia Biomédica na Escola Superior de Tecnologia e de Gestão do Instituto Politécnico de Bragança são os constantes do anexo i a esta portaria.\n\n2.º\n\nPlano de estudos\n\nO plano de estudos do ciclo de estudos conducente ao grau de licenciado em Engenharia Biomédica, ministrado pela Escola Superior de Tecnologia e de Gestão do Instituto Politécnico de Bragança, criado pela [Portaria n.º 714-A/2006](https://diariodarepublica.pt/dr/detalhe/portaria/714-a-2006-230717), de 14 de Julho, é o constante do anexo ii a esta portaria.\n\n3.º\n\nAplicação\n\nO disposto na presente portaria aplica-se a partir do ano lectivo de 2006-2007, inclusive.\n\nO Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 23 de Julho de 2007."
+  },
+  "4c33cc4c3126a1dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Instituto Politécnico de Bragança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Instituto Politécnico de Bragança\n\nEscola Superior de Tecnologia e de Gestão\n\nEngenharia Biomédica\n\nGrau de licenciado\n\nÁreas científicas e créditos que devem ser reunidos para a obtenção do grau\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19200/0712407125.pdf)"
+  },
+  "69e28e865dee3788": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Instituto Politécnico de Bragança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Instituto Politécnico de Bragança\n\nEscola Superior de Tecnologia e de Gestão\n\nEngenharia Biomédica\n\nGrau de licenciado\n\n1.º semestre\n\nQUADRO N.º 1\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19200/0712407125.pdf)\n\n2.º semestre\n\nQUADRO N.º 2\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19200/0712407125.pdf)\n\n3.º semestre\n\nQUADRO N.º 3\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19200/0712407125.pdf)\n\n4.º semestre\n\nQUADRO N.º 4\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19200/0712407125.pdf)\n\n5.º semestre\n\nQUADRO N.º 5\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19200/0712407125.pdf)\n\n6.º semestre\n\nQUADRO N.º 6\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19200/0712407125.pdf)"
+  },
+  "71d08e8cb5b9f473": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Instituto Politécnico de Bragança",
+   "in_force_from": "2008-03-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 236/2008](https://diariodarepublica.pt/dr/detalhe/portaria/236-2008-247034), publicado em 2008-03-12.",
+    "Alterado pelo/a [Portaria n.º 236/2008](https://diariodarepublica.pt/dr/detalhe/portaria/236-2008-247034), publicado em 2008-03-12."
+   ],
+   "markdown": "## ANEXO I — Instituto Politécnico de Bragança\n\nEscola Superior de Tecnologia e de Gestão\n\nGrau de licenciado\n\nEngenharia Biomédica\n\n> Alterado pelo/a [Portaria n.º 236/2008](https://diariodarepublica.pt/dr/detalhe/portaria/236-2008-247034), publicado em 2008-03-12.\n\nÁreas científicas e créditos que devem ser reunidos para a obtenção do grau\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\n> Alterado pelo/a [Portaria n.º 236/2008](https://diariodarepublica.pt/dr/detalhe/portaria/236-2008-247034), publicado em 2008-03-12."
+  },
+  "cc5d8b1c53331c76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Instituto Politécnico de Bragança",
+   "in_force_from": "2008-03-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 236/2008](https://diariodarepublica.pt/dr/detalhe/portaria/236-2008-247034), publicado em 2008-03-12."
+   ],
+   "markdown": "## ANEXO II — Instituto Politécnico de Bragança\n\nEscola Superior de Tecnologia e de Gestão\n\nGrau de licenciado\n\nEngenharia Biomédica\n\nQUADRO N.º 1\n\n1.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\nQUADRO N.º 2\n\n2.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\nQUADRO N.º 3\n\n3.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\nQUADRO N.º 4\n\n4.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\nQUADRO N.º 5\n\n5.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\nQUADRO N.º 6\n\n6.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\n> Alterado pelo/a [Portaria n.º 236/2008](https://diariodarepublica.pt/dr/detalhe/portaria/236-2008-247034), publicado em 2008-03-12."
+  }
+ }
+}

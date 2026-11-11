@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-03-30'
+version_history:
+  file: declaracao-retificacao-8-m-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-02-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-03-30'
+    amending: pt:dre:459454:por
+    amending_title: Declaração de Rectificação n.º 15-H/2002
+    changes:
+    - Altera Artigo unidades 24-24
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declrectif/8-m/2002/02/28/p/dre/pt/html
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:01:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 15-H/2002.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/declaracoes-retificacao/2002/declaracao-retificacao-8-m-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,7 +170,9 @@ i) Não são permitidas culturas anuais;
 
 ii) A instalação de novas culturas arbóreas e arbustivas ou pastagens apenas é permitida nas situações que os serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas venham a considerar tecnicamente adequadas;
 
-b) Quando valor do IQFP for de 5:
+b) Com excepção das parcelas armadas em socalcos ou terraços, quando o valor do IQFP for de 5:
+
+> Alterado pelo/a [Declaração de Rectificação n.º 15-H/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-h-2002-459454), publicado em 2002-03-30.
 
 i) Não são permitidas culturas anuais nem a instalação de novas pastagens;
 

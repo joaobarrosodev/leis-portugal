@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-10-30'
+version_history:
+  file: portaria-190-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-03-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-10-30'
+    amending: pt:dre:3277363:por
+    amending_title: Portaria n.º 867/2008
+    changes:
+    - Altera Artigo unidades 21-21
+    - Adita Artigo depois da unidade 21
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:46:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 867/2008. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-190-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,7 +156,13 @@ Azul - significa justiça, enformada pela lealdade na actuação quotidiana;
 
 Negro - significa firmeza na defesa dos princípios, temperada pelo senso na consideração de cada caso pessoal.
 
-2.º É aprovado o logótipo a usar nos impressos, conforme modelo anexo, com impressão nas cores do emblema ou só a preto e branco, podendo ainda ser usado em relevo sem cores.
+2.º É aprovado o logótipo do Serviço de Estrangeiros e Fronteiras, a usar nos documentos electrónicos ou impressos, nos locais de atendimento ao público, bem como em placares, cartazes e outros suportes de comunicação, conforme modelo anexo.
+
+> Alterado pelo/a [Portaria n.º 867/2008](https://diariodarepublica.pt/dr/detalhe/portaria/867-2008-3277363), publicado em 2008-10-30.
+
+3.º O logótipo pode ser usado em cor azul ou só a preto e branco, ou ainda em relevo sem cores.
+
+> Aditado pelo/a [Portaria n.º 867/2008](https://diariodarepublica.pt/dr/detalhe/portaria/867-2008-3277363), publicado em 2008-10-30.
 
 Ministério da Administração Interna.
 

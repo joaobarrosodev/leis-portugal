@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) 36000 ECU, quando o técnico a contratar possua a qualificação prevista no n.º 9;",
+    "depois": "a) 42550 ECU, quando o técnico a contratar possua a qualificação prevista no n.º 9;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:622985:por",
+    "alterador": "pt:dre:264749:por"
+  },
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) 27000 ECU, nos casos referidos no n.º 11.",
+    "depois": "b) 31910 ECU, nos casos referidos no n.º 11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:622985:por",
+    "alterador": "pt:dre:264749:por"
+  }
+]

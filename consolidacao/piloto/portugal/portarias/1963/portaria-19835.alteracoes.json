@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "II) O lugar é provido, por contrato, em diplomado com os cursos de Farmácia ou de Ciências Físico-Químicas, livremente escolhido pelo Ministro do Ultramar ou sob proposta do governador da província.",
+    "depois": "II) O lugar será provido, por qualquer das formas previstas na lei, por diplomado com os cursos de Farmácia ou Ciências Físico-Químicas, livremente escolhido pelo Ministro do Ultramar ou mediante proposta do governador da província.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:628314:por",
+    "alterador": "pt:dre:687598:por"
+  }
+]

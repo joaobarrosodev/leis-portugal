@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-02-27'
+version_history:
+  file: portaria-1446-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-12-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-02-27'
+    amending: pt:dre:165456:por
+    amending_title: Portaria n.º 128/99
+    changes:
+    - Altera Artigo unidades 15-15
+    - Altera Artigo unidades 19-34
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1446/1995/12/05/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:54:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 128/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-1446-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,7 +146,9 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 1.º É criada a Comissão Consultiva de Mecanização Agrícola, abreviadamente designada por CCMA.
 
-2.º - 1 - A CCMA é uma comissão consultiva do Instituto de Estruturas Agrárias e Desenvolvimento Rural (IEADR), com a seguinte composição:
+2.º - 1 - A CCMA é uma comissão consultiva do Instituto de Hidráulica, Engenharia Rural e Ambiente (IHERA), com a seguinte composição:
+
+> Alterado pelo/a [Portaria n.º 128/99](https://diariodarepublica.pt/dr/detalhe/portaria/128-1999-165456), publicado em 1999-02-22.
 
 a) O presidente do IEADR, que preside, coadjuvado por um secretário por si designado de entre os membros da Comissão;
 
@@ -138,37 +156,55 @@ b) O vice-presidente do IEADR responsável pelo sector da mecanização;
 
 c) O chefe da Divisão de Mecanização e Normalização do IEADR;
 
-d) Um representante de cada um dos seguintes organismos e associações:
+d) Um representante dos seguintes organismos e associações:
 
-Instituto Florestal;
+Ministério da Ciência e da Tecnologia;
 
-Direcções regionais de agricultura;
+Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo;
 
-Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas;
+Direcção-Geral das Florestas;
 
-Instituto Português da Qualidade;
-
-Direcção-Geral de Viação;
-
-Direcção-Geral do Comércio;
+Direcção-Geral do Desenvolvimento Rural;
 
 Direcção-Geral da Indústria;
 
-Direcção-Geral das Alfândegas;
+Direcção-Geral das Relações Económicas e Internacionais;
+
+Direcção-Geral dos Transportes Terrestres;
+
+Direcção-Geral de Viação;
+
+Direcções regionais de agricultura;
 
 Instituto de Desenvolvimento e Inspecção das Condições de Trabalho;
 
-Confederação dos Agricultores de Portugal;
+Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas;
+
+Instituto Nacional de Investigação Agrária;
+
+Instituto Português da Qualidade;
 
 Associação do Comércio Automóvel de Portugal;
 
-Associação dos Industriais Metalúrgicos e Metalomecânicos do Sul (AIMMS);
+Associação dos Industriais Metalúrgicos, Metalomecânicos e Afins de Portugal;
 
-Associação dos Industriais Metalúrgicos e Metalomecânicos do Norte (AIMMN);
+Associação Nacional de Empreiteiros Florestais e Agrícolas;
 
-e) Dois representantes do ensino agrícola;
+Associação Nacional das Empresas Metalúrgicas e Metalomecânicas;
 
-f) Três técnicos de reconhecida competência na área da mecanização agrícola, convidados pelo presidente, sob proposta da CCMA.
+Confederação dos Agricultores de Portugal;
+
+Associação dos Jovens Agricultores de Portugal;
+
+Confederação Nacional das Federações das Cooperativas Agrícolas, C. R. L.;
+
+Confederação Nacional de Agricultura;
+
+e) Um representante do ensino superior agrícola;
+
+f) Técnicos de reconhecida competência na área da mecanização agrícola, até ao máximo de três, convidados pelo presidente, sob proposta da CCMA.
+
+> Alterado pelo/a [Portaria n.º 128/99](https://diariodarepublica.pt/dr/detalhe/portaria/128-1999-165456), publicado em 1999-02-22.
 
 2 - Sempre que se julgue necessário ao bom andamento dos trabalhos, o presidente poderá convocar, sob proposta da CCMA, técnicos especialistas de reconhecida competência nas matérias específicas em discussão.
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-02-27'
+version_history:
+  file: portaria-163-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-03-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-02-27'
+    amending: pt:dre:165458:por
+    amending_title: Portaria n.º 129/99
+    changes:
+    - Altera Artigo unidades 5-16
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:46:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 129/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-163-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,29 +136,9 @@ Ao abrigo do disposto nos artigos 5.º, 6.º e 15.º do [Decreto-Lei n.º 519-F2
 
 Manda o Governo, pelo Ministro da Justiça, o seguinte:
 
-1.º - a) É criada uma 2.ª Conservatória do Registo Predial, de 1.ª classe, no concelho de Braga.
+1.º - (Revogado.)
 
-b) Cada uma das conservatórias resultantes do desdobramento da actual fica com competência territorial sobre as áreas a seguir indicadas:
-
-1.ª Conservatória do Registo Predial e Comercial:
-
-Freguesias de Arcos, Arentim, Aveleda, Cabreiras, Celeiros, Braga (Cividade), Cunha, Escudeiros, Esporões, Ferreiros, Figueiredo, Gondizalves, Guisande, Lamas, Lomar, Braga (Maximinos), Morreira, Oliveira (São Pedro), Passos (São Julião), Penso (Santo Estêvão), Penso (São Vicente), Priscos, Ruilhe, Braga (São João do Souto), Braga (Sé), Sequeira, Tadim, Tebosa, Trandeiras, Vilaça e Vimieiro;
-
-Registo comercial - todo o concelho.
-
-2.ª Conservatória do Registo Predial:
-
-Freguesias de Adaúfe, Crespos, Dume, Espinho, Este (São Mamede), Este (São Pedro), Fraião, Frossos, Gualtar, Lamaçães, Merelim (São Paio), Merelim (São Pedro), Mire de Tibães, Navarra, Nogueira, Nogueiró, Padim da Graça, Palmeira, Panoias, Parada de Tibães, Pedralva, Pousada, Real, Santa Lucrécia de Algeriz, Braga (São José de São Lázaro), Braga (São Vicente), Braga (São Vítor), Semelhe, Sobreposta e Tenões.
-
-c) O quadro de oficiais de cada uma das Conservatórias é assim constituído:
-
-Primeiro-ajudante - um;
-
-Segundo-ajudante - um;
-
-Terceiro-ajudante - dois;
-
-Escriturário - três.
+> Alterado pelo/a [Portaria n.º 129/99](https://diariodarepublica.pt/dr/detalhe/portaria/129-1999-165458), publicado em 1999-02-22.
 
 2.º - a) É criada a Conservatória do Registo Predial e Comercial de Vila Nova de Poiares, de 3.ª classe, a funcionar em regime de anexação com a Conservatória do Registo Civil, desanexando-se desta o Cartório Notarial.
 

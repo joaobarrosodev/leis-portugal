@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - Incumbir o Ministro dos Transportes e Comunicações de instruir as empresas ANA - Aeroportos e Navegação Aérea, E. P., TAP - Transportes Aéreos Portugueses, E. P., e CTM - Companhia Portuguesa de Transportes Marítimos, E. P., no sentido de se promoverem, junto dos Governos Regionais da Madeira e dos Açores, as acções necessárias à inscrição, nos orçamentos daquelas regiões autónomas, das dotações necessárias ao pagamento das respectivas quotas-partes das indemnizações compensatórias devidas àquelas empresas pela imposição de obrigações de serviço público nos serviços de transporte entre as ilhas das regiões autónomas e entre estas e o continente.",
+    "depois": "4 - Incumbir os Ministros das Finanças e do Plano, dos Transportes e Comunicações, da República para a Região Autónoma dos Açores e da República para a Região Autónoma da Madeira de apresentarem as propostas adequadas para a cobertura integral dos custos referentes às especiais obrigações de serviço público impostas às empresas públicas TAP - Transportes Aéreos Portugueses, E. P., CTM - Companhia Portuguesa de Transportes Marítimos, E. P., e ANA - Aeroportos e Navegação Aérea, E. P., para assegurar as ligações entre o continente e as regiões autónomas nos valores que excedem os referidos no n.º 1.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:580078:por",
+    "alterador": "pt:dre:577912:por"
+  },
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7 - A verba de 374000 contos, a distribuir futuramente, será efectuada mediante despacho conjunto dos Ministros das Finanças e do Plano e da tutela das empresas envolvidas.",
+    "depois": "7 - A verba de 502000 contos, a distribuir futuramente, será afectada mediante despacho do Ministro das Finanças e do Plano.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:580078:por",
+    "alterador": "pt:dre:577912:por"
+  }
+]

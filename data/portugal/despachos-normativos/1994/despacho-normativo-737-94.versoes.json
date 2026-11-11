@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:624811:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-10-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "40e90ec0a10e8b05"
+   ]
+  },
+  {
+   "date": "1994-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:533185:por",
+     "title": "Declaração de Rectificação n.º 195/94",
+     "published": "1994-10-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/195-1994-533185"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-5"
+   ],
+   "fragments": [
+    "10a9ba258f6a848f"
+   ]
+  }
+ ],
+ "fragments": {
+  "40e90ec0a10e8b05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que em 7 de Abril de 1993 cessou a comissão de serviço de José Prudêncio da Silva Santos Andrade, à data subdirector regional da Direcção Regional de Agricultura da Beira Litoral;\n\nConsiderando o disposto no artigo 3.º do [Decreto-Lei n.º 34/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1993-648134), de 13 de Fevereiro, e nos n.os 6 e 8 do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma:\n\nDetermina-se o seguinte:\n\n1 - É criado no quadro de pessoal da Direcção Regional de Agricultura do Algarve, constante do anexo IV à [Portaria n.º 826/93](https://diariodarepublica.pt/dr/detalhe/portaria/826-1993-626995), de 8 de Setembro, um lugar de assessor principal da carreira de técnico superior, a extinguir quando vagar.\n\n2 - A criação do lugar referido no número anterior produz efeitos desde o dia 7 de Abril de 1993, considerando-se tais efeitos como reportados ao anterior quadro da Direcção Regional de Agricultura da Beira Litoral até à entrada em vigor da portaria referida no n.º 1.\n\nMinistérios das Finanças e da Agricultura, 30 de Agosto de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  },
+  "10a9ba258f6a848f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1994-10-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 195/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/195-1994-533185), publicado em 1994-10-31."
+   ],
+   "markdown": "Considerando que em 7 de Abril de 1993 cessou a comissão de serviço de José Prudêncio da Silva Santos Andrade, à data subdirector regional da Direcção Regional de Agricultura da Beira Litoral;\n\nConsiderando o disposto no artigo 3.º do [Decreto-Lei n.º 34/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1993-648134), de 13 de Fevereiro, e nos n.os 6 e 8 do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma:\n\nDetermina-se o seguinte:\n\n1 - É criado no quadro de pessoal da Direcção Regional de Agricultura da Beira Litoral, constante do anexo IV à [Portaria n.º 826/93](https://diariodarepublica.pt/dr/detalhe/portaria/826-1993-626995), de 8 de Setembro, um lugar de assessor principal da carreira de técnico superior, a extinguir quando vagar.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 195/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/195-1994-533185), publicado em 1994-10-31.\n\n2 - A criação do lugar referido no número anterior produz efeitos desde o dia 7 de Abril de 1993, considerando-se tais efeitos como reportados ao anterior quadro da Direcção Regional de Agricultura da Beira Litoral até à entrada em vigor da portaria referida no n.º 1.\n\nMinistérios das Finanças e da Agricultura, 30 de Agosto de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  }
+ }
+}

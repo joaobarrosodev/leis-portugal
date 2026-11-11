@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-05-05'
+version_history:
+  file: portaria-620-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-08-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-05-05'
+    amending: pt:dre:251867:por
+    amending_title: Portaria n.º 264/94
+    changes:
+    - Adita Artigo depois da unidade 38
+    - Altera Artigo unidades 41-43
+    - Adita Artigo depois da unidade 43
 identifiers:
   celex: null
   eli: null
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:26:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 264/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-620-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -181,15 +198,51 @@ b) A indicação da percentagem de qualquer componente ou grupo de componentes, 
 
 c) No caso de mistura de aromas com aditivos que desempenhem apenas função de auxiliares tecnológicos, estes não carecem de figurar na rotulagem.
 
+6.º-A - 1 - Os aromatizantes destinados à venda ao consumidor final só podem ser comercializados se as respectivas rotulagens incluírem as seguintes indicações obrigatórias, que devem ser facilmente visíveis, claramente legíveis e indeléveis:
+
+a) A menção «Aromatizante», ou uma denominação mais específica, ou uma descrição do aromatizante;
+
+b) A menção «Para géneros alimentícios», ou uma referência mais específica ao género alimentício a que o aromatizante se destina;
+
+c) A data de durabilidade mínima, ou a data limite de consumo, em conformidade com o estabelecido na alínea d) do n.º 1 do artigo 3.º do Decreto-Lei n.º 170/92, de 8 de Agosto, e nos n.os 14.º e 15.º da Portaria n.º 119/93, de 2 de Fevereiro;
+
+d) As condições específicas de conservação e utilização;
+
+e) O modo de utilização, sempre que a respectiva omissão possa impedir ou dificultar o uso apropriado do aromatizante;
+
+f) A quantidade líquida, expressa em unidades de massa ou de volume;
+
+g) O nome, denominação ou firma e o endereço do fabricante, do embalador ou de um vendedor estabelecido num dos Estados membros da Comunidade Económica Europeia;
+
+h) Uma indicação ou marca que permita identificar o lote, em conformidade com a alínea o) do artigo 2.º do Decreto-Lei n.º 170/92, de 8 de Agosto, e no n.º 16.º da Portaria n.º 119/93, de 2 de Fevereiro;
+
+i) Se se tratar de uma mistura de aromatizante ou aromatizantes com outras substâncias, a enumeração, por ordem decrescente de peso na mistura:
+
+- Desse aromatizante ou aromatizantes, nos termos da alínea a);
+
+- Do nome de cada uma das restantes substâncias ou matérias e, se for caso disso, do respectivo número CEE.
+
+2 - O termo «natural», ou qualquer outra expressão com um significado sensivelmente equivalente, apenas pode ser utilizado para os aromatizantes cuja parte activa contenha exclusivamente substâncias aromatizantes naturais e ou preparados aromatizantes, respectivamente definidos na alínea b), primeiro travessão, e na alínea c) do n.º 2.º
+
+3 - Se a designação comercial do aromatizante contiver uma referência a um género alimentício, ou a uma fonte de aromatizantes, o termo «natural», ou qualquer outra expressão equivalente, apenas pode ser utilizado se a parte activa tiver sido isolada por processo físico adequado, por processos enzimáticos, microbiológicos ou tradicionais de preparação de géneros alimentícios, unicamente, ou quase unicamente, a partir do género alimentício ou da fonte aromatizante, referidos na designação comercial mencionada no início deste parágrafo.
+
+> Aditado pelo/a [Portaria n.º 264/94](https://diariodarepublica.pt/dr/detalhe/portaria/264-1994-251867), publicado em 1994-04-30.
+
 7.º As menções previstas na alínea a) do ponto 1 e nas alíneas a) e b) do ponto 2 do n.º 6.º podem constar apenas dos documentos de acompanhamento relativos ao lote, desde que a menção «para géneros alimentícios e não para venda a retalho» figure em lugar bem visível na embalagem ou no recipiente do produto em questão.
 
 8.º Sem prejuízo do disposto na alínea b) do n.º 3.º, a menção «natural» ou qualquer outra com um significado equivalente apenas podem ser utilizadas na rotulagem dos aromas:
 
-a) Cuja parte aromatizante contenha exclusivamente preparados aromatizantes tal como definidos na alínea c) do n.º 3.º;
+a) Cuja parte aromatizante contenha exclusivamente substâncias aromatizantes e ou preparados aromatizantes definidos, respectivamente, nas alíneas b) e c) do n.º 2;
 
-b) Cuja parte aromatizante, no caso de ser feita referência a um género alimentício ou a uma fonte de aromas, seja isolada por processos físicos adequados, por processos enzimáticos ou microbiológicos ou por processos tradicionais de preparação de géneros alimentícios, exclusivamente a partir do género alimentício ou da fonte de aromas referidos.
+b) Cuja parte aromatizante, no caso de ser feita referência a um género alimentício ou a uma fonte de aromas, seja isolada por processos físicos adequados, por processos enzimáticos ou microbiológicos ou por processos tradicionais de preparação de géneros alimentícios, exclusivamente ou quase exclusivamente a partir do género alimentício ou da fonte de aromas referidos.
 
-9.º As menções previstas no n.º 6.º serão sempre redigidas em português, sem prejuízo da sua reprodução noutras línguas.
+9.º As menções previstas nos n.os 6.º e 6.º-A serão sempre redigidas em português, sem prejuízo da sua reprodução noutras línguas.
+
+> Alterado pelo/a [Portaria n.º 264/94](https://diariodarepublica.pt/dr/detalhe/portaria/264-1994-251867), publicado em 1994-04-30.
+
+10.º O comércio dos produtos que não estejam em conformidade com o artigo 6.º-A fica proibido a partir de 1 de Janeiro de 1994.
+
+> Aditado pelo/a [Portaria n.º 264/94](https://diariodarepublica.pt/dr/detalhe/portaria/264-1994-251867), publicado em 1994-04-30.
 
 Ministérios da Agricultura, Pescas e Alimentação, da Saúde e do Ambiente e Recursos Naturais.
 

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-03-31'
+version_history:
+  file: declaracao-35-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-03-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-03-31'
+    amending: pt:dre:409510:por
+    amending_title: Declaração de Rectificação n.º 65/93
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decl/35/1993/03/17/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T11:56:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 65/93.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/declaracoes/1993/declaracao-35-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -98,4 +113,6 @@ De harmonia com o disposto na parte final do n.º 2 do artigo 6.º do [Decreto-L
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/064b00/13031306.pdf)
 
-12.ª Delegação da Direcção-Geral da Contabilidade Pública, 16 de Fevereiro de 1993. - O Director, José Manuel Pereira Mentes.
+12.ª Delegação da Direcção-Geral da Contabilidade Pública, 16 de Fevereiro de 1993. - O Director, José Manuel Pereira Mendes.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 65/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/65-1993-409510), publicado em 1993-03-31.

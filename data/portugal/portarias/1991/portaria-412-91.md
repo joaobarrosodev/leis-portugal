@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-09-30'
+version_history:
+  file: portaria-412-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-05-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-09-30'
+    amending: pt:dre:682199:por
+    amending_title: Declaração de Rectificação n.º 211/91
+    changes:
+    - Altera Artigo unidades 66-66
+    - Altera Artigo unidades 77-77
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/412/1991/05/16/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:48:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 211/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-412-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -249,7 +265,9 @@ Formalidades e tramitação aduaneiras
 
 a) Tenha sido apresentado, na estância de domiciliação, um pedido de introdução em livre prática e consumo, ou de colocação das mercadorias sob qualquer outro regime aduaneiro, consoante os casos;
 
-b) Tenha sido entregue a declaração simplificada correspondente, acompanhada dos documentos referidos no n.º 12.º;
+b) Tenha sido entregue a declaração simplificada correspondente, acompanhada dos documentos referidos no n.º 11;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 211/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/211-1991-682199), publicado em 1991-09-30.
 
 c) Se mostrem garantidos os direitos e outras imposições devidos pelas mercadorias.
 
@@ -271,7 +289,9 @@ Nestes casos, os serviços competentes da estância de domiciliação tomarão a
 
 19.º A declaração complementar a qua alude a alínea b) do n.º 1 do artigo 23.º do Decreto-Lei n.º 16/91, de 10 de Janeiro, será entregue na estância de domiciliação no prazo previsto neste preceito, devendo o registo de liquidação das imposições em dívida ser efectuado no prazo máximo de dois dias após a data da autorização de saída.
 
-20.º Quando o beneficiário do regime simplificado de desalfandegamento no domicílio esteja autorizado a aplicar o procedimento simplificado referido no n.º 6.º desta portaria, deverá a entrega da declaração global, periódica ou recapitulativa ser feita na estância de domiciliação, o mais tardar no segundo dia seguinte ao termo do «período de globalização».
+20.º Quando o beneficiário do regime simplificado de desalfandegamento no domicílio esteja autorizado a aplicar o procedimento simplificado referido no n.º 8 desta portaria, deverá a entrega da declaração global, periódica ou recapitulativa ser feita na estância de domiciliação, o mais tardar no segundo dia seguinte ao termo do «período de globalização».
+
+> Alterado pelo/a [Declaração de Rectificação n.º 211/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/211-1991-682199), publicado em 1991-09-30.
 
 21.º O registo de liquidação das declarações complementares referidas no número anterior terá lugar no prazo de cinco dias, contados do termo do «período de globalização» considerado, devendo o pagamento ser efectuado até ao dia 15 do mês seguinte ao do citado «período de globalização».
 

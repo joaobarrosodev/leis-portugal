@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-04-18'
+version_history:
+  file: despacho-normativo-77-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-04-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-04-18'
+    amending: pt:dre:264749:por
+    amending_title: Despacho Normativo n.º 247/94; Despacho Normativo n.º 247/94
+    changes:
+    - Altera Artigo unidades 13-15
+    - Altera Artigo unidades 24-24
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/77/1991/04/05/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:53:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 247/94; Despacho
+    Normativo n.º 247/94. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1991/despacho-normativo-77-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,11 +152,13 @@ c) Tem assegurada a sua viabilidade económica.
 
 6 - Compete à DGPA emitir o título de reconhecimento dos AP, remetê-lo à DRA e, simultaneamente, dar conhecimento ao requerente.
 
-7 - As ajudas aos AP destinadas a contribuir para os custos da sua gestão, que não ultrapassarão 15000 ECU por agrupamento e 90% dos custos totais elegíveis, são concedidos até:
+7 - As ajudas aos AP destinadas a contribuir para os custos da sua gestão, que não ultrapassarão 17730 ECU por agrupamento e 90% dos custos totais elegíveis, são concedidos até:
 
-a) 8000 ECU em relação ao tipo de agrupamento;
+a) 9460 ECU em relação ao tipo de agrupamento;
 
-b) 7000 ECU em relação ao número de associados.
+b) 8275 ECU em relação ao número de associados.
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
 8 - Na determinação do montante relativo à alínea a) do número anterior, são atribuídos até:
 
@@ -158,7 +176,9 @@ c) 100%, a mais de 100 associados.
 
 10 - O cálculo do montante máximo da ajuda a conceder nos termos dos números anteriores faz-se pela seguinte fórmula:
 
-Ajuda em ECU = 6000 A + 5000 B
+Ajuda em ECU = 9460 A + 8275 B
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
 onde:
 

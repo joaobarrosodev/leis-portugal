@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 24-24",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - O curso tem a duração de cinco anos.",
+    "depois": "1 - O curso tem a duração de quatro anos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:611087:por",
+    "alterador": "pt:dre:405322:por"
+  }
+]

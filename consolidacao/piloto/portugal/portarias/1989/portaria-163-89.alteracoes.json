@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º - a) É criada uma 2.ª Conservatória do Registo Predial, de 1.ª classe, no concelho de Braga.\n\nb) Cada uma das conservatórias resultantes do desdobramento da actual fica com competência territorial sobre as áreas a seguir indicadas:\n\n1.ª Conservatória do Registo Predial e Comercial:\n\nFreguesias de Arcos, Arentim, Aveleda, Cabreiras, Celeiros, Braga (Cividade), Cunha, Escudeiros, Esporões, Ferreiros, Figueiredo, Gondizalves, Guisande, Lamas, Lomar, Braga (Maximinos), Morreira, Oliveira (São Pedro), Passos (São Julião), Penso (Santo Estêvão), Penso (São Vicente), Priscos, Ruilhe, Braga (São João do Souto), Braga (Sé), Sequeira, Tadim, Tebosa, Trandeiras, Vilaça e Vimieiro;\n\nRegisto comercial - todo o concelho.\n\n2.ª Conservatória do Registo Predial:\n\nFreguesias de Adaúfe, Crespos, Dume, Espinho, Este (São Mamede), Este (São Pedro), Fraião, Frossos, Gualtar, Lamaçães, Merelim (São Paio), Merelim (São Pedro), Mire de Tibães, Navarra, Nogueira, Nogueiró, Padim da Graça, Palmeira, Panoias, Parada de Tibães, Pedralva, Pousada, Real, Santa Lucrécia de Algeriz, Braga (São José de São Lázaro), Braga (São Vicente), Braga (São Vítor), Semelhe, Sobreposta e Tenões.\n\nc) O quadro de oficiais de cada uma das Conservatórias é assim constituído:\n\nPrimeiro-ajudante - um;\n\nSegundo-ajudante - um;\n\nTerceiro-ajudante - dois;\n\nEscriturário - três.",
+    "depois": "1.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:612864:por",
+    "alterador": "pt:dre:165458:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É autorizada a importação de batata-semente da variedade Kennebec originária do Canadá durante o período de 1 de Novembro a 31 de Dezembro de 1992, último dia de entrada na Comunidade.",
+    "depois": "1.º É autorizada a importação de batata-semente de variedade Kennebec originária do Canadá, durante o período de 1 de Novembro de 1992 a 31 de Março de 1993.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:597155:por",
+    "alterador": "pt:dre:657636:por"
+  }
+]

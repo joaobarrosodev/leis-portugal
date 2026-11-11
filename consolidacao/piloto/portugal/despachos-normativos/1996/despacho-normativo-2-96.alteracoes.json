@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - Os pedidos de concessão do prémio serão entregues na direcção regional de agricultura da área da exploração, após o que a mesma procederá, através de visitas ao local, à verificação das informações neles contidas e remetê-los-á, devidamente fundamentados, ao INGA no prazo de 20 dias.",
+    "depois": "3 - Os pedidos de concessão do prémio serão entregues na direcção regional de agricultura da área da exploração, após o que a mesma procederá, através de visitas ao local, à verificação das informações neles contidas e remetê-los-á, devidamente fundamentados, ao INGA no prazo de 20 dias.\n\nContudo, em casos excepcionais que impossibilitem o cumprimento do prazo acima referido, a direcção regional de agricultura poderá remeter ao INGA os processos devidamente fundamentados o mais tardar até 15 de Março de 1996.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:624653:por",
+    "alterador": "pt:dre:621766:por"
+  }
+]

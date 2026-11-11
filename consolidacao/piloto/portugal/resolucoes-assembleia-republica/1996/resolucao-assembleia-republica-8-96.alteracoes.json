@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A Assembleia da República, em reunião plenária de 1 de Fevereiro de 1996, resolve designar, nos termos dos artigos 23.º, n.º 3, 166.º, alínea i), e 169.º, n.º 5, da Constituição, o conselheiro Dr. José Manuel Menezes de Sampaio Pimentel para o cargo de Provedor de Justiça.",
+    "depois": "A Assembleia da República, em reunião plenária de 1 de Fevereiro de 1996, resolve designar, nos termos dos artigos 23.º, n.º 3, 166.º, alínea i), e 169.º, n.º 5, da Constituição, o conselheiro Dr. José Manuel Meneres Sampaio Pimentel para o cargo de Provedor de Justiça.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:613381:por",
+    "alterador": "pt:dre:621297:por"
+  }
+]

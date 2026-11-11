@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-07-05'
+version_history:
+  file: portaria-330-c-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-05-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-07-05'
+    amending: pt:dre:321932:por
+    amending_title: Portaria n.º 491-A/89
+    changes:
+    - Altera Artigo unidades 28-34
+    - Altera Artigo unidades 44-44
+    - Adita Artigo depois da unidade 49
 identifiers:
   celex: null
   eli: null
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:50:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 491-A/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-330-c-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,19 +181,29 @@ g) Para o triticale, o preço de 36500$00/t;
 
 h) Para a aveia, o preço de 30000$00/t;
 
-4.º Os preços de orientação de mercado para o cereal importado, a partir de 1 de Julho de 1989, são os seguintes:
+4.º - 1 - Os preços de orientação de mercado para os cereais importados, com excepção do trigo, a partir de 1 de Julho de 1989, são os seguintes:
 
-a) Para o trigo-mole, os preços estabelecidos na alínea a) do n.º 3, acrescidos de 7200$00/t;
+a) Para o milho, 42000$00/t;
 
-b) Para o trigo-rijo, os preços estabelecidos na alínea b) do n.º 3 para o trigo-rijo da classe A, acrescidos de 2270$00/t;
+b) Para a cevada, 36500$00/t;
 
-c) Para o milho, o preço de 42000$00/t;
+c) Para o sorgo, 37525$00/t;
 
-d) Para a cevada, o preço de 36500$00/t;
+d) Para a aveia, 30000$00/t.
 
-e) Para o sorgo, o preço de 37525$00/t;
+2 - Os preços de orientação de mercado para o trigo importado, a partir de 1 de Julho de 1989 e até ao dia 14 do mesmo mês, são os seguintes:
 
-f) Para a aveia, o preço de 30000$00/t.
+a) Para o trigo-mole, os preços estabelecidos na alínea a) do n.º 3.º, acrescidos de 2875$00/t;
+
+b) Para o trigo-rijo, os preços estabelecidos na alínea b) do n.º 3.º para o trigo-rijo da classe A, acrescidos de 2270$00/t.
+
+3 - Os preços de orientação de mercado para o trigo importado, a partir de 15 de Julho de 1989, são os seguintes:
+
+a) Para o trigo-mole, os preços estabelecidos na alínea a) do n.º 3.º, acrescidos de 7200$00/t;
+
+b) Para o trigo-rijo, os preços estabelecidos na alínea b) do n.º 3.º para o trigo-rijo da classe A, acrescidos de 2270$00/t.
+
+> Alterado pelo/a [Portaria n.º 491-A/89](https://diariodarepublica.pt/dr/detalhe/portaria/491-a-1989-321932), publicado em 1989-06-30.
 
 5.º Para a campanha de 1989-1990, os preços de intervenção são os seguintes:
 
@@ -196,7 +223,9 @@ a) Para os cereais em que o peso específico seja superior ao indicado para a qu
 
 2) Centeio - superior a 71 kg/hl até 77 kg/hl;
 
-3) Triticale - superior a 71 kg/hl até 72 kg/hl;
+3) Triticale - superior a 71 kg/hl até 75 Kg/hl;
+
+> Alterado pelo/a [Portaria n.º 491-A/89](https://diariodarepublica.pt/dr/detalhe/portaria/491-a-1989-321932), publicado em 1989-06-30.
 
 4) Cevada - superior a 62 kg/hl até 72 kg/hl;
 
@@ -207,6 +236,10 @@ b) Quando o peso específico do cereal fica aquém do fixado na qualidade tipo, 
 c) Quando o cereal apresentar um teor de humidade entre 14% e 16%, sofrerá relativamente ao respectivo preço de aquisição uma depreciação correspondente à percentagem que exceder os 14%. Se o cereal tiver um teor de humidade inferior a 14% e até 10%, terá uma bonificação correspondente à percentagem abaixo de 14%;
 
 d) Quando as percentagens de grãos partidos ou de impurezas constituídas por grãos ou de grãos germinados excederem os limites propostos para a qualidade tipo, aplicar-se-á, em qualquer dos casos, ao preço de aquisição do cereal, a depreciação de 0,5% por cada 1% excedente.
+
+e) Quando a percentagem de outras impurezas, ou seja, as não constituídas por grãos, exceder os teores estabelecidos para a qualidade tipo, descontar-se-á ao preço de aquisição do cereal a percentagem equivalente ao excedente verificado.
+
+> Aditado pelo/a [Portaria n.º 491-A/89](https://diariodarepublica.pt/dr/detalhe/portaria/491-a-1989-321932), publicado em 1989-06-30.
 
 9.º Não será aceite pelo organismo de intervenção o cereal que não respeite a respectiva qualidade mínima.
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-09-06'
+version_history:
+  file: portaria-837-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-09-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-09-06'
+    amending: pt:dre:566643:por
+    amending_title: Portaria n.º 682/98
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/837/1994/09/21/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:39:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 682/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-837-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,7 +134,9 @@ de 21 de Setembro
 
 Manda o Governo, pelo Ministro das Finanças, nos termos do artigo 2.º do [Decreto-Lei n.º 116/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1994-250664), de 3 de Maio, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 214/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1994-218496), de 19 de Agosto, que aprovou o Regulamento dos Impostos de Circulação e Camionagem, o seguinte:
 
-1.º É aprovada a declaração de autoliquidação modelo n.º 6 a que se refere o n.º 1 do artigo 9.º do Regulamento dos Impostos de Circulação e Camionagem, a qual constitui exclusivo da Imprensa Nacional-Casa da Moeda.
+1.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 682/98](https://diariodarepublica.pt/dr/detalhe/portaria/682-1998-566643), publicado em 1998-09-01.
 
 2.º São aprovados os impressos modelos n.os 7, 8 e 9, previstos, respectivamente, no n.º 4 do artigo 9.º e no artigo 20.º do Regulamento referido no número anterior, bem como no artigo 2.º do [Decreto-Lei n.º 116/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1994-250664), de 3 de Maio.
 

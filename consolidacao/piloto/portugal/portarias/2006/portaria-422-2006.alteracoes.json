@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Ouvido o Conselho Cinegético Municipal de Abrantes:",
+    "depois": "Ouvido o Conselho Cinegético Municipal de Vimioso:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:659936:por",
+    "alterador": "pt:dre:545829:por"
+  }
+]

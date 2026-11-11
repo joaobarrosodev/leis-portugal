@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "«Art. 16.º - 1 - ... ...\n\n2 - Emissão de novo boletim de qualquer dos referidos no número anterior ... 500$00\n\n3 - ... ...\n\n4 - ... ...\n\n5 - ... ...\n\n6 - ... ...\n\n7 - ... ...»",
+    "depois": "«Art. 6.º - 1 - ... ...\n\n2 - Pelo assento de transcrição de qualquer acto lavrado nos termos do n.º 4 do artigo 6.º ... 2000$00\n\n3 - ... ...\n\n4 - ... ...\n\n5 - ... ...\n\n6 - ... ...\n\n7 - ... ...\n\nArt. 16.º - 1 - ... ...\n\n2 - Emissão de novo boletim de qualquer dos actos referidos no número anterior ... 500$00»",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:602495:por",
+    "alterador": "pt:dre:583796:por"
+  }
+]

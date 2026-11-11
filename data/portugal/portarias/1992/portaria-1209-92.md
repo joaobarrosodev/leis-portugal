@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-11-02'
+version_history:
+  file: portaria-1209-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-11-02'
+    amending: pt:dre:677822:por
+    amending_title: Portaria n.º 1279/95
+    changes:
+    - Adita Artigo depois da unidade 32
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1209/1992/12/23/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:11:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1279/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-1209-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -184,6 +199,10 @@ a) A especificidade dos níveis de ensino e a tipologia das escolas ou áreas es
 b) O respeito pelo primado da formação científica e pedagógica em administração escolar sobre a formação meramente técnica ou administrativa;
 
 c) A predominância da componente de formação específica na área de administração escolar em relação a qualquer das restantes componentes de formação.
+
+8.º Até 1998, inclusive, os docentes que disponham de um mínimo de oito anos de exercício de funções como presidente do conselho directivo ou director executivo são dispensados das componentes referidas nas alíneas b) e c) do n.º 6.º
+
+> Aditado pelo/a [Portaria n.º 1279/95](https://diariodarepublica.pt/dr/detalhe/portaria/1279-1995-677822), publicado em 1995-10-28.
 
 Ministério da Educação.
 

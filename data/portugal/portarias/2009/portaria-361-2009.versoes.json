@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:603522:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-04-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e80527767a73a5af"
+   ]
+  },
+  {
+   "date": "2009-07-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:492218:por",
+     "title": "Portaria n.º 710/2009",
+     "published": "2009-07-07",
+     "dre_path": "/dr/detalhe/portaria/710-2009-492218"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "8ed1cad4bc91c959"
+   ]
+  }
+ ],
+ "fragments": {
+  "e80527767a73a5af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Abril\n\nCom fundamento no disposto na alínea a) do artigo 40.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro;\n\nOuvido o Conselho Cinegético Municipal do Crato:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é concessionada, pelo período de seis anos, renovável automaticamente por um único e igual período, ao Clube Amadores de Caça e Pesca Desportiva do Crato, com o número de identificação fiscal 506806014 e sede na Rua do Dr. António Prior do Crato, 16, 7430-154 Crato, a zona de caça associativa da Herdade do Ceirão e outras (processo n.º 5178-AFN), englobando vários prédios rústicos sitos na freguesia de Crato e Mártires, município do Crato, com a área de 31 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n2.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 27 de Março de 2009.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06700/0213402135.pdf)"
+  },
+  "8ed1cad4bc91c959": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-07-12",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 710/2009](https://diariodarepublica.pt/dr/detalhe/portaria/710-2009-492218), publicado em 2009-07-07."
+   ],
+   "markdown": "de 6 de Abril\n\nCom fundamento no disposto na alínea a) do artigo 40.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro;\n\nOuvido o Conselho Cinegético Municipal do Crato:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é concessionada, pelo período de seis anos renovável automaticamente por um único e igual período, ao Clube Amadores de Caça e Pesca Desportiva do Crato, com o número de identificação fiscal 506806014 e sede na Rua do Dr. António Prior do Crato, 16, 7430-154 Crato, a zona de caça associativa da Herdade do Ceirão e outras (processo n.º 5178-AFN), englobando vários prédios rústicos, sitos na freguesia de Crato e Mártires, município do Crato, com a área de 311 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n> Alterado pelo/a [Portaria n.º 710/2009](https://diariodarepublica.pt/dr/detalhe/portaria/710-2009-492218), publicado em 2009-07-07.\n\n2.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 27 de Março de 2009.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06700/0213402135.pdf)"
+  }
+ }
+}

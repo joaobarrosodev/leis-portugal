@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Pela presente portaria é concessionada, pelo período de 12 anos, a SARMENTO, Lda., pessoa colectiva com o n.º 501105808 e sede em Sernadelo, Mealhada, a zona de caça turística da Herdade da Defesa de Barros e Anexas (processo n.º 2404 da Direcção-Geral das Florestas).",
+    "depois": "2.º Pela presente portaria é concessionada, pelo período de 12 anos, a Casa Sarmento - Restaurantes, S. A., pessoa colectiva com o n.º 501105808 e sede em Sernadelo, Mealhada, a zona de caça turística da Herdade da Defesa de Barros e Anexas (processo n.º 2404 da Direcção-Geral das Florestas).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:570310:por",
+    "alterador": "pt:dre:235296:por"
+  }
+]

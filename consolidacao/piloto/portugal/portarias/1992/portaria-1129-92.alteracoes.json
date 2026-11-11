@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 19-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - A Escola organizará um estágio com uma duração total não superior a 12 semanas.\n\n2 - Os alunos realizarão o estágio no final do último ano curricular.\n\n3 - O estágio reveste carácter escolar e tem por objectivo a aproximação do aluno à realidade da futura actividade profissional.\n\n4 - A realização e a avaliação do estágio obedecerão a regulamento a aprovar pelo conselho cientifico.\n\n5 - O regulamento a que se refere o n.º 4 será sujeito a homologação da comissão instaladora da Escola.",
+    "depois": "1 - O estágio que integra o plano de estudos do curso tem uma duração não inferior a 26 semanas.\n\n2 - O estágio tem como objectivo a aproximação do estudante à realidade da sua futura actividade profissional.\n\n3 - O regulamento do estágio é fixado pelo órgão legal e estatutariamente competente da Escola.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:616378:por",
+    "alterador": "pt:dre:164386:por"
+  }
+]

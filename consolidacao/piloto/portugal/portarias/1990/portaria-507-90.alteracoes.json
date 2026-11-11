@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Para o trigo-mole - os preços estabelecidos na alínea a) do n.º 3.º, acrescidos de 7200$00/t;",
+    "depois": "a) Para o trigo-mole, os preços estabelecidos na alínea a) do n.º 3, acrescidos de 2875$00/t.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:575491:por",
+    "alterador": "pt:dre:628018:por"
+  }
+]

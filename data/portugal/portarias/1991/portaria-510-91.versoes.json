@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:633552:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-06-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "44de088a02b7eb2b"
+   ]
+  },
+  {
+   "date": "1991-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:521575:por",
+     "title": "Declaração de Rectificação n.º 168/91",
+     "published": "1991-07-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/168-1991-521575"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "a9fe6ce8707e1a1b"
+   ]
+  }
+ ],
+ "fragments": {
+  "44de088a02b7eb2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 da Junho\n\nA Lei Orgânica da Direcção-Geral das Florestas ([Decreto Regulamentar n.º 51/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1986-222604), de 6 de Outubro) criou seis circunscrições florestais, as quais, por sua vez, se organizaram localmente em administrações florestais.\n\nConsiderando de maior conveniência a existência de administrações florestais em todas as sedes de distrito;\n\nConsiderando que algumas administrações florestais cobrem uma área demasiado extensa;\n\nContinuando a pretender-se que a Direcção-Geral das Florestas abranja todo o território nacional, assente num sistema de gestão por objectivos, que contribua decisivamente para a rápida resolução dos problemas do sector no local onde surgirem, considera-se ser da maior conveniência a existência de administrações florestais nas cidades de Braga e Guarda, tendo-se em vista uma melhoria das actividades nos domínios da vulgarização, assistência técnica aos agentes económicos do sector e da gestão dos recursos florestais, cinegéticos e aquícolas a cargo do Estado, bem como no âmbito do apoio à gestão privada desses recursos, ao desenvolvimento da silvo-pastorícia e da apicultura.\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 8.º do [Decreto Regulamentar n.º 51/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1986-222604), de 6 de Outubro:\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:\n\n1.º É criada a Administração Florestal de Braga, com sede nesta cidade e actuação nas áreas correspondentes aos Municípios de Braga, Guimarães, Famalicão, Barcelos, Esposende e Vila Verde, dependendo hierárquica e funcionalmente da Circunscrição Florestal do Porto.\n\n2.º É criada a Administração Florestal da Guarda, com sede nesta cidade e actuação nas áreas correspondentes aos concelhos da Guarda, de Almeida e do Sabugal, dependendo hierárquica e funcionalmente da Circunscrição Florestal de Viseu.\n\nMinistério da Agricultura, Pescas e Alimentação.\n\nAssinada em 17 de Maio de 1991.\n\nO Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha."
+  },
+  "a9fe6ce8707e1a1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-07-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 168/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/168-1991-521575), publicado em 1991-07-31."
+   ],
+   "markdown": "de 6 da Junho\n\nA Lei Orgânica da Direcção-Geral das Florestas ([Decreto Regulamentar n.º 51/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1986-222604), de 6 de Outubro) criou seis circunscrições florestais, as quais, por sua vez, se organizaram localmente em administrações florestais.\n\nConsiderando de maior conveniência a existência de administrações florestais em todas as sedes de distrito;\n\nConsiderando que algumas administrações florestais cobrem uma área demasiado extensa;\n\nContinuando a pretender-se que a Direcção-Geral das Florestas abranja todo o território nacional, assente num sistema de gestão por objectivos, que contribua decisivamente para a rápida resolução dos problemas do sector no local onde surgirem, considera-se ser da maior conveniência a existência de administrações florestais nas cidades de Braga e Guarda, tendo-se em vista uma melhoria das actividades nos domínios da vulgarização, assistência técnica aos agentes económicos do sector e da gestão dos recursos florestais, cinegéticos e aquícolas a cargo do Estado, bem como no âmbito do apoio à gestão privada desses recursos, ao desenvolvimento da silvo-pastorícia e da apicultura.\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 18.º do [Decreto Regulamentar n.º 51/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1986-222604), de 6 de Outubro:\n\n> Alterado pelo/a [Declaração de Rectificação n.º 168/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/168-1991-521575), publicado em 1991-07-31.\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:\n\n1.º É criada a Administração Florestal de Braga, com sede nesta cidade e actuação nas áreas correspondentes aos Municípios de Braga, Guimarães, Famalicão, Barcelos, Esposende e Vila Verde, dependendo hierárquica e funcionalmente da Circunscrição Florestal do Porto.\n\n2.º É criada a Administração Florestal da Guarda, com sede nesta cidade e actuação nas áreas correspondentes aos concelhos da Guarda, de Almeida e do Sabugal, dependendo hierárquica e funcionalmente da Circunscrição Florestal de Viseu.\n\nMinistério da Agricultura, Pescas e Alimentação.\n\nAssinada em 17 de Maio de 1991.\n\nO Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha."
+  }
+ }
+}

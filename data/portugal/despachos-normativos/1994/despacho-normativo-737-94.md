@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-10-31'
+version_history:
+  file: despacho-normativo-737-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-10-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-10-31'
+    amending: pt:dre:533185:por
+    amending_title: Declaração de Rectificação n.º 195/94
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/737/1994/10/26/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:26:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 195/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-737-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,7 +135,9 @@ Considerando o disposto no artigo 3.º do [Decreto-Lei n.º 34/93](https://diari
 
 Determina-se o seguinte:
 
-1 - É criado no quadro de pessoal da Direcção Regional de Agricultura do Algarve, constante do anexo IV à [Portaria n.º 826/93](https://diariodarepublica.pt/dr/detalhe/portaria/826-1993-626995), de 8 de Setembro, um lugar de assessor principal da carreira de técnico superior, a extinguir quando vagar.
+1 - É criado no quadro de pessoal da Direcção Regional de Agricultura da Beira Litoral, constante do anexo IV à [Portaria n.º 826/93](https://diariodarepublica.pt/dr/detalhe/portaria/826-1993-626995), de 8 de Setembro, um lugar de assessor principal da carreira de técnico superior, a extinguir quando vagar.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 195/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/195-1994-533185), publicado em 1994-10-31.
 
 2 - A criação do lugar referido no número anterior produz efeitos desde o dia 7 de Abril de 1993, considerando-se tais efeitos como reportados ao anterior quadro da Direcção Regional de Agricultura da Beira Litoral até à entrada em vigor da portaria referida no n.º 1.
 

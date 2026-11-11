@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 283-283",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Fisioterapia ... 10",
+    "depois": "Fisioterapia - 10;\n\nFisioterapia (no âmbito do protocolo firmado, em 7 de Setembro de 2004, entre a Secretaria Regional dos Assuntos Sociais da Região Autónoma da Madeira e o Instituto Politécnico de Setúbal) - 40.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:626040:por",
+    "alterador": "pt:dre:566008:por"
+  }
+]

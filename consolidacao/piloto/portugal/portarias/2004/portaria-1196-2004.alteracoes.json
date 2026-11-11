@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º São anexados à zona de caça turística renovada pela [Portaria n.º 224/2002](https://diariodarepublica.pt/dr/detalhe/portaria/224-2002-265521), de 12 de Março, vários prédios rústicos sitos na freguesia de Pedrógão, município da Vidigueira, com a área de 347,9698 ha, ficando a mesma com a área total de 676 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+    "depois": "1.º São anexados à zona de caça turística renovada pela [Portaria n.º 224/2002](https://diariodarepublica.pt/dr/detalhe/portaria/224-2002-265521), de 12 de Março, vários prédios rústicos sitos na freguesia de Pedrógão, município da Vidigueira, com a área de 675,5690 ha, ficando a mesma com a área total de 1003 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:617148:por",
+    "alterador": "pt:dre:564229:por"
+  }
+]

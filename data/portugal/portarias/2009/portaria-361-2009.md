@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-07-12'
+version_history:
+  file: portaria-361-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-04-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-07-12'
+    amending: pt:dre:492218:por
+    amending_title: Portaria n.º 710/2009
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/361/2009/04/06/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:39:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 710/2009. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-361-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,7 +137,9 @@ Ouvido o Conselho Cinegético Municipal do Crato:
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Pela presente portaria é concessionada, pelo período de seis anos, renovável automaticamente por um único e igual período, ao Clube Amadores de Caça e Pesca Desportiva do Crato, com o número de identificação fiscal 506806014 e sede na Rua do Dr. António Prior do Crato, 16, 7430-154 Crato, a zona de caça associativa da Herdade do Ceirão e outras (processo n.º 5178-AFN), englobando vários prédios rústicos sitos na freguesia de Crato e Mártires, município do Crato, com a área de 31 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+1.º Pela presente portaria é concessionada, pelo período de seis anos renovável automaticamente por um único e igual período, ao Clube Amadores de Caça e Pesca Desportiva do Crato, com o número de identificação fiscal 506806014 e sede na Rua do Dr. António Prior do Crato, 16, 7430-154 Crato, a zona de caça associativa da Herdade do Ceirão e outras (processo n.º 5178-AFN), englobando vários prédios rústicos, sitos na freguesia de Crato e Mártires, município do Crato, com a área de 311 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+
+> Alterado pelo/a [Portaria n.º 710/2009](https://diariodarepublica.pt/dr/detalhe/portaria/710-2009-492218), publicado em 2009-07-07.
 
 2.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
 

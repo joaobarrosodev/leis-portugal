@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-10-06'
+version_history:
+  file: portaria-1193-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-10-06'
+    amending: pt:dre:212799:por
+    amending_title: Portaria n.º 528/96
+    changes:
+    - Altera Artigo unidades 15-16
+    - Adita Artigo depois da unidade 22
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1193/1992/12/22/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:11:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 528/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-1193-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,9 +165,33 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 6.º O INGA procederá à aplicação das penalizações e sanções especificamente previstas na regulamentação comunitária da ajuda ao consumo de azeite em que incorrerem as empresas embaladoras aprovadas que comprovadamente tenham violado as normas e os procedimentos reguladores deste regime de ajudas, sem prejuízo de igualmente proceder à aplicação das penalizações previstas nos números seguintes, se tal se justificar.
 
-7.º Sempre que, como resultado dos inventários realizados no decurso de acções de inspecção às empresas embaladoras levadas a cabo pelo INGA ou pela Agência de Controlo às Ajudas Comunitárias do Sector do Azeite (ACACSA), se verifiquem existências físicas de azeite, óleo de bagaço de azeitona, outros óleos vegetais ou subprodutos da refinação em quantidades superiores ou inferiores às registadas na contabilidade de existências, elaborada pela empresa no âmbito da ajuda ao consumo de azeite, para além de uma tolerância de 5%, a empresa em causa terá obrigatoriamente de pagar ao INGA um montante igual ao da ajuda ao consumo de azeite calculada para uma quantidade correspondente aos quilogramas de produtos encontrados em falta ou em excesso.
+7.º Sempre que resulte dos inventários levados a cabo no quadro das acções de controlo às empresas embaladoras reconhecidas existências físicas de azeite, óleo de bagaço de azeitona, outros óleos vegetais, subprodutos de refinação ou embalagens em quantidade diversa da registada pela empresa na sua contabilidade de existências, o INGA aplicará à empresa em causa uma das sanções seguidamente previstas:
 
-8.º O disposto no número anterior é igualmente aplicável no tocante aos inventários realizados sobre as existências de embalagens em vazio, reduzindo-se, no entanto, a penalização para um montante igual a metade da ajuda ao consumo calculada para os quilogramas correspondentes às capacidades das embalagens encontradas em falta ou em excesso, unicamente para além de uma tolerância de 10%.
+a) Uma sanção pecuniária de montante não inferior a três vezes, nem superior a seis vezes, o valor da ajuda que corresponderia a uma quantidade de azeite igual à quantidade dos produtos ou à capacidade das embalagens, inventariadas a mais ou menos, consoante a expressão da diferença e tendo em atenção se a empresa já foi penalizada por diferenças de inventário ou pela deficiência da sua contabilidade;
+
+b) A retirada do reconhecimento por um período de 12 meses, se a diferença referida na alínea anterior:
+
+- Atingir 20% da média das quantidades desses produtos ou embalagens, produzidas ou movimentadas nos últimos 12 meses, ou,
+
+- Atingir 12 t; ou
+
+- Se a empresa já tiver sido sancionada pelo valor máximo previsto na alínea anterior em uma das anteriores duas campanhas;
+
+c) A retirada do reconhecimento por um período de 24 meses, se a empresa tiver sido sancionada nos termos da alínea anterior em uma das duas últimas campanhas.
+
+8.º Não serão aplicadas as sanções previstas no artigo anterior se:
+
+a) As diferenças forem consideradas justificadas pela entidade pública que levou a cabo ou ordenou a acção de controlo, para o que se atenderá à conduta anterior da empresa;
+
+b) As diferenças não excederem:
+
+- 3%, tratando-se de subprodutos da refinação, azeite em óleo de bagaço de azeitona ou outro óleo vegetal a granel;
+
+- 1%, tratando-se de azeite, óleo de bagaço de azeitona ou outro óleo vegetal embalado;
+
+- 2%, tratando-se de embalagens vazias.
+
+> Alterado pelo/a [Portaria n.º 528/96](https://diariodarepublica.pt/dr/detalhe/portaria/528-1996-212799), publicado em 1996-10-01.
 
 9.º Se, no decurso das inspecções às empresas embaladoras de azeite, for verificada a ocorrência de irregularidades na escrituração da contabilidade de existências exigível para a atribuição da ajuda ao consumo, bem como na documentação de suporte, e incluindo um atraso na escrituração superior a 15 dias, o INGA considerará obrigatoriamente retirado o direito à ajuda relativamente ao último mês para o qual a empresa em causa tenha apresentado pedido de ajuda, exigindo o imediato reembolso da verba que eventualmente já tenha sido paga a esse título.
 
@@ -164,6 +204,10 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 13.º Os organismos profissionais reconhecidos exercem, no âmbito da ajuda comunitária ao consumo de azeite, as actividades que, nos termos regulamentares e de acordo com as instruções do INGA, lhes competirem, quer relativamente aos seus associados, quer quanto às empresas embaladoras não associadas mas que, através de um deles, por livre escolha, apresentem os seus pedidos de ajuda.
 
 14.º Sempre que, em consequência de inspecções realizadas a um organismo profissional reconhecido, se verificar que este não cumpriu as suas obrigações regulamentarmente previstas no âmbito da ajuda ao consumo de azeite, o INGA procederá de imediato à aplicação das penalizações estabelecidas na regulamentação comunitária aplicável, nomeadamente no artigo 13.º, n.º 3, do Regulamento (CEE) n.º [2677/85](http://data.europa.eu/eli/reg/1985/2677/oj?locale=pt), de 24 de Setembro de 1985.
+
+14.º-A - O disposto no artigo 12.º, n.º 7, do Regulamento (CEE) n.º [2677/85](http://data.europa.eu/eli/reg/1985/2677/oj?locale=pt), da Comissão, de 24 de Setembro, com a última redacção que lhe foi dada pelo Regulamento (CE) n.º [887/96](http://data.europa.eu/eli/reg/1996/887/oj?locale=pt), da Comissão, de 15 de Maio, é igualmente aplicável em caso de insuficiência ou impropriedade da documentação exibida.
+
+> Aditado pelo/a [Portaria n.º 528/96](https://diariodarepublica.pt/dr/detalhe/portaria/528-1996-212799), publicado em 1996-10-01.
 
 15.º É revogada a Portaria n.º 494/90, de 2 de Julho.
 

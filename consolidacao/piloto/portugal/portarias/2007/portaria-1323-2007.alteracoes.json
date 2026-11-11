@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 22-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Engenharia Biomédica\n\nGrau de licenciado",
+    "depois": "Grau de licenciado\n\nEngenharia Biomédica",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:641753:por",
+    "alterador": "pt:dre:247034:por"
+  },
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19200/0712407125.pdf)",
+    "depois": "[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:641753:por",
+    "alterador": "pt:dre:247034:por"
+  },
+  {
+    "artigo": "unidades 28-47",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Engenharia Biomédica\n\nGrau de licenciado\n\n1.º semestre\n\nQUADRO N.º 1\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19200/0712407125.pdf)\n\n2.º semestre\n\nQUADRO N.º 2\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19200/0712407125.pdf)\n\n3.º semestre\n\nQUADRO N.º 3\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19200/0712407125.pdf)\n\n4.º semestre\n\nQUADRO N.º 4\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19200/0712407125.pdf)\n\n5.º semestre\n\nQUADRO N.º 5\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19200/0712407125.pdf)\n\n6.º semestre\n\nQUADRO N.º 6\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19200/0712407125.pdf)",
+    "depois": "Grau de licenciado\n\nEngenharia Biomédica\n\nQUADRO N.º 1\n\n1.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\nQUADRO N.º 2\n\n2.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\nQUADRO N.º 3\n\n3.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\nQUADRO N.º 4\n\n4.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\nQUADRO N.º 5\n\n5.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\nQUADRO N.º 6\n\n6.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:641753:por",
+    "alterador": "pt:dre:247034:por"
+  }
+]

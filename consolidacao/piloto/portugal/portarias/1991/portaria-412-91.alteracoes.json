@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 66-66",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Tenha sido entregue a declaração simplificada correspondente, acompanhada dos documentos referidos no n.º 12.º;",
+    "depois": "b) Tenha sido entregue a declaração simplificada correspondente, acompanhada dos documentos referidos no n.º 11;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642182:por",
+    "alterador": "pt:dre:682199:por"
+  },
+  {
+    "artigo": "unidades 77-77",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "20.º Quando o beneficiário do regime simplificado de desalfandegamento no domicílio esteja autorizado a aplicar o procedimento simplificado referido no n.º 6.º desta portaria, deverá a entrega da declaração global, periódica ou recapitulativa ser feita na estância de domiciliação, o mais tardar no segundo dia seguinte ao termo do «período de globalização».",
+    "depois": "20.º Quando o beneficiário do regime simplificado de desalfandegamento no domicílio esteja autorizado a aplicar o procedimento simplificado referido no n.º 8 desta portaria, deverá a entrega da declaração global, periódica ou recapitulativa ser feita na estância de domiciliação, o mais tardar no segundo dia seguinte ao termo do «período de globalização».",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642182:por",
+    "alterador": "pt:dre:682199:por"
+  }
+]

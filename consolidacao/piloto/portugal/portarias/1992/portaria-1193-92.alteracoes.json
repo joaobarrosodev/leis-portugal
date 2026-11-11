@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 15-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º Sempre que, como resultado dos inventários realizados no decurso de acções de inspecção às empresas embaladoras levadas a cabo pelo INGA ou pela Agência de Controlo às Ajudas Comunitárias do Sector do Azeite (ACACSA), se verifiquem existências físicas de azeite, óleo de bagaço de azeitona, outros óleos vegetais ou subprodutos da refinação em quantidades superiores ou inferiores às registadas na contabilidade de existências, elaborada pela empresa no âmbito da ajuda ao consumo de azeite, para além de uma tolerância de 5%, a empresa em causa terá obrigatoriamente de pagar ao INGA um montante igual ao da ajuda ao consumo de azeite calculada para uma quantidade correspondente aos quilogramas de produtos encontrados em falta ou em excesso.\n\n8.º O disposto no número anterior é igualmente aplicável no tocante aos inventários realizados sobre as existências de embalagens em vazio, reduzindo-se, no entanto, a penalização para um montante igual a metade da ajuda ao consumo calculada para os quilogramas correspondentes às capacidades das embalagens encontradas em falta ou em excesso, unicamente para além de uma tolerância de 10%.",
+    "depois": "7.º Sempre que resulte dos inventários levados a cabo no quadro das acções de controlo às empresas embaladoras reconhecidas existências físicas de azeite, óleo de bagaço de azeitona, outros óleos vegetais, subprodutos de refinação ou embalagens em quantidade diversa da registada pela empresa na sua contabilidade de existências, o INGA aplicará à empresa em causa uma das sanções seguidamente previstas:\n\na) Uma sanção pecuniária de montante não inferior a três vezes, nem superior a seis vezes, o valor da ajuda que corresponderia a uma quantidade de azeite igual à quantidade dos produtos ou à capacidade das embalagens, inventariadas a mais ou menos, consoante a expressão da diferença e tendo em atenção se a empresa já foi penalizada por diferenças de inventário ou pela deficiência da sua contabilidade;\n\nb) A retirada do reconhecimento por um período de 12 meses, se a diferença referida na alínea anterior:\n\n- Atingir 20% da média das quantidades desses produtos ou embalagens, produzidas ou movimentadas nos últimos 12 meses, ou,\n\n- Atingir 12 t; ou\n\n- Se a empresa já tiver sido sancionada pelo valor máximo previsto na alínea anterior em uma das anteriores duas campanhas;\n\nc) A retirada do reconhecimento por um período de 24 meses, se a empresa tiver sido sancionada nos termos da alínea anterior em uma das duas últimas campanhas.\n\n8.º Não serão aplicadas as sanções previstas no artigo anterior se:\n\na) As diferenças forem consideradas justificadas pela entidade pública que levou a cabo ou ordenou a acção de controlo, para o que se atenderá à conduta anterior da empresa;\n\nb) As diferenças não excederem:\n\n- 3%, tratando-se de subprodutos da refinação, azeite em óleo de bagaço de azeitona ou outro óleo vegetal a granel;\n\n- 1%, tratando-se de azeite, óleo de bagaço de azeitona ou outro óleo vegetal embalado;\n\n- 2%, tratando-se de embalagens vazias.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:624271:por",
+    "alterador": "pt:dre:212799:por"
+  },
+  {
+    "artigo": "depois da unidade 22",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "14.º-A - O disposto no artigo 12.º, n.º 7, do Regulamento (CEE) n.º [2677/85](http://data.europa.eu/eli/reg/1985/2677/oj?locale=pt), da Comissão, de 24 de Setembro, com a última redacção que lhe foi dada pelo Regulamento (CE) n.º [887/96](http://data.europa.eu/eli/reg/1996/887/oj?locale=pt), da Comissão, de 15 de Maio, é igualmente aplicável em caso de insuficiência ou impropriedade da documentação exibida.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:624271:por",
+    "alterador": "pt:dre:212799:por"
+  }
+]

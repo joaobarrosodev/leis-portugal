@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:630838:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-09-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f23f911cd05a2f12",
+    "0962d82d04bba074"
+   ]
+  },
+  {
+   "date": "2003-02-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:189748:por",
+     "title": "Portaria n.º 179/2003",
+     "published": "2003-02-20",
+     "dre_path": "/dr/detalhe/portaria/179-2003-189748"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 29-29",
+    "Altera Artigo unidades 34-34",
+    "Altera Artigo unidades 37-37",
+    "Altera Artigo unidades 40-40",
+    "Altera Artigo unidades 43-43"
+   ],
+   "fragments": [
+    "f23f911cd05a2f12",
+    "53bd8d4efd8056e7"
+   ]
+  }
+ ],
+ "fragments": {
+  "f23f911cd05a2f12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Setembro\n\nA requerimento da DINENSINO - Ensino, Desenvolvimento e Cooperação, C. R. L., entidade instituidora da Universidade Moderna (Lisboa), reconhecida como de interesse público pelo [Decreto-Lei n.º 313/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1994-574943), de 23 de Dezembro, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nConsiderando o disposto na [Portaria n.º 842/93](https://diariodarepublica.pt/dr/detalhe/portaria/842-1993-661314), de 9 de Setembro;\n\nTendo em vista o disposto no artigo 67.º e no n.º 5 do artigo 53.º do Estatuto do Ensino Superior Particular e Cooperativo;\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAlteração do plano de estudos\n\nO plano de estudos do curso de licenciatura em Informática de Gestão ministrado na Universidade Moderna em Lisboa, cujo funcionamento foi autorizado pela [Portaria n.º 842/93](https://diariodarepublica.pt/dr/detalhe/portaria/842-1993-661314), de 9 de Setembro, passa a ser o constante do anexo à presente portaria.\n\n2.º\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente não pode exceder 90.\n\n2 - A frequência global do curso não pode exceder 360 alunos.\n\n3.º\n\nUnidades curriculares de opção\n\nO elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente da Universidade.\n\n4.º\n\nTransição\n\nAs regras de transição entre o anterior e o novo plano de estudos são fixadas pelo órgão legal e estatutariamente competente da Universidade.\n\n5.º\n\nDuração do ano e semestre lectivos\n\n1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.\n\n6.º\n\nAplicação\n\nO disposto na presente portaria aplica-se a partir do ano lectivo de 2000-2001, inclusive.\n\nPelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Estado do Ensino Superior, em 6 de Agosto de 2001."
+  },
+  "0962d82d04bba074": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Universidade Moderna (Lisboa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Universidade Moderna (Lisboa)\n\nCurso de Informática de Gestão\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)"
+  },
+  "53bd8d4efd8056e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Universidade Moderna de Lisboa",
+   "in_force_from": "2003-02-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 179/2003](https://diariodarepublica.pt/dr/detalhe/portaria/179-2003-189748), publicado em 2003-02-20.",
+    "Alterado pelo/a [Portaria n.º 179/2003](https://diariodarepublica.pt/dr/detalhe/portaria/179-2003-189748), publicado em 2003-02-20.",
+    "Alterado pelo/a [Portaria n.º 179/2003](https://diariodarepublica.pt/dr/detalhe/portaria/179-2003-189748), publicado em 2003-02-20.",
+    "Alterado pelo/a [Portaria n.º 179/2003](https://diariodarepublica.pt/dr/detalhe/portaria/179-2003-189748), publicado em 2003-02-20.",
+    "Alterado pelo/a [Portaria n.º 179/2003](https://diariodarepublica.pt/dr/detalhe/portaria/179-2003-189748), publicado em 2003-02-20."
+   ],
+   "markdown": "## ANEXO — Universidade Moderna de Lisboa\n\n> Alterado pelo/a [Portaria n.º 179/2003](https://diariodarepublica.pt/dr/detalhe/portaria/179-2003-189748), publicado em 2003-02-20.\n\nCurso de Informática de Gestão\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)\n\n> Alterado pelo/a [Portaria n.º 179/2003](https://diariodarepublica.pt/dr/detalhe/portaria/179-2003-189748), publicado em 2003-02-20.\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)\n\n> Alterado pelo/a [Portaria n.º 179/2003](https://diariodarepublica.pt/dr/detalhe/portaria/179-2003-189748), publicado em 2003-02-20.\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)\n\n> Alterado pelo/a [Portaria n.º 179/2003](https://diariodarepublica.pt/dr/detalhe/portaria/179-2003-189748), publicado em 2003-02-20.\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)\n\n> Alterado pelo/a [Portaria n.º 179/2003](https://diariodarepublica.pt/dr/detalhe/portaria/179-2003-189748), publicado em 2003-02-20."
+  }
+ }
+}

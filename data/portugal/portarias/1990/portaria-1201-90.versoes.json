@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:563382:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1990-12-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "06c7bbeb564e4b5c"
+   ]
+  },
+  {
+   "date": "1991-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:444265:por",
+     "title": "Declaração de Rectificação n.º 10/91",
+     "published": "1991-01-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/10-1991-444265"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-7"
+   ],
+   "fragments": [
+    "9f7d4d1df2d076f9"
+   ]
+  }
+ ],
+ "fragments": {
+  "06c7bbeb564e4b5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Dezembro\n\nAo abrigo do disposto no n.º 6 do artigo 4.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, com a redacção dada pelo [Decreto-Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1980-678824), de 29 de Fevereiro:\n\nManda o Governo, pelo Ministro do Comércio e Turismo, o seguinte:\n\n1.º São excluídos do regime de preços declarados a que se refere o [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, bem como do n.º 1.º da [Portaria n.º 628/88](https://diariodarepublica.pt/dr/detalhe/portaria/628-1988-370246), de 9 de Setembro, os bens enquadrados nos desdobramentos da Classificação das Actividades Económicas (CAE, revisão de 1973):\n\n3117.1.0 - Produção de azeite.\n\n3117.2.0 - Refinação de azeite.\n\nex 3115.3.0 - Produção e refinação de óleos alimentares.\n\n2.º São revogados a [Portaria n.º 44/84](https://diariodarepublica.pt/dr/detalhe/portaria/44-1984-659898), de 20 de Janeiro, e o [Despacho Normativo n.º 10/84](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-1984-659900), de 20 de Janeiro.\n\n3.º Esta portaria entra em vigor no dia imediato ao da sua publicação.\n\nMinistério do Comércio e Turismo.\n\nAssinada em 28 de Novembro de 1990.\n\nPelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno."
+  },
+  "9f7d4d1df2d076f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-01-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 10/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-1991-444265), publicado em 1991-01-31."
+   ],
+   "markdown": "de 14 de Dezembro\n\nAo abrigo do disposto no n.º 6 do artigo 4.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, com a redacção dada pelo [Decreto-Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1980-678824), de 29 de Fevereiro:\n\nManda o Governo, pelo Ministro do Comércio e Turismo, o seguinte:\n\n1.º São excluídos do regime de preços declarados a que se refere o [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, bem como do n.º 1.º da [Portaria n.º 628/88](https://diariodarepublica.pt/dr/detalhe/portaria/628-1988-370246), de 9 de Setembro, os bens enquadrados nos desdobramentos da Classificação das Actividades Económicas (CAE, revisão de 1973):\n\n3115.1.0 - Produção de azeite.\n\n3115.2.0 - Refinação de azeite.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 10/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-1991-444265), publicado em 1991-01-31.\n\nex 3115.3.0 - Produção e refinação de óleos alimentares.\n\n2.º São revogados a [Portaria n.º 44/84](https://diariodarepublica.pt/dr/detalhe/portaria/44-1984-659898), de 20 de Janeiro, e o [Despacho Normativo n.º 10/84](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-1984-659900), de 20 de Janeiro.\n\n3.º Esta portaria entra em vigor no dia imediato ao da sua publicação.\n\nMinistério do Comércio e Turismo.\n\nAssinada em 28 de Novembro de 1990.\n\nPelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno."
+  }
+ }
+}

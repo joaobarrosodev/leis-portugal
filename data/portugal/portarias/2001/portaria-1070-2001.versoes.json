@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:631066:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-09-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cf039e9098e2a599",
+    "8ec7def07e2e12b3"
+   ]
+  },
+  {
+   "date": "2001-11-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:589532:por",
+     "title": "Portaria n.º 1247/2001",
+     "published": "2001-10-29",
+     "dre_path": "/dr/detalhe/portaria/1247-2001-589532"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 26-26"
+   ],
+   "fragments": [
+    "cf039e9098e2a599",
+    "fc281f7e7f8cd23e"
+   ]
+  }
+ ],
+ "fragments": {
+  "cf039e9098e2a599": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Setembro\n\nSob proposta do Instituto Politécnico de Setúbal e da sua Escola Superior de Educação;\n\nConsiderando o disposto no artigo 31.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro);\n\nConsiderando o disposto na [Portaria n.º 760-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/760-a-1998-302098), de 14 de Setembro;\n\nConsiderando o disposto na [Portaria n.º 281-B/99](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-1999-651148), de 24 de Abril;\n\nAo abrigo do disposto na lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro), no [Decreto-Lei n.º 255/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1998-438070), de 11 de Agosto, alterado pelo [Decreto-Lei n.º 25/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1999-180474), de 28 de Janeiro, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso de qualificação para o exercício de outras funções educativas na área de Comunicação Educacional e Gestão da Informação - Centros de Recursos, da Escola Superior de Educação de Setúbal, criado pela [Portaria n.º 281-B/99](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-1999-651148), de 24 de Abril, nos termos do anexo à presente portaria.\n\n2.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do ano lectivo de 1998-1999, inclusive.\n\nPelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Estado do Ensino Superior, em 6 de Agosto de 2001."
+  },
+  "8ec7def07e2e12b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Setúbal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Instituto Politécnico de Setúbal\n\nEscola Superior de Educação\n\nCurso de qualificação para o exercício de outras funções educativas\n\nÁrea de Comunicação Educacional e Gestão da Informação - Centros de Recursos\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/205b00/57335734.pdf)](https://files.diariodarepublica.pt/1s/2001/09/205b00/57335734.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/205b00/57335734.pdf)](https://files.diariodarepublica.pt/1s/2001/09/205b00/57335734.pdf)"
+  },
+  "fc281f7e7f8cd23e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Setúbal",
+   "in_force_from": "2001-11-03",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1247/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1247-2001-589532), publicado em 2001-10-29."
+   ],
+   "markdown": "## ANEXO — Instituto Politécnico de Setúbal\n\nEscola Superior de Educação\n\nCurso de qualificação para o exercício de outras funções educativas\n\nÁrea de Comunicação Educacional e Gestão da Informação - Centros de Recursos\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/205b00/57335734.pdf)](https://files.diariodarepublica.pt/1s/2001/09/205b00/57335734.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/251b00/68986899.pdf)\n\n> Alterado pelo/a [Portaria n.º 1247/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1247-2001-589532), publicado em 2001-10-29."
+  }
+ }
+}

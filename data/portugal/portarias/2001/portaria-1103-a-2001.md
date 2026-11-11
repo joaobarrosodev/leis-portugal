@@ -39,10 +39,34 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-11-23'
+version_history:
+  file: portaria-1103-a-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-09-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-11-23'
+    amending: pt:dre:427091:por
+    amending_title: Declaração de Rectificação n.º 20-AO/2001
+    changes:
+    - Altera Artigo unidades 17-17
+    - Altera Artigo unidades 28-28
+    - Altera Artigo unidades 32-32
+    - Altera Artigo unidades 37-37
+    - Altera Artigo unidades 50-50
+    - Altera Artigo unidades 75-75
+    - Altera Artigo unidades 80-80
+    - Altera Artigo unidades 94-94
+    - Altera Artigo unidades 105-105
+    - Altera Artigo unidades 107-107
+    - Altera Artigo unidades 132-132
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1103-a/2001/09/15/p/dre/pt/html
@@ -68,7 +92,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:27:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 20-AO/2001.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-1103-a-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,7 +173,9 @@ Distrito de Aveiro
 
 641431 - Pinhão, Pindelo, Oliveira de Azeméis - um lugar.
 
-641443 - Agocinda n.º 2, Mosteiró, Santa Maria da Feira - um lugar.
+641443 - Agoncida n.º 2, Mosteiró, Santa Maria da Feira - um lugar.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20-AO/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-ao-2001-427091), publicado em 2001-11-23.
 
 641455 - Arraial, Sanguedo, Santa Maria da Feira - um lugar.
 
@@ -170,7 +197,9 @@ Distrito de Braga
 
 641534 - Monte, Barrosas (Santa Eulália), Vizela - um lugar.
 
-641546 - Boavista, Santo Adrião de Vizela, Vizela - um lugar.
+641546 - Boavista, Vizela (Santo Adrião), Vizela - um lugar.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20-AO/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-ao-2001-427091), publicado em 2001-11-23.
 
 Distrito do Porto
 
@@ -178,7 +207,9 @@ Distrito do Porto
 
 641560 - Portela, Travanca, Amarante - um lugar.
 
-641571 - Igreja n.º 2, Aboadela, Amarante - um lugar.
+641571 - Igreja, Aboadela, Amarante - um lugar.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20-AO/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-ao-2001-427091), publicado em 2001-11-23.
 
 641583 - Teixeira, Teixeira, Baião - um lugar.
 
@@ -188,7 +219,9 @@ Distrito do Porto
 
 641613 - Barroncal, Valadares, Baião - um lugar.
 
-641625 - São Pedro, Santa Maria do Zêzere, Baião - um lugar.
+641625 - São Pedro, Santa Marinha do Zêzere, Baião - um lugar.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20-AO/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-ao-2001-427091), publicado em 2001-11-23.
 
 641637 - Ladoeiro, Frende, Baião - um lugar.
 
@@ -214,7 +247,9 @@ Distrito do Porto
 
 641741 - São Jorge n.º 2, Boim, Lousada - um lugar.
 
-641753 - Ferreiró, Ferreiró, Maia - um lugar.
+641753 - Ferreiró, Avioso (Santa Maria) - um lugar.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20-AO/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-ao-2001-427091), publicado em 2001-11-23.
 
 641765 - Corredoura, Folhada, Marco de Canaveses - um lugar.
 
@@ -264,7 +299,9 @@ Distrito do Porto
 
 641996 - Fornelo, Fornelo, Vila do Conde - um lugar.
 
-642009 - Frei Mauro, Caxinas, Vila do Conde - um lugar.
+642009 - Caxinas (Frei Mauro), Vila do Conde, Vila do Conde - um lugar.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20-AO/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-ao-2001-427091), publicado em 2001-11-23.
 
 642010 - Igreja, Vila Chã, Vila do Conde - um lugar.
 
@@ -274,7 +311,9 @@ Distrito do Porto
 
 641005 - Rua do Dr. António de Sousa, Bonfim, Porto - quatro lugares.
 
-641017 - Rua do Falcão, Campanhã, Porto - três lugares.
+641017 - Rua do Falcão n.º 2, Campanhã, Porto - três lugares.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20-AO/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-ao-2001-427091), publicado em 2001-11-23.
 
 641029 - Rua de Contumil, Campanhã, Porto - três lugares.
 
@@ -302,7 +341,9 @@ Distrito do Porto
 
 641133 - Praça de Carlos Alberto, Vitória, Porto - três lugares.
 
-522594 - Canidelo, Canidelo, Vila Nova de Gaia - três lugares.
+642320 - Canidelo, Canidelo, Vila Nova de Gaia - três lugares.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20-AO/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-ao-2001-427091), publicado em 2001-11-23.
 
 Distrito de Viana do Castelo
 
@@ -324,11 +365,15 @@ Distrito de Vila Real
 
 642101 - Pousada, Campeã, Vila Real - um lugar.
 
-642113 - Gravelos, Vila Seca, Vila Real - um lugar.
+642113 - Gravelos, Adoufe, Vila Real - um lugar.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20-AO/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-ao-2001-427091), publicado em 2001-11-23.
 
 Distrito de Viseu
 
-642125 - Vila Chã, Nespeira, Cinfães - um lugar.
+642125 - Vila Chã, Nespereira, Cinfães - um lugar.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20-AO/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-ao-2001-427091), publicado em 2001-11-23.
 
 Direcção Regional do Centro
 
@@ -378,7 +423,9 @@ Distrito de Lisboa
 
 Distrito de Santarém
 
-641315 - Benavente, Benavente, Benavente - dois lugares.
+641315 - Benavente (Areias), Benavente, Benavente - dois lugares.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20-AO/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-ao-2001-427091), publicado em 2001-11-23.
 
 641327 - Boleiros/Maxieira, Fátima, Ourém - três lugares.
 

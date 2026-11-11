@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:657469:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-02-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "80eb4a42b32f57ba"
+   ]
+  },
+  {
+   "date": "2002-03-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:459454:por",
+     "title": "Declaração de Rectificação n.º 15-H/2002",
+     "published": "2002-03-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/15-h-2002-459454"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 24-24"
+   ],
+   "fragments": [
+    "4f954f86bb871924"
+   ]
+  }
+ ],
+ "fragments": {
+  "80eb4a42b32f57ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Segundo comunicação do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, a [Portaria n.º 134/2002](https://diariodarepublica.pt/dr/detalhe/portaria/134-2002-273667), publicada no Diário da República, 1.ª série, n.º 34, de 9 de Fevereiro de 2002, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:\n\nOnde se lê:\n\n«ANEXO II\n\n[...]\n\nSem prejuízo do cumprimento das normas comunitárias e nacionais relativas ao ambiente, higiene e bem-estar animal, os beneficiários das indemnizações compensatórias devem cumprir as seguintes normas:\n\n1 - a) Com excepção das parcelas armadas em socalcos ou terraços, quando o valor do índice de qualificação fisiográfica da parcela (IQFP) (1) for de 3 só são permitidas culturas anuais:\n\ni) Quando integradas em rotações culturais de, pelo menos, três anos, incluindo obrigatoriamente culturas forrageiras ou prados temporários;\n\nii) Com a mobilização do solo aproximando-se da curva de nível e evitando a linha de maior declive;\n\nb) Com excepção das parcelas armadas em socalcos ou terraços, quando o valor do IQFP for de 4:\n\ni) Não são permitidas culturas anuais;\n\nii) A instalação de novas culturas arbóreas e arbustivas ou pastagens apenas é permitida nas situações que os serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas venham a considerar tecnicamente adequadas;\n\nc) Quando valor do IQFP for de 5:\n\ni) Não são permitidas culturas anuais nem a instalação de novas pastagens;\n\nii) É permitida a melhoria das pastagens naturais, mas sem mobilização do solo;\n\niii) A instalação de novas culturas arbóreas e arbustivas é permitida nas situações que os serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas venham a considerar tecnicamente adequadas.»\n\ndeve ler-se:\n\n«ANEXO II\n\n[...]\n\nSem prejuízo do cumprimento das normas comunitárias e nacionais relativas ao ambiente, higiene e bem-estar animal, os beneficiários das indemnizações compensatórias devem cumprir as seguintes normas:\n\n1 - a) Com excepção das parcelas armadas em socalcos ou terraços, quando o valor do índice de qualificação fisiográfica da parcela (IQFP) for de 4:\n\ni) Não são permitidas culturas anuais;\n\nii) A instalação de novas culturas arbóreas e arbustivas ou pastagens apenas é permitida nas situações que os serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas venham a considerar tecnicamente adequadas;\n\nb) Quando valor do IQFP for de 5:\n\ni) Não são permitidas culturas anuais nem a instalação de novas pastagens;\n\nii) É permitida a melhoria das pastagens naturais, mas sem mobilização do solo;\n\niii) A instalação de novas culturas arbóreas e arbustivas é permitida nas situações que os serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas venham a considerar tecnicamente adequadas.».\n\nSecretaria-Geral da Presidência do Conselho de Ministros, 28 de Fevereiro de 2002. - O Secretário-Geral, Alexandre Figueiredo."
+  },
+  "4f954f86bb871924": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2002-03-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 15-H/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-h-2002-459454), publicado em 2002-03-30."
+   ],
+   "markdown": "Segundo comunicação do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, a [Portaria n.º 134/2002](https://diariodarepublica.pt/dr/detalhe/portaria/134-2002-273667), publicada no Diário da República, 1.ª série, n.º 34, de 9 de Fevereiro de 2002, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:\n\nOnde se lê:\n\n«ANEXO II\n\n[...]\n\nSem prejuízo do cumprimento das normas comunitárias e nacionais relativas ao ambiente, higiene e bem-estar animal, os beneficiários das indemnizações compensatórias devem cumprir as seguintes normas:\n\n1 - a) Com excepção das parcelas armadas em socalcos ou terraços, quando o valor do índice de qualificação fisiográfica da parcela (IQFP) (1) for de 3 só são permitidas culturas anuais:\n\ni) Quando integradas em rotações culturais de, pelo menos, três anos, incluindo obrigatoriamente culturas forrageiras ou prados temporários;\n\nii) Com a mobilização do solo aproximando-se da curva de nível e evitando a linha de maior declive;\n\nb) Com excepção das parcelas armadas em socalcos ou terraços, quando o valor do IQFP for de 4:\n\ni) Não são permitidas culturas anuais;\n\nii) A instalação de novas culturas arbóreas e arbustivas ou pastagens apenas é permitida nas situações que os serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas venham a considerar tecnicamente adequadas;\n\nc) Quando valor do IQFP for de 5:\n\ni) Não são permitidas culturas anuais nem a instalação de novas pastagens;\n\nii) É permitida a melhoria das pastagens naturais, mas sem mobilização do solo;\n\niii) A instalação de novas culturas arbóreas e arbustivas é permitida nas situações que os serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas venham a considerar tecnicamente adequadas.»\n\ndeve ler-se:\n\n«ANEXO II\n\n[...]\n\nSem prejuízo do cumprimento das normas comunitárias e nacionais relativas ao ambiente, higiene e bem-estar animal, os beneficiários das indemnizações compensatórias devem cumprir as seguintes normas:\n\n1 - a) Com excepção das parcelas armadas em socalcos ou terraços, quando o valor do índice de qualificação fisiográfica da parcela (IQFP) for de 4:\n\ni) Não são permitidas culturas anuais;\n\nii) A instalação de novas culturas arbóreas e arbustivas ou pastagens apenas é permitida nas situações que os serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas venham a considerar tecnicamente adequadas;\n\nb) Com excepção das parcelas armadas em socalcos ou terraços, quando o valor do IQFP for de 5:\n\n> Alterado pelo/a [Declaração de Rectificação n.º 15-H/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-h-2002-459454), publicado em 2002-03-30.\n\ni) Não são permitidas culturas anuais nem a instalação de novas pastagens;\n\nii) É permitida a melhoria das pastagens naturais, mas sem mobilização do solo;\n\niii) A instalação de novas culturas arbóreas e arbustivas é permitida nas situações que os serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas venham a considerar tecnicamente adequadas.».\n\nSecretaria-Geral da Presidência do Conselho de Ministros, 28 de Fevereiro de 2002. - O Secretário-Geral, Alexandre Figueiredo."
+  }
+ }
+}

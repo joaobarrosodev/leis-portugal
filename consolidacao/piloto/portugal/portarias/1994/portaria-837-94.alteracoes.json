@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É aprovada a declaração de autoliquidação modelo n.º 6 a que se refere o n.º 1 do artigo 9.º do Regulamento dos Impostos de Circulação e Camionagem, a qual constitui exclusivo da Imprensa Nacional-Casa da Moeda.",
+    "depois": "1.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:587852:por",
+    "alterador": "pt:dre:566643:por"
+  }
+]

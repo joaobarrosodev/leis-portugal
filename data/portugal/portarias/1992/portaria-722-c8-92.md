@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-10-31'
+version_history:
+  file: portaria-722-c8-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-10-31'
+    amending: pt:dre:627606:por
+    amending_title: Declaração de Rectificação n.º 178/92
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/722-c8/1992/07/15/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:27:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 178/92.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-722-c8-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,7 +144,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna e obtido parecer
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdade do Corvo», sito na freguesia de Santa Bárbara, município de Castro Verde, com uma área de 132,4250 ha, e «Monte Branco», «Herdade do Pereiro» e «Herdade do Reguengo», sitos na freguesia de Graça de Padrões, município de Almodôvar, com uma área de 512,1422 ha, perfazendo uma área de 644,5672 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdade do Corvo», sito na freguesia de Santa Bárbara, município de Castro Verde, com uma área de 132,4250 ha, e «Monte Branco», parcelas da «Herdade do Pereiro» e parcelas da «Herdade do Reguengo», sitos na freguesia de Graça de Padrões, município de Almodôvar, com uma área de 512,1422 ha, perfazendo uma área de 644,5672 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 178/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/178-1992-627606), publicado em 1992-10-31.
 
 2.º Pelo presente diploma é concessionada, pelo período de 10 anos, à SOMINCOR - Sociedade Mineira Neves Corvo, com o número de pessoa colectiva 501089292 e sede na Mina de Neves Corvo, Castro Verde, a zona de caça turística do Monte Branco (processo n.º 1114 da Direcção-Geral das Florestas).
 

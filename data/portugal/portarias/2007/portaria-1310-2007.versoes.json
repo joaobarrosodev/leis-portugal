@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:641748:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-10-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "98cbef786f3f56c6"
+   ]
+  },
+  {
+   "date": "2008-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:454364:por",
+     "title": "Portaria n.º 629/2008",
+     "published": "2008-07-23",
+     "dre_path": "/dr/detalhe/portaria/629-2008-454364"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "c7dffda27a31a184"
+   ]
+  }
+ ],
+ "fragments": {
+  "98cbef786f3f56c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Outubro\n\nPela [Portaria n.º 722-B11/92](https://diariodarepublica.pt/dr/detalhe/portaria/722-b11-1992-617372), de 15 de Julho, alterada pela [Portaria n.º 1081/97](https://diariodarepublica.pt/dr/detalhe/portaria/1081-1997-677071), de 29 de Outubro, foi concessionada até 15 de Julho de 2007 a Zona de Caça Associativa de Negrais (processo n.º 1050-DGRF), situada no município de Sintra, concessionada ao Clube de Caçadores de Negrais.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação e ao mesmo tempo a anexação de outros prédios rústicos.\n\nCumpridos os preceitos legais, com fundamento no disposto nos artigos 11.º, 37.º e 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º e no n.º 1 do artigo 118.º, do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, não foi ouvido o Conselho Cinegético Municipal de Sintra, por não se encontrar constituído, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é renovada, com efeitos a partir do dia 16 de Julho de 2007, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos na freguesia de Almargem do Bispo, município de Sintra, com a área de 504 ha, o que exprime uma redução da área concessionada de 34 ha.\n\n3.º São anexados à presente zona de caça vários prédios rústicos sitos na freguesia de Almargem do Bispo, município de Sintra, com a área de 86 ha.\n\n4.º Esta zona de caça, após a sua renovação e anexação dos terrenos acima referidos, ficará com a área total de 590 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n5.º A concessão de alguns terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza, até um máximo de 10 % da área total da zona de caça.\n\n6.º Esta anexação só produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\nPelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 19 de Setembro de 2007. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 20 de Setembro de 2007.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19200/0710007101.pdf)"
+  },
+  "c7dffda27a31a184": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2008-07-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 629/2008](https://diariodarepublica.pt/dr/detalhe/portaria/629-2008-454364), publicado em 2008-07-23."
+   ],
+   "markdown": "de 4 de Outubro\n\nPela [Portaria n.º 722-B11/92](https://diariodarepublica.pt/dr/detalhe/portaria/722-b11-1992-617372), de 15 de Julho, alterada pela [Portaria n.º 1081/97](https://diariodarepublica.pt/dr/detalhe/portaria/1081-1997-677071), de 29 de Outubro, foi concessionada até 15 de Julho de 2007 a Zona de Caça Associativa de Negrais (processo n.º 1050-DGRF), situada no município de Sintra, concessionada ao Clube de Caçadores de Negrais.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação e ao mesmo tempo a anexação de outros prédios rústicos.\n\nCumpridos os preceitos legais, com fundamento no disposto nos artigos 11.º, 37.º e 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º e no n.º 1 do artigo 118.º, do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, não foi ouvido o Conselho Cinegético Municipal de Sintra, por não se encontrar constituído, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é renovada pelo período de 12 anos, renovável automaticamente, por um único e igual período e com efeitos a partir do dia 16 de Julho de 2007, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos na freguesia de Almargem do Bispo, município de Sintra, com a área de 504 ha, o que exprime uma redução da área concessionada de 34 ha.\n\n> Alterado pelo/a [Portaria n.º 629/2008](https://diariodarepublica.pt/dr/detalhe/portaria/629-2008-454364), publicado em 2008-07-23.\n\n3.º São anexados à presente zona de caça vários prédios rústicos sitos na freguesia de Almargem do Bispo, município de Sintra, com a área de 86 ha.\n\n4.º Esta zona de caça, após a sua renovação e anexação dos terrenos acima referidos, ficará com a área total de 590 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n5.º A concessão de alguns terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza, até um máximo de 10 % da área total da zona de caça.\n\n6.º Esta anexação só produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\nPelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 19 de Setembro de 2007. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 20 de Setembro de 2007.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19200/0710007101.pdf)"
+  }
+ }
+}

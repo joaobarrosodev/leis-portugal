@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-05-31'
+version_history:
+  file: declaracao-retificacao-6-q-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-05-31'
+    amending: pt:dre:583796:por
+    amending_title: Declaração de Rectificação n.º 10-H/97
+    changes:
+    - Altera Artigo unidades 6-12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declrectif/6-q/1997/03/31/p/dre/pt/html
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T18:50:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 10-H/97.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/declaracoes-retificacao/1997/declaracao-retificacao-6-q-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,9 +125,9 @@ No n.º 1.º, onde se lê:
 
 deve ler-se:
 
-«Art. 16.º - 1 - ... ...
+«Art. 6.º - 1 - ... ...
 
-2 - Emissão de novo boletim de qualquer dos referidos no número anterior ... 500$00
+2 - Pelo assento de transcrição de qualquer acto lavrado nos termos do n.º 4 do artigo 6.º ... 2000$00
 
 3 - ... ...
 
@@ -122,7 +137,13 @@ deve ler-se:
 
 6 - ... ...
 
-7 - ... ...»
+7 - ... ...
+
+Art. 16.º - 1 - ... ...
+
+2 - Emissão de novo boletim de qualquer dos actos referidos no número anterior ... 500$00»
+
+> Alterado pelo/a [Declaração de Rectificação n.º 10-H/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-h-1997-583796), publicado em 1997-05-31.
 
 Na nota d) das instruções aos assentos de nascimento, onde se lê «Se o declarante foi o pai ou a mãe, menciona-se apenas esta qualidade.» deve ler-se «Se o declarante for o pai ou a mãe, menciona-se apenas esta qualidade.».
 

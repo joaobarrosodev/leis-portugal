@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º São excluídos da zona de caça municipal Monforte 5 (processo n.º 2833-AFN), vários prédios rústicos sitos na freguesia de Santo Aleixo, município de Monforte, com a área de 227 ha, ficando a mesma com a área de 512 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+    "depois": "1.º São excluídos da zona de caça municipal de Monforte 5 (processo n.º 2833-AFN) vários prédios rústicos sitos na freguesia de Santo Aleixo, município de Monforte, com a área de 201 ha, ficando a mesma com a área de 538 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:607568:por",
+    "alterador": "pt:dre:342794:por"
+  }
+]

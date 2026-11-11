@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-08-04'
+version_history:
+  file: portaria-796-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-09-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-08-04'
+    amending: pt:dre:378927:por
+    amending_title: Portaria n.º 891/2001
+    changes:
+    - Adita Artigo depois da unidade 13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/796/1999/09/15/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:17:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 891/2001. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-796-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,5 +150,9 @@ b) Imposto automóvel e outras imposições que se mostrem devidas pela introdu�
 a) No âmbito do processo de execução fiscal, nos casos em que o pagamento do montante em dívida permita o levantamento imediato da garantia prestada para suspender a execução ou impeça a concretização da venda de bens penhorados;
 
 b) Para pagamento de valores selados e impressos.
+
+3.º O disposto nos números anteriores não se aplica quando o montante a pagar por meio de cheque não for superior a 12500$00.
+
+> Aditado pelo/a [Portaria n.º 891/2001](https://diariodarepublica.pt/dr/detalhe/portaria/891-2001-378927), publicado em 2001-07-30.
 
 O Ministro das Finanças, António Luciano Pacheco de Sousa Franco, em 26 de Agosto de 1999.

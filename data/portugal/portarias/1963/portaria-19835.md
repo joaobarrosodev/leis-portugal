@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1963-10-12'
+version_history:
+  file: portaria-19835.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1963-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1963-10-12'
+    amending: pt:dre:687598:por
+    amending_title: Portaria n.º 20111
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:28:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 20111. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1963/portaria-19835.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,7 +130,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 I) No quadro do pessoal extraordinário da Inspectoria da Polícia Judiciária de Macau é criado o lugar de director do laboratório da Polícia Judiciária, com a categoria corresponde à da letra J do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-II) O lugar é provido, por contrato, em diplomado com os cursos de Farmácia ou de Ciências Físico-Químicas, livremente escolhido pelo Ministro do Ultramar ou sob proposta do governador da província.
+II) O lugar será provido, por qualquer das formas previstas na lei, por diplomado com os cursos de Farmácia ou Ciências Físico-Químicas, livremente escolhido pelo Ministro do Ultramar ou mediante proposta do governador da província.
+
+> Alterado pelo/a [Portaria n.º 20111](https://diariodarepublica.pt/dr/detalhe/portaria/20111-1963-687598), publicado em 1963-10-12.
 
 III) O encargo resultante da criação deste lugar será suportado no corrente ano pela verba inscrita no respectivo orçamento provincial no capítulo VI, artigo 177.º, n.º 2).
 

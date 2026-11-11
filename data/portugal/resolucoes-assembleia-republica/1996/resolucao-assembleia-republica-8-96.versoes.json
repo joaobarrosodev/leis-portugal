@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:613381:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-02-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8452fb52889bb560"
+   ]
+  },
+  {
+   "date": "1996-03-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:621297:por",
+     "title": "Declaração de Rectificação n.º 4/96",
+     "published": "1996-03-08",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/4-1996-621297"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-3"
+   ],
+   "fragments": [
+    "c512fb44f0b68479"
+   ]
+  }
+ ],
+ "fragments": {
+  "8452fb52889bb560": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Designação do Provedor de Justiça\n\nA Assembleia da República, em reunião plenária de 1 de Fevereiro de 1996, resolve designar, nos termos dos artigos 23.º, n.º 3, 166.º, alínea i), e 169.º, n.º 5, da Constituição, o conselheiro Dr. José Manuel Menezes de Sampaio Pimentel para o cargo de Provedor de Justiça.\n\nAprovada em 1 de Fevereiro de 1996.\n\nO Presidente da Assembleia da República, António de Almeida Santos."
+  },
+  "c512fb44f0b68479": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1996-03-08",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 4/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-1996-621297), publicado em 1996-03-08."
+   ],
+   "markdown": "Designação do Provedor de Justiça\n\nA Assembleia da República, em reunião plenária de 1 de Fevereiro de 1996, resolve designar, nos termos dos artigos 23.º, n.º 3, 166.º, alínea i), e 169.º, n.º 5, da Constituição, o conselheiro Dr. José Manuel Meneres Sampaio Pimentel para o cargo de Provedor de Justiça.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 4/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-1996-621297), publicado em 1996-03-08.\n\nAprovada em 1 de Fevereiro de 1996.\n\nO Presidente da Assembleia da República, António de Almeida Santos."
+  }
+ }
+}

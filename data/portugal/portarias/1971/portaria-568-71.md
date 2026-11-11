@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1972-12-30'
+version_history:
+  file: portaria-568-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-10-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1972-12-30'
+    amending: pt:dre:665145:por
+    amending_title: Portaria n.º 802/72
+    changes:
+    - Altera Artigo unidades 37-38
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:36:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 802/72. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-568-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,9 +179,11 @@ f) Assentando o desenvolvimento rural principalmente na iniciativa e responsabil
 
 5.º - 1. A Missão será dirigida por um chefe, nomeado pelo Ministro do Ultramar, ouvido o Governo da província, de entre indivíduos habilitados com um curso superior, de preferência de feição agrária, possuindo formação e experiência adequadas ao exercício do cargo.
 
-2. O chefe será coadjuvado por um subchefe, que o substituirá nas suas faltas e impedimentos.
+2. O chefe será coadjuvado por dois adjuntos de missão, que o substituirão nas suas faltas e impedimentos e em todas as funções para que por ele sejam designados.
 
-3. O chefe e subchefe da Missão terão a categoria da letra D.
+3. O chefe e adjuntos de missão terão a categoria da letra D.
+
+> Alterado pelo/a [Portaria n.º 802/72](https://diariodarepublica.pt/dr/detalhe/portaria/802-1972-665145), publicado em 1972-12-30.
 
 6.º Sob o ponto de vista da sua administração financeira, a Missão constituirá um serviço especial com autonomia administrativa, sendo a sua sustentação assegurada através de verbas destinadas a extensão rural, em rubrica adoptada de plano de fomento ou por meios financeiros imputados aos seus objectivos, quer no orçamento da província, quer em orçamentos privativos de serviços e entidades interessadas no desenvolvimento rural.
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-01-31'
+version_history:
+  file: portaria-1208-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-12-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-01-31'
+    amending: pt:dre:444266:por
+    amending_title: Declaração de Rectificação n.º 7/91
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:12:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 7/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-1208-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,7 +134,9 @@ Manda o Governo, pelos Ministros das Finanças, das Obras Públicas, Transportes
 
 3.º Fixar em 12$80 a taxa de uma comunicação local de telex com mínimo de duração, em 6250$00 a taxa de assinatura mensal e em 20000$00 a taxa de instalação da linha de rede, não se incluindo nestas taxas o equipamento.
 
-4.º Fixar em 9$10 a taxa unitária de uma conversação telefónicas, em 1450$00 a taxa de assinatura mensal de um posto telefónico principal (linha de rede) e em 12000$00 a respectiva taxa de instalação.
+4.º Fixar em 9$10 a taxa unitária de uma conversação telefónicas, em 1450$00 a taxa de assinatura mensal de um posto telefónico principal (linha de rede) e em 12000$00 a respectiva taxa de instalação, não se incluindo nestas taxas o equipamento.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 7/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-1991-444266), publicado em 1991-01-31.
 
 5.º Fixar em 1$30 a taxa do minuto de ligação à TELEPAC, via acesso directo, em 108$00 a taxa por cada quilossegmento e em 46000$00 a taxa de instalação e fixar as taxas de assinatura mensal dos acessos assíncrono a 1200 bits/s e síncrono a 2400 bits/s em 17100$00 e 21000$00, respectivamente.
 

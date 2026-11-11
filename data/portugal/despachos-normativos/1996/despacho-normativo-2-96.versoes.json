@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:624653:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-01-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "076b4ab95c895ead"
+   ]
+  },
+  {
+   "date": "1996-03-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:621766:por",
+     "title": "Despacho Normativo n.º 9/96",
+     "published": "1996-02-28",
+     "dre_path": "/dr/detalhe/despacho-normativo/9-1996-621766"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "d99a3a99f2c24f1d"
+   ]
+  }
+ ],
+ "fragments": {
+  "076b4ab95c895ead": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Através do Regulamento (CE) [2505/95](http://data.europa.eu/eli/reg/1995/2505/oj?locale=pt), do Conselho, de 24 de Outubro, foi instituída, para a campanha de 1995-1996, uma medida de saneamento da produção de pêssegos e nectarinas, através da concessão de um prémio ao arranque de pomares de pessegueiros e nectarineiras.\n\nAssim, tendo em conta o disposto no Regulamento (CE) n.º [2505/95](http://data.europa.eu/eli/reg/1995/2505/oj?locale=pt), do Conselho, de 24 de Outubro, e no Regulamento (CE) n.º [2684/95](http://data.europa.eu/eli/reg/1995/2684/oj?locale=pt), da Comissão, de 21 de Novembro, determina-se o seguinte:\n\n1 - Os agricultores interessados na atribuição do prémio ao arranque de pessegueiros e nectarineiras deverão apresentar o seu pedido até 31 de Janeiro de 1996, nos serviços regionais de agricultura da área da exploração.\n\n2 - Os modelos de impressos que constituem o processo de candidatura serão fornecidos gratuitamente pelo INGA - Instituto Nacional de Intervenção e Garantia Agrícola.\n\n3 - Os pedidos de concessão do prémio serão entregues na direcção regional de agricultura da área da exploração, após o que a mesma procederá, através de visitas ao local, à verificação das informações neles contidas e remetê-los-á, devidamente fundamentados, ao INGA no prazo de 20 dias.\n\n4 - O INGA decide do seu deferimento e notifica o interessado até 20 dias após o termo do prazo indicado no número anterior, dando conhecimento à respectiva direcção regional de agricultura da sua decisão.\n\n5 - A operação de arranque deverá ser realizada de uma só vez, na totalidade da área prevista, nos dois meses seguintes à notificação referida no número anterior, e o mais tardar até 30 de Abril de 1996. As árvores arrancadas deverão ser destruídas.\n\n6 - O interessado comunicará, à direcção regional de agricultura onde o pedido foi apresentado, a data prevista para o arranque.\n\n7 - A direcção regional de agricultura verificará, através de visitas a todas as parcelas em causa, se o arranque foi efectuado em conformidade com o disposto na regulamentação comunitária e no presente diploma e certificará a época em que o mesmo ocorreu, enviando ao INGA o relatório da verificação. O prazo para este conjunto de acções é de 30 dias, a contar da data do arranque.\n\n8 - O pagamento do prémio é efectuado pelo INGA no prazo de três meses após a verificação referida no número anterior e o mais tardar até 31 de Agosto.\n\n9 - As direcções regionais de agricultura, a pedido do INGA, e com uma periodicidade máxima de cino anos, efectuarão visitas às explorações que beneficiaram do prémio, de modo a confirmarem o respeito dos compromissos previstos na regulamentação comunitária sobre esta matéria, enviando ao INGA os respectivos relatórios no prazo máximo de 60 dias úteis após a visita. Estas visitas de verificação poderão em alternativa ser efectuadas pelo INGA.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas, 5 de Dezembro de 1995. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva."
+  },
+  "d99a3a99f2c24f1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1996-03-04",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 9/96](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-1996-621766), publicado em 1996-02-28."
+   ],
+   "markdown": "Através do Regulamento (CE) [2505/95](http://data.europa.eu/eli/reg/1995/2505/oj?locale=pt), do Conselho, de 24 de Outubro, foi instituída, para a campanha de 1995-1996, uma medida de saneamento da produção de pêssegos e nectarinas, através da concessão de um prémio ao arranque de pomares de pessegueiros e nectarineiras.\n\nAssim, tendo em conta o disposto no Regulamento (CE) n.º [2505/95](http://data.europa.eu/eli/reg/1995/2505/oj?locale=pt), do Conselho, de 24 de Outubro, e no Regulamento (CE) n.º [2684/95](http://data.europa.eu/eli/reg/1995/2684/oj?locale=pt), da Comissão, de 21 de Novembro, determina-se o seguinte:\n\n1 - Os agricultores interessados na atribuição do prémio ao arranque de pessegueiros e nectarineiras deverão apresentar o seu pedido até 31 de Janeiro de 1996, nos serviços regionais de agricultura da área da exploração.\n\n2 - Os modelos de impressos que constituem o processo de candidatura serão fornecidos gratuitamente pelo INGA - Instituto Nacional de Intervenção e Garantia Agrícola.\n\n3 - Os pedidos de concessão do prémio serão entregues na direcção regional de agricultura da área da exploração, após o que a mesma procederá, através de visitas ao local, à verificação das informações neles contidas e remetê-los-á, devidamente fundamentados, ao INGA no prazo de 20 dias.\n\nContudo, em casos excepcionais que impossibilitem o cumprimento do prazo acima referido, a direcção regional de agricultura poderá remeter ao INGA os processos devidamente fundamentados o mais tardar até 15 de Março de 1996.\n\n> Alterado pelo/a [Despacho Normativo n.º 9/96](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-1996-621766), publicado em 1996-02-28.\n\n4 - O INGA decide do seu deferimento e notifica o interessado até 20 dias após o termo do prazo indicado no número anterior, dando conhecimento à respectiva direcção regional de agricultura da sua decisão.\n\n5 - A operação de arranque deverá ser realizada de uma só vez, na totalidade da área prevista, nos dois meses seguintes à notificação referida no número anterior, e o mais tardar até 30 de Abril de 1996. As árvores arrancadas deverão ser destruídas.\n\n6 - O interessado comunicará, à direcção regional de agricultura onde o pedido foi apresentado, a data prevista para o arranque.\n\n7 - A direcção regional de agricultura verificará, através de visitas a todas as parcelas em causa, se o arranque foi efectuado em conformidade com o disposto na regulamentação comunitária e no presente diploma e certificará a época em que o mesmo ocorreu, enviando ao INGA o relatório da verificação. O prazo para este conjunto de acções é de 30 dias, a contar da data do arranque.\n\n8 - O pagamento do prémio é efectuado pelo INGA no prazo de três meses após a verificação referida no número anterior e o mais tardar até 31 de Agosto.\n\n9 - As direcções regionais de agricultura, a pedido do INGA, e com uma periodicidade máxima de cino anos, efectuarão visitas às explorações que beneficiaram do prémio, de modo a confirmarem o respeito dos compromissos previstos na regulamentação comunitária sobre esta matéria, enviando ao INGA os respectivos relatórios no prazo máximo de 60 dias úteis após a visita. Estas visitas de verificação poderão em alternativa ser efectuadas pelo INGA.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas, 5 de Dezembro de 1995. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva."
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:654549:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-04-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b39b7d13b70ae282",
+    "df739a72a1461c4b",
+    "6a107215e732c0f3"
+   ]
+  },
+  {
+   "date": "1985-10-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177656:por",
+     "title": "Portaria n.º 793/85",
+     "published": "1985-10-19",
+     "dre_path": "/dr/detalhe/portaria/793-1985-177656"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 66-66",
+    "Adita Artigo depois da unidade 70"
+   ],
+   "fragments": [
+    "b39b7d13b70ae282",
+    "fe23664bab8f6172",
+    "6a107215e732c0f3"
+   ]
+  }
+ ],
+ "fragments": {
+  "b39b7d13b70ae282": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Abril\n\nSob proposta do conselho científico da Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa;\n\nAo abrigo do disposto nos artigos 7.º a 9.º do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho, no [Decreto-Lei n.º 263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446), de 7 de Agosto, e no [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade Nova de Lisboa, através da Faculdade de Ciências Sociais e Humanas, concede o grau de mestre em:\n\na) Estudos Alemães - Literatura e Cultura;\n\nb) Estudos Literários Comparados, com 3 áreas de especialização:\n\nLiteratura Geral Comparada;\n\nLiteraturas Clássica e Portuguesa Comparadas;\n\nLiteraturas Modernas Comparadas.\n\n2.º\n\n(Organização dos cursos)\n\nOs cursos especializados conducentes aos mestrados enumerados no n.º 1.º, adiante simplesmente designados por «cursos», organizam-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Estrutura curricular)\n\nA estrutura curricular é a descrita nos anexos I e II da presente portaria.\n\n4.º\n\n(Duração normal)\n\nA duração normal dos cursos é de 2 anos lectivos.\n\n5.º\n\n(Habilitações de acesso)\n\n1 - São admitidos à candidatura à matrícula em cada um dos cursos os titulares das licenciaturas descritas nos anexos I e II ou de licenciaturas em áreas afins ou habilitações legalmente equivalentes, com a classificação mínima de 14 valores.\n\n2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora nas licenciaturas referidas no n.º 1 tenham classificação inferior a 14 valores.\n\n3 - Excepcionalmente, em casos devidamente justificados, e nos termos do n.º 4 do n.º 7.º, o conselho científico poderá admitir à candidatura à matrícula no curso os titulares de outra licenciatura pelas universidades portuguesas ou de habilitações legalmente equivalentes cujo currículo demonstre uma adequada preparação científica de base.\n\n4 - Cabe ao conselho científico definir quais os cursos a incluir nas áreas afins referidas no n.º 1.\n\n6.º\n\n(«Numerus clausus»)\n\n1 - O numerus clausus de cada curso será fixado anualmente por despacho do Ministro da Educação.\n\n2 - Uma percentagem do numerus clausus, a fixar igualmente no despacho a que se refere o número anterior, será reservada a docentes de estabelecimentos de ensino superior.\n\n3 - Poderá igualmente ser fixado no mesmo despacho um número mínimo de inscrições indispensável ao funcionamento do curso.\n\n4 - Cada proposta de numeros clausus deverá ser acompanhada de um relatório comprovativo de estarem satisfeitas as condições referidas no n.º 11.º\n\n7.º\n\n(Critérios de selecção)\n\n1 - Os candidatos à matrícula em cada curso serão seleccionados pelo conselho científico tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 5.º ou de outros graus já obtidos pelo candidato;\n\nb) Currículo académico, científico e técnico;\n\nc) Experiência docente.\n\n2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 2 do n.º 6.º, uma equilibrada satisfação de procura de docentes de outros estabelecimentos de ensino superior.\n\n3 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção para avaliação do nível daqueles nas áreas científicas de base correspondentes ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciaturas ou outras como condição prévia para a candidatura à matrícula no curso.\n\n4 - Os candidatos a que se refere o n.º 3 do n.º 5.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.\n\n5 - A selecção a que se refere o presente artigo será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.\n\n8.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição, bem como o regime de faltas de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso, serão as previstas na lei para os cursos de licenciatura, naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza dos cursos.\n\n9.º\n\n(Calendário)\n\nOs prazos de candidatura e inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o n.º 6.º\n\n10.º\n\n(Dispensa das provas complementares de doutoramento)\n\nOs titulares de aprovação no curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do grau de doutor em Letras nas especialidades indicadas nos anexos I e II.\n\n11.º\n\n(Início de funcionamento)\n\nA entrada em funcionamento do curso ficará dependente da reunião, pela Universidade, dos recursos humanos e materiais adequados à sua completa concretização.\n\nMinistério da Educação.\n\nAssinada em 31 de Janeiro de 1984.\n\nO Ministro da Educação, José Augusto Seabra."
+  },
+  "df739a72a1461c4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Estudos Alemães - Literaturas e Cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Estudos Alemães - Literaturas e Cultura\n\n1 - Área científica do curso:\n\nLiteratura Alemã e História da Cultura Alemã.\n\n2 - Áreas científicas e unidades de crédito necessárias à conclusão do curso:\n\na) Literatura Alemã ... 8\n\nb) História da Cultura Alemã ... 8\n\nc) Problemas de Investigação ... 4\n\nd) Literatura Comparada ... 4\n\ne) Literatura Portuguesa ... 4\n\nf) História das Ideias ... 4\n\ng) Teoria da Literatura ... 4\n\nTotal ... 16\n\n3 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Filologia Germânica e Línguas e Literaturas Modernas (variantes de Estudos Ingleses e Alemães e Estudos Portugueses e Alemães).\n\n4 - Especialidades a que se refere o n.º 10.º\n\na) Literatura Alemã;\n\nb) História da Cultura Alemã."
+  },
+  "6a107215e732c0f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Estudos Literários Comparados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Estudos Literários Comparados\n\n1 - Área científica do curso:\n\nEstudos Literários Comparados.\n\n2 - Áreas científicas e unidades de crédito necessárias à conclusão do curso:\n\n2.1 - Área de especialização em Literatura Geral Comparada:\n\na) Teoria Literária ... 8\n\nb) Literatura Geral Comparada ... 8\n\nc) História das Ideias ... 4\n\nd) Literatura Tradicional e Oral ... 4\n\ne) Linguística e Texto Literário ... 4\n\nTotal ... 16\n\n2.2 - Área de especialização em Literaturas Clássica e Portuguesa Comparadas:\n\na) Teoria Literária ... 4\n\nb) Literaturas Clássica e Portuguesa Comparadas ... 8\n\nc) Literatura Grega e Literatura Latina ... 4\n\nd) Literatura Tradicional e Oral ... 4\n\ne) Literaturas de Expressão Portuguesa ... 4\n\nTotal ... 16\n\n2.3 - Área de especialização em Literaturas Modernas Comparadas:\n\na) Teoria Literária ... 8\n\nb) Literaturas Modernas Comparadas ... 8\n\nc) História das Ideias ... 4\n\nd) História da Cultura Moderna ... 4\n\ne) Linguística e Texto Literário ... 4\n\nTotal ... 16\n\n3 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\n3.1 - Área de especialização em Literatura Geral e Comparada:\n\na) Filologia Clássica;\n\nb) Filologia Românica;\n\nc) Filologia Germânica;\n\nd) Línguas e Literaturas Modernas (variantes de Estudos Portugueses, Franceses, Ingleses ou Alemães).\n\n3.2 - Área de especialização em Literaturas Clássica e Portuguesa Comparadas:\n\na) Filologia Clássica;\n\nb) Filologia Românica;\n\nc) Línguas e Literaturas Clássicas;\n\nd) Línguas e Literaturas Modernas (variante de Estudos Portugueses).\n\n3.3 - Área de especialização em Literaturas Modernas Comparadas:\n\na) Filologia Românica;\n\nb) Filologia Germânica;\n\nc) Línguas e Literaturas Modernas (variantes de Estudos Portugueses, Franceses, Ingleses ou Alemães).\n\n4 - Especialidades a que se refere o n.º 10.º:\n\nSerão definidas caso a caso pelo conselho científico, face ao plano de estudos do curso seguido por cada candidato.\n\nCaso o candidato seja titular do grau de mestre, será considerada igualmente a área sobre que incidiu a dissertação."
+  },
+  "fe23664bab8f6172": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Estudos Alemães - Literaturas e Cultura",
+   "in_force_from": "1985-10-24",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 793/85](https://diariodarepublica.pt/dr/detalhe/portaria/793-1985-177656), publicado em 1985-10-19.",
+    "Aditado pelo/a [Portaria n.º 793/85](https://diariodarepublica.pt/dr/detalhe/portaria/793-1985-177656), publicado em 1985-10-19."
+   ],
+   "markdown": "## ANEXO I — Estudos Alemães - Literaturas e Cultura\n\n1 - Área científica do curso:\n\nLiteratura Alemã e História da Cultura Alemã.\n\n2 - Áreas científicas e unidades de crédito necessárias à conclusão do curso:\n\na) Literatura Alemã ... 8\n\nb) História da Cultura Alemã ... 8\n\nc) Problemas de Investigação ... 8\n\n> Alterado pelo/a [Portaria n.º 793/85](https://diariodarepublica.pt/dr/detalhe/portaria/793-1985-177656), publicado em 1985-10-19.\n\nd) Literatura Comparada ... 4\n\ne) Literatura Portuguesa ... 4\n\nf) História das Ideias ... 4\n\ng) Teoria da Literatura ... 4\n\nh) Linguística Alemã ... 4\n\n> Aditado pelo/a [Portaria n.º 793/85](https://diariodarepublica.pt/dr/detalhe/portaria/793-1985-177656), publicado em 1985-10-19.\n\nTotal ... 16\n\n3 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Filologia Germânica e Línguas e Literaturas Modernas (variantes de Estudos Ingleses e Alemães e Estudos Portugueses e Alemães).\n\n4 - Especialidades a que se refere o n.º 10.º\n\na) Literatura Alemã;\n\nb) História da Cultura Alemã."
+  }
+ }
+}

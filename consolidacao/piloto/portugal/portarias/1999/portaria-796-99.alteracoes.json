@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 13",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "3.º O disposto nos números anteriores não se aplica quando o montante a pagar por meio de cheque não for superior a 12500$00.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:570526:por",
+    "alterador": "pt:dre:378927:por"
+  }
+]

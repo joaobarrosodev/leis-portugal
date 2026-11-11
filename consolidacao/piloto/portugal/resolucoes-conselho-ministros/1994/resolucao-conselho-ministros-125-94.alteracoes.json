@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 40-40",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Os trabalhadores da Companhia de Seguros Garantia, S. A., bem como aqueles que hajam mantido vínculo laboral durante mais de três anos, poderão adquirir à IPE até 98000 acções da sociedade resultante da fusão. Estas acções serão vendidas pelo preço, por acção, de 80% da média das cotações das primeiras 10 sessões em que ocorram transacções, pago em duas prestações semestrais sucessivas de 50% cada uma, vencendo-se a primeira no dia da celebração do contrato e a segunda até 180 dias depois, e não poderão ser alienadas enquanto não estiver paga a totalidade do preço.",
+    "depois": "Os trabalhadores da Companhia de Seguros Garantia, S. A., bem como aqueles que hajam mantido vínculo laboral durante mais de três anos, poderão adquirir, mediante subscrição pública, até 98000 acções da sociedade resultante da fusão. Estas acções serão vendidas pelo preço, por acção, de 80% da média das cotações das últimas 10 sessões anteriores à realização da oferta pública de subscrição, pago em duas prestações semestrais sucessivas de 50% cada uma, vencendo-se a primeira no dia da celebração do contrato e a segunda até 180 dias depois, e não poderão ser alienadas enquanto não estiver paga a totalidade do preço.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:627196:por",
+    "alterador": "pt:dre:244935:por"
+  }
+]

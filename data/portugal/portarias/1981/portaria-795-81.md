@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-09-06'
+version_history:
+  file: portaria-795-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-09-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-09-06'
+    amending: pt:dre:439424:por
+    amending_title: Portaria n.º 868/83
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:54:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 868/83. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-795-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -109,7 +124,27 @@ Mandam o Conselho da Revolução e o Governo da República Portuguesa, respectiv
 
 1.º A tabela de ajudas de custo a que se refere a [Portaria n.º 29/80](https://diariodarepublica.pt/dr/detalhe/portaria/29-1980-692386), de 16 de Janeiro, seja substituída, a partir de 1 de Maio de 1981, pela que seguidamente se publica:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21000/24272427.pdf)
+Chefe de Estado-Maior-General das Forças Armadas, Vice-Chefe do Estado-Maior-General das Forças Armadas, Chefes dos Estados-Maiores do Exército, da Armada e da Força Aérea ... 2800$00
+
+Oficiais generais ... 2400$00
+
+Oficiais superiores ... 2400$00
+
+Outros oficiais, aspirantes a oficial e cadetes ... 2000$00
+
+Sargentos-mores e sargentos-chefes ... 2000$00
+
+Outros sargentos, furriéis e subsargentos ... 1800$00
+
+Primeiros-despenseiros, praças do grupo A da Armada e praças readmitidas, contratadas e convocadas do Exército e da Força Aérea ... 1800$00
+
+Primeiros-grumetes, segundos-grumetes alunos e segundos-grumetes da Armada, primeiros-cabos, segundos-cabos e soldados do Exército e da Força Aérea ... (ver nota a) 630$00
+
+Outras praças ... (ver nota a) 400$00
+
+(nota a) Ajudas de custo a título de subsídio de alimentação.
+
+> Alterado pelo/a [Portaria n.º 868/83](https://diariodarepublica.pt/dr/detalhe/portaria/868-1983-439424), publicado em 1983-09-01.
 
 2.º Nos casos em que não seja possível proporcionar alojamento a praças do serviço militar obrigatório é-lhes devido o abono de ajudas de custo no quantitativo fixado para primeiros-despenseiros, praças do grupo A da Armada e praças readmitidas, contratadas e convocadas do Exército e da Força Aérea.
 

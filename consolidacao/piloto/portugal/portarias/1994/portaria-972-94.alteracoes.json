@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 9",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1.º-A\n\nLocais onde o curso é ministrado\n\nO curso pode ser ministrado em Bragança e em Mirandela.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:621159:por",
+    "alterador": "pt:dre:406699:por"
+  }
+]

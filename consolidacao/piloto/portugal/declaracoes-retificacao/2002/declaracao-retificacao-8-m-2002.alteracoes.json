@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 24-24",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Quando valor do IQFP for de 5:",
+    "depois": "b) Com excepção das parcelas armadas em socalcos ou terraços, quando o valor do IQFP for de 5:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:657469:por",
+    "alterador": "pt:dre:459454:por"
+  }
+]

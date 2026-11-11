@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:583209:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-11-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d7da336c955b12cf"
+   ]
+  },
+  {
+   "date": "2007-04-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:519418:por",
+     "title": "Portaria n.º 476/2007",
+     "published": "2007-04-18",
+     "dre_path": "/dr/detalhe/portaria/476-2007-519418"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 16-17"
+   ],
+   "fragments": [
+    "0dd682ff1d9b7415"
+   ]
+  }
+ ],
+ "fragments": {
+  "d7da336c955b12cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Novembro\n\nA [Portaria n.º 1488/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1488-2004-353930), de 24 de Dezembro, do Ministério da Educação, introduziu no sistema jurídico português a Terminologia Linguística para os Ensinos Básico e Secundário (TLEBS).\n\nA TLEBS foi adoptada a título de experiência pedagógica, por um período de três anos, com a finalidade de ser um instrumento de referência para as práticas pedagógicas dos professores das disciplinas de Língua Portuguesa e de Português, bem como para a produção de documentos pelo Ministério da Educação em matéria de ensino e divulgação da língua portuguesa.\n\nNeste âmbito, à Direcção-Geral de Inovação e Desenvolvimento Curricular foram atribuídas competências na divulgação da TLEBS, sob a forma de base de dados, junto de escolas, instituições com responsabilidade na formação inicial de professores, associações de editores e livreiros e outras entidades com responsabilidade em matéria de ensino da língua portuguesa. Do mesmo modo, cabe a esta Direcção-Geral a promoção da revisão e necessária actualização periódica da TLEBS, em função das mudanças que se verifiquem no domínio científico ou ocorram no campo pedagógico.\n\nA utilização da TLEBS no ensino secundário decorre da implementação do novo programa de Português. O texto programático, no que se refere às competências de funcionamento da língua, recorre aos termos definidos na TLEBS, pelo que os docentes deste nível de ensino tomaram conhecimento da terminologia adoptada desde a discussão pública do projecto de programa, que se iniciou em 2001.\n\nNo entanto, no que se refere ao ensino básico, têm sido verificadas dificuldades de implementação e de utilização plena da TLEBS devido a algum desconhecimento deste instrumento, à necessidade de formação dos docentes dos três ciclos e à premência da publicação de materiais pedagógicos de apoio.\n\nAcresce que a [Portaria n.º 1488/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1488-2004-353930), de 24 de Dezembro, na qual se enforma a aprovação da TLEBS, foi publicada tardiamente no que respeita ao início do ano lectivo de 2004-2005 e, cumulativamente, a distribuição desta base de dados em suporte CD-ROM só foi realizada em Março de 2005.\n\nAssim sendo, torna-se necessária uma intervenção neste nível de ensino, de forma a poderem ser alcançados os objectivos propostos pela [Portaria n.º 1488/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1488-2004-353930), de 24 de Dezembro, para o ensino básico.\n\nAssim:\n\nAo abrigo do disposto nos artigos 1.º e 2.º do [Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611), de 10 de Março de 1967, no n.º 7 do artigo 47.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, e no n.º 1 do artigo 14.º do [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), de 17 de Outubro:\n\nManda o Governo, pela Ministra da Educação, o seguinte:\n\n1.º A experiência pedagógica da Terminologia Linguística para os Ensinos Básico e Secundário (TLEBS), constante do anexo da [Portaria n.º 1488/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1488-2004-353930), de 24 de Dezembro, é adoptada, relativamente ao ensino básico, a partir do ano lectivo de 2005-2006, com as especialidades previstas no presente diploma.\n\n2.º No desenvolvimento da experiência pedagógica a que se refere o número anterior e no decurso do ano lectivo de 2005-2006, a Direcção-Geral de Inovação e Desenvolvimento Curricular (DGIDC), em articulação com as direcções regionais de educação, selecciona, a título de experiência piloto, as escolas deste nível de ensino para a adopção da TLEBS.\n\n3.º A experiência pedagógica a desenvolver junto das escolas seleccionadas é acompanhada pela formação dos docentes das escolas em causa e da produção de materiais pedagógicos de apoio, estes últimos acompanhados e avaliados pela DGIDC.\n\n4.º No ano lectivo de 2006-2007, a aplicação da experiência pedagógica da TLEBS é generalizada ao universo das escolas do ensino básico, de acordo com as alterações que o processo de acompanhamento e de avaliação da experiência recomendem.\n\n5.º É fixado em três anos lectivos, com início no presente ano lectivo, o prazo de duração da experiência pedagógica referida no n.º 1.º\n\n6.º No âmbito dos ensinos básico e secundário, serão desenvolvidas pela DGIDC iniciativas em 2005 e 2006 que permitam esclarecer e apoiar a aplicação da TLEBS, nomeadamente formação de professores e publicação de documentos teóricos e práticos que a informem científica e pedagogicamente.\n\n7.º São revogados os n.os 4.º e 9.º da [Portaria n.º 1488/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1488-2004-353930), de 24 de Dezembro, no que se refere à sua aplicabilidade ao ensino básico, mantendo-se os mesmos em vigor relativamente ao ensino secundário.\n\n8.º A presente portaria produz os seus efeitos a partir do ano lectivo de 2005-2006.\n\nA Ministra da Educação, Maria de Lurdes Reis Rodrigues, em 30 de Setembro de 2005."
+  },
+  "0dd682ff1d9b7415": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2007-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 476/2007](https://diariodarepublica.pt/dr/detalhe/portaria/476-2007-519418), publicado em 2007-04-18."
+   ],
+   "markdown": "de 8 de Novembro\n\nA [Portaria n.º 1488/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1488-2004-353930), de 24 de Dezembro, do Ministério da Educação, introduziu no sistema jurídico português a Terminologia Linguística para os Ensinos Básico e Secundário (TLEBS).\n\nA TLEBS foi adoptada a título de experiência pedagógica, por um período de três anos, com a finalidade de ser um instrumento de referência para as práticas pedagógicas dos professores das disciplinas de Língua Portuguesa e de Português, bem como para a produção de documentos pelo Ministério da Educação em matéria de ensino e divulgação da língua portuguesa.\n\nNeste âmbito, à Direcção-Geral de Inovação e Desenvolvimento Curricular foram atribuídas competências na divulgação da TLEBS, sob a forma de base de dados, junto de escolas, instituições com responsabilidade na formação inicial de professores, associações de editores e livreiros e outras entidades com responsabilidade em matéria de ensino da língua portuguesa. Do mesmo modo, cabe a esta Direcção-Geral a promoção da revisão e necessária actualização periódica da TLEBS, em função das mudanças que se verifiquem no domínio científico ou ocorram no campo pedagógico.\n\nA utilização da TLEBS no ensino secundário decorre da implementação do novo programa de Português. O texto programático, no que se refere às competências de funcionamento da língua, recorre aos termos definidos na TLEBS, pelo que os docentes deste nível de ensino tomaram conhecimento da terminologia adoptada desde a discussão pública do projecto de programa, que se iniciou em 2001.\n\nNo entanto, no que se refere ao ensino básico, têm sido verificadas dificuldades de implementação e de utilização plena da TLEBS devido a algum desconhecimento deste instrumento, à necessidade de formação dos docentes dos três ciclos e à premência da publicação de materiais pedagógicos de apoio.\n\nAcresce que a [Portaria n.º 1488/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1488-2004-353930), de 24 de Dezembro, na qual se enforma a aprovação da TLEBS, foi publicada tardiamente no que respeita ao início do ano lectivo de 2004-2005 e, cumulativamente, a distribuição desta base de dados em suporte CD-ROM só foi realizada em Março de 2005.\n\nAssim sendo, torna-se necessária uma intervenção neste nível de ensino, de forma a poderem ser alcançados os objectivos propostos pela [Portaria n.º 1488/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1488-2004-353930), de 24 de Dezembro, para o ensino básico.\n\nAssim:\n\nAo abrigo do disposto nos artigos 1.º e 2.º do [Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611), de 10 de Março de 1967, no n.º 7 do artigo 47.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, e no n.º 1 do artigo 14.º do [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), de 17 de Outubro:\n\nManda o Governo, pela Ministra da Educação, o seguinte:\n\n1.º A experiência pedagógica da Terminologia Linguística para os Ensinos Básico e Secundário (TLEBS), constante do anexo da [Portaria n.º 1488/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1488-2004-353930), de 24 de Dezembro, é adoptada, relativamente ao ensino básico, a partir do ano lectivo de 2005-2006, com as especialidades previstas no presente diploma.\n\n2.º No desenvolvimento da experiência pedagógica a que se refere o número anterior e no decurso do ano lectivo de 2005-2006, a Direcção-Geral de Inovação e Desenvolvimento Curricular (DGIDC), em articulação com as direcções regionais de educação, selecciona, a título de experiência piloto, as escolas deste nível de ensino para a adopção da TLEBS.\n\n3.º A experiência pedagógica a desenvolver junto das escolas seleccionadas é acompanhada pela formação dos docentes das escolas em causa e da produção de materiais pedagógicos de apoio, estes últimos acompanhados e avaliados pela DGIDC.\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 476/2007](https://diariodarepublica.pt/dr/detalhe/portaria/476-2007-519418), publicado em 2007-04-18.\n\n6.º No âmbito dos ensinos básico e secundário, serão desenvolvidas pela DGIDC iniciativas em 2005 e 2006 que permitam esclarecer e apoiar a aplicação da TLEBS, nomeadamente formação de professores e publicação de documentos teóricos e práticos que a informem científica e pedagogicamente.\n\n7.º São revogados os n.os 4.º e 9.º da [Portaria n.º 1488/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1488-2004-353930), de 24 de Dezembro, no que se refere à sua aplicabilidade ao ensino básico, mantendo-se os mesmos em vigor relativamente ao ensino secundário.\n\n8.º A presente portaria produz os seus efeitos a partir do ano lectivo de 2005-2006.\n\nA Ministra da Educação, Maria de Lurdes Reis Rodrigues, em 30 de Setembro de 2005."
+  }
+ }
+}

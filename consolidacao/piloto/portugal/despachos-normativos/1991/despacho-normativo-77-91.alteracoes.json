@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 13-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7 - As ajudas aos AP destinadas a contribuir para os custos da sua gestão, que não ultrapassarão 15000 ECU por agrupamento e 90% dos custos totais elegíveis, são concedidos até:\n\na) 8000 ECU em relação ao tipo de agrupamento;\n\nb) 7000 ECU em relação ao número de associados.",
+    "depois": "7 - As ajudas aos AP destinadas a contribuir para os custos da sua gestão, que não ultrapassarão 17730 ECU por agrupamento e 90% dos custos totais elegíveis, são concedidos até:\n\na) 9460 ECU em relação ao tipo de agrupamento;\n\nb) 8275 ECU em relação ao número de associados.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:622992:por",
+    "alterador": "pt:dre:264749:por"
+  },
+  {
+    "artigo": "unidades 24-24",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Ajuda em ECU = 6000 A + 5000 B",
+    "depois": "Ajuda em ECU = 9460 A + 8275 B",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:622992:por",
+    "alterador": "pt:dre:264749:por"
+  }
+]

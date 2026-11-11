@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-01-27'
+version_history:
+  file: portaria-787-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-09-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-01-27'
+    amending: pt:dre:235296:por
+    amending_title: Portaria n.º 76/2002
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/787/2000/09/19/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:25:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 76/2002. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-787-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,7 +165,9 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 1.º Ficam sujeitos ao regime cinegético especial dois prédios rústicos denominados por Herdade da Defesa de Barros e Herdade do Montinho do Engenheiro, sitos na freguesia de Figueira de Barros, município de Avis, com a área de 760,45 ha, e dois prédios rústicos denominados por Herdade do Pego do Poio e Herdade do Bispo, sitos na freguesia e município de Fronteira, com uma área de 147,95 ha, o que perfaz uma área total de 908,40 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
 
-2.º Pela presente portaria é concessionada, pelo período de 12 anos, a SARMENTO, Lda., pessoa colectiva com o n.º 501105808 e sede em Sernadelo, Mealhada, a zona de caça turística da Herdade da Defesa de Barros e Anexas (processo n.º 2404 da Direcção-Geral das Florestas).
+2.º Pela presente portaria é concessionada, pelo período de 12 anos, a Casa Sarmento - Restaurantes, S. A., pessoa colectiva com o n.º 501105808 e sede em Sernadelo, Mealhada, a zona de caça turística da Herdade da Defesa de Barros e Anexas (processo n.º 2404 da Direcção-Geral das Florestas).
+
+> Alterado pelo/a [Portaria n.º 76/2002](https://diariodarepublica.pt/dr/detalhe/portaria/76-2002-235296), publicado em 2002-01-22.
 
 3.º Por despacho do Secretário de Estado do Turismo, foi a presente concessão considerada de relevante interesse, nos termos e para os efeitos previstos na alínea b) do n.º 2 do artigo 66.º e do artigo 71.º, ambos do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto, condicionada à apresentação do projecto de arquitectura do pavilhão de caça no prazo de 2 meses contado a partir da data de publicação da presente portaria, à aprovação, pela Direcção-Geral do Turismo, do referido projecto, à execução e conclusão das obras do pavilhão de caça no prazo máximo de 12 meses a contar da data da notificação da aprovação do projecto, bem como à verificação da conformidade das obras efectuadas com o projecto funcional do pavilhão de caça e, ainda, à legalização do alojamento que eventualmente venha a ser disponibilizado nas instalações da zona de caça turística, numa das figuras previstas no [Decreto-Lei n.º 167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), de 4 de Julho, com as alterações introduzidas pelo [Decreto-Lei n.º 305/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1999-426157), de 6 de Agosto, ou no [Decreto-Lei n.º 169/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1997-156003), de 4 de Julho.
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-10-30'
+version_history:
+  file: despacho-normativo-294-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-10-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-10-30'
+    amending: pt:dre:664518:por
+    amending_title: Declaração de Rectificação n.º 208/93
+    changes:
+    - Altera Artigo unidades 2-2
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/294/1993/10/02/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:04:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 208/93.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1993/despacho-normativo-294-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,7 +132,9 @@ validation:
 
 # Despacho Normativo n.º 294/93
 
-Considerando que o assessor do quadro permanente da Direcção-Geral de Viação Dr. Eugénio da Costa Fonseca cessou, em 29 de Maio de 1993, as funções de director de serviço que vinha exercendo na referida Direcção-Geral desde 14 de Fevereiro de 1980;
+Considerando que o assessor do quadro permanente da Direcção-Geral de Viação Dr. António Eugênio da Costa Fonseca cessou, em 29 de Maio de 1993, as funções de director de serviço que vinha exercendo na referida Direcção-Geral desde 14 de Fevereiro de 1980;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 208/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/208-1993-664518), publicado em 1993-10-30.
 
 Considerando que, desde 21 de Abril de 1977, o referido assessor desempenhou, sem interrupção, cargos dirigentes e que, naquela data, era titular da categoria de técnico superior principal com antiguidade reportada a 6 de Dezembro de 1974;
 

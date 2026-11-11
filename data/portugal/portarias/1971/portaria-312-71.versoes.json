@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:643302:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-06-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0a62b66a8e3b1e78"
+   ]
+  },
+  {
+   "date": "1971-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165998:por",
+     "title": "Portaria n.º 742/71",
+     "published": "1971-12-31",
+     "dre_path": "/dr/detalhe/portaria/742-1971-165998"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 41"
+   ],
+   "fragments": [
+    "866529cda0db1b77"
+   ]
+  }
+ ],
+ "fragments": {
+  "0a62b66a8e3b1e78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Junho\n\nA [Portaria n.º 24448](https://diariodarepublica.pt/dr/detalhe/portaria/24448-1969-217487), de 29 de Novembro de 1969, fixa o quadro comum das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique e as gratificações a abonar ao seu pessoal.\n\nReconhecendo-se, por um lado, a insuficiência de técnicos para o desempenho das funções presentemente atribuídas às inspecções provinciais de crédito e seguros e, por outro, a necessidade de se ajustarem as suas gratificações e outras regalias às fixadas ao pessoal técnico de igual categoria de outros serviços provinciais, torna-se indispensável e urgente, com vista à melhor estruturação e eficiência dos serviços, a ampliação dos seus quadros de pessoal e a actualização das respectivas gratificações e regalias.\n\nNestes termos:\n\nTendo em atenção o disposto nos artigos 7.º, n.os 2 e 8, e 9.º do [Decreto-Lei n.º 229/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1971-643948), de 28 de Maio;\n\nPor proposta dos Governos-Gerais de Angola e Moçambique:\n\nManda o Governo da República Portuguesa, pelo Ministro do Ultramar:\n\n1.º O pessoal do quadro comum das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique passa a ser o constante do mapa I anexo à presente portaria.\n\n2.º O pessoal do actual quadro comum das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique, constante do mapa anexo à [Portaria n.º 24448](https://diariodarepublica.pt/dr/detalhe/portaria/24448-1969-217487), de 29 de Novembro de 1969, transita, nas mesmas categorias e sem mais formalidades, incluindo a de visto e posse, para o novo quadro constante do mapa I anexo à presente portaria.\n\n3.º Ao pessoal das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique são atribuídas, a título de chefia ou de especial responsabilidade de funções, as gratificações mensais fixadas no mapa II anexo à presente portaria.\n\n4.º Ao pessoal das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique com curso superior e aos diplomados com cursos técnicos médios, quando trabalhe em regime de ocupação exclusiva, poderão igualmente ser atribuídas, caso a caso, por despacho do respectivo governador-geral, as gratificações cujos limites mensais máximos são fixados no mapa III anexo ao presente diploma.\n\n5.º Consideram-se em regime de ocupação exclusiva os funcionários que não desempenhem qualquer actividade remunerada estranha aos serviços públicos. Não deixam de estar em regime de ocupação exclusiva os funcionários nomeados pelos governos provinciais como representantes especiais junto de empresas concessionárias do Estado.\n\n6.º As gratificações fixadas no mapa II são cumulativas com as previstas no mapa III.\n\n7.º Fica revogada a [Portaria n.º 24448](https://diariodarepublica.pt/dr/detalhe/portaria/24448-1969-217487), de 29 de Novembro de 1969, e o mapa a ela anexo.\n\nO Ministro do Ultramar, Joaquim Moreira da Silva Cunha.\n\nPara ser publicada nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.\n\nMAPA I\n\nQuadro comum das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/14200/09080909.pdf)\n\nMAPA II\n\nGratificações mensais a título de chefia e especial responsabilidade de funções\n\nInspector provincial ... 3000$00\n\nInspector provincial-adjunto ... 2500$00\n\nTécnicos directores ... 2000$00\n\nChefes dos serviços ... 1500$00\n\nPeritos económicos e actuariais de 1.ª classe ... 1500$00\n\nPeritos económicos e actuariais de 2.ª classe ... 1000$00\n\nPerito jurista ... 1500$00\n\nChefes de repartição ... 1000$00\n\nInspectores ... 1000$00\n\nPeritos contabilistas ... 1000$00\n\nAdjuntos de inspecção ... 2000$00\n\nChefes de divisão ... 1500$00\n\nChefe do sector de mecanografia ... 2500$00\n\nAdjunto do sector de mecanografia ... 1500$00\n\nChefes de secção ... 1000$00\n\nNotas\n\nO inspector provincial, o chefe dos serviços administrativos e os chefes de repartição, na qualidade de membros do conselho administrativo, perceberão adicionalmente, a gratificação mensal de 1000$00.\n\nOs funcionários que secretariam o conselho provincial de crédito e seguros perceberão adicionalmente a gratificação mensal de 1000$00.\n\nOs chefes de repartição, chefes de divisão e chefes de secção, e primeiros-oficiais, no caso de chefiarem delegações privativas, perceberão adicionalmente a gratificação mensal de 1000$00.\n\nMAPA III\n\nGratificações mensais máximas, por ocupação exclusiva, a atribuírem-se nos termos do n.º 4 da Portaria n.º 312/71, de 18 de Junho.\n\nFuncionários com curso superior ... 4000$00\n\nFuncionários diplomados com cursos técnicos médios ... 2500$00\n\nO Ministro do Ultramar, Joaquim Moreira da Silva Cunha."
+  },
+  "866529cda0db1b77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1971-12-31",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 742/71](https://diariodarepublica.pt/dr/detalhe/portaria/742-1971-165998), publicado em 1971-12-31."
+   ],
+   "markdown": "de 18 de Junho\n\nA [Portaria n.º 24448](https://diariodarepublica.pt/dr/detalhe/portaria/24448-1969-217487), de 29 de Novembro de 1969, fixa o quadro comum das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique e as gratificações a abonar ao seu pessoal.\n\nReconhecendo-se, por um lado, a insuficiência de técnicos para o desempenho das funções presentemente atribuídas às inspecções provinciais de crédito e seguros e, por outro, a necessidade de se ajustarem as suas gratificações e outras regalias às fixadas ao pessoal técnico de igual categoria de outros serviços provinciais, torna-se indispensável e urgente, com vista à melhor estruturação e eficiência dos serviços, a ampliação dos seus quadros de pessoal e a actualização das respectivas gratificações e regalias.\n\nNestes termos:\n\nTendo em atenção o disposto nos artigos 7.º, n.os 2 e 8, e 9.º do [Decreto-Lei n.º 229/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1971-643948), de 28 de Maio;\n\nPor proposta dos Governos-Gerais de Angola e Moçambique:\n\nManda o Governo da República Portuguesa, pelo Ministro do Ultramar:\n\n1.º O pessoal do quadro comum das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique passa a ser o constante do mapa I anexo à presente portaria.\n\n2.º O pessoal do actual quadro comum das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique, constante do mapa anexo à [Portaria n.º 24448](https://diariodarepublica.pt/dr/detalhe/portaria/24448-1969-217487), de 29 de Novembro de 1969, transita, nas mesmas categorias e sem mais formalidades, incluindo a de visto e posse, para o novo quadro constante do mapa I anexo à presente portaria.\n\n3.º Ao pessoal das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique são atribuídas, a título de chefia ou de especial responsabilidade de funções, as gratificações mensais fixadas no mapa II anexo à presente portaria.\n\n4.º Ao pessoal das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique com curso superior e aos diplomados com cursos técnicos médios, quando trabalhe em regime de ocupação exclusiva, poderão igualmente ser atribuídas, caso a caso, por despacho do respectivo governador-geral, as gratificações cujos limites mensais máximos são fixados no mapa III anexo ao presente diploma.\n\n5.º Consideram-se em regime de ocupação exclusiva os funcionários que não desempenhem qualquer actividade remunerada estranha aos serviços públicos. Não deixam de estar em regime de ocupação exclusiva os funcionários nomeados pelos governos provinciais como representantes especiais junto de empresas concessionárias do Estado.\n\n6.º As gratificações fixadas no mapa II são cumulativas com as previstas no mapa III.\n\n7.º Fica revogada a [Portaria n.º 24448](https://diariodarepublica.pt/dr/detalhe/portaria/24448-1969-217487), de 29 de Novembro de 1969, e o mapa a ela anexo.\n\nO Ministro do Ultramar, Joaquim Moreira da Silva Cunha.\n\nPara ser publicada nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.\n\nMAPA I\n\nQuadro comum das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/14200/09080909.pdf)\n\nMAPA II\n\nGratificações mensais a título de chefia e especial responsabilidade de funções\n\nInspector provincial ... 3000$00\n\nInspector provincial-adjunto ... 2500$00\n\nTécnicos directores ... 2000$00\n\nChefes dos serviços ... 1500$00\n\nPeritos económicos e actuariais de 1.ª classe ... 1500$00\n\nPeritos económicos e actuariais de 2.ª classe ... 1000$00\n\nPerito jurista ... 1500$00\n\nChefes de repartição ... 1000$00\n\nInspectores ... 1000$00\n\nPeritos contabilistas ... 1000$00\n\nAdjuntos de inspecção ... 2000$00\n\nChefes de divisão ... 1500$00\n\nChefe do sector de mecanografia ... 2500$00\n\nAdjunto do sector de mecanografia ... 1500$00\n\nChefes de secção ... 1000$00\n\nNotas\n\nO inspector provincial, o chefe dos serviços administrativos e os chefes de repartição, na qualidade de membros do conselho administrativo, perceberão adicionalmente, a gratificação mensal de 1000$00.\n\nOs funcionários que secretariam o conselho provincial de crédito e seguros perceberão adicionalmente a gratificação mensal de 1000$00.\n\nOs chefes de repartição, chefes de divisão e chefes de secção, e primeiros-oficiais, no caso de chefiarem delegações privativas, perceberão adicionalmente a gratificação mensal de 1000$00.\n\nQuando da transição para o quadro comum das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique, constante do mapa I anexo à presente portaria, resultar para alguns agentes diminuição de remunerações ou de outros direitos, enquanto permanecerem na categoria para onde transitem, os mesmos agentes mantêm as suas remunerações e outras regalias inerentes.\n\n> Aditado pelo/a [Portaria n.º 742/71](https://diariodarepublica.pt/dr/detalhe/portaria/742-1971-165998), publicado em 1971-12-31.\n\nMAPA III\n\nGratificações mensais máximas, por ocupação exclusiva, a atribuírem-se nos termos do n.º 4 da Portaria n.º 312/71, de 18 de Junho.\n\nFuncionários com curso superior ... 4000$00\n\nFuncionários diplomados com cursos técnicos médios ... 2500$00\n\nO Ministro do Ultramar, Joaquim Moreira da Silva Cunha."
+  }
+ }
+}

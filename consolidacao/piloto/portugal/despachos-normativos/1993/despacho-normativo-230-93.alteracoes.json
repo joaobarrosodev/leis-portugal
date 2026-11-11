@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "depois da unidade 5",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1.1 - Sempre que as operações de transformação e comercialização referidas no n.º 1 ocorram em empresas distintas, ao abrigo de contratos celebrados entre si, a ajuda será concedida às empresas responsáveis pela transformação, nos termos contratuais, as quais podem fazer reflectir aquela ajuda nesses contratos.\n\n1.2 - O disposto no ponto anterior produz efeitos a partir de 1 de Abril de 1993.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:632073:por",
+    "alterador": "pt:dre:542184:por;pt:dre:223049:por"
+  },
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "9 - O cálculo do montante da ajuda a conceder terá em conta as quantidades reais indicadas por cada empresa e os montantes unitários fixados no anexo I.",
+    "depois": "9 - O cálculo do montante da ajuda a conceder em cada trimestre terá em conta as quantidades reais relativas ao mesmo trimestre e indicadas por cada empresa e os montantes unitários fixados no anexo I, podendo, em casos devidamente justificados e autorizados por despacho do Ministro da Agricultura, aquele montante ser corrigido em função de alterações de quantidade relativas a trimestres anteriores.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:632073:por",
+    "alterador": "pt:dre:542184:por;pt:dre:223049:por"
+  },
+  {
+    "artigo": "unidades 26-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "13 - Os beneficiários da ajuda devem possuir contabilidade organizada nos termos da legislação em vigor e manter à disposição do INGA, durante os três anos seguintes a cada ano de concessão de ajuda, os seguintes elementos:",
+    "depois": "13 - Os beneficiários da ajuda devem possuir contabilidade organizada nos termos da legislação em vigor e manter à disposição do INGA, durante os três anos seguintes a cada ano de concessão da ajuda, os seguintes elementos:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:632073:por",
+    "alterador": "pt:dre:542184:por;pt:dre:223049:por"
+  },
+  {
+    "artigo": "unidades 28-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Um inventário permanente das existências que identifique, nomeadamente:",
+    "depois": "Registo de movimentação física das existências que indentifique, nomeadamente:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:632073:por",
+    "alterador": "pt:dre:542184:por;pt:dre:223049:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Assim, ao abrigo do disposto no n.º 2 do artigo 8.º do [Decreto Regulamentar n.º 51/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1986-222604), de 6 de Outubro:",
+    "depois": "Assim, ao abrigo do disposto no n.º 2 do artigo 18.º do [Decreto Regulamentar n.º 51/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1986-222604), de 6 de Outubro:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:633552:por",
+    "alterador": "pt:dre:521575:por"
+  }
+]

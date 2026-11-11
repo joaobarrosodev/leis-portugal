@@ -40,10 +40,25 @@ notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-06-29'
+version_history:
+  file: despacho-normativo-125-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-06-29'
+    amending: pt:dre:245139:por
+    amending_title: Declaração de Rectificação n.º 159/91
+    changes:
+    - Altera Artigo unidades 2-2
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/125/1991/06/11/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:48:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 159/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1991/despacho-normativo-125-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,11 +126,15 @@ validation:
 
 # Despacho Normativo n.º 125/91
 
-Considerando que, em 5 de Março de 1991, cessou a comissão de serviço da licenciada Georgete de Castro Madureira Carmo Simões, à data chefe de divisão do Instituto Nacional de Intervenção e Garantia Agrícola;
+Considerando que, em 5 de Março de 1991, cessou a comissão de serviço da licenciada Maria Georgete de Castro Madureira Carmo Simões, à data chefe de divisão do Instituto Nacional de Intervenção e Garantia Agrícola;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 159/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/159-1991-245139), publicado em 1991-06-29.
 
 Considerando o disposto na alínea a) do n.º 2 do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, e nos n.os 4 e 5 do mesmo artigo e diploma, determina-se:
 
-1 - É criado no quadro de pessoal do Instituto Nacional de Intervenção e Garantia Agrícola, aprovado pela [Portaria n.º 745/89](https://diariodarepublica.pt/dr/detalhe/portaria/745-1989-618302), de 30 de Agosto, um lugar de assessor principal na carreira técnica superior, a extinguir quando vagar.
+1 - É criado no quadro de pessoal do Instituto Nacional de Intervenção e Garantia Agrícola, constante da [Portaria n.º 1227/90](https://diariodarepublica.pt/dr/detalhe/portaria/1227-1990-563588), de 21 de Dezembro, um lugar de assessor principal na carreira técnica superior, a extinguir quando vagar.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 159/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/159-1991-245139), publicado em 1991-06-29.
 
 2 - A criação do lugar referido no número anterior produz efeitos desde 5 de Março de 1991
 

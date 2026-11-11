@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-10-25'
+version_history:
+  file: portaria-450-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-04-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-10-25'
+    amending: pt:dre:307851:por
+    amending_title: Portaria n.º 1072/2010
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/450/2009/04/29/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:40:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1072/2010. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-450-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,7 +138,9 @@ Entretanto, a entidade concessionária veio requerer a sua renovação.
 
 Cumpridos os preceitos legais, com fundamento no disposto no artigo 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º, do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a actual redacção, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Pela presente portaria é renovada, por um período de seis anos, renovável automaticamente por um único e igual período, a concessão desta zona de caça, abrangendo o prédio rústico denominado Herdade do Brunhal, sito na freguesia de Figueira de Cavaleiros, município de Ferreira do Alentejo, com a área de 1675 ha.
+1.º Pela presente portaria é renovada, por um período de 10 anos, renovável automaticamente por um único e igual período, a concessão desta zona de caça, abrangendo o prédio rústico denominado Herdade do Brunhal, sito na freguesia de Figueira de Cavaleiros, município de Ferreira do Alentejo, com a área de 1675 ha.
+
+> Alterado pelo/a [Portaria n.º 1072/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1072-2010-307851), publicado em 2010-10-20.
 
 2.º A presente portaria produz efeitos a partir do dia 14 de Agosto de 2009.
 

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 20-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Podem ser submetidos a exame de revisão, para confirmação da subsistência de incapacidade permanente, no âmbito do programa referido no n.º 10.º, os titulares de pensões de invalidez dos regimes de segurança social.",
+    "depois": "Podem ser submetidos a exame de revisão, para confirmação da subsistência de incapacidade permanente, no âmbito do programa referido no n.º 1.º, os titulares de pensões de invalidez dos regimes de segurança social.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:634494:por",
+    "alterador": "pt:dre:425568:por"
+  },
+  {
+    "artigo": "unidades 47-47",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Na comunicação da cessação das prestações de invalidez, nos termos do n.º 3 do n.º 4.º, o Centro Nacional de Pensões informará os beneficiários das condições em que podem ter direito às prestações de desemprego, ao abrigo do disposto no [Decreto-Lei n.º 79-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1989-632907), de 13 de Março.",
+    "depois": "1 - Na comunicação da cessação das prestações de invalidez, nos termos do n.º 2 do n.º 6.º, o Centro Nacional de Pensões informará os beneficiários das condições em que podem ter direito às prestações de desemprego, ao abrigo do disposto no [Decreto-Lei n.º 79-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1989-632907), de 13 de Março.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:634494:por",
+    "alterador": "pt:dre:425568:por"
+  }
+]

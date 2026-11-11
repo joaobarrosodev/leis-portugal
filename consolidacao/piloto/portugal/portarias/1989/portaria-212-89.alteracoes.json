@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º A presente portaria produz efeitos a partir de 1 de Julho de 1989.",
+    "depois": "3.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:613722:por",
+    "alterador": "pt:dre:548809:por"
+  }
+]

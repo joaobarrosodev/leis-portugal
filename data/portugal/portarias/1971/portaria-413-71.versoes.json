@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:635624:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-08-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7be787a857d7e835"
+   ]
+  },
+  {
+   "date": "1971-11-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:631870:por",
+     "title": "Portaria n.º 656/71",
+     "published": "1971-11-29",
+     "dre_path": "/dr/detalhe/portaria/656-1971-631870"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-10"
+   ],
+   "fragments": [
+    "b7b5424ba762448a"
+   ]
+  }
+ ],
+ "fragments": {
+  "7be787a857d7e835": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Agosto\n\nManda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 74.º do [Decreto n.º 41968](https://diariodarepublica.pt/dr/detalhe/decreto/41968-1958-339383), de 22 de Novembro de 1958, autorizar o Governo-Geral de Moçambique a adoptar o seguinte procedimento:\n\n1.º Contratar com a empresa Construtora do Tâmega, Lda., com sede em Amarante, a empreitada da construção da barragem e órgãos de segurança e utilização da albufeira de Massingir, por quantia não superior a 708478315$00, com o seguinte escalonamento:\n\n1971 ... 30000000$00\n\n1972 ... 220000000$00\n\n1973 ... 200000000$00\n\n1974 ... 175000000$00\n\n1975 ... 70000000$00\n\n1976 ... 13478315$00\n\n... 708478315$00\n\n2.º Fazer face ao encargo previsto no número anterior para o ano em curso por conta da dotação inscrita na rubrica «Barragem de Massingir», empreendimento n.º 21 da alínea b) do n.º 1) do artigo 2907.º do capítulo 12.º da tabela de despesa extraordinária do orçamento geral da província de Moçambique para o corrente ano económico.\n\n3.º Suportar as despesas previstas para os anos de 1972 a 1976 por conta de verbas próprias a inscrever no orçamento da província e correspondentes àqueles anos.\n\nO Ministro do Ultramar, Joaquim Moreira da Silva Cunha.\n\nPara ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha."
+  },
+  "b7b5424ba762448a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1971-11-29",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 656/71](https://diariodarepublica.pt/dr/detalhe/portaria/656-1971-631870), publicado em 1971-11-29."
+   ],
+   "markdown": "de 6 de Agosto\n\nManda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 74.º do [Decreto n.º 41968](https://diariodarepublica.pt/dr/detalhe/decreto/41968-1958-339383), de 22 de Novembro de 1958, autorizar o Governo-Geral de Moçambique a adoptar o seguinte procedimento:\n\n1.º Contratar com a empresa Construtora do Tâmega, Lda., com sede em Amarante, a empreitada da construção da barragem e órgãos de segurança e utilização da albufeira de Massingir, por quantia não superior a 708478315$00, com o seguinte escalonamento:\n\n1971 ... 100000000$00\n\n1972 ... 175000000$00\n\n1973 ... 175000000$00\n\n1974 ... 175000000$00\n\n1975 ... 65000000$00\n\n1976 ... 18478315$00\n\n> Alterado pelo/a [Portaria n.º 656/71](https://diariodarepublica.pt/dr/detalhe/portaria/656-1971-631870), publicado em 1971-11-29.\n\n... 708478315$00\n\n2.º Fazer face ao encargo previsto no número anterior para o ano em curso por conta da dotação inscrita na rubrica «Barragem de Massingir», empreendimento n.º 21 da alínea b) do n.º 1) do artigo 2907.º do capítulo 12.º da tabela de despesa extraordinária do orçamento geral da província de Moçambique para o corrente ano económico.\n\n3.º Suportar as despesas previstas para os anos de 1972 a 1976 por conta de verbas próprias a inscrever no orçamento da província e correspondentes àqueles anos.\n\nO Ministro do Ultramar, Joaquim Moreira da Silva Cunha.\n\nPara ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha."
+  }
+ }
+}

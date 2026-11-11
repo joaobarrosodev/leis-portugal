@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-11-29'
+version_history:
+  file: portaria-413-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-08-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-11-29'
+    amending: pt:dre:631870:por
+    amending_title: Portaria n.º 656/71
+    changes:
+    - Altera Artigo unidades 5-10
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:32:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 656/71. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-413-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -97,17 +112,19 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1.º Contratar com a empresa Construtora do Tâmega, Lda., com sede em Amarante, a empreitada da construção da barragem e órgãos de segurança e utilização da albufeira de Massingir, por quantia não superior a 708478315$00, com o seguinte escalonamento:
 
-1971 ... 30000000$00
+1971 ... 100000000$00
 
-1972 ... 220000000$00
+1972 ... 175000000$00
 
-1973 ... 200000000$00
+1973 ... 175000000$00
 
 1974 ... 175000000$00
 
-1975 ... 70000000$00
+1975 ... 65000000$00
 
-1976 ... 13478315$00
+1976 ... 18478315$00
+
+> Alterado pelo/a [Portaria n.º 656/71](https://diariodarepublica.pt/dr/detalhe/portaria/656-1971-631870), publicado em 1971-11-29.
 
 ... 708478315$00
 

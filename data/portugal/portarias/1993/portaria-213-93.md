@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-05-24'
+version_history:
+  file: portaria-213-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-02-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-05-24'
+    amending: pt:dre:262851:por
+    amending_title: Portaria n.º 312/94
+    changes:
+    - Altera Artigo unidades 12-13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/213/1993/02/22/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:50:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 312/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-213-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,9 +153,11 @@ Os valores das prestações familiares, no âmbito do regime de segurança socia
 
 Abono de família
 
-1 - O montante do abono de família é de 2330$00 por cada descendente, salvo o disposto no número seguinte.
+1 - O montante do abono de família é de 2450$00 por cada descendente, salvo o disposto no número seguinte.
 
-2 - O montante mensal do abono de família relativamente ao terceiro descendente e seguintes é de 3500$00, tratando-se de agregados familiares cujos rendimentos ilíquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.
+2 - O montante mensal do abono de família relativamente ao terceiro descendente e seguintes é de 3680$00, tratando-se de agregados familiares cujos rendimentos ilíquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.
+
+> Alterado pelo/a [Portaria n.º 312/94](https://diariodarepublica.pt/dr/detalhe/portaria/312-1994-262851), publicado em 1994-05-19.
 
 3.º
 

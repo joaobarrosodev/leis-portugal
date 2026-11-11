@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 2-2",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Considerando que o assessor do quadro permanente da Direcção-Geral de Viação Dr. Eugénio da Costa Fonseca cessou, em 29 de Maio de 1993, as funções de director de serviço que vinha exercendo na referida Direcção-Geral desde 14 de Fevereiro de 1980;",
+    "depois": "Considerando que o assessor do quadro permanente da Direcção-Geral de Viação Dr. António Eugênio da Costa Fonseca cessou, em 29 de Maio de 1993, as funções de director de serviço que vinha exercendo na referida Direcção-Geral desde 14 de Fevereiro de 1980;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:645489:por",
+    "alterador": "pt:dre:664518:por"
+  }
+]

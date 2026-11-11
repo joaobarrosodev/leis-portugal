@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 66-66",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Problemas de Investigação ... 4",
+    "depois": "c) Problemas de Investigação ... 8",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:654549:por",
+    "alterador": "pt:dre:177656:por"
+  },
+  {
+    "artigo": "depois da unidade 70",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "h) Linguística Alemã ... 4",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:654549:por",
+    "alterador": "pt:dre:177656:por"
+  }
+]

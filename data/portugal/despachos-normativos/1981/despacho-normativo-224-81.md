@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-12-31'
+version_history:
+  file: despacho-normativo-224-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-08-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-12-31'
+    amending: pt:dre:144433:por
+    amending_title: Despacho Normativo n.º 352/81
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:10:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 352/81. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1981/despacho-normativo-224-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,7 +134,11 @@ Tendo em conta os trabalhos desenvolvidos pelo grupo de trabalho criado pelo Des
 
 4 - É atribuída uma dotação para capital social no montante de 104 milhões de escudos, a realizar por conta da dotação de 18000 milhões de escudos inscrita no Orçamento Geral do Estado para 1981, que se destina ao saneamento da estrutura financeira da empresa e que será complementada oportunamente por acções de consolidação do passivo e de reavaliação do activo.
 
-5 - É atribuída uma dotação de capital no montante de 319 milhões de escudos, a realizar por conta da dotação de 18000 milhões de escudos inscrita no Orçamento Geral do Estado para 1981, que se destina ao reembolso do crédito intercalar mobilizado para execução dos projectos inscritos no PISEE/80, de acordo com o [Despacho Normativo n.º 250/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/250-1980-470641), publicado no Diário da República, 1.ª série, de 16 de Agosto de 1980.
+5 - É atribuída uma dotação de capital no montante de 273 milhões de escudos, a realizar por conta da dotação de 18000 milhões de escudos inscrita no Orçamento Geral do Estado para 1981, que se destina ao reembolso do crédito intercalar mobilizado para execução dos projectos inscritos no PISEE/80, de acordo com o [Despacho Normativo n.º 250/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/250-1980-470641), publicado no Diário da República, 1.ª série, de 16 de Agosto de 1980.
+
+As despesas de investimento em bens patrimoniais referidas no n.º 1 serão financiadas, numa parcela correspondente a 3% do total, por uma dotação de capital de 46 milhões de escudos, a realizar por conta da dotação de 18000 milhões de escudos inscrita no Orçamento Geral do Estado para 1981.
+
+> Alterado pelo/a [Despacho Normativo n.º 352/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/352-1981-144433), publicado em 1981-12-31.
 
 6 - Para financiar as despesas de investimento referidas no n.º 1 fica a empresa autorizada a recorrer aos mercados interno e externo para a obtenção de capital alheio a médio ou longo prazo necessário à concretização dos projectos incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1981.
 

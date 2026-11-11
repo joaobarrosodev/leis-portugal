@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:643920:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-11-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "541969657ff0626b",
+    "164ded8c1f411cd1"
+   ]
+  },
+  {
+   "date": "2004-01-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:240828:por",
+     "title": "Portaria n.º 1/2004",
+     "published": "2004-01-05",
+     "dre_path": "/dr/detalhe/portaria/1-2004-240828"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 19-26"
+   ],
+   "fragments": [
+    "541969657ff0626b",
+    "28658e6e3687a098"
+   ]
+  }
+ ],
+ "fragments": {
+  "541969657ff0626b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Novembro\n\nSob proposta do Instituto Politécnico de Coimbra e do seu Instituto Superior de Engenharia;\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro);\n\nConsiderando o disposto no Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho, e na [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto;\n\nAo abrigo do disposto na Lei do Estatuto e Autonomia dos Estabelecimentos de Ensino Superior Politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro) e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso bietápico de licenciatura em Engenharia Electromecânica, do Instituto Superior de Engenharia de Coimbra, criado pela [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto, nos termos do anexo à presente portaria.\n\n2.º\n\nNorma revogatória\n\nFindo o processo de transição fixado nos termos do artigo 31.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, é revogada a [Portaria n.º 876/91](https://diariodarepublica.pt/dr/detalhe/portaria/876-1991-403174), de 24 de Agosto, que autorizou o Instituto Politécnico de Coimbra, através do seu Instituto Superior de Engenharia, a conferir o grau de bacharel em Engenharia Electromecânica.\n\n3.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do ano lectivo de 1998-1999, inclusive.\n\nO Ministro da Educação, Guilherme d'Oliveira Martins, em 27 de Outubro de 1999."
+  },
+  "164ded8c1f411cd1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Coimbra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Instituto Politécnico de Coimbra\n\nInstituto Superior de Engenharia\n\nCurso: Engenharia Electromecânica\n\n1.º ciclo\n\nGrau de bacharel\n\n[(ver quadros n.os 1 a 6 no documento original)](https://files.diariodarepublica.pt/1s/1999/11/277b00/84268429.pdf)\n\n2.º ciclo\n\nGrau de licenciado\n\n[(ver quadros n.os 7 a 10 no documento original)](https://files.diariodarepublica.pt/1s/1999/11/277b00/84268429.pdf)"
+  },
+  "28658e6e3687a098": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Coimbra",
+   "in_force_from": "2004-01-10",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1-2004-240828), publicado em 2004-01-05."
+   ],
+   "markdown": "## ANEXO — Instituto Politécnico de Coimbra\n\nInstituto Superior de Engenharia\n\nCurso de Engenharia Electromecânica\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º semestre\n\n[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)\n\nQUADRO N.º 2\n\n2.º semestre\n\n[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)\n\nQUADRO N.º 3\n\n3.º semestre\n\n[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)\n\nQUADRO N.º 4\n\n4.º semestre\n\n[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)\n\nQUADRO N.º 5\n\n5.º semestre\n\n[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)\n\nQUADRO N.º 6\n\n6.º semestre\n\n[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)\n\n2.º ciclo - Grau de licenciado\n\nQUADRO N.º 7\n\n1.º semestre\n\n[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)\n\nQUADRO N.º 8\n\n2.º semestre\n\n[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)\n\nQUADRO N.º 9\n\n3.º semestre\n\n[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)\n\nQUADRO N.º 10\n\n4.º semestre\n\n[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)](https://files.diariodarepublica.pt/1s/2004/01/003b00/00480051.pdf)\n\n> Alterado pelo/a [Portaria n.º 1/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1-2004-240828), publicado em 2004-01-05."
+  }
+ }
+}

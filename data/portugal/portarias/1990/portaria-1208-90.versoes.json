@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:563594:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1990-12-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4f400cad03f12b7a"
+   ]
+  },
+  {
+   "date": "1991-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:444266:por",
+     "title": "Declaração de Rectificação n.º 7/91",
+     "published": "1991-01-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/7-1991-444266"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "cf573a40d90e0a5e"
+   ]
+  }
+ ],
+ "fragments": {
+  "4f400cad03f12b7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Dezembro\n\nManda o Governo, pelos Ministros das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo, nos termos do disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 355/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1987-496757), de 14 de Novembro, o seguinte:\n\n1.º Fixar o porte mínimo da carta ordinária em 35$00.\n\n2.º Fixar em 3$50 a taxa de uma palavra telegráfica e em 100$00 a taxa fixa do telegrama ordinário, no serviço nacional.\n\n3.º Fixar em 12$80 a taxa de uma comunicação local de telex com mínimo de duração, em 6250$00 a taxa de assinatura mensal e em 20000$00 a taxa de instalação da linha de rede, não se incluindo nestas taxas o equipamento.\n\n4.º Fixar em 9$10 a taxa unitária de uma conversação telefónicas, em 1450$00 a taxa de assinatura mensal de um posto telefónico principal (linha de rede) e em 12000$00 a respectiva taxa de instalação.\n\n5.º Fixar em 1$30 a taxa do minuto de ligação à TELEPAC, via acesso directo, em 108$00 a taxa por cada quilossegmento e em 46000$00 a taxa de instalação e fixar as taxas de assinatura mensal dos acessos assíncrono a 1200 bits/s e síncrono a 2400 bits/s em 17100$00 e 21000$00, respectivamente.\n\n6.º Autorizar os operadores a, para efeitos de cobrança, arredondarem o valor final das facturas, exceptuando as que apenas incluam valores respeitantes ao tarifário do correio, para valor inteiro de escudos imediatamente superior.\n\n7.º Determinar que esta portaria entre em vigor no dia 1 de Janeiro de 1991, podendo os operadores aplicar o novo tarifário à medida que as suas condições técnicas o permitam.\n\nMinistérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.\n\nAssinada em 29 de Novembro de 1990.\n\nO Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira."
+  },
+  "cf573a40d90e0a5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-01-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 7/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-1991-444266), publicado em 1991-01-31."
+   ],
+   "markdown": "de 18 de Dezembro\n\nManda o Governo, pelos Ministros das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo, nos termos do disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 355/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1987-496757), de 14 de Novembro, o seguinte:\n\n1.º Fixar o porte mínimo da carta ordinária em 35$00.\n\n2.º Fixar em 3$50 a taxa de uma palavra telegráfica e em 100$00 a taxa fixa do telegrama ordinário, no serviço nacional.\n\n3.º Fixar em 12$80 a taxa de uma comunicação local de telex com mínimo de duração, em 6250$00 a taxa de assinatura mensal e em 20000$00 a taxa de instalação da linha de rede, não se incluindo nestas taxas o equipamento.\n\n4.º Fixar em 9$10 a taxa unitária de uma conversação telefónicas, em 1450$00 a taxa de assinatura mensal de um posto telefónico principal (linha de rede) e em 12000$00 a respectiva taxa de instalação, não se incluindo nestas taxas o equipamento.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 7/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-1991-444266), publicado em 1991-01-31.\n\n5.º Fixar em 1$30 a taxa do minuto de ligação à TELEPAC, via acesso directo, em 108$00 a taxa por cada quilossegmento e em 46000$00 a taxa de instalação e fixar as taxas de assinatura mensal dos acessos assíncrono a 1200 bits/s e síncrono a 2400 bits/s em 17100$00 e 21000$00, respectivamente.\n\n6.º Autorizar os operadores a, para efeitos de cobrança, arredondarem o valor final das facturas, exceptuando as que apenas incluam valores respeitantes ao tarifário do correio, para valor inteiro de escudos imediatamente superior.\n\n7.º Determinar que esta portaria entre em vigor no dia 1 de Janeiro de 1991, podendo os operadores aplicar o novo tarifário à medida que as suas condições técnicas o permitam.\n\nMinistérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.\n\nAssinada em 29 de Novembro de 1990.\n\nO Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira."
+  }
+ }
+}

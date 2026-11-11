@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 29-29",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Universidade Moderna (Lisboa)",
+    "depois": "## ANEXO — Universidade Moderna de Lisboa",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:630838:por",
+    "alterador": "pt:dre:189748:por"
+  },
+  {
+    "artigo": "unidades 34-34",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)",
+    "depois": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:630838:por",
+    "alterador": "pt:dre:189748:por"
+  },
+  {
+    "artigo": "unidades 37-37",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)",
+    "depois": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:630838:por",
+    "alterador": "pt:dre:189748:por"
+  },
+  {
+    "artigo": "unidades 40-40",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)",
+    "depois": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:630838:por",
+    "alterador": "pt:dre:189748:por"
+  },
+  {
+    "artigo": "unidades 43-43",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)](https://files.diariodarepublica.pt/1s/2001/09/204b00/57175719.pdf)",
+    "depois": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:630838:por",
+    "alterador": "pt:dre:189748:por"
+  }
+]

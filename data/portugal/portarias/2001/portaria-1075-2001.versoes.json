@@ -1,0 +1,68 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:631071:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-09-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c9da80a8faadf706",
+    "679c4c21b7a44697"
+   ]
+  },
+  {
+   "date": "2001-10-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:584015:por",
+     "title": "Portaria n.º 1219/2001",
+     "published": "2001-10-23",
+     "dre_path": "/dr/detalhe/portaria/1219-2001-584015"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 13-13",
+    "Altera Artigo unidades 15-15"
+   ],
+   "fragments": [
+    "c9da80a8faadf706",
+    "86cb3962834c406b"
+   ]
+  }
+ ],
+ "fragments": {
+  "c9da80a8faadf706": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Setembro\n\nSob proposta dos estabelecimentos de ensino superior público indicados no anexo à presente portaria;\n\nAo abrigo do disposto no n.º 2 do artigo 22.º do [Decreto-Lei n.º 353/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1999-582195), de 3 de Setembro:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nFixação de vagas\n\nSão fixadas, nos termos do anexo à presente portaria, as vagas para a candidatura à matrícula e inscrição, no ano lectivo de 2001-2002, nos cursos de complemento de formação em Enfermagem ministrados em estabelecimentos de ensino superior público.\n\n2.º\n\nEntrada em vigor\n\nEsta portaria entra em vigor no dia imediato ao da sua publicação.\n\nPelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Estado do Ensino Superior, em 13 de Agosto de 2001."
+  },
+  "679c4c21b7a44697": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Curso de complemento de formação em Enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Curso de complemento de formação em Enfermagem\n\nVagas para o ano lectivo de 2001-2002\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/205b00/57485748.pdf)"
+  },
+  "86cb3962834c406b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Curso de complemento de formação em enfermagem",
+   "in_force_from": "2001-10-24",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1219/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1219-2001-584015), publicado em 2001-10-23.",
+    "Alterado pelo/a [Portaria n.º 1219/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1219-2001-584015), publicado em 2001-10-23."
+   ],
+   "markdown": "## ANEXO — Curso de complemento de formação em enfermagem\n\n> Alterado pelo/a [Portaria n.º 1219/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1219-2001-584015), publicado em 2001-10-23.\n\nVagas para o ano lectivo de 2001-2002\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/246b00/68066807.pdf)\n\n> Alterado pelo/a [Portaria n.º 1219/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1219-2001-584015), publicado em 2001-10-23."
+  }
+ }
+}

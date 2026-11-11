@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-05-31'
+version_history:
+  file: portaria-1160-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-11-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-05-31'
+    amending: pt:dre:631009:por
+    amending_title: Portaria n.º 466/91
+    changes:
+    - Altera Artigo unidades 19-25
+    - Adita Artigo depois da unidade 97
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:11:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 466/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-1160-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -154,19 +170,25 @@ A prova geral de acesso realiza-se em duas épocas: normal e especial.
 
 Época especial
 
-1 - Apenas podem realizar a prova na época especial:
+1 - A época especial tem duas chamadas.
+
+2 - Cada estudante pode apresentar-se a ambas as chamadas, prevalecendo a melhor classificação.
+
+3 - A apresentação à 2.ª chamada não carece de outra inscrição.
+
+4 - Apenas podem realizar a prova na época especial:
 
 a) Os estudantes que reúnam as condições para se apresentarem à candidatura pelo contingente especial para emigrantes portugueses e seus familiares, conforme definido no n.º 20.º da presente portaria;
 
-b) Os estudantes, portugueses ou estrangeiros, que tenham feito o ensino secundário numa língua curricular não portuguesa, quer no estrangeiro quer em Portugal;
+b) Os estudantes, portugueses ou estrangeiros, que tenham feito o ensino secundário numa língua curricular não portuguesa, quer no estrangeiro, quer em Portugal;
 
 c) Os estudantes, portugueses ou estrangeiros, que tenham feito o ensino secundário português no estrangeiro.
 
-2 - A época especial tem apenas uma chamada.
+5 - Não podem apresentar-se à época especial os estudantes que se hajam apresentado à época normal.
 
-3 - Não podem apresentar-se à época especial os estudantes que se hajam apresentado à época normal.
+6 - Aos estudantes que, em infracção ao disposto nos números anteriores, realizem a prova em mais de uma época serão anuladas todas as provas realizadas.
 
-4 - Aos estudantes que, em infracção ao disposto nos números anteriores, realizem a prova em mais de uma época, serão anuladas todas as provas realizadas.
+> Alterado pelo/a [Portaria n.º 466/91](https://diariodarepublica.pt/dr/detalhe/portaria/466-1991-631009), publicado em 1991-05-31.
 
 5.º
 
@@ -311,6 +333,10 @@ Data de realização da prova
 2 - A 2.ª chamada da prova na época normal terá lugar no dia 18 de Fevereiro de 1991.
 
 3 - A chamada única da prova na época especial terá lugar no dia 5 de Agosto de 1991.
+
+4 - A 2.ª chamada da prova na época especial terá lugar no dia 9 de Agosto.
+
+> Aditado pelo/a [Portaria n.º 466/91](https://diariodarepublica.pt/dr/detalhe/portaria/466-1991-631009), publicado em 1991-05-31.
 
 15.º
 

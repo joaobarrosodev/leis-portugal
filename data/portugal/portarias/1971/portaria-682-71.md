@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-02-05'
+version_history:
+  file: portaria-682-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-12-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-02-05'
+    amending: pt:dre:407353:por
+    amending_title: Portaria n.º 79/74
+    changes:
+    - Adita Artigo depois da unidade 16
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:38:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 79/74. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-682-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,6 +135,12 @@ c) Menor idade.
 8.º Enquanto não forem integrados no quadro orgânico de algum dos serviços públicos da província, os pilotos aviadores de que trata o presente diploma ficarão directamente subordinados ao governador de distrito em que, sob proposta da Direcção Provincial dos Serviços de Aeronáutica Civil, forem colocados pelo governador-geral da província.
 
 9.º Os encargos resultantes de vencimentos, gratificações e demais abonos devidos aos pilotos aviadores referidos na presente portaria serão incluídos no capítulo 2.º da tabela de despesa do orçamento geral da província de Angola.
+
+10.º O primeiro provimento poderá efectuar-se, independentemente de concurso, por pilotos que, não satisfazendo as condições prescritas no n.º 3.º, estejam já a exercer, em qualquer situação, as funções de piloto nos governos de distrito, devendo, no entanto, num prazo de dezoito meses, obter a qualificação de voo por instrumentos.
+
+11.º A falta de qualificação a que se refere o número anterior, no prazo ali fixado, implica a caducidade imediata do contrato vigente.
+
+> Aditado pelo/a [Portaria n.º 79/74](https://diariodarepublica.pt/dr/detalhe/portaria/79-1974-407353), publicado em 1974-02-05.
 
 O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 

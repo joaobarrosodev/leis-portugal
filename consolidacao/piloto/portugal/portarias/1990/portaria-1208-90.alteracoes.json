@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º Fixar em 9$10 a taxa unitária de uma conversação telefónicas, em 1450$00 a taxa de assinatura mensal de um posto telefónico principal (linha de rede) e em 12000$00 a respectiva taxa de instalação.",
+    "depois": "4.º Fixar em 9$10 a taxa unitária de uma conversação telefónicas, em 1450$00 a taxa de assinatura mensal de um posto telefónico principal (linha de rede) e em 12000$00 a respectiva taxa de instalação, não se incluindo nestas taxas o equipamento.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:563594:por",
+    "alterador": "pt:dre:444266:por"
+  }
+]

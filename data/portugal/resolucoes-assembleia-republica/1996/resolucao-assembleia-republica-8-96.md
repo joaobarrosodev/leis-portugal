@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-03-08'
+version_history:
+  file: resolucao-assembleia-republica-8-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-02-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-03-08'
+    amending: pt:dre:621297:por
+    amending_title: Declaração de Rectificação n.º 4/96
+    changes:
+    - Altera Artigo unidades 3-3
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolassrep/8/1996/02/17/p/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:01:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 4/96.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-assembleia-republica/1996/resolucao-assembleia-republica-8-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -95,7 +110,9 @@ validation:
 
 Designação do Provedor de Justiça
 
-A Assembleia da República, em reunião plenária de 1 de Fevereiro de 1996, resolve designar, nos termos dos artigos 23.º, n.º 3, 166.º, alínea i), e 169.º, n.º 5, da Constituição, o conselheiro Dr. José Manuel Menezes de Sampaio Pimentel para o cargo de Provedor de Justiça.
+A Assembleia da República, em reunião plenária de 1 de Fevereiro de 1996, resolve designar, nos termos dos artigos 23.º, n.º 3, 166.º, alínea i), e 169.º, n.º 5, da Constituição, o conselheiro Dr. José Manuel Meneres Sampaio Pimentel para o cargo de Provedor de Justiça.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 4/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-1996-621297), publicado em 1996-03-08.
 
 Aprovada em 1 de Fevereiro de 1996.
 

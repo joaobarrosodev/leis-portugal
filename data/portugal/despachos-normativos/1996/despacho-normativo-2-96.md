@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-03-04'
+version_history:
+  file: despacho-normativo-2-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-01-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-03-04'
+    amending: pt:dre:621766:por
+    amending_title: Despacho Normativo n.º 9/96
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/2/1996/01/06/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:30:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 9/96. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1996/despacho-normativo-2-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,6 +143,10 @@ Assim, tendo em conta o disposto no Regulamento (CE) n.º [2505/95](http://data.
 2 - Os modelos de impressos que constituem o processo de candidatura serão fornecidos gratuitamente pelo INGA - Instituto Nacional de Intervenção e Garantia Agrícola.
 
 3 - Os pedidos de concessão do prémio serão entregues na direcção regional de agricultura da área da exploração, após o que a mesma procederá, através de visitas ao local, à verificação das informações neles contidas e remetê-los-á, devidamente fundamentados, ao INGA no prazo de 20 dias.
+
+Contudo, em casos excepcionais que impossibilitem o cumprimento do prazo acima referido, a direcção regional de agricultura poderá remeter ao INGA os processos devidamente fundamentados o mais tardar até 15 de Março de 1996.
+
+> Alterado pelo/a [Despacho Normativo n.º 9/96](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-1996-621766), publicado em 1996-02-28.
 
 4 - O INGA decide do seu deferimento e notifica o interessado até 20 dias após o termo do prazo indicado no número anterior, dando conhecimento à respectiva direcção regional de agricultura da sua decisão.
 

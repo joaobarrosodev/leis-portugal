@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-11-05'
+version_history:
+  file: portaria-465-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-05-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-11-05'
+    amending: pt:dre:546004:por
+    amending_title: Portaria n.º 1154/2006
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/465/2006/05/22/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:14:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1154/2006. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2006/portaria-465-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,7 +148,9 @@ Com fundamento no disposto no artigo 11.º, na alínea a) do artigo 40.º, no n.
 
 Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º São anexados à zona de caça associativa concessionada pela [Portaria n.º 501/2002](https://diariodarepublica.pt/dr/detalhe/portaria/501-2002-288206), de 27 de Abril, vários prédios rústicos situados nas freguesias de Bensafrim e Boliqueime, município de Loulé, com a área de 14 ha, ficando a mesma com a área total de 1267 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+1.º São anexados à zona de caça associativa concessionada pela [Portaria n.º 501/2002](https://diariodarepublica.pt/dr/detalhe/portaria/501-2002-288206), de 27 de Abril, vários prédios rústicos situados nas freguesias de Benafim e Boliqueime, município de Loulé, com a área de 14 ha, ficando a mesma com a área total de 1267 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+
+> Alterado pelo/a [Portaria n.º 1154/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1154-2006-546004), publicado em 2006-10-31.
 
 2.º A presente anexação só produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
 

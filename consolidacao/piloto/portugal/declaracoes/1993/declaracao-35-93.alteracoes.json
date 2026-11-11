@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "12.ª Delegação da Direcção-Geral da Contabilidade Pública, 16 de Fevereiro de 1993. - O Director, José Manuel Pereira Mentes.",
+    "depois": "12.ª Delegação da Direcção-Geral da Contabilidade Pública, 16 de Fevereiro de 1993. - O Director, José Manuel Pereira Mendes.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:634132:por",
+    "alterador": "pt:dre:409510:por"
+  }
+]

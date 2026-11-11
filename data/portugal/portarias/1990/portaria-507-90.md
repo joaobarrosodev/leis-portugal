@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-12-08'
+version_history:
+  file: portaria-507-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-07-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-12-08'
+    amending: pt:dre:628018:por
+    amending_title: Portaria n.º 1177-A/90
+    changes:
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:22:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1177-A/90. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-507-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,7 +157,9 @@ h) Para a aveia - 32000$00/t.
 
 4.º Os preços de orientação de mercado para o cereal importado, a partir de 1 de Julho de 1990, são os seguintes:
 
-a) Para o trigo-mole - os preços estabelecidos na alínea a) do n.º 3.º, acrescidos de 7200$00/t;
+a) Para o trigo-mole, os preços estabelecidos na alínea a) do n.º 3, acrescidos de 2875$00/t.
+
+> Alterado pelo/a [Portaria n.º 1177-A/90](https://diariodarepublica.pt/dr/detalhe/portaria/1177-a-1990-628018), publicado em 1990-12-03.
 
 b) Para o trigo-rijo - os preços estabelecidos na alínea b) do n.º 3.º para o trigo-rijo da classe A, acrescidos de 2270$00/t;
 

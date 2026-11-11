@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-04-18'
+version_history:
+  file: despacho-normativo-73-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-04-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-04-18'
+    amending: pt:dre:264749:por
+    amending_title: Despacho Normativo n.º 247/94; Despacho Normativo n.º 247/94
+    changes:
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/73/1991/04/05/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:53:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 247/94; Despacho
+    Normativo n.º 247/94. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1991/despacho-normativo-73-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,7 +158,9 @@ b) Acompanhar tecnicamente a execução dos investimentos previstos no plano ou 
 
 a) Caso o plano ou projecto tenha sido elaborado pelos serviços do Ministério da Agricultura, Pescas e Alimentação, o valor máximo elegível é o constane da alínea q) do n.º 1.º da [Portaria n.º 779/88](https://diariodarepublica.pt/dr/detalhe/portaria/779-1988-356732), de 5 de Dezembro;
 
-b) Nos restantes casos, o custo máximo elegível é de 4% do investimento objecto das ajudas, não podendo o seu valor global ultrapassar 3000 ECU.
+b) Nos restantes casos, o custo máximo elegível é de 4% do investimento objecto das ajudas, não podendo o seu valor global ultrapassar 3546 ECU.
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
 6 - A percentagem de subsídio a atribuir à despesa referida no número anterior é a que resulte da média ponderada dos níveis das ajudas consideradas desagregadamente para as componentes do investimento.
 

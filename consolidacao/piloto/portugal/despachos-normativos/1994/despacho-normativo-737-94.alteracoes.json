@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - É criado no quadro de pessoal da Direcção Regional de Agricultura do Algarve, constante do anexo IV à [Portaria n.º 826/93](https://diariodarepublica.pt/dr/detalhe/portaria/826-1993-626995), de 8 de Setembro, um lugar de assessor principal da carreira de técnico superior, a extinguir quando vagar.",
+    "depois": "1 - É criado no quadro de pessoal da Direcção Regional de Agricultura da Beira Litoral, constante do anexo IV à [Portaria n.º 826/93](https://diariodarepublica.pt/dr/detalhe/portaria/826-1993-626995), de 8 de Setembro, um lugar de assessor principal da carreira de técnico superior, a extinguir quando vagar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:624811:por",
+    "alterador": "pt:dre:533185:por"
+  }
+]

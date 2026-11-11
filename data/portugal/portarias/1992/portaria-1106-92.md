@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-03-02'
+version_history:
+  file: portaria-1106-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-12-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-03-02'
+    amending: pt:dre:657636:por
+    amending_title: Portaria n.º 229/93
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1106/1992/12/02/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:08:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 229/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-1106-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,7 +140,9 @@ Ao abrigo do disposto nos artigos 15.º e 16.º do Decreto-Lei n.º 348/88, de 3
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º É autorizada a importação de batata-semente da variedade Kennebec originária do Canadá durante o período de 1 de Novembro a 31 de Dezembro de 1992, último dia de entrada na Comunidade.
+1.º É autorizada a importação de batata-semente de variedade Kennebec originária do Canadá, durante o período de 1 de Novembro de 1992 a 31 de Março de 1993.
+
+> Alterado pelo/a [Portaria n.º 229/93](https://diariodarepublica.pt/dr/detalhe/portaria/229-1993-657636), publicado em 1993-02-25.
 
 2.º As condições fitossanitárias a que deve obedecer a batata-semente importada nos termos do número anterior são as que constam da Decisão da Comissão n.º [89/599/CEE](http://data.europa.eu/eli/dec/1989/599/oj?locale=pt), de 9 de Novembro de 1989.
 

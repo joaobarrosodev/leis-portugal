@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 70-71",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Engenharia Agro-Pecuária ... 2\n\nEngenharia Alimentar ... 2",
+    "depois": "Engenharia Agro-Pecuária ... 5\n\nEngenharia Alimentar ... 4",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:632060:por",
+    "alterador": "pt:dre:577349:por"
+  }
+]

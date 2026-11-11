@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-09-27'
+version_history:
+  file: portaria-887-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-10-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-09-27'
+    amending: pt:dre:547642:por
+    amending_title: Portaria n.º 838/89
+    changes:
+    - Altera Artigo unidades 18-19
+    - Altera Artigo unidades 22-22
+    - Altera Artigo unidades 28-35
 identifiers:
   celex: null
   eli: null
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:57:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 838/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-887-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,15 +157,23 @@ A área científica do curso é a de Estudos Anglo-Portugueses.
 
 1 - São áreas obrigatórias:
 
-a) Estudos Anglo-Portugueses;
+a) Estudos Anglo-Portugueses/Estudos Anglo-Americanos;
 
-Análise das Fontes e Crítica Literária.
+b) Análise das Fontes e Crítica Literária.
+
+> Alterado pelo/a [Portaria n.º 838/89](https://diariodarepublica.pt/dr/detalhe/portaria/838-1989-547642), publicado em 1989-09-22.
 
 2 - São áreas opcionais:
 
 a) Literatura Portuguesa;
 
-b) Literatura Inglesa.
+b) Literatura de Expressão Inglesa;
+
+c) Culturas de Expressão Inglesa;
+
+d) Culturas de Expressão Portuguesa.
+
+> Alterado pelo/a [Portaria n.º 838/89](https://diariodarepublica.pt/dr/detalhe/portaria/838-1989-547642), publicado em 1989-09-22.
 
 5.º
 
@@ -160,21 +185,23 @@ A duração normal do curso é de dois anos lectivos.
 
 (Unidades de crédito)
 
-As unidades de crédito necessárias à obtenção do curso distribuem-se da seguinte forma:
+I - Áreas obrigatórias:
 
-I) Áreas obrigatórias:
-
-a) Estudos Anglo-Portugueses ... 8
+a) Estudos Anglo-Portugueses/Estudos Anglo-Americanos ... 8
 
 b) Análise das Fontes e Crítica Literária ... 4
 
-II):
+II - Áreas opcionais:
 
 a) Literatura Portuguesa ... 4
 
-b) Literatura Inglesa ... 4
+b) Literatura de Expressão Inglesa ... 4
 
-Total ... 16
+c) Culturas de Expressão Inglesa ... 4
+
+d) Culturas de Expressão Portuguesa ... 4
+
+> Alterado pelo/a [Portaria n.º 838/89](https://diariodarepublica.pt/dr/detalhe/portaria/838-1989-547642), publicado em 1989-09-22.
 
 7.º
 

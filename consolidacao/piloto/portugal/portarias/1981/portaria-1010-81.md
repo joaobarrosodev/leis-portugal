@@ -1,0 +1,199 @@
+---
+id: pt:dre:567966:por
+title: Portaria n.º 1010/81
+original: data/portugal/portarias/1981/portaria-1010-81.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:370206:por
+    title: Portaria n.º 619/88
+    publication_date: '1988-09-06'
+---
+
+# Portaria n.º 1010/81
+
+de 24 de Novembro
+
+Sob proposta da comissão instaladora da Faculdade de Economia da Universidade Nova de Lisboa;
+
+Ao abrigo do disposto nos Decretos-Leis n.os [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), de 7 de Agosto, e [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e das Universidades, o seguinte:
+
+1.º
+
+(Criação)
+
+A Universidade Nova de Lisboa, através da Faculdade de Economia, concede o grau de mestre em Gestão de Empresas.
+
+2.º
+
+(Organização do curso)
+
+O curso especializado conducente ao mestrado em Gestão de Empresas, adiante simplesmente designado por curso, organiza-se pelo sistema de unidades de crédito.
+
+3.º
+
+(Área científica)
+
+A área científica do curso é a Gestão de Empresas.
+
+4.º
+
+(Áreas obrigatórias e opcionais)
+
+1 - São áreas obrigatórias:
+
+a) Métodos Quantitativos;
+
+b) Direito de Empresa;
+
+c) Teoria Económica;
+
+d) Marketing;
+
+e) Finanças;
+
+f) Recursos Humanos;
+
+g) Política de Empresa.
+
+2 - São áreas opcionais:
+
+a) Métodos Quantitativos;
+
+b) Informática de Gestão;
+
+c) Finanças;
+
+d) Marketing;
+
+e) Política de Empresa.
+
+5.º
+
+(Duração normal)
+
+A duração normal do curso é de 3 trimestres lectivos.
+
+6.º
+
+(Unidades de crédito)
+
+As unidades de crédito necessárias à conclusão do curso são 37,5, distribuídas da seguinte forma:
+
+> Alterado pelo/a [Portaria n.º 619/88](https://diariodarepublica.pt/dr/detalhe/portaria/619-1988-370206), publicado em 1988-09-06.
+
+a) Áreas obrigatórias:
+
+I) Métodos Quantitativos ... 5
+
+II) Direito de Empresa ... 2,5
+
+III) Teoria Económica ... 2,5
+
+IV) Marketing ... 5
+
+V) Finanças ... 7,5
+
+> Alterado pelo/a [Portaria n.º 619/88](https://diariodarepublica.pt/dr/detalhe/portaria/619-1988-370206), publicado em 1988-09-06.
+
+VI) Recursos Humanos ... 5
+
+VII) Política de Empresa ... 5
+
+> Alterado pelo/a [Portaria n.º 619/88](https://diariodarepublica.pt/dr/detalhe/portaria/619-1988-370206), publicado em 1988-09-06.
+
+b) Áreas opcionais:
+
+I) Métodos Quantitativos ... 5
+
+II) Informática de Gestão ... 5
+
+III) Finanças ... 5
+
+IV) Marketing ... 5
+
+V) Política de Empresa ... 5
+
+7.º
+
+(Precedência)
+
+A tabela e o regime de precedência serão fixados pelo conselho científico.
+
+8.º
+
+(Habilitação de acesso)
+
+1 - São admitidos à candidatura à matrícula no curso os titulares de uma licenciatura por uma universidade portuguesa ou legalmente equivalente que tenham sido aprovados em teste de aptidão.
+
+2 - O teste de aptidão, que terá essencialmente como objectivo avaliar o nível dos candidatos nas áreas científicas de base correspondentes ao curso, terá as suas regras e conteúdo fixados pelo conselho científico da Faculdade de Economia da Universidade Nova de Lisboa.
+
+9.º
+
+Limitações quantitativas
+
+1 - A matrícula e a inscrição no curso estão sujeitas a limitações quantitativas a fixar anualmente por despacho do reitor da Universidade Nova de Lisboa, ao abrigo do disposto na alínea e) do artigo 2.º do [Decreto-Lei n.º 323/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1984-400032), de 9 de Outubro, sob proposta do conselho científico.
+
+2 - O curso não poderá funcionar com um número de inscrições inferior a vinte.
+
+3 - O despacho a que se refere o n.º 1 estabelecerá ainda:
+
+a) Qual a percentagem do numerus clausus que será reservada prioritariamente a docentes de estabelecimentos de ensino superior;
+
+b) Qual a percentagem do numerus clausus que será reservada prioritariamente a candidatos que não sejam docentes de estabelecimentos de ensino superior, a qual não poderá ser inferior a 50%;
+
+c) Qual o número mínimo de inscrições indispensável ao funcionamento do curso, se mais elevado que o referido no n.º 2.
+
+4 - O despacho a que se refere o n.º 1 deverá ser publicado na 2.ª série do Diário da República antes do início do prazo de candidatura.
+
+> Alterado pelo/a [Portaria n.º 619/88](https://diariodarepublica.pt/dr/detalhe/portaria/619-1988-370206), publicado em 1988-09-06.
+
+10.º
+
+(Critérios de selecção)
+
+1 - Os candidatos à matrícula no curso serão seleccionados pelo conselho científico, tendo em consideração os seguintes critérios:
+
+a) Classificação de licenciatura a que se refere o artigo 8.º ou de outros graus já obtidos pelos candidatos;
+
+b) Currículo académico, científico e técnico;
+
+c) Experiência profissional;
+
+d) Resultado do teste de aptidão;
+
+e) Experiência docente.
+
+2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas na alínea a) do n.º 3 do n.º 9.º, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino.
+
+> Alterado pelo/a [Portaria n.º 619/88](https://diariodarepublica.pt/dr/detalhe/portaria/619-1988-370206), publicado em 1988-09-06.
+
+3 - O conselho científico poderá determinar aos candidatos à matrícula a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco da licenciatura ou outras como condição prévia para a candidatura à matrícula no curso.
+
+4 - A selecção a que se refere o presente artigo será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo quando arguida de vício de forma.
+
+11.º
+
+(Regime geral)
+
+As regras de matrícula e inscrição, bem como o regime de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso, serão os previstos na lei para os cursos de licenciatura naquilo em que não forem contrariados pelo disposto na presente portaria e pela natureza do curso.
+
+12.º
+
+(Calendário)
+
+Os prazos de candidatura e de inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o n.º 9.º
+
+13.º
+
+(Doutoramento em Organização e Gestão de Empresas)
+
+1 - A titularidade do grau de mestre em Gestão de Empresas não satisfaz por si só as condições do n.º 1 do artigo 3.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, devendo o candidato às provas conducentes ao grau de doutor demonstrar igualmente a titularidade de licenciatura que satisfaça as referidas condições.
+
+2 - Os titulares de aprovação no curso admitidos nos termos da lei às provas conducentes ao grau de doutor em Organização e Gestão de Empresas terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do referido grau.
+
+Ministério da Educação e das Universidades, 12 de Novembro de 1981. - O Ministro da Educação e das Universidades, Vítor Pereira Crespo.

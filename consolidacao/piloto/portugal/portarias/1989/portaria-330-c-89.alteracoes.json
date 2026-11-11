@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 28-34",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º Os preços de orientação de mercado para o cereal importado, a partir de 1 de Julho de 1989, são os seguintes:\n\na) Para o trigo-mole, os preços estabelecidos na alínea a) do n.º 3, acrescidos de 7200$00/t;\n\nb) Para o trigo-rijo, os preços estabelecidos na alínea b) do n.º 3 para o trigo-rijo da classe A, acrescidos de 2270$00/t;\n\nc) Para o milho, o preço de 42000$00/t;\n\nd) Para a cevada, o preço de 36500$00/t;\n\ne) Para o sorgo, o preço de 37525$00/t;\n\nf) Para a aveia, o preço de 30000$00/t.",
+    "depois": "4.º - 1 - Os preços de orientação de mercado para os cereais importados, com excepção do trigo, a partir de 1 de Julho de 1989, são os seguintes:\n\na) Para o milho, 42000$00/t;\n\nb) Para a cevada, 36500$00/t;\n\nc) Para o sorgo, 37525$00/t;\n\nd) Para a aveia, 30000$00/t.\n\n2 - Os preços de orientação de mercado para o trigo importado, a partir de 1 de Julho de 1989 e até ao dia 14 do mesmo mês, são os seguintes:\n\na) Para o trigo-mole, os preços estabelecidos na alínea a) do n.º 3.º, acrescidos de 2875$00/t;\n\nb) Para o trigo-rijo, os preços estabelecidos na alínea b) do n.º 3.º para o trigo-rijo da classe A, acrescidos de 2270$00/t.\n\n3 - Os preços de orientação de mercado para o trigo importado, a partir de 15 de Julho de 1989, são os seguintes:\n\na) Para o trigo-mole, os preços estabelecidos na alínea a) do n.º 3.º, acrescidos de 7200$00/t;\n\nb) Para o trigo-rijo, os preços estabelecidos na alínea b) do n.º 3.º para o trigo-rijo da classe A, acrescidos de 2270$00/t.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:570675:por",
+    "alterador": "pt:dre:321932:por"
+  },
+  {
+    "artigo": "unidades 44-44",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3) Triticale - superior a 71 kg/hl até 72 kg/hl;",
+    "depois": "3) Triticale - superior a 71 kg/hl até 75 Kg/hl;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:570675:por",
+    "alterador": "pt:dre:321932:por"
+  },
+  {
+    "artigo": "depois da unidade 49",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "e) Quando a percentagem de outras impurezas, ou seja, as não constituídas por grãos, exceder os teores estabelecidos para a qualidade tipo, descontar-se-á ao preço de aquisição do cereal a percentagem equivalente ao excedente verificado.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:570675:por",
+    "alterador": "pt:dre:321932:por"
+  }
+]

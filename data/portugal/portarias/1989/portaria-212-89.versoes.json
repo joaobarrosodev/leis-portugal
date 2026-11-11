@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:613722:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-03-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d8674141e464bf68"
+   ]
+  },
+  {
+   "date": "1989-10-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:548809:por",
+     "title": "Portaria n.º 873/89",
+     "published": "1989-10-10",
+     "dre_path": "/dr/detalhe/portaria/873-1989-548809"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8"
+   ],
+   "fragments": [
+    "831952f84d74c59d"
+   ]
+  }
+ ],
+ "fragments": {
+  "d8674141e464bf68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Março\n\nConsiderando conveniente adoptar novos modelos de impressos para requisição de transportes de pessoal e material no âmbito das Forças Armadas, tendo em conta os objectivos de operacionalidade e de uniformização prosseguidos pelas empresas transportadoras:\n\nAo abrigo do disposto no artigo 31.º do Regulamento da Administração dos Transportes das Forças Armadas em Tempo de Paz (RETAFA), aprovado pelo [Decreto-Lei n.º 430/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1986-210839), de 30 de Dezembro:\n\nManda o Governo, pelos Ministros da Defesa Nacional e das Obras Públicas, Transportes e Comunicações, o seguinte:\n\n1.º São aprovados os modelos de impressos para requisição de transportes de pessoal por via aérea e por via terrestre, marítima e fluvial e de transporte de material e ou animais anexas à presente portaria.\n\n2.º Os impressos referidos no número anterior são adoptados para uso exclusivo das Forças Armadas, em substituição dos impressos dos modelos aprovados pelo [Decreto n.º 8023](https://diariodarepublica.pt/dr/detalhe/decreto/8023-1922-570080), de 4 de Fevereiro de 1922, e pela [Portaria n.º 13565](https://diariodarepublica.pt/dr/detalhe/portaria/13565-1951-625459), de 9 de Junho de 1951.\n\n3.º A presente portaria produz efeitos a partir de 1 de Julho de 1989.\n\nMinistérios da Defesa Nacional e das Obras Públicas, Transportes e Comunicações.\n\nAssinada em 13 de Fevereiro de 1989.\n\nO Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/06100/10951097.pdf)"
+  },
+  "831952f84d74c59d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1989-10-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 873/89](https://diariodarepublica.pt/dr/detalhe/portaria/873-1989-548809), publicado em 1989-10-10."
+   ],
+   "markdown": "de 14 de Março\n\nConsiderando conveniente adoptar novos modelos de impressos para requisição de transportes de pessoal e material no âmbito das Forças Armadas, tendo em conta os objectivos de operacionalidade e de uniformização prosseguidos pelas empresas transportadoras:\n\nAo abrigo do disposto no artigo 31.º do Regulamento da Administração dos Transportes das Forças Armadas em Tempo de Paz (RETAFA), aprovado pelo [Decreto-Lei n.º 430/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1986-210839), de 30 de Dezembro:\n\nManda o Governo, pelos Ministros da Defesa Nacional e das Obras Públicas, Transportes e Comunicações, o seguinte:\n\n1.º São aprovados os modelos de impressos para requisição de transportes de pessoal por via aérea e por via terrestre, marítima e fluvial e de transporte de material e ou animais anexas à presente portaria.\n\n2.º Os impressos referidos no número anterior são adoptados para uso exclusivo das Forças Armadas, em substituição dos impressos dos modelos aprovados pelo [Decreto n.º 8023](https://diariodarepublica.pt/dr/detalhe/decreto/8023-1922-570080), de 4 de Fevereiro de 1922, e pela [Portaria n.º 13565](https://diariodarepublica.pt/dr/detalhe/portaria/13565-1951-625459), de 9 de Junho de 1951.\n\n3.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 873/89](https://diariodarepublica.pt/dr/detalhe/portaria/873-1989-548809), publicado em 1989-10-10.\n\nMinistérios da Defesa Nacional e das Obras Públicas, Transportes e Comunicações.\n\nAssinada em 13 de Fevereiro de 1989.\n\nO Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/06100/10951097.pdf)"
+  }
+ }
+}

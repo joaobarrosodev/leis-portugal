@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-03-26'
+version_history:
+  file: portaria-493-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-09-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-03-26'
+    amending: pt:dre:312590:por
+    amending_title: Portaria n.º 313/83
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:34:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 313/83. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-493-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,7 +139,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência
 
 1.º Ao provimento, exercício e remunerações dos lugares do quadro da sede e delegações do Instituto de Assistência Psiquiátrica passam a aplicar-se, a partir de 1 de Outubro de 1971, as regras das carreiras hospitalares, com as adaptações constantes da presente portaria.
 
-2.º Para efeito da aplicação das regras das carreiras hospitalares, os lugares do quadro do Instituto serão equiparados aos lugares correspondentes dos hospitais centrais.
+2.º Para efeito da aplicação das regras das carreiras hospitalares, os lugares dos quadros do Instituto de Assistência Psiquiátrica e suas delegações são, para efeito da aplicação da carreira de administração hospitalar, equiparados aos dos hospitais centrais com mais de 700 camas, e, para efeito de aplicação da carreira médica, o director do Instituto e delegados serão equiparados, respectivamente, a director e a director clínico de hospital com mais de 500 camas.
+
+> Alterado pelo/a [Portaria n.º 313/83](https://diariodarepublica.pt/dr/detalhe/portaria/313-1983-312590), publicado em 1983-03-26.
 
 3.º Os lugares da carreira de administração regem-se pelo disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 498/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1970-147443), de 24 de Outubro.
 

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Factores de correcção extraordinária a aplicar a partir de Janeiro de 1993, nos termos do n.º 4 do artigo 12.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), de 20 de Dezembro.",
+    "depois": "Factores de correcção extraordinária a aplicar a partir de Janeiro de 1993, nos termos do n.º 4 do artigo 12.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), de 20 de Setembro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:627592:por",
+    "alterador": "pt:dre:668128:por"
+  }
+]

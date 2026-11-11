@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-04-30'
+version_history:
+  file: portaria-326-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-03-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-04-30'
+    amending: pt:dre:425568:por
+    amending_title: Declaração de Rectificação n.º 82/93
+    changes:
+    - Altera Artigo unidades 20-20
+    - Altera Artigo unidades 47-47
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/326/1993/03/19/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:53:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 82/93.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-326-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -153,7 +169,9 @@ A presente portaria tem por objectivo definir as metodologias e estabelecer os m
 
 Âmbito pessoal
 
-Podem ser submetidos a exame de revisão, para confirmação da subsistência de incapacidade permanente, no âmbito do programa referido no n.º 10.º, os titulares de pensões de invalidez dos regimes de segurança social.
+Podem ser submetidos a exame de revisão, para confirmação da subsistência de incapacidade permanente, no âmbito do programa referido no n.º 1.º, os titulares de pensões de invalidez dos regimes de segurança social.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 82/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/82-1993-425568), publicado em 1993-04-30.
 
 3.º
 
@@ -207,7 +225,9 @@ A falta de comparência do pensionista de invalidez ao exame de revisão de inca
 
 Actuação das instituições de segurança social
 
-1 - Na comunicação da cessação das prestações de invalidez, nos termos do n.º 3 do n.º 4.º, o Centro Nacional de Pensões informará os beneficiários das condições em que podem ter direito às prestações de desemprego, ao abrigo do disposto no [Decreto-Lei n.º 79-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1989-632907), de 13 de Março.
+1 - Na comunicação da cessação das prestações de invalidez, nos termos do n.º 2 do n.º 6.º, o Centro Nacional de Pensões informará os beneficiários das condições em que podem ter direito às prestações de desemprego, ao abrigo do disposto no [Decreto-Lei n.º 79-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1989-632907), de 13 de Março.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 82/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/82-1993-425568), publicado em 1993-04-30.
 
 2 - Os centros regionais de segurança social asseguram o acompanhamento da situação dos ex-pensionistas de invalidez, tendo em vista a concessão dos apoios sociais de que tiverem necessidade.
 

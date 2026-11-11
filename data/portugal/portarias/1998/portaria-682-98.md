@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-10-25'
+version_history:
+  file: portaria-682-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-09-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-10-25'
+    amending: pt:dre:667499:por
+    amending_title: Portaria n.º 922/99
+    changes:
+    - Altera Artigo unidades 4-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/682/1998/09/01/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:10:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 922/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-682-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,17 +145,9 @@ de 1 de Setembro
 
 Manda o Governo, pelo Ministro das Finanças, nos termos do artigo 2.º do [Decreto-Lei n.º 116/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1994-250664), de 3 de Maio, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 214/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1994-218496), de 19 de Agosto, que aprovou o Regulamento dos Impostos de Circulação e Camionagem, republicado pelo [Decreto-Lei n.º 89/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1998-165664), de 6 de Abril, o seguinte:
 
-1.º É aprovada a declaração de autoliquidação a que se refere o n.º 1 do artigo 9.º do Regulamento dos Impostos de Circulação e Camionagem, a qual terá as seguintes modalidades, de harmonia com as características dos veículos definidas no artigo 3.º do mesmo Regulamento:
+1.º - (Revogado.)
 
-1.1 - Modelo n.º 6, que constitui exclusivo da Imprensa Nacional-Casa da Moeda, E. P., destinado aos veículos a seguir indicados:
-
-1.1.1 - Veículos de peso bruto igual ou inferior a 12 t;
-
-1.1.2 - Veículos de peso bruto superior a 12 t, nos casos em que a informação pré-impressa na declaração referida nos pontos 1.2 e 1.3 contenha incorrecções, omissões ou se verifique qualquer outra anomalia;
-
-1.2 - Modelo n.º 6-A, destinado aos veículos articulados, constituídos por tractor e semi-reboque, com peso bruto superior a 12 t;
-
-1.3 - Modelo n.º 6-B, destinado aos veículos de peso superior a 12 t, bem como aos conjuntos formados por veículo automóvel-reboque, com o mesmo peso bruto.
+> Alterado pelo/a [Portaria n.º 922/99](https://diariodarepublica.pt/dr/detalhe/portaria/922-1999-667499), publicado em 1999-10-20.
 
 2.º É aprovada a declaração modelo n.º 11, prevista na subalínea v) da alínea b) do n.º 5 do artigo 1.º do citado Regulamento.
 

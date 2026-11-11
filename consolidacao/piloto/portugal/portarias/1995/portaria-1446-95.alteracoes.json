@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º - 1 - A CCMA é uma comissão consultiva do Instituto de Estruturas Agrárias e Desenvolvimento Rural (IEADR), com a seguinte composição:",
+    "depois": "2.º - 1 - A CCMA é uma comissão consultiva do Instituto de Hidráulica, Engenharia Rural e Ambiente (IHERA), com a seguinte composição:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:633732:por",
+    "alterador": "pt:dre:165456:por"
+  },
+  {
+    "artigo": "unidades 19-34",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Um representante de cada um dos seguintes organismos e associações:\n\nInstituto Florestal;\n\nDirecções regionais de agricultura;\n\nInstituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas;\n\nInstituto Português da Qualidade;\n\nDirecção-Geral de Viação;\n\nDirecção-Geral do Comércio;\n\nDirecção-Geral da Indústria;\n\nDirecção-Geral das Alfândegas;\n\nInstituto de Desenvolvimento e Inspecção das Condições de Trabalho;\n\nConfederação dos Agricultores de Portugal;\n\nAssociação do Comércio Automóvel de Portugal;\n\nAssociação dos Industriais Metalúrgicos e Metalomecânicos do Sul (AIMMS);\n\nAssociação dos Industriais Metalúrgicos e Metalomecânicos do Norte (AIMMN);\n\ne) Dois representantes do ensino agrícola;\n\nf) Três técnicos de reconhecida competência na área da mecanização agrícola, convidados pelo presidente, sob proposta da CCMA.",
+    "depois": "d) Um representante dos seguintes organismos e associações:\n\nMinistério da Ciência e da Tecnologia;\n\nDirecção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo;\n\nDirecção-Geral das Florestas;\n\nDirecção-Geral do Desenvolvimento Rural;\n\nDirecção-Geral da Indústria;\n\nDirecção-Geral das Relações Económicas e Internacionais;\n\nDirecção-Geral dos Transportes Terrestres;\n\nDirecção-Geral de Viação;\n\nDirecções regionais de agricultura;\n\nInstituto de Desenvolvimento e Inspecção das Condições de Trabalho;\n\nInstituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas;\n\nInstituto Nacional de Investigação Agrária;\n\nInstituto Português da Qualidade;\n\nAssociação do Comércio Automóvel de Portugal;\n\nAssociação dos Industriais Metalúrgicos, Metalomecânicos e Afins de Portugal;\n\nAssociação Nacional de Empreiteiros Florestais e Agrícolas;\n\nAssociação Nacional das Empresas Metalúrgicas e Metalomecânicas;\n\nConfederação dos Agricultores de Portugal;\n\nAssociação dos Jovens Agricultores de Portugal;\n\nConfederação Nacional das Federações das Cooperativas Agrícolas, C. R. L.;\n\nConfederação Nacional de Agricultura;\n\ne) Um representante do ensino superior agrícola;\n\nf) Técnicos de reconhecida competência na área da mecanização agrícola, até ao máximo de três, convidados pelo presidente, sob proposta da CCMA.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:633732:por",
+    "alterador": "pt:dre:165456:por"
+  }
+]

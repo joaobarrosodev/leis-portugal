@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Poderão ser admitidos como auxiliares de farmacêutico indivíduos que, embora não possuindo prática registada, revelem, em exame adequado, conhecimentos suficientes para o exercício de tais funções.",
+    "depois": "1.º Poderão ser admitidos como auxiliares de farmacêutico e classificados em grau a definir na regulamentação colectiva de trabalho para o sector indivíduos que, não possuindo prática registada, ou possuindo-a, tenham a ascensão na carreira congelada, revelem, em exame adequado, conhecimentos suficientes para o exercício de tais funções.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:561616:por",
+    "alterador": "pt:dre:599881:por"
+  },
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º O disposto no número anterior é aplicável, nomeadamente, àqueles que possuindo diploma de ajudante de farmácia obtido no estrangeiro pretendam ser registados como auxiliares de farmacêutico na Direcção-Geral de Saúde.",
+    "depois": "2.º O disposto no número anterior só é aplicável àqueles que provem a sua qualidade de ajudantes de farmácia ou categoria análoga obtida no estrangeiro ou ainda àqueles que tenham pelo menos 5 anos de prática registada e não tenham podido ascender ao grau máximo da respectiva carreira.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:561616:por",
+    "alterador": "pt:dre:599881:por"
+  },
+  {
+    "artigo": "unidades 11-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Um representante da Direcção-Geral de Saúde, que presidirá e só terá direito a voto em caso de empate;\n\nb) Um representante da Ordem dos Farmacêuticos;\n\nc) Um representante da Associação Nacional das Farmácias.",
+    "depois": "a) 1 representante da Direcção-Geral de Saúde, que presidirá e terá voto de qualidade;\n\nb) 1 representante da Ordem dos Farmacêuticos;\n\nc) 1 representante da Associação Nacional das Farmácias, que será obrigatoriamente licenciado em Farmácia;\n\nd) 1 representante do Sindicato Nacional dos Farmacêuticos;\n\ne) 1 representante dos sindicatos representativos dos ajudantes de farmácia.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:561616:por",
+    "alterador": "pt:dre:599881:por"
+  },
+  {
+    "artigo": "unidades 28-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "e) Quaisquer outros elementos de valorização que os candidatos entendam juntar.",
+    "depois": "e) Documento comprovativo de estar o candidato numa das situações previstas nos n.os 1.º e 2.º desta portaria;\n\nf) Quaisquer outros elementos de valorização que os candidatos entendam juntar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:561616:por",
+    "alterador": "pt:dre:599881:por"
+  }
+]

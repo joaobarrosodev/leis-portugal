@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-11-18'
+version_history:
+  file: portaria-1062-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-10-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-11-18'
+    amending: pt:dre:585022:por
+    amending_title: Portaria n.º 1060/92
+    changes:
+    - Adita Artigo depois da unidade 11
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:08:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1060/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-1062-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,6 +177,16 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 Criação
 
 O Instituto Politécnico de Faro, através da sua Escola Superior de Educação, confere o diploma do curso de Professores do Ensino Básico na variante de Educação Física, ministrando, em consequência, o respectivo curso.
+
+1.º-A
+
+Curso de Professores do Ensino Básico na variante de Educação Física
+
+1 - O curso de Professores do Ensino Básico na variante de Educação Física poderá ser ministrado em Faro e em Vila Real de Santo António.
+
+2 - À transferência de alunos entre as duas localidades onde a Escola Superior de Educação poderá ministrar o curso aplicam-se, com as necessárias adaptações, as regras do regime de transferência.
+
+> Aditado pelo/a [Portaria n.º 1060/92](https://diariodarepublica.pt/dr/detalhe/portaria/1060-1992-585022), publicado em 1992-11-13.
 
 2.º
 

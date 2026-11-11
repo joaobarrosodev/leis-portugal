@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:616786:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2010-01-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4f74d22cec66d2e1"
+   ]
+  },
+  {
+   "date": "2010-02-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:617109:por",
+     "title": "Decreto do Presidente da República n.º 13/2010",
+     "published": "2010-02-04",
+     "dre_path": "/dr/detalhe/decreto-presidente-republica/13-2010-617109"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-4"
+   ],
+   "fragments": [
+    "a7a1403761831448"
+   ]
+  }
+ ],
+ "fragments": {
+  "4f74d22cec66d2e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Janeiro\n\nO Presidente da República decreta, nos termos do n.º 2 do artigo 25.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de Julho, o seguinte:\n\nÉ confirmada a promoção ao posto de Major-General do Coronel Tirocinado de Cavalaria Carlos José Filipe Antunes Calçada, efectuada por deliberação de 13 de Janeiro de 2010 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional da mesma data.\n\nAssinado em 19 de Janeiro de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva."
+  },
+  "a7a1403761831448": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2010-02-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto do Presidente da República n.º 13/2010](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/13-2010-617109), publicado em 2010-02-04."
+   ],
+   "markdown": "de 22 de Janeiro\n\nO Presidente da República decreta, nos termos do n.º 2 do artigo 25.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de Julho, o seguinte:\n\nÉ confirmada a promoção ao posto de Major-General do Coronel Tirocinado de Cavalaria José Carlos Filipe Antunes Calçada, efectuada por deliberação de 13 de Janeiro de 2010 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional da mesma data.\n\n> Alterado pelo/a [Decreto do Presidente da República n.º 13/2010](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/13-2010-617109), publicado em 2010-02-04.\n\nAssinado em 19 de Janeiro de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva."
+  }
+ }
+}

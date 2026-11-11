@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-08-24'
+version_history:
+  file: portaria-972-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-10-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-08-24'
+    amending: pt:dre:406699:por
+    amending_title: Portaria n.º 369/96
+    changes:
+    - Adita Artigo depois da unidade 9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/972/1994/10/29/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:42:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 369/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-972-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,6 +161,14 @@ Manda o Governo, pela Ministra da Educação, o seguinte:
 Transferência
 
 O curso de bacharelato em Informática de Gestão, criado pela [Portaria n.º 547/90](https://diariodarepublica.pt/dr/detalhe/portaria/547-1990-575743), de 14 de Julho, na Escola Superior Agrária do Instituto Politécnico de Bragança, é transferido para a Escola Superior de Tecnologia e Gestão do mesmo Instituto.
+
+1.º-A
+
+Locais onde o curso é ministrado
+
+O curso pode ser ministrado em Bragança e em Mirandela.
+
+> Aditado pelo/a [Portaria n.º 369/96](https://diariodarepublica.pt/dr/detalhe/portaria/369-1996-406699), publicado em 1996-08-19.
 
 2.º
 

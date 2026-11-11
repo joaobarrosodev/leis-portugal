@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:659936:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2006-05-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5ff0304f7d58d76d"
+   ]
+  },
+  {
+   "date": "2006-10-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:545829:por",
+     "title": "Portaria n.º 1109/2006",
+     "published": "2006-10-17",
+     "dre_path": "/dr/detalhe/portaria/1109-2006-545829"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-4"
+   ],
+   "fragments": [
+    "bf194e98852e8b98"
+   ]
+  }
+ ],
+ "fragments": {
+  "5ff0304f7d58d76d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Maio\n\nCom fundamento no disposto no artigo 26.º e no n.º 1 do artigo 118.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro;\n\nOuvido o Conselho Cinegético Municipal de Abrantes:\n\nManda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Uva (processo n.º 4219-DGRF), pelo período de seis anos, e transferida a sua gestão para a Associação de Caça e Pesca de Silva, com o número de pessoa colectiva 502605626, com sede em 5225-163 Silva MDR.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de Uva, município de Vimioso, com a área de 596 ha.\n\n3.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 50% relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;\n\nb) 10% relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;\n\nc) 20% relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;\n\nd) 20% aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão.\n\n6.º A zona de caça criada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.\n\nPelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 4 de Abril de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 3 de Fevereiro de 2006.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/084b00/31483149.pdf)"
+  },
+  "bf194e98852e8b98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1109/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1109-2006-545829), publicado em 2006-10-17."
+   ],
+   "markdown": "de 2 de Maio\n\nCom fundamento no disposto no artigo 26.º e no n.º 1 do artigo 118.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro;\n\nOuvido o Conselho Cinegético Municipal de Vimioso:\n\n> Alterado pelo/a [Portaria n.º 1109/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1109-2006-545829), publicado em 2006-10-17.\n\nManda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Uva (processo n.º 4219-DGRF), pelo período de seis anos, e transferida a sua gestão para a Associação de Caça e Pesca de Silva, com o número de pessoa colectiva 502605626, com sede em 5225-163 Silva MDR.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de Uva, município de Vimioso, com a área de 596 ha.\n\n3.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 50% relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;\n\nb) 10% relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;\n\nc) 20% relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;\n\nd) 20% aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão.\n\n6.º A zona de caça criada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.\n\nPelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 4 de Abril de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 3 de Fevereiro de 2006.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/084b00/31483149.pdf)"
+  }
+ }
+}

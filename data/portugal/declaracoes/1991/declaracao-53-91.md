@@ -30,10 +30,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-07-31'
+version_history:
+  file: declaracao-53-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-04-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-07-31'
+    amending: pt:dre:521471:por
+    amending_title: Declaração de Rectificação n.º 175/91
+    changes:
+    - Altera Artigo unidades 11-11
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decl/53/1991/04/10/p/dre/pt/html
@@ -59,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T11:54:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 175/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/declaracoes/1991/declaracao-53-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,11 +153,15 @@ Orçamento das receitas do Estado
 
 No cap. 13, div. 01, subdiv. 01, as observações apostas às rubricas sob as C. E. 07.01.07 e 01.01.01 são alteradas, respectivamente, para:
 
-(1) Inclui 415057 contos, com compensação em receita, ao abrigo do artigo único do [Decreto-Lei n.º 216/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1984-385404), de 1 de Julho.
+(1) Inclui 422513 contos, com compensação em receita, ao abrigo do artigo único do [Decreto-Lei n.º 216/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1984-385404), de 1 de Julho.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 175/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/175-1991-521471), publicado em 1991-07-31.
 
 (5) Inclui, com compensação em receita, as importâncias de:
 
-704126 contos ao abrigo do artigo 13.º do [Decreto-Lei n.º 187/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1990-575126), de 7 de Junho, e do artigo 7.º do [Decreto-Lei n.º 199/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1990-574952), de 19 de Junho;
+917159 contos ao abrigo do artigo 13.º do [Decreto-Lei n.º 187/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1990-575126), de 7 de Junho, e do artigo 7.º do [Decreto-Lei n.º 199/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1990-574952), de 19 de Junho;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 175/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/175-1991-521471), publicado em 1991-07-31.
 
 7840000 contos ao abrigo do artigo 100.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio.
 

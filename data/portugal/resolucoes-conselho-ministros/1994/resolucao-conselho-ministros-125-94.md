@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-12-31'
+version_history:
+  file: resolucao-conselho-ministros-125-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-12-31'
+    amending: pt:dre:244935:por
+    amending_title: Declaração de Rectificação n.º 269/94
+    changes:
+    - Altera Artigo unidades 40-40
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/125/1994/12/23/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:32:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 269/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1994/resolucao-conselho-ministros-125-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -207,7 +222,9 @@ Os accionistas das sociedades a fundir que, em virtude do número de acções re
 
 4 - Acções atribuídas à IPE e tratamento das acções destinadas a trabalhadores - de acordo com a relação de troca das acções das três sociedades a fundir constantes do referido projecto, a IPE receberá 1070740 acções da nova sociedade resultante da fusão.
 
-Os trabalhadores da Companhia de Seguros Garantia, S. A., bem como aqueles que hajam mantido vínculo laboral durante mais de três anos, poderão adquirir à IPE até 98000 acções da sociedade resultante da fusão. Estas acções serão vendidas pelo preço, por acção, de 80% da média das cotações das primeiras 10 sessões em que ocorram transacções, pago em duas prestações semestrais sucessivas de 50% cada uma, vencendo-se a primeira no dia da celebração do contrato e a segunda até 180 dias depois, e não poderão ser alienadas enquanto não estiver paga a totalidade do preço.
+Os trabalhadores da Companhia de Seguros Garantia, S. A., bem como aqueles que hajam mantido vínculo laboral durante mais de três anos, poderão adquirir, mediante subscrição pública, até 98000 acções da sociedade resultante da fusão. Estas acções serão vendidas pelo preço, por acção, de 80% da média das cotações das últimas 10 sessões anteriores à realização da oferta pública de subscrição, pago em duas prestações semestrais sucessivas de 50% cada uma, vencendo-se a primeira no dia da celebração do contrato e a segunda até 180 dias depois, e não poderão ser alienadas enquanto não estiver paga a totalidade do preço.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 269/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/269-1994-244935), publicado em 1994-12-31.
 
 5 - Participadas qualificadas - após a concretização da presente fusão, o Grupo UAP (representado pela UAP Internacional, UAP Vie e UAP IARD) passará a deter 1904459 acções representativas do capital social da Aliança UAP - Companhia de Seguros, S. A. (27,568893%), a que corresponderão 19044 votos (27,568893%).
 

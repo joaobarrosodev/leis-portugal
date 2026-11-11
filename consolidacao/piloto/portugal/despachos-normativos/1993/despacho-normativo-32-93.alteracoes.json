@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 2-2",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Considerando que, em 7 de Janeiro de 1990, cessou a comissão de serviço do licenciado em Economia Noé Cipriano Rodrigues, à data director de serviços do Instituto Regulador e Orientador dos Mercados Agrícolas;",
+    "depois": "Considerando que, em 7 de Janeiro de 1990, cessou a comissão de serviço do licenciado em Finanças Noé Cipriano Fernandes, à data director de serviços do Instituto Regulador e Orientador dos Mercados Agrícolas;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:627994:por",
+    "alterador": "pt:dre:409511:por"
+  }
+]

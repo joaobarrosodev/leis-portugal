@@ -29,10 +29,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-03-05'
+version_history:
+  file: portaria-892-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-10-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-03-05'
+    amending: pt:dre:599881:por
+    amending_title: Portaria n.º 250/82
+    changes:
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 11-13
+    - Altera Artigo unidades 28-28
 identifiers:
   celex: null
   eli: null
@@ -58,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:57:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 250/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-892-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,17 +141,27 @@ Nestes termos, ao abrigo do n.º 1 do artigo 98.º do [Decreto-Lei n.º 48547](h
 
 Manda o Governo da República Portuguesa, pelos Secretários de Estado do Trabalho e da Saúde, o seguinte:
 
-1.º Poderão ser admitidos como auxiliares de farmacêutico indivíduos que, embora não possuindo prática registada, revelem, em exame adequado, conhecimentos suficientes para o exercício de tais funções.
+1.º Poderão ser admitidos como auxiliares de farmacêutico e classificados em grau a definir na regulamentação colectiva de trabalho para o sector indivíduos que, não possuindo prática registada, ou possuindo-a, tenham a ascensão na carreira congelada, revelem, em exame adequado, conhecimentos suficientes para o exercício de tais funções.
 
-2.º O disposto no número anterior é aplicável, nomeadamente, àqueles que possuindo diploma de ajudante de farmácia obtido no estrangeiro pretendam ser registados como auxiliares de farmacêutico na Direcção-Geral de Saúde.
+> Alterado pelo/a [Portaria n.º 250/82](https://diariodarepublica.pt/dr/detalhe/portaria/250-1982-599881), publicado em 1982-03-05.
+
+2.º O disposto no número anterior só é aplicável àqueles que provem a sua qualidade de ajudantes de farmácia ou categoria análoga obtida no estrangeiro ou ainda àqueles que tenham pelo menos 5 anos de prática registada e não tenham podido ascender ao grau máximo da respectiva carreira.
+
+> Alterado pelo/a [Portaria n.º 250/82](https://diariodarepublica.pt/dr/detalhe/portaria/250-1982-599881), publicado em 1982-03-05.
 
 3.º Os exames terão lugar em local e data a determinar pela Direcção-Geral de Saúde, devendo o júri ser constituído por:
 
-a) Um representante da Direcção-Geral de Saúde, que presidirá e só terá direito a voto em caso de empate;
+a) 1 representante da Direcção-Geral de Saúde, que presidirá e terá voto de qualidade;
 
-b) Um representante da Ordem dos Farmacêuticos;
+b) 1 representante da Ordem dos Farmacêuticos;
 
-c) Um representante da Associação Nacional das Farmácias.
+c) 1 representante da Associação Nacional das Farmácias, que será obrigatoriamente licenciado em Farmácia;
+
+d) 1 representante do Sindicato Nacional dos Farmacêuticos;
+
+e) 1 representante dos sindicatos representativos dos ajudantes de farmácia.
+
+> Alterado pelo/a [Portaria n.º 250/82](https://diariodarepublica.pt/dr/detalhe/portaria/250-1982-599881), publicado em 1982-03-05.
 
 4.º O júri elaborará o programa dos exames, o qual poderá ser consultado pelos interessados com um mínimo de cento e vinte dias de antecedência em relação à data de realização das provas.
 
@@ -163,6 +191,10 @@ c) Certificado de registo criminal;
 
 d) Boletim de sanidade;
 
-e) Quaisquer outros elementos de valorização que os candidatos entendam juntar.
+e) Documento comprovativo de estar o candidato numa das situações previstas nos n.os 1.º e 2.º desta portaria;
+
+f) Quaisquer outros elementos de valorização que os candidatos entendam juntar.
+
+> Alterado pelo/a [Portaria n.º 250/82](https://diariodarepublica.pt/dr/detalhe/portaria/250-1982-599881), publicado em 1982-03-05.
 
 Secretarias de Estado do Trabalho e da Saúde, 27 de Julho de 1981. - O Secretário de Estado do Trabalho, António José de Barros Queirós Martins. - O Secretário de Estado da Saúde, Adalberto Paulo da Fonseca Mendo.

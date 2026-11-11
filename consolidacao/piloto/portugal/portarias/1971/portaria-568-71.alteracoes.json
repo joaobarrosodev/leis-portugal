@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 37-38",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2. O chefe será coadjuvado por um subchefe, que o substituirá nas suas faltas e impedimentos.\n\n3. O chefe e subchefe da Missão terão a categoria da letra D.",
+    "depois": "2. O chefe será coadjuvado por dois adjuntos de missão, que o substituirão nas suas faltas e impedimentos e em todas as funções para que por ele sejam designados.\n\n3. O chefe e adjuntos de missão terão a categoria da letra D.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:633348:por",
+    "alterador": "pt:dre:665145:por"
+  }
+]

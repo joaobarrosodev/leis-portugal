@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3117.1.0 - Produção de azeite.\n\n3117.2.0 - Refinação de azeite.",
+    "depois": "3115.1.0 - Produção de azeite.\n\n3115.2.0 - Refinação de azeite.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:563382:por",
+    "alterador": "pt:dre:444265:por"
+  }
+]

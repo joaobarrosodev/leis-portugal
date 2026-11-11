@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º O subsídio respeitante às áreas regadas por bombagem mantém-se em 3225$00/ha.",
+    "depois": "3.º O subsídio respeitante às áreas regadas por bombagem é de 4050$00/ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:572659:por",
+    "alterador": "pt:dre:622995:por"
+  },
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "9.º O pagamento será efectuado de 1 a 31 de Maio de 1991.",
+    "depois": "9.º O pagamento será efectuado até 30 de Março de 1991.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:572659:por",
+    "alterador": "pt:dre:622995:por"
+  }
+]

@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-04-18'
+version_history:
+  file: despacho-normativo-74-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-04-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-04-18'
+    amending: pt:dre:264749:por
+    amending_title: Despacho Normativo n.º 247/94; Despacho Normativo n.º 247/94
+    changes:
+    - Altera Artigo unidades 5-5
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/74/1991/04/05/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:53:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 247/94; Despacho
+    Normativo n.º 247/94. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1991/despacho-normativo-74-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,9 +136,13 @@ Determino o seguinte:
 
 1 - O montante da ajuda à criação de serviços de gestão é fixado, nos termos dos n.os 1 e 2 do artigo 38.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, em:
 
-a) 36000 ECU, quando o técnico a contratar possua a qualificação prevista no n.º 9;
+a) 42550 ECU, quando o técnico a contratar possua a qualificação prevista no n.º 9;
 
-b) 27000 ECU, nos casos referidos no n.º 11.
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
+
+b) 31910 ECU, nos casos referidos no n.º 11.
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
 2 - Quando, nos termos do n.º 3 do artigo 37.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, as associações requeiram o alargamento da ajuda, o acréscimo de subsídio a pagar nesse ano é calculado da seguinte forma:
 

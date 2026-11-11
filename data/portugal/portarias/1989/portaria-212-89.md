@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-10-15'
+version_history:
+  file: portaria-212-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-03-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-10-15'
+    amending: pt:dre:548809:por
+    amending_title: Portaria n.º 873/89
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:47:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 873/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-212-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,7 +144,9 @@ Manda o Governo, pelos Ministros da Defesa Nacional e das Obras Públicas, Trans
 
 2.º Os impressos referidos no número anterior são adoptados para uso exclusivo das Forças Armadas, em substituição dos impressos dos modelos aprovados pelo [Decreto n.º 8023](https://diariodarepublica.pt/dr/detalhe/decreto/8023-1922-570080), de 4 de Fevereiro de 1922, e pela [Portaria n.º 13565](https://diariodarepublica.pt/dr/detalhe/portaria/13565-1951-625459), de 9 de Junho de 1951.
 
-3.º A presente portaria produz efeitos a partir de 1 de Julho de 1989.
+3.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 873/89](https://diariodarepublica.pt/dr/detalhe/portaria/873-1989-548809), publicado em 1989-10-10.
 
 Ministérios da Defesa Nacional e das Obras Públicas, Transportes e Comunicações.
 

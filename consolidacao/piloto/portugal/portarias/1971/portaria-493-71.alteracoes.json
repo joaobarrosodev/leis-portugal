@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Para efeito da aplicação das regras das carreiras hospitalares, os lugares do quadro do Instituto serão equiparados aos lugares correspondentes dos hospitais centrais.",
+    "depois": "2.º Para efeito da aplicação das regras das carreiras hospitalares, os lugares dos quadros do Instituto de Assistência Psiquiátrica e suas delegações são, para efeito da aplicação da carreira de administração hospitalar, equiparados aos dos hospitais centrais com mais de 700 camas, e, para efeito de aplicação da carreira médica, o director do Instituto e delegados serão equiparados, respectivamente, a director e a director clínico de hospital com mais de 500 camas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:630422:por",
+    "alterador": "pt:dre:312590:por"
+  }
+]

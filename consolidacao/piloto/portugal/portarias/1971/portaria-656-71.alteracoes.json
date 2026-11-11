@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1972 ... 175000000$00\n\n1973 ... 175000000$00\n\n1974 ... 175000000$00\n\n1975 ... 65000000$00\n\n1976 ... 18478315$00",
+    "depois": "1972 ... 215000000$00\n\n1973 ... 240000000$00\n\n1974 ... 150000000$00\n\n1975 ... 3478315$00",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:631870:por",
+    "alterador": "pt:dre:685640:por"
+  }
+]

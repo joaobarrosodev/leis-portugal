@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-07-31'
+version_history:
+  file: portaria-510-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-06-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-07-31'
+    amending: pt:dre:521575:por
+    amending_title: Declaração de Rectificação n.º 168/91
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/510/1991/06/06/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:51:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 168/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-510-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,7 +132,9 @@ Considerando que algumas administrações florestais cobrem uma área demasiado 
 
 Continuando a pretender-se que a Direcção-Geral das Florestas abranja todo o território nacional, assente num sistema de gestão por objectivos, que contribua decisivamente para a rápida resolução dos problemas do sector no local onde surgirem, considera-se ser da maior conveniência a existência de administrações florestais nas cidades de Braga e Guarda, tendo-se em vista uma melhoria das actividades nos domínios da vulgarização, assistência técnica aos agentes económicos do sector e da gestão dos recursos florestais, cinegéticos e aquícolas a cargo do Estado, bem como no âmbito do apoio à gestão privada desses recursos, ao desenvolvimento da silvo-pastorícia e da apicultura.
 
-Assim, ao abrigo do disposto no n.º 2 do artigo 8.º do [Decreto Regulamentar n.º 51/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1986-222604), de 6 de Outubro:
+Assim, ao abrigo do disposto no n.º 2 do artigo 18.º do [Decreto Regulamentar n.º 51/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1986-222604), de 6 de Outubro:
+
+> Alterado pelo/a [Declaração de Rectificação n.º 168/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/168-1991-521575), publicado em 1991-07-31.
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 

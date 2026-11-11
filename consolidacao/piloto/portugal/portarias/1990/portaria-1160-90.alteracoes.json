@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 19-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Apenas podem realizar a prova na época especial:\n\na) Os estudantes que reúnam as condições para se apresentarem à candidatura pelo contingente especial para emigrantes portugueses e seus familiares, conforme definido no n.º 20.º da presente portaria;\n\nb) Os estudantes, portugueses ou estrangeiros, que tenham feito o ensino secundário numa língua curricular não portuguesa, quer no estrangeiro quer em Portugal;\n\nc) Os estudantes, portugueses ou estrangeiros, que tenham feito o ensino secundário português no estrangeiro.\n\n2 - A época especial tem apenas uma chamada.\n\n3 - Não podem apresentar-se à época especial os estudantes que se hajam apresentado à época normal.\n\n4 - Aos estudantes que, em infracção ao disposto nos números anteriores, realizem a prova em mais de uma época, serão anuladas todas as provas realizadas.",
+    "depois": "1 - A época especial tem duas chamadas.\n\n2 - Cada estudante pode apresentar-se a ambas as chamadas, prevalecendo a melhor classificação.\n\n3 - A apresentação à 2.ª chamada não carece de outra inscrição.\n\n4 - Apenas podem realizar a prova na época especial:\n\na) Os estudantes que reúnam as condições para se apresentarem à candidatura pelo contingente especial para emigrantes portugueses e seus familiares, conforme definido no n.º 20.º da presente portaria;\n\nb) Os estudantes, portugueses ou estrangeiros, que tenham feito o ensino secundário numa língua curricular não portuguesa, quer no estrangeiro, quer em Portugal;\n\nc) Os estudantes, portugueses ou estrangeiros, que tenham feito o ensino secundário português no estrangeiro.\n\n5 - Não podem apresentar-se à época especial os estudantes que se hajam apresentado à época normal.\n\n6 - Aos estudantes que, em infracção ao disposto nos números anteriores, realizem a prova em mais de uma época serão anuladas todas as provas realizadas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:564833:por",
+    "alterador": "pt:dre:631009:por"
+  },
+  {
+    "artigo": "depois da unidade 97",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "4 - A 2.ª chamada da prova na época especial terá lugar no dia 9 de Agosto.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:564833:por",
+    "alterador": "pt:dre:631009:por"
+  }
+]

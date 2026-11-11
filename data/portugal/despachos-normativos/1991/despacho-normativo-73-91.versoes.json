@@ -1,0 +1,62 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:622996:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-04-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b88846cf073dc4bb"
+   ]
+  },
+  {
+   "date": "1994-04-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:264749:por",
+     "title": "Despacho Normativo n.º 247/94",
+     "published": "1994-04-18",
+     "dre_path": "/dr/detalhe/despacho-normativo/247-1994-264749"
+    },
+    {
+     "id": "pt:dre:264749:por",
+     "title": "Despacho Normativo n.º 247/94",
+     "published": "1994-04-18",
+     "dre_path": "/dr/detalhe/despacho-normativo/247-1994-264749"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 13-13"
+   ],
+   "fragments": [
+    "8154055daad88482"
+   ]
+  }
+ ],
+ "fragments": {
+  "b88846cf073dc4bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Nos termos dos n.os 5 e 6 do artigo 26.º e da alínea b) do n.º 1 do artigo 40.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, determino o seguinte:\n\n1 - Os planos de melhoria material a que se referem os n.os 5 e 6 do artigo 26.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, deverão ser elaborados por técnicos com formação de nível médio ou superior nos domínios da agricultura, silvicultura ou pecuária, devidamente credenciados pela respectiva associação de classe.\n\n2 - Os projectos florestais a que se refere a alínea b) do n.º 1 do artigo 40.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, deverão ser elaborados por técnicos qualificados, previamente inscritos na Direcção-Geral das Florestas.\n\n3 - São os seguintes os requisitos cumulativos da inscrição a que se refere o número anterior:\n\na) Bacharelato ou licenciatura nas áreas da Silvicultura, da Engenharia Florestal, da Produção Florestal ou equivalente, em Agronomia, Produção Agrícola, Arquitectura Paisagista, Engenharia do Ambiente e áreas afins ou, ainda, curso de engenheiro técnico agrário;\n\nb) Currículo adequado à função de projectista.\n\n4 - Os técnicos referidos nos números anteriores são responsáveis pela elaboração do plano de melhoria ou projecto florestal de que são autores e obrigam-se a:\n\na) Prestar esclarecimentos, sempre que solicitados para tal pelas entidades responsáveis pela análise dos planos de melhoria ou projectos florestais;\n\nb) Acompanhar tecnicamente a execução dos investimentos previstos no plano ou projecto.\n\n5 - As despesas com a elaboração dos planos de melhoria e projectos florestais, independentemente do montante do investimento, poderão ser objecto de ajuda, com as seguintes limitações:\n\na) Caso o plano ou projecto tenha sido elaborado pelos serviços do Ministério da Agricultura, Pescas e Alimentação, o valor máximo elegível é o constane da alínea q) do n.º 1.º da [Portaria n.º 779/88](https://diariodarepublica.pt/dr/detalhe/portaria/779-1988-356732), de 5 de Dezembro;\n\nb) Nos restantes casos, o custo máximo elegível é de 4% do investimento objecto das ajudas, não podendo o seu valor global ultrapassar 3000 ECU.\n\n6 - A percentagem de subsídio a atribuir à despesa referida no número anterior é a que resulte da média ponderada dos níveis das ajudas consideradas desagregadamente para as componentes do investimento.\n\nMinistério da Agricultura, Pescas e Alimentação, 8 de Março de 1991. - Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  },
+  "8154055daad88482": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1994-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18."
+   ],
+   "markdown": "Nos termos dos n.os 5 e 6 do artigo 26.º e da alínea b) do n.º 1 do artigo 40.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, determino o seguinte:\n\n1 - Os planos de melhoria material a que se referem os n.os 5 e 6 do artigo 26.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, deverão ser elaborados por técnicos com formação de nível médio ou superior nos domínios da agricultura, silvicultura ou pecuária, devidamente credenciados pela respectiva associação de classe.\n\n2 - Os projectos florestais a que se refere a alínea b) do n.º 1 do artigo 40.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, deverão ser elaborados por técnicos qualificados, previamente inscritos na Direcção-Geral das Florestas.\n\n3 - São os seguintes os requisitos cumulativos da inscrição a que se refere o número anterior:\n\na) Bacharelato ou licenciatura nas áreas da Silvicultura, da Engenharia Florestal, da Produção Florestal ou equivalente, em Agronomia, Produção Agrícola, Arquitectura Paisagista, Engenharia do Ambiente e áreas afins ou, ainda, curso de engenheiro técnico agrário;\n\nb) Currículo adequado à função de projectista.\n\n4 - Os técnicos referidos nos números anteriores são responsáveis pela elaboração do plano de melhoria ou projecto florestal de que são autores e obrigam-se a:\n\na) Prestar esclarecimentos, sempre que solicitados para tal pelas entidades responsáveis pela análise dos planos de melhoria ou projectos florestais;\n\nb) Acompanhar tecnicamente a execução dos investimentos previstos no plano ou projecto.\n\n5 - As despesas com a elaboração dos planos de melhoria e projectos florestais, independentemente do montante do investimento, poderão ser objecto de ajuda, com as seguintes limitações:\n\na) Caso o plano ou projecto tenha sido elaborado pelos serviços do Ministério da Agricultura, Pescas e Alimentação, o valor máximo elegível é o constane da alínea q) do n.º 1.º da [Portaria n.º 779/88](https://diariodarepublica.pt/dr/detalhe/portaria/779-1988-356732), de 5 de Dezembro;\n\nb) Nos restantes casos, o custo máximo elegível é de 4% do investimento objecto das ajudas, não podendo o seu valor global ultrapassar 3546 ECU.\n\n> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.\n\n6 - A percentagem de subsídio a atribuir à despesa referida no número anterior é a que resulte da média ponderada dos níveis das ajudas consideradas desagregadamente para as componentes do investimento.\n\nMinistério da Agricultura, Pescas e Alimentação, 8 de Março de 1991. - Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  }
+ }
+}

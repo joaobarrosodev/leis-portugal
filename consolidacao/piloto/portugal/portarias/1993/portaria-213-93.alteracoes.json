@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - O montante do abono de família é de 2330$00 por cada descendente, salvo o disposto no número seguinte.\n\n2 - O montante mensal do abono de família relativamente ao terceiro descendente e seguintes é de 3500$00, tratando-se de agregados familiares cujos rendimentos ilíquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.",
+    "depois": "1 - O montante do abono de família é de 2450$00 por cada descendente, salvo o disposto no número seguinte.\n\n2 - O montante mensal do abono de família relativamente ao terceiro descendente e seguintes é de 3680$00, tratando-se de agregados familiares cujos rendimentos ilíquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:656592:por",
+    "alterador": "pt:dre:262851:por"
+  }
+]

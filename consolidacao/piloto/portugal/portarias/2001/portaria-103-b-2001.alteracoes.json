@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º A presente portaria produz efeitos a partir do dia 26 de Novembro de 2000.",
+    "depois": "4.º A presente portaria produz efeitos a partir do dia 1 de Junho de 2000.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:626867:por",
+    "alterador": "pt:dre:313806:por"
+  }
+]

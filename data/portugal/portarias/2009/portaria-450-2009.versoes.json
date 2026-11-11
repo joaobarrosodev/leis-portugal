@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:607773:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-04-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0ea764710d4f3909"
+   ]
+  },
+  {
+   "date": "2010-10-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:307851:por",
+     "title": "Portaria n.º 1072/2010",
+     "published": "2010-10-20",
+     "dre_path": "/dr/detalhe/portaria/1072-2010-307851"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "d980270e037fd963"
+   ]
+  }
+ ],
+ "fragments": {
+  "0ea764710d4f3909": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril\n\nPela [Portaria n.º 615/99](https://diariodarepublica.pt/dr/detalhe/portaria/615-1999-426490), de 9 de Agosto, foi renovada, até 13 de Agosto de 2009, a zona de caça associativa da Herdade do Brunhal e anexas (processo n.º 114-AFN), situada no município de Ferreira do Alentejo, concessionada ao Clube de Caçadores do Brunhal.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no artigo 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º, do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a actual redacção, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de seis anos, renovável automaticamente por um único e igual período, a concessão desta zona de caça, abrangendo o prédio rústico denominado Herdade do Brunhal, sito na freguesia de Figueira de Cavaleiros, município de Ferreira do Alentejo, com a área de 1675 ha.\n\n2.º A presente portaria produz efeitos a partir do dia 14 de Agosto de 2009.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 20 de Abril de 2009."
+  },
+  "d980270e037fd963": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2010-10-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1072/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1072-2010-307851), publicado em 2010-10-20."
+   ],
+   "markdown": "de 29 de Abril\n\nPela [Portaria n.º 615/99](https://diariodarepublica.pt/dr/detalhe/portaria/615-1999-426490), de 9 de Agosto, foi renovada, até 13 de Agosto de 2009, a zona de caça associativa da Herdade do Brunhal e anexas (processo n.º 114-AFN), situada no município de Ferreira do Alentejo, concessionada ao Clube de Caçadores do Brunhal.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no artigo 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º, do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a actual redacção, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de 10 anos, renovável automaticamente por um único e igual período, a concessão desta zona de caça, abrangendo o prédio rústico denominado Herdade do Brunhal, sito na freguesia de Figueira de Cavaleiros, município de Ferreira do Alentejo, com a área de 1675 ha.\n\n> Alterado pelo/a [Portaria n.º 1072/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1072-2010-307851), publicado em 2010-10-20.\n\n2.º A presente portaria produz efeitos a partir do dia 14 de Agosto de 2009.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 20 de Abril de 2009."
+  }
+ }
+}

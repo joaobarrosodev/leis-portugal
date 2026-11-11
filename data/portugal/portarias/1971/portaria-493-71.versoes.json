@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:630422:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-09-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3ae5434ecfa975f7"
+   ]
+  },
+  {
+   "date": "1983-03-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:312590:por",
+     "title": "Portaria n.º 313/83",
+     "published": "1983-03-26",
+     "dre_path": "/dr/detalhe/portaria/313-1983-312590"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "a85fadc568fcb840"
+   ]
+  }
+ ],
+ "fragments": {
+  "3ae5434ecfa975f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Setembro\n\nNos termos do disposto no n.º 2 do artigo 72.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), do n.º 4 do artigo 42.º do Regulamento Geral dos Hospitais, aprovado pelo [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), de 27 de Abril de 1958, e do [Decreto-Lei n.º 49459](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49459-1969-216351), de 24 de Dezembro de 1969.\n\nManda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência:\n\n1.º Ao provimento, exercício e remunerações dos lugares do quadro da sede e delegações do Instituto de Assistência Psiquiátrica passam a aplicar-se, a partir de 1 de Outubro de 1971, as regras das carreiras hospitalares, com as adaptações constantes da presente portaria.\n\n2.º Para efeito da aplicação das regras das carreiras hospitalares, os lugares do quadro do Instituto serão equiparados aos lugares correspondentes dos hospitais centrais.\n\n3.º Os lugares da carreira de administração regem-se pelo disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 498/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1970-147443), de 24 de Outubro.\n\n4.º É instituída a carreira médica nos estabelecimentos e serviços oficiais que pertencem ou dependem do Instituto de Assistência Psiquiátrica, a partir de 1 de Outubro de 1971.\n\n5.º À carreira médica instituída nestes estabelecimentos e serviços são aplicadas as disposições do Estatuto Hospitalar, do Regulamento Geral dos Hospitais e as normas aprovadas para a carreira médica hospitalar.\n\n6.º O regime de trabalho dos médicos abrangidos pela presente portaria será o de tempo completo, podendo, por proposta do Instituto de Assistência Psiquiátrica ou a requerimento dos interessados, ser autorizado, caso a caso, pelo Ministro da Saúde e Assistência, o regime de tempo parcial.\n\n7.º Até ao dia 1 de Outubro de 1971, os médicos actualmente ao serviço nos estabelecimentos e serviços a que se refere a presente portaria serão distribuídos pelos graus da carreira, por despacho do Ministro da Saúde e Assistência, publicado no Diário do Governo.\n\n8.º As colocações do pessoal que mude de categoria serão efectuadas nos termos dos n.os 2, 3 e 4 do artigo 92.º do Estatuto Hospitalar, promulgado pelo [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968.\n\n9.º As dúvidas suscitadas por esta portaria serão resolvidas por despacho do Ministro da Saúde e Assistência.\n\nPelo Ministro da Saúde e Assistência, Francisco Gonçalves Ferreira, Secretário de Estado da Saúde a Assistência."
+  },
+  "a85fadc568fcb840": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1983-03-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 313/83](https://diariodarepublica.pt/dr/detalhe/portaria/313-1983-312590), publicado em 1983-03-26."
+   ],
+   "markdown": "de 8 de Setembro\n\nNos termos do disposto no n.º 2 do artigo 72.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), do n.º 4 do artigo 42.º do Regulamento Geral dos Hospitais, aprovado pelo [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), de 27 de Abril de 1958, e do [Decreto-Lei n.º 49459](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49459-1969-216351), de 24 de Dezembro de 1969.\n\nManda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência:\n\n1.º Ao provimento, exercício e remunerações dos lugares do quadro da sede e delegações do Instituto de Assistência Psiquiátrica passam a aplicar-se, a partir de 1 de Outubro de 1971, as regras das carreiras hospitalares, com as adaptações constantes da presente portaria.\n\n2.º Para efeito da aplicação das regras das carreiras hospitalares, os lugares dos quadros do Instituto de Assistência Psiquiátrica e suas delegações são, para efeito da aplicação da carreira de administração hospitalar, equiparados aos dos hospitais centrais com mais de 700 camas, e, para efeito de aplicação da carreira médica, o director do Instituto e delegados serão equiparados, respectivamente, a director e a director clínico de hospital com mais de 500 camas.\n\n> Alterado pelo/a [Portaria n.º 313/83](https://diariodarepublica.pt/dr/detalhe/portaria/313-1983-312590), publicado em 1983-03-26.\n\n3.º Os lugares da carreira de administração regem-se pelo disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 498/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1970-147443), de 24 de Outubro.\n\n4.º É instituída a carreira médica nos estabelecimentos e serviços oficiais que pertencem ou dependem do Instituto de Assistência Psiquiátrica, a partir de 1 de Outubro de 1971.\n\n5.º À carreira médica instituída nestes estabelecimentos e serviços são aplicadas as disposições do Estatuto Hospitalar, do Regulamento Geral dos Hospitais e as normas aprovadas para a carreira médica hospitalar.\n\n6.º O regime de trabalho dos médicos abrangidos pela presente portaria será o de tempo completo, podendo, por proposta do Instituto de Assistência Psiquiátrica ou a requerimento dos interessados, ser autorizado, caso a caso, pelo Ministro da Saúde e Assistência, o regime de tempo parcial.\n\n7.º Até ao dia 1 de Outubro de 1971, os médicos actualmente ao serviço nos estabelecimentos e serviços a que se refere a presente portaria serão distribuídos pelos graus da carreira, por despacho do Ministro da Saúde e Assistência, publicado no Diário do Governo.\n\n8.º As colocações do pessoal que mude de categoria serão efectuadas nos termos dos n.os 2, 3 e 4 do artigo 92.º do Estatuto Hospitalar, promulgado pelo [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968.\n\n9.º As dúvidas suscitadas por esta portaria serão resolvidas por despacho do Ministro da Saúde e Assistência.\n\nPelo Ministro da Saúde e Assistência, Francisco Gonçalves Ferreira, Secretário de Estado da Saúde a Assistência."
+  }
+ }
+}

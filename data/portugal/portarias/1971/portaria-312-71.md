@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-12-31'
+version_history:
+  file: portaria-312-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-06-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-12-31'
+    amending: pt:dre:165998:por
+    amending_title: Portaria n.º 742/71
+    changes:
+    - Adita Artigo depois da unidade 41
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:29:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 742/71. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-312-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -174,6 +189,10 @@ O inspector provincial, o chefe dos serviços administrativos e os chefes de rep
 Os funcionários que secretariam o conselho provincial de crédito e seguros perceberão adicionalmente a gratificação mensal de 1000$00.
 
 Os chefes de repartição, chefes de divisão e chefes de secção, e primeiros-oficiais, no caso de chefiarem delegações privativas, perceberão adicionalmente a gratificação mensal de 1000$00.
+
+Quando da transição para o quadro comum das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique, constante do mapa I anexo à presente portaria, resultar para alguns agentes diminuição de remunerações ou de outros direitos, enquanto permanecerem na categoria para onde transitem, os mesmos agentes mantêm as suas remunerações e outras regalias inerentes.
+
+> Aditado pelo/a [Portaria n.º 742/71](https://diariodarepublica.pt/dr/detalhe/portaria/742-1971-165998), publicado em 1971-12-31.
 
 MAPA III
 

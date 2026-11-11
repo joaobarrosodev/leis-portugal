@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-08-29'
+version_history:
+  file: resolucao-159-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-07-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-08-29'
+    amending: pt:dre:577912:por
+    amending_title: Resolução n.º 201/81
+    changes:
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 15-15
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:38:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução n.º 201/81. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/resolucoes/1981/resolucao-159-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,13 +151,17 @@ O Conselho de Ministros, reunido em 25 de Junho de 1981, resolveu:
 
 3 - Que o disposto no número anterior não se aplique nos casos em que já haja sido estabelecida uma forma diferente de entrega destas verbas.
 
-4 - Incumbir o Ministro dos Transportes e Comunicações de instruir as empresas ANA - Aeroportos e Navegação Aérea, E. P., TAP - Transportes Aéreos Portugueses, E. P., e CTM - Companhia Portuguesa de Transportes Marítimos, E. P., no sentido de se promoverem, junto dos Governos Regionais da Madeira e dos Açores, as acções necessárias à inscrição, nos orçamentos daquelas regiões autónomas, das dotações necessárias ao pagamento das respectivas quotas-partes das indemnizações compensatórias devidas àquelas empresas pela imposição de obrigações de serviço público nos serviços de transporte entre as ilhas das regiões autónomas e entre estas e o continente.
+4 - Incumbir os Ministros das Finanças e do Plano, dos Transportes e Comunicações, da República para a Região Autónoma dos Açores e da República para a Região Autónoma da Madeira de apresentarem as propostas adequadas para a cobertura integral dos custos referentes às especiais obrigações de serviço público impostas às empresas públicas TAP - Transportes Aéreos Portugueses, E. P., CTM - Companhia Portuguesa de Transportes Marítimos, E. P., e ANA - Aeroportos e Navegação Aérea, E. P., para assegurar as ligações entre o continente e as regiões autónomas nos valores que excedem os referidos no n.º 1.
+
+> Alterado pelo/a [Resolução n.º 201/81](https://diariodarepublica.pt/dr/detalhe/resolucao/201-1981-577912), publicado em 1981-08-29.
 
 5 - A verba de 250000 contos para subsídio ao papel de jornal será distribuída pelas empresas beneficiárias nos termos do despacho normativo que estabelece normas sobre a concessão do referido subsídio e tendo em conta a progressiva regularização das dívidas à Portucel.
 
 6 - A verba de 570000 contos para subsídios à construção naval será distribuída pelas empresas beneficiárias nos termos do [Decreto-Lei n.º 345/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1980-463995), de 2 de Setembro.
 
-7 - A verba de 374000 contos, a distribuir futuramente, será efectuada mediante despacho conjunto dos Ministros das Finanças e do Plano e da tutela das empresas envolvidas.
+7 - A verba de 502000 contos, a distribuir futuramente, será afectada mediante despacho do Ministro das Finanças e do Plano.
+
+> Alterado pelo/a [Resolução n.º 201/81](https://diariodarepublica.pt/dr/detalhe/resolucao/201-1981-577912), publicado em 1981-08-29.
 
 Presidência do Conselho de Ministros, 25 de Junho de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 

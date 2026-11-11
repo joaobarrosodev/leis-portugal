@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-12-31'
+version_history:
+  file: despacho-normativo-223-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-08-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-12-31'
+    amending: pt:dre:144433:por
+    amending_title: Despacho Normativo n.º 352/81
+    changes:
+    - Altera Artigo unidades 11-12
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:10:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 352/81. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1981/despacho-normativo-223-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,9 +149,11 @@ Construção Sete Rios/Centro Administrativo/Benfica.
 
 5 - No presente ano, para além das operações financeiras necessárias à actividade corrente, fica vedado à empresa e às instituições de crédito lançar e financiar qualquer novo projecto de investimento não contemplado no n.º 2, salvo quando sujeito a autorização específica dos Ministros dos Transportes e Comunicações e das Finanças e do Plano.
 
-6 - É atribuída uma dotação de capital no montante de 317 milhões de escudos, a realizar por conta da dotação de 18000 milhões de escudos inscrita no Orçamento Geral do Estado para 1981, que se destina ao reembolso do crédito intercalar mobilizado para execução dos projectos inscritos no PTSEE/80, de acordo com o [Despacho Normativo n.º 258/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/258-1980-470781), publicado no Diário da República, 1.ª série, de 16 de Agosto de 1980.
+6 - É atribuída uma dotação de capital no montante de 363 milhões de escudos, a realizar por conta da dotação de 18000 milhões de escudos inscrita no Orçamento, Geral do Estado para 1981, que se destina ao reembolso do crédito intercalar mobilizado para execução dos projectos inscritos no PISEE/80, de acordo com o [Despacho Normativo n.º 258/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/258-1980-470781), publicado no Diário da República, 1 série, de 16 de Agosto de 1980.
 
-7 - As despesas de investimento em bens dominiais afectos à exploração da empresa referidas no n.º 2 serão financiadas, numa parcela correspondente a 97% do total, por uma dotação de capital no montante de 768,3 milhões de escudos, a realizar por conta da dotação de 18000 milhões de escudos inscrita no Orçamento Geral do Estado para 1981.
+7 - As despesas de investimento em bens dominais afectos à exploração da empresa referidas no n.º 2 serão financiadas, numa parcela correspondente a 91% do total, por uma dotação de capital no montante de 722 milhões de escudos, a realizar por conta da dotação de 18000 milhões de escudos inscrita no Orçamento Geral do Estado para 1981.
+
+> Alterado pelo/a [Despacho Normativo n.º 352/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/352-1981-144433), publicado em 1981-12-31.
 
 8 - As despesas de investimento em bens patrimoniais referidas no n.º 2 serão financiadas, numa parcela correspondente a 33% do total, por uma dotação para capital da empresa no montante de 248,7 milhões de escudos, a realizar por conta da dotação de 18000 milhões de escudos inscrita no Orçamento Geral do Estado para 1981. Esta dotação respeita à cobertura da parcela de 1981 dos compromissos assumidos nos despachos conjuntos MFP/MTC, de 20 de Julho de 1979, e A-33/81, de 27 de Fevereiro de 1981.
 

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:631870:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-11-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b8011a7ffeb11bb7"
+   ]
+  },
+  {
+   "date": "1972-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:685640:por",
+     "title": "Portaria n.º 767/72",
+     "published": "1972-12-23",
+     "dre_path": "/dr/detalhe/portaria/767-1972-685640"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-12"
+   ],
+   "fragments": [
+    "360bf25bd46501f7"
+   ]
+  }
+ ],
+ "fragments": {
+  "b8011a7ffeb11bb7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Novembro\n\nTornando-se necessário, para conveniente ajustamento à progressão dos trabalhos da empreitada de construção da barragem e órgãos de segurança e utilização da albufeira de Massingir, alterar o escalonamento inicialmente fixado para os pagamentos relativos a esta empreitada;\n\nEstando assegurados os respectivos recursos financeiros:\n\nManda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 74.º do [Decreto n.º 41968](https://diariodarepublica.pt/dr/detalhe/decreto/41968-1958-339383), de 22 de Novembro de 1958, o seguinte:\n\nÚnico. O escalonamento dos pagamentos relativos à empreitada de construção da barragem e órgãos de segurança e utilização da albufeira de Massingir, fixado pela [Portaria n.º 413/71](https://diariodarepublica.pt/dr/detalhe/portaria/413-1971-635624), de 6 de Agosto, é alterado da seguinte forma:\n\n1971 ... 100000000$00\n\n1972 ... 175000000$00\n\n1973 ... 175000000$00\n\n1974 ... 175000000$00\n\n1975 ... 65000000$00\n\n1976 ... 18478315$00\n\n... 708478315$00\n\nO Ministro do Ultramar, Joaquim Moreira da Silva Cunha.\n\nPara ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha."
+  },
+  "360bf25bd46501f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1972-12-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 767/72](https://diariodarepublica.pt/dr/detalhe/portaria/767-1972-685640), publicado em 1972-12-23."
+   ],
+   "markdown": "de 29 de Novembro\n\nTornando-se necessário, para conveniente ajustamento à progressão dos trabalhos da empreitada de construção da barragem e órgãos de segurança e utilização da albufeira de Massingir, alterar o escalonamento inicialmente fixado para os pagamentos relativos a esta empreitada;\n\nEstando assegurados os respectivos recursos financeiros:\n\nManda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 74.º do [Decreto n.º 41968](https://diariodarepublica.pt/dr/detalhe/decreto/41968-1958-339383), de 22 de Novembro de 1958, o seguinte:\n\nÚnico. O escalonamento dos pagamentos relativos à empreitada de construção da barragem e órgãos de segurança e utilização da albufeira de Massingir, fixado pela [Portaria n.º 413/71](https://diariodarepublica.pt/dr/detalhe/portaria/413-1971-635624), de 6 de Agosto, é alterado da seguinte forma:\n\n1971 ... 100000000$00\n\n1972 ... 215000000$00\n\n1973 ... 240000000$00\n\n1974 ... 150000000$00\n\n1975 ... 3478315$00\n\n> Alterado pelo/a [Portaria n.º 767/72](https://diariodarepublica.pt/dr/detalhe/portaria/767-1972-685640), publicado em 1972-12-23.\n\n... 708478315$00\n\nO Ministro do Ultramar, Joaquim Moreira da Silva Cunha.\n\nPara ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha."
+  }
+ }
+}
