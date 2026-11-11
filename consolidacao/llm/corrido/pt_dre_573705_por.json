@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:573705:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º - (Revogado.)",
+      "alterador": 4
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1, 2 e 3 (Portarias n.os 640/96, 876/2000 e 182/2003) substituem o plano de estudos do curso de Marketing e Publicidade (anexo II), que vem só em imagem; as suas normas sobre número máximo de alunos, ramos, duração do ano lectivo, transição e aplicação são autónomas e não alteram o texto do original.",
+  "instrucoes": [
+    "Alterador 1: novo plano de estudos (anexo em imagem) - não aplicado",
+    "Alterador 2: novo plano de estudos (imagem) - não aplicado; n.º máximo de alunos é norma própria",
+    "Alterador 3: ramos e novo plano (imagem) - não aplicado",
+    "Alterador 4 (DL 206/2012, art. 6.º): revoga o n.º 1.º (reconhecimento das escolas, que é todo o seu conteúdo) - unidade 6 passa a (Revogado.)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

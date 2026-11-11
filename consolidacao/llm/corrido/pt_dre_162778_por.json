@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:162778:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 3.º: revoga o n.º 1.º a partir de 1 de Julho de 1990; unidade 5 com (Revogado.).",
+    "Alterador 1, 1.º e 2.º: fixa preços máximos e sujeita o pão de trigo a preços vigiados; não alteram o texto do original.",
+    "Alterador 1, 3.º: revoga também a Portaria n.º 805-L/88; não é do original, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -510,3 +510,7 @@ python rendimento.py N --ids ids.txt
 ### Bloco 2 (ronda 18)
 
 120 diplomas por citações (`llm_corrido.py proximos 120`, 25 saltados por tamanho; ids em `llm/corrido-ids-bloco2.txt`), 15 subagentes Opus (30 pedidos). A primeira tentativa ficou a meio por limite de uso e foi repetida de raiz. Resultado: 63 sem alterações (anexos e quadros só em imagem, ou revogação total), 51 juntados, 6 recusados na verificação letra a letra (parágrafos "(Revogado.)" escritos pelo LLM que não existem no alterador). Ronda 18: 51 em 4 lotes, 18 pedaços, verificadores Sonnet às cegas. **39 sem reparos: 32 % do bloco de 120 (76 % dos 51 verificados)**, um pouco abaixo dos 38 % da amostra e do limiar de 35 %. `rendimento.py 18 --ids llm/corrido-ids-bloco2.txt`. Os 12 com reparos são quase todos instruções sobre anexos que só vêm em imagem.
+
+### Bloco 3 (ronda 19)
+
+Mais 120 diplomas (`llm/corrido-ids-bloco3.txt`, de 2 537 candidatos; 34 saltados por tamanho), mesmo processo. 50 sem alterações, 61 juntados, 9 recusados. Ronda 19: 61 verificados às cegas, **35 sem reparos: 29 % do bloco (57 % dos verificados)**. O rendimento desce de bloco para bloco porque os diplomas vão por ordem de citações e os seguintes têm mais anexos em imagem e mais alteradores. Acumulado das rondas 17 a 19: **89 em 280 (32 %)**. Ficam cerca de 2 400 candidatos; a este ritmo cada bloco de 120 dá ~35 consolidações, abaixo do limiar de 35 % que fixámos, por isso não se alarga sem decisão.

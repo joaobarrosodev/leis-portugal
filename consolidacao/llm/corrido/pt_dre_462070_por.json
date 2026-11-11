@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:462070:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações (Portarias n.os 1234/82, 128/83, 125/83, 807-N3/83, 305/86, 429/88, 413/91 e 855/91) incidem sobre o quadro de pessoal anexo, que só existe em imagem no documento original (unidade 9); não há texto que se possa alterar com segurança.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 1234/82): quadro anexo (pessoal de enfermagem), só em imagem; não aplicado.",
+    "Alterador 2 (Portaria n.º 128/83): quadro anexo (pessoal técnico superior, operário e auxiliar), só em imagem; não aplicado.",
+    "Alterador 3 (Portaria n.º 125/83): alterações ao quadro, só em imagem; não aplicado.",
+    "Alterador 4 (Portaria n.º 807-N3/83): quadro anexo (pessoal técnico superior e médico), só em imagem; não aplicado.",
+    "Alterador 5 (Portaria n.º 305/86): quadro anexo, só em imagem; não aplicado.",
+    "Alterador 6 (Portaria n.º 429/88): quadro anexo, só em imagem; não aplicado.",
+    "Alterador 7 (Portaria n.º 413/91): substituição do quadro de pessoal médico, só em imagem; não aplicado.",
+    "Alteradores 8 e 9 (Portaria n.º 855/91, repetida): nova composição do quadro não médico, só em imagem; o n.º 2.º é disposição própria sobre unidades orgânicas, não altera o texto do original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

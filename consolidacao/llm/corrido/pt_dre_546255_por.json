@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:546255:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 6 alteram o quadro de pessoal anexo (unidade 15), que só existe em imagem, e as alterações vêm também em quadros em imagem; o 2.º do alterador 2 extingue lugares do quadro, o que não é alteração textual. Nada aplicado.",
+  "instrucoes": [
+    "Alterador 1: quadro de pessoal alterado pelo quadro anexo (imagem); não aplicado.",
+    "Alterador 2, 1.º: quadro de novo alterado pelo quadro anexo (imagem); não aplicado. 2.º: extinção dos lugares de estomatologia e cirurgia maxilofacial; não textual, não aplicado.",
+    "Alterador 3: quadro alterado pelo mapa anexo (imagem); não aplicado.",
+    "Alterador 4: quadro alterado pelo mapa anexo (imagem); não aplicado.",
+    "Alterador 5: quadro alterado pelo mapa anexo (imagem); não aplicado.",
+    "Alterador 6, 2.º: acrescidos lugares ao quadro do Hospital Geral de Santo António pelo anexo n.º 2 (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

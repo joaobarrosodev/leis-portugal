@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 202-202",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Prontos para o serviço;",
+    "depois": "a) Prontos para todo o serviço;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:178851:por",
+    "alterador": "pt:dre:329820:por"
+  },
+  {
+    "artigo": "unidades 204-204",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Incapazes de todo o serviço.",
+    "depois": "c) Incapazes do serviço activo;\n\nd) Incapazes de todo o serviço.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:178851:por",
+    "alterador": "pt:dre:329820:por"
+  }
+]

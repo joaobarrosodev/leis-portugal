@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Faculdade de Medicina da Universidade de Coimbra e Hospitais da Universidade de Coimbra;",
+    "depois": "a) Faculdade de Medicina da Universidade de Coimbra e Hospitais da Universidade de Coimbra, o Centro Hospitalar de Coimbra - Hospital Pediátrico e o Instituto Português de Oncologia;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:476091:por",
+    "alterador": "pt:dre:229877:por;pt:dre:456851:por;pt:dre:645483:por;pt:dre:209618:por"
+  },
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Faculdade de Medicina da Universidade de Lisboa e Hospital de Santa Maria;",
+    "depois": "b) Faculdade de Medicina da Universidade de Lisboa, Hospital de Santa Maria, Hospital de Garcia de Orta e Hospital de Amadora-Sintra.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:476091:por",
+    "alterador": "pt:dre:229877:por;pt:dre:456851:por;pt:dre:645483:por;pt:dre:209618:por"
+  },
+  {
+    "artigo": "unidades 9-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "e) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Hospital de Pulido Valente;\n\nf) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Hospital de São Francisco Xavier;\n\ng) Faculdades de Medicina das Universidades de Lisboa, Coimbra e Porto, Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Instituto de Ciências Biomédicas de Abel Salazar com os centros de saúde dependentes das Administrações Regionais de Saúde de Lisboa, Coimbra e Porto.",
+    "depois": "e) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Instituto de Higiene e Medicina Tropical;\n\nf) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Hospital de Pulido Valente;\n\ng) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Hospital de São Francisco Xavier;\n\nh) Faculdades de Medicina das Universidades de Lisboa, Coimbra e Porto, Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Instituto de Ciências Biomédicas de Abel Salazar com os centros de saúde dependentes das Administrações Regionais de Saúde de Lisboa, Coimbra e Porto.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:476091:por",
+    "alterador": "pt:dre:229877:por;pt:dre:456851:por;pt:dre:645483:por;pt:dre:209618:por"
+  },
+  {
+    "artigo": "depois da unidade 11",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "i) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Maternidade do Dr. Alfredo da Costa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:476091:por",
+    "alterador": "pt:dre:229877:por;pt:dre:456851:por;pt:dre:645483:por;pt:dre:209618:por"
+  }
+]

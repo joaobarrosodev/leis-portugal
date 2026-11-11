@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:676020:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os três alteradores substituem planos de estudos de variantes do curso por anexos que só vêm em imagem; não há alteração textual das unidades do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1399/2001): novo plano de estudos da variante de Educação Visual e Tecnológica, anexo em imagem; não aplicado.",
+    "Alterador 2 (Portaria 1465/2001): novo plano de estudos da mesma variante, anexo em imagem; não aplicado.",
+    "Alterador 3 (Portaria 14/2002): novo plano de estudos da variante de Matemática e Ciências da Natureza, anexo em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

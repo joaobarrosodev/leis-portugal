@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:259204:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 28,
+      "texto": "4.1 - Na área de estudos humanísticos a língua estrangeira poderá não ser a que os alunos frequentaram no curso unificado do ensino secundário, quando se torne indispensável assegurar o aproveitamento em duas outras línguas como condição de acesso a um curso superior.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2, n.º 1: os quadros I, II e III que substituem os quadros curriculares dos anexos I e II só vêm em imagem (e no original os quadros também são imagem). Alterador 2, n.os 2, 3.1, 4 e 5: regras novas (via única, acesso a Arquitectura, local de trabalho, regime de transição) que não alteram o texto do original.",
+  "instrucoes": [
+    "Alterador 1: acrescenta o n.º 4.1 ao n.º 4 - inserido a seguir à unidade 28.",
+    "Alterador 2, n.º 1: substitui os quadros curriculares dos anexos I e II por quadros em imagem - não aplicado.",
+    "Alterador 2, n.os 2 a 6: disposições próprias (via única, manutenção das alíneas do anexo I com a excepção do 3.1, local de trabalho, transição, manutenção do resto) - não textuais, não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:497787:por",
+  "substituicoes": [
+    {
+      "de": 22,
+      "ate": 31,
+      "texto": "11.º - (Revogado.)\n\n12.º - (Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 (Portaria 77-A/92) e 2 (Portaria 1164-A/92) são novas portarias de actualização anual que fixam novos montantes (subsídio de refeição, ajudas de custo, subsídios de viagem e marcha) em normas próprias, sem dar nova redação aos números do original.",
+  "instrucoes": [
+    "Alterador 1: actualiza o subsídio de refeição para 450$00 e fixa novas ajudas de custo e subsídios de viagem em normas próprias - não aplicado como alteração textual.",
+    "Alterador 2: actualiza o subsídio de refeição para 472$50 e os subsídios de viagem e marcha em normas próprias - não aplicado como alteração textual.",
+    "Alterador 3, n.º 3.º: revoga os n.os 11.º e 12.º - unidades 22 a 31 substituídas por '11.º - (Revogado.)' e '12.º - (Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "pt:dre:660912:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 11,
+      "texto": "2 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 35,
+      "ate": 35,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 36,
+      "ate": 36,
+      "texto": "",
+      "alterador": 2
+    },
+    {
+      "de": 37,
+      "ate": 37,
+      "texto": "",
+      "alterador": 3
+    },
+    {
+      "de": 38,
+      "ate": 38,
+      "texto": "",
+      "alterador": 5
+    },
+    {
+      "de": 43,
+      "ate": 43,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 44,
+      "ate": 52,
+      "texto": "",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 1138/92 retira da lista 1 os leites dietéticos para alimentação infantil só em parte (excepto os alimentos dietéticos para lactentes destinados a prescrição em certos erros congénitos do metabolismo ou outras situações metabólicas especiais); não há nova redação do item, pelo que a unidade 42 fica como está.",
+  "instrucoes": [
+    "Alt. 1, 1.º: excluídos da lista 1 as bolachas (unidade 35) e as conservas (43)",
+    "Alt. 1, 2.º: suprimida a lista 2 (unidades 44-52)",
+    "Alt. 1, 3.º: revogado o n.º 2 do 2.º, com as alíneas (9-11)",
+    "Alt. 2, 2.º: retiradas da lista 1 as massas alimentícias (36); revogação na Portaria 31-A/85 ignorada",
+    "Alt. 3, 2.º: retiradas da lista 1 as farinhas de trigo (37)",
+    "Alt. 4: repete o alt. 3 (farinhas já retiradas); nada a fazer",
+    "Alt. 5: retiradas da lista 1 as margarinas (38)",
+    "Alt. 6: retirada parcial dos leites dietéticos; não aplicada (ver nao_aplicavel)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

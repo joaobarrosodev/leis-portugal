@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:164863:por",
+  "substituicoes": [
+    {
+      "de": 83,
+      "ate": 84,
+      "texto": "BASE XXI\n\n(Revogada.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Lei n.º 2140, art. 1.º: revoga a base XXI; unidades 83-84 passam a \"BASE XXI\" e \"(Revogada.)\".",
+    "Lei n.º 2140, art. 2.º: adita número ao artigo 591.º do Código de Processo Civil; é outro diploma, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

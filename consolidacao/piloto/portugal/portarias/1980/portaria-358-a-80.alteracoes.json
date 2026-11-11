@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Título mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e metropolitano e fora dela nos percursos do passe à linha da V. M. Carnaxide a que actualmente corresponde o preço de 340$00.",
+    "depois": "Título mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e Metropolitano e, fora dela, nos percursos do passe de linha da V. M. Carnaxide que afluem a Lisboa a que actualmente corresponde o preço de 340$00.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:402570:por",
+    "alterador": "pt:dre:226674:por"
+  },
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Título mensal para um número ilimitado de viagens, válido em todos os percursos referidos na alínea anterior e ainda nos percursos do passe à linha da V. M. Carnaxide a que actualmente corresponde o preço de 500$00.",
+    "depois": "Título mensal para um número ilimitado de viagens, válido em todos os percursos referidos na alínea anterior e ainda nos percursos dos passes de linha da V. M. Carnaxide que afluem a Lisboa a que actualmente correspondem os preços de 500$00 e de 625$00.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:402570:por",
+    "alterador": "pt:dre:226674:por"
+  },
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Título mensal para um número ilimitado de viagens, válido em todos os percursos referidos na alínea anterior, nos percursos do passe à linha da V. M. Carnaxide a que actualmente corresponde o preço de 625$00, bem como nos percursos da mesma empresa entre Oeiras, Linda-a-Velha e Lisboa.",
+    "depois": "Título mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e Metropolitano e, fora dela, na rede geral da V. M. Carnaxide.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:402570:por",
+    "alterador": "pt:dre:226674:por"
+  }
+]

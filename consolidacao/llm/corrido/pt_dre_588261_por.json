@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:588261:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As alterações são planos de estudos que só vêm em imagem (Portarias 928/97, 929/97, 623/2001, 626/2001, 313/2002) e mudanças de designação de cursos (Gestão Comercial e Contabilidade -> Contabilidade e Auditoria; Gestão das PMEs -> Gestão) e de ramos, sem instrução de nova redação do texto do original; não aplicadas.",
+  "instrucoes": [
+    "Alt. 1 e 2: mudança de designação e novo plano em imagem; não aplicado",
+    "Alt. 3 e 4: novos planos de estudos em imagem; não aplicado",
+    "Alt. 5: novo plano em imagem e ramos (norma própria); não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 26-33",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Afixação pública da grelha de apreciação dos curricula - até 14 de Agosto de 1987.\n\n2 - Candidatura à matrícula - até 31 de Agosto de 1987.\n\n3 - Afixação das listas ordenadas - até 22 de Setembro de 1987.\n\n4 - Reclamação sobre os resultados finais da candidatura - de 23 a 25 de Setembro de 1987.\n\n5 - Decisão sobre as reclamações - de 28 a 30 de Setembro de 1987.\n\n6 - Matrículas e inscrições - de 1 a 9 de Outubro de 1987.\n\n7 - Início das aulas - 12 de Outubro de 1987.\n\n8 - Comunicação dos resultados ao Gabinete Coordenador do Ingresso no Ensino Superior - até 29 de Outubro de 1987.",
+    "depois": "1 - Afixação pública da grelha de apreciação dos curricula - até 7 de Outubro de 1987.\n\n2 - Candidatura à matrícula - até 13 de Outubro de 1987.\n\n3 - Afixação das listas ordenadas - até 15 de Outubro de 1987.\n\n4 - Reclamação sobre os resultados finais da candidatura - até 19 de Outubro de 1987.\n\n5 - Decisão sobre as reclamações - até 21 de Outubro de 1987.\n\n6 - Matrículas e inscrições - de 22 de Outubro de 1987 a 26 de Outubro de 1987.\n\n7 - Início das aulas - 27 de Outubro de 1987.\n\n8 - Comunicação dos resultados da candidatura ao Gabinete Coordenador do Ingresso no Ensino Superior - até 16 de Novembro de 1987.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:494871:por",
+    "alterador": "pt:dre:495345:por"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:465999:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Loures, com a área de 1948,5940 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 (suspensão da actividade cinegética por 180 dias) não é textual; alterador 2, n.º 2.º, reduz a obrigação do n.º 6.º a um guarda sem dar nova redação; alterador 3 (anexação de prédios e fiscalização por dois guardas), alteradores 4, 5, 6 e 8 (anexações e desanexações com nova área total) e alterador 7 (renovação da concessão por 12 anos e anexação) alteram áreas, prazo e plantas sem nova redação do texto do original.",
+  "instrucoes": [
+    "Alterador 1: suspende a actividade cinegética por 180 dias - não textual, não aplicado.",
+    "Alterador 2, n.º 1.º: nova redação do n.º 1.º - substituída a unidade 6.",
+    "Alterador 2: adita o n.º 1.º-A - inserido a seguir à unidade 6.",
+    "Alterador 2, n.º 2.º: o n.º 6.º passa a obrigar só a um guarda, sem nova redação - não aplicado.",
+    "Alterador 3: anexa prédios (área total 2084,6140 ha) e fiscalização por dois guardas, um com transporte, sem nova redação - não aplicado.",
+    "Alteradores 4, 5 e 6: desanexação/anexação de prédios com nova área total - não aplicado.",
+    "Alterador 7: renova a concessão por 12 anos e anexa prédios (1901 ha) - não aplicado.",
+    "Alterador 8: desanexa e anexa prédios (2015 ha) - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

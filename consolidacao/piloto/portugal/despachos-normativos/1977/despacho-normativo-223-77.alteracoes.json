@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Poderão solicitar a sua participação no sistema de poupança-crédito as caixas económicas que satisfaçam simultaneamente as seguintes condições:\n\na) Capital e reservas não inferiores a 5000 contos;\n\nb) Depósitos à ordem, com pré-aviso e a prazo: saldo global não inferior a 150000 contos.",
+    "depois": "1 - Poderão solicitar a sua participação no sistema de poupança-crédito as caixas económicas que satisfaçam, simultaneamente, as seguintes condições:\n\na) Capital e reservas não inferiores a 10000 contos;\n\nb) Depósitos à ordem, com pré-aviso e a prazo: saldo global não inferior a 300000 contos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:280717:por",
+    "alterador": "pt:dre:381538:por"
+  }
+]

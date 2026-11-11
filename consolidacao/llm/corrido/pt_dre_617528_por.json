@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:617528:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de São João das Lampas, município de Sintra, com a área de 1199,1754 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A - Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alteradores 1 e 3 só suspendem a actividade cinegética da zona (não textual); alterador 4 anexa prédios à zona (área total de 1442 ha) por planta em imagem, sem instrução textual sobre o original; alterador 5 renova a concessão por 12 anos com nova planta em imagem, sem alterar o texto do original.",
+  "instrucoes": [
+    "Alterador 1: suspende a actividade cinegética por 180 dias; não textual, não aplicado.",
+    "Alterador 2, 1.º: nova redacção do n.º 1.º; substituída a unidade 6.",
+    "Alterador 2, 1.º: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 2, 3.º: revoga a Portaria n.º 1021/97, não o original; ignorado.",
+    "Alterador 3: suspende o exercício da caça até à renovação; não textual, não aplicado.",
+    "Alterador 4: anexação de prédios com planta; não textual, não aplicado.",
+    "Alterador 5: renovação da concessão e revogação da Portaria n.º 1016/2004; não textual quanto ao original, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

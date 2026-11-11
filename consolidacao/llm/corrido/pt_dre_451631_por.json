@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:451631:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 (Portaria 228/87), 2 (Portaria 246/88) e 3 (Portaria 167/90) substituem o quadro anexo dos adidos, que só vem em imagem (ver documento original); o n.º 1.º da Portaria 167/90 cria cargos sem instrução textual sobre o original.",
+  "instrucoes": [
+    "Alterador 1: o quadro anexo passa a ser o seguinte (só em imagem) - não aplicado.",
+    "Alterador 2: o quadro anexo passa a ser o seguinte (só em imagem) - não aplicado.",
+    "Alterador 3: cria cargos de adidos em acumulação e substitui o quadro anexo (só em imagem) - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

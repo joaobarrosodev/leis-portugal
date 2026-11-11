@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:460816:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (1 a 10) alteram ou substituem o quadro de pessoal, que só existe em imagem (unidade 9); o alterador 4 acresce lugares por mapa em imagem e o 10 define unidades orgânicas sem alterar o texto da portaria. Nada textual a aplicar.",
+  "instrucoes": [
+    "Alteradores 1-3, 5-7, 9: alterações parciais do quadro de pessoal em imagem: nao_aplicavel.",
+    "Alterador 4: extingue outro hospital e acresce lugares ao quadro por mapa em imagem: nao_aplicavel.",
+    "Alterador 8: altera quadros de vários estabelecimentos (em imagem): nao_aplicavel.",
+    "Alterador 10: substitui o quadro por novo quadro em imagem: nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

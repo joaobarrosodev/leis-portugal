@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º São reconhecidas a Escola Superior de Design e a Escola Superior de Marketing e Publicidade, integradas no Instituto de Artes Visuais, Design e Marketing, a funcionar nas instalações próprias, em Lisboa, do IADE - Instituto de Artes Visuais, Design e Marketing, S. A., entidade titular das Escolas acima mencionadas.",
+    "depois": "1.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:573705:por",
+    "alterador": "pt:dre:174821:por"
+  }
+]

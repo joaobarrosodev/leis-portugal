@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:288024:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de São Quintino, município de Sobral de Monte Agraço, com uma área de 1671,9580 ha.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 2, 2.º: o n.º 6.º passa a obrigar a manter só um guarda florestal auxiliar, mas sem nova redacção do texto (alteração não textual). Alteradores 4, 5 e 6 (anexação de prédios, correcção da área e da planta, renovação da concessão) não dão nova redacção ao texto do original. As plantas só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 1.º (2441,6833 ha) — ultrapassada pelas seguintes; nova planta só em imagem.",
+    "Alterador 2, 1.º: nova redacção do n.º 1.º (1707,6580 ha) — ultrapassada pelo alterador 3; aditado o n.º 1.º-A depois da unidade 6.",
+    "Alterador 2, 2.º: n.º 6.º passa a obrigar a um só guarda — sem redacção textual, não aplicado.",
+    "Alterador 3: nova redacção do n.º 1.º (1671,9580 ha) na unidade 6.",
+    "Alterador 4: anexação de prédios (1884,9280 ha) — sem alteração textual.",
+    "Alterador 5: correcção da área (1847 ha) e substituição da planta da Portaria n.º 965/99 — sem nova redacção do n.º 1.º, não aplicado.",
+    "Alterador 6: renovação da concessão e anexação (3137 ha) — sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

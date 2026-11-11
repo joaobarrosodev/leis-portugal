@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:508985:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias 413/91, 458/93, 974/93, 121/97, 728/97, 999/2000, 1374/2002 e 78/2006) substituem, aumentam ou alteram o quadro de pessoal anexo, que só vem em imagem, ou criam e extinguem lugares sem alterar o texto do original.",
+  "instrucoes": [
+    "Alt. 1 a 5, 7 e 8: quadros de pessoal em imagem: não aplicados.",
+    "Alt. 6 (Portaria 999/2000): cria um lugar de chefe de serviço no quadro, sem texto a alterar: não aplicado.",
+    "Alt. 3 n.º 2.º e alt. 8 n.º 2.º: extinção de lugares no quadro, não textual: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

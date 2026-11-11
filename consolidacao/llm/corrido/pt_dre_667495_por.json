@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:667495:por",
+  "substituicoes": [
+    {
+      "de": 19,
+      "ate": 19,
+      "texto": "5.º Os funcionários e agentes com remuneração base correspondente ao índice 100 da escala salarial do regime geral são remunerados, no ano de 1995, pelo índice 106.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 101-A/96) é a revisão anual de 1996: fixa novos valores por disposições próprias, sem instrução de alteração textual do original.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 5.º (índice 106) - unidade 19 substituída",
+    "Alt. 2: novos valores de 1996 em diploma autónomo - sem alteração textual, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:288015:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante na planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Espite, município de Ourém, com a área de 1245 ha.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "A nova planta (alteradores 1 e 3) só vem em imagem. Alterador 2 (suspensão da actividade cinegética por 180 dias) e alterador 4 (revogação da concessão da zona de caça) não são alterações textuais do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 1.º (1475 ha) e aditamento do n.º 1.º-A — ultrapassado pelo alterador 3, que revoga a Portaria n.º 604/97 e volta a redigir o n.º 1.º e a aditar o n.º 1.º-A.",
+    "Alterador 2: suspensão da actividade cinegética — sem alteração textual.",
+    "Alterador 3, 1.º: nova redacção do n.º 1.º (1245 ha) na unidade 6 e aditamento do n.º 1.º-A depois da unidade 6; 3.º revoga as Portarias n.os 604/97 e 683-F/97 (outros diplomas).",
+    "Alterador 4: revogação da concessão — não é alteração textual, não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

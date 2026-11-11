@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:280717:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 7,
+      "texto": "1 - Poderão solicitar a sua participação no sistema de poupança-crédito as caixas económicas que satisfaçam, simultaneamente, as seguintes condições:\n\na) Capital e reservas não inferiores a 10000 contos;\n\nb) Depósitos à ordem, com pré-aviso e a prazo: saldo global não inferior a 300000 contos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 1 (unidades 5 a 7)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:283898:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 3: o plano de estudos de Organização e Gestão de Empresas (anexo I) passa a ser o do anexo da Portaria n.º 447/98, que só vem em imagem, tal como os anexos do original. Alteradores 1 e 2 mudam a denominação do curso de Tecnologias de Gestão (para Gestão e Administração e de volta para Tecnologias de Gestão) sem instrução de alteração do texto do original.",
+  "instrucoes": [
+    "Alterador 1: o curso de Tecnologias de Gestão passa a denominar-se Gestão e Administração — não é alteração textual, não aplicado.",
+    "Alterador 2, 1.º: o curso volta a designar-se Tecnologias de Gestão — não é alteração textual (e o texto atual já diz Tecnologias de Gestão), não aplicado.",
+    "Alterador 3, 1.º: novo plano de estudos de Organização e Gestão de Empresas — anexo só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

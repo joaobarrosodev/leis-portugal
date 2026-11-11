@@ -1,0 +1,60 @@
+{
+  "id": "pt:dre:392016:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "3 - A contracção de empréstimos pela ANAM, S. A., é precedida de autorização do Ministério das Finanças.",
+      "alterador": 2
+    },
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "Art. 2.º - 1 - O capital social da ANAM, S. A, é de 50000000$00 e encontra-se integralmente subscrito pelo Estado, em 60%, pela Região Autónoma da Madeira (RAM), em 20%, e pela ANA - Aeroportos e Navegação Aérea, E. P., em 20%.",
+      "alterador": 1
+    },
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "3 - Os direitos do Estado, como accionista da sociedade, são exercidos por representante designado por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.",
+      "alterador": 1
+    },
+    {
+      "de": 37,
+      "ate": 37,
+      "texto": "Art. 4.º O capital social é de 50000000$00, integralmente realizado em dinheiro pelo Estado, no montante de 30000000$00, pela Região Autónoma da Madeira, no montante de 10000000$00, e pela ANA - Aeroportos e Navegação Aérea, E. P., no montante de 10000000$00, encontrando-se representado por acções nominativas com o valor nominal de 1000000$00 cada uma.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 16,
+      "texto": "4 - Em futuros aumentos de capital social, a participação do Estado poderá reduzir-se até atingir um mínimo de 10% enquanto a Região Autónoma da Madeira manterá uma participação fixa de 20%, sendo o restante subscrito e realizado pela ANA - Aeroportos e Navegação Aérea, E. P.",
+      "alterador": 3
+    },
+    {
+      "depois_de": 23,
+      "texto": "Artigo 6.º-A\n\n1 - São concedidos à ANAM - Aeroportos e Navegação Aérea da Madeira os seguintes benefícios fiscais:\n\na) Isenção de contribuição autárquica, desde que o interesse municipal seja reconhecido por deliberação da assembleia municipal da área de localização dos respectivos imóveis, o que vale como renúncia à correspondente receita;\n\nb) Isenção do imposto municipal de sisa e do imposto sobre sucessões e doações, desde que o interesse municipal seja reconhecido por deliberação da assembleia municipal da área de localização dos respectivos imóveis, o que vale como renúncia à correspondente receita;\n\nc) Isenção do imposto do selo previsto nos artigos 1, 50, 54, 92, 93, 94, 99, 100, 101, 102, 114, 120-A, 136, 149 e 167 da Tabela Geral do Imposto do Selo;\n\nd) Isenção de emolumentos notariais e de registo.\n\n2 - O regime de benefícios fiscais previsto no número anterior vigorará até ao termo do ano 2005.",
+      "alterador": 4
+    },
+    {
+      "depois_de": 24,
+      "texto": "Art. 8.º As obras a realizar nos aeroportos da Região Autónoma da Madeira pela ANAM, S. A., estão sujeitas ao regime jurídico das empreitadas de obras públicas.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 art. 1.º: nova redacção do artigo 2.º (n.os 1 e 3; n.º 2 '...' mantido): unidades 14 e 16.",
+    "Alterador 1 art. 2.º: nova redacção do artigo 4.º dos Estatutos: unidade 37.",
+    "Alterador 2 art. 1.º: nova redacção do n.º 3 do artigo 1.º (n.os 1 e 2 '...' mantidos): unidade 13.",
+    "Alterador 2 art. 2.º: aditado o artigo 8.º, inserido depois da unidade 24 (artigo 7.º).",
+    "Alterador 2 art. 3.º: reunião da assembleia geral para alterações estatutárias: norma avulsa, sem texto a aplicar.",
+    "Alterador 3: aditado n.º 4 ao artigo 2.º (n.os 1 a 3 '...'), inserido depois da unidade 16.",
+    "Alterador 4 art. 47.º: aditado o artigo 6.º-A, inserido depois da unidade 23 (fim do artigo 6.º).",
+    "Alterador 5: lei orgânica do Governo; só menciona a ANAM na lista de empresas tuteladas; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

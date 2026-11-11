@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:664491:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria n.º 79-A/94: é a revisão anual de 1994, com regime próprio; não substitui, adita nem revoga texto da Portaria n.º 1164-A/92 (só a refere quanto à integração da valorização de 0,5% do n.º 8.º e como fonte de valores atualizados). Nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

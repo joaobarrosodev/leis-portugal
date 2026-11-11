@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:460861:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações (Portarias n.os 1118/81, 1320/82, 344/83, 330/84, 210/87, 150/88, 413/91, 422/92, 838/92, 915/92, 193/97 e 1357/2002) incidem sobre o quadro de pessoal anexo, que só existe em imagem no documento original (unidade 9); não há texto que se possa alterar com segurança.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 1118/81): alterações ao quadro de pessoal, só em imagem; não aplicado.",
+    "Alterador 2 (Portaria n.º 1320/82): quadro anexo (pessoal técnico superior, operário e auxiliar), só em imagem; não aplicado.",
+    "Alterador 3 (Portaria n.º 344/83): quadro anexo (pessoal de enfermagem), só em imagem; não aplicado.",
+    "Alterador 4 (Portaria n.º 330/84): quadro anexo (pessoal médico), só em imagem; não aplicado.",
+    "Alterador 5 (Portaria n.º 210/87): quadro anexo (pessoal técnico de diagnóstico e terapêutica), só em imagem; não aplicado.",
+    "Alterador 6 (Portaria n.º 150/88): alteração de vários quadros de pessoal, só em imagem; não aplicado.",
+    "Alterador 7 (Portaria n.º 413/91): substituição do quadro de pessoal médico, só em imagem; não aplicado.",
+    "Alterador 8 (Portaria n.º 422/92): substituição do quadro de pessoal médico (aprovado pela Portaria n.º 413/91), só em imagem; não aplicado.",
+    "Alterador 9 (Portaria n.º 838/92): substitui o quadro de pessoal não médico, só em imagem; os n.os 2.º e 3.º são disposições próprias, não alteram o texto do original; não aplicado.",
+    "Alterador 10 (Portaria n.º 915/92): alteração do quadro anexo, só em imagem; não aplicado.",
+    "Alterador 11 (Portaria n.º 193/97): altera o quadro de pessoal médico aprovado pela Portaria n.º 422/92 (só em imagem) e extingue um lugar; não textual; não aplicado.",
+    "Alterador 12 (Portaria n.º 1357/2002): mapa anexo só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

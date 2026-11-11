@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A subida verificada nos custos de produção ao longo dos doze meses em que os actuais preços estiveram em vigor, a necessidade de continuar a manter uma certa capacidade de autofinanciamento para a expansão do sector eléctrico e a necessidade de reforçar a receita própria do Fundo de Apoio Térmico para pagar o elevado défice que acumulou nos anos recentes de seca prolongada, cujos efeitos não foram atempadamente repercutidos nos preços, obrigaram a realizar um acréscimo dos preços de venda de electricidade, que o Governo considera incomportável com os objectivos económicos e sociais que pretende atingir em 1985.",
+    "depois": "A subida verificada nos custos de produção ao longo dos doze meses em que os actuais preços estiveram em vigor, a necessidade de continuar a manter uma certa capacidade de autofinanciamento para a expansão do sector eléctrico e a necessidade de reforçar a receita própria do Fundo de Apoio Térmico para pagar o elevado défice que acumulou nos anos recentes de seca prolongada, cujos efeitos não foram atempadamente repercutidos nos preços, obrigariam a realizar um acréscimo dos preços de venda de electricidade, que o Governo considera incomportável com os objectivos económicos e sociais que pretende atingir em 1985.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:162787:por",
+    "alterador": "pt:dre:328258:por"
+  },
+  {
+    "artigo": "unidades 24-24",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Nos fornecimentos de energia eléctrica facturados pelas tarifas de alta, média ou baixa tensão será aplicado um adicional para o Fundo de Apoio Térmico no valor de 10% da facturação total relativa à venda de energia eléctrica, abrangendo, nomeadamente, as receitas da energia activa, potência, energia reactiva e taxas de acesso a tarifas diferentes das da tensão de entrega.",
+    "depois": "1 - Nos fornecimentos de energia eléctrica facturados pelas tarifas de alta, média ou baixa tensão será aplicado um adicional para o Fundo de Apoio Térmico no valor de 8% da facturação total relativa à venda de energia eléctrica, abrangendo, nomeadamente, as receitas da energia activa, potência, energia reactiva e taxas de acesso a tarifas diferentes das da tensão de entrega.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:162787:por",
+    "alterador": "pt:dre:328258:por"
+  },
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Nos fornecimentos, de energia eléctrica em média ou alta tensão com facturação pela tarifa de muito alta tensão será aplicado um adicional à respectiva taxa mensal de acesso no valor de 350$00 por kilowatt de potência contratada.",
+    "depois": "2 - Nos fornecimentos, de energia eléctrica em média ou alta tensão com facturação pela tarifa de muito alta tensão será aplicado um adicional à respectiva taxa mensal de acesso no valor de 325$00 por kilowatt de potência contratada.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:162787:por",
+    "alterador": "pt:dre:328258:por"
+  }
+]

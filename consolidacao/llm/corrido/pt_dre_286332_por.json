@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:286332:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 18,
+      "texto": "5.º A comissão referida no n.º 2.º desta portaria será nomeada por despacho ministerial, sob proposta da Direcção-Geral de Pessoal, ouvida a Inspecção-Geral de Ensino.\n\n6.º Para efeitos do disposto no número anterior, a Direcção-Geral de Pessoal ouvirá ainda a respectiva Direcção-Geral de Ensino quanto aos docentes a propor.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 672/85 dá nova redação ao n.º 2-A, aditado pela Portaria n.º 25/83, que não existe no texto atual (essa portaria não está entre os alteradores); não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 250/85): nova redação dos n.os 5.º e 6.º; substituídas as unidades 17-18.",
+    "Alterador 2 (Portaria 672/85): nova redação do n.º 2-A, ausente do texto atual; não aplicado (nao_aplicavel).",
+    "Alterador 3 (DLR 21/2006/M): altera o DLR 4/2000/M, outro diploma, apenas citando o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

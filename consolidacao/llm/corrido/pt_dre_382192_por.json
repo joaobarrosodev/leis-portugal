@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:382192:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 5 extinguem os cursos de Técnico de Construção Civil, Técnico de Instalações Eléctricas, Técnico de Electrotecnia, Técnico de Gestão e Técnico de Transportes e revogam a portaria 'nas partes que àqueles cursos respeitam', sem indicar as unidades; revogação parcial sem alvo textual definido (e planos em imagem): não aplicada.",
+  "instrucoes": [
+    "Alterador 1 (888/2005): extingue o curso de Técnico de Construção Civil (especificações) e revoga parcialmente a portaria nessa parte: alvo indeterminado, não aplicado.",
+    "Alterador 2 (890/2005): idem para Técnico de Instalações Eléctricas.",
+    "Alterador 3 (917/2005): idem para Técnico de Electrotecnia.",
+    "Alterador 4 (899/2005): idem para Técnico de Gestão (especificações).",
+    "Alterador 5 (1307/2006): idem para Técnico de Transportes (planos A e B)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

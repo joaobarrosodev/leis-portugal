@@ -1,0 +1,49 @@
+{
+  "id": "pt:dre:372175:por",
+  "substituicoes": [
+    {
+      "de": 39,
+      "ate": 44,
+      "texto": "1 - As vagas fixadas distribuem-se pelos seguintes contingentes:\n\na) Candidatos titulares do bacharelato ou curso superior a que se referem as alíneas a) e b) do n.º 2.º, com excepção dos referidos na alínea b) deste número;\n\nb) Candidatos que hajam concluído no ano lectivo imediatamente anterior o bacharelato ou o curso superior a que se referem as alínea a) e b) do n.º 2.º;\n\nc) Candidatos titulares dos cursos equiparados ao grau de bacharel a que se referem as alíneas c) a f) do n.º 2.º;\n\nd) Candidatos titulares dos bacharelatos e das licenciaturas a que se referem as alíneas g) e h) do n.º 2.º\n\n2 - Os candidatos que satisfaçam simultaneamente os requisitos para a inclusão nos contingentes a que se referem a alínea d) e qualquer outra alínea serão considerados no contingente a que se refere a alínea d).\n\n3 - A percentagem das vagas fixadas nos termos do n.º 3.º a afectar a cada contingente será a seguinte:\n\na) Contingente a que se refere a alínea a) do n.º 1 do n.º 5.º - 45%;\n\nb) Contingente a que se refere a alínea b) do n.º 1 do n.º 5.º - 20%;\n\nc) Contingente a que se refere a alínea c) do n.º 1 do n.º 5.º - 25%;\n\nd) Contingente a que se refere a alínea d) do n.º 1 do n.º 5.º - 10%.",
+      "alterador": 2
+    },
+    {
+      "de": 99,
+      "ate": 104,
+      "texto": "a) Em primeiro lugar, são colocados os candidatos do contingente a que se refere a alínea b) do n.º 1 do n.º 5.º;\n\nb) As eventuais vagas sobrantes da operação referida na alínea anterior são adicionadas às vagas do contingente a que se refere a alínea a) do n.º 1 do n.º 5.º;\n\nc) Seguidamente, são colocados os candidatos do contingente a que se refere a alínea d) do n.º 1 do n.º 5.º;\n\nd) As eventuais vagas sobrantes da operação referida na alínea anterior são adicionadas às vagas do contingente a que se refere a alínea a) do n.º 1 do n.º 5.º;\n\ne) Seguidamente, são colocados os candidatos do contingente a que se refere a alínea a) do n.º 1 do n.º 5.º;\n\nf) As eventuais vagas sobrantes da operação referida na alínea anterior são adicionadas às vagas do contingente a que se refere a alínea c) do n.º 1 do n.º 5.º;\n\ng) Seguidamente, são colocados os candidatos do contingente a que se refere a alínea c) do n.º 1.\n\nh) Finalmente proceder-se-á à colocação dos candidatos não colocados reunidos num contingente único nas vagas eventualmente sobrantes da operação referida na alínea anterior.",
+      "alterador": 2
+    },
+    {
+      "de": 174,
+      "ate": 174,
+      "texto": "1 - Os prazos para a candidatura, selecção, matrícula e inscrição serão fixados anualmente por despacho do presidente da comissão instaladora do Instituto Politécnico de Coimbra, sob proposta do conselho directivo do Instituto Superior de Contabilidade e Administração de Coimbra (ISCAC).\n\n2 - O despacho a que se refere o n.º 1 será objecto de afixação pública nas instalações do Instituto Politécnico e do ISCAC, bem como de publicação na 2.ª série do Diário da República antes do início dos prazos a que o mesmo se refere.\n\n3 - Enquanto não for nomeado o presidente da comissão instaladora do Instituto Politécnico de Coimbra, a competência a que se refere o n.º 1 será exercida pelo presidente do conselho directivo do Instituto Superior de Contabilidade e Administração de Coimbra.",
+      "alterador": 1
+    },
+    {
+      "de": 188,
+      "ate": 190,
+      "texto": "30.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 171,
+      "texto": "25.º-A\n\nGrau de licenciado em Controlo de Gestão\n\nAos titulares do diploma de estudos superiores especializados em Controlo de Gestão do Instituto Superior de Contabilidade e Administração do Instituto Politécnico de Coimbra que hajam ingressado no respectivo curso com a titularidade de uma das habilitações a que se referem as alíneas a) e b) do n.º 2.º é conferido o grau de licenciado em Controlo de Gestão.\n\n25.º-B\n\nClassificação final da licenciatura\n\nA classificação da licenciatura é a resultante do cálculo da expressão seguinte, arredondada às unidades, considerando como unidade a fracção não inferior a cinco décimas:\n\n(3B + 2D)/5\n\nem que:\n\nB é a classificação final do curso de bacharelato;\n\nD é a classificação final do curso de estudos superiores especializados.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 3: o novo plano de estudos (anexo I) consta de anexo só em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º-3.º: alteram as Portarias 92-B/86, 686/86 e 751/86 (outros diplomas): ignorados.",
+    "Alterador 1, 4.º n.º 1: nova redacção do n.º 26.º (epígrafe igual): corpo, unidade 174, substituído pelos n.os 1 a 3.",
+    "Alterador 1, 4.º n.º 2: revogado o n.º 30.º: unidades 188-190 passam a '30.º - (Revogado.)'.",
+    "Alterador 2, 1.º n.º 1: nova redacção do n.º 5.º: unidades 39-44 substituídas.",
+    "Alterador 2, 1.º n.º 2: nova redacção do n.º 12.º: alíneas do n.º 1 (unidades 99-104) substituídas pelas alíneas a) a h); n.º 2 igual.",
+    "Alterador 2, 2.º: aditados os n.os 25.º-A e 25.º-B, inseridos depois da unidade 171.",
+    "Alterador 3: plano de estudos substituído por anexo em imagem: nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

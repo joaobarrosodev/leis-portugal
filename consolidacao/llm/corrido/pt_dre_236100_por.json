@@ -1,0 +1,96 @@
+{
+  "id": "pt:dre:236100:por",
+  "substituicoes": [
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "a) Automóveis ligeiros, de passageiros ou mistos, e motociclos de passageiros com ou sem carro;",
+      "alterador": 1
+    },
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "2. A matrícula ou o registo a que se refere o n.º 1 é o que, conforme o caso, deva ser efectuado nos serviços competentes de viação, da aeronáutica civil, da marinha mercante e dos serviços hidráulicos.",
+      "alterador": 1
+    },
+    {
+      "de": 47,
+      "ate": 47,
+      "texto": "3. As isenções previstas nas alíneas g) e h) do n.º 1 não podem ser fruídas por cada beneficiário em relação a mais de um veículo, devendo o grau de invalidez ser comprovado por documento emitido por entidade competente para o efeito.",
+      "alterador": 1
+    },
+    {
+      "de": 51,
+      "ate": 55,
+      "texto": "c) As aeronaves concebidas ou preparadas para (trabalho aéreo» (aerial-work), quando autorizadas pela Direcção-Geral da Aeronáutica Civil e exclusivamente utilizadas em actividades no âmbito do «trabalho aéreo»;\n\nd) As aeronaves sem motor e os barcos de arqueação bruta até 2 t sem motor ou com motor de potência não excedente a 25 H. P.;\n\ne) Os barcos, com ou sem motor, pertencentes a clubes náuticos cuja actividade esteja autorizada pela entidade competente;\n\nf) Os barcos, com ou sem motor, com arqueação bruta não superior a 10 t construídos pelo seu proprietário;\n\ng) Os barcos, com ou sem motor, com arqueação bruta não superior a 20 t, transformados a partir de embarcações de pesca, de comércio, salva-vidas ou de sucata;",
+      "alterador": 1
+    },
+    {
+      "de": 73,
+      "ate": 78,
+      "texto": "b) Para motociclos:\n\nTABELA II\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/05/12400/07500752.pdf)\n\nc) Para aeronaves:\n\nTABELA III\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/05/12400/07500752.pdf)\n\nd) Para barcos de recreio:\n\nTABELA IV\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/05/12400/07500752.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 79,
+      "ate": 79,
+      "texto": "2. A antiguidade dos automóveis e motociclos e dos barcos de recreio será reportada a 1 de Janeiro do ano a que respeita o imposto e contada por anos civis, incluindo, quanto aos automóveis e motociclos, o ano da matrícula constante do respectivo livrete e, quanto aos barcos, o do registo constante do respectivo título.",
+      "alterador": 1
+    },
+    {
+      "de": 81,
+      "ate": 82,
+      "texto": "4. Os automóveis que, segundo o livrete e o título de registo, estejam simultaneamente classificados como automóveis e barcos de recreio ficam sujeitos às taxas da tabela I ou da tabela IV, conforme as que produzirem maior imposto.\n\n5. A alteração da cilindrada ou do combustível utilizado pelos automóveis e motociclos e, bem assim, da potência da propulsão dos barcos de recreio não implica correcção do imposto já pago, respeitante ao ano em que a alteração se verificar.",
+      "alterador": 1
+    },
+    {
+      "de": 95,
+      "ate": 95,
+      "texto": "2. O processamento da guia será solicitado pelo contribuinte, devendo para o efeito ser exibido o título de matrícula ou registo do veículo e, no caso das aeronaves, também o certificado de navigabilidade.",
+      "alterador": 1
+    },
+    {
+      "de": 97,
+      "ate": 97,
+      "texto": "Art. 12.º - 1. O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades e, em especial, pelo pessoal das Direcções-Gerais das Contribuições e Impostos, de Transportes Terrestres, de Viação, dos Serviços Hidráulicos e das Alfândegas, da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Guarda Fiscal, das conservatórias do registo comercial e de automóveis, das capitanias dos portos e da Polícia Marítima e, bem assim, pelo pessoal privativo dos serviços de estradas e dos aeroportos.",
+      "alterador": 1
+    },
+    {
+      "de": 101,
+      "ate": 101,
+      "texto": "2. Os dísticos modelos n.os 2, 4 e 7, depois de inscritas no verso, de forma indelével, a tinta ou esferográfica, a marca e a matrícula do veículo, serão obrigatoriamente afixados ou colocados:\n\na) Nos automóveis - no canto superior direito do pára-brisas e em lugar bem visível do exterior;\n\nb) Nos motociclos - à frente, do lado direito, em lugar visível e preservados da humidade, devendo para o efeito ser utilizados suportes apropriados.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 45,
+      "texto": "h) Outros deficientes cujo grau de invalidez seja igual ou superior a 60%, nos termos do n.º 4 deste artigo.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 47,
+      "texto": "4. A isenção prevista na alínea h) do n.º 1 respeita apenas aos seguintes veículos, cuja propriedade esteja registada em nome do beneficiário:\n\na) Automóveis compreendidos nos grupos A, B e C da tabela I do n.º 1, alínea a), do artigo 8.º;\n\nb) Motociclos compreendidos nos grupos G a I da tabela II do n.º 1, alínea b), do mesmo artigo.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 60,
+      "texto": "3. A isenção prevista na alínea f) do n.º 1 será concedida mediante a apresentação de documento, emitido pelos serviços competentes da Inspecção-Geral de Navios, comprovativo de a embarcação ter sido construída pelo próprio («autoconstrução»).\n\n4. Para efeitos da isenção estabelecida na alínea g) do n.º 1 e da redução do imposto prevista na tabela IV do n.º 1, alínea d), do artigo 8.º, deverá ser apresentado documento comprovativo da transformação do barco, emitido pelos serviços a que se refere o número anterior.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Decreto-Lei n.º 81/76), artigo 1.º: aprova um novo Regulamento do Imposto sobre Veículos que substitui, a partir de 1 de Janeiro de 1976, o regulamento aprovado pelo original; o novo regulamento é aprovado por outro diploma, não é uma nova redação do texto do original, e não revoga os artigos 1.º a 3.º do decreto-lei, pelo que não foi aplicado. As tabelas de taxas do alterador 1 só vêm em imagem (copiou-se apenas a ligação).",
+  "instrucoes": [
+    "Alterador 1, art. 1.º e arts. 3.º e 4.º: sujeição dos motociclos, aplicação aos motociclos e prazo de 1975 — normas próprias, sem alteração textual.",
+    "Alterador 1, art. 2.º, art. 1.º do Regulamento: nova alínea a) do n.º 1 (unidade 26) e novo n.º 2 (unidade 29).",
+    "Alterador 1, art. 2.º, art. 5.º do Regulamento: aditada alínea h) ao n.º 1 (depois da 45), novo n.º 3 (47) e aditado n.º 4 (depois da 47).",
+    "Alterador 1, art. 2.º, art. 6.º do Regulamento: novas alíneas c) a g) do n.º 1 (51 a 55; h) e i) mantêm-se) e aditados n.os 3 e 4 (depois da 60).",
+    "Alterador 1, art. 2.º, art. 8.º do Regulamento: alíneas b) a d) do n.º 1 com tabelas II a IV (73 a 78, tabelas só como ligação), novos n.os 2, 4 e 5 (79, 81, 82).",
+    "Alterador 1, art. 2.º, arts. 11.º, 12.º e 13.º do Regulamento: novo n.º 2 do art. 11.º (95), novo n.º 1 do art. 12.º (97), novo n.º 2 do art. 13.º com alíneas (101).",
+    "Alterador 2, art. 1.º: novo Regulamento em substituição do anterior — não aplicado (ver nao_aplicavel).",
+    "Alterador 3 (Portaria n.º 175/76): execução do Regulamento aprovado pelo Decreto-Lei n.º 81/76 — sem instrução dirigida ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

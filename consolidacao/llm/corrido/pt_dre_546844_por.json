@@ -1,0 +1,54 @@
+{
+  "id": "pt:dre:546844:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "a) (Revogada.)",
+      "alterador": 3
+    },
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "b) (Revogada.)",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "c) (Revogada.)",
+      "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "d) (Revogada.)",
+      "alterador": 3
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "e) (Revogada.)",
+      "alterador": 2
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "3.º (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "As revogações parciais (nas partes que respeitam aos cursos extintos) atingem também os planos curriculares dos mapas anexos (unidade 23), que só existem em imagem; essa parte não foi aplicada. As referências aos cursos nos n.os 4.º a 7.º ficam como estão, por não se poder separar o texto com segurança.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 892/2004), 6.º: extintos os cursos de Técnico de Produção Vegetal, Técnico de Produção Animal e Técnico de Produção Animal/Transformação, com revogação parcial do original nas partes que lhes respeitam; alíneas b) e c) do n.º 1.º (unidades 10 e 11) e n.º 3.º (unidade 15, especificação terminal de Transformação) passam a revogados.",
+    "Alterador 2 (Portaria n.º 900/2005), 6.º e 7.º: extinto o curso de Técnico de Gestão Equina, com revogação parcial na parte respetiva; alínea e) (unidade 13) passa a revogada. (A posterior revogação da Portaria n.º 900/2005 pela Portaria n.º 76/2020 não repristina o texto.)",
+    "Alterador 3 (Portaria n.º 905/2005), 6.º e 7.º: extintos os cursos de Técnico de Enologia e de Técnico de Vitivinicultura criados pelo original, com revogação parcial nas partes respetivas; alíneas a) e d) (unidades 9 e 12) passam a revogadas.",
+    "Mapas anexos com os planos curriculares só em imagem; não alterados (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 15-15: parágrafo que não está no alterador nem no original: 3.º (Revogado.)"
+  ]
+}

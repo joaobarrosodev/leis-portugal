@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 13-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1) O 1.º ciclo do curso tem a duração de seis semestres lectivos;\n\n2) O 2.º ciclo do curso tem a duração de quatro semestres lectivos.",
+    "depois": "a) 1.º ciclo - seis semestres lectivos;\n\nb) 2.º ciclo - dois semestres lectivos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:429625:por",
+    "alterador": "pt:dre:277124:por"
+  },
+  {
+    "artigo": "depois da unidade 19",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "3.º-A\n\nDuração do semestre lectivo\n\nO número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:429625:por",
+    "alterador": "pt:dre:277124:por"
+  },
+  {
+    "artigo": "depois da unidade 22",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "4.º-A\n\nEstágio\n\nA unidade curricular Estágio realiza-se nos termos fixados por regulamento a aprovar pelo órgão legalmente competente da Escola.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:429625:por",
+    "alterador": "pt:dre:277124:por"
+  },
+  {
+    "artigo": "unidades 41-41",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A conclusão com aproveitamento na totalidade das unidades curriculares que integram o plano de estudos do curso de Engenharia de Sistemas Electrónicos Marítimos, no ramo de Tecnologia Marítima, satisfaz aos requisitos obrigatórios para obtenção do certificado de radioelectrónico de 1.ª classe, desde que estejam satisfeitos os restantes requisitos exigidos para a respectiva certificação.",
+    "depois": "1 - A conclusão com aproveitamento da totalidade das unidades curriculares que integram os 1.º e 2.º ciclos do curso de Engenharia de Sistemas Electrónicos Marítimos, no ramo de Tecnologia Marítima, satisfaz aos requisitos obrigatórios para obtenção do certificado de radioelectrónico de 1.ª classe, emitido nos termos do Regulamento de Rádio da União Internacional das Telecomunicações.\n\n2 - A conclusão com aproveitamento da totalidade das unidades curriculares que integram os 1.º e 2.º ciclos do curso de Engenharia de Sistemas Electrónicos Marítimos, no ramo de Tecnologia Marítima, possibilita ainda a obtenção dos seguintes certificados de qualificação e provas documentais previstos na Convenção STCW78 e Emendas, desde que estejam satisfeitos os restantes requisitos exigidos para a respectiva emissão:\n\na) Certificado de qualificação para a condução de embarcações de salvamento, ao abrigo da secção A-VI/2-1;\n\nb) Certificado de segurança básica, ao abrigo da secção A-VI/1-1, A-VI/1-2, A-VI/1-3 e A-VI/1-4;\n\nc) Certificado de familiarização em navios ro-ro de passageiros, ao abrigo da secção A-V/2, parágrafo 2;\n\nd) Certificado de gestão de crises e comportamento humano, ao abrigo da secção A-V/2, parágrafo 5;\n\ne) Controlo de multidões em navios de passageiros ro-ro, ao abrigo da secção A-V/2, parágrafo 1;\n\nf) Segurança na comunicação com passageiros em navios ro-ro de passageiros, ao abrigo da secção A-V/2, parágrafo 3.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:429625:por",
+    "alterador": "pt:dre:277124:por"
+  }
+]

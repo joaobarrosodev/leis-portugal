@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:568476:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "| Cargo (a) | Contra-almirante/Major-General | Capitão-de-Mar-e-Guerra/Coronel | Capitão-de-Fragata/Tenente-Coronel | Sargentos | Praças |\n| --- | --- | --- | --- | --- | --- |\n| Chefe da Representação Militar: | 1 | - | - | - | - |\n| Subchefe da Representação Militar | - | 1 | - | - | - |\n| Adjunto do Representante | - | - | 2 | - | - |\n| Amanuense | - | - | - | 2 | - |\n| Auxiliares | - | - | - | - | 2 |\n| Totais | 1 | 1 | 2 | 2 | 2 |\n| Total |  | 8 |  |  |  |\n\n(a) As descrições dos cargos serão elaboradas de acordo com normas aprovadas no âmbito do EMGFA.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 524/89) substitui o quadro do n.º 3.º por um quadro que só vem em imagem; fica de qualquer modo substituído e revogado pelo alterador 2.",
+  "instrucoes": [
+    "Alt. 1: nova composição do n.º 3.º em imagem - não aplicada (revogada depois pelo alt. 2)",
+    "Alt. 2, n.º 1: nova composição da Representação Militar (quadro anexo em texto) - unidade 7 substituída pelo quadro",
+    "Alt. 2, n.º 3: revoga a Portaria n.º 524/89 - não é instrução sobre o texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

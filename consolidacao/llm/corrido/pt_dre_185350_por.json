@@ -1,0 +1,48 @@
+{
+  "id": "pt:dre:185350:por",
+  "substituicoes": [
+    {
+      "de": 33,
+      "ate": 33,
+      "texto": "4.º - (Revogado.)",
+      "alterador": 4
+    },
+    {
+      "de": 55,
+      "ate": 60,
+      "texto": "Art. 6.º - (Revogado.)",
+      "alterador": 4
+    },
+    {
+      "de": 78,
+      "ate": 113,
+      "texto": "Art. 10.º - (Revogado.)\n\nArt 11.º - (Revogado.)\n\nArt. 12.º - (Revogado.)\n\nArt. 13.º - (Revogado.)",
+      "alterador": 4
+    },
+    {
+      "de": 114,
+      "ate": 115,
+      "texto": "Art. 14.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 23122): a extinção da delegação do Porto (art. 10.º) não é alteração textual; o resto aprova regulamento próprio. Alterador 2 (Portaria n.º 737/76): suspensão das disposições sobre a comissão executiva, sem alteração textual. Alterador 3 (Portaria n.º 756/76): nova redacção do n.º 18.º do art. 11.º, absorvida pela revogação posterior do art. 11.º pelo alterador 4.",
+  "instrucoes": [
+    "Alterador 1, 6.º: revoga o art. 14.º - unidades 114-115 (Revogado.); extinção da delegação não textual",
+    "Alterador 2: suspensão da comissão executiva - não textual",
+    "Alterador 3: nova redacção do n.º 18.º do art. 11.º (unidade 97) - fica sem efeito porque o art. 11.º é revogado a seguir",
+    "Alterador 4, 2.º: revoga n.º 4 do art. 3.º (unidade 33), art. 6.º (55-60) e arts. 10.º a 13.º (78-113)",
+    "Alterador 4, 3.º: revoga a Portaria n.º 23122 - outro diploma, ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 55-60: parágrafo que não está no alterador nem no original: Art. 6.º - (Revogado.)",
+    "substituição 78-113: parágrafo que não está no alterador nem no original: Art. 10.º - (Revogado.)",
+    "substituição 78-113: parágrafo que não está no alterador nem no original: Art 11.º - (Revogado.)",
+    "substituição 78-113: parágrafo que não está no alterador nem no original: Art. 12.º - (Revogado.)",
+    "substituição 78-113: parágrafo que não está no alterador nem no original: Art. 13.º - (Revogado.)",
+    "substituição 114-115: parágrafo que não está no alterador nem no original: Art. 14.º - (Revogado.)"
+  ]
+}

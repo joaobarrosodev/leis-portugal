@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:358366:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (1 a 8) criam ou aditam lugares ou quadros aos mapas anexos à portaria, que só existem em imagem (ver documento original). Nada aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1074/92): adita um lugar ao mapa II (imagem): não aplicado.",
+    "Alterador 2 (Portaria 1247/93): adita lugares aos mapas II e III (imagem); o 1.º altera o quadro do Instituto de Higiene e Medicina Tropical, outro diploma: não aplicado.",
+    "Alterador 3 (Portaria 275/94): aumenta lugares no mapa III (imagem): não aplicado.",
+    "Alterador 4 (Portaria 325/94): acresce um lugar ao quadro da FCT (mapa em imagem): não aplicado.",
+    "Alterador 5 (Despacho Normativo 714/94): cria um lugar no quadro da Faculdade de Ciências Médicas (mapa em imagem): não aplicado.",
+    "Alterador 6 (Portaria 22/95): acresce um lugar ao mapa II (imagem): não aplicado.",
+    "Alterador 7 (Portaria 367/95): adita um quadro ao mapa I (imagem): não aplicado.",
+    "Alterador 8 (Portaria 263/96): cria dois lugares no mapa III (imagem): não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

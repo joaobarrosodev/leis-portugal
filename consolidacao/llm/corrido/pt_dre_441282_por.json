@@ -1,0 +1,42 @@
+{
+  "id": "pt:dre:441282:por",
+  "substituicoes": [
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "b) Mecânica.",
+      "alterador": 3
+    },
+    {
+      "de": 92,
+      "ate": 116,
+      "texto": "## ANEXO II — Licenciatura em Engenharia Civil\n\n1 - Área científica:\n\nEngenharia Civil.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito para obtenção do grau:\n\n200.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Estruturas e Materiais ... 35 a 42\n\n4.1.2 - Hidráulica ... 13 a 18\n\n4.1.3 - Construção e Processos ... 14 a 20\n\n4.1.4 - Vias de Comunicação ... 16 a 23\n\n4.1.5 - Planeamento e Arquitectura ... 19 a 25\n\n4.1.6 - Produção e Sistemas ... 12 a 17\n\n4.1.7 - Matemática, Física e Química ... 30 a 37\n\n4.1.8 - Ciências da Engenharia ... 12 a 17\n\n4.1.9 - Ciências Político-Sociais e Humanidades ... 4 a 5\n\n4.2 - Conjunto das áreas científicas optativas:\n\n4.2.1 - Estruturas e Materiais ... 9 a 14\n\n4.2.2 - Hidráulica ... 9 a 14\n\n4.2.3 - Planeamento e Arquitectura ... 9 a 14\n\n4.2.4 - Produção e Sistemas ... 9 a 14\n\n4.2.5 - Vias de Comunicação ... 9 a 14\n\n4.3 - Seminário/Estágio (projecto individual) ... 10 a 14",
+      "alterador": 1
+    },
+    {
+      "de": 117,
+      "ate": 140,
+      "texto": "## ANEXO III — Licenciatura em Engenharia Mecânica\n\n1 - Área científica:\n\nEngenharia Mecânica.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau:\n\n196 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Matemática e Física ... 28 a 32\n\n4.1.2 - Ciências da Engenharia ... 44 a 48\n\n4.1.3 - Mecânica dos Materiais ... 12 a 14\n\n4.1.4 - Metalurgia ... 14 a 16\n\n4.1.5 - Tecnologia de Produção ... 13 a 15\n\n4.1.6 - Projecto de Máquinas ... 28 a 32\n\n4.1.7 - Produção e Sistemas ... 7 a 9\n\n4.1.8 - Electrónica Controlo ... 4 a 6\n\n4.1.9 - Ciências Político-Sociais e Humanidades ... 4 a 5\n\n4.2 - Conjunto das áreas científicas optativas:\n\n4.2.1 - Mecânica dos Materiais ... 17 a 20\n\n4.2.2 - Metalurgia ... 17 a 20\n\n4.2.3 - Tecnologia de Produção ... 17 a 20\n\n4.2.4 - Projecto de Máquinas ... 17 a 20\n\n4.2.5 - Produção e Sistemas ... 17 a 20\n\n4.2.6 - Ciências da Engenharia ... 17 a 20\n\n4.2.7 - Polímeros ... 17 a 20\n\n4.2.8 - Electrónica e Controlo ... 17 a 20\n\n4.3 - Estágio ... 15",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 49,
+      "texto": "4.º-A\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de dez.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas de serviço de aulas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de uma delas.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alt. 1, n.º 1.º-1, e alt. 3, n.º 1.º-1: mudança da designação dos graus (Engenharia Civil - ramo de Produção para Engenharia Civil; Engenharia Metalomecânica para Engenharia Mecânica) sem instrução textual sobre outras unidades (ex.: n.º 1.º, n.º 2.º, alínea a) Civil, organizado no ramo de Produção). Alt. 2 (Portaria 431/89): cria a licenciatura em Engenharia de Produção e extingue o ramo de Metalomecânica sem alterar o texto do original.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 557/88), n.º 1.º-2: aditado o n.º 4.º-A (Disciplinas de opção) a seguir ao n.º 4.º.",
+    "Alt. 1, n.º 2.º: anexo II substituído pelo anexo da portaria (título passa a Licenciatura em Engenharia Civil).",
+    "Alt. 1, n.º 1.º-1: mudança de designação do grau, não textual: não aplicada.",
+    "Alt. 2 (Portaria 431/89): diploma autónomo; extinção do ramo de Metalomecânica sem instrução textual: não aplicado.",
+    "Alt. 3 (Portaria 440/89), n.º 1.º-2: alínea b) do n.º 2.º passa a b) Mecânica.; n.º 1.º-3: anexo III substituído (título passa a Licenciatura em Engenharia Mecânica).",
+    "Alt. 4: repetição da Portaria 440/89, igual ao alt. 3: nada de novo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,45 @@
+---
+id: pt:dre:416448:por
+title: Portaria n.º 780/76
+original: data/portugal/portarias/1976/portaria-780-76.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:425550:por
+    title: Portaria n.º 227/78
+    publication_date: '1978-04-22'
+---
+
+# Portaria n.º 780/76
+
+de 31 de Dezembro
+
+Considerando que o quadro do pessoal não dirigente da Santa Casa da Misericórdia de Lisboa, aprovado pela [Portaria n.º 690/74](https://diariodarepublica.pt/dr/detalhe/portaria/690-1974-472275), de 24 de Outubro, inclui pessoal de enfermagem abrangido pelas carreiras de enfermagem de saúde pública e de enfermagem hospitalar;
+
+Considerando que a publicação da [Portaria n.º 107/75](https://diariodarepublica.pt/dr/detalhe/portaria/107-1975-160280), de 17 de Fevereiro, e a subsequente habilitação do curso de promoção, obtida por enfermeiros de 3.ª classe da referida Misericórdia, bem como as medidas estabelecidas pelo [Decreto n.º 534/76](https://diariodarepublica.pt/dr/detalhe/decreto/534-1976-431440), de 8 de Julho, implicam alterações ao quadro atrás referido;
+
+Nos termos do n.º 2 do artigo 3.º do [Decreto-Lei n.º 692/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/692-1970-414417), de 31 de Dezembro:
+
+Manda o Governo da República Portuguesa, pelo Ministro dos Assuntos Sociais, o seguinte:
+
+1. Os grupos 1.5 - De enfermagem, 1. 11 - De ensino na escola de reabilitação e 4 - Lugares a extinguir, quando vagarem, do quadro aprovado pela [Portaria n.º 690/74](https://diariodarepublica.pt/dr/detalhe/portaria/690-1974-472275), de 24 de Outubro, passam a ter a composição seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30300/28982900.pdf)
+
+2. Os enfermeiros de 3.ª classe que, à data da publicação do [Decreto n.º 534/76](https://diariodarepublica.pt/dr/detalhe/decreto/534-1976-431440), estavam habilitados com o curso de promoção referido no n.º 1 do artigo 4.º do [Decreto-Lei n.º 440/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1974-473758), de 11 de Setembro, serão colocados em lugares desta categoria, com efeitos reportados a 1 de Setembro do ano em curso.
+
+3. As alterações ao quadro aprovado pela [Portaria n.º 690/74](https://diariodarepublica.pt/dr/detalhe/portaria/690-1974-472275), de 24 de Outubro, efectuadas em execução do [Decreto n.º 534/76](https://diariodarepublica.pt/dr/detalhe/decreto/534-1976-431440), de 8 de Julho, produzem efeitos desde 1 de Janeiro de 1976, nos termos do artigo 14.º do mesmo diploma.
+
+4. É acrescentada a seguinte observação às constantes da [Portaria n.º 690/74](https://diariodarepublica.pt/dr/detalhe/portaria/690-1974-472275):
+
+(p) O pessoal com seis anos de exercício profissional transita para a letra L, conforme dispõe o artigo 3.º do [Decreto n.º 534/76](https://diariodarepublica.pt/dr/detalhe/decreto/534-1976-431440), de 8 de Julho.
+
+Em consequência, no quadro 1.5 «De enfermagem» a observação (o) deve entender-se substituída por (p).
+
+> Alterado pelo/a [Portaria n.º 227/78](https://diariodarepublica.pt/dr/detalhe/portaria/227-1978-425550), publicado em 1978-04-22.
+
+5. Na colocação do pessoal nos lugares abrangidos pelo n.º 1 da presente portaria observar-se-á o preceituado nos n.os 1, 2 e 3 do artigo 65.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, por força do disposto no artigo 12.º do [Decreto-Lei n.º 692/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/692-1970-414417), de 31 de Dezembro.
+
+Ministério dos Assuntos Sociais, 16 de Dezembro de 1976. - O Ministro dos Assuntos Sociais, Armando Bacelar.

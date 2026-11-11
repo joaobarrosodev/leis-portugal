@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:443285:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 10,
+      "texto": "Um representante permanente;\n\nUm representante permanente adjunto para as questões do desarmamento;\n\nUm representante permanente adjunto;\n\nTrês funcionários diplomáticos.",
+      "alterador": 7
+    },
+    {
+      "de": 12,
+      "ate": 15,
+      "texto": "Um conselheiro jurídico;\n\nUm conselheiro ou adido económico;\n\nUm conselheiro ou adido de imprensa;\n\nUm consultor técnico para assuntos de trabalho e emprego;\n\nUm secretário privativo.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 133/85): fixa o pessoal especializado do MNE por mapa próprio (imagem), sem nova redação do original. Alteradores 3 e 4 (Portarias n.os 1287/93 e 1286/95): aumentam e extinguem lugares na alínea d) sem dar nova redação; alterador 6 (Portaria n.º 375/2001): adita um lugar de conselheiro jurídico ao pessoal especializado sem dar redação. Não aplicados para não inventar texto.",
+  "instrucoes": [
+    "Alteradores 5 e 7: nova redação da alínea a) do n.º 2.º; aplicada a última (alterador 7), que substitui a do alterador 5; unidades 8-10 (a epígrafe 'a) Pessoal diplomático:' mantém-se).",
+    "Alterador 2: nova redação da alínea b) do n.º 2.º; substituídas as unidades 12-15 (a epígrafe da alínea mantém-se).",
+    "Alterador 1: novo mapa do pessoal especializado do MNE; não textual.",
+    "Alteradores 3, 4 e 6: alterações quantitativas de lugares sem redação; não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

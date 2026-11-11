@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 106-106",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "i) As atribuições e actividades que, nos termos do [Decreto-Lei n.º 36935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36935-1948-387087), de 24 de Junho de 1948, do [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Junho de 1952 (Estatuto de Normalização Portuguesa, modificado pelo [Decreto-Lei n.º 48454](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48454-1968-272027), de 25 de Junho de 1968, e [Decreto-Lei n.º 117/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1975-160716), de 8 de Março), e do [Decreto-Lei n.º 105/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1970-228782), de 16 de Março, têm vindo a ser prosseguidas no âmbito da 2.ª Repartição;",
+    "depois": "i) As atribuições e actividades que, nos termos do [Decreto-Lei n.º 36935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36935-1948-387087), de 24 de Junho de 1948, e do [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Junho de 1952 (Estatuto de Normalização Portuguesa, modificado pelo [Decreto-Lei n.º 48454](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48454-1968-272027), de 25 de Junho de 1968, e pelo [Decreto-Lei n.º 117/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1975-160716), de 8 de Março), têm vindo a ser prosseguidas no âmbito da 2.ª Repartição, bem como as atribuições e actividades da Comissão Electrotécnica Portuguesa, cuja competência está definida no [Decreto-Lei n.º 105/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1970-228782), de 16 de Março, devendo manter-se uma articulação adequada com a Direcção-Geral de Energia, por forma que os dois serviços se possam desempenhar eficazmente das suas atribuições.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:354085:por",
+    "alterador": "pt:dre:395749:por;pt:dre:367232:por"
+  },
+  {
+    "artigo": "unidades 114-114",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.2 - O presidente da Comissão Instaladora do Laboratório Nacional de Engenharia e Tecnologia Industrial exercerá os poderes de direcção do Gabinete de Protecção e Segurança Nuclear até à nomeação do director ou subdirector deste Gabinete.",
+    "depois": "7.2 - O presidente do Laboratório Nacional de Engenharia e Tecnologia Industrial exercerá os poderes de direcção do Gabinete de Protecção e Segurança Nuclear até à nomeação do director deste Gabinete.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:354085:por",
+    "alterador": "pt:dre:395749:por;pt:dre:367232:por"
+  }
+]

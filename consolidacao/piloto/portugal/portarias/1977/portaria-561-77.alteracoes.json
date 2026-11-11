@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 17-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º A comissão referida no n.º 2 desta portaria será nomeada por despacho ministerial, sob proposta conjunta da direcção-geral de ensino de que depende o estabelecimento e da Direcção-Geral de Pessoal e Administração, respectivamente, no respeitante aos seus membros docentes e aos seus membros administrativos e auxiliar.\n\n6.º Para efeitos do disposto no número anterior, a respectiva direcção-geral de ensino deverá ouvir a Direcção-Geral de Pessoal e Administração quanto aos docentes a propor.",
+    "depois": "5.º A comissão referida no n.º 2.º desta portaria será nomeada por despacho ministerial, sob proposta da Direcção-Geral de Pessoal, ouvida a Inspecção-Geral de Ensino.\n\n6.º Para efeitos do disposto no número anterior, a Direcção-Geral de Pessoal ouvirá ainda a respectiva Direcção-Geral de Ensino quanto aos docentes a propor.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:286332:por",
+    "alterador": "pt:dre:152299:por"
+  }
+]

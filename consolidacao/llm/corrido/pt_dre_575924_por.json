@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:575924:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações (alteradores 1 a 7) incidem sobre o quadro de pessoal anexo, que só vem em imagem (criação e extinção de lugares, substituição da parte de enfermagem, novos quadros em imagem); nenhuma altera o texto dos n.os 1.º a 3.º.",
+  "instrucoes": [
+    "Alt. 1, 2 e 4: criam lugares de assessor no quadro anexo (imagem) - não aplicado",
+    "Alt. 3: substitui a parte de enfermagem do quadro (imagem) - não aplicado",
+    "Alt. 5: altera os quadros de pessoal (anexos em imagem) - não aplicado",
+    "Alt. 6, art. 1.º: extingue lugares do quadro - não textual, não aplicado",
+    "Alt. 7: integra carreira de técnico superior de serviço social e extingue lugares (quadro em imagem) - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

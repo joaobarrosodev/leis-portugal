@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:606679:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 4 retiram ou incluem bens alimentares (CAE 3111.2.1, 3112.9.0, 3115.3.0, café, aves, etc.) e mudam limites de facturação na parte 'Bens ou serviços alimentares' da lista anexa, que só vem em imagem (unidade 37); a parte em texto (bens não alimentares) não é tocada.",
+  "instrucoes": [
+    "Alt. 1, 1.º: retira da lista os bens da CAE 3111.2.1 - lista alimentar em imagem, não aplicado",
+    "Alt. 2, 1.º a 3.º: retira bens, inclui o café verde e altera volumes de facturação do café torrado - lista em imagem, não aplicado",
+    "Alt. 3, 1.º: retira galos, galinhas, frangos e ovos - lista em imagem, não aplicado",
+    "Alt. 4, 1.º: retira o café verde e o café torrado - lista em imagem, não aplicado; 2.º é regime próprio, não altera o original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:234763:por",
+  "substituicoes": [
+    {
+      "de": 36,
+      "ate": 39,
+      "texto": "17.º Os concursos para admissão às diferentes classes de praças da Armada são organizados pela 2.ª Repartição da Direcção do Serviço do Pessoal. Os concursos serão devidamente anunciados no Diário da República, na Ordem da Direcção do Serviço do Pessoal, em editais a afixar nos locais mais convenientes, e terão a adequada divulgação através dos órgãos de comunicação social.\n\nO encerramento do concurso, em regra, é efectuado quando expirar o prazo de trinta dias, a contar do dia seguinte ao da publicação no Diário da República.",
+      "alterador": 3
+    },
+    {
+      "de": 40,
+      "ate": 40,
+      "texto": "18.º A admissão ao concurso é feita a requerimento do candidato, dirigido ao chefe da 2.ª Repartição da Direcção do Serviço do Pessoal, devendo o requerimento ser instruído com os documentos exigidos para se verificar que satisfaz, nas que é possível por este meio, às condições gerais de admissão fixadas no ESPA e às condições especiais estabelecidas por despacho do Chefe do Estado-Maior da Armada, podendo, porém, o candidato juntar quaisquer outros documentos que possam interessar ao concurso.",
+      "alterador": 3
+    },
+    {
+      "de": 41,
+      "ate": 41,
+      "texto": "",
+      "alterador": 2
+    },
+    {
+      "de": 42,
+      "ate": 45,
+      "texto": "19.º Nos concursos para admissão às classes de electrotécnicos, de maquinistas navais, de enfermeiros e de músicos há provas de apreciação dos conhecimentos gerais, subordinadas aos programas, nas condições do artigo 31.º do ESPA, que são classificadas de 0 a 20 valores pelos júris nomeados para o efeito, sendo excluídos os candidatos que obtenham classificação inferior a 10 valores em qualquer das provas.\n\nA classificação de cada candidato no conjunto das provas atrás referidas é obtida pela média aritmética das classificações em cada prova, sendo o resultado aproximado às centésimas.\n\nO ordenamento dos candidatos aprovados é efectuado de acordo com as classificações obtidas; em caso de igualdade serão observadas as condições de preferência estabelecidas no artigo 32.º do ESPA.\n\nAs listas de ordenamento dos candidatos a admitir nas diversas classes serão presentes ao Chefe do Estado-Maior da Armada, ao qual compete designar os candidatos a admitir, podendo delegar esta prerrogativa no superintendente dos Serviços do Pessoal da Armada.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 184/70: nova redação do n.º 19.º (unidades 42-45); substituída depois pela redação da Portaria 154/81, que fica na mesma substituição com alterador 3.",
+    "Portaria 218/70: nova redação do n.º 18.º num só parágrafo; o segundo parágrafo atual (unidade 41) desaparece; a unidade 40 volta a ser reescrita pela Portaria 154/81.",
+    "Portaria 154/81, 1.º: novas redações dos n.os 17.º (36-39, dois parágrafos), 18.º (40) e 19.º (42-45, quatro parágrafos). O 2.º (entrada em vigor) é da própria portaria."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:661314:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores mudam planos de estudos (anexos que só vêm em imagem) e a denominação de cursos (Engenharia Civil, Engenharia Industrial) por disposição própria, sem nova redação do texto do original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 871/99): novo plano de estudos de Engenharia e Gestão da Produção, anexo em imagem; não aplicado.",
+    "Alterador 2 (Portaria 873/99): novo plano de estudos de Engenharia de Projectos e Gestão de Obras, anexo em imagem; não aplicado.",
+    "Alterador 3 (Portaria 1055/2001): novo plano de estudos de Informática de Gestão, anexo em imagem; não aplicado.",
+    "Alterador 4 (Portaria 414/2002): o curso de Engenharia de Projectos e Gestão de Obras passa a designar-se Engenharia Civil; mudança de denominação, não textual; não aplicado.",
+    "Alterador 5 (Portaria 179/2003): altera o anexo da Portaria 1055/2001, outro diploma; ignorado.",
+    "Alterador 6 (Portaria 190/2003): denominação Engenharia Industrial, ramos e anexo da Portaria 871/99; não textual no original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:333081:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 57/93): altera o plano de estudos do curso de Comércio (anexo só em imagem) e a denominação do curso, sem nova redação do texto; alterador 2 (Decreto-Lei n.º 107/96): transição das autorizações para a Universidade Fernando Pessoa, não textual; alterador 3 (Portaria n.º 929/97): revoga a autorização do bacharelato em Gestão das PMEs, revogação de efeito e não de texto. Nenhuma aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.os 1.º e 2.º: alteram plano de estudos (imagem) e denominação do curso de Comércio; não aplicado, alteração não textual.",
+    "Alterador 2, artigo 7.º: transição para a Universidade Fernando Pessoa; não textual.",
+    "Alterador 3, n.º 7.º: revoga a autorização do bacharelato em Gestão das PMEs; não aplicado ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/26600/30553056.pdf)",
+    "depois": "| Cargo (a) | Contra-almirante/Major-General | Capitão-de-Mar-e-Guerra/Coronel | Capitão-de-Fragata/Tenente-Coronel | Sargentos | Praças |\n| --- | --- | --- | --- | --- | --- |\n| Chefe da Representação Militar: | 1 | - | - | - | - |\n| Subchefe da Representação Militar | - | 1 | - | - | - |\n| Adjunto do Representante | - | - | 2 | - | - |\n| Amanuense | - | - | - | 2 | - |\n| Auxiliares | - | - | - | - | 2 |\n| Totais | 1 | 1 | 2 | 2 | 2 |\n| Total |  | 8 |  |  |  |\n\n(a) As descrições dos cargos serão elaboradas de acordo com normas aprovadas no âmbito do EMGFA.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:568476:por",
+    "alterador": "pt:dre:1170050271:por"
+  }
+]

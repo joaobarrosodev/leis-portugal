@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:441281:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alt. 1 a 3 (Portarias 916/91, 917/91 e 1188/93) substituem os planos de estudos dos cursos de Línguas e Secretariado e de Aduaneiro (anexos II e III), mas tanto os quadros originais como os novos só vêm em imagem (ver documento original); o alt. 4 (Portaria 1160/2001) vem sem texto.",
+  "instrucoes": [
+    "Alt. 1: novo plano de estudos de Línguas e Secretariado (diurno e nocturno) em imagem: não aplicado.",
+    "Alt. 2: novo plano de estudos de Aduaneiro (diurno e nocturno) em imagem: não aplicado.",
+    "Alt. 3: novo plano de Línguas e Secretariado em imagem: não aplicado.",
+    "Alt. 4: sem texto no pedido: nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

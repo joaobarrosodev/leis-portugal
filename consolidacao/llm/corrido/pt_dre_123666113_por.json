@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:123666113:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Resolução do Conselho de Ministros n.º 67/2023) vem sem texto no pedido: não há instrução que se possa aplicar.",
+  "instrucoes": [
+    "Resolução do Conselho de Ministros n.º 67/2023: texto vazio no pedido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

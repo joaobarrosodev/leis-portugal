@@ -1,0 +1,51 @@
+{
+  "id": "pt:dre:147408:por",
+  "substituicoes": [
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "Art. 4.º - 1 - Por morte, aposentação, demissão ou qualquer outro impedimento do despachante, os empregados deste podem constituir-se em sociedade, nos termos do Regulamento aprovado pelo artigo 9.º do presente decreto-lei, observando-se, quanto ao preenchimento da respectiva vaga, o que naquele se estabelece, no seu artigo 8.º\n\n2 - O preenchimento da vaga a que alude o número anterior assume carácter excepcional, pelo que, além de não permitir o exercício da actividade fora da sociedade, fica condicionado à produção de prova da constituição desta e à garantia de que ficam assegurados os postos de trabalho do despachante que originou a vaga.",
+      "alterador": 1
+    },
+    {
+      "de": 116,
+      "ate": 116,
+      "texto": "Art. 9.º - (Revogado.)",
+      "alterador": 3
+    },
+    {
+      "de": 150,
+      "ate": 150,
+      "texto": "1 - Para preenchimento da vaga de despachante oficial, ocorrida em resultado do que dispõem os artigos 6.º e 7.º, e bem assim por aposentação, demissão ou qualquer outro impedimento do despachante oficial associado, terão preferência os ajudantes de despachante oficial, sócios ou simples empregados que reúnam as condições de habilitação ao concurso documental a que se refere o artigo 450.º da Reforma Aduaneira.",
+      "alterador": 1
+    },
+    {
+      "de": 163,
+      "ate": 164,
+      "texto": "###### ARTIGO 11.º\n\nOs despachantes oficiais integrados em sociedades constituídas nos termos do Regulamento aprovado pelo [Decreto-Lei n.º 513-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f-1979-393782), de 27 de Dezembro, poderão, depois da sua passagem à aposentação, continuar como sócios da sociedade, sendo-lhes vedado, porém, o exercício da actividade própria dos despachantes oficiais.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 164,
+      "texto": "###### ARTIGO 12.º — (Direito subsidiário)\n\nEm tudo o não expressamente previsto neste Regulamento prevalecerá a lei geral aplicável às sociedades por quotas de responsabilidade limitada.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 art. 1.º: nova redacção do art. 4.º - unidade 31 substituída",
+    "Alterador 1 art. 2.º n.º 1: nova redacção do n.º 1 do art. 8.º do Regulamento - unidade 150",
+    "Alterador 1 art. 2.º n.º 2: nova redacção do art. 11.º do Regulamento (sem epígrafe) - unidades 163-164",
+    "Alterador 1 art. 2.º n.º 3: aditado art. 12.º (Direito subsidiário) - inserção após 164",
+    "Alterador 1 arts. 3.º e 4.º: Reforma Aduaneira e DL 397/82 - ignorados",
+    "Alterador 2: altera o art. 454.º da Reforma Aduaneira na redacção dada pelo original - outro diploma, ignorado",
+    "Alterador 3 art. 6.º n.º 2: revoga o art. 9.º - unidade 116 (Revogado.); restantes alterações são à Reforma Aduaneira, Regulamento das Alfândegas e DL 289/88 - ignoradas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 116-116: parágrafo que não está no alterador nem no original: Art. 9.º - (Revogado.)"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:516178:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (1.º) muda a taxa da subposição 38.11.02 na relação anexa, e alterador 2 (5.º aditado à Portaria n.º 22272) adita subposições à relação anexa; a relação só existe em imagem (unidade 10), por isso não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: taxa da subposição 38.11.02 da relação anexa passa a 0,7 % ad valorem; relação só em imagem, não aplicado.",
+    "Alterador 1, 2.º: âmbito de aplicação da alteração; não é alteração textual do original.",
+    "Alterador 2, 1.º: adita números à Portaria n.º 22272 (outro diploma); o novo 5.º adita subposições 28.40.02, 29.14.22, 30.03.01 e 30.03.03 à relação anexa do original, só em imagem, não aplicado.",
+    "Alterador 2, 2.º: retificação do n.º 1.º da Portaria n.º 22272 (outro diploma); ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

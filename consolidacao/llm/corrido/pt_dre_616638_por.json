@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:616638:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 7 aditam ou alteram pares estabelecimento/curso e vagas nos anexos I.1 e I.3, que só existem em imagem, e os aditamentos e as novas redações também só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: aditamento ao anexo I.1 (imagem); não aplicado. 2.º e 3.º: normas próprias.",
+    "Alterador 2, 1.º: aditamento ao anexo I.3 (imagem); não aplicado. 2.º: condições de acesso no anexo do próprio alterador, não do original.",
+    "Alterador 3, 1.º: aditamento ao anexo I.1 (imagem); não aplicado.",
+    "Alterador 4, 1.º: aditamento ao anexo I.1 (imagem); não aplicado.",
+    "Alterador 5, 1.º: aditamento ao anexo I.1 (imagem); não aplicado.",
+    "Alterador 6, 1.º: alteração no anexo I.3 (imagem); não aplicado.",
+    "Alterador 7, 1.º: nova redação do anexo I.1 quanto aos cursos de História da Faculdade de Letras de Lisboa (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

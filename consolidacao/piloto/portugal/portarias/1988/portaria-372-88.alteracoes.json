@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 39-44",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - As vagas fixadas distribuem-se pelos seguintes contingentes:\n\na) Candidatos titulares do bacharelato e curso superior a que se referem as alíneas a) e b) do n.º 2.º;\n\nb) Candidatos titulares dos cursos equiparados ao grau de bacharel a que se referem as alíneas c) a f) do n.º 2.º;\n\nc) Candidatos titulares dos bacharelatos e das licenciaturas a que se referem as alíneas g) e h) do n.º 2.º\n\n2 - Os candidatos que satisfaçam simultaneamente os requisitos para a inclusão nos contingentes a que se referem a alínea c) e a alínea a) ou a alínea c) e a alínea b) serão considerados no contingente a que se refere a alínea c).\n\n3 - As percentagens do numerus clausus a afectar a cada contingente serão fixadas anualmente por portaria do Ministro da Educação.",
+    "depois": "1 - As vagas fixadas distribuem-se pelos seguintes contingentes:\n\na) Candidatos titulares do bacharelato ou curso superior a que se referem as alíneas a) e b) do n.º 2.º, com excepção dos referidos na alínea b) deste número;\n\nb) Candidatos que hajam concluído no ano lectivo imediatamente anterior o bacharelato ou o curso superior a que se referem as alínea a) e b) do n.º 2.º;\n\nc) Candidatos titulares dos cursos equiparados ao grau de bacharel a que se referem as alíneas c) a f) do n.º 2.º;\n\nd) Candidatos titulares dos bacharelatos e das licenciaturas a que se referem as alíneas g) e h) do n.º 2.º\n\n2 - Os candidatos que satisfaçam simultaneamente os requisitos para a inclusão nos contingentes a que se referem a alínea d) e qualquer outra alínea serão considerados no contingente a que se refere a alínea d).\n\n3 - A percentagem das vagas fixadas nos termos do n.º 3.º a afectar a cada contingente será a seguinte:\n\na) Contingente a que se refere a alínea a) do n.º 1 do n.º 5.º - 45%;\n\nb) Contingente a que se refere a alínea b) do n.º 1 do n.º 5.º - 20%;\n\nc) Contingente a que se refere a alínea c) do n.º 1 do n.º 5.º - 25%;\n\nd) Contingente a que se refere a alínea d) do n.º 1 do n.º 5.º - 10%.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:372175:por",
+    "alterador": "pt:dre:555060:por;pt:dre:376870:por"
+  },
+  {
+    "artigo": "unidades 99-104",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Em primeiro lugar, são colocados os candidatos do contingente a que se refere a alínea c) do n.º 1 do n.º 5.º;\n\nb) As eventuais vagas sobrantes da operação referida na alínea anterior são adicionadas às vagas do contingente a que se refere a alínea a) do n.º 1 do n.º 5.º;\n\nc) Seguidamente, são colocados os candidatos do contingente a que se refere a alínea a) do n.º 1 do n.º 5.º;\n\nd) As eventuais vagas sobrantes da operação referida na alínea anterior são adicionadas às vagas do contingente a que se refere a alínea b) do n.º 1 do n.º 5.º;\n\ne) Seguidamente, proceder-se-á à colocação dos candidatos do contingente a que se refere a alínea b) do n.º 1 do n.º 5.º;\n\nf) Finalmente, proceder-se-á à colocação dos candidatos não colocados dos contingentes a que se referem as alíneas a) e c) do n.º 1 do n.º 5.º, integrados num contingente único, nas vagas eventualmente sobrantes da operação referida na alínea anterior.",
+    "depois": "a) Em primeiro lugar, são colocados os candidatos do contingente a que se refere a alínea b) do n.º 1 do n.º 5.º;\n\nb) As eventuais vagas sobrantes da operação referida na alínea anterior são adicionadas às vagas do contingente a que se refere a alínea a) do n.º 1 do n.º 5.º;\n\nc) Seguidamente, são colocados os candidatos do contingente a que se refere a alínea d) do n.º 1 do n.º 5.º;\n\nd) As eventuais vagas sobrantes da operação referida na alínea anterior são adicionadas às vagas do contingente a que se refere a alínea a) do n.º 1 do n.º 5.º;\n\ne) Seguidamente, são colocados os candidatos do contingente a que se refere a alínea a) do n.º 1 do n.º 5.º;\n\nf) As eventuais vagas sobrantes da operação referida na alínea anterior são adicionadas às vagas do contingente a que se refere a alínea c) do n.º 1 do n.º 5.º;\n\ng) Seguidamente, são colocados os candidatos do contingente a que se refere a alínea c) do n.º 1.\n\nh) Finalmente proceder-se-á à colocação dos candidatos não colocados reunidos num contingente único nas vagas eventualmente sobrantes da operação referida na alínea anterior.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:372175:por",
+    "alterador": "pt:dre:555060:por;pt:dre:376870:por"
+  },
+  {
+    "artigo": "depois da unidade 171",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "25.º-A\n\nGrau de licenciado em Controlo de Gestão\n\nAos titulares do diploma de estudos superiores especializados em Controlo de Gestão do Instituto Superior de Contabilidade e Administração do Instituto Politécnico de Coimbra que hajam ingressado no respectivo curso com a titularidade de uma das habilitações a que se referem as alíneas a) e b) do n.º 2.º é conferido o grau de licenciado em Controlo de Gestão.\n\n25.º-B\n\nClassificação final da licenciatura\n\nA classificação da licenciatura é a resultante do cálculo da expressão seguinte, arredondada às unidades, considerando como unidade a fracção não inferior a cinco décimas:\n\n(3B + 2D)/5\n\nem que:\n\nB é a classificação final do curso de bacharelato;\n\nD é a classificação final do curso de estudos superiores especializados.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:372175:por",
+    "alterador": "pt:dre:555060:por;pt:dre:376870:por"
+  },
+  {
+    "artigo": "unidades 174-174",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Os prazos para a candidatura, selecção, matrícula e inscrição serão fixados anualmente pela portaria a que se refere o n.º 3.º",
+    "depois": "1 - Os prazos para a candidatura, selecção, matrícula e inscrição serão fixados anualmente por despacho do presidente da comissão instaladora do Instituto Politécnico de Coimbra, sob proposta do conselho directivo do Instituto Superior de Contabilidade e Administração de Coimbra (ISCAC).\n\n2 - O despacho a que se refere o n.º 1 será objecto de afixação pública nas instalações do Instituto Politécnico e do ISCAC, bem como de publicação na 2.ª série do Diário da República antes do início dos prazos a que o mesmo se refere.\n\n3 - Enquanto não for nomeado o presidente da comissão instaladora do Instituto Politécnico de Coimbra, a competência a que se refere o n.º 1 será exercida pelo presidente do conselho directivo do Instituto Superior de Contabilidade e Administração de Coimbra.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:372175:por",
+    "alterador": "pt:dre:555060:por;pt:dre:376870:por"
+  },
+  {
+    "artigo": "unidades 188-190",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "30.º\n\nPrazos em 1988-1989\n\nEm 1988-1989 os prazos em que devem ser praticados os actos a que se refere a presente portaria são os fixados no anexo III.",
+    "depois": "30.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:372175:por",
+    "alterador": "pt:dre:555060:por;pt:dre:376870:por"
+  }
+]

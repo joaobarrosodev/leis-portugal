@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:302289:por",
+  "substituicoes": [
+    {
+      "de": 46,
+      "ate": 47,
+      "texto": "10.2 - O Programa pode, em regime de contratualização, atribuir um apoio técnico e financeiro aos projectos, em condições a determinar em regulamento a aprovar por despacho do Ministro Adjunto do Primeiro-Ministro.\n\n11 - O Programa funciona na dependência do Ministro Adjunto do Primeiro-Ministro.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redacção dos n.os 10.2 e 11 - substituídas as unidades 46 e 47.",
+    "Alteradores 2, 3 e 4: renovam o Programa Escolhas para novos períodos com regime próprio, sem instruções de alteração ao texto do original - nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

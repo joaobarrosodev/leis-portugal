@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 22-31",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "11.º Sem prejuízo das situações excepcionais devidamente documentadas, as ajudas de custo diárias a abonar ao pessoal em missão oficial ao estrangeiro e no estrangeiro têm os seguintes valores:\n\nMembros do Governo - 22100$00;\n\nFuncionários, agentes do Estado e entidades a eles equiparadas:\n\nCom vencimentos superiores aos valores da letra D ou do índice 405 - 19700$00;\n\nCom vencimentos que se situem entre os valores das letras D e H ou entre os índices 405 e 260 - 17400$00;\n\nOutros - 14800$00.\n\n12.º As ajudas de custo relativas a deslocações em missão oficial ao e no estrangeiro obedecem ainda às seguintes regras:\n\na) O disposto no número anterior não se aplica a entidades abrangidas por instrumentos colectivos de trabalho em que se definam outras tabelas de ajudas de custo;\n\nb) Sempre que uma missão integre funcionários de diversas categorias, o valor das respectivas ajudas de custo será idêntico ao auferido pelo funcionário de mais elevada categoria;\n\nc) As condições especiais a que eventualmente deva ficar sujeito o pessoal em serviço nas missões diplomáticas no estrangeiro serão fixadas por despacho conjunto dos Ministros das Finanças e dos Negócios Estrangeiros.",
+    "depois": "11.º - (Revogado.)\n\n12.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:497787:por",
+    "alterador": "pt:dre:283327:por"
+  }
+]

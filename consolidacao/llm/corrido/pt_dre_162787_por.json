@@ -1,0 +1,35 @@
+{
+  "id": "pt:dre:162787:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "A subida verificada nos custos de produção ao longo dos doze meses em que os actuais preços estiveram em vigor, a necessidade de continuar a manter uma certa capacidade de autofinanciamento para a expansão do sector eléctrico e a necessidade de reforçar a receita própria do Fundo de Apoio Térmico para pagar o elevado défice que acumulou nos anos recentes de seca prolongada, cujos efeitos não foram atempadamente repercutidos nos preços, obrigariam a realizar um acréscimo dos preços de venda de electricidade, que o Governo considera incomportável com os objectivos económicos e sociais que pretende atingir em 1985.",
+      "alterador": 1
+    },
+    {
+      "de": 24,
+      "ate": 24,
+      "texto": "1 - Nos fornecimentos de energia eléctrica facturados pelas tarifas de alta, média ou baixa tensão será aplicado um adicional para o Fundo de Apoio Térmico no valor de 8% da facturação total relativa à venda de energia eléctrica, abrangendo, nomeadamente, as receitas da energia activa, potência, energia reactiva e taxas de acesso a tarifas diferentes das da tensão de entrega.",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "2 - Nos fornecimentos, de energia eléctrica em média ou alta tensão com facturação pela tarifa de muito alta tensão será aplicado um adicional à respectiva taxa mensal de acesso no valor de 325$00 por kilowatt de potência contratada.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 4.º: rectificação no quadro 1 anexo (só em imagem). Alterador 2 (Portaria n.º 7-A/86): os novos quadros 1 e 2 vêm em imagem; o seu 2.º fixa os valores dos adicionais (8% e 370$50/kW) sem dar nova redacção ao n.º 2.º, pelo que não se alterou o texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: «obrigaram» por «obrigariam» no preâmbulo - unidade 3",
+    "Alterador 1, 2.º: 10% por 8% no n.º 1 do 2.º - unidade 24",
+    "Alterador 1, 3.º: 350$00 por 325$00 no n.º 2 do 2.º - unidade 25",
+    "Alterador 1, 4.º: quadro 1 em imagem - não aplicado",
+    "Alterador 2: quadros substituídos (imagem) e valores dos adicionais sem nova redacção - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

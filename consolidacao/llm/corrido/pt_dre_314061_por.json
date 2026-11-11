@@ -1,0 +1,48 @@
+{
+  "id": "pt:dre:314061:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "§ único. Consideram-se lucros imputáveis ao exercício da actividade, para os efeitos do corpo deste artigo, os apurados nos termos do Código da Contribuição Industrial para servirem de base à respectiva contribuição a pagar em 1975 ou à que seria exigível se não forem tributados por beneficiarem de isenção ou de qualquer dedução.",
+      "alterador": 3
+    },
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "Art. 3.º Ficarão unicamente excluídas do imposto extraordinário as pessoas, singulares ou colectivas, declaradas expressamente isentas deste imposto e aquelas cuja contribuição industrial liquidada para cobrança no ano de 1975, ou que lhes competiria pagar nesse ano se não beneficiassem de isenção ou de qualquer dedução, seja inferior a 100000$00 em verba principal.",
+      "alterador": 3
+    },
+    {
+      "de": 44,
+      "ate": 44,
+      "texto": "§ 8.º Se houver lugar ao arbitramento referido no § 4.º, as respectivas despesas, a fixar, em cada caso, pelo Ministro das Finanças, ficarão a cargo do contribuinte sempre que este desistir dessa diligência ou o resultado lhe for totalmente desfavorável, sendo, na hipótese contrária, suportadas pela Fazenda Nacional em conta da verba do capítulo 9.º, artigo 94.º, do orçamento da despesa do Ministério das Finanças do corrente ano económico.",
+      "alterador": 3
+    },
+    {
+      "de": 55,
+      "ate": 55,
+      "texto": "§ 1.º A liquidação a que se refere este artigo será efectuada nos vinte dias imediatos ao da entrada em vigor deste diploma e terá por base a importância correspondente a 50 por cento do lucro imputável ao exercício de 1965, apurado nos termos do regulamento aprovado pelo [Decreto n.º 47780](https://diariodarepublica.pt/dr/detalhe/decreto/47780-1967-314061), de 6 de Julho de 1967.",
+      "alterador": 3
+    },
+    {
+      "de": 98,
+      "ate": 108,
+      "texto": "Lista das actividades sujeitas a imposto para a defesa e valorização do ultramar, a que se refere o artigo 12.º da [Lei n.º 10/70](https://diariodarepublica.pt/dr/detalhe/lei/10-1970-689181), de 28 de Dezembro.\n\n1 - Agentes ou comissários de fabricantes e negociantes nacionais ou estrangeiros, de compra e venda de propriedades ou de comércios não especificados.\n\n2 - Armas, munições e seus pertences (fábrica, importador e armazém).\n\n3 - Automóveis (importador, montagem e venda).\n\n4 - Bancos, casas bancárias e cambistas.\n\n5 - Cerâmica de construção, decorativa e sanitária (importador e venda).\n\n6 - Cerveja (fábrica, armazém e exportador).\n\n7 - Cimento (fábrica, armazém, importador e exportador).\n\n8 - Explosivos (fábrica, importador e armazém).\n\n9 - Ferro (importador e armazém).\n\n10 - Fornecimentos a serviços públicos, civis ou militares, de quaisquer produtos ou artigos.\n\n11 - Fósforos (fábrica).\n\n12 - Óleos, petróleos, gasolina e seus derivados (fábrica, importador e venda).\n\n13 - Pneumáticos e câmaras-de-ar (importador, fábrica e armazém).\n\n14 - Reparação e afinação de viaturas militares (oficina).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "As 'necessárias adaptações que resultam do avanço de quatro/seis/oito anos de tributação' (alteradores 1, 2 e 3) não são alterações textuais determinadas; não aplicadas.",
+  "instrucoes": [
+    "Alterador 1 a): lista da alínea c) do artigo 1.º substituída pela anexa ao DL 267/71: unidades 98-108 substituídas (título e 14 actividades).",
+    "Alterador 1 b), 2 b), 3 b): referência à verba no § 8.º do artigo 7.º substituída sucessivamente; fica a última (capítulo 9.º, artigo 94.º) na unidade 44.",
+    "Alterador 1 c), 2 c), 3 c): referência ao Decreto 47086 no § 1.º do artigo 12.º substituída pela do Decreto 47780, de 6 de Julho de 1967 (unidade 55).",
+    "Alterador 2 art. 2.º: nova redacção do § único do artigo 2.º (corpo '...' mantido); alterador 3 art. 1.º substitui nele 1973 por 1975: unidade 15.",
+    "Alterador 3 art. 2.º: nova redacção do corpo do artigo 3.º (§ único '...' mantido): unidade 17.",
+    "Adaptações genéricas pelo avanço dos anos de tributação: não textuais, em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
