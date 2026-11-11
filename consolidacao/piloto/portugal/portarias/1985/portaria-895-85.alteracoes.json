@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - As pessoas a quem tenha sido reconhecida capacidade profissional nos termos do n.º 1 do n.º 5.º da [Portaria n.º 1180/82](https://diariodarepublica.pt/dr/detalhe/portaria/1180-1982-380902), de 22 de Dezembro, são dispensadas da aprovação em exame nas matérias constantes do grupo I do n.º 2.",
+    "depois": "4 - As pessoas a quem tenha sido reconhecida capacidade para o exercício da profissão de transportador público ocasional de mercadorias ficam dispensadas do exame das matérias constantes do grupo I do n.º 2.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:170320:por",
+    "alterador": "pt:dre:421830:por"
+  },
+  {
+    "artigo": "unidades 28-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7 - O director-geral de Transportes Terrestres poderá, mediante despacho e a título excepcional, fixar um prazo durante o qual a aprovação em exame sobre as matérias referidas no grupo I do n.º 2 confere capacidade profissional para o exercício da actividade de transportador internacional rodoviário de mercadorias, sem prejuízo da posterior frequência dos cursos referentes às matérias referidas no grupo II do mesmo número.",
+    "depois": "7 - Sem prejuízo de posterior frequência de curso e aprovação em exame das matérias constantes do grupo II do n.º 2, a capacidade para o exercício da profissão de transportador público ocasional de mercadorias será provisoriamente aceite para efeitos do disposto na alínea b) do n.º 1 do n.º 1.º, durante um período a fixar por despacho do director-geral de Transportes Terrestres.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:170320:por",
+    "alterador": "pt:dre:421830:por"
+  },
+  {
+    "artigo": "unidades 47-47",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Até 31 de Dezembro de 1989, realizar transportes com destino a Espanha em veículos licenciados sem limite de raio de acção.",
+    "depois": "b) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:170320:por",
+    "alterador": "pt:dre:421830:por"
+  },
+  {
+    "artigo": "depois da unidade 47",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "10.º Até 31 de Dezembro de 1989 poderão ser concedidas autorizações para transportes com destino a Espanha às empresas licenciadas para transporte público ocasional de mercadorias que se proponham realizar esses transportes por meio de veículos licenciados sem limite de raio de acção.\n\n11.º Se as condições de mercado o exigirem e ouvida a associação representativa dos transportadores, poderão ser prorrogados os prazos estabelecidos nos n.os 9.º e 10.º, por despacho do Ministro das Obras Públicas, Transportes e Comunicações.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:170320:por",
+    "alterador": "pt:dre:421830:por"
+  }
+]

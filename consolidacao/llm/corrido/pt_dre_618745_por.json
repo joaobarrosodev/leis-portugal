@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:618745:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores aprovam e alteram os planos de estudos dos cursos (anexos da Portaria n.º 778/90, só em imagem); nenhuma instrução muda o texto do original.",
+  "instrucoes": [
+    "Alterador 1: aprova os planos de estudos dos cursos criados pelo original (anexos I e II): não altera o texto, nada feito.",
+    "Alterador 2: novos planos de estudos (anexos da Portaria 778/90, em imagem): nada feito.",
+    "Alterador 3: altera os anexos I e II da Portaria 778/90 (quadros em imagem): dirigido a outro diploma, nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

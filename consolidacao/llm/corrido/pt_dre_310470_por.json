@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:310470:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As alterações das Portarias 28/76 (efetivo de engenheiros/técnicos para 13) e 275/76 (mestres e contramestres para quatro e sete, mais dois lugares transitórios) incidem sobre o mapa anexo, que só existe em imagem; não há texto onde as aplicar.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 28/76): altera transitoriamente um efetivo do quadro do mapa anexo (imagem): não aplicado.",
+    "Alterador 2 (Portaria 275/76): altera efetivos de mestres e contramestres do mapa anexo (imagem): não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

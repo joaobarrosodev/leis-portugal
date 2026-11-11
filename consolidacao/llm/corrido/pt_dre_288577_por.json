@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:288577:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Póvoa da Isenta e Almoster, município de Santarém, com a área de 2144,4720 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 (Portaria 993/97): suspensão da actividade cinegética, não textual (revogada pelo alterador 2). Alterador 3 (Portaria 552-N/2002): suspensão temporária, não textual. Alterador 4 (Portaria 460/2003): renovação por seis anos; a correção da área para 2243,8230 ha vem só no preâmbulo, sem instrução textual sobre o n.º 1.º. Alteradores 5 (Portaria 1108/2005) e 6 (Portaria 1160/2009): anexações e renovação, não textuais.",
+  "instrucoes": [
+    "Alterador 1: suspensão da actividade cinegética — não textual, em nao_aplicavel.",
+    "Alterador 2 (Portaria 1143/97): nova redação do n.º 1.º (2144,4720 ha) — unidade 6, mantido o número '1.º'; aditado o n.º 1.º-A — inserção após a unidade 6.",
+    "Alterador 3: suspensão — não textual.",
+    "Alterador 4: renovação e correção de área no preâmbulo — não textual.",
+    "Alteradores 5 e 6: anexações e renovação — não textuais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

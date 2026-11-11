@@ -518,3 +518,7 @@ Mais 120 diplomas (`llm/corrido-ids-bloco3.txt`, de 2 537 candidatos; 34 saltado
 ### Bloco 4 (ronda 20)
 
 Mais 120 diplomas (`llm/corrido-ids-bloco4.txt`, de 2 417 candidatos; 35 saltados por tamanho). 47 sem alterações, 68 juntados, 5 recusados. Ronda 20: 68 verificados às cegas, **46 sem reparos: 38 % do bloco (68 % dos verificados)**. O rendimento oscila entre blocos (38, 32, 29, 38 %) conforme a proporção de quadros em imagem. Acumulado das rondas 17 a 20: **135 em 400 (34 %)**. Segue-se sempre para o bloco seguinte (cobertura); ficam cerca de 2 300 candidatos.
+
+### Bloco 5 (ronda 21)
+
+Mais 120 diplomas (`llm/corrido-ids-bloco5.txt`, de 2 297 candidatos; 37 saltados por tamanho). 26 sem alterações, 91 juntados, 3 recusados. Ronda 21: 91 verificados às cegas, **71 sem reparos: 59 % do bloco (78 % dos verificados)**. O número alto vem de uma série de portarias de zonas de caça, quase todas só com a nova redação do n.º 1.º e o n.º 1.º-A, fáceis de verificar; não é de esperar que se mantenha. Os verificadores marcaram vários "dúvida" por efeitos implícitos (áreas, número de guardas) e contaram-se como reparos. Acumulado das rondas 17 a 21: **206 em 520 (40 %)**. Ficam cerca de 2 180 candidatos.

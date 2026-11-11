@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 37-37",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - A inscrição no curso estará sujeita a numerus clausus, o qual será fixado anualmente por despacho do Ministro da Educação, sob proposta da Universidade.",
+    "depois": "1 - A inscrição no curso estará sujeita a numerus clausus, que será fixado anualmente por despacho do Ministro da Educação e Cultura, sob proposta da Universidade, acompanhada de um relatório comprovativo da existência dos recursos humanos e materiais adequados à sua completa concretização.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:311669:por",
+    "alterador": "pt:dre:210581:por"
+  },
+  {
+    "artigo": "depois da unidade 38",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "5.º-A\n\nAcesso às opções\n\n1 - O acesso a cada uma das opções referidas no n.º 1.º pode ser sujeito a limitações quantitativas.\n\n2 - A fixação do número de vagas para cada opção e os critérios de selecção, bem como a deliberação sobre os candidatos a admitir a cada uma das opções, competem ao conselho científico.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:311669:por",
+    "alterador": "pt:dre:210581:por"
+  },
+  {
+    "artigo": "unidades 50-50",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - O número de presenças em cada disciplina não pode ser inferior a 85% do número total de horas da mesma.",
+    "depois": "1 - O número de presenças em cada disciplina não pode ser inferior a 75% do número total de horas da mesma.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:311669:por",
+    "alterador": "pt:dre:210581:por"
+  }
+]

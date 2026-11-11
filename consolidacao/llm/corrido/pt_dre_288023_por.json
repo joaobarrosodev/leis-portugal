@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:288023:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Caria, município de Belmonte, com a área de 1615,3125 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 (Portaria 569-B/96), 2.º: substituição da planta, só em imagem. Alterador 3 (Portaria 748/98): anexação de prédios (área total 2890,9995 ha) e fiscalização por dois guardas florestais auxiliares, sem instrução textual sobre o n.º 1.º ou o n.º 6.º. Alterador 4 (Portaria 889/2002): renovação da concessão, não textual. Alterador 5 (Portaria 1280/2010): o artigo 1.º altera a Portaria 889/2002 (não o original) e a desanexação do artigo 2.º não é textual.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 569-B/96): nova redação do n.º 1.º (1620,3125 ha) — aplicada à unidade 6, depois substituída pela do alterador 2.",
+    "Alterador 2 (Portaria 912/97): nova redação do n.º 1.º (1615,3125 ha) — unidade 6, mantido o número '1.º'; aditado o n.º 1.º-A — inserção após a unidade 6.",
+    "Alterador 3: anexação e dois guardas — não textual, em nao_aplicavel.",
+    "Alterador 4: renovação — não textual, em nao_aplicavel.",
+    "Alterador 5: altera a Portaria 889/2002 e desanexa um prédio — ignorado / nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

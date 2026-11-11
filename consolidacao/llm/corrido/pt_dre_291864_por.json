@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:291864:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 9,
+      "texto": "1.º A utilização de cada bloco de frequências atribuído para o acesso fixo via rádio fica sujeita ao pagamento das taxas anuais constantes do quadro seguinte:\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/036b01/00020009.pdf)\n\nRelativamente às faixas 3400-3800 MHz e 24,5-26,5 GHz, aplica-se a fórmula abaixo indicada, se no ano anterior tiverem sido adicionalmente instaladas novas estações de base nas regiões A e ou B:\n\nT(índice i) = (euro) 304260 [1 - 0,45 ((Delta)EB(índice A)/(Delta)EB)(índice i - 1) - 0,30 ((Delta)EB(índice B)/(Delta)EB)(índice i - 1)]\n\nLegenda:\n\nT(índice i): taxa anual de utilização do espectro referente à licença aplicável no ano i;\n\n(Delta)EB(índice A): número de novas estações de base instaladas adicionalmente pelo operador/prestador na zona A no ano i - 1;\n\n(Delta)EB(índice B): número de novas estações de base instaladas adicionalmente pelo operador/prestador na zona B no ano i - 1;\n\n(Delta)EB: número total de novas estações de base instaladas adicionalmente no País pelo operador/prestador durante o ano i - 1.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os valores do quadro de taxas do 1.º só vêm em imagem (mantida a ligação do alterador 3).",
+  "instrucoes": [
+    "Alterador 1: nova redação do 1.º (quadro, fórmula, zonas); substituída depois pela do alterador 2 e pela do alterador 3.",
+    "Alterador 2: nova redação do 1.º; substituída depois pela do alterador 3.",
+    "Alterador 3: nova redação do 1.º; aplicada nas unidades 8-9 (corpo, quadro, fórmula e legenda); as listas das zonas A e B (unidades 10-37) ficam iguais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

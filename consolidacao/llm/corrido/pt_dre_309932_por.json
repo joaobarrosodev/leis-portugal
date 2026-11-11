@@ -1,0 +1,42 @@
+{
+  "id": "pt:dre:309932:por",
+  "substituicoes": [
+    {
+      "de": 41,
+      "ate": 55,
+      "texto": "Art. 2.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 56,
+      "ate": 56,
+      "texto": "Art. 3.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 57,
+      "ate": 57,
+      "texto": "Art. 4.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 58,
+      "ate": 58,
+      "texto": "Art. 5.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 141/93), art. 24.º, n.º 1, a): revoga o DL 211/81 (outro diploma, ignorado) e 'os restantes artigos deste último diploma', isto é, os artigos do DL 126/83 além do 1.º: arts. 2.º a 5.º marcados como revogados. O art. 1.º mantém-se. O mapa anexo (só imagem) não foi tocado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 41-55: parágrafo que não está no alterador nem no original: Art. 2.º - (Revogado.)",
+    "substituição 56-56: parágrafo que não está no alterador nem no original: Art. 3.º - (Revogado.)",
+    "substituição 57-57: parágrafo que não está no alterador nem no original: Art. 4.º - (Revogado.)",
+    "substituição 58-58: parágrafo que não está no alterador nem no original: Art. 5.º - (Revogado.)"
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º A taxa de juro anual aplicável no cálculo do valor de reembolso dos certificados de aforro da série B será a taxa de referência fixada nos termos do artigo 1.º do [Decreto-Lei n.º 311-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-a-1985-393610), de 30 de Julho, abatida do diferencial de 2,25%, que estiver em vigor no início de cada período trimestral de capitalização.",
+    "depois": "1.º Aos certificados de aforro da série B emitidos até 31 de Maio de 1989 será aplicada, no termo dos respectivos prazos de garantia, a taxa de juro correspondente à taxa líquida que resulte da aplicação da taxa liberatória do IRS à taxa anual nominal bruta definida pela [Portaria n.º 314-A/89](https://diariodarepublica.pt/dr/detalhe/portaria/314-a-1989-424311), de 3 de Maio.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:210599:por",
+    "alterador": "pt:dre:618538:por"
+  },
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º A partir de 1 de Janeiro de 1987, as taxas de juro trimestrais serão as taxas equivalentes às taxas anuais referidas nos números anteriores.",
+    "depois": "3.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:210599:por",
+    "alterador": "pt:dre:618538:por"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:289807:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter dois guardas florestais auxiliares dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).",
+      "alterador": 1
+    },
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de São Miguel de Acha, Proença-a-Velha e Oledo, município de Idanha-a-Nova, com a área de 1679,7225 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 3 (suspensão da actividade cinegética) e alterador 4 (renovação da concessão por 10 anos com área de 1212,8325 ha e nova planta) não dão nova redação a nenhum ponto do original: alterações não textuais.",
+  "instrucoes": [
+    "Alterador 1: retificação no 6.º, 'um guarda florestal auxiliar' passa a 'dois guardas florestais auxiliares'; unidade 12.",
+    "Alterador 2: nova redação do 1.º (unidade 6) e aditamento do 1.º-A depois da unidade 6.",
+    "Alterador 3: suspensão da actividade cinegética; não textual, não aplicado.",
+    "Alterador 4: renovação da concessão; não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

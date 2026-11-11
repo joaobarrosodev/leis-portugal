@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:200016:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "3 - As candidaturas são reconhecidas como elegíveis quando o indicador de relevância global, definido naquele anexo, alcançar um valor igual ou superior a 65 pontos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 3 (65 pontos em vez de 50); substituída a unidade 8.",
+    "Alterador 2: é o mesmo Despacho Normativo n.º 259/92 repetido, com a mesma redação do n.º 3; já aplicado, nada mais a fazer.",
+    "Alteradores 1 e 2, n.º 2: entrada em vigor do próprio despacho, sem alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

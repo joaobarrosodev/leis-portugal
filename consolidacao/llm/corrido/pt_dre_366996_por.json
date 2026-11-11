@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:366996:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 21,
+      "texto": "O Jardim-de-Infância da Póvoa de Varzim;\n\nO Jardim-de-Infância de Lavadores;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 22,
+      "texto": "e) A delegação no Porto do Gabinete de Inspecção do ex-Comissariado para os Desalojados.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 27,
+      "texto": "O Centro de Educação Especial do Porto.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação da norma I; o proémio e as alíneas 1), a), b), d) e 2) com «...» ficam como estão.",
+    "Alínea c) do n.º 1): a lista de estabelecimentos passa a ser a do alterador (Jardim-de-Infância da Póvoa de Varzim e de Lavadores), substituindo as unidades 18 a 21.",
+    "Aditada a alínea e) do n.º 1) a seguir à alínea d).",
+    "N.º 2): mantido o texto atual («...») e aditado o Centro de Educação Especial do Porto no fim."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

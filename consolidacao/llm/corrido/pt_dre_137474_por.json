@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:137474:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "2.º Os pesticidas de uso agrícola não referidos no número anterior estão sujeitos ao regime de margens de comercialização fixadas.",
+      "alterador": 1
+    },
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "6.º Nas vendas de pesticidas de uso agrícola referidos no n.º 2 é aplicável a margem de comercialização de 25%, calculada sobre o preço de venda à porta da fábrica ou armazém do importador, e mínima de 15% para o retalhista, calculada sobre a mesma base.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 2.º (unidade 13) e do n.º 6.º (unidade 22); o '...' entre eles é só elisão dos números intermédios, que ficam."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

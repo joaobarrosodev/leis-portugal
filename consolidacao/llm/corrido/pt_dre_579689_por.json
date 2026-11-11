@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:579689:por",
+  "substituicoes": [
+    {
+      "de": 26,
+      "ate": 27,
+      "texto": "a) Grupo I - Embalagens de peixes inteiros: Sacos de juta ou polipropileno, de 50 kg;",
+      "alterador": 3
+    },
+    {
+      "de": 36,
+      "ate": 36,
+      "texto": "6.º - (Revogado.)",
+      "alterador": 4
+    },
+    {
+      "de": 37,
+      "ate": 39,
+      "texto": "7.º - (Revogado.)",
+      "alterador": 4
+    },
+    {
+      "de": 42,
+      "ate": 42,
+      "texto": "9.º - (Revogado.)",
+      "alterador": 4
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (Portaria 1167/82): nova redação da alínea a) do 7.º; superada pela nova redação de todo o 7.º (alt. 2) e depois pela revogação do 7.º (alt. 4), por isso não fica no texto final.",
+    "Alt. 2 (Portaria 461/84): nova redação do 7.º; superada pela revogação do 7.º (alt. 4).",
+    "Alt. 3 (Portaria 811/85): nova redação da alínea a) do n.º 1 do 4.º; unidades 26-27 juntas numa só linha com sacos de 50 kg; 'Caixas de cartão de 25 kg;' fica igual.",
+    "Alt. 4 (Portaria 995/89): revoga os n.os 6.º, 7.º e 9.º; 6.º, 7.º (com as alíneas) e 9.º passam a '(Revogado.)'. As outras alíneas do n.º 2.º dirigem-se a outros diplomas e o 1.º não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

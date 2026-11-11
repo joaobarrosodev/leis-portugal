@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:297246:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "b) Não será permitida a utilização da quota de descongelamento para provimento de lugares não cabimentados ou para a admissão de pessoal além do quadro, com excepção, neste último caso, do pessoal a afectar à fiscalização e administração tributária, nos termos do [Decreto-Lei n.º 200/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1985-182239), de 15 de Junho.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2: aumento da quota do Ministério da Saúde (mapa anexo à resolução) e extensão das admissões aos serviços em regime de instalação, sem nova redação do texto do original: alteração não textual.",
+  "instrucoes": [
+    "Alterador 1: nova redação da alínea b) do n.º 2; substituída a unidade 11.",
+    "Alterador 2: aumento de quota e extensão do âmbito; não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 33-33",
+    "operacao": "remover",
+    "regra": "llm",
+    "antes": "a) Directamente pela Farmácia, quando prescritos nas consultas externas do Hospital da Marinha, mediante apresentação da respectiva receita médica;",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:226014:por",
+    "alterador": "pt:dre:377897:por"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:617940:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Alvados, município de Porto de Mós, com a área de 1592,8360 ha.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "As substituições da planta anexa (alteradores 1, 2, 3, 4 e 5) só existem em imagem; a desanexação/anexação de prédios com área total de 2197,3770 ha e a fiscalização por dois guardas (alterador 4) e a renovação com anexação e área de 2879 ha (alterador 5) não são alterações textuais ao original.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (área de 1604,50 ha): unidade 6, depois substituída pelos alteradores seguintes.",
+    "Alterador 2: nova redação do n.º 1.º em dois números (1602,7920 ha e enclaves): unidade 6, depois substituída por inteiro pelo alterador 3.",
+    "Alterador 3: nova redação do n.º 1.º (1592,8360 ha), num só parágrafo: unidade 6 substituída com a numeração 1.º mantida.",
+    "Alterador 3: aditado o n.º 1.º-A: inserido depois da unidade 6.",
+    "Alterador 4: desanexação e anexação de prédios, nova área e fiscalização por dois guardas: não textual, nada feito.",
+    "Alterador 5: renovação por 12 anos e anexação de prédios (2879 ha): não textual, nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:301667:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portarias n.os 574/97 e 172/2003 alteram os planos de estudos dos cursos (anexos próprios, o de 2003 só em quadros em imagem), sem alterar o texto da Portaria n.º 958/91.",
+  "instrucoes": [
+    "Alterador 1: novo plano de estudos da licenciatura em Investigação Social Aplicada; não altera o texto do original.",
+    "Alterador 2: novo plano de estudos da licenciatura em Direito e regras próprias; não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:208851:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "a) (Revogada.)",
+      "alterador": 4
+    },
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "b) (Revogada.)",
+      "alterador": 3
+    },
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "c) (Revogada.)",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "d) (Revogada.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os planos de estudo anexos dos cursos extintos (revogados nas partes respetivas) não constam do texto por unidades.",
+  "instrucoes": [
+    "Alterador 1, 6.º: extingue o curso de química tecnológica/técnico fabril e revoga a Portaria n.º 349/92 na parte desse curso; alínea c) (unidade 10) revogada.",
+    "Alterador 2, 6.º: extingue o curso de química tecnológica/analista de laboratório e revoga a parte respetiva; alínea d) (unidade 11) revogada.",
+    "Alterador 3, 6.º e 7.º: extingue o curso de Técnico de Informática/Gestão criado pela Portaria n.º 349/92 e revoga-a parcialmente; alínea b) (unidade 9) revogada.",
+    "Alterador 4, 6.º e 7.º: extingue o curso de Técnico de Electrónica/Instrumentação Industrial e revoga parcialmente a portaria; alínea a) (unidade 8) revogada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

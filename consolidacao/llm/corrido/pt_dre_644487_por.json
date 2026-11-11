@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:644487:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "«Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia da Mata, município de Castelo Branco, com a área de 849,8536 ha.»",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: a planta que substitui a anexa à Portaria n.º 866/97 só vem em imagem. Alteradores 2 a 4 (anexações e renovação da zona de caça) não alteram o texto da Portaria n.º 866/97.",
+  "instrucoes": [
+    "Alterador 1, 1.º: retificação no n.º 1.º, 858,3701 ha passa a 849,8536 ha; substituída a unidade 9 com a frase trocada.",
+    "Alterador 1, 2.º: substituição da planta anexa (imagem); não aplicada.",
+    "Alteradores 2, 3 e 4: anexação, renovação e nova anexação da zona de caça, sem instrução textual dirigida a este diploma; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

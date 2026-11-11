@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:302293:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "2.º Nesta área, que é parte integrante da Zona de Caça Turística de São Miguel, é concedida à Câmara Municipal de Sousel a exploração da respectiva zona de caça (processo n.º 1 da Direcção-Geral das Florestas) por um período de doze anos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Agregações de propriedades ao conjunto do n.º 1.º (alteradores 1 e 2) e o mapa anexo (alterador 2, em imagem) não trazem nova redacção do n.º 1.º; a renovação e a excepção quanto aos guardas florestais (alterador 3) não são alterações textuais.",
+  "instrucoes": [
+    "Alterador 1, n.º 5.º: nova redacção do n.º 2.º aplicada à unidade 8, mantendo a numeração 2.º.",
+    "Alterador 1, n.os 1.º a 3.º: agregação de propriedades ao n.º 1.º, sem nova redacção; não aplicada.",
+    "Alterador 1, n.º 4.º: altera a Portaria n.º 516-A/88, outro diploma; ignorado.",
+    "Alterador 2: agregação de propriedades e mapa anexo; não aplicado.",
+    "Alterador 3: renovação da concessão e quatro guardas florestais auxiliares por excepção; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

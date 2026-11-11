@@ -1,0 +1,106 @@
+{
+  "id": "pt:dre:240023:por",
+  "substituicoes": [
+    {
+      "de": 40,
+      "ate": 40,
+      "texto": "1 - As candidaturas formalizam-se junto do IFADAP até 30 de Setembro de 2005 no caso dos apoios previstos nas alíneas a), c), d) e e) do n.º 1 do n.º 2.º\n\n2 - As candidaturas referentes à alínea b) do n.º 1 do n.º 2.º formalizam-se até 30 de Novembro de 2005.",
+      "alterador": 1
+    },
+    {
+      "de": 58,
+      "ate": 58,
+      "texto": "2 - Relativamente às candidaturas apresentadas em 2005, referidas no n.º 2 do n.º 7.º, o prazo de decisão decorre até 31 de Janeiro de 2006.\n\n3 - São recusadas as candidaturas que não cumpram as condições estabelecidas no presente Regulamento, as determinações relativas aos tipos de despesas elegíveis divulgas pelo IFADAP e demais legislação aplicável ou não tenham cobertura orçamental assegurada.",
+      "alterador": 1
+    },
+    {
+      "de": 113,
+      "ate": 113,
+      "texto": "4 - As candidaturas aos apoios referidos nas alíneas b) a d) do n.º 1 só podem ser apresentadas após a publicação da portaria que aprovar as ZIF respectivas.\n\n5 - As candidaturas aos apoios referidos na alínea a) do n.º 1 devem incluir a elaboração do plano de defesa da floresta contra incêndios, cujos apoios estão previstos na alínea e) do n.º 1.",
+      "alterador": 1
+    },
+    {
+      "de": 117,
+      "ate": 120,
+      "texto": "a) No caso da alínea a), o núcleo fundador, definido na alínea e) do artigo 3.º do [Decreto-Lei n.º 127/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2005-241857), de 5 de Agosto, representado por pessoa colectiva ou entidade da administração central ou local que assuma solidariamente com os proprietários e produtores florestais que constituem o núcleo fundador as obrigações decorrentes do contrato de apoio;\n\nb) Nas alíneas b) a d), as entidades gestoras das ZIF, tal como identificadas na alínea b) do artigo 3.º do referido decreto-lei;\n\nc) Relativamente à alínea e), as entidades gestoras das ZIF, os titulares ou entidades responsáveis pela administração de explorações ou conjuntos de explorações florestais de dimensão elegível;\n\nd) Relativamente à alínea f), a Direcção-Geral dos Recursos Florestais;\n\ne) No caso da alínea g), os produtores florestais, as organizações de produtores florestais, os órgãos de administração de baldios e as autarquias detentoras de áreas florestais.",
+      "alterador": 1
+    },
+    {
+      "de": 76,
+      "ate": 76,
+      "texto": "a) Ter parecer da comissão municipal de defesa da floresta contra incêndios, se forem de âmbito concelhio ou intermunicipal, no caso das alíneas a), d) e g);",
+      "alterador": 1
+    },
+    {
+      "de": 77,
+      "ate": 77,
+      "texto": "b) Ter parecer favorável da DGRF, se de âmbito mais alargado, no caso das alíneas d) e g);",
+      "alterador": 1
+    },
+    {
+      "de": 90,
+      "ate": 90,
+      "texto": "c) Quando se trate da alínea g), as organizações de produtores florestais de grau superior, os organismos da administração central, autarquias locais e associações intermunicipais;",
+      "alterador": 1
+    },
+    {
+      "de": 163,
+      "ate": 163,
+      "texto": "a) No caso da alínea a), os produtores florestais, as organizações de produtores florestais, os órgãos de administração de baldios e os organismos da administração central e local;",
+      "alterador": 2
+    },
+    {
+      "de": 37,
+      "ate": 37,
+      "texto": "2 - Não são elegíveis as despesas susceptíveis de apoio por qualquer outro instrumento de política, nomeadamente no âmbito das acções n.os 3.1, 3.2 e 3.6 da medida n.º 3 do Programa AGRO, da subacção n.º 3.4 da medida AGRIS e das subacções a), b), f) e j) da Acção Integrada de Base Territorial do Pinhal Interior, sem prejuízo do disposto na alínea f) do n.º 1 do n.º 12.º",
+      "alterador": 3
+    },
+    {
+      "de": 72,
+      "ate": 72,
+      "texto": "f) Autofinanciamento e co-financiamento nacional no âmbito dos apoios à subacção n.º 3.4 da medida AGRIS, componente n.º 2, e subacção j), componente n.º 2, da Acção Integrada de Base Territorial do Pinhal Interior. O co-financiamento nacional é efectuado até ao limite de Euro 1 000 000;",
+      "alterador": 3
+    },
+    {
+      "de": 75,
+      "ate": 75,
+      "texto": "2 - As acções referidas no número anterior, na parte aplicável, devem respeitar as seguintes condições:",
+      "alterador": 3
+    },
+    {
+      "de": 95,
+      "ate": 95,
+      "texto": "1 - Os apoios são de 85% do valor das despesas elegíveis no caso de o beneficiário revestir a forma de entidade de direito privado e de 100% caso o beneficiário seja uma entidade de direito público ou de utilidade pública.\n\n2 - No caso das acções previstas no n.º 4 do n.º 12.º, o apoio a conceder é calculado tendo em conta o valor por hectare, fixado em Euro 500, e a área declarada para o efeito pela câmara municipal, nunca superior a 30% da área a que se refere o n.º 8 do artigo 15.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491) e constante do respectivo plano municipal de defesa da floresta contra incêndios.\n\n3 - O apoio previsto no número anterior fica condicionado ao limite das disponibilidades orçamentais do Fundo.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 40,
+      "texto": "3 - Em 2006, as candidaturas devem ser apresentadas entre 1 de Fevereiro de 2006 e 30 de Abril do mesmo ano, com excepção das referentes aos apoios previstos nas alíneas b) e d) do n.º 1 do n.º 2.º, que devem ser apresentadas entre 1 de Fevereiro de 2006 e 30 de Maio do mesmo ano.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 84,
+      "texto": "3 - As candidaturas às subacções referidas na alínea f) do n.º 1 do presente número devem respeitar as condições previstas nos respectivos regulamentos de aplicação, bem como o disposto nas Portarias n.os [459/2006](https://diariodarepublica.pt/dr/detalhe/portaria/459-2006-633528), de 18 de Maio, e [902/2006](https://diariodarepublica.pt/dr/detalhe/portaria/902-2006-540001), de 4 de Setembro.\n\n4 - No caso da alínea a) do n.º 1 do presente número, as câmaras municipais podem beneficiar de um apoio, desde que verificado o disposto no n.º 10 do artigo 15.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho, e de acordo com as seguintes condicionantes:\n\na) Realização das despesas elegíveis, após 15 de Abril de cada ano, data a partir da qual deve ser constatado o incumprimento das obrigações a cargo daqueles que, a qualquer título, detenham os respectivos terrenos;\n\nb) Exibição, pelas câmaras municipais, da aprovação do plano municipal de defesa da floresta contra incêndios, bem como prova do procedimento administrativo e respectivo processo de contra-ordenação instaurados, respectivamente, nos termos do n.º 10 do artigo 15.º e dos artigos 38.º e 40.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491);\n\nc) Entrega da documentação comprovativa da despesa efectivamente suportada, por força do disposto no n.º 10 do artigo 15.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), sem os quais o pagamento não pode ser realizado;\n\nd) Apresentação, pelas câmaras municipais, de requerimento para efeitos de antecipação do apoio previsto no presente despacho normativo, o qual deve ser acompanhado de declaração emitida pelo órgão competente, reconhecendo o montante antecipado e da qual conste o compromisso de liquidação, à primeira solicitação do IFADAP;\n\ne) Declaração de compromisso emitida pelo órgão competente de que os apoios são reembolsados ao IFADAP logo que ressarcidas as despesas por aqueles que, nos termos do n.º 9 do artigo 15.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), estão obrigados a proceder à gestão de combustível nos respectivos terrenos, sem prejuízo de as câmaras municipais ficarem obrigadas a demonstrar, a todo o tempo, a adopção de todos os meios legais ao seu alcance, por forma a obterem os reembolsos previstos no n.º 10 do artigo 15.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491).",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DN 49/2005, 1.º: n.º 7.º, corpo (unidade 40) passa a n.os 1 e 2; o n.º 3 então aditado foi logo substituído pelo DN 29/2006 e entra como inserção depois da unidade 40 com a redação final",
+    "DN 49/2005, 1.º: n.º 10.º, novo n.º 2 e o antigo n.º 2 passa a n.º 3 (unidade 58, texto mantido)",
+    "DN 49/2005, 1.º: n.º 15.º, nova redação do n.º 4 e aditamento do n.º 5 (unidade 113)",
+    "DN 49/2005, 1.º: n.º 16.º, nova redação das alíneas, a) a e) em lugar de a) a d) (unidades 117-120); corpo mantido",
+    "DN 49/2005, 2.º: retificação 'alínea e)' por 'alínea g)' nas alíneas a) e b) do n.º 2 do n.º 12.º (unidades 76 e 77, onde a referência é 'alíneas ... e e)') e na alínea c) do n.º 13.º (unidade 90)",
+    "DN 29/2006, 1.º: n.º 7.º, nova redação do n.º 3 (inserção depois da unidade 40); n.os 1 e 2 mantidos",
+    "DN 29/2006, 1.º: n.º 24.º, nova redação da alínea a) (unidade 163)",
+    "DN 17/2006, art. 1.º: n.º 2 do n.º 6.º (unidade 37)",
+    "DN 17/2006, art. 1.º: n.º 12.º, nova alínea f) do n.º 1 (unidade 72), novo corpo do n.º 2 (unidade 75), aditados n.os 3 e 4 depois da unidade 84",
+    "DN 17/2006, art. 1.º: n.º 14.º, texto anterior passa a n.º 1 e aditados n.os 2 e 3 (unidade 95)",
+    "DN 17/2006, art. 2.º (alteração orçamental) e normas de produção de efeitos: não alteram o texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:610912:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias 413/91, 1157/91, 422/92, 1223/92, 458/93 e 1109/94, esta duas vezes) substituem, reestruturam ou aumentam o quadro de pessoal, que só existe em imagem; a Portaria 1109/94 fixa as unidades orgânicas e o conteúdo funcional em anexos próprios, sem dar nova redação ao 2.º nem ao anexo do original. Nada textual a aplicar.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 413/91): substitui os quadros de pessoal médico (imagem); não aplicada.",
+    "Alt. 2 (Portaria 1157/91): reestrutura o quadro (imagem); não aplicada.",
+    "Alt. 3 (Portaria 422/92): substitui o quadro de pessoal médico (imagem); não aplicada.",
+    "Alt. 4 (Portaria 1223/92): altera o quadro (imagem) e extingue lugares; não aplicada.",
+    "Alt. 5 (Portaria 458/93): aumenta o quadro (imagem); não aplicada.",
+    "Alt. 6 e 7 (Portaria 1109/94, repetida): substitui o quadro pelo anexo I (imagem) e define unidades orgânicas e conteúdo funcional em anexos próprios; não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

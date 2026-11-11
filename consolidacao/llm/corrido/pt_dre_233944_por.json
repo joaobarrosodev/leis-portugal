@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:233944:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "2.º Podem ser reconhecidas, a seu pedido, as organizações interprofissionais, a nível nacional ou regional, por produto ou grupo de produtos, que preencham, cumulativamente os seguintes requisitos:",
+      "alterador": 1
+    },
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "4.º O GPP emite parecer técnico, podendo solicitar documentos complementares.",
+      "alterador": 1
+    },
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "8.º O pedido de aprovação dos acordos previstos no artigo 7.º da [Lei n.º 123/97](https://diariodarepublica.pt/dr/detalhe/lei/123-1997-687460), de 13 de Novembro, ou extensão das respectivas regras deve ser apresentado no GPP que emite parecer técnico, acompanhado dos seguintes documentos:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 35/2008, 1.º: nova redação do corpo do n.º 2.º (sem parecer do Conselho Nacional); alíneas a) a e) com '...' mantidas; substituída a unidade 10",
+    "Portaria 35/2008, 1.º: nova redação do n.º 4.º (GPP emite parecer técnico); unidade 20",
+    "Portaria 35/2008, 1.º: nova redação do corpo do n.º 8.º (GPP que emite parecer técnico); alíneas a) e b) mantidas; unidade 27"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

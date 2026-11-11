@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:148830:por",
+  "substituicoes": [
+    {
+      "de": 114,
+      "ate": 114,
+      "texto": "Art. 16.º Os serviços poderão ser subdivididos em repartições, divisões e secções, técnicas ou administrativas, sendo as técnicas chefiadas por peritos industriais ou técnicos de 1.ª classe com os cursos adequados.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 5.º: nova redação do artigo 16.º da orgânica (unidade 114), aplicada.",
+    "Alterador 1, art. 2.º: cria seis lugares de técnico de 1.ª classe no quadro comum e fixa a sua gratificação; é norma autónoma, sem alteração textual ao original (o mapa I está em imagem), não aplicada ao texto.",
+    "Restantes artigos do alterador 1 (Cabo Verde, Serviços de Comércio, Moçambique, Macau, disposições comuns, Decreto n.º 442/73) não são dirigidos ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

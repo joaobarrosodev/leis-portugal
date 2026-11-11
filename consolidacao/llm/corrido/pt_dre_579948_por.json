@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:579948:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias da Lourinhã, São Bartolomeu, Reguengo Grande e Moledo, município da Lourinhã, com a área de 2189 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alt. 2 (Portaria 683-E/97) e alt. 3 (Portaria 627/2002) só suspendem a atividade cinegética e alt. 4 (Portaria 358/2003) renova a concessão com nova área e nova planta (só em imagem): não são alterações textuais do original. A nova planta anexa da alt. 1 também só existe em imagem.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 610/97): nova redação do n.º 1.º (unidade 6) e aditamento do n.º 1.º-A a seguir.",
+    "Alt. 2 (Portaria 683-E/97): suspensão da atividade cinegética por 180 dias; não textual, não aplicada.",
+    "Alt. 3 (Portaria 627/2002): suspensão do exercício da caça até à renovação; não textual, não aplicada.",
+    "Alt. 4 (Portaria 358/2003): renovação da concessão por 12 anos e revogação da Portaria 627/2002; não altera o texto do original, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

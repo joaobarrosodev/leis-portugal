@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:303096:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante na planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Vaqueiros, município de Santarém, com a área de 338,0220 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 163/2000) anexa prédios (área total 350,7660 ha) sem alterar o texto; alterador 3 (Portaria n.º 779/2004) suspende a caça; alterador 4 (Portaria n.º 514/2005) renova a concessão com 324 ha por planta e revoga a Portaria n.º 779/2004: nenhuma é alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 1.º; substituída a unidade 6.",
+    "Alterador 1: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 2: anexação de prédios sem nova redacção; não aplicado.",
+    "Alterador 3: suspensão do exercício da caça; não aplicado.",
+    "Alterador 4: renovação por 12 anos com nova área por planta e revogação da Portaria n.º 779/2004; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

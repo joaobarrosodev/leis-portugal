@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:172493:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 4 (Portarias n.os 1452/2001, 1460/2001, 1461/2001 e 13/2002) substituem os planos de estudos das variantes de Educação Musical, Português-Inglês, Educação Física e Português-Francês, que estão no anexo do original só em imagem (unidade 23, ver documento original), e os novos quadros também só vêm em imagem; não há alteração textual aplicável.",
+  "instrucoes": [
+    "Alterador 1, 1.º: plano de estudos da variante de Educação Musical passa a ser o do anexo (quadros só em imagem): não aplicado.",
+    "Alterador 2, 1.º: plano de estudos da variante de Português-Inglês passa a ser o do anexo (quadros só em imagem): não aplicado.",
+    "Alterador 3, 1.º: plano de estudos da variante de Educação Física passa a ser o do anexo (quadros só em imagem): não aplicado.",
+    "Alterador 4, 1.º: plano de estudos da variante de Português-Francês passa a ser o do anexo (quadros só em imagem): não aplicado.",
+    "Alteradores 1 a 4, 2.º a 4.º: normas autónomas (duração do ano lectivo, transição, aplicação), sem alteração do texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:260580:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia da Póvoa de Santarém, município de Santarém, com a área de 296,4903 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "A nova planta da Portaria 966/97 só vem em imagem. Alterador 2 (Portaria 198/2000) anexa prédios e fixa a área total em 307,8743 ha sem dar nova redação a nenhum número; alterador 3 (Portaria 751/2006) renova a concessão (326 ha) sem alteração textual. Nenhum dos dois aplicado ao texto.",
+  "instrucoes": [
+    "Portaria 966/97, 1.º: nova redação do n.º 1.º (área 296,4903 ha), unidade 6",
+    "Portaria 966/97, 1.º: aditado o n.º 1.º-A depois da unidade 6",
+    "Portaria 198/2000: anexação de prédios, sem instrução textual; não aplicada",
+    "Portaria 751/2006: renovação da concessão, sem instrução textual; não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

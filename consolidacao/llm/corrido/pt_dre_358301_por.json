@@ -1,0 +1,63 @@
+{
+  "id": "pt:dre:358301:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 20,
+      "texto": "3.4 - (Revogado.)\n\n3.4.1 - (Revogado.)\n\n3.4.2 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 74,
+      "ate": 74,
+      "texto": "c) (Revogada.)",
+      "alterador": 1
+    },
+    {
+      "de": 77,
+      "ate": 77,
+      "texto": "14 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 82,
+      "ate": 83,
+      "texto": "16.2 - (Revogado.)\n\n16.2.1 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 89,
+      "ate": 90,
+      "texto": "18.1 - (Revogado.)\n\n18.2 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 92,
+      "ate": 93,
+      "texto": "18.3 - (Revogado.)\n\n18.4 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 103,
+      "ate": 104,
+      "texto": "23 - (Revogado.)\n\n23.1 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 107,
+      "ate": 116,
+      "texto": "24 - (Revogado.)\n\n25 - (Revogado.)\n\n26 - (Revogado.)\n\n26.1 - (Revogado.)\n\n27 - (Revogado.)\n\n27.1 - (Revogado.)\n\n28 - (Revogado.)\n\n28.1 - (Revogado.)\n\n29 - (Revogado.)\n\n30 - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A revogação genérica das normas que contrariem o Despacho Normativo n.º 36/99 não se aplica ao texto; só se aplicaram as normas expressamente designadas no n.º 13, a).",
+  "instrucoes": [
+    "Alterador 1, n.º 13, a): revoga os n.os 3.4, 3.4.1, 3.4.2, 13, c), 14, 16.2, 16.2.1, 18.1, 18.2, 18.3, 18.4, 23, 23.1, 24, 25, 26, 26.1, 27, 27.1, 28, 28.1, 29 e 30: cada um passa a (Revogado.) / (Revogada.).",
+    "Alterador 1, n.º 13, proémio: revogação das normas que contrariem o despacho: condicional, não aplicada.",
+    "Alterador 1, restantes números: regime novo próprio, não dirigido ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

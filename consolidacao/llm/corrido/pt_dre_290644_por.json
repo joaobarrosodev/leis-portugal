@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:290644:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Carvoeira e Ericeira, município de Mafra, com a área de 880,0072 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (anexação de prédios, área total 905,9937 ha), alterador 3 e alterador 4 (extinção parcial da zona de caça) não dão nova redação a nenhum ponto do original: alterações não textuais.",
+  "instrucoes": [
+    "Alterador 1: nova redação do 1.º (unidade 6) e aditamento do 1.º-A depois da unidade 6.",
+    "Alterador 2: anexação de prédios; não textual, não aplicado.",
+    "Alterador 3: extinção parcial; não textual, não aplicado.",
+    "Alterador 4: extinção parcial e nova concessão a outra entidade; não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:206033:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Arneiro das Milhariças, município de Santarém, com a área de 892,3275 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 republica o mapa anexo, só em imagem; alterador 3 (renovação da concessão com 699 ha e nova planta) não dá nova redação ao original: alteração não textual.",
+  "instrucoes": [
+    "Alterador 1: retificação do mapa anexo, republicado em imagem; não aplicada.",
+    "Alterador 2, 1.º: nova redação do n.º 1.º (892,3275 ha); substituída a unidade 6.",
+    "Alterador 2: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 3: renovação por 12 anos com 699 ha; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

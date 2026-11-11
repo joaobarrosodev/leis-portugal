@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:280257:por",
+  "substituicoes": [
+    {
+      "de": 24,
+      "ate": 29,
+      "texto": "3.1 - Em todos os cursos de ensino básico português no estrangeiro é obrigatório a existência e preenchimento dos seguintes livros de escrituração escolar:\n\na) Livro A - de matrícula, frequência e seus resultados;\n\nb) Livro B - diário da frequência;\n\nc) Livro E - registo de correspondência expedida;\n\nd) Arquivo de correspondência recebida;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 600/79): nova redação do n.º 3.1 (corpo e alíneas a) a d), deixando de existir as antigas c) Livro C e a quinta alínea) — unidades 24 a 29 substituídas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

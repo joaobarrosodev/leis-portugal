@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:354346:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1.º São consignadas ao Instituto de Inovação Educacional de António Aurélio da Costa Ferreira, às Direcções Regionais de Educação, ao Departamento de Gestão de Recursos Educativos, ao Departamento do Ensino Superior, à Inspecção-Geral da Educação, ao Departamento de Ensino Secundário e ao Departamento da Educação Básica, quando por estes arrecadadas, as seguintes receitas:",
+      "alterador": 1
+    },
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "3.º As receitas enumeradas nos números anteriores são afectas ao pagamento das despesas dos serviços respectivos, mediante inscrições de dotações com compensação em receitas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 47/97, art. 24.º, n.º 3): elimina a referência ao Departamento de Programação e Gestão Financeira no n.º 1.º (retirado da enumeração) e no n.º 3.º (retirada a ressalva «com excepção das respeitantes ao...»)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

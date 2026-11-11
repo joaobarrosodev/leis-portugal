@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:692219:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2: novos planos de estudos que só vêm em imagem. O n.º 3.º do alterador 2 enquadra o curso na família profissional de administração e na área de educação e formação de direito (380), mas não dá nova redação ao n.º 2.º do original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1: novo plano de estudos (mapa em imagem); não aplicado.",
+    "Alterador 2: novo plano de estudos (imagem) e novo enquadramento do curso, sem alteração textual expressa; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 50-50",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "ii) O custo das mesmas não exceda 15% do investimento previsto para o restante custo, quando se trate de novas construções, e 12% do montante máximo elegível, no caso das modernizações.",
+    "depois": "ii) O custo das mesmas não exceda 25% do investimento previsto para o restante custo, quando se trate de novas construções e 20% do montante máximo elegível, no caso das modernizações.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:287423:por",
+    "alterador": "pt:dre:582019:por;pt:dre:660331:por"
+  },
+  {
+    "artigo": "unidades 56-60",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - Os níveis de comparticipação do Estado nos custos elegíveis dos projectos fixam-se do modo seguinte:\n\na) Quando se prossiga o reforço da competitividade económica com diminuição do esforço de pesca dentro de parâmetros que contemplem artes mais selectivas, melhor acondicionamento e conservação do pescado e melhoria das condições de segurança e do trabalho a bordo - 40%;\n\nb) Quando se prossiga apenas um melhor acondicionamento e conservação do pescado ou a melhoria das condições de segurança ou a melhoria das condições do trabalho a bordo - 35%;\n\nc) As ajudas a conceder são diminuídas, na proporção do tempo decorrido, dos montantes anteriormente concedidos há menos de cinco anos, desde que aqueles tenham sido concedidos para a mesma finalidade.\n\n4 - Em nenhum caso o valor total dos subsídios poderá ultrapassar o limite máximo da taxa de comparticipação prevista nas «Linhas Directrizes da Comissão da CE para Exame dos Auxílios Nacionais no Sector da Pesca».",
+    "depois": "3 - A comparticipação do Estado nos custos elegíveis do projecto é fixada em 40%.\n\n4 - As ajudas a conceder são diminuídas, na proporção do tempo decorrido, dos montantes anteriormente concedidos há menos de cinco anos, desde que aqueles tenham sido concedidos para a mesma finalidade.\n\n5 - Em nenhum caso o valor dos subsídios poderá ultrapassar o limite máximo da taxa de comparticipação prevista nas 'Linhas directrizes da Comissão da CE para exame dos auxílios nacionais no sector da pesca'.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:287423:por",
+    "alterador": "pt:dre:582019:por;pt:dre:660331:por"
+  },
+  {
+    "artigo": "unidades 67-67",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - As candidaturas entregues na Direcção-Geral das Pescas e Aquicultura até 29 de Fevereiro de 2000, 31 de Agosto de 2000, 28 de Fevereiro de 2001 e 31 de Agosto de 2001 serão objecto de decisão até 30 de Abril de 2000, 31 de Outubro de 2000, 30 de Abril de 2001 e 31 de Outubro de 2001, respectivamente.",
+    "depois": "1 - As candidaturas entregues na Direcção-Geral das Pescas e Aquicultura (DGPA) até 29 de Fevereiro de 2000, 31 de Agosto de 2000, 15 de Dezembro de 2000, 28 de Fevereiro de 2001, 31 de Agosto de 2001 e 15 de Dezembro de 2001 serão objecto de decisão até 30 de Abril de 2000, 31 de Outubro de 2000, 31 de Dezembro de 2000, 30 de Abril de 2001, 31 de Outubro de 2001 e 31 de Dezembro de 2001.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:287423:por",
+    "alterador": "pt:dre:582019:por;pt:dre:660331:por"
+  },
+  {
+    "artigo": "unidades 91-91",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "As candidaturas anteriores à data da publicação do presente Regulamento, apresentadas ao abrigo do Regulamento aprovado pelo [Despacho Normativo n.º 57/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/57-1998-444675), de 21 de Agosto, alterado pelo [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), de 28 de Abril, e que ainda não foram objecto de decisão, podem ficar abrangidas pelas disposições constantes do presente Regulamento, devendo os candidatos reformulá-las até 31 de Agosto de 2000.",
+    "depois": "1 - As candidaturas apresentadas ao abrigo do Regulamento aprovado pelo [Despacho Normativo n.º 57/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/57-1998-444675), de 21 de Agosto, alterado pelo [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), de 28 de Abril, que ainda não foram objecto de decisão, transitam para o regime previsto no presente Regulamento.\n\n2 - As candidaturas previstas no número anterior poderão ser reformuladas pelos respectivos promotores até 31 de Agosto de 2000.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:287423:por",
+    "alterador": "pt:dre:582019:por;pt:dre:660331:por"
+  }
+]

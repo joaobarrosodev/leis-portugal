@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 16-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - A comissão executiva será constituída por um presidente, uma direcção de acções de fomento económico e uma direcção de infra-estruturas.\n\n5 - O presidente da comissão executiva bem como os responsáveis pelas duas direcções são nomeados pelo Ministro do Planeamento e da Administração do Território.",
+    "depois": "4 - A comissão executiva será constituída por um presidente e três directores.\n\n5 - Os membros da comissão executiva são nomeados por despacho do Ministro do Planeamento e da Administração do Território.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:286901:por",
+    "alterador": "pt:dre:332962:por"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:1583409:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 54,
+      "texto": "cc) De autorização para, nos termos do n.º 1 do artigo 20.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, realizar despesas com contratos de arrendamento de imóveis para instalação de serviços e organismos, sem prejuízo das competências específicas delegadas no Secretário de Estado dos Assuntos Fiscais nesta matéria;\n\ndd) De autorização para a prática de todos os atos respeitantes a procedimentos pré-contratuais de aquisição de bens e serviços relativamente a cada um dos serviços, organismos e entidades referidas no n.º 1, nomeadamente a competência para escolher os procedimentos e autorizar a realização das respetivas despesas, até ao valor máximo de (euro) 450 000, acrescido de IVA à taxa legal em vigor, aprovar as peças do procedimento, designar o júri dos concursos, proceder à adjudicação, aprovar minutas e outorgar os contratos a celebrar;\n\nee) De concessão extraordinária de garantias pessoais pelo Estado para o reforço da estabilidade financeira e da disponibilização de liquidez nos mercados financeiros, nos termos da [Lei n.º 60-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2008-383202), de 20 de outubro.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: aditadas as alíneas cc), dd) e ee) ao n.º 3, inseridas a seguir à alínea bb) (unidade 54).",
+    "Alterador 1, n.º 2: republicação em anexo; as diferenças de grafia (acordo ortográfico), o preâmbulo e o ';' final da alínea bb) na republicação não vêm de instrução de alteração e não foram aplicados.",
+    "Alterador 1, n.º 3: produção de efeitos, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

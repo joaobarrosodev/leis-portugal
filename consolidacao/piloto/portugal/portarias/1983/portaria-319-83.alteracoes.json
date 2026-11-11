@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Pelos directores dos institutos e dos departamentos não integrados em institutos;",
+    "depois": "b) Pelos directores dos institutos e dos departamentos;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312612:por",
+    "alterador": "pt:dre:385983:por;pt:dre:455428:por"
+  },
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "e) Por 6 representantes eleitos de entre o pessoal de investigação e técnico superior.",
+    "depois": "e) Por 6 representantes eleitos de entre o pessoal de investigação e técnico superior, bem como pessoal dirigente oriundo destas carreiras, não incluído nas alíneas a), b), c) e d).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312612:por",
+    "alterador": "pt:dre:385983:por;pt:dre:455428:por"
+  }
+]

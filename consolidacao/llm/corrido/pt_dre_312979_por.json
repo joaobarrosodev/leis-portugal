@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:312979:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "c) Comportamento industrial base e preços de intervenção:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O quadro da nova alínea c) do n.º 1.º (preços de intervenção) só vem em imagem (ver documento original); a unidade 19 fica como está.",
+  "instrucoes": [
+    "Alterador 1 (Despacho Normativo 193/83): nova redação da alínea c) do n.º 1.º; aplicado o texto da alínea (unidade 18); o quadro, só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

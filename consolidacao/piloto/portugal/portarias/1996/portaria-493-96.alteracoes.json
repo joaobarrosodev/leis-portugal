@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Ao abrigo do disposto no [Decreto-Lei n.º 374/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1991-287978), de 8 de Outubro, conjugado com a [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro, [Decreto-Lei n.º 260/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1985-183425), de 30 de Setembro, e ainda com o capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:",
+    "depois": "Ao abrigo do disposto no [Decreto-Lei n.º 374/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1991-287978), de 8 de Outubro, conjugado com a [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro, [Decreto-Lei n.º 260/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1995-575733), de 30 de Setembro, e ainda com o capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:219734:por",
+    "alterador": "pt:dre:516524:por"
+  }
+]

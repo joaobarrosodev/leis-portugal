@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:357755:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 4 aditam um quadro ou criam/acrescentam lugares nos quadros de pessoal constantes dos mapas anexos, que só existem em imagem; não há alteração textual ao texto da portaria.",
+  "instrucoes": [
+    "Alterador 1: adita ao quadro da Reitoria o mapa anexo (imagem): não aplicado.",
+    "Alteradores 2 e 3 (Portaria n.º 184/96, repetida): cria um lugar de técnico superior de 1.ª classe na Faculdade de Direito: não textual, não aplicado.",
+    "Alterador 4: acrescenta um lugar à carreira técnica da Faculdade de Letras: não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

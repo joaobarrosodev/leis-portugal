@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º São aprovados os planos curriculares dos cursos de Alojamento Hoteleiro, de Cozinha, de Restaurante/Bar e de Turismo, promovidos pelo INFTUR e ministrados pelos estabelecimentos de ensino dele dependentes, designados por escolas de hotelaria e turismo, constantes do anexo I da presente portaria, que dela faz parte integrante.",
+    "depois": "1.º São aprovados os planos curriculares dos cursos de Alojamento Hoteleiro, de Cozinha, de Restaurante/Bar e de Turismo promovidos pelo INFTUR e ministrados pelos estabelecimentos dele dependentes, designados por escolas de hotelaria e turismo, e pela Escola Profissional de Hotelaria e Turismo da Madeira, constantes do anexo I da [Portaria n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/portaria/257-2002-265288), de 13 de Março, que dela faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:265288:por",
+    "alterador": "pt:dre:345313:por"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:194616:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 3 (Portarias n.os 323/2001, 1184/2003 e 1336/2003) substituem o anexo (plano de estudos) e depois o seu quadro n.º 1; o anexo do original e os novos quadros só vêm em imagem, não há alteração textual aplicável.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo (quadros só em imagem): não aplicado.",
+    "Alterador 2, 1.º: nova redação do anexo (quadros só em imagem): não aplicado.",
+    "Alterador 3, 1.º: nova redação do quadro n.º 1 do anexo (só em imagem): não aplicado.",
+    "Restantes números dos alteradores (opções, duração do ano lectivo, transição, aplicação, produção de efeitos): normas autónomas, sem alteração do texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

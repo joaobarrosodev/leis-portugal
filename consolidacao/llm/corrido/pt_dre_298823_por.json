@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:298823:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Vila Nova de Foz Côa, Freixo de Numão e Santo Amaro, município de Vila Nova de Foz Côa, com a área de 2038,5660 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Substituição da planta anexa (alteradores 1 e 2) só vem em imagem; Portaria n.º 505/2000 (suspensão da actividade cinegética) e Portaria n.º 714/2000 (renovação com nova área e redução a um só guarda florestal auxiliar, por excepção e sem nova redacção do n.º 6.º) não são alterações textuais.",
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 1.º (2206 ha); substituída depois pela do alterador 2.",
+    "Alterador 2: nova redacção do n.º 1.º (2038,5660 ha) aplicada à unidade 6, mantendo a numeração 1.º; aditado o n.º 1.º-A depois da unidade 6.",
+    "Alterador 3: suspensão da actividade cinegética por 180 dias, não textual.",
+    "Alterador 4: renovação da concessão e excepção quanto à fiscalização (um só guarda), sem nova redacção; não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

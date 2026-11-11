@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:311669:por",
+  "substituicoes": [
+    {
+      "de": 37,
+      "ate": 37,
+      "texto": "1 - A inscrição no curso estará sujeita a numerus clausus, que será fixado anualmente por despacho do Ministro da Educação e Cultura, sob proposta da Universidade, acompanhada de um relatório comprovativo da existência dos recursos humanos e materiais adequados à sua completa concretização.",
+      "alterador": 1
+    },
+    {
+      "de": 50,
+      "ate": 50,
+      "texto": "1 - O número de presenças em cada disciplina não pode ser inferior a 75% do número total de horas da mesma.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 38,
+      "texto": "5.º-A\n\nAcesso às opções\n\n1 - O acesso a cada uma das opções referidas no n.º 1.º pode ser sujeito a limitações quantitativas.\n\n2 - A fixação do número de vagas para cada opção e os critérios de selecção, bem como a deliberação sobre os candidatos a admitir a cada uma das opções, competem ao conselho científico.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "A nova redação do anexo I (n.º 4.º da Portaria 757/86) só vem em imagem (ver documento original); não aplicada.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1 do n.º 5.º (unidade 37).",
+    "Alterador 1, 2.º: aditado o n.º 5.º-A a seguir ao n.º 5.º (depois da unidade 38).",
+    "Alterador 1, 3.º: nova redação do n.º 1 do n.º 7.º (unidade 50).",
+    "Alterador 1, 4.º: nova redação do anexo I, só em imagem: não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

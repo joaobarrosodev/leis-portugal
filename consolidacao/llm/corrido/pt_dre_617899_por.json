@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:617899:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Vila Nova de São Pedro e Almoster, municípios de Azambuja e Santarém, com a área de 921,2184 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "A substituição da planta anexa (alteradores 1 e 2) só existe em imagem; a suspensão da caça (alterador 3) e a renovação da concessão com nova área de 745,6496 ha (alterador 4) não são alterações textuais ao original.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (área de 986,2184 ha) e substituição da planta; aplicada à unidade 6, depois substituída pelo alterador 2; planta não aplicável.",
+    "Alterador 2: nova redação do n.º 1.º (área de 921,2184 ha): unidade 6 substituída com a numeração 1.º mantida.",
+    "Alterador 2: aditado o n.º 1.º-A: inserido depois da unidade 6.",
+    "Alterador 3: suspensão do exercício da caça até à renovação: não textual, nada feito.",
+    "Alterador 4: renovação por 12 anos com área de 745,6496 ha e revogação da Portaria 552-M/2002: não textual, nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

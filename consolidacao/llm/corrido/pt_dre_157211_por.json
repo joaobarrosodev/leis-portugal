@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:157211:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Bucelas, município de Loures, com a área de 2159,1760 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 9,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "A nova planta anexa (alteradores 2, 3 e 4) só vem em imagem; a suspensão da atividade cinegética (alterador 1, depois revogado pelo alterador 2), a anexação da Quinta da Romeira com área total de 2289,1760 ha (alterador 3) e a renovação da concessão por 12 anos com a área de 2333 ha (alterador 4) não são alterações textuais ao original.",
+  "instrucoes": [
+    "Alterador 1: suspende a atividade cinegética por 180 dias; não textual, e revogado pelo alterador 2.",
+    "Alterador 2, n.º 1.º: nova redação do n.º 1.º (unidade 9) e aditamento do n.º 1.º-A, inserido a seguir.",
+    "Alterador 3: anexa um prédio de 130 ha (área total 2289,1760 ha) com planta em imagem; sem instrução de nova redação, não aplicado ao texto.",
+    "Alterador 4: renova a concessão por 12 anos a partir de 17 de junho de 2006 (área 2333 ha); não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

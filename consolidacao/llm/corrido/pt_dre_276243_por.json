@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:276243:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "7.º Os prédios rústicos que integram esta zona de caça turística, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter dois guardas florestais auxiliares dotados de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria 907-A/2000): desanexação de prédios (área passa a 830,90 ha, planta só em imagem) e o seu 3.º (fiscalização por um guarda florestal auxiliar) são disposições próprias, sem instrução textual sobre o n.º 2.º ou o n.º 7.º; alterador 3 (Portaria 972/2003): anexação de prédios (planta só em imagem), sem alteração textual; alterador 4 (Portaria 546/2006): renovação da concessão por 12 anos, sem alteração textual.",
+  "instrucoes": [
+    "Alterador 1 (Declaração de Rectificação 128/94): no n.º 7.º troca 'um guarda florestal auxiliar dotado' por 'dois guardas florestais auxiliares dotados' — unidade 17 substituída.",
+    "Alterador 2: desanexação de prédios e fiscalização por um guarda — não textual, em nao_aplicavel.",
+    "Alterador 3: anexação de prédios — não textual, em nao_aplicavel.",
+    "Alterador 4: renovação da concessão — não textual, em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

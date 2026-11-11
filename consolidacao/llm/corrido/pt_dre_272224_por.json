@@ -1,0 +1,116 @@
+{
+  "id": "pt:dre:272224:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Na classe da taifa, na categoria de praças, existem as seguintes subclasses:",
+      "alterador": 2
+    },
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "",
+      "alterador": 2
+    },
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "4.º Os sargentos e praças da taifa são designados, quer pelo cargo que desempenham (cozinheiros, despenseiros, copeiros e padeiros), quer pelo posto seguido da classe e subclasse.",
+      "alterador": 2
+    },
+    {
+      "de": 40,
+      "ate": 40,
+      "texto": "d) Ao pessoal da subclasse dos despenseiros com o posto de marinheiro:",
+      "alterador": 2
+    },
+    {
+      "de": 48,
+      "ate": 48,
+      "texto": "e) Ao pessoal da subclasse dos padeiros:",
+      "alterador": 2
+    },
+    {
+      "de": 50,
+      "ate": 50,
+      "texto": "2) Cooperar no serviço do rancho;",
+      "alterador": 2
+    },
+    {
+      "de": 62,
+      "ate": 62,
+      "texto": "10.º A preparação a ministrar nos cursos de alistamento da classe da taifa é variável conforme a situação militar dos indivíduos a ela sujeitos e a subclasse em que forem incorporados.",
+      "alterador": 2
+    },
+    {
+      "de": 69,
+      "ate": 69,
+      "texto": "16.º A data do ingresso na classe é a do dia em que forem aprovadas, por despacho do superintendente dos Serviços do Pessoal da Armada, as classificações finais dos alunos que frequentam o respectivo curso de alistamento.",
+      "alterador": 2
+    },
+    {
+      "de": 72,
+      "ate": 72,
+      "texto": "18.º Constitui uma das condições especiais de promoção a cabo nas subclasses dos cozinheiros, dos despenseiros e dos padeiros a promoção num exame de feição essencialmente prática e versando sobre a matéria de carácter profissional.",
+      "alterador": 2
+    },
+    {
+      "de": 74,
+      "ate": 74,
+      "texto": "19.º Para habilitar os cabos das subclasses dos cozinheiros, dos despenseiros e dos padeiros ao desempenho das funções de segundo-sargento da taifa existirá um curso de 2.º grau da taifa, que constitui uma das condições especiais de promoção ao posto de segundo-sargento desta classe.",
+      "alterador": 2
+    },
+    {
+      "de": 75,
+      "ate": 75,
+      "texto": "20.º A admissão aos cursos de aplicação do 2.º grau da taifa será feita proporcionalmente aos efectivos de cada subclasse de entre as praças que prèviamente tenham sido aprovadas no exame de admissão.",
+      "alterador": 2
+    },
+    {
+      "de": 85,
+      "ate": 85,
+      "texto": "c) A primeiro-sargento, por diuturnidade;",
+      "alterador": 2
+    },
+    {
+      "de": 92,
+      "ate": 104,
+      "texto": "Dezoito meses de serviço efectivo no posto de primeiro-sargento;\n\nDezoito meses de embarque a fazer em segundo-sargento, em primeiro-sargento ou nos dois postos.\n\nc) Para a promoção a segundo-sargento:\n\nUm ano de serviço efectivo no posto de cabo;\n\nSeis meses de embarque;\n\nCurso do 2.º grau da taifa.\n\nd) Para a promoção a cabo:\n\nDezoito meses de serviço efectivo no posto de marinheiro;\n\nSeis meses de embarque;\n\nExame.",
+      "alterador": 2
+    },
+    {
+      "de": 105,
+      "ate": 110,
+      "texto": "26.º Os actuais 13 cabos despenseiros oriundos do ramo de padeiros, agora extinto, são transferidos para a subclasse dos padeiros com o mesmo posto e antiguidade, sendo-lhes contadas as condições especiais de promoção que já tenham efectuado na subclasse a que pertenciam.",
+      "alterador": 2
+    },
+    {
+      "de": 111,
+      "ate": 116,
+      "texto": "27.º Os actuais marinheiros padeiros deixam de pertencer à subclasse dos despenseiros, ramo de padeiros, e são transferidos para a nova subclasse dos padeiros com o mesmo posto e antiguidade, sendo-lhes contadas as condições de promoção que já tenham efectuado na subclasse a que pertenciam.",
+      "alterador": 2
+    },
+    {
+      "de": 119,
+      "ate": 119,
+      "texto": "",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O novo quadro de subclasses do n.º 2.º (Portaria 310/71) só vem em imagem: fica a unidade 8 atual. A nova redação do n.º 18.º traz só o primeiro parágrafo; o segundo (unidade 73) não é mencionado e fica. A alteração da Portaria 213/70 à alínea b), 2), do n.º 27.º (unidade 115) fica absorvida pela nova redação integral do n.º 27.º dada pela Portaria 310/71. O alterador 3 (Portaria 219/72) vem sem texto: nada a aplicar.",
+  "instrucoes": [
+    "Portaria 213/70: nova redação da alínea b), 2), do n.º 27.º ('primeiro-criado'); substituída a seguir pela nova redação integral do n.º 27.º (Portaria 310/71), por isso sem substituição própria",
+    "Portaria 310/71, 1.º: novo corpo do n.º 2.º (unidade 7); quadro em imagem não aplicado",
+    "Portaria 310/71, 1.º: nova redação dos n.os 4.º, 10.º, 16.º (1.º parágrafo), 18.º (1.º parágrafo), 19.º e 20.º (unidades 10, 62, 69, 72, 74, 75)",
+    "Portaria 310/71, 1.º: nova redação do n.º 25.º, alíneas b) a d) (desaparece a antiga alínea c) de primeiro-sargento), unidades 92-104",
+    "Portaria 310/71, 1.º: nova redação dos n.os 26.º (unidades 105-110) e 27.º (unidades 111-116)",
+    "Portaria 310/71, 2.º: corpo das alíneas d) e e) do n.º 5.º e e) 2) (unidades 40, 48, 50); alínea c) do n.º 24.º (unidade 85)",
+    "Portaria 310/71, 3.º: eliminados os n.os 3.º (unidade 9) e 30.º (unidade 119), texto vazio",
+    "Portaria 219/72: sem texto no pedido; nada aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

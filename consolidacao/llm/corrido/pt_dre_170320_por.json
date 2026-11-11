@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:170320:por",
+  "substituicoes": [
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "4 - As pessoas a quem tenha sido reconhecida capacidade para o exercício da profissão de transportador público ocasional de mercadorias ficam dispensadas do exame das matérias constantes do grupo I do n.º 2.",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "7 - Sem prejuízo de posterior frequência de curso e aprovação em exame das matérias constantes do grupo II do n.º 2, a capacidade para o exercício da profissão de transportador público ocasional de mercadorias será provisoriamente aceite para efeitos do disposto na alínea b) do n.º 1 do n.º 1.º, durante um período a fixar por despacho do director-geral de Transportes Terrestres.",
+      "alterador": 1
+    },
+    {
+      "de": 47,
+      "ate": 47,
+      "texto": "b) (Revogada.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 47,
+      "texto": "10.º Até 31 de Dezembro de 1989 poderão ser concedidas autorizações para transportes com destino a Espanha às empresas licenciadas para transporte público ocasional de mercadorias que se proponham realizar esses transportes por meio de veículos licenciados sem limite de raio de acção.\n\n11.º Se as condições de mercado o exigirem e ouvida a associação representativa dos transportadores, poderão ser prorrogados os prazos estabelecidos nos n.os 9.º e 10.º, por despacho do Ministro das Obras Públicas, Transportes e Comunicações.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 2.º: nova redação dos n.os 4 e 7 do n.º 2.º (unidades 25 e 28).",
+    "Alterador 1, n.º 3.º: revogada a alínea b) do n.º 9.º (unidade 47), fica 'b) (Revogada.)'.",
+    "Alterador 1, n.º 4.º: aditados os n.os 10.º e 11.º, inseridos a seguir ao n.º 9.º (unidade 47)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

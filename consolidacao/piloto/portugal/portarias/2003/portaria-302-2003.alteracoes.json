@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 58-58",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.4 - As provas de avaliação em regime não presencial são provas de avaliação sumativa das disciplinas frequentadas nesse regime e realizam-se em quatro momentos - Janeiro, Abril, Julho e Setembro - em data a fixar pela escola; as provas a realizar em Setembro destinam-se, exclusivamente, à capitalização de unidades para conclusão de curso dos alunos que frequentaram esta modalidade de ensino no ano lectivo anterior e pretendam candidatar-se à segunda fase do concurso de acesso ao ensino superior.",
+    "depois": "4.4 - As provas de avaliação em regime não presencial são provas de avaliação sumativa das disciplinas frequentadas nesse regime e realizam-se em três momentos - Janeiro, Abril e Julho - em data a fixar pela escola, sendo que, em cada momento, só é permitida a realização de uma prova de avaliação por disciplina.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:226406:por",
+    "alterador": "pt:dre:218759:por"
+  }
+]

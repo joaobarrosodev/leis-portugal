@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:206026:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias do Pereiro e da Atalaia, município de Pinhel, com a área de 2881 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alteradores 1, 3 e 4 (suspensão da exploração, renovação da concessão, correção da área para 2777 ha com nova planta) não dão nova redação a nenhuma unidade do original: alterações não textuais.",
+  "instrucoes": [
+    "Alterador 1: suspensão da exploração cinegética; não textual.",
+    "Alterador 2, 1.º: nova redação do n.º 1.º (2881 ha); substituída a unidade 6.",
+    "Alterador 2: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 2, 3.º: revoga a Portaria n.º 258/98; não é do original.",
+    "Alterador 3: renovação por 12 anos; não textual.",
+    "Alterador 4: zona passa a integrar prédios da nova planta, 2777 ha; não dá nova redação ao texto, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

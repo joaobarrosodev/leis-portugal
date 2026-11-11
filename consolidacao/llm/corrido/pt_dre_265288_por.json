@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:265288:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "1.º São aprovados os planos curriculares dos cursos de Alojamento Hoteleiro, de Cozinha, de Restaurante/Bar e de Turismo promovidos pelo INFTUR e ministrados pelos estabelecimentos dele dependentes, designados por escolas de hotelaria e turismo, e pela Escola Profissional de Hotelaria e Turismo da Madeira, constantes do anexo I da [Portaria n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/portaria/257-2002-265288), de 13 de Março, que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria 846/2007), 6.º: revoga a Portaria 257/2002 só na parte correspondente aos cursos ministrados nas escolas tuteladas pelo Turismo de Portugal, I. P.; revogação parcial por âmbito, sem alvo textual, não aplicada ao texto.",
+  "instrucoes": [
+    "Portaria 582/2006, 1.º: nova redação do n.º 1.º (inclui a Escola Profissional de Hotelaria e Turismo da Madeira), unidade 10",
+    "Portaria 846/2007, 6.º: revogação parcial por âmbito; não aplicada (ver nao_aplicavel)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
