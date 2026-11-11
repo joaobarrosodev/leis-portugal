@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Pela [Portaria n.º 265/2003](https://diariodarepublica.pt/dr/detalhe/portaria/265-2003-217115), de 21 de Março, alterada pela [Portaria n.º 1254/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1254-2004-605285), de 27 de Setembro, foi criada a zona de caça municipal do Vale do Leça (processo n.º 3207-AFN), situada nos municípios de Santo Tirso, Valongo e Maia, válida até 21 de Março de 2009, e transferida a sua gestão para a Associação de Caçadores do Vale do Leça.",
+    "depois": "Pela [Portaria n.º 265/2003](https://diariodarepublica.pt/dr/detalhe/portaria/265-2003-217115), de 21 de Março, alterada pela [Portaria n.º 1254/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1254-2004-605285), de 27 de Setembro, foi criada a zona de caça municipal do Vale do Leça (processo n.º 3207-AFN), situada nos municípios de Santo Tirso, Valongo e Maia, válida até 21 de Março de 2009, e transferida a sua gestão para o Clube de Caçadores do Vale do Leça.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:439386:por",
+    "alterador": "pt:dre:603247:por"
+  }
+]

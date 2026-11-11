@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:402296:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Serra do Bouro, município das Caldas da Rainha, com a área de 656 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 1222/2006), n.º 1.º: anexa e desanexa prédios (área total de 1357 ha, nova planta) sem dar nova redação a nenhum ponto do original; não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º (área de 656 ha); substituí a unidade 6 mantendo a numeração 1.º.",
+    "Alterador 1, 1.º: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 2, 1.º: anexação/desanexação de prédios sem nova redação; não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

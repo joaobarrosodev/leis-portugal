@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "depois da unidade 51",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "3.4 - Inspecção para efeitos de emissão de certificados ADR e RPE:\n\na) Inspecção dos veículos e passagem do respectivo certificado, por unidade ... 7500$00\n\nb) Revalidação do certificado ... 2500$00\n\nc) Passagem de duplicado ou substituição do certificado ... 2500$00\n\nd) Cancelamento do certificado ... 1000$00",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:395750:por",
+    "alterador": "pt:dre:177066:por"
+  },
+  {
+    "artigo": "unidades 63-63",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Modelos de dispositivos de pré-sinalização, cintos de segurança, capacetes de protecção e outros ... 1000$00",
+    "depois": "d) Modelos de dispositivos de pré-sinalização, cintos de segurança, capacetes de protecção e outros acessórios ou componentes ... 2000$00",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:395750:por",
+    "alterador": "pt:dre:177066:por"
+  },
+  {
+    "artigo": "unidades 69-69",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Máquinas industriais ... 500$00",
+    "depois": "b) Máquinas industriais ... 1000$00",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:395750:por",
+    "alterador": "pt:dre:177066:por"
+  },
+  {
+    "artigo": "depois da unidade 71",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "5.4 - Autorização para instalação e uso de luzes avisadoras, azuis ou amarelas ... 1000$00",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:395750:por",
+    "alterador": "pt:dre:177066:por"
+  }
+]

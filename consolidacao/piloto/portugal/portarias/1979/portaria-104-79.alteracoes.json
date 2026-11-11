@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 10-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Organizar e prestar contas de todas as despesas realizadas no âmbito da função logística;\n\nd) Executar gradualmente um sistema de contabilidade geral, orçamental e analítica, segundo métodos racionais e científicos, de modo a assegurar desde já a informação de gestão necessária;\n\ne) Apoiar tecnicamente, em termos de gestão económico-financeira, os órgãos da sua área e fornecer, com oportunidade, informações que contribuam para uma mais eficaz e esclarecida acção de comando, direcção ou chefia;\n\nf) Prestar, de acordo com as normas fixadas superiormente, informações de gestão, através de relatórios de actividades financeiras, complementados com mapas de gestão, estatísticas e outros documentos julgados convenientes;\n\ng) Exercer superintendência técnica sobre os órgãos das unidades, estabelecimentos e outros da sua área de apoio;\n\nh) Desenvolver outras actividades que no campo administrativo-financeiro lhe venham a ser superiormente determinadas.",
+    "depois": "c) Executar gradualmente um sistema de contabilidade geral, orçamental e analítica, segundo métodos racionais e científicos, de modo a assegurar desde já a informação de gestão necessária;\n\nd) Apoiar tecnicamente, em termos de gestão económico-financeira, os órgãos da sua área e fornecer, com oportunidade, informações que contribuam para uma mais eficaz e esclarecida acção de comando, direcção ou chefia;\n\ne) Prestar, de acordo com as normas fixadas superiormente, informações de gestão, através de relatórios de actividades financeiras, complementados com mapas de gestão, estatísticas e outros documentos julgados convenientes;\n\nf) Exercer superintendência técnica sobre os órgãos das unidades, estabelecimentos e outros da sua área de apoio;\n\ng) Desenvolver outras actividades que no campo administrativo-financeiro lhe venham a ser superiormente determinadas;\n\nh) A verificação das contas das unidades, estabelecimentos e outros órgãos prevista nos artigos 140.º e seguintes do [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959, dentro da sua área de apoio;\n\ni) Fiscalizar as actividades desenvolvidas no âmbito da gestão financeira da sua área de apoio.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:383673:por",
+    "alterador": "pt:dre:692813:por"
+  },
+  {
+    "artigo": "depois da unidade 15",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "3 - O Centro de Gestão Financeira da Logística compreende:\n\na) Chefe do Centro de Gestão;\n\nb) Adjunto-inspector;\n\nc) Secção de Gestão e Análise Económico-Orçamental;\n\nd) Secção de Gestão Financeira e Contabilidade;\n\ne) Secção de Verificação de Contas;\n\nf) Secção de Expediente e Arquivo.\n\n4 - As datas em que o CGF/Logística passa a desempenhar as atribuições referidas na alínea h) e i) do n.º 1, bem como a definição das unidades, estabelecimentos e outros órgãos ou instalações que ficam integrados na área de apoio do mesmo Centro, serão fixadas por despacho do CEME.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:383673:por",
+    "alterador": "pt:dre:692813:por"
+  }
+]

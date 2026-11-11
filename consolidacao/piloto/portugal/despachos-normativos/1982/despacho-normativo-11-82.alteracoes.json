@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 119-119",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "27.2 - Este regime é de aplicação imediata aos processos pendentes, qualquer que seja o seu estado, a partir de 15 de Agosto de 1982.",
+    "depois": "27.2 - Este regime é de aplicação imediata aos processos pendentes, qualquer que seja o seu estado, a partir de 31 de Agosto de 1983.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:600339:por",
+    "alterador": "pt:dre:308551:por"
+  }
+]

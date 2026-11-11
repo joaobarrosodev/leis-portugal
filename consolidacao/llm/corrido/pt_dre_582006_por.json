@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:582006:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 784/87, 6.º) substitui o quadro de pessoal pelo do anexo VI e alterador 2 (Portaria n.º 589/88) aumenta-o de um lugar; os quadros só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1, 6.º: substitui o quadro de pessoal pelo do anexo VI (imagem): não aplicado.",
+    "Alterador 2, 1.º e 2.º: aumenta o quadro de um lugar de segundo-oficial (mapa em imagem; alteração não textual): não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

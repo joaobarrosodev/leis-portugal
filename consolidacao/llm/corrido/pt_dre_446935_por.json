@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:446935:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 muda a remuneração do lugar de chefe de secretaria do quadro, que só existe em imagem, sem instrução textual; Alterador 2, n.º 4.º, substitui o quadro de pessoal pelo quadro anexo IV, que só vem em imagem. Nenhuma das duas aplicada.",
+  "instrucoes": [
+    "Alterador 1: chefe de secretaria passa a letra I; alteração não textual sobre quadro em imagem: não aplicável.",
+    "Alterador 2, n.º 4.º: substitui o quadro (unidade 5) pelo anexo IV só em imagem: não aplicável. Os restantes números do alterador 2 visam outros diplomas: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

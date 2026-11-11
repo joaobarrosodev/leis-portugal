@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:405340:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 19,
+      "texto": "## ANEXO II — (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 20,
+      "ate": 22,
+      "texto": "## ANEXO III — (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 12.º, n.º 2, alínea c), da Portaria n.º 691/2009 revoga os anexos II e III da Portaria n.º 1551/2002: unidades 17-19 e 20-22 substituídas por anexo revogado.",
+    "As restantes revogações do art. 12.º visam outros diplomas: ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 17-19: parágrafo que não está no alterador nem no original: ## ANEXO II — (Revogado.)",
+    "substituição 20-22: parágrafo que não está no alterador nem no original: ## ANEXO III — (Revogado.)"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:544810:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2, 1.º: o plano de estudos do 2.º ciclo passa a ter a redacção do anexo da Portaria n.º 1203/2001, cujos quadros só vêm em imagem; não se pode reproduzir o texto. O desdobramento do 2.º ciclo em ramos (alterador 1, 1.º, n.º 2) não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º, n.º 2: o 2.º ciclo do curso de Engenharia do Ambiente e Território passa a desdobrar-se em ramos; não textual, nada aplicado. Os restantes números dirigem-se a outros cursos e diplomas: ignorados.",
+    "Alterador 2, 1.º: nova redacção do plano de estudos do 2.º ciclo com quadros só em imagem; não aplicada.",
+    "Alterador 2, 2.º e 3.º: transição e aplicação do próprio alterador; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

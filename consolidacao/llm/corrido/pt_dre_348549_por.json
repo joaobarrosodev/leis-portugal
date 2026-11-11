@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:348549:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o anexo II-B, na parte da Escola Superior de Música e das Artes do Espectáculo do Instituto Politécnico do Porto, passa a ter a redação do anexo da Portaria n.º 1264/2001, que só vem em imagem (quadro no documento original); não se pode aplicar ao texto.",
+  "instrucoes": [
+    "Alt. 1, 1.º: alteração parcial do quadro do anexo II-B, só em imagem; não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

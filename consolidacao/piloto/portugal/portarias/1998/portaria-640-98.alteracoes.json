@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 13-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O curso desdobra-se nos ramos de:\n\na) Estudos Portugueses e Galegos;\n\nb) Estudos Brasileiros;\n\nc) Estudos Africanos;\n\nd) Estudos Orientais.",
+    "depois": "O curso desdobra-se nos ramos:\n\na) Estudos Portugueses e Lusófonos;\n\nb) Desenvolvimento e Cooperação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:448308:por",
+    "alterador": "pt:dre:253033:por"
+  },
+  {
+    "artigo": "depois da unidade 24",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "4.º-A\n\nUnidades curriculares de opção\n\nO elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente da Universidade.\n\n4.º-B\n\nDuração do ano e semestre lectivos\n\n1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:448308:por",
+    "alterador": "pt:dre:253033:por"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:574964:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "2.º Nesta área, até ao dia 12 de Agosto de 2001, é concedida à Associação de Caçadores José Maria Pereira de Moura (registo na Direcção-Geral das Florestas n.º 4.458.89) a exploração de uma zona de caça associativa (processo n.º 111 da Direcção-Geral das Florestas).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 65/2000): no n.º 2.º, 'até ao dia 31 de Maio de 2001' passa a 'até ao dia 12 de Agosto de 2001'; aplicada na unidade 9."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 19-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º - 1 - A caça às perdizes, lebres e coelhos é permitida desde o dia 23 de Outubro até ao dia 31 de Dezembro.\n\n2 - A caça de batida aos coelhos é permitida apenas nos locais, dias e demais condições definidos em edital da DGF.",
+    "depois": "7.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:373408:por",
+    "alterador": "pt:dre:305448:por"
+  }
+]

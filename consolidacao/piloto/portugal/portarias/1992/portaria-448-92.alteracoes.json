@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 48-52",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2) Nível III:\n\nMecânico de bordo;\n\nMotorista prático de 3.ª classe;\n\nMotorista prático de 2.ª classe;\n\nMotorista prático de 1.ª classe;",
+    "depois": "Motorista prático de 3.ª classe;\n\nMotorista prático de 2.ª classe.\n\n2) Nível III:\n\nMecânico de bordo;\n\nMotorista prático de 1.ª classe.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:517208:por",
+    "alterador": "pt:dre:159143:por"
+  }
+]

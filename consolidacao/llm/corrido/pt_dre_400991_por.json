@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:400991:por",
+  "substituicoes": [
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10651066.pdf)",
+      "alterador": 2
+    },
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/208b00/58015803.pdf)](https://files.diariodarepublica.pt/1s/2001/09/208b00/58015803.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os quadros n.os 1 e 2 só vêm em imagem: substituíram-se apenas as ligações para o documento de cada alterador, sem transcrever conteúdo. A instrução só abrange os quadros, por isso a linha 'Domínios de especialização' (unidade 19), que no anexo do alterador aparece com redacção diferente, não foi tocada.",
+  "instrucoes": [
+    "Alterador 1, 1.º: quadros n.os 1 e 2 do anexo substituídos pelos do seu anexo: ligações das unidades 23 e 26 trocadas",
+    "Alterador 2, 1.º: quadro n.º 1 (na redacção do alterador 1) substituído: ligação da unidade 23 trocada pela do alterador 2"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

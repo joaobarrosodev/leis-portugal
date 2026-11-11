@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:598694:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 227/2003 substitui os quadros n.os 2 e 3 do anexo e a Portaria 1270/2003 substitui todo o anexo; o anexo do original (unidade 22) e os novos quadros só vêm em imagem. Nada aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 227/2003), 1.º: nova redacção dos quadros n.os 2 e 3 do anexo (só em imagem), não aplicado; 2.º e 3.º normas próprias.",
+    "Alterador 2 (Portaria 1270/2003), 1.º: o anexo passa a ter a redacção do seu anexo (quadros em imagem), não aplicado; 2.º a 4.º normas próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

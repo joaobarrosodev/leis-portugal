@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:466848:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "Ao abrigo do disposto no n.º 4 do artigo 1.º do [Decreto-Lei n.º 199/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1983-451274), de 19 de Maio:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Declaração de Rectificação 86/91: o parágrafo de habilitação passa a citar o n.º 4 do artigo 1.º do Decreto-Lei n.º 199/83, de 19 de Maio: substituída a unidade 5 pelo texto do 'deve ler-se' (o texto atual diz 'disposto o n.º 3', gralha que a retificação cobre por inteiro)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

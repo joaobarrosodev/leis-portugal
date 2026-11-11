@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Não ter mais de 30 anos de idade no dia 31 de Dezembro do corrente ano;",
+    "depois": "c) Ter idade igual ou inferior a 30 anos de idade no dia 31 de Dezembro do ano de abertura do concurso, excepto no que respeita aos militares dos quadros permanentes;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:425522:por",
+    "alterador": "pt:dre:619944:por;pt:dre:181421:por"
+  },
+  {
+    "artigo": "unidades 14-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "e) Ter cumprido ou estar a cumprir o serviço militar, sem prejuízo de casos especiais a serem apreciados pela Direcção do Serviço de Saúde (DSS);",
+    "depois": "e) Encontrarem-se abrangidos pela Lei do Serviço Militar e com a sua situação regularizada perante os imperativos decorrentes desta lei e seu regulamento;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:425522:por",
+    "alterador": "pt:dre:619944:por;pt:dre:181421:por"
+  },
+  {
+    "artigo": "unidades 37-37",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2) Para o ramo farmacêutico, o director do Laboratório Militar de Produtos Químicos e Farmacêuticos (LMPQF) (presidente) e quatro oficiais farmacêuticos, sendo um especialista em indústria farmacêutica e outro em análises químico-biológicas;",
+    "depois": "2) Para o ramo farmacêutico, o director do Laboratório Militar de Produtos Químicos Farmacêuticos (LMPQF), como presidente, e 3 oficiais farmacêuticos, correspondentes às 3 opções da licenciatura em Ciências Farmacêuticas, como vogais.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:425522:por",
+    "alterador": "pt:dre:619944:por;pt:dre:181421:por"
+  },
+  {
+    "artigo": "unidades 72-77",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "25.º As provas do concurso para provimento de vacaturas no quadro permanente de oficiais farmacêuticos são:\n\na) Prova escrita única para todos os concorrentes, sobre um ponto tirado à sorte de entre dez afixados na DSS/ME e no LMPQF vinte dias antes;\n\nb) Prova prática de indústria farmacêutica;\n\nc) Prova prática de hidrologia;\n\nd) Prova prática de análises químico-biológicas;\n\ne) Prova oral.",
+    "depois": "25.º As provas do concurso para provimento de vacaturas no quadro permanente de oficiais farmacêuticos englobam:\n\na) Uma prova escrita versando temas comuns às 3 opções da licenciatura em Ciências Farmacêuticas e temas específicos a cada uma das opções, de acordo com a opção de licenciatura de cada candidato;\n\nb) Provas práticas específicas da opção de licenciatura de cada candidato;\n\nc) Uma prova oral.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:425522:por",
+    "alterador": "pt:dre:619944:por;pt:dre:181421:por"
+  },
+  {
+    "artigo": "unidades 78-82",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "26.º - 1. O ponto para prova escrita será tirado com vinte e quatro horas de antecedência, na presença do júri, afixado no LMPQF e para a sua execução será concedido o prazo de quatro horas.\n\n2. A prova prática de indústria farmacêutica, cujo tema será tirado à sorte imediatamente antes do início da prova, constará da execução de uma fórmula farmacêutica, sua análise química, física ou físico-química e da elaboração do respectivo relatório, sendo concedido para a sua execução o prazo de seis horas.\n\n3. A prova prática de hidrologia, cujo tema será tirado à sorte imediatamente antes do início da prova, consistirá na análise química, física, físico-química e bacteriológica de uma água, na proposta de um tratamento e na elaboração do respectivo relatório, sendo concedido, para a sua execução, o prazo de três horas.\n\n4. A prova prática de análises químico-biológicas, cujo tema será tirado à sorte imediatamente antes do início da prova, consistirá na análise de um produto biológico, preenchimento do respectivo boletim e elaboração de um relatório, sendo concedido, para a execução desta prova, o prazo de três horas.\n\n5. A prova oral terá a duração de duas horas, sendo a primeira reservada à discussão da prova escrita e outros temas gerais, e a segunda à discussão dos relatórios das provas práticas.",
+    "depois": "26.º A publicação no Diário da República a que se refere o § único do n.º 1.º deve incluir uma referência às matérias de estudo sobre as quais incidirão as provas constantes do n.º 25.º",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:425522:por",
+    "alterador": "pt:dre:619944:por;pt:dre:181421:por"
+  }
+]

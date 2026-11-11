@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:438009:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça associativa (processo n.º 994-DGF) abrangendo o prédio rústico denominado «Quinta do Vesúvio», sito na freguesia de Numão, município de Vila Nova de Foz Côa, com uma área de 336 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 corrige o n.º 1.º: 'Quinta do Numão' passa a 'Quinta do Vesúvio'; unidade 8 substituída.",
+    "Alterador 2 é uma nova portaria de renovação da zona de caça, sem instrução textual sobre o original: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

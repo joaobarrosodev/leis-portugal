@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:448929:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 40/79) mantém para 1979 a taxa de 15$70 e Alterador 2 (Portaria 37/80) fixa a taxa em 31$20 a partir de 1 de Janeiro de 1980; são novos atos de fixação da taxa, não alteram a redação do n.º 1.º da Portaria 59/78: alteração não textual.",
+  "instrucoes": [
+    "Alterador 1: manutenção da taxa de 15$70 em 1979 - sem mudança de texto.",
+    "Alterador 2, 1.º e 2.º: taxa passa a 31$20 desde 1-1-1980 - fixação nova, sem nova redação do original; não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

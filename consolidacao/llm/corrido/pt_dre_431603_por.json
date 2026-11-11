@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:431603:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 282/2003), 1.º: o quadro n.º 2 do anexo passa a ter a redação do anexo do alterador, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1: nova redação do quadro n.º 2 do anexo, só em imagem: não aplicada (nao_aplicavel).",
+    "Alterador 2 (Portaria 1310/2006): só menciona a Portaria n.º 1384/2002 (por lapso, pela 1348/2002) como alteradora de outro plano de estudos que se mantém em vigor; nenhuma instrução dirigida ao original: nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

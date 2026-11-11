@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:594891:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "8.º A aplicação das tarifas para cidadãos portugueses residentes na Madeira ficará sujeita às condições especificadas no anexo I a esta portaria. São equiparados a cidadãos nacionais todos os cidadãos dos Estados membros da Comunidade Económica Europeia.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 58,
+      "texto": "No caso dos cidadãos equiparados a nacionais, o bilhete de identidade e o cartão de contribuinte poderão ser substituídos, respectivamente, por outro documento de identificação e por carta de residência de nacional de um Estado membro da CEE de que conste residir, há pelo menos seis meses, na Região Autónoma da Madeira.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 733-E/86): aprova novas tarifas e regras próprias e mantém os n.os 3.º, 4.º, 5.º, 7.º, 8.º e anexos I e II do original; sem instruções textuais dirigidas ao original, nada aplicado.",
+    "Alterador 2 (Portaria 910/87), 1.º: nova redacção do n.º 8.º; substituída a unidade 18.",
+    "Alterador 2, 2.º: acrescenta parágrafo à rubrica Documentação do anexo I; inserido depois da unidade 58, último parágrafo dessa rubrica."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

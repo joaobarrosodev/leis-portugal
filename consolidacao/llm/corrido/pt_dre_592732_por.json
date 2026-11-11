@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:592732:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As Portarias 528/2001 e 1293/2002 substituem o plano de estudos do anexo (unidade 28, só em imagem) por anexos que também só vêm em quadros em imagem; não aplicado. As normas sobre duração e estrutura dos ramos são disposições novas, não alterações textuais do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 528/2001), 1.º: fixa a duração dos ramos (norma nova, sem alteração textual); 2.º: plano de estudos passa a ser o do seu anexo (quadros em imagem), não aplicado; 3.º aplicação, norma própria.",
+    "Alterador 2 (Portaria 1293/2002), 1.º: nova estrutura de ramos do 2.º ciclo (norma nova); 2.º: o anexo da Portaria 1119/2000 passa a ter a redacção do seu anexo (quadros em imagem), não aplicado; 3.º e 4.º normas próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

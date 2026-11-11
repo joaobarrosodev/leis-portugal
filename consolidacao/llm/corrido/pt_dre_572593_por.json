@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:572593:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 329/97) substitui o anexo XI, que só vem em imagem (ver documento original); não há alteração textual ao corpo da portaria.",
+  "instrucoes": [
+    "Alt. 1, n.º 1.º, n.º 2: anexo XI passa a ser o do anexo da Portaria 329/97 — só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

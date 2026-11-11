@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:571229:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "3.º Esta área, 29 de Setembro de 1996, é concessionada à TECNOCAÇA, Criação e Gestão dos Recursos Cinegéticos, Lda.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: no n.º 3.º, onde se lê 'até 31 de Maio de 2001,' passa a ler-se '29 de Setembro de 1996,'; trocado letra a letra na unidade 17."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

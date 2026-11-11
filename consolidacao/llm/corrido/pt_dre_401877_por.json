@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:401877:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Nesta área é concedida à Casa da Meada - Sociedade de Desenvolvimento Agro-Turismo, S. A., a exploração de uma zona de caça turística (processo n.º 13 da Direcção-Geral das Florestas) por um período de doze anos.",
+      "alterador": 1
+    },
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "4.º Nesta zona de caça, a Casa da Meada - Sociedade de Desenvolvimento Agro-Turismo, S. A., entidade responsável pela sua gestão, fica obrigada a cumprir e fazer cumprir o plano de ordenamento e exploração cinegético aprovado pela Direcção-Geral das Florestas, nomeadamente no respeitante aos limites anuais de cada uma das espécies, períodos, processos e meios de caça respectivos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 1026/2000) renova a concessão por 15 anos e refere no preâmbulo a área de 2265,0750 ha em vez de 2227 ha, mas não dá nova redacção a nenhum ponto do original; não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º: onde se lê «Sociedade Agro-Florestal do Rodão, S. A.» passa a ler-se «Casa da Meada - Sociedade de Desenvolvimento Agro-Turismo, S. A.»; substituído nos pontos 2.º e 4.º (unidades 7 e 9).",
+    "Alterador 1, 2.º: registo e sede da sociedade; norma própria, não altera o texto.",
+    "Alterador 2: renovação da concessão por 15 anos e efeitos; não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:391432:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 substitui os quadros n.os 1 e 2 do anexo VI e alterador 2 os quadros n.os 1, 2 e 3 do anexo II e n.os 2 e 3 do anexo III; os quadros novos só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1: nova redação dos quadros n.os 1 e 2 do anexo VI (só em imagem): não aplicada.",
+    "Alterador 2: nova redação dos quadros n.os 1, 2 e 3 do anexo II e n.os 2 e 3 do anexo III (só em imagem): não aplicada; o n.º 2.º (transição) e 3.º (aplicação) do alterador 2 são normas próprias, não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

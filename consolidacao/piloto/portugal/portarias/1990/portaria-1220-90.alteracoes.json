@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 33-33",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º O júri de exame para avaliação de conhecimento dos grupos de matérias constantes da lista anexa será constituído por um presidente e quatro vogais escolhidos em razão da sua competência de entre pessoal dos quadros dos organismos do Ministério das Obras Públicas, Transportes e Comunicações com atribuições em matéria de transportes terrestres ou circulação rodoviária e nomeados por despacho do director-geral de Transportes Terrestres, ouvido o director-geral de Viação.",
+    "depois": "2.º O júri de exame para avaliação de conhecimento dos grupos de matérias constantes da lista anexa será constituído por um presidente e quatro vogais, escolhidos em razão da sua competência e nomeados por despacho do director-geral de Transportes Terrestres.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:563606:por",
+    "alterador": "pt:dre:658215:por;pt:dre:276666:por"
+  },
+  {
+    "artigo": "unidades 43-43",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "11.º Os candidatos que tenham reprovado só poderão inscrever-se para novo exame decorridos, no mínimo, seis meses a contar da data da afixação das listas a que se refere o n.º 9.º",
+    "depois": "11.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:563606:por",
+    "alterador": "pt:dre:658215:por;pt:dre:276666:por"
+  }
+]

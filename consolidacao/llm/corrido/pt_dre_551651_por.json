@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:551651:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 10,
+      "texto": "3.º-A Para efeitos de aplicação do n.º 3 do presente despacho normativo, serão tidos em conta os direitos ao prémio à vaca em aleitamento que o candidato venha a deter, em 2004, no âmbito da reserva específica.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (n.º 1) prorroga até 30 de Abril de 2004 o prazo do n.º 7.º, n.º 1; é uma prorrogação, não uma alteração textual do n.º 7.º, pelo que o texto não foi mudado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: aditado o n.º 3-A — inserido a seguir à unidade 10 (3.º).",
+    "Alterador 2, n.º 1: prorrogação do prazo do n.º 7.º, n.º 1, até 30 de Abril de 2004 — não textual; não aplicada.",
+    "Alterador 2, n.º 2: prazos de entrega no IFADAP/INGA, norma própria; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

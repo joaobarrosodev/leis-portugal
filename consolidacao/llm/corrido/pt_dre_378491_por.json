@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:378491:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: aditamento da base de remuneração 27 à tabela salarial, que no original só existe em imagem ({{8}}, ver documento original) e cujo montante não vem em texto; não aplicável com segurança.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: adita a base 27 à tabela salarial (imagem) — não aplicado, em nao_aplicavel.",
+    "Alterador 1, n.os 2.º a 4.º: dirigem-se às Portarias n.os 218/91 e 493/88 — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

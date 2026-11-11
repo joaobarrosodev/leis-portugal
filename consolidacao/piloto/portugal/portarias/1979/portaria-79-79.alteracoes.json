@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Declaração periódica, em Janeiro e Julho, do número de animais existentes nas explorações registadas;",
+    "depois": "c) Declaração periódica, em Abril e Dezembro, do número de animais existentes nas explorações registadas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:393268:por",
+    "alterador": "pt:dre:677625:por"
+  }
+]

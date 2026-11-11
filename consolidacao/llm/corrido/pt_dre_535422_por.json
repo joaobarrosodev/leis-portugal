@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:535422:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O texto do alterador 1 (Decreto n.º 47360) vem vazio no pedido; não há instrução que se possa aplicar.",
+  "instrucoes": [
+    "Alterador 1: sem texto no pedido, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

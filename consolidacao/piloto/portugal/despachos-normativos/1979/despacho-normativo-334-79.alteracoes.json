@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 224-224",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Os alunos que já tenham efectuado o pagamento da quotização segundo o valor em vigor à data da publicação do presente despacho deverão efectuar segunda prestação até ao dia 30 de Outubro, no prazo de trinta dias após a publicação deste despacho.",
+    "depois": "b) Os alunos que já tenham efectuado o pagamento da quotização segundo o valor em vigor à data da publicação do presente despacho deverão efectuar segunda prestação no prazo a estabelecer pelo Instituto de Acção Social Escolar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:367633:por",
+    "alterador": "pt:dre:365894:por"
+  }
+]

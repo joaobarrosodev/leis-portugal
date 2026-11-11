@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:503775:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Nenhuma instrução muda o texto do original. O alterador 1 (n.º 5.º, n.º 2) altera o plano de estudos de Percussão (anexo XV), que só existe em imagem; os restantes números do alterador 1 e todo o alterador 2 alteram a Portaria n.º 813/91 (o seu n.º 1.º, o aditamento do n.º 2.º-A, a revogação dos anexos III a XV), que é outro diploma.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: adita a alínea d) e o anexo XVI à Portaria n.º 813/91; é outro diploma, ignorado.",
+    "Alterador 1, n.º 5.º, n.º 2: novo plano de estudos de Percussão (anexo XV); o anexo só existe em imagem, não aplicado.",
+    "Alterador 2: nova redação do n.º 1.º, aditamento do n.º 2.º-A e revogação dos anexos III a XV, tudo da Portaria n.º 813/91; é outro diploma, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

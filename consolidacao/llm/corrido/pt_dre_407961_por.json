@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:407961:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 758/2002 desanexa dois prédios (área passa a 289,80 ha, nova planta só em imagem) e a Portaria n.º 1193/2006 extingue a zona de caça; nenhuma altera ou revoga textualmente a portaria. Alterações não textuais, não aplicadas.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: desanexação de 4,20 ha com nova planta; não é alteração textual do n.º 1.º nem da planta (imagem); não aplicada.",
+    "Alterador 2, n.º 1.º: extinção da zona de caça associativa; efeito material, sem revogação textual; não aplicada. Os n.os 2.º a 4.º criam outra zona de caça: não dirigidos ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

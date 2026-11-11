@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - A aplicação do estabelecido no número anterior fica ainda condicionada ao facto de o respectivo docente ter sido opositor ao concurso para professores provisórios para leccionar no grupo, subgrupo, disciplina ou especialidade relativamente ao qual possui habilitação própria e ter sido colocado, no mesmo grau de ensino, em grupo, subgrupo, disciplina ou especialidade para que possui somente habilitação suficiente.",
+    "depois": "2 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:577114:por",
+    "alterador": "pt:dre:311664:por"
+  }
+]

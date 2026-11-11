@@ -1,0 +1,50 @@
+{
+  "id": "pt:dre:613723:por",
+  "substituicoes": [
+    {
+      "de": 22,
+      "ate": 29,
+      "texto": "7.º Sempre que haja imposições a pagar nos termos do número anterior, o exportador prestará caução por depósito, fiança bancária ou seguro-caução nos seguintes termos:\n\na) A prestação da caução é autorizada pelo director da respectiva alfândega, que fixará igualmente o seu montante em requerimento fundamentado do interessado;\n\nb) No requerimento o exportador indicará os montantes dos direitos de exportação e demais imposições pagos no ano anterior à sua apresentação e proporá o montante da respectiva caução;\n\nc) O montante da caução não poderá, todavia, ser inferior ao que resultar da aplicação da fórmula C = 1,5D, sendo:\n\nC - o montante da caução;\n\nD - a média mensal dos direitos de exportação e demais imposições pagos no ano anterior à apresentação do requerimento;\n\nd) O montante da caução poderá ser modificado pelo director da alfândega respectiva, quer por iniciativa própria, quer por solicitação do exportador em requerimento fundamentado.",
+      "alterador": 1
+    },
+    {
+      "de": 95,
+      "ate": 95,
+      "texto": "37.º O período de globalização relativo aos procedimentos previstos nos n.os 25.º e 36.º não pode ser superior a 31 dias, devendo coincidir com o mês ou com a semana do calendário, optando o beneficiário por um dos períodos.",
+      "alterador": 1
+    },
+    {
+      "de": 96,
+      "ate": 96,
+      "texto": "38.º As declarações complementares ou de regularização globais devem ser entregues na estância aduaneira competente até ao fim do 4.º dia seguinte ao período de globalização, podendo este prazo, se não houver lugar a registo de liquidação, ser prorrogado pelos chefes das estâncias aduaneiras em casos especiais devidamente justificados.",
+      "alterador": 1
+    },
+    {
+      "de": 97,
+      "ate": 97,
+      "texto": "39.º As declarações complementares ou de regularização globais devem ser elaboradas em listagens de acordo com instruções da Direcção-Geral das Alfândegas.",
+      "alterador": 1
+    },
+    {
+      "de": 98,
+      "ate": 100,
+      "texto": "40.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 104,
+      "ate": 105,
+      "texto": "42.º Os directores das alfândegas podem autorizar a exportação de produtos perecíveis mediante a entrega de factura comercial, dispensando-se o cumprimento dos requisitos fixados nos n.os 3.º, 7.º, 8.º e 19.º, devendo, porém, ser observados os demais requisitos respeitantes a este procedimento simplificado de exportação, sem prejuízo de sempre que haja lugar ao pagamento de direitos de exportação ou outras imposições, ser constituída garantia por depósito, fiança bancária ou seguro-caução.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 7.º (unidades 22-29 substituídas), 37.º (95), 38.º (96), 39.º (97) e 42.º (104-105, o novo 42.º absorve o parágrafo 'Porém...')",
+    "Alterador 1, 2.º: revoga o n.º 40.º (unidades 98-100 passam a '40.º - (Revogado.)')"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

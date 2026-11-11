@@ -1,0 +1,35 @@
+{
+  "id": "pt:dre:600361:por",
+  "substituicoes": [
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "5.º A Direcção-Geral de Transportes Terrestres realizará exames pelo menos duas vezes por ano, nos meses de Junho e Novembro.",
+      "alterador": 1
+    },
+    {
+      "de": 32,
+      "ate": 32,
+      "texto": "6.º Serão admitidos a exame os candidatos inscritos até ao último dia útil do mês imediatamente anterior ao da realização dos exames.",
+      "alterador": 1
+    },
+    {
+      "de": 42,
+      "ate": 42,
+      "texto": "13.º (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 5.º do anexo I; unidade 31 substituída.",
+    "Alterador 1, 2.º: nova redação do n.º 6.º do anexo I; unidade 32 substituída.",
+    "Alterador 1, 3.º: revogação do n.º 13.º do anexo I; unidade 42 passa a (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 42-42: parágrafo que não está no alterador nem no original: 13.º (Revogado.)"
+  ]
+}

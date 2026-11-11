@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:578369:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 296/82), n.º 4.º: a alteração do quadro anexo só vem em imagem; não aplicada. Os n.os 1.º a 3.º (criação e extinção de carreiras, transição de pessoal) não alteram o texto do original.",
+  "instrucoes": [
+    "Alterador 1, n.os 1.º a 3.º: disposições próprias sobre carreiras, sem alteração textual do original; não aplicadas.",
+    "Alterador 1, n.º 4.º: alteração do quadro de pessoal (só em imagem); não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

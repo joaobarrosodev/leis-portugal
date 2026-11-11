@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:564792:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: as retificações incidem sobre a tabela anexa (pumóideas/pomóideas, valores das colunas Beira Litoral e Beira Interior, observação (u)), que só vem em imagem; não se aplica com segurança.",
+  "instrucoes": [
+    "Alterador 1: retificação de inexactidões na tabela anexa (só em imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

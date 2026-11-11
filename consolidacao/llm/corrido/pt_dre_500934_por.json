@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:500934:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 adita ao ponto 1.2.2.1 do n.º 1.º da «Portaria n.º 169/76, de 29 de Março» uma linha de passe social da Carris; o original (Portaria n.º 169/76, de 25 de Março) aprova normas de cabos elétricos e não tem nenhum ponto 1.2.2.1; o alvo não existe no texto atual (é provavelmente outro diploma), não aplicado.",
+  "instrucoes": [
+    "Alterador 1: aditamento ao ponto 1.2.2.1 do n.º 1.º (tarifa de passe social); esse ponto não existe no original, não aplicado. Os n.os 2.º e 3.º do alterador são disposições próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

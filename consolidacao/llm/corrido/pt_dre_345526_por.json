@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:345526:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 14,
+      "texto": "As quantidades de milho indicadas deverão estar convertidas em peso equivalente à taxa de humidade de 14,5%;\n\nAs quantidades de arroz em casca indicadas deverão estar convertidas em peso equivalente à taxa de humidade de 14,5%;",
+      "alterador": 1
+    },
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "9 - Se o controlo de campo indicar um excedente superior a 15% entre as superfícies declaradas e controladas, serão indeferidos os pedidos de pagamento de ajuda efectuados no decurso da campanha de comercialização em causa.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1: nova redação da alínea b) do n.º 6; o corpo da alínea (unidade 12) fica igual; mudam os dois travessões (unidades 13-14: 14% para 14,5% no milho e 'de 14,5%' no arroz).",
+    "Alt. 2: é o mesmo Despacho Normativo n.º 45/95 repetido; instrução já aplicada pelo alterador 1, nada mais a fazer.",
+    "Alt. 3, 1: nova redação do n.º 9 (unidade 18)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:367633:por",
+  "substituicoes": [
+    {
+      "de": 224,
+      "ate": 224,
+      "texto": "b) Os alunos que já tenham efectuado o pagamento da quotização segundo o valor em vigor à data da publicação do presente despacho deverão efectuar segunda prestação no prazo a estabelecer pelo Instituto de Acção Social Escolar.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação da alínea b) do n.º 6.2 (corpo e alínea a) com '...', mantidos) — substituída a unidade 224."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

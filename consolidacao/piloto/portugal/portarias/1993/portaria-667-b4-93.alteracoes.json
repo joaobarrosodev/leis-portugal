@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma que dele faz parte integrante, sitos na freguesia de Benedita, município de Alcobaça, com uma área de 2797 ha, e freguesia de Alvorninha, município de Caldas da Rainha, com uma área de 35 ha, perfazendo uma área de 2832 ha.",
+    "depois": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria, que dela faz parte integrante, sitos nas freguesias de Benedita e Alvorninha, municípios de Alcobaça e Caldas da Rainha, com a área de 960,9618 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:402310:por",
+    "alterador": "pt:dre:643372:por"
+  },
+  {
+    "artigo": "depois da unidade 8",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:402310:por",
+    "alterador": "pt:dre:643372:por"
+  }
+]

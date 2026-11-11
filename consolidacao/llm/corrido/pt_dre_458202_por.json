@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:458202:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 13,
+      "texto": "Electrotecnia I.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 18,
+      "texto": "Electrotecnia II (Correntes Fortes).\n\nElectrotecnia II (Correntes Fracas).",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 695/85, 1.º a): adita Electrotecnia I às disciplinas semestrais de opção: inserida depois da unidade 13.",
+    "Portaria 695/85, 1.º b): adita Electrotecnia II (Correntes Fortes) e Electrotecnia II (Correntes Fracas) às disciplinas anuais de opção: inseridas depois da unidade 18.",
+    "Portaria 695/85, 2.º: os programas destas disciplinas são os publicados em anexo à própria Portaria 695/85; não é uma instrução de alteração do texto do original, não inserido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "inserção depois de 13: parágrafo que não está no alterador nem no original: Electrotecnia I.",
+    "inserção depois de 18: parágrafo que não está no alterador nem no original: Electrotecnia II (Correntes Fortes).",
+    "inserção depois de 18: parágrafo que não está no alterador nem no original: Electrotecnia II (Correntes Fracas)."
+  ]
+}

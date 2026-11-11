@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:517620:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Ventosa, município de Torres Vedras, com a área de 1290,6360 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 561/98): anexa prédios à zona de caça e diz que fica com área total de 1449,02 ha conforme planta anexa (só em imagem), sem dar nova redação a nenhum número do original; não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º (área 1290,6360 ha); substituída a unidade 6, mantendo o número 1.º.",
+    "Alterador 1: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 2, 1.º: anexação de prédios e nova área total, sem redação nova; não aplicado (ver nao_aplicavel). O 2.º extingue uma reserva criada por outra portaria: não é do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

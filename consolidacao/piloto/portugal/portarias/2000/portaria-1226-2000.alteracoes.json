@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 23-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O curso pode começar a funcionar a partir do ano lectivo de 2000-2001, inclusive, um ano curricular em cada ano lectivo.",
+    "depois": "1 - O 1.º ciclo do curso pode começar a funcionar a partir do ano lectivo de 2000-2001, inclusive, um ano curricular em cada ano lectivo.\n\n2 - O 2.º ciclo do curso pode começar a funcionar a partir do ano lectivo de 2001-2002, inclusive.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:522404:por",
+    "alterador": "pt:dre:300459:por"
+  }
+]

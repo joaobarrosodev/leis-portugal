@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:395750:por",
+  "substituicoes": [
+    {
+      "de": 63,
+      "ate": 63,
+      "texto": "d) Modelos de dispositivos de pré-sinalização, cintos de segurança, capacetes de protecção e outros acessórios ou componentes ... 2000$00",
+      "alterador": 1
+    },
+    {
+      "de": 69,
+      "ate": 69,
+      "texto": "b) Máquinas industriais ... 1000$00",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 51,
+      "texto": "3.4 - Inspecção para efeitos de emissão de certificados ADR e RPE:\n\na) Inspecção dos veículos e passagem do respectivo certificado, por unidade ... 7500$00\n\nb) Revalidação do certificado ... 2500$00\n\nc) Passagem de duplicado ou substituição do certificado ... 2500$00\n\nd) Cancelamento do certificado ... 1000$00",
+      "alterador": 1
+    },
+    {
+      "depois_de": 71,
+      "texto": "5.4 - Autorização para instalação e uso de luzes avisadoras, azuis ou amarelas ... 1000$00",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º: nova redacção da alínea d) do ponto 4.2 da parte I: substituída a unidade 63",
+    "1.º: nova redacção da alínea b) do ponto 5.2 da parte I: substituída a unidade 69",
+    "2.º: aditado o ponto 3.4 com alíneas a) a d): inserido depois da unidade 51 (fim do ponto 3.3)",
+    "2.º: aditado o ponto 5.4: inserido depois da unidade 71 (ponto 5.3)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

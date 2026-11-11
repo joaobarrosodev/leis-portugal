@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:588263:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Rectificação 53/93 corrige disciplinas do plano de estudos do anexo, que no original só existe em imagem (unidade 17); a Portaria 146/2001 substitui o plano de estudos pelo seu anexo, também só em quadros em imagem. Nada aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Rectificação 53/93): corrige designações de disciplinas do 1.º e 4.º anos no anexo; o anexo do original só vem em imagem, não aplicado.",
+    "Alterador 2 (Portaria 146/2001), 1.º: o plano de estudos passa a ser o do seu anexo (quadros em imagem); não aplicado. 2.º a 5.º são normas novas (vagas, semanas lectivas, transição, aplicação) e não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

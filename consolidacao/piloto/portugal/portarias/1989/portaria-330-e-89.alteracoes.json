@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Os preços limiares de importação para efeitos de construção dos direitos niveladores aplicáveis à importação de cereal em grão são os seguintes, por tonelada de cereal, e a partir das seguintes datas:",
+    "depois": "1.º Os preços limiares de importação para efeitos de construção dos direitos niveladores aplicáveis à importação de cereal em grão são os seguintes, por tonelada de cereal, a partir das seguintes datas:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:570677:por",
+    "alterador": "pt:dre:619291:por"
+  },
+  {
+    "artigo": "unidades 17-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A partir de 15 de Setembro de 1989, inclusive:\n\nMilho ... 39500$00",
+    "depois": "A partir de 1 de Setembro de 1989, inclusive:\n\nMilho ... 40500$00",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:570677:por",
+    "alterador": "pt:dre:619291:por"
+  }
+]

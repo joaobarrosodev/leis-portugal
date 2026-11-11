@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "10.º O limite de idade referido na alínea c) do n.º 2 é, a título transitório, nos anos lectivos de 1980-1981 e 1981-1982, ampliado para 29 anos.",
+    "depois": "10.º O limite de idade referido na alínea c) do n.º 2.º é, a título transitório, no ano lectivo de 1983-1984, idade inferior a 30 anos na data de início do curso.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:473107:por",
+    "alterador": "pt:dre:451668:por"
+  }
+]

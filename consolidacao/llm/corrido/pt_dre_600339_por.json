@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:600339:por",
+  "substituicoes": [
+    {
+      "de": 119,
+      "ate": 119,
+      "texto": "27.2 - Este regime é de aplicação imediata aos processos pendentes, qualquer que seja o seu estado, a partir de 31 de Agosto de 1983.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 27.2 (31 de Dezembro de 1982); substituída depois pela do alterador 2.",
+    "Alterador 2: nova redação do n.º 27.2 (31 de Agosto de 1983); aplicada à unidade 119 como redação final."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

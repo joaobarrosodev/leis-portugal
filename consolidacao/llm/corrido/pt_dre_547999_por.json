@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:547999:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (n.º 2.º) e alterador 2 (n.º 1.º) substituem o plano de estudos do anexo, cujo novo conteúdo só vem em quadros em imagem no documento original; não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, 2.º: o anexo passa a ter a redação do anexo da Portaria 894/98 — só em imagem; não aplicado.",
+    "Alterador 1, 1.º, 3.º e 4.º: normas próprias (ramos, aplicação, transição), sem alteração textual do original; ignoradas.",
+    "Alterador 2, 1.º: o plano de estudos passa a ser o do anexo da Portaria 79/2003 — quadros só em imagem; não aplicado.",
+    "Alterador 2, 2.º a 5.º: normas próprias (vagas, duração do ano, transição, aplicação), sem alteração textual do original; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

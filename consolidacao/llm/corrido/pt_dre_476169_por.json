@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:476169:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 239/97): altera o regulamento interno da CMVM aprovado por uma Portaria n.º 221/91 de 18 de Julho, que não é o original (Portaria 221/91 de 20 de Março, sobre a marca Nixdorf); ignorada, nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

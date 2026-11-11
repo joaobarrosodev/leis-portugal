@@ -1,0 +1,61 @@
+{
+  "id": "pt:dre:495346:por",
+  "substituicoes": [
+    {
+      "de": 51,
+      "ate": 51,
+      "texto": "g) Curso de enfermagem geral a que se refere a alínea b) do artigo 7.º do [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952, e um curso complementar do ensino secundário.",
+      "alterador": 1
+    },
+    {
+      "de": 53,
+      "ate": 53,
+      "texto": "2 - Podem igualmente apresentar-se ao concurso de acesso os estudantes que, embora não sendo titulares de uma das habilitações a que se referem as alíneas a) a g) do n.º 1, já hajam estado legalmente matriculados e inscritos em estabelecimentos e curso de ensino superior, não podendo o número daqueles candidatos exceder 10% para além das vagas fixadas para o curso, arredondado para o número inteiro superior, salvo se a ele foram admitidos através do exame especial de avaliação de capacidade para acesso a outro curso do ensino superior.",
+      "alterador": 1
+    },
+    {
+      "de": 66,
+      "ate": 66,
+      "texto": "7 - O requerimento poderá ser substituído por um impresso de modelo a fixar pelo conselho directivo da Faculdade.",
+      "alterador": 1
+    },
+    {
+      "de": 87,
+      "ate": 89,
+      "texto": "Fases\n\n1 - O concurso de acesso ao curso integrará uma fase de pré-selecção e uma fase de selecção.\n\n2 - A fase de pré-selecção é de natureza documental e a sua avaliação será feita em função da satisfação dos requisitos previamente fixados pelo júri.",
+      "alterador": 1
+    },
+    {
+      "de": 123,
+      "ate": 123,
+      "texto": "2 - A lista será acompanhada de fotocópia do certificado a que se refere o n.º 5 do n.º 11.º",
+      "alterador": 1
+    },
+    {
+      "de": 132,
+      "ate": 132,
+      "texto": "À candidatura a este curso não é aplicável o regulamento anexo à [Portaria n.º 582-B/84](https://diariodarepublica.pt/dr/detalhe/portaria/582-b-1984-370853), de 8 de Agosto, sem prejuízo do disposto no n.º 19.º",
+      "alterador": 1
+    },
+    {
+      "de": 147,
+      "ate": 151,
+      "texto": "1 - É proibida a matrícula e inscrição no mesmo ano lectivo:\n\na) Em dois cursos superiores ministrados em estabelecimentos de ensino superior público, particular ou cooperativo;\n\nb) Num dos cursos superiores referidos na alínea a) e num curso não superior ministrado em estabelecimento público.\n\n2 - Exceptua-se do disposto na alínea b) do número anterior a inscrição em curso não superior de Música, Canto ou Dança.\n\n3 - A violação do disposto no n.º 1 determina a anulação das matrículas e inscrições do aluno em causa.\n\n4 - É competente para determinar a anulação da matrícula e inscrição a entidade que em cada estabelecimento for competente para a autorizar, sob participação de qualquer entidade que haja tido conhecimento da situação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º: nova redação da alínea g) do n.º 1 do 10.º — unidade 51.",
+    "2.º: nova redação do n.º 2 do 10.º — unidade 53.",
+    "3.º: nova redação do n.º 7 do 11.º — unidade 66.",
+    "4.º: nova redação do 15.º (epígrafe 'Fases', n.os 1 e 2; n.os 3 e 4 mantidos) — unidades 87-89.",
+    "5.º: nova redação do n.º 2 do 20.º — unidade 123.",
+    "6.º: nova redação do 23.º (epígrafe igual) — corpo, unidade 132.",
+    "7.º: nova redação do 26.º (epígrafe igual) — n.os 1 a 4, unidades 147-151."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

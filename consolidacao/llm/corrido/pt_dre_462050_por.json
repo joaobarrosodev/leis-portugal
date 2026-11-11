@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:462050:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 594/81 (alteradores 1 e 2, o mesmo diploma), n.º 1: substitui as tabelas de retribuições do anexo, que no original e no alterador só existem em imagem; não há texto a aplicar.",
+  "instrucoes": [
+    "Portaria 594/81, n.º 1: substitui as tabelas do anexo (imagem): não aplicável.",
+    "Portaria 594/81, n.º 2: produção de efeitos; não altera o texto.",
+    "Alterador 2 é repetição do alterador 1; nada mais a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

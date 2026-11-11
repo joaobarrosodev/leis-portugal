@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:617928:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados 'Nave da Silva e Carriçal', 'Petisca', 'Serra da Murrachinha' e outros, sitos na freguesia de Monfortinho, município de Idanha-a-Nova, com uma área de 510,34 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: a substituição da planta anexa só existe em imagem. Alteradores 2 (Portaria n.º 875/2004, renovação, 510 ha) e 3 (Portaria n.º 1139/2009, desanexação de 1 ha, 509 ha) não dão nova redação ao original; não são alterações textuais.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º (município de Idanha-a-Nova) - substituída a unidade 6",
+    "Alterador 1, 2.º: substituição da planta anexa - não aplicado (imagem)",
+    "Alteradores 2 e 3: renovação e desanexação sem alteração textual - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

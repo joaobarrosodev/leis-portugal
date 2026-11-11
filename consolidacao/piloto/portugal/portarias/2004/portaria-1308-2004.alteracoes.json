@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º São anexados à zona de caça associativa concessionada pela [Portaria n.º 729/98](https://diariodarepublica.pt/dr/detalhe/portaria/729-1998-243757), de 10 de Setembro, vários prédios rústicos sitos nas freguesias de Parada, Rio de Moinhos, Miranda, Padreiro (Santa Cristina) e Rio Frio, município de Arcos de Valdevez, com a área de 2162 ha, e desanexados outros sitos na freguesia de Rio Frio, município de Arcos de Valdevez, com a área de 128 ha, ficando a mesma com a área total de 3792 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+    "depois": "1.º São anexados à zona de caça associativa concessionada pela [Portaria n.º 729/98](https://diariodarepublica.pt/dr/detalhe/portaria/729-1998-243757), de 10 de Setembro, vários prédios rústicos sitos nas freguesias de Parada, Rio de Moinhos, Miranda, Padreiro (Santa Cristina), Rio Frio, Senharei e Sabadim, município de Arcos de Valdevez, com a área de 2162 ha, e desanexados outros sitos na freguesia de Rio Frio, município de Arcos de Valdevez, com a área de 128 ha, ficando a mesma com a área total de 3792 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:575281:por",
+    "alterador": "pt:dre:549039:por"
+  }
+]

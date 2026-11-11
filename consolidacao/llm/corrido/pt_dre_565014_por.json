@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:565014:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: os quadros do anexo I passam a ter a redação dos quadros do anexo I da Portaria n.º 525/96, que só vêm em imagem; não se aplica com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação dos quadros do anexo I (só em imagem); não aplicado.",
+    "Alterador 1, 2.º: entrada em vigor da própria portaria alteradora; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

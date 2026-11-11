@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:539988:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos nas freguesias de Quiaios, Buarco e Bom Sucesso, município da Figueira da Foz, com a área de 2810 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: substituição da planta anexa, que só vem em imagem. Alterador 2 (Portaria n.º 1061/2009) anexa prédios por norma autónoma (área total 3221 ha) e só no preâmbulo refere a área de 2812 ha; não há alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2.º — unidade 7 substituída.",
+    "Alterador 1, 2.º: substituição da planta — só em imagem, não aplicado.",
+    "Alterador 2: anexação de prédios por norma própria, não aplicado ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

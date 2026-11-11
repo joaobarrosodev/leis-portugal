@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 9-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Aprovar a inclusão da reconversão e da requalificação do edifício do antigo Museu de Arte Popular, destinado à instalação do Museu da Língua Portuguesa, nos objectivos e linhas de orientação da requalificação e da reabilitação da frente ribeirinha de Lisboa inscritos no documento estratégico Frente Tejo, anexo à [Resolução do Conselho de Ministros n.º 78/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/78-2008-249206), de 15 de Maio, para a área de intervenção Ajuda-Belém.\n\n2 - Aprovar a introdução da rubrica «Museu da Língua Portuguesa» no orçamento referente ao investimento Ajuda-Belém, constante do documento estratégico Frente Tejo, e a inscrição na mesma da quantia de (euro) 9 000 000.\n\n3 - Determinar que a verba referida no número anterior se destina a suportar todos os encargos inerentes à operação de instalação do Museu da Língua Portuguesa, incluindo as despesas com elaboração de projectos, empreitada, fiscalização, conteúdos expositivos, coordenação técnica e gestão integrada da intervenção.",
+    "depois": "1 - Aprovar a inclusão da requalificação do edifício do Museu de Arte Popular nos objectivos e linhas de orientação da requalificação e da reabilitação da frente ribeirinha de Lisboa, inscritos no documento estratégico Frente Tejo, anexo à [Resolução do Conselho de Ministros n.º 78/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/78-2008-249206), de 15 de Maio, para a área de intervenção Ajuda-Belém.\n\n2 - (Revogado.)\n\n3 - Determinar que todos os encargos inerentes à requalificação do edifício do Museu de Arte Popular, incluindo as despesas com elaboração de projectos, empreitada, fiscalização, conteúdos expositivos, coordenação técnica e gestão integrada da intervenção, são suportados pelo orçamento afecto ao Ministério da Cultura, mediante transferência para a Frente Tejo, S. A., sem prejuízo de apoios que venham a ser concedidos no âmbito do Quadro de Referência Estratégico Nacional.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:494202:por",
+    "alterador": "pt:dre:617101:por"
+  },
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5 - Determinar que o financiamento da operação relativa ao Museu da Língua Portuguesa é suportado pelo orçamento afecto ao Ministério da Cultura, mediante transferência para a sociedade Frente Tejo, S. A., sem prejuízo de apoios que venham a ser concedidos no âmbito do Quadro de Referência Estratégico Nacional.",
+    "depois": "5 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:494202:por",
+    "alterador": "pt:dre:617101:por"
+  }
+]

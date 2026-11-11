@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:544818:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º, e alterador 2, 2.º: o plano de estudos do 2.º ciclo passa a ter a redacção do anexo da Portaria n.º 958/2001 e são aditados os quadros n.os 5 e 6 da Portaria n.º 1409/2004; os quadros só vêm em imagem. Alterador 1, 1.º (duração do 2.º ciclo passa a quatro semestres) não é redigido como alteração textual do 1.º do original; não aplicado. Alterador 2, 1.º (aditamento do ramo de Comunicação de Ciência) não é textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o 2.º ciclo passa a ter a duração de quatro semestres; disposição autónoma, não alteração textual da unidade 11; não aplicada.",
+    "Alterador 1, 2.º: nova redacção do plano de estudos do 2.º ciclo com quadros só em imagem; não aplicada.",
+    "Alterador 1, 3.º e 4.º: aplicação e transição do próprio alterador; nada a aplicar.",
+    "Alterador 2, 1.º: aditamento do ramo de Comunicação de Ciência; não textual, nada aplicado.",
+    "Alterador 2, 2.º: aditamento dos quadros n.os 5 e 6 ao anexo, só em imagem; não aplicado.",
+    "Alterador 2, 3.º: aplicação do próprio alterador; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:391470:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município da Azambuja, com a área de 2712,1618 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 9,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "A planta anexa nova (alteradores 1, 2 e 3) só vem em imagem; a renovação da concessão (alterador 2) e a anexação de prédios com nova área total (alterador 3) não são alterações textuais do original.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º: unidade 9 substituída.",
+    "Alterador 1: aditado o n.º 1.º-A: inserido depois da unidade 9.",
+    "Alterador 1: planta nova só em imagem: não aplicada.",
+    "Alterador 2: renovação da concessão por 12 anos com área de 2679 ha: não textual, não aplicada.",
+    "Alterador 3: anexação de prédios, área total 2725 ha: não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

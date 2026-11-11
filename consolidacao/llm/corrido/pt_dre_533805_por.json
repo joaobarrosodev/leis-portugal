@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:533805:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 707/2002) substitui o plano de estudos do anexo por quadros que só vêm em imagem. Alterador 2 (Portaria n.º 731/2002) altera o plano de estudos de outro curso (Gestão em Saúde, Universidade Atlântica, Portaria n.º 1072/97), não o original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos (quadros 1 a 4) — quadros só em imagem, não aplicado; 2.º a 4.º são normas autónomas, não alteram o texto.",
+    "Alterador 2: dirigido a outro diploma (Portaria n.º 1072/97), ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

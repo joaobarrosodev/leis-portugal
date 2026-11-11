@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:406902:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 10.º da Portaria n.º 1015/80 extingue o Centro de Saúde Mental Oriental do Porto criado pelo n.º 2.º, mas não revoga nem altera o texto; alteração não textual, não aplicada.",
+  "instrucoes": [
+    "N.º 10.º extingue o Centro de Saúde Mental Oriental do Porto (n.º 2.º do original): efeito material, sem revogação textual; não aplicado.",
+    "N.os 11.º e 12.º transferem direitos e pessoal para o Hospital do Conde de Ferreira: não textual; restantes números são disposições próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

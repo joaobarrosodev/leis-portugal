@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 38-38",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - As candidaturas entregues na DGPA até 1 de Março serão objecto de decisão até 31 de Maio e as entregues até 31 de Agosto serão decididas até 31 de Outubro do ano a que respeitam.",
+    "depois": "1 - As candidaturas entregues na DGPA até 1 de Março, 31 de Agosto e 15 de Dezembro serão decididas respectivamente até 31 de Maio, 31 de Outubro e 31 de Dezembro do ano a que respeitam.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:582025:por",
+    "alterador": "pt:dre:660491:por"
+  }
+]

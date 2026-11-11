@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:343936:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 8,
+      "texto": "3.º-A\n\nGrau de licenciado\n\n1 - Aos titulares do diploma de estudos superiores especializados que nele hajam ingressado com a titularidade do bacharelato em Gestão do Instituto Superior de Administração e Gestão é conferido o grau de licenciado em Gestão Financeira.\n\n2 - Pode ainda ser conferido o grau de licenciado em Gestão Financeira aos titulares do diploma de estudos superiores especializados que nele hajam ingressado com a titularidade de um bacharelato na área de Gestão que forme um conjunto coerente com o curso de estudos superiores especializados nos termos do n.º 7 do artigo 13.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro.\n\n3 - O conselho científico ou o órgão estatutariamente correspondente do Instituto verifica, em cada caso concreto, a existência da referida coerência.\n\n3.º-B\n\nClassificação do grau de licenciado\n\nA classificação do grau de licenciado é a resultante do cálculo da expressão seguinte, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas):\n\n(3B + 2D)/5\n\nem que:\n\nB é a classificação final do curso com que ingressou no curso de estudos superiores especializados;\n\nD é a classificação final do curso de estudos superiores especializados.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, Único: aditados os n.os 3.º-A e 3.º-B; inseridos depois da unidade 8 (n.º 3.º).",
+    "Alt. 2, 3.º b): caducidade da autorização do curso após o processo de transição; não é alteração textual nem revogação, nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

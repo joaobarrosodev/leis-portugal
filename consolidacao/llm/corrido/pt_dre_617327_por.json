@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:617327:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: substitui a planta anexa à Portaria n.º 1161/2004 pela apensa, que só existe em imagem; não aplicável ao texto. Alterador 1, 1.º, e alterador 2 (renovação e anexação) redefinem área e terrenos da zona de caça sem alterar textualmente o original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: redefine os terrenos e a área da zona de caça (4261 ha) sem instrução de alteração textual; não aplicado",
+    "Alterador 1, 2.º: substituição da planta anexa (imagem); não aplicável",
+    "Alterador 2: renovação e anexação de terrenos (área total 4809 ha), sem alteração textual do original; nada a aplicar"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:373264:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 143/95) substitui o plano de estudos da variante de Matemática e Ciências da Natureza (anexo II) e alterador 2 (Portaria n.º 823/97) dá nova redação ao anexo I; os novos anexos só vêm em imagem, tal como os anexos do original.",
+  "instrucoes": [
+    "Alterador 1: novo plano de estudos da variante de Matemática e Ciências da Natureza — anexo só em imagem, não aplicado.",
+    "Alterador 2: nova redação do anexo I (Português e Francês) — anexo só em imagem, não aplicado; n.os 2.º e 3.º (aplicação e transição) não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:423070:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 14,
+      "texto": "1 - O número máximo de novos alunos a admitir anualmente não pode exceder 75.\n\n2 - A frequência global do curso não pode exceder 450 alunos.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (1.º) substitui o plano de estudos pelo do seu anexo, cujos quadros só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos (quadros em imagem) - não aplicado; 2.º a 5.º são normas próprias",
+    "Alterador 2, 1.º: nova redação do n.º 2.º (números 1 e 2) - aplicada às unidades 13-14"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:425562:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "2 - O quadro de pessoal docente da Escola Secundária de D. Luís de Castro será definido de acordo com os planos de estudo do curso de educador social ali ministrado, através de portaria conjunta do Ministro de Estado e das Finanças e do Plano, da Educação e das Universidades e da Reforma Administrativa.\n\n2.1 - O quadro de pessoal administrativo e auxiliar da Escola Secundária de D. Luís de Castro é o constante do mapa n.º 2 anexo a esta portaria.",
+      "alterador": 1
+    },
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "4 - O curso a ministrar na Escola Secundária de D. Luís de Castro é o curso de educador social, ao nível dos 10.º, 11.º e 12.º anos de escolaridade.",
+      "alterador": 1
+    },
+    {
+      "de": 8,
+      "ate": 9,
+      "texto": "5 - (Revogado.)\n\n6 - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 6.º: nova redação dos n.os 2 (unidade 5, agora com n.º 2 e 2.1) e 4 (unidade 7).",
+    "Alterador 1, 7.º: revogação dos n.os 5 e 6 (unidades 8 e 9 passam a '(Revogado.)').",
+    "Restantes números do alterador 1 (criação do curso de educador social, escolas, mapa anexo) são disposições próprias, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:565419:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 154/94 altera o plano de estudos do curso de Comunicação Empresarial do ISCEM conforme anexo que só vem em imagem; não há alteração textual aplicável às unidades do original.",
+  "instrucoes": [
+    "Alterador 1: alteração do plano de estudos por anexo em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

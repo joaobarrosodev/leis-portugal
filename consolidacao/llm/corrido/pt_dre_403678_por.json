@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:403678:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a retificação (cap. 50, div. 11, subdiv. 02, 'alínea B' para 'alínea A') incide sobre o mapa da despesa, que só existe em imagem (unidade 4); não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1: retificação na despesa de Encargos Gerais da Nação; o mapa só vem em imagem (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

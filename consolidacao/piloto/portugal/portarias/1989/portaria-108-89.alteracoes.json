@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 87-88",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - A primeira chamada da prova terá lugar no dia 31 de Março de 1989.\n\n2 - A segunda chamada da prova terá lugar no dia 3 de Abril de 1989.",
+    "depois": "1 - A primeira chamada da prova terá lugar no dia 3 de Abril de 1989.\n\n2 - A segunda chamada da prova terá lugar no dia 10 de Abril de 1989.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:611342:por",
+    "alterador": "pt:dre:300386:por"
+  }
+]

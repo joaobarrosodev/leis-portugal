@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 15-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) O secretário-geral do Ministério do Ambiente e Recursos Naturais, que é, por inerência de funções, o secretário da CCA;\n\nc) Um representante designado por cada um dos seguintes ministros: Ministro da Defesa Nacional, Ministro das Finanças, Ministro do Planeamento e da Administração do Território, Ministro da Administração Interna, Ministro da Justiça, Ministro da Agricultura, Pescas e Alimentação, Ministro da Indústria e Energia, Ministro das Obras Públicas, Transportes e Comunicações, Ministro da Saúde e Ministro do Comércio e Turismo;",
+    "depois": "b) Um representante designado por cada um dos seguintes ministros: Ministro da Defesa Nacional, Ministro da Administração Interna, Ministro das Finanças, Ministro do Planeamento e da Administração do Território, Ministro da Justiça, Ministro dos Negócios Estrangeiros, Ministro da Agricultura, Ministro da Indústria e Energia, Ministro da Educação, Ministro das Obras Públicas, Transportes e Comunicações, Ministro da Saúde, Ministro do Emprego e da Segurança Social, Ministro do Comércio e Turismo, Ministro do Ambiente e Recursos Naturais, Ministro do Mar e Ministro Adjunto;\n\nc) O secretário-geral do Ministério do Ambiente e Recursos Naturais, que é, por inerência de funções, o secretário da CCA;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:479580:por",
+    "alterador": "pt:dre:239246:por"
+  }
+]

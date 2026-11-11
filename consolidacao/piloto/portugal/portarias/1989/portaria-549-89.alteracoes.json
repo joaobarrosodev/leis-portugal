@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Depois de calculado o valor da pensão, nos termos da fórmula consagrada no Estatuto da Aposentação ou na legislação aplicável a cada caso, será aquele valor acrescido da compensação adequada, de acordo com o anexo II ao [Decreto-Lei n.º 487/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1988-401883), de 30 de Dezembro, constituindo o somatório obtido o montante da pensão.",
+    "depois": "3.º Depois de aplicada a fórmula de cálculo consagrada no Estatuto da Aposentação ou na legislação aplicável a cada caso, será o valor resultante ajustado de forma que a pensão mantenha o valor líquido de IRS - categoria H -, considerando-se para o efeito o modelo referido na parte final do número anterior.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:619947:por",
+    "alterador": "pt:dre:573477:por"
+  }
+]

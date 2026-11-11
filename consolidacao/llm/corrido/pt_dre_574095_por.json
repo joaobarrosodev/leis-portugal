@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:574095:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Revogação total: o Alterador 2 (Portaria n.º 1286/2006), n.º 7.º, alínea b), revoga 'as restantes portarias mencionadas no n.º 5.º', entre as quais a Portaria n.º 708/90 (não incluída na alínea a)). Nota: a 708/90 também criava o curso de técnico de secretariado, mas a letra da alínea b) revoga-a por inteiro. O Alterador 1 (Portaria n.º 260/92) só alterava o plano de estudos por mapa em imagem.",
+  "instrucoes": [
+    "Alt. 1, 1.º: plano de estudo de técnico de secretariado alterado por mapa anexo — só em imagem, não aplicado.",
+    "Alt. 2, 5.º: extingue o curso de técnico de comunicação/marketing, relações públicas e publicidade da 708/90 — norma própria.",
+    "Alt. 2, 7.º b): revoga totalmente a Portaria 708/90 — diploma revogado por inteiro, nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:439608:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: a nova tabela I de preços base (n.os 10.º e 13.º) só vem em imagem (ver documento original); não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui a tabela I anexa por nova tabela só em imagem: não aplicável.",
+    "Alterador 1, n.º 2.º: os preços da tabela I passam a valores mínimos, regra autónoma sem alteração textual do original: nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

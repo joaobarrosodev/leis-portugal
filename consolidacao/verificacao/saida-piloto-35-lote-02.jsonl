@@ -1,0 +1,51 @@
+{"id": "pt:dre:395489:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Instrução 1 (n.º 2.º): nova redação sem numeração, corpo 'O curso desdobra-se nos ramos de:'.", "texto_esperado": ""}
+{"id": "pt:dre:395489:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "O n.º 2.º é substituído por completo por texto sem n.º 2; o antigo n.º 2 desaparece.", "texto_esperado": ""}
+{"id": "pt:dre:395489:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Instrução 2 (n.º 1 do 4.º): aditada a alínea e) Ciências da Educação e a Matemática passa a f).", "texto_esperado": ""}
+{"id": "pt:dre:395489:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Instrução 3 (n.º 7.º): linha 'Ciências da Educação ... 2' aditada.", "texto_esperado": ""}
+{"id": "pt:dre:395489:por", "artigo": "Trecho 5", "veredicto": "certo", "motivo": "Instrução 3 (n.º 7.º): 'Área científica de cada ramo ... 21' e 'Áreas científicas optativas ... 12'.", "texto_esperado": ""}
+{"id": "pt:dre:395489:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:395750:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "2.º da Portaria 704/85: ponto 3.4 aditado com as alíneas a) a d).", "texto_esperado": ""}
+{"id": "pt:dre:395750:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "1.º: alínea d) do ponto 4.2 com 'acessórios ou componentes ... 2000$00'.", "texto_esperado": ""}
+{"id": "pt:dre:395750:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "1.º: alínea b) do ponto 5.2, Máquinas industriais ... 1000$00.", "texto_esperado": ""}
+{"id": "pt:dre:395750:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "2.º: ponto 5.4 aditado.", "texto_esperado": ""}
+{"id": "pt:dre:395750:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:396694:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "1.º do DN 168/83: n.º 1.º com 'campanha de 1982-1983' e nova ligação ao quadro.", "texto_esperado": ""}
+{"id": "pt:dre:396694:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "2.º: n.º 11.º, alíneas 1) e 2) com datas e valores novos; cabeçalho do 11.º igual.", "texto_esperado": ""}
+{"id": "pt:dre:396694:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "3.º: n.º 14.º com nova redação e preços 20700, 20470 e 20240.", "texto_esperado": ""}
+{"id": "pt:dre:396694:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "4.º: n.º 17.º com Setembro de 1983, 30 de Abril de 1984 e 269$00.", "texto_esperado": ""}
+{"id": "pt:dre:396694:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:396898:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "1.º: epígrafe do n.º 4.º passa a '(Áreas científicas)'.", "texto_esperado": ""}
+{"id": "pt:dre:396898:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Alíneas obrigatórias I) a VI) iguais à nova redação do n.º 4.º.", "texto_esperado": ""}
+{"id": "pt:dre:396898:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Optativas I) e II), c) Estágio e seminário ... 6 e Total ... 23 iguais à nova redação.", "texto_esperado": ""}
+{"id": "pt:dre:396898:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:399623:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Portaria 82/88, 1.º: n.os 1.º (alíneas a) a f)) e 2.º iguais à redação final; a 81/85 foi revogada pela 82/88; o 3.º, não visado, mantém-se.", "texto_esperado": ""}
+{"id": "pt:dre:399623:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Portaria 82/88, 1.º: n.os 4.º a 8.º iguais à redação final (4.º e 5.º com segundo parágrafo); o 9.º, não visado, mantém-se.", "texto_esperado": ""}
+{"id": "pt:dre:399623:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:400218:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Portaria 703/87, 1.º: aditado o n.º 1.º-A com epígrafe e dois números.", "texto_esperado": ""}
+{"id": "pt:dre:400218:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Portaria 947/89: n.º 5.º, n.º 1 com alíneas a) a h) e valores novos.", "texto_esperado": ""}
+{"id": "pt:dre:400218:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Portaria 947/89: n.º 5.º, n.º 2 só com a) Estética 4,5 e b) Paisagismo 4,5.", "texto_esperado": ""}
+{"id": "pt:dre:400218:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Portaria 947/89: n.º 10.º, alínea a) com 167,5 unidades de crédito.", "texto_esperado": ""}
+{"id": "pt:dre:400218:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:400991:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Quadro n.º 1: 1090/2001 substitui-o e a 136/2002 volta a substituí-lo; ligação 10651066.pdf, com os parênteses da 136/2002.", "texto_esperado": ""}
+{"id": "pt:dre:400991:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Quadro n.º 2: substituído pela Portaria 1090/2001; ligação 58015803.pdf; a 136/2002 não lhe toca.", "texto_esperado": ""}
+{"id": "pt:dre:400991:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:401362:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Portaria 317-A/86, 6.º: alíneas b) e c) do n.º 2.º revogadas.", "texto_esperado": ""}
+{"id": "pt:dre:401362:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Portaria 586/88, 4.º n.º 2: anexo I substituído, com 'Licenciatura em Engenharia de Produção Industrial' e '1 - Área científica do curso: Engenharia Industrial.'", "texto_esperado": ""}
+{"id": "pt:dre:401362:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Anexo novo: 'Cinco anos lectivos.' e 3 - 'Número total mínimo ... a concessão do grau: 165.'", "texto_esperado": ""}
+{"id": "pt:dre:401362:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Anexo novo: alíneas 4.1 a)-h) e 4.2 a)-e) iguais, sem o ponto 5 (o anexo novo não o tem).", "texto_esperado": ""}
+{"id": "pt:dre:401362:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:401877:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Portaria 893/99, 1.º: designação da sociedade substituída no n.º 2.º.", "texto_esperado": ""}
+{"id": "pt:dre:401877:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Portaria 893/99, 1.º: designação da sociedade substituída no n.º 4.º.", "texto_esperado": ""}
+{"id": "pt:dre:401877:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:401921:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Portaria 886/97: n.º 5.º passa a terminar em 'inclusive.'; epígrafe igual.", "texto_esperado": ""}
+{"id": "pt:dre:401921:por", "instrucoes_em_falta": ["Portaria n.º 177/2003, 1.º: o anexo à Portaria n.º 418/96 passa a ter a redação do anexo da 177/2003 (quadros 1 a 4 do curso de Gestão de Recursos Humanos, ligação 11701172.pdf); o consolidado mantém o anexo original (ligação 27342735.pdf)."], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "O anexo (plano de estudos) devia ter sido substituído pelo da Portaria 177/2003 e não mudou."}
+{"id": "pt:dre:402159:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 1.º substituído e 1.º-A aditado pela Portaria 518/97, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:402159:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:402166:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 1.º substituído e 1.º-A aditado pela Portaria 976/97, letra a letra (incluindo 'na freguesias').", "texto_esperado": ""}
+{"id": "pt:dre:402166:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:402167:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 1.º substituído e 1.º-A aditado pela Portaria 874/97, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:402167:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:402290:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 1.º substituído e 1.º-A aditado pela Portaria 751/97, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:402290:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:402296:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 1.º substituído e 1.º-A aditado pela Portaria 1148/97, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:402296:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:574077:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 266/92) altera o plano de estudos segundo mapa anexo que só vem em imagem; nada textual a aplicar.",
+  "instrucoes": [
+    "Alt. 1, 1.º: plano de estudos alterado conforme mapa anexo — só em imagem, não aplicado.",
+    "Alt. 1, 2.º: produção de efeitos — norma própria, não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

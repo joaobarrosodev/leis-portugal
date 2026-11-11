@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:470841:por",
+  "substituicoes": [
+    {
+      "de": 54,
+      "ate": 54,
+      "texto": "Art. 6.º - 1. (Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 242/85): altera o Código de Processo Civil, o Código das Custas Judiciais e o DL 49213; nenhuma instrução dirigida ao DL 696/73; nada feito.",
+    "Alterador 2 (DL 92/88): altera o Código das Custas Judiciais e o CPC; nenhuma instrução dirigida ao original; nada feito.",
+    "Alterador 3 (DL 212/89), art. 8.º, alínea c): revoga o n.º 1 do artigo 6.º do DL 696/73; unidade 54 substituída por 'Art. 6.º - 1. (Revogado.)'. As restantes revogações e alterações são de outros diplomas; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 54-54: parágrafo que não está no alterador nem no original: Art. 6.º - 1. (Revogado.)"
+  ]
+}

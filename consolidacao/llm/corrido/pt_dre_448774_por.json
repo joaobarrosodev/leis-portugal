@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:448774:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração) retifica 'Comandante principal' para 'Comissário principal' na terceira coluna do mapa 2, que só existe em imagem (unidade 11): não aplicado.",
+  "instrucoes": [
+    "Alterador 1: retificação no mapa 2, terceira coluna - mapa só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

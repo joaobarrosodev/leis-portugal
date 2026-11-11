@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:558268:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1, 2 e 3: aditam habilitações ao elenco do anexo I, mas as habilitações aditadas só vêm em quadros/mapas em imagem; não se aplica com segurança.",
+  "instrucoes": [
+    "Alterador 1: adita ao elenco do anexo I o anexo I da Portaria n.º 56-A/98 (quadro em imagem); não aplicado.",
+    "Alterador 2: adita ao elenco dos anexos I as habilitações do seu anexo I (tabela em imagem); não aplicado.",
+    "Alterador 3, 4.º: adita as habilitações reconhecidas (mapas em imagem) ao elenco, incluindo o desta portaria; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

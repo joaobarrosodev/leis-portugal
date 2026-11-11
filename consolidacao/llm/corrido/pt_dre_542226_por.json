@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:542226:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 226/2003) dá nova redação aos quadros n.os 2 e 3 do anexo e alterador 2 (Portaria n.º 1266/2003) substitui todo o anexo; os quadros só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação dos quadros 2 e 3 — só em imagem, não aplicado; 2.º e 3.º são normas autónomas.",
+    "Alterador 2, 1.º: nova redação do anexo (quadros 1 a 5) — só em imagem, não aplicado; 2.º a 4.º são normas autónomas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

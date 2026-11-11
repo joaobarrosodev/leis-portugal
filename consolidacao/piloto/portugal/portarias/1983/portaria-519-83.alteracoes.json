@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 33-33",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Bocal de Baixo, Ponte de Lousa, Santo Estêvão das Galés, Mafra (1).",
+    "depois": "Bocal de Cima, Montemuro, Santo Estêvão das Galés, Mafra (1).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:450998:por",
+    "alterador": "pt:dre:654570:por"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:574083:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 317/92) altera planos de estudo por mapas anexos que só vêm em imagem. Alterador 2 (Portaria n.º 915/2005), n.º 7.º, revoga parcialmente a Portaria 715/90 'nas partes que àqueles cursos respeitam' (curso de técnico de secretariado) — revogação sem alvo textual preciso, não aplicada ao texto.",
+  "instrucoes": [
+    "Alt. 1, 1.º: planos de estudo de informática/gestão e serviços comerciais alterados por mapas anexos — só em imagem, não aplicado.",
+    "Alt. 2, 6.º: extingue o curso de técnico de secretariado — norma própria.",
+    "Alt. 2, 7.º: revogação parcial da Portaria 715/90 na parte do curso de técnico de secretariado — sem alvo textual, não aplicada.",
+    "Alt. 2, 8.º: revogação total das restantes portarias do n.º 6.º — não abrange a 715/90 (está no n.º 7.º)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

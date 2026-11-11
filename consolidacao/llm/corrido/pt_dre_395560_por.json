@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:395560:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 substitui o anexo (plano de estudos), cujos quadros só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do anexo, quadros só em imagem: não aplicada.",
+    "Alterador 1, n.os 2.º a 4.º: transição, aplicação e revogação da Portaria n.º 1470/2004, normas próprias: ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

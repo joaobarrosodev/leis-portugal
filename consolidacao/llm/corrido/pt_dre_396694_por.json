@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:396694:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 13,
+      "texto": "1.º Os preços de intervenção para o trigo, centeio, triticale, cevada forrageira e aveia para a campanha de 1982-1983 a praticar pela EPAC são os seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/18900/29492949.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 49,
+      "ate": 54,
+      "texto": "1) Os preços do trigo serão acrescidos, a partir de Outubro de 1983, inclusive, até 31 de Maio de 1984, de 294$00 por tonelada e por mês;\n\n2) Os preços do centeio, triticale, cevada forrageira e aveia serão acrescidos, a partir de Setembro de 1983, inclusive, até 30 de Abril de 1984, das seguintes majorações por tonelada e por mês:\n\nCenteio - 280$00;\n\nTriticale - 286$00;\n\nCevada forrageira - 254$00;\n\nAveia - 215$00.",
+      "alterador": 1
+    },
+    {
+      "de": 58,
+      "ate": 61,
+      "texto": "14.º Os preços de intervenção a praticar pela EPAC para a cevada dística qualificada para malte, definida pelo Decreto-Lei n.º 47745, de 2 de Junho de 1967, e classificada pela [Portaria n.º 22757](https://diariodarepublica.pt/dr/detalhe/portaria/22757-1967-311784), de 28 de Junho de 1967, são os seguintes, por tonelada:\n\n1.ª classe - 20700$00;\n\n2.ª classe - 20470$00;\n\n3.ª classe - 20240$00.",
+      "alterador": 1
+    },
+    {
+      "de": 64,
+      "ate": 64,
+      "texto": "17.º Os preços de intervenção fixados no n.º 14.º serão acrescidos, a partir de Setembro de 1983, inclusive, até 30 de Abril de 1984, de 269$00 por tonelada e por mês.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O quadro de preços do novo n.º 1.º só vem em imagem: substituiu-se apenas a ligação para o documento original do alterador, sem transcrever valores.",
+  "instrucoes": [
+    "1.º: nova redacção do n.º 1.º (frase e quadro): substituídas as unidades 12-13; o quadro fica como ligação ao PDF do alterador",
+    "2.º: nova redacção do n.º 11.º: corpo (unidade 48) igual, substituídas as unidades 49-54",
+    "3.º: nova redacção do n.º 14.º: substituídas as unidades 58-61",
+    "4.º: nova redacção do n.º 17.º: substituída a unidade 64"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

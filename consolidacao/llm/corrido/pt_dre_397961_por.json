@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:397961:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A rectificação («Electrónica III» por «Electrotecnia» no quadro n.º 2) incide sobre o quadro do anexo, que só vem em imagem (unidade 24); não há texto onde aplicar.",
+  "instrucoes": [
+    "Rectificação no quadro n.º 2 do anexo: não aplicada, quadro só em imagem"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

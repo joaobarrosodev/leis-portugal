@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:420798:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (1.º) muda a denominação do curso para Marketing, sem dar nova redação a qualquer ponto do original; alterador 1 (2.º) e alterador 2 (1.º) substituem o plano de estudos anexo, cujos quadros só vêm em imagem. Não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º: curso passa a designar-se Marketing - alteração não textual, não aplicada",
+    "Alterador 1, 2.º: anexo passa a ter a redação do anexo da Portaria 1074/2003 (quadros em imagem) - não aplicado",
+    "Alterador 2, 1.º: novo anexo do plano de estudos (quadros em imagem) - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

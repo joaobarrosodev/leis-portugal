@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:413194:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "a) (Revogada.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "N.º 7.º da Portaria n.º 580-A/76 revoga a Portaria n.º 692/73 na parte respeitante a livros escolares: alínea a) do n.º 1.º (unidade 8) passa a «a) (Revogada.)».",
+    "Revogação do despacho de 9 de Novembro de 1973 e restantes números: não dirigidos ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

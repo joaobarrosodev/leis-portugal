@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:571582:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As Portarias n.os 521/97 e 969/97 substituem o quadro anexo referido no n.º 1.º, que só existe em imagem (ver documento original), nos originais e nos alteradores; não há texto a aplicar. O n.º 2.º da Portaria 969/97 revoga outra portaria e foi ignorado.",
+  "instrucoes": [
+    "Alterador 1: substitui o quadro anexo (em imagem); não aplicado.",
+    "Alterador 2, n.º 1.º: substitui de novo o quadro anexo (em imagem); não aplicado. N.º 2.º: revoga a Portaria 54/97, não o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

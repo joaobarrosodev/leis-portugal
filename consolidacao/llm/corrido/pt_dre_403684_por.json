@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:403684:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As três rectificações da Declaração de Rectificação n.º 106/92 incidem sobre os mapas da despesa (p. 4528 e p. 4530), que no texto atual só existem como imagem «(ver documento original)»; o texto a corrigir não existe nas unidades.",
+  "instrucoes": [
+    "Rectificação em 11 - MAPA (Div. 80/subdiv. 17 -> Cap. 80/div. 17): texto só no mapa em imagem; não aplicada.",
+    "Rectificação em 16 - MOPTC (Div. 50/subdiv. 16 -> Cap. 50/div 16): texto só no mapa em imagem; não aplicada.",
+    "Rectificação «Posto» -> «Porto» da Figueira da Foz: texto só no mapa em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:620476:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 27,
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A nova tabela de taxas aprovada pelo alterador 1 (artigo 1.º) é anexo próprio desse diploma e os quadros só vêm em imagem; não se transcreve para o original.",
+  "instrucoes": [
+    "Alterador 1, artigo 2.º: revogada a tabela de taxas anexa ao original - unidades 14 a 27 (quadros do anexo) substituídas por (Revogado.), mantendo o título do anexo",
+    "Alterador 1, artigo 1.º: aprova nova tabela própria - não aplicado ao texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

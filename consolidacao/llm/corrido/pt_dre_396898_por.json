@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:396898:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "(Áreas científicas)",
+      "alterador": 1
+    },
+    {
+      "de": 20,
+      "ate": 25,
+      "texto": "I) Psicopatologia e Psiquiatria ... 3\n\nII) Psiquiatria Especial ... 3\n\nIII) Medicina Psicossomática ... 3\n\nIV) Psiquiatria e Comunidade ... 1\n\nV) Terapêuticas Psiquiátricas ... 2\n\nVI) Métodos de Investigação ... 4",
+      "alterador": 1
+    },
+    {
+      "de": 27,
+      "ate": 35,
+      "texto": "I) Psiquiatria Forense ... 1\n\nII) Toxicodependências e Alcoolismo ... 1\n\nc) Estágio e seminário ... 6\n\nTotal ... 23",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º: nova redacção do n.º 4.º: epígrafe trocada (unidade 17), obrigatórias substituídas (20-25), optativas, estágios e total substituídos (27-35); unidades 16, 18, 19 e 26 iguais",
+    "2.º e 3.º: aplicação no tempo e disposição transitória, sem alteração textual do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

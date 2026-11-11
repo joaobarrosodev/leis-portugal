@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Pela [Portaria n.º 254-GI/96](https://diariodarepublica.pt/dr/detalhe/portaria/254-gi-1996-157181), de 15 de Julho, alterada pela [Portaria n.º 1307-J/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1307-j-2002-626192), de 30 de Setembro, foi concessionada à Associação de Caçadores de Casa Branca a zona de caça associativa das Herdades do Pinheiro, Cavaleiro, Azinhal e outras (processo n.º 4-DGF), situada nos municípios de Montemor-o-Novo e Coruche, com uma área de 4004,5913 ha, válida até 19 de Outubro de 2002.",
+    "depois": "Pela [Portaria n.º 254-GI/96](https://diariodarepublica.pt/dr/detalhe/portaria/254-gi-1996-157181), de 15 de Julho, alterada pela [Portaria n.º 1307-J/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1307-j-2002-626192), de 30 de Setembro, foi concessionada à Associação de Caçadores de Casa Branca a zona de caça associativa das Herdades da Abrunheira, Paço de Aragão e outras (processo n.º 4-DGF), situada nos municípios de Montemor-o-Novo e Coruche, com uma área de 4004,5913 ha, válida até 19 de Outubro de 2002.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:425955:por",
+    "alterador": "pt:dre:405518:por"
+  },
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Pela presente portaria é renovada, por um período de seis anos, a concessão da zona de caça associativa das Herdades do Pinheiro, Cavaleiro, Azinhal e outras (processo n.º 4-DGF), abrangendo vários prédios rústicos sitos na freguesia do Couço, município de Coruche, com uma área de 1849,1750 ha, e nas freguesias de Ciborro e Nossa Senhora do Bispo, município de Montemor-o-Novo, com uma área de 1539,9288 ha, perfazendo uma área total de 3389,1038 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+    "depois": "1.º Pela presente portaria é renovada, por um período de seis anos, a concessão da zona de caça associativa das Herdades da Abrunheira, Paço de Aragão e outras (processo n.º 4-DGF), abrangendo vários prédios rústicos sitos na freguesia do Couço, município de Coruche, com uma área de 1849,1750 ha, e nas freguesias de Ciborro e Nossa Senhora do Bispo, município de Montemor-o-Novo, com uma área de 1539,9288 ha, perfazendo uma área total de 3389,1038 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:425955:por",
+    "alterador": "pt:dre:405518:por"
+  }
+]

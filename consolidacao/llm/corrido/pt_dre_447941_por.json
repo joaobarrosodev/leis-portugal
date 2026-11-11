@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:447941:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1.º - 1 - As taxas a cobrar pela utilização dos serviços do Mercado Abastecedor de Chaves de Oliveira, no Porto, serão do seguinte tipo:",
+      "alterador": 1
+    },
+    {
+      "de": 21,
+      "ate": 26,
+      "texto": "a) 5$00 por unidade, pela entrada de triciclos;\n\nb) 5$00 por unidade, pela entrada de tractores e motocultivadores com e sem reboque;\n\nc) 10$00 por unidade, pela entrada de veículos ligeiros e utilitários;\n\nd) 20$00 por unidade, pela entrada de veículos com capacidade de carga de 600 kg a 3500 kg;\n\ne) 30$00 por unidade, pela entrada de veículos com capacidade de carga superior a 3500 kg.\n\n2 - Os condutores dos veículos, e, nos casos em que a lei o exija, os respectivos ajudantes, não pagam qualquer taxa, mesmo que não possuam os cartões a que se refere a alínea d) do n.º 1.º\n\n3 - Poderão ser emitidos passes mensais e passes trimestrais, segundo modelos a definir pela entidade que superintender na actividade do respectivo Mercado Abastecedor, nos termos das alíneas seguintes:\n\na) Triciclos e tractores ou motocultivadores com e sem reboque - 90$00/mês e 250$00/trimestre;\n\nb) Veículos ligeiros - 160$00/mês e 450$00/trimestre;\n\nc) Veículos de 600 kg a 3500 kg - 310$00/mês e 900$00/trimestre;\n\nd) Veículos de mais de 3500 kg - 460$00/mês e 1350$00/trimestre.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 11,
+      "texto": "2 - São isentos do pagamento da taxa a que se refere a alínea e) do número anterior:\n\na) Os veículos do Estado e das Câmaras Municipais do Porto, Gondomar, Maia, Matosinhos, Valongo e Vila Nova de Gaia, abrangidos pela zona de protecção do Mercado, definida no n.º 1 do n.º 2.º da [Portaria n.º 46/78](https://diariodarepublica.pt/dr/detalhe/portaria/46-1978-447926), de 23 de Janeiro;\n\nb) Os veículos ligeiros utilizados pelos membros das comissões administrativa, de fiscalização, consultiva e de recursos e pelos funcionários do Mercado, quando se encontrem no exercício das suas funções;\n\nc) Os veículos utilizados por instituições de assistência de fim desinteressado, consideradas pessoas colectivas de utilidade pública.\n\n3 - A isenção a que se refere a alínea c) do número anterior será concedida mediante pedido das entidades interessadas à comissão administrativa, devidamente instruído com os elementos comprovativos de que satisfazem às condições exigidas naquela alínea.\n\n4 - Compete à comissão administrativa a organização do sistema de contrôle das isenções previstas no n.º 2.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º - corpo passa a '1.º - 1 -' (unidade 5), alíneas a) a f) mantidas (...), aditados n.os 2, 3 e 4 após a unidade 11.",
+    "Alterador 2, 1.º: nova redação do n.º 5.º - n.º 1 corpo igual (unidade 20 mantida), alíneas a) a e) e n.º 2 substituídos (unidades 21-26) e acrescentado n.º 3 com alíneas a) a d)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:425955:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "Pela [Portaria n.º 254-GI/96](https://diariodarepublica.pt/dr/detalhe/portaria/254-gi-1996-157181), de 15 de Julho, alterada pela [Portaria n.º 1307-J/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1307-j-2002-626192), de 30 de Setembro, foi concessionada à Associação de Caçadores de Casa Branca a zona de caça associativa das Herdades da Abrunheira, Paço de Aragão e outras (processo n.º 4-DGF), situada nos municípios de Montemor-o-Novo e Coruche, com uma área de 4004,5913 ha, válida até 19 de Outubro de 2002.",
+      "alterador": 1
+    },
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º Pela presente portaria é renovada, por um período de seis anos, a concessão da zona de caça associativa das Herdades da Abrunheira, Paço de Aragão e outras (processo n.º 4-DGF), abrangendo vários prédios rústicos sitos na freguesia do Couço, município de Coruche, com uma área de 1849,1750 ha, e nas freguesias de Ciborro e Nossa Senhora do Bispo, município de Montemor-o-Novo, com uma área de 1539,9288 ha, perfazendo uma área total de 3389,1038 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: substituição da planta anexa, que só existe em imagem; não aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: retificação 'onde se lê ... Herdades do Pinheiro, Cavaleiro, Azinhal e outras deve ler-se ... Herdades da Abrunheira, Paço de Aragão e outras', aplicada às duas ocorrências (unidades 3 e 7).",
+    "Alterador 1, 2.º: a planta anexa substitui a do original; planta só em imagem, não aplicada (ver nao_aplicavel).",
+    "Alterador 2 (Portaria 862/2008): nova renovação da concessão por ato próprio, sem instrução de alteração textual ao original: nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

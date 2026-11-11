@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:402166:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesias de Telhado e Aldeia Nova, município do Fundão, com a área de 1130,6250 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 (Portaria n.º 553/99), 3 (Portaria n.º 345/2002) e 4 (Portaria n.º 1113/2004) renovam a concessão e anexam prédios (plantas só em imagem), sem dar nova redacção a nenhum ponto do original; não são alterações textuais.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 1.º; unidade 6 substituída mantendo a numeração 1.º e a grafia do alterador.",
+    "Alterador 1: aditado o n.º 1.º-A; inserido a seguir à unidade 6.",
+    "Alterador 2: renovação até 14 de Julho de 2011; não textual.",
+    "Alteradores 3 e 4: anexação de prédios (áreas totais 1674,0740 ha e 2273 ha); não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

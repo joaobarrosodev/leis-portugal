@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:483647:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Proença-a-Velha, município de Idanha-a-Nova, com uma área de 947 ha.",
+      "alterador": 1
+    },
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2006/03/050b00/18021803.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 1067/2008) exclui terrenos (420 ha, zona com 527 ha) e junta nova planta, sem dar nova redação a qualquer número do original: não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2.º (947 ha) — substituída a unidade 7.",
+    "Alterador 1, 2.º: planta anexa substituída — trocada a ligação da planta na unidade 18 (conteúdo só em imagem).",
+    "Alterador 2: exclusão de terrenos com nova planta — não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

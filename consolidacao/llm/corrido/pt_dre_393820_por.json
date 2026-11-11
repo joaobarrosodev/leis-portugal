@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:393820:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 684/93 é revogada por inteiro pelo Decreto-Lei n.º 74/2004 (alterador 2), artigo 19.º, n.º 2, alínea c), como legislação complementar do Decreto-Lei n.º 344/90; antes disso, o alterador 1 só altera e substitui os mapas, que vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1: planos de estudo alterados e mapas VII e VIII substituídos por mapas em imagem: não aplicável.",
+    "Alterador 2: artigo 19.º, n.º 2, alínea c), revoga a Portaria n.º 684/93: revogação total, nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

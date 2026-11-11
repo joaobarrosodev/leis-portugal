@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:580640:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1250/2001) dá nova redação ao quadro n.º 3 do anexo I e alterador 2 (Portaria n.º 1273/2003) aos quadros n.os 1, 3 e 4 do anexo I; os quadros só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do quadro n.º 3 do anexo I (imagem): não aplicado.",
+    "Alterador 2, 1.º: nova redação dos quadros n.os 1, 3 e 4 do anexo I (imagem): não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

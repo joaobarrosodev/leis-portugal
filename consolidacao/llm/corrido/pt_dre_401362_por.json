@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:401362:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 14,
+      "texto": "b) (Revogada.)\n\nc) (Revogada.)",
+      "alterador": 1
+    },
+    {
+      "de": 46,
+      "ate": 49,
+      "texto": "Licenciatura em Engenharia de Produção Industrial\n\n1 - Área científica do curso:\n\nEngenharia Industrial.",
+      "alterador": 2
+    },
+    {
+      "de": 51,
+      "ate": 53,
+      "texto": "Cinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário a concessão do grau:\n\n165.",
+      "alterador": 2
+    },
+    {
+      "de": 56,
+      "ate": 71,
+      "texto": "a) Engenharia Industrial ... 36\n\nb) Engenharia Mecânica ... 13.5\n\nc) Engenharia Química ... 6\n\nd) Ciências da Engenharia ... 15.5\n\ne) Matemática ... 29\n\nf) Física ... 12\n\ng) Química ... 8\n\nh) Ciências Humanas e Sociais ... 9\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Engenharia Industrial ... 36\n\nb) Engenharia Mecânica ... 36\n\nc) Engenharia Química ... 36\n\nd) Ciências da Engenharia ... 36\n\ne) Ciências Humanas e Sociais ... 36",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2, 4.º, n.º 1 (o curso deixa de se desdobrar em ramos) não é uma alteração textual: o n.º 2.º e os anexos II e III mantêm-se como estão. O título da unidade 45 ('## ANEXO I — Ramo de produção industrial') foi mantido, porque o alterador não traz um título equivalente; o novo subtítulo 'Licenciatura em Engenharia de Produção Industrial' entra no início do corpo.",
+  "instrucoes": [
+    "Alterador 1, 6.º: revogadas as alíneas b) e c) do n.º 2.º (unidades 13-14)",
+    "Alterador 1, restantes números: criam cursos novos ou alteram as Portarias n.os 570/84 e 617/83 (outros diplomas): ignorados",
+    "Alterador 2, 4.º, n.º 2: nova redacção do anexo I: substituídas as unidades 46-49, 51-53 e 56-71 (o ponto 5 desaparece); unidades 50, 54 e 55 iguais",
+    "Alterador 2, 1.º a 3.º e 6.º: dizem respeito à Portaria n.º 617/83: ignorados; 4.º, n.º 1: não textual (ver nao_aplicavel)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:399623:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 14,
+      "texto": "1.º Na área do concelho de Lisboa, a atribuição de licenças para a exploração da indústria de transporte de aluguer de veículos ligeiros de passageiros obedecerá à seguinte ordem de prioridades:\n\na) Motoristas profissionais de táxi exercendo a profissão há mais de um ano por conta de outrem;\n\nb) Motoristas profissionais desempregados em consequência da declaração de falência das respectivas empresas ou de despedimentos colectivos, residentes no concelho de Lisboa;\n\nc) Motoristas profissionais com salários em atraso, residentes no concelho de Lisboa;\n\nd) Cooperativas de motoristas profissionais cujo objecto seja a exploração da indústria de aluguer de veículos ligeiros de passageiros;\n\ne) Motoristas profissionais exercendo a profissão há mais de um ano;\n\nf) Outros concorrentes.\n\n2.º O contingente total de licenças poderá ser distribuído por dotação a atribuir aos diferentes tipos de concorrentes nos termos que vierem a ser definidos no programa do concurso pela Câmara Municipal de Lisboa.",
+      "alterador": 2
+    },
+    {
+      "de": 16,
+      "ate": 22,
+      "texto": "4.º Para efeitos de ordenação dos concorrentes referidos na alínea a) do n.º 1.º, dar-se-á preferência aos motoristas profissionais de táxi com maior período ininterrupto no exercício da profissão como motorista de táxi.\n\nVerificando-se igual tempo no exercício da profissão terão prioridade os que residam no concelho de Lisboa há mais tempo.\n\n5.º Para efeitos de ordenação dos concorrentes referidos nas alíneas b) e c) do n.º 1.º, dar-se-á preferência àqueles que se encontrem nas respectivas situações há mais tempo.\n\nNo caso de se verificar insuficiente este critério de preferência acima indicado, terão prioridade os motoristas com maior período ininterrupto no exercício da profissão e, em caso de igualdade, os que residam no concelho de Lisboa há mais tempo.\n\n6.º Para efeitos de ordenação dos concorrentes definidos na alínea d) do n.º 1.º, dar-se-á preferência às cooperativas cuja sede se localize na área do concelho de Lisboa.\n\n7.º No caso de se verificar insuficiente esse critério, terão preferência as cooperativas de motoristas profissionais que não tenham ainda qualquer licença atribuída, considerando dois motoristas por cada licença a atribuir.\n\n8.º Em caso de igualdade, dar-se-á preferência às cooperativas de motoristas profissionais que se encontrem constituídas há mais tempo.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 1.º a) e dos n.os 4.º e 5.º (unidades 12, 16, 17-19); toda substituída depois pelo alterador 2, que reescreve as mesmas unidades, por isso só fica a redacção final",
+    "Alterador 2, 1.º: nova redacção dos n.os 1.º e 2.º (unidades 11-14) e dos n.os 4.º a 8.º (unidades 16-22); n.º 3.º (unidade 15) e 9.º inalterados",
+    "Alterador 2, 2.º: revoga a Portaria n.º 81/85 (outro diploma); sem efeito no texto, já substituído"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

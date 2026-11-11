@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 7-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º - 1 - Pelo presente diploma é concessionada por tempo indeterminado ao Instituto Florestal a zona de caça social do Sabor (processo n.º 1743 do Instituto Florestal).\n\n2 - Nos termos do n.º 3 do artigo 67.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro, a gestão será efectuada em conjunto com a Câmara Municipal de Bragança e Juntas de Freguesia de Rio Frio e Outeiro, com as quais será celebrado o necessário acordo.\n\n3.º A entidade gestora fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.\n\n4.º Nesta zona de caça o acesso dos caçadores será feito por inscrição prévia e sorteio público ou outra forma que garanta a igualdade de acessibilidade, sendo reservada uma parte das admissões para caçadores com residência registada na carta de caçador nas autarquias envolvidas.",
+    "depois": "2.º - 1 - A administração da zona de caça social do Sabor, criada por tempo indeterminado pela [Portaria n.º 678/95](https://diariodarepublica.pt/dr/detalhe/portaria/678-1995-475772), de 28 de Junho, é atribuída à Direcção Regional de Agricultura de Trás-os-Montes, sendo a sua gestão assegurada por uma comissão, designada por comissão de gestão da zona de caça social do Sabor, criada por protocolo celebrado em 15 de Junho de 1998 e homologado por despacho do Secretário de Estado da Agricultura e do Desenvolvimento Rural em 31 de Julho de 1998.\n\n2 - A comissão de gestão referida no número anterior integra um representante da Direcção Regional de Agricultura de Trás-os-Montes, que preside, um representante da Câmara Municipal de Bragança, um representante da Associação de Caça e Pesca do Sabor, um representante das juntas de freguesia que abrangem os terrenos integrados na zona de caça e um representante dos gestores dos terrenos abrangidos pela zona de caça social do Sabor.\n\n3.º A comissão de gestão fica obrigada a cumprir e fazer cumprir o plano de ordenamento e exploração cinegético e as disposições legais e regulamentares do exercício da caça, sem prejuízo da responsabilidade pessoal dos infractores.\n\n4.º O acesso dos caçadores a esta zona de caça, bem como as demais regras de funcionamento da mesma, obedecem ao disposto na [Portaria n.º 893/98](https://diariodarepublica.pt/dr/detalhe/portaria/893-1998-235558), de 10 de Outubro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:475772:por",
+    "alterador": "pt:dre:393027:por"
+  },
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6.º Os prédios rústicos que integram esta zona de caça, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se o concessionário a manter quatro guardas florestais auxiliares dotados de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).",
+    "depois": "6.º Os prédios que integram esta zona de caça consideram-se submetidos ao regime florestal, para efeitos de policiamento e fiscalização, obrigando-se a comissão de gestão referida no n.º 2.º, através da Associação de Caça e Pesca do Sabor, a requerer a nomeação de guardas florestais auxiliares se necessários para complemento da fiscalização efectuada por elementos do Corpo Nacional da Guarda Florestal.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:475772:por",
+    "alterador": "pt:dre:393027:por"
+  }
+]

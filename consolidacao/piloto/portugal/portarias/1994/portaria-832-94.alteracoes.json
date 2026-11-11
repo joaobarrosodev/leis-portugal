@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 37",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "Instituto de Oftalmologia do Dr. Gama Pinto.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:586826:por",
+    "alterador": "pt:dre:533198:por"
+  }
+]

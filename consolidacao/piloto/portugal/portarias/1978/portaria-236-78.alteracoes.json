@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - O quadro do pessoal docente, administrativo e auxiliar da Escola Secundária de D. Luís de Castro é o constante, respectivamente, dos mapas n.os 1 e 2 anexos a esta portaria.",
+    "depois": "2 - O quadro de pessoal docente da Escola Secundária de D. Luís de Castro será definido de acordo com os planos de estudo do curso de educador social ali ministrado, através de portaria conjunta do Ministro de Estado e das Finanças e do Plano, da Educação e das Universidades e da Reforma Administrativa.\n\n2.1 - O quadro de pessoal administrativo e auxiliar da Escola Secundária de D. Luís de Castro é o constante do mapa n.º 2 anexo a esta portaria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:425562:por",
+    "alterador": "pt:dre:567948:por"
+  },
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - Os cursos a ministrar na Escola Secundária de D. Luís de Castro são o curso geral dos liceus e o curso geral de educadores rurais.",
+    "depois": "4 - O curso a ministrar na Escola Secundária de D. Luís de Castro é o curso de educador social, ao nível dos 10.º, 11.º e 12.º anos de escolaridade.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:425562:por",
+    "alterador": "pt:dre:567948:por"
+  },
+  {
+    "artigo": "unidades 8-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5 - O curso geral de educadores rurais é equivalente, para todos os efeitos, ao curso geral dos liceus, e ao mesmo podem ter acesso os indivíduos habilitados com o 2.º ano do ensino preparatório ou equivalente.\n\n6 - Os planos do curso de educadores rurais são os constantes do mapa n.º 3 anexo a esta portaria.",
+    "depois": "5 - (Revogado.)\n\n6 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:425562:por",
+    "alterador": "pt:dre:567948:por"
+  }
+]

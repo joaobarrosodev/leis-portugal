@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:401478:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 substituem os quadros I e II do anexo, que só vêm em imagem (ver documento original); não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 190/85): quadros I e II passam a ter a redacção dos anexos; quadros só em imagem, não aplicado.",
+    "Alterador 2 (Portaria n.º 531/86), 1.º: quadros anexos passam a ter a redacção dos quadros anexos; só em imagem, não aplicado. 2.º e 3.º são normas próprias do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

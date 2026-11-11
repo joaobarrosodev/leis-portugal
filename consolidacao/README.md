@@ -524,7 +524,7 @@ Os ficheiros de trabalho (pedidos, respostas por passagem, vistas da ronda 23) e
 
 ## Originais sem artigos: texto corrido por unidades (`llm_corrido.py`)
 
-As rondas deste trabalho foram renumeradas ao juntar ao `main` (17 → 24, 18 → 25, 19 → 26, 20 → 27, 21 → 28, 22 → 29, 23 → 30, 24 → 31, 25 → 32, 26 → 33, 27 → 34), porque a frente B já usava os números 17 a 23 e o main já tinha as rondas 24 a 30 para outros diplomas.
+As rondas deste trabalho foram renumeradas ao juntar ao `main` (17 → 24, 18 → 25, 19 → 26, 20 → 27, 21 → 28, 22 → 29, 23 → 30, 24 → 31, 25 → 32, 26 → 33, 27 → 34, 28 → 35, 29 → 36), porque a frente B já usava os números 17 a 23 e o main já tinha as rondas 24 a 30 para outros diplomas.
 
 **Problema.** Dos 4.362 diplomas para o LLM, 2.697 têm um original sem artigos identificados (portarias "1.º, 2.º" em texto corrido, resoluções, despachos, declarações de retificação, bases). `juntar.py` e `llm_completo.py` recusam-nos ("original sem artigos: a resposta não tem onde encaixar").
 
@@ -600,6 +600,14 @@ Mais 120 diplomas (`llm/corrido-ids-bloco9.txt`, de 1 817 candidatos; 39 saltado
 ### Bloco 10 (ronda 34; no ramo de origem era a ronda 27)
 
 Mais 120 diplomas (`llm/corrido-ids-bloco10.txt`, de 1 697 candidatos; 41 saltados por tamanho). 34 sem alterações, 86 juntados, 0 recusados. Ronda 27: 86 verificados às cegas, **68 sem reparos: 57 % do bloco (79 % dos verificados)**. Acumulado das rondas 17 a 27: **512 em 1 120 (46 %)**. Ficam cerca de 1 580 candidatos.
+
+### Bloco 11 (ronda 35; no ramo de origem era a ronda 28)
+
+Mais 120 diplomas (`llm/corrido-ids-bloco11.txt`, de 1 577 candidatos; 42 saltados por tamanho). 45 sem alterações, 70 juntados, 5 recusados. Ronda 28: 70 verificados às cegas, **51 sem reparos: 42 % do bloco (73 % dos verificados)**. Acumulado das rondas 17 a 28: **563 em 1 240 (45 %)**. Ficam cerca de 1 460 candidatos.
+
+### Bloco 12 (ronda 36; no ramo de origem era a ronda 29)
+
+Mais 120 diplomas (`llm/corrido-ids-bloco12.txt`, de 1 457 candidatos; 42 saltados por tamanho). 66 sem alterações (a maioria anexos ou quadros só em imagem, ou revogação total), 52 juntados, 2 recusados. Ronda 29: 52 verificados às cegas, **42 sem reparos: 35 % do bloco (81 % dos verificados)**. Acumulado das rondas 17 a 29: **605 em 1 360 (44 %)**. Ficam cerca de 1 340 candidatos. A fatia sem alterações cresce: os candidatos que restam, por ordem de citações, têm cada vez mais quadros em imagem.
 
 ### Correções depois do bloco 1 e rondas 40 e 41
 

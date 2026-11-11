@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 23-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O disposto na presente portaria produz efeitos desde o ano lectivo de 2004-2005, inclusive.",
+    "depois": "O disposto na presente portaria produz efeitos desde o ano lectivo de 2002-2003, inclusive.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:515449:por",
+    "alterador": "pt:dre:350135:por"
+  }
+]

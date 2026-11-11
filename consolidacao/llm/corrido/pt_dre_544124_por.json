@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:544124:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: o anexo passa a ter a redacção do anexo da Portaria n.º 1312/2003, cujos quadros só vêm em imagem (ver quadro no documento original); não se pode reproduzir o texto. O 1.º (desdobramento do 2.º ciclo em ramos) e os 3.º a 5.º são normas próprias do alterador, sem alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o 2.º ciclo do curso passa a desdobrar-se em ramos; alteração não textual, nada aplicado.",
+    "Alterador 1, 2.º: nova redacção do anexo com quadros só em imagem; não aplicada (nao_aplicavel).",
+    "Alterador 1, 3.º a 5.º: estágio, transição e aplicação do próprio alterador; não se dirigem ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

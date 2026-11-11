@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:575566:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 416/97): o n.º 1.º muda a designação do curso para Engenharia Agro-Pecuária sem nova redação do texto do original (alteração que não é textual); o n.º 2.º altera o plano de estudos (anexo só em imagem) e o n.º 3.º altera a Portaria n.º 819/90, outro diploma.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova designação do curso, sem redação textual para o original; não aplicada.",
+    "Alterador 1, n.º 2.º: novo plano de estudos em anexo só em imagem; não aplicado.",
+    "Alterador 1, n.º 3.º: altera o n.º 4.º da Portaria n.º 819/90 (outro diploma); ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

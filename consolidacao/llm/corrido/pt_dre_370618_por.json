@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:370618:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "3.º\n\n(Disciplinas de opção)\n\n1 - O elenco de disciplinas de opção será fixado anualmente pelo conselho científico.\n\n2 - O conselho científico fixará o número máximo de alunos a admitir à inscrição nas disciplinas de opção.\n\n3 - O número mínimo de alunos a admitir à inscrição em cada disciplina de opção é de 10, nos termos do n.º 3 do artigo 5.º do [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio.\n\n4 - Exceptuam-se do disposto no n.º 3 os casos em que:\n\na) O docente assegure a regência da disciplina a título gratuito;\n\nb) O docente assegure a regência da disciplina para além do número máximo de horas de serviço de aulas ou seminários a que é obrigado por lei;\n\nc) Não existindo outro serviço para distribuir ao docente, este complete com a regência da disciplina o número de horas de ensino que por lei deva assegurar.",
+      "alterador": 1
+    },
+    {
+      "de": 14,
+      "ate": 15,
+      "texto": "",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Eliminação da nota (a) aos quadros do anexo I: os quadros só vêm em imagem, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 3.º — substituída a unidade 9.",
+    "Alterador 1, 2.º: eliminada a nota (a) do anexo I — só em imagem, não aplicada; eliminado o anexo II — unidades 14-15 substituídas por vazio.",
+    "Alterador 1, n.os 3 e 4: revogação de outra portaria e aplicação no tempo — não dirigidas ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

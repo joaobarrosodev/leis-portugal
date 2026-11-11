@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:522404:por",
+  "substituicoes": [
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "1 - O 1.º ciclo do curso pode começar a funcionar a partir do ano lectivo de 2000-2001, inclusive, um ano curricular em cada ano lectivo.\n\n2 - O 2.º ciclo do curso pode começar a funcionar a partir do ano lectivo de 2001-2002, inclusive.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 750/2003): substitui o quadro n.º 1 do anexo, que só existe em imagem no original e no alterador; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º, n.º 5: nova redação do n.º 5.º (dois números); substituído o corpo, unidade 23. Os n.os 1 a 4 alteram outras portarias: ignorados.",
+    "Alterador 2: novo quadro n.º 1 do anexo, só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

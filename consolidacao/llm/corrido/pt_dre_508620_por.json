@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:508620:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O 8.º da Portaria n.º 784/87 (alteradores 1 e 2, o mesmo diploma repetido) substitui o quadro de pessoal da Escola de Hotelaria e Turismo do Estoril (unidade 4) pelo quadro do anexo VIII, que só vem em imagem num documento conjunto dos anexos I a IX; não se aplica.",
+  "instrucoes": [
+    "Alterador 1, 8.º: substitui o quadro de pessoal do original pelo anexo VIII, só em imagem; não aplicado.",
+    "Alterador 2: repete a Portaria n.º 784/87; mesma situação.",
+    "Restantes números da Portaria n.º 784/87: dizem respeito a outros quadros e diplomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

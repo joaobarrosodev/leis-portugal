@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 13-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Engenharia mecânica;\n\nc) Engenharia química.",
+    "depois": "b) (Revogada.)\n\nc) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:401362:por",
+    "alterador": "pt:dre:621743:por;pt:dre:379724:por"
+  },
+  {
+    "artigo": "unidades 46-49",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Áreas científicas do curso:\n\na) Engenharia Industrial;\n\nb) Engenharia Mecânica;\n\nc) Engenharia Química.",
+    "depois": "Licenciatura em Engenharia de Produção Industrial\n\n1 - Área científica do curso:\n\nEngenharia Industrial.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:401362:por",
+    "alterador": "pt:dre:621743:por;pt:dre:379724:por"
+  },
+  {
+    "artigo": "unidades 51-53",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5 anos.\n\n3 - Número total de unidades de crédito necessário à concessão do grau:\n\n170.",
+    "depois": "Cinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário a concessão do grau:\n\n165.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:401362:por",
+    "alterador": "pt:dre:621743:por;pt:dre:379724:por"
+  },
+  {
+    "artigo": "unidades 56-71",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Engenharia Industrial ... 35,0\n\nb) Engenharia Mecânica ... 23,5\n\nc) Engenharia Química ... 13,5\n\nd) Ciências da Engenharia ... 21,0\n\ne) Matemática ... 28,5\n\nf) Física ... 12,0\n\ng) Química ... 8,0\n\nh) Ciências Humanas e Sociais ... 9,0\n\n4.2 - Áreas científicas opcionais:\n\na) Engenharia Industrial ... 19,5\n\nb) Engenharia Mecânica ... 19,5\n\nc) Engenharia Química ... 19,5\n\nd) Ciências da Engenharia ... 19,5\n\n5 - Condições para a inscrição no ramo:\n\na) 4 semestres lectivos de inscrição no curso;\n\nb) Obtenção de 65 unidades de crédito.",
+    "depois": "a) Engenharia Industrial ... 36\n\nb) Engenharia Mecânica ... 13.5\n\nc) Engenharia Química ... 6\n\nd) Ciências da Engenharia ... 15.5\n\ne) Matemática ... 29\n\nf) Física ... 12\n\ng) Química ... 8\n\nh) Ciências Humanas e Sociais ... 9\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Engenharia Industrial ... 36\n\nb) Engenharia Mecânica ... 36\n\nc) Engenharia Química ... 36\n\nd) Ciências da Engenharia ... 36\n\ne) Ciências Humanas e Sociais ... 36",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:401362:por",
+    "alterador": "pt:dre:621743:por;pt:dre:379724:por"
+  }
+]
