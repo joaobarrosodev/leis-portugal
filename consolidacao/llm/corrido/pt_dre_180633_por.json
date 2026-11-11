@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:180633:por",
+  "substituicoes": [
+    {
+      "de": 179,
+      "ate": 179,
+      "texto": "Literatura Americana.",
+      "alterador": 1
+    },
+    {
+      "de": 181,
+      "ate": 182,
+      "texto": "Linguística Inglesa.\n\nCultura Inglesa.\n\nCultura Americana.\n\nEstudos Americanos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 860/90 dá nova redação ao anexo VIII: Literatura Norte-Americana passa a Literatura Americana (179); as unidades 181-182 passam a Linguística Inglesa, Cultura Inglesa, Cultura Americana e Estudos Americanos; o resto do anexo fica igual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

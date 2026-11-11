@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 16-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Condições para obtenção do grau\n\nÉ condição para a obtenção do grau de bacharel a aprovação na totalidade das disciplinas que integram o respectivo plano de estudos.",
+    "depois": "Condições para a obtenção do grau\n\n1 - São condições para a obtenção do grau de bacharel, cumulativamente:\n\na) A aprovação na totalidade das unidades curriculares que integram o respectivo plano de estudos;\n\nb) A realização, com aproveitamento, do estágio no final do curso.\n\n2 - O estágio é objecto de avaliação, que se traduzirá numa classificação, nos termos a regulamentar pelo órgão legal e estatutariamente competente.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:665116:por",
+    "alterador": "pt:dre:265505:por"
+  },
+  {
+    "artigo": "unidades 20-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o plano de estudos.\n\n2 - Os coeficientes de ponderação são fixados pelo conselho científico.",
+    "depois": "A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o plano de estudos e do estágio a que se refere o n.º 2 do número anterior.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:665116:por",
+    "alterador": "pt:dre:265505:por"
+  }
+]

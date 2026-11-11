@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 38-38",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.1 - É órgão executivo do INFOCID o secretário-geral da Presidência do Conselho de Ministros, que será apoiado em tal função por uma equipa de projecto, cuja constituição e estatuto será objecto de despacho conjunto do membro do Governo responsável pela modernização administrativa e do Ministro das Finanças.",
+    "depois": "5.1 - É órgão executivo do INFOCID o Secretariado para a Modernização Administrativa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:631002:por",
+    "alterador": "pt:dre:585017:por"
+  }
+]

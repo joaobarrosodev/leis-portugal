@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:176505:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "a) Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário, a presidir;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º: nova redação do n.º 2.º; corpo e alíneas b) a l) com '...' ficam; substituída a alínea a) (unidade 10).",
+    "2.º: produção de efeitos, norma própria: nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:165987:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "3.º Ao pessoal referido no n.º 1.º poderá ser atribuída pela mesa para a gerência das apostas mútuas desportivas uma remuneração mensal, que não excederá a terça parte do seu vencimento, sendo o encargo satisfeito em conta das dotações inscritas para o efeito nos orçamentos respectivos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redação do n.º 3.º (unidade 11)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

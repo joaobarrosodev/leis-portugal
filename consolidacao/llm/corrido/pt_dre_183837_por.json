@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:183837:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 1126/2004 (n.º 1.º) extingue a zona de caça municipal criada pelo original e concessiona outra zona; é uma extinção do ato, não uma alteração ou revogação textual do texto da portaria.",
+  "instrucoes": [
+    "Portaria 1126/2004, 1.º: extinção da zona de caça municipal do Pereiro-Alcoutim; não aplicada ao texto por não ser alteração textual. Os n.os 2.º a 4.º dizem respeito à nova zona de caça associativa, não ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

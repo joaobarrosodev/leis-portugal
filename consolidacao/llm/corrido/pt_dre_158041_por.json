@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:158041:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "Referendado em 3 de Março de 1999.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (retificação): 'referendado em 3 de Fevereiro de 1999' passa a 'referendado em 3 de Março de 1999'; trocado o mês na unidade 8, mantida a maiúscula do texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

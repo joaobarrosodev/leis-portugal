@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:661914:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 630/99) e alterador 2 (Portaria n.º 78/2003) dão nova redação ao anexo, cujos quadros só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 2.º: nova redação do anexo (quadros 1 a 5 em imagem); não aplicado. 1.º (ramos), 3.º a 5.º são normas próprias, não alteram o texto do original.",
+    "Alterador 2, 1.º: nova redação do anexo (quadros em imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

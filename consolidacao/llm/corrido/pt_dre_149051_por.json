@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:149051:por",
+  "substituicoes": [
+    {
+      "de": 33,
+      "ate": 33,
+      "texto": "O curso pode começar a funcionar a partir do ano lectivo de 2005-2006, inclusive.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 8.º; número e epígrafe iguais, substituído só o corpo (unidade 33).",
+    "Alt. 1, 2.º e 3.º: produção de efeitos e entrada em vigor; não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

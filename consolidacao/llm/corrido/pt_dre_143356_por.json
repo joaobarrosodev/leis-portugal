@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:143356:por",
+  "substituicoes": [
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/101b00/24562458.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 383/95, 3.º: é alterado e republicado o mapa II; o mapa só vem em imagem: substituída a ligação do mapa II; título igual.",
+    "1.º e 2.º (criação da Zona Florestal do Alto Tâmega e designação da Zona Florestal de Alvão Padrela) refletem-se no mapa II; não alteram outro texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

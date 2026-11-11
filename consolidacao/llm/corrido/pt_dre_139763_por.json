@@ -1,0 +1,82 @@
+{
+  "id": "pt:dre:139763:por",
+  "substituicoes": [
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "Escola Superior de Artes Aplicadas",
+      "alterador": 1
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 34,
+      "ate": 34,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 37,
+      "ate": 37,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 39,
+      "ate": 39,
+      "texto": "Escola Superior de Artes Aplicadas",
+      "alterador": 1
+    },
+    {
+      "de": 42,
+      "ate": 42,
+      "texto": "Ramo de Design Multimédia e Audiovisuais",
+      "alterador": 1
+    },
+    {
+      "de": 45,
+      "ate": 45,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 47,
+      "ate": 47,
+      "texto": "1.º ano",
+      "alterador": 1
+    },
+    {
+      "de": 48,
+      "ate": 48,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02810284.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 49,
+      "ate": 55,
+      "texto": "",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 45,
+      "texto": "Ramo de Design Gráfico",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 49/2004, 1.º n.º 1: o ramo de Multimédia e Audiovisuais passa a denominar-se Design Multimédia e Audiovisuais; não é alteração textual direta, reflete-se na nova redação do anexo II.",
+    "Portaria 49/2004, 1.º n.º 2: o 2.º ciclo passa a ter dois semestres; não altera texto do original.",
+    "Portaria 49/2004, 1.º n.º 3: anexos I e II passam a ter a redação dos anexos da portaria; aplicada mantendo os títulos dos anexos: anexo I com nova designação da Escola e novas ligações dos quadros 1 a 3; anexo II reduzido a dois quadros de 1.º ano (Ramo de Design Multimédia e Audiovisuais, quadro 1; Ramo de Design Gráfico, quadro 2), eliminando o restante. Os quadros só vêm em imagem: substituídas apenas as ligações.",
+    "2.º a 4.º da Portaria 49/2004 são normas próprias (projeto e estágio, transição, aplicação), não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

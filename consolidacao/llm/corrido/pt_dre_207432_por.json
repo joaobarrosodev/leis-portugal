@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:207432:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: revoga 'os prazos estabelecidos na parte final do n.º 5.º e n.º 6.º' sem dar nova redação nem delimitar o texto a suprimir; alvo não delimitado com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º: revogação dos prazos da parte final do 5.º e do 6.º; sem texto definido, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

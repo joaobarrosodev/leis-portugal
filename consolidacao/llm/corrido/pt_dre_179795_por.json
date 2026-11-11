@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:179795:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 6.º da Portaria n.º 887/2004 extingue o curso de técnico de mecânica/gás e revoga a Portaria n.º 206/92 por inteiro.",
+  "instrucoes": [
+    "6.º: revogação total da Portaria n.º 206/92: nada devolvido.",
+    "Restantes números: normas próprias da Portaria n.º 887/2004 (7.º mantém o plano para alunos em curso, sem alteração textual)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

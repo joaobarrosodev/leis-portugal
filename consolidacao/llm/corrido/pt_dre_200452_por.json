@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:200452:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As retificações da Declaração de Rectificação n.º 66/92 (cap. 06, div. 02, C. E. 01.03.04; cap. 13, div. 02, subdiv. 01, C. E. 02.02.08 e C. E. 02.03.02) incidem sobre os mapas de alterações orçamentais, que só existem em imagem (unidade 3); o texto a corrigir não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retifica anulações e reforços e um código de classificação económica nos mapas; texto só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

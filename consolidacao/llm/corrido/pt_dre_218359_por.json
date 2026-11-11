@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:218359:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o anexo (plano de estudos) passa a ter a redação do anexo da Portaria n.º 839/2009, cujos quadros só existem em imagem no documento original; não se altera o anexo.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo, quadros só em imagem; não aplicada (nao_aplicavel).",
+    "Alterador 1, 2.º e 3.º: regras de transição e aplicação no tempo; não textuais, nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

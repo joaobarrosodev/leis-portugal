@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:219953:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A rectificação (Declaração de Rectificação n.º 79/93) incide sobre uma linha do mapa de transferências da p. 4981, que só vem em imagem (unidade 3, documento original); o texto a rectificar não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: rectifica 'Cap. 01, div. 02, subdiv. 03, C. E. 04.01.03, al. H' no mapa em imagem; não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

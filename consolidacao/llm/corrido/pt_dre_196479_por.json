@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:196479:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "Maria Margarida Blasco Martins Augusto Telles de Abreu.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação do nome do último vogal; a unidade 10 (que no texto atual termina em ponto e não em ponto e vírgula) passa a ter o nome retificado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

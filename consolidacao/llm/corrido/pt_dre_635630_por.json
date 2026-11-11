@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:635630:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 altera o quadro do pessoal de enfermagem, que (tal como o original) só vem em imagem; a nota sobre colocação do pessoal é norma própria.",
+  "instrucoes": [
+    "Alterador 1: alteração do quadro de pessoal de enfermagem — só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

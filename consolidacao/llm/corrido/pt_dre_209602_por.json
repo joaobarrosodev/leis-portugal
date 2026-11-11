@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:209602:por",
+  "substituicoes": [
+    {
+      "de": 2,
+      "ate": 2,
+      "texto": "Por ordem superior se torna público que, em 3 de Fevereiro e em 12 de Agosto de 2004, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros de Portugal e pela Embaixada da República Federativa do Brasil, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo de Cooperação entre a República Portuguesa e a República Federativa do Brasil para a Prevenção e a Repressão do Tráfico Ilícito de Migrantes, assinado em Lisboa, em 11 de Julho de 2003.",
+      "alterador": 1
+    },
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "Nos termos do artigo 10.º do Acordo, este entrou em vigor no dia 3 de Outubro de 2004.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Rectificação do 1.º parágrafo: nome do Acordo (Drogas -> Migrantes), aplicada na unidade 2",
+    "Rectificação do 3.º parágrafo: 3 de Outubro de 2003 -> 2004, aplicada na unidade 4"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

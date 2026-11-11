@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 12-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - Estabelecer que os encargos resultantes da adjudicação não poderão, em cada ano económico, exceder as seguintes importâncias, acrescidas de IVA:\n\n2006 - (euro) 7700000;\n\n2007 - (euro) 14884100.",
+    "depois": "3 - Estabelecer que os encargos resultantes da adjudicação são suportados no ano económico de 2006 através do orçamento do Serviço Nacional de Saúde, inscrito no Instituto de Gestão Informática e Financeira da Saúde.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:148408:por",
+    "alterador": "pt:dre:356349:por"
+  },
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - Determinar que a importância fixada para 2007 poderá ser acrescida do saldo apurado de 2006.",
+    "depois": "4 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:148408:por",
+    "alterador": "pt:dre:356349:por"
+  }
+]

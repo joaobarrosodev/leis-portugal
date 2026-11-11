@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Para o corrente ano, relativamente às indemnizações compensatórias com vencimento em 1 de Setembro de 1992, o prazo de inscrição ou reinscrição decorre entre 17 de Fevereiro e 31 de Março.\n\n2.º O prazo de reclamação relativo às indemnizações compensatórias de 1991 termina a 31 de Março do corrente ano.",
+    "depois": "1.º Para o corrente ano, relativamente às indemnizações compensatórias com vencimento em 1 de Setembro de 1993, o prazo de inscrição ou reinscrição decorre entre 15 de Março e 30 de Abril.\n\n2.º O prazo de reclamação relativo às indemnizações compensatórias de 1992 termina a 30 de Abril do corrente ano.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:152136:por",
+    "alterador": "pt:dre:678800:por"
+  }
+]

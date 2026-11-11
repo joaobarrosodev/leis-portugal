@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:672138:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o plano de estudos (anexo) passa a ser o do anexo da Portaria n.º 731/2002, cujos quadros só vêm em imagem; não é possível aplicar textualmente.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos em anexo, quadros só em imagem; não aplicado.",
+    "Alterador 1, 2.º e 3.º: normas próprias (transição, aplicação), não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:665970:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: as retificações incidem sobre o mapa I e as notas do mapa II, que só vêm em imagem (unidades 18 e 20). Alterador 2: adita um lugar ao quadro de pessoal do Centro Regional (aprovado pela Portaria n.º 289/88), não altera o texto da Portaria n.º 443/93.",
+  "instrucoes": [
+    "Alt. 1: retifica a coluna 'área funcional' do mapa I e as notas (a) e (d) do mapa II - mapas só em imagem, não aplicado.",
+    "Alt. 2: adita um lugar de técnico superior de 1.ª classe ao quadro de pessoal - dirigido ao quadro, não ao texto do original; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

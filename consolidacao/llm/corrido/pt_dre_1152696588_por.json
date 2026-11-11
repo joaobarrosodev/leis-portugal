@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:1152696588:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 10,
+      "texto": "2 - Atualize as verbas transferidas aos municípios para financiamento das refeições escolares do 1.º ciclo, em função dos custos reais suportados pelas autarquias, designadamente os decorrentes da inflação alimentar.\n\n3 - Garanta mecanismos periódicos de revisão das comparticipações atribuídas, considerando a evolução da inflação.\n\n4 - Atualize, de forma extraordinária e tecnicamente fundamentada, os montantes transferidos pela administração central às câmaras municipais, para o financiamento das refeições escolares, precedida de um levantamento que permita identificar os custos reais por refeição, as assimetrias existentes entre municípios e as situações de subfinanciamento efetivo.\n\n5 - Garanta que todos os alunos têm acesso a refeições escolares nutricionalmente adequadas, equilibradas, diversificadas e de qualidade equivalente, independentemente do tipo de estabelecimento de ensino ou regime de frequência, acautelando que nos estabelecimentos de ensino com contrato de associação não haja tratamento diferenciado entre alunos.\n\n6 - Estabeleça orientações claras para os estabelecimentos de ensino com contrato de associação, no sentido de assegurar que não existam práticas que resultem em tratamento diferenciado entre alunos no acesso a refeições, espaços ou serviços escolares, e promova, através da Inspeção-Geral da Educação e Ciência, ações de fiscalização com vista a apurar a eventual existência de práticas discriminatórias no acesso e na qualidade das refeições escolares.\n\n7 - Inste as câmaras municipais a avaliar, junto das escolas, a possibilidade de introduzir critérios de eficiência na gestão das cantinas escolares, nomeadamente no combate ao desperdício alimentar e na melhoria da gestão logística e de distribuição de alimentos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação dos n.os 2 a 7; unidades 5 a 10 substituídas pelo texto 'deve ler-se'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

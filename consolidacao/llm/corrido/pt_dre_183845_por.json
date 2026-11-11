@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:183845:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 352/2005 (n.º 1.º) dá nova redação aos anexos (planos de estudos), mas os quadros só vêm em imagem e a estrutura do novo anexo (um só anexo, por anos) não corresponde unidade a unidade aos anexos I e II originais (por semestres); não se aplica com segurança. Os n.os 2.º a 5.º são normas autónomas da portaria alteradora.",
+  "instrucoes": [
+    "Portaria 352/2005, 1.º: nova redação dos anexos I e II (quadros em imagem); não aplicada.",
+    "Portaria 352/2005, 2.º a 5.º: normas próprias (duração do semestre, opções, transição, aplicação), não dirigidas ao texto do original; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

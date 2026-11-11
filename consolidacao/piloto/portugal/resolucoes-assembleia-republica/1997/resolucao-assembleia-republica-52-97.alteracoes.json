@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Margarida Augusto Martins Blasco Telles de Abreu.",
+    "depois": "Maria Margarida Blasco Martins Augusto Telles de Abreu.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:196479:por",
+    "alterador": "pt:dre:667762:por"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:218964:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "2.º É ainda concedida uma restituição na utilização do amido de milho, ou de certos produtos derivados deste, para a elaboração das mercadorias constantes da lista anexa.",
+      "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "4.º A restituição prevista no n.º 2.º será equivalente à restituição para o mesmo efeito em vigor na Comunidade Económica Europeia, corrigida da diferença entre os preços de mercado do milho na Comunidade e em Portugal, multiplicada pelo coeficiente de 1,6.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2.º; substituída a unidade 10 (mantido o número 2.º).",
+    "Alterador 1, 2.º: nova redação do n.º 4.º; substituída a unidade 12 (mantido o número 4.º)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

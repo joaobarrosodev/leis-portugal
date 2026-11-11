@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:651689:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o plano de estudos de Informática de Gestão (anexo I, unidades 15-17) passa a ser o do anexo da Portaria 288/98, cujos quadros só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui o plano de estudos do anexo I por quadros só em imagem; não aplicado.",
+    "Alterador 1, 2.º e 3.º: aplicação e transição próprias; não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

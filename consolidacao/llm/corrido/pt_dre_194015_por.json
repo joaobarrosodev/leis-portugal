@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:194015:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 20528): o n.º 1.º muda a designação do Centro para Centro de Estudos de Serviço Social e Desenvolvimento Comunitário sem dar nova redação a nenhum ponto do original; o n.º 2.º e § único regulam os cursos da alínea c) do n.º 2.º sem alterar o texto; o n.º 3.º acrescenta dois especialistas ao conselho do Centro sem nova redação do n.º 3.º do original. São alterações não textuais. Alterador 2 (Decreto-Lei n.º 583/73): não traz texto no pedido.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova designação do Centro, sem nova redação; não aplicado.",
+    "Alterador 1, n.º 2.º e § único: organização dos cursos por despacho; não textual, nada feito.",
+    "Alterador 1, n.º 3.º: dois especialistas de serviço social passam a integrar o conselho; não textual, não aplicado.",
+    "Alterador 2: sem texto no pedido; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

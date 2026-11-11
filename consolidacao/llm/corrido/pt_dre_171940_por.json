@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:171940:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 48/92 rectifica rubricas (pp. 1242 e 1244) do mapa de transferências, que só existe em imagem no documento original (unidade 3); não há texto a alterar.",
+  "instrucoes": [
+    "Rectificação das rubricas 'Subdiv. 03, código 01.03.00', 'Subdiv. 05, código 01.02.00' e 'Cap. 02, div. 03, código 02.02.00': o texto só está no quadro em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

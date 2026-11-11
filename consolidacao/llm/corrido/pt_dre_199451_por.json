@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:199451:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As retificações da Declaração de Rectificação n.º 47/92 (Div. 01 em vez de Subdiv. 01, Cap. 02, div. 05, e C. E. 01.01.03 sem alínea A) incidem sobre os mapas de alterações orçamentais, que só existem em imagem (unidade 3); o texto a corrigir não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retifica designações nos mapas do Ministério dos Negócios Estrangeiros e do Ministério da Agricultura, Pescas e Alimentação; texto só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

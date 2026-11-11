@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:663172:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Despacho Normativo n.º 53/87), n.º 2: revoga o mapa «Universidades e outros» na parte respeitante à Universidade do Minho; o mapa só vem em imagem, por isso não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: fixa nova quota para a Universidade do Minho em mapa próprio (norma própria, não altera o texto).",
+    "Alterador 1, n.º 2: revogação parcial do mapa «Universidades e outros» (imagem); não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

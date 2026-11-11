@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:150728:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "Pela [Portaria n.º 1471/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1471-2002-451585), de 19 de Novembro, foi criada a zona de caça municipal de Veiga de Lila (processo n.º 3214-DGRF), situada no município de Valpaços, e transferida a sua gestão para o Clube de Caça e Pesca de Veiga de Lila.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: no preâmbulo, troca da entidade gestora para 'o Clube de Caça e Pesca de Veiga de Lila'; unidade 3 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

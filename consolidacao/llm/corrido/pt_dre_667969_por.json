@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:667969:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2: substituem o plano de estudos (anexo) por anexos que só vêm em imagem; o anexo do original também só está em imagem (unidade 20).",
+  "instrucoes": [
+    "Alt. 1, 1.º: o plano de estudos passa a ser o do anexo - só em imagem, não aplicado.",
+    "Alt. 1, 2.º: entrada em funcionamento da alteração - norma autónoma, não altera o texto do original.",
+    "Alt. 2, 1.º: o anexo passa a ter a redação do anexo da portaria - só em imagem, não aplicado.",
+    "Alt. 2, 2.º e 3.º: aplicação e transição - normas autónomas, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:152136:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 8,
+      "texto": "1.º Para o corrente ano, relativamente às indemnizações compensatórias com vencimento em 1 de Setembro de 1993, o prazo de inscrição ou reinscrição decorre entre 15 de Março e 30 de Abril.\n\n2.º O prazo de reclamação relativo às indemnizações compensatórias de 1992 termina a 30 de Abril do corrente ano.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 3.º: nova redação dos n.os 1.º e 2.º; substituídas as unidades 7 e 8. Os n.os 1.º e 2.º do alterador são normas autónomas, não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

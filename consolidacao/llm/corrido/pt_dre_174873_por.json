@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:174873:por",
+  "substituicoes": [
+    {
+      "de": 47,
+      "ate": 47,
+      "texto": "Escola Superior de Educação de Torres Novas\n\nCurso: Educação Física\n\nDiploma de estudos superiores especializados\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/299b00/68256825.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O conteúdo do novo anexo (plano de estudos) só vem em imagem: aplicou-se a parte textual e a ligação para o novo documento.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o anexo passa a ter a redação do anexo do alterador — substituída a unidade 47 pela parte textual do novo anexo e pela ligação ao novo documento (cabeçalho 46 mantém-se).",
+    "Alterador 1, 2.º: aplicação — norma própria do alterador, nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

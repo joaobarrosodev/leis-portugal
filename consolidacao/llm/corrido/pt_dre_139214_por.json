@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:139214:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 267/2006 altera o anexo (vagas do curso de Enfermagem de Saúde Infantil e Pediatria da ESS de Viseu) com um quadro que só vem em imagem; o anexo original também é só imagem. Não aplicada.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do anexo na parte das vagas de Viseu, só em quadro-imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

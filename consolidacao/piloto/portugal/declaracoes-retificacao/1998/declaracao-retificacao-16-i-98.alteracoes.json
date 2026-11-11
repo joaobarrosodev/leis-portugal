@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "No grupo de pessoal administrativo, onde se lê «Chefe de secção (c) - 2» deve ler-se «Chefe de secção (e) - 2».",
+    "depois": "No grupo de pessoal administrativo, onde se lê «Chefe de secção (c) - 2» deve ler-se «Chefe de secção (e) - 4».",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:211848:por",
+    "alterador": "pt:dre:235758:por"
+  }
+]

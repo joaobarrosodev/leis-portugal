@@ -1,0 +1,20 @@
+{"id": "pt:dre:219101:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.os 8.º e 9.º substituídos pela redacção da Portaria 653/88, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:219101:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "12.º substituído; 13.º com n.os 1 e 2 conforme 4.º.", "texto_esperado": ""}
+{"id": "pt:dre:219101:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "15.º substituído conforme 5.º.", "texto_esperado": ""}
+{"id": "pt:dre:219101:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:221157:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Rectificação do n.º 3.º aplicada.", "texto_esperado": ""}
+{"id": "pt:dre:221157:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:2223945:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Rectificação 42 para 53 militares aplicada; 'P 3' é a grafia da declaração.", "texto_esperado": ""}
+{"id": "pt:dre:2223945:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:222413:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 1.º-A aditado com o texto da Portaria 566/87.", "texto_esperado": ""}
+{"id": "pt:dre:222413:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:223047:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Alínea a) do n.º 3.º alterada.", "texto_esperado": ""}
+{"id": "pt:dre:223047:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "N.º 8.º (Embalagens) suprimido; o 8.º passa a encabeçar Rotulagem.", "texto_esperado": ""}
+{"id": "pt:dre:223047:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "10.º renumerado 9.º.", "texto_esperado": ""}
+{"id": "pt:dre:223047:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "11.º renumerado 10.º.", "texto_esperado": ""}
+{"id": "pt:dre:223047:por", "artigo": "Trecho 5", "veredicto": "certo", "motivo": "N.º 12.º suprimido.", "texto_esperado": ""}
+{"id": "pt:dre:223047:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:223240:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 8.º aditado.", "texto_esperado": ""}
+{"id": "pt:dre:223240:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:223242:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Redacção do número 'Regulamento' conforme Portaria 269/2006; só não se confirma que a 419/2004 conste do anexo (tabela em PDF).", "texto_esperado": ""}
+{"id": "pt:dre:223242:por", "instrucoes_em_falta": ["Portaria 199/2006, n.º 1.º, 2: o anexo da Portaria 419/2004 passa a ter a redacção do anexo da 199/2006 (quadro novo, ligação 15211522.pdf); nenhum trecho do anexo mudou no consolidado (ainda aponta para 25002502.pdf, se não foi tratado à parte)", "Portaria 199/2006, n.º 1.º, 1: desdobramento do curso em áreas de especialização, sem texto correspondente no original (dúvida)"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "possível: anexo (quadro) não actualizado"}

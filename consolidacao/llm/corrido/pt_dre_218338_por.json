@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:218338:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: substitui as taxas do tarifário anexo pelas do anexo da Portaria n.º 462/98, cujas tabelas só existem em imagem no documento original; o texto introdutório do novo tarifário é igual ao atual, e as tabelas (unidades 20, 22 e 24) não se podem aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º: alteração das taxas do tarifário anexo; tabelas só em imagem, não aplicada (nao_aplicavel).",
+    "Alterador 1, 2.º: entrada em vigor da portaria alteradora; não dirigida ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

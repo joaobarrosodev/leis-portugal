@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:214233:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 14,
+      "texto": "1.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 21,
+      "ate": 29,
+      "texto": "3.º - (Revogado.)\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n6.º - (Revogado.)\n\n7.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo 5.º, alínea c): revoga os n.os 1.º e 3.º a 7.º; unidades 9-14 (n.º 1.º com alíneas) e 21-29 (n.os 3.º a 7.º com alíneas) substituídas pelas marcas de revogação."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

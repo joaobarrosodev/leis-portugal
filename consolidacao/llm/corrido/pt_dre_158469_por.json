@@ -1,0 +1,42 @@
+{
+  "id": "pt:dre:158469:por",
+  "substituicoes": [
+    {
+      "de": 39,
+      "ate": 40,
+      "texto": "1 - No caso das ajudas a atribuir às acções 1, 2, 4, 5, 8 e 9, o processo de candidatura inicia-se com a apresentação pelo interessado, junto do serviço regional de agricultura competente, de uma proposta, de acordo com formulário a distribuir por esse mesmo serviço, a entregar:\n\na) No caso das acções 1, 2, 5, 8 e 9, até 31 de Maio de cada ano;",
+      "alterador": 1
+    },
+    {
+      "de": 47,
+      "ate": 47,
+      "texto": "a) No caso das acções 1, 2, 5, 8 e 9, pela Direcção-Geral da Pecuária (DGP), até 31 de Julho desse ano;",
+      "alterador": 1
+    },
+    {
+      "de": 52,
+      "ate": 52,
+      "texto": "1 - O pagamento das ajudas às acções 1, 2, 4, 5, 8 e 9 faz-se nos termos da alínea a) do n.º 11.º da [Portaria n.º 102/92](https://diariodarepublica.pt/dr/detalhe/portaria/102-1992-158465), de 19 de Fevereiro.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 29,
+      "texto": "i) Estudo da caracterização produtiva e qualitativa das raças bovinas autóctones.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: aditamento de uma acção 9 aos anexos I a III, cujo conteúdo só vem em imagem (anexo do alterador e anexos do original em documento original); não aplicado.",
+  "instrucoes": [
+    "1.º, n.º 3.º: aditada a alínea i) a seguir à alínea h) (inserção depois da unidade 29); restantes alíneas mantidas ([...]/...).",
+    "1.º, n.º 5.º: nova redação do ponto 1 e da alínea a) (unidades 39-40); alínea b) e ponto 2 mantidos.",
+    "1.º, n.º 6.º: nova redação da alínea a) do ponto 1 (unidade 47); resto mantido.",
+    "1.º, n.º 7.º: nova redação do ponto 1 (unidade 52); ponto 2 mantido.",
+    "2.º: aditamento da acção 9 aos anexos I a III, só em imagem: não aplicável.",
+    "3.º: norma transitória sobre candidaturas à acção 9, não altera o texto do original: ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

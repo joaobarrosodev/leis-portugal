@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:175488:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 958/2006), n.º 1.º: extingue a zona de caça associativa renovada pelo original; não revoga nem altera o texto da portaria (é um efeito material, não textual). Não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: extinção da zona de caça renovada pelo original — alteração não textual, nada mudado no texto.",
+    "Alterador 1, 2.º e 3.º: concessão de nova zona de caça turística — normas próprias do alterador, não dirigidas ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

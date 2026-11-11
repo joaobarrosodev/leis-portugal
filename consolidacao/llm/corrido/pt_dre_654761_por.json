@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:654761:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1145/2000 substitui o plano de estudos (anexo) pelo constante do seu anexo, que só vem em imagem (quadros no documento original); não há texto novo para aplicar.",
+  "instrucoes": [
+    "1.º novo plano de estudos (anexo): não aplicado, o novo anexo só vem em imagem.",
+    "2.º regime de registo do regulamento e 3.º aplicação: normas próprias, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

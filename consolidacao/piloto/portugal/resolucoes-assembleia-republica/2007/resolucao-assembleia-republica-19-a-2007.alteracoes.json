@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 2-2",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Orçamento suplementar da Assembleia da República para 2007",
+    "depois": "1.º orçamento suplementar da Assembleia da República para 2007",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:145664:por",
+    "alterador": "pt:dre:635808:por"
+  }
+]

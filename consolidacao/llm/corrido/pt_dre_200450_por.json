@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:200450:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 81/92 só traz o 'onde se lê' e o 'deve ler-se' em imagem, sobre mapas que também só existem em imagem (unidade 3); não aplicável textualmente.",
+  "instrucoes": [
+    "Alterador 1: retificação dos mapas de transferências de verbas, só em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

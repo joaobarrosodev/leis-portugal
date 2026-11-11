@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:141198:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "Curso de Relações Internacionais",
+      "alterador": 1
+    },
+    {
+      "de": 21,
+      "ate": 26,
+      "texto": "Grau de mestre\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/12/285b00/70707070.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 1168/2000, 1.º: o plano de estudos do curso passa a ser o constante do anexo da portaria; aplicada substituindo o conteúdo do anexo (mantido o título), com o quadro só em imagem (nova ligação).",
+    "2.º e 3.º (regulamento, aplicação) são normas próprias, não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

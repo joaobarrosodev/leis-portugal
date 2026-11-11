@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:659888:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 594/2006) extingue a zona de caça municipal criada pelo original e concessiona uma nova zona associativa; não altera nem revoga o texto do original (a menção à área de 238 ha está só no preâmbulo).",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: extinção da zona de caça municipal; não é alteração textual, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:179487:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 1327/2003 suprime a referência à UTAD (Chaves) no anexo I e altera para 40 as vagas da UTAD (Chaves) no anexo II; as tabelas dos anexos só vêm em imagem.",
+  "instrucoes": [
+    "1.º, n.º 1: supressão da UTAD (Chaves) na tabela do anexo I (só em imagem): não aplicada.",
+    "1.º, n.º 2: vagas da UTAD (Chaves) no anexo II passam a 40 (tabela só em imagem): não aplicada.",
+    "2.º: produção de efeitos, norma própria: nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

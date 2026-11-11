@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:188091:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º É reorganizada a Comissão de Protecção de Menores do Concelho de Porto Santo em Comissão de Protecção de Crianças e Jovens, que fica instalada em edifício da Câmara Municipal.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação no n.º 1.º, 'edifício do Tribunal Judicial' passa a 'edifício da Câmara Municipal'; unidade 6 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

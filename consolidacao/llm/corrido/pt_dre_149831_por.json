@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:149831:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "a) Com um lugar de primeiro-ajudante, o da Conservatória do Registo Predial de Torres Vedras, o das Conservatórias dos Registos Civil, Predial e Comercial de Ponte de Sor e de Salvaterra de Magos e o dos Cartórios Notariais de Arganil, Condeixa-a-Nova, Leiria (1.º e 2.º) e Évora (2.º), extinguindo-se o deste último quando vagar;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: retificação no n.º 4.º, alínea a), 'Évora' passa a 'Évora (2.º)'; unidade 9 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:173170:por",
+  "substituicoes": [
+    {
+      "de": 53,
+      "ate": 69,
+      "texto": "Curso de Turismo\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)\n\n2.º ciclo - Grau de licenciado\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: a mudança de denominação do curso para «Turismo» não é uma alteração textual do original (não manda substituir palavras em nenhum ponto); o n.º 1.º do original fica como está. Os quadros do novo anexo só vêm em imagem: aplicou-se a parte textual e as ligações para o novo documento.",
+  "instrucoes": [
+    "Alterador 1, 1.º: curso passa a denominar-se «Turismo» — alteração não textual, não aplicada ao texto (nao_aplicavel).",
+    "Alterador 1, 2.º: o anexo passa a ter a redação do anexo do alterador — substituídas as unidades 53 a 69 pela parte textual do novo anexo (o cabeçalho 52 mantém-se igual); quadros só em imagem.",
+    "Alterador 1, 3.º e 4.º: transição e aplicação — normas próprias do alterador, nada a mudar no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

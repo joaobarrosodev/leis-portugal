@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:193270:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 21038), n.º 1.º: altera para 300000$00 o limite fixado no n.º 1.º da Portaria n.º 19720 sem dar nova redação a esse número; é alteração de valor, não textual (o n.º 1.º do original refere-se, ele próprio, à Portaria n.º 18912). Os n.os 2.º a 4.º da Portaria n.º 21038 são regime próprio e não alteram expressamente o original.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: eleva o limite do n.º 1.º do original para 300000$00, sem nova redação; não aplicado (não textual).",
+    "Alterador 1, n.os 2.º a 4.º: regime próprio, não dirigido textualmente ao original; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

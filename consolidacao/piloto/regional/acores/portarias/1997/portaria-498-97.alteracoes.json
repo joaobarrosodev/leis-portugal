@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 27-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Diploma de estudos superiores especializados em Enfermagem de Saúde na Comunidade\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/166b00/36513652.pdf)",
+    "depois": "Diploma de estudos superiores especializados em Enfermagem na Comunidade\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/235b00/54605461.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:147424:por",
+    "alterador": "pt:dre:667312:por"
+  }
+]

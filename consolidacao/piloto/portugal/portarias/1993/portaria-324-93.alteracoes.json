@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "20/ml a 22 (mais ou menos) 1ºC às 72 (mais ou menos) horas;",
+    "depois": "20/ml a 22 (mais ou menos) 1ºC às 72 (mais ou menos) 4 horas;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:634492:por",
+    "alterador": "pt:dre:425573:por"
+  }
+]

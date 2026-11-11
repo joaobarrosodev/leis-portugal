@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º O curso criado no número anterior enquadra-se na família profissional de comércio e integra-se na área de educação e formação de Design (214), de acordo com a classificação aprovada pela [Portaria n.º 256/2005](https://diariodarepublica.pt/dr/detalhe/portaria/256-2005-572672), de 16 de Março.",
+    "depois": "2.º O curso criado no número anterior enquadra-se na família profissional de comércio e integra-se na área de educação e formação de comércio (341), de acordo com a classificação aprovada pela [Portaria n.º 256/2005](https://diariodarepublica.pt/dr/detalhe/portaria/256-2005-572672), de 16 de Março.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:147636:por",
+    "alterador": "pt:dre:640973:por"
+  },
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º A componente de formação científica do referido curso é constituída pelas disciplinas de História da Cultura e das Artes, Geometria Descritiva e Matemática, das quais as duas primeiras, conjuntamente com a disciplina de Português, serão sujeitas a avaliação sumativa externa concretizada na realização de exames nacionais, nos termos e para os efeitos estabelecidos no artigo 11.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, conjugado com os artigos 26.º, 27.º e 30.º a 33.º da [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio.",
+    "depois": "4.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:147636:por",
+    "alterador": "pt:dre:640973:por"
+  }
+]

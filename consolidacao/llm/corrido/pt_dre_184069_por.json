@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:184069:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 449/2006 (n.º 1.º) extingue a zona de caça municipal criada pelo original e anexa os terrenos a outra zona; é uma extinção do ato, não uma alteração ou revogação textual.",
+  "instrucoes": [
+    "Portaria 449/2006, 1.º: extinção da zona de caça municipal da Herdade da Mesquita e Anexos; não aplicada ao texto. Os n.os 2.º e 3.º respeitam à zona de caça turística da Herdade dos Clérigos."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:168624:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 11,
+      "texto": "b) (Revogada.)\n\nc) (Revogada.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "3.º da Portaria n.º 1115-D/94 revoga as alíneas b) e c) do n.º 1.º: unidades 10 e 11 passam a 'b) (Revogada.)' e 'c) (Revogada.)'.",
+    "Os n.os 1.º, 2.º e 4.º da Portaria n.º 1115-D/94 aprovam modelos próprios e não alteram o texto do original: nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

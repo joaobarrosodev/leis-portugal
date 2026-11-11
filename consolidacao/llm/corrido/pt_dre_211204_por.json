@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:211204:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 694/2004) revoga a concessão da zona de caça turística da Valeira atribuída pela portaria; é um ato administrativo de revogação da concessão, não uma alteração textual nem uma revogação expressa do texto do diploma.",
+  "instrucoes": [
+    "Alterador 1: revogação da concessão da zona de caça turística da Valeira — não é alteração textual; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

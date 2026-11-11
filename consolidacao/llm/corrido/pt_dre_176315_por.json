@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:176315:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 918/99 altera os quadros de zona pedagógica da DREN do mapa anexo de acordo com o quadro I, que só vem em imagem; não há texto para aplicar.",
+  "instrucoes": [
+    "1.º: altera os quadros do mapa anexo segundo o quadro I (só em imagem): não aplicado.",
+    "2.º: transição de professores, norma própria: nada a mudar no original.",
+    "3.º: altera a Portaria n.º 366/98, outro diploma: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1. Os pensionistas de invalidez ou velhice com incapacidade permanente para todo e qualquer trabalho que não possam dispensar a assistência constante de terceira pessoa, abrangidos pela Caixa Nacional de Pensões, terão direito a, uma prestação mensal suplementar igual a 20% do salário mínimo nacional.",
+    "depois": "1 - Os pensionistas de invalidez ou velhice com incapacidade permanente para todo e qualquer trabalho que não possam dispensar a assistência constante de terceira pessoa, abrangidos pela Caixa Nacional de Pensões, terão direito a uma prestação mensal suplementar na importância de 1000$00.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:160548:por",
+    "alterador": "pt:dre:434602:por"
+  }
+]

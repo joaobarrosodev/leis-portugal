@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:173876:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 (Portaria n.º 1076/2009) altera o n.º 1.º de uma Portaria n.º 1151/2002 da 2.ª série, de 5 de Agosto de 2002, sobre o Conselho Cinegético Municipal de Mesão Frio; o original é a Portaria n.º 1151/2002 de 28 de Agosto (plano de estudos de Gestão Turística, Cultural e Patrimonial), cujo n.º 1.º não tem esse conteúdo. Diploma homónimo errado; nada aplicado.",
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do n.º 1.º (composição do Conselho Cinegético de Mesão Frio) — dirigida a outro diploma com o mesmo número, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

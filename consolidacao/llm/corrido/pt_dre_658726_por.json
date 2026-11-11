@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:658726:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "c) 30% destinam-se ao pagamento das despesas inerentes ao funcionamento das Comissões Técnica de Medicamentos e de Revisão das Especialidades Farmacêuticas, designadamente serviços administrativos, pagamento de análises a efectuar em laboratórios públicos ou privados, à melhoria do equipamento necessário àquelas Comissões e ainda à formação e aperfeiçoamento profissional dos técnicos da Direcção-Geral de Assuntos Farmacêuticos, bem como a suportar as despesas com a participação dos técnicos desta Direcção-Geral em reuniões e comités no âmbito da Comunidade Europeia; por esta verba poderão ainda ser suportadas as despesas decorrentes da racionalização e organização administrativa, das acções de informação aos profissionais de saúde e utentes a desenvolver pela DGAF, das publicações técnicas inerentes àquelas acções e da informatização da mesma Direcção-Geral.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação da alínea c) (unidade 10); substituída depois pela redação do alterador 2.",
+    "Alterador 2: nova redação da alínea c) (unidade 10); aplicada como redação final."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

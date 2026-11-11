@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:673187:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria, e que dela faz parte integrante, sitos nas freguesias de Rio Maior, Malaqueijo, Arruda de Pisões, Ribeira de São João, Azambujeira e São João da Ribeira, município de Rio Maior, com a área de 2560,2728 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A. Exceptuam-se do número anterior as áreas não submetidos ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º; substituída a unidade 6.",
+    "Alterador 1: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 2: renovação e anexação de prédios, sem alteração textual do original; nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

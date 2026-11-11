@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:175549:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "1 - Os produtores que se encontrem nas condições definidas pela regulamentação comunitária e que pretendam beneficiar do prémo para manutenção dos efectivos de vacas aleitantes cujas explorações (ou unidades de produção) se localizem nos concelhos de Barrancos (freguesia de Barrancos), Mourão, Serpa (freguesia de Ficalho), Moura (freguesias de Santo Amador, Santo Aleixo, Safara, Póvoa de São Miguel, Sobral da Adiça e Amareleja) e Alandroal (freguesia de Capelins) podem apresentar a sua candidatura ao referido prémio no Instituto Nacional de Intervenção e Garantia Agrícola ou noutra entidade designada para o efeito, em modelo próprio, a fornecer por este Instituto, a partir do dia 15 de Março e até ao dia 15 de Maio.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1 — substituída a unidade 4 pelo texto do alterador, letra a letra (incluindo a gralha «prémo»)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pt:dre:140123:por",
+  "substituicoes": [
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "Curso de Gestão em Saúde",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 34,
+      "ate": 34,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 227/2006, 1.º: o anexo passa a ter a redação do anexo da portaria; aplicada mantendo o título do anexo: 'Curso em' passa a 'Curso de Gestão em Saúde' e as ligações dos quadros 1 a 4 passam às do alterador (quadros só em imagem).",
+    "2.º e 3.º (transição, aplicação) são normas próprias, não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

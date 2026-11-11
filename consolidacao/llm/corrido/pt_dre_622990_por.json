@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:622990:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 25,
+      "texto": "d) O beneficiário que não tenha atingido a densidade inicial de florestação mínima para efeitos de atribuição do prémio anual por hectare florestado, até 31 de Dezembro de 2004.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, n.º 6: altera os valores do anexo II, que só existe em imagem — não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 6: novos montantes do anexo II (quadro em imagem) — não aplicado (nao_aplicavel).",
+    "Alterador 1, restantes números: dirigidos a outros despachos — ignorados.",
+    "Alterador 2, n.º 4: adita a alínea d) ao n.º 9 — inserida depois da unidade 25.",
+    "Alterador 2, n.os 1 a 3, 5 e 6: normas interpretativas e entrada em vigor, sem alteração textual — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

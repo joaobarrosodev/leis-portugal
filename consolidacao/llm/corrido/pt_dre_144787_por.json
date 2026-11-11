@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:144787:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 22,
+      "texto": "## ANEXO — DINENSINO - Ensino, Desenvolvimento e Cooperação, C. R. L., Beja\n\nCurso de Sociologia Aplicada\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 2.º: o anexo passa a ter a redação do anexo da Portaria n.º 1396/2004; substituí as unidades 20-22 pelo novo anexo (cabeçalho, curso, grau e os quatro quadros, que só existem como ligação ao documento original, tal como no texto atual).",
+    "Alt. 1, 1.º: mudança de denominação do curso para Sociologia Aplicada, sem instrução textual sobre o articulado do original; nada a aplicar no texto além do anexo.",
+    "Alt. 1, 3.º a 7.º: normas próprias da Portaria n.º 1396/2004 (opções, duração, vagas, transição, aplicação), não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Referendado em 3 de Fevereiro de 1999.",
+    "depois": "Referendado em 3 de Março de 1999.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:158041:por",
+    "alterador": "pt:dre:632040:por"
+  }
+]

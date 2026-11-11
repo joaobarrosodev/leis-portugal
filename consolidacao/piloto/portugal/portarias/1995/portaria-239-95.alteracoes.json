@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 24",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "5.º-A\n\nSupranumerários\n\n1 - Para além das vagas fixadas nos termos do n.º 5.º, pode ainda ser criado um contingente especial destinado a estudantes nacionais dos países africanos de expressão portuguesa, desde que a candidatura seja apresentada previamente pela via diplomática, através do Departamento do Ensino Superior, no âmbito dos acordos de cooperação firmados pelo Estado Português.\n\n2 - O número de vagas deste contingente é fixado pelo presidente do Instituto e não pode ser superior a 10% das vagas fixadas nos termos do n.º 5.º\n\n3 - Os estudantes a que se refere o n.º 1 devem satisfazer as condições de acesso fixadas nos termos do n.º 3.º e estão sujeitos, se excederem o número de vagas fixadas nos termos do número anterior, às regras e critérios de selecção e seriação estabelecidos pela presente portaria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:173287:por",
+    "alterador": "pt:dre:685045:por"
+  }
+]

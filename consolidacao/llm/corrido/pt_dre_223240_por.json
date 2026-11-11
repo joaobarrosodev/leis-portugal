@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:223240:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 16,
+      "texto": "8.º É revogada a [Portaria n.º 1355/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1355-2003-431072), de 11 de Dezembro.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: adita o n.º 8.º (revoga a Portaria n.º 1355/2003); inserido a seguir à unidade 16 (n.º 7.º)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

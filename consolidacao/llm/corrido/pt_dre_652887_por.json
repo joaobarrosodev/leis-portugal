@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:652887:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 240/93 rectifica uma linha do mapa de despesa (Ministério da Educação, cap. 03), que no original só existe em imagem (unidade 3); não há texto onde aplicar.",
+  "instrucoes": [
+    "Rectificação de «3.02.0» para «3.01.0» no mapa da despesa: não aplicada, o mapa só vem em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Arbóreo-arbustivas: vinha, macieiras, pereiras, kiwis, pessegueiros, nogueiras, castanheiros, cerejeiras e olival;",
+    "depois": "a) Arbóreo-arbustivas: vinha, macieiras, pereiras, kiwis, pessegueiros, nogueiras, castanheiros, cerejeiras e olival, bem como a cultura da ameixeira na área da Direcção Regional de Agricultura do Alentejo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:664076:por",
+    "alterador": "pt:dre:147415:por;pt:dre:626390:por"
+  },
+  {
+    "artigo": "unidades 19-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - As entidades que recorram à linha de crédito de relançamento das actividades agro-pecuárias não têm acesso, na campanha de 1995-1996, para as actividades que constituem o objecto de crédito, às linhas de crédito de curto prazo criadas pelo [Decreto-Lei n.º 145/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1994-269594), de 24 de Maio.",
+    "depois": "2 - As entidades que recorram à linha de crédito de relançamento das actividades agro-pecuárias não têm acesso, na campanha de 1995-1996, para as actividades que constituem o objecto de crédito, às linhas de crédito de curto prazo criadas pelo [Decreto-Lei n.º 145/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1994-269594), de 24 de Maio, excepto se os valores unitários do crédito efectivamente utilizado forem inferiores aos fixados nas referidas linhas, podendo, nesse caso, os beneficiários ter acesso, para o crédito remanescente, às linhas de curto prazo previstas naquele diploma.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:664076:por",
+    "alterador": "pt:dre:147415:por;pt:dre:626390:por"
+  }
+]

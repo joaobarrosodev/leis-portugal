@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Fica a Unidade Local de Saúde do Alto Minho, E. P. E., autorizada a assumir um encargo até ao montante de 2 575 628,17 EUR (dois milhões, quinhentos e setenta e cinco mil, seiscentos e vinte e oito euros e dezassete cêntimos), a que acresce IVA à taxa legal em vigor, referente à empreitada de requalificação do bloco de partos do Hospital de Santa Luzia de Viana do Castelo.",
+    "depois": "1 - Fica a Unidade Local de Saúde do Alto Minho, E. P. E., autorizada a assumir um encargo plurianual até ao montante de 2 146 541,77 EUR (dois milhões, cento e quarenta e seis mil, quinhentos e quarenta e um euros e setenta e sete cêntimos), a que acresce IVA à taxa legal em vigor (IVA autoliquidação), referente à celebração do contrato de empreitada de requalificação do bloco de partos do Hospital de Santa Luzia de Viana do Castelo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:836630824:por",
+    "alterador": "pt:dre:1180337927:por"
+  },
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - O encargo resultante do contrato não excederá, no ano económico de 2024, a importância de 2 575 628,17 EUR, a que acresce IVA à taxa legal em vigor.",
+    "depois": "2 - Os encargos resultantes do contrato não excederão, em cada ano económico, as seguintes importâncias:\n\n2024: 0,00 EUR;\n\n2025: 825 921,60 EUR, a que acresce IVA à taxa legal em vigor;\n\n2026: 1 320 620,17 EUR, a que acresce IVA à taxa legal em vigor.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:836630824:por",
+    "alterador": "pt:dre:1180337927:por"
+  }
+]

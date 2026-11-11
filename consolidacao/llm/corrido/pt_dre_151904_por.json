@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:151904:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: nova redação do n.º 1.2.1, igual à primeira frase e sem o parágrafo da garantia alternativa; unidade 15 fica, unidade 16 eliminada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:202470:por",
+  "substituicoes": [
+    {
+      "de": 31,
+      "ate": 34,
+      "texto": "## ANEXO — (alteração à [Portaria n.º 677/97](https://diariodarepublica.pt/dr/detalhe/portaria/677-1997-202470), de 12 de Agosto)\n\nUniversidade Internacional da Figueira da Foz\n\nCurso de Direito\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)\n\nRamo Jurídico-Forense\n\nGrau de licenciado\n\nQUADRO N.º 5\n\n5.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)\n\nRamo Jurídico-Empresarial\n\nGrau de licenciado\n\nQUADRO N.º 6\n\n5.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: o plano de estudos passa a ser o do anexo da Portaria n.º 125/2001; anexo (unidades 31-34) substituído pelo texto desse anexo (quadros em imagem).",
+    "Alterador 1, n.os 2.º a 4.º: semanas lectivas, transição e aplicação são normas próprias do alterador, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

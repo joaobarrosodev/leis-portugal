@@ -524,7 +524,7 @@ Os ficheiros de trabalho (pedidos, respostas por passagem, vistas da ronda 23) e
 
 ## Originais sem artigos: texto corrido por unidades (`llm_corrido.py`)
 
-As rondas deste trabalho foram renumeradas ao juntar ao `main` (17 → 24, 18 → 25, 19 → 26, 20 → 27, 21 → 28, 22 → 29, 23 → 30, 24 → 31, 25 → 32, 26 → 33, 27 → 34, 28 → 35, 29 → 36), porque a frente B já usava os números 17 a 23 e o main já tinha as rondas 24 a 30 para outros diplomas.
+As rondas deste trabalho foram renumeradas ao juntar ao `main` (17 → 24, 18 → 25, 19 → 26, 20 → 27, 21 → 28, 22 → 29, 23 → 30, 24 → 31, 25 → 32, 26 → 33, 27 → 34, 28 → 35, 29 → 36, 30 → 37, 31 → 38), porque a frente B já usava os números 17 a 23 e o main já tinha as rondas 24 a 30 para outros diplomas.
 
 **Problema.** Dos 4.362 diplomas para o LLM, 2.697 têm um original sem artigos identificados (portarias "1.º, 2.º" em texto corrido, resoluções, despachos, declarações de retificação, bases). `juntar.py` e `llm_completo.py` recusam-nos ("original sem artigos: a resposta não tem onde encaixar").
 
@@ -608,6 +608,14 @@ Mais 120 diplomas (`llm/corrido-ids-bloco11.txt`, de 1 577 candidatos; 42 saltad
 ### Bloco 12 (ronda 36; no ramo de origem era a ronda 29)
 
 Mais 120 diplomas (`llm/corrido-ids-bloco12.txt`, de 1 457 candidatos; 42 saltados por tamanho). 66 sem alterações (a maioria anexos ou quadros só em imagem, ou revogação total), 52 juntados, 2 recusados. Ronda 29: 52 verificados às cegas, **42 sem reparos: 35 % do bloco (81 % dos verificados)**. Acumulado das rondas 17 a 29: **605 em 1 360 (44 %)**. Ficam cerca de 1 340 candidatos. A fatia sem alterações cresce: os candidatos que restam, por ordem de citações, têm cada vez mais quadros em imagem.
+
+### Bloco 13 (ronda 37; no ramo de origem era a ronda 30)
+
+Mais 120 diplomas (`llm/corrido-ids-bloco13.txt`, de 1 337 candidatos; 43 saltados por tamanho). 45 sem alterações, 73 juntados, 2 recusados. Ronda 30: 73 verificados às cegas, **61 sem reparos: 51 % do bloco (84 % dos verificados)**. Acumulado das rondas 17 a 30: **666 em 1 480 (45 %)**. Ficam cerca de 1 220 candidatos.
+
+### Bloco 14 (ronda 38; no ramo de origem era a ronda 31)
+
+Mais 120 diplomas (`llm/corrido-ids-bloco14.txt`, de 1 217 candidatos; 43 saltados por tamanho). 52 sem alterações, 67 juntados, 1 recusado. Ronda 31: 67 verificados às cegas, **53 sem reparos: 44 % do bloco (79 % dos verificados)**. Acumulado das rondas 17 a 31: **719 em 1 600 (45 %)**. Ficam cerca de 1 100 candidatos.
 
 ### Correções depois do bloco 1 e rondas 40 e 41
 

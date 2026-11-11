@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:160548:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1 - Os pensionistas de invalidez ou velhice com incapacidade permanente para todo e qualquer trabalho que não possam dispensar a assistência constante de terceira pessoa, abrangidos pela Caixa Nacional de Pensões, terão direito a uma prestação mensal suplementar na importância de 1000$00.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 12.º: nova redação do n.º 1 da Portaria n.º 144/75 (unidade 8), copiada do alterador.",
+    "Restantes artigos alteram outros diplomas (Decreto-Lei n.º 174-B/75, Decreto n.º 45266, Portaria n.º 94/77) ou são normas próprias: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

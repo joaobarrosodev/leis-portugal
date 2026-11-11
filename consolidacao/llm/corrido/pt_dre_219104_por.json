@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:219104:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 660/87 (1.º) substitui as tabelas de retribuições do anexo (Tabelas A e B) por novas tabelas que só vêm em imagem (documento original em PDF); não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui as tabelas do anexo à Portaria n.º 455/86 pelas do seu anexo, que só existem em imagem; não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

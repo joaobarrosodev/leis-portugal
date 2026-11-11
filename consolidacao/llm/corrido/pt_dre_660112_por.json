@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:660112:por",
+  "substituicoes": [
+    {
+      "de": 36,
+      "ate": 36,
+      "texto": "1 - O 1.º ciclo do curso pode começar a funcionar a partir do ano lectivo de 2003-2004, inclusive, um ano curricular em cada ano lectivo.\n\n2 - O 2.º ciclo do curso pode começar a funcionar a partir do ano lectivo de 2004-2005, inclusive.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 705/2005) substitui o anexo (plano de estudos), cujos quadros só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º, n.º 2: nova redação do n.º 8.º (corpo, unidade 36) em dois números.",
+    "Alterador 1, n.os 1 e 3: alteram as Portarias n.os 819/2003 e 821/2003; ignorados.",
+    "Alterador 2, n.º 1.º: novo anexo com quadros só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

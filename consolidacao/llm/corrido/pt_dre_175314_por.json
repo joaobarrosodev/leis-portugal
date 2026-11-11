@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:175314:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 60/92): retifica «C. E. 01.03.03 - Prestações complementares - 20» para «- 50» no cap. 01, div. 06, subdiv. 01; esse texto está no quadro que só vem em imagem (unidade 3), não no texto atual. Não aplicado.",
+  "instrucoes": [
+    "Alterador 1: retificação de um valor no mapa de alterações orçamentais — quadro só em imagem, não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

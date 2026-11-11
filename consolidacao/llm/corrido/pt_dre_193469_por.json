@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:193469:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O original é revogado por inteiro: a Portaria n.º 1315/2006, n.º 7.º, alínea b), revoga as restantes portarias mencionadas no n.º 5.º, entre as quais a Portaria n.º 24/99, de 15 de Janeiro (cujo curso é extinto pelo n.º 5.º).",
+  "instrucoes": [
+    "Alterador 1, n.º 5.º: extingue o curso técnico de produção audiovisual e multimédia criado pelo original.",
+    "Alterador 1, n.º 7.º, alínea b): revoga a Portaria n.º 24/99 por inteiro; nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

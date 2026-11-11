@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:159116:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Em 1992, o disposto nos n.os 5, 6 e 8 do n.º 4.º, na alínea c) do n.º 3 e n.os 4, 5 e 6 do n.º 5.º e no n.º 6.º da [Portaria n.º 29/90](https://diariodarepublica.pt/dr/detalhe/portaria/29-1990-333525), de 13 de Janeiro, é suspenso, vigorando em sua substituição o disposto nos n.os 2.º a 10.º seguintes.",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "4.º - 1 - O índice máximo de agravamento para as especialidades farmacêuticas cujo primeiro preço tenha sido autorizado depois de 1 de Outubro de 1991, bem como para as que se encontrem abrangidas pelo disposto na alínea c) do n.º 3 do n.º 5 da [Portaria n.º 29/90](https://diariodarepublica.pt/dr/detalhe/portaria/29-1990-333525), de 13 de Janeiro, será de 5%, já com a inclusão do IVA.\n\n2 - Ficam excluídas do disposto no número anterior as especialidades farmacêuticas abrangidas pelo disposto na alínea c) do n.º 3 do n.º 5.º da [Portaria n.º 29/90](https://diariodarepublica.pt/dr/detalhe/portaria/29-1990-333525), de 13 de Janeiro, cujos preços tenham sido baseados no preço do similar nacional para as quais será aplicado um índice igual ao do similar de referência.\n\n3 - Os preços resultantes da aplicação do n.º 1 anterior, se diferentes dos já calculados, serão comunicados pela Direcção-Geral de Concorrência e Preços (DGCP) às empresas no prazo máximo de 30 dias a contar da publicação da presente portaria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º: nova redação do n.º 1.º (unidade 8).",
+    "1.º: nova redação do n.º 4.º, agora com três números (unidade 15).",
+    "2.º: entrada em vigor do alterador, não altera o original: ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

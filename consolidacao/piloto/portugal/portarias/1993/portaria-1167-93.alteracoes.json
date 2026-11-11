@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 6-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º\n\nCriação\n\nO Instituto Politécnico de Viana do Castelo, através da sua Escola Superior de Tecnologia e Gestão, confere o grau de bacharel em Engenharia e Processamento dos Produtos de Pesca ministrando, em consequência, o respectivo curso.",
+    "depois": "1.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:686407:por",
+    "alterador": "pt:dre:689639:por"
+  },
+  {
+    "artigo": "unidades 9-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º\n\nRamos\n\nO curso de bacharelato em Engenharia e Processamento dos Produtos de Pesca desdobra-se nos ramos de:\n\na) Tecnologias de Transformação do Pescado;\n\nb) Gestão de Equipamentos e Instalações de Pescas.",
+    "depois": "2.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:686407:por",
+    "alterador": "pt:dre:689639:por"
+  },
+  {
+    "artigo": "unidades 14-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º\n\nOpção pelos ramos\n\n1 - A opção por cada um dos ramos a que se refere o n.º 2.º faz-se no acto de inscrição no 2.º ano curricular.\n\n2 - Em cada ano lectivo, a admissão de novos alunos para um ramo está sujeita a limitações quantitativas mínimas e máximas.\n\n3 - O número mínimo de inscrições indispensável à admissão de novos alunos num ramo é de 20.\n\n4 - O número máximo de alunos a admitir em cada ramo é fixado pela comissão instaladora do Instituto, sob proposta da comissão instaladora da Escola.\n\n5 - Será sempre assegurado o funcionamento de um ramo.",
+    "depois": "3.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:686407:por",
+    "alterador": "pt:dre:689639:por"
+  },
+  {
+    "artigo": "unidades 21-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º\n\nPlano de estudos\n\nO plano de estudos do curso a que se refere o n.º 1.º é o constante do anexo à presente portaria.",
+    "depois": "4.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:686407:por",
+    "alterador": "pt:dre:689639:por"
+  }
+]

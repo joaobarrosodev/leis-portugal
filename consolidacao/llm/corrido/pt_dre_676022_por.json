@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:676022:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 substituem os planos de estudos do anexo (variantes de Matemática e Ciências da Natureza e de Educação Visual e Tecnológica) por quadros que só vêm em imagem no documento original; não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos da variante de Matemática e Ciências da Natureza (anexo em imagem) - não aplicado, ver nao_aplicavel.",
+    "Alterador 1, 2.º a 4.º: normas próprias (duração do ano lectivo, transição, aplicação), não alteram o texto do original - ignorado.",
+    "Alterador 2, 1.º: novo plano de estudos da variante de Educação Visual e Tecnológica (anexo em imagem) - não aplicado, ver nao_aplicavel.",
+    "Alterador 2, 2.º a 4.º: normas próprias, não alteram o texto do original - ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

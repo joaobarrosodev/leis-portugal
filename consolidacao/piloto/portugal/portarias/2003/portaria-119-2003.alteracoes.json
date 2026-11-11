@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por dois iguais períodos, ao Clube de Caça e Pesca Dom Dinis, com o número de pessoa colectiva 502427752 e sede na Rua do Padre Magalhão, 2400-761 Amor, a zona de caça associativa de Amor (processo n.º 3294-DGF), englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Amor, município de Leiria, com uma área de 2347,23 ha.",
+    "depois": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por dois períodos iguais, ao Clube de Caça e Pesca D. Dinis, com o número de pessoa colectiva 502427752 e sede na Rua do Padre Magalhão, 2400-761 Amor, a zona de caça associativa de Amor (processo n.º 3294-DGRF), englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Amor, município de Leiria com a área de 1992 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:167381:por",
+    "alterador": "pt:dre:228376:por"
+  }
+]

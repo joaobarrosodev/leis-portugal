@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:194625:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 12,
+      "texto": "1 - O número de novos alunos a admitir anualmente não pode exceder 60.\n\n2 - A frequência global do curso não pode exceder 240 alunos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 18,
+      "texto": "4.º-A\n\nDuração do semestre lectivo\n\nO número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.\n\n4.º-B\n\nEstágio\n\nA unidade curricular Estágio realiza-se nos termos fixados por regulamento a aprovar pelo órgão legal e estatutariamente competente do estabelecimento de ensino.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: o anexo (plano de estudos) passa a ter nova redação, mas os quadros só vêm em imagem no documento original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2.º; epígrafe igual, substituídos os n.os 1 e 2 (unidades 11-12).",
+    "Alterador 1, 2.º: novo anexo só em imagem; não aplicado (nao_aplicavel).",
+    "Alterador 1, 3.º: aditados os n.os 4.º-A e 4.º-B, inseridos a seguir à unidade 18.",
+    "Alterador 1, 4.º e 5.º: normas próprias (transição, aplicação), não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

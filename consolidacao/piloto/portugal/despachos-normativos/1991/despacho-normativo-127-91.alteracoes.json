@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) 30% destinam-se ao pagamento das despesas inerentes ao funcionamento das Comissões Técnica de Medicamentos e de Revisão das Especialidades Farmacêuticas, designadamente serviços administrativos, pagamento de análises a efectuar em laboratórios públicos ou privados, à melhoria do equipamento necessário àquelas Comissões e ainda à formação e aperfeiçoamento profissional dos técnicos da Direcção-Geral de Assuntos Farmacêuticos.",
+    "depois": "c) 30% destinam-se ao pagamento das despesas inerentes ao funcionamento das Comissões Técnica de Medicamentos e de Revisão das Especialidades Farmacêuticas, designadamente serviços administrativos, pagamento de análises a efectuar em laboratórios públicos ou privados, à melhoria do equipamento necessário àquelas Comissões e ainda à formação e aperfeiçoamento profissional dos técnicos da Direcção-Geral de Assuntos Farmacêuticos, bem como a suportar as despesas com a participação dos técnicos desta Direcção-Geral em reuniões e comités no âmbito da Comunidade Europeia; por esta verba poderão ainda ser suportadas as despesas decorrentes da racionalização e organização administrativa, das acções de informação aos profissionais de saúde e utentes a desenvolver pela DGAF, das publicações técnicas inerentes àquelas acções e da informatização da mesma Direcção-Geral.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:658726:por",
+    "alterador": "pt:dre:623836:por"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:145664:por",
+  "substituicoes": [
+    {
+      "de": 2,
+      "ate": 2,
+      "texto": "1.º orçamento suplementar da Assembleia da República para 2007",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 1 (Declaração de Rectificação n.º 64/2007), 2.ª parte: no mapa das receitas, 1.º PAR 2007 suplementar passa a 1.º OAR 2007 suplementar; o mapa só vem em imagem (unidade 7) e esse texto não existe no texto atual.",
+  "instrucoes": [
+    "Alt. 1: retificação do título (unidade 2), aplicada.",
+    "Alt. 1: retificação no mapa das receitas (PAR para OAR), não aplicada por o mapa só existir em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

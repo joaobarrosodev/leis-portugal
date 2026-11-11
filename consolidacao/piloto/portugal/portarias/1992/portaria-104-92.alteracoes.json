@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 32-36",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Para efeitos da presente secção são consideradas as seguintes despesas e respectivos custos máximos:\n\na) Máquinas automotrizes de colheita - até 350 contos por hectare;\n\nb) Plantadores, semeadores, armadores e arrancadores - até 1000 contos por hectare.\n\n2 - As despesas com a aquisição das máquinas referidas na alínea a) do ponto anterior só são elegíveis quando se trate de áreas com, pelo menos, 50 ha.\n\n3 - As despesas com a aquisição das máquinas referidas na alínea b) do ponto 1 só são elegíveis quando se trate de áreas com, pelo menos, 2 ha.",
+    "depois": "1 - Para efeitos da presente secção, são consideradas as despesas com a aquisição de:\n\na) Máquinas de colheita automotrizes;\n\nb) Máquinas de colheita rebocáveis;\n\nc) Plantadores, semeadores, armadores, arrancadores e sachadores.\n\n2 - As despesas com a aquisição das máquinas referidas na alínea a) do número anterior só são elegíveis quando se trate de:\n\na) Áreas com, pelo menos, 30 ha;\n\nb) Máquinas cuja potência seja igual ou superior a 70 cv.\n\n3 - As despesas com a aquisição das máquinas referidas na alínea b) do n.º 1 só são elegíveis, no caso da cultura do tomate de indústria, quando se trate de áreas com, pelo menos, 10 ha.\n\n4 - As despesas com a aquisição das máquinas referidas na alínea c) do n.º 1 só são elegíveis quando se trate de áreas com, pelo menos, 2 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:158461:por",
+    "alterador": "pt:dre:656141:por"
+  },
+  {
+    "artigo": "unidades 87-88",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Ajudas à mecanização e a culturas protegidas\n\n1 - O processo de candidatura às ajudas a atribuir às acções referidas nas alíneas a) e b) do n.º 3.º inicia-se com a apresentação pelos interessados, junto do serviço regional de agricultura competente, de uma ficha de inscrição, de acordo com modelo a distribuir por esse mesmo serviço, até ao último dia do mês de Fevereiro de cada ano.",
+    "depois": "Ajudas às culturas protegidas\n\n1 - O processo de candidatura às ajudas a atribuir às acções referidas na alínea b) do n.º 3.º inicia-se com a apresentação pelos interessados, junto do serviço regional de agricultura competente, de uma ficha de inscrição, de acordo com modelo a distribuir por esse serviço, até ao último dia do mês de Fevereiro de cada ano.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:158461:por",
+    "alterador": "pt:dre:656141:por"
+  },
+  {
+    "artigo": "depois da unidade 92",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "15.º-A\n\nAjudas à mecanização\n\n1 - No caso das ajudas a atribuir à acção prevista na alínea a) do n.º 3.º, o processo de candidatura inicia-se com a apresentação pelos interessados, junto do serviço regional de agricultura competente, de um projecto de investimento, até ao último dia do mês de Fevereiro de cada ano.\n\n2 - Os projectos apresentados devem ser acompanhados de elementos comprovativos dos requisitos de acesso às ajudas e das declarações em que sejam assumidos os compromissos exigidos para a sua concessão.\n\n3 - Os projectos apresentados serão objecto de análise e decisão até 31 de Março de cada ano.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:158461:por",
+    "alterador": "pt:dre:656141:por"
+  }
+]

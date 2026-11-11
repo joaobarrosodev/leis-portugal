@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:172321:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Casa Branca, município de Sousel, com a área de 817 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 2.º da Portaria 1371/2004 substitui a planta anexa pela apensa a essa portaria, que só existe em imagem; a planta (unidade 19) não foi alterada.",
+  "instrucoes": [
+    "1.º da Portaria 1371/2004: nova redacção do n.º 2.º (área de 817 ha); substituída a unidade 7.",
+    "2.º da Portaria 1371/2004: substituição da planta anexa (imagem); não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

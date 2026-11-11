@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 28-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50155017.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50155017.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50155017.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50155017.pdf)",
+    "depois": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:139756:por",
+    "alterador": "pt:dre:687040:por"
+  },
+  {
+    "artigo": "unidades 31-31",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50155017.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50155017.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50155017.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50155017.pdf)",
+    "depois": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:139756:por",
+    "alterador": "pt:dre:687040:por"
+  },
+  {
+    "artigo": "unidades 34-34",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50155017.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50155017.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50155017.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50155017.pdf)",
+    "depois": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:139756:por",
+    "alterador": "pt:dre:687040:por"
+  },
+  {
+    "artigo": "unidades 35-37",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "QUADRO N.º41\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50155017.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50155017.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50155017.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50155017.pdf)",
+    "depois": "QUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:139756:por",
+    "alterador": "pt:dre:687040:por"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:210653:por",
+  "substituicoes": [
+    {
+      "de": 43,
+      "ate": 46,
+      "texto": "O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o novo anexo (plano de estudos) só vem em imagem; não aplicado. 2.º e 3.º do alterador 1 são normas autónomas.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição do anexo por quadro em imagem, não aplicada",
+    "Alterador 2, 1.º: nova redação do número com a epígrafe Regulamento (10.º), corpo (unidades 43-46) substituído"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

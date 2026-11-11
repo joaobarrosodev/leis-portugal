@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:662477:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 388/90) dá nova redação ao anexo I (plano de estudos), que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o anexo I passa a ter a redação do anexo da portaria (só em imagem); não aplicado. 2.º e 3.º são normas próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

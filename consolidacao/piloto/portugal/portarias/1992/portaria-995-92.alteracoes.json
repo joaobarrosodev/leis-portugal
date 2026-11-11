@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º A presente portaria entra em vigor no dia 1 de Setembro de 1992.",
+    "depois": "3.º A presente portaria entra em vigor no dia imediato ao da sua publicação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:221157:por",
+    "alterador": "pt:dre:627598:por"
+  }
+]

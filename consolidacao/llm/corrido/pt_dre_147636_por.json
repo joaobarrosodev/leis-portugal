@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:147636:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "2.º O curso criado no número anterior enquadra-se na família profissional de comércio e integra-se na área de educação e formação de comércio (341), de acordo com a classificação aprovada pela [Portaria n.º 256/2005](https://diariodarepublica.pt/dr/detalhe/portaria/256-2005-572672), de 16 de Março.",
+      "alterador": 1
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "4.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.os 2.º e 3.º: alterações ao plano de estudos do anexo n.º 1 e sua republicação; o quadro só existe em imagem (ver documento original), não há texto onde aplicar.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 2.º (área 341 - comércio); substituída a unidade 11.",
+    "Alt. 1, 2.º: alterações ao plano de estudos (Língua Estrangeira, chamada de nota); quadro em imagem, não aplicado.",
+    "Alt. 1, 3.º: republicação do plano de estudos em anexo, só em imagem; não aplicado.",
+    "Alt. 1, 4.º: revogado o n.º 4.º; unidade 13 passa a '4.º - (Revogado.)'.",
+    "Alt. 1, 5.º: produção de efeitos; não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

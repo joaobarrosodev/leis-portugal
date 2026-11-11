@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:138814:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 10-U/99 rectifica apenas o sumário da portaria, que não faz parte do texto por unidades; nada a mudar no texto.",
+  "instrucoes": [
+    "Alterador 1: rectificação do sumário (Escolas Técnicas dos Serviços de Saúde / Escola de Reabilitação do Alcoitão); o sumário não está no texto, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

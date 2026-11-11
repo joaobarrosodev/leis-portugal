@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - É criado no quadro de pessoal da Direcção-Geral das Alfândegas, constante da [Portaria n.º 54/88](https://diariodarepublica.pt/dr/detalhe/portaria/54-1988-282698), de 27 de Janeiro, um lugar de primeiro-verificador superior, a extinguir quando vagar.",
+    "depois": "1 - É criado no quadro de pessoal da Direcção-Geral das Alfândegas, constante da [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar de primeiro-verificador superior, a extinguir quando vagar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:168455:por",
+    "alterador": "pt:dre:425709:por"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:139769:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 229/79, 1.º: altera prazos mínimos do quadro do n.º 1 da Portaria 209/77, mas tanto o quadro original como os novos prazos só vêm em imagem (ver documento original); não aplicável com segurança.",
+  "instrucoes": [
+    "Portaria 229/79, 1.º: alteração dos prazos do quadro do n.º 1 (só em imagem): não aplicada.",
+    "Portaria 229/79, 2.º: manutenção em vigor do resto; nada a alterar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:148860:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "Capitão-de-mar-e-guerra ou capitão-de-fragata ... 1",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: alterado o n.º 1 na parte do posto de capitão-de-mar-e-guerra; unidade 5 substituída, restantes linhas mantidas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

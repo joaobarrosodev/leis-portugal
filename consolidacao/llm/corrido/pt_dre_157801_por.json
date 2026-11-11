@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:157801:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º Pela presente portaria é renovada, por um período de 12 anos, renovável automaticamente por um período igual, a concessão da zona da caça associativa da Herdade das Estacas (processo n.º 156-DGRF), abrangendo vários prédios rústicos sitos na freguesia de Vimieiro, município de Arraiolos, com a área de 588 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: no n.º 1.º, 'com uma área de 558 ha' passa a 'com uma área de 588 ha'; o texto atual diz 'com a área', e as duas citações só diferem no número, por isso trocado só 558 por 588 na unidade 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

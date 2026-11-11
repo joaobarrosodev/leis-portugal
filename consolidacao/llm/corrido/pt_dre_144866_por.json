@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:144866:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 1 (Declaração de Rectificação n.º 58/92): retifica, na despesa, em 14 - Ministério da Educação, cap. 50, div. 12, subdiv. 05, a designação DREC - Apetrechamento das instalações do ensino básico/Centro; esse texto está no mapa da despesa que só vem em imagem (unidade 4) e não existe no texto atual.",
+  "instrucoes": [
+    "Alt. 1: retificação de uma designação no mapa da despesa (Ministério da Educação); o mapa só existe como imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

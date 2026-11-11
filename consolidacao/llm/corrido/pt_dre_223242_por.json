@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:223242:por",
+  "substituicoes": [
+    {
+      "de": 43,
+      "ate": 46,
+      "texto": "O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 199/2006): a nova redação do anexo (plano de estudos) só vem em imagem e o desdobramento do curso em áreas de especialização (1.º n.º 1) não é uma alteração textual do original; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º n.º 1: desdobra o curso em quatro áreas de especialização, sem alteração textual do original; não aplicado (nao_aplicavel).",
+    "Alterador 1, 1.º n.º 2: substitui o anexo pelo anexo da Portaria n.º 199/2006, que só vem em imagem; não aplicado (nao_aplicavel).",
+    "Alterador 2, 1.º: nova redação do número com a epígrafe Regulamento (n.º 10.º) das portarias do anexo (tabela em imagem; assume-se que inclui esta portaria, dada como alterada); substituído o corpo, unidades 43-46, por um só parágrafo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

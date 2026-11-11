@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 21-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Curso em Gestão em Saúde",
+    "depois": "Curso de Gestão em Saúde",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:140123:por",
+    "alterador": "pt:dre:687042:por"
+  },
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)",
+    "depois": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:140123:por",
+    "alterador": "pt:dre:687042:por"
+  },
+  {
+    "artigo": "unidades 28-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)",
+    "depois": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:140123:por",
+    "alterador": "pt:dre:687042:por"
+  },
+  {
+    "artigo": "unidades 31-31",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)",
+    "depois": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:140123:por",
+    "alterador": "pt:dre:687042:por"
+  },
+  {
+    "artigo": "unidades 34-34",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)",
+    "depois": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:140123:por",
+    "alterador": "pt:dre:687042:por"
+  }
+]

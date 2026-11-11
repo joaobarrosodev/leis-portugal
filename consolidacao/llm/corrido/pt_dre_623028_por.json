@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:623028:por",
+  "substituicoes": [
+    {
+      "de": 29,
+      "ate": 30,
+      "texto": "Curso de Publicidade e Marketing\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)\n\nOpção: Publicidade\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)\n\nOpção: Marketing\n\nQUADRO N.º 4\n\n3.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)\n\n2.º ciclo - Grau de licenciado\n\nRamo: Publicidade\n\nQUADRO N.º 5\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)\n\nRamo: Marketing\n\nQUADRO N.º 6\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: substitui só o quadro n.º 2, mas no original os quadros estão todos numa única ligação de imagem (unidade 30), sem quadro n.º 2 identificável; de qualquer modo o anexo inteiro foi depois substituído pelo alterador 2.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do quadro n.º 2 (só em imagem, sem unidade própria no original) — não aplicada (nao_aplicavel); ficou absorvida pelo alterador 2.",
+    "Alterador 2, n.º 1.º: o plano de estudos passa a ser o do anexo — substituídas as unidades 29-30 pelo texto do novo anexo (mantêm-se o título e a Escola, iguais).",
+    "Alteradores 1 e 2, n.os 2.º e 3.º: transição e aplicação próprias — sem alteração ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

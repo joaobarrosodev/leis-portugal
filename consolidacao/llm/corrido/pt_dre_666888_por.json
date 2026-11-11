@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:666888:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, Único: muda a designação do curso para Análises Clínicas e de Saúde Pública, mas não dá nova redação a nenhum ponto do original; é uma alteração de denominação, não textual, e não se reescrevem por inferência as menções ao curso (unidades 10 e 41).",
+  "instrucoes": [
+    "Alt. 1, Único: o curso de Análises Químico-Biológicas passa a designar-se Análises Clínicas e de Saúde Pública - sem nova redação do texto, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

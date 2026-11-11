@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:622986:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 18,
+      "texto": "a) Arborização - 1419 ECU/ha;\n\nb) Melhoria das superfícies florestais - até 709,5 ECU/ha, para o conjunto dos investimentos realizados e com as seguintes limitações:",
+      "alterador": 1
+    },
+    {
+      "de": 20,
+      "ate": 24,
+      "texto": "Limpeza de mato - 354,6 ECU/ha;\n\nPodas de formação - 248,2 ECU/ha;\n\nAdensamento - 260 ECU/ha;\n\nLimpezas de povoamento - 130 ECU/ha;\n\nFertilizações - 118,2 ECU/ha;",
+      "alterador": 1
+    },
+    {
+      "de": 26,
+      "ate": 32,
+      "texto": "Limpeza de mato - 354,6 ECU/ha;\n\nLimpeza de povoamento - 354,6 ECU/ha;\n\nDesramações - 272 ECU/ha;\n\nFertilizações - 118,2 ECU/ha;\n\nPodas (excepto azinheira) - 354,6 ECU/ha;\n\nAdensamento - 425,5 ECU/ha;\n\nc) Cortinas de abrigo - 662 ECU/ha;",
+      "alterador": 1
+    },
+    {
+      "de": 34,
+      "ate": 36,
+      "texto": "i) Construção da rede viária - 5910 ECU/km;\n\nii) Construção da rede divisional e de pontos de água - 945,5 ECU/km e 5320 ECU/unidade, respectivamente, não podendo exceder, no seu conjunto, 94,6 ECU/ha;\n\ne) Equipamento mecânico: custos de adaptação do material agrícola para trabalhos florestais - até 10% do montante do investimento total e com o limite máximo de 7095 ECU.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 3: altera os montantes do n.º 4 (alíneas a), b), b) i), b) ii), c), d) i), d) ii), e)) — substituídos os valores nas unidades 17-18, 20-24, 26-32 e 34-36.",
+    "Alterador 1, n.os 1, 2, 4, 5, 6 e 7: dirigidos a outros despachos ou entrada em vigor — ignorados.",
+    "Alterador 2: é o mesmo Despacho Normativo n.º 247/94 repetido; as mesmas alterações já ficaram aplicadas, nada mais a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

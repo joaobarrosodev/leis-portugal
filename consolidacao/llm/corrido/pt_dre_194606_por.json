@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:194606:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "2.º São repristinadas as Portarias n.os 853/85 e [235/89](https://diariodarepublica.pt/dr/detalhe/portaria/235-1989-614674), respectivamente de 9 de Novembro e de 29 de Março.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Declaração de Rectificação n.º 15-L/97): no n.º 2, onde se lê «São repristinadas as Portarias n.os 853/86» deve ler-se «853/85»; trocado na unidade 8 (o sumário não está no texto)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

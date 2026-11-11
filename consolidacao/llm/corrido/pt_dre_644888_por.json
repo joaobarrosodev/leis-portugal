@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:644888:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 22,
+      "texto": "4.º-A\n\nSupranumerários\n\n1 - Para além das vagas fixadas nos termos do n.º 4.º, pode ainda ser criado um contingente especial destinado a estudantes nacionais dos países africanos de expressão portuguesa, desde que a sua candidatura seja apresentada previamente pela via diplomática, no âmbito dos acordos de cooperação firmados pelo Estado Português.\n\n2 - O número de vagas deste contingente é fixado pelo director da Escola e não pode ser superior a 10% das vagas fixadas nos termos do n.º 4.º\n\n3 - Os estudantes a que se refere o n.º 1 devem satisfazer as condições de acesso fixadas nos termos do n.º 3.º e estão sujeitos, se excederem o número de vagas fixadas nos termos do n.º 4.º, às regras e critérios de selecção e seriação estabelecidos pela presente portaria.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 87,
+      "texto": "15.º-A\n\nHorário pós-laboral\n\nO curso pode funcionar em horário pós-laboral, com o plano de estudos e duração fixados pelos n.os 14.º e 15.º",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º, n.º 1: adita o n.º 4.º-A (Supranumerários); inserido depois da unidade 22.",
+    "Alterador 1, 1.º, n.º 2: adita o n.º 15.º-A (Horário pós-laboral); inserido depois da unidade 87.",
+    "Alterador 1, 2.º e 3.º: vagas para 1997-1998 e vigência; não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

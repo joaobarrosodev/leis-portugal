@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:2223945:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "a) Aprontar e empregar um destacamento aéreo constituído por uma aeronave P 3, tripulação e pessoal de apoio em terra, num total de 53 militares a qual ficará colocada na sua dependência directa; a duração da missão terá um período máximo de dois meses, com início em Abril de 2011;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: rectifica a alínea a) do n.º 1 (42 passa a 53 militares); substituída a unidade 9 com o troço rectificado copiado do alterador ('P 3') e o resto da unidade mantido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

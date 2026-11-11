@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:208849:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: as duas rectificações (p. 1843 e p. 1844) incidem sobre os mapas que só existem em imagem (unidade 3, documento original); não aplicáveis ao texto.",
+  "instrucoes": [
+    "Rectificação p. 1843 'Cap. 13' -> 'Cap. 03': mapa em imagem, não aplicada",
+    "Rectificação p. 1844 'div. 09' -> 'div. 19': mapa em imagem, não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

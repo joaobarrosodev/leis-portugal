@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:179490:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 1049/2003 dá nova redação ao anexo III, mas a nova tabela só vem em imagem; o título e o subtítulo do anexo III ficam iguais.",
+  "instrucoes": [
+    "1.º: nova redação do anexo III (tabela só em imagem): não aplicada.",
+    "2.º: produção de efeitos, norma própria: nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

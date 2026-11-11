@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:172519:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 18,
+      "texto": "1 - O número máximo de novos alunos a admitir anualmente não pode exceder 120.\n\n2 - A frequência global do curso não pode exceder 480 alunos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º da Portaria 689/2003: nova redacção do n.º 3.º (120 novos alunos, 480 de frequência global); número e epígrafe iguais, substituídas só as unidades 17-18.",
+    "2.º da Portaria 689/2003 (aplicação a partir de 2003-2004) é norma própria do alterador, sem alteração textual ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

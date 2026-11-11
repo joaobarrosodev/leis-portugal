@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É reorganizada a Comissão de Protecção de Menores do Concelho de Porto Santo em Comissão de Protecção de Crianças e Jovens, que fica instalada em edifício do Tribunal Judicial.",
+    "depois": "1.º É reorganizada a Comissão de Protecção de Menores do Concelho de Porto Santo em Comissão de Protecção de Crianças e Jovens, que fica instalada em edifício da Câmara Municipal.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:188091:por",
+    "alterador": "pt:dre:621328:por"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:144783:por",
+  "substituicoes": [
+    {
+      "de": 21,
+      "ate": 22,
+      "texto": "Curso de Sociologia Aplicada\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25602562.pdf)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25602562.pdf)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25602562.pdf)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25602562.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25602562.pdf)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25602562.pdf)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25602562.pdf)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25602562.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25602562.pdf)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25602562.pdf)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25602562.pdf)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25602562.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25602562.pdf)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25602562.pdf)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25602562.pdf)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25602562.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 329/2003, 1.º: o curso passa a designar-se Sociologia Aplicada; não altera texto do original fora do anexo (reflete-se na nova redação do anexo).",
+    "Portaria 329/2003, 2.º: o anexo passa a ter a redação do anexo da portaria; aplicada substituindo o conteúdo do anexo (mantido o título), quadros 1 a 4 só em imagem (ligações do alterador).",
+    "3.º a 7.º (opções, duração, número de alunos, transição, aplicação) são normas próprias, não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

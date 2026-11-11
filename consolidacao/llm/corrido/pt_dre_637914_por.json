@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:637914:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Além da Ribeira, município de Tomar, com a área de 719,9123 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1: a planta nova só vem em imagem. Alterador 2 extingue a zona de caça associativa e cria uma zona de caça municipal, sem revogar nem alterar textualmente a portaria; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redacção do n.º 1.º (área de 719,9123 ha) — substituída a unidade 6, mantendo o prefixo 1.º.",
+    "Alterador 1, n.º 1.º: aditado o n.º 1.º-A — inserido a seguir à unidade 6.",
+    "Alterador 1, n.os 2.º e 3.º: manutenção de direitos e entrada em vigor — normas próprias, nada a aplicar.",
+    "Alterador 2: extinção da zona de caça associativa e criação da zona de caça municipal — não é alteração textual do original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

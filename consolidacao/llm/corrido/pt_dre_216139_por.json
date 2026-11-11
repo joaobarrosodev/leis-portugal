@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:216139:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 649-A/77), n.º 1.º: substitui a tabela do n.º 1 da portaria, mas a tabela nova (e a atual, unidade 7) só existe em imagem no documento original; não aplicável com segurança.",
+  "instrucoes": [
+    "Alterador 1: substituição da tabela do n.º 1.º — só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

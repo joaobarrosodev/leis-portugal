@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:674621:por",
+  "substituicoes": [
+    {
+      "de": 36,
+      "ate": 39,
+      "texto": "11.º - 1 - Além da taxa de concessão de autorização especial de caça são ainda devidas as taxas suplementares constantes das tabelas anexas ao presente diploma, do qual fazem parte integrante, nos seguintes casos:\n\na) Caça à espera e de aproximação ao javali, consoante a dimensão da parte exposta das navalhas dos machos;\n\nb) Caça de aproximação ao veado ou ao gamo - troféu, consoante a pontuação do troféu do animal abatido;\n\nc) Caça de montaria ao javali e veado, consoante a pontuação do troféu do veado abatido.\n\n2 - No exercício da caça a espécies de caça maior são devidas taxas eventuais por cada tiro falhado, animal ferido e não cobrado ou desobediência ao guia da caçada de acordo com as tabelas anexas ao presente diploma.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: as taxas são 'actualizadas de acordo com as tabelas anexas à presente portaria' (época 1992-1993), sem dizer que substituem as tabelas do original; as tabelas novas têm estrutura diferente e incluem a tabela B, que o 2.º não refere. Alvo ambíguo; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 11.º; substituídas as unidades 36 a 39 (corpo, alíneas a) e b), aditada a alínea c), e n.º 2).",
+    "Alterador 1, 2.º: atualização das taxas pelas tabelas anexas ao alterador; não aplicada por o alvo ser ambíguo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

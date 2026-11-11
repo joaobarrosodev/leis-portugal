@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) O aviso a que se refere o n.º 1 do artigo 9.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, deve obedecer as especificações definidas no anexo II;\n\nc) O aviso a que se refere o n.º 2 do artigo 9.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, deve obedecer às especificações definidas no anexo III.",
+    "depois": "b) (Revogada.)\n\nc) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:168624:por",
+    "alterador": "pt:dre:664882:por"
+  }
+]

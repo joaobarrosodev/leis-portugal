@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:180585:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O DL 264/97 (art. 9.º, n.º 1) extingue o Centro de Instrução do Pessoal do Quadro da Polícia Marítima criado pelo n.º 1.º, mantendo-o em funcionamento até à entrada em vigor dos diplomas regulamentares (n.º 2): é uma extinção do órgão, não uma alteração ou revogação textual do n.º 1.º.",
+  "instrucoes": [
+    "DL 264/97, art. 9.º: extinção do CIPQPM criado pelo n.º 1.º, com regime transitório; não aplicada ao texto por não ser alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

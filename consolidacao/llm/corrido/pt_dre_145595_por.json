@@ -1,0 +1,74 @@
+{
+  "id": "pt:dre:145595:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "Escola Superior de Educação",
+      "alterador": 1
+    },
+    {
+      "de": 19,
+      "ate": 20,
+      "texto": "1.º ciclo - Grau de bacharel",
+      "alterador": 1
+    },
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 34,
+      "ate": 34,
+      "texto": "[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 36,
+      "ate": 36,
+      "texto": "Escola Superior de Educação",
+      "alterador": 1
+    },
+    {
+      "de": 38,
+      "ate": 39,
+      "texto": "2.º ciclo - Grau de licenciado",
+      "alterador": 1
+    },
+    {
+      "de": 43,
+      "ate": 43,
+      "texto": "[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 47,
+      "ate": 47,
+      "texto": "[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1.º: os anexos I e II passam a ter a redação dos anexos da Portaria n.º 1406/2003; em ambos troquei Escola Superior de Educação de Bragança por Escola Superior de Educação, juntei ciclo e grau numa linha e troquei as ligações dos quadros (quatro no anexo I, dois no anexo II); o resto é igual.",
+    "Alt. 1, 2.º a 4.º: estágio, transição e aplicação, normas próprias do alterador; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

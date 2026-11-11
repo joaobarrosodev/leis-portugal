@@ -1,0 +1,38 @@
+{
+  "id": "pt:dre:139755:por",
+  "substituicoes": [
+    {
+      "de": 40,
+      "ate": 40,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 43,
+      "ate": 43,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 46,
+      "ate": 46,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 49,
+      "ate": 49,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os quadros do novo anexo só vêm em imagem: substituídas apenas as ligações aos quadros (estrutura textual igual), não o conteúdo dos quadros.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do anexo I; cabeçalhos iguais, substituídas as ligações dos quadros n.os 1 a 4.",
+    "Alterador 1, 2.º e 3.º: transição e aplicação; não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

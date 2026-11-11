@@ -1,0 +1,37 @@
+{
+  "id": "pt:dre:180010:por",
+  "substituicoes": [
+    {
+      "de": 222,
+      "ate": 224,
+      "texto": "3.1.1 - Estrutura;\n\n3.1.2 - Atribuições;\n\n3.1.3 - Competência;",
+      "alterador": 1
+    },
+    {
+      "de": 226,
+      "ate": 226,
+      "texto": "3.2.1 - Estrutura;",
+      "alterador": 1
+    },
+    {
+      "de": 228,
+      "ate": 231,
+      "texto": "3.2.2.1 - Órgãos operativos;\n\n3.2.2.2 - Órgãos de apoio técnico;\n\n3.2.2.3 - Órgãos de apoio consultivo;\n\n3.2.2.4 - Órgãos de apoio instrumental;",
+      "alterador": 1
+    },
+    {
+      "de": 235,
+      "ate": 257,
+      "texto": "1 - Dívida pública: objectivos da política de gestão, formas de colocação da dívida, espécies, papel dos mercados primário e secundário.\n\n2 - Taxa média efectiva para determinação do valor actual da renda perpétua.\n\n3 - Determinação de valores para pagamento de encargos de dívida externa em função da cotação dos câmbios.\n\n4 - Liquidação de encargos de dívida pública. Arredondamentos. Pagamento por antecipação.\n\n5 - Meios de pagamento. Ordem de pagamento e ordem de transferência.\n\n6 - Escrituração das despesas da Junta do Crédito Público. Movimentação das dotações orçamentais.\n\n7 - Aquisição e cedência de títulos.\n\n8 - Emissão de um empréstimo externo.\n\n9 - Emissão de um empréstimo interno.\n\n10 - Criação de renda vitalícia.\n\n11 - Criação de renda perpétua.\n\n12 - Títulos extraviados e títulos deteriorados.\n\n13 - Processos ordinários, sumários e sumaríssimos: tramitação.\n\n14 - Emissão, cláusulas e reembolso de certificados de aforro.\n\n15 - Contratos com agentes pagadores.\n\n16 - Relatório e contas da Junta do Crédito Público.\n\n17 - Plano de contas da Junta do Crédito Público.\n\n18 - Introdução à informática: noções gerais.\n\n19 - Aplicações da Junta do Crédito Público.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 786/87 altera o programa anexo, dando nova redação ao Módulo D: na I Parte mudam só os sinais finais (ponto para ponto e vírgula) das unidades 222-224, 226 e 228-231; a II Parte (unidades 235-257) é substituída pela nova lista de 19 pontos."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

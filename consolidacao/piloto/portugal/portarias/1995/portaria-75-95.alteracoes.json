@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 20-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Mestrado em Relações Internacionais",
+    "depois": "Curso de Relações Internacionais",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:141198:por",
+    "alterador": "pt:dre:582846:por"
+  },
+  {
+    "artigo": "unidades 21-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "QUADRO I\n\nDisciplinas obrigatórias\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/024b00/05370538.pdf)\n\nQUADRO II\n\nDisciplinas opcionais\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/024b00/05370538.pdf)",
+    "depois": "Grau de mestre\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/12/285b00/70707070.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:141198:por",
+    "alterador": "pt:dre:582846:por"
+  }
+]

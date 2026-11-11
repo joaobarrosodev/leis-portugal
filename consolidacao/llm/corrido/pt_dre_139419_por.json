@@ -1,0 +1,63 @@
+{
+  "id": "pt:dre:139419:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "Escola Superior de Artes Aplicadas",
+      "alterador": 1
+    },
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "1.º ciclo - grau de bacharel",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 33,
+      "ate": 33,
+      "texto": "Escola Superior de Artes Aplicadas",
+      "alterador": 1
+    },
+    {
+      "de": 35,
+      "ate": 36,
+      "texto": "2.º ciclo - grau de licenciado",
+      "alterador": 1
+    },
+    {
+      "de": 39,
+      "ate": 49,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os quadros dos novos anexos I e II só vêm em imagem: foi substituída a estrutura textual dos anexos e as ligações aos quadros, não o conteúdo dos quadros.",
+  "instrucoes": [
+    "Alterador 1, 1.º n.º 1: o 2.º ciclo deixa de ter ramos e passa a dois semestres; não é alteração textual ao original (reflectida na nova redacção do anexo II).",
+    "Alterador 1, 1.º n.º 2: nova redacção dos anexos I e II; substituídas as linhas que mudam (nome da escola, 'grau', ligações aos quadros) e retirados o ramo de Design de Moda e os quadros n.os 2 a 4 do anexo II.",
+    "Alterador 1, 2.º a 4.º: normas próprias (estágio, transição, aplicação), não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

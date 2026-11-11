@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Aprontar e empregar um destacamento aéreo constituído por uma aeronave P3, tripulação e pessoal de apoio em terra, num total de 42 militares a qual ficará colocada na sua dependência directa; a duração da missão terá um período máximo de dois meses, com início em Abril de 2011;",
+    "depois": "a) Aprontar e empregar um destacamento aéreo constituído por uma aeronave P 3, tripulação e pessoal de apoio em terra, num total de 53 militares a qual ficará colocada na sua dependência directa; a duração da missão terá um período máximo de dois meses, com início em Abril de 2011;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2223945:por",
+    "alterador": "pt:dre:2230068:por"
+  }
+]

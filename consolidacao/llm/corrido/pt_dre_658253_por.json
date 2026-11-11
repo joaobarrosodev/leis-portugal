@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:658253:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As Portarias n.os 182/98 e 341/98 desdobram o curso de Biotecnologia em opções e substituem planos de estudos (anexos só em imagem) que não constam do texto da Portaria n.º 523/91; não há alteração textual a aplicar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: opções do curso de Biotecnologia: norma própria, não altera o texto do original.",
+    "Alterador 1, 2.º a 4.º: novo plano de estudos (só em imagem, não está no original), aplicação e transição: não aplicados.",
+    "Alterador 2: novo plano de estudos de Sociologia Aplicada (só em imagem), aplicação e transição: não aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

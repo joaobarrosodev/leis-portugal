@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 179-179",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Literatura Norte-Americana.",
+    "depois": "Literatura Americana.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:180633:por",
+    "alterador": "pt:dre:557603:por"
+  },
+  {
+    "artigo": "unidades 181-182",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Cultura Inglesa.\n\nLinguística Inglesa.",
+    "depois": "Linguística Inglesa.\n\nCultura Inglesa.\n\nCultura Americana.\n\nEstudos Americanos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:180633:por",
+    "alterador": "pt:dre:557603:por"
+  }
+]

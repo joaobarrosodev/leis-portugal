@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:139759:por",
+  "substituicoes": [
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85408540.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O novo quadro n.º 1 só vem em imagem: substituída a ligação, não o conteúdo do quadro.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do quadro n.º 1 do anexo; substituída a ligação do quadro (unidade 31), resto do anexo inalterado.",
+    "Alterador 1, 2.º: produção de efeitos; não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

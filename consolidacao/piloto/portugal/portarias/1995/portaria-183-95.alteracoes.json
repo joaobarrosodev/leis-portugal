@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 47-47",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/058b00/12821283.pdf)",
+    "depois": "Escola Superior de Educação de Torres Novas\n\nCurso: Educação Física\n\nDiploma de estudos superiores especializados\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/299b00/68256825.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:174873:por",
+    "alterador": "pt:dre:420799:por"
+  }
+]

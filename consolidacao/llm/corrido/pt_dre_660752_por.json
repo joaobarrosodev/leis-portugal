@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:660752:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 140/2001) substitui o plano de estudos do anexo por quadros que só vêm em imagem; alterador 2 (Portaria n.º 697/2005) muda a denominação do curso (alteração não textual) e substitui o anexo por outro cujos quadros só vêm em imagem. Nada aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: plano de estudos passa a ser o do anexo (quadros em imagem); não aplicado. 2.º a 5.º são normas próprias, não alteram o texto do original.",
+    "Alterador 2, 1.º: o curso passa a denominar-se Secretariado e Assessoria de Administração (não textual); 2.º: nova redação do anexo, quadros em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

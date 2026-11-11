@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:166777:por",
+  "substituicoes": [
+    {
+      "de": 33,
+      "ate": 34,
+      "texto": "2.º ciclo\n\nGrau de licenciado",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Retificação do título do quadro n.º 4 do anexo (1.º ciclo / Grau de bacharel -> 2.º ciclo / Grau de licenciado): substituídas as unidades 33-34."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
