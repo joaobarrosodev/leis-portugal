@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Oficiais e sargentos da Guarda Fiscal das ex-colónias, na situação de reforma;",
+    "depois": "d) Oficiais, comandantes de circunscrição, chefes-ajudantes, chefes e subchefes de secção da Guarda Fiscal das ex-colónias, na situação de desligados para efeitos de aposentação e aposentados;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:299069:por",
+    "alterador": "pt:dre:324722:por"
+  },
+  {
+    "artigo": "unidades 14-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "f) Oficiais, comissários, chefes e subchefes da Polícia de Segurança Pública das ex-colónias, na situação de reforma;",
+    "depois": "f) Oficiais, adjuntos do Comando-Geral, adjuntos distritais, comandantes de secção, comissários, chefes e subchefes da Polícia de Segurança Pública das ex-colónias, na situação de desligados para efeitos de aposentação e aposentados.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:299069:por",
+    "alterador": "pt:dre:324722:por"
+  },
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Praças da Guarda Fiscal das ex-colónias, na situação de reforma;",
+    "depois": "d) Cabos e guardas da Guarda Fiscal das ex-colónias, na situação de desligados para efeitos de aposentação e aposentados;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:299069:por",
+    "alterador": "pt:dre:324722:por"
+  },
+  {
+    "artigo": "unidades 27-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "f) Guardas da Polícia de Segurança Pública das ex-colónias, na situação de reforma;",
+    "depois": "f) Guardas da Polícia de Segurança Pública das ex-colónias, na situação de desligados para efeitos de aposentação e aposentados.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:299069:por",
+    "alterador": "pt:dre:324722:por"
+  },
+  {
+    "artigo": "unidades 34-34",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Os elementos de identificação referidos no número anterior, quando a sua validade possa justificadamente suscitar fundadas dúvidas ou, na sua falta, serão obrigatoriamente acompanhados ou substituídos por uma credencial que os autentique passada pelo comando a que o militar ou elemento das forças militarizadas se encontre subordinado, autenticada com o respectivo selo branco.",
+    "depois": "2 - Os elementos de identificação referidos no número anterior, quando a sua validade possa justificadamente suscitar fundadas dúvidas ou na sua falta, serão obrigatoriamente acompanhados ou substituídos por uma credencial que os autentique, passada pelo comando a que o militar ou elemento das forças militarizadas se encontre subordinado ou pela Direcção-Geral da Administração Civil, da Secretaria de Estado da Administração Pública, autenticada com o respectivo selo branco.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:299069:por",
+    "alterador": "pt:dre:324722:por"
+  }
+]

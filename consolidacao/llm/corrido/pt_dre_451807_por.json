@@ -1,0 +1,91 @@
+{
+  "id": "pt:dre:451807:por",
+  "substituicoes": [
+    {
+      "de": 32,
+      "ate": 35,
+      "texto": "4 - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 47,
+      "ate": 50,
+      "texto": "Acesso aos ramos\n\n1 - Os cursos da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa que se desdobram em ramos terão a inscrição nestes sujeita a limitações quantitativas a fixar anualmente por despacho do reitor, sob proposta do conselho científico.\n\n2 - Se num determinado ano o número de alunos que se pretende inscrever num ramo for inferior a quinze, esse ramo não poderá abrir inscrições nesse ano.\n\n3 - Aos alunos admitidos à inscrição no curso é assegurada sempre a inscrição num dos ramos.\n\n4 - A candidatura à inscrição em cada um dos ramos está dependente da obtenção prévia do número de unidades de crédito fixado nas respectivas portarias regulamentadoras.\n\n5 - As regras e prazos de candidatura e de selecção para inscrição nos ramos serão fixados por despacho do reitor, sob proposta do conselho científico.\n\n6 - Os despachos a que se referem os n.os 1 e 5 serão objecto de publicação na 2.ª série do Diário da República e de afixação pública na Universidade, com a antecedência de, respectivamente, um mês antes da data da candidatura e seis meses antes do início do ano lectivo a que dizem respeito.\n\n7 - Exceptuam-se do disposto no presente número:\n\na) O acesso aos ramos do curso de Matemática, objecto de regulamentação através de diploma próprio;\n\nb) O acesso aos ramos cujas limitações quantitativas hajam sido fixadas desde logo para o 1.º ano.",
+      "alterador": 3
+    },
+    {
+      "de": 54,
+      "ate": 54,
+      "texto": "2 - No ano lectivo de 1987-1988 é facultado aos alunos que se inscreveram e frequentaram o curso apresentar-se a exames para a sua conclusão.\n\n3 - A partir do ano lectivo de 1988-1989, os alunos que, por não terem concluído o curso ou por força de reingresso, devam inscrever-se no curso de licenciatura em Engenharia Informática, criado pelo [Decreto do Governo n.º 15/83](https://diariodarepublica.pt/dr/detalhe/decreto-governo/15-1983-311414), serão integrados no plano de estudos deste, de acordo com um plano de estudos próprio a fixar pelo conselho científico.",
+      "alterador": 2
+    },
+    {
+      "de": 67,
+      "ate": 91,
+      "texto": "1 - Área científica do curso:\n\nEngenharia do Ambiente.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau:\n\n160.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Engenharia do Ambiente ... 36\n\nb) Matemática ... 25\n\nc) Física ... 8\n\nd) Química ... 12\n\ne) Ecologia e Ciências Biológicas ... 27.5\n\nf) Ciências Humanas e Sociais ... 11\n\ng) Ciências da Terra ... 8.5\n\nh) Ordenamento do Território ... 9\n\ni) Hidráulica Sanitária ... 6\n\nj) Engenharia Sanitária ... 3\n\nl) Ciências da Engenharia ... 3.5\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Engenharia Sanitária ... 10.5\n\nb) Engenharia Geológica ... 10.5\n\nc) Estágios ou estudos especiais ... 10.5\n\nd) Matérias interdisciplinares ... 10.5\n\n5 - Condições para a inscrição no ramo (quando o numerus clasus para o 1.º ano não foi já fixado por ramos):\n\na) Quatro semestres lectivos de inscrição no curso;\n\nb) Obtenção de 40 unidades de crédito.",
+      "alterador": 3
+    },
+    {
+      "de": 94,
+      "ate": 120,
+      "texto": "1 - Áreas científicas do curso:\n\nEngenharia do Ambiente;\n\nOrdenamento do Território.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total de unidades de crédito necessário à concessão do grau:\n\n171 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\nEngenharia do Ambiente ... 27\n\nOrdenamento do Território ... 60\n\n4.2 - Áreas científicas obrigatórias afins:\n\na) Matemática ... 16\n\nb) Física ... 8\n\nc) Química ... 11\n\nd) Ecologia e Ciências Biológicas ... 16\n\ne) Ciências Humanas e Sociais ... 14\n\nf) Ciências da Terra ... 10\n\ng) Hidráulica Sanitária ... 6\n\n4.3 - Áreas científicas optativas:\n\na) Engenharia do Ambiente ... 3\n\nb) Engenharia Sanitária ... 3\n\nc) Engenharia Geológica ... 3\n\nd) Matérias Interdisciplinares ... 3\n\n5 - Condições para a inscrição no ramo:\n\na) Quatro semestres lectivos de inscrição no curso;\n\nb) Obtenção de 40 unidades de crédito.",
+      "alterador": 1
+    },
+    {
+      "de": 123,
+      "ate": 148,
+      "texto": "1 - Área científica do curso:\n\nEngenharia Sanitária.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau:\n\n160.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Engenharia Sanitária ... 35\n\nb) Matemática ... 25\n\nc) Física ... 8\n\nd) Química ... 12\n\ne) Ecologia e Ciências Biológicas ... 11.5\n\nf) Ciências Humanas e Sociais ... 6\n\ng) Ciências da Terra ... 3.5\n\nh) Hidráulica Sanitária ... 17\n\ni) Ciências da Engenharia ... 13.5\n\nj) Engenharia do Ambiente ... 19.5\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Engenharia do Ambiente ... 9\n\nb) Engenharia Geológica ... 9\n\nc) Estágios ou estudos especiais ... 9\n\nd) Matérias interdisciplinares ... 9\n\n5 - Condições para a inscrição no ramo (quando o numerus clasus para o 1.º ano não foi já fixado por ramos):\n\na) Quatro semestres lectivos de inscrição no curso;\n\nb) Obtenção de 34 unidades de crédito.",
+      "alterador": 3
+    },
+    {
+      "de": 199,
+      "ate": 222,
+      "texto": "1 - Áreas científicas do curso:\n\na) Ciência dos Materiais;\n\nb) Ciências da Engenharia.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau:\n\n160.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Ciência dos Materiais ... 47.5\n\nb) Ciências da Engenharia ... 30.5\n\nc) Matemática ... 28\n\nd) Física ... 20\n\ne) Química ... 11.5\n\nf) Ciências Humanas e Sociais ... 8.5\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Metalurgia ... 14\n\nb) Microelectrónica ... 14\n\nc) Materiais Poliméricos ... 14\n\n5 - Condições para a inscrição no ramo (quando o numerus clasus para o 1.º ano não foi já fixado por ramos):\n\na) Quatro semestres lectivos;\n\nb) Obtenção de 60 unidades de crédito.",
+      "alterador": 3
+    },
+    {
+      "de": 225,
+      "ate": 252,
+      "texto": "1 - Áreas científicas do curso:\n\nQuímica Orgânica;\n\nQuímica dos Produtos Naturais;\n\nTecnologia Química.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau:\n\n155.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Química Orgânica e Química de Produtos Naturais ... 28\n\nb) Tecnologia Química ... 6,5\n\nc) Química ... 43,5\n\nd) Matemática ... 16\n\ne) Física ... 8\n\nf) Biologia ... 13\n\ng) Ciências Humanas e Sociais ... 3,5\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Tecnologia Bioquímica ... 36,5\n\nb) Tecnologia Microbiana ... 36,5\n\nc) Engenharia Genética ... 36,5\n\nd) Matemática ... 36,5\n\ne) Informática ... 36,5\n\nf) Física ... 36,5\n\ng) Tecnologia Química ... 36,5\n\nh) Química ... 36,5\n\ni) Bioquímica ... 36,5\n\nj) Biologia ... 36,5\n\nk) Química Orgânica e Química dos Produtos Naturais ... 36,5\n\nl) Ciências Humanas e Sociais ... 36,5\n\n5 - Condições para inscrição no ramo:\n\nObtenção de 60 unidades de crédito.",
+      "alterador": 4
+    },
+    {
+      "de": 255,
+      "ate": 282,
+      "texto": "1 - Área científica do curso:\n\nBiotecnologia.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau:\n\n155.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Tecnologia Bioquímica ... 14\n\nb) Tecnologia Microbiana ... 7\n\nc) Engenharia Genética ... 10,\n\nd) Química ... 43,5\n\ne) Matemática ... 16\n\nf) Física ... 8\n\ng) Biologia ... 13\n\nh) Ciências Humanas e Sociais ... 3,5\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Química Orgânica ... 40\n\nb) Tecnologia Alimentar ... 40\n\nc) Matemática ... 40\n\nd) Informática ... 40\n\ne) Física ... 40\n\nf) Tecnologia Química ... 40\n\ng) Química ... 40\n\nh) Bioquímica ... 40\n\ni) Biologia ... 40\n\nj) Tecnologia Bioquímica ... 40\n\nl) Tecnologia Microbiana ... 40\n\nm) Engenharia Genética ... 40\n\nn) Ciências Humanas e Sociais ... 40\n\n5 - Condições para inscrição no ramo:\n\nObtenção de 60 unidades de crédito.",
+      "alterador": 4
+    },
+    {
+      "de": 284,
+      "ate": 308,
+      "texto": "1 - Área científica do curso:\n\nInformática.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total de unidades de crédito necessário à obtenção do grau:\n\n145 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Obrigatórias:\n\n4.1.1 - Ciência e Tecnologia da Programação ... 21,0\n\n4.1.2 - Ciência e Tecnologia dos Computadores ... 21,0\n\n4.1.3 - Informática das Organizações ... 10,0\n\n4.1.4 - Sistemas Simbólicos e de Informação ... 11,0\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Matemática ... 33,0\n\n4.2.2 - Física ... 13,0\n\n4.2.3 - Química ... 4,0\n\n4.2.4 - Ciências Humanas e Sociais ... 5,0\n\n4.3 - Áreas científicas optativas:\n\n4.3.1 - Ciência e Tecnologia da Programação ... 27,0\n\n4.3.2 - Ciência e Tecnologia dos Computadores ... 27,0\n\n4.3.3 - Informática das Organizações ... 27,0\n\n4.3.4 - Sistemas Simbólicos e de Informação ... 27,0",
+      "alterador": 2
+    },
+    {
+      "de": 309,
+      "ate": 335,
+      "texto": "## ANEXO X — (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 336,
+      "ate": 361,
+      "texto": "## ANEXO XI — (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 317-A/86), 9.º: manda substituir os anexos I, II, III e IV pelos anexos IV, V, VI e VII, mas a epígrafe e o conteúdo do anexo VII dizem respeito ao ramo de Engenharia Física (anexo V do original), não ao anexo IV (ramo de Engenharia Geológica); alvo ambíguo, nem o anexo IV nem o V foram alterados. Alterador 3 (Portaria 586/88), 1.º: extinção do ramo de Ordenamento do Território sem instrução textual (a alínea b) do n.º 1 do 2.º e o anexo II ficam). Alterador 2, 2.º: o curso de Engenharia Informática deixa de ter ramos, aplicado só através das derrogações do 3.º.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 317-A/86): 1.º a 7.º, 10.º e 11.º são disposições próprias (novos cursos, Portaria 903/84); 8.º altera a Portaria 570/84 (outro diploma), ignorado; 9.º anexos I, II, III -> IV, V, VI: aplicado o anexo II (unidades 94-120); anexos I e III voltam a ser substituídos pelo alterador 3, que fica como texto final; anexo IV/VII não aplicado (ambíguo).",
+    "Alterador 2 (Portaria 537/87): 1.º n.º 1 anexos VII e VIII, substituídos de novo pelo alterador 4 (texto final do alterador 4); 1.º n.º 2 nova redação dos n.os 2 e 3 do 7.º: o 7.º só tinha n.º 2, a unidade 54 passa a ter os novos n.os 2 e 3; 3.º a) n.º 4 do 2.º derrogado (unidades 32-35 -> 4 - (Revogado.)); 3.º b) e 4.º anexos IX, X e XI derrogados e aditado novo anexo IX: corpo do anexo IX (unidades 284-308) substituído pelo novo, anexos X e XI revogados.",
+    "Alterador 3 (Portaria 586/88): 2.º anexos I e III com nova redação (corpos, unidades 67-91 e 123-148); 3.º anexo VI com nova redação (unidades 199-222); 6.º nova redação do 6.º (epígrafe Acesso aos ramos e n.os 1 a 7, unidades 47-50); 4.º, 5.º, 7.º e 8.º são disposições próprias ou de outro diploma.",
+    "Alterador 4 (Portaria 1074/89): 1.º anexos VII e VIII com nova redação (corpos, unidades 225-252 e 255-282); as linhas de título do anexo da portaria não foram copiadas, ficando o cabeçalho e o ramo do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 309-335: parágrafo que não está no alterador nem no original: ## ANEXO X — (Revogado.)",
+    "substituição 336-361: parágrafo que não está no alterador nem no original: ## ANEXO XI — (Revogado.)"
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O quadro do pessoal civil dos Serviços Sociais das Forças Armadas, aprovado pelo [Decreto-Lei n.º 225/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1976-501186), de 31 de Março, alterado pelo [Decreto-Lei n.º 307/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1977-251417), de 4 de Agosto, e pela [Portaria n.º 591/77](https://diariodarepublica.pt/dr/detalhe/portaria/591-1977-285931), de 19 de Setembro, é aumentado dos lugares constantes de mapa anexo ao presente diploma.",
+    "depois": "O quadro de pessoal civil dos Serviços Sociais das Forças Armadas, aprovado pela [Portaria n.º 986/82](https://diariodarepublica.pt/dr/detalhe/portaria/986-1982-376188), de 20 de Outubro, é aumentado dos lugares constantes do mapa anexo ao presente diploma.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:308681:por",
+    "alterador": "pt:dre:227429:por"
+  }
+]

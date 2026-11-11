@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:249506:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 503/87 (repetida como alterador 1 e 2) e Portaria 828/87: substituem ou adaptam as tarifas por tabelas anexas que só vêm em imagem; não há texto a aplicar.",
+  "instrucoes": [
+    "503/87 1.º: tarifas substituídas na parte correspondente por anexo em imagem; nao_aplicavel.",
+    "828/87 1.º: tarifas de telex e dados adaptadas por tabelas em imagem; nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

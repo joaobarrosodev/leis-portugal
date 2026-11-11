@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º São consignadas ao Instituto de Inovação Educacional de António Aurélio da Costa Ferreira, às Direcções Regionais de Educação, ao Departamento de Programação e Gestão Financeira, ao Departamento de Gestão de Recursos Educativos, ao Departamento do Ensino Superior, à Inspecção-Geral da Educação, ao Departamento de Ensino Secundário e ao Departamento da Educação Básica, quando por estes arrecadadas, as seguintes receitas:",
+    "depois": "1.º São consignadas ao Instituto de Inovação Educacional de António Aurélio da Costa Ferreira, às Direcções Regionais de Educação, ao Departamento de Gestão de Recursos Educativos, ao Departamento do Ensino Superior, à Inspecção-Geral da Educação, ao Departamento de Ensino Secundário e ao Departamento da Educação Básica, quando por estes arrecadadas, as seguintes receitas:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:354346:por",
+    "alterador": "pt:dre:505783:por"
+  },
+  {
+    "artigo": "unidades 14-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º As receitas enumeradas nos números anteriores, com excepção das respeitantes ao Departamento de Programação e Gestão Financeira, são afectas ao pagamento das despesas dos serviços respectivos, mediante inscrições de dotações com compensação em receitas.",
+    "depois": "3.º As receitas enumeradas nos números anteriores são afectas ao pagamento das despesas dos serviços respectivos, mediante inscrições de dotações com compensação em receitas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:354346:por",
+    "alterador": "pt:dre:505783:por"
+  }
+]

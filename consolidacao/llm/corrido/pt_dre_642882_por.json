@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:642882:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "2.º Pela presente portaria é concessionada, até 1 de Junho de 2011, ao Clube de Caçadores de Fronteira (registo na Direcção-Geral das Florestas n.º 4.185.87), com sede na Rua de Avis, 15, 1.º, direito, Fronteira, a zona de caça associativa (processo n.º 376 da Direcção-Geral das Florestas).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "As anexações de prédios com novas áreas totais (alteradores 2, 3, 4 e 5) não dão nova redação ao texto do original; as plantas só existem em imagem.",
+  "instrucoes": [
+    "Alterador 1: no n.º 2.º, 'até 1 de Julho de 2011' passa a 'até 1 de Junho de 2011': unidade 10 substituída.",
+    "Alterador 2: anexação de prédios e águas públicas (517,5720 ha): não textual, nada feito.",
+    "Alterador 3: anexação de prédios (537,072 ha) e regras de sinalização dos terrenos anexados: não textual, nada feito.",
+    "Alterador 4: anexação de prédios (781 ha): não textual, nada feito.",
+    "Alterador 5: anexação do prédio Serra Brava (823 ha): não textual, nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

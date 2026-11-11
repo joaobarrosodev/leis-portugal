@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:529979:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 5 substituem o anexo (planos de estudos dos cursos de Engenharia Informática, Civil, Electrotécnica, Industrial e de Recursos Naturais/Ambiente), que só existe em imagem no original e nos alteradores; não aplicável. A mudança de designação do curso de Engenharia de Recursos Naturais para Engenharia do Ambiente (alterador 5, 1.º) não é uma alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo anexo para Engenharia Informática; só em imagem, não aplicado. 2.º a 5.º: normas próprias (vagas, semanas lectivas, aplicação, transição), não alteram o texto.",
+    "Alterador 2, 1.º: novo anexo para Engenharia Civil; só em imagem, não aplicado. Restantes pontos: normas próprias.",
+    "Alterador 3, 1.º: novo anexo para Engenharia Electrotécnica; só em imagem, não aplicado. Restantes pontos: normas próprias.",
+    "Alterador 4, 1.º: novo anexo para Engenharia Industrial; só em imagem, não aplicado. Restantes pontos: normas próprias.",
+    "Alterador 5, 1.º: curso de Engenharia de Recursos Naturais passa a designar-se Engenharia do Ambiente; não é alteração textual, não aplicado. 2.º: novo anexo, só em imagem, não aplicado. Restantes pontos: normas próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

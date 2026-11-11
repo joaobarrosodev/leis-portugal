@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:643374:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O original fica revogado por inteiro: os alteradores 1 e 2 revogam-no parcialmente (cursos de Lojista e de Mestre de Cerâmica Artística) e o alterador 3, no n.º 7.º, alínea b), revoga as restantes portarias mencionadas no seu n.º 5.º, entre elas a Portaria n.º 815/97, sem ressalva de parte.",
+  "instrucoes": [
+    "Alterador 1: extingue o curso de Lojista e revoga parcialmente o original na parte que lhe respeita.",
+    "Alterador 2: extingue o curso de Mestre de Cerâmica Artística e revoga parcialmente o original na parte que lhe respeita.",
+    "Alterador 3: extingue o curso de Técnico Auxiliar de Conservação e Restauro de Talha e revoga a Portaria 815/97 (alínea b) do n.º 7.º): revogação total, nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

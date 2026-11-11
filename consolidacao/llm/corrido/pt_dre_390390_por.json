@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:390390:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 15 da Portaria 885/82 (alterador 2) revoga a Portaria 43/81 por inteiro (e a 465/81); o texto deixa de vigorar, pelo que não se devolvem as alterações intermédias da Portaria 465/81 (n.os 1.º, 11.º, 16.º e 17.º).",
+  "instrucoes": [
+    "Alt.1: nova redação dos n.os 1.º, 11.º, 16.º e 17.º - prejudicada pela revogação total",
+    "Alt.2 n.º 15: revoga a Portaria 43/81 por inteiro - não aplicável ao texto, nada devolvido"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

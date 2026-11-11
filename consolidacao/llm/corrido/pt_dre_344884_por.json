@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:344884:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 retifica «Carreira - Operador principal» para «Carreira - Operador de sistema» no quadro de pessoal (mapa I), que só existe em imagem; alterador 2 cria um lugar no quadro de pessoal, alteração que não é textual.",
+  "instrucoes": [
+    "Alterador 1: retificação no mapa I (quadro de pessoal de informática), só em imagem: não aplicada.",
+    "Alterador 2: criação de um lugar de técnico superior de 1.ª classe no quadro de pessoal: não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:372182:por",
+  "substituicoes": [
+    {
+      "de": 75,
+      "ate": 75,
+      "texto": "d) Apresentará, semestralmente, relatórios de execução ao Ministério da Indústria e Energia e ao gestor do PEDIP, em cumprimento do artigo 14.º do [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto.",
+      "alterador": 1
+    },
+    {
+      "de": 87,
+      "ate": 94,
+      "texto": "Comissão de selecção\n\n1 - Será constituída uma comissão de selecção dos projectos apresentados no âmbito desta reestruturação presidida pelo gestor do PEDIP.\n\n2 - A comissão de selecção integrará ainda, para além de um representante do IAPMEI, da DGI e do MESS, um representante de cada uma das restantes entidades referidas no n.º 10.º sempre que se trate de projectos do seu domínio de competência.\n\n3 - Compete à comissão de selecção emitir parecer sobre as comparticipações financeiras e medidas de âmbito sectorial propostas pela entidade responsável e submetê-las a despacho do MIE.\n\n4 - No caso de parecer desfavorável, os pareceres serão comunicados aos promotores, que, querendo, poderão apresentar alegações contrárias, que serão submetidas, no prazo de 30 dias, ao MIE, juntamente com o parecer da comissão.",
+      "alterador": 1
+    },
+    {
+      "de": 104,
+      "ate": 107,
+      "texto": "13.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação da alínea d) do n.º 1 do n.º 10.º; substituída a unidade 75.",
+    "Alt. 1, 2.º: nova redação do n.º 11.º; substituídas a epígrafe e o corpo (unidades 87 a 94), o número 11.º mantém-se.",
+    "Alt. 1, 3.º: revogado o n.º 13.º; unidades 104 a 107 passam a 13.º - (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

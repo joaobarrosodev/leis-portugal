@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:288199:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Silveira, município de Torres Vedras, com a área de 1175,6730 ha.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "As plantas anexas substituídas (Portarias 1401/95, 911/97 e 1264-P/2004) só existem em imagem; a suspensão da caça (1009/2004) e a renovação da concessão (1264-P/2004) não são alterações textuais do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 892/94) altera a Portaria 722-I/92, não o original; ignorado.",
+    "Alterador 2: nova redação do n.º 1.º (1812,3920 ha); depois substituída pelo alterador 3, fica só a redação final na unidade 6.",
+    "Alterador 3: nova redação do n.º 1.º (1175,6730 ha) aplicada na unidade 6, mantendo o número 1.º; aditado o n.º 1.º-A a seguir à unidade 6.",
+    "Alterador 4: suspensão do exercício da caça, sem instrução textual; não aplicado.",
+    "Alterador 5: renovação da concessão (1178 ha) e revogação da Portaria 1009/2004, sem instrução textual sobre o original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

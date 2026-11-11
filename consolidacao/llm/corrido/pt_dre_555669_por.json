@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:555669:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 e 2 substituem, no anexo, os planos de estudos dos cursos técnicos superiores de Informática e de Contabilidade (Penafiel), que só existem em imagem; o desdobramento do curso de Informática em opções (alterador 1, 1.º, n.º 1) não é uma alteração textual do original. Nada aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º, n.º 1: o curso de Informática em Penafiel desdobra-se em opções; não textual, não aplicado. N.º 2: novo plano de estudos no anexo; só em imagem, não aplicado.",
+    "Alterador 2, 1.º: novo plano de estudos de Contabilidade no anexo; só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

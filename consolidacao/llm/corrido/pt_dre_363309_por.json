@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:363309:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1002/2003 altera os anexos I, IV e VI (mapas de lugares a criar) de acordo com mapas anexos que só vêm em imagem; não há alteração textual.",
+  "instrucoes": [
+    "Alterador 1: alteração dos anexos I, IV e VI conforme mapas em imagem: não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

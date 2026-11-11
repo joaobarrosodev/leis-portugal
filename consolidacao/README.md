@@ -524,7 +524,7 @@ Os ficheiros de trabalho (pedidos, respostas por passagem, vistas da ronda 23) e
 
 ## Originais sem artigos: texto corrido por unidades (`llm_corrido.py`)
 
-As rondas deste trabalho foram renumeradas ao juntar ao `main` (17 → 24, 18 → 25, 19 → 26), porque a frente B já usava os números 17, 18 e 19 para outros diplomas.
+As rondas deste trabalho foram renumeradas ao juntar ao `main` (17 → 24, 18 → 25, 19 → 26, 20 → 27, 21 → 28), porque a frente B já usava os números 17 a 21 para outros diplomas.
 
 **Problema.** Dos 4.362 diplomas para o LLM, 2.697 têm um original sem artigos identificados (portarias "1.º, 2.º" em texto corrido, resoluções, despachos, declarações de retificação, bases). `juntar.py` e `llm_completo.py` recusam-nos ("original sem artigos: a resposta não tem onde encaixar").
 
@@ -572,3 +572,11 @@ python rendimento.py N --ids ids.txt
 ### Bloco 3 (ronda 26; no ramo de origem era a ronda 19)
 
 Mais 120 diplomas (`llm/corrido-ids-bloco3.txt`, de 2 537 candidatos; 34 saltados por tamanho), mesmo processo. 50 sem alterações, 61 juntados, 9 recusados. Ronda 19: 61 verificados às cegas, **35 sem reparos: 29 % do bloco (57 % dos verificados)**. O rendimento desce de bloco para bloco porque os diplomas vão por ordem de citações e os seguintes têm mais anexos em imagem e mais alteradores. Acumulado das rondas 17 a 19: **89 em 280 (32 %)**. Ficam cerca de 2 400 candidatos; a este ritmo cada bloco de 120 dá ~35 consolidações, abaixo do limiar de 35 % que fixámos, por isso não se alarga sem decisão.
+
+### Bloco 4 (ronda 27; no ramo de origem era a ronda 20)
+
+Mais 120 diplomas (`llm/corrido-ids-bloco4.txt`, de 2 417 candidatos; 35 saltados por tamanho). 47 sem alterações, 68 juntados, 5 recusados. Ronda 20: 68 verificados às cegas, **46 sem reparos: 38 % do bloco (68 % dos verificados)**. O rendimento oscila entre blocos (38, 32, 29, 38 %) conforme a proporção de quadros em imagem. Acumulado das rondas 17 a 20: **135 em 400 (34 %)**. Segue-se sempre para o bloco seguinte (cobertura); ficam cerca de 2 300 candidatos.
+
+### Bloco 5 (ronda 28; no ramo de origem era a ronda 21)
+
+Mais 120 diplomas (`llm/corrido-ids-bloco5.txt`, de 2 297 candidatos; 37 saltados por tamanho). 26 sem alterações, 91 juntados, 3 recusados. Ronda 21: 91 verificados às cegas, **71 sem reparos: 59 % do bloco (78 % dos verificados)**. O número alto vem de uma série de portarias de zonas de caça, quase todas só com a nova redação do n.º 1.º e o n.º 1.º-A, fáceis de verificar; não é de esperar que se mantenha. Os verificadores marcaram vários "dúvida" por efeitos implícitos (áreas, número de guardas) e contaram-se como reparos. Acumulado das rondas 17 a 21: **206 em 520 (40 %)**. Ficam cerca de 2 180 candidatos.

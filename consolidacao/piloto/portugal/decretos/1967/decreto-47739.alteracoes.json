@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 33-33",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "§ 1.º Havendo nos mesmos mercados mais de um comerciante interessado na compra do algodão-caroço, será dada preferência àquele cujo preço médio, com base em 90 por cento de algodão de 1.ª e 10 por cento de algodão de 2.ª, for mais elevado.",
+    "depois": "§ 1.º Havendo nos mesmos mercados mais de um comerciante interessado na compra do algodão-caroço, será dada preferência àquele cujo preço médio ponderado para as diferentes qualidades de algodão-caroço, estabelecidas nos termos do artigo 3.º do presente diploma, for mais elevado.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312786:por",
+    "alterador": "pt:dre:644532:por"
+  },
+  {
+    "artigo": "unidades 36-36",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "§ 3.º Os preços oferecidos pelo algodão-caroço de 2.ª não poderão exceder 90 por cento do preço oferecido pelo algodão-caroço de 1.ª",
+    "depois": "§ 3.º Os preços oferecidos pelo algodão-caroço de cada uma das qualidades não poderá exceder 90 por cento do preço oferecido pelo algodão-caroço da qualidade imediatamente superior.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312786:por",
+    "alterador": "pt:dre:644532:por"
+  }
+]

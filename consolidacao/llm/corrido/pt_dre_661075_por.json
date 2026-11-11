@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:661075:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 107/2001): o texto recebido termina em 'Manda o Governo, pelo Ministro da Educação, o seguinte:' sem disposições, pelo que não há instrução que se possa aplicar.",
+  "instrucoes": [
+    "Alterador 1: novo plano de estudos, número máximo de alunos e regras do curso de Informática de Gestão, sem alteração ao texto da Portaria n.º 852/93; nada a fazer.",
+    "Alterador 2: disposições ausentes do texto recebido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

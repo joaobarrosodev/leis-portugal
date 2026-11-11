@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:465274:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante na planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Pernes e São Vicente do Paul, município de Santarém, com a área de 1264,8502 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 e 4 (suspensão da actividade cinegética), 3 (anexação de prédios, área total 1452,2622 ha, planta em imagem) e 5 (renovação da concessão por 12 anos, área de 1691 ha) não dão nova redação a nenhum ponto: alterações não textuais. A nova planta do alterador 1 só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º: substituída a unidade 6.",
+    "Alterador 1, 1.º: aditado o n.º 1.º-A: inserido depois da unidade 6.",
+    "Alterador 2: suspende a actividade cinegética por 180 dias: não textual.",
+    "Alterador 3: anexa prédios à zona de caça: não textual.",
+    "Alterador 4: suspende a caça até à renovação: não textual.",
+    "Alterador 5: renova a concessão por 12 anos e revoga a Portaria 668/2003: não textual quanto ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

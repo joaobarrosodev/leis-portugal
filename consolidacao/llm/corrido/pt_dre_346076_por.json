@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:346076:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 406-B/75 é revogado por inteiro pelo artigo 76.º da Lei n.º 77/77 (alterador 3); as alterações anteriores dos Decretos-Leis n.os 541-B/75 (art. 3.º) e 262/76 (art. 2.º) ficam sem efeito no texto.",
+  "instrucoes": [
+    "DL 541-B/75, art. 1.º: nova redação do art. 3.º; prejudicada pela revogação total.",
+    "DL 262/76, art. 1.º: nova redação do art. 2.º; prejudicada pela revogação total.",
+    "Lei 77/77, art. 76.º: revoga o DL 406-B/75 por inteiro; nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

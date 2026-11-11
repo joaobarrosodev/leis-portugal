@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:167819:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os três alteradores (Portaria n.º 701/96, Portaria n.º 383/2000 e Portaria n.º 1374/2002) alteram o quadro de pessoal anexo (pneumologia, carreira médica hospitalar, extinção de estomatologia, lugares acrescidos), que só existe em imagem no original e nos alteradores; não há alteração textual aplicável.",
+  "instrucoes": [
+    "Alterador 1: altera o quadro de pessoal pelo quadro anexo (imagem); não aplicável.",
+    "Alterador 2: altera o quadro na carreira médica hospitalar por mapa (imagem) e extingue a área de estomatologia; não aplicável ao texto.",
+    "Alterador 3: acresce lugares ao quadro do Hospital de Nossa Senhora da Graça - Tomar (anexo n.º 2, imagem); não aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

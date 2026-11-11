@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 24-29",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.1 - Em todos os cursos cujo funcionamento não esteja integrado no horário escolar normal das escolas oficiais ou oficializadas dos diferentes países é obrigatória a existência e preenchimento dos seguintes livros de escrituração escolar:\n\na) Livro A - de matrícula, frequência e seus resultados;\n\nb) Livro B - diário de frequência;\n\nc) Livro C - registo das visitas respeitantes aos serviços de orientação pedagógica e inspecção;\n\nd) Livro E - da correspondência expedida;\n\ne) Arquivo de toda a correspondência recebida.",
+    "depois": "3.1 - Em todos os cursos de ensino básico português no estrangeiro é obrigatório a existência e preenchimento dos seguintes livros de escrituração escolar:\n\na) Livro A - de matrícula, frequência e seus resultados;\n\nb) Livro B - diário da frequência;\n\nc) Livro E - registo de correspondência expedida;\n\nd) Arquivo de correspondência recebida;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:280257:por",
+    "alterador": "pt:dre:367628:por"
+  }
+]

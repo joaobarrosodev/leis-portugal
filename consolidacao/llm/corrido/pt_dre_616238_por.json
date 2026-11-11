@@ -1,0 +1,70 @@
+{
+  "id": "pt:dre:616238:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "c) 'Culturas arvenses', as culturas enumeradas no anexo IX do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, de 29 de Setembro;",
+      "alterador": 3
+    },
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "e) 'Leguminosas forrageiras', as culturas das espécies mencionadas no anexo VII do Regulamento (CE) n.º [1973/2004](http://data.europa.eu/eli/reg/2004/1973/oj?locale=pt), da Comissão, de 29 de Outubro.",
+      "alterador": 3
+    },
+    {
+      "de": 17,
+      "ate": 23,
+      "texto": "3.1 - São elegíveis as parcelas utilizadas numa rotação que integra culturas arvenses, ficando excluídas as superfícies que, à data de 15 de Maio de 2003, se encontravam afectas a pastagens permanentes, culturas permanentes, florestas ou a utilizações não agrícolas, de acordo com as definições constantes do Regulamento (CE) n.º [795/2003](http://data.europa.eu/eli/reg/2003/795/oj?locale=pt) e do Regulamento (CE) n.º [796/2003](http://data.europa.eu/eli/reg/2003/796/oj?locale=pt), ambos da Comissão, de 21 de Abril, com excepção dos seguintes casos:\n\na) As superfícies que se encontravam ocupadas, em 15 de Maio de 2003, com culturas permanentes, pastagens permanentes ou florestas, desde que a exploração agrícola tenha sido modificada na sua estrutura ou na superfície elegível, em virtude de um programa de reestruturação imposto pelo Estado, como são os casos de emparcelamentos, aproveitamentos hidro-agrícolas de carácter público, bem como outras situações decorrentes de qualquer forma de intervenção pública;\n\nb) As superfícies que se encontram afectas a pastagens permanentes, culturas permanentes, florestas ou a utilizações não agrícolas, desde que o produtor se veja obrigado a, no âmbito da sua exploração, permutar essas terras por terras aráveis, desde que não se apresentem impedimentos válidos, nomeadamente no domínio ambiental, e essa permuta não conduza a um aumento de superfície total de terras aráveis da exploração.\n\n3.2 - Nos casos previstos na alínea a) do número anterior, o Instituto Nacional de Intervenção e Garantia Agrícola (INGA) procederá à análise e avaliação respectivas, tendo em atenção o disposto no n.º 2, alínea a), do artigo 51.º do Regulamento (CE) n.º [1973/2004](http://data.europa.eu/eli/reg/2004/1973/oj?locale=pt), de 29 de Outubro, e de acordo com normas internas a divulgar oportunamente por todos os interessados.\n\n3.3 - Nos casos previstos na alínea b) do número anterior, o produtor deve apresentar ao INGA, até 30 de Setembro de cada ano, uma proposta da permuta que pretende efectuar, explicitando as razões da mesma.",
+      "alterador": 3
+    },
+    {
+      "de": 24,
+      "ate": 28,
+      "texto": "4 - No caso de parcelas com coberto de árvores dispersas de qualquer espécie arbórea ou em povoamentos mistos, desde que a sua densidade não ultrapassasse 60 árvores por hectare é elegível a totalidade da área da parcela.",
+      "alterador": 3
+    },
+    {
+      "de": 37,
+      "ate": 38,
+      "texto": "6.1 - As condições referidas nas alíneas d) e e) do n.º 5 não são exigidas sempre que, para uma dada região, se constate a ocorrência de circunstâncias climáticas anormais que impeçam, nomeadamente, a realização das práticas culturais adequadas.\n\n6.2 - As regiões a abranger pela excepção prevista no número anterior serão definidas pelos serviços regionais de agricultura de cada Região Autónoma até 15 de Maio para as culturas de Outono-Inverno e 30 de Junho para as culturas de Primavera-Verão, devendo esta informação ser transmitida ao INGA o mais tardar até 31 de Maio e 15 de Julho, respectivamente.",
+      "alterador": 3
+    },
+    {
+      "de": 43,
+      "ate": 43,
+      "texto": "8 - O valor dos pagamentos à superfície previstos no regime de apoio depende da categoria de rendimento atribuída às parcelas, semeadas ou em pousio, objecto do pedido de ajuda, e da cultura arvense declarada.",
+      "alterador": 3
+    },
+    {
+      "de": 56,
+      "ate": 57,
+      "texto": "12 - A retirada de terras da produção, ou pousio, pode ter carácter obrigatório ou voluntário, e efectua-se nos termos do disposto no artigo 107.º do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, de 21 de Outubro, e nos artigos 64.º a 68.º do Regulamento (CE) n.º [1973/2004](http://data.europa.eu/eli/reg/2004/1973/oj?locale=pt), da Comissão, de 29 de Outubro.",
+      "alterador": 3
+    },
+    {
+      "de": 58,
+      "ate": 58,
+      "texto": "13 - Em aplicação do disposto no artigo 68.º do Regulamento (CE) n.º [1973/2004](http://data.europa.eu/eli/reg/2004/1973/oj?locale=pt), da Comissão, de 29 de Outubro, os produtores podem efectuar um pousio voluntário, que consiste na possibilidade de uma retirada de terras superior à sua obrigação.",
+      "alterador": 3
+    },
+    {
+      "de": 59,
+      "ate": 59,
+      "texto": "14 - A retirada total de terras, pousio obrigatório e pousio voluntário no caso dos produtores cuja área declarada é superior à necessária para produzir 92 t de cereais, ou pousio voluntário, no caso dos produtores cuja área declarada é inferior ou igual à necessária para produzir 92 t de cereais, não pode exceder 35% do total de superfície declarada para efeitos de pedido de ajuda.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 2 (Despacho Normativo 6/2004) só prorroga o regime de exceção do n.º 14 para 2004-2005, sem nova redação. Alt. 3, art. 12.º, revoga o original apenas no território do continente a partir de 2005-2006 (continua aplicável às Regiões Autónomas), por isso o texto não é revogado por inteiro; o art. 11.º (manutenção de números para as medidas agro-ambientais) também não é textual.",
+  "instrucoes": [
+    "Alt. 1 (Despacho Normativo 51/2002): nova redação do n.º 14 (14.1 e 14.2); superada pela nova redação do n.º 14 dada pela alt. 3.",
+    "Alt. 2 (Despacho Normativo 6/2004): mantém a exceção do n.º 14 para 2004-2005; não textual, não aplicada.",
+    "Alt. 3 (Despacho Normativo 22/2005), art. 10.º, n.º 2: novas redações das alíneas c) e e) do n.º 2 (unidades 14 e 16), do n.º 3 (17-23, agora 3.1 a 3.3), do n.º 4 (24-28), do n.º 6 (37-38, agora 6.1 e 6.2), do n.º 8 (43), do n.º 12 (56-57), do n.º 13 (58) e do n.º 14 (59).",
+    "Alt. 3, art. 12.º: revogação só no continente; não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

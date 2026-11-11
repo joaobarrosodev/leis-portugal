@@ -1,0 +1,64 @@
+{
+  "id": "pt:dre:641419:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "2 - Nomear como presidente da comissão diretiva do PO Temático Potencial Humano, responsável pela estrutura de missão, Domingos Jorge Ferreira Lopes, e como vogais executivos Margarida Maria Chaves Pratas Ferreira Filipe e Maria Alexandra dos Santos Vilela.",
+      "alterador": 2
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "4 - Nomear como presidente da comissão diretiva do PO Temático Fatores de Competitividade, responsável pela estrutura de missão, Franquelim Fernando Garcia Alves, e como vogais executivos Maria Isabel Sanches Matalonga y Planas e Maria da Piedade Brito Monteiro Valente.",
+      "alterador": 2
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "6 - Nomear como presidente da comissão diretiva do PO Temático Valorização do Território, responsável pela estrutura de missão, Helena da Conceição Pinheiro Lourenço de Azevedo, e como vogais executivos José Roque de Pinho Marques Guedes e Vasco da Rocha Campilho Marques.",
+      "alterador": 2
+    },
+    {
+      "de": 15,
+      "ate": 20,
+      "texto": "8 - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 24,
+      "ate": 31,
+      "texto": "a) Relativamente aos presidentes das comissões diretivas:\n\ni) Remuneração mensal ilíquida equivalente ao vencimento mensal ilíquido de presidente de conselho de administração de empresa pública de Grupo C, determinado nos termos da [Resolução do Conselho de Ministros n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2012-543034), de 14 de fevereiro;\n\nii) Despesas de representação, no montante de 30 % da remuneração prevista na subalínea anterior;\n\nb) Relativamente aos vogais executivos das comissões diretivas:\n\ni) Remuneração mensal ilíquida equivalente a 90 % da remuneração mensal ilíquida do presidente da comissão diretiva;\n\nii) Despesas de representação, no montante de 25 % da respetiva remuneração;\n\nc) Aos membros das comissões diretivas referidas nas alíneas anteriores aplicam-se, com as necessárias adaptações, os limites e impedimentos previstos no artigo 32.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, e pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro;\n\nd) Aos presidentes das comissões diretivas referidas nas alíneas anteriores aplicam -se os limites previstos no artigo 33.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, e pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, de acordo com deliberação da comissão ministerial de coordenação do QREN.",
+      "alterador": 2
+    },
+    {
+      "de": 35,
+      "ate": 35,
+      "texto": "15 - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 36,
+      "ate": 36,
+      "texto": "16 - (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 38,
+      "texto": "19 - Determinar que, durante a vigência do Programa de Assistência Económica e Financeira (PAEF) a Portugal, a remuneração mensal ilíquida e as despesas de representação dos membros das comissões diretivas são pagas 12 vezes por ano.\n\n20 - Determinar que a remuneração mensal ilíquida e as despesas de representação dos membros das comissões diretivas se encontram sujeitas às reduções remuneratórias que as tomem por objeto, estabelecidas por força da situação de dificuldade económica e financeira do Estado ou do PAEF.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Despacho 25290/2008): extingue o PRIME e transfere funções para o POFC; não altera o texto da resolução: nada a fazer.",
+    "Alterador 2 (RCM 17/2012), n.º 1: nova redação dos n.os 2, 4 e 6 (unidades 9, 11, 13) e do n.º 11, cujo corpo fica ([...]) e as alíneas a) a d) são substituídas (unidades 24-31).",
+    "Alterador 2, n.º 2: aditados os n.os 19 e 20 depois do n.º 18 (unidade 38).",
+    "Alterador 2, n.º 3: revogados os n.os 8 (unidades 15-20, com as alíneas), 15 (unidade 35) e 16 (unidade 36)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 26-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Grupo I - Embalagens de peixes inteiros:\n\nSacos de juta ou polipropileno de 60 kg;",
+    "depois": "a) Grupo I - Embalagens de peixes inteiros: Sacos de juta ou polipropileno, de 50 kg;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:579689:por",
+    "alterador": "pt:dre:177850:por;pt:dre:549812:por"
+  },
+  {
+    "artigo": "unidades 36-36",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6.º O bacalhau salgado seco e as espécies afins, nacionais ou importados, ficam sujeitos ao regime de margens de comercialização fixado e a que se refere a alínea e) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.",
+    "depois": "6.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:579689:por",
+    "alterador": "pt:dre:177850:por;pt:dre:549812:por"
+  },
+  {
+    "artigo": "unidades 37-39",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º As margens máximas de comercialização do bacalhau salgado seco e espécies afins, nacionais ou importados, a que se refere o número anterior são as seguintes:\n\na) No armazenista: margem de 8%, calculada sobre o preço de aquisição no armazém do produtor;\n\nb) Retalhista: margem de 13%, calculada sobre o preço de aquisição à porta do retalhista.",
+    "depois": "7.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:579689:por",
+    "alterador": "pt:dre:177850:por;pt:dre:549812:por"
+  },
+  {
+    "artigo": "unidades 42-42",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "9.º Qualquer que seja o número de agentes intervenientes no circuito de comercialização, não é permitida a utilização de margens que, no seu conjunto, ultrapassem os limites fixados no n.º 7.º",
+    "depois": "9.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:579689:por",
+    "alterador": "pt:dre:177850:por;pt:dre:549812:por"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:332886:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O plano de estudos do anexo é substituído pelas Portarias n.º 94/98, n.º 254/2001 e n.º 883/2003, mas os novos quadros só vêm em imagem.",
+  "instrucoes": [
+    "Portaria 94/98, 1.º: novo plano de estudos (quadro em imagem); não aplicado.",
+    "Portaria 254/2001, 1.º: novo plano de estudos (quadros em imagem); restantes pontos são normas próprias; não aplicado.",
+    "Portaria 883/2003, 1.º: novo plano de estudos (quadros em imagem); restantes pontos são normas próprias; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

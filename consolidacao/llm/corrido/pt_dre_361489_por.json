@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:361489:por",
+  "substituicoes": [
+    {
+      "de": 209,
+      "ate": 226,
+      "texto": "Curso de Música Antiga\n\n1.º ciclo\n\nGrau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)\n\n2.º ciclo\n\nGrau de licenciado\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 substitui o quadro n.º 4 do anexo IX, que só vem em imagem (e é depois absorvido pela nova redação do anexo IX do alterador 3); o conteúdo dos quadros do novo anexo IX só existe em imagem. A mudança de denominação do curso para «Música Antiga», sem opções nem ramos (alterador 3, n.º 1.º), não é uma alteração textual à alínea i) do n.º 1.º, que fica como está. O alterador 2 não traz texto.",
+  "instrucoes": [
+    "Alterador 1: nova redação do quadro n.º 4 do anexo IX, só em imagem: não aplicada (superada pelo alterador 3).",
+    "Alterador 2: sem texto dirigido ao original: nada feito.",
+    "Alterador 3, n.º 1.º: o curso passa a denominar-se Música Antiga, sem opções nem ramos: não textual, não aplicado à alínea i).",
+    "Alterador 3, n.º 2.º: nova redação do anexo IX: substituídas as unidades 209 a 226 pelo texto do novo anexo (Curso de Música Antiga, sem opções; quadro n.º 4 do 2.º ciclo passa a 1.º ano), com as referências aos quadros em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

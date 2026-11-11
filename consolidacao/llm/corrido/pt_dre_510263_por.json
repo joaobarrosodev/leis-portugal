@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:510263:por",
+  "substituicoes": [
+    {
+      "de": 281,
+      "ate": 281,
+      "texto": "2. O juro de mora é de 1,5% em relação a cada um dos meses seguintes àquele a que se referem as contribuições e até ao mês, inclusive, em que o seu pagamento seja efectuado.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: altera o art. 116.º do Decreto n.º 45266, outro diploma; ignorado.",
+    "Alterador 1, art. 2.º: nova redacção do n.º 2 do art. 74.º; substituída a unidade 281 (n.º 1 com '...' mantém-se)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

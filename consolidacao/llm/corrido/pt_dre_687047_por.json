@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:687047:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Alpiarça e Vale de Cavalos, municípios de Alpiarça e Chamusca, com a área de 2433,8250 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, 2.º: a planta que substitui a anexa só vem em imagem. Alteradores 3 a 6 (anexações e renovação da zona de caça) não alteram o texto da portaria.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º (2603,8250 ha); substituída depois pela redação do alterador 2, pelo que a unidade 6 fica com a redação final.",
+    "Alterador 1, 2.º: substituição da planta (imagem); não aplicada.",
+    "Alterador 2, 1.º: nova redação do n.º 1.º (2433,8250 ha); substituída a unidade 6, mantendo a numeração 1.º.",
+    "Alterador 2, 1.º: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alteradores 3 a 6: anexações (312 ha; 312,8750 ha), renovação e anexação de 825 ha, sem instrução textual; não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

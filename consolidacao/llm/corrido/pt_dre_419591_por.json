@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:419591:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 14,
+      "texto": "7 - Os descongelamentos efectuados pelo presente despacho normativo poderão ser utilizados nos concursos externos pendentes.\n\n8 - Para efeitos do número anterior, consideram-se automaticamente alterados os avisos de abertura dos concursos, adicionando-se o número de descongelamentos agora efectuados ao número de lugares antes descongelados.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "O Despacho Normativo 80/87 (alterador 1) altera valores do mapa anexo (Pessoal técnico e técnico-profissional do Ministério da Saúde), que vem apenas em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Despacho Normativo 80/87): troca de valores no mapa anexo em imagem; não aplicado.",
+    "Alterador 2 (Despacho Normativo 3/89): adita os n.os 7 e 8; inseridos depois da unidade 14 (n.º 6)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

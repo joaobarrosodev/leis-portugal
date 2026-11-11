@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:394552:por",
+  "substituicoes": [
+    {
+      "de": 46,
+      "ate": 48,
+      "texto": "2 - (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 515/95) estabelece uma só repartição no Barreiro e extingue a 2.ª Repartição do Barreiro sem alterar textualmente o n.º 2.º do original; não aplicado. Os n.os 1.º e 2.º do alterador 2 redefinem as repartições de Viseu em texto próprio, não como nova redação do original.",
+  "instrucoes": [
+    "Alt.1: reorganização das repartições do Barreiro e Setúbal e alteração da Portaria 225/95 - sem instrução textual sobre o original, não aplicada",
+    "Alt.2 3.º: revoga o n.º 2 do n.º 9.º - unidades 46-48 substituídas por '2 - (Revogado.)'"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

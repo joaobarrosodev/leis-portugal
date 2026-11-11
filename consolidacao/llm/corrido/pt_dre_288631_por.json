@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:288631:por",
+  "substituicoes": [
+    {
+      "de": 29,
+      "ate": 30,
+      "texto": "1 - As autoridades portuárias devem manter informado o Instituto Portuário e dos Transportes Marítimos, I. P. (IPTM, I. P.), sobre os certificados de isenção do serviço de pilotagem emitidos, suspensos e cancelados.\n\n2 - O IPTM, I. P., deve manter um cadastro actualizado de todos os certificados de isenção do serviço de pilotagem emitidos.",
+      "alterador": 1
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "4) Que possui conhecimento da língua portuguesa ou da língua inglesa.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação dos n.os 1 e 2 do 6.º; substituídas as unidades 29-30.",
+    "Alterador 2: nova redação do ponto 4) do 2.º (restantes '...' mantidos); substituída a unidade 13."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

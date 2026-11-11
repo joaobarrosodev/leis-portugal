@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Técnico de mecânica/manutenção industrial;",
+    "depois": "a) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:189938:por",
+    "alterador": "pt:dre:505655:por;pt:dre:505657:por;pt:dre:544841:por;pt:dre:544835:por;pt:dre:544862:por"
+  },
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Técnico de controlo de qualidade alimentar;",
+    "depois": "b) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:189938:por",
+    "alterador": "pt:dre:505655:por;pt:dre:505657:por;pt:dre:544841:por;pt:dre:544835:por;pt:dre:544862:por"
+  },
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Técnico de comunicação/edição gráfica;",
+    "depois": "c) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:189938:por",
+    "alterador": "pt:dre:505655:por;pt:dre:505657:por;pt:dre:544841:por;pt:dre:544835:por;pt:dre:544862:por"
+  },
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Técnico de comunicação/técnicas jornalísticas;",
+    "depois": "d) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:189938:por",
+    "alterador": "pt:dre:505655:por;pt:dre:505657:por;pt:dre:544841:por;pt:dre:544835:por;pt:dre:544862:por"
+  },
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "e) Técnico de comunicação/técnicas áudio-visuais;",
+    "depois": "e) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:189938:por",
+    "alterador": "pt:dre:505655:por;pt:dre:505657:por;pt:dre:544841:por;pt:dre:544835:por;pt:dre:544862:por"
+  }
+]

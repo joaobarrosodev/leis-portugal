@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - As candidaturas são reconhecidas como elegíveis quando o indicador de relevância global, definido naquele anexo, alcançar um valor igual ou superior a 50 pontos.",
+    "depois": "3 - As candidaturas são reconhecidas como elegíveis quando o indicador de relevância global, definido naquele anexo, alcançar um valor igual ou superior a 65 pontos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:200016:por",
+    "alterador": "pt:dre:238024:por"
+  }
+]

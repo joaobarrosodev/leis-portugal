@@ -1,0 +1,161 @@
+{
+  "id": "pt:dre:177050:por",
+  "substituicoes": [
+    {
+      "de": 33,
+      "ate": 36,
+      "texto": "i) Engenharia Electrotécnica, nos ramos de:\n\nI) Automação, Energia e Electrónica;\n\nII) Sistemas Industriais;\n\nIII) Telecomunicações e Electrónica;\n\nIV) Informática.",
+      "alterador": 3
+    },
+    {
+      "de": 42,
+      "ate": 42,
+      "texto": "n) Engenharia Informática, nos ramos de:\n\nI) Arquitectura e Redes;\n\nII) Automação;\n\nIII) Computação.",
+      "alterador": 3
+    },
+    {
+      "de": 56,
+      "ate": 60,
+      "texto": "Acesso aos ramos\n\n1 - A inscrição nos ramos de Formação Educacional dos cursos a que se refere a presente portaria está sujeita a limitações quantitativas a fixar por despacho do Ministro da Educação, sob proposta do reitor da Universidade.\n\n2 - A inscrição nos restantes ramos em que se desdobram os cursos a que se refere a presente portaria está sujeita a limitações quantitativas a fixar anualmente por despacho do reitor, sob proposta do conselho científico da Faculdade.\n\n3 - Se num determinado ano o número de alunos que se pretendem inscrever num ramo for inferior a quinze, não poderão ser nesse ano abertas inscrições naquele ramo.\n\n4 - Aos alunos admitidos à inscrição num curso organizado em ramos é sempre assegurada a inscrição num dos seus ramos.\n\n5 - A candidatura à inscrição em cada um dos ramos está dependente da aprovação prévia do número de unidades de crédito fixado nas respectivas portarias regulamentadoras.\n\n6 - As regras e prazos de candidatura e selecção para a inscrição nos ramos serão fixados por despacho do reitor, sob proposta do conselho científico.\n\n7 - Os despachos a que se referem os n.os 1, 2 e 6 serão objecto de publicação no Diário da República e de afixação pública na Universidade, com a antecedência, respectivamente, de um mês antes da data de candidatura e de seis meses antes do início do ano lectivo a que dizem respeito.\n\n8 - Exceptuam-se do disposto no presente número:\n\na) O acesso aos ramos do curso de Arquitectura, objecto de regulamentação através de diploma próprio;\n\nb) O acesso aos ramos cujas limitações quantitativas hajam sido fixadas desde logo para o 1.º ano.",
+      "alterador": 4
+    },
+    {
+      "de": 77,
+      "ate": 90,
+      "texto": "1 - Área científica do curso:\n\nMatemática.\n\n2 - Duração normal do curso:\n\nQuatro anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\n130 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Matemática ... 85\n\n4.2 - Áreas científicas optativas:\n\n4.2.1 - Matemática ... 45\n\n4.2.2 - Física ... 45\n\n4.2.3 - Investigação Operacional ... 45\n\n4.2.4 - Ciências da Computação ... 45\n\n4.2.5 - Computação Gráfica ... 45\n\n5 - Condições de candidatura ao ramo:\n\nObtenção de 52 unidades de crédito.",
+      "alterador": 2
+    },
+    {
+      "de": 92,
+      "ate": 110,
+      "texto": "1 - Áreas científicas do curso:\n\n1.1 - Matemática;\n\n1.2 - Ciências da Educação.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\n3.1 - 130 unidades de crédito;\n\n3.2 - Aprovação no estágio pedagógico.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Matemática ... 85\n\n4.1.2 - Ciências da Educação ... 22\n\n4.2 - Áreas científicas optativas:\n\n4.2.1 - Matemática ... 16\n\n4.2.2 - Ciências da Educação ... 16\n\n4.2.3 - Física ... 16\n\n4.2.4 - Investigação Operacional ... 16\n\n4.2.5 - Ciências da Computação ... 16\n\n4.2.6 - Computação Gráfica ... 16\n\n4.3 - Monografia ... 7\n\n5 - Condições de candidatura ao ramo:\n\n5.1 - Obtenção de 52 unidades de crédito;\n\n5.2 - Condição a que se refere o n.º 1 do n.º 5.º da [Portaria n.º 746/85](https://diariodarepublica.pt/dr/detalhe/portaria/746-1985-177050), de 1 de Outubro.",
+      "alterador": 2
+    },
+    {
+      "de": 112,
+      "ate": 127,
+      "texto": "1 - Área científica do curso:\n\nMatemática.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\n165 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Matemática ... 85\n\n4.1.2 - Ciências da Computação ... 44\n\n4.2 - Áreas científicas optativas:\n\n4.2.1 - Matemática ... 20\n\n4.2.2 - Física ... 20\n\n4.2.3 - Investigação Operacional ... 20\n\n4.2.4 - Ciências da Computação ... 20\n\n4.2.5 - Computação Gráfica ... 20\n\n4.3 - Estágio, projecto ou seminário ... 16\n\n5 - Condições de candidatura ao ramo:\n\nObtenção de 52 unidades de crédito.",
+      "alterador": 2
+    },
+    {
+      "de": 129,
+      "ate": 144,
+      "texto": "1 - Área científica do curso:\n\nMatemática.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\n165 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Matemática ... 85\n\n4.1.2 - Investigação Operacional ... 44\n\n4.2 - Áreas científicas optativas:\n\n4.2.1 - Matemática ... 20\n\n4.2.2 - Física ... 20\n\n4.2.3 - Investigação Operacional ... 20\n\n4.2.4 - Ciências da Computação ... 20\n\n4.2.5 - Computação Gráfica ... 20\n\n4.3 - Estágio, projecto ou seminário ... 16\n\n5 - Condições de candidatura ao ramo:\n\nObtenção de 52 unidades de crédito.",
+      "alterador": 2
+    },
+    {
+      "de": 188,
+      "ate": 204,
+      "texto": "1 - Área científica do curso - Química.\n\n2 - Duração normal do curso - quatro anos lectivos.\n\n3 - Condições necessárias à obtenção do grau - 130,5 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Química ... 78,5\n\n4.1.2 - Matemática ... 16\n\n4.1.3 - Física ... 22\n\n4.1.4 - História e Filosofia da Ciência ... 2\n\n4.2 - Estágio ... 12\n\n5 - Condições de candidatura ao ramo - obtenção de 50 unidades de crédito.",
+      "alterador": 1
+    },
+    {
+      "de": 205,
+      "ate": 225,
+      "texto": "## ANEXO VIII — Licenciatura em Química - Ramo da Formação Educacional\n\n1 - Áreas científicas do curso:\n\n1.1 - Química;\n\n1.2 - Ciências da Educação.\n\n2 - Duração normal do curso - cinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\n3.1 - 132,5 unidades de crédito;\n\n3.2 - Aprovação no estágio pedagógico.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Química ... 58,5\n\n4.1.2 - Ciências da Educação ... 16\n\n4.1.3. - Matemática ... 16\n\n4.1.4 - Física ... 22\n\n4.1.5 - Metodologia Científica ... 8\n\n4.1.6 - História e Filosofia da Ciência ... 2\n\n4.2 - Monografia ... 10\n\n5 - Condições de candidatura ao ramo:\n\n5.1 - Obtenção de 50 unidades de crédito;\n\n5.2 - Satisfação das condições a que se refere o n.º 1 do n.º 5.º",
+      "alterador": 1
+    },
+    {
+      "de": 227,
+      "ate": 244,
+      "texto": "1 - Áreas científicas do curso:\n\n1.1 - Química;\n\n12 - Tecnologia Química.\n\n2 - Duração normal do curso - quatro anos lectivos.\n\n3 - Condições necessárias à obtenção do grau - 133 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Química ... 63\n\n4.1.2 - Tecnologia Química ... 22\n\n4.1.3 - Matemática ... 16\n\n4.1.4 - Física ... 18\n\n4.1.5 - Economia ... 2\n\n4.2 - Estágio ... 12",
+      "alterador": 1
+    },
+    {
+      "de": 246,
+      "ate": 260,
+      "texto": "1 - Áreas científicas do curso:\n\n1.1 - Biologia;\n\n1.2 - Química.\n\n2 - Duração normal do curso - quatro anos lectivos.\n\n3 - Condições necessárias à obtenção do grau - 130 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Biologia ... 44\n\n4.1.2 - Química ... 50,5\n\n4.1.3 - Matemática ... 16\n\n4.1.4 - Física ... 5,5\n\n4.1.5 - História e Filosofia da Ciência ... 2\n\n4.2 - Estágio ... 12",
+      "alterador": 1
+    },
+    {
+      "de": 262,
+      "ate": 282,
+      "texto": "1 - Área científica do curso:\n\nGeologia.\n\n2 - Duração normal do curso:\n\nQuatro anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau:\n\n130.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Geociências ... 86 a 98\n\nb) Matemática e Engenharia Geográfica ... 8 a 16\n\nc) Física ... 8 a 16\n\nd) Química ... 8 a 16\n\ne) Biologia e Antropologia ... 4 a 8\n\n5 - Condições de candidatura ao ramo:\n\nObtenção de 50 unidades de crédito.",
+      "alterador": 4
+    },
+    {
+      "de": 284,
+      "ate": 310,
+      "texto": "1 - Áreas científicas do curso:\n\na) Geologia;\n\nb) Ciências da Educação.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) Mínimo de 130 unidades de crédito;\n\nb) Aprovação no estágio pedagógico.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Geociências ... 50 a 62\n\nb) Biologia e Antropologia ... 12 a 24\n\nc) Ciências da Educação ... 16\n\nd) Metodologias Especiais ... 16\n\ne) Matemática ... 8\n\nf) Física ... 8\n\ng) Química ... 8\n\n5 - Condições de candidatura ao ramo:\n\na) Obtenção de 50 unidades de crédito;\n\nb) Satisfação das condições a que se refere o n.º 1 do n.º 5.º",
+      "alterador": 4
+    },
+    {
+      "de": 392,
+      "ate": 406,
+      "texto": "1 - Área científica do curso:\n\nEngenharia Electrotécnica.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\n3.1 - Ramo de Telecomunicações e Electrónica:\n\na) 182 unidades de crédito;\n\nb) Projecto.\n\n3.2 - Ramo de Automação, Energia e Electrónica:\n\na) 182 unidades de crédito;\n\nb) Projecto.\n\n3.3 - Ramo de Informática:\n\na) 185 unidades de crédito;\n\nb) Projecto.\n\n3.4 - Ramo de Sistemas Industriais:\n\na) 185 unidades de crédito;\n\nb) Projecto.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Obrigatórias para todos os ramos:\n\n4.1.1 - Matemática ... 28\n\n4.1.2 - Física ... 8\n\n4.1.3 - Engenharia dos Sistemas Informáticos ... 7,5\n\n4.1.4 - Teoria e Metodologias da Computação ... 8\n\n4.1.5 - Representação Gráfica ... 4\n\n4.1.6 - Electrónica ... 7,5\n\n4.1.7 - Electrotecnia Fundamental ... 15,5\n\n4.2 - Obrigatórias para o ramo de Telecomunicações e Electrónica:\n\n4.2.1 - Engenharia dos Sistemas Informáticos ... 11,5\n\n4.2.2 - Optimização e Teoria dos Sistemas ... 15\n\n4.2.3 - Ciências dos Materiais e Dispositivos ... 11,5\n\n4.2.4 - Electrónica ... 11,5\n\n4.2.5 - Telecomunicações ... 30,5\n\n4.2.6 - Electrotecnia Fundamental ... 4\n\n4.2.7 - Instrumentação e Controle ... 8\n\n4.2.8 - Economia, Gestão e Ciências Sociais ... 7,5\n\n4.3 - Obrigatórias para o ramo da Automação, Energia e Electrónica:\n\n4.3.1 - Engenharia dos Sistemas Informáticos ... 7,5\n\n4.3.2 - Optimização e Teoria dos Sistemas ... 19\n\n4.3.3 - Ciências dos Materiais e Dispositivos ... 11,5\n\n4.3.4 - Sistemas Electrónico-Mecânicos ... 19\n\n4.3.5 - Instrumentação e Controle ... 11,5\n\n4.3.6 - Electrotecnia Fundamental ... 8\n\n4.3.7 - Sistemas de Energia ... 11,5\n\n4.3.8 - Economia, Gestão e Ciências Sociais ... 7,5\n\n4.4 - Obrigatórias para o ramo de Informática:\n\n4.4.1 - Engenharia dos Sistemas Informáticos ... 26,5\n\n4.4.2 - Optimização e Teoria dos Sistemas ... 15\n\n4.4.3 - Telecomunicações ... 15\n\n4.4.4 - Instrumentação e Controle ... 8\n\n4.4.5 - Teoria e Metodologias da Computação ... 11,5\n\n4.4.6 - Electrotecnia Fundamental ... 4\n\n4.4.7 - Ciências dos Materiais e Dispositivos ... 4\n\n4.4.8 - Economia, Gestão e Ciências Sociais ... 7,5\n\n4.5 - Obrigatórias para o ramo de Sistemas Industriais:\n\n4.5.1 - Engenharia dos Sistemas Informáticos ... 7,5\n\n4.5.2 - Optimização e Teoria dos Sistemas ... 28,5\n\n4.5.3 - Ciência dos Materiais e Dispositivos ... 7,5\n\n4.5.4 - Instrumentação e Controle ... 15\n\n4.5.5 - Electrotecnia Fundamental ... 11,5\n\n4.5.6 - Economia, Gestão e Ciências Sociais ... 21\n\n4.5.7 - Sistemas Electrónico-Mecânicos ... 7,5\n\n4.6 - Opcionais para todos os ramos:\n\n4.6.1 - Sistemas e Automação.\n\n4.6.2 - Arquitectura e Redes.\n\n4.6.3 - Computação.\n\n4.6.4 - Economia, Gestão e Ciências Sociais.\n\n4.6.5 - Optimização e Teoria dos Sistemas.\n\n4.6.6 - Ciências dos Materiais e Dispositivos.\n\n4.6.7 - Electrónica.\n\n4.6.8 - Telecomunicações.\n\n4.6.9 - Engenharia dos Sistemas Informáticos.\n\n4.6.10 - Instrumentação e Controle.\n\n4.6.11 - Electrotecnia Fundamental.\n\n4.6.12 - Teoria e Metodologia da Computação.\n\n4.6.13 - Sistemas Electrónico-Mecânicos.\n\n4.6.14 - Sistemas de Energia.\n\n4.7 - Unidades de crédito a obter nas áreas opcionais:\n\n4.7.1 - Ramo de Telecomunicações e Electrónica ... 8\n\n4.7.2 - Ramo de Automação, Energia e Electrónica ... 8\n\n4.7.3 - Ramo de Informática ... 15\n\n4.7.4 - Ramo de Sistemas Industriais ... 8\n\n5 - Condição de candidatura aos ramos:\n\nObtenção de 62 unidades de crédito de entre as referidas em 4.1.",
+      "alterador": 3
+    },
+    {
+      "de": 408,
+      "ate": 420,
+      "texto": "1 - Área científica do curso - Física Tecnológica.\n\n2 - Duração normal do curso - cinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\n3.1 - Ramo de Ciência dos Materiais - 196 unidades de crédito;\n\n3.2 - Ramo de Instrumentação - 190 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/21900/26902693.pdf)\n\n5 - Condições de candidatura aos ramos - obtenção de 61 unidades de crédito:",
+      "alterador": 1
+    },
+    {
+      "de": 422,
+      "ate": 439,
+      "texto": "1 - Área científica do curso - Engenharia Geográfica.\n\n2 - Duração normal do curso - cinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau - 163 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Engenharia Geográfica ... 64\n\n4.1.2 - Matemática ... 63\n\n4.1.3 - Física ... 12\n\n4.1.4 - Geologia ... 12\n\n4.2 - Áreas científicas optativas:\n\n4.2.1 - Engenharia Geográfica ... 12\n\n4.2.2 - Matemática ... 12\n\n4.2.3 - Física ... 12\n\n4.2.4 - Geologia ... 12\n\n4.2.5 - Engenharia Civil ... 12",
+      "alterador": 1
+    },
+    {
+      "de": 441,
+      "ate": 457,
+      "texto": "1 - Área científica do curso:\n\nEngenharia Geológica.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau:\n\n181.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Geociências ... 96\n\nb) Engenharia Civil ... 10\n\nc) Matemática ... 24\n\nd) Engenharia Geográfica ... 15\n\ne) Física ... 8\n\nf) Química ... 8\n\n4.2 - Conjunto da áreas científicas optativas:\n\na) Geociências ... 20\n\nb) Engenharia de Minas ... 20\n\nc) Engenharia Civil ... 20",
+      "alterador": 4
+    },
+    {
+      "de": 459,
+      "ate": 481,
+      "texto": "1 - Área científica do curso:\n\nEngenharia Informática.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\n3.1 - Ramo de Arquitectura e Redes:\n\na) 157,5 unidades de crédito;\n\nb) Projecto.\n\n3.2 - Ramo de Automação:\n\na) 157,5 unidades de crédito;\n\nb) Projecto.\n\n3.3 - Ramo de Computação:\n\na) 157,5 unidades de crédito;\n\nb) Projecto.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Ramo de Arquitectura e Redes:\n\n4.1.1 - Obrigatórias:\n\n4.1.1.1 - Matemática ... 32\n\n4.1.1.2 - Física ... 8\n\n4.1.1.3 - Representação Gráfica ... 8\n\n4.1.1.4 - Economia, Gestão e Ciências Sociais ... 7,5\n\n4.1.1.5 - Arquitectura e Redes ... 53\n\n4.1.1.6 - Computação ... 22,5\n\n4.1.1.7 - Sistemas e Automação ... 19\n\n4.1.2 - Opcionais:\n\n4.1.2.1 - Arquitectura e Redes ... 7,5\n\n4.1.2.2 - Computação ... 7,5\n\n4.1.2.3 - Sistemas e Automação ... 7,5\n\n4.1.2.4 - Economia, Gestão e Ciências Sociais ... 7,5\n\n4.2 - Ramo de Automação:\n\n4.2.1 - Obrigatórias:\n\n4.2.1.1 - Matemática ... 32\n\n4.2.1.2 - Física ... 8\n\n4.2.1.3 - Representação Gráfica ... 8\n\n4.2.1.4 - Economia, Gestão e Ciências Sociais ... 7,5\n\n4.2.1.5 - Arquitectura e Redes ... 38\n\n4.2.1.6 - Computação ... 22,5\n\n4.2.1.7 - Sistemas e Automação ... 34\n\n4.2.2 - Opcionais:\n\n4.2.2.1 - Arquitectura e Redes ... 7,5\n\n4.2.2.2 - Computação ... 7,5\n\n4.2.2.3 - Sistemas e Automação ... 7,5\n\n4.2.2.4 - Economia, Gestão e Ciências Sociais ... 7,5\n\n4.3 - Ramo de Computação:\n\n4.3.1 - Obrigatórias:\n\n4.3.1.1 - Matemática ... 32\n\n4.3.1.2 - Física ... 8\n\n4.3.1.3 - Representação Gráfica ... 8\n\n4.3.1.4 - Economia, Gestão e Ciências Sociais ... 7,5\n\n4.3.1.5 - Arquitectura e Redes ... 23\n\n4.3.1.6 - Computação ... 52,5\n\n4.3.1.7 - Sistemas e Automação ... 19\n\n4.3.2 - Opcionais:\n\n4.3.2.1 - Arquitectura e Redes ... 7,5\n\n4.3.2.2 - Computação ... 7,5\n\n4.3.2.3 - Sistemas e Automação ... 7,5\n\n4.3.2.4 - Economia, Gestão e Ciências Sociais ... 7,5\n\n5 - Condições de candidatura a cada ramo:\n\nObtenção de 62 unidades de crédito de entre as referidas, respectivamente, em 4.1.1, 4.2.1 e 4.3.1.",
+      "alterador": 3
+    },
+    {
+      "de": 482,
+      "ate": 492,
+      "texto": "## ANEXO XXI — Licenciatura em Engenharia Mecânica\n\n1 - Área científica do curso - Engenharia Mecânica.\n\n2 - Duração normal do curso - cinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau nos dois ramos - 201 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/21900/26902693.pdf)\n\n5 - Condições de candidatura aos ramos - obtenção de 61 unidades de crédito.",
+      "alterador": 1
+    },
+    {
+      "de": 493,
+      "ate": 516,
+      "texto": "## ANEXO XXII — Licenciatura em Engenharia de Minas\n\n1 - Área científica do curso - Engenharia de Minas.\n\n2 - Duração normal do curso - cinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau - 184 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Matemática ... 40\n\n4.1.2 - Física ... 8\n\n4.1.3 - Química ... 8\n\n4.1.4 - Representação Gráfica ... 8\n\n4.1.5 - Geologia ... 20\n\n4.1.6 - Engenharia Civil ... 8\n\n4.1.7 - Engenharia Geográfica ... 7\n\n4.1.8 - Exploração e Prospecção de Recursos ... 29\n\n4.1.9 - Tratamento de Minérios ... 12\n\n4.1.10 - Planeamento Mineiro ... 20\n\n4.2 - Áreas científicas optativas:\n\n4.2.1 - Geologia ... 24\n\n4.2.2 - Exploração e Prospecção de Recursos ... 24\n\n4.2.3 - Tratamento de Minérios ... 24\n\n4.2.4 - Planeamento Mineiro ... 24",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 17,
+      "texto": "V) Matemática Aplicada às Ciências de Engenharia;\n\nVI) Sistemas e Métodos de Computação Gráfica.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 54,
+      "texto": "4.º-A\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de dez.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas de serviço de aulas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa nos planos de estudos, sem prejuízo de ser assegurado sempre o funcionamento de uma delas.",
+      "alterador": 4
+    },
+    {
+      "depois_de": 144,
+      "texto": "## ANEXO IV-A — Licenciatura em Matemática - ramo de Matemática Aplicada às Ciências de Engenharia\n\n1 - Área científica do curso:\n\nMatemática.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\n165 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Matemática ... 85\n\n4.2 - Áreas científicas optativas:\n\n4.2.1 - Matemática ... 64\n\n4.2.2 - Física ... 64\n\n4.2.3 - Ciências de Engenharia ... 64\n\n4.2.4 - Investigação Operacional ... 64\n\n4.2.5 - Ciências da Computação ... 64\n\n4.2.6 - Computação Gráfica ... 64\n\n4.3 - Estágio, projecto ou seminário ... 16\n\n5 - Condições de candidatura ao ramo:\n\nObtenção de 52 unidades de crédito.\n\n## ANEXO IV-B — Licenciatura em Matemática - ramo de Sistemas e Métodos de Computação Gráfica\n\n1 - Área científica do curso:\n\nMatemática.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\n165 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Matemática ... 60\n\n4.1.2 - Computação Gráfica ... 40\n\n4.1.3 - Ciências da Computação ... 20\n\n4.2 - Áreas científicas optativas:\n\n4.2.1 - Matemática ... 29\n\n4.2.2 - Física ... 29\n\n4.2.3 - Investigação Operacional ... 29\n\n4.2.4 - Ciências da Computação ... 29\n\n4.2.5 - Computação Gráfica ... 29\n\n4.2.6 - Ciências de Engenharia ... 29\n\n4.3 - Estágio, projecto ou seminário ... 16\n\n5 - Condições de candidatura ao ramo:\n\nObtenção de 52 unidades de crédito.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Nos anexos XVII e XXI na redação do alterador 1, o n.º 4 (áreas científicas e distribuição das unidades de crédito) só vem em imagem: fica a ligação ao documento original, sem o conteúdo do quadro.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação dos anexos I, II, III, IV, VII, VIII, IX, X, XI, XII, XVII, XVIII, XIX, XXI e XXII. Aplicada aos VII, VIII, IX, X, XVII, XVIII, XXI e XXII (corpo; nos VIII, XXI e XXII também o título, que muda no alterador, incluindo a numeração XXII do anexo de Engenharia de Minas). Nos I a IV vale a redação posterior do alterador 2, e nos XI, XII e XIX a do alterador 4, por isso só se devolve a redação final.",
+    "Alterador 2, 2.º, n.º 1: nova redação da alínea a) do n.º 2.º; só se acrescentam as subalíneas V) e VI), inseridas a seguir à unidade 17.",
+    "Alterador 2, 2.º, n.º 2: nova redação dos anexos I a IV (corpo das unidades 77-90, 92-110, 112-127 e 129-144; títulos mantidos).",
+    "Alterador 2, 3.º: aditados os anexos IV-A e IV-B, inseridos a seguir ao anexo IV (unidade 144), com título no formato dos outros anexos.",
+    "Alterador 3, 1.º, n.os 4 e 5: nova redação das alíneas i) (unidades 33-36) e n) (unidade 42) do n.º 2.º.",
+    "Alterador 3, 2.º: nova redação dos anexos XVI (unidades 392-406) e XX (unidades 459-481); títulos mantidos.",
+    "Alterador 4, 1.º: nova redação dos anexos XI (262-282), XII (284-310) e XIX (441-457); títulos mantidos.",
+    "Alterador 4, 4.º: nova redação do n.º 5.º, epígrafe Acesso aos ramos e n.os 1 a 8 (unidades 56-60).",
+    "Alterador 4, 5.º: aditado o n.º 4.º-A (Disciplinas de opção), inserido a seguir à unidade 54.",
+    "Normas de aplicação, transição e entrada em vigor dos alteradores e criação de ramos (alterador 2, 1.º; alterador 3, 1.º, n.os 1 a 3): sem alteração textual própria do original além das já aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "inserção depois de 144: parágrafo que não está no alterador nem no original: ## ANEXO IV-A — Licenciatura em Matemática - ramo de Matemática Aplicada às Ciên",
+    "inserção depois de 144: parágrafo que não está no alterador nem no original: ## ANEXO IV-B — Licenciatura em Matemática - ramo de Sistemas e Métodos de Compu"
+  ]
+}

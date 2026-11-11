@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:478197:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Decreto 48333), artigo 5.º: substitui os mapas I e II anexos ao Decreto 47239, que só existem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Decreto 48333), artigo 1.º: altera artigos do Decreto 46421 (outro diploma), ainda que na redação dada pelo original; ignorado.",
+    "Artigos 2.º a 4.º: disposições próprias (criação de cargo, nova designação, aumento de quadro); sem alteração textual ao original.",
+    "Artigo 5.º: mapas I e II substituídos por mapas em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

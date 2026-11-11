@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4) Que possui conhecimento da língua portuguesa.",
+    "depois": "4) Que possui conhecimento da língua portuguesa ou da língua inglesa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:288631:por",
+    "alterador": "pt:dre:176050:por;pt:dre:601495:por"
+  },
+  {
+    "artigo": "unidades 29-30",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - As autoridades portuárias devem manter informado o Instituto Marítimo-Portuário (IMP) sobre os certificados de isenção do serviço de pilotagem emitidos, suspensos e cancelados.\n\n2 - O IMP manterá um cadastro actualizado de todos os certificados de isenção do serviço de pilotagem, do qual dará, semestralmente, conhecimento a todas as autoridades portuárias.",
+    "depois": "1 - As autoridades portuárias devem manter informado o Instituto Portuário e dos Transportes Marítimos, I. P. (IPTM, I. P.), sobre os certificados de isenção do serviço de pilotagem emitidos, suspensos e cancelados.\n\n2 - O IPTM, I. P., deve manter um cadastro actualizado de todos os certificados de isenção do serviço de pilotagem emitidos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:288631:por",
+    "alterador": "pt:dre:176050:por;pt:dre:601495:por"
+  }
+]

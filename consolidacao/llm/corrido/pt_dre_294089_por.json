@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:294089:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: os novos preços das tabelas n.os 1, 2, 3, 22 e 23 só vêm em imagem; as alterações aos artigos 9.º, 20.º (n.º 7), 42.º e seguintes são da Tarifa Geral de Transportes (Portaria n.º 1338/82), não do original. Alterador 2: sem texto que mencione o original.",
+  "instrucoes": [
+    "Alterador 1, 1.º e 2.º: novos preços das tabelas (imagem); não aplicado.",
+    "Alterador 1, 3.º: altera artigos da Tarifa Geral, outro diploma (incluindo o n.º 7 do artigo 20.º na redação dada pelo original); ignorado.",
+    "Alterador 2: sem artigos que mencionem o original; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

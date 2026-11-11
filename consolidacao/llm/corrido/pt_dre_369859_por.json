@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:369859:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "b) Mecânico de material terrestre/operador de sistemas de assistência e socorros (MMT/OPSAS);",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 n.º 1.º: muda nomenclatura do serviço geral noutros diplomas - ignorada",
+    "Alt.1 n.º 2.º: alínea b) do n.º 1.º passa a MMT/OPSAS - substituída a unidade 8"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

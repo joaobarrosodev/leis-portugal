@@ -1,0 +1,70 @@
+{
+  "id": "pt:dre:600677:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "",
+      "alterador": 3
+    },
+    {
+      "de": 16,
+      "ate": 18,
+      "texto": "e) Matemática, nas seguintes áreas de especialização:\n\nI) Álgebra;\n\nII) Física Matemática;\n\nIII) Análise Numérica e Ciências da Computação;\n\nIV) Investigação Operacional;\n\nV) Ensino.",
+      "alterador": 3
+    },
+    {
+      "de": 35,
+      "ate": 38,
+      "texto": "Limitações quantitativas\n\n1 - A matrícula e a inscrição em cada curso estão sujeitas a limitações quantitativas, a fixar anualmente por despacho do reitor da Universidade de Coimbra, ao abrigo do disposto na alínea e) do artigo 2.º do [Decreto-Lei n.º 323/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1984-400032), de 9 de Outubro, sob proposta do conselho científico, ouvido o conselho de departamento ou, caso este não exista, a comissão de grupo.\n\n2 - O despacho a que se refere o n.º 1 estabelecerá ainda:\n\na) Qual a percentagem de numerus clausus que será reservada prioritariamente a docentes de estabelecimentos de ensino superior;\n\nb) Qual a percentagem de numerus clausus que será reservada prioritariamente a candidatos que não sejam docentes de estabelecimentos de ensino superior, a qual não poderá ser inferior a 50%;\n\nc) Qual o número mínimo de inscrições indispensável ao funcionamento do curso e de cada área de especialização, que não poderá ser inferior, respectivamente, a vinte e a oito.\n\n3 - O despacho a que se refere o n.º 1 deverá ser publicado na 2.ª série do Diário da República antes do início do prazo de candidatura.",
+      "alterador": 3
+    },
+    {
+      "de": 70,
+      "ate": 76,
+      "texto": "I) Biologia ... 8\n\nII) Bioquímica ... 8\n\nIII) Biofísica ... 8\n\nc) Seminário:\n\nI) Biologia ... 4\n\nII) Bioenergética ... 4\n\nTotal ... 20",
+      "alterador": 1
+    },
+    {
+      "de": 93,
+      "ate": 108,
+      "texto": "",
+      "alterador": 3
+    },
+    {
+      "de": 115,
+      "ate": 115,
+      "texto": "3.1 - Área de especialização em Electrónica e Física Aplicada:",
+      "alterador": 1
+    },
+    {
+      "de": 120,
+      "ate": 126,
+      "texto": "I) Física do Estado Sólido ... 6\n\nII) Física Atómica e Molecular ... 6\n\nIII) Física Nuclear ... 6\n\nIV) Física de Radiação ... 6\n\nV) Biofísica ... 6\n\nVI) Estatística ... 6",
+      "alterador": 1
+    },
+    {
+      "de": 184,
+      "ate": 219,
+      "texto": "1 - Área científica do curso:\n\nMatemática.\n\n2 - Duração normal do curso:\n\n1 ano lectivo.\n\n3 - Áreas científicas e unidades de crédito necessárias à conclusão do concurso:\n\n3.1 - Áreas científicas obrigatórias para cada área de especialização:\n\n3.1.1 - Área de especialização em Álgebra:\n\na) Álgebra ... 12\n\n3.1.2 - Área de especialização em Física Matemática:\n\na) Física Matemática ... 12\n\n3.1.3 - Área de especialização em Análise Numérica e Ciências da Computação:\n\na) Análise Numérica ... 6\n\nb) Ciências da Computação ... 6\n\n3.1.4 - Área de especialização em Investigação Operacional:\n\na) Investigação Operacional ... 12\n\n3.1.5 - Área de especialização em Ensino:\n\na) História da Matemática ... 3\n\nb) Metodologia da Matemática ... 6\n\nc) Didáctica da Matemática ... 3\n\n3.2 - Áreas científicas optativas comuns a todas as áreas de especialização:\n\na) Todas as áreas científicas indicadas no n.º 3.1 ... 6\n\nb) Análise ... 6\n\nc) Geometria e Topologia ... 6\n\nd) Mecânica ... 6\n\ne) Probabilidades e Estatística ... 6\n\nf) Lógica e Fundamentos ... 6\n\ng) Teoria Combinatória ... 6\n\nh) Relatividade ... 6\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Matemática.\n\n5 - Ramos e especialidades a que se refere o n.º 10.º:\n\na) Doutoramento em Ciências, nas especialidades de:\n\nI) Álgebra;\n\nII) Análise;\n\nIII) Geometria e Topologia;\n\nIV) Mecânica e Física Matemática;\n\nV) Astronomia e Geodesia;\n\nVI) Análise Numérica e Computação;\n\nVII) Probabilidades e Estatística;\n\nVIII) Investigação Operacional;\n\nIX) História e Metodologia da Matemática.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 118,
+      "texto": "III) Mecânica Quântica ... 4",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alt. 4 (Portaria 189/90) extingue os mestrados em Física Experimental e Aplicada e em Física Teórica e derroga o original 'na parte referente' a esses mestrados, sem revogar nem alterar texto concreto (alíneas c) e d) do 1.º, anexos III e IV): não é alteração textual segura, não aplicada.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 1016/82): anexo I, ponto 3, novas unidades de crédito (unidades 70-76); anexo III, ponto 3.1, epígrafe 'Área', III) Mecânica Quântica aditada às obrigatórias e novas optativas (unidades 115, inserção após 118, 120-126; 'Total ... 20' igual); anexo V, pontos 2.1 e 2.2, superados pela nova redação de todo o anexo V (alt. 3).",
+    "Alt. 2 (Portaria 354/85): nova redação do 2.1 do anexo V; superada pela nova redação de todo o anexo V (alt. 3).",
+    "Alt. 3 (Portaria 92/88): suprime a alínea b) do 1.º (unidade 10) e o anexo II (unidades 93-108); nova redação da alínea e) do 1.º (16-18); nova redação do 6.º (epígrafe e corpo, 35-38); anexo V com nova redação (184-219, mantido o título do anexo).",
+    "Alt. 4 (Portaria 189/90): cria o mestrado em Física e extingue/derroga os mestrados em Física Experimental e Aplicada e Física Teórica; não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

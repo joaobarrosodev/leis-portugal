@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:301806:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Silves, com a área de 10594 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: substituição da planta anexa (só em imagem). Alteradores 2 a 6 (anexações, exclusões, nova delimitação de 11 491 ha sem nova redacção do n.º 2.º, concessão de outra zona e renovação) não dão nova redacção a nenhum ponto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 2.º; substituída a unidade 7.",
+    "Alterador 1, 2.º: substituição da planta anexa; só em imagem, não aplicada.",
+    "Alteradores 2 e 3: anexação de prédios rústicos; não textual, nada aplicado.",
+    "Alterador 4: zona passa a integrar os terrenos da nova planta (11 491 ha), sem alterar expressamente o n.º 2.º; não aplicado.",
+    "Alterador 5: exclusão de prédios e concessão da zona de caça turística do Romano; não textual, nada aplicado.",
+    "Alterador 6: renovação da transferência de gestão por seis anos (9431 ha); não textual, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

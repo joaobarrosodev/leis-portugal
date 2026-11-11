@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:617696:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Orca, município do Fundão, com a área de 2866 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Substituição da planta anexa (Portaria 1403/95) só em imagem; Portarias n.os 1079/2002 (renovação), 757/2005, 1170/2006, 1262/2008 e 506/2009 (anexações e desanexações com planta) não alteram textualmente o original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1403/95): nova redação do n.º 1.º (2995 ha); depois substituída de novo pelo alterador 2, fica a redação final na unidade 6. Substituição da planta: só em imagem, não aplicada.",
+    "Alterador 2 (Portaria 947/97), 1.º: nova redação do n.º 1.º (2866 ha; sem número na redação, mantido o \"1.º\"); substituída a unidade 6.",
+    "Alterador 2 (Portaria 947/97): aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 3 (Portaria 1079/2002): renovação por 12 anos; não textual.",
+    "Alteradores 4 a 7 (Portarias 757/2005, 1170/2006, 1262/2008, 506/2009): anexações/desanexações; não textuais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

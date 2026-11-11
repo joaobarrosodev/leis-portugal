@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:604407:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "Os factos cometidos forem puníveis também pela legislação do lugar em que tiverem sido praticados, salvo se nesse lugar não se exercer poder punitivo;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (Declaração de Rectificação 21/2001): 'não se exceder poder unitivo' passa a 'não se exercer poder punitivo' na unidade 8."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

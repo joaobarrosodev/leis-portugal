@@ -1,0 +1,66 @@
+{
+  "id": "pt:dre:373796:por",
+  "substituicoes": [
+    {
+      "de": 74,
+      "ate": 75,
+      "texto": "Cinco anos lectivos.\n\n3 - Número total de unidades de crédito necessário à concessão do grau:",
+      "alterador": 3
+    },
+    {
+      "de": 84,
+      "ate": 85,
+      "texto": "f) Topografia e Vias de Comunicação ... 12,5\n\ng) Hidráulica ... 14,5",
+      "alterador": 3
+    },
+    {
+      "de": 87,
+      "ate": 87,
+      "texto": "a) Estruturas ou Construções ou Topografia e Vias de Comunicação ou Planeamento ou Hidráulica ou Geotecnia ... 23,5",
+      "alterador": 3
+    },
+    {
+      "de": 99,
+      "ate": 100,
+      "texto": "Cinco anos lectivos.\n\n3 - Número total de unidades de crédito necessário à concessão do grau:",
+      "alterador": 2
+    },
+    {
+      "de": 103,
+      "ate": 113,
+      "texto": "4.1 - Áreas científicas obrigatórias:\n\na) Ciências Matemáticas ... 20\n\nb) Ciências Físico-Químicas ... 17\n\nc) Informática ... 8\n\nd) Técnicas de Base ... 38\n\ne) Ciências Geológicas ... 19\n\nf) Metalogénese/Prospecção ... 27\n\ng) Preparação de Minérios ... 20\n\nh) Exploração de Minas ... 28\n\ni) Ciências Sociais ... 11\n\nj) Línguas Vivas Estrangeiras ... 8\n\n4.2 - Projecto ... 8",
+      "alterador": 2
+    },
+    {
+      "de": 143,
+      "ate": 147,
+      "texto": "Cinco anos lectivos.\n\n3 - Número total de unidades de crédito necessário à concessão do grau:\n\n206,5 unidades de crédito.\n\n4 - Áreas científicas obrigatórias e distribuição de unidades de crédito:",
+      "alterador": 3
+    },
+    {
+      "de": 149,
+      "ate": 158,
+      "texto": "b) Física ... 13,5\n\nc) Química ... 11,5\n\nd) Mecânica ... 16,5\n\ne) Metalurgia Geral ... 24\n\nf) Metalurgia Física ... 23,5\n\ng) Metalurgia Química ... 20\n\nh) Metalurgia Extractiva ... 20\n\ni) Técnicas de Base ... 21,5\n\nj) Gestão ... 21,5\n\nl) Matérias Interdisciplinares ... 5",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 94,
+      "texto": "i) Geotecnia ... 15",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 (Portaria 825/85): os novos anexos V e VI (o 3.º diz 'anexo II', por lapso, para Engenharia Química) só existem em imagem. Alterador 4 (Portaria 436/87, 9.º) e alterador 5 (Portaria 511/90, 1.º e 7.º): mudança de designação e derrogação da portaria no que respeita aos cursos de Engenharia Electrotécnica e Metalúrgica, sem alteração textual; o anexo da 511/90 é estrutura de um curso novo, não substitui texto do original.",
+  "instrucoes": [
+    "Alt. 1, 1.º e 3.º: anexo V (e anexo da Engenharia Química) com nova redação só em imagem; não aplicado.",
+    "Alt. 2, 1.º: nova redação do anexo II (unidades 99-100 e 103-113) aplicada.",
+    "Alt. 2, 1.º: nova redação do anexo IV; substituída depois pela do alt. 3, por isso só fica a redação final do alt. 3.",
+    "Alt. 3, 1.º: nova redação do anexo I (unidades 74-75, 84-85, 87 e nova alínea i) depois da 94) e do anexo IV (unidades 143-147 e 149-158) aplicada.",
+    "Alt. 4, 9.º: derrogação quanto à Engenharia Electrotécnica, não textual; não aplicada.",
+    "Alt. 5, 1.º e 7.º: mudança de designação e derrogação quanto à Engenharia Metalúrgica, não textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

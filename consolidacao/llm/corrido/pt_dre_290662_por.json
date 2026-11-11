@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:290662:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Odeleite e Alcoutim, municípios de Castro Marim e Alcoutim, com a área de 812 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 a 8 (anexações e desanexação de prédios, renovação, transferência da concessão para o Clube de Caçadores da Foz de Odeleite) não dão nova redacção a nenhum ponto do original; não aplicados ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 1.º; substituída a unidade 6.",
+    "Alterador 1: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alteradores 2, 3, 4, 5 e 7: anexação de prédios rústicos (com plantas); não textual, nada aplicado.",
+    "Alterador 6: transferência da concessão, renovação por 12 anos e anexação; sem nova redacção do original, nada aplicado.",
+    "Alterador 8: desanexação de prédios (12 ha); não textual, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

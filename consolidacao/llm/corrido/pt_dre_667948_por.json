@@ -1,0 +1,42 @@
+{
+  "id": "pt:dre:667948:por",
+  "substituicoes": [
+    {
+      "de": 44,
+      "ate": 45,
+      "texto": "12.º - (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 46,
+      "ate": 52,
+      "texto": "13.º - (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 53,
+      "ate": 54,
+      "texto": "14.º - (Revogado.)",
+      "alterador": 6
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 18,
+      "texto": "1.º-A. A CRCB é equiparada, para efeitos do disposto na presente portaria, ao produtor, importador, armazenista e exportador.",
+      "alterador": 4
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 866/82): nova redação da alínea a) do n.º 1 do 13.º; absorvida pela revogação do 13.º pelo alterador 6.",
+    "Alterador 2 (Portaria 101/83): nova redação das alíneas a) e b) do n.º 1 do 13.º (e revoga a Portaria 866/82, que não é o original); absorvida pela revogação do 13.º.",
+    "Alterador 3 (Portaria 581/84): nova redação do n.º 1 do 13.º e do n.º 1 do 14.º; absorvida pela revogação dos 13.º e 14.º.",
+    "Alterador 4 (Portaria 378/85): aditado o 1.º-A depois do 1.º (a seguir à unidade 18).",
+    "Alterador 5 (Portaria 779/87): nova redação do n.º 1 do 13.º e do n.º 1 do 14.º; absorvida pela revogação dos 13.º e 14.º.",
+    "Alterador 6 (Portaria 995/89), 2.º, a): revogados os 12.º (unidades 44-45), 13.º (unidades 46-52) e 14.º (unidades 53-54); as outras alíneas revogam outros diplomas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

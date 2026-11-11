@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:265129:por",
+  "substituicoes": [
+    {
+      "de": 31,
+      "ate": 36,
+      "texto": "Art. 2.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 634/76, art. 8.º: revoga o artigo 2.º do DL 48546; unidades 31-36 passam a 'Art. 2.º - (Revogado.)'",
+    "DL 634/76, restantes artigos: regime autónomo de acumulações, sem alteração textual ao original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 31-36: parágrafo que não está no alterador nem no original: Art. 2.º - (Revogado.)"
+  ]
+}

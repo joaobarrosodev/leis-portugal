@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:379942:por",
+  "substituicoes": [
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "1 - A duração normal dos cursos é de 5 anos lectivos.\n\n2 - Os restantes elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690) são os constantes dos anexos I a VIII da presente portaria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 2, 3 e 4 (Portarias 317-E/86, 549/88 e 453/89) dão nova redação aos anexos I, VII e VIII, que no original só existem em imagem (unidades 48-49); a mudança de designação do curso de Engenharia de Construção Naval (549/88, 2.º) não é alteração textual da portaria.",
+  "instrucoes": [
+    "Alt. 1: nova redação do n.º 2.º (corpo, unidade 30) aplicada; número e epígrafe ficam.",
+    "Alt. 2, 3 e 4: novos anexos I, VII e VIII sobre anexos em imagem; não aplicados.",
+    "Alt. 3, 2.º: mudança de designação para Engenharia Naval, não textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

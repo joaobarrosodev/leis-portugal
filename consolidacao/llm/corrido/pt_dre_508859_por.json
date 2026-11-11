@@ -1,0 +1,99 @@
+{
+  "id": "pt:dre:508859:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "São habilitações de acesso ao curso de Engenheiro Civil Municipal:",
+      "alterador": 2
+    },
+    {
+      "de": 14,
+      "ate": 15,
+      "texto": "b) Uma licenciatura nas áreas da Engenharia Civil ou Engenharia do Ambiente.",
+      "alterador": 2
+    },
+    {
+      "de": 27,
+      "ate": 33,
+      "texto": "b) Candidatos titulares das licenciaturas a que se refere a alínea b) do n.º 2.º\n\n2 - Os candidatos que satisfaçam simultaneamente aos requisitos para a inclusão no contingente a que se refere a alínea b) do n.º 1 e no contingente a que se refere a alínea a) do mesmo número serão considerados pelo contingente a que se refere a alínea b).\n\n3 - As percentagens das vagas a afectar a cada contingente são as seguintes:\n\na) Da alínea a) do n.º 1 - 90%;\n\nb) Da alínea b) do n.º 1 - 10%.",
+      "alterador": 2
+    },
+    {
+      "de": 41,
+      "ate": 41,
+      "texto": "Para a candidatura ao curso, o conselho científico nomeará um júri, constituído por professores do Instituto Superior de Engenharia, responsável por:",
+      "alterador": 2
+    },
+    {
+      "de": 43,
+      "ate": 43,
+      "texto": "b) Aplicar a grelha de apreciação do currículo;",
+      "alterador": 2
+    },
+    {
+      "de": 45,
+      "ate": 46,
+      "texto": "d) Proceder às operações de selecção e seriação dos candidatos e à elaboração das listas ordenadas finais.",
+      "alterador": 2
+    },
+    {
+      "de": 65,
+      "ate": 65,
+      "texto": "1 - O currículo deverá integrar as componentes profissional e de formação contínua e científica relacionadas com a área do curso.",
+      "alterador": 2
+    },
+    {
+      "de": 68,
+      "ate": 68,
+      "texto": "4 - A grelha de apreciação do currículo e as disciplinas a considerar para o cálculo da componente Cm a que se refere o n.º 11.º serão apresentadas pelo conselho científico do Instituto Superior de Engenharia, sob proposta da área científica de Civil, e objecto de afixação pública antes do início do prazo das candidaturas, devendo um exemplar da mesma ser remetido ao Departamento do Ensino Superior.",
+      "alterador": 2
+    },
+    {
+      "de": 122,
+      "ate": 127,
+      "texto": "18.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 130,
+      "ate": 130,
+      "texto": "A duração do curso é de quatro semestres lectivos.",
+      "alterador": 1
+    },
+    {
+      "de": 133,
+      "ate": 133,
+      "texto": "O regime de inscrição (incluindo o de prescrição do direito à inscrição e o das condições de reingresso), bem como o regime de frequência, serão fixados pela escola, através do órgão competente.",
+      "alterador": 1
+    },
+    {
+      "de": 139,
+      "ate": 139,
+      "texto": "1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações obtidas pelo aluno nas disciplinas que integram o respectivo plano de estudos.",
+      "alterador": 2
+    },
+    {
+      "de": 145,
+      "ate": 145,
+      "texto": "b) (Revogada.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O plano de estudos (anexo), substituído pelo anexo I do alterador 1 e depois pelos quadros n.os 1 a 4 do alterador 2, só vem em imagem. O alterador 2, 2.º, revoga também os n.os 2.º, 5.º, 7.º, 10.º e 22.º, a que o mesmo alterador dá nova redação: tomou-se essa revogação como referente à redação anterior e manteve-se a nova; só se aplicou a revogação ao n.º 18.º e à alínea b) do n.º 23.º.",
+  "instrucoes": [
+    "Alterador 1, 1.º, 1: novo plano de estudos (anexo I, imagem): não aplicado.",
+    "Alterador 1, 1.º, 2: nova redação dos n.os 19.º e 20.º: substituídas as unidades 130 e 133 (epígrafes iguais).",
+    "Alterador 2, 1.º, 1: altera os quadros do anexo da Portaria 954/93 (imagem): não aplicado.",
+    "Alterador 2, 1.º, 2: nova redação do n.º 2.º: unidades 12 e 14-15.",
+    "Alterador 2, 1.º, 2: nova redação do n.º 5.º: unidades 27-33.",
+    "Alterador 2, 1.º, 2: nova redação do n.º 7.º: unidades 41, 43 e 45-46.",
+    "Alterador 2, 1.º, 2: nova redação do n.º 10.º: unidades 65 e 68.",
+    "Alterador 2, 1.º, 2: nova redação do n.º 22.º: unidade 139.",
+    "Alterador 2, 2.º: revoga o n.º 18.º (unidades 122-127 passam a '18.º - (Revogado.)') e a alínea b) do n.º 23.º (unidade 145); a revogação dos n.os 2.º, 5.º, 7.º, 10.º e 22.º, que o mesmo diploma redige de novo, não se aplicou."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

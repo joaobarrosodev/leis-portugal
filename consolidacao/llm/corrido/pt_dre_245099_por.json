@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:245099:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 12,
+      "texto": "1.º - 1 - O direito nivelador referido no n.º 3 do artigo 6.º do [Decreto-Lei n.º 514/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1985-546420), aplicável aos produtos provenientes da Comunidade Económica Europeia, na sua composição em 31 de Dezembro de 1985, e de Espanha, é fixado trimestralmente, podendo este período ser reduzido em função da variação dos preços limiares dos cereais.\n\n2 - Os trimestres referidos no n.º 1 têm início em 1 de Novembro, 1 de Fevereiro, 1 de Maio e 1 de Agosto.",
+      "alterador": 1
+    },
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "5.º Os direitos niveladores são calculados, de acordo com as regras estabelecidas na presente portaria, pela Junta Nacional dos Produtos Pecuários, em colaboração com a Direcção-Geral de Concorrência e Preços, e publicados trimestralmente, sob a forma de aviso, na 2.ª série do Diário da República, pelo menos, cinco dias úteis antes do início do período a que se reportam.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 460/86 3.º: supressão de /dúzia na coluna 3 do anexo I (quadro só em imagem). Portaria 343/87: anexo I substituído (imagem) e percentagem da alínea b) do n.º 2.º passa a 11%, mas a Portaria 600/87 revoga a 343/87 e substitui essa percentagem pelo anexo II (imagem), pelo que o texto final da alínea b) não se pode fixar; unidade 19 não alterada. Portaria 600/87 anexo I e Portaria 252/89 (anexos II e III e mapa da 600/87): substituições de anexos só em imagem.",
+  "instrucoes": [
+    "460/86 1.º: nova redação do n.º 1.º (n.os 1 e 2) e do 5.º; unidades 11-12 (inclui o primeiro 2.º truncado) e 23.",
+    "460/86 2.º: suprime o primeiro n.º 2.º (unidade 12), absorvido na substituição 11-12.",
+    "460/86 3.º: anexo I em imagem; nao_aplicavel.",
+    "343/87: anexo I e percentagem 11%; revogada pela 600/87; não aplicada.",
+    "600/87: anexo I e percentagem substituídos por anexos em imagem; nao_aplicavel.",
+    "252/89: anexos em imagem; nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

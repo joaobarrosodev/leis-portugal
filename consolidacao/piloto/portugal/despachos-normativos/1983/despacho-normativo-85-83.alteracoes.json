@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Comportamento industrial base e preços de intervenção correspondentes:",
+    "depois": "c) Comportamento industrial base e preços de intervenção:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312979:por",
+    "alterador": "pt:dre:441484:por"
+  }
+]

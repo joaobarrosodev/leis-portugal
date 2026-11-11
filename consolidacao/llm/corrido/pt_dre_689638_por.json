@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:689638:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1, 2, 3, 4 e 5: alteram ou acrescentam lugares ao quadro de pessoal por mapas que só vêm em imagem. O n.º 2.º do alterador 3 remete para o anexo I dessa portaria (unidades orgânicas administrativas) sem mandar substituir o texto do n.º 2.º do original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1: quadro alterado pelo quadro anexo (imagem); não aplicado.",
+    "Alterador 2: quadro alterado pelo quadro anexo (imagem); não aplicado.",
+    "Alterador 3: quadro alterado pelo mapa anexo (imagem) e unidades administrativas no anexo I da própria portaria; não aplicado.",
+    "Alterador 4: lugares acrescidos ao quadro (anexo n.º 2, imagem); não aplicado.",
+    "Alterador 5: quadro alterado pelo mapa anexo (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

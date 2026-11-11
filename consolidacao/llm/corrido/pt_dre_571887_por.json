@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:571887:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (Portaria n.º 29-A/98): revisão anual autónoma das remunerações e pensões para 1998; não contém instruções de alteração do texto da Portaria n.º 60/97 - nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

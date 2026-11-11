@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:265972:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 1204/95) extingue lugares e adita três lugares no quadro do mapa I, e alterador 2 (Portaria 559/96) cria um lugar de telefonista no mesmo quadro; o mapa I só existe em imagem e nenhuma das instruções dá nova redação ao texto.",
+  "instrucoes": [
+    "Portaria 1204/95: extinção e aditamento de lugares no mapa I (imagem); não aplicada",
+    "Portaria 559/96: criação de um lugar de telefonista no quadro (mapa I, imagem); não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

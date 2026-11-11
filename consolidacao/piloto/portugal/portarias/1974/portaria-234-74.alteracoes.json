@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5 - Devem os industriais barbeiros e cabeleireiros apresentar aquando da inscrição nas caixas sindicais de previdência documento comprovativo do efectivo exercício da actividade profissional, o qual deverá ser passado pelo grémio competente.",
+    "depois": "5 - Devem os industriais barbeiros e cabeleireiros apresentar, quando da inscrição nas caixas sindicais de previdência, documento comprovativo do efectivo exercício de actividade profissional passado pela associação de classe respectiva, ou documento comprovativo da tributação industrial, ou ainda o título de tributação referente à actividade abrangida pela presente portaria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:412216:por",
+    "alterador": "pt:dre:324734:por"
+  }
+]

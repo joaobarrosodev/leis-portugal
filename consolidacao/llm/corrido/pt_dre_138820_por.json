@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:138820:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, artigo 1.º: muda a designação do Serviço de Mecanografia e Estatística da Força Aérea para Serviço de Informática da Força Aérea, sem nova redação de texto do original (alteração não textual). Os artigos 2.º a 4.º alteram outros diplomas (Decreto-Lei n.º 40949 e Decreto-Lei n.º 409/70) e foram ignorados.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: mudança de designação do serviço; não textual, não aplicada.",
+    "Alterador 1, art. 2.º: nova redação da alínea b) do § 4.º do artigo 10.º do Decreto-Lei n.º 40949 (outro diploma, na redação dada pelo original); ignorada.",
+    "Alterador 1, arts. 3.º e 4.º: alteram o Decreto-Lei n.º 409/70; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

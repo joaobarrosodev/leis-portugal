@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:565429:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 (Portaria n.º 64/98) e 2 (Portaria n.º 275/2001): substituem o plano de estudos do curso de Sociologia Aplicada (anexo), que no original e nos alteradores só vem em imagem; as restantes normas (aplicação, transição, número máximo de alunos, semanas lectivas) são normas próprias dos alteradores, não alterações textuais do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: plano de estudos de Sociologia Aplicada passa a ser o do anexo (imagem) - não aplicado, anexo só em imagem.",
+    "Alterador 1, 2.º e 3.º: aplicação e transição - normas próprias, nada a mudar no original.",
+    "Alterador 2, 1.º: novo plano de estudos de Sociologia Aplicada (quadros em imagem) - não aplicado.",
+    "Alterador 2, 2.º a 5.º: número de alunos, semanas lectivas, transição, aplicação - normas próprias, nada a mudar no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

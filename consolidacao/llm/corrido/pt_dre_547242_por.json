@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:547242:por",
+  "substituicoes": [
+    {
+      "de": 34,
+      "ate": 34,
+      "texto": "1 - Podem candidatar-se à matrícula e inscrição no curso de estudos superiores especializados em Apoio Educativo a Populações Especiais os estudantes que satisfaçam, cumulativamente, as seguintes condições:\n\na) Ser titular do grau de bacharel ou de licenciado;\n\nb) Ter habilitação profissional para a docência na educação pré-escolar ou nos ensinos básico ou secundário.",
+      "alterador": 3
+    },
+    {
+      "de": 39,
+      "ate": 58,
+      "texto": "1 - As vagas para o curso de estudos superiores especializados em Apoio Educativo a Populações Especiais repartem-se pelos seguintes contingentes:\n\na) Educadores de infância e professores profissionalizados do ensino básico ou do ensino secundário com uma experiência mínima de três anos como educador ou professor profissionalizado em tempo integral;\n\nb) Para os restantes candidatos.\n\n2 - As vagas para o curso de estudos superiores especializados em Comunicação Educacional Multimédia repartem-se pelos seguintes contingentes:\n\na) Educadores de infância e professores profissionalizados do ensino básico ou do ensino secundário e docentes do ensino superior com experiência mínima de três anos nestas funções em tempo integral;\n\nb) Para os restantes candidatos.\n\n3 - As vagas para o curso de estudos superiores especializados em Estudos Africanos e Ensino da Língua Portuguesa em África repartem-se pelos seguintes contingentes:\n\na) Candidatos com experiência docente de três anos como professores profissionalizados;\n\nb) Para os restantes candidatos.\n\n4 - A percentagem de vagas a afectar a cada contingente de cada curso é fixada pelo presidente do Instituto, ouvido o director da Escola.\n\n5 - As vagas eventualmente não ocupadas num dos contingentes de um curso revertem para o outro contingente do mesmo curso, não podendo as vagas sobrantes deste processo ser utilizadas para qualquer outro fim.",
+      "alterador": 3
+    },
+    {
+      "de": 121,
+      "ate": 121,
+      "texto": "Aos alunos aprovados em todas as disciplinas que integram o plano de estudos do curso será emitido um diploma do modelo constante no anexo IV à presente portaria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 135,
+      "texto": "Anexo IV\n\nDiploma\n\nR (ver nota a) P\n\n... (ver nota b), presidente da comissão instaladora do Instituto Politécnico de Santarém, faz saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver nota e), concluiu em ... (ver nota f), na Escola Superior de Educação deste Instituto, o curso de estudos superiores especializados em ... (ver nota g), com a classificação final de ... (ver nota h), pelo que, em conformidade com as disposições legais em vigor, lhe mandei passar o presente diploma de estudos superiores especializados em ... (ver nota g).\n\nInstituto Politécnico de Santarém, ... (ver nota i).\n\nO Presidente da Comissão Instaladora do Instituto Politécnico de Santarém, ...\n\nO Presidente da Comissão Instaladora da Escola Superior de Educação, ...\n\nO Administrador, ...\n\nO Secretário da Escola Superior de Educação, ...\n\n(nota a) Símbolo do Instituto Politécnico de Santarém.\n\n(nota b) Nome do presidente da comissão instaladora do Instituto Politécnico de Santarém.\n\n(nota c) Nome do titular do diploma.\n\n(nota d) Nome do pai e da mãe do titular do diploma.\n\n(nota e) Freguesia, conselho e distrito da naturalidade do titular do diploma.\n\n(nota f) Data da conclusão do curso.\n\n(nota g) Conforme o caso: Apoio Educativo a Populações Especiais; Comunicação Educacional Multimédia; Estudos Africanos e Ensino da Língua Portuguesa em África.\n\n(nota h) Classificação final calculada nos termos do n.º 17.º\n\n(nota i) Data da emissão do diploma.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Portaria 363/90 (quadros n.os 1 e 2 do anexo III) e Portaria 391/97, 1.º, n.º 2 (quadro n.º 3 do anexo I): os anexos com os planos de estudos só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1, 2.º, n.º 1: no n.º 18.º 'anexo III' passa a 'anexo IV'; unidade 121.",
+    "Alterador 1, 2.º, n.º 2: aprova o anexo IV (modelo de diploma); inserido depois da unidade 135. O 1.º fixa vagas para 1989-1990 (disposição própria), nada a fazer.",
+    "Alterador 2: quadros do anexo III (imagem); não aplicado.",
+    "Alterador 3, 1.º, n.º 1: nova redação do n.º 1 do n.º 5.º (unidade 34; epígrafe igual e '...' mantêm o resto) e do n.º 6.º (unidades 39-58).",
+    "Alterador 3, 1.º, n.º 2: quadro n.º 3 do anexo I (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:617950:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Pontével, município do Cartaxo, com a área de 1078 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alteradores 1, 3, 4, 5 e 6 (Portarias n.os 1006/97, 635/98, 245/99, 194/2000 e 1371/2006): suspensões, renovação e anexações com plantas em imagem; não dão nova redacção ao texto do original. A Portaria n.º 945/94, citada como alteradora, não vem no pedido (a nova redacção do n.º 1.º do alterador 2 substitui-o por inteiro).",
+  "instrucoes": [
+    "Alterador 1: suspensão da actividade cinegética por 180 dias - sem alteração textual.",
+    "Alterador 2, 1.º: nova redacção do n.º 1.º (área 1078 ha) - substituída a unidade 6, mantendo a numeração 1.º, que a nova redacção não traz.",
+    "Alterador 2, 1.º (2.º parágrafo): aditado o n.º 1.º-A - inserido a seguir à unidade 6, com a numeração 1.º-A.",
+    "Alterador 2, 2.º a 4.º: manutenção de direitos, revogação da Portaria n.º 1006/97, vigência - normas próprias.",
+    "Alterador 3: suspensão da actividade cinegética - sem alteração textual.",
+    "Alterador 4: renovação por 17 anos com 1008,6786 ha - sem alteração textual.",
+    "Alterador 5: anexação de 27,80 ha - sem alteração textual.",
+    "Alterador 6: anexação de 17 ha - sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

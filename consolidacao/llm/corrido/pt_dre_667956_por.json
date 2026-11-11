@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:667956:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2: alteram o quadro de pessoal (mapa anexo) por mapas que só vêm em imagem; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º: quadro alterado de acordo com o mapa (imagem); não aplicado.",
+    "Alterador 2, 1.º: quadro alterado de acordo com o mapa anexo (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

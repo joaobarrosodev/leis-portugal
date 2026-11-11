@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:210599:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "1.º Aos certificados de aforro da série B emitidos até 31 de Maio de 1989 será aplicada, no termo dos respectivos prazos de garantia, a taxa de juro correspondente à taxa líquida que resulte da aplicação da taxa liberatória do IRS à taxa anual nominal bruta definida pela [Portaria n.º 314-A/89](https://diariodarepublica.pt/dr/detalhe/portaria/314-a-1989-424311), de 3 de Maio.",
+      "alterador": 1
+    },
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "3.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º; substituída a unidade 4, mantendo o número 1.º.",
+    "Alterador 1, 2.º e 3.º: normas autónomas (novo limite de 50000 contos e antiguidade), sem alteração textual do original; n.º 4.º não alterado.",
+    "Alterador 1, 4.º: revoga o n.º 3.º; unidade 6 passa a '3.º - (Revogado.)'. As outras portarias revogadas não são o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

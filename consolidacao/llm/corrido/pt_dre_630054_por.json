@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:630054:por",
+  "substituicoes": [
+    {
+      "de": 65,
+      "ate": 66,
+      "texto": "33 - Os lotes a aprovar no ensaio a que se refere o número anterior devem satisfazer as características seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/02700/03270328.pdf)\n\na) Por impurezas entende-se matéria inerte, grãos partidos ou descascados e sementes de outras espécies.\n\nb) As sementes de outras espécies não podem ultrapassar o limite máximo de 0,1%.\n\nc) Quando o cereal apresentar um teor de impurezas entre 6% e 15%, descontar-se-á, no peso, a percentagem que exceder os 6%.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 122/83), 1.º: nova redação do n.º 33 (corpo, quadro e alíneas a) a c)); substituídas as unidades 65-66 (o quadro só vem em imagem, fica a ligação do alterador)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

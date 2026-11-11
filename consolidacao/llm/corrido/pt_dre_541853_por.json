@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:541853:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "2 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 13,
+      "ate": 15,
+      "texto": "3 - Ao abrigo do disposto no n.º 1 do artigo 8.º do Regulamento (CE) n.º 1973/2004, da Comissão, de 29 de Outubro, é publicada em anexo ao presente despacho, e dele faz parte integrante, a lista das variedades elegíveis de trigo duro para o prémio específico à qualidade a atribuir em 2009.",
+      "alterador": 4
+    },
+    {
+      "de": 18,
+      "ate": 22,
+      "texto": "6 - Ao abrigo do disposto no n.º 1 do artigo 8.º do Regulamento (CE) n.º [796/2004](https://data.europa.eu/eli/reg/2004/796/oj?locale=pt), da Comissão, de 21 de Abril, é elegível, para efeitos do prémio à qualidade do trigo-duro e do prémio às proteaginosas, a totalidade da área das parcelas com culturas realizadas sob coberto de árvores dispersas de qualquer espécie arbórea ou em povoamentos mistos, desde que a sua densidade não ultrapasse 60 árvores por hectare.",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 80,
+      "texto": "Lista de variedades elegíveis ao prémio específico à qualidade do trigo duro\n\nAriesol.\n\nAvispa.\n\nBaliduro.\n\nCarioca.\n\nCelta.\n\nCimbel.\n\nColosseo.\n\nConcadoro.\n\nDonduro.\n\nDuilio.\n\nHélvio.\n\nImhotep.\n\nItalo.\n\nKhandur.\n\nMarialva.\n\nPreco.\n\nSilur.\n\nSimeto.\n\nVítrico.",
+      "alterador": 4
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do n.º 6 (corpo e alíneas a) a d)); substituídas as unidades 18-22 por um parágrafo.",
+    "Alterador 1, art. 3.º: revogado o n.º 2; unidade 12 fica '2 - (Revogado.)'. O art. 2.º altera o DN 18/2004 (outro diploma), ignorado.",
+    "Alteradores 2, 3 e 4: nova redação sucessiva do n.º 3 (texto único, sem alíneas) e revogação da alínea b) pelo alterador 2, que deixa de existir; aplicada a redação final do alterador 4 às unidades 13-15.",
+    "Alteradores 2, 3 e 4: nova lista de variedades em anexo (o alterador 4 diz que é o anexo a que se refere o n.º 3 do DN 16/2004); aplicada a lista final do alterador 4 às unidades 30-80, mantendo o título do anexo (29). As revogações dos DN 20/2006 e 37/2007 visam os alteradores, não o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

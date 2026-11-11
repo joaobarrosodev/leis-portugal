@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:179344:por",
+  "substituicoes": [
+    {
+      "de": 50,
+      "ate": 52,
+      "texto": "Art. 3.º - (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: altera os artigos 2.º, 72.º, 74.º, 95.º e 101.º do Código do Registo Predial (outro diploma); ignorado.",
+    "Alterador 2, art. 5.º: revoga o artigo 3.º do original (unidades 50 a 52); substituídas por 'Art. 3.º - (Revogado.)'.",
+    "Alterador 3: converte valores em escudos noutros diplomas e altera os artigos 12.º e 97.º do Código do Registo Predial; o original não tem valores em escudos; nada a aplicar.",
+    "Alteradores 4 a 8: sem artigos que mencionem o original; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 50-52: parágrafo que não está no alterador nem no original: Art. 3.º - (Revogado.)"
+  ]
+}

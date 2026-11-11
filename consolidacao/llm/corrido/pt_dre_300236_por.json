@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:300236:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Pedrógão de São Pedro, município de Penamacor, com a área de 1537,9350 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Substituição da planta anexa (alteradores 1 e 2) só vem em imagem; Portaria n.º 504/2000 (suspensão) e Portaria n.º 670/2000 (renovação com nova área) não são alterações textuais; Portarias n.os 986/2005 e 1159/2006 dirigem-se à zona de caça concessionada pela Portaria n.º 670/2000, sem alterar o texto do original.",
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 1.º (1881,06 ha); substituída depois pela do alterador 2.",
+    "Alterador 2: nova redacção do n.º 1.º (1537,9350 ha) aplicada à unidade 6, mantendo a numeração 1.º; aditado o n.º 1.º-A depois da unidade 6.",
+    "Alterador 3: suspensão da actividade cinegética, não textual.",
+    "Alterador 4: renovação da concessão com nova área, não textual.",
+    "Alteradores 5 e 6: anexação de prédios e renovação, sem alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

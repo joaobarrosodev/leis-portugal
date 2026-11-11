@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Soalheira, município do Fundão, com uma área de 413,1250 ha, e freguesias de Louriçal do Campo e São Vicente da Baira, município de Castelo Branco, com uma área de 908,5375 ha, perfazendo uma área de 1321,6625 ha.",
+    "depois": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Soalheira, Louriçal do Campo e São Vicente da Beira, municípios de Fundão e Castelo Branco, com a área de 1242,3075 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:301597:por",
+    "alterador": "pt:dre:642886:por"
+  },
+  {
+    "artigo": "depois da unidade 6",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:301597:por",
+    "alterador": "pt:dre:642886:por"
+  }
+]

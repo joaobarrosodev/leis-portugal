@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:556009:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Proença-a-Velha, município de Idanha-a-Nova, com a área de 1785,1425 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "A substituição da planta anexa (alteradores 1 e 2) só existe em imagem; não aplicada. Os alteradores 3 a 6 (suspensão da caça, renovações da concessão por seis anos, anexações de prédios e novas áreas) não contêm instruções textuais dirigidas ao original; não aplicados.",
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 1.º (1868,85 ha); aplicada à unidade 6, depois substituída pela redacção do alterador 2. Substituição da planta anexa: só em imagem, não aplicada.",
+    "Alterador 2, 1.º: nova redacção do n.º 1.º (1785,1425 ha); substituída a unidade 6 mantendo o número 1.º. Aditado o n.º 1.º-A, inserido depois da unidade 6.",
+    "Alterador 3: suspende o exercício da caça até à renovação; não textual, não aplicado.",
+    "Alterador 4: renova a concessão por seis anos com área de 1555,9525 ha e revoga a Portaria n.º 592/2002 (outro diploma); não textual, não aplicado.",
+    "Alterador 5: anexa prédios (área total 1648 ha); não textual, não aplicado.",
+    "Alterador 6: renova a concessão e anexa prédios (área total 1511 ha); não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

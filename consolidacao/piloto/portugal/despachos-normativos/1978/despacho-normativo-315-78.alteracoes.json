@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 44-45",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "12 - O montante do apoio será função das necessidades da empresa determinadas pelos serviços competentes da SEPE, não podendo ultrapassar, independentemente da sua forma, o seguinte limite máximo:\n\nO equivalente ao subsídio de desemprego, por posto de trabalho a criar, durante dois anos, calculado com base no montante mensal mais elevado.",
+    "depois": "12 - O montante do apoio será o equivalente ao subsídio de desemprego, por posto de trabalho a criar, durante dois anos, calculado com base no montante mensal mais elevado.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:326701:por",
+    "alterador": "pt:dre:473913:por"
+  }
+]

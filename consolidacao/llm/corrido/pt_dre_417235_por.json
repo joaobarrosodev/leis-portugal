@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:417235:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 53/95) cria um lugar no quadro de pessoal anexo e alterador 2 (Portaria 299/97) substitui o quadro anexo; o quadro só existe em imagem. O 2.º da Portaria 299/97 fixa por si as unidades orgânicas do novo quadro, mas não dá nova redação ao n.º 2.º do original.",
+  "instrucoes": [
+    "Alt. 1: novo lugar no quadro anexo (imagem); não aplicado.",
+    "Alt. 2, 1.º: substituição do quadro anexo (imagem); não aplicada.",
+    "Alt. 2, 2.º e 3.º: normas próprias, não textuais no original; não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

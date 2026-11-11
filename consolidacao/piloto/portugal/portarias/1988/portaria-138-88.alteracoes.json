@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 19-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º\n\nSituações excluídas\n\nSerá recusado financiamento em relação a obras de construção de estabelecimentos de equipamento social de iniciativa de IPSS, verificadas que sejam as seguintes situações:\n\na) A adjudicação não ter sido precedida de concurso público, salvo, a título excepcional, os casos de administração directa confiada a entidades tecnicamente idóneas;\n\nb) A adjudicação recair sobre entidade a que qualquer dirigente da instituição esteja ligado por laços familiares ou nela detenha interesses.",
+    "depois": "2.º\n\nCondições de adjudicação das obras\n\n1 - O financiamento das obras fica dependente da adjudicação das mesmas por concurso público, concurso limitado, concurso por negociação ou ajuste directo, nos termos do regime jurídico das empreitadas de obras públicas.\n\n2 - O recurso ao ajuste directo deverá ser precedido de consulta a, pelo menos, três entidades.\n\n3 - As obras poderão ser realizadas, a título excepcional, por administração directa se por esta forma forem significativamente reduzidos os respectivos custos, sem prejuízo das condições técnicas exigíveis e desde que supervisionadas por entidade tecnicamente idónea.\n\n4 - A adjudicação das obras nos termos dos n.os 2 e 3 será devidamente fundamentada pelo órgão competente da instituição e carece de parecer favorável do centro regional de segurança social.\n\n5 - As obras não poderão, em qualquer caso, ser adjudicadas a entidade a que qualquer dirigente da instituição esteja ligado por laços familiares ou nela detenha interesses.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:287461:por",
+    "alterador": "pt:dre:407753:por"
+  }
+]

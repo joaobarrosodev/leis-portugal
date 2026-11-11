@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:288188:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Cortes, município de Leiria, com a área de 853,80 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 (Portaria 799/94): substituição da planta, só em imagem. Alterador 3 (Portaria 915/2002): suspensão temporária do exercício da caça, não textual. Alterador 4 (Portaria 1283/2002): renovação da concessão e revogação da Portaria 915/2002, não textual.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 799/94): nova redação do n.º 1.º (1111 ha) — aplicada à unidade 6, depois substituída pela do alterador 2.",
+    "Alterador 2 (Portaria 907/97): nova redação do n.º 1.º (853,80 ha) — unidade 6, mantido o número '1.º'; aditado o n.º 1.º-A — inserção após a unidade 6.",
+    "Alterador 3: suspensão da caça — não textual, em nao_aplicavel.",
+    "Alterador 4: renovação — não textual, em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

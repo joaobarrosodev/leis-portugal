@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:466836:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2, 1.º: o anexo (plano de estudos) passa a ter a redação do anexo da Portaria 1104/97, cujo quadro só vem em imagem. Alterador 1 muda a designação e a entidade instituidora da Escola sem alterar o texto da portaria.",
+  "instrucoes": [
+    "Alterador 1 (DL 261/97): muda o nome da Escola e a entidade instituidora: não é alteração textual da portaria.",
+    "Alterador 2, 1.º: substitui o anexo por quadro em imagem: não aplicado.",
+    "Alterador 3: altera o anexo I da Portaria 875/2000 (outro diploma): ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:303098:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Monsanto e Louriceira, município de Alcanena, com a área de 1463,1744 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alteradores 1 (Portaria n.º 991/97) e 3 (Portaria n.º 490/98) só suspendem a actividade cinegética; alterador 4 (Portaria n.º 403/99) renova a concessão com 1571,1148 ha e diz no preâmbulo que 1463,1744 ha foi lapso, mas não dá nova redacção ao n.º 1.º: não aplicados.",
+  "instrucoes": [
+    "Alterador 1: suspensão por 180 dias (depois revogada pelo alterador 2); não textual.",
+    "Alterador 2, 1.º: nova redacção do n.º 1.º; substituída a unidade 6.",
+    "Alterador 2: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 3: suspensão por 180 dias; não textual.",
+    "Alterador 4: renovação por 15 anos com 1571,1148 ha por planta; sem instrução textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

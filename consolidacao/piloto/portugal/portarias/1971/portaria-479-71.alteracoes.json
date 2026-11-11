@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 65-66",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "33. Os lotes a aprovar no ensaio a que se refere o número anterior devem satisfazer as características seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/20700/12601262.pdf)",
+    "depois": "33 - Os lotes a aprovar no ensaio a que se refere o número anterior devem satisfazer as características seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/02700/03270328.pdf)\n\na) Por impurezas entende-se matéria inerte, grãos partidos ou descascados e sementes de outras espécies.\n\nb) As sementes de outras espécies não podem ultrapassar o limite máximo de 0,1%.\n\nc) Quando o cereal apresentar um teor de impurezas entre 6% e 15%, descontar-se-á, no peso, a percentagem que exceder os 6%.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:630054:por",
+    "alterador": "pt:dre:308311:por"
+  }
+]

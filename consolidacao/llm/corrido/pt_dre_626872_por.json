@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:626872:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 altera quadros dos anexos I e II, que só existem em imagem. O alterador 2 revoga, findo o processo de transição, a 'Portaria n.º 1431/89, de 27 de Novembro' no que regula o bacharelato em Engenharia Técnica da Produção, opção Produção Vegetal: número e alcance não coincidem com o original e a revogação é condicionada e parcial, sem alvo textual seguro.",
+  "instrucoes": [
+    "Alterador 1: nova redação dos quadros n.os 1, 2, 3, 7 e 8 do anexo I e 1 e 5 do anexo II (em imagem): não aplicado.",
+    "Alterador 2: aprova o plano de estudos de outro curso e revoga, findo o processo de transição, a Portaria 1431/89 quanto à opção Produção Vegetal: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

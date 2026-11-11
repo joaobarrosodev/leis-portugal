@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:613001:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 131/90), artigo 1.º: o quadro de pessoal (anexo I) passa a ser o do mapa I, que só vem em imagem. Alterador 2 (Portaria n.º 487/90): acrescenta lugares ao quadro por mapa em imagem. Os restantes artigos do Decreto-Lei n.º 131/90 são normas próprias (o mapa III fixa conteúdos funcionais de outras carreiras, não do técnico auxiliar do anexo II).",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: quadro de pessoal substituído pelo mapa I (imagem) - não aplicado.",
+    "Alterador 1, arts. 2.º a 17.º: recrutamento, transições, conteúdos funcionais de outras carreiras - normas próprias, nada a mudar.",
+    "Alterador 2: aumento de lugares da carreira técnica por mapa anexo (imagem) - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

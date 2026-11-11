@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:619280:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores distribuem lugares (alterador 1), substituem quadros de pessoal médico (alterador 2) e substituem o quadro de pessoal pelo anexo I, só em imagem, com nova departamentalização em anexo próprio (alterador 3); nenhum dá nova redação ao texto do original.",
+  "instrucoes": [
+    "Alterador 1: distribui 3 lugares de parteira ao Hospital Distrital do Barreiro: altera o quadro (em imagem), não o texto; nada feito.",
+    "Alterador 2: substitui os quadros de pessoal médico de vários hospitais pelos anexos (em imagem): nada feito.",
+    "Alterador 3: substitui o quadro de pessoal pelo anexo I (imagem) e fixa unidades orgânicas e conteúdos funcionais nos seus anexos II e III, sem dar nova redação ao n.º 2.º nem ao anexo do original: nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:158418:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração de 400$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos da lei geral aplicável.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 2 a 6 (Portarias n.os 507/83, 541/85, 796/85, 451/87 e 162/88): alteram o quadro de pessoal anexo (enfermagem, pessoal médico, operário e auxiliar, diagnóstico e terapêutica, carreiras), que só vem em imagem; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 2.º: nova redação da nota anexa (unidade 10), 400$00; substituída. O 1.º altera outras portarias; ignorado.",
+    "Alterador 2: altera o quadro anexo na parte do pessoal de enfermagem (imagem); não aplicado.",
+    "Alterador 3: altera o quadro anexo na parte do pessoal médico (imagem); não aplicado.",
+    "Alterador 4: reestrutura o quadro anexo no pessoal operário e auxiliar (imagem); não aplicado.",
+    "Alterador 5: altera o quadro no pessoal de diagnóstico e terapêutica (imagem); não aplicado.",
+    "Alterador 6: altera os quadros de pessoal de vários estabelecimentos (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

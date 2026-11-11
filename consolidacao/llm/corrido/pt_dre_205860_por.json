@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:205860:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de São Vicente do Paul, município de Santarém, com a área de 1903,21 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Substituição da planta anexa (alterador 1) só em imagem; alteradores 3, 4 e 5 (suspensão, renovações com novas áreas e plantas, anexação de prédios) não dão nova redação ao original: alterações não textuais.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (1933,15 ha); depois substituída pelo alterador 2, fica a redação final na unidade 6.",
+    "Alterador 1: substituição da planta anexa; só em imagem, não aplicada.",
+    "Alterador 2, 1.º: nova redação do n.º 1.º (1903,21 ha); substituída a unidade 6.",
+    "Alterador 2: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 3: suspensão da caça; não textual.",
+    "Alterador 4: renovação por seis anos com 1915,9459 ha (refere lapso só no preâmbulo); não textual.",
+    "Alterador 5: renovação e anexação, área total 1850 ha; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

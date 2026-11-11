@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 46-48",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Cada repartição abrange a área das seguintes freguesias:\n\n1.ª Repartição - Barreiros, Bodiosa, Calde, Cavernães, Campo, Cepões, Cota, Couto de Baixo, Couto de Cima, Lordosa, Mundão, Orgéns, Ribafeita, S. Pedro de France, Santa Maria de Viseu e Vil de Soito;\n\n2.ª Repartição - Abraveses, Boa Aldeia, Coração de Jesus, Fail, Farminhão, Fragosela, Povolide, Ranhados, Rio de Loba, S. Cipriano, S. João de Lou rosa, S. José, S. Salvador, Santos Evos, Silgueiros, Torredeita e Vila Chá de Sá.",
+    "depois": "2 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:394552:por",
+    "alterador": "pt:dre:241836:por"
+  }
+]

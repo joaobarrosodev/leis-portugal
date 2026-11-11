@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:578484:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 (Portaria n.º 575/85) e 2 (Portaria n.º 152/87): alteram o quadro de pessoal do mapa anexo ao original, que só vem em imagem (mapas I e II e anexo II também em imagem); não há alteração textual aplicável ao texto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º e 2.º: aumento e extinção de lugares no quadro do mapa anexo (imagem) - não aplicado.",
+    "Alterador 2, 3.º: quadro de pessoal de enfermagem do mapa anexo passa a ser o do anexo II (imagem) - não aplicado.",
+    "Alterador 2, 1.º, 2.º, 4.º a 6.º: normas próprias ou dirigidas a outro diploma (Portaria n.º 150/82) - ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

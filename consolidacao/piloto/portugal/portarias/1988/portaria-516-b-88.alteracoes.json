@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Nesta área é concedida à Câmara Municipal de Sousel a exploração de uma zona de caça turística (processo n.º 1 da Direcção-Geral das Florestas) por um período de seis anos.",
+    "depois": "2.º Nesta área, que é parte integrante da Zona de Caça Turística de São Miguel, é concedida à Câmara Municipal de Sousel a exploração da respectiva zona de caça (processo n.º 1 da Direcção-Geral das Florestas) por um período de doze anos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:302293:por",
+    "alterador": "pt:dre:538009:por"
+  }
+]

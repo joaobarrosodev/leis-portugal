@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 114-114",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 16.º Os Serviços poderão ser subdivididos em repartições, divisões e secções, técnicas ou administrativas, sendo as técnicas chefiadas por peritos industriais com os cursos adequados.",
+    "depois": "Art. 16.º Os serviços poderão ser subdivididos em repartições, divisões e secções, técnicas ou administrativas, sendo as técnicas chefiadas por peritos industriais ou técnicos de 1.ª classe com os cursos adequados.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:148830:por",
+    "alterador": "pt:dre:412625:por"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:304690:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante na planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Malhou, município de Alcanena, com a área de 759,0350 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 552-I/2002) só suspende o exercício da caça; alterador 3 (Portaria n.º 1528/2002) renova a concessão com 602,4570 ha por planta e revoga a Portaria n.º 552-I/2002: não são alterações textuais do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 1.º; substituída a unidade 6.",
+    "Alterador 1: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 2: suspensão do exercício da caça; não aplicado.",
+    "Alterador 3: renovação por 12 anos; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

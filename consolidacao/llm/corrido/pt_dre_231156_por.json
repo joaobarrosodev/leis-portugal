@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:231156:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 3.º: extingue lugares no quadro da reitoria e serviços centrais criado pela portaria (mapa II, só em imagem); alteração não textual, não aplicada. Alterador 2, 1.º, a): extingue os lugares do mapa II anexo à portaria e cria um novo quadro em mapas próprios (em imagem); alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, 1.º, 2.º e 4.º: dirigidos ao quadro do Decreto-Lei n.º 536/79 ou normas próprias; ignorados.",
+    "Alterador 1, 3.º: extinção de lugares no mapa II (imagem); não aplicado (ver nao_aplicavel).",
+    "Alterador 2, 1.º e 2.º: extinção dos lugares do mapa II e criação de novo quadro em mapas próprios; não textual, não aplicado (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

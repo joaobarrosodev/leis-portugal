@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Recolher o título de trânsito na barreira de portagem em que entrarem na auto-estrada;",
+    "depois": "a) Recolher o título de trânsito sempre que tal lhes seja exigido numa barreira de portagem;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:632071:por",
+    "alterador": "pt:dre:636770:por"
+  },
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Apresentar o título de trânsito, para determinação da taxa de portagem a cobrar, aos portageiros, na barreira de portagem por onde pretenderem sair da auto-estrada.",
+    "depois": "c) Apresentar o título de trânsito, para determinação da taxa de portagem a cobrar, nas barreiras de portagem onde o pagamento lhes for exigido.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:632071:por",
+    "alterador": "pt:dre:636770:por"
+  }
+]

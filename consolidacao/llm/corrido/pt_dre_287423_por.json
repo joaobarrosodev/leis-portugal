@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:287423:por",
+  "substituicoes": [
+    {
+      "de": 50,
+      "ate": 50,
+      "texto": "ii) O custo das mesmas não exceda 25% do investimento previsto para o restante custo, quando se trate de novas construções e 20% do montante máximo elegível, no caso das modernizações.",
+      "alterador": 1
+    },
+    {
+      "de": 56,
+      "ate": 60,
+      "texto": "3 - A comparticipação do Estado nos custos elegíveis do projecto é fixada em 40%.\n\n4 - As ajudas a conceder são diminuídas, na proporção do tempo decorrido, dos montantes anteriormente concedidos há menos de cinco anos, desde que aqueles tenham sido concedidos para a mesma finalidade.\n\n5 - Em nenhum caso o valor dos subsídios poderá ultrapassar o limite máximo da taxa de comparticipação prevista nas 'Linhas directrizes da Comissão da CE para exame dos auxílios nacionais no sector da pesca'.",
+      "alterador": 1
+    },
+    {
+      "de": 67,
+      "ate": 67,
+      "texto": "1 - As candidaturas entregues na Direcção-Geral das Pescas e Aquicultura (DGPA) até 29 de Fevereiro de 2000, 31 de Agosto de 2000, 15 de Dezembro de 2000, 28 de Fevereiro de 2001, 31 de Agosto de 2001 e 15 de Dezembro de 2001 serão objecto de decisão até 30 de Abril de 2000, 31 de Outubro de 2000, 31 de Dezembro de 2000, 30 de Abril de 2001, 31 de Outubro de 2001 e 31 de Dezembro de 2001.",
+      "alterador": 2
+    },
+    {
+      "de": 91,
+      "ate": 91,
+      "texto": "1 - As candidaturas apresentadas ao abrigo do Regulamento aprovado pelo [Despacho Normativo n.º 57/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/57-1998-444675), de 21 de Agosto, alterado pelo [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), de 28 de Abril, que ainda não foram objecto de decisão, transitam para o regime previsto no presente Regulamento.\n\n2 - As candidaturas previstas no número anterior poderão ser reformuladas pelos respectivos promotores até 31 de Agosto de 2000.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DN 41/2000), n.º 4.º: n.º 1 e alínea h) com texto igual ao atual; subalínea ii) com nova redação (25% / 20%) — unidade 50.",
+    "Alterador 1, n.º 5.º: n.os 1 e 2 mantidos; n.º 3 passa a taxa única de 40% (sai o proémio e as alíneas a) a c)), a antiga alínea c) passa a n.º 4 e o antigo n.º 4 passa a n.º 5 com nova redação — unidades 56-60.",
+    "Alterador 1, n.º 11.º: corpo único substituído por n.os 1 e 2 — unidade 91.",
+    "Alterador 2 (DN 45/2000): nova redação do n.º 1 do n.º 7.º (novas datas) — unidade 67.",
+    "Alterador 3 (DN 19/2006): altera o Regulamento aprovado pelo DN 42/2002, não o original — ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

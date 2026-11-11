@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Não será permitida a utilização da quota de descongelamento para provimento de lugares não cabimentados ou para a admissão de pessoal além do quadro.",
+    "depois": "b) Não será permitida a utilização da quota de descongelamento para provimento de lugares não cabimentados ou para a admissão de pessoal além do quadro, com excepção, neste último caso, do pessoal a afectar à fiscalização e administração tributária, nos termos do [Decreto-Lei n.º 200/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1985-182239), de 15 de Junho.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:297246:por",
+    "alterador": "pt:dre:220143:por"
+  }
+]

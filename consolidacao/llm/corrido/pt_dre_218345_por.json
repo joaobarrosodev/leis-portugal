@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:218345:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "2.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º a 3.º: normas autónomas (novos planos de estudo em anexos próprios, só em imagem; conclusão de percursos; equivalência), sem alteração textual do original.",
+    "Alterador 1, 4.º: revoga o n.º 2.º; unidade 15 passa a '2.º - (Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

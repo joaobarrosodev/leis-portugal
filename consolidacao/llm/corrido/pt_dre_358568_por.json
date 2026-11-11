@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:358568:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 22,
+      "texto": "13.º As entidades referidas no n.º 1 do artigo 1.º do [Decreto-Lei n.º 106/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1987-662361), de 6 de Março, e as empresas transportadoras podem ainda optar por estabelecerem entre si acordos de transporte, com vista a garantir o livre acesso ao transporte dos beneficiários que se identifiquem como tal, nos termos constantes do acordo.\n\n14.º Os acordos referidos no artigo anterior serão válidos por um ano, renovados automaticamente por indexação às tarifas fixadas anualmente para os referidos transportes, salvo denúncia de uma das partes, que deverá notificar a outra parte com a antecedência de 30 dias.\n\n15.º O pagamento do transporte acordado é efectuado por duodécimos.\n\n16.º O acordo é depositado pelo menos 10 dias antes da sua data de entrada em vigor na Direcção-Geral de Transportes Terrestres.\n\n17.º Na falta de acordo de transporte, quer por inexistência quer por cessação dos seus efeitos, aplica-se o regime previsto nos n.os 1.º a 12.º da presente portaria.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 22,
+      "texto": "18.º O disposto nos n.os 13.º a 17.º é aplicável ao pessoal da Direcção-Geral dos Serviços Prisionais que, pelo seu estatuto, beneficie de transporte gratuito.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 (Portaria 807-A/88) suspende a aplicação da portaria a certo pessoal, sem alterar o texto; alterador 4 (Portaria 105/2008) revoga as Portarias 807-A/88 e 201/97 (outros diplomas), sem instrução textual sobre o original, pelo que o n.º 18.º aditado pela 201/97 se mantém no texto.",
+  "instrucoes": [
+    "Alt.1: suspensão de aplicação (não textual) - não aplicada",
+    "Alt.2: aditados n.os 13.º a 17.º - inseridos depois do 12.º (unidade 22)",
+    "Alt.3: aditado n.º 18.º - inserido a seguir aos 13.º-17.º",
+    "Alt.4: revoga Portarias 807-A/88 e 201/97 - instrução dirigida a outros diplomas, ignorada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

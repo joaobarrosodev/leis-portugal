@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Técnico de electrónica/instrumentação industrial;",
+    "depois": "a) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:208851:por",
+    "alterador": "pt:dre:147659:por;pt:dre:147640:por;pt:dre:505652:por;pt:dre:505656:por"
+  },
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Técnico de informática - gestão;",
+    "depois": "b) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:208851:por",
+    "alterador": "pt:dre:147659:por;pt:dre:147640:por;pt:dre:505652:por;pt:dre:505656:por"
+  },
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Química tecnológica/técnico fabril;",
+    "depois": "c) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:208851:por",
+    "alterador": "pt:dre:147659:por;pt:dre:147640:por;pt:dre:505652:por;pt:dre:505656:por"
+  },
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Química tecnológica/analista de laboratório;",
+    "depois": "d) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:208851:por",
+    "alterador": "pt:dre:147659:por;pt:dre:147640:por;pt:dre:505652:por;pt:dre:505656:por"
+  }
+]

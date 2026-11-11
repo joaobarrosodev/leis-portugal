@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:617727:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de Arranhó, município de Arruda dos Vinhos, com uma área de 1382,4863 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Portarias n.os 983/2004 (suspensão temporária), 1128/2004 (renovação com nova área e planta) e 22/2006 (anexação com planta): não alteram textualmente o original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 937/97), 1.º: nova redação do n.º 1.º (1383,9823 ha); depois substituída pelo alterador 2, fica a redação final na unidade 6.",
+    "Alterador 1 (Portaria 937/97): aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 2 (Portaria 302/99): nova redação do n.º 1.º (1382,4863 ha; sem número na redação, mantido o \"1.º\"); substituída a unidade 6.",
+    "Alterador 3 (Portaria 983/2004): suspensão até à renovação; não textual.",
+    "Alterador 4 (Portaria 1128/2004): renovação por 12 anos com 1558 ha; não textual.",
+    "Alterador 5 (Portaria 22/2006): anexação de prédios; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

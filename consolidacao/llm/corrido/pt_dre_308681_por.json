@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:308681:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "O quadro de pessoal civil dos Serviços Sociais das Forças Armadas, aprovado pela [Portaria n.º 986/82](https://diariodarepublica.pt/dr/detalhe/portaria/986-1982-376188), de 20 de Outubro, é aumentado dos lugares constantes do mapa anexo ao presente diploma.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 (n.º 2.º), 2 (Portaria n.º 876/87) e 3 e 4 (Portaria n.º 1013/91) alteram o quadro de pessoal por mapas e anexos em imagem, não o texto da Portaria n.º 108/83.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 1.º; substituído só o corpo (unidade 8), mantidos o número e a epígrafe.",
+    "Alterador 1, 2.º e 3.º: alteração do quadro na carreira de enfermagem e transição; não textual.",
+    "Alterador 2: alteração do quadro por mapa anexo; não aplicado.",
+    "Alteradores 3 e 4: novo quadro nos anexos I a III; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

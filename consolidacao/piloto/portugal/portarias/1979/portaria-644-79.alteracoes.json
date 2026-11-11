@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 18-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A Creche, Jardim Infantil e Colónia de Férias de Matosinhos;\n\nA Creche e Jardim-de-Infância de S. Mamede de Infesta;\n\nA Creche e Jardim-de-Infância de Santo Tirso;\n\nA Colónia de Férias da Praia da Árvore;",
+    "depois": "O Jardim-de-Infância da Póvoa de Varzim;\n\nO Jardim-de-Infância de Lavadores;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:366996:por",
+    "alterador": "pt:dre:678849:por"
+  },
+  {
+    "artigo": "depois da unidade 22",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "e) A delegação no Porto do Gabinete de Inspecção do ex-Comissariado para os Desalojados.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:366996:por",
+    "alterador": "pt:dre:678849:por"
+  },
+  {
+    "artigo": "depois da unidade 27",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "O Centro de Educação Especial do Porto.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:366996:por",
+    "alterador": "pt:dre:678849:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 10",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1.º-A\n\nDuração\n\n1 - O curso tem a duração de cinco anos.\n\n2 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n3 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.\n\n1.º-B\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente no curso não pode exceder 50.\n\n2 - A frequência global do curso não pode exceder 250 alunos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:209670:por",
+    "alterador": "pt:dre:173167:por"
+  }
+]

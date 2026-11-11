@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:617525:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Montalvão, município de Nisa, com a área de 516,1850 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 a 6 (Portarias n.os 348/99, 459/2004, 1033-Q/2004, 1264-BH/2004 e 225/2007): anexações, suspensão, renovação e desanexação de prédios com plantas em imagem; não dão nova redacção ao texto do original (a área do n.º 1.º fica a da Portaria n.º 750/97).",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 1.º (área 516,1850 ha) - substituída a unidade 6.",
+    "Alterador 1, 1.º (2.º parágrafo): aditado o n.º 1.º-A - inserido a seguir à unidade 6.",
+    "Alterador 1, 2.º e 3.º: manutenção de direitos e entrada em vigor - normas próprias.",
+    "Alterador 2: anexação de 171,85 ha (planta em imagem) - sem alteração textual.",
+    "Alterador 3: anexação de 74,6250 ha e sinalização - sem alteração textual.",
+    "Alterador 4: suspensão do exercício da caça - sem alteração textual.",
+    "Alterador 5: renovação por 12 anos com 667 ha, revogação da Portaria n.º 1033-Q/2004 - sem alteração textual do original.",
+    "Alterador 6: desanexação de 27 ha - sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Pereiro, Vaqueiro e Giões, concelho de Alcoutim, com uma área de 3774 ha.",
+    "depois": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Pereiro, Vaqueiros e Giões, município de Alcoutim, com uma área de 3765 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:206059:por",
+    "alterador": "pt:dre:534403:por;pt:dre:138800:por"
+  },
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à URBALGARVE - Imobiliário e Turismo, Lda., com o número de pessoa colectiva 501321713 e sede na Rua de Angola, lote E, loja B, Vila Real de Santo António, a zona de caça turística do Pereiro (processo n.º 743 da Direcção-Geral das Florestas).",
+    "depois": "2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à URBALGARVE II - Turismo e Construções, S. A., com o número de pessoa colectiva 501321713 e sede na Rua de Angola, lote E, loja B, Vila Real de Santo António, a zona de caça turística do Pereiro (processo n.º 743 da Direcção-Geral das Florestas).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:206059:por",
+    "alterador": "pt:dre:534403:por;pt:dre:138800:por"
+  },
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º A URBALGARVE - Imobiliário e Turismo, Lda., como entidade gestora da zona de caça turística concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir os respectivos planos de ordenamento e exploração cinegética e de aproveitamento turístico aprovados e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.",
+    "depois": "3.º A URBALGARVE II - Turismo e Construções, S. A., como entidade gestora da zona de caça turística concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir os respectivos planos de ordenamento e exploração cinegética e de aproveitamento turístico aprovados e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:206059:por",
+    "alterador": "pt:dre:534403:por;pt:dre:138800:por"
+  }
+]

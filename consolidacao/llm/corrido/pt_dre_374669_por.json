@@ -1,0 +1,49 @@
+{
+  "id": "pt:dre:374669:por",
+  "substituicoes": [
+    {
+      "de": 64,
+      "ate": 65,
+      "texto": "Art. 19.º - 1 - Sem prejuízo do disposto em matéria de arbitragem, as diligências de conciliação exprimem o mútuo consentimento das partes ou o seu dissentimento.\n\n2 - O presidente deve opor-se aos acordos de conciliação que entenda violarem a lei, mediante despacho devidamente fundamentado.",
+      "alterador": 1
+    },
+    {
+      "de": 84,
+      "ate": 85,
+      "texto": "Art. 29.º - 1 - A falta de comparência de qualquer dos interessados à diligência de conciliação faz recair sobre o faltoso a obrigação de pagar à parte que compareceu, se esta o reclamar, as despesas de transporte, perdas de remuneração e outras que comprove ter suportado.\n\n2 - Considera-se faltosa a parte que não comparecer ou cujo representante não se apresente munido de poderes suficentes para conciliar, excepto se esse firmar acordo que venha a ser ratificado pelo representado nos cinco dias úteis posteriores à notificação para o efeito.",
+      "alterador": 1
+    },
+    {
+      "de": 88,
+      "ate": 88,
+      "texto": "3 - A falta não justificada dos interessados no prazo de cinco dias determina o arquivamento do processo, excepto se neste prazo for requerida nova diligência de conciliação.",
+      "alterador": 1
+    },
+    {
+      "de": 89,
+      "ate": 91,
+      "texto": "Art. 31.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 103,
+      "ate": 103,
+      "texto": "Art. 38.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 2 e 3 (Decretos Regulamentares Regionais 25/2008/A e 24/2012/A, orgânicas do Governo Regional): só transferem a tutela do SERCAT e mandam ler as referências aos departamentos extintos como feitas aos novos; não alteram o texto do estatuto.",
+  "instrucoes": [
+    "Alt. 1, art. 1.º: nova redação dos artigos 19.º (unidades 64-65), 29.º (84-85) e n.º 3 do 30.º (88; n.os 1 e 2 ficam) aplicada.",
+    "Alt. 1, art. 2.º: revogação dos artigos 31.º (89-91) e 38.º (103) aplicada.",
+    "Alt. 2 e 3: transferência de tutela do SERCAT, não textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 64-65: parágrafo que não está no alterador nem no original: Art. 19.º - 1 - Sem prejuízo do disposto em matéria de arbitragem, as diligência",
+    "substituição 89-91: parágrafo que não está no alterador nem no original: Art. 31.º - (Revogado.)",
+    "substituição 103-103: parágrafo que não está no alterador nem no original: Art. 38.º - (Revogado.)"
+  ]
+}

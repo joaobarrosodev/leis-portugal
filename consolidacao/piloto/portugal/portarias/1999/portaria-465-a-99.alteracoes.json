@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º A utilização de cada bloco de frequências atribuído para o acesso fixo via rádio fica sujeita ao pagamento de taxas anuais constantes do quadro seguinte:\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146b01/00020002.pdf)",
+    "depois": "1.º A utilização de cada bloco de frequências atribuído para o acesso fixo via rádio fica sujeita ao pagamento das taxas anuais constantes do quadro seguinte:\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/036b01/00020009.pdf)\n\nRelativamente às faixas 3400-3800 MHz e 24,5-26,5 GHz, aplica-se a fórmula abaixo indicada, se no ano anterior tiverem sido adicionalmente instaladas novas estações de base nas regiões A e ou B:\n\nT(índice i) = (euro) 304260 [1 - 0,45 ((Delta)EB(índice A)/(Delta)EB)(índice i - 1) - 0,30 ((Delta)EB(índice B)/(Delta)EB)(índice i - 1)]\n\nLegenda:\n\nT(índice i): taxa anual de utilização do espectro referente à licença aplicável no ano i;\n\n(Delta)EB(índice A): número de novas estações de base instaladas adicionalmente pelo operador/prestador na zona A no ano i - 1;\n\n(Delta)EB(índice B): número de novas estações de base instaladas adicionalmente pelo operador/prestador na zona B no ano i - 1;\n\n(Delta)EB: número total de novas estações de base instaladas adicionalmente no País pelo operador/prestador durante o ano i - 1.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:291864:por",
+    "alterador": "pt:dre:693832:por"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:299995:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 10,
+      "texto": "2.º A verticalização das competências que por este despacho se transferem deverá, no entanto, realizar-se com aplicação dos seguintes critérios:\n\na) Os requerimentos de isenção ou redução de direitos e de sobretaxa incidindo sobre quaisquer mercadorias, inclusive bens de equipamento ou seus componentes, deverão ser apresentados na direcção-geral, referida no n.º 1.º, que superintenda na actividade industrial do requerente, nos termos das Portarias n.os [296/78](https://diariodarepublica.pt/dr/detalhe/portaria/296-1978-294571), de 31 de Maio, e [462/78](https://diariodarepublica.pt/dr/detalhe/portaria/462-1978-299851), de 14 de Agosto; esta direcção-geral, todavia, quando a mercadoria a importar não seja produto de actividade industrial que lhe esteja afecta, instruirá o seu parecer mediante informação obtida junto da direcção-geral que superintende na actividade produtora;\n\nb) Os requerimentos quer oriundos de empresas que exercem actividades não afectas às direcções-gerais referidas no n.º 1.º, quer não oriundos de empresas industriais ou relativos a mercadorias não afectas à actividade industrial destas deverão ser apresentados na direcção-geral a que está afecta a actividade produtora da mercadoria que se pretende importar (de acordo com as Portarias n.os [296/78](https://diariodarepublica.pt/dr/detalhe/portaria/296-1978-294571) e [462/78](https://diariodarepublica.pt/dr/detalhe/portaria/462-1978-299851)), instruindo a direcção-geral o seu parecer mediante informação da direcção-geral que superintende na actividade industrial a que aquela mercadoria se destina, caso seja do Ministério da Indústria e Tecnologia.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 2.º (proémio e alíneas a) e b), desaparecendo a antiga alínea c)); substitui as unidades 7 a 10.",
+    "Alterador 2: revoga a alínea e) do n.º 6 do Despacho Normativo n.º 227/78, outro diploma; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

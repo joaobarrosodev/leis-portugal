@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:196069:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 37,
+      "texto": "8 - Na execução da marca Modelo conforme em dimensões reduzidas, o organismo de certificação competente pode autorizar que sejam suprimidas as indicações «SNGQ» e «modelo conforme».",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 206/88: adita n.º 8 ao anexo; inserido a seguir ao n.º 7 (unidade 37)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

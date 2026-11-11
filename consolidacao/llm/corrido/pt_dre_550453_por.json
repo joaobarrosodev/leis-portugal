@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:550453:por",
+  "substituicoes": [
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "a) Para candidatos oriundos das diferentes instituições educativas: educação pré-escolar, ensino básico, secundário e superior - 75%.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os quadros n.os 1 e 2 / anexo I do plano de estudos (alteradores 2, 3 e 4) só existem em imagem; não aplicados. A mudança de designação do curso para Gestão Pedagógica e Administrativa (alteradores 2 e 3, 1.º) não é uma alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção da alínea a) do n.º 1 do n.º 6.º; substituída a unidade 28.",
+    "Alterador 2, 1.º: mudança de designação do curso; não textual, não aplicada. 2.º: quadros n.os 1 e 2 do anexo substituídos; só em imagem, não aplicado.",
+    "Alterador 3: repete o alterador 2 (mesma Portaria n.º 233/96); nada a aplicar.",
+    "Alterador 4, 1.º: novo anexo I (plano de estudos); só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

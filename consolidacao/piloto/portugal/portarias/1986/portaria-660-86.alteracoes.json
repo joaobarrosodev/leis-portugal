@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 10-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Opções\n\nO curso, nos 3.º e 4.º anos curriculares, desdobra-se nas seguintes opções:\n\na) Animação Musical;\n\nb) Musicologia;\n\nc) Pedagogia Musical.",
+    "depois": "Ramos\n\nO curso, a partir do 3.º ano curricular, desdobra-se nos seguintes ramos:\n\na) Animação Musical;\n\nb) Formação Educacional;\n\nc) Musicologia.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:221087:por",
+    "alterador": "pt:dre:549809:por"
+  },
+  {
+    "artigo": "depois da unidade 14",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "2.º-A\n\nAcesso aos ramos\n\n1 - A inscrição no ramo de Formação Educacional do curso de licenciatura em Ciências Musiciais está sujeita a limitações quantitativas a fixar anualmente por despacho do Ministro da Educação, sob proposta do reitor da Universidade Nova de Lisboa.\n\n2 - A inscrição nos restantes ramos do curso está sujeita a limitações quantitativas a fixar anualmente por despacho do reitor, sob proposta do conselho científico da Faculdade.\n\n3 - Se num determinado ano lectivo o número de alunos que se pretende inscrever num ramo for inferior a dois quintos do número total de alunos inscritos nos três ramos, esse ramo não poderá abrir inscrições nesse ano.\n\n4 - Aos alunos admitidos à inscrição no curso é assegurada sempre a inscrição num dos ramos.\n\n5 - As regras e prazos de candidatura e de selecção para a inscrição nos ramos serão fixados por despacho do reitor, sob proposta do conselho científico.\n\n6 - Os despachos a que se referem os n.os 1, 2 e 5 serão objecto de publicação na 2.ª série do Diário da República e de afixação pública na Universidade com a antecedência, respectivamente, de um mês antes da data da candidatura e de seis meses antes do início do ano lectivo a que dizem respeito.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:221087:por",
+    "alterador": "pt:dre:549809:por"
+  },
+  {
+    "artigo": "unidades 34-35",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o plano de estudos.\n\n2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.",
+    "depois": "1 - A classificação final de cada curso é a média artimética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o respectivo plano de estudos.\n\n2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.\n\n3 - A classificação final do ramo de Formação Educacional é calculada nos termos da [Portaria n.º 792/81](https://diariodarepublica.pt/dr/detalhe/portaria/792-1981-565003), de 11 de Setembro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:221087:por",
+    "alterador": "pt:dre:549809:por"
+  },
+  {
+    "artigo": "depois da unidade 35",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "5.º-A\n\nEstágio do ramo de Formação Educacional\n\nO estágio pedagógico do ramo de Formação Educacional, bem como a admissão ao mesmo, são regulados pela [Portaria n.º 431/79](https://diariodarepublica.pt/dr/detalhe/portaria/431-1979-377538), de 16 de Agosto, com a redacção que lhe foi dada pelas Portarias n.º 791/80, de 6 de Outubro, 176/83, de 2 de Março, e 494/84, de 23 de Julho.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:221087:por",
+    "alterador": "pt:dre:549809:por"
+  }
+]

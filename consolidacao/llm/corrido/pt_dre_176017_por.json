@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:176017:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 217/2002 (alterador 4), artigo 7.º, revoga por inteiro a Resolução do Conselho de Ministros n.º 54/98; não se devolve nenhuma mudança (a nova redação do n.º 10 dada pelo alterador 1 fica sem efeito com a revogação).",
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 10 (director técnico equiparado a director de serviços); prejudicada pela revogação total.",
+    "Alterador 2: prorroga o Observatório por 24 meses e fixa encargos; norma autónoma, sem alteração textual do original.",
+    "Alterador 3: prorroga por seis meses; norma autónoma, sem alteração textual do original.",
+    "Alterador 4, artigo 7.º: revoga a Resolução n.º 54/98 por inteiro; registado em nao_aplicavel, nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

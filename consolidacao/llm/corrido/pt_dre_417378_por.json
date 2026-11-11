@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:417378:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 7 (Portarias 1140/93 e 718/94, Decreto Regulamentar 2/97, Decretos-Leis 371/98 e 373/98) só alteram ou substituem os quadros de pessoal do mapa anexo, que vem apenas em imagem; não há alteração textual ao corpo da portaria.",
+  "instrucoes": [
+    "Alteradores 1 e 2 (Portaria 1140/93): novo quadro da Academia das Ciências na parte BAD e extinção de lugares; mapa só em imagem, não aplicado.",
+    "Alteradores 3 e 4 (Portaria 718/94): substituição das carreiras BAD no quadro da Academia Portuguesa da História; mapa só em imagem, não aplicado.",
+    "Alterador 5 (Decreto Regulamentar 2/97): cria lugar de chefe de secção, extingue carreiras e novo mapa do quadro da Academia das Ciências; mapa só em imagem, não aplicado.",
+    "Alterador 6 (Decreto-Lei 371/98): artigo 1.º altera o Decreto-Lei 32/78 (outro diploma), ignorado; artigo 2.º novo quadro da Academia Nacional de Belas-Artes em imagem, não aplicado.",
+    "Alterador 7 (Decreto-Lei 373/98): artigo 1.º altera o Decreto-Lei 357/84 (outro diploma), ignorado; artigo 2.º novo quadro da Academia Portuguesa da História em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
