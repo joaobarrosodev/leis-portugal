@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:550582:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 6 substituem planos de estudos do anexo (só em imagem) e mudam denominações de cursos (Ciências do Desenvolvimento e Cooperação, Investigação Social Aplicada) sem dar nova redação ao texto da portaria; não aplicados.",
+  "instrucoes": [
+    "Alt.1 (1240/93): novo plano de Direito, anexo em imagem, não aplicado",
+    "Alt.2 (573/97): novo plano de Investigação Social Aplicada, não aplicado",
+    "Alt.3 (577/97): nova denominação e plano de Ciências do Desenvolvimento e Cooperação, sem nova redação, não aplicado",
+    "Alt.4 (149/2002): novo plano de Organização e Gestão de Empresas e regras próprias, não aplicado",
+    "Alt.5 (180/2003): novo plano de Direito, não aplicado",
+    "Alt.6 (329/2003): nova denominação (Sociologia Aplicada) e altera anexo da Portaria 573/97, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

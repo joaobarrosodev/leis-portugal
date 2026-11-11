@@ -1,0 +1,65 @@
+{
+  "id": "pt:dre:245106:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 10,
+      "texto": "3.º - 1 - Sem prejuízo do disposto nos números seguintes, os contingentes anuais são distribuídos por trimestres, com início em 1 de Janeiro de cada ano, à excepção dos contingentes estabelecidos para o sector das frutas e legumes frescos, de acordo com o n.º 14 do artigo 15.º do [Decreto-Lei n.º 519/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1985-546470), de 31 de Dezembro, os quais apresentam uma delimitação temporal específica.\n\n2 - Os contingentes anuais dos produtos do sector das aves e ovos, estabelecidos de acordo com o n.º 10 do artigo 6.º do [Decreto-Lei n.º 514/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1985-546420), de 31 de Dezembro, são distribuídos num único período anual, com início em Janeiro de cada ano.\n\n3 - Os contingentes anuais dos produtos do sector da carne de suíno estabelecidos de acordo com o n.º 10 de artigo 9.º do [Decreto-Lei n.º 516/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1985-546423), de 31 de Dezembro, são distribuídos por dois períodos, com início em Janeiro e Maio de cada ano, na proporção de 40% para o primeiro período e 60% para o segundo.",
+      "alterador": 3
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "4.º - 1 - Os montantes e os critérios de distribuição dos contingentes periódicos, o montante da caução referida no n.º 8.º, a abertura da inscrição e as condições a serem observadas pelos agentes interessados nas importações contingentadas são fixados por despacho dos Ministros da Agricultura, Pescas e Alimentação e da Indústria e Comércio, ouvidos os Ministros da República para as Regiões Autónomas dos Açores e da Madeira, mediante proposta, no continente, da Junta Nacional dos Produtos Pecuários, para o caso de importação de produtos relativos aos mercados do leite e produtos lácteos, aves e ovos e carne de suíno, da Junta Nacional do Vinho, para a importação de produtos do mercado do vinho, e da Junta Nacional das Frutas, para o caso de importação de produtos do mercado das frutas e produtos hortícolas, e, nas Regiões Autónomas dos Açores e da Madeira, das respectivas autoridades competentes.",
+      "alterador": 2
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "2 - As propostas das entidades referidas no número anterior são elaboradas, ouvidas as comissões consultivas dos mercados para os sectores em que estas existam, em colaboração com a Direcção-Geral do Comércio Externo.",
+      "alterador": 1
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "5.º O despacho referido no n.º 4.º será publicado no Diário da República, 1.ª série, nos primeiros cinco dias úteis do mês anterior ao início do período respectivo, e publicitado em dois jornais diários de grande expansão do continente e das regiões autónomas pela Direcção-Geral do Comércio Externo ou pelas autoridades autonómicas competentes, conforme o caso.",
+      "alterador": 2
+    },
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "6.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 15,
+      "ate": 16,
+      "texto": "7.º Os pedidos de importação deverão conter os elementos referidos em anexo à presente portaria, para além dos que foram especificamente indicados no despacho referido no n.º 4.º, e ser enviados em carta registada com aviso de recepção à entidade licenciadora.\n\n8.º Só são considerados os pedidos de importação quando acompanhados da constituição de uma caução, cujo valor constará do despacho referido no n.º 4.º, que garanta o cumprimento das obrigações assumidas pelo importador, a qual será depositada à ordem da entidade licenciadora.",
+      "alterador": 2
+    },
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "13.º A caução referida nos termos do n.º 8.º é libertada total ou parcialmente, em proporção da utilização aduaneira da licença, mediante a apresentação do documento comprovativo da realização do respectivo despacho aduaneiro pelo menos em 95%.",
+      "alterador": 2
+    },
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "## ANEXO — Elementos a que se refere o n.º 7.º desta portaria",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 1 do 3.º (acrescenta reprodutores avícolas); depois substituída pela redação do alterador 3.",
+    "Alterador 1, n.º 2.º: nova redação do n.º 2 do 4.º (unidade 12) aplicada.",
+    "Alterador 2, n.º 1.º: nova redação do 4.º-1 (unidade 11), 4.º-2 '...' mantém o texto (do alterador 1), 5.º (13), 7.º e 8.º (15-16), 13.º (21) e epígrafe do anexo (27); pontos 1-3 do anexo iguais ao texto atual.",
+    "Alterador 2, n.º 2.º: revoga o 6.º (unidade 14) -> '6.º - (Revogado.)'.",
+    "Alterador 3, n.º 1.º: nova redação de todo o 3.º com n.os 1, 2 e 3 (unidades 9-10 substituídas pelos três números)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

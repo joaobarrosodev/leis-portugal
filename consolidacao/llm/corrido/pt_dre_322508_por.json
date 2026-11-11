@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:322508:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 1053/94 (alterador 2) fixa em 44 os lugares de professor-adjunto do anexo A e Portaria n.º 761/98 (alterador 3) cria um lugar de professor no anexo B: os quadros dos anexos só existem em imagem, não se aplicam. Decreto-Lei n.º 16/2002 (alterador 5), artigo 33.º: revogação do Decreto Regulamentar n.º 71/85 (salvo n.º 3 do artigo 42.º e n.º 1 do artigo 43.º) e, n.º 2, do n.º 3 do artigo 42.º, condicionadas à entrada em vigor dos Estatutos e posse dos órgãos e à primeira alteração do quadro docente, eventos futuros cuja data não consta do pedido; não aplicada.",
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 94/89): integra a ENIDH no ensino politécnico; não contém instruções textuais dirigidas ao Regulamento; nada.",
+    "Alterador 2 (Portaria n.º 1053/94): altera o número de lugares do anexo A (quadro em imagem); não aplicado.",
+    "Alterador 3 (Portaria n.º 761/98): cria um lugar no anexo B (quadro em imagem); não aplicado.",
+    "Alterador 4 (Decreto-Lei n.º 474-A/99): lei orgânica do Governo, sem instrução dirigida ao original; nada.",
+    "Alterador 5 (Decreto-Lei n.º 16/2002), artigo 33.º: revogações condicionadas a eventos futuros; não aplicadas (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

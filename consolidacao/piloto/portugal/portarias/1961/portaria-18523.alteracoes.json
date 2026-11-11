@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 48-48",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Idade mínima tal que, quando terminado o curso, o candidato tenha atingido os 21 anos;",
+    "depois": "c) Idade mínima de 16 anos completos até ao dia 31 de Dezembro do ano em que sejam admitidos ao curso.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:171919:por",
+    "alterador": "pt:dre:412390:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 22-22",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 2.º O presente diploma legislativo produz os seus efeitos a partir do dia 1 de Outubro de 1979, sendo apenas aplicável às incapacidades e remições a partir desta data.",
+    "depois": "Art. 2.º O presente diploma produz os seus efeitos a partir de 1 de Outubro de 1979, sendo apenas aplicável às pensões, incapacidades e remições fixadas a partir dessa data.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:367047:por",
+    "alterador": "pt:dre:471327:por"
+  }
+]

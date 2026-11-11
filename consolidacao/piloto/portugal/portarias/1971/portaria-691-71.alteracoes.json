@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 15-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6.º Os vinhos considerados de qualidade, com prévia concordância e sob fiscalização dos organismos vitivinícolas competentes, podem ser engarrafados em recipientes tidos como de luxo com capacidade superior a 7,5 dl e conhecidos pelas designações de magnum e outras, capsulados com rolha de cortiça e rótulo de papel ou alumínio, devendo apresentar ou podendo beneficiar das características estabelecidas no mapa anexo a esta portaria para os vinhos engarrafados em moldes tradicionais em recipientes de capacidade inferior a 1 l.\n\n7.º Carece de aprovação dos organismos vitivinícolas respectivos o emprego na rotulagem de indicações consagradas comprovativas de qualidade e quaisquer referências, directas ou indirectas, à idade dos produtos, incluindo letras, estrelas ou outros símbolos geralmente usados com o sentido de idade.\n\n8.º Os vinhos especiais, jeropigas, abafados e aguardentes de origem vínica e vinagres destinados ao consumo só podem ser comercializados no mercado interno quando contidos em recipientes de capacidade até 1 l, convenientemente rotulados e com marcas registadas.\n\n9.º Para os vinhos comuns contidos em recipientes de capacidade até 5,3 l, exceptuados os vinhos típicos regionais, é obrigatória a indicação na rotulagem do respectivo grau alcoólico volumétrico, admitindo-se a tolerância para mais ou para menos de 0,2.",
+    "depois": "6.º - (Revogado.)\n\n7.º - (Revogado.)\n\n8.º - (Revogado.)\n\n9.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:631981:por",
+    "alterador": "pt:dre:421633:por"
+  }
+]

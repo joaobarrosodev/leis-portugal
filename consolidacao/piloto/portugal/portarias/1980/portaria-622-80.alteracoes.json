@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Nota. - O funcionário administrativo que exercer as funções de tesoureiro será abonado de 500$00 mensais para falhas.",
+    "depois": "Nota. - O funcionário administrativo que exercer as funções de tesoureiro será abonado de 600$00 mensais para falhas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:460844:por",
+    "alterador": "pt:dre:601154:por"
+  }
+]

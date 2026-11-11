@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 33-42",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "15 - Compete à Direcção-Geral do Ensino Secundário a orientação e coordenação geral da experiência pedagógica instituída pelo presente despacho.\n\n16 - Cabe às comissões regionais para o ensino técnico-profissional, criados pelo Despacho n.º 88/ME/83:\n\na) Participar na planificação geral do ensino técnico-profissional, pelo estudo das carências de formação destes níveis nas diferentes áreas ocupacionais, no âmbito geográfico da sua acção, da possibilidade e oportunidade da criação de novos cursos e da manutenção dos existentes, bem como da adequação dos planos de estudo e programas às necessidades reais do respectivo mercado de trabalho;\n\nb) Propor ao Ministério da Educação, através da Direcção-Geral do Ensino Secundário, a criação de cursos técnico-profissionais ou profissionais e as alterações a introduzir na rede escolar e noutros aspectos das experiências em curso;\n\nc) Apoiar e acompanhar o lançamento desta experiência, em estreita colaboração com o Ministério;\n\nd) Participar na avaliação das experiências em curso na sua área, propondo as medidas adequadas para o bom funcionamento deste tipo de ensaio.\n\n17 - Compete em especial aos coordenadores das comissões regionais para o ensino técnico-profissional:\n\na) Dirigir e coordenar os trabalhos das respectivas comissões;\n\nb) Assegurar a ligação das mesmas com o Ministério da Educação, designadamente com a Direcção-Geral do Ensino Secundário;\n\nc) Assegurar as ligações entre a comissão regional e os órgãos directivos dos estabelecimentos de ensino em que funcionam as experiências do ensino técnico-profissional, bem como com os respectivos professores responsáveis, podendo para o efeito participar em reuniões na escola ou convocar reuniões com os professores responsáveis da sua zona.",
+    "depois": "15 - (Revogado.)\n\n16 - (Revogado.)\n\n17 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:398556:por",
+    "alterador": "pt:dre:611504:por"
+  }
+]

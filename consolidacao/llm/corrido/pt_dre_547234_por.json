@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:547234:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º - (Revogado.)",
+      "alterador": 5
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 4 (Portarias 455/91, 1141/92, 466/93 e 903/93) alteram ou substituem planos de estudos do anexo, que só existem em imagem; as mudanças de denominação dos cursos (1141/92, 3.º; 903/93, 3.º) não são alterações textuais da portaria e não foram aplicadas às unidades 8 e 10.",
+  "instrucoes": [
+    "Alterador 1 (455/91): acrescenta disciplina ao plano de Secretariado, anexo em imagem; não aplicável.",
+    "Alterador 2 (1141/92): substitui o plano de Gestão de Recursos Humanos e Psicologia do Trabalho (imagem), muda a denominação e reconhece licenciatura; não textual, não aplicado.",
+    "Alterador 3 (466/93): altera o plano de Secretariado (imagem); não aplicável.",
+    "Alterador 4 (903/93): substitui o plano de Secretariado (imagem) e muda a denominação para Assistente de Administração; não textual, não aplicado.",
+    "Alterador 5 (DL 147/2013), art. 8.º: revoga o n.º 1.º; unidade 6 passa a 1.º - (Revogado.). Restantes artigos são normas próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

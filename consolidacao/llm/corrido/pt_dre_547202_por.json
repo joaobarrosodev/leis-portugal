@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:547202:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 92/98 substitui o plano de estudos de Biotecnologia (anexo em imagem); a Portaria 107/2001 vem sem parte dispositiva no pedido; os DL 194/2004 e 82/2005 fazem cessar a atividade de institutos e transitam autorizações, sem alteração textual do original.",
+  "instrucoes": [
+    "Portaria 92/98: novo plano de estudos (anexo em imagem): não aplicado.",
+    "Portaria 107/2001: texto truncado, sem instrução identificável: não aplicado.",
+    "DL 194/2004 e DL 82/2005: cessação de atividade e transição de autorizações, não textual: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

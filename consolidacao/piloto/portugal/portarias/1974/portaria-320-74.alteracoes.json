@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "depois da unidade 16",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "12 - (Revogado.)\n\n13 - (Revogado.)\n\n14 - (Revogado.)\n\n15 - (Revogado.)\n\n16 - (Revogado.)\n\n17 - (Revogado.)\n\n18 - (Revogado.)\n\n19 - (Revogado.)\n\n20 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:266124:por",
+    "alterador": "pt:dre:171482:por;pt:dre:451659:por"
+  },
+  {
+    "artigo": "unidades 35-35",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "9.º Findos os prazos de inscrição, os alunos gozam, ainda, da faculdade concedida pelo artigo 69.º do [Decreto n.º 39001](https://diariodarepublica.pt/dr/detalhe/decreto/39001-1952-669494), de 20 de Novembro de 1952.",
+    "depois": "9.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:266124:por",
+    "alterador": "pt:dre:171482:por;pt:dre:451659:por"
+  }
+]

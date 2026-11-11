@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:460839:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as instruções (Portarias n.os 113/90, 1121/90, 45/91, 413/91, 1086/92 e 1019/94) alteram ou substituem o quadro de pessoal anexo do Hospital Geral de Santo António, que só vem em imagem ('ver documento original'), ou distribuem lugares sem alteração textual; nenhuma dá nova redação às unidades do texto.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 113/90): distribuição de lugares de parteira — não textual; não aplicado.",
+    "Alteradores 2 a 5: alterações ao quadro anexo (imagem) — não aplicadas.",
+    "Alterador 6 (Portaria n.º 1019/94): substitui o quadro anexo (imagem) e aprova anexos I e II próprios — não alteram as unidades do texto; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

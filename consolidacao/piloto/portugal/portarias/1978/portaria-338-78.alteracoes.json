@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Ficam submetidas ao regime de margens de comercialização a que se refere o n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Junho, as vendas de cimento portland normal embalado em sacos de 50 kg de três folhas, bem como as vendas ao consumidor final de cimento portland normal em quantidades inferiores a 50 kg.\n\n2 - As margens a que se refere a norma anterior serão fixadas por despacho conjunto dos Secretários de Estado do Comércio Interno e da Energia e Indústrias de Base.",
+    "depois": "1 - (Revogado.)\n\n2 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:298433:por",
+    "alterador": "pt:dre:442930:por"
+  }
+]

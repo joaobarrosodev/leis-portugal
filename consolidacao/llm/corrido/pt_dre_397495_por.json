@@ -1,0 +1,45 @@
+{
+  "id": "pt:dre:397495:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 47,
+      "alterador": 1,
+      "texto": "Artigo 1.º - (Revogado.)\n\nArt. 2.º - (Revogado.)\n\nArt. 3.º - (Revogado.)\n\nArt. 4.º - (Revogado.)\n\nArt. 5.º - (Revogado.)\n\nArt. 6.º - (Revogado.)\n\nArt. 7.º - (Revogado.)\n\nArt. 8.º - (Revogado.)\n\nArt. 9.º - (Revogado.)\n\nArt. 10.º - (Revogado.)\n\nArt. 11.º - (Revogado.)\n\nArt. 12.º - (Revogado.)\n\nArt. 13.º - (Revogado.)"
+    },
+    {
+      "de": 50,
+      "ate": 57,
+      "alterador": 1,
+      "texto": "Art. 15.º - (Revogado.)\n\nArt. 16.º - (Revogado.)\n\nArt. 17.º - (Revogado.)\n\nArt. 18.º - (Revogado.)"
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (DL 406/90), art. 8.º: os estatutos anexos ficam em vigor até à sua alteração (n.º 2), por isso não se marcam como revogados; os anexos I e II do decreto-lei não se marcam por ser incerto se a revogação os abrange. Art. 1.º (nova denominação social) não é alteração textual do original.",
+  "instrucoes": [
+    "Alt. 1 (DL 406/90), art. 8.º, n.º 1: revoga o DL 330/82 excepto o artigo 14.º: artigos 1.º a 13.º ({{14}}-{{47}}) e 15.º a 18.º ({{50}}-{{57}}) passam a (Revogado.); art. 14.º mantém-se.",
+    "Art. 8.º, n.º 2: estatutos continuam em vigor; nada a mudar.",
+    "Restantes artigos (denominação, titularidade, alienações, equiparação ao Estado) são normas próprias; não aplicados ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 14-47: parágrafo que não está no alterador nem no original: Artigo 1.º - (Revogado.)",
+    "substituição 14-47: parágrafo que não está no alterador nem no original: Art. 2.º - (Revogado.)",
+    "substituição 14-47: parágrafo que não está no alterador nem no original: Art. 3.º - (Revogado.)",
+    "substituição 14-47: parágrafo que não está no alterador nem no original: Art. 4.º - (Revogado.)",
+    "substituição 14-47: parágrafo que não está no alterador nem no original: Art. 5.º - (Revogado.)",
+    "substituição 14-47: parágrafo que não está no alterador nem no original: Art. 6.º - (Revogado.)",
+    "substituição 14-47: parágrafo que não está no alterador nem no original: Art. 7.º - (Revogado.)",
+    "substituição 14-47: parágrafo que não está no alterador nem no original: Art. 8.º - (Revogado.)",
+    "substituição 14-47: parágrafo que não está no alterador nem no original: Art. 9.º - (Revogado.)",
+    "substituição 14-47: parágrafo que não está no alterador nem no original: Art. 10.º - (Revogado.)",
+    "substituição 14-47: parágrafo que não está no alterador nem no original: Art. 11.º - (Revogado.)",
+    "substituição 14-47: parágrafo que não está no alterador nem no original: Art. 12.º - (Revogado.)",
+    "substituição 14-47: parágrafo que não está no alterador nem no original: Art. 13.º - (Revogado.)",
+    "substituição 50-57: parágrafo que não está no alterador nem no original: Art. 15.º - (Revogado.)",
+    "substituição 50-57: parágrafo que não está no alterador nem no original: Art. 16.º - (Revogado.)",
+    "substituição 50-57: parágrafo que não está no alterador nem no original: Art. 17.º - (Revogado.)",
+    "substituição 50-57: parágrafo que não está no alterador nem no original: Art. 18.º - (Revogado.)"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "pt:dre:526203:por",
+  "substituicoes": [
+    {
+      "de": 41,
+      "ate": 41,
+      "texto": "2. A emissão destas obrigações, cujo prazo não excederá sete anos, fica subordinada à legislação vigente",
+      "alterador": 1
+    },
+    {
+      "de": 42,
+      "ate": 43,
+      "texto": "3. (Revogado.)\n\n4. (Revogado.)",
+      "alterador": 3
+    },
+    {
+      "de": 100,
+      "ate": 105,
+      "texto": "a) Um representante do Ministério da Economia, que presidirá;\n\nb) Um representante do Ministério das Finanças;\n\nc) Um representante do Ministério dos Negócios Estrangeiros;\n\nd) Um representante do Fundo de Fomento de Exportação;\n\ne) Um representante do Banco de Portugal;\n\nf) Um representante da Caixa Geral de Depósitos, do Banco de Fomento Nacional ou dos bancos nacionalizados, designado pelo Ministro das Finanças;\n\ng) Um representante da Companhia de Seguro de Créditos;\n\nh) Um representante das outras instituições de crédito, designado pelas respectivas associações representativas;\n\ni) Um representante das actividades exportadoras, designado pelas respectivas associações representativas.",
+      "alterador": 2
+    },
+    {
+      "de": 115,
+      "ate": 115,
+      "texto": "2. A Comissão não se julgará constituída nem poderá deliberar validamente sem estarem presentes, pelo menos, seis dos seus membros efectivos ou substitutos e as suas deliberações serão tomadas por maioria de votos.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 199/70) art. 2.º: nova redacção do n.º 2 do art. 9.º (prazo de sete anos); unidade 41. O art. 1.º é norma geral, não textual.",
+    "Alterador 2 (DL 537/74): nova redacção do n.º 1 do art. 28.º (alíneas a) a i), unidades 100-105) e do n.º 2 do art. 29.º (unidade 115).",
+    "Alterador 3 (DL 485/88) art. 3.º, 4): revoga os n.os 3 e 4 do art. 9.º; unidades 42-43 como (Revogado.). Restantes revogações dirigem-se a outros diplomas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 42-43: parágrafo que não está no alterador nem no original: 3. (Revogado.)",
+    "substituição 42-43: parágrafo que não está no alterador nem no original: 4. (Revogado.)"
+  ]
+}

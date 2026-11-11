@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 86-86",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "24.º Na comercialização por grosso dos produtos de que trata este diploma, quer nos mercados abastecedores, quer fora deles, é obrigatório, para o vendedor ou seu mandatário, passar documento de venda, do qual constem os nomes e moradas dos compradores e vendedores, a qualidade em que intervêm, a indicação da quantidade, espécie, variedade (sempre que esta seja fàcilmente identificável) e preço e, ainda, a categoria comercial dos mesmos produtos, documento esse que o comprador terá de apresentar sempre que lhe seja exigido por quem de direito.",
+    "depois": "24.º Na comercialização por groso dos produtos de que trata este diploma, quer nos mercados abastecedores, quer fora deles, é obrigatório, para o vendedor ou seu mandatário, passar documento de venda, do qual constem os nomes e moradas dos compradores e vendedores, a qualidade em que intervêm, a indicação da quantidade, espécie, variedade (sempre que esta seja facilmente identificável), preço e data da transacção e ainda a categoria comercial dos mesmos produtos, documento esse que o comprador terá de apresentar sempre que lhe seja exigido por quem de direito.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:535272:por",
+    "alterador": "pt:dre:412019:por"
+  },
+  {
+    "artigo": "depois da unidade 88",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "§ 3.º Independentemente do disposto no parágrafo anterior, cabe ainda ao comprador a obrigação de identificar o vendedor.\n\n§ 4.º Em todos os mercados abastecedores que venham a adoptar novos processos mecanográficos na passagem dos documentos de compra e venda dos produtos de que trata este diploma o nome das respectivas espécies, bem como o do comprador e sua morada poderão ser substituídos por números correspondentes a um código previamente estabelecido e aprovado pela Inspecção-Geral das Actividades Económicas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:535272:por",
+    "alterador": "pt:dre:412019:por"
+  },
+  {
+    "artigo": "unidades 136-136",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "48.º Constituem contravenções puníveis com a multa de 500$00 a 10000$00 as infracções do disposto nos n.os 4.º, 5.º, 6.º, 7.º, 8.º, 12.º, 17.º, 18.º, 19.º, 24.º, 32.º, 33.º e 34.º",
+    "depois": "48.º Constituem contravenções puníveis com a multa de 1000$00 a 10000$00 as infracções do disposto nos n.os 4.º, 5.º, 6.º, 7.º, 8.º, 12.º, 17.º, 18.º, 19.º, 24.º, 32.º, 33.º e 34.º",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:535272:por",
+    "alterador": "pt:dre:412019:por"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:662522:por",
+  "substituicoes": [
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "5 - Criar uma estrutura de apoio técnico, na dependência do encarregado de missão, composta por um máximo de 20 elementos, um dos quais especificamente responsável pela orientação e gestão do Fundo Europeu para a Integração, nomeado pelo Ministro da Presidência.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Despacho 24738/2008) dá por finda a nomeação da encarregada de missão (n.º 4) sem alterar o texto. Alteradores 3, 4 e 5 (Decreto-Lei 126-B/2011, Decreto-Lei 54/2012, Decreto Regulamentar 29/2012) extinguem a Estrutura de Missão e regulam a sucessão nas suas atribuições, mas não revogam expressamente nem alteram o texto da resolução; não aplicados.",
+  "instrucoes": [
+    "Alterador 1: cessação da nomeação da encarregada de missão - não textual",
+    "Alterador 2, n.º 1: nova redacção do n.º 5 - substituída a unidade 21",
+    "Alterador 3, art. 16.º, n.º 2, b): extinção da Estrutura de Missão por fusão - não textual",
+    "Alteradores 4 e 5: sucessão da DGAI/SG nas atribuições da Estrutura de Missão - não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

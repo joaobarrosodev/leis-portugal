@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:460849:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias 508/82, 683/82, 1321/82, 807-P3/83, 260/84, 928/84, 138/86, 205/87, 150/88, 277/88, 386/89, 113/90, 392/91, 413/91, 1158/91, 1203/91, 114/93, 696/93, 317/94 e 296/97) alteram, aumentam ou substituem o quadro de pessoal anexo, que só existe em imagem (ver documento original) ou em lugares sem texto correspondente no original; nenhuma instrução muda o texto das unidades 1.º, 2.º ou da nota.",
+  "instrucoes": [
+    "Alteradores 1-8, 10-12, 17-21: alteram ou aumentam o quadro de pessoal anexo (imagem); não aplicável ao texto.",
+    "Alterador 9 (150/88): altera quadros de vários hospitais, incluindo este, por mapas em imagem; não aplicável.",
+    "Alteradores 13-14 (113/90): distribuem 4 lugares de parteira à Maternidade; alteração do quadro, não textual.",
+    "Alterador 15 (392/91): altera quadros e departamentaliza serviços administrativos; quadro em imagem, não aplicável.",
+    "Alterador 16 (413/91): substitui o quadro de pessoal médico (imagem); não aplicável.",
+    "Alterador 22 (296/97): substitui o quadro anexo por outro em imagem e cria anexos próprios; não aplicável ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

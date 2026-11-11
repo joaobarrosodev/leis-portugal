@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:457418:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os 23 alteradores (Portarias n.os 366/81, 552/81, 61/82, 106/82, 305/82, 483/82, 701/82, 1217/82, 1228/82, 70/83, 416/83, 417/83, 415/83, 425/83, 424/83, 905/83, 923/83, 20/84, 398/84, 604/84, 804/85, 187/86 e 52/87) criam, extinguem ou alteram lugares nos quadros de pessoal anexos (QUADRO I a VIII), que no original só existem em imagem (unidade 16, 'ver documento original'); não há alteração ao texto corrido.",
+  "instrucoes": [
+    "Alteradores 1-17 e 19-23: criação/redução/aumento de lugares nos quadros anexos (em imagem): não aplicável ao texto.",
+    "Alterador 18 (Portaria n.º 20/84): altera o quadro II anexo segundo mapa próprio e abate lugares nos quadros II, III e IV (em imagem): não aplicável ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

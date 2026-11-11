@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:461469:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 10 alteram, reestruturam ou aumentam o quadro de pessoal dos Hospitais Civis de Lisboa, que vem em imagem; a Portaria 598/93 extingue esse quadro (sem revogar o texto da portaria). Nada disto é alteração textual aplicável.",
+  "instrucoes": [
+    "Portarias 93/82, 190/83, 513/83, 508/83, 373/87, 3/90, 122/90, 591/90: alteram o quadro (imagem): não aplicado.",
+    "Portaria 413/91 e 458/93: substituem/aumentam quadros de pessoal médico (imagem): não aplicado.",
+    "Portaria 598/93, n.º 1.º: extingue o quadro de pessoal aprovado pelo original; não é revogação textual: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

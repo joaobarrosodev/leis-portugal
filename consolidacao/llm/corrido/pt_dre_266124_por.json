@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:266124:por",
+  "substituicoes": [
+    {
+      "de": 35,
+      "ate": 35,
+      "texto": "9.º - (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 16,
+      "texto": "12 - (Revogado.)\n\n13 - (Revogado.)\n\n14 - (Revogado.)\n\n15 - (Revogado.)\n\n16 - (Revogado.)\n\n17 - (Revogado.)\n\n18 - (Revogado.)\n\n19 - (Revogado.)\n\n20 - (Revogado.)",
+      "alterador": 5
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (958/82), n.º 1.º: adita os n.os 12 e 13 ao n.º 1.º; n.º 2.º dirigido a outro despacho.",
+    "Alterador 2 (635/83), n.º 1.º: adita os n.os 14 a 17 ao n.º 1.º; n.º 3.º: revoga o n.º 9.º (unidade 35 passa a 9.º - (Revogado.)); n.º 2.º é norma transitória própria.",
+    "Alterador 3 (800/83), n.º 1.º: adita um n.º 18 ao n.º 1.º; alterador 4 (206/85): adita os n.os 18, 19 e 20 ao n.º 1.º.",
+    "Alterador 5 (824/85), n.º 6.º: revoga os n.os 12 a 20 do n.º 1.º; como estes números foram todos aditados e depois revogados, inserem-se depois da unidade 16 (n.º 11) os n.os 12 a 20 com (Revogado.). Os restantes números do alterador 5 são regime próprio."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

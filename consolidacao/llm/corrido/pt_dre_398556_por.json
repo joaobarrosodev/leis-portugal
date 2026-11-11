@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:398556:por",
+  "substituicoes": [
+    {
+      "de": 33,
+      "ate": 42,
+      "texto": "15 - (Revogado.)\n\n16 - (Revogado.)\n\n17 - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Despacho Normativo 15/89, 7, c): revoga os n.os 15, 16 e 17; unidades 33 a 42 (com as alíneas) substituídas por '(Revogado.)' em cada número.",
+    "Restantes números do Despacho Normativo 15/89 dirigem-se a outros despachos ou são disposições próprias; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

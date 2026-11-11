@@ -507,6 +507,6 @@ python rendimento.py N --ids ids.txt
 
 **Falha corrigida a meio.** A primeira verificação letra a letra exigia o parágrafo inteiro num alterador ou no original: recusou 9 das 20 respostas com mudanças, todas "n.º 2.º passa a ter a seguinte redação: «…»" (o parágrafo do original é "2.º " e o corpo novo) ou troca de uma frase dentro de um parágrafo. Com a troca verificada à parte (acima), as 20 passaram e a verificação às cegas confirmou-as. O que a verificação às cegas viu nos 5 reprovados: nenhum texto errado, só instruções sem efeito possível.
 
-### Bloco 2 (por acabar)
+### Bloco 2 (ronda 18)
 
-120 diplomas por citações (`llm_corrido.py proximos 120`, 25 saltados por tamanho): o limite de uso das sessões foi atingido a meio e só 4 dos 15 subagentes (pedidos 003, 004, 015, 016, 025 a 028) responderam. Nada foi importado nem verificado às cegas; para continuar, repetir `proximos 120` (exclui os diplomas já em `llm/corrido/`) e correr os pedidos em falta.
+120 diplomas por citações (`llm_corrido.py proximos 120`, 25 saltados por tamanho; ids em `llm/corrido-ids-bloco2.txt`), 15 subagentes Opus (30 pedidos). A primeira tentativa ficou a meio por limite de uso e foi repetida de raiz. Resultado: 63 sem alterações (anexos e quadros só em imagem, ou revogação total), 51 juntados, 6 recusados na verificação letra a letra (parágrafos "(Revogado.)" escritos pelo LLM que não existem no alterador). Ronda 18: 51 em 4 lotes, 18 pedaços, verificadores Sonnet às cegas. **39 sem reparos: 32 % do bloco de 120 (76 % dos 51 verificados)**, um pouco abaixo dos 38 % da amostra e do limiar de 35 %. `rendimento.py 18 --ids llm/corrido-ids-bloco2.txt`. Os 12 com reparos são quase todos instruções sobre anexos que só vêm em imagem.

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:460831:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias n.os 42/82 a 743/96) alteram, aumentam ou substituem o quadro de pessoal do Hospital de Miguel Bombarda, que só existe em imagem (unidade 9); os lugares criados pelas Portarias n.os 578/96 e 620/96 e o quadro substituto da Portaria n.º 743/96 não têm onde entrar no texto. Não aplicados.",
+  "instrucoes": [
+    "Alteradores 1 a 11: alterações ao quadro de pessoal (anexo em imagem); não aplicadas.",
+    "Alteradores 12 e 13: criação de lugares a extinguir quando vagarem no quadro (imagem); não aplicadas.",
+    "Alterador 14: substituição do quadro por novo quadro anexo (imagem) e normas próprias sobre unidades orgânicas e conteúdo funcional; não aplicado ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

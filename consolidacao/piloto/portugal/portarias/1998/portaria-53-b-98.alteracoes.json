@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º A taxa do imposto sobre os produtos petrolíferos (ISP) aplicável à gasolina com teor de chumbo igual ou inferior a 0,013 g por litro, classificada pelos códigos NC 2710 00 27 a 2710 00 32, é igual a 95500$00 por 1000 l.",
+    "depois": "1.º A taxa do imposto sobre os produtos petrolíferos (ISP) aplicável à gasolina com teor de chumbo igual ou inferior a 0,013 g por litro, classificada pelos códigos NC 2710 00 27 a 2710 00 32, é igual a 61800$00 por 1000 l.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:406337:por",
+    "alterador": "pt:dre:435179:por;pt:dre:612855:por"
+  },
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º A taxa do ISP aplicável ao gasóleo, classificado pelos códigos NC 2710 00 66 a 2710 00 68, é igual a 55100$00 por 1000 l.",
+    "depois": "5.º A taxa do ISP aplicável ao gasóleo, classificado pelos códigos NC 2710 00 66 a 2710 00 68 é igual a 49300$00 por 1000 l.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:406337:por",
+    "alterador": "pt:dre:435179:por;pt:dre:612855:por"
+  }
+]

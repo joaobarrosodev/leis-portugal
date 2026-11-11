@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:390382:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (491/81 a 242/86) substituem, aumentam, criam ou extinguem lugares nos quadros de pessoal anexos, que só existem em imagem (unidades 13 a 25); não há alteração textual aplicável.",
+  "instrucoes": [
+    "Alt.1 a 19: alterações aos quadros de pessoal anexos (imagem) ou criação/extinção de lugares, não aplicadas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

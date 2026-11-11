@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:282698:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os 8 alteradores (Portarias n.os 1086/89, 469/90, 1120/90, 420/91, 408/92, 531-A/93 e Despachos Normativos n.os 16/91 e 485/93) alteram o quadro de pessoal da Direcção-Geral das Alfândegas, que no original é o mapa anexo em imagem (unidade 9), por número de lugares ou por mapas também em imagem; não há alteração ao texto corrido.",
+  "instrucoes": [
+    "Alterador 1: subdirectores-gerais de três para quatro no quadro anexo (imagem): não aplicável.",
+    "Alteradores 2, 3, 5 e 6: quadro alterado segundo mapa anexo próprio (imagem): não aplicável.",
+    "Alteradores 4 e 8: criação de um lugar a extinguir quando vagar no quadro: não aplicável.",
+    "Alterador 7: novo quadro de pessoal e conteúdos funcionais em anexos próprios, mantendo-se o quadro do pessoal dirigente da Portaria n.º 54/88: não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

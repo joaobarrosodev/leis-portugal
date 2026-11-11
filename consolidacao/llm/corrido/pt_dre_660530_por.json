@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:660530:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias n.os 63/85, 171/85, 703/85, 572/86, 785/87, 904/87, 147/89, 554/89, 717/91 e 747/99) alteram, substituem ou alargam os mapas I a V (quadros de pessoal), que no original só vêm em imagem (unidade 35); a Portaria n.º 171/85 descreve correções aos mapas I, II e IV, também só em imagem. A Portaria n.º 717/91 (6.º) revoga a Portaria n.º 86/84 'na parte aplicável', revogação parcial sem alvo textual. Nada aplicado.",
+  "instrucoes": [
+    "Alteradores 1 a 8 e 10: alterações e alargamentos dos mapas anexos (quadros em imagem); não aplicados.",
+    "Alterador 9 (717/91): novo QPCM nos seus anexos e revogação 'na parte aplicável' da Portaria n.º 86/84; não textual, não aplicado. O seu n.º 5.º repete a matéria do n.º 8.º do original, mas não o altera."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

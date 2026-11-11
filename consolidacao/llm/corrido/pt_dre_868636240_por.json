@@ -1,0 +1,42 @@
+{
+  "id": "pt:dre:868636240:por",
+  "substituicoes": [
+    {
+      "de": 42,
+      "ate": 42,
+      "texto": "4.2 - As competências que me estão legalmente atribuídas relativamente à definição de orientações e ao exercício de poderes de superintendência e tutela relativamente à Tapada Nacional de Mafra, à Fundação Mata do Buçaco, F. P., e à FlorestGal, S. A.;",
+      "alterador": 1
+    },
+    {
+      "de": 55,
+      "ate": 55,
+      "texto": "l) Emitir as declarações de imprescindível utilidade pública e de relevante e sustentável interesse para a economia local, bem como determinar as medidas específicas para a constituição de novas áreas de povoamento ou beneficiação de áreas existentes, como forma compensatória e decidir da aplicação de sanções acessórias, previstas respetivamente no n.º 1 do artigo 6.º, no n.º 1 do artigo 8.º e no artigo 22.º todos do [Decreto-Lei n.º 169/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2001-332749), de 25 de maio, na sua redação atual, que estabelece medidas de proteção ao sobreiro e à azinheira.",
+      "alterador": 1
+    },
+    {
+      "de": 62,
+      "ate": 62,
+      "texto": "f) Autorizar, nos termos da lei do Orçamento do Estado e do decreto-lei de execução orçamental aplicáveis, a celebração de novo contrato de aquisição de serviços com objeto diferente de contrato vigente no ano económico anterior de referência;",
+      "alterador": 1
+    },
+    {
+      "de": 70,
+      "ate": 70,
+      "texto": "n) Autorizar os mapas de pessoal e respetivas alterações, nos termos do disposto no artigo 29.º da Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do despacho; os pontos marcados [...] ficam como estão.",
+    "4.2 (unidade 42): substituída (Fundação Mata do Buçaco, F. P., e ponto e vírgula final).",
+    "4.3, alínea l) (unidade 55): substituída pela nova redação.",
+    "5, alínea f) (unidade 62): substituída (sai a parte final sobre a compensação).",
+    "5, alínea n) (unidade 70): substituída (Autorizar os mapas de pessoal e respetivas alterações).",
+    "Alterador 1, n.º 2: entrada em vigor do próprio alterador, nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

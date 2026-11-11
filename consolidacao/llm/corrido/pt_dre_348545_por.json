@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:348545:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As mudanças de denominação de cursos, opções e ramos, de unidade orgânica e a revogação parcial (Portaria 217/2005, 3.º, 2, a), condicionada ao fim da transição) incidem sobre entradas do quadro do anexo, que só vem em imagem; as alterações a planos de estudos dizem respeito a outras portarias.",
+  "instrucoes": [
+    "Portarias 875/2002, 883/2002, 603/2003: mudam a denominação de cursos (quadro em imagem); não aplicado.",
+    "Portaria 311/2004: muda opções/ramos de um curso (quadro em imagem) e altera o anexo da Portaria 47/2002 (outro diploma); não aplicado.",
+    "Portaria 93/2005: transfere curso para outra escola (quadro em imagem); não aplicado.",
+    "Portaria 217/2005: revogação parcial na parte de um curso do quadro, após transição; não aplicado.",
+    "Portaria 1215/2005: curso deixa de se desdobrar em opções e ramos (quadro em imagem); altera anexo da Portaria 138/2002; não aplicado.",
+    "Portaria 150/2006: altera a Portaria 21/2002, outro diploma; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

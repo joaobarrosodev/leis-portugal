@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:151326:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 1552/2007, 1.º: a nova redacção do anexo quanto ao curso de Música na Comunidade só vem em imagem.",
+  "instrucoes": [
+    "Portaria 1552/2007, 1.º: altera o anexo (quadro em imagem); não aplicado. Os n.os 2.º a 6.º são disposições próprias, não dirigidas ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

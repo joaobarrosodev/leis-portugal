@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 18-24",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º Os preços de venda dos produtos avícolas formam-se para o comércio grossista e qualquer que seja o número de intervenientes, fazendo acrescer aos preços de compra na produção uma quantia até às margens máximas adiante indicadas, as quais são independentes da classificação comercial dos produtos e englobam o lucro líquido, bem como todos os encargos inerentes ao exercício da respectiva actividade:\n\na) Ovos - 1$00 por dúzia.\n\nb) Criação viva - 2$00 por quilograma\n\nc) Criação morta - 1$00 por quilograma.\n\n§ 1.º Quando o comércio grossista adquirir a criação viva e efectuar o abate, as margens máximas que poderá auferir, nos termos deste número, serão as seguintes:\n\na) Galináceos preparados segundo o tipo tradicional - 4$00 por quilograma.\n\nb) Leporídeos e galináceos prontos a cozinhar - 8$00 por quilograma.",
+    "depois": "4.º Os preços de venda dos produtos avícolas e cunícolas formam-se, para o comércio grossista, e qualquer que seja o número de intervenientes, fazendo acrescer aos preços de compra na produção uma quantia até às margens máximas adiante indicadas, as quais são independentes da classificação comercial dos produtos e englobam o lucro líquido, bem como todos os encargos inerentes ao exercício da respectiva actividade:\n\na) Ovos - 2$00 por dúzia;\n\nb) Criação viva - 2$00 por quilograma;\n\nc) Criação morta - 1$00 por quilograma.\n\n§ 1.º Quando o comércio grossista adquirir a criação viva e efectuar o abate, as margens máximas que poderá auferir, nos termos deste número, serão as seguintes:\n\na) Galináceos preparados segundo o tipo tradicional - 4$00 por quilograma;\n\nb) Galináceos prontos a cozinhar - 14$00 por quilograma;\n\nc) Leporídeos prontos a cozinhar - 8$00 por quilograma.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:295653:por",
+    "alterador": "pt:dre:310621:por;pt:dre:412019:por"
+  },
+  {
+    "artigo": "unidades 26-34",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º Os preços de venda dos produtos avícolas formam-se, para o comércio retalhista, fazendo acrescer aos preços de aquisição uma quantia até às margens máximas adiante indicadas, as quais são independentes da classificação comercial dos produtos e englobam o lucro líquido, bem como todos os encargos inerentes ao exercício da respectiva actividade:\n\na) Ovos - 1$20 por dúzia;\n\nb) Criação viva - 3$00 por quilograma;\n\nc) Criação morta:\n\n1) Galináceos preparados segundo o tipo tradicional - 2$50 por quilograma;\n\n2) Leporídeos e galináceos prontos a cozinhar - 3$00 por quilograma.\n\n§ 1.º Enquanto o comércio retalhista adquirir a criação viva e efectuar o abate, as margens máximas que poderá auferir, nos termos deste número, serão as seguintes:\n\na) Galináceos preparados segundo o tipo tradicional - 5$00 por quilograma;\n\nb) Leporídeos e galináceos prontos a cozinhar - 9$00 por quilograma.",
+    "depois": "5.º Os preços de venda dos produtos avícolas e cunícolas formam-se para o comércio retalhista, fazendo acrescer aos preços de aquisição uma quantia até às margens máximas adiante indicadas, as quais são independentes da classificação comercial dos produtos e englobam o lucro líquido, bem como todos os encargos inerentes ao exercício da respectiva actividade:\n\na) Ovos - 2$00 por dúzia;\n\nb) Criação viva - 3$00 por quilograma;\n\nc) Criação morta:\n\n1) Galináceos preparados segundo o tipo tradicional - 2$50 por quilograma;\n\n2) Galináceos prontos a cozinhar - 4$00 por quilograma;\n\n3) Leporídeos prontos a cozinhar - 3$00 por quilograma.\n\n§ 1.º Enquanto o comércio retalhista adquirir a criação viva e efectuar o abate as margens máximas que poderá auferir, nos termos deste número, serão as seguintes:\n\na) Galináceos preparados segundo o tipo tradicional - 5$00 por quilograma;\n\nb) Galináceos prontos a cozinhar - 13$20 por quilograma;\n\nc) Leporídeos prontos a cozinhar - 9$00 por quilograma.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:295653:por",
+    "alterador": "pt:dre:310621:por;pt:dre:412019:por"
+  },
+  {
+    "artigo": "depois da unidade 43",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "§ 5.º Independentemente do disposto no parágrafo anterior, cabe ainda ao comprador a obrigação de identificar o vendedor.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:295653:por",
+    "alterador": "pt:dre:310621:por;pt:dre:412019:por"
+  }
+]

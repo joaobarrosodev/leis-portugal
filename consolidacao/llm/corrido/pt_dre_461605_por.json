@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:461605:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias 356/84, 693/84, 135/87, 238/87, 887/87, 447/89, 544/90, 413/91, 138/92) alteram ou substituem o quadro de pessoal anexo (unidade 9, só em imagem) por quadros em imagem; a extinção da valência de pediatria cirúrgica (Portaria 447/89) não é alteração textual.",
+  "instrucoes": [
+    "Alteradores 1-8: alteram o quadro de pessoal conforme quadros anexos em imagem; não aplicado.",
+    "Alterador 9 (Portaria 138/92): substitui o quadro pelo anexo (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

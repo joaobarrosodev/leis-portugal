@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:576541:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As Portarias n.os 1056/82 e 622/83 alteram o mapa IV anexo (substituição de cursos e criação do curso de técnico de minas), que só vem em imagem; não aplicadas.",
+  "instrucoes": [
+    "Alterador 1 (1056/82): substitui cursos do mapa IV (imagem); não aplicado.",
+    "Alterador 2 (622/83): adita ao mapa IV o curso de técnico de minas (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

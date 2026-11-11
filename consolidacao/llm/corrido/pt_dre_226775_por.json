@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:226775:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 19,
+      "texto": "I - (Revogada.)",
+      "alterador": 2
+    },
+    {
+      "de": 72,
+      "ate": 125,
+      "texto": "VIII - (Revogada.)\n\nIX - (Revogada.)\n\nX - (Revogada.)\n\nXI - (Revogada.)\n\nXII - (Revogada.)\n\nXIII - (Revogada.)\n\nXIV - (Revogada.)",
+      "alterador": 2
+    },
+    {
+      "de": 127,
+      "ate": 147,
+      "texto": "XV - (Revogada.)\n\nXVI - (Revogada.)\n\nXVII - (Revogada.)\n\nXVIII - (Revogada.)",
+      "alterador": 2
+    },
+    {
+      "de": 149,
+      "ate": 171,
+      "texto": "XIX - (Revogada.)\n\nXX - (Revogada.)\n\nXXI - (Revogada.)\n\nXXII - (Revogada.)\n\nXXIII - (Revogada.)\n\nXXIV - (Revogada.)\n\nXXV - (Revogada.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DN 161/83), n.º 1: nova redação das normas I, X, XIII e XIV; n.º 2: revoga a alínea b) do n.º 1 da norma XI, a norma XIX, o n.º 1 da norma XXI e a norma XXII. Todas estas normas ficam depois revogadas pelo alterador 2, por isso o resultado final é a revogação.",
+    "Alterador 1, n.os 3 a 5: dirigidos ao DN 388/80 e ao DN 174/81; ignorados.",
+    "Alterador 2 (DN 12/88), norma XX, alínea a): revoga o DN 387/80 com exceção das normas II a VII; normas I e VIII a XXV marcadas como revogadas (epígrafe e corpo na mesma substituição); preâmbulo, títulos dos capítulos e normas II-VII mantidos.",
+    "Alterador 2, restantes normas: regime próprio do novo despacho, sem alteração textual ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

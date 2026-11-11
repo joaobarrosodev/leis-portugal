@@ -1,0 +1,47 @@
+{
+  "id": "pt:dre:420995:por",
+  "substituicoes": [
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "2. Os valores do número anterior serão corrigidos no início de cada ano, para aplicação a novos contratos, e de cinco em cinco anos, para os contratos existentes ou suas prorrogações, de acordo com a evolução da média aritmética dos índices ponderados de salários e materiais de construção publicados entre os meses de Junho de 1973 e Junho do ano precedente pelo Ministério das Obras Públicas, nos termos do artigo 9.º do [Decreto-Lei n.º 273-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-b-1975-626600), de 3 de Junho de 1975.",
+      "alterador": 2
+    },
+    {
+      "de": 42,
+      "ate": 43,
+      "texto": "e) K(índice 5) = 0,9, para contratos celebrados até 31 de Dezembro de 1980;\n\n= 1,0, para contratos posteriores.",
+      "alterador": 3
+    },
+    {
+      "de": 63,
+      "ate": 64,
+      "texto": "e) K(índice 5) = 0,9, para contratos celebrados durante a 1.ª fase dos investimentos públicos (até 31 de Dezembro de 1980);\n\n= 1,0, para contratos posteriores.",
+      "alterador": 3
+    },
+    {
+      "de": 116,
+      "ate": 117,
+      "texto": "4 - Pela mora no cumprimento vencer-se-ão juros à taxa anual igual à taxa básica de desconto do Banco de Portugal acrescida de 1%.",
+      "alterador": 4
+    },
+    {
+      "de": 152,
+      "ate": 152,
+      "texto": "5 - O pagamento pelo GAS da indemnização de que trata este artigo poderá ser feito em prestações distribuídas por um prazo máximo de 5 anos, pagando então o GAS um juro anual igual à taxa básica de desconto do Banco de Portugal acrescido de 1%.",
+      "alterador": 4
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Decreto-Lei n.º 381/86: suspende as actualizações de preço (n.os 2 dos n.os 3.º e 4.º) e afasta para contratos novos as normas de redução do preço; não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1 (692/75): K5 no n.º 6.º, 1, e) e 2, e) até 31-12-1976; substituído pelos alteradores 2 e 3.",
+    "Alterador 2 (535/77): nova redacção do n.º 4.º, 2 (unidade 23); K5 até 31-12-1979, substituído pelo alterador 3.",
+    "Alterador 3 (103/80): n.º 6.º, 1, e) e 2, e) com K5 = 0,9 até 31-12-1980 (unidades 42-43 e 63-64).",
+    "Alterador 4 (489/83): nova redacção do n.º 4 do art. 3.º da minuta (unidade 116), supressão do n.º 4-A (unidade 117) e nova redacção do n.º 5 do art. 8.º (unidade 152).",
+    "Alterador 5 (DL 381/86): suspensão de actualizações e afastamento das reduções de preço; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

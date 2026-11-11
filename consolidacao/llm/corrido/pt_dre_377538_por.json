@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:377538:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (DL 121/2005), art. 5.º, n.º 2, alínea b): a Portaria n.º 431/79 é revogada (com a entrada em vigor da regulamentação), pelo que todo o texto deixa de vigorar; não se devolve nada.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 176/83): nova redação do n.º 2 do 13.º (unidade 85); fica prejudicada pela revogação total.",
+    "Alt. 2 (DL 121/2005), art. 5.º, n.º 2, b): revoga a Portaria n.º 431/79 por inteiro; nada devolvido.",
+    "Alt. 2, arts. 1.º a 4.º e 6.º: alteram o ECD ou são autónomos; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

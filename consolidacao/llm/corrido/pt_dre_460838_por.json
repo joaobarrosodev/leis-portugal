@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:460838:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias n.os 55/82 a 885/99) alteram, aumentam, integram excedentes, criam lugares ou substituem o quadro de pessoal do Hospital Distrital de Vila Franca de Xira (Hospital de Reynaldo dos Santos), que só existe em imagem (unidade 9). Não aplicados.",
+  "instrucoes": [
+    "Alteradores 1 a 15: alterações ao quadro de pessoal em imagem (incluindo a distribuição de lugares de parteira e de pessoal médico em vários hospitais e a substituição do quadro pela Portaria n.º 885/99); nenhuma instrução sobre o texto do original; não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

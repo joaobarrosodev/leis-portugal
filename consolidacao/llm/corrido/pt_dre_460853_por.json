@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:460853:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias n.os 50/82 a 1277/95) alteram, reestruturam, criam lugares ou substituem o quadro de pessoal do Hospital de Pulido Valente, que só existe em imagem (unidade 9); as notas (g) e (h) alteradas pela Portaria n.º 304/89 são do quadro reestruturado pela Portaria n.º 160/88, não do texto do original. Não aplicados.",
+  "instrucoes": [
+    "Alteradores 1 a 19: alterações ao quadro de pessoal em imagem (incluindo notas do quadro e substituições do quadro pelas Portarias n.os 1170/91 e 1277/95); nenhuma instrução sobre o texto do original; não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:583800:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (1 a 32) mexem apenas nas dotações dos quadros de pessoal do mapa I anexo, que só existe em imagem ('ver documento original'); nenhum altera texto do original.",
+  "instrucoes": [
+    "Alteradores 1, 2, 4, 9, 16, 18, 21 (Secretaria-Geral): aumentam lugares do mapa I; mapa em imagem, não aplicado.",
+    "Alteradores 3, 15 (Departamento de Estudos e Planeamento): corrigem/aumentam lugares do mapa I; mapa em imagem, não aplicado.",
+    "Alterador 5 (DL 239/88, art. 2.º): adita um lugar de subdirector-geral ao quadro do DAFSE no mapa I; mapa em imagem, não aplicado. Arts. 1.º e 3.º alteram o DL 156-A/83: ignorados.",
+    "Alteradores 6, 7 (Inspecção-Geral do Trabalho): alargam quadro; mapa em imagem, não aplicado.",
+    "Alteradores 8, 10, 11, 19, 23, 24, 25, 26, 27, 30, 31, 32 (DG Relações Colectivas de Trabalho): criam lugares no mapa I; em imagem, não aplicado.",
+    "Alteradores 12, 28, 29 (DG do Trabalho), 13 (DG Higiene e Segurança), 14 (SICT), 20, 22 (SOGP), 17 (vários serviços): criam lugares no mapa I; em imagem, não aplicado.",
+    "Instruções dirigidas a outros quadros (IEFP, DL 193/82) ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

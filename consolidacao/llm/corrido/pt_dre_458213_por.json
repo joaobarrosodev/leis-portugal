@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:458213:por",
+  "substituicoes": [
+    {
+      "de": 54,
+      "ate": 54,
+      "texto": "Dos lugares de motorista de pesados de 1.ª classe ou de 2.ª classe que vagarem pela integração do pessoal que exerce esta função no âmbito do mapa anexo IV a que se refere o n.º 2 do artigo 57.º do [Decreto-Lei n.º 361/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1977-286520), de 1 de Setembro, acrescerão 10 aos lugares de motorista de ligeiros de 1.ª classe ou de 2.ª classe, mantendo-se 1 em motorista de pesados de 1.ª classe ou de 2.ª classe.",
+      "alterador": 5
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1, 7 e 8 (Portarias 388/82, 376/84, 592/84) eliminam/criam lugares no quadro anexo V, que só existe em imagem (unidade 58); alteradores 2, 3, 4 e 6 (Portarias 677/82, 855/82, 860/82, 76/83) alteram quadros anexos da Portaria 284/80 (outro diploma). Não aplicados.",
+  "instrucoes": [
+    "Alterador 1: elimina e cria lugar no quadro anexo V (imagem) - não aplicado",
+    "Alterador 2: cria lugares no quadro anexo V à Portaria 284/80 - outro diploma/quadro em imagem, não aplicado",
+    "Alteradores 3, 4, 6: criam lugares nos anexos X, VII e XIV da Portaria 284/80 - outro diploma, não aplicado",
+    "Alterador 5: nova redacção da segunda parte do n.º 7.º - substituída a unidade 54",
+    "Alteradores 7 e 8: aumentam/extinguem/criam lugares no quadro anexo V (imagem) - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

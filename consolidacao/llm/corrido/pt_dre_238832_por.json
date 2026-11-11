@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:238832:por",
+  "substituicoes": [
+    {
+      "de": 53,
+      "ate": 57,
+      "texto": "a) 6,5%, no primeiro ano de duração do depósito;\n\nb) 6,75%, no segundo ano;\n\nc) 7%, no terceiro ano:\n\nd) 7,25%, no quarto e quinto anos;\n\ne) 7,5%, nos anos subsequentes.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1 do n.º 9.º — o proémio (unidade 52) fica igual; substituídas as alíneas a) a e) (unidades 53 a 57).",
+    "Alterador 1, 2.º e 3.º: aplicação e vigência — não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

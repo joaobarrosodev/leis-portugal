@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É reconhecido o Instituto Superior de Línguas e Administração, de que é titular a Sociedade Instituto Superior de Línguas e Administração, S. A., a funcionar nas instalações que possui em Vila Nova de Gaia.",
+    "depois": "1.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:547234:por",
+    "alterador": "pt:dre:502871:por"
+  }
+]

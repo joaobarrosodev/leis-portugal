@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:245103:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 59,
+      "texto": "3.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 69,
+      "ate": 74,
+      "texto": "10.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "N.º 14.º da Portaria 746/89 substitui o anexo I pelo anexo da portaria alteradora, que só existe em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 746/89), n.º 15.º: revoga os n.os 3.º e 10.º; aplicado (unidades 10-59 e 69-74). Os n.os 1.º e 13.º, que substituem as regras do n.º 3.º e os montantes do n.º 10.º por regras próprias da portaria alteradora, ficam consumidos por esta revogação.",
+    "N.º 14.º: substitui o anexo I por anexo em imagem; não aplicado.",
+    "N.º 16.º: dirigido à Portaria 430/86; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

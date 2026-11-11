@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 22-22",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Todos os coeficientes de ponderação tem o valor 1.",
+    "depois": "a) Deontologia Médica ... 1\n\nb) História da Medicina ... 1\n\nc) Outras disciplinas semestrais ... 2\n\nd) Disciplinas anuais ... 3",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:567468:por",
+    "alterador": "pt:dre:396688:por"
+  }
+]

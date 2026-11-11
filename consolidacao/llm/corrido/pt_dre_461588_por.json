@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:461588:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias 313/82, 191/83, 52/84, 368/84, 957/84, 442/85, 165/87, 208/87, 142/89, 413/91, 857/91, 1043/93 (duas vezes), 1032/95 e o Decreto-Lei 84/88) alteram, acrescem ou substituem o quadro de pessoal anexo, que só existe em imagem (ver documento original) no original e nos alteradores; não há alteração textual aplicável às unidades do texto. A substituição integral do quadro pela Portaria 1032/95 poderia abranger a Nota (unidade 10), mas o quadro novo vem só em imagem, por isso não se altera.",
+  "instrucoes": [
+    "Alteradores 1-8, 11-14: alteram o quadro de pessoal anexo (imagem) - não aplicado, quadro só em imagem",
+    "Alterador 9 (DL 84/88, art. 2.º): o quadro é acrescido na medida do quadro do Centro de Neurocirurgia, a constar de portaria - não textual, não aplicado",
+    "Alterador 10 (Portaria 142/89): extingue lugar de chefe de serviço de otoneurologia-audiologia do quadro - alteração do quadro (imagem), não aplicado",
+    "Alterador 15 (Portaria 1032/95, 1.º): substitui o quadro pelo quadro anexo (imagem); anexos I e II próprios da portaria - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

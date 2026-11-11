@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "depois da unidade 89",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "14.º-A\n\n(Realização condicional da pré-candidatura)\n\n1 - O candidato poderá proceder condicionalmente à pré-candidatura se, no prazo que lhe é fixado nos termos do n.º 3 do n.º 13.º, a entidade competente para a emissão do documento referido na alínea b) do n.º 1 do n.º 14.º o não tiver ainda feito.\n\n2 - No boletim de pré-candidatura o candidato indicará, no local apropriado, os elementos referentes à habilitação precedente de forma correcta e completa, sob pena de ficar incurso no disposto no n.º 20.º\n\n3 - O documento referido no n.º 1 deverá ser entregue até ao dia 9 de Julho de 1982, data limite do prazo de correcção dos erros das listas provisórias de pré-candidatura, sob pena de anulação da pré-candidatura.\n\n4 - Os estabelecimentos de ensino secundário tomarão as providências necessárias para a emissão dos certificados referidos no n.º 1 dentro de prazo adequado à satisfação do disposto no n.º 3.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:391982:por",
+    "alterador": "pt:dre:395345:por;pt:dre:396559:por"
+  },
+  {
+    "artigo": "unidades 146-147",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "(2C(índice 1) + 2C(índice 2) + C(índice 3))/5\n\nem que C(índice 1), C(índice 2) e C(índice 3) são as classificações das disciplinas que constituem um plano de estudos coerente de um dos cursos do 12.º ano de escolaridade, nos termos da [Portaria n.º 684/81](https://diariodarepublica.pt/dr/detalhe/portaria/684-1981-576541), de 11 de Agosto, em que C1 >= C2 >= C3.",
+    "depois": "(2C(índice 1) + C(índice 2))/3\n\nem que C(índice 1) e C(índice 2) são as classificações das 2 disciplinas melhor classificadas de entre as 3 que constituem o plano de estudos do curso do 12.º ano de escolaridade em que obteve aprovação e com que se candidata sendo C(índice 1) >= C(índice 2).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:391982:por",
+    "alterador": "pt:dre:395345:por;pt:dre:396559:por"
+  },
+  {
+    "artigo": "unidades 148-150",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5 - Para os candidatos cuja habilitação de acesso é o Ano Propedêutico, C12 é calculado pela aplicação da seguinte fórmula:\n\n((2C(índice 1) + 2C(índice 2) + C(índice 3))/5\n\nem que C(índice 1), C(índice 2) e C(índice 3) são as classificações das disciplinas com melhor classificação de entre as nucleares e complementares do elenco (ou elencos) do Ano Propedêutico em que obteve aprovação e com que se candidata, sendo C1 >= C2 >= C3.",
+    "depois": "5 - Para os candidatos cuja habilitação de acesso é o ano propedêutico, C12 é calculado pela aplicação da seguinte fórmula:\n\n(2C(índice 1) + C(índice 2))/3\n\nem que C(índice 1) e C(índice 2) são as classificações das 2 disciplinas melhor classificadas de entre as nucleares e complementares do elenco (ou elencos) do ano propedêutico em que obteve aprovação e com que se candidata, sendo C(índice 1) >= C(índice 2).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:391982:por",
+    "alterador": "pt:dre:395345:por;pt:dre:396559:por"
+  },
+  {
+    "artigo": "unidades 158-160",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - Caso, por ausência total de cobertura docente numa disciplina, o candidato tenha sido aprovado no 12.º ano de escolaridade apenas com 2 disciplinas, C12 será calculado pela aplicação da seguinte fórmula:\n\n(2C(índice 1) + 2C(índice 2))/3\n\nem que C(índice 1) e C(índice 2) são as classificações das disciplinas que integram parcialmente um plano de estudos coerente de um dos cursos do 12.º ano de escolaridade, nos termos da [Portaria n.º 684/81](https://diariodarepublica.pt/dr/detalhe/portaria/684-1981-576541), de 11 de Agosto, e em que C(índice 1) >= C(índice 2).",
+    "depois": "4 - Caso, por ausência total de cobertura docente numa disciplina, o candidato tenha sido aprovado no curso do 12.º ano de escolaridade, com que se candidata apenas com 2 disciplinas, os valores de C(índice 1) e C(índice 2) a que se refere o n.º 4 do n.º 21.º serão os das classificações dessas disciplinas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:391982:por",
+    "alterador": "pt:dre:395345:por;pt:dre:396559:por"
+  }
+]

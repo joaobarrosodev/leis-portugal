@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:239799:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "2.º No trimestre de capitalização a iniciar-se durante o mês de Maio de 1994, à taxa referida no número anterior acrescerá um adicional de 9% dessa taxa, sendo a soma arredondada para o 1/16 de ponto percentual superior.",
+      "alterador": 9
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alteradores 1 a 9, 1.º: cada um dá nova redação ao n.º 2.º (unidade 6), sucessivamente (17%, 10%, só arredondamento, 10%, 5%, só arredondamento, 3,5% em Março de 1994, 6,75% em Abril de 1994, 9% em Maio de 1994); aplicadas por ordem, fica a redação do alterador 9 (Portaria n.º 265-A/94).",
+    "Alteradores 1 a 9, restantes números: vigência, âmbito temporal e garantia de taxa — disposições próprias, não alteram o texto do original.",
+    "Alterador 10 (Portaria n.º 268-C/2012), artigo 2.º: mantém em vigor os prémios de permanência do n.º 3 — não altera o texto; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

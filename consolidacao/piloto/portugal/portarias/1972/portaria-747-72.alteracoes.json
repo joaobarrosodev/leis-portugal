@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 53-57",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) 5,75 por cento, no primeiro ano de duração do depósito;\n\nb) 6 por cento, no segundo ano;\n\nc) 6,25 por cento, no terceiro ano;\n\nd) 6,5 por cento, no quarto e quinto anos;\n\ne) 6,75 por cento, nos anos subsequentes.",
+    "depois": "a) 6,5%, no primeiro ano de duração do depósito;\n\nb) 6,75%, no segundo ano;\n\nc) 7%, no terceiro ano:\n\nd) 7,25%, no quarto e quinto anos;\n\ne) 7,5%, nos anos subsequentes.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:238832:por",
+    "alterador": "pt:dre:195460:por"
+  }
+]

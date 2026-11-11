@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:578518:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as instruções incidem sobre os quadros de pessoal anexos (anexos I e II), que não estão no texto por unidades e cujas alterações só vêm em mapa/quadro em imagem ou são alterações não textuais (aumento, criação e extinção de lugares, letra de vencimento do secretário): Portarias n.os 682/82, 372/87, 147/88, 783/90, 1224/92, Decreto do Governo n.º 26/83 e Despacho Normativo n.º 139/92.",
+  "instrucoes": [
+    "Alterador 1: aumenta o quadro de pessoal pelos lugares do mapa anexo (imagem) — não aplicado.",
+    "Alterador 2: lugar de secretário passa à letra E — alteração ao quadro, não textual; não aplicada.",
+    "Alterador 3: cria e extingue lugares no quadro da Delegação — não textual; não aplicado.",
+    "Alterador 4: altera quadros de vários serviços (anexo em imagem) e fixa conteúdos funcionais — não aplicado.",
+    "Alterador 5: altera o quadro da Delegação do Porto (quadro em imagem) — não aplicado.",
+    "Alterador 6: cria lugar de assessor principal no quadro — não textual; não aplicado.",
+    "Alterador 7: substitui parte do quadro da sede (imagem) e extingue lugar — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

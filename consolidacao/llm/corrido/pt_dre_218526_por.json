@@ -1,0 +1,99 @@
+{
+  "id": "pt:dre:218526:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "1.º - 1 - O acréscimo de produtividade dos funcionários e agentes da Direcção-Geral de Impostos (DGCI) e da Direcção-Geral de Informática e Apoio aos Serviços Tributário e Aduaneiros (DGITA), que serve de fundamento à atribuição do suplemento previsto nos n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 335/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1997-406321), de 2 de Dezembro, é avaliado no 1.º mês do ano seguinte àquele a que diga respeito, através da comparação entre os objectivos definidos no plano de actividades e os resultados efectivamente alcançados.",
+      "alterador": 2
+    },
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "2.º - 1 - O limite máximo do suplemento a que se refere o n.º 1 do artigo anterior, a atribuir através do Fundo de Estabilização Tributário (FET) aos funcionários e agentes da DGCI e da DGITA, é estabelecido em cada ano da seguinte forma:",
+      "alterador": 2
+    },
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "4 - O valor do suplemento a atribuir, em cada ano, por cargos e categorias é definido em função das verbas anuais para o efeito disponibilizadas pelo conselho de administração do FET, tendo em conta a situação financeira do Fundo e a adequada gestão do mesmo, não podendo ser superior ao que resultar da aplicação das percentagens referidas nas alíneas a) a c) do n.º 1, acrescida da majoração a que se refere o número seguinte.",
+      "alterador": 3
+    },
+    {
+      "de": 23,
+      "ate": 24,
+      "texto": "3.º - 1 - Sem prejuízo do disposto no número seguinte, os suplementos a que se refere o número anterior são pagos aos funcionários e agentes que reúnam, cumulativamente, as seguintes condições:\n\na) Exerçam, efectivamente, funções na DGCI ou na DGITA no momento em que sejam pagos os suplementos, com excepção dos aposentados, a quem será paga a totalidade do suplemento correspondente ao acréscimo de produtividade até à data da aposentação;",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "b) Tenham obtido:\n\ni) A menção máxima ou a imediatamente inferior a ela, na avaliação do seu desempenho do ano a que respeita o acréscimo de produtividade;\n\nii) No ano a que respeita o acréscimo de produtividade e nos dois anos sucessivamente anteriores, menções imediatamente inferiores às referidas na subalínea anterior;",
+      "alterador": 2
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "3 - O disposto no número anterior aplica-se, ainda, aos funcionários e agentes da DGCI e da DGITA que:\n\na) Prestem serviço na administração geral tributária (AGT) em comissão de serviço, requisição ou destacamento;\n\nb) Prestem serviço em gabinetes dos membros do Governo ou no serviço de apoio ao Defensor do Contribuinte na situação de requisitados ou destacados e que não recebam remunerações certas e permanentes pagas pelos respectivos orçamentos.",
+      "alterador": 1
+    },
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "4 - O suplemento a que se refere o n.º 1 do artigo anterior pode ainda ser atribuído por despacho do membro do Governo responsável pela área das finanças e da Administração Pública, que reconheça a particular incidência das funções desempenhadas na produtividade dos serviços ou na melhoria do desempenho dos funcionários e agentes, consoante o caso, sem dependência da verificação de quaisquer outros requisitos estabelecidos na presente portaria.",
+      "alterador": 2
+    },
+    {
+      "de": 30,
+      "ate": 44,
+      "texto": "4.º - 1 - Implicam a perda dos abonos referidos no n.º 1.º da presente portaria as faltas ao serviço, com excepção das dadas:\n\na) Por casamento;\n\nb) Por maternidade e por paternidade;\n\nc) Por nascimento;\n\nd) Para consultas pré-natais e amamentação;\n\ne) Por adopção;\n\nf) Por falecimento de familiar;\n\ng) Por acidente em serviço ou doença profissional;\n\nh) Por doença prolongada incapacitante;\n\ni) Por doença infecto-contagiosa e por isolamento profiláctico;\n\nj) Para assistência a familiares;\n\nk) Por doação de sangue e socorrismo;\n\nl) Para cumprimento de obrigações;\n\nm) Para prestação de provas de concursos;\n\nn) Por conta do período de férias;\n\no) Por actividade sindical, nos casos previstos na lei;\n\np) Ao abrigo do Estatuto do Trabalhador-Estudante.\n\n2 - As faltas a que alude o artigo 64.º do [Decreto-Lei n.º 100/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1999-138777), de 31 de Março, implicam a perda integral do direito ao abono do suplemento a que se refere o n.º 1.º da presente portaria, a menos que se verifique o condicionalismo previsto no n.º 2 do referido preceito legal.\n\n3 - As faltas a que se refere a alínea h) do n.º 1 do presente número são as que constarem do despacho previsto no n.º 2 do artigo 49.º do [Decreto-Lei n.º 100/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1999-138777), de 31 de Março.",
+      "alterador": 1
+    },
+    {
+      "de": 52,
+      "ate": 52,
+      "texto": "4 - São proibidas todas as formas de pagamento adiantado de suplementos.",
+      "alterador": 3
+    },
+    {
+      "de": 53,
+      "ate": 53,
+      "texto": "8.º - 1 - A gestão e movimentação dos montantes transferidos para o FET terão como instrumento o orçamento privativo, de acordo com o disposto na legislação aplicável.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 22,
+      "texto": "5 - O limite máximo do suplemento previsto no n.º 1 é majorado, em relação aos trabalhadores que exercem funções públicas na DGCI e na DGITA e que se encontrem no exercício de cargos dirigentes ou de chefia tributária, ou exclusivamente afectos a funções de concepção, administração, inspecção e justiça tributária ou a funções de concepção, implementação e exploração de sistemas informáticos de apoio à administração tributária, num montante equivalente ao valor, individual e anual, dos encargos correspondentes à contratação de seguro de responsabilidade civil profissional para cobertura do risco inerente ao desempenho das respectivas funções.",
+      "alterador": 3
+    },
+    {
+      "depois_de": 29,
+      "texto": "5 - Em caso de falecimento de funcionários e agentes abrangidos pelo disposto nos números anteriores, os herdeiros legais terão direito ao recebimento do suplemento, nos mesmos termos em que aos funcionários seria devido se se tivessem aposentado.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 51,
+      "texto": "3 - O conselho de administração pode contratar apólices de seguro de responsabilidade civil profissional para cobertura do risco inerente ao desempenho das funções a que se refere o n.º 5 do artigo 2.º, tendo por base listagens elaboradas e periodicamente actualizadas pela DGCI e pela DGITA dos trabalhadores que devam ser objecto do seguro.",
+      "alterador": 3
+    },
+    {
+      "depois_de": 53,
+      "texto": "2 - O complemento do suplemento abonado, nos termos do disposto no n.º 5 do artigo 2.º, é retido no acto do seu processamento, sendo afecto e contabilizado em conta especificamente destinada a fazer face à contratação de seguros de responsabilidade civil profissional.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do 3.º-1 (corpo e alínea a), unidades 23-24), b), c) e n.º 2 '...' mantidos; nova redação do n.º 3 com alíneas a) e b) (unidade 28); nova redação de todo o 4.º (unidades 30-44).",
+    "Alterador 1, n.º 2.º: aditado n.º 5 ao 3.º (inserção após a unidade 29).",
+    "Alterador 1, n.º 3.º: norma de aplicação no tempo, não textual.",
+    "Alterador 2, art. 2.º: nova redação do 1.º-1 (unidade 10) e do 2.º-1 (unidade 16); restantes números/alíneas '...' mantidos; no 3.º, nova alínea b) com subalíneas i) e ii) (unidade 25) e novo n.º 4 (unidade 29); n.º 5 '...' mantém o aditado pelo alterador 1.",
+    "Alterador 2, arts. 3.º e 4.º: majorações e disposição transitória autónomas, não textuais.",
+    "Alterador 3, art. 1.º: 2.º - nova redação do n.º 4 (unidade 22) e aditado n.º 5; 7.º - aditado n.º 3 (após 51) e o anterior n.º 3 passa a n.º 4 (unidade 52); 8.º - o corpo passa a n.º 1 (unidade 53) e aditado n.º 2."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

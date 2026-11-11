@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:284902:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As alterações ao quadro de pessoal do anexo I (Decreto Regulamentar 29/89, art. 1.º, mapas I e II em imagem; Decreto-Lei 434/89, art. 2.º; Portaria 1226/91, mapa I em imagem; Portaria 190/94, n.º 1.º, aplicada duas vezes no pedido) mudam o número de lugares de um anexo que só existe em imagem; não são alterações textuais aplicáveis.",
+  "instrucoes": [
+    "Alterador 1 (DR 29/89), art. 1.º: adita a carreira de operador de microfilmagem ao quadro do anexo I conforme mapas em imagem; não aplicado. Arts. 2.º e 3.º: conteúdo funcional e transição próprios do decreto, não alteram o anexo II do original.",
+    "Alterador 2 (DL 434/89), art. 1.º: altera o DL 242/79, ignorado; art. 2.º: acresce um lugar de director de serviços e extingue um de chefe de secção no anexo I em imagem; não aplicado.",
+    "Alterador 3 (Portaria 1226/91): substitui lugares da carreira técnica superior do anexo I pelo mapa I em imagem; não aplicado.",
+    "Alteradores 4 e 5 (Portaria 190/94, repetida): aumentam o quadro de um lugar de primeiro-oficial; não aplicado (anexo em imagem)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

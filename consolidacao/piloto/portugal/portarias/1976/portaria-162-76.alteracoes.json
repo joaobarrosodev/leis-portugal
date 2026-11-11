@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - A revisão do processo efectuar-se-á sempre a pedido do interessado, mediante requerimento dirigido ao chefe do estado-maior do ramo respectivo, que deverá dar entrada na repartição competente, no prazo de cento e oitenta dias, contados a partir da data da publicação da presente portaria, excepto nos casos previstos nos n.os 18 e 19 deste diploma.",
+    "depois": "3 - A revisão do processo efectuar-se-á sempre a pedido do interessado, mediante requerimento dirigido ao Chefe do Estado-Maior do ramo respectivo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:500908:por",
+    "alterador": "pt:dre:383808:por"
+  }
+]

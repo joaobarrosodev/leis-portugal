@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:460863:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as instruções (Portarias n.os 45/82, 661/83, 413/91, 129/93 e 1172/95) alteram ou substituem o quadro de pessoal anexo do Centro Hospitalar de Vila Nova de Gaia, que só vem em imagem ('ver documento original'), ou criam/extinguem lugares sem alteração textual; nenhuma dá nova redação às unidades do texto.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 45/82): alterações ao quadro só em imagem — não aplicadas.",
+    "Alterador 2 (Portaria n.º 661/83): cria 2 lugares de neurofisiografista e extingue 2 de terapeuta da fala — não textual; não aplicado.",
+    "Alteradores 3 e 4: substituem partes do quadro (imagem) — não aplicadas.",
+    "Alterador 5 (Portaria n.º 1172/95): substitui o quadro anexo (imagem) e aprova anexos I e II próprios — não alteram as unidades do texto; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

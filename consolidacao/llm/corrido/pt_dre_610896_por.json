@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:610896:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As alterações (Decreto-Lei 212/90, Despachos Normativos 159/90 e 88/94, Portarias 553/91, 1040/91 e 100/95) criam, aumentam ou abatem lugares no quadro de pessoal do anexo I, que só existe em imagem, ou substituem o quadro de informática por outro em imagem; nenhuma muda o texto do original.",
+  "instrucoes": [
+    "Alterador 1 (DL 212/90, art. 5.º): altera o quadro de pessoal de acordo com mapa em imagem; não aplicável.",
+    "Alterador 2 (DN 159/90): cria um lugar de assessor principal; alteração do quadro, não textual.",
+    "Alterador 3 (553/91): aumenta um lugar de segundo-oficial; não textual.",
+    "Alterador 4 (1040/91): substitui o quadro de informática (anexo I em imagem) e abate lugares (anexo II em imagem); não aplicável.",
+    "Alterador 5 (DN 88/94): cria um lugar de assessor principal; não textual.",
+    "Alteradores 6-7 (100/95): abatem lugares ao quadro (mapa em imagem); não aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

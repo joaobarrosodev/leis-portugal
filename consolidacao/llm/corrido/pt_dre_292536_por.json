@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:292536:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 16,
+      "texto": "1 - Os trabalhadores estrangeiros que exerçam actividade em Portugal são, para efeitos desta lei, equiparados aos trabalhadores portugueses.\n\n2 - Os familiares dos trabalhadores estrangeiros referidos no número anterior beneficiam igualmente da protecção estabelecida nesta lei relativamente aos familiares do sinistrado.\n\n3 - Os trabalhadores estrangeiros vítimas de acidente em Portugal ao serviço de empresa estrangeira podem ficar excluídos do âmbito desta lei desde que exerçam uma actividade temporária ou intermitente e, por acordo entre Estados, se tenha convencionado a aplicação da legislação relativa à protecção das vítimas de acidente de trabalho em vigor no Estado de origem.",
+      "alterador": 1
+    },
+    {
+      "de": 104,
+      "ate": 111,
+      "texto": "1 - Se do acidente de trabalho ou da doença profissional resultar a morte, os familiares da vítima receberão as seguintes pensões anuais:\n\na) Cônjuge - 30% da remuneração base da vítima até perfazer a idade de reforma por velhice e 40% a partir daquela idade ou no caso de doença física ou mental que afecte sensivelmente a sua capacidade de trabalho;\n\nb) Cônjuge divorciado ou separado judicialmente à data do acidente e com direito a alimentos - o valor da pensão estabelecida na alínea a) até ao limite do quantitativo dos alimentos judicialmente fixado;\n\nc) Filhos, incluindo os nascituros, até perfazerem 18 ou 22 e 25 anos, enquanto frequentarem, respectivamente, o ensino secundário ou curso equiparado ou o ensino superior, e os afectados de doença física ou mental que os incapacite para o trabalho - 20% da retribuição base da vítima se for apenas um, 40% se forem dois, 50% se forem três ou mais, recebendo o dobro destes montantes, até ao limite de 80% da retribuição da vítima, se forem órfãos de pai e de mãe;\n\nd) Ascendentes e quaisquer parentes sucessíveis, estes até aos 18 ou 22 e 25 anos, enquanto frequentarem, respectivamente, o ensino secundário ou curso equiparado ou o ensino superior, ou sem limite de idade quando afectados de doença física ou mental que os incapacite sensivelmente para o trabalho, desde que a vítima contribuísse com regularidade para o seu sustento - a cada, 10% da retribuição base da vítima, não podendo o total das pensões exceder 30% desta.\n\n2 - Se não houver cônjuge ou filhos com direito a pensão, os parentes incluídos na alínea d) do número anterior e nas condições nele referidas receberão, cada um, 15% da retribuição base da vítima, até perfazerem a idade de reforma por velhice, e 20% a partir desta idade ou no caso de doença física ou mental que os incapacite sensivelmente para o trabalho, não podendo o total das pensões exceder 80% da remuneração base da vítima, para o que se procederá a rateio, se necessário.\n\n3 - O cônjuge sobrevivo que contraia casamento tem direito a receber, por uma só vez, o triplo do valor da pensão anual.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (Lei 22/92), art. 1.º: nova redação das bases III (n.os 1-3, unidades 14-16) e XIX (n.os 1-3, unidades 104-111; n.os 4 e 5 com '...' ficam). Epígrafes iguais, mantidas.",
+    "Alt. 1, art. 2.º: produção de efeitos; ignorado.",
+    "Alt. 2 (DL 142/99) e Alt. 4 (DL 382-A/99): criam o FAT e alteram outros diplomas; sem instrução textual dirigida ao original.",
+    "Alt. 3 (DL 248/99), art. 97.º: cessam as responsabilidades do Fundo da base XLV; não é alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

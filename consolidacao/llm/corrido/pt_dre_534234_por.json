@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:534234:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 538/2000, 1.º: a nova redacção dos anexos I e II só vem em imagem (quadros).",
+  "instrucoes": [
+    "Portaria 538/2000, 1.º: substitui os anexos I e II (quadros em imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:469776:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias 131/81, 860/81, 1017/82, 287/84, 606/86, 461/87, 902/91, 708/92) aumentam, alteram, extinguem lugares ou substituem os quadros I a VIII anexos, que só existem em imagem (ver documento original); a Portaria 754/85 refere-se ao quadro da Comissão da Condição Feminina constante da Portaria 54/80 (outro diploma). Nenhuma alteração textual aplicável às unidades do texto.",
+  "instrucoes": [
+    "Alteradores 1, 3, 4, 6, 8, 9: alargam/extinguem lugares no quadro da Secretaria-Geral da PCM (quadro I, imagem) - não aplicado",
+    "Alterador 2 (Portaria 860/81): cria e extingue lugares no quadro VIII (imagem) - não aplicado",
+    "Alterador 5 (Portaria 754/85): aumenta o quadro da Comissão da Condição Feminina constante da Portaria 54/80 - outro diploma/quadro em imagem, não aplicado",
+    "Alterador 7 (Portaria 461/87, 3.º e 8.º): substitui os quadros da SG-PCM e da Comissão da Condição Feminina por anexos em imagem - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

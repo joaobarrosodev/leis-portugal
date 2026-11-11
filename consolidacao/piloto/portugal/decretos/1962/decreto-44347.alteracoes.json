@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "depois da unidade 32",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "§ 1.º Se durante o período da comissão referida no corpo do artigo o oficial for promovido ao posto de capitão, poderá continuar na comissão até o seu termo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:141005:por",
+    "alterador": "pt:dre:553971:por"
+  },
+  {
+    "artigo": "unidades 33-33",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "§ único. Na província da Guiné, um dos adjuntos do comando exercerá periòdicamente as funções de inspecção das secções e postos fiscais, podendo assumir o comando de uma ou mais secções quando se verifiquem as circunstâncias previstas no artigo 3.º e assim lhe seja determinado pelo comando do corpo.",
+    "depois": "§ 2.º Na província da Guiné, um dos adjuntos do comando exercerá periòdicamente as funções de inspecção das secções e postos fiscais, podendo assumir o comando de uma ou mais secções quando se verifiquem as circunstâncias previstas no artigo 3.º e assim lhe seja determinado pelo comando do corpo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:141005:por",
+    "alterador": "pt:dre:553971:por"
+  }
+]

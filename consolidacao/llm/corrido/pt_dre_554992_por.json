@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:554992:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Nenhum alterador dá nova redação ao texto da Portaria n.º 908/90. Alteradores 1 a 6 e 10 alteram planos de estudos (anexo em imagem, unidade 19) e mudam denominações de cursos (Comércio para Gestão Comercial e Contabilidade e depois Gestão e Contabilidade; Marketing para Marketing e Publicidade; Gestão das PMEs para Gestão de Empresas) sem alterar a redação do n.º 2.º do original, pelo que as unidades 8-10 não foram mudadas. Alteradores 7 a 9 determinam a caducidade da autorização de funcionamento de bacharelatos, não uma alteração textual.",
+  "instrucoes": [
+    "Alterador 1: altera plano de estudos (imagem) e denominação do curso superior de Comércio: não textual, não aplicado.",
+    "Alterador 2: altera planos de estudos (imagem) e denominação do curso de Marketing: não textual, não aplicado.",
+    "Alteradores 3 e 4: novos planos de estudos de Relações Públicas e Marketing e Publicidade (imagem): não aplicável.",
+    "Alteradores 5 e 6: mudança de denominação e de plano de estudos (Gestão de Empresas; Gestão e Contabilidade): não textual, não aplicado.",
+    "Alteradores 7-9: caducidade da autorização de funcionamento de bacharelatos: não aplicada ao texto.",
+    "Alterador 10: altera o anexo da Portaria n.º 1110/99, outro diploma: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

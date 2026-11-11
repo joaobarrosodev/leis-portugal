@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:567468:por",
+  "substituicoes": [
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "a) Deontologia Médica ... 1\n\nb) História da Medicina ... 1\n\nc) Outras disciplinas semestrais ... 2\n\nd) Disciplinas anuais ... 3",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os planos de estudos (quadros) dos anexos I a V só existem em imagem: as novas redacções dos quadros dadas pelas Portarias 816/82 (plano do anexo II), 794/83 (quadro IV do anexo II e plano do anexo IV), 700/84, 890/84, 18/86, 169/86 e 697/87 (anexo III), 13/86 e 623/86 (anexo I), 952/87 (quadros I a VI do anexo II) e o aditamento da disciplina de Oftalmologia ao quadro VI (169/86, 4.º) não se podem aplicar ao texto. A Portaria 944/89 (alteradores 12 e 13) dá nova redacção a todo o anexo V, mas o novo anexo só vem em imagem, pelo que as unidades 41-94 não foram substituídas.",
+  "instrucoes": [
+    "Alterador 1 (816/82): nova redacção do anexo II; o plano de estudos vem em imagem (não aplicado); os coeficientes de ponderação são texto: unidade 22 substituída.",
+    "Alterador 2 (794/83), 1.º: quadro IV do anexo II em imagem; não aplicável. 2.º: nova redacção do anexo IV; quadros I a VI em imagem, coeficientes iguais aos actuais; nada a mudar no texto.",
+    "Alteradores 3-8, 10, 11: substituem quadros dos anexos I, II e III por quadros em imagem; não aplicável (890/84 revoga as Portarias 1052/83 e 700/84, outros diplomas).",
+    "Alterador 7 (169/86), 4.º: adita disciplina ao quadro VI do anexo III (imagem); não aplicável.",
+    "Alterador 9 (644/86): plano próprio para alunos da Faculdade de Ciências Médicas, sem instrução textual dirigida ao original; nada a fazer.",
+    "Alteradores 12-13 (944/89): nova redacção do anexo V só em imagem; não aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

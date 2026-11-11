@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:425882:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 34,
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)",
+      "alterador": 19
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "As alterações ao quadro de pessoal do anexo I (criação e abate de lugares pelos alteradores 1 a 13, 16 e 17, rectificação do nível das carreiras de técnico-adjunto pela Portaria 94/94, novo quadro da Portaria 390/98) incidem sobre um quadro que só vem em imagem e não são textuais.",
+  "instrucoes": [
+    "Decreto-Lei 132/2019, art. 50.º, k): revoga os n.os 1 a 4 do anexo II; unidades 14 a 34 substituídas por '(Revogado.)' em cada número.",
+    "Decreto-Lei 324/93, arts. 65.º e 67.º; Despachos Normativos 421/93, 106/94, 190/94, 262/94, 338/94, 388/94, 393/94; Portarias 224/94, 92/96, 892/97: criam/abatem lugares no quadro do anexo I (imagem); não aplicado.",
+    "Portaria 94/94: cria um lugar e rectifica o nível de duas carreiras no quadro do anexo I (imagem); não aplicado.",
+    "Portaria 395/95: altera o anexo III do Decreto-Lei 324/93, outro diploma; ignorado.",
+    "Portaria 390/98: novo quadro de pessoal (imagem) e mantém o anexo II; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

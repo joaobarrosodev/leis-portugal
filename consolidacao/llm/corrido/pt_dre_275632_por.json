@@ -1,0 +1,53 @@
+{
+  "id": "pt:dre:275632:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º São consignadas à Direcção-Geral do Património (DGP), quando por ela arrecadadas, as seguintes receitas:",
+      "alterador": 1
+    },
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "a) As quantias cobradas por serviços prestados, designadamente de avaliação de imóveis, de acordo com tabela praticada pela DGP;",
+      "alterador": 1
+    },
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "c) (Revogada.)",
+      "alterador": 3
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "3.º As receitas enumeradas no número anterior ficam afectas ao pagamento das despesas da DGPE, mediante a inscrição de dotações com compensação em receita.",
+      "alterador": 1
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "4.º A presente portaria produz efeitos a partir de 1 de Janeiro de 1994.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 11,
+      "texto": "2.º Para os efeitos do disposto na alínea a) do n.º 1.º devem as entidades requerentes da avaliação proceder à entrega da quantia de 50000$00 à DGP, a título de antecipação de pagamento, no momento da apresentação do respectivo pedido.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 (598/96) n.º 1.º: nova redação do corpo do 1.º e da alínea a) (b a e ficam); unidades 6 e 7",
+    "Alt.1 n.º 1.º: novo 2.º inserido depois da unidade 11",
+    "Alt.1 n.º 2.º: antigos 2.º e 3.º renumerados 3.º e 4.º (unidades 12 e 13)",
+    "Alt.2 (226/98): nova redação da alínea c) (unidade 9), depois revogada pelo alterador 3",
+    "Alt.3 (Lei 66-B/2012, art. 264.º b)): revoga a alínea c); unidade 9 passa a 'c) (Revogada.)'"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

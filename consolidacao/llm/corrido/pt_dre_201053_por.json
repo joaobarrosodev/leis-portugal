@@ -1,0 +1,53 @@
+{
+  "id": "pt:dre:201053:por",
+  "substituicoes": [
+    {
+      "de": 49,
+      "ate": 54,
+      "texto": "BASE VIII - (Revogada.)",
+      "alterador": 1
+    },
+    {
+      "de": 137,
+      "ate": 149,
+      "texto": "BASE XXII - (Revogada.)\n\nBASE XXIII - (Revogada.)",
+      "alterador": 1
+    },
+    {
+      "de": 151,
+      "ate": 158,
+      "texto": "BASE XXIV - (Revogada.)",
+      "alterador": 1
+    },
+    {
+      "de": 160,
+      "ate": 179,
+      "texto": "BASE XXV - (Revogada.)\n\nBASE XXVI - (Revogada.)\n\nBASE XXVII - (Revogada.)",
+      "alterador": 1
+    },
+    {
+      "de": 181,
+      "ate": 184,
+      "texto": "BASE XXVIII - (Revogada.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Art. 71.º a) do DL 81/85 revoga ainda 'as demais bases daquele diploma que se refiram às funções de previdência e assistência das casas do povo', sem as identificar: alvo ambíguo, não aplicado.",
+  "instrucoes": [
+    "Alt.1 (DL 81/85, art. 71.º a)): revoga as bases VIII e XXII a XXVIII; cada base (título, epígrafe e corpo) passa a 'BASE ... - (Revogada.)', mantendo-se os títulos de secção intermédios",
+    "Alt.1: revogação das demais bases sobre previdência e assistência não identificadas, não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 49-54: parágrafo que não está no alterador nem no original: BASE VIII - (Revogada.)",
+    "substituição 137-149: parágrafo que não está no alterador nem no original: BASE XXII - (Revogada.)",
+    "substituição 137-149: parágrafo que não está no alterador nem no original: BASE XXIII - (Revogada.)",
+    "substituição 151-158: parágrafo que não está no alterador nem no original: BASE XXIV - (Revogada.)",
+    "substituição 160-179: parágrafo que não está no alterador nem no original: BASE XXV - (Revogada.)",
+    "substituição 160-179: parágrafo que não está no alterador nem no original: BASE XXVI - (Revogada.)",
+    "substituição 160-179: parágrafo que não está no alterador nem no original: BASE XXVII - (Revogada.)",
+    "substituição 181-184: parágrafo que não está no alterador nem no original: BASE XXVIII - (Revogada.)"
+  ]
+}

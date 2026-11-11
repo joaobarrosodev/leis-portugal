@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:233755:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Nenhum alterador muda o texto da Portaria n.º 863/91: as Portarias n.os 239/96, 576/2003, 577/2003, 1181/2004, 1146/2005, 778/2006, 849/2007, 270/2008 e 653/2009 actualizam tabelas salariais (incluindo a base aditada pelo n.º 1.º) e alteram as Portarias n.os 276/95, 633/99 e 1098/99, outros diplomas.",
+  "instrucoes": [
+    "Alteradores 1 a 9: actualizações de montantes de tabelas e alterações a outras portarias (276/95, 633/99, 1098/99); não dirigidas ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

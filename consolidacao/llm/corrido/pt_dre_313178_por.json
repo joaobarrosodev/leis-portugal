@@ -1,0 +1,156 @@
+{
+  "id": "pt:dre:313178:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 14,
+      "alterador": 4,
+      "texto": "1 - Podem apresentar-se ao concurso de candidatura os estudantes que, sem prejuízo do que se dispõe no número seguinte, sejam titulares de um curso adequado do 12.º ano de escolaridade a que se refere o [Decreto-Lei n.º 240/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1980-472347), de 19 de Julho, ou de habilitação legalmente equivalente.\n\n2 - Nos casos em que a titularidade do 12.º ano de escolaridade tenha sido obtida, no todo ou em parte, pela frequência, no ano lectivo de 1982-1983, de estabelecimento de ensino oficial ou de ensino particular e cooperativo com paralelismo pedagógico e correspondente aplicação do regime de avaliação contínua previsto no Despacho n.º 23/ME/83 do Ministro da Educação, publicado no Diário da República, 2.ª série, de 10 de Fevereiro de 1983, a apresentação a concurso fica dependente da prestação de provas com âmbito nacional, destinadas a promover a aferição dos critérios de classificação praticados nas diferentes escolas.\n\n3 - Excepcionalmente, para o ano lectivo de 1983-1984, poderão ainda apresentar-se ao concurso de candidatura os estudantes que, não tendo realizado apenas uma prova de aferição, satisfaçam cumulativamente as seguintes condições:\n\na) Façam prova de que estiveram inscritos para a prestação da totalidade das provas de aferição a que estavam obrigados nos termos da presente portaria;\n\nb) Tenham adquirido as classificações aferidas indispensáveis ao cálculo da fórmula de candidatura."
+    },
+    {
+      "de": 43,
+      "ate": 44,
+      "alterador": 3,
+      "texto": "b) Contingente especial para a Região Autónoma da Madeira: 3% do total das vagas;\n\nc) Contingente geral: a diferença entre o total das vagas e as vagas afectas aos contingentes especiais referidos nas alíneas a) e b) e, se aplicável, no n.º 2."
+    },
+    {
+      "de": 83,
+      "ate": 84,
+      "alterador": 3,
+      "texto": "5 - Os estudantes que pretendam candidatar-se a um dos cursos previstos nos n.os 4.º, 5.º ou 6.º deverão entregar documento comprovativo de satisfazerem as condições aí referidas.\n\n6 - Os candidatos residentes no estrangeiro deverão constituir domicílio postal em Portugal e designar procurador bastante.\n\n7 - Da candidatura será passado recibo ao candidato, em duplicado, do boletim de candidatura."
+    },
+    {
+      "de": 117,
+      "ate": 119,
+      "alterador": 3,
+      "texto": "3 - Caso não seja possível determinar o valor C10/11, a nota de candidatura será igual a C 12.\n\n4 - Para os candidatos cuja habilitação de acesso é o ano propedêutico, C 12 é calculado pela aplicação da seguinte fórmula:\n\n(2 C(índice 1) + C(índice 2))/3\n\nem que C(índice 1) e C(índice 2) são as classificações das 2 disciplinas melhor classificadas de entre as nucleares e complementares do elenco (ou elencos) do ano propedêutico em que obteve aprovação e com que se candidata, sendo C(índice 1) >= C(índice 2).\n\n5 - Os estudantes que nunca tenham estado inscritos num curso superior e que, no final de um dos anos lectivos de 1977-1978 a 1981-1982, reunindo as condições de candidatura à matrícula e inscrição num estabelecimento e curso de ensino superior, não tenham sido opositores ou não tenham sido colocados na candidatura à matrícula e inscrição nos anos lectivos de 1978-1979 a 1982-1983, caso reúnam as condições para serem opositores ao concurso de candidatura no ano lectivo de 1983-1984, terão a sua nota de candidatura calculada nos termos do presente número, acrescida de 1 valor.\n\n6 - O direito a esta bonificação não é prejudicado por mudanças de habilitação ou melhorias de nota eventualmente obtidas na habilitação de acesso ou na habilitação precedente desta que tenham ocorrido após ter sido obtida pela primeira vez aprovação numa habilitação de acesso."
+    },
+    {
+      "de": 126,
+      "ate": 126,
+      "alterador": 3,
+      "texto": "(C 12)"
+    },
+    {
+      "de": 131,
+      "ate": 131,
+      "alterador": 3,
+      "texto": "a) Para as disciplinas do 12.º ano obtidas por equivalência de disciplinas do ano propedêutico onde o estudante obteve aprovação nos termos do artigo 22.º da [Portaria n.º 71/79](https://diariodarepublica.pt/dr/detalhe/portaria/71-1979-393216), de 8 de Fevereiro, a classificação das respectivas disciplinas do ano propedêutico é arredondada às unidades, considerando como unidade a fracção não inferior a cinco décimas;"
+    },
+    {
+      "de": 136,
+      "ate": 138,
+      "alterador": 3,
+      "texto": "3 - O cálculo de C 12 será feito até às décimas de valor, sem arredondamento.\n\n4 - O valor de C 12 para os titulares de um curso da via profissionalizante do 12.º ano será a classificação final do mesmo calculada de acordo com as regras em vigor e considerada apenas até às décimas de valor, sem arredondamento.\n\n5 - O valor de C(índice 1) e C(índice 2) dos candidatos cuja habilitação de acesso tenha sido obtida por equivalência será a classificação atribuída pela entidade competente para a concessão daquela."
+    },
+    {
+      "de": 155,
+      "ate": 155,
+      "alterador": 2,
+      "texto": "4 - Para melhoria de classificação será autorizada, na época especial prevista no Despacho n.º 10/ME/83, a repetição de uma, e só uma, das provas de aferição.\n\n5 - Se da repetição resultar melhoria de classificação, esta, no entanto, só produzirá efeitos na fase complementar do concurso.\n\n6 - A inscrição para a repetição de provas na época especial deverá ser feita de 16 a 18 de Agosto, mediante o pagamento da propina de 90$00.\n\n7 - A correcção e a classificação das provas compete ao júri designado para classificar as provas dos exames a que se refere o n.º 13 do Despacho n.º 23/ME/83 e processar-se-á nos mesmos termos."
+    },
+    {
+      "de": 164,
+      "ate": 167,
+      "alterador": 3,
+      "texto": "b) C 12;\n\nc) C 10/11;\n\nd) C(índice 1);\n\ne) C(índice 2).\n\n2 - Caso se verifique a previsão do n.º 3 do n.º 14.º, C 10/11 assumirá, para efeitos de ordenação, o valor de C 12.\n\n3 - Para os alunos titulares de um curso da via profissionalizante C(índice 1) e C(índice 2) assumem, para os efeitos do n.º 1, o valor de C 12 arredondado às unidades, tomando como unidade a fracção não inferior a cinco décimas.\n\n4 - Sempre que 2 ou mais candidatos se encontrem em situação de empate em relação a todas as classificações referidas no n.º 1, cada um será colocado na sua opção de ordem mais baixa em que ainda exista vaga, após a colocação do candidato que lhe é imediatamente anterior, ainda que para tal seja necessário criar vagas adicionais.\n\n5 - Poderão ser estabelecidos por despacho do Ministro da Educação critérios especiais de preferência regional aos candidatos cuja habilitação de acesso seja a via profissionalizante do 12.º ano."
+    },
+    {
+      "de": 172,
+      "ate": 172,
+      "alterador": 3,
+      "texto": "3 - Igual regra se aplica aos conjuntos de cursos cujas vagas num determinado estabelecimento são apresentadas globalmente, excepto nas situações expressamente ressalvadas na regulamentação própria de cada curso."
+    },
+    {
+      "de": 177,
+      "ate": 177,
+      "alterador": 3,
+      "texto": "(Resultados e reclamação)"
+    },
+    {
+      "de": 181,
+      "ate": 181,
+      "alterador": 3,
+      "texto": "b) O número do bilhete de identidade e local de emissão;"
+    },
+    {
+      "de": 183,
+      "ate": 183,
+      "alterador": 3,
+      "texto": "I) Excluído ao abrigo de ... (indicar a disposição legal);"
+    },
+    {
+      "de": 188,
+      "ate": 188,
+      "alterador": 3,
+      "texto": "f) Os valores considerados de C 10/11, C 12, C(índice 1) e C(índice 2);"
+    },
+    {
+      "de": 191,
+      "ate": 191,
+      "alterador": 3,
+      "texto": "i) A eventual aplicação dos critérios de prioridade e preferência referidos nos n.os 4 e 5 do n.º 8.º e no n.º 5 do n.º 20.º"
+    },
+    {
+      "de": 211,
+      "ate": 211,
+      "alterador": 3,
+      "texto": "1 - Quando por erro exclusivamente atribuível a serviços do Ministério da Educação ou de estabelecimentos dele dependentes não tenha havido colocação ou tenha havido erro na colocação de um candidato, este será colocado no curso e estabelecimento em que teria sido colocado na ausência do erro, mesmo que para esse fim seja necessário abrir vaga adicional."
+    },
+    {
+      "de": 223,
+      "ate": 226,
+      "alterador": 3,
+      "texto": "1 - Do processo individual de cada candidato deverão constar obrigatoriamente:\n\na) Documentos referentes às habilitações:\n\nI) Certificado da habilitação precedente de habilitação de acesso (inicial e suplementares, se existirem);\n\nII) Pública-forma ou fotocópia notarial do bilhete de identidade;\n\nIII) Certificado da habilitação de acesso;\n\nb) Documento referente à candidatura:\n\nI) Documento, emitido mecanograficamente e autenticado com o selo branco do GCIES, contendo o historial do processo de candidatura em que obteve a colocação, nomeadamente opções, classificações consideradas e resultados finais.\n\n2 - Os processos referentes aos candidatos colocados antes do envio aos estabelecimentos de ensino superior terão todas as suas folhas numeradas, sendo a última aquela a que se refere o n.º 1, alínea b), subalínea I)."
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 14,
+      "alterador": 3,
+      "texto": "2.º-A\n\n(Estudantes que já tenham estado matriculados em estabelecimentos de ensino superior)\n\n1 - A título excepcional, os estudantes que já tenham estado matriculados em estabelecimento de ensino superior poderão ser oponentes ao concurso de candidatura à matrícula e inscrição para o ano lectivo de 1983-1984, desde que se encontrem numa das seguintes situações:\n\na) Tenham obtido aprovação em quaisquer disciplinas do ensino secundário que lhes permitam candidatar-se a cursos para que não tinham habilitações; ou\n\nb) Tenham realizado exames para melhoria de classificações que lhes permitam melhorar a nota de candidatura.\n\n2 - Os estudantes que beneficiem do disposto no n.º 1 não poderão, no ano lectivo de 1983-1984, utilizar o regime geral de transferência/reingresso/mudança de curso.\n\n2.º-B\n\n(Ano propedêutico)\n\nSão ainda admitidos à candidatura à 1.ª matrícula e inscrição no ano lectivo de 1983-1984 os alunos titulares do ano propedêutico."
+    },
+    {
+      "depois_de": 22,
+      "alterador": 3,
+      "texto": "e) Para os estudantes titulares do ano propedêutico a candidatura a cada curso superior está condicionada ao elenco ou elencos em que obtiveram aprovação naquele e à aprovação num curso complementar do ensino secundário nas disciplinas nucleares adequadas, nos termos das colunas 3 e 6 dos mapas dos anexos II e III."
+    },
+    {
+      "depois_de": 23,
+      "alterador": 3,
+      "texto": "4 - As designações empregues nas cols. 3.as dos mapas dos anexos II e III são as das disciplinas do curso complementar do ensino liceal.\n\n5 - As disciplinas dos cursos complementares do ensino secundário técnico que correspondem, para efeitos de acesso, às disciplinas do curso complementar do ensino liceal são as indicadas no mapa do anexo VII.\n\n6 - No caso previsto na alínea e) do n.º 2, e sem prejuízo da titularidade de um curso complementar, a titularidade das disciplinas referidas nas cols. 3.as dos anexos II e III pode ser substituída pela titularidade de disciplinas correspondentes da via de ensino do 12.º ano, de acordo com a tabela do anexo VIII."
+    },
+    {
+      "depois_de": 33,
+      "alterador": 3,
+      "texto": "4 - Caso à data em que, nos termos da presente portaria, deva realizar a candidatura o estudante não haja ainda concluído o exame médico-fisiológico e as provas de aptidão física por razão imputável ao decurso dos prazos previstos na legislação regulamentadora dos mesmos, poderá proceder àquela até ao fim do prazo referido no n.º 8.º do anexo VI."
+    },
+    {
+      "depois_de": 38,
+      "alterador": 3,
+      "texto": "4 - Caso à data em que, nos termos da presente portaria, deva realizar a candidatura o estudante não haja ainda concluído as provas a que se refere o presente número por razão imputável ao decurso dos prazos previstos na legislação regulamentadora das mesmas, poderá proceder àquela até ao fim do prazo referido no n.º 8.º do anexo VI."
+    },
+    {
+      "depois_de": 98,
+      "alterador": 2,
+      "texto": "d) Os candidatos que tenham concluído a respectiva habilitação na época especial prevista no Despacho n.º 10/ME/83, de 29 de Junho."
+    },
+    {
+      "depois_de": 138,
+      "alterador": 3,
+      "texto": "6 - As disciplinas, em que não haja sido atribuída classificação por haver sido aplicado o disposto no n.º 1 do Despacho n.º 49/EAE/83, de 3 de Junho, publicado no Diário da República, 2.ª série, de 21 de Junho de 1983, do Secretário de Estado da Educação e da Administração Escolar, não são objecto da prova de aferição a que se refere o n.º 17.º\n\n7 - Caso, por força da aplicação do n.º 1 do Despacho n.º 49/EAE/83 ou de disposição similar referente aos anos lectivos de 1980-1981 e 1981-1982, um aluno apenas tenha classificação numa disciplina C(índice 2), para efeitos de candidatura, assumirá o valor de C(índice 1)."
+    }
+  ],
+  "nao_aplicavel": "Alterador 3, n.º 3.º: substituição dos anexos I, II, III e IV, que só vêm em imagem; alterador 3, n.º 4.º: aditamento ao n.º 8 do anexo VI (anexo só em imagem, aditamento com '(...)'); alterador 3, n.º 5.º: aditamento dos anexos VII e VIII, só em imagem; alterador 6 (Portaria 960-A/83), n.os 4.º, 5.º e 15.º: acrescento ao anexo I, nova redacção do anexo III e alterações ao anexo VI, tudo só em imagem.",
+  "instrucoes": [
+    "Alt. 1 (748/83): adita n.os 6 e 7 ao n.º 16.º; depois reescritos pelo alt. 3, por isso a inserção depois de {{138}} leva a redacção do alt. 3.",
+    "Alt. 2 (757/83): adita alínea d) ao n.º 3 do n.º 12.º (inserção depois de {{98}}); n.º 18.º com novos n.os 4 a 6 e o antigo 4 passa a 7 (substituição {{155}}).",
+    "Alt. 3 (836/83): n.º 3.º alínea e) e n.os 4 a 6 (inserções); n.os 5.º e 6.º n.º 4 (inserções); n.º 7.º alíneas b) e c) ({{43}}-{{44}}); n.º 11.º novos 5 a 7 ({{83}}-{{84}}); n.º 14.º n.os 3 a 6 ({{117}}-{{119}}); n.º 16.º epígrafe, alínea a) do n.º 2, n.os 3 a 7; n.º 20.º ({{164}}-{{167}}); n.º 21.º n.º 3; n.º 22.º epígrafe e alíneas b), c) I), f), i); n.º 26.º n.º 1; n.º 28.º ({{223}}-{{226}}); adita n.os 2.º-A e 2.º-B depois de {{14}}; anexos não aplicados (imagem).",
+    "Alt. 4 (862/83): nova redacção do n.º 2.º (substituição {{10}}-{{14}}).",
+    "Alt. 5: repete a Portaria 862/83 (alt. 4); já aplicada, nada mais.",
+    "Alt. 6 (960-A/83): só toca anexos em imagem (I, III, VI); o resto são normas próprias; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

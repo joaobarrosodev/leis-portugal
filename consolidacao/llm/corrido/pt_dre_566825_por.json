@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:566825:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 9 (Portarias n.os 431/2005, 435/2005, 436/2005, 451/2005, 452/2005, 463/2005, 469/2005, 803/2007 e 617/2008) aditam cursos ao elenco de habilitações do anexo II, que no original só existe em imagem (unidade 21) e cujos quadros novos vêm também em imagem; não há alteração ao texto corrido. Alterador 10 (Decreto-Lei n.º 112/2023) altera o Decreto-Lei n.º 79/2014 e só remete para os grupos da Portaria n.º 693/98: não se dirige ao original.",
+  "instrucoes": [
+    "Alteradores 1-7: aditamento de habilitações (Escola Superior de Música de Lisboa, Universidade Católica) ao anexo II, em quadros em imagem: não aplicável ao texto.",
+    "Alteradores 8 e 9: aditamento de cursos ao quadro II anexo, em imagem: não aplicável ao texto.",
+    "Alterador 10: altera outro diploma (Decreto-Lei n.º 79/2014); ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

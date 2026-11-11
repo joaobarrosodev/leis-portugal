@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:462073:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (1117/81, 807-R1/83, DL 351/88, 1180/90, 413/91, 1035/95) alteram ou substituem o quadro de pessoal, que só existe em imagem (unidade 9); não há alteração textual aplicável.",
+  "instrucoes": [
+    "Alt.1 a 7: alterações/substituição do quadro de pessoal (imagem), não aplicadas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

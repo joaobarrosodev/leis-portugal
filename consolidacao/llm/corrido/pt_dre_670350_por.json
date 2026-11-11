@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:670350:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As Portarias n.os 1305/2003, 1309/2003 e 1200/2005 alteram cursos constantes da tabela do anexo (ramos, denominação, revogação parcial condicionada quanto ao bacharelato em Engenharia Informática de Portalegre), que só vem em imagem; não aplicadas.",
+  "instrucoes": [
+    "Alterador 1 (1305/2003): ramos do 2.º ciclo de Animação Sociocultural (tabela em imagem) e plano de estudos próprio; não aplicado.",
+    "Alterador 2 (1309/2003): nova denominação de curso na tabela (imagem); não aplicado.",
+    "Alterador 3 (1200/2005): revogação, findo o período de transição, da parte relativa ao bacharelato em Engenharia Informática (linha da tabela em imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

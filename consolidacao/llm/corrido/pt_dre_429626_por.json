@@ -1,0 +1,68 @@
+{
+  "id": "pt:dre:429626:por",
+  "substituicoes": [
+    {
+      "de": 23,
+      "ate": 23,
+      "alterador": 3,
+      "texto": "a) Carga e Passageiros;"
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "alterador": 3,
+      "texto": "c) Navios-Tanque."
+    },
+    {
+      "de": 37,
+      "ate": 38,
+      "alterador": 3,
+      "texto": "Aos alunos que obtenham aprovação na totalidade das unidades curriculares que integram o plano de estudos de um dos ramos do 2.º ciclo é conferido, conforme o caso, grau de licenciado em:\n\na) Pilotagem, ramo de Carga e Passageiros;"
+    },
+    {
+      "de": 40,
+      "ate": 40,
+      "alterador": 3,
+      "texto": "c) Pilotagem, ramo de Navios-Tanque."
+    },
+    {
+      "de": 45,
+      "ate": 45,
+      "alterador": 3,
+      "texto": "3 - Os coeficientes de ponderação correspondem aos créditos atribuídos a cada unidade curricular."
+    },
+    {
+      "de": 50,
+      "ate": 56,
+      "alterador": 3,
+      "texto": "3 - A conclusão com aproveitamento da totalidade das unidades curriculares que integram o 1.º ciclo do curso possibilita ainda a obtenção dos seguintes certificados de qualificação e provas documentais previstos na Convenção STCW e Emendas, desde que estejam satisfeitos os restantes requisitos exigidos para a sua emissão:\n\na) Operador geral do Sistema Mundial Marítimo de Socorro e Segurança (GMDSS), tabela A-IV/2;\n\nb) Curso de simulador de radar, tabelas A-II/1 e A-II/2;\n\nc) ARPA em simulador (radar and automatic radar plotting aids), tabelas A-II/1 e A-II/2;\n\nd) Segurança básica, tabela A-VI/1;\n\ne) Condução de embarcações salva-vidas e de salvamento, tabela A-VI/2-1;\n\nf) Condução de embarcações de salvamento rápidas, tabela A-VI/2-2;\n\ng) Primeiros socorros, tabela A-VI/4-1;\n\nh) Controlo das operações de combate a incêndio, tabela A-VI/3;\n\ni) Exercício de funções específicas (familiarização) em navios-tanque (petroleiros, químicos e de gás liquefeito), §§ 2.º a 7.º da secção A-V/1;\n\nj) Controlo de multidões em navios de passageiros Ro-Ro, § 1.º da secção A-V/2;\n\nl) Familiarização em navios de passageiros Ro-Ro, § 2.º da secção A-V/2;\n\nm) Segurança na comunicação com os passageiros em navios de passageiros Ro-Ro, § 3.º da secção A-V/2."
+    },
+    {
+      "de": 59,
+      "ate": 59,
+      "alterador": 3,
+      "texto": "1 - O acesso ao 2.º ciclo do curso de Pilotagem está condicionado a um período de experiência profissional a bordo, com a duração de 12 meses, realizado nas condições estabelecidas pela Convenção STCW e Emendas, e será:"
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 56,
+      "alterador": 3,
+      "texto": "4 - A conclusão com aproveitamento da totalidade das unidades curriculares que integram os 1.º e 2.º ciclos do curso possibilita ainda, conforme o ramo, a obtenção dos seguintes certificados de qualificação e provas documentais previstos na convenção STCW e Emendas, desde que estejam satisfeitos os restantes requisitos exigidos para a sua emissão:\n\ni) Ramo de Carga e Passageiros:\n\na) Responsável pelos cuidados de saúde a bordo das embarcações, tabela A-VI/4-2;\n\nb) ARPA em simulador (radar and automatic radar plotting aids), tabelas A-II/1 e A-II/2;\n\nc) Controlo de multidões em navios de passageiros Ro-Ro, § 1.º da secção A-V/2;\n\nd) Familiarização em navios de passageiros Ro-Ro, § 2.º da secção A-V/2;\n\ne) Segurança na comunicação com os passageiros em navios de passageiros Ro-Ro, § 3.º da secção A-V/2;\n\nf) Segurança dos passageiros, da carga e integridade do casco nos navios de passageiros Ro-Ro, § 4.º da secção A-V/2;\n\ng) Gestão de crises e comportamento humanos, § 5.º da secção A-V/2;\n\nh) 'Bridge resource management', secções A-II/2 e B-VIII/2, parte 3.1-5;\n\nii) Ramo de Pescas:\n\na) Responsável pelos cuidados de saúde a bordo das embarcações, tabela A-VI/4-2;\n\nb) ARPA em simulador (radar and automatic radar plotting aids), tabelas A-II/1 e A-II/2;\n\nc) 'Bridge resource managent', secções A-II/2 e B-VIII/2, parte 3.1-5;\n\niii) Ramo de Navios-Tanque:\n\na) Responsável pelos cuidados de saúde a bordo das embarcações, tabela A-VI/4-2;\n\nb) ARPA em simulador (radar and automatic radar plotting aids), tabelas A-II/1 e A-II/2;\n\nc) Exercício de funções de responsabilidade nos navios-tanque petroleiros, químicos e de gás liquefeito, §§ 9.º a 34.º da secção A-V/1;\n\nd) 'Brige resource management', secções A-II/2 e B-VIII/2, parte 3.1-5;\n\n5 - A conclusão com aproveitamento da totalidade das unidades curriculares que integram os 1.º e 2.º ciclos do curso confere a formação em 'Oficial de protecção de navios e companhia', exigida no âmbito do Código ISPS e Emendas 2002 à SOLAS, capítulo XI-2, e satisfaz as condições para a emissão da respectiva prova documental.\n\n6 - Os alunos inscritos no 4.º ano poderão frequentar, extracurricularmente e apenas para efeitos de certificação, unidades curriculares de outros ramos.\n\n7 - A certificação referida no número anterior depende do aproveitamento nas respectivas unidades curriculares e da satisfação dos requisitos exigidos pela legislação em vigor."
+    },
+    {
+      "depois_de": 64,
+      "alterador": 3,
+      "texto": "3 - Para o ramo de Pescas, a experiência profissional referida no n.º 1 pode ser realizada em embarcações de pesca de comprimento entre perpendiculares igual ou superior a 33 m."
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 (Portaria 503/99): quadros n.os 2, 5 e 6 do anexo só em imagem. Alterador 2 (Portaria 1153/2002): novo anexo (quadros 1 a 12) só em imagem. Alterador 3 (Portaria 263/2004), n.º 1.º, n.º 2: novo anexo só em imagem.",
+  "instrucoes": [
+    "Alt. 1 (503/99): quadros do anexo em imagem; não aplicado.",
+    "Alt. 2 (1153/2002): anexo em imagem; não aplicado.",
+    "Alt. 3 (263/2004): nova redacção dos n.os 3.º ({{23}}, {{25}}), 7.º ({{37}}-{{38}}, {{40}}), 8.º n.º 3 ({{45}}), 9.º n.º 3 e alíneas ({{50}}-{{56}}) com novos n.os 4 a 7 inseridos depois de {{56}}, 10.º n.º 1 ({{59}}) e novo n.º 3 depois de {{64}}; os '...' mantêm o texto; anexo em imagem não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:631981:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 18,
+      "texto": "6.º - (Revogado.)\n\n7.º - (Revogado.)\n\n8.º - (Revogado.)\n\n9.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 (DL 376/97, art. 8.º c)): revoga os n.os 6.º a 9.º; unidades 15 a 18 passam a revogadas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
