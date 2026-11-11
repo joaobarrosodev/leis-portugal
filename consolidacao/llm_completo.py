@@ -583,6 +583,13 @@ def passagem(ids: list[str], pasta: Path, max_chars: int) -> None:
                 texto, _ = _texto_alterador(a["path"], registo["title"])
                 restantes.append((n, a, len(texto) + len(a.get("title") or "") + 20))
         if not restantes:
+            # um problema só conta se o artigo em causa ficou com o texto dessa passagem: uma
+            # passagem posterior pode tê-lo reescrito (ou revogado) com texto verificado
+            ultima = {a["chave"]: k for k, r in enumerate(respostas, 1) for a in r.get("artigos") or []}
+            def vale(prob: str) -> bool:
+                m = re.match(r"passagem (\d+): (.+?): parágrafo", prob)
+                return not m or ultima.get(m.group(2)) == int(m.group(1))
+            problemas = [x for x in problemas if vale(x)]
             final = _fundir(respostas) | {"id": i, "modelo": "claude-fable-5-1", "pedido": "completo", "passagens": estado["passagens"], "problemas": problemas}
             COMPLETO.mkdir(parents=True, exist_ok=True)
             (COMPLETO / (i.replace(":", "_") + ".json")).write_text(json.dumps(final, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
