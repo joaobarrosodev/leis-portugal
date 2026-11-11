@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:667716:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º São anexados à zona de caça municipal criada pela [Portaria n.º 801/2003](https://diariodarepublica.pt/dr/detalhe/portaria/801-2003-660093), de 13 de Agosto, vários prédios rústicos sitos na freguesia de Estói, município de Faro, com a área de 368 ha, ficando a mesma com a área total de 1562 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação no n.º 1.º, 'sitos na freguesia de Pechão,' passa a 'sitos na freguesia de Estói,'; substituída a unidade 8",
+    "Alterador 2: exclusão de terrenos da zona de caça (Portaria n.º 801/2003), não altera o texto do original; ignorada",
+    "Alterador 3: anexação de prédios à zona de caça, não altera o texto do original; ignorada",
+    "Alterador 4: renovação da zona de caça, não altera o texto do original; ignorada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

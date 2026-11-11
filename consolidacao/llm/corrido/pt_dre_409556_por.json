@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:409556:por",
+  "substituicoes": [
+    {
+      "de": 34,
+      "ate": 38,
+      "texto": "21. Ao pessoal contratado ao abrigo da presente portaria são atribuídas as remunerações correspondentes ao vencimento base dos funcionários do quadro que exerçam funções idênticas, conforme o quadro anexo, que faz parte integrante da presente portaria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: o quadro anexo a que o novo n.º 21 se refere só vem em imagem (ver documento original), não foi acrescentado. Alterador 2 (Portaria n.º 108/81), 2.º: altera os vencimentos de acordo com o mapa II anexo, sem indicar o texto do original a substituir; não é uma alteração textual segura.",
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 21; substituídas as unidades 34 a 38 (corpo e alíneas a) a d) da antiga tabela de remunerações) pelo novo corpo.",
+    "Alterador 2, 2.º: vencimentos alterados pelo mapa II; não aplicado ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

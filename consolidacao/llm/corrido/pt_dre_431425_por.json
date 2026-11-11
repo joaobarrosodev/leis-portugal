@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:431425:por",
+  "substituicoes": [
+    {
+      "de": 40,
+      "ate": 42,
+      "texto": "2.º - 1 - Os exemplares do projecto serão entregues, em triplicado ou em duplicado, conforme as instalações sejam sujeitas a licenciamento, na Direcção de Serviços de Energia Eléctrica ou nas direcções de serviços regionais da DGE.\n\n2 - Se no projecto figurarem os documentos especificados nos n.os 1) a 5) da alínea n) do n.º 1 do artigo anterior, será entregue mais um exemplar de cada um desses documentos e da planta geral referida na alínea b) do mesmo número e artigo, assim como do respectivo parágrafo especial da memória descritiva e justificativa, devendo, no caso do n.º 6) da alínea n) atrás referida, ser entregues mais três exemplares.\n\n3 - Se a instalação a estabelecer compreender linhas de alta tensão, além dos exemplares do projecto referidos no n.º 1, deverá ainda ser entregue o número de exemplares da planta parcelar e perfil longitudinal a que se referem as alíneas c) e d) do n.º 1 do artigo anterior, totais ou parciais, que vierem a ser necessários para a consulta às entidades previstas no artigo 18.º do Regulamento de Licenças para Instalações Eléctricas, com a redacção dada pelo [Decreto-Lei n.º 446/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), de 5 de Junho, e remessa às câmaras municipais interessadas.\n\n4 - Se se tratar de linhas subterrâneas de alta ou baixa tensão ou de linhas aéreas de baixa tensão que ocupem a zona de estradas nacionais ou de outras sujeitas à jurisdição da Junta Autónoma de Estradas, deverá ser apresentado mais um exemplar das plantas parcelares indicadas nas alíneas e) e f) do n.º 1 do artigo anterior.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 344/89), 3.º: nova redação do n.º 2.º da Portaria 401/76: unidades 40-42 substituídas pelos novos n.os 1 a 4.",
+    "Alterador 1, 1.º e 2.º alteram o DL 26852 e o DL 446/76; 5.º revoga a Portaria 24/80: não são do original, ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

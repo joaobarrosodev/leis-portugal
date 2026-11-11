@@ -1,0 +1,36 @@
+{
+  "id": "pt:dre:630671:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "Art. 4.º - 1 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 20,
+      "ate": 23,
+      "texto": "Art. 7.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 26,
+      "texto": "2 - (Revogado.)\n\n3 - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, art. 15.º: revogado o n.º 1 do art. 4.º — unidade 12",
+    "Alt. 1, art. 15.º: revogado o art. 7.º — unidades 20 a 23",
+    "Alt. 1, art. 15.º: revogados os n.os 2 e 3 do art. 8.º — unidades 25 e 26"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 12-12: parágrafo que não está no alterador nem no original: Art. 4.º - 1 - (Revogado.)",
+    "substituição 20-23: parágrafo que não está no alterador nem no original: Art. 7.º - (Revogado.)"
+  ]
+}

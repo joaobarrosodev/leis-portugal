@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:658470:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 4 alteram ou aditam entradas nos anexos I.1, I.3 e I.6 (vagas e códigos), mas o anexo I do original só existe em imagem; não há texto onde aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1: alteração ao anexo I.3 e aditamento do anexo I.6; anexo só em imagem, não aplicado",
+    "Alterador 2: alteração ao anexo I.3; anexo só em imagem, não aplicado",
+    "Alterador 3: aditamentos aos anexos I.1 e I.3; anexo só em imagem, não aplicado",
+    "Alterador 4: alteração ao anexo I.3; anexo só em imagem, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

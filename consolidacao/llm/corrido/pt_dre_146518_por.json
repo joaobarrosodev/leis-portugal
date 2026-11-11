@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:146518:por",
+  "substituicoes": [
+    {
+      "de": 84,
+      "ate": 85,
+      "texto": "2.ª A tenente graduado, os alferes graduados que completem um ano de permanência no posto;\n\n3.ª A capitão graduado, os tenentes graduados que completem três anos de permanência no posto.",
+      "alterador": 1
+    },
+    {
+      "de": 100,
+      "ate": 102,
+      "texto": "17.º A graduação dos militares do SPM nos postos imediatos só pode efectivar-se quando ocorram vagas nos quadros orgânicos do serviço em relação aos seguintes postos:\n\na) Oficiais - a partir de major, inclusive;\n\nb) Sargentos - para sargento-ajudante.",
+      "alterador": 1
+    },
+    {
+      "de": 124,
+      "ate": 124,
+      "texto": "29.º A correspondência oficial das forças armadas, classificada com o grau de confidencial, ou superior, na sua aceitação e trânsito pelos canais do SPM, deverá ser tratada como o SEGMIL 1 determina para as matérias classificadas de secreto.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação das condições 2.ª e 3.ª da alínea b) do n.º 1 do 13.º (o resto com '...' mantém-se); substituídas as unidades 84-85.",
+    "Alterador 1, n.º 1: nova redação do 17.º (corpo e alíneas a) e b)); substituídas as unidades 100-102.",
+    "Alterador 1, n.º 2: produção de efeitos; nada a aplicar.",
+    "Alterador 2: nova redação do 29.º; substituída a unidade 124, mantendo o número '29.º' do texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

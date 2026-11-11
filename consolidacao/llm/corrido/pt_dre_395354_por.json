@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:395354:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 4 (Portarias 665/84, 905/85, 162/88 e 729/88) só alteram o quadro de pessoal anexo por quadros que vêm em imagem; o n.º 2.º e o anexo II da 162/88 (conteúdo funcional de monitor) são normas próprias, sem alteração textual do original.",
+  "instrucoes": [
+    "Alt. 1 (665/84): altera o quadro (pessoal operário e auxiliar) por quadro em imagem - não aplicado.",
+    "Alt. 2 (905/85): altera o quadro (pessoal médico) por quadro em imagem - não aplicado.",
+    "Alt. 3 (162/88): altera de novo os quadros (imagem) e define o conteúdo funcional de monitor oficinal em anexo próprio - não aplicado.",
+    "Alt. 4 (729/88): altera o quadro (pessoal de enfermagem) por quadro em imagem - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

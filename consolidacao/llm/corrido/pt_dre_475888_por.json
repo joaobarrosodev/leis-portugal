@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:475888:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: o mapa IV (pessoal civil contratado) passa a ser o mapa anexo à Portaria n.º 693/73, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1: substituição do mapa IV anexo — quadro só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:411654:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (RCM n.º 67/2008) e alterador 2 (Aviso n.º 19761/2020) alteram a delimitação da REN de Gouveia através de plantas/cartas em imagem; não há alteração textual ao texto da resolução.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: altera a delimitação constante da planta anexa; não textual, não aplicado.",
+    "Alterador 2, n.os 1 e 2: segunda alteração da delimitação e republicação da Carta da REN em imagem; não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

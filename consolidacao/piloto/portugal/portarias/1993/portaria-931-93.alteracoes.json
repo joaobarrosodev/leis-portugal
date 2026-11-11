@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 27-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "As vagas para o curso de Supervisão Pedagógica e Gestão da Formação, fixadas nos termos do n.º 3.º, serão distribuídas pelos contingentes e afectadas a cada um deles de acordo com as seguintes percentagens:",
+    "depois": "As vagas para o curso de estudos superiores especializados em Línguas Estrangeiras, fixadas nos termos do n.º 3.º, serão distribuídas pelos contingentes e afectadas a cada um deles de acordo com as seguintes percentagens:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:655886:por",
+    "alterador": "pt:dre:177783:por"
+  }
+]

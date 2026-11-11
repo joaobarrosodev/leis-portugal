@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:667958:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 393/81) altera o quadro (mapa anexo) pelo anexo II, que só vem em imagem; alterador 2 (Portaria n.º 805/85) altera o quadro de acordo com um mapa que só vem em imagem. Nenhuma alteração textual aplicável.",
+  "instrucoes": [
+    "Alterador 1, único: altera o quadro do pessoal da Junta Autónoma do Porto de Aveiro conforme o anexo II (imagem) — não aplicado.",
+    "Alterador 2, 1.º: altera o quadro conforme mapa (imagem) — não aplicado; 2.º é a entrada em vigor do próprio alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

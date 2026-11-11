@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:644491:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "«Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Perais, município de Vila Velha de Ródão, com a área de 1810,4650 ha.»",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º substitui a planta anexa (só em imagem); alterador 2 (Portaria n.º 628/2002) suspende o exercício da caça e alterador 3 (Portaria n.º 1549/2008) renova a concessão com 2793 ha; não são alterações textuais.",
+  "instrucoes": [
+    "Alt. 1, 1.º: no n.º 1.º, 'com a área de 1716,4650 ha' passa a 'com a área de 1810,4650 ha' — trocado na unidade 9",
+    "Alt. 1, 2.º: substituição da planta — em imagem, não aplicada",
+    "Alt. 2: suspensão do exercício da caça — não textual, não aplicada",
+    "Alt. 3: renovação por seis anos com 2793 ha — não textual, não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:618554:por",
+  "substituicoes": [
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "b) Plano curricular, com explicitação das áreas científicas das unidades curriculares obrigatórias e facultativas que o integram, bem como o número de unidades de crédito de cada unidade curricular, quando aplicável;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 6.º; o corpo é igual ao atual e as alíneas a) e c) são '...'; só muda a alínea b) — substituída a unidade 22"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

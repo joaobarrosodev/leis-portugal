@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 56-59",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) 2025 - € 8 840 000;\n\nb) 2026 - € 61 190 000;\n\nc) 2027 - € 218 760 000;\n\nd) 2028 - € 157 920 000.",
+    "depois": "a) 2025 - 222 248,88 €;\n\nb) 2026 - 20 674 637,96 €;\n\nc) 2027 - 161 428 291,38 €;\n\nd) 2028 - 210 821 049,85 €;\n\ne) 2029 - 51 513 771,93 €;\n\nf) 2030 - 2 050 000,00 €.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:911693279:por",
+    "alterador": "pt:dre:1152409211:por"
+  }
+]

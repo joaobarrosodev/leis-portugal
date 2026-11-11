@@ -1,0 +1,60 @@
+{
+  "id": "pt:dre:419212:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 12,
+      "texto": "a) Regiões militares e Governo Militar dos Açores - gratificação de 2000$00:\n\nRegião Militar de Lisboa;\n\nRegião Militar do Norte;\n\nRegião Militar do Centro;\n\nRegião Militar do Sul;\n\nGoverno Militar dos Açores.",
+      "alterador": 4
+    },
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 99,
+      "ate": 99,
+      "texto": "",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 52,
+      "texto": "Depósito Geral de Adidos;",
+      "alterador": 1
+    },
+    {
+      "depois_de": 52,
+      "texto": "Regimento de Infantaria Operacional de Queluz;",
+      "alterador": 2
+    },
+    {
+      "depois_de": 103,
+      "texto": "Casas de reclusão das regiões militares;",
+      "alterador": 1
+    },
+    {
+      "depois_de": 115,
+      "texto": "o) Depósito Geral de Material de Guerra - 1200$00.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: Comando Territorial Independente dos Açores passa para a alínea a): retirado da alínea b) (unidade 14); a sua entrada na alínea a) fica absorvida pela nova redacção da alínea a) do alterador 4.",
+    "Alterador 1: casas de reclusão das regiões militares incluídas na alínea j): inserida entrada depois da unidade 103.",
+    "Alterador 1: Depósito Geral de Adidos passa para a alínea d): retirado da alínea j) (unidade 99) e inserido depois da unidade 52.",
+    "Alterador 2: aditado à alínea d) o Regimento de Infantaria Operacional de Queluz; inserido depois da unidade 52.",
+    "Alterador 3: aditada a alínea o) Depósito Geral de Material de Guerra - 1200$00; inserida depois da unidade 115.",
+    "Alterador 4, 1: nova redacção da alínea a); substituídas as unidades 7 a 12 (mantida a letra a) do texto atual)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "inserção depois de 52: parágrafo que não está no alterador nem no original: Regimento de Infantaria Operacional de Queluz;",
+    "inserção depois de 103: parágrafo que não está no alterador nem no original: Casas de reclusão das regiões militares;"
+  ]
+}

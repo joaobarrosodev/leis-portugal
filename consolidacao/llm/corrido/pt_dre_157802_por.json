@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:157802:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia do Couço, município de Coruche, com a área de 691 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 exclui prédios (área passa a 626 ha) sem dar nova redação ao original. Alterador 2, 2.º substitui a planta anexa, que só vem em imagem. Alterador 3 extingue a zona de caça municipal, sem revogar nem alterar o texto da portaria.",
+  "instrucoes": [
+    "Alterador 1: exclusão de prédios, área de 626 ha — sem instrução textual, nada feito",
+    "Alterador 2, 1.º: nova redação do n.º 2.º (freguesia do Couço, 691 ha) — unidade 7 substituída, mantido o número 2.º",
+    "Alterador 2, 2.º: substituição da planta anexa — só em imagem, não aplicado",
+    "Alterador 3, 1.º: extinção da zona de caça — não textual, nada feito"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

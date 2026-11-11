@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:617497:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Mata de Lobos, município de Figueira de Castelo Rodrigo, com a área de 2749,5014 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 3 (suspensão da atividade cinegética), 4 (renovação por seis anos), 5 (anexação de prédios), 6 (renovação por 12 anos) e 7 (anexação de prédios) não alteram o texto do original.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º (2754,10 ha) - unidade 6, depois substituída de novo pelo alt. 2.",
+    "Alt. 1, 1.º: aditado n.º 1.º-A - inserido depois da unidade 6.",
+    "Alt. 2, 1.º: nova redação do n.º 1.º (2749,5014 ha) - substituída a unidade 6 com o texto final.",
+    "Alt. 3 a 7: suspensão, renovações e anexações, não textuais - não aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

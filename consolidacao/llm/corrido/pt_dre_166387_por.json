@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:166387:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 (Portaria n.º 944/98), 2 (Portaria n.º 285/2002) e 3 (Portaria n.º 261/2006): os novos planos de estudos (anexo) só vêm em imagem; as mudanças de denominação do curso (Gestão de Sistemas e Tecnologias de Informação; Gestão de Sistemas e Computação) não são alterações textuais do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova denominação do curso; não textual, não aplicado.",
+    "Alterador 1, 2.º: nova redacção do anexo; só em imagem, não aplicado.",
+    "Alterador 2, 1.º: novo plano de estudos; só em imagem, não aplicado.",
+    "Alterador 3, 1.º: nova denominação do curso; não textual, não aplicado.",
+    "Alterador 3, 2.º: novo plano de estudos; só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

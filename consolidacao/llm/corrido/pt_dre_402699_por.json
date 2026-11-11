@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:402699:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "7.º A competência para a prática de actos de gestão decorrentes de requisição cabe a uma comissão directiva nomeada por despacho conjunto dos Ministros do Trabalho e dos Transportes e Comunicações.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 98-A/79): dá por finda a requisição civil e dissolve a comissão directiva; não é uma alteração textual nem revogação expressa do texto da portaria.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 7.º; substituída a unidade 17.",
+    "Alterador 2, 1.º e 2.º: fim da requisição e dissolução da comissão directiva; sem alteração textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

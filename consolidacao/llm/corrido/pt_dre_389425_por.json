@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:389425:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 1 (Portaria 1019/82): altera o mapa anexo de acordo com um mapa que vem só em imagem; não aplicado.",
+  "instrucoes": [
+    "Alt. 1 (1019/82): alteração do mapa (quadro de subinspectores) por mapa em imagem - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

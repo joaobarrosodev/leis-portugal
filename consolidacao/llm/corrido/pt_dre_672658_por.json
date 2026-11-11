@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:672658:por",
+  "substituicoes": [
+    {
+      "de": 59,
+      "ate": 72,
+      "texto": "g) (Revogada.)\n\nh) (Revogada.)\n\n3 - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 220/2008, art. 36.º, alínea n)): revoga as alíneas g) e h) do n.º 2 e o n.º 3 do 3.º — unidades 59-60 passam a revogadas e o n.º 3 (unidades 61-72) passa a '3 - (Revogado.)'. As restantes alíneas do art. 36.º dirigem-se a outros diplomas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

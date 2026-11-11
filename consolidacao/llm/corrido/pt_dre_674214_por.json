@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:674214:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 247/91) republica o mapa anexo, que só vem em imagem; alterador 2 (Portaria n.º 63/98) substitui o plano de estudos pelo anexo, também só em imagem; alterador 3 (Portaria n.º 138/2004) aprova plano de outro curso e determina a caducidade da autorização, sem alteração textual ao original.",
+  "instrucoes": [
+    "Alterador 1: rectificação do mapa anexo (imagem) — não aplicada.",
+    "Alterador 2, 1.º: novo plano de estudos do bacharelato (anexo em imagem) — não aplicado.",
+    "Alterador 3, 3.º a): caducidade da autorização do bacharelato findo o período de transição — não é alteração textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:599697:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: desdobramento do 2.º ciclo em ramos, sem instrução de alteração textual do original. Alterador 2: novo plano de estudos (quadros 1 a 6) só em imagem. Alterador 3: nova redação do anexo (quadros 1 a 6) só em imagem. Nada aplicado ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º n.º 1: o 2.º ciclo do curso de Animador Sócio-Cultural desdobra-se em três ramos; não há redação nova para o original, não aplicado. Os n.os 2 a 9 dizem respeito a outros cursos.",
+    "Alterador 2, 1.º: plano de estudos passa a ser o do anexo; quadros só em imagem, não aplicado.",
+    "Alterador 3, 1.º: anexo passa a ter a redação do anexo da portaria; quadros só em imagem, não aplicado. 2.º a 4.º são normas próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

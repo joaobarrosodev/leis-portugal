@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:163798:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 dá nova redação à observação a) do quadro de pessoal, mas o quadro (com as suas observações) só vem em imagem (unidade 5); a observação a) não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: nova redação da observação a) do quadro — texto não existe no original (quadro em imagem), não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

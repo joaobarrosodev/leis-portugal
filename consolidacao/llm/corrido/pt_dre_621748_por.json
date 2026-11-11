@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:621748:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1, 2 e 3 alteram quadros dos anexos I e II (planos de estudos), que só existem em imagem; alterador 4 substitui os planos de estudos (anexos em imagem) e altera as designações dos cursos sem dar nova redação a nenhum número do texto; a revogação 'no respeitante ao curso de Tecnologia das Indústrias Agro-Alimentares' é parcial e não corresponde a texto deste diploma.",
+  "instrucoes": [
+    "Alt. 1: quadro I do anexo II com nova redação — anexo em imagem, não aplicada",
+    "Alt. 2: anexos I e II com nova redação — anexos em imagem, não aplicada",
+    "Alt. 3: quadros n.os 1 e 2 do anexo I e n.º 2 do anexo II — anexos em imagem, não aplicada",
+    "Alt. 4: novos planos de estudos e novas designações dos cursos — não textual, não aplicada; revogação no respeitante ao curso de TIAA — não aplicável ao texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

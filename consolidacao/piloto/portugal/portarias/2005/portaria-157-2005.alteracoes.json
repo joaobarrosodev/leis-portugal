@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 22-22",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Plano curricular com explicitação das áreas científicas das unidades curriculares obrigatórias e facultativas que o integram, bem como o número de unidades de crédito de cada unidade curricular;",
+    "depois": "b) Plano curricular, com explicitação das áreas científicas das unidades curriculares obrigatórias e facultativas que o integram, bem como o número de unidades de crédito de cada unidade curricular, quando aplicável;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:618554:por",
+    "alterador": "pt:dre:595311:por"
+  }
+]

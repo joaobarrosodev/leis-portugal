@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) 1292$10 por tonelada, à Quimigal - Química de Portugal, E. P., até ao limite de 44950 t;\n\nb) 866$20 por tonelada, à PGP - Petroquímica e Gás de Portugal, E. P., até ao limite de 120068,2 t.",
+    "depois": "a) 1292$10 por tonelada, à QUIMIGAL - Química de Portugal, E. P., até ao limite de 44950 t;\n\nb) 1123$60 por tonelada, à PGP - Petroquímica e Gás de Portugal, E. P., até ao limite de 120068,2 t.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400799:por",
+    "alterador": "pt:dre:179872:por"
+  }
+]

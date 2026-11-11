@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:521625:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Espírito Santo, município de Nisa, com a área de 1480,66 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 8,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 a 6 (anexações, desanexação, renovação da concessão, guardas, áreas totais) e a nova planta do alterador 1 não trazem instrução de alteração textual do original (a planta só vem em imagem); não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º; substituída a unidade 8.",
+    "Alterador 1, 1.º: aditado o n.º 1.º-A; inserido a seguir à unidade 8.",
+    "Alterador 2: anexação de prédios (área total 2944,61 ha) e dois guardas florestais auxiliares; sem alteração textual do original; nada feito.",
+    "Alterador 3: anexação de prédios (área total 3211,4775 ha); sem alteração textual; nada feito.",
+    "Alterador 4: renovação da concessão por 12 anos; sem alteração textual; nada feito.",
+    "Alterador 5: desanexação de dois prédios; sem alteração textual; nada feito.",
+    "Alterador 6: anexação de prédios; sem alteração textual; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:402301:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia do Turcifal, município de Torres Vedras, com a área de 1690,3125 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 e 3: desanexação de prédios e renovação da concessão (plantas só em imagem), sem alteração do texto; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º (1690,3125 ha); substituída a unidade 6, mantendo o número 1.º.",
+    "Alterador 1, 1.º: aditado o n.º 1.º-A, inserido a seguir à unidade 6.",
+    "Alterador 2: desanexação de dois prédios (1610,6565 ha); não textual.",
+    "Alterador 3: renovação por 12 anos (1611 ha); não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

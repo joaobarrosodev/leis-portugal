@@ -1,0 +1,59 @@
+{
+  "id": "pt:dre:553074:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "a) Literaturas Clássicas;",
+      "alterador": 1
+    },
+    {
+      "de": 56,
+      "ate": 56,
+      "texto": "## ANEXO I — Literaturas Clássicas",
+      "alterador": 1
+    },
+    {
+      "de": 58,
+      "ate": 64,
+      "texto": "Literaturas Clássicas (Latina, Grega e Portuguesa).\n\n2 - Áreas e unidades de crédito necessárias à obtenção do grau:\n\na) Obrigatórias:\n\nI) Literatura Novilatina em Portugal ... 3\n\nII) Literatura Grega ... 3\n\nIII) Literatura Latina ... 1,5\n\nIV) Literatura Portuguesa Clássica ... 1,5\n\nV) Literatura Latina Medieval ... 1,5\n\nb) Opcionais:\n\nI) Literatura Novilatina em Portugual ... 6\n\nII) Literatura Grega ... 6\n\nTotal ... 16,5\n\n3 - Licenciaturas a que se refere o n.º 1 do n.º 6.º:",
+      "alterador": 1
+    },
+    {
+      "de": 68,
+      "ate": 68,
+      "texto": "a) Literatura Latina;\n\nb) Literatura Grega.",
+      "alterador": 1
+    },
+    {
+      "de": 103,
+      "ate": 106,
+      "texto": "a) Obrigatórias:\n\nI) Geografia Humana ... 3\n\nII) Geo-Economia do Espaço Rural ... 3\n\nIII) Geografia Regional ... 8\n\nb) Estágio ... 4",
+      "alterador": 1
+    },
+    {
+      "de": 108,
+      "ate": 108,
+      "texto": "3 - Licenciaturas a que se refere o n.º 1 do n.º 6.º:",
+      "alterador": 1
+    },
+    {
+      "de": 111,
+      "ate": 112,
+      "texto": "4 - Especialidade a que se refere o n.º 11.º:\n\na) Geografia Humana.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2, 12.º, n.º 1: derroga a Portaria n.º 7/82 'na parte referente ao mestrado em Geografia Humana', sem indicar as disposições; derrogação parcial por matéria, não aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º; só muda a alínea a) (unidade 9).",
+    "Alterador 1, 2.º: nova redação do anexo I; substituídas a epígrafe (56), as unidades 58-64 e a 68; unidades 57 e 65-67 iguais.",
+    "Alterador 1, 2.º: nova redação do anexo IV; substituídas as unidades 103-106, 108 e 111-112; restantes iguais.",
+    "Alterador 1, 3.º: norma transitória própria; nada feito.",
+    "Alterador 2: cria o mestrado em Geografia com regime próprio; a derrogação parcial do 12.º não foi aplicada (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

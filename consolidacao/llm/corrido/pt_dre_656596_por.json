@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:656596:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1, 2 e 3 substituem o plano de estudos do anexo, que só vem em imagem/quadros no documento original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1: novo plano de estudos do anexo só em imagem; não aplicado",
+    "Alterador 2: novo plano de estudos em quadros-imagem; restantes números são normas próprias; não aplicado",
+    "Alterador 3: novo anexo em quadros-imagem; não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

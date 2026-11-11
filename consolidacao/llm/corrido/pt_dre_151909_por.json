@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:151909:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o pessoal dos mapas I e II passa a ser o dos mapas anexos à Portaria n.º 425/87, mas esses mapas só vêm em imagem (ver documento original); não se substituem os mapas. O n.º 2.º (aplicação do Decreto-Lei n.º 178/85) não é alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui os mapas I e II anexos — mapas só em imagem, não aplicado",
+    "Alterador 1, 2.º: manda aplicar o Decreto-Lei n.º 178/85 ao pessoal — não textual, nada feito"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

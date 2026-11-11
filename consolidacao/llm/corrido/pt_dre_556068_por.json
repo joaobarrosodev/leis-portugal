@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:556068:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 9,
+      "texto": "2.º - 1 - A administração da zona de caça social do Baceiro, criada por tempo indeterminado pela [Portaria n.º 967/90](https://diariodarepublica.pt/dr/detalhe/portaria/967-1990-556068), de 10 de Outubro, é atribuída à Direcção Regional de Agricultura de Trás-os-Montes, sendo a sua gestão assegurada por uma comissão, designada por comissão de gestão da zona de caça social do Baceiro, criada por protocolo celebrado em 15 de Junho de 1998 e homologado por despacho do Secretário de Estado da Agricultura e do Desenvolvimento Rural em 31 de Julho de 1998.\n\n2 - A comissão de gestão referida no número anterior integra um representante da Direcção Regional de Agricultura de Trás-os-Montes, que preside, um representante do Parque Natural de Montesinho, um representante das juntas de freguesia que abrangem os terrenos integrados na zona de caça, um representante das comissões de compartes, um representante da Associação de Caça e Pesca da Gamoeda e ainda um representante dos gestores dos terrenos abrangidos pela zona de caça social do Baceiro.\n\n3.º A comissão de gestão fica obrigada a cumprir e fazer cumprir o plano de ordenamento e exploração cinegético e as disposições legais e regulamentares do exercício da caça, sem prejuízo da responsabilidade pessoal dos infractores.\n\n4.º O acesso dos caçadores a esta zona de caça, bem como as demais regras de funcionamento da mesma, obedecem ao disposto na [Portaria n.º 893/98](https://diariodarepublica.pt/dr/detalhe/portaria/893-1998-235558), de 10 de Outubro.",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "6.º Os prédios que integram esta zona de caça consideram-se submetidos ao regime florestal, para efeitos de policiamento e fiscalização, obrigando-se a comissão de gestão referida no n.º 2.º, através da Associação de Caça e Pesca da Gamoeda, a requerer a nomeação de guardas florestais auxiliares se necessário para complemento da fiscalização efectuada por elementos do Corpo Nacional da Guarda Florestal.",
+      "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "7.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 revoga a concessão da zona de caça social do Baceiro, mas não revoga nem altera o texto da portaria; não aplicado ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação dos n.os 2.º, 3.º e 4.º (unidades 7-9) e 6.º (unidade 11); 5.º mantém-se.",
+    "Alterador 1, 2.º: revogado o n.º 7.º (unidade 12).",
+    "Alterador 2: revogação da concessão, sem alteração textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

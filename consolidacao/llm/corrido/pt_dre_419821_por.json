@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:419821:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 1032/2004, 1.º) e alterador 2 (Portaria 365/2005, 1.º) substituem o anexo (plano de estudos), cujos quadros só vêm em imagem ('ver quadro no documento original'): não aplicado.",
+  "instrucoes": [
+    "Alterador 1: nova redação do anexo (plano de estudos) com quadros só em imagem: não aplicado.",
+    "Alterador 2: novo plano de estudos em anexo com quadros só em imagem: não aplicado.",
+    "Restantes números dos alteradores (duração do semestre, monografia, transição, efeitos) são normas próprias, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

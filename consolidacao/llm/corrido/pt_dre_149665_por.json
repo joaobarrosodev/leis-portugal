@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:149665:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Sobrado, município de Valongo, com a área de 1904 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: substitui a planta anexa (unidade 18), que só vem em imagem; não aplicado. Alteradores 2 (Portaria n.º 121/2008) e 3 (Portaria n.º 564/2010): anexam e excluem terrenos com novas plantas só em imagem, sem alteração textual ao original; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2.º (área 1904 ha); substituída a unidade 7, mantendo o número '2.º' do texto atual.",
+    "Alterador 1, 2.º: nova planta só em imagem; não aplicada (nao_aplicavel).",
+    "Alterador 2: anexação de terrenos (área total 4133 ha) e planta em imagem; sem instrução textual sobre o original; não aplicado.",
+    "Alterador 3: exclusão de terrenos (área total 4055 ha) e planta em imagem; sem instrução textual sobre o original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

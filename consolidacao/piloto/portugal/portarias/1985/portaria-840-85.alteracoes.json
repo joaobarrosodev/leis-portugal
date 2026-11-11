@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 7-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º - 1 - O concelho de Guimarães é dividido em 3 repartições de finanças.\n\n2 - Cada repartição abrange a área das seguintes freguesias:",
+    "depois": "1.º - 1 - O concelho de Guimarães é dividido em duas repartições de finanças.\n\n2 - Cada repartição de finanças abrange a área das seguintes freguesias:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:171528:por",
+    "alterador": "pt:dre:223035:por"
+  },
+  {
+    "artigo": "unidades 10-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.ª Repartição: Abação, Aldão, Atães, Candoso (São Martinho), Candoso (Santiago), Costa, Infantas, Mascotelo, Mesão Frio, Nespereira, Pinheiro, Polvoreira, Rendufe, São Paio, São Sebastião, Selho (São Cristóvão), Serzedelo, Serzedo, Tabuadelo e Urgezes;\n\n3.ª Repartição: Caldas (São João), Caldas (São Miguel), Calvos, Conde, Gandarela, Gémeos, Guardizela, Infias, Lordelo, Moreira de Cónegos, Tagilde, Vizela (São Faustino) e Vizela (São Paulo).",
+    "depois": "2.ª Repartição: Abação (São Tomé), Aldão, Atães, Calvos, Candoso (São Martinho), Candoso (Santiago), Conde, Costa, Gandarela, Gémeos, Guardizela, Infantas, Lordelo, Mascotelos, Mesão Frio, Moreira de Cónegos, Nespereira, Pinheiro, Polvoreira, Rendufe, Guimarães (São Paio), Guimarães (São Sebastião), Selho (São Cristóvão), Serzedelo, Serzedo, Tabuadelo, Urgezes e Vizela (São Faustino).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:171528:por",
+    "alterador": "pt:dre:223035:por"
+  },
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "remover",
+    "regra": "llm",
+    "antes": "2.º As sedes da 1.ª Repartição e da 2.ª Repartição são na cidade de Guimarães e a sede da 3.ª Repartição situa-se na vila de Vizela.",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:171528:por",
+    "alterador": "pt:dre:223035:por"
+  }
+]

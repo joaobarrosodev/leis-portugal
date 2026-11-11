@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:1435179:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 5,
+      "texto": "1 - Nos termos e para os efeitos do disposto no n.º 3 do artigo 72.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, torna-se público que, em 1998, na 22.ª Sessão do Comité do Património Mundial (22COM/1998) que teve lugar em Quioto, no Japão, em dezembro, foram inscritos na lista do Património Mundial da UNESCO os sítios arqueológicos do Vale do Côa, englobando os concelhos de Vila Nova de Foz Côa, Figueira de Castelo Rodrigo, Meda e Pinhel, no distrito da Guarda.\n\n2 - Publicam-se no anexo i a planta de implantação, incluindo a zona tampão que, para todos os efeitos, nos termos do n.º 2 do artigo 72.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, corresponde a uma zona especial de proteção, e no anexo ii a planta de localização, que podem ser consultadas nos locais e páginas eletrónicas das seguintes entidades: Direção-Geral do Património Cultural; Comissão Nacional da UNESCO; Câmara Municipal de Foz Côa; Câmara Municipal de Figueira de Castelo Rodrigo; Câmara Municipal de Meda; Câmara Municipal de Pinhel; Direção Regional de Cultura do Norte; e Centro do Património Mundial da UNESCO.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Aviso n.º 1924/2021), art. 2.º, n.º 2: substitui os anexos I e II (unidades 7 e 8), que só vêm em imagem (ver documento original); não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Decreto n.º 6/2013): altera a classificação feita pelo Decreto n.º 32/97 e só mantém a ZEP do aviso (art. 4.º); não altera o texto do original.",
+    "Alterador 2, art. 2.º, n.º 1: nova redação dos n.os 1 e 2; substituídas as unidades 4 e 5.",
+    "Alterador 2, art. 2.º, n.º 2: novos anexos I e II só em imagem; não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

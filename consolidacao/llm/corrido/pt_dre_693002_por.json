@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:693002:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "e) À Direcção-Geral de Pessoal, excepto, relativamente à Direcção de Serviços de Finanças, quanto às competências mencionadas nas alíneas a), b) e parte final da alínea d) do artigo 12.º, e, no que se refere ao pessoal dos Serviços Centrais do Ministério da Educação e Ciência, na alínea b) do artigo 14.º, todas do [Decreto-Lei n.º 552/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482), de 31 de Dezembro.",
+      "alterador": 2
+    },
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "4 - Os Secretários de Estado ficam autorizados a delegar nos directores-gerais e equiparados, ou nos seus substitutos legais, e a autorizar estes, por sua vez, a subdelegarem nos reitores, subdirectores-gerais ou equiparados, inspectores superiores, directores de serviços, chefes de divisão, chefes de repartição e outros funcionários de categoria igual ou superior à letra H a competência que lhes é atribuída pelo presente despacho.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 4 — unidade 23 substituída.",
+    "Alterador 2: nova redacção da alínea e) do n.º 2 — unidade 12 substituída; o resto do n.º 2 ('...') mantém-se."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

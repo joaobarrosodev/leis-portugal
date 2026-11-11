@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:173882:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 (Portaria n.º 952/2006) e 2 (Portaria n.º 439/2009): desanexação e anexação de prédios com nova área e nova planta (só em imagem), sem alteração textual do original. Alterador 3 (Portaria n.º 1059/2009): dá nova redacção a um n.º 1.º sobre o Conselho Cinegético Municipal de Carrazeda de Ansiães de uma portaria n.º 1146/2002 da 2.ª série (29 de Julho de 2002), que não é este diploma; o n.º 1.º do original trata da concessão da zona de caça do Poçanco, pelo que não se aplica.",
+  "instrucoes": [
+    "Alterador 1: desanexação de 42 ha (área total 1228 ha); não textual, não aplicado.",
+    "Alterador 2: anexação de 149 ha (área total 1377 ha); não textual, não aplicado.",
+    "Alterador 3: nova redacção do n.º 1.º dirigida a outra portaria homónima (2.ª série); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:441275:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "4.º O disposto na nota 3, relativa ao mapa III da [Portaria n.º 22/83](https://diariodarepublica.pt/dr/detalhe/portaria/22-1983-540812), de 7 de Janeiro, tornada extensiva aos magistrados judiciais aposentados do antigo ultramar pela [Portaria n.º 430/83](https://diariodarepublica.pt/dr/detalhe/portaria/430-1983-312865), de 14 de Abril, abrange, igualmente, os presidentes dos tribunais administrativos de Angola e Moçambique, pelo que, naqueles, a pensão de aposentação dos referidos presidentes é calculada de harmonia com o vencimento de juiz conselheiro.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 145/86, 3.º) e alterador 2 (Portaria 198/88, 2.º) eliminam categorias do mapa IV anexo, que só vem em imagem: não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 3.º: elimina do mapa IV a categoria de assistente adjunto (CITA); mapa só em imagem: não aplicado. Os restantes números aprovam mapas próprios.",
+    "Alterador 2, 2.º: elimina do mapa IV a categoria de director-delegado (Gabinete do Plano do Cunene); mapa só em imagem: não aplicado.",
+    "Alterador 3: nova redação do n.º 4.º: unidade 11 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

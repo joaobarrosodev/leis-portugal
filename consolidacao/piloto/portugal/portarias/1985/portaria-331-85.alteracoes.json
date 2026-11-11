@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 24-24",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "15.º Estes subsídios serão atribuídos até uma despesa máxima, para o período considerado, de 80000 contos, dos quais 25000 contos para o subsídio à farinação, sendo processados e pagos pelo Serviço de Lotas e Vendagem, que para o efeito será dotado das verbas necessárias pela Comissão Reguladora do Comércio de Bacalhau, devendo esta ser compensada posteriormente através das receitas resultantes da aplicação do artigo 6.º do [Decreto-Lei n.º 115-G/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-g-1985-477173), de 18 de Abril.",
+    "depois": "15.º Estes subsídios serão atribuídos para o período considerado, sendo processados pelo Serviço de Lotas e Vendagem, que para o efeito será dotado das verbas necessárias pelo Fundo de Abastecimento, o qual será compensado através das receitas resultantes da aplicação do artigo 6.º do [Decreto-Lei n.º 115-G/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-g-1985-477173), de 18 de Abril.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:151901:por",
+    "alterador": "pt:dre:193589:por;pt:dre:171892:por"
+  },
+  {
+    "artigo": "unidades 29-29",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Este subsídio será processado pelo Serviço de Lotas e Vendagem, que para o efeito será dotado das verbas necessárias pela Comissão Reguladora do Comércio de Bacalhau, devendo esta ser compensada posteriormente através das verbas resultantes da aplicação do artigo 6.º do [Decreto-Lei n.º 115-G/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-g-1985-477173), de 18 de Abril;",
+    "depois": "b) Este subsídio será processado pelo Serviço de Lotas e Vendagem, que para o efeito será dotado das verbas necessárias pelo Fundo de Abastecimento, o qual será compensado através das verbas resultantes da aplicação do artigo 6.º do [Decreto-Lei n.º 115-G/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-g-1985-477173), de 18 de Abril;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:151901:por",
+    "alterador": "pt:dre:193589:por;pt:dre:171892:por"
+  },
+  {
+    "artigo": "unidades 30-30",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Será atribuído até ao máximo de 45000 contos para todo o período, e só para a sardinha descarregada pelos barcos abrangidos pelo contrato, até um limite de 400 t por barco.",
+    "depois": "c) Será atribuído para todo o período, e só para a sardinha descarregada pelos barcos abrangidos pelo contrato.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:151901:por",
+    "alterador": "pt:dre:193589:por;pt:dre:171892:por"
+  }
+]

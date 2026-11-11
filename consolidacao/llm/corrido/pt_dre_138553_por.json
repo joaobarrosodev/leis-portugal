@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:138553:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 692/96, n.º 1.º): dá nova redação ao anexo (plano de estudos), que só vem em imagem; não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui o anexo; plano de estudos só em imagem - nao_aplicavel. N.º 2.º (aplicação) é norma própria."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

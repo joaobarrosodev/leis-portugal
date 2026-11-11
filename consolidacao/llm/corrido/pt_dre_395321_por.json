@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:395321:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "4 - São ainda admitidas ao esquema, até 1990, as variedades incluídas na lista nacional de variedades (LNV), desde que:",
+      "alterador": 1
+    },
+    {
+      "de": 40,
+      "ate": 40,
+      "texto": "13 - A produção de semente da categoria certificada de uma variedade, inscrita no CNV, quando não efectuada pelo seu obtentor ou proprietário actual, só é permitida pela Direcção dos Serviços de Controle de Qualidade de Sementes se a entidade interessada fizer prova documental de que está autorizada pelo detentor dos direitos de propriedade dessa variedade a proceder à sua multiplicação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (19/84): nova redação do n.º 4 do capítulo II do anexo 1 - corpo (unidade 16) substituído, alíneas a) e b) com ... mantidas; nova redação do n.º 13 do capítulo VI do anexo 1 - unidade 40 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

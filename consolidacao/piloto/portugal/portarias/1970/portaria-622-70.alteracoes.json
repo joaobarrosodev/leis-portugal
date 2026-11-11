@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 84-85",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.ª A tenente graduado, os alferes graduados com o mínimo de dois anos de permanência no posto;\n\n3.ª A capitão graduado, os tenentes graduados com três anos de permanência no posto que, como subalternos, tenham desempenhado as funções de chefia técnico-postal durante pelo menos seis meses e obtido aproveitamento nas provas de aptidão técnica;",
+    "depois": "2.ª A tenente graduado, os alferes graduados que completem um ano de permanência no posto;\n\n3.ª A capitão graduado, os tenentes graduados que completem três anos de permanência no posto.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:146518:por",
+    "alterador": "pt:dre:309524:por;pt:dre:407710:por"
+  },
+  {
+    "artigo": "unidades 100-102",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "17.º A graduação dos militares do S. P. M. nos postos imediatos só pode efectivar-se quando ocorram vagas nos quadros orgânicos do Serviço em relação aos seguintes postos:\n\na) Oficiais - a partir de capitão, inclusive;\n\nb) Sargentos - a partir de primeiro-sargento, inclusive.",
+    "depois": "17.º A graduação dos militares do SPM nos postos imediatos só pode efectivar-se quando ocorram vagas nos quadros orgânicos do serviço em relação aos seguintes postos:\n\na) Oficiais - a partir de major, inclusive;\n\nb) Sargentos - para sargento-ajudante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:146518:por",
+    "alterador": "pt:dre:309524:por;pt:dre:407710:por"
+  },
+  {
+    "artigo": "unidades 124-124",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "29.º A correspondência oficial das forças armadas, no seu trânsito pelo S. P. M., deverá ser tratada como o S. E. G. M. I. L. 1 determina para as matérias classificadas de secreto.",
+    "depois": "29.º A correspondência oficial das forças armadas, classificada com o grau de confidencial, ou superior, na sua aceitação e trânsito pelos canais do SPM, deverá ser tratada como o SEGMIL 1 determina para as matérias classificadas de secreto.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:146518:por",
+    "alterador": "pt:dre:309524:por;pt:dre:407710:por"
+  }
+]

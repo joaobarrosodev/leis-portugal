@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:383603:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 8,
+      "texto": "1.º - 1 - O disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 376/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1977-286493), de 5 de Setembro, é tornado extensivo aos seguintes concelhos:\n\na) No distrito de Aveiro:\n\nOvar, Murtosa, Estarreja, Aveiro, Ílhavo, Vagos, Anadia e Mealhada.\n\nb) No distrito de Coimbra:\n\nMira, Cantanhede, Figueira da Foz, Coimbra e Condeixa-a-Nova.\n\nc) No distrito de Leiria:\n\nPombal, Leiria, Marinha Grande, Alcobaça, Caldas da Rainha, Peniche e Nazaré.\n\nd) No distrito de Santarém:\n\nTomar, Entroncamento, Torres Novas, Alcanena, Vila Nova da Barquinha, Golegã, Chamusca, Rio Maior, Santarém, Alpiarça, Almeirim, Salvaterra de Magos, Coruche e Benavente.\n\ne) No distrito de Portalegre:\n\nPonte de Sor.\n\nf) No distrito de Setúbal:\n\nGrândola e Alcácer do Sal.\n\ng) No distrito de Évora:\n\nMontemor-o-Novo, Vendas Novas, Mora, Viana do Alentejo e Portel.\n\nh) No distrito de Beja:\n\nFerreira do Alentejo, Alvito, Vidigueira, Cuba, Beja, Serpa e Moura.\n\ni) No distrito de Faro:\n\nVila do Bispo, Lagos, Portimão, Silves, Lagoa, Albufeira, Loulé,\n\nS. Brás de Alportel, Faro, Olhão, Tavira, Castro Marim e Vila Real de Santo António.\n\n2 - Exceptua-se a faixa de 6 km nos concelhos de Benavente e Salvaterra de Magos, do distrito de Santarém, prevista no artigo 1.º do [Decreto-Lei n.º 43371](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43371-1960-512868), de 3 de Dezembro de 1960.\n\n2.º As disposições contidas no n.º 2 do artigo 1.º do mesmo diploma são tornadas extensivas aos seguintes concelhos:\n\na) No distrito de Aveiro:\n\nEspinho, Feira, Albergaria-a-Velha, Águeda e Oliveira do Bairro.\n\nb) No distrito de Coimbra:\n\nMiranda do Corvo.\n\nc) No distrito de Lisboa:\n\nCadaval, Mafra, Sobral de Monte Agraço, Arruda dos Vinhos, Lourinhã e Torres Vedras.\n\nd) No distrito de Santarém:\n\nFerreira do Zêzere e Vila Nova de Ourém.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 2 (Decreto-Lei 46/94, art. 91.º, n.º 1, alínea z)): norma derrogatória (a portaria não se aplica na matéria do decreto-lei), não é revogação expressa nem alteração textual; não aplicada.",
+  "instrucoes": [
+    "Alt. 1 (323/79): nova redação dos n.os 1.º e 2.º - unidades 7-8 substituídas.",
+    "Alt. 2 (DL 46/94, art. 91.º): declara que a portaria não se aplica na matéria do diploma - derrogação, sem mudança no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

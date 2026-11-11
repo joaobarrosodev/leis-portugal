@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "e) À Direcção-Geral de Pessoal, excepto quanto à Direcção de Serviços de Finanças e quanto à alínea b) do artigo 14.º do [Decreto-Lei n.º 552/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482), de 31 de Dezembro, no que se refere ao pessoal dos serviços centrais do Ministério da Educação e Ciência;",
+    "depois": "e) À Direcção-Geral de Pessoal, excepto, relativamente à Direcção de Serviços de Finanças, quanto às competências mencionadas nas alíneas a), b) e parte final da alínea d) do artigo 12.º, e, no que se refere ao pessoal dos Serviços Centrais do Ministério da Educação e Ciência, na alínea b) do artigo 14.º, todas do [Decreto-Lei n.º 552/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482), de 31 de Dezembro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:693002:por",
+    "alterador": "pt:dre:681428:por;pt:dre:678982:por"
+  },
+  {
+    "artigo": "unidades 23-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - Os Secretários de Estado ficam autorizados a delegar nos directores-gerais e equiparados, ou nos seus substitutos legais, e a autorizar estes, por sua vez, a subdelegarem nos reitores, subdirectores-gerais ou equiparados, inspectores superiores e directores de serviços a competência que lhes é atribuída pelo presente despacho.",
+    "depois": "4 - Os Secretários de Estado ficam autorizados a delegar nos directores-gerais e equiparados, ou nos seus substitutos legais, e a autorizar estes, por sua vez, a subdelegarem nos reitores, subdirectores-gerais ou equiparados, inspectores superiores, directores de serviços, chefes de divisão, chefes de repartição e outros funcionários de categoria igual ou superior à letra H a competência que lhes é atribuída pelo presente despacho.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:693002:por",
+    "alterador": "pt:dre:681428:por;pt:dre:678982:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 67-67",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2. Ressalvam-se, no entanto, as excepções previstas no n.º 1 da norma II e na norma XI.",
+    "depois": "2. Ressalva-se, no entanto, o disposto na alínea a) da norma VII e nas normas VIII, XI e XII.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:141806:por",
+    "alterador": "pt:dre:139901:por"
+  }
+]

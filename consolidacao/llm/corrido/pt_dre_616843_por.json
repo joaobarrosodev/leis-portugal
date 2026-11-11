@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:616843:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 8,
+      "texto": "c) A parte dos Municípios de Vila Viçosa, Borba, Estremoz, Arraiolos e Montemor-o-Novo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 7.º: acrescentada alínea c) ao n.º 1.º - inserida depois da unidade 8.",
+    "Alt. 1, 1.º a 6.º: aprovam cartas próprias da Portaria n.º 843/91, não se dirigem ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

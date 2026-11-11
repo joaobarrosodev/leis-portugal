@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:686855:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 191/2002) fixa o plano de estudos por anexo só em imagem e regras próprias (alunos, ramos, transição) que não alteram o texto do original; alterador 2 (Portaria n.º 268/2006) muda a denominação do curso para «Gestão», a duração e o plano de estudos (anexo em imagem), sem instrução de alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos (anexo em imagem) — não aplicado; 2.º a 7.º são normas próprias do alterador.",
+    "Alterador 2, 1.º: nova denominação, fim dos ramos e novo anexo (imagem) — não é alteração textual dirigida ao texto do original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

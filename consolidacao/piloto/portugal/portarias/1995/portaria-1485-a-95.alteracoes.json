@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º A taxa referida no n.º 1.º será abatida de 56,25 pontos base.",
+    "depois": "3.º A taxa referida no n.º 1.º será abatida de 6%.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:399202:por",
+    "alterador": "pt:dre:628025:por"
+  }
+]

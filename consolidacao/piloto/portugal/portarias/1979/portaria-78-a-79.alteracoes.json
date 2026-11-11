@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º A competência para a prática de actos de gestão decorrentes da requisição cabe aos órgãos de gestão da empresa Telefones de Lisboa e Porto, E. P., os quais ficam directamente responsáveis perante o Ministro dos Transportes e Comunicações pelos actos de que forem incumbidos.",
+    "depois": "7.º A competência para a prática de actos de gestão decorrentes de requisição cabe a uma comissão directiva nomeada por despacho conjunto dos Ministros do Trabalho e dos Transportes e Comunicações.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:402699:por",
+    "alterador": "pt:dre:165031:por"
+  }
+]

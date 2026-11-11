@@ -1,0 +1,95 @@
+{
+  "id": "pt:dre:374420:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º A Comissão de Alvarás de Empresas de Obras Públicas e Particulares (CAEOPP), para além das individualidades referidas na alínea a) do n.º 1 do artigo 7.º e do n.º 3 do artigo 8.º, é composta pelas seguintes entidades:",
+      "alterador": 4
+    },
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "c) Direcção-Geral das Instalações e Equipamentos de Saúde;",
+      "alterador": 4
+    },
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "d) Departamento de Gestão de Recursos Educativos;",
+      "alterador": 5
+    },
+    {
+      "de": 11,
+      "ate": 13,
+      "texto": "e) Direcção-Geral de Portos;\n\nf) Associação Nacional de Municípios Portugueses;\n\ng) Associação de Industriais da Construção Civil e Obras Públicas do Norte;",
+      "alterador": 4
+    },
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "h) AECOPS - Associação de Empresas de Construção e Obras Públicas.",
+      "alterador": 5
+    },
+    {
+      "de": 15,
+      "ate": 23,
+      "texto": "i) Associação da Indústria, Associação da Construção - Região Autónoma da Madeira;\n\nj) Associação Nacional dos Empreiteiros de Obras Públicas;\n\nl) Associação dos Industriais da Construção de Edifícios;\n\nm) Ordem dos Engenheiros;\n\nn) Associação dos Arquitectos Portugueses;\n\no) Associação Portuguesa de Engenheiros Técnicos;\n\np) Associação dos Agentes Técnicos de Arquitectura e Engenharia.\n\n2.º - a) Da 1.ª Secção da CAEOPP fazem parte as entidades referidas nas alíneas a) a j) e m) a p) do número anterior.\n\nb) Da 2.ª Secção da CAEOPP fazem parte as entidades referidas nas alíneas f) a i) e l) a p).",
+      "alterador": 4
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "a) Instituto Nacional de Estatística (INE);",
+      "alterador": 1
+    },
+    {
+      "de": 26,
+      "ate": 30,
+      "texto": "c) Gabinete de Estudos e Planeamento do Ministério das Obras Públicas, Transportes e Comunicações (GEP/MOPTC);\n\nd) Direcção-Geral dos Edifícios e Monumentos Nacionais (DGEMN);\n\ne) Junta Autónoma de Estradas (JAE);\n\nf) Laboratório Nacional de Engenharia Civil (LNEC);\n\ng) Associação dos Industriais da Construção Civil e Obras Públicas do Norte (AICCOPN);",
+      "alterador": 1
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "h) AECOPS - Associação de Empresas de Construção e Obras Públicas (AECOPS);",
+      "alterador": 5
+    },
+    {
+      "de": 32,
+      "ate": 32,
+      "texto": "i) Associação Nacional dos Empreiteiros de Obras Públicas (ANEOP).",
+      "alterador": 1
+    },
+    {
+      "de": 40,
+      "ate": 40,
+      "texto": "g) AECOPS - Associação de Empresas de Construção e Obras Públicas (AECOPS);",
+      "alterador": 5
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 8,
+      "texto": "b) Direcção-Geral dos Edifícios e Monumentos Nacionais;",
+      "alterador": 4
+    },
+    {
+      "depois_de": 25,
+      "texto": "b) Departamento de Estatística do Ministério do Emprego e da Segurança Social (DE/MESS);",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (415/91): nova redação do n.º 3.º (CIFE, alíneas a) a i)); corpo igual, alíneas substituídas (25, 26-30, 32) e alínea b) inserida depois da 25.",
+    "Alt. 2 (407/92): nova redação da alínea o) do n.º 1.º; absorvida pela redação integral do n.º 1.º dada pelo alt. 4 (unidade 21 passa a p) com o mesmo conteúdo). O n.º 2.º (Portaria 327/88) não é do original - ignorado.",
+    "Alt. 3 (721/92): nova redação da alínea n) do n.º 1.º; absorvida pela redação do alt. 4 (alínea o) Associação Portuguesa de Engenheiros Técnicos). O 2.º (Portaria 327/88) ignorado.",
+    "Alt. 4 (757/92): nova redação dos n.os 1.º e 2.º; corpo do 1.º substituído, alínea a) igual, b) DGEMN inserida, restantes alíneas renumeradas e substituídas até p), e n.º 2.º substituído. O 3.º (Portaria 327/88) ignorado.",
+    "Alt. 5 (307/94): 1.º alíneas d) e h) do n.º 1.º (na redação da 757/92) substituídas; 2.º (alínea a) do 3.º da 757/92, que é da Portaria 327/88) ignorado; 3.º alínea h) do n.º 3.º (redação da 415/91) e alínea g) do n.º 4.º: a expressão Associação de Empresas de Construção e Obras Públicas do Sul trocada por AECOPS - Associação de Empresas de Construção e Obras Públicas; alínea c) da 327/88 ignorada.",
+    "Alt. 6: repetição da Portaria 307/94 - nada a acrescentar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

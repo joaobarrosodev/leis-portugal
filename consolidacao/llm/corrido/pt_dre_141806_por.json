@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:141806:por",
+  "substituicoes": [
+    {
+      "de": 67,
+      "ate": 67,
+      "texto": "2. Ressalva-se, no entanto, o disposto na alínea a) da norma VII e nas normas VIII, XI e XII.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Decreto Regulamentar n.º 24/78), art. 14.º, n.º 1: substitui a tabela inserta no n.º 1 da norma XIV (unidade 73), mas a nova tabela só vem em imagem (ver documento original); não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 2 da norma X (n.º 1 com '...' mantém-se); substituída a unidade 67.",
+    "Alterador 1, n.os 2 e 3: normas autónomas sobre pensões de sobrevivência, não alteram o texto do original; nada a aplicar.",
+    "Alterador 2, art. 14.º, n.º 1: substitui a tabela da norma XIV, que só vem em imagem; não aplicada (nao_aplicavel).",
+    "Alterador 2, restantes artigos: regime próprio ou alterações a outros diplomas (Decreto n.º 45266, Portaria n.º 144/75); ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

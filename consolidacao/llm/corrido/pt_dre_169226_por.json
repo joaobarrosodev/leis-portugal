@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:169226:por",
+  "substituicoes": [
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "7 - O chefe do projecto é equiparado, para efeitos remuneratórios, incluindo a percepção de despesas de representação, a director de serviços.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (RCM n.º 10/2001): prorroga por um ano o mandato da equipa sem alterar o texto do n.º 2. Alterador 3 (RCM n.º 35/2002): mantém a equipa com novo regime próprio (duração, competências, composição), sem alterar textualmente o original.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: prorrogação do mandato por um ano; não textual, não aplicado.",
+    "Alterador 2: nova redacção do n.º 7; substituída a unidade 27.",
+    "Alterador 3: novo regime autónomo da equipa de missão; não altera textualmente o original, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

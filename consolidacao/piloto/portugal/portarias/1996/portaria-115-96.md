@@ -1,0 +1,278 @@
+---
+id: pt:dre:566244:por
+title: Portaria n.º 115/96
+original: data/portugal/portarias/1996/portaria-115-96.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:581237:por
+    title: Portaria n.º 684/2000
+    publication_date: '2000-08-30'
+  - id: pt:dre:241242:por
+    title: Portaria n.º 773/98
+    publication_date: '1998-09-15'
+  - id: pt:dre:161885:por
+    title: Portaria n.º 426/97
+    publication_date: '1997-06-30'
+  - id: pt:dre:566222:por
+    title: Portaria n.º 116-C/2000
+    publication_date: '2000-03-01'
+---
+
+# Portaria n.º 115/96
+
+de 12 de Abril
+
+Pelos Regulamentos (CEE) n.os [3950/92](http://data.europa.eu/eli/reg/1992/3950/oj?locale=pt) e [1560/93](http://data.europa.eu/eli/reg/1993/1560/oj?locale=pt), do Conselho, respectivamente de 28 de Dezembro e de 14 de Julho, foram introduzidas alterações ao regime de quotas leiteiras, designadamente quanto à regulamentação da imposição suplementar, da gestão da quantidade global atribuída a cada Estado membro e da respectiva reserva nacional.
+
+Através daqueles regulamentos visou-se simplificar e uniformizar a gestão do regime de controlo da produção de leite instituído pelos Regulamentos (CEE) n.os [804/68](http://data.europa.eu/eli/reg/1968/804/oj?locale=pt) e [856/84](http://data.europa.eu/eli/reg/1984/856/oj?locale=pt), do Conselho, respectivamente de 27 de Junho e de 31 de Março, e promover a reestruturação do sector, no sentido da sua adaptação à evolução entretanto verificada no mercado europeu.
+
+Neste quadro, importando prosseguir a reestruturação da produção leiteira nacional, adaptam-se, através do presente diploma, as regras através das quais tal desiderato se deve concretizar, introduzindo os necessários mecanismos de flexibilização da gestão da quota atribuída a Portugal, quer pela definição de prioridades para as candidaturas à reserva nacional, quer pela introdução de regime da livre transferência, entre produtores, das respectivas quantidades de referência ou da sua transacção, através do comprador.
+
+Face às exigências de competitividade no mercado interno, o novo regime visa promover a modernização estrutural no sector, com salvaguarda da integração já verificada na fileira do leite e produtos lácteos, e facilitar a melhoria da dimensão das explorações e o acesso dos jovens agricultores à produção leiteira.
+
+Tendo em conta as especificidades dos sistemas produtivos e o regime político-administrativo das Regiões Autónomas dos Açores e da Madeira, remete-se para diplomas próprios a regulamentação deste novo regime nas respectivas Regiões.
+
+Assim, ao abrigo dos artigos 1.º, n.os 1 e 2, e 6.º do Decreto-Lei n.º 108/91, de 15 de Março, e ouvidos os Governos das Regiões Autónomas dos Açores e da Madeira:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1.º Para efeitos de aplicação do presente diploma e de acordo com o Regulamento (CEE) n.º [804/68](http://data.europa.eu/eli/reg/1968/804/oj?locale=pt), do Conselho, de 27 de Junho, e o Regulamento (CEE) n.º [3950/92](http://data.europa.eu/eli/reg/1992/3950/oj?locale=pt), do Conselho, de 28 de Dezembro, entende-se por:
+
+a) Quantidade global garantida - somatório das quantidades de referência para entrega aos compradores e de venda directa ao consumo, bem como a quantidade de leite afecta à reserva nacional;
+
+b) Quantidade de referência - a quantidade de leite que é atribuída a cada produtor, quer a entregue a um comprador ou a venda directamente ao consumidor;
+
+c) Campanha leiteira - o período de 12 meses que decorre de 1 de Abril a 31 de Março do ano seguinte;
+
+d) Leite - leite de vaca;
+
+e) Outros produtos lácteos - nomeadamente as natas, a manteiga e o queijo;
+
+f) Produtor - o empresário agrícola, pessoa singular ou colectiva, ou seus agrupamentos, que venda o leite ou outros produtos lácteos directamente ao consumo ou os entregue a um comprador;
+
+g) Exploração - unidade ou conjunto de unidades de produção geridas pelo produtor;
+
+h) Comprador - uma empresa ou agrupamento de empresas aprovadas pelo Instituto Nacional de Intervenção e Garantia Agrícola (INGA), nos termos do Regulamento (CEE) n.º [536/93](http://data.europa.eu/eli/reg/1993/536/oj?locale=pt), do Conselho, de 9 de Março, que adquiram o leite ou outros produtos lácteos para tratamento ou transformação ou para o ceder a uma ou várias empresas de tratamento e transformação, ou ainda um agrupamento de compradores, situado na mesma zona geográfica, que efectue, por conta dos seus membros, as operações de gestão administrativa e contabilística necessárias ao pagamento da imposição;
+
+i) Entrega - toda a entrega de leite e produtos lácteos a um comprador, quer o transporte seja assegurado por este, quer pelo produtor ou qualquer outra entidade;
+
+j) Venda directa - venda ao consumidor de leite ou de produtos lácteos convertidos em equivalente leite, sem intermediação de uma empresa de tratamento ou transformação do leite;
+
+l) Empresa de tratamento ou transformação de leite ou outros produtos lácteos - uma empresa ou agrupamento de empresas que proceda a operações de recolha, embalagem, armazenagem, refrigeração e transformação do leite ou que limite a sua actividade leiteira a uma destas operações;
+
+m) Leite ou equivalente leite vendido directamente para consumo - o leite ou os produtos lácteos convertidos em equivalente leite vendidos ou cedidos gratuitamente e sem intervenção de uma empresa de tratamento ou transformação de leite ou de outros produtos lácteos;
+
+n) Ano de cruzeiro - ano de estabilização do volume de produção previsto no projecto de investimento.
+
+2.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 684/2000](https://diariodarepublica.pt/dr/detalhe/portaria/684-2000-581237), publicado em 2000-08-30.
+
+3.º Ficam isentas da dedução de 5% as transferências de quotas resultantes de:
+
+a) Doação ou herança entre cônjuges, descendentes, ascendentes e colaterais em 1.º grau;
+
+b) Expropriação;
+
+c) Integração de produtor em modalidade associativa visando a produção de leite;
+
+d) Constituição de sociedade em que o produtor detenha, no mínimo, 50% do capital social.
+
+4.º - 1 - Sem prejuízo da aplicação do disposto no n.º 4.º-A, a atribuição da quantidade disponível na reserva nacional será feita de acordo com os critérios seguintes:
+
+> Alterado pelo/a [Portaria n.º 773/98](https://diariodarepublica.pt/dr/detalhe/portaria/773-1998-241242), publicado em 1998-09-15.
+
+a) 1.ª prioridade - jovens agricultores, ainda que em primeira instalação, e produtores com quota atribuída que venham a atingir uma quantidade de referência de 30000 kg/ano no período de três anos a contar da data da entrega do pedido, desde que se comprometam a atingir, num período de cinco anos a contar da mesma data, uma quantidade de referência mínima de 40000 kg/ano e uma quantidade máxima de 200000 kg/ano;
+
+> Alterado pelo/a [Portaria n.º 426/97](https://diariodarepublica.pt/dr/detalhe/portaria/426-1997-161885), publicado em 1997-06-30.
+
+b) 2.ª prioridade - jovens agricultores, ainda que em primeira instalação, e produtores com quota atribuída que venham a atingir uma quantidade de referência final entre 200000 kg/ano e 500000 kg/ano;
+
+c) 3.ª prioridade - outros agricultores a título principal para as candidaturas que venham a atingir uma quantidade de referência de 30000 kg/ano no período de três anos a contar da data da entrega do pedido, desde que se comprometam a atingir, num período de cinco anos a contar da mesma data, uma quantidade de referência mínima de 40000 kg/ano e uma quantidade máxima de 500000 kg/ano;
+
+> Alterado pelo/a [Portaria n.º 426/97](https://diariodarepublica.pt/dr/detalhe/portaria/426-1997-161885), publicado em 1997-06-30.
+
+d) 4.ª prioridade - agricultores a título principal para candidaturas que venham a atingir uma quantidade de referência final superior a 500000 kg/ano.
+
+2 - Na aplicação das 3.ª e 4.ª prioridades mencionadas no número anterior será dada prioridade aos jovens agricultores a título principal que possuam capacidade profissional bastante, nos termos da [Portaria n.º 980/95](https://diariodarepublica.pt/dr/detalhe/portaria/980-1995-477870), de 16 de Agosto.
+
+> Alterado pelo/a [Portaria n.º 426/97](https://diariodarepublica.pt/dr/detalhe/portaria/426-1997-161885), publicado em 1997-06-30.
+
+3 - Em caso de rateio, é dada prioridade aos produtores cuja exploração leiteira se situe na área geográfica da direcção regional de agricultura (DRA) onde foi gerada a contribuição para reserva nacional, respeitando-se a ordem de entrada das respectivas candidaturas nas DRA competentes.
+
+4 - Nas Regiões Autónomas, os critérios de atribuição das quantidades de referência provenientes da reserva nacional serão definidos em diploma dos respectivos governos regionais, tendo-se em consideração que as quantidades de leite provenientes da produção daquelas Regiões Autónomas serão distribuídas, prioritariamente, às candidaturas das respectivas Regiões.
+
+4.º-A - Até 31 de Março de 2000 as quantidades disponíveis na reserva nacional serão preferencialmente atribuídas, para efeitos de ajustamentos estruturais, aos produtores que demonstrem, no imediato, a garantia de utilização de um acréscimo de quota de 5500 kg.
+
+> Aditado pelo/a [Portaria n.º 773/98](https://diariodarepublica.pt/dr/detalhe/portaria/773-1998-241242), publicado em 1998-09-15.
+
+5.º As candidaturas à atribuição de uma quantidade de referência de leite ao abrigo da reserva nacional devem ser dirigidas ao INGA, através das DRA, até ao último dia útil de cada trimestre, nos termos seguintes:
+
+a) O pedido deverá ser elaborado em impresso próprio, a fornecer pelo INGA, do qual conste o compromisso de compra por parte dos compradores e o parecer da respectiva DRA;
+
+b) As DRA remeterão ao INGA, no prazo de 15 dias a contar do fim de cada trimestre, uma listagem das candidaturas recebidas, juntamente com os respectivos pedidos, compromissos de compra e pareceres;
+
+c) Caso tenham sido respeitados os procedimentos, o INGA procede à atribuição de quantidades de referência, de acordo com os critérios acima previstos e dentro do limite das quantidades disponíveis na reserva nacional, até ao final do trimestre seguinte àquele a que respeita o pedido, informando directamente os interessados;
+
+d) As candidaturas não satisfeitas num determinado trimestre, por motivo da inexistência de quantidade disponível na reserva nacional, consideram-se automaticamente renovadas para o trimestre seguinte sucessivamente, até ao limite máximo de 12 meses, salvo em caso de renúncia do interessado.
+
+e) Os pedidos que à data da entrada em vigor do presente diploma ainda não tenham sido objecto de atribuição de quantidades de referência deverão ser instruídos com o parecer a que se refere a alínea a), a solicitar pelo INGA à DRA respectiva, que o deverá emitir no prazo de 45 dias.
+
+> Alterado pelo/a [Portaria n.º 773/98](https://diariodarepublica.pt/dr/detalhe/portaria/773-1998-241242), publicado em 1998-09-15.
+
+6.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 773/98](https://diariodarepublica.pt/dr/detalhe/portaria/773-1998-241242), publicado em 1998-09-15.
+
+7.º - 1 - Os produtores a quem seja atribuída uma quantidade de referência a partir da reserva nacional, nos termos do n.º 4.º, ficam impedidos:
+
+a) De se candidatarem a eventuais acções de resgate no prazo de cinco anos a contar da data da atribuição;
+
+b) De efectuarem transferências de quota no período de cinco anos a contar da data da atribuição, acompanhadas ou não da cedência ou arrendamento da respectiva exploração, salvo os seguintes casos devidamente comprovados:
+
+Catástrofe natural que afecte gravemente a exploração;
+
+Destruição acidental dos recursos forrageiros ou construções do produtor destinadas à exploração do efectivo leiteiro;
+
+Epizootia, desde que afecte, no mínimo, 20% da produção, a comprovar por atestado passado pela autoridade sanitária local no prazo de 30 dias após a detecção da doença;
+
+Expropriação igual ou superior a 50% da superfície agrícola útil da exploração do produtor que tenha conduzido a uma redução de superfície forrageira de exploração por um período de duas campanhas;
+
+Incapacidade profissional de longa duração do produtor, caso seja o próprio a gerir a exploração, a comprovar pela autoridade de saúde competente no prazo de 30 dias após o seu aparecimento;
+
+Falecimento do antigo titular;
+
+Roubo ou perda acidental da totalidade ou, no mínimo, de 50% do efectivo leiteiro que tenha afectado significativamente a produção leiteira de exploração;
+
+Integração em sociedade de agricultura de grupo ou noutro tipo de sociedades agrícolas, a que terão obrigatoriamente de pertencer durante um período de cinco anos.
+
+> Alterado pelo/a [Portaria n.º 426/97](https://diariodarepublica.pt/dr/detalhe/portaria/426-1997-161885), publicado em 1997-06-30.
+
+2 - As DRA comunicarão ao INGA as situações excepcionais referidas na alínea b) do número anterior no prazo de 30 dias a partir da data do seu conhecimento.
+
+8.º A quantidade de referência tem carácter provisório até final do ano de cruzeiro, sendo apenas considerada, para efeitos de atribuição definitiva, a produção efectiva desse ano.
+
+> Alterado pelo/a [Portaria n.º 426/97](https://diariodarepublica.pt/dr/detalhe/portaria/426-1997-161885), publicado em 1997-06-30.
+
+9.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 773/98](https://diariodarepublica.pt/dr/detalhe/portaria/773-1998-241242), publicado em 1998-09-15.
+
+10.º Sempre que um comprador se substitua, parcial ou totalmente, a outro ou outros compradores, em virtude de transferência de entregas, a sua quantidade anual de entregas é fixada de acordo com os seguintes critérios:
+
+a) Caso a substituição se opere durante a campanha leiteira, adicionar-se-á à quantidade de referência do novo comprador o remanescente da quantidade de referência anual do produtor;
+
+b) Na campanha leiteira seguinte, adicionar-se-ão à quantidade de entregas do novo comprador as quantidades de referência do ou dos compradores objecto de transferência de entregas.
+
+11.º Para cada produtor, a transferência de entregas previstas no número anterior só poderá ocorrer uma vez por cada ano e durante o 1.º semestre da campanha leiteira, salvo em casos devidamente reconhecidos pelo INGA.
+
+> Alterado pelo/a [Portaria n.º 426/97](https://diariodarepublica.pt/dr/detalhe/portaria/426-1997-161885), publicado em 1997-06-30.
+
+12.º Sempre que, comprovadamente, ocorram atrasos de pagamento superiores a dois meses a contar da data da entrega do leite, o produtor pode mudar de comprador fora do período referido no número anterior, excepto quando haja contrato escrito celebrado entre as partes convencionando outras condições de pagamento.
+
+13.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 773/98](https://diariodarepublica.pt/dr/detalhe/portaria/773-1998-241242), publicado em 1998-09-15.
+
+14.º - 1 - Quando no decurso de uma campanha leiteira o produtor preveja não utilizar parte da sua quantidade de referência, pode cedê-la a outro produtor, desde que seja fornecedor do mesmo comprador.
+
+> Alterado pelo/a [Portaria n.º 116-C/2000](https://diariodarepublica.pt/dr/detalhe/portaria/116-c-2000-566222), publicado em 2000-03-01.
+
+2 - A cessão da quantidade de referência é feita nos termos seguintes:
+
+a) Os compradores devem colocar à disposição dos respectivos produtores de leite a lista dos produtores que pretendam efectuar cedências temporárias;
+
+b) As cedências temporárias respeitam a uma campanha, podendo ser renovadas até um máximo de três campanhas consecutivas;
+
+c) Sem prejuízo do disposto na alínea anterior, o produtor cedente só poderá recorrer novamente à cedência temporária após o decurso de um período idêntico ao da cedência verificada, salvo nas situações previstas na alínea b) do n.º 7.º;
+
+d) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 116-C/2000](https://diariodarepublica.pt/dr/detalhe/portaria/116-c-2000-566222), publicado em 2000-03-01.
+
+e) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 773/98](https://diariodarepublica.pt/dr/detalhe/portaria/773-1998-241242), publicado em 1998-09-15.
+
+15.º É instituída uma imposição suplementar, a cargo dos produtores de leite, sobre as quantidades de leite ou equivalente a leite entregues a um comprador ou vendidas directamente ao consumo durante a campanha e que excedam a sua quantidade de referência, desde que a quantidade global garantida seja ultrapassada, nos termos seguintes:
+
+a) Sempre que houver lugar ao pagamento da imposição suplementar, esta será repartida, proporcionalmente, pelos compradores e produtores que contribuíram para o excesso da quantidade global, após redistribuição proporcional das quantidades não utilizadas, quer a nível do comprador, quer a nível nacional, a qual será comunicada ao respectivo comprador 60 dias após a data referida no n.º 2 do artigo 3.º do Regulamento (CEE) n.º [536/93](http://data.europa.eu/eli/reg/1993/536/oj?locale=pt), da Comissão, de 9 de Março;
+
+b) A imposição suplementar é fixada em 115% do preço indicativo do leite, quer para as entregas, quer para as vendas directas;
+
+c) O cálculo da imposição suplementar deverá ter em consideração o disposto nos artigos 1.º e 2.º do Regulamento (CEE) n.º [536/93](http://data.europa.eu/eli/reg/1993/536/oj?locale=pt), da Comissão, de 9 de Março.
+
+16.º Sempre que o produtor ultrapasse a quantidade de referência de que dispõe, o comprador é autorizado a reter, a partir do final do 3.º trimestre da campanha, a título de provisão para o pagamento da imposição suplementar, um montante do preço do leite referente às entregas efectuadas pelo produtor que excedam a quantidade de referência de que este dispõe, nos seguintes termos:
+
+a) O nível da retenção deverá corresponder, no máximo, a um montante resultante do produto da ultrapassagem da quantidade de referência por 50% do valor do preço do leite a pagar ao produtor;
+
+b) Sempre que o montante cobrado for superior ao devido, o excedente será restituído aos produtores em causa nos 30 dias seguintes ao final da campanha, sendo que, caso este período seja ultrapassado, ao montante em dívida acrescem juros calculados com base na taxa fixada pela associação de bancos para créditos a 90 dias;
+
+c) Caso haja obrigação de pagamento da imposição suplementar e o montante retido pelo comprador seja inferior ao seu valor, a diferença será deduzida pelo comprador, em prestações iguais, no valor do leite entregue pelo produtor, do dia 1 de Abril até 15 de Agosto da campanha seguinte a que diz respeito a imposição.
+
+17.º - 1 - A transmissão de uma exploração a qualquer título, total ou parcialmente, implica a transferência para o novo titular da quantidade de referência correspondente à superfície objecto de transmissão e afecta à produção leiteira, a menos que, por contrato celebrado por escrito, se adopte outra modalidade prevista neste diploma.
+
+2 - A parte da quantidade de referência que eventualmente não seja transferida com a exploração será acrescentada à reserva nacional, salvo se o produtor optar por manter a estrutura remanescente em produção.
+
+18.º No caso de a exploração ser objecto, no todo ou em parte, de expropriação por utilidade pública ou denúncia do contrato de arrendamento rural, nos termos do artigo 20.º do Decreto-Lei n.º 385/88, de 25 de Outubro, a quantidade de referência respectiva manter-se-á na titularidade do produtor, salvo se este cessar definitivamente a actividade, caso em que reverterá para a reserva nacional.
+
+19.º Sempre que um produtor cesse definitivamente a actividade, caracterizando-se essa situação pela não comercialização de leite ou outros produtos lácteos, num período de 12 meses, e sem prejuízo do disposto no n.º 14.º, as respectivas quantidades de referência serão afectadas à reserva nacional, para efeitos de redistribuição.
+
+> Alterado pelo/a [Portaria n.º 773/98](https://diariodarepublica.pt/dr/detalhe/portaria/773-1998-241242), publicado em 1998-09-15.
+
+20.º - a) O produtor que possua simultaneamente quantidades de referência para entregas e vendas directas pode obter o aumento de uma das quantidades de referência, com a correlativa redução ou supressão da outra, desde que o seu pedido seja devidamente justificado por alteração das suas necessidades de comercialização.
+
+b) A transferência de quotas referidas na alínea anterior produzirá efeitos a partir do momento da aceitação, por parte do INGA, da respectiva justificação apresentada pelo produtor.
+
+> Alterado pelo/a [Portaria n.º 773/98](https://diariodarepublica.pt/dr/detalhe/portaria/773-1998-241242), publicado em 1998-09-15.
+
+21.º - a) Para efeitos da melhoria da estrutura da produção leiteira ao nível da exploração são autorizadas as transferências de quantidades de referência entre produtores sem a correspondente transferência de terras.
+
+b) O pedido de transferência é subscrito pelo novo e antigo titulares, visado pelo comprador e enviado para o INGA, acompanhado da respectiva justificação.
+
+c) As transferências são autorizadas pelo INGA.
+
+> Alterado pelo/a [Portaria n.º 773/98](https://diariodarepublica.pt/dr/detalhe/portaria/773-1998-241242), publicado em 1998-09-15.
+
+d) Os produtores que beneficiaram do disposto na alínea a) ficam impedidos de se candidatar a eventuais acções de resgate e de efectuar transferências de quantidades de referência durante um período de três anos a contar da data da atribuição de uma nova quantidade de referência, salvo nos casos referidos na alínea b) do n.º 7.º
+
+> Alterado pelo/a [Portaria n.º 116-C/2000](https://diariodarepublica.pt/dr/detalhe/portaria/116-c-2000-566222), publicado em 2000-03-01.
+
+22.º - 1 - Com o objectivo de reestruturação da produção leiteira ou por razões de natureza ambiental e através do respectivo comprador, poderão ser aceites candidaturas, durante o mês de Dezembro, para aquisição das quantidades de referência definitivamente libertadas por produtores que cessem a sua actividade.
+
+2 - Para efeitos de aplicação do referido no número anterior, os compradores, durante o último trimestre de cada campanha, procederão à realização de leilões, aos quais poderão candidatar-se como adjudicatários os produtores cuja quantidade de referência final se situe no mínimo em 40000 kg/ano, onde serão definidos os valores das transacções a realizar e aos quais deverá assistir um representante da respectiva DRA.
+
+3 - As aquisições referidas no número anterior produzem efeito na campanha seguinte à da realização do leilão.
+
+4 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 773/98](https://diariodarepublica.pt/dr/detalhe/portaria/773-1998-241242), publicado em 1998-09-15.
+
+5 - Todo o movimento das quantidades de referência resultantes das transacções efectuadas ao abrigo deste número serão comunicadas pelos compradores ao INGA durante o mês de Abril da campanha seguinte à da realização do leilão.
+
+23.º Todo o movimento das quantidades de referência resultantes das transferências referidas nos n.os 2.º, 3.º, 10.º e 14.º deverá ser comunicado pelo comprador ao INGA no prazo máximo de 30 dias contados a partir da efectivação das transferências.
+
+24.º Nas Regiões Autónomas a regulamentação deste regime, nas matérias da sua competência, será definida em diploma dos respectivos governos regionais.
+
+> Alterado pelo/a [Portaria n.º 773/98](https://diariodarepublica.pt/dr/detalhe/portaria/773-1998-241242), publicado em 1998-09-15.
+
+25.º As competências e atribuições cometidas no presente diploma ao INGA e às DRA, designadamente as constantes nos n.os 5.º, 11.º, 12.º, 18.º e 21.º e n.º 2 do n.º 22.º, serão exercidas nas Regiões Autónomas pelos organismos da administração regional designados pelos respectivos governos regionais.
+
+26.º Os organismos encarregados da gestão da aplicação do regime das quotas leiteiras nas Regiões Autónomas informarão o INGA, com periodicidade trimestral, das quantidades de leite libertadas e destinadas à reserva nacional, bem como dos quantitativos da reserva atribuídos nas respectivas Regiões, nos termos do presente diploma e legislação complementar.
+
+27.º O organismo competente da administração regional autónoma informará o Instituto dos Mercados Agrícolas e Indústria Agro-Alimentar dos critérios definidos no n.º 4 do n.º 4.º e no n.º 21.º do presente diploma a aplicar nas Regiões Autónomas, bem como de todas as alterações que lhes vierem a ser introduzidas, até 30 dias antes da data prevista para a sua entrada em vigor.
+
+28.º O INGA articulará com os organismos competentes das administrações regionais autónomas todos os mecanismos necessários à correcta aplicação da matéria definida no presente diploma, nomeadamente a que respeita à cobrança da imposição suplementar e à redistribuição das quantidades não utilizadas.
+
+29.º São revogadas as Portarias n.os 97/94, de 9 de Fevereiro, 306/94, de 18 de Abril, 788/94, de 31 de Agosto, e 585/95, de 17 de Junho.
+
+30.º O presente diploma entra imediatamente em vigor.
+
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+Assinada em 15 de Março de 1996.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.

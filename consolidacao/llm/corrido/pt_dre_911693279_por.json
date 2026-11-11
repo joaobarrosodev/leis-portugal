@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:911693279:por",
+  "substituicoes": [
+    {
+      "de": 56,
+      "ate": 59,
+      "texto": "a) 2025 - 222 248,88 €;\n\nb) 2026 - 20 674 637,96 €;\n\nc) 2027 - 161 428 291,38 €;\n\nd) 2028 - 210 821 049,85 €;\n\ne) 2029 - 51 513 771,93 €;\n\nf) 2030 - 2 050 000,00 €.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2: nova redação do anexo (tabela de encargos, unidade 72), mas a tabela nova só vem em imagem; não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 11; o proémio (unidade 55) fica igual, as alíneas a) a d) mudam de valores e acrescem e) 2029 e f) 2030 - unidades 56 a 59 substituídas por a) a f).",
+    "Alterador 1, n.º 2: substitui o anexo; tabela só em imagem - nao_aplicavel.",
+    "Alterador 1, n.º 3: produção de efeitos - norma própria, nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

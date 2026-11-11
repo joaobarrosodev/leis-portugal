@@ -524,7 +524,7 @@ Os ficheiros de trabalho (pedidos, respostas por passagem, vistas da ronda 23) e
 
 ## Originais sem artigos: texto corrido por unidades (`llm_corrido.py`)
 
-As rondas deste trabalho foram renumeradas ao juntar ao `main` (17 → 24, 18 → 25, 19 → 26, 20 → 27, 21 → 28), porque a frente B já usava os números 17 a 21 para outros diplomas.
+As rondas deste trabalho foram renumeradas ao juntar ao `main` (17 → 24, 18 → 25, 19 → 26, 20 → 27, 21 → 28, 22 → 29), porque a frente B já usava os números 17 a 22 para outros diplomas.
 
 **Problema.** Dos 4.362 diplomas para o LLM, 2.697 têm um original sem artigos identificados (portarias "1.º, 2.º" em texto corrido, resoluções, despachos, declarações de retificação, bases). `juntar.py` e `llm_completo.py` recusam-nos ("original sem artigos: a resposta não tem onde encaixar").
 
@@ -580,3 +580,7 @@ Mais 120 diplomas (`llm/corrido-ids-bloco4.txt`, de 2 417 candidatos; 35 saltado
 ### Bloco 5 (ronda 28; no ramo de origem era a ronda 21)
 
 Mais 120 diplomas (`llm/corrido-ids-bloco5.txt`, de 2 297 candidatos; 37 saltados por tamanho). 26 sem alterações, 91 juntados, 3 recusados. Ronda 21: 91 verificados às cegas, **71 sem reparos: 59 % do bloco (78 % dos verificados)**. O número alto vem de uma série de portarias de zonas de caça, quase todas só com a nova redação do n.º 1.º e o n.º 1.º-A, fáceis de verificar; não é de esperar que se mantenha. Os verificadores marcaram vários "dúvida" por efeitos implícitos (áreas, número de guardas) e contaram-se como reparos. Acumulado das rondas 17 a 21: **206 em 520 (40 %)**. Ficam cerca de 2 180 candidatos.
+
+### Bloco 6 (ronda 29; no ramo de origem era a ronda 22)
+
+Mais 120 diplomas (`llm/corrido-ids-bloco6.txt`, de 2 177 candidatos; 37 saltados por tamanho). 39 sem alterações, 76 juntados, 5 recusados. Ronda 22: 76 verificados às cegas, **59 sem reparos: 49 % do bloco (78 % dos verificados)**. Acumulado das rondas 17 a 22: **265 em 640 (41 %)**. Ficam cerca de 2 060 candidatos. Os reparos que se repetem: "dois guardas" passa a "um guarda" nas portarias de zonas de caça (instrução descritiva, sem redação literal, que o LLM não aplica) e alterações de área ou prazo sem redação nova.

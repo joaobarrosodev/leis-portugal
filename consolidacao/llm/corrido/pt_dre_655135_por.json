@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:655135:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1, 2, 3 e 4 substituem o plano de estudos do anexo, que só vem em imagem/quadro no documento original; o alterador 4 muda também a denominação do curso para Ciências da Tradução sem dar nova redação aos números do original, pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1: novo anexo (plano de estudos) só em imagem; não aplicado",
+    "Alterador 2: novo anexo só em imagem; não aplicado",
+    "Alterador 3: anexo do 4.º ano só em imagem; não aplicado",
+    "Alterador 4: mudança de denominação do curso (sem nova redação textual) e novo plano de estudos em quadros-imagem; não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:402281:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria, que dela faz parte integrante, sitos nas freguesias de São Pedro de Alva e Travanca do Mondego, município de Penacova, com uma área de 1778,95 ha.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 2, 2.º: o n.º 6.º passa a obrigar a manter só um guarda florestal auxiliar, mas sem nova redação do texto; não aplicado. Alterador 4: renovação da concessão e anexação de prédios (planta só em imagem), sem alteração do texto; não aplicado.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º com os n.os 1 (2746,3250 ha) e 2 (área desanexada); depois substituída por inteiro pela redação do alterador 2.",
+    "Alterador 2, 1.º: nova redação do n.º 1.º (1780,60 ha), um só parágrafo; depois substituída pela do alterador 3.",
+    "Alterador 2, 1.º: aditado o n.º 1.º-A, inserido a seguir à unidade 6.",
+    "Alterador 2, 2.º: redução do número de guardas do n.º 6.º sem redação textual; não aplicado.",
+    "Alterador 3: nova redação do n.º 1.º (1778,95 ha); unidade 6 fica com esta redação, mantendo o número 1.º.",
+    "Alterador 4: renovação e anexação; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

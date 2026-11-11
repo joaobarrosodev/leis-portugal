@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º A venda de sanduíches, torradas e bolos populares, ou seja, bolos de arroz, queques, caracóis, croissants e brioches, fica sujeita ao regime de preços livres a que se refere a alínea f) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.",
+    "depois": "1.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:160508:por",
+    "alterador": "pt:dre:430850:por"
+  },
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º Nos estabelecimentos de luxo e nos bares, seja qual for a sua categoria, a venda dos produtos indicados no número anterior fica sujeita ao regime de preços estabelecido no capítulo VI do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) e no [Decreto-Lei n.º 137/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1973-675061), de 30 de Março, e respectivas disposições regulamentares.",
+    "depois": "4.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:160508:por",
+    "alterador": "pt:dre:430850:por"
+  }
+]

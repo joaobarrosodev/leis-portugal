@@ -1,0 +1,67 @@
+---
+id: pt:dre:158420:por
+title: Portaria n.º 752-D/81
+original: data/portugal/portarias/1981/portaria-752-d-81.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:170506:por
+    title: Portaria n.º 924/85
+    publication_date: '1985-12-03'
+---
+
+# Portaria n.º 752-D/81
+
+de 2 de Setembro
+
+De acordo com os princípios consignados no Programa do Governo e atendendo à necessidade de adaptar, progressivamente, as estruturas de comercialização de certos produtos à entrada na CEE, haverá que ajustar certos exclusivos às regras de concorrência e a um relacionamento comercial diferente do até aqui seguido e conciliável com o quadro comunitário.
+
+No caso do açúcar, esse ajustamento terá, no entanto, de realizar-se com a necessária prudência, de modo que não se traduza por uma brusca alteração no nível dos preços, condicionado, como se sabe, a um esquema que comporta a transferência dos resultados da comercialização das ramas para o Fundo de Abastecimento.
+
+Com este objectivo, foi promulgado o [Decreto-Lei n.º 260-E/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-e-1981-158423), que introduz modificações ao Estatuto da Administração-Geral do Açúcar e do Álcool, E. P. (AGA), determinando que essa adaptação se processe em condições a estabelecer por portaria.
+
+É o que agora se faz.
+
+Nestes termos:
+
+Ao abrigo do disposto na alínea a) do n.º 1 do artigo 4.º do Estatuto da Administração-Geral do Açúcar e do Álcool, E. P., aprovado pelo [Decreto-Lei n.º 33/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1978-448494), de 14 de Fevereiro, na redacção que lhe foi dada pelo artigo 2.º do [Decreto-Lei n.º 260-E/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-e-1981-158423), de 2 de Setembro:
+
+Manda o Governo da República Portuguesa, pelos Ministros do Comércio e Turismo e das Finanças e do Plano, o seguinte:
+
+1 - Até ao limite fixado para cada ano, por despacho do Ministro do Comércio e Turismo, é atribuída às actuais empresas refinadoras de açúcar a possibilidade de importarem directamente ramas para laboração própria, em ordem à sua transformação em açúcar refinado destinado ao mercado interno.
+
+2 - Estas importações deverão provir de países que beneficiam já de um regime preferencial na CEE ou daqueles que ofereçam boas perspectivas de um relacionamento comercial que possa prolongar-se após a nossa adesão à CEE.
+
+3 - As compras das refinadoras poderão inserir-se em contratos a curto, médio ou longo prazo, cujas condições deverão ser sancionadas pelo Ministro do Comércio e Turismo.
+
+4 - Os preços a contratar não poderão ser superiores a um valor CIF máximo a publicar regularmente por despacho do Ministro do Comércio e Turismo ou, na falta, à média aritmética do London Daily Price para rama com 96º de polarização do mês anterior ao embarque.
+
+5 - Cada empresa refinadora indicará à AGA, até 15 de Outubro de cada ano, qual a parte da sua quota anual que tenciona utilizar no ano seguinte e por cuja importação se responsabiliza.
+
+6 - A AGA, depois de conhecida a posição de cada empresa refinadora e com a sua colaboração, elaborará o plano global de importações que assegure a regularidade do abastecimento, plano esse que será submetido à aprovação do Ministro do Comércio e Turismo até 15 de Outubro.
+
+7 - No corrente ano, a indicação referida no n.º 5 desta portaria será fornecida até quinze dias após a sua publicação, sendo o plano referido no n.º 6 apresentado nos quinze dias imediatos.
+
+8 - Nas importações efectuadas pelas empresas refinadoras observar-se-á o que se encontra preceituado para as importações a realizar pela AGA quanto ao recurso ao financiamento externo e à utilização da marinha mercante nacional.
+
+9 - Constituem receita ou encargo do Fundo de Abastecimento os resultados com as operações de importação de ramas de açúcar aprovados considerando os custos totais das operações e os preços fixados para fornecimento de ramas pela AGA à indústria refinadora de açúcar, de harmonia com os protocolos AGA/refinarias e com o preceituado no [Decreto-Lei n.º 19/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1983-307811), de 21 de Janeiro.
+
+> Alterado pelo/a [Portaria n.º 924/85](https://diariodarepublica.pt/dr/detalhe/portaria/924-1985-170506), publicado em 1985-12-03.
+
+10 - A prestação de contas relativas às importações de ramas de açúcar efectuadas e a efectuar pelos refinadores será feita directamente entre estes e o Fundo de Abastecimento, devendo a AGA pronunciar-se sobre as mesmas.
+
+> Alterado pelo/a [Portaria n.º 924/85](https://diariodarepublica.pt/dr/detalhe/portaria/924-1985-170506), publicado em 1985-12-03.
+
+11 - O Fundo de Abastecimento poderá solicitar à AGA e às empresas refinadoras todos os elementos que considere necessários ao esclarecimento das situações ocorrentes.
+
+12 - Para que a AGA possa acompanhar a evolução do consumo de açúcar branco, as empresas refinadoras fornecer-lhe-ão os elementos relativos às suas vendas mensais, até ao dia 10 do mês seguinte àquele a que digam respeito.
+
+13 - Para o exercício das funções de controle, o Fundo de Abastecimento poderá recorrer aos organismos e serviços do Estado com competência para as acções a desenvolver.
+
+14 - Do plano de importações a submeter à aprovação do Ministro do Comércio e Turismo constarão, além do calendário e das quantidades a importar, as capacidades dos armazéns das refinarias disponíveis para as ramas a importar pela AGA.
+
+15 - As dúvidas e os casos omissos suscitados pela aplicação desta portaria serão resolvidos por despacho do Ministro do Comércio e Turismo.
+
+Ministérios das Finanças e do Plano e do Comércio e Turismo, 6 de Junho de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro do Comércio e Turismo, Alexandre de Azeredo Vaz Pinto.

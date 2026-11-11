@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:402313:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "2.º Pelo presente diploma é concessionada, até 15 de Julho de 2000, à SOPELADOS - Sociedade Turística e Cinegética dos Pelados, com o número de pessoa colectiva 502346132 e sede na Herdade dos Pelados, Beja, a zona de caça turística da Herdade dos Pelados e Mingorra (processo n.º 1129 do Instituto Florestal).",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1, 3, 4, 5, 6 e 7: suspensões, renovações, anexações de prédios e mudança de denominação da entidade gestora, sem instrução de alteração do texto do original; não aplicados.",
+  "instrucoes": [
+    "Alterador 1: suspensão da exploração cinegética; não textual.",
+    "Alterador 2: no n.º 2.º, 'até 15 de Julho de 2002' passa a 'até 15 de Julho de 2000'; substituída a unidade 9.",
+    "Alterador 3: suspensão da atividade cinegética por 180 dias; não textual.",
+    "Alterador 4: renovação por 10 anos e revogação das Portarias 863/99 e 473/2000 (não do original); não textual.",
+    "Alterador 5: anexação de prédios; não textual.",
+    "Alterador 6: nova denominação da entidade gestora (UVACAÇA) e anexação; não é redação do texto; não aplicado.",
+    "Alterador 7: renovação da concessão; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

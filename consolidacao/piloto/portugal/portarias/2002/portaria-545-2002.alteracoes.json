@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6.º A presente portaria vigora até 14 de Maio de 2003, momento em que serão redefinidos os valores indicados no quadro anexo, no sentido de reduzir o número de movimentos aéreos a autorizar, podendo este prazo ser prorrogado.",
+    "depois": "6.º A presente portaria vigora até 27 de Março de 2004.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:153117:por",
+    "alterador": "pt:dre:483639:por"
+  }
+]

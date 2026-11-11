@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º O cartão do modelo A é atribuído aos DFA com deficiência de 30% até 60%.",
+    "depois": "5.º Aos DFA com deficiência inferior a 60% é atribuído o cartão modelo A.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:177835:por",
+    "alterador": "pt:dre:172168:por"
+  }
+]

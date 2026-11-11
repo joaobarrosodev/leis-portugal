@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:604595:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a retificação incide sobre o sumário do decreto, que não faz parte do texto por unidades; o texto do artigo (unidade 4) não é alterado.",
+  "instrucoes": [
+    "Alterador 1: retifica o sumário (São ratificadas... passa a Ratifica...); o sumário não está no texto, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

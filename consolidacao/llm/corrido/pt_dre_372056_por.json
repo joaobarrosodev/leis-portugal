@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:372056:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 5 (Portarias 771/90, 413/91, 947/92 e 918/94, esta repetida) só substituem ou reestruturam o quadro de pessoal anexo, que vem apenas em imagem; os n.os 2.º e 3.º da Portaria 918/94 são disposições próprias dessa portaria (anexos I e II), não redação nova de unidades do original.",
+  "instrucoes": [
+    "Alt. 1 (771/90): reestrutura o quadro de pessoal anexo segundo quadro em imagem - não aplicado.",
+    "Alt. 2 (413/91): substitui os quadros de pessoal médico por quadros em imagem - não aplicado.",
+    "Alt. 3 (947/92): altera o quadro anexo segundo quadro em imagem - não aplicado.",
+    "Alt. 4 (918/94): 1.º substitui o quadro de pessoal pelo quadro em imagem - não aplicado; 2.º e 3.º são normas próprias com anexos I e II, sem alteração textual do original - não aplicado.",
+    "Alt. 5: repetição da Portaria 918/94 - nada a acrescentar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

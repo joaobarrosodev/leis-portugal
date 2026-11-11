@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:157182:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Carvoeira, São Domingos de Carmões e Dois Portos, município de Torres Vedras, com a área de 1579,0932 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 9,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 suspende o exercício da caça na zona (medida não textual). Alterador 3 renova a concessão por 12 anos com a área de 1726 ha e refere que 1579,0932 ha foi lapso, mas não dá nova redação a nenhum número do original; não aplicado. A planta só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º (área 1579,0932 ha) — unidade 9 substituída, mantido o número 1.º",
+    "Alterador 1, 1.º: aditado o n.º 1.º-A — inserido depois da unidade 9",
+    "Alterador 2: suspensão da caça — não textual, nada feito",
+    "Alterador 3: renovação da concessão e revogação da Portaria n.º 753/2004 — não são alterações textuais do original, nada feito"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
