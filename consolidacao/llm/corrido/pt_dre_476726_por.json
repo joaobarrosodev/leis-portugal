@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:476726:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Romeira e Azoia de Baixo, município de Santarém, com a área de 520,6396 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 8,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (anexação de prédios, nova área de 585,2756 ha, nova planta e fiscalização por guarda florestal auxiliar) e alterador 3 (renovação da concessão por 12 anos, área de 542,0866 ha, nova planta) não dão nova redação a nenhuma unidade do original e as plantas só vêm em imagem; não aplicados ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 1.º - substituída a unidade 8.",
+    "Alterador 1, n.º 1.º (2.º parágrafo): aditado o n.º 1.º-A - inserido depois da unidade 8.",
+    "Alterador 1, n.os 2.º e 3.º: manutenção de direitos e entrada em vigor - nada a fazer.",
+    "Alterador 2, n.os 1.º e 2.º: anexação de prédios com nova planta e fiscalização - alteração não textual, não aplicada (nao_aplicavel).",
+    "Alterador 3, n.os 1.º e 2.º: renovação da concessão com nova área e planta - alteração não textual, não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

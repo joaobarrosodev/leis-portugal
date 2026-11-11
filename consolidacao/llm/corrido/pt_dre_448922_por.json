@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:448922:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "4.º Por despacho do director-geral de Viação poderá ser dispensada ou reduzida a frequência de lições a que se refere a parte final do número anterior aos instruendos que sejam titulares de documentos que os habilitem a conduzir veículos automóveis, velocípedes com motor ou ciclomotores.",
+      "alterador": 1
+    },
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "7.º A propositura a exame de condução só poderá ser feita para os instruendos inscritos na entidade proponente.\n\nNos concelhos em que não exista escola de condução autorizada a ministrar o ensino a candidatos a condutores de tractores agrícolas, qualquer escola ou instrutor por conta própria pode subscrever a propositura a exame destes candidatos.\n\nNos restantes concelhos, só as escolas que disponham de tractor agrícola licenciado para a instrução podem propor a exame candidatos a condutores destes veículos.",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "10.º O disposto na presente portaria não é aplicável:\n\na) Aos exames de condução determinados ao abrigo do n.º 8 do artigo 47.º do Código da Estrada;\n\nb) Aos exames de condução de candidatos de nacionalidade estrangeira, quando estes sejam titulares de licença que os habilitasse a conduzir em Portugal, há menos de três anos, a classe ou classes de veículos para que requeiram exame;\n\nc) Aos exames de condução de candidatos de nacionalidade estrangeira, quando sejam titulares de licença válida para a condução, há menos de três anos, da classe ou classes de veículos para que requereram exame, que, nos termos do n.º 1 do artigo 46.º do Código da Estrada, não habilite a conduzir em Portugal;\n\nd) Aos exames de condução de candidatos de nacionalidade portuguesa, quando sejam titulares de licença estrangeira que os habilitasse a conduzir em Portugal, há menos de três anos, a classe de veículos para que requereram exame, desde que comprovem a titularidade pela entrega da respectiva licença, a qual ficará arquivada junto do competente processo;\n\ne) Aos exames de condução de candidatos titulares de boletins militares de condução, quando não tenham requerido a sua troca por carta de condução, nos termos do n.º 5 do artigo 47.º do Código da Estrada.\n\nf) Às provas práticas de exames de condução dos candidatos que careçam de veículo especialmente adaptado.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 25,
+      "texto": "11.º O director-geral de Viação fixará, por despacho, as normas necessárias à boa execução do presente diploma.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, 3.º: o quadro anexo (unidade 29) passa a ter nova estrutura e composição, mas o novo quadro só vem em imagem (ver documento original); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação dos n.os 4.º, 7.º e 10.º; substituí as unidades 17, 22 e 25 (o 7.º e o 10.º passam a ter vários parágrafos).",
+    "Alterador 1, 2.º: adita o n.º 11.º; inseri-o depois do n.º 10.º (unidade 25).",
+    "Alterador 1, 3.º: novo quadro anexo só em imagem; não aplicado (nao_aplicavel).",
+    "Alterador 1, 4.º: entrada em vigor; norma própria, sem alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

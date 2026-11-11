@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:549204:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 14,
+      "texto": "3.º - (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 8,
+      "texto": "1.º-A\n\nOpções\n\n1 - O curso de bacharelato em Engenharia Eléctrica Industrial da Escola Superior de Tecnologia de Tomar, criado pela [Portaria n.º 1059/94](https://diariodarepublica.pt/dr/detalhe/portaria/1059-1994-549204), de 2 de Dezembro, alterada pela [Portaria n.º 8/97](https://diariodarepublica.pt/dr/detalhe/portaria/8-1997-300849), de 2 de Janeiro, desdobra-se nas opções de:\n\na) Automação e Informática Industrial;\n\nb) Energia e Instalações de Potência.\n\n2 - Em cada ano lectivo só se abrem novas inscrições nas opções em que o número de alunos a inscrever no 5.º semestre seja de pelo menos 15.\n\n3 - Se o número total de alunos a inscrever no 5.º semestre for inferior a 15, só funciona a opção com maior número de interessados na inscrição.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "As substituições do anexo (plano de estudos) pelas Portarias n.º 8/97 (alterador 1) e n.º 914/98 (alterador 2, n.º 3.º) só vêm em imagem/quadros no documento original; a revogação prevista na Portaria n.º 56/2003 (alterador 3, n.º 2.º, n.º 2) está condicionada ao fim do processo de transição e não se aplica ao texto.",
+  "instrucoes": [
+    "Alt. 1, n.º 1.º: anexo passa a ser o da Portaria n.º 8/97 — anexo só em imagem, não aplicado.",
+    "Alt. 2, n.º 1.º: aditado o n.º 1.º-A (Opções) — inserido depois da unidade 8 (fim do n.º 1.º).",
+    "Alt. 2, n.º 2.º: revogado o n.º 3.º — unidades 12-14 substituídas por '3.º - (Revogado.)'.",
+    "Alt. 2, n.º 3.º: novo anexo — só em quadros/imagem, não aplicado.",
+    "Alt. 3, n.º 2.º: cessação do curso e revogação da portaria findo o processo de transição — condicional, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

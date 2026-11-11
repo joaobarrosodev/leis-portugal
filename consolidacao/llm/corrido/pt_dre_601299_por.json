@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:601299:por",
+  "substituicoes": [
+    {
+      "de": 1124,
+      "ate": 1124,
+      "texto": "Línguas e Literaturas Modernas (variante de Estudos Ingleses e Alemães).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 1285,
+      "texto": "12 cadeiras anuais da licenciatura em ensino em Biologia/Geologia;",
+      "alterador": 1
+    },
+    {
+      "depois_de": 1306,
+      "texto": "8 cadeiras anuais da licenciatura em ensino em Biologia/Geologia;",
+      "alterador": 1
+    },
+    {
+      "depois_de": 1325,
+      "texto": "4 cadeiras anuais da licenciatura em ensino em Biologia/Geologia.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Despacho Normativo n.º 57/83) vem sem texto no pedido; nada a aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: a licenciatura em Estudos Ingleses e Alemães do 9.º grupo, 1.º escalão das habilitações próprias do ensino secundário, passa a Línguas e Literaturas Modernas (variante de Estudos Ingleses e Alemães) — unidade 1124 substituída.",
+    "Alterador 1, n.º 2: aditadas habilitações suficientes ao 11.º grupo B (2.º, 4.º e 5.º escalões) — inseridas após as unidades 1285, 1306 e 1325.",
+    "Alterador 1, n.º 3: aplicação ao concurso — não textual.",
+    "Alterador 2: sem texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 1124-1124: parágrafo que não está no alterador nem no original: Línguas e Literaturas Modernas (variante de Estudos Ingleses e Alemães)."
+  ]
+}

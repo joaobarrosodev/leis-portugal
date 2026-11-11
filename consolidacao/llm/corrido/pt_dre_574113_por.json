@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:574113:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 (Portaria n.º 326/92) altera só o plano de estudos do curso de técnico de serviços comerciais por mapa anexo, que vem só em imagem; os alteradores 2 (Portaria n.º 874/2005) e 3 (Portaria n.º 914/2005) extinguem os cursos de construção civil/condução de obra e de contabilidade e revogam a portaria só parcialmente, 'nas partes que àqueles cursos respeitam', o que não é uma alteração textual de unidades determinadas.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: alteração do plano de estudos de técnico de serviços comerciais por mapa anexo em imagem; não aplicada.",
+    "Alterador 2, n.os 6.º e 7.º: extinção do curso de técnico de construção civil/condução de obra e revogação parcial nas partes respeitantes; não textual.",
+    "Alterador 3, n.os 6.º e 7.º: extinção do curso de técnico de contabilidade e revogação parcial nas partes respeitantes; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

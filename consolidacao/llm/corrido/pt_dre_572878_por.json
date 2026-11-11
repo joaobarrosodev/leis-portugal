@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:572878:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "2.º Nesta área, até ao dia 20 de Outubro de 2001, é concedida à Associação de Caçadores e Conservação de Espécies Cinegéticas dos Pequenos e Médios Agricultores da Herdade dos Machados (registo na Direcção-Geral das Florestas n.º 449889), a exploração de uma zona de caça associativa (processo n.º 183 da Direcção-Geral das Florestas).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: no n.º 2.º, «até ao dia 31 de Maio de 2001» passa a «até ao dia 20 de Outubro de 2001»: substituída a unidade 9.",
+    "Alterador 2: suspensão do exercício da caça, sem alteração textual do original: nada a fazer.",
+    "Alterador 3: renovação da concessão por seis anos e revogação da Portaria n.º 1203-Q/2001 (não do original): nada a fazer no texto.",
+    "Alterador 4: nova renovação e área de condicionamento parcial, sem alteração textual do original: nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

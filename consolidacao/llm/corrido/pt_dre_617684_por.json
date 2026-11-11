@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:617684:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Valada, município do Cartaxo, com a área de 2578 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 a 6 (suspensão, renovações e anexações de prédios com novas áreas totais e plantas) não dão nova redação a nenhum ponto do original; não são alterações textuais.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º -> substituída a unidade 6.",
+    "Alt. 1: aditado o n.º 1.º-A -> inserido depois da unidade 6.",
+    "Alt. 2: suspensão do exercício da caça; não textual, nada feito.",
+    "Alt. 3: renovação da concessão e revogação da Portaria 552-J/2002 (outro diploma); nada feito.",
+    "Alt. 4 e 6: anexação de prédios (áreas 2755 ha e 2743 ha); não textual, nada feito.",
+    "Alt. 5: renovação com área de 2721 ha; não textual, nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

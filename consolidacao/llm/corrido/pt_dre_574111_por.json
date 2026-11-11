@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:574111:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 690/90 é revogada por inteiro pelo alterador 3 (Portaria n.º 1286/2006, n.º 7.º, alínea b): 'As restantes portarias mencionadas no n.º 5.º', em que a 690/90 está incluída e não consta da alínea a)). Antes disso, o alterador 1 alterou só planos de estudo anexos (mapas em imagem) e o alterador 2 revogou-a parcialmente quanto ao curso de técnico de contabilidade.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: alteração dos planos de estudo dos cursos de serviços comerciais e secretariado por mapas anexos (só em imagem); não aplicada.",
+    "Alterador 2, n.os 6.º e 7.º: extinção do curso de técnico de contabilidade e revogação parcial nas partes respeitantes; não textual.",
+    "Alterador 3, n.º 7.º, alínea b): revogação total da Portaria n.º 690/90; nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

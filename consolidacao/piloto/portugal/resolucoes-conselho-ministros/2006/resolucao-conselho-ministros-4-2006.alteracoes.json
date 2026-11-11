@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - Determinar que o mandato da Estrutura de Missão tem início no dia 1 de Dezembro de 2005 e terminará em 1 de Fevereiro de 2008, competindo-lhe:",
+    "depois": "3 - Determinar que o mandato da Estrutura de Missão tem início no dia 1 de Dezembro de 2005 e termina em 30 de Abril de 2008, competindo-lhe:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:533420:por",
+    "alterador": "pt:dre:386862:por"
+  },
+  {
+    "artigo": "unidades 18-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5 - Estipular que, na directa dependência do encarregado de missão, a Estrutura de Missão tem um núcleo permanente e duas unidades de apoio administrativo, sendo aquela constituída por três funcionários provenientes dos quadros da Administração Pública, responsáveis pelo desempenho das seguintes funções:\n\na) Um adjunto do encarregado de missão, equiparado, para efeitos remuneratórios, a director de serviços;\n\nb) Dois coordenadores de projecto, equiparados, para efeitos remuneratórios, a chefe de divisão.",
+    "depois": "5 - Estipular que, na directa dependência do encarregado de missão, a Estrutura de Missão tem um núcleo permanente e duas unidades de apoio administrativo, sendo aquela constituída por um funcionário proveniente dos quadros da Administração Pública responsável pelo desempenho de funções de coordenador de projecto equiparado para efeitos remuneratórios a chefe de divisão.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:533420:por",
+    "alterador": "pt:dre:386862:por"
+  }
+]

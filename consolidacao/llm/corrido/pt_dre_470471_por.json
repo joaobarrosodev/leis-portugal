@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:470471:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, artigo único: o novo mapa do quadro comum dos engenheiros (artigo 22.º) só vem em imagem no documento original; não há texto para substituir a unidade 104.",
+  "instrucoes": [
+    "Alterador 1, artigo único: substitui o mapa anexo a que se refere o artigo 22.º por um mapa que só vem em imagem - não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

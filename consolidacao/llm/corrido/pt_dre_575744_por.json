@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:575744:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 (Portaria n.º 413-S/98, n.º 24.º) derroga a Portaria n.º 548/90 'na parte respeitante ao curso de Pilotagem' e o alterador 2 (Portaria n.º 413-T/98, n.º 23.º) 'na parte respeitante ao curso de Engenharia de Máquinas'; são derrogações por curso, sem indicação de texto a alterar, que não se aplicam com segurança às unidades (as alíneas e referências a esses cursos aparecem em vários pontos).",
+  "instrucoes": [
+    "Alterador 1, n.º 24.º: derrogação da portaria na parte respeitante ao curso de Pilotagem; não textual, não aplicada. O n.º 22.º (transição de alunos) não altera o texto.",
+    "Alterador 2, n.º 23.º: derrogação na parte respeitante ao curso de Engenharia de Máquinas; não textual, não aplicada. O n.º 21.º (transição) não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

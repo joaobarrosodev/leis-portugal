@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:552836:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As Portarias n.º 1193/2000 (alterador 1, n.º 1.º) e n.º 1269/2003 (alterador 2, n.º 1.º) substituem o plano de estudos / anexo I, que só vem em quadros/imagem no documento original; não aplicadas. O n.º 2.º do alterador 1 (semanas lectivas) é norma própria, não alteração do original.",
+  "instrucoes": [
+    "Alt. 1, n.º 1.º: plano de estudos (anexo I) passa a ser o do anexo — só em imagem, não aplicado.",
+    "Alt. 2, n.º 1.º: anexo I passa a ter a redacção do anexo — só em quadros/imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:514793:por",
+  "substituicoes": [
+    {
+      "de": 47,
+      "ate": 47,
+      "texto": "",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Decreto-Lei n.º 306/90) transfere a competência para conceder autorizações de venda para outras entidades sem alterar textualmente a portaria.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: eliminada do n.º 18.º a indicação da 8.ª linha (preço de venda ao público); eliminada a unidade 47.",
+    "Alterador 2, artigo 1.º: transferência de competências sem alteração textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

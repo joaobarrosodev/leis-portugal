@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:574100:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 316/92) altera o plano de estudos do curso de técnico de construção civil/desenho segundo mapa anexo só em imagem. Alteradores 2 (Portaria n.º 888/2005) e 3 (Portaria n.º 897/2005) extinguem os cursos de construção civil/desenho, construção civil/medições e orçamentos e informática - fundamental e revogam parcialmente o original «nas partes que àqueles cursos respeitam», sem instrução textual; não aplicado ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: alteração do plano de estudos (anexo em imagem): não aplicada.",
+    "Alterador 2, 6.º e 7.º: extinção dos cursos de construção civil/desenho e construção civil/medições e orçamentos e revogação parcial na parte respetiva: não textual, não aplicada.",
+    "Alterador 3, 6.º e 7.º: extinção do curso de técnico de informática - fundamental e revogação parcial na parte respetiva: não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

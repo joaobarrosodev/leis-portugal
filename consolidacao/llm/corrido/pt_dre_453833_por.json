@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:453833:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "As áreas científicas e as unidades de crédito que integram o plano de estudos do curso no ramo de Psicologia Social distribuem-se da seguinte forma:",
+      "alterador": 3
+    },
+    {
+      "de": 18,
+      "ate": 21,
+      "texto": "e) Ciências da Educação ... 2\n\nf) Matemática e Estatística ... 15\n\ng) Psicologia Social ... 21",
+      "alterador": 3
+    },
+    {
+      "de": 23,
+      "ate": 26,
+      "texto": "a) Psicologia ... 12\n\nb) Biologia ... 12\n\nc) Ciências Sociais ... 12\n\nd) Ciências da Educação ... 12\n\ne) Matemática e Estatística ... 12",
+      "alterador": 3
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "Total ... 140",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º; ultrapassada pelas redações dos alteradores 2 e 3 do mesmo número.",
+    "Alterador 2, 1.º, n.os 1 a 3: alteram a Portaria n.º 654/82, outro diploma; ignorados.",
+    "Alterador 2, 1.º, n.º 4: nova redação do n.º 2.º da Portaria n.º 777/83; ultrapassada pela redação do alterador 3.",
+    "Alterador 2, 2.º: início de funcionamento; norma própria, sem alteração ao texto.",
+    "Alterador 3: nova redação do n.º 2.º; substituí as unidades que mudam face ao texto atual (12, 18-21, 23-26 e 28), mantendo a numeração 2.º e a epígrafe."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

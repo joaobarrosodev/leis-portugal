@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:419778:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: aditamento às vagas do anexo (Universidade do Minho, educadores de infância, 30 vagas), mas o anexo do original só existe em imagem, sem sítio onde inserir; Alterador 2, 2.º, e Alterador 3, 1.º: nova redação de partes do anexo só em imagem. Não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º e 3.º: dizem respeito à Portaria 361-A/87 e a candidaturas — não ao original; ignorados.",
+    "Alterador 1, 2.º: aditamento ao anexo de vagas (anexo em imagem); não aplicado.",
+    "Alterador 2, 1.º: altera a Portaria 815/84 — outro diploma; ignorado. 2.º: parte do anexo relativa à Faculdade de Arquitectura do Porto, só em imagem; não aplicado.",
+    "Alterador 3, 1.º: parte do anexo relativa à ESE da Madeira, só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

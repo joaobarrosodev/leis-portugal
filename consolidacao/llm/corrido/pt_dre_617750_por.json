@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:617750:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Estômbar, município de Lagoa, com a área de 495,74 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, 2.º: a nova planta substitui a anexa ao original, mas a planta só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º (1028,5380 ha) -> depois substituída pela do alterador 2 na mesma unidade 6.",
+    "Alt. 1, 2.º: substituição da planta anexa; só em imagem, não aplicado.",
+    "Alt. 2, 1.º: nova redação do n.º 1.º (495,74 ha) -> substituída a unidade 6, mantendo a numeração 1.º.",
+    "Alt. 2: aditado o n.º 1.º-A -> inserido depois da unidade 6.",
+    "Alt. 3: suspensão da exploração cinegética; não textual, nada feito.",
+    "Alt. 4: revoga a Portaria 656/98 (outro diploma); nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

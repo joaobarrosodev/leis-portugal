@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:513261:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o anexo (plano de estudos) passa a ter a redação do anexo do alterador, mas os quadros só existem em imagem. Os n.os 2.º a 5.º do alterador são disposições próprias, sem nova redação dos números do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição do anexo (quadros em imagem) — não aplicável.",
+    "Alterador 1, 2.º a 5.º: semanas letivas, número máximo de alunos, transição e aplicação — disposições próprias, não aplicadas ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

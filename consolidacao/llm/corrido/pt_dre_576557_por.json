@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:576557:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 (Portaria n.º 662/82, n.º 1.º) altera a redacção do quadro do n.º 1.º, mas o quadro novo (tal como o original, unidade 6) só vem em imagem no documento original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redacção do quadro do n.º 1.º, só em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

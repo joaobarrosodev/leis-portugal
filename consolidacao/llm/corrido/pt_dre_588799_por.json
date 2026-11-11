@@ -1,0 +1,76 @@
+{
+  "id": "pt:dre:588799:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "2.º Para os efeitos previstos no presente diploma, considera-se 'pescador' o cidadão com residência ou permanência legal em território português, inscrito marítimo, titular de cédula marítima válida, que exerça a sua actividade profissional principal a bordo de uma embarcação de pesca comercial em actividade.",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "a) Façam parte do rol de tripulação da embarcação de pesca objecto de alguma das medidas estruturais previstas no n.º 1.º durante os seis meses imediatamente anteriores à data em que tenham sido requeridos os apoios à constituição da sociedade mista ou à paragem definitiva ou durante 210 dias nos nove meses imediatamente anteriores à referida data e, em qualquer dos casos, constem do rol de tripulação daquela embarcação à data da decisão final;",
+      "alterador": 1
+    },
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "5.º - 1 - As candidaturas ao prémio individual são apresentadas, em triplicado, na sede ou nas direcções regionais da Direcção-Geral das Pescas e Aquicultura (DGPA) ou nos serviços regionais do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas, no prazo de 90 dias após a cessação do contrato de trabalho ou actividade profissional, comprovada pela baixa de matrícula respectiva por força de qualquer das causas previstas no n.º 1.º",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "b) Não tenham beneficiado de idêntico apoio ao abrigo da Portaria n.º 693-A/96, de 25 de Novembro, relativamente à mesma embarcação.",
+      "alterador": 1
+    },
+    {
+      "de": 39,
+      "ate": 39,
+      "texto": "4 - As capitanias comunicarão à DGPA e ao IFADAP o regresso antecipado à actividade dos pescadores beneficiários deste apoio.",
+      "alterador": 1
+    },
+    {
+      "de": 42,
+      "ate": 42,
+      "texto": "3 - O pagamento do apoio é feito pelo IFADAP de uma só vez e após o efectivo cancelamento do registo da embarcação em causa à frota de pesca.",
+      "alterador": 1
+    },
+    {
+      "de": 43,
+      "ate": 43,
+      "texto": "10.º - 1 - Os apoios previstos no presente diploma não são acumuláveis com qualquer prestação de protecção no desemprego.",
+      "alterador": 1
+    },
+    {
+      "de": 49,
+      "ate": 49,
+      "texto": "b) Informar a DGPA e o IFADAP de qualquer alteração das condições que suportaram a decisão de concessão dos apoios, nomeadamente o reinício da actividade profissional de pescador antes de 12 meses.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 51,
+      "texto": "14.º - 1 - Os pescadores matriculados em embarcação que tenha sido objecto de uma paragem definitiva autorizada no âmbito de alguma das medidas estruturais previstas no n.º 1.º antes da data de entrada em vigor da Portaria n.º 1261/2001, de 31 de Outubro, mas após 1 de Janeiro de 1999, poderão apresentar candidatura ao prémio individual ali previsto até 20 de Abril de 2002, reunidas que estejam as condições previstas nas alíneas a) e b) do n.º 6.º daquela, com a redacção dada pelo presente diploma.\n\n2 - O disposto no número anterior aplica-se a todas as candidaturas entradas na Direcção-Geral das Pescas e Aquicultura após 31 de Outubro de 2001.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (art. 3.º, alínea d): data limite de candidaturas) e alterador 3 (nova data limite e derrogação do n.º 1 do n.º 5.º) são normas próprias, sem alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2.º — unidade 9.",
+    "Alterador 1, 1.º: nova redação da alínea a) do n.º 3.º (corpo igual) — unidade 11.",
+    "Alterador 1, 1.º: nova redação do n.º 1 do n.º 5.º — unidade 18.",
+    "Alterador 1, 1.º: nova redação da alínea b) do n.º 6.º — unidade 30.",
+    "Alterador 1, 1.º: nova redação do n.º 4 do n.º 8.º — unidade 39.",
+    "Alterador 1, 1.º: nova redação do n.º 3 do n.º 9.º — unidade 42.",
+    "Alterador 1, 1.º: nova redação dos n.os 1 e 3 do n.º 10.º — unidade 43; o n.º 3 (unidade 45) tem texto igual, sem mudança.",
+    "Alterador 1, 1.º: nova redação da alínea b) do n.º 11.º — unidade 49.",
+    "Alterador 1, 2.º: aditado o n.º 14.º — inserido após a unidade 51.",
+    "Alteradores 2 e 3: datas limite de candidaturas — não textuais, não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

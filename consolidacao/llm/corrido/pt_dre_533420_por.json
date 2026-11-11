@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:533420:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "3 - Determinar que o mandato da Estrutura de Missão tem início no dia 1 de Dezembro de 2005 e termina em 30 de Abril de 2008, competindo-lhe:",
+      "alterador": 2
+    },
+    {
+      "de": 18,
+      "ate": 20,
+      "texto": "5 - Estipular que, na directa dependência do encarregado de missão, a Estrutura de Missão tem um núcleo permanente e duas unidades de apoio administrativo, sendo aquela constituída por um funcionário proveniente dos quadros da Administração Pública responsável pelo desempenho de funções de coordenador de projecto equiparado para efeitos remuneratórios a chefe de divisão.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 5 (corpo e alíneas a) a c)); substituída depois pela redação do alterador 2, pelo que o resultado final das unidades 18-20 é o do alterador 2.",
+    "Alterador 2: nova redação do corpo do n.º 3 (termo do mandato a 30 de Abril de 2008) - unidade 10 substituída; alíneas mantidas ([...]).",
+    "Alterador 2: nova redação do n.º 5, sem alíneas - unidades 18 a 20 substituídas por um só parágrafo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

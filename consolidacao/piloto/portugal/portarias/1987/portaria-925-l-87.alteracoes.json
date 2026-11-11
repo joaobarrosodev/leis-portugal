@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Nos serviços a táxi em automóveis de aluguer com distintivo e cor padrão será aplicada, a partir das 22 horas e até às 6 horas, uma tarifa de serviço nocturno. A mudança da tarifa será efectuada mesmo no decurso dos serviços que tenham o seu início antes das 22 horas ou o seu termo depois das 6 horas.",
+    "depois": "3.º Nos serviços a táxi em automóveis de aluguer com distintivo e cor padrão será aplicada uma tarifa especial das 22 horas às 6 horas e aos sábados, domingos e feriados nacionais durante todo o dia. A mudança da tarifa será efectuada mesmo no decurso dos serviços que tenham o seu início antes das 22 horas ou o seu termo depois das 6 horas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514039:por",
+    "alterador": "pt:dre:149830:por"
+  }
+]

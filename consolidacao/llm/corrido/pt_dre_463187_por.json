@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:463187:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Triana, município de Alenquer, com a área de 2214,0252 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Plantas (Portarias 879/97 e 127/2004) só em imagem; a suspensão da caça (Portaria 663/2003) e a renovação (Portaria 127/2004) não alteram o texto.",
+  "instrucoes": [
+    "P. 879/97 1.º: nova redação do n.º 1.º -> substituída a unidade 6",
+    "P. 879/97 1.º: aditado o n.º 1.º-A -> inserido depois da unidade 6",
+    "P. 663/2003: suspensão do exercício da caça -> não textual",
+    "P. 127/2004: renovação da concessão e revogação da P. 663/2003 -> não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

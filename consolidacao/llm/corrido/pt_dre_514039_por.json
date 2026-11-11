@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:514039:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "3.º Nos serviços a táxi em automóveis de aluguer com distintivo e cor padrão será aplicada uma tarifa especial das 22 horas às 6 horas e aos sábados, domingos e feriados nacionais durante todo o dia. A mudança da tarifa será efectuada mesmo no decurso dos serviços que tenham o seu início antes das 22 horas ou o seu termo depois das 6 horas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 3.º; substituída a unidade 8."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

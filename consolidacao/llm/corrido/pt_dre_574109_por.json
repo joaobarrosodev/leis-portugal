@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:574109:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 (Portaria n.º 913/2005, n.os 6.º e 7.º) e 2 (Portaria n.º 899/2005, n.os 6.º e 7.º) extinguem os cursos de técnico de informática-gestão e de técnico de gestão de pequenas e médias empresas e cooperativas e revogam a Portaria n.º 722/90 só parcialmente, 'nas partes que àqueles cursos respeitam', mantendo os planos em vigor para os alunos que já os iniciaram; não é uma alteração textual de unidades determinadas, pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 6.º e 7.º: extinção do curso de técnico de informática-gestão e revogação parcial da portaria nas partes respeitantes a esse curso; não textual, não aplicada.",
+    "Alterador 1, n.º 8.º: revogação total só das restantes portarias do n.º 6.º (a 722/90 está no n.º 7.º); não se aplica ao original.",
+    "Alterador 2, n.º 6.º e 7.º: extinção do curso de técnico de gestão de PME e cooperativas e revogação parcial nas partes respeitantes; não textual, não aplicada.",
+    "Alterador 2, n.º 8.º: revogação total só das restantes portarias; não se aplica ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

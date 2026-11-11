@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º Por despacho do director-geral de Viação poderão ser dispensados da frequência das lições teóricas e técnicas, a que se refere a parte final do número anterior, os instruendos que sejam titulares de documentos que os habilitem legalmente a conduzir veículos automóveis, assim como reduzido o número de lições práticas.",
+    "depois": "4.º Por despacho do director-geral de Viação poderá ser dispensada ou reduzida a frequência de lições a que se refere a parte final do número anterior aos instruendos que sejam titulares de documentos que os habilitem a conduzir veículos automóveis, velocípedes com motor ou ciclomotores.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:448922:por",
+    "alterador": "pt:dre:363896:por"
+  },
+  {
+    "artigo": "unidades 22-22",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º A propositura a exame de condução a que se refere o n.º 1 do artigo 48.º do Código da Estrada só poderá ser feita para os instruendos devidamente inscritos na entidade proponente e que nela tenham recebido, completado ou complementado as lições de frequência obrigatória.",
+    "depois": "7.º A propositura a exame de condução só poderá ser feita para os instruendos inscritos na entidade proponente.\n\nNos concelhos em que não exista escola de condução autorizada a ministrar o ensino a candidatos a condutores de tractores agrícolas, qualquer escola ou instrutor por conta própria pode subscrever a propositura a exame destes candidatos.\n\nNos restantes concelhos, só as escolas que disponham de tractor agrícola licenciado para a instrução podem propor a exame candidatos a condutores destes veículos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:448922:por",
+    "alterador": "pt:dre:363896:por"
+  },
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "10.º O director-geral de Viação fixará, por despacho, as normas necessárias à boa execução da presente portaria.",
+    "depois": "10.º O disposto na presente portaria não é aplicável:\n\na) Aos exames de condução determinados ao abrigo do n.º 8 do artigo 47.º do Código da Estrada;\n\nb) Aos exames de condução de candidatos de nacionalidade estrangeira, quando estes sejam titulares de licença que os habilitasse a conduzir em Portugal, há menos de três anos, a classe ou classes de veículos para que requeiram exame;\n\nc) Aos exames de condução de candidatos de nacionalidade estrangeira, quando sejam titulares de licença válida para a condução, há menos de três anos, da classe ou classes de veículos para que requereram exame, que, nos termos do n.º 1 do artigo 46.º do Código da Estrada, não habilite a conduzir em Portugal;\n\nd) Aos exames de condução de candidatos de nacionalidade portuguesa, quando sejam titulares de licença estrangeira que os habilitasse a conduzir em Portugal, há menos de três anos, a classe de veículos para que requereram exame, desde que comprovem a titularidade pela entrega da respectiva licença, a qual ficará arquivada junto do competente processo;\n\ne) Aos exames de condução de candidatos titulares de boletins militares de condução, quando não tenham requerido a sua troca por carta de condução, nos termos do n.º 5 do artigo 47.º do Código da Estrada.\n\nf) Às provas práticas de exames de condução dos candidatos que careçam de veículo especialmente adaptado.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:448922:por",
+    "alterador": "pt:dre:363896:por"
+  },
+  {
+    "artigo": "depois da unidade 25",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "11.º O director-geral de Viação fixará, por despacho, as normas necessárias à boa execução do presente diploma.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:448922:por",
+    "alterador": "pt:dre:363896:por"
+  }
+]

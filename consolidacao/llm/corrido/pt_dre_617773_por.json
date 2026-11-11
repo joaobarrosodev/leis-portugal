@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:617773:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Évora de Alcobaça, município de Alcobaça, com a área de 1949,30 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, 2.º: o n.º 6.º passa a obrigar a manter apenas um guarda florestal auxiliar, mas sem nova redação do texto; não aplicado. Alterador 3 diz no preâmbulo que a área é 1926 ha e não 1949,30 ha, sem nova redação do n.º 1.º; não aplicado.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º -> substituída a unidade 6, mantendo a numeração 1.º.",
+    "Alt. 1: aditado o n.º 1.º-A -> inserido depois da unidade 6.",
+    "Alt. 1, 2.º: n.º 6.º passa a um guarda; alteração não textual, não aplicada.",
+    "Alt. 2: suspensão do exercício da caça; não textual, nada feito.",
+    "Alt. 3: renovação (1926 ha) e revogação da Portaria 904/2004 (outro diploma); nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

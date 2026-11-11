@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º O custo do bilhete de entrada é de 15$00, sendo a entrada livre às quartas-feiras.",
+    "depois": "2.º O preço do bilhete de entrada será fixado por despacho do Chefe do Estado-Maior da Armada (CEMA), sendo a entrada livre às quartas-feiras.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:474526:por",
+    "alterador": "pt:dre:395885:por;pt:dre:570372:por"
+  },
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) As praças da Armada dos quadros permanentes, mediante a apresentação do bilhete de identidade militar;",
+    "depois": "b) As praças dos quadros permanentes das forças armadas, mediante a apresentação do bilhete de identidade militar;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:474526:por",
+    "alterador": "pt:dre:395885:por;pt:dre:570372:por"
+  },
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) As praças da Armada não pertencentes aos quadros permanentes, na efectividade do serviço, quando fardadas e mediante a apresentação do cartão de identificação militar;",
+    "depois": "d) As praças não pertencentes aos quadros permanentes das forças armadas, na efectividade de serviço, quando fardadas e mediante a apresentação do cartão de identificação militar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:474526:por",
+    "alterador": "pt:dre:395885:por;pt:dre:570372:por"
+  }
+]

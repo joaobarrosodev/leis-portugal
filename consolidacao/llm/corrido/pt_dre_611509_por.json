@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:611509:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O Decreto n.º 80/70 altera as áreas dos distritos de Gaza e Lourenço Marques transferindo o concelho de Magude, sem dar nova redação a nenhuma disposição do estatuto (o artigo 56.º não é reescrito); alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, artigo único: transferência do concelho de Magude do distrito de Gaza para o de Lourenço Marques, sem nova redação do texto; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:448092:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1033-AQ/2004) suspende o exercício da caça na zona e fixa um prazo de 90 dias; alterador 2 (Portaria n.º 339/2009) revoga a concessão da zona de caça. Nenhum dá nova redação nem revoga texto da portaria: são atos sobre a concessão, não alterações textuais.",
+  "instrucoes": [
+    "Alterador 1: suspensão da caça e prazo de 90 dias para suprir a falta; não textual, não aplicado.",
+    "Alterador 2, artigo único: revoga a concessão da zona de caça associativa; ato sobre a concessão, sem alteração textual ao original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:583808:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: aditamento da disciplina de Inglês na Escola Secundária de Jaime Cortesão no anexo IV, que não existe no texto atual (só há anexos I e II, em imagem).",
+  "instrucoes": [
+    "Alterador 1: aditada disciplina de Inglês no anexo IV — anexo inexistente/em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

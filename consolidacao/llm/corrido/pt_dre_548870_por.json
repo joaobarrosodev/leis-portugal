@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:548870:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante na planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias do Bombarral e Vale Covo, município do Bombarral, com a área de 1700,3412 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, 2.º: redução para um guarda florestal auxiliar não é nova redação textual (e remete para o n.º 6.º, quando a obrigação consta do n.º 7.º). Alterador 1: nova planta só em imagem. Alteradores 2 e 3 (suspensão e renovação da concessão) não são alterações textuais.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º - unidade 6 substituída.",
+    "Alterador 1: aditamento do n.º 1.º-A - inserido depois da unidade 6.",
+    "Alterador 1, 2.º: um só guarda florestal auxiliar - não textual, não aplicado.",
+    "Alterador 2: suspensão do exercício da caça - não textual, ignorado.",
+    "Alterador 3: renovação da concessão por 11 anos (área 1949,18 ha) e revogação da Portaria n.º 1203-J/2001 - não textual, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

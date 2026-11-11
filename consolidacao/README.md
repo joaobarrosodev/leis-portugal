@@ -530,3 +530,7 @@ Mais 120 diplomas (`llm/corrido-ids-bloco6.txt`, de 2 177 candidatos; 37 saltado
 ### Bloco 7 (ronda 23)
 
 Mais 120 diplomas (`llm/corrido-ids-bloco7.txt`, de 2 057 candidatos; 37 saltados por tamanho). 20 sem alterações, 97 juntados, 3 recusados. Ronda 23: 97 verificados às cegas, **82 sem reparos: 68 % do bloco (85 % dos verificados)**. A subida (38, 32, 29, 38, 59, 49, 68 %) acompanha o peso de portarias de zonas de caça e de alterações com redação literal; os blocos de cursos e quadros de pessoal em imagem puxam para baixo. Acumulado das rondas 17 a 23: **347 em 760 (46 %)**. Ficam cerca de 1 940 candidatos.
+
+### Bloco 8 (rondas 24 e 25)
+
+Mais 120 diplomas (`llm/corrido-ids-bloco8.txt`, de 1 937 candidatos; 38 saltados por tamanho). 52 sem alterações, 68 juntados (65 na ronda 24 e 3 na ronda 25, porque o último agente respondeu depois de a ronda 24 estar aberta), 4 recusados. 68 verificados às cegas, **54 sem reparos: 45 % do bloco (79 % dos verificados)**. Acumulado das rondas 17 a 25: **401 em 880 (46 %)**. Ficam cerca de 1 820 candidatos. Lição: antes de `importar` conferir que há as 30 respostas do bloco.

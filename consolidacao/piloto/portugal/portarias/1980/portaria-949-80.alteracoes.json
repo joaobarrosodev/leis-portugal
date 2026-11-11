@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Os funcionários actualmente providos em categorias que não correspondem às designações previstas no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, transitarão para as novas categorias de acordo com as equivalências previstas no mapa II anexo.",
+    "depois": "3.º Os funcionários actualmente providos em categorias que não correspondem às designações previstas no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, transitarão para as novas categorias de acordo com as equivalências previstas no mapa II anexo, salvo o disposto no n.º 5.º",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:457982:por",
+    "alterador": "pt:dre:379734:por"
+  },
+  {
+    "artigo": "depois da unidade 10",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "5.º Transitará para a categoria de controlador-chefe o primeiro-mecanógrafo que exerce as funções constantes do n.º 3 do artigo 14.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.\n\n6.º Transitará para o lugar de analista de sistemas de 2.ª classe o técnico superior de 2.ª classe que, embora não provido no quadro de pessoal de informática, vem exercendo as respectivas funções.\n\n7.º As transições a que se refere o n.º 4.º far-se-ão sem dependência das habilitações literárias, devendo o serviço certificar, em todos os casos, o exercício efectivo das funções que integram a categoria em que se verifique o provimento.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:457982:por",
+    "alterador": "pt:dre:379734:por"
+  },
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º Para efeitos de remunerações e antiguidades este diploma produz efeitos desde 1 de Julho de 1979.",
+    "depois": "8.º As alterações resultantes da presente portaria produzirão efeitos desde 1 de Julho de 1979.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:457982:por",
+    "alterador": "pt:dre:379734:por"
+  },
+  {
+    "artigo": "depois da unidade 11",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "9.º Os funcionários providos em novas categorias após 1 de Julho de 1979 e até à data da publicação da presente portaria transitarão em função dessas categorias, contando os efeitos desta transição a partir da data do respectivo provimento nas novas categorias, sem prejuízo dos efeitos relativos à situação anterior a esse provimento, previsto no n.º 3.º do presente diploma de acordo com as equivalências estabelecidas no mapa II.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:457982:por",
+    "alterador": "pt:dre:379734:por"
+  }
+]

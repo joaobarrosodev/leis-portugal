@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 24-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Transição\n\nAs regras de transição entre o anterior e o novo plano de estudos são fixadas pelo órgão legal e estatutariamente competente do estabelecimento de ensino.",
+    "depois": "Regime transitório\n\n1 - As regras da transição entre o anterior e o novo plano de estudos são fixadas pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n2 - Aos alunos da opção e do ramo de Gestão de Comércio e Serviços é facultado, nos termos fixados pelo órgão legal e estatutariamente competente do estabelecimento de ensino, o prosseguimento dos estudos nos mesmos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:531674:por",
+    "alterador": "pt:dre:300448:por"
+  }
+]

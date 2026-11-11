@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:554613:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1286/2006 (alterador 3, n.º 7.º, alínea b)) revoga na totalidade as portarias mencionadas no seu n.º 5.º que não constam da alínea a), entre elas a Portaria n.º 924/90: o original fica revogado por inteiro. Antes disso, a Portaria n.º 208/92 (alterador 1) alterava os planos de estudo só em mapas/imagem e a Portaria n.º 913/2005 (alterador 2, n.º 7.º) revogava parcialmente o original na parte relativa ao curso de Técnico de Informática-Gestão.",
+  "instrucoes": [
+    "Alt. 1, n.º 1.º: planos de estudo alterados por mapas anexos — só em imagem, não aplicado.",
+    "Alt. 2, n.os 6.º e 7.º: extinção do curso de Técnico de Informática-Gestão e revogação parcial nessa parte — absorvida pela revogação total posterior.",
+    "Alt. 3, n.º 7.º, b): revogação total da Portaria n.º 924/90 — original revogado por inteiro, nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

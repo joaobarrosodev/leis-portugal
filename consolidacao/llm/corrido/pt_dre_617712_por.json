@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:617712:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Balazar e Fradelos, municípios da Póvoa de Varzim e Vila Nova de Famalicão, com a área de 1537 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 diz no preâmbulo que a área é 1828 ha e não 1537 ha 'por lapso', mas não dá nova redação ao n.º 1.º; não aplicado. Alteradores 2 a 4 (renovações e anexações) não são alterações textuais.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º -> substituída a unidade 6, mantendo a numeração 1.º.",
+    "Alt. 1: aditado o n.º 1.º-A -> inserido depois da unidade 6.",
+    "Alt. 2: renovação; refere no preâmbulo o lapso da área (1828 ha); não aplicado ao texto.",
+    "Alt. 3: anexação de prédios (1937,43 ha); não textual, nada feito.",
+    "Alt. 4: renovação e anexação (1796 ha); não textual, nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

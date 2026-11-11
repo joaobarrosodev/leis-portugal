@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 47-47",
+    "operacao": "remover",
+    "regra": "llm",
+    "antes": "Preço de venda ao público de cada embalagem;",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514793:por",
+    "alterador": "pt:dre:399991:por"
+  }
+]

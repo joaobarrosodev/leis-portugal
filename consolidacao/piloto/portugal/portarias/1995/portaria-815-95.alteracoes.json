@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos nas freguesias de Duas Igrejas e Miranda do Douro, município de Miranda do Douro, com uma área de 1980 ha.",
+    "depois": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Duas Igrejas e Miranda do Douro, município de Miranda do Douro, com a área de 1871,3790 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:461269:por",
+    "alterador": "pt:dre:241457:por"
+  }
+]

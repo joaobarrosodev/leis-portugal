@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:524458:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: todas as retificações (C. E. 08.02.04, 06.00.00, C. F. 3.02.0, GSEPES, IFADAP 182992, total de 184424 contos) incidem sobre os mapas da despesa, que só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1: retificações nos mapas da despesa (unidade 4, só imagem); não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

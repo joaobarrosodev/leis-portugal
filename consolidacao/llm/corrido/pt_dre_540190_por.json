@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:540190:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 263/2006) adita cursos aos anexos I e II, cujos mapas e tabelas só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: aditamento de cursos aos anexos I e II (imagem) - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

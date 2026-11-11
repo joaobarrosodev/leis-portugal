@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É homologado o protocolo que criou o Centro de Formação Profissional para a Sector Alimentar (CFPSA), outorgado entre o Instituto do Emprego e Formação Profissional e a Associação Nacional das Indústrias de Comerciantes Industriais de Produtos Alimentares (ANCIPA), a Associação Portuguesa dos Geladeiros Artesanais (ARTOGEL), a Associação dos Industriais de Panificação do Norte (AIPAN), a Associação do Centro dos Industriais da Panificação (ACIP), a Associação dos Comerciantes de Carnes do Concelho de Lisboa e Outros, a Associação dos Restaurantes e Similares do Centro e Sul de Portugal, o Sindicato Democrático da Hotelaria, Alimentação e Turismo (SINDHAT), a Associação Nacional dos Industriais de Carnes (ANIC), a Associação dos Fabricantes dos Produtos de Carnes (AFABRICAR), a Associação Nacional dos Grossistas e Transformadores de Carnes (ANATCA) e a Associação das Indústrias de Massas Alimentícias, Bolachas e Chocolates.",
+    "depois": "1.º É homologado o protocolo que criou o Centro de Formação Profissional para o Sector Alimentar (CFPSA), outorgado entre o Instituto do Emprego e Formação Profissional (IEFP) e a Associação Portuguesa de Geladeiros Artesanais (ARTOGEL), a Associação dos Industriais de Panificação, Pastelaria e Similares do Norte (AIPAN), a Associação do Centro dos Industriais de Panificação e Pastelaria (ACIP), a Associação dos Comerciantes de Carnes do Concelho de Lisboa e Outros (ACCCLO), a Associação da Restauração e Similares de Portugal (ARESP) e o Sindicato dos Trabalhadores de Escritório, Comércio, Hotelaria e Serviços (SITESE).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:421808:por",
+    "alterador": "pt:dre:167071:por"
+  },
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O Instituto do Emprego e Formação Profissional (IEFP) e a Associação Nacional das Indústrias de Comerciantes Industriais de Produtos Alimentares (ANCIPA), a Associação Portuguesa dos Geladeiros Artesanais (ARTOGEL), a Associação dos Industriais de Panificação do Norte (AIPAN), a Associação do Centro dos Industriais da Panificação (ACIP), a Associação dos Comerciantes de Carnes do Concelho de Lisboa e Outros, a Associação dos Restaurantes e Similares do Centro e Sul de Portugal, o Sindicato Democrático da Hotelaria, Alimentação e Turismo (SINDHAT), a Associação Nacional dos Industriais de Carnes (ANIC), a Associação dos Fabricantes dos Produtos de Carnes (AFABRICAR), a Associação Nacional dos Grossistas e Transformadores de Carnes (ANATCA) e a Associação das Indústrias de Massas Alimentícias, Bolachas e Chocolates adaptam o protocolo que criou o Centro de Formação Profissional de harmonia com as cláusulas seguintes:",
+    "depois": "O Instituto do Emprego e Formação Profissional (IEFP), a Associação Portuguesa de Geladeiros Artesanais (ARTOGEL), a Associação dos Industriais de Panificação, Pastelaria e Similares do Norte (AIPAN), a Associação do Centro dos Industriais de Panificação e Pastelaria (ACIP), a Associação dos Comerciantes de Carnes do Concelho de Lisboa e Outros (ACCCLO), a Associação da Restauração e Similares de Portugal (ARESP) e o Sindicato dos Trabalhadores de Escritório, Comércio, Hotelaria e Serviços (SITESE) adoptam o protocolo que criou o Centro de Formação Profissional para o Sector Alimentar (CFPSA) de harmonia com as cláusulas seguintes:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:421808:por",
+    "alterador": "pt:dre:167071:por"
+  }
+]

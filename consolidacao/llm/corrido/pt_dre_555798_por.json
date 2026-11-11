@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:555798:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Moçarria, Várzea e Almoster, município de Santarém, com a área de 637,5420 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "A planta anexa substituída pela Portaria n.º 642/97 só vem em imagem. A suspensão da actividade cinegética (Portaria n.º 345/2000, alterador 2) e a renovação da concessão por 12 anos (Portaria n.º 97-A/2001, alterador 3) não são alterações textuais do original.",
+  "instrucoes": [
+    "Alt. 1, n.º 1.º: nova redacção do n.º 1.º — unidade 6 substituída.",
+    "Alt. 1, n.º 1.º: aditado o n.º 1.º-A — inserido depois da unidade 6.",
+    "Alt. 2, n.º 1.º: suspensão da actividade cinegética por 180 dias — não textual, não aplicada.",
+    "Alt. 3, n.os 1.º e 2.º: renovação da concessão e revogação da Portaria n.º 345/2000 — não textuais, não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

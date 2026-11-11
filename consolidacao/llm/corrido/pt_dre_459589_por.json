@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:459589:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "4.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Revogação do mapa IV anexo (DL 374/88, art. 43.º, b)): os mapas I a IV só vêm em imagem numa única unidade.",
+  "instrucoes": [
+    "DL 374/88 art. 43.º b): revogado o n.º 4 -> unidade 8 fica '4.º - (Revogado.)'",
+    "DL 374/88 art. 43.º b): revogado o mapa IV -> em imagem, não aplicado",
+    "Restantes artigos do DL 374/88 não se dirigem ao original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:573714:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 612/97), 1.º: o curso de «Gestão e Administração» passa a designar-se «Tecnologias de Gestão»; a designação «Gestão e Administração» não existe no texto atual (que já diz Tecnologias de Gestão), pelo que não há texto a trocar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: alteração da denominação do curso para Tecnologias de Gestão: texto atual já tem essa designação, nada aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º: norma de aplicação própria do alterador: ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

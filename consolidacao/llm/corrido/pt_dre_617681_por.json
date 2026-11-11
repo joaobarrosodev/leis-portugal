@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:617681:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Cerdedo, município de Boticas, com a área de 1952,93 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1: substituição da planta anexa, só em imagem. Alterador 3 (anexação de prédios, 2857,1982 ha) não dá nova redação ao original.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (1958,50 ha) - substituída depois pela redação do alterador 2 na mesma unidade 6.",
+    "Alterador 1: substituição da planta anexa - só em imagem, não aplicada.",
+    "Alterador 2, 1.º: nova redação do n.º 1.º (1952,93 ha) - unidade 6 com a redação final, mantendo o número 1.º.",
+    "Alterador 2: aditado o n.º 1.º-A - inserido depois da unidade 6.",
+    "Alterador 3: anexação de prédios - não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

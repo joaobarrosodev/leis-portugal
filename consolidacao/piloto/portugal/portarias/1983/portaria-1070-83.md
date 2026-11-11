@@ -1,0 +1,243 @@
+---
+id: pt:dre:444394:por
+title: Portaria n.º 1070/83
+original: data/portugal/portarias/1983/portaria-1070-83.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:228652:por
+    title: Portaria n.º 310/86
+    publication_date: '1986-06-23'
+  - id: pt:dre:550854:por
+    title: Portaria n.º 1031/89
+    publication_date: '1989-11-27'
+  - id: pt:dre:227205:por
+    title: Portaria n.º 220/86
+    publication_date: '1986-05-15'
+---
+
+# Portaria n.º 1070/83
+
+de 29 de Dezembro
+
+Sob proposta do conselho científico da Faculdade de Letras da Universidade de Lisboa;
+
+Ao abrigo do disposto nos artigos 7.º a 9.º do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho, no [Decreto-Lei n.º 263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446), de 7 de Agosto, e no [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:
+
+1.º
+
+(Criação)
+
+A Universidade de Lisboa, através da Faculdade de Letras, concede o grau de mestre em História, em 5 áreas de especialização:
+
+a) Paleologia e Diplomática;
+
+b) História Medieval;
+
+c) História Moderna;
+
+d) História Contemporânea;
+
+e) História da Arte.
+
+2.º
+
+(Organização do curso)
+
+O curso especializado conducente ao mestrado em História organizar-se-á pelo sistema de unidades de crédito.
+
+3.º
+
+(Áreas científicas e unidades de crédito)
+
+As áreas científicas e unidades de crédito necessárias à conclusão do curso em cada área de especialização distribuem-se da seguinte forma:
+
+1.ª Área de especialização em Paleografia e Diplomática:
+
+a) Obrigatórias:
+
+I) Paleografia Portuguesa ... 6
+
+II) Diplomática e Codicologia ... 4
+
+b) Optativas:
+
+I) Instituições Medievais Portuguesas ... 6
+
+II) Latim Medieval ... 6
+
+III) Crítica Textual ... 6
+
+IV) Linguística Portuguesa Histórica ... 6
+
+2.ª Área de especialização em História Medieval:
+
+a) Obrigatórias:
+
+I) História Medieval de Portugal ... 6
+
+II) Instituições Medievais Portuguesas ... 4
+
+b) Optativas:
+
+I) Arte Medieval ... 6
+
+II) Crítica Textual ... 6
+
+III) Paleografia Medieval ... 6
+
+IV) Literatura Medieval ... 6
+
+V) Linguística Portuguesa Histórica ... 6
+
+VI) Latim Medieval ... 6
+
+3.ª área de especialização em História Moderna:
+
+> Alterado pelo/a [Portaria n.º 310/86](https://diariodarepublica.pt/dr/detalhe/portaria/310-1986-228652), publicado em 1986-06-23.
+
+a) Obrigatórias:
+
+I) História Moderna de Portugal ... 6
+
+II) Renascimento em Portugal ... 4
+
+b) Optativas:
+
+I) Inquisição e Sociedade (Séculos XVI e XVII) ... 6
+
+II) Expansão Portuguesa ... 6
+
+III) Paleografia Moderna ... 6
+
+IV) Arte do Renascimento ... 6
+
+V) Literatura Portuguesa ...6
+
+> Alterado pelo/a [Portaria n.º 310/86](https://diariodarepublica.pt/dr/detalhe/portaria/310-1986-228652), publicado em 1986-06-23.
+
+4.ª Área de especialização em História Contemporânea:
+
+> Alterado pelo/a [Portaria n.º 1031/89](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1989-550854), publicado em 1989-11-27.
+
+a) Obrigatórias:
+
+I) História Contemporânea de Portugal (Séculos XVIII-XX) ... 8
+
+II) História da Cultura Portuguesa Contemporânea (Séculos XVIII-XX) ... 4
+
+> Alterado pelo/a [Portaria n.º 1031/89](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1989-550854), publicado em 1989-11-27.
+
+b) Optativas:
+
+I) Empresas, Áreas e Legislação Económica ... 4
+
+II) Comunidade Nacional e Grupos Particulares (Séculos XVIII-XX) ... 4
+
+III) Expressões Literárias de Cultura Contemporânea ... 4
+
+IV) História Contemporânea Comparada ... 4
+
+> Alterado pelo/a [Portaria n.º 1031/89](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1989-550854), publicado em 1989-11-27.
+
+5.ª área de especialização em História da Arte:
+
+a) Obrigatórias:
+
+I) História da Arte ... 6
+
+II) História da Cultura ... 4
+
+b) Optativas:
+
+I) Paleografia ... 6
+
+II) Iconologia ... 6
+
+III) Arqueologia ... 6
+
+IV) Métodos de Laboratório Aplicados na História da Arte ... 6
+
+V) Codicologia ... 6
+
+VI) Conservação do Património Artístico Nacional ... 6
+
+> Alterado pelo/a [Portaria n.º 220/86](https://diariodarepublica.pt/dr/detalhe/portaria/220-1986-227205), publicado em 1986-05-15.
+
+4.º
+
+(Precedências)
+
+As tabelas e o regime de precedências serão fixados pelo conselho científico.
+
+5.º
+
+(Habilitação de acesso)
+
+1 - São admitidos à candidatura à matrícula no curso os titulares da licenciatura em História ou de licenciatura em áreas afins ou habilitações legalmente equivalentes, com a classificação mínima de 14 valores.
+
+2 - Excepcionalmente, em casos devidamente justificados, o conselho cientifico, poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.
+
+3 - Excepcionalmente, em casos devidamente justificados, e nos termos do n.º 4 do n.º 7.º, o conselho científico poderá admitir à candidatura à matrícula no curso os titulares de outra licenciatura pelas universidades portuguesas ou legalmente equivalente, cujo currículo demonstre uma adequada preparação científica de base.
+
+4 - Cabe ao conselho científico definir quais os cursos a incluir nas áreas afins referidas no n.º 1.
+
+6.º
+
+(«Numerus clausus»)
+
+1 - O numerus clausus do curso será fixado anualmente por despacho do Ministro da Educação.
+
+2 - No mesmo despacho serão igualmente fixadas:
+
+a) Uma percentagem do numerus clausus a destinar em prioridade a docentes de estabelecimentos de ensino superior;
+
+b) Uma percentagem do numerus clausus a destinar em prioridade a candidatos estrangeiros oriundos de países de expressão portuguesa.
+
+7.º
+
+(Critérios de selecção)
+
+1 - Os candidatos à matrícula no curso serão seleccionados pelo conselho cientifico, tendo em consideração os seguintes critérios:
+
+a) Classificação da licenciatura a que se refere o n.º 5.º;
+
+b) Currículo académico, científico e técnico;
+
+c) Experiência docente.
+
+2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 2, alínea a), do n.º 6.º, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino superior.
+
+3 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção, para avaliação do nível daqueles nas áreas científicas de base correspondentes ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciaturas ou outras como condição prévia para a candidatura à matrícula no curso.
+
+4 - Os candidatos a que se refere o n.º 3 do n.º 5.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.
+
+5 - A selecção a que se refere o n.º 2 do n.º 6.º será feita pelo conselho científico da Faculdade de Letras da Universidade de Lisboa, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.
+
+8.º
+
+(Regime geral)
+
+As regras de matrícula e inscrição e, bem assim, o regime de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso, serão os previstos na lei para os cursos de licenciatura, naquilo em que não forem contrariados pelo disposto na presente portaria e pela natureza do curso.
+
+9.º
+
+Os prazos de candidatura e inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o n.º 6.º
+
+10.º
+
+(Dispensa das provas complementares de doutoramento)
+
+Os titulares de aprovação no curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do Decreto-Lei no 388/70, de 18 de Agosto, para a obtenção do grau de doutor em Letras nas seguintes especialidades:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/29900/41424144.pdf)
+
+Ministério da Educação.
+
+Assinada em 31 de Outubro de 1983.
+
+O Ministro da Educação, José Augusto Seabra.

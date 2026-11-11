@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:583804:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: os quadros I, II e IV do anexo I são substituídos por quadros que só vêm em imagem, e o anexo I do original também só existe em imagem. Alterador 2: aditamento da Escola Secundária de Josefa de Óbidos ao mapa IV do anexo I, que só existe em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º, n.os 1 a 3: nova redação dos quadros I, II e IV do anexo I — em imagem, não aplicada.",
+    "Alterador 2: aditada escola ao mapa IV do anexo I — em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

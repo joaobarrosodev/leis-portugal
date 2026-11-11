@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 335",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "Iniciados no ano lectivo de 1980-1981:\n\nCursos de:\n\nFisioterapia;\n\nOrtóptica.\n\nIniciados no ano lectivo de 1981-1982:\n\nCursos de:\n\nAnálises Clínicas e Saúde Pública;\n\nMedicina Nuclear;\n\nNeurofisiografia.\n\nIniciados no ano lectivo de 1982-1983:\n\nCursos de:\n\nAnatomia Patológica;\n\nFisioterapia.\n\nIniciados no ano lectivo de 1983-1984:\n\nCursos de:\n\nAudiometria;\n\nCardiopneumografia;\n\nMedicina Nuclear;\n\nRadioterapia;\n\nTerapêutica da Fala;\n\nTerapêutica Ocupacional.\n\nIniciados no ano lectivo de 1985-1986:\n\nCursos de:\n\nAnálises Clínicas e Saúde Pública;\n\nCardiopneumografia;\n\nTerapêutica Ocupacional.\n\nIniciados no ano lectivo de 1987-1988:\n\nCursos de:\n\nMedicina Nuclear;\n\nTerapêutica da Fala;\n\nTerapêutica Ocupacional.\n\nIniciado no ano lectivo de 1989-1990:\n\nCurso de:\n\nCardiopneumografia.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:479396:por",
+    "alterador": "pt:dre:138814:por"
+  }
+]

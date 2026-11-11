@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 31-31",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - A listagem das disciplinas optativas, por opção, é apresentada no anexo III.",
+    "depois": "4 - O elenco das disciplinas optativas de cada uma das opções a que se refere o n.º 3.º é fixado anualmente pelo conselho científico.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:506635:por",
+    "alterador": "pt:dre:672659:por"
+  }
+]

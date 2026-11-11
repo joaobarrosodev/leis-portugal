@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 103-103",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4. Da decisão do Subchefe do Estado-Maior da Força Aérea (Pessoal) pode ainda haver recurso para o Conselho Superior de Disciplina da Força Aérea.",
+    "depois": "4 - Da decisão do Subchefe do Estado-Maior da Força Aérea (Pessoal) pode ainda haver recurso para o Chefe do Estado-Maior da Força Aérea, que decidirá, se necessário, após parecer do Conselho Superior de Disciplina da Força Aérea, de acordo com a alínea f) do artigo 134.º do RDM.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:507453:por",
+    "alterador": "pt:dre:445954:por"
+  }
+]

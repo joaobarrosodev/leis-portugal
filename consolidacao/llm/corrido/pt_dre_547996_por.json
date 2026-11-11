@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:547996:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 318/2002): o novo plano de estudos (anexo) só vem em imagem; as restantes disposições (número máximo de alunos, opções, transição, duração do ano lectivo, aplicação) são próprias e não dão nova redação ao texto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos (anexo em imagem) - não aplicado.",
+    "Alterador 1, 2.º a 6.º: disposições próprias, não dirigidas ao texto do original - ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:617500:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Vale, São Jorge e Ermelo, município de Arcos de Valdevez, com a área de 1365 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 a 5 (renovação, anexações e desanexação de prédios, com novas áreas e plantas só em imagem) não dão nova redação a nenhum ponto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º (1365 ha) - substituída a unidade 6, mantendo o número 1.º.",
+    "Alterador 1: aditado o n.º 1.º-A - inserido depois da unidade 6.",
+    "Alterador 2: renovação da concessão - não textual, não aplicada.",
+    "Alterador 3: anexação de prédios (1990 ha) - não textual, não aplicada.",
+    "Alterador 4: anexação de prédios (2990 ha) - não textual, não aplicada.",
+    "Alterador 5: desanexação e anexação (3626 ha) - não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

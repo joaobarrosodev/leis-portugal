@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:614634:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "3.º Os agricultores estão obrigados a apresentar, no acto de inscrição:\n\na) Documento comprovativo de que se encontram inscritos na Segurança Social como produtores agrícolas ou, no caso dos agrupamentos, como contribuintes no âmbito de uma actividade agrícola;\n\nb) Boletim de vacinação da febre aftosa, no caso dos bovinos, excepto quando não tenha havido campanhas de vacinação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O 4.º da Portaria n.º 210/90 revoga o n.º 3.º, o mesmo a que o seu 1.º acaba de dar nova redação; a contradição indica gralha quanto ao número revogado, pelo que a revogação não foi aplicada.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 3.º (unidade 9), aplicada.",
+    "Alterador 1, 2.º e 3.º: prazos de inscrição e reclamação para 1990, normas autónomas; nada a mudar.",
+    "Alterador 1, 4.º: revoga o n.º 3.º, contraditório com o 1.º; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

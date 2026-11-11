@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:412625:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (DL 537/75), art. 1.º: extingue o Fundo do Instituto de Higiene e Medicina Tropical criado pelo art. 11.º, sem revogar nem dar nova redação ao texto; alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: extinção do Fundo criado pelo art. 11.º e destino do saldo — efeito material, não textual; não aplicado.",
+    "Alterador 1, art. 2.º: revoga a Lei de 1896, a base XVIII da Lei n.º 1920 e alínea do DL 42871 — outros diplomas; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:604619:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 7,
+      "texto": "1 - Autorizar o Instituto de Gestão do Crédito Público, I. P., a contrair, em nome e representação da República Portuguesa, empréstimos sob as formas de representação indicadas nos números seguintes desta resolução, nos termos e destinados às finalidades referidas nos artigos 62.º e 63.º da [Lei n.º 55-B/2004](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), de 30 de Dezembro, alterada pela [Lei n.º 39-A/2005](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), de 29 de Julho.\n\n2 - Determinar que a emissão de obrigações do Tesouro é autorizada até ao montante máximo de 18000 milhões de euros, de acordo com o disposto no [Decreto-Lei n.º 280/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1998-241413), de 17 de Setembro, e no respeito pelas seguintes condições complementares:",
+      "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 16,
+      "texto": "3 - Determinar que a emissão de dívida pública fundada sob a forma de bilhetes do Tesouro é autorizada até ao montante máximo de 12500 milhões de euros, de acordo com o disposto no [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), de 17 de Setembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 91/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2003-571434), de 30 de Abril.\n\n4 - Determinar que a emissão de certificados de aforro é autorizada até ao montante máximo de 2000 milhões de euros.\n\n5 - Determinar que a emissão de outra dívida pública fundada, denominada em moeda com ou sem curso legal em Portugal, sob formas de representação distintas das indicadas nos números anteriores, é autorizada até ao montante máximo de 4000 milhões de euros.\n\n6 - Determinar que o montante total das emissões de empréstimos públicos que sejam realizadas nos termos do disposto nos precedentes n.os 1 a 4 não pode, em caso algum, ultrapassar o limite decorrente dos artigos 62.º, 63.º e 64.º da [Lei n.º 55-B/2004](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), de 30 de Dezembro, alterada pela [Lei n.º 39-A/2005](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), de 29 de Julho.\n\n7 - Determinar que, por despacho do Ministro de Estado e das Finanças, podem ser anulados montantes autorizados, mas não colocados, de alguma ou algumas das formas de representação de empréstimos públicos previstas nos números anteriores e aumentados, no mesmo valor, os montantes autorizados para outra ou outras dessas formas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 2: nova redação dos n.os 1 a 7 da resolução — unidades 6-7 e 12-16 substituídas; alíneas a) a d) do n.º 2 ficam ([...]); o n.º 8 (unidade 17), fora da nova redação, mantém-se."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

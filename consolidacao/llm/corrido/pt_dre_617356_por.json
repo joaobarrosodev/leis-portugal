@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:617356:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Terrenho, Castanheira, Sebadelhe da Serra e Torre do Terrenho, município de Trancoso, com a área de 1935 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2, 3 e 4 (suspensão do exercício da caça, renovação da concessão com nova área e planta, anexação de prédios) não dão nova redação a nenhum ponto do original; a planta só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º (área 1935 ha) - substituída a unidade 6, mantendo o número 1.º.",
+    "Alterador 1: aditado o n.º 1.º-A - inserido depois da unidade 6.",
+    "Alterador 2: suspensão da caça - não textual, não aplicada.",
+    "Alterador 3: renovação da concessão (1844 ha) - não textual, não aplicada.",
+    "Alterador 4: anexação de prédios (3962 ha) - não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

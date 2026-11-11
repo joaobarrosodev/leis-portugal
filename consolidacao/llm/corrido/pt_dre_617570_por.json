@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:617570:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Bogalhal, Valbom e Santa Eufémia, município de Pinhel, com a área de 1621 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2, 3 e 4 (suspensão da atividade cinegética e renovações da concessão) não dão nova redação ao original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º (1621 ha) - substituída a unidade 6, mantendo o número 1.º.",
+    "Alterador 1: aditado o n.º 1.º-A - inserido depois da unidade 6.",
+    "Alterador 2: suspensão da atividade cinegética - não textual, não aplicada.",
+    "Alterador 3: renovação até 2009 - não textual, não aplicada.",
+    "Alterador 4: renovação por 12 anos (1613 ha) - não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
