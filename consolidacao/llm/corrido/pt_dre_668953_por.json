@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:668953:por",
+  "substituicoes": [
+    {
+      "de": 105,
+      "ate": 110,
+      "texto": "42 - A classificação final das disciplinas referidas no número anterior é o resultado da média ponderada, arredondada às unidades, da classificação obtida na avaliação interna final da disciplina e da classificação obtida em exame final, de acordo com a seguinte fórmula:\n\nCFD = (7 CIF + 3 CE)/10\n\nem que:\n\nCFD - classificação final da disciplina;\n\nCIF - classificação interna final, que é a média aritmética simples, arredondada às unidades, das classificações obtidas na avaliação interna referente aos anos em que a disciplina foi ministrada;\n\nCE - classificação do exame final.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 131,
+      "texto": "58.1 - A classificação interna de frequência obtida pelo aluno que efectuou a matrícula ao abrigo do disposto no n.º 1 do despacho n.º 16068/2005 (2.ª série), de 22 de Julho, é considerada para o cálculo da classificação final da disciplina, independentemente do ano de aprovação no curso já concluído.\n\n58.2 - A faculdade prevista no número anterior é exercida uma única vez para todo o curso.\n\n58.3 - Para os efeitos do disposto no n.º 58 do [Despacho Normativo n.º 338/93](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/338-1993-668953), de 21 de Outubro, é considerada a classificação final mais elevada obtida na disciplina.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 3 (Despacho Normativo n.º 15/2006), n.º 10: 'As disposições constantes do Despacho Normativo n.º 338/93 [...] são adaptadas ao disposto no presente despacho' - adaptação genérica sem nova redação, não textual; não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 42 (corpo, fórmula e legenda); substituídas as unidades 105-110.",
+    "Alterador 2, n.º 1: aditados os n.os 58.1, 58.2 e 58.3, inseridos a seguir ao n.º 58 (unidade 131).",
+    "Alterador 3: regras próprias de exames 2006-2007 que remetem para os n.os 39-42 do original; n.º 10 de adaptação genérica não aplicado; n.º 11 revoga ponto de outro despacho (4/2006): ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

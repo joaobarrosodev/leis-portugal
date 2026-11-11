@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 14-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Educação Especial - Educação Pré-Escolar e Ensino Básico (1.º ciclo), nas opções de:\n\nDeficiência Auditiva e Problemas de Linguagem;\n\nDeficiência Visual e Multideficiência;\n\nDeficiências Motoras e Mental;\n\nb) Educação Especial - Ensino Básico (2.º e 3.º ciclos) e Ensino Secundário;",
+    "depois": "a) Educação Especial - Educação Pré-Escolar e Ensino Básico (1.º Ciclo), nas opções de:\n\nDeficiência Mental e Deficiência Auditiva;\n\nDeficiência Mental e Deficiência Visual;\n\nDeficiência Mental e Deficiência Motora;\n\nb) Educação Especial - Ensino Básico (2.º e 3.º Ciclos) e Ensino Secundário;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:344443:por",
+    "alterador": "pt:dre:513786:por"
+  }
+]

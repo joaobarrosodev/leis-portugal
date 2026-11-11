@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:284760:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: retificação na p. 49 («Cap. 03» passa a «Cap. 01», div. 03, subdiv. 01, C. E. 04.00.00) incide no mapa de transferências, que só vem em imagem (unidade 3); não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1: retificação de «Cap. 03, div. 03, subdiv. 01, C. E. 04.00.00 - Transferências correntes» para «Cap. 01, ...» no mapa em imagem; não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

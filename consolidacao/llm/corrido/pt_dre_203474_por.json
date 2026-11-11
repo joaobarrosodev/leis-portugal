@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:203474:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 13 mudam denominações, opções, ramos, duração ou planos de estudos de cursos que constam dos quadros do anexo, só publicados em imagem, ou revogam a portaria só na parte de certos cursos do anexo; nada aplicável ao texto.",
+  "instrucoes": [
+    "Alts. 1, 5, 8, 9, 10, 13: mudam denominações/ramos/opções de cursos do anexo em imagem; não aplicados.",
+    "Alts. 2, 4, 11: aditam opções e ramos ao curso de Música (anexo em imagem); não aplicados.",
+    "Alts. 6, 7: mudam a duração do 2.º ciclo de cursos e anexos de outras portarias; não aplicados.",
+    "Alts. 3 e 12: fazem cessar cursos e revogam a portaria só na parte relativa a esses cursos (anexo em imagem); não aplicados.",
+    "Restantes disposições: planos de estudos, transição e aplicação, autónomas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

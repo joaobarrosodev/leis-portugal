@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:532435:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 21,
+      "texto": "2 - Os projectos relativos às acções específicas devem ser apresentados até ao dia 30 de Março de 2006 junto das DRA da área onde se localiza a exploração do produtor de tabaco, que procede à respectiva instrução, emite parecer sobre o interesse regional dos mesmos e os remete ao Gabinete de Planeamento e Política Agro-Alimentar (GPPAA) até 15 de Abril de 2006.\n\n3 - Os projectos relativos às acções de interesse geral devem ser apresentados até 30 de Março de 2006 junto do GPPAA, podendo este organismo, sempre que entenda necessário, solicitar às DRA parecer sobre o interesse regional do projecto em questão.",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 31,
+      "texto": "6.º - 1 - O GPPAA procede à apreciação de todos os projectos, pronunciando-se sobre a sua viabilidade técnica e económica, e, durante o mês de Julho, após repartição definitiva do Fundo por cada Estado membro, procede à notificação de todos os beneficiários sobre o resultado definitivo da respectiva aprovação.\n\n2 - Os projectos devem ser executados no prazo máximo de 30 meses a contar da data de notificação do beneficiário.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º da Portaria 307/2006: nova redação dos n.os 2 e 3 do 4.º (n.º 1 com '...', mantém-se) e dos n.os 1 e 2 do 6.º; substituídas as unidades 20-21 e 30-31."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:344443:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 18,
+      "texto": "a) Educação Especial - Educação Pré-Escolar e Ensino Básico (1.º Ciclo), nas opções de:\n\nDeficiência Mental e Deficiência Auditiva;\n\nDeficiência Mental e Deficiência Visual;\n\nDeficiência Mental e Deficiência Motora;\n\nb) Educação Especial - Ensino Básico (2.º e 3.º Ciclos) e Ensino Secundário;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 147/97), 1.º, n.º 2: o quadro n.º 2 do anexo I passa a ter a redacção do quadro anexo, que só existe em imagem (o anexo I do original também só existe em imagem); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º n.º 1: nova redacção do n.º 1.º (Criação); epígrafe, corpo e frase final iguais, mudam a alínea a) (Ciclo), as três opções e a alínea b) (Ciclos): substituídas as unidades 14-18.",
+    "Alterador 1, 1.º n.º 2: substitui o quadro n.º 2 do anexo I por quadro em imagem; não aplicável.",
+    "Alterador 1, 2.º e 3.º: aplicação e transição, normas próprias; nada a mudar no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

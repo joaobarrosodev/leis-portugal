@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:374212:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 498/95), ponto 1.º: o plano de estudos (anexo, unidade 17) passa a ser o constante dos anexos I e III da Portaria n.º 498/95, que só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui o plano de estudos pelos anexos I e III (só em imagem) — não aplicado, ver nao_aplicavel.",
+    "Alterador 1, 2.º a 4.º: precedências (anexo II), regime de transição e aplicação são normas autónomas da Portaria n.º 498/95, não alteram o texto do original — nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

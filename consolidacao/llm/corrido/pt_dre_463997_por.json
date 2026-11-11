@@ -1,0 +1,60 @@
+{
+  "id": "pt:dre:463997:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "Artigo único. Os artigos 1.º, 14.º, 15.º, 16.º, 22.º, 23.º, 26.º, 29.º, 31.º, 32.º, 33.º, 34.º e 36.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, passam a ter a seguinte redacção:",
+      "alterador": 1
+    },
+    {
+      "de": 35,
+      "ate": 35,
+      "texto": "Art. 22.º - 1 - As misericórdias e outras instituições privadas de solidariedade social, as fundações e as cooperativas, bem como as congregações e associações religiosas, terão direito a receber indemnizações nos termos correspondentes à classe I, desde que provem a titularidade efectiva dos títulos ou bens à data da nacionalização, expropriação ou ocupação.",
+      "alterador": 1
+    },
+    {
+      "de": 46,
+      "ate": 46,
+      "texto": "3 - Para além do que se dispõe no n.º 5 do presente artigo e nos artigos 31.º, n.º 2, 32.º, n.os 3 e 4, 33.º, n.os 3 e 4, e 34.º, n.º 3, exceptuam-se ainda do disposto no n.º 1 as operações realizadas ao abrigo dos artigos 30.º e 35.º, para as quais poderão ser fixadas, pelo Governo, taxas mais favoráveis, tendo em conta, respectivamente, as necessidades orçamentais e a política habitacional.",
+      "alterador": 1
+    },
+    {
+      "de": 50,
+      "ate": 50,
+      "texto": "2 - Os titulares do direito à indemnização pela nacionalização ou expropriação de prédios ao abrigo da legislação sobre reforma agrária poderão também utilizar os títulos representativos desse direito para dação em pagamento de dívidas contraídas antes da nacionalização ou expropriação e relativas à actividade agrícola exercida nos prédios nacionalizados ou expropriados, provenientes de empréstimos concedidos ao titular pelo Ministério da Agricultura e Pescas ou por serviços nele integrados, por caixas de crédito agrícola mútuo, por empresas públicas ou por quaisquer instituições nacionalizadas.\n\n3 - A mobilização prevista nos números anteriores poderá efectuar-se imediatamente pelo valor nominal dos títulos.",
+      "alterador": 1
+    },
+    {
+      "de": 51,
+      "ate": 55,
+      "texto": "Art. 33.º - 1 - Poderão ainda os titulares dos direitos referidos nos artigos anteriores ceder os títulos representativos desse direito a instituições de crédito, com sub-rogação destes no correspondente direito sobre o Estado, a fim de obterem meios de financiamento para investimentos directos produtivos ou para a realização de capital de empresas, desde que tal seja necessário para a efectivação de investimentos produtivos ou para o saneamento financeiro das empresas respectivas.\n\n2 - Poderão ainda ser abrangidos igualmente, para o efeito do disposto no n.º 1, os investimentos integráveis em contratos de viabilização ou em qualquer outra forma de intervenção contratual do Estado ou de entidade pública para o efeito por ele designada.\n\n3 - A mobilização dos títulos representativos do direito à indemnização, para efeito de saneamento financeiro de empresas, poderá efectuar-se imediatamente pelo valor nominal dos títulos e será regulamentada por portaria do Ministério das Finanças e do Plano.\n\n4 - A mobilização dos títulos representativos do direito à indemnização, para efeito de realização de investimentos directos produtivos não abrangidos pelo número anterior, poderá ser efectuada por valor superior ao referido no n.º 1 do artigo 29.º e será regulamentada por portaria do Ministro das Finanças e do Plano.\n\n5 - O saneamento financeiro a considerar, ainda para o efeito do disposto no n.º 1, deverá ser acompanhado directa ou indirectamente pelo Estado, em condições a regular pelo Governo através de decreto-lei.\n\n6 - Para o efeito do n.º 1, os titulares dos créditos a mobilizar deverão apresentar em qualquer instituição de crédito um projecto pormenorizado de investimento, acompanhado de estudos de natureza técnica, económica e financeira, cuja viabilidade deve ser expressamente reconhecida pela instituição de crédito.",
+      "alterador": 1
+    },
+    {
+      "de": 56,
+      "ate": 59,
+      "texto": "Art. 34.º - 1 - Em conformidade com a definição legal dos sectores vedados à iniciativa privada, e quando for de interesse para a economia nacional, poderá ser proposta pelo Estado ou pelos indemnizados a mobilização dos títulos representativos do direito à indemnização para pagamento do preço da aquisição de participações do Estado ou do sector público empresarial em sociedades privadas, podendo ser dada preferência pela seguinte ordem:\n\na) Aos indemnizados que sejam accionistas ou sócios das sociedades privadas de que se pretenda alienar partes de capital pertencentes ao sector público e que já o fossem à data da nacionalização das empresas que detinham as partes do capital a alienar;\n\nb) Aos indemnizados que, na data da nacionalização, fossem accionistas ou sócios de empresas nacionalizadas quando estas, naquela mesma data, detivessem partes de capital nas sociedades privadas em que haja participações do sector público para as quais se admita que o preço de aquisição seja pago mediante títulos representativos do direito à indemnização.\n\n2 - Serão fixadas por portaria dos Ministros das Finanças e do Plano e da tutela das empresas públicas proprietárias das participações as condições em que o preço de aquisição pode ser pago por títulos representativos do direito à indemnização.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 50,
+      "texto": "Art. 32.º - 1 - As instituições de crédito poderão conceder crédito com pagamento caucionado por títulos representativos do direito à indemnização aos titulares desse direito desde que aquele se destine ao financiamento de investimentos directos produtivos, ou à realização do capital social de empresas, e tal seja necessário para a efectivação de investimentos produtivos ou para o saneamento financeiro das empresas respectivas.\n\n2 - Poderão ainda ser abrangidos igualmente para o efeito do disposto no n.º 1 os investimentos integráveis em contratos de desenvolvimento para a exportação, em contratos de viabilização ou em qualquer outra forma de intervenção contratual do Estado ou de entidade pública para o efeito por ele designada.\n\n3 - A mobilização dos títulos representativos do direito à indemnização para o efeito de saneamento financeiro de empresas poderá efectuar-se imediatamente pelo valor nominal dos títulos e será regulamentada por portaria do Ministro das Finanças e do Plano.\n\n4 - A mobilização dos títulos representativos do direito à indemnização para efeito de realização de investimentos produtivos não abrangidos pelo número anterior poderá ser efectuada por valor superior ao referido no n.º 1 do artigo 29.º e será regulamentada por portaria do Ministro das Finanças e do Plano.\n\n5 - O saneamento financeiro a considerar, ainda para o efeito do disposto no n.º 3, deverá ser acompanhado directa ou indirectamente pelo Estado, em condições a regular pelo Governo através de decreto-lei.\n\n6 - Para o efeito do n.º 1, os titulares dos créditos a mobilizar deverão apresentar em qualquer instituição de crédito um projecto pormenorizado de investimento, acompanhado de estudos de natureza técnica, económica e financeira, cuja viabilidade deve ser expressamente reconhecida pela instituição de crédito.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Lei 36/81 (ratificação com alterações): nova redação do artigo único do DL 343/80: proémio passa a incluir o artigo 32.º (unidade 13); art. 22.º n.º 1 nova redação (35); art. 29.º n.º 3 nova redação (46); art. 31.º n.º 2 nova redação e novo n.º 3 (50); aditado o art. 32.º (inserção após 50); art. 33.º n.os 1 a 6 nova redação (51-55); art. 34.º n.º 1, alíneas a) e b) e n.º 2 nova redação (56-59), n.º 3 igual; restantes artigos com '...' mantidos.",
+    "Lei 5/84: altera o art. 23.º da Lei 80/77 (outro diploma), não o DL 343/80: ignorada.",
+    "DL 332/91, art. 12.º: revoga os arts. 14.º e 16.º da Lei 80/77 na redação do DL 343/80 e outros diplomas; é alteração de outro diploma: ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 51-55: parágrafo que não está no alterador nem no original: Art. 33.º - 1 - Poderão ainda os titulares dos direitos referidos nos artigos an",
+    "inserção depois de 50: parágrafo que não está no alterador nem no original: Art. 32.º - 1 - As instituições de crédito poderão conceder crédito com pagament"
+  ]
+}

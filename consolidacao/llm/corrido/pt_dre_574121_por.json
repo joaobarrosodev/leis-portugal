@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:574121:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1282/2006 (alterador 2), n.º 7.º, alínea b), revoga as restantes portarias mencionadas no seu n.º 5.º, entre as quais a Portaria n.º 694/90: revogação total do original. Além disso, a alteração do alterador 1 (plano de estudos do curso de artesão têxtil) consta de mapa anexo só em imagem.",
+  "instrucoes": [
+    "Alterador 1: altera o plano de estudos do curso de artesão têxtil segundo mapa anexo (só em imagem): não aplicável.",
+    "Alterador 2: extingue os cursos de técnico de artes gráficas/desenho e /fotocomposição criados pela Portaria n.º 694/90 e, no n.º 7.º, alínea b), revoga a Portaria n.º 694/90 (mencionada no n.º 5.º): revogação total, nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

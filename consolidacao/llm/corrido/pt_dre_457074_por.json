@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:457074:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias de 1981 a 1987 e DL 133/85) aumentam, criam, extinguem ou substituem lugares dos quadros anexos (quadros I e II, em imagem) ou mapas em imagem; nenhum altera o texto do n.º 1.º ou 2.º. Não há alteração textual a aplicar.",
+  "instrucoes": [
+    "Portarias 433/81, 145/82, 562/82, 926/84, 927/85: aumentam o quadro com lugares de mapa anexo em imagem: não aplicado.",
+    "Portarias 369/82, 582/82, 973/83, 781/84, 464/85, 292/86, 349/86, 702/86, 365/87: criam/extinguem lugares no quadro I (em imagem): não aplicado.",
+    "DL 133/85: substitui o pessoal especializado do quadro I pelo mapa I (imagem): não aplicado.",
+    "Portarias 802/85, 261/86, 62/87: alteram o quadro conforme mapa em imagem: não aplicado.",
+    "Portaria 277/87: substitui o quadro da REPER e o mapa I do DL 133/85, não o texto do original: ignorado.",
+    "Portaria 411/87: substitui o quadro de pessoal pelos quadros anexos I e II (imagem): não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "depois da unidade 76",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "Instituto Superior de Engenharia de Coimbra:\n\nEngenharia Informática e de Sistemas - 1.\n\nEngenharia Mecânica, ramo Térmica - 1.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:316733:por",
+    "alterador": "pt:dre:621712:por"
+  },
+  {
+    "artigo": "unidades 173-173",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Instrumento, área de Sopros - 4.",
+    "depois": "Instrumento, área de Sopros - 5.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:316733:por",
+    "alterador": "pt:dre:621712:por"
+  }
+]

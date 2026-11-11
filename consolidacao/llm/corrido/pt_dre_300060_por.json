@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:300060:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores substituem ou alteram quadros de pessoal de hospitais (dados em imagem, e aprovados por outras portarias); não há alteração textual aplicável ao texto da Portaria 458/93.",
+  "instrucoes": [
+    "Portarias 915/94, 944/94, 1109/94, 269/95, 1172/95, 1188/95, 1348/95, 599/96, 728/97, 76/2004, 137/2004: substituem/alteram quadros de pessoal hospitalares (imagem); não aplicado.",
+    "Portaria 78/2006: adita e extingue lugares no quadro do Hospital de Évora; não textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

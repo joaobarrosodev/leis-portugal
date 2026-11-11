@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:461590:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias 53/82, 491/87, 150/88, 542/90, 392/91, 413/91, 422/92, 1225/92, 458/93 e 1188/95) alteram o quadro de pessoal, que só vem em imagem; departamentalizações e conteúdos funcionais são normas próprias dos alteradores, não texto do original.",
+  "instrucoes": [
+    "Alt. 1 a 10: alterações ao quadro de pessoal em imagem e normas próprias; não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

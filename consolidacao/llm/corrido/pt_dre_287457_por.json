@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:287457:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Despacho Normativo n.º 164/90, Decreto Regulamentar n.º 44/91, Portarias n.os 1149/91, 725/92, 741/94, 852/94, 162/97, Decreto-Lei n.º 71/92 e Despacho Conjunto n.º 882/2000) criam lugares ou alteram/substituem partes do quadro de pessoal do LNEC (mapas I e II do anexo I, só em imagem). Não há alterações ao texto do original; nada aplicado.",
+  "instrucoes": [
+    "Alteradores 1 a 9: criação/extinção de lugares e substituição de partes dos mapas do quadro de pessoal (em imagem); não aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

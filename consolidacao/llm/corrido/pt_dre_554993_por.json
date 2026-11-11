@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:554993:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os três alteradores substituem os planos de estudos (Antropologia, Literatura Comparada, Ciências da Comunicação) por quadros que só vêm em imagem, e o anexo original também é uma imagem única com os três planos; não é possível aplicar com segurança ao texto. O 2.º do alterador 3 (ramos) e as demais disposições são normas próprias dos alteradores, não instruções de alteração do texto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos de Antropologia em quadros só em imagem; não aplicado (nao_aplicavel). 2.º a 4.º são normas próprias; nada a fazer.",
+    "Alterador 2, 1.º: novo plano de estudos de Literatura Comparada em quadros só em imagem; não aplicado. 2.º a 4.º são normas próprias.",
+    "Alterador 3, 1.º: novo plano de estudos de Ciências da Comunicação (anexo em imagem); não aplicado. 2.º (ramos), 3.º e 4.º são normas próprias, sem alvo textual no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

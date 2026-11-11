@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:485580:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 61/93) retifica os quadros B, E e I do anexo, que só existem em imagem (unidade 17); não há texto correspondente no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retificações no quadro B (Agrupamento 2), no quadro E (supressão de Profissionais de formação bancária) e na epígrafe do quadro I (Portaria n.º 990/91); anexo em imagem, não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

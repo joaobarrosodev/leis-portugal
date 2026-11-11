@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:316733:por",
+  "substituicoes": [
+    {
+      "de": 173,
+      "ate": 173,
+      "texto": "Instrumento, área de Sopros - 5.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 76,
+      "texto": "Instituto Superior de Engenharia de Coimbra:\n\nEngenharia Informática e de Sistemas - 1.\n\nEngenharia Mecânica, ramo Térmica - 1.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: aditamento ao anexo do Instituto Superior de Engenharia de Coimbra (Instituto Politécnico de Coimbra) com dois cursos; o cabeçalho 'Instituto Politécnico de Coimbra:' já existe (unidade 64), por isso inseri a escola e os cursos a seguir à última unidade desse instituto (76).",
+    "Alterador 1, 2.º: vagas de Instrumento, área de Sopros, da Escola Superior de Música e das Artes do Espectáculo do Porto passam a cinco; substituí a unidade 173 ('- 4.' para '- 5.', no formato numérico do anexo).",
+    "Alterador 1, 3.º: produção de efeitos; não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

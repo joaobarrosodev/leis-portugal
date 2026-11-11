@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:332199:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 e 3 a 9 substituem planos de estudos dos anexos I a V (quadros só em imagem) ou o anexo de outra portaria (alterador 9 altera o anexo à Portaria n.º 1138/2000); não aplicados. O alterador 2 (Portaria n.º 876/98, 1.º) muda a designação do curso de Engenharia Têxtil e do Vestuário para Engenharia Têxtil, sem instrução de alteração do texto do original (n.º 1.º e epígrafe do anexo II); não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (377/97): plano de estudos de Design Industrial (anexo V, em imagem); não aplicado.",
+    "Alterador 2 (876/98): mudança de designação do curso para Engenharia Têxtil e novo plano de estudos; não textual, não aplicado.",
+    "Alteradores 3 e 4: anexos III e I passam a ter nova redação (quadros em imagem); não aplicados.",
+    "Alteradores 5 a 8: novos planos de estudos (em imagem) e disposições próprias (número máximo de alunos, semanas lectivas), não aditadas ao original.",
+    "Alterador 9 (382/2004): altera o anexo da Portaria n.º 1138/2000, não o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

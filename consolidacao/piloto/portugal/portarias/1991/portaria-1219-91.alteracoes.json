@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º À taxa referida no número anterior acrescerá um adicional de 24% dessa taxa, sendo a soma arredondada para o 1/16 de ponto percentual superior.",
+    "depois": "2.º No trimestre de capitalização a iniciar-se durante o mês de Maio de 1994, à taxa referida no número anterior acrescerá um adicional de 9% dessa taxa, sendo a soma arredondada para o 1/16 de ponto percentual superior.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:239799:por",
+    "alterador": "pt:dre:152540:por"
+  }
+]

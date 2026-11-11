@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:675019:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "c) (Revogada.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 145/99): fixa autonomamente, para 1998-1999, a idade da gratuitidade e os valores dos subsídios, sem dar nova redação ao original; não é alteração textual. Alterador 2, art. 9.º-1: mantém em vigor o regime de apoio para intervenção precoce até 2009-2010 (disposição transitória, não textual). Alterador 3 sem texto.",
+  "instrucoes": [
+    "Alterador 1: actualização autónoma dos valores (n.os 1.º a 4.º da Portaria 145/99), sem instrução de nova redação: não aplicada.",
+    "Alterador 2, art. 10.º-a): revoga a alínea c) do n.º 1.º (unidade 16) -> 'c) (Revogada.)'.",
+    "Alterador 2, art. 9.º: disposição transitória, não textual.",
+    "Alterador 3 (DL 54/2018): sem texto no pedido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

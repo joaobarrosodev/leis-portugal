@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:665754:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as instruções acrescentam, criam ou extinguem lugares no quadro de pessoal (quadro único do MPAT) anexo à portaria, que só existe em imagem ('ver documento original'); nenhuma altera texto do original.",
+  "instrucoes": [
+    "Alteradores 1 a 5, 7 a 35: criam/acrescentam/extinguem lugares no quadro anexo (imagem): não aplicados.",
+    "Alterador 6 (DL 120/89, art. 1.º-2): adita os lugares do quadro do GAS ao quadro único (imagem): não aplicado; o resto do DL não altera o original.",
+    "Alterador 36 (Portaria 471/93): altera o quadro do mapa IV do DL 272/91 (outro diploma): ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

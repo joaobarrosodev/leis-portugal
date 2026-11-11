@@ -1,0 +1,62 @@
+{
+  "id": "pt:dre:454872:por",
+  "substituicoes": [
+    {
+      "de": 99,
+      "ate": 100,
+      "texto": "1.ª Repartição - Almansil, Alte, Ameixial, Boliqueime, São Clemente, São Sebastião, Querença e Salir;\n\n2.ª Repartição - Quarteira.",
+      "alterador": 2
+    },
+    {
+      "de": 101,
+      "ate": 101,
+      "texto": "17.º - 1 - O concelho de Loures é dividido em cinco repartições de finanças.",
+      "alterador": 4
+    },
+    {
+      "de": 103,
+      "ate": 103,
+      "texto": "1.ª Repartição - Bucelas, Fanhões, Frielas, Loures, Lousa, Póvoa de Santo Adrião, Santo António do Tojal e São Julião do Tojal;",
+      "alterador": 4
+    },
+    {
+      "de": 105,
+      "ate": 105,
+      "texto": "3.ª Repartição - Moscavide e Portela;",
+      "alterador": 4
+    },
+    {
+      "de": 117,
+      "ate": 121,
+      "texto": "20.º - (Revogado.)",
+      "alterador": 7
+    },
+    {
+      "de": 122,
+      "ate": 125,
+      "texto": "21.º - (Revogado.)",
+      "alterador": 6
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 100,
+      "texto": "3 - A sede da 1.ª Repartição é em Loulé e a da 2.ª Repartição é em Quarteira.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Os mapas de quadro de pessoal dos alteradores 1, 2, 3, 5, 6, 7 e 8 só existem em imagem. Alterador 5 (Portaria 515/95): reorganiza as repartições do Barreiro e de Setúbal sem dar nova redacção ao n.º 29.º, e o seu n.º 8.º altera a Portaria 225/95; não textual para o original. Alterador 8 (Portaria 1122/2008): extingue o Serviço de Finanças de Gondomar 3 e redistribui freguesias sem nova redacção do n.º 15.º; não textual.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 615/84): nova redacção do n.º 16.º (Loulé); superada pela redacção do alterador 2 sobre as mesmas unidades.",
+    "Alterador 2 (Portaria 41/85): nova redacção do n.º 16.º; unidades 97 e 98 iguais ao texto atual, substituídas 99-100 e inserido o n.º 3 depois da 100.",
+    "Alterador 3 (Portaria 777/85): nova redacção do n.º 21.º (Ovar); superada pela revogação do n.º 21.º pelo alterador 6.",
+    "Alterador 4 (Portaria 678/88): nova redacção do n.º 17.º (Loures); substituídas as unidades 101, 103 e 105 (102, 104, 106, 107 iguais).",
+    "Alterador 5 (Portaria 515/95): reorganização Barreiro/Setúbal e alteração à Portaria 225/95; não textual para o original, não aplicado.",
+    "Alterador 6 (Portaria 1413/2007): revoga o n.º 21.º; unidades 122-125 passam a '21.º - (Revogado.)'.",
+    "Alterador 7 (Portaria 1415/2007): revoga o n.º 20.º; unidades 117-121 passam a '20.º - (Revogado.)'.",
+    "Alterador 8 (Portaria 1122/2008): extinção de Gondomar 3; não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

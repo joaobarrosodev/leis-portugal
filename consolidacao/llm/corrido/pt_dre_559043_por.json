@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:559043:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "1. Os encargos da realização do Plano aprovado pela presente lei serão suportados pelas dotações que o Ministério das Finanças fará inscrever anualmente para este fim no orçamento da despesa extraordinária do Ministério das Obras Públicas.",
+      "alterador": 2
+    },
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "1. As câmaras municipais participarão nas despesas resultantes da execução do Plano com 50 por cento do respectivo montante.",
+      "alterador": 2
+    },
+    {
+      "de": 24,
+      "ate": 27,
+      "texto": "BASE VI\n\n(Revogada.)",
+      "alterador": 3
+    },
+    {
+      "de": 48,
+      "ate": 51,
+      "texto": "1. As câmaras municipais devem submeter à aprovação do Ministério das Obras Públicas, no prazo de noventa dias, a contar da data da comunicação dos programas parciais fixados para a realização do Plano, a localização para as construções escolares abrangidas por esses programas.\n\n2. Os terrenos para as construções escolares a executar pelo Ministério das Obras Públicas serão adquiridos ou expropriados pelas câmaras municipais, que para o efeito deverão ser habilitadas pela Direcção-Geral das Construções Escolares com a totalidade das quantias necessárias.\n\n3. Os terrenos deverão ser postos à disposição da Direcção-Geral das Construção Escolares no prazo máximo de cento e oitenta dias, a partir da data em que for comunicada a aprovação a que se refere o n.º 1.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 19769): ajustamentos ao Plano (mapa anexo), publicados só em imagem; não aplicados.",
+  "instrucoes": [
+    "Alt. 1: ajustamentos ao plano de construções (quadro em imagem); não aplicado.",
+    "Alt. 2: nova redação do n.º 1 da base IV (unidade 18) e do n.º 1 da base V (unidade 21); '...' mantém os restantes números.",
+    "Alt. 2: nova redação da base XI com n.os 1 a 3; unidades 48-51 substituídas (o parágrafo final do antigo n.º 3 desaparece).",
+    "Alt. 3 (Lei 1/87), art. 29.º, n.º 4: revogada a base VI; unidades 24-27 passam a 'BASE VI' e '(Revogada.)'. Restantes artigos da Lei 1/87 não se dirigem ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

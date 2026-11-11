@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:391262:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (DRR 31/81/A, 32/81/A, 21/82/A, 34/82/A, 16/83/A, 26/83/A, 45/83/A, 17/85/A, 4/86/A, 5/87/A, 28/90/A, 5/92/A, 35/92/A, 6/95/A) aditam, abatem, transferem ou substituem lugares nos quadros de pessoal anexos, que só existem em imagem (ver documento original); não há alteração textual aplicável.",
+  "instrucoes": [
+    "Alteradores 1 e 2: aditam/abatem/transferem lugares nos quadros anexos (imagem); não aplicado.",
+    "Alteradores 3, 5, 7, 8, 9, 10, 12: substituem quadros ou partes de quadros por quadros anexos em imagem; não aplicado.",
+    "Alteradores 4, 6, 11, 13, 14: aditam/abatem lugares ou alteram quadros segundo mapas em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

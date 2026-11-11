@@ -75,7 +75,8 @@ def linha_de(r: dict, registo: dict) -> dict:
     consolidado = _NOTA_PILOTO.sub("", corpo((RAIZ / r["consolidado"]).read_text(encoding="utf-8")))
     original = publicado(RAIZ / registo["path"])
     if "alteradores" in registo:
-        aplicados = set(r["alteradores_ids"]) if "alteradores_ids" in r else {p["id"] for p in r.get("passos", []) if p.get("aplicadas")}
+        # O texto corrido (`llm_corrido.py`) mostra ao verificador todos os alteradores do pedido, não só os que a resposta cita.
+        aplicados = set(r["alteradores_vistos"]) if "alteradores_vistos" in r else set(r["alteradores_ids"]) if "alteradores_ids" in r else {p["id"] for p in r.get("passos", []) if p.get("aplicadas")}
         alteradores = [a for a in registo["alteradores"] if a["id"] in aplicados]
     else:
         alteradores = [registo["alterador"]]
@@ -95,6 +96,8 @@ def linha_de(r: dict, registo: dict) -> dict:
             "alteradores": textos,
         }
     linha = {"id": r["id"], "titulo": registo["title"]} | linha | {"texto_original": original, "texto_consolidado": consolidado}
+    if r.get("pedido") == "corrido":
+        linha |= {"modo": "corrido"}  # original sem artigos: `cegas_vista` compara por parágrafos
     if r.get("titulos_normalizados"):
         linha |= {"titulos_normalizados": True, "texto_original_com_titulos": com_titulos(original)}
     return linha
@@ -125,6 +128,9 @@ def main() -> int:
         # O pedido completo (`llm_completo.py`) substitui o juntado parcial do mesmo diploma.
         novos = [j for j in map(json.loads, completo.read_text(encoding="utf-8").splitlines()) if j["estado"] == "aplicado com LLM"]
         resultados = [r for r in resultados if r["id"] not in {j["id"] for j in novos}] + novos
+    corrido = PASTA / "llm" / "juntados-corrido.jsonl"
+    if args.escala and corrido.exists():
+        resultados += [j for j in map(json.loads, corrido.read_text(encoding="utf-8").splitlines()) if j["estado"] == "aplicado com LLM"]
     VERIFICACAO.mkdir(exist_ok=True)
     linhas = []
     for r in resultados:

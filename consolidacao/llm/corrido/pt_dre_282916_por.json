@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:282916:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias 772/88, 391/91, 823/91, 335/92, 697/95, 614/96, 170/97, 147/98 e Despachos Normativos 34/90 e 493/94) acrescem, criam ou substituem lugares do quadro/mapa de pessoal anexo, que só existe em imagem (ver documento original); não há alteração textual aplicável às unidades do texto.",
+  "instrucoes": [
+    "Alteradores 1, 2, 6, 10: criam/acrescem lugares no quadro (imagem) - não aplicado",
+    "Alteradores 3 e 4: quadro de pessoal de informática passa a ser o do mapa anexo (imagem); o 4 revoga a Portaria 391/91 (outro diploma) - não aplicado",
+    "Alteradores 5, 7, 8, 9: alteram/aditam lugares conforme mapa anexo (imagem) - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "pt:dre:391982:por",
+  "substituicoes": [
+    {
+      "de": 146,
+      "ate": 147,
+      "texto": "(2C(índice 1) + C(índice 2))/3\n\nem que C(índice 1) e C(índice 2) são as classificações das 2 disciplinas melhor classificadas de entre as 3 que constituem o plano de estudos do curso do 12.º ano de escolaridade em que obteve aprovação e com que se candidata sendo C(índice 1) >= C(índice 2).",
+      "alterador": 2
+    },
+    {
+      "de": 148,
+      "ate": 150,
+      "texto": "5 - Para os candidatos cuja habilitação de acesso é o ano propedêutico, C12 é calculado pela aplicação da seguinte fórmula:\n\n(2C(índice 1) + C(índice 2))/3\n\nem que C(índice 1) e C(índice 2) são as classificações das 2 disciplinas melhor classificadas de entre as nucleares e complementares do elenco (ou elencos) do ano propedêutico em que obteve aprovação e com que se candidata, sendo C(índice 1) >= C(índice 2).",
+      "alterador": 2
+    },
+    {
+      "de": 158,
+      "ate": 160,
+      "texto": "4 - Caso, por ausência total de cobertura docente numa disciplina, o candidato tenha sido aprovado no curso do 12.º ano de escolaridade, com que se candidata apenas com 2 disciplinas, os valores de C(índice 1) e C(índice 2) a que se refere o n.º 4 do n.º 21.º serão os das classificações dessas disciplinas.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 89,
+      "texto": "14.º-A\n\n(Realização condicional da pré-candidatura)\n\n1 - O candidato poderá proceder condicionalmente à pré-candidatura se, no prazo que lhe é fixado nos termos do n.º 3 do n.º 13.º, a entidade competente para a emissão do documento referido na alínea b) do n.º 1 do n.º 14.º o não tiver ainda feito.\n\n2 - No boletim de pré-candidatura o candidato indicará, no local apropriado, os elementos referentes à habilitação precedente de forma correcta e completa, sob pena de ficar incurso no disposto no n.º 20.º\n\n3 - O documento referido no n.º 1 deverá ser entregue até ao dia 9 de Julho de 1982, data limite do prazo de correcção dos erros das listas provisórias de pré-candidatura, sob pena de anulação da pré-candidatura.\n\n4 - Os estabelecimentos de ensino secundário tomarão as providências necessárias para a emissão dos certificados referidos no n.º 1 dentro de prazo adequado à satisfação do disposto no n.º 3.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2, n.os 2.º e 3.º: novo quadro do anexo II para Relações Internacionais da Universidade do Minho (em imagem) e nota 12 aditada às notas do mapa do anexo II, que só existe em imagem; alterador 3: curso de Matemática acrescentado ao anexo I e nova parte do anexo II (imagem); alterador 4, n.º 3.º, e alterador 5: referência 10-A e novas datas do anexo VI (imagem). Não aplicados.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: aditado o n.º 14.º-A; inserido depois do fim do n.º 14.º (unidade 89).",
+    "Alterador 1, n.º 2.º: entrada em vigor do próprio alterador, nada.",
+    "Alterador 2, n.º 1.º, 21.º n.º 4: a frase de abertura (unidade 145) não muda; fórmula e explicação substituídas (unidades 146-147).",
+    "Alterador 2, n.º 1.º, 21.º n.º 5: nova redação (ano propedêutico em minúsculas, nova fórmula e explicação), unidades 148-150.",
+    "Alterador 2, n.º 1.º, 22.º n.º 4: nova redação num só parágrafo, sem fórmula; unidades 158-160 passam a uma.",
+    "Os números marcados '...' nos n.os 21.º e 22.º ficam com o texto atual.",
+    "Alterador 2, n.os 2.º e 3.º: anexo II em imagem; não aplicados.",
+    "Alterador 3: anexos I e II em imagem; não aplicado.",
+    "Alterador 4, n.os 1.º e 2.º: normas autónomas sobre prazos de 1982-1983, sem alterar o texto do original; n.º 3.º: anexo VI em imagem; não aplicado.",
+    "Alterador 5: datas do anexo VI (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

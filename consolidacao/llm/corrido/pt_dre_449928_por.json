@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:449928:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 180/2009, artigo único) substitui a planta anexa (unidade 9), que só existe em imagem; não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 180/2009, artigo único): substitui a planta anexa pela planta apensa (em imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

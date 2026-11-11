@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:171919:por",
+  "substituicoes": [
+    {
+      "de": 48,
+      "ate": 48,
+      "texto": "c) Idade mínima de 16 anos completos até ao dia 31 de Dezembro do ano em que sejam admitidos ao curso.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (723/73), n.º 1: nova redacção da alínea c) do artigo 6.º do regulamento; substituída a unidade 48.",
+    "Alterador 1, n.º 2: revoga a Portaria n.º 21507, outro diploma; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

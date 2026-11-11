@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:471277:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias 904/91, 496/92, 438/93, 293/94, 308/94, 1233/95, 270/97, 904/98) alteram, reduzem ou aditam lugares ao quadro do anexo I (ou aditam um mapa como anexo III) através de mapas que só existem em imagem no documento original; não há alteração textual aplicável ao texto do original.",
+  "instrucoes": [
+    "Alterador 1 (904/91), n.º 1.º: altera o anexo I conforme mapas I e II em imagem; não aplicado (anexo em imagem). N.os 2.º-5.º: transições e extinções de lugares, sem alteração textual.",
+    "Alterador 2 (496/92), n.º 1.º: altera o anexo I conforme mapa I em imagem; não aplicado. N.os 2.º-8.º: transições e ajustes de lugares, sem alteração textual.",
+    "Alterador 3 (438/93), n.º 1.º: adita ao quadro do anexo I, como anexo III, um mapa em imagem; não aplicado.",
+    "Alteradores 4 e 5 (293/94, 308/94), n.º 1.º: reduzem o quadro dos lugares de anexos em imagem; não aplicado.",
+    "Alteradores 6, 7 e 8 (1233/95, 270/97, 904/98), n.º 1.º: alteram o quadro de acordo com mapas em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

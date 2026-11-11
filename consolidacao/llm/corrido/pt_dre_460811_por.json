@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:460811:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as instruções (Portarias n.os 1115/81, 1305/82, 349/83, 700/83, 551/84, 582/85, 4/87, 638/87, 888/87, 934/87, 113/90, 413/91 e 963/95) alteram, aumentam ou substituem o quadro de pessoal anexo do Hospital Distrital de Viseu, que só vem em imagem ('ver documento original'), ou distribuem lugares sem alteração textual; nenhuma dá nova redação às unidades do texto.",
+  "instrucoes": [
+    "Alteradores 1 a 10 e 12: alterações ao quadro de pessoal anexo (imagem) — não aplicadas.",
+    "Alterador 11 (Portaria n.º 113/90): distribui 4 lugares de parteira ao Hospital — não textual; não aplicado.",
+    "Alterador 13 (Portaria n.º 963/95), 1.º a 3.º: substitui o quadro anexo (imagem) e aprova anexos I e II próprios — não alteram as unidades do texto; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

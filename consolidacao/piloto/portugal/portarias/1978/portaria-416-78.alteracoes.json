@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 14-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - A importância devida pelas instituições de crédito, a título de comissão de garantia, será paga diferidamente em três prestações de 25%, 50% e 25%, que se vencerão respectivamente nos dias 30 de Novembro dos anos de 1978, 1979 e 1980.",
+    "depois": "2 - A importância devida pelas instituições de crédito, a título de comissão de garantia, será paga diferidamente em três prestações de 25%, 50% e 25%, que se vencerão, respectivamente, nos dias 30 de Novembro imediatamente anteriores às primeira, segunda e terceira datas de vencimento do juro remuneratório do empréstimo obrigacionista.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:297014:por",
+    "alterador": "pt:dre:508778:por"
+  }
+]

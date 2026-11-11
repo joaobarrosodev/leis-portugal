@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:185371591:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 5,
+      "texto": "d) O poder de direção sobre o grupo de projeto para a Jornada Mundial da Juventude 2023 no que respeita ao projeto de recuperação de edificado da área da Manutenção Militar Norte.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: adita a alínea d) ao n.º 1 - inserida depois da alínea c) (unidade 5)",
+    "Alterador 1, n.º 2: produção de efeitos - não altera o texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

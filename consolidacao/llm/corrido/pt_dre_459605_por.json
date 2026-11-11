@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:459605:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias 280/82, 741/82, 588/83, 590/83, 147/84, 175/84, 939/84, 48/85, 92/86, 234/86) criam ou acrescentam lugares, ou alteram o quadro de pessoal anexo (unidade 7, só em imagem) segundo quadros/mapas também em imagem; não há alteração textual aplicável.",
+  "instrucoes": [
+    "Alteradores 1-3 e 7-9: criam/acrescentam lugares no quadro anexo (imagem); não textual, não aplicado.",
+    "Alteradores 4, 5, 6, 8, 10: alteram ou aumentam o quadro conforme quadro/mapa anexo em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

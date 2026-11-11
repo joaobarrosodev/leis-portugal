@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:496109:por",
+  "substituicoes": [
+    {
+      "de": 70,
+      "ate": 70,
+      "alterador": 1,
+      "texto": "2 - Em regime transitório, a Universidade de Coimbra, através da Faculdade de Letras, conferirá o grau de licenciado em Línguas e Literaturas Clássicas, nas variantes de Estudos Clássicos e Portugueses e de Estudos Clássicos e Franceses, no ramo educacional. Os cursos respectivos, ministrados em regime transitório, destinar-se-ão aos alunos que venham a licenciar-se em Línguas e Literaturas Clássicas, variantes de Estudos Clássicos e Portugueses e de Estudos Clássicos e Franceses, nos anos lectivos de 1986-1987 a 1988-1989, inclusive, e que pretendam obter aquele ramo de formação educacional."
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 70,
+      "alterador": 1,
+      "texto": "3 - Em regime transitório, a Universidade de Coimbra, através da Faculdade de Letras, conferirá o grau de licenciado em Línguas e Literaturas Modernas, nas variantes de Estudos Franceses e Espanhóis e de Estudos Franceses e Italianos, no ramo educacional. Os cursos respectivos, ministrados em regime transitório, destinar-se-ão aos alunos que venham a licenciar-se em Línguas e Literaturas Modernas, nas variantes de Estudos Franceses e Espanhóis e de Estudos Franceses e Italianos, nos anos lectivos de 1986-1987 a 1988-1989, inclusive, e que pretendam obter aquele ramo de formação educacional."
+    },
+    {
+      "depois_de": 202,
+      "alterador": 1,
+      "texto": "r) (transitório) Línguas e Literaturas Clássicas, variante de Estudos Clássicos e Franceses - Grego, Latim, Francês;\n\ns) (transitório) Línguas e Literaturas Modernas, variante de Estudos Franceses e Espanhóis - Francês;\n\nt) (transitório) Línguas e Literaturas Modernas, variante de Estudos Franceses e Italianos - Francês."
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 (Portaria 507/89), n.º 2.º, n.º 2: aditamento dos anexos XLVI a XLIX, que só vêm em imagem.",
+  "instrucoes": [
+    "Alt. 1 (507/89), n.º 1.º: nova redacção do n.º 3.º: n.º 1 mantém-se ('...'), n.º 2 substitui {{70}}, novo n.º 3 inserido depois de {{70}}.",
+    "N.º 2.º, n.º 1: adita alíneas r), s), t) ao n.º 1 do n.º 27.º, depois de {{202}}.",
+    "N.º 2.º, n.º 2: anexos XLVI-XLIX em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

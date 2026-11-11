@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:442317:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 58,
+      "texto": "13.º-A\n\n(Estabelecimentos de ensino superior politécnico)\n\n1 - A competência atribuída aos reitores das universidades pelos n.os 8.º e 12.º será, em relação aos estabelecimentos de ensino superior politécnico agrupados em institutos politécnicos, exercida pelos presidentes das comissões instaladoras dos institutos.\n\n2 - A competência atribuída aos reitores das universidades pelos n.os 8.º e 12.º será, em relação aos estabelecimentos de ensino superior politécnico não agrupados em institutos politécnicos, exercida pelo director-geral do Ensino Superior.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 410/86, 1.º: adita o n.º 13.º-A; inserido a seguir ao n.º 13.º (unidade 58).",
+    "Portaria 34/91: só remete para a Portaria 886/83 (n.º 19.º), sem instruções dirigidas ao original; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

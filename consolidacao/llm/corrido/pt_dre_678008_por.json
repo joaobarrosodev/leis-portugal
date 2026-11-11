@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:678008:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação (cap. 03, div. 06, 'Subdiv. 01' passa a 'Subdiv. 10') incide sobre o mapa de transferências, que só existe como documento/imagem (unidade 3, link para o PDF original); não há texto onde aplicar.",
+  "instrucoes": [
+    "Declaração de Retificação 75/93: retifica 'Subdiv. 01' para 'Subdiv. 10' no mapa; não aplicada por o mapa só vir em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

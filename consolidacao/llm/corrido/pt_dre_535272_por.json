@@ -1,0 +1,35 @@
+{
+  "id": "pt:dre:535272:por",
+  "substituicoes": [
+    {
+      "de": 86,
+      "ate": 86,
+      "texto": "24.º Na comercialização por groso dos produtos de que trata este diploma, quer nos mercados abastecedores, quer fora deles, é obrigatório, para o vendedor ou seu mandatário, passar documento de venda, do qual constem os nomes e moradas dos compradores e vendedores, a qualidade em que intervêm, a indicação da quantidade, espécie, variedade (sempre que esta seja facilmente identificável), preço e data da transacção e ainda a categoria comercial dos mesmos produtos, documento esse que o comprador terá de apresentar sempre que lhe seja exigido por quem de direito.",
+      "alterador": 1
+    },
+    {
+      "de": 136,
+      "ate": 136,
+      "texto": "48.º Constituem contravenções puníveis com a multa de 1000$00 a 10000$00 as infracções do disposto nos n.os 4.º, 5.º, 6.º, 7.º, 8.º, 12.º, 17.º, 18.º, 19.º, 24.º, 32.º, 33.º e 34.º",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 88,
+      "texto": "§ 3.º Independentemente do disposto no parágrafo anterior, cabe ainda ao comprador a obrigação de identificar o vendedor.\n\n§ 4.º Em todos os mercados abastecedores que venham a adoptar novos processos mecanográficos na passagem dos documentos de compra e venda dos produtos de que trata este diploma o nome das respectivas espécies, bem como o do comprador e sua morada poderão ser substituídos por números correspondentes a um código previamente estabelecido e aprovado pela Inspecção-Geral das Actividades Económicas.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: limite mínimo da multa do n.º 48.º elevado para 1000$00 (unidade 136).",
+    "Alterador 1, 8.º: nova redação do corpo do n.º 24.º (unidade 86).",
+    "Alterador 1, 9.º: aditados os §§ 3.º e 4.º ao n.º 24.º, depois da unidade 88.",
+    "Alterador 1, 2.º a 7.º e 10.º: dirigidos a outras portarias; ignorados.",
+    "Alterador 2: acrescenta produtos à lista publicada no Diário do Governo de 21-1-1965, não ao original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

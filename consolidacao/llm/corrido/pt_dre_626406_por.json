@@ -1,0 +1,78 @@
+{
+  "id": "pt:dre:626406:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "5 - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 19,
+      "ate": 19,
+      "texto": "6 - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 20,
+      "ate": 25,
+      "texto": "7 - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 26,
+      "ate": 29,
+      "texto": "8 - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 32,
+      "ate": 33,
+      "texto": "a) Colaborar com os órgãos de gestão pedagógica da escola na planificação das actividades do curso;\n\nb) Articular o ensino da sua disciplina com o das demais disciplinas que constituem o plano de estudos do curso, sob a orientação dos órgãos de gestão pedagógica da escola.",
+      "alterador": 2
+    },
+    {
+      "de": 35,
+      "ate": 35,
+      "texto": "a) Elaborar os planos de estágio dos alunos que irão acompanhar, em colaboração com os monitores de estágio designados pelas empresas, de acordo com a orientação do conselho directivo;",
+      "alterador": 2
+    },
+    {
+      "de": 38,
+      "ate": 38,
+      "texto": "12 - A leccionação das diversas disciplinas dos cursos e as funções de professor acompanhante de estágio serão atribuídas, sempre que possível, a professores profissionalizados.",
+      "alterador": 2
+    },
+    {
+      "de": 39,
+      "ate": 39,
+      "texto": "13 - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 40,
+      "ate": 43,
+      "texto": "14 - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 44,
+      "ate": 44,
+      "texto": "15 - Os cursos técnico-profissionais e profissionais serão acompanhados por especialista de orientação escolar e profissional, que actuarão em estrita colaboração com os conselhos directivos das escolas, de acordo com as directivas emanadas do Ministério da Educação.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Despacho Normativo 166/84): o n.º 1 acrescenta um curso à rede escolar do anexo II e o n.º 2 altera tempos semanais do mapa do anexo I, ambos anexos só em imagem; os n.os 3 e 4 são normas autónomas sem alteração textual. Alterador 2, n.os 2 e 3 (extinção de cargos) não são alterações textuais.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: novo curso na rede do anexo II (imagem) - não aplicado",
+    "Alterador 1, n.º 2: altera tempos de Química no mapa do anexo I (imagem) - não aplicado",
+    "Alterador 1, n.os 3 e 4: normas autónomas - não textual",
+    "Alterador 2, n.os 1-3: manutenção em vigor e extinção de cargos - não textual",
+    "Alterador 2, n.º 4: nova redacção dos n.os 10 (alíneas a e b, unidades 32-33; corpo igual), 11 (só a alínea a, unidade 35; b e c com '...' ficam), 12 (unidade 38) e 15 (unidade 44)",
+    "Alterador 2, n.º 5: revoga os n.os 5, 6, 7, 8, 13 e 14 - substituídos por '(Revogado.)' (n.º 7 unidades 20-25, n.º 8 unidades 26-29, n.º 14 unidades 40-43); a parte sobre o Despacho Normativo 84/85 é de outro diploma"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

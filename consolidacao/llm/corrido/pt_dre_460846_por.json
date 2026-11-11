@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:460846:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (1 a 18) alteram ou substituem o quadro de pessoal do Hospital de Santa Maria anexo à portaria, que só existe em imagem ('ver documento original'), tal como os quadros novos; os anexos I e II das Portarias n.os 483/90 e 1376/95 são desses diplomas e não se mandam inserir no original. Nada de textual a aplicar.",
+  "instrucoes": [
+    "Alteradores 1-7, 10, 11, 13, 14: alterações ao quadro de pessoal anexo (imagem): não aplicadas.",
+    "Alteradores 8/9 (Portaria 483/90): altera o quadro (imagem); os n.os 2.º-3.º e o anexo I são disposições próprias dessa portaria: não aplicados.",
+    "Alterador 12 (Portaria 881/90): aumenta o quadro em lugares dirigentes (imagem): não aplicado.",
+    "Alteradores 15/16, 17 (Portarias 413/91 e 422/92): substituem os quadros de pessoal médico (imagem): não aplicados.",
+    "Alterador 18 (Portaria 1376/95): substitui o quadro de pessoal pelo quadro anexo (imagem); anexos I e II são dessa portaria: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

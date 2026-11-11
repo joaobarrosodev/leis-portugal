@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:321923:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores (Portarias 919/98, 926/98, 929/98, 637/99, 771/99, 1028/99, 1187/2000 e 1296/2002) desdobram cursos em ramos, fixam planos de estudos (em imagem), números máximos de alunos e regimes de transição em normas próprias; nenhum altera o texto da Portaria 1132/91. A mudança de designação do curso de Gestão para Gestão de Empresa (771/99, 1.º) não é alteração textual da portaria e não foi aplicada à unidade 6.",
+  "instrucoes": [
+    "Alteradores 1-3 (919/98, 926/98, 929/98): ramos e novos planos (imagem) para Matemáticas Aplicadas, Direito e Relações Internacionais; não textual.",
+    "Alterador 4 (637/99): plano de Economia (imagem) e número máximo de alunos; não textual.",
+    "Alterador 5 (771/99): designação Gestão de Empresa, plano (imagem) e número de alunos; não aplicado ao texto.",
+    "Alterador 6 (1028/99): estrutura e plano de Matemáticas Aplicadas; não textual.",
+    "Alterador 7 (1187/2000): plano de Relações Internacionais (imagem); não textual.",
+    "Alterador 8 (1296/2002): altera o plano de Arquitectura da Portaria 1287/2001, outro diploma; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

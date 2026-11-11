@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:527582:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 1218/2005, n.º 4.º-2-a): revoga a Portaria n.º 841/2004 apenas na parte que autorizou o IPCA/EST Barcelos a conferir o grau de bacharel em Informática Industrial; essa autorização consta só da tabela do anexo, em imagem, e a revogação é diferida (findo o processo de transição). Não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: altera a duração do 2.º ciclo de um curso criado pela Portaria n.º 595/2005 (outro diploma): ignorado.",
+    "Alterador 1, n.º 4.º-2-a): revogação parcial da autorização do bacharelato em Informática Industrial (tabela do anexo em imagem): não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

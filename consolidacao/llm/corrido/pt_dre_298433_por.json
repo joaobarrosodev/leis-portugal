@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:298433:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 8,
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (899/83), n.º 1.º: revoga os n.os 1 e 2 (unidades 7 e 8); n.º 2.º refere-se à Portaria 658/77, sem alteração ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

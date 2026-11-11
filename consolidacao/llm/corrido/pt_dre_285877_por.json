@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:285877:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os seis alteradores (Portarias n.os 786/88, 174/94, 917/94, 935/94, 11/95 e 743/96) só alteram ou substituem quadros de pessoal de hospitais e centros, que vêm em imagem (ver documento original) e não constam do texto do original; não há alteração textual a aplicar.",
+  "instrucoes": [
+    "Portaria 786/88: altera o quadro do Centro de Saúde Mental de Viana do Castelo (pessoal religioso), quadro em imagem: não aplicado.",
+    "Portaria 174/94: substitui o quadro do Hospital Psiquiátrico do Lorvão, em imagem: não aplicado.",
+    "Portaria 917/94: substitui o quadro do Centro de Arnes, em imagem: não aplicado.",
+    "Portaria 935/94: substitui o quadro do Hospital de Magalhães Lemos, em imagem: não aplicado.",
+    "Portaria 11/95: substitui o quadro do Hospital de Sobral Cid, em imagem: não aplicado.",
+    "Portaria 743/96: substitui o quadro do Hospital de Miguel Bombarda, em imagem: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

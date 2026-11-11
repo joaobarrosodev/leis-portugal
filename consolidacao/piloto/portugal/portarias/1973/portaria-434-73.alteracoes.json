@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 23-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2. Os valores do número anterior serão corrigidos, no início de cada ano, para aplicação a novos contratos, e de cinco em cinco anos, para os contratos existentes ou as suas prorrogações, de acordo com a evolução da média aritmética dos índices ponderados de salários e de materiais de construção publicados pelo Ministério das Obras Públicas, nos termos do artigo 8.º do [Decreto-Lei n.º 47945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47945-1967-391026), de 16 de Setembro de 1967.",
+    "depois": "2. Os valores do número anterior serão corrigidos no início de cada ano, para aplicação a novos contratos, e de cinco em cinco anos, para os contratos existentes ou suas prorrogações, de acordo com a evolução da média aritmética dos índices ponderados de salários e materiais de construção publicados entre os meses de Junho de 1973 e Junho do ano precedente pelo Ministério das Obras Públicas, nos termos do artigo 9.º do [Decreto-Lei n.º 273-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-b-1975-626600), de 3 de Junho de 1975.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:420995:por",
+    "alterador": "pt:dre:256070:por;pt:dre:678212:por;pt:dre:311600:por"
+  },
+  {
+    "artigo": "unidades 42-43",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "e) K(índice 5) = 0,8, para contratos celebrados até 31 de Dezembro de 1975;\n\n= 1,0, para contratos posteriores;",
+    "depois": "e) K(índice 5) = 0,9, para contratos celebrados até 31 de Dezembro de 1980;\n\n= 1,0, para contratos posteriores.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:420995:por",
+    "alterador": "pt:dre:256070:por;pt:dre:678212:por;pt:dre:311600:por"
+  },
+  {
+    "artigo": "unidades 63-64",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "e) K(índice 5) = 0,8, para contratos celebrados durante a 1.ª fase dos investimentos públicos (até 31 de Dezembro de 1975);\n\n= 1,0, para contratos posteriores;",
+    "depois": "e) K(índice 5) = 0,9, para contratos celebrados durante a 1.ª fase dos investimentos públicos (até 31 de Dezembro de 1980);\n\n= 1,0, para contratos posteriores.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:420995:por",
+    "alterador": "pt:dre:256070:por;pt:dre:678212:por;pt:dre:311600:por"
+  },
+  {
+    "artigo": "unidades 116-117",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4. Pela mora no cumprimento vencer-se-ão juros à taxa anual de 12%; ou,\n\n4-A. Pela mora no cumprimento vencer-se-ão juros à taxa de 1% por cada mês ou fracção.",
+    "depois": "4 - Pela mora no cumprimento vencer-se-ão juros à taxa anual igual à taxa básica de desconto do Banco de Portugal acrescida de 1%.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:420995:por",
+    "alterador": "pt:dre:256070:por;pt:dre:678212:por;pt:dre:311600:por"
+  },
+  {
+    "artigo": "unidades 152-152",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5. O pagamento pelo G. A. S. da indemnização de que trata este artigo poderá, ser feito em prestações distribuídas por um prazo máximo de cinco anos, pagando então o G. A. S. um juro anual de 6% sobre es quantias cujo pagamento seja diferido.",
+    "depois": "5 - O pagamento pelo GAS da indemnização de que trata este artigo poderá ser feito em prestações distribuídas por um prazo máximo de 5 anos, pagando então o GAS um juro anual igual à taxa básica de desconto do Banco de Portugal acrescido de 1%.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:420995:por",
+    "alterador": "pt:dre:256070:por;pt:dre:678212:por;pt:dre:311600:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 20-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Os projectos relativos às acções específicas devem ser apresentados até 15 de Fevereiro do ano seguinte ao ano de resgate da quota junto das DRA da área onde se localiza a exploração do produtor de tabaco, que procede à respectiva instrução, emite parecer sobre o interesse regional dos mesmos e os remete ao Gabinete de Planeamento e Política Agro-Alimentar (GPPAA) até 15 de Março do mesmo ano.\n\n3 - Os projectos relativos às acções de interesse geral serão apresentados até 15 de Fevereiro de cada ano junto do GPPAA, podendo este organismo, sempre que o entenda necessário, solicitar às DRA parecer sobre o interesse regional do projecto em questão.",
+    "depois": "2 - Os projectos relativos às acções específicas devem ser apresentados até ao dia 30 de Março de 2006 junto das DRA da área onde se localiza a exploração do produtor de tabaco, que procede à respectiva instrução, emite parecer sobre o interesse regional dos mesmos e os remete ao Gabinete de Planeamento e Política Agro-Alimentar (GPPAA) até 15 de Abril de 2006.\n\n3 - Os projectos relativos às acções de interesse geral devem ser apresentados até 30 de Março de 2006 junto do GPPAA, podendo este organismo, sempre que entenda necessário, solicitar às DRA parecer sobre o interesse regional do projecto em questão.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:532435:por",
+    "alterador": "pt:dre:671919:por"
+  },
+  {
+    "artigo": "unidades 30-31",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6.º - 1 - O GPPAA procede à apreciação de todos os projectos pronunciando-se sobre a sua viabilidade técnica e económica e, durante o mês de Junho, após repartição definitiva do Fundo por cada Estado membro, procede à notificação de todos os beneficiários sobre o resultado definitivo da respectiva aprovação.\n\n2 - Os projectos serão executados no prazo máximo de dois anos a contar da data de notificação do beneficiário.",
+    "depois": "6.º - 1 - O GPPAA procede à apreciação de todos os projectos, pronunciando-se sobre a sua viabilidade técnica e económica, e, durante o mês de Julho, após repartição definitiva do Fundo por cada Estado membro, procede à notificação de todos os beneficiários sobre o resultado definitivo da respectiva aprovação.\n\n2 - Os projectos devem ser executados no prazo máximo de 30 meses a contar da data de notificação do beneficiário.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:532435:por",
+    "alterador": "pt:dre:671919:por"
+  }
+]

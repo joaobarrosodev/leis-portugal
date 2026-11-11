@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:500699:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "3.º As margens máximas de comercialização permitidas ao grossista e ao retalhista são, respectivamente, de 10% e 15% sobre o preço líquido de factura do produtor, não podendo aquelas percentagens ser adicionadas de quaisquer outras despesas e encargos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 497/76), n.º 2.º: a tabela de preços anexa é substituída pela tabela anexa ao alterador, que só existe em imagem (documento original); não aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: as margens de 8% e 10% do n.º 3.º passam a 10% e 15%; substituída a unidade 8 com os valores trocados.",
+    "Alterador 1, n.º 2.º: substituição da tabela anexa, só em imagem; não aplicada.",
+    "Alterador 1, n.º 3.º: mantém o restante; nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

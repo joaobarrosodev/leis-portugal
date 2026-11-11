@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 70-70",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Em regime transitório, a Universidade de Coimbra, através da Faculdade de Letras, conferirá o grau de licenciado em Línguas e Literaturas Clássicas, variante de Estudos Clássicos e Portugueses, no ramo educacional. O curso respectivo, ministrado em regime transitório, destinar-se-á aos alunos que venham a licenciar-se em Línguas e Literaturas Clássicas, variante de Estudos Clássicos e Portugueses, nos anos lectivos de 1986-1987 a 1988-1989, inclusive, e que pretendam obter aquele ramo de formação educacional.",
+    "depois": "2 - Em regime transitório, a Universidade de Coimbra, através da Faculdade de Letras, conferirá o grau de licenciado em Línguas e Literaturas Clássicas, nas variantes de Estudos Clássicos e Portugueses e de Estudos Clássicos e Franceses, no ramo educacional. Os cursos respectivos, ministrados em regime transitório, destinar-se-ão aos alunos que venham a licenciar-se em Línguas e Literaturas Clássicas, variantes de Estudos Clássicos e Portugueses e de Estudos Clássicos e Franceses, nos anos lectivos de 1986-1987 a 1988-1989, inclusive, e que pretendam obter aquele ramo de formação educacional.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:496109:por",
+    "alterador": "pt:dre:619730:por"
+  },
+  {
+    "artigo": "depois da unidade 70",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "3 - Em regime transitório, a Universidade de Coimbra, através da Faculdade de Letras, conferirá o grau de licenciado em Línguas e Literaturas Modernas, nas variantes de Estudos Franceses e Espanhóis e de Estudos Franceses e Italianos, no ramo educacional. Os cursos respectivos, ministrados em regime transitório, destinar-se-ão aos alunos que venham a licenciar-se em Línguas e Literaturas Modernas, nas variantes de Estudos Franceses e Espanhóis e de Estudos Franceses e Italianos, nos anos lectivos de 1986-1987 a 1988-1989, inclusive, e que pretendam obter aquele ramo de formação educacional.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:496109:por",
+    "alterador": "pt:dre:619730:por"
+  },
+  {
+    "artigo": "depois da unidade 202",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "r) (transitório) Línguas e Literaturas Clássicas, variante de Estudos Clássicos e Franceses - Grego, Latim, Francês;\n\ns) (transitório) Línguas e Literaturas Modernas, variante de Estudos Franceses e Espanhóis - Francês;\n\nt) (transitório) Línguas e Literaturas Modernas, variante de Estudos Franceses e Italianos - Francês.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:496109:por",
+    "alterador": "pt:dre:619730:por"
+  }
+]

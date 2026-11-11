@@ -1,0 +1,53 @@
+{
+  "id": "pt:dre:239461:por",
+  "substituicoes": [
+    {
+      "de": 56,
+      "ate": 56,
+      "texto": "3 - A percentagem do numerus clausus afectada a cada contingente, em cada curso, é a seguinte:\n\na) Contingente a que se refere a alínea a) do n.º 1 do n.º 5.º - 42%;\n\nb) Contingente a que se refere a alínea b) do n.º 1 do n.º 5.º - 38%;\n\nc) Contingente a que se refere a alínea c) do n.º 1 do n.º 5.º - 17%;\n\nd) Contingente a que se refere a alínea d) do n.º 1 do n.º 5.º - 3%.",
+      "alterador": 4
+    },
+    {
+      "de": 105,
+      "ate": 105,
+      "texto": "3 - Quando num curso e contingente, esgotada a utilização dos critérios fixados nos n.os 1 ou 2, se verificar uma situação de empate relevante para a escolha dos candidatos a colocar, o conselho científico do Instituto Superior de Contabilidade e Administração de Lisboa procederá à escolha entre os candidatos empatados.",
+      "alterador": 4
+    },
+    {
+      "de": 191,
+      "ate": 191,
+      "texto": "1 - Os prazos para a candidatura, selecção, matrícula e inscrição serão fixados anualmente por despacho do presidente da comissão instaladora do Instituto Politécnico de Lisboa, sob proposta do conselho directivo do Instituto Superior de Contabilidade e Administração de Lisboa (ISCAL).\n\n2 - O despacho a que se refere o n.º 1 será objecto de afixação pública nas instalações do Instituto Politécnico e do ISCAL, bem como de publicação na 2.ª série do Diário da República antes do início dos prazos a que o mesmo se refere.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 56,
+      "texto": "5.º-A\n\nSupranumerários\n\n1 - Para cada um dos cursos poderá ainda ser criado um contingente especial, para além das vagas fixadas nos termos do n.º 3.º, destinado a estudantes nacionais das Repúblicas Popular de Angola, de Cabo Verde, da Guiné-Bissau, Popular de Moçambique e Democrática de São Tomé e Príncipe, desde que a sua candidatura seja apresentada previamente pela via diplomática, através do Gabinete Coordenador do Ingresso no Ensino Superior, no âmbito dos acordos de cooperação firmados pelo Estado Português.\n\n2 - Os estudantes a que se refere o n.º 1 têm de ser titulares de habilitação de acesso adequada nos termos do n.º 2.º e estarão sujeitos, se excederem o número de vagas fixadas, às regras de seriação fixadas pela presente portaria.\n\n3 - O número de vagas a afectar em cada curso a este contingente será fixado nos termos do n.º 3.º e não poderá ser superior a 10% das vagas fixadas para cada curso.",
+      "alterador": 4
+    },
+    {
+      "depois_de": 151,
+      "texto": "16.º-A\n\nResultados\n\nO resultado das candidaturas aos cursos, bem como o número de alunos matriculados e inscritos, deve ser comunicado ao Gabinete Coordenador do Ingresso no Ensino Superior no prazo que for fixado nos termos do n.º 26.º",
+      "alterador": 2
+    },
+    {
+      "depois_de": 160,
+      "texto": "19.º-A\n\nRegime de frequência\n\nÉ obrigatória a frequência de, pelo menos, 50% das aulas de cada disciplina integrante do plano de estudos de cada curso.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 3.º: adita o n.º 19.º-A (Regime de frequência); inserido depois da unidade 160 (fim do 19.º). Os n.os 1.º e 2.º do alterador 1 são normas próprias para 1986-1987, não alteram o original.",
+    "Alterador 2, n.º 1.º: adita o n.º 16.º-A (Resultados); inserido depois da unidade 151 (fim do 16.º).",
+    "Alterador 3, n.º 1.º: nova redação do n.º 26.º; substituído só o corpo (unidade 191) pelos novos n.os 1 e 2, mantendo número e epígrafe. Os n.os 2.º a 4.º do alterador 3 alteram outras portarias (686/86, 751/86, 372/88): ignorados.",
+    "Alterador 4, n.º 1.º: adita o n.º 5.º-A (Supranumerários); inserido depois da unidade 56 (fim do 5.º).",
+    "Alterador 4, n.º 2.º: nova redação do n.º 3 do n.º 5.º (unidade 56, com as alíneas a) a d)); n.os 1 e 2 ficam ('...').",
+    "Alterador 4, n.º 2.º: nova redação do n.º 3 do n.º 10.º (unidade 105); n.os 1 e 2 ficam ('...').",
+    "Alterador 5: confere grau de licenciado, norma própria sem alteração textual ao original: nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

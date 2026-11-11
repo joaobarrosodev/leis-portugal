@@ -1,0 +1,38 @@
+{
+  "id": "pt:dre:288393:por",
+  "substituicoes": [
+    {
+      "de": 44,
+      "ate": 44,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26272629.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26272629.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26272629.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26272629.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 47,
+      "ate": 47,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26272629.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26272629.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26272629.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26272629.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 50,
+      "ate": 50,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26272629.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26272629.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26272629.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26272629.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 53,
+      "ate": 53,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26272629.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26272629.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26272629.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26272629.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o anexo passa a ter a redação do anexo da Portaria n.º 323/2005; os quadros n.os 1 a 4 só vêm em imagem, pelo que só se substituíram as ligações para o documento original (os títulos e cabeçalhos do anexo ficam iguais); o conteúdo dos quadros não é verificável.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo; cabeçalhos iguais ao atual, substituídas as ligações dos quadros 1 a 4 (unidades 44, 47, 50, 53) pelas do anexo novo; quadros só em imagem (nao_aplicavel).",
+    "Alterador 1, 2.º e 3.º: transição e aplicação no tempo, não textuais; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

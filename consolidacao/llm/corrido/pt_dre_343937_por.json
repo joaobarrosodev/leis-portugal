@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:343937:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 5 (Portarias n.os 375/97, 1213/97, 70/98, 921/98 e 50/2002) alteram os planos de estudos dos cursos e desdobram-nos em opções ou ramos; os planos estão no anexo, que só existe em imagem, e não há instrução de redação para o texto do original; não aplicados.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 375/97): Ciência Política desdobra-se em opções e novo plano de estudos em anexo (imagem); não aplicado.",
+    "Alterador 2 (Portaria n.º 1213/97): novo plano de estudos de Matemática (anexo em imagem); não aplicado.",
+    "Alterador 3 (Portaria n.º 70/98): novo plano de estudos de Urbanismo (anexo em imagem); não aplicado.",
+    "Alterador 4 (Portaria n.º 921/98): Informática desdobra-se em ramos e novo plano (anexo em imagem); não aplicado.",
+    "Alterador 5 (Portaria n.º 50/2002): regula o curso de Ciência Política em diploma próprio, com plano em imagem; não aplicado.",
+    "Alterador 6 (Portaria n.º 96/2003): altera e adita números à Portaria n.º 70/98, outro diploma; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

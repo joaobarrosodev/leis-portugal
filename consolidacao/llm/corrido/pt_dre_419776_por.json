@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:419776:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores acrescentam, alteram ou substituem lugares do quadro de pessoal anexo (unidade 10), que só existe em imagem, por mapas também em imagem (incluindo a substituição integral do quadro pelo mapa I da Portaria n.º 663/94); os Despachos Normativos 48/93 e 105/94 criam lugares sem alteração textual. Nada no texto (incluindo o conteúdo funcional dos desenhadores) é alterado.",
+  "instrucoes": [
+    "Alteradores 1-10 (Portarias 69/88, 407/88, 492/88, 578/88, 307/89, 220/90, 235/90, 412/92, 1174/92): alteram o quadro de pessoal por mapas em imagem; não aplicado.",
+    "Alteradores 11-13 (Despachos Normativos 48/93 e 105/94): criam lugares no quadro; não textual, não aplicado.",
+    "Alterador 14 (Portaria 663/94): o quadro passa a ser o do mapa I (imagem); outros números referem-se a outro diploma ou a conteúdo funcional novo não inserido no original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

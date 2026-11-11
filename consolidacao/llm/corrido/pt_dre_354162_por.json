@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:354162:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "a) (Revogada.)",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 20,
+      "texto": "c) (Revogada.)\n\nd) (Revogada.)\n\n3.º - (Revogado.)\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n6.º - (Revogado.)\n\n7.º - (Revogado.)\n\n8.º - (Revogado.)\n\n9.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 12.º a): a revogação abrange também o anexo (modelos), com exceção do modelo da alínea b) do n.º 2.º, mas o anexo só existe em imagem (unidade 24); não aplicada ao anexo. O proémio do n.º 2.º (unidade 8) foi mantido por ser necessário à alínea b), que se mantém em vigor (até à extinção das zonas de caça sociais).",
+  "instrucoes": [
+    "Alterador 1, n.º 12.º a): revoga a Portaria n.º 697/88 e o anexo, com exceção da alínea b) do n.º 2.º e do modelo respetivo; marcados como revogados os n.os 1.º, 3.º a 9.º e as alíneas a), c) e d) do n.º 2.º; mantidos o proémio e a alínea b) do n.º 2.º; anexo em imagem não tratado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

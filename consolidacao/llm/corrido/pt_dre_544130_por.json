@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:544130:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 67/2001), n.º 1.º: os quadros n.os 9 e 13 do anexo I e o quadro n.º 13 do anexo II passam a ter a redação do anexo, mas os quadros só existem em imagem (documento original), no original e no alterador; não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 67/2001), n.º 1.º: substitui quadros dos anexos I e II, só em imagem; não aplicado.",
+    "Alterador 1, n.º 2.º: regra de aplicação do próprio alterador; nada a mudar no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

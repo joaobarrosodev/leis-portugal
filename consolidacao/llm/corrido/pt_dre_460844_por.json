@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:460844:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "Nota. - O funcionário administrativo que exercer as funções de tesoureiro será abonado de 600$00 mensais para falhas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "As alterações ao quadro de pessoal (Portarias 51/82, 1242/82, 1315/82, 1334/82, 807-Z3/83, 196/84, 573/85, 253/86, 544/87, 890/87, 321/89, 423/90, 413/91 e a substituição pela Portaria 944/94) vêm em imagem e não são aplicáveis ao texto.",
+  "instrucoes": [
+    "Portaria 51/82: alterações ao quadro (imagem) e nova nota do tesoureiro com 600$00 mensais para falhas: substituída a unidade 10.",
+    "Restantes portarias: alteram ou substituem o quadro de pessoal em imagem: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

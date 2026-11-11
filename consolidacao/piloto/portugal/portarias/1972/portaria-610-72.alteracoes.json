@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 71-71",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Mantêm-se as características actualmente em vigor, até que se proceda à sua revisão.",
+    "depois": "a) Vinho do Porto:\n\nEm relação às características não especificadas, aplicar-se-ão os limites em vigor até que se proceda à sua revisão.\n\nMassa volúmica a 20ºC:\n\nVinhos doces - superior a 1018;\n\nVinhos meio secos - entre 1008 e 1018,5;\n\nVinhos secos - inferior a 1008.\n\nNas designações reforçativas:\n\nVinhos muito doces ou lágrima - entre 1034 e 1048;\n\nVinhos extra-secos - inferior a 998.\n\nGrau alcoólico volumétrico (teor alcoólico em volume a 20ºC) - compreendido entre 19º e 22º, salvo no referente ao vinho branco seco, que pode ter um mínimo de 16,5º, devendo em tal caso ser obrigatoriamente designado, quer nos rótulos, quer nos certificados de origem, como «Vinho do Porto - leve seco» e levar no rótulo a indicação do seu teor alcoólico.\n\nb) Outros vinhos generosos:\n\nMantêm-se as características actualmente em vigor até que se proceda à sua revisão.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:690063:por",
+    "alterador": "pt:dre:337046:por"
+  }
+]

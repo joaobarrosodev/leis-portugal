@@ -1,0 +1,131 @@
+---
+id: pt:dre:458213:por
+title: Portaria n.º 996/80
+original: data/portugal/portarias/1980/portaria-996-80.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:375216:por
+    title: Portaria n.º 888/82
+    publication_date: '1982-09-22'
+---
+
+# Portaria n.º 996/80
+
+de 20 de Novembro
+
+A portaria elaborada no Ministério da Indústria e Energia, em cumprimento do disposto no n.º 1 do artigo 20.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, foi publicada com o n.º 284/80 no Diário da República, 1.ª série, n.º 120, de 24 de Maio de 1980.
+
+Tendo-se verificado alguns casos de erro e de omissão, torna-se indispensável proceder a rectificações.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Indústria e Energia e pelo Secretário de Estado da Reforma Administrativa, o seguinte:
+
+1.º No quadro anexo III da [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), Gabinete de Estudos e Planeamento, no pessoal adjunto técnico:
+
+Onde se lê: ... Número de lugares
+
+Adjunto técnico principal ... 4
+
+Adjunto técnico de 1.ª ... 4
+
+Adjunto técnico de 2.ª ... 4
+
+deve ler-se:
+
+Adjunto técnico principal ... 2
+
+Adjunto técnico de 1.ª ... 2
+
+Adjunto técnico de 2.ª ... 8
+
+2.º No quadro anexo VIII da [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), Direcção-Geral de Geologia e Minas, no pessoal técnico superior, formação/função técnico superior, e no pessoal adjunto técnico, formação/função prospecção:
+
+Onde se lê: ... Número de lugares
+
+Técnico superior principal ... 3
+
+Técnico superior de 1.ª ... 3
+
+Técnico superior de 2.ª ... 3
+
+e
+
+Adjunto técnico principal ... 1
+
+Adjunto técnico de 1.ª ... 1
+
+Adjunto técnico de 2.ª ... 3
+
+deve ler-se:
+
+Técnico superior principal ... 4
+
+Técnico superior de 1.ª ... 2
+
+Técnico superior de 2.ª ... 2
+
+e
+
+Adjunto técnico principal ... 2
+
+Adjunto técnico de 1.ª ... -
+
+Adjunto técnico de 2.ª ... 3
+
+3.º No quadro anexo XII da [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), Gabinete para a Pesquisa e Exploração de Petróleo, no pessoal técnico superior:
+
+Onde se lê: ... Número de lugares
+
+Assessor ... 1
+
+Técnico superior principal ... 10
+
+Técnico superior de 1.ª ... 3
+
+Técnico superior de 2.ª ... 2
+
+deve ler-se:
+
+Assessor ... 1
+
+Técnico superior principal ... 10
+
+Técnico superior de 1.ª ... 4
+
+Técnico superior de 2.ª ... -
+
+4.º No quadro anexo XIII da [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), delegações regionais (elaborado sobre o quadro da [Portaria n.º 521/79](https://diariodarepublica.pt/dr/detalhe/portaria/521-1979-666316), de 25 de Setembro), foi omitida no pessoal técnico-profissional a formação/função técnico auxiliar, que nele deve figurar e que consta do quadro que segue:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26900/39273929.pdf)
+
+5.º O quadro anexo V da [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), Direcção-Geral da Qualidade, passa a ser como o quadro anexo V a esta portaria, em virtude de o volume de omissões aconselhar uma substituição total do quadro.
+
+6.º O n.º 1 da [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529) passa a ter a seguinte redacção:
+
+Os quadros II e III anexos ao [Decreto Regulamentar n.º 86/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/86-1977-279626), de 16 de Dezembro, bem como o quadro constante da [Portaria n.º 382/79](https://diariodarepublica.pt/dr/detalhe/portaria/382-1979-381529), de 31 de Julho, são substituídos pelo quadro anexo I à presente portaria.
+
+7.º No quadro anexo I da [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), Secretaria-Geral, no pessoal auxiliar (motoristas):
+
+Onde se lê:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26900/39273929.pdf)
+
+deve ler-se:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26900/39273929.pdf)
+
+Dos lugares de motorista de pesados de 1.ª classe ou de 2.ª classe que vagarem pela integração do pessoal que exerce esta função no âmbito do mapa anexo IV a que se refere o n.º 2 do artigo 57.º do [Decreto-Lei n.º 361/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1977-286520), de 1 de Setembro, acrescerão 10 aos lugares de motorista de ligeiros de 1.ª classe ou de 2.ª classe, mantendo-se 1 em motorista de pesados de 1.ª classe ou de 2.ª classe.
+
+> Alterado pelo/a [Portaria n.º 888/82](https://diariodarepublica.pt/dr/detalhe/portaria/888-1982-375216), publicado em 1982-09-22.
+
+8.º No quadro anexo XI da [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), Direcção-Geral das Indústrias Transformadoras Ligeiras, os lugares de adjunto administrativo e de secretária esteno-dactilógrafa serão extintos quando vagarem.
+
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Indústria e Energia, 10 de Novembro de 1980. - Pelo Ministro das Finanças e do Plano, José António da Silveira Godinho, Secretário de Estado Adjunto do Ministro das Finanças e do Plano. - Pelo Ministro da Indústria e Energia, Ricardo Manuel Simões Bayão Horta, Secretário de Estado da Indústria Transformadora. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
+
+## ANEXO V — Direcção-Geral da Qualidade
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26900/39273929.pdf)

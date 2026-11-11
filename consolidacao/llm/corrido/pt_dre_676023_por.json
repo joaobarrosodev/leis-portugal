@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:676023:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (1.º) substitui o plano de estudos da variante de Matemática e Ciências da Natureza (anexo, unidade 19) e alterador 2 (1.º) o da variante de Educação Visual e Tecnológica (unidade 21); os novos quadros só vêm em imagem ('ver quadro no documento original'), por isso não se aplicam ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos da variante de Matemática e Ciências da Natureza; anexo só em imagem, não aplicado.",
+    "Alterador 1, 2.º a 4.º: normas próprias (duração do ano lectivo, transição, aplicação), não alteram o texto do original; ignorados.",
+    "Alterador 2, 1.º: novo plano de estudos da variante de Educação Visual e Tecnológica; anexo só em imagem, não aplicado.",
+    "Alterador 2, 2.º a 4.º: normas próprias, não alteram o texto do original; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

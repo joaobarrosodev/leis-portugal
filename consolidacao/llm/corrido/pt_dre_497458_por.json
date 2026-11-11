@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:497458:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 617/88): os quadros I e II do anexo XXXIV passam a ter a redacção dos anexos da portaria; tanto o anexo do original (unidade 240) como os novos quadros só existem em imagem (ver documento original). Não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção dos quadros I e II do anexo XXXIV (imagem) - não aplicado",
+    "Alterador 1, 2.º: aplicação retroactiva - não altera o texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

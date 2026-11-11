@@ -1,0 +1,58 @@
+{
+  "id": "pt:dre:497469:por",
+  "substituicoes": [
+    {
+      "de": 34,
+      "ate": 34,
+      "texto": "c) Comunicação Social, nos ramos:\n\nI) Áudio-Visual;\n\nII) Científico;\n\nIII) Jornalismo.",
+      "alterador": 5
+    },
+    {
+      "de": 81,
+      "ate": 81,
+      "texto": "c) Comunicação Social, nos ramos de:\n\nI) Áudio-Visual: quatro anos (parte escolar) e estágio;\n\nII) Científico: quatro anos (parte escolar) e estágio;\n\nIII) Jornalismo: quatro anos (parte escolar) e estágio.",
+      "alterador": 5
+    },
+    {
+      "de": 122,
+      "ate": 122,
+      "texto": "1 - Os planos de estudos dos cursos a que se referem as alíneas a) e d) a o) do n.º 1.º e o n.º 2.º são os constantes em anexo à presente portaria.",
+      "alterador": 1
+    },
+    {
+      "de": 152,
+      "ate": 152,
+      "texto": "1 - A classificação final de cada curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares (disciplinas, seminários, trabalho final, estágio) que integram o respectivo plano de estudos.",
+      "alterador": 5
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 123,
+      "texto": "3 - O plano de estudos do curso de licenciatura em Comunicação Social é constituído por:\n\na) Uma parte escolar que integra as unidades curriculares constantes do anexo II à presente portaria;\n\nb) Um estágio.\n\n4 - A regulamentação do estágio e do trabalho de fim de curso do curso de licenciatura em Comunicação Social é da competência do conselho científico, ouvido o conselho pedagógico.\n\n4.º-A\n\nEstágio do curso de licenciatura em Comunicação Social\n\n1 - O estágio do curso de licenciatura em Comunicação Social tem a duração máxima de três meses.\n\n2 - A inscrição, realização e avaliação do estágio serão objecto de um regulamento a aprovar pelo director, sob proposta do conselho científico, ouvido o conselho pedagógico.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 133,
+      "texto": "6.º-A\n\nLínguas vivas estrangeiras na licenciatura em Comunicação Social\n\nOs alunos inscritos no curso de licenciatura em Comunicação Social deverão demonstrar conhecimento de uma língua viva estrangeira, de entre o elenco, ao nível e pela forma que foram fixados em regulamento a aprovar pelo conselho científico, ouvido o conselho pedagógico.",
+      "alterador": 5
+    },
+    {
+      "depois_de": 155,
+      "texto": "11.º-A\n\nAcesso aos ramos do curso de licenciatura em Comunicação Social\n\n1 - A inscrição nos ramos do curso de licenciatura em Comunicação Social está sujeita a limitações quantitativas a fixar anualmente por despacho do reitor, sob proposta do conselho científico.\n\n2 - Se num determinado ano o número de alunos que se pretende inscrever num ramo for inferior a quinze, esse ramo não poderá abrir inscrições nesse ano.\n\n3 - Aos alunos admitidos à inscrição no curso é assegurada sempre a inscrição num dos ramos.\n\n4 - Podem concorrer à inscrição em cada um dos ramos os estudantes inscritos no 2.º ano que reúnam as condições de transição para o 3.º ano.\n\n5 - As regras e prazos de candidatura e de selecção para inscrição nos ramos serão fixadas por despacho do reitor, sob proposta do conselho científico.\n\n6 - Os despachos a que se referem os n.os 1 e 5 serão objecto de publicação na 2.ª série do Diário da República e de afixação pública na faculdade, com a antecedência, respectivamente, de um mês antes da data da candidatura e de seis meses antes do início do ano lectivo a que dizem respeito.",
+      "alterador": 5
+    }
+  ],
+  "nao_aplicavel": "Quadros e anexos dos planos de estudos que só vêm em imagem/documento original: alterador 1, n.º 3.º (quadros I a IV do anexo I, II do anexo XV, X a XIII do anexo XVIII, III e V do anexo XX, IV do anexo XXVI); alterador 2, n.º 1.º-4 (anexo II); alterador 3 (quadro V do anexo XVIII, II e VI do anexo XXII, VI do anexo XXVI); alterador 4 (quadros I e III do anexo XV). Não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova alínea c) do n.º 1 do n.º 3.º (Comunicação social: quatro anos e estágio); depois substituída pelos alteradores 2 e 5 (unidade 81 fica com a redação do alterador 5).",
+    "Alterador 1, 2.º: nova redação do n.º 4.º: n.º 1 passa a 'a) e d) a o)' (unidade 122); n.º 2 igual; aditados n.os 3 e 4 a seguir à unidade 123 (o n.º 3 com a redação posterior do alterador 5, 4.º).",
+    "Alterador 1, 3.º: quadros dos anexos; em imagem, não aplicado.",
+    "Alterador 2, 1.º-1 e 1.º-2: alíneas c) do n.º 1.º e do n.º 1 do n.º 3.º com ramos; superadas pelo alterador 5. 1.º-3: n.º 1 do n.º 11.º; superado pelo alterador 5, 7.º. 1.º-4: anexo II; não aplicado. 2.º e 3.º: disposições próprias, não aditadas ao original.",
+    "Alteradores 3 e 4: quadros de anexos; não aplicados.",
+    "Alterador 5, 2.º: alínea c) do n.º 1.º com ramos Áudio-Visual, Científico e Jornalismo (unidade 34). 3.º: alínea c) do n.º 1 do n.º 3.º (unidade 81). 4.º: n.º 3 do n.º 4.º (na inserção depois da 123). 5.º: aditado o n.º 4.º-A (na mesma inserção, após o n.º 4.º). 6.º: aditado o n.º 6.º-A depois da unidade 133. 7.º: n.º 1 do n.º 11.º (unidade 152). 8.º: aditado o n.º 11.º-A depois da unidade 155. 1.º e 9.º: disposições próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

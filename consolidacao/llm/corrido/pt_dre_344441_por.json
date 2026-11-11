@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:344441:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1049/97, 1.º) substitui o anexo I (plano de estudos), que não faz parte do texto por unidades e cujo novo conteúdo só vem em imagem ('ver documento original').",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo I (plano de estudos) — só em imagem e o anexo não está no texto; não aplicada (nao_aplicavel).",
+    "Alterador 1, 2.º e 3.º: aplicação e transição — não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

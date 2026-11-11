@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:199658:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria 305/2006, n.º 1.º) revoga a concessão da zona de caça associativa da Seiceira criada pelo original, que é todo o objeto da portaria: revogação do diploma por inteiro. Antes disso, o alterador 1 (Portaria 807/2003) anexou prédios por planta própria (área total 365,9635 ha) sem instrução textual sobre o original; não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 807/2003, n.º 1.º): anexa prédios à zona de caça, ficando com 365,9635 ha, conforme nova planta; não é alteração textual do original. Nada feito.",
+    "Alterador 2 (Portaria 305/2006, n.º 1.º): revoga a concessão criada pelo original (revogação total). Nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

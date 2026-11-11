@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:504503:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 750/2006), 1.º: extingue a zona de caça municipal do Pomarão criada pelo original, o que esgota todo o diploma; não há alteração textual a aplicar.",
+  "instrucoes": [
+    "Alt. 1, 1.º: extinção da zona de caça criada pelo original (equivale a cessação total); nada devolvido.",
+    "Alt. 1, 2.º a 4.º: dizem respeito à zona de caça associativa de Santana de Cambas (outra portaria); ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

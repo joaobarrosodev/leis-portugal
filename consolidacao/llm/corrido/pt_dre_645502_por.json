@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:645502:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 38/2004, n.º 1.º-1): muda a duração do 2.º ciclo do curso de Contabilidade e Gestão Financeira da ESG Idanha-a-Nova, dado que só consta do quadro do anexo, em imagem. Alterador 2 (Portaria n.º 152/2006, n.º 4.º-2-c)): revogação diferida e parcial da autorização para Engenharia das Ciências Vitivinícolas (ESA Viseu), que só consta do quadro do anexo, em imagem. Nada de textual a aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º-1: duração do 2.º ciclo de um curso no quadro do anexo (imagem): não aplicado; n.º 1.º-2 altera a Portaria 1182/2003 (outro diploma): ignorado.",
+    "Alterador 2, n.º 4.º-2-c): revogação parcial da autorização de um curso (quadro em imagem, findo o processo de transição): não aplicada; resto do diploma não se dirige ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

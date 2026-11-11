@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:564592:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º - (Revogado.)",
+      "alterador": 6
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 4: substituem planos de estudos (anexos só em imagem) e mudam a denominação de cursos sem nova redação do texto; alterador 5: autoriza novo curso e determina caducidade futura, sem alteração textual; alterador 7: encerramento compulsivo do estabelecimento, não textual.",
+  "instrucoes": [
+    "Alt.1 (904/93): novo plano e nova denominação do curso de Secretariado; anexo em imagem e sem nova redação, não aplicado",
+    "Alt.2 (947/93): idem para Gestão de Empresas, não aplicado",
+    "Alt.3 (955/93): idem para Informática de Gestão e Tradutores, não aplicado",
+    "Alt.4 (1470/95): idem para Secretariado (Assessoria de Direcção), não aplicado",
+    "Alt.5 (972/2000): novo curso e caducidade dos cursos de Tradução e Assessoria de Direcção, não textual",
+    "Alt.6 (DL 228/2015, art. 7.º): revoga o n.º 1.º; unidade 7 passa a '1.º - (Revogado.)'",
+    "Alt.7 (Despacho 10301/2020): encerramento compulsivo, não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

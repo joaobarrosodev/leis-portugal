@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:367047:por",
+  "substituicoes": [
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "Art. 2.º O presente diploma produz os seus efeitos a partir de 1 de Outubro de 1979, sendo apenas aplicável às pensões, incapacidades e remições fixadas a partir dessa data.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Acórdão n.º 12/88): declara a inconstitucionalidade do artigo 2.º apenas 'na medida em que' restringe a aplicação da nova redacção do artigo 50.º do Decreto n.º 360/71; é parcial e não textual, pelo que não se altera o texto.",
+  "instrucoes": [
+    "Alterador 1 (DL 231/80, artigo único): nova redacção do artigo 2.º; substituída a unidade 22.",
+    "Alterador 2 (Acórdão 12/88): inconstitucionalidade parcial do artigo 2.º; não textual, não aplicada (nao_aplicavel).",
+    "Alterador 3 (DL 304/93): altera o artigo 65.º do Decreto n.º 360/71 e dispõe sobre o artigo 50.º desse decreto; dirigido a outro diploma, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

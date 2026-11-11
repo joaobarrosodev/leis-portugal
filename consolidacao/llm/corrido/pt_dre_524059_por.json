@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:524059:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 907/2005), n.º 8.º: revoga na totalidade as portarias mencionadas no n.º 6.º que não são parcialmente revogadas pelo n.º 7.º, entre as quais a Portaria n.º 406/92; o original fica revogado por inteiro. Antes disso, a alteração do plano de estudos pelo Alterador 1 (Portaria n.º 940/92) era feita por mapa só em imagem, não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 940/92), n.º 1.º: altera o plano de estudos de acordo com mapa anexo, só em imagem; não aplicado.",
+    "Alterador 1, n.º 2.º: produção de efeitos; nada a mudar no texto.",
+    "Alterador 2 (Portaria n.º 907/2005), n.os 6.º e 8.º: extingue o curso e revoga na totalidade a Portaria n.º 406/92; revogação total, nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

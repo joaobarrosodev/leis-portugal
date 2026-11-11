@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:461611:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações (Portarias n.os 56/82, 196/83, 807-C4/83, 765/84, 69/85, 111/86, 889/87, 807/88, 363/89, 627/90, 413/91, 155/93 e 568/96) incidem sobre o quadro de pessoal anexo, que só vem em imagem; a Portaria n.º 568/96 substitui o quadro por outro também em imagem e os seus n.os 2.º e 3.º são disposições próprias, não texto do original.",
+  "instrucoes": [
+    "Alteradores 1 a 13: alteram o quadro de pessoal anexo (imagem); não aplicado.",
+    "Alterador 14: substitui o quadro anexo por outro (imagem); não aplicado. N.os 2.º e 3.º e anexo I são normas da própria portaria."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "pt:dre:314057:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 23,
+      "texto": "Artigo 1.º - (Revogado.)\n\nArt. 2.º - (Revogado.)\n\nArt. 3.º - (Revogado.)\n\nArt. 4.º - (Revogado.)\n\nArt. 5.º - (Revogado.)\n\nArt. 6.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 69,
+      "ate": 69,
+      "texto": "Art. 3.º - (Revogado.)",
+      "alterador": 4
+    },
+    {
+      "de": 78,
+      "ate": 79,
+      "texto": "B) Comissão de Alimentação Animal\n\nArt. 7.º É criada a Comissão de Alimentação Animal, a qual funcionará na dependência directa da Direcção-Geral dos Serviços Veterinários.",
+      "alterador": 2
+    },
+    {
+      "de": 80,
+      "ate": 94,
+      "texto": "Art. 8.º - 1 - A Comissão de Alimentação Animal (CAA) é presidida pelo director-geral dos Serviços Veterinários, ou por um seu delegado, e constituída por representantes das seguintes entidades:\n\na) Direcção-Geral dos Serviços Veterinários;\n\nb) Instituto Nacional de Investigação Agrária;\n\nc) Instituto de Qualidade Alimentar;\n\nd) Direcção-Geral das Indústrias Agrícolas Alimentares;\n\ne) Laboratório Nacional de Engenharia e Tecnologia Industrial;\n\nf) Direcção-Geral de Qualidade;\n\ng) Direcção-Geral das Indústrias Transformadoras Ligeiras;\n\nh) Direcção-Geral de Saúde;\n\ni) Direcção-Geral do Comércio Alimentar;\n\nj) Associação Portuguesa dos Industriais de Alimentos Compostos para Animais.\n\n2 - As reuniões da Comissão serão convocadas pelo presidente ou a pedido de um terço, pelo menos, dos vogais.\n\n3 - O presidente poderá convidar a participarem nas reuniões personalidades especialmente competentes nas matérias em estudo.",
+      "alterador": 3
+    },
+    {
+      "de": 95,
+      "ate": 95,
+      "texto": "Art. 9.º Os serviços de secretaria e expediente da Comissão de Alimentação Animal serão assegurados pela Direcção-Geral dos Serviços Veterinários, desempenhando as funções de secretário um funcionário desta Direcção-Geral, por ela designado.",
+      "alterador": 2
+    },
+    {
+      "de": 96,
+      "ate": 102,
+      "texto": "Art. 10.º São atribuições da CAA as seguintes:\n\na) Coordenar as acções cometidas aos organismos ou instituições intervenientes nos diversos campos em que se subdivide o vasto sector da alimentação animal;\n\nb) Sugerir aos departamentos competentes o estudo de novas matérias-primas susceptíveis de poderem ser utilizadas na alimentação dos animais;\n\nc) Indicar as características a que devem obedecer os alimentos simples e compostos para animais;\n\nd) Indicar as substâncias que podem ser usadas em alimentação animal como aditivos alimentares, suas características e modo de utilização;\n\ne) Solicitar à comissão técnica de normalização respectiva o estudo de normas sobre métodos de análise adequados ao contrôle de qualidade dos alimentos para animais;\n\nf) Propor as alterações que julgue conveniente introduzir na legislação em vigor sobre matéria de alimentação animal, designadamente a referente a fraudes na preparação e comercialização de alimentos e aditivos alimentares;\n\ng) Estabelecer, no âmbito das suas atribuições, intercâmbio com organismos ou instituições nacionais ou estrangeiros ligados aos problemas da alimentação animal;\n\nh) Emitir pareceres acerca de assuntos relacionados com a alimentação animal que lhe sejam apresentados por entidades ligadas ao mesmo campo de actividade.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 75/74, art. 57.º f): mantém em vigor o regulamento anexo ao Decreto 47776 exceto os artigos 1.º a 6.º; tomado como revogação dos arts. 1.º a 6.º do Regulamento do Exercício da Indústria (matéria de autorização industrial do DL 75/74; o DL 57/85 ainda revoga o art. 3.º do outro regulamento, o que confirma o alvo): unidades 15-23 revogadas.",
+    "Decreto 104/78: extingue a Comissão Técnica Permanente e dá nova redação à secção B) e aos arts. 7.º a 10.º do Regulamento de Preparação: aplicados a epígrafe B), art. 7.º e art. 9.º (arts. 8.º e 10.º depois substituídos pelo Decreto 41/80).",
+    "Decreto 41/80: nova redação dos arts. 8.º e 10.º do Regulamento de Preparação (unidades 80-94 e 96-102).",
+    "DL 57/85, art. 10.º a): revoga o art. 3.º do Regulamento de Preparação (unidade 69); alínea b) é de outro diploma."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 15-23: parágrafo que não está no alterador nem no original: Artigo 1.º - (Revogado.)",
+    "substituição 15-23: parágrafo que não está no alterador nem no original: Art. 2.º - (Revogado.)",
+    "substituição 15-23: parágrafo que não está no alterador nem no original: Art. 3.º - (Revogado.)",
+    "substituição 15-23: parágrafo que não está no alterador nem no original: Art. 4.º - (Revogado.)",
+    "substituição 15-23: parágrafo que não está no alterador nem no original: Art. 5.º - (Revogado.)",
+    "substituição 15-23: parágrafo que não está no alterador nem no original: Art. 6.º - (Revogado.)",
+    "substituição 69-69: parágrafo que não está no alterador nem no original: Art. 3.º - (Revogado.)"
+  ]
+}

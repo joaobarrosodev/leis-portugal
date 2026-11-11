@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:300227:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 15 só aditam pares estabelecimento/curso ao anexo, mudam denominações, ramos, durações ou planos de estudos de cursos que constam do anexo publicado em imagem, ou alteram outras portarias (planos de estudos); nada aplicável ao texto.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 680-A/98): adita um par estabelecimento/curso ao anexo, que só existe em imagem; não aplicado.",
+    "Alts. 2, 3, 8, 11, 12, 15: alteram ramos de cursos e anexos de outras portarias (planos de estudos); não aplicados.",
+    "Alts. 4, 5, 6, 7, 9: autorizam novos cursos e fazem cessar cursos autorizados pela portaria (alteração do anexo em imagem); não aplicados.",
+    "Alts. 10, 13, 14: aprovam planos de estudos e mudam denominações de cursos do anexo em imagem; não aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

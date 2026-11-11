@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1. Os encargos da realização do plano aprovado pela presente lei, excluídos os da aquisição ou expropriação dos terrenos, serão suportados pelas dotações que o Ministério das Finanças fará inscrever anualmente para este fim no orçamento da despesa extraordinária do Ministério das Obras Públicas.",
+    "depois": "1. Os encargos da realização do Plano aprovado pela presente lei serão suportados pelas dotações que o Ministério das Finanças fará inscrever anualmente para este fim no orçamento da despesa extraordinária do Ministério das Obras Públicas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:559043:por",
+    "alterador": "pt:dre:631263:por;pt:dre:599750:por"
+  },
+  {
+    "artigo": "unidades 21-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1. As câmaras municipais suportarão directamente os encargos provenientes da aquisição ou expropriação dos terrenos necessários, salvo o disposto no n.º 3 da base XI, e participarão nas demais despesas resultantes da execução do Plano com 50 por cento do respectivo montante.",
+    "depois": "1. As câmaras municipais participarão nas despesas resultantes da execução do Plano com 50 por cento do respectivo montante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:559043:por",
+    "alterador": "pt:dre:631263:por;pt:dre:599750:por"
+  },
+  {
+    "artigo": "unidades 24-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "BASE VI\n\n1. A Direcção-Geral dos Edifícios e Monumentos Nacionais remeterá à Direcção-Geral da Contabilidade Pública, no 1.º trimestre de cada ano, os elementos relativos ao ano anterior necessários para a actualização da conta corrente com cada um dos corpos administrativos devedores. Esta Direcção-Geral comunicará às câmaras municipais, até 30 de Junho, quais as importâncias que terão de liquidar no ano seguinte.\n\n2. As guias de receita serão emitidas até 31 de Janeiro e pagas até 31 de Março.\n\nSe o pagamento se não fizer dentro deste prazo, as competentes secções de finanças deduzirão as importâncias devidas na primeira entrega dos adicionais sobre as contribuições gerais do Estado liquidados a favor dos corpos administrativos devedores.",
+    "depois": "BASE VI\n\n(Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:559043:por",
+    "alterador": "pt:dre:631263:por;pt:dre:599750:por"
+  },
+  {
+    "artigo": "unidades 48-51",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1. As câmaras municipais devem submeter à aprovação do Ministério das Obras Públicas, no prazo de 90 dias a contar da data da comunicação pelo Ministério da Educação Nacional dos programas parciais fixados para a realização do Plano, a localização para as construções escolares abrangidas por esses programas.\n\n2. Os terrenos para as construções escolares a executar pelo Ministério das Obras Públicas devem ser postos à disposição da Delegação para as Obras de Construção de Escolas Primárias no prazo máximo de 180 dias a partir da data em que for comunicada a aprovação a que se refere o número anterior.\n\n3. Findo o prazo fixado no n.º 2, o Ministro das Obras Públicas poderá determinar que a Delegação adquira ou exproprie terrenos pelas dotações orçamentais consignadas às obras do Plano, debitando às câmaras municipais as importâncias que tiver despendido.\n\nO reembolso far-se-á por uma só vez e na forma estabelecida pela base VI, sem dependência do limite da importância da anuidade a que se refere o n.º 2 da base V.",
+    "depois": "1. As câmaras municipais devem submeter à aprovação do Ministério das Obras Públicas, no prazo de noventa dias, a contar da data da comunicação dos programas parciais fixados para a realização do Plano, a localização para as construções escolares abrangidas por esses programas.\n\n2. Os terrenos para as construções escolares a executar pelo Ministério das Obras Públicas serão adquiridos ou expropriados pelas câmaras municipais, que para o efeito deverão ser habilitadas pela Direcção-Geral das Construções Escolares com a totalidade das quantias necessárias.\n\n3. Os terrenos deverão ser postos à disposição da Direcção-Geral das Construção Escolares no prazo máximo de cento e oitenta dias, a partir da data em que for comunicada a aprovação a que se refere o n.º 1.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:559043:por",
+    "alterador": "pt:dre:631263:por;pt:dre:599750:por"
+  }
+]

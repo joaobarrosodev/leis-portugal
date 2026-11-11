@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:475501:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os 12 alteradores (Portarias n.os 889/2004, 910/2005, 911/2005, 899/2005, 944/2005, 978/2005, 1279/2006, 1282/2006, 1273/2006, 1291/2006, 1300/2006 e 1314/2006) só extinguem cursos criados pela Portaria n.º 634/95 e revogam-na 'nas partes que àqueles cursos respeitam': revogação parcial por matéria, sem alvo textual identificado, não aplicada. A Portaria n.º 1282/2006 (n.º 7.º, b)) revoga 'as restantes portarias mencionadas no n.º 5.º', o que à letra abrangeria a 634/95 por inteiro, mas é ambíguo (portarias posteriores continuam a revogá-la só em parte e há cursos não extintos); não aplicado.",
+  "instrucoes": [
+    "Alteradores 1 a 12: extinção de cursos e revogação parcial da Portaria n.º 634/95 nas partes respeitantes a esses cursos; não textual, não aplicado.",
+    "Alterador 8, n.º 7.º, b): revogação das 'restantes portarias mencionadas no n.º 5.º' (inclui à letra a 634/95); ambíguo, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

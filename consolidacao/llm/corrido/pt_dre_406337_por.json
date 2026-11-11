@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:406337:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º A taxa do imposto sobre os produtos petrolíferos (ISP) aplicável à gasolina com teor de chumbo igual ou inferior a 0,013 g por litro, classificada pelos códigos NC 2710 00 27 a 2710 00 32, é igual a 61800$00 por 1000 l.",
+      "alterador": 28
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "5.º A taxa do ISP aplicável ao gasóleo, classificado pelos códigos NC 2710 00 66 a 2710 00 68 é igual a 49300$00 por 1000 l.",
+      "alterador": 19
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "N.º 1.º (unidade 7) recebe nova redação nos alteradores 2, 3, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27 e 28; aplicada a última (alterador 28, 61800$00).",
+    "N.º 2.º (unidade 8) recebe nova redação nos alteradores 2, 3, 4, 5, 7, 10, 12, 13, 14, 15 e 16; a última (alterador 16, 100800$00) é letra a letra igual ao texto original, pelo que a unidade fica como está.",
+    "N.º 5.º (unidade 11) recebe nova redação nos alteradores 1, 2, 3, 6, 8, 10, 11, 12, 13, 14, 15, 18 e 19; aplicada a última (alterador 19, 49300$00, sem vírgula antes de 'é').",
+    "Os n.os 2.º das portarias alteradoras (entrada em vigor) não se dirigem ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

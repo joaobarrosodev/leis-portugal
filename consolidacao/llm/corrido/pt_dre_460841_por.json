@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:460841:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (35/82 a 1356/95) alteram, reajustam ou substituem o quadro de pessoal do Hospital de S. João, que só existe em imagem (unidade 9); não há alteração textual aplicável ao texto da portaria.",
+  "instrucoes": [
+    "Alt.1 a 21: alterações/substituição do quadro de pessoal (imagem) ou criação de lugares no quadro, não aplicadas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

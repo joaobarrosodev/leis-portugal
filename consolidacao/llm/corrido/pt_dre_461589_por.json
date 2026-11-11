@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:461589:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias 1230/82, 1317/82, 695/83, 603/85, 698/89, 921/90, 413/91, 1202/92 e 906/94) alteram ou substituem o quadro de pessoal, que só vem em imagem; os anexos I e II da Portaria 906/94 são dessa portaria, não texto do original.",
+  "instrucoes": [
+    "Alt. 1 a 9: alterações/substituição do quadro de pessoal em imagem; não aplicadas. Nota de {{10}} não é tocada expressamente."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

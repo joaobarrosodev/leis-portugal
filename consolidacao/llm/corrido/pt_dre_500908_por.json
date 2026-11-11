@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:500908:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "3 - A revisão do processo efectuar-se-á sempre a pedido do interessado, mediante requerimento dirigido ao Chefe do Estado-Maior do ramo respectivo.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portarias n.os 603/76 e 197/77 prorrogam o prazo do n.º 3 sem alterar o texto. O Acórdão n.º 563/96 declara a inconstitucionalidade com força obrigatória geral da alínea a) do n.º 7, o que não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1 (603/76): prorroga o prazo do n.º 3; não textual.",
+    "Alterador 2 (197/77): prorroga o prazo; não textual.",
+    "Alterador 3 (114/79): nova redacção do n.º 3; unidade 7 substituída.",
+    "Alterador 4 (Acórdão 563/96): inconstitucionalidade da alínea a) do n.º 7; não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

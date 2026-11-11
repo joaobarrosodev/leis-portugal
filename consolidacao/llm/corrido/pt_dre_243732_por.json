@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:243732:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As alterações dos alteradores 2 (DL 10/2021, art. 3.º: níveis 5, 6 e 7), 3 (DL 109-A/2021, art. 3.º: atualização de 0,9 %) e 4 (DL 84-F/2022, arts. 3.º e 7.º: revisão dos níveis e nova TRU no anexo I) recaem sobre os montantes da tabela remuneratória única do anexo, que só existe em imagem (unidade 29) e não são alterações textuais; não aplicadas.",
+  "instrucoes": [
+    "Alterador 1 (Lei 35/2014, art. 42.º, n.º 2, b)): mantém a portaria em vigor; não altera o texto. Nada feito.",
+    "Alterador 2 (DL 10/2021, art. 3.º): atualiza os montantes dos níveis 5, 6 e 7 da TRU (anexo em imagem); não aplicável ao texto.",
+    "Alterador 3 (DL 109-A/2021, art. 3.º): atualiza em 0,9 % os montantes da TRU (anexo em imagem); não aplicável ao texto.",
+    "Alterador 4 (DL 84-F/2022, arts. 3.º e 7.º): revê os montantes dos níveis da TRU e publica a revisão no seu anexo I (em imagem); não aplicável ao texto.",
+    "Alterador 5 (Declaração de Retificação 636/2026/2): retifica o Aviso 15553/2026/2, não o original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

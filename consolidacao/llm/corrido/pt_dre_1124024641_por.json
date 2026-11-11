@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:1124024641:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 21,
+      "texto": "i) Autorização para a instalação de equipamento médico pesado nos estabelecimentos de saúde públicos e privados, sujeito a estudo de viabilidade económico-financeiro efetuado pelas entidades proponentes;\n\nj) Acordo de Parceria Portugal 2020, Estratégia Portugal 2030 e Acordo de Parceria 2021-2027;\n\nk) Licenciamento dos estabelecimentos prestadores de cuidados de saúde, nos termos do [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, na sua redação atual.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 2 com aditamento das alíneas i), j) e k); inseridas depois da alínea h) (unidade 21), que fica com o texto atual ([...]). O '8 - [...]' da redação não tem correspondência no original e não muda nada.",
+    "Alterador 1, n.º 2: produção de efeitos do próprio alterador, nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

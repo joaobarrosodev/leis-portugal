@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:462244:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias 174/82, 1245/82, 697/83, 787/83, 214/84, 586/85, 79/87, 54/89, 141/89, 113/90, 173/90, 1181/90, 413/91, 19/92, 1089/92, 1114/92, 458/93, 718/93 e 1348/95) alteram, aumentam ou substituem o quadro de pessoal anexo, que só existe em imagem; nenhuma instrução altera o texto dos pontos 1.º, 2.º ou da nota.",
+  "instrucoes": [
+    "Alteradores 1-9, 11-16, 18: alteram ou aumentam o quadro de pessoal (mapas em imagem); não aplicável.",
+    "Alterador 10 (113/90): distribui 1 lugar de parteira ao Hospital; não textual.",
+    "Alterador 17 (458/93): aumenta os quadros de vários hospitais, incluindo Setúbal, por quadros em imagem; não aplicável.",
+    "Alterador 19 (1348/95): substitui o quadro de pessoal por outro em imagem e define departamentalização e conteúdos funcionais nos seus próprios anexos; não aplicável ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

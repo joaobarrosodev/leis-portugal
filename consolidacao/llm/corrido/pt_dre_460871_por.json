@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:460871:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias 234/83, 352/84, 485/84, 600/85, 557/87, 413/91, 1070/91, 1051/92, 132/93, 313/99) alteram ou substituem o quadro de pessoal anexo (unidade 9, só em imagem) por quadros/mapas em imagem; os anexos I e II da Portaria 313/99 são texto próprio dessa portaria, sem instrução de inserção no original.",
+  "instrucoes": [
+    "Alteradores 1-9: alteram partes do quadro conforme quadros anexos em imagem; não aplicado.",
+    "Alterador 10 (Portaria 313/99): substitui o quadro pelo mapa anexo (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:460845:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias 135/82, 183/83, 469/84, 568/85, 724/85, 829/85, 349/87, 368/87, 162/88, 12/89, 755/89, 1092/92, 719/93) alteram, aumentam ou substituem o quadro de pessoal anexo (unidade 9, só em imagem) por quadros em imagem; nenhum dá nova redacção às notas (unidades 11-12) nem a outro texto do original.",
+  "instrucoes": [
+    "Alteradores 1-12: alterações parciais ou aumentos do quadro de pessoal por quadros/mapas em imagem; não aplicado.",
+    "Alterador 13 (Portaria 719/93): substitui o quadro pelo anexo (imagem) e define unidades orgânicas no próprio diploma; não textual para o original, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

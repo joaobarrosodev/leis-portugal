@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:572903:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 413/91) substitui os quadros de pessoal médico de vários hospitais, incluindo o de São Marcos de Braga, pelos quadros anexos, que só vêm em imagem; o quadro do original também é só imagem (unidade 27). Alterador 2 (Portaria n.º 408/98), n.º 1.º, substitui o quadro de pessoal pelo mapa anexo, também só em imagem. O n.º 2.º do alterador 2 fixa nova departamentalização no seu próprio anexo I, mas não dá nova redação ao n.º 2.º do original nem o revoga expressamente; não aplicado por não ser instrução textual dirigida ao texto.",
+  "instrucoes": [
+    "Alterador 1: substituição do quadro de pessoal médico (anexo em imagem); não aplicada.",
+    "Alterador 2, n.º 1.º: substituição do quadro de pessoal pelo mapa anexo (imagem); não aplicada.",
+    "Alterador 2, n.º 2.º e anexo I: nova departamentalização das unidades orgânicas, sem alteração expressa do n.º 2.º do original; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

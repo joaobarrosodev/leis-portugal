@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:141005:por",
+  "substituicoes": [
+    {
+      "de": 33,
+      "ate": 33,
+      "texto": "§ 2.º Na província da Guiné, um dos adjuntos do comando exercerá periòdicamente as funções de inspecção das secções e postos fiscais, podendo assumir o comando de uma ou mais secções quando se verifiquem as circunstâncias previstas no artigo 3.º e assim lhe seja determinado pelo comando do corpo.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 32,
+      "texto": "§ 1.º Se durante o período da comissão referida no corpo do artigo o oficial for promovido ao posto de capitão, poderá continuar na comissão até o seu termo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto 46109), artigo único: adita § 1.º ao artigo 9.º da Organização (inserido depois da unidade 32) e o atual § único passa a § 2.º (unidade 33)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

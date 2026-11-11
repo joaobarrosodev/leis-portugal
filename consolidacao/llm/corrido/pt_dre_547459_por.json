@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:547459:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 e 2 (Portarias 93/98 e 172/98) substituem os planos de estudos do anexo (Gestão Agrícola e Gestão de Recursos Humanos), que só vêm em imagem; os alteradores 4 e 5 alteram planos de estudos de cursos em Marinha Grande e Torres Vedras, também só em imagem; os alteradores 3, 6 e 7 (transição para outros estabelecimentos) não são alterações textuais.",
+  "instrucoes": [
+    "Portaria 93/98: novo plano de estudos de Gestão Agrícola em anexo só em imagem; não aplicado.",
+    "Portaria 172/98: novo plano de estudos de Gestão de Recursos Humanos só em imagem; não aplicado.",
+    "Decreto-Lei 92/98: cessação de actividade e transição de autorizações; não textual.",
+    "Portaria 1224/2000: plano de estudos de GRH (Marinha Grande) só em imagem; não aplicado.",
+    "Portaria 7/2001: plano de estudos de GRH (Torres Vedras) só em imagem; não aplicado.",
+    "Decreto-Lei 194/2004 e Decreto-Lei 82/2005: transição de autorizações; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
