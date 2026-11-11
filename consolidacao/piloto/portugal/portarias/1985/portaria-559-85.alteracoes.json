@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 27-31",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "11 - O subsídio máximo a conceder pelo INIC para reuniões científicas e visitas de estudo compreende o custo de uma viagem aérea de ida e volta em classe turística, o custo da inscrição e um subsídio de manutenção diário correspondente a 70% da tabela de ajudas de custo para missões oficiais ao estrangeiro para categorias superiores à letra D.\n\n12 - No caso de a bolsa se destinar a estágio ou curso, a sua duração máxima é de 3 meses, devendo o pedido ser acompanhado de plano de estudos pormenorizado, documento comprovativo da inscrição no curso ou no estágio e ainda da sua aceitação.\n\n13 - São aplicáveis às bolsas previstas no número anterior as condições financeiras das bolsas de estudo para doutoramento no estrangeiro previstas na [Portaria n.º 552/85](https://diariodarepublica.pt/dr/detalhe/portaria/552-1985-180586).\n\n14 - A vinda de docentes ou investigadores do estrangeiro a Portugal a fim de proferirem conferências, participarem em reuniões científicas, colaborarem na avaliação de projectos ou ministrarem cursos de pós-graduação deverá ser proposta ao presidente do INIC pelas universidades ou pelos centros dependentes do INIC, podendo ainda ser iniciativa do Instituto ou consequência de acordos ou convénios culturais ou científicos.\n\n15 - O subsídio a conceder neste caso compreende o custo de uma viagem aérea de ida e volta em classe turística, caso o acordo não disponha em contrário sobre esta matéria, e ainda um subsídio diário de manutenção igual a 50% do montante estabelecido na tabela de ajudas de custo para missões oficiais ao estrangeiro para funcionários de categoria superior à letra D da tabela de vencimentos da função pública.",
+    "depois": "11 - O subsídio máximo a conceder pelo INIC para as reuniões científicas no estrangeiro compreende o custo de uma viagem aérea de ida e volta em classe turística ou em caminho de ferro em 1.ª classe, o custo da inscrição e um subsídio de manutenção diário correspondente a 70% da tabela de ajudas de custo para missões oficiais no estrangeiro para categorias superiores à letra D; para as reuniões científicas a realizar no País, o subsídio compreende o custo de uma viagem em caminho de ferro em 1.ª classe, o custo da inscrição e o subsídio de manutenção diário correspondente a 70% da tabela de ajudas de custo no País para categorias superiores à letra D.\n\n12 - No caso de a bolsa se destinar a estágio, curso ou visita de estudo, a sua duração máxima é de 3 meses, devendo o pedido ser acompanhado de aceitação de planos de estudo pormenorizados e ainda do documento comprovativo da inscrição, no respeitante às duas primeiras bolsas.\n\n13 - As bolsas previstas no número anterior incluem os custos de viagem e de inscrição constantes do n.º 11, sendo o subsídio diário atribuído de valor correspondente a 70% da tabela de ajudas de custo para missões oficiais ao estrangeiro para a categoria correspondente à respectiva letra do bolseiro até ao 10.º dia e, daí em diante, do valor correspondente a 35% da referida tabela.\n\n14 - A vinda de docentes do ensino superior ou investigadores do estrangeiro a Portugal, a fim de colaborarem na realização de actividades de investigação científica ou na avaliação de projectos, bem como proferirem conferências ou participarem em reuniões científicas, deverá ser proposta ao presidente do INIC pelas universidades ou pelos centros dependentes do INIC, podendo ainda ser iniciativa do Instituto ou consequência de acordos ou convénios culturais ou científicos.\n\n15 - O subsídio a conceder neste caso compreende o custo de uma viagem aérea de ida e volta em classe turística e ainda um subsídio diário de manutenção igual a 50% do montante estabelecido na tabela de ajudas de custo para missões oficiais ao estrangeiro para funcionários de categoria superior à letra D da tabela de vencimentos da função pública até ao 15.º dia e, daí em diante, de valor correspondente a 25% da referida tabela, caso o acordo ou convénio não disponham em contrário sobre esta matéria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:180646:por",
+    "alterador": "pt:dre:177820:por"
+  },
+  {
+    "artigo": "depois da unidade 37",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "18 - O presente diploma entra em vigor no dia 1 do mês imediato à sua publicação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:180646:por",
+    "alterador": "pt:dre:177820:por"
+  }
+]

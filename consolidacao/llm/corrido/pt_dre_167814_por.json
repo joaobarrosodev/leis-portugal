@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:167814:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O quadro de pessoal anexo é substituído pelo mapa anexo da Portaria n.º 1224/97, que só vem em imagem (ver documento original); não aplicável textualmente.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substituição do quadro de pessoal por mapa em imagem; não aplicado. Os n.os 2.º e 3.º e o anexo I do alterador são normas próprias, sem instrução de alteração do texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

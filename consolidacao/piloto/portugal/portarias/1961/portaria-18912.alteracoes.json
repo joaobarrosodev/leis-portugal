@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É alterado para 100000$00 o limite fixado no artigo 16.º do [Decreto n.º 43454](https://diariodarepublica.pt/dr/detalhe/decreto/43454-1960-479932), de 30 de Dezembro de 1960, não podendo exceder esse montante a soma dos valores faciais dos certificados de aforro emitidos a favor de uma mesma pessoa.",
+    "depois": "1.º É alterado para 150000$00 o limite fixado no artigo 16.º do [Decreto n.º 43454](https://diariodarepublica.pt/dr/detalhe/decreto/43454-1960-479932), de 30 de Dezembro de 1960, não podendo exceder esse montante a soma dos valores faciais dos certificados de aforro emitidos a favor de uma mesma pessoa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:184512:por",
+    "alterador": "pt:dre:193270:por"
+  }
+]

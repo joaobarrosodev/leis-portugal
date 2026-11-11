@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:185678:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1033-FO/2004 (1.º) extingue a zona de caça municipal criada pelo original; é uma extinção do ato, não uma alteração textual, e o resto do alterador concessiona uma nova zona associativa.",
+  "instrucoes": [
+    "Alterador 1, 1.º: extinção da zona de caça municipal da Herdade da Provença criada pelo original; não há texto a mudar, registado em nao_aplicavel.",
+    "Alterador 1, 2.º a 4.º: concessão de nova zona associativa, não dirigida ao texto do original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:164861:por",
+  "substituicoes": [
+    {
+      "de": 155,
+      "ate": 156,
+      "texto": "Art. 54.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, art. 6.º: o Decreto n.º 44398 deixa de vigorar quando entrar em vigor um futuro decreto provincial; revogação condicionada a um facto futuro, não aplicada ao texto.",
+  "instrucoes": [
+    "Art. 1.º: revogado o artigo 54.º do Regulamento e o seu § único (unidades 155-156 passam a 'Art. 54.º - (Revogado.)').",
+    "Arts. 2.º a 5.º: regime transitório de registo e licenças e novo regulamento provincial, sem alteração textual do original: ignorados.",
+    "Art. 6.º: cessação de vigência condicionada a decreto provincial futuro: não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 155-156: parágrafo que não está no alterador nem no original: Art. 54.º - (Revogado.)"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:209836:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: o artigo 1.º altera outro diploma (DRR n.º 27/92/M); o artigo 2.º refere-se a uma Portaria n.º 75/98 regional (quadro de pessoal do Centro Hospitalar do Funchal, JORAM), não a este diploma sobre portagens na A 8, e extingue lugares sem alteração textual.",
+  "instrucoes": [
+    "Art. 1.º: altera o DRR 27/92/M, ignorado",
+    "Art. 2.º-4.º: extinção/criação de lugares no quadro do CHF; diploma diferente e não textual, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

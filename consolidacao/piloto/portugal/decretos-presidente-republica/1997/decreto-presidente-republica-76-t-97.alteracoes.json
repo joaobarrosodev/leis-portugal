@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A pena residual de prisão aplicada a Vítor Manuel Vieira, de 35 anos de idade, no processo n.º 103/95 da 1.ª Secção da 8.ª Vara do Tribunal Criminal de Lisboa é reduzida, por indulto, em um ano de prisão.",
+    "depois": "A pena residual de prisão aplicada a Vítor Manuel Vieira, de 35 anos de idade, no processo n.º 41/97 da 2.ª Secção da 2.ª Vara do Tribunal Criminal de Lisboa é reduzida, por indulto, em um ano de prisão.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:189928:por",
+    "alterador": "pt:dre:230077:por"
+  }
+]

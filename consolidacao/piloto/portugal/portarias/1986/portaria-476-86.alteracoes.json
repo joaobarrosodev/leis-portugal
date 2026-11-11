@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º É ainda concedida uma restituição na utilização de amidos de trigo, de milho, de arroz ou de fécula de batata, ou ainda de certos produtos derivados destes, para a elaboração das mercadorias constantes da lista anexa.",
+    "depois": "2.º É ainda concedida uma restituição na utilização do amido de milho, ou de certos produtos derivados deste, para a elaboração das mercadorias constantes da lista anexa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:218964:por",
+    "alterador": "pt:dre:599756:por"
+  },
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º A restituição prevista no n.º 2.º será aproximadamente igual à restituição para o mesmo efeito em vigor na Comunidade Económica Europeia, corrigida da diferença entre os preços de mercado na Comunidade e em Portugal dos respectivos cereais de base considerados na coluna 3 do anexo ao [Decreto-Lei n.º 62/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1986-196216), de 25 de Março, multiplicada pelo coeficiente da coluna 4 do mesmo anexo.",
+    "depois": "4.º A restituição prevista no n.º 2.º será equivalente à restituição para o mesmo efeito em vigor na Comunidade Económica Europeia, corrigida da diferença entre os preços de mercado do milho na Comunidade e em Portugal, multiplicada pelo coeficiente de 1,6.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:218964:por",
+    "alterador": "pt:dre:599756:por"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:209053:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: 1.º (o curso deixa de se desdobrar em ramos) não dá nova redação nem revoga o 2.º do original; 2.º substitui o anexo por quadros que só vêm em imagem; 3.º a 5.º são disposições próprias do alterador, não dirigidas ao texto do original.",
+  "instrucoes": [
+    "1.º: curso deixa de ter ramos; não textual, não aplicado",
+    "2.º: novo anexo (plano de estudos) só em imagem, não aplicado",
+    "3.º-5.º: duração, transição e aplicação, normas autónomas, ignoradas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

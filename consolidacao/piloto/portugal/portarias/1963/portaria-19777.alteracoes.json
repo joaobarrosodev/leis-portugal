@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Os directores dos Serviços de Comunicações e Tráfego Aéreo e de Recrutamento e Instrução são pilotos aviadores com as patentes de brigadeiro ou coronel.",
+    "depois": "1.º Os directores dos Serviços de Electricidade e Telecomunicações e de Instrução são, respectivamente, engenheiros electrotécnicos e pilotos aviadores, com as patentes de brigadeiro ou coronel.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:195428:por",
+    "alterador": "pt:dre:336139:por"
+  }
+]

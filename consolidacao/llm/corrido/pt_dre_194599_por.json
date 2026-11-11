@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:194599:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 351/2004), n.º 1.º: a nova redação do anexo (plano de estudos, quadros n.os 1 a 4) só vem em imagem no documento original; não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do anexo, quadros só em imagem; não aplicado.",
+    "Alterador 1, n.os 2.º a 5.º: duração, número máximo de alunos, transição e aplicação, normas próprias que não alteram nem aditam texto ao original; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

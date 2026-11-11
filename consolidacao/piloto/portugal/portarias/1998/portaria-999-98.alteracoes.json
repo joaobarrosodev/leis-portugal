@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Por força do disposto na última parte do n.º 3 do artigo 6.º do [Decreto-Lei n.º 296-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1995-455465), de 17 de Novembro, e do n.º 1 do artigo 5.º do [Decreto-Lei n.º 164/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1996-241672), de 5 de Setembro, considera-se transmitida para a respectiva direcção regional do Ministério da Educação, nesta data, a propriedade e posse dos pavilhões desportivos escolares construídos no âmbito do Programa Desporto Escolar 2000, constantes do mapa anexo à presente portaria e que dela faz parte integrante.",
+    "depois": "1.º Por força do disposto na última parte do n.º 3 do artigo 6.º do [Decreto-Lei n.º 296-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1995-455465), de 17 de Novembro, e do n.º 1 do artigo 5.º do [Decreto-Lei n.º 164/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1996-241672), de 5 de Setembro, passam para o domínio do Estado, ficando afectos à respectiva direcção regional do Ministério da Educação, nesta data, os pavilhões desportivos escolares construídos no âmbito do Programa Desporto Escolar 2000, constantes do mapa anexo à presente portaria, que dela faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:217338:por",
+    "alterador": "pt:dre:138099:por"
+  }
+]

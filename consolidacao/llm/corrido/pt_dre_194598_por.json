@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:194598:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 15,
+      "texto": "3.º-A\n\nDuração\n\n1 - O curso tem a duração de cinco anos.\n\n2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.\n\n3 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n3.º-B\n\nUnidades curriculares de opção\n\nO elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1512/2002), n.º 1.º: a nova redação do anexo (plano de estudos, quadros n.os 1 a 5) só vem em imagem no documento original; não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do anexo, quadros só em imagem; não aplicado.",
+    "Alterador 1, n.º 2.º: adita os n.os 3.º-A (Duração) e 3.º-B (Unidades curriculares de opção); inseridos a seguir à unidade 15 (fim do 3.º).",
+    "Alterador 1, n.os 3.º e 4.º: transição e aplicação, normas próprias; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

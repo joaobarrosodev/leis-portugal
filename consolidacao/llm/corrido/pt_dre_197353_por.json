@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:197353:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: os anexos I e II passam a ter a redação dos anexos da Portaria n.º 1328/2003, cujos quadros só vêm em imagem no documento original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação dos anexos I e II só em imagem; não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º, 3.º e 4.º: normas próprias (estágio e projeto, transição, aplicação), não aditadas ao original; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

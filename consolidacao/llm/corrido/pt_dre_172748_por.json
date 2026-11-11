@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:172748:por",
+  "substituicoes": [
+    {
+      "de": 38,
+      "ate": 38,
+      "texto": "1 - O 1.º ciclo do curso pode começar a funcionar a partir do ano lectivo de 2002-2003, inclusive, um ano curricular em cada ano lectivo.\n\n2 - O 2.º ciclo do curso pode começar a funcionar a partir do ano lectivo de 2003-2004, inclusive.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "N.º 2 do 1.º da Portaria 1178/2003: nova redacção do n.º 9.º da Portaria 1100/2002 (só o corpo); substituída a unidade 38, ficam número e epígrafe.",
+    "N.os 1 e 3 a 6 do 1.º da Portaria 1178/2003 alteram outras portarias: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

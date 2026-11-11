@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:178520:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação ('20 contos' para '200 contos' no Ministério do Ambiente e Recursos Naturais, cap. 02) incide sobre o mapa da despesa, que só vem em imagem; o texto não existe no texto atual.",
+  "instrucoes": [
+    "Retificação de '20 contos' para '200 contos' no mapa da despesa (só em imagem): não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

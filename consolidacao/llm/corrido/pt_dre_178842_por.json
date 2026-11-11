@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:178842:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação (na p. 1351, 'Instituto Nacional de Meteorologia e Geofísica' para 'Div. 04 - Instituto Nacional de Meteorologia e Geofísica') incide sobre o mapa de transferências, que só vem em imagem; o texto não existe no texto atual.",
+  "instrucoes": [
+    "Retificação na p. 1351 do mapa (só em imagem): não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:168455:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1 - É criado no quadro de pessoal da Direcção-Geral das Alfândegas, constante da [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar de primeiro-verificador superior, a extinguir quando vagar.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Rectificação: 'constante da Portaria n.º 54/88, de 27 de Janeiro,' passa a 'constante da Portaria n.º 531-A/93, de 20 de Maio,' no n.º 1 (unidade 5)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

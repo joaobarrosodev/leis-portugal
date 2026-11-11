@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 22-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Mestrado em Serviço Social\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/055b00/12271228.pdf)",
+    "depois": "Curso de especialização em Serviço Social\n\nGrau de mestre\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/018b00/06620663.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:176074:por",
+    "alterador": "pt:dre:624440:por"
+  }
+]

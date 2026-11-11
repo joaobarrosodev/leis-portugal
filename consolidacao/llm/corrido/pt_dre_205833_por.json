@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:205833:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º É criada a reserva de caça, temporária e parcial, da Herdade dos Lameirões, Borrazeiros ou Cruzeiros Velhos, Metum ou Mutum e Courelas das Pernas, com a área total de 1410,45 ha, situadas nas freguesias de Safara e Sobral da Adiça, concelho de Moura, conforme mapa anexo ao presente diploma, do qual faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação do sumário não se aplica: o sumário não faz parte do texto do original.",
+  "instrucoes": [
+    "Alterador 1: retificação do sumário (freguesias de Safara e Sobral da Adiça); o sumário não está no texto, não aplicada.",
+    "Alterador 1: retificação do n.º 1.º, 'situadas na freguesia de Safara' passa a 'situadas nas freguesias de Safara e Sobral da Adiça'; aplicada na unidade 8."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

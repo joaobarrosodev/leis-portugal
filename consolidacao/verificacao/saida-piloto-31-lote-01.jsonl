@@ -1,0 +1,38 @@
+{"id": "pt:dre:158469:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "3.º: aditada alínea i) com o texto do alterador; restantes alíneas inalteradas ([...] e ...).", "texto_esperado": ""}
+{"id": "pt:dre:158469:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "5.º n.º 1 e alínea a) com a acção 9 aditada, conforme a instrução.", "texto_esperado": ""}
+{"id": "pt:dre:158469:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "6.º n.º 1 a): acção 9 aditada, conforme a instrução.", "texto_esperado": ""}
+{"id": "pt:dre:158469:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "7.º n.º 1: acções 1, 2, 4, 5, 8 e 9, conforme a instrução.", "texto_esperado": ""}
+{"id": "pt:dre:158469:por", "instrucoes_em_falta": ["2.º do alterador: aditamento da acção 9 aos anexos I a III (anexos só em PDF, não aplicável ao texto)"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:159116:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "1.º com 'na alínea c) do n.º 3 e n.os 4, 5 e 6 do n.º 5.º', letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:159116:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "4.º com n.os 1, 2 e 3 conforme a nova redacção.", "texto_esperado": ""}
+{"id": "pt:dre:159116:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:160548:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 1 da Portaria 144/75 conforme o art. 12.º do alterador (1000$00); os restantes artigos do alterador visam outros diplomas.", "texto_esperado": ""}
+{"id": "pt:dre:160548:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:164190:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "7.º com n.os 1 e 2 conforme a nova redacção (100 / 400 alunos).", "texto_esperado": ""}
+{"id": "pt:dre:164190:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:165026:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Anexo substituído pelo do alterador: título do curso com a nova variante.", "texto_esperado": ""}
+{"id": "pt:dre:165026:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Quadro n.º 1 substituído (ligação ao PDF do alterador).", "texto_esperado": ""}
+{"id": "pt:dre:165026:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Quadro n.º 2 substituído (ligação ao PDF do alterador).", "texto_esperado": ""}
+{"id": "pt:dre:165026:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Quadro n.º 3 substituído (ligação ao PDF do alterador).", "texto_esperado": ""}
+{"id": "pt:dre:165026:por", "artigo": "Trecho 5", "veredicto": "certo", "motivo": "Quadro n.º 4 substituído (ligação ao PDF do alterador).", "texto_esperado": ""}
+{"id": "pt:dre:165026:por", "instrucoes_em_falta": ["dúvida: 1.º do alterador muda a denominação do curso (Animação Desportiva, Recreação e Lazer -> Desporto de Natureza e Turismo Activo); o 1.º do original, que a menciona, não foi alterado"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:165987:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "3.º com a nova redacção letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:165987:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:166777:por", "artigo": "Trecho 1", "veredicto": "dúvida", "motivo": "Texto certo (2.º ciclo / Grau de licenciado), mas o original tem dois parágrafos idênticos '1.º ciclo / Grau de bacharel' (antes dos quadros 1 e 4); só o do quadro n.º 4 devia mudar e a vista não mostra qual foi alterado.", "texto_esperado": "2.º ciclo / Grau de licenciado apenas antes do QUADRO N.º 4"}
+{"id": "pt:dre:166777:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:167381:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "1.º com a nova redacção letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:167381:por", "instrucoes_em_falta": ["2.º do alterador: substituição da planta anexa (ligação ao PDF da planta mantém-se a do original)"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:167404:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Rectificação do art. 66.º d): Semestral 26$00, Trimestral 15$00.", "texto_esperado": ""}
+{"id": "pt:dre:167404:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:1675497:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Alínea c) com (euro) 30; as outras alíneas ficam iguais ([...]).", "texto_esperado": ""}
+{"id": "pt:dre:1675497:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:167808:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Preâmbulo rectificado: 'do n.º 3 do artigo 5.º do mesmo diploma'.", "texto_esperado": ""}
+{"id": "pt:dre:167808:por", "instrucoes_em_falta": ["Rectificação do capítulo 03 (Cap. 03, div. 10): consta só do quadro em PDF, não aplicável ao texto"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:168455:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Rectificação aplicada: Portaria n.º 531-A/93, de 20 de Maio.", "texto_esperado": ""}
+{"id": "pt:dre:168455:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:168624:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Alíneas b) e c) do n.º 1.º revogadas (3.º do alterador).", "texto_esperado": ""}
+{"id": "pt:dre:168624:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:169248:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Aditados n.os 7 e 8 letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:169248:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:169249:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Aditados n.os 7 e 8 letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:169249:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}

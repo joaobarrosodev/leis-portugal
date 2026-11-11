@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:168053:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As rectificações da Declaração de Rectificação n.º 53/92 (despesa, cap. 50, div. 41, subdiv. 03 do Ministério do Ambiente; receita, cap. 05 e cap. 09, grupo 07, art. 01) incidem sobre os mapas de despesa e receita que no texto atual só existem em imagem ((ver documento original)); o texto a corrigir não existe no texto atual.",
+  "instrucoes": [
+    "Rectificação da designação INDC na despesa (cap. 50, div. 41, subdiv. 03): está no mapa em imagem, não aplicada.",
+    "Rectificação de valores da receita (cap. 05 e cap. 09, grupo 07, art. 01): está no mapa em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

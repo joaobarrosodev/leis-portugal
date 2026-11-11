@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:176498:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 320/2004 dá nova redação aos quadros n.os 1, 5 e 6 do anexo, mas os novos quadros só vêm em imagem; não há texto para aplicar.",
+  "instrucoes": [
+    "1.º: nova redação dos quadros n.os 1, 5 e 6 do anexo (só em imagem): não aplicado.",
+    "2.º: aplicação a partir de 2002-2003, norma própria: nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

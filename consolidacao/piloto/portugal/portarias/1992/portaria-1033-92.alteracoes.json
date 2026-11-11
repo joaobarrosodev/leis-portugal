@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) No caso das acções 1.3, 2.1 e 4.1 a 6.1, até 30 de Abril de cada ano.",
+    "depois": "c) No caso das acções 1.3, 2.1 e 5.1 a 6.1, até 30 de Abril de cada ano.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:216369:por",
+    "alterador": "pt:dre:580657:por"
+  }
+]

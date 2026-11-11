@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:188354:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 230/2007 extingue o curso de dança contemporânea (5.º) e revoga por inteiro a Portaria n.º 242/92 (7.º, alínea b), restantes portarias mencionadas no n.º 5.º); o original fica revogado na totalidade.",
+  "instrucoes": [
+    "Alterador 1, 5.º: extinção do curso criado pelo original.",
+    "Alterador 1, 7.º, alínea b): revogação total da Portaria n.º 242/92; nada devolvido, registado em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:180646:por",
+  "substituicoes": [
+    {
+      "de": 27,
+      "ate": 31,
+      "texto": "11 - O subsídio máximo a conceder pelo INIC para as reuniões científicas no estrangeiro compreende o custo de uma viagem aérea de ida e volta em classe turística ou em caminho de ferro em 1.ª classe, o custo da inscrição e um subsídio de manutenção diário correspondente a 70% da tabela de ajudas de custo para missões oficiais no estrangeiro para categorias superiores à letra D; para as reuniões científicas a realizar no País, o subsídio compreende o custo de uma viagem em caminho de ferro em 1.ª classe, o custo da inscrição e o subsídio de manutenção diário correspondente a 70% da tabela de ajudas de custo no País para categorias superiores à letra D.\n\n12 - No caso de a bolsa se destinar a estágio, curso ou visita de estudo, a sua duração máxima é de 3 meses, devendo o pedido ser acompanhado de aceitação de planos de estudo pormenorizados e ainda do documento comprovativo da inscrição, no respeitante às duas primeiras bolsas.\n\n13 - As bolsas previstas no número anterior incluem os custos de viagem e de inscrição constantes do n.º 11, sendo o subsídio diário atribuído de valor correspondente a 70% da tabela de ajudas de custo para missões oficiais ao estrangeiro para a categoria correspondente à respectiva letra do bolseiro até ao 10.º dia e, daí em diante, do valor correspondente a 35% da referida tabela.\n\n14 - A vinda de docentes do ensino superior ou investigadores do estrangeiro a Portugal, a fim de colaborarem na realização de actividades de investigação científica ou na avaliação de projectos, bem como proferirem conferências ou participarem em reuniões científicas, deverá ser proposta ao presidente do INIC pelas universidades ou pelos centros dependentes do INIC, podendo ainda ser iniciativa do Instituto ou consequência de acordos ou convénios culturais ou científicos.\n\n15 - O subsídio a conceder neste caso compreende o custo de uma viagem aérea de ida e volta em classe turística e ainda um subsídio diário de manutenção igual a 50% do montante estabelecido na tabela de ajudas de custo para missões oficiais ao estrangeiro para funcionários de categoria superior à letra D da tabela de vencimentos da função pública até ao 15.º dia e, daí em diante, de valor correspondente a 25% da referida tabela, caso o acordo ou convénio não disponham em contrário sobre esta matéria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 37,
+      "texto": "18 - O presente diploma entra em vigor no dia 1 do mês imediato à sua publicação.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 819/85, 1.º: nova redação dos n.os 11 a 15 (unidades 27-31), substituídas.",
+    "Portaria 819/85, 2.º: aditado o n.º 18, inserido depois do n.º 17 (unidade 37)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - A comissão será composta por representantes dos Ministros da Defesa Nacional, da Administração Interna, do Equipamento, do Planeamento e da Administração do Território, da Educação, da Cultura e Adjunto do Primeiro-Ministro, que coordenará.",
+    "depois": "2 - A comissão será composta por representantes dos Ministros da Defesa Nacional, das Finanças, da Administração Interna, do Equipamento, do Planeamento e da Administração do Território, da Educação, da Cultura e Adjunto do Primeiro-Ministro, que coordenará.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:173106:por",
+    "alterador": "pt:dre:668500:por"
+  }
+]

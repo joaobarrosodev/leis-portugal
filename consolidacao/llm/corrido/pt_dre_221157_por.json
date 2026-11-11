@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:221157:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "3.º A presente portaria entra em vigor no dia imediato ao da sua publicação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: rectifica o n.º 3.º (entrada em vigor no dia imediato ao da publicação); substituída a unidade 10."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

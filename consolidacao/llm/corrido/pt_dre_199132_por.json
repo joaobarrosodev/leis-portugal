@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:199132:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: extingue os lares de convalescentes criados pelo original, mas não revoga nem altera o texto da portaria; alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, 1.º: extinção dos lares, sem instrução textual sobre o original; não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º: destino dos edifícios, norma própria; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

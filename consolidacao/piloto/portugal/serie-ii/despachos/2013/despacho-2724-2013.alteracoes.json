@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Emissão do título profissional de treinador de desporto por via do reconhecimento de competências profissionais adquiridas e desenvolvidas ao longo da vida - (euro) 250;",
+    "depois": "c) Emissão do título profissional de treinador de desporto por via do reconhecimento de competências profissionais adquiridas e desenvolvidas ao longo da vida - (euro) 30;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1675497:por",
+    "alterador": "pt:dre:1994302:por"
+  }
+]

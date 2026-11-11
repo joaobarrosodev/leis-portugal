@@ -1,0 +1,251 @@
+---
+id: pt:dre:170530:por
+title: Portaria n.º 18484
+original: data/portugal/portarias/1961/portaria-18484.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:194414:por
+    title: Portaria n.º 19752
+    publication_date: '1963-03-09'
+---
+
+# Portaria n.º 18484
+
+O prosseguimento dos trabalhas da normalização relativos à indústria do papel levaram à publicação de várias normas que alteraram de certa maneira o quadro das pastas de papel e o das características dos papéis correntes da [Portaria n.º 12741](https://diariodarepublica.pt/dr/detalhe/portaria/12741-1949-384401), de 22 de Fevereiro de 1949, e convém harmonizar o mais ràpidamente possível este desacordo.
+
+Por outro lado, a portaria citada deixou em suspenso a fixação das condições mínimas a que deviam satisfazer os armazenistas de papel.
+
+Estudos levados agora a efeito, em colaboração com o Grémio Nacional dos Industriais de Fabricação de Papel e representantes dos armazenistas do Norte e do Sul, permitem fixar aquelas condições mínimas.
+
+Por outro lado, deve desde já afirmar-se que tão depressa esteja reorganizada a indústria do papel, cujo estudo foi mandado fazer pela [Portaria n.º 18444](https://diariodarepublica.pt/dr/detalhe/portaria/18444-1961-169647), de 29 de Abril de 1961, deixará de justificar-se em princípio a fixação dos preços dos papéis; o tabelamento mantém-se no presente diploma por não parecer ainda oportuno alterar a regra vigente na portaria que esta substitui.
+
+O mesmo deve acontecer com outras disposições que continuam fixadas na presente portaria no que se refere à disciplina dos diversos sectores interessados, que se entende dever ser fixada através de acordos entre os organismos corporativos respectivos, e que neste momento não é ainda possível realizar, por não estarem constituídos alguns dos grémios que neles devem intervir.
+
+Nestes termos, visto o disposto nos Decretos-Leis n.º 29904, de 7 de Setembro de 1939, e n.º 41204, de 24 de Julho de 1957:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comércio e da Indústria, o seguinte:
+
+1.º Na indústria e no comércio do papel são adoptados a nomenclatura, as definições e os ensaios constantes das normas portuguesas publicadas ou a publicar. Compete à Inspecção-Geral dos Produtos Agrícolas e Industriais resolver as dúvidas que surjam e não estejam especificadamente previstas nas normas.
+
+Papéis correntes
+
+2.º As quantidades mínimas, em quilogramas, de papéis correntes que as fábricas podem vender por cada encomenda e para entrega por uma só vez, por cada qualidades de papel, constam do quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
+
+3.º Dentro de cada encomenda podem ser feitos os diferentes acabamentos que constam, para cada papel, da secção 5 da norma NP-268, referente a «Características dos papéis correntes», desde que, para cada um, o lote não seja inferior a 500 kg.
+
+4.º As encomendas dos papéis correntes de cor podem ser preenchidas dentro dos mínimos estabelecidos nos n.os 2.º e 3.º com cores sortidas, de entre as que constam, para cada papel, da secção 5 da norma NP-268, referente a «Características dos papéis correntes».
+
+5.º As quantidades mínimas dos papéis correntes a que se refere o n.º 2.º podem ser reduzidas, para fornecimentos especiais, por despacho fundamentado do inspector-geral dos Produtos Agrícolas e Industriais.
+
+6.º O preço do papel corrente nas fábricas é calculado de acordo com a fórmula e tabela que constam do anexo a esta portaria e será revisto de seis em seis meses, sempre que no fim destes períodos o preço calculado for diferente em mais ou menos 5 por cento do preço anteriormente calculado que originou o preço que estiver em vigor.
+
+7.º O inspector-geral dos Produtos Agrícolas e Industriais pode autorizar que os preços de alguns ou de todos os papéis correntes, calculados como se indica no n.º 6.º, sejam corrigidos até ao limite de mais ou menos 10 por cento do valor calculado quando tal lhe seja proposto pelo Grémio Nacional dos Industriais de Fabricação de Papel, quer com o fim de marcar a diferenciação que o uso tem introduzido no comércio, quer com o fim de orientar os preços dos papéis no sentido da tendência dos preços das matérias-primas.
+
+8.º A tabela de preços dos papéis correntes deverá ser submetida, pelo Grémio Nacional dos Industriais de Fabricação de Papel, à Inspecção-Geral dos Produtos Agrícolas e Industriais até quinze dias antes de expirado o semestre a que disser respeito a tabela que estiver em vigor; para esse efeito, a Inspecção-Geral dos Produtos Agrícolas e Industriais enviará ao Grémio Nacional dos Industriais de Fabricação de Papel, dentro do prazo conveniente, os valores dos vários tipos de pastas que servem para a determinação dos preços dos papéis obtidos em função dos elementos mencionados nos n.os 30.º e 31.º, e também as modificações dos valores para as restantes variáveis que figuram na fórmula, quando for caso disso.
+
+9.º A tabela de preços dos papéis a que se refere o número anterior será homologada pelo Secretário de Estado do Comércio, sob parecer fundamentado da Inspecção-Geral dos Produtos Agrícolas e Industriais, e publicada no Diário do Governo, constituindo os preços nela indicados os preços fixos dos papéis fornecidos em resmas pelas fábricas, para o período em que estiver em vigor.
+
+a) O papel corrente fornecido pelas fábricas em carretéis de largura igual ou superior a 43 cm beneficiará de um desconto de 4 por cento;
+
+b) O papel corrente fornecido pelas fábricas em formatos diferentes dos mencionados na secção 5 da norma NP-268, ou dos seus duplo ou meio formatos, terá um aumento de 10 por cento.
+
+10.º As fábricas especializadas que produzam limitado número de papéis correntes podem, excepcionalmente, vender estes papéis a preços inferiores aos fixados no número anterior quando devidamente autorizados por despacho fundamentado do inspector-geral dos Produtos Agrícolas e Industriais.
+
+11.º A encomenda de um papel corrente deve ser satisfeita no prazo de noventa dias a contar da data da recepção do respectivo pedido na fábrica.
+
+Papéis especiais
+
+12.º As quantidades mínimas, em quilogramas, de papéis especiais que as fábricas podem vender por cada encomenda e para entrega por uma só vez, por cada qualidade de papel, constam do quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
+
+13.º Os papéis especiais que difiram dos papéis correntes apenas no formato, acabamento e aspecto à transparência podem ser adquiridos nas quantidades mínimas estabelecidas no n.º 2.º
+
+14.º Dentro de cada encomenda de papéis especiais podem ser feitos diferentes acabamentos, desde que, para cada um, o lote não seja inferior a 750 kg.
+
+15.º Se o cliente assim o desejar, cada encomenda de papéis especiais pode ser satisfeita em dois formatos, desde que a quantidade correspondente a qualquer deles não seja inferior a metade do mínimo estabelecido no n.º 12.º
+
+16.º As quantidades mínimas de papéis especiais a que se refere o n.º 12.º podem ser reduzidas, para fornecimentos especiais, por despacho fundamentado do inspector-geral dos Produtos Agrícolas e Industriais.
+
+17.º No caso dos papéis especiais, as fábricas podem recusar-se, por razões de ordem técnica de fabrico, a aceitar encomendas nas quantidades mínimas fixadas no n.º 12.º
+
+Sempre que isso aconteça, a fábrica comunicará o facto à Inspecção-Geral dos Produtos Agrícolas e Industriais dentro do prazo de dez dias, justificando convenientemente o motivo da recusa.
+
+18.º O preço de um papel especial deve ser acordado por escrito entre o fabricante e o consumidor, de harmonia com as características do mesmo, mas só pode considerar-se definitiva depois de aprovado pela Inspecção-Geral dos Produtos Agrícolas e Industriais. Para este efeito, o caderno de encargos de cada encomenda, com todas as características mencionadas na secção 5 da norma NP-268, deve ser enviado em triplicado pela fábrica à Inspecção-Geral dos Produtos Agrícolas e Industriais em impresso do formato A(índice 4), devidamente assinado pelo fabricante e pelo cliente; no caderno de encargos deve indicar-se sempre o fim a que se destina o papel. Se, passados quinzes dias da data da entrada do pedido de aprovação, a fábrica não receber qualquer notificação, considera-se aprovado o caderno de encargos e o preço.
+
+19.º O inspector-geral dos Produtos Agrícolas e Industriais pode, quando o julgar conveniente, dispensar a aprovação dos cadernos de encargos e dos preços ou suspender temporàriamente a obrigação da sua aprovação, devendo o despacho que tal decidir ser publicado no Diário do Governo.
+
+20.º Em princípio, os papéis especiais só podem ser fabricados com as massas indicadas na norma NP-50.
+
+O Inspector-geral dos Produtos Agrícolas e Industriais pode, por despacho fundamentado, autorizar o fabrico de papéis especiais com massas diferentes das indicadas na referida norma.
+
+21.º O prazo da execução de qualquer encomenda de papéis especiais será acordado entre o fabricante e o comprador, sem prejuízo da fabricação dos papéis correntes.
+
+Armazenistas
+
+22.º - (Revogado.)
+
+23.º - (Revogado.)
+
+24.º - (Revogado.)
+
+25.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 19752](https://diariodarepublica.pt/dr/detalhe/portaria/19752-1963-194414), publicado em 1963-03-09.
+
+Outros consumidores
+
+26.º As empresas editoras só poderão comprar papéis directamente nas fábricas, nas quantidades indicadas nos n.os 2.º e 12.º, quando inscritas no Grémio Nacional dos Editores e Livreiros e quando o papel se destine exclusivamente aos livros de sua edição.
+
+Os directores ou administradores destas empresas entregarão anualmente nas fábricas fornecedoras uma declaração assinada e reconhecida comprometendo-se a dar ao papel ùnicamente aquele destino.
+
+27.º As empresas jornalísticas poderão comprar o papel destinado exclusivamente à impressão dos jornais directamente nas fábricas; os directores ou administradores destas empresas entregarão anualmente nas fábricas fornecedoras uma declaração assinada e reconhecida comprometendo-se a dar ao papel ùnicamente aquele destino.
+
+28.º O papel adquirido pelas empresas jornalísticas para as casas de obra ou outros fins diferentes dos mencionados no corpo do n.º 27.º seguirá o regime previsto nos n.os 2.º, 12.º ou 25.º desta portaria, segundo os casos.
+
+29.º Sem prejuízo do prazo de entrega mencionado no n.º 11.º para os papéis encomendados de acordo com os n.os 2.º, 3.º e 4.º, pode o inspector-geral dos Produtos Agrícolas e Industriais, por despacho fundamentado, autorizar o fabricante a vender directamente a qualquer entidade, nas quantidades mínimas fixadas no n.º 2.º para os armazenistas de papel, os papéis correntes que tenha fabricado e para os quais não possua nenhuma encomenda em carteira.
+
+Disposições gerais
+
+30.º As fábricas enviarão à Inspecção-Geral dos Produtos Agrícolas e Industriais até ao dia 10 de cada mês, em duplicado e em folhas do formato A(índice 4), relação das pastas de origem estrangeira efectivamente compradas durante o mês anterior, acompanhadas dos documentos comprovativos do seu custo. Na altura da recepção enviarão para cada remessa, à Inspecção-Geral dos Produtos Agrícolas e Industriais, os documentos comprovativos das despesas feitas até C. I. F.
+
+31.º O Grémio Nacional dos Industriais de Fabricação de Papel enviará à Inspecção-Geral dos Produtos Agrícolas e Industriais os preços fixados, para cada semestre, pelas empresas produtoras de pastas nacionais, para fornecimento aos consumidores nacionais.
+
+32.º As fábricas podem recusar a aceitação de qualquer encomenda de papel sempre que tenham a sua produção comprometida para os prazos fixados nos n.os 11.º e 21.º ou por falta de matérias-primas.
+
+Sempre que uma fábrica recuse a aceitação de uma encomenda deve comunicar o facto à Inspecção-Geral dos Produtos Agrícolas e Industriais, no prazo de três dias, com a justificação da recusa.
+
+33.º As fábricas obrigam-se a transportar de sua conta o papel até:
+
+a) Aos armazéns ou oficinas de todos os clientes do continente que o adquiram de acordo com os mínimos fixados nesta portaria para cada um dos destinos;
+
+b) Aos cais do porto de Lisboa ou dos portos do Douro e Leixões, quando se destina aos clientes das ilhas adjacentes.
+
+34.º As encomendas consideram-se correctamente executadas quando, simultâneamente:
+
+a) O papel satisfaça às características fixadas ou esteja dentro das tolerâncias admitidas nas normas nacionais publicadas ou a publicar;
+
+b) O peso da embalagem, incluindo o mandril e tampões do mandril, não for superior a 2 por cento do peso nominal da resma ou peso líquido do carretel;
+
+c) A quantidade total do fornecimento, em quilogramas, não ultrapassar os seguintes limites:
+
+(mais ou menos) 10 por cento para quantidades até 10 t;
+
+(mais ou menos) 5 por cento para quantidades acima de 10 t e até 50 t;
+
+(mais ou menos) 3 por cento para quantidades superiores a 50t.
+
+35.º O disposto na alínea c) do n.º 34.º só tem aplicação às encomendas de papéis especiais; os correntes serão fornecidos na quantidade encomendada.
+
+36.º Todo o papel fornecido pelas fábricas deve ser rotulado de acordo com o que se estabelece na secção 7 da norma NP-268, referente a «Características de papéis correntes».
+
+37.º O peso do papel a facturar é o peso nominal da resma ou o peso bruto do carretel; mas, neste último caso, quando o mandril for especial será debitado à parte e por consequência não considerado no peso do carretel. Se o mandril for fornecido pelo cliente, o seu peso não será incluído no peso a facturar,
+
+38.º A facturação das encomendas entregues pelas fábricas ou pelos armazenistas aos seus clientes será feita até ao último dia de cada mês, devendo os pagamentos efectuados até ao dia 15 do mês seguinte beneficiar do desconto de 3 por cento; fora deste prazo, observar-se-ão as regras usuais do comércio.
+
+39.º As fábricas e os armazenistas deverão, no prazo de trinta dias, enviar à Inspecção-Geral dos Produtos Agrícolas e Industriais uma relação de todos os papéis existentes em armazém que, por força do que dispõe a presente portaria, passam a ser considerados papéis especiais.
+
+40.º A importação de papel pode ser autorizada ao Estado, aos armazenistas de papel e aos industriais que o utilizem como matéria-prima; a importação fica sujeita à mesma disciplina dos papéis de fabrico nacional, exceptuando o que se refere às quantidades mínimas fixadas nos n.os 2.º e 12.º
+
+41.º A percentagem de lucro admitida para o retalhista é de 20 por cento sobre o preço máximo fixado para o armazenista para o papel na embalagem original; quando o papel for fornecido em resmas com formatos de metade ou da quarta parte do formato corrente, aquela percentagem será aumentada de mais 25 por cento; neste aumento está incluído o corte e a nova embalagem. Para as quantidades inferiores a uma resma, ou para formatos diferentes dos mencionados anteriormente, a percentagem será fixada oportunamente, podendo até lá os retalhistas vender o papel nas condições actuais.
+
+42.º O não cumprimento dos preceitos desta portaria será considerado infracção antieconómica e punível nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, sem prejuízo da responsabilidade disciplinar corporativa a que der causa.
+
+43.º São revogadas as Portarias n.os 12741, de 22 de Fevereiro de 1949, 14417, de 11 de Junho de 1953, e 14544, de 19 de Setembro de 1953.
+
+Ministério da Economia, 24 de Maio de 1961. - O Secretário de Estado do Comércio, João Augusto Dias Rosas. - O Secretário de Estado da Indústria, António Alves de Carvalho Fernandes.
+
+Anexo à Portaria n.º 18484
+
+1) O preço do papel nas fábricas é calculado pela seguinte fórmula:
+
+P = k A + mS + nC + pW + X + Y + r (Y + Z)
+
+Sendo:
+
+k = factor de conversão;
+
+A = custo da composição fibrosa determinado com base no preço das pastas nacionais postas na fábrica prontas para carga e no preço C. I. F. porto ou estação fronteiriça das pastas de origem estrangeira, acrescido de $10 por quilograma correspondente aos direitos de importação, às taxas de exploração, tráfego e agência;
+
+S = salário médio da indústria, acrescido dos encargos sociais obrigatórios;
+
+C = custo médio da caloria do combustível;
+
+W = custo médio do kilowatt-hora;
+
+X = despesas gerais;
+
+Y = juros e amortizações;
+
+Z = mS + nC + PW;
+
+r = coeficiente de correcção do peso por metro quadrado.
+
+2) O valor do factor de conversão k é igual a 1,13, com excepção do que respeita aos papéis de desenho (DA), registo (RA), almaço (AA), máquina de escrever (MA), avião corrente (AVA, AVB), Bíblia (BA, BB), vegetal (VA) e papéis até à massa de 25 g por metro quadrado; para estes papéis o valor de k é igual a 1,18.
+
+3) Os coeficientes m, n e p têm os valores que constam do seguinte quadro:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
+
+4) O vapor de X é fixado em 40 por cento Z.
+
+5) O Valor de Y é determinado pela seguinte fórmula:
+
+Y = 3% A + 6% Z
+
+6) O valor de r é dado pela seguinte tabela:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
+
+7) As correcções a fazer ao preço dado pela fórmula são as seguintes:
+
+a) Cores:
+
+1 ... $10 por quilograma.
+
+2 ... -$00- por quilograma.
+
+Restantes cores:
+
+Papéis de embalagem e sobrescritos ... $70 por quilograma.
+
+Outros papéis ... $90 por quilograma.
+
+b) Colagem:
+
+1/4 ... $15 por quilograma.
+
+2/4 ... $30 por quilograma.
+
+3/4 ... $50 por quilograma.
+
+c) Aspecto à transparência:
+
+V, MFL ... -
+
+B, VES ... 3% A
+
+VF, VEF (não centrado) ... 5% A
+
+VF, VEF (centrado) ... 10% A
+
+d) Acabamento:
+
+Acetinado ... 3% A
+
+Friccionado ... 3% A
+
+Offset ... 3% A
+
+Calandrado ... 7% A
+
+Supercalandrado ... 12% A
+
+Laminado ... 20% A
+
+Ministério da Economia, 24 de Maio de 1961. - O Secretário de Estado do Comércio, João Augusto Dias Rosas. - O Secretário de Estado da Indústria, António Alves de Carvalho Fernandes.

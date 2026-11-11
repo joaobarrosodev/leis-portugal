@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:184700:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1252/2004 (1.º) extingue a zona de caça municipal criada pelo original; é uma extinção do ato, não uma alteração textual, e o resto do alterador anexa a área a outra zona associativa.",
+  "instrucoes": [
+    "Alterador 1, 1.º: extinção da zona de caça municipal da Herdade de Botareus criada pelo original; não há texto a mudar, registado em nao_aplicavel.",
+    "Alterador 1, 2.º a 4.º: anexação à zona associativa de São Manços, não dirigida ao texto do original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

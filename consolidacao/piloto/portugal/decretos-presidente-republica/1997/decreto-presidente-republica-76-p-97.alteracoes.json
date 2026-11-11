@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A pena de 16 anos de prisão resultante de revogação, por sentença proferida em 17 de Outubro de 1996, da suspensão da pena aplicada a Francisco Ricardo Guerreiro Santana, de 35 anos de idade, no processo n.º 179/94 do 2.º Juízo do Tribunal de Círculo de Portimão é revogada, por indulto, em 10 meses de prisão, por razões humanitárias.",
+    "depois": "A pena de 16 meses de prisão resultante de revogação, por sentença proferida em 12 de Dezembro de 1995, da suspensão da pena aplicada a Francisco Ricardo Guerreiro Santana, de 35 anos de idade, no processo n.º 179/94 do 2.º Juízo do Tribunal de Círculo de Portimão é revogada, por indulto, em 10 meses de prisão, por razões humanitárias.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:189924:por",
+    "alterador": "pt:dre:225377:por"
+  }
+]

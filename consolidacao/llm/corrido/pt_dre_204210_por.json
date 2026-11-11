@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:204210:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 143/98 altera as taxas aprovadas pela Portaria n.º 613/97 'pelas que constam em anexo': é um novo tarifário cujas tabelas só vêm em imagem, sem instrução textual de substituição dirigida a unidades do original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: altera as taxas dos serviços de radiocomunicações pelas do seu anexo (tabelas em imagem); não aplicado.",
+    "Alterador 1, n.º 2.º: entrada em vigor do alterador; sem alteração ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

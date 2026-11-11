@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:217541:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: extingue a zona de caça municipal dos Trancões criada pelo original; é um efeito sobre a situação criada, não uma alteração textual do diploma, por isso não há texto a mudar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: extinção da zona de caça criada pelo original; não textual, nada aplicado.",
+    "Alterador 1, 2.º a 4.º: concessão de nova zona de caça turística; não dirigidos ao texto do original, ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:167404:por",
+  "substituicoes": [
+    {
+      "de": 59,
+      "ate": 60,
+      "texto": "Semestral - 26$00;\n\nTrimestral - 15$00.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Retificação do artigo 66.º, alínea d) (Semestral - 6$00 / Trimestral - 5$00 -> 26$00 / 15$00): substituídas as unidades 59-60."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

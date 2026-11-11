@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:170530:por",
+  "substituicoes": [
+    {
+      "de": 39,
+      "ate": 55,
+      "texto": "22.º - (Revogado.)\n\n23.º - (Revogado.)\n\n24.º - (Revogado.)\n\n25.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "5.º da Portaria n.º 19752 revoga os n.os 22.º, 23.º, 24.º e 25.º: unidades 39 a 55 (corpo, alíneas, quadros e parágrafos desses números) substituídas por '22.º - (Revogado.)' a '25.º - (Revogado.)'; a epígrafe 'Armazenistas' (unidade 38) mantém-se.",
+    "N.os 1.º a 4.º da Portaria n.º 19752 são disposições próprias dessa portaria (não dão nova redacção ao original): não aplicados como texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

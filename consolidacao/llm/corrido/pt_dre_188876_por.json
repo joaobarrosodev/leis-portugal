@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:188876:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as retificações da Declaração de Rectificação n.º 27/2002 incidem sobre os quadros e as notas explicativas do orçamento anexo, que no texto do original só existem em imagem (unidade 6); não se podem aplicar ao texto.",
+  "instrucoes": [
+    "Alterador 1: retificações aos quadros 'Receitas correntes' e 'Despesas correntes' e às notas explicativas do anexo; anexo só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

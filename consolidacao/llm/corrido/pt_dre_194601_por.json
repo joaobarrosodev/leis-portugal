@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:194601:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1222/2000), n.º 1.º: o novo plano de estudos (anexo) só vem em imagem no documento original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: novo plano de estudos em anexo, quadros só em imagem; não aplicado.",
+    "Alterador 1, n.os 2.º a 6.º: número máximo de alunos, opções, transição, duração e aplicação, normas próprias que não dão nova redação ao original; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "depois da unidade 29",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "i) Estudo da caracterização produtiva e qualitativa das raças bovinas autóctones.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:158469:por",
+    "alterador": "pt:dre:657634:por"
+  },
+  {
+    "artigo": "unidades 39-40",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - No caso das ajudas a atribuir às acções 1, 2, 4, 5 e 8, o processo de candidatura inicia-se com a apresentação pelo interessado, junto do serviço regional de agricultura competente, de uma proposta, de acordo com formulário a distribuir por esse mesmo serviço, a entregar:\n\na) No caso das acções 1, 2, 5 e 8, até 31 de Maio de cada ano;",
+    "depois": "1 - No caso das ajudas a atribuir às acções 1, 2, 4, 5, 8 e 9, o processo de candidatura inicia-se com a apresentação pelo interessado, junto do serviço regional de agricultura competente, de uma proposta, de acordo com formulário a distribuir por esse mesmo serviço, a entregar:\n\na) No caso das acções 1, 2, 5, 8 e 9, até 31 de Maio de cada ano;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:158469:por",
+    "alterador": "pt:dre:657634:por"
+  },
+  {
+    "artigo": "unidades 47-47",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) No caso das acções 1, 2, 5 e 8, pela Direcção-Geral da Pecuária (DGP), até 31 de Julho desse ano;",
+    "depois": "a) No caso das acções 1, 2, 5, 8 e 9, pela Direcção-Geral da Pecuária (DGP), até 31 de Julho desse ano;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:158469:por",
+    "alterador": "pt:dre:657634:por"
+  },
+  {
+    "artigo": "unidades 52-52",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - O pagamento das ajudas às acções 1, 2, 4, 5 e 8 faz-se nos termos da alínea a) do n.º 11.º da [Portaria n.º 102/92](https://diariodarepublica.pt/dr/detalhe/portaria/102-1992-158465), de 19 de Fevereiro.",
+    "depois": "1 - O pagamento das ajudas às acções 1, 2, 4, 5, 8 e 9 faz-se nos termos da alínea a) do n.º 11.º da [Portaria n.º 102/92](https://diariodarepublica.pt/dr/detalhe/portaria/102-1992-158465), de 19 de Fevereiro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:158469:por",
+    "alterador": "pt:dre:657634:por"
+  }
+]

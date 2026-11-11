@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Conselho Superior de Obras Públicas e Transportes, a presidir;",
+    "depois": "a) Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário, a presidir;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:176505:por",
+    "alterador": "pt:dre:305399:por"
+  }
+]

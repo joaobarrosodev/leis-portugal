@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:168385:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As rectificações da Declaração de Rectificação n.º 11/94 (Ministério das Finanças, cap. 60, div. 04; Ministério da Agricultura, cap. 03, div. 12, subdiv. 01) incidem sobre o quadro de alterações orçamentais que no texto atual só existe em imagem ((ver documento original)); o texto a corrigir não existe no texto atual.",
+  "instrucoes": [
+    "Rectificação no cap. 60, div. 04 (acrescenta 'alínea A'): está no quadro em imagem, não aplicada.",
+    "Rectificação no cap. 03, div. 12, subdiv. 01 (C. F. 8.01.1 para 8.02.1): está no quadro em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

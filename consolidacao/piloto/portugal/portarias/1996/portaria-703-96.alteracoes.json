@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 37-39",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º - 1 - Salvo o disposto no n.º 3, os refrigerantes destinados ao consumidor final somente podem ser comercializados pré-embalados em recipientes hermeticamente vedados, fabricados em material que obedeça às disposições gerais previstas no Decreto-Lei n.º 193/88, de 30 de Maio, os quais, quando recuperáveis, devem permitir lavagem e ou esterilização fáceis.\n\n2 - A comercialização de refrigerantes só pode ser efectuada em pré-embalagens com as quantidades líquidas de 0,125 l, 0,20 l, 0,25 l, 0,33 l, 0,50 l, 0,75 l, 1 l, 1,5 l e 2 l.\n\n3 - Os refrigerantes também podem ser vendidos não pré-embalados, colhidos em aparelhos distribuidores, de vidro ou outro material apropriado que satisfaça os necessários requisitos de inocuidade e higiene.",
+    "depois": "5.º - 1 - Salvo o disposto no n.º 3, os refrigerantes destinados ao consumidor final são comercializados pré-embalados em recipientes hermeticamente vedados, fabricados de acordo com legislação em vigor relativa aos materiais destinados a entrar em contacto com os géneros alimentícios, recipientes que, quando recuperáveis, devem permitir lavagem e ou esterilização fáceis.\n\n2 - (Revogado.)\n\n3 - Os refrigerantes podem ser vendidos não pré-embalados, colhidos em aparelhos distribuidores, de vidro ou outro material apropriado que satisfaça os necessários requisitos de inocuidade e higiene.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:186297:por",
+    "alterador": "pt:dre:439406:por"
+  }
+]

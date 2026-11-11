@@ -1,0 +1,45 @@
+{
+  "id": "pt:dre:165026:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "Curso de Desporto, variante de Desporto de Natureza e Turismo Activo",
+      "alterador": 1
+    },
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 34,
+      "ate": 34,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: mudança de denominação do curso não é alteração textual do n.º 1.º do original (unidade 11 mantida). Os quadros do novo anexo só vêm em imagem: substituídas apenas as ligações para o documento.",
+  "instrucoes": [
+    "1.º: o curso passa a denominar-se 'Desporto, variante de Desporto de Natureza e Turismo Activo'; não é instrução textual sobre o n.º 1.º: não aplicada ao corpo.",
+    "2.º: nova redação do anexo; muda o título do curso (unidade 18) e as ligações dos quadros n.os 1 a 4 (unidades 23, 26, 29, 34); restantes unidades do anexo iguais.",
+    "3.º a 5.º: transição, aplicação e entrada em vigor do alterador: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

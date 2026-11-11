@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:216967:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 10-A/99): retifica o quadro anexo, mas tanto o texto errado como o correto só existem em imagem; não aplicável com segurança.",
+  "instrucoes": [
+    "Alterador 1: retificação do quadro anexo — só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

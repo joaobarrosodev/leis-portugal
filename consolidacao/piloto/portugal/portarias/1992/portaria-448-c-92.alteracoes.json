@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Considerando que o licenciado Sebastião José de Sousa Dias, assessor principal do quadro da extinta Direcção-Geral, se encontra a exercer funções, em regime de requisição, no Instituto Português do Livro e da Leitura, tendo declarado optar pela integração no quadro de pessoal deste organismo;",
+    "depois": "Considerando que o licenciado Sebastião José de Sousa Diniz, assessor principal do quadro da extinta Direcção-Geral, se encontra a exercer funções, em regime de requisição, no Instituto Português do Livro e da Leitura, tendo declarado optar pela integração no quadro de pessoal deste organismo;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:213411:por",
+    "alterador": "pt:dre:627609:por"
+  }
+]

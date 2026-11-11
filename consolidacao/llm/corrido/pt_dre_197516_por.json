@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:197516:por",
+  "substituicoes": [
+    {
+      "de": 39,
+      "ate": 42,
+      "texto": "O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o anexo (plano de estudos) passa a ter a redação do anexo da Portaria n.º 980/2004, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo anexo só em imagem; não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º, 3.º e 4.º: normas próprias (duração do semestre, transição, efeitos), não aditadas ao original; nada a fazer.",
+    "Alterador 2, 1.º: o número com a epígrafe Regulamento (9.º) das portarias do anexo passa a ter nova redação; os n.os 1 a 4 (unidades 39-42) substituídos pelo texto único, mantidos o número e a epígrafe (a lista de portarias do anexo só vem em imagem; aplicado por o original constar como alterado por esta portaria).",
+    "Alterador 2, 2.º e 3.º: produção de efeitos e entrada em vigor; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

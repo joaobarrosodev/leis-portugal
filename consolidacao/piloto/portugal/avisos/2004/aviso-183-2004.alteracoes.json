@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 2-2",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Por ordem superior se torna público que, em 3 de Fevereiro e em 12 de Agosto de 2004, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros de Portugal e pela Embaixada da República Federativa do Brasil, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo de Cooperação para a Prevenção e a Repressão do Tráfico Ilícito de Drogas entre a República Portuguesa e a República Federativa do Brasil, assinado em Lisboa, em 11 de Julho de 2003.",
+    "depois": "Por ordem superior se torna público que, em 3 de Fevereiro e em 12 de Agosto de 2004, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros de Portugal e pela Embaixada da República Federativa do Brasil, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo de Cooperação entre a República Portuguesa e a República Federativa do Brasil para a Prevenção e a Repressão do Tráfico Ilícito de Migrantes, assinado em Lisboa, em 11 de Julho de 2003.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:209602:por",
+    "alterador": "pt:dre:620904:por"
+  },
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Nos termos do artigo 10.º do Acordo, este entrou em vigor no dia 3 de Outubro de 2003.",
+    "depois": "Nos termos do artigo 10.º do Acordo, este entrou em vigor no dia 3 de Outubro de 2004.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:209602:por",
+    "alterador": "pt:dre:620904:por"
+  }
+]

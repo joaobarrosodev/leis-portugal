@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:218934:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "Considerando que os montantes dos direitos niveladores assim calculados, que incidem sobre a importação dos produtos incluídos na posição pautal ex 2309, genericamente denominados «leites de substituição», são muito mais elevados do que os direitos aduaneiros que anteriormente incidiam sobre aqueles mesmos produtos;",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "1.º Sem prejuízo das regras de cálculo dos direitos niveladores, estabelecidos na [Portaria n.º 63-G/86](https://diariodarepublica.pt/dr/detalhe/portaria/63-g-1986-245103), de 1 de Março, para o sector do leite e produtos lácteos, o montante dos direitos niveladores efectivamente aplicáveis nas importações dos produtos, provenientes da Comunidade e de Espanha, classificados pela posição pautal ex 2309, que constam do artigo 1.º do [Decreto-Lei n.º 513/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1985-546419), de 31 de Dezembro, não pode ser superior a 7% ad valorem.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º a 15.º e 17.º: alteram ou revogam a Portaria n.º 63-G/86 e a Portaria n.º 401/87, ou são da própria portaria alteradora; ignorados.",
+    "Alterador 1, 16.º: a expressão 23.07.B passa a ex 2309 no preâmbulo e na parte normativa; substituídas as unidades 4 e 11 (únicas ocorrências)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:171922:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º do Decreto 46901 adita o § 4.º ao artigo 489.º da Reforma Administrativa Ultramarina, na redacção dada pelo Decreto 43730: altera outro diploma (a Reforma), ignorado.",
+    "Art. 2.º do Decreto 46901 dá nova redacção ao artigo 589.º da Reforma Administrativa Ultramarina: altera outro diploma, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

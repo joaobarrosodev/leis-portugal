@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:197303:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o plano de estudos (anexo) passa a ser o do anexo da Portaria n.º 1135/2000, que só vem em imagem (quadros no documento original); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos só em imagem; não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º, 3.º e 4.º: normas próprias da Portaria n.º 1135/2000 (duração do ano e semestre, transição, aplicação), não aditadas ao original; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

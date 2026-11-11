@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:219101:por",
+  "substituicoes": [
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "8.º - 1 - O processo de pagamento das restituições é constituído no Instituto Nacional de Garantia Agrícola (INGA), a pedido do exportador, dentro dos doze meses seguintes ao dia da aceitação da declaração de exportação.\n\n2 - O pagamento da restituição pelo INGA fica subordinado à apresentação da prova de que os produtos para os quais foi aceite uma declaração de exportação deixaram, no seu estado inalterado, o território aduaneiro da Comunidade, o mais tardar, no prazo de 60 dias após a data dessa aceitação.\n\nCaso a taxa da restituição seja diferenciada, conforme o destino, o pagamento da restituição fica subordinado à apresentação da prova do cumprimento das formalidades aduaneiras de introdução no consumo no país terceiro para o qual tenha sido fixada essa taxa.\n\n3 - Todavia, a pedido do exportador, o INGA poderá adiantar a totalidade ou parte do montante da restituição, após a aceitação da declaração da exportação, na condição de que seja garantido pela constituição de uma caução o montante desse adiantamento, acrescido de 15%.\n\n4 - Quando o montante adiantado for superior ao montante efectivamente devido para a exportação em causa, o exportador pagará a diferença entre estes dois montantes, acrescida de 15%.\n\n5 - Se este montante não for pago pelo exportador, não obstante o pedido nesse sentido, a caução constituída ficará adquirida em relação a esse mesmo montante.",
+      "alterador": 1
+    },
+    {
+      "de": 24,
+      "ate": 25,
+      "texto": "9.º - 1 - A pedido do exportador, e sempre que a situação do mercado o permita, a restituição pode ser fixada antecipadamente, sendo, neste caso, o seu montante o que estiver em vigor no dia da apresentação do pedido de certificado.\n\n2 - Qualquer variação, decidida pelo Governo, para os preços de revenda acarreta o ajustamento correspondente da restituição em vigor e dos valores das restituições fixadas nos termos do número anterior.",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 29,
+      "texto": "12.º A libertação da caução prevista no n.º 11.º ficará subordinada à apresentação da prova referida no primeiro parágrafo do n.º 8.º, n.º 2.\n\n13.º - 1 - A caução, ou parte da mesma, que não tiver sido libertada, de acordo com o disposto na presente portaria, será considerada perdida a favor do Estado.\n\n2 - A libertação da caução constituída a favor do INGA será efectuada, no todo ou em parte, após a conclusão do processo de pagamento.",
+      "alterador": 1
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "15.º Esta portaria entra em vigor no dia seguinte ao da sua publicação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 8.º; substituída a unidade 23 por seis parágrafos.",
+    "Alterador 1, 2.º: nova redação do n.º 9.º; substituídas as unidades 24-25.",
+    "Alterador 1, 3.º: nova redação do n.º 12.º; substituída a unidade 28 (na mesma substituição que a 29).",
+    "Alterador 1, 4.º: nova redação do n.º 13.º; substituída a unidade 29 por dois parágrafos.",
+    "Alterador 1, 5.º: nova redação do n.º 15.º; substituída a unidade 31."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 59-60",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Semestral - 6$00;\n\nTrimestral - 5$00.",
+    "depois": "Semestral - 26$00;\n\nTrimestral - 15$00.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:167404:por",
+    "alterador": "pt:dre:668497:por"
+  }
+]

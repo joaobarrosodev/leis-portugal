@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:184689:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1376/2006 (1.º) extingue a zona de caça municipal criada pelo original; é uma extinção do ato, não uma alteração textual, e o resto do alterador concessiona uma nova zona associativa noutro ato.",
+  "instrucoes": [
+    "Alterador 1, 1.º: extinção da zona de caça municipal dos Passarinhos criada pelo original; não há texto a mudar, registado em nao_aplicavel.",
+    "Alterador 1, 2.º e 3.º: concessão de nova zona associativa, não dirigida ao texto do original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

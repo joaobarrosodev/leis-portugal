@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:206051:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: revoga a concessão da zona de caça turística (acto administrativo), não altera nem revoga o texto da portaria; alteração não textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º: revogação da concessão de Vale de Mouro; sem alteração textual, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

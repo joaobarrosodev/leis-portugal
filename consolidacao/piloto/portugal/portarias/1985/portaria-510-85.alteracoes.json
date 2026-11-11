@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 222-224",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.1.1 - Estrutura.\n\n3.1.2 - Atribuições.\n\n3.1.3 - Competência.",
+    "depois": "3.1.1 - Estrutura;\n\n3.1.2 - Atribuições;\n\n3.1.3 - Competência;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:180010:por",
+    "alterador": "pt:dre:495709:por"
+  },
+  {
+    "artigo": "unidades 226-226",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.2.1 - Estrutura.",
+    "depois": "3.2.1 - Estrutura;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:180010:por",
+    "alterador": "pt:dre:495709:por"
+  },
+  {
+    "artigo": "unidades 228-231",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.2.2.1 - Órgãos operativos.\n\n3.2.2.2 - Órgãos de apoio técnico.\n\n3.2.2.3 - Órgãos de apoio consultivo.\n\n3.2.2.4 - Órgãos de apoio instrumental.",
+    "depois": "3.2.2.1 - Órgãos operativos;\n\n3.2.2.2 - Órgãos de apoio técnico;\n\n3.2.2.3 - Órgãos de apoio consultivo;\n\n3.2.2.4 - Órgãos de apoio instrumental;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:180010:por",
+    "alterador": "pt:dre:495709:por"
+  },
+  {
+    "artigo": "unidades 235-257",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Recrutamento e selecção de pessoal.\n\n2 - Gestão de pessoal.\n\n3 - Liquidação de vencimentos e outros abonos.\n\n4 - Determinação de pensão de aposentação.\n\n5 - Processamento de despesas.\n\n6 - Inventário e cadastro de bens e seu controle.\n\n7 - Gestão de stocks.\n\n8 - Taxa média efectiva para determinação do valor actual da renda perpétua.\n\n9 - Determinação de valores para pagamento de encargos de dívida externa em função da cotação dos câmbios.\n\n10 - Liquidação de encargos de dívida pública. Arredondamentos. Pagamento por antecipação.\n\n11 - Meios de pagamento. Ordem de pagamento e ordem de transferência.\n\n12 - Escrituração das despesas da Junta do Crédito Público. Movimentação das dotações orçamentais.\n\n13 - Aquisição e cedência de títulos.\n\n14 - Emissão de um empréstimo externo.\n\n15 - Emissão de um empréstimo interno.\n\n16 - Criação de renda vitalícia.\n\n17 - Criação de renda perpétua.\n\n18 - Títulos extraviados e títulos deteriorados.\n\n19 - Processos ordinários, sumários e sumaríssimos: tramitação.\n\n20 - Emissão, cláusulas e reembolso de certificados de aforro.\n\n21 - Contratos com agentes pagadores.\n\n22 - Relatório e contas da Junta do Crédito Público.\n\n23 - Plano de contas da Junta de Crédito Público.",
+    "depois": "1 - Dívida pública: objectivos da política de gestão, formas de colocação da dívida, espécies, papel dos mercados primário e secundário.\n\n2 - Taxa média efectiva para determinação do valor actual da renda perpétua.\n\n3 - Determinação de valores para pagamento de encargos de dívida externa em função da cotação dos câmbios.\n\n4 - Liquidação de encargos de dívida pública. Arredondamentos. Pagamento por antecipação.\n\n5 - Meios de pagamento. Ordem de pagamento e ordem de transferência.\n\n6 - Escrituração das despesas da Junta do Crédito Público. Movimentação das dotações orçamentais.\n\n7 - Aquisição e cedência de títulos.\n\n8 - Emissão de um empréstimo externo.\n\n9 - Emissão de um empréstimo interno.\n\n10 - Criação de renda vitalícia.\n\n11 - Criação de renda perpétua.\n\n12 - Títulos extraviados e títulos deteriorados.\n\n13 - Processos ordinários, sumários e sumaríssimos: tramitação.\n\n14 - Emissão, cláusulas e reembolso de certificados de aforro.\n\n15 - Contratos com agentes pagadores.\n\n16 - Relatório e contas da Junta do Crédito Público.\n\n17 - Plano de contas da Junta do Crédito Público.\n\n18 - Introdução à informática: noções gerais.\n\n19 - Aplicações da Junta do Crédito Público.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:180010:por",
+    "alterador": "pt:dre:495709:por"
+  }
+]

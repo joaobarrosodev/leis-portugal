@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:161476:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: 2.º retifica o mapa II («contínuos de 3.ª classe» por «serventes») e 4.º acrescenta lugares a quadros de pessoal docente, mas os mapas só vêm em imagem; 1.º (designação da escola de S. Torcato) e 3.º (extinção da Escola Preparatória de D. Francisco de Almeida) são alterações não textuais, sem texto correspondente no original. Nada aplicado.",
+  "instrucoes": [
+    "1.º: designação e quadros da escola de S. Torcato segundo a Portaria n.º 664/73; dados no mapa I em imagem: não aplicável.",
+    "2.º: retificação no mapa II, só em imagem: não aplicável.",
+    "3.º: extinção da Escola Preparatória de D. Francisco de Almeida, sem texto no original: não aplicável.",
+    "4.º: aditamento de lugares a quadros de pessoal docente, sem texto no original: não aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

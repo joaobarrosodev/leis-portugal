@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:216369:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "c) No caso das acções 1.3, 2.1 e 5.1 a 6.1, até 30 de Abril de cada ano.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retifica a alínea c) do n.º 1 do n.º 6.º, «4.1 a 6.1» passa a «5.1 a 6.1» (unidade 13)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

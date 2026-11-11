@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:173106:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "2 - A comissão será composta por representantes dos Ministros da Defesa Nacional, das Finanças, da Administração Interna, do Equipamento, do Planeamento e da Administração do Território, da Educação, da Cultura e Adjunto do Primeiro-Ministro, que coordenará.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Rectificação 9-L/98: no n.º 2 acrescenta 'das Finanças,' depois de 'Defesa Nacional,'; substituída a unidade 10."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

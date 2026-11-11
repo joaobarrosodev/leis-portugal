@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:166778:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os quadros n.os 2 e 3 do anexo passam a ter a redação do anexo da Portaria n.º 133/2004, mas os novos quadros só vêm em imagem (ver quadro no documento original); não aplicável textualmente.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substituição dos quadros n.os 2 e 3 do anexo por quadros em imagem; não aplicado. Os n.os 2.º a 4.º do alterador são normas próprias, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

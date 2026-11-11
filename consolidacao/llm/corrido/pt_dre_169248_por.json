@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:169248:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 18,
+      "texto": "7 - Tratando-se de projectos plurianuais, as entregas das participações financeiras podem também ser feitas mediante pedidos de adiantamento apresentados pelos municípios e entidades privadas ou empresas públicas, devendo a comprovação das despesas ser efectuada, nos termos do n.º 6 do presente despacho normativo, até 31 de Dezembro de 1997.\n\n8 - A não comprovação das despesas no prazo estabelecido dá lugar a reposição dos montantes recebidos por adiantamento acrescidos de juros, contados a partir da data da disponibilização da verba e calculados de acordo com a taxa média praticada pelas instituições bancárias autorizadas a fazer operações activas de prazo superior a cinco anos.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "§ único do Despacho Normativo n.º 39/96 acrescenta os n.os 7 e 8: inseridos a seguir ao n.º 6 (unidade 18)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

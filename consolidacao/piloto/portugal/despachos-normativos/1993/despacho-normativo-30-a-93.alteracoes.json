@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Os produtores que se encontrem nas condições definidas pela regulamentação comunitária e que pretendam beneficiar do prémio para manutenção dos efectivos de vacas aleitantes cujas explorações (ou unidades de produção) se localizem nos concelhos de Barrancos (freguesia de Barrancos), Mourão (freguesias da Luz e da Granja), Serpa (freguesia de Ficalho), Moura (freguesias de Santo Amador, de Santo Aleixo e de Safara) e Alandroal (freguesia de Capelins) podem apresentar a sua candidatura ao referido prémio no Instituto Nacional de Intervenção e Garantia Agrícola ou noutra entidade designada para o efeito, em modelo próprio a fornecer por este Instituto, a partir do dia 15 de Março e até ao dia 15 de Abril.",
+    "depois": "1 - Os produtores que se encontrem nas condições definidas pela regulamentação comunitária e que pretendam beneficiar do prémo para manutenção dos efectivos de vacas aleitantes cujas explorações (ou unidades de produção) se localizem nos concelhos de Barrancos (freguesia de Barrancos), Mourão, Serpa (freguesia de Ficalho), Moura (freguesias de Santo Amador, Santo Aleixo, Safara, Póvoa de São Miguel, Sobral da Adiça e Amareleja) e Alandroal (freguesia de Capelins) podem apresentar a sua candidatura ao referido prémio no Instituto Nacional de Intervenção e Garantia Agrícola ou noutra entidade designada para o efeito, em modelo próprio, a fornecer por este Instituto, a partir do dia 15 de Março e até ao dia 15 de Maio.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:175549:por",
+    "alterador": "pt:dre:300022:por"
+  }
+]

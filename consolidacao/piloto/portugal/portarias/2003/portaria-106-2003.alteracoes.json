@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 33-34",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º ciclo\n\nGrau de bacharel",
+    "depois": "2.º ciclo\n\nGrau de licenciado",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:166777:por",
+    "alterador": "pt:dre:655912:por"
+  }
+]

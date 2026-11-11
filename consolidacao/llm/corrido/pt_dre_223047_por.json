@@ -1,0 +1,51 @@
+{
+  "id": "pt:dre:223047:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "a) Óleos e gorduras vegetais e animais comestíveis;",
+      "alterador": 1
+    },
+    {
+      "de": 44,
+      "ate": 48,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 49,
+      "ate": 49,
+      "texto": "8.º",
+      "alterador": 1
+    },
+    {
+      "de": 55,
+      "ate": 55,
+      "texto": "9.º",
+      "alterador": 1
+    },
+    {
+      "de": 58,
+      "ate": 58,
+      "texto": "10.º",
+      "alterador": 1
+    },
+    {
+      "de": 61,
+      "ate": 63,
+      "texto": "",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º n.º 1: nova redação da alínea a) do n.º 3.º; substituída a unidade 20.",
+    "Alterador 1, 1.º n.º 2: suprime os n.os 8.º (unidades 44-48) e 12.º (unidades 61-63), eliminados; renumera 9.º a 11.º para 8.º a 10.º (unidades 49, 55 e 58).",
+    "Alterador 1, 2.º: republicação em anexo; não aplicadas as pequenas diferenças de redação da republicação que não correspondem a instruções de alteração."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

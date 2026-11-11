@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:173287:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 24,
+      "texto": "5.º-A\n\nSupranumerários\n\n1 - Para além das vagas fixadas nos termos do n.º 5.º, pode ainda ser criado um contingente especial destinado a estudantes nacionais dos países africanos de expressão portuguesa, desde que a candidatura seja apresentada previamente pela via diplomática, através do Departamento do Ensino Superior, no âmbito dos acordos de cooperação firmados pelo Estado Português.\n\n2 - O número de vagas deste contingente é fixado pelo presidente do Instituto e não pode ser superior a 10% das vagas fixadas nos termos do n.º 5.º\n\n3 - Os estudantes a que se refere o n.º 1 devem satisfazer as condições de acesso fixadas nos termos do n.º 3.º e estão sujeitos, se excederem o número de vagas fixadas nos termos do número anterior, às regras e critérios de selecção e seriação estabelecidos pela presente portaria.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: o novo anexo (plano de estudos) só vem em imagem e o original não tem cabeçalho de anexo identificável (a unidade 110 é só a ligação para o documento original); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: aditado o n.º 5.º-A (Supranumerários) — inserido a seguir à unidade 24 (fim do n.º 5.º).",
+    "Alterador 1, 2.º: anexo substituído pelo do alterador — só em imagem, não aplicado (nao_aplicavel).",
+    "Alterador 1, 3.º e 4.º: aplicação e transição — normas próprias do alterador, nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:200428:por",
+  "substituicoes": [
+    {
+      "de": 44,
+      "ate": 63,
+      "texto": "## ANEXO — ([Portaria n.º 128/2003](https://diariodarepublica.pt/dr/detalhe/portaria/128-2003-200428), de 5 de Fevereiro - alteração)\n\nAcademia Nacional Superior de Orquestra\n\nCurso de Canto\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)\n\n2.º ciclo - Grau de licenciado\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: o anexo (anexos I e II, unidades 44-63) passa a ter a redação do anexo da Portaria n.º 60/2005; substituído pelo texto desse anexo (quadros em imagem).",
+    "Alterador 1, n.os 2.º e 3.º: transição e aplicação, normas próprias do alterador, sem alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

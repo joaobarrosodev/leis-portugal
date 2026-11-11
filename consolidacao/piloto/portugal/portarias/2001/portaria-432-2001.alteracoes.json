@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Curso de Desporto, variante de Animação Desportiva, Recreação e Lazer",
+    "depois": "Curso de Desporto, variante de Desporto de Natureza e Turismo Activo",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:165026:por",
+    "alterador": "pt:dre:527584:por"
+  },
+  {
+    "artigo": "unidades 23-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/04/097b00/23982399.pdf)](https://files.diariodarepublica.pt/1s/2001/04/097b00/23982399.pdf)](https://files.diariodarepublica.pt/1s/2001/04/097b00/23982399.pdf)](https://files.diariodarepublica.pt/1s/2001/04/097b00/23982399.pdf)",
+    "depois": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:165026:por",
+    "alterador": "pt:dre:527584:por"
+  },
+  {
+    "artigo": "unidades 26-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/04/097b00/23982399.pdf)](https://files.diariodarepublica.pt/1s/2001/04/097b00/23982399.pdf)](https://files.diariodarepublica.pt/1s/2001/04/097b00/23982399.pdf)](https://files.diariodarepublica.pt/1s/2001/04/097b00/23982399.pdf)",
+    "depois": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:165026:por",
+    "alterador": "pt:dre:527584:por"
+  },
+  {
+    "artigo": "unidades 29-29",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/04/097b00/23982399.pdf)](https://files.diariodarepublica.pt/1s/2001/04/097b00/23982399.pdf)](https://files.diariodarepublica.pt/1s/2001/04/097b00/23982399.pdf)](https://files.diariodarepublica.pt/1s/2001/04/097b00/23982399.pdf)",
+    "depois": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:165026:por",
+    "alterador": "pt:dre:527584:por"
+  },
+  {
+    "artigo": "unidades 34-34",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/04/097b00/23982399.pdf)](https://files.diariodarepublica.pt/1s/2001/04/097b00/23982399.pdf)](https://files.diariodarepublica.pt/1s/2001/04/097b00/23982399.pdf)](https://files.diariodarepublica.pt/1s/2001/04/097b00/23982399.pdf)",
+    "depois": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43774379.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:165026:por",
+    "alterador": "pt:dre:527584:por"
+  }
+]

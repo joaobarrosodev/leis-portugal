@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 9-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Pelas vistorias a realizar ao abrigo do n.º 1 do artigo 8.º e do n.º 3 do artigo 12.º do [Decreto-Lei n.º 315/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1995-626594), de 28 de Novembro, são devidas a seguintes taxas, em conformidade com a classificação dos recintos feita no n.º 2 do artigo 3.º do Regulamento das Condições Técnicas e de Segurança dos Recintos de Espectáculos e Divertimentos Públicos, aprovado pelo [Decreto Regulamentar n.º 34/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1995-634904), de 16 de Dezembro:\n\na) Recintos de 1.ª categoria - 110000$00;\n\nb) Recintos de 2.ª categoria - 90000$00;\n\nc) Recintos de 3.ª categoria - 70000$00;\n\nd) Recintos de 4.ª categoria - 50000$00;\n\ne) Recintos de 5.ª categoria - 35000$00.",
+    "depois": "1.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:214233:por",
+    "alterador": "pt:dre:670000:por"
+  },
+  {
+    "artigo": "unidades 21-29",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º O valor da taxa suplementar devida pela passagem do alvará da licença de recinto em prazo mais curto do que o fixado no n.º 1 do artigo 9.º do [Decreto-Lei n.º 315/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1995-626594), de 28 de Novembro, é o seguinte:\n\na) Emissão em prazo de vinte e quatro horas - 20000$00;\n\nb) Emissão em prazo inferior a 10 dias mais superior a 1 - 10000$00.\n\n4.º O valor da taxa devida pelo registo da actividade de promotor de espectáculos, da actividade de edição, reprodução, distribuição, venda, aluguer ou troca de videogramas e da actividade de importação, exportação, fabrico, produção, edição e distribuição de fonogramas e suas renovações é de 30000$00.\n\n5.º Estão isentas da taxa referida no n.º 4.º da presente portaria:\n\na) As associações recreativas, culturais ou desportivas;\n\nb) Os salões ou centros paroquiais e as instituições de beneficência.\n\n6.º As instituições referidas no n.º 5.º da presente portaria pagarão apenas o valor de dois terços das taxas referidas no n.º 1.º, arredondado para a centena de escudos mais próxima.\n\n7.º Os valores fixados no n.º 2.º da presente portaria apenas se aplicam aos membros das comissões de vistorias extraordinárias determinadas após a sua entrada em vigor e às ordinárias que já tiveram pago os valores fixados no seus n.os 1.º e 6.º",
+    "depois": "3.º - (Revogado.)\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n6.º - (Revogado.)\n\n7.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:214233:por",
+    "alterador": "pt:dre:670000:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 13",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1.º-A\n\nCurso de Educadores de Infância\n\n1 - O curso de Educadores de Infância poderá ser ministrado em Vila Real e em Chaves.\n\n2 - À transferência de alunos entre as duas cidades onde a Universidade ministre o curso aplicam-se, com as necessárias adaptações, as regras do regime de transferência.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:222413:por",
+    "alterador": "pt:dre:420194:por"
+  }
+]
