@@ -1,0 +1,559 @@
+{
+  "id": "pt:dre:157034:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "(Tesourarias da Fazenda Pública: atribuições)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "(Tesourarias da Fazenda Pública: criação e classes)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "(Concentração o desdobramento das tesourarias da Fazenda Pública)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "(Fixação e alteração dos quadros)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "(Recrutamento)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "(Contigentação)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "(colocação do pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "(Formas de provimento)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "(Equiparações legais)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "(Horário)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "(classificação de serviço)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "(Participação dos funcionários na gestão e organização dos serviços)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "(Dos deveres em geral)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "(Segurança pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "(Instalações)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "(Medidas de polícia)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "(Incompatibilidades)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "(Remunerações e abonos diversos)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "(Remunerações acessórias)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "(Prémio de cobrança)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "(Distribuição do prémio de cobrança)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "(Limites)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "(Participações que não entram no limite previsto no número anterior)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "(Local da posse)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "(Entidades conferentes da posse)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "(Consequência da falta de posse)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "(Prorrogação dos prazos de posse)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "(Prazo da posse)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "(Os funcionários empossados têm de se caucionar previamente)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "(Transferências dos tesoureiros da Fazenda Pública; condições de preferência)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "(Promoções dos tesoureiros da Fazenda Pública)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "(Transferências de tesoureiros-ajudantes; condições de preferência)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "(Transferências por conveniência de serviço)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "(Transferência de funcionários deslocados nas regiões autónomas)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "(Permutas)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "(Nomeação)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "(Admissão de tesoureiros-ajudantes estagiários)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "(Graduação dos candidatos para efeitos do nomeação para a categoria de tesoureiro-ajudante de 2.ª classe)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "(Provas de selecção para tesoureiros-ajudantes principais e tesoureiros da Fazenda Pública de 3.ª, 2.ª e 1.ª classes)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "(Cursos)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "(Exames finais)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "(Provas de selecção para tesoureiros da Fazenda Pública de 3.ª classe quando seja insuficiente o número de candidatos tesoureiros-ajudantes principais.)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "(Prazo de validade das provas de selecção)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "(Efeitos de reprovação nas provas selectivas)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "(Repetição de provas)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "(Tesoureiros-ajudantes de 1.ª classe)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "(Preferências a atender em caso de igualdade de circunstâncias)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "(Insuficiência de candidatos para o provimento dos lugares vagos)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "(Promoção dos funcionários licenciados)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "50.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "52.º",
+      "epigrafe": "(Delegação de competência)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "53.º",
+      "epigrafe": "(Competência dos tesoureiros subgerentes e tesoureiros-adjuntos)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "54.º",
+      "epigrafe": "(Substituição dos tesoureiros subgerentes e dos tesoureiros-adjuntos)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "55.º",
+      "epigrafe": "(Competência dos funcionários encarregados do serviço de caixa)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "56.º",
+      "epigrafe": "(Competência do restante pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "57.º",
+      "epigrafe": "(Serviço externo)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "58.º",
+      "epigrafe": "(Gerência das tesourarias da Fazenda Pública)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "68.º",
+      "epigrafe": "(Balanço diário)",
+      "texto": "1 - O tesoureiro gerente é obrigado diariamente a verificar, pelos elementos de contabilidade da tesouraria, as contas das diversas caixas e a apurar, pelo seu cômputo, o saldo em dinheiro e documentos de despesa e a venda de valores selados e impressos.\n\n2 - (Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "69.º",
+      "epigrafe": "(Balanço semanal)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "76.º",
+      "epigrafe": "(Dos montantes dos alcances garantidos pelo Fundo de Cauções)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "78.º",
+      "epigrafe": "(Garantias do Fundo de Cauções)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "79.º",
+      "epigrafe": "(Inscrição no Fundo de Cauções)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "80.º",
+      "epigrafe": "(Quotas e jóias)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "81.º",
+      "epigrafe": "(Actuais jóias)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "82.º",
+      "epigrafe": "(Estatutos do Fundo de Cauções)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "83.º",
+      "epigrafe": "(Transição dos actuais funcionários e agentes)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "84.º",
+      "epigrafe": "(Ajudantes de tesoureiro)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "85.º",
+      "epigrafe": "(Antigos propostos, auxiliares e ajudantes sem habilitações literárias)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "86.º",
+      "epigrafe": "(Tesoureiros da Fazenda Pública)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "87.º",
+      "epigrafe": "(Candidatos aprovados em concursos cujo prazo de validade tenha expirado ou que tenham desistido)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "88.º",
+      "epigrafe": "(Tesoureiros da Fazenda Pública de 3.ª classe subgerentes das tesourarias da Fazenda Pública de 1.ª classe)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "89.º",
+      "epigrafe": "(Ajudantes de tesoureiro concursados para tesoureiros da Fazenda Pública de 3.ª classe em tesourarias da Fazenda Pública de 2.ª classe.)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "90.º",
+      "epigrafe": "(Propostas de admissão pendentes de ajudantes de tesoureiro)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "91.º",
+      "epigrafe": "(Admissão de tesoureiros-ajudantes estagiários até à realização das primeiras provas de admissão a realizar após a publicação deste diploma)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "92.º",
+      "epigrafe": "(Salvaguarda dos direitos relacionados com a actual colocação dos funcionários)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "93.º",
+      "epigrafe": "(Listas dos candidatos já aprovados em concursos para tesoureiros da Fazenda Pública)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "94.º",
+      "epigrafe": "(Colocação de tesoureiros gerentes quando se verifique a elevação da classificação do concelho ou localidade)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "95.º",
+      "epigrafe": "(Contagem de tempo de serviço dos ajudantes de tesoureiro)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "96.º",
+      "epigrafe": "(Classificação de serviço)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "97.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "98.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "99.º",
+      "epigrafe": "(Manutenção de direitos em matéria de remunerações globais)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "100.º",
+      "epigrafe": "(Fiéis depositários dos bens dos serviços)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "101.º",
+      "epigrafe": "(Fornecimento do «Diário da República» às tesourarias da Fazenda Pública)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "102.º",
+      "epigrafe": "(Colaboração do sistema bancário nacionalizado)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "103.º",
+      "epigrafe": "(Resolução de dúvidas)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "104.º",
+      "epigrafe": "(Entrada em vigor)",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1, 2, 3, 4, 5, 7, 9 e 10 (Portarias n.os 201/81, 1028/82, 472/83, 95-A/85, 867/85, 261/90 e 744-A/93, esta duplicada): alteram o quadro geral do pessoal das tesourarias da Fazenda Pública (mapa anexo ao artigo 4.º, n.º 2) e a classificação/desdobramento/extinção de tesourarias; o mapa anexo do original e os mapas das portarias só existem em imagem ('ver documento original') e o mapa não é um artigo do texto atual, pelo que não é possível aplicar textualmente. Alterador 8 (Decreto-Lei n.º 167/91): fixa novas escalas remuneratórias e transições de categorias por mapas em imagem, sem nova redação de nenhum artigo do original; nada a aplicar ao texto.",
+  "instrucoes": [
+    "Alterador 6 (DL 36/90), art. 1.º: nova redação dos artigos 6.º (n.os 1 e 2 mantidos, n.º 3 novo, n.os 4 e 5 = antigos 3 e 4) e 88.º (nova epígrafe e n.os 1 e 2). Aplicada, mas ambos os artigos são depois revogados pelo alterador 11, pelo que o texto final devolvido é '(Revogado.)' com alterador 11. Mantidas as epígrafes dadas pelo alterador 6 ('Contigentação', tal como grafada no alterador, e a nova epígrafe do 88.º).",
+    "Alterador 6 (DL 36/90), art. 2.º: altera os artigos 5.º e 10.º do DL 223/80 — outro diploma, ignorado.",
+    "Alterador 11 (DL 237/2004), art. 7.º: revoga o DL 519-A1/79 com exceção dos artigos 51.º, 59.º a 67.º, n.º 1 do artigo 68.º, 70.º a 75.º e 77.º. Devolvidos com '(Revogado.)' os artigos 1.º a 50.º, 52.º a 58.º, 69.º, 76.º e 78.º a 104.º (86 artigos); no artigo 68.º o n.º 2 passa a '(Revogado.)' e o n.º 1 mantém-se. Os artigos excecionados mantêm o texto atual e não são devolvidos.",
+    "Alterador 11, arts. 1.º a 4.º: alteram os DL 366/99, 557/99, 262/2002 e 187/99 — outros diplomas, ignorados. Art. 6.º, n.º 1 (referências às tesourarias consideram-se feitas aos serviços de finanças): adaptação interpretativa, não textual; não altera o texto.",
+    "Portarias (alteradores 1-5, 7, 9, 10) e DL 167/91 (alterador 8): sem alteração textual aplicável — ver nao_aplicavel."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "chars": 181807,
+      "artigos": 87
+    }
+  ],
+  "problemas": []
+}

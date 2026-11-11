@@ -1,0 +1,384 @@
+{
+  "id": "pt:dre:576886:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Estatuto do ICP - Autoridade Nacional de Comunicações (ICP - ANACOM)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Equiparação ao Estado",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Actuais mandatos",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::1.º",
+      "epigrafe": "Natureza jurídica e finalidade",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::2.º",
+      "epigrafe": "Sede e delegações",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::3.º",
+      "epigrafe": "Regime jurídico",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::4.º",
+      "epigrafe": "Independência",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::5.º",
+      "epigrafe": "Princípio da especialidade",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::6.º",
+      "epigrafe": "Atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::7.º",
+      "epigrafe": "Competência consultiva",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::8.º",
+      "epigrafe": "Colaboração de outras autoridades",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::9.º",
+      "epigrafe": "Procedimentos de regulação e supervisão",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::10.º",
+      "epigrafe": "Procedimentos sancionatórios",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::11.º",
+      "epigrafe": "Procedimento regulamentar",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::12.º",
+      "epigrafe": "Exercício da supervisão",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::13.º",
+      "epigrafe": "Obrigações dos operadores",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::14.º",
+      "epigrafe": "Sigilo",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::15.º",
+      "epigrafe": "Cooperação com outras entidades",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::16.º",
+      "epigrafe": "Queixas dos consumidores e utilizadores",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::17.º",
+      "epigrafe": "Cumprimento das obrigações legais ou contratuais",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::18.º",
+      "epigrafe": "Arbitragem",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::19.º",
+      "epigrafe": "Órgãos",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::20.º",
+      "epigrafe": "Função",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::21.º",
+      "epigrafe": "Composição e nomeação",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::22.º",
+      "epigrafe": "Estatuto",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::23.º",
+      "epigrafe": "Cessação de funções",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::24.º",
+      "epigrafe": "Dissolução do conselho de administração",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::25.º",
+      "epigrafe": "Independência dos membros",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::26.º",
+      "epigrafe": "Competências do conselho de administração",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::27.º",
+      "epigrafe": "Delegação de poderes",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::28.º",
+      "epigrafe": "Funcionamento",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::29.º",
+      "epigrafe": "Presidente do conselho de administração",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::30.º",
+      "epigrafe": "Vinculação do ICP - ANACOM",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::31.º",
+      "epigrafe": "Função",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::32.º",
+      "epigrafe": "Composição e estatuto",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::33.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::34.º",
+      "epigrafe": "Funcionamento",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::35.º",
+      "epigrafe": "Função",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::36.º",
+      "epigrafe": "Composição",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::37.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::38.º",
+      "epigrafe": "Funcionamento",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::39.º",
+      "epigrafe": "Procedimento",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::40.º",
+      "epigrafe": "Convocações",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::41.º",
+      "epigrafe": "Regras gerais",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::42.º",
+      "epigrafe": "Património",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::43.º",
+      "epigrafe": "Receitas",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::44.º",
+      "epigrafe": "Despesas",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::45.º",
+      "epigrafe": "Serviços",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::46.º",
+      "epigrafe": "Regime do pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::47.º",
+      "epigrafe": "Incompatibilidades",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::48.º",
+      "epigrafe": "Funções de fiscalização",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::49.º",
+      "epigrafe": "Mobilidade",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::50.º",
+      "epigrafe": "Tutela",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::51.º",
+      "epigrafe": "Relatório ao Governo e à Assembleia da República e audições parlamentares",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::52.º",
+      "epigrafe": "Responsabilidade jurídica",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::53.º",
+      "epigrafe": "Controlo judicial",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::54.º",
+      "epigrafe": "Fiscalização do Tribunal de Contas",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::55.º",
+      "epigrafe": "Página electrónica",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 4 (DL 39/2015, art. 6.º): a exceção à revogação do art. 5.º é parcial ('na parte em que mantém em vigor o n.º 3 do artigo 28.º do DL 283/89'); não é uma alteração textual segura, pelo que o art. 5.º fica com o texto atual. Alterador 3 (DL 11/2014, art. 32.º, n.º 2): redenominação do ICP - ANACOM em 'Autoridade Nacional de Comunicações' não é instrução textual dirigida ao original; não aplicada ao art. 3.º.",
+  "instrucoes": [
+    "Alterador 1 (DL 215-A/2004): orgânica do XVI Governo; nenhuma instrução textual ao original (só transfere o ICP-ANACOM para o MOPTC); ignorado.",
+    "Alterador 2 (DL 58/2005): orgânica do MOPTC; nenhuma instrução textual ao original; ignorado.",
+    "Alterador 3 (DL 11/2014): art. 32.º n.º 2 redenomina o ICP - ANACOM; não é alteração textual do diploma; não aplicada (ver nao_aplicavel).",
+    "Alterador 4 (DL 39/2015, art. 6.º): revoga o DL 309/2001 exceto os artigos 3.º e 5.º; marcados '(Revogado.)' os artigos 1.º, 2.º, 4.º e 6.º do diploma e os artigos 1.º a 55.º do Anexo (Estatutos); artigos 3.º e 5.º mantidos com o texto atual.",
+    "Alterador 4 (DL 39/2015, art. 5.º n.º 3): aplicação transitória dos estatutos ao conselho fiscal; não altera o texto."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "chars": 172334,
+      "artigos": 59
+    }
+  ],
+  "problemas": []
+}

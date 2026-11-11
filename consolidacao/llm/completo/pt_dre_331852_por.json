@@ -1,0 +1,376 @@
+{
+  "id": "pt:dre:331852:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Âmbito de aplicação",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Estrutura da carreira",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Níveis e categorias",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Remuneração base",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Áreas de actuação",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Conteúdo funcional das categorias de enfermeiro, enfermeiro graduado e enfermeiro especialista",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Conteúdo funcional das categorias de enfermeiro-chefe e de enfermeiro-supervisor e do cargo de enfermeiro-director",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Conteúdo funcional do cargo de assessor de enfermagem",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Condições de ingresso",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Condições de acesso",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Escalão de promoção",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Preenchimento do cargo de enfermeiro-director",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Cessação da comissão de serviço do cargo de enfermeiro-director",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Preenchimento do cargo de assessor de enfermagem",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Progressão",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Princípios gerais",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Tipos de concurso e objectivos",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Obrigatoriedade de abertura de concursos de acesso",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Restrições à abertura de concursos",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Competência para abertura de concurso",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Prazo de validade",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Constituição e composição do júri",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Competência do júri",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Funcionamento do júri",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Requisitos gerais e especiais de admissão a concurso",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Formas de publicitação",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Conteúdo do aviso de abertura",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Apresentação das candidaturas",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Prazo para apresentação de candidaturas",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Documentação a apresentar pelos candidatos",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "Elaboração e publicitação da lista de candidatos",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "Métodos de selecção",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Objectivos dos métodos de selecção",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Aplicação dos métodos de selecção",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Classificação final dos candidatos",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "Publicação da lista de classificação final",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "Recurso",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "Prazos",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "Ordem de nomeação",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "Regulamentação dos concursos",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "Casos em que é considerada a menção qualitativa da avaliação de desempenho",
+      "texto": "1 - A menção qualitativa da avaliação do desempenho é obrigatoriamente considerada na progressão e promoção na carreira.\n\n2 - A menção qualitativa atribuída nos termos do número anterior é relevante, para todos os efeitos legais, até à atribuição de nova menção.",
+      "alterador": 2
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "Avaliadores para atribuição da menção qualitativa",
+      "texto": "1 - A avaliação do desempenho dos enfermeiros só pode ser feita por enfermeiros.\n\n2 - Os enfermeiros avaliadores devem possuir categoria superior à do avaliado, podendo, excepcionalmente, ser designado enfermeiro avaliador de categoria igual à do avaliado.\n\n3 - A avaliação do desempenho dos enfermeiros de categorias da área da prestação de cuidados é efectuada pelo enfermeiro-chefe como primeiro avaliador, sendo o segundo avaliador destas categorias profissionais o enfermeiro-supervisor de quem depende funcionalmente o enfermeiro-chefe.\n\n4 - A avaliação do desempenho do enfermeiro-chefe é efectuada pelo enfermeiro-supervisor de quem este depende funcionalmente, sendo o segundo avaliador outro enfermeiro-supervisor da instituição designado pelo órgão de gestão ou o enfermeiro director.\n\n5 - A avaliação do desempenho do enfermeiro-supervisor é efectuada pelo enfermeiro-director.\n\n6 - A avaliação do desempenho do assessor técnico de enfermagem é efectuada pelo assessor técnico de enfermagem que exercer funções de enfermeiro-director.\n\n7 - O enfermeiro-director e o assessor de enfermagem não estão sujeitos à avaliação do desempenho nos termos previstos neste diploma.\n\n8 - Quando não existirem dois enfermeiros avaliadores nas condições previstas nos números anteriores, a avaliação será efectuada apenas por um dos enfermeiros, desde que sejam respeitados os demais condicionalismos previstos neste artigo.\n\n9 - Pelo menos um dos avaliadores tem de possuir, no mínimo, um ano de contacto funcional com o enfermeiro avaliado.\n\n10 - Os enfermeiros avaliadores podem, no caso de não terem tido contacto funcional com o enfermeiro avaliado durante todo o triénio, solicitar ao avaliado que comprove as actividades que refere no relatório crítico.",
+      "alterador": 2
+    },
+    {
+      "chave": "56.º",
+      "epigrafe": "Regras de organização, prestação e compensação de trabalho",
+      "texto": "1 - A semana de trabalho, entendida de segunda-feira a domingo, é, em regra, de trinta e cinco horas e de cinco dias, podendo sofrer alterações por necessidades do serviço ou do enfermeiro, salvaguardados os interesses do serviço.\n\n2 - Os enfermeiros têm direito a um dia de descanso semanal, acrescido de um dia de descanso complementar, devendo, em cada período de quatro semanas, pelo menos um dos dias de descanso coincidir com o sábado ou o domingo.\n\n3 - A aferição da duração do trabalho normal deve reportar-se a um conjunto de quatro semanas.\n\n4 - São considerados, para efeitos de obrigatoriedade, na organização dos horários de trabalho todos os feriados nacionais e municipais que recaiam em dias úteis.\n\n5 - Os enfermeiros-directores ficam isentos de horário de trabalho, sem prejuízo do cumprimento do número de horas de trabalho semanal a que estão sujeitos, não lhes sendo devida qualquer remuneração pela prestação de trabalho extraordinário.\n\n6 - Os enfermeiros podem trabalhar por turnos e ou jornada contínua, tendo direito a um intervalo de trinta minutos para refeição dentro do próprio estabelecimento ou serviço, que será considerado como trabalho efectivamente prestado.\n\n7 - Os enfermeiros em regime de jornada contínua têm direito, para além do intervalo a que se refere o número anterior, a dois períodos de descanso, nunca superiores a quinze minutos.\n\n8 - Os períodos de descanso referidos no número anterior não podem coincidir com o início ou o fim da jornada de trabalho.\n\n9 - Os enfermeiros com idade superior a 50 anos poderão, se o requererem, ser dispensados do trabalho nocturno e por turnos, desde que daí não advenham graves prejuízos para o serviço.\n\n10 - As enfermeiras que, comprovadamente, amamentem os filhos têm direito, durante um período de 12 meses a partir da data do parto, a requerer a isenção de horário por turnos e de trabalho nocturno, assim como durante os três últimos meses de gravidez, desde que daí não advenham graves prejuízos para o serviço.\n\n11 - São aplicáveis a todos os enfermeiros, independentemente dos estabelecimentos ou serviços em que prestem funções, as disposições contidas no [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), de 30 de Março, que não colidam com o presente decreto-lei.\n\n12 - As disposições constantes dos números anteriores que não sejam susceptíveis de aplicação imediata serão objecto de regulamentação pelos órgãos competentes.",
+      "alterador": 2
+    },
+    {
+      "chave": "58.º",
+      "epigrafe": "Incentivos para fixação na periferia",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "59.º",
+      "epigrafe": "Incentivo para o exercício de funções na área de cuidados de saúde primários",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "60.º",
+      "epigrafe": "Bonificação por estudos ou trabalhos de investigação",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "61.º",
+      "epigrafe": "Bonificação por aquisição de graus académicos",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "62.º",
+      "epigrafe": "Aposentação",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "63.º",
+      "epigrafe": "Formação contínua",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "64.º",
+      "epigrafe": "Formação em serviço",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "65.º",
+      "epigrafe": "Transições",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "66.º",
+      "epigrafe": "Disposições transitórias",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "67.º",
+      "epigrafe": "Disposições finais",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "68.º",
+      "epigrafe": "Revogações",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    }
+  ],
+  "removidos": [
+    "16.º"
+  ],
+  "nao_aplicavel": "Alterador 1 (DL 135/96, art. 7.º n.º 3): derrogação parcial do n.º 1 do art. 13.º só quanto aos enfermeiros-directores dos hospitais abrangidos — não é alteração textual (e o n.º 1 do 13.º foi depois reescrito pelo alterador 2 e revogado pelo 5). Alterador 2 (DL 412/98, tabela anexa) e alterador 3 (DL 411/99, art. 2.º e anexos I/II): substituição das escalas indiciárias da tabela I e mapas de faseamento — só vêm em imagem, não aplicado. Alterador 4 (Acórdão n.º 682/2005): declaração de inconstitucionalidade da parte final da alínea b) do art. 12.º 'na medida em que' permite inversão remuneratória, com efeitos limitados — não é alteração textual, não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (DL 135/96): art. 7.º n.º 3 derroga parcialmente o n.º 1 do art. 13.º quanto a hospitais — não textual, registado em nao_aplicavel.",
+    "Alterador 2 (DL 412/98, art. 1.º): nova redação dos arts. 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 13.º, 14.º, 15.º, 24.º, 26.º, 29.º, 34.º, 35.º, 37.º, 40.º, 44.º, 48.º, 56.º e 63.º. Os 4.º, 5.º e 6.º já estavam no texto atual com essa redação (não devolvidos como tal). Dos restantes, só 44.º, 48.º e 56.º sobrevivem à revogação do alterador 5 e vão com o texto novo (48.º: n.ºs 6 e 7 novos, antigo n.º 6 cai, antigos 9-11 passam a 8-10; 56.º: n.ºs 7, 8 e 12 novos, antigos 7-9 passam a 9-11). Os outros (7.º-15.º, 24.º, 26.º, 29.º, 34.º, 35.º, 37.º, 40.º, 63.º) são devolvidos como '(Revogado.)' pelo alterador 5, com a epígrafe que o alterador 2 lhes deu (9.º, 11.º, 14.º, 15.º).",
+    "Alterador 2 (DL 412/98, art. 10.º n.º 1): art. 16.º eliminado — em removidos.",
+    "Alterador 2 (DL 412/98, tabela anexa): nova tabela I — só imagem, em nao_aplicavel.",
+    "Alterador 3 (DL 411/99, art. 1.º): nova redação do art. 19.º (n.ºs 4 e 5 novos, antigos 5 e 6 passam a 6 e 7) — absorvida pela revogação do alterador 5, art. 19.º devolvido como '(Revogado.)'. Art. 2.º (tabela I e mapas) — só imagem, em nao_aplicavel.",
+    "Alterador 4 (Acórdão n.º 682/2005): inconstitucionalidade parcial da alínea b) do art. 12.º — não textual, em nao_aplicavel; o 12.º é depois revogado pelo alterador 5.",
+    "Alterador 5 (DL 248/2009, art. 28.º): revoga o DL 437/91 com exceção dos arts. 43.º a 57.º — arts. 1.º a 42.º (menos o 16.º, já eliminado) e 58.º a 68.º passam a '(Revogado.)'; 43.º a 57.º mantêm-se (a ressalva 'na medida em que' não se aplica ao texto).",
+    "Alterador 6 (DL 122/2010): não contém nenhuma instrução dirigida ao DL 437/91; o artigo 6.º apenas declara subsistentes as categorias de enfermeiro-chefe e enfermeiro-supervisor e mantém o conteúdo funcional (sem alterar texto); os artigos 8.º e 9.º alteram os DL 247/2009 e 248/2009 (outros diplomas) - ignorados. Nada a alterar.",
+    "Alterador 7 (DL 71/2019, artigo 28.º): revoga o DL 437/91 com exceção dos artigos 43.º a 57.º, que se mantêm em vigor (com as necessárias adaptações, na medida em que não contrariem o novo regime - condição não textual). Todos os artigos fora de 43.º a 57.º (1.º a 42.º e 58.º a 68.º) já constam do texto atual como '(Revogado.)' e os artigos 43.º a 57.º mantêm-se sem alteração; nenhum artigo precisa de mudar."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "chars": 222519,
+      "artigos": 55
+    },
+    {
+      "n": 2,
+      "alteradores": [
+        6,
+        7
+      ],
+      "chars": 34253,
+      "artigos": 0
+    }
+  ],
+  "problemas": []
+}

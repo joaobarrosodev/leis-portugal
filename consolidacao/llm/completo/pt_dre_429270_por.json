@@ -1,0 +1,2108 @@
+{
+  "id": "pt:dre:429270:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "(Regime jurídico)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "(Objectivos)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "(Competência)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "(Estrutura geral do INPP)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "(Competência)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "(Competência)",
+      "texto": "(Revogado.)",
+      "alterador": 18
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "(Organização)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "(Competência)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "(Funcionamento)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "(Reserva e fundos)",
+      "texto": "1 - Para efeitos de movimentação das receitas e despesas existirá:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) A nível central, um Fundo de Aposentações, destinado a suportar os encargos de aposentação do pessoal que, nos termos legais, sejam da responsabilidade do INPP.\n\n2 - Constituem fundo para fins sociais as seguintes receitas:\n\na) 2% das receitas apuradas em cada exercício;\n\nb) As receitas provenientes de comparticipações, dotações ou subsídios de que o INPP seja beneficiário e destinado a esse fim.\n\n3 - Constituem fontes de financiamento do Fundo de Aposentações as seguintes receitas:\n\na) Uma percentagem das receitas a fixar anualmente pela tutela, por meio de portaria, mediante proposta do conselho de gestão;\n\nb) As receitas provenientes das comparticipações, dotações ou subsídios de que o INPP seja beneficiário e destinados a esse fim.\n\n4 - O Fundo de Aposentações poderá ser substituído por participação em fundo de pensões já constituído, após parecer fundamentado do conselho de gestão e aprovação da tutela.",
+      "alterador": 20
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "(Património)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "(Contabilidade)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "(Balancetes mensais)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "51.º-A",
+      "epigrafe": "Limite de idade",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "54.º",
+      "epigrafe": "(Pessoal requisitado a outros serviços)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "57.º",
+      "epigrafe": "Quadros de pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "58.º",
+      "epigrafe": "(Quadro de pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 13
+    },
+    {
+      "chave": "59.º",
+      "epigrafe": "(Quadro de pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 13
+    },
+    {
+      "chave": "60.º",
+      "epigrafe": "(Quadro de pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 13
+    },
+    {
+      "chave": "61.º",
+      "epigrafe": "(Quadro de pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 13
+    },
+    {
+      "chave": "62.º",
+      "epigrafe": "(Quadro de pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 13
+    },
+    {
+      "chave": "63.º",
+      "epigrafe": "(Quadro de pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 13
+    },
+    {
+      "chave": "64.º",
+      "epigrafe": "(Quadro de pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 13
+    },
+    {
+      "chave": "65.º",
+      "epigrafe": "(Quadro de pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 13
+    },
+    {
+      "chave": "66.º",
+      "epigrafe": "(Quadro de pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 13
+    },
+    {
+      "chave": "67.º",
+      "epigrafe": "(Quadro de pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 13
+    },
+    {
+      "chave": "67.º-A",
+      "epigrafe": "(Quadro de pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "71.º",
+      "epigrafe": "(Isenção de impostos)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "72.º",
+      "epigrafe": "(Tempo de serviço para efeitos de aposentação)",
+      "texto": "(Revogado.)",
+      "alterador": 21
+    },
+    {
+      "chave": "73.º",
+      "epigrafe": "(Aposentação)",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "78.º",
+      "epigrafe": "(Casos omissos e alterações ao diploma)",
+      "texto": "(Revogado.)",
+      "alterador": 13
+    },
+    {
+      "chave": "79.º",
+      "epigrafe": "(Resolução de dúvidas)",
+      "texto": "(Revogado.)",
+      "alterador": 13
+    },
+    {
+      "chave": "80.º",
+      "epigrafe": "(Revisão deste diploma)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "82.º",
+      "epigrafe": "(Transferências)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "(Conceito)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "(Constituição)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Competência do presidente",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "(Funcionamento)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "(Conceito)",
+      "texto": "(Revogado.)",
+      "alterador": 18
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "(Constituição)",
+      "texto": "(Revogado.)",
+      "alterador": 18
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "(Funcionamento)",
+      "texto": "(Revogado.)",
+      "alterador": 18
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "(Participação)",
+      "texto": "(Revogado.)",
+      "alterador": 18
+    },
+    {
+      "chave": "1.º",
+      "epigrafe": "(Conceito)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "(Atribuições)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "(Natureza, âmbito e regime de serviço)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "(Uso público dos serviços)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "(Relações com outros serviços ou entidades)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "(Conceito)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "(Constituição)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "(Atribuições da secção de expediente e pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "(Atribuições da secção de contabilidade, tesouraria e aprovisionamento)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "(Constituição)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "(Classificação)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "(Conceito)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "(Constituição)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "(Responsabilidade)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "(Receitas)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "(Cobrança e arrecadação das receitas locais)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "(Exame e aprovação dos balancetes)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "(Despesas)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "(Dívida ao INPP)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "(Previsões da gestão financeira)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "(Aprovação dos planos de actividade e do orçamento)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "(Transferências de verbas)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "(Alienação de bens)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "(Empréstimos)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "(Livros e impressos)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "(Elaboração de um «Desenvolvimento»)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "(Saldos da conta «Resultados»)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "(Aprovação do relatório e contas anuais da gerência)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "50.º",
+      "epigrafe": "(Arquivo)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "51.º",
+      "epigrafe": "(Regime jurídico)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "52.º",
+      "epigrafe": "(Pessoal do quadro)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "53.º",
+      "epigrafe": "(Remunerações)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "55.º",
+      "epigrafe": "(Pessoal contratado e assalariado além do quadro)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "56.º",
+      "epigrafe": "(Prestação de serviços)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "68.º",
+      "epigrafe": "(Regime de serviço prestado no conselho de gestão)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "69.º",
+      "epigrafe": "(Selo branco)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "70.º",
+      "epigrafe": "(contratos de arrendamento)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "74.º",
+      "epigrafe": "(Extinção das corporações/secções)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "75.º",
+      "epigrafe": "(Normas subsidiárias)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "76.º",
+      "epigrafe": "(Regime especial)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "77.º",
+      "epigrafe": "(Credencial)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "81.º",
+      "epigrafe": "(Quadros de pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "83.º",
+      "epigrafe": "(Preenchimento dos novos quadros)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "84.º",
+      "epigrafe": "(Transferência do património)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "85.º",
+      "epigrafe": "(Ressalva de direitos)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "86.º",
+      "epigrafe": "(Vencimentos)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "87.º",
+      "epigrafe": "(Lista nominativa)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "88.º",
+      "epigrafe": "(Integração da pilotagem da Madeira e dos Açores)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "89.º",
+      "epigrafe": "(Encargos decorrentes da execução deste diploma)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "90.º",
+      "epigrafe": "(Legislação revogada)",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::13.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::16.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::17.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::18.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::19.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::20.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::21.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::22.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::23.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::24.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::25.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::26.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::27.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::28.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::29.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::30.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::31.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::32.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::33.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::34.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::35.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::36.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::37.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::38.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::39.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::40.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::41.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::42.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::43.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::44.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::45.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::46.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::47.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::48.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::49.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::50.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::51.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::52.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::53.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::54.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::55.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::56.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::57.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::60.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::61.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::62.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::63.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::64.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::65.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::66.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::67.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::68.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::69.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::70.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::71.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::72.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::73.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::13.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::16.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::17.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::18.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::19.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::20.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::21.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::22.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::23.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::24.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::25.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::26.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::27.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::28.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::29.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::30.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::31.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::32.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::33.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::34.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::35.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::36.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::37.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::38.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::39.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::40.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::41.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::42.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::43.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::44.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::45.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::46.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::47.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::48.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::49.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::50.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::51.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::52.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::53.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::54.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::55.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::56.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::57.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::58.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::59.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::60.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::61.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::62.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::63.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::64.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::65.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::66.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::67.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::68.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::69.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::70.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::71.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::72.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::73.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::13.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::16.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::17.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::18.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::19.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::20.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::21.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::22.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::23.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::24.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::25.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::26.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::27.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::28.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::29.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::30.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::31.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::32.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::33.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::34.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::35.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::36.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::37.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::38.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::39.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::40.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::41.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::42.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::43.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::44.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::45.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::46.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::47.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::48.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::49.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::50.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::51.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::52.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::53.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::54.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::55.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::56.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::57.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::58.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::59.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::60.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::61.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::62.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::63.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::64.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::65.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::66.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::67.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::68.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::69.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::70.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::71.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::72.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::73.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::74.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::75.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::76.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::77.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::78.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::79.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::80.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::81.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::82.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::83.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::84.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::85.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::86.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::87.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::88.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::89.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::90.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::91.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::92.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::93.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::94.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::95.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::96.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::97.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::98.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::99.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::100.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::101.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::102.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 20
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 49/79): fixa os coeficientes (32, 45, 83) a aplicar às verbas das tabelas A, B e C a que se referem os artigos 24.º e 30.º do Regulamento de Prestação de Serviços e Taxas, ao abrigo do n.º 3 do artigo 32.º do Decreto-Lei n.º 361/78. Não contém nenhuma instrução textual dirigida ao original (nenhuma substituição, aditamento, revogação, retificação ou renumeração de artigos, números, alíneas ou epígrafes); é um ato regulamentar complementar, não uma alteração ao texto. As tabelas A, B e C a que os coeficientes se aplicam não constam do texto atual do pedido. Nenhum artigo foi alterado. | Alterador 18, artigo 2.º: nova epígrafe da secção I da divisão II do capítulo II («Conselho directivo») é um título de secção, não um artigo, e o texto atual não traz títulos de secção, pelo que não há unidade a que a aplicar. Alterador 19 (DL 234-A/98), artigo único: suspensão da aplicabilidade do artigo 5.º aos portos do continente não é alteração textual; o artigo 5.º fica com o texto atual. Alteradores 16 (DL 296-A/95, Lei Orgânica do Governo) e 17 (Portaria 240/96, atualização de remunerações) não contêm instruções dirigidas ao texto do original. | Alterador 20, artigo 12.º, n.º 1, alínea a): a excepção à revogação refere 'artigos 58.º, 59.º e 72.º, com a redacção que lhes foi dada pelos artigos 1.º e 5.º do Decreto-Lei n.º 188/89'. O pedido não diz se 58.º e 59.º são os do corpo do diploma (quadros de pessoal, já '(Revogado.)' no texto atual) ou os do Anexo I — Estatuto do pessoal (aposentação, matéria do DL 188/89). Interpretei-os como os do Anexo I e deixei esses dois em vigor (não os revoguei); os 58.º e 59.º do corpo já estavam revogados e não mudam. Se a excepção fosse só aos do corpo, os Anexo I::58.º e 59.º teriam também de passar a '(Revogado.)'. As restantes disposições do alterador 20 (extinção do INPP, sucessão de direitos, património, pessoal) e o artigo 6.º, n.º 2, do alterador 21 (salvaguarda dos acréscimos até 31-12-2005) não são alterações textuais ao diploma.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 49/79), n.os 1 a 6: fixação dos coeficientes a aplicar às tabelas A, B e C dos artigos 24.º e 30.º do Regulamento de Prestação de Serviços e Taxas (anexo), regras de classificação das embarcações para efeito dos coeficientes e entrada em vigor — não é uma alteração textual ao Decreto-Lei n.º 361/78; nada aplicado ao texto.",
+    "Alterador 16 (DL 296-A/95): Lei Orgânica do Governo; apenas transfere o INPP para a dependência do Ministro do Equipamento Social (art. 19.º, n.º 3, m); sem alteração textual ao original: nada feito.",
+    "Alterador 17 (Portaria 240/96): atualiza tabelas de remunerações dos pilotos ao abrigo do art. 53.º e do art. 40.º do anexo I; sem alteração textual ao original: nada feito.",
+    "Alterador 18 (DL 143/97), art. 1.º: nova redação dos artigos 9.º, 10.º, 11.º, 12.º, 13.º e 14.º; aplicada, mantendo as epígrafes atuais onde o alterador traz [...] e o texto atual onde traz ...; o 13.º recebe a epígrafe nova «Competência do presidente».",
+    "Alterador 18 (DL 143/97), art. 2.º: nova epígrafe da secção I da divisão II do capítulo II; não aplicável (título de secção, não artigo).",
+    "Alterador 18 (DL 143/97), art. 3.º: revoga os artigos 15.º a 19.º; aplicada, um elemento «(Revogado.)» por artigo.",
+    "Alterador 19 (DL 234-A/98): suspende a aplicabilidade do art. 5.º aos portos do continente; não é alteração textual: nada feito.",
+    "Alterador 20 (DL 331/98), art. 12.º n.º 1 a): revoga o DL 361/78 com excepção do art. 35.º n.º 1 alínea d) e n.os 2, 3 e 4, e dos artigos 58.º, 59.º e 72.º. Apliquei: todos os artigos do corpo e dos Anexos I, III e IV que ainda tinham texto passam a '(Revogado.)' (um elemento por artigo); os já '(Revogado.)' no texto atual (15.º a 19.º, 58.º a 67.º, 73.º, 78.º, 79.º) não mudam; Anexo I 58.º e 59.º mantidos (ver nao_aplicavel).",
+    "Alterador 20, mesma alínea, excepção parcial ao art. 35.º: n.º 1 alíneas a), b) e c) passam a '(Revogada.)'; proémio do n.º 1, alínea d) e n.os 2, 3 e 4 mantidos letra a letra.",
+    "Alterador 20, excepção ao art. 72.º: ficou em vigor após o alterador 20, mas o alterador 21 (DL 229/2005), art. 2.º alínea c), revoga expressamente o artigo 72.º do DL 361/78 — art. 72.º passa a '(Revogado.)' com alterador 21.",
+    "Alterador 21, art. 2.º: as restantes alíneas revogam normas de outros diplomas — ignoradas."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1
+      ],
+      "chars": 203985,
+      "artigos": 0
+    },
+    {
+      "n": 2,
+      "alteradores": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "chars": 274090,
+      "artigos": 34
+    },
+    {
+      "n": 3,
+      "alteradores": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "chars": 240144,
+      "artigos": 11
+    },
+    {
+      "n": 4,
+      "alteradores": [
+        20,
+        21
+      ],
+      "chars": 255277,
+      "artigos": 321
+    }
+  ],
+  "problemas": []
+}

@@ -17,9 +17,20 @@ das regras, sem recusar os artigos que as regras já tinham alterado (o LLM viu 
 Escreve `llm/juntados-completo.jsonl`, que `cegas.py --escala` e `acervo.py` leem por cima de
 `llm/juntados-escala.jsonl`.
 
+**Passagens (`passagem`):** para os diplomas cujo pedido inteiro não cabe num contexto (os 93 de
+`llm/pedido-completo-grandes.tsv`), os alteradores partem-se em grupos por ordem de aplicação e
+cada grupo vai num pedido à parte, sobre o texto que as passagens anteriores deixaram. Por diploma,
+`passagem` lê as respostas já dadas em `PASTA/<id>/resposta-K*.json`, aplica-as ao consolidado
+das regras, e escreve `pedido-(K+1).md` com o próximo grupo (os alteradores numerados de seguida,
+tantos quantos cabem em `--max-chars` com o texto atual). Quando não resta nenhum alterador,
+funde as passagens numa resposta só (o texto de cada artigo é o da última passagem que o deu) e
+grava-a em `llm/completo/<id>.json`, verificada letra a letra, como `importar`; `juntar` faz o
+resto sem saber que houve passagens. Um pedido que cabe inteiro dá uma passagem só.
+
 Uso:
     python consolidacao/llm_completo.py amostra N [--semente 1] [--max-chars 150000]
     python consolidacao/llm_completo.py pedidos IDS_FICHEIRO [--por-ficheiro 3]
+    python consolidacao/llm_completo.py passagem IDS_FICHEIRO PASTA [--max-chars 230000]
     python consolidacao/llm_completo.py importar FICHEIRO...
     python consolidacao/llm_completo.py juntar
 """
@@ -95,16 +106,18 @@ _NUMERACAO = re.compile(r"^(?:\d+[-–.\s]*|[a-z]\))\s*")
 _NOTA = re.compile(r"^> (?:Alterado|Aditado|Revogado|Retificado) pelo/a .*$", re.M)
 
 
-def verificar_resposta(resultado: dict, selecao: dict) -> list[str]:
+def verificar_resposta(resultado: dict, selecao: dict, textos_atuais: list[str] = ()) -> list[str]:
     """Como `llm.verificar_resposta`: cada parágrafo vem, letra a letra, de um alterador ou do
     texto original. Uma renumeração (o corpo antigo passa a "1 - …") conta: tira-se a numeração
-    do parágrafo antes de o procurar."""
+    do parágrafo antes de o procurar. `textos_atuais` são outros textos de onde um parágrafo pode
+    vir (numa passagem, o texto atual que as passagens anteriores deixaram)."""
     alteradores = [_plano(publicado(RAIZ / a["path"])) for a in _alteradores_da_selecao(selecao) if a.get("path")]
     original = _plano(publicado(RAIZ / selecao["path"]))
+    atuais = [_plano(t) for t in textos_atuais]
     problemas = []
 
     def vem_de_algum(p: str) -> bool:
-        return any(p in a for a in alteradores) or p in original
+        return any(p in a for a in alteradores) or p in original or any(p in t for t in atuais)
 
     for artigo in resultado.get("artigos", []):
         for p in (x.strip() for x in artigo["texto"].split("\n\n") if x.strip()):
@@ -124,22 +137,72 @@ def _alteradores(registo: dict) -> list[dict]:
     return sorted((a for a in registo["alteradores"] if a.get("path") and a.get("text_quality") == "texto"), key=lambda a: a.get("ordem") or "")
 
 
-def pedido(registo: dict, extra: dict) -> tuple[str, int]:
-    """O texto do pedido e o seu tamanho em caracteres."""
+def pedido(registo: dict, extra: dict, alteradores: list[dict] | None = None, inicio: int = 1, aviso: str = "",
+           tocados_llm: frozenset[str] = frozenset()) -> tuple[str, int]:
+    """O texto do pedido e o seu tamanho em caracteres. Numa passagem, `alteradores` é só o grupo
+    desta passagem, numerado a partir de `inicio` (a numeração é a de todos os alteradores do
+    diploma, para o "alterador" da resposta apontar sempre para o mesmo), `aviso` diz ao LLM em
+    que passagem está e `tocados_llm` são os artigos que as passagens anteriores mudaram."""
     consolidado, tocados = extra["consolidado"], extra["tocados"]
-    alteradores = _alteradores(registo)
+    if alteradores is None:
+        alteradores = _alteradores(registo)
     partes = [f"# Diploma original: {registo['title']}", ""]
+    if aviso:
+        partes += [aviso, ""]
     partes.append("## Texto atual do original, por artigos")
     for a in consolidado.artigos:
-        sinal = " [já alterado por um programa]" if a.chave in tocados else ""
+        sinal = (" [já alterado por um programa]" if a.chave in tocados
+                 else " [já alterado numa passagem anterior]" if a.chave in tocados_llm else "")
         partes += [f"### {a.chave}{sinal}", a.epigrafe, _NOTA.sub("", a.texto).strip(), ""]
     partes.append("## Diplomas que alteram o original, por ordem de aplicação")
-    for n, a in enumerate(alteradores, 1):
+    for n, a in enumerate(alteradores, inicio):
         texto, completo = _texto_alterador(a["path"], registo["title"])
-        aviso = "" if completo else " (só os artigos que mencionam o original)"
-        partes += [f"### Alterador {n}: {a.get('title') or a['id']}{aviso}", texto.strip(), ""]
+        aviso_a = "" if completo else " (só os artigos que mencionam o original)"
+        partes += [f"### Alterador {n}: {a.get('title') or a['id']}{aviso_a}", texto.strip(), ""]
     texto = "\n".join(partes)
     return texto, len(texto)
+
+
+def _texto_atual(consolidado) -> str:
+    """O texto atual, artigo a artigo, para a verificação letra a letra de uma passagem."""
+    return "\n\n".join(_NOTA.sub("", a.texto).strip() for a in consolidado.artigos)
+
+
+def _fundir(respostas: list[dict]) -> dict:
+    """Várias respostas do mesmo diploma (passagens, ou uma resposta escrita em partes) numa só:
+    o texto de um artigo é o da última resposta que o deu; os removidos somam-se (um artigo
+    removido e depois dado outra vez deixa de estar removido); `nao_aplicavel` e `instrucoes`
+    juntam-se."""
+    saida: dict = {"id": None, "artigos": [], "removidos": [], "nao_aplicavel": None, "instrucoes": []}
+    por_chave: dict[str, dict] = {}
+    for r in respostas:
+        saida["id"] = saida["id"] or r.get("id")
+        for a in r.get("artigos") or []:
+            por_chave[a["chave"]] = a
+            if a["chave"] in saida["removidos"]:
+                saida["removidos"].remove(a["chave"])
+        for c in r.get("removidos") or []:
+            por_chave.pop(c, None)
+            if c not in saida["removidos"]:
+                saida["removidos"].append(c)
+        if r.get("nao_aplicavel"):
+            saida["nao_aplicavel"] = (saida["nao_aplicavel"] + " | " if saida["nao_aplicavel"] else "") + str(r["nao_aplicavel"])
+        saida["instrucoes"] += list(r.get("instrucoes") or [])
+    saida["artigos"] = list(por_chave.values())
+    return saida
+
+
+def _ler_respostas(ficheiros: list[Path]) -> dict | None:
+    """As respostas de uma passagem (lista ou objeto por ficheiro, em um ou vários ficheiros),
+    fundidas; None se algum não for JSON válido."""
+    objetos = []
+    for f in ficheiros:
+        try:
+            d = json.loads(f.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            return None
+        objetos += d if isinstance(d, list) else [d]
+    return _fundir(objetos) if objetos else None
 
 
 def _falhados() -> list[str]:
@@ -227,23 +290,25 @@ def importar(ficheiros: list[Path]) -> None:
     selecao = {r["id"]: r for r in map(json.loads, (PASTA / "selecao-escala.jsonl").read_text(encoding="utf-8").splitlines())}
     COMPLETO.mkdir(parents=True, exist_ok=True)
     contagem: dict[str, int] = {}
+    por_id: dict[str, list[dict]] = {}
     for f in ficheiros:
-        for resposta in json.loads(f.read_text(encoding="utf-8")):
-            i = resposta["id"]
-            resposta |= {"modelo": resposta.get("modelo") or "claude-opus-5-5", "pedido": "completo"}
-            resposta["problemas"] = verificar_resposta(resposta, selecao[i])
-            tipo = "com problemas" if resposta["problemas"] else "sem alterações" if not resposta.get("artigos") else "sem problemas"
-            contagem[tipo] = contagem.get(tipo, 0) + 1
-            (COMPLETO / (i.replace(":", "_") + ".json")).write_text(json.dumps(resposta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        lido = json.loads(f.read_text(encoding="utf-8"))
+        for resposta in (lido if isinstance(lido, list) else [lido]):
+            por_id.setdefault(resposta["id"], []).append(resposta)
+    for i, partes in por_id.items():
+        # uma resposta escrita em várias partes (ou repetida) funde-se numa só
+        resposta = partes[0] if len(partes) == 1 else _fundir(partes)
+        resposta |= {"modelo": resposta.get("modelo") or "claude-opus-5-5", "pedido": "completo"}
+        resposta["problemas"] = verificar_resposta(resposta, selecao[i])
+        tipo = "com problemas" if resposta["problemas"] else "sem alterações" if not resposta.get("artigos") else "sem problemas"
+        contagem[tipo] = contagem.get(tipo, 0) + 1
+        (COMPLETO / (i.replace(":", "_") + ".json")).write_text(json.dumps(resposta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(contagem)
 
 
-def _junto(resposta: dict, registo: dict) -> dict:
-    linha = {"id": registo["id"], "title": registo["title"], "path": registo["path"], "estado_regras": "completo"}
-    extra = _estado(registo)
-    consolidado = extra.get("consolidado")
-    if consolidado is None or not consolidado.artigos:
-        return linha | {"estado": "não junto", "motivo": "original sem artigos: a resposta não tem onde encaixar"}
+def _aplicar(resposta: dict, registo: dict, consolidado) -> tuple[list[Registo], dict[str, dict], str | None]:
+    """Os artigos e os removidos da resposta no consolidado (que fica alterado). Devolve os
+    registos, os alteradores citados e o motivo quando não se aplica."""
     alteradores = _alteradores(registo)
     por_numero = dict(enumerate(alteradores, 1))
     registos_llm: list[Registo] = []
@@ -264,18 +329,31 @@ def _junto(resposta: dict, registo: dict) -> dict:
         mudancas = [novo for novo in artigos if _muda(consolidado, novo)]
         feitos, erro = _aplicar_resposta({"artigos": mudancas}, consolidado, tocados, " e ".join(ligacoes), data, registo)
         if erro:
-            return linha | {"estado": "não junto", "motivo": erro}
+            return registos_llm, citados, erro
         registos_llm += feitos
     for chave in resposta.get("removidos") or []:
         parte, _, numero = chave.rpartition("::")
         artigo = consolidado.artigo(parte, numero)
         if artigo is None:
-            return linha | {"estado": "não junto", "motivo": f"artigo a remover {chave} não existe"}
+            return registos_llm, citados, f"artigo a remover {chave} não existe"
         consolidado.segmentos.remove(artigo)
         registos_llm.append(Registo(artigo.chave, "revogar", "llm", "\n".join(artigo.linhas).strip(), "", "", "", metodo="llm"))
     _recolocar_assinaturas(consolidado)
     if resposta.get("removidos") and not citados:
         citados.update({a["id"]: a for a in alteradores})
+    return registos_llm, citados, None
+
+
+def _junto(resposta: dict, registo: dict) -> dict:
+    linha = {"id": registo["id"], "title": registo["title"], "path": registo["path"], "estado_regras": "completo"}
+    extra = _estado(registo)
+    consolidado = extra.get("consolidado")
+    if consolidado is None or not consolidado.artigos:
+        return linha | {"estado": "não junto", "motivo": "original sem artigos: a resposta não tem onde encaixar"}
+    alteradores = _alteradores(registo)
+    registos_llm, citados, erro = _aplicar(resposta, registo, consolidado)
+    if erro:
+        return linha | {"estado": "não junto", "motivo": erro}
     if not registos_llm:
         return linha | {"estado": "não junto", "motivo": "a resposta não muda nenhum artigo em relação ao texto das regras"}
 
@@ -338,6 +416,94 @@ def _muda(consolidado, novo: dict) -> bool:
     return paragrafos != corpo or (novo["epigrafe"] or "").strip() != (atual.epigrafe or "").strip()
 
 
+AVISO_PASSAGEM = """**Passagem {k}: alteradores {a} a {b} de {n}.** {antes}Este pedido traz só os alteradores {a} a {b};
+os seguintes ({depois}) vêm numa passagem posterior e não interessam agora. Lê todas as instruções
+DESTES alteradores dirigidas ao original e devolve os artigos que, depois delas, têm de mudar em
+relação ao texto atual. No campo "alterador" usa o número com que o alterador vem aqui ({a} a {b})."""
+
+
+def _grupo(base: int, restantes: list[tuple[int, dict, int]], max_chars: int) -> list[tuple[int, dict, int]]:
+    """Os alteradores que cabem no próximo pedido: tantos quantos somam, com o texto atual,
+    até `max_chars`; pelo menos um."""
+    grupo, total = [], base
+    for n, a, tamanho in restantes:
+        if grupo and total + tamanho > max_chars:
+            break
+        grupo.append((n, a, tamanho))
+        total += tamanho
+    return grupo
+
+
+def passagem(ids: list[str], pasta: Path, max_chars: int) -> None:
+    """Por diploma: aplica as respostas já dadas, escreve o próximo pedido ou, se não resta
+    nenhum alterador, a resposta final em `llm/completo/`. Imprime o estado de cada um."""
+    selecao = {r["id"]: r for r in map(json.loads, (PASTA / "selecao-escala.jsonl").read_text(encoding="utf-8").splitlines())}
+    pasta.mkdir(parents=True, exist_ok=True)
+    (pasta / "REGRAS.md").write_text(SISTEMA + FORMATO, encoding="utf-8")
+    for i in ids:
+        registo = selecao[i]
+        pasta_i = pasta / i.replace(":", "_")
+        pasta_i.mkdir(exist_ok=True)
+        ficheiro_estado = pasta_i / "estado.json"
+        estado = json.loads(ficheiro_estado.read_text(encoding="utf-8")) if ficheiro_estado.exists() else {"id": i, "passagens": []}
+        if estado.get("feito"):
+            print(f"{i} {registo['title']}: feito")
+            continue
+        extra = _estado(registo)
+        consolidado = extra.get("consolidado")
+        if consolidado is None or not consolidado.artigos:
+            print(f"{i} {registo['title']}: original sem artigos, não se pede")
+            continue
+        alteradores = _alteradores(registo)
+        respostas, problemas, tocados_llm, falta = [], [], set(), None
+        for p in estado["passagens"]:
+            ficheiros = sorted(pasta_i.glob(f"resposta-{p['n']}*.json"))
+            resposta = _ler_respostas(ficheiros) if ficheiros else None
+            if resposta is None:
+                falta = p["n"]
+                break
+            problemas += [f"passagem {p['n']}: {x}" for x in verificar_resposta(resposta, registo, [_texto_atual(consolidado)])]
+            feitos, _, erro = _aplicar(resposta, registo, consolidado)
+            if erro:
+                problemas.append(f"passagem {p['n']}: não se aplica ao texto atual: {erro}")
+            tocados_llm |= {r.artigo for r in feitos}
+            respostas.append(resposta)
+            p["artigos"] = len(resposta["artigos"])
+        if falta is not None:
+            print(f"{i} {registo['title']}: à espera da resposta da passagem {falta} ({pasta_i}/resposta-{falta}.json)")
+            continue
+        feitos_n = {n for p in estado["passagens"] for n in p["alteradores"]}
+        restantes = []
+        for n, a in enumerate(alteradores, 1):
+            if n not in feitos_n:
+                texto, _ = _texto_alterador(a["path"], registo["title"])
+                restantes.append((n, a, len(texto) + len(a.get("title") or "") + 20))
+        if not restantes:
+            final = _fundir(respostas) | {"id": i, "modelo": "claude-fable-5-1", "pedido": "completo", "passagens": estado["passagens"], "problemas": problemas}
+            COMPLETO.mkdir(parents=True, exist_ok=True)
+            (COMPLETO / (i.replace(":", "_") + ".json")).write_text(json.dumps(final, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            estado["feito"] = True
+            ficheiro_estado.write_text(json.dumps(estado, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+            tipo = "com problemas" if problemas else "sem alterações" if not final["artigos"] and not final["removidos"] else "sem problemas"
+            print(f"{i} {registo['title']}: feito em {len(estado['passagens'])} passagens, {len(final['artigos'])} artigos, {tipo}")
+            continue
+        base = sum(len(a.chave) + len(a.epigrafe or "") + len(_NOTA.sub("", a.texto)) + 10 for a in consolidado.artigos) + 2000
+        grupo = _grupo(base, restantes, max_chars)
+        k = len(estado["passagens"]) + 1
+        a, b = grupo[0][0], grupo[-1][0]
+        antes = (f"Os alteradores 1 a {a - 1} já foram aplicados ao texto atual (os artigos que mudaram estão assinalados). "
+                 if a > 1 else "")
+        aviso = "" if (k == 1 and b == len(alteradores)) else AVISO_PASSAGEM.format(antes=antes,
+            k=k, a=a, b=b, n=len(alteradores), depois=f"{b + 1} a {len(alteradores)}" if b < len(alteradores) else "nenhum")
+        texto, tamanho = pedido(registo, extra, [x[1] for x in grupo], a, aviso, frozenset(tocados_llm))
+        destino = pasta_i / f"pedido-{k}.md"
+        destino.write_text(f"<<<DIPLOMA id={i}>>>\n{texto}\n<<<FIM DO DIPLOMA id={i}>>>\n", encoding="utf-8")
+        estado["passagens"].append({"n": k, "alteradores": [x[0] for x in grupo], "chars": tamanho})
+        ficheiro_estado.write_text(json.dumps(estado, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        aviso_tamanho = f" (ACIMA do limite {max_chars})" if tamanho > max_chars else ""
+        print(f"{i} {registo['title']}: passagem {k}, alteradores {a} a {b} de {len(alteradores)}, {tamanho} caracteres{aviso_tamanho}, {len(restantes) - len(grupo)} por pedir -> {destino}")
+
+
 def juntar() -> None:
     selecao = {r["id"]: r for r in map(json.loads, (PASTA / "selecao-escala.jsonl").read_text(encoding="utf-8").splitlines())}
     linhas = []
@@ -375,6 +541,10 @@ def main() -> int:
     p.add_argument("--por-ficheiro", type=int, default=3)
     i = sub.add_parser("importar")
     i.add_argument("ficheiros", type=Path, nargs="+")
+    g = sub.add_parser("passagem")
+    g.add_argument("ids", type=Path)
+    g.add_argument("pasta", type=Path)
+    g.add_argument("--max-chars", type=int, default=230_000)
     sub.add_parser("juntar")
     args = parser.parse_args()
     if args.comando == "amostra":
@@ -401,6 +571,8 @@ def main() -> int:
         pedidos(args.ids.read_text(encoding="utf-8").split(), args.por_ficheiro, args.pasta)
     elif args.comando == "importar":
         importar(args.ficheiros)
+    elif args.comando == "passagem":
+        passagem(args.ids.read_text(encoding="utf-8").split(), args.pasta, args.max_chars)
     else:
         juntar()
     return 0

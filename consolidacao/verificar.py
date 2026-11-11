@@ -28,7 +28,7 @@ from texto import RAIZ, Corpo, sem_abreviaturas, dividir, normalizar, numero_art
 sys.path.insert(0, str(RAIZ / "avaliacao"))
 import comum  # noqa: E402  (só leitura: o parser de artigos da avaliação)
 
-_REVOGADO = re.compile(r"^(?:[\w.]+(?:\)| -) )?\(Revogad[oa]\.\)$")
+_REVOGADO = re.compile(r"^(?:[\w.]+(?:\)| -|\.) )?\(Revogad[oa]\.\)$")
 _VERBO_LARGO = re.compile(r"alter|adit|revog|reda[cç]|substitu|elimin|renumer|acrescent|onde se l", re.I)
 _OBJETO = re.compile(r"procede(?:-se)? à .{0,40}altera[cç][ãa]o|altera(?:ção)? (?:o|a|ao|à) |objeto", re.I)
 _MARCA = re.compile(r"\[\s*(?:\.\s*){3}\]|\[…\]|[\[(]\s*anterior\b|(?:^|\s)(?:\.\s*){3,}\s*$", re.I)

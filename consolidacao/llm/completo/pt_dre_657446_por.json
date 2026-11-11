@@ -1,0 +1,36 @@
+{
+  "id": "pt:dre:657446:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 5 (DL 290/2000), artigo 2.º: substitui o mapa anexo a que se refere o n.º 2 do artigo 20.º do DL 47/93, mas tanto o mapa atual como o novo só existem em imagem ('ver mapa no documento original'); alteração não textual, não aplicada. Alterador 6 (DL 122/2011), artigo 33.º, n.º 1, e Alterador 7 (DL 183/2014), artigo 30.º, n.º 1: revogam genericamente 'as normas dos decretos-lei que aprovam a estrutura orgânica dos serviços da administração direta do Estado do MDN', com efeitos diferidos para a entrada em vigor dos decretos regulamentares sucessores, sem identificar artigos do DL 47/93 (os artigos 34.º do DL 122/2011 e 31.º do DL 183/2014 apenas mantêm em vigor os artigos 21.º e 22.º); alvo ambíguo e condicional, não aplicado ao texto.",
+  "instrucoes": [
+    "Alterador 1 (DR 11/95): regulamenta a DGIE ao abrigo do n.º 1 do artigo 23.º do DL 47/93; não contém instruções que alterem o texto do original — nada a fazer.",
+    "Alterador 2 (DR 12/95): regulamenta a DGAED ao abrigo do n.º 1 do artigo 23.º do DL 47/93; não contém instruções que alterem o texto do original — nada a fazer.",
+    "Alterador 3 (DL 23/96): altera apenas o DL 296-A/95 (Lei Orgânica do Governo); nenhuma instrução dirigida ao DL 47/93 — ignorado.",
+    "Alterador 4 (DL 263/97), artigo 2.º: nova redação do artigo 14.º — já aplicada no texto atual (epígrafe e corpo idênticos); nada a devolver.",
+    "Alterador 4 (DL 263/97), artigo 3.º: revoga a alínea c) do n.º 2 do artigo 9.º e o artigo 18.º — o artigo 18.º já está '(Revogado.)' e o artigo 9.º atual (redação do DL 290/2000) já não tem alínea c) no n.º 2; nada a devolver.",
+    "Alterador 5 (DL 290/2000), artigo 1.º: nova redação dos artigos 9.º e 12.º — já aplicada no texto atual (texto idêntico); nada a devolver.",
+    "Alterador 5 (DL 290/2000), artigo 2.º: substituição do mapa anexo — só em imagem; registado em nao_aplicavel.",
+    "Alterador 6 (DL 122/2011): nova orgânica do MDN; artigo 33.º revoga genericamente as normas orgânicas anteriores com efeito diferido (registado em nao_aplicavel); artigo 34.º mantém em vigor os artigos 21.º e 22.º do DL 47/93 (sem alteração de texto); artigo 35.º revoga o DL 154-A/2009 (outro diploma) — nada a devolver.",
+    "Alterador 7 (DL 183/2014): nova orgânica do MDN; artigo 30.º revoga genericamente as normas orgânicas anteriores com efeito diferido (registado em nao_aplicavel); artigo 31.º mantém em vigor os artigos 21.º e 22.º do DL 47/93 (sem alteração de texto); artigo 32.º revoga o DL 122/2011 (outro diploma) — nada a devolver."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "chars": 170756,
+      "artigos": 0
+    }
+  ],
+  "problemas": []
+}
