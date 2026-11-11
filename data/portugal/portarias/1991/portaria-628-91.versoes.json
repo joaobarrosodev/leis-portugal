@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:673070:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-07-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e1ed2b76050815df"
+   ]
+  },
+  {
+   "date": "1991-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:682203:por",
+     "title": "Declaração de Rectificação n.º 219/91",
+     "published": "1991-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/219-1991-682203"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-3",
+    "Altera Artigo unidades 9-9"
+   ],
+   "fragments": [
+    "aeb00f6b84e79e45"
+   ]
+  }
+ ],
+ "fragments": {
+  "e1ed2b76050815df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Julho\n\nDe acordo com os princípios adoptados na elaboração das anteriores cartas da Reserva Agrícola Nacional relativas à área de intervenção da Direcção Regional de Agricultura da Beira Litoral, procede-se agora à aprovação da carta da reserva Agrícola de Almeirim.\n\nAssim, ao abrigo do disposto no artigo 5.º do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho:\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:\n\n1.º É aprovada a carta da Reserva Agrícola Nacional (RAN) relativa ao Município de Almeirim, publicada em anexo ao presente diploma e que dele faz parte integrante.\n\n2.º Às áreas da RAN identificadas na carta publicada em anexo é aplicável o regime jurídico da RAN, constante, designadamente, dos artigos 8.º e seguintes do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho.\n\n3.º A partir do momento da entrada em vigor do presente regulamento caducam todos os certificados de classificação de solos já emitidos.\n\n4.º Os pareceres favoráveis emitidos pela Comissão Regional da Reserva Agrícola de Entre Douro e Minho até à entrada em vigor do presente regulamento carecem da confirmação do mesmo órgão.\n\n5.º A confirmação a que se refere o número anterior deve ser requerida pelo interessado e não depende do pagamento de qualquer taxa.\n\n6.º A identificação das áreas da RAN constante da carta em anexo prevalece sobre quaisquer actos ou regulamentos administrativos já emitidos.\n\n7.º Os originais da carta a que se refere o número anterior ficam depositados no Centro Nacional de Reconhecimento e Ordenamento Agrário e na Direcção Regional de Agricultura do Ribatejo e Oeste.\n\nMinistério da Agricultura, Pescas e Alimentação.\n\nAssinada em 12 de Junho de 1991.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\nAnexo a que se refere o n.º 1.º da Portaria n.º 628/91\n\nCarta da Reserva Agrícola Nacional (RAN) do Município de Almeirim\n\nRESERVA AGRÍCOLA NACIONAL\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/158b00/35423542.pdf)"
+  },
+  "aeb00f6b84e79e45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-09-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 219/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/219-1991-682203), publicado em 1991-09-30.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 219/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/219-1991-682203), publicado em 1991-09-30."
+   ],
+   "markdown": "de 12 de Julho\n\nDe acordo com os princípios adoptados na elaboração das anteriores cartas da Reserva Agrícola Nacional relativas à área de intervenção da Direcção Regional de Agricultura do Ribatejo e Oeste, procede-se agora à aprovação da carta da reserva Agrícola de Almeirim.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 219/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/219-1991-682203), publicado em 1991-09-30.\n\nAssim, ao abrigo do disposto no artigo 5.º do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho:\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:\n\n1.º É aprovada a carta da Reserva Agrícola Nacional (RAN) relativa ao Município de Almeirim, publicada em anexo ao presente diploma e que dele faz parte integrante.\n\n2.º Às áreas da RAN identificadas na carta publicada em anexo é aplicável o regime jurídico da RAN, constante, designadamente, dos artigos 8.º e seguintes do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho.\n\n3.º A partir do momento da entrada em vigor do presente regulamento caducam todos os certificados de classificação de solos já emitidos.\n\n4.º Os pareceres favoráveis emitidos pela Comissão Regional da Reserva Agrícola do Ribatejo e Oeste até à entrada em vigor do presente regulamento carecem da confirmação do mesmo órgão.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 219/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/219-1991-682203), publicado em 1991-09-30.\n\n5.º A confirmação a que se refere o número anterior deve ser requerida pelo interessado e não depende do pagamento de qualquer taxa.\n\n6.º A identificação das áreas da RAN constante da carta em anexo prevalece sobre quaisquer actos ou regulamentos administrativos já emitidos.\n\n7.º Os originais da carta a que se refere o número anterior ficam depositados no Centro Nacional de Reconhecimento e Ordenamento Agrário e na Direcção Regional de Agricultura do Ribatejo e Oeste.\n\nMinistério da Agricultura, Pescas e Alimentação.\n\nAssinada em 12 de Junho de 1991.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\nAnexo a que se refere o n.º 1.º da Portaria n.º 628/91\n\nCarta da Reserva Agrícola Nacional (RAN) do Município de Almeirim\n\nRESERVA AGRÍCOLA NACIONAL\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/158b00/35423542.pdf)"
+  }
+ }
+}

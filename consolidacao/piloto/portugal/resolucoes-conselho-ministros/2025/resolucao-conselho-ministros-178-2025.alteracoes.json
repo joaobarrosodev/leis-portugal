@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - Estabelecer que os encargos são suportados por verba inscrita no orçamento da SGMAI, integralmente no ano de 2025.",
+    "depois": "4 - Estabelecer que os encargos são suportados por verba inscrita no orçamento da SGMAI, integralmente no ano de 2026.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:949908819:por",
+    "alterador": "pt:dre:1125716290:por"
+  }
+]

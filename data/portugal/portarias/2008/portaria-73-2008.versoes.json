@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:248522:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2008-01-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8a27f8102e8b4ea1"
+   ]
+  },
+  {
+   "date": "2008-08-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:455392:por",
+     "title": "Portaria n.º 753/2008",
+     "published": "2008-08-05",
+     "dre_path": "/dr/detalhe/portaria/753-2008-455392"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "e4efb915dc29d07c"
+   ]
+  }
+ ],
+ "fragments": {
+  "8a27f8102e8b4ea1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Janeiro\n\nPela [Portaria n.º 1059/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1059-2001-631060), de 4 de Setembro, foi renovada até 5 de Agosto de 2007, a zona de caça associativa da Quinta da Moita da Vaca e outras (processo n.º 77-DGRF), situada no município de São João da Pesqueira, com a área de 2006 ha e não 2000 ha, como consta da referida portaria, concessionada à Associação de Caçadores da Serra do Reboredo.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no artigo 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos nas freguesias de Paredes da Beira, Riodades e Trevões, município de São João da Pesqueira, com a área de 2006 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n2.º A presente portaria produz efeitos a partir do dia 6 de Agosto de 2007.\n\nO Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 15 de Novembro de 2007.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/01600/0069200692.pdf)"
+  },
+  "e4efb915dc29d07c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2008-08-10",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 753/2008](https://diariodarepublica.pt/dr/detalhe/portaria/753-2008-455392), publicado em 2008-08-05."
+   ],
+   "markdown": "de 23 de Janeiro\n\nPela [Portaria n.º 1059/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1059-2001-631060), de 4 de Setembro, foi renovada até 5 de Agosto de 2007, a zona de caça associativa da Quinta da Moita da Vaca e outras (processo n.º 77-DGRF), situada no município de São João da Pesqueira, com a área de 2006 ha e não 2000 ha, como consta da referida portaria, concessionada à Associação de Caçadores da Serra do Reboredo.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no artigo 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de 12 anos, renovável automaticamente, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos nas freguesias de Paredes da Beira, Riodades e Trevões, município de São João da Pesqueira, com a área de 2006 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n> Alterado pelo/a [Portaria n.º 753/2008](https://diariodarepublica.pt/dr/detalhe/portaria/753-2008-455392), publicado em 2008-08-05.\n\n2.º A presente portaria produz efeitos a partir do dia 6 de Agosto de 2007.\n\nO Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 15 de Novembro de 2007.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/01600/0069200692.pdf)"
+  }
+ }
+}

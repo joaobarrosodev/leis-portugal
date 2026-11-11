@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:665728:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-11-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "005e6f6807e7b478"
+   ]
+  },
+  {
+   "date": "1994-05-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:262591:por",
+     "title": "Portaria n.º 301/94",
+     "published": "1994-05-18",
+     "dre_path": "/dr/detalhe/portaria/301-1994-262591"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-10",
+    "Altera Artigo unidades 27-27"
+   ],
+   "fragments": [
+    "ef0da80c2957b653"
+   ]
+  }
+ ],
+ "fragments": {
+  "005e6f6807e7b478": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Novembro\n\nConsiderando que as acções de apoio e de participação do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) no processo de comercialização de lãs se têm revelado disciplinadoras e orientadoras nos circuitos comerciais e reconhecidas por todos os agentes económicos como necessárias até as lãs entrarem no ciclo industrial;\n\nConsiderando que a desejável e prevista transferência das tarefas a cargo do IROMA para as organizações de produtores está ainda dependente da superação de dificuldades operativas por parte destas organizações e que um corte abrupto com os procedimentos das campanhas lanares anteriores perturbaria gravemente o funcionamento deste mercado;\n\nConsiderando ainda a grave crise internacional existente nos mercados mundiais da lã, com reflexos determinantes no mercado interno, torna-se ainda mais necessário continuar a fomentar e melhorar as características têxteis das lãs nacionais.\n\nImporta que o IROMA continue a promover as concentrações de lãs e a executar a classificação e formação de lotes gerais para as lãs dos produtores que optem por comercializar através das suas associações, bem como se justifica o estabelecimento de preços de garantia à produção.\n\nAssim, ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro:\n\nManda o Governo, pelos Ministros das Finanças, da Agricultura e do Comércio e Turismo, o seguinte:\n\n1.º A compra e a venda de lã da produção nacional mantêm-se livres, nos termos desta portaria.\n\n2.º As organizações da produção promoverão a concentração das lãs não churras dos efectivos ovinos dos seus associados, em armazéns regionais, para venda em leilão, com prévia classificação e avaliação pelo Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA).\n\n3.º A armazenagem das lãs não churras concentradas nos termos do número anterior deverá obedecer às directrizes emanadas pelo IROMA.\n\n4.º - 1 - O IROMA só avaliará as lãs não churras concentradas cuja tosquia tenha sido feita sob a directa assistência técnica ou sob responsabilidade de profissionais de tosquia devidamente habilitados.\n\n2 - Para efeitos do número anterior, consideram-se profissionais de tosquia devidamente habilitados aqueles que possuírem certificado de aptidão obtido em curso de tosquia e preparação de velos realizado pelo IROMA.\n\n5.º O IROMA garantirá os preços da sua avaliação, recebendo, por intermédio das organizações da produção ou associações de produtores, as lãs não churras que não tenham atingido esses preços de leilão.\n\n6.º - 1 - Os preços mínimos a garantir pelo IROMA às lãs não churras sujas de tosquia nas condições do n.º 4.º são os que resultam dos preços para penteados e lavados constantes da tabela anexa a este diploma, em função da sua classificação e do rendimento calculado em penteado ou em lavado a fundo.\n\n2 - Os lotes não avaliados não serão apresentados em leilão nem beneficiarão de preço de garantia.\n\n7.º As lãs em rama suja retiradas pelo IROMA, nos termos desta portaria, serão vendidas em leilão, depois de lhes dar adequado estado de preparação ou em rama suja.\n\n8.º O IROMA promoverá a realização de leilões de lãs em diferentes estados de preparação, pertencentes a qualquer dos sectores interessados no ciclo económico da lã.\n\n9.º Os custos com a intervenção da campanha lanar serão suportados pelo IROMA.\n\n10.º São revogadas as Portarias n.os [1088/90](https://diariodarepublica.pt/dr/detalhe/portaria/1088-1990-565975), de 19 de Outubro, e [974/92](https://diariodarepublica.pt/dr/detalhe/portaria/974-1992-225800), de 13 de Outubro.\n\n11.º A presente portaria entra imediatamente em vigor.\n\nMinistérios das Finanças, da Agricultura e do Comércio e Turismo.\n\nAssinada em 8 de Setembro de 1993.\n\nPelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado da Distribuição e Concorrência.\n\nTabela anexa a que se refere o n.º 1 do n.º 6.º da Portaria n.º 1130/93\n\nLãs brancas não churras de tosquia\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258b00/61886189.pdf)"
+  },
+  "ef0da80c2957b653": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1994-05-19",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 301/94](https://diariodarepublica.pt/dr/detalhe/portaria/301-1994-262591), publicado em 1994-05-18.",
+    "Alterado pelo/a [Portaria n.º 301/94](https://diariodarepublica.pt/dr/detalhe/portaria/301-1994-262591), publicado em 1994-05-18."
+   ],
+   "markdown": "de 4 de Novembro\n\nConsiderando que as acções de apoio e de participação do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) no processo de comercialização de lãs se têm revelado disciplinadoras e orientadoras nos circuitos comerciais e reconhecidas por todos os agentes económicos como necessárias até as lãs entrarem no ciclo industrial;\n\nConsiderando que a desejável e prevista transferência das tarefas a cargo do IROMA para as organizações de produtores está ainda dependente da superação de dificuldades operativas por parte destas organizações e que um corte abrupto com os procedimentos das campanhas lanares anteriores perturbaria gravemente o funcionamento deste mercado;\n\nConsiderando ainda a grave crise internacional existente nos mercados mundiais da lã, com reflexos determinantes no mercado interno, torna-se ainda mais necessário continuar a fomentar e melhorar as características têxteis das lãs nacionais.\n\nImporta que o IROMA continue a promover as concentrações de lãs e a executar a classificação e formação de lotes gerais para as lãs dos produtores que optem por comercializar através das suas associações, bem como se justifica o estabelecimento de preços de garantia à produção.\n\nAssim, ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro:\n\nManda o Governo, pelos Ministros das Finanças, da Agricultura e do Comércio e Turismo, o seguinte:\n\n1.º A compra e a venda de lã da produção nacional mantêm-se livres, nos termos desta portaria.\n\n2.º As organizações da produção promoverão a concentração das lãs não churras isentas de marcas com tinta plástica e alcatrão dos efectivos ovinos dos seus associados, em armazéns regionais, para venda em leilão, com prévia classificação e avaliação pelo Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA);\n\n> Alterado pelo/a [Portaria n.º 301/94](https://diariodarepublica.pt/dr/detalhe/portaria/301-1994-262591), publicado em 1994-05-18.\n\n3.º A armazenagem das lãs não churras concentradas nos termos do número anterior deverá obedecer às directrizes emanadas pelo IROMA.\n\n4.º - 1 - O IROMA só avaliará as lãs não churras concentradas cuja tosquia tenha sido feita sob a directa assistência técnica ou sob responsabilidade de profissionais de tosquia devidamente habilitados.\n\n2 - Para efeitos do número anterior, consideram-se profissionais de tosquia devidamente habilitados aqueles que possuírem certificado de aptidão obtido em curso de tosquia e preparação de velos realizado pelo IROMA.\n\n5.º O IROMA garantirá os preços da sua avaliação, recebendo, por intermédio das organizações da produção ou associações de produtores, as lãs não churras que não tenham atingido esses preços de leilão.\n\n6.º - 1 - Os preços mínimos a garantir pelo IROMA às lãs não churras sujas de tosquia nas condições do n.º 4.º são os que resultam dos preços para penteados e lavados constantes da tabela anexa a este diploma, em função da sua classificação e do rendimento calculado em penteado ou em lavado a fundo.\n\n2 - Os lotes não avaliados não serão apresentados em leilão nem beneficiarão de preço de garantia.\n\n7.º As lãs em rama suja retiradas pelo IROMA, nos termos desta portaria, serão vendidas em leilão, depois de lhes dar adequado estado de preparação ou em rama suja.\n\n8.º O IROMA promoverá a realização de leilões de lãs em diferentes estados de preparação, pertencentes a qualquer dos sectores interessados no ciclo económico da lã.\n\n9.º Os custos com a intervenção da campanha lanar serão suportados pelo IROMA.\n\n10.º São revogadas as Portarias n.os [1088/90](https://diariodarepublica.pt/dr/detalhe/portaria/1088-1990-565975), de 19 de Outubro, e [974/92](https://diariodarepublica.pt/dr/detalhe/portaria/974-1992-225800), de 13 de Outubro.\n\n11.º A presente portaria entra imediatamente em vigor.\n\nMinistérios das Finanças, da Agricultura e do Comércio e Turismo.\n\nAssinada em 8 de Setembro de 1993.\n\nPelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado da Distribuição e Concorrência.\n\nTabela anexa a que se refere o n.º 1 do n.º 6.º da Portaria n.º 1130/93\n\nLãs brancas não churras de tosquia\n\nPenteados brancos:\n\nValor por quilograma\n\nMerinos extra ... 640$00\n\nMerinos finos ... 588$00\n\nMerinos correntes ... 491$00\n\nPrimas ... 416$00\n\nCruzados finos ... 372$00\n\nLavados brancos (para carda):\n\nMerinos extra ... 508$00\n\nMerinos finos ... 473$00\n\nMerinos correntes ... 402$00\n\nPrimas ... 321$00\n\nCruzados finos ... 293$00\n\nCruzados médios ... 250$00\n\nCruzados lustrosos ... 222$00\n\nPeças e aninhos fortes ... 192$00\n\nPontas e chocas ... 161$00\n\nLavados e penteados pigmentados:\n\nDesvalorização de 20% em todas as classe.\n\n> Alterado pelo/a [Portaria n.º 301/94](https://diariodarepublica.pt/dr/detalhe/portaria/301-1994-262591), publicado em 1994-05-18."
+  }
+ }
+}

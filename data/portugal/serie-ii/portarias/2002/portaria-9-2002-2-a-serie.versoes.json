@@ -1,0 +1,60 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1947612:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-01-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a5aeab8fb223aa7c"
+   ]
+  },
+  {
+   "date": "2009-10-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:3228006:por",
+     "title": "Portaria n.º 1081/2009",
+     "published": "2009-10-23",
+     "dre_path": "/dr/detalhe/portaria/1081-2009-3228006"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8",
+    "Altera Artigo unidades 11-11",
+    "Altera Artigo unidades 17-19"
+   ],
+   "fragments": [
+    "a4bfb927d3f386bd"
+   ]
+  }
+ ],
+ "fragments": {
+  "a5aeab8fb223aa7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 9/2002 (2.ª série). - Pelo [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, confere-se aos concelhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição política cinegética dos concelhos.\n\nDetermina o n.º 3 do artigo 154.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal de Vila Nova de Cerveira é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nFernando Manuel Coelho da Silva.\n\nAmérico Cêa Durão.\n\nRepresentantes dos agricultores:\n\nRodolfo Manuel Fernandes Torres.\n\nSalvador Bacelar Roleira Barbosa.\n\nRepresentante das associações de defesa do ambiente:\n\nJosé Ramos da Encarnação Pereira Pedreira.\n\nAutarca de freguesia:\n\nDavid Brito da Rocha.\n\nRepresentante da Direcção Regional de Agricultura de Entre Douro e Minho:\n\nLaura Maria Neves de Lemos.\n\nRepresentante do Instituto da Conservação da Natureza:\n\nJosé Marcos Ferreira de Azevedo Guerra Liberal.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n10 de Dezembro de 2001. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural."
+  },
+  "a4bfb927d3f386bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-10-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1081/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1081-2009-3228006), publicado em 2009-10-23.",
+    "Alterado pelo/a [Portaria n.º 1081/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1081-2009-3228006), publicado em 2009-10-23.",
+    "Alterado pelo/a [Portaria n.º 1081/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1081-2009-3228006), publicado em 2009-10-23."
+   ],
+   "markdown": "Portaria n.º 9/2002 (2.ª série). - Pelo [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, confere-se aos concelhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição política cinegética dos concelhos.\n\nDetermina o n.º 3 do artigo 154.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal de Vila Nova de Cerveira é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nFernando Manuel Coelho da Silva;\n\n> Alterado pelo/a [Portaria n.º 1081/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1081-2009-3228006), publicado em 2009-10-23.\n\nAmérico Cêa Durão.\n\nRepresentantes dos agricultores:\n\nRodolfo Manuel Fernandes Torres;\n\n> Alterado pelo/a [Portaria n.º 1081/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1081-2009-3228006), publicado em 2009-10-23.\n\nSalvador Bacelar Roleira Barbosa.\n\nRepresentante das associações de defesa do ambiente:\n\nJosé Ramos da Encarnação Pereira Pedreira.\n\nAutarca de freguesia:\n\nDavid Brito da Rocha.\n\nRepresentante da Autoridade Florestal Nacional:\n\nAugusto João Barbosa Maia.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade:\n\n> Alterado pelo/a [Portaria n.º 1081/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1081-2009-3228006), publicado em 2009-10-23.\n\nJosé Marcos Ferreira de Azevedo Guerra Liberal.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n10 de Dezembro de 2001. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural."
+  }
+ }
+}

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-11-02'
+version_history:
+  file: portaria-343-2000-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-03-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-11-02'
+    amending: pt:dre:2598673:por
+    amending_title: Portaria n.º 1148/2009
+    changes:
+    - Altera Artigo unidades 14-17
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:11:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1148/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2000/portaria-343-2000-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,13 +138,11 @@ Leonardo Paredes Baptista.
 
 Luís Freitas de Sousa.
 
-Autarca de freguesia:
+Autarca de freguesia - Rui Octávio Lino.
 
-Rui Octávio Lino.
+Representante da Autoridade Florestal Nacional - Maria João Martins Gonçalves Pinheiro.
 
-Representante dos serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas:
-
-Manuel Cardoso Lage.
+> Alterado pelo/a [Portaria n.º 1148/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1148-2009-2598673), publicado em 2009-11-02.
 
 2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.
 

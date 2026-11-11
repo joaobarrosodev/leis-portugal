@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Fernando Manuel Coelho da Silva.",
+    "depois": "Fernando Manuel Coelho da Silva;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1947612:por",
+    "alterador": "pt:dre:3228006:por"
+  },
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Rodolfo Manuel Fernandes Torres.",
+    "depois": "Rodolfo Manuel Fernandes Torres;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1947612:por",
+    "alterador": "pt:dre:3228006:por"
+  },
+  {
+    "artigo": "unidades 17-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção Regional de Agricultura de Entre Douro e Minho:\n\nLaura Maria Neves de Lemos.\n\nRepresentante do Instituto da Conservação da Natureza:",
+    "depois": "Representante da Autoridade Florestal Nacional:\n\nAugusto João Barbosa Maia.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1947612:por",
+    "alterador": "pt:dre:3228006:por"
+  }
+]

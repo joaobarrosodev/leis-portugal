@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Encontrando-se a exercer funções há mais de um ano no Gabinete para a Pesquisa e Exploração de Petróleo, em regime de destacamento, a funcionária do quadro de efectivos interdepartamental do Ministério da Indústria e Energia;",
+    "depois": "Encontrando-se a exercer funções há mais de um ano no Gabinete para a Pesquisa e Exploração de Petróleo, em regime de destacamento, a funcionária do quadro de efectivos interdepartamental do Ministério da Indústria e Energia Aurora Antónia Pais Pinção Costa;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:686429:por",
+    "alterador": "pt:dre:682182:por"
+  }
+]

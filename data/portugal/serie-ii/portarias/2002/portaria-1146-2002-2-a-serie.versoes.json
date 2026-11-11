@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1717779:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f0d1e28be48f3b50"
+   ]
+  },
+  {
+   "date": "2009-10-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:3227984:por",
+     "title": "Portaria n.º 1059/2009",
+     "published": "2009-10-23",
+     "dre_path": "/dr/detalhe/portaria/1059-2009-3227984"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 13-18"
+   ],
+   "fragments": [
+    "f40e0b6fa0a363a1"
+   ]
+  }
+ ],
+ "fragments": {
+  "f0d1e28be48f3b50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1146/2002 (2.ª série). - Pelo [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com a redacção conferida pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição da política cinegética do concelho.\n\nDetermina o n.º 3 do artigo 154.º daquele diploma que, por portaria do Ministério da Agricultura, Desenvolvimento Rural e Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com a redacção conferida pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal de Carrazeda de Ansiães é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nAlbino Soares Pinto Silvano.\n\nMilton Augusto Morais.\n\nRepresentantes dos agricultores:\n\nJosé António Santos Bernardo.\n\nOtília Pizarro.\n\nAutarca de freguesia:\n\nAlfredo António Sampaio.\n\nRepresentante da Direcção Regional de Agricultura de Trás-os-Montes:\n\nAntónio Manuel dos Santos Pinto.\n\nRepresentante das associações de defesa do ambiente:\n\nMário Pereira Gonçalves.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n9 de Julho de 2002. - Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural."
+  },
+  "f40e0b6fa0a363a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-10-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1059/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1059-2009-3227984), publicado em 2009-10-23."
+   ],
+   "markdown": "Portaria n.º 1146/2002 (2.ª série). - Pelo [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com a redacção conferida pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição da política cinegética do concelho.\n\nDetermina o n.º 3 do artigo 154.º daquele diploma que, por portaria do Ministério da Agricultura, Desenvolvimento Rural e Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com a redacção conferida pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal de Carrazeda de Ansiães é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nAlbino Soares Pinto Silvano.\n\nMilton Augusto Morais.\n\nRepresentantes dos agricultores:\n\nJosé António Santos Bernardo.\n\nOtília Pizarro.\n\nAutarca de freguesia - Alfredo António Sampaio.\n\nRepresentante da Autoridade Florestal Nacional - António José Pereira Baptista.\n\nRepresentante das associações de defesa do ambiente - Mário Pereira Gonçalves.\n\n> Alterado pelo/a [Portaria n.º 1059/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1059-2009-3227984), publicado em 2009-10-23.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n9 de Julho de 2002. - Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural."
+  }
+ }
+}

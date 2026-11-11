@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:2271375:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-01-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "179b7232472a0d15"
+   ]
+  },
+  {
+   "date": "2009-10-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:3227982:por",
+     "title": "Portaria n.º 1057/2009",
+     "published": "2009-10-23",
+     "dre_path": "/dr/detalhe/portaria/1057-2009-3227982"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-10",
+    "Altera Artigo unidades 12-17"
+   ],
+   "fragments": [
+    "f91a7e8e7f61d9af"
+   ]
+  }
+ ],
+ "fragments": {
+  "179b7232472a0d15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição da política cinegética do concelho.\n\nDetermina o n.º 2 do artigo 157.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 157.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético e da Conservação da Fauna Municipal de Alter do Chão é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nÁlvaro Manuel Gonçalves Arriaga.\n\nAntónio Claro Mergulhão.\n\nJoão Marques Aço.\n\nRepresentantes dos agricultores:\n\nEduardo António dos Reis Monteiro.\n\nJosé Casimiro Miranda dos Reis.\n\nRepresentante das zonas de caça turísticas - Armando da Graça Mendes da Rosa.\n\nAutarca de freguesia - Vitorino Oliveira Carvalho.\n\nRepresentante da Direcção-Geral dos Recursos Florestais - João Augusto Grilo Ramos.\n\nRepresentante do Instituto da Conservação da Natureza - João Mário Madeira Pargana.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n20 de Dezembro de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas."
+  },
+  "f91a7e8e7f61d9af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-10-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1057/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1057-2009-3227982), publicado em 2009-10-23.",
+    "Alterado pelo/a [Portaria n.º 1057/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1057-2009-3227982), publicado em 2009-10-23."
+   ],
+   "markdown": "Pelo [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição da política cinegética do concelho.\n\nDetermina o n.º 2 do artigo 157.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 157.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético e da Conservação da Fauna Municipal de Alter do Chão é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nÁlvaro Manuel Gonçalves Arriaga;\n\nAntónio Claro Mergulhão;\n\nJoão Marques Aço;\n\n> Alterado pelo/a [Portaria n.º 1057/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1057-2009-3227982), publicado em 2009-10-23.\n\nRepresentantes dos agricultores:\n\nEduardo António dos Reis Monteiro;\n\nJosé Casimiro Miranda dos Reis;\n\nRepresentante das zonas de caça turísticas - Armando da Graça Mendes da Rosa;\n\nAutarca de freguesia - Vitorino Oliveira Carvalho;\n\nRepresentante da Autoridade Florestal Nacional - Joaquim Fernando Pinheiro Brito;\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade - João Mário Madeira Pargana.\n\n> Alterado pelo/a [Portaria n.º 1057/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1057-2009-3227982), publicado em 2009-10-23.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n20 de Dezembro de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas."
+  }
+ }
+}

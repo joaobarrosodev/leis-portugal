@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:682244:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-08-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5a5a217c98326ccb"
+   ]
+  },
+  {
+   "date": "1991-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:406734:por",
+     "title": "Declaração de Rectificação n.º 245/91",
+     "published": "1991-10-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/245-1991-406734"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8",
+    "Altera Artigo unidades 10-10"
+   ],
+   "fragments": [
+    "fea5c52ad4233c40"
+   ]
+  }
+ ],
+ "fragments": {
+  "5a5a217c98326ccb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Agosto\n\nConsiderando que a Lei do Serviço Militar e o respectivo Regulamento contemplam, com subordinação ao preceito constitucional, a faculdade de os cidadãos do sexo feminino poderem voluntariamente prestar serviço militar em regime efectivo normal ou noutra forma de serviço decorrente do recrutamento especial;\n\nConsiderando estarem asseguradas na Força Aérea as condições que permitem iniciar desde já, ainda que de forma gradual, o recrutamento e a formação militar dos cidadãos do sexo feminino:\n\nManda o Governo, pelo Ministro da Defesa Nacional, para efeitos do disposto nos artigos 42.º da [Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/lei/30-1987-420192), de 8 de Julho, e 70.º do Regulamento da Lei do Serviço Militar, aprovado pelo [Decreto-Lei n.º 463/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1988-356354), de 15 de Dezembro, o seguinte:\n\n1.º Com excepção do serviço efectivo decorrente da convocação ou mobilização, os cidadãos do sexo feminino, em condições de igualdade com os cidadãos do sexo masculino, podem voluntariamente candidatar-se à prestação de serviço militar efectivo, com destino às seguintes categorias e especialidades:\n\na) Oficiais:\n\nPilotos (PIL); navegadores (NAV); técnicos de informática (TINF), de operações de meteorologia (TOMET), de operações de circulação aérea e radar de tráfego (TOCART), de operações de detecção e conduta de intercepção (TODCI), de manutenção de material aéreo (TMMA), de manutenção de material terrestre (TMMT), de manutenção de material electrotécnico (TMMEL), de manutenção de armamento e equipamento (TMAEQ), de abastecimento (TABST) e de pessoal e apoio administrativo (TPAA); e polícia aérea (PA);\n\nb) Sargentos e praças:\n\nOperadores de comunicações (OPCOM), de meteorologia (OPMET), de circulação aérea e radarista de tráfego (OPCART), radarista de detecção (OPDET), de informática (OPINF) e de sistemas de assistência e socorro (OPSAS); mecânicos de material aéreo (MMA), de material terrestre (MMT), de electricidade (MELECT), de electrónica (MELECA), de electricidade e instrumentos de avião (MELIAV) e armamento e equipamento (MARME); abastecimentos (ABST); construção e manutenção de infra-estruturas (CMI); serviço de saúde (SS); polícia aérea (PA); secretariado e apoio de serviços (SAS); e músicos (MUS).\n\n2.º As operações de recrutamento e selecção dos candidatos do sexo feminino que voluntariamente se proponham prestar serviço efectivo na força aérea realizar-se-ão em conformidade com as disposições vigentes para os candidatos do sexo masculino.\n\n3.º O regime de prestação de serviço e o desenvolvimento das carreiras do pessoal militar feminino regulam-se pelas normas estatutárias aplicáveis ao pessoal militar masculino detentor da mesma categoria e especialidade, com salvaguarda do regime jurídico de protecção da função social da maternidade.\n\nMinistério da Defesa Nacional.\n\nAssinada em 10 de Julho de 1991.\n\nO Ministro da Defesa Nacional, Joaquim Fernando Nogueira."
+  },
+  "fea5c52ad4233c40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-10-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 245/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/245-1991-406734), publicado em 1991-10-31.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 245/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/245-1991-406734), publicado em 1991-10-31."
+   ],
+   "markdown": "de 8 de Agosto\n\nConsiderando que a Lei do Serviço Militar e o respectivo Regulamento contemplam, com subordinação ao preceito constitucional, a faculdade de os cidadãos do sexo feminino poderem voluntariamente prestar serviço militar em regime efectivo normal ou noutra forma de serviço decorrente do recrutamento especial;\n\nConsiderando estarem asseguradas na Força Aérea as condições que permitem iniciar desde já, ainda que de forma gradual, o recrutamento e a formação militar dos cidadãos do sexo feminino:\n\nManda o Governo, pelo Ministro da Defesa Nacional, para efeitos do disposto nos artigos 42.º da [Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/lei/30-1987-420192), de 8 de Julho, e 70.º do Regulamento da Lei do Serviço Militar, aprovado pelo [Decreto-Lei n.º 463/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1988-356354), de 15 de Dezembro, o seguinte:\n\n1.º Com excepção do serviço efectivo decorrente da convocação ou mobilização, os cidadãos do sexo feminino, em condições de igualdade com os cidadãos do sexo masculino, podem voluntariamente candidatar-se à prestação de serviço militar efectivo, com destino às seguintes categorias e especialidades:\n\na) Oficiais:\n\nPilotos (PIL); pára-quedistas (PARAQ); navegadores (NAV); técnicos de informática (TINF), de operações de meteorologia (TOMET), de operações de circulação aérea e radar de tráfego (TOCART), de operações de detecção e conduta de intercepção (TODCI), de manutenção de material aéreo (TMMA), de manutenção de material terrestre (TMMT), de manutenção de material electrotécnico (TMMEL), de manutenção de armamento e equipamento (TMAEQ), de abastecimento (TABST) e de pessoal e apoio administrativo (TPAA); e polícia aérea (PA);\n\n> Alterado pelo/a [Declaração de Rectificação n.º 245/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/245-1991-406734), publicado em 1991-10-31.\n\nb) Sargentos e praças:\n\nPára-quedistas (PARAQ); operadores de comunicações (OPCOM), de meteorologia (OPMET), de circulação aérea e radarista de tráfego (OPCART), radarista de detecção (OPDET), de informática (OPINF) e de sistemas de assistência e socorro (OPSAS); mecânicos de material aéreo (MMA), de material terrestre (MMT), de electricidade (MELECT), de electrónica (MELECA), de electricidade e instrumentos de avião (MELIAV) e armamento e equipamento (MARME); abastecimentos (ABST); construção e manutenção de infra-estruturas (CMI); serviço de saúde (SS); polícia aérea (PA); secretariado e apoio de serviços (SAS); e músicos (MUS).\n\n> Alterado pelo/a [Declaração de Rectificação n.º 245/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/245-1991-406734), publicado em 1991-10-31.\n\n2.º As operações de recrutamento e selecção dos candidatos do sexo feminino que voluntariamente se proponham prestar serviço efectivo na força aérea realizar-se-ão em conformidade com as disposições vigentes para os candidatos do sexo masculino.\n\n3.º O regime de prestação de serviço e o desenvolvimento das carreiras do pessoal militar feminino regulam-se pelas normas estatutárias aplicáveis ao pessoal militar masculino detentor da mesma categoria e especialidade, com salvaguarda do regime jurídico de protecção da função social da maternidade.\n\nMinistério da Defesa Nacional.\n\nAssinada em 10 de Julho de 1991.\n\nO Ministro da Defesa Nacional, Joaquim Fernando Nogueira."
+  }
+ }
+}

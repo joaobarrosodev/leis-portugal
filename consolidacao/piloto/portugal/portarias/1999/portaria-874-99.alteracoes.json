@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 43-43",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O número de vagas para a candidatura à matrícula e inscrição no ano lectivo de 1999-2000 é fixado em 50.",
+    "depois": "O número de vagas para a candidatura à matrícula e inscrição no ano lectivo de 1999-2000 é fixado em 32.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:673804:por",
+    "alterador": "pt:dre:682833:por"
+  }
+]

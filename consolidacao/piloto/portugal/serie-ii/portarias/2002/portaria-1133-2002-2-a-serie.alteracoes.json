@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "António da Cruz Forte.",
+    "depois": "António da Cruz Forte",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1331433:por",
+    "alterador": "pt:dre:2325582:por"
+  },
+  {
+    "artigo": "unidades 15-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção Regional de Agricultura de Trás-os-Montes:\n\nRui Fernandes Álvares.",
+    "depois": "Representante da Autoridade Florestal Nacional:\n\nMaria João Martins Gonçalves Pinheiro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1331433:por",
+    "alterador": "pt:dre:2325582:por"
+  }
+]

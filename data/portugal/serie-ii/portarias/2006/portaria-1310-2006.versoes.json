@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1310149:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2006-09-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2dcf7bfb0bb40597"
+   ]
+  },
+  {
+   "date": "2009-10-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:3227996:por",
+     "title": "Portaria n.º 1071/2009",
+     "published": "2009-10-23",
+     "dre_path": "/dr/detalhe/portaria/1071-2009-3227996"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 14-17"
+   ],
+   "fragments": [
+    "58a2bc2361823aac"
+   ]
+  }
+ ],
+ "fragments": {
+  "2dcf7bfb0bb40597": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição da política cinegética do conselho.\n\nDetermina o n.º 2 do artigo 157.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 157.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo Decreto-lei n.º 201/2005, de 24 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal do Gavião é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nCarlos Manuel Dias Simões.\n\nFernando Manuel Meneses Faca.\n\nHenrique Manuel Almeida Conceição.\n\nRepresentantes dos agricultores:\n\nAtílio Mouro Domingos.\n\nRui Guedes Patrício Pereira Coutinho.\n\nRepresentante das zonas de caça turísticas - Pedro José Carvalho Branco.\n\nRepresentantes das organizações não governamentais do ambiente - Emílio Moitas.\n\nAutarca de freguesia - Adriano José Chambel.\n\nRepresentante da Direcção-Geral dos Recursos Florestais - Luís Cordeiro Esteves Carias.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n1 de Setembro de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas."
+  },
+  "58a2bc2361823aac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-10-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1071/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1071-2009-3227996), publicado em 2009-10-23."
+   ],
+   "markdown": "Pelo [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição da política cinegética do conselho.\n\nDetermina o n.º 2 do artigo 157.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 157.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo Decreto-lei n.º 201/2005, de 24 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal do Gavião é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nCarlos Manuel Dias Simões.\n\nFernando Manuel Meneses Faca.\n\nHenrique Manuel Almeida Conceição.\n\nRepresentantes dos agricultores:\n\nAtílio Mouro Domingos.\n\nRui Guedes Patrício Pereira Coutinho.\n\nRepresentante das zonas de caça turísticas:\n\nPedro José Carvalho Branco.\n\nRepresentantes das organizações não governamentais do ambiente:\n\nEmílio Moitas\n\nAutarca de freguesia:\n\nAdriano José Chambel.\n\nRepresentante da Autoridade Florestal Nacional:\n\nJoaquim Fernando Pinheiro Brito.\n\n> Alterado pelo/a [Portaria n.º 1071/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1071-2009-3227996), publicado em 2009-10-23.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n1 de Setembro de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas."
+  }
+ }
+}

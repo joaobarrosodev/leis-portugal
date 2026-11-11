@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-12-03'
+version_history:
+  file: portaria-263-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-05-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-12-03'
+    amending: pt:dre:459179:por
+    amending_title: Portaria n.º 1031/80
+    changes:
+    - Adita Artigo depois da unidade 7
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:45:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1031/80. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1972/portaria-263-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,6 +130,10 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 a) Navios de carga geral convencionais e navios mistos de passageiros e de carga: 5,5 por cento;
 
 b) Navios de passageiros, ferries, graneleiros, porta-contentores, navios-tanques, navios-frigoríficos e outros navios especializados: 7,5 por cento.
+
+c) Navios reavaliados ao abrigo do [Decreto-Lei n.º 430/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1978-325309), de 27 de Dezembro: 5 por cento.
+
+> Aditado pelo/a [Portaria n.º 1031/80](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1980-459179), publicado em 1980-12-03.
 
 2.º As taxas anuais mínimas de amortização dos navios adquiridos em estado de uso pelas referidas empresas, e das reconversões, serão estabelecidas por despacho, para cada caso, em função dos respectivos períodos de utilização esperada segundo critério análogo às percentagens estabelecidas na presente portaria para navios novos.
 

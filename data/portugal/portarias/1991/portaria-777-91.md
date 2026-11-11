@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-10-31'
+version_history:
+  file: portaria-777-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-08-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-10-31'
+    amending: pt:dre:406734:por
+    amending_title: Declaração de Rectificação n.º 245/91
+    changes:
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/777/1991/08/08/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:00:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 245/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-777-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,11 +136,15 @@ Manda o Governo, pelo Ministro da Defesa Nacional, para efeitos do disposto nos 
 
 a) Oficiais:
 
-Pilotos (PIL); navegadores (NAV); técnicos de informática (TINF), de operações de meteorologia (TOMET), de operações de circulação aérea e radar de tráfego (TOCART), de operações de detecção e conduta de intercepção (TODCI), de manutenção de material aéreo (TMMA), de manutenção de material terrestre (TMMT), de manutenção de material electrotécnico (TMMEL), de manutenção de armamento e equipamento (TMAEQ), de abastecimento (TABST) e de pessoal e apoio administrativo (TPAA); e polícia aérea (PA);
+Pilotos (PIL); pára-quedistas (PARAQ); navegadores (NAV); técnicos de informática (TINF), de operações de meteorologia (TOMET), de operações de circulação aérea e radar de tráfego (TOCART), de operações de detecção e conduta de intercepção (TODCI), de manutenção de material aéreo (TMMA), de manutenção de material terrestre (TMMT), de manutenção de material electrotécnico (TMMEL), de manutenção de armamento e equipamento (TMAEQ), de abastecimento (TABST) e de pessoal e apoio administrativo (TPAA); e polícia aérea (PA);
+
+> Alterado pelo/a [Declaração de Rectificação n.º 245/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/245-1991-406734), publicado em 1991-10-31.
 
 b) Sargentos e praças:
 
-Operadores de comunicações (OPCOM), de meteorologia (OPMET), de circulação aérea e radarista de tráfego (OPCART), radarista de detecção (OPDET), de informática (OPINF) e de sistemas de assistência e socorro (OPSAS); mecânicos de material aéreo (MMA), de material terrestre (MMT), de electricidade (MELECT), de electrónica (MELECA), de electricidade e instrumentos de avião (MELIAV) e armamento e equipamento (MARME); abastecimentos (ABST); construção e manutenção de infra-estruturas (CMI); serviço de saúde (SS); polícia aérea (PA); secretariado e apoio de serviços (SAS); e músicos (MUS).
+Pára-quedistas (PARAQ); operadores de comunicações (OPCOM), de meteorologia (OPMET), de circulação aérea e radarista de tráfego (OPCART), radarista de detecção (OPDET), de informática (OPINF) e de sistemas de assistência e socorro (OPSAS); mecânicos de material aéreo (MMA), de material terrestre (MMT), de electricidade (MELECT), de electrónica (MELECA), de electricidade e instrumentos de avião (MELIAV) e armamento e equipamento (MARME); abastecimentos (ABST); construção e manutenção de infra-estruturas (CMI); serviço de saúde (SS); polícia aérea (PA); secretariado e apoio de serviços (SAS); e músicos (MUS).
+
+> Alterado pelo/a [Declaração de Rectificação n.º 245/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/245-1991-406734), publicado em 1991-10-31.
 
 2.º As operações de recrutamento e selecção dos candidatos do sexo feminino que voluntariamente se proponham prestar serviço efectivo na força aérea realizar-se-ão em conformidade com as disposições vigentes para os candidatos do sexo masculino.
 

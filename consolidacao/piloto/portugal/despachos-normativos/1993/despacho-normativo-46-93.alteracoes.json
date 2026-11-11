@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Organizações de produtores e outras empresas de produção, empresas de comércio grossista ou equiparado e respectivas organizações representativas para as acções descritas nas alíneas a) e b) do n.º 1;",
+    "depois": "a) Organizações de produtores e outras empresas de produção, empresários de comércio grossista ou equiparado e respectivas organizações representativas, bem como as autarquias locais, para as acções descritas nas alíneas a) e b) do n.º 1;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:677439:por",
+    "alterador": "pt:dre:507264:por"
+  },
+  {
+    "artigo": "unidades 24-24",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) O montante máximo de financiamento é de 80%, até um máximo de 12500 contos por candidatura.",
+    "depois": "b) O montante máximo de financiamento é de 80%, até um máximo de 7500 contos por candidatura.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:677439:por",
+    "alterador": "pt:dre:507264:por"
+  },
+  {
+    "artigo": "unidades 26-29",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7 - A decisão sobre a aceitação e o financiamento das candidaturas será comunicada ao interessado nos 30 dias subsequentes à data de apresentação das mesmas.\n\n8 - Para cada acção prevista, as entidades beneficiárias apenas poderão ser financiadas uma única vez, com excepção das acções de formação e de comunicação, em que se poderão admitir duas candidaturas, em anos não consecutivos, no prazo de vigência do Programa.\n\n9 - As entidades beneficiárias comprometem-se a realizar as acções num prazo máximo de um ano a partir da data da assinatura da convenção de financiamento.\n\n10 - O incumprimento do disposto no número anterior tem como consequência a devolução total dos montantes financiados, acrescidos dos respectivos juros de mora.",
+    "depois": "7 - A decisão sobre a aceitação e o financiamento das candidaturas será comunicada ao interessado nos 60 dias subsequentes à data da apresentação das mesmas.\n\n8 - No prazo de vigência do Programa as entidades beneficiárias podem:\n\na) Candidatar-se às acções de formação e comunicação mais de uma vez, apenas se estas forem complemento de outras já efectuadas e se revelem de particular interesse;\n\nb) Beneficiar de uma 2.ª candidatura para as acções de concepção e realização de embalagens desde que incida sobre outros produtos e ou outro tipo de embalagens.\n\n9 - As entidades beneficiárias comprometem-se a realizar as acções num prazo máximo de um ano a partir da data da comunicação da sua aprovação, findo o qual o financiamento poderá ser cancelado.\n\n10 - As entidades beneficiárias comprometem-se a cumprir a normalização das frutas e produtos hortícolas frescos, podendo o financiamento ser retirado em consequência de penalizações de acções de controlo e inspecção.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:677439:por",
+    "alterador": "pt:dre:507264:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 34-43",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O distintivo a que se refere a alínea e) do n.º 3 do Despacho Normativo n.º 16/99, de 3 de Março de 1999, deve obedecer às seguintes características:\n\n1) O distintivo deve ser aplicado directamente no rótulo;\n\n2) O distintivo é constituído por dois círculos concêntricos com os diâmetros de 37 mm e 27 mm, respectivamente;\n\n3) A coroa exterior é dividida ao meio com uma mediatriz amarela (ver nota a) e pintada de cor verde (ver nota b), no lado esquerdo, e de cor vermelha (ver nota c), no lado direito;\n\n4) O círculo interior é de cor branca e deve conter, em caracteres latinos de cor preta, a seguinte inscrição:\n\n«Aprovado pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.»\n\n[(ver distintivos no documento original)](https://files.diariodarepublica.pt/1s/1999/03/070b00/16711673.pdf)\n\n(nota a) Cor amarela - 100.\n\n(nota b) Cor verde - 348.\n\n(nota c) Cor vermelha - 185.",
+    "depois": "O distintivo a que se refere o n.º 1 deve obedecer às seguintes características:\n\n1) O distintivo deve ser aplicado directamente no rótulo;\n\n2) O distintivo é constituído por dois círculos concêntricos, com os diâmetros máximos de 39 mm e 26 mm, respectivamente;\n\n3) A coroa exterior é dividida ao meio com uma mediatriz amarela (a) e pintada de cor verde (b), no lado esquerdo, e de cor vermelha (c), no lado direito;\n\n4) O círculo interior é de cor branca e deve conter, em caracteres latinos de cor preta, a inscrição: «Rótulo aprovado pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas».\n\n[(ver distintivo no documento original)](https://files.diariodarepublica.pt/1s/2000/07/154b00/29572958.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:141657:por",
+    "alterador": "pt:dre:301021:por"
+  }
+]

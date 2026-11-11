@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 15-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção Regional de Agricultura de Trás-os-Montes:\n\nAna Paula Pinto Morais Rodrigues.\n\nRepresentante do Instituto da Conservação da Natureza:",
+    "depois": "Representante da Autoridade Florestal Nacional:\n\nJosé Abílio Soledade Ribeiro Silva.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1406345:por",
+    "alterador": "pt:dre:3228001:por"
+  }
+]

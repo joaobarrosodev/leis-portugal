@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 14-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção Regional de Agricultura do Algarve - Carla Alexandra Rei Carvalheiro Jacinto;\n\nRepresentante do Instituto da Conservação da Natureza - Carlos Alexandre de Brito Vitorino Braga.",
+    "depois": "Representante da Autoridade Florestal Nacional - Carla Alexandra Rei Carvalheiro Jacinto;\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade - Carlos Alexandre de Brito Vitorino Braga;\n\nRepresentante das associações de defesa do ambiente - Udo Schwarzer.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1408010:por",
+    "alterador": "pt:dre:3227989:por"
+  }
+]

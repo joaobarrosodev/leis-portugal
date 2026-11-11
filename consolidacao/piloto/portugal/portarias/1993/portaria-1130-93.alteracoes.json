@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º As organizações da produção promoverão a concentração das lãs não churras dos efectivos ovinos dos seus associados, em armazéns regionais, para venda em leilão, com prévia classificação e avaliação pelo Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA).",
+    "depois": "2.º As organizações da produção promoverão a concentração das lãs não churras isentas de marcas com tinta plástica e alcatrão dos efectivos ovinos dos seus associados, em armazéns regionais, para venda em leilão, com prévia classificação e avaliação pelo Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA);",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:665728:por",
+    "alterador": "pt:dre:262591:por"
+  },
+  {
+    "artigo": "unidades 27-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258b00/61886189.pdf)",
+    "depois": "Penteados brancos:\n\nValor por quilograma\n\nMerinos extra ... 640$00\n\nMerinos finos ... 588$00\n\nMerinos correntes ... 491$00\n\nPrimas ... 416$00\n\nCruzados finos ... 372$00\n\nLavados brancos (para carda):\n\nMerinos extra ... 508$00\n\nMerinos finos ... 473$00\n\nMerinos correntes ... 402$00\n\nPrimas ... 321$00\n\nCruzados finos ... 293$00\n\nCruzados médios ... 250$00\n\nCruzados lustrosos ... 222$00\n\nPeças e aninhos fortes ... 192$00\n\nPontas e chocas ... 161$00\n\nLavados e penteados pigmentados:\n\nDesvalorização de 20% em todas as classe.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:665728:por",
+    "alterador": "pt:dre:262591:por"
+  }
+]

@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-23'
+version_history:
+  file: portaria-1351-2001-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-08-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-23'
+    amending: pt:dre:3227997:por
+    amending_title: Portaria n.º 1072/2009
+    changes:
+    - Altera Artigo unidades 8-9
+    - Altera Artigo unidades 11-15
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:16:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1072/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2001/portaria-1351-2001-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,21 +127,31 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Representantes dos caçadores:
 
-Manuel Moreira Coutinho;
+Manuel Moreira Coutinho.
 
-João Manuel Oliveira Bernardes;
+João Manuel Oliveira Bernardes.
+
+> Alterado pelo/a [Portaria n.º 1072/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1072-2009-3227997), publicado em 2009-10-23.
 
 Representantes dos agricultores:
 
-Manuel António Carvalho Campos;
+Manuel António Carvalho Campos.
 
-Armando Gabriel dos Reis Assis Miranda;
+Armando Gabriel dos Reis Assis Miranda.
 
-Representante das associações de defesa do ambiente - Pedro Nuno Gomes Bastos Martins;
+Representante das associações de defesa do ambiente:
 
-Autarca de freguesia - Antero Jorge Teixeira Borges;
+Pedro Nuno Gomes Bastos Martins.
 
-Representante da Direcção Regional de Agricultura de Entre-Douro e Minho - Carlos Alberto Pereira.
+Autarca de freguesia:
+
+Antero Jorge Teixeira Borges.
+
+Representante da Autoridade Florestal Nacional
+
+Julieta Manuela Ribeiro Sampaio Calçada Duarte.
+
+> Alterado pelo/a [Portaria n.º 1072/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1072-2009-3227997), publicado em 2009-10-23.
 
 2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.
 

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Administração e Técnicas Aduaneiras - 30;\n\nb) Auditoria - 30;\n\nc) Controlo Financeiro - 30;\n\nd) Secretariado e Gestão - 30;\n\ne) Contabilidade e Administração - 30.",
+    "depois": "a) Administração e Técnicas Aduaneiras - 40;\n\nb) Auditoria - 40;\n\nc) Controlo Financeiro - 40;\n\nd) Secretariado e Gestão - 40;\n\ne) Contabilidade e Administração - 40.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:668676:por",
+    "alterador": "pt:dre:269603:por"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 14-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - São objecto de publicação no Boletim do Trabalho e Emprego:",
+    "depois": "4 - São objeto de publicação no Boletim do Trabalho e Emprego:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1448209:por",
+    "alterador": "pt:dre:108322281:por"
+  },
+  {
+    "artigo": "unidades 16-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Portarias que aprovam os regulamentos de condições mínimas, despachos de constituição de comissões técnicas para a elaboração dos estudos preparatórios e respectivos avisos;\n\nc) Portarias que aprovam os regulamentos de extensão e respectivos avisos;",
+    "depois": "b) Portarias de condições de trabalho, despachos de constituição de comissões técnicas para a elaboração dos estudos preparatórios;\n\nc) Portarias de extensão;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1448209:por",
+    "alterador": "pt:dre:108322281:por"
+  },
+  {
+    "artigo": "unidades 28-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6 - Os projectos de diplomas relativos a legislação do trabalho, igualmente transmitidos em ficheiro electrónico em formato Word não editável, são publicados para apreciação pública na separata do Boletim do Trabalho e Emprego.",
+    "depois": "6 - São publicados, para apreciação pública, em separata do Boletim do Trabalho e Emprego:\n\na) Os projetos de diplomas relativos a legislação do trabalho a aprovar pelo Governo da República, transmitidos em ficheiro eletrónico em formato Word não editável;\n\nb) Os avisos de projetos de portarias de condições de trabalho e de extensão.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1448209:por",
+    "alterador": "pt:dre:108322281:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Com fundamento no estabelecido pelos artigos 19.º, 20.º e 25.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 64.º do [Decreto-Lei n.º 251/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1982-395352), de 12 de Novembro;",
+    "depois": "Com fundamento no estabelecido pelos artigos 19.º, 20.º e 25.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 64.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687033:por",
+    "alterador": "pt:dre:451186:por"
+  }
+]

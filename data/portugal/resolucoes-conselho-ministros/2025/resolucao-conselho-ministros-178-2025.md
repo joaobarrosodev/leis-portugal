@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-05-30'
+version_history:
+  file: resolucao-conselho-ministros-178-2025.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2025-11-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-05-30'
+    amending: pt:dre:1125716290:por
+    amending_title: Resolução do Conselho de Ministros n.º 100/2026
+    changes:
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/178/2025/11/21/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:36:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 100/2026. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2025/resolucao-conselho-ministros-178-2025.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -163,7 +178,9 @@ Nos termos da alínea e) do artigo 17.º do [Decreto-Lei n.º 197/99](https://di
 
 3 - Determinar que o procedimento de alienação do imóvel referido no n.º 1 é iniciado após a autorização prevista no artigo 33.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho.
 
-4 - Estabelecer que os encargos são suportados por verba inscrita no orçamento da SGMAI, integralmente no ano de 2025.
+4 - Estabelecer que os encargos são suportados por verba inscrita no orçamento da SGMAI, integralmente no ano de 2026.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 100/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/100-2026-1125716290), publicado em 2026-05-25.
 
 5 - Determinar que a SGMAI, em nome e por conta do Estado, celebre o contrato de aquisição do imóvel referido no n.º 1.
 

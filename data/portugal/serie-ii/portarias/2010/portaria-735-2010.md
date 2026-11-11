@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-04-26'
+version_history:
+  file: portaria-735-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-10-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-04-26'
+    amending: pt:dre:2898262:por
+    amending_title: Portaria n.º 187/2012
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:27:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 187/2012. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2010/portaria-735-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,7 +140,9 @@ Assim, ao abrigo do disposto no n.º 1 do artigo 12.º e na alínea n) do n.º 3
 
 Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
-1.º No processo de rearticulação da Força Nacional Destacada (FND) do Afeganistão, compreendendo, designadamente, em conjugação com a retracção da Quick Reaction Force (QRF), em Setembro de 2010, a constituição da PRT FND ISAF, é autorizado o Chefe do Estado-Maior-General das Forças Armadas a aprontar, sustentar e empregar o Contingente Nacional de apoio à ISAF com o respectivo comandante, perfazendo um efectivo máximo de 191 militares no TO, integrando todas as equipas de formadores/instrutores (40 militares), a OMLT de Guarnição (11 militares), a OMLT da Capital Division (17 militares), o Módulo de Apoio (111 militares), a Célula de Informações Militares (4 militares) e o pessoal destacado no QG no TO do Afeganistão (7 militares).
+1.º É autorizado o Chefe do Estado-Maior-General das Forças Armadas, a aprontar, sustentar e empregar o contingente nacional de apoio à ISAF com o respetivo comandante, perfazendo um efetivo máximo de 235 militares no TO, integrando a Advisor Team (AT) de Divisão (12 militares), as Equipas de Formadores/Instrutores (20 militares), a Unidade de Apoio (93 militares), a Força de Proteção (FP) para o KAIA FP (65 militares), a Célula de Informações Militares (6 militares) e o pessoal destacado no QG e no KAIA (32 militares). As equipas de Formadores/Instrutores incluem uma componente da Guarda Nacional Republicana, com 15 militares;
+
+> Alterado pelo/a [Portaria n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/portaria/187-2012-2898262), publicado em 2012-04-26.
 
 2.º A duração das missões referidas no n.º 1.º é de seis meses, prorrogável por iguais períodos, enquanto se mantiverem as condições que deram origem às mesmas, com início em Março de 2009 para a OMLT de Guarnição, OMLT da Capital Division, Módulo de Apoio e pessoal destacado no QG e em Outubro de 2010 para as restantes participações.
 

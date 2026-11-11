@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Autarca de freguesia:\n\nLuís Adriano Areias da Silva.\n\nRepresentante da Direcção Regional de Agricultura de Entre Douro e Minho:\n\nSilvério José Alves de Carvalho.\n\nRepresentante do Instituto da Conservação da Natureza:\n\nJosé Marcos Ferreira de Azevedo Guerra Liberal.",
+    "depois": "Autarca de freguesia - Luís Adriano Areias da Silva.\n\nRepresentante da Autoridade Florestal Nacional - Augusto João Barbosa Maia.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade - José Marcos Ferreira de Azevedo Guerra Liberal.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1494694:por",
+    "alterador": "pt:dre:2598674:por"
+  }
+]

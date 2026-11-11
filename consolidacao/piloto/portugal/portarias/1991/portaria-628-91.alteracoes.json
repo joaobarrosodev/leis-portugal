@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "De acordo com os princípios adoptados na elaboração das anteriores cartas da Reserva Agrícola Nacional relativas à área de intervenção da Direcção Regional de Agricultura da Beira Litoral, procede-se agora à aprovação da carta da reserva Agrícola de Almeirim.",
+    "depois": "De acordo com os princípios adoptados na elaboração das anteriores cartas da Reserva Agrícola Nacional relativas à área de intervenção da Direcção Regional de Agricultura do Ribatejo e Oeste, procede-se agora à aprovação da carta da reserva Agrícola de Almeirim.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:673070:por",
+    "alterador": "pt:dre:682203:por"
+  },
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º Os pareceres favoráveis emitidos pela Comissão Regional da Reserva Agrícola de Entre Douro e Minho até à entrada em vigor do presente regulamento carecem da confirmação do mesmo órgão.",
+    "depois": "4.º Os pareceres favoráveis emitidos pela Comissão Regional da Reserva Agrícola do Ribatejo e Oeste até à entrada em vigor do presente regulamento carecem da confirmação do mesmo órgão.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:673070:por",
+    "alterador": "pt:dre:682203:por"
+  }
+]

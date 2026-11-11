@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Autorizar, nos termos do artigo 1.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a cessão a título definitivo, ao município da Nazaré, de uma parcela de terreno com a área de 296 394 m2, a destacar do prédio inscrito na matriz predial rústica de Valado dos Frades sob o artigo 2116, descrito na Conservatória do Registo Predial de Alcobaça na ficha n.º 00032/070486/Valado dos Frades e registado, a favor do Estado, pela inscrição G-1.",
+    "depois": "1 - Autorizar, nos termos do artigo 1º do Decreto-Lei nº 97/70, de 13 de Março, a cessão a título definitivo, ao Município da Nazaré, de uma parcela de terreno com a área de 296 394 m2, a destacar do prédio inscrito na matriz predial rústica da Nazaré sob o artigo 1 - Secção U1 a U19, descrito na Conservatória do Registo Predial da Nazaré na ficha nº 470/19860407/Nazaré e registado, a favor do Estado, pela inscrição G-1",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1086574:por",
+    "alterador": "pt:dre:1820298:por"
+  }
+]

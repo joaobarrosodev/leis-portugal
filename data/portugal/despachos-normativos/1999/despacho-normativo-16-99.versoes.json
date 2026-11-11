@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:141657:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-03-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e8478b10d38bd87a",
+    "7e8a01d176bf3438"
+   ]
+  },
+  {
+   "date": "2000-07-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:301021:por",
+     "title": "Despacho Normativo n.º 30/2000",
+     "published": "2000-07-06",
+     "dre_path": "/dr/detalhe/despacho-normativo/30-2000-301021"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 34-43"
+   ],
+   "fragments": [
+    "e8478b10d38bd87a",
+    "c437f54ef6f62428"
+   ]
+  }
+ ],
+ "fragments": {
+  "e8478b10d38bd87a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Regulamento (CEE) n.º [1906/90](http://data.europa.eu/eli/reg/1990/1906/oj?locale=pt), do Conselho, de 26 de Junho, que estabelece as normas de comercialização para as aves de capoeira, e o Regulamento (CEE) n.º [1538/91](http://data.europa.eu/eli/reg/1991/1538/oj?locale=pt), da Comissão, de 5 de Junho, que estabelece as respectivas regras de execução, prevêem que o controlo das indicações a figurar na rotulagem, apresentação e publicidade, entre outros, do modo de criação das aves de capoeira, de acordo com os critérios definidos na norma europeia EN-45 011, de 26 de Junho de 1989.\n\nConsiderando que os citados diplomas remetem para normas nacionais a definição das entidades competentes para a aplicação deste regime com vista ao reconhecimento dos adequados procedimentos de controlo e à credibilização junto do consumidor das referidas indicações;\n\nAo abrigo do disposto no artigo 8.º do Regulamento (CEE) n.º [1906/90](http://data.europa.eu/eli/reg/1990/1906/oj?locale=pt), do Conselho, de 26 de Junho, determino o seguinte:\n\n1 - A indicação dos tipos de criação das aves de capoeira e das outras menções que podem constar no rótulo, de acordo com o disposto no artigo 10.º do Regulamento (CEE) n.º [1538/91](http://data.europa.eu/eli/reg/1991/1538/oj?locale=pt), da Comissão, dependem da aprovação de um caderno de especificações do qual constem:\n\na) As menções a incluir na rotulagem;\n\nb) As medidas a tomar para assegurar a exactidão dessas menções;\n\nc) Os controlos a efectuar em todas as fases da produção e venda, incluindo os controlos a efectuar por um organismo independente designado pelos produtores;\n\nd) As licenças ou autorizações necessárias para o exercício da actividade.\n\n2 - A aprovação do caderno de especificações que inclua menções relativas à indicação geográfica ou denominação de origem deve ser precedida de parecer prévio da Direcção-Geral do Desenvolvimento Rural.\n\n3 - Compete ao Gabinete de Planeamento e de Política Agro-Alimentar (GPPAA):\n\na) Receber, analisar e aprovar o caderno de especificações;\n\nb) Reconhecer os organismos de controlo e promover a publicação do respectivo aviso no Diário da República, 2.ª série;\n\nc) Organizar e manter devidamente actualizado um registo central dos organismos de controlo reconhecidos e dos cadernos de especificações aprovados;\n\nd) Autorizar as indicações dos tipos de criação previstas no artigo 10.º do Regulamento (CEE) n.º [1538/91](http://data.europa.eu/eli/reg/1991/1538/oj?locale=pt), da Comissão, no rótulo e promover a sua publicação no Diário da República, 2.ª série;\n\ne) Do rótulo deve igualmente constar um distintivo onde conste a sua aprovação pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, conforme modelo em anexo;\n\nf) Promover e actualizar anualmente um inventário donde constem os organismos de controlo reconhecidos e os produtores abrangidos pelos cadernos de especificação aprovados;\n\ng) Acompanhar o trabalho desenvolvido pelos organismos de controlo.\n\n4 - Podem ser reconhecidos como organismos de controlo as entidades privadas indicadas pelos operadores que:\n\na) Possuam personalidade jurídica;\n\nb) Disponham de meios humanos e materiais necessários às operações de controlo;\n\nc) Ofereçam garantias adequadas de objectividade e imparcialidade em relação aos produtores, transformadores e comerciantes sob o seu controlo;\n\nd) Cumpram os critérios previstos na norma europeia EN-45 011, de 26 de Junho de 1989.\n\n5 - A manutenção do reconhecimento obriga o organismo de controlo a:\n\na) Assegurar as funções para as quais foi reconhecido;\n\nb) Manter o GPPAA informado sobre eventuais alterações efectuadas nos procedimentos que serviram de base à avaliação inicial;\n\nc) Instituir procedimentos de cooperação com o GPPAA, designadamente facultando o acesso dos funcionários e agentes daquele Gabinete às suas instalações e fornecendo todas as informações solicitadas;\n\nd) Enviar, anualmente e nos prazos requeridos, a lista de produtores sujeitos ao regime de controlo, bem como o seu relatório de actividades;\n\ne) Cumprir os demais requisitos específicos constantes de cada um dos regulamentos comunitários aplicáveis.\n\n6 - O reconhecimento pode ser anulado a pedido do organismo de controlo ou revogado pelo GPPAA, quando se constatar algum incumprimento face ao que se encontra estipulado no número anterior, e promover a publicação do respectivo aviso no Diário da República, 2.ª série.\n\n7 - Com o objectivo de assegurar um adequado exercício das competências atribuídas em matéria de controlo, designadamente à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar, Direcção-Geral de Veterinária e direcções regionais de agricultura, o GPPAA deve facultar toda a informação relativa aos cadernos de especificações, devendo estes organismos estabelecer procedimentos de colaboração regular tendentes a prevenir e actuar sempre que sejam detectadas irregularidades.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas, 3 de Março de 1999. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos."
+  },
+  "7e8a01d176bf3438": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nO distintivo a que se refere a alínea e) do n.º 3 do Despacho Normativo n.º 16/99, de 3 de Março de 1999, deve obedecer às seguintes características:\n\n1) O distintivo deve ser aplicado directamente no rótulo;\n\n2) O distintivo é constituído por dois círculos concêntricos com os diâmetros de 37 mm e 27 mm, respectivamente;\n\n3) A coroa exterior é dividida ao meio com uma mediatriz amarela (ver nota a) e pintada de cor verde (ver nota b), no lado esquerdo, e de cor vermelha (ver nota c), no lado direito;\n\n4) O círculo interior é de cor branca e deve conter, em caracteres latinos de cor preta, a seguinte inscrição:\n\n«Aprovado pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.»\n\n[(ver distintivos no documento original)](https://files.diariodarepublica.pt/1s/1999/03/070b00/16711673.pdf)\n\n(nota a) Cor amarela - 100.\n\n(nota b) Cor verde - 348.\n\n(nota c) Cor vermelha - 185."
+  },
+  "c437f54ef6f62428": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": "2000-07-11",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 30/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-2000-301021), publicado em 2000-07-06."
+   ],
+   "markdown": "## ANEXO\n\nO distintivo a que se refere o n.º 1 deve obedecer às seguintes características:\n\n1) O distintivo deve ser aplicado directamente no rótulo;\n\n2) O distintivo é constituído por dois círculos concêntricos, com os diâmetros máximos de 39 mm e 26 mm, respectivamente;\n\n3) A coroa exterior é dividida ao meio com uma mediatriz amarela (a) e pintada de cor verde (b), no lado esquerdo, e de cor vermelha (c), no lado direito;\n\n4) O círculo interior é de cor branca e deve conter, em caracteres latinos de cor preta, a inscrição: «Rótulo aprovado pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas».\n\n[(ver distintivo no documento original)](https://files.diariodarepublica.pt/1s/2000/07/154b00/29572958.pdf)\n\n> Alterado pelo/a [Despacho Normativo n.º 30/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-2000-301021), publicado em 2000-07-06."
+  }
+ }
+}

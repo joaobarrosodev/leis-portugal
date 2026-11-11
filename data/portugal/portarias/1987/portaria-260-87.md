@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-03-09'
+version_history:
+  file: portaria-260-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-04-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-03-09'
+    amending: pt:dre:612821:por
+    amending_title: Portaria n.º 180/89
+    changes:
+    - Altera Artigo unidades 7-7
+    - Adita Artigo depois da unidade 15
+    - Altera Artigo unidades 20-20
+    - Altera Artigo unidades 22-22
 identifiers:
   celex: null
   eli: null
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:03:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 180/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-260-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,7 +134,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Pescas e
 
 Indirectamente, a melhoria de dotações permitirá a utilização de tecnologias adequadas na produção agrícola com recurso acrescido dos factores de produção (sementes seleccionadas, adubos, máquinas agrícolas, etc.).
 
-2.º O programa tem a duração de dez anos e dispõe de orçamento aprovado para uma primeira fase de três anos.
+2.º O Programa cobre todo o território continental e tem uma duração de dez anos, dispondo de orçamento aprovado até 1991.
+
+> Alterado pelo/a [Portaria n.º 180/89](https://diariodarepublica.pt/dr/detalhe/portaria/180-1989-612821), publicado em 1989-03-04.
 
 3.º Os principais trabalhos a realizar são:
 
@@ -134,6 +154,12 @@ Limpeza e ou correcção de pequenas linhas de água;
 
 Trabalhos de drenagem;
 
+Construção e reparação de pequenas barragens;
+
+Instalação de contadores.
+
+> Aditado pelo/a [Portaria n.º 180/89](https://diariodarepublica.pt/dr/detalhe/portaria/180-1989-612821), publicado em 1989-03-04.
+
 2) No domínio da extensão rural:
 
 Divulgação de novas técnicas culturais;
@@ -142,11 +168,15 @@ Introdução de novas culturas.
 
 4.º Os beneficiários serão os agricultores dos regadios tradicionais, que se organizarão constituindo juntas de agricultores ou cooperativas de rega.
 
-5.º Os projectos de investimento para beneficiação dos regadios tradicionais são suportados em 75% pelas Comunidades Europeias e em 25% pelo Estado Português nas zonas desfavorecidas delimitadas ao abrigo da Directiva n.º [75/268/CEE](http://data.europa.eu/eli/dir/1975/268/oj?locale=pt). Nas restantes zonas são suportados em 60% pelas Comunidades Europeias e em 20% pelo Estado Português.
+5.º Os projectos de investimento para beneficiação dos regadios tradicionais são subsidiados em 90% do seu custo.
+
+> Alterado pelo/a [Portaria n.º 180/89](https://diariodarepublica.pt/dr/detalhe/portaria/180-1989-612821), publicado em 1989-03-04.
 
 6.º Sempre que haja lugar à comparticipação dos agricultores, nos termos referidos no número anterior, a disponibilidade dessa comparticipação deverá ser assegurada previamente à execução dos projectos.
 
-7.º A implementação deste programa será levada a cabo, na primeira fase, nas áreas das Direcções Regionais de Agricultura de Entre Douro e Minho, Trás-os-Montes, Beira Litoral, Beira Interior e Ribatejo e Oeste.
+7.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 180/89](https://diariodarepublica.pt/dr/detalhe/portaria/180-1989-612821), publicado em 1989-03-04.
 
 8.º A sua execução é da responsabilidade das direcções regionais de agricultura (DRA). A Direcção-Geral de Hidráulica e Engenharia Agrícola (DGHEA) será a entidade coordenadora, podendo prestar apoio técnico na sua execução, quando solicitada pelas DRA.
 

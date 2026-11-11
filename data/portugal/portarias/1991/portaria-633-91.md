@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-23'
+version_history:
+  file: portaria-633-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-07-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-23'
+    amending: pt:dre:245277:por
+    amending_title: Portaria n.º 993-B/97
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/633/1991/07/12/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:57:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 993-B/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-633-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,7 +148,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Sobral da Lagoa, concelho de Óbidos, com uma área de 488 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante na planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Sobral da Lagoa, município de Óbidos, com a área de 402,8930 ha.
+
+> Alterado pelo/a [Portaria n.º 993-B/97](https://diariodarepublica.pt/dr/detalhe/portaria/993-b-1997-245277), publicado em 1997-09-22.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 993-B/97](https://diariodarepublica.pt/dr/detalhe/portaria/993-b-1997-245277), publicado em 1997-09-22.
 
 2.º Pelo presente diploma é concessionada, pelo período de 20 anos, ao Clube de Caçadores do Sobral da Lagoa (registo na Direcção-Geral das Florestas n.º 3.783.90), com sede em Sobral da lagoa, Óbidos, a zona de caça associativa da freguesia de Sobral da Lagoa (processo n.º 702 da Direcção-Geral das Florestas).
 

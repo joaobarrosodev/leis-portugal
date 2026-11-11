@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Autarca de freguesia:\n\nFernando Manuel de Barros Gonçalves.\n\nRepresentante da Direcção Regional de Agricultura de Entre Douro e Minho:\n\nLaura Maria Neves de Lemos.",
+    "depois": "Autarca de freguesia - Fernando Manuel de Barros Gonçalves.\n\nRepresentante da Autoridade Florestal Nacional - Augusto João Barbosa Maia.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2435122:por",
+    "alterador": "pt:dre:3228002:por"
+  }
+]

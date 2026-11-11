@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-03-13'
+version_history:
+  file: portaria-981-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-10-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-03-13'
+    amending: pt:dre:2616941:por
+    amending_title: Portaria n.º 316/2004 (2.ª série)
+    changes:
+    - Altera Artigo unidades 16-16
+    - Adita Artigo depois da unidade 16
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/981/1999/10/30/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:19:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 316/2004 (2.ª série).
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-981-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,6 +160,24 @@ e) O período de vigência.
 
 4.º A emissão do cartão de utente do Serviço Nacional de Saúde deverá ser assegurada pelos serviços competentes, no prazo máximo de 90 dias após o pedido de inscrição dos beneficiários.
 
-5.º O montante da comparticipação nos anos de 1999 e de 2000 é de 29000$00 por beneficiário inscrito, em pleno gozo dos seus direitos.
+5.º O montante da comparticipação por beneficiário do subsistema inscrito na base de dados do cartão de saúde com essa qualidade é fixado no ano de 2004 em Euro 181.
+
+> Alterado pelo/a [Portaria n.º 316/2004 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/316-2004-2616941), publicado em 2004-03-13.
+
+6.º O valor fixado no número anterior é actualizado de acordo com a variação do índice de preços no consumidor do sector da saúde registada no ano civil imediatamente anterior.
+
+7.º Aos valores referidos nos números anteriores acrescem nos anos referidos os seguintes montantes:
+
+2004 - Euro 100;
+
+2005 - Euro 120;
+
+2006 - Euro 140;
+
+2007 - Euro 155;
+
+2008 - Euro 170.
+
+> Aditado pelo/a [Portaria n.º 316/2004 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/316-2004-2616941), publicado em 2004-03-13.
 
 Pela Ministra da Saúde, Francisco Ventura Ramos, Secretário de Estado da Saúde, em 30 de Agosto de 1999.

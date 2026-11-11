@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 14-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante das zonas de caça turísticas - Pedro José Carvalho Branco.\n\nRepresentantes das organizações não governamentais do ambiente - Emílio Moitas.\n\nAutarca de freguesia - Adriano José Chambel.\n\nRepresentante da Direcção-Geral dos Recursos Florestais - Luís Cordeiro Esteves Carias.",
+    "depois": "Representante das zonas de caça turísticas:\n\nPedro José Carvalho Branco.\n\nRepresentantes das organizações não governamentais do ambiente:\n\nEmílio Moitas\n\nAutarca de freguesia:\n\nAdriano José Chambel.\n\nRepresentante da Autoridade Florestal Nacional:\n\nJoaquim Fernando Pinheiro Brito.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1310149:por",
+    "alterador": "pt:dre:3227996:por"
+  }
+]

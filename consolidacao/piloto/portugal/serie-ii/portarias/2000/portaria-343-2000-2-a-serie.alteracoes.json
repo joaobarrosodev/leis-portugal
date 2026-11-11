@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 14-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Autarca de freguesia:\n\nRui Octávio Lino.\n\nRepresentante dos serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas:\n\nManuel Cardoso Lage.",
+    "depois": "Autarca de freguesia - Rui Octávio Lino.\n\nRepresentante da Autoridade Florestal Nacional - Maria João Martins Gonçalves Pinheiro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2118617:por",
+    "alterador": "pt:dre:2598673:por"
+  }
+]

@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-11-02'
+version_history:
+  file: portaria-1766-2002-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-11-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-11-02'
+    amending: pt:dre:2598877:por
+    amending_title: Portaria n.º 1152/2009
+    changes:
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 16-16
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:30:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1152/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2002/portaria-1766-2002-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,11 +143,15 @@ Francisco Manuel Roque.
 
 Autarca de freguesia - Custódio Jacinto Gingão.
 
-Representante da Direcção Regional de Agricultura do Alentejo - Possidónio Jaime Rosado Ribeiro.
+Representante da Autoridade Florestal Nacional - José Caimoto e Sousa.
+
+> Alterado pelo/a [Portaria n.º 1152/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1152-2009-2598877), publicado em 2009-11-02.
 
 Representante das associações de defesa do ambiente - António Joaquim Lobo da Silveira Romeiras.
 
-Representante do Instituto da Conservação da Natureza - Luís Carloto Marques.
+Representante do Instituto da Conservação da Natureza e da Biodiversidade - Luís Carloto Marques.
+
+> Alterado pelo/a [Portaria n.º 1152/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1152-2009-2598877), publicado em 2009-11-02.
 
 2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.
 

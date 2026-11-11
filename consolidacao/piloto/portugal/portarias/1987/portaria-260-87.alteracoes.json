@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º O programa tem a duração de dez anos e dispõe de orçamento aprovado para uma primeira fase de três anos.",
+    "depois": "2.º O Programa cobre todo o território continental e tem uma duração de dez anos, dispondo de orçamento aprovado até 1991.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:666571:por",
+    "alterador": "pt:dre:612821:por"
+  },
+  {
+    "artigo": "depois da unidade 15",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "Construção e reparação de pequenas barragens;\n\nInstalação de contadores.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:666571:por",
+    "alterador": "pt:dre:612821:por"
+  },
+  {
+    "artigo": "unidades 20-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º Os projectos de investimento para beneficiação dos regadios tradicionais são suportados em 75% pelas Comunidades Europeias e em 25% pelo Estado Português nas zonas desfavorecidas delimitadas ao abrigo da Directiva n.º [75/268/CEE](http://data.europa.eu/eli/dir/1975/268/oj?locale=pt). Nas restantes zonas são suportados em 60% pelas Comunidades Europeias e em 20% pelo Estado Português.",
+    "depois": "5.º Os projectos de investimento para beneficiação dos regadios tradicionais são subsidiados em 90% do seu custo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:666571:por",
+    "alterador": "pt:dre:612821:por"
+  },
+  {
+    "artigo": "unidades 22-22",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º A implementação deste programa será levada a cabo, na primeira fase, nas áreas das Direcções Regionais de Agricultura de Entre Douro e Minho, Trás-os-Montes, Beira Litoral, Beira Interior e Ribatejo e Oeste.",
+    "depois": "7.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:666571:por",
+    "alterador": "pt:dre:612821:por"
+  }
+]

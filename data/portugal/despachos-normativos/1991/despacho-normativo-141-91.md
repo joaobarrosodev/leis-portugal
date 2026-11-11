@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-10-04'
+version_history:
+  file: despacho-normativo-141-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-07-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-10-04'
+    amending: pt:dre:293758:por
+    amending_title: Despacho Normativo n.º 218/91
+    changes:
+    - Altera Artigo unidades 24-39
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/141/1991/07/16/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:49:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 218/91. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1991/despacho-normativo-141-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -185,23 +200,23 @@ Ministério da Agricultura, Pescas e Alimentação, 28 de Junho de 1991. - Pelo 
 
 ## ANEXO
 
-Lista das raças bovinas, a que alude o n.º 6, que não poderão ser consideradas para efeitos de atribuição do prémio para manutenção dos rebanhos de vacas aleitantes, pelo Regulamento (CEE) n.º [1357/80](http://data.europa.eu/eli/reg/1980/1357/oj?locale=pt), com a última alteração que lhe foi introduzida pelo Regulamento (CEE) n.º [3802/85](http://data.europa.eu/eli/reg/1985/3802/oj?locale=pt):
+Lista das raças bovinas a que alude o n.º 6 que não poderão ser consideradas para efeitos de atribuição do prémio para manutenção de vacas aleitantes pelo Regulamento (CEE) n.º [1357/80](http://data.europa.eu/eli/reg/1980/1357/oj?locale=pt), com a última alteração que lhe foi introduzida pelo Regulamento (CEE) n.º [2769/90](http://data.europa.eu/eli/reg/1990/2769/oj?locale=pt):
 
-Vermelha da Dinamarca (Red Danish);
+Angler Rotvieh (Angeln)-Red Dansk Maelkerace (RDM);
 
 Ayreshire;
 
 Armoricaine;
 
-Pata-Negra da Bretanha;
+Bretonne Pie Noire;
 
-Frísia Holandesa, Frísia Pata-Negra Francesa, Holstein Frísia, Holstein, Frísia Branca e Preta, Frísia Vermelha e Branca, Frísia Italiana, Pata-Negra Belga, Pata-Negra Dinamarquesa, Pata-Negra Alemã;
+Fries-Holand (FH), Française Frisonne Pie Noire (FFPN), Friesien-Holstein, Holstein, Black and White Friesian, Red and White Friesian, Frisona Italiana, Zwartbonten van Belgie/Pie Noire de Belgique, Sortbroget Dansk Maelkerace (SDM), Deutsche Schwarzbunte;
 
-Frísia Espanhola;
+Frisona Espagnola;
 
-Groninger Blaarkop;
+Groninger Blaaarkop;
 
-Guernesey;
+Guernsey;
 
 Jersey;
 
@@ -215,4 +230,8 @@ Reggiana;
 
 Tarentaise-Tarina;
 
-Valdostana Preta.
+Valdostana Nera;
+
+Schwarzbunte Milchrasse (SMR).
+
+> Alterado pelo/a [Despacho Normativo n.º 218/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/218-1991-293758), publicado em 1991-10-03.

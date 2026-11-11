@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-07-31'
+version_history:
+  file: declaracao-retificacao-146-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-06-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-07-31'
+    amending: pt:dre:521577:por
+    amending_title: Declaração de Rectificação n.º 177/91
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declrectif/146/1991/06/29/p/dre/pt/html
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T18:29:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 177/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/declaracoes-retificacao/1991/declaracao-retificacao-146-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -100,7 +115,9 @@ Segundo comunicação da 12.ª Delegação da Direcção-Geral da Contabilidade 
 
 No cap. 01, div. 02, subdiv. 01, onde se lê «C. E. 02.03.01 - Material de secretaria» deve ler-se «C. E. 02.01.03 - Material de secretaria».
 
-No cap. 03, div. 02, subdiv. 01, C. E. 02.03.01, na col. «Reforços ou inscrições», onde se lê «5 contos» deve ler-se «-».
+No cap. 03, div. 02, subdiv. 01, C. E. 02.03.08, na col. «Reforços ou inscrições», onde se lê «5 contos» deve ler-se «-».
+
+> Alterado pelo/a [Declaração de Rectificação n.º 177/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/177-1991-521577), publicado em 1991-07-31.
 
 No cap. 03, div. 02, subdiv. 03, entre os códigos da C. E. 02.03.01 e 02.03.08 deve constar o código «C. E. 02.03.06 - Comunicações - 304 contos», na col. «Reforços ou inscrições».
 

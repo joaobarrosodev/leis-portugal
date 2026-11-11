@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-03-17'
+version_history:
+  file: portaria-1024-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-11-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-03-17'
+    amending: pt:dre:514775:por
+    amending_title: Portaria n.º 153/2000
+    changes:
+    - Altera Artigo unidades 65-83
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1024/1999/11/18/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:12:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 153/2000. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-1024-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -243,43 +258,45 @@ f) O interno deverá participar activamente nos programas de formação do servi
 
 Cirurgia do ouvido:
 
-Miringotomia com ou sem tubos de ventilação;
+Miringotomia com ou sem tubos de ventilação - 30;
 
-Mastoidectomias e timpanonastoidectomias;
+Mastoidectomias e timpanomastoidectomias - 10;
 
-Timpanoplastias;
+Timpanoplastias - 10;
 
-Estapedectomias/estapedotomias;
+Estapedectomias/estapedotomias - 2.
 
 Cirurgia de nariz e seios perinasais:
 
-Septoplastias;
+Septoplastias - 10;
 
-Rinoseptoplastias;
+Rinoseptoplastias - 2;
 
-Cirurgia de seios perinasais técnica convencional/microendoscópica;
+Cirurgia de seios perinasais, técnica convencional/microendoscópica - 10;
 
-Fracturas nasais;
+Fracturas nasais - 5.
 
 Cirurgia da laringe e traqueia:
 
-Traqueotomias;
+Traqueotomias - 8;
 
-Microcirurgia laríngea;
+Microcirurgia laríngea - 15;
 
-Cirurgia oncológica da laringe;
+Cirurgia oncológica da laringe - 2.
 
 Cirurgia oral, faringe e esófago:
 
-Adenoidectomia;
+Adenoidectomia - 30;
 
-Adenoamigdalectomia;
+Adenoamigdalectomia - 20;
 
-Amigdalectomia;
+Amigdalectomia - 10.
 
 Cirurgia do pescoço:
 
-Cirurgia cervical.
+Cirurgia cervical - 5.
+
+> Alterado pelo/a [Portaria n.º 153/2000](https://diariodarepublica.pt/dr/detalhe/portaria/153-2000-514775), publicado em 2000-03-16.
 
 12 - Avaliação dos estágios - a avaliação dos estágios formaliza-se anualmente, terminados os estágios de ORL ou de ORL e opcional.
 

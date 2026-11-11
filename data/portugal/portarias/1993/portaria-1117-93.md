@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-11-30'
+version_history:
+  file: portaria-1117-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-11-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-11-30'
+    amending: pt:dre:661521:por
+    amending_title: Declaração de Rectificação n.º 241/93
+    changes:
+    - Altera Artigo unidades 4-4
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1117/1993/11/03/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:43:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 241/93.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-1117-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,13 +126,17 @@ de 3 de Novembro
 
 O [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio, regula a criação, a competência e o funcionamento das comissões de protecção de menores em todas as comarcas do País, determinando que a respectiva instalação seja declarada por portaria do Ministro da Justiça.
 
-Acções de informação e articulação entre todas as entidades públicas e particulares intervenientes foram já desenvolvidas na comarca de Vila Nova de Poiares com vista à instalação da respectiva comissão de protecção.
+Acções de informação e articulação entre todas as entidades públicas e particulares intervenientes foram já desenvolvidas no concelho de Vila Nova de Poiares com vista à instalação da respectiva comissão de protecção.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 241/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/241-1993-661521), publicado em 1993-11-30.
 
 Assim, ao abrigo do n.º 2 do artigo 22.º do [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio:
 
 Manda o Governo, pelo Ministro da Justiça, o seguinte:
 
-1.º É criada a Comissão de Protecção de Menores da Comarca de Vila Nova de Poiares, que fica instalada em edifício da Câmara Municipal.
+1.º É criada a Comissão de Protecção de Menores do Concelho de Vila Nova de Poiares, que fica instalada em edifício da Câmara Municipal.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 241/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/241-1993-661521), publicado em 1993-11-30.
 
 2.º A Comissão de Protecção de Menores é constituída, nos termos do artigo 13.º do [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio, pelos seguintes elementos:
 

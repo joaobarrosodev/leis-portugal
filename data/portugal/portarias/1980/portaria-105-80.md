@@ -29,10 +29,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-03-19'
+version_history:
+  file: portaria-105-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-03-19'
+    amending: pt:dre:662315:por
+    amending_title: Portaria n.º 183/87
+    changes:
+    - Altera Artigo unidades 4-4
+    - Altera Artigo unidades 5-5
+    - Altera Artigo unidades 7-7
+    - Adita Artigo depois da unidade 9
 identifiers:
   celex: null
   eli: null
@@ -58,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:08:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 183/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-105-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -101,16 +119,26 @@ de 13 de Março
 
 Manda o Governo da República Portuguesa, pelo Ministro da Educação e Ciência, o seguinte:
 
-1.º Por disposição testamentária do Doutor Jayme Eduardo Rios de Sousa, instituído na Faculdade de Ciências da Universidade do Porto um prémio anual com a designação de «Prémio Prof. Doutor Jayme Rios de Sousa», constituído por 50% do rendimento de títulos de crédito no montante de 948645$00.
+1.º Por disposição testamentária do Doutor Jayme Eduardo Rios de Sousa, é instituído na Faculdade de Ciências da Universidade do Porto um prémio anual com a designação «Prémio Prof. Doutor Jayme Rios de Sousa», constituído pelo rendimento anual do fundo depositado para o efeito na Caixa Económica de Lisboa, anexa ao Montepio Geral, pelo prazo que garanta a mais elevada taxa de juro.
 
-2.º - 1 - O prémio será atribuído anualmente ao aluno mais classificado na disciplina de Geometria do bacharelato em Matemática que tiver obtido nota não inferior a 16 valores.
+> Alterado pelo/a [Portaria n.º 183/87](https://diariodarepublica.pt/dr/detalhe/portaria/183-1987-662315), publicado em 1987-03-14.
+
+2.º - 1 - O prémio será atribuído anualmente ao aluno mais classificado na disciplina de Geometria, da licenciatura de Matemática, que tiver obtido nota não inferior a 16 valores.
+
+> Alterado pelo/a [Portaria n.º 183/87](https://diariodarepublica.pt/dr/detalhe/portaria/183-1987-662315), publicado em 1987-03-14.
 
 2 - Em caso de empate, o prémio será dividido em partes iguais pelos alunos empatados.
 
-3 - Em caso de supressão da disciplina de Geometria do bacharelato em Matemática, competirá ao conselho científico da Faculdade de Ciências da Universidade do Porto indicar a disciplina que no n.º 1 deste artigo deverá substituir a de Geometria.
+3 - Em caso de supressão da disciplina de Geometria da licenciatura em Matemática, competirá ao conselho científico da Faculdade de Ciências da Universidade do Porto indicar a disciplina que no n.º 1 deste n.º 2.º substituirá a de Geometria.
+
+> Alterado pelo/a [Portaria n.º 183/87](https://diariodarepublica.pt/dr/detalhe/portaria/183-1987-662315), publicado em 1987-03-14.
 
 3.º A designação do aluno ou alunos a quem o prémio vier a ser atribuído será feita pelo conselho científico da Faculdade de Ciências da Universidade do Porto e transmitido à Reitoria.
 
 4.º A entrega do prémio compete ao reitor.
+
+5.º Devido à não atribuição do prémio nos anos lectivos de 1980-1981 e seguintes, a primeira vez que este venha a ser distribuído será repartido por todos os alunos que a ele tiverem direito desde aquela date e cujos nomes foram sucessivamente indicados pelo conselho científico da Faculdade de Ciências da Universidade do Porto.
+
+> Aditado pelo/a [Portaria n.º 183/87](https://diariodarepublica.pt/dr/detalhe/portaria/183-1987-662315), publicado em 1987-03-14.
 
 Ministério da Educação e Ciência, 25 de Fevereiro de 1980. - O Ministro da Educação e Ciência, Vítor Pereira Crespo.

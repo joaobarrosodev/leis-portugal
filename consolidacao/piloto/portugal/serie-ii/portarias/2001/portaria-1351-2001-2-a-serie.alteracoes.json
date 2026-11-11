@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Manuel Moreira Coutinho;\n\nJoão Manuel Oliveira Bernardes;",
+    "depois": "Manuel Moreira Coutinho.\n\nJoão Manuel Oliveira Bernardes.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1408007:por",
+    "alterador": "pt:dre:3227997:por"
+  },
+  {
+    "artigo": "unidades 11-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Manuel António Carvalho Campos;\n\nArmando Gabriel dos Reis Assis Miranda;\n\nRepresentante das associações de defesa do ambiente - Pedro Nuno Gomes Bastos Martins;\n\nAutarca de freguesia - Antero Jorge Teixeira Borges;\n\nRepresentante da Direcção Regional de Agricultura de Entre-Douro e Minho - Carlos Alberto Pereira.",
+    "depois": "Manuel António Carvalho Campos.\n\nArmando Gabriel dos Reis Assis Miranda.\n\nRepresentante das associações de defesa do ambiente:\n\nPedro Nuno Gomes Bastos Martins.\n\nAutarca de freguesia:\n\nAntero Jorge Teixeira Borges.\n\nRepresentante da Autoridade Florestal Nacional\n\nJulieta Manuela Ribeiro Sampaio Calçada Duarte.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1408007:por",
+    "alterador": "pt:dre:3227997:por"
+  }
+]

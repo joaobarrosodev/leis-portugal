@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:245124:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-06-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3554396778492f51"
+   ]
+  },
+  {
+   "date": "1991-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:521577:por",
+     "title": "Declaração de Rectificação n.º 177/91",
+     "published": "1991-07-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/177-1991-521577"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-4"
+   ],
+   "fragments": [
+    "06d80a357dc16472"
+   ]
+  }
+ ],
+ "fragments": {
+  "3554396778492f51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Segundo comunicação da 12.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Saúde, a [Declaração n.º 78/91](https://diariodarepublica.pt/dr/detalhe/declaracao/78-1991-616649), publicada no Diário da República, n.º 101, de 3 de Maio de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:\n\nNo cap. 01, div. 02, subdiv. 01, onde se lê «C. E. 02.03.01 - Material de secretaria» deve ler-se «C. E. 02.01.03 - Material de secretaria».\n\nNo cap. 03, div. 02, subdiv. 01, C. E. 02.03.01, na col. «Reforços ou inscrições», onde se lê «5 contos» deve ler-se «-».\n\nNo cap. 03, div. 02, subdiv. 03, entre os códigos da C. E. 02.03.01 e 02.03.08 deve constar o código «C. E. 02.03.06 - Comunicações - 304 contos», na col. «Reforços ou inscrições».\n\nSecretaria-Geral da Presidência do Conselho de Ministros, 17 de Junho de 1991. - O Secretário-Geral, França Martins."
+  },
+  "06d80a357dc16472": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-07-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 177/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/177-1991-521577), publicado em 1991-07-31."
+   ],
+   "markdown": "Segundo comunicação da 12.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Saúde, a [Declaração n.º 78/91](https://diariodarepublica.pt/dr/detalhe/declaracao/78-1991-616649), publicada no Diário da República, n.º 101, de 3 de Maio de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:\n\nNo cap. 01, div. 02, subdiv. 01, onde se lê «C. E. 02.03.01 - Material de secretaria» deve ler-se «C. E. 02.01.03 - Material de secretaria».\n\nNo cap. 03, div. 02, subdiv. 01, C. E. 02.03.08, na col. «Reforços ou inscrições», onde se lê «5 contos» deve ler-se «-».\n\n> Alterado pelo/a [Declaração de Rectificação n.º 177/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/177-1991-521577), publicado em 1991-07-31.\n\nNo cap. 03, div. 02, subdiv. 03, entre os códigos da C. E. 02.03.01 e 02.03.08 deve constar o código «C. E. 02.03.06 - Comunicações - 304 contos», na col. «Reforços ou inscrições».\n\nSecretaria-Geral da Presidência do Conselho de Ministros, 17 de Junho de 1991. - O Secretário-Geral, França Martins."
+  }
+ }
+}

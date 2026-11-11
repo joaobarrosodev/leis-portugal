@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1780089:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2006-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "38548349ab7b5a88"
+   ]
+  },
+  {
+   "date": "2009-10-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:2611430:por",
+     "title": "Portaria n.º 530/2009",
+     "published": "2009-04-29",
+     "dre_path": "/dr/detalhe/portaria/530-2009-2611430"
+    },
+    {
+     "id": "pt:dre:3227995:por",
+     "title": "Portaria n.º 1070/2009",
+     "published": "2009-10-23",
+     "dre_path": "/dr/detalhe/portaria/1070-2009-3227995"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 18-18",
+    "Altera Artigo unidades 19-19",
+    "Altera Artigo unidades 20-21"
+   ],
+   "fragments": [
+    "b7610085c2e1276c"
+   ]
+  }
+ ],
+ "fragments": {
+  "38548349ab7b5a88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição da política cinegética do concelho.\n\nDetermina o n.º 2 do artigo 157.º daquele diploma que, por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 157.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético e da Conservação da Fauna Municipal de Lagos é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nCarlos Alberto da Conceição Silva.\n\nJosé Carlos Fernandes Sousa.\n\nJosé Joaquim Messias Calado.\n\nRepresentantes dos agricultores:\n\nAntónio Francisco Figueiras.\n\nJoão António Rio Rosa Bravo.\n\nRepresentante das organizações não governamentais do ambiente:\n\nJoão Luís Monteiro Valadares Seixas.\n\nAutarca de freguesia:\n\nJoaquim Pedro Martins Parreira Cruz.\n\nRepresentante da Direcção-Geral dos Recursos Florestais:\n\nJosé da Silva Gomes Rodrigues.\n\nRepresentante do Instituto da Conservação da Natureza:\n\nLuís Eduardo M. Ferreira.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n8 de Agosto de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas."
+  },
+  "b7610085c2e1276c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-10-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 530/2009](https://diariodarepublica.pt/dr/detalhe/portaria/530-2009-2611430), publicado em 2009-04-29.",
+    "Alterado pelo/a [Portaria n.º 1070/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1070-2009-3227995), publicado em 2009-10-23.",
+    "Alterado pelo/a [Portaria n.º 530/2009](https://diariodarepublica.pt/dr/detalhe/portaria/530-2009-2611430), publicado em 2009-04-29."
+   ],
+   "markdown": "Pelo [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição da política cinegética do concelho.\n\nDetermina o n.º 2 do artigo 157.º daquele diploma que, por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 157.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético e da Conservação da Fauna Municipal de Lagos é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nCarlos Alberto da Conceição Silva.\n\nJosé Carlos Fernandes Sousa.\n\nJosé Joaquim Messias Calado.\n\nRepresentantes dos agricultores:\n\nAntónio Francisco Figueiras.\n\nJoão António Rio Rosa Bravo.\n\nRepresentante das organizações não governamentais do ambiente:\n\nJoão Luís Monteiro Valadares Seixas.\n\nAutarca de freguesia:\n\nJoaquim Pedro Martins Parreira Cruz.\n\nRepresentante da Autoridade Florestal Nacional:\n\n> Alterado pelo/a [Portaria n.º 530/2009](https://diariodarepublica.pt/dr/detalhe/portaria/530-2009-2611430), publicado em 2009-04-29.\n\nCarla Alexandra Rei Carvalheiro Jacinto.\n\n> Alterado pelo/a [Portaria n.º 1070/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1070-2009-3227995), publicado em 2009-10-23.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade:\n\nRaquel Ventura.\n\n> Alterado pelo/a [Portaria n.º 530/2009](https://diariodarepublica.pt/dr/detalhe/portaria/530-2009-2611430), publicado em 2009-04-29.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n8 de Agosto de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas."
+  }
+ }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "No cap. 03, div. 02, subdiv. 01, C. E. 02.03.01, na col. «Reforços ou inscrições», onde se lê «5 contos» deve ler-se «-».",
+    "depois": "No cap. 03, div. 02, subdiv. 01, C. E. 02.03.08, na col. «Reforços ou inscrições», onde se lê «5 contos» deve ler-se «-».",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:245124:por",
+    "alterador": "pt:dre:521577:por"
+  }
+]

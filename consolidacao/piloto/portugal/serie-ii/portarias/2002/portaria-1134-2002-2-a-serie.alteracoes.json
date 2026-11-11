@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 15-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção Regional de Agricultura de Entre Douro e Minho:\n\nLaura Maria Neves de Lemos.",
+    "depois": "Representante da Autoridade Florestal Nacional:\n\nAugusto João Barbosa Maia.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1331434:por",
+    "alterador": "pt:dre:3227998:por"
+  },
+  {
+    "artigo": "unidades 19-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante do Instituto da Conservação da Natureza:",
+    "depois": "Representante do Instituto da Conservação da Natureza e da Biodiversidade:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1331434:por",
+    "alterador": "pt:dre:3227998:por"
+  }
+]

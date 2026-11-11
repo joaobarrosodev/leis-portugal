@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:666280:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-11-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d1989c6c08b764ae"
+   ]
+  },
+  {
+   "date": "1993-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:661537:por",
+     "title": "Declaração de Rectificação n.º 248/93",
+     "published": "1993-11-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/248-1993-661537"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 16-16"
+   ],
+   "fragments": [
+    "3526fd2275a534dd"
+   ]
+  }
+ ],
+ "fragments": {
+  "d1989c6c08b764ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Novembro\n\nO [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio, regula a criação, a competência e o funcionamento das comissões de protecção de menores em todas as comarcas do País, determinando que a respectiva instalação seja declarada por portaria do Ministro da Justiça.\n\nAcções de informação e articulação entre todas as entidades públicas e particulares intervenientes foram já desenvolvidas na comarca de São João da Madeira com vista à instalação da respectiva comissão de protecção.\n\nAssim, ao abrigo do n.º 2 do artigo 22.º do [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio:\n\nManda o Governo, pelo Ministro da Justiça, o seguinte:\n\n1.º É criada a Comissão de Protecção de Menores da Comarca de São João da Madeira, que fica instalada em edifício da Câmara Municipal.\n\n2.º A Comissão de Protecção de Menores é constituída, nos termos do artigo 13.º do [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio, pelos seguintes elementos:\n\na) Um agente do Ministério Público;\n\nb) Um representante do município;\n\nc) Um representante do Centro Regional de Segurança Social de Aveiro;\n\nd) Um representante dos serviços locais do Ministério da Educação;\n\ne) Um representante das instituições particulares de solidariedade social;\n\nf) Um psicólogo;\n\ng) Um médico, em representação do Centro de Saúde;\n\nh) Um representante da Guarda Nacional Repúblicana;\n\ni) Um representante das associações de pais.\n\n3.º A Comissão de Protecção poderá deliberar que dela façam parte outros membros, nas situações previstas no artigo 14.º do [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio.\n\n4.º Nos 30 dias seguintes à publicação da presente portaria, as entidades que integram a Comissão de Protecção indicarão o seu representante e respectivo substituto ao procurador da República no respectivo círculo judicial, ao presidente da Câmara Municipal de São João da Madeira e ao director-geral dos Serviços Tutelares de Menores.\n\n5.º O psicólogo referido na alínea f) do n.º 2.º será designado por alguma das instituições que integram a Comissão ou que com ela colaborem.\n\n6.º A Comissão de Protecção é presidida por um dos seus membros, rotativamente e pela ordem indicada no n.º 2.º da presente portaria, com mandato de dois anos não prorrogável.\n\n7.º Os inquéritos, relatórios sociais, observação do menor e demais diligências que não possam ser assegurados pelos membros da Comissão serão solicitados às entidades com competência específica ou que, em cada caso, se revelem mais adequadas.\n\n8.º A Comissão de Protecção de Menores inicia funções no dia 1 de Dezembro de 1993.\n\nMinistério da Justiça.\n\nAssinada em 12 de Outubro de 1993.\n\nO Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio."
+  },
+  "3526fd2275a534dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1993-11-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 248/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/248-1993-661537), publicado em 1993-11-30."
+   ],
+   "markdown": "de 3 de Novembro\n\nO [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio, regula a criação, a competência e o funcionamento das comissões de protecção de menores em todas as comarcas do País, determinando que a respectiva instalação seja declarada por portaria do Ministro da Justiça.\n\nAcções de informação e articulação entre todas as entidades públicas e particulares intervenientes foram já desenvolvidas na comarca de São João da Madeira com vista à instalação da respectiva comissão de protecção.\n\nAssim, ao abrigo do n.º 2 do artigo 22.º do [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio:\n\nManda o Governo, pelo Ministro da Justiça, o seguinte:\n\n1.º É criada a Comissão de Protecção de Menores da Comarca de São João da Madeira, que fica instalada em edifício da Câmara Municipal.\n\n2.º A Comissão de Protecção de Menores é constituída, nos termos do artigo 13.º do [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio, pelos seguintes elementos:\n\na) Um agente do Ministério Público;\n\nb) Um representante do município;\n\nc) Um representante do Centro Regional de Segurança Social de Aveiro;\n\nd) Um representante dos serviços locais do Ministério da Educação;\n\ne) Um representante das instituições particulares de solidariedade social;\n\nf) Um psicólogo;\n\ng) Um médico, em representação do Centro de Saúde;\n\nh) Um representante da Polícia de Segurança Pública e um representante da Guarda Nacional Republicana;\n\n> Alterado pelo/a [Declaração de Rectificação n.º 248/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/248-1993-661537), publicado em 1993-11-30.\n\ni) Um representante das associações de pais.\n\n3.º A Comissão de Protecção poderá deliberar que dela façam parte outros membros, nas situações previstas no artigo 14.º do [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio.\n\n4.º Nos 30 dias seguintes à publicação da presente portaria, as entidades que integram a Comissão de Protecção indicarão o seu representante e respectivo substituto ao procurador da República no respectivo círculo judicial, ao presidente da Câmara Municipal de São João da Madeira e ao director-geral dos Serviços Tutelares de Menores.\n\n5.º O psicólogo referido na alínea f) do n.º 2.º será designado por alguma das instituições que integram a Comissão ou que com ela colaborem.\n\n6.º A Comissão de Protecção é presidida por um dos seus membros, rotativamente e pela ordem indicada no n.º 2.º da presente portaria, com mandato de dois anos não prorrogável.\n\n7.º Os inquéritos, relatórios sociais, observação do menor e demais diligências que não possam ser assegurados pelos membros da Comissão serão solicitados às entidades com competência específica ou que, em cada caso, se revelem mais adequadas.\n\n8.º A Comissão de Protecção de Menores inicia funções no dia 1 de Dezembro de 1993.\n\nMinistério da Justiça.\n\nAssinada em 12 de Outubro de 1993.\n\nO Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio."
+  }
+ }
+}

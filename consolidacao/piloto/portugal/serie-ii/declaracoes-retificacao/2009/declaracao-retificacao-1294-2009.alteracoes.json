@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 2-2",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Por ter sido publicado com inexactidão no Diário da República, 2.ª Série, n.º 72, de 14 de Abril de 2009, o despacho n.º 9975/2009, rectifica-se que no anexo, na epígrafe do artigo 2.º, onde se lê «Cálculo do valor da caução para clientes em MAT, AT, MT e Boletim do Trabalho e Emprego» deve ler-se «Cálculo do valor da caução para clientes em MAT, AT, MT e Boletim do Trabalho e Emprego».",
+    "depois": "Por ter sido publicado com inexactidão no Diário da República, 2.ª Série, n.º 72, de 14 de Abril de 2009, o despacho n.º 9975/2009, rectifica-se que no anexo, na epígrafe do artigo 2.º, onde se lê «Cálculo do valor da caução para clientes em MAT, AT, MT e Boletim do Trabalho e Emprego» deve ler-se «Cálculo do valor da caução para clientes em MAT, AT, MT e BTE».",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2389290:por",
+    "alterador": "pt:dre:2943228:por"
+  }
+]

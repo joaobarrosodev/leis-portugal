@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-11-17'
+version_history:
+  file: portaria-874-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-10-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-11-17'
+    amending: pt:dre:682833:por
+    amending_title: Portaria n.º 1007/99
+    changes:
+    - Altera Artigo unidades 43-43
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/874/1999/10/08/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:18:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1007/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-874-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -208,7 +223,9 @@ A autorização e reconhecimento operados pelo presente diploma não prejudicam,
 
 Vagas para 1999-2000
 
-O número de vagas para a candidatura à matrícula e inscrição no ano lectivo de 1999-2000 é fixado em 50.
+O número de vagas para a candidatura à matrícula e inscrição no ano lectivo de 1999-2000 é fixado em 32.
+
+> Alterado pelo/a [Portaria n.º 1007/99](https://diariodarepublica.pt/dr/detalhe/portaria/1007-1999-682833), publicado em 1999-11-12.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior, em 16 de Setembro de 1999.
 

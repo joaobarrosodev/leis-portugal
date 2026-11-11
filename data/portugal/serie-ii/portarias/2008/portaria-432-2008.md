@@ -28,10 +28,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-23'
+version_history:
+  file: portaria-432-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-04-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-23'
+    amending: pt:dre:3228007:por
+    amending_title: Portaria n.º 1082/2009
+    changes:
+    - Altera Artigo unidades 6-6
+    - Altera Artigo unidades 8-10
+    - Altera Artigo unidades 12-13
+    - Altera Artigo unidades 15-19
 identifiers:
   celex: null
   eli: null
@@ -57,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:13:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1082/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2008/portaria-432-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,33 +129,41 @@ Com fundamento no disposto no artigo 157.º do [Decreto-Lei n.º 202/2004](https
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas o seguinte:
 
-1.º O Conselho Cinegético Municipal de Vieira do Minho é constítuido pelos seguintes vogais:
+1.º O Conselho Cinegético Municipal de Vieira do Minho é constituído pelos seguintes vogais:
+
+> Alterado pelo/a [Portaria n.º 1082/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1082-2009-3228007), publicado em 2009-10-23.
 
 Representantes dos caçadores:
 
-Domingos Manuel Pereira Fraga
+Domingos Manuel Pereira Fraga;
 
-José Luís Batoca
+José Luís Batoca;
 
-José Maria Dias Canela
+José Maria Dias Canela.
+
+> Alterado pelo/a [Portaria n.º 1082/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1082-2009-3228007), publicado em 2009-10-23.
 
 Representantes dos agricultores:
 
-João Paulo Carneiro Ribeiro
+João Paulo Carneiro Ribeiro;
 
-José António Matos Vieira Leite
+José António Matos Vieira Leite.
+
+> Alterado pelo/a [Portaria n.º 1082/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1082-2009-3228007), publicado em 2009-10-23.
 
 Autarca de freguesia:
 
-Carlos Manuel Silva Pereira
+Carlos Manuel Silva Pereira.
 
-Representante da Direcção-Geral dos Recursos Florestais:
+Representante da Autoridade Florestal Nacional:
 
-José Manuel Barbosa de Pinho
+Álvaro Manuel Vieira Gonçalves.
 
-Representante do Instituto da Conservação da Natureza e da Biodiversidade
+Representante do Instituto da Conservação da Natureza e da Biodiversidade:
 
-Maria do Carmo Miranda
+Maria do Carmo Miranda.
+
+> Alterado pelo/a [Portaria n.º 1082/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1082-2009-3228007), publicado em 2009-10-23.
 
 2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.
 

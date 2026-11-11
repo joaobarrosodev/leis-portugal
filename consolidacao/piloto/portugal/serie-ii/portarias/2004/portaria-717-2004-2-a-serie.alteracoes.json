@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 15-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção Regional de Agricultura de Trás-os-Montes:\n\nAbílio Rodrigues.\n\nRepresentante do Instituto da Conservação da Natureza:",
+    "depois": "Representante das organizações não governamentais do ambiente:\n\nArmando Emanuel Rainha Simões Pacheco.\n\nRepresentante da Autoridade Florestal Nacional:\n\nArmando José Pereira.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1107380:por",
+    "alterador": "pt:dre:3228000:por"
+  }
+]

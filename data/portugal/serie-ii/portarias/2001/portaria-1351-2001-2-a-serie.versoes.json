@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1408007:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-08-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "11d1118a5e42b4b3"
+   ]
+  },
+  {
+   "date": "2009-10-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:3227997:por",
+     "title": "Portaria n.º 1072/2009",
+     "published": "2009-10-23",
+     "dre_path": "/dr/detalhe/portaria/1072-2009-3227997"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-9",
+    "Altera Artigo unidades 11-15"
+   ],
+   "fragments": [
+    "f240a257abc281c6"
+   ]
+  }
+ ],
+ "fragments": {
+  "11d1118a5e42b4b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1351/2001 (2.ª série). - Pelo [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição política cinegética do concelho.\n\nDetermina o n.º 3 do artigo 154.º daquele diploma que por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal de Marco de Canaveses é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nManuel Moreira Coutinho;\n\nJoão Manuel Oliveira Bernardes;\n\nRepresentantes dos agricultores:\n\nManuel António Carvalho Campos;\n\nArmando Gabriel dos Reis Assis Miranda;\n\nRepresentante das associações de defesa do ambiente - Pedro Nuno Gomes Bastos Martins;\n\nAutarca de freguesia - Antero Jorge Teixeira Borges;\n\nRepresentante da Direcção Regional de Agricultura de Entre-Douro e Minho - Carlos Alberto Pereira.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n17 de Julho de 2001. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural."
+  },
+  "f240a257abc281c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-10-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1072/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1072-2009-3227997), publicado em 2009-10-23.",
+    "Alterado pelo/a [Portaria n.º 1072/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1072-2009-3227997), publicado em 2009-10-23."
+   ],
+   "markdown": "Portaria n.º 1351/2001 (2.ª série). - Pelo [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição política cinegética do concelho.\n\nDetermina o n.º 3 do artigo 154.º daquele diploma que por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal de Marco de Canaveses é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nManuel Moreira Coutinho.\n\nJoão Manuel Oliveira Bernardes.\n\n> Alterado pelo/a [Portaria n.º 1072/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1072-2009-3227997), publicado em 2009-10-23.\n\nRepresentantes dos agricultores:\n\nManuel António Carvalho Campos.\n\nArmando Gabriel dos Reis Assis Miranda.\n\nRepresentante das associações de defesa do ambiente:\n\nPedro Nuno Gomes Bastos Martins.\n\nAutarca de freguesia:\n\nAntero Jorge Teixeira Borges.\n\nRepresentante da Autoridade Florestal Nacional\n\nJulieta Manuela Ribeiro Sampaio Calçada Duarte.\n\n> Alterado pelo/a [Portaria n.º 1072/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1072-2009-3227997), publicado em 2009-10-23.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n17 de Julho de 2001. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural."
+  }
+ }
+}

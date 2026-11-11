@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:2389290:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-05-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b0a31e4efe9ae439"
+   ]
+  },
+  {
+   "date": "2009-06-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:2943228:por",
+     "title": "Declaração de Rectificação n.º 1450/2009",
+     "published": "2009-06-08",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/1450-2009-2943228"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 2-2"
+   ],
+   "fragments": [
+    "1c310f897294a84e"
+   ]
+  }
+ ],
+ "fragments": {
+  "b0a31e4efe9ae439": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ter sido publicado com inexactidão no Diário da República, 2.ª Série, n.º 72, de 14 de Abril de 2009, o despacho n.º 9975/2009, rectifica-se que no anexo, na epígrafe do artigo 2.º, onde se lê «Cálculo do valor da caução para clientes em MAT, AT, MT e Boletim do Trabalho e Emprego» deve ler-se «Cálculo do valor da caução para clientes em MAT, AT, MT e Boletim do Trabalho e Emprego».\n\n12 de Maio de 2009. - O Conselho de Administração: Vítor Santos - Maria Margarida de Lucena Corrêa de Aguiar - José Braz.\n\n201790062"
+  },
+  "1c310f897294a84e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-06-08",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 1450/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1450-2009-2943228), publicado em 2009-06-08."
+   ],
+   "markdown": "Por ter sido publicado com inexactidão no Diário da República, 2.ª Série, n.º 72, de 14 de Abril de 2009, o despacho n.º 9975/2009, rectifica-se que no anexo, na epígrafe do artigo 2.º, onde se lê «Cálculo do valor da caução para clientes em MAT, AT, MT e Boletim do Trabalho e Emprego» deve ler-se «Cálculo do valor da caução para clientes em MAT, AT, MT e BTE».\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1450/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1450-2009-2943228), publicado em 2009-06-08.\n\n12 de Maio de 2009. - O Conselho de Administração: Vítor Santos - Maria Margarida de Lucena Corrêa de Aguiar - José Braz.\n\n201790062"
+  }
+ }
+}

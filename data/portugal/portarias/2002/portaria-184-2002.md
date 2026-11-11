@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-01-01'
+version_history:
+  file: portaria-184-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-03-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-01'
+    amending: pt:dre:344942:por
+    amending_title: Lei n.º 55-A/2010
+    changes:
+    - Altera Artigo unidades 8-8
+    - Adita Artigo depois da unidade 8
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/184/2002/03/04/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:39:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 55-A/2010. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-184-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,8 +147,16 @@ Assim:
 
 Manda o Governo, pelo Ministro das Finanças, nos termos da alínea j) do n.º 1 do artigo 42.º do Código do IRC, o seguinte:
 
-1.º Para os efeitos previstos na alínea j) do n.º 1 do artigo 42.º do Código do IRC, na redacção que lhe foi dada pela [Lei n.º 85/2001](https://diariodarepublica.pt/dr/detalhe/lei/85-2001-522865), de 4 de Agosto, é fixado em 1,5% o spread a acrescer à taxa EURIBOR a 12 meses do dia da constituição da dívida.
+1.º Para os efeitos previstos na alínea j) do n.º 1 do artigo 45.º do Código do IRC, na redacção que lhe foi dada pela Lei n.º 85/2001, de 4 de Agosto, é fixado em 1,5 % o spread a acrescer à taxa EURIBOR a 12 meses do dia da constituição da dívida, sem prejuízo do disposto no artigo seguinte.
 
-2.º Às situações a que seja aplicável o regime estabelecido no artigo 58.º do Código do IRC e na [Portaria n.º 1446-C/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1446-c-2001-319769), de 21 de Dezembro, e ainda às abrangidas por normas convencionais relativas a preços de transferência não é aplicável o disposto na alínea j) do n.º 1 do artigo 42.º do Código do IRC.
+> Alterado pelo/a [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31.
+
+2.º Sempre que se trate de juros e outras formas de remuneração de suprimentos e empréstimos feitos pelos sócios a PME, tal como definidas no anexo ao Decreto-Lei n.º 372/2007, de 6 de Novembro, é fixado em 6 % o spread a acrescer à taxa EURIBOR a 12 meses do dia da constituição da dívida.
+
+> Aditado pelo/a [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31.
+
+3.º Às situações a que seja aplicável o regime estabelecido no artigo 58.º do Código do IRC e na [Portaria n.º 1446-C/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1446-c-2001-319769), de 21 de Dezembro, e ainda às abrangidas por normas convencionais relativas a preços de transferência não é aplicável o disposto na alínea j) do n.º 1 do artigo 42.º do Código do IRC.
+
+> Alterado pelo/a [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31.
 
 O Ministro das Finanças, Guilherme d'Oliveira Martins, em 6 de Fevereiro de 2002.

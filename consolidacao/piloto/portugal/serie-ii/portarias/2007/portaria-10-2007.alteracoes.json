@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Álvaro Manuel Gonçalves Arriaga.\n\nAntónio Claro Mergulhão.\n\nJoão Marques Aço.",
+    "depois": "Álvaro Manuel Gonçalves Arriaga;\n\nAntónio Claro Mergulhão;\n\nJoão Marques Aço;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2271375:por",
+    "alterador": "pt:dre:3227982:por"
+  },
+  {
+    "artigo": "unidades 12-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Eduardo António dos Reis Monteiro.\n\nJosé Casimiro Miranda dos Reis.\n\nRepresentante das zonas de caça turísticas - Armando da Graça Mendes da Rosa.\n\nAutarca de freguesia - Vitorino Oliveira Carvalho.\n\nRepresentante da Direcção-Geral dos Recursos Florestais - João Augusto Grilo Ramos.\n\nRepresentante do Instituto da Conservação da Natureza - João Mário Madeira Pargana.",
+    "depois": "Eduardo António dos Reis Monteiro;\n\nJosé Casimiro Miranda dos Reis;\n\nRepresentante das zonas de caça turísticas - Armando da Graça Mendes da Rosa;\n\nAutarca de freguesia - Vitorino Oliveira Carvalho;\n\nRepresentante da Autoridade Florestal Nacional - Joaquim Fernando Pinheiro Brito;\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade - João Mário Madeira Pargana.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2271375:por",
+    "alterador": "pt:dre:3227982:por"
+  }
+]

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-23'
+version_history:
+  file: portaria-328-2002-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-02-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-23'
+    amending: pt:dre:3228002:por
+    amending_title: Portaria n.º 1077/2009
+    changes:
+    - Altera Artigo unidades 13-16
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:31:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1077/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2002/portaria-328-2002-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,13 +136,11 @@ Henrique Manuel Ponte da Luz.
 
 Carlos Alberto Fernandes Machado.
 
-Autarca de freguesia:
+Autarca de freguesia - Fernando Manuel de Barros Gonçalves.
 
-Fernando Manuel de Barros Gonçalves.
+Representante da Autoridade Florestal Nacional - Augusto João Barbosa Maia.
 
-Representante da Direcção Regional de Agricultura de Entre Douro e Minho:
-
-Laura Maria Neves de Lemos.
+> Alterado pelo/a [Portaria n.º 1077/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1077-2009-3228002), publicado em 2009-10-23.
 
 2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.
 

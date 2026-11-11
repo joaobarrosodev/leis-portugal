@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Alberto Augusto Pereira.",
+    "depois": "Alberto Augusto Pereira;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1989444:por",
+    "alterador": "pt:dre:3228005:por"
+  },
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Joaquim Lopes Branquinho.",
+    "depois": "Joaquim Lopes Branquinho;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1989444:por",
+    "alterador": "pt:dre:3228005:por"
+  },
+  {
+    "artigo": "unidades 13-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Autarca de freguesia - José Jacinto Bento Grave.\n\nRepresentante da Direcção Regional de Agricultura do Alentejo - Fernando Augusto Sampaio Monteiro de Brito.",
+    "depois": "Autarca de freguesia:\n\nJosé Jacinto Bento Grave.\n\nRepresentante da Autoridade Florestal Nacional:\n\nJosé Caimoto e Sousa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1989444:por",
+    "alterador": "pt:dre:3228005:por"
+  }
+]

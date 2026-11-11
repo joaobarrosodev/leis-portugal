@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-07-11'
+version_history:
+  file: despacho-normativo-16-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-03-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-07-11'
+    amending: pt:dre:301021:por
+    amending_title: Despacho Normativo n.º 30/2000
+    changes:
+    - Altera Artigo unidades 34-43
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/16/1999/03/24/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:34:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 30/2000. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1999/despacho-normativo-16-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -182,22 +197,16 @@ Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 3 de Março d
 
 ## ANEXO
 
-O distintivo a que se refere a alínea e) do n.º 3 do Despacho Normativo n.º 16/99, de 3 de Março de 1999, deve obedecer às seguintes características:
+O distintivo a que se refere o n.º 1 deve obedecer às seguintes características:
 
 1) O distintivo deve ser aplicado directamente no rótulo;
 
-2) O distintivo é constituído por dois círculos concêntricos com os diâmetros de 37 mm e 27 mm, respectivamente;
+2) O distintivo é constituído por dois círculos concêntricos, com os diâmetros máximos de 39 mm e 26 mm, respectivamente;
 
-3) A coroa exterior é dividida ao meio com uma mediatriz amarela (ver nota a) e pintada de cor verde (ver nota b), no lado esquerdo, e de cor vermelha (ver nota c), no lado direito;
+3) A coroa exterior é dividida ao meio com uma mediatriz amarela (a) e pintada de cor verde (b), no lado esquerdo, e de cor vermelha (c), no lado direito;
 
-4) O círculo interior é de cor branca e deve conter, em caracteres latinos de cor preta, a seguinte inscrição:
+4) O círculo interior é de cor branca e deve conter, em caracteres latinos de cor preta, a inscrição: «Rótulo aprovado pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas».
 
-«Aprovado pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.»
+[(ver distintivo no documento original)](https://files.diariodarepublica.pt/1s/2000/07/154b00/29572958.pdf)
 
-[(ver distintivos no documento original)](https://files.diariodarepublica.pt/1s/1999/03/070b00/16711673.pdf)
-
-(nota a) Cor amarela - 100.
-
-(nota b) Cor verde - 348.
-
-(nota c) Cor vermelha - 185.
+> Alterado pelo/a [Despacho Normativo n.º 30/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-2000-301021), publicado em 2000-07-06.

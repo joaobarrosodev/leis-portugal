@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2017-10-18'
+version_history:
+  file: despacho-normativo-25-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-07-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-10-18'
+    amending: pt:dre:108322281:por
+    amending_title: Despacho Normativo n.º 17/2017
+    changes:
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 16-17
+    - Altera Artigo unidades 28-28
 identifiers:
   celex: null
   eli: null
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:06:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 17/2017. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2007/despacho-normativo-25-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,13 +141,17 @@ Nos termos do n.º 1 do artigo 25.º [Decreto-Lei n.º 135/99](https://diariodar
 
 3 - Os documentos sujeitos a publicação no Boletim do Trabalho e Emprego são remetidos aos serviços competentes do Ministério do Trabalho e da Solidariedade Social em ficheiro electrónico, em formato Word não editável, protegido por senha apenas conhecida do remetente, por correio electrónico, ou em CDR ou em DVDR (não regraváveis) e para todos os efeitos legais mantém-se o envio dos documentos sujeitos a publicação no Boletim do Trabalho e Emprego em suporte papel.
 
-4 - São objecto de publicação no Boletim do Trabalho e Emprego:
+4 - São objeto de publicação no Boletim do Trabalho e Emprego:
+
+> Alterado pelo/a [Despacho Normativo n.º 17/2017](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2017-108322281), publicado em 2017-10-18.
 
 a) Listas de árbitros (Conselho Económico e Social);
 
-b) Portarias que aprovam os regulamentos de condições mínimas, despachos de constituição de comissões técnicas para a elaboração dos estudos preparatórios e respectivos avisos;
+b) Portarias de condições de trabalho, despachos de constituição de comissões técnicas para a elaboração dos estudos preparatórios;
 
-c) Portarias que aprovam os regulamentos de extensão e respectivos avisos;
+c) Portarias de extensão;
+
+> Alterado pelo/a [Despacho Normativo n.º 17/2017](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2017-108322281), publicado em 2017-10-18.
 
 d) Convenções colectivas de trabalho e acordos de adesão;
 
@@ -152,7 +173,13 @@ m) Estatutos das comissões de trabalhadores e das comissões coordenadoras e su
 
 n) Comunicações de actos eleitorais de representantes dos trabalhadores para a segurança, higiene e saúde no trabalho e identificação dos representantes eleitos.
 
-6 - Os projectos de diplomas relativos a legislação do trabalho, igualmente transmitidos em ficheiro electrónico em formato Word não editável, são publicados para apreciação pública na separata do Boletim do Trabalho e Emprego.
+6 - São publicados, para apreciação pública, em separata do Boletim do Trabalho e Emprego:
+
+a) Os projetos de diplomas relativos a legislação do trabalho a aprovar pelo Governo da República, transmitidos em ficheiro eletrónico em formato Word não editável;
+
+b) Os avisos de projetos de portarias de condições de trabalho e de extensão.
+
+> Alterado pelo/a [Despacho Normativo n.º 17/2017](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2017-108322281), publicado em 2017-10-18.
 
 7 - É extinta a 2.ª série Boletim do Trabalho e Emprego.
 

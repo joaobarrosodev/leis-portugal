@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:680829:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1972-05-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5bfa8016699e6e23"
+   ]
+  },
+  {
+   "date": "1980-12-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:459179:por",
+     "title": "Portaria n.º 1031/80",
+     "published": "1980-12-03",
+     "dre_path": "/dr/detalhe/portaria/1031-1980-459179"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 7"
+   ],
+   "fragments": [
+    "413c5f1c5657ba42"
+   ]
+  }
+ ],
+ "fragments": {
+  "5bfa8016699e6e23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Maio\n\nPara execução do disposto no artigo 15.º do [Decreto-Lei n.º 135/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1972-679984), de 28 de Abril:\n\nManda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:\n\n1.º As taxas anuais mínimas de amortização a praticar, em relação a cada um dos seus navios, pelas empresas de navegação sujeitas à obrigação de constituir fundo de renovação da frota, são as seguintes:\n\na) Navios de carga geral convencionais e navios mistos de passageiros e de carga: 5,5 por cento;\n\nb) Navios de passageiros, ferries, graneleiros, porta-contentores, navios-tanques, navios-frigoríficos e outros navios especializados: 7,5 por cento.\n\n2.º As taxas anuais mínimas de amortização dos navios adquiridos em estado de uso pelas referidas empresas, e das reconversões, serão estabelecidas por despacho, para cada caso, em função dos respectivos períodos de utilização esperada segundo critério análogo às percentagens estabelecidas na presente portaria para navios novos.\n\n3.º Para a fixação das taxas referidas no número anterior, as empresas apresentarão a despacho do Ministro da Marinha, no prazo de noventa dias a contar da data da presente portaria e em relação a cada um dos navios das suas frotas que hajam sido adquiridos em estado de uso, requerimento em que seja indicada, com os necessários elementos justificativos, a taxa que entendam corresponder ao critério definido no número anterior.\n\n4.º Para os navios que, de futuro, venham a ser adquiridos em estado de uso, a apresentação do requerimento referido no número anterior terá lugar no prazo de noventa dias após a data da aquisição ou até ao termo do exercício se este ocorrer antes de completado aquele prazo.\n\nO Ministro da Marinha, Manuel Pereira Crespo."
+  },
+  "413c5f1c5657ba42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1980-12-03",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 1031/80](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1980-459179), publicado em 1980-12-03."
+   ],
+   "markdown": "de 11 de Maio\n\nPara execução do disposto no artigo 15.º do [Decreto-Lei n.º 135/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1972-679984), de 28 de Abril:\n\nManda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:\n\n1.º As taxas anuais mínimas de amortização a praticar, em relação a cada um dos seus navios, pelas empresas de navegação sujeitas à obrigação de constituir fundo de renovação da frota, são as seguintes:\n\na) Navios de carga geral convencionais e navios mistos de passageiros e de carga: 5,5 por cento;\n\nb) Navios de passageiros, ferries, graneleiros, porta-contentores, navios-tanques, navios-frigoríficos e outros navios especializados: 7,5 por cento.\n\nc) Navios reavaliados ao abrigo do [Decreto-Lei n.º 430/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1978-325309), de 27 de Dezembro: 5 por cento.\n\n> Aditado pelo/a [Portaria n.º 1031/80](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1980-459179), publicado em 1980-12-03.\n\n2.º As taxas anuais mínimas de amortização dos navios adquiridos em estado de uso pelas referidas empresas, e das reconversões, serão estabelecidas por despacho, para cada caso, em função dos respectivos períodos de utilização esperada segundo critério análogo às percentagens estabelecidas na presente portaria para navios novos.\n\n3.º Para a fixação das taxas referidas no número anterior, as empresas apresentarão a despacho do Ministro da Marinha, no prazo de noventa dias a contar da data da presente portaria e em relação a cada um dos navios das suas frotas que hajam sido adquiridos em estado de uso, requerimento em que seja indicada, com os necessários elementos justificativos, a taxa que entendam corresponder ao critério definido no número anterior.\n\n4.º Para os navios que, de futuro, venham a ser adquiridos em estado de uso, a apresentação do requerimento referido no número anterior terá lugar no prazo de noventa dias após a data da aquisição ou até ao termo do exercício se este ocorrer antes de completado aquele prazo.\n\nO Ministro da Marinha, Manuel Pereira Crespo."
+  }
+ }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 65-83",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Miringotomia com ou sem tubos de ventilação;\n\nMastoidectomias e timpanonastoidectomias;\n\nTimpanoplastias;\n\nEstapedectomias/estapedotomias;\n\nCirurgia de nariz e seios perinasais:\n\nSeptoplastias;\n\nRinoseptoplastias;\n\nCirurgia de seios perinasais técnica convencional/microendoscópica;\n\nFracturas nasais;\n\nCirurgia da laringe e traqueia:\n\nTraqueotomias;\n\nMicrocirurgia laríngea;\n\nCirurgia oncológica da laringe;\n\nCirurgia oral, faringe e esófago:\n\nAdenoidectomia;\n\nAdenoamigdalectomia;\n\nAmigdalectomia;\n\nCirurgia do pescoço:\n\nCirurgia cervical.",
+    "depois": "Miringotomia com ou sem tubos de ventilação - 30;\n\nMastoidectomias e timpanomastoidectomias - 10;\n\nTimpanoplastias - 10;\n\nEstapedectomias/estapedotomias - 2.\n\nCirurgia de nariz e seios perinasais:\n\nSeptoplastias - 10;\n\nRinoseptoplastias - 2;\n\nCirurgia de seios perinasais, técnica convencional/microendoscópica - 10;\n\nFracturas nasais - 5.\n\nCirurgia da laringe e traqueia:\n\nTraqueotomias - 8;\n\nMicrocirurgia laríngea - 15;\n\nCirurgia oncológica da laringe - 2.\n\nCirurgia oral, faringe e esófago:\n\nAdenoidectomia - 30;\n\nAdenoamigdalectomia - 20;\n\nAmigdalectomia - 10.\n\nCirurgia do pescoço:\n\nCirurgia cervical - 5.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:684850:por",
+    "alterador": "pt:dre:514775:por"
+  }
+]

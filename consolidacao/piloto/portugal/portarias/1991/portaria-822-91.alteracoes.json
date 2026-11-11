@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Definição. - São esforços físicos de alta intensidade, realizados por curtos períodos de tempo (cinco a sessenta segundos).",
+    "depois": "Definição. - São esforços físicos de alta intensidade, realizados por curtos períodos de tempo (cinco a sessenta segundos) e que exigem uma aptidão predominante anaeróbica.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:674207:por",
+    "alterador": "pt:dre:682192:por"
+  }
+]

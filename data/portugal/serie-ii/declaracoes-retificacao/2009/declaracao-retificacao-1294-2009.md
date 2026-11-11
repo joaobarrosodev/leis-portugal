@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-06-08'
+version_history:
+  file: declaracao-retificacao-1294-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-05-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-08'
+    amending: pt:dre:2943228:por
+    amending_title: Declaração de Rectificação n.º 1450/2009
+    changes:
+    - Altera Artigo unidades 2-2
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:00:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 1450/2009.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/declaracoes-retificacao/2009/declaracao-retificacao-1294-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -95,7 +110,9 @@ validation:
 
 # Declaração de rectificação n.º 1294/2009
 
-Por ter sido publicado com inexactidão no Diário da República, 2.ª Série, n.º 72, de 14 de Abril de 2009, o despacho n.º 9975/2009, rectifica-se que no anexo, na epígrafe do artigo 2.º, onde se lê «Cálculo do valor da caução para clientes em MAT, AT, MT e Boletim do Trabalho e Emprego» deve ler-se «Cálculo do valor da caução para clientes em MAT, AT, MT e Boletim do Trabalho e Emprego».
+Por ter sido publicado com inexactidão no Diário da República, 2.ª Série, n.º 72, de 14 de Abril de 2009, o despacho n.º 9975/2009, rectifica-se que no anexo, na epígrafe do artigo 2.º, onde se lê «Cálculo do valor da caução para clientes em MAT, AT, MT e Boletim do Trabalho e Emprego» deve ler-se «Cálculo do valor da caução para clientes em MAT, AT, MT e BTE».
+
+> Alterado pelo/a [Declaração de Rectificação n.º 1450/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1450-2009-2943228), publicado em 2009-06-08.
 
 12 de Maio de 2009. - O Conselho de Administração: Vítor Santos - Maria Margarida de Lucena Corrêa de Aguiar - José Braz.
 

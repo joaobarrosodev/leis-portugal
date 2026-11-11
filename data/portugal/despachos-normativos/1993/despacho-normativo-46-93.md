@@ -40,10 +40,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-05-20'
+version_history:
+  file: despacho-normativo-46-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-03-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-05-20'
+    amending: pt:dre:507264:por
+    amending_title: Despacho Normativo n.º 26/95
+    changes:
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 24-24
+    - Altera Artigo unidades 26-29
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/46/1993/03/27/p/dre/pt/html
@@ -69,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:08:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 26/95. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1993/despacho-normativo-46-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,7 +167,9 @@ c) Acções de concepção e realização de embalagens e suportes de acondicion
 
 2 - Podem candidatar-se às linhas de apoio descritas no n.º 1 as seguintes entidades:
 
-a) Organizações de produtores e outras empresas de produção, empresas de comércio grossista ou equiparado e respectivas organizações representativas para as acções descritas nas alíneas a) e b) do n.º 1;
+a) Organizações de produtores e outras empresas de produção, empresários de comércio grossista ou equiparado e respectivas organizações representativas, bem como as autarquias locais, para as acções descritas nas alíneas a) e b) do n.º 1;
+
+> Alterado pelo/a [Despacho Normativo n.º 26/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1995-507264), publicado em 1995-05-15.
 
 b) Operadores privados, individuais ou agrupados, para as acções indicadas na alínea c) do n.º 1.
 
@@ -172,17 +191,25 @@ b) O montante máximo de financiamento é de 90% para organizações de produtor
 
 a) As despesas a considerar para efeitos de financiamento são as resultantes de estudos prévios de impacte e avaliação económica, estudos de concepção técnica e estética, estudos e acções de experimentação, realização de protótipos e acções de divulgação e promoção, não sendo financiadas as despesas resultantes da simples compra de embalagens ou suportes de acondicionamento;
 
-b) O montante máximo de financiamento é de 80%, até um máximo de 12500 contos por candidatura.
+b) O montante máximo de financiamento é de 80%, até um máximo de 7500 contos por candidatura.
+
+> Alterado pelo/a [Despacho Normativo n.º 26/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1995-507264), publicado em 1995-05-15.
 
 6 - As candidaturas devem ser apresentadas nas direcções regionais de agricultura, em impresso próprio por estas fornecido.
 
-7 - A decisão sobre a aceitação e o financiamento das candidaturas será comunicada ao interessado nos 30 dias subsequentes à data de apresentação das mesmas.
+7 - A decisão sobre a aceitação e o financiamento das candidaturas será comunicada ao interessado nos 60 dias subsequentes à data da apresentação das mesmas.
 
-8 - Para cada acção prevista, as entidades beneficiárias apenas poderão ser financiadas uma única vez, com excepção das acções de formação e de comunicação, em que se poderão admitir duas candidaturas, em anos não consecutivos, no prazo de vigência do Programa.
+8 - No prazo de vigência do Programa as entidades beneficiárias podem:
 
-9 - As entidades beneficiárias comprometem-se a realizar as acções num prazo máximo de um ano a partir da data da assinatura da convenção de financiamento.
+a) Candidatar-se às acções de formação e comunicação mais de uma vez, apenas se estas forem complemento de outras já efectuadas e se revelem de particular interesse;
 
-10 - O incumprimento do disposto no número anterior tem como consequência a devolução total dos montantes financiados, acrescidos dos respectivos juros de mora.
+b) Beneficiar de uma 2.ª candidatura para as acções de concepção e realização de embalagens desde que incida sobre outros produtos e ou outro tipo de embalagens.
+
+9 - As entidades beneficiárias comprometem-se a realizar as acções num prazo máximo de um ano a partir da data da comunicação da sua aprovação, findo o qual o financiamento poderá ser cancelado.
+
+10 - As entidades beneficiárias comprometem-se a cumprir a normalização das frutas e produtos hortícolas frescos, podendo o financiamento ser retirado em consequência de penalizações de acções de controlo e inspecção.
+
+> Alterado pelo/a [Despacho Normativo n.º 26/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1995-507264), publicado em 1995-05-15.
 
 11 - O programa será coordenado, a nível nacional, por um técnico de reconhecida competência e experiência no sector, a designar por despacho do Ministro da Agricultura, o qual definirá igualmente as respectivas atribuições e condições de exercício do cargo.
 

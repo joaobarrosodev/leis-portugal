@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-09-30'
+version_history:
+  file: portaria-628-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-07-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-09-30'
+    amending: pt:dre:682203:por
+    amending_title: Declaração de Rectificação n.º 219/91
+    changes:
+    - Altera Artigo unidades 3-3
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/628/1991/07/12/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:57:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 219/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-628-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -107,7 +123,9 @@ validation:
 
 de 12 de Julho
 
-De acordo com os princípios adoptados na elaboração das anteriores cartas da Reserva Agrícola Nacional relativas à área de intervenção da Direcção Regional de Agricultura da Beira Litoral, procede-se agora à aprovação da carta da reserva Agrícola de Almeirim.
+De acordo com os princípios adoptados na elaboração das anteriores cartas da Reserva Agrícola Nacional relativas à área de intervenção da Direcção Regional de Agricultura do Ribatejo e Oeste, procede-se agora à aprovação da carta da reserva Agrícola de Almeirim.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 219/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/219-1991-682203), publicado em 1991-09-30.
 
 Assim, ao abrigo do disposto no artigo 5.º do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho:
 
@@ -119,7 +137,9 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 3.º A partir do momento da entrada em vigor do presente regulamento caducam todos os certificados de classificação de solos já emitidos.
 
-4.º Os pareceres favoráveis emitidos pela Comissão Regional da Reserva Agrícola de Entre Douro e Minho até à entrada em vigor do presente regulamento carecem da confirmação do mesmo órgão.
+4.º Os pareceres favoráveis emitidos pela Comissão Regional da Reserva Agrícola do Ribatejo e Oeste até à entrada em vigor do presente regulamento carecem da confirmação do mesmo órgão.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 219/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/219-1991-682203), publicado em 1991-09-30.
 
 5.º A confirmação a que se refere o número anterior deve ser requerida pelo interessado e não depende do pagamento de qualquer taxa.
 

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Pilotos (PIL); navegadores (NAV); técnicos de informática (TINF), de operações de meteorologia (TOMET), de operações de circulação aérea e radar de tráfego (TOCART), de operações de detecção e conduta de intercepção (TODCI), de manutenção de material aéreo (TMMA), de manutenção de material terrestre (TMMT), de manutenção de material electrotécnico (TMMEL), de manutenção de armamento e equipamento (TMAEQ), de abastecimento (TABST) e de pessoal e apoio administrativo (TPAA); e polícia aérea (PA);",
+    "depois": "Pilotos (PIL); pára-quedistas (PARAQ); navegadores (NAV); técnicos de informática (TINF), de operações de meteorologia (TOMET), de operações de circulação aérea e radar de tráfego (TOCART), de operações de detecção e conduta de intercepção (TODCI), de manutenção de material aéreo (TMMA), de manutenção de material terrestre (TMMT), de manutenção de material electrotécnico (TMMEL), de manutenção de armamento e equipamento (TMAEQ), de abastecimento (TABST) e de pessoal e apoio administrativo (TPAA); e polícia aérea (PA);",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:682244:por",
+    "alterador": "pt:dre:406734:por"
+  },
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Operadores de comunicações (OPCOM), de meteorologia (OPMET), de circulação aérea e radarista de tráfego (OPCART), radarista de detecção (OPDET), de informática (OPINF) e de sistemas de assistência e socorro (OPSAS); mecânicos de material aéreo (MMA), de material terrestre (MMT), de electricidade (MELECT), de electrónica (MELECA), de electricidade e instrumentos de avião (MELIAV) e armamento e equipamento (MARME); abastecimentos (ABST); construção e manutenção de infra-estruturas (CMI); serviço de saúde (SS); polícia aérea (PA); secretariado e apoio de serviços (SAS); e músicos (MUS).",
+    "depois": "Pára-quedistas (PARAQ); operadores de comunicações (OPCOM), de meteorologia (OPMET), de circulação aérea e radarista de tráfego (OPCART), radarista de detecção (OPDET), de informática (OPINF) e de sistemas de assistência e socorro (OPSAS); mecânicos de material aéreo (MMA), de material terrestre (MMT), de electricidade (MELECT), de electrónica (MELECA), de electricidade e instrumentos de avião (MELIAV) e armamento e equipamento (MARME); abastecimentos (ABST); construção e manutenção de infra-estruturas (CMI); serviço de saúde (SS); polícia aérea (PA); secretariado e apoio de serviços (SAS); e músicos (MUS).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:682244:por",
+    "alterador": "pt:dre:406734:por"
+  }
+]

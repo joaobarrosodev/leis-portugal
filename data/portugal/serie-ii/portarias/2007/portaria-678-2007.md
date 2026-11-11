@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-04-07'
+version_history:
+  file: portaria-678-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-08-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-04-07'
+    amending: pt:dre:1820298:por
+    amending_title: Portaria n.º 383/2008
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:09:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 383/2008. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2007/portaria-678-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,7 +126,9 @@ Assim:
 
 Manda o Governo, pelo Secretário de Estado do Tesouro e Finanças, o seguinte:
 
-1 - Autorizar, nos termos do artigo 1.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a cessão a título definitivo, ao município da Nazaré, de uma parcela de terreno com a área de 296 394 m2, a destacar do prédio inscrito na matriz predial rústica de Valado dos Frades sob o artigo 2116, descrito na Conservatória do Registo Predial de Alcobaça na ficha n.º 00032/070486/Valado dos Frades e registado, a favor do Estado, pela inscrição G-1.
+1 - Autorizar, nos termos do artigo 1º do Decreto-Lei nº 97/70, de 13 de Março, a cessão a título definitivo, ao Município da Nazaré, de uma parcela de terreno com a área de 296 394 m2, a destacar do prédio inscrito na matriz predial rústica da Nazaré sob o artigo 1 - Secção U1 a U19, descrito na Conservatória do Registo Predial da Nazaré na ficha nº 470/19860407/Nazaré e registado, a favor do Estado, pela inscrição G-1
+
+> Alterado pelo/a [Portaria n.º 383/2008](https://diariodarepublica.pt/dr/detalhe/portaria/383-2008-1820298), publicado em 2008-04-07.
 
 2 - Reconhecer o interesse público da cessão uma vez que o imóvel se destina à instalação da Zona Industrial de Valado dos Frades.
 

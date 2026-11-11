@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:686429:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-07-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2489e2f7d278bf56"
+   ]
+  },
+  {
+   "date": "1991-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:682182:por",
+     "title": "Declaração de Rectificação n.º 206/91",
+     "published": "1991-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/206-1991-682182"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-3"
+   ],
+   "fragments": [
+    "ef5b3826bf5dd494"
+   ]
+  }
+ ],
+ "fragments": {
+  "2489e2f7d278bf56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Julho\n\nEncontrando-se a exercer funções há mais de um ano no Gabinete para a Pesquisa e Exploração de Petróleo, em regime de destacamento, a funcionária do quadro de efectivos interdepartamental do Ministério da Indústria e Energia;\n\nHavendo interesse, por parte daquele Gabinete, na integração da referida funcionária:\n\nImporta criar o correspondente lugar no respectivo quadro de pessoal, ao abrigo do disposto na alínea b) do n.º 1 do artigo 9.º do [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro.\n\nAssim:\n\nManda o Governo, pelos Ministros das Finanças e da Indústria e Energia, o seguinte:\n\n1.º É criado no quadro de pessoal do Gabinete para a Pesquisa e Exploração de Petróleo (GPEP), constante do mapa I anexo ao [Decreto Regulamentar n.º 23/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1990-573555), de 7 de Agosto, um lugar de escriturário-dactilógrafo.\n\n2.º O lugar a que se refere o número anterior será extinto quando vagar.\n\nMinistérios das Finanças e da Indústria e Energia.\n\nAssinada em 21 de Junho de 1991.\n\nPelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral."
+  },
+  "ef5b3826bf5dd494": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-09-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 206/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/206-1991-682182), publicado em 1991-09-30."
+   ],
+   "markdown": "de 31 de Julho\n\nEncontrando-se a exercer funções há mais de um ano no Gabinete para a Pesquisa e Exploração de Petróleo, em regime de destacamento, a funcionária do quadro de efectivos interdepartamental do Ministério da Indústria e Energia Aurora Antónia Pais Pinção Costa;\n\n> Alterado pelo/a [Declaração de Rectificação n.º 206/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/206-1991-682182), publicado em 1991-09-30.\n\nHavendo interesse, por parte daquele Gabinete, na integração da referida funcionária:\n\nImporta criar o correspondente lugar no respectivo quadro de pessoal, ao abrigo do disposto na alínea b) do n.º 1 do artigo 9.º do [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro.\n\nAssim:\n\nManda o Governo, pelos Ministros das Finanças e da Indústria e Energia, o seguinte:\n\n1.º É criado no quadro de pessoal do Gabinete para a Pesquisa e Exploração de Petróleo (GPEP), constante do mapa I anexo ao [Decreto Regulamentar n.º 23/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1990-573555), de 7 de Agosto, um lugar de escriturário-dactilógrafo.\n\n2.º O lugar a que se refere o número anterior será extinto quando vagar.\n\nMinistérios das Finanças e da Indústria e Energia.\n\nAssinada em 21 de Junho de 1991.\n\nPelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral."
+  }
+ }
+}

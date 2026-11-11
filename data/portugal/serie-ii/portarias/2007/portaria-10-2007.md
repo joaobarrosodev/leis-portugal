@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-23'
+version_history:
+  file: portaria-10-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-01-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-23'
+    amending: pt:dre:3227982:por
+    amending_title: Portaria n.º 1057/2009
+    changes:
+    - Altera Artigo unidades 8-10
+    - Altera Artigo unidades 12-17
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:05:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1057/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2007/portaria-10-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,25 +133,29 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Representantes dos caçadores:
 
-Álvaro Manuel Gonçalves Arriaga.
+Álvaro Manuel Gonçalves Arriaga;
 
-António Claro Mergulhão.
+António Claro Mergulhão;
 
-João Marques Aço.
+João Marques Aço;
+
+> Alterado pelo/a [Portaria n.º 1057/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1057-2009-3227982), publicado em 2009-10-23.
 
 Representantes dos agricultores:
 
-Eduardo António dos Reis Monteiro.
+Eduardo António dos Reis Monteiro;
 
-José Casimiro Miranda dos Reis.
+José Casimiro Miranda dos Reis;
 
-Representante das zonas de caça turísticas - Armando da Graça Mendes da Rosa.
+Representante das zonas de caça turísticas - Armando da Graça Mendes da Rosa;
 
-Autarca de freguesia - Vitorino Oliveira Carvalho.
+Autarca de freguesia - Vitorino Oliveira Carvalho;
 
-Representante da Direcção-Geral dos Recursos Florestais - João Augusto Grilo Ramos.
+Representante da Autoridade Florestal Nacional - Joaquim Fernando Pinheiro Brito;
 
-Representante do Instituto da Conservação da Natureza - João Mário Madeira Pargana.
+Representante do Instituto da Conservação da Natureza e da Biodiversidade - João Mário Madeira Pargana.
+
+> Alterado pelo/a [Portaria n.º 1057/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1057-2009-3227982), publicado em 2009-10-23.
 
 2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.
 

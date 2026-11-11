@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 16-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Ciências Jurídicas;\n\nb) Ciências Jurídico-Políticas;\n\nc) Ciências Jurídico-Económicas;\n\nd) Estudos Europeus;\n\ne) Estudos Lusófonos.",
+    "depois": "a) Ciências Jurídico-Forenses;\n\nb) Ciências Jurídico-Económicas;\n\nc) Ciências Jurídico-Políticas;\n\nd) Ciências Jurídico-Lusófonas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687028:por",
+    "alterador": "pt:dre:173171:por"
+  }
+]

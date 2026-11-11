@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Acções de informação e articulação entre todas as entidades públicas e particulares intervenientes foram já desenvolvidas na comarca de Vila Nova de Poiares com vista à instalação da respectiva comissão de protecção.",
+    "depois": "Acções de informação e articulação entre todas as entidades públicas e particulares intervenientes foram já desenvolvidas no concelho de Vila Nova de Poiares com vista à instalação da respectiva comissão de protecção.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:666278:por",
+    "alterador": "pt:dre:661521:por"
+  },
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É criada a Comissão de Protecção de Menores da Comarca de Vila Nova de Poiares, que fica instalada em edifício da Câmara Municipal.",
+    "depois": "1.º É criada a Comissão de Protecção de Menores do Concelho de Vila Nova de Poiares, que fica instalada em edifício da Câmara Municipal.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:666278:por",
+    "alterador": "pt:dre:661521:por"
+  }
+]

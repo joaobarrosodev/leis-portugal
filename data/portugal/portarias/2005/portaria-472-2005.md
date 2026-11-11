@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-08-19'
+version_history:
+  file: portaria-472-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-05-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-08-19'
+    amending: pt:dre:455610:por
+    amending_title: Portaria n.º 894/2008
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/472/2005/05/10/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:06:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 894/2008. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2005/portaria-472-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,7 +146,9 @@ Manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, ao abrigo 
 
 1.º Aprovar os modelos de cartão de identificação anexos à presente portaria, com as respectivas categorias de utilizadores:
 
-Modelo n.º 1 - para uso do pessoal nomeado para os gabinetes dos membros do Governo do Ministério do Trabalho e da Solidariedade Social (MTSS), dos titulares dos cargos de direcção superior, previstos no n.º 3 do artigo 2.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, dos serviços e organismos sob a superintendência e tutela do Ministro do Trabalho e da Solidariedade Social, bem como para uso do pessoal cuja especificidade da função exercida assim o exija (anexo n.º 1);
+Modelo n.º 1 - para uso do pessoal nomeado para os gabinetes dos membros do Governo do Ministério do Trabalho e da Solidariedade Social (MTSS), dos titulares dos cargos de direcção superior, previstos no n.º 3 do artigo 2.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, na redacção dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, dos directores de segurança social, dos directores-adjuntos de segurança social, dos delegados regionais, dos subdelegados regionais dos serviços e organismos sob a superintendência e tutela do Ministro do Trabalho e da Solidariedade Social, bem como para uso do pessoal cuja especificidade da função exercida assim o exija (anexo n.º 1);
+
+> Alterado pelo/a [Portaria n.º 894/2008](https://diariodarepublica.pt/dr/detalhe/portaria/894-2008-455610), publicado em 2008-08-14.
 
 Modelo n.º 2 - para uso dos funcionários, agentes e outros trabalhadores dos serviços de administração directa do Estado do MTSS (anexo n.º 2).
 

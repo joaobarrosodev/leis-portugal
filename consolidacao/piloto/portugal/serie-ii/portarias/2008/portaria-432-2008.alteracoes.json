@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º O Conselho Cinegético Municipal de Vieira do Minho é constítuido pelos seguintes vogais:",
+    "depois": "1.º O Conselho Cinegético Municipal de Vieira do Minho é constituído pelos seguintes vogais:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2069770:por",
+    "alterador": "pt:dre:3228007:por"
+  },
+  {
+    "artigo": "unidades 8-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Domingos Manuel Pereira Fraga\n\nJosé Luís Batoca\n\nJosé Maria Dias Canela",
+    "depois": "Domingos Manuel Pereira Fraga;\n\nJosé Luís Batoca;\n\nJosé Maria Dias Canela.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2069770:por",
+    "alterador": "pt:dre:3228007:por"
+  },
+  {
+    "artigo": "unidades 12-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "João Paulo Carneiro Ribeiro\n\nJosé António Matos Vieira Leite",
+    "depois": "João Paulo Carneiro Ribeiro;\n\nJosé António Matos Vieira Leite.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2069770:por",
+    "alterador": "pt:dre:3228007:por"
+  },
+  {
+    "artigo": "unidades 15-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Carlos Manuel Silva Pereira\n\nRepresentante da Direcção-Geral dos Recursos Florestais:\n\nJosé Manuel Barbosa de Pinho\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade\n\nMaria do Carmo Miranda",
+    "depois": "Carlos Manuel Silva Pereira.\n\nRepresentante da Autoridade Florestal Nacional:\n\nÁlvaro Manuel Vieira Gonçalves.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade:\n\nMaria do Carmo Miranda.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2069770:por",
+    "alterador": "pt:dre:3228007:por"
+  }
+]

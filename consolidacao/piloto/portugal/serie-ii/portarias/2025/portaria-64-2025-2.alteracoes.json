@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Fica o Instituto Português de Oncologia de Coimbra Francisco Gentil, E. P. E., autorizado a assumir um encargo plurianual até ao montante de 2 835 085,91 EUR (dois milhões, oitocentos e trinta e cinco mil e oitenta e cinco euros e noventa e um cêntimo), a que acresce o IVA à taxa legal em vigor, referente à requalificação do posto de transformação.",
+    "depois": "1 - Fica o Instituto Português de Oncologia de Coimbra Francisco Gentil, E. P. E., autorizado a assumir um encargo plurianual até ao montante 3 102 350,49 € (três milhões cento e dois mil trezentos e cinquenta euros e quarenta e nove cêntimos), a que acresce IVA à taxa legal em vigor, referente à requalificação do posto de transformação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:905291906:por",
+    "alterador": "pt:dre:1155718888:por"
+  },
+  {
+    "artigo": "unidades 7-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2025: 2 693 331,62 EUR, a que acresce o IVA à taxa legal em vigor;\n\n2026: 141 754,29 EUR, a que acresce o IVA à taxa legal em vigor.",
+    "depois": "2025: 0,00 €;\n\n2026: 1 219 512,20 €, a que acresce IVA à taxa legal em vigor;\n\n2027: 1 882 838,29 €, a que acresce IVA à taxa legal em vigor.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:905291906:por",
+    "alterador": "pt:dre:1155718888:por"
+  }
+]

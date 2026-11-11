@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-05-19'
+version_history:
+  file: portaria-1130-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-11-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-05-19'
+    amending: pt:dre:262591:por
+    amending_title: Portaria n.º 301/94
+    changes:
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 27-27
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1130/1993/11/04/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:43:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 301/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-1130-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,7 +153,9 @@ Manda o Governo, pelos Ministros das Finanças, da Agricultura e do Comércio e 
 
 1.º A compra e a venda de lã da produção nacional mantêm-se livres, nos termos desta portaria.
 
-2.º As organizações da produção promoverão a concentração das lãs não churras dos efectivos ovinos dos seus associados, em armazéns regionais, para venda em leilão, com prévia classificação e avaliação pelo Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA).
+2.º As organizações da produção promoverão a concentração das lãs não churras isentas de marcas com tinta plástica e alcatrão dos efectivos ovinos dos seus associados, em armazéns regionais, para venda em leilão, com prévia classificação e avaliação pelo Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA);
+
+> Alterado pelo/a [Portaria n.º 301/94](https://diariodarepublica.pt/dr/detalhe/portaria/301-1994-262591), publicado em 1994-05-18.
 
 3.º A armazenagem das lãs não churras concentradas nos termos do número anterior deverá obedecer às directrizes emanadas pelo IROMA.
 
@@ -171,4 +189,42 @@ Tabela anexa a que se refere o n.º 1 do n.º 6.º da Portaria n.º 1130/93
 
 Lãs brancas não churras de tosquia
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258b00/61886189.pdf)
+Penteados brancos:
+
+Valor por quilograma
+
+Merinos extra ... 640$00
+
+Merinos finos ... 588$00
+
+Merinos correntes ... 491$00
+
+Primas ... 416$00
+
+Cruzados finos ... 372$00
+
+Lavados brancos (para carda):
+
+Merinos extra ... 508$00
+
+Merinos finos ... 473$00
+
+Merinos correntes ... 402$00
+
+Primas ... 321$00
+
+Cruzados finos ... 293$00
+
+Cruzados médios ... 250$00
+
+Cruzados lustrosos ... 222$00
+
+Peças e aninhos fortes ... 192$00
+
+Pontas e chocas ... 161$00
+
+Lavados e penteados pigmentados:
+
+Desvalorização de 20% em todas as classe.
+
+> Alterado pelo/a [Portaria n.º 301/94](https://diariodarepublica.pt/dr/detalhe/portaria/301-1994-262591), publicado em 1994-05-18.

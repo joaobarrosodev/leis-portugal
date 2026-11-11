@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:685648:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1963-09-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "baded26523fddbd9"
+   ]
+  },
+  {
+   "date": "1966-05-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:472746:por",
+     "title": "Portaria n.º 22010",
+     "published": "1966-05-20",
+     "dre_path": "/dr/detalhe/portaria/22010-1966-472746"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6",
+    "Altera Artigo unidades 10-12"
+   ],
+   "fragments": [
+    "75af325bf5f32df0"
+   ]
+  }
+ ],
+ "fragments": {
+  "baded26523fddbd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, que seja fixado para a produção de farinha de milho para incorporação por Moagens Associadas, S. A. R. L., o seguinte diagrama:\n\nDespesa:\n\n1 kg de milho ... 2$35\n\nTransporte do cereal ... $071\n\nParte do encargo do saco e arredondamento ... $0066\n\nTaxa de moagem ... $389\n\n... 2$8166\n\nReceita:\n\n0,700 kg de farinha para incorporação, a 3$10/kg ... 2$17\n\n0,150 kg de farinha forrageira, a 1$85/kg ... $2775\n\n0,150 kg de germe de milho, a 2$4606 ... $3691\n\n... 2$8166\n\nSecretaria de Estado do Comércio, 4 de Setembro de 1963. - O Secretário de Estado do Comércio, Armando Ramos de Paula Coelho."
+  },
+  "75af325bf5f32df0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1966-05-20",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 22010](https://diariodarepublica.pt/dr/detalhe/portaria/22010-1966-472746), publicado em 1966-05-20.",
+    "Alterado pelo/a [Portaria n.º 22010](https://diariodarepublica.pt/dr/detalhe/portaria/22010-1966-472746), publicado em 1966-05-20."
+   ],
+   "markdown": "Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, que seja fixado para a produção de farinha de milho para incorporação por Moagens Associadas, S. A. R. L., o seguinte diagrama:\n\nDespesa:\n\n1 kg de milho ... 2$35\n\nTransporte do cereal ... $071\n\nParte do encargo do saco o arredondamento ... $0066\n\n> Alterado pelo/a [Portaria n.º 22010](https://diariodarepublica.pt/dr/detalhe/portaria/22010-1966-472746), publicado em 1966-05-20.\n\nTaxa de moagem ... $389\n\n... 2$8166\n\nReceita:\n\n0,630 kg de farinha para incorporação a 3$1992/quilograma ... 2$0155\n\n0,220 kg de farinha forrageira a 2$20/quilograma ... $484\n\n0,150 kg de gérmen a 2$114 02/quilograma ... $3171\n\n> Alterado pelo/a [Portaria n.º 22010](https://diariodarepublica.pt/dr/detalhe/portaria/22010-1966-472746), publicado em 1966-05-20.\n\n... 2$8166\n\nSecretaria de Estado do Comércio, 4 de Setembro de 1963. - O Secretário de Estado do Comércio, Armando Ramos de Paula Coelho."
+  }
+ }
+}

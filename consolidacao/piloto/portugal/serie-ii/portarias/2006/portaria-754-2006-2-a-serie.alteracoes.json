@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção-Geral dos Recursos Florestais - Manuel Augusto Gonçalves Garcia.",
+    "depois": "Representante da Autoridade Florestal Nacional - Viriato Pascoal Lopes Alves.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1686403:por",
+    "alterador": "pt:dre:2598875:por"
+  }
+]

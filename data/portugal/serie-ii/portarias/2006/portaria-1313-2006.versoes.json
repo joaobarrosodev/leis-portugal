@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1894797:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2006-09-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3c5ac31c34c69561"
+   ]
+  },
+  {
+   "date": "2009-10-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:2325583:por",
+     "title": "Portaria n.º 1037/2009",
+     "published": "2009-10-22",
+     "dre_path": "/dr/detalhe/portaria/1037-2009-2325583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6",
+    "Altera Artigo unidades 14-16"
+   ],
+   "fragments": [
+    "ee8912861d5b96de"
+   ]
+  }
+ ],
+ "fragments": {
+  "3c5ac31c34c69561": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição da política cinegética do concelho.\n\nDetermina o n.º 2 do artigo 157.º daquele diploma que, por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 157.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético e da Conservação da Fauna Municipal de Borba é constítuido pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nAntónio Joaquim Barroso Ferreira.\n\nJosé Francisco Pombeiro Andrade.\n\nLuís Filipe O. Lacerda Valadares.\n\nRepresentantes dos agricultores:\n\nFrancisco José Pereira Caeiro.\n\nJoaquim António Zita Cortes.\n\nRepresentante das organizações não governamentais do ambiente - Nuno David Letras Guégués.\n\nAutarca de freguesia - António José Barroso Paixão.\n\nRepresentante da Direcção-Geral dos Recursos Florestais - Manuel Augusto Gonçalves Garcia.\n\n2.º Em caso de impedimento de qualquer dos vogais pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n6 de Setembro de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas."
+  },
+  "ee8912861d5b96de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1037/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1037-2009-2325583), publicado em 2009-10-22.",
+    "Alterado pelo/a [Portaria n.º 1037/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1037-2009-2325583), publicado em 2009-10-22."
+   ],
+   "markdown": "Pelo [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição da política cinegética do concelho.\n\nDetermina o n.º 2 do artigo 157.º daquele diploma que, por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 157.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético e da Conservação da Fauna Municipal de Borba é constituído pelos seguintes vogais:\n\n> Alterado pelo/a [Portaria n.º 1037/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1037-2009-2325583), publicado em 2009-10-22.\n\nRepresentantes dos caçadores:\n\nAntónio Joaquim Barroso Ferreira.\n\nJosé Francisco Pombeiro Andrade.\n\nLuís Filipe O. Lacerda Valadares.\n\nRepresentantes dos agricultores:\n\nFrancisco José Pereira Caeiro.\n\nJoaquim António Zita Cortes.\n\nRepresentante das organizações não governamentais do ambiente:\n\nNuno David Letras Guégués.\n\nAutarca de freguesia:\n\nAntónio José Barroso Paixão.\n\nRepresentante da Autoridade Florestal Nacional:\n\nSilvestre Manuel Valente Marques.\n\n> Alterado pelo/a [Portaria n.º 1037/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1037-2009-2325583), publicado em 2009-10-22.\n\n2.º Em caso de impedimento de qualquer dos vogais pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n6 de Setembro de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas."
+  }
+ }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Manuel Jorge Alves Magalhães;\n\nJosé Avelino Vaz Souto;",
+    "depois": "Manuel Jorge Alves Magalhães.\n\nJosé Avelino Vaz Souto.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2517957:por",
+    "alterador": "pt:dre:2598879:por"
+  },
+  {
+    "artigo": "unidades 11-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Boaventura Silva Mendes Moura;\n\nJoão Evangelista Pereira Alves;\n\nRepresentante das associações de defesa do ambiente:\n\nJosé Manuel Álvares Pereira;\n\nAutarca de freguesia:\n\nAntónio Bernardes Fidalgo;\n\nRepresentante da Direcção Regional de Agricultura de Trás-os-Montes:\n\nFernando Lopes Monteiro.",
+    "depois": "Boaventura Silva Mendes Moura.\n\nJoão Evangelista Pereira Alves.\n\nRepresentante das associações de defesa do ambiente - José Manuel Álvares Pereira.\n\nAutarca de freguesia - António Bernardes Fidalgo.\n\nRepresentante da Autoridade Florestal Nacional - Maria João Martins Gonçalves Pinheiro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2517957:por",
+    "alterador": "pt:dre:2598879:por"
+  }
+]

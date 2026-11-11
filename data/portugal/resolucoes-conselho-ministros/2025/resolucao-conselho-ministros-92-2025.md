@@ -40,10 +40,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-08-26'
+version_history:
+  file: resolucao-conselho-ministros-92-2025.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2025-05-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-08-26'
+    amending: pt:dre:1160679205:por
+    amending_title: Resolução do Conselho de Ministros n.º 171/2026
+    changes:
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 14-22
+    - Altera Artigo unidades 24-26
+    - Altera Artigo unidades 30-30
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/92/2025/05/02/p/dre/pt/html
@@ -69,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:39:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 171/2026. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2025/resolucao-conselho-ministros-92-2025.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,35 +175,45 @@ Assim:
 
 Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, dos n.os5 e 6 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, do [Despacho n.º 3628/2016](https://diariodarepublica.pt/dr/detalhe/despacho/3628-2016-73833548), publicado no Diário da República, 2.ª série, n.º 50, de 11 de março de 2016, dos artigos 36.º e 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, dos artigos 44.º a 46.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Autorizar o Instituto Superior Técnico da Universidade de Lisboa a assumir a realização da despesa correspondente à celebração do contrato de empreitada de obras públicas de «Reabilitação e construção do edifício do jardim sul do Polo da Alameda - Centro para a Inteligência Artificial e Economia Digital | AIDE», até ao montante global máximo de € 6 878 710,00, ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor.
+1 - Autorizar o Instituto Superior Técnico da Universidade de Lisboa (IST) a assumir a realização da despesa correspondente à celebração do contrato de empreitada de obras públicas de «Reabilitação e construção do edifício do jardim sul do Polo da Alameda - Centro para a Inteligência Artificial e Economia Digital | AIDE», até ao montante global máximo de 8 000 000,00 €, ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 171/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2026-1160679205), publicado em 2026-08-21.
 
 2 - Determinar que os encargos com a despesa referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor, sendo repartidos nos termos do anexo à presente resolução e da qual faz parte integrante:
 
-a) 2025 - € 1 375 742,00, repartido por:
+a) 2025 - 0,00 €:
 
-i) Financiamento FEDER: € 550 296,80;
+i) Financiamento FEDER: 0,00 €;
 
-ii) Financiamento nacional: € 825 445,20;
+ii) Financiamento nacional: 0,00 €;
 
-b) 2026 - € 4 127 227,00, repartido por:
+b) 2026 - 3 316 574,79 €, repartido por:
 
-i) Financiamento FEDER: € 1 650 890,40;
+i) Financiamento FEDER: 1 326 629,92 €;
 
-ii) Financiamento nacional: € 2 476 335,60;
+ii) Saldos de Fundos Europeus:1 989 944,87 €;
 
-c) 2027 - € 1 375 742,00, repartido por:
+c) 2027 - 4 683 425,21 €, repartido por:
 
-i) Financiamento FEDER: € 550 296,80;
+i) Financiamento FEDER: 1 873 370,08 €;
 
-ii) Financiamento nacional: € 825 445,20.
+ii) Saldos de Fundos Europeus: 1 298 726,03 €;
+
+iii) Receita Própria: 1 511 329,10 €.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 171/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2026-1160679205), publicado em 2026-08-21.
 
 3 - Estabelecer que o montante fixado para cada ano económico pode ser acrescido do saldo apurado no ano que o antecede.
 
-4 - Determinar que os encargos financeiros decorrentes da presente resolução são suportados por verbas adequadas inscritas, no ano de 2025, e a inscrever, nos anos de 2026 e 2027, no orçamento do Instituto Superior Técnico da Universidade de Lisboa.
+4 - Determinar que os encargos financeiros decorrentes da presente resolução são suportados por verbas adequadas inscritas, no ano de 2026, e a inscrever, no ano de 2027, nas fontes de financiamento referidas no n.º 2 do orçamento do IST, não havendo lugar, para este efeito, a qualquer reforço orçamental com recurso à dotação provisional ou a outras dotações centralizadas do Ministério das Finanças, nem com recurso ao capítulo 60, gerido pela Entidade do Tesouro e Finanças, durante a execução orçamental.
 
-5 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área do ensino superior, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+5 - Estabelecer que a assunção dos encargos financeiros plurianuais decorrentes da presente resolução não constitui fundamento para a atribuição de plafond adicional referente ao ano de 2027.
 
-6 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+6 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área do ensino superior, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+
+7 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 171/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2026-1160679205), publicado em 2026-08-21.
 
 Presidência do Conselho de Ministros, 23 de abril de 2025. - O Primeiro-Ministro, Luís Montenegro.
 
@@ -193,25 +221,40 @@ Presidência do Conselho de Ministros, 23 de abril de 2025. - O Primeiro-Ministr
 
 Plano de execução financeira
 
-| Ano | Atividades | Montante por rubrica | Total ano |
+| (valores com IVA) |  |  |  |
 | --- | --- | --- | --- |
-| Ano 2025 |  |  |  |
-|  | Montagem de estaleiro | € 74 416,63 |  |
-|  | Demolições e preparação do terreno | € 148 833,27 |  |
-|  | Escavação | € 74 416,63 |  |
-|  | Fundações | € 1 190 666,13 | € 1 488 332,66 |
+| Ano | Atividades | Total ano |  |
 | Ano 2026 |  |  |  |
-|  | Fundações | € 223 249,90 |  |
-|  | Estrutura | € 669 749,70 |  |
-|  | Alvenarias e rebouços | € 669 749,70 |  |
-|  | Redes de infraestruturas | € 446 499,79 |  |
-|  | Equipamentos fixos (data center) | € 2 455 748,89 | € 4 464 997,98 |
+|  | Montagem de estaleiro | 135 601 € |  |
+|  | Demolições e preparação do terreno | 96 407 € |  |
+|  | Trabalho de escavação | 22 535 € |  |
+|  | Estrutura | 930 259 € |  |
+|  | Alvenarias | 72 899 € |  |
+|  | Redes de infraestruturas | 540 652 € |  |
+|  | Equipamentos fixos (AVAC e GTC) | 719 933 € |  |
+|  | Tectos e luminárias | 267 615 € |  |
+|  | Caixilharias e portas | 288 791 € |  |
+|  | Revestimentos exteriores | 323 484 € |  |
+|  | Ascensores | 92 574 € |  |
+|  | Aranjos exteriores | 24 821 € |  |
+|  | Total parcial | 3 515 569 € |  |
 | Ano 2027 |  |  |  |
-|  | Tetos e luminárias | € 446 499,80 |  |
-|  | Caixilharias e portas | € 446 499,80 |  |
-|  | Revestimentos exteriores | € 446 499,79 |  |
-|  | Ascensores | € 148 833,27 | € 1 488 332,66 |
-| Total |  |  | € 7 441 663,30 |
+|  | Montagem de estaleiro | 406 802 € |  |
+|  | Demolições e preparação do terreno | 0 € |  |
+|  | Trabalho de escavação | 0 € |  |
+|  | Estrutura | 558 155 € |  |
+|  | Alvenarias | 216 809 € |  |
+|  | Redes de infraestruturas | 756 913 € |  |
+|  | Equipamentos fixos (AVAC e GTC) | 719 933 € |  |
+|  | Tectos e luminárias | 535 229 € |  |
+|  | Caixilharias e portas | 577 582 € |  |
+|  | Revestimentos exteriores | 646 967 € |  |
+|  | Ascensores | 129 603 € |  |
+|  | Aranjos exteriores | 416 437 € |  |
+|  | Total parcial | 4 964 431 € |  |
+|  | Total global | 8 480 000 € |  |
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 171/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2026-1160679205), publicado em 2026-08-21.
 
 118995882
 

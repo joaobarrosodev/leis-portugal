@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-06-05'
+version_history:
+  file: portaria-922-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-10-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-06-05'
+    amending: pt:dre:286952:por
+    amending_title: Portaria n.º 499/2006
+    changes:
+    - Altera Artigo unidades 7-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/922/1999/10/20/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:18:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 499/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-922-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,9 +152,9 @@ Manda o Governo, pelo Ministro das Finanças, nos termos do artigo 2.º do [Decr
 
 1.2 - Modelo n.º 6-B, destinado aos veículos de peso bruto igual ou superior a 12 t.
 
-2.º - É aprovada a declaração de autoliquidação prevista no n.º 2 do artigo 9.º do Regulamento dos Impostos de Circulação e Camionagem:
+2.º - (Revogado.)
 
-2.1 - Modelo n.º 6, que constitui exclusivo da Imprensa Nacional-Casa da Moeda, S. A., destinada aos veículos em que a informação pré-impressa constante dos documentos de cobrança referidos nos n.os 1.1 e 1.2 contenha incorrecções, omissões ou qualquer outra anomalia, bem como a substituí-los no caso de não recebimento pelo sujeito passivo.
+> Alterado pelo/a [Portaria n.º 499/2006](https://diariodarepublica.pt/dr/detalhe/portaria/499-2006-286952), publicado em 2006-05-31.
 
 3.º Os modelos referidos nos números anteriores, em anexo, fazem parte integrante da presente portaria.
 

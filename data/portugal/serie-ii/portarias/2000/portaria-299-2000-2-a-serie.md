@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-08-23'
+version_history:
+  file: portaria-299-2000-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-02-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-08-23'
+    amending: pt:dre:3121487:por
+    amending_title: Portaria n.º 625/2010
+    changes:
+    - Altera Artigo unidades 29-51
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:11:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 625/2010. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2000/portaria-299-2000-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -187,46 +202,56 @@ Lagoa dos Cântaros, freguesia de São Pedro, concelho de Manteigas.
 
 1 - Durante o exercício da pesca os pescadores desportivos devem fazer-se sempre acompanhar dos documentos a seguir indicados e dos demais que venham a ser exigidos por qualquer diploma legal:
 
-a) Licença de pesca desportiva, válida para os concelhos de Covilhã, Gouveia, Seia ou Manteigas;
+a) Licença de pesca desportiva territorialmente válida;
 
-b) Licença especial diária para a Zona de Pesca Reservada das Lagoas da Serra da Estrela;
+b) Licença especial para a zona de pesca reservada das lagoas da serra da Estrela;
 
-c) Bilhete de identidade ou passaporte.
+c) Bilhete de identidade ou cartão de cidadão ou passaporte.
 
-2 - Os indivíduos que exerçam a pesca sem serem possuidores da necessária licença especial diária são considerados sem licença de pesca.
+2 - Os indivíduos que exerçam a pesca sem serem possuidores da necessária licença especial são considerados sem licença de pesca.
 
-3 - A pesca nas massas hídricas que constituem esta zona só pode ser praticada no período compreendido entre 1 de Maio e 30 de Setembro, sendo estabelecido por edital da Direcção-Geral das Florestas, dentro do referido período, os períodos de pesca para as diferentes espécies aquícolas.
-
-4 - São definidos por edital da Direcção-Geral das Florestas, consultada a Direcção Regional de Agricultura da Beira Interior:
+3 - São definidos por edital da Autoridade Florestal Nacional:
 
 a) As espécies aquícolas que podem ser capturadas, respectivos períodos de pesca e dimensões mínimas;
 
 b) O número máximo de exemplares de cada espécie a capturar por dia e por pescador;
 
-c) Os iscos permitidos, para além da amostra e da pluma;
+c) Os métodos de pesca e iscos autorizados;
 
 d) O número máximo de licenças especiais a atribuir e os respectivos preços;
 
-e) Os locais onde são emitidas as licenças especiais diárias;
+e) Os locais onde são emitidas as licenças especiais;
 
-f) As massas hídricas nas quais, para efeitos de recuperação das populações piscícolas, fica interdita a pesca.
+f) As massas hídricas onde só é permitida a pesca sem morte;
+
+g) As massas hídricas onde a pesca é proibida.
+
+4 - É obrigatória a declaração de capturas efectuadas, em modelo próprio, à Autoridade Florestal Nacional, no prazo máximo de 15 dias após a jornada de pesca, sem a qual não será emitida nova licença especial para esta zona.
 
 5 - Só é permitida a pesca desportiva com cana, não podendo cada aparelho ter mais de três anzóis ou, no máximo, uma fateixa com três farpas.
 
 6 - Cada pescador não pode utilizar, simultaneamente, mais de uma cana.
 
-7 - A pesca só pode ser praticada de terra ou vadeando, todavia, na lagoa Comprida pode ser autorizado o uso de barco, desde que não seja movido a motor.
+7 - A pesca só pode ser praticada de terra ou vadeando; todavia, na Lagoa Comprida pode ser autorizado o uso de embarcação desde que não seja movida a motor.
 
 8 - É proibido transportar nas embarcações, reter nas margens e utilizar aparelhos de pesca diferentes dos legalmente autorizados.
 
-9 - É obrigatório o uso de desenferrador no caso da captura de exemplares com dimensões inferiores às mínimas estabelecidas.
+9 - É obrigatório o uso de desferrador no caso da captura de exemplares com dimensões inferiores às mínimas estabelecidas, bem como no caso da pesca sem morte, independentemente da dimensão das trutas capturadas.
 
-10 - Sempre que os períodos de pesca estabelecidos para esta zona não coincidam com os das demais massas hídricas para as mesmas espécies aquícolas, o transporte das espécies capturadas deverá ser acompanhado da licença especial diária que autorizou a sua captura.
+10 - Só é permitida a detenção e transporte dos exemplares capturados desde que o pescador se faça acompanhar da licença especial que autorizou a sua captura.
 
-11 - Em circunstâncias especiais, nomeadamente quando se verificar uma acentuada diminuição do nível da água, a Direcção Regional de Agricultura da Beira Interior poderá suspender a venda de licenças especiais diárias para todas ou apenas para algumas das massas hídricas que constituem esta zona de pesca reservada, sendo a referida suspensão previamente tornada pública através de edital.
+11 - A Autoridade Florestal Nacional poderá autorizar nesta zona a realização das provas de pesca desportiva que entender convenientes, sendo os respectivos regulamentos aprovados por esta Autoridade e as mesmas tornadas públicas através de edital.
 
-12 - Todos os pescadores que pratiquem a pesca na Zona de Pesca Reservada das Lagoas da Serra da Estrela ficam obrigados a fornecer à Direcção Regional de Agricultura da Beira Interior, sempre que lhes for exigido, os elementos que aquela entidade entender necessários para efeitos de estudos estatísticos e biométricos das espécies capturadas, implicando a falta de cumprimento desta obrigação a impossibilidade de obter novas licenças especiais de pesca para esta zona durante um ano.
+12 - Nas provas de pesca desportiva é obrigatório o uso de manga e a devolução à água de todos os exemplares capturados em boas condições de sobrevivência.
 
-13 - A presente zona de pesca reservada é sinalizada com tabuletas de modelo aprovado pela [Portaria n.º 22724](https://diariodarepublica.pt/dr/detalhe/portaria/22724-1967-311999), de 17 de Junho de 1967.
+13 - Para efeitos da realização de provas de pesca desportiva não se aplicam os períodos de pesca, dimensões mínimas e número máximo de exemplares estabelecidos por edital da Autoridade Florestal Nacional.
 
-14 - Nos casos omissos no presente Regulamento, o exercício da pesca rege-se pelo disposto no [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), de 10 de Outubro de 1962, com as alterações introduzidas pelo [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162), de 6 de Julho, e demais legislação aplicável.
+14 - Em circunstâncias especiais, nomeadamente quando se verificar uma acentuada diminuição do nível da água, a Autoridade Florestal Nacional poderá, por edital, suspender ou alterar a venda de licenças especiais para todas ou apenas algumas das massas hídricas que constituem esta zona de pesca reservada, bem como autorizar meios e processos de pesca diferentes dos estabelecidos.
+
+15 - Todos os pescadores que pratiquem a pesca na zona de pesca reservada das lagoas da serra da Estrela ficam obrigados a fornecer à Autoridade Florestal Nacional, sempre que lhes for exigido, os elementos que aquela entidade entender necessários para efeitos de estudos estatísticos e biométricos das espécies capturadas, implicando a falta de cumprimento desta obrigação a impossibilidade de obter novas licenças especiais de pesca para esta zona durante um ano.
+
+16 - A presente zona de pesca reservada é sinalizada com tabuletas de modelo aprovado pela [Portaria n.º 22724](https://diariodarepublica.pt/dr/detalhe/portaria/22724-1967-311999), de 17 de Junho de 1967.
+
+17 - Nos casos omissos no presente Regulamento, o exercício da pesca rege-se pelo disposto no [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), de 10 de Outubro de 1962, com as alterações introduzidas pelo [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162), de 6 de Julho, e demais legislação aplicável.
+
+> Alterado pelo/a [Portaria n.º 625/2010](https://diariodarepublica.pt/dr/detalhe/portaria/625-2010-3121487), publicado em 2010-08-23.

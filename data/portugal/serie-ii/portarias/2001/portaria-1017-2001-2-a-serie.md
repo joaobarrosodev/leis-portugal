@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-11-02'
+version_history:
+  file: portaria-1017-2001-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-06-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-11-02'
+    amending: pt:dre:2598879:por
+    amending_title: Portaria n.º 1154/2009
+    changes:
+    - Altera Artigo unidades 8-9
+    - Altera Artigo unidades 11-18
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:14:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1154/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2001/portaria-1017-2001-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,27 +127,25 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Representantes dos caçadores:
 
-Manuel Jorge Alves Magalhães;
+Manuel Jorge Alves Magalhães.
 
-José Avelino Vaz Souto;
+José Avelino Vaz Souto.
+
+> Alterado pelo/a [Portaria n.º 1154/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1154-2009-2598879), publicado em 2009-11-02.
 
 Representantes dos agricultores:
 
-Boaventura Silva Mendes Moura;
+Boaventura Silva Mendes Moura.
 
-João Evangelista Pereira Alves;
+João Evangelista Pereira Alves.
 
-Representante das associações de defesa do ambiente:
+Representante das associações de defesa do ambiente - José Manuel Álvares Pereira.
 
-José Manuel Álvares Pereira;
+Autarca de freguesia - António Bernardes Fidalgo.
 
-Autarca de freguesia:
+Representante da Autoridade Florestal Nacional - Maria João Martins Gonçalves Pinheiro.
 
-António Bernardes Fidalgo;
-
-Representante da Direcção Regional de Agricultura de Trás-os-Montes:
-
-Fernando Lopes Monteiro.
+> Alterado pelo/a [Portaria n.º 1154/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1154-2009-2598879), publicado em 2009-11-02.
 
 2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.
 

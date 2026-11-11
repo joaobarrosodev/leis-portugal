@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 35-35",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Mínimo de cobrança - 805$00;",
+    "depois": "Mínimo de cobrança - 800$00;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:689255:por",
+    "alterador": "pt:dre:495319:por"
+  },
+  {
+    "artigo": "unidades 39-39",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Mínimo de cobrança - 805$00;",
+    "depois": "Mínimo de cobrança - 800$00;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:689255:por",
+    "alterador": "pt:dre:495319:por"
+  }
+]

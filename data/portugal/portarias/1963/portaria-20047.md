@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1966-05-20'
+version_history:
+  file: portaria-20047.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1963-09-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1966-05-20'
+    amending: pt:dre:472746:por
+    amending_title: Portaria n.º 22010
+    changes:
+    - Altera Artigo unidades 6-6
+    - Altera Artigo unidades 10-12
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:33:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 22010. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1963/portaria-20047.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -105,7 +121,9 @@ Despesa:
 
 Transporte do cereal ... $071
 
-Parte do encargo do saco e arredondamento ... $0066
+Parte do encargo do saco o arredondamento ... $0066
+
+> Alterado pelo/a [Portaria n.º 22010](https://diariodarepublica.pt/dr/detalhe/portaria/22010-1966-472746), publicado em 1966-05-20.
 
 Taxa de moagem ... $389
 
@@ -113,11 +131,13 @@ Taxa de moagem ... $389
 
 Receita:
 
-0,700 kg de farinha para incorporação, a 3$10/kg ... 2$17
+0,630 kg de farinha para incorporação a 3$1992/quilograma ... 2$0155
 
-0,150 kg de farinha forrageira, a 1$85/kg ... $2775
+0,220 kg de farinha forrageira a 2$20/quilograma ... $484
 
-0,150 kg de germe de milho, a 2$4606 ... $3691
+0,150 kg de gérmen a 2$114 02/quilograma ... $3171
+
+> Alterado pelo/a [Portaria n.º 22010](https://diariodarepublica.pt/dr/detalhe/portaria/22010-1966-472746), publicado em 1966-05-20.
 
 ... 2$8166
 

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-11-02'
+version_history:
+  file: portaria-831-2003-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-07-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-11-02'
+    amending: pt:dre:2598674:por
+    amending_title: Portaria n.º 1149/2009
+    changes:
+    - Altera Artigo unidades 13-18
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:42:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1149/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2003/portaria-831-2003-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,17 +140,13 @@ José Fernandes Barbosa.
 
 Manuel Joaquim Barbeita Gomes.
 
-Autarca de freguesia:
+Autarca de freguesia - Luís Adriano Areias da Silva.
 
-Luís Adriano Areias da Silva.
+Representante da Autoridade Florestal Nacional - Augusto João Barbosa Maia.
 
-Representante da Direcção Regional de Agricultura de Entre Douro e Minho:
+Representante do Instituto da Conservação da Natureza e da Biodiversidade - José Marcos Ferreira de Azevedo Guerra Liberal.
 
-Silvério José Alves de Carvalho.
-
-Representante do Instituto da Conservação da Natureza:
-
-José Marcos Ferreira de Azevedo Guerra Liberal.
+> Alterado pelo/a [Portaria n.º 1149/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1149-2009-2598674), publicado em 2009-11-02.
 
 2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.
 

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 15-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção Regional de Agricultura do Alentejo:\n\nFrancisco José Bastos Soares.",
+    "depois": "Representante da Autoridade Florestal Nacional:\n\nSilvestre Manuel Valente Marques.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1107376:por",
+    "alterador": "pt:dre:2325586:por"
+  }
+]

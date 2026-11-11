@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-23'
+version_history:
+  file: portaria-717-2004-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-06-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-23'
+    amending: pt:dre:3228000:por
+    amending_title: Portaria n.º 1075/2009
+    changes:
+    - Altera Artigo unidades 15-17
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:48:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1075/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2004/portaria-717-2004-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,11 +144,17 @@ Autarca de freguesia:
 
 José Francisco Bento Sanches Branco.
 
-Representante da Direcção Regional de Agricultura de Trás-os-Montes:
+Representante das organizações não governamentais do ambiente:
 
-Abílio Rodrigues.
+Armando Emanuel Rainha Simões Pacheco.
 
-Representante do Instituto da Conservação da Natureza:
+Representante da Autoridade Florestal Nacional:
+
+Armando José Pereira.
+
+Representante do Instituto da Conservação da Natureza e da Biodiversidade:
+
+> Alterado pelo/a [Portaria n.º 1075/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1075-2009-3228000), publicado em 2009-10-23.
 
 Domingos Alfredo Fernandes Amaro.
 

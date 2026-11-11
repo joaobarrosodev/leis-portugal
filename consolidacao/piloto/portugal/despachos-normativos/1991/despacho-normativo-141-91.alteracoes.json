@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 24-39",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Lista das raças bovinas, a que alude o n.º 6, que não poderão ser consideradas para efeitos de atribuição do prémio para manutenção dos rebanhos de vacas aleitantes, pelo Regulamento (CEE) n.º [1357/80](http://data.europa.eu/eli/reg/1980/1357/oj?locale=pt), com a última alteração que lhe foi introduzida pelo Regulamento (CEE) n.º [3802/85](http://data.europa.eu/eli/reg/1985/3802/oj?locale=pt):\n\nVermelha da Dinamarca (Red Danish);\n\nAyreshire;\n\nArmoricaine;\n\nPata-Negra da Bretanha;\n\nFrísia Holandesa, Frísia Pata-Negra Francesa, Holstein Frísia, Holstein, Frísia Branca e Preta, Frísia Vermelha e Branca, Frísia Italiana, Pata-Negra Belga, Pata-Negra Dinamarquesa, Pata-Negra Alemã;\n\nFrísia Espanhola;\n\nGroninger Blaarkop;\n\nGuernesey;\n\nJersey;\n\nKerry;\n\nMalkekorthorn;\n\nMontbéliarde;\n\nReggiana;\n\nTarentaise-Tarina;\n\nValdostana Preta.",
+    "depois": "Lista das raças bovinas a que alude o n.º 6 que não poderão ser consideradas para efeitos de atribuição do prémio para manutenção de vacas aleitantes pelo Regulamento (CEE) n.º [1357/80](http://data.europa.eu/eli/reg/1980/1357/oj?locale=pt), com a última alteração que lhe foi introduzida pelo Regulamento (CEE) n.º [2769/90](http://data.europa.eu/eli/reg/1990/2769/oj?locale=pt):\n\nAngler Rotvieh (Angeln)-Red Dansk Maelkerace (RDM);\n\nAyreshire;\n\nArmoricaine;\n\nBretonne Pie Noire;\n\nFries-Holand (FH), Française Frisonne Pie Noire (FFPN), Friesien-Holstein, Holstein, Black and White Friesian, Red and White Friesian, Frisona Italiana, Zwartbonten van Belgie/Pie Noire de Belgique, Sortbroget Dansk Maelkerace (SDM), Deutsche Schwarzbunte;\n\nFrisona Espagnola;\n\nGroninger Blaaarkop;\n\nGuernsey;\n\nJersey;\n\nKerry;\n\nMalkekorthorn;\n\nMontbéliarde;\n\nReggiana;\n\nTarentaise-Tarina;\n\nValdostana Nera;\n\nSchwarzbunte Milchrasse (SMR).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:663894:por",
+    "alterador": "pt:dre:293758:por"
+  }
+]

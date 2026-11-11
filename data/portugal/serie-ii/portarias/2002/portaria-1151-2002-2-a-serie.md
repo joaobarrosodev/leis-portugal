@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-23'
+version_history:
+  file: portaria-1151-2002-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-08-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-23'
+    amending: pt:dre:3228001:por
+    amending_title: Portaria n.º 1076/2009
+    changes:
+    - Altera Artigo unidades 15-17
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:26:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1076/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2002/portaria-1151-2002-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,11 +144,13 @@ Autarca de freguesia:
 
 Altino de Sousa.
 
-Representante da Direcção Regional de Agricultura de Trás-os-Montes:
+Representante da Autoridade Florestal Nacional:
 
-Ana Paula Pinto Morais Rodrigues.
+José Abílio Soledade Ribeiro Silva.
 
-Representante do Instituto da Conservação da Natureza:
+Representante do Instituto da Conservação da Natureza e da Biodiversidade:
+
+> Alterado pelo/a [Portaria n.º 1076/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1076-2009-3228001), publicado em 2009-10-23.
 
 José Manuel Nascimento.
 

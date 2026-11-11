@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Autarca de freguesia:\n\nAlfredo António Sampaio.\n\nRepresentante da Direcção Regional de Agricultura de Trás-os-Montes:\n\nAntónio Manuel dos Santos Pinto.\n\nRepresentante das associações de defesa do ambiente:\n\nMário Pereira Gonçalves.",
+    "depois": "Autarca de freguesia - Alfredo António Sampaio.\n\nRepresentante da Autoridade Florestal Nacional - António José Pereira Baptista.\n\nRepresentante das associações de defesa do ambiente - Mário Pereira Gonçalves.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1717779:por",
+    "alterador": "pt:dre:3227984:por"
+  }
+]

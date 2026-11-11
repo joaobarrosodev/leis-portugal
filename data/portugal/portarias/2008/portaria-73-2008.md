@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-08-10'
+version_history:
+  file: portaria-73-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-01-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-08-10'
+    amending: pt:dre:455392:por
+    amending_title: Portaria n.º 753/2008
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/73/2008/01/23/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:34:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 753/2008. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2008/portaria-73-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,7 +141,9 @@ Entretanto, a entidade concessionária veio requerer a sua renovação.
 
 Cumpridos os preceitos legais, com fundamento no disposto no artigo 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos nas freguesias de Paredes da Beira, Riodades e Trevões, município de São João da Pesqueira, com a área de 2006 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+1.º Pela presente portaria é renovada, por um período de 12 anos, renovável automaticamente, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos nas freguesias de Paredes da Beira, Riodades e Trevões, município de São João da Pesqueira, com a área de 2006 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+
+> Alterado pelo/a [Portaria n.º 753/2008](https://diariodarepublica.pt/dr/detalhe/portaria/753-2008-455392), publicado em 2008-08-05.
 
 2.º A presente portaria produz efeitos a partir do dia 6 de Agosto de 2007.
 

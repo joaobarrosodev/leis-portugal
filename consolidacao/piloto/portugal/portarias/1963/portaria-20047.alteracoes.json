@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Parte do encargo do saco e arredondamento ... $0066",
+    "depois": "Parte do encargo do saco o arredondamento ... $0066",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:685648:por",
+    "alterador": "pt:dre:472746:por"
+  },
+  {
+    "artigo": "unidades 10-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "0,700 kg de farinha para incorporação, a 3$10/kg ... 2$17\n\n0,150 kg de farinha forrageira, a 1$85/kg ... $2775\n\n0,150 kg de germe de milho, a 2$4606 ... $3691",
+    "depois": "0,630 kg de farinha para incorporação a 3$1992/quilograma ... 2$0155\n\n0,220 kg de farinha forrageira a 2$20/quilograma ... $484\n\n0,150 kg de gérmen a 2$114 02/quilograma ... $3171",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:685648:por",
+    "alterador": "pt:dre:472746:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 14-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção Regional de Agricultura do Alentejo - Possidónio Jaime Rosado Ribeiro.",
+    "depois": "Representante da Autoridade Florestal Nacional - José Caimoto e Sousa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1989437:por",
+    "alterador": "pt:dre:2598877:por"
+  },
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante do Instituto da Conservação da Natureza - Luís Carloto Marques.",
+    "depois": "Representante do Instituto da Conservação da Natureza e da Biodiversidade - Luís Carloto Marques.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1989437:por",
+    "alterador": "pt:dre:2598877:por"
+  }
+]

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:667499:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-10-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51cbad0a4ddb0450"
+   ]
+  },
+  {
+   "date": "2006-06-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:286952:por",
+     "title": "Portaria n.º 499/2006",
+     "published": "2006-05-31",
+     "dre_path": "/dr/detalhe/portaria/499-2006-286952"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-8"
+   ],
+   "fragments": [
+    "3409b92968678918"
+   ]
+  }
+ ],
+ "fragments": {
+  "51cbad0a4ddb0450": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Outubro\n\nManda o Governo, pelo Ministro das Finanças, nos termos do artigo 2.º do [Decreto-Lei n.º 116/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1994-250664), de 3 de Maio, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 214/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1994-218496), de 19 de Agosto, que aprovou o Regulamento dos Impostos de Circulação e Camionagem, republicado pelo [Decreto-Lei n.º 89/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1998-165664), de 6 de Abril, o seguinte:\n\n1.º É aprovado um documento de cobrança a que se refere o n.º 1 do artigo 9.º do Regulamento dos Impostos de Circulação e Camionagem, o qual terá as seguintes modalidades, de harmonia com as características dos veículos definidas no artigo 3.º do mesmo Regulamento:\n\n1.1 - Modelo n.º 6-A, destinado aos veículos cujo peso bruto, excluindo o rebocável, seja inferior a 12 t;\n\n1.2 - Modelo n.º 6-B, destinado aos veículos de peso bruto igual ou superior a 12 t.\n\n2.º - É aprovada a declaração de autoliquidação prevista no n.º 2 do artigo 9.º do Regulamento dos Impostos de Circulação e Camionagem:\n\n2.1 - Modelo n.º 6, que constitui exclusivo da Imprensa Nacional-Casa da Moeda, S. A., destinada aos veículos em que a informação pré-impressa constante dos documentos de cobrança referidos nos n.os 1.1 e 1.2 contenha incorrecções, omissões ou qualquer outra anomalia, bem como a substituí-los no caso de não recebimento pelo sujeito passivo.\n\n3.º Os modelos referidos nos números anteriores, em anexo, fazem parte integrante da presente portaria.\n\n4.º Fica revogado o n.º 1.º da [Portaria n.º 682/98](https://diariodarepublica.pt/dr/detalhe/portaria/682-1998-566643), de 1 de Setembro.\n\nO Ministro das Finanças, António Luciano Pacheco de Sousa Franco, em 21 de Setembro de 1999.\n\n[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/1999/10/245b00/69997001.pdf)"
+  },
+  "3409b92968678918": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-06-05",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 499/2006](https://diariodarepublica.pt/dr/detalhe/portaria/499-2006-286952), publicado em 2006-05-31."
+   ],
+   "markdown": "de 20 de Outubro\n\nManda o Governo, pelo Ministro das Finanças, nos termos do artigo 2.º do [Decreto-Lei n.º 116/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1994-250664), de 3 de Maio, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 214/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1994-218496), de 19 de Agosto, que aprovou o Regulamento dos Impostos de Circulação e Camionagem, republicado pelo [Decreto-Lei n.º 89/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1998-165664), de 6 de Abril, o seguinte:\n\n1.º É aprovado um documento de cobrança a que se refere o n.º 1 do artigo 9.º do Regulamento dos Impostos de Circulação e Camionagem, o qual terá as seguintes modalidades, de harmonia com as características dos veículos definidas no artigo 3.º do mesmo Regulamento:\n\n1.1 - Modelo n.º 6-A, destinado aos veículos cujo peso bruto, excluindo o rebocável, seja inferior a 12 t;\n\n1.2 - Modelo n.º 6-B, destinado aos veículos de peso bruto igual ou superior a 12 t.\n\n2.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 499/2006](https://diariodarepublica.pt/dr/detalhe/portaria/499-2006-286952), publicado em 2006-05-31.\n\n3.º Os modelos referidos nos números anteriores, em anexo, fazem parte integrante da presente portaria.\n\n4.º Fica revogado o n.º 1.º da [Portaria n.º 682/98](https://diariodarepublica.pt/dr/detalhe/portaria/682-1998-566643), de 1 de Setembro.\n\nO Ministro das Finanças, António Luciano Pacheco de Sousa Franco, em 21 de Setembro de 1999.\n\n[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/1999/10/245b00/69997001.pdf)"
+  }
+ }
+}

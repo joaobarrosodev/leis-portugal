@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-11-13'
+version_history:
+  file: portaria-299-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-04-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-11-13'
+    amending: pt:dre:496895:por
+    amending_title: Portaria n.º 879/87
+    changes:
+    - Altera Artigo unidades 27-30
+    - Altera Artigo unidades 48-51
 identifiers:
   celex: null
   eli: null
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:04:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 879/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-299-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,13 +194,19 @@ Estágio
 
 Acesso aos ramos
 
-1 - O acesso aos ramos está sujeito a limitações quantitativas, a fixar anualmente por despacho do reitor, sob proposta do conselho científico.
+1 - O acesso a cada um dos ramos está sujeito a limitações quantitativas.
 
-2 - As regras e condições de candidatura ao acesso aos ramos serão igualmente fixadas pelo reitor, sob proposta do conselho científico.
+2 - O número mínimo de inscrições necessário para o funcionamento de cada um dos ramos é de quinze, sem prejuízo de ser sempre assegurado o funcionamento de um ramo.
 
-3 - Os critérios de selecção serão fixados pelo conselho científico, ouvido o conselho pedagógico, e tornados públicos pelo menos com um ano de antecedência em relação à candidatura a que se aplicarão.
+3 - O número máximo de alunos a admitir à inscrição em cada ramo é fixado por despacho do reitor, sob proposta dos conselhos directivo e científico.
 
-4 - A selecção é da competência do conselho científico e dela não cabe recurso, salvo se arguida do vício de forma.
+4 - As condições para a candidatura e as regras de selecção dos candidatos serão igualmente fixadas por despacho do reitor, sob proposta do conselho científico, ouvido o conselho pedagógico.
+
+5 - Os despachos a que se referem os n.os 3 e 4 serão publicados na 2.ª série do Diário da República até ao dia 1 de Setembro do ano anterior à candidatura a que se reportem.
+
+6 - A selecção dos candidatos à inscrição nos ramos é da competência do conselho científico.
+
+> Alterado pelo/a [Portaria n.º 879/87](https://diariodarepublica.pt/dr/detalhe/portaria/879-1987-496895), publicado em 1987-11-13.
 
 5.º
 
@@ -220,13 +242,15 @@ Classificação final
 
 Entrada em funcionamento
 
-1 - O plano de estudos aprovado na sequência da presente portaria entrará em funcionamento de forma progressiva, ano lectivo a ano lectivo.
+1 - O plano de estudos aprovado na sequência da presente portaria entrará em funcionamento de forma progressiva, ano lectivo a ano lectivo, a partir do ano lectivo de 1987-1988.
 
-2 - A determinação do ano lectivo de entrada em funcionamento do plano de estudos ficará dependente da existência na Universidade dos recursos humanos e materiais necessários à sua completa concretização.
+2 - A entrada em funcionamento de cada um dos ramos ficará dependente da existência na Faculdade do pessoal docente qualificado e dos restantes recursos humanos e materiais necessários à sua completa concretização.
 
-3 - Verificada a existência das condições humanas e materiais necessárias, o reitor remeterá ao Ministro da Educação e Cultura a proposta de entrada em funcionamento e respectivo regime, acompanhada da correspondente fundamentação.
+3 - Verificada a existência das condições referidas no n.º 2 em relação a um ramo, a Faculdade submeterá ao reitor a proposta de entrada em funcionamento desse ramo acompanhada da respectiva fundamentação.
 
-4 - A decisão sobre a entrada em funcionamento e respectivo regime compete ao Ministro da Educação e Cultura, sendo objecto de despacho a publicar na 2.ª série do Diário da República.
+4 - A decisão sobre a entrada em funcionamento de cada um dos ramos compete ao reitor.
+
+> Alterado pelo/a [Portaria n.º 879/87](https://diariodarepublica.pt/dr/detalhe/portaria/879-1987-496895), publicado em 1987-11-13.
 
 10.º
 

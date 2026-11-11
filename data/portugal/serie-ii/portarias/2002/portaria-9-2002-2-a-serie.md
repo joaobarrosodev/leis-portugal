@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-23'
+version_history:
+  file: portaria-9-2002-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-01-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-23'
+    amending: pt:dre:3228006:por
+    amending_title: Portaria n.º 1081/2009
+    changes:
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 11-11
+    - Altera Artigo unidades 17-19
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:34:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1081/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2002/portaria-9-2002-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,13 +128,17 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Representantes dos caçadores:
 
-Fernando Manuel Coelho da Silva.
+Fernando Manuel Coelho da Silva;
+
+> Alterado pelo/a [Portaria n.º 1081/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1081-2009-3228006), publicado em 2009-10-23.
 
 Américo Cêa Durão.
 
 Representantes dos agricultores:
 
-Rodolfo Manuel Fernandes Torres.
+Rodolfo Manuel Fernandes Torres;
+
+> Alterado pelo/a [Portaria n.º 1081/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1081-2009-3228006), publicado em 2009-10-23.
 
 Salvador Bacelar Roleira Barbosa.
 
@@ -129,11 +150,13 @@ Autarca de freguesia:
 
 David Brito da Rocha.
 
-Representante da Direcção Regional de Agricultura de Entre Douro e Minho:
+Representante da Autoridade Florestal Nacional:
 
-Laura Maria Neves de Lemos.
+Augusto João Barbosa Maia.
 
-Representante do Instituto da Conservação da Natureza:
+Representante do Instituto da Conservação da Natureza e da Biodiversidade:
+
+> Alterado pelo/a [Portaria n.º 1081/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1081-2009-3228006), publicado em 2009-10-23.
 
 José Marcos Ferreira de Azevedo Guerra Liberal.
 

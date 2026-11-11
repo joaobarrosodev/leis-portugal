@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção-Geral dos Recursos Florestais:",
+    "depois": "Representante da Autoridade Florestal Nacional:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1780089:por",
+    "alterador": "pt:dre:2611430:por;pt:dre:3227995:por"
+  },
+  {
+    "artigo": "unidades 19-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "José da Silva Gomes Rodrigues.",
+    "depois": "Carla Alexandra Rei Carvalheiro Jacinto.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1780089:por",
+    "alterador": "pt:dre:2611430:por;pt:dre:3227995:por"
+  },
+  {
+    "artigo": "unidades 20-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante do Instituto da Conservação da Natureza:\n\nLuís Eduardo M. Ferreira.",
+    "depois": "Representante do Instituto da Conservação da Natureza e da Biodiversidade:\n\nRaquel Ventura.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1780089:por",
+    "alterador": "pt:dre:2611430:por;pt:dre:3227995:por"
+  }
+]

@@ -1,0 +1,60 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:251446:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-03-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2bded2b777a82798"
+   ]
+  },
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:344942:por",
+     "title": "Lei n.º 55-A/2010",
+     "published": "2010-12-31",
+     "dre_path": "/dr/detalhe/lei/55-a-2010-344942"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8",
+    "Adita Artigo depois da unidade 8",
+    "Altera Artigo unidades 9-9"
+   ],
+   "fragments": [
+    "c0dd7ba2c096f92b"
+   ]
+  }
+ ],
+ "fragments": {
+  "2bded2b777a82798": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Março\n\nA alínea j) do n.º 1 do artigo 42.º do Código do IRC estabelece que os juros e outras formas de remuneração de suprimentos e empréstimos feitos pelos sócios à sociedade, na parte em que excedam o valor correspondente à taxa de referência EURIBOR a 12 meses do dia da constituição da dívida, não são dedutíveis para efeitos de determinação do lucro tributável, mesmo quando contabilizados como custos ou perdas do exercício. De acordo com a redacção que lhe foi dada pela [Lei n.º 85/2001](https://diariodarepublica.pt/dr/detalhe/lei/85-2001-522865), de 4 de Agosto, pode aquela taxa ser substituída por outra que a utilize como indexante, definida por portaria do Ministro das Finanças.\n\nDefine-se como valor limite da remuneração de suprimentos e empréstimos feitos pelos sócios à sociedade a aceitar como custo o correspondente à taxa EURIBOR a 12 meses do dia da constituição da dívida acrescida de um spread de 1,5%.\n\nPor outro lado, clarifica-se o âmbito de aplicação do preceito em causa, tendo em atenção eventuais conflitos de normas, o que poderá verificar-se quanto a situações que, em concreto, fiquem simultaneamente abrangidas por esta disposição e pelas regras aplicáveis aos preços de transferência, reafirmando-se a especialidade destas relativamente àquela.\n\nAssim:\n\nManda o Governo, pelo Ministro das Finanças, nos termos da alínea j) do n.º 1 do artigo 42.º do Código do IRC, o seguinte:\n\n1.º Para os efeitos previstos na alínea j) do n.º 1 do artigo 42.º do Código do IRC, na redacção que lhe foi dada pela [Lei n.º 85/2001](https://diariodarepublica.pt/dr/detalhe/lei/85-2001-522865), de 4 de Agosto, é fixado em 1,5% o spread a acrescer à taxa EURIBOR a 12 meses do dia da constituição da dívida.\n\n2.º Às situações a que seja aplicável o regime estabelecido no artigo 58.º do Código do IRC e na [Portaria n.º 1446-C/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1446-c-2001-319769), de 21 de Dezembro, e ainda às abrangidas por normas convencionais relativas a preços de transferência não é aplicável o disposto na alínea j) do n.º 1 do artigo 42.º do Código do IRC.\n\nO Ministro das Finanças, Guilherme d'Oliveira Martins, em 6 de Fevereiro de 2002."
+  },
+  "c0dd7ba2c096f92b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31.",
+    "Aditado pelo/a [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31.",
+    "Alterado pelo/a [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31."
+   ],
+   "markdown": "de 4 de Março\n\nA alínea j) do n.º 1 do artigo 42.º do Código do IRC estabelece que os juros e outras formas de remuneração de suprimentos e empréstimos feitos pelos sócios à sociedade, na parte em que excedam o valor correspondente à taxa de referência EURIBOR a 12 meses do dia da constituição da dívida, não são dedutíveis para efeitos de determinação do lucro tributável, mesmo quando contabilizados como custos ou perdas do exercício. De acordo com a redacção que lhe foi dada pela [Lei n.º 85/2001](https://diariodarepublica.pt/dr/detalhe/lei/85-2001-522865), de 4 de Agosto, pode aquela taxa ser substituída por outra que a utilize como indexante, definida por portaria do Ministro das Finanças.\n\nDefine-se como valor limite da remuneração de suprimentos e empréstimos feitos pelos sócios à sociedade a aceitar como custo o correspondente à taxa EURIBOR a 12 meses do dia da constituição da dívida acrescida de um spread de 1,5%.\n\nPor outro lado, clarifica-se o âmbito de aplicação do preceito em causa, tendo em atenção eventuais conflitos de normas, o que poderá verificar-se quanto a situações que, em concreto, fiquem simultaneamente abrangidas por esta disposição e pelas regras aplicáveis aos preços de transferência, reafirmando-se a especialidade destas relativamente àquela.\n\nAssim:\n\nManda o Governo, pelo Ministro das Finanças, nos termos da alínea j) do n.º 1 do artigo 42.º do Código do IRC, o seguinte:\n\n1.º Para os efeitos previstos na alínea j) do n.º 1 do artigo 45.º do Código do IRC, na redacção que lhe foi dada pela Lei n.º 85/2001, de 4 de Agosto, é fixado em 1,5 % o spread a acrescer à taxa EURIBOR a 12 meses do dia da constituição da dívida, sem prejuízo do disposto no artigo seguinte.\n\n> Alterado pelo/a [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31.\n\n2.º Sempre que se trate de juros e outras formas de remuneração de suprimentos e empréstimos feitos pelos sócios a PME, tal como definidas no anexo ao Decreto-Lei n.º 372/2007, de 6 de Novembro, é fixado em 6 % o spread a acrescer à taxa EURIBOR a 12 meses do dia da constituição da dívida.\n\n> Aditado pelo/a [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31.\n\n3.º Às situações a que seja aplicável o regime estabelecido no artigo 58.º do Código do IRC e na [Portaria n.º 1446-C/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1446-c-2001-319769), de 21 de Dezembro, e ainda às abrangidas por normas convencionais relativas a preços de transferência não é aplicável o disposto na alínea j) do n.º 1 do artigo 42.º do Código do IRC.\n\n> Alterado pelo/a [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31.\n\nO Ministro das Finanças, Guilherme d'Oliveira Martins, em 6 de Fevereiro de 2002."
+  }
+ }
+}

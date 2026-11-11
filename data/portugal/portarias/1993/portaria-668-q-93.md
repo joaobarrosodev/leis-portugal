@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-09-30'
+version_history:
+  file: portaria-668-q-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-09-30'
+    amending: pt:dre:451186:por
+    amending_title: Declaração de Rectificação n.º 186/93
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/668-q/1993/07/15/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:06:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 186/93.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-668-q-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,7 +158,9 @@ Em simultâneo, também como exemplo e testemunho cultural de relações harmoni
 
 Deste modo:
 
-Com fundamento no estabelecido pelos artigos 19.º, 20.º e 25.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 64.º do [Decreto-Lei n.º 251/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1982-395352), de 12 de Novembro;
+Com fundamento no estabelecido pelos artigos 19.º, 20.º e 25.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 64.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 186/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/186-1993-451186), publicado em 1993-09-30.
 
 Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
