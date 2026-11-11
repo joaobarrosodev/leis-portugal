@@ -1,0 +1,107 @@
+{
+  "id": "pt:dre:2202612:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "2 - O coordenador do departamento curricular pode delegar as suas competências de avaliador nos professores titulares a que se referem as alíneas seguintes, tendo em conta, relativamente a estes, a respectiva componente lectiva:\n\na) Em professores titulares do mesmo departamento curricular que pertençam, sempre que possível, a igual grupo de recrutamento dos docentes a avaliar;\n\nb) Em professores titulares de outro departamento curricular, quando a actividade lectiva do docente a avaliar esteja maioritariamente inserida no âmbito desse departamento.",
+      "alterador": 2
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "4 - Nas delegações de competências previstas no presente despacho não há lugar à subdelegação de competências.",
+      "alterador": 2
+    },
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "9 - O presidente do conselho executivo ou o director assegura a organização da substituição nas funções lectivas quando se encontram em observação de aulas por professores da respectiva disciplina ou grupo de recrutamento, por forma que não se verifique qualquer prejuízo para os alunos e se mantenha em funcionamento a unidade do grupo/turma.",
+      "alterador": 2
+    },
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "12 - Sendo delegada noutro membro da direcção executiva a competência de avaliador, aquele assume todas as funções de avaliador nas fases do processo de avaliação, ficando dispensado, se assim o desejar, do cumprimento da componente lectiva.",
+      "alterador": 2
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "19 - Nos departamentos curriculares constantes do anexo ao presente despacho, do qual faz parte integrante, em que não existam professores titulares, seja por nomeação decorrente de concurso ou por nomeação em comissão de serviço, ou em que o seu número seja insuficiente para o número de docentes a avaliar, podem essas funções ser exercidas transitoriamente, em regime de comissão de serviço sem ocupação de lugar.",
+      "alterador": 2
+    },
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "20 - À nomeação prevista no número anterior aplica-se o disposto nos números 3 a 6 do artigo 24º do [Decreto-Lei n.º 200/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2007-520607), de 22 de Maio.",
+      "alterador": 2
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "21 - Excepciona-se do disposto nos números anteriores os departamentos curriculares integrados exclusivamente por docentes contratados, nos quais a função de avaliador correspondente ao coordenador de departamento curricular é exercida pela Comissão de Coordenação da Avaliação do Desempenho.",
+      "alterador": 2
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "22 - Quando num departamento curricular não existam professores titulares e, de acordo com as regras previstas no presente despacho, não for possível nomear um docente para exercer transitoriamente as funções de professor titular, as funções de avaliação atribuídas por lei ao coordenador do departamento curricular são exercidas pela Comissão de Coordenação da Avaliação do Desempenho.",
+      "alterador": 2
+    },
+    {
+      "de": 32,
+      "ate": 32,
+      "texto": "23 - Quando, num dos departamentos curriculares constantes do anexo, não existam professores titulares, pode ser nomeado um professor para exercer, transitoriamente, essas funções, nos termos dos n.os 19 e 20, desde que o departamento curricular seja constituído por, pelo menos, cinco docentes, sem prejuízo do que assiste ao avaliado, previsto no n.º 15.",
+      "alterador": 2
+    },
+    {
+      "de": 33,
+      "ate": 33,
+      "texto": "24 - Considera-se que há insuficiência de professores titulares em função do número de docentes a avaliar, nas seguintes situações:",
+      "alterador": 2
+    },
+    {
+      "de": 36,
+      "ate": 36,
+      "texto": "25 - Verificando-se as situações que excedam os valores previstos no número anterior, podem ser nomeados, em regime de comissão de serviço sem ocupação de lugar, professores para exercerem, transitoriamente, as funções de professor titular e neles lhes serem delegadas as funções de avaliador, tendo em conta ainda o n.º 2 do presente despacho.",
+      "alterador": 2
+    },
+    {
+      "de": 37,
+      "ate": 37,
+      "texto": "26 - Previamente à nomeação em comissão de serviço, a Direcção-Geral dos Recursos Humanos da Educação comprova o cumprimento dos critérios previstos no presente despacho.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 25,
+      "texto": "15 - Quando o avaliado requeira que a sua avaliação seja feita por avaliador pertencente ao seu grupo de recrutamento e não seja possível garanti-la por inexistência de professores titulares nesse grupo de recrutamento, proceder-se-á à nomeação de professor titular em regime de comissão de serviço para o exercício de funções de avaliador.\n\n16 - Caso não seja possível cumprir o disposto no número anterior, a delegação de competências pode ser feita em professor titular do mesmo grupo de recrutamento do avaliado, recorrendo-se para tal a docentes de outro agrupamento de escolas ou escola não agrupada.\n\n17 - Para efeitos do disposto no número anterior, cabe às direcções regionais de educação assegurar, a pedido do agrupamento de escolas ou escola não agrupada do avaliado, a indicação do professor titular que reúna condições para o efeito.\n\n18 - Tratando-se de professores que leccionem em cursos de dupla certificação, de educação e formação de adultos, ou nos centros de novas oportunidades, e quando tal se torne indispensável em função da organização lectiva do agrupamento de escolas ou escola não agrupada, podem aqueles, em alternativa à faculdade prevista no n.º 15, requerer que a sua avaliação seja efectuada pelo coordenador dos mencionados cursos ou do centro de novas oportunidades em quem será delegada competência para o efeito.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 37,
+      "texto": "27 - Caso o coordenador referido no n.º18 não seja professor titular, proceder-se-á à sua nomeação em regime de comissão de serviço.\n\n28 - Nas delegações de competências a que se refere o presente despacho deve constar a identificação dos avaliadores e dos respectivos avaliados.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1: aditado o n.º 4.1 — não incluído, porque o alterador 2, 3, elimina o ponto 4.1 (efeito líquido nulo).",
+    "Alterador 2, 1: nova redação do n.º 2 (com alíneas a) e b)) — substituída a unidade 13.",
+    "Alterador 2, 1: nova redação do n.º 4 — substituída a unidade 15.",
+    "Alterador 2, 1: nova redação do n.º 9 — substituída a unidade 20.",
+    "Alterador 2, 1: nova redação do n.º 12 — substituída a unidade 23.",
+    "Alterador 2, 1: novos n.os 15 a 18 — inseridos depois da unidade 25 (fim do capítulo I, como na republicação).",
+    "Alterador 2, 1: n.os 19 a 22 = anteriores n.os 15 a 18 — unidades 28 a 31 renumeradas, texto atual mantido.",
+    "Alterador 2, 2: aditado o n.º 23 (anterior n.º 19 com nova redação) — substituída a unidade 32.",
+    "Alterador 2, 2: n.os 24 a 26 = anteriores n.os 20 a 22 — unidades 33, 36 e 37 renumeradas (alíneas 34 e 35 sem mudança).",
+    "Alterador 2, 2: aditados os n.os 27 e 28 — inseridos depois da unidade 37.",
+    "Alterador 2, 3: eliminado o ponto 4.1 — já refletido (não inserido).",
+    "Alterador 2, 5: republicação — usada só para localizar os novos n.os 15 a 18; texto atual das unidades renumeradas copiado do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

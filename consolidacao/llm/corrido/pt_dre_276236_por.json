@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:276236:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Minde e Mira de Aire, municípios de Alcanena e Porto de Mós, com a área de 2761,25 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alt. 1, 2.º: o n.º 6.º passa a obrigar a um só guarda florestal auxiliar, mas sem nova redação do texto; não aplicado para não inventar redação. Alt. 2, 2.º (substituição da planta) só em imagem. Alt. 3 (Portaria 1105/2007) extingue parte da zona e cria uma zona de caça municipal, sem alteração textual do original.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º (área de 1876,78 ha) -> unidade 6 substituída.",
+    "Alt. 2, 1.º: corrige a área dessa redação para 2761,25 ha -> aplicada na mesma substituição da unidade 6 (texto final).",
+    "Alt. 1, 1.º: aditado o n.º 1.º-A -> inserido depois da unidade 6.",
+    "Alt. 1, 2.º: redução do número de guardas no n.º 6.º sem redação nova -> não aplicada.",
+    "Alt. 2, 2.º: planta substituída, só em imagem -> não aplicada.",
+    "Alt. 3: extinção parcial e criação de zona municipal -> não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:217695:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "2.º-A. Os estudantes titulares de habilitação estrangeira equivalente a um curso do 12.º ano de escolaridade ou a outro curso português do mesmo nível prestarão prova de aferição na disciplina correspondente ao curso a que lhes tenha sido concedida equivalência.\n\n2.º-B. Os titulares de dois ou mais cursos de entre os referidos no anexo a esta portaria prestarão prova de aferição na disciplina correspondente ao curso cuja classificação pretendam utilizar na candidatura ao ensino superior.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, 2.º: alteração dos quadros do anexo — o anexo e a nova redação só existem em imagem (documento original), não aplicada.",
+  "instrucoes": [
+    "Alterador 1, 1.º: aditados os n.os 2.º-A e 2.º-B — inseridos depois da unidade 6.",
+    "Alterador 1, 2.º: alteração dos quadros do anexo — só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

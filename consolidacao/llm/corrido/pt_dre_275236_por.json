@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:275236:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "g) As do Centro de Saúde Mental Infantil e Juvenil de Coimbra, para o Centro Hospitalar de Coimbra;",
+      "alterador": 1
+    },
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "q) As do Centro de Saúde Mental de Penafiel, prosseguidas nos concelhos de Penafiel, Paredes e Lousada, bem como nas freguesias dos concelhos de Felgueiras, Baião e Marco de Canaveses não mencionadas na alínea anterior para o Centro Hospitalar do Vale do Sousa;",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "x) As do Centro de Saúde Mental de Vila Nova de Gaia, para o Centro Hospitalar de Vila Nova de Gaia;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (retificação): «Hospital Distrital de Vila Nova de Gaia» -> «Centro Hospitalar de Vila Nova de Gaia» na unidade 28.",
+    "Alt. 1 (retificação): «Hospital Pediátrico de Celas» -> «Centro Hospitalar de Coimbra» na unidade 13.",
+    "Alt. 1 (retificação): «Hospital Distrital de Penafiel» -> «Centro Hospitalar do Vale do Sousa» na unidade 22.",
+    "Alt. 2 (Portaria 458/93): aumenta os quadros de pessoal dos hospitais; não altera o texto do original -> nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "pt:dre:385851:por",
+  "substituicoes": [
+    {
+      "de": 30,
+      "ate": 31,
+      "texto": "7 - Para além de eventual autenticação, através de carimbo aposto a tinta azul pelo respectivo consulado, da indicação da eleição e do círculo eleitoral de que se trata, o boletim de voto deve conter os seguintes elementos relativos a cada lista apresentada a votação:\n\na) Letra que lhe coube no sorteio a que se refere o n.º 10.º, n.º 3;\n\nb) Outra designação que, eventualmente, lhe tenha sido atribuída;\n\nc) Nomes dos candidatos, pelo menos no que se refere aos efectivos;\n\nd) Designação da organização não governamental de portugueses no estrangeiro pelo qual os candidatos sejam propostos, com indicação da área consular da respectiva sede ou lugar onde exerce actividade, ou, sendo caso disso, a designação de 'independente'.\n\n8 - Os elementos relativos a cada lista apresentada a votação referidos no número anterior são dispostos no boletim de voto, sequencialmente, pela ordem resultante do sorteio efectuado nos termos do n.º 1, com o arranjo gráfico mais adequado ao número de listas concorrentes e ao número de elementos de cada lista, figurando, no espaço destinado a cada uma, um quadrado em branco destinado a assinalar a escolha do eleitor.",
+      "alterador": 1
+    },
+    {
+      "de": 40,
+      "ate": 40,
+      "texto": "b) Se encontre localizada em zona considerada de fácil acesso para um mínimo de 1000 eleitores, número que poderá ser inferior se a comissão eleitoral considerar de atender fundamentos que lhe sejam apresentados para o efeito, designadamente em matéria de segurança, de distância geográfica ou de dificuldade de acesso ou de transporte;",
+      "alterador": 1
+    },
+    {
+      "de": 45,
+      "ate": 45,
+      "texto": "4 - Em caso de impossibilidade de o acto eleitoral poder ter lugar nas instalações consulares, designadamente por estas não poderem abrir ao público no dia das eleições, a comissão eleitoral delibera sobre o local em que as mesmas terão lugar, à luz dos critérios referidos no n.º 2.",
+      "alterador": 1
+    },
+    {
+      "de": 48,
+      "ate": 48,
+      "texto": "7 - Sem prejuízo dos ajustamentos decorrentes da parte final da alínea b) do n.º 2 e do n.º 8, bem como das situações em que o número de eleitores constantes nos cadernos eleitorais de um posto consular seja inferior, nos casos em que se verifique desdobramento da assembleia eleitoral, os cadernos eleitorais serão divididos de modo que cada volume contenha as referências de, pelo menos, 1000 eleitores.",
+      "alterador": 1
+    },
+    {
+      "de": 60,
+      "ate": 60,
+      "texto": "2 - Não havendo nenhuma irregularidade, votam imediatamente os membros da mesa e os representantes das listas que se encontrem inscritos nos cadernos eleitorais dessa assembleia ou secção de voto ou que exibam certidão de eleitor emitida pelo consulado em que estão inscritos e de cujos cadernos eleitorais constem.",
+      "alterador": 1
+    },
+    {
+      "de": 69,
+      "ate": 71,
+      "texto": "5 - Em seguida, o eleitor dirige-se ao local de voto situado na assembleia ou secção de voto em zona em que é assegurada privacidade, e aí, sozinho, marca uma cruz no quadrado respectivo da lista em que vota e dobra o boletim de voto em quatro ou oito, conforme a respectiva dimensão.\n\n6 - Enquanto o eleitor vota, o presidente copia os elementos pertinentes do documento utilizado para a identificação para os correspondentes espaços da folha de caderno eleitoral de que se trate, e, no caso do n.º 2, colhe, no local destinado à referenciação, as rubricas de dois eleitores que tenham procedido ao reconhecimento.\n\n7 - Voltando para junto da mesa, o eleitor entrega o boletim de voto ao presidente, que o introduz na urna, enquanto os escrutinadores descarregam o voto, rubricando a folha de caderno eleitoral de que se trate, na coluna a isso destinada e na linha correspondente ao nome do eleitor, o qual, se puder, também rubricará no lugar próprio, devendo constar da acta todos os casos de impossibilidade.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 33,
+      "texto": "11 - À entrada de cada sala onde tenha lugar o acto eleitoral, do lado de fora da porta, são afixadas as listas na sua forma completa, incluindo nomes e referências de todos os candidatos, efectivos e suplentes.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 48,
+      "texto": "8 - Em situações de natureza excepcional, por proposta fundamentada do respectivo cônsul e com a concordância da maioria de dois terços das listas candidatas no círculo eleitoral de que se trate, poderá o Secretário de Estado das Comunidades Portuguesas, sem prejuízo e critérios de rigor e fiabilidade, autorizar a realização do acto eleitoral com dispensa dos requisitos previstos na alínea d) do n.º 12.º, n.º 2.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 2.º: nova redação de 10.º n.os 7 e 8 (unidades 30-31, n.º 7 passa a ter alíneas a) a d)), 12.º n.º 2 alínea b) (40), n.º 4 (45) e n.º 7 (48), 16.º n.º 2 (60) e 17.º n.os 5, 6 e 7 (69-71): substituídas.",
+    "Alt. 1, 3.º: aditado n.º 11 ao 10.º: inserido depois da unidade 33.",
+    "Alt. 1, 4.º: aditado n.º 8 ao 12.º: inserido depois da unidade 48.",
+    "Alt. 1, 1.º e 5.º a 19.º: normas autónomas, não alteram o texto do original: nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

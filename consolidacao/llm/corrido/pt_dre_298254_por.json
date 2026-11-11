@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:298254:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "5.º A título de reembolso do custo do papel e impressão, são fixados:\n\na) Em 60$00, o preço dos títulos de isenção modelo n.º 1 e dos dísticos modelos n.os 2 e 7;\n\nb) Em 2$50, o preço das declarações modelo n.º 11.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 490-A/2005): aprova o modelo n.º 12, que substitui os modelos n.os 1 e 5, e extingue os impressos modelos n.os 1, 3, 5 e 6, sem alterar o texto da portaria; não é alteração textual.",
+  "instrucoes": [
+    "Alt. 1: nova redação do n.º 5.º (a instrução diz 'n.º 50', gralha evidente; o texto novo começa por 5.º) — unidade 18",
+    "Alt. 2: aprovação do modelo n.º 12 e extinção dos modelos n.os 1, 3, 5 e 6 — não textual; não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

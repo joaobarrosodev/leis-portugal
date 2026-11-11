@@ -1,0 +1,35 @@
+{
+  "id": "pt:dre:354763:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "b) As acções do tipo B são nominativas ou ao portador em regime de registo, podendo delas ser titulares entidades públicas ou privadas.",
+      "alterador": 1
+    },
+    {
+      "de": 24,
+      "ate": 24,
+      "texto": "2 - As acções a que se referem as alíneas a) e b) do número anterior não podem ser transaccionadas durante um período de dois anos.",
+      "alterador": 1
+    },
+    {
+      "de": 61,
+      "ate": 61,
+      "texto": "b) As acções do tipo B são nominativas ou ao portador em regime de registo, podendo delas ser titulares entidades públicas ou privadas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2, art. 11.º: o prazo do n.º 2 do artigo 6.º é reduzido para um ano sem nova redação da norma (alteração não textual).",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação da alínea b) do n.º 1 do art. 5.º (unidade 15) - aplicada",
+    "Alterador 1, art. 1.º: nova redação do n.º 2 do art. 6.º (unidade 24); restantes números com '...' mantidos - aplicada",
+    "Alterador 1, art. 2.º: nova redação da alínea b) do n.º 1 do art. 4.º dos Estatutos (unidade 61) - aplicada",
+    "Alterador 2, art. 11.º: redução do prazo do n.º 2 do art. 6.º para um ano, sem redação nova - não aplicada",
+    "Alterador 2, restantes artigos: regime autónomo da reprivatização - ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pt:dre:308353:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "2.º O disposto na presente portaria aplica-se ao estabelecimento de terminais aeroportuários nos aeroportos nacionais.",
+      "alterador": 2
+    },
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "4.º - 1 - A exploração dos terminais abrangidos por esta portaria está sujeita à legislação aplicável à actividade de assistência em escala e ao licenciamento do uso privativo do domínio público aeroportuário.",
+      "alterador": 2
+    },
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "2 - Sem embargo do disposto no número anterior, a alfândega tem a faculdade de superintender ou proceder directamente à conferência das descargas, sempre que o entenda conveniente.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 12.º: nova redação do n.º 2 do n.º 6.º (n.º 1 com '...' fica) — unidade 16",
+    "Alterador 1, art. 11.º: alterações ao Regulamento das Alfândegas — outro diploma, ignoradas",
+    "Alterador 2, art. 40.º, n.º 1: revogação genérica de disposições contrárias — condicional, não aplicada",
+    "Alterador 2, art. 40.º, n.º 2: direitos dos n.os 2.º e 4.º sujeitos ao novo diploma — não textual",
+    "Alterador 2, art. 40.º, n.º 3: nova redação do n.º 2.º (unidade 6) e do n.º 1 do n.º 4.º (unidade 8); 3.º e n.os 2 a 4 do 4.º com '...' ficam"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

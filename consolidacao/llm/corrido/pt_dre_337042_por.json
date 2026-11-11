@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:337042:por",
+  "substituicoes": [
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "9 - Permitir a adesão à segunda fase de candidaturas de acesso à linha de financiamento de médio e longo prazos das Regiões Autónomas e dos municípios, com excepção dos municípios que preencham pelo menos três das situações previstas no n.º 1 do artigo 8.º do [Decreto-Lei n.º 38/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2008-247247), de 7 de Março, e que não tenham declarado a situação de desequilíbrio financeiro estrutural ou de ruptura financeira, nos termos da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro, e do referido decreto-lei, até à data de apresentação da candidatura.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1: prorrogação até 30 de Junho de 2009 do prazo do n.º 10, feita sem nova redação (não textual); n.os 3 a 6 são disposições autónomas da RCM 29/2009.",
+  "instrucoes": [
+    "Alterador 1, n.º 2: nova redação do n.º 9 (unidade 23) - aplicada",
+    "Alterador 1, n.º 1: prorrogação do prazo do n.º 10 sem alteração textual - não aplicada",
+    "Alterador 1, n.os 3 a 6: normas autónomas, sem alteração ao texto - ignoradas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

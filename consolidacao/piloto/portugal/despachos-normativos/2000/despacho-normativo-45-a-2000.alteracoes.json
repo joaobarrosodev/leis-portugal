@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 31-31",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) As segunda e terceira fracções, de 25% cada uma, mediante prova da conclusão de 25% e 50%, respectivamente, dos trabalhos executados;",
+    "depois": "b) As segunda e terceira fracções, até 25% cada uma, mediante prova da conclusão de 25% e de 50%, respectivamente, dos trabalhos executados.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:202775:por",
+    "alterador": "pt:dre:509235:por"
+  }
+]

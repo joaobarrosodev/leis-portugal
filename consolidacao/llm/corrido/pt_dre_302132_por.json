@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:302132:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Pedrógão, município de Torres Novas, com a área de 1660,4515 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 8,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "As plantas anexas dos alteradores 1 e 2 só existem no documento original (imagem). Alteradores 3 (renovação e anexação, com a área de 2069 ha corrigida no preâmbulo e total de 2142 ha) e 4 (anexação, total de 2198 ha) não contêm alterações textuais à Portaria n.º 361/94.",
+  "instrucoes": [
+    "Alt. 1: nova redação do n.º 1.º (1996,55 ha) — unidade 8, depois substituída de novo pelo alterador 2",
+    "Alt. 2, 1.º: nova redação do n.º 1.º (1660,4515 ha) — unidade 8 (redação final)",
+    "Alt. 2, 1.º: aditado n.º 1.º-A — inserido depois da unidade 8",
+    "Alt. 3: renovação por 12 anos e anexação — não textual",
+    "Alt. 4: anexação de prédios — não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

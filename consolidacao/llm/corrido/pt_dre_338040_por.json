@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:338040:por",
+  "substituicoes": [
+    {
+      "de": 59,
+      "ate": 59,
+      "texto": "1 - As candidaturas entregues na Direcção-Geral das Pescas e Aquicultura até 1 de Março serão objecto de decisão até 31 de Maio e as entregues entre 31 de Maio e 31 de Agosto até 31 de Outubro.",
+      "alterador": 1
+    },
+    {
+      "de": 69,
+      "ate": 72,
+      "texto": "1 - O apoio atribuído é entregue ao beneficiário após a realização de uma vistoria pela Direcção-Geral das Pescas e Aquicultura, para confirmação da execução material do projecto, e da apresentação pelo beneficiário dos documentos de despesa definitivos que comprovem o investimento realizado.\n\n2 - A entrega do subsídio aprovado antes da conclusão material e financeira dos projectos só poderá verificar-se contra a apresentação de garantia bancária ou seguro-caução, prestado pelo armador, estaleiro, casas fornecedoras ou associações de armadores.\n\n3 - A libertação da garantia bancária ou do seguro-caução terá lugar após a confirmação pela Direcção-Geral das Pescas e Aquicultura de que o projecto se encontra material e financeiramente concluído e mediante vistoria a realizar para o efeito.\n\n4 - O beneficiário comparticipará nas despesas inerentes ao acompanhamento com o valor de 1% sobre o montante do subsídio ilíquido atribuído.\n\n5 - A não utilização, sem justificação aceite pelo membro do Governo responsável pelo sector das pescas, dos subsídios concedidos através do SIPESCA determina o impedimento de apresentação de nova candidatura a apoio financeiro no âmbito deste Sistema de Incentivos no período da sua vigência.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1 do 7.º (unidade 59) - aplicada",
+    "Alterador 2: nova redação do 9.º; epígrafe igual, corpo substituído pelos n.os 1 a 5 (unidades 69-72), com novo n.º 4 e antigo 4 renumerado 5 - aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:239254:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 87/2003), 1.º: o anexo (plano de estudos) passa a ter a redação do anexo da Portaria 87/2003, cujos quadros só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: anexo substituído pelo anexo da Portaria 87/2003, quadros só em imagem — não aplicado.",
+    "Alterador 1, 2.º e 3.º: transição e aplicação, normas próprias do alterador — nada a fazer no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

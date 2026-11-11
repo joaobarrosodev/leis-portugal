@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:191573:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 2 do Despacho Normativo n.º 26/86 revoga o mapa III só na parte relativa aos Institutos Superiores de Contabilidade e Administração; o mapa só existe em imagem, por isso a revogação parcial não se pode aplicar ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: fixa quotas novas para os ISCA num mapa próprio; não altera o texto do original.",
+    "Alterador 1, n.º 2: revoga parcialmente o mapa III (só em imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

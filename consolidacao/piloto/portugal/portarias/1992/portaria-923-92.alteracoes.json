@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 70-70",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Não poderão ser apoiadas despesas com aquisições de veículos ligeiros de passageiros.",
+    "depois": "2 - Não poderão ser apoiadas despesas com aquisições de veículos automóveis.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:232345:por",
+    "alterador": "pt:dre:496132:por"
+  }
+]

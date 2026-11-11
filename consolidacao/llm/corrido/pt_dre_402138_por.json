@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:402138:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de Barreira, município de Meda, com a área de 1789,0472 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 2 (Portaria n.º 1204/2004: anexação de 587 ha e desanexação de 70 ha, área total 2307 ha) e 3 (Portaria n.º 769/2005: renovação da concessão, área de 2293 ha) não dão nova redação a nenhum número do original: alterações não textuais, não aplicadas.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º (área de 1789,0472 ha): unidade 6 substituída, mantendo o número 1.º do texto atual.",
+    "Alt. 2 e 3: anexação, desanexação e renovação sem redação nova: não aplicadas (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

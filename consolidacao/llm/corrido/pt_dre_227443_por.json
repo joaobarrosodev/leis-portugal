@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:227443:por",
+  "substituicoes": [
+    {
+      "de": 494,
+      "ate": 590,
+      "texto": "## ANEXO III — (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 333/89), 2.º: revoga a Portaria 182/86 na parte respeitante ao anexo III (Norma de qualidade para tomate) — unidades 494-590 substituídas por '## ANEXO III — (Revogado.)'. A nova norma consta do anexo da própria Portaria 333/89 (1.º), não é texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 494-590: parágrafo que não está no alterador nem no original: ## ANEXO III — (Revogado.)"
+  ]
+}

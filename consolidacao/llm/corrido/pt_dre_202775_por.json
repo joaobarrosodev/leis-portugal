@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:202775:por",
+  "substituicoes": [
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "b) As segunda e terceira fracções, até 25% cada uma, mediante prova da conclusão de 25% e de 50%, respectivamente, dos trabalhos executados.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação da alínea b) do n.º 12; unidade 31 substituída pelo texto novo, copiado letra a letra. A nova redação vem rotulada '1 -' por gralha evidente; mantive o rótulo 'b)' da alínea alterada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

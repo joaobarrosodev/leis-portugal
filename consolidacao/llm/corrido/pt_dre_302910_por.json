@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:302910:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Azevo e Cidadelhe, município de Pinhel, com a área de 2399 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "A planta anexa do alterador 1 só existe no documento original (imagem). Os preâmbulos dos alteradores 3 (área de 2469 ha e não 2399 ha) e 4 (2486 ha e não 2469 ha) referem lapsos de área, mas sem instrução dispositiva que altere o texto do n.º 1.º; não aplicados. Alteradores 2 (suspensão), 3 (renovação) e 4 (renovação) não contêm alterações textuais.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º — unidade 6",
+    "Alt. 1, 1.º: aditado n.º 1.º-A — inserido depois da unidade 6",
+    "Alt. 2: suspensão da actividade cinegética — não textual",
+    "Alt. 3: renovação até 31 de Maio de 2010; correção de área só no preâmbulo — não aplicada",
+    "Alt. 4: renovação por seis anos — não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

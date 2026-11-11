@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 36-57",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Geologia.\n\nGeologia de Engenharia.\n\n2 - Duração normal do curso:\n\n5 anos.\n\n3 - Número total de unidades de crédito necessário à concessão do grau:\n\n162.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Geologia ... 60,5\n\nb) Geologia de Engenharia ... 18\n\nc) Matemática ... 13,5\n\nd) Informática ... 2,5\n\ne) Física ... 11\n\nf) Química ... 10\n\ng) Ciências Humanas e Sociais ... 11,5\n\nh) Ciências de Engenharia ... 10\n\ni) Engenharia do Ambiente ... 10\n\nj) Ecologia e Ciências Biológicas ... 7\n\n4.2 - Áreas científicas optativas:\n\na) Geologia ... 4\n\nb) Geologia de Engenharia ... 4\n\n4.3 - Seminário ... 4",
+    "depois": "a) Geologia;\n\nb) Geologia de Engenharia.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau:\n\n160.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Geologia ... 69\n\nb) Geologia de Engenharia ... 18\n\nc) Matemática ... 20\n\nd) Informática ... 3\n\ne) Física ... 11\n\nf) Química ... 11\n\ng) Ciências de Engenharia ... 10\n\nh) Ambiente ... 3\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Geologia ... (ver nota *) 9\n\nb) Geologia de Engenharia ... (ver nota *) 9\n\nc) Ambiente ... (ver nota *) 9\n\nd) Ciências Sociais e Humanas ... (ver nota *) 9\n\n4.3 - Estágio ... 6\n\n(nota *) Do número de unidades de crédito atribuído ao conjunto das áreas científicas optativas os alunos só poderão realizar um máximo de três unidades de crédito na área científica do Ambiente.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:382380:por",
+    "alterador": "pt:dre:550466:por"
+  }
+]

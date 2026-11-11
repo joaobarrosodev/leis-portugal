@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:402164:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Benquerenças, município de Castelo Branco, com a área de 1307,3217 ha.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "A substituição da planta anexa (alteradores 1 e 2) e a nova planta do alterador 3 só existem em imagem; não alteradas no texto.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (1735,6875 ha); substituída depois pelo alterador 2 e pelo 3",
+    "Alterador 1: substituição da planta anexa; só em imagem, não aplicada",
+    "Alterador 2: nova redação do n.º 1.º (1699,8875 ha); substituída depois pelo alterador 3",
+    "Alterador 2: substituição da planta anexa; só em imagem, não aplicada",
+    "Alterador 3: nova redação do n.º 1.º (1307,3217 ha); substituída a unidade 6 com o prefixo 1.º do texto atual",
+    "Alterador 3: aditado o n.º 1.º-A; inserido depois da unidade 6"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

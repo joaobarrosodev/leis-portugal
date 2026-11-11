@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:357527:por",
+  "substituicoes": [
+    {
+      "de": 23,
+      "ate": 30,
+      "texto": "A.1. - Curso de alistamento de electrotécnicos:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/213b00/49424944.pdf)\n\nA.2. - Equiparação ao nível 3 da qualificação profissional e equivalência ao 12.º ano de escolaridade:\n\nCurso de alistamento de electrotécnico - técnico de electrónica.\n\nB.1. - Curso de alistamento de maquinistas navais:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/213b00/49424944.pdf)\n\nB.2. - Equiparação ao nível 3 da qualificação profissional e equivalência ao 12.º ano de escolaridade:\n\nCurso de alistamento de maquinistas navais - técnico de mecânica/máquinas marítimas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: as estruturas curriculares (cargas horárias) do novo anexo só vêm em imagem; substituí a parte textual do anexo e as ligações.",
+  "instrucoes": [
+    "Alterador 1: o anexo é alterado de acordo com o anexo do Despacho Normativo 56/97; substituídas as unidades 23-30 pelo texto do novo anexo (quadros só em imagem)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

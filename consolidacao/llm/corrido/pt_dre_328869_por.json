@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:328869:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1 - É criada uma Comissão Interministerial para a Reestruturação da Administração Pública, abreviadamente CIRAP, composta pelo Vice-Primeiro-Ministro, que assegurará a sua coordenação, pelo Secretário de Estado da Administração Pública e pelo Secretário de Estado do Orçamento.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "RCM 13/85: nova redação do n.º 1 (unidade 6), coordenação passa ao Vice-Primeiro-Ministro."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

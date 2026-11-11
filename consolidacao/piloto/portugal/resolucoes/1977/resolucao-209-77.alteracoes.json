@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 36-36",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Fundo de Fomento da Habitação;",
+    "depois": "Direcção-Geral do Equipamento Regional e Urbano;\n\nFundo de Fomento da Habitação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:256071:por",
+    "alterador": "pt:dre:278517:por;pt:dre:218676:por"
+  },
+  {
+    "artigo": "unidades 44-44",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Coordenar os programas nacionais de investigação e desenvolvimento no domínio da investigação urbana e regional, promovendo, designadamente, a informação mútua e pronta sobre programas de estudo em curso, a análise dos seus resultados, a difusão dos documentos produzidos, a detecção de carências e consequente proposta de áreas novas de investigação ou de iniciativas de estudo interentidades e análise e eventual proposta de financiamento e suas fontes;",
+    "depois": "a) Coordenar os programas nacionais de estudos urbanos e regionais, promovendo, designadamente, a informação mútua e pronta sobre programas de estudo em curso, a análise dos seus resultados, a difusão dos documentos produzidos, a detecção de carências e consequente proposta de áreas novas de estudos ou iniciativas de estudo interentidades e análise e eventual proposta de financiamento e suas fontes;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:256071:por",
+    "alterador": "pt:dre:278517:por;pt:dre:218676:por"
+  },
+  {
+    "artigo": "unidades 47-47",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Emitir pareceres, quando solicitados, sobre programas de cooperação externa no domínio da investigação urbana e regional;",
+    "depois": "d) Emitir pareceres, quando solicitados, sobre programas de cooperação externa no domínio dos estudos urbanos e regionais.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:256071:por",
+    "alterador": "pt:dre:278517:por;pt:dre:218676:por"
+  }
+]

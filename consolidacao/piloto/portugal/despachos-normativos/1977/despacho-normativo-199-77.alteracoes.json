@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.2 - Não ultrapassem os 150000 contos de vendas anuais;",
+    "depois": "1.2 - Não ultrapassem os 225000 contos de vendas anuais.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279405:por",
+    "alterador": "pt:dre:678064:por"
+  }
+]

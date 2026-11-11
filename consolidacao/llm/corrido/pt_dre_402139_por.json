@@ -1,0 +1,35 @@
+{
+  "id": "pt:dre:402139:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Maiorca e Alhadas, município da Figueira da Foz, com uma área de 1968,8750 ha.",
+      "alterador": 2
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se o concessionário a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 3 (Portaria n.º 687/2005: renovação da concessão com a área de 1755 ha) não dá nova redação a nenhum número do original: alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º (1975,8750 ha): aplicada à unidade 6, depois substituída pela redação do alterador 2.",
+    "Alt. 1, 1.º: aditado n.º 1.º-A: inserido depois da unidade 6, com o número 1.º-A.",
+    "Alt. 1, 2.º: o n.º 6.º passa a obrigar a manter um guarda florestal auxiliar dotado de meio de transporte: unidade 12 substituída, trocando só essa expressão.",
+    "Alt. 2: nova redação do n.º 1.º (1968,8750 ha): unidade 6 substituída, mantendo o número 1.º do texto atual.",
+    "Alt. 3: renovação da concessão sem redação nova: não aplicada (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

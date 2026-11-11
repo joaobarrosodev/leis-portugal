@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:319892:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 126/2005, 3.º, n.º 2, b): revoga a Portaria 73/2001 'na parte relativa à opção e ramo de Agro-Indústrias', só findo o processo de transição; revogação parcial condicionada e definida por matéria (quadros em imagem), não se aplica ao texto com segurança.",
+  "instrucoes": [
+    "Portaria 126/2005, 3.º, n.º 2, b): revogação parcial e condicionada (opção e ramo de Agro-Indústrias) - não aplicada.",
+    "Restante da Portaria 126/2005 aprova outro plano de estudos (Engenharia Alimentar) - não dirigido ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

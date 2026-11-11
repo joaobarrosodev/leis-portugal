@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 92-92",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A duração do curso é de dois anos lectivos.",
+    "depois": "A duração do curso é de três semestres lectivos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:228262:por",
+    "alterador": "pt:dre:166389:por"
+  }
+]

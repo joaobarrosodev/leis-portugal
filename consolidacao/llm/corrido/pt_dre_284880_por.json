@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:284880:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Despacho Normativo n.º 26/90) dá nova redação às tarifas n.os 3, 4, 6, 7 e 8 do anexo I, e alterador 2 (Despacho Normativo n.º 211/91) substitui várias taxas do anexo I por anexos próprios; o anexo I e as novas redações só existem em imagem (ver documento original).",
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação de pontos do anexo I (imagem) - não aplicada.",
+    "Alterador 2, n.º 1: substituição de taxas aprovadas pelo original (anexos em imagem) - não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

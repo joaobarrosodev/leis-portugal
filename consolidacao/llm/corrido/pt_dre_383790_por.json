@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:383790:por",
+  "substituicoes": [
+    {
+      "de": 31,
+      "ate": 44,
+      "texto": "10 - (Revogado.)\n\n11 - (Revogado.)\n\n12 - (Revogado.)\n\n13 - (Revogado.)\n\n14 - (Revogado.)\n\n15 - (Revogado.)\n\n16.1 - (Revogado.)\n\n16.2 - (Revogado.)\n\n17 - (Revogado.)\n\n18 - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 18: revogados os n.os 10 a 18 do original (unidades 31-44, incluindo as alíneas dos n.os 10 e 11 e os n.os 16.1 e 16.2).",
+    "Alterador 1, n.os 1 a 17 e 19: novo regime próprio do alterador, sem alteração textual ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

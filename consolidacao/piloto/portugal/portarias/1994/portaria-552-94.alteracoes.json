@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Cartaxo, Vila Chã de Ourique e Vale da Pinta, município do Cartaxo, com uma área de 2778,3710 ha.",
+    "depois": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante sitos nas freguesias de Cartaxo, Vila Chã de Ourique e Vale da Pinta, município do Cartaxo, com a área de 2281,5430 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:295170:por",
+    "alterador": "pt:dre:650096:por"
+  },
+  {
+    "artigo": "depois da unidade 8",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:295170:por",
+    "alterador": "pt:dre:650096:por"
+  }
+]

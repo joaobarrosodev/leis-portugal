@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:297818:por",
+  "substituicoes": [
+    {
+      "de": 28,
+      "ate": 30,
+      "texto": "5.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 31,
+      "ate": 39,
+      "texto": "6.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 40,
+      "ate": 53,
+      "texto": "7.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 54,
+      "ate": 89,
+      "texto": "8.º - (Revogado.)\n\n9.º - (Revogado.)\n\n10.º - (Revogado.)\n\n11.º - (Revogado.)\n\n12.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação dos n.os 5.º e 7.º — substituída depois pela revogação do alterador 2, por isso não fica no texto",
+    "Alt. 1, 3.º: revogados os n.os 6.º, 8.º, 9.º, 10.º, 11.º e 12.º — unidades 31-39 e 54-89; a revogação de 'demais regulamentação que contrarie' é condicional e não se aplica",
+    "Alt. 2, 7.º: revogados os n.os 5.º e 7.º — unidades 28-30 e 40-53; a revogação da Portaria n.º 745-O/96 não é do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

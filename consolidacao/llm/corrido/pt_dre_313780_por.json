@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:313780:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "2.º Nesta área, até 14 de Outubro de 2001, é concessionada à SOCAÇA - Coutadas da Bobadela, Lda., a exploração de uma zona de caça turística (processo n.º 146 da Direcção-Geral das Florestas).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 2 a 4 (suspensão da caça, renovação da concessão por 12 anos e desanexação da Herdade da Defesa da Bobadela de Cima com nova área de 992 ha e nova planta) não dão instrução textual ao original: não aplicados ao texto.",
+  "instrucoes": [
+    "Alterador 1: no n.º 2.º, onde se lê 'até 31 de Maio de 2001' deve ler-se 'até 14 de Outubro de 2001' — unidade 9",
+    "Alterador 2: suspensão do exercício da caça — não textual, não aplicada",
+    "Alterador 3: renovação da concessão por 12 anos — não textual, não aplicada",
+    "Alterador 4: desanexação de prédio e nova concessão a terceiro — não textual quanto ao original, não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

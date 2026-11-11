@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 20-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6.º Os direitos compensadores a que se refere a presente portaria serão cobrados pelas alfândegas que procederem ao despacho de importação e constituem receita do Fundo de Abastecimento.",
+    "depois": "6.º - 1 - Os direitos compensadores a que se refere a presente portaria serão cobrados pelas alfândegas que procederem ao despacho de importação e constituem receita do Fundo de Abastecimento.\n\n2 - Na importação de produtos constantes do anexo I à presente portaria que se destinem a transformação e posterior exportação previamente contratada, o importador poderá ser dispensado do pagamento dos direitos compensadores, mediante apresentação da respectiva garantia bancária, a qual só será liberada após prova da efectivação da exportação.\n\n3 - A dispensa de pagamento dos direitos compensadores prevista no número antecedente dependerá de parecer favorável da Junta Nacional dos Produtos Pecuários, a qual definirá, para cada operação em concreto, a relação da transformação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:324296:por",
+    "alterador": "pt:dre:180007:por"
+  }
+]

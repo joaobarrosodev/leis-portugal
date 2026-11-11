@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 44-44",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 3.º A solicitação do Ministro da Saúde e Assistência, poderá ser aplicável às comissões arbitrais de assistência o disposto no n.º 2 do artigo 26.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, sendo os respectivos encargos satisfeitos pela verba a que se refere o artigo 5.º do [Decreto-Lei n.º 42596](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42596-1959-440479). A competência a que alude a parte final do referido n.º 2 será, neste caso, exercida pelo Ministro da Saúde e Assistência.",
+    "depois": "Art. 3.º - 1. Quando, por circunstâncias de carácter transitório, nas Comissões Arbitrais de Lisboa e Porto, o respectivo serviço se encontrar atrasado, poderão, a solicitação do Ministro da Saúde e Assistência, ser destacados, em comissão de serviço, pelo período de dois anos, só excepcionalmente prorrogável uma vez, os juízes que se reputarem necessários para completa normalização de tais serviços.\n\n2. O exercício da comissão referida no número anterior é considerado, para todos os efeitos, como efectivo serviço judicial, não sendo deduzido na antiguidade dos magistrados o tempo durante o qual a desempenhem.\n\n3. Os encargos a que der origem o exercício da comissão de serviço referida no n.º 1 serão satisfeitos pela verba a que alude o artigo 5.º do [Decreto-Lei n.º 42596](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42596-1959-440479), de 19 de Outubro de 1959.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:314381:por",
+    "alterador": "pt:dre:225842:por"
+  }
+]

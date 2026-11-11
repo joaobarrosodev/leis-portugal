@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:388447:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "6) Estejam colocados na Presidência da República, ou desempenhem funções na Casa Militar do Presidente da República, ou exerçam funções de assessor do Primeiro - Ministro ou prestem serviço em departamentos governamentais, incluindo os organismos deles dependentes;",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação da alínea b) do artigo 124.º do Estatuto do Oficial da Armada: instrução dirigida ao EOA, não ao original: ignorada.",
+    "Alt. 2, 1.º: revoga o n.º 2.º da Portaria n.º 713/75 e repõe a condição 13) do artigo 78.º do EOA: outro diploma: ignorada.",
+    "Alt. 2, 2.º: alterada no n.º 1.º da Portaria n.º 241/81 a referência à condição 6) da alínea a) do artigo 78.º: unidade 14 substituída, mantendo o número 6)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 14-14: parágrafo que não está no alterador nem no original: 6) Estejam colocados na Presidência da República, ou desempenhem funções na Casa"
+  ]
+}

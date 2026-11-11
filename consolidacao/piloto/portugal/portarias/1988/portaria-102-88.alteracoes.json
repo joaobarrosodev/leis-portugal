@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 30-30",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "19.º Para ocorrer, em cada ano, à prossecução dos projectos, o IFADAP porá à disposição dos beneficiários, no decurso do mês de Janeiro, avanços máximos correspondentes a 25% das despesas elegíveis, sem prejuízo do estabelecido nos artigos 18.º e 20.º Para fazer face às despesas de lançamento, excepcionalmente, no ano de constituição de cada ADS, o avanço poderá atingir os 40%, dentro dos quinze dias consecutivos de assinatura do contrato de concessão.",
+    "depois": "19.º - a) Para permitir a execução dos projectos, o IFADAP põe à disposição dos beneficiários avanços das ajudas até ao limite de 25% das suas despesas anuais elegíveis.\n\nb) Excepcionalmente, no ano de constituição dos ADS, e para fazer face às despesas de lançamento, essa percentagem pode elevar-se até 40%.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:283277:por",
+    "alterador": "pt:dre:619340:por"
+  },
+  {
+    "artigo": "unidades 31-31",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "20.º Os pagamentos seguintes serão efectuados tendo em conta os comprovativos apresentados ao sector pelo ADS, não podendo, contudo, ultrapassar, sem justificação, em qualquer momento, 25% do total anual. Com o último pagamento anual deverá ser comprovada a totalidade da verba posta à disposição.",
+    "depois": "20.º Os pagamentos seguintes são efectuados após apresentação ao gestor, pelo ADS, dos comprovativos das despesas realizadas, não podendo exceder, sem justificação, 25% do total anual das despesas elegíveis.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:283277:por",
+    "alterador": "pt:dre:619340:por"
+  },
+  {
+    "artigo": "depois da unidade 31",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "21.º A partir do segundo ano de funcionamento de cada ADS, a antecipação referida no n.º 19.º é calculada com base nos montantes consignados no projecto do ano anterior e tem lugar na data fixada no contrato de concessão da ajuda.\n\n22.º A justificação perante o IFADAP dos montantes anuais recebidos por cada ADS tem lugar até 30 dias após o termo do projecto.\n\n23.º O gestor, caso preveja a não aplicação da totalidade das verbas postas à disposição do ADS em cada ano, solicitará ao IFADAP, até 45 dias antes do termo da vigência do projecto, a dedução do montante não aplicado às ajudas a conceder no ano seguinte.\n\n24.º A ocorrer a situação prevista no número anterior, os ADS estarão em situação de incumprimento se, em tempo útil, não alertarem o gestor para aquele facto.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:283277:por",
+    "alterador": "pt:dre:619340:por"
+  }
+]

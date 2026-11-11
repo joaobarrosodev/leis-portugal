@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 20-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Curso: Design de Comunicação e Técnicas Gráficas\n\n1.º ciclo\n\nGrau de bacharel\n\n[(ver quadros 1 a 3 no documento original)](https://files.diariodarepublica.pt/1s/1999/05/110b00/25222524.pdf)\n\n2.º ciclo\n\nGrau de licenciado\n\n[(ver quadros 4 e 5 no documento original)](https://files.diariodarepublica.pt/1s/1999/05/110b00/25222524.pdf)",
+    "depois": "Curso de Design de Comunicação\n\n1.º ciclo\n\nGrau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)\n\n2.º ciclo\n\nGrau de licenciado\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:321938:por",
+    "alterador": "pt:dre:200420:por"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:321938:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 26,
+      "texto": "Curso de Design de Comunicação\n\n1.º ciclo\n\nGrau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)\n\n2.º ciclo\n\nGrau de licenciado\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 775/99: nova redação dos quadros n.os 3 e 5 do anexo, só em imagem (de qualquer forma o anexo foi depois substituído por inteiro pela Portaria 126/2003). Portaria 876/2002: mudança de denominação do curso para «Design de Comunicação», sem instrução textual sobre o texto do original.",
+  "instrucoes": [
+    "Portaria 775/99, 1.º: quadros 3 e 5 do anexo em imagem - não aplicado (absorvido pela substituição do anexo pela Portaria 126/2003).",
+    "Portaria 876/2002, 1.º: o curso passa a denominar-se Design de Comunicação - não é alteração textual; não aplicado.",
+    "Portaria 126/2003, 1.º e 3.º: duração do 2.º ciclo e transição - não textual.",
+    "Portaria 126/2003, 2.º: nova redação do anexo; substituídas as unidades 20 a 26 pelo texto do novo anexo (mantêm-se o título e a escola, unidades 18-19)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

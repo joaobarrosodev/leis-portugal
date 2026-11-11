@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:259731:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: rectificação na despesa («C.E. 04.01.01, alínea A» passa a «C.E. 04.01.03, alínea A») dentro do mapa que só vem em imagem (unidade 4) — não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1: rectificação de uma classificação económica no mapa da despesa, que só existe em imagem — não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

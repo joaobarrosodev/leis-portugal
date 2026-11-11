@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:241449:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "a) (Revogada.)",
+      "alterador": 2
+    },
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "b) (Revogada.)",
+      "alterador": 3
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "c) (Revogada.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os mapas anexos com os planos de estudo dos cursos revogados só vêm em imagem (unidade 18): a revogação parcial nessa parte não pode ser aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1, 6.º-7.º: extingue o curso de Técnico de Electrónica Industrial e Automação e revoga parcialmente a portaria nessa parte: alínea c) do n.º 1.º revogada.",
+    "Alterador 2, 6.º-7.º: extingue o curso de Técnico de Gestão de Sistemas Informáticos e revoga parcialmente a portaria nessa parte: alínea a) do n.º 1.º revogada.",
+    "Alterador 3, 6.º-7.º: extingue o curso de Técnico de Telecomunicações e revoga parcialmente a portaria nessa parte: alínea b) do n.º 1.º revogada.",
+    "Restantes instruções dos alteradores dizem respeito a outras portarias ou são normas próprias — ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

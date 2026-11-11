@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "BESCL, BNU, BPSM e BPA - 16% cada um;",
+    "depois": "BESCL, BNU, BPSM e BPA - 15% cada um;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:381527:por",
+    "alterador": "pt:dre:471120:por"
+  },
+  {
+    "artigo": "unidades 14-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "BFP, BBI e CPP - 5% cada um.\n\nO produto deste empréstimo destinar-se-á exclusivamente à liquidação de dívidas vencidas aos caminhos de ferro estrangeiros e as respectivas transferências serão efectuadas pelos bancos acima referidos até à concorrência da parcela de financiamento assegurada por cada um.",
+    "depois": "BFB, BBI e CPP - 5% cada um.\n\nO produto deste empréstimo terá a seguinte aplicação: 86% destinar-se-ão à liquidação de dívidas vencidas aos caminhos de ferro estrangeiros e as respectivas transferências serão efectuadas pelos bancos acima referidos, dentro da parcela de financiamento assegurada por cada um; os restantes 14% destinar-se-ão à liquidação de dívidas vencidas a fornecedores estrangeiros, segundo proposta a apresentar pela empresa ao Banco de Portugal, que assegurará, junto da banca, a coordenação desta aplicação.\n\nAs transferências serão efectuadas directamente pelos bancos intervenientes no financiamento.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:381527:por",
+    "alterador": "pt:dre:471120:por"
+  }
+]

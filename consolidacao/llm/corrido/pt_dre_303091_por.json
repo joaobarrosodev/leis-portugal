@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:303091:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Talhinhas, município de Macedo de Cavaleiros, com a área de 1830,5320 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (suspensão), alterador 3 (renovação com área de 1321 ha) e alterador 4 (anexação de prédios, área total 2086 ha) não alteram o texto do original; plantas só em imagem.",
+  "instrucoes": [
+    "Alt. 1: nova redação do n.º 1.º — substituída a unidade 6.",
+    "Alt. 2: suspensão da caça — não textual, não aplicada.",
+    "Alt. 3: renovação da concessão e revogação da Portaria 740/2004 — não textual, não aplicada.",
+    "Alt. 4: anexação de prédios e condicionantes — não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:288200:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Alpedriz e Montes, município de Alcobaça, com a área de 791,97 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "A nova planta do alterador 1 só existe em imagem. Alterador 2 (suspensão da caça) e alterador 3 (renovação da concessão por 12 anos com 766,97 ha, nova planta em imagem, revogação da Portaria n.º 552-L/2002) não dão nova redação ao texto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º - substituída a unidade 6.",
+    "Alterador 1, 1.º (segundo parágrafo): aditado o n.º 1.º-A - inserido depois da unidade 6.",
+    "Alterador 2: suspensão do exercício da caça - não é alteração textual.",
+    "Alterador 3: renovação da concessão e revogação da Portaria n.º 552-L/2002 - não é alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

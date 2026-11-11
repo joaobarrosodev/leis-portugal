@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:321707:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "Pela [Portaria n.º 411/94](https://diariodarepublica.pt/dr/detalhe/portaria/411-1994-290627), de 27 de Junho, foi concessionada à Clérigos - Agro-Pecuária e Cinegética, Lda., a zona de caça turística da Herdade dos Clérigos (processo n.º 1426-DGF), situada no município de Arraiolos, com uma área de 399,75 ha, válida até 27 de Junho de 2014.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 252/2003: no preâmbulo, 'válida até 27 de Junho de 2004' passa a 'válida até 27 de Junho de 2014' (unidade 3).",
+    "Portaria 449/2006: anexa prédios à zona de caça (altera a Portaria 411/94) - sem alteração textual do original.",
+    "Portaria 529/2009: transfere a concessão para a AGROTEC - ato novo, sem alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

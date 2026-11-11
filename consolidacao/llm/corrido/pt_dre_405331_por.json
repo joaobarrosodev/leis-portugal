@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:405331:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 22,
+      "texto": "2. (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: revogado o n.º 2 do 2.º; unidades 14 a 22 passam a 2. (Revogado.)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 14-22: parágrafo que não está no alterador nem no original: 2. (Revogado.)"
+  ]
+}

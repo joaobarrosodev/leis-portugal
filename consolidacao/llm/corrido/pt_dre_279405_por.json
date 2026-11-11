@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:279405:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "1.2 - Não ultrapassem os 225000 contos de vendas anuais.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: nova redação do ponto 1.2 -> unidade 10 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

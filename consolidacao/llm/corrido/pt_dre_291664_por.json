@@ -1,0 +1,54 @@
+{
+  "id": "pt:dre:291664:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 20,
+      "texto": "6 - Expirado o prazo referido no n.º 3 desta portaria, as direcções dos distritos escolares apreciarão as reclamações e elaborarão seguidamente a lista definitiva, que já deverá incluir as colocações atribuídas de acordo com os lugares vagos criados, lugares a afectar às escolas e lugares conhecidos até 31 de Julho como disponíveis para todo o ano lectivo seguinte, uns e outros com decisão de funcionamento para esse mesmo ano, tomada desde o apuramento final de matrículas até 31 de Julho, à excepção daqueles que forem atribuídos aos titulares de lugares suspensos e extintos.",
+      "alterador": 1
+    },
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "7 - Aos professores que vierem a obter colocação em resultado do concurso ao abrigo da preferência conjugal será passado alvará até ao dia 20 de Agosto.",
+      "alterador": 1
+    },
+    {
+      "de": 32,
+      "ate": 33,
+      "texto": "a) Os lugares referidos no n.º 6 que não tenham sido preenchidos no concurso a que o mesmo diz respeito;\n\nb) Os lugares vagos criados, os lugares a afectar às escolas e os lugares providos, conhecidos desde 1 a 10 de Agosto como disponíveis para todo o ano lectivo seguinte, uns e outros com decisão de funcionamento para esse mesmo ano, tomada entre aquelas datas.",
+      "alterador": 1
+    },
+    {
+      "de": 47,
+      "ate": 47,
+      "texto": "c) (Revogada.)",
+      "alterador": 1
+    },
+    {
+      "de": 49,
+      "ate": 50,
+      "texto": "a) Dos lugares referidos nos n.os 6 e 12 que não tenham sido preenchidos nos concursos a que os mesmos dizem respeito;\n\nb) Dos lugares vagos criados, dos lugares a afectar às escolas e dos lugares providos, conhecidos desde 11 a 14 de Agosto como disponíveis para todo o ano lectivo seguinte, uns e outros com decisão de funcionamento para esse mesmo ano, tomada entre aquelas datas.",
+      "alterador": 1
+    },
+    {
+      "de": 71,
+      "ate": 71,
+      "texto": "33 - No movimento que em cada escola seja preciso efectuar, ao longo do ano lectivo, de professores colocados ao abrigo do artigo 20.º do [Decreto-Lei n.º 214/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1979-382178), com a redacção dada pelo [Decreto-Lei n.º 211/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1980-471734), de 5 de Julho, procurar-se-á assegurar, tendo em conta o primado da pedagogia, a continuidade do ensino pelo mesmo docente, sem prejuízo dos direitos decorrentes da posição que outros professores ocupam na respectiva lista ordenada, assegurando-se, em consequência, a imediata colocação dos que for necessário deslocar, garantindo-lhes a continuidade da sua prestação de serviço e consequente contagem do mesmo para todos os efeitos legais, nomeadamente abono de vencimentos.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, n.º 1: nova redação do n.º 6 (corpo e alíneas a)-c) fundidos num só parágrafo) — unidades 17-20 substituídas",
+    "Alt. 1, n.º 1: nova redação do n.º 7 — unidade 21",
+    "Alt. 1, n.º 1: novas alíneas a) e b) do n.º 12 (corpo mantém-se) — unidades 32-33",
+    "Alt. 1, n.º 1: novas alíneas a) e b) do n.º 17 (corpo mantém-se) — unidades 49-50",
+    "Alt. 1, n.º 2 a): revogada a alínea c) do n.º 16 — unidade 47; a alínea b) (revogação do Despacho n.º 90/79) não é do original",
+    "Alt. 2, Único: nova redação do n.º 33 — unidade 71"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

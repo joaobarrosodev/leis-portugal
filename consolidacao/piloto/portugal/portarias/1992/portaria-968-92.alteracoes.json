@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "depois da unidade 9",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1.º-A\n\nOpções\n\n1 - O curso desdobra-se nas seguintes opções:\n\na) Engenharia de Produção Mecânica;\n\nb) Engenharia Térmica Industrial.\n\n2 - O número mínimo de alunos necessários ao funcionamento de cada uma das opções é de 10, sem prejuízo de ser sempre assegurado o funcionamento de uma delas.\n\n3 - Exceptuam-se do disposto no n.º 2 os casos em que o docente assegure a docência para além do número máximo de horas de serviço de aulas a que é obrigado por lei sem encargos adicionais para o Instituto.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:226071:por",
+    "alterador": "pt:dre:502428:por"
+  },
+  {
+    "artigo": "unidades 10-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º\n\nObjectivo\n\nO curso de estudos superiores especializados em Engenharia Térmica Industrial tem como objectivo fundamental a formação e, sobretudo, a especialização, nas áreas de Geração, Utilização, Recuperação e Gestão de Energia Térmica de uma forma compatível com os recursos e necessidades da região, tendo em conta a disponibilidade de recursos naturais próprios, os usos e costumes da população e a necessária conservação do ambiente natural.",
+    "depois": "2.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:226071:por",
+    "alterador": "pt:dre:502428:por"
+  },
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Podem candidatar-se à matrícula e inscrição no curso de estudos superiores especializados em Engenharia Térmica Industrial os titulares de um bacharelato ou de uma licenciatura na área de Engenharia de Energia, de Engenharia Industrial, de Engenharia Mecânica, de Engenharia Electrotécnica, de Engenharia Química, de Engenharia Física e de Engenharia Civil.",
+    "depois": "Podem candidatar-se à matrícula e inscrição no curso de estudos superiores especializados em Engenharia Industrial os titulares de um bacharelato ou de uma licenciatura nas áreas de Engenharia Industrial, de Engenharia Mecânica ou de Engenharia Electromecânica.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:226071:por",
+    "alterador": "pt:dre:502428:por"
+  },
+  {
+    "artigo": "unidades 82-87",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "16.º\n\nProjecto\n\n1 - No decurso do último ano curricular, os alunos realizarão um projecto.\n\n2 - O projecto consistirá na elaboração de um trabalho concreto de engenharia térmica industrial, nas suas componentes técnica, económica e ambiental.\n\n3 - A realização e a avaliação do projecto obedecerão a regulamento a aprovar pelo conselho científico.\n\n4 - O regulamento a que se refere o n.º 3 será sujeito a homologação da comissão instaladora da Escola.",
+    "depois": "16.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:226071:por",
+    "alterador": "pt:dre:502428:por"
+  }
+]

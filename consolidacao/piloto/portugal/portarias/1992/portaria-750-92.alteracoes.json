@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "g) As do Centro de Saúde Mental Infantil e Juvenil de Coimbra, para o Hospital Pediátrico de Celas;",
+    "depois": "g) As do Centro de Saúde Mental Infantil e Juvenil de Coimbra, para o Centro Hospitalar de Coimbra;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:275236:por",
+    "alterador": "pt:dre:159141:por"
+  },
+  {
+    "artigo": "unidades 22-22",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "q) As do Centro de Saúde Mental de Penafiel, prosseguidas nos concelhos de Penafiel, Paredes e Lousada, bem como nas freguesias dos concelhos de Felgueiras, Baião e Marco de Canaveses não mencionadas na alínea anterior para o Hospital Distrital de Penafiel;",
+    "depois": "q) As do Centro de Saúde Mental de Penafiel, prosseguidas nos concelhos de Penafiel, Paredes e Lousada, bem como nas freguesias dos concelhos de Felgueiras, Baião e Marco de Canaveses não mencionadas na alínea anterior para o Centro Hospitalar do Vale do Sousa;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:275236:por",
+    "alterador": "pt:dre:159141:por"
+  },
+  {
+    "artigo": "unidades 28-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "x) As do Centro de Saúde Mental de Vila Nova de Gaia, para o Hospital Distrital de Vila Nova de Gaia;",
+    "depois": "x) As do Centro de Saúde Mental de Vila Nova de Gaia, para o Centro Hospitalar de Vila Nova de Gaia;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:275236:por",
+    "alterador": "pt:dre:159141:por"
+  }
+]

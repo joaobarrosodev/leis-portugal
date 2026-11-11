@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:354679:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 3 (Portaria n.º 1182/2003), 2.º, n.º 2, alínea b), revoga a Portaria n.º 533/99 por inteiro (findo o processo de transição). Antes disso: alterador 1 substitui os quadros n.os 7 a 9 e alterador 2 adita os quadros n.os 13 a 15, só em imagem, e cria um terceiro ramo sem nova redação do texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novos quadros 7 a 9 (só em imagem) - não aplicado",
+    "Alterador 2, 1.º e 2.º: novo ramo e aditamento dos quadros 13 a 15 (só em imagem) - não aplicado",
+    "Alterador 3, 2.º, n.º 2, b): revogação de toda a Portaria n.º 533/99 - nada devolvido"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

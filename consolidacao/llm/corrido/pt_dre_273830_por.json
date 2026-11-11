@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:273830:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 10,
+      "texto": "1.º ano\n\nPortuguês, quatro horas.\n\nHistória e Geografia de Portugal, três horas.\n\nMatemática, quatro horas.\n\nCiências da Natureza, três horas.\n\nPrática Pedagógica, doze horas:\n\nOito horas a nível teórico:\n\nEducação Visual, duas horas;\n\nEducação Musical, duas horas;\n\nEducação Física, duas horas;\n\nExploração do meio, duas horas;\n\nQuatro horas a nível prático:\n\nTrês horas com intervenção em actividades das crianças e uma hora de coordenação.\n\nTotal, vinte e seis horas.\n\n2.º ano\n\nPedagogia Geral, quatro horas.\n\nInt. à Psicologia, quatro horas.\n\nDidáctica Geral, quatro horas.\n\nPortuguês, três horas.\n\nMatemática, duas horas.\n\nPrática Pedagógica, nove horas:\n\nCinco horas a nível teórico:\n\nEducação Visual, uma hora.\n\nEducação Musical, uma hora;\n\nEducação Física, uma hora;\n\nExploração do meio, duas horas,\n\nQuatro horas a nível prático:\n\nTrês horas com intervenção em actividades das crianças e uma hora de coordenação.\n\nTotal, vinte e seis horas.\n\n3. ano\n\nUm currículo igual ao 3.º ano do curso geral.",
+      "alterador": 1
+    },
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "9 - 1 - São vedadas as matrículas aos candidatos que por duas vezes perderem a frequência do mesmo ano.\n\n2 - Os alunos abrangidos pelo disposto no número anterior poderão repetir a matrícula do ano em que, por duas vezes, perderem a frequência por excesso de faltas desde que estas tenham por base motivos que, pela sua imperiosidade, força maior e imponderabilidade, as possam justificar.\n\n3 - Compete ao director-geral do Ensino Básico considerar, caso a caso, como justificativos ou não os motivos que fundamentarem as faltas referidas no número anterior.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, art. 1.º: nova redação do n.º 2 (plano dos cursos); a nova redação traz só o plano, sem proémio -> mantido o proémio (unidade 6) e substituídas as unidades 7 a 10.",
+    "Alt. 1, art. 2.º: nova redação do n.º 9 em três números -> substituída a unidade 20, com o número 9 à cabeça."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

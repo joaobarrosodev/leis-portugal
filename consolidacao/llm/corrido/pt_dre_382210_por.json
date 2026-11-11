@@ -1,0 +1,47 @@
+{
+  "id": "pt:dre:382210:por",
+  "substituicoes": [
+    {
+      "de": 58,
+      "ate": 61,
+      "texto": "8 - O Ministro da Saúde nomeará, por despacho, três elementos efectivos e um vogal suplente do júri que efectuar a avaliação final dos estagiários, todos do ramo de actividade a que se refere o concurso, do qual farão parte:\n\na) Um funcionário com categoria não inferior a técnico superior de saúde principal, que presidirá;\n\nb) Um funcionário com categoria não inferior a técnico superior de saúde de 1.ª classe, ao qual competirá substituir o presidente nos seus impedimentos;\n\nc) O responsável de estágio de cada estagiário, como 2.º vogal efectivo, ou, na sua falta, quem exerça a respectiva função;\n\nd) Como vogal suplente, um funcionário com categoria não inferior a técnico superior de saúde de 1.ª classe, ao qual competirá substituir, nos seus impedimentos, o 1.º vogal efectivo.",
+      "alterador": 1
+    },
+    {
+      "de": 75,
+      "ate": 78,
+      "texto": "12.1 - (Revogado.)\n\n12.2 - (Revogado.)\n\n13 - (Revogado.)\n\n14 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 79,
+      "ate": 79,
+      "texto": "14.1 - Será considerada válida, para efeitos de ingresso na carreira de técnico superior de saúde, a preparação profissional adquirida em serviços oficiais, nacionais ou estrangeiros, à qual tenha sido concedida, nos termos da regulamentação vigente no Ministério da Saúde, equiparação ao estágio referido no presente Regulamento.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 57,
+      "texto": "7.7 - O responsável de estágio poderá propor ao órgão de gestão do respectivo estabelecimento a prorrogação da duração do estágio por período de tempo que entenda adequado relativamente a estagiários sob a sua responsabilidade que, para além da licença para férias a que tiverem direito, registem outras licenças ou faltas justificadas que se revelem determinantes de perda de aproveitamento.\n\n7.8 - As prorrogações previstas no n.º 7.7 não podem exceder três meses, devendo acarretar a exclusão do estágio as perdas de aproveitamento que não sejam recuperáveis naquele período de tempo.\n\n7.9 - Sem prejuízo do disposto no número anterior, a relação contratual dos estagiários mantém-se até à avaliação final e poderá ser prorrogada para além desta, até ao ingresso do interessado em lugar de quadro de serviço público, mas nunca por período superior a seis meses.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 64,
+      "texto": "8.2 - Existirão, anualmente, duas épocas de avaliação final dos estagiários, que serão determinadas por despacho do Ministro da Saúde.\n\n8.3 - Os estagiários terão de se submeter à avaliação final na época que imediatamente se seguir à data da conclusão do estágio.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: aditados os n.os 7.7, 7.8 e 7.9 a seguir ao n.º 7.6 (depois da unidade 57).",
+    "Alterador 1, 2.º: nova redação do n.º 8 e alíneas a) a d) (unidades 58-61).",
+    "Alterador 1, 3.º: aditados os n.os 8.2 e 8.3 a seguir ao n.º 8.1 (depois da unidade 64).",
+    "Alterador 1, 4.º: nova redação do n.º 14.1 (unidade 79).",
+    "Alterador 1, 5.º: revogados os n.os 12.1, 12.2, 13 e 14 (unidades 75-78).",
+    "Alterador 2: o artigo 5.º só remete para o n.º 14.1 e o artigo 6.º altera o Decreto-Lei 414/91; nada a aplicar ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

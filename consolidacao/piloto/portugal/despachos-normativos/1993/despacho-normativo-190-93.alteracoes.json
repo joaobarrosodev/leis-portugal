@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 23-30",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A.1 - Curso de alistamento de electrotécnicos:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/185b00/42464247.pdf)\n\nA.2 - Equiparação ao nível 3 de qualificação profissional e equivalência ao 12.º ano de escolaridade:\n\nCurso de alistamento de electrotécnico - técnico de electrónica\n\nB.1 - Curso de alistamento de maquinistas navais:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/185b00/42464247.pdf)\n\nB.2 - Equiparação ao nível 3 de qualificação profissional e equivalência ao 12.º ano de escolaridade:\n\nCurso de alistamento de maquinistas navais - técnico de mecânica/máquinas marítimas.",
+    "depois": "A.1. - Curso de alistamento de electrotécnicos:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/213b00/49424944.pdf)\n\nA.2. - Equiparação ao nível 3 da qualificação profissional e equivalência ao 12.º ano de escolaridade:\n\nCurso de alistamento de electrotécnico - técnico de electrónica.\n\nB.1. - Curso de alistamento de maquinistas navais:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/213b00/49424944.pdf)\n\nB.2. - Equiparação ao nível 3 da qualificação profissional e equivalência ao 12.º ano de escolaridade:\n\nCurso de alistamento de maquinistas navais - técnico de mecânica/máquinas marítimas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:357527:por",
+    "alterador": "pt:dre:649078:por"
+  }
+]

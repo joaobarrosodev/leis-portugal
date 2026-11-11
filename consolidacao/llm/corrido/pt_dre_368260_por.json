@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:368260:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/10000/10991100.pdf)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: altera a remuneração do lugar de chefe de secretaria no quadro, que só existe em imagem; não é alteração textual. Alterador 2: o novo quadro (anexo I) só vem em imagem; substituí apenas a ligação.",
+  "instrucoes": [
+    "Alterador 1: remuneração do chefe de secretaria pela letra I; quadro só em imagem, não aplicado.",
+    "Alterador 2, 1.º: o quadro de pessoal é substituído pelo quadro anexo I da Portaria 448/82; substituída a unidade 5 pela ligação ao novo quadro (só em imagem).",
+    "Alterador 2, 2.º a 6.º: dirigidos a outros quadros/diplomas ou normas próprias; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

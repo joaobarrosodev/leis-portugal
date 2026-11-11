@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 86-141",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º\n\n(Licenciatura em Línguas e Literaturas Modernas Variante de Estudos Franceses e Portugueses)\n\nO plano de estudos da variante de Estudos Franceses e Portugueses da licenciatura em Línguas e Literaturas Modernas pela Faculdade de Letras da Universidade de Coimbra passa a ser o seguinte:\n\n1.º ano:\n\nIntrodução aos Estudos Linguísticos.\n\nIntrodução aos Estudos Literários.\n\nFrancês I.\n\nInglês I.\n\nCultura Francesa.\n\n2.º ano:\n\nFrancês II.\n\nInglês II.\n\nLinguística Inglesa.\n\nLiteratura Francesa I.\n\nLiteratura Inglesa I.\n\nCultura Inglesa.\n\n3.º ano:\n\nFrancês III.\n\nInglês III.\n\nLiteratura Francesa II.\n\nLiteratura Inglesa II.\n\nLiteratura Norte-Americana.\n\n4.º ano:\n\nFrancês IV (Língua e Linguística).\n\nInglês IV.\n\nLiteratura Francesa III ou Literatura Inglesa III.\n\nTeoria da Literatura.\n\nOpção.\n\n5.º\n\n(Licenciatura em Línguas e Literaturas Modernas Variante de Estudos Franceses e Alemães)\n\nO plano de estudos da variante de Estudos Franceses e Alemães da licenciatura em Línguas e Literaturas Modernas pela Faculdade de Letras da Universidade de Coimbra passa a ser o seguinte:\n\n1.º ano:\n\nIntrodução aos Estudos Linguísticos.\n\nIntrodução aos Estudos Literários.\n\nFrancês I.\n\nAlemão I.\n\nCultura Francesa.\n\n2.º ano:\n\nFrancês II.\n\nAlemão II.\n\nLiteratura Francesa I.\n\nLiteratura Alemã I.\n\nCultura Alemã.\n\n3.º ano:\n\nFrancês III.\n\nAlemão III.\n\nLinguística Alemã.\n\nLiteratura Francesa II.\n\nLiteratura Alemã II.\n\nOpção.\n\n4.º ano:\n\nFrancês IV (Língua e Linguística).\n\nAlemão IV.\n\nLiteratura Francesa III ou Literatura Alemã III.\n\nTeoria da Literatura.\n\nOpção.",
+    "depois": "4.º - (Revogado.)\n\n5.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:309903:por",
+    "alterador": "pt:dre:381741:por"
+  }
+]

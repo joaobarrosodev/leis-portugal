@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:399990:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 9,
+      "texto": "1.º - (Revogado.)\n\n2.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 14,
+      "texto": "4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n6.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (Decreto-Lei n.º 522/85), artigo 40.º: revoga os n.os 1.º, 2.º, 4.º, 5.º e 6.º da Portaria n.º 805/84: unidades 8-9 e 12-14 passam a (Revogado.); o n.º 3.º e o modelo mantêm-se.",
+    "Alt. 1, artigo 20.º, n.º 8: apenas remete para o modelo do n.º 3.º, sem o alterar: nada a fazer.",
+    "Restantes artigos do Decreto-Lei n.º 522/85: não dirigidos ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

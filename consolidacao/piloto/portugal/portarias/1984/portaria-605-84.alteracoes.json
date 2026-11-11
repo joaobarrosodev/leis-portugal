@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "depois da unidade 57",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "7.7 - O responsável de estágio poderá propor ao órgão de gestão do respectivo estabelecimento a prorrogação da duração do estágio por período de tempo que entenda adequado relativamente a estagiários sob a sua responsabilidade que, para além da licença para férias a que tiverem direito, registem outras licenças ou faltas justificadas que se revelem determinantes de perda de aproveitamento.\n\n7.8 - As prorrogações previstas no n.º 7.7 não podem exceder três meses, devendo acarretar a exclusão do estágio as perdas de aproveitamento que não sejam recuperáveis naquele período de tempo.\n\n7.9 - Sem prejuízo do disposto no número anterior, a relação contratual dos estagiários mantém-se até à avaliação final e poderá ser prorrogada para além desta, até ao ingresso do interessado em lugar de quadro de serviço público, mas nunca por período superior a seis meses.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:382210:por",
+    "alterador": "pt:dre:376816:por"
+  },
+  {
+    "artigo": "unidades 58-61",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "8 - A avaliação final dos estagiários será efectuada por um júri nomeado pelo Ministro da Saúde e de que farão parte:\n\na) Um funcionário dirigente do serviço que no Ministério da Saúde for competente em matéria de recursos humanos, com funções relacionadas com a carreira de técnico superior de saúde, que presidirá;\n\nb) Um técnico superior de saúde de classe não inferior a 1.ª;\n\nc) O responsável de estágio de cada estagiário.",
+    "depois": "8 - O Ministro da Saúde nomeará, por despacho, três elementos efectivos e um vogal suplente do júri que efectuar a avaliação final dos estagiários, todos do ramo de actividade a que se refere o concurso, do qual farão parte:\n\na) Um funcionário com categoria não inferior a técnico superior de saúde principal, que presidirá;\n\nb) Um funcionário com categoria não inferior a técnico superior de saúde de 1.ª classe, ao qual competirá substituir o presidente nos seus impedimentos;\n\nc) O responsável de estágio de cada estagiário, como 2.º vogal efectivo, ou, na sua falta, quem exerça a respectiva função;\n\nd) Como vogal suplente, um funcionário com categoria não inferior a técnico superior de saúde de 1.ª classe, ao qual competirá substituir, nos seus impedimentos, o 1.º vogal efectivo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:382210:por",
+    "alterador": "pt:dre:376816:por"
+  },
+  {
+    "artigo": "depois da unidade 64",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "8.2 - Existirão, anualmente, duas épocas de avaliação final dos estagiários, que serão determinadas por despacho do Ministro da Saúde.\n\n8.3 - Os estagiários terão de se submeter à avaliação final na época que imediatamente se seguir à data da conclusão do estágio.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:382210:por",
+    "alterador": "pt:dre:376816:por"
+  },
+  {
+    "artigo": "unidades 75-78",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "12.1 - A habilitação referida no número anterior tem a validade de 2 anos, contados a partir da data da publicação referida no mesmo número.\n\n12.2 - O prazo fixado no número anterior não caduca se o habilitado se candidatar a concurso cujo aviso de abertura seja publicado dentro do mesmo prazo.\n\n13 - Terminada a avaliação final, cessa o direito à remuneração a que se refere o n.º 4 do artigo 4.º do [Decreto Regulamentar n.º 29/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332), de 24 de Junho.\n\n14 - O disposto no presente Regulamento aplicar-se-á apenas aos estágios da carreira de técnico superior de saúde que se iniciarem após a sua entrada em vigor.",
+    "depois": "12.1 - (Revogado.)\n\n12.2 - (Revogado.)\n\n13 - (Revogado.)\n\n14 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:382210:por",
+    "alterador": "pt:dre:376816:por"
+  },
+  {
+    "artigo": "unidades 79-79",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "14.1 - Serão considerados válidos, para efeitos de futuro ingresso na carreira de técnico superior de saúde, os estágios efectuados ao abrigo de legislação anterior, desde que ultimados até 2 anos antes do referido ingresso, e, bem assim, a preparação profissional adquirida em serviços nacionais ou estrangeiros a que tenha sido concedida, nos termos da legislação aplicável no âmbito do Ministério da Saúde, equiparação ao estágio referido no presente Regulamento.",
+    "depois": "14.1 - Será considerada válida, para efeitos de ingresso na carreira de técnico superior de saúde, a preparação profissional adquirida em serviços oficiais, nacionais ou estrangeiros, à qual tenha sido concedida, nos termos da regulamentação vigente no Ministério da Saúde, equiparação ao estágio referido no presente Regulamento.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:382210:por",
+    "alterador": "pt:dre:376816:por"
+  }
+]

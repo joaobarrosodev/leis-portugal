@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:228262:por",
+  "substituicoes": [
+    {
+      "de": 92,
+      "ate": 92,
+      "texto": "A duração do curso é de três semestres lectivos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 665/96), 1.º: novo anexo I (plano de estudos) só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: anexo I substituído pelo anexo da Portaria 665/96, só em imagem — não aplicado.",
+    "Alterador 1, 2.º: nova redação do n.º 17.º; número e epígrafe iguais, muda só o corpo — substituída a unidade 92."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

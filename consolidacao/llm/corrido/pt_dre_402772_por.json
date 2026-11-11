@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:402772:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1, 2 e 3 substituem (no todo ou em parte) o quadro de pessoal anexo, que só existe em imagem no original e nos alteradores; o n.º 2.º e o anexo I do alterador 3 são disposições próprias dessa portaria, sem instrução de alterar o n.º 2.º do original.",
+  "instrucoes": [
+    "Alterador 1: substituição parcial do quadro de pessoal anexo; só em imagem, não aplicada",
+    "Alterador 2: substituição parcial do quadro (ramo de laboratório); só em imagem, não aplicada",
+    "Alterador 3: substituição do quadro de pessoal anexo; só em imagem, não aplicada; o seu n.º 2.º não altera expressamente o original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

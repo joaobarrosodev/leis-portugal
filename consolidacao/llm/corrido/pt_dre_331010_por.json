@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:331010:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "Em Portugal desde 1998, e pela primeira vez, têm-se definido metas e objectivos sobre a matéria (em saúde em Portugal, uma estratégia para o virar do século - 1998-2002 e no plano de acção da Direcção-Geral da Saúde). Entretanto foi publicada nova legislação referente à condução sob o efeito do álcool e de outros psicotrópicos, na sequência da revisão do Código da Estrada pelo [Decreto-Lei n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), de 3 de Janeiro - o [Decreto Regulamentar n.º 24/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1998-229115), de 30 de Outubro, e as Portarias n.os [1005/98](https://diariodarepublica.pt/dr/detalhe/portaria/1005-1998-210186) e [1006/98](https://diariodarepublica.pt/dr/detalhe/portaria/1006-1998-210187), de 30 de Novembro - enquanto se ultima a revisão da legislação relacionada com os centros regionais de alcoologia. Em Novembro próximo e com financiamento da União Europeia irá decorrer, na cidade do Porto, um seminário europeu dedicado aos problemas do álcool nos jovens, com ênfase nas novas bebidas desenhadas e dirigidas aos jovens («alcopops») e tendo em vista também a promoção de uma rede europeia para a prevenção comunitária, pesquisa e avaliação dos problemas ligados ao álcool.",
+      "alterador": 1
+    },
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "Esta comissão será constituída por um representante do Ministério da Saúde, que preside, e dos Ministérios da Educação, do Trabalho e da Solidariedade, da Agricultura, do Desenvolvimento Rural e das Pescas, da Administração Interna, da Justiça, da Economia e Secretaria de Estado da Juventude.",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "3 - Intensificar a colaboração internacional nesta matéria, principalmente no âmbito da União Europeia, na sequência da coordenação portuguesa do projecto sobre álcool e juventude, que inclui o 2.º Simpósio Europeu sobre Prevenção Comunitária dos Problemas Ligados ao Álcool - «Álcool, Juventude e Novas Bebidas Desenhadas» - (Porto, 18 a 20 de Novembro).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Rectificação do 8.º parágrafo do preâmbulo: alcopos -> alcopops (unidade 9)",
+    "Rectificação do n.º 1: 'da Justiça e da Economia.' -> 'da Justiça, da Economia e Secretaria de Estado da Juventude.' (unidade 14)",
+    "Rectificação do n.º 3: 15 a 17 -> 18 a 20 de Novembro (unidade 17)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

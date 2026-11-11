@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:393049:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 263/85, n.º 4: revoga as disposições em contrário e o n.º 3.1 do Regulamento só no que respeita a quotização para a acção social escolar e prémio de seguro escolar: revogação parcial e condicional, sem indicação de que subnúmeros caem (o 3.1 também trata da quotização para actividades paraescolares e de transportes): não aplicada ao texto.",
+  "instrucoes": [
+    "Alt. 1, n.os 1 a 3: princípios autónomos do IASE, não alteram o texto do original: nada a fazer.",
+    "Alt. 1, n.º 4: revogação do n.º 3.1 na parte relativa à quotização para a acção social escolar e prémio de seguro escolar, e das disposições em contrário: condicional, não aplicada (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

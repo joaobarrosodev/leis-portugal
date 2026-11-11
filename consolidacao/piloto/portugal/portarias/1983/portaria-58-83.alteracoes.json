@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 18-24",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º O artigo 30.º passa a ter a seguinte redacção:\n\nArt. 30.º Podem concorrer ao concurso referido no artigo anterior:\n\na) Os médicos com o grau de assistente hospitalar há mais de 5 anos, desde que tenham sido aprovados em, pelo menos, 2 concursos públicos com provas práticas eliminatórias;\n\nb) Os médicos que, à data da publicação do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, ocupem lugares da carreira como especialistas há, pelo menos, 3 anos, desde que tenham sido aprovados em, pelo menos, 2 concursos públicos com provas práticas eliminatórias.\n\nc) Os médicos cujo currículo seja considerado equiparável ao nível definido na alínea a) do presente artigo, por despacho do Ministro dos Assuntos Sociais, sob parecer favorável da direcção médica de um hospital central e da Direcção-Geral dos Hospitais.\n\n8.º O n.º 2 do artigo 46.º passa a ter a seguinte redacção:\n\n2 - As decisões são tomadas por maioria.",
+    "depois": "7.º - (Revogado.)\n\n8.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:308350:por",
+    "alterador": "pt:dre:227047:por"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Para efeitos do estabelecido na alínea c) do n.º 2 do artigo 6.º do Decreto-Lei n.º 180/95, de 26 de Julho, na redacção dada pelo Decreto-Lei n.º 110/96, de 2 de Agosto, os técnicos a acreditar para o exercício da protecção integrada e produção integrada das culturas devem possuir pelo menos grau de bacharelato ou equivalente.",
+    "depois": "2.º Para efeitos do estabelecido na alínea c) do n.º 2 do artigo 6.º do [Decreto-Lei n.º 180/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1995-484981), de 26 de Julho, na redacção dada pelo [Decreto-Lei n.º 110/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1996-407734), de 2 de Agosto, os técnicos a acreditar pela Direcção-Geral de Protecção das Culturas para o exercício da protecção integrada e produção integrada das culturas devem possuir um dos seguintes requisitos:\n\na) Curso de mestrado em Protecção Integrada ou Produção Integrada;\n\nb) Licenciatura em Engenharia Agronómica no ramo da Protecção das Plantas;\n\nc) Pelo menos grau de bacharelato, ou equivalente, cujos curricula incluam disciplinas na área da protecção das culturas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:241213:por",
+    "alterador": "pt:dre:692212:por"
+  },
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Para além do disposto no número anterior, os técnicos a acreditar pela Direcção-Geral da Protecção das Culturas devem satisfazer pelo menos uma das seguintes condições:",
+    "depois": "3.º Os técnicos a acreditar que possuam a habilitação referida na alínea c) do número anterior devem igualmente satisfazer pelo menos uma das seguintes condições:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:241213:por",
+    "alterador": "pt:dre:692212:por"
+  },
+  {
+    "artigo": "unidades 11-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Curso de mestrado em Protecção Integrada, ministrado pelo Instituto Superior de Agronomia, da Universidade Técnica de Lisboa;\n\nd) Exercício, devidamente comprovado, de acções ou actividades desenvolvidas no âmbito da protecção integrada ou produção integrada, por um período mínimo de cinco anos.",
+    "depois": "c) Exercício, devidamente comprovado, de acções ou actividades desenvolvidas no âmbito da protecção integrada ou produção integrada, por um período mínimo de cinco anos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:241213:por",
+    "alterador": "pt:dre:692212:por"
+  }
+]

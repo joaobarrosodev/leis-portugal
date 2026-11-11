@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:295170:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante sitos nas freguesias de Cartaxo, Vila Chã de Ourique e Vale da Pinta, município do Cartaxo, com a área de 2281,5430 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 8,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "A nova planta anexa do alterador 1 só existe no documento original (imagem). Alteradores 2 (suspensão da actividade cinegética), 3 (renovação da concessão com nova área e planta) e 4 (renovação e anexação) não contêm alterações textuais à Portaria n.º 552/94.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º — unidade 8",
+    "Alt. 1, 1.º: aditado n.º 1.º-A — inserido depois da unidade 8",
+    "Alt. 2: suspensão da actividade cinegética por 180 dias — não textual",
+    "Alt. 3: renovação da concessão por 10 anos (1062,90 ha) e revogação da Portaria n.º 516/2000 — não textual para o original",
+    "Alt. 4: renovação e anexação de prédios — não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

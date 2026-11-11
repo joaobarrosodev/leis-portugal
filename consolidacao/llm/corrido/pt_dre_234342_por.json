@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:234342:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 (DL 50-A/2006, art. 55.º) e 2 (DL 50-A/2007, art. 63.º): o n.º 1 é 'alterado em conformidade com' o artigo 20.º da Lei 60-A/2005 e o artigo 19.º da Lei 53-A/2006, sem nova redação no alterador; alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, art. 55.º: n.º 1 alterado em conformidade com o n.º 1 do art. 20.º da Lei 60-A/2005, sem texto — não aplicado.",
+    "Alterador 2, art. 63.º: n.º 1 alterado em conformidade com o n.º 1 do art. 19.º da Lei 53-A/2006, sem texto — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

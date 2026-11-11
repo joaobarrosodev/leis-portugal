@@ -1,0 +1,54 @@
+{
+  "id": "pt:dre:374426:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 11,
+      "texto": "Laboratório Nacional de Engenharia Civil;\n\nJunta Autónoma de Estradas;\n\nInstituto Nacional de Habitação;\n\nInstituto de Gestão e Alienação do Património Habitacional do Estado;\n\nDirecção-Geral dos Edifícios e Monumentos Nacionais;",
+      "alterador": 3
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "Departamento de Gestão de Recursos Educativos;",
+      "alterador": 4
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "Gabinete de Estudos e Planeamento do Ministério das Obras Públicas, Transportes e Comunicações.",
+      "alterador": 3
+    },
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "AECOPS - Associação de Empresas de Construção e Obras Públicas (AECOPS);",
+      "alterador": 4
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "Associação Portuguesa de Engenheiros Técnicos;",
+      "alterador": 2
+    },
+    {
+      "de": 31,
+      "ate": 32,
+      "texto": "Associação dos Agentes Técnicos de Arquitectura e Engenharia;\n\nAssociação Portuguesa de Projectistas e Consultores.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 2.º: nova redação da alínea d); o Sindicato passa a Associação dos Agentes Técnicos de Arquitectura e Engenharia e a última entrada termina em ponto (unidades 31-32). O 1.º altera a Portaria 326/88; ignorado.",
+    "Alterador 2, 2.º: nova redação da alínea d); Associação Profissional dos Engenheiros Técnicos Portugueses passa a Associação Portuguesa de Engenheiros Técnicos (unidade 30). O 1.º altera a Portaria 326/88; ignorado.",
+    "Alterador 3, 3.º: nova redação da alínea a); retiradas as siglas e acrescentada a Direcção-Geral dos Edifícios e Monumentos Nacionais (unidades 8-11 e 15). O 1.º e 2.º alteram a Portaria 326/88; ignorados.",
+    "Alterador 4, 2.º: na alínea a) (redação da Portaria 757/92), Direcção-Geral dos Equipamentos Educativos passa a Departamento de Gestão de Recursos Educativos (unidade 13).",
+    "Alterador 4, 3.º: na alínea c), onde se lê Associação de Empresas de Construção e Obras Públicas do Sul passa a AECOPS - Associação de Empresas de Construção e Obras Públicas (unidade 20). O 1.º altera a Portaria 757/92 quanto à Portaria 326/88; ignorado.",
+    "Alterador 5: repete o alterador 4 (mesma Portaria 307/94); nada a mais a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

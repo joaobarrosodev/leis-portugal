@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:333281:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 611/96 (alterador 1) substitui o plano de estudos de Informática de Gestão (anexo II) por um anexo que só vem em imagem; Portaria 36/97 (alterador 2) muda a designação do curso de Matemáticas Aplicadas para Matemáticas Aplicadas à Gestão sem alterar textualmente a portaria (não textual) e substitui o plano de estudos (anexo I) por anexo que só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos de Informática de Gestão em anexo só em imagem - não aplicado",
+    "Alterador 2, 1.º: alteração da designação do curso, não textual - não aplicada",
+    "Alterador 2, 2.º: novo anexo (plano de Matemáticas Aplicadas à Gestão) só em imagem - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

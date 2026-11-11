@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - É criada uma Comissão Interministerial para a Reestruturação da Administração Pública, abreviadamente CIRAP, composta pelo Ministro da Justiça, que assegurará a sua coordenação, pelo Secretário de Estado da Administração Pública e pelo Secretário de Estado do Orçamento.",
+    "depois": "1 - É criada uma Comissão Interministerial para a Reestruturação da Administração Pública, abreviadamente CIRAP, composta pelo Vice-Primeiro-Ministro, que assegurará a sua coordenação, pelo Secretário de Estado da Administração Pública e pelo Secretário de Estado do Orçamento.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:328869:por",
+    "alterador": "pt:dre:326923:por"
+  }
+]
