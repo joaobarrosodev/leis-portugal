@@ -7,15 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:609994:por
-    title: Decreto-Lei n.º 260/2001
-    publication_date: '2001-09-25'
-  - id: pt:dre:582035:por
-    title: Decreto-Lei n.º 307/2001
-    publication_date: '2001-12-06'
   - id: pt:dre:455151:por
     title: Decreto-Lei n.º 160/2008
     publication_date: '2008-08-08'
+  - id: pt:dre:609994:por
+    title: Decreto-Lei n.º 260/2001
+    publication_date: '2001-09-25'
 ---
 
 # Decreto-Lei n.º 166/2000
@@ -54,7 +51,7 @@ c) Conselho Nacional da Pesca, adiante designado por CNP;
 
 d) (Revogada.)
 
-> Alterado pelo/a [Decreto-Lei n.º 260/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2001-609994) e [Decreto-Lei n.º 307/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2001-582035) e [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
+> Alterado pelo/a [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
 
 ###### Artigo 3.º — Funcionamento dos órgãos consultivos
 
@@ -104,169 +101,49 @@ A determinação da representatividade das organizações é estabelecida de aco
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 260/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2001-609994) e [Decreto-Lei n.º 307/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2001-582035) e [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
+> Revogado pelo/a [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
 
 ###### Artigo 8.º — Composição
 
-1 - O CNADR tem a seguinte composição:
+(Revogado.)
 
-a) 10 representantes das organizações sócio-profissionais agrícolas e florestais de terceiro grau;
-
-b) 1 representante das organizações sócio-profissionais agrícolas e florestais de terceiro grau, dos jovens agricultores;
-
-c) 7 representantes das organizações sócio-económicas agrícolas e florestais de terceiro grau;
-
-d) 2 representantes das organizações da indústria agro-alimentar;
-
-e) 2 representantes das organizações do comércio de produtos agro-alimentares;
-
-f) 2 representantes das associações locais e regionais de desenvolvimento rural;
-
-g) 1 representante das associações de defesa do ambiente e de conservação da natureza;
-
-h) 1 representante das organizações dos consumidores;
-
-i) 2 representantes das confederações dos trabalhadores;
-
-j) 2 representantes das Regiões Autónomas;
-
-l) 1 representante dos municípios;
-
-m) 3 personalidades de reconhecido mérito nas áreas da agricultura e do desenvolvimento rural.
-
-2 - Os membros do CNADR e os respectivos suplentes são nomeados por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sendo os membros a que se referem as alíneas a) a h) propostos pelas respectivas organizações nacionais, atenta a sua representatividade, e os membros a que se referem as alíneas i), j) e l) propostos, respectivamente, pela CGTP e UGT, pelos Governos das Regiões Autónomas dos Açores e da Madeira e pela Associação Nacional de Municípios Portugueses.
-
-3 - O mandato dos membros do CNADR tem a duração de quatro anos.
+> Revogado pelo/a [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
 
 ###### Artigo 9.º — Secções especializadas
 
-Sem prejuízo do disposto no artigo 4.º, são criadas desde já as seguintes secções especializadas:
+(Revogado.)
 
-a) Comissões consultivas sectoriais referidas no artigo 10.º;
-
-b) Comissão Consultiva da Vinha e do Vinho;
-
-c) Comissão Consultiva Veterinária;
-
-d) Comissão Consultiva do Desenvolvimento Rural;
-
-e) Comissão Consultiva da Protecção das Culturas.
+> Revogado pelo/a [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
 
 ###### Artigo 10.º — Comissões consultivas sectoriais
 
-1 - No Gabinete de Planeamento e Política Agro-Alimentar funcionam as seguintes comissões consultivas sectoriais, adiante designadas por CCS:
+(Revogado.)
 
-a) CCS de Arroz;
-
-b) CCS de Azeite;
-
-c) CCS de Banana;
-
-d) CCS de Culturas Arvenses;
-
-e) CCS de Frutas e Hortícolas Frescos;
-
-f) CCS de Frutas e Hortícolas Transformados;
-
-g) CCS do Lúpulo;
-
-h) CCS de Tabaco;
-
-i) CCS de Aves e Ovos;
-
-j) CCS de Bovinos;
-
-l) CCS de Leite e Lacticínios;
-
-m) CCS de Ovinos e Caprinos;
-
-n) CCS de Suínos.
-
-2 - As CCS são constituídas por representantes das organizações referidas nas alíneas a) a e) do artigo 8.º, na devida proporção, e de outras entidades que forem designadas por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, após audição do CNADR.
-
-3 - Às CCS compete:
-
-a) Acompanhar de forma permanente o funcionamento dos mercados do sector e emitir as recomendações que considerem convenientes;
-
-b) Emitir parecer sobre os assuntos que lhes forem apresentados pelo seu presidente.
-
-4 - As CCS são presididas pelo director do Gabinete de Planeamento e Política Agro-Alimentar, cabendo a este organismo garantir o apoio administrativo e técnico ao seu funcionamento.
-
-5 - As CCS reúnem ordinariamente uma vez por ano e extraordinariamente sempre que convocadas pelo seu presidente, por sua iniciativa ou a solicitação de um terço dos seus membros.
-
-6 - As CCS podem funcionar em plenário ou por grupos de trabalho especializados, de acordo com os respectivos regulamentos internos.
+> Revogado pelo/a [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
 
 ###### Artigo 11.º — Comissão Consultiva da Vinha e do Vinho
 
-1 - A Comissão Consultiva da Vinha e do Vinho, adiante designada por CCVV, é constituída por representantes das organizações sócio-profissionais e sócio-económicas agrícolas de terceiro grau, dos viticultores, dos viveiristas vitícolas, dos vitinicultores-engarrafadores, dos industriais, comerciantes e exportadores de produtos vitivinícolas, dos destiladores, das comissões vitivinícolas regionais e outros representantes do sector vitivinícola ou personalizados especialmente qualificados, designados por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+(Revogado.)
 
-2 - À CCVV compete:
-
-a) Acompanhar de forma permanente o funcionamento do mercado do vinho e emitir as recomendações que considere convenientes;
-
-b) Emitir pareceres sobre os assuntos que lhe forem apresentados pelo seu presidente, em especial sobre a situação do mercado do vinho e a gestão da sua organização e as propostas de normas regulamentadoras, nacionais e comunitárias.
-
-3 - A CCVV é presidida pelo presidente do Instituto da Vinha e do Vinho, cabendo a este Instituto garantir o apoio administrativo e técnico ao seu funcionamento.
-
-4 - A CCVV reúne ordinariamente uma vez por semestre e extraordinariamente sempre que for convocada pelo seu presidente, por sua iniciativa ou a solicitação de um terço dos seus membros.
-
-5 - A CCVV pode funcionar em plenário ou por grupos de trabalho especializados, de acordo com o seu regulamento interno.
+> Revogado pelo/a [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
 
 ###### Artigo 12.º — Comissão Consultiva Veterinária
 
-1 - A Comissão Consultiva Veterinária, adiante designada por CCV, é constituída por representantes das organizações referidas nas alíneas a) a e) do artigo 8.º, na devida proporção, dos consumidores, dos médicos veterinários e de outras entidades ou personalidades especialmente qualificadas, designados por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+(Revogado.)
 
-2 - À CCV compete:
-
-a) Pronunciar-se sobre as linhas gerais de acção da Direcção-Geral de Veterinária no âmbito de todas as questões relacionadas com a saúde animal;
-
-b) Apreciar a aplicação de medidas definidas na sequência de planos nacionais;
-
-c) Colaborar na definição de medidas de âmbito nacional e internacional decorrentes de situações extraordinárias ou de emergência motivadas por ocorrências sanitárias e de saúde pública veterinária;
-
-d) Emitir parecer sobre os assuntos que lhe forem apresentados pelo seu presidente, em especial sobre as propostas de normas regulamentadoras, nacionais e comunitárias.
-
-3 - A CCV é presidida pelo director-geral de Veterinária, cabendo a esta Direcção-Geral garantir o apoio administrativo e técnico ao seu funcionamento.
-
-4 - A CCV reúne ordinariamente uma vez por ano e extraordinariamente sempre que for convocada pelo seu presidente, por sua iniciativa ou a solicitação de um terço dos seus membros.
-
-5 - A CCV pode funcionar em plenário ou por grupos de trabalho especializados, de acordo com o seu regulamento interno.
+> Revogado pelo/a [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
 
 ###### Artigo 13.º — Comissão Consultiva do Desenvolvimento Rural
 
-1 - A Comissão Consultiva do Desenvolvimento Rural, adiante designada por CCDR, é constituída por representantes das organizações referidas nas alíneas a), b), c) e f) do artigo 8.º, na devida proporção, das organizações de defesa do ambiente e da conservação da natureza, da Associação Nacional de Municípios Portugueses e de outras entidades ou personalidades especialmente qualificadas, designados por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+(Revogado.)
 
-2 - À CCDR compete:
-
-a) Pronunciar-se sobre as linhas gerais de acção definidas ao nível nacional em matéria de desenvolvimento rural;
-
-b) Apreciar a aplicação das medidas de desenvolvimento rural definidas nos instrumentos de política nacionais e regionais;
-
-c) Emitir parecer sobre os assuntos que lhes forem apresentados pelo seu presidente, em especial sobre as propostas de normas regulamentadoras, nacionais e comunitárias, com efeitos sobre o desenvolvimento rural.
-
-3 - A CCDR é presidida pelo director-geral do Desenvolvimento Rural, cabendo a esta Direcção-Geral garantir o apoio administrativo e técnico ao seu funcionamento.
-
-4 - A CCDR reúne ordinariamente uma vez por semestre e extraordinariamente sempre que for convocada pelo seu presidente, por sua iniciativa ou por solicitação de um terço dos seus membros.
-
-5 - A CCDR pode funcionar em plenário ou por grupos de trabalho especializados, de acordo com o seu regulamento interno.
+> Revogado pelo/a [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
 
 ###### Artigo 14.º — Comissão Consultiva da Protecção das Culturas
 
-1 - A Comissão Consultiva da Protecção das Culturas, adiante designada por CCPC, é constituída por representantes das organizações referidas nas alíneas a) a f) do artigo 8.º, na devida proporção, das organizações de defesa do ambiente e de conservação da natureza, das organizações dos consumidores, das associações de protecção e produção integradas, das associações dos industriais e comerciantes de pesticidas, das associações de viveiristas e de produtores de sementes e de outras entidades ou personalidades especialmente qualificadas, designados por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+(Revogado.)
 
-2 - À CCPC compete:
-
-a) Pronunciar-se sobre as linhas gerais de acção da Direcção-Geral de Protecção das Culturas no âmbito das áreas da respectiva competência;
-
-b) Acompanhar a aplicação das medidas decorrentes de situações extraordinárias ou a grande gravidade para a produção agrária e preservação agro-ambiental no âmbito fitossanitário e na utilização de produtos fitofarmacêuticos e de materiais de multiplicação de plantas;
-
-c) Emitir parecer sobre os assuntos que lhe forem apresentados pelo seu presidente, em especial sobre propostas de normas regulamentadoras nacionais e comunitárias.
-
-3 - A CCPC é presidida pelo director-geral de Protecção das Culturas, cabendo a esta Direcção-Geral garantir o apoio administrativo e técnico ao seu funcionamento.
-
-4 - A CCPC reúne ordinariamente uma vez por ano e extraordinariamente sempre que for convocada pelo seu presidente, por sua iniciativa ou a solicitação de um terço dos seus membros.
-
-5 - A CCPC pode funcionar em plenário ou por grupos de trabalho especializados, de acordo com o respectivo regulamento interno.
+> Revogado pelo/a [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
 
 ### CAPÍTULO III — Conselho Consultivo Florestal
 
@@ -274,61 +151,25 @@ c) Emitir parecer sobre os assuntos que lhe forem apresentados pelo seu presiden
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 260/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2001-609994) e [Decreto-Lei n.º 307/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2001-582035) e [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
+> Revogado pelo/a [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
 
 ###### Artigo 16.º — Composição
 
-1 - O CCF tem a seguinte composição:
+(Revogado.)
 
-a) O director-geral das Florestas, em representação da Autoridade Florestal Nacional;
-
-b) Dois representantes da Administração Pública;
-
-c) Dois representantes das Regiões Autónomas;
-
-d) Um representante dos municípios;
-
-e) Dois representantes das administrações dos baldios;
-
-f) Dois representantes do sector cooperativo florestal;
-
-g) Três representantes das associações de produtores florestais;
-
-h) Dois representantes das associações de empreiteiros florestais;
-
-i) Dois representantes das organizações do comércio de produtos florestais;
-
-j) Dois representantes das associações da indústria florestal;
-
-l) Dois representantes das organizações sócio-profissionais agrícolas e florestais de terceiro grau;
-
-m) Dois representante das confederações de trabalhadores;
-
-n) Um representante das associações de defesa do ambiente e da conservação da natureza;
-
-o) Dois representantes das instituições de ensino e de investigação florestal;
-
-p) Três personalidades de reconhecido mérito nas áreas da silvicultura e da indústria florestal.
-
-2 - Os membros do CCF e os respectivos suplentes são nomeados por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, atentos os seguintes princípios:
-
-a) Os membros efectivos e suplentes a que se referem as alíneas b), c), d) e e) serão propostos, respectivamente, pelo Ministério do Ambiente e do Ordenamento do Território, pelo Ministério da Administração Interna, pelos Governos das Regiões Autónomas dos Açores e da Madeira, pela Associação Nacional de Municípios Portugueses e pelos órgãos de administração dos baldios;
-
-b) Os membros efectivos e suplentes a que se referem as alíneas f) a l) e n) serão propostos pelas organizações, atenta a respectiva representatividade.
-
-5 - O mandato dos membros do CCF tem a duração de quatro anos.
+> Revogado pelo/a [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
 
 ###### Artigo 16.º-A — Secções especializadas
 
 (Revogado.)
 
-> Aditado pelo/a [Decreto-Lei n.º 260/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2001-609994) e [Decreto-Lei n.º 307/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2001-582035) e [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
+> Aditado pelo/a [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
 
 ###### Artigo 16.º-B — Conselho das Organizações Interprofissionais Florestais
 
 (Revogado.)
 
-> Aditado pelo/a [Decreto-Lei n.º 260/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2001-609994) e [Decreto-Lei n.º 307/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2001-582035) e [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
+> Aditado pelo/a [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
 
 ### CAPÍTULO IV — Conselho Nacional da Pesca
 
@@ -390,67 +231,21 @@ b) Os membros efectivos e suplentes a que se referem as alíneas e) a j) serão 
 
 4 - O mandato dos membros do CNP tem a duração de quatro anos.
 
-> Alterado pelo/a [Decreto-Lei n.º 260/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2001-609994) e [Decreto-Lei n.º 307/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2001-582035) e [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
+> Alterado pelo/a [Decreto-Lei n.º 260/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2001-609994), publicado em 2001-09-25.
 
 ### CAPÍTULO V — Conselho Nacional da Caça e da Conservação da Fauna
 
 ###### Artigo 19.º — Objectivo
 
-1 - O CNCCF é um órgão de consulta do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, relativamente à definição e concretização da política cinegética nacional.
+(Revogado.)
 
-2 - Compete ao CNCCF pronunciar-se sobre:
-
-a) A política cinegética nacional;
-
-b) A gestão adequada do capital cinegético em função da capacidade de suporte do meio;
-
-c) O exercício da caça;
-
-d) A concessão, a renovação de zonas de caça, bem como sobre a anexação e desanexação de prédios rústicos das zonas de caça, sempre que requerido por qualquer dos interessados;
-
-e) Quaisquer outras questões sobre as quais o Ministro da Agricultura, do Desenvolvimento Rural e das Pescas entenda ouvir o CNCCF.
+> Revogado pelo/a [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
 
 ###### Artigo 20.º — Composição
 
-1 - O CNCCF tem a seguinte composição:
+(Revogado.)
 
-a) O director-geral das Florestas;
-
-b) Três representantes da Administração Pública;
-
-c) Dois representantes das Regiões Autónomas;
-
-d) Um representante dos municípios;
-
-e) Oito representantes das organizações nacionais de caçadores;
-
-f) Um representante das entidades gestoras das zonas de caça de interesse turístico;
-
-g) Um representante das entidades gestoras das zonas de caça de interesse municipal;
-
-h) Um representante dos caçadores de caça maior;
-
-i) Um representante das organizações de caçadores praticantes de modalidades tradicionais de caça;
-
-j) Dois representantes das associações de defesa do ambiente e da conservação da natureza;
-
-l) Três representantes das confederações de agricultores;
-
-m) Um representante das associações dos armeiros;
-
-n) Um representante das entidades que se dedicam à criação da caça em cativeiro;
-
-o) Dois representantes das confederações de trabalhadores;
-
-p) Três personalidades de reconhecida competência em matéria de agricultura e cinegética.
-
-2 - Os membros do CNCCF e os respectivos suplentes são nomeados por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, atentos os seguintes princípios:
-
-a) Os membros efectivos e suplentes a que se referem as alíneas b), c) e d) serão propostos, respectivamente, pelos Ministérios da Administração Interna, da Economia e do Ambiente e do Ordenamento do Território, pelos Governos das Regiões Autónomas dos Açores e da Madeira e pela Associação Nacional de Municípios Portugueses;
-
-b) Os membros efectivos e suplentes a que se referem as alíneas e) a n) serão propostos pelas organizações, atenta a respectiva representatividade.
-
-3 - O mandato dos membros do CNCCF tem a duração de quatro anos.
+> Revogado pelo/a [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
 
 ### CAPÍTULO VI — Representatividade
 
@@ -492,6 +287,10 @@ c) Os mandatos pertencem às organizações a que correspondem os termos da sér
 
 d) No caso de restar um só mandato para distribuir e de os termos seguintes da série serem iguais e de organizações diferentes, o mandato cabe à organização que tiver menor número de associados.
 
+3 - O disposto nos números anteriores não se aplica à determinação da representatividade das organizações que integram o CNP, a qual é apenas apurada pelo número de associados de cada organização candidata, sendo as candidaturas ordenadas por ordem decrescente daquele número e não podendo cada organização dispor de mais de um mandato.
+
+> Alterado pelo/a [Decreto-Lei n.º 260/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2001-609994), publicado em 2001-09-25.
+
 ###### Artigo 24.º — Candidatura à atribuição de lugares
 
 1 - O preenchimento dos lugares de membro dos órgãos consultivos do MADRP sujeitos à aplicação do princípio da representatividade será precedido de publicitação de um convite à apresentação de candidaturas em três jornais de grande circulação nacional, fixando-se um prazo de 30 dias para as organizações formularem o pedido e apresentarem a declaração referida no artigo 22.º
@@ -504,7 +303,9 @@ d) No caso de restar um só mandato para distribuir e de os termos seguintes da 
 
 ###### Artigo 25.º — Conselhos regionais agrários
 
-Aos conselhos regionais agrários, instalados ao abrigo do disposto no [Decreto-Lei n.º 75/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1996-435391), de 18 de Junho, que estabelece a lei quadro das direcções regionais de agricultura, aplicam-se, com as devidas adaptações, as normas respeitantes ao CNADR.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 160/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151), publicado em 2008-08-08.
 
 ###### Artigo 26.º — Indicação dos membros dos conselhos
 

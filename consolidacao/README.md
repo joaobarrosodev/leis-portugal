@@ -651,3 +651,32 @@ O DL 408/93 passou na ronda 41 e é do bloco 2, como o DR n.º 12/79. Dos 7 do b
 **Aplicáveis (`acervo.py --dry-run`): 19.** São 8 do bloco 1, 2 do bloco 2 e 9 juntados anteriores corrigidos pelas fórmulas finais. Há também 2 verificados sem reparos que o `acervo.py` recusa, porque o registo em `data/` já é o consolidado anterior: `pt:dre:643086:por` e `pt:dre:348524:por`. Aplicar a versão nova pede que o `acervo.py` saiba substituir um consolidado seu.
 
 **O que ainda faria subir o rendimento:** aditar e mover títulos de divisão (DL 361/78, 321-B/90, 633/76); a fonte dos "..." quando a redação intermédia vem de um diploma que não está entre os alteradores; e anexos e tabelas, que só existem em imagem e continuam a ser a primeira causa nos diplomas grandes.
+
+### Bloco 2 dos 93 grandes (rondas 40 a 43)
+
+Feito a pedido, apesar de o bloco 1 estar abaixo dos 35%. Os 7 primeiros diplomas foram pedidos no formato antigo e verificados na ronda 40; 3 deles foram refeitos com chaves repetidas na ronda 41. Os outros 18 foram pedidos já no formato novo, com títulos de divisão e chaves "N.º#2", e verificados nas rondas 42 e 43. Tudo com um subagente Opus por passagem e verificadores Sonnet, até 6 de cada vez.
+
+| Bloco 2 | Diplomas |
+| --- | --: |
+| Pedidos | 25 |
+| Respondidos até ao fim | 24 |
+| Juntados e verificados | 22 |
+| Sem reparos às cegas | **5** |
+
+Rendimento: **5 em 25 (20%) sobre o bloco**, 5 em 22 (23%) sobre os verificados. Os 5 sem reparos são o DR n.º 12/79, o DL 408/93, o DL 58/95, o DLR n.º 24/2002/M e o DL 431/80.
+
+Os que não chegam:
+
+- **Não pedido (1).** O DL 63-A/2013: o texto atual tem 294 mil caracteres e o pedido da primeira passagem 426 mil. O subagente esgotou o contexto antes de chegar ao alterador. O limite prático está entre 330 e 420 mil caracteres.
+- **Sem artigos a mudar (2).** No DL 328/95, os 13 alteradores mudam o Código das Sociedades Comerciais e outros, não ele. Na Resolução n.º 1/2000/M, os 11 alteradores são **republicações inteiras do Regimento** (150 a 223 mil caracteres cada). O corte dos 60 mil caracteres deixa delas só as linhas que citam o original, e as instruções seguintes apontam para uma numeração que o pedido não tem. Para estes, o método certo é outro: partir da última republicação e aplicar só o que vem depois.
+- **Com reparos às cegas (17):**
+  - *Anexos e quadros que só existem em imagem:* Portarias 1212/2003 e 1463/2007, DL 233/2004 e DL 189/2002.
+  - *Original incompleto no acervo:* os DL 189/2002 e 234/2001 não têm as bases do anexo. O LLM só pôde mudar epígrafes de capítulo.
+  - *Títulos de divisão aditados ou deixados no corpo de um artigo:* os capítulos novos do Regulamento da CMVM n.º 2/2007 e do DL 249/2009. Na Resolução n.º 5/2012/M, duas "SUBDIVISÃO" que estavam dentro do corpo de um artigo perderam-se quando o artigo foi reescrito. Nos artigos 8.º a 10.º do DRR n.º 2/96/M, títulos que estavam no lugar das epígrafes foram eliminados.
+  - *Redação de um diploma intermédio que não está entre os alteradores:* DL 233/2004, DLR n.º 4/2009/A e DLR n.º 2/2007/A.
+  - *Epígrafes:* o DL 44329 tem 250 de 269 artigos certos (o código foi quase todo revogado pelo DL 224-A/96), mas 19 epígrafes diferem do original sem instrução.
+  - *Erros do LLM:* uma subalínea mantida na Portaria 1212/2003, e as fórmulas finais repetidas no DLR n.º 19/2007/A.
+
+**Mudou no código:** uma passagem posterior que reescreve ou revoga um artigo apaga os problemas letra a letra das passagens anteriores sobre esse artigo. Só conta o texto que fica.
+
+**Os dois blocos juntos:** 13 de 50 sem reparos às cegas (26%). O `acervo.py --dry-run` dá **22 aplicáveis**: 8 do bloco 1, 5 do bloco 2 e 9 juntados anteriores corrigidos pelas fórmulas finais. Os 25 do bloco 3 estão por pedir. As 18 leis de orçamento continuam de fora.

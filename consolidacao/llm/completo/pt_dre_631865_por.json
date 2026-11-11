@@ -1,0 +1,56 @@
+{
+  "id": "pt:dre:631865:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 257/96), art. 1.º: altera artigos do Código das Sociedades Comerciais, incluindo o 452.º 'alterado pelo artigo 1.º do DL 328/95'; é instrução ao CSC, não ao original: ignorada.",
+    "Alterador 1, art. 6.º: revoga os n.os 3 a 5 do artigo 70.º-A do CSC 'aditado pelo artigo 2.º do DL 328/95' (e o 264.º do CSC); é revogação no CSC, não no original: ignorada.",
+    "Alterador 1, arts. 2.º-5.º e 7.º-13.º: aditamentos e alterações ao CSC, Código Comercial, Código do Notariado, Código do Registo Comercial (art. 3.º), DL 42/89, Tabela de Emolumentos e retificações ao CSC; nenhuma dirigida ao original: ignoradas.",
+    "Alterador 2 (DL 172/99): regime dos warrants; art. 18.º altera o art. 3.º do Código do Registo Comercial, não o original: ignorado.",
+    "Alterador 3 (DL 107/2003): altera CSC 351.º, CRC 3.º e 69.º e CVM; nada dirigido ao original: ignorado.",
+    "Alterador 4 (DL 70/2004): altera o DL 172/99 e o art. 3.º do CRC; nada dirigido ao original: ignorado.",
+    "Alterador 5 (DL 2/2005): regime das SE; altera CRC, Regulamento do Registo Comercial, RNPC e Código do Notariado; nada dirigido ao original: ignorado.",
+    "Alterador 6 (DL 35/2005): altera DL 238/91, 36/92, 147/94, 410/89, CSC (66.º, 451.º, 453.º, 508.º-C, 508.º-D) e CRC 72.º; instruções ao CSC, não ao original: ignoradas.",
+    "Alteradores 7 (DL 52/2006) e 8 (DL 76-A/2006): sem artigos transcritos que mencionem o original; nada a aplicar.",
+    "Alterador 9 (DL 8/2007): altera CSC (70.º, 528.º, etc.), CRC (3.º, etc.) e outros diplomas; nada dirigido ao original: ignorado.",
+    "Resultado: nenhum artigo do original (1.º a 5.º) nem nenhuma redação transcrita nele muda por instrução dirigida ao próprio DL 328/95.",
+    "Alterador 10 (Lei n.º 19/2009): arts. 27.º a 30.º alteram e aditam artigos do Código das Sociedades Comerciais (98.º, 99.º, 101.º, 117.º-A a 117.º-L) e do Código do Registo Comercial (3.º, 67.º-A, 74.º-A); não são instruções dirigidas ao Decreto-Lei n.º 328/95 (a menção a 328/95 é só no historial de alterações desses códigos): nada aplicado.",
+    "Alterador 11 (Decreto-Lei n.º 185/2009): altera o CSC (32.º, 70.º, 98.º, 100.º, 101.º, 101.º-A, 116.º, 420.º, 423.º-F, 441.º, 451.º, 508.º-C), adita 66.º-A e 508.º-F, revoga a al. b) do n.º 3 do art. 116.º do CSC, e altera o Código do Registo Predial, o CRC, o EBF, o CVM, o EOROC, o RERN, o CIRE e o Regulamento do Registo de Automóveis; nenhuma instrução dirigida ao original (os arts. 70.º e 451.º do CSC transcritos no original não são do original): nada aplicado.",
+    "Alterador 12 (Decreto-Lei n.º 49/2010): altera o CSC (incl. 325.º-A) e o CVM e adita artigos ao CVM; o art. 5.º (substituição genérica de «valor nominal») não toca o texto do original: nada aplicado.",
+    "Alterador 13 (Decreto-Lei n.º 89/2017): altera os arts. 65.º, 451.º e 528.º do CSC, adita 66.º-B, 508.º-G e 546.º ao CSC e altera o art. 245.º-A do CVM; são artigos do CSC, ainda que transcritos no original, e não do original: nada aplicado."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "chars": 255589,
+      "artigos": 0
+    },
+    {
+      "n": 2,
+      "alteradores": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "chars": 154351,
+      "artigos": 0
+    }
+  ],
+  "problemas": []
+}

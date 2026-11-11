@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:514057:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "O texto atual é o Regimento de 2000 (249 artigos, numeração original), mas o alterador 1 (Resolução n.º 19-A/2005/M) reestruturou e renumerou todo o Regimento e o pedido só traz o seu artigo 1.º (fórmula de alteração, sem texto); os alteradores 2, 3, 4, 6 e 10 não trazem texto. Todas as instruções dos alteradores 5 (5/2012/M: arts. 9.º, 24.º, 60.º, 66.º, 69.º, 78.º, 81.º, 84.º, 85.º, 89.º-92.º, 94.º, 97.º, 100.º, 101.º, 105.º, 136.º, 162.º, 236.º), 7 (9/2015/M: alterações a 70 artigos e aditamentos dos arts. 41.º-A, 48.º-A, 203.º-A e de números e alíneas), 8 (16-A/2020/M: arts. 63.º, 104.º, 119.º), 9 (24/2020/M: art. 104.º) e 11 (15/2023/M: arts. 43.º, 152.º, 214.º, 216.º) visam essa numeração e sistematização posteriores, que não existem no texto atual: as epígrafes não batem (p. ex. 9.º 'Poderes complementares' é aqui o 18.º, sendo o 9.º 'Substituição de deputados'; 24.º 'Conferência dos Representantes' é aqui o 33.º; 63.º 'Quórum' é aqui o 67.º; 104.º 'Requisitos da votação' não existe; 43.º é aqui 'Subcomissões') e as redações parciais com '...' dependem de números e alíneas que o texto atual não tem. Não se aplicou nenhuma por o alvo não ser seguro.",
+  "instrucoes": [
+    "Alterador 1 (19-A/2005/M), art. 1.º: altera o Regimento 'nos termos dos artigos seguintes', que não vêm no pedido; nada aplicado.",
+    "Alteradores 2, 3, 4, 6 e 10: sem texto dirigido ao original; nada aplicado.",
+    "Alterador 5 (5/2012/M), art. 1.º: nova redação de 21 artigos na numeração pós-2005; não coincide com o texto atual; não aplicado.",
+    "Alterador 7 (9/2015/M), arts. 1.º e 3.º: alterações a 70 artigos e aditamentos (41.º-A, 48.º-A, 203.º-A e vários números/alíneas) na numeração de 5/2012/M; não aplicado.",
+    "Alterador 8 (16-A/2020/M), art. 1.º: arts. 63.º, 104.º e 119.º na numeração posterior; não aplicado.",
+    "Alterador 9 (24/2020/M), art. 1.º: art. 104.º n.º 3; não aplicado.",
+    "Alterador 11 (15/2023/M), art. 1.º: arts. 43.º, 152.º, 214.º e 216.º na numeração posterior; não aplicado."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "chars": 176384,
+      "artigos": 0
+    }
+  ],
+  "problemas": []
+}

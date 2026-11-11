@@ -7,15 +7,15 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:552023:por
-    title: Lei n.º 20/2012
-    publication_date: '2012-05-14'
-  - id: pt:dre:496766:por
-    title: Decreto-Lei n.º 82/2013
-    publication_date: '2013-06-17'
   - id: pt:dre:164404:por
     title: Lei n.º 83-C/2013
     publication_date: '2013-12-31'
+  - id: pt:dre:496766:por
+    title: Decreto-Lei n.º 82/2013
+    publication_date: '2013-06-17'
+  - id: pt:dre:552023:por
+    title: Lei n.º 20/2012
+    publication_date: '2012-05-14'
 ---
 
 # Decreto-Lei n.º 249/2009
@@ -300,9 +300,9 @@ O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## PARTE I — Disposições gerais e comuns
 
-### CAPÍTULO I — Objecto e âmbito
+### CAPÍTULO I — Objeto e âmbito
 
-###### Artigo 1.º — Objecto
+###### Artigo 1.º — Objeto
 
 O Código Fiscal do Investimento, doravante designado por Código, procede à regulamentação:
 
@@ -312,59 +312,65 @@ b) Do regime fiscal de apoio ao investimento (RFAI); e
 
 c) Do sistema de incentivos fiscais em investigação e desenvolvimento empresarial II (SIFIDE II).
 
-> Alterado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Alterado pelo/a [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
 
-###### Artigo 2.º — Âmbito objectivo e temporal
+###### Artigo 2.º — Âmbito objetivo e temporal
 
-1 - O regime de benefícios fiscais referido no artigo anterior aplica-se a projectos de investimento produtivo, tal como são caracterizados no capítulo I da parte II deste Código, bem como a projectos de investimento com vista à internacionalização, tal como são caracterizados no capítulo II da parte II deste Código, realizados até 31 de Dezembro de 2020.
+1 - O regime de benefícios fiscais referido no artigo anterior aplica-se a projetos de investimento produtivo, tal como são caracterizados no capítulo I da parte II deste Código, bem como a projetos de investimento com vista à internacionalização, tal como são caracterizados no capítulo II da parte II deste Código, realizados até 31 de dezembro de 2020.
 
-2 - Os projectos de investimento referidos no número anterior devem ter o seu objecto compreendido nas seguintes actividades económicas, desde que respeitados os limites estabelecidos nos artigos 1.º, 6.º e 7.º do Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), de 6 de Agosto, que aprovou o regulamento geral de isenção por categoria:
+2 - Os projetos de investimento referidos no número anterior devem ter o seu objeto compreendido nas seguintes atividades económicas, desde que respeitados os limites estabelecidos nos artigos 1.º, 6.º e 7.º do Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), de 6 de agosto, que aprovou o regulamento geral de isenção por categoria:
 
-a) Indústria extractiva e indústria transformadora;
+a) Indústria extrativa e indústria transformadora;
 
-b) Turismo e as actividades declaradas de interesse para o turismo nos termos da legislação aplicável;
+b) Turismo e as atividades declaradas de interesse para o turismo nos termos da legislação aplicável;
 
-c) Actividades e serviços informáticos e conexos;
+c) Atividades e serviços informáticos e conexos;
 
-d) Actividades agrícolas, piscícolas, agro-pecuárias e florestais;
+d) Atividades agrícolas, piscícolas, agropecuárias e florestais;
 
-e) Actividades de investigação e desenvolvimento e de alta intensidade tecnológica;
+e) Atividades de investigação e desenvolvimento e de alta intensidade tecnológica;
 
 f) Tecnologias da informação e produção de audiovisual e multimédia;
 
 g) Ambiente, energia e telecomunicações.
 
-3 - Por portaria conjunta dos membros do Governo responsáveis pelas áreas da economia e das finanças são definidos os códigos de actividade económica (CAE) correspondentes às actividades referidas no número anterior.
+3 - Por portaria dos membros do Governo responsáveis pelas áreas da economia e das finanças são definidos os códigos de atividade económica (CAE) correspondentes às atividades referidas no número anterior.
+
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ### CAPÍTULO II — Condições de elegibilidade comuns
 
-###### Artigo 3.º — Condições subjectivas
+###### Artigo 3.º — Condições subjetivas
 
-1 - Os projectos de investimento são elegíveis quando:
+1 - Os projetos de investimento são elegíveis quando:
 
 a) Os promotores possuam capacidade técnica e de gestão;
 
-b) Os promotores e o projecto de investimento demonstrem uma situação financeira equilibrada, determinada nos termos do n.º 2;
+b) Os promotores e o projeto de investimento demonstrem uma situação financeira equilibrada, determinada nos termos do n.º 2;
 
-c) Os promotores disponham de contabilidade regularmente organizada de acordo com a normalização contabilística e outras disposições legais em vigor para o respectivo sector de actividade, que seja adequada às análises requeridas para a apreciação e acompanhamento do projecto e permita autonomizar os efeitos do mesmo;
+c) Os promotores disponham de contabilidade regularmente organizada de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo setor de atividade, que seja adequada às análises requeridas para a apreciação e acompanhamento do projeto e permita autonomizar os efeitos do mesmo;
 
-d) O lucro tributável dos promotores não seja determinado por métodos indirectos de avaliação;
+d) O lucro tributável dos promotores não seja determinado por métodos indiretos de avaliação;
 
 e) Os promotores se comprometam a cumprir as regras de contratação pública e dos normativos nacionais e comunitários em matéria de ambiente, igualdade de oportunidades e concorrência;
 
 f) A contribuição financeira dos promotores corresponda, pelo menos, a 25 % dos custos elegíveis, isenta de qualquer apoio público.
 
-2 - No âmbito da apreciação dos projectos de investimento, são excluídos os promotores que não apresentem a situação fiscal e contributiva regularizada.
+2 - No âmbito da apreciação dos projetos de investimento, são excluídos os promotores que não apresentem a situação fiscal e contributiva regularizada.
 
-3 - Para efeitos do disposto na alínea b) do n.º 1, considera-se que a situação financeira é equilibrada quando a autonomia financeira, medida pelo coeficiente entre o capital próprio e o total do activo líquido, ambos apurados segundo os princípios preconizados pelo sistema de normalização contabilística, seja igual ou superior a 0,2.
+3 - Para efeitos do disposto na alínea b) do n.º 1, considera-se que a situação financeira é equilibrada quando a autonomia financeira, medida pelo coeficiente entre o capital próprio e o total do ativo líquido, ambos apurados segundo os princípios preconizados pelo sistema de normalização contabilística, seja igual ou superior a 0,2.
 
 4 - Para efeitos do disposto no número anterior, podem ser considerados capitais próprios os montantes de suprimentos ou empréstimos de sócios, desde que os mesmos venham a ser incluídos no capital social antes da assinatura do contrato referido no artigo 9.º
 
-###### Artigo 4.º — Condições objectivas
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
-1 - São elegíveis os projectos de investimento cuja realização não se tenha iniciado à data da notificação da avaliação prévia, exceptuando-se as despesas relativas aos estudos directamente relacionados com o investimento, desde que realizados há menos de um ano.
+###### Artigo 4.º — Condições objetivas
 
-2 - Para efeitos do disposto no número anterior, considera-se que o início da realização do projecto de investimento se reporta à data da primeira factura emitida às empresas promotoras, relativa a débitos efectuados pelos fornecedores no âmbito do projecto.
+1 - São elegíveis os projetos de investimento cuja realização não se tenha iniciado à data da notificação da avaliação prévia, excetuando-se as despesas relativas aos estudos diretamente relacionados com o investimento, desde que realizados há menos de um ano.
+
+2 - Para efeitos do disposto no número anterior, considera-se que o início da realização do projeto de investimento se reporta à data da primeira fatura emitida às empresas promotoras, relativa a débitos efetuados pelos fornecedores no âmbito do projeto.
+
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ### CAPÍTULO III — Procedimento comum
 
@@ -376,13 +382,13 @@ a) Acompanhamento da aplicação do presente Código;
 
 b) Avaliação prévia da candidatura apresentada pelo promotor;
 
-c) Verificação do cumprimento das condições de acesso e de elegibilidade dos projectos;
+c) Verificação do cumprimento das condições de acesso e de elegibilidade dos projetos;
 
-d) Pronúncia sobre o interesse do projecto quanto aos objectivos visados pelos benefícios fiscais;
+d) Pronúncia sobre o interesse do projeto quanto aos objetivos visados pelos benefícios fiscais;
 
 e) Avaliação das aplicações relevantes;
 
-f) Avaliação do enquadramento dos projectos de investimento, não estando vinculado a quaisquer medições prefixadas de mérito, para além do disposto no presente Código;
+f) Avaliação do enquadramento dos projetos de investimento, não estando vinculado a quaisquer medições prefixadas de mérito, para além do disposto no presente Código;
 
 g) Análise do processo e remessa da proposta para aprovação nos termos do artigo 9.º;
 
@@ -404,99 +410,119 @@ d) (Revogada.)
 
 4 - O exercício de funções no Conselho nesta disposição não confere aos nomeados quaisquer abonos ou remunerações.
 
-> Alterado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 6.º — Avaliação prévia
 
-1 - A avaliação prévia corresponde a uma fase inicial do procedimento de candidatura aos benefícios fiscais, durante a qual é realizada uma análise sumária do projecto de investimento, com vista ao apuramento da respectiva elegibilidade no âmbito do sistema de incentivos.
+1 - A avaliação prévia corresponde a uma fase inicial do procedimento de candidatura aos benefícios fiscais, durante a qual é realizada uma análise sumária do projeto de investimento, com vista ao apuramento da respetiva elegibilidade no âmbito do sistema de incentivos.
 
-2 - As despesas contidas no projecto de investimento só podem ser elegíveis quando o resultado da avaliação prévia for positivo.
+2 - As despesas contidas no projeto de investimento só podem ser elegíveis quando o resultado da avaliação prévia for positivo.
 
-3 - A avaliação prévia não garante a concessão de apoios nem que as despesas realizadas antes dela sejam elegíveis, exceptuado o disposto no n.º 1 do artigo 4.º
+3 - A avaliação prévia não garante a concessão de apoios nem que as despesas realizadas antes dela sejam elegíveis, excetuado o disposto no n.º 1 do artigo 4.º
 
 4 - O envio do resultado da avaliação prévia ao promotor deve ocorrer até 10 dias úteis após a data de apresentação da candidatura, devendo as entidades previstas no n.º 1 do artigo 8.º remeter o parecer sobre a avaliação prévia ao Conselho no prazo de cinco dias úteis.
 
 5 - Caso o resultado da avaliação prévia seja positivo, o prazo referido no número anterior releva para o cômputo do prazo referido no n.º 5 do artigo 8.º
 
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
+
 ###### Artigo 7.º — Declaração municipal
 
-1 - Nos casos em que o promotor pretenda obter benefícios fiscais em sede de imposto municipal sobre imóveis (IMI) e ou de imposto municipal sobre as transmissões onerosas de bens imóveis (IMT), a atribuição destes benefícios fica condicionada à respectiva aceitação pelo órgão municipal competente nos termos da Lei n.º 169/99, de 18 de Setembro, e demais legislação aplicável.
+1 - Nos casos em que o promotor pretenda obter benefícios fiscais em sede de imposto municipal sobre imóveis (IMI) e ou de imposto municipal sobre as transmissões onerosas de bens imóveis (IMT), a atribuição destes benefícios fica condicionada à respetiva aceitação pelo órgão municipal competente nos termos da Lei n.º 169/99, de 18 de setembro, e demais legislação aplicável.
 
 2 - A prova da aceitação referida no número anterior é feita através da junção ao processo de candidatura previsto no artigo seguinte de uma declaração de aceitação dos benefícios em causa, emitida pelo órgão municipal competente.
+
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 8.º — Candidatura e apreciação dos processos
 
 1 - As empresas promotoras dos investimentos devem apresentar, devidamente caracterizado e fundamentado, o processo de candidatura aos benefícios fiscais junto das seguintes entidades:
 
-a) AICEP, quando os projectos de investimento se enquadrem no regime contratual de investimento regulado pelo Decreto-Lei n.º 203/2003, de 10 de Setembro, e quando estejam em causa projectos de investimento com vista à internacionalização das empresas portuguesas;
+a) AICEP, E.P.E, quando os projetos de investimento se enquadrem no regime contratual de investimento regulado pelo Decreto-Lei n.º 203/2003, de 10 de setembro, e quando estejam em causa projetos de investimento com vista à internacionalização das empresas portuguesas;
 
-b) IAPMEI, nos restantes casos.
+b) IAPMEI, I.P., nos restantes casos.
 
-2 - As candidaturas são apresentadas por via electrónica.
+2 - As candidaturas são apresentadas por via eletrónica.
 
-3 - Sempre que os projectos de investimento tenham implicações sectoriais que o justifiquem, devem ser consultadas as entidades públicas ou privadas competentes, que se pronunciam no prazo de 10 dias úteis.
+3 - Sempre que os projetos de investimento tenham implicações sectoriais que o justifiquem, devem ser consultadas as entidades públicas ou privadas competentes, que se pronunciam no prazo de 10 dias úteis.
 
-4 - As entidades referidas no n.º 1 podem, no decurso da fase de verificação das candidaturas, solicitar às empresas promotoras dos projectos esclarecimentos complementares, os quais devem ser apresentados no prazo de 10 dias úteis, sob pena de se considerar haver desistência do procedimento.
+4 - As entidades referidas no n.º 1 podem, no decurso da fase de verificação das candidaturas, solicitar às empresas promotoras dos projetos esclarecimentos complementares, os quais devem ser apresentados no prazo de 10 dias úteis, sob pena de se considerar haver desistência do procedimento.
 
-5 - As entidades referidas no n.º 1 submetem o processo devidamente instruído, por via electrónica, acompanhado do respectivo parecer técnico, ao Conselho, no prazo de 40 dias úteis contados a partir da data da apresentação da candidatura, que é suspenso nos casos previstos nos n.os 3 e 4.
+5 - As entidades referidas no n.º 1 submetem o processo devidamente instruído, por via eletrónica, acompanhado do respetivo parecer técnico, ao Conselho, no prazo de 40 dias úteis contados a partir da data da apresentação da candidatura, que é suspenso nos casos previstos nos n.os 3 e 4.
 
 6 - O Conselho pronuncia-se no prazo de 60 dias úteis a contar da data de submissão do processo nos termos referidos no número anterior.
 
 7 - O Conselho pode solicitar esclarecimentos adicionais às entidades referidas no n.º 1, caso em que o prazo previsto no número anterior se suspende.
 
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
+
 ###### Artigo 9.º — Contrato de concessão dos benefícios fiscais
 
-1 - A concessão dos benefícios fiscais é objecto de contrato, aprovado por resolução do Conselho de Ministros, do qual constam, designadamente, os objectivos e as metas a cumprir pelo promotor e os benefícios fiscais concedidos, e que tem um período de vigência até 10 anos a contar da conclusão do projecto de investimento.
+1 - A concessão dos benefícios fiscais é objeto de contrato, aprovado por resolução do Conselho de Ministros, do qual constam, designadamente, os objetivos e as metas a cumprir pelo promotor e os benefícios fiscais concedidos, e que tem um período de vigência até 10 anos a contar da conclusão do projeto de investimento.
 
 2 - Os contratos de concessão dos benefícios fiscais são celebrados pelas entidades previstas no n.º 1 do artigo anterior, na qualidade de representantes do Estado Português.
 
-3 - Os contratos de investimento de montante superior a (euro) 250 000 e inferior a (euro) 2 500 000 ficam subordinados à aprovação do Governo, através de despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da economia.
+3 - Os contratos de investimento de montante superior a (euro) 250 000 e inferior a (euro) 2 500 000 ficam subordinados à aprovação do Governo, através de despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia.
 
-4 - Os aditamentos aos contratos de concessão de benefícios fiscais, dos quais não resulte um aumento dos benefícios ou da intensidade do apoio, são aprovados através de despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da economia.
+4 - Os aditamentos aos contratos de concessão de benefícios fiscais, dos quais não resulte um aumento dos benefícios ou da intensidade do apoio, são aprovados através de despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia.
+
+5 - A aprovação dos contratos ou de aditamentos aos contratos, nos termos dos números anteriores, deve ocorrer no prazo de 60 dias úteis a contar da data da pronúncia prevista no n.º 6 do artigo anterior.
+
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 10.º — Fiscalização e acompanhamento
 
-1 - Sem prejuízo das competências próprias da DGCI em matéria de fiscalização e acompanhamento, a verificação do cumprimento, pelos promotores, dos contratos de concessão de benefícios fiscais ao investimento, compete ao Conselho previsto no artigo 5.º
+1 - Sem prejuízo das competências próprias da AT em matéria de fiscalização e acompanhamento, a verificação do cumprimento, pelos promotores, dos contratos de concessão de benefícios fiscais ao investimento, compete ao Conselho previsto no artigo 5.º
 
-2 - Para efeitos do cumprimento do artigo 7.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, a AICEP e o IAPMEI enviam anualmente à DGCI os relatórios de verificação do cumprimento dos objectivos previstos nos contratos de concessão de benefícios fiscais.
+2 - Para efeitos do cumprimento do artigo 7.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, a AICEP, E.P.E., e o IAPMEI, I.P., enviam anualmente à AT os relatórios de verificação do cumprimento dos objetivos previstos nos contratos de concessão de benefícios fiscais.
+
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 11.º — Direito de audição
 
-1 - Caso verifique alguma situação susceptível de conduzir à resolução do contrato, o Conselho comunica à entidade beneficiária do incentivo fiscal a sua intenção de propor a resolução do contrato, podendo esta responder, querendo, no prazo de 30 dias.
+1 - Caso verifique alguma situação suscetível de conduzir à resolução do contrato, o Conselho comunica à entidade beneficiária do incentivo fiscal a sua intenção de propor a resolução do contrato, podendo esta responder, querendo, no prazo de 30 dias.
 
 2 - Analisada a resposta à comunicação, ou decorrido o prazo para a sua emissão, o Conselho emite um relatório fundamentado, no prazo de 60 dias, no qual elabora uma proposta fundamentada em que propõe, se for o caso, a resolução do contrato de concessão de incentivos fiscais.
 
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
+
 ###### Artigo 12.º — Renegociação
 
-1 - O contrato pode ser objecto de renegociação a pedido de qualquer das partes, caso ocorra algum evento que altere substancialmente as circunstâncias em que as partes fundaram a sua vontade de contratar.
+1 - O contrato pode ser objeto de renegociação a pedido de qualquer das partes, caso ocorra algum evento que altere substancialmente as circunstâncias em que as partes fundaram a sua vontade de contratar.
 
 2 - Qualquer alteração contratual decorrente da renegociação referida no número anterior é submetida a aprovação nos termos do artigo 8.º
+
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 13.º — Resolução do contrato
 
 1 - A resolução do contrato é declarada por resolução do Conselho de Ministros nos seguintes casos:
 
-a) Não cumprimento dos objectivos e obrigações estabelecidos no contrato, nos prazos aí fixados, por facto imputável à empresa promotora;
+a) Não cumprimento dos objetivos e obrigações estabelecidos no contrato, nos prazos aí fixados, por facto imputável à empresa promotora;
 
 b) Não cumprimento atempado das obrigações fiscais e contributivas por parte da empresa promotora;
 
-c) Prestação de informações falsas sobre a situação da empresa ou viciação de dados fornecidos na apresentação, apreciação e acompanhamento dos projectos.
+c) Prestação de informações falsas sobre a situação da empresa ou viciação de dados fornecidos na apresentação, apreciação e acompanhamento dos projetos.
 
-2 - Para efeitos da aferição do incumprimento nos termos previstos na alínea a) do número anterior, deve ter-se em atenção o grau de cumprimento dos objectivos contratuais (GCC) acordado contratualmente.
+2 - Para efeitos da aferição do incumprimento nos termos previstos na alínea a) do número anterior, deve ter-se em atenção o grau de cumprimento dos objetivos contratuais (GCC) acordado contratualmente.
+
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 14.º — Efeitos da resolução do contrato
 
-1 - A resolução do contrato nos termos do artigo anterior implica a perda total dos benefícios fiscais concedidos desde a data de aprovação do mesmo, e ainda a obrigação de, no prazo de 30 dias a contar da respectiva notificação, e independentemente do tempo entretanto decorrido desde a data da verificação dos respectivos factos geradores de imposto, pagar, nos termos da lei, as importâncias correspondentes às receitas fiscais não arrecadadas, acrescidas de juros compensatórios, nos termos do artigo 35.º da lei geral tributária.
+1 - A resolução do contrato nos termos do artigo anterior implica a perda total dos benefícios fiscais concedidos desde a data de aprovação do mesmo, e ainda a obrigação de, no prazo de 30 dias a contar da respetiva notificação, e independentemente do tempo entretanto decorrido desde a data da verificação dos respetivos factos geradores de imposto, pagar, nos termos da lei, as importâncias correspondentes às receitas fiscais não arrecadadas, acrescidas de juros compensatórios, nos termos do artigo 35.º da lei geral tributária.
 
 2 - Na falta de pagamento dentro do prazo de 30 dias referido no número anterior, há lugar a procedimento executivo.
+
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ## PARTE II — Benefícios fiscais ao investimento produtivo e benefícios fiscais à internacionalização
 
 ### CAPÍTULO I — Benefícios fiscais contratuais ao investimento produtivo
 
-###### Artigo 15.º — Condições de acesso dos projectos de investimento produtivo
+###### Artigo 15.º — Condições de acesso dos projetos de investimento produtivo
 
-Podem ter acesso a benefícios fiscais em regime contratual e condicionados os projectos de investimento inicial, nos termos definidos no n.º 34 das orientações relativas aos auxílios estatais com finalidade regional para o período de 2007-2013, publicadas no Jornal Oficial da União Europeia, C 54, de 4 de Março de 2006, que demonstrem ter viabilidade técnica, económica e financeira e que preencham cumulativamente as seguintes condições:
+Podem ter acesso a benefícios fiscais em regime contratual e condicionados os projetos de investimento inicial, nos termos definidos no n.º 34 das orientações relativas aos auxílios estatais com finalidade regional para o período de 2007-2013, publicadas no Jornal Oficial da União Europeia, C 54, de 4 de março de 2006, que demonstrem ter viabilidade técnica, económica e financeira e que preencham cumulativamente as seguintes condições:
 
 a) Sejam relevantes para o desenvolvimento estratégico da economia nacional;
 
@@ -506,35 +532,39 @@ c) Induzam a criação ou manutenção de postos de trabalho;
 
 d) Contribuam para impulsionar a inovação tecnológica e a investigação científica nacional.
 
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
+
 ###### Artigo 16.º — Benefícios fiscais
 
-1 - Aos projectos de investimento previstos no n.º 1 do artigo 41.º do Estatuto dos Benefícios Fiscais podem ser concedidos, cumulativamente, os incentivos fiscais seguintes:
+1 - Aos projetos de investimento previstos no n.º 1 do artigo 41.º do Estatuto dos Benefícios Fiscais podem ser concedidos, cumulativamente, os incentivos fiscais seguintes:
 
-a) Crédito de imposto, determinado com base na aplicação de uma percentagem, compreendida entre 10 % e 20 % das aplicações relevantes do projecto efectivamente realizadas, a deduzir ao montante apurado nos termos da alínea a) do n.º 1 do artigo 83.º do Código do IRC;
+a) Crédito de imposto, determinado com base na aplicação de uma percentagem, compreendida entre 10 % e 20 % das aplicações relevantes do projeto efetivamente realizadas, a deduzir ao montante apurado nos termos da alínea a) do n.º 1 do artigo 83.º do Código do IRC;
 
-b) Isenção ou redução de IMI, relativamente aos prédios utilizados pela entidade na actividade desenvolvida no quadro do projecto de investimento;
+b) Isenção ou redução de IMI, relativamente aos prédios utilizados pela entidade na atividade desenvolvida no quadro do projeto de investimento;
 
-c) Isenção ou redução de IMT, relativamente aos imóveis adquiridos pela entidade, destinados ao exercício da sua actividade desenvolvida no âmbito do projecto de investimento;
+c) Isenção ou redução de IMT, relativamente aos imóveis adquiridos pela entidade, destinados ao exercício da sua atividade desenvolvida no âmbito do projeto de investimento;
 
-d) Isenção ou redução do imposto do selo que for devido em todos os actos ou contratos necessários à realização do projecto de investimento.
+d) Isenção ou redução do imposto do selo que for devido em todos os atos ou contratos necessários à realização do projeto de investimento.
 
 2 - A dedução em sede de IRC é feita na liquidação de IRC respeitante ao exercício em que foram realizadas as aplicações relevantes ou, quando o não possa ser integralmente, a importância ainda não deduzida pode sê-lo, nas mesmas condições, na liquidação dos exercícios até ao termo da vigência do contrato referido no artigo 9.º
 
 3 - A dedução anual máxima tem os seguintes limites:
 
-a) No caso de criação de empresas, a dedução anual pode corresponder ao total da colecta apurada em cada exercício;
+a) No caso de criação de empresas, a dedução anual pode corresponder ao total da coleta apurada em cada exercício;
 
-b) No caso de projectos em sociedades já existentes, a dedução máxima anual não pode exceder o maior valor entre 25 % do total do benefício fiscal concedido ou 50 % da colecta apurada em cada exercício, excepto se um limite diferente ficar contratualmente consagrado.
+b) No caso de projetos em sociedades já existentes, a dedução máxima anual não pode exceder o maior valor entre 25 % do total do benefício fiscal concedido ou 50 % da coleta apurada em cada exercício, exceto se um limite diferente ficar contratualmente consagrado.
+
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 17.º — Critérios de determinação dos benefícios fiscais
 
-1 - O benefício fiscal total a conceder aos projectos de investimento corresponde a 10 % das aplicações relevantes do projecto efectivamente realizadas.
+1 - O benefício fiscal total a conceder aos projetos de investimento corresponde a 10 % das aplicações relevantes do projeto efetivamente realizadas.
 
 2 - A percentagem estabelecida no número anterior pode ser majorada da seguinte forma:
 
-a) Em 5 %, caso o projecto se localize numa região que, à data de apresentação da candidatura, não apresente um índice per capita de poder de compra superior à média nacional nos dois últimos apuramentos anuais publicados pelo Instituto Nacional de Estatística, I. P. (INE, I. P.);
+a) Em 5 %, caso o projeto se localize numa região que, à data de apresentação da candidatura, não apresente um índice per capita de poder de compra superior à média nacional nos dois últimos apuramentos anuais publicados pelo Instituto Nacional de Estatística, I. P. (INE, I. P.);
 
-b) Até 5 %, caso o projecto proporcione a criação de postos de trabalho ou a sua manutenção até ao final da vigência do contrato referido no artigo 9.º de acordo com os cinco escalões seguintes:
+b) Até 5 %, caso o projeto proporcione a criação de postos de trabalho ou a sua manutenção até ao final da vigência do contrato referido no artigo 9.º de acordo com os cinco escalões seguintes:
 
 1 % - (igual ou maior que) 50 postos de trabalho;
 
@@ -546,33 +576,35 @@ b) Até 5 %, caso o projecto proporcione a criação de postos de trabalho ou a 
 
 5 % - (igual ou maior que) 250 postos de trabalho;
 
-c) Até 5 %, em caso de relevante contributo do projecto para a inovação tecnológica, a protecção do ambiente, a valorização da produção de origem nacional ou comunitária, o desenvolvimento e revitalização das pequenas e médias empresas (PME) nacionais ou a interacção com as instituições relevantes do sistema científico nacional.
+c) Até 5 %, em caso de relevante contributo do projeto para a inovação tecnológica, a proteção do ambiente, a valorização da produção de origem nacional ou comunitária, o desenvolvimento e revitalização das pequenas e médias empresas (PME) nacionais ou a interação com as instituições relevantes do sistema científico nacional.
 
 3 - As percentagens de majoração previstas no número anterior podem ser atribuídas cumulativamente.
 
-4 - No caso de reconhecida relevância excepcional do projecto para a economia nacional, pode ser atribuída, através de resolução do Conselho de Ministros, uma majoração até 5 %, respeitando o limite total de 20 % das aplicações relevantes.
+4 - No caso de reconhecida relevância excecional do projeto para a economia nacional, pode ser atribuída, através de resolução do Conselho de Ministros, uma majoração até 5 %, respeitando o limite total de 20 % das aplicações relevantes.
 
-5 - O benefício fiscal máximo corresponde à quantia resultante da aplicação das percentagens referidas neste artigo ao valor das aplicações relevantes efectivamente realizadas.
+5 - O benefício fiscal máximo corresponde à quantia resultante da aplicação das percentagens referidas neste artigo ao valor das aplicações relevantes efetivamente realizadas.
+
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 18.º — Aplicações relevantes
 
-1 - Consideram-se aplicações relevantes, para efeitos de cálculo dos benefícios, as despesas associadas aos projectos e relativas a:
+1 - Consideram-se aplicações relevantes, para efeitos de cálculo dos benefícios, as despesas associadas aos projetos e relativas a:
 
-a) Activo fixo corpóreo afecto à realização do projecto, com excepção de:
+a) Ativo fixo corpóreo afeto à realização do projeto, com exceção de:
 
-i) Terrenos que não se incluam em projectos do sector da indústria extractiva, destinados à exploração de concessões minerais, águas de mesa e medicinais, pedreiras, barreiras e areeiros;
+i) Terrenos que não se incluam em projetos do setor da indústria extrativa, destinados à exploração de concessões minerais, águas de mesa e medicinais, pedreiras, barreiras e areeiros;
 
-ii) Edifícios e outras construções não directamente ligados ao processo produtivo ou às actividades administrativas essenciais;
+ii) Edifícios e outras construções não diretamente ligados ao processo produtivo ou às atividades administrativas essenciais;
 
 iii) Viaturas ligeiras ou mistas e outro material de transporte no valor que ultrapasse 20 % do total das aplicações relevantes;
 
 iv) Mobiliário e artigos de conforto ou decoração;
 
-v) Equipamentos sociais, com excepção daqueles que a empresa seja obrigada a possuir por determinação da lei;
+v) Equipamentos sociais, com exceção daqueles que a empresa seja obrigada a possuir por determinação da lei;
 
-vi) Outros bens de investimento não directa e imprescindivelmente associados à actividade produtiva exercida pela empresa, salvo equipamentos produtivos destinados à utilização, para fins económicos, dos resíduos resultantes do processo de transformação produtiva ou de consumo em Portugal, desde que de reconhecido interesse industrial e ambiental;
+vi) Outros bens de investimento não direta e imprescindivelmente associados à atividade produtiva exercida pela empresa, salvo equipamentos produtivos destinados à utilização, para fins económicos, dos resíduos resultantes do processo de transformação produtiva ou de consumo em Portugal, desde que de reconhecido interesse industrial e ambiental;
 
-b) Outras despesas necessárias à realização do projecto, designadamente:
+b) Outras despesas necessárias à realização do projeto, designadamente:
 
 i) Despesas com assistência técnica e elaboração de estudos;
 
@@ -580,31 +612,37 @@ ii) Despesas com patentes, licenças e alvarás;
 
 iii) Amortização das mais-valias potenciais ou latentes, desde que expressas na contabilidade;
 
-c) Activo fixo incorpóreo constituído por despesas com transferência de tecnologia através da aquisição de direitos de patentes, licenças, «saber-fazer» ou conhecimentos técnicos não protegidos por patente, sendo que, no caso de empresas que não sejam PME, estas despesas não podem exceder 50 % das despesas elegíveis do projecto, nos termos e condições definidos no n.º 2 do artigo 12.º do Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), de 6 de Agosto, que aprovou o regulamento geral de isenção por categoria.
+c) Ativo fixo incorpóreo constituído por despesas com transferência de tecnologia através da aquisição de direitos de patentes, licenças, «saber-fazer» ou conhecimentos técnicos não protegidos por patente, sendo que, no caso de empresas que não sejam PME, estas despesas não podem exceder 50 % das despesas elegíveis do projeto, nos termos e condições definidos no n.º 2 do artigo 12.º do Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), de 6 de agosto, que aprovou o regulamento geral de isenção por categoria.
 
-2 - Os activos previstos na alínea a) do número anterior podem ser adquiridos em regime de locação financeira, nos termos definidos no n.º 7 do artigo 13.º do Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), de 6 de Agosto, que aprovou o regulamento geral de isenção por categoria, desde que seja exercida a opção de compra prevista no respectivo contrato durante o período de vigência do contrato de concessão de benefícios fiscais.
+2 - Os ativos previstos na alínea a) do número anterior podem ser adquiridos em regime de locação financeira, nos termos definidos no n.º 7 do artigo 13.º do Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), de 6 de agosto, que aprovou o regulamento geral de isenção por categoria, desde que seja exercida a opção de compra prevista no respetivo contrato durante o período de vigência do contrato de concessão de benefícios fiscais.
 
 3 - Para efeitos dos números anteriores, excluem-se da noção de aplicações relevantes as relativas a equipamentos usados e investimento de substituição.
 
-4 - As aplicações relevantes devem ser contabilizadas como imobilizado das empresas promotoras dos investimentos, devendo as imobilizações corpóreas permanecer no activo da empresa durante o período de vigência do contrato de concessão de benefícios fiscais, excepto se a respectiva alienação for autorizada mediante despacho conjunto dos membros do Governo responsáveis pelas áreas da economia e das finanças, respeitados os limites previstos no n.º 2 do artigo 13.º do Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), de 6 de Agosto, que aprovou o regulamento geral de isenção por categoria.
+4 - As aplicações relevantes devem ser contabilizadas como imobilizado das empresas promotoras dos investimentos, devendo as imobilizações corpóreas permanecer no ativo da empresa durante o período de vigência do contrato de concessão de benefícios fiscais, exceto se a respetiva alienação for autorizada mediante despacho dos membros do Governo responsáveis pelas áreas da economia e das finanças, respeitados os limites previstos no n.º 2 do artigo 13.º do Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), de 6 de agosto, que aprovou o regulamento geral de isenção por categoria.
 
 5 - O incentivo concedido às despesas previstas na alínea b) do n.º 1 é concedido ao abrigo da regra de minimis para as empresas que não cumpram os requisitos para serem consideradas PME, nos termos da definição comunitária.
 
-6 - São elegíveis os adiantamentos para sinalização, relacionados com o projecto, até ao valor de 50 % do custo de cada aquisição, mesmo que realizados antes da data de notificação do resultado da avaliação prévia de concessão de benefícios fiscais.
+6 - São elegíveis os adiantamentos para sinalização, relacionados com o projeto, até ao valor de 50 % do custo de cada aquisição, mesmo que realizados antes da data de notificação do resultado da avaliação prévia de concessão de benefícios fiscais.
 
-7 - São elegíveis as despesas relativas aos estudos directamente relacionados com o investimento, desde que realizados há menos de um ano da data de notificação da avaliação prévia de concessão de benefícios fiscais.
+7 - São elegíveis as despesas relativas aos estudos diretamente relacionados com o investimento, desde que realizados há menos de um ano da data de notificação da avaliação prévia de concessão de benefícios fiscais.
+
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 19.º — Simplificação de procedimentos aduaneiros
 
-1 - Os promotores dos projectos de investimento produtivo beneficiam de dispensa de prestação de garantia dos direitos de importação e demais imposições eventualmente devidos pelas mercadorias não comunitárias sujeitas aos regimes de entreposto aduaneiro, aperfeiçoamento activo em sistema suspensivo e destino especial, durante o período de vigência do contrato ou até à sua resolução, nos termos previstos, respectivamente, nos artigos 9.º e 13.º
+1 - Os promotores dos projetos de investimento produtivo beneficiam de dispensa de prestação de garantia dos direitos de importação e demais imposições eventualmente devidos pelas mercadorias não comunitárias sujeitas aos regimes de entreposto aduaneiro, aperfeiçoamento ativo em sistema suspensivo e destino especial, durante o período de vigência do contrato ou até à sua resolução, nos termos previstos, respetivamente, nos artigos 9.º e 13.º
 
-2 - Os promotores que pretendam requerer o estatuto de operador económico autorizado para simplificações aduaneiras, devem formular o respectivo pedido junto da DGAIEC, o qual é apreciado e decidido no prazo de 50 dias contados a partir da respectiva apresentação.
+2 - Os promotores que pretendam requerer o estatuto de operador económico autorizado para simplificações aduaneiras, devem formular o respetivo pedido junto da AT, o qual é apreciado e decidido no prazo de 50 dias contados a partir da respetiva apresentação.
 
 3 - A contagem do prazo referido no número anterior é suspensa quando forem requeridos esclarecimentos adicionais, os quais devem ser apresentados no prazo de 30 dias, findo o qual, na ausência de resposta imputável ao promotor, se considera haver desistência do pedido.
 
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
+
 ###### Artigo 20.º — Benefícios não fiscais acessórios
 
-A atribuição dos benefícios fiscais constantes do n.º 1 do artigo 41.º do Estatuto dos Benefícios Fiscais e regulamentados neste Código implica, sempre que a entidade promotora o requeira, a celebração de um acordo prévio sobre preços de transferência, desde que o respectivo procedimento decorra nos prazos de apreciação constantes dos artigos 5.º a 14.º
+A atribuição dos benefícios fiscais constantes do n.º 1 do artigo 41.º do Estatuto dos Benefícios Fiscais e regulamentados neste Código implica, sempre que a entidade promotora o requeira, a celebração de um acordo prévio sobre preços de transferência, desde que o respetivo procedimento decorra nos prazos de apreciação constantes dos artigos 5.º a 14.º
+
+> Alterado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 21.º — Notificação à Comissão Europeia
 
@@ -612,63 +650,41 @@ Nos termos da legislação comunitária, é notificada à Comissão Europeia a c
 
 ### CAPÍTULO II — Benefícios fiscais com vista à internacionalização
 
-###### Artigo 22.º — Condições de acesso dos projectos com vista à internacionalização
+###### Artigo 22.º — Condições de acesso dos projetos com vista à internacionalização
 
 (Revogado.)
 
-> Revogado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Revogado pelo/a [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
 
-## PARTE III — Regime fiscal do investidor residente não habitual
+## PARTE III — [Revogada]
 
 ###### Artigo 23.º — Investidor com residência não habitual em território português
 
-1 - Considera-se que não têm residência habitual em território português os sujeitos passivos que, tornando-se fiscalmente residentes, nomeadamente ao abrigo do disposto na alínea b) do n.º 1 do artigo 16.º do Código do IRS, não tenham em qualquer dos cinco anos anteriores sido tributados como tal em sede de IRS.
+(Revogado.)
 
-2 - O sujeito passivo que seja considerado residente não habitual adquire o direito a ser tributado como tal, pelo período de 10 anos consecutivos, renováveis, com a inscrição dessa qualidade no registo de contribuintes da DGCI.
-
-3 - O gozo do direito a ser tributado como residente não habitual em cada ano do período referido no número anterior requer que o sujeito passivo nele seja considerado residente para efeitos de IRS.
-
-4 - O sujeito passivo que não tenha gozado do direito referido no número anterior num ou mais anos do período referido no n.º 2 pode retomar o gozo do mesmo em qualquer dos anos remanescentes daquele período, contando que nele volte a ser considerado residente para efeitos de IRS.
+> Revogado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), publicado em 2012-05-14.
 
 ###### Artigo 24.º — Taxa especial de IRS para investidor residente não habitual
 
-1 - Os rendimentos líquidos das categorias A e B auferidos em actividades de elevado valor acrescentado, com carácter científico, artístico ou técnico, a definir em portaria do membro do Governo responsável pela área das finanças, por residentes não habituais em território português, são tributados à taxa de 20 %.
+(Revogado.)
 
-2 - Os rendimentos previstos no número anterior podem ser englobados por opção dos respectivos titulares residentes em território português.
+> Revogado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), publicado em 2012-05-14.
 
 ###### Artigo 25.º — Eliminação da dupla tributação internacional
 
-1 - Aos residentes não habituais em território português que obtenham rendimentos no estrangeiro da categoria A, aplica-se o método da isenção, desde que, alternativamente:
+(Revogado.)
 
-a) Sejam tributados no outro Estado contratante, em conformidade com convenção para eliminar a dupla tributação celebrada por Portugal com esse Estado;
-
-b) Sejam tributados no outro país, território ou região, nos casos em que não exista convenção para eliminar a dupla tributação celebrada por Portugal, desde que os rendimentos, pelos critérios previstos no n.º 1 do artigo 18.º do Código do IRS, não sejam de considerar obtidos em território português.
-
-2 - Aos residentes não habituais em território português que obtenham rendimentos no estrangeiro da categoria B, auferidos em actividades de prestação de serviços de elevado valor acrescentado, com carácter científico, artístico ou técnico, a definir em portaria do membro do Governo responsável pela área das finanças, ou provenientes da propriedade intelectual ou industrial, ou ainda da prestação de informações respeitantes a uma experiência adquirida no sector industrial, comercial ou científico, bem como das categorias E, F e G, aplica-se o método da isenção desde que, alternativamente:
-
-a) Possam ser tributados no outro Estado contratante, em conformidade com convenção para eliminar a dupla tributação celebrada por Portugal com esse Estado;
-
-b) Possam ser tributados no outro país, território ou região, em conformidade com o modelo de convenção fiscal sobre o rendimento e o património da Organização para a Cooperação e Desenvolvimento Económico (OCDE), interpretado de acordo com as observações e reservas de Portugal, nos casos em que não exista convenção para eliminar a dupla tributação celebrada por Portugal, desde que aqueles não constem da lista aprovada pela Portaria n.º 150/2004, de 13 de Fevereiro, relativa a regimes de tributação privilegiada, claramente mais favoráveis, e, bem assim, desde que os rendimentos, pelos critérios previstos no artigo 18.º do Código do IRS, não sejam de considerar obtidos em território português.
-
-3 - Aos residentes não habituais em território português que obtenham, no estrangeiro, rendimentos da categoria H, na parte em que os mesmos, quando tenham origem em contribuições, não tenham gerado uma dedução para efeitos do n.º 2 do artigo 25.º do Código do IRS, aplica-se o método da isenção, desde que, alternativamente:
-
-a) Sejam tributados no outro Estado contratante, em conformidade com convenção para eliminar a dupla tributação celebrada por Portugal com esse Estado;
-
-b) Pelos critérios previstos no n.º 1 do artigo 18.º do Código do IRS, não sejam de considerar obtidos em território português.
-
-4 - Os rendimentos isentos nos termos dos n.os 1, 2 e 3 são obrigatoriamente englobados para efeitos de determinação da taxa a aplicar aos restantes rendimentos, com excepção dos previstos nos n.os 3, 4, 5 e 6 do artigo 72.º do Código do IRS.
-
-5 - Os titulares dos rendimentos isentos nos termos dos n.os 1, 2 e 3 podem optar pela aplicação do método do crédito de imposto referido no n.º 1, sendo neste caso os rendimentos obrigatoriamente englobados para efeitos da sua tributação, com excepção dos previstos nos n.os 3, 4, 5 e 6 do artigo 72.º do Código do IRS.
+> Revogado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), publicado em 2012-05-14.
 
 ###### Artigo 26.º — Regime Fiscal de Apoio ao Investimento
 
-O regime fiscal de apoio ao investimento (RFAI), que prevê um sistema específico de incentivos fiscais ao investimento em determinados sectores de atividade, respeita o Regulamento (CE) n.º 800/2008, da Comissão, de 6 de agosto, que declara certas categorias de auxílios compatíveis com o mercado comum, em aplicação dos artigos 87.º e 88.º do Tratado ('Regulamento geral de isenção por categoria').
+O regime fiscal de apoio ao investimento (RFAI), que prevê um sistema específico de incentivos fiscais ao investimento em determinados sectores de atividade, respeita o Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), da Comissão, de 6 de agosto, que declara certas categorias de auxílios compatíveis com o mercado comum, em aplicação dos artigos 87.º e 88.º do Tratado ('Regulamento geral de isenção por categoria').
 
-> Aditado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Aditado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 27.º — Âmbito de aplicação e definições
 
-1 - O RFAI é aplicável aos sujeitos passivos de IRC que exerçam, a título principal, uma atividade nos sectores agrícola, florestal, agroindustrial e turístico e ainda da indústria extrativa ou transformadora, com exceção dos sectores siderúrgico, da construção naval e das fibras sintéticas, tal como definidos no artigo 2.º do Regulamento (CE) n.º 800/2008, da Comissão, de 6 de agosto.
+1 - O RFAI é aplicável aos sujeitos passivos de IRC que exerçam, a título principal, uma atividade nos sectores agrícola, florestal, agroindustrial e turístico e ainda da indústria extrativa ou transformadora, com exceção dos sectores siderúrgico, da construção naval e das fibras sintéticas, tal como definidos no artigo 2.º do Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), da Comissão, de 6 de agosto.
 
 2 - Para efeitos do presente regime, consideram-se como relevantes os seguintes investimentos desde que afetos à exploração da empresa:
 
@@ -702,13 +718,13 @@ e) Não sejam consideradas empresas em dificuldade nos termos da comunicação d
 
 f) Efetuem investimento relevante que proporcione a criação de postos de trabalho e a sua manutenção até ao final do período de dedução constante dos n.os 2 e 3 do artigo seguinte.
 
-4 - No caso de sujeitos passivos de IRC que não se enquadrem na categoria das micro, pequenas e médias empresas, tal como definida no anexo I do Regulamento (CE) n.º 800/2008, da Comissão, de 6 de agosto, as despesas de investimento a que se refere a alínea b) do n.º 2 não podem exceder 50% dos investimentos relevantes.
+4 - No caso de sujeitos passivos de IRC que não se enquadrem na categoria das micro, pequenas e médias empresas, tal como definida no anexo I do Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), da Comissão, de 6 de agosto, as despesas de investimento a que se refere a alínea b) do n.º 2 não podem exceder 50% dos investimentos relevantes.
 
 5 - Considera-se investimento realizado o correspondente às adições, verificadas em cada período de tributação, de ativos fixos tangíveis e intangíveis e bem assim o que, tendo a natureza de ativo fixo tangível e não dizendo respeito a adiantamentos, se traduza em adições aos investimentos em curso.
 
 6 - Para efeitos do número anterior, não se consideram as adições de ativos fixos que resultem de transferências de investimentos em curso transitado de períodos anteriores, exceto se forem adiantamentos.
 
-> Aditado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Aditado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 28.º — Incentivos fiscais
 
@@ -734,7 +750,7 @@ d) Isenção de imposto do selo relativamente às aquisições de prédios que c
 
 5 - O montante global dos incentivos fiscais concedidos nos termos dos números anteriores não pode exceder o valor que resultar da aplicação dos limites máximos aplicáveis ao investimento com finalidade regional, em vigor na região na qual o investimento seja efetuado, constantes do artigo 32.º
 
-> Aditado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Aditado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 29.º — Obrigações acessórias
 
@@ -744,25 +760,39 @@ d) Isenção de imposto do selo relativamente às aquisições de prédios que c
 
 3 - A contabilidade dos sujeitos passivos de IRC beneficiários do regime previsto no presente decreto-lei deve evidenciar o imposto que deixe de ser pago em resultado da dedução a que se refere o artigo anterior, mediante menção do valor correspondente no anexo ao balanço e à demonstração de resultados relativa ao exercício em que se efetua a dedução.
 
-> Aditado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Aditado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 30.º — Incumprimento
 
 No caso de incumprimento do disposto na alínea c) do n.º 3 do artigo 27.º, é adicionado ao IRC relativo ao período de tributação em que o sujeito passivo alienou os bens objeto do investimento o imposto que deixou de ser liquidado em virtude do presente regime, acrescido dos correspondentes juros compensatórios majorados em 10 pontos percentuais.
 
-> Aditado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Aditado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 31.º — Exclusividade dos incentivos fiscais
 
 Os incentivos fiscais previstos no presente capítulo não são cumuláveis, relativamente ao mesmo investimento, com quaisquer outros benefícios fiscais da mesma natureza, automáticos ou contratuais, previstos neste ou noutros diplomas legais.
 
-> Aditado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Aditado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
+
+###### Artigo 32.º — Limites máximos aplicáveis aos auxílios ao investimento com finalidade regional
+
+1 - Em conformidade com o mapa nacional dos auxílios estatais com finalidade regional para o período até 31 de dezembro de 2013, aprovado pela Comissão Europeia em 7 de julho de 2007, os limites máximos aplicáveis aos benefícios fiscais concedidos no âmbito do RFAI são os seguintes:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11400/0333503350.pdf)
+
+2 - Os limites previstos no número anterior são majorados em 10 pontos percentuais para as médias empresas e em 20 pontos percentuais para as pequenas empresas tal como definidas na recomendação da Comissão, de 6 de maio de 2003, relativa à definição de micro, pequenas e médias empresas, publicada no Jornal Oficial da União Europeia, n.º L 124, de 20 de maio de 2003.
+
+3 - No caso de grandes projetos de investimento cujas despesas elegíveis excedam 50 milhões de euros, os limites previstos no n.º 1 estão sujeitos ao ajustamento estabelecido no n.º 67 das orientações relativas aos auxílios estatais com finalidade regional para o período de 2007-2013, publicadas no Jornal Oficial da União Europeia, n.º C 54, de dedução à coleta de IRC.
+
+4 - Os limites máximos aplicáveis aos investimentos realizados após 31 de dezembro de 2013 são fixados por portaria do membro do Governo responsável pela área das finanças, em conformidade com o mapa nacional dos auxílios estatais com finalidade regional.
+
+> Aditado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 33.º — Sistema de incentivos fiscais em investigação e desenvolvimento empresarial
 
 O SIFIDE II, a vigorar nos períodos de tributação de 2013 a 2020, processa-se nos termos dos artigos seguintes.
 
-> Aditado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Aditado pelo/a [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
 
 ###### Artigo 34.º — Conceitos
 
@@ -772,7 +802,7 @@ a) «Despesas de investigação» as realizadas pelo sujeito passivo de IRC com 
 
 b) «Despesas de desenvolvimento» as realizadas pelo sujeito passivo de IRC através da exploração de resultados de trabalhos de investigação ou de outros conhecimentos científicos ou técnicos com vista à descoberta ou melhoria substancial de matérias-primas, produtos, serviços ou processos de fabrico.
 
-> Aditado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Aditado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 35.º — Despesas elegíveis
 
@@ -808,7 +838,7 @@ j) Despesas com ações de demonstração que decorram de projetos de I&D apoiad
 
 6 - As despesas referidas na alínea b) do n.º 1, quando digam respeito a pessoal com habilitações literárias mínimas do nível 8 do Quadro Nacional de Qualificações, são consideradas em 120 % do seu quantitativo.
 
-> Aditado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Aditado pelo/a [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
 
 ###### Artigo 36.º — Âmbito da dedução
 
@@ -830,7 +860,7 @@ b) Taxa incremental - 50 % do acréscimo das despesas realizadas naquele períod
 
 7 - Aos sujeitos passivos que se reorganizem, em resultado de atos de concentração tal como definidos no artigo 73.º do Código do IRC, aplica-se o disposto no n.º 3 do artigo 15.º do Estatuto dos Benefícios Fiscais.
 
-> Aditado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Aditado pelo/a [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
 
 ###### Artigo 37.º — Condições
 
@@ -840,7 +870,7 @@ a) O seu lucro tributável não seja determinado por métodos indiretos;
 
 b) Não sejam devedores ao Estado e à segurança social de quaisquer impostos ou contribuições, ou tenham o seu pagamento devidamente assegurado.
 
-> Aditado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Aditado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 38.º — Obrigações acessórias
 
@@ -856,18 +886,18 @@ b) Não sejam devedores ao Estado e à segurança social de quaisquer impostos o
 
 6 - As entidades interessadas em recorrer ao sistema de incentivos fiscais previsto no presente capítulo são obrigatoriamente submetidas a uma auditoria tecnológica pela entidade referida no n.º 1 no final da vigência dos projetos.
 
-7 - A declaração comprovativa prevista no n.º 1 constitui uma decisão administrativa para efeitos do disposto no n.º 3 do artigo 122.º do Código do IRC.»
+7 - A declaração comprovativa prevista no n.º 1 constitui uma decisão administrativa para efeitos do disposto no n.º 3 do artigo 122.º do Código do IRC.
 
-> Aditado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Aditado pelo/a [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
 
 ###### Artigo 39.º — Obrigações contabilísticas
 
 A contabilidade dos sujeitos passivos de IRC beneficiários deste regime deve dar expressão ao imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 36.º mediante menção do valor correspondente no anexo ao balanço e à demonstração de resultados relativa ao exercício em que se efetua a dedução.
 
-> Aditado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Aditado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.
 
 ###### Artigo 40.º — Exclusividade do benefício
 
-A dedução a que se refere o artigo 36.º não é acumulável, relativamente ao mesmo investimento, com benefícios fiscais da mesma natureza, previstos neste ou noutros diplomas legais.»
+A dedução a que se refere o artigo 36.º não é acumulável, relativamente ao mesmo investimento, com benefícios fiscais da mesma natureza, previstos neste ou noutros diplomas legais.
 
-> Aditado pelo/a [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023) e [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766) e [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31.
+> Aditado pelo/a [Decreto-Lei n.º 82/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), publicado em 2013-06-17.

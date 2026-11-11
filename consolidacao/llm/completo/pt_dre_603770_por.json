@@ -1,0 +1,50 @@
+{
+  "id": "pt:dre:603770:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Revogação e repristinação de normas",
+      "texto": "1 - É revogado o artigo 9.º do [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de Agosto.\n\n2 - É revogado o artigo 14.º do [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de Agosto, com efeitos à data da entrada em vigor do mesmo.\n\n3 - É revogada a alínea t) do n.º 1 do artigo 15.º do [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de Agosto, com repristinação do [Despacho Normativo n.º 4/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2005-626225), de 20 de Janeiro.\n\n4 - São revogados o n.º 4 do artigo 117.º e o n.º 3 do artigo 193.º do Estatuto da Carreira Docente da Região Autónoma dos Açores, aprovado pelo [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de Agosto.\n\n5 - É revogado o anexo i do Estatuto da Carreira Docente da Região Autónoma dos Açores, aprovado pelo [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de Agosto.\n\n6 - Com a revogação do anexo i do Estatuto da Carreira Docente da Região Autónoma dos Açores, aprovado pelo [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de Agosto, o anexo iii passa a designar-se anexo ii.",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "1 - Sem prejuízo do disposto no n.º 2 do artigo 4.º, o presente diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir do ano escolar de 2008-2009.\n\n2 - Não obstante o disposto no número anterior, todas as normas referentes a horário de trabalho e distribuição de serviço docente produzem efeitos a partir de 1 de Setembro de 2009.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "No texto atual os artigos 3.º a 6.º do original e o anexo de republicação vêm colados no corpo da chave \"2.º\" (não têm chave própria); os artigos 4.º e 6.º alterados pelo artigo 1.º do alterador foram devolvidos com as chaves \"4.º\" e \"6.º\" e o corpo de \"2.º\" não foi mexido. Os artigos 2.º (art. 16.º do DLR 21/2007/A) e 3.º (arts. 68.º, 72.º e 85.º do Estatuto aprovado pelo DLR 21/2007/A) do alterador alteram outro diploma (e só a republicação, que não é texto normativo do original, os reproduz): ignorados. | O alterador 2 (Decreto Legislativo Regional n.º 2/2017/A) vem no pedido sem nenhum texto (a secção 'só os artigos que mencionam o original' está vazia): não há instrução dirigida ao original para aplicar, pelo que nada foi alterado; se o diploma tiver alguma norma sobre o original, ela não veio no pedido.",
+  "instrucoes": [
+    "Art. 1.º do alterador: nova redação do art. 4.º do original (só muda o n.º 2: revogação do art. 14.º do DLR 21/2007/A com efeitos à data da entrada em vigor do mesmo; n.os 1 e 3 a 6 copiados do texto atual) - aplicado como chave 4.º.",
+    "Art. 1.º do alterador: nova redação do art. 6.º do original (Entrada em vigor, agora com n.os 1 e 2) - aplicado como chave 6.º.",
+    "Art. 2.º do alterador: altera o art. 16.º do DLR 21/2007/A - outro diploma, ignorado.",
+    "Art. 3.º do alterador: altera os arts. 68.º, 72.º e 85.º do Estatuto da Carreira Docente aprovado pelo DLR 21/2007/A - outro diploma, ignorado.",
+    "Art. 4.º do alterador (republicação) e art. 5.º (entrada em vigor): sem alteração textual ao original.",
+    "Alterador 2 (DLR n.º 2/2017/A): sem texto no pedido, nenhuma instrução dirigida ao original; nenhum artigo nem título devolvido.",
+    "Artigos 4.º e 6.º, já alterados numa passagem anterior: nenhuma instrução deste alterador os toca; mantidos como estão."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1
+      ],
+      "chars": 329315,
+      "artigos": 2
+    },
+    {
+      "n": 2,
+      "alteradores": [
+        2
+      ],
+      "chars": 324707,
+      "artigos": 0
+    }
+  ],
+  "problemas": []
+}
