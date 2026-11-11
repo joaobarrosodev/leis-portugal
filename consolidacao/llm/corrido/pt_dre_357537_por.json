@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:357537:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "3.º Os processos de candidatura, que serão constituídos por impressos a fornecer pelas direcções regionais e pelo IVV e pela documentação neles exigida, são apresentados na direcção regional de agricultura competente.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: prorrogação dos prazos dos n.os 5 a 9 só para a campanha 1988-1989, sem nova redacção desses números (alteração não textual); não aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: prorrogação transitória de prazos para 1988-1989 — não textual, não aplicada.",
+    "Alterador 1, n.º 2.º: nova redacção do n.º 3 — substituída a unidade 8 com o texto do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

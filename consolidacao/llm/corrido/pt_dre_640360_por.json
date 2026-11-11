@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:640360:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é renovada pelo período de 12 anos e com efeitos a partir do dia 16 de Julho de 2007, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos na freguesia de Soajo, município de Arcos de Valdevez, com a área de 2832 ha, o que exprime uma redução da área concessionada de 163 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 152/2008): no 1.º, «é renovada com efeitos a partir do dia 16 de Julho de 2007» passa a «é renovada pelo período de 12 anos e com efeitos a partir do dia 16 de Julho de 2007»; aplicado na unidade 6 (o texto atual tem uma vírgula depois de «renovada», que a nova redação substitui)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

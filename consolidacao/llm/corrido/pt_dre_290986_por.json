@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:290986:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1192/97): o pedido não traz nenhum texto deste diploma, pelo que as alterações que faça ao anexo não se podem aplicar sem as inventar.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 1192/97): sem texto no pedido; nada aplicado.",
+    "Alterador 2 (Decreto-Lei n.º 142/2005, art. 6.º, n.º 2): só mantém em vigor os métodos da Portaria n.º 503/94; não altera o texto; nada aplicado.",
+    "Alterador 3 (Decreto-Lei n.º 189/2008, art. 6.º, n.º 2): idem, mantém em vigor os métodos; não altera o texto; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

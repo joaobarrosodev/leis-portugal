@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:474529:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1 - Os quadros II e III anexos ao [Decreto Regulamentar n.º 86/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/86-1977-279626), de 16 de Dezembro, bem como o quadro constante da [Portaria n.º 382/79](https://diariodarepublica.pt/dr/detalhe/portaria/382-1979-381529), de 31 de Julho, são substituídos pelo quadro anexo I à presente portaria.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "As alterações aos quadros anexos (criação e extinção de lugares, retificações de dotações, substituição do anexo V, supressão da coluna formação/função, alterações ao anexo XI, XIII, XIV, etc., pelos alteradores 1, 2, 3 (n.os 1.º-5.º, 7.º, 8.º), 4 a 29) e as revogações do anexo I (Decreto-Lei n.º 356/86, art. 30.º) e do anexo VII (Decreto-Lei n.º 442/86, art. 32.º) recaem sobre os anexos I a XIV, que só existem em imagem (unidade 23, 'ver documento original'); não há texto a alterar.",
+  "instrucoes": [
+    "Alterador 3 (Portaria 996/80), n.º 6.º: nova redação do n.º 1 — substituída a unidade 5, mantendo o '1 - '.",
+    "Alterador 3, n.os 1.º-5.º, 7.º e 8.º: retificações dos quadros anexos I, III, V, VIII, XI, XII e XIII — anexos só em imagem, não aplicadas.",
+    "Alteradores 1, 2, 4-8, 11-15, 17, 18, 20-24, 27, 29: criação de lugares em quadros anexos — só em imagem, não aplicadas.",
+    "Alteradores 9, 10, 16, 19, 25, 26, 28: supressão de colunas, recomposição de carreiras ou aumento/extinção de lugares em anexos — só em imagem, não aplicadas.",
+    "Alterador 30 (DL 356/86), art. 30.º: revoga o anexo I — anexo só em imagem, não aplicado ao texto.",
+    "Alterador 31 (DL 442/86), art. 32.º: revoga o anexo VII — anexo só em imagem, não aplicado ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

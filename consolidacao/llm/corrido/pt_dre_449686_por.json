@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:449686:por",
+  "substituicoes": [
+    {
+      "de": 2,
+      "ate": 2,
+      "texto": "Por ordem superior se torna público que, em 8 de Março de 2007 e em 18 de Janeiro de 2008, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros de Israel e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e o Governo do Estado de Israel para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinado em Lisboa, em 26 de Setembro de 2006.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: rectifica o aviso com nova redacção integral; só o 1.º parágrafo muda (retira 'em Jerusalém' e acrescenta vírgula após 'Lisboa') — substituída a unidade 2; unidades 3 e 4 ficam iguais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

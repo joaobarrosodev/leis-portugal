@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:351360:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "2.6 - O apoio atribuído à TAP - Transportes Aéreos Portugueses, S. A., destina-se a ressarcir a empresa pelos prejuízos suportados em 1996 nos serviços aéreos abragidos pelos convénios de serviço público assinados em 29 de Dezembro de 1995, estabelecidos em conformidade com o Regulamento CEE n.º [2408/92](http://data.europa.eu/eli/reg/1992/2408/oj?locale=pt), do Conselho, de 23 de Julho.",
+      "alterador": 1
+    },
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "6.5 - No caso específico do apoio atribuído à TAP - Transportes Aéreos Portugueses, S. A., a verba será disponibilizada pela Direcção-Geral do Tesouro de um só vez, mediante aferição prévia do montante devido, a efectuar pela Inspecção-Geral de Finanças.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redacção do n.º 2.6 — substituída a unidade 16.",
+    "Alterador 1, n.º 2: nova redacção do n.º 6.5 — substituída a unidade 27.",
+    "Alterador 1, n.º 3: retroactividade, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

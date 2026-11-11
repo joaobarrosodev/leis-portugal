@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:3225033:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 16,
+      "texto": "Representante da Autoridade Florestal Nacional - Viriato Pascoal Lopes Alves;\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade - João Mário Madeira Pargana.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: substitui o representante do ICN por João Mário Madeira Pargana (unidade 16); absorvido pela nova redação integral do 1.º dada pelo alterador 2, que fixa o mesmo nome.",
+    "Alterador 2: nova redação do 1.º; só mudam as duas últimas vogais (DRA Alentejo passa a Autoridade Florestal Nacional - Viriato Pascoal Lopes Alves; ICN passa a ICNB - João Mário Madeira Pargana): substituídas as unidades 15-16."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

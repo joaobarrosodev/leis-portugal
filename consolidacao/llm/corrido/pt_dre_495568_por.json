@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:495568:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 rectifica 'Inti do Peru - 3500' para 'Inti do Peru - 0,0035', mas esse texto está no quadro de taxas de câmbio que só vem em imagem (unidade 3); não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: rectificação da taxa do Inti do Peru no quadro em imagem — não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

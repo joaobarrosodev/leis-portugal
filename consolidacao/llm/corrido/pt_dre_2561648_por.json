@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:2561648:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "N.º 2.º da Portaria n.º 1392/2009: os CPA do seu anexo são aditados ao anexo da Portaria n.º 939/2009, mas esse anexo só vem em imagem.",
+  "instrucoes": [
+    "N.º 1.º: homologação de novos CPA, sem alteração ao texto do original.",
+    "N.º 2.º: aditamento ao anexo de CPA que só vêm em imagem: não aplicado.",
+    "N.º 3.º: produção de efeitos do alterador, sem alteração ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

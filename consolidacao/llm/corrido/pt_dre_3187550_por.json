@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:3187550:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 2 da Portaria n.º 24/2009 dá nova redação ao mapa da Portaria n.º 728/2008 (unidade 9), mas o mapa novo só vem em imagem (ver documento original). O n.º 1 apenas declara o novo montante dos encargos, sem mandar alterar o texto do original.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: fixa o novo montante global dos encargos - não é instrução de alteração textual, não aplicado.",
+    "Alterador 1, n.º 2: nova redação do mapa, só em imagem - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

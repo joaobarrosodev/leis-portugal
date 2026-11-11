@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:180993:por",
+  "substituicoes": [
+    {
+      "de": 129,
+      "ate": 129,
+      "texto": "3.º Pareceres dos serviços competentes sobre as condições económicas e sociais da povoação e sobre as obras já realizadas ou a realizar para a sua conveniente urbanização, sendo sempre obrigatória a audição da Repartição de Urbanismo da Direcção dos Serviços de Obras Públicas e Transportes.",
+      "alterador": 1
+    },
+    {
+      "de": 131,
+      "ate": 131,
+      "texto": "§ 1.º Quando as povoações abranjam, no todo ou em parte, terrenos sobre os quais tenham jurisdição os serviços de marinha, os dos portos, caminhos de ferro e transportes ou os de aeronáutica, devem ser pedidos pareceres destes e em quaisquer casos o dos serviços de obras públicas e transportes.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 132,
+      "texto": "§ 3.º No caso de os serviços de obras públicas e transportes reconhecerem a necessidade de prévia elaboração de plantas de divisão em talhões ou esboços para demarcação referidos no n.º 2.º, serão esses elementos preparados por aqueles serviços com base nas plantas ou esboços topográficos a fornecer pelos serviços geográficos e cadastrais.\n\n§ 4.º Os elementos para demarcação referidos no parágrafo anterior são exigíveis sempre que as povoações sejam pelo menos sedes de administração de circunscrição ou concelho ou outras que, não o sendo, apresentem iniciativas ou ocupação merecedoras de atenção especial em matéria urbanística.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Arts. 1.º e 2.º do Decreto 47167 alteram o Decreto 44239: ignorados.",
+    "Art. 3.º: nova redação do n.º 3.º do art. 28.º do Regulamento: substituída a unidade 129.",
+    "Art. 4.º: nova redação do § 1.º do art. 28.º: substituída a unidade 131.",
+    "Art. 5.º: aditados os §§ 3.º e 4.º ao art. 28.º: inseridos depois da unidade 132 (§ 2.º)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

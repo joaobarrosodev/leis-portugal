@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:3426349:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 (Despacho Normativo n.º 14/2007) e 2 (Despacho Normativo n.º 19/2008) vêm sem texto no pedido; não há instruções a aplicar.",
+  "instrucoes": [
+    "Alterador 1: sem texto; nada aplicado.",
+    "Alterador 2: sem texto; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:460827:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os 14 alteradores (Portarias 44/82, 1233/82, 563/83, 688/83, 371/85, 491/87, 150/88, 392/91, 413/91 (x2), 10/92, 422/92, 458/93 e 9/94) alteram, aumentam, reestruturam ou substituem apenas o quadro de pessoal do Hospital Distrital de Beja anexo ao original (unidade 9), e os quadros novos só vêm em imagem ('ver documento original'); não há nova redação textual dos n.os 1.º e 2.º nem da Nota (unidade 10). A Portaria 9/94 substitui o quadro por inteiro, mas também só em imagem, e a departamentalização do seu n.º 2.º é norma própria, não texto do original.",
+  "instrucoes": [
+    "Alteradores 1 a 7 (44/82, 1233/82, 563/83, 688/83, 371/85, 491/87, 150/88): alterações ao quadro de pessoal anexo, só em imagem; não aplicado.",
+    "Alterador 8 (392/91): altera os quadros anexos (cria lugares de chefe de repartição/secção) só em imagem; o anexo II é norma própria; não aplicado.",
+    "Alteradores 9 e 10 (413/91): substituem o quadro de pessoal médico, só em imagem; não aplicado.",
+    "Alterador 11 (10/92): reestrutura o quadro (enfermagem), só em imagem; não aplicado.",
+    "Alterador 12 (422/92): substitui o quadro de pessoal médico aprovado pela 413/91, só em imagem; não aplicado.",
+    "Alterador 13 (458/93): aumenta o quadro, só em imagem; não aplicado.",
+    "Alterador 14 (9/94): substitui o quadro anexo pelo seu quadro, só em imagem; a departamentalização do seu n.º 2.º não é texto do original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

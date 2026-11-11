@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:538837:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 234/2016, art. 1.º: o plano de estudos (anexo) passa a ter a redação do anexo da portaria alteradora, mas os quadros n.os 1 e 2 desse anexo só vêm em imagem ('ver documento original'); não aplicado.",
+  "instrucoes": [
+    "Art. 1.º: substituição do plano de estudos do anexo; não aplicada por o novo anexo só vir em imagem.",
+    "Arts. 2.º (transição) e 3.º (aplicação) não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

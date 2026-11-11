@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:377295:por",
+  "substituicoes": [
+    {
+      "de": 2978,
+      "ate": 2979,
+      "texto": "Escrivão de direito ... 1\n\nEscrivão-adjunto ... 1",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 222/90): os lugares acrescentados ao quadro do Tribunal de Família do Porto constam de mapa anexo só em imagem. Alterador 3 (Portaria n.º 938/90): o quadro do Tribunal de Instrução Criminal de Vila Nova de Gaia é o mantido pelo n.º 3.º (mapas do Decreto-Lei n.º 385/82), não existe no texto atual. Alteradores 4 e 5 (Portaria n.º 1177/93) vêm sem texto.",
+  "instrucoes": [
+    "Alterador 1: aumenta o quadro do Tribunal de Família do Porto com lugares de mapa anexo em imagem; não aplicado.",
+    "Alterador 2: reduz um lugar de escrivão de direito e um de escrivão-adjunto na Secretaria-geral do tribunal de trabalho do Porto; unidades 2978 e 2979 passam de 2 para 1.",
+    "Alterador 3: extingue lugares no TIC de Vila Nova de Gaia (quadro do n.º 3.º, fora do texto); não aplicado.",
+    "Alteradores 4 e 5: sem texto; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

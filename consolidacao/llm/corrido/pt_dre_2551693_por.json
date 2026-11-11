@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:2551693:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 16,
+      "texto": "Orlando Augusto Morais.\n\nJoão da Costa Teixeira.\n\nRepresentantes dos agricultores:\n\nPaulo Augusto Breia da Fonseca Calvão.\n\nFrancisco João Carvalho da Silva.\n\nRepresentante da Autoridade Florestal Nacional - Maria João Martins Gonçalves Pinheiro.\n\nAutarca de freguesia - António Fernandes Chaves.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único da Portaria n.º 1155/2009: nova redação do n.º 1.º (composição do conselho); substituídas as unidades 8 a 16, ficando iguais a frase inicial e 'Representantes dos caçadores:'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

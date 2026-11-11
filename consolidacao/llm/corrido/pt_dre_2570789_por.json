@@ -1,0 +1,51 @@
+{
+  "id": "pt:dre:2570789:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 5,
+      "texto": "2 - Os valores devidos pela concessão de autorização especial de caça a que se refere o n.º 6 do artigo 23.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de agosto, alterado pelos Decretos-Leis n.os [201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de novembro, [159/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2008-455127), de 8 de agosto, [214/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), de 10 de novembro, [9/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2009-396926), de 9 de janeiro, e [2/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2011-485605), de 6 de janeiro, são os seguintes:\n\na) Veado:\n\ni) de aproximação (troféu): (euro) 500;\n\nii) de aproximação (seletiva): (euro) 250.",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "c) Javali de espera: (euro) 150.\n\nd) Coelho-bravo, lebre, raposa, perdiz vermelha, codorniz, pombo-torcaz, rola-comum e tordos, de salto:",
+      "alterador": 1
+    },
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "e) Raposa, de batida:",
+      "alterador": 1
+    },
+    {
+      "de": 18,
+      "ate": 20,
+      "texto": "ii) Tipo B: (euro) 15\n\niii) Tipo C: (euro) 20;\n\niv) Tipo D: (euro) 25.",
+      "alterador": 1
+    },
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "4 - Os valores a que se refere o n.º 9 do n.º 6.º da [Portaria n.º 1119/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1119-2001-611687), de 21 de setembro, para as situações relativas à alínea a) do n.º 2 do presente despacho, são os seguintes:",
+      "alterador": 1
+    },
+    {
+      "de": 24,
+      "ate": 24,
+      "texto": "b) Por cada exemplar ferido e não cobrado: (euro) 450;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "N.º 1 do Despacho normativo n.º 11/2014, nova redação do n.º 2: corpo (unidade 4) e alínea a) Veado com i) e ii) (unidade 5) substituídos; b) mantida ((...)); nova c) Javali de espera e antiga c) passa a d) com nova redação (unidade 11); antiga d) passa a e) (unidade 16); e) ii) a iv) com novos valores (unidades 18-20).",
+    "N.º 1, nova redação do n.º 4: corpo copiado do alterador (unidade 22) e alínea b) com 450 euros (unidade 24); restantes alíneas mantidas ((...)).",
+    "N.º 2: entrada em vigor do alterador, sem alteração ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:411788:por",
+  "substituicoes": [
+    {
+      "de": 22,
+      "ate": 26,
+      "texto": "2 - (Revogado.)\n\n## ANEXO III — (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo 20.º: revoga o n.º 2 do anexo II (unidades 22-23) e o anexo III (unidades 24-26) — substituídos por '2 - (Revogado.)' e '## ANEXO III — (Revogado.)'.",
+    "Alterador 1, artigo 19.º: qualifica a portaria como medida de execução, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 22-26: parágrafo que não está no alterador nem no original: ## ANEXO III — (Revogado.)"
+  ]
+}

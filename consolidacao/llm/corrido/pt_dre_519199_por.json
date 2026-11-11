@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:519199:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "Portugal denunciou esta Convenção em 5 de Agosto de 1998, tendo a denúncia produzido efeitos em 6 de Fevereiro de 1999.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Aviso 209/2007: retifica os dois parágrafos sobre Portugal; o primeiro (unidade 3) fica igual, o segundo (unidade 4) passa a 'em 5 de Agosto de 1998 ... em 6 de Fevereiro de 1999'; substituída só a unidade 4."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

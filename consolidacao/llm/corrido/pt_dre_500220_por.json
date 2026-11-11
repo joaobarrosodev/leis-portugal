@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:500220:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 substitui o texto do n.º 3 da notificação do Panamá (designação das autoridades) por um texto que só vem em imagem (ver documento original); não se pode copiar o texto novo.",
+  "instrucoes": [
+    "Alterador 1: substituição do n.º 3 da notificação por texto só em imagem — não aplicada; o parágrafo sobre Portugal é informativo, não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

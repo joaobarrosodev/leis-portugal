@@ -1,0 +1,320 @@
+{
+  "id": "pt:dre:628297:por",
+  "substituicoes": [
+    {
+      "de": 78,
+      "ate": 78,
+      "texto": "Art. 11.º Qualquer dos cônjuges pode praticar todos os actos relativos à situação tributária do casal, incluindo os relativos aos bens e interesses do outro.",
+      "alterador": 5
+    },
+    {
+      "de": 93,
+      "ate": 93,
+      "texto": "§ único. As pessoas referidas neste artigo poderão, ainda depois de finda a sua gerência, apresentar, em nome da sociedade, reclamação ou impugnação nos termos e com os fundamentos previstos neste Código relativamente às dívidas cuja responsabilidade lhes é atribuída, contando-se o prazo a partir do dia seguinte ao da sua citação.",
+      "alterador": 5
+    },
+    {
+      "de": 130,
+      "ate": 130,
+      "texto": "a) De todos os conhecimentos que ficarem por cobrar, o tesoureiro extrairá certidões de modelo a aprovar pelo Ministro das Finanças, com menção do último dia da cobrança voluntária, e entregá-las-á ao chefe de repartição de finanças, dentro dos vinte dias seguintes, acompanhadas de uma relação em duplicado, datada e assinada pelo mesmo tesoureiro e autenticada com o selo branco;",
+      "alterador": 5
+    },
+    {
+      "de": 132,
+      "ate": 132,
+      "texto": "c) No prazo de quarenta e oito horas, o chefe da repartição de finanças verificará a conformidade das relações com as certidões de relaxe e destas com os conhecimentos existentes na tesouraria. Quando reconheça a omissão de qualquer conhecimento ou outra deficiência, deverá declará-lo na relação e considerar cobrada a importância respectiva no caso de sonegação ou extravio dos títulos de cobrança.",
+      "alterador": 5
+    },
+    {
+      "de": 133,
+      "ate": 133,
+      "texto": "d) Os chefes das repartições de finanças dos bairros, das Repartições Centrais de Finanças dos Concelhos de Lisboa e Porto e da Repartição Central do Imposto Complementar de Lisboa deverão remeter, mediante termo de remessa, aos respectivos tribunais de 1.ª instância das contribuições e impostos, dentro dos oito dias imediatos ao seu recebimento, as relações e as certidões de relaxe que lhes tenham sido entregues pelos tesoureiros;\n\ne) A enumeração das relações será feita anualmente e a das certidões será feita pela ordem da relação.",
+      "alterador": 3
+    },
+    {
+      "de": 134,
+      "ate": 134,
+      "texto": "Art. 30.º Os chefes das repartições de finanças, antes de mandarem instaurar os competentes processos de execução fiscal ou, em Lisboa e Porto, antes de enviarem aos tribunais de 1.ª instância as certidões de relaxe, deverão anotar no verso das certidões as seguintes indicações, sempre que possível:",
+      "alterador": 3
+    },
+    {
+      "de": 144,
+      "ate": 144,
+      "texto": "Art. 31.º Durante o período das operações do relaxe, pode o contribuinte efectuar o pagamento da dívida, acrescida dos juros de mora e de uma taxa de 3% sobre o valor da dívida, que constituirá receita do Estado, não podendo, porém, o produto dessa percentagem ser inferior a 30$00 nem superior a 30000$00, o que tudo será liquidado pelo tesoureiro no próprio conhecimento.",
+      "alterador": 5
+    },
+    {
+      "de": 147,
+      "ate": 147,
+      "texto": "Art. 32.º Nos casos de venda de bens ou penhora de dinheiro em execução que não siga os termos da execução fiscal e seja qual for o tribunal, será citado pessoalmente o chefe da respartição de finanças do concelho ou bairro do domicílio da pessoa a quem pertencem os bens e os de todos os concelhos ou bairros onde forem situados os imobiliários ou qualquer estabelecimento comercial ou industrial para, no prazo de 10 dias a contar da citação, apresentarem certidão de quaisquer dívidas que possam ser reclamadas nos termos do artigo 865.º do Código de Processo Civil.\n\nNos concelhos de Lisboa e Porto são ainda citados, para os mesmos efeitos, os chefes das secretarias dos juízos que compõem os respectivos tribunais de 1.ª instância das contribuições e impostos.",
+      "alterador": 6
+    },
+    {
+      "de": 171,
+      "ate": 171,
+      "texto": "d) Instaurar os processos de execução fiscal e realizar os actos a eles respeitantes, salvo o constante do § 1.º do artigo 152.º e o que se dispõe neste Código quanto à oposição, à verificação e graduação de créditos, à extinção de execução, à anulação da venda e ao incidente de falsidade;",
+      "alterador": 3
+    },
+    {
+      "de": 174,
+      "ate": 174,
+      "texto": "g) Cumprir deprecadas, excepto as repartições de finanças dos bairros de Lisboa e Porto.",
+      "alterador": 3
+    },
+    {
+      "de": 222,
+      "ate": 222,
+      "texto": "Art. 57.º Os processos judiciais, pendentes ou arquivados, podem ser examinados, na respectiva secretaria, pelas partes ou seus representantes.\n\n§ único. Os mandatários judiciais constituídos pelas partes podem requerer que os processos lhes sejam confiados para exame fora da secretaria desde que não haja inconveniente para o seu andamento, observando-se as normas de processo civil, ou de processo penal quanto ao processo de transgressão, com as devidas adaptações.",
+      "alterador": 5
+    },
+    {
+      "de": 242,
+      "ate": 242,
+      "texto": "§ único. As disposições deste Código relativas à citação são aplicáveis às notificações para contestar em processo ordinário ou sumário de transgressão.",
+      "alterador": 5
+    },
+    {
+      "de": 261,
+      "ate": 264,
+      "texto": "Art. 75.º As notificações às partes ou intervenientes directos em processos pendentes são feitas na pessoa dos seus mandatários com escritório no continente ou na ilha onde o tribunal for situado, ou que tenham escolhido domicílio na sede do tribunal para as receber.\n\n§ 1.º Quando a notificação tenha em vista a prática pela parte de acto pessoal, além da notificação ao mandatário, será enviado um aviso à própria parte.\n\n§ 2.º Se a parte não tiver constituído mandatário, mas houver escolhido domicílio na sede do tribunal ou da repartição de finanças, ou residir na área do mesmo tribunal ou da repartição de finanças, ser-lhe-ão feitas as notificações.\n\n§ 3.º As notificações serão feitas por carta ou aviso registados dirigidos para o escritório ou domicílio dos notificados, podendo estes ser notificados pelo escrivão quando os encontre no edifício do tribunal ou da repartição de finanças.\n\n§ 4.º Excluídas as hipóteses que ficam revistas, não se efectuarão notificações e as decisões consideram-se publicadas logo que o processo dê entrada na secretaria ou, quando se trate de despacho lançado em requerimento avulso, logo que o despacho aí dê entrada, enviando-se, contudo, ao interessado um aviso a dar-lhe conhecimento da decisão e data do trânsito em julgado.\n\n§ 5.º Nos processos que correm no tribunal de 2.ª instância observar-se-ão as normas deste artigo.",
+      "alterador": 5
+    },
+    {
+      "de": 273,
+      "ate": 273,
+      "texto": "g) A falta de notificação do despacho para contestar em processo ordinário ou sumário de transgressão;",
+      "alterador": 3
+    },
+    {
+      "de": 297,
+      "ate": 297,
+      "texto": "Art. 84.º Da resolução definitiva da reclamação ordinária cabe impugnação judicial, com os fundamentos e termos deste Código, no prazo de oito dias a contar da sua notificação.",
+      "alterador": 3
+    },
+    {
+      "de": 316,
+      "ate": 316,
+      "texto": "§ único. O disposto neste artigo não prejudica os prazos especiais fixados neste Código e noutras leis.",
+      "alterador": 3
+    },
+    {
+      "de": 393,
+      "ate": 393,
+      "texto": "§ único. A reincidência só constitui circunstância agravante nos casos em que a lei expressamente o determine.\n\nHá reincidência quando o agente, tendo sido condenado por sentença com trânsito em julgado ou havendo efectuado o pagamento espontâneo ou voluntário, pratica infracção da mesma natureza antes de terem decorrido cinco anos sobre aquela condenação ou aquele pagamento, ainda que a pena da primeira infracção tenha sido prescrita ou amnistiada.",
+      "alterador": 5
+    },
+    {
+      "de": 401,
+      "ate": 401,
+      "texto": "§ 1.º O prazo de prescrição do procedimento judicial é de cinco anos e o das penas é de dez anos.",
+      "alterador": 3
+    },
+    {
+      "de": 407,
+      "ate": 407,
+      "texto": "Art. 118.º Tratando-se da participação ou denúncia, o pagamento voluntário só poderá ser efectuado após a notificação da acusação.",
+      "alterador": 5
+    },
+    {
+      "de": 408,
+      "ate": 408,
+      "texto": "",
+      "alterador": 5
+    },
+    {
+      "de": 419,
+      "ate": 419,
+      "texto": "Art. 127.º Deduzida a acusação, o juiz ordenará, logo, a notificação do arguido para, no prazo de trinta dias, contestar ou, no caso previsto no artigo 118.º, efectuar o pagamento voluntário ou contestar, entregando-se-lhe, no mesmo acto, cópia da acusação.",
+      "alterador": 5
+    },
+    {
+      "de": 420,
+      "ate": 420,
+      "texto": "",
+      "alterador": 2
+    },
+    {
+      "de": 421,
+      "ate": 421,
+      "texto": "Art. 128.º Com a contestação, o arguido poderá oferecer documentos, arrolar testemunhas e requerer outras provas.",
+      "alterador": 2
+    },
+    {
+      "de": 422,
+      "ate": 424,
+      "texto": "Art. 129.º - (Revogado.)\n\nArt. 130.º - (Revogado.)\n\nArt. 131.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 430,
+      "ate": 431,
+      "texto": "Art. 135.º Concluídas as diligências de produção da prova, o juiz, no prazo de dez dias, lavrará sentença.\n\n§ único. Antes de proferir sentença, o juiz, caso entenda necessário, pode ordenar quaisquer diligências de instrução, com intervenção das partes.",
+      "alterador": 2
+    },
+    {
+      "de": 434,
+      "ate": 434,
+      "texto": "Art. 137.º Se o processo de transgressão tiver por base um auto de notícia e o limite máximo da multa cominada para a infracção não exceder 40000$00, aplicar-se-á a forma sumária.",
+      "alterador": 4
+    },
+    {
+      "de": 436,
+      "ate": 436,
+      "texto": "Art. 139.º O auto de notícia, ainda que sem diligências complementares, equivalerá, para todos os efeitos, a acusação, considerando-se a posição nela assumida como sendo a do representante do Ministério Público.",
+      "alterador": 5
+    },
+    {
+      "de": 437,
+      "ate": 437,
+      "texto": "Art. 140.º O prazo para o arguido contestar ou oferecer documentos, arrolar testemunhas e requerer outras provas corre simultaneamente com o prazo para o pagamento voluntário a que se refere o artigo 117.º\n\n§ único. Só depois de realizadas diligências complementares, se a elas houver lugar, se notificará o arguido para, dentro do prazo de trinta dias, efectuar o pagamento voluntário ou contestar.",
+      "alterador": 5
+    },
+    {
+      "de": 465,
+      "ate": 465,
+      "texto": "b) Tratando-se de multa fiscal e de custas, será competente a repartição de finanças a que pertencer o respectivo processo, salvo se este tiver sido julgado pelos Tribunais de 1.ª Instância de Lisboa e do Porto, caso em que se seguirão os termos do § 3.º do artigo 172.º",
+      "alterador": 3
+    },
+    {
+      "de": 466,
+      "ate": 466,
+      "texto": "§ 1.º As execuções contra os devedores domiciliados nos concelhos de Lisboa e Porto correrão pelos tribunais de 1.ª instância com sede nessas cidades.",
+      "alterador": 3
+    },
+    {
+      "de": 493,
+      "ate": 493,
+      "texto": "Art. 163.º Penhorados todos os bens do executado, ou os bastantes para garantir a dívida exequenda e o acrescido, ou assegurado o seu pagamento por garantia bancária ou outro meio em que fiquem salvaguardados os interesses do exequente, poderá o juiz autorizar o pagamento em prestações em número não superior a dez, e por um período não superior a cinco anos, quando se verifiquem as seguintes condições:",
+      "alterador": 5
+    },
+    {
+      "de": 497,
+      "ate": 498,
+      "texto": "§ 1.º A importância a dividir em prestações não compreende os juros de mora, que continuam a vencer-se em relação à dívida exequenda incluída em cada prestação e até ao integral pagamento, os quais serão incluídos na guia passada pelo escrivão para pagamento conjuntamente com a prestação.\n\n§ 2.º Não sendo paga uma prestação, a execução prosseguirá quanto a todas as prestações em dívida.\n\n§ 3.º O disposto neste artigo não poderá aplicar-se em qualquer caso de pagamento por sub-rogação.",
+      "alterador": 5
+    },
+    {
+      "de": 504,
+      "ate": 507,
+      "texto": "Art. 166.º Correndo contra o mesmo executado várias execuções, nos termos deste Código, serão apensadas, oficiosamente ou a requerimento dele, quando se encontrarem na mesma fase.\n\nA apensação será feita à mais adiantada dessas execuções.\n\n§ único. A apensação não se fará quando possa prejudicar o cumprimento de formalidades especiais.\n\nQuando o executado deduzir oposição restrita a qualquer das execuções apensadas, deverá proceder-se à sua desapensação, se daí resultar prejuízo para o andamento das restantes.",
+      "alterador": 2
+    },
+    {
+      "de": 642,
+      "ate": 646,
+      "texto": "Art. 209.º À responsabilidade dos depositários dos bens penhorados aplicar-se-ão as seguintes regras:\n\na) Para os efeitos do artigo 854.º do Código de Processo Civil, o depositário será executado pela importância respectiva, no próprio processo, sem prejuízo do procedimento criminal;\n\nb) O depositário poderá ser oficiosamente demovido pelo juiz;\n\nc) Na prestação de contas o juiz nomeará um perito, se for necessário, e decidirá segundo o seu prudente arbítrio.",
+      "alterador": 5
+    },
+    {
+      "de": 670,
+      "ate": 670,
+      "texto": "Art. 217.º Nas execuções por dívidas até 200000$00 não se publicarão anúncios para a praça.",
+      "alterador": 6
+    },
+    {
+      "de": 677,
+      "ate": 677,
+      "texto": "d) O escrivão passará guia, em papel comum, para o arrematante depositar logo todo o preço, ou a fracção que oferecer, não inferior a um terço, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do juiz da execução, e não sendo feito todo o depósito, a parte restante será depositada no prazo de 8 dias, sob pena das sanções previstas na lei de processo civil;",
+      "alterador": 6
+    },
+    {
+      "de": 678,
+      "ate": 681,
+      "texto": "e) Efectuado o depósito, deverá juntar-se ao processo um duplicado da guia;\n\nf) O arrematante, ainda que demonstre a sua qualidade de credor, nunca será dispensado do depósito do preço;\n\ng) O Estado e a Caixa Geral de Depósitos não estão sujeitos à obrigação do depósito do preço.",
+      "alterador": 5
+    },
+    {
+      "de": 687,
+      "ate": 687,
+      "texto": "Art. 222.º Cabe aos juízes dos Tribunais de 1.ª Instância das Contribuições e Impostos de Lisboa e Porto ou ao chefe da repartição de finanças onde se tiver efectuado a arrematação solicitar ao agente do Ministério Público junto do competente tribunal comum que requeira a posse judicial do prédio arrematado para a Fazenda Nacional, quando for caso disso e se mostre inadequada a intervenção da autoridade administrativa ou policial.",
+      "alterador": 3
+    },
+    {
+      "de": 707,
+      "ate": 707,
+      "texto": "§ 2.º Se o produto da venda ou a quantia penhorada for inferior a 300000$00, publicar-se-á um único anúncio, e se for inferior a 200000$00, não haverá anúncio algum.",
+      "alterador": 6
+    },
+    {
+      "de": 745,
+      "ate": 746,
+      "texto": "Art. 243.º Se o pagamento tiver sido requerido no tribunal ou na repartição de finanças deprecada, observar-se-á o seguinte:\n\na) Na guia discriminar-se-á a importância que couber ao tribunal de 1.ª instância ou ao juízo deprecante e, realizado o pagamento, devolver-se-á a carta precatória;",
+      "alterador": 3
+    },
+    {
+      "de": 747,
+      "ate": 749,
+      "texto": "b) O tesoureiro do juízo deprecado, no prazo de 24 horas, remeterá ao do tribunal ou ao do juízo deprecante as importâncias respectivas, por cheque sacado sobre a conta bancária a que se refere o [Decreto-Lei n.º 475/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1977-280685), de 14 de Novembro, com a redacção do [Decreto-Lei n.º 158/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1980-474512), de 24 de Maio;\n\nc) A importância a que se refere a alínea anterior será incluída na guia modelo n.º 7-H;\n\nd) No juízo deprecante, recebida a carta precatória, deverá passar-se, no prazo de 48 horas, guia, em nome do tesoureiro, para pagamento, que este efectuará, em igual prazo, com o produto do cheque a que se refere a alínea b) do presente artigo.",
+      "alterador": 7
+    },
+    {
+      "de": 799,
+      "ate": 799,
+      "texto": "Se o processo for de transgressão, o recurso só terá seguimento se o arguido prestar caução por qualquer das formas indicadas no § 1.º daquele artigo, salvo se demonstrar no processo que não a pode prestar, no todo ou em parte, devido a insuficiência de meios económicos.",
+      "alterador": 5
+    },
+    {
+      "de": 802,
+      "ate": 804,
+      "texto": "Art. 264.º Os despachos proferidos no processo de transgressão só poderão ser impugnados no recurso da decisão final.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 199,
+      "texto": "§ único. A contestação ou o requerimento de interposição do recurso para a 2.ª instância podem ser apresentados dentro do respectivo prazo, na repartição de finanças onde o processo tiver sido instaurado.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 291,
+      "texto": "§ único. Sem prejuízo do recurso hierárquico quando admitido neste código, a resolução do chefe da repartição de finanças só se tornará definitiva depois de confirmada pelo respectivo director de finanças, que poderá também ordenar a modificação ou revogação do decidido.\n\nPara este efeito, os processos resolvidos em cada mês deverão ser remetidos à respectiva direcção de finanças até ao dia 10 do mês seguinte.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 311,
+      "texto": "§ único. Havendo recurso hierárquico para o director de finanças, é aplicável à sua decisão o disposto no § único do artigo 80.º Para esse efeito, será exercida pelo director-geral das Contribuições e Impostos a competência atribuída naquele preceito aos directores de finanças.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 401,
+      "texto": "§ 2.º Interrompe a prescrição a instauração do processo de transgressão, bem como qualquer acto praticado no processo que já tenha sido notificado ao arguido.",
+      "alterador": 5
+    },
+    {
+      "depois_de": 498,
+      "texto": "§ 4.º O disposto neste artigo não poderá ainda aplicar-se quanto à dívida exequenda e ao acrescido na parte respeitante ao imposto sobre o valor acrescentado.",
+      "alterador": 9
+    },
+    {
+      "depois_de": 532,
+      "texto": "§ 3.º As execuções referidas na última parte da alínea b) do artigo 152.º correm por apenso aos respectivos processos.\n\nDecorrido o prazo de cobrança voluntária de todas as quantias liquidadas, instaurar-se-á imediatamente a execução, procedendo-se logo à penhora de bens, independentemente de citação.\n\nFeita a penhora, o executado será logo citado para deduzir, querendo, oposição.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "Alterador 8 (Decreto-Lei n.º 177/86, art. 52.º) dá nova redacção aos artigos 167.º e 193.º do Código, mas o texto da nova redacção não vem no pedido: não aplicado. Alterador 10 (Decreto-Lei n.º 275-A/93) só tem revogação tácita genérica (art. 51.º), sem alteração textual ao Código.",
+  "instrucoes": [
+    "Alt. 1, art. 11.º: aditado § único ao art. 80.º (inserção após 291) e ao art. 88.º (inserção após 311).",
+    "Alt. 2, art. 5.º: § único aditado ao art. 49.º (inserção após 199); § único do art. 66.º (242) substituído, depois novamente por alt. 5 (texto final de alt. 5); art. 127.º corpo novo e § único suprimido (420 = \"\"; corpo final de alt. 5); art. 128.º (421); art. 135.º e § único (430-431); art. 166.º reescrito (504-507); art. 264.º reescrito (802-804).",
+    "Alt. 2, art. 7.º: revogados os arts. 129.º, 130.º e 131.º (422-424 com \"(Revogado.)\").",
+    "Alt. 2, arts. 1.º-4.º e 6.º: normas autónomas, não alteram o texto do Código.",
+    "Alt. 3, art. 1.º: nova alínea b) do art. 152.º (465); art. 2.º: aditado § 3.º ao art. 172.º (inserção após 532).",
+    "Alt. 3, art. 12.º: art. 29.º d) nova e e) aditada (133); art. 30.º corpo (134); art. 40.º d) e g) (171, 174); art. 76.º g) (273); art. 84.º (297); art. 89.º § único (316); art. 115.º § único passa a § 1.º (401) e § 2.º aditado (texto final de alt. 5, inserção após 401); art. 152.º § 1.º (466); art. 222.º (687); art. 243.º corpo e a) (745-746), b) depois substituída por alt. 7.",
+    "Alt. 3, art. 3.º e alt. 5, art. 3.º e alt. 6, art. 2.º alteram o Decreto-Lei n.º 48699, não o original: ignorados.",
+    "Alt. 4: limite do art. 137.º elevado para 40000$00 (434).",
+    "Alt. 5, art. 1.º: arts. 11.º (78), 16.º § único (93), 29.º a) e c) (130, 132), 31.º (144), 57.º (222), 66.º § único (242), 75.º (261-264), 112.º § único (393), 115.º § 2.º, 118.º (407), 127.º (419), 139.º (436), 140.º (437), 163.º corpo e §§ 1.º-3.º (493, 497-498), 209.º (642-646), 219.º d) a g) (alínea d) antiga suprimida; 678-681 com e)-g); d) final de alt. 6 em 677), 262.º segundo parágrafo (799).",
+    "Alt. 5, art. 2.º: eliminado o art. 119.º (408 = \"\").",
+    "Alt. 6: art. 32.º (147, com parágrafo novo; § único mantém-se); art. 217.º (670); art. 219.º d) (677); art. 229.º § 2.º (707).",
+    "Alt. 7: art. 243.º b), c) e d) (747-749); corpo igual ao de alt. 3.",
+    "Alt. 8: nova redacção dos arts. 167.º e 193.º sem texto no pedido: não aplicada.",
+    "Alt. 9: aditado § 4.º ao art. 163.º (inserção após 498).",
+    "Alt. 10: sem instrução textual dirigida ao Código."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 422-424: parágrafo que não está no alterador nem no original: Art. 129.º - (Revogado.)",
+    "substituição 422-424: parágrafo que não está no alterador nem no original: Art. 130.º - (Revogado.)",
+    "substituição 422-424: parágrafo que não está no alterador nem no original: Art. 131.º - (Revogado.)"
+  ]
+}

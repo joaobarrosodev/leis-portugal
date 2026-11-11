@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:544838:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (n.º 1.º): altera o total de horas da disciplina de Desenho de Comunicação (220 para 200) no plano de estudos anexo, que só existe em imagem; não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1: alteração do total de horas no plano de estudos anexo (só em imagem) — não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

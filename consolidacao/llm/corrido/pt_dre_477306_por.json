@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:477306:por",
+  "substituicoes": [
+    {
+      "de": 123,
+      "ate": 123,
+      "texto": "Art. 7.º A Inspecção Administrativa assegura a inspecção dos Serviços Administrativos do Comando-Geral, dos diferentes comandos e dos Serviços Sociais.",
+      "alterador": 2
+    },
+    {
+      "de": 126,
+      "ate": 128,
+      "texto": "Art. 9.º - 1. Incumbem às repartições do Comando-Geral as funções seguintes:\n\nÀ 1.ª Repartição - dar andamento aos assuntos respeitantes ao pessoal, aos Serviços de Justiça e assegurar o movimento e escrituração dos solípedes, bovídeos e canídeos pertencentes à corporação. A 1.ª Repartição tem duas secções, às quais incumbe:\n\na) 1.ª Secção (Administração do pessoal e serviços) - todos os assuntos relativos ao movimento e escrituração do pessoal, informações e ficheiro geral do mesmo;",
+      "alterador": 2
+    },
+    {
+      "de": 142,
+      "ate": 148,
+      "texto": "Art. 10.º O Comando-Geral tem cinco serviços, aos quais incumbe:\n\n1.º Serviços de material (SMAG) - a superintendência e responsabilidade da recepção, estudo, manutenção, distribuição e movimento de carga do material de guerra e de aquartelamento, e bem assim, como actividade complementar, a superintendência nas oficinas que não estejam a cargo de outros serviços;\n\n2.º Serviço auto (SA) - a superintendência e responsabilidade da recepção, manutenção, distribuição e movimento de carga do material rolante e flutuante, a preparação dos respectivos condutores, mecânicos e ajudantes de mecânico para o serviço da corporação e ainda as oficinas de manutenção daquele material;\n\n3.º Serviço de transmissões e obras (STO) - o estabelecimento, exploração e conservação da rede telefónica e telegráfica; os assuntos relativos à conservação de quartéis e cadastro de imóveis directamente afectos à Polícia de Segurança Pública; o comando, produção, distribuição e fiscalização dos sistemas de cifra, bem como as oficinas de manutenção do material de transmissões e electrónico;\n\n4.º Serviços de saúde (SS) - a assistência ao pessoal e famílias, a preparação de ajudantes de enfermeiro e primeiros socorristas para o serviço da Polícia de Segurança Pública e ainda a assistência aos solípedes, bovídeos e canídeos da corporação;\n\n5.º Serviços de justiça (SJ) - todos os assuntos relativos à justiça e disciplina.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 454,
+      "texto": "§ 3.º Às pessoas que, devidamente notificadas, não comparecerem a qualquer diligência relativa a processo crime será aplicável, com a devida adaptação, o disposto no artigo 91.º do Código de Processo Penal, salvo tratando-se de notificação para pagamento de multa por contravenção, em que unicamente se remeterá o processo à entidade competente para os ulteriores termos.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 20.º: aditado § 3.º ao art. 120.º do Estatuto; inserido depois da unidade 454.",
+    "Alterador 2, art. 3.º: nova redação do art. 7.º do Estatuto; unidade 123 substituída.",
+    "Alterador 2, art. 3.º: nova redação do art. 9.º, corpo, 1.º e alínea a) (b) mantém-se por '...'); unidades 126-128 substituídas.",
+    "Alterador 2, art. 3.º: nova redação do art. 10.º (cinco serviços; siglas novas, resto de cada número mantido por '...'; serviço social eliminado e justiça passa a 5.º); unidades 142-148 substituídas.",
+    "Alterador 2, art. 2.º (Serviços Sociais como instituto) e restantes artigos de ambos os alteradores não alteram o texto do original: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

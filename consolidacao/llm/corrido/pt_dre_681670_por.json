@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:681670:por",
+  "substituicoes": [
+    {
+      "de": 1,
+      "ate": 1,
+      "texto": "# Resolução do Conselho de Ministros n.º 70/93",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Retificação do sumário: o sumário não consta do texto do original; aplicada só à epígrafe.",
+  "instrucoes": [
+    "Alterador 1: no sumário e na epígrafe, 'n.º 69/93' passa a 'n.º 70/93' — aplicado à epígrafe (unidade 1); o sumário não está no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

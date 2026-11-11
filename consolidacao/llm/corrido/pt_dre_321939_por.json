@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:321939:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 758/99 dá nova redação aos quadros n.os 2 e 4 do anexo, mas os quadros (originais e novos) só existem em imagem (ver documento original); não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação dos quadros n.os 2 e 4 do anexo, só em imagem - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:239252:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As três alterações substituem anexos (planos de estudos) cujo conteúdo são quadros que só vêm em imagem ('ver quadro no documento original'): Portaria n.º 147/2003 dá nova redação aos anexos I, III, V, VII, VIII e XII; Portaria n.º 1303/2003 dá nova redação ao anexo XII; Portaria n.º 535/2005 dá nova redação ao anexo III. Os títulos textuais (curso, ciclo, grau, quadro, ano) mantêm-se em substância e os quadros novos não são texto, pelo que não se aplicam sem inventar.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 147/2003), 1.º: anexos I, III, V, VII, VIII e XII passam a ter a redação dos anexos da portaria; quadros só em imagem, não aplicado.",
+    "Alterador 1, 2.º e 3.º: transição e aplicação próprias do alterador, não alteram o texto do original.",
+    "Alterador 2 (Portaria n.º 1303/2003), 1.º: anexo XII passa a ter a redação do anexo; quadros só em imagem, não aplicado. 2.º: produção de efeitos, sem alteração textual.",
+    "Alterador 3 (Portaria n.º 535/2005), 1.º: anexo III passa a ter a redação do anexo; quadros só em imagem, não aplicado. 2.º e 3.º: transição e aplicação, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

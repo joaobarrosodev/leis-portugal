@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:661281:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 233/2017, artigo 1.º): o plano de estudos (anexo) passa a ter a redação do anexo do alterador, cujos quadros n.os 1 e 2 só vêm em imagem (ver documento original); o anexo original também só existe em imagem. Não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 233/2017): altera o plano de estudos do anexo; quadros só em imagem, não aplicado. Os artigos 2.º (transição) e 3.º (aplicação) não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

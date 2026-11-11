@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:582018:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 117,
+      "texto": "7.4 - Avaliação final:\n\n7.4.1 - Prova prática. - A prova prática destina-se a avaliar a capacidade do interno para resolver problemas de diagnóstico decorrentes da prática profissional da anatomia patológica. O seu conteúdo é o seguinte:\n\n7.4.1.1 - Resolução de um caso-problema de rotina: estudo do relatório macroscópico, observação das lâminas histológicas e elaboração do relatório diagnóstico final. Esta fase da prova tem a duração de trinta minutos;\n\n7.4.1.2 - Elaboração de propostas de diagnóstico e resolução de problemas enunciados a partir de lâminas de preparações histológicas, diapositivos microscópicos de citologia e técnicas especiais devidamente identificadas, nos seguintes quantitativos:\n\na) 15 histologias (lâminas);\n\nb) 10 citologias (diapositivos).\n\nEsta fase da prova tem a duração de duas horas, cabendo noventa minutos ao expresso na alínea a) e trinta minutos ao expresso na alínea b).\n\n7.4.2 - Prova teórica. - A prova teórica destina-se a avaliar o nível de conhecimentos e a sua integração, consistindo no interrogatório sobre seis temas, referentes a igual número de casos clínicos, identificados por história clínica sumária e pela documentação iconográfica das lesões. A prova terá a duração máxima de noventa minutos.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 (Portaria n.º 46/2011) e 3 (Portaria n.º 212/2018) não contêm instruções textuais de alteração: aprovam programas de formação novos e integrais (atualizados) de cardiologia e de ortopedia, que se aplicam só aos internos que iniciam a formação a partir de 2011 e de 2019, respetivamente; não revogam nem substituem expressamente os programas anexos ao original, que continuam a reger os internos anteriores. Não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º: adita o n.º 7.4 (Avaliação final) ao programa de anatomia patológica; inserido a seguir à unidade 117 (fim do 7.3.2), antes do n.º 8.",
+    "Alterador 1, 2.º: entrada em vigor; não textual, ignorado.",
+    "Alterador 2, art. 1.º: atualiza o programa de cardiologia por aprovação de programa novo integral com regime transitório próprio; não aplicado (ver nao_aplicavel).",
+    "Alterador 3, art. 1.º: atualiza o programa de ortopedia por aprovação de programa novo integral com efeitos a 1 de janeiro de 2019; não aplicado (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:451672:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (DL 95/2019, art. 18.º, n.º 2, al. a)) revoga o Regulamento de Segurança e Ações para Estruturas de Edifícios e Pontes apenas 'no que diz respeito à aplicação a estruturas para edifícios': revogação parcial quanto ao âmbito de aplicação, não textual; o Regulamento continua em vigor para pontes, pelo que não há unidade a eliminar nem a marcar como revogada.",
+  "instrucoes": [
+    "DL 95/2019, art. 18.º, n.º 2, al. a): revogação do RSA quanto à aplicação a estruturas para edifícios — não aplicada ao texto (revogação de âmbito, não textual; o diploma subsiste para pontes).",
+    "DL 95/2019, arts. 9.º a 15.º: alteram outros diplomas (DL 220/2008, 118/2013, 129/2002, 163/2006, 123/2009) — ignorados.",
+    "DL 95/2019, art. 16.º: aplicação dos Eurocódigos por despacho — não é instrução textual dirigida ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

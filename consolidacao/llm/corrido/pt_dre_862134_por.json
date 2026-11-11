@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:862134:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 17,
+      "texto": "a) Representantes dos caçadores:\n\ni) José Domingos Gomes Escoval;\n\nii) José Manuel Chamorro Fernandes;\n\nb) Representantes dos agricultores:\n\ni) António Maria de Sousa Cabral Fialho;\n\nii) Luís Fernando da Moita Pinheiro;\n\niii) Francisco Cândido Pinto Pulido;\n\nc) Autarca de freguesia, Luís Fialho Alcario;\n\nd) Representante da Autoridade Florestal Nacional, José Caimoto e Sousa.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 5,
+      "texto": "Artigo 1.º\n\nConstituição",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do n.º 1 (como artigo 1.º, Constituição) — inserida a epígrafe antes da unidade 6 (que não muda) e substituídas as unidades 7 a 17 pela nova lista em alíneas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

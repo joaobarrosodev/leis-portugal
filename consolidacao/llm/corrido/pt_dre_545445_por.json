@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:545445:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: o n.º 1.º altera a Portaria n.º 215/2004 (outro diploma, ignorado); o n.º 2.º declara a área total corrigida de 3403 ha sem alterar a redação do n.º 1.º do original (não é instrução textual); o n.º 3.º substitui a planta anexa, que só existe em imagem. Alterador 2: renovação da zona de caça (área 3289 ha), sem alteração textual ao original.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: altera a Portaria n.º 215/2004 — ignorado (outro diploma).",
+    "Alterador 1, n.º 2.º: declaração da área total de 3403 ha — não aplicada (não é alteração textual).",
+    "Alterador 1, n.º 3.º: substituição da planta anexa (imagem) — não aplicada.",
+    "Alterador 2: renovação da zona de caça — sem alteração textual ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

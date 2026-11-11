@@ -1,0 +1,59 @@
+{
+  "id": "pt:dre:240979:por",
+  "substituicoes": [
+    {
+      "de": 121,
+      "ate": 121,
+      "texto": "c) A 7/IC 5/IC 25 Fafe/IP 3 (Vila Pouca de Aguiar) com a extensão aproximada de 47 km;",
+      "alterador": 3
+    },
+    {
+      "de": 237,
+      "ate": 237,
+      "texto": "28.1 - As datas limite de entrada em serviço de cada um dos Lanços referidos no n.º 5.1 são as seguintes:",
+      "alterador": 1
+    },
+    {
+      "de": 238,
+      "ate": 238,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/12201/0000200002.pdf)",
+      "alterador": 3
+    },
+    {
+      "de": 239,
+      "ate": 243,
+      "texto": "28.2 - As datas de entrada em serviço e, bem assim, as datas de início da construção de cada um dos Lanços referidos no número anterior constam do Programa de Estudos, Projecto e Construção de Recuperação, que constitui o anexo n.º 10 do presente contrato.\n\n28.3 - Sem prejuízo do disposto no número seguinte, em quaisquer alterações ao Programa de Estudos, Projecto e Construção de Recuperação, ainda que permitidas ao abrigo das disposições do Contrato de Concessão, deve a Concessionária respeitar os seguintes prazos limite:\n\na) As obras de construção do primeiro Lanço devem iniciar-se no prazo máximo de 22 meses a contar da data de assinatura do Contrato de Concessão;\n\nb) A entrada em serviço do primeiro Lanço a construir deve ter lugar no prazo máximo de 43 meses a contar da data referida na alínea anterior;\n\nc) No prazo máximo de 80 meses a contar da data da assinatura do Contrato de Concessão, deve encontrar-se em serviço a totalidade das Auto-Estradas.",
+      "alterador": 1
+    },
+    {
+      "de": 447,
+      "ate": 447,
+      "texto": "55.2 - A falta de pagamento de qualquer taxa de portagem é punida com multa, cujo montante mínimo é igual a 10 vezes o valor da respectiva taxa de portagem, mas nunca inferior a (euro) 25, e o máximo igual ao quíntuplo do montante mínimo.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 123,
+      "texto": "f) Variante à EN 207 (nó do IP 9)/Felgueiras (EN 101) com a extensão aproximada de 3 km.",
+      "alterador": 3
+    },
+    {
+      "depois_de": 454,
+      "texto": "55.10 - O produto das multas reverte em 40% para a concessionária e os restantes 60% revertem para o Estado e para o IEP - Instituto das Estradas de Portugal, respectivamente na proporção de 60% e de 40%.\n\n55.11 - A concessionária faz entrega mensal, nos cofres do Tesouro, dos quantitativos das multas cobradas que constituem receita do Estado e do IEP mediante transferência para conta daquele organismo junto da Direcção-Geral do Tesouro.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, n.º 1: a substituição dos anexos n.º 10 e n.º 8 do anexo n.º 1 (programa de trabalhos) não é textual, porque os anexos não estão no texto. Alterador 1, n.º 2: a regra de que as referências ao programa de trabalhos se entendem feitas ao programa de estudos, projecto e construção de recuperação é interpretativa e não muda o texto (só foi aplicada onde o n.º 28 vem com nova redação). O quadro do n.º 28.1 só existe em imagem, tanto em 2003 (alterador 1) como em 2009 (alterador 3): troquei apenas a ligação da unidade 238 pela de 2009, que é a última. Alteradores 4 e 5: não trazem texto dirigido ao original.",
+  "instrucoes": [
+    "Alterador 1, n.º 3: nova redação do n.º 28. A epígrafe fica igual; no 28.1, 'serão' passa a 'são' (unidade 237); 28.2, 28.3 e as alíneas a) a c) substituídas (unidades 239-243); 28.4 '...' mantém-se. A ligação do quadro de 2003 foi ultrapassada pela de 2009 (alterador 3).",
+    "Alterador 1, n.os 1 e 2: substituição dos anexos e regra de leitura das referências ao programa de trabalhos: não são textuais (ver nao_aplicavel).",
+    "Alterador 2: nova redação do n.º 55. O 55.2 é substituído (unidade 447); 55.1 e 55.3 a 55.9 vêm com '...' e mantêm-se; 55.10 e 55.11 são novos, inseridos a seguir à unidade 454.",
+    "Alterador 3: n.º 5. A alínea c) do 5.1 é substituída (unidade 121); a nova alínea f) é inserida a seguir à e) (unidade 123); o resto vem com '...' e mantém-se.",
+    "Alterador 3: n.º 28. Só o quadro do 28.1 muda e está em imagem: a ligação da unidade 238 passa para a de 2009; o resto vem com '...' e mantém-se.",
+    "Alteradores 4 e 5: não trazem texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

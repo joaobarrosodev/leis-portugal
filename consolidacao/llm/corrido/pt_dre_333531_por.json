@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:333531:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 altera critérios de pureza do anexo IV (E 407, E 466, E 473), que no original só existe em imagem; alterador 2 substitui critérios de E 420 e E 421 do anexo III, também só em imagem; alterador 3 (DL 365/98, art. 6.º) revoga a portaria com excepção do método de análise 1 do n.º IV do anexo V, que está em imagem: revogação quase total cuja parte ressalvada não é delimitável no texto, por isso não aplicada às cegas.",
+  "instrucoes": [
+    "Alterador 1: altera o anexo IV (em imagem); não aplicável.",
+    "Alterador 2: substitui critérios do anexo III (em imagem); não aplicável.",
+    "Alterador 3: revoga a portaria salvo o método 1 do n.º IV do anexo V (em imagem); não aplicada por não ser possível separar a parte ressalvada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

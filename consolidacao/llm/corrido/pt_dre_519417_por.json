@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:519417:por",
+  "substituicoes": [
+    {
+      "de": 55,
+      "ate": 55,
+      "texto": "12.º São elegíveis os investimentos executados a partir de 1 de Agosto de 2006.",
+      "alterador": 2
+    },
+    {
+      "de": 61,
+      "ate": 61,
+      "texto": "14.º Para a campanha vitivinícola de 2007-2008, a recepção de candidaturas decorre a partir da data de entrada em vigor da presente portaria, até 29 de Junho de 2007, podendo, no entanto, este prazo ser alterado por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sempre que circunstâncias especiais devidamente fundamentadas assim o determinem.",
+      "alterador": 2
+    },
+    {
+      "de": 72,
+      "ate": 73,
+      "texto": "a) Encontrar-se integralmente executadas até 30 de Maio de 2008 e serem objecto do correspondente pedido de pagamento das ajudas e da compensação financeira por perda de receita, sendo o caso, até àquela data; ou\n\nb) Ser objecto, após o início da sua execução, de um pedido de pagamento antecipado das ajudas e da correspondente compensação financeira por perda de receita, sendo o caso, a efectuar até 30 de Maio de 2008, acompanhado de prestação de uma garantia bancária, sem prazo, a favor do IFAP, de montante igual a 120 % do valor das ajudas previstas para as medidas específicas em causa, devendo estas encontrar-se integralmente executadas até 31 de Julho de 2010;",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 104,
+      "texto": "v) Enviar, impreterivelmente, até ao dia 6 de Julho de 2007, os valores previsionais das áreas e montantes das ajudas referentes às candidaturas recepcionadas.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 691/2007) altera o n.º 19.º da Portaria n.º 442/2006, não o original: ignorado.",
+    "Alterador 2, art. 1.º, n.º 1: nova redação do n.º 12.º; substituída a unidade 55.",
+    "Alterador 2, art. 1.º, n.º 2: data de 31 de Maio de 2007 do n.º 14.º passa a 29 de Junho de 2007; substituída a unidade 61.",
+    "Alterador 2, art. 2.º: aditada a subalínea v) à alínea c) do n.º 27.º; inserida depois da unidade 104.",
+    "Alterador 3 (Portaria n.º 389/2008), art. 1.º: nova redação das alíneas a) e b) do n.º 19.º; substituídas as unidades 72 a 73. Art. 2.º (entrada em vigor) não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

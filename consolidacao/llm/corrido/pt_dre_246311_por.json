@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:246311:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Declaração de Rectificação n.º 19/2008): onde se lê 'artigo 29.º da LULL' deve ler-se 'artigo 29.º da LUCH' na frase uniformizadora; a unidade 294 já tem 'artigo 29.º da LUCH' (não há 'LULL' nessa frase em lado nenhum do texto atual), pelo que a retificação já está refletida e não há nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

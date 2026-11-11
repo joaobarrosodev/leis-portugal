@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:142709:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 (Portaria n.º 217/2007) vem no pedido sem qualquer texto: a secção está vazia, sem instruções dirigidas ao original. Não há nada que se possa aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 217/2007): texto ausente no pedido; nenhuma alteração aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

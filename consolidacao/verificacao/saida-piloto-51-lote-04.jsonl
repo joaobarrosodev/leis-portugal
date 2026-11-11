@@ -1,0 +1,34 @@
+{"id": "pt:dre:637427:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Anexo II substituído: 15,00 e grafia 'colecionador' do diploma que altera.", "texto_esperado": ""}
+{"id": "pt:dre:637427:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Grafia nova (efetuados, coleção) no texto do Anexo II do alterador.", "texto_esperado": ""}
+{"id": "pt:dre:637427:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Grafia nova (efetuado, respetiva, fatura) do alterador.", "texto_esperado": ""}
+{"id": "pt:dre:637427:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Grafia nova (atualizados) do alterador.", "texto_esperado": ""}
+{"id": "pt:dre:637427:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:640122:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Aditamento ao anexo das duas escolas e vagas, tal como no alterador.", "texto_esperado": ""}
+{"id": "pt:dre:640122:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:640360:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Retificação do 1.º aplicada: 'pelo período de 12 anos e com efeitos a partir do dia 16 de Julho de 2007'.", "texto_esperado": ""}
+{"id": "pt:dre:640360:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:641375:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Retificação do 2.º aplicada: 'Sociedade Agro-Pecuária da Abelheira, Lda.'.", "texto_esperado": ""}
+{"id": "pt:dre:641375:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:669560:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Retificação: 'div. -, subdiv. 03' passa a 'div. -, subdiv. 02' (única ocorrência de 'div. -' com subdiv. 03 no original).", "texto_esperado": ""}
+{"id": "pt:dre:669560:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:669778:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Retificação: no cap. 03, div. 10, subdiv. 01, C. F. 3.02.0, C. E. 01.01.01 passa a 01.01.04 (única ocorrência no original).", "texto_esperado": ""}
+{"id": "pt:dre:669778:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:681670:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Retificação da epígrafe: n.º 69/93 passa a n.º 70/93. O sumário não faz parte do texto.", "texto_esperado": ""}
+{"id": "pt:dre:681670:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:817080:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Nova redação do n.º 1.º: Autoridade Florestal Nacional (Joaquim Fernando Pinheiro Brito) e ICNB (João Mário Vieira Pragana); restantes vogais iguais.", "texto_esperado": ""}
+{"id": "pt:dre:817080:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:862134:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "O texto citado pelo alterador inclui 'Artigo 1.º / Constituição' e o consolidado copia-o.", "texto_esperado": ""}
+{"id": "pt:dre:862134:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Lista de vogais com alíneas a) a d) copiada letra a letra da nova redação do n.º 1.", "texto_esperado": ""}
+{"id": "pt:dre:862134:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:892657:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "A Portaria 731/2010 dá nova redação ao artigo 1.º com epígrafe 'Constituição'; copiado.", "texto_esperado": ""}
+{"id": "pt:dre:892657:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Lista de vogais conforme a Portaria 731/2010 (incorpora o autarca João Carlos Rodrigues da 657/2002); letra a letra, incluindo 'Azeda'.", "texto_esperado": ""}
+{"id": "pt:dre:892657:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:892987:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Autoridade Florestal Nacional (Armando José Pereira) e ICNB, conforme a nova redação do n.º 1.º; o nome seguinte (José João Martins Lourenço) é igual.", "texto_esperado": ""}
+{"id": "pt:dre:892987:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:903447:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Pontuação ';' dos caçadores conforme a nova redação do n.º 1.º.", "texto_esperado": ""}
+{"id": "pt:dre:903447:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Agricultores, autarca, Autoridade Florestal Nacional, associações e ICNB conforme a nova redação.", "texto_esperado": ""}
+{"id": "pt:dre:903447:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:910468940:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 4 conforme o Despacho 12087/2025 (20,00 €, 'o valor da subvenção é acrescido').", "texto_esperado": ""}
+{"id": "pt:dre:910468940:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "N.º 6 conforme o Despacho 15291/2025, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:910468940:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "N.º 11 conforme o Despacho 12087/2025.", "texto_esperado": ""}
+{"id": "pt:dre:910468940:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}

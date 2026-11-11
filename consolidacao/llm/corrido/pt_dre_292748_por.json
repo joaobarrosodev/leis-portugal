@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:292748:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 2.º da Portaria n.º 323/94 altera o anexo VI da Portaria n.º 743/92 nos termos do seu anexo II, mas tanto o anexo VI original como o anexo II alterador só existem em imagem (ver documento original); não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 2.º: anexo VI alterado nos termos do anexo II (só em imagem) - não aplicado.",
+    "Alterador 1, n.º 1.º e anexo I: aprova um regulamento autónomo que só remete para a Portaria n.º 743/92 - não é alteração do texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

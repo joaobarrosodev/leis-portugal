@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:518623:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "O Protocolo Relativo aos Privilégios e Imunidades da Autoridade Marítima Internacional dos Fundos Marinhos foi aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 60/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-2006-545003) e pelo [Decreto do Presidente da República n.º 115/2006](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/115-2006-545005), ambos publicados no Diário da República, 1.ª série, n.º 229, de 28 de Novembro de 2006.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Aviso 284/2007: retifica o segundo parágrafo (unidade 3), dado por inteiro na nova redação; substituída a unidade 3 pelo texto do 'deve ler-se'. Nota: o 'onde se lê' cita 'Autoridade Marítima Internacional' e '1.ª série-A', que não coincide letra a letra com o texto atual ('Autoridade Internacional'), mas o parágrafo alvo é inequívoco e substituído por inteiro."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

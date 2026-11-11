@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:676827:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 146/2016, artigo 1.º: o plano de estudos (anexo, quadros n.os 1 e 2) passa a ter nova redação, mas os quadros só vêm em imagem no documento original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do plano de estudos do anexo — quadros só em imagem, não aplicado.",
+    "Alterador 1, arts. 2.º e 3.º: transição e aplicação, normas autónomas que não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

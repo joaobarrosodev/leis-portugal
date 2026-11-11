@@ -1,0 +1,547 @@
+{
+  "id": "pt:dre:159541:por",
+  "substituicoes": [
+    {
+      "de": 71,
+      "ate": 71,
+      "texto": "1.º Os lucros e os adiantamentos por conta de lucros, seja qual for a sua natureza, espécie ou designação, colocados à disposição dos sócios das sociedades comerciais ou civis sob a forma comercial, bem como os juros concedidos nos termos do § 2.º do artigo 192.º do Código Comercial;",
+      "alterador": 14
+    },
+    {
+      "de": 72,
+      "ate": 72,
+      "texto": "2.º As importâncias ou quaisquer outros valores colocados à disposição dos sócios das sociedades cooperativas, desde que constituam remuneração do capital;",
+      "alterador": 7
+    },
+    {
+      "de": 73,
+      "ate": 73,
+      "texto": "3.º Os juros, prémios de reembolso ou de amortização e bem assim qualquer outro tipo de remuneração de obrigações ou de outros títulos sujeitos ao mesmo regime fiscal emitidos por sociedades, empresas públicas ou outras entidades;",
+      "alterador": 19
+    },
+    {
+      "de": 75,
+      "ate": 75,
+      "texto": "5.º Os juros dos suprimentos ou de outros abonos feitos pelos sócios às sociedades, bem como o rendimento dos lucros que, tendo sido colocados à disposição dos sócios das sociedades não anónimas, nem em comandita por acções, por eles não sejam levantados até ao fim do ano daquela colocação;",
+      "alterador": 7
+    },
+    {
+      "de": 76,
+      "ate": 76,
+      "texto": "6.º O saldo dos juros apurados em conta corrente, nos termos previstos nos artigos 344.º e seguintes do Código Comercial, e bem assim os juros escriturados em conta corrente, nos demais casos, incluindo as importâncias auferidas pelas resseguradoras como remuneração da sua contribuição em numerário para as reservas técnicas das empresas resseguradas;",
+      "alterador": 12
+    },
+    {
+      "de": 77,
+      "ate": 77,
+      "texto": "7.º Os juros de depósitos confiados a pessoas singulares ou colectivas legalmente autorizadas a recebê-los e, bem assim, os rendimentos ou ganhos derivados das operações de reporte a que se refere o artigo 477.º do Código Comercial.",
+      "alterador": 20
+    },
+    {
+      "de": 79,
+      "ate": 79,
+      "texto": "9.º Os lucros, líquidos da dedução das perdas previstas no n.º 7 do artigo 25.º do [Decreto-Lei n.º 231/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1981-579479), de 28 de Julho, que uma pessoa singular ou colectiva aufira pelo facto de uma outra a interessar numa actividade económica, em regime de contrato de associação em participação, nos termos dos artigos 21.º e seguintes do referido diploma;",
+      "alterador": 14
+    },
+    {
+      "de": 80,
+      "ate": 80,
+      "texto": "10.º Os rendimentos resultantes da concessão ou cedência temporária de patentes de invenção, licenças de exploração, modelos de utilidade, desenhos e modelos industriais, marcas, nomes e insígnias de estabelecimentos, processo de fabrico ou de conservação de produtos e direitos análogos, bem como os recebidos pela prestação de informações respeitantes a uma experiência adquirida no sector industrial, comercial ou científico;",
+      "alterador": 2
+    },
+    {
+      "de": 89,
+      "ate": 89,
+      "texto": "3.º Os juros das vendas a crédito dos comerciantes relativas a produtos ou serviços do seu comércio ou indústria, bem como o juro ou qualquer compensação da mora no pagamento do respectivo preço, quando tais rendimentos sejam auferidos por pessoas sujeitas, relativamente aos mesmos, a impostos incidentes sobre lucros, embora deles isentos;",
+      "alterador": 14
+    },
+    {
+      "de": 91,
+      "ate": 91,
+      "texto": "5.º Os rendimentos abrangidos pelo artigo 3.º que derivem de capitais cujo valor global não exceda 10000$00 por cada titular, sendo esse limite fixado em 20000$00 quando se trate de tornas em partilhas judiciais.",
+      "alterador": 18
+    },
+    {
+      "de": 94,
+      "ate": 94,
+      "texto": "1.º Os lucros atribuídos aos sócios de sociedades cuja actividade consista na mera gestão de uma carteira de títulos e que tenham capital superior a 100000 contos, até ao montante dos juros e dividendos de títulos nacionais que tenham sido recebidos por essas sociedades ou creditados a seu favor durante o ano da gerência a que respeita a atribuição.",
+      "alterador": 4
+    },
+    {
+      "de": 101,
+      "ate": 101,
+      "texto": "8.º Os juros de depósitos a prazo em moeda estrangeira efectuados em estabelecimentos legalmente autorizados a recebê-los, por instituições de crédito não residentes;",
+      "alterador": 21
+    },
+    {
+      "de": 102,
+      "ate": 102,
+      "texto": "9.º Os rendimentos derivados do uso ou da concessão do uso de equipamento agrícola, industrial, comercial ou científico, auferidos por empresas sujeitas, relativamente aos mesmos, a impostos incidentes sobre lucros, embora deles isentos;",
+      "alterador": 14
+    },
+    {
+      "de": 103,
+      "ate": 103,
+      "texto": "10.º Os juros de obrigações convertíveis em acções;",
+      "alterador": 19
+    },
+    {
+      "de": 112,
+      "ate": 112,
+      "texto": "6.º As instituições de crédito estrangeiras cujo capital social seja detido a 100% por instituições de crédito com sede no território do continente ou regiões autónomas, relativamente aos rendimentos provenientes de operações de financiamento externo.",
+      "alterador": 21
+    },
+    {
+      "de": 113,
+      "ate": 113,
+      "texto": "§ 2.º As isenções resultantes de acordo entre o Estado e quaisquer pessoas, de direito público e privado, são mantidas na forma da respectiva lei.",
+      "alterador": 21
+    },
+    {
+      "de": 120,
+      "ate": 120,
+      "texto": "Art. 14.º Presume-se que os mútuos e as aberturas de crédito vencem juro e à taxa anual de 15%, se outra mais elevada não constar do título constitutivo ou não houver sido declarada, entendendo-se que o juro começa a vencer-se, nos mútuos, desde a data do contrato, e, nas aberturas de crédito, desde a data da sua utilização.",
+      "alterador": 12
+    },
+    {
+      "de": 121,
+      "ate": 121,
+      "texto": "§ 1.º A taxa será revista anualmente, mediante portaria do Ministro das Finanças e do Plano.",
+      "alterador": 12
+    },
+    {
+      "de": 122,
+      "ate": 122,
+      "texto": "§ 2.º Exceptuados os mútuos e as aberturas de crédito efectuados pelas sociedades comerciais ou civis sob a forma comercial a favor dos respectivos sócios, em que se considera sempre como mínimo tributável a importância que resultar da aplicação da taxa prevista no corpo deste artigo, as presunções aí estabelecidas só podem ser ilididas por decisão judicial proferida em acção intentada pelo contribuinte contra o Estado, em que se declare ter ficado provado que não foram recebidos juros antecipadamente, nem eram ou são devidos ou, sendo-o, têm taxa diferente, ou por declaração passada pelo Banco de Portugal em que se confirme a taxa de juro efectivamente praticada ou a sua inexistência.",
+      "alterador": 14
+    },
+    {
+      "de": 123,
+      "ate": 123,
+      "texto": "§ 3.º No caso de a acção referida no parágrafo anterior, o Ministério Público deverá sempre requisitar à repartição de finanças competente os elementos que possua, ou possa obter, para esclarecimento da verdade dos factos e eventual condenação em multa dos litigantes de má fé.",
+      "alterador": 11
+    },
+    {
+      "de": 131,
+      "ate": 131,
+      "texto": "Art. 18.º Quando os rendimentos forem em géneros, a redução a dinheiro far-se-á pelo preço médio do ano anterior ao da liquidação, segundo o que constar do registo da repartição de finanças ou, na sua falta, da estiva camarária.",
+      "alterador": 1
+    },
+    {
+      "de": 134,
+      "ate": 134,
+      "texto": "1.º Pelos rendimentos efectivos de que tratam os n.os 1.º a 4.º e 6.º a 12.º do artigo 6.º;",
+      "alterador": 16
+    },
+    {
+      "de": 140,
+      "ate": 140,
+      "texto": "d) Tratando-se de acções, títulos e certificados da dívida pública e outros papéis de crédito, considerar-se-á o valor da sua cotação e, não a havendo na data da atribuição dos rendimentos, o da última mais próxima dentro dos 6 meses anteriores, observando-se na sua falta, na parte aplicável, as regras estabelecidas no Código da Sisa e do Imposto sobre as Sucessões e Doações para a valorização daqueles bens.",
+      "alterador": 13
+    },
+    {
+      "de": 143,
+      "ate": 143,
+      "texto": "Art. 21.º A taxa do imposto de capitais é de 30%, salvo nos casos previstos nos parágrafos seguintes:",
+      "alterador": 11
+    },
+    {
+      "de": 144,
+      "ate": 144,
+      "texto": "§ 1.º Quando se trate de lucros, juros, importâncias e rendimentos a que se referem os n.os 1.º, 2.º e 9.º do artigo 6.º, a taxa será de 12%.",
+      "alterador": 17
+    },
+    {
+      "de": 145,
+      "ate": 145,
+      "texto": "§ 2.º Nos juros das obrigações, a taxa será de 12%.",
+      "alterador": 11
+    },
+    {
+      "de": 149,
+      "ate": 149,
+      "texto": "c) Quando o empréstimo ou a emissão de obrigações subscritas no estrangeiro se revistam de superior interesse para a economia nacional ou regional, designadamente no caso de o respectivo produto se destinar à realização de investimentos no País incluídos nos planos anuais;",
+      "alterador": 12
+    },
+    {
+      "de": 160,
+      "ate": 160,
+      "texto": "Art. 25.º O manifesto será feito na repartição de finanças do concelho ou bairro da residência ou sede do titular do crédito, ou da situação do estabelecimento estável, com base no respectivo título ou documento ou em declaração escrita e assinada pela pessoa a quem incumba a obrigação de o solicitar, ou, na falta de solicitação, em face do auto de transgressão, depois de concluído o respectivo processo, quer por pagamento voluntário, quer por condenação com trânsito em julgado.",
+      "alterador": 1
+    },
+    {
+      "de": 162,
+      "ate": 162,
+      "texto": "§ 2.º Se o titular do crédito não residir no continente ou ilhas, nem aí possuir sede ou estabelecimento estável, será o manifesto efectuado na repartição de finanças do concelho ou bairro em que resida o devedor dos rendimentos, ou fique situado o estabelecimento estável a que deva imputar-se o respectivo encargo, ou em que, tratando-se de pessoa colectiva, esta tenha a sua sede.",
+      "alterador": 1
+    },
+    {
+      "de": 163,
+      "ate": 163,
+      "texto": "§ 3.º. Quando não se verifiquem as hipóteses previstas no corpo deste artigo e no parágrafo anterior, o manifesto será efectuado na repartição de finanças do concelho ou bairro da situação dos bens que caucionam a dívida ou, na falta destes, no da celebração do respectivo contrato.",
+      "alterador": 1
+    },
+    {
+      "de": 170,
+      "ate": 170,
+      "texto": "§ 1.º O pedido será acompanhado de certidão comprovativa da existência da instância, devendo a suspensão, depois de autorizada pelo chefe da repartição de finanças, ser averbada no manifesto e no verbete de lançamento.",
+      "alterador": 1
+    },
+    {
+      "de": 173,
+      "ate": 173,
+      "texto": "§ 4.º Decorrido o prazo fixado no parágrafo anterior, o chefe da repartição de finanças, sempre que tenha notícia da extinção da instância, procederá oficiosamente ao averbamento.",
+      "alterador": 1
+    },
+    {
+      "de": 179,
+      "ate": 179,
+      "texto": "§ 1.º A situação será havida por extinta quando o titular do crédito ou, na situação prevista no § 2.º do artigo 24.º, o devedor o declare verbalmente ou em escrito assinado por ele ou a rogo perante o notário, indicando o motivo da extinção.",
+      "alterador": 10
+    },
+    {
+      "de": 182,
+      "ate": 182,
+      "texto": "Art. 31.º O estado de insolvência do devedor, quando não haja declaração judicial de falência ou insolvência civil, poderá ser comprovado perante o chefe da repartição de finanças competente.",
+      "alterador": 1
+    },
+    {
+      "de": 185,
+      "ate": 185,
+      "texto": "§ 3.º Inquiridas as testemunhas e ouvida por escrito a fiscalização, o chefe da repartição de finanças proferirá decisão, cuja exiquibilidade depende de confirmação do respectivo director de finanças.",
+      "alterador": 1
+    },
+    {
+      "de": 191,
+      "ate": 191,
+      "texto": "Art. 34.º A liquidação do imposto é da competência da repartição de finanças onde tiver sido feito ou para onde tiver sido transferido o manifesto.",
+      "alterador": 1
+    },
+    {
+      "de": 192,
+      "ate": 192,
+      "texto": "Art. 35.º Os chefes das repartições de finanças extrairão dos manifestos os elementos necessários ao lançamento do imposto, os quais serão inscritos em verbetes individuais.",
+      "alterador": 1
+    },
+    {
+      "de": 196,
+      "ate": 196,
+      "texto": "§ 2.º Pelo imposto que lhes for liquidado, os devedores apenas responderão até ao limite dos pagamentos que tenham feito ou devam fazer aos credores a título de juros ou reembolso de capital.",
+      "alterador": 10
+    },
+    {
+      "de": 198,
+      "ate": 198,
+      "texto": "a) Para cobrança eventual, quando se trate de empréstimos efectuados por organismos corporativos ou, nos casos referidos no § 1.º do artigo anterior, quando os manifestos forem averbados do pagamento total ou parcial das importâncias manifestadas e, bem assim, sempre que os contribuintes, antes de iniciada a cobrança nos termos previstos no artigo 46.º, careçam de provar que efectuaram o pagamento;",
+      "alterador": 10
+    },
+    {
+      "de": 200,
+      "ate": 200,
+      "texto": "Art. 38.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.",
+      "alterador": 14
+    },
+    {
+      "de": 202,
+      "ate": 202,
+      "texto": "Art. 39.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 1000$00.",
+      "alterador": 19
+    },
+    {
+      "de": 206,
+      "ate": 206,
+      "texto": "a) A colocação dos rendimentos à disposição dos seus titulares, ainda que sob a forma de adiantamentos por conta de lucros ou de lançamentos a favor dos sócios, nos casos abrangidos pelos n.os 1.º e 2.º do artigo 6.º e parte final do seu § único.",
+      "alterador": 14
+    },
+    {
+      "de": 207,
+      "ate": 207,
+      "texto": "b) A aprovação das contas de gerência ou a colocação dos rendimentos à disposição dos seus titulares antes de encerradas as contas ou independentemente da sua aprovação formal, nos casos abrangidos pelo n.º 5.º do artigo 6.º;",
+      "alterador": 8
+    },
+    {
+      "de": 208,
+      "ate": 208,
+      "texto": "c) O vencimento dos juros das obrigações;",
+      "alterador": 8
+    },
+    {
+      "de": 209,
+      "ate": 209,
+      "texto": "Art. 41.º O imposto será entregue por meio de guia do modelo oficial, em triplicado, processada pelas entidades responsáveis, com as indicações seguintes:",
+      "alterador": 19
+    },
+    {
+      "de": 217,
+      "ate": 217,
+      "texto": "§ 1.º Tratando-se de suprimentos, abonos ou lucros que não vençam juros, poderão as sociedades exigir o reembolso do imposto que tiverem pago.",
+      "alterador": 11
+    },
+    {
+      "de": 220,
+      "ate": 220,
+      "texto": "Art. 44.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões, de que resultou prejuízo para o Estado, a repartição de finanças deverá repará-lo mediante liquidação adicional, mas sempre com observância do disposto no artigo anterior.",
+      "alterador": 1
+    },
+    {
+      "de": 221,
+      "ate": 221,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 224,
+      "ate": 224,
+      "texto": "§ único. Independentemente da expedição dos avisos, o tesoureiro anunciará prèviamente a abertura do cofre em editais expostos na tesouraria e na repartição de finanças e promoverá a divulgação do conteúdo desses editais através da imprensa.",
+      "alterador": 1
+    },
+    {
+      "de": 238,
+      "ate": 238,
+      "texto": "Art. 52.º Os notários são obrigados a enviar às repartições de finanças competentes para o manifesto, até ao dia 10 de cada mês, uma relação modelo n.º 2, em duplicado, donde constem todos os actos e contratos em que tenham intervindo no mês anterior e mediante os quais se tenham constituído, modificado ou distratado dívidas sujeitas a imposto.",
+      "alterador": 1
+    },
+    {
+      "de": 240,
+      "ate": 240,
+      "texto": "Art. 53.º Os escrivães de direito são obrigados a enviar às repartições de finanças competentes para o mafesto, até ao dia 10 de cada mês, uma relação modelo n.º 3, em duplicado, dos inventários e demais processos a seu cargo, cujas decisões tenham transitado em julgado no mês anterior e dos quais se mostre haver fundamento para a exigência de imposto.",
+      "alterador": 1
+    },
+    {
+      "de": 241,
+      "ate": 241,
+      "texto": "Art. 54.º Os aceitantes de letras e livranças que titulem situações sujeitas a manifesto são obrigados a participar à repartição de finanças do concelho ou bairro da residência ou sede do credor, dentro do prazo de 30 dias a contar da data do aceite, a existência dos mesmos títulos.",
+      "alterador": 1
+    },
+    {
+      "de": 242,
+      "ate": 242,
+      "texto": "§ 1.º Quando o credor não resida no continente ou ilhas adjacentes ou, tratando-se de uma pessoa colectiva, aí não tenha a sua sede, será a participação feita à repartição de finanças do concelho ou bairro onde se localize a residência do aceitante, ou se encontre a sede da entidade que figure como tal.",
+      "alterador": 1
+    },
+    {
+      "de": 256,
+      "ate": 256,
+      "texto": "§ 1.º Os agentes do Ministério Público das contribuições e impostos poderão examinar os arquivos de repartições públicas, de pessoas colectivas de utilidade pública administrativa e organismos de coordenação económica e corporativa, bem como, eles próprios ou os seus representantes, os livros e documentos dos contribuintes, ou responsáveis, sejam ou não comerciantes, embora sempre com observância do disposto no § único do artigo 43.º do Código Comercial.",
+      "alterador": 1
+    },
+    {
+      "de": 261,
+      "ate": 261,
+      "texto": "Art. 62.º Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugna-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.",
+      "alterador": 1
+    },
+    {
+      "de": 263,
+      "ate": 263,
+      "texto": "Art. 63.º A liquidação do imposto entregue nos cofres do Estado e a liquidação adicional poderão ser objecto de reclamação ou de impugnação judicial por parte dos titulares dos rendimentos e das entidades responsáveis pela entrega, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.",
+      "alterador": 1
+    },
+    {
+      "de": 264,
+      "ate": 264,
+      "texto": "§ único. Os prazos para as reclamações ou impugnações contar-se-ão:",
+      "alterador": 1
+    },
+    {
+      "de": 265,
+      "ate": 265,
+      "texto": "a) Quando apresentados pelos titulares dos rendimentos, desde o dia imediato àquele em que se verificar o pagamento que originou o desconto do imposto;",
+      "alterador": 1
+    },
+    {
+      "de": 266,
+      "ate": 266,
+      "texto": "b) Quando apresentados pelas entidades responsáveis pela entrega, desde o dia imediato àquele em que esta tenha ocorrido ou, tratando-se de liquidação adicional, desde o dia imediato ao da abertura do cofre para a cobrança virtual.",
+      "alterador": 1
+    },
+    {
+      "de": 269,
+      "ate": 269,
+      "texto": "§ único. Não se procederá a anulação quando o seu quantitativo seja inferior a 500$00.",
+      "alterador": 19
+    },
+    {
+      "de": 270,
+      "ate": 270,
+      "texto": "Art. 65.º Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido no imposto de capitais, arrecadado por cobrança virtual.",
+      "alterador": 1
+    },
+    {
+      "de": 271,
+      "ate": 271,
+      "texto": "§ 1.º Contar-se-ão juros de 18% ao ano a favor do contribuinte sempre que, estando pago o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.",
+      "alterador": 14
+    },
+    {
+      "de": 276,
+      "ate": 276,
+      "texto": "§ 1.º Tratando-se, porém, de dívidas de que as repartições de finanças tenham ou devam ter conhecimento através das relações a que se referem os artigos 52.º e 53.º, a multa será igual ao dobro do imposto.",
+      "alterador": 1
+    },
+    {
+      "de": 309,
+      "ate": 309,
+      "texto": "Art. 88.º As multas serão impostas mediante processo de transgressão.",
+      "alterador": 1
+    },
+    {
+      "de": 311,
+      "ate": 311,
+      "texto": "§ 2.º O chefe da repartição de finanças, tendo fundadas suspeitas de que se simulou qualquer acto ou contrato em prejuízo da Fazenda Nacional, comunicará o facto ao agente do Ministério Público junto do tribunal competente, para que proponha a respectiva acção de anulação.",
+      "alterador": 1
+    },
+    {
+      "de": 312,
+      "ate": 312,
+      "texto": "§ 3.º Transitada em julgado a sentença que declara a nulidade, o tribunal deverá remeter cópia nos oito dias seguintes à repartição de finanças competente para instaurar o processo de transgressão.",
+      "alterador": 1
+    },
+    {
+      "de": 313,
+      "ate": 313,
+      "texto": "Art. 89.º Só poderá ser instaurado processo de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos, contados da data em que a infracção foi cometida.",
+      "alterador": 1
+    },
+    {
+      "de": 314,
+      "ate": 314,
+      "texto": "§ 1.º Ainda que extinto o procedimento para aplicação da multa, instaurar-se-á processo de transgressão para exigência do imposto devido relativamente aos últimos cinco anos.",
+      "alterador": 1
+    },
+    {
+      "de": 318,
+      "ate": 318,
+      "texto": "Art. 92.º Serão admitidas denúncias perante as repartições e direcções de finanças e serviços centrais e de prevenção e repressão, da Direcção-Geral das Contribuições e Impostos, contra os que transgredirem as disposições do presente diploma.",
+      "alterador": 1
+    },
+    {
+      "de": 322,
+      "ate": 322,
+      "texto": "Art. 94.º No caso de pagamento espontâneo da multa, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.",
+      "alterador": 1
+    },
+    {
+      "de": 323,
+      "ate": 323,
+      "texto": "§ único. Não se considerará espontâneo o pagamento da multa quando a participação do facto ou a solicitação da regularização da respectiva situação tributária for feita posteriormente ao início de qualquer fiscalização mediante exame à escrita do infractor.",
+      "alterador": 1
+    },
+    {
+      "de": 324,
+      "ate": 324,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 330,
+      "ate": 330,
+      "texto": "Art. 97.º Os chefes das repartições de finanças enviarão aos conservadores do registo predial, até ao último dia útil de cada mês, uma relação dos manifestos cujos efeitos cessaram no mês anterior, por extinção dos créditos que hajam sido assegurados com garantia real sobre prédios determinados sujeitos a registo obrigatório, devendo referir na relação o número da descrição dos respectivos prédios na conservatória.",
+      "alterador": 1
+    },
+    {
+      "de": 332,
+      "ate": 332,
+      "texto": "Art. 99.º As repartições de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, relações ou participações, a que se referem o § 1.º do artigo 25.º e os artigos 52.º, 53.º e 54.º",
+      "alterador": 1
+    },
+    {
+      "de": 333,
+      "ate": 333,
+      "texto": "Art. 100.º As declarações, relações, participações e outros documentos a apresentar nas direcções e repartições de finanças podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito devidamente endereçado e franquiado, para devolução imediata, também sob registo, dos duplicados, ou dos documentos, quando for caso disso.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 80,
+      "texto": "11.º Os rendimentos derivados do uso ou da concessão do uso de equipamento agrícola, industrial, comercial ou científico, que não estejam sujeitos a contribuição predial;\n\n12.º Quaisquer outros rendimentos derivados da simples aplicação de capitais não compreendidos na secção A.\n\n§ único. Tratando-se de qualquer das contas correntes referidas no n.º 6.º deste artigo estabelecidas entre sociedades comerciais ou civis sob a forma comercial e os respectivos sócios, incumbe aos interessados fazer a prova da natureza das operações que originaram os lançamentos, sob pena de ficarem sujeitas a imposto, nos termos do n.º 1.º do mesmo artigo, as importâncias lançadas a favor dos sócios.",
+      "alterador": 14
+    },
+    {
+      "depois_de": 91,
+      "texto": "6.º Os juros dos empréstimos feitos pelas casas de penhores.\n\n6.º-A - Os juros de mora a que tenham direito os lesados em acidentes de viação e os trabalhadores, por créditos emergentes do seu contrato de trabalho, não se aplicando o disposto nos artigos 3.º, n.º 3.º, e 57.º;\n\n7.º As sociedades de seguros pelos juros dos empréstimos sobre apólices de seguros de vida.\n\n§ 1.º Os rendimentos referidos no n.º 5.º derivados de capitais cujo valor global está fixado em 10000$00 deixarão de beneficiar de isenção a partir da data em que o mesmo titular passe a auferir rendimentos resultantes de capitais cuja soma exceda aquele limite.\n\n§ 2.º A isenção estabelecida na primeira parte do n.º 5.º não se aplica aos rendimentos de capitais que, por virtude de recebimentos parciais das importâncias manifestadas, fiquem reduzidos a um quantitativo igual ou inferior a 10000$00.\n\nArt. 9.º-A O Ministro das Finanças e do Plano pode, em face de requerimento e com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos, conceder isenção, total ou parcial, do imposto nos seguintes casos:\n\na) Juros de capitais provenientes do estrangeiro e representativos de empréstimos de que sejam devedores o Estado ou qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os institutos públicos, e, bem assim, as autarquias locais e suas federações ou uniões, desde que os credores tenham a residência ou sede efectiva no estrangeiro e não possuam em Portugal estabelecimento estável a que sejam imputáveis os capitais emprestados;\n\nb) Juros respeitantes a quaisquer empréstimos ou outras formas de crédito obtidos no estrangeiro por força de directivas emanadas do Banco de Portugal e que se destinem ao financiamento de importações de petróleo bruto e de bens alimentares considerados essenciais para o abastecimento público.\n\n§ único. A isenção de que beneficiam, nos termos deste artigo, os juros referidos nas alíneas a) e b) abrange igualmente os rendimentos originados pelo diferimento no tempo da prestação ou pela mora no pagamento.",
+      "alterador": 19
+    },
+    {
+      "depois_de": 100,
+      "texto": "7.º-A. Os juros das obrigações para saneamento financeiro emitidas pelas empresas públicas nas condições previstas no [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), de 19 de Junho, e legislação complementar, auferidos pelas instituições de crédito e sujeitos a contribuição industrial, embora dela isentos;",
+      "alterador": 15
+    },
+    {
+      "depois_de": 104,
+      "texto": "12.º Os juros de depósitos a prazo constituídos pelas instituições de crédito no Banco de Portugal.",
+      "alterador": 19
+    },
+    {
+      "depois_de": 112,
+      "texto": "§ 1.º As entidades referidas nos n.os 1.º, 2.º, 3.º, 4.º e 5.º não beneficiam da isenção do imposto relativamente aos rendimentos derivados da aplicação dos seus fundos em depósitos confiados a pessoas singulares ou colectivas legalmente autorizadas a recebê-los, bem como em obrigações e certificados de depósito.",
+      "alterador": 21
+    },
+    {
+      "depois_de": 135,
+      "texto": "Art. 19.º-A. Quando os juros de obrigações ou de depósitos em instituições de crédito legalmente autorizadas a recebê-los sejam estipulados em moeda estrangeira ou de território sob administração portuguesa, a sua equivalência em escudos será estabelecida pela cotação à data do vencimento.",
+      "alterador": 18
+    },
+    {
+      "depois_de": 145,
+      "texto": "§ 3.º Tratando-se de rendimentos a que se refere o n.º 10.º do artigo 6.º, a taxa será de 15%.\n\n§ 4.º Quando se trate de rendimentos e juros a que se referem os n.os 5.º e 7.º do artigo 6.º, a taxa será de 15%.\n\n§ 5.º Tratando-se dos rendimentos a que se refere o n.º 11.º do artigo 6.º, a taxa será de 12%.",
+      "alterador": 18
+    },
+    {
+      "depois_de": 150,
+      "texto": "e) Quando os rendimentos referidos nos n.os 10.º e 11.º do artigo 6.º provenham de bens utilizados em actividades de superior interesse para o desenvolvimento económico nacional ou regional.",
+      "alterador": 17
+    },
+    {
+      "depois_de": 166,
+      "texto": "§ único. As obrigações estabelecidas no corpo deste artigo incumbem ao devedor quando se verificar a situação prevista no § 2.º do artigo 24.º;",
+      "alterador": 10
+    },
+    {
+      "depois_de": 208,
+      "texto": "d) A liquidação dos rendimentos, nos restantes casos.\n\nArt. 40.º-A - As instituições de crédito em que se encontrem depositadas acções emitidas por sociedades com sede efectiva no território do continente e ilhas adjacentes enviarão à sociedade emitente relação dos respectivos titulares à data da colocação à sua disposição dos rendimentos a que tiverem direito, no prazo de quinze dias a contar dessa data.",
+      "alterador": 8
+    },
+    {
+      "depois_de": 217,
+      "texto": "§ 2.º O Ministro das Finanças e do Plano poderá, a requerimento da entidade pagadora dos rendimentos e com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos, dispensar o cumprimento do disposto no corpo deste artigo quando se trate de imposto referente a rendimentos abrangidos pelo n.º 10.º do artigo 6.º, de que sejam titulares pessoas singulares ou colectivas com residência ou sede no estrangeiro, ou que sejam imputáveis a estabelecimento estável situado fora de Portugal.\n\n§ 3.º A dispensa referida no parágrafo anterior poderá ser revogada a todo o tempo, produzindo a revogação efeito nos pagamentos dos rendimentos a efectuar depois de notificada, à empresa pagadora, a revogação.",
+      "alterador": 11
+    },
+    {
+      "depois_de": 293,
+      "texto": "Art. 76.º-A - A falta ou inexactidão das relações a que alude o artigo 40.º-A, bem como as omissões nelas praticadas, serão punidas com multa de 200$00 a 50000$00.",
+      "alterador": 8
+    }
+  ],
+  "nao_aplicavel": "Alterador 6 (DL 667/76), art. 18.º: actualização por coeficientes das multas fixadas em quantitativos específicos - não é alteração textual, não aplicada. Alterador 21 (DL 73/88): o art. 10.º lista '10.º-A ...', unidade que não existe no texto actual (nada aplicado); a mesma lista omite o n.º 7.º, que se manteve (sem instrução de eliminação).",
+  "instrucoes": [
+    "A1 (DL 45400) art. 5.º: novas redacções do n.º 5.º do art. 6.º, § 1.º do art. 61.º, arts. 62.º e 63.º (corpo, § único, a), b)), art. 65.º e § 1.º, art. 88.º e §§ 2.º e 3.º, art. 89.º e § 1.º, art. 94.º (corpo e § único, que substitui os §§ 1.º e 2.º); art. 9.º recebe n.os 6.º e 7.º (inseridos após o 5.º).",
+    "A1 art. 6.º: aditado § 3.º ao art. 21.º (taxa de 8 % nas obrigações); o § único do art. 6.º do DL é norma transitória, não inserida.",
+    "A1 art. 7.º: suprimidos o n.º 6.º do art. 11.º e o § único do art. 44.º (unidades eliminadas).",
+    "A1 art. 9.º: 'secção de finanças' substituída por 'repartição de finanças' (e plurais) nos arts. 14.º § 3.º, 18.º, 25.º e §§ 2.º e 3.º, 29.º §§ 1.º e 4.º, 31.º e § 3.º, 34.º, 35.º, 44.º, 45.º § único, 52.º, 53.º, 54.º e § 1.º, 67.º § 1.º, 92.º, 97.º, 99.º e 100.º.",
+    "A2 (DL 49483) art. 3.º: art. 6.º n.º 10.º novo e n.º 11.º (antigo 10.º); art. 21.º § 1.º (5,5 %) e novo § 4.º; art. 22.º nova alínea e).",
+    "A3 (DL 653/70) art. 5.º: art. 21.º corpo (18 %), § 1.º (6,5 %) e novo § 5.º (15 %).",
+    "A4 (DL 542/71) art. 1.º: nova redacção do n.º 1.º do art. 10.º.",
+    "A5 (DL 771/75) art. 1.º: art. 21.º § 1.º (10 %), § 4.º (Eliminado.), § 5.º (10 %).",
+    "A6 (DL 667/76) art. 5.º: art. 21.º corpo (22 %), § 1.º (12 %), § 4.º reposto (10 %), § 5.º (10 %).",
+    "A7 (Lei 40/77) art. 2.º: art. 6.º n.os 1.º, 2.º e 5.º.",
+    "A8 (DL 390/77): art. 40.º § único alíneas a) a d) (d) inserida); aditados arts. 40.º-A e 76.º-A.",
+    "A9 (DL 139/78): arts. 38.º (12 %), 39.º (100$00) e 64.º § único (100$00).",
+    "A10 (DL 239/79): aditado art. 9.º-A (após o art. 9.º); art. 19.º n.º 1.º; art. 26.º recebe § único; art. 30.º § 1.º; art. 36.º § 2.º; art. 37.º a); art. 65.º § 1.º (12 %). Prazos de 1979 (art. 3.º) não são texto do código.",
+    "A11 (DL 183-E/80): art. 14.º §§ 2.º e 3.º; art. 21.º corpo e §§ 1.º a 4.º reescritos (§ 2.º passa a juros das obrigações, § 3.º n.º 10.º, § 4.º n.º 7.º; § 5.º '...' mantido); art. 42.º § único passa a § 1.º e aditados §§ 2.º e 3.º.",
+    "A12 (DL 139/81): art. 6.º n.º 6.º; art. 14.º corpo (15 %) e § 1.º; art. 21.º § 4.º (18 %); art. 22.º c). Art. 2.º (não aplicação em 1981) não é textual.",
+    "A13 (DL 155/82) art. 3.º: art. 20.º alínea d).",
+    "A14 (DL 197/82): art. 6.º n.os 1.º, 9.º, 11.º novo, 12.º e § único aditados; art. 9.º n.os 3.º e 5.º; art. 10.º n.º 9.º e n.º 10.º (Revogado.); art. 14.º § 2.º; art. 21.º § 5.º (n.º 11.º, 12 %); art. 38.º (24 %); art. 40.º § único a); art. 65.º § 1.º (18 %).",
+    "A15 (DL 119-E/83): art. 21.º §§ 1.º (15 %) e 4.º (18 %); aditado § único ao art. 9.º-A; aditado n.º 7.º-A ao art. 10.º.",
+    "A16 (DL 178/84): art. 10.º n.º 10.º reposto com nova redacção e aditado n.º 12.º; art. 19.º n.º 1.º.",
+    "A17 (DL 92-B/85): art. 9.º n.º 5.º; art. 21.º § 1.º (12 %); art. 22.º e).",
+    "A18 (DL 110/86): art. 9.º n.º 5.º e aditados §§ 1.º e 2.º (após o n.º 7.º); art. 21.º § 4.º (15 %); aditado art. 19.º-A.",
+    "A19 (DL 121/87): art. 6.º n.º 3.º; art. 9.º aditado n.º 6.º-A; art. 10.º n.º 8.º (Revogado.), n.º 10.º e n.º 12.º; arts. 39.º (1000$00), 41.º corpo e 64.º § único (500$00).",
+    "A20 (DL 325/87) art. 2.º: art. 6.º n.º 7.º.",
+    "A21 (DL 73/88): art. 10.º n.º 8.º nova redacção; art. 11.º n.º 6.º novo, § 1.º aditado e § único passa a § 2.º com nova redacção."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

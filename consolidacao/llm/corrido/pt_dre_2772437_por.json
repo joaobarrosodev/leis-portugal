@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:2772437:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "1 - Delego no Secretário de Estado da Saúde, licenciado Manuel Ferreira Teixeira, com faculdade de subdelegação, as competências que me são legalmente atribuídas relativamente à Secretaria-Geral do Ministério da Saúde, no que se refere a:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redação do n.º 1 (Despacho 17015/2011): acrescenta 'com faculdade de subdelegação' ao proémio; alíneas a) e b) com '...' ficam como estão; substituída a unidade 3. O n.º 2 do alterador (efeitos) não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,95 @@
+{
+  "id": "pt:dre:644358:por",
+  "substituicoes": [
+    {
+      "de": 67,
+      "ate": 76,
+      "texto": "8.º - (Revogado.)",
+      "alterador": 3
+    },
+    {
+      "de": 93,
+      "ate": 93,
+      "texto": "4 - O apoio financeiro a atribuir não pode corresponder, em caso algum, a um valor superior a (euro) 12500 por cada posto de trabalho criado e preenchido por trabalhadores que se encontrem numa das situações previstas nos n.os 6.º e 7.º",
+      "alterador": 1
+    },
+    {
+      "de": 128,
+      "ate": 128,
+      "texto": "f) O investimento total não exceda (euro) 150000.",
+      "alterador": 1
+    },
+    {
+      "de": 170,
+      "ate": 181,
+      "texto": "16.º - (Revogado.)\n\n17.º - (Revogado.)",
+      "alterador": 3
+    },
+    {
+      "de": 182,
+      "ate": 182,
+      "texto": "#### SECÇÃO V — Outros apoios",
+      "alterador": 1
+    },
+    {
+      "de": 214,
+      "ate": 216,
+      "texto": "2 - Ao IEFP cumpre, para efeitos do disposto no número anterior e sempre que estejam em causa projectos apresentados nos termos dos n.os 10.º, 11.º e 15.º do presente diploma, efectuar visita prévia às instalações do promotor, por forma a aferir da existência de condições para o desenvolvimento deste último.",
+      "alterador": 2
+    },
+    {
+      "de": 228,
+      "ate": 228,
+      "texto": "3 - No caso de se tratar de apoios ao investimento em iniciativas locais de emprego, o pagamento dos apoios far-se-á nos seguintes termos:",
+      "alterador": 1
+    },
+    {
+      "de": 232,
+      "ate": 232,
+      "texto": "4 - No caso de se tratar de apoios ao investimento em iniciativas locais de emprego e desde que mais de metade dos postos de trabalho a criar sejam preenchidos por pessoas com deficiência, o pagamento dos apoios far-se-á nos seguintes termos:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 39,
+      "texto": "d) Apoios à conversão de contratos de trabalho a termo em contratos de trabalho sem termo.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 181,
+      "texto": "#### SECÇÃO IV — Apoios à conversão de contratos de trabalho a termo em contratos de trabalho sem termo\n\n17.º-A - (Revogado.)\n\n17.º-B - (Revogado.)",
+      "alterador": 3
+    },
+    {
+      "depois_de": 210,
+      "texto": "3 - O disposto no número anterior não se aplica aos apoios previstos na alínea d) do n.º 3.º, cuja candidatura deve ser apresentada, obrigatoriamente, no mês em que se verifica a respectiva contratação sem termo.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 227,
+      "texto": "2 - O pagamento dos apoios previstos no n.º 17.º-B é feito mediante a apresentação dos seguintes documentos:\n\na) Mapas de quadros de pessoal;\n\nb) Cópias validadas das folhas de remunerações entregues na instituição da segurança social competente a partir do momento em que delas devam constar os nomes dos trabalhadores contratados a termo;\n\nc) Cópia do contrato de trabalho a termo e cópia do contrato de trabalho sem termo em que se converteu o contrato de trabalho a termo;\n\nd) Documentos comprovativos das situações previstas no n.º 2.º, sem prejuízo do disposto no n.º 4 do n.º 24.º",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Portaria n.º 985/2009, artigo 19.º (nova redação dos n.os 23.º e 24.º): não aplicado, porque o próprio artigo 19.º foi revogado pelo artigo 5.º da Portaria n.º 58/2011 e a nova redação do n.º 23.º não indica que números substitui (o n.º 23.º tinha já três números). Portaria n.º 255/2002, n.º 7.º (republicação): as diferenças de redação da republicação que não correspondem a instruções (p. ex. 'primeiro emprego', 'socioprofissional', pontuação) não foram aplicadas.",
+  "instrucoes": [
+    "Alt. 1 (Port. 255/2002), 1.º: adita alínea d) ao n.º 3.º; inserida depois da unidade 39 (alíneas a) a c) ficam como estão).",
+    "Alt. 1, 2.º e 5.º: aditados os n.os 17.º-A e 17.º-B numa nova secção IV do capítulo II; a antiga secção IV 'Outros apoios' passa a secção V (unidade 182). O texto aditado depois da unidade 181 fica com o estado final, já revogado pela Port. 985/2009 (ver abaixo).",
+    "Alt. 1, 3.º: aditado n.º 3 ao n.º 23.º, inserido depois da unidade 210.",
+    "Alt. 1, 4.º: aditado novo n.º 2 ao n.º 26.º (depois da unidade 227) e renumerados os antigos n.os 2 e 3 para 3 e 4 (unidades 228 e 232).",
+    "Alt. 1, 6.º: 2500 contos (n.º 4 do n.º 11.º, unidade 93) passa a (euro) 12500 e 30 mil contos (alínea f) do n.º 1 do n.º 13.º, unidade 128) passa a (euro) 150000, conforme a republicação.",
+    "Alt. 1, 7.º: republicação; não aplicada além das instruções expressas.",
+    "Alt. 2 (Port. 183/2007), art. 1.º: nova redação do n.º 2 do n.º 24.º, que elimina as alíneas a) e b); unidades 214-216 substituídas por um só parágrafo.",
+    "Alt. 3 (Port. 985/2009), art. 19.º: alteração dos n.os 23.º e 24.º; não aplicada (artigo revogado pela Port. 58/2011 e alvo do n.º 23.º ambíguo).",
+    "Alt. 3, art. 22.º, alínea a): revoga as secções I, III e IV do capítulo II (na redação da Port. 255/2002): n.º 8.º (unidades 67-76), n.os 16.º e 17.º (unidades 170-181) e n.os 17.º-A e 17.º-B ficam '(Revogado.)'; os títulos das secções ficam.",
+    "Alt. 3, arts. 20.º e 21.º: alteram outro diploma ou são norma transitória; ignorados.",
+    "Alt. 4 (DL 13/2015): não revoga nem altera a Portaria n.º 196-A/2001 (a alínea l) do art. 25.º revoga a Portaria n.º 414/96); nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "inserção depois de 181: parágrafo que não está no alterador nem no original: 17.º-A - (Revogado.)",
+    "inserção depois de 181: parágrafo que não está no alterador nem no original: 17.º-B - (Revogado.)"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:640122:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 15,
+      "texto": "Escola Superior de Enfermagem de Artur Ravara - 35;\n\nEscola Superior de Enfermagem da Universidade da Madeira - 70.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 1297/2007, 1.º: acrescenta ao anexo dois estabelecimentos e as vagas; como o quadro do anexo vem em imagem, as duas linhas novas entram a seguir à unidade 15. O 2.º (entrada em vigor) não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

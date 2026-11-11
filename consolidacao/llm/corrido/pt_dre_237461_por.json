@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:237461:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 227/83 (alterador 3), no n.º 1 do artigo 49.º, revoga o Decreto-Lei n.º 44699 por inteiro; por isso nada se devolve, nem as alterações anteriores do Decreto-Lei n.º 49306.",
+  "instrucoes": [
+    "Alterador 1 (DL 44828): artigo único fixa a entrada em vigor do DL 44699 em 1 de Março de 1963. Não altera o texto (o art. 45.º não é modificado textualmente); não aplicado.",
+    "Alterador 2 (DL 49306), art. 3.º: o § único do art. 7.º passa a § 1.º e adita-se § 2.º. Não aplicado porque o diploma é depois revogado na totalidade.",
+    "Alterador 2 (DL 49306), art. 4.º: novas redacções dos arts. 8.º (§ único), 19.º, 20.º (corpo, § 2.º e novo § 3.º), 29.º, 33.º, 37.º, 41.º (n.º 2.º, alíneas a) e b), §§ 2.º e 3.º, novo § 5.º) e 42.º. Não aplicado porque o diploma é depois revogado na totalidade.",
+    "Alterador 2 (DL 49306), restantes artigos: alteram os DL 44698, 44700, 44701 e 45296, não o original; ignorados.",
+    "Alterador 3 (DL 227/83), art. 49.º, n.º 1: revoga o Decreto-Lei n.º 44699, de 17 de Novembro de 1962, por inteiro; registado em nao_aplicavel, sem mudanças devolvidas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
