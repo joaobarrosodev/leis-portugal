@@ -32,6 +32,18 @@ Nos termos do n.º 2 do artigo 12.º do [Decreto Legislativo Regional n.º 24-A/
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
+Aprovado em Conselho do Governo Regional em 20 de Março de 1997.
+
+Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
+
+Assinado em 10 de Abril de 1997.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
+
+ORGÂNICA DA DIRECÇÃO REGIONAL DO COMÉRCIO E INDÚSTRIA
+
 ### CAPÍTULO I — Natureza e atribuições
 
 ###### Artigo 1.º — Natureza
@@ -373,15 +385,3 @@ Os encargos resultantes da aplicação do presente diploma são suportados por d
 ###### Artigo 19.º — Regime retributivo
 
 Sem prejuízo do previsto no presente diploma, o regime retributivo do pessoal da DRCI é o constante do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e demais legislação e regulamentação complementares.
-
-Aprovado em Conselho do Governo Regional em 20 de Março de 1997.
-
-Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
-
-Assinado em 10 de Abril de 1997.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
-
-ORGÂNICA DA DIRECÇÃO REGIONAL DO COMÉRCIO E INDÚSTRIA

@@ -22,6 +22,12 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 É aprovado o Regulamento da Direcção-Geral dos Serviços Tutelares de Menores, que segue assinado pelo Ministro da Justiça.
 
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 20 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - João de Matos Antunes Varela.
+
+Regulamento da Direcção-Geral dos Serviços Tutelares de Menores
+
 ### CAPÍTULO I — Da competência, organização e distribuição dos serviços
 
 ###### Artigo 1.º
@@ -787,9 +793,3 @@ Aos funcionários que o requeiram ou que por exigência do serviço ou determina
 Na falta de regulamentação especial contida neste diploma, nomeadamente sobre provimento de cargos, organização e funcionamento dos serviços, são de observar, na parte aplicável, as disposições da lei orgânica da Direcção-Geral da Justiça e respectivo regulamento.
 
 Ministério da Justiça, 20 de Abril de 1962. - O Ministro da Justiça, João de Matos Antunes Varela.
-
-Publique-se e cumpra-se como nele se contém.
-
-Paços do Governo da República, 20 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - João de Matos Antunes Varela.
-
-Regulamento da Direcção-Geral dos Serviços Tutelares de Menores

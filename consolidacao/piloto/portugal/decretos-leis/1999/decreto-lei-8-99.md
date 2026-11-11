@@ -50,6 +50,20 @@ b) As disposições relativas ao estágio e inscrição, que se mantêm em vigor
 
 O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
+Visto e aprovado em Conselho de Ministros de 25 de Novembro de 1998. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim.
+
+Promulgado em 21 de Dezembro de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 30 de Dezembro de 1998.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+ESTATUTO DOS SOLICITADORES
+
 ### CAPÍTULO I — Disposições gerais
 
 ###### Artigo 1.º — Natureza e sede
@@ -833,17 +847,3 @@ A Câmara é representada em juízo e fora dele pelo presidente do conselho gera
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 88/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2003-240647), publicado em 2003-04-26.
-
-Visto e aprovado em Conselho de Ministros de 25 de Novembro de 1998. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim.
-
-Promulgado em 21 de Dezembro de 1998.
-
-Publique-se.
-
-O Presidente da República, JORGE SAMPAIO.
-
-Referendado em 30 de Dezembro de 1998.
-
-O Primeiro-Ministro, António Manuel de Oliveira Guterres.
-
-ESTATUTO DOS SOLICITADORES

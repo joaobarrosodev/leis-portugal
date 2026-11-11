@@ -226,7 +226,7 @@
     {
       "chave": "116.º",
       "epigrafe": "Militares dos QP",
-      "texto": "1 - Os militares dos QP servem as Forças Armadas como profissionais, com base num vínculo caracterizado pela sua permanência, e constituem factor da afirmação e perenidade dos valores da instituição militar.\n\n2 - Os militares dos QP servem as forças armadas como profissionais, com base num vínculo caracterizado pela sua permanência, e constituem o garante da afirmação e perenidade dos valores da instituição militar.",
+      "texto": "1 - São militares dos QP os oficiais, sargentes e praças que, tendo ingressado voluntariamente na carreira militar e adquirido formação profissional específica para o seu exercício, integram um quadro especial do ramo respectivo.\n\n2 - Os militares dos QP servem as Forças Armadas como profissionais, com base num vínculo caracterizado pela sua permanência, e constituem factor da afirmação e perenidade dos valores da instituição militar.\n\n3 - A condição de militar dos QP adquire-se com o ingresso no primeiro posto do respectivo quadro especial.",
       "alterador": 1
     },
     {
@@ -2211,48 +2211,80 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Art. 3.º, n.º 1 (artigo 276.º, n.º 1): o aditamento do posto de coronel aos postos das especialidades de pilotos (PIL), navegadores (NAV) «e outros» não se pôde aplicar, porque o quadro das especialidades e postos só vem em imagem («ver documento original») e a lista das especialidades abrangidas («e outros») é indeterminada; aplicou-se apenas o n.º 2 do art. 3.º (eliminação do n.º 2 e passagem do n.º 1 a corpo do artigo). Art. 7.º: a nova designação do título IX do livro I («Reclamações e recursos em matéria administrativa») é epígrafe de título, não de artigo, e o texto atual não traz títulos; não aplicada. | Alterador 6 (Lei n.º 25/2000), artigo 5.º: repristina o regime dos artigos 12.º a 15.º do Decreto-Lei n.º 34-A/90 até se esgotarem os efeitos jurídicos. É uma repristinação de vigência, não uma alteração textual, e o texto atual do pedido só traz os artigos do Estatuto anexo (1.º a 440.º), não os artigos 12.º a 15.º do próprio decreto-lei; nada há a mudar no texto. | Alterador 7 (Decreto-Lei n.º 261/2009): não contém nenhuma instrução textual dirigida ao Decreto-Lei n.º 34-A/90. Fixa efectivos dos quadros permanentes (art. 1.º e mapa anexo, só em imagem), revoga o Decreto-Lei n.º 202/93 (outro diploma) e, no n.º 4 do art. 2.º, suspende até 31 de Dezembro de 2014 a aplicação do n.º 3 do artigo 174.º do Estatuto dos Militares das Forças Armadas — suspensão temporária de vigência, alteração que não é textual (e o artigo 174.º do texto atual, 'Reforma', nem sequer tem um n.º 3, pelo que a referência parece visar o EMFAR na redação de 1999). Nada foi alterado. Alterador 8 (Declaração de Rectificação n.º 2564/2010): rectifica a declaração de rectificação n.º 2346/2010, um acto individual de mudança de situação de um sargento-mor publicado na 2.ª série; limita-se a citar a alínea e) do artigo 11.º do Decreto-Lei n.º 34-A/90 e não altera nenhum texto do diploma. Nada foi alterado.",
+  "titulos": [
+    {
+      "atual": "## TÍTULO IX — Reclamações e recursos",
+      "novo": "## TÍTULO IX — Reclamações e recursos em matéria administrativa",
+      "alterador": 1
+    },
+    {
+      "atual": "## LIVRO III — Do serviço militar obrigatório",
+      "novo": "## LIVRO III — Do serviço efectivo normal",
+      "alterador": 2
+    },
+    {
+      "atual": "## TÍTULO II — Da Marinha",
+      "novo": null,
+      "alterador": 2
+    },
+    {
+      "atual": "## TÍTULO III — Do Exército",
+      "novo": null,
+      "alterador": 2
+    },
+    {
+      "atual": "## TÍTULO IV — Da Força Aérea",
+      "novo": null,
+      "alterador": 2
+    },
+    {
+      "atual": "## LIVRO IV — Do regime de contrato",
+      "novo": "## LIVRO IV — Dos regimes de voluntariado e de contrato",
+      "alterador": 2
+    },
+    {
+      "atual": "## TÍTULO II — Da Marinha",
+      "novo": "## TÍTULO II — Do regime de contrato",
+      "alterador": 2
+    },
+    {
+      "atual": "## TÍTULO III — Do Exército",
+      "novo": null,
+      "alterador": 2
+    },
+    {
+      "atual": "## TÍTULO IV — Da Força Aérea",
+      "novo": null,
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Art. 3.º, n.º 1, da Lei n.º 27/91: o aditamento do posto de coronel aos postos das especialidades de pilotos, navegadores e outros no n.º 1 do artigo 276.º (agora 275.º) não foi aplicado, porque o quadro de especialidades e postos só existe em imagem ('ver documento original'); aplicou-se só a eliminação do n.º 2 e a passagem do n.º 1 a corpo. Art. 5.º, n.º 3 (as remissões para os artigos 111.º e seguintes entendem-se feitas aos artigos 110.º e seguintes) é regra de interpretação, não alteração textual: as remissões nos textos não foram reescritas. | Títulos de divisão dos livros III e IV que repetem linhas anteriores do texto atual, não devolvidos por não se poderem identificar sem ambiguidade só pela linha: no livro III, '## TÍTULO I' e '## Parte comum' (eliminados pela nova redação do livro III, que não tem títulos); no livro IV, '## TÍTULO I' passa a '## TÍTULO I — Do regime de voluntariado' e '## Parte comum' é eliminado. São a 2.ª e a 3.ª ocorrência de '## TÍTULO I' e a 5.ª e a 6.ª de '## Parte comum'; as anteriores (livros I e II) não mudam. Os pares '## TÍTULO II — Da Marinha', '## TÍTULO III — Do Exército' e '## TÍTULO IV — Da Força Aérea' vão em 'titulos' pela ordem do texto (1.ª ocorrência no livro III, 2.ª no livro IV). | Lei n.º 25/2000 (alterador 6), art. 5.º: repristina o regime dos artigos 12.º a 15.º do Decreto-Lei n.º 34-A/90 (normas do decreto preambular, que não constam do texto atual) até se esgotarem os efeitos; não é alteração textual. Os restantes artigos da Lei n.º 25/2000 alteram o Decreto-Lei n.º 236/99 e o seu EMFAR, não o original. | Alterador 7 (DL 261/2009): fixa efectivos dos QP e revoga o DL 202/93; o art. 2.º, n.º 4, apenas suspende até 31/12/2014 a aplicação do n.º 3 do artigo 174.º do EMFAR (suspensão temporária, não alteração textual, e dirigida ao EMFAR vigente, não ao texto deste diploma). Alterador 8 (Declaração de Rectificação n.º 2564/2010): rectifica uma declaração de rectificação de um acto individual de passagem à reforma; não contém qualquer instrução dirigida ao texto do original.",
   "instrucoes": [
-    "Art. 1.º: nova redação de 71 artigos (3.º, 4.º, 7.º a 12.º, 14.º, 26.º, 28.º, 36.º, 41.º, 43.º, 45.º a 47.º, 56.º, 57.º, 62.º, 64.º, 66.º, 67.º, 70.º, 85.º, 87.º, 89.º, 93.º, 99.º, 108.º, 109.º, 111.º, 112.º, 116.º, 117.º, 119.º a 121.º, 124.º, 126.º, 127.º, 130.º, 139.º, 142.º, 145.º, 153.º, 162.º, 174.º, 180.º, 184.º, 202.º, 205.º a 207.º, 209.º, 249.º, 286.º, 310.º, 342.º, 346.º, 352.º, 376.º, 384.º, 391.º, 395.º, 396.º, 410.º, 415.º, 424.º, 431.º e 438.º, na numeração original): aplicada letra a letra; «...» mantém o texto atual da unidade (número com as suas alíneas, ou só o proémio quando a redação nova enumera as alíneas), «(O corpo do artigo.)» e «(O n.º N do artigo.)» renumeram o texto atual; epígrafes «[...]» mantidas; as ligações markdown do pedido foram reduzidas ao seu texto (ex.: «Lei n.º 30/87»).",
-    "Art. 1.º, artigo 117.º: a redação nova só tem os n.os 1 e 2 («2 - ...» mantém o atual n.º 2); o antigo n.º 3 deixa de constar, por aplicação literal.",
-    "Art. 2.º (artigo 246.º): alínea a) — substituídos os parágrafos das funções de justiça e das funções em estados-maiores; alíneas b), c) e d) — aditados «Exercício de funções diplomáticas de Portugal no estrangeiro;» e «Exercício de funções de justiça;» antes do parágrafo das funções em estados-maiores.",
-    "Art. 3.º (artigo 276.º): eliminado o n.º 2 e o n.º 1 passou a corpo do artigo; o aditamento do posto de coronel ao quadro não se aplicou (ver nao_aplicavel).",
-    "Art. 4.º (artigo 284.º): alínea b) — primeiro parágrafo substituído e aditado in fine o parágrafo das missões militares; alíneas c), d), e), f) e h) — aditados in fine os dois parágrafos (vogal do STM/comandante funcional/chefia em estados-maiores; missões militares junto de representações diplomáticas).",
-    "Art. 5.º: eliminado o artigo 110.º (já «(Revogado.)» no texto atual) e renumerados os artigos 111.º a 440.º para 110.º a 439.º: cada chave de 110.º a 439.º recebe a epígrafe e o texto (já com as alterações dos arts. 1.º a 4.º) do artigo seguinte na numeração antiga; nenhuma chave desaparece, por isso «removidos» vai vazio. O n.º 3 (remissões a 111.º e seguintes entendem-se feitas a 110.º e seguintes) é regra interpretativa: o texto das remissões não foi alterado.",
-    "Art. 6.º: aditado o artigo 440.º «Suspensão do artigo 166.º».",
-    "Art. 7.º: nova designação do título IX — não aplicada (ver nao_aplicavel).",
-    "O texto atual do antigo 440.º (agora 439.º) inclui, a seguir ao corpo, a assinatura ministerial e a nota «Do ANEXO I ao ANEXO III»; manteve-se tal como está no texto atual.",
-    "Art. 1.º do DL 157/92: nova redação do 3.º (epígrafe e corpo novos, cinco alíneas) — aplicada.",
-    "Art. 1.º: nova redação do 5.º (corpo único) — aplicada; epígrafe mantida.",
-    "Art. 1.º: n.º 1 a 5 novos do 7.º — aplicados (ligações markdown ao DR reduzidas ao texto 'Lei n.º 30/87'); epígrafe mantida.",
-    "Art. 1.º: n.º 1 novo do 31.º; n.º 2 mantido — aplicado.",
-    "Art. 1.º: n.º 4 novo do 45.º; n.os 1, 2, 3, 5 e 6 mantidos — aplicado.",
-    "Art. 1.º: n.º 2 novo do 106.º; n.º 1 mantido — aplicado.",
-    "Art. 1.º: n.º 1 novo do 145.º; n.os 2 e 3 mantidos — aplicado.",
-    "Art. 1.º: n.os 1 e 3 novos do 204.º; n.º 2 mantido — aplicado.",
-    "Art. 1.º: nova redação integral do 296.º (três números) — aplicada.",
-    "Art. 1.º: nova redação integral do 304.º (corpo com três alíneas) — aplicada; epígrafe mantida.",
-    "Art. 1.º: nova redação integral do 338.º (três números) — aplicada; epígrafe mantida.",
-    "Art. 1.º: novo livro III (artigos 349.º a 364.º) substitui os atuais 349.º a 364.º — aplicados letra a letra, incluindo gralhas do alterador ('SE', 'SEM', 'prepração'). O artigo que o alterador numera 'Artigo 251.º — Funções', entre o 350.º e o 352.º, foi tratado como 351.º (gralha evidente na numeração).",
-    "Art. 1.º: novo livro IV (artigos 365.º a 408.º, títulos I e II) substitui os atuais 365.º a 408.º — aplicados letra a letra (incluindo 'valorizaão' e falta de ponto final no n.º 1 do 381.º).",
-    "Art. 2.º: aditado o 5.º-A, 'Militar em RV' — aplicado.",
-    "Art. 3.º: revogados os artigos 409.º e seguintes, exceto o 440.º — os 409.º a 439.º ficam '(Revogado.)' (31 artigos); 440.º mantido sem alteração.",
-    "Art. 4.º (disposições transitórias): não altera o texto do original — ignorado.",
-    "Lei n.º 15/92, art. 1.º, n.º 1: nova redação da alínea c) do artigo 175.º do EMFAR (Reforma: a) ..., b) ..., c) nova, d) ...). No texto atual as chaves estão desfasadas de uma unidade face à numeração oficial (o 157.º remete para o 'artigo 175.º' para a reforma; o 238.º, 300.º e 343.º remetem para o 'artigo 184.º' para o abate aos QP, que é a chave 183.º; a própria Lei 15/92 remete para a 'alínea d) do artigo 175.º' = reforma aos 60 anos e 36 de serviço e para a 'alínea d) do n.º 1 do artigo 184.º' = abate a requerimento). O artigo com a epígrafe 'Reforma' e a estrutura a)–d) é a chave 174.º (a chave 175.º é 'Reforma extraordinária', só com a)–c)). Aplicada a nova alínea c) à chave 174.º; as alíneas a), b) e d) mantêm o texto atual ('...').",
-    "Lei n.º 15/92, art. 1.º, n.os 2 a 4, e arts. 2.º a 10.º: regime transitório de passagem gradual à reforma, reforma antecipada, bonificação, indemnização, abate aos quadros, cessação de funções, passagem à reserva em 1992-1993, exceções e produção de efeitos. São normas autónomas da própria lei que não alteram o texto do original; nada a aplicar.",
-    "Alterador 4 (DL 224-A/96, art. 3.º, n.º 2, al. p)): mantém em vigor o artigo 23.º do Estatuto (isenção de custas); não altera o texto, nada a fazer.",
-    "Alterador 5 (DL 175/97, art. 1.º): nova redação do artigo 101.º (Licença para férias) — aplicada, copiada letra a letra.",
-    "Alterador 5 (DL 175/97, art. 1.º): nova redação do artigo 105.º (Licença por casamento) — aplicada, copiada letra a letra.",
-    "Alterador 5, art. 2.º (produção de efeitos a 1 de Janeiro de 1997): não é alteração textual do original, ignorada.",
-    "Alterador 6, artigo 1.º: nova redação dos artigos 2.º, 9.º e 20.º do Decreto-Lei n.º 236/99 - altera outro diploma; ignorada (os n.os 4 a 6 do artigo 9.º apenas referem os artigos 12.º e 13.º do DL 34-A/90, sem os alterar).",
-    "Alterador 6, artigo 2.º: nova redação dos artigos 3.º, 44.º, 64.º, 81.º, 85.º, 94.º, 121.º, 152.º, 218.º, 250.º, 264.º e 279.º do Estatuto aprovado pelo Decreto-Lei n.º 236/99 - altera outro diploma (o novo EMFAR), não o Estatuto do DL 34-A/90; ignorada.",
-    "Alterador 6, artigo 3.º: aditamento do artigo 94.º-A ao Estatuto aprovado pelo Decreto-Lei n.º 236/99 - altera outro diploma; ignorada.",
-    "Alterador 6, artigo 4.º: revoga o artigo 5.º do Decreto-Lei n.º 236/99 e o artigo 123.º do EMFAR anexo a esse decreto-lei - altera outro diploma; ignorada.",
-    "Alterador 6, artigo 5.º: repristinação dos artigos 12.º a 15.º do Decreto-Lei n.º 34-A/90 e de normas da Lei n.º 15/92 - não é alteração textual; registada em nao_aplicavel, sem mudança ao texto.",
-    "Alterador 7, art. 1.º e anexo: fixa efectivos dos QP em mapa (imagem) — regime próprio, não altera o original; ignorado.",
-    "Alterador 7, art. 2.º n.º 4: suspende a aplicação do n.º 3 do art. 174.º do EMFAR até 31-12-2014 — suspensão de vigência, não textual; registado em nao_aplicavel, texto inalterado.",
-    "Alterador 7, art. 3.º: revoga o Decreto-Lei n.º 202/93 — outro diploma; ignorado.",
-    "Alterador 8: rectificação de declaração de rectificação sobre a situação individual de um militar, só cita o art. 11.º al. e) do DL 34-A/90 — não altera o original; ignorado."
+    "Art. 1.º: nova redação dos artigos 3.º, 4.º, 7.º-12.º, 14.º, 26.º, 28.º, 36.º, 41.º, 43.º, 45.º-47.º, 56.º, 57.º, 62.º, 64.º, 66.º, 67.º, 70.º, 85.º, 87.º, 89.º, 93.º, 99.º, 108.º, 109.º (aplicada com a numeração antiga; '...' mantém o texto atual; '(O corpo do artigo.)' passa o corpo antigo a número).",
+    "Art. 1.º: artigo 28.º com redação só do corpo e alíneas a)-c) (sem '...' para os n.os 2-4): aplicado tal como vem, os antigos n.os 2-4 deixam de constar.",
+    "Art. 1.º: artigos 111.º, 112.º, 116.º, 117.º, 119.º-121.º, 124.º, 126.º, 127.º, 130.º, 139.º, 142.º, 145.º, 153.º, 162.º, 174.º, 180.º, 184.º, 202.º, 205.º-207.º, 209.º, 249.º, 286.º, 310.º, 342.º, 346.º, 352.º, 376.º, 384.º, 391.º, 395.º, 396.º, 410.º, 415.º, 424.º, 431.º, 438.º alterados e depois renumerados (-1) pelo art. 5.º.",
+    "Art. 1.º, artigo 117.º: a nova redação vem como '1 -' seguida de '2 - ...', mas é o texto do n.º 2 (servem como profissionais... 'factor' em vez de 'o garante'); aplicada ao n.º 2, mantendo os n.os 1 e 3 (sai como 116.º).",
+    "Art. 1.º, artigo 207.º: novo n.º 1; antigos n.os 1 e 2 passam a 2 e 3 (sai como 206.º).",
+    "Art. 2.º: artigo 246.º (sai como 245.º): alínea a) substituídos os parágrafos de justiça e estados-maiores; nas alíneas b), c) e d) aditados os parágrafos de funções diplomáticas e de justiça antes do parágrafo dos estados-maiores.",
+    "Art. 3.º: artigo 276.º (sai como 275.º): eliminado o n.º 2 e o n.º 1 passa a corpo; aditamento do posto de coronel ao quadro em imagem não aplicado.",
+    "Art. 4.º: artigo 284.º (sai como 283.º): alínea b) 1.º parágrafo substituído e aditado in fine o das missões militares; alíneas c), d), e), f) e h) com os dois parágrafos aditados in fine.",
+    "Art. 5.º: eliminado o artigo 110.º e renumerados os artigos 111.º a 440.º para 110.º a 439.º (todos devolvidos com a chave nova); a chave 110.º passa a ter o antigo 111.º, por isso nenhuma chave desaparece.",
+    "Art. 6.º: aditado o artigo 440.º 'Suspensão do artigo 166.º'.",
+    "Art. 7.º: título IX do livro I passa a 'Reclamações e recursos em matéria administrativa' (em titulos).",
+    "Art. 1.º: nova redação dos artigos 3.º (com nova epígrafe 'Formas de prestação de serviço'), 5.º, 7.º, 31.º (n.º 1; n.º 2 mantido), 45.º (n.º 4; restantes mantidos), 106.º (n.º 2), 145.º (n.º 1; n.os 2 e 3 mantidos), 204.º (n.os 1 e 3; n.º 2 mantido), 296.º, 304.º e 338.º (epígrafes '[...]' mantidas do texto atual): aplicado.",
+    "Art. 1.º: nova redação do livro III (artigos 349.º a 364.º) e do livro IV (artigos 365.º a 408.º): cada artigo 349.º-408.º substituído pela nova redação, com as epígrafes novas. O artigo que o alterador numera '251.º — Funções', entre o 350.º e o 352.º do livro III, foi tratado como gralha de 351.º (o artigo 251.º atual, 'Tempo de navegação', não é tocado).",
+    "Art. 1.º: novos títulos dos livros III ('Do serviço efectivo normal') e IV ('Dos regimes de voluntariado e de contrato'); o livro III deixa de ter títulos e o livro IV passa a ter só 'TÍTULO I — Do regime de voluntariado' e 'TÍTULO II — Do regime de contrato': devolvidos em 'titulos' os não ambíguos; ver nao_aplicavel.",
+    "Art. 2.º: aditado o artigo 5.º-A 'Militar em RV': aplicado.",
+    "Art. 3.º: revogados os artigos 409.º e seguintes, com excepção do 440.º: 409.º a 439.º devolvidos como '(Revogado.)'; 440.º mantido.",
+    "Art. 4.º: disposições transitórias, não alteram o texto do Estatuto: não aplicável ao texto.",
+    "Alterador 3 (Lei n.º 15/92), art. 1.º, n.º 1: nova redação da alínea c) do 'artigo 175.º' (Passagem à reforma: 'nove anos' de reserva fora da efectividade passa a 'cinco anos'); no texto atual essa alínea está no artigo com a chave 174.º (Reforma), o mesmo que a Lei n.º 25/2000 cita como 174.º; aplicada ao 174.º, mantendo a), b) e d).",
+    "Alterador 3, arts. 1.º, n.os 2 a 4, e 2.º a 10.º: regime transitório e medidas avulsas (reforma antecipada, bonificação, indemnização, passagem à reserva), sem alteração textual do original; ignorados.",
+    "Alterador 4 (Decreto-Lei n.º 224-A/96), art. 3.º, n.º 2, alínea p): mantém em vigor o artigo 23.º do Estatuto; nada a alterar.",
+    "Alterador 5 (Decreto-Lei n.º 175/97), art. 1.º: nova redação dos artigos 101.º (Licença para férias) e 105.º (Licença por casamento); aplicadas integralmente.",
+    "Alterador 6 (Lei n.º 25/2000): arts. 1.º a 4.º alteram o Decreto-Lei n.º 236/99 e o EMFAR por ele aprovado (outro diploma); ignorados. Art. 5.º repristina os artigos 12.º a 15.º do decreto preambular do original: sem efeito textual, registado em nao_aplicavel.",
+    "Alterador 7, art. 1.º-3.º: efectivos dos QP e revogação do DL 202/93 - não altera o original; nada aplicado",
+    "Alterador 7, art. 2.º, n.º 4: suspensão temporária do n.º 3 do art. 174.º do EMFAR - não textual; nada aplicado",
+    "Alterador 8: rectificação de acto administrativo individual que cita o art. 11.º do DL 34-A/90 - sem instrução sobre o texto; nada aplicado"
   ],
   "modelo": "claude-fable-5-1",
   "pedido": "completo",
@@ -2262,7 +2294,7 @@
       "alteradores": [
         1
       ],
-      "chars": 286619,
+      "chars": 290823,
       "artigos": 362
     },
     {
@@ -2270,41 +2302,27 @@
       "alteradores": [
         2
       ],
-      "chars": 318738,
+      "chars": 323195,
       "artigos": 103
     },
     {
       "n": 3,
       "alteradores": [
-        3
+        3,
+        4,
+        5,
+        6
       ],
-      "chars": 287073,
-      "artigos": 1
+      "chars": 314139,
+      "artigos": 3
     },
     {
       "n": 4,
       "alteradores": [
-        4,
-        5
-      ],
-      "chars": 285747,
-      "artigos": 2
-    },
-    {
-      "n": 5,
-      "alteradores": [
-        6
-      ],
-      "chars": 288425,
-      "artigos": 0
-    },
-    {
-      "n": 6,
-      "alteradores": [
         7,
         8
       ],
-      "chars": 282009,
+      "chars": 286464,
       "artigos": 0
     }
   ],

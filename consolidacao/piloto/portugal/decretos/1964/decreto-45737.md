@@ -32,6 +32,14 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 É aprovado o Estatuto do Corpo de Polícia de Segurança Pública da Guiné, que faz parte integrante deste diploma e vai assinado pelo Ministro do Ultramar.
 
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 29 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
+
+Para ser publicado no Boletim Oficial da Guiné. - Peixoto Correia.
+
+ESTATUTO DO CORPO DE POLÍCIA DE SEGURANÇA PÚBLICA DA GUINÉ
+
 ### CAPÍTULO I — Da organização do Corpo de Polícia de Segurança Pública
 
 #### SECÇÃO I — Disposições preliminares
@@ -465,11 +473,3 @@ Mapa dos efectivos e categorias do pessoal do Corpo de Polícia de Segurança P�
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1964/05/12700/07290733.pdf)
 
 Ministério do Ultramar, 29 de Maio de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.
-
-Publique-se e cumpra-se como nele se contém.
-
-Paços do Governo da República, 29 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
-
-Para ser publicado no Boletim Oficial da Guiné. - Peixoto Correia.
-
-ESTATUTO DO CORPO DE POLÍCIA DE SEGURANÇA PÚBLICA DA GUINÉ

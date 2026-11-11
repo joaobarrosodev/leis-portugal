@@ -44,6 +44,18 @@ Assim, ao abrigo do disposto no n.º 1, alínea d), do artigo 229.º da Constitu
 
 O presente diploma entra imediatamente em vigor.
 
+Aprovado em Conselho do Governo Regional em 10 de Julho de 1997.
+
+Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
+
+Assinado em 29 de Julho de 1997.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
+
+ORGÂNICA DA DIRECÇÃO REGIONAL DO PLANEAMENTO
+
 ### CAPÍTULO I — Natureza e atribuições
 
 ###### Artigo 1.º — Natureza
@@ -647,15 +659,3 @@ O regime aplicável ao pessoal da DRP é o genericamente estabelecido para os tr
 O quadro de pessoal anexo ao [Decreto Regulamentar Regional n.º 14-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-a-1997-363920), de 29 de Julho, é alterado de acordo com o mapa anexo ao presente diploma.
 
 > Aditado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30.
-
-Aprovado em Conselho do Governo Regional em 10 de Julho de 1997.
-
-Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
-
-Assinado em 29 de Julho de 1997.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
-
-ORGÂNICA DA DIRECÇÃO REGIONAL DO PLANEAMENTO

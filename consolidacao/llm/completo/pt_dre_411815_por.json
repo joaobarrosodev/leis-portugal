@@ -2,31 +2,19 @@
   "id": "pt:dre:411815:por",
   "artigos": [
     {
-      "chave": "56.º",
-      "epigrafe": "Qualificação para o exercício de outras funções educativas",
-      "texto": "1 - A qualificação para o exercício de outras funções ou actividades educativas especializadas por docentes integrados na carreira com nomeação definitiva, nos termos do artigo 36.º da Lei de Bases do Sistema Educativo, adquire-se pela frequência, com aproveitamento, de cursos de formação especializada realizados em estabelecimentos de ensino superior para o efeito competentes nas seguintes áreas:\n\na) Educação Especial;\n\nb) Administração Escolar;\n\nc) Administração Educacional;\n\nd) Animação Sócio-Cultural;\n\ne) Educação de Adultos;\n\nf) Orientação Educativa;\n\ng) Supervisão Pedagógica e Formação de Formadores;\n\nh) Gestão e Animação da Formação;\n\ni) Comunicação Educacional e Gestão da Informação;\n\nj) Inspecção da Educação.\n\n2 - Constitui ainda qualificação para o exercício de outras funções educativas a aquisição, por docentes profissionalizados integrados na carreira, do grau de mestre e de doutor nas áreas referidas no número anterior.\n\n3 - Podem ainda ser definidas outras áreas de formação especializada, tomando em consideração as necessidades de desenvolvimento do sistema educativo, por despacho do membro do Governo responsável pela área da educação.\n\n4 - Os cursos a que se refere o n.º 1 do presente artigo serão definidos por despacho do Ministro da Educação.",
-      "alterador": 7
-    },
-    {
-      "chave": "57.º",
-      "epigrafe": "Exercício de outras funções educativas",
-      "texto": "1 - O docente que se encontre qualificado para o exercício de outras funções educativas, nos termos do artigo anterior, é obrigado ao desempenho efectivo dessas mesmas funções quando para tal tenha sido eleito ou designado, salvo nos casos em que, por despacho do Ministro da Educação, sejam reconhecidos motivos atendíveis e fundamentados que o incapacitem para aquele exercício.\n\n2 - A recusa pelo docente que se encontre qualificado para o exercício de outras funções educativas, nos termos do n.º 1 do artigo anterior, do desempenho efectivo dessas mesmas funções, quando para tal tenha sido eleito ou designado, determina, na primeira avaliação do desempenho a ela subsequente, a atribuição da menção qualitativa de Insuficiente.\n\n3 - (Revogado.)\n\n4 - (Revogado.)",
-      "alterador": 7
-    },
-    {
-      "chave": "4.º",
+      "chave": "4.º#2",
       "epigrafe": "Direitos profissionais",
       "texto": "1 - São garantidos ao pessoal docente os direitos estabelecidos para os funcionários e agentes do Estado em geral, bem como os direitos profissionais decorrentes do presente Estatuto.\n\n2 - São direitos profissionais específicos do pessoal docente:\n\na) Direito de participação no processo educativo;\n\nb) Direito à formação e informação para o exercício da função educativa;\n\nc) Direito ao apoio técnico, material e documental;\n\nd) Direito à segurança na actividade profissional.\n\ne) Direito à consideração e ao reconhecimento da sua autoridade pelos alunos, suas famílias e demais membros da comunidade educativa;\n\nf) Direito à colaboração das famílias e da comunidade educativa no processo de educação dos alunos.\n\ng) Direito à negociação colectiva nos termos legalmente estabelecidos.",
       "alterador": 10
     },
     {
-      "chave": "5.º",
+      "chave": "5.º#2",
       "epigrafe": "Direito de participação no processo educativo",
       "texto": "1 - O direito de participação exerce-se no quadro do sistema educativo, da escola e da relação com a comunidade.\n\n2 - O direito de participação, que pode ser exercido a título individual ou colectivo, nomeadamente através das organizações profissionais e sindicais do pessoal docente, compreende:\n\na) O direito a emitir opiniões e recomendações sobre as orientações e o funcionamento do estabelecimento de ensino e do sistema educativo;\n\nb) O direito a participar na definição das orientações pedagógicas ao nível do estabelecimento de ensino ou das suas estruturas de coordenação;\n\nc) O direito à autonomia técnica e científica e à liberdade de escolha dos métodos de ensino, das tecnologias e técnicas de educação e dos tipos de meios auxiliares de ensino mais adequados, no respeito pelo currículo nacional, pelos programas e pelas orientações programáticas curriculares ou pedagógicas em vigor;\n\nd) O direito a propor inovações e a participar em experiências pedagógicas, bem como nos respectivos processos de avaliação;\n\ne) O direito de eleger e ser eleito para órgãos colegiais ou singulares dos estabelecimentos de educação ou de ensino, nos casos em que a legislação sobre a sua gestão e administração o preveja.\n\n3 - O direito de participação pode ainda ser exercido, através das organizações profissionais e sindicais do pessoal docente, em órgãos que, no âmbito nacional, regional autónomo ou regional, prevejam a representação do pessoal docente.",
       "alterador": 7
     },
     {
-      "chave": "6.º",
+      "chave": "6.º#2",
       "epigrafe": "Direito a formação e informação para o exercício da função educativa",
       "texto": "1 - O direito à formação e informação para o exercício da função educativa é garantido:\n\na) Pelo acesso a acções de formação contínua regulares, destinadas a actualizar e aprofundar os conhecimentos e as competências profissionais dos docentes;\n\nb) Pelo apoio à autoformação dos docentes, de acordo com os respectivos planos individuais de formação.\n\n2 - Para efeitos do disposto no número anterior, o direito à formação e informação para o exercício da função educativa pode também visar objectivos de reconversão profissional, bem como de mobilidade e progressão na carreira.",
       "alterador": 3
@@ -64,7 +52,7 @@
     {
       "chave": "35.º",
       "epigrafe": "Conteúdo funcional",
-      "texto": "1 - As funções do pessoal docente são exercidas com responsabilidade profissional e autonomia técnica e científica, sem prejuízo do número seguinte.\n\n2 - O docente desenvolve a sua actividade profissional de acordo com as orientações de política educativa e observando as exigências do currículo nacional, dos programas e das orientações programáticas ou curriculares em vigor, bem como do projecto educativo da escola.\n\n3 - São funções do pessoal docente em geral:\n\na) Leccionar as disciplinas, matérias e cursos para que se encontra habilitado de acordo com as necessidades educativas dos alunos que lhe estejam confiados e no cumprimento do serviço docente que lhe seja atribuído;\n\nb) Planear, organizar e preparar as actividades lectivas dirigidas à turma ou grupo de alunos nas áreas disciplinares ou matérias que lhe sejam distribuídas;\n\nc) Conceber, aplicar, corrigir e classificar os instrumentos de avaliação das aprendizagens e participar no serviço de exames e reuniões de avaliação;\n\nd) Elaborar recursos e materiais didáctico-pedagógicos e participar na respectiva avaliação;\n\ne) Promover, organizar e participar em todas as actividades complementares, curriculares e extracurriculares, incluídas no plano de actividades ou projecto educativo da escola, dentro e fora do recinto escolar;\n\nf) Organizar, assegurar e acompanhar as actividades de enriquecimento curricular dos alunos;\n\ng) Assegurar as actividades de apoio educativo, executar os planos de acompanhamento de alunos determinados pela administração educativa e cooperar na detecção e acompanhamento de dificuldades de aprendizagem;\n\nh) Acompanhar e orientar as aprendizagens dos alunos, em colaboração com os respectivos pais e encarregados de educação;\n\ni) Facultar orientação e aconselhamento em matéria educativa, social e profissional dos alunos, em colaboração com os serviços especializados de orientação educativa;\n\nj) Participar nas actividades de avaliação da escola;\n\nl) Orientar a prática pedagógica supervisionada a nível da escola;\n\nm) Participar em actividades de investigação, inovação e experimentação científica e pedagógica;\n\nn) Organizar e participar, como formando ou formador, em acções de formação contínua e especializada;\n\no) Desempenhar as actividades de coordenação administrativa e pedagógica que não sejam exclusivas dos docentes posicionados no 4.º escalão ou superior.\n\n4 - As funções de coordenação, orientação, supervisão pedagógica e avaliação do desempenho são reservadas aos docentes posicionados no 4.º escalão ou superior, detentores, preferencialmente, de formação especializada.\n\n5 - Em casos excepcionais devidamente fundamentados, os docentes posicionados no 3.º escalão podem exercer as funções referidas no número anterior desde que detentores de formação especializada.\n\n6 - Os docentes dos dois últimos escalões da carreira, desde que detentores de formação especializada, podem candidatar-se, com possibilidade de renúncia a produzir efeitos no termo de cada ano escolar, a uma especialização funcional para o exercício exclusivo ou predominante das funções de supervisão pedagógica, gestão da formação, desenvolvimento curricular, avaliação do desempenho e administração escolar, em termos a definir por portaria do membro do Governo responsável pela área da educação.\n\n7 - As funções previstas no n.º 4 são atribuídas prioritariamente aos docentes referidos no número anterior.",
+      "texto": "1 - As funções do pessoal docente são exercidas com responsabilidade profissional e autonomia técnica e científica, sem prejuízo do número seguinte.\n\n2 - O docente desenvolve a sua actividade profissional de acordo com as orientações de política educativa e observando as exigências do currículo nacional, dos programas e das orientações programáticas ou curriculares em vigor, bem como do projecto educativo da escola.\n\n3 - São funções do pessoal docente em geral:\n\na) Leccionar as disciplinas, matérias e cursos para que se encontra habilitado de acordo com as necessidades educativas dos alunos que lhe estejam confiados e no cumprimento do serviço docente que lhe seja atribuído;\n\nb) Planear, organizar e preparar as actividades lectivas dirigidas à turma ou grupo de alunos nas áreas disciplinares ou matérias que lhe sejam distribuídas;\n\nc) Conceber, aplicar, corrigir e classificar os instrumentos de avaliação das aprendizagens e participar no serviço de exames e reuniões de avaliação;\n\nd) Elaborar recursos e materiais didáctico-pedagógicos e participar na respectiva avaliação;\n\ne) Promover, organizar e participar em todas as actividades complementares, curriculares e extracurriculares, incluídas no plano de actividades ou projecto educativo da escola, dentro e fora do recinto escolar;\n\nf) Organizar, assegurar e acompanhar as actividades de enriquecimento curricular dos alunos;\n\ng) Assegurar as actividades de apoio educativo, executar os planos de acompanhamento de alunos determinados pela administração educativa e cooperar na detecção e acompanhamento de dificuldades de aprendizagem;\n\nh) Acompanhar e orientar as aprendizagens dos alunos, em colaboração com os respectivos pais e encarregados de educação;\n\ni) Facultar orientação e aconselhamento em matéria educativa, social e profissional dos alunos, em colaboração com os serviços especializados de orientação educativa;\n\nj) Participar nas actividades de avaliação da escola;\n\nl) Orientar a prática pedagógica supervisionada a nível da escola;\n\nm) Participar em actividades de investigação, inovação e experimentação científica e pedagógica;\n\nn) Organizar e participar, como formando ou formador, em acções de formação contínua e especializada;\n\no) Desempenhar as actividades de coordenação administrativa e pedagógica que não sejam exclusivas dos docentes posicionados no 4.º escalão ou superior.\n\n4 - As funções de coordenação, orientação, supervisão pedagógica e avaliação do desempenho são reservadas aos docentes posicionados no 4.º escalão ou superior, detentores, preferencialmente, de formação especializada.\n\n5 - Em casos excepcionais devidamente fundamentados, os docentes posicionados no 3.º escalão podem exercer as funções referidas no número anterior desde que detentores de formação especializada.\n\n6 - Os docentes dos dois últimos escalões da carreira, desde que detentores de formação especializada, podem candidatar-se, com possibilidade de renúncia a produzir efeitos no termo de cada ano escolar, a uma especialização funcional para o exercício exclusivo ou predominante das funções de supervisão pedagógica, gestão da formação, desenvolvimento curricular, avaliação do desempenho e administração escolar, em termos a definir por portaria do membro do Governo responsável pela área da educação.\n\n7 - As funções previstas no n.º 4 são atribuídas prioritariamente aos docentes referidos no número anterior.\n\nSUBCAPÍTULO II\n\nCondições de progressão e acesso na carreira",
       "alterador": 10
     },
     {
@@ -167,6 +155,18 @@
       "chave": "53.º",
       "epigrafe": "Comissão de avaliação e garantias do processo",
       "texto": "(Revogado.)",
+      "alterador": 7
+    },
+    {
+      "chave": "56.º",
+      "epigrafe": "Qualificação para o exercício de outras funções educativas",
+      "texto": "1 - A qualificação para o exercício de outras funções ou actividades educativas especializadas por docentes integrados na carreira com nomeação definitiva, nos termos do artigo 36.º da Lei de Bases do Sistema Educativo, adquire-se pela frequência, com aproveitamento, de cursos de formação especializada realizados em estabelecimentos de ensino superior para o efeito competentes nas seguintes áreas:\n\na) Educação Especial;\n\nb) Administração Escolar;\n\nc) Administração Educacional;\n\nd) Animação Sócio-Cultural;\n\ne) Educação de Adultos;\n\nf) Orientação Educativa;\n\ng) Supervisão Pedagógica e Formação de Formadores;\n\nh) Gestão e Animação da Formação;\n\ni) Comunicação Educacional e Gestão da Informação;\n\nj) Inspecção da Educação.\n\n2 - Constitui ainda qualificação para o exercício de outras funções educativas a aquisição, por docentes profissionalizados integrados na carreira, do grau de mestre e de doutor nas áreas referidas no número anterior.\n\n3 - Podem ainda ser definidas outras áreas de formação especializada, tomando em consideração as necessidades de desenvolvimento do sistema educativo, por despacho do membro do Governo responsável pela área da educação.\n\n4 - Os cursos a que se refere o n.º 1 do presente artigo serão definidos por despacho do Ministro da Educação.",
+      "alterador": 7
+    },
+    {
+      "chave": "57.º",
+      "epigrafe": "Exercício de outras funções educativas",
+      "texto": "1 - O docente que se encontre qualificado para o exercício de outras funções educativas, nos termos do artigo anterior, é obrigado ao desempenho efectivo dessas mesmas funções quando para tal tenha sido eleito ou designado, salvo nos casos em que, por despacho do Ministro da Educação, sejam reconhecidos motivos atendíveis e fundamentados que o incapacitem para aquele exercício.\n\n2 - A recusa pelo docente que se encontre qualificado para o exercício de outras funções educativas, nos termos do n.º 1 do artigo anterior, do desempenho efectivo dessas mesmas funções, quando para tal tenha sido eleito ou designado, determina, na primeira avaliação do desempenho a ela subsequente, a atribuição da menção qualitativa de Insuficiente.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\nSUBCAPÍTULO II\n\nIntercomunicabilidade",
       "alterador": 7
     },
     {
@@ -436,17 +436,17 @@
     {
       "chave": "151.º",
       "epigrafe": "Revisão",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\nO Ministro da Educação, Roberto Artur da Luz Carneiro.",
       "alterador": 3
     },
     {
-      "chave": "1.º",
+      "chave": "1.º#2",
       "epigrafe": "Âmbito de aplicação",
       "texto": "1 - O Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, adiante designado por Estatuto, aplica-se aos docentes, qualquer que seja o nível, ciclo de ensino, grupo de recrutamento ou área de formação, que exerçam funções nas diversas modalidades do sistema de educação e ensino não superior, e no âmbito dos estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário na dependência do Ministério da Educação.\n\n2 - O presente Estatuto é ainda aplicável, com as necessárias adaptações, aos docentes em exercício efectivo de funções em estabelecimentos ou instituições de ensino dependentes ou sob tutela de outros ministérios.\n\n3 - Os professores do ensino português no estrangeiro bem como os docentes que se encontrem a prestar serviço em Macau ou em regime de cooperação nos países africanos de língua oficial portuguesa ou outros regem-se por normas próprias.",
       "alterador": 7
     },
     {
-      "chave": "2.º",
+      "chave": "2.º#2",
       "epigrafe": "Pessoal docente",
       "texto": "Para efeitos da aplicação do presente Estatuto, considera-se pessoal docente aquele que é portador de qualificação profissional para o desempenho de funções de educação ou de ensino, com caráter permanente, sequencial e sistemático ou a título temporário.",
       "alterador": 14
@@ -650,6 +650,12 @@
       "alterador": 13
     },
     {
+      "chave": "64.º-A",
+      "epigrafe": "Sistema de requalificação",
+      "texto": "1 - O regime jurídico da requalificação de trabalhadores em funções públicas é aplicado aos docentes inseridos na carreira, com as especificidades previstas em diploma próprio.\n\n2 - A colocação em situação de requalificação faz-se por lista nominativa que indica o vínculo e o índice remuneratório, aprovada por despacho do dirigente máximo do serviço responsável pela gestão dos recursos humanos da educação, a publicar no Diário da República.\n\n3 - O serviço responsável pela gestão dos recursos humanos da educação assume as competências de entidade gestora do sistema de requalificação.",
+      "alterador": 13
+    },
+    {
       "chave": "65.º",
       "epigrafe": "Concurso",
       "texto": "O concurso visa o preenchimento das vagas existentes nos quadros de agrupamento, escola não agrupada ou de zona pedagógica, podendo constituir ainda um instrumento de mudança dos docentes de um para outro quadro.",
@@ -670,7 +676,7 @@
     {
       "chave": "72.º",
       "epigrafe": "Transição entre níveis de ensino e grupos de recrutamento",
-      "texto": "1 - Os docentes podem transitar, por concurso, entre os diversos níveis ou ciclos de ensino previstos neste Estatuto e entre os grupos de recrutamento estabelecidos em legislação própria.\n\n2 - A transição fica condicionada à existência das qualificações profissionais exigidas para o nível, ciclo de ensino ou grupo de recrutamento a que o docente concorre.\n\n3 - (Revogado.)\n\n4 - A mudança de nível, ciclo ou grupo de recrutamento não implica por si alterações na situação jurídico-funcional já detida, contando-se, para todos os efeitos, o tempo de serviço já prestado na carreira.",
+      "texto": "1 - Os docentes podem transitar, por concurso, entre os diversos níveis ou ciclos de ensino previstos neste Estatuto e entre os grupos de recrutamento estabelecidos em legislação própria.\n\n2 - A transição fica condicionada à existência das qualificações profissionais exigidas para o nível, ciclo de ensino ou grupo de recrutamento a que o docente concorre.\n\n3 - (Revogado.)\n\n4 - A mudança de nível, ciclo ou grupo de recrutamento não implica por si alterações na situação jurídico-funcional já detida, contando-se, para todos os efeitos, o tempo de serviço já prestado na carreira.\n\nSUBCAPÍTULO II\n\nExercício de funções docentes por outros funcionários",
       "alterador": 7
     },
     {
@@ -706,7 +712,7 @@
     {
       "chave": "85.º",
       "epigrafe": "Tempo parcial",
-      "texto": "Sem prejuízo do disposto no n.º 1 do artigo 79.º, o pessoal docente dos 2.º e 3.º ciclos do ensino básico e do ensino secundário pode exercer funções em regime de tempo parcial, nos termos previstos para os demais funcionários e agentes da Administração Pública.",
+      "texto": "Sem prejuízo do disposto no n.º 1 do artigo 79.º, o pessoal docente dos 2.º e 3.º ciclos do ensino básico e do ensino secundário pode exercer funções em regime de tempo parcial, nos termos previstos para os demais funcionários e agentes da Administração Pública.\n\nSUBCAPÍTULO III\n\nFérias, faltas e licenças",
       "alterador": 7
     },
     {
@@ -816,46 +822,86 @@
       "epigrafe": "Quadros",
       "texto": "(Revogado.)",
       "alterador": 7
-    },
-    {
-      "chave": "64.º-A",
-      "epigrafe": "Sistema de requalificação",
-      "texto": "1 - O regime jurídico da requalificação de trabalhadores em funções públicas é aplicado aos docentes inseridos na carreira, com as especificidades previstas em diploma próprio.\n\n2 - A colocação em situação de requalificação faz-se por lista nominativa que indica o vínculo e o índice remuneratório, aprovada por despacho do dirigente máximo do serviço responsável pela gestão dos recursos humanos da educação, a publicar no Diário da República.\n\n3 - O serviço responsável pela gestão dos recursos humanos da educação assume as competências de entidade gestora do sistema de requalificação.",
-      "alterador": 13
     }
   ],
   "removidos": [
+    "141.º",
     "142.º",
     "143.º",
     "150.º"
   ],
-  "nao_aplicavel": "1) Chaves duplicadas no pedido: o texto atual traz dois artigos 1.º a 7.º (os do decreto-lei preambular e os do Estatuto anexo); os artigos 4.º, 5.º e 6.º devolvidos são os do Estatuto (epígrafes 'Direitos profissionais', 'Direito de participação no processo educativo', 'Direito a formação e informação...'), que são os visados pelo alterador 3, e não os do decreto preambular ('Ex-regentes escolares', 'Aplicação às regiões autónomas', 'Prevalência'). 2) Alterador 3, art. 53.º: a nova redação traz '3 - ...' mas o artigo 53.º atual só tem n.os 1 e 2 (cujo conteúdo passou para os n.os 2 e 3 do novo 52.º); sem texto atual para esse n.º 3, devolvi o 53.º só com os n.os 1 e 2. 3) Alterador 3, art. 131.º: no alterador a epígrafe e o corpo vêm colados numa só linha; separei em epígrafe 'Docentes titulares de habilitação para a docência' e corpo 'Aos docentes na situação de pré-carreira...'. 4) Alterador 3, art. 141.º: não é revogado nem renumerado por instrução expressa (só 142.º, 143.º e 150.º são realocados pelo art. 2.º), embora o seu conteúdo seja reproduzido no novo 127.º; mantive-o sem alteração. 5) Alterador 3, art. 6.º (deslocação de secções/subsecções/subcapítulo para antes dos artigos 36.º, 49.º e 129.º) e art. 7.º (versão integral republicada em anexo, não incluída no pedido): alterações estruturais sem efeito textual nos artigos, não aplicadas. 6) Alterador 4 (Acórdão TC n.º 153/2001): declara inconstitucional, com força obrigatória geral, o art. 37.º, n.os 2 e 3, 'na medida em que' exclui as ausências por greve; não é alteração textual e, além disso, o art. 37.º já tinha sido integralmente substituído pelo alterador 3 (sem n.os 2 e 3); nada aplicado. 7) Alterador 5 (Acórdão TC n.º 345/2002): declara inconstitucional, com força obrigatória geral, a alínea a) do n.º 1 do art. 22.º do Estatuto; não é uma instrução textual (não revoga nem dá nova redação), pelo que não alterei o art. 22.º. 8) Alterador 1 (DL 41/96): só revoga o art. 10.º do DL 409/89 (outro diploma) e, condicionalmente, 'as disposições ... na parte em que contrariem'; extingue os júris do art. 36.º (não textual); nada a aplicar ao original. | 1) Alterador 7, art. 3.º: a tabela remuneratória (anexo I) aditada ao Estatuto não vem no pedido em texto; alterador 9, art. 3.º, e alterador 10, art. 3.º: a nova redação do anexo (escalas indiciárias) vem só como '(ver documento original)' / ligação PDF - não aplicadas. 2) Alterador 7, art. 27.º (alterações sistemáticas: renomeação de capítulos/subcapítulos/secções e eliminação de secções) não é alteração ao texto de artigos - não aplicada. 3) Alterador 11 (DL 41/2012) só traz, nos artigos fornecidos, o objeto e a republicação; a regra do n.º 2 do art. 6.º ('Ministério da Educação' -> 'Ministério da Educação e Ciência') é uma regra de leitura para efeitos de republicação, não uma alteração dirigida a artigos concretos - não aplicada. 4) Ambiguidade de chaves: o texto atual tem dois blocos com chaves '1.º' a '7.º' (o decreto-lei preambular e o Estatuto); as redações devolvidas para '1.º', '2.º', '4.º' e '5.º' referem-se aos artigos do ESTATUTO (segunda ocorrência de cada chave), que são os visados pelos alteradores. 5) Art. 31.º: o alterador 9 renumera os n.os 3 a 15 para 4 a 16 sem referir o antigo n.º 16 (dispensa do período probatório dos contratados); mantive-o como n.º 17 por não ser revogado. 6) Art. 115.º: a nova redação do alterador 7 vai só até ao n.º 8 (antigos 4 e 5 passam a 7 e 8); os antigos n.os 6 e 7, já '(Revogado.)', não foram mantidos.",
+  "titulos": [
+    {
+      "atual": "### CAPÍTULO IV — Recrutamento e selecção",
+      "novo": "### CAPÍTULO IV — Recrutamento e selecção para lugar do quadro",
+      "alterador": 7
+    },
+    {
+      "atual": "### CAPÍTULO V — Quadros",
+      "novo": "### CAPÍTULO V — Quadros de pessoal docente",
+      "alterador": 7
+    },
+    {
+      "atual": "#### SECÇÃO I — Tempo de serviço efectivo em funções docentes",
+      "novo": null,
+      "alterador": 7
+    },
+    {
+      "atual": "#### SECÇÃO II — Avaliação do desempenho",
+      "novo": null,
+      "alterador": 7
+    },
+    {
+      "atual": "##### SUBSECÇÃO I — Avaliação ordinária",
+      "novo": null,
+      "alterador": 7
+    },
+    {
+      "atual": "##### SUBSECÇÃO II — Avaliação extraordinária",
+      "novo": null,
+      "alterador": 7
+    },
+    {
+      "atual": "#### SECÇÃO III — Aquisição de outras habilitações e capacitações",
+      "novo": null,
+      "alterador": 7
+    },
+    {
+      "atual": "### CAPÍTULO VIII — Remunerações",
+      "novo": "### CAPÍTULO VIII — Remunerações e outras prestações pecuniárias",
+      "alterador": 7
+    },
+    {
+      "atual": "#### SECÇÃO II — Interrupção da actividade docente",
+      "novo": "#### SECÇÃO II — Interrupção da actividade lectiva",
+      "alterador": 7
+    }
+  ],
+  "nao_aplicavel": "Alterador 3 (DL 1/98), art. 6.º, a) e b): mudança de posição da 'SECÇÃO I' do subcapítulo II do capítulo VII (passa a anteceder o 36.º) e da 'SUBSECÇÃO II — Avaliação extraordinária' (passa a anteceder o 49.º): são deslocações de títulos de divisão, não mudanças de designação, e o formato de 'titulos' não as exprime; não aplicadas (só o texto 'SUBCAPÍTULO II / Condições de acesso na carreira', que vinha no corpo do 36.º, passou para o fim do 35.º, e o 'SUBCAPÍTULO II / Disposições finais' do capítulo XIII ficou no fim do 128.º, antes do 129.º, como manda a alínea c)). Alterador 3, nova redação do 53.º traz '3 - ...', mas o 53.º atual só tem n.os 1 e 2: esse n.º 3 não foi criado. Alteradores 4 (Ac. TC 153/2001, art. 37.º n.os 2 e 3 'na medida em que' abrange ausências por greve) e 5 (Ac. TC 345/2002, inconstitucionalidade da alínea a) do n.º 1 do 22.º): declarações de inconstitucionalidade com força obrigatória geral, sem alteração textual; não aplicadas ao texto. | Alterador 9 (art. 3.º) e alterador 10 (art. 3.º e anexo): a nova tabela/anexo remuneratório do Estatuto só vem em imagem ('ver documento original'), não aplicada. Alterador 7 (art. 3.º): a tabela remuneratória do anexo I aditada não vem no pedido. Alterador 11 (art. 6.º, n.º 2): substituição de «Ministério/Ministro da Educação» por «... e Ciência» é só para efeitos de republicação; não aplicada ao texto. Alterador 7 (art. 27.º, n.º 1): o subcapítulo II do capítulo VII não é um título de divisão marcado; a nova designação «Condições de progressão e acesso na carreira» foi posta na linha de texto que o representa no fim do artigo 35.º. As secções I a III eliminadas (art. 27.º, n.º 2) levam consigo as subsecções I e II da secção II, também eliminadas.",
   "instrucoes": [
-    "Alterador 1 (DL 41/96), art. 3.º: revoga o art. 10.º do DL 409/89 (outro diploma) e revogação condicional — ignorado; art. 11.º extingue júris do art. 36.º — não textual; nada aplicado.",
-    "Alterador 2 (DL 105/97), art. 1.º: nova redação dos arts. 56.º e 57.º do Estatuto — aplicada (57.º n.º 3 mantém o texto atual).",
-    "Alterador 3 (DL 1/98), art. 1.º: nova redação dos arts. 4.º, 5.º, 6.º, 8.º, 9.º, 10.º, 31.º, 32.º, 35.º a 39.º, 41.º a 53.º, 59.º, 60.º, 67.º a 69.º, 71.º, 77.º, 79.º a 83.º, 87.º, 99.º, 102.º, 104.º, 105.º, 107.º, 108.º, 120.º, 121.º, 126.º, 127.º, 130.º a 132.º, 134.º e 135.º — aplicada; as unidades com '...' mantêm o texto atual; '[Anterior alínea x)]' e '(Anterior n.º 5.)'/'(Actual n.º 3.)' copiam o texto da unidade antiga com o novo número.",
-    "Alterador 3, art. 2.º: os arts. 125.º, 128.º, 129.º e 133.º passam a ter a redação (atual) dos arts. 134.º, 142.º, 143.º e 150.º — aplicada copiando epígrafe e corpo; 142.º, 143.º e 150.º vão em 'removidos' por terem sido realocados; 134.º recebe a nova redação do art. 1.º.",
-    "Alterador 3, art. 3.º: revoga os n.os 6 e 7 do art. 115.º e os arts. 136.º a 140.º, 144.º a 149.º e 151.º — aplicada ('(Revogado.)').",
-    "Alterador 3, arts. 6.º e 7.º: reposicionamento de secções e republicação em anexo — não textuais, não aplicados.",
-    "Alterador 4 (Acórdão 153/2001): declaração de inconstitucionalidade parcial do art. 37.º n.os 2 e 3 — não textual, não aplicada.",
-    "Alterador 5 (Acórdão 345/2002): declaração de inconstitucionalidade da alínea a) do n.º 1 do art. 22.º — não textual, não aplicada.",
-    "Alt. 6 (DL 121/2005) art. 1.º: nova redação dos arts. 80.º e 81.º - 81.º aplicado (alt. 6); 80.º superado pela redação integral do alt. 7.",
-    "Alt. 6 art. 5.º n.º 1 a): revogação do art. 121.º - aplicada '(Revogado.)'.",
-    "Alt. 6 arts. 2.º a 4.º e 6.º, e restantes alíneas do art. 5.º: normas próprias ou sobre outros diplomas - ignoradas.",
-    "Alt. 7 (DL 15/2007) art. 2.º: nova redação dos arts. 1.º, 2.º, 4.º, 5.º, 8.º a 15.º, 17.º, 22.º a 28.º, 30.º a 32.º, 34.º a 49.º, 54.º, 56.º, 57.º, 59.º, 61.º a 74.º, 76.º a 80.º, 82.º a 87.º, 91.º, 94.º, 100.º a 103.º, 108.º a 111.º, 115.º, 119.º, 132.º a 135.º - aplicada, com '...' preenchido pelo texto atual; várias delas depois alteradas pelos alts. 8 a 10.",
-    "Alt. 7 art. 3.º: aditamento dos arts. 10.º-A, 10.º-B e 10.º-C - aplicado; tabela remuneratória (anexo I) não aplicável.",
-    "Alt. 7 art. 25.º b): revogação dos arts. 18.º a 21.º, n.os 2 e 3 do 23.º, 50.º a 53.º, 55.º, n.os 3 e 4 do 57.º, 58.º, 60.º, als. c) e e) do 68.º, n.º 3 do 72.º, n.os 2 e 5 do 83.º, 92.º, 93.º, 95.º a 98.º, 122.º, 124.º a 126.º, 128.º, 130.º, 131.º e n.º 2 do 132.º - aplicada (artigos inteiros a '(Revogado.)', números/alíneas marcados dentro das novas redações).",
-    "Alt. 7 arts. 27.º e 28.º (alterações sistemáticas, republicação) e restantes alíneas do 25.º (outros diplomas): não aplicáveis/ignoradas.",
-    "Alt. 8 (DL 35/2007) art. 13.º: nova redação dos arts. 29.º (n.os 3 e 4) e 33.º (passa a 2 números) - aplicada. Arts. 1.º a 12.º, 14.º a 17.º: regime próprio e alteração ao DL 20/2006 - ignorados.",
-    "Alt. 9 (DL 270/2009) art. 2.º: nova redação dos arts. 16.º, 22.º (f), n.os 7 a 10), 31.º (n.os 2 e 3 novos, renumeração), 37.º (n.º 3 e 8 novos, renumeração), 38.º, 48.º (n.º 1 novo, renumeração), 63.º (n.os 1 e 4), 69.º (n.º 2 novo, renumeração) e 111.º (n.º 2 b)) - aplicada; 37.º, 38.º e 48.º depois reescritos pelo alt. 10. Art. 3.º (anexo) não aplicável; art. 10.º republicação ignorada.",
-    "Alt. 10 (DL 75/2010) art. 2.º: nova redação dos arts. 4.º (g), 13.º, 17.º, 24.º, 31.º, 34.º, 35.º, 36.º, 37.º, 38.º, 40.º, 41.º, 42.º, 43.º, 45.º, 46.º, 47.º, 48.º, 54.º, 94.º, 102.º, 132.º e 133.º - aplicada.",
-    "Alt. 10 art. 18.º a): revogação do n.º 3 do 26.º, n.º 3 do 34.º, n.º 6 do 37.º, n.º 5 do 40.º, n.º 7 do 42.º, n.º 6 do 43.º, art. 44.º, n.os 1 e 5 a 8 do 46.º e n.º 4 do 94.º - aplicada. Arts. 3.º (anexo) não aplicável; 4.º a 17.º, 19.º: normas transitórias próprias - ignoradas.",
-    "Alt. 11 (DL 41/2012): só objeto e republicação nos artigos fornecidos - nada a aplicar ao texto dos artigos.",
-    "Alt. 12 (DL 146/2013) art. 2.º: nova redação do art. 2.º e da alínea f) e n.os 8 e 9 do art. 22.º; o art. 2.º foi depois substituído pelo alt. 14 e a f) e os n.os 7 a 10 do 22.º revogados pelo alt. 14, por isso prevalece o resultado final. Art. 3.º (DL 132/2012) ignorado.",
-    "Alt. 13 (Lei 80/2013) art. 37.º: nova redação do n.º 3 do art. 64.º e revogação dos n.os 4 e 5 (também art. 45.º, b)); aplicado. Art. 38.º: aditado o art. 64.º-A; aplicado. Nota: o pedido indica que estes artigos da Lei 80/2013 foram revogados pelo art. 12.º da Lei 25/2017, que não vem no pedido; sem repristinação expressa, mantém-se o texto introduzido.",
-    "Alt. 14 (Lei 16/2016) art. 3.º: nova redação do art. 2.º; aplicado. Art. 6.º, a): revogadas a alínea f) do n.º 1 e os n.os 7, 8, 9 e 10 do art. 22.º; aplicado. Art. 6.º, d) revogação genérica: não aplicável ao texto.",
-    "Alt. 15 (DL 139-B/2023) art. 25.º: nova redação do n.º 2 e do n.º 17 do art. 31.º e aditado n.º 5 ao art. 54.º; aplicado. Restantes artigos (concursos EPERP, outros DL) não alteram o original.",
-    "Alt. 16 (DL 7/2026): altera apenas os DL 79/2014 e 9-A/2025; nada a aplicar ao original."
+    "Alterador 1 (DL 41/96): nenhuma alteração textual ao original (revoga o art. 10.º do DL 409/89; revogação genérica 'na parte em que contrariem' não aplicada).",
+    "Alterador 2 (DL 105/97), art. 1.º: nova redação dos arts. 56.º e 57.º do Estatuto (57.º n.º 3 '...' mantém o atual; mantido o texto 'SUBCAPÍTULO II / Intercomunicabilidade' que vinha no fim do corpo).",
+    "Alterador 3 (DL 1/98), art. 1.º: nova redação dos arts. 4.º#2, 5.º#2, 6.º#2, 8.º, 9.º, 10.º, 31.º, 32.º, 35.º a 39.º, 41.º a 53.º, 59.º, 60.º, 67.º a 69.º, 71.º, 77.º, 79.º a 83.º, 87.º, 99.º, 102.º, 104.º, 105.º, 107.º, 108.º, 120.º, 121.º, 126.º, 127.º, 130.º a 132.º, 134.º e 135.º; '...' e '[Anterior alínea x)]'/'(Anterior n.º x)'/'(Actual n.º 3.)' resolvidos com o texto atual; 131.º: epígrafe separada do corpo (vinham juntos).",
+    "Alterador 3, art. 2.º: 125.º, 128.º, 129.º e 133.º recebem a redação dos antigos 134.º, 142.º, 143.º e 150.º; como estes conteúdos passam para outras chaves e o Estatuto republicado acaba no 135.º, os antigos 141.º (conteúdo passou ao novo 127.º), 142.º, 143.º e 150.º vão em 'removidos'.",
+    "Alterador 3, art. 3.º: revogados os n.os 6 e 7 do 115.º e os arts. 136.º a 140.º, 144.º a 149.º e 151.º.",
+    "Alterador 3, art. 6.º: deslocações de títulos de divisão (ver nao_aplicavel); alínea c) aplicada pondo o texto do subcapítulo II no fim do 128.º. Art. 7.º (republicação): sem efeito próprio.",
+    "Alteradores 4 e 5 (acórdãos do TC): declarações de inconstitucionalidade sem alteração textual (ver nao_aplicavel).",
+    "Alterador 6 (DL 121/2005), art. 1.º: nova redação dos arts. 80.º (n.º 2 e 3 novos, n.º 4 = anterior 3) e 81.º (d) do n.º 1, n.º 3 = anterior n.º 6, n.os 4 a 10 novos), sobre a redação do DL 1/98; art. 5.º, n.º 1, a): revogado o art. 121.º.",
+    "Alt. 7 (DL 15/2007) art. 2.º: nova redação dos arts. 1.º, 2.º, 4.º, 5.º (do Estatuto, chaves #2), 8.º-15.º, 17.º, 22.º-28.º, 30.º-32.º, 34.º-49.º, 54.º, 56.º, 57.º, 59.º, 61.º-74.º, 76.º-80.º, 82.º-87.º, 91.º, 94.º, 100.º-103.º, 108.º-111.º, 115.º, 119.º, 132.º-135.º; aplicada, depois sobreposta pelos alteradores seguintes quando é o caso.",
+    "Alt. 7 art. 3.º: aditados os arts. 10.º-A, 10.º-B e 10.º-C.",
+    "Alt. 7 art. 25.º b): revogados 18.º-21.º, 23.º n.os 2-3, 50.º-53.º, 55.º, 57.º n.os 3-4, 58.º, 60.º, 68.º c) e e), 72.º n.º 3, 83.º n.os 2 e 5, 92.º, 93.º, 95.º-98.º, 122.º, 124.º-126.º, 128.º, 130.º, 131.º e 132.º n.º 2.",
+    "Alt. 7 art. 27.º: renomeados caps. IV, V, VIII e secção II do subcap. III do cap. X; subcap. II do cap. VII no texto do 35.º; eliminadas secções I-III do subcap. II do cap. VII (e subsecções).",
+    "Alt. 8 (DL 35/2007) art. 13.º: nova redação dos arts. 29.º e 33.º.",
+    "Alt. 9 (DL 270/2009) art. 2.º: arts. 16.º, 22.º, 31.º (renumeração), 37.º, 38.º, 48.º, 63.º, 69.º (renumeração), 111.º; aplicado (22.º, 31.º, 37.º, 38.º, 48.º depois alterados de novo). Anexo em imagem: não aplicado.",
+    "Alt. 10 (DL 75/2010) art. 2.º: arts. 4.º, 13.º, 17.º, 24.º, 31.º, 34.º-38.º, 40.º-43.º, 45.º-48.º, 54.º, 94.º, 102.º, 132.º, 133.º; art. 18.º a): revogados 26.º n.º 3, 34.º n.º 3, 37.º n.º 6, 40.º n.º 5, 42.º n.º 7, 43.º n.º 6, art. 44.º, 46.º n.os 1 e 5-8, 94.º n.º 4. Anexo em imagem: não aplicado.",
+    "Alt. 11 (DL 41/2012): só republicação; nada aplicado.",
+    "Alt. 12 (DL 146/2013) art. 2.º: arts. 2.º e 22.º (depois substituídos/revogados pelo alt. 14).",
+    "Alt. 13 (Lei 80/2013) arts. 37.º, 38.º e 45.º b): nova redação do 64.º (n.º 3; n.os 4 e 5 revogados) e aditado o 64.º-A.",
+    "Alt. 14 (Lei 16/2016) art. 3.º: nova redação do art. 2.º do Estatuto; art. 6.º a): revogados a alínea f) do n.º 1 e os n.os 7 a 10 do art. 22.º.",
+    "Alterador 15 (DL 139-B/2023), art. 25.º: nova redação do n.º 2 do art. 31.º do ECD e aditamento do n.º 17; restantes números [...] mantidos — aplicado.",
+    "Alterador 15, art. 25.º: aditamento do n.º 5 ao art. 54.º do ECD; n.os 1 a 4 [...] mantidos — aplicado.",
+    "Alterador 15, arts. 18.º a 22.º e 26.º: alteram/revogam outros decretos-leis (241/99, 48/2009, 212/2015, 213/2015, 73/2019) — ignorados.",
+    "Alterador 16 (DL 7/2026): altera só os DL 79/2014 e 9-A/2025; nenhuma instrução dirigida ao original — nada a aplicar."
   ],
   "modelo": "claude-fable-5-1",
   "pedido": "completo",
@@ -867,35 +913,35 @@
         2,
         3,
         4,
-        5
+        5,
+        6
       ],
-      "chars": 222431,
+      "chars": 237082,
       "artigos": 73
     },
     {
       "n": 2,
       "alteradores": [
-        6,
         7,
         8,
         9,
         10,
-        11
+        11,
+        12,
+        13,
+        14
       ],
-      "chars": 280729,
-      "artigos": 116
+      "chars": 291465,
+      "artigos": 115
     },
     {
       "n": 3,
       "alteradores": [
-        12,
-        13,
-        14,
         15,
         16
       ],
-      "chars": 181223,
-      "artigos": 6
+      "chars": 163426,
+      "artigos": 2
     }
   ],
   "problemas": []

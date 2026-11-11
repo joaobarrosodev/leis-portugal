@@ -10,21 +10,15 @@ consolidacao:
   - id: pt:dre:140162:por
     title: Decreto n.º 312/70
     publication_date: '1970-07-06'
-  - id: pt:dre:676421:por
-    title: Decreto-Lei n.º 307/72
-    publication_date: '1972-08-16'
-  - id: pt:dre:227072:por
-    title: Decreto Regulamentar n.º 18/86
-    publication_date: '1986-05-20'
   - id: pt:dre:625667:por
     title: Decreto Regulamentar n.º 11/89
     publication_date: '1989-04-27'
+  - id: pt:dre:227072:por
+    title: Decreto Regulamentar n.º 18/86
+    publication_date: '1986-05-20'
   - id: pt:dre:537249:por
     title: Lei n.º 30/2006
     publication_date: '2006-07-11'
-  - id: pt:dre:611309:por
-    title: Portaria n.º 177/2010
-    publication_date: '2010-03-24'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -109,7 +103,7 @@ As concessões de pesca serão requeridas ao Secretário de Estado da Agricultur
 
 § 2.º O requerimento para cada concessão de pesca deverá ser acompanhado dos seguintes elementos:
 
-a) Cinco exemplares da planta topográfica da zona pretendida de escala não inferior a 1/25000;
+a) Planta topográfica da zona para a qual se pretende a concessão, em tela ou material transparente e inextensível (tipo cronar) na escala de 1:5000;
 
 b) Indicação do prazo por que se pretende a concessão;
 
@@ -140,6 +134,8 @@ h) As disposições aconselhadas quanto ao revestimento vegetal do leito e marge
 § 6.º A pesca nas águas abrangidas pelas concessões de pesca só é permitida às pessoas autorizadas pela entidade concessionária, que deverão, no entanto, munir-se da respectiva licença de pesca desportiva.
 
 § 7.º No que respeita à concessão de pesca em albufeiras, a taxa referida na alínea d) do § 4.º deste artigo será fixada em relação à área correspondente ao nível médio compreendido entre o nível máximo e o nível médio previsto durante a estiagem.
+
+> Alterado pelo/a [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162), publicado em 1970-07-06.
 
 ###### Artigo 7.º
 
@@ -179,11 +175,39 @@ Os novos concessionários só poderão começar a usufruir dos exclusivos de pes
 
 Mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, o Secretário de Estado da Agricultura poderá autorizar, para efeitos de realização de concursos de pesca desportiva, concessões de pesca por prazo não superior a dez dias.
 
-§ 1.º Esta autorização tornar-se-á pública por meio de editais, com a antecedência mínima de dez dias em relação à data do início do período previsto para a concessão.
+§ 1.º Dos requerimentos a solicitar concessões, nos termos do corpo deste artigo, deverão constar os seguintes elementos:
 
-§ 2.º Os regulamentos dos concursos serão aprovados pela Direcção-Geral dos Serviços Florestais e Aquícolas, ouvidas a Direcção-Geral dos Serviços Hidráulicos e a comissão regional de pesca da área respectiva.
+a) Data da realização do concurso;
 
-§ 3.º Em cada época não poderão realizar-se mais de dois concursos de pesca em cada linha de água, lago, lagoa ou albufeira, devendo ficar sempre entre eles um domingo livre.
+b) Indicação do local, convenientemente delimitado, onde o mesmo se deverá realizar;
+
+c) Extensão do troço do curso de água ou perímetro da lagoa ou albufeira a utilizar para o efeito.
+
+§ 2.º As entidades organizadoras dos concursos submeterão à aprovação da Direcção-Geral dos Serviços Florestais e Aquícolas o projecto do respectivo regulamento, em triplicado, com a antecedência mínima de sessenta dias em relação à data prevista para o início da realização do concurso, devendo a referida Direcção-Geral ouvir a Direcção-Geral dos Serviços Hidráulicos e a comissão regional de pesca da área respectiva.
+
+§ 3.º As autorizações das concessões previstas no corpo do presente artigo serão tornadas públicas por meio de editais, com a antecedência mínima de dez dias em relação à data do início do período previsto para a concessão.
+
+§ 4.º Aprovado o regulamento do concurso, poderá a Direcção-Geral dos Serviços Florestais e Aquícolas autorizar que os concorrentes inscritos exerçam a pesca, durante a realização das provas e no local para elas demarcado, com qualquer das licenças previstas na lei, independentemente da sua validade territorial.
+
+§ 5.º Não poderão realizar-se em cada época mais de dois concursos de pesca no mesmo troço de cada linha de água, lagoa ou albufeira, ou realizar-se o segundo sem terem decorrido catorze dias, pelo menos, após o termo do anterior, nem, ainda, utilizar-se em concursos troços que distem menos de 2 km para montante ou para jusante dos limites dos troços já utilizados em dois concursos na mesma época.
+
+§ 6.º Para efeitos de realização de campeonatos de pesca desportiva, regionais e nacionais, poderá conceder-se autorização para se realizar mais um concurso de pesca desportiva, além dos mencionados no parágrafo anterior, desde que a densidade piscícola dos cursos de água a eleger pelos organizadores o justifique.
+
+§ 7.º As entidades organizadoras dos concursos deverão remeter à Direcção-Geral dos Serviços Florestais e Aquícolas, em impresso timbrado e no prazo de trinta dias após o termo dos concursos, os elementos seguintes:
+
+a) Nome dos concorrentes inscritos e número das respectivas licenças de pesca;
+
+b) Espécies capturadas, com indicação do número e pesos globais por espécies;
+
+c) Tempo utilizado no concurso, com menção da hora do seu início.
+
+§ 8.º É obrigatório para todos os concursos de pesca desportiva realizados nas águas interiores:
+
+a) O disposto nos §§ 2.º, 4.º, 5.º e 6.º do presente artigo, com redução a trinta dias, porém, do prazo fixado no § 2.º;
+
+b) A comunicação dos elementos referidos no § 1.º
+
+> Alterado pelo/a [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162), publicado em 1970-07-06.
 
 ###### Artigo 12.º
 
@@ -211,9 +235,11 @@ O exercício da pesca nas águas particulares é direito exclusivo dos seus prop
 
 ###### Artigo 17.º
 
-A todos os pescadores é lícito passar e estacionar, para o exercício efectivo da pesca, nas zonas dos prédios que marginem as águas públicas sujeitas à servidão legal estabelecida no artigo 4.º do Decreto-Lei n.º 12445, de 29 de Setembro de 1926, sem prejuízo da inviolabilidade dos prédios urbanos ou rústicos vedados.
+A todos os pescadores é lícito passar e estacionar, para o exercício efectivo da pesca, nas zonas dos prédios que marginem as águas públicas sujeitas à servidão legal estabelecida no artigo 14.º do [Decreto n.º 12445](https://diariodarepublica.pt/dr/detalhe/decreto/12445-1926-159281), de 29 de Setembro de 1926, sem prejuízo da inviolabilidade dos prédios urbanos ou rústicos vedados.
 
 § único. Consideram-se vedados, para os efeitos do disposto no corpo deste artigo, os prédios rústicos murados em todo o seu perímetro com altura mínima de 1 m ou muro contínuo de 0,50 m de altura com rede metálica de 1 m, ou ainda circundados por rede metálica com 2 m de alto.
+
+> Alterado pelo/a [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162), publicado em 1970-07-06.
 
 ###### Artigo 18.º
 
@@ -321,9 +347,11 @@ d) Exercer acção de propaganda no sentido de mostrar que a conservação da ri
 
 Além dos guardas florestais, têm também competência para o exercício da polícia e fiscalização da pesca os guarda-rios da Direcção-Geral dos Serviços Hidráulicos, as autoridades administrativas e policiais, os membros das comissões regionais de pesca e os agentes da Direcção-Geral dos Serviços Florestais e Aquícolas, das comissões venatórias, da Guarda Nacional Republicana, da Guarda Fiscal, das Polícias de Segurança Pública e de Viação e Trânsito e, da vigilância, os pescadores designados nos termos da alínea a) do artigo 23.º
 
-§ 1.º Os membros das comissões regionais de pesca terão direito ao uso de um cartão de identidade de modelo a aprovar superiormente.
+§ 1.º Para os efeitos das disposições legais sobre a pesca nas águas interiores, salvo o disposto no § 1.º do artigo 83.º, consideram-se agentes de autoridade, depois de ajuramentados pelo juiz de direito da comarca do respectivo domicílio, os membros das comissões regionais de pesca e os pescadores desportivos a que se refere a alínea a) do artigo 23.º, os quais terão direito ao uso de cartão de identidade, de modelo a aprovar superiormente.
 
 § 2.º A fiscalização das águas livres ficará a cargo dos guarda-rios da Direcção-Geral dos Serviços Hidráulicos enquanto a Direcção-Geral dos Serviços Florestais e Aquícolas não possuir o número de guardas florestais suficientes para assumir esse encargo.
+
+> Alterado pelo/a [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162), publicado em 1970-07-06.
 
 ###### Artigo 25.º
 
@@ -336,6 +364,10 @@ Os agentes da autoridade e as demais pessoas com competência para a fiscalizaç
 § 3.º Esta Direcção-Geral, se o entender necessário, mandará proceder às diligências requeridas ou consideradas indispensáveis ao apuramento da verdade e, verificados os elementos constitutivos da infracção e juntos aos autos a certidão do cadastro do arguido e os demais documentos que se lhe refiram, ordenará seja levantado o competente auto de notícia, dele se remetendo o original ao tribunal competente e o duplicado à mesma Direcção-Geral.
 
 § 4.º Quando a pena cominada seja sòmente a de multa, o auto aguardará durante dez dias, na administração florestal, que o arguido a liquide voluntàriamente, para o que será notificado por postal registado, em duplicado, para o seu domicílio, sendo, no caso de não pagamento, remetido a juízo nos cinco dias imediatos.
+
+§ 5.º Não se observará o disposto nos parágrafos anteriores, salvo no que se refere às apreensões determinadas no § 1.º, quando deva proceder-se à captura dos arguidos em flagrante delito.
+
+> Alterado pelo/a [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162), publicado em 1970-07-06.
 
 ###### Artigo 26.º
 
@@ -367,25 +399,49 @@ As secretarias judiciais enviarão à Direcção-Geral dos Serviços Florestais 
 
 ###### Artigo 29.º
 
-Nas épocas a seguir mencionadas fica expressamente proibida a pesca por todos os processos, das espécies abaixo indicadas cujos nomes científicos constam de lista anexa a este regulamento:
+Fica expressamente proibida a pesca, por todos os processos e nos períodos abaixo mencionados, das espécies seguintes, cujos nomes científicos constam da lista anexa ao presente regulamento:
 
-a) Salmão e truta - de 1 de Agosto ao último dia de Fevereiro, inclusive;
+a) Esturjão ou solho: de 15 de Julho a 15 de Janeiro, inclusive;
 
-b) Esturjão ou solho - de 15 de Julho a 15 de Janeiro, inclusive;
+b) Lampreia: de 15 de Junho a 15 de Janeiro, inclusive;
 
-c) Sável, savelha e lampreia - de 15 de Junho a 31 de Janeiro, inclusive;
+c) Sável e savelha: de 15 de Junho a 31 de Janeiro, inclusive;
 
-d) Achigã, carpa, barbo, boga, tenca, pimpão, bordalo, panjorca e escalo - de 15 de Março a 30 de Junho, inclusive;
+d) Salmão, truta vulgar e truta arco-íris: de 1 de Agosto ao último dia de Fevereiro, inclusive.
 
-e) Lagostim de água doce - de 1 de Setembro a 30 de Maio, inclusive.
+e) Truta marisca: de 1 de Novembro a 15 de Fevereiro, inclusive;
 
-§ 1.º A pesca de todas as outras espécies não designadas no corpo deste artigo é permitida em todo o ano, salvo quando se justifique a sua protecção.
+f) Achigã, carpa, barbo, boga, tenca: de 15 de Março a 31 de Maio, inclusive;
 
-§ 2.º Nos cursos de água onde existam salmonídeos não é permitida, durante a época do seu defeso, a pesca de quaisquer outras espécies. Durante a época em que é livre a pesca dos salmonídeos é também livre a pesca de quaisquer outras espécies, nesses cursos de água, mesmo na época do seu defeso. Exceptuam-se as linhas de água, ou troços de linhas de água, em que se verifique não ser possível um normal desenvolvimento das espécies salmonídeas, as quais poderão ser excluídas por despacho do Secretário de Estado da Agricultura, mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, que, para o efeito, publicará os necessários editais.
+g) Lagostim de água doce de pés brancos, de 1 de Setembro a 31 de Maio;
 
-§ 3.º É proibida a pesca do salmão e esturjão na sua descida para o mar.
+h) Camarão de rio: de 1 de Novembro a 15 de Junho, inclusive.
 
-§ 4.º Só é permitido pescar desde o nascer ao pôr do Sol, excepto nas zonas a demarcar para pesca profissional com rede.
+§ 1.º A pesca das espécies não referidas no corpo do presente artigo é permitida durante todo o ano, salvo se circunstâncias especiais justificarem a sua proibição.
+
+§ 2.º A abertura da pesca das espécies mencionadas na alínea f) é antecipada para o dia 15 de Maio, mas sòmente para a pesca desportiva, não se considerando como tal o exercício da pesca em concursos.
+
+§ 3.º Nos cursos de água onde existam salmonídeos não é permitida, durante a época do seu defeso, a pesca de quaisquer outras espécies, com excepção do lagostim. Durante a época em que é livre a pesca dos salmonídeos é também livre a pesca de quaisquer outras espécies piscícolas nesses cursos de água, mesmo na época do seu defeso.
+
+§ 4.º O disposto no parágrafo antecedente não se aplica aos seguintes troços dos cursos de água:
+
+a) No rio Cávado: a jusante da barragem de Penides até à sua foz;
+
+b) No rio Neiva: a jusante da ponte que atravessa a estrada nacional de Viana do Castelo a Barcelos até à sua foz;
+
+c) Ribeira de Afife: a jusante do Convento de Cabanas até à sua foz;
+
+d) Rio Âncora: a jusante da ponte de Albadim, sita junto da povoação de Aspra, freguesia de Âncora, concelho de Caminha, até à sua foz;
+
+e) No rio Coura: a jusante da ponte de Vilar de Mouros, concelho de Caminha, até à sua foz.
+
+§ 5.º É proibida a pesca do salmão e do esturjão na sua descida para o mar.
+
+§ 6.º Só é permitido pescar desde o nascer ao pôr do Sol, excepto nas zonas a demarcar para a pesca profissional com rede.
+
+§ 7.º A pesca do lagostim de pés brancos fora da época do seu defeso só é permitida às quintas-feiras, domingos e feriados nacionais.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 11/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1989-625667), publicado em 1989-04-27.
 
 ###### Artigo 30.º
 
@@ -397,17 +453,23 @@ b) Salmão - 55 cm;
 
 c) Lampreia e sável - 35 cm;
 
-d) Achigã, barbo, carpa, saboga ou savelha, robalo, enguia, tainha e outras espécies do género mugil spp - 20 cm;
+d) Achigã, barbo, carpa, saboga ou savelha, robalo, enguia, tainha e outras espécies do género mugil - 20 cm;
 
 e) Truta - 19 cm;
 
 f) Tenca - 15 cm;
 
-g) Boga e escalo - 10 cm.
+g) Boga, escalo e pimpão - 10 cm;
+
+h) Lagostim de água doce - 9 cm.
 
 § 1.º O comprimento dos peixes será medido, rectilìneamente, desde a ponta do focinho à forca caudal ou ao topo da barbatana, se esta não for bifurcada. No lagostim de água doce o comprimento deve ser medido desde a extremidade da cabeça, não compreendendo as pinças e antenas, até à extremidade da cauda estendida.
 
 § 2.º Os exemplares pescados de dimensões inferiores às determinadas neste artigo serão imediatamente restituídos à água.
+
+§ 3.º Nenhum pescador poderá capturar mais de 40 lagostins de pés brancos por dia de pesca.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 18/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1986-227072), publicado em 1986-05-20.
 
 ###### Artigo 31.º
 
@@ -421,6 +483,12 @@ c) Definir as datas de defeso para as espécies que venham a ser introduzidas;
 
 d) Demarcar zonas de pesca profissional com redes e regulamentar o exercício de pesca nessas zonas.
 
+e) Proibir, totalmente ou por massas hidrográficas, a captura de fêmeas de lagostins de pés brancos;
+
+f) Autorizar a captura de lagostins vermelhos por outros processos que não sejam a balança ou ratel, de qualquer tamanho e em qualquer época do ano.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 18/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1986-227072), publicado em 1986-05-20.
+
 ###### Artigo 32.º
 
 Não podem ser postas à venda, compradas, transportadas, retidas ou servidas em hotéis, restaurantes e outros estabelecimentos congéneres quaisquer espécies cuja pesca estiver proibida ou em período de defeso.
@@ -429,11 +497,17 @@ Não podem ser postas à venda, compradas, transportadas, retidas ou servidas em
 
 § 2.º Nos salmonídeos importados durante o período de defeso no País será aposta na alfândega uma marca ou selo de modelo a aprovar pela Direcção-Geral dos Serviços Florestais e Aquícolas e que garanta a proveniência dessas espécies. Exceptuam-se os exemplares transportados pelo próprio pescador, desde que acompanhados por documento oficial comprovativo da origem.
 
+§ 3.º Não se aplica o disposto no corpo do presente artigo aos salmonídeos provenientes de truticulturas industriais, devidamente legalizadas, desde que seja aposto em cada exemplar um selo de chumbo ou de plástico com a marca identificadora da truticultura a que respeita.
+
+> Alterado pelo/a [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162), publicado em 1970-07-06.
+
 ###### Artigo 33.º
 
-No exercício da pesca desportiva só podem ser utilizadas a cana e linha de mão, à excepção da pesca nas zonas de pesca reservada e nas concessões de pesca onde só é permitido o uso da cana.
+No exercício da pesca desportiva só podem ser utilizadas cana e linha de mão, com excepção da pesca do lagostim de água doce, em que só é permitido o uso da rede denominada «balança» ou «ratel», e da pesca nas zonas reservadas ou concessionadas, onde só é permitido o uso de cana ou balança.
 
 § único. Como elementos auxiliares da pesca desportiva o pescador só poderá utilizar o gancho sem farpa (bicheiro), a rede-fole (camaroeiro) e o laço no caso especial da pesca ao salmão.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 18/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1986-227072), publicado em 1986-05-20.
 
 ###### Artigo 34.º
 
@@ -449,9 +523,13 @@ b) Savelha ou saboga - 70 mm;
 
 c) Lampreia, barbo, achigã, tainha, muge, carpa e tenca - 54 mm;
 
-d) Para as restantes espécies - 30 mm.
+d) Para as restantes espécies, com excepção do camarão do rio - 30 mm;
+
+e) Para o camarão do rio - 10 mm.
 
 § 3.º A permanência dentro de água das redes e aparelhos de pesca com as dimensões regulamentares é permitida tanto de dia como de noite em períodos não superiores a 24 horas, contanto que sejam lançados ou levantados desde o nascer até ao pôr do Sol. No mesmo local, e durante o período de 24 horas, não é permitido fazer mais lançamentos de rede e outros aparelhos de pesca.
+
+> Alterado pelo/a [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162), publicado em 1970-07-06.
 
 ###### Artigo 35.º
 
@@ -485,9 +563,11 @@ Cada cana ou linha de mão não poderá ter mais de três anzóis ou o máximo d
 
 § 2.º Na pesca aos salmonídeos não é permitido ao pescador utilizar mais do que uma cana.
 
-§ 3.º Não é permitido iscar com ovos de peixe em qualquer curso de água nem com larvas naturais nas águas com salmonídeos.
+§ 3.º Não é permitido iscar nem engodar com ovos de peixe em qualquer curso de água, lagoa ou albufeira, ou com larvas naturais nas águas com salmonídeos.
 
 § 4.º Não é permitido o uso de linhas dormentes ou espinhéis.
+
+> Alterado pelo/a [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162), publicado em 1970-07-06.
 
 ###### Artigo 41.º
 
@@ -681,7 +761,7 @@ b) A categoria de licença requerida e, tratando-se de licenças colectivas para
 
 § 5.º O original do impresso a que se refere o § 2.º será arquivado no departamento que passar a licença e o seu duplicado será remetido à Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-§ 6.º As licenças de pesca desportiva, com a aposição do selo branco do respectivo departamento dos serviços florestais ou comissão regional de pesca, serão passadas em cartões de 0,08 m x 0,11 m e nelas se indicarão os elementos de identificação do requerente, bem como a categoria, prazo e validade territorial da licença de que se trata, conforme modelos a aprovar pela Direcção-Geral dos Serviços Florestais e Aquícolas.
+§ 6.º As licenças de pesca desportiva serão passadas em cartões normalizados (1 1/2 A(índice 7) - 105 mm x 111 mm), conforme modelos aprovados pela Direcção-Geral dos Serviços Florestais e Aquícolas, nos quais deverão constar a identificação e a residência habitual do titular e ainda a categoria, o prazo e a validade territorial, devendo sempre ser aposto o selo branco, ou, na sua falta, o carimbo a óleo do departamento daquela Direcção-Geral ou da comissão regional de pesca que as emitam.
 
 § 7.º Às licenças de pesca profissional são aplicáveis as disposições constantes dos parágrafos antecedentes, devendo, no entanto, indicar-se nos respectivos cartões, que serão de cor diferente dos das licenças desportivas, também os elementos constantes da alínea b) do § 2.º do presente artigo.
 
@@ -690,6 +770,8 @@ b) A categoria de licença requerida e, tratando-se de licenças colectivas para
 § 9.º Será recusada qualquer licença de pesca a todos aqueles que se prove terem infringido mais de quatro vezes as leis ou regulamentos da pesca nas águas interiores do País. Essas infracções provar-se-ão pelo registo criminal e policial do pretendente e pelas anotações das multas voluntàriamente pagas. Para este efeito haverá na Direcção-Geral dos Serviços Florestais e Aquícolas um livro de registo de infracções às leis da pesca, onde se anotarão, por extracto, todas as condenações sofridas e multas pagas pelos pescadores. A recusa será notificada aos interessados, que dela poderão reclamar, no prazo de oito dias, para o director-geral dos Serviços Florestais e Aquícolas.
 
 § 10.º Todas as licenças de pesca serão pessoais e intransmissíveis, pelo que serão apreendidas quando apresentadas por qualquer pessoa que não seja o seu titular. O respectivo prazo de validade será sempre o do ano civil a que respeitar, excepto o das licenças especiais de pesca desportiva a que se referem os artigos 55.º e 56.º
+
+> Alterado pelo/a [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162), publicado em 1970-07-06.
 
 ### CAPÍTULO V — Responsabilidade penal e civil
 
@@ -705,13 +787,13 @@ c) Se, cumulativamente, tiver havido desrespeito das prescrições da Direcção
 
 d) Se, em qualquer dos casos, tiver havido a morte ou destruição da fauna ictiológica, a coima é de (euro) 500 a (euro) 3740.
 
-> Alterado pelo/a [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162) e [Decreto-Lei n.º 307/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1972-676421) e [Decreto Regulamentar n.º 18/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1986-227072) e [Decreto Regulamentar n.º 11/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1989-625667) e [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249) e [Portaria n.º 177/2010](https://diariodarepublica.pt/dr/detalhe/portaria/177-2010-611309), publicado em 2010-03-24.
+> Alterado pelo/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11.
 
 ###### Artigo 60.º
 
 O exercício da pesca desacompanhado da respectiva licença e de documento legal de identificação pessoal constitui contra-ordenação punível com coima de (euro) 50 a (euro) 500.
 
-> Alterado pelo/a [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162) e [Decreto-Lei n.º 307/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1972-676421) e [Decreto Regulamentar n.º 18/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1986-227072) e [Decreto Regulamentar n.º 11/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1989-625667) e [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249) e [Portaria n.º 177/2010](https://diariodarepublica.pt/dr/detalhe/portaria/177-2010-611309), publicado em 2010-03-24.
+> Alterado pelo/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11.
 
 ###### Artigo 61.º
 
@@ -721,13 +803,13 @@ A utilização na pesca de materiais explosivos, químicos ou vegetais, corrente
 
 ###### Artigo 62.º
 
-A violação do disposto no artigo 51.º constitui contravenção punível nos termos seguintes:
+A infracção ao disposto no artigo 51.º constitui contra-ordenação punível nos termos seguintes:
 
-1.º A transferência de espécies ictiológicas será punida com as penas de cinco a quinze dias de prisão e multa até 5000$00.
+a) A transferência de espécies ictiológicas é punida com coima de (euro) 500 a (euro) 2500;
 
-2.º A sua importação será punida com as penas de prisão de 15 a 30 dias e a de multa de 5000$00 a 10000$00.
+b) A sua importação é punida com coima de (euro) 500 a (euro) 3700.
 
-§ único. Em qualquer caso o infractor responderá pelas perdas e danos apurados.
+> Alterado pelo/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11.
 
 ###### Artigo 63.º
 
@@ -743,7 +825,9 @@ A pesca com inobservância do disposto no artigo 33.º e seu § único, artigo 3
 
 ###### Artigo 66.º
 
-A infracção do disposto no § 3.º do artigo 34.º, no § 2.º do artigo 36.º e na alínea a) do artigo 47.º constitui transgressão punível com a pena de um a dez dias de prisão e multa de 100$00 a 2000$00.
+A infracção ao disposto no § 3.º do artigo 34.º, no § 2.º do artigo 36.º e na alínea a) do artigo 47.º constitui contra-ordenação punível com coima de (euro) 100 a (euro) 250.
+
+> Alterado pelo/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11.
 
 ###### Artigo 67.º
 
@@ -753,39 +837,39 @@ Constitui circunstância agravante das infracções previstas e punidas pelos ar
 
 ###### Artigo 68.º
 
-A venda, aquisição e simples exposição ao público, o transporte, a retenção e o fornecimento em estabelecimentos hoteleiros ou congéneres de peixe fresco durante a época do respectivo defeso, seja qual for a sua proveniência, constituem contravenções puníveis com a pena de prisão de seis a vinte dias e multa de 100$00 a 2500$00.
+Constitui contra-ordenação, punível com coima de (euro) 75 a (euro) 500, a venda, aquisição e simples exposição ao público, o transporte, a retenção e o fornecimento em estabelecimentos hoteleiros ou congéneres de peixe fresco durante a época do respectivo defeso, seja qual for a sua proveniência.
+
+> Alterado pelo/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11.
 
 ###### Artigo 69.º
 
-Os factos enumerados no artigo anterior, se tiverem como objecto peixe de dimensões inferiores às legais ou de pesca proibida, constituirão contravenções puníveis com a pena de prisão de 1 a 30 dias e multa de 100$00 a 2500$00.
+Quando as condutas referidas no artigo anterior tenham como objecto peixe de dimensões inferiores às legais ou proveniente de pesca proibida, o agente é punido com coima de (euro) 100 a (euro) 700.
+
+> Alterado pelo/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11.
 
 ###### Artigo 70.º
 
-A infracção do disposto nas alíneas b), c) e d) e § único do artigo 47.º constitui contravenção punível com a pena de prisão de um a dez dias e multa de 100$00 a 500$00.
+A infracção ao disposto nas alíneas b), c) e d) e no § único do artigo 47.º e na primeira parte do § 2.º, no § 5.º e no § 7.º do artigo 11.º constitui contra-ordenação punível com coima de (euro) 75 a (euro) 250.
+
+> Alterado pelo/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11.
 
 ###### Artigo 71.º
 
-O transporte, a exposição e a venda de salmonídeos com a infracção do disposto no § 2.º do artigo 32.º constituem contravenção punível com a prisão de 1 a 30 dias e multa de 100$00 por cada salmão e 50$00 por cada truta, até ao limite de 2500$00.
+O transporte, a exposição e a venda de salmonídeos em violação do disposto no § 2.º do artigo 32.º constitui contra-ordenação punível com coima de (euro) 75 a (euro) 250.
+
+> Alterado pelo/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11.
 
 ###### Artigo 72.º
 
-A pesca sem a necessária licença constitui contravenção punível:
+(Revogado.)
 
-a) Nas águas livres, com a multa de 100$00;
-
-b) Nas águas proibidas, reservadas ou sujeitas a concessão, com a multa de 1000$00.
-
-§ 1.º Se a pesca for efectuada de noite, os quantitativos das multas serão elevados ao dobro.
-
-§ 2.º São punidas com as penas constantes da alínea b) deste artigo as contravenções ao § único do artigo 5.º e ao § 6.º do artigo 6.º
+> Revogado pelo/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11.
 
 ###### Artigo 73.º
 
-Serão punidas, como contravenções, com a multa de 50$00 por unidade, até ao limite de 2500$00:
+(Revogado.)
 
-a) A não devolução às águas dos peixes capturados com dimensões inferiores às determinadas pelo artigo 30.º deste regulamento;
-
-b) A destruição, deslocação ou inutilização de tabuletas de sinalização colocadas ao abrigo ou em cumprimento de disposições legais sobre pesca.
+> Revogado pelo/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11.
 
 ###### Artigo 74.º
 
@@ -807,13 +891,33 @@ Os pais, patrões e tutores serão respectivamente responsáveis pelos danos cau
 
 ###### Artigo 78.º
 
-Nos crimes por violação de disposições legais sobre pesca e fomento piscícola são sempre puníveis a tentativa e o delito frustrado.
+§ 1.º Constitui contra-ordenação punível com coima de (euro) 100 a (euro) 1000 a existência de produtos explosivos, químicos, vegetais, substâncias venenosas, tóxicas ou quaisquer outras susceptíveis de destruir, atordoar ou afugentar o peixe, de redes ou qualquer outra arte de pesca fora do tempo e local permitidos, a bordo das embarcações de pesca, no equipamento ou nas viaturas, na posse ou ao alcance do pescador no acto da pesca, quando segundo a lei geral não constitua tentativa de ilícito criminal.
 
-§ único. Quando, segundo a lei geral, não constituam tentativa nem delito frustrado, a existência de produtos explosivos, químicos, vegetais, substâncias venenosas, tóxicas ou quaisquer outras susceptíveis de destruir, atordoar ou afugentar o peixe, de redes ou qualquer outra arte de pesca fora do tempo e local permitidos, a bordo das embarcações de pesca, no equipamento ou nas viaturas, na posse ou ao alcance do pescador no acto da pesca, serão punidos como contravenções com a pena de prisão de 1 a 10 dias e a multa de 100$00 a 2000$00, se verificados no percurso da pesca, e com pena de 15 a 30 dias de prisão e de multa de 2000$00 a 5000$00, se o infractor tiver esses materiais sobre si ou ao seu alcance no acto da pesca.
+§ 2.º A contra-ordenação referida no § 1.º é punível com coima de (euro) 200 a (euro) 2000, se o infractor tiver os materiais sobre si ou ao seu alcance no acto da pesca.
+
+> Alterado pelo/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11.
 
 ###### Artigo 79.º
 
-Nas concessões de pesca de águas paradas é proibida a prática de desportos motonáuticos sem autorização da Direcção-Geral dos Serviços Hidráulicos, ouvidas a Direcção-Geral dos Serviços Florestais e Aquícolas e a entidade concessionária, sob pena de prisão de 1 a 15 dias e multa de 500$00 a 2000$00.
+A prática de desportos motonáuticos nas concessões de pesca de águas paradas sem autorização do Instituto do Ambiente, ouvida a Direcção-Geral dos Recursos Florestais, constitui contra-ordenação punível com coima de (euro) 75 a (euro) 250.
+
+> Alterado pelo/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11.
+
+###### Artigo 79.º-A — Autoridade competente
+
+É competente para a instauração, processamento, instrução e decisão dos processos de contra-ordenação por infracção ao disposto na Lei n.º 2097, de 6 de Junho de 1959, e no presente diploma a Direcção-Geral dos Recursos Florestais.
+
+> Aditado pelo/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11.
+
+###### Artigo 79.º-B — Distribuição do produto das coimas
+
+O produto das coimas aplicadas é distribuído da seguinte forma:
+
+a) 40% para a Direcção-Geral dos Recursos Florestais;
+
+b) 60% para o Estado.
+
+> Aditado pelo/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11.
 
 ### CAPÍTULO VI — Disposições gerais
 
@@ -837,7 +941,11 @@ O produto das taxas, licenças e multas e quaisquer outros rendimentos resultant
 
 § 2.º Sobre as multas consignadas neste diploma não incidirão quaisquer adicionais.
 
-§ 3.º Nas infracções às disposições deste diploma são perdidos, respectivamente a favor do Estado e dos estabelecimentos de beneficência local, os instrumentos de pesca e o peixe objecto da infracção.
+§ 3.º Nas infracções às disposições do presente diploma serão considerados perdidos, a favor de estabelecimentos de beneficência local, o peixe objecto da infracção, e a favor do Estado, os instrumentos de pesca e os que os infractores abandonem no local das infracções.
+
+Os mesmos instrumentos, paga voluntàriamente a multa ou transitada em julgado a sentença condenatória, serão entregues à Direcção-Geral dos Serviços Florestais e Aquícolas, que, depois de seleccionados os que tiverem interesse para o museu de pesca, a instalar por aquela Direcção-Geral, venderá os restantes em hasta pública, anunciada com trinta dias de antecedência, pelo menos, num jornal da localidade, se o houver, e por editais.
+
+> Alterado pelo/a [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162), publicado em 1970-07-06.
 
 ###### Artigo 84.º
 
@@ -846,6 +954,26 @@ O Secretário de Estado da Agricultura aprovará, por portaria, mediante propost
 ###### Artigo 85.º
 
 O presente decreto entrará em vigor em 1 de Janeiro de 1963.
+
+Salmo salar L. - Salmão;
+
+Salmo trutta L. - (Salmo fario L. ou Trutta fario L.) - truta vulgar, truta sapeira;
+
+Salmo trutta L. (Trutta marina L.) - truta marisca, relha (truta marina);
+
+Salmo irideus Gibbons - truta arco-íris, truta francesa;
+
+Classe, Crustácea.
+
+Subclasse, Decapoda.
+
+Família, Astacide.
+
+Austropotamobius pallipes Lereboullet (Astacus pallipes Lereboullet) - lagostim de pés brancos.
+
+Procambarus clarki Girard - lagostim vermelho da Luisiania.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 18/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1986-227072), publicado em 1986-05-20.
 
 Publique-se e cumpra-se como nele se contém.
 

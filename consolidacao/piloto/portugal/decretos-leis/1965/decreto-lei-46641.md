@@ -36,6 +36,12 @@ A referida tabela começará a vigorar em todos os postos consulares no dia 1 de
 
 Fica revogada a tabela aprovada pelo [Decreto n.º 20253](https://diariodarepublica.pt/dr/detalhe/decreto/20253-1931-528632), de 25 de Agosto de 1931, com as alterações e os aditamentos posteriormente introduzidos.
 
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 13 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Tabela de emolumentos consulares
+
 ### CAPÍTULO I — Actos consulares
 
 ###### ARTIGO 1.º
@@ -679,9 +685,3 @@ A declaração de carga, que poderá ser escrita em português, francês, inglê
 § 5.º Pelas alfândegas deverá ser organizado um mapa trimestral das receitas por elas cobradas, em virtude das disposições deste artigo e remetido ao Ministério dos Negócios Estrangeiros até ao fim do mês imediato ao trimestre.
 
 Ministério dos Negócios Estrangeiros, 13 de Novembro de 1965. - Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.
-
-Publique-se e cumpra-se como nele se contém.
-
-Paços do Governo da República, 13 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
-
-Tabela de emolumentos consulares

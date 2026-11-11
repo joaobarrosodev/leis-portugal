@@ -44,6 +44,18 @@ Nos termos do artigo 7.º, alínea b), do Decreto Legislativo Regional n.º 24-A
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
+Aprovado em Conselho do Governo Regional em 26 de Junho de 1997.
+
+Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
+
+Assinado em 15 de Julho de 1997.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
+
+ORGÂNICA DA DIRECÇÃO REGIONAL DO TRABALHO
+
 ### CAPÍTULO I — Natureza e atribuições
 
 ###### Artigo 1.º — Natureza
@@ -497,18 +509,6 @@ Ao pessoal de enfermagem a exercer funções no CMT é aplicável a legislação
 ###### Artigo 20.º — Concursos pendentes
 
 Os concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover os que lhes correspondam no quadro a aprovar nos termos do artigo 17.º, n.º 2, do presente diploma.
-
-Aprovado em Conselho do Governo Regional em 26 de Junho de 1997.
-
-Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
-
-Assinado em 15 de Julho de 1997.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
-
-ORGÂNICA DA DIRECÇÃO REGIONAL DO TRABALHO
 
 ## ANEXO — Quadro de pessoal a que se refere o n.º 2 do artigo 17.º do presente diploma
 

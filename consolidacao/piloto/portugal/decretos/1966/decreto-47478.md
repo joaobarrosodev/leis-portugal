@@ -40,6 +40,12 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 É aprovado o Regulamento do Ministério dos Negócios Estrangeiros, a que se refere o artigo 46.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, e que baixa assinado pelo Ministro dos Negócios Estrangeiros.
 
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 31 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alberto Marciano Gorjão Franco Nogueira.
+
+REGULAMENTO DO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS
+
 ## TÍTULO I — Organização dos serviços do Ministério
 
 ### CAPÍTULO I — Competência do Ministro e organização e competência da Secretaria de Estado
@@ -1951,9 +1957,3 @@ Para a versão em línguas estrangeiras de documentos na Secretaria de Estado ha
 O Ministério dos Negócios Estrangeiros inscreverá anualmente no orçamento uma verba destinada à compra de obras de arte de artistas portugueses para as missões diplomáticas cujos edifícios sejam propriedade do Estado.
 
 Ministério dos Negócios Estrangeiros, 31 de Dezembro de 1966. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.
-
-Publique-se e cumpra-se como nele se contém.
-
-Paços do Governo da República, 31 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alberto Marciano Gorjão Franco Nogueira.
-
-REGULAMENTO DO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS

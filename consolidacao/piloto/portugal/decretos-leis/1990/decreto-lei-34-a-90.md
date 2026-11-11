@@ -2397,7 +2397,7 @@ b) Ao militar do sexo masculino, por 2 dias, podendo ser gozados, seguidos ou in
 
 2 - Sem prejuízo do disposto no número anterior, são aplicáveis ao militar, em matéria de licença por maternidade ou paternidade, as disposições constantes da lei geral.
 
-## TÍTULO IX — Reclamações e recursos
+## TÍTULO IX — Reclamações e recursos em matéria administrativa
 
 ###### Artigo 108.º — Reclamação e recurso
 
@@ -2459,9 +2459,11 @@ O recurso contencioso deve ser interposto nos prazos e termos fixados na Lei de 
 
 ###### Artigo 116.º — Militares dos QP
 
-1 - Os militares dos QP servem as Forças Armadas como profissionais, com base num vínculo caracterizado pela sua permanência, e constituem factor da afirmação e perenidade dos valores da instituição militar.
+1 - São militares dos QP os oficiais, sargentes e praças que, tendo ingressado voluntariamente na carreira militar e adquirido formação profissional específica para o seu exercício, integram um quadro especial do ramo respectivo.
 
-2 - Os militares dos QP servem as forças armadas como profissionais, com base num vínculo caracterizado pela sua permanência, e constituem o garante da afirmação e perenidade dos valores da instituição militar.
+2 - Os militares dos QP servem as Forças Armadas como profissionais, com base num vínculo caracterizado pela sua permanência, e constituem factor da afirmação e perenidade dos valores da instituição militar.
+
+3 - A condição de militar dos QP adquire-se com o ingresso no primeiro posto do respectivo quadro especial.
 
 > Alterado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.
 
@@ -5735,7 +5737,7 @@ O serviço efectivo normal tem início no primeiro dia da incorporação do turn
 
 > Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-## LIVRO III — Do serviço militar obrigatório
+## LIVRO III — Do serviço efectivo normal
 
 ## TÍTULO I
 
@@ -5983,8 +5985,6 @@ Segundo-grumete ou soldado.
 
 > Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-## TÍTULO II — Da Marinha
-
 ###### Artigo 371.º — Postos de ingresso em RV
 
 1 - São os seguintes os postos de ingresso em RV:
@@ -6087,8 +6087,6 @@ d) Eventual acesso aos QP.
 
 > Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-## TÍTULO III — Do Exército
-
 ###### Artigo 379.º — Retribuição monetária
 
 O militar em RV tem direito, nos termos definidos em legislação própria, a uma retribuição monetária adequada ao posto e à especificidade do serviço que presta.
@@ -6152,8 +6150,6 @@ a) Findo o período inicial ou o que resulte de sua prorrogação;
 b) Com o ingresso do militar em RC.
 
 > Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
-
-## TÍTULO IV — Da Força Aérea
 
 ###### Artigo 386.º — Admissão nos quadros permanentes
 
@@ -6271,7 +6267,7 @@ A inscrição no primeiro posto de cada uma das categorias é feita por ordem de
 
 > Alterado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-## LIVRO IV — Do regime de contrato
+## LIVRO IV — Dos regimes de voluntariado e de contrato
 
 ## TÍTULO I
 
@@ -6497,7 +6493,7 @@ Ao militar em RC que revele vocação e aptidões adequadas à carreira militar 
 
 > Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-## TÍTULO II — Da Marinha
+## TÍTULO II — Do regime de contrato
 
 ###### Artigo 420.º — Funções
 
@@ -6541,8 +6537,6 @@ Ao militar em RC que revele vocação e aptidões adequadas à carreira militar 
 
 > Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
 
-## TÍTULO III — Do Exército
-
 ###### Artigo 427.º — Funções
 
 (Revogado.)
@@ -6584,8 +6578,6 @@ Ao militar em RC que revele vocação e aptidões adequadas à carreira militar 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), publicado em 1992-07-31.
-
-## TÍTULO IV — Da Força Aérea
 
 ###### Artigo 434.º — Funções
 

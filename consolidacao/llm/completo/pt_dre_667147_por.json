@@ -58,7 +58,7 @@
     {
       "chave": "85.º",
       "epigrafe": "Transmissão por morte",
-      "texto": "1 - O arrendamento para habitação não caduca por morte do primitivo arrendatário ou daquele a quem tiver sido cedida a sua posição contratual, se lhe sobreviver:\n\na) Cônjuge não separado judicialmente de pessoas e bens ou de facto;\n\nb) Descendente com menos de um ano de idade ou que com ele convivesse há mais de um ano;\n\nc) Ascendente que com ele convivesse há mais de um ano;\n\nd) Afim na linha recta, nas condições referidas nas alíneas b) e c);\n\ne) Pessoa que com ele viva há mais de dois anos em condições análogas às dos cônjuges, quando o arrendatário não seja casado ou esteja separado judicialmente de pessoas e bens;\n\nf) Pessoas que com ele vivessem em economia comum há mais de dois anos.\n\n2 - Caso ao arrendatário não sobrevivam pessoas na situação prevista nas alíneas b), c) e d) do n.º 1, ou estas não pretendam a transmissão, é equiparada ao cônjuge pessoa que com ele vivesse em união de facto nos termos da presente lei.\n\n3 - Nos casos do número anterior, a posição do arrendatário transmite-se, pela ordem das respectivas alíneas, às pessoas nele referidas, preferindo, em igualdade de condições, sucessivamente, o parente ou afim mais próximo e mais idoso.\n\n4 - A transmissão a favor dos parentes ou afins também se verifica por morte do cônjuge sobrevivo quando, nos termos deste artigo, lhe tenha sido transmitido o direito ao arrendamento.",
+      "texto": "1 - O arrendamento para habitação não caduca por morte do primitivo arrendatário ou daquele a quem tiver sido cedida a sua posição contratual, se lhe sobreviver:\n\na) Cônjuge não separado judicialmente de pessoas e bens ou de facto;\n\nb) Descendente com menos de um ano de idade ou que com ele convivesse há mais de um ano;\n\nc) Ascendente que com ele convivesse há mais de um ano;\n\nd) Afim na linha recta, nas condições referidas nas alíneas b) e c);\n\ne) Pessoa que com ele viva há mais de dois anos em condições análogas às dos cônjuges, quando o arrendatário não seja casado ou esteja separado judicialmente de pessoas e bens.\n\nf) Pessoas que com ele vivessem em economia comum há mais de dois anos.\n\n2 - Caso ao arrendatário não sobrevivam pessoas na situação prevista nas alíneas b), c) e d) do n.º 1, ou estas não pretendam a transmissão, é equiparada ao cônjuge pessoa que com ele vivesse em união de facto nos termos da presente lei.\n\n3 - Nos casos do número anterior, a posição do arrendatário transmite-se, pela ordem das respectivas alíneas, às pessoas nele referidas, preferindo, em igualdade de condições, sucessivamente, o parente ou afim mais próximo e mais idoso.\n\n4 - A transmissão a favor dos parentes ou afins também se verifica por morte do cônjuge sobrevivo quando, nos termos deste artigo, lhe tenha sido transmitido o direito ao arrendamento.",
       "alterador": 12
     },
     {
@@ -219,6 +219,7 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": "Alterador 6 (Acórdão n.º 114/98): declara inconstitucional, com força obrigatória geral, o n.º 1 do artigo 36.º do RAU — não é alteração textual, texto do 36.º mantido sem mudança. Alterador 7 (Acórdão n.º 55/99): declara inconstitucional a alínea a) do n.º 1 do artigo 69.º na parte 'ou dos seus descendentes em 1.º grau' — não é alteração textual, a alínea a) ficou tal como está (o 69.º só mudou pelo alterador 1). Alterador 9 (Acórdão n.º 97/2000): declara inconstitucional a alínea b) do n.º 1 do artigo 107.º — não é alteração textual, 107.º mantido. Nota sobre chaves: o pedido tem dois artigos com as chaves 7.º, 9.º e 12.º (os do decreto-lei preambular e os do Regime do Arrendamento Urbano); as alterações aos 7.º, 9.º e 12.º aqui devolvidas referem-se aos artigos do Regime do Arrendamento Urbano (epígrafes Forma, Licença de utilização, Obras de conservação ordinária), e não aos artigos 7.º, 9.º e 12.º do decreto-lei preambular, que não mudam. | Alterador 14 (Lei n.º 6/2006), art. 60.º, n.º 1: revoga o RAU inteiro 'com todas as alterações subsequentes, salvo nas matérias a que se referem os artigos 26.º e 28.º' — revogação global com ressalva por matéria (e o art. 26.º mantém expressamente a alínea a) do n.º 1 do artigo 107.º), não é uma revogação textual artigo a artigo que se possa aplicar com segurança; não marquei nenhum artigo como revogado. Nota: as chaves 12.º, 15.º e 16.º existem duas vezes no texto atual (artigos do decreto preambular e artigos do Regime do Arrendamento Urbano); as alterações do alterador 11 dirigem-se às do RAU (segundo bloco), que foram as que devolvi.",
   "instrucoes": [
     "Alt. 1, art. 1.º: nova redacção do 30.º (passa a um único parágrafo), da alínea a) do n.º 1 do 31.º, do proémio do n.º 1 do 69.º, do 78.º (n.os 1 e 2), do n.º 1 do 89.º e do n.º 2 do 99.º — aplicado.",
@@ -276,7 +277,5 @@
       "artigos": 15
     }
   ],
-  "problemas": [
-    "passagem 2: 85.º: parágrafo que não está no alterador nem no original: e) Pessoa que com ele viva há mais de dois anos em condições análogas às dos côn"
-  ]
+  "problemas": []
 }

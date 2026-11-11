@@ -7,12 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:299463:por
-    title: Portaria n.º 663/94
-    publication_date: '1994-07-19'
-  - id: pt:dre:672139:por
-    title: Portaria n.º 1141-A/95
-    publication_date: '1995-09-15'
   - id: pt:dre:559038:por
     title: Decreto-Lei n.º 42/97
     publication_date: '1997-02-07'
@@ -864,11 +858,11 @@ c) Direcção de Finanças de Ponta Delgada: ilhas de Santa Maria e São Miguel.
 
 5 - Sem prejuízo das disposições do presente diploma que lhes sejam directamente aplicáveis, os directores distritais de finanças, directores das direcções de finanças das Regiões Autónomas e directores de finanças são equiparados a directores de serviços, com excepção dos directores distritais de finanças de Lisboa e do Porto, que, para efeitos remuneratórios, são equiparados a subdirectores-gerais.
 
-> Alterado pelo/a [Portaria n.º 663/94](https://diariodarepublica.pt/dr/detalhe/portaria/663-1994-299463) e [Portaria n.º 1141-A/95](https://diariodarepublica.pt/dr/detalhe/portaria/1141-a-1995-672139) e [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
 
-###### Artigo 33.º — Estrutura das direcções distritais de finanças
+###### Artigo 33.º — Estrutura das direcções distritais de finanças e direcções de finanças
 
-1 - As Direcções Distritais de Finanças de Beja, Bragança, Castelo Branco, Évora, Guarda, Portalegre, Viana do Castelo e Vila Real e das Regiões Autónomas dos Açores e da Madeira dispõem das seguintes unidades orgânicas:
+1 - As Direcções Distritais de Finanças de Beja, Bragança, Castelo Branco, Évora, Guarda, Portalegre, Viana do Castelo e Vila Real, bem como as direcções de finanças das Regiões Autónomas, dispõem das seguintes unidades orgânicas:
 
 a) Divisão de Tributação e de Justiça Tributária;
 
@@ -929,6 +923,8 @@ j) Repartição não Tributária.
 5 - Em todas as direcções distritais de finanças funcionará um centro de recolha de dados, que será coordenado por um funcionário a designar por despacho do director-geral.
 
 6 - As Repartições de Administração Geral das Direcções Distritais de Finanças do Porto e de Lisboa compreendem uma Secção de Pessoal e uma Secção de Administração.
+
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
 
 ###### Artigo 34.º — Competências das divisões das direcções distritais de finanças
 
@@ -998,7 +994,7 @@ h) Assegurar o expediente necessário à execução das actividades que, não ca
 
 a) Executar as operações e praticar os actos necessários ao apuramento da situação tributária dos contribuintes, nos casos previstos na lei;
 
-b) Exercer a actividade de justiça tributária, dentro da respectiva área fiscal;
+b) Exercer as actividades de inspecção e de justiça tributárias, no âmbito da respectiva área fiscal;
 
 c) Executar os serviços complementares de administração tributária ou outros, sob coordenação do respectivo serviço distrital;
 
@@ -1012,37 +1008,61 @@ d) Executar quaisquer outras tarefas que lhes forem cometidas por lei ou determi
 
 5 - As repartições de finanças são classificadas, por portaria do Ministro das Finanças, em três níveis, conforme o volume de serviço.
 
-6 - Nas repartições de finanças dos níveis I e II, o chefe de repartição de finanças pode ser coadjuvado por um a três adjuntos.
+6 - Nas repartições de finanças de nível I e II, o chefe de repartição de finanças pode ser coadjuvado, respectivamente, por um a quatro ou por um a três adjuntos.
 
 7 - Para efeitos do previsto no presente diploma e enquanto não for publicada a portaria a que se refere o n.º 5, as repartições de 1.ª, 2.ª e 3.ª classes correspondem, respectivamente, aos níveis I, II e III.
 
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
+
 ###### Artigo 37.º — Estrutura das repartições de finanças
 
-1 - As repartições de finanças dos níveis I e II dispõem de uma secção de tributação e de uma secção de justiça tributária.
+1 - As repartições de finanças de nível I e II dispõem, em regra, de uma secção de tributação e de uma secção de justiça tributária e, sempre que se justifique, de uma secção de fiscalização tributária, chefiada por um perito de fiscalização tributária de 2.ª classe.
 
 2 - Nas repartições de finanças de nível I, quando devidamente justificado, a secção de tributação pode desdobrar-se em duas secções, por despacho do director-geral.
 
-###### Artigo 38.º — Quadro de pessoal
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
 
-1 - O quadro de pessoal da DGCI é fixado por portaria do Ministro das Finanças.
+###### Artigo 38.º — Quadros de pessoal
 
-2 - Por despacho do director-geral, é atribuída uma dotação aos tribunais tributários, serviços centrais e distritais, abrangendo esta última a direcção distrital de finanças e os serviços locais do distrito.
+1 - O quadro geral do pessoal da DGCI é fixado por portaria conjunta do Ministro das Finanças e do membro do Governo que tiver a seu cargo a função pública.
 
-3 - A distribuição da dotação distrital pelos serviços que se inserem na respectiva área será efectuada por despacho do director distrital.
+2 - Os lugares do quadro geral são distribuídos pelos seguintes quadros de pessoal, por despacho do director-geral:
 
-4 - São criados no quadro de pessoal da DGCI os lugares de direcção e de chefia constantes do mapa anexo ao presente diploma.
+a) Dos serviços centrais;
 
-###### Artigo 39.º — Directores distritais de finanças e directores de finanças
+b) Do Tribunal Tributário de 2.ª Instância;
 
-O recrutamento para os cargos de director distrital de finanças e de director de finanças faz-se de entre funcionários habilitados com o curso de administração tributária.
+c) De cada um dos tribunais tributários de 1.ª instância;
 
-###### Artigo 40.º — Directores de serviços
+d) De cada uma das direcções distritais de finanças e direcções de finanças, incluindo os respectivos serviços locais.
 
-Os cargos de director de serviços são providos nos termos da lei geral e ainda por funcionários habilitados com o curso de administração tributária, bem como por funcionários da carreira técnica de administração tributária com categoria igual ou superior a perito tributário de 1.ª classe ou perito de fiscalização tributária de 1.ª classe.
+3 - Os lugares dos quadros referidos na alínea d) do número anterior são distribuídos, por despacho do director-geral, mediante proposta dos directores distritais de finanças e dos directores das direcções de finanças das Regiões Autónomas, por quadros internos de cada uma das direcções distritais de finanças e direcções de finanças, bem como de cada um dos respectivos serviços locais, ouvidos, quanto a estes, os chefes de repartição de finanças.
+
+4 - Os quadros referidos nas alíneas a) a c) do n.º 2 do presente artigo e os mencionados no número anterior consideram-se quadros de contingentação.
+
+5 - As propostas de alteração dos quadros mencionados no n.º 3 deste artigo serão feitas, anualmente, até 31 de Janeiro.
+
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
+
+###### Artigo 39.º — Subdirectores-gerais e directores de serviços
+
+1 - Os cargos de subdirector-geral são providos, por escolha do Ministro das Finanças, de entre funcionários habilitados com o curso de Administração Tributária e ainda nos termos da lei geral.
+
+2 - Os cargos de director de serviços são providos, por escolha do Ministro das Finanças, de entre funcionários habilitados com o curso de Administração Tributária ou nos termos da lei geral, bem como de entre funcionários do grupo do pessoal técnico de administração fiscal, licenciados, que possuam categoria igual ou superior a perito tributário de 1.ª classe ou perito de fiscalização tributária de 1.ª classe.
+
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
+
+###### Artigo 40.º — Directores distritais de finanças e directores de finanças
+
+Os cargos de director distrital de finanças e de director de finanças são providos, por escolha do Ministro das Finanças, de entre funcionários da DGCI habilitados com o curso de Administração Tributária.
+
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
 
 ###### Artigo 41.º — Chefes de divisão
 
-Os cargos de chefe de divisão são providos nos termos da lei geral e ainda por funcionários da carreira técnica de administração tributária com categoria igual ou superior a perito tributário de 2.ª classe ou perito de fiscalização tributária de 2.ª classe com, pelo menos, quatro anos de antiguidade na categoria.
+Os cargos de chefe de divisão são providos de entre funcionários pertencentes ao grupo do pessoal técnico de administração fiscal com categoria igual ou superior a perito tributário de 1.ª classe ou perito de fiscalização tributária de 1.ª classe e ainda nos termos da lei geral.
+
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
 
 ###### Artigo 42.º — Pessoal de chefia tributária
 
@@ -1094,7 +1114,7 @@ b) Chefe de repartição de nível III/adjunto de chefe de repartição de níve
 
 15 - Os chefes de repartição de finanças de nível II e os adjuntos de chefe de repartição de finanças de nível I que sejam promovidos à categoria imediata da respectiva carreira podem continuar providos no mesmo lugar até à cessação da comissão de serviço por algum dos motivos enunciados no artigo 44.º
 
-> Alterado pelo/a [Portaria n.º 663/94](https://diariodarepublica.pt/dr/detalhe/portaria/663-1994-299463) e [Portaria n.º 1141-A/95](https://diariodarepublica.pt/dr/detalhe/portaria/1141-a-1995-672139) e [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
 
 ###### Artigo 43.º — Suspensão da comissão de serviço do pessoal de chefia tributária
 
@@ -1124,7 +1144,7 @@ c) Na sequência de procedimento disciplinar de que resulte pena superior a repr
 
 5 - Em caso de cessação da comissão de serviço pelos motivos indicados nas alíneas a) e b) do n.º 2 do presente artigo, o funcionário não poderá candidatar-se a cargos de chefia tributária antes de decorridos três anos após a cessação.
 
-> Alterado pelo/a [Portaria n.º 663/94](https://diariodarepublica.pt/dr/detalhe/portaria/663-1994-299463) e [Portaria n.º 1141-A/95](https://diariodarepublica.pt/dr/detalhe/portaria/1141-a-1995-672139) e [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
 
 ###### Artigo 45.º — Mobilidade interna
 
@@ -1132,11 +1152,13 @@ São instrumentos de mobilidade interna da DGCI a transferência e a deslocaçã
 
 ###### Artigo 46.º — Transferência
 
-1 - Os funcionários da DGCI podem ser transferidos, a seu pedido ou por conveniência de serviço, para dotação de diferente serviço daquele a que se encontram afectos, desde que nela exista vaga na carreira ou categoria.
+1 - Os funcionários da DGCI, com excepção dos pertencentes ao grupo do pessoal dirigente, podem ser transferidos, a seu pedido ou por conveniência de serviço, para serviço a que corresponda quadro de contingentação diferente daquele em que se encontram colocados, desde que nele exista lugar vago na respectiva categoria.
 
-2 - As regras e critérios a que obedecerá a transferência a pedido do funcionário constam de regulamento interno, a aprovar por despacho do director-geral.
+2 - As regras e critérios a que obedecerá a transferência a pedido dos funcionários serão definidas em regulamento a aprovar por despacho do Ministro das Finanças.
 
 3 - A transferência por conveniência de serviço será sempre fundamentada e carece da anuência do funcionário, caso se faça para serviço situado fora da sua área de residência.
+
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
 
 ###### Artigo 47.º — Deslocação
 
@@ -1210,7 +1232,43 @@ A DGCI pode prestar serviços e realizar trabalhos, no âmbito das suas atribui�
 
 ###### Artigo 55.º — Alterações de legislação
 
-1 - Os artigos 4.º, 9.º e 10.º do [Decreto-Lei n.º 187/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1990-575126), de 7 de Junho, passam a ter a seguinte redacção:
+1 - O artigo 52.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, passa a ter a seguinte redacção:
+
+«Artigo 52.º
+
+Nomeação
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+2 - Na falta de candidatos com a classificação indicada nas alíneas a) e b) do número anterior, poderão ser admitidos às provas de selecção para juristas e economistas candidatos licenciados nos cursos aí previstos com classificação não inferior a 14 valores ou a Bom e aprovação em mestrado.»
+
+2 - O artigo 2.º do [Decreto-Lei n.º 434/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1991-331853), de 8 de Novembro, passa a ter a seguinte redacção:
+
+«Artigo 2.º
+
+Funcionários das câmaras municipais
+
+1 - Os funcionários pertencentes aos quadros de pessoal das câmaras municipais que passaram a exercer funções nos serviços dos juízos dos tribunais tributários referidos no artigo precedente com as categorias de oficial administrativo, escriturário-dactilógrafo, telefonista, auxiliar administrativo e auxiliar de serviços gerais são integrados no quadro de pessoal da DGCI, sendo-lhes aplicável o disposto no artigo 36.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...»
+
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
 
 ###### Artigo 4.º — Mobilidade
 

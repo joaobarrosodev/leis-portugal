@@ -83,6 +83,18 @@ r) Autorizar as despesas, designadamente com bens de consumo, aquisição de mat
 
 > Alterado pelo/a [Decreto Regulamentar Regional n.º 10/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2000-515267), publicado em 2000-03-21.
 
+Aprovado em Conselho do Governo Regional em 26 de Junho de 1997.
+
+Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
+
+Assinado em 15 de Julho de 1997.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
+
+ORGÂNICA DA DIRECÇÃO REGIONAL DE EDUCAÇÃO ESPECIAL E REABILITAÇÃO
+
 ### CAPÍTULO I — Natureza e atribuições
 
 ###### Artigo 1.º — Natureza
@@ -680,18 +692,6 @@ c) Os lugares de ajudante de cozinha são providos de entre indivíduos habilita
 6 - O disposto no presente artigo não prejudica a faculdade de o chefe de repartição optar pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção introduzida pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
 
 > Aditado pelo/a [Decreto Regulamentar Regional n.º 10/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2000-515267), publicado em 2000-03-21.
-
-Aprovado em Conselho do Governo Regional em 26 de Junho de 1997.
-
-Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
-
-Assinado em 15 de Julho de 1997.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
-
-ORGÂNICA DA DIRECÇÃO REGIONAL DE EDUCAÇÃO ESPECIAL E REABILITAÇÃO
 
 ## ANEXO — Direcção Regional de Educação Especial e Reabilitação
 

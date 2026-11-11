@@ -34,6 +34,18 @@ O Governo Regional da Região Autónoma da Madeira decreta, nos termos da alíne
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
+Aprovado em Conselho do Governo Regional em 26 de Junho de 1997.
+
+Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
+
+Assinado em 15 de Julho de 1997.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
+
+ORGÂNICA DA DIRECÇÃO REGIONAL DE INOVAÇÃO E GESTÃO EDUCATIVA
+
 ### CAPÍTULO I — Natureza e atribuições
 
 ###### Artigo 1.º — Natureza
@@ -527,18 +539,6 @@ f) Pessoal auxiliar.
 1 - As condições de ingresso, acesso e carreira profissional, provimento e suas formas do pessoal da DRIGE abrangido pelo presente diploma são os estabelecidos na legislação nacional e regional aplicáveis.
 
 2 - O recrutamento para ingresso nas carreiras de operador de reprografia e de auxiliar de limpeza far-se-á mediante concurso de entre indivíduos habilitados com a escolaridade obrigatória.
-
-Aprovado em Conselho do Governo Regional em 26 de Junho de 1997.
-
-Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
-
-Assinado em 15 de Julho de 1997.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
-
-ORGÂNICA DA DIRECÇÃO REGIONAL DE INOVAÇÃO E GESTÃO EDUCATIVA
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 22.º do presente diploma)
 

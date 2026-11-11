@@ -46,6 +46,18 @@ Assim, ao abrigo do disposto no artigo 24.º do Estatuto da Carreira Docente, ap
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
+Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 2 de Dezembro de 1999.
+
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
+
+Assinado em Angra do Heroísmo em 23 de Dezembro de 1999.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
+
+REGULAMENTO DE CONCURSO DO PESSOAL DOCENTE DA EDUCAÇÃO PRÉ-ESCOLAR E ENSINOS BÁSICO E SECUNDÁRIO
+
 ### CAPÍTULO I — Disposições gerais
 
 ###### Artigo 1.º — Objecto
@@ -865,15 +877,3 @@ Por portaria do secretário regional com tutela na educação será criada uma c
 ###### Artigo 62.º — Integração de lacunas
 
 O secretário regional com tutela na educação emitirá os despachos normativos necessários à boa execução do presente Regulamento, ouvidas as organizações sindicais dos docentes.
-
-Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 2 de Dezembro de 1999.
-
-O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
-
-Assinado em Angra do Heroísmo em 23 de Dezembro de 1999.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
-
-REGULAMENTO DE CONCURSO DO PESSOAL DOCENTE DA EDUCAÇÃO PRÉ-ESCOLAR E ENSINOS BÁSICO E SECUNDÁRIO

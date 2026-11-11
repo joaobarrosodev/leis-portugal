@@ -22,6 +22,12 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 É aprovado o Regulamento dos Serviço de Registo e do Notariado, que segue assinado pelo Ministro da Justiça.
 
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 28 de Novembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - João de Matos Antunes Varela.
+
+Regulamento dos Serviços de Registo e do Notariado
+
 ### CAPÍTULO I — Das repartições de registo e dos serviços notariais
 
 #### SECÇÃO I — Conservatórias de registo civil, predial, comercial e de automóveis
@@ -975,9 +981,3 @@ Do MAPA I ao MAPA VI
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/27600/15041527.pdf)
 
 Ministério da Justiça, 28 de Novembro de 1961. - O Ministro da Justiça, João de Matos Antunes Varela.
-
-Publique-se e cumpra-se como nele se contém.
-
-Paços do Governo da República, 28 de Novembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - João de Matos Antunes Varela.
-
-Regulamento dos Serviços de Registo e do Notariado

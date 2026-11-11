@@ -146,6 +146,20 @@ Da aplicação do Estatuto aprovado pelo presente diploma não pode resultar red
 
 O pessoal na situação de pré-aposentação em efectividade de serviço que se encontre nas condições fixadas no artigo 1.º do [Decreto-Lei n.º 66/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1998-197364), de 18 de Março, mantém-se na mesma situação, sendo-lhe aplicável o regime constante do referido diploma legal.
 
+Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho.
+
+Promulgado em 8 de Novembro de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 11 de Novembro de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+ESTATUTO DO PESSOAL DA POLÍCIA DE SEGURANÇA PÚBLICA
+
 ### CAPÍTULO I — Disposições gerais
 
 ###### Artigo 1.º — Âmbito
@@ -931,20 +945,6 @@ Para o desempenho de funções especializadas de natureza não policial e não p
 ###### Artigo 78.º — Regulamentação
 
 As normas para a execução dos processos de concurso do pessoal com funções policiais são objecto de regulamento, a aprovar por portaria do Ministro da Administração Interna.
-
-Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho.
-
-Promulgado em 8 de Novembro de 1999.
-
-Publique-se.
-
-O Presidente da República, JORGE SAMPAIO.
-
-Referendado em 11 de Novembro de 1999.
-
-O Primeiro-Ministro, António Manuel de Oliveira Guterres.
-
-ESTATUTO DO PESSOAL DA POLÍCIA DE SEGURANÇA PÚBLICA
 
 ## ANEXO I — Quadro a que se refere o artigo 39.º
 

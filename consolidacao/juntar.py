@@ -59,8 +59,11 @@ def _aplicar_resposta(resposta: dict, consolidado, tocados: set[str], ligacao: s
         paragrafos = [p.strip() for p in novo["texto"].split("\n\n") if p.strip()]
         revogado = len(paragrafos) == 1 and bool(_REVOGADO.match(paragrafos[0]))
         artigo = consolidado.artigo(parte, numero)
-        if artigo is not None and artigo.chave in tocados:
+        # "4.º#2" é a segunda ocorrência de uma chave repetida (ver `texto.Corpo.artigo`)
+        if artigo is not None and novo["chave"] in tocados:
             return registos, f"artigo {novo['chave']} alterado pelas regras e pelo LLM"
+        if artigo is None and "#" in numero:
+            return registos, f"artigo {novo['chave']}: ocorrência que não existe no texto"
         if artigo is not None:
             antes, operacao = "\n".join(artigo.linhas).strip(), "revogar" if revogado else "substituir"
             nota = f"> {'Revogado' if revogado else 'Alterado'} pelo/a {ligacao}, publicado em {data}."
@@ -74,7 +77,7 @@ def _aplicar_resposta(resposta: dict, consolidado, tocados: set[str], ligacao: s
             except Falha as erro:
                 return registos, f"artigo {novo['chave']}: {erro}"
         registos.append(Registo(artigo.chave, operacao, "llm", antes, "\n".join(artigo.linhas).strip(), "", "", metodo="llm"))
-        tocados.add(artigo.chave)
+        tocados.add(novo["chave"])
     return registos, None
 
 
