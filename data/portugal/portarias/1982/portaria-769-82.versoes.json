@@ -1,0 +1,60 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:396898:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1982-08-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "30c055bed65813d9"
+   ]
+  },
+  {
+   "date": "1986-08-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:218574:por",
+     "title": "Portaria n.º 414/86",
+     "published": "1986-07-30",
+     "dre_path": "/dr/detalhe/portaria/414-1986-218574"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 17-17",
+    "Altera Artigo unidades 20-25",
+    "Altera Artigo unidades 27-35"
+   ],
+   "fragments": [
+    "d4ea5f9289222e1c"
+   ]
+  }
+ ],
+ "fragments": {
+  "30c055bed65813d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Agosto\n\nSob proposta do conselho científico da Faculdade de Medicina da Universidade de Lisboa;\n\nAo abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), de 7 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação:\n\n1.º\n\n(Criação)\n\nA Universidade de Lisboa, através da Faculdade de Medicina, concede o grau de mestre em Psiquiatria.\n\n2.º\n\n(Organização do curso)\n\n1 - O curso especializado conducente ao mestrado em Psiquiatria, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.\n\n2 - O curso integrará estágios e seminários, tendo em vista desenvolver a capacidade para a prática de investigação no domínio das ciências básicas e das ciências clínicas, bem como a capacidade de exposição didáctica e o exame crítico, teórico e prático, dos temas.\n\n3.º\n\n(Área científica)\n\nA área científica do curso é a Psiquiatria.\n\n4.º\n\n(Áreas científicas e unidades de crédito)\n\nAs áreas científicas e as unidades de crédito necessárias à conclusão do curso são:\n\na) Obrigatórias:\n\nI) Bioquímica ... 1\n\nII) Neurologia Básica, Neurofisiologia e Neuropsiquiatria ... 2\n\nIII) Psicofarmacologia ... 1\n\nIV) Psicologia Geral e Psicopatologia ... 2\n\nV) Psiquiatria Básica ... 6\n\nVI) Psiquiatria Especial e Saúde Mental ... 6\n\nb) Optativas:\n\nI) Alcoolismo ... 4\n\nII) Farmacodependências ... 4\n\nIII) Gerontopsiquiatria ... 4\n\nIV) Metodologia, Estatística e Estandardização da Descrição ... 4\n\nV) Pedopsiquiatria ... 4\n\nVI) Psicoterapia ... 4\n\nVII) Psiquiatria Forense ... 4\n\nc) Estágios e seminários ... 8\n\nTotal ... 30\n\n5.º\n\n(Precedências)\n\nA tabela e o regime de precedências serão fixados pelo conselho científico.\n\n6.º\n\n(Duração)\n\nA duração normal do curso é de 2 anos lectivos.\n\n7.º\n\n(Habilitação de acesso)\n\n1 - São admitidos à candidatura à matrícula no curso os licenciados em Medicina ou habilitação legalmente equivalente com a classificação mínima de 14 valores, que tenham realizado o internato policlínico e concluído o 2.º ano de internamento da especialidade de Psiquiatria ou que tenham equivalência do internato geral e possuam 2 anos de estágio de psiquiatria.\n\n2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.\n\n3 - Excepcionalmente, o conselho científico poderá admitir à candidatura à matrícula no curso os titulares de outra licenciatura pelas universidades portuguesas ou habilitação legalmente equivalente, providos em qualquer categoria da carreira de investigação científica e cujo currículo demonstre uma adequada preparação científica de base.\n\n8.º\n\n(«Numerus clausus»)\n\n1 - O numerus clausus do curso será fixado anualmente por despacho do Ministro da Educação.\n\n2 - Uma percentagem do numerus clausus, a fixar igualmente no despacho a que se refere o número anterior, será reservada a docentes de estabelecimentos de ensino superior.\n\n9.º\n\n(Critérios de selecção)\n\n1 - Os candidatos à matrícula no curso serão seleccionados pelo conselho científico tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 7.º ou de outros graus já obtidos pelos candidatos;\n\nb) Currículo académico, científico e técnico;\n\nc) Experiência docente.\n\n2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 2 do n.º 8.º, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino.\n\n3 - Os candidatos a que se refere o n.º 3 do n.º 7.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.\n\n4 - A selecção a que se refere o presente número será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo quando arguida de vício de forma.\n\n10.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição, bem como o regime de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso, serão os previstos na lei para os cursos de licenciatura, naquilo em que não forem contrariados pelo disposto na presente portaria e pela natureza do curso.\n\n11.º\n\n(Calendário)\n\nOs prazos de candidatura, inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o n.º 8.º\n\n12.º\n\n(Dispensa das provas complementares de doutoramentos)\n\nOs titulares de aprovação no curso terão dispensa das provas a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do grau de doutor em Medicina na especialidade de Psiquiatria.\n\nMinistério da Educação, 23 de Julho de 1982. - O Ministro da Educação, João José Fraústo da Silva."
+  },
+  "d4ea5f9289222e1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1986-08-04",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 414/86](https://diariodarepublica.pt/dr/detalhe/portaria/414-1986-218574), publicado em 1986-07-30.",
+    "Alterado pelo/a [Portaria n.º 414/86](https://diariodarepublica.pt/dr/detalhe/portaria/414-1986-218574), publicado em 1986-07-30.",
+    "Alterado pelo/a [Portaria n.º 414/86](https://diariodarepublica.pt/dr/detalhe/portaria/414-1986-218574), publicado em 1986-07-30."
+   ],
+   "markdown": "de 7 de Agosto\n\nSob proposta do conselho científico da Faculdade de Medicina da Universidade de Lisboa;\n\nAo abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), de 7 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação:\n\n1.º\n\n(Criação)\n\nA Universidade de Lisboa, através da Faculdade de Medicina, concede o grau de mestre em Psiquiatria.\n\n2.º\n\n(Organização do curso)\n\n1 - O curso especializado conducente ao mestrado em Psiquiatria, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.\n\n2 - O curso integrará estágios e seminários, tendo em vista desenvolver a capacidade para a prática de investigação no domínio das ciências básicas e das ciências clínicas, bem como a capacidade de exposição didáctica e o exame crítico, teórico e prático, dos temas.\n\n3.º\n\n(Área científica)\n\nA área científica do curso é a Psiquiatria.\n\n4.º\n\n(Áreas científicas)\n\n> Alterado pelo/a [Portaria n.º 414/86](https://diariodarepublica.pt/dr/detalhe/portaria/414-1986-218574), publicado em 1986-07-30.\n\nAs áreas científicas e as unidades de crédito necessárias à conclusão do curso são:\n\na) Obrigatórias:\n\nI) Psicopatologia e Psiquiatria ... 3\n\nII) Psiquiatria Especial ... 3\n\nIII) Medicina Psicossomática ... 3\n\nIV) Psiquiatria e Comunidade ... 1\n\nV) Terapêuticas Psiquiátricas ... 2\n\nVI) Métodos de Investigação ... 4\n\n> Alterado pelo/a [Portaria n.º 414/86](https://diariodarepublica.pt/dr/detalhe/portaria/414-1986-218574), publicado em 1986-07-30.\n\nb) Optativas:\n\nI) Psiquiatria Forense ... 1\n\nII) Toxicodependências e Alcoolismo ... 1\n\nc) Estágio e seminário ... 6\n\nTotal ... 23\n\n> Alterado pelo/a [Portaria n.º 414/86](https://diariodarepublica.pt/dr/detalhe/portaria/414-1986-218574), publicado em 1986-07-30.\n\n5.º\n\n(Precedências)\n\nA tabela e o regime de precedências serão fixados pelo conselho científico.\n\n6.º\n\n(Duração)\n\nA duração normal do curso é de 2 anos lectivos.\n\n7.º\n\n(Habilitação de acesso)\n\n1 - São admitidos à candidatura à matrícula no curso os licenciados em Medicina ou habilitação legalmente equivalente com a classificação mínima de 14 valores, que tenham realizado o internato policlínico e concluído o 2.º ano de internamento da especialidade de Psiquiatria ou que tenham equivalência do internato geral e possuam 2 anos de estágio de psiquiatria.\n\n2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.\n\n3 - Excepcionalmente, o conselho científico poderá admitir à candidatura à matrícula no curso os titulares de outra licenciatura pelas universidades portuguesas ou habilitação legalmente equivalente, providos em qualquer categoria da carreira de investigação científica e cujo currículo demonstre uma adequada preparação científica de base.\n\n8.º\n\n(«Numerus clausus»)\n\n1 - O numerus clausus do curso será fixado anualmente por despacho do Ministro da Educação.\n\n2 - Uma percentagem do numerus clausus, a fixar igualmente no despacho a que se refere o número anterior, será reservada a docentes de estabelecimentos de ensino superior.\n\n9.º\n\n(Critérios de selecção)\n\n1 - Os candidatos à matrícula no curso serão seleccionados pelo conselho científico tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 7.º ou de outros graus já obtidos pelos candidatos;\n\nb) Currículo académico, científico e técnico;\n\nc) Experiência docente.\n\n2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 2 do n.º 8.º, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino.\n\n3 - Os candidatos a que se refere o n.º 3 do n.º 7.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.\n\n4 - A selecção a que se refere o presente número será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo quando arguida de vício de forma.\n\n10.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição, bem como o regime de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso, serão os previstos na lei para os cursos de licenciatura, naquilo em que não forem contrariados pelo disposto na presente portaria e pela natureza do curso.\n\n11.º\n\n(Calendário)\n\nOs prazos de candidatura, inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o n.º 8.º\n\n12.º\n\n(Dispensa das provas complementares de doutoramentos)\n\nOs titulares de aprovação no curso terão dispensa das provas a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do grau de doutor em Medicina na especialidade de Psiquiatria.\n\nMinistério da Educação, 23 de Julho de 1982. - O Ministro da Educação, João José Fraústo da Silva."
+  }
+ }
+}

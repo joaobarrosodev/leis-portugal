@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-10-01'
+version_history:
+  file: portaria-422-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-07-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-10-01'
+    amending: pt:dre:305448:por
+    amending_title: Portaria n.º 647-A/88
+    changes:
+    - Altera Artigo unidades 19-20
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:30:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 647-A/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-422-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -151,9 +166,9 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 2 - Em Janeiro e Fevereiro, a caça a estas espécies só é permitida pelos processos, nos locais e demais condições definidos em edital da DGF.
 
-7.º - 1 - A caça às perdizes, lebres e coelhos é permitida desde o dia 23 de Outubro até ao dia 31 de Dezembro.
+7.º - (Revogado.)
 
-2 - A caça de batida aos coelhos é permitida apenas nos locais, dias e demais condições definidos em edital da DGF.
+> Alterado pelo/a [Portaria n.º 647-A/88](https://diariodarepublica.pt/dr/detalhe/portaria/647-a-1988-305448), publicado em 1988-09-26.
 
 8.º - A caça ao javali é permitida:
 

@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-08-28'
+version_history:
+  file: portaria-491-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-09-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-08-28'
+    amending: pt:dre:396689:por
+    amending_title: Portaria n.º 817/82
+    changes:
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 14-15
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:59:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 817/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1979/portaria-491-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,7 +130,25 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e Investig
 
 2.º O plano de estudos é o fixado pelo artigo 3.º do [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio, sendo a escolaridade semanal a fixada no anexo I a esta portaria.
 
-3.º A tabela de precedências é a constante do anexo II a esta portaria.
+3.º
+
+(Disciplinas de opção)
+
+1 - O elenco de disciplinas de opção será fixado anualmente pelo conselho científico.
+
+2 - O conselho científico fixará o número máximo de alunos a admitir à inscrição nas disciplinas de opção.
+
+3 - O número mínimo de alunos a admitir à inscrição em cada disciplina de opção é de 10, nos termos do n.º 3 do artigo 5.º do [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio.
+
+4 - Exceptuam-se do disposto no n.º 3 os casos em que:
+
+a) O docente assegure a regência da disciplina a título gratuito;
+
+b) O docente assegure a regência da disciplina para além do número máximo de horas de serviço de aulas ou seminários a que é obrigado por lei;
+
+c) Não existindo outro serviço para distribuir ao docente, este complete com a regência da disciplina o número de horas de ensino que por lei deva assegurar.
+
+> Alterado pelo/a [Portaria n.º 817/82](https://diariodarepublica.pt/dr/detalhe/portaria/817-1982-396689), publicado em 1982-08-28.
 
 Ministério da Educação e Investigação Científica, 30 de Julho de 1979. - O Ministro da Educação e Investigação Científica, Luís Francisco Valente de Oliveira.
 
@@ -124,6 +158,4 @@ Do 1.º ano ao 4.º ano
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20900/22582258.pdf)
 
-## ANEXO II — Curso de Filosofia
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20900/22582258.pdf)
+> Alterado pelo/a [Portaria n.º 817/82](https://diariodarepublica.pt/dr/detalhe/portaria/817-1982-396689), publicado em 1982-08-28.

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-09'
+version_history:
+  file: portaria-1121-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-10-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-09'
+    amending: pt:dre:643364:por
+    amending_title: Portaria n.º 808/97
+    changes:
+    - Adita Artigo depois da unidade 8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1121/1991/10/29/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:38:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 808/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-1121-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,6 +155,32 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 2.º Têm ingresso no curso os detentores de diploma de curso de bacharelato em Gestão ou habilitados com outro curso superior adequado, sem prejuízo de outros requisitos que sejam estabelecidos no regulamento interno do Instituto Superior de Administração e Gestão - ISAG.
 
 3.º Aos diplomas emitidos pela conclusão do curso são reconhecidos os efeitos previstos no n.º 6 do artigo 13.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro.
+
+3.º-A
+
+Grau de licenciado
+
+1 - Aos titulares do diploma de estudos superiores especializados que nele hajam ingressado com a titularidade do bacharelato em Gestão do Instituto Superior de Administração e Gestão é conferido o grau de licenciado em Gestão Financeira.
+
+2 - Pode ainda ser conferido o grau de licenciado em Gestão Financeira aos titulares do diploma de estudos superiores especializados que nele hajam ingressado com a titularidade de um bacharelato na área de Gestão que forme um conjunto coerente com o curso de estudos superiores especializados nos termos do n.º 7 do artigo 13.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro.
+
+3 - O conselho científico ou o órgão estatutariamente correspondente do Instituto verifica, em cada caso concreto, a existência da referida coerência.
+
+3.º-B
+
+Classificação do grau de licenciado
+
+A classificação do grau de licenciado é a resultante do cálculo da expressão seguinte, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas):
+
+(3B + 2D)/5
+
+em que:
+
+B é a classificação final do curso com que ingressou no curso de estudos superiores especializados;
+
+D é a classificação final do curso de estudos superiores especializados.
+
+> Aditado pelo/a [Portaria n.º 808/97](https://diariodarepublica.pt/dr/detalhe/portaria/808-1997-643364), publicado em 1997-09-04.
 
 4.º A autorização e o reconhecimento estabelecidos na presente portaria não prejudicam, sob pena de revogação, a obrigatoriedade do cumprimento de eventuais adaptações ou correcções que sejam determinadas pela Direcção-Geral do Ensino Superior, quer em resultado da análise do processo que fundamentou a presente portaria quer de futuras informações daquele departamento, de acordo com a legislação em vigor.
 

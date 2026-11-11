@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-16'
+version_history:
+  file: portaria-544-ai-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-10-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-16'
+    amending: pt:dre:649080:por
+    amending_title: Portaria n.º 965/97
+    changes:
+    - Altera Artigo unidades 9-9
+    - Adita Artigo depois da unidade 9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/544-ai/1996/10/04/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:32:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 965/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-544-ai-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,7 +175,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia e município da Azambuja, com uma área de 2733,6998 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município da Azambuja, com a área de 2712,1618 ha.
+
+> Alterado pelo/a [Portaria n.º 965/97](https://diariodarepublica.pt/dr/detalhe/portaria/965-1997-649080), publicado em 1997-09-15.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 965/97](https://diariodarepublica.pt/dr/detalhe/portaria/965-1997-649080), publicado em 1997-09-15.
 
 2.º Pelo presente diploma é concessionada, até 28 de Junho de 2006, à Associação Desportiva de Caçadores do Concelho da Azambuja (registo da Direcção-Geral das Florestas n.º 3.707.90), com sede na Rua de Vítor Cordon, 77, Azambuja, a zona de caça associativa da freguesia da Azambuja (processo n.º 1558 da Direcção-Geral das Florestas).
 

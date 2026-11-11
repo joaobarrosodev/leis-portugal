@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-01-08'
+version_history:
+  file: despacho-normativo-174-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-07-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-01-08'
+    amending: pt:dre:433031:por
+    amending_title: Despacho Normativo n.º 45/95; Despacho Normativo n.º 45/95; Despacho Normativo n.º 1/96
+    changes:
+    - Altera Artigo unidades 13-14
+    - Altera Artigo unidades 18-18
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/174/1993/07/26/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:01:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 45/95; Despacho
+    Normativo n.º 45/95; Despacho Normativo n.º 1/96. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1993/despacho-normativo-174-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,9 +175,11 @@ a) Número de inscrição do produtor, a fornecer pelo INGA;
 
 b) Quantidades vendidas por tipo de cereal ou pelo tipo comercial de arroz paddy [conforme consta no anexo A do Regulamento (CEE) n.º [1418/78](http://data.europa.eu/eli/reg/1978/1418/oj?locale=pt), do Conselho, de 21 de Junho], tendo em conta que:
 
-As quantidades de milho indicadas deverão estar convertidas em peso equivalente à taxa de humidade de 14%;
+As quantidades de milho indicadas deverão estar convertidas em peso equivalente à taxa de humidade de 14,5%;
 
-As quantidades de arroz em casca indicadas deverão estar convertidas em peso equivalente à taxa de humidade 14,5%;
+As quantidades de arroz em casca indicadas deverão estar convertidas em peso equivalente à taxa de humidade de 14,5%;
+
+> Alterado pelo/a [Despacho Normativo n.º 45/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/45-1995-433031), publicado em 1995-08-29.
 
 c) Data das entregas dos cereais e do arroz.
 
@@ -169,7 +187,9 @@ c) Data das entregas dos cereais e do arroz.
 
 8 - Os produtores, respectivos mandatários e compradores deverão facultar todos os meios necessários à execução das acções de controlo a efectuar pelo INGA ou outras entidades por este designadas para o efeito, sendo rejeitados os pedidos de ajuda se não for possível proceder ao controlo no local imputável ao requerente, salvo caso de força maior.
 
-9 - Se o controlo de campo indicar um excedente superior a 10% ou a 5 ha entre as superfícies declaradas e controladas, serão indeferidos os pedidos de pagamento de ajuda efectuados no decurso da campanha de comercialização em causa.
+9 - Se o controlo de campo indicar um excedente superior a 15% entre as superfícies declaradas e controladas, serão indeferidos os pedidos de pagamento de ajuda efectuados no decurso da campanha de comercialização em causa.
+
+> Alterado pelo/a [Despacho Normativo n.º 1/96](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-1996-621332), publicado em 1996-01-03.
 
 10 - Para a campanha de comercialização em curso (1992-1993), a ajuda aos produtores de arroz paddy é concedida ao produtor que tenha comercializado o arroz, por si produzido e colhido em território nacional em 1992, a partir de 1 de Abril de 1993.
 

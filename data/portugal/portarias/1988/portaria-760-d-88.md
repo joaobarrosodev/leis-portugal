@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-10-16'
+version_history:
+  file: portaria-760-d-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-11-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-10-16'
+    amending: pt:dre:673586:por
+    amending_title: Portaria n.º 893/99
+    changes:
+    - Altera Artigo unidades 7-7
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:38:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 893/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-760-d-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,11 +148,15 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 1.º Fica sujeita ao regime cinegético especial a propriedade denominada «Herdade de Santo Isidro», situada na freguesia de Nossa Senhora da Graça de Póvoa e Meadas, concelho de Castelo de Vide, com uma área total de 2227 ha, constante da planta anexa a este diploma.
 
-2.º Nesta área é concedida à Sociedade Agro-Florestal do Rodão, S. A., a exploração de uma zona de caça turística (processo n.º 13 da Direcção-Geral das Florestas) por um período de doze anos.
+2.º Nesta área é concedida à Casa da Meada - Sociedade de Desenvolvimento Agro-Turismo, S. A., a exploração de uma zona de caça turística (processo n.º 13 da Direcção-Geral das Florestas) por um período de doze anos.
+
+> Alterado pelo/a [Portaria n.º 893/99](https://diariodarepublica.pt/dr/detalhe/portaria/893-1999-673586), publicado em 1999-10-11.
 
 3.º Nesta zona de caça é facultado o exercício venatório a todos os caçadores em igualdade de circunstâncias, quando devidamente licenciados pela entidade gestora.
 
-4.º Nesta zona de caça, a Sociedade Agro-Florestal do Rodão, S. A., entidade responsável pela sua gestão, fica obrigada a cumprir e fazer cumprir o plano de ordenamento e exploração cinegético aprovado pela Direcção-Geral das Florestas, nomeadamente no respeitante aos limites anuais de cada uma das espécies, períodos, processos e meios de caça respectivos.
+4.º Nesta zona de caça, a Casa da Meada - Sociedade de Desenvolvimento Agro-Turismo, S. A., entidade responsável pela sua gestão, fica obrigada a cumprir e fazer cumprir o plano de ordenamento e exploração cinegético aprovado pela Direcção-Geral das Florestas, nomeadamente no respeitante aos limites anuais de cada uma das espécies, períodos, processos e meios de caça respectivos.
+
+> Alterado pelo/a [Portaria n.º 893/99](https://diariodarepublica.pt/dr/detalhe/portaria/893-1999-673586), publicado em 1999-10-11.
 
 5.º A entidade concessionária fica obrigada a fazer cumprir as disposições legais e regulamentares da legislação da caça e as regras do plano de ordenamento e exploração, respondendo pelo cumprimento dessas normas, sem prejuízo da responsabilidade pessoal dos infractores.
 

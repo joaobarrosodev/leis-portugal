@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-03-11'
+version_history:
+  file: portaria-108-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-02-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-03-11'
+    amending: pt:dre:300386:por
+    amending_title: Portaria n.º 207-A/89; Portaria n.º 207-A/89
+    changes:
+    - Altera Artigo unidades 87-88
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:43:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 207-A/89; Portaria n.º
+    207-A/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-108-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -277,9 +292,11 @@ b) Os estudantes inscritos no território de Macau [alínea i) do n.º 4.º], qu
 
 Data de realização da prova
 
-1 - A primeira chamada da prova terá lugar no dia 31 de Março de 1989.
+1 - A primeira chamada da prova terá lugar no dia 3 de Abril de 1989.
 
-2 - A segunda chamada da prova terá lugar no dia 3 de Abril de 1989.
+2 - A segunda chamada da prova terá lugar no dia 10 de Abril de 1989.
+
+> Alterado pelo/a [Portaria n.º 207-A/89](https://diariodarepublica.pt/dr/detalhe/portaria/207-a-1989-300386), publicado em 1989-03-11.
 
 12.º
 

@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-06-05'
+version_history:
+  file: portaria-393-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-08-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-06-05'
+    amending: pt:dre:475972:por
+    amending_title: Portaria n.º 346/98
+    changes:
+    - Altera Artigo unidades 34-41
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/393/1996/08/21/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:28:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 346/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-393-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -225,21 +240,9 @@ N.º 10.º, n.º 2: 42,3 ECU/dia, até ao montante máximo de 3018,8 ECU por té
 
 N.º 10.º, n.º 3: 50500 ECU.
 
-7.º Os valores fixados na Portaria n. 1177/95, de 26 de Setembro, são alterados para os seguintes montantes:
+7.º - (Revogado.)
 
-N.º 7.º, n.º 1:
-
-22701,2 ECU;
-
-28376,5 ECU;
-
-N.º 7.º, n.º 2:
-
-22701,2 ECU;
-
-28376,5 ECU.
-
-## Anexo V: — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)
+> Alterado pelo/a [Portaria n.º 346/98](https://diariodarepublica.pt/dr/detalhe/portaria/346-1998-475972), publicado em 1998-06-05.
 
 8.º Os valores constantes dos contratos de atribuição de ajuda celebrados até à data de entrada em vigor desta portaria e no âmbito dos diplomas referidos nos números anteriores são actualizados por aplicação do factor de correcção de 1,207509.
 

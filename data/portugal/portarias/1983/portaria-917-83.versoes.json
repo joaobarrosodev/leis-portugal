@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:441280:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-10-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "356f2928420f99a1"
+   ]
+  },
+  {
+   "date": "1985-10-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178358:por",
+     "title": "Portaria n.º 768/85",
+     "published": "1985-10-12",
+     "dre_path": "/dr/detalhe/portaria/768-1985-178358"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-23"
+   ],
+   "fragments": [
+    "644d4989bae773e2"
+   ]
+  }
+ ],
+ "fragments": {
+  "356f2928420f99a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Outubro\n\nConsiderando que a [Portaria n.º 829/83](https://diariodarepublica.pt/dr/detalhe/portaria/829-1983-454324), de 8 de Agosto, que aprova o quadro do pessoal da Missão de Portugal junto das Comunidades Europeias (CEE), foi publicada sem indicação de que deveria produzir efeitos a partir de 1 de Janeiro do corrente ano por razões de ordem estrutural e orçamental relacionadas com a extinção do Secretariado para a Cooperação Económica e Técnica Externa através do [Decreto-Lei n.º 41/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1982-600510), de 8 de Fevereiro;\n\nConsiderando que a mesma portaria, por lapso de publicação, no seu n.º 2 não definiu a categoria dos funcionários do quadro do pessoal do serviço diplomático que podem ocupar o lugar de chefe-adjunto da Missão:\n\nManda o Governo da República Portuguesa, pelos Ministros dos Negócios Estrangeiros e das Finanças e do Plano, por força do artigo 5.º do [Decreto-Lei n.º 41/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1982-600510), de 8 de Fevereiro, o seguinte:\n\n1.º É aprovado o quadro do pessoal da Missão de Portugal junto das Comunidades Europeias, criada por despacho ministerial de 14 de Maio de 1962 da Presidência do Conselho de Ministros, com a seguinte composição:\n\n1) Chefe da Missão - o embaixador de Portugal;\n\n2) Chefe-adjunto da Missão - funcionário do quadro do pessoal do serviço diplomático com a categoria de ministro plenipotenciário de 1.ª classe ou de 2.ª classe;\n\n3) Membros da Missão:\n\na) 3 funcionários do quadro do pessoal do serviço diplomático de qualquer categoria;\n\nb) 1 conselheiro técnico principal;\n\nc) 4 conselheiros técnicos;\n\nd) 2 adidos técnicos;\n\n4) Pessoal assalariado:\n\n1 chanceler;\n\n1 arquivista;\n\n2 secretários-tradutores;\n\n3 secretários de 1.ª classe;\n\n2 secretários de 2.ª classe;\n\n1 escriturário-dactilógrafo;\n\n1 motorista;\n\n1 contínuo;\n\n2 auxiliares de serviço.\n\n2.º A presente portaria produz efeitos a partir de 1 de Janeiro de 1983 e revoga a [Portaria n.º 829/83](https://diariodarepublica.pt/dr/detalhe/portaria/829-1983-454324), de 8 de Agosto.\n\nMinistérios dos Negócios Estrangeiros e das Finanças e do Plano.\n\nAssinada em 15 de Setembro de 1983.\n\nO Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes."
+  },
+  "644d4989bae773e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1985-10-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 768/85](https://diariodarepublica.pt/dr/detalhe/portaria/768-1985-178358), publicado em 1985-10-12."
+   ],
+   "markdown": "de 7 de Outubro\n\nConsiderando que a [Portaria n.º 829/83](https://diariodarepublica.pt/dr/detalhe/portaria/829-1983-454324), de 8 de Agosto, que aprova o quadro do pessoal da Missão de Portugal junto das Comunidades Europeias (CEE), foi publicada sem indicação de que deveria produzir efeitos a partir de 1 de Janeiro do corrente ano por razões de ordem estrutural e orçamental relacionadas com a extinção do Secretariado para a Cooperação Económica e Técnica Externa através do [Decreto-Lei n.º 41/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1982-600510), de 8 de Fevereiro;\n\nConsiderando que a mesma portaria, por lapso de publicação, no seu n.º 2 não definiu a categoria dos funcionários do quadro do pessoal do serviço diplomático que podem ocupar o lugar de chefe-adjunto da Missão:\n\nManda o Governo da República Portuguesa, pelos Ministros dos Negócios Estrangeiros e das Finanças e do Plano, por força do artigo 5.º do [Decreto-Lei n.º 41/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1982-600510), de 8 de Fevereiro, o seguinte:\n\n1.º É aprovado o quadro do pessoal da Missão de Portugal junto das Comunidades Europeias, criada por despacho ministerial de 14 de Maio de 1962 da Presidência do Conselho de Ministros, com a seguinte composição:\n\n1) Chefe da Missão, 1 funcionário do quadro do pessoal do serviço diplomático com a categoria de embaixador;\n\n2) Chefe adjunto da Missão, 1 funcionário do quadro do pessoal do serviço diplomático com a categoria de ministro plenipotenciário de 1.ª classe ou de 2.ª classe;\n\n3) Pessoal diplomático:\n\n15 funcionários do quadro do pessoal do serviço diplomático de qualquer categoria;\n\n4) Pessoal especializado:\n\n25 funcionários do quadro do pessoal especializado com a categoria de conselheiro técnico principal, conselheiro ou adido técnico;\n\n5) Pessoal administrativo:\n\n2 funcionários do quadro do pessoal administrativo;\n\n6) Pessoal assalariado:\n\n3 chanceleres;\n\n3 arquivistas;\n\n11 assistentes tradutores;\n\n3 secretários de 1.ª classe;\n\n2 secretários de 2.ª classe;\n\n2 escriturários-dactilógrafos;\n\n3 telefonistas;\n\n3 motoristas;\n\n1 porteiro;\n\n3 contínuos;\n\n3 guardas;\n\n3 auxiliares de serviço.\n\n> Alterado pelo/a [Portaria n.º 768/85](https://diariodarepublica.pt/dr/detalhe/portaria/768-1985-178358), publicado em 1985-10-12.\n\n2.º A presente portaria produz efeitos a partir de 1 de Janeiro de 1983 e revoga a [Portaria n.º 829/83](https://diariodarepublica.pt/dr/detalhe/portaria/829-1983-454324), de 8 de Agosto.\n\nMinistérios dos Negócios Estrangeiros e das Finanças e do Plano.\n\nAssinada em 15 de Setembro de 1983.\n\nO Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes."
+  }
+ }
+}

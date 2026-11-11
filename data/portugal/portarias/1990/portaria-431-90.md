@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-02-20'
+version_history:
+  file: portaria-431-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-06-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-02-20'
+    amending: pt:dre:402571:por
+    amending_title: Portaria n.º 65/2000
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:20:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 65/2000. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-431-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,7 +154,9 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 1.º Ficam sujeitas ao regime cinegético especial as propriedades englobadas pela poligonal constante da planta anexa, denominadas «Herdade dos Sordos», «Vale de Zebro» e anexas, com uma área de 1936,8750 ha, situadas nas freguesias de Assumar e Monforte, concelho de Monforte.
 
-2.º Nesta área, até ao dia 31 de Maio de 2001, é concedida à Associação de Caçadores José Maria Pereira de Moura (registo na Direcção-Geral das Florestas n.º 4.458.89) a exploração de uma zona de caça associativa (processo n.º 111 da Direcção-Geral das Florestas).
+2.º Nesta área, até ao dia 12 de Agosto de 2001, é concedida à Associação de Caçadores José Maria Pereira de Moura (registo na Direcção-Geral das Florestas n.º 4.458.89) a exploração de uma zona de caça associativa (processo n.º 111 da Direcção-Geral das Florestas).
+
+> Alterado pelo/a [Portaria n.º 65/2000](https://diariodarepublica.pt/dr/detalhe/portaria/65-2000-402571), publicado em 2000-02-15.
 
 3.º Nesta zona de caça é facultado o exercício venatório a todos os membros da Associação de Caçadores José Maria Pereira de Moura, com observância das regras legais e das suas normas estatutárias e regulamentares.
 

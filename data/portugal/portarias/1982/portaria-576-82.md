@@ -29,10 +29,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-09-26'
+version_history:
+  file: portaria-576-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-09-26'
+    amending: pt:dre:177066:por
+    amending_title: Portaria n.º 704/85
+    changes:
+    - Adita Artigo depois da unidade 51
+    - Altera Artigo unidades 63-63
+    - Altera Artigo unidades 69-69
+    - Adita Artigo depois da unidade 71
 identifiers:
   celex: null
   eli: null
@@ -58,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:19:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 704/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-576-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -212,6 +230,18 @@ c) Passagem do duplicado ou substituição do certificado ... 2500$00
 
 d) Cancelamento do certificado ... 1000$00
 
+3.4 - Inspecção para efeitos de emissão de certificados ADR e RPE:
+
+a) Inspecção dos veículos e passagem do respectivo certificado, por unidade ... 7500$00
+
+b) Revalidação do certificado ... 2500$00
+
+c) Passagem de duplicado ou substituição do certificado ... 2500$00
+
+d) Cancelamento do certificado ... 1000$00
+
+> Aditado pelo/a [Portaria n.º 704/85](https://diariodarepublica.pt/dr/detalhe/portaria/704-1985-177066), publicado em 1985-09-21.
+
 4 - Homologações
 
 4.1 - Visto em catálogos de veículos, motores ou tabelas de pneumáticos ... 1000$00
@@ -234,7 +264,9 @@ b) Projectos de construção ou transformação de caixas ou outros órgãos de 
 
 c) Projectos de publicidade em veículos ... 2500$00
 
-d) Modelos de dispositivos de pré-sinalização, cintos de segurança, capacetes de protecção e outros ... 1000$00
+d) Modelos de dispositivos de pré-sinalização, cintos de segurança, capacetes de protecção e outros acessórios ou componentes ... 2000$00
+
+> Alterado pelo/a [Portaria n.º 704/85](https://diariodarepublica.pt/dr/detalhe/portaria/704-1985-177066), publicado em 1985-09-21.
 
 e) Modelos de dispositivos que permitam consumir gás ou outro carburante especial ... 1250$00
 
@@ -246,11 +278,17 @@ e) Modelos de dispositivos que permitam consumir gás ou outro carburante especi
 
 a) Veículos em quadro para efeitos de carroçamento ... 500$00
 
-b) Máquinas industriais ... 500$00
+b) Máquinas industriais ... 1000$00
+
+> Alterado pelo/a [Portaria n.º 704/85](https://diariodarepublica.pt/dr/detalhe/portaria/704-1985-177066), publicado em 1985-09-21.
 
 c) Veículos cujos pesos e dimensões excedem os previstos nos artigos 18.º e 19.º do Código da Estrada (por veículo e por viagem) ... 1000$00
 
 5.3 - Aprovação de contentores por modelo e passagem do respectivo certificado, de acordo com a resolução n.º 31 do grupo de peritos dos problemas aduaneiros relativos a transportes do Comité dos Transportes Interiores da Comissão Económica para a Europa ... 10500$00
+
+5.4 - Autorização para instalação e uso de luzes avisadoras, azuis ou amarelas ... 1000$00
+
+> Aditado pelo/a [Portaria n.º 704/85](https://diariodarepublica.pt/dr/detalhe/portaria/704-1985-177066), publicado em 1985-09-21.
 
 II - Ensino de condução
 

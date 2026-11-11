@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-01-07'
+version_history:
+  file: portaria-2-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-01-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-07'
+    amending: pt:dre:202669:por
+    amending_title: Portaria n.º 2/2006
+    changes:
+    - Altera Artigo unidades 27-30
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/2/2000/01/04/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:22:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 2/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-2-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -211,10 +226,32 @@ Pelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do 
 
 Curso de Comércio Internacional
 
-1.º ciclo - grau de bacharel
+1.º ciclo - Grau de bacharel
 
-[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/01/002b00/00120014.pdf)](https://files.diariodarepublica.pt/1s/2000/01/002b00/00120014.pdf)
+QUADRO N.º 1
 
-2.º ciclo - grau de licenciado
+1.º ano
 
-[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/01/002b00/00120014.pdf)](https://files.diariodarepublica.pt/1s/2000/01/002b00/00120014.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001b00/00220024.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001b00/00220024.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001b00/00220024.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001b00/00220024.pdf)
+
+QUADRO N.º 2
+
+2.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001b00/00220024.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001b00/00220024.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001b00/00220024.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001b00/00220024.pdf)
+
+QUADRO N.º 3
+
+3.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001b00/00220024.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001b00/00220024.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001b00/00220024.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001b00/00220024.pdf)
+
+2 ciclo - Grau de licenciado
+
+QUADRO N.º 4
+
+1.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001b00/00220024.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001b00/00220024.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001b00/00220024.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001b00/00220024.pdf)
+
+> Alterado pelo/a [Portaria n.º 2/2006](https://diariodarepublica.pt/dr/detalhe/portaria/2-2006-202669), publicado em 2006-01-02.

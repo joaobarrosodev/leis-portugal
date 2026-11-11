@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-03-16'
+version_history:
+  file: portaria-1220-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-12-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-03-16'
+    amending: pt:dre:658215:por
+    amending_title: Portaria n.º 232/93; Portaria n.º 144/94
+    changes:
+    - Altera Artigo unidades 33-33
+    - Altera Artigo unidades 43-43
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:12:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 232/93; Portaria n.º
+    144/94. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-1220-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -175,7 +191,9 @@ a) Sejam maiores e possuam a escolaridade mínima obrigatória;
 
 b) Procedam ao pagamento, na Tesouraria da Direcção-Geral de Transportes Terrestres, da respectiva inscrição, no montante de 10000$00.
 
-2.º O júri de exame para avaliação de conhecimento dos grupos de matérias constantes da lista anexa será constituído por um presidente e quatro vogais escolhidos em razão da sua competência de entre pessoal dos quadros dos organismos do Ministério das Obras Públicas, Transportes e Comunicações com atribuições em matéria de transportes terrestres ou circulação rodoviária e nomeados por despacho do director-geral de Transportes Terrestres, ouvido o director-geral de Viação.
+2.º O júri de exame para avaliação de conhecimento dos grupos de matérias constantes da lista anexa será constituído por um presidente e quatro vogais, escolhidos em razão da sua competência e nomeados por despacho do director-geral de Transportes Terrestres.
+
+> Alterado pelo/a [Portaria n.º 232/93](https://diariodarepublica.pt/dr/detalhe/portaria/232-1993-658215), publicado em 1993-02-27.
 
 3.º As decisões do júri serão tomadas por maioria, tendo o presidente voto de qualidade.
 
@@ -195,7 +213,9 @@ A aprovação depende da obtenção de pelo menos 50% de respostas certas em cad
 
 10.º A revisão de provas será feita pelo respectivo júri nos oito dias úteis a contar da data do pedido de revisão.
 
-11.º Os candidatos que tenham reprovado só poderão inscrever-se para novo exame decorridos, no mínimo, seis meses a contar da data da afixação das listas a que se refere o n.º 9.º
+11.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 144/94](https://diariodarepublica.pt/dr/detalhe/portaria/144-1994-276666), publicado em 1994-03-11.
 
 12.º Só serão admitidos à realização das provas os candidatos que:
 

@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-12-27'
+version_history:
+  file: portaria-510-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-07-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-12-27'
+    amending: pt:dre:423639:por
+    amending_title: Portaria n.º 1405/2003
+    changes:
+    - Altera Artigo unidades 21-24
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/510/1999/07/16/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:15:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1405/2003. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-510-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -190,10 +205,32 @@ Escola Superior de Gestão
 
 Curso de Gestão Turística e Cultural
 
-1.º Ciclo - Grau de bacharel
+1.º ciclo - Grau de bacharel
 
-[(ver quadros n.os 1 a 3 no documento original)](https://files.diariodarepublica.pt/1s/1999/07/164b00/44484450.pdf)
+QUADRO N.º 1
+
+1.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)
+
+QUADRO N.º 2
+
+2.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)
+
+QUADRO N.º 3
+
+3.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)
 
 2.º ciclo - Grau de licenciado
 
-[(ver quadro n.º 4 no documento original)](https://files.diariodarepublica.pt/1s/1999/07/164b00/44484450.pdf)
+QUADRO N.º 4
+
+4.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)
+
+> Alterado pelo/a [Portaria n.º 1405/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1405-2003-423639), publicado em 2003-12-22.

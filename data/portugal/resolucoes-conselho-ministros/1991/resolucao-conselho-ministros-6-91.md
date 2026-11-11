@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-09-17'
+version_history:
+  file: resolucao-conselho-ministros-6-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-02-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-09-17'
+    amending: pt:dre:239246:por
+    amending_title: Resolução do Conselho de Ministros n.º 34/92
+    changes:
+    - Altera Artigo unidades 15-16
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/6/1991/02/07/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:32:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 34/92. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1991/resolucao-conselho-ministros-6-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,9 +149,11 @@ Nos termos da alínea d) do artigo 202.º da Constituição, o Governo resolveu:
 
 a) O Ministro do Ambiente e Recursos Naturais, que preside;
 
-b) O secretário-geral do Ministério do Ambiente e Recursos Naturais, que é, por inerência de funções, o secretário da CCA;
+b) Um representante designado por cada um dos seguintes ministros: Ministro da Defesa Nacional, Ministro da Administração Interna, Ministro das Finanças, Ministro do Planeamento e da Administração do Território, Ministro da Justiça, Ministro dos Negócios Estrangeiros, Ministro da Agricultura, Ministro da Indústria e Energia, Ministro da Educação, Ministro das Obras Públicas, Transportes e Comunicações, Ministro da Saúde, Ministro do Emprego e da Segurança Social, Ministro do Comércio e Turismo, Ministro do Ambiente e Recursos Naturais, Ministro do Mar e Ministro Adjunto;
 
-c) Um representante designado por cada um dos seguintes ministros: Ministro da Defesa Nacional, Ministro das Finanças, Ministro do Planeamento e da Administração do Território, Ministro da Administração Interna, Ministro da Justiça, Ministro da Agricultura, Pescas e Alimentação, Ministro da Indústria e Energia, Ministro das Obras Públicas, Transportes e Comunicações, Ministro da Saúde e Ministro do Comércio e Turismo;
+c) O secretário-geral do Ministério do Ambiente e Recursos Naturais, que é, por inerência de funções, o secretário da CCA;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 34/92](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-1992-239246), publicado em 1992-09-12.
 
 d) Um representante de cada uma das regiões autónomas, designado pelo respectivo governo regional.
 

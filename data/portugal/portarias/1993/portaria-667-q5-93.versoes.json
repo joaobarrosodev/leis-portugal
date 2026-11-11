@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:402167:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-07-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f4f2f3e4969575f3"
+   ]
+  },
+  {
+   "date": "1997-09-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:644515:por",
+     "title": "Portaria n.º 874/97",
+     "published": "1997-09-10",
+     "dre_path": "/dr/detalhe/portaria/874-1997-644515"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8",
+    "Adita Artigo depois da unidade 8"
+   ],
+   "fragments": [
+    "a7d54533f5077bd8"
+   ]
+  }
+ ],
+ "fragments": {
+  "f4f2f3e4969575f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Julho\n\nPela [Portaria n.º 509/91](https://diariodarepublica.pt/dr/detalhe/portaria/509-1991-633548), de 6 de Junho, foi concedida ao Clube de Caçadores de Assentiz uma zona de caça associativa com uma área de 941,25 ha, situada nos municípios de Rio Maior e de Santarém.\n\nA concessionária requereu agora a anexação de outros prédios rústicos, sitos no município de Rio Maior, com uma área de 538,50 ha.\n\nCom fundamento no disposto nos artigos 19.º, 20.º, 21.º e 26.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 80.º e 81.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro;\n\nOuvido o Conselho Nacional da Caça e da Conservação da Fauna:\n\nManda o Governo, pelo Ministro da Agricultura, o seguinte:\n\n1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos nas freguesias de Assentiz, Almoster e Vila de Marmeleira, municípios de Santarém e de Rio Maior, com uma área de 1479,75 ha.\n\n2.º Pelo presente diploma é concessionada, até 6 de Junho de 2006, ao Clube de Caçadores de Assentiz (registo no Instituto Florestal n.º 3.692.90), com sede em Assentiz, Rio Maior, a zona de caça associativa (processo n.º 535 do Instituto Florestal).\n\n3.º O Clube de Caçadores de Assentiz, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigado a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegética aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.\n\n4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados do Clube de Caçadores de Assentiz, com observância das regras legais e das suas normas estatutárias e regulamentares.\n\n5.º - 1 - A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.\n\n2 - A sinalização obedecerá às condições definidas nos n.os 6.º a 9.º da [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), 3.º e 4.º da [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925) e 6.º e 7.º da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697), de 18 de Março.\n\n6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se o concessionário a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).\n\n7.º O disposto no presente diploma não é aplicável às áreas consignadas no artigo 14.º, n.os 1 e 2, da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.\n\n8.º Esta concessão é renovável nos termos do disposto no artigo 83.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874).\n\n9.º É revogada a [Portaria n.º 509/91](https://diariodarepublica.pt/dr/detalhe/portaria/509-1991-633548), de 6 de Junho.\n\nMinistério da Agricultura.\n\nAssinada em 14 de Julho de 1993.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/163b02/01150116.pdf)"
+  },
+  "a7d54533f5077bd8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1997-09-11",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 874/97](https://diariodarepublica.pt/dr/detalhe/portaria/874-1997-644515), publicado em 1997-09-10.",
+    "Aditado pelo/a [Portaria n.º 874/97](https://diariodarepublica.pt/dr/detalhe/portaria/874-1997-644515), publicado em 1997-09-10."
+   ],
+   "markdown": "de 14 de Julho\n\nPela [Portaria n.º 509/91](https://diariodarepublica.pt/dr/detalhe/portaria/509-1991-633548), de 6 de Junho, foi concedida ao Clube de Caçadores de Assentiz uma zona de caça associativa com uma área de 941,25 ha, situada nos municípios de Rio Maior e de Santarém.\n\nA concessionária requereu agora a anexação de outros prédios rústicos, sitos no município de Rio Maior, com uma área de 538,50 ha.\n\nCom fundamento no disposto nos artigos 19.º, 20.º, 21.º e 26.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 80.º e 81.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro;\n\nOuvido o Conselho Nacional da Caça e da Conservação da Fauna:\n\nManda o Governo, pelo Ministro da Agricultura, o seguinte:\n\n1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Assentiz, Almoster e Vila de Marmeleira, municípios de Santarém e Rio Maior, com a área de 1496,8611 ha.\n\n> Alterado pelo/a [Portaria n.º 874/97](https://diariodarepublica.pt/dr/detalhe/portaria/874-1997-644515), publicado em 1997-09-10.\n\n1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.\n\n> Aditado pelo/a [Portaria n.º 874/97](https://diariodarepublica.pt/dr/detalhe/portaria/874-1997-644515), publicado em 1997-09-10.\n\n2.º Pelo presente diploma é concessionada, até 6 de Junho de 2006, ao Clube de Caçadores de Assentiz (registo no Instituto Florestal n.º 3.692.90), com sede em Assentiz, Rio Maior, a zona de caça associativa (processo n.º 535 do Instituto Florestal).\n\n3.º O Clube de Caçadores de Assentiz, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigado a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegética aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.\n\n4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados do Clube de Caçadores de Assentiz, com observância das regras legais e das suas normas estatutárias e regulamentares.\n\n5.º - 1 - A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.\n\n2 - A sinalização obedecerá às condições definidas nos n.os 6.º a 9.º da [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), 3.º e 4.º da [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925) e 6.º e 7.º da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697), de 18 de Março.\n\n6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se o concessionário a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).\n\n7.º O disposto no presente diploma não é aplicável às áreas consignadas no artigo 14.º, n.os 1 e 2, da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.\n\n8.º Esta concessão é renovável nos termos do disposto no artigo 83.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874).\n\n9.º É revogada a [Portaria n.º 509/91](https://diariodarepublica.pt/dr/detalhe/portaria/509-1991-633548), de 6 de Junho.\n\nMinistério da Agricultura.\n\nAssinada em 14 de Julho de 1993.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/163b02/01150116.pdf)"
+  }
+ }
+}

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-05-31'
+version_history:
+  file: portaria-319-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-06-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-05-31'
+    amending: pt:dre:451668:por
+    amending_title: Portaria n.º 628/83
+    changes:
+    - Altera Artigo unidades 25-25
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:17:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 628/83. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-319-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,7 +177,9 @@ Os candidatos aptos que ultrapassem as vagas planeadas para os cursos poderão v
 
 9.º Concluído o CFO referido nos números anteriores, o ingresso no quadro permanente é feito de harmonia com o estabelecido no EOFAP e segundo a ordem das classificações obtidas.
 
-10.º O limite de idade referido na alínea c) do n.º 2 é, a título transitório, nos anos lectivos de 1980-1981 e 1981-1982, ampliado para 29 anos.
+10.º O limite de idade referido na alínea c) do n.º 2.º é, a título transitório, no ano lectivo de 1983-1984, idade inferior a 30 anos na data de início do curso.
+
+> Alterado pelo/a [Portaria n.º 628/83](https://diariodarepublica.pt/dr/detalhe/portaria/628-1983-451668), publicado em 1983-05-31.
 
 11.º As dúvidas e casos omissos para execução da presente portaria são resolvidos por despacho do Chefe do Estado-Maior da Força Aérea.
 

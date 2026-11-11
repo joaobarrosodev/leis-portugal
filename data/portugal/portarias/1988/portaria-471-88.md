@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-10-18'
+version_history:
+  file: portaria-471-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-07-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-10-18'
+    amending: pt:dre:225816:por
+    amending_title: Decreto-Lei n.º 215/92
+    changes:
+    - Altera Artigo unidades 13-14
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:31:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 215/92. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-471-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,9 +171,11 @@ Considerando que a Comissão das Comunidades Europeias decidiu dar o seu acordo 
 
 Manda o Governo, pelos Ministros do Planeamento e da Administração do Território, da Indústria e Energia, do Emprego e da Segurança Social e do Comércio e Turismo, ao abrigo do disposto no n.º 8.º do regulamento aprovado pela [Portaria n.º 976/87](https://diariodarepublica.pt/dr/detalhe/portaria/976-1987-410875), de 31 de Dezembro, e no n.º 10.º do regulamento aprovado pela [Portaria n.º 36-A/88](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-1988-183652), de 18 de Janeiro, o seguinte:
 
-1.º Os Municípios de Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra e Setúbal passam a beneficiar das percentagens previstas na alínea a) do n.º 2 do n.º 5.º do regulamento aprovado pela [Portaria n.º 976/87](https://diariodarepublica.pt/dr/detalhe/portaria/976-1987-410875), de 31 de Dezembro.
+1.º - (Revogado.)
 
-2.º As zonas de modulação relativas à componente de emprego, definidas no anexo III do regulamento aprovado pela [Portaria n.º 976/87](https://diariodarepublica.pt/dr/detalhe/portaria/976-1987-410875), de 31 de Dezembro, são alteradas do seguinte modo: os Municípios de Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra e Setúbal, que figuram na zona 1, transitam para a zona 3.
+2.º - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 215/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1992-225816), publicado em 1992-10-13.
 
 3.º As zonas de modulação relativas às componentes regionais e de emprego, definidas, respectivamente, nos anexos III e IV do regulamento aprovado pela [Portaria n.º 36-A/88](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-1988-183652), de 18 de Janeiro, são alteradas nos seguintes termos: os Municípios de Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra e Setúbal, que figuram nas zonas 1 dos anexos III e IV, transitam para as zonas 3 dos mesmos anexos.
 

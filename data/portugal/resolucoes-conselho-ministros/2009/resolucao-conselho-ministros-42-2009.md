@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-02-10'
+version_history:
+  file: resolucao-conselho-ministros-42-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-05-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-02-10'
+    amending: pt:dre:617101:por
+    amending_title: Resolução do Conselho de Ministros n.º 11/2010
+    changes:
+    - Altera Artigo unidades 9-11
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/42/2009/05/27/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-27T00:18:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 11/2010. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2009/resolucao-conselho-ministros-42-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,14 +149,18 @@ Assim:
 
 Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Aprovar a inclusão da reconversão e da requalificação do edifício do antigo Museu de Arte Popular, destinado à instalação do Museu da Língua Portuguesa, nos objectivos e linhas de orientação da requalificação e da reabilitação da frente ribeirinha de Lisboa inscritos no documento estratégico Frente Tejo, anexo à [Resolução do Conselho de Ministros n.º 78/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/78-2008-249206), de 15 de Maio, para a área de intervenção Ajuda-Belém.
+1 - Aprovar a inclusão da requalificação do edifício do Museu de Arte Popular nos objectivos e linhas de orientação da requalificação e da reabilitação da frente ribeirinha de Lisboa, inscritos no documento estratégico Frente Tejo, anexo à [Resolução do Conselho de Ministros n.º 78/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/78-2008-249206), de 15 de Maio, para a área de intervenção Ajuda-Belém.
 
-2 - Aprovar a introdução da rubrica «Museu da Língua Portuguesa» no orçamento referente ao investimento Ajuda-Belém, constante do documento estratégico Frente Tejo, e a inscrição na mesma da quantia de (euro) 9 000 000.
+2 - (Revogado.)
 
-3 - Determinar que a verba referida no número anterior se destina a suportar todos os encargos inerentes à operação de instalação do Museu da Língua Portuguesa, incluindo as despesas com elaboração de projectos, empreitada, fiscalização, conteúdos expositivos, coordenação técnica e gestão integrada da intervenção.
+3 - Determinar que todos os encargos inerentes à requalificação do edifício do Museu de Arte Popular, incluindo as despesas com elaboração de projectos, empreitada, fiscalização, conteúdos expositivos, coordenação técnica e gestão integrada da intervenção, são suportados pelo orçamento afecto ao Ministério da Cultura, mediante transferência para a Frente Tejo, S. A., sem prejuízo de apoios que venham a ser concedidos no âmbito do Quadro de Referência Estratégico Nacional.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 11/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/11-2010-617101), publicado em 2010-02-05.
 
 4 - Estabelecer que a coordenação técnica e a gestão integrada da intervenção são efectuadas nos termos previstos no n.º 8 da [Resolução do Conselho de Ministros n.º 78/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/78-2008-249206), de 15 de Maio.
 
-5 - Determinar que o financiamento da operação relativa ao Museu da Língua Portuguesa é suportado pelo orçamento afecto ao Ministério da Cultura, mediante transferência para a sociedade Frente Tejo, S. A., sem prejuízo de apoios que venham a ser concedidos no âmbito do Quadro de Referência Estratégico Nacional.
+5 - (Revogado.)
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 11/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/11-2010-617101), publicado em 2010-02-05.
 
 Presidência do Conselho de Ministros, 7 de Maio de 2009. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-01-29'
+version_history:
+  file: despacho-normativo-11-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-02-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-01-29'
+    amending: pt:dre:308551:por
+    amending_title: Despacho Normativo n.º 36/83
+    changes:
+    - Altera Artigo unidades 119-119
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:15:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 36/83. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1982/despacho-normativo-11-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -337,6 +352,8 @@ Nestes termos, usando da competência que em mim foi delegada pelo [Despacho Nor
 
 27.1 - Sem prejuízo do disposto no número seguinte, o regime preceituado neste diploma entrará em vigor no prazo de 15 dias, contado da data da sua publicação.
 
-27.2 - Este regime é de aplicação imediata aos processos pendentes, qualquer que seja o seu estado, a partir de 15 de Agosto de 1982.
+27.2 - Este regime é de aplicação imediata aos processos pendentes, qualquer que seja o seu estado, a partir de 31 de Agosto de 1983.
+
+> Alterado pelo/a [Despacho Normativo n.º 36/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1983-308551), publicado em 1983-01-29.
 
 Ministério da Administração Interna, 20 de Janeiro de 1982. - O Secretário de Estado da Administração Interna, Carlos Manuel de Sousa Encarnação.

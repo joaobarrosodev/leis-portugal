@@ -1,0 +1,107 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:401362:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-12-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "69b6fb135ed160d2",
+    "3a25c84c8d829031",
+    "b1dc3b0926bbcd51",
+    "8948fe2d10b12659"
+   ]
+  },
+  {
+   "date": "1988-08-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:621743:por",
+     "title": "Portaria n.º 317-A/86",
+     "published": "1986-06-24",
+     "dre_path": "/dr/detalhe/portaria/317-a-1986-621743"
+    },
+    {
+     "id": "pt:dre:379724:por",
+     "title": "Portaria n.º 586/88",
+     "published": "1988-08-25",
+     "dre_path": "/dr/detalhe/portaria/586-1988-379724"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 13-14",
+    "Altera Artigo unidades 46-49",
+    "Altera Artigo unidades 51-53",
+    "Altera Artigo unidades 56-71"
+   ],
+   "fragments": [
+    "2a783cd4e666a671",
+    "dcb0fe663dbeabf3",
+    "b1dc3b0926bbcd51",
+    "8948fe2d10b12659"
+   ]
+  }
+ ],
+ "fragments": {
+  "69b6fb135ed160d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Dezembro\n\nSob proposta do conselho científico da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa;\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho, e no [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:\n\n1.º\n\n(Organização)\n\nO curso de licenciatura em Engenharia de Produção Industrial, criado pelo artigo 1.º do [Decreto Regulamentar n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1978-468861), de 10 de Janeiro, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.\n\n2.º\n\n(Ramos)\n\nO curso desdobra-se nos seguintes ramos:\n\na) Produção industrial;\n\nb) Engenharia mecânica;\n\nc) Engenharia química.\n\n3.º\n\n(Estrutura curricular)\n\nOs elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são, para cada ramo, os constantes dos anexos I a III desta portaria.\n\n4.º\n\n(Precedências e regime de transição de ano)\n\n1 - Compete ao conselho científico, ouvido o conselho pedagógico, fixar a tabela e regime de precedências.\n\n2 - O regime de transição de ano é parte integrante do regime de precedências.\n\n3 - Na fixação do regime de transição de ano, o número máximo de disciplinas a que se refere o n.º 1 do artigo único do [Decreto n.º 46646](https://diariodarepublica.pt/dr/detalhe/decreto/46646-1965-512431), de 16 de Novembro de 1965, não pode ser excedido, podendo ser condicionado ao ano curricular a que as disciplinas devam pertencer ou assumir o valor.\n\n5.º\n\n(Classificação final)\n\n1 - A classificação final do curso é a média aritmética ponderada arredondada (considerando como unidade a fracção não inferior a cinco décimas) das classificações das disciplinas em que o aluno realizou os créditos necessários à satisfação do disposto nos anexos I a III desta portaria.\n\n2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.\n\n6.º\n\n(Inscrição nos ramos)\n\n1 - A inscrição nos ramos está sujeita a limitações quantitativas, a fixar anualmente por despacho do reitor, a publicar na 2.ª série do Diário da República, sob proposta da Faculdade.\n\n2 - Podem candidatar-se à inscrição em cada ramo os alunos que satisfaçam as condições fixadas nos anexos I a III desta portaria.\n\n3 - Os critérios de selecção dos candidatos à inscrição nos ramos serão igualmente fixados pelo reitor, sob proposta do conselho científico.\n\n4 - Cabe ao conselho científico a selecção dos candidatos, da qual não cabe recurso, salvo se arguida do vício de forma.\n\n7.º\n\n(Entrada em funcionamento e regime de transição)\n\n1 - A determinação do ano lectivo de entrada em funcionamento da nova estrutura curricular e dos planos de estudos aprovados na sequência da presente portaria ficará dependente da existência na Faculdade da totalidade dos recursos humanos e materiais necessários à sua completa concretização.\n\n2 - Verificada a existência das condições necessárias, a Faculdade enviará ao reitor a proposta de entrada em funcionamento, acompanhada da respectiva fundamentação.\n\n3 - Da proposta referida no n.º 2 deverá constar igualmente o regime de transição a adoptar para os alunos que hajam estado inscritos no actual plano de estudos.\n\n4 - A entrada em funcionamento da nova estrutura curricular e novos planos a ela associados será determinada, face à proposta referida nos n.os 2 e 3, por despacho do reitor, a publicar na 2.ª série do Diário da República.\n\n8.º\n\n(Entrada em vigor)\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação.\n\nMinistério da Educação.\n\nAssinada em 19 de Novembro de 1984.\n\nPelo Ministro da Educação, Joaquim Germano Pinto Machado Correia da Silva, Secretário de Estado do Ensino Superior."
+  },
+  "3a25c84c8d829031": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Ramo de produção industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Ramo de produção industrial\n\n1 - Áreas científicas do curso:\n\na) Engenharia Industrial;\n\nb) Engenharia Mecânica;\n\nc) Engenharia Química.\n\n2 - Duração normal do curso:\n\n5 anos.\n\n3 - Número total de unidades de crédito necessário à concessão do grau:\n\n170.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Engenharia Industrial ... 35,0\n\nb) Engenharia Mecânica ... 23,5\n\nc) Engenharia Química ... 13,5\n\nd) Ciências da Engenharia ... 21,0\n\ne) Matemática ... 28,5\n\nf) Física ... 12,0\n\ng) Química ... 8,0\n\nh) Ciências Humanas e Sociais ... 9,0\n\n4.2 - Áreas científicas opcionais:\n\na) Engenharia Industrial ... 19,5\n\nb) Engenharia Mecânica ... 19,5\n\nc) Engenharia Química ... 19,5\n\nd) Ciências da Engenharia ... 19,5\n\n5 - Condições para a inscrição no ramo:\n\na) 4 semestres lectivos de inscrição no curso;\n\nb) Obtenção de 65 unidades de crédito."
+  },
+  "b1dc3b0926bbcd51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Ramo de engenharia química",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Ramo de engenharia química\n\n1 - Áreas científicas do curso:\n\na) Engenharia Química;\n\nb) Engenharia Industrial.\n\n2 - Duração normal do curso:\n\n5 anos.\n\n3 - Número total de unidades de crédito necessário à concessão do grau:\n\n170.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Engenharia Química ... 27,0\n\nb) Engenharia Industrial ... 23,0\n\nc) Engenharia Mecânica ... 11,0\n\nd) Ciências da Engenharia ... 17,5\n\ne) Matemática ... 28,5\n\nf) Física ... 12,0\n\ng) Química e Biotecnologia ... 27,0\n\nh) Ciências Humanas e Sociais ... 9,0\n\n4.2 - Áreas científicas opcionais:\n\na) Engenharia Química ... 15,0\n\nb) Biotecnologia ... 15,0\n\nc) Engenharia de Petróleos e Polímeros ... 15,0\n\n5 - Condições para a inscrição no ramo:\n\na) 4 semestres lectivos de inscrição no curso;\n\nb) Obtenção de, pelo menos, 65 unidades de crédito"
+  },
+  "8948fe2d10b12659": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Ramo de engenharia mecânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Ramo de engenharia mecânica\n\n1 - Áreas científicas do curso:\n\na) Engenharia Mecânica;\n\nb) Engenharia Industrial.\n\n2 - Duração normal do curso:\n\n5 anos.\n\n3 - Número total de unidades de crédito necessário à concessão do grau:\n\n175.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Engenharia Mecânica ... 50,0\n\nb) Engenharia Industrial ... 26,0\n\nc) Engenharia Química ... 4,0\n\nd) Ciências da Engenharia ... 19,0\n\ne) Matemática ... 31,0\n\nf) Física ... 12,0\n\ng) Química ... 8,0\n\nh) Ciências Humanas e Sociais ... 9,0\n\n4.2 - Áreas científicas opcionais:\n\na) Engenharia Mecânica ... 16\n\nb) Engenharia Industrial ... 16\n\nc) Ciências da Engenharia ... 16\n\n5 - Condições para a inscrição no ramo:\n\na) 4 semestres lectivos de inscrição no curso;\n\nb) Obtenção de, pelo menos, 65 unidades de crédito."
+  },
+  "2a783cd4e666a671": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1988-08-30",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 317-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/317-a-1986-621743), publicado em 1986-06-24."
+   ],
+   "markdown": "de 11 de Dezembro\n\nSob proposta do conselho científico da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa;\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho, e no [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:\n\n1.º\n\n(Organização)\n\nO curso de licenciatura em Engenharia de Produção Industrial, criado pelo artigo 1.º do [Decreto Regulamentar n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1978-468861), de 10 de Janeiro, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.\n\n2.º\n\n(Ramos)\n\nO curso desdobra-se nos seguintes ramos:\n\na) Produção industrial;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 317-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/317-a-1986-621743), publicado em 1986-06-24.\n\n3.º\n\n(Estrutura curricular)\n\nOs elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são, para cada ramo, os constantes dos anexos I a III desta portaria.\n\n4.º\n\n(Precedências e regime de transição de ano)\n\n1 - Compete ao conselho científico, ouvido o conselho pedagógico, fixar a tabela e regime de precedências.\n\n2 - O regime de transição de ano é parte integrante do regime de precedências.\n\n3 - Na fixação do regime de transição de ano, o número máximo de disciplinas a que se refere o n.º 1 do artigo único do [Decreto n.º 46646](https://diariodarepublica.pt/dr/detalhe/decreto/46646-1965-512431), de 16 de Novembro de 1965, não pode ser excedido, podendo ser condicionado ao ano curricular a que as disciplinas devam pertencer ou assumir o valor.\n\n5.º\n\n(Classificação final)\n\n1 - A classificação final do curso é a média aritmética ponderada arredondada (considerando como unidade a fracção não inferior a cinco décimas) das classificações das disciplinas em que o aluno realizou os créditos necessários à satisfação do disposto nos anexos I a III desta portaria.\n\n2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.\n\n6.º\n\n(Inscrição nos ramos)\n\n1 - A inscrição nos ramos está sujeita a limitações quantitativas, a fixar anualmente por despacho do reitor, a publicar na 2.ª série do Diário da República, sob proposta da Faculdade.\n\n2 - Podem candidatar-se à inscrição em cada ramo os alunos que satisfaçam as condições fixadas nos anexos I a III desta portaria.\n\n3 - Os critérios de selecção dos candidatos à inscrição nos ramos serão igualmente fixados pelo reitor, sob proposta do conselho científico.\n\n4 - Cabe ao conselho científico a selecção dos candidatos, da qual não cabe recurso, salvo se arguida do vício de forma.\n\n7.º\n\n(Entrada em funcionamento e regime de transição)\n\n1 - A determinação do ano lectivo de entrada em funcionamento da nova estrutura curricular e dos planos de estudos aprovados na sequência da presente portaria ficará dependente da existência na Faculdade da totalidade dos recursos humanos e materiais necessários à sua completa concretização.\n\n2 - Verificada a existência das condições necessárias, a Faculdade enviará ao reitor a proposta de entrada em funcionamento, acompanhada da respectiva fundamentação.\n\n3 - Da proposta referida no n.º 2 deverá constar igualmente o regime de transição a adoptar para os alunos que hajam estado inscritos no actual plano de estudos.\n\n4 - A entrada em funcionamento da nova estrutura curricular e novos planos a ela associados será determinada, face à proposta referida nos n.os 2 e 3, por despacho do reitor, a publicar na 2.ª série do Diário da República.\n\n8.º\n\n(Entrada em vigor)\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação.\n\nMinistério da Educação.\n\nAssinada em 19 de Novembro de 1984.\n\nPelo Ministro da Educação, Joaquim Germano Pinto Machado Correia da Silva, Secretário de Estado do Ensino Superior."
+  },
+  "dcb0fe663dbeabf3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Ramo de produção industrial",
+   "in_force_from": "1988-08-30",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 586/88](https://diariodarepublica.pt/dr/detalhe/portaria/586-1988-379724), publicado em 1988-08-25.",
+    "Alterado pelo/a [Portaria n.º 586/88](https://diariodarepublica.pt/dr/detalhe/portaria/586-1988-379724), publicado em 1988-08-25.",
+    "Alterado pelo/a [Portaria n.º 586/88](https://diariodarepublica.pt/dr/detalhe/portaria/586-1988-379724), publicado em 1988-08-25."
+   ],
+   "markdown": "## ANEXO I — Ramo de produção industrial\n\nLicenciatura em Engenharia de Produção Industrial\n\n1 - Área científica do curso:\n\nEngenharia Industrial.\n\n> Alterado pelo/a [Portaria n.º 586/88](https://diariodarepublica.pt/dr/detalhe/portaria/586-1988-379724), publicado em 1988-08-25.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário a concessão do grau:\n\n165.\n\n> Alterado pelo/a [Portaria n.º 586/88](https://diariodarepublica.pt/dr/detalhe/portaria/586-1988-379724), publicado em 1988-08-25.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Engenharia Industrial ... 36\n\nb) Engenharia Mecânica ... 13.5\n\nc) Engenharia Química ... 6\n\nd) Ciências da Engenharia ... 15.5\n\ne) Matemática ... 29\n\nf) Física ... 12\n\ng) Química ... 8\n\nh) Ciências Humanas e Sociais ... 9\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Engenharia Industrial ... 36\n\nb) Engenharia Mecânica ... 36\n\nc) Engenharia Química ... 36\n\nd) Ciências da Engenharia ... 36\n\ne) Ciências Humanas e Sociais ... 36\n\n> Alterado pelo/a [Portaria n.º 586/88](https://diariodarepublica.pt/dr/detalhe/portaria/586-1988-379724), publicado em 1988-08-25."
+  }
+ }
+}

@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-08-04'
+version_history:
+  file: portaria-769-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-08-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-08-04'
+    amending: pt:dre:218574:por
+    amending_title: Portaria n.º 414/86
+    changes:
+    - Altera Artigo unidades 17-17
+    - Altera Artigo unidades 20-25
+    - Altera Artigo unidades 27-35
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:24:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 414/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-769-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,43 +163,39 @@ A área científica do curso é a Psiquiatria.
 
 4.º
 
-(Áreas científicas e unidades de crédito)
+(Áreas científicas)
+
+> Alterado pelo/a [Portaria n.º 414/86](https://diariodarepublica.pt/dr/detalhe/portaria/414-1986-218574), publicado em 1986-07-30.
 
 As áreas científicas e as unidades de crédito necessárias à conclusão do curso são:
 
 a) Obrigatórias:
 
-I) Bioquímica ... 1
+I) Psicopatologia e Psiquiatria ... 3
 
-II) Neurologia Básica, Neurofisiologia e Neuropsiquiatria ... 2
+II) Psiquiatria Especial ... 3
 
-III) Psicofarmacologia ... 1
+III) Medicina Psicossomática ... 3
 
-IV) Psicologia Geral e Psicopatologia ... 2
+IV) Psiquiatria e Comunidade ... 1
 
-V) Psiquiatria Básica ... 6
+V) Terapêuticas Psiquiátricas ... 2
 
-VI) Psiquiatria Especial e Saúde Mental ... 6
+VI) Métodos de Investigação ... 4
+
+> Alterado pelo/a [Portaria n.º 414/86](https://diariodarepublica.pt/dr/detalhe/portaria/414-1986-218574), publicado em 1986-07-30.
 
 b) Optativas:
 
-I) Alcoolismo ... 4
+I) Psiquiatria Forense ... 1
 
-II) Farmacodependências ... 4
+II) Toxicodependências e Alcoolismo ... 1
 
-III) Gerontopsiquiatria ... 4
+c) Estágio e seminário ... 6
 
-IV) Metodologia, Estatística e Estandardização da Descrição ... 4
+Total ... 23
 
-V) Pedopsiquiatria ... 4
-
-VI) Psicoterapia ... 4
-
-VII) Psiquiatria Forense ... 4
-
-c) Estágios e seminários ... 8
-
-Total ... 30
+> Alterado pelo/a [Portaria n.º 414/86](https://diariodarepublica.pt/dr/detalhe/portaria/414-1986-218574), publicado em 1986-07-30.
 
 5.º
 

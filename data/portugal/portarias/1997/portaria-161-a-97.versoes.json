@@ -1,0 +1,68 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:426077:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-03-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f4ea7723ec2927fe",
+    "816593ad54bc1436"
+   ]
+  },
+  {
+   "date": "1997-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:602496:por",
+     "title": "Declaração de Rectificação n.º 6-R/97",
+     "published": "1997-03-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/6-r-1997-602496"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 28-28",
+    "Altera Artigo unidades 32-32"
+   ],
+   "fragments": [
+    "f4ea7723ec2927fe",
+    "fa63551117e69ec2"
+   ]
+  }
+ ],
+ "fragments": {
+  "f4ea7723ec2927fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Março\n\nA [Portaria n.º 981/95](https://diariodarepublica.pt/dr/detalhe/portaria/981-1995-477871), de 16 de Agosto, aprovou o modelo e dimensões do cartão de identificação do utente do Serviço Nacional de Saúde, criado pelo [Decreto-Lei n.º 198/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1995-484575), de 29 de Julho.\n\nRedefinido o modelo de funcionamento e o sistema subjacente à emissão daquele cartão, torna-se necessário alterar a referida portaria no que concerne às características do cartão e às alterações decorrentes do [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), de 27 de Fevereiro.\n\nAssim, ao abrigo do n.º 2 do artigo 4.º do [Decreto-Lei n.º 198/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1995-484575), de 29 de Julho:\n\nManda o Governo, pela Ministra da Saúde, o seguinte:\n\n1.º O modelo e as dimensões do cartão de identificação do utente, bem como a referência aos elementos previstos nos artigos 7.º a 9.º do [Decreto-Lei n.º 198/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1995-484575), de 29 de Julho, com a redacção dada pelo [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), de 27 de Fevereiro, são os constantes do anexo ao presente diploma, do qual constitui parte integrante.\n\n2.º O modelo do cartão de identificação do utente definido no artigo anterior é exclusivo da Imprensa Nacional-Casa da Moeda, E. P.\n\n3.º É revogado o anexo à [Portaria n.º 981/95](https://diariodarepublica.pt/dr/detalhe/portaria/981-1995-477871), de 16 de Agosto.\n\nMinistério da Saúde.\n\nAssinada em 5 de Março de 1997.\n\nA Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina."
+  },
+  "816593ad54bc1436": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Modelo e dimensões do cartão de identificação do utente do Serviço Nacional de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Modelo e dimensões do cartão de identificação do utente do Serviço Nacional de Saúde\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/055b01/00020003.pdf)\n\nDimensões: 85,60 x 53,98 mm, de acordo com a norma ISO/CEI 7813.\n\nFrente\n\nZona A:\n\nNo canto superior esquerdo, um logótipo do Ministério da Saúde, tendo na parte inferior do mesmo a expressão «MINISTÉRIO DA SAÚDE».\n\nNo canto superior direito, a expressão «CARTÃO DO UTENTE» e, imediatamente por baixo, o número único atribuído ao utente no SNS.\n\nZona B:\n\nDe um a quatro símbolos, encostados ao bordo direito, cujo significado é o seguinte:\n\nLetra R no interior de um quadrado - direito ao regime especial de comparticipação de medicamentos;\n\nLetra T no interior de uma elipse - isenção de taxas moderadoras;\n\nLetra O no interior de um hexágono - outras situações especiais de isenção;\n\nLetra S no interior de um círculo - utente beneficiário de um subsistema ou seguro de saúde.\n\nZona C:\n\nNome completo do utente, data de nascimento (ano com quatro dígitos, mês e dia), designação da sub-região de saúde, centro de saúde e sede ou extensão da residência do utente.\n\nNo lado direito a data de emissão do cartão (ano com quatro dígitos, mês e dia) e, no canto inferior direito, o código de barras que represente o número de identificação do utente.\n\nVerso\n\nZona D:\n\nFita magnética contendo as seguintes informações sobre o utente:\n\nNúmero de identificação, nome completo, data de nascimento, sexo, naturalidade, nacionalidade, região de saúde, sub-região de saúde, centro de saúde - sede e ou extensão - da residência do utente, subsistema de saúde/seguradora que suporta/comparticipa nos encargos com saúde, respectivo número de beneficiário/apólice e data de validade, existência - sim ou não - de: regime especial de comparticipação de medicamentos e respectiva data de validade; isenção de taxas moderadoras e respectiva data de validade, e outras situações de isenção, com a respectiva data de validade.\n\nZona E:\n\nIndicações contendo a seguinte informação:\n\nEste cartão é pessoal e intransmissível.\n\nEm caso de extravio ou de roubo o seu titular deve imediatamente comunicar o facto à entidade emissora.\n\nPede-se a quem encontrar este cartão o favor de o devolver à referida entidade."
+  },
+  "fa63551117e69ec2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Modelo e dimensões do cartão de identificação do utente do Serviço Nacional de Saúde",
+   "in_force_from": "1997-03-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 6-R/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-r-1997-602496), publicado em 1997-03-31.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 6-R/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-r-1997-602496), publicado em 1997-03-31."
+   ],
+   "markdown": "## ANEXO — Modelo e dimensões do cartão de identificação do utente do Serviço Nacional de Saúde\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/055b01/00020003.pdf)\n\nDimensões: 85,60 x 53,98 mm, de acordo com a norma ISO/CEI 7813.\n\nFrente\n\nZona A:\n\nNo canto superior esquerdo, um logótipo do Ministério da Saúde, tendo na parte inferior do mesmo a expressão «MINISTÉRIO DA SAÚDE».\n\nNo canto superior direito, a expressão «CARTÃO DO UTENTE» e, imediatamente por baixo, o número único atribuído ao utente no SNS.\n\nZona B:\n\nDe um a quatro símbolos, encostados ao bordo direito, cujo significado é o seguinte:\n\nLetra R no interior de um quadrado - direito ao regime especial de comparticipação de medicamentos;\n\nLetra T no interior de uma elipse - isenção de taxas moderadoras;\n\nLetra O no interior de um hexágono - outras situações especiais de isenção;\n\nLetra S no interior de um círculo - utente beneficiário de um subsistema ou seguro de saúde.\n\nZona C:\n\nNome completo do utente, data de nascimento (ano com quatro dígitos, mês e dia), designação da sub-região de saúde, centro de saúde e sede ou extensão da residência do utente.\n\nNo lado direito a data de emissão do cartão (ano com quatro dígitos, mês e dia) e, no canto inferior direito, o código de barras que represente o número de identificação do utente e a existência - sim ou não - de: regime especial de comparticipação de medicamentos; isenção de taxas moderadoras; outras situações de isenção e subsistema de saúde ou seguradora.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 6-R/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-r-1997-602496), publicado em 1997-03-31.\n\nVerso\n\nZona D:\n\nFita magnética contendo as seguintes informações sobre o utente:\n\nNúmero de identificação, nome completo, data de nascimento, sexo, naturalidade, nacionalidade, região de saúde, sub-região de saúde, centro de saúde - sede e ou extensão - da residência do utente, subsistema de saúde/seguradora que suporta/comparticipa nos encargos com saúde, respectivo número de beneficiário/apólice e data de validade, código de: regime especial de comparticipação de medicamentos e respectiva data de validade; isenção de taxas moderadoras e respectiva data de validade, e outras situações de isenção, com a respectiva data de validade.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 6-R/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-r-1997-602496), publicado em 1997-03-31.\n\nZona E:\n\nIndicações contendo a seguinte informação:\n\nEste cartão é pessoal e intransmissível.\n\nEm caso de extravio ou de roubo o seu titular deve imediatamente comunicar o facto à entidade emissora.\n\nPede-se a quem encontrar este cartão o favor de o devolver à referida entidade."
+  }
+ }
+}

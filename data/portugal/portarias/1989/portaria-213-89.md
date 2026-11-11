@@ -38,10 +38,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-09-05'
+version_history:
+  file: portaria-213-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-03-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-09-05'
+    amending: pt:dre:556803:por
+    amending_title: Portaria n.º 770/90
+    changes:
+    - Altera Artigo unidades 22-29
+    - Altera Artigo unidades 95-95
+    - Altera Artigo unidades 96-96
+    - Altera Artigo unidades 97-97
+    - Altera Artigo unidades 98-100
+    - Altera Artigo unidades 104-105
 identifiers:
   celex: null
   eli: null
@@ -67,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:47:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 770/90. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-213-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,21 +166,21 @@ c) A qualidade e o valor das mercadorias exportadas no ano anterior, bem como o 
 
 6.º Os beneficiários dos procedimentos simplificados de exportação são responsáveis perante as autoridades aduaneiras pelo pagamento dos direitos de exportação e outras imposições a que estejam eventualmente sujeitas as mercadorias exportadas.
 
-7.º Para garantia da responsabilidade estabelecida no número anterior, o exportador prestará caução por depósito, fiança bancária ou seguro-caução nos seguintes termos:
+7.º Sempre que haja imposições a pagar nos termos do número anterior, o exportador prestará caução por depósito, fiança bancária ou seguro-caução nos seguintes termos:
 
 a) A prestação da caução é autorizada pelo director da respectiva alfândega, que fixará igualmente o seu montante em requerimento fundamentado do interessado;
 
-b) O montante da caução não poderá ser inferior ao que resultar da aplicação da fórmula
+b) No requerimento o exportador indicará os montantes dos direitos de exportação e demais imposições pagos no ano anterior à sua apresentação e proporá o montante da respectiva caução;
 
-C = 0,17 V/52
+c) O montante da caução não poderá, todavia, ser inferior ao que resultar da aplicação da fórmula C = 1,5D, sendo:
 
-sendo:
+C - o montante da caução;
 
-C o montante da caução;
+D - a média mensal dos direitos de exportação e demais imposições pagos no ano anterior à apresentação do requerimento;
 
-V o valor das mercadorias exportadas no ano anterior pelo beneficiário do procedimento simplificado de exportação;
+d) O montante da caução poderá ser modificado pelo director da alfândega respectiva, quer por iniciativa própria, quer por solicitação do exportador em requerimento fundamentado.
 
-c) O montante da caução poderá ser modificado pelo director da alfândega respectiva, quer por iniciativa própria, quer por solicitação do exportador, em função do valor e da carga fiscal das mercadorias exportadas no ano anterior.
+> Alterado pelo/a [Portaria n.º 770/90](https://diariodarepublica.pt/dr/detalhe/portaria/770-1990-556803), publicado em 1990-08-31.
 
 8.º A aplicação de qualquer procedimento simplificado de exportação fica subordinada à celebração de um acordo entre o beneficiário e o director da alfândega respectiva, conforme anexos I e II à presente portaria.
 
@@ -292,17 +312,21 @@ V
 
 Elaboração de declarações de regularização globais
 
-37.º O período de globalização relativo aos procedimentos previstos nos n.os 25.º e 36.º terá a duração de sete dias, devendo coincidir com a semana do calendário.
+37.º O período de globalização relativo aos procedimentos previstos nos n.os 25.º e 36.º não pode ser superior a 31 dias, devendo coincidir com o mês ou com a semana do calendário, optando o beneficiário por um dos períodos.
 
-38.º As declarações complementares ou de regularização globais devem ser entregues na estância aduaneira competente até ao fim da semana seguinte ao período de globalização, podendo este prazo ser alargado pelos chefes das estâncias aduaneiras em casos especiais devidamente justificados.
+> Alterado pelo/a [Portaria n.º 770/90](https://diariodarepublica.pt/dr/detalhe/portaria/770-1990-556803), publicado em 1990-08-31.
 
-39.º As declarações complementares ou de regularização globais devem ser preenchidas de acordo com instruções da Direcção-Geral das Alfândegas.
+38.º As declarações complementares ou de regularização globais devem ser entregues na estância aduaneira competente até ao fim do 4.º dia seguinte ao período de globalização, podendo este prazo, se não houver lugar a registo de liquidação, ser prorrogado pelos chefes das estâncias aduaneiras em casos especiais devidamente justificados.
 
-40.º Havendo alteração das taxas dos direitos de exportação ou outras imposições durante o período de globalização, deverão ser apresentadas as declarações globais adequadas às alterações efectuadas de acordo com os seguintes critérios:
+> Alterado pelo/a [Portaria n.º 770/90](https://diariodarepublica.pt/dr/detalhe/portaria/770-1990-556803), publicado em 1990-08-31.
 
-As primeiras, para o período que antecede a entrada em vigor das novas disposições;
+39.º As declarações complementares ou de regularização globais devem ser elaboradas em listagens de acordo com instruções da Direcção-Geral das Alfândegas.
 
-As seguintes, para o período que decorre entre a entrada em vigor das novas disposições e o fim do período de globalização ou a alteração subsequente, conforme o facto que ocorra em primeiro lugar.
+> Alterado pelo/a [Portaria n.º 770/90](https://diariodarepublica.pt/dr/detalhe/portaria/770-1990-556803), publicado em 1990-08-31.
+
+40.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 770/90](https://diariodarepublica.pt/dr/detalhe/portaria/770-1990-556803), publicado em 1990-08-31.
 
 VI
 
@@ -310,9 +334,9 @@ Disposições especiais
 
 41.º Os procedimentos simplificados de exportação no que respeita ao abastecimento de navios e aeronaves serão definidos conforme instruções da Direcção-Geral das Alfândegas.
 
-42.º Os directores das alfândegas podem autorizar a exportação de produtos frescos ou refrigerados mediante a entrega de factura comercial, dispensando-se o cumprimento dos requisitos fixados nos n.os 3.º, 7.º, 8.º e 19.º, devendo, porém, ser observados os demais requisitos respeitantes a este procedimento simplificado de exportação.
+42.º Os directores das alfândegas podem autorizar a exportação de produtos perecíveis mediante a entrega de factura comercial, dispensando-se o cumprimento dos requisitos fixados nos n.os 3.º, 7.º, 8.º e 19.º, devendo, porém, ser observados os demais requisitos respeitantes a este procedimento simplificado de exportação, sem prejuízo de sempre que haja lugar ao pagamento de direitos de exportação ou outras imposições, ser constituída garantia por depósito, fiança bancária ou seguro-caução.
 
-Porém, sempre que haja lugar ao pagamento de direitos de exportação ou outras imposições, deverá ser constituída garantia por depósito, fiança bancária ou seguro-caução.
+> Alterado pelo/a [Portaria n.º 770/90](https://diariodarepublica.pt/dr/detalhe/portaria/770-1990-556803), publicado em 1990-08-31.
 
 43.º As empresas possuidoras do estatuto de correio expresso (courier) podem usufruir do procedimento simplificado de exportação mediante a entrega de factura comercial, devendo subordinar-se a todos os requisitos fixados na presente portaria, com excepção do constante na alínea b) do n.º 19.º
 

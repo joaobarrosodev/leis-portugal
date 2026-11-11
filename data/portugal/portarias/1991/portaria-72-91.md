@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-01-01'
+version_history:
+  file: portaria-72-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-01-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-01-01'
+    amending: pt:dre:303234:por
+    amending_title: Portaria n.º 1152-F/94
+    changes:
+    - Altera Artigo unidades 27-73
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/72/1991/01/28/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:59:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1152-F/94. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-72-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -181,96 +196,86 @@ Tabela de custos
 
 I - Dos serviços prestados nos matadouros (ver nota a)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/023b00/04600462.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298b03/00120014.pdf)
 
 (nota a) Nos casos em que o matadouro só possa efectuar parte dos serviços e for o utente a executar os restantes, apenas serão cobrados os serviços efectivamente prestados pelo matadouro.
 
-Nota. - No que se refere à espécie suína, e para efeitos de cobrança, deverão ser deduzidos 2% ao peso da carcaça, quando esta for pesada com banha e rins.
+Nota. - No que se refere à espécie suína, e para efeitos de cobrança, deverão ser deduzidos 2% ao peso da carcaça quando esta for pesada com banha e rins.
 
 II - Da entrada fora do horário normal e dos abates de urgência
 
-I - Admissão de reses:
+1 - Admissão de reses:
 
-Por cabeça
+1.1 - Bovinos adultos e equídeos ... 485$00
 
-1.1 - Bovinos adultos e equídeos ... 380$00
+1.2 - Bovinos adolescentes ... 290$00
 
-1.2 - Bovinos adolescentes ... 230$00
+1.3 - Suínos ... 100$00
 
-1.3 - Suínos ... 75$00
+1.4 - Ovinos e caprinos ... 75$00
 
-1.4 - Ovinos e caprinos ... 46$00
+2 - Tratamento de gado, por animal e por dia, para além do período normal de repouso, instalação, mão-de-obra, abeberamento e alimentação:
 
-2 - Tratamento de gado, por animal e por dia, para além do período normal de repouso, instalação, mão-de-obra e abeberamento (ver nota a):
+2.1 - Bovinos adultos ... 265$00
 
-2.1 - Bovinos adultos ... 207$00
+2.2 - Bovinos adolescentes ... 48$00
 
-2.2 - Bovinos adolescentes ... 41$00
+2.3 - Suínos ... 55$00
 
-2.3 - Suínos ... 41$00
-
-2.4 - Ovinos e caprinos ... 18$00
-
-(nota a) O custo da alimentação será cobrado conforme a despesa realizada por animal.
+2.4 - Ovinos e caprinos ... 55$00
 
 3 - Abates de urgência e preparação das respectivas carcaças, por quilograma de carcaça:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/023b00/04600462.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298b03/00120014.pdf)
 
 III - Da utilização das câmaras frigoríficas
 
-1 - Armazenagem em câmaras frigoríficas de carne refrigerada, proveniente de abates efectuados no matadouro, para além das 24 horas iniciais, quando a permanência adicional for do interesse do utente, por quilograma e por dia ... 1$00
+1 - Armazenagem em câmaras frigoríficas de carne refrigerada proveniente de abates efectuados no matadouro, para além das vinte e quatro horas iniciais, quando a permanência adicional for de interesse do utente, por quilograma e por dia:
+
+Nas vinte e quatro horas seguintes ... 3$00
+
+Em cada dia subsequente ... 5$00
+
+Nota. - Se o abate tiver lugar à sexta-feira ou na véspera de um feriado, a armazenagem será gratuita até ao primeiro dia útil seguinte.
 
 IV - Do transporte extraordinário de carnes provenientes de abates efectuados no matadouro
 
-1 - Considera-se transporte extraordinário de carnes provenientes de abates efectuados no matadouro o efectuado, a pedido dos utentes, fora da programação normal dos serviços de distribuição ou para fora da área de serviço do matadouro.
+1 - Considera-se transporte extraordinário de carnes provenientes de abates efectuados no matadouro o executado, a pedido dos utentes, fora da área de serviço ou fora do programa normal dentro da área de serviço do matadouro.
 
-2 - O custo a cobrar pela utilização do serviço extraordinário de transporte e distribuição fora da programação normal dentro da área de serviço do matadouro será calculado pela seguinte fórmula:
+2 - O custo a cobrar pela utilização do serviço extraordinário de transporte e distribuição fora da área de serviço do matadouro será calculado pela seguinte fórmula:
 
-p = c x t(índice kg)
-
-em que:
-
-c = carga útil da viatura;
-
-t(índice kg) = taxa normal de transporte por quilograma.
-
-3 - O custo a cobrar pela utilização do serviço extraordinário de transporte e distribuição para da área de serviço do matadouro será calculado pela seguinte fórmula:
-
-p = (Q x t(índice kg)) + (D x t(índice km))
+p = (Q x tkg) + (D x tkm)
 
 em que:
 
-Q = quantidade em quilogramas e transportar;
+Q = quantidade em quilograma a transportar;
 
-t(índice kg) = custo normal de transporte por quilograma;
+tkg = taxa normal de transporte por quilograma;
 
 D = distância em quilómetros de ida e volta;
 
-t(índice km) = custo por quilómetro percorrido, sendo:
+tkm = custo por quilómetro percorrido, sendo:
 
-Para viaturas até 8000 kg de carga útil ... 100$00
+Para viaturas até 8000 kg de carga útil ... 135$00
 
-Para viaturas com mais de 8000 kg de carga útil ... 150$00
+Para viaturas com mais de 8000 kg de carga útil ... 200$00
 
-4 - Nos dias úteis, depois das 20 horas, e aos sábados, domingos e feriados, o custo a cobrar por transporte extraordinário será o dobro do resultante da aplicação das fórmulas anteriores.
+3 - O custo a cobrar pela utilização do serviço extraordinário de transporte e distribuição fora do programa normal dentro da área do serviço do matadouro será calculado pela seguinte fórmula:
 
-V - Da armazenagem de peles, couros e cabeças durante as quinzenas seguintes ao período de salga e armazenagem normal (30 dias para bovinos e 17 dias pequenos ruminantes).
+p = C x tkg
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/023b00/04600462.pdf)
+em que:
 
-VI - Da reclassificação de reses
+C = carga útil da viatura;
 
-1 - Bovinos adultos e equídeos ... 1400$00
+tkg = taxa normal de transporte por quilograma.
 
-2 - Bovinos adolescentes e suínos ... 700$00
+4 - Nos dias úteis depois das 20 horas e aos sábados, domingos e feriados, o custo a cobrar por transporte extraordinário será o dobro do resultado da aplicação das fórmulas anteriores.
 
-3 - Ovinos e caprinos ... 282$00
+V - Da armazenagem de peles, couros e cabeças durante as quinzenas seguintes ao período de salga e armazenagem normal (17 dias para bovinos e 3 dias para pequenos ruminantes).
 
-VII - Da industrialização de subprodutos
+Armazenagem de peles e couros, indivisível
 
-1 - Para efeitos de dedução, nos valores a depositar à ordem dos processos, das despesas efectuadas com a industrialização das carcaças, carnes, produtos cárnicos e subprodutos apreendidos a favor do Estado e das efectuadas com a industrialização dos produtos que constituem receita do seguro de reses, os custos dos serviços prestados pela industrialização são os seguintes:
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298b03/00120014.pdf)
 
-a) Preparação de farinhas, por quilograma de farinha produzida ... - 31$00
-
-b) Preparação de gorduras, por quilograma de gordura preparada ... - 40$00
+> Alterado pelo/a [Portaria n.º 1152-F/94](https://diariodarepublica.pt/dr/detalhe/portaria/1152-f-1994-303234), publicado em 1994-12-27.

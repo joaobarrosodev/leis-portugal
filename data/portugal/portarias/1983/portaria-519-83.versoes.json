@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:450998:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-05-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7d4f81899f448ca8"
+   ]
+  },
+  {
+   "date": "1984-04-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:654570:por",
+     "title": "Portaria n.º 237/84",
+     "published": "1984-04-14",
+     "dre_path": "/dr/detalhe/portaria/237-1984-654570"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 33-33"
+   ],
+   "fragments": [
+    "dd55bea22631f49a"
+   ]
+  }
+ ],
+ "fragments": {
+  "7d4f81899f448ca8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Maio\n\nDe acordo com o estabelecido no corpo do artigo 1.º do [Decreto n.º 20181](https://diariodarepublica.pt/dr/detalhe/decreto/20181-1931-529396), de 7 de Agosto de 1931, do n.º 1 do artigo 2.º do [Decreto-Lei n.º 20-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-1982-213396), de 29 de Janeiro, e do n.º 1 do artigo 5.º do [Decreto-Lei n.º 412/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1980-461650), de 27 de Setembro:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, que sejam criadas as seguintes escolas do ensino primário, com quadro privativo constituído pelos lugares docentes que se indicam dentro de parêntesis e com início de funcionamento dependente da disponibilidade de instalações adequadas, postas à disposição do Ministério da Educação pelas câmaras municipais em devido tempo (as escolas vão referenciadas pela menção da localidade, núcleo escolar, freguesia e concelho):\n\nDistrito de Aveiro:\n\nPiedade, Espinhel, Espinhel, Águeda (1).\n\nPóvoa do Vale do Trigo, Bustelo, Aguada de Cima, Águeda (1).\n\nTelhe, Ponte de Telhe, Janarde, Arouca (1).\n\nBaralhas, Coelhosa, Castelões, Vale de Cambra (3).\n\nIrijó, Merlães, Cepelos, Vale de Cambra (1).\n\nDistrito de Braga:\n\nMões de Cima, Vila Nova de Famalicão, Santo Adrião, Vila Nova de Famalicão (2).\n\nDistrito de Bragança:\n\nTerroso, Espinhosela, Espinhosela, Bragança (1).\n\nFiolhal, Tralhariz, Castanheiro, Carrazeda de Ansiães (1).\n\nSobreiró, Chacim, Chacim, Macedo de Cavaleiros (2).\n\nBairro de São Francisco, Macedo de Cavaleiros, Macedo de Cavaleiros, Macedo de Cavaleiros (2).\n\nDistrito de Évora:\n\nSão Matias, São Matias, Nossa Senhora da Graça do Divor, Évora (1).\n\nDistrito de Faro:\n\nBesteiros, Besteiros, Ameixial, Loulé (1).\n\nDistrito da Guarda:\n\nBairro de Tourão, Guarda, Sé, Guarda (1).\n\nQuinta do Pinheiro, Guarda, São Vicente, Guarda (2).\n\nCatraia de São Romão, São Romão, São Romão, Saia (2).\n\nDistrito de Leiria:\n\nMato Velho, Serro Ventoso, Serro Ventoso, Porto de Mós (2).\n\nDistrito de Lisboa:\n\nAlapraia, Galiza, Estoril, Cascais (3).\n\nPai do Vento, Amoreira, Alcabideche, Cascais (3).\n\nCasal do Rato, Paiã, Odivelas, Loures (3).\n\nVale Grande, Famões, Odivelas, Loures (3).\n\nBocal de Baixo, Ponte de Lousa, Santo Estêvão das Galés, Mafra (1).\n\nPalmeiros, Morelena, Montelavar, Sintra (2).\n\nMonte Gordo, Vila Franca de Xira, Vila Franca de Xira, Vila Franca de Xira (1).\n\nDistrito de Portalegre:\n\nForos de Arrão de Baixo, Foros de Arrão, Montargil, Ponte de Sor (1).\n\nDistrito do Porto:\n\nVenda da Giesta, Lardosa, Soalhães, Marco de Canaveses (3).\n\nDistrito de Santarém:\n\nCourelas do Divor, Courelas do Divor, Couço, Coruche (1).\n\nDistrito de Setúbal:\n\nBairro do Morgadinho, Alcácer do Sal, Santiago, Alcácer do Sal (4).\n\nSanto António da Charneca (Urbanização da Compave), Santo António da Charneca, Palhais, Barreiro (2).\n\nAfonsos, Canha, Canha, Montijo (2).\n\nAlto do Faralhão, Faralhão, São Sebastião, Setúbal (2).\n\nDistrito de Viana do Castelo:\n\nLombadinha, Vila Boa, Gondoriz, Arcos de Valdevez (1).\n\nAlvas, Igreja, Barroselas, Viana do Castelo (3).\n\nDistrito de Viseu:\n\nCela, Adenodeiro, Moledo, Castro Daire (1).\n\nSernadinha, Manhouce, Manhouce, São Pedro do Sul (1).\n\nViseu (Serviços de Pediatria do Hospital Distrital), Viseu, Santa Maria, Viseu (1).\n\nMinistério da Educação.\n\nAssinada em 20 de Abril de 1983.\n\nO Ministro da Educação, João José Fraústo da Silva."
+  },
+  "dd55bea22631f49a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1984-04-19",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 237/84](https://diariodarepublica.pt/dr/detalhe/portaria/237-1984-654570), publicado em 1984-04-14."
+   ],
+   "markdown": "de 4 de Maio\n\nDe acordo com o estabelecido no corpo do artigo 1.º do [Decreto n.º 20181](https://diariodarepublica.pt/dr/detalhe/decreto/20181-1931-529396), de 7 de Agosto de 1931, do n.º 1 do artigo 2.º do [Decreto-Lei n.º 20-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-1982-213396), de 29 de Janeiro, e do n.º 1 do artigo 5.º do [Decreto-Lei n.º 412/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1980-461650), de 27 de Setembro:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, que sejam criadas as seguintes escolas do ensino primário, com quadro privativo constituído pelos lugares docentes que se indicam dentro de parêntesis e com início de funcionamento dependente da disponibilidade de instalações adequadas, postas à disposição do Ministério da Educação pelas câmaras municipais em devido tempo (as escolas vão referenciadas pela menção da localidade, núcleo escolar, freguesia e concelho):\n\nDistrito de Aveiro:\n\nPiedade, Espinhel, Espinhel, Águeda (1).\n\nPóvoa do Vale do Trigo, Bustelo, Aguada de Cima, Águeda (1).\n\nTelhe, Ponte de Telhe, Janarde, Arouca (1).\n\nBaralhas, Coelhosa, Castelões, Vale de Cambra (3).\n\nIrijó, Merlães, Cepelos, Vale de Cambra (1).\n\nDistrito de Braga:\n\nMões de Cima, Vila Nova de Famalicão, Santo Adrião, Vila Nova de Famalicão (2).\n\nDistrito de Bragança:\n\nTerroso, Espinhosela, Espinhosela, Bragança (1).\n\nFiolhal, Tralhariz, Castanheiro, Carrazeda de Ansiães (1).\n\nSobreiró, Chacim, Chacim, Macedo de Cavaleiros (2).\n\nBairro de São Francisco, Macedo de Cavaleiros, Macedo de Cavaleiros, Macedo de Cavaleiros (2).\n\nDistrito de Évora:\n\nSão Matias, São Matias, Nossa Senhora da Graça do Divor, Évora (1).\n\nDistrito de Faro:\n\nBesteiros, Besteiros, Ameixial, Loulé (1).\n\nDistrito da Guarda:\n\nBairro de Tourão, Guarda, Sé, Guarda (1).\n\nQuinta do Pinheiro, Guarda, São Vicente, Guarda (2).\n\nCatraia de São Romão, São Romão, São Romão, Saia (2).\n\nDistrito de Leiria:\n\nMato Velho, Serro Ventoso, Serro Ventoso, Porto de Mós (2).\n\nDistrito de Lisboa:\n\nAlapraia, Galiza, Estoril, Cascais (3).\n\nPai do Vento, Amoreira, Alcabideche, Cascais (3).\n\nCasal do Rato, Paiã, Odivelas, Loures (3).\n\nVale Grande, Famões, Odivelas, Loures (3).\n\nBocal de Cima, Montemuro, Santo Estêvão das Galés, Mafra (1).\n\n> Alterado pelo/a [Portaria n.º 237/84](https://diariodarepublica.pt/dr/detalhe/portaria/237-1984-654570), publicado em 1984-04-14.\n\nPalmeiros, Morelena, Montelavar, Sintra (2).\n\nMonte Gordo, Vila Franca de Xira, Vila Franca de Xira, Vila Franca de Xira (1).\n\nDistrito de Portalegre:\n\nForos de Arrão de Baixo, Foros de Arrão, Montargil, Ponte de Sor (1).\n\nDistrito do Porto:\n\nVenda da Giesta, Lardosa, Soalhães, Marco de Canaveses (3).\n\nDistrito de Santarém:\n\nCourelas do Divor, Courelas do Divor, Couço, Coruche (1).\n\nDistrito de Setúbal:\n\nBairro do Morgadinho, Alcácer do Sal, Santiago, Alcácer do Sal (4).\n\nSanto António da Charneca (Urbanização da Compave), Santo António da Charneca, Palhais, Barreiro (2).\n\nAfonsos, Canha, Canha, Montijo (2).\n\nAlto do Faralhão, Faralhão, São Sebastião, Setúbal (2).\n\nDistrito de Viana do Castelo:\n\nLombadinha, Vila Boa, Gondoriz, Arcos de Valdevez (1).\n\nAlvas, Igreja, Barroselas, Viana do Castelo (3).\n\nDistrito de Viseu:\n\nCela, Adenodeiro, Moledo, Castro Daire (1).\n\nSernadinha, Manhouce, Manhouce, São Pedro do Sul (1).\n\nViseu (Serviços de Pediatria do Hospital Distrital), Viseu, Santa Maria, Viseu (1).\n\nMinistério da Educação.\n\nAssinada em 20 de Abril de 1983.\n\nO Ministro da Educação, João José Fraústo da Silva."
+  }
+ }
+}

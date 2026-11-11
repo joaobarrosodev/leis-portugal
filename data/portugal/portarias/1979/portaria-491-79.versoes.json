@@ -1,0 +1,86 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:370618:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-09-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4743c4ae2665fd0d",
+    "a4fda32a7b877c02",
+    "592c1b2978f26491"
+   ]
+  },
+  {
+   "date": "1982-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:396689:por",
+     "title": "Portaria n.º 817/82",
+     "published": "1982-08-28",
+     "dre_path": "/dr/detalhe/portaria/817-1982-396689"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 9-9",
+    "Altera Artigo unidades 14-15"
+   ],
+   "fragments": [
+    "26aa45431ed3a401",
+    "79058106e4772492"
+   ]
+  }
+ ],
+ "fragments": {
+  "4743c4ae2665fd0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Setembro\n\nTendo em vista o disposto nos artigos 2.º e 4.º do [Decreto Regulamentar n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1978-468861), de 10 de Janeiro;\n\nTendo a Comissão Instaladora da Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa declarado existirem condições para a entrada em funcionamento da licenciatura em Filosofia;\n\nTendo em vista o disposto no artigo 1.º do [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Investigação Científica:\n\n1.º A licenciatura em Filosofia, cujo plano de estudos foi fixado pelo [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio, iniciará o seu funcionamento na Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa no ano lectivo de 1979-1980.\n\n2.º O plano de estudos é o fixado pelo artigo 3.º do [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio, sendo a escolaridade semanal a fixada no anexo I a esta portaria.\n\n3.º A tabela de precedências é a constante do anexo II a esta portaria.\n\nMinistério da Educação e Investigação Científica, 30 de Julho de 1979. - O Ministro da Educação e Investigação Científica, Luís Francisco Valente de Oliveira."
+  },
+  "a4fda32a7b877c02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Curso de Filosofia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Curso de Filosofia\n\nDo 1.º ano ao 4.º ano\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20900/22582258.pdf)"
+  },
+  "592c1b2978f26491": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Curso de Filosofia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Curso de Filosofia\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20900/22582258.pdf)"
+  },
+  "26aa45431ed3a401": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1982-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 817/82](https://diariodarepublica.pt/dr/detalhe/portaria/817-1982-396689), publicado em 1982-08-28."
+   ],
+   "markdown": "de 10 de Setembro\n\nTendo em vista o disposto nos artigos 2.º e 4.º do [Decreto Regulamentar n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1978-468861), de 10 de Janeiro;\n\nTendo a Comissão Instaladora da Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa declarado existirem condições para a entrada em funcionamento da licenciatura em Filosofia;\n\nTendo em vista o disposto no artigo 1.º do [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Investigação Científica:\n\n1.º A licenciatura em Filosofia, cujo plano de estudos foi fixado pelo [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio, iniciará o seu funcionamento na Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa no ano lectivo de 1979-1980.\n\n2.º O plano de estudos é o fixado pelo artigo 3.º do [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio, sendo a escolaridade semanal a fixada no anexo I a esta portaria.\n\n3.º\n\n(Disciplinas de opção)\n\n1 - O elenco de disciplinas de opção será fixado anualmente pelo conselho científico.\n\n2 - O conselho científico fixará o número máximo de alunos a admitir à inscrição nas disciplinas de opção.\n\n3 - O número mínimo de alunos a admitir à inscrição em cada disciplina de opção é de 10, nos termos do n.º 3 do artigo 5.º do [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio.\n\n4 - Exceptuam-se do disposto no n.º 3 os casos em que:\n\na) O docente assegure a regência da disciplina a título gratuito;\n\nb) O docente assegure a regência da disciplina para além do número máximo de horas de serviço de aulas ou seminários a que é obrigado por lei;\n\nc) Não existindo outro serviço para distribuir ao docente, este complete com a regência da disciplina o número de horas de ensino que por lei deva assegurar.\n\n> Alterado pelo/a [Portaria n.º 817/82](https://diariodarepublica.pt/dr/detalhe/portaria/817-1982-396689), publicado em 1982-08-28.\n\nMinistério da Educação e Investigação Científica, 30 de Julho de 1979. - O Ministro da Educação e Investigação Científica, Luís Francisco Valente de Oliveira."
+  },
+  "79058106e4772492": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Curso de Filosofia",
+   "in_force_from": "1982-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 817/82](https://diariodarepublica.pt/dr/detalhe/portaria/817-1982-396689), publicado em 1982-08-28."
+   ],
+   "markdown": "## ANEXO I — Curso de Filosofia\n\nDo 1.º ano ao 4.º ano\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20900/22582258.pdf)\n\n> Alterado pelo/a [Portaria n.º 817/82](https://diariodarepublica.pt/dr/detalhe/portaria/817-1982-396689), publicado em 1982-08-28."
+  }
+ }
+}

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-04-30'
+version_history:
+  file: portaria-183-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-03-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-04-30'
+    amending: pt:dre:459578:por
+    amending_title: Declaração de Rectificação n.º 86/91
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/183/1991/03/04/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:42:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 86/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-183-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,7 +139,9 @@ Considerando que as alterações geopolíticas verificadas na Europa Central faz
 
 Considerando que a evolução da procura turística austríaca aconselha a reestruturação dos serviços de promoção turística naquele país, actualmente dependentes do CTP na Alemanha;
 
-Ao abrigo do disposto o n.º 3 do artigo 3.º do [Decreto-Lei n.º 446/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1989-551256), de 30 de Dezembro:
+Ao abrigo do disposto no n.º 4 do artigo 1.º do [Decreto-Lei n.º 199/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1983-451274), de 19 de Maio:
+
+> Alterado pelo/a [Declaração de Rectificação n.º 86/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/86-1991-459578), publicado em 1991-04-30.
 
 Manda o Governo, pelos Ministros das Finanças, dos Negócios Estrangeiros e do Comércio e Turismo, o seguinte:
 

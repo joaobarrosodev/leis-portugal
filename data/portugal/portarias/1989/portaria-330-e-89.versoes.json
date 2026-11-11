@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:570677:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-05-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b66b1cd47885c289"
+   ]
+  },
+  {
+   "date": "1989-08-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:619291:por",
+     "title": "Portaria n.º 700/89",
+     "published": "1989-08-17",
+     "dre_path": "/dr/detalhe/portaria/700-1989-619291"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-5",
+    "Altera Artigo unidades 17-18"
+   ],
+   "fragments": [
+    "5c0639cfb8401fb2"
+   ]
+  }
+ ],
+ "fragments": {
+  "b66b1cd47885c289": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Maio\n\nAo abrigo do disposto no n.º 3 do artigo 7.º do [Decreto-Lei n.º 483-F/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-f-1988-274265), de 28 de Dezembro:\n\nManda o Governo, pelos Ministros das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo, o seguinte:\n\n1.º Os preços limiares de importação para efeitos de construção dos direitos niveladores aplicáveis à importação de cereal em grão são os seguintes, por tonelada de cereal, e a partir das seguintes datas:\n\nA partir de 1 de Junho de 1989, inclusive:\n\nAveia ... 30000$00\n\nCevada ... 35000$00\n\nTriticale ... 35000$00\n\nA partir de 1 de Julho de 1989, inclusive:\n\nCenteio ... 33190$00\n\nSorgo ... 36025$00\n\nOutros cereais (excepto trigos e milho) ... 40500$00\n\nA partir de 15 de Julho de 1989, inclusive:\n\nTrigo-mole e mistura de trigo e centeio ... 48200$00\n\nTrigo-rijo ... 56160$00\n\nA partir de 15 de Setembro de 1989, inclusive:\n\nMilho ... 39500$00\n\n2.º - 1 - As existências de trigo-mole e mistura de trigo-mole e centeio importados à data da entrada em vigor dos preços limiares referidos no n.º 1.º serão declaradas ao INGA - Instituto Nacional de Intervenção e Garantia Agrícola pelos importadores, industriais utilizadores e armazenistas de cereais, no prazo de três dias úteis a partir daquela data, por carta registada com aviso de recepção.\n\n2 - As entidades referidas no n.º 1 liquidarão ao INGA, mediante guias emitidas por este Instituto, o diferencial correspondente à variação ocorrida nos preços limiares, no prazo de quinze dias a contar da data da recepção da referida guia.\n\n3.º É revogada a [Portaria n.º 88/89](https://diariodarepublica.pt/dr/detalhe/portaria/88-1989-610689), de 3 de Fevereiro, com efeitos a partir das datas referidas no n.º 1, em relação a cada um dos cereais no mesmo indicados.\n\nMinistérios das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo.\n\nAssinada em 8 de Maio de 1989.\n\nO Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral."
+  },
+  "5c0639cfb8401fb2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1989-08-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 700/89](https://diariodarepublica.pt/dr/detalhe/portaria/700-1989-619291), publicado em 1989-08-17.",
+    "Alterado pelo/a [Portaria n.º 700/89](https://diariodarepublica.pt/dr/detalhe/portaria/700-1989-619291), publicado em 1989-08-17."
+   ],
+   "markdown": "de 8 de Maio\n\nAo abrigo do disposto no n.º 3 do artigo 7.º do [Decreto-Lei n.º 483-F/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-f-1988-274265), de 28 de Dezembro:\n\nManda o Governo, pelos Ministros das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo, o seguinte:\n\n1.º Os preços limiares de importação para efeitos de construção dos direitos niveladores aplicáveis à importação de cereal em grão são os seguintes, por tonelada de cereal, a partir das seguintes datas:\n\n> Alterado pelo/a [Portaria n.º 700/89](https://diariodarepublica.pt/dr/detalhe/portaria/700-1989-619291), publicado em 1989-08-17.\n\nA partir de 1 de Junho de 1989, inclusive:\n\nAveia ... 30000$00\n\nCevada ... 35000$00\n\nTriticale ... 35000$00\n\nA partir de 1 de Julho de 1989, inclusive:\n\nCenteio ... 33190$00\n\nSorgo ... 36025$00\n\nOutros cereais (excepto trigos e milho) ... 40500$00\n\nA partir de 15 de Julho de 1989, inclusive:\n\nTrigo-mole e mistura de trigo e centeio ... 48200$00\n\nTrigo-rijo ... 56160$00\n\nA partir de 1 de Setembro de 1989, inclusive:\n\nMilho ... 40500$00\n\n> Alterado pelo/a [Portaria n.º 700/89](https://diariodarepublica.pt/dr/detalhe/portaria/700-1989-619291), publicado em 1989-08-17.\n\n2.º - 1 - As existências de trigo-mole e mistura de trigo-mole e centeio importados à data da entrada em vigor dos preços limiares referidos no n.º 1.º serão declaradas ao INGA - Instituto Nacional de Intervenção e Garantia Agrícola pelos importadores, industriais utilizadores e armazenistas de cereais, no prazo de três dias úteis a partir daquela data, por carta registada com aviso de recepção.\n\n2 - As entidades referidas no n.º 1 liquidarão ao INGA, mediante guias emitidas por este Instituto, o diferencial correspondente à variação ocorrida nos preços limiares, no prazo de quinze dias a contar da data da recepção da referida guia.\n\n3.º É revogada a [Portaria n.º 88/89](https://diariodarepublica.pt/dr/detalhe/portaria/88-1989-610689), de 3 de Fevereiro, com efeitos a partir das datas referidas no n.º 1, em relação a cada um dos cereais no mesmo indicados.\n\nMinistérios das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo.\n\nAssinada em 8 de Maio de 1989.\n\nO Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral."
+  }
+ }
+}

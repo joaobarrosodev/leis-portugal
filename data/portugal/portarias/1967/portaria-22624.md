@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1970-06-15'
+version_history:
+  file: portaria-22624.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-04-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1970-06-15'
+    amending: pt:dre:142689:por
+    amending_title: Portaria n.º 285/70
+    changes:
+    - Altera Artigo unidades 117-118
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:29:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 285/70. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1967/portaria-22624.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -342,9 +357,13 @@ A classificação será igual à média dos valores dados pelos diferentes membr
 
 49. As resoluções do júri poderão ser tomadas por maioria, devendo neste caso o vogal discordante fazer juntar à acta o seu voto devidamente fundamentado.
 
-50. Das decisões do júri de admissões e promoções pode haver recurso para o Secretário de Estado da Agricultura, que ouvirá a Procuradoria-Geral da República sempre que se invoque preterição ou ofensa de qualquer formalidade essencial do processo.
+50. Das deliberações do júri de admissões e promoções cabe recurso para o Secretário de Estado da Agricultura, que ouvirá a Procuradoria-Geral da República sempre que se invoque preterição ou ofensa de qualquer formalidade essencial do processo.
 
-§ único. O recurso terá de ser interposto no prazo de oito dias, a partir da data da publicação a que se refere o § 3.º do n.º 47.
+§ 1.º O recurso será interposto no prazo de quinze dias, a contar da data da publicação no Diário do Governo da lista de classificação.
+
+§ 2.º Até ao termo do prazo de interposição dos recursos, assiste aos candidatos nos respectivos concursos o direito de consultarem, na Repartição dos Serviços Administrativos, as actas a que se refere o n.º 48.
+
+> Alterado pelo/a [Portaria n.º 285/70](https://diariodarepublica.pt/dr/detalhe/portaria/285-1970-142689), publicado em 1970-06-15.
 
 V
 

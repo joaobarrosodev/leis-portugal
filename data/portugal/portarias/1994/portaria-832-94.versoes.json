@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:586826:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-09-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "16e475ed907aa611",
+    "80209585307f7658"
+   ]
+  },
+  {
+   "date": "1994-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:533198:por",
+     "title": "Declaração de Rectificação n.º 184/94",
+     "published": "1994-10-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/184-1994-533198"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 37"
+   ],
+   "fragments": [
+    "16e475ed907aa611",
+    "9a2345d88e46e8f3"
+   ]
+  }
+ ],
+ "fragments": {
+  "16e475ed907aa611": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Setembro\n\nO artigo 4.º do [Decreto-Lei n.º 308/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1993-633151), de 2 de Setembro, que estabeleceu a Lei Orgânica do Instituto de Gestão Informática e Financeira da Saúde (IGIF), excepcionou do regime geral de elaboração e apresentação dos orçamentos as instituições e serviços a que sejam atribuídas responsabilidades de âmbito nacional ou inter-regional.\n\nDe acordo com o artigo 12.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo [Decreto-Lei n.º 11/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1993-586006), de 15 de Janeiro, a atribuição de responsabilidades nacionais ou inter-regionais, quer para actividades de orientação e coordenação em áreas especializadas, quer para a prestação de cuidados, depende da classificação das instituições e serviços do Serviço Nacional de Saúde (SNS), a qual pressupõe um estudo técnico profundo, que se encontra em curso.\n\nTodavia, enquanto não estiverem concluídos os estudos necessários à plena execução do artigo 12.º do Estatuto do Serviço Nacional de Saúde, importa proceder a uma classificação provisória das instituições e serviços do SNS, para efeitos de proceder à aplicação do artigo 4.º do [Decreto-Lei n.º 308/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1993-633151), de 2 de Setembro, e assim determinar as instituições que enviam directamente ao IGIF os respectivos orçamentos.\n\nAssim, ao abrigo do n.º 1 do artigo 12.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo [Decreto-Lei n.º 11/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1993-586006), de 15 de Janeiro:\n\nManda o Governo, pelo Ministro da Saúde, o seguinte:\n\n1.º São considerados, provisoriamente e para efeitos de aplicação do artigo 4.º do [Decreto-Lei n.º 308/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1993-633151), de 2 de Setembro, como detendo responsabilidades nacionais ou inter-regionais, as instituições e serviços constantes do anexo à presente portaria e que dela faz parte integrante.\n\n2.º As instituições e serviços referidos no número anterior devem enviar directamente ao IGIF os respectivos orçamentos para o ano de 1995.\n\nMinistério da Saúde.\n\nAssinada em 21 de Julho de 1994.\n\nO Ministro da Saúde, Adalberto Paulo da Fonseca Mendo."
+  },
+  "80209585307f7658": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Hospitais centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Hospitais centrais\n\nHospital de São José.\n\nHospital de Santo António dos Capuchos.\n\nHospital de Curry Cabral.\n\nHospital de Dona Estefânia.\n\nHospital de Santa Marta.\n\nHospital de Santa Maria.\n\nHospital de São João.\n\nHospitais da Universidade de Coimbra.\n\nHospital Geral de Santo António.\n\nCentro Hospitalar de Coimbra.\n\nHospital de Pulido Valente.\n\nCentro Hospitalar de Vila Nova de Gaia.\n\nHospital de Egas Moniz.\n\nHospital de Santa Cruz.\n\nHospital Ortopédico de Sant'Iago do Outão.\n\nHospital de Joaquim Urbano.\n\nHospital Central e Especializado de Crianças Maria Pia.\n\nHospital Ortopédico do Dr. José de Almeida.\n\nHospital de São Francisco Xavier.\n\nMaternidade do Dr. Alfredo da Costa.\n\nMaternidade de Júlio Dinis.\n\nInstituto Português de Oncologia de Francisco Gentil - Centro Regional de Oncologia de Lisboa.\n\nInstituto Português de Oncologia - Centro Regional de Oncologia de Coimbra.\n\nInstituto Português de Oncologia - Centro Regional de Oncologia do Porto.\n\nServiços autónomos diversos\n\nInstituto de Genética Médica do Doutor Jacinto de Magalhães.\n\nCentro de Histocompatibilidade do Norte.\n\nCentro de Histocompatibilidade do Centro.\n\nCentro de Histocompatibilidade do Sul.\n\nEscola Superior de Tecnologia da Saúde do Porto.\n\nEscola Superior de Tecnologia da Saúde de Coimbra.\n\nEscola Superior de Tecnologia da Saúde de Lisboa.\n\nInstituto de Clínica Geral da Zona Norte.\n\nInstituto de Clínica Geral da Zona Centro.\n\nInstituto de Clínica Geral da Zona Sul.\n\nEscola Superior de Enfermagem de Artur Ravara.\n\nEscola Superior de Enfermagem de Beja.\n\nEscola Superior de Enfermagem de Bissaya Barreto.\n\nEscola Superior de Enfermagem de Bragança.\n\nEscolas Superiores de Enfermagem de Calouste Gulbenkian de Lisboa e Braga.\n\nEscola Superior de Enfermagem de D. Ana Guedes.\n\nEscola Superior de Enfermagem do Dr. Ângelo da Fonseca.\n\nEscola Superior de Enfermagem do Dr. Lopes Dias.\n\nEscola Superior de Enfermagem de Faro.\n\nEscola Superior de Enfermagem de Francisco Gentil.\n\nEscola Superior de Enfermagem da Guarda.\n\nEscola Superior de Enfermagem de Leiria.\n\nEscola Superior de Enfermagem de Portalegre.\n\nEscola Superior de Enfermagem de Maria Fernanda Resende.\n\nEscola Superior de Enfermagem da Cidade do Porto.\n\nEscola Superior de Enfermagem de Santarém.\n\nEscola Superior de Enfermagem de São João.\n\nEscola Superior de Enfermagem de São João de Deus - Évora.\n\nEscola Superior de Enfermagem de Viana do Castelo.\n\nEscola Superior de Enfermagem de Vila Real.\n\nEscola Superior de Enfermagem de Viseu.\n\nServiços psiquiátricos\n\nHospital do Conde de Ferreira.\n\nHospital de Júlio de Matos.\n\nHospital Psiquiátrico do Lorvão.\n\nHospital de Magalhães Lemos.\n\nHospital de Miguel Bombarda.\n\nHospital de Sobral Cid.\n\nCentro Psiquiátrico de Recuperação de Montachique.\n\nCentro Psiquiátrico de Recuperação de Arnes.\n\nCentro Regional de Alcoologia de Coimbra.\n\nCentro Regional de Alcoologia de Lisboa.\n\nCentro Regional de Alcoologia do Porto."
+  },
+  "9a2345d88e46e8f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Hospitais centrais",
+   "in_force_from": "1994-10-31",
+   "changed_by": [
+    "Aditado pelo/a [Declaração de Rectificação n.º 184/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/184-1994-533198), publicado em 1994-10-31."
+   ],
+   "markdown": "## ANEXO — Hospitais centrais\n\nHospital de São José.\n\nHospital de Santo António dos Capuchos.\n\nHospital de Curry Cabral.\n\nHospital de Dona Estefânia.\n\nHospital de Santa Marta.\n\nHospital de Santa Maria.\n\nHospital de São João.\n\nHospitais da Universidade de Coimbra.\n\nHospital Geral de Santo António.\n\nCentro Hospitalar de Coimbra.\n\nHospital de Pulido Valente.\n\nCentro Hospitalar de Vila Nova de Gaia.\n\nHospital de Egas Moniz.\n\nHospital de Santa Cruz.\n\nHospital Ortopédico de Sant'Iago do Outão.\n\nHospital de Joaquim Urbano.\n\nHospital Central e Especializado de Crianças Maria Pia.\n\nHospital Ortopédico do Dr. José de Almeida.\n\nHospital de São Francisco Xavier.\n\nMaternidade do Dr. Alfredo da Costa.\n\nMaternidade de Júlio Dinis.\n\nInstituto Português de Oncologia de Francisco Gentil - Centro Regional de Oncologia de Lisboa.\n\nInstituto Português de Oncologia - Centro Regional de Oncologia de Coimbra.\n\nInstituto Português de Oncologia - Centro Regional de Oncologia do Porto.\n\nInstituto de Oftalmologia do Dr. Gama Pinto.\n\n> Aditado pelo/a [Declaração de Rectificação n.º 184/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/184-1994-533198), publicado em 1994-10-31.\n\nServiços autónomos diversos\n\nInstituto de Genética Médica do Doutor Jacinto de Magalhães.\n\nCentro de Histocompatibilidade do Norte.\n\nCentro de Histocompatibilidade do Centro.\n\nCentro de Histocompatibilidade do Sul.\n\nEscola Superior de Tecnologia da Saúde do Porto.\n\nEscola Superior de Tecnologia da Saúde de Coimbra.\n\nEscola Superior de Tecnologia da Saúde de Lisboa.\n\nInstituto de Clínica Geral da Zona Norte.\n\nInstituto de Clínica Geral da Zona Centro.\n\nInstituto de Clínica Geral da Zona Sul.\n\nEscola Superior de Enfermagem de Artur Ravara.\n\nEscola Superior de Enfermagem de Beja.\n\nEscola Superior de Enfermagem de Bissaya Barreto.\n\nEscola Superior de Enfermagem de Bragança.\n\nEscolas Superiores de Enfermagem de Calouste Gulbenkian de Lisboa e Braga.\n\nEscola Superior de Enfermagem de D. Ana Guedes.\n\nEscola Superior de Enfermagem do Dr. Ângelo da Fonseca.\n\nEscola Superior de Enfermagem do Dr. Lopes Dias.\n\nEscola Superior de Enfermagem de Faro.\n\nEscola Superior de Enfermagem de Francisco Gentil.\n\nEscola Superior de Enfermagem da Guarda.\n\nEscola Superior de Enfermagem de Leiria.\n\nEscola Superior de Enfermagem de Portalegre.\n\nEscola Superior de Enfermagem de Maria Fernanda Resende.\n\nEscola Superior de Enfermagem da Cidade do Porto.\n\nEscola Superior de Enfermagem de Santarém.\n\nEscola Superior de Enfermagem de São João.\n\nEscola Superior de Enfermagem de São João de Deus - Évora.\n\nEscola Superior de Enfermagem de Viana do Castelo.\n\nEscola Superior de Enfermagem de Vila Real.\n\nEscola Superior de Enfermagem de Viseu.\n\nServiços psiquiátricos\n\nHospital do Conde de Ferreira.\n\nHospital de Júlio de Matos.\n\nHospital Psiquiátrico do Lorvão.\n\nHospital de Magalhães Lemos.\n\nHospital de Miguel Bombarda.\n\nHospital de Sobral Cid.\n\nCentro Psiquiátrico de Recuperação de Montachique.\n\nCentro Psiquiátrico de Recuperação de Arnes.\n\nCentro Regional de Alcoologia de Coimbra.\n\nCentro Regional de Alcoologia de Lisboa.\n\nCentro Regional de Alcoologia do Porto."
+  }
+ }
+}

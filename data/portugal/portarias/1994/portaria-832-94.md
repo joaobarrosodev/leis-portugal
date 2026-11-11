@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-10-31'
+version_history:
+  file: portaria-832-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-09-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-10-31'
+    amending: pt:dre:533198:por
+    amending_title: Declaração de Rectificação n.º 184/94
+    changes:
+    - Adita Artigo depois da unidade 37
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/832/1994/09/17/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:39:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 184/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-832-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -238,6 +253,10 @@ Instituto Português de Oncologia de Francisco Gentil - Centro Regional de Oncol
 Instituto Português de Oncologia - Centro Regional de Oncologia de Coimbra.
 
 Instituto Português de Oncologia - Centro Regional de Oncologia do Porto.
+
+Instituto de Oftalmologia do Dr. Gama Pinto.
+
+> Aditado pelo/a [Declaração de Rectificação n.º 184/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/184-1994-533198), publicado em 1994-10-31.
 
 Serviços autónomos diversos
 

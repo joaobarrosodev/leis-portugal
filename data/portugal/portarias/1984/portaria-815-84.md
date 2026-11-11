@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-10-26'
+version_history:
+  file: portaria-815-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-10-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-10-26'
+    amending: pt:dre:417619:por
+    amending_title: Portaria n.º 703/87; Portaria n.º 947/89; Portaria n.º 947/89
+    changes:
+    - Adita Artigo depois da unidade 15
+    - Altera Artigo unidades 32-38
+    - Altera Artigo unidades 40-49
+    - Altera Artigo unidades 69-69
 identifiers:
   celex: null
   eli: null
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:13:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 703/87; Portaria n.º
+    947/89; Portaria n.º 947/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-815-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,6 +167,16 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o
 
 A Universidade do Porto confere o grau de licenciado em Arquitectura, sendo o curso conducente à sua obtenção ministrado pela Faculdade de Arquitectura.
 
+1.º-A
+
+Ministração do curso em Viseu
+
+1 - O curso poderá ser ministrado no Porto e em Viseu.
+
+2 - À transferência de alunos entre as duas cidades onde a Faculdade ministre o curso aplicam-se, com as necessárias adaptações, as regras do regime de transferência.
+
+> Aditado pelo/a [Portaria n.º 703/87](https://diariodarepublica.pt/dr/detalhe/portaria/703-1987-417619), publicado em 1987-08-17.
+
 2.º
 
 (Organização do curso)
@@ -181,41 +209,31 @@ d) Seminário de pré-profissionalização - 1 ano.
 
 1 - São áreas científicas obrigatórias:
 
-Projecto ... 68,0
+a) Projecto ... 57
 
-Desenho ... 9,5
+b) Desenho ... 13
 
-Geometria ... 8,5
+c) Geometria ... 10,5
 
-Teoria da Arquitectura ... 16,5
+d) Teoria da Arquitectura ... 13,5
 
-História da Arquitectura ... 21,0
+e) História da Arquitectura ... 21
 
-Construção ... 17,5
+f) Construção ... 30
 
-Urbanologia ... 10,0
+g) Urbanismo ... 12
+
+h) Geografia ... 6
+
+> Alterado pelo/a [Portaria n.º 947/89](https://diariodarepublica.pt/dr/detalhe/portaria/947-1989-549413), publicado em 1989-10-21.
 
 2 - São áreas científicas optativas:
 
-Construção ... 5,0
+a) Estética ... 4,5
 
-Urbanologia ... 5,0
+b) Paisagismo ... 4,5
 
-Estética ... 10,0
-
-Arqueologia ... 10,0
-
-Geografia ... 10,0
-
-Sociologia ... 10,0
-
-Economia ... 10,0
-
-Direito ... 10,0
-
-Paisagismo ... 10,0
-
-Matemática ... 10,0
+> Alterado pelo/a [Portaria n.º 947/89](https://diariodarepublica.pt/dr/detalhe/portaria/947-1989-549413), publicado em 1989-10-21.
 
 6.º
 
@@ -255,7 +273,9 @@ A tabela e o regime de precedências serão fixados pelo conselho científico, o
 
 O grau de licenciado em Arquitectura obtém-se após:
 
-a) Obtenção de 166 unidades de crédito nos termos do n.º 5.º;
+a) Obtenção de 167,5 unidades de crédito nos termos do n.º 5.º;
+
+> Alterado pelo/a [Portaria n.º 947/89](https://diariodarepublica.pt/dr/detalhe/portaria/947-1989-549413), publicado em 1989-10-21.
 
 b) Aprovação no seminário de pré-profissionalização nos termos definidos no seu regulamento.
 

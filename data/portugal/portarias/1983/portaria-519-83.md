@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-04-19'
+version_history:
+  file: portaria-519-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-05-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-04-19'
+    amending: pt:dre:654570:por
+    amending_title: Portaria n.º 237/84
+    changes:
+    - Altera Artigo unidades 33-33
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:42:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 237/84. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-519-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -174,7 +189,9 @@ Casal do Rato, Paiã, Odivelas, Loures (3).
 
 Vale Grande, Famões, Odivelas, Loures (3).
 
-Bocal de Baixo, Ponte de Lousa, Santo Estêvão das Galés, Mafra (1).
+Bocal de Cima, Montemuro, Santo Estêvão das Galés, Mafra (1).
+
+> Alterado pelo/a [Portaria n.º 237/84](https://diariodarepublica.pt/dr/detalhe/portaria/237-1984-654570), publicado em 1984-04-14.
 
 Palmeiros, Morelena, Montelavar, Sintra (2).
 

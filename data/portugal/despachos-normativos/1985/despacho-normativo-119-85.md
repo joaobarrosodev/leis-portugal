@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-04-01'
+version_history:
+  file: despacho-normativo-119-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-04-01'
+    amending: pt:dre:666507:por
+    amending_title: Despacho Normativo n.º 32/87
+    changes:
+    - Altera Artigo unidades 15-15
+    - Adita Artigo depois da unidade 16
+    - Adita Artigo depois da unidade 18
 identifiers:
   celex: null
   eli: null
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:31:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 32/87. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1985/despacho-normativo-119-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,12 +152,22 @@ b) Ao Estado e demais pessoas colectivas de direito público, quando forem sujei
 
 5 - Para que sejam aplicáveis, respectivamente, o prazo e a prioridade a que se referem os n.os 1 e 4 do presente despacho é necessário que se verifiquem cumulativamente as seguintes condições:
 
-a) Seja apresentada dentro do prazo legal a declaração onde for feito o pedido de reembolso; e
+a) Seja apresentada dentro do prazo legal a declaração onde foi feito o pedido de reembolso e a mesma não contenha inexactidões ou omissões que prejudiquem a correcta apreciação do pedido;
+
+> Alterado pelo/a [Despacho Normativo n.º 32/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/32-1987-666507), publicado em 1987-03-27.
 
 b) Não esteja em falta relativamente à apresentação de declarações de períodos anteriores.
+
+c) Exista conta bancária já confirmada pelo Serviço de Administração do IVA e pela respectiva instituição de crédito.
+
+> Aditado pelo/a [Despacho Normativo n.º 32/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/32-1987-666507), publicado em 1987-03-27.
 
 6 - O disposto nos números anteriores relativamente aos sujeitos passivos referidos no n.º 1 e na alínea a) do n.º 4 não prejudica a possibilidade de exigência da garantia prevista no n.º 7 do artigo 22.º do Código do Imposto sobre o Valor Acrescentado; neste caso, o período que decorrer entre a data da notificação para a prestação de garantia e a efectivação desta acrescerá ao prazo previsto no n.º 1.
 
 7 - A caução, fiança bancária ou outra garantia adequada exigida nos termos do número anterior poderá ser mantida por prazo inferior ao estabelecido no n.º 7 do artigo 22.º do Código do Imposto sobro o Valor Acrescentado nos casos em que da posterior confirmação dos elementos em que se baseou o pedido se conclua clara e inequivocamente que o quantitativo que a mesma garante não foi indevidamente reembolsado e se verifique não haver falta de imposto em relação a outros períodos.
+
+8 - Em qualquer caso, a Direcção-Geral das Contribuições e Impostos poderá suspender o prazo de concessão dos reembolsos sempre que por facto imputável ao sujeito passivo não seja possível averiguar da legitimidade do reembolso solicitado, nomeadamente quando os elementos referidos no artigo 44.º do Código do Imposto sobre o Valor Acrescentado não sejam postos à disposição dos serviços competentes ou os mesmos se encontrem em condições tais que não permitam o correcto apuramento do imposto a restituir.
+
+> Aditado pelo/a [Despacho Normativo n.º 32/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/32-1987-666507), publicado em 1987-03-27.
 
 Ministério das Finanças, 31 de Dezembro de 1985. - Pelo Ministro das Finanças, José de Oliveira Costa, Secretário de Estado para os Assuntos Fiscais.

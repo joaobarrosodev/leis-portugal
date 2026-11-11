@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-10-03'
+version_history:
+  file: portaria-260-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-03-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-10-03'
+    amending: pt:dre:355508:por
+    amending_title: Portaria n.º 650/88
+    changes:
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:12:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 650/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-260-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,7 +139,9 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 3.º No caso do exercício de funções em regime de tempo parcial, os valores referidos nos números anteriores serão deduzidos das importâncias correspondentes às remunerações do lugar de que sejam titulares no seu quadro.
 
-4.º Aos peritos é atribuída uma gratificação mensal fixa de 12000$00.
+4.º Aos peritos é atribuída uma gratificação mensal ilíquida no valor de 30% da remuneração correspondente à letra B, sem diuturnidades, da tabela de remunerações dos funcionários e agentes da Administração Pública.
+
+> Alterado pelo/a [Portaria n.º 650/88](https://diariodarepublica.pt/dr/detalhe/portaria/650-1988-355508), publicado em 1988-09-28.
 
 5.º A Comissão poderá em caso de particular especialidade encomendar a entidades singulares ou colectivas de reconhecida competência a realização de trabalhos ou estudos necessários ao cumprimento das suas atribuições específicas, sendo a respectiva despesa autorizada nos termos legais.
 

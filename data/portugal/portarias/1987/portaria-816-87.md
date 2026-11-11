@@ -39,10 +39,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-08-07'
+version_history:
+  file: portaria-816-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-09-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-08-07'
+    amending: pt:dre:377956:por
+    amending_title: Portaria n.º 519/88
+    changes:
+    - Altera Artigo unidades 51-51
+    - Altera Artigo unidades 53-53
+    - Altera Artigo unidades 66-66
+    - Altera Artigo unidades 87-89
+    - Altera Artigo unidades 123-123
+    - Altera Artigo unidades 132-132
+    - Altera Artigo unidades 147-151
 identifiers:
   celex: null
   eli: null
@@ -68,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:17:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 519/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-816-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -231,11 +252,15 @@ e) Curso de bacharelato de professores do ensino primário;
 
 f) Curso de serviço social ministrado pelos institutos superiores de serviço social;
 
-g) Curso de enfermagem complementar a que se refere a alínea e) do artigo 7.º do [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952, e um curso complementar do ensino secundário;
+g) Curso de enfermagem geral a que se refere a alínea b) do artigo 7.º do [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952, e um curso complementar do ensino secundário.
+
+> Alterado pelo/a [Portaria n.º 519/88](https://diariodarepublica.pt/dr/detalhe/portaria/519-1988-377956), publicado em 1988-08-02.
 
 h) Exame especial de avaliação de capacidade para acesso a este curso, dentro do respectivo prazo de validade ([Decreto-Lei n.º 198/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1979-381171), de 29 de Junho).
 
-2 - Podem igualmente apresentar-se ao concurso de acesso os estudantes que, embora não sendo titulares de uma das habilitações a que se referem as alíneas a) a g) do n.º 1, já hajam estado legalmente matriculados e inscritos em estabelecimentos e curso de ensino superior, salvo se a ele foram admitidos através do exame ad hoc para acesso ao ensino superior ou do exame especial de avaliação de capacidade para acesso a outro curso do ensino superior.
+2 - Podem igualmente apresentar-se ao concurso de acesso os estudantes que, embora não sendo titulares de uma das habilitações a que se referem as alíneas a) a g) do n.º 1, já hajam estado legalmente matriculados e inscritos em estabelecimentos e curso de ensino superior, não podendo o número daqueles candidatos exceder 10% para além das vagas fixadas para o curso, arredondado para o número inteiro superior, salvo se a ele foram admitidos através do exame especial de avaliação de capacidade para acesso a outro curso do ensino superior.
+
+> Alterado pelo/a [Portaria n.º 519/88](https://diariodarepublica.pt/dr/detalhe/portaria/519-1988-377956), publicado em 1988-08-02.
 
 11.º
 
@@ -261,7 +286,9 @@ d) Habilitação de acesso com que se candidata.
 
 6 - Na altura da entrega do requerimento será exibido o bilhete de identidade, para conferência.
 
-7 - O requerimento poderá ser substituído por um impresso de modelo a fixar nos termos do n.º 5 do n.º 9.º
+7 - O requerimento poderá ser substituído por um impresso de modelo a fixar pelo conselho directivo da Faculdade.
+
+> Alterado pelo/a [Portaria n.º 519/88](https://diariodarepublica.pt/dr/detalhe/portaria/519-1988-377956), publicado em 1988-08-02.
 
 12.º
 
@@ -303,11 +330,13 @@ Até 30 dias antes da realização das provas, o júri promoverá a afixação n
 
 15.º
 
-Provas de acesso
+Fases
 
-1 - As provas de acesso ao curso integrarão uma fase de pré-selecção e uma fase de selecção.
+1 - O concurso de acesso ao curso integrará uma fase de pré-selecção e uma fase de selecção.
 
-2 - A fase de pré-selecção é de natureza documental.
+2 - A fase de pré-selecção é de natureza documental e a sua avaliação será feita em função da satisfação dos requisitos previamente fixados pelo júri.
+
+> Alterado pelo/a [Portaria n.º 519/88](https://diariodarepublica.pt/dr/detalhe/portaria/519-1988-377956), publicado em 1988-08-02.
 
 3 - Da fase de pré-selecção serão elaboradas listas de candidatos admitidos à fase de selecção e dos excluídos desta.
 
@@ -375,7 +404,9 @@ c) Resultado das duas fases do concurso de acesso;
 
 d) Data da matrícula e inscrição, se for caso disso.
 
-2 - A lista será acompanhada de fotocópia do certificado a que se refere o n.º 5 do n.º 12.º
+2 - A lista será acompanhada de fotocópia do certificado a que se refere o n.º 5 do n.º 11.º
+
+> Alterado pelo/a [Portaria n.º 519/88](https://diariodarepublica.pt/dr/detalhe/portaria/519-1988-377956), publicado em 1988-08-02.
 
 21.º
 
@@ -393,7 +424,9 @@ O resultado final do concurso de acesso é válido apenas para o ano lectivo par
 
 Regulamento anexo à [Portaria n.º 582-B/84](https://diariodarepublica.pt/dr/detalhe/portaria/582-b-1984-370853), de 8 de Agosto
 
-À candidatura a este curso não é aplicável o regulamento anexo à [Portaria n.º 582-B/84](https://diariodarepublica.pt/dr/detalhe/portaria/582-b-1984-370853), de 8 de Agosto.
+À candidatura a este curso não é aplicável o regulamento anexo à [Portaria n.º 582-B/84](https://diariodarepublica.pt/dr/detalhe/portaria/582-b-1984-370853), de 8 de Agosto, sem prejuízo do disposto no n.º 19.º
+
+> Alterado pelo/a [Portaria n.º 519/88](https://diariodarepublica.pt/dr/detalhe/portaria/519-1988-377956), publicado em 1988-08-02.
 
 24.º
 
@@ -423,15 +456,19 @@ c) Actuem, no decurso das provas, de maneira fraudulenta que implique o desvirtu
 
 Matrículas simultâneas
 
-1 - É proibida a matrícula e instrução no mesmo ano lectivo:
+1 - É proibida a matrícula e inscrição no mesmo ano lectivo:
 
-a) Neste curso e noutro curso superior ministrado em estabelecimento de ensino superior público;
+a) Em dois cursos superiores ministrados em estabelecimentos de ensino superior público, particular ou cooperativo;
 
-b) Neste curso e noutro ministrado em estabelecimento de ensino público.
+b) Num dos cursos superiores referidos na alínea a) e num curso não superior ministrado em estabelecimento público.
 
-2 - A violação do disposto no n.º 1 determina a anulação das matrículas e inscrições do aluno em causa.
+2 - Exceptua-se do disposto na alínea b) do número anterior a inscrição em curso não superior de Música, Canto ou Dança.
 
-3 - É competente para determinar a anulação da matrícula e inscrição a entidade que, em cada estabelecimento, for competente para a autorizar, sob participação de qualquer entidade que haja tido conhecimento da situação.
+3 - A violação do disposto no n.º 1 determina a anulação das matrículas e inscrições do aluno em causa.
+
+4 - É competente para determinar a anulação da matrícula e inscrição a entidade que em cada estabelecimento for competente para a autorizar, sob participação de qualquer entidade que haja tido conhecimento da situação.
+
+> Alterado pelo/a [Portaria n.º 519/88](https://diariodarepublica.pt/dr/detalhe/portaria/519-1988-377956), publicado em 1988-08-02.
 
 27.º
 

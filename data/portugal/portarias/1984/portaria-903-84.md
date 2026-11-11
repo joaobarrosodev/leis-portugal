@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-08-30'
+version_history:
+  file: portaria-903-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-12-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-08-30'
+    amending: pt:dre:621743:por
+    amending_title: Portaria n.º 317-A/86; Portaria n.º 586/88
+    changes:
+    - Altera Artigo unidades 13-14
+    - Altera Artigo unidades 46-49
+    - Altera Artigo unidades 51-53
+    - Altera Artigo unidades 56-71
 identifiers:
   celex: null
   eli: null
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:16:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 317-A/86; Portaria n.º
+    586/88. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-903-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,9 +168,11 @@ O curso desdobra-se nos seguintes ramos:
 
 a) Produção industrial;
 
-b) Engenharia mecânica;
+b) (Revogada.)
 
-c) Engenharia química.
+c) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 317-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/317-a-1986-621743), publicado em 1986-06-24.
 
 3.º
 
@@ -216,57 +236,57 @@ Pelo Ministro da Educação, Joaquim Germano Pinto Machado Correia da Silva, Sec
 
 ## ANEXO I — Ramo de produção industrial
 
-1 - Áreas científicas do curso:
+Licenciatura em Engenharia de Produção Industrial
 
-a) Engenharia Industrial;
+1 - Área científica do curso:
 
-b) Engenharia Mecânica;
+Engenharia Industrial.
 
-c) Engenharia Química.
+> Alterado pelo/a [Portaria n.º 586/88](https://diariodarepublica.pt/dr/detalhe/portaria/586-1988-379724), publicado em 1988-08-25.
 
 2 - Duração normal do curso:
 
-5 anos.
+Cinco anos lectivos.
 
-3 - Número total de unidades de crédito necessário à concessão do grau:
+3 - Número total mínimo de unidades de crédito necessário a concessão do grau:
 
-170.
+165.
+
+> Alterado pelo/a [Portaria n.º 586/88](https://diariodarepublica.pt/dr/detalhe/portaria/586-1988-379724), publicado em 1988-08-25.
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
 4.1 - Áreas científicas obrigatórias:
 
-a) Engenharia Industrial ... 35,0
+a) Engenharia Industrial ... 36
 
-b) Engenharia Mecânica ... 23,5
+b) Engenharia Mecânica ... 13.5
 
-c) Engenharia Química ... 13,5
+c) Engenharia Química ... 6
 
-d) Ciências da Engenharia ... 21,0
+d) Ciências da Engenharia ... 15.5
 
-e) Matemática ... 28,5
+e) Matemática ... 29
 
-f) Física ... 12,0
+f) Física ... 12
 
-g) Química ... 8,0
+g) Química ... 8
 
-h) Ciências Humanas e Sociais ... 9,0
+h) Ciências Humanas e Sociais ... 9
 
-4.2 - Áreas científicas opcionais:
+4.2 - Conjunto das áreas científicas optativas:
 
-a) Engenharia Industrial ... 19,5
+a) Engenharia Industrial ... 36
 
-b) Engenharia Mecânica ... 19,5
+b) Engenharia Mecânica ... 36
 
-c) Engenharia Química ... 19,5
+c) Engenharia Química ... 36
 
-d) Ciências da Engenharia ... 19,5
+d) Ciências da Engenharia ... 36
 
-5 - Condições para a inscrição no ramo:
+e) Ciências Humanas e Sociais ... 36
 
-a) 4 semestres lectivos de inscrição no curso;
-
-b) Obtenção de 65 unidades de crédito.
+> Alterado pelo/a [Portaria n.º 586/88](https://diariodarepublica.pt/dr/detalhe/portaria/586-1988-379724), publicado em 1988-08-25.
 
 ## ANEXO II — Ramo de engenharia química
 

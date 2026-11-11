@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-02-20'
+version_history:
+  file: portaria-645-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-08-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-02-20'
+    amending: pt:dre:402573:por
+    amending_title: Portaria n.º 63/2000
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:26:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 63/2000. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-645-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,7 +162,9 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 1.º Fica sujeita ao regime cinegético especial a propriedade englobada pela poligonal constante da planta anexa, denominada «Herdade da Abegoaria», situada na freguesia de Canha, concelho do Montijo, com uma área de 626,7225 ha.
 
-2.º Nesta área, até ao dia 31 de Maio de 2001, é concedida à Associação de Caçadores da Abegoaria (registo na Direcção-Geral das Florestas n.º 3.501.89) a exploração de uma zona de caça associativa (processo n.º 157 da Direcção-Geral das Florestas).
+2.º Nesta área, até ao dia 14 de Outubro de 2001, é concedida à Associação de Caçadores da Abegoaria (registo na Direcção-Geral das Florestas n.º 3.501.89) a exploração de uma zona de caça associativa (processo n.º 157 da Direcção-Geral das Florestas).
+
+> Alterado pelo/a [Portaria n.º 63/2000](https://diariodarepublica.pt/dr/detalhe/portaria/63-2000-402573), publicado em 2000-02-15.
 
 3.º Nesta zona de caça é facultado o exercício venatório a todos os membros da Associação de Caçadores da Abegoaria, com observância das regras legais e das suas normas estatutárias e regulamentares.
 

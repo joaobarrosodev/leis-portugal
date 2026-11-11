@@ -1,0 +1,75 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:406542:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f9845af2f5dc02cd",
+    "a7a1206bf85a555d",
+    "773fcd7075255eed"
+   ]
+  },
+  {
+   "date": "1998-06-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:475972:por",
+     "title": "Portaria n.º 346/98",
+     "published": "1998-06-05",
+     "dre_path": "/dr/detalhe/portaria/346-1998-475972"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 34-41"
+   ],
+   "fragments": [
+    "f9845af2f5dc02cd",
+    "34b6eaee8d5c7d20"
+   ]
+  }
+ ],
+ "fragments": {
+  "f9845af2f5dc02cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Agosto\n\nConsiderando que o n.º 2 do artigo 13.º do Regulamento (CEE) n.º [3813/92](https://data.europa.eu/eli/reg/1992/3813/oj?locale=pt), de 28 de Dezembro, com a redacção dada pelo Regulamento (CE) n.º [150/95](https://data.europa.eu/eli/reg/1995/150/oj?locale=pt), de 23 de Janeiro, prevê a alteração dos valores em ecus a fim de neutralizar as consequências da supressão do factor de correcção que afectava as taxas de conversão utilizadas na agricultura;\n\nConsiderando que o Regulamento (CE) n.º [2772/95](https://data.europa.eu/eli/reg/1995/2772/oj?locale=pt), de 30 de Dezembro, veio proceder à alteração dos valores em ecus previstos no Regulamento (CEE) n.º [2078/92](https://data.europa.eu/eli/reg/1992/2078/oj?locale=pt), de 30 de Junho, nos termos do disposto no artigo 18.º do Regulamento (CEE) n.º [1068/93](https://data.europa.eu/eli/reg/1993/1068/oj?locale=pt), de 30 de Abril, com a redacção dada pelo Regulamento (CE) n.º [157/95](https://data.europa.eu/eli/reg/1995/157/oj?locale=pt), de 31 de Janeiro;\n\nConsiderando a necessidade de se proceder à alteração dos valores previstos nos diplomas que estabelecem o regime de ajudas a conceder no âmbito das medidas agro-ambientais instituídas pelo Regulamento (CEE) n.º [2078/92](https://data.europa.eu/eli/reg/1992/2078/oj?locale=pt), por forma a não reduzir o valor das ajudas a pagar aos beneficiários:\n\nAo abrigo do n.º 2 do artigo 10.º do Decreto-Lei n.º 31/94, de 5 de Fevereiro:\n\nManda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, o seguinte:\n\n1.º O valor constante do n.º 4.º da Portaria n.º 688/94, de 22 de Julho, é alterado para 16905 ECU.\n\n2.º Os valores fixados na Portaria n.º 1059/95, de 29 de Agosto, são alterados para os seguintes montantes:\n\nN.º 7.º, alínea a): 36,2 ECU;\n\nN.º 7.º, alínea b): 24,2 ECU;\n\nN.º 7.º, alínea c): 12,1 ECU;\n\nN.º 10.º, alínea a), i): 483 ECU;\n\nN.º 10.º, alínea a), ii): 362,3 ECU;\n\nN.º 10.º, alínea a), iii): 301,9 ECU;\n\nN.º 10.º, alínea a), iv): 181,1 ECU;\n\nN.º 10.º, alínea b), i): 573,6 ECU.\n\n3.º Os valores fixados no anexo da Portaria n.º 858/94, de 23 de Setembro, rectificada pela Declaração de Rectificação n.º 180/94, publicada no DR, 1.ª série, n.º 227, de 30 de Setembro de 1994, são alterados para os seguintes montantes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)\n\n4.º Os valores fixados nos anexos II, III, IV e V da Portaria n.º 698/94, de 26 de Junho, são alterados para os seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)\n\n5.º Os valores fixados na Portaria n. 703/94, de 28 de Julho, são alterados para os seguintes montantes:\n\nN.º 7.º, n.º 2: 129,2 ECU;\n\nN.º 10.º: 84,5 ECU;\n\nN.º 12.º: 144,9 ECU;"
+  },
+  "a7a1206bf85a555d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo II: — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II: — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)\n\n6.º Os valores fixados na Portaria n.º 693/94, de 23 de Julho, são alterados para os montantes:\n\nN.º 10.º, n.º 1, alínea a)\n\nDestinadas a técnicos: 120,8 ECU/participante/dia, até 30187,7;\n\nDestinadas a Agricultores: 84,5 ECU/participante/dia, até 10746,8 ECU/acção;\n\nN.º 10.º, n.º 1.º, alínea b) - destinadas a agricultores: 24,2 ECU/participante/dia, até 1823,3 ECU/acção;\n\nN.º 10.º, n.º 2: 42,3 ECU/dia, até ao montante máximo de 3018,8 ECU por técnico;\n\nN.º 10.º, n.º 3: 50500 ECU.\n\n7.º Os valores fixados na Portaria n. 1177/95, de 26 de Setembro, são alterados para os seguintes montantes:\n\nN.º 7.º, n.º 1:\n\n22701,2 ECU;\n\n28376,5 ECU;\n\nN.º 7.º, n.º 2:\n\n22701,2 ECU;\n\n28376,5 ECU."
+  },
+  "773fcd7075255eed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo V: — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V: — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)\n\n8.º Os valores constantes dos contratos de atribuição de ajuda celebrados até à data de entrada em vigor desta portaria e no âmbito dos diplomas referidos nos números anteriores são actualizados por aplicação do factor de correcção de 1,207509.\n\nMinistérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.\n\nAssinada em 25 de Julho de 1996.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira."
+  },
+  "34b6eaee8d5c7d20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo II: — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)",
+   "in_force_from": "1998-06-05",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 346/98](https://diariodarepublica.pt/dr/detalhe/portaria/346-1998-475972), publicado em 1998-06-05."
+   ],
+   "markdown": "## Anexo II: — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)\n\n6.º Os valores fixados na Portaria n.º 693/94, de 23 de Julho, são alterados para os montantes:\n\nN.º 10.º, n.º 1, alínea a)\n\nDestinadas a técnicos: 120,8 ECU/participante/dia, até 30187,7;\n\nDestinadas a Agricultores: 84,5 ECU/participante/dia, até 10746,8 ECU/acção;\n\nN.º 10.º, n.º 1.º, alínea b) - destinadas a agricultores: 24,2 ECU/participante/dia, até 1823,3 ECU/acção;\n\nN.º 10.º, n.º 2: 42,3 ECU/dia, até ao montante máximo de 3018,8 ECU por técnico;\n\nN.º 10.º, n.º 3: 50500 ECU.\n\n7.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 346/98](https://diariodarepublica.pt/dr/detalhe/portaria/346-1998-475972), publicado em 1998-06-05.\n\n8.º Os valores constantes dos contratos de atribuição de ajuda celebrados até à data de entrada em vigor desta portaria e no âmbito dos diplomas referidos nos números anteriores são actualizados por aplicação do factor de correcção de 1,207509.\n\nMinistérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.\n\nAssinada em 25 de Julho de 1996.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira."
+  }
+ }
+}

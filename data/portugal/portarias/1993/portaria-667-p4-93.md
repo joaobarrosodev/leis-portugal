@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-07-23'
+version_history:
+  file: portaria-667-p4-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-07-23'
+    amending: pt:dre:149622:por
+    amending_title: Portaria n.º 518/97
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/667-p4/1993/07/14/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:04:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 518/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-667-p4-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,7 +154,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Silvares, município do Fundo, com uma área de 1335 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Silvares, município do Fundão, com a área de 1319,50 ha.
+
+> Alterado pelo/a [Portaria n.º 518/97](https://diariodarepublica.pt/dr/detalhe/portaria/518-1997-149622), publicado em 1997-07-22.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 518/97](https://diariodarepublica.pt/dr/detalhe/portaria/518-1997-149622), publicado em 1997-07-22.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à Associação de Caçadores e Pescadores de Silvares (registo no Instituto Florestal n.º 2.1183.92), com sede na Avenida do Brasil, Silvares, a Zona de Caça Associativa de Silvares (processo n.º 1315 do Instituto Florestal).
 

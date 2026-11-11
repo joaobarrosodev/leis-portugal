@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-08-07'
+version_history:
+  file: portaria-350-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-05-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-08-07'
+    amending: pt:dre:344946:por
+    amending_title: Portaria n.º 588/99
+    changes:
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:18:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 588/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-350-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,7 +163,9 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 2.º É rectificada a área desta concessão, que passa a ser de 3432,6350 ha.
 
-3.º Esta área, até 31 de Maio de 2001, é concessionada à TECNOCAÇA, Criação e Gestão dos Recursos Cinegéticos, Lda.
+3.º Esta área, 29 de Setembro de 1996, é concessionada à TECNOCAÇA, Criação e Gestão dos Recursos Cinegéticos, Lda.
+
+> Alterado pelo/a [Portaria n.º 588/99](https://diariodarepublica.pt/dr/detalhe/portaria/588-1999-344946), publicado em 1999-08-02.
 
 4.º A planta anexa à [Portaria n.º 855/89](https://diariodarepublica.pt/dr/detalhe/portaria/855-1989-548450), de 29 de Setembro, é substituída pela planta anexa a este diploma.
 

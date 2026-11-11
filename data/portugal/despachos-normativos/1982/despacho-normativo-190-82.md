@@ -29,10 +29,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-08-23'
+version_history:
+  file: despacho-normativo-190-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-08-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-08-23'
+    amending: pt:dre:454860:por
+    amending_title: Despacho Normativo n.º 168/83
+    changes:
+    - Altera Artigo unidades 12-13
+    - Altera Artigo unidades 49-54
+    - Altera Artigo unidades 58-61
+    - Altera Artigo unidades 64-64
 identifiers:
   celex: null
   eli: null
@@ -58,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:17:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 168/83. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1982/despacho-normativo-190-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,9 +152,11 @@ I
 
 A - Trigo, centeio, triticale, cevada forrageira e aveia
 
-1.º Os preços de intervenção para o trigo, centeio, triticale, cevada forrageira e aveia para a campanha de produção de 1982-1983 a praticar pela EPAC são os seguintes:
+1.º Os preços de intervenção para o trigo, centeio, triticale, cevada forrageira e aveia para a campanha de 1982-1983 a praticar pela EPAC são os seguintes:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/19900/25322534.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/18900/29492949.pdf)
+
+> Alterado pelo/a [Despacho Normativo n.º 168/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/168-1983-454860), publicado em 1983-08-18.
 
 2.º O trigo mole tipo I integra o cereal proveniente de semente certificada das variedades Campodoro, Impeto, Mara, Nazareno Strampelli e Anza e de searas devidamente verificadas pelos serviços regionais de agricultura ou da EPAC.
 
@@ -208,17 +228,19 @@ Os grãos em que se vê nitidamente, a olho nu, a radícula ou plúmula.
 
 11.º Os preços de intervenção fixados no n.º 1.º são sujeitos às majorações mensais seguintes:
 
-1) Os preços do trigo serão acrescidos, a partir de Outubro de 1982, inclusive, até 31 de Maio de 1983, de 272$00 por tonelada e por mês;
+1) Os preços do trigo serão acrescidos, a partir de Outubro de 1983, inclusive, até 31 de Maio de 1984, de 294$00 por tonelada e por mês;
 
-2) Os preços de centeio, triticale, cevada forrageira e aveia serão acrescidos, a partir de Setembro de 1982, inclusive, até 30 de Abril de 1983, das seguintes majorações por tonelada e por mês:
+2) Os preços do centeio, triticale, cevada forrageira e aveia serão acrescidos, a partir de Setembro de 1983, inclusive, até 30 de Abril de 1984, das seguintes majorações por tonelada e por mês:
 
-Centeio - 259$00;
+Centeio - 280$00;
 
-Triticale - 264$00;
+Triticale - 286$00;
 
-Cevada forrageira - 233$00;
+Cevada forrageira - 254$00;
 
-Aveia - 189$00.
+Aveia - 215$00.
+
+> Alterado pelo/a [Despacho Normativo n.º 168/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/168-1983-454860), publicado em 1983-08-18.
 
 12.º Os preços de intervenção referem-se ao cereal descarregado nos celeiros ou silos da EPAC ou, no caso de entregas directas determinadas por esta empresa pública, nas fábricas.
 
@@ -226,19 +248,23 @@ Aveia - 189$00.
 
 B - Cevada dística qualificada para malte
 
-14.º Os preços de intervenção a praticar pela EPAC para a cevada dística qualificada para malte definida pelo Decreto-Lei n.º 47745, de 2 de Junho de 1967, e classificada pela [Portaria n.º 22757](https://diariodarepublica.pt/dr/detalhe/portaria/22757-1967-311784), de 28 do mesmo mês, são os seguintes por tonelada:
+14.º Os preços de intervenção a praticar pela EPAC para a cevada dística qualificada para malte, definida pelo Decreto-Lei n.º 47745, de 2 de Junho de 1967, e classificada pela [Portaria n.º 22757](https://diariodarepublica.pt/dr/detalhe/portaria/22757-1967-311784), de 28 de Junho de 1967, são os seguintes, por tonelada:
 
-1.ª classe - 18800$00;
+1.ª classe - 20700$00;
 
-2.ª classe - 18600$00;
+2.ª classe - 20470$00;
 
-3.ª classe - 18400$00.
+3.ª classe - 20240$00.
+
+> Alterado pelo/a [Despacho Normativo n.º 168/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/168-1983-454860), publicado em 1983-08-18.
 
 15.º A intervenção da EPAC no mercado da cevada dística qualificada para malte regular-se-á de acordo com as disposições expressas no n.º 12.º deste despacho.
 
 16.º Toda a cevada dística apresentada à intervenção e que não satisfaça os requisitos de qualidade definidos na legislação citada no n.º 14.º será classificada de «qualidade inferior», podendo ser recebida pela EPAC segundo condições a fixar.
 
-17.º Os preços de intervenção fixados no n.º 14.º serão acrescidos, a partir de Setembro de 1982, inclusive, até 30 de Abril de 1983, de 244$00 por tonelada e por mês.
+17.º Os preços de intervenção fixados no n.º 14.º serão acrescidos, a partir de Setembro de 1983, inclusive, até 30 de Abril de 1984, de 269$00 por tonelada e por mês.
+
+> Alterado pelo/a [Despacho Normativo n.º 168/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/168-1983-454860), publicado em 1983-08-18.
 
 II
 

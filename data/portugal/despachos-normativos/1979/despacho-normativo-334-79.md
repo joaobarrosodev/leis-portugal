@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-12-24'
+version_history:
+  file: despacho-normativo-334-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-11-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-12-24'
+    amending: pt:dre:365894:por
+    amending_title: Despacho Normativo n.º 376/79
+    changes:
+    - Altera Artigo unidades 224-224
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:55:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 376/79. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1979/despacho-normativo-334-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -548,7 +563,9 @@ j) Manter os serviços do FNSE permanentemente informados de todas as dificuldad
 
 a) É fixada em 10$00 a quotização anual a pagar para o FNSE pelos alunos do ensino primário e do CPTV;
 
-b) Os alunos que já tenham efectuado o pagamento da quotização segundo o valor em vigor à data da publicação do presente despacho deverão efectuar segunda prestação até ao dia 30 de Outubro, no prazo de trinta dias após a publicação deste despacho.
+b) Os alunos que já tenham efectuado o pagamento da quotização segundo o valor em vigor à data da publicação do presente despacho deverão efectuar segunda prestação no prazo a estabelecer pelo Instituto de Acção Social Escolar.
+
+> Alterado pelo/a [Despacho Normativo n.º 376/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/376-1979-365894), publicado em 1979-12-24.
 
 6.3 - O valor da segunda prestação será entregue e depositado nos termos e prazos estabelecidos para a quotização efectuada no acto da matrícula, nomeadamente:
 

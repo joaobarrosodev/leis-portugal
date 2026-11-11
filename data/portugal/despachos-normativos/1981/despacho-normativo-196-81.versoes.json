@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:577114:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1981-08-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e913cc708a8c1552"
+   ]
+  },
+  {
+   "date": "1983-04-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:311664:por",
+     "title": "Despacho Normativo n.º 91/83",
+     "published": "1983-04-19",
+     "dre_path": "/dr/detalhe/despacho-normativo/91-1983-311664"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "e90f512d2a96ae6a"
+   ]
+  }
+ ],
+ "fragments": {
+  "e913cc708a8c1552": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando terem surgido dúvidas na aplicação do disposto no artigo 25.º do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro;\n\nAo abrigo do artigo 40.º do mencionado [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596):\n\nDetermino:\n\n1 - O disposto no n.º 1 do artigo 25.º do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596) é exclusivamente aplicável aos docentes que, encontrando-se colocados, na qualidade de portadores de habilitação suficiente, em grupo, subgrupo, disciplina ou especialidade para que haja carência de professores portadores de habilitação própria, possuam para o mesmo grau de ensino em que se encontram a leccionar habilitação própria para outro grupo, subgrupo, disciplina ou especialidade.\n\n2 - A aplicação do estabelecido no número anterior fica ainda condicionada ao facto de o respectivo docente ter sido opositor ao concurso para professores provisórios para leccionar no grupo, subgrupo, disciplina ou especialidade relativamente ao qual possui habilitação própria e ter sido colocado, no mesmo grau de ensino, em grupo, subgrupo, disciplina ou especialidade para que possui somente habilitação suficiente.\n\nMinistério da Educação e Ciência, 27 de Julho de 1981. - O Ministro da Educação e Ciência, Vítor Pereira Crespo."
+  },
+  "e90f512d2a96ae6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1983-04-19",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 91/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/91-1983-311664), publicado em 1983-04-19."
+   ],
+   "markdown": "Considerando terem surgido dúvidas na aplicação do disposto no artigo 25.º do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro;\n\nAo abrigo do artigo 40.º do mencionado [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596):\n\nDetermino:\n\n1 - O disposto no n.º 1 do artigo 25.º do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596) é exclusivamente aplicável aos docentes que, encontrando-se colocados, na qualidade de portadores de habilitação suficiente, em grupo, subgrupo, disciplina ou especialidade para que haja carência de professores portadores de habilitação própria, possuam para o mesmo grau de ensino em que se encontram a leccionar habilitação própria para outro grupo, subgrupo, disciplina ou especialidade.\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Despacho Normativo n.º 91/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/91-1983-311664), publicado em 1983-04-19.\n\nMinistério da Educação e Ciência, 27 de Julho de 1981. - O Ministro da Educação e Ciência, Vítor Pereira Crespo."
+  }
+ }
+}

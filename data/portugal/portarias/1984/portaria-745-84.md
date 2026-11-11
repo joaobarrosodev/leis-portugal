@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-02-06'
+version_history:
+  file: portaria-745-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-09-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-02-06'
+    amending: pt:dre:283102:por
+    amending_title: Portaria n.º 82/88
+    changes:
+    - Altera Artigo unidades 11-14
+    - Altera Artigo unidades 16-22
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:12:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 82/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-745-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,29 +148,41 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelo Ministro do Equipamento Social, ao abrigo do artigo 3.º, n.º 3, do [Decreto-Lei n.º 74/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1979-382828), de 4 de Abril, o seguinte:
 
-1.º Na área do concelho de Lisboa, a atribuição de licenças para a exploração da indústria de transporte de aluguer em veículos ligeiros de passageiros obedecerá à seguinte ordem de prioridades.
+1.º Na área do concelho de Lisboa, a atribuição de licenças para a exploração da indústria de transporte de aluguer de veículos ligeiros de passageiros obedecerá à seguinte ordem de prioridades:
 
-a) Motoristas profissionais exercendo a profissão há mais de 1 ano e cooperativas de motoristas profissionais que tenham por objecto a exploração da indústria de transportes de aluguer em veículos ligeiros de passageiros;
+a) Motoristas profissionais de táxi exercendo a profissão há mais de um ano por conta de outrem;
 
-b) Outros concorrentes.
+b) Motoristas profissionais desempregados em consequência da declaração de falência das respectivas empresas ou de despedimentos colectivos, residentes no concelho de Lisboa;
 
-2.º O contingente total de licenças a atribuir será distribuído em partes iguais por cada um dos tipos de concorrentes incluídos na prioridade estabelecida na alínea a) do número anterior.
+c) Motoristas profissionais com salários em atraso, residentes no concelho de Lisboa;
+
+d) Cooperativas de motoristas profissionais cujo objecto seja a exploração da indústria de aluguer de veículos ligeiros de passageiros;
+
+e) Motoristas profissionais exercendo a profissão há mais de um ano;
+
+f) Outros concorrentes.
+
+2.º O contingente total de licenças poderá ser distribuído por dotação a atribuir aos diferentes tipos de concorrentes nos termos que vierem a ser definidos no programa do concurso pela Câmara Municipal de Lisboa.
+
+> Alterado pelo/a [Portaria n.º 82/88](https://diariodarepublica.pt/dr/detalhe/portaria/82-1988-283102), publicado em 1988-02-05.
 
 3.º Quando algum dos tipos de concorrentes não esgotar o número de licenças que lhe couber nos termos do número anterior, as vagas subsistentes serão atribuídas aos restantes tipos de concorrentes dentro do respectivo critério de prioridades.
 
-4.º Para efeitos de ordenação dos concorrentes que sejam motoristas profissionais, observar-se-ão os critérios de prioridades fixados no n.º 6.º, n.º 3, alíneas a) e c), da [Portaria n.º 149/79](https://diariodarepublica.pt/dr/detalhe/portaria/149-1979-382823), de 4 de Abril.
+4.º Para efeitos de ordenação dos concorrentes referidos na alínea a) do n.º 1.º, dar-se-á preferência aos motoristas profissionais de táxi com maior período ininterrupto no exercício da profissão como motorista de táxi.
 
-5.º Dentro de cada uma das ordens de prioridades referidas no número anterior, dar-se-á preferência aos motoristas que:
+Verificando-se igual tempo no exercício da profissão terão prioridade os que residam no concelho de Lisboa há mais tempo.
 
-a) Apresentem maior antiguidade no exercício efectivo da profissão;
+5.º Para efeitos de ordenação dos concorrentes referidos nas alíneas b) e c) do n.º 1.º, dar-se-á preferência àqueles que se encontrem nas respectivas situações há mais tempo.
 
-b) Não tenham sido condenados, por sentença transitada em julgado, por crimes cometidos no exercício da condução de veículos automóveis.
+No caso de se verificar insuficiente este critério de preferência acima indicado, terão prioridade os motoristas com maior período ininterrupto no exercício da profissão e, em caso de igualdade, os que residam no concelho de Lisboa há mais tempo.
 
-6.º Entre as cooperativas concorrentes terão prioridade aquelas cuja sede se localize na área do concelho de Lisboa.
+6.º Para efeitos de ordenação dos concorrentes definidos na alínea d) do n.º 1.º, dar-se-á preferência às cooperativas cuja sede se localize na área do concelho de Lisboa.
 
-7.º Caso não seja decisivo o critério fixado no número anterior, dar-se-á preferência às cooperativas que apresentem menor proporcionalidade entre o contingente de licenças já atribuídas e o número de motoristas profissionais cooperantes.
+7.º No caso de se verificar insuficiente esse critério, terão preferência as cooperativas de motoristas profissionais que não tenham ainda qualquer licença atribuída, considerando dois motoristas por cada licença a atribuir.
 
-8.º Em caso de igual proporcionalidade, a distribuição de licenças far-se-á por rateio entre as cooperativas concorrentes.
+8.º Em caso de igualdade, dar-se-á preferência às cooperativas de motoristas profissionais que se encontrem constituídas há mais tempo.
+
+> Alterado pelo/a [Portaria n.º 82/88](https://diariodarepublica.pt/dr/detalhe/portaria/82-1988-283102), publicado em 1988-02-05.
 
 9.º Para efeitos do número anterior as cooperativas deverão, dentro do prazo de abertura do concurso, apresentar declaração relativa ao número de licenças já concedidas e ao número de motoristas cooperantes nelas associados.
 

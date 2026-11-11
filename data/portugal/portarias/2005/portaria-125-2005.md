@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-02-19'
+version_history:
+  file: portaria-125-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-01-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-02-19'
+    amending: pt:dre:684057:por
+    amending_title: Portaria n.º 130/2006
+    changes:
+    - Altera Artigo unidades 14-27
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/125/2005/01/31/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:03:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 130/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2005/portaria-125-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,30 +157,6 @@ Pelo Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar, Nuno Maria Pi
 
 ## ANEXO — Tabela de taxas do Instituto Portuário e dos Transportes Marítimos
 
-QUADRO N.º 1
+(Revogado.)
 
-Direcção de Segurança Marítima
-
-Inspecção de navios
-
-Pessoal do mar
-
-Náutica de recreio
-
-[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/08180832.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/08180832.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/08180832.pdf)
-
-QUADRO N.º 2
-
-Direcção de Actividades Sectoriais e Relações Internacionais
-
-Marinha do Comércio
-
-[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/08180832.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/08180832.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/08180832.pdf)
-
-QUADRO N.º 3
-
-Direcção de Projecto e Gestão de Obras Portuárias
-
-Operação Portuária e Assuntos Portuários
-
-[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/021b00/08180832.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/08180832.pdf)](https://files.diariodarepublica.pt/1s/2005/01/021b00/08180832.pdf)
+> Alterado pelo/a [Portaria n.º 130/2006](https://diariodarepublica.pt/dr/detalhe/portaria/130-2006-684057), publicado em 2006-02-14.

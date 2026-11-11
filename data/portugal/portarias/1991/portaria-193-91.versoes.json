@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:457437:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-03-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "faa6b414f65b665a"
+   ]
+  },
+  {
+   "date": "1991-03-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:477098:por",
+     "title": "Declaração de Rectificação n.º 54/91",
+     "published": "1991-03-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/54-1991-477098"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-3"
+   ],
+   "fragments": [
+    "7e2848966db962bd"
+   ]
+  }
+ ],
+ "fragments": {
+  "faa6b414f65b665a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Março\n\nNos termos do n.º 8 da Resolução do Conselho de Ministros n.º 354-B/79, de 18 de Dezembro, resolução que se mantém em vigor relativamente a cargos existentes em 1 de Julho de 1979, por força do disposto no n.º 4 do artigo 25.º do [Decreto-Lei n.º 323/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1979-378739), de 26 de Setembro:\n\nManda o Governo, pelos Ministros das Finanças e da Saúde, equiparar o cargo de administrador da Delegação do Porto do Instituto Nacional de Saúde Dr. Ricardo Jorge a director de serviços.\n\nMinistérios das Finanças e da Saúde.\n\nAssinada em 14 de Fevereiro de 1991.\n\nPelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde."
+  },
+  "7e2848966db962bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-03-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 54/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/54-1991-477098), publicado em 1991-03-30."
+   ],
+   "markdown": "de 9 de Março\n\nNos termos do n.º 8 da Resolução do Conselho de Ministros n.º 354-B/79, de 18 de Dezembro, resolução que se mantém em vigor relativamente a cargos existentes em 1 de Julho de 1979, por força do disposto no n.º 4 do artigo 25.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro:\n\n> Alterado pelo/a [Declaração de Rectificação n.º 54/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/54-1991-477098), publicado em 1991-03-30.\n\nManda o Governo, pelos Ministros das Finanças e da Saúde, equiparar o cargo de administrador da Delegação do Porto do Instituto Nacional de Saúde Dr. Ricardo Jorge a director de serviços.\n\nMinistérios das Finanças e da Saúde.\n\nAssinada em 14 de Fevereiro de 1991.\n\nPelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde."
+  }
+ }
+}

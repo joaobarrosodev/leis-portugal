@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:541826:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2004-03-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "641e357637add0f9"
+   ]
+  },
+  {
+   "date": "2010-03-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:610246:por",
+     "title": "Portaria n.º 137/2010",
+     "published": "2010-03-03",
+     "dre_path": "/dr/detalhe/portaria/137-2010-610246"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-12"
+   ],
+   "fragments": [
+    "9fcbcede2a9d699f"
+   ]
+  }
+ ],
+ "fragments": {
+  "641e357637add0f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Março\n\nConsiderando que, para efeitos de fixação das bases do projecto de emparcelamento rural do perímetro de Maiorca, se esgotou o período de reclamação, tendo-se procedido às correcções necessárias resultantes das mesmas, importa proceder à declaração de fixação das bases do referido projecto de emparcelamento.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 11.º do [Decreto-Lei n.º 103/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1990-333336), de 22 de Março:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º São declaradas fixadas as bases do projecto de emparcelamento rural do perímetro de Maiorca, decorrido o período em que foram submetidos à reclamação dos interessados os elementos referidos no n.º 1 do mesmo artigo, e feitas as correcções daí resultantes.\n\n2.º O perímetro referido no número anterior abrange terrenos da freguesia de Maiorca do concelho de Figueira da Foz, assim delimitado:\n\nNorte - caminho de ligação entre a vala da Veia e a estrada nacional n.º 111 e limite da freguesia de Maiorca;\n\nSul - rio Mondego - leito regularizado (troço entre Sanfins e a estação elevatória de Enxugo de Foja), rio Mondego Velho (troço entre a estação elevatória e a ponte da Ereira) e vala da Tabueira, ou dos Malhões (troço entre a estrada Santa Eulália-Ereira e o limite de freguesia de Maiorca);\n\nNascente - limite da freguesia de Maiorca e estrada Santa Eulália-Ereira (troço entre a ponte da Ereira e a vala da Tabueira);\n\nPoente - vala da Veia, vala do Simonte e A 14 (troço entre o morro dos Varinos e o morro de Sanfins).\n\nO Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 26 de Fevereiro de 2004."
+  },
+  "9fcbcede2a9d699f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2010-03-04",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 137/2010](https://diariodarepublica.pt/dr/detalhe/portaria/137-2010-610246), publicado em 2010-03-03."
+   ],
+   "markdown": "de 20 de Março\n\nConsiderando que, para efeitos de fixação das bases do projecto de emparcelamento rural do perímetro de Maiorca, se esgotou o período de reclamação, tendo-se procedido às correcções necessárias resultantes das mesmas, importa proceder à declaração de fixação das bases do referido projecto de emparcelamento.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 11.º do [Decreto-Lei n.º 103/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1990-333336), de 22 de Março:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º São declaradas fixadas as bases do projecto de emparcelamento rural do perímetro de Maiorca, decorrido o período em que foram submetidos à reclamação dos interessados os elementos referidos no n.º 1 do mesmo artigo, e feitas as correcções daí resultantes.\n\n2.º O perímetro do projecto de emparcelamento de Maiorca abrange terrenos das freguesias de Maiorca e de Santana, situadas no concelho da Figueira da Foz, e é assim delimitado:\n\nA Norte inicia-se no ponto de intersecção entre a vala da Veia e o caminho de ligação desta mesma com a Estrada Nacional n.º 111, passando a Sul dos Montes de Santa Olaia e Ferrestelo e seguindo pelo troço antigo da Estrada Nacional n.º 111 até ao limite da freguesia de Santana com a de Montemor-o-Velho. Segue este limite até à intersecção com a vala da Tabueira ou dos Malhões. De seguida inflecte para Sudoeste, acompanhando esta vala até ao cruzamento com a estrada Santa Eulália - Ereira, coincidindo com esta estrada até à Ponte da Ereira. Desenvolve-se para Sudoeste, acompanhando o Rio Mondego Velho até à estação elevatória de enxugo de Foja, após o que segue o leito regularizado do Rio Mondego até ao início do prédio n.º 25592 da carta n.º 5, escala 1:5000 da Direcção-Geral dos Serviços Hidráulicos. Inflecte para Nordeste, acompanhando a vala que se desenvolve ao longo do prédio n.º 25588 da carta 15, escala 1:5000 da Direcção-Geral dos Serviços Hidráulicos, até à intersecção com a A14. Neste troço, o limite coincide com a A14 até ao fim da estrema do prédio n.º 25548 da carta 5, escala 1:5000 da Direcção-Geral dos Serviços Hidráulicos, ponto em que inflecte para Sudeste até ao rio Foja. O limite acompanha o leito do rio até ao início da estrema do prédio 25509 da carta 14, escala 1:5000 da Direcção-Geral dos Serviços Hidráulicos. Flectindo para Noroeste na direcção dos prédios n.os 25541 e 25542 da carta 14, escala 1:5000 da Direcção-Geral dos Serviços Hidráulicos, até encontrar a vala do Simonte, que passa a acompanhar até ao ponto inicial desta descrição.\n\n> Alterado pelo/a [Portaria n.º 137/2010](https://diariodarepublica.pt/dr/detalhe/portaria/137-2010-610246), publicado em 2010-03-03.\n\nO Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 26 de Fevereiro de 2004."
+  }
+ }
+}

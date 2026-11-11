@@ -29,10 +29,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-09-18'
+version_history:
+  file: portaria-654-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-09-18'
+    amending: pt:dre:221984:por
+    amending_title: Portaria n.º 523/86
+    changes:
+    - Altera Artigo unidades 15-15
+    - Altera Artigo unidades 20-20
+    - Adita Artigo depois da unidade 30
+    - Altera Artigo unidades 31-31
+    - Adita Artigo depois da unidade 58
+    - Altera Artigo unidades 60-61
 identifiers:
   celex: null
   eli: null
@@ -58,7 +77,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:21:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 523/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-654-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,7 +158,9 @@ O curso de licenciatura em Psicologia da Faculdade de Psicologia e de Ciências 
 
 (Ramos)
 
-1 - O curso desdobra-se nos ramos de:
+O curso desdobra-se nos ramos de:
+
+> Alterado pelo/a [Portaria n.º 523/86](https://diariodarepublica.pt/dr/detalhe/portaria/523-1986-221984), publicado em 1986-09-13.
 
 a) Orientação Escolar e Profissional;
 
@@ -148,7 +170,7 @@ c) Psicoterapia e Aconselhamento;
 
 d) Psicologia Social.
 
-2 - O plano de estudos e a data de início de funcionamento do ramo de Psicologia Social serão fixados por portaria do Ministro da Educação e das Universidades, sob proposta do conselho científico, verificadas as condições científicas e materiais para tal necessárias.
+> Alterado pelo/a [Portaria n.º 523/86](https://diariodarepublica.pt/dr/detalhe/portaria/523-1986-221984), publicado em 1986-09-13.
 
 3.º
 
@@ -170,7 +192,13 @@ c) Biologia;
 
 d) Ciências Sociais;
 
-e) Matemática e Estatística.
+e) Ciências da Educação;
+
+> Aditado pelo/a [Portaria n.º 523/86](https://diariodarepublica.pt/dr/detalhe/portaria/523-1986-221984), publicado em 1986-09-13.
+
+f) Matemática e Estatística.
+
+> Alterado pelo/a [Portaria n.º 523/86](https://diariodarepublica.pt/dr/detalhe/portaria/523-1986-221984), publicado em 1986-09-13.
 
 2 - São áreas científicas obrigatórias específicas de cada ramo:
 
@@ -226,11 +254,17 @@ Biologia ... 6
 
 Ciências Sociais ... 3
 
+Ciências da Educação ... 2
+
+> Aditado pelo/a [Portaria n.º 523/86](https://diariodarepublica.pt/dr/detalhe/portaria/523-1986-221984), publicado em 1986-09-13.
+
 Matemática e Estatística ... 15
 
-Área científica específica de cada ramo ... 21
+Área científica de cada ramo ... 21
 
-Áreas científicas optativas ... 14
+Áreas científicas optativas ... 12
+
+> Alterado pelo/a [Portaria n.º 523/86](https://diariodarepublica.pt/dr/detalhe/portaria/523-1986-221984), publicado em 1986-09-13.
 
 Estágio ... 10
 

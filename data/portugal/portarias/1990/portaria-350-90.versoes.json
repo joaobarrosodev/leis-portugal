@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:571229:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1990-05-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f7277e3159cbc693"
+   ]
+  },
+  {
+   "date": "1999-08-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:344946:por",
+     "title": "Portaria n.º 588/99",
+     "published": "1999-08-02",
+     "dre_path": "/dr/detalhe/portaria/588-1999-344946"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 17-17"
+   ],
+   "fragments": [
+    "44f82e773b2f266b"
+   ]
+  }
+ ],
+ "fragments": {
+  "f7277e3159cbc693": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Maio\n\nPela [Portaria n.º 855/89](https://diariodarepublica.pt/dr/detalhe/portaria/855-1989-548450), de 29 de Setembro, foram sujeitas ao regime cinegético especial as propriedades denominadas «Herdade dos Colgadeiros», «Almoinha Velha», «Courela do Carapuço», «Rocha da Galega», «Almarginho», «Herdade da Ordem», «Figueirinha» e outras, situadas na freguesia de Espírito Santo, concelho de Mértola, perfazendo uma área de 3391,0100 ha, e concessionada à TECNOCAÇA, Criação e Gestão dos Recursos Cinegéticos, Lda., a exploração de uma zona de caça turística (processo n.º 134 da Direcção-Geral das Florestas).\n\nPor não ter sido possível à TECNOCAÇA, Criação e Gestão dos Recursos Cinegéticos, Lda., chegar a acordo com os proprietários dos prédios rústicos:\n\nN.º 17, secção J2, com a área de 11,3000 ha;\n\nN.º 115, secção B1, com a área de 1,1500 ha;\n\nN.º 117, secção B1, com a área de 2,1750 ha;\n\nN.º 40, secção H, com a área de 0,5625 ha;\n\nN.º 52, secção J, com a área de 6,2875 ha;\n\nN.º 55, secção J, com a área de 11,8250 ha;\n\nN.º 23, secção J2, com a área de 8,3250 ha,\n\nque se encontram no interior da zona concessionada, requereu a mesma, ao abrigo do disposto no artigo 28.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, a agregação daqueles prédios à zona de caça associativa, por impossibilidade de dar cumprimento ao determinado no artigo 21.º da mesma lei.\n\nVerificando-se que os prédios rústicos em causa estão nas condições definidas nos n.os 1 e 2 do artigo 28.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134) de 27 de Agosto:\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:\n\n1.º É rectificada a [Portaria n.º 855/89](https://diariodarepublica.pt/dr/detalhe/portaria/855-1989-548450), de 29 de Setembro, com a anexação dos prédios rústicos acima referidos, que somam uma área de 41,6250 ha, que ficam sujeitos ao regime cinegético especial.\n\n2.º É rectificada a área desta concessão, que passa a ser de 3432,6350 ha.\n\n3.º Esta área, até 31 de Maio de 2001, é concessionada à TECNOCAÇA, Criação e Gestão dos Recursos Cinegéticos, Lda.\n\n4.º A planta anexa à [Portaria n.º 855/89](https://diariodarepublica.pt/dr/detalhe/portaria/855-1989-548450), de 29 de Setembro, é substituída pela planta anexa a este diploma.\n\nMinistério da Agricultura, Pescas e Alimentação.\n\nAssinada em 18 de Abril de 1990.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/10500/21322133.pdf)"
+  },
+  "44f82e773b2f266b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1999-08-07",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 588/99](https://diariodarepublica.pt/dr/detalhe/portaria/588-1999-344946), publicado em 1999-08-02."
+   ],
+   "markdown": "de 8 de Maio\n\nPela [Portaria n.º 855/89](https://diariodarepublica.pt/dr/detalhe/portaria/855-1989-548450), de 29 de Setembro, foram sujeitas ao regime cinegético especial as propriedades denominadas «Herdade dos Colgadeiros», «Almoinha Velha», «Courela do Carapuço», «Rocha da Galega», «Almarginho», «Herdade da Ordem», «Figueirinha» e outras, situadas na freguesia de Espírito Santo, concelho de Mértola, perfazendo uma área de 3391,0100 ha, e concessionada à TECNOCAÇA, Criação e Gestão dos Recursos Cinegéticos, Lda., a exploração de uma zona de caça turística (processo n.º 134 da Direcção-Geral das Florestas).\n\nPor não ter sido possível à TECNOCAÇA, Criação e Gestão dos Recursos Cinegéticos, Lda., chegar a acordo com os proprietários dos prédios rústicos:\n\nN.º 17, secção J2, com a área de 11,3000 ha;\n\nN.º 115, secção B1, com a área de 1,1500 ha;\n\nN.º 117, secção B1, com a área de 2,1750 ha;\n\nN.º 40, secção H, com a área de 0,5625 ha;\n\nN.º 52, secção J, com a área de 6,2875 ha;\n\nN.º 55, secção J, com a área de 11,8250 ha;\n\nN.º 23, secção J2, com a área de 8,3250 ha,\n\nque se encontram no interior da zona concessionada, requereu a mesma, ao abrigo do disposto no artigo 28.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, a agregação daqueles prédios à zona de caça associativa, por impossibilidade de dar cumprimento ao determinado no artigo 21.º da mesma lei.\n\nVerificando-se que os prédios rústicos em causa estão nas condições definidas nos n.os 1 e 2 do artigo 28.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134) de 27 de Agosto:\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:\n\n1.º É rectificada a [Portaria n.º 855/89](https://diariodarepublica.pt/dr/detalhe/portaria/855-1989-548450), de 29 de Setembro, com a anexação dos prédios rústicos acima referidos, que somam uma área de 41,6250 ha, que ficam sujeitos ao regime cinegético especial.\n\n2.º É rectificada a área desta concessão, que passa a ser de 3432,6350 ha.\n\n3.º Esta área, 29 de Setembro de 1996, é concessionada à TECNOCAÇA, Criação e Gestão dos Recursos Cinegéticos, Lda.\n\n> Alterado pelo/a [Portaria n.º 588/99](https://diariodarepublica.pt/dr/detalhe/portaria/588-1999-344946), publicado em 1999-08-02.\n\n4.º A planta anexa à [Portaria n.º 855/89](https://diariodarepublica.pt/dr/detalhe/portaria/855-1989-548450), de 29 de Setembro, é substituída pela planta anexa a este diploma.\n\nMinistério da Agricultura, Pescas e Alimentação.\n\nAssinada em 18 de Abril de 1990.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/10500/21322133.pdf)"
+  }
+ }
+}

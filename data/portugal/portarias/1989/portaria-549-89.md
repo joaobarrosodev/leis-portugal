@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-08-13'
+version_history:
+  file: portaria-549-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-07-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-08-13'
+    amending: pt:dre:573477:por
+    amending_title: Portaria n.º 639/90
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:55:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 639/90. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-549-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,7 +143,9 @@ Manda o Governo, pelo Ministro das Finanças, nos termos do artigo 4.º do [Decr
 
 2.º Para cumprimento do disposto no número anterior, o montante da dedução a efectuar será o resultante da aplicação a todas as remunerações sujeitas a IRS e relevantes para o cálculo da pensão da expressão (V + Ra) - IRSa, em que V corresponde à remuneração base, Ra é a média das demais remunerações auferidas nos últimos dois anos e IRSa corresponde ao imposto sobre o rendimento das pessoas singulares relativamente à remuneração base e remunerações acessórias projectadas anualmente, considerando-se para o efeito o modelo respeitante à situação de não casado, sem filhos - com deduções mínimas.
 
-3.º Depois de calculado o valor da pensão, nos termos da fórmula consagrada no Estatuto da Aposentação ou na legislação aplicável a cada caso, será aquele valor acrescido da compensação adequada, de acordo com o anexo II ao [Decreto-Lei n.º 487/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1988-401883), de 30 de Dezembro, constituindo o somatório obtido o montante da pensão.
+3.º Depois de aplicada a fórmula de cálculo consagrada no Estatuto da Aposentação ou na legislação aplicável a cada caso, será o valor resultante ajustado de forma que a pensão mantenha o valor líquido de IRS - categoria H -, considerando-se para o efeito o modelo referido na parte final do número anterior.
+
+> Alterado pelo/a [Portaria n.º 639/90](https://diariodarepublica.pt/dr/detalhe/portaria/639-1990-573477), publicado em 1990-08-08.
 
 Ministério das Finanças.
 

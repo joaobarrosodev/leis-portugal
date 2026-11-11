@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-12-27'
+version_history:
+  file: despacho-normativo-40-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-09-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-12-27'
+    amending: pt:dre:660494:por
+    amending_title: Despacho Normativo n.º 48/2000
+    changes:
+    - Altera Artigo unidades 45-45
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/40/2000/09/06/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:37:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 48/2000. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2000/despacho-normativo-40-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -200,7 +215,9 @@ Os apoios a conceder correspondem a uma comparticipação do Estado de 60% do in
 
 Apresentação das candidaturas e decisão
 
-1 - As candidaturas serão entregues na DGPA até 30 de Setembro, sendo objecto de decisão até 31 de Outubro do ano a que respeitam.
+1 - As candidaturas entregues na DGPA até 30 de Setembro serão objecto de decisão até 31 de Outubro e as entregues até 15 de Dezembro serão decididas até 31 de Dezembro do ano a que respeitam.
+
+> Alterado pelo/a [Despacho Normativo n.º 48/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/48-2000-660494), publicado em 2000-12-22.
 
 2 - A decisão sobre as candidaturas é da competência do membro do Governo responsável pelo sector das pescas.
 

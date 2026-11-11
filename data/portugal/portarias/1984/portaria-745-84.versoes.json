@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:399623:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-09-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e9637546bf1c8e51"
+   ]
+  },
+  {
+   "date": "1988-02-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:283102:por",
+     "title": "Portaria n.º 82/88",
+     "published": "1988-02-05",
+     "dre_path": "/dr/detalhe/portaria/82-1988-283102"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 11-14",
+    "Altera Artigo unidades 16-22"
+   ],
+   "fragments": [
+    "00dd0342b441c64a"
+   ]
+  }
+ ],
+ "fragments": {
+  "e9637546bf1c8e51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Setembro\n\nPelo [Decreto-Lei n.º 74/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1979-382828), de 4 de Abril, e pela [Portaria n.º 149/79](https://diariodarepublica.pt/dr/detalhe/portaria/149-1979-382823), da mesma data, procedeu-se à reformulação e sistematização das várias disposições legais reguladoras da atribuição de licenças de exploração da indústria de transportes de aluguer em veículos ligeiros de passageiros.\n\nO primeiro daqueles diplomas, no n.º 3 do seu artigo 3.º, prevê a possibilidade de adaptação do critério de atribuição das referidas licenças nas capitais de distrito e nos centros urbanos de mercado desenvolvimento económico, sob proposta fundamentada da câmara municipal respectiva e parecer favorável do sindicato de motoristas da área ou vice-versa.\n\nAo abrigo da citada disposição, para vigorar na área do concelho de Lisboa foi apresentada por 2 organizações sindicais representativas de motoristas profissionais uma proposta de alteração do critério de atribuição de licenças, a qual veio a merecer parecer favorável da Câmara Municipal de Lisboa.\n\nFundamentalmente, tal proposta traduz a preocupação de fomento do cooperativismo no sector (sem prejuízo de outras formas de exploração) e uma maior valoração dos antecedentes profissionais dos motoristas como critérios de prioridade.\n\nTais propostas, pelo que representam de aperfeiçoamento dos critérios estabelecidos e adaptação à situação específica da área de Lisboa, merecem consagração legal.\n\nA primeira, na medida em que procura dar expressão concreta ao artigo 84.º da Constituição, numa actividade que parece vocacionada para acolher prometedoras experiências no domínio do cooperativismo, pelo grau de intervenção que proporciona aos associados. A segunda por simultaneamente representar a valorização do desempenho profissional e constituir estímulo a uma boa conduta social e profissional.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelo Ministro do Equipamento Social, ao abrigo do artigo 3.º, n.º 3, do [Decreto-Lei n.º 74/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1979-382828), de 4 de Abril, o seguinte:\n\n1.º Na área do concelho de Lisboa, a atribuição de licenças para a exploração da indústria de transporte de aluguer em veículos ligeiros de passageiros obedecerá à seguinte ordem de prioridades.\n\na) Motoristas profissionais exercendo a profissão há mais de 1 ano e cooperativas de motoristas profissionais que tenham por objecto a exploração da indústria de transportes de aluguer em veículos ligeiros de passageiros;\n\nb) Outros concorrentes.\n\n2.º O contingente total de licenças a atribuir será distribuído em partes iguais por cada um dos tipos de concorrentes incluídos na prioridade estabelecida na alínea a) do número anterior.\n\n3.º Quando algum dos tipos de concorrentes não esgotar o número de licenças que lhe couber nos termos do número anterior, as vagas subsistentes serão atribuídas aos restantes tipos de concorrentes dentro do respectivo critério de prioridades.\n\n4.º Para efeitos de ordenação dos concorrentes que sejam motoristas profissionais, observar-se-ão os critérios de prioridades fixados no n.º 6.º, n.º 3, alíneas a) e c), da [Portaria n.º 149/79](https://diariodarepublica.pt/dr/detalhe/portaria/149-1979-382823), de 4 de Abril.\n\n5.º Dentro de cada uma das ordens de prioridades referidas no número anterior, dar-se-á preferência aos motoristas que:\n\na) Apresentem maior antiguidade no exercício efectivo da profissão;\n\nb) Não tenham sido condenados, por sentença transitada em julgado, por crimes cometidos no exercício da condução de veículos automóveis.\n\n6.º Entre as cooperativas concorrentes terão prioridade aquelas cuja sede se localize na área do concelho de Lisboa.\n\n7.º Caso não seja decisivo o critério fixado no número anterior, dar-se-á preferência às cooperativas que apresentem menor proporcionalidade entre o contingente de licenças já atribuídas e o número de motoristas profissionais cooperantes.\n\n8.º Em caso de igual proporcionalidade, a distribuição de licenças far-se-á por rateio entre as cooperativas concorrentes.\n\n9.º Para efeitos do número anterior as cooperativas deverão, dentro do prazo de abertura do concurso, apresentar declaração relativa ao número de licenças já concedidas e ao número de motoristas cooperantes nelas associados.\n\nMinistério do Equipamento Social.\n\nAssinada em 3 de Agosto de 1984.\n\nO Ministro do Equipamento Social, João Rosado Correia."
+  },
+  "00dd0342b441c64a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1988-02-06",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 82/88](https://diariodarepublica.pt/dr/detalhe/portaria/82-1988-283102), publicado em 1988-02-05.",
+    "Alterado pelo/a [Portaria n.º 82/88](https://diariodarepublica.pt/dr/detalhe/portaria/82-1988-283102), publicado em 1988-02-05."
+   ],
+   "markdown": "de 22 de Setembro\n\nPelo [Decreto-Lei n.º 74/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1979-382828), de 4 de Abril, e pela [Portaria n.º 149/79](https://diariodarepublica.pt/dr/detalhe/portaria/149-1979-382823), da mesma data, procedeu-se à reformulação e sistematização das várias disposições legais reguladoras da atribuição de licenças de exploração da indústria de transportes de aluguer em veículos ligeiros de passageiros.\n\nO primeiro daqueles diplomas, no n.º 3 do seu artigo 3.º, prevê a possibilidade de adaptação do critério de atribuição das referidas licenças nas capitais de distrito e nos centros urbanos de mercado desenvolvimento económico, sob proposta fundamentada da câmara municipal respectiva e parecer favorável do sindicato de motoristas da área ou vice-versa.\n\nAo abrigo da citada disposição, para vigorar na área do concelho de Lisboa foi apresentada por 2 organizações sindicais representativas de motoristas profissionais uma proposta de alteração do critério de atribuição de licenças, a qual veio a merecer parecer favorável da Câmara Municipal de Lisboa.\n\nFundamentalmente, tal proposta traduz a preocupação de fomento do cooperativismo no sector (sem prejuízo de outras formas de exploração) e uma maior valoração dos antecedentes profissionais dos motoristas como critérios de prioridade.\n\nTais propostas, pelo que representam de aperfeiçoamento dos critérios estabelecidos e adaptação à situação específica da área de Lisboa, merecem consagração legal.\n\nA primeira, na medida em que procura dar expressão concreta ao artigo 84.º da Constituição, numa actividade que parece vocacionada para acolher prometedoras experiências no domínio do cooperativismo, pelo grau de intervenção que proporciona aos associados. A segunda por simultaneamente representar a valorização do desempenho profissional e constituir estímulo a uma boa conduta social e profissional.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelo Ministro do Equipamento Social, ao abrigo do artigo 3.º, n.º 3, do [Decreto-Lei n.º 74/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1979-382828), de 4 de Abril, o seguinte:\n\n1.º Na área do concelho de Lisboa, a atribuição de licenças para a exploração da indústria de transporte de aluguer de veículos ligeiros de passageiros obedecerá à seguinte ordem de prioridades:\n\na) Motoristas profissionais de táxi exercendo a profissão há mais de um ano por conta de outrem;\n\nb) Motoristas profissionais desempregados em consequência da declaração de falência das respectivas empresas ou de despedimentos colectivos, residentes no concelho de Lisboa;\n\nc) Motoristas profissionais com salários em atraso, residentes no concelho de Lisboa;\n\nd) Cooperativas de motoristas profissionais cujo objecto seja a exploração da indústria de aluguer de veículos ligeiros de passageiros;\n\ne) Motoristas profissionais exercendo a profissão há mais de um ano;\n\nf) Outros concorrentes.\n\n2.º O contingente total de licenças poderá ser distribuído por dotação a atribuir aos diferentes tipos de concorrentes nos termos que vierem a ser definidos no programa do concurso pela Câmara Municipal de Lisboa.\n\n> Alterado pelo/a [Portaria n.º 82/88](https://diariodarepublica.pt/dr/detalhe/portaria/82-1988-283102), publicado em 1988-02-05.\n\n3.º Quando algum dos tipos de concorrentes não esgotar o número de licenças que lhe couber nos termos do número anterior, as vagas subsistentes serão atribuídas aos restantes tipos de concorrentes dentro do respectivo critério de prioridades.\n\n4.º Para efeitos de ordenação dos concorrentes referidos na alínea a) do n.º 1.º, dar-se-á preferência aos motoristas profissionais de táxi com maior período ininterrupto no exercício da profissão como motorista de táxi.\n\nVerificando-se igual tempo no exercício da profissão terão prioridade os que residam no concelho de Lisboa há mais tempo.\n\n5.º Para efeitos de ordenação dos concorrentes referidos nas alíneas b) e c) do n.º 1.º, dar-se-á preferência àqueles que se encontrem nas respectivas situações há mais tempo.\n\nNo caso de se verificar insuficiente este critério de preferência acima indicado, terão prioridade os motoristas com maior período ininterrupto no exercício da profissão e, em caso de igualdade, os que residam no concelho de Lisboa há mais tempo.\n\n6.º Para efeitos de ordenação dos concorrentes definidos na alínea d) do n.º 1.º, dar-se-á preferência às cooperativas cuja sede se localize na área do concelho de Lisboa.\n\n7.º No caso de se verificar insuficiente esse critério, terão preferência as cooperativas de motoristas profissionais que não tenham ainda qualquer licença atribuída, considerando dois motoristas por cada licença a atribuir.\n\n8.º Em caso de igualdade, dar-se-á preferência às cooperativas de motoristas profissionais que se encontrem constituídas há mais tempo.\n\n> Alterado pelo/a [Portaria n.º 82/88](https://diariodarepublica.pt/dr/detalhe/portaria/82-1988-283102), publicado em 1988-02-05.\n\n9.º Para efeitos do número anterior as cooperativas deverão, dentro do prazo de abertura do concurso, apresentar declaração relativa ao número de licenças já concedidas e ao número de motoristas cooperantes nelas associados.\n\nMinistério do Equipamento Social.\n\nAssinada em 3 de Agosto de 1984.\n\nO Ministro do Equipamento Social, João Rosado Correia."
+  }
+ }
+}

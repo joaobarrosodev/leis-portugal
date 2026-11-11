@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:450376:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "144ee2248707ff47",
+    "0f7d1543ae418de3",
+    "20b70b0eb5c097cd"
+   ]
+  },
+  {
+   "date": "1996-11-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178543:por",
+     "title": "Portaria n.º 629/96",
+     "published": "1996-11-05",
+     "dre_path": "/dr/detalhe/portaria/629-1996-178543"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "ce946de82d732ae4",
+    "0f7d1543ae418de3",
+    "20b70b0eb5c097cd"
+   ]
+  }
+ ],
+ "fragments": {
+  "144ee2248707ff47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Dezembro\n\nConsiderando a necessidade de dispor de um meio de identificação para o pessoal dos gabinetes dos membros do Governo integrados no Ministério da Cultura e, bem assim, para o pessoal dos serviços dependentes do Ministério que não possuem meios próprios de identificação:\n\nManda o Governo, pelo Ministro da Cultura, ao abrigo do disposto na alínea d) do artigo 202.º da Constituição, o seguinte:\n\n1.º Aprovar os modelos, constantes dos anexos I e II a esta portaria, de cartões de identidade para uso do pessoal dos gabinetes dos membros do Governo que integram o Ministério da Cultura e do pessoal dos organismos e serviços dependentes do Ministério que não disponham de modelos próprios.\n\n2.º Os cartões de identidade terão a menção do gabinete ou outra entidade a que respeitam, sendo a sua numeração privativa de cada serviço.\n\n3.º Os cartões destinados ao pessoal dos gabinetes constantes do n.º 1.º, bem como ao pessoal dirigente por ele abrangido, terão na parte inferior esquerda a menção «Livre trânsito», a vermelho.\n\n4.º O cartão com a menção «Livre trânsito» confere ao seu titular a faculdade de livre circulação em instalações dos serviços e organismos dependentes ou tutelados pelo Ministério da Cultura e o direito de acesso aos recintos de espectáculos e similares.\n\n5.º Os cartões serão autenticados com a assinatura do membro do Governo de que depende o portador do cartão, ou do director-geral do Ministério, e com a aposição do selo branco, que marcará o canto inferior esquerdo da fotografia.\n\n6.º Os cartões de identidade serão válidos pelo período correspondente ao exercício das funções que os mesmos comprovam, devendo ser devolvidos pelos seus titulares logo que se verifique alteração da sua situação funcional para adequada substituição ou simples recolha.\n\n7.º Será passada uma 2.ª via em caso de extravio, destruição ou deterioração, de que se fará referência expressa no cartão, mantendo, no entanto, o mesmo número.\n\nMinistério da Cultura.\n\nAssinada em 17 de Novembro de 1995.\n\nO Ministro da Cultura, Manuel Maria Ferreira Carrilho."
+  },
+  "0f7d1543ae418de3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Modelo de cartão de identidade: pessoal dos gabinetes e pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Modelo de cartão de identidade: pessoal dos gabinetes e pessoal dirigente\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/300b00/82888289.pdf)"
+  },
+  "20b70b0eb5c097cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Modelo de cartão de identidade: restante pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Modelo de cartão de identidade: restante pessoal\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/300b00/82888289.pdf)"
+  },
+  "ce946de82d732ae4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1996-11-10",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 629/96](https://diariodarepublica.pt/dr/detalhe/portaria/629-1996-178543), publicado em 1996-11-05."
+   ],
+   "markdown": "de 30 de Dezembro\n\nConsiderando a necessidade de dispor de um meio de identificação para o pessoal dos gabinetes dos membros do Governo integrados no Ministério da Cultura e, bem assim, para o pessoal dos serviços dependentes do Ministério que não possuem meios próprios de identificação:\n\nManda o Governo, pelo Ministro da Cultura, ao abrigo do disposto na alínea d) do artigo 202.º da Constituição, o seguinte:\n\n1.º Aprovar os modelos, constantes dos anexos I e II a esta portaria, de cartões de identidade para uso do pessoal dos gabinetes dos membros do Governo que integram o Ministério da Cultura e do pessoal dos organismos e serviços dependentes do Ministério que não disponham de modelos próprios.\n\n2.º Os cartões de identidade terão a menção do gabinete ou outra entidade a que respeitam, sendo a sua numeração privativa de cada serviço.\n\n3.º Os cartões de identidade serão de cor branca, com uma faixa diagonal, com as cores verde e vermelha no canto superior esquerdo, mas os destinados ao pessoal dos gabinetes constantes do n.º 1, bem como ao pessoal dirigente por ele abrangido, terão na parte inferior esquerda a menção 'Livre trânsito', a vermelho.\n\n> Alterado pelo/a [Portaria n.º 629/96](https://diariodarepublica.pt/dr/detalhe/portaria/629-1996-178543), publicado em 1996-11-05.\n\n4.º O cartão com a menção «Livre trânsito» confere ao seu titular a faculdade de livre circulação em instalações dos serviços e organismos dependentes ou tutelados pelo Ministério da Cultura e o direito de acesso aos recintos de espectáculos e similares.\n\n5.º Os cartões serão autenticados com a assinatura do membro do Governo de que depende o portador do cartão, ou do director-geral do Ministério, e com a aposição do selo branco, que marcará o canto inferior esquerdo da fotografia.\n\n6.º Os cartões de identidade serão válidos pelo período correspondente ao exercício das funções que os mesmos comprovam, devendo ser devolvidos pelos seus titulares logo que se verifique alteração da sua situação funcional para adequada substituição ou simples recolha.\n\n7.º Será passada uma 2.ª via em caso de extravio, destruição ou deterioração, de que se fará referência expressa no cartão, mantendo, no entanto, o mesmo número.\n\nMinistério da Cultura.\n\nAssinada em 17 de Novembro de 1995.\n\nO Ministro da Cultura, Manuel Maria Ferreira Carrilho."
+  }
+ }
+}

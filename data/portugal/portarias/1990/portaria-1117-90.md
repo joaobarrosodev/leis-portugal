@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-10-17'
+version_history:
+  file: portaria-1117-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-11-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-10-17'
+    amending: pt:dre:225993:por
+    amending_title: Portaria n.º 969/92
+    changes:
+    - Adita Artigo depois da unidade 8
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:09:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 969/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-1117-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,6 +165,16 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 Objectivo
 
 A presente portaria visa alterar a regulamentação do curso de bacharelato em Gestão ministrado pela Escola Superior de Gestão, Hotelaria e Turismo do Instituto Politécnico de Faro e criado pela [Portaria n.º 317-H/86](https://diariodarepublica.pt/dr/detalhe/portaria/317-h-1986-621750), de 24 de Junho, alterada pela [Portaria n.º 430/89](https://diariodarepublica.pt/dr/detalhe/portaria/430-1989-620349), de 12 de Junho.
+
+1.º-A
+
+Curso de Gestão
+
+1 - O curso de Gestão poderá ser ministrado em Faro e em Portimão.
+
+2 - À transferência de alunos entre as duas localidades onde a Escola Superior de Gestão, Hotelaria e Turismo de Faro poderá ministrar o curso aplicam-se, com as necessárias adaptações, as regras do regime de transferência.
+
+> Aditado pelo/a [Portaria n.º 969/92](https://diariodarepublica.pt/dr/detalhe/portaria/969-1992-225993), publicado em 1992-10-12.
 
 2.º
 

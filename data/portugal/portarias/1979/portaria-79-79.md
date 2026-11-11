@@ -30,10 +30,24 @@ notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-03-31'
+version_history:
+  file: portaria-79-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-02-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-03-31'
+    amending: pt:dre:677625:por
+    amending_title: Portaria n.º 146/80
+    changes:
+    - Altera Artigo unidades 15-15
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:07:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 146/80. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1979/portaria-79-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,7 +142,9 @@ a) Actualização do conhecimento das existências de suínos a nível nacional;
 
 b) Registo obrigatório das explorações suínas, sem qualquer limitação quanto ao número de animais;
 
-c) Declaração periódica, em Janeiro e Julho, do número de animais existentes nas explorações registadas;
+c) Declaração periódica, em Abril e Dezembro, do número de animais existentes nas explorações registadas.
+
+> Alterado pelo/a [Portaria n.º 146/80](https://diariodarepublica.pt/dr/detalhe/portaria/146-1980-677625), publicado em 1980-03-31.
 
 d) Licenciamento das explorações suínas de tipo industrial, com defesa sanitária;
 

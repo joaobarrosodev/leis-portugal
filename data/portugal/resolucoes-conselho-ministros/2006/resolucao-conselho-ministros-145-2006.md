@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-02-12'
+version_history:
+  file: resolucao-conselho-ministros-145-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-02-12'
+    amending: pt:dre:518189:por
+    amending_title: Resolução do Conselho de Ministros n.º 18/2007
+    changes:
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 26-26
+    - Adita Artigo depois da unidade 28
+    - Altera Artigo unidades 29-30
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/145/2006/10/31/p/dre/pt/html
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:52:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 18/2007. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2006/resolucao-conselho-ministros-145-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,7 +170,9 @@ c) Estabelecer propostas de uso e ocupação do solo que promovam a necessária 
 
 d) Determinar, atendendo aos valores em causa, os estatutos de protecção adequados às diferentes áreas, bem como definir as respectivas prioridades de intervenção.
 
-2 - Estabelecer que o âmbito territorial do plano de ordenamento da Paisagem Protegida da Arriba Fóssil da Costa da Caparica é o constante do mapa anexo ao [Decreto-Lei n.º 168/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1984-383996), de 22 de Maio, conforme referido no n.º 1 do artigo 2.º desse mesmo decreto-lei, abrangendo unicamente áreas pertencentes ao município de Almada.
+2 - Estabelecer que o âmbito territorial do plano de ordenamento da Paisagem Protegida da Arriba Fóssil da Costa da Caparica é o constante do mapa anexo ao [Decreto-Lei n.º 168/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1984-383996), de 22 de Maio, conforme referido no n.º 1 do artigo 2.º desse mesmo decreto-lei, abrangendo parte dos municípios de Almada e Sesimbra.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 18/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2007-518189), publicado em 2007-02-07.
 
 3 - Incumbir o Instituto da Conservação da Natureza de elaborar o plano de ordenamento da Paisagem Protegida da Arriba Fóssil da Costa da Caparica.
 
@@ -176,15 +196,23 @@ h) Um representante da Direcção-Geral da Saúde;
 
 i) Um representante da Capitania do Porto de Lisboa;
 
-j) Um representante da Capitania do Porto de Sesimbra;
+j) Um representante da Capitania do Porto de Setúbal;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 18/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2007-518189), publicado em 2007-02-07.
 
 l) Um representante do Instituto Português de Arqueologia;
 
 m) Um representante da Câmara Municipal de Almada;
 
-n) Um representante do Ministério das Obras Públicas, Transportes e Comunicações;
+n) Um representante da Câmara Municipal de Sesimbra;
 
-o) Um representante das organizações não governamentais de ambiente, a designar pela Confederação Portuguesa das Associações de Defesa do Ambiente.
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 18/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2007-518189), publicado em 2007-02-07.
+
+o) Um representante do Ministério das Obras Públicas, Transportes e Comunicações;
+
+p) Um representante das organizações não governamentais de ambiente, a designar pela Confederação Portuguesa das Associações de Defesa do Ambiente.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 18/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2007-518189), publicado em 2007-02-07.
 
 5 - Fixar em 20 dias o prazo a que se refere o n.º 2 do artigo 48.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, para formulação de sugestões e apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração do presente plano de ordenamento.
 

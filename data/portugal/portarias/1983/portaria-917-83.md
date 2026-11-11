@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-10-17'
+version_history:
+  file: portaria-917-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-10-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-10-17'
+    amending: pt:dre:178358:por
+    amending_title: Portaria n.º 768/85
+    changes:
+    - Altera Artigo unidades 7-23
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:54:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 768/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-917-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,39 +146,49 @@ Manda o Governo da República Portuguesa, pelos Ministros dos Negócios Estrange
 
 1.º É aprovado o quadro do pessoal da Missão de Portugal junto das Comunidades Europeias, criada por despacho ministerial de 14 de Maio de 1962 da Presidência do Conselho de Ministros, com a seguinte composição:
 
-1) Chefe da Missão - o embaixador de Portugal;
+1) Chefe da Missão, 1 funcionário do quadro do pessoal do serviço diplomático com a categoria de embaixador;
 
-2) Chefe-adjunto da Missão - funcionário do quadro do pessoal do serviço diplomático com a categoria de ministro plenipotenciário de 1.ª classe ou de 2.ª classe;
+2) Chefe adjunto da Missão, 1 funcionário do quadro do pessoal do serviço diplomático com a categoria de ministro plenipotenciário de 1.ª classe ou de 2.ª classe;
 
-3) Membros da Missão:
+3) Pessoal diplomático:
 
-a) 3 funcionários do quadro do pessoal do serviço diplomático de qualquer categoria;
+15 funcionários do quadro do pessoal do serviço diplomático de qualquer categoria;
 
-b) 1 conselheiro técnico principal;
+4) Pessoal especializado:
 
-c) 4 conselheiros técnicos;
+25 funcionários do quadro do pessoal especializado com a categoria de conselheiro técnico principal, conselheiro ou adido técnico;
 
-d) 2 adidos técnicos;
+5) Pessoal administrativo:
 
-4) Pessoal assalariado:
+2 funcionários do quadro do pessoal administrativo;
 
-1 chanceler;
+6) Pessoal assalariado:
 
-1 arquivista;
+3 chanceleres;
 
-2 secretários-tradutores;
+3 arquivistas;
+
+11 assistentes tradutores;
 
 3 secretários de 1.ª classe;
 
 2 secretários de 2.ª classe;
 
-1 escriturário-dactilógrafo;
+2 escriturários-dactilógrafos;
 
-1 motorista;
+3 telefonistas;
 
-1 contínuo;
+3 motoristas;
 
-2 auxiliares de serviço.
+1 porteiro;
+
+3 contínuos;
+
+3 guardas;
+
+3 auxiliares de serviço.
+
+> Alterado pelo/a [Portaria n.º 768/85](https://diariodarepublica.pt/dr/detalhe/portaria/768-1985-178358), publicado em 1985-10-12.
 
 2.º A presente portaria produz efeitos a partir de 1 de Janeiro de 1983 e revoga a [Portaria n.º 829/83](https://diariodarepublica.pt/dr/detalhe/portaria/829-1983-454324), de 8 de Agosto.
 

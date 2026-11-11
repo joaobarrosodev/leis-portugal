@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-08-22'
+version_history:
+  file: portaria-330-e-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-05-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-08-22'
+    amending: pt:dre:619291:por
+    amending_title: Portaria n.º 700/89
+    changes:
+    - Altera Artigo unidades 5-5
+    - Altera Artigo unidades 17-18
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:50:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 700/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-330-e-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,7 +138,9 @@ Ao abrigo do disposto no n.º 3 do artigo 7.º do [Decreto-Lei n.º 483-F/88](ht
 
 Manda o Governo, pelos Ministros das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo, o seguinte:
 
-1.º Os preços limiares de importação para efeitos de construção dos direitos niveladores aplicáveis à importação de cereal em grão são os seguintes, por tonelada de cereal, e a partir das seguintes datas:
+1.º Os preços limiares de importação para efeitos de construção dos direitos niveladores aplicáveis à importação de cereal em grão são os seguintes, por tonelada de cereal, a partir das seguintes datas:
+
+> Alterado pelo/a [Portaria n.º 700/89](https://diariodarepublica.pt/dr/detalhe/portaria/700-1989-619291), publicado em 1989-08-17.
 
 A partir de 1 de Junho de 1989, inclusive:
 
@@ -146,9 +164,11 @@ Trigo-mole e mistura de trigo e centeio ... 48200$00
 
 Trigo-rijo ... 56160$00
 
-A partir de 15 de Setembro de 1989, inclusive:
+A partir de 1 de Setembro de 1989, inclusive:
 
-Milho ... 39500$00
+Milho ... 40500$00
+
+> Alterado pelo/a [Portaria n.º 700/89](https://diariodarepublica.pt/dr/detalhe/portaria/700-1989-619291), publicado em 1989-08-17.
 
 2.º - 1 - As existências de trigo-mole e mistura de trigo-mole e centeio importados à data da entrada em vigor dos preços limiares referidos no n.º 1.º serão declaradas ao INGA - Instituto Nacional de Intervenção e Garantia Agrícola pelos importadores, industriais utilizadores e armazenistas de cereais, no prazo de três dias úteis a partir daquela data, por carta registada com aviso de recepção.
 

@@ -29,10 +29,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-07-22'
+version_history:
+  file: portaria-693-a-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-11-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-07-22'
+    amending: pt:dre:181421:por
+    amending_title: Portaria n.º 372/85; Portaria n.º 547/89
+    changes:
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 37-37
+    - Altera Artigo unidades 72-77
+    - Altera Artigo unidades 78-82
 identifiers:
   celex: null
   eli: null
@@ -58,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:53:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 372/85; Portaria n.º
+    547/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1975/portaria-693-a-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,11 +147,15 @@ a) Ser cidadão português;
 
 b) Ter aptidão física verificada em inspecção médica, efectuada pelo júri de admissão ao concurso para oficiais médicos, nomeado para o efeito por despacho do Chefe do Estado-Maior do Exército (CEME), sobre proposta do director do Serviço de Saúde Militar;
 
-c) Não ter mais de 30 anos de idade no dia 31 de Dezembro do corrente ano;
+c) Ter idade igual ou inferior a 30 anos de idade no dia 31 de Dezembro do ano de abertura do concurso, excepto no que respeita aos militares dos quadros permanentes;
+
+> Alterado pelo/a [Portaria n.º 547/89](https://diariodarepublica.pt/dr/detalhe/portaria/547-1989-619944), publicado em 1989-07-17.
 
 d) Estar legalmente habilitado com as licenciaturas em Medicina, Farmácia ou Medicina Veterinária;
 
-e) Ter cumprido ou estar a cumprir o serviço militar, sem prejuízo de casos especiais a serem apreciados pela Direcção do Serviço de Saúde (DSS);
+e) Encontrarem-se abrangidos pela Lei do Serviço Militar e com a sua situação regularizada perante os imperativos decorrentes desta lei e seu regulamento;
+
+> Alterado pelo/a [Portaria n.º 547/89](https://diariodarepublica.pt/dr/detalhe/portaria/547-1989-619944), publicado em 1989-07-17.
 
 f) Não ter sido condenado nos tribunais civis ou militares em pena que o impossibilite de seguir a carreira das armas ou de ingressar no corpo de oficiais do quadro permanente do Exército.
 
@@ -178,7 +201,9 @@ Da decisão desta junta, após homologação do CEME, não haverá recurso.
 
 1) Para o ramo médico, o director do HMP (presidente), dois oficiais médicos internistas e dois cirurgiões do HMP;
 
-2) Para o ramo farmacêutico, o director do Laboratório Militar de Produtos Químicos e Farmacêuticos (LMPQF) (presidente) e quatro oficiais farmacêuticos, sendo um especialista em indústria farmacêutica e outro em análises químico-biológicas;
+2) Para o ramo farmacêutico, o director do Laboratório Militar de Produtos Químicos Farmacêuticos (LMPQF), como presidente, e 3 oficiais farmacêuticos, correspondentes às 3 opções da licenciatura em Ciências Farmacêuticas, como vogais.
+
+> Alterado pelo/a [Portaria n.º 372/85](https://diariodarepublica.pt/dr/detalhe/portaria/372-1985-181421), publicado em 1985-06-18.
 
 3) Para o ramo veterinário, o director da Escola do Serviço Veterinário Militar (ESVM) (presidente) e quatro médicos veterinários.
 
@@ -248,27 +273,19 @@ O júri fornecerá, aos candidatos que o desejem, os resultados dos meios auxili
 
 Das provas a prestar pelos candidatos ao concurso para provimento de vacaturas no quadro permanente de oficiais farmacêuticos.
 
-25.º As provas do concurso para provimento de vacaturas no quadro permanente de oficiais farmacêuticos são:
+25.º As provas do concurso para provimento de vacaturas no quadro permanente de oficiais farmacêuticos englobam:
 
-a) Prova escrita única para todos os concorrentes, sobre um ponto tirado à sorte de entre dez afixados na DSS/ME e no LMPQF vinte dias antes;
+a) Uma prova escrita versando temas comuns às 3 opções da licenciatura em Ciências Farmacêuticas e temas específicos a cada uma das opções, de acordo com a opção de licenciatura de cada candidato;
 
-b) Prova prática de indústria farmacêutica;
+b) Provas práticas específicas da opção de licenciatura de cada candidato;
 
-c) Prova prática de hidrologia;
+c) Uma prova oral.
 
-d) Prova prática de análises químico-biológicas;
+> Alterado pelo/a [Portaria n.º 372/85](https://diariodarepublica.pt/dr/detalhe/portaria/372-1985-181421), publicado em 1985-06-18.
 
-e) Prova oral.
+26.º A publicação no Diário da República a que se refere o § único do n.º 1.º deve incluir uma referência às matérias de estudo sobre as quais incidirão as provas constantes do n.º 25.º
 
-26.º - 1. O ponto para prova escrita será tirado com vinte e quatro horas de antecedência, na presença do júri, afixado no LMPQF e para a sua execução será concedido o prazo de quatro horas.
-
-2. A prova prática de indústria farmacêutica, cujo tema será tirado à sorte imediatamente antes do início da prova, constará da execução de uma fórmula farmacêutica, sua análise química, física ou físico-química e da elaboração do respectivo relatório, sendo concedido para a sua execução o prazo de seis horas.
-
-3. A prova prática de hidrologia, cujo tema será tirado à sorte imediatamente antes do início da prova, consistirá na análise química, física, físico-química e bacteriológica de uma água, na proposta de um tratamento e na elaboração do respectivo relatório, sendo concedido, para a sua execução, o prazo de três horas.
-
-4. A prova prática de análises químico-biológicas, cujo tema será tirado à sorte imediatamente antes do início da prova, consistirá na análise de um produto biológico, preenchimento do respectivo boletim e elaboração de um relatório, sendo concedido, para a execução desta prova, o prazo de três horas.
-
-5. A prova oral terá a duração de duas horas, sendo a primeira reservada à discussão da prova escrita e outros temas gerais, e a segunda à discussão dos relatórios das provas práticas.
+> Alterado pelo/a [Portaria n.º 372/85](https://diariodarepublica.pt/dr/detalhe/portaria/372-1985-181421), publicado em 1985-06-18.
 
 27.º - 1. Para cada uma das provas práticas serão elaborados, com antecedência, tantos pontos e mais um quantos forem os candidatos.
 

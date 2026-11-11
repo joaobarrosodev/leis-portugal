@@ -1,0 +1,60 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:425562:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-04-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1b385bb11599e08c"
+   ]
+  },
+  {
+   "date": "1981-11-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:567948:por",
+     "title": "Portaria n.º 1017/81",
+     "published": "1981-11-25",
+     "dre_path": "/dr/detalhe/portaria/1017-1981-567948"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-5",
+    "Altera Artigo unidades 7-7",
+    "Altera Artigo unidades 8-9"
+   ],
+   "fragments": [
+    "f13b786d585cc190"
+   ]
+  }
+ ],
+ "fragments": {
+  "1b385bb11599e08c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Abril\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Educação e Cultura nos termos dos artigos 3.º e 4.º do [Decreto-Lei n.º 260-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-b-1975-526219), de 26 de Maio, o seguinte:\n\n1 - É criada, para entrar em funcionamento no ano escolar de 1977-1978, a Escola Secundária de D. Luís de Castro, em Braga, resultante da integração, no Ministério da Educação e Cultura, da Escola de D. Luís de Castro pertencente à extinta Obra das Mães pela Educação Nacional, nos termos do despacho conjunto dos Ministros da Educação e Investigação Científica e dos Assuntos Sociais, publicado no Diário da República, 2.ª série, de 15 de Janeiro de 1977.\n\n2 - O quadro do pessoal docente, administrativo e auxiliar da Escola Secundária de D. Luís de Castro é o constante, respectivamente, dos mapas n.os 1 e 2 anexos a esta portaria.\n\n3 - Ao pessoal docente, administrativo e auxiliar da extinta Escola de D. Luís de Castro, em Braga, são aplicáveis, com as necessárias adaptações, na sua integração na Escola Secundária de D. Luís de Castro, as regras estabelecidas respectivamente nos Decretos-Leis n.os [793/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1975-354564) e [792/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/792-1975-354563), ambos de 31 de Dezembro, mantidos em vigor pelo [Decreto-Lei n.º 331/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1977-255394), de 10 de Agosto.\n\n4 - Os cursos a ministrar na Escola Secundária de D. Luís de Castro são o curso geral dos liceus e o curso geral de educadores rurais.\n\n5 - O curso geral de educadores rurais é equivalente, para todos os efeitos, ao curso geral dos liceus, e ao mesmo podem ter acesso os indivíduos habilitados com o 2.º ano do ensino preparatório ou equivalente.\n\n6 - Os planos do curso de educadores rurais são os constantes do mapa n.º 3 anexo a esta portaria.\n\nMinistérios das Finanças e do Plano e da Educação e Cultura, 12 de Abril de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.\n\nMapa n.º 1 a que se refere o n.º 2 da Portaria n.º 236/78, desta data\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09600/07650766.pdf)\n\nMapa n.º 2 a que se refere o n.º 2 da Portaria n.º 236/78, desta data\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09600/07650766.pdf)\n\nMapa a que se refere o n.º 4 da Portaria n.º 236/78, desta data\n\nCurso geral de educadores rurais\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09600/07650766.pdf)\n\nO Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia."
+  },
+  "f13b786d585cc190": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1981-11-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1017/81](https://diariodarepublica.pt/dr/detalhe/portaria/1017-1981-567948), publicado em 1981-11-25.",
+    "Alterado pelo/a [Portaria n.º 1017/81](https://diariodarepublica.pt/dr/detalhe/portaria/1017-1981-567948), publicado em 1981-11-25.",
+    "Alterado pelo/a [Portaria n.º 1017/81](https://diariodarepublica.pt/dr/detalhe/portaria/1017-1981-567948), publicado em 1981-11-25."
+   ],
+   "markdown": "de 26 de Abril\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Educação e Cultura nos termos dos artigos 3.º e 4.º do [Decreto-Lei n.º 260-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-b-1975-526219), de 26 de Maio, o seguinte:\n\n1 - É criada, para entrar em funcionamento no ano escolar de 1977-1978, a Escola Secundária de D. Luís de Castro, em Braga, resultante da integração, no Ministério da Educação e Cultura, da Escola de D. Luís de Castro pertencente à extinta Obra das Mães pela Educação Nacional, nos termos do despacho conjunto dos Ministros da Educação e Investigação Científica e dos Assuntos Sociais, publicado no Diário da República, 2.ª série, de 15 de Janeiro de 1977.\n\n2 - O quadro de pessoal docente da Escola Secundária de D. Luís de Castro será definido de acordo com os planos de estudo do curso de educador social ali ministrado, através de portaria conjunta do Ministro de Estado e das Finanças e do Plano, da Educação e das Universidades e da Reforma Administrativa.\n\n2.1 - O quadro de pessoal administrativo e auxiliar da Escola Secundária de D. Luís de Castro é o constante do mapa n.º 2 anexo a esta portaria.\n\n> Alterado pelo/a [Portaria n.º 1017/81](https://diariodarepublica.pt/dr/detalhe/portaria/1017-1981-567948), publicado em 1981-11-25.\n\n3 - Ao pessoal docente, administrativo e auxiliar da extinta Escola de D. Luís de Castro, em Braga, são aplicáveis, com as necessárias adaptações, na sua integração na Escola Secundária de D. Luís de Castro, as regras estabelecidas respectivamente nos Decretos-Leis n.os [793/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1975-354564) e [792/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/792-1975-354563), ambos de 31 de Dezembro, mantidos em vigor pelo [Decreto-Lei n.º 331/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1977-255394), de 10 de Agosto.\n\n4 - O curso a ministrar na Escola Secundária de D. Luís de Castro é o curso de educador social, ao nível dos 10.º, 11.º e 12.º anos de escolaridade.\n\n> Alterado pelo/a [Portaria n.º 1017/81](https://diariodarepublica.pt/dr/detalhe/portaria/1017-1981-567948), publicado em 1981-11-25.\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 1017/81](https://diariodarepublica.pt/dr/detalhe/portaria/1017-1981-567948), publicado em 1981-11-25.\n\nMinistérios das Finanças e do Plano e da Educação e Cultura, 12 de Abril de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.\n\nMapa n.º 1 a que se refere o n.º 2 da Portaria n.º 236/78, desta data\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09600/07650766.pdf)\n\nMapa n.º 2 a que se refere o n.º 2 da Portaria n.º 236/78, desta data\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09600/07650766.pdf)\n\nMapa a que se refere o n.º 4 da Portaria n.º 236/78, desta data\n\nCurso geral de educadores rurais\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09600/07650766.pdf)\n\nO Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia."
+  }
+ }
+}

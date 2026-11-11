@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-04-12'
+version_history:
+  file: despacho-normativo-32-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-07-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-04-12'
+    amending: pt:dre:568359:por
+    amending_title: Despacho Normativo n.º 23/2005
+    changes:
+    - Altera Artigo unidades 21-21
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/32/2004/07/20/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:41:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 23/2005. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2004/despacho-normativo-32-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -167,7 +182,9 @@ c) 100% dos pagamentos complementares estabelecidos no Despacho Normativo n.º 3
 
 3 - O prémio por vaca em aleitamento, o prémio nacional suplementar por vaca em aleitamento e o prémio ao abate de vitelos serão concedidos aos produtores de bovinos nos termos do capítulo 12 do título IV do mencionado regulamento.
 
-6.º Será retido 1% do montante a conceder a título do pagamento único relativo aos sectores das culturas arvenses, de arroz, de carne de bovino e de carne de ovino e caprino, para efeitos de financiamento de medidas integradas no Plano Nacional de Desenvolvimento da Agricultura Biológica destinadas aos produtores destes sectores.
+6.º - (Revogado.)
+
+> Alterado pelo/a [Despacho Normativo n.º 23/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2005-568359), publicado em 2005-04-07.
 
 7.º O regime de apoio às sementes, instituído pelo Regulamento (CE) n.º [2358/71](http://data.europa.eu/eli/reg/1971/2358/oj?locale=pt), do Conselho, de 26 de Outubro, não será integrado no regime do pagamento único.
 

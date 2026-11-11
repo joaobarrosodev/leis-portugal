@@ -39,10 +39,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-10-19'
+version_history:
+  file: resolucao-conselho-ministros-73-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-08-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-10-19'
+    amending: pt:dre:219167:por
+    amending_title: Resolução do Conselho de Ministros n.º 144/98; Resolução do Conselho de Ministros n.º 120/99
+    changes:
+    - Altera Artigo unidades 12-16
+    - Altera Artigo unidades 19-28
+    - Altera Artigo unidades 30-31
+    - Altera Artigo unidades 37-41
+    - Altera Artigo unidades 50-51
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/73/1995/08/01/p/dre/pt/html
@@ -68,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:34:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 144/98; Resolução do Conselho de Ministros n.º 120/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1995/resolucao-conselho-ministros-73-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,25 +171,17 @@ a) Cópia do último modelo do IRC ou do IRS, e seus anexos, apresentado na repa
 
 b) Documentos comprovativos de que se encontra regularizada a situação da empresa relativamente às contribuições para a segurança social e às dívidas ao Estado.
 
-2.º
+2.º - (Revogado.)
 
-Montante do investimento
-
-1 - Para efeitos do n.º 3 do artigo 5.º do Decreto-Lei n.º 181/95, de 26 de Julho, o valor global mínimo do investimento por projecto é fixado em 5000 contos.
-
-2 - Para o cálculo do valor global mínimo de investimentos é considerado o preço de aquisição dos veículos referidos na alínea c) do n.º 3 do artigo 4.º do Decreto-Lei n.º 181/95, de 26 de Julho.
-
-3 - O valor global máximo, por empresa, das despesas elegíveis a que se refere o n.º 1 do artigo 4.º do Decreto-Lei n.º 181/95, de 26 de Julho, não pode ultrapassar 10000 contos durante o período de vigência do SIMIAT.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 144/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/144-1998-219167), publicado em 1998-12-16.
 
 3.º
 
 Montante do incentivo
 
-1 - O montante do incentivo a conceder ao abrigo da alínea c) do n.º 3 do artigo 4.º do Decreto-Lei n.º 181/95, de 26 de Julho, é fixado em 1200 contos para cada veículo até 19 t de peso bruto e em 2000 contos para veículos de peso bruto superior.
+1 - O montante do prémio a atribuir por cada veículo a abater será calculado, ao abrigo do n.º 1 do artigo 5.º do Decreto-Lei n.º 181/95, de 26 de Julho, com a redacção que lhe foi dada pelo Decreto-Lei n.º 386/98, de 4 de Dezembro, através da aplicação da seguinte fórmula:
 
-2 - O montante do prémio a atribuir por cada veículo a abater será calculado, ao abrigo do n.º 2 do artigo 5.º do Decreto-Lei n.º 181/95, de 26 de Julho, através da aplicação da seguinte fórmula:
-
-PR = PB x (100 - 4,5 x ID)
+PR = PB x (100 - 2 x ID)
 
 em que:
 
@@ -180,17 +191,27 @@ PB = peso bruto do veículo em toneladas;
 
 ID = idade do veículo, em anos, contada desde o ano de matrícula até ao ano da candidatura.
 
-3 - Para efeitos do número anterior não são considerados os abates de veículos com idade inferior a seis anos.
+2 - Para efeitos do número anterior, não são considerados os abates:
 
-4 - O prémio concedido pelo abate pressupõe um contrato de transferência de serviços entre a empresa possuidora de frota própria e a empresa transportadora, o qual deve vigorar durante o período de quatro anos.
+a) De veículos com idade inferior a seis anos;
 
-5 - O valor máximo do incentivo a atribuir anualmente por empresa e por projecto, ao abrigo da alínea c) do n.º 3 do artigo 4.º do Decreto-Lei n.º 181/95, de 26 de Julho, não pode ser superior a 20000 contos.
+b) De veículos licenciados há menos de três anos na actividade de transporte público rodoviário de mercadorias.
+
+3 - O prémio concedido pelo abate no âmbito de um contrato de transferência de serviços será repartido na proporção de dois terços para a empresa do outro sector de actividade e de um terço para a empresa transportadora, devendo esse contrato ter a duração mínima de um ano.
+
+4 - O montante do incentivo a conceder ao abrigo do n.º 2 do artigo 5.º do Decreto-Lei n.º 181/95, de 26 de Julho, com a redacção que lhe foi dada pelo Decreto-Lei n.º 386/98, de 4 de Dezembro, é fixado em 1200 contos para cada veículo até 19 t de peso bruto e em 2000 contos para veículos de peso bruto superior.
+
+5 - O valor máximo de incentivos a atribuir anualmente, por empresa, não pode ser superior a 25000 contos.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 144/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/144-1998-219167), publicado em 1998-12-16.
 
 4.º
 
-Características dos veículos
+Características técnicas de veículos
 
-Os veículos referidos na alínea c) do n.º 3 do artigo 4.º do Decreto-Lei n.º 181/95, de 26 de Julho, devem reunir as condições exigidas na Directiva n.º [92/97/CEE](http://data.europa.eu/eli/dir/1992/97/oj?locale=pt), de 10 de Novembro, e observar os valores limite fixados na linha B) do quadro constante do n.º 8.3.1.1 do anexo I à Directiva n.º [88/77/CEE](http://data.europa.eu/eli/dir/1988/77/oj?locale=pt), de 3 de Dezembro de 1987, na redacção que lhe foi dada pela Directiva n.º [91/542/CEE](http://data.europa.eu/eli/dir/1991/542/oj?locale=pt), de 1 de Outubro, a que se refere a Portaria n.º 656/93, de 12 de Julho.
+Os veículos referidos na alínea c) do n.º 1 do artigo 4.º do Decreto-Lei n.º 181/95, de 26 de Julho, com a redacção que lhe foi dada pelo Decreto-Lei n.º 386/98, de 4 de Dezembro, devem reunir as condições exigidas na Directiva n.º [92/97/CEE](http://data.europa.eu/eli/dir/1992/97/oj?locale=pt), de 10 de Novembro de 1992, e observar os valores limite fixados na linha B do quadro constante do n.º 8.3.1.1 do anexo I à Directiva n.º [88/77/CEE](http://data.europa.eu/eli/dir/1988/77/oj?locale=pt), de 3 de Dezembro de 1987, na redacção que lhe foi dada pela Directiva n.º [91/542/CEE](http://data.europa.eu/eli/dir/1991/542/oj?locale=pt), de 1 de Outubro de 1991, transpostas pela Portaria n.º 1080/97, de 29 de Outubro.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 144/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/144-1998-219167), publicado em 1998-12-16.
 
 5.º
 
@@ -202,15 +223,13 @@ As candidaturas são apresentadas em duas fases, que decorrem durante os meses d
 
 Critérios de selecção
 
-1 - As candidaturas são hierarquizadas de acordo com a seguinte ordem:
+1 - As candidaturas são organizadas em grupos constituídos por período de apresentação, precedendo a análise e aprovação do grupo constituído pelas candidaturas transitadas do período anterior.
 
-1.º Projectos abrangidos pelo n.º 1 do artigo 4.º do Decreto-Lei n.º 181/95, de 26 de Julho;
+2 - Cada um dos grupos é hierarquizado de acordo com a ordem de prioridades das aplicações relevantes a que corresponde a sequência das alíneas a) a e) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 181/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1995-484982), de 26 de Julho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 386/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1998-222178), de 4 de Dezembro.
 
-2.º Projectos que apresentem uma perspectiva integrada de investimentos de diferente natureza;
+3 - Só podem ser aprovadas candidaturas até ao limite da disponibilidade orçamental anual do programa.
 
-3.º Restantes projectos.
-
-2 - Só podem ser aprovadas candidaturas até ao limite da disponibilidade orçamental do programa.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 120/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-1999-666893), publicado em 1999-10-14.
 
 7.º
 
@@ -228,9 +247,11 @@ Comprovação da aplicação das verbas
 
 a) Cópia autenticada do contrato de transferência de serviços, do qual conste a identificação e natureza das actividades dos participantes, a descrição das operações objecto do contrato e a forma de afectação e o destino dos veículos envolvidos no processo;
 
-b) Documento comprovativo do cancelamento das matrículas dos veículos abatidos, envolvidos no processo de transferência;
+b) Documento comprovativo do cancelamento das matrículas dos veículos abatidos;
 
-c) Recibos comprovativos da aquisição dos veículos previstos na alínea c) do n.º 3 do artigo 4.º do Decreto-Lei n.º 181/95, de 26 de Julho, contendo a especificação das características técnicas e respectivos certificados de homologação, bem como o preço e o tipo de contrato;
+c) Recibos comprovativos da aquisição dos veículos previstos na alínea c) do n.º 1 do artigo 4.º do Decreto-Lei n.º 181/95, de 26 de Julho, com a redacção que lhe foi dada pelo Decreto-Lei n.º 386/98, de 4 de Dezembro, contendo a especificação das características técnicas e respectivas folhas de aprovação de marca e modelo, bem como o preço e o tipo de contrato;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 144/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/144-1998-219167), publicado em 1998-12-16.
 
 d) Recibos comprovativos das despesas efectuadas, nos restantes casos.
 

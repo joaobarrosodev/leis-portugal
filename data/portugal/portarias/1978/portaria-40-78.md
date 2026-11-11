@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-12-14'
+version_history:
+  file: portaria-40-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-01-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-12-14'
+    amending: pt:dre:325950:por
+    amending_title: Portaria n.º 666/78; Portaria n.º 669/79
+    changes:
+    - Altera Artigo unidades 5-5
+    - Adita Artigo depois da unidade 11
+    - Altera Artigo unidades 21-26
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:40:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 666/78; Portaria n.º
+    669/79. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1978/portaria-40-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,7 +134,9 @@ Ao abrigo do disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 509/77](http
 
 Manda o Governo da República Portuguesa, pelos Ministros da Administração Interna e do Comércio e Turismo, o seguinte:
 
-1.º As taxas a cobrar pela utilização dos serviços do Mercado Abastecedor de Chaves de Oliveira, no Porto, serão do seguinte tipo:
+1.º - 1 - As taxas a cobrar pela utilização dos serviços do Mercado Abastecedor de Chaves de Oliveira, no Porto, serão do seguinte tipo:
+
+> Alterado pelo/a [Portaria n.º 666/78](https://diariodarepublica.pt/dr/detalhe/portaria/666-1978-325950), publicado em 1978-11-16.
 
 a) Por metro quadrado ocupado pelos vendedores para as operações de venda;
 
@@ -130,6 +149,20 @@ d) Por entrada no mercado de todos os que não forem portadores de cartões dos 
 e) Por entrada e estacionamento de veículos;
 
 f) Por utilização de equipamentos e outros serviços do Mercado.
+
+2 - São isentos do pagamento da taxa a que se refere a alínea e) do número anterior:
+
+a) Os veículos do Estado e das Câmaras Municipais do Porto, Gondomar, Maia, Matosinhos, Valongo e Vila Nova de Gaia, abrangidos pela zona de protecção do Mercado, definida no n.º 1 do n.º 2.º da [Portaria n.º 46/78](https://diariodarepublica.pt/dr/detalhe/portaria/46-1978-447926), de 23 de Janeiro;
+
+b) Os veículos ligeiros utilizados pelos membros das comissões administrativa, de fiscalização, consultiva e de recursos e pelos funcionários do Mercado, quando se encontrem no exercício das suas funções;
+
+c) Os veículos utilizados por instituições de assistência de fim desinteressado, consideradas pessoas colectivas de utilidade pública.
+
+3 - A isenção a que se refere a alínea c) do número anterior será concedida mediante pedido das entidades interessadas à comissão administrativa, devidamente instruído com os elementos comprovativos de que satisfazem às condições exigidas naquela alínea.
+
+4 - Compete à comissão administrativa a organização do sistema de contrôle das isenções previstas no n.º 2.
+
+> Aditado pelo/a [Portaria n.º 666/78](https://diariodarepublica.pt/dr/detalhe/portaria/666-1978-325950), publicado em 1978-11-16.
 
 2.º - 1 - Nos termos da alínea a) do n.º 1 desta portaria, são fixados os seguintes quantitativos para as taxas correspondentes à ocupação dos postos de venda:
 
@@ -149,17 +182,29 @@ b) Postos exteriores - 60$00 por cada dia de ocupação dos postos.
 
 5.º - 1 - Nos termos da alínea e) do n.º 1.º, fixam-se os seguintes quantitativos para a taxa a que o mesmo se refere, conforme o tipo de veículo:
 
-a) 5$00 por unidade, pela entrada de triciclos (com condutor incluído);
+a) 5$00 por unidade, pela entrada de triciclos;
 
-b) 5$00 por unidade, pela entrada de tractores e motocultivadores com reboque (com condutor incluído);
+b) 5$00 por unidade, pela entrada de tractores e motocultivadores com e sem reboque;
 
-c) 10$00 por unidade, pela entrada de veículos ligeiros e utilitários (com condutor incluído);
+c) 10$00 por unidade, pela entrada de veículos ligeiros e utilitários;
 
-d) 20$00 por unidade, pela entrada de veículos com capacidade de carga de 600 kg a 3500 kg (com condutor incluído);
+d) 20$00 por unidade, pela entrada de veículos com capacidade de carga de 600 kg a 3500 kg;
 
-e) 30$00 por unidade, pela entrada de veículos com capacidade de carga superior a 3500 kg (com condutor incluído).
+e) 30$00 por unidade, pela entrada de veículos com capacidade de carga superior a 3500 kg.
 
-2 - Os condutores dos veículos não pagam qualquer taxa, mesmo que não possuam os cartões a que se refere a alínea d) do n.º 1.º
+2 - Os condutores dos veículos, e, nos casos em que a lei o exija, os respectivos ajudantes, não pagam qualquer taxa, mesmo que não possuam os cartões a que se refere a alínea d) do n.º 1.º
+
+3 - Poderão ser emitidos passes mensais e passes trimestrais, segundo modelos a definir pela entidade que superintender na actividade do respectivo Mercado Abastecedor, nos termos das alíneas seguintes:
+
+a) Triciclos e tractores ou motocultivadores com e sem reboque - 90$00/mês e 250$00/trimestre;
+
+b) Veículos ligeiros - 160$00/mês e 450$00/trimestre;
+
+c) Veículos de 600 kg a 3500 kg - 310$00/mês e 900$00/trimestre;
+
+d) Veículos de mais de 3500 kg - 460$00/mês e 1350$00/trimestre.
+
+> Alterado pelo/a [Portaria n.º 669/79](https://diariodarepublica.pt/dr/detalhe/portaria/669-1979-366425), publicado em 1979-12-13.
 
 6.º Nos termos da alínea f) do n.º 1.º, fixa-se em 5$00 por cada operação de pesagem a utilização da báscula existente no Mercado.
 

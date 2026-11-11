@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1967-12-19'
+version_history:
+  file: portaria-22937.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-10-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1967-12-19'
+    amending: pt:dre:401716:por
+    amending_title: Portaria n.º 23067
+    changes:
+    - Adita Artigo depois da unidade 17
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:36:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 23067. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1967/portaria-22937.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,6 +137,10 @@ Pessoal inspector
 3.º - 1. O inspector-chefe e os inspectores são nomeados pelo Ministro da Educação Nacional entre professores do ciclo preparatório ou de qualquer outro grau ou ramo do ensino secundário ou médio e exercem as suas funções, sempre, em comissão.
 
 2. É extensivo a essa comissão, na parte aplicável, o disposto nos n.os 2 a 7 do artigo anterior; mas, quanto a remuneração, os interessados conservam os seus vencimentos de professores, a abonar pelos respectivos serviços, e percebem, além disso, as gratificações estabelecidas no quadro constante do artigo 1.º
+
+3. Tratando-se de professor de estabelecimento de ensino das ilhas adjacentes ou do ultramar, a Direcção de Serviços do Ciclo Preparatório do Ensino Secundário abonar-lhe-á não só as gratificações, como também os vencimentos.
+
+> Aditado pelo/a [Portaria n.º 23067](https://diariodarepublica.pt/dr/detalhe/portaria/23067-1967-401716), publicado em 1967-12-19.
 
 4.º Nos lugares de oficiais o Ministro da Educação Nacional proverá pessoas que tenham sido aprovadas em qualquer altura em concurso para lugares da mesma categoria do Ministério.
 

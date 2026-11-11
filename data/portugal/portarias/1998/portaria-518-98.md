@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-03-30'
+version_history:
+  file: portaria-518-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-08-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-03-30'
+    amending: pt:dre:138103:por
+    amending_title: Portaria n.º 208/99
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/518/1998/08/12/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:09:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 208/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-518-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,7 +146,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça associativa (processo n.º 994-DGF) abrangendo o prédio rústico denominado «Quinta do Numão», sito na freguesia de Numão, município de Vila Nova de Foz Côa, com uma área de 336 ha.
+1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça associativa (processo n.º 994-DGF) abrangendo o prédio rústico denominado «Quinta do Vesúvio», sito na freguesia de Numão, município de Vila Nova de Foz Côa, com uma área de 336 ha.
+
+> Alterado pelo/a [Portaria n.º 208/99](https://diariodarepublica.pt/dr/detalhe/portaria/208-1999-138103), publicado em 1999-03-25.
 
 2.º Mantêm-se integralmente os direitos e obrigações decorrentes da lei e constantes da [Portaria n.º 699/92](https://diariodarepublica.pt/dr/detalhe/portaria/699-1992-288585).
 

@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-08-15'
+version_history:
+  file: portaria-946-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-08-15'
+    amending: pt:dre:284095:por
+    amending_title: Portaria n.º 1033-BO/2004
+    changes:
+    - Altera Artigo unidades 7-7
+    - Adita Artigo depois da unidade 7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/946/2001/07/31/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:35:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1033-BO/2004. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-946-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,7 +152,13 @@ Manda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das 
 
 1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria, e que dela faz parte integrante, sitos na freguesia de Salir, município de Loulé, com uma área de 1465,10 ha.
 
-2.º Pela presente portaria é concessionada, pelo período de seis anos, renovável automaticamente por um único e igual período, ao Clube de Caçadores das Solteiras, com o número de pessoa colectiva 504820354 e sede no sítio das Solteiras, Conceição, Tavira, a zona de caça associativa do Carrasqueiro (processo n.º 2591-DGF).
+2.º Pela presente portaria é concessionada, pelo período de 12 anos, renováveis automaticamente por dois períodos iguais, ao Clube de Caçadores das Solteiras, com o número de pessoa colectiva 504820354 e sede no sítio das Solteiras, Conceição, Tavira, a zona de caça associativa do Carrasqueiro (processo n.º 2591-DGF).
+
+> Alterado pelo/a [Portaria n.º 1033-BO/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1033-bo-2004-284095), publicado em 2004-08-10.
+
+2.º-A A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, por criação de zonas de interdição à caça (ao abrigo do artigo 115.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro), ou ser sujeita a condicionantes adicionais sempre que sejam introduzidas alterações de condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade com a actividade cinegética, até um máximo de 10% da área total da zona de caça.
+
+> Aditado pelo/a [Portaria n.º 1033-BO/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1033-bo-2004-284095), publicado em 2004-08-10.
 
 3.º A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 4 e sinal do modelo n.º 10 definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro.
 

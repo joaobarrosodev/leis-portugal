@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-02-13'
+version_history:
+  file: resolucao-conselho-ministros-165-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-12-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-02-13'
+    amending: pt:dre:517666:por
+    amending_title: Declaração de Rectificação n.º 12/2007
+    changes:
+    - Altera Artigo unidades 20-21
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/165/2006/12/15/p/dre/pt/html
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:53:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 12/2007.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2006/resolucao-conselho-ministros-165-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -175,9 +190,11 @@ Entre o primeiro outorgante, Estado Português, neste acto representado pelo [Mi
 
 (D) Através do [Decreto-Lei n.º 152/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2006-539251), de 3 de Agosto, foram aprovadas as Bases da Concessão;
 
-(E) O Governo Português aprovou a minuta do Contrato de Concessão, através da Resolução do Conselho de Ministros n.º [ ] de [ ];
+(E) O Despacho Conjunto dos Senhores Ministros de Estado e das Finanças, das Obras Públicas, Transportes e Comunicações e do Trabalho e da Solidariedade Social, de [ ], proferido na sequência do recurso hierárquico interposto pela adjudicatária, determinou a inclusão de uma cláusula destinada a regular os efeitos do deslocamento das lajes de cobertura dos silos ocorrido em 18 e 19 de Maio de 2006;
 
-(F) O [ ], Senhor [ ], o [ ], Senhor [ ] e o [ ], Senhor, foram designados representantes do Concedente nos termos do artigo [ ] do Decreto Lei n.º [ ] de [ ], e o Senhor [ ] é representante da Concessionária, na sua qualidade de [ ];
+(F) O Governo Português aprovou a minuta do Contrato de Concessão, através da Resolução do Conselho de Ministros n.º [ ] de [ ];
+
+> Alterado pelo/a [Declaração de Rectificação n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/12-2007-517666), publicado em 2007-02-13.
 
 (G) O [ ], Senhor [ ], o [ ], Senhor [ ] e o Senhor [ ], foram designados representantes do Concedente nos termos do artigo [ ] do Decreto-Lei n.º [ ] de [ ], e o Senhor [ ] é representante da Concessionária, na sua qualidade de [ ];
 

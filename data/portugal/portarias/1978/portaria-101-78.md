@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-04-22'
+version_history:
+  file: portaria-101-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-02-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-04-22'
+    amending: pt:dre:425549:por
+    amending_title: Portaria n.º 226/78
+    changes:
+    - Altera Artigo unidades 31-32
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:32:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 226/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1978/portaria-101-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -180,9 +195,11 @@ a) Chefe do Centro de Gestão;
 
 b) Adjunto-inspector;
 
-c) Secção de Gestão Econócimo-Orçamental;
+c) Secção de Gestão Económico-Orçamental;
 
-d) Secção de Gestão e Contabilidade;
+d) Secção de Gestão Financeira e Contabilidade;
+
+> Alterado pelo/a [Portaria n.º 226/78](https://diariodarepublica.pt/dr/detalhe/portaria/226-1978-425549), publicado em 1978-04-22.
 
 e) Secção de Verificação de Contas;
 

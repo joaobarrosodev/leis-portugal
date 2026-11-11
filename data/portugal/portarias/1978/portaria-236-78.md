@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-11-25'
+version_history:
+  file: portaria-236-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-04-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-11-25'
+    amending: pt:dre:567948:por
+    amending_title: Portaria n.º 1017/81
+    changes:
+    - Altera Artigo unidades 5-5
+    - Altera Artigo unidades 7-7
+    - Altera Artigo unidades 8-9
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:36:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1017/81. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1978/portaria-236-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,15 +140,23 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 1 - É criada, para entrar em funcionamento no ano escolar de 1977-1978, a Escola Secundária de D. Luís de Castro, em Braga, resultante da integração, no Ministério da Educação e Cultura, da Escola de D. Luís de Castro pertencente à extinta Obra das Mães pela Educação Nacional, nos termos do despacho conjunto dos Ministros da Educação e Investigação Científica e dos Assuntos Sociais, publicado no Diário da República, 2.ª série, de 15 de Janeiro de 1977.
 
-2 - O quadro do pessoal docente, administrativo e auxiliar da Escola Secundária de D. Luís de Castro é o constante, respectivamente, dos mapas n.os 1 e 2 anexos a esta portaria.
+2 - O quadro de pessoal docente da Escola Secundária de D. Luís de Castro será definido de acordo com os planos de estudo do curso de educador social ali ministrado, através de portaria conjunta do Ministro de Estado e das Finanças e do Plano, da Educação e das Universidades e da Reforma Administrativa.
+
+2.1 - O quadro de pessoal administrativo e auxiliar da Escola Secundária de D. Luís de Castro é o constante do mapa n.º 2 anexo a esta portaria.
+
+> Alterado pelo/a [Portaria n.º 1017/81](https://diariodarepublica.pt/dr/detalhe/portaria/1017-1981-567948), publicado em 1981-11-25.
 
 3 - Ao pessoal docente, administrativo e auxiliar da extinta Escola de D. Luís de Castro, em Braga, são aplicáveis, com as necessárias adaptações, na sua integração na Escola Secundária de D. Luís de Castro, as regras estabelecidas respectivamente nos Decretos-Leis n.os [793/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1975-354564) e [792/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/792-1975-354563), ambos de 31 de Dezembro, mantidos em vigor pelo [Decreto-Lei n.º 331/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1977-255394), de 10 de Agosto.
 
-4 - Os cursos a ministrar na Escola Secundária de D. Luís de Castro são o curso geral dos liceus e o curso geral de educadores rurais.
+4 - O curso a ministrar na Escola Secundária de D. Luís de Castro é o curso de educador social, ao nível dos 10.º, 11.º e 12.º anos de escolaridade.
 
-5 - O curso geral de educadores rurais é equivalente, para todos os efeitos, ao curso geral dos liceus, e ao mesmo podem ter acesso os indivíduos habilitados com o 2.º ano do ensino preparatório ou equivalente.
+> Alterado pelo/a [Portaria n.º 1017/81](https://diariodarepublica.pt/dr/detalhe/portaria/1017-1981-567948), publicado em 1981-11-25.
 
-6 - Os planos do curso de educadores rurais são os constantes do mapa n.º 3 anexo a esta portaria.
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 1017/81](https://diariodarepublica.pt/dr/detalhe/portaria/1017-1981-567948), publicado em 1981-11-25.
 
 Ministérios das Finanças e do Plano e da Educação e Cultura, 12 de Abril de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.
 

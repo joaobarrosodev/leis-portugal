@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-11-10'
+version_history:
+  file: portaria-1499-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-11-10'
+    amending: pt:dre:178543:por
+    amending_title: Portaria n.º 629/96
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1499/1995/12/30/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:55:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 629/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-1499-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,7 +139,9 @@ Manda o Governo, pelo Ministro da Cultura, ao abrigo do disposto na alínea d) d
 
 2.º Os cartões de identidade terão a menção do gabinete ou outra entidade a que respeitam, sendo a sua numeração privativa de cada serviço.
 
-3.º Os cartões destinados ao pessoal dos gabinetes constantes do n.º 1.º, bem como ao pessoal dirigente por ele abrangido, terão na parte inferior esquerda a menção «Livre trânsito», a vermelho.
+3.º Os cartões de identidade serão de cor branca, com uma faixa diagonal, com as cores verde e vermelha no canto superior esquerdo, mas os destinados ao pessoal dos gabinetes constantes do n.º 1, bem como ao pessoal dirigente por ele abrangido, terão na parte inferior esquerda a menção 'Livre trânsito', a vermelho.
+
+> Alterado pelo/a [Portaria n.º 629/96](https://diariodarepublica.pt/dr/detalhe/portaria/629-1996-178543), publicado em 1996-11-05.
 
 4.º O cartão com a menção «Livre trânsito» confere ao seu titular a faculdade de livre circulação em instalações dos serviços e organismos dependentes ou tutelados pelo Ministério da Cultura e o direito de acesso aos recintos de espectáculos e similares.
 

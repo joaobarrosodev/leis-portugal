@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-03-31'
+version_history:
+  file: portaria-161-a-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-03-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-03-31'
+    amending: pt:dre:602496:por
+    amending_title: Declaração de Rectificação n.º 6-R/97
+    changes:
+    - Altera Artigo unidades 28-28
+    - Altera Artigo unidades 32-32
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/161-a/1997/03/06/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:01:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 6-R/97.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-161-a-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -168,7 +184,9 @@ Zona C:
 
 Nome completo do utente, data de nascimento (ano com quatro dígitos, mês e dia), designação da sub-região de saúde, centro de saúde e sede ou extensão da residência do utente.
 
-No lado direito a data de emissão do cartão (ano com quatro dígitos, mês e dia) e, no canto inferior direito, o código de barras que represente o número de identificação do utente.
+No lado direito a data de emissão do cartão (ano com quatro dígitos, mês e dia) e, no canto inferior direito, o código de barras que represente o número de identificação do utente e a existência - sim ou não - de: regime especial de comparticipação de medicamentos; isenção de taxas moderadoras; outras situações de isenção e subsistema de saúde ou seguradora.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 6-R/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-r-1997-602496), publicado em 1997-03-31.
 
 Verso
 
@@ -176,7 +194,9 @@ Zona D:
 
 Fita magnética contendo as seguintes informações sobre o utente:
 
-Número de identificação, nome completo, data de nascimento, sexo, naturalidade, nacionalidade, região de saúde, sub-região de saúde, centro de saúde - sede e ou extensão - da residência do utente, subsistema de saúde/seguradora que suporta/comparticipa nos encargos com saúde, respectivo número de beneficiário/apólice e data de validade, existência - sim ou não - de: regime especial de comparticipação de medicamentos e respectiva data de validade; isenção de taxas moderadoras e respectiva data de validade, e outras situações de isenção, com a respectiva data de validade.
+Número de identificação, nome completo, data de nascimento, sexo, naturalidade, nacionalidade, região de saúde, sub-região de saúde, centro de saúde - sede e ou extensão - da residência do utente, subsistema de saúde/seguradora que suporta/comparticipa nos encargos com saúde, respectivo número de beneficiário/apólice e data de validade, código de: regime especial de comparticipação de medicamentos e respectiva data de validade; isenção de taxas moderadoras e respectiva data de validade, e outras situações de isenção, com a respectiva data de validade.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 6-R/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-r-1997-602496), publicado em 1997-03-31.
 
 Zona E:
 

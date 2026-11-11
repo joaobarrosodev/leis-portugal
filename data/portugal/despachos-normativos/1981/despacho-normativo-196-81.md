@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-04-19'
+version_history:
+  file: despacho-normativo-196-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-08-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-04-19'
+    amending: pt:dre:311664:por
+    amending_title: Despacho Normativo n.º 91/83
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:10:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 91/83. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1981/despacho-normativo-196-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,6 +132,8 @@ Determino:
 
 1 - O disposto no n.º 1 do artigo 25.º do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596) é exclusivamente aplicável aos docentes que, encontrando-se colocados, na qualidade de portadores de habilitação suficiente, em grupo, subgrupo, disciplina ou especialidade para que haja carência de professores portadores de habilitação própria, possuam para o mesmo grau de ensino em que se encontram a leccionar habilitação própria para outro grupo, subgrupo, disciplina ou especialidade.
 
-2 - A aplicação do estabelecido no número anterior fica ainda condicionada ao facto de o respectivo docente ter sido opositor ao concurso para professores provisórios para leccionar no grupo, subgrupo, disciplina ou especialidade relativamente ao qual possui habilitação própria e ter sido colocado, no mesmo grau de ensino, em grupo, subgrupo, disciplina ou especialidade para que possui somente habilitação suficiente.
+2 - (Revogado.)
+
+> Alterado pelo/a [Despacho Normativo n.º 91/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/91-1983-311664), publicado em 1983-04-19.
 
 Ministério da Educação e Ciência, 27 de Julho de 1981. - O Ministro da Educação e Ciência, Vítor Pereira Crespo.

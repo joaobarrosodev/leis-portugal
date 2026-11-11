@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:479580:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-02-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5fa6c80974e9419c"
+   ]
+  },
+  {
+   "date": "1992-09-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:239246:por",
+     "title": "Resolução do Conselho de Ministros n.º 34/92",
+     "published": "1992-09-12",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/34-1992-239246"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 15-16"
+   ],
+   "fragments": [
+    "d860dcc20ac08457"
+   ]
+  }
+ ],
+ "fragments": {
+  "5fa6c80974e9419c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A criação da Comissão Consultiva do Ambiente decorre do reconhecimento da necessidade e oportunidade de estruturar correctamente o processo de definição e coordenação das políticas de ambiente.\n\nTal necessidade reflecte o carácter interdepartamental daquelas políticas e ainda a importância de uma alargada concertação para o bom resultado das acções em tais domínios.\n\nCom efeito, a consideração pelos factores ecológicos deve estar presente em todas as políticas sectoriais, enquanto factor condicionante das opções a adoptar, assim se evitando oportunamente, através de uma acção preventiva, desequilíbrios ambientais e deficiências na gestão dos recursos naturais, que se traduzem muitas vezes em custos gravosos para o bem-estar das populações e para o desenvolvimento económico do País.\n\nNeste sentido, após a criação do Ministério do Ambiente e Recursos Naturais, foi decidido instituir em cada ministério um núcleo de estudos ambientais e desenvolver os trabalhos de preparação do Plano Nacional de Política do Ambiente.\n\nCriadas que estão as estruturas sectoriais responsáveis pelo acompanhamento em cada ministério das questões relativas ao ambiente e definidas as linhas mestras da política nacional de ambiente, considera-se ser o momento adequado para promover a criação e instalação de uma Comissão Consultiva do Ambiente.\n\nTratar-se-á de um órgão de consulta do Ministro do Ambiente e Recursos Naturais, responsável pela compatibilização das políticas do ambiente com as restantes políticas departamentais.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea d) do artigo 202.º da Constituição, o Governo resolveu:\n\n1 - É criada a Comissão Consultiva do Ambiente (CCA), órgão de consulta do Ministro do Ambiente e Recursos Naturais, para efeitos da apreciação e concertação das políticas e actividades do respectivo ministério.\n\n2 - A CCA é um órgão em que estão representados os interesses sectoriais, no domínio da protecção e melhoria do ambiente, bem como entidades cuja competência ou actuação seja relevante naquele domínio.\n\n3 - São membros da CCA:\n\na) O Ministro do Ambiente e Recursos Naturais, que preside;\n\nb) O secretário-geral do Ministério do Ambiente e Recursos Naturais, que é, por inerência de funções, o secretário da CCA;\n\nc) Um representante designado por cada um dos seguintes ministros: Ministro da Defesa Nacional, Ministro das Finanças, Ministro do Planeamento e da Administração do Território, Ministro da Administração Interna, Ministro da Justiça, Ministro da Agricultura, Pescas e Alimentação, Ministro da Indústria e Energia, Ministro das Obras Públicas, Transportes e Comunicações, Ministro da Saúde e Ministro do Comércio e Turismo;\n\nd) Um representante de cada uma das regiões autónomas, designado pelo respectivo governo regional.\n\n4 - O presidente da CCA pode convidar a fazerem-se representar nas reuniões da Comissão quaisquer entidades ou personalidades, a título de observadores, cuja participação seja considerada conveniente, em função da ordem de trabalhos das respectivas reuniões.\n\n5 - Incumbe à CCA pronunciar-se, mediante solicitação do Ministro do Ambiente e Recursos Naturais, sobre:\n\na) Os princípios e objectivos em que deve assentar a definição das políticas do respectivo ministério;\n\nb) O faseamento e a evolução dos planos, programas e recursos financeiros, no que se refere à actividade do Ministério do Ambiente e Recursos Naturais;\n\nc) As medidas legislativas, institucionais e estruturais necessárias à execução das políticas do ministério;\n\nd) A orientação geral dos critérios de avaliação dos resultados das actividades desenvolvidas;\n\ne) As linhas gerais das acções de cooperação externa, no âmbito do ministério;\n\nf) A orientação geral a imprimir aos planos de investigação e desenvolvimento no âmbito das actividades do ministério;\n\ng) Os planos de produção de indicadores estatísticos nas área de intervenção do ministério;\n\nh) Outros assuntos que lhe sejam apresentados pelo seu presidente.\n\n6 - A CCA elaborará o seu próprio regimento, o qual será aprovado por despacho do Ministro do Ambiente e Recursos Naturais.\n\n7 - A CCA reunirá em sessão plenária, ordinariamente, uma vez em cada trimestre e, extraordinariamente, sempre que o seu presidente a convoque.\n\n8 - O secretariado da CCA será assegurado pela Secretaria-Geral do Ministério do Ambiente e Recursos Naturais.\n\nPresidência do Conselho de Ministros, 17 de Janeiro de 1991. - O Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "d860dcc20ac08457": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1992-09-17",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 34/92](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-1992-239246), publicado em 1992-09-12."
+   ],
+   "markdown": "A criação da Comissão Consultiva do Ambiente decorre do reconhecimento da necessidade e oportunidade de estruturar correctamente o processo de definição e coordenação das políticas de ambiente.\n\nTal necessidade reflecte o carácter interdepartamental daquelas políticas e ainda a importância de uma alargada concertação para o bom resultado das acções em tais domínios.\n\nCom efeito, a consideração pelos factores ecológicos deve estar presente em todas as políticas sectoriais, enquanto factor condicionante das opções a adoptar, assim se evitando oportunamente, através de uma acção preventiva, desequilíbrios ambientais e deficiências na gestão dos recursos naturais, que se traduzem muitas vezes em custos gravosos para o bem-estar das populações e para o desenvolvimento económico do País.\n\nNeste sentido, após a criação do Ministério do Ambiente e Recursos Naturais, foi decidido instituir em cada ministério um núcleo de estudos ambientais e desenvolver os trabalhos de preparação do Plano Nacional de Política do Ambiente.\n\nCriadas que estão as estruturas sectoriais responsáveis pelo acompanhamento em cada ministério das questões relativas ao ambiente e definidas as linhas mestras da política nacional de ambiente, considera-se ser o momento adequado para promover a criação e instalação de uma Comissão Consultiva do Ambiente.\n\nTratar-se-á de um órgão de consulta do Ministro do Ambiente e Recursos Naturais, responsável pela compatibilização das políticas do ambiente com as restantes políticas departamentais.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea d) do artigo 202.º da Constituição, o Governo resolveu:\n\n1 - É criada a Comissão Consultiva do Ambiente (CCA), órgão de consulta do Ministro do Ambiente e Recursos Naturais, para efeitos da apreciação e concertação das políticas e actividades do respectivo ministério.\n\n2 - A CCA é um órgão em que estão representados os interesses sectoriais, no domínio da protecção e melhoria do ambiente, bem como entidades cuja competência ou actuação seja relevante naquele domínio.\n\n3 - São membros da CCA:\n\na) O Ministro do Ambiente e Recursos Naturais, que preside;\n\nb) Um representante designado por cada um dos seguintes ministros: Ministro da Defesa Nacional, Ministro da Administração Interna, Ministro das Finanças, Ministro do Planeamento e da Administração do Território, Ministro da Justiça, Ministro dos Negócios Estrangeiros, Ministro da Agricultura, Ministro da Indústria e Energia, Ministro da Educação, Ministro das Obras Públicas, Transportes e Comunicações, Ministro da Saúde, Ministro do Emprego e da Segurança Social, Ministro do Comércio e Turismo, Ministro do Ambiente e Recursos Naturais, Ministro do Mar e Ministro Adjunto;\n\nc) O secretário-geral do Ministério do Ambiente e Recursos Naturais, que é, por inerência de funções, o secretário da CCA;\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 34/92](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-1992-239246), publicado em 1992-09-12.\n\nd) Um representante de cada uma das regiões autónomas, designado pelo respectivo governo regional.\n\n4 - O presidente da CCA pode convidar a fazerem-se representar nas reuniões da Comissão quaisquer entidades ou personalidades, a título de observadores, cuja participação seja considerada conveniente, em função da ordem de trabalhos das respectivas reuniões.\n\n5 - Incumbe à CCA pronunciar-se, mediante solicitação do Ministro do Ambiente e Recursos Naturais, sobre:\n\na) Os princípios e objectivos em que deve assentar a definição das políticas do respectivo ministério;\n\nb) O faseamento e a evolução dos planos, programas e recursos financeiros, no que se refere à actividade do Ministério do Ambiente e Recursos Naturais;\n\nc) As medidas legislativas, institucionais e estruturais necessárias à execução das políticas do ministério;\n\nd) A orientação geral dos critérios de avaliação dos resultados das actividades desenvolvidas;\n\ne) As linhas gerais das acções de cooperação externa, no âmbito do ministério;\n\nf) A orientação geral a imprimir aos planos de investigação e desenvolvimento no âmbito das actividades do ministério;\n\ng) Os planos de produção de indicadores estatísticos nas área de intervenção do ministério;\n\nh) Outros assuntos que lhe sejam apresentados pelo seu presidente.\n\n6 - A CCA elaborará o seu próprio regimento, o qual será aprovado por despacho do Ministro do Ambiente e Recursos Naturais.\n\n7 - A CCA reunirá em sessão plenária, ordinariamente, uma vez em cada trimestre e, extraordinariamente, sempre que o seu presidente a convoque.\n\n8 - O secretariado da CCA será assegurado pela Secretaria-Geral do Ministério do Ambiente e Recursos Naturais.\n\nPresidência do Conselho de Ministros, 17 de Janeiro de 1991. - O Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

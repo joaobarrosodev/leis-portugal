@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-06-30'
+version_history:
+  file: portaria-678-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-06-30'
+    amending: pt:dre:393027:por
+    amending_title: Portaria n.º 464/99
+    changes:
+    - Altera Artigo unidades 7-10
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/678/1995/06/28/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:08:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 464/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-678-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,17 +156,21 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos nas freguesias de Rio Frio e Outeiro, município de Bragança, com uma área de 7590 ha.
 
-2.º - 1 - Pelo presente diploma é concessionada por tempo indeterminado ao Instituto Florestal a zona de caça social do Sabor (processo n.º 1743 do Instituto Florestal).
+2.º - 1 - A administração da zona de caça social do Sabor, criada por tempo indeterminado pela [Portaria n.º 678/95](https://diariodarepublica.pt/dr/detalhe/portaria/678-1995-475772), de 28 de Junho, é atribuída à Direcção Regional de Agricultura de Trás-os-Montes, sendo a sua gestão assegurada por uma comissão, designada por comissão de gestão da zona de caça social do Sabor, criada por protocolo celebrado em 15 de Junho de 1998 e homologado por despacho do Secretário de Estado da Agricultura e do Desenvolvimento Rural em 31 de Julho de 1998.
 
-2 - Nos termos do n.º 3 do artigo 67.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro, a gestão será efectuada em conjunto com a Câmara Municipal de Bragança e Juntas de Freguesia de Rio Frio e Outeiro, com as quais será celebrado o necessário acordo.
+2 - A comissão de gestão referida no número anterior integra um representante da Direcção Regional de Agricultura de Trás-os-Montes, que preside, um representante da Câmara Municipal de Bragança, um representante da Associação de Caça e Pesca do Sabor, um representante das juntas de freguesia que abrangem os terrenos integrados na zona de caça e um representante dos gestores dos terrenos abrangidos pela zona de caça social do Sabor.
 
-3.º A entidade gestora fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
+3.º A comissão de gestão fica obrigada a cumprir e fazer cumprir o plano de ordenamento e exploração cinegético e as disposições legais e regulamentares do exercício da caça, sem prejuízo da responsabilidade pessoal dos infractores.
 
-4.º Nesta zona de caça o acesso dos caçadores será feito por inscrição prévia e sorteio público ou outra forma que garanta a igualdade de acessibilidade, sendo reservada uma parte das admissões para caçadores com residência registada na carta de caçador nas autarquias envolvidas.
+4.º O acesso dos caçadores a esta zona de caça, bem como as demais regras de funcionamento da mesma, obedecem ao disposto na [Portaria n.º 893/98](https://diariodarepublica.pt/dr/detalhe/portaria/893-1998-235558), de 10 de Outubro.
+
+> Alterado pelo/a [Portaria n.º 464/99](https://diariodarepublica.pt/dr/detalhe/portaria/464-1999-393027), publicado em 1999-06-25.
 
 5.º A linha perimetral desta zona de caça é obrigatoriamente sinalizada com tabuletas do modelo n.º 2 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, sendo aplicável em conjunto o disposto neste diploma legal e na [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.
 
-6.º Os prédios rústicos que integram esta zona de caça, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se o concessionário a manter quatro guardas florestais auxiliares dotados de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).
+6.º Os prédios que integram esta zona de caça consideram-se submetidos ao regime florestal, para efeitos de policiamento e fiscalização, obrigando-se a comissão de gestão referida no n.º 2.º, através da Associação de Caça e Pesca do Sabor, a requerer a nomeação de guardas florestais auxiliares se necessários para complemento da fiscalização efectuada por elementos do Corpo Nacional da Guarda Florestal.
+
+> Alterado pelo/a [Portaria n.º 464/99](https://diariodarepublica.pt/dr/detalhe/portaria/464-1999-393027), publicado em 1999-06-25.
 
 7.º As demais regras de funcionamento desta zona de caça social, após aprovação por despacho do Ministro da Agricultura, serão publicadas em edital do Instituto Florestal.
 

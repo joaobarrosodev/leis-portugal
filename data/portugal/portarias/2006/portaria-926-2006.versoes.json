@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:539988:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2006-09-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2ab78a1ada9f6fa0"
+   ]
+  },
+  {
+   "date": "2007-06-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:639088:por",
+     "title": "Portaria n.º 697/2007",
+     "published": "2007-06-08",
+     "dre_path": "/dr/detalhe/portaria/697-2007-639088"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "f185b3cb73b76dad"
+   ]
+  }
+ ],
+ "fragments": {
+  "2ab78a1ada9f6fa0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Setembro\n\nCom fundamento no disposto no artigo 26.º, no n.º 1 do artigo 118.º e no n.º 2 do artigo 164.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro;\n\nOuvido o Conselho Cinegético Municipal da Figueira da Foz:\n\nManda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Quiaios (processo n.º 4147-DGRF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caçadores e Pescadores da Freguesia de Quiaios, com sede em Quiaios CCI 103, 3080-558 Figueira da Foz.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Quiaios, Buarcos e Bom Sucesso, município da Figueira da Foz, com a área de 2881 ha.\n\n3.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 55% relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;\n\nb) 15% relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;\n\nc) 15% relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;\n\nd) 15% aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria são divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão.\n\n6.º A zona de caça criada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.\n\nPelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 22 de Agosto de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 27 de Junho de 2006.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17300/66376637.pdf)"
+  },
+  "f185b3cb73b76dad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2007-06-13",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 697/2007](https://diariodarepublica.pt/dr/detalhe/portaria/697-2007-639088), publicado em 2007-06-08."
+   ],
+   "markdown": "de 7 de Setembro\n\nCom fundamento no disposto no artigo 26.º, no n.º 1 do artigo 118.º e no n.º 2 do artigo 164.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro;\n\nOuvido o Conselho Cinegético Municipal da Figueira da Foz:\n\nManda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Quiaios (processo n.º 4147-DGRF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caçadores e Pescadores da Freguesia de Quiaios, com sede em Quiaios CCI 103, 3080-558 Figueira da Foz.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos nas freguesias de Quiaios, Buarco e Bom Sucesso, município da Figueira da Foz, com a área de 2810 ha.\n\n> Alterado pelo/a [Portaria n.º 697/2007](https://diariodarepublica.pt/dr/detalhe/portaria/697-2007-639088), publicado em 2007-06-08.\n\n3.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 55% relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;\n\nb) 15% relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;\n\nc) 15% relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;\n\nd) 15% aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria são divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão.\n\n6.º A zona de caça criada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.\n\nPelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 22 de Agosto de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 27 de Junho de 2006.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17300/66376637.pdf)"
+  }
+ }
+}
