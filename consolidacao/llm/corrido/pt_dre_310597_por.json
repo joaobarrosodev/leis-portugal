@@ -1,0 +1,38 @@
+{
+  "id": "pt:dre:310597:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "1 - Os preços de aquisição do milho da produção nacional a praticar pela Empresa Pública de Abastecimento de Cereais - EPAC na campanha de 1983 são fixados em 22$50 kg para os milhos brancos e 23$00/kg para os milhos amarelos, e aplicam-se ao cereal que se apresente são, isentos de cheiros estranhos e de predadores vivos, com coloração própria e mais as seguintes características para a qualidade tipo:",
+      "alterador": 1
+    },
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "2) Outras 1%.",
+      "alterador": 1
+    },
+    {
+      "de": 44,
+      "ate": 44,
+      "texto": "10 - A Empresa Pública de Abastecimento de Cereais - EPAC adquirirá ao preço de 21$70/kg o sorgo da produção nacional da campanha de 1983 que se encontre são, isento de cheiros estranhos e de predadores vivos, com coloração própria e mais as seguintes características:",
+      "alterador": 1
+    },
+    {
+      "de": 45,
+      "ate": 45,
+      "texto": "Humidade - máximo 14%",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1; substituídas a unidade 13 (corpo) e a 20 ('2) Outras 1%.'), as unidades 14 a 19 ficam iguais.",
+    "Alterador 1, 2.º: nova redação do n.º 10; substituídas a unidade 44 e a 45 ('Humidade - máximo 14%'), as unidades 46 a 49 ficam iguais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

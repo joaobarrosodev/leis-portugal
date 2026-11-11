@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:324347:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19200/21172117.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19200/21172117.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "As tabelas novas só vêm em imagem (PDF); substituíram-se só as referências às tabelas A e B. O alterador 2 é o mesmo diploma (Portaria 455/86) repetido, sem mudança adicional.",
+  "instrucoes": [
+    "1.º da Portaria 455/86 (alterador 1): substitui as tabelas do anexo; os títulos (12, 13, 15, 16) ficam iguais; troquei as referências das tabelas A (14) e B (17).",
+    "2.º da Portaria 455/86 (efeitos) sem efeito no texto.",
+    "Alterador 2: duplicado do alterador 1; nada mais a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

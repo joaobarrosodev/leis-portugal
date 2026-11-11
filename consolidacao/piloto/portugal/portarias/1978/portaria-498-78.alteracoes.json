@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/20000/17471750.pdf)",
+    "depois": "Chefe de divisão - Letra E, número de lugares - 14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:330180:por",
+    "alterador": "pt:dre:666315:por"
+  },
+  {
+    "artigo": "unidades 14-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/20000/17471750.pdf)",
+    "depois": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22201/00030004.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:330180:por",
+    "alterador": "pt:dre:666315:por"
+  }
+]

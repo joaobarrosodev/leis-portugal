@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:337264:por",
+  "substituicoes": [
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/200b00/55525553.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O conteúdo do novo anexo (plano de estudos) só vem em imagem no alterador 1; substituída apenas a ligação para o novo quadro, mantendo os títulos do anexo, que são iguais.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: o anexo passa a ter a redação do anexo da Portaria n.º 1045/2001; os títulos (unidades 28-30) são iguais e a unidade 31 foi substituída pela ligação ao novo quadro, que só existe em imagem.",
+    "Alterador 1, n.º 2.º: produção de efeitos retroativa - não é alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

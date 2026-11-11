@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 20-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Cooperativa de motoristas profissionais inscritos no Sindicato dos Motoristas do Distrito de Coimbra como sócios efectivos.",
+    "depois": "2.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:336299:por",
+    "alterador": "pt:dre:307603:por"
+  }
+]

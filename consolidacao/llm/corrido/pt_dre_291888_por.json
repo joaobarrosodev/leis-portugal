@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:291888:por",
+  "substituicoes": [
+    {
+      "de": 26,
+      "ate": 33,
+      "texto": "Grau de bacharel\n\n1.º ciclo\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)\n\nGrau de licenciado\n\n2.º ciclo\n\nRamo de Finanças Empresariais\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)\n\nRamo de Fiscalidade\n\nQUADRO N.º 5\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)\n\nRamo de Instituições e Mercados Financeiros\n\nQUADRO N.º 6\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 10,
+      "texto": "1.º-A\n\nUnidades curriculares de opção\n\nO elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n1.º-B\n\nDuração do semestre lectivo\n\nO número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, 1.º: o desdobramento do 2.º ciclo em três ramos não dá nova redação a nenhum ponto do original (só se reflete no anexo); o conteúdo dos quadros do novo anexo só vem em imagem, aplicou-se a estrutura textual e as ligações.",
+  "instrucoes": [
+    "Alterador 1, 1.º: 2.º ciclo desdobra-se em três ramos -> sem redação para o original, não aplicado como texto.",
+    "Alterador 1, 2.º: o anexo passa a ter a redação do anexo da Portaria n.º 892/2002 -> substituídas as unidades 26 a 33 (mantidos o cabeçalho 24 e a linha 25, iguais).",
+    "Alterador 1, 3.º: aditados os n.os 1.º-A e 1.º-B -> inseridos depois da unidade 10 (fim do n.º 1.º).",
+    "Alterador 1, 4.º e 5.º: transição e aplicação -> autónomas, nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:317524:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 46/2001 altera o quadro n.º 5 do anexo, que só vem em imagem (unidade 23 e anexo do alterador); a alteração não é textual.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do quadro n.º 5 do anexo - não aplicado, quadro só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

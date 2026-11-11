@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:336531:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "Considerando a competência atribuída ao Conselho de Ministros pelo artigo 7.º do [Decreto-Lei n.º 105/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1993-682991), de 7 de Abril:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Retificação do 4.º parágrafo do preâmbulo: 'pelo artigo 12.º' passa a 'pelo artigo 7.º' do DL 105/93; substituída a unidade 5."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

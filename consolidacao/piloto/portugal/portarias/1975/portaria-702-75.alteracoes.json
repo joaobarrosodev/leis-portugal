@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 33-33",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1) Ter o curso de encarregado de câmara escura;",
+    "depois": "1) Ter o curso de encarregado de câmara escura ou experiência comprovada da profissão;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:309493:por",
+    "alterador": "pt:dre:429850:por"
+  }
+]

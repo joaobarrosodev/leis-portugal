@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:291627:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Cebolais de Cima e Perais, municípios de Castelo Branco e Vila Velha de Ródão, com a área de 1486,4470 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 a 7 não dão nova redação ao texto: o 2 substitui a planta (só em imagem), o 3 e o 6 anexam prédios e mudam a área sem reformular o n.º 1.º, o 4 suspende a caça, o 5 e o 7 renovam a concessão com nova área; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º -> substituída a unidade 6.",
+    "Alterador 1, 1.º: aditado o n.º 1.º-A -> inserido depois da unidade 6.",
+    "Alterador 2: substituição da planta anexa (imagem) -> não aplicado.",
+    "Alterador 3: anexação de prédios, área total 1745,71 ha, área condicionada -> não textual, não aplicado.",
+    "Alterador 4: suspensão do exercício da caça -> não textual, não aplicado.",
+    "Alterador 5: renovação por seis anos com área de 1405 ha -> não textual, não aplicado.",
+    "Alterador 6: anexação de prédios, área total 1574 ha -> não textual, não aplicado.",
+    "Alterador 7: renovação por seis anos (1574 ha) -> não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

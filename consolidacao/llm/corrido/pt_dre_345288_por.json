@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:345288:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação (acrescentar «Cap. 05, div. 04 - » antes de «Direcção-Geral dos Serviços Tutelares de Menores», p. 4077) incide sobre o mapa de transferências, que só existe em imagem (unidade 3); o texto não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retificação na p. 4077 do mapa em imagem; não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

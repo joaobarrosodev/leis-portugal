@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:309493:por",
+  "substituicoes": [
+    {
+      "de": 33,
+      "ate": 33,
+      "texto": "1) Ter o curso de encarregado de câmara escura ou experiência comprovada da profissão;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redacção da alínea b) do n.º 4 do n.º 2.º (epígrafe igual, n.º 1) alterado, n.º 2) mantido); substituída a unidade 33."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

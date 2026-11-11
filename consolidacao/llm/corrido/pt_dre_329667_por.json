@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:329667:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 13,
+      "texto": "5.º Em anexo se publica o protocolo financeiro estabelecido em 21 de Julho de 1978 entre a Companhia Carris de Ferro de Lisboa, S. A. R. L., e as instituições de crédito nacionais suas credoras, que constitui parte integrante da presente portaria.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "O texto do protocolo financeiro vem publicado em anexo à Portaria n.º 410/79 e o seu anexo I só existe em imagem; não foi acrescentado como anexo do original.",
+  "instrucoes": [
+    "Alterador 1: aditado o ponto 5.º, inserido depois do 4.º (unidade 13), antes da assinatura."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

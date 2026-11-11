@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:305050:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "Manda o Governo, pelo Secretário de Estado da Cultura, sob parecer dos serviços competentes, que, de acordo com o disposto na alínea a) do artigo 9.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, no n.º 2 do artigo 22.º da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho, e no n.º 1 do artigo 4.º do [Decreto-Lei n.º 216/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1990-575493), de 3 de Junho, seja fixado, conforme a planta anexa a esta portaria, o perímetro da zona especial de protecção da Estação Arqueológica de Chões de Alpompé, freguesia de Vale de Figueira, concelho de Santarém, classificada como imóvel de interesse público pelo [Decreto-Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1982-600772), de 26 de Fevereiro.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: rectifica «Chões de Alpombé» para «Chões de Alpompé» no sumário e no texto; aplicada na unidade 3 (o sumário não está no texto)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

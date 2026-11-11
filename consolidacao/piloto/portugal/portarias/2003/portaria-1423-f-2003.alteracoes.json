@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Os operadores ficam obrigados a comunicar à Direcção-Geral de Geologia e Energia (DGGE) semanalmente, até às 12 horas de cada sexta-feira, o preço médio semanal de venda praticado para cada produto, por concelho, por posto e por tipo de posto. Deverão também ser comunicadas à DGGE as vendas anuais desses produtos, por concelho, por posto e por tipo de posto.",
+    "depois": "2.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:302508:por",
+    "alterador": "pt:dre:443909:por"
+  }
+]

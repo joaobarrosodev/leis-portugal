@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:321302:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º, n.º 2, da Portaria n.º 1513/2002 dá nova redação ao anexo, mas os planos de estudos do novo anexo (quadros n.os 1 a 10) só vêm em imagem; não aplicado. O n.º 1.º, n.º 1 (o 2.º ciclo deixa de se desdobrar em ramos) não é alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º, n.º 1: 2.º ciclo deixa de se desdobrar em ramos — não textual (refere o curso criado pela Portaria n.º 495/99), não aplicado",
+    "Alterador 1, n.º 1.º, n.º 2: anexo passa a ter a redação do anexo da Portaria n.º 1513/2002 — quadros só em imagem, não aplicado",
+    "Alterador 1, n.os 2.º e 3.º: transição e aplicação, normas próprias do alterador, sem alteração ao texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A planta de ordenamento não foi, por lapso, publicada antes do Regulamento do Plano, pelo que se procede agora à sua publicação:",
+    "depois": "O anexo a que se refere a alínea a) do texto da resolução, constituído por um extracto da planta de ordenamento, não foi, por lapso, publicado antes do Regulamento do Plano, pelo que se procede agora à sua publicação:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:296015:por",
+    "alterador": "pt:dre:188556:por"
+  }
+]

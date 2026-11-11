@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:300004:por",
+  "substituicoes": [
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "Pelo Ministro das Finanças, Fernando Manuel dos Santos Vigário Pacheco, Secretário de Estado do Orçamento. - O Ministro da Educação, Guilherme d'Oliveira Martins.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação nas assinaturas (unidade 27) - trocado «Pelo Ministro da Educação, Joaquim Manuel dos Santos Vigário Pacheco,» por «Pelo Ministro das Finanças, Fernando Manuel dos Santos Vigário Pacheco,»."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

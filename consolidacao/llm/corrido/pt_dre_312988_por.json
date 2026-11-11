@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:312988:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 228/84 substitui as tabelas A e B do anexo, que só vêm em imagem ('ver documento original'); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição das tabelas de retribuição do anexo; tabelas só em imagem, não aplicado.",
+    "Alterador 1, 2.º: produção de efeitos; não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

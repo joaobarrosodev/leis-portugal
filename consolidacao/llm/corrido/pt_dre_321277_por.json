@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:321277:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 7-AC/2000 retifica o quadro n.º 3 do mapa I (Perspectivas de Enfermagem III - semestre), que só existe em imagem no texto atual; não aplicado.",
+  "instrucoes": [
+    "Alterador 1: retificação no quadro n.º 3 do mapa I (anexo I) — quadro só em imagem, texto a corrigir não existe no texto atual, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

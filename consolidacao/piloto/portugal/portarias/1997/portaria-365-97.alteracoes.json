@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O modelo de certificado de atribuição de medalhas a dadores tem as dimensões de 240 mm/355 mm, com esquadria inferior a negro, e em relevo, no medalhão central, o cunho da medalha do dador.»",
+    "depois": "O modelo de certificado de atribuição de medalhas a dadores tem as dimensões de 240 mm/355 mm, com esquadria interior a dourado, e em relevo, no medalhão central, o cunho da medalha do dador.»",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:351704:por",
+    "alterador": "pt:dre:403285:por"
+  }
+]

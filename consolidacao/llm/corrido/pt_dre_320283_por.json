@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:320283:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 830/2000 altera o quadro n.º 1 do anexo I, que só vem em imagem (unidade 25 agrupa os quadros num único link); a alteração não é textual.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do quadro n.º 1 do anexo I - não aplicado, quadro só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

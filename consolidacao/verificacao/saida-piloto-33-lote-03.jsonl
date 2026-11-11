@@ -1,0 +1,40 @@
+{"id": "pt:dre:307259:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "1.º da Portaria 168/93: nova alínea b), antiga b) passa a c), aditado o n.º 3.º-A; reproduzido letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:307259:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:309493:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Nova redacção do ponto 1) da alínea b) do parágrafo 4 aplicada; o ponto 2) fica igual ('...').", "texto_esperado": ""}
+{"id": "pt:dre:309493:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:310597:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 1 substituído pela redacção do 1.º do Despacho 192/83, incluindo preços 22$50/23$00.", "texto_esperado": ""}
+{"id": "pt:dre:310597:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "'2) Outras 1%.' é a grafia do próprio diploma que altera, que substitui o n.º 1 inteiro.", "texto_esperado": ""}
+{"id": "pt:dre:310597:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "n.º 10 substituído pela redacção do 2.º (21$70/kg, 'da produção nacional', 'Humidade - máximo 14%' sem ponto e vírgula, como no alterador).", "texto_esperado": ""}
+{"id": "pt:dre:310597:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:311604:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Corpo do artigo 12.º substituído pela nova redacção; epígrafe mantida (igual ao original).", "texto_esperado": ""}
+{"id": "pt:dre:311604:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:312604:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 1.º substituído pela redacção da Portaria 943/84, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:312604:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:319893:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "A Portaria 269/2006 substitui o número 'Regulamento' (9.º) pelo texto único entre aspas; os n.os 1 a 4 originais desaparecem. Depende do anexo da 269/2006 (tabela em PDF, não visível) incluir a Portaria 77/2001; assumido que sim.", "texto_esperado": ""}
+{"id": "pt:dre:319893:por", "instrucoes_em_falta": ["Portaria 1284/2001, 1.º: o plano de estudos (anexo da Portaria 77/2001, quadros 1 e 2) passa a ser o do anexo da 1284/2001; o consolidado manteve o anexo original (ligação ao PDF de 2001/02/032b00/06490651 em vez de 2001/11/265b00/73017302)."], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "O anexo (quadros n.os 1 e 2) devia ter sido substituído pelo da Portaria 1284/2001 e ficou igual ao original."}
+{"id": "pt:dre:321354:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Anexo substituído: 'Curso de Desporto, variante de Treino Desportivo'.", "texto_esperado": ""}
+{"id": "pt:dre:321354:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Quadros n.os 1 a 3 do novo anexo (1.º ciclo) reproduzidos.", "texto_esperado": ""}
+{"id": "pt:dre:321354:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Quadro n.º 4 (2.º ciclo, 1.º ano) do novo anexo reproduzido.", "texto_esperado": ""}
+{"id": "pt:dre:321354:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:321562:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Anexo substituído pelo da Portaria 1315/2003 (Curso de Engenharia Química, quadros 1 a 5), igual ao alterador.", "texto_esperado": ""}
+{"id": "pt:dre:321562:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:321570:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Anexo substituído pelo da Portaria 1416/2003 (quadros 1 a 14, ramos de Produção e de Térmicas), igual ao alterador.", "texto_esperado": ""}
+{"id": "pt:dre:321570:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:321944:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "'Curso de Contabilidade e Administração' vem do novo anexo.", "texto_esperado": ""}
+{"id": "pt:dre:321944:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Quadros n.os 1 a 6 do novo anexo reproduzidos.", "texto_esperado": ""}
+{"id": "pt:dre:321944:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Quadros n.os 7 e 8 do novo anexo reproduzidos.", "texto_esperado": ""}
+{"id": "pt:dre:321944:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:321952:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Aditamento do n.º 1.º-A (3.º da 1301/2003) copiado letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:321952:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Anexo substituído pelo anexo da 1301/2003 (2.º); quadros e títulos conferem.", "texto_esperado": ""}
+{"id": "pt:dre:321952:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:323953:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º «Regulamento» (9.º) substituído pela redação da Portaria 269/2006; o anexo desta é uma tabela não visível, mas a epígrafe e o regime correspondem.", "texto_esperado": ""}
+{"id": "pt:dre:323953:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Anexo substituído pelo da Portaria 955/2005 (1.º).", "texto_esperado": ""}
+{"id": "pt:dre:323953:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:323960:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Alíneas a) e b) do n.º 5.º conforme a Portaria 1259/2009; c) mantida (reticências).", "texto_esperado": ""}
+{"id": "pt:dre:323960:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "N.os 6.º e 7.º conforme a Portaria 1259/2009, com alíneas a) e b).", "texto_esperado": ""}
+{"id": "pt:dre:323960:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:324347:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Tabela A substituída pelo anexo da Portaria 455/86 (1.º).", "texto_esperado": ""}
+{"id": "pt:dre:324347:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Tabela B substituída pelo anexo da Portaria 455/86 (1.º).", "texto_esperado": ""}
+{"id": "pt:dre:324347:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:324373:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 2.º com a nova redação da Portaria 1462/2004 (máximo, 60).", "texto_esperado": ""}
+{"id": "pt:dre:324373:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}

@@ -562,3 +562,7 @@ Mais 120 diplomas (`llm/corrido-ids-bloco14.txt`, de 1 217 candidatos; 43 saltad
 ### Bloco 15 (ronda 32)
 
 Mais 120 diplomas (`llm/corrido-ids-bloco15.txt`, de 1 097 candidatos; 44 saltados por tamanho). 50 sem alterações, 70 juntados, 0 recusados. Ronda 32: 70 verificados às cegas, **63 sem reparos: 52 % do bloco (90 % dos verificados)**. Acumulado das rondas 17 a 32: **782 em 1 720 (45 %)**. Ficam cerca de 980 candidatos. Nota: neste bloco o LLM tratou como "aplicáveis" várias trocas só das ligações de quadros que existem só em imagem; o verificador aceitou-as porque a ligação nova é a do alterador.
+
+### Bloco 16 (ronda 33)
+
+Mais 120 diplomas (`llm/corrido-ids-bloco16.txt`, de 977 candidatos; 45 saltados por tamanho). 53 sem alterações, 67 juntados, 0 recusados. Ronda 33: 67 verificados às cegas, **53 sem reparos: 44 % do bloco (79 % dos verificados)**. Acumulado das rondas 17 a 33: **835 em 1 840 (45 %)**. Ficam cerca de 860 candidatos, mais os cerca de 45 por bloco que são grandes demais para o pedido de 120 000 caracteres.

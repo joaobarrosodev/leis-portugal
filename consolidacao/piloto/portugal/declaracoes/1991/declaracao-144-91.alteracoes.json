@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "10.ª Delegação da Direcção-Geral da Contabilidade Pública. - A Directora, Maria Isabel Teixeira Freire Alves.",
+    "depois": "10.ª Delegação da Direcção-Geral da Contabilidade Pública, 11 de Setembro de 1991. - A Directora, Maria Isabel Teixeira Freire Alves.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:293350:por",
+    "alterador": "pt:dre:406727:por"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:302508:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "2.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo 11.º: revogação, a 1 de Junho de 2009, do n.º 2 — unidade 11 substituída por '2.º - (Revogado.)'.",
+    "Alterador 1, artigo 10.º, n.º 2: norma transitória que remete para o n.º 2 do original, sem alteração textual; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:311987:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O texto do alterador (Decreto-Lei n.º 583/73) veio vazio no pedido; não há instrução que se possa aplicar.",
+  "instrucoes": [
+    "Alterador 1: sem texto no pedido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

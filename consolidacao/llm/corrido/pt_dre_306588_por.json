@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:306588:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 18,
+      "texto": "1 - O número de novos alunos a admitir anualmente não pode exceder 80.\n\n2 - A frequência global do curso não pode exceder 320 alunos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 2 do Único da Portaria n.º 597/99 substitui o quadro n.º 1 do anexo, que só vem em imagem (no original e no alterador); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redacção do n.º 3.º (80 novos alunos, 320 de frequência global); substituídas as unidades 17 e 18 (número e epígrafe iguais).",
+    "Alterador 1, n.º 2: novo quadro n.º 1 do anexo; não aplicado por estar só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

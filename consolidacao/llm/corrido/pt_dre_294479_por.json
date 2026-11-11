@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:294479:por",
+  "substituicoes": [
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "5.º Mediante autorização superior e quando se justifique, poderá o pessoal técnico da Repartição Provincial dos Serviços de Agricultura, Florestas e Veterinária colaborar no estudo e execução de tarefas respeitantes ao programa de trabalhos da Brigada Técnica de Fomento Agrário, nas condições do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, com as alterações introduzidas pelo [Decreto n.º 220/72](https://diariodarepublica.pt/dr/detalhe/decreto/220-1972-673844), de 27 de Junho.",
+      "alterador": 1
+    },
+    {
+      "de": 54,
+      "ate": 55,
+      "texto": "12.º As condições de admissão e prestação de serviço do pessoal da Brigada serão as definidas no [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), com as alterações introduzidas pelo [Decreto n.º 220/72](https://diariodarepublica.pt/dr/detalhe/decreto/220-1972-673844).\n\n13.º É conferida delegação ao Governador da província para cumprimento do disposto nos artigos 7.º, 8.º e 9.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), com as alterações introduzidas pelo [Decreto n.º 220/72](https://diariodarepublica.pt/dr/detalhe/decreto/220-1972-673844).",
+      "alterador": 1
+    },
+    {
+      "de": 81,
+      "ate": 81,
+      "texto": "20.º A admissão do pessoal far-se-á nos termos do [Decreto-Lei n.º 39677](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39677-1954-635429), de 24 de Maio de 1954, do Estatuto do Funcionalismo Ultramarino, do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415) e do [Decreto n.º 220/72](https://diariodarepublica.pt/dr/detalhe/decreto/220-1972-673844).",
+      "alterador": 1
+    },
+    {
+      "de": 84,
+      "ate": 85,
+      "texto": "23.º Além dos vencimentos referidos no artigo anterior, o pessoal dirigente, superior, técnico e auxiliar terá direito aos subsídios diário e de campo que sejam fixados na província.\n\n24.º O pessoal da Brigada terá direito aos abonos legais em vigor na província de Cabo Verde para os funcionários de idêntica categoria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: o pessoal do quadro a que se refere o n.º 10.º passa a ser o do quadro anexo ao alterador, que só vem em imagem (ver documento original); a substituição do quadro anexo (unidades 89-90) não foi aplicada.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação dos n.os 5.º, 12.º, 13.º, 20.º, 23.º e 24.º; substituídas as unidades 29, 54-55, 81 e 84-85.",
+    "Alterador 1, 2.º, n.º 1: novo quadro de pessoal em imagem; não aplicado.",
+    "Alterador 1, 2.º, n.os 2 e 3: disposições próprias (contratação ocasional, transição de pessoal), não dirigidas ao texto do original; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

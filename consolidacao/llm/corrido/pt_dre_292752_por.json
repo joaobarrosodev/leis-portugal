@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:292752:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 8,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/10/24200/22242224.pdf)\n\n2 - No caso de a exploração se efectuar com cobrança automática das portagens dos veículos automóveis de passageiros, aos veículos da classe B serão aplicadas as taxas correspondentes à classe C.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação dos n.os 1 e 2; o corpo do n.º 1 (unidade 6) fica igual, a tabela (só em imagem) passa a remeter para o documento do alterador e o n.º 2 muda; substituídas as unidades 7 a 8."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:319893:por",
+  "substituicoes": [
+    {
+      "de": 39,
+      "ate": 42,
+      "texto": "O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1284/2001 substitui o plano de estudos do anexo (quadros n.os 1 e 2), que só vem em imagem; a alteração não é textual.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: novo plano de estudos (quadros n.os 1 e 2 do anexo) - não aplicado, quadros só em imagem.",
+    "Alterador 2, n.º 1.º: nova redação do número com a epígrafe Regulamento (9.º) - substituídos os n.os 1 a 4 (unidades 39 a 42) pelo texto único novo; epígrafe e numeração 9.º mantidas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

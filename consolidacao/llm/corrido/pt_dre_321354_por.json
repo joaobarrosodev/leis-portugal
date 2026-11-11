@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:321354:por",
+  "substituicoes": [
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "Curso de Desporto, variante de Treino Desportivo",
+      "alterador": 1
+    },
+    {
+      "de": 24,
+      "ate": 24,
+      "texto": "QUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "QUADRO N.º 4\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O conteúdo dos quadros do novo anexo só vem em imagem (PDF); substituíram-se os títulos e as referências aos quadros, copiadas do alterador.",
+  "instrucoes": [
+    "1.º da Portaria 839/2004: muda a denominação do curso para «Desporto, variante de Treino Desportivo»; não é alteração textual do 1.º do original (o nome novo entra pelo novo anexo).",
+    "2.º da Portaria 839/2004: novo anexo; substituí a linha do curso (21), os quadros do 1.º ciclo (24) e o quadro do 2.º ciclo (27); as unidades 19, 20, 22, 23, 25 e 26 ficam iguais.",
+    "3.º a 5.º da Portaria 839/2004 (transição, aplicação, vigência) são normas próprias, sem efeito no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 6-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Pelo presente diploma são criados 2 prémios para distinguir trabalhos de investigação no domínio do ambiente.\n\n2.º Estes prémios, a atribuir pela Secretaria de Estado do Ambiente, através da Direcção-Geral da Qualidade do Ambiente, terão o valor de 100000$00 e 50000$00, respectivamente.",
+    "depois": "1.º São criados 3 prémios para distinguir trabalhos de investigação no domínio do ambiente.\n\n2.º Os prémios referidos no número anterior, a atribuir pela Secretaria de Estado do Ambiente e dos Recursos Naturais, através da Direcção-Geral da Qualidade do Ambiente, terão o valor de 250000$00, 150000$00 e 100000$00, respectivamente.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:327126:por",
+    "alterador": "pt:dre:194247:por"
+  },
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º A comissão reunirá anualmente de 1 a 30 de Abril, para apreciar os trabalhos dos candidatos, sob convocação do presidente da comissão.",
+    "depois": "5.º A comissão mencionada no n.º 3.º reunirá anualmente, de 15 de Abril a 15 de Maio, para apreciar os trabalhos dos candidatos, sob convocação do respectivo presidente.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:327126:por",
+    "alterador": "pt:dre:194247:por"
+  }
+]

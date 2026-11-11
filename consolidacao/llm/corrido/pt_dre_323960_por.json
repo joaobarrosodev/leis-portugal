@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:323960:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 12,
+      "texto": "a) Cópia do bilhete de identidade ou de documento que permita a identificação civil do requerente;\n\nb) Uma fotografia recente a cores, tipo passe;",
+      "alterador": 1
+    },
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "6.º O título de identificação é válido pelo período de dois anos, carecendo de renovação.",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "7.º A renovação é concedida a requerimento do interessado, a apresentar no mês anterior ao termo de validade do título, sob pena de caducidade, devendo o requerimento ser instruído com os seguintes elementos:\n\na) Uma fotografia a cores, tipo passe, quando a fotografia anterior tenha sido entregue há mais de cinco anos;\n\nb) A declaração referida na alínea c) do n.º 5.º",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º da Portaria 1259/2009: nova redação do 5.º; o corpo (10) e a alínea c) (13, «c)...») ficam; substituí as alíneas a) e b) (11 e 12).",
+    "2.º da Portaria 1259/2009: nova redação do 6.º (14).",
+    "3.º da Portaria 1259/2009: nova redação do 7.º, com alíneas a) e b) novas (15)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

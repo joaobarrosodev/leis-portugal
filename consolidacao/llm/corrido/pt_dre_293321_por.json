@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:293321:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, artigo 1.º: extingue o Centro Hospitalar de Cascais por fusão com a ARSLVT, I. P.; não revoga nem altera o texto da portaria, não é alteração textual, não aplicado.",
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: extinção e fusão do Centro Hospitalar; não textual, não aplicado.",
+    "Alterador 1, artigos 2.º a 6.º: disposições próprias (sucessão, processo, pessoal, gestão, vigência), não dirigidas ao texto do original; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

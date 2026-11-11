@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:331988:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 12,
+      "texto": "2.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: novo plano de estudos (anexo), só em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos - não aplicado, anexo em imagem.",
+    "Alterador 1, 2.º: norma de aplicação própria, sem alteração ao texto.",
+    "Alterador 1, 3.º: revoga o n.º 2.º - unidades 10 a 12 substituídas por '2.º - (Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

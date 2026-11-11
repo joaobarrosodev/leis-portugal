@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:303874:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A rectificação (cap. 03, div. 13, col. «Classificação funcional», «2.03.0» por «8.10.0») incide sobre o mapa que só existe em imagem no documento original; não há texto correspondente nas unidades.",
+  "instrucoes": [
+    "Alterador 1: rectifica a classificação funcional no mapa de transferências; não aplicada porque o mapa só vem em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

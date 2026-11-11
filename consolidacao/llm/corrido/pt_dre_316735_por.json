@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:316735:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 324/2001 substitui os anexos I e II, cujos quadros de vagas só vêm em imagem (no original e no alterador); a alteração não é textual.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação dos anexos I e II (quadros de vagas) - não aplicado, quadros só em imagem; títulos e subtítulos dos anexos mantêm-se iguais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

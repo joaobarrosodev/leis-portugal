@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:303214:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "De acordo com o n.º 2 do artigo 8.º do referido Protocolo, este entrou em vigor para o Luxemburgo a 12 de Maio de 1992.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: rectificação do 2.º parágrafo (1989 para 1992); substituída a unidade 3."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

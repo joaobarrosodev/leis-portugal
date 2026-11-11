@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 40-41",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 20 - 1 - Os candidatos considerados aptos serão chamados, segundo a ordem por que forem graduados, para preencherem as vagas existentes e as que venham a abrir-se no período de um ano, a contar da publicação no Diário da República da lista referida no artigo anterior.\n\n2 - No fim desse período de um ano, o concurso prescreve, não tendo os candidatos considerados aptos e que até então não hajam sido chamados por inexistência de vagas, qualquer direito à ocupação das que posteriormente se vierem a dar.",
+    "depois": "Art. 20.º - 1 - Os candidatos considerados aptos serão chamados, segundo a ordem por que forem graduados, para preencherem as vagas existentes e as que venham a abrir-se no período de três anos a contar da publicação no Diário da República da lista referida no artigo anterior.\n\n2 - No fim desse período de três anos o concurso prescreve, não tendo os candidatos considerados aptos e que até então não hajam sido chamados por inexistência de vagas qualquer direito à ocupação das que posteriormente se vierem a dar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:298274:por",
+    "alterador": "pt:dre:579303:por"
+  }
+]

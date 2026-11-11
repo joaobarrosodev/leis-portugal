@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:319917:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 515/2004 dá nova redação ao anexo (plano de estudos, quadros n.os 1 a 6), que só vem em imagem; a alteração não é textual. Os n.os 2.º a 4.º do alterador são normas próprias, não alteram o texto do original.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do anexo (quadros n.os 1 a 6) - não aplicado, quadros só em imagem; títulos dos quadros iguais aos atuais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:291243:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º Fica sujeito à obrigatoriedade de indicação de preços a que se refere o artigo 10.º do [Decreto-Lei n.º 138/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1990-332222), de 26 de Abril, o custo do serviço telefónico cujo acesso é assegurado pelos empreendimentos turísticos, nomeadamente pelos estabelecimentos hoteleiros e similares dos hoteleiros.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a retificação do sumário não se aplica, porque o sumário não faz parte do texto por unidades.",
+  "instrucoes": [
+    "Alterador 1: retificação do sumário -> não aplicada (sumário ausente do texto).",
+    "Alterador 1: retificação do n.º 1.º (bem como nos -> nomeadamente pelos) -> substituída a unidade 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

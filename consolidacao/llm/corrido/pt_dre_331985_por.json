@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:331985:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o plano de estudos / anexo I passa a ter a redação do anexo da Portaria n.º 645/97, que só vem em imagem; não é alteração textual das unidades.",
+  "instrucoes": [
+    "Alterador 1, 1.º n.os 1 e 2: substituição do plano de estudos e do anexo I - não aplicado, anexo em imagem.",
+    "Alterador 1, 2.º: regras de transição próprias, sem alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

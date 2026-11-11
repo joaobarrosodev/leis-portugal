@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 20-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Curso: Engenharia Química\n\n1.º ciclo\n\nGrau: bacharel\n\n[(ver quadros n.os 1 a 3 no documento original)](https://files.diariodarepublica.pt/1s/1999/05/118b00/27662767.pdf)\n\n2.º ciclo\n\nGrau: licenciado\n\n[(ver quadros n.os 4 e 5 no documento original)](https://files.diariodarepublica.pt/1s/1999/05/118b00/27662767.pdf)",
+    "depois": "Curso de Engenharia Química\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)\n\n2.º ciclo - Grau de licenciado\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)\n\nQUADRO N.º 5\n\n2.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:321562:por",
+    "alterador": "pt:dre:437421:por"
+  }
+]

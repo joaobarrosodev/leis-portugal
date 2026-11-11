@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:296015:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "O anexo a que se refere a alínea a) do texto da resolução, constituído por um extracto da planta de ordenamento, não foi, por lapso, publicado antes do Regulamento do Plano, pelo que se procede agora à sua publicação:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação do parágrafo anterior à planta publicada (unidade 7) - substituído pelo texto que deve ler-se."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

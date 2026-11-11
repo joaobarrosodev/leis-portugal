@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:294946:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1): altera, conforme modelo anexo, o cartão de beneficiário (modelo A. D. S. E. 10) aprovado pela portaria; o modelo só existe em imagem no documento original e não há alteração textual a aplicar. O n.º 2) (manter em vigor os cartões já passados) não altera o texto.",
+  "instrucoes": [
+    "Alterador 1, 1): alteração do modelo do cartão de beneficiário conforme modelo anexo (imagem) - não aplicada, em nao_aplicavel.",
+    "Alterador 1, 2): mantém em vigor os cartões já passados - não é alteração textual, nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

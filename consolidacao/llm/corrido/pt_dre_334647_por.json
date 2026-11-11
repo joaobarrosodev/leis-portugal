@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:334647:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 197/94): extingue o IROMA (artigo 1.º) e determina que a comissão de reestruturação prevista no original passa a designar-se comissão liquidatária (artigo 2.º, n.º 1); são efeitos materiais, sem instrução de alteração textual do original, e não se reescreve o texto.",
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: extinção do IROMA — efeito material, não textual; não aplicado.",
+    "Alterador 1, artigo 2.º, n.º 1: mudança de designação da comissão de reestruturação para comissão liquidatária, sem mandar alterar o texto — não aplicado.",
+    "Alterador 1, restantes artigos (2.º, n.os 2 e 3, 3.º a 9.º): normas próprias, não dirigidas ao texto do original — nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

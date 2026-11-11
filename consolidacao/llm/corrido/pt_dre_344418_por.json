@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:344418:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação («Cap. 01 div. 02, subdiv. 03» passa a «Cap. 01 div. 03 - Gabinete do Secretário de Estado da Alimentação») incide sobre o mapa de transferências, que só existe em imagem (unidade 3); o texto não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retificação de uma linha do mapa de transferências - não aplicada, o mapa só vem em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

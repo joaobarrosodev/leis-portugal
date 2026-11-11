@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:305055:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 7.º da Portaria n.º 130/2001 revoga a Portaria n.º 911/91 «no que se refere aos serviços do registo predial e comercial de Guimarães»: revogação parcial por matéria, sem indicação das disposições, que atinge partes de vários pontos (1.º, 2.º, 3.º) também relativos a Vila Nova de Famalicão; não se aplica ao texto com segurança.",
+  "instrucoes": [
+    "Alterador 1, n.º 7.º: revogação parcial da portaria quanto a Guimarães; não aplicada por não ser textual nem identificar as unidades.",
+    "Alterador 1, n.os 1.º a 6.º: criam nova conservatória e fixam quadros e áreas próprias; não são alterações ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Alcorochel e Brogueira, município de Torres Novas, com uma área de 1765,5180 ha, e na freguesia de Azinhaga, município da Golegã, com uma área de 233,7080 ha, perfazendo uma área de 1999,2260 ha.",
+    "depois": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante na planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Alcorochel, Brogueira e Azinhaga, municípios de Torres Novas e Golegã, com a área de 1937,9333 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:294694:por",
+    "alterador": "pt:dre:204193:por"
+  },
+  {
+    "artigo": "depois da unidade 8",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:294694:por",
+    "alterador": "pt:dre:204193:por"
+  }
+]

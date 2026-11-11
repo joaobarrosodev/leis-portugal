@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 21-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Curso de Desporto, variante de Treino Desportivo de Alto Rendimento",
+    "depois": "Curso de Desporto, variante de Treino Desportivo",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:321354:por",
+    "alterador": "pt:dre:527577:por"
+  },
+  {
+    "artigo": "unidades 24-24",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/07/169b00/35653566.pdf)",
+    "depois": "QUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:321354:por",
+    "alterador": "pt:dre:527577:por"
+  },
+  {
+    "artigo": "unidades 27-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/169b00/35653566.pdf)",
+    "depois": "QUADRO N.º 4\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43714372.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:321354:por",
+    "alterador": "pt:dre:527577:por"
+  }
+]

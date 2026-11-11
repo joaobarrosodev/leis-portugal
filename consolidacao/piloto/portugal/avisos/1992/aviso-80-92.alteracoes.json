@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "De acordo com o n.º 2 do artigo 8.º do referido Protocolo, este entrou em vigor para o Luxemburgo a 12 de Maio de 1989.",
+    "depois": "De acordo com o n.º 2 do artigo 8.º do referido Protocolo, este entrou em vigor para o Luxemburgo a 12 de Maio de 1992.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:303214:por",
+    "alterador": "pt:dre:623462:por"
+  }
+]

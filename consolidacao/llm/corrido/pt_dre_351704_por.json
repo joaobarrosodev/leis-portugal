@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:351704:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "O modelo de certificado de atribuição de medalhas a dadores tem as dimensões de 240 mm/355 mm, com esquadria interior a dourado, e em relevo, no medalhão central, o cunho da medalha do dador.»",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação no n.º 2.º, «esquadria inferior a negro» passa a «esquadria interior a dourado»; substituída a unidade 16."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

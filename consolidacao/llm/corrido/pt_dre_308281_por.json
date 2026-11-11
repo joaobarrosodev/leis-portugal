@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:308281:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 477/83 substitui o quadro de pessoal constante do mapa anexo à Portaria n.º 124/83 por um novo mapa, que só vem em imagem; não há alteração textual aplicável às unidades.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: novo mapa do quadro de pessoal; não aplicado por estar só em imagem.",
+    "Alterador 1, n.º 2.º: regra própria sobre encargos, não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
