@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:160508:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "1.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "4.º - (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º fixa novos preços máximos do café-bebida e similares previstos no mapa anexo (balcão 3$50, mesas 4$50, esplanadas 6$00), mas não dá nova redação ao mapa e muda a sua estrutura (as notas a) e b) sobre a taxa de serviço ficam sem destino claro); não aplicado ao texto. Alterador 3 (Despacho) só mantém em vigor as características de peso do mapa — não textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novos preços máximos do mapa a que se refere o n.º 6.º — sem nova redação do mapa, não aplicado",
+    "Alterador 1, 2.º a 5.º: normas próprias, não dirigidas ao texto do original",
+    "Alterador 2, 24.º: revogados os n.os 1.º e 4.º — unidades 9 e 12 passam a (Revogado.)",
+    "Alterador 2, 19.º: remete para o mapa do n.º 2.º — não altera o original",
+    "Alterador 3, 3.º: mantém em vigor as características de peso — não textual, nada feito"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

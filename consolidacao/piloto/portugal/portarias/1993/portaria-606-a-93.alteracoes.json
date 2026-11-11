@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 55-55",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Aquisição de material de carga e transporte directamente ligados à actividade;",
+    "depois": "c) Aquisição de material de carga directamente ligado à actividade;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:646721:por",
+    "alterador": "pt:dre:496132:por;pt:dre:554077:por"
+  },
+  {
+    "artigo": "unidades 60-61",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Veículos de passageiros;\n\nc) Terrenos, sem prejuízo do disposto no número seguinte.",
+    "depois": "b) Terrenos, sem prejuízo do disposto no número seguinte.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:646721:por",
+    "alterador": "pt:dre:496132:por;pt:dre:554077:por"
+  },
+  {
+    "artigo": "depois da unidade 84",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "8.º-A\n\n1 - As comissões técnicas das Regiões Autónomas dos Açores e da Madeira são designadas pela comissão de selecção, mediante proposta dos respectivos Governos Regionais, ficando sediadas em local a designar por estes.\n\n2 - Os Governos Regionais dos Açores e da Madeira designarão o seu representante, com direito a voto, que participará na comissão de selecção sempre que estiverem em apreciação projectos a realizar nas respectivas Regiões Autónomas.\n\n3 - Os encargos decorrentes da aplicação do disposto nos números anteriores são suportados pelos orçamentos dos respectivos Governos Regionais.\n\n4 - O pagamento dos incentivos financeiros aos projectos a realizar nas Regiões Autónomas é efectuado pela Fundação da Juventude, mediante transferência para o órgão regional competente, que procederá ao pagamento à empresa promotora.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:646721:por",
+    "alterador": "pt:dre:496132:por;pt:dre:554077:por"
+  }
+]

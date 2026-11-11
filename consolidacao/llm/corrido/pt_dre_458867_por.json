@@ -1,0 +1,37 @@
+{
+  "id": "pt:dre:458867:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 17,
+      "texto": "1.º - (Revogado.)\n\n2.º - (Revogado.)\n\n3.º - (Revogado.)\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n6.º - (Revogado.)\n\n7.º - (Revogado.)\n\n8.º - (Revogado.)",
+      "alterador": 4
+    },
+    {
+      "de": 19,
+      "ate": 23,
+      "texto": "10.º - (Revogado.)\n\n11.º - (Revogado.)\n\n12.º - (Revogado.)\n\n13.º - (Revogado.)\n\n13.º-A - (Revogado.)\n\n14.º - (Revogado.)",
+      "alterador": 4
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "## ANEXO — (Revogado.)",
+      "alterador": 4
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 123-A/2002): 1.º mantém em vigor para 2002 os n.os 2.º e 5.º (sem alteração textual); 2.º revoga o n.º 3.º (unidade 12), depois abrangido pela revogação do alterador 4.",
+    "Alterador 2 (Portaria 184/2003): mantém em vigor para 2003 os n.os 2.º e 5.º: sem alteração textual.",
+    "Alterador 3 (Portaria 1423-A/2003): nova redação dos n.os 7.º, 8.º e 11.º e aditamento do n.º 13.º-A depois do 13.º; o 3.º mantém limitações para 2004 (sem alteração textual). Estas alterações ficam todas abrangidas pela revogação do alterador 4, por isso o resultado final é a revogação.",
+    "Alterador 4 (Portaria 251/2010, art. 8.º): revoga a Portaria 543-B/2001, na redação da 1423-A/2003, excepto o n.º 9.º: todos os números (1.º a 8.º, 10.º a 14.º, incluindo o 13.º-A) e o anexo ficam '(Revogado.)'; o n.º 9.º (unidade 18) mantém-se."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 19-23: parágrafo que não está no alterador nem no original: 13.º-A - (Revogado.)",
+    "substituição 25-25: troca que não está no alterador nem no original: «Revogado .» em ## ANEXO — (Revogado.)"
+  ]
+}

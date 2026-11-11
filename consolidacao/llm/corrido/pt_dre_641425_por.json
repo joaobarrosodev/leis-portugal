@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:641425:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Almeida, Malpartida e Junça, município de Almeida, com a área de 2739 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 428-F/97) suspende a exploração cinegética por 180 dias; não é alteração textual.",
+  "instrucoes": [
+    "Alt. 1: suspensão da exploração cinegética — não textual, não aplicada",
+    "Alt. 2, 1.º: nova redação do n.º 1.º (área de 2739 ha) — substituída a unidade 6, mantendo o número 1.º",
+    "Alt. 2: aditado n.º 1.º-A — inserido depois da unidade 6"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

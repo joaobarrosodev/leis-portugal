@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:166386:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 922/98), 1.º, e alterador 2 (Portaria n.º 723/2002), 2.º: o novo anexo (plano de estudos) só vem em imagem. Alterador 2, 1.º: a mudança de denominação do curso para Gestão Empresarial não é uma alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do anexo; só em imagem, não aplicado.",
+    "Alterador 2, 1.º: curso passa a designar-se Gestão Empresarial; não é alteração textual, não aplicado.",
+    "Alterador 2, 2.º: novo plano de estudos; só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

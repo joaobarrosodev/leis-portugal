@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:391440:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias da Azambuja, Vale Paraíso e Aveiras de Baixo, município da Azambuja, com a área de 1080,7970 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 9,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alt. 1 (1007/97) e alt. 3 (890/2002) suspendem a actividade cinegética, alt. 4 (1519/2002) renova a concessão e alts. 5 (1392/2003) e 6 (854/2008) anexam prédios: são actos autónomos, sem alteração textual do original; a nova planta do alt. 2 vem só em imagem.",
+  "instrucoes": [
+    "Alt. 1 (1007/97): suspensão da actividade cinegética por 180 dias - não textual, não aplicada.",
+    "Alt. 2 (1052/97): 1.º nova redação do n.º 1.º - unidade 9 substituída (mantido o número 1.º); aditamento do n.º 1-A - inserido depois da unidade 9; 2.º a 4.º são normas próprias.",
+    "Alt. 3 (890/2002): suspensão do exercício da caça - não textual.",
+    "Alt. 4 (1519/2002): renovação da concessão por 12 anos com nova área e planta - não textual.",
+    "Alt. 5 (1392/2003) e alt. 6 (854/2008): anexação de prédios rústicos - não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

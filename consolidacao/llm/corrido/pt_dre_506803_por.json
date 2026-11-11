@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:506803:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 3.º: extingue dois lugares de adido ou conselheiro junto dos organismos internacionais no quadro da Missão junto da ONU, sem dar nova redação ao n.º 1.º; a composição do texto não tem lugares com essa designação exata, pelo que não se pode alterar com segurança. Não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º e 2.º: lugares nas Missões junto da UNESCO e da OCDE — outros diplomas, ignorados.",
+    "Alterador 1, 3.º: extinção de dois lugares na Missão junto da ONU — sem nova redação, não aplicado.",
+    "Alterador 1, 4.º e 5.º: extinção de lugares de secretário privativo do quadro do pessoal especializado (Decreto-Lei n.º 133/85) — outro diploma, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

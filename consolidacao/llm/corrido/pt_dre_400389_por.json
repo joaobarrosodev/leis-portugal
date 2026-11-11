@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:400389:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: o quadro n.º 1 do anexo I passa a ter a redação do anexo, mas o quadro só vem em imagem; não aplicado. Alterador 1, 1.º: muda a designação do curso (Engenharia Técnica de Produção Agrária), não é instrução textual sobre o texto do original; não aplicado. Alterador 2, 3.º: revoga a Portaria n.º 1431/95 (alterada por esta) sob condição de findar o processo de transição; não é revogação textual deste diploma; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: alteração de designação do curso; não textual, não aplicada.",
+    "Alterador 1, 2.º: novo quadro n.º 1 do anexo I só em imagem; não aplicado.",
+    "Alterador 2, 1.º e 2.º: dirigem-se à Portaria n.º 495/99; ignorados.",
+    "Alterador 2, 3.º: revogação condicional da Portaria n.º 1431/95; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

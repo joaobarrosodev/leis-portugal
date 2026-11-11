@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:411864:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "3. (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 4: revoga o n.º 3 da norma II; unidade 20 fica (Revogado.). As restantes normas do alterador regulam a Caixa de Previdência dos Profissionais de Espectáculos ou revogam outro diploma; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 20-20: parágrafo que não está no alterador nem no original: 3. (Revogado.)"
+  ]
+}

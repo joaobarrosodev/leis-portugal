@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:649543:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Encarnação, município de Mafra, com a área de 1612,6890 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: o n.º 6.º passa a obrigar a manter apenas um guarda florestal auxiliar, mas sem nova redação textual; não aplicado ao texto. Alteradores 2 (suspensão da caça), 3 (renovação com nova área e planta) e 4 (anexação de prédios) não dão nova redação ao texto do original; plantas só em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º; substituída a unidade 6 mantendo o número 1.º",
+    "Alterador 1, 1.º: aditado o n.º 1.º-A; inserido depois da unidade 6",
+    "Alterador 1, 2.º: redução para um guarda no n.º 6.º sem texto novo; não aplicada",
+    "Alterador 2: suspensão do exercício da caça; não textual, ignorada",
+    "Alterador 3: renovação da concessão por 12 anos com área de 1344 ha; não textual, ignorada",
+    "Alterador 4: anexação de prédios; não textual, ignorada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

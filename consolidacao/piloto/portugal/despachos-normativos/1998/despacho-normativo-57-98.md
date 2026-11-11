@@ -1,0 +1,199 @@
+---
+id: pt:dre:444675:por
+title: Despacho Normativo n.º 57/98
+original: data/portugal/despachos-normativos/1998/despacho-normativo-57-98.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:663963:por
+    title: Despacho Normativo n.º 23-A/99
+    publication_date: '1999-04-28'
+---
+
+# Despacho Normativo n.º 57/98
+
+Considerando que o SIPESCA - Sistema de Incentivos à Pesca, regulamentado pelo [Despacho Normativo n.º 16-A/96](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-a-1996-338040), publicado no Diário da República, 1.ª série-B, n.º 95, de 22 de Abril de 1996, caducou em 31 de Dezembro de 1997;
+
+Considerando que é de grande utilidade manter este sistema de apoio como complemento das ajudas financeiras previstas no PROPESCA - Programa de Apoio ao Desenvolvimento Económico do Sector das Pescas para projectos de construção e modernização de embarcações, bem como outras acções pontuais e excepcionais que visem as comunidades piscatórias;
+
+Considerando a importância social e económica da denominada «pequena pesca local e costeira» e a necessidade de apoios à sua organização, direccionando os seus agentes no sentido de uma plena participação em mercados cada vez mais abertos e competitivos;
+
+Considerando ainda que é fundamental orientar-se o auxílio de modo a estimular a alteração de práticas que se revelam nocivas e a abertura de regimes de exploração toleráveis face aos recursos existentes;
+
+Considerando, por último, que o Orçamento do Estado para 1998, aprovado pela [Lei n.º 127-B/97](https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563), de 20 de Dezembro, contempla verbas do PIDDAC para projectos de racionalização da exploração pesqueira:
+
+Determino o seguinte:
+
+1 - É aprovado o novo Regulamento do SIPESCA - Sistema de Incentivos à Pesca para os anos de 1998 e 1999.
+
+2 - O Regulamento do SIPESCA - Sistema de Incentivos à Pesca, anexo ao presente despacho e que dele faz parte integrante, entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 30 de Julho de 1998. - O Secretário de Estado das Pescas, Marcelo de Sousa Vasconcelos.
+
+REGULAMENTO DO SIPESCA - SISTEMA DE INCENTIVOS À PESCA
+
+1.º
+
+Objectivos
+
+O SIPESCA tem como objectivos apoiar a pesca local e costeira através:
+
+a) De incentivos à construção, por substituição, de pequenas embarcações mais modernas, mais seguras e melhor equipadas, bem como a modernização de embarcações de pesca que visem a melhoria das condições de segurança, trabalho, acondicionamento e conservação de pescado a bordo;
+
+b) Do estímulo a uma maior competitividade económica ao nível das operações de pesca, sem aumento do esforço e apostando na qualidade do pescado e no uso de artes ou instrumentos de pesca mais selectivos e ambientalmente mais seguros;
+
+c) De acções que visem especificamente a contribuição para uma melhor organização e capacidade interventiva da pequena pesca e para a resolução de problemas pontuais de comunidades piscatórias e, bem assim, os que revistam um carácter excepcional.
+
+2.º
+
+Condições de acesso
+
+1 - Os projectos de investimento são apresentados pelos proprietários de embarcações de pesca, devendo estas reunir as seguintes condições:
+
+a) Estarem licenciadas para a pesca no ano da apresentação do projecto;
+
+b) Exercerem efectivamente a actividade da pesca.
+
+2 - Para efeitos do disposto na antecedente alínea b), a actividade deverá ser comprovada pelos registos oficiais de descarga, considerando-se, para efeitos de análise dos projectos, baixas descargas aquelas cuja média se situa abaixo da média das descargas efectuadas no ano anterior ao da análise da candidatura, para embarcações com dimensionamento idêntico, actuando na mesma zona, sendo ponderada a média que essas embarcações realizam a nível nacional, bem como o tempo de actuação. A eventual ausência de descargas, as muito irregulares ou as baixas descargas devem ser devidamente justificadas.
+
+3 - A construção de novas embarcações para substituição de embarcações naufragadas pode ser considerada nos termos previstos no Decreto-lei n.º 41579, de 2 de Abril de 1958.
+
+3.º
+
+Critérios de selecção
+
+1 - Para efeitos de concessão de apoio financeiro, será dada prioridade às candidaturas que satisfaçam as seguintes condições:
+
+a) Apresentem, como contrapartida às novas construções, embarcações com idade superior a 10 anos;
+
+b) Digam respeito à modernização de embarcações de pesca com idade inferior a 10 e superior a 5 anos;
+
+c) Impliquem, quer em relação a novas construções quer em relação a obras de modernização, aumentos nulos ou pouco significativos de tonelagem de arqueação bruta e de potência propulsora, bem como a utilização de motores de baixo consumo ou substituição de motores a gasolina por motores que usem outros carburantes ou a adopção de motores fixos;
+
+d) Prevejam a reconversão de unidades existentes para pesca com artes mais selectivas;
+
+e) Determinem a melhoria das condições de segurança e trabalho a bordo;
+
+f) Permitam significativa melhoria nas condições de acondicionamento e conservação de pescado a bordo;
+
+g) Contemplem a mudança das artes empregues para artes mais selectivas e ambientalmente mais seguras, designadamente o emprego sistemático ou exclusivo de aparelhos de linhas e anzol ou a utilização de materiais biodegradáveis na confecção da arte.
+
+2 - As acções que se destinem a resolver problemas específicos, incluindo os que se referem à organização e os relativos a serviços de interesse colectivo das comunidades piscatórias ou que, pela sua natureza, se revistam de um carácter excepcional, serão igualmente consideradas prioritárias.
+
+4.º
+
+Despesas não elegíveis
+
+1 - Não são elegíveis, para efeitos de concessão de apoio financeiro, as seguintes despesas:
+
+> Alterado pelo/a [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), publicado em 1999-04-28.
+
+a) Construção de embarcações que se encontrem concluídas à data da apresentação do projecto;
+
+b) Equipamentos adquiridos e obras realizadas antes da apresentação do projecto de modernização;
+
+c) Obras de manutenção corrente (pintura, manutenção periódica do motor ou sua reparação, manutenção periódica do casco ou outras intervenções de natureza semelhante) efectuadas separadamente de trabalhos de modernização;
+
+d) Substituição de equipamentos, nomeadamente de motores propulsores, semelhantes aos já existentes a bordo da unidade a que se refere o projecto, que tenham sido objecto de apoios financeiros concedidos há menos de cinco anos, salvo em casos de força maior ou resultantes de danos provocados por intempéries;
+
+e) Equipamentos que evidenciem características técnicas de eficiência e robustez não adequadas ou se mostrem desajustados, em relação às características da embarcação e à actividade para que a mesma está licenciada;
+
+> Alterado pelo/a [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), publicado em 1999-04-28.
+
+f) Material em segunda mão e respectiva montagem. No caso de reinstalação numa nova unidade de equipamentos recuperados da unidade anterior, são elegíveis as despesas de instalação a bordo;
+
+g) Equipamentos considerados dispensáveis para a navegação, segurança do navio, actividade de pesca e condições de vida a bordo;
+
+h) Aquisição de artes de pesca, excepto quando contemplem as artes mencionadas na alínea g) do artigo anterior, desde que:
+
+i) Não tenham sido objecto de apoios financeiros concedidos há menos de dois anos, salvo em caso de catástrofe ou intempérie que, reconhecidamente, haja produzido danos graves; e
+
+ii) O custo das mesmas não exceda 15% do investimento previsto para os restantes custos da construção, quando se trate de novas construções, e 12% do montante máximo elegível, no caso das modernizações.
+
+i) (Revogada.)
+
+2 - Para efeitos do disposto nas alíneas d) e h) do número anterior, considera-se o lapso de tempo decorrido entre a data da última concessão de apoios financeiros e a data da apresentação da candidatura.
+
+> Alterado pelo/a [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), publicado em 1999-04-28.
+
+5.º
+
+Montante dos apoios
+
+> Alterado pelo/a [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), publicado em 1999-04-28.
+
+1 - A construção, por substituição, de pequenas embarcações não pode exceder o investimento total de 7500 contos.
+
+2 - O custo total de uma modernização não pode ser inferior a 100 contos nem exceder 5500 contos.
+
+3 - Os níveis de comparticipação do Estado nos custos elegíveis dos projectos fixam-se do modo seguinte:
+
+a) Quando se prossiga o reforço da competitividade económica com diminuição do esforço de pesca dentro de parâmetros que contemplem artes mais selectivas, melhor acondicionamento e conservação do pescado e melhoria das condições de segurança e do trabalho a bordo - 65%;
+
+b) Quando se prossiga apenas um melhor acondicionamento e conservação do pescado, ou a melhoria das condições de segurança, ou a melhoria das condições do trabalho a bordo - 60%.
+
+c) As ajudas a conceder são diminuídas, na proporção do tempo decorrido, dos montantes anteriormente concedidos há menos de cinco anos.
+
+> Aditado pelo/a [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), publicado em 1999-04-28.
+
+4 - Em nenhum caso o valor total dos subsídios poderá ultrapassar o limite máximo da taxa de comparticipação prevista nas Linhas Directrizes da Comissão da CE para Exame dos Auxílios Nacionais no Sector da Pesca.
+
+6.º
+
+Outras acções
+
+1 - Neste Sistema de Incentivos podem ser enquadradas acções que se destinem a resolver problemas específicos, incluindo os que se referem à organização e os relativos a serviços de interesse colectivo das comunidades piscatórias ou que, pela sua natureza, revistam carácter excepcional. Estas acções serão objecto de proposta específica e fundamentada da Direcção-Geral das Pescas e Aquicultura, a ser presente ao membro do Governo responsável pelo sector das pescas.
+
+2 - Para as ajudas a conceder no âmbito destas acções não é obrigatório um investimento mínimo de 100 contos.
+
+7.º
+
+Apresentação de candidaturas e decisão
+
+1 - As candidaturas entregues na Direcção-Geral das Pescas e Aquicultura até 31 de Agosto de 1998, 28 de Fevereiro de 1999 e 31 de Agosto de 1999 serão objecto de decisão até 31 de Outubro de 1998, 31 de Maio de 1999 e 31 de Outubro de 1999, respectivamente.
+
+> Alterado pelo/a [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), publicado em 1999-04-28.
+
+2 - A decisão sobre as candidaturas é da competência do membro do Governo responsável pelo sector das pescas.
+
+8.º
+
+Obrigações do beneficiário
+
+1 - Para a execução dos projectos de modernização e de construção são estabelecidos os prazos de oito meses e de um ano, respectivamente, contados a partir da comunicação ao beneficiário da concessão de apoio.
+
+2 - Os bens ou equipamentos adquiridos ao abrigo do presente Regulamento não podem ser doados, vendidos ou por qualquer modo cedidos, em separado da respectiva embarcação pelo prazo de cinco anos, contado a partir da data da aprovação do projecto, não podendo igualmente ser destinados a outros fins que não a pesca.
+
+> Alterado pelo/a [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), publicado em 1999-04-28.
+
+9.º
+
+Atribuição dos apoios
+
+1 - O apoio atribuído é entregue ao beneficiário após a realização de uma vistoria pela Direcção-Geral das Pescas e Aquicultura, para confirmação da execução material do projecto, e da apresentação pelo beneficiário dos documentos de despesa definitivos que comprovem o investimento realizado.
+
+2 - A entrega do subsídio aprovado antes da conclusão material e financeira dos projectos só poderá verificar-se contra a apresentação de garantia bancária ou seguro-caução, válido pelo período de um ano contado a partir da notificação da aprovação do projecto, prestado pelo armador, estaleiro, casas fornecedoras ou associações de armadores.
+
+3 - A libertação de garantia bancária ou de seguro-caução terá lugar após a confirmação pela Direcção-Geral das Pescas e Aquicultura de que o projecto se encontra material e financeiramente concluído e mediante vistoria a realizar para o efeito.
+
+4 - O beneficiário comparticipará nas despesas inerentes ao acompanhamento pela Direcção-Geral das Pescas e Aquicultura com o valor de 1% sobre o montante do subsídio ilíquido atribuído.
+
+5 - A não utilização, sem justificação aceite pelo membro do Governo responsável pelo sector das pescas, dos subsídios concedidos através do SIPESCA determina o impedimento de apresentação de nova candidatura a apoio financeiro no âmbito deste Sistema de Incentivos no período da sua vigência.
+
+10.º
+
+Incumprimento
+
+1 - Nos casos em que os beneficiários não tenham dado cumprimento ao disposto no n.º 2 do artigo 8.º ou se tenha verificado a libertação dos subsídios e incumprimento da execução dos projectos, deverão aqueles repor nos cofres do Estado a totalidade ou a parte do subsídio não aplicado, respectivamente, acrescido dos respectivos juros legais, nos termos do disposto no artigo 559.º do Código Civil.
+
+2 - Os beneficiários que incorram em incumprimento poderão, por esse motivo, ficar impossibilitados de apresentar novas candidaturas.
+
+3 - A reposição das verbas referidas no n.º 1 deverá efectuar-se no prazo máximo de 15 dias úteis após a notificação do beneficiário.
+
+4 - A não reposição desse montante no prazo indicado implicará o envio do processo à repartição de finanças correspondente ao domicílio do beneficiário para efeitos de execução fiscal.
+
+5 - Não haverá lugar a incumprimento caso os beneficiários, justificada e antecipadamente, requeiram, e a DGPA aceite, a devolução das ajudas, calculadas pro rata temporis do período de cinco anos, acrescidas de juros nos termos do n.º 1.
+
+> Alterado pelo/a [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), publicado em 1999-04-28.

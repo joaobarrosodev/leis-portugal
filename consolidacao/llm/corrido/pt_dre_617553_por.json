@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:617553:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Pêro Pinheiro, município de Sintra, com a área de 803 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 (anexação de prédios), 3 (suspensão da caça) e 4 (renovação por 12 anos, área de 1013 ha, revogação da Portaria n.º 1019/2004) não alteram o texto do original.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º - substituída a unidade 6.",
+    "Alt. 1, 1.º: aditado n.º 1.º-A - inserido depois da unidade 6.",
+    "Alt. 2 a 4: anexação, suspensão e renovação, não textuais - não aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:495902:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 aditam rubricas (3 e 4) à tarifa n.º 5 do anexo, cujas taxas só vêm em imagem; o alterador 3 altera as taxas pelas do seu anexo, em grande parte só em imagem, sem dizer se substitui o anexo inteiro (o novo anexo não inclui a rubrica 4 do alterador 2). O anexo do original só existe como imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: aditamento da rubrica 3 à tarifa n.º 5 (A2.I) — quadro só em imagem, não aplicado.",
+    "Alterador 2, 1.º: aditamento da rubrica 4 à tarifa n.º 5 (A.2.I) — quadro só em imagem, não aplicado.",
+    "Alterador 3, 1.º: alteração das taxas pelas do anexo — anexo em grande parte em imagem e alcance ambíguo, não aplicado.",
+    "Alterador 3, 2.º: taxas da Portaria n.º 389/89 — outro diploma, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

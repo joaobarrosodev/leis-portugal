@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:171528:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 8,
+      "texto": "1.º - 1 - O concelho de Guimarães é dividido em duas repartições de finanças.\n\n2 - Cada repartição de finanças abrange a área das seguintes freguesias:",
+      "alterador": 2
+    },
+    {
+      "de": 10,
+      "ate": 11,
+      "texto": "2.ª Repartição: Abação (São Tomé), Aldão, Atães, Calvos, Candoso (São Martinho), Candoso (Santiago), Conde, Costa, Gandarela, Gémeos, Guardizela, Infantas, Lordelo, Mascotelos, Mesão Frio, Moreira de Cónegos, Nespereira, Pinheiro, Polvoreira, Rendufe, Guimarães (São Paio), Guimarães (São Sebastião), Selho (São Cristóvão), Serzedelo, Serzedo, Tabuadelo, Urgezes e Vizela (São Faustino).",
+      "alterador": 2
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 2 do n.º 1.º (2.ª e 3.ª Repartições; 1.ª fica); seria a substituição das unidades 10-11, mas é inteiramente sobreposta pelo alterador 2, que dá nova redacção às mesmas unidades, pelo que só se devolve o estado final.",
+    "Alterador 2, 3.º: nova redacção do n.º 1.º: substituídas as unidades 7-8; 1.ª Repartição [...] mantém a unidade 9; unidades 10-11 passam a ser só a nova 2.ª Repartição (a 3.ª Repartição deixa de constar).",
+    "Alterador 2, 4.º: eliminado o n.º 2.º: unidade 12 removida.",
+    "Alterador 2, 1.º, 2.º e 5.º a 8.º: normas autónomas (criação/extinção de serviços, Felgueiras), não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

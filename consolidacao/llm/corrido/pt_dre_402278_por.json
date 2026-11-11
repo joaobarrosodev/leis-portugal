@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:402278:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de São Torcato, Atães, Rendufe e Gouça, município de Guimarães, com a área de 1800 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 2, 2.º: o n.º 6.º passa a obrigar a manter só um guarda florestal auxiliar, mas sem nova redação do texto; não aplicado. Alteradores 3 e 4: suspensão da exploração e extinção da concessão, sem alteração nem revogação do texto; não aplicados.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (área de 2226 ha; a remissão diz 667-S4/94, gralha, mas o contexto identifica este diploma); aplicada à unidade 6 e depois substituída pela redação do alterador 2.",
+    "Alterador 2, 1.º: nova redação do n.º 1.º (1800 ha); substituída a unidade 6, mantendo o número 1.º.",
+    "Alterador 2, 1.º: aditado o n.º 1.º-A, inserido a seguir à unidade 6.",
+    "Alterador 2, 2.º: redução do número de guardas do n.º 6.º sem redação textual; não aplicado.",
+    "Alterador 3: suspensão da exploração cinegética; não textual.",
+    "Alterador 4: extinção da concessão; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

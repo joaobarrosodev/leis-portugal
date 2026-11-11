@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:399202:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "3.º A taxa referida no n.º 1.º será abatida de 6%.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 3.º; substituída a unidade 7.",
+    "Alterador 1, 2.º e 3.º: normas autónomas, não alteram o texto do original; ignoradas.",
+    "Alterador 2 (DL 235-A/96): altera o Decreto-Lei n.º 124/96 e só remete para o n.º 2.º da portaria; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

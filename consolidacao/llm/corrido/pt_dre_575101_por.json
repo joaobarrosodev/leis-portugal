@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:575101:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de São João de Caldeireiros e Alcaria Ruiva, município de Mértola, com uma área 1290,93 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: anexação de prédio e retificação da área para 1343,68 ha sem instrução textual (superada pela nova redação do 1.º pelo alterador 2); substituição da planta (só em imagem). Alterador 2: substituição da planta (só em imagem). Alterador 3: suspensão do exercício da caça, não textual. Alterador 4: renovação da concessão por 12 anos e áreas de condicionamento, sem alteração textual. Alterador 5: anexação de prédio (área total 1344 ha), sem alteração textual.",
+  "instrucoes": [
+    "Alterador 1: retifica a portaria com anexação de prédio, área 1343,68 ha e nova planta; sem redação textual, não aplicado (o 1.º é depois reescrito pelo alterador 2).",
+    "Alterador 2: nova redação do n.º 1.º (unidade 6); planta só em imagem, não aplicada.",
+    "Alterador 3: suspende a caça até à renovação; não textual, não aplicado.",
+    "Alterador 4: renova a concessão por 12 anos e revoga a Portaria n.º 559/2002 (outro diploma); não textual, não aplicado.",
+    "Alterador 5: anexa prédio de 52,75 ha (área total 1344 ha); não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

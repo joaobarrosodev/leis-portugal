@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:693860:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 13,
+      "texto": "1 - Na área da albufeira de Castelo do Bode, tal como se encontra definida no n.º 1 do artigo 7.º do [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, são proibidos os seguintes actos e actividades:\n\na) Criação de novos núcleos populacionais;\n\nb) Construção ou ampliação de edifícios ou outras instalações;\n\nc) Instalação de explorações ou ampliação das já existentes;\n\nd) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;\n\ne) Derrube de árvores em maciço, com qualquer área;\n\nf) Destruição do solo vivo e do coberto vegetal.",
+      "alterador": 3
+    },
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "2 - O prazo de vigência das medidas preventivas é de dois anos, prorrogável, se necessário, por mais um, mediante resolução do Conselho de Ministros, caducando com a entrada em vigor do Plano de Ordenamento da Albufeira de Castelo do Bode.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 2 (prazo de dois anos) - unidade 14 substituída.",
+    "Alterador 2, n.º 1: prorroga por mais um ano o prazo das medidas preventivas; não altera o texto - nada a aplicar.",
+    "Alterador 3, n.º 1: nova redação do n.º 1 (proémio e alíneas a) a f)) - unidades 10 a 13 substituídas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

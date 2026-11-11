@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:517387:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o plano de estudos do curso (anexo) passa a ser o do anexo da Portaria n.º 768/99, que só vem em imagem (quadros n.os 1 a 6 no documento original); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição do plano de estudos anexo por quadros só em imagem; não aplicada.",
+    "Alterador 1, 2.º a 7.º: normas próprias da Portaria n.º 768/99 (opções, semestre, vagas, grau, aplicação, transição), sem instrução de alteração textual do original; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:139764:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 85/2003, n.º 1.º): nova redação dos anexos I e II, cujos quadros só vêm em imagem; alterador 2 (Portaria n.º 681/2005): adita a opção e o ramo de Trombone ao curso e remete o plano de estudos para o despacho n.º 3681/2005, sem alteração textual do original. Nada aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui os anexos I e II (quadros só em imagem) - nao_aplicavel.",
+    "Alterador 2, n.os 1.º e 2.º: aditam opção/ramo de Trombone e fixam o plano de estudos por remissão; não é alteração textual - nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

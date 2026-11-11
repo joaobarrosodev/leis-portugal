@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-23",
+    "operacao": "remover",
+    "regra": "llm",
+    "antes": "Condições especiais de aplicação (substitui «período de aplicação»):\n\nEstas tarifas são aplicáveis durante todo o ano, mas só poderão ser aceites para reserva firme:\n\na) Da Madeira para o continente:\n\nNos dois últimos voos operados em cada dia;\n\nb) Do continente para a Madeira:\n\nNos dois primeiros voos operados em cada dia;\n\nc) Entre os Açores e o continente:\n\nAté à capacidade máxima de cinquenta e nove lugares em cada voo;\n\nNo caso de, no momento da partida, se verificar capacidade disponível, poderão ser aceites passageiros para além deste limite de capacidade.\n\nCancelamento (substitui «cancelamento, reserva, pagamento e emissão do bilhete»):\n\nEm caso de cancelamento durante os três dias que antecedem o início da viagem ou no próprio dia da viagem, será aplicada uma taxa fixa de 500$00. Esta taxa não será cobrada no caso de o passageiro utilizar uma tarifa de nível superior.",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:416630:por",
+    "alterador": "pt:dre:579304:por"
+  }
+]

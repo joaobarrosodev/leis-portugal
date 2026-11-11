@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - São ainda admitidas ao esquema, até 1986, as variedades incluídas na Lista Nacional de Variedades (LNV), desde que:",
+    "depois": "4 - São ainda admitidas ao esquema, até 1990, as variedades incluídas na lista nacional de variedades (LNV), desde que:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:395321:por",
+    "alterador": "pt:dre:660290:por"
+  },
+  {
+    "artigo": "unidades 40-40",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "13 - A produção de semente da categoria certificada de uma variedade, quando não efectuada pelo seu obtentor ou proprietário actual, só é permitida pela DSCQS se a entidade interessada fizer prova documental de que está autorizada pelo detentor dos direitos de propriedade dessa variedade a proceder à sua multiplicação.",
+    "depois": "13 - A produção de semente da categoria certificada de uma variedade, inscrita no CNV, quando não efectuada pelo seu obtentor ou proprietário actual, só é permitida pela Direcção dos Serviços de Controle de Qualidade de Sementes se a entidade interessada fizer prova documental de que está autorizada pelo detentor dos direitos de propriedade dessa variedade a proceder à sua multiplicação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:395321:por",
+    "alterador": "pt:dre:660290:por"
+  }
+]

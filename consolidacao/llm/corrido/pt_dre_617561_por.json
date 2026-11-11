@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:617561:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Manique do Intendente e Vila Nova de São Pedro, município da Azambuja, com uma área de 1082,8512 ha.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alt. 2, 2.º: diz que o n.º 6.º passa a obrigar a manter apenas um guarda florestal auxiliar, mas não dá nova redação ao n.º 6.º (unidade 12 mantida). Alt. 4 (renovação por 12 anos, área de 1359 ha) e alt. 5 (artigo único que redefine os prédios da zona, 1356 ha) não alteram o texto do original.",
+  "instrucoes": [
+    "Alt. 1: nova redação do n.º 1.º (2080 ha) - unidade 6, depois substituída de novo.",
+    "Alt. 2, 1.º: nova redação do n.º 1.º (1356 ha) - unidade 6, depois substituída de novo.",
+    "Alt. 2, 1.º: aditado n.º 1.º-A - inserido depois da unidade 6.",
+    "Alt. 2, 2.º: redução do número de guardas no n.º 6.º sem nova redação - não aplicado.",
+    "Alt. 3, 1.º: nova redação do n.º 1.º (1082,8512 ha) - substituída a unidade 6 com o texto final.",
+    "Alt. 4 e 5: renovação e correção da área/planta, não textuais - não aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

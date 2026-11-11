@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:176313:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "Pela [Portaria n.º 606/95](https://diariodarepublica.pt/dr/detalhe/portaria/606-1995-517627), de 19 de Junho, foi concessionada à Associação de Caça e Pesca Senhora do Almortão a zona de caça associativa da Senhora do Almortão, processo n.º 447-DGF, situada na freguesia e município de Idanha-a-Nova, com uma área de 1622,0975 ha, válida até 31 de Maio de 2000.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: no primeiro parágrafo, «válida até 31 de Maio de 2002» passa a «válida até 31 de Maio de 2000»; substituída a unidade 3.",
+    "Alterador 2: anexação à zona renovada pela Portaria n.º 589/2000; dirigida a outro diploma, ignorada.",
+    "Alterador 3: renovação da concessão da zona de caça; regime autónomo, não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

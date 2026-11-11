@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:616259:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Ribafria, município de Alenquer, com a área de 757,3510 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (suspensão do exercício da caça) e alterador 3 (renovação da concessão por 12 anos, área de 844 ha, revogação da Portaria n.º 669/2003) não alteram o texto do original.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º - substituída a unidade 6.",
+    "Alt. 1, 1.º: aditado n.º 1.º-A - inserido depois da unidade 6.",
+    "Alt. 2: suspensão da caça, não textual - não aplicado.",
+    "Alt. 3: renovação da concessão e revogação de outra portaria, não textual - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

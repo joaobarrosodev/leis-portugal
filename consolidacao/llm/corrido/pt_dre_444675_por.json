@@ -1,0 +1,66 @@
+{
+  "id": "pt:dre:444675:por",
+  "substituicoes": [
+    {
+      "de": 38,
+      "ate": 38,
+      "texto": "1 - Não são elegíveis, para efeitos de concessão de apoio financeiro, as seguintes despesas:",
+      "alterador": 1
+    },
+    {
+      "de": 42,
+      "ate": 43,
+      "texto": "d) Substituição de equipamentos, nomeadamente de motores propulsores, semelhantes aos já existentes a bordo da unidade a que se refere o projecto, que tenham sido objecto de apoios financeiros concedidos há menos de cinco anos, salvo em casos de força maior ou resultantes de danos provocados por intempéries;\n\ne) Equipamentos que evidenciem características técnicas de eficiência e robustez não adequadas ou se mostrem desajustados, em relação às características da embarcação e à actividade para que a mesma está licenciada;",
+      "alterador": 1
+    },
+    {
+      "de": 46,
+      "ate": 47,
+      "texto": "h) Aquisição de artes de pesca, excepto quando contemplem as artes mencionadas na alínea g) do artigo anterior, desde que:\n\ni) Não tenham sido objecto de apoios financeiros concedidos há menos de dois anos, salvo em caso de catástrofe ou intempérie que, reconhecidamente, haja produzido danos graves; e\n\nii) O custo das mesmas não exceda 15% do investimento previsto para os restantes custos da construção, quando se trate de novas construções, e 12% do montante máximo elegível, no caso das modernizações.\n\ni) (Revogada.)\n\n2 - Para efeitos do disposto nas alíneas d) e h) do número anterior, considera-se o lapso de tempo decorrido entre a data da última concessão de apoios financeiros e a data da apresentação da candidatura.",
+      "alterador": 1
+    },
+    {
+      "de": 49,
+      "ate": 49,
+      "texto": "Montante dos apoios",
+      "alterador": 1
+    },
+    {
+      "de": 62,
+      "ate": 62,
+      "texto": "1 - As candidaturas entregues na Direcção-Geral das Pescas e Aquicultura até 31 de Agosto de 1998, 28 de Fevereiro de 1999 e 31 de Agosto de 1999 serão objecto de decisão até 31 de Outubro de 1998, 31 de Maio de 1999 e 31 de Outubro de 1999, respectivamente.",
+      "alterador": 1
+    },
+    {
+      "de": 65,
+      "ate": 68,
+      "texto": "Obrigações do beneficiário\n\n1 - Para a execução dos projectos de modernização e de construção são estabelecidos os prazos de oito meses e de um ano, respectivamente, contados a partir da comunicação ao beneficiário da concessão de apoio.\n\n2 - Os bens ou equipamentos adquiridos ao abrigo do presente Regulamento não podem ser doados, vendidos ou por qualquer modo cedidos, em separado da respectiva embarcação pelo prazo de cinco anos, contado a partir da data da aprovação do projecto, não podendo igualmente ser destinados a outros fins que não a pesca.",
+      "alterador": 1
+    },
+    {
+      "de": 78,
+      "ate": 80,
+      "texto": "1 - Nos casos em que os beneficiários não tenham dado cumprimento ao disposto no n.º 2 do artigo 8.º ou se tenha verificado a libertação dos subsídios e incumprimento da execução dos projectos, deverão aqueles repor nos cofres do Estado a totalidade ou a parte do subsídio não aplicado, respectivamente, acrescido dos respectivos juros legais, nos termos do disposto no artigo 559.º do Código Civil.\n\n2 - Os beneficiários que incorram em incumprimento poderão, por esse motivo, ficar impossibilitados de apresentar novas candidaturas.\n\n3 - A reposição das verbas referidas no n.º 1 deverá efectuar-se no prazo máximo de 15 dias úteis após a notificação do beneficiário.\n\n4 - A não reposição desse montante no prazo indicado implicará o envio do processo à repartição de finanças correspondente ao domicílio do beneficiário para efeitos de execução fiscal.\n\n5 - Não haverá lugar a incumprimento caso os beneficiários, justificada e antecipadamente, requeiram, e a DGPA aceite, a devolução das ajudas, calculadas pro rata temporis do período de cinco anos, acrescidas de juros nos termos do n.º 1.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 54,
+      "texto": "c) As ajudas a conceder são diminuídas, na proporção do tempo decorrido, dos montantes anteriormente concedidos há menos de cinco anos.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 4.º: corpo passa a n.º 1 (unidade 38); novas alíneas d) e e) (42-43); nova alínea h) com subalíneas i) e ii), alínea i) revogada e novo n.º 2 (46-47).",
+    "Alterador 1, art. 5.º: epígrafe passa a 'Montante dos apoios' (49); aditada alínea c) ao n.º 3 (inserção depois de 54).",
+    "Alterador 1, art. 7.º: nova redação do n.º 1 (62).",
+    "Alterador 1, art. 8.º: nova epígrafe e novos n.os 1 e 2 (65-68).",
+    "Alterador 1, art. 10.º: nova redação, n.os 1 a 5 (78-80).",
+    "Alterador 2 (DN 45/2000) altera o Regulamento aprovado pelo DN 8-A/2000, outro diploma: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

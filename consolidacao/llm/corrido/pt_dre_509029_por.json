@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:509029:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 26,
+      "texto": "4.º Para além dos contingentes fixados na lista anexa, poderão ser autorizadas, sob condicionalismo a estabelecer por despacho ministerial, importações, em valor que não exceda o valor nacional adicionado nas mercadorias exportadas, que o importador tenha fabricado em Portugal, ou de mercadorias portuguesas que tenham sido exportadas com destino ao fabricante estrangeiro do produto cuja importação se pretenda realizar, destinadas à utilização industrial por esses fabricantes.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 traz em seguida uma 'Lista anexa' com redação diferente da lista do original (ex 08.01, 09.01, lincrusta, 97.04 e 05, etc.), mas não há no texto nenhuma instrução que mande substituir a lista anexa do original; não aplicada.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 4.º; substituí as unidades 10-26 (corpo do 4.º e a lista de artigos pautais que dele fazia parte) pelo novo texto, que já não tem lista.",
+    "Alterador 1: lista anexa republicada sem instrução de substituição; não aplicada (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

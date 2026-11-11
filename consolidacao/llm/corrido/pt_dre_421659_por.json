@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:421659:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 1016/95) substitui o quadro de pessoal anexo e alterador 2 (Portaria 22/98) cria a carreira de investigação científica no quadro; os quadros só vêm em imagem: não aplicado.",
+  "instrucoes": [
+    "Alterador 1: substitui o quadro de pessoal anexo (só em imagem): não aplicado; os n.os 2.º e 3.º são normas próprias.",
+    "Alterador 2: cria carreira no quadro de pessoal (quadro só em imagem): não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

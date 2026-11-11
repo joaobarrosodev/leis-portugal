@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:666339:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 4 alteram o mapa do quadro de pessoal anexo, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1: novo mapa do grupo de pessoal de informática só em imagem; não aplicado",
+    "Alterador 2: novo mapa da área de serviço social só em imagem; não aplicado",
+    "Alterador 3: criação e extinção de lugares no mapa anexo, sem texto; não aplicado",
+    "Alterador 4: criação da carreira técnico-profissional de refeitório, mapa em imagem; não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

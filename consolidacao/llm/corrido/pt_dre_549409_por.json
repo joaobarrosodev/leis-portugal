@@ -1,0 +1,48 @@
+{
+  "id": "pt:dre:549409:por",
+  "substituicoes": [
+    {
+      "de": 45,
+      "ate": 45,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 54,
+      "ate": 55,
+      "texto": "e) Deliberar sobre a aquisição, alienação e oneração de bens imóveis e de participações financeiras;\n\nf) Aprovar o estatuto aplicável aos trabalhadores do IIPA e proceder à sua contratação;",
+      "alterador": 2
+    },
+    {
+      "de": 58,
+      "ate": 67,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 69,
+      "ate": 70,
+      "texto": "",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 56,
+      "texto": "h) Constituir mandatários do IIPA, fixando-lhes os respectivos poderes.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 3 extingue o IIPA e põe-no em liquidação, transferindo as suas competências, mas não revoga nem altera textualmente o Estatuto; não aplicado ao texto.",
+  "instrucoes": [
+    "Alterador 1, art. 13.º: eliminados os artigos 8.º, 12.º e 14.º do Estatuto; unidades 45, 58-67 e 69-70 passam a vazio.",
+    "Alterador 1, art. 13.º: revogação do Decreto Regulamentar Regional n.º 10/91/A; é outro diploma, ignorada.",
+    "Alterador 2, arts. 1.º a 3.º: regras autónomas sobre reuniões, administrador-delegado e vinculação do IIPA, sem instrução de alteração textual do Estatuto; nada feito.",
+    "Alterador 2, art. 4.º, n.º 1: nova redação das alíneas e) e f) do n.º 1 do artigo 11.º; substituídas as unidades 54-55.",
+    "Alterador 2, art. 4.º, n.º 2: aditada a alínea h) ao n.º 1 do artigo 11.º; inserida depois da unidade 56.",
+    "Alterador 3: extinção e liquidação do IIPA, sem alteração textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - O valor das indemnizações a que se refere o artigo 7.º do [Decreto-Lei n.º 44158](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44158-1962-520187), de 17 de Janeiro de 1962, será determinado de acordo com a tabela anexa.",
+    "depois": "1.1 - O valor das indemnizações a que se refere o artigo 7.º do [Decreto-Lei n.º 44158](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44158-1962-520187), de 17 de Janeiro de 1962, é calculado sobre 75% do valor médio semanal nacional do preço por quilograma de carne de porco da categoria extra B, segundo o boletim do Serviço de Informação de Mercados Agrícolas (SIMA), valor este obrigatoriamente publicado no boletim semanal deste serviço.\n\n1.2 - O cálculo da indemnização a liquidar ao suinicultor será efectuado tendo por base o valor constante no boletim semanal do SIMA referente à data de imposição do sequestro sanitário à exploração, com a indicação de todo o efectivo existente.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:377885:por",
+    "alterador": "pt:dre:549394:por;pt:dre:183609:por"
+  },
+  {
+    "artigo": "unidades 12-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - O valor base (VB) a ter em conta para a determinação dos valores a pagar, em relação aos tipos de porcos existentes no País - precoces, indígenas e seus cruzamentos - será fixado trimestralmente, por despacho dos Ministros das Finanças e do Plano e da Agricultura e Pescas, sob proposta de uma comissão permanente, com a seguinte constituição e distribuição de representantes:\n\nJunta Nacional dos Produtos Pecuários (um);\n\nDirecções regionais de agricultura (um por cada direcção);\n\nFundo de Abastecimento (um);\n\nAssociações de suinicultores (dois);\n\nDirecção-Geral dos Serviços Veterinários (um, a quem competirá a presidência).\n\n2.1 - As decisões da comissão permanente são tomadas por maioria simples dos votos dos membros presentes, tendo o presidente voto de qualidade, em caso de empate.\n\n3.1 - A comissão permanente reunirá na sede da Direcção-Geral dos Serviços Veterinários, para os fins indicados no n.º 2, durante a segunda semana dos meses de Dezembro, Março, Junho e Setembro, ou sempre que for convocada pelo presidente, por sua iniciativa ou a pedido de qualquer dos seus membros, logo que suscitada a necessidade de se proceder à correcção dos valores-base anteriormente fixados.\n\n3.2 - Ao presidente da comissão permanente compete a designação do dia e hora das reuniões.\n\n4 - Os valores fixados vigorarão desde o dia 1 do mês seguinte ao da sua fixação e até entrada em vigor do novo valor.",
+    "depois": "2 - (Revogado.)\n\n2.1 - (Revogado.)\n\n3.1 - (Revogado.)\n\n3.2 - (Revogado.)\n\n4 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:377885:por",
+    "alterador": "pt:dre:549394:por;pt:dre:183609:por"
+  },
+  {
+    "artigo": "unidades 38-38",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Raças precoces e seus cruzamentos: machos e fêmeas não castrados com mais de 120 kg (PBV), podendo o número do efectivo-base aprovado ser acrescido dos animais de substituição até ao limite de 35%; para efeitos de indemnização, o número de varrascos não poderá exceder 10% do efectivo feminino;",
+    "depois": "a) Raças precoces e seu cruzamentos: machos e fêmeas não castrados com mais de 120 kg (PBV), podendo o número do efectivo base aprovado ser acrescido dos animais de substituição até ao limite de 20%; para efeitos de indemnização o número de varrascos não poderá exceder 10% do efectivo feminino.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:377885:por",
+    "alterador": "pt:dre:549394:por;pt:dre:183609:por"
+  },
+  {
+    "artigo": "unidades 44-44",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "11 - Mantém-se em vigor, na parte aplicável e que não contrarie a presente portaria, as normas de apoio sanitário constantes do despacho citado no n.º 9, nomeadamente as dos n.os 22.º, 23.º, 24.º, alínea 4), e 25.º",
+    "depois": "11 - Mantêm-se em vigor, na parte aplicável e que não contrarie a presente portaria, as normas de apoio sanitário constantes do despacho citado no n.º 9, nomeadamente as dos n.os 22.º, 24.º, alínea 4), e 25.º",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:377885:por",
+    "alterador": "pt:dre:549394:por;pt:dre:183609:por"
+  },
+  {
+    "artigo": "unidades 46-49",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "12 - Para efeitos de fixação de valores das indemnizações a pagar desde 1 de Janeiro de 1979 e até à primeira fixação do valor-base nos termos do n.º 2, estabelecem-se os seguintes valores-base referidos no peso bruto (PBV):\n\na) Raças indígenas - 50$00/kg;\n\nb) Cruzamento entre raças indígenas e precoces - 52$00/kg;\n\nc) Raças precoces puras e seus cruzamentos - 54$00/kg.",
+    "depois": "12 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:377885:por",
+    "alterador": "pt:dre:549394:por;pt:dre:183609:por"
+  }
+]

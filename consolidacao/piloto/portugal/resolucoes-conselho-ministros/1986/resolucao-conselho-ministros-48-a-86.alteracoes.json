@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 7-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - A Comissão será composta por um funcionário do serviço diplomático com a categoria de embaixador, a qual será assessorada por um vogal designado pelo Ministro dos Negócios Estrangeiros, que o substituirá nas suas faltas e impedimentos, e por delegados das entidades que devam intervir no processo.\n\n3 - O presidente da Comissão será designado de entre os embaixadores de Portugal por despacho conjunto do Primeiro-Ministro e do Ministro dos Negócios Estrangeiros e fica equiparado a director-geral.",
+    "depois": "2 - A Comissão é composta por um funcionário do serviço diplomático com a categoria de embaixador ou de ministro plenipotenciário, o qual é assessorado por um vogal designado pelo Ministro dos Negócios Estrangeiros, que o substitui nos seus impedimentos ou faltas, e por delegados das entidades que devam intervir no processo.\n\n3 - O presidente da Comissão é designado, por despacho conjunto do Primeiro-Ministro e do Ministro dos Negócios Estrangeiros, de entre os funcionários do serviço diplomático com as categorias de embaixador ou de ministro plenipotenciário, sendo equiparado a director-geral.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:488522:por",
+    "alterador": "pt:dre:220735:por"
+  },
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5 - A designação do embaixador que desempenhará as funções de presidente da Comissão não implica aumento no quadro dos embaixadores.",
+    "depois": "5 - A designação do funcionário diplomático que desempenhará as funções de presidente da Comissão não implica aumento no respectivo quadro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:488522:por",
+    "alterador": "pt:dre:220735:por"
+  }
+]

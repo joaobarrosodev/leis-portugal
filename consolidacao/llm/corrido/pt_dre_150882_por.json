@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:150882:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 458/93): aumenta o quadro de pessoal do Hospital Distrital de Faro com quadro só em imagem; não aplicado. Alterador 2 (Portaria n.º 20/95), 1.º: substitui o quadro de pessoal anexo (unidade 27) por quadro só em imagem; não aplicado. O 2.º do alterador 2 define em norma própria a nova departamentalização, sem instrução expressa de nova redação do n.º 2.º do original; não aplicado ao texto.",
+  "instrucoes": [
+    "Alterador 1: aditamento de lugares ao quadro (em imagem); não aplicado.",
+    "Alterador 2, 1.º: substituição do quadro anexo (em imagem); não aplicado.",
+    "Alterador 2, 2.º: norma própria sobre unidades orgânicas (anexo I do alterador), não é nova redação do original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

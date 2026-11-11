@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:417251:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 4 acrescentam ao mapa anexo o constante dos seus anexos, que só vêm em imagem (ver documento original); o alterador 4 repete o alterador 3.",
+  "instrucoes": [
+    "Alterador 1, único: aditamento ao mapa anexo em imagem; não aplicado.",
+    "Alterador 2, único: aditamento ao mapa anexo em imagem; não aplicado.",
+    "Alterador 3, número único: aditamento ao mapa anexo em imagem; não aplicado.",
+    "Alterador 4: idêntico ao alterador 3; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

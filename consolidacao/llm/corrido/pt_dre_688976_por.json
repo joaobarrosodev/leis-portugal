@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:688976:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações incidem sobre o quadro de pessoal (mapa anexo), que só vem em imagem: criação de um lugar de assessor (alterador 1), substituição do quadro nas carreiras técnica superior e de serviço social (alterador 2), criação de um lugar de motorista de pesados (alterador 3) e substituição do quadro (alterador 4). O conteúdo funcional do anexo I do alterador 4 é norma própria desse diploma.",
+  "instrucoes": [
+    "Alterador 1: cria um lugar no quadro — alteração do mapa em imagem; não aplicada.",
+    "Alterador 2: substitui parte do quadro (imagem) — não aplicada.",
+    "Alterador 3: cria um lugar no quadro — não aplicada.",
+    "Alterador 4: substitui o quadro (imagem) e fixa conteúdo funcional em anexo próprio — não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

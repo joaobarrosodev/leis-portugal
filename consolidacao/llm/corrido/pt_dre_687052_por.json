@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:687052:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Igreja Nova e Cheleiros, município de Mafra, com a área de 1495,8154 ha.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "A substituição da planta anexa (alteradores 1 e 3) só vem em imagem; a suspensão da actividade cinegética (alterador 2) e a extinção da zona de caça (alterador 4, 3.º) não são alterações textuais.",
+  "instrucoes": [
+    "Alterador 1: nova redacção do 1.º (área de 1884,0016 ha) — aplicada, mas depois substituída pela redacção do alterador 3; planta em imagem não aplicada.",
+    "Alterador 2: suspende a actividade cinegética por 180 dias — não textual; não aplicado.",
+    "Alterador 3, 1.º: nova redacção do 1.º (área de 1495,8154 ha) — unidade 6 substituída, mantendo o número '1.º'; aditado o 1.º-A a seguir à unidade 6.",
+    "Alterador 4, 3.º: extingue a zona de caça criada pelo original — não é revogação textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

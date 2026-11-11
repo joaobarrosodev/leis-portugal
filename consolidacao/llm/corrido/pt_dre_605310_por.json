@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:605310:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 127,
+      "texto": "2.8 - Equipamentos de pequena potência para Imobilização de veículos\n\n2.8.1 - Caracterização dos equipamentos:\n\nEstes equipamentos caracterizam-se por:\n\na) Serem exclusivamente utilizados para o fim de imobilização de veículos;\n\nb) Destinarem-se a uso privativo;\n\nc) Operarem numa base de não interferência e de não protecção relativamente a sistemas ou serviços devidamente autorizados.\n\n2.8.2 - Faixa de frequências e valores máximos de intensidade de campo:\n\nA faixa de frequências a ser utilizada deve ser de 9 kHz a 135 kHz e o valor de intensidade do campo magnético associado a qualquer sistema indutivo de imobilização de veículos não deverá exceder o valor de 42 dB(mi)A/m (medida efectuada a 10 m da fonte emissora).",
+      "alterador": 1
+    },
+    {
+      "depois_de": 127,
+      "texto": "2.9 - Equipamentos de pequena potência PMR 446\n\n2.9.1 - Caracterização dos equipamentos:\n\nEstes equipamentos caracterizam-se por:\n\na) Destinarem-se a uso privativo;\n\nb) Configurarem apenas estações móveis;\n\nc) Operarem numa base de não coordenação de frequências sem direito a protecção contra interferências causadas por outros utilizadores do mesmo serviço;\n\nd) Obedecerem ao especificado na norma ETS 300 296 do ETSI no que respeita a procedimentos de avaliação de conformidade;\n\ne) Utilizarem antena incorporada.\n\n2.9.2 - Faixa de frequências e valor máximo de potência aparente radiada (p. a. r.).\n\nA faixa de frequências designada para esta categoria de equipamentos está compreendida entre 446,0 MHz e 446,1 MHz e planificada para uma separação de 12,5 kHz entre canais adjacentes.\n\nAs frequências centrais para operação desta categoria de equipamentos são as seguintes:\n\nF1 - 446,00625 MHz;\n\nF2 - 446,01875 MHz;\n\nF3 - 446,03125 MHz;\n\nF4 - 446,04375 MHz;\n\nF5 - 446,05625 MHz;\n\nF6 - 446,06875 MHz;\n\nF7 - 446,08125 MHz;\n\nF8 - 446,09375 MHz.\n\nA p. a. r. máxima permitida é de 500 mW.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: aditada ao anexo a categoria 2.8 (imobilização de veículos), inserida no fim do anexo, depois da 2.7 (unidade 127).",
+    "Alterador 2: aditada ao anexo a categoria 2.9 (PMR 446), inserida no fim do anexo a seguir à 2.8 (depois da unidade 127, após a inserção do alterador 1)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

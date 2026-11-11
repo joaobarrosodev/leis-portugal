@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:400799:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 14,
+      "texto": "a) 1292$10 por tonelada, à QUIMIGAL - Química de Portugal, E. P., até ao limite de 44950 t;\n\nb) 1123$60 por tonelada, à PGP - Petroquímica e Gás de Portugal, E. P., até ao limite de 120068,2 t.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 3.º; o proémio (unidade 12) fica igual, substituídas as alíneas a) e b) (unidades 13-14).",
+    "Alterador 1, 2.º: produção de efeitos do alterador; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

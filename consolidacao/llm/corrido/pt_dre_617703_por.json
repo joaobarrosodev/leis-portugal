@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:617703:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Almargem do Bispo, município de Sintra, com a área de 480,7120 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A - Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alteradores 1 e 3 (suspensões da atividade cinegética), 4 (renovação, área de 419,7120 ha), 5, 6 e 8 (anexações) e 7 (desanexação) não alteram o texto do original.",
+  "instrucoes": [
+    "Alt. 1: suspensão da atividade cinegética, não textual - não aplicado.",
+    "Alt. 2, 1.º: nova redação do n.º 1.º - substituída a unidade 6.",
+    "Alt. 2, 1.º: aditado n.º 1.º-A - inserido depois da unidade 6.",
+    "Alt. 3 a 8: suspensão, renovação, anexações e desanexação, não textuais - não aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

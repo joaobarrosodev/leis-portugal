@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:646721:por",
+  "substituicoes": [
+    {
+      "de": 55,
+      "ate": 55,
+      "texto": "c) Aquisição de material de carga directamente ligado à actividade;",
+      "alterador": 2
+    },
+    {
+      "de": 60,
+      "ate": 61,
+      "texto": "b) Terrenos, sem prejuízo do disposto no número seguinte.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 84,
+      "texto": "8.º-A\n\n1 - As comissões técnicas das Regiões Autónomas dos Açores e da Madeira são designadas pela comissão de selecção, mediante proposta dos respectivos Governos Regionais, ficando sediadas em local a designar por estes.\n\n2 - Os Governos Regionais dos Açores e da Madeira designarão o seu representante, com direito a voto, que participará na comissão de selecção sempre que estiverem em apreciação projectos a realizar nas respectivas Regiões Autónomas.\n\n3 - Os encargos decorrentes da aplicação do disposto nos números anteriores são suportados pelos orçamentos dos respectivos Governos Regionais.\n\n4 - O pagamento dos incentivos financeiros aos projectos a realizar nas Regiões Autónomas é efectuado pela Fundação da Juventude, mediante transferência para o órgão regional competente, que procederá ao pagamento à empresa promotora.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: aditado o n.º 8.º-A — inserido depois da unidade 84 (fim do 8.º)",
+    "Alt. 2, art. 1.º a 3.º: alteram o DL 75-A/91, o DL 215/92 e a Portaria 923/92 — ignorados",
+    "Alt. 2, art. 4.º: nova redação do n.º 5.º; n.º 1 alínea c) — unidade 55; n.º 3 perde a alínea b) e a antiga c) passa a b) — unidades 60 e 61",
+    "Alt. 3 (DL 22/97): cria o SAJE e refere o SIJE só em disposições transitórias, sem alterar nem revogar expressamente o original — nada a aplicar"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

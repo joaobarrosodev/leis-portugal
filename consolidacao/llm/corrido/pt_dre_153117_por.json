@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:153117:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "6.º A presente portaria vigora até 27 de Março de 2004.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 6.º (vigência até 26 de Outubro de 2003) — aplicada e depois substituída pelo alterador 2",
+    "Alterador 2, 1.º: nova redação do n.º 6.º (vigência até 27 de Março de 2004) — unidade 16 substituída"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

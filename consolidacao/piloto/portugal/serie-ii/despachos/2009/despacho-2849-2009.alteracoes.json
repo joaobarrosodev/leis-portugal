@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - Os pagamentos pela ANPC dos montantes atribuídos são efectuados mediante a apresentação do comprovativo da despesa realizada durante o período de 120 dias, anterior à data do aniversário, criação, inauguração ou constituição.",
+    "depois": "3 - Os pagamentos pela ANPC dos montantes atribuídos são efectuados mediante a apresentação do comprovativo da despesa realizada nos 12 meses anteriores à data do aniversário, criação, inauguração ou constituição.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1636841:por",
+    "alterador": "pt:dre:3215718:por"
+  }
+]

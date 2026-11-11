@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 27-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7 - O chefe do projecto é equiparado, para efeitos remuneratórios, a director de serviços.",
+    "depois": "7 - O chefe do projecto é equiparado, para efeitos remuneratórios, incluindo a percepção de despesas de representação, a director de serviços.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:169226:por",
+    "alterador": "pt:dre:522210:por"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:693992:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 21798): substitui o mapa I anexo pelo mapa I anexo à própria portaria; os mapas só vêm em imagem (unidade 19 e quadros do alterador), por isso não se aplica.",
+  "instrucoes": [
+    "Alterador 1: substitui o mapa I (quadros do Comando da 3.ª Região Aérea); mapa só em imagem - nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 34-38",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "21. Ao pessoal contratado ao abrigo da presente portaria são atribuídas as seguintes remunerações:\n\na) Licenciados em Direito, Engenharia Civil, Economia, Finanças ou Gestão de Empresas ... 10200$00\n\nb) Diplomados com o curso de engenheiro técnico ... 8000$00\n\nc) Indivíduos com as qualificações referidas nas alíneas b) e c) do n.º 5 ... 7000$00\n\nd) Indivíduos com as qualificações referidas no n.º 6 ... 6400$00",
+    "depois": "21. Ao pessoal contratado ao abrigo da presente portaria são atribuídas as remunerações correspondentes ao vencimento base dos funcionários do quadro que exerçam funções idênticas, conforme o quadro anexo, que faz parte integrante da presente portaria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:409556:por",
+    "alterador": "pt:dre:250029:por"
+  }
+]

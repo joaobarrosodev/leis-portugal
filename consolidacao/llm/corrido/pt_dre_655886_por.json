@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:655886:por",
+  "substituicoes": [
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "As vagas para o curso de estudos superiores especializados em Línguas Estrangeiras, fixadas nos termos do n.º 3.º, serão distribuídas pelos contingentes e afectadas a cada um deles de acordo com as seguintes percentagens:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 substitui o anexo (plano de estudos), que só vem em imagem e não existe como texto no original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 6.º; só muda o corpo (unidade 27), alíneas a) e b) mantêm-se ('...')",
+    "Alterador 2: novo anexo do plano de estudos só em imagem; não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

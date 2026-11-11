@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 45-45",
+    "operacao": "remover",
+    "regra": "llm",
+    "antes": "Art. 8.º O conselho de administração é composto nos termos do artigo 6.º do [Decreto Legislativo Regional n.º 10/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1989-619936), de 25 de Julho, e reunirá, ordinariamente, uma vez em cada trimestre e, extraordinariamente, sempre que o seu presidente o convoque, por sua iniciativa ou a requerimento de qualquer dos seus membros, em qualquer caso por carta registada, com a antecedência mínima de cinco dias.",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:549409:por",
+    "alterador": "pt:dre:298837:por;pt:dre:547020:por"
+  },
+  {
+    "artigo": "unidades 54-55",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "e) Deliberar sobre a alienação e aquisição de imóveis;\n\nf) Aprovar o estatuto aplicável ao pessoal do IIPA;",
+    "depois": "e) Deliberar sobre a aquisição, alienação e oneração de bens imóveis e de participações financeiras;\n\nf) Aprovar o estatuto aplicável aos trabalhadores do IIPA e proceder à sua contratação;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:549409:por",
+    "alterador": "pt:dre:298837:por;pt:dre:547020:por"
+  },
+  {
+    "artigo": "depois da unidade 56",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "h) Constituir mandatários do IIPA, fixando-lhes os respectivos poderes.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:549409:por",
+    "alterador": "pt:dre:298837:por;pt:dre:547020:por"
+  },
+  {
+    "artigo": "unidades 58-67",
+    "operacao": "remover",
+    "regra": "llm",
+    "antes": "Art. 12.º Compete ao administrador-delegado prosseguir os interesses do IIPA e assegurar a sua gestão e, nomeadamente:\n\na) Elaborar e submeter à aprovação do conselho de administração os planos e orçamentos anuais e os planos estratégicos;\n\nb) Dirigir a actividade do IIPA, praticando todos os actos materiais e jurídicos inseridos no seu objecto.\n\nc) Representar o IIPA em juízo e fora dele;\n\nd) Adquirir, alienar e onerar quaisquer bens e direitos com ressalva do disposto na alínea e) do artigo anterior;\n\ne) Contratar os trabalhadores do IIPA, fixar as suas remunerações e exercer o inerente poder directivo e disciplinar;\n\nf) Executar e fazer executar as decisões do conselho de administração que sejam da sua competência;\n\ng) Elaborar o relatório de gestão e as contas de cada exercício, que submeterá à aprovação do conselho de administração e à homologação, nos termos do artigo 20.º;\n\nh) Constituir mandatários do IIPA, fixando-lhes os respectivos poderes;\n\ni) De uma forma geral, decidir todos os assuntos e praticar todos os actos que, segundo o presente Estatuto, não caibam nas competências de outros órgãos.",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:549409:por",
+    "alterador": "pt:dre:298837:por;pt:dre:547020:por"
+  },
+  {
+    "artigo": "unidades 69-70",
+    "operacao": "remover",
+    "regra": "llm",
+    "antes": "Art. 14.º - 1 - O IIPA obriga-se pela assinatura do administrador-delegado, pela de dois mandatários em actos que caibam nos respectivos poderes ou de um mandatário em acto para que lhe tenham sido conferidos poderes especiais.\n\n2 - Nos actos que não envolvam para o IIPA a assunção de quaisquer responsabilidades bastará a assinatura de um vogal ou de um mandatário, dentro dos seus poderes.",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:549409:por",
+    "alterador": "pt:dre:298837:por;pt:dre:547020:por"
+  }
+]

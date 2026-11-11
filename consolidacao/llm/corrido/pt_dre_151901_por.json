@@ -1,0 +1,35 @@
+{
+  "id": "pt:dre:151901:por",
+  "substituicoes": [
+    {
+      "de": 24,
+      "ate": 24,
+      "texto": "15.º Estes subsídios serão atribuídos para o período considerado, sendo processados pelo Serviço de Lotas e Vendagem, que para o efeito será dotado das verbas necessárias pelo Fundo de Abastecimento, o qual será compensado através das receitas resultantes da aplicação do artigo 6.º do [Decreto-Lei n.º 115-G/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-g-1985-477173), de 18 de Abril.",
+      "alterador": 2
+    },
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "b) Este subsídio será processado pelo Serviço de Lotas e Vendagem, que para o efeito será dotado das verbas necessárias pelo Fundo de Abastecimento, o qual será compensado através das verbas resultantes da aplicação do artigo 6.º do [Decreto-Lei n.º 115-G/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-g-1985-477173), de 18 de Abril;",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "c) Será atribuído para todo o período, e só para a sardinha descarregada pelos barcos abrangidos pelo contrato.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do 15.º (60000 contos) e das alíneas b) e c) do 18.º; a alínea b) fica com esta redação (unidade 29); o 15.º e a alínea c) foram depois substituídos pelo alterador 2.",
+    "Alterador 1, 2.º: entrada em vigor; nada a aplicar.",
+    "Alterador 2, 1.º: nova redação do 15.º (unidade 24) e da alínea c) do 18.º (unidade 30); a) e b) com '...' mantêm-se.",
+    "Alterador 2, 2.º: norma própria sobre o montante global (125000 contos), não altera o texto do original; nada a aplicar.",
+    "Alterador 2, 3.º: entrada em vigor; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:588256:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: mudança de denominação do curso sem instrução de redação textual, e novo anexo (quadros 1 a 9) só em imagem. Alterador 2: novo plano de estudos (quadros 1 a 5) só em imagem; demais números são normas próprias. Alterador 3: duração do curso e novo plano de estudos (quadros 1 a 4) só em imagem; demais números são normas próprias. Nada aplicado ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o curso passa a designar-se Educação Física, Saúde e Desporto; sem instrução de alteração textual do original, não aplicado.",
+    "Alterador 1, 2.º: o anexo passa a ter a redação do anexo da portaria; quadros só em imagem, não aplicado. 3.º a 5.º são normas próprias.",
+    "Alterador 2, 1.º: novo plano de estudos; quadros só em imagem, não aplicado. 2.º a 4.º são normas próprias.",
+    "Alterador 3, 1.º e 2.º: duração de quatro anos (norma própria) e novo plano de estudos com quadros só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º Para além dos contingentes fixados na lista anexa, serão autorizadas importações de valor igual aos de valor nacional, adicionado das exportações de artigos pautais:\n\n73.36.\n\n84.15.02.\n\n84.17.01.\n\n84.19.01.\n\n84.40.03.\n\n84.41.01.\n\n85.07.\n\n85.12.01.\n\n85.12.03.\n\n85.12.06.\n\n85.15.01.\n\n85.15.02.\n\n87.01.\n\n87.14.\n\n92.11.02.\n\n92.12.01.",
+    "depois": "4.º Para além dos contingentes fixados na lista anexa, poderão ser autorizadas, sob condicionalismo a estabelecer por despacho ministerial, importações, em valor que não exceda o valor nacional adicionado nas mercadorias exportadas, que o importador tenha fabricado em Portugal, ou de mercadorias portuguesas que tenham sido exportadas com destino ao fabricante estrangeiro do produto cuja importação se pretenda realizar, destinadas à utilização industrial por esses fabricantes.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:509029:por",
+    "alterador": "pt:dre:240989:por"
+  }
+]

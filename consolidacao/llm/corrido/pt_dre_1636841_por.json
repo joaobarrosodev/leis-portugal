@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:1636841:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "3 - Os pagamentos pela ANPC dos montantes atribuídos são efectuados mediante a apresentação do comprovativo da despesa realizada nos 12 meses anteriores à data do aniversário, criação, inauguração ou constituição.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2, 1: nova redação do n.º 1 com novo quadro, que só vem em imagem (ver documento original); a frase introdutória fica igual e o quadro não é substituído. Alterador 3, artigo 6.º: mantém o despacho em vigor até 31 de dezembro de 2013 — limite de vigência, não alteração textual.",
+  "instrucoes": [
+    "Alterador 1, 1: nova redação do n.º 3 (12 meses anteriores) — unidade 12 substituída, mantido o número 3",
+    "Alterador 2, 1: nova redação do n.º 1 com novo quadro — frase igual, quadro só em imagem, não aplicado",
+    "Alterador 3, artigo 6.º: vigência até 31 de dezembro de 2013 — não textual, nada feito"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

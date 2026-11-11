@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 21-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) De privatização, nos termos das Leis n.º 71/88, de 24 de maio, e n.º 11/90, de 5 de abril (Lei Quadro das Privatizações);",
+    "depois": "a) De privatização, nos termos da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de maio, da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de abril (Lei Quadro das Privatizações), e nos termos e para os efeitos do disposto no artigo 11.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, iniciados após 26 de outubro de 2012.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1438562:por",
+    "alterador": "pt:dre:70485758:por"
+  },
+  {
+    "artigo": "unidades 33-33",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "m) De concessão de garantias financeiras à exportação e ao investimento, reguladas pelo [Decreto-Lei n.º 183/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1988-374430), de 24 de maio, alterado pelo [Decreto-Lei n.º 31/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), de 14 de fevereiro, e da concessão de garantias pessoais do Estado no âmbito de operações de crédito de ajuda, reguladas pela [Lei n.º 4/2006](https://diariodarepublica.pt/dr/detalhe/lei/4-2006-677060), de 21 de fevereiro, em ambos os casos com faculdade de subdelegação desde que o montante a garantir pelo Estado seja inferior a (euro) 5.000.000 (cinco milhões de euros);",
+    "depois": "m) De concessão de garantias financeiras à exportação e ao investimento, reguladas, respetivamente, pelo [Decreto-Lei n.º 183/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1988-374430), de 24 de maio, e pelo [Decreto-Lei n.º 295/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-2001-570098), de 21 de novembro, ambos alterados pelo [Decreto-Lei n.º 31/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), de 14 de fevereiro, da concessão de garantias pessoais do Estado no âmbito de operações de crédito de ajuda, reguladas pela [Lei n.º 4/2006](https://diariodarepublica.pt/dr/detalhe/lei/4-2006-677060), de 21 de fevereiro, em ambos os casos com a faculdade de subdelegação desde que o montante a garantir pelo Estado seja inferior a (euro) 5.000.000 (cinco milhões de euros), bem como da atribuição de bonificação de juros, nos termos do [Decreto-Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2006-667322), de 15 de março.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1438562:por",
+    "alterador": "pt:dre:70485758:por"
+  }
+]

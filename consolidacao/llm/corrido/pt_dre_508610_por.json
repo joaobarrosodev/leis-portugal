@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:508610:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 (a mesma Portaria n.º 973/80): aditam um lugar de bibliotecário-arquivista ao quadro do anexo V, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alteradores 1 e 2, 1.º: aditamento de um lugar ao quadro do anexo V — anexo só em imagem, não aplicado.",
+    "Alterador 3, artigo 1.º: mantém em vigor a portaria — sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

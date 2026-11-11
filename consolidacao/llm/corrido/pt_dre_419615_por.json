@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:419615:por",
+  "substituicoes": [
+    {
+      "de": 533,
+      "ate": 534,
+      "texto": "Art. 3.º - (Revogado.)",
+      "alterador": 6
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alteradores 1 a 5 (DL 325/74, 130/75, 369-A/75, 633/75, 201/76) alteram artigos e mapas do Estatuto Judiciário (DL 44278), não o DL 414/73: ignorados.",
+    "Alterador 6 (DL 387-C/87, art. 87.º, alínea m)) revoga o artigo 3.º do DL 414/73: unidades 533-534 substituídas por 'Art. 3.º - (Revogado.)'; as restantes alíneas do art. 87.º visam outros diplomas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 533-534: parágrafo que não está no alterador nem no original: Art. 3.º - (Revogado.)"
+  ]
+}

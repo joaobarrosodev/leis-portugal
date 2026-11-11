@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:165638:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 813/99), 1.º: o novo plano de estudos (anexo) só vem em imagem (quadros n.os 1 a 4 no documento original); os 2.º a 5.º fixam regras próprias (número de alunos, semanas lectivas, aplicação, transição) sem alterar textualmente o original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui o plano de estudos anexo; anexo só em imagem, não aplicado.",
+    "Alterador 1, 2.º a 5.º: normas autónomas, não alteram o texto do original; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

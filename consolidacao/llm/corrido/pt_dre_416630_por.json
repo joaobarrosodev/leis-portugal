@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:416630:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 23,
+      "texto": "",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: as alterações ao n.º 1.º só vêm em imagem (ver documento original). Alterador 2, 10.º: revogação na parte respeitante à Região Autónoma dos Açores, sem indicar as unidades do texto; não se aplica com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º: alterações ao n.º 1.º em imagem; não aplicado.",
+    "Alterador 1, 2.º: eliminadas as rubricas Condições especiais de aplicação e Cancelamento introduzidas pelo n.º 2.º; unidades 13 a 23 eliminadas.",
+    "Alterador 2, 10.º: revogação parcial (parte respeitante aos Açores); não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

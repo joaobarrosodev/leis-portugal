@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:177835:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "5.º Aos DFA com deficiência inferior a 60% é atribuído o cartão modelo A.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 884/85), 2.º: o modelo A de cartão anexo é substituído pelo modelo anexo à portaria alteradora, que só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 5.º; substituída a unidade 10.",
+    "Alterador 1, 2.º: substituição do modelo A anexo; só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

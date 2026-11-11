@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:694180:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 (Portaria n.º 462/2003, n.º 1.º) e 3 (Portaria n.º 753/2005, n.º 1.º) dão nova redação ao anexo, mas os quadros do plano de estudos só vêm em imagem; alterador 2 (Portaria n.º 595/2005, n.º 5.º) muda a estrutura do curso (opções e ramos) sem alteração textual do original. Nada aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui o anexo (quadros n.os 1 a 12, só em imagem) - nao_aplicavel; n.os 2.º a 4.º são normas próprias - ignorados.",
+    "Alterador 2, n.º 5.º: desdobra o 1.º e 2.º ciclos do curso em opções/ramos; não é alteração textual - nao_aplicavel; restantes normas não visam o original.",
+    "Alterador 3, n.º 1.º: substitui o anexo (quadros n.os 1 a 50, só em imagem) - nao_aplicavel; n.º 3.º revoga outros diplomas - ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

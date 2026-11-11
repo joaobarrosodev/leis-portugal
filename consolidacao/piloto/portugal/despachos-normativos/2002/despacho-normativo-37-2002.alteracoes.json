@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 45",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "Artigo 12.º-A\n\n1 - O último período relevante para efeitos de atribuição do incentivo previsto no artigo 3.º do presente diploma termina a 30 de Junho de 2004.\n\n2 - Os contrastes de performance (CP) e os contrastes leiteiros efectuados após 1 de Setembro de 2004 não são elegíveis para efeitos dos incentivos previstos nos artigos 6.º e 7.º do presente diploma.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:141581:por",
+    "alterador": "pt:dre:525604:por"
+  }
+]
