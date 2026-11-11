@@ -2,6 +2,45 @@
 
 Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obter o texto em vigor dos diplomas que o DRE dá como alterados mas não consolida, aplicando as alterações publicadas. Só `acervo.py` altera `data/`, e só com os consolidados verificados às cegas (ver "Aplicação ao acervo").
 
+## O que falha e porquê (estado em 11/11/2026)
+
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.272 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+
+### 1. Verificados às cegas com reparos: 779 diplomas
+
+Na última ronda em que cada diploma esteve, 2.285 ficaram com tudo `certo` e 779 não. Causas, contadas por palavras-chave nos motivos do verificador (`verificacao/saida-piloto-*.jsonl`; um diploma pode ter mais de uma, por isso a soma passa de 779):
+
+| Causa | Diplomas | Resolúvel? |
+|---|--:|---|
+| Anexo, quadro, mapa ou planta só em imagem ou PDF | 447 | Não por texto: o conteúdo não está no acervo |
+| Erro de texto do LLM (palavra, número, alínea) | 252 | Em parte: repedir só o artigo errado ao mesmo modelo resolveu alguns |
+| Títulos de divisão e epígrafes (secção, capítulo) | 74 | Em grande parte: o formato com títulos (rondas 40–43 e 60–61) já os trata |
+| Artigos a mais ou a menos | 39 | Caso a caso |
+| Instrução ambígua ("[Anterior alínea b)]") | 36 | Caso a caso, com leitura jurídica |
+| Fórmulas finais e assinaturas fora do sítio | 32 | Corrigido em `_recolocar_assinaturas`; falta repedir os antigos |
+| Revogação condicional ou adiada | 15 | Não se aplica ao texto, por regra: ficam de fora de propósito |
+| Chaves repetidas (decreto e estatuto anexo com o mesmo n.º de artigo) | 14 | Corrigido (`N.º#2`); falta repedir os antigos, como o DL 321-B/90 |
+| Republicação cortada pelo limite de 60 mil caracteres | 5 | Partir da última republicação em vez do original |
+
+A contagem é aproximada (classificação por palavras-chave, não por leitura).
+
+### 2. Certos às cegas mas recusados pelo `acervo.py`: 11 diplomas
+
+**5 com uma consolidação anterior em `data/`:** DL 236/85 (`pt:dre:183049`), DL 350/88 (`355570`), Decreto 44240 (`516702`), DL 511/99 (`643086`) e DRR 17/2001/M (`348524`). Já tinham sido consolidados e verificados (os três primeiros a 27/10, os dois últimos no bloco 9); foram refeitos depois com mais alteradores e passaram de novo às cegas. O `acervo.py` só consolida a partir do texto original (`version.kind: original`) e recusa substituir uma consolidação nossa. Para os aplicar: aceitar substituir uma consolidação do leis-portugal quando o original do histórico (`*.versoes.json`, versão 1) é o original verificado.
+
+**6 em que o histórico não reproduz o consolidado:** `pt:dre:372655`, `605310`, `226426`, `239822`, `541645` e `640122`, todos de texto corrido. Em todos, a única diferença é **uma linha em branco a mais** que o histórico renderizado tem num ponto do texto; nenhuma diferença de conteúdo. A comparação em `acervo.py` só reduz `\n\n\n` a `\n\n` uma vez. Para os aplicar: normalizar todas as sequências de linhas em branco nos dois lados (`re.sub(r"\n{3,}", "\n\n", …)`) antes de comparar.
+
+### 3. Por pedir: grandes demais para o método atual
+
+- **13 sem artigos com pedido acima de 270 mil caracteres** (`llm_corrido.candidatos()` devolve só estes): Portaria 413-E/98 (307 mil, 239 citações), DL 394-B/84 (2,1 milhões, 154), DL 400/82 (1,5 milhões, 127), DL 43335, Decreto 46982, RCM 27/2000, DL 44278, DL 44305, DL 45399, DL 740/74, Portaria 721-A/2000, RCM 92/2000 e RCM 81-A/2026. A fazer partindo o pedido por grupos de alteradores, como nos 93 grandes, e não pelo diploma inteiro.
+- **4 dos 93 grandes com o próprio texto grande demais** (DL 63-A/2013, DL 55-A/2000, DL 202/2000, DLR 5/2006/A): a fazer partindo também o texto atual.
+- **DL 38/2003:** o original está mal segmentado em artigos; precisa de correção do parser antes.
+- **18 leis de orçamento** dos 93 grandes: deixadas de fora por decisão (pouco valor para o RAG; quase todos os alteradores visam os códigos fiscais e não o próprio texto). Lista em "Bloco 3 dos 93 grandes".
+
+### 4. Nunca chegam à verificação
+
+Em todas as filas, uma fatia grande das respostas do LLM é "sem alterações" ao texto: alteradores que só trocam anexos em imagem, revogam o diploma por inteiro, prorrogam prazos ou mudam nomes de entidades. Não são falhas do método; são diplomas cujo texto, por escrito, não muda. Ficam como informação para a vigência.
+
 ## Resultado em resumo
 
 Dos 671 diplomas do alvo, só 123 têm, no diploma que os altera, instruções de alteração dirigidas a eles. Em 500 a relação `amended_by` do DRE não corresponde a nenhuma alteração ao texto. As regras aplicaram 27 diplomas por inteiro, e todos passaram a verificação automática. Na verificação às cegas, 24 têm todos os artigos `certo` e 3 tinham uma dúvida; uma resolveu-se, e **25 estão no acervo** desde 2026-10-27. 72 ficaram para o LLM, 5 falharam a verificação e 17 foram revogados por inteiro, embora o DRE os dê como em vigor. Uma sessão do Claude (Opus 5.5) respondeu aos 77 pendentes. 46 respostas passaram a verificação letra a letra e 26 juntaram-se ao original. Na verificação às cegas, **20 dos 26 têm tudo `certo`** e também estão no acervo: são **45 no total** (ver "Pendentes numa sessão do Claude"). A triagem e as regras correram depois nos 25.498 em vigor alterados sem consolidação: ver "Escala".
