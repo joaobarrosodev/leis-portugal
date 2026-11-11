@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-06-12'
+version_history:
+  file: portaria-401-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-07-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-06-12'
+    amending: pt:dre:611079:por
+    amending_title: Portaria n.º 344/89
+    changes:
+    - Altera Artigo unidades 40-42
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:03:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 344/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1976/portaria-401-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -176,11 +191,15 @@ f) Traçado rigoroso das canalizações de alta tensão desde a entrada do edif�
 
 7. Quando se tratar de modificações a introduzir em instalações já licenciadas, poderá permitir-se que não sejam observadas as escalas mencionadas neste artigo, aceitando-se as que constam dos projectos iniciais.
 
-2.º - 1. As peças do projecto serão entregues em triplicado (sendo dois exemplares selados em cada uma das folhas do texto e dos desenhos). Se nele figurarem os documentos especificados nos n.os 1) a 5) da alínea n) do n.º 1 do artigo anterior, será entregue mais um exemplar de cada um desses documentos e da planta geral referida na alínea b) do mesmo número e artigo, assim como do respectivo capítulo especial da memória descritiva e justificativa, devendo, no caso do n.º 6) da alínea n) atrás referida, ser entregues mais três exemplares.
+2.º - 1 - Os exemplares do projecto serão entregues, em triplicado ou em duplicado, conforme as instalações sejam sujeitas a licenciamento, na Direcção de Serviços de Energia Eléctrica ou nas direcções de serviços regionais da DGE.
 
-2. Se a instalação a estabelecer compreender linhas de alta tensão abrangendo mais de um concelho, deverá ser entregue, além do projecto em triplicado, o número de exemplares da planta parcelar e perfil longitudinal a que se referem as alíneas c) e d) do n.º 1 do artigo anterior, totais ou parciais, não selados, que vierem a ser necessários para a consulta às entidades indicadas nos artigos 18.º e 19.º do Regulamento de Licenças para Instalações Eléctricas e remessa às câmaras municipais interessadas.
+2 - Se no projecto figurarem os documentos especificados nos n.os 1) a 5) da alínea n) do n.º 1 do artigo anterior, será entregue mais um exemplar de cada um desses documentos e da planta geral referida na alínea b) do mesmo número e artigo, assim como do respectivo parágrafo especial da memória descritiva e justificativa, devendo, no caso do n.º 6) da alínea n) atrás referida, ser entregues mais três exemplares.
 
-3. Se se tratar de linhas de alta ou baixa tensão subterrâneas ou de linhas aéreas de baixa tensão que ocupem a zona de estradas nacionais ou de outras sujeitas à jurisdição da Junta Autónoma de Estradas, deverá ser apresentado mais um exemplar das plantas parcelares indicadas nas alíneas e) e f) do n.º 1 do artigo anterior.
+3 - Se a instalação a estabelecer compreender linhas de alta tensão, além dos exemplares do projecto referidos no n.º 1, deverá ainda ser entregue o número de exemplares da planta parcelar e perfil longitudinal a que se referem as alíneas c) e d) do n.º 1 do artigo anterior, totais ou parciais, que vierem a ser necessários para a consulta às entidades previstas no artigo 18.º do Regulamento de Licenças para Instalações Eléctricas, com a redacção dada pelo [Decreto-Lei n.º 446/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), de 5 de Junho, e remessa às câmaras municipais interessadas.
+
+4 - Se se tratar de linhas subterrâneas de alta ou baixa tensão ou de linhas aéreas de baixa tensão que ocupem a zona de estradas nacionais ou de outras sujeitas à jurisdição da Junta Autónoma de Estradas, deverá ser apresentado mais um exemplar das plantas parcelares indicadas nas alíneas e) e f) do n.º 1 do artigo anterior.
+
+> Alterado pelo/a [Portaria n.º 344/89](https://diariodarepublica.pt/dr/detalhe/portaria/344-1989-611079), publicado em 1989-05-13.
 
 3.º - 1. As peças escritas e desenhadas que constituírem o projecto deverão ter dimensões normalizadas, ser elaboradas e dobradas de acordo com as normas em vigor e regras da técnica e ser numeradas ou identificadas por letras e algarismos.
 

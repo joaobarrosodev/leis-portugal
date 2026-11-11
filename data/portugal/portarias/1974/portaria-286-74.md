@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-08-29'
+version_history:
+  file: portaria-286-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-04-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-08-29'
+    amending: pt:dre:563624:por
+    amending_title: Portaria n.º 873/81; Portaria n.º 425/82; Portaria n.º 733/87
+    changes:
+    - Altera Artigo unidades 5-5
+    - Altera Artigo unidades 16-16
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:23:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 873/81; Portaria n.º
+    425/82; Portaria n.º 733/87. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1974/portaria-286-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,7 +132,11 @@ Convindo reformular - sem prejuízo de uma mais profunda revisão do sistema de 
 
 Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, que nos exames de condução de veículos automóveis passe a observar-se o seguinte:
 
-1.º A prova teórica a que se refere a alínea b) do n.º 1 do artigo 49.º do Código da Estrada constará de testes escritos, nos termos dos números seguintes.
+1.º A prova teórica a que se refere a alínea a) do n.º 1 do artigo 49.º do Código da Estrada, com a redacção dada pelo artigo 1.º do [Decreto Regulamentar n.º 47/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1987-417258), de 29 de Julho, constará de testes escritos, nos termos dos números seguintes.
+
+Porém, os candidatos a condutores de motociclos, automóveis ligeiros e automóveis pesados que tenham reprovado uma vez na prova teórica, por testes escritos, poderão requerer a realização de prova oral na direcção de serviços de viação onde se encontra o processo.
+
+> Alterado pelo/a [Portaria n.º 733/87](https://diariodarepublica.pt/dr/detalhe/portaria/733-1987-418225), publicado em 1987-08-24.
 
 2.º A prova teórica abrangerá toda a matéria contida no Código da Estrada, seu Regulamento e demais legislação avulsa sobre sinalização, circulação e segurança rodoviária e constará de duas partes:
 
@@ -137,9 +158,23 @@ b) Dêem mais de uma resposta errada nas questões sobre sinais de trânsito.
 
 7.º Serão eliminados na prova técnica os candidatos que dêem mais de duas respostas erradas no teste escrito.
 
-8.º Em todas as provas de exame é obrigatória a identificação dos candidatos mediante a exibição do respectivo bilhete de identidade.
+8.º Em todas as provas de exame é obrigatória a identificação do candidato, mediante documento julgado suficiente para o efeito, nos termos a definir por despacho do director-geral de Viação.
 
-9.º Será impedido de prosseguir a sua prova e considerado eliminado o candidato que perturbe a ordem ou cometa ou tente cometer qualquer fraude.
+> Alterado pelo/a [Portaria n.º 873/81](https://diariodarepublica.pt/dr/detalhe/portaria/873-1981-563624), publicado em 1981-09-29.
+
+9.º Serão impedidos de prosseguir a sua prova e considerados eliminados:
+
+a) Os candidatos que perturbem a ordem;
+
+b) Os candidatos que cometam ou tentem cometer fraude;
+
+c) Os candidatos que efectuem quaisquer rascunhos fora do verso da folha de respostas ou reproduzam as questões dos testes ou as figuras dos painéis por forma a facilitar a sua divulgação;
+
+d) Os candidatos que danifiquem ou de qualquer modo inutilizem os testes por forma a impedir a sua aplicação;
+
+e) Os candidatos que desrespeitem qualquer das instruções fixadas para a realização da prova teórica de exame.
+
+> Alterado pelo/a [Portaria n.º 425/82](https://diariodarepublica.pt/dr/detalhe/portaria/425-1982-606702), publicado em 1982-04-26.
 
 10.º As dúvidas suscitadas na aplicação da presente portaria serão resolvidas por despacho do Ministro das Comunicações.
 

@@ -40,10 +40,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-03-13'
+version_history:
+  file: portaria-331-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-03-13'
+    amending: pt:dre:171892:por
+    amending_title: Portaria n.º 855/85; Portaria n.º 69/86
+    changes:
+    - Altera Artigo unidades 24-24
+    - Altera Artigo unidades 29-29
+    - Altera Artigo unidades 30-30
 identifiers:
   celex: null
   eli: null
@@ -69,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:24:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 855/85; Portaria n.º
+    69/86. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-331-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -183,7 +200,9 @@ b) Classe B - 14$00/kg.
 
 14.º Nos portos em que a venda se processa por barco, as organizações de produtores ou os produtores não associados poderão praticar um único preço de retirada, o da categoria de frescura e apresentação da classe B, não tendo nesse caso direito ao subsídio de congelação.
 
-15.º Estes subsídios serão atribuídos até uma despesa máxima, para o período considerado, de 80000 contos, dos quais 25000 contos para o subsídio à farinação, sendo processados e pagos pelo Serviço de Lotas e Vendagem, que para o efeito será dotado das verbas necessárias pela Comissão Reguladora do Comércio de Bacalhau, devendo esta ser compensada posteriormente através das receitas resultantes da aplicação do artigo 6.º do [Decreto-Lei n.º 115-G/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-g-1985-477173), de 18 de Abril.
+15.º Estes subsídios serão atribuídos para o período considerado, sendo processados pelo Serviço de Lotas e Vendagem, que para o efeito será dotado das verbas necessárias pelo Fundo de Abastecimento, o qual será compensado através das receitas resultantes da aplicação do artigo 6.º do [Decreto-Lei n.º 115-G/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-g-1985-477173), de 18 de Abril.
+
+> Alterado pelo/a [Portaria n.º 69/86](https://diariodarepublica.pt/dr/detalhe/portaria/69-1986-193589), publicado em 1986-03-08.
 
 16.º Poderá, cumulativamente, ser atribuído pela Comissão Reguladora do Comércio de Bacalhau às organizações de produtores ou aos produtores não associados um adiantamento, até 50% do preço de retirada, por quilograma de sardinha congelada com direito a subsídio, devendo para o efeito ser constituída garantia através de depósito em regime de armazéns gerais industriais no Instituto Português de Conservas de Peixe.
 
@@ -193,9 +212,13 @@ b) Classe B - 14$00/kg.
 
 a) O contrato deve ser apresentado previamente à Secretaria de Estado das Pescas e deve prever um preço não inferior ao preço de retirada para as categorias de frescura Extra e A, adicionado de 15%;
 
-b) Este subsídio será processado pelo Serviço de Lotas e Vendagem, que para o efeito será dotado das verbas necessárias pela Comissão Reguladora do Comércio de Bacalhau, devendo esta ser compensada posteriormente através das verbas resultantes da aplicação do artigo 6.º do [Decreto-Lei n.º 115-G/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-g-1985-477173), de 18 de Abril;
+b) Este subsídio será processado pelo Serviço de Lotas e Vendagem, que para o efeito será dotado das verbas necessárias pelo Fundo de Abastecimento, o qual será compensado através das verbas resultantes da aplicação do artigo 6.º do [Decreto-Lei n.º 115-G/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-g-1985-477173), de 18 de Abril;
 
-c) Será atribuído até ao máximo de 45000 contos para todo o período, e só para a sardinha descarregada pelos barcos abrangidos pelo contrato, até um limite de 400 t por barco.
+> Alterado pelo/a [Portaria n.º 855/85](https://diariodarepublica.pt/dr/detalhe/portaria/855-1985-171892), publicado em 1985-11-13.
+
+c) Será atribuído para todo o período, e só para a sardinha descarregada pelos barcos abrangidos pelo contrato.
+
+> Alterado pelo/a [Portaria n.º 69/86](https://diariodarepublica.pt/dr/detalhe/portaria/69-1986-193589), publicado em 1986-03-08.
 
 19.º O acompanhamento e controle destas operações será efectuado pelo Serviço de Lotas e Vendagem com a colaboração do Instituto Português de Conservas de Peixe e da Comissão Reguladora do Comércio de Bacalhau em termos a estabelecer por despacho do Secretário de Estado das Pescas.
 

@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:563585:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-11-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9b4492c4c3de4827",
+    "09e16e8425281202"
+   ]
+  },
+  {
+   "date": "2002-09-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:173890:por",
+     "title": "Portaria n.º 1148/2002",
+     "published": "2002-08-28",
+     "dre_path": "/dr/detalhe/portaria/1148-2002-173890"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 14-15"
+   ],
+   "fragments": [
+    "d0d30604475b3aeb",
+    "09e16e8425281202"
+   ]
+  }
+ ],
+ "fragments": {
+  "9b4492c4c3de4827": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Novembro\n\nA requerimento da COFAC - Cooperativa de Formação e Animação Cultural, C. R. L., entidade instituidora da Universidade Lusófona de Humanidades e Tecnologias, reconhecida como de interesse público pelo [Decreto-Lei n.º 92/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1998-167074), de 14 de Abril, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nConsiderando o disposto na [Portaria n.º 189/95](https://diariodarepublica.pt/dr/detalhe/portaria/189-1995-184175), de 14 de Março, conjugado com o n.º 2 do artigo 7.º do [Decreto-Lei n.º 92/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1998-167074), de 14 de Abril, alterada pela [Portaria n.º 896/98](https://diariodarepublica.pt/dr/detalhe/portaria/896-1998-235561), de 10 de Outubro;\n\nInstruído, organizado e apreciado o processo nos termos do artigo 67.º do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nColhido o parecer da comissão de especialistas a que se refere o n.º 3 do artigo 52.º do referido Estatuto;\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAlteração do plano de estudos\n\nO plano de estudos do curso de Arquitectura ministrado na Universidade Lusófona de Humanidades e Tecnologias passa a ser o constante do anexo à presente portaria.\n\n2.º\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente não pode exceder 120.\n\n2 - A frequência global do curso não pode exceder 720 alunos.\n\n3.º\n\nDuração do ano e semestre lectivos\n\n1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.\n\n4.º\n\nTransição\n\nAs regras de transição entre o anterior e o novo plano de estudos são fixadas pelo órgão legal e estatutariamente competente da Universidade.\n\n5.º\n\nAplicação\n\nO disposto na presente portaria aplica-se a partir do ano lectivo de 2001-2002, inclusive.\n\nPelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Estado do Ensino Superior, em 24 de Outubro de 2001."
+  },
+  "09e16e8425281202": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — ([Portaria n.º 896/98](https://diariodarepublica.pt/dr/detalhe/portaria/896-1998-235561), de 10 de Outubro - alteração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ([Portaria n.º 896/98](https://diariodarepublica.pt/dr/detalhe/portaria/896-1998-235561), de 10 de Outubro - alteração)\n\nUniversidade Lusófona de Humanidades e Tecnologias\n\nCurso de Arquitectura\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)\n\nQUADRO N.º 5\n\n5.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)\n\nQUADRO N.º 6\n\n6.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)](https://files.diariodarepublica.pt/1s/2001/11/268b00/73507352.pdf)"
+  },
+  "d0d30604475b3aeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2002-09-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1148/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1148-2002-173890), publicado em 2002-08-28."
+   ],
+   "markdown": "de 19 de Novembro\n\nA requerimento da COFAC - Cooperativa de Formação e Animação Cultural, C. R. L., entidade instituidora da Universidade Lusófona de Humanidades e Tecnologias, reconhecida como de interesse público pelo [Decreto-Lei n.º 92/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1998-167074), de 14 de Abril, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nConsiderando o disposto na [Portaria n.º 189/95](https://diariodarepublica.pt/dr/detalhe/portaria/189-1995-184175), de 14 de Março, conjugado com o n.º 2 do artigo 7.º do [Decreto-Lei n.º 92/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1998-167074), de 14 de Abril, alterada pela [Portaria n.º 896/98](https://diariodarepublica.pt/dr/detalhe/portaria/896-1998-235561), de 10 de Outubro;\n\nInstruído, organizado e apreciado o processo nos termos do artigo 67.º do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nColhido o parecer da comissão de especialistas a que se refere o n.º 3 do artigo 52.º do referido Estatuto;\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAlteração do plano de estudos\n\nO plano de estudos do curso de Arquitectura ministrado na Universidade Lusófona de Humanidades e Tecnologias passa a ser o constante do anexo à presente portaria.\n\n2.º\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente não pode exceder 150.\n\n2 - A frequência global do curso não pode exceder 900 alunos.\n\n> Alterado pelo/a [Portaria n.º 1148/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1148-2002-173890), publicado em 2002-08-28.\n\n3.º\n\nDuração do ano e semestre lectivos\n\n1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.\n\n4.º\n\nTransição\n\nAs regras de transição entre o anterior e o novo plano de estudos são fixadas pelo órgão legal e estatutariamente competente da Universidade.\n\n5.º\n\nAplicação\n\nO disposto na presente portaria aplica-se a partir do ano lectivo de 2001-2002, inclusive.\n\nPelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Estado do Ensino Superior, em 24 de Outubro de 2001."
+  }
+ }
+}

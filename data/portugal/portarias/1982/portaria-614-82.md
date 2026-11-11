@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-01-17'
+version_history:
+  file: portaria-614-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-06-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-01-17'
+    amending: pt:dre:660290:por
+    amending_title: Portaria n.º 19/84
+    changes:
+    - Altera Artigo unidades 16-16
+    - Altera Artigo unidades 40-40
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:20:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 19/84. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-614-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,7 +163,9 @@ b) Em fase de inscrição no CNV, cuja admissão seja requerida pela entidade in
 
 c) Inscritas em catálogos oficiais de outros países, se a semente a produzir for destinada exclusivamente a exportação.
 
-4 - São ainda admitidas ao esquema, até 1986, as variedades incluídas na Lista Nacional de Variedades (LNV), desde que:
+4 - São ainda admitidas ao esquema, até 1990, as variedades incluídas na lista nacional de variedades (LNV), desde que:
+
+> Alterado pelo/a [Portaria n.º 19/84](https://diariodarepublica.pt/dr/detalhe/portaria/19-1984-660290), publicado em 1984-01-12.
 
 a) Tenham apresentado, em ensaios oficiais para avaliação dos valores agronómico e de utilização, resultados que justifiquem a certificação das respectivas sementes;
 
@@ -195,7 +213,9 @@ e) Categorias especiais que serão definidas nos Regulamentos Técnicos anexos.
 
 12 - Os produtores de semente base que desejem produzir semente de qualquer variedade do domínio público deverão comunicar nesse sentido à Direcção de Serviços de Ordenamento e Planeamento da DGPPA, a qual dará conhecimento da posição verificada à DSCQS.
 
-13 - A produção de semente da categoria certificada de uma variedade, quando não efectuada pelo seu obtentor ou proprietário actual, só é permitida pela DSCQS se a entidade interessada fizer prova documental de que está autorizada pelo detentor dos direitos de propriedade dessa variedade a proceder à sua multiplicação.
+13 - A produção de semente da categoria certificada de uma variedade, inscrita no CNV, quando não efectuada pelo seu obtentor ou proprietário actual, só é permitida pela Direcção dos Serviços de Controle de Qualidade de Sementes se a entidade interessada fizer prova documental de que está autorizada pelo detentor dos direitos de propriedade dessa variedade a proceder à sua multiplicação.
+
+> Alterado pelo/a [Portaria n.º 19/84](https://diariodarepublica.pt/dr/detalhe/portaria/19-1984-660290), publicado em 1984-01-12.
 
 ### CAPÍTULO VII — Inscrição e controle dos campos de produção de sementes
 

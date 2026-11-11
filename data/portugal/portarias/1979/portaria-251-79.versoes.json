@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:383603:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-05-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6606b33dfff7105a"
+   ]
+  },
+  {
+   "date": "1979-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:380510:por",
+     "title": "Portaria n.º 323/79",
+     "published": "1979-07-05",
+     "dre_path": "/dr/detalhe/portaria/323-1979-380510"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-8"
+   ],
+   "fragments": [
+    "96fe21400f61d2b7"
+   ]
+  }
+ ],
+ "fragments": {
+  "6606b33dfff7105a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Maio\n\nConsiderando que as áreas abrangidas, em parte ou na totalidade, pelos concelhos de Tomar, Entroncamento, Torres Novas, Alcanena, Vila Nova da Barquinha, Golegã, Chamusca, Rio Maior, Santarém, Alpiarça, Almeirim, Salvaterra de Magos, Coruche e Benavente, do distrito de Santarém, Montemor-o-Novo, Vendas Novas e Mora, do distrito de Évora, Ponte de Sor, do distrito de Portalegre, e Grândola e Alcácer do Sal, do distrito de Setúbal, são responsáveis pelas infiltrações naturais de águas pluviais que alimentam as formações aquíferas do Baixo Tejo e do Baixo Sado, donde são extraídos elevados volumes de água subterrânea, sobretudo na península de Setúbal, cujos níveis piezométricos estão a descer de forma preocupante, que as captações existentes nesta têm decorrido de forma indisciplinada, que se torna indispensável proceder ao contrôle dos volumes extraídos para o estudo e gestão equilibarada dos recursos hídricos subterrâneos, bem como a opção de soluções técnicas que proporcionem uma melhor optimização da utilização deste fluído;\n\nConsiderando que nalguns casos correm riscos as captações de abastecimento público existentes e que se torna necessário disciplinar as extracções de água das formações aquíferas ocorrentes nas áreas dos concelhos de Espinho, Feira, Ovar, Murtosa, Estarreja, Aveiro, Albergaria-a-Velha, Ílhavo, Vagos, Águeda, Oliveira do Bairro, Anadia e Mealhada, do distrito de Aveiro, Mira e Miranda do Corvo, do distrito de Coimbra, Ancião, Batalha, Caldas das Rainha e Bombarral, do distrito de Leiria, Cadaval, Mafra, Sobral de Monte Agraço, Arruda dos Vinhos, Lourinhã e Torres Vedras, do distrito de Lisboa, Ferreira do Zêzere e Vila Nova de Ourém, do distrito de Santarém, Ferreira do Alentejo, Alvito, Vidigueira, Cuba, Beja, Serpa e Moura, do distrito de Beja, Viana do Alentejo e Portel, do distrito de Évora, Vila do Bispo, Lagos, Portimão, Silves, Lagoa, Albufeira, Loulé, S. Brás de Alportel, Faro, Olhão, Tavira, Castro Marim e Vila Real de Santo António, do distrito de Faro, com o fim de conhecer os volumes extraídos para o estudo e gestão destes recursos naturais;\n\nAtendendo ao estipulado no artigo 24.º do [Decreto-Lei n.º 376/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1977-286493), de 5 de Setembro:\n\nManda o Governo da República Portuguesa, pelo Ministro da Habitação e Obras Públicas:\n\n1.º O disposto no n.º 1 do artigo 1.º do Decreto-Lei 376/77, de 5 de Setembro, é tornado extensivo aos concelhos de Tomar, Entroncamento, Torres Novas, Alcanena, Vila Nova da Barquinha, Golegã, Chamusca, Rio Maior, Santarém, Alpiarça, Almeirim, Salvaterra de Magos, Coruche e Benavente, do distrito de Santarém, Montemor-o-Novo, Vendas Novas e Mora, do distrito de Évora, Ponte de Sor, do distrito de Portalegre, Grândola e Alcácer do Sal do distrito de Setúbal, Vila do Bispo, Lagos, Portimão, Silves, Lagoa, Albufeira, Loulé, São Brás de Alportel, Faro, Olhão, Tavira, Castro Marim e Vila Real de Santo António, do distrito de Faro, Ferreira do Alentejo, Alvito, Vidigueira, Cuba, Beja, Serpa e Moura, do distrito de Beja, Viana do Alentejo e Portel, do distrito de Évora, com excepção da faixa de 6 km, nos concelhos de Benavente e Salvaterra de Magos, prevista no artigo 1.º do [Decreto-Lei n.º 43371](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43371-1960-512868), de 3 de Dezembro de 1960.\n\n2.º As disposições contidas no n.º 2 do artigo 1.º do mesmo diploma são tornadas extensivas aos concelhos de Espinho, Feira, Ovar, Murtosa, Estarreja, Aveiro, Albergaria-a-Velha, Ilhavo, Vagos, Águeda, Oliveira do Bairro, Anadia e Mealhada, do distrito de Aveiro, Mira e Miranda do Corvo, do distrito de Coimbra, Cadaval, Mafra, Sobral de Monte Agraço, Arruda dos Vinhos, Lourinhã e Torres Vedras do distrito de Lisboa, e Ferreira do Zêzere e Vila Nova de Ourém, do distrito de Santarém.\n\n3.º É concedido o prazo de cento e oitenta dias, a contar da data da publicação deste diploma, para cumprimento, quanto às situações por ele abrangidas das obrigações impostas pelos artigos 19.º e 20.º do [Decreto-Lei n.º 376/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1977-286493), de 5 de Setembro, ficando os infractores sujeitos às sanções ali consignadas.\n\nMinistério da Habitação e Obras Públicas, 2 de Maio de 1979. - O Ministro da Habitação e Obras Públicas, João Orlindo Almeida Pina."
+  },
+  "96fe21400f61d2b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1979-07-05",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 323/79](https://diariodarepublica.pt/dr/detalhe/portaria/323-1979-380510), publicado em 1979-07-05."
+   ],
+   "markdown": "de 30 de Maio\n\nConsiderando que as áreas abrangidas, em parte ou na totalidade, pelos concelhos de Tomar, Entroncamento, Torres Novas, Alcanena, Vila Nova da Barquinha, Golegã, Chamusca, Rio Maior, Santarém, Alpiarça, Almeirim, Salvaterra de Magos, Coruche e Benavente, do distrito de Santarém, Montemor-o-Novo, Vendas Novas e Mora, do distrito de Évora, Ponte de Sor, do distrito de Portalegre, e Grândola e Alcácer do Sal, do distrito de Setúbal, são responsáveis pelas infiltrações naturais de águas pluviais que alimentam as formações aquíferas do Baixo Tejo e do Baixo Sado, donde são extraídos elevados volumes de água subterrânea, sobretudo na península de Setúbal, cujos níveis piezométricos estão a descer de forma preocupante, que as captações existentes nesta têm decorrido de forma indisciplinada, que se torna indispensável proceder ao contrôle dos volumes extraídos para o estudo e gestão equilibarada dos recursos hídricos subterrâneos, bem como a opção de soluções técnicas que proporcionem uma melhor optimização da utilização deste fluído;\n\nConsiderando que nalguns casos correm riscos as captações de abastecimento público existentes e que se torna necessário disciplinar as extracções de água das formações aquíferas ocorrentes nas áreas dos concelhos de Espinho, Feira, Ovar, Murtosa, Estarreja, Aveiro, Albergaria-a-Velha, Ílhavo, Vagos, Águeda, Oliveira do Bairro, Anadia e Mealhada, do distrito de Aveiro, Mira e Miranda do Corvo, do distrito de Coimbra, Ancião, Batalha, Caldas das Rainha e Bombarral, do distrito de Leiria, Cadaval, Mafra, Sobral de Monte Agraço, Arruda dos Vinhos, Lourinhã e Torres Vedras, do distrito de Lisboa, Ferreira do Zêzere e Vila Nova de Ourém, do distrito de Santarém, Ferreira do Alentejo, Alvito, Vidigueira, Cuba, Beja, Serpa e Moura, do distrito de Beja, Viana do Alentejo e Portel, do distrito de Évora, Vila do Bispo, Lagos, Portimão, Silves, Lagoa, Albufeira, Loulé, S. Brás de Alportel, Faro, Olhão, Tavira, Castro Marim e Vila Real de Santo António, do distrito de Faro, com o fim de conhecer os volumes extraídos para o estudo e gestão destes recursos naturais;\n\nAtendendo ao estipulado no artigo 24.º do [Decreto-Lei n.º 376/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1977-286493), de 5 de Setembro:\n\nManda o Governo da República Portuguesa, pelo Ministro da Habitação e Obras Públicas:\n\n1.º - 1 - O disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 376/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1977-286493), de 5 de Setembro, é tornado extensivo aos seguintes concelhos:\n\na) No distrito de Aveiro:\n\nOvar, Murtosa, Estarreja, Aveiro, Ílhavo, Vagos, Anadia e Mealhada.\n\nb) No distrito de Coimbra:\n\nMira, Cantanhede, Figueira da Foz, Coimbra e Condeixa-a-Nova.\n\nc) No distrito de Leiria:\n\nPombal, Leiria, Marinha Grande, Alcobaça, Caldas da Rainha, Peniche e Nazaré.\n\nd) No distrito de Santarém:\n\nTomar, Entroncamento, Torres Novas, Alcanena, Vila Nova da Barquinha, Golegã, Chamusca, Rio Maior, Santarém, Alpiarça, Almeirim, Salvaterra de Magos, Coruche e Benavente.\n\ne) No distrito de Portalegre:\n\nPonte de Sor.\n\nf) No distrito de Setúbal:\n\nGrândola e Alcácer do Sal.\n\ng) No distrito de Évora:\n\nMontemor-o-Novo, Vendas Novas, Mora, Viana do Alentejo e Portel.\n\nh) No distrito de Beja:\n\nFerreira do Alentejo, Alvito, Vidigueira, Cuba, Beja, Serpa e Moura.\n\ni) No distrito de Faro:\n\nVila do Bispo, Lagos, Portimão, Silves, Lagoa, Albufeira, Loulé,\n\nS. Brás de Alportel, Faro, Olhão, Tavira, Castro Marim e Vila Real de Santo António.\n\n2 - Exceptua-se a faixa de 6 km nos concelhos de Benavente e Salvaterra de Magos, do distrito de Santarém, prevista no artigo 1.º do [Decreto-Lei n.º 43371](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43371-1960-512868), de 3 de Dezembro de 1960.\n\n2.º As disposições contidas no n.º 2 do artigo 1.º do mesmo diploma são tornadas extensivas aos seguintes concelhos:\n\na) No distrito de Aveiro:\n\nEspinho, Feira, Albergaria-a-Velha, Águeda e Oliveira do Bairro.\n\nb) No distrito de Coimbra:\n\nMiranda do Corvo.\n\nc) No distrito de Lisboa:\n\nCadaval, Mafra, Sobral de Monte Agraço, Arruda dos Vinhos, Lourinhã e Torres Vedras.\n\nd) No distrito de Santarém:\n\nFerreira do Zêzere e Vila Nova de Ourém.\n\n> Alterado pelo/a [Portaria n.º 323/79](https://diariodarepublica.pt/dr/detalhe/portaria/323-1979-380510), publicado em 1979-07-05.\n\n3.º É concedido o prazo de cento e oitenta dias, a contar da data da publicação deste diploma, para cumprimento, quanto às situações por ele abrangidas das obrigações impostas pelos artigos 19.º e 20.º do [Decreto-Lei n.º 376/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1977-286493), de 5 de Setembro, ficando os infractores sujeitos às sanções ali consignadas.\n\nMinistério da Habitação e Obras Públicas, 2 de Maio de 1979. - O Ministro da Habitação e Obras Públicas, João Orlindo Almeida Pina."
+  }
+ }
+}

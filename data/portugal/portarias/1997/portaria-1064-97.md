@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-01-01'
+version_history:
+  file: portaria-1064-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-10-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-01'
+    amending: pt:dre:439866:por
+    amending_title: Decreto-Lei n.º 220/2008
+    changes:
+    - Altera Artigo unidades 59-72
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1064/1997/10/21/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:41:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 220/2008. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-1064-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -235,33 +250,13 @@ e) Fotografias dos alçados, no formato de 20 cm x 25 cm, quando se trate de edi
 
 f) Plantas de todos os pisos, à escala de 1:200 ou de 1:100;
 
-g) Memória descritiva e justificativa dos sistemas e equipamentos de segurança contra riscos de incêndio a instalar, referenciando as respectivas características técnicas e critérios ou normas utilizados;
+g) (Revogada.)
 
-h) Plano de emergência e instruções de segurança, a que se refere o n.º 9 do capítulo III do anexo à [Portaria n.º 1063/97](https://diariodarepublica.pt/dr/detalhe/portaria/1063-1997-672657), de 21 de Outubro.
+h) (Revogada.)
 
-3 - Nas plantas a que se refere a alínea f) do número anterior deve indicar-se:
+3 - (Revogado.)
 
-a) A acessibilidade e disponibilidade de água para serviço de incêndio, para intervenção dos bombeiros;
-
-b) O sistema de evacuação de emergência;
-
-c) A compartimentação;
-
-d) A rede de águas para serviço de incêndio;
-
-e) O sistema de alarme e alerta;
-
-f) Os sistemas de ventilação e desenfumagem;
-
-g) A indicação das classes de reacção ao fogo dos materiais de revestimento e decoração;
-
-h) A iluminação e sinalização de emergência;
-
-i) Os locais de risco;
-
-j) A localização dos meios de primeira intervenção;
-
-l) Outros sistemas ou dispositivos a instalar tendo em vista a segurança contra riscos de incêndio no empreendimento.
+> Alterado pelo/a [Decreto-Lei n.º 220/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2008-439866), publicado em 2008-11-12.
 
 4 - A Direcção-Geral do Turismo poderá solicitar aos interessados a apresentação de quaisquer elementos complementares necessários para a melhor apreciação do requerido.
 

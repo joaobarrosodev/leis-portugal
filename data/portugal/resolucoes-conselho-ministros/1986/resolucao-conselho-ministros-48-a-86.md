@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-10-25'
+version_history:
+  file: resolucao-conselho-ministros-48-a-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-10-25'
+    amending: pt:dre:220735:por
+    amending_title: Resolução do Conselho de Ministros n.º 37/92
+    changes:
+    - Altera Artigo unidades 7-8
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T20:16:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 37/92. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1986/resolucao-conselho-ministros-48-a-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,13 +137,17 @@ O Conselho de Ministros, reunido em 19 de Junho de 1986, resolveu o seguinte:
 
 1 - É criada a Comissão Interministerial sobre Macau, à qual competirá, sob orientação do Ministro dos Negócios Estrangeiros, coordenar e tomar as iniciativas no âmbito das conversações a realizar, elaborar relatórios e formular pareceres indispensáveis ao fim em vista.
 
-2 - A Comissão será composta por um funcionário do serviço diplomático com a categoria de embaixador, a qual será assessorada por um vogal designado pelo Ministro dos Negócios Estrangeiros, que o substituirá nas suas faltas e impedimentos, e por delegados das entidades que devam intervir no processo.
+2 - A Comissão é composta por um funcionário do serviço diplomático com a categoria de embaixador ou de ministro plenipotenciário, o qual é assessorado por um vogal designado pelo Ministro dos Negócios Estrangeiros, que o substitui nos seus impedimentos ou faltas, e por delegados das entidades que devam intervir no processo.
 
-3 - O presidente da Comissão será designado de entre os embaixadores de Portugal por despacho conjunto do Primeiro-Ministro e do Ministro dos Negócios Estrangeiros e fica equiparado a director-geral.
+3 - O presidente da Comissão é designado, por despacho conjunto do Primeiro-Ministro e do Ministro dos Negócios Estrangeiros, de entre os funcionários do serviço diplomático com as categorias de embaixador ou de ministro plenipotenciário, sendo equiparado a director-geral.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 37/92](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/37-1992-220735), publicado em 1992-10-20.
 
 4 - Os delegados referidos no n.º 2 serão nomeados por despacho conjunto do Primeiro-Ministro, do Ministro dos Negócios Estrangeiros e do ministro competente em razão da matéria.
 
-5 - A designação do embaixador que desempenhará as funções de presidente da Comissão não implica aumento no quadro dos embaixadores.
+5 - A designação do funcionário diplomático que desempenhará as funções de presidente da Comissão não implica aumento no respectivo quadro.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 37/92](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/37-1992-220735), publicado em 1992-10-20.
 
 6 - Por decisão do secretário-geral do Ministério dos Negócios Estrangeiros e sob proposta do embaixador presidente da Comissão, poderão ser agregados à mesma, sem aumento nos quadros respectivos, os funcionários dos quadros diplomático, técnico e administrativo do Ministério dos Negócios Estrangeiros que as necessidades do serviço aconselhem.
 

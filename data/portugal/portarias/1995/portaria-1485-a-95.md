@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-06-01'
+version_history:
+  file: portaria-1485-a-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-06-01'
+    amending: pt:dre:628025:por
+    amending_title: Portaria n.º 194-A/96
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1485-a/1995/12/28/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:55:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 194-A/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-1485-a-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,7 +132,9 @@ Manda o Governo, pelo Secretário de Estado do Tesouro e das Finanças, o seguin
 
 2.º A taxa base é a taxa anual nominal, convertível semestralmente, equivalente à taxa anual média efectiva das 12 últimas colocações de bilhetes do Tesouro, de qualquer prazo, ponderada pelos respectivos montantes, reportada ao último dia útil do mês anterior ao do início do trimestre a que respeitar o juro, arredondada para 1/16 de ponto percentual superior.
 
-3.º A taxa referida no n.º 1.º será abatida de 56,25 pontos base.
+3.º A taxa referida no n.º 1.º será abatida de 6%.
+
+> Alterado pelo/a [Portaria n.º 194-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/194-a-1996-628025), publicado em 1996-05-31.
 
 4.º A presente portaria aplicar-se-á a partir de 1 de Janeiro de 1996.
 

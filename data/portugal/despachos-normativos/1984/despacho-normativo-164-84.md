@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-08-04'
+version_history:
+  file: despacho-normativo-164-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-11-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-08-04'
+    amending: pt:dre:179872:por
+    amending_title: Despacho Normativo n.º 63/85
+    changes:
+    - Altera Artigo unidades 13-14
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:28:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 63/85. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1984/despacho-normativo-164-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,9 +173,11 @@ Nestes termos, determina-se, ao abrigo do disposto no n.º 3 do artigo 1.º do [
 
 3.º O Fundo de Abastecimento pagará por tonelada de amoníaco consumido na produção de adubos para o continente e Regiões Autónomas dos Açores e da Madeira os seguintes acertos de subsídio:
 
-a) 1292$10 por tonelada, à Quimigal - Química de Portugal, E. P., até ao limite de 44950 t;
+a) 1292$10 por tonelada, à QUIMIGAL - Química de Portugal, E. P., até ao limite de 44950 t;
 
-b) 866$20 por tonelada, à PGP - Petroquímica e Gás de Portugal, E. P., até ao limite de 120068,2 t.
+b) 1123$60 por tonelada, à PGP - Petroquímica e Gás de Portugal, E. P., até ao limite de 120068,2 t.
+
+> Alterado pelo/a [Despacho Normativo n.º 63/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-1985-179872), publicado em 1985-07-30.
 
 4.º O Fundo de Abastecimento pagará por tonelada de adubo vendido na campanha de 1982-1983, para o continente e Regiões Autónomas dos Açores e da Madeira, os acertos de subsídio constantes do quadro anexo a este despacho.
 

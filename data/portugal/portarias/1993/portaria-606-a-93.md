@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-01-01'
+version_history:
+  file: portaria-606-a-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-01-01'
+    amending: pt:dre:554077:por
+    amending_title: Portaria n.º 1241/93; Decreto-Lei n.º 19/94
+    changes:
+    - Altera Artigo unidades 55-55
+    - Altera Artigo unidades 60-61
+    - Adita Artigo depois da unidade 84
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/606-a/1993/06/28/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:00:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1241/93; Decreto-Lei
+    n.º 19/94. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-606-a-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -218,7 +235,9 @@ a) Construção e aquisição de edifícios destinados ao exercício da activida
 
 b) Aquisição de equipamentos básicos e outras máquinas e instalações, incluindo o software integrado, ligados à actividade;
 
-c) Aquisição de material de carga e transporte directamente ligados à actividade;
+c) Aquisição de material de carga directamente ligado à actividade;
+
+> Alterado pelo/a [Decreto-Lei n.º 19/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1994-496132), publicado em 1994-01-25.
 
 d) Realização de estudos directamente ligados à elaboração do projecto, bem como ao desenvolvimento de processos ou produtos.
 
@@ -228,9 +247,9 @@ d) Realização de estudos directamente ligados à elaboração do projecto, bem
 
 a) Bens em estado de uso;
 
-b) Veículos de passageiros;
+b) Terrenos, sem prejuízo do disposto no número seguinte.
 
-c) Terrenos, sem prejuízo do disposto no número seguinte.
+> Alterado pelo/a [Decreto-Lei n.º 19/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1994-496132), publicado em 1994-01-25.
 
 4 - No caso de projectos que se integrem no sector da indústria extractiva, considera-se como aplicação relevante a aquisição de terrenos destinados à exploração de concessões mineiras, de águas de mesa e mineromedicinais, pedreiras, barreiros e areeiros.
 
@@ -277,6 +296,18 @@ Aplicação do Sistema
 3 - A comissão de selecção é integrada por um representante de cada um dos institutos públicos financiadores, cabendo à Fundação da Juventude, à ANJE e às instituições financeiras envolvidas funções consultivas sem direito de voto.
 
 4 - A coordenação financeira do Sistema, bem como o acompanhamento e avaliação dos projectos, e o controlo físico, financeiro e contabilístico dos investimentos cabem à Fundação da Juventude, sob orientação do membro do Governo responsável pela juventude.
+
+8.º-A
+
+1 - As comissões técnicas das Regiões Autónomas dos Açores e da Madeira são designadas pela comissão de selecção, mediante proposta dos respectivos Governos Regionais, ficando sediadas em local a designar por estes.
+
+2 - Os Governos Regionais dos Açores e da Madeira designarão o seu representante, com direito a voto, que participará na comissão de selecção sempre que estiverem em apreciação projectos a realizar nas respectivas Regiões Autónomas.
+
+3 - Os encargos decorrentes da aplicação do disposto nos números anteriores são suportados pelos orçamentos dos respectivos Governos Regionais.
+
+4 - O pagamento dos incentivos financeiros aos projectos a realizar nas Regiões Autónomas é efectuado pela Fundação da Juventude, mediante transferência para o órgão regional competente, que procederá ao pagamento à empresa promotora.
+
+> Aditado pelo/a [Portaria n.º 1241/93](https://diariodarepublica.pt/dr/detalhe/portaria/1241-1993-554077), publicado em 1993-12-06.
 
 9.º
 

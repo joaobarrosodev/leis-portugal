@@ -28,10 +28,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-08-08'
+version_history:
+  file: portaria-7-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-01-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-08-08'
+    amending: pt:dre:454049:por
+    amending_title: Portaria n.º 810/83
+    changes:
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 56-56
+    - Altera Artigo unidades 58-64
+    - Altera Artigo unidades 68-68
+    - Altera Artigo unidades 103-106
+    - Altera Artigo unidades 108-108
+    - Altera Artigo unidades 111-112
 identifiers:
   celex: null
   eli: null
@@ -57,7 +77,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:22:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 810/83. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-7-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,7 +159,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e das Univ
 
 A Universidade de Coimbra, através da Faculdade de Letras, concede o grau de mestre em:
 
-a) Literatura Novilatina em Portugal;
+a) Literaturas Clássicas;
+
+> Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03.
 
 b) Literatura Portuguesa;
 
@@ -232,23 +255,39 @@ Os titulares de aprovação em cada curso terão dispensa da prova a que se refe
 
 Ministério da Educação e das Universidades, 3 de Dezembro de 1981. - Pelo Ministro da Educação e das Universidades, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-## ANEXO I — Literatura Novilatina em Portugal
+## ANEXO I — Literaturas Clássicas
+
+> Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03.
 
 1 - Área científica do curso:
 
-Literatura Novilatina em Portugal.
+Literaturas Clássicas (Latina, Grega e Portuguesa).
 
-2 - Áreas e unidades de crédito necessárias à obtenção do curso:
+2 - Áreas e unidades de crédito necessárias à obtenção do grau:
 
-a) Literatura Novilatina em Portugal ... 8
+a) Obrigatórias:
 
-b) Literatura Latina ... 4
+I) Literatura Novilatina em Portugal ... 3
 
-c) Literatura Portuguesa Clássica ... 4
+II) Literatura Grega ... 3
 
-Total ... 16
+III) Literatura Latina ... 1,5
 
-3 - Licenciaturas a que se refere o n.º 6.º, n.º 1:
+IV) Literatura Portuguesa Clássica ... 1,5
+
+V) Literatura Latina Medieval ... 1,5
+
+b) Opcionais:
+
+I) Literatura Novilatina em Portugual ... 6
+
+II) Literatura Grega ... 6
+
+Total ... 16,5
+
+3 - Licenciaturas a que se refere o n.º 1 do n.º 6.º:
+
+> Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03.
 
 a) Filologia Clássica;
 
@@ -256,7 +295,11 @@ b) Línguas e Literaturas Clássicas, variante de Estudos Clássicos e Portugues
 
 4 - Especialidades a que se refere o n.º 11.º:
 
-Literatura Latina.
+a) Literatura Latina;
+
+b) Literatura Grega.
+
+> Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03.
 
 ## ANEXO II — Literatura Portuguesa
 
@@ -326,25 +369,33 @@ Geografia Humana.
 
 2 - Áreas e unidades de crédito necessárias à obtenção do curso:
 
-a) Geografia Regional ... 8
+a) Obrigatórias:
 
-b) Geografia Humana ... 3
+I) Geografia Humana ... 3
 
-c) Metodologia do Planeamento ... 3
+II) Geo-Economia do Espaço Rural ... 3
 
-d) Estágio ... 4
+III) Geografia Regional ... 8
+
+b) Estágio ... 4
+
+> Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03.
 
 Total ... 18
 
-3 - Licenciaturas a que se refere o n.º 6.º, n.º 1:
+3 - Licenciaturas a que se refere o n.º 1 do n.º 6.º:
+
+> Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03.
 
 a) Ciências Geográficas;
 
 b) Geografia.
 
-4 - Especialidades a que se refere o n.º 11.º:
+4 - Especialidade a que se refere o n.º 11.º:
 
-Geografia Humana.
+a) Geografia Humana.
+
+> Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03.
 
 ## ANEXO V — Filosofia Contemporânea
 

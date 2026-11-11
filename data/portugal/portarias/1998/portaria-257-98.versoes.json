@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176313:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-04-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7c4c7d3a88845fa1"
+   ]
+  },
+  {
+   "date": "1999-05-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:323314:por",
+     "title": "Portaria n.º 354/99",
+     "published": "1999-05-17",
+     "dre_path": "/dr/detalhe/portaria/354-1999-323314"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-3"
+   ],
+   "fragments": [
+    "b5e84315f4b6b64b"
+   ]
+  }
+ ],
+ "fragments": {
+  "7c4c7d3a88845fa1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Abril\n\nPela [Portaria n.º 606/95](https://diariodarepublica.pt/dr/detalhe/portaria/606-1995-517627), de 19 de Junho, foi concessionada à Associação de Caça e Pesca Senhora do Almortão a zona de caça associativa da Senhora do Almortão, processo n.º 447-DGF, situada na freguesia e município de Idanha-a-Nova, com uma área de 1622,0975 ha, válida até 31 de Maio de 2002.\n\nA concessionária requereu agora a anexação à referida zona de caça de alguns prédios rústicos sitos no município de Idanha-a-Nova, com uma área de 181,35 ha.\n\nAssim:\n\nCom fundamento no disposto nos artigos 20.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 79.º e 81.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto, e ouvidos o Conselho Nacional da Caça e da Conservação da Fauna e o Conselho Cinegético Municipal:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que sejam anexados à zona de caça associativa criada pela [Portaria n.º 606/95](https://diariodarepublica.pt/dr/detalhe/portaria/606-1995-517627), de 19 de Junho, os prédios rústicos denominados «Couto dos Ferreirinhos, Couto dos Pessegueiros, Fragão, Serra das Albardas e Calçadinha», sitos na freguesia e município de Idanha-a-Nova, ficando a mesma com uma área total de 1803,4475 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas.\n\nAssinada em 3 de Abril de 1998.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/04/096b00/18661867.pdf)"
+  },
+  "b5e84315f4b6b64b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1999-05-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 354/99](https://diariodarepublica.pt/dr/detalhe/portaria/354-1999-323314), publicado em 1999-05-17."
+   ],
+   "markdown": "de 24 de Abril\n\nPela [Portaria n.º 606/95](https://diariodarepublica.pt/dr/detalhe/portaria/606-1995-517627), de 19 de Junho, foi concessionada à Associação de Caça e Pesca Senhora do Almortão a zona de caça associativa da Senhora do Almortão, processo n.º 447-DGF, situada na freguesia e município de Idanha-a-Nova, com uma área de 1622,0975 ha, válida até 31 de Maio de 2000.\n\n> Alterado pelo/a [Portaria n.º 354/99](https://diariodarepublica.pt/dr/detalhe/portaria/354-1999-323314), publicado em 1999-05-17.\n\nA concessionária requereu agora a anexação à referida zona de caça de alguns prédios rústicos sitos no município de Idanha-a-Nova, com uma área de 181,35 ha.\n\nAssim:\n\nCom fundamento no disposto nos artigos 20.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 79.º e 81.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto, e ouvidos o Conselho Nacional da Caça e da Conservação da Fauna e o Conselho Cinegético Municipal:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que sejam anexados à zona de caça associativa criada pela [Portaria n.º 606/95](https://diariodarepublica.pt/dr/detalhe/portaria/606-1995-517627), de 19 de Junho, os prédios rústicos denominados «Couto dos Ferreirinhos, Couto dos Pessegueiros, Fragão, Serra das Albardas e Calçadinha», sitos na freguesia e município de Idanha-a-Nova, ficando a mesma com uma área total de 1803,4475 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas.\n\nAssinada em 3 de Abril de 1998.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/04/096b00/18661867.pdf)"
+  }
+ }
+}

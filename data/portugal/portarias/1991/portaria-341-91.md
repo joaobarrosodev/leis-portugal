@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-08-21'
+version_history:
+  file: portaria-341-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-04-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-08-21'
+    amending: pt:dre:674622:por
+    amending_title: Portaria n.º 843/91
+    changes:
+    - Adita Artigo depois da unidade 8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/341/1991/04/16/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:46:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 843/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-341-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,6 +147,10 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 a) Aos municípios de Vendas Novas, Redondo e Alandroal;
 
 b) À parte dos municípios de Alcácer do Sal, Viana do Alentejo, Portel, Reguengos de Monsaraz e Mourão não abrangido pela [Portaria n.º 1111/90](https://diariodarepublica.pt/dr/detalhe/portaria/1111-1990-566063), de 8 de Novembro.
+
+c) A parte dos Municípios de Vila Viçosa, Borba, Estremoz, Arraiolos e Montemor-o-Novo.
+
+> Aditado pelo/a [Portaria n.º 843/91](https://diariodarepublica.pt/dr/detalhe/portaria/843-1991-674622), publicado em 1991-08-16.
 
 2.º As áreas compreendidas nas cartas em anexo pertencentes a municípios não mencionados no número anterior não são abrangidas pelo presente diploma.
 

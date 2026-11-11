@@ -38,10 +38,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-05-03'
+version_history:
+  file: despacho-normativo-57-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-08-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-05-03'
+    amending: pt:dre:663963:por
+    amending_title: Despacho Normativo n.º 23-A/99
+    changes:
+    - Altera Artigo unidades 38-38
+    - Altera Artigo unidades 42-43
+    - Altera Artigo unidades 46-47
+    - Altera Artigo unidades 49-49
+    - Adita Artigo depois da unidade 54
+    - Altera Artigo unidades 62-62
+    - Altera Artigo unidades 65-68
+    - Altera Artigo unidades 78-80
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/57/1998/08/21/p/dre/pt/html
@@ -67,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:33:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 23-A/99. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1998/despacho-normativo-57-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -192,7 +214,9 @@ g) Contemplem a mudança das artes empregues para artes mais selectivas e ambien
 
 Despesas não elegíveis
 
-Não são elegíveis, para efeitos de concessão de apoio financeiro, as seguintes despesas:
+1 - Não são elegíveis, para efeitos de concessão de apoio financeiro, as seguintes despesas:
+
+> Alterado pelo/a [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), publicado em 1999-04-28.
 
 a) Construção de embarcações que se encontrem concluídas à data da apresentação do projecto;
 
@@ -200,21 +224,33 @@ b) Equipamentos adquiridos e obras realizadas antes da apresentação do project
 
 c) Obras de manutenção corrente (pintura, manutenção periódica do motor ou sua reparação, manutenção periódica do casco ou outras intervenções de natureza semelhante) efectuadas separadamente de trabalhos de modernização;
 
-d) Substituição de equipamento ou de motores idênticos aos já existentes a bordo da unidade objecto do projecto, salvo em casos de força maior resultantes de danos provocados por intempéries;
+d) Substituição de equipamentos, nomeadamente de motores propulsores, semelhantes aos já existentes a bordo da unidade a que se refere o projecto, que tenham sido objecto de apoios financeiros concedidos há menos de cinco anos, salvo em casos de força maior ou resultantes de danos provocados por intempéries;
 
-e) Equipamentos que se mostrem sobredimensionados em relação à embarcação e à actividade para que a mesma está licenciada;
+e) Equipamentos que evidenciem características técnicas de eficiência e robustez não adequadas ou se mostrem desajustados, em relação às características da embarcação e à actividade para que a mesma está licenciada;
+
+> Alterado pelo/a [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), publicado em 1999-04-28.
 
 f) Material em segunda mão e respectiva montagem. No caso de reinstalação numa nova unidade de equipamentos recuperados da unidade anterior, são elegíveis as despesas de instalação a bordo;
 
 g) Equipamentos considerados dispensáveis para a navegação, segurança do navio, actividade de pesca e condições de vida a bordo;
 
-h) Aquisição de artes de pesca, excepto nas novas construções, quando utilizem as artes mencionadas na alínea g) do número anterior, desde que o custo das mesmas não exceda 15% do montante do investimento previsto para os restantes custos da nova construção;
+h) Aquisição de artes de pesca, excepto quando contemplem as artes mencionadas na alínea g) do artigo anterior, desde que:
 
-i) Motores fora-de-borda destinados a embarcações que permitam uma reconversão adequada à introdução de motores fixos.
+i) Não tenham sido objecto de apoios financeiros concedidos há menos de dois anos, salvo em caso de catástrofe ou intempérie que, reconhecidamente, haja produzido danos graves; e
+
+ii) O custo das mesmas não exceda 15% do investimento previsto para os restantes custos da construção, quando se trate de novas construções, e 12% do montante máximo elegível, no caso das modernizações.
+
+i) (Revogada.)
+
+2 - Para efeitos do disposto nas alíneas d) e h) do número anterior, considera-se o lapso de tempo decorrido entre a data da última concessão de apoios financeiros e a data da apresentação da candidatura.
+
+> Alterado pelo/a [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), publicado em 1999-04-28.
 
 5.º
 
-Montantes dos apoios
+Montante dos apoios
+
+> Alterado pelo/a [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), publicado em 1999-04-28.
 
 1 - A construção, por substituição, de pequenas embarcações não pode exceder o investimento total de 7500 contos.
 
@@ -225,6 +261,10 @@ Montantes dos apoios
 a) Quando se prossiga o reforço da competitividade económica com diminuição do esforço de pesca dentro de parâmetros que contemplem artes mais selectivas, melhor acondicionamento e conservação do pescado e melhoria das condições de segurança e do trabalho a bordo - 65%;
 
 b) Quando se prossiga apenas um melhor acondicionamento e conservação do pescado, ou a melhoria das condições de segurança, ou a melhoria das condições do trabalho a bordo - 60%.
+
+c) As ajudas a conceder são diminuídas, na proporção do tempo decorrido, dos montantes anteriormente concedidos há menos de cinco anos.
+
+> Aditado pelo/a [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), publicado em 1999-04-28.
 
 4 - Em nenhum caso o valor total dos subsídios poderá ultrapassar o limite máximo da taxa de comparticipação prevista nas Linhas Directrizes da Comissão da CE para Exame dos Auxílios Nacionais no Sector da Pesca.
 
@@ -240,19 +280,21 @@ Outras acções
 
 Apresentação de candidaturas e decisão
 
-1 - As candidaturas entregues na Direcção-Geral das Pescas e Aquicultura até 31 de Agosto de 1998, 28 de Fevereiro de 1999 e 31 de Agosto de 1999 serão objecto de decisão até 31 de Outubro de 1998, 30 de Abril de 1999 e 31 de Outubro de 1999, respectivamente.
+1 - As candidaturas entregues na Direcção-Geral das Pescas e Aquicultura até 31 de Agosto de 1998, 28 de Fevereiro de 1999 e 31 de Agosto de 1999 serão objecto de decisão até 31 de Outubro de 1998, 31 de Maio de 1999 e 31 de Outubro de 1999, respectivamente.
+
+> Alterado pelo/a [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), publicado em 1999-04-28.
 
 2 - A decisão sobre as candidaturas é da competência do membro do Governo responsável pelo sector das pescas.
 
 8.º
 
-Prazos de concretização dos projectos
+Obrigações do beneficiário
 
-Para a conclusão dos projectos são estabelecidos os seguintes prazos, contados a partir da comunicação ao beneficiário da concessão de apoio:
+1 - Para a execução dos projectos de modernização e de construção são estabelecidos os prazos de oito meses e de um ano, respectivamente, contados a partir da comunicação ao beneficiário da concessão de apoio.
 
-Projectos de construção - um ano;
+2 - Os bens ou equipamentos adquiridos ao abrigo do presente Regulamento não podem ser doados, vendidos ou por qualquer modo cedidos, em separado da respectiva embarcação pelo prazo de cinco anos, contado a partir da data da aprovação do projecto, não podendo igualmente ser destinados a outros fins que não a pesca.
 
-Projectos de modernização - oito meses.
+> Alterado pelo/a [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), publicado em 1999-04-28.
 
 9.º
 
@@ -272,8 +314,14 @@ Atribuição dos apoios
 
 Incumprimento
 
-1 - Nos casos em que se tenha verificado a libertação de subsídios do SIPESCA e o incumprimento dos projectos por parte dos beneficiários, deverão os mesmos repor nos cofres do Estado a parte do subsídio não aplicado, acrescido dos respectivos juros legais, nos termos do disposto no artigo 559.º do Código Civil.
+1 - Nos casos em que os beneficiários não tenham dado cumprimento ao disposto no n.º 2 do artigo 8.º ou se tenha verificado a libertação dos subsídios e incumprimento da execução dos projectos, deverão aqueles repor nos cofres do Estado a totalidade ou a parte do subsídio não aplicado, respectivamente, acrescido dos respectivos juros legais, nos termos do disposto no artigo 559.º do Código Civil.
 
-2 - A entrega destas verbas deverá efectuar-se no prazo máximo de 15 dias úteis após a notificação do beneficiário, explicitando a quantia a devolver.
+2 - Os beneficiários que incorram em incumprimento poderão, por esse motivo, ficar impossibilitados de apresentar novas candidaturas.
 
-3 - A não reposição deste montante no prazo indicado implicará o envio do processo à repartição de finanças correspondente ao domicílio do beneficiário para efeitos de execução.
+3 - A reposição das verbas referidas no n.º 1 deverá efectuar-se no prazo máximo de 15 dias úteis após a notificação do beneficiário.
+
+4 - A não reposição desse montante no prazo indicado implicará o envio do processo à repartição de finanças correspondente ao domicílio do beneficiário para efeitos de execução fiscal.
+
+5 - Não haverá lugar a incumprimento caso os beneficiários, justificada e antecipadamente, requeiram, e a DGPA aceite, a devolução das ajudas, calculadas pro rata temporis do período de cinco anos, acrescidas de juros nos termos do n.º 1.
+
+> Alterado pelo/a [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), publicado em 1999-04-28.

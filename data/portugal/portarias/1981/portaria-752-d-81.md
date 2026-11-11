@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-12-08'
+version_history:
+  file: portaria-752-d-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-09-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-12-08'
+    amending: pt:dre:170506:por
+    amending_title: Portaria n.º 924/85
+    changes:
+    - Altera Artigo unidades 18-18
+    - Altera Artigo unidades 19-20
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:53:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 924/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-752-d-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,11 +161,13 @@ Manda o Governo da República Portuguesa, pelos Ministros do Comércio e Turismo
 
 8 - Nas importações efectuadas pelas empresas refinadoras observar-se-á o que se encontra preceituado para as importações a realizar pela AGA quanto ao recurso ao financiamento externo e à utilização da marinha mercante nacional.
 
-9 - Em consequência e na constância da política de preço adoptada quanto ao açúcar, o diferencial a aplicar sobre a quantidade de ramas recebidas no trimestre, resultante da diferença entre o preço padrão e o preço derivado, tal como a seguir definidas, será pago, ou recebido, pelo Fundo de Abastecimento, por intermédio da AGA, no prazo de cento e vinte dias a contar do fim de cada trimestre a que a importância se reporta.
+9 - Constituem receita ou encargo do Fundo de Abastecimento os resultados com as operações de importação de ramas de açúcar aprovados considerando os custos totais das operações e os preços fixados para fornecimento de ramas pela AGA à indústria refinadora de açúcar, de harmonia com os protocolos AGA/refinarias e com o preceituado no [Decreto-Lei n.º 19/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1983-307811), de 21 de Janeiro.
 
-10 - 1 - No final de cada trimestre de cada ano será calculado o preço padrão aplicado a esse trimestre, que se define como sendo igual à média aritmética do LDP (London Daily Price) para açúcar em rama, 96º de polarização, convertidos diariamente em escudos pela taxa de câmbio de venda fixada pelo Banco de Portugal.
+> Alterado pelo/a [Portaria n.º 924/85](https://diariodarepublica.pt/dr/detalhe/portaria/924-1985-170506), publicado em 1985-12-03.
 
-2 - O preço derivado das ramas a estabelecer será aquele que, para a indústria, resulta da fixação do preço de venda ao público do açúcar.
+10 - A prestação de contas relativas às importações de ramas de açúcar efectuadas e a efectuar pelos refinadores será feita directamente entre estes e o Fundo de Abastecimento, devendo a AGA pronunciar-se sobre as mesmas.
+
+> Alterado pelo/a [Portaria n.º 924/85](https://diariodarepublica.pt/dr/detalhe/portaria/924-1985-170506), publicado em 1985-12-03.
 
 11 - O Fundo de Abastecimento poderá solicitar à AGA e às empresas refinadoras todos os elementos que considere necessários ao esclarecimento das situações ocorrentes.
 

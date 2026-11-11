@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-12-25'
+version_history:
+  file: portaria-995-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-10-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-12-25'
+    amending: pt:dre:552373:por
+    amending_title: Portaria n.º 1417/2006
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/995/2005/10/06/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:09:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1417/2006. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2005/portaria-995-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,7 +147,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 1.º Pela presente portaria é criada a zona de caça municipal de Vale de Sobreiras (processo n.º 4153-DGRF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caçadores da Açorda, com o número de pessoa colectiva 504072951 e sede no Apartado 40, 2104-908 Couço.
 
-2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Couço, município de Coruche, com a área de 1336 ha.
+2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia do Couço, município de Coruche, com a área de 691 ha.
+
+> Alterado pelo/a [Portaria n.º 1417/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1417-2006-552373), publicado em 2006-12-20.
 
 3.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:
 

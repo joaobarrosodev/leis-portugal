@@ -38,10 +38,33 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-09-30'
+version_history:
+  file: portaria-259-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-05-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-09-30'
+    amending: pt:dre:564253:por
+    amending_title: Portaria n.º 876/81
+    changes:
+    - Altera Artigo unidades 46-46
+    - Altera Artigo unidades 62-62
+    - Altera Artigo unidades 100-103
+    - Altera Artigo unidades 107-108
+    - Altera Artigo unidades 117-118
+    - Altera Artigo unidades 120-120
+    - Altera Artigo unidades 123-125
+    - Altera Artigo unidades 128-128
+    - Altera Artigo unidades 130-133
+    - Adita Artigo depois da unidade 133
 identifiers:
   celex: null
   eli: null
@@ -67,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:14:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 876/81. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-259-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -204,7 +228,9 @@ Idoneidade moral
 
 a) Se encontrem abrangidos pelas disposições do n.º 4 do artigo 46.º do Código da Estrada;
 
-b) Tenham sido condenados por qualquer dos seguintes crimes:
+b) Denotem, no seu comportamento, atitudes que colidam com o interesse público prosseguido pela actividade ou tenham sido condenados, entre outros, por qualquer dos seguintes crimes:
+
+> Alterado pelo/a [Portaria n.º 876/81](https://diariodarepublica.pt/dr/detalhe/portaria/876-1981-564253), publicado em 1981-09-30.
 
 1.º Tráfico de drogas;
 
@@ -236,7 +262,9 @@ e) Não ser portador de deficiência física que exija veículo especialmente ad
 
 f) Não ter sido titular de licença de instrutor cancelada nos termos da lei;
 
-g) Satisfazer as condições estabelecidas no n.º 8.º da presente portaria.
+g) Não ser considerado inidóneo nos termos e para os efeitos do disposto no número anterior.
+
+> Alterado pelo/a [Portaria n.º 876/81](https://diariodarepublica.pt/dr/detalhe/portaria/876-1981-564253), publicado em 1981-09-30.
 
 10.º Porém, os candidatos a instrutores de prática da condução de motociclos devem ser titulares de carta de condução desta classe de veículos e estar habilitados a conduzir automóveis ligeiros há, pelo menos, dois anos.
 
@@ -312,13 +340,15 @@ VII
 
 Exames
 
-29.º Os candidatos que concluam os cursos de formação são sujeitos a exames, teórico e prático, prestados perante júri da Direcção-Geral de Viação.
+29.º Os candidatos que concluam, com aproveitamento, os cursos de formação são sujeitos a exames, teórico e prático, prestados perante júri da Direcção-Geral de Viação, compreendendo o primeiro provas escritas e orais.
 
-30.º O exame teórico compreende provas escritas e orais sobre a matéria ministrada no curso.
+30.º O exame teórico deve ser requerido no prazo de três meses, contados da data do termo do curso de formação, podendo, em caso de reprovação, o candidato requerer, por uma só vez, a repetição do exame, dentro de igual prazo, contado da data de reprovação.
 
-31.º Aos candidatos que obtenham aprovação no exame teórico é emitida licença de instrutor com validade por dois anos.
+31.º Aos candidatos que obtenham aprovação no exame teórico é emitida licença para ministração do respectivo ensino, com validade por dois anos.
 
-32.º No prazo a que se refere o número anterior, deve o titular da licença requerer o exame prático, para a admissão ao qual deve ainda comprovar que exerceu, durante pelos menos dois meses, em escola de condução, a ministração do ensino do tipo correspondente àquela licença.
+32.º Até ao fim do prazo a que se refere o número anterior, deve o titular da licença requerer o exame prático, para a admissão ao qual deve ainda comprovar que exerceu, durante pelo menos quatro meses, em escola de condução, a ministração do ensino do tipo correspondente àquela licença.
+
+> Alterado pelo/a [Portaria n.º 876/81](https://diariodarepublica.pt/dr/detalhe/portaria/876-1981-564253), publicado em 1981-09-30.
 
 33.º A validade da referida licença é prorrogada até à realização dos exames práticos, no caso de estes se virem a efectuar findo a prazo a que se refere o n.º 31.º
 
@@ -326,9 +356,11 @@ Exames
 
 35.º O exame prático é realizado na escola ou em veículo da escola em que o requerente presta serviço e consiste na avaliação da capacidade para ministração das lições correspondentes à habilitação pretendida.
 
-36.º A lição em automóvel pesado de mercadorias compreendida no exame prático a que se refere o número anterior é ministrada em veículo com reboque.
+36.º A lição em automóvel pesado de mercadorias compreendida no exame prático é ministrada em veículos com reboque; a aprovação nesta prova dispensa a prestação de igual prova em automóvel ligeiro.
 
-37.º O examinando reprovado no exame prático em um ou mais tipos de ensino ou classes de veículos para que se tenha habilitado não pode continuar a ministrar esse ensino, devendo fazer entrega imediata à Direcção-Geral de Viação da licença a que se refere o n.º 31.º
+37.º O examinando reprovado no exame prático em um ou mais tipos de ensino ou classes de veículos não pode continuar a ministrar esse ensino, devendo fazer entrega imediata à Direcção-Geral de Viação da licença de que era titular, podendo, no entanto, por uma só vez e no prazo de quinze dias contados da data da reprovação requerer a repetição desse exame.
+
+> Alterado pelo/a [Portaria n.º 876/81](https://diariodarepublica.pt/dr/detalhe/portaria/876-1981-564253), publicado em 1981-09-30.
 
 VIII
 
@@ -346,38 +378,60 @@ Cursos organizados através de outras entidades
 
 41.º A autorização a que se refere o número anterior depende da aprovação do programa de cada curso, do qual devem constar, pelo menos, os seguintes elementos:
 
-a) Duração do curso;
+a) Data de início, duração e horário de funcionamento;
 
-b) Número de candidatos;
+b) Número de turmas do curso e respectiva lotação;
+
+> Alterado pelo/a [Portaria n.º 876/81](https://diariodarepublica.pt/dr/detalhe/portaria/876-1981-564253), publicado em 1981-09-30.
 
 c) Tipos de habilitação pretendida para os candidatos;
 
-d) Indicação discriminada das matérias a leccionar;
+d) Indicação discriminada das matérias a leccionar por tipo de habilitação que seja objecto do curso;
+
+> Alterado pelo/a [Portaria n.º 876/81](https://diariodarepublica.pt/dr/detalhe/portaria/876-1981-564253), publicado em 1981-09-30.
 
 e) Local em que se realiza;
 
 f) Identificação e qualificação dos monitores, nomeadamente as respectivas habilitações literárias.
 
-42.º A ministração dos cursos a que se refere o número anterior pode ser dividida, no máximo, em três turmas, com lotação até vinte e cinco alunos em cada uma.
+42.º Cada um dos cursos tem duração mínima de noventa horas por cada tipo de habilitação com programa próprio, podendo a sua ministração ser dividida, no máximo, em 3 turmas, com lotação até 25 candidatos em cada.
 
-43.º Os candidatos que obtenham aproveitamento no curso de formação a que se referem os números anteriores podem requerer exame teórico mediante proposta da entidade que ministrou o curso, devendo o requerimento ser instruído com os documentos exigidos para a admissão aos cursos de formação organizados pela Direcção-Geral de Viação.
+43.º A admissão aos cursos de formação depende, para os candidatos a instrutores de prática da condução, da aprovação nas provas selectivas a que se refere o n.º 18.º, realizadas pela Direcção-Geral de Viação; a aprovação na prova de circulação em automóvel pesado de mercadorias dispensa idêntica prova em automóvel ligeiro.
 
-44.º Os requerentes devem ser submetidos às provas de selecção previstas no n.º 18.º
+44.º Os candidatos que obtenham aproveitamento no curso de formação podem requerer exame teórico, mediante proposta da entidade que ministrou o curso, devendo o requerimento ser instruído com os documentos referidos no n.º 15.º do presente diploma.
+
+> Alterado pelo/a [Portaria n.º 876/81](https://diariodarepublica.pt/dr/detalhe/portaria/876-1981-564253), publicado em 1981-09-30.
 
 X
 
 Disposições finais e transitórias
 
-45.º Depois de fixado o novo modelo de licença, a que se refere o n.º 39.º da presente portaria, podem os actuais instrutores requerer a respectiva troca, que será gratuita, sendo-lhes averbados todos os tipos de ensino e as classes de veículos para que se encontrem habilitados.
+45.º Aos candidatos a que se refere o número anterior é aplicável o disposto nos n.os 29.º a 38.º da presente portaria.
+
+> Alterado pelo/a [Portaria n.º 876/81](https://diariodarepublica.pt/dr/detalhe/portaria/876-1981-564253), publicado em 1981-09-30.
 
 46.º Os instrutores de mecânica automóvel podem obter, mediante simples requerimento, a carta de condutor profissional da classe de veículos que estejam habilitados a conduzir.
 
-47.º Até 31 de Dezembro de 1980 são dispensadas as habilitações literárias mínimas referidas na alínea a) do n.º 9.º, sendo só exigida a 4.ª classe da instrução primária.
+47.º Depois de fixado o novo modelo de licença de instrutor, a que se refere o n.º 39.º da presente portaria, devem os instrutores, no prazo de seis meses, requerer a respectiva troca, que será gratuita, sendo-lhes averbados os tipos de ensino e as classes de veículos para que se encontram habilitados.
 
-48.º Até à mesma data é dispensada a utilização do reboque no exame prático a que se referem os n.os 35.º e 36.º
+48.º Os instrutores habilitados a ministrar ensino de prática da condução que pretendam habilitar-se a outra classe de veículos devem, independentemente das habilitações literárias que possuam, requerer a emissão da licença prevista no n.º 31.º, com a apresentação dos documentos referidos no n.º 15.º
 
-49.º As dúvidas resultantes da aplicação do presente diploma são resolvidas por despacho do Ministro dos Transportes e Comunicações.
+49.º A emissão da licença referida no número anterior depende da aprovação nas provas de selecção referidas no n.º 18.º, sendo também aplicável o disposto nos n.os 32.º a 38.º do presente diploma.
 
-50.º Sem prejuízo do disposto nos n.os 47.º e 48.º, a presente portaria entra em vigor na data da sua publicação.
+50.º Aos instrutores de teoria da condução que desejem habilitar-se à ministração do ensino prático é aplicável o regime referido nos 2 números anteriores.
+
+> Alterado pelo/a [Portaria n.º 876/81](https://diariodarepublica.pt/dr/detalhe/portaria/876-1981-564253), publicado em 1981-09-30.
+
+51.º Sem prejuízo do disposto nos n.os 48.º a 50.º, os instrutores que pretendam habilitar-se a outro tipo de ensino podem frequentar o curso de formação respectivo, independentemente das habilitações literárias que possuam, sendo aplicável o disposto no n.º 26.º
+
+52.º A utilização de reboque nos exames práticos apenas é exigível quando estiverem definidas as características desses veículos para licenciamento em serviço de instrução.
+
+53.º Até 31 de Dezembro de 1982 são dispensadas as habilitações literárias mínimas referidas na alínea a) do n.º 9.º, sendo apenas exigido o 6.º ano de escolaridade.
+
+54.º As dúvidas resultantes da aplicação do presente diploma são resolvidas por despacho do Ministro dos Transportes e Comunicações.
+
+55.º Por despacho do director-geral de Viação podem ser fixadas as normas necessárias à boa execução do presente diploma.
+
+> Aditado pelo/a [Portaria n.º 876/81](https://diariodarepublica.pt/dr/detalhe/portaria/876-1981-564253), publicado em 1981-09-30.
 
 Secretaria de Estado dos Transportes, 13 de Maio de 1980. - O Secretário de Estado dos Transportes, José Miguel Nunes Anacoreta Correia.

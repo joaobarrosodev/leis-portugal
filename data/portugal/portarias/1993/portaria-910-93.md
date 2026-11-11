@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-09-09'
+version_history:
+  file: portaria-910-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-09-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-09-09'
+    amending: pt:dre:550985:por
+    amending_title: Portaria n.º 1106/95; Portaria n.º 1106/95
+    changes:
+    - Altera Artigo unidades 139-139
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/910/1993/09/20/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:13:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1106/95; Portaria n.º
+    1106/95. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-910-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -399,7 +414,9 @@ Diploma, grau e carta de curso
 
 1 - Aos alunos aprovados em todas as disciplinas que integram o plano de estudos do curso será emitido um diploma de estudos superiores especializados do modelo constante no anexo VI à presente portaria.
 
-2 - Aos titulares do diploma de estudos superiores especializados em Engenharia e Gestão Industrial da Escola Superior de Tecnologia do Instituto Politécnico de Setúbal que nele hajam ingressado com a titularidade da habilitação a que se refere o n.º 2.º da presente portaria, e verificada a formação de um conjunto coerente entre aquele diploma e este bacharelato, nos termos do n.º 7 do artigo 13.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, é conferido o grau de licenciado em Engenharia e Gestão Empresarial.
+2 - Aos titulares do diploma de estudos superiores especializados em Engenharia e Gestão Industrial da Escola Superior de Tecnologia do Instituto Politécnico de Setúbal que nele hajam ingressado com a titularidade da habilitação a que se refere o n.º 2.º da presente portaria, e verificada a formação de um conjunto coerente entre aquele diploma e este bacharelato, nos termos do n.º 7 do artigo 13.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, é conferido o grau de licenciado em Engenharia e Gestão Industrial.
+
+> Alterado pelo/a [Portaria n.º 1106/95](https://diariodarepublica.pt/dr/detalhe/portaria/1106-1995-550985), publicado em 1995-09-09.
 
 3 - A verificação a que se refere o número anterior será feita caso a caso pelo conselho científico da Escola Superior de Tecnologia, que emitirá parecer escrito.
 

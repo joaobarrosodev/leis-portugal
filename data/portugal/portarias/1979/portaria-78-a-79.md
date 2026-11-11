@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-02-13'
+version_history:
+  file: portaria-78-a-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-02-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-02-13'
+    amending: pt:dre:165031:por
+    amending_title: Portaria n.º 81-A/79
+    changes:
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:07:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 81-A/79. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1979/portaria-78-a-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,7 +158,9 @@ Manda o Governo da República Portuguesa, pelos Ministros do Trabalho e dos Tran
 
 6.º A execução da presente requisição será assegurada pelo Ministro dos Transportes e Comunicações, o qual é investido de todos os poderes e competências para definir, por despacho, os casos concretos em que é aplicado o regime definido na presente portaria e para adoptar as medidas adequadas ao seu cumprimento.
 
-7.º A competência para a prática de actos de gestão decorrentes da requisição cabe aos órgãos de gestão da empresa Telefones de Lisboa e Porto, E. P., os quais ficam directamente responsáveis perante o Ministro dos Transportes e Comunicações pelos actos de que forem incumbidos.
+7.º A competência para a prática de actos de gestão decorrentes de requisição cabe a uma comissão directiva nomeada por despacho conjunto dos Ministros do Trabalho e dos Transportes e Comunicações.
+
+> Alterado pelo/a [Portaria n.º 81-A/79](https://diariodarepublica.pt/dr/detalhe/portaria/81-a-1979-165031), publicado em 1979-02-13.
 
 8.º Em todos os seus aspectos, mesmo os subsequentes, é aplicável à presente requisição o regime definido no [Decreto-Lei n.º 637/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1974-466053), de 20 de Novembro.
 

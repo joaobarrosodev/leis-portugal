@@ -1,0 +1,377 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:395321:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1982-06-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4fff2138f69d135c",
+    "fac03bec043d4680",
+    "b210738a064d5902",
+    "b1b23cd45980db5d",
+    "ec8f89f3feba78cd",
+    "58175579af2a3242",
+    "e51b9332bc24be73",
+    "cd1bcf2a87994a90",
+    "eb2d0b75c7dfff38",
+    "bfcb6c9aad5efb5e",
+    "a1551a9b502d8c0f",
+    "0ecb325af1879ee0",
+    "7bf436f782d66b17",
+    "ca9db8ce41a08c47",
+    "b3a77aa4b3009bf4",
+    "e6123d7e405fb2a4",
+    "86da836e82793d1c",
+    "b48ed0aaf195d879",
+    "ccbc9a4b2a622030",
+    "a9b1ecd7435270c6",
+    "fe9b50ff8b643d54",
+    "eb7cdca3bd641608",
+    "03498e6f6130c3d3",
+    "370ebb9142ad68ee",
+    "19287fa2f609c62e",
+    "35666aaf84b7bc36",
+    "19e89fcf5fdc8c2b",
+    "8a7ffce4ff5048bb",
+    "fecbd603603e5cc6",
+    "9f7e08b67fbbcf31",
+    "585d536e9c204f81",
+    "e69ca555641d2c3b"
+   ]
+  },
+  {
+   "date": "1984-01-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:660290:por",
+     "title": "Portaria n.º 19/84",
+     "published": "1984-01-12",
+     "dre_path": "/dr/detalhe/portaria/19-1984-660290"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 16-16",
+    "Altera Artigo unidades 40-40"
+   ],
+   "fragments": [
+    "4fff2138f69d135c",
+    "fac03bec043d4680",
+    "b210738a064d5902",
+    "8233843c7a3d2d7c",
+    "ec8f89f3feba78cd",
+    "58175579af2a3242",
+    "e51b9332bc24be73",
+    "8e09d669d6e8c046",
+    "eb2d0b75c7dfff38",
+    "bfcb6c9aad5efb5e",
+    "a1551a9b502d8c0f",
+    "0ecb325af1879ee0",
+    "7bf436f782d66b17",
+    "ca9db8ce41a08c47",
+    "b3a77aa4b3009bf4",
+    "e6123d7e405fb2a4",
+    "86da836e82793d1c",
+    "b48ed0aaf195d879",
+    "ccbc9a4b2a622030",
+    "a9b1ecd7435270c6",
+    "fe9b50ff8b643d54",
+    "eb7cdca3bd641608",
+    "03498e6f6130c3d3",
+    "370ebb9142ad68ee",
+    "19287fa2f609c62e",
+    "35666aaf84b7bc36",
+    "19e89fcf5fdc8c2b",
+    "8a7ffce4ff5048bb",
+    "fecbd603603e5cc6",
+    "9f7e08b67fbbcf31",
+    "585d536e9c204f81",
+    "e69ca555641d2c3b"
+   ]
+  }
+ ],
+ "fragments": {
+  "4fff2138f69d135c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Junho\n\nCom o progresso da sua execução, verificou-se que a [Portaria n.º 809/81](https://diariodarepublica.pt/dr/detalhe/portaria/809-1981-563412), de 17 de Setembro, e seus anexos carecem de diversas e imprescindíveis rectificações.\n\nPerante o elevado número de rectificações a considerar, entendeu-se por mais conveniente revogar a citada portaria e seus anexos, substituindo-os por novos, com os textos adequados.\n\nAssim:\n\nManda o Governo da República Portuguesa, pelo Ministro da Agricultura, Comércio e Pescas, nos termos do [Decreto-Lei n.º 269/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1981-563409), de 17 de Setembro, aprovar e publicar os anexos a seguir designados por Regulamento para Aplicação do Esquema de Certificação de Sementes e Regulamentos Técnicos para Sementes de Cereais Autogâmicos e para Sementes de Milho."
+  },
+  "fac03bec043d4680": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 1 — Regulamento para Aplicação do Esquema de Certificação de Sementes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 1 — Regulamento para Aplicação do Esquema de Certificação de Sementes"
+  },
+  "b210738a064d5902": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais\n\n1 - O presente Regulamento aplica-se à produção de semente de variedades de espécies agrícolas e hortícolas acondicionadas, etiquetadas e seladas conforme as directivas consideradas como exigências mínimas e que são objecto deste Regulamento.\n\n2 - A entidade responsável pela aplicação deste Regulamento é a Direcção-Geral de Protecção da Produção Agrícola (DGPPA), pela sua Direcção de Serviços de Controle de Qualidade de Sementes (DSCQS)."
+  },
+  "b1b23cd45980db5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Variedades admitidas ao esquema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Variedades admitidas ao esquema\n\n3 - São admitidas ao esquema as variedades:\n\na) Inscritas no Catálogo Nacional de Variedades (CNV);\n\nb) Em fase de inscrição no CNV, cuja admissão seja requerida pela entidade interessada à DGPPA;\n\nc) Inscritas em catálogos oficiais de outros países, se a semente a produzir for destinada exclusivamente a exportação.\n\n4 - São ainda admitidas ao esquema, até 1986, as variedades incluídas na Lista Nacional de Variedades (LNV), desde que:\n\na) Tenham apresentado, em ensaios oficiais para avaliação dos valores agronómico e de utilização, resultados que justifiquem a certificação das respectivas sementes;\n\nb) Disponham de descrição dos caracteres morfológicos e fisiológicos essenciais à sua identificação."
+  },
+  "ec8f89f3feba78cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Categorias de sementes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Categorias de sementes\n\n5 - Para as variedades referidas no n.º 3 consideram-se as categorias de sementes com as designações e definições seguintes:\n\na) Do melhorador. - Semente proveniente de linhas, clones, etc., produzida segundo as regras geralmente aceites para a manutenção das variedades;\n\nb) Pré-base. - Semente obtida numa geração posterior à semente do melhorador e anterior à semente base, segundo as regras de manutenção das variedades;\n\nc) Base. - Semente produzida a partir de semente pré-base ou do melhorador, destinada à produção de semente certificada;\n\nd) Certificada. - Semente que provém directamente da multiplicação de semente base ou, quando autorizado pela DGPPA, de semente pré-base.\n\nEsta categoria, desde que autorizada pela DGPPA, consultado o melhorador, poderá subdividir-se em:\n\nSemente certificada de 1.ª geração;\n\nSemente certificada de 2.ª geração, etc.\n\nDa última geração de semente certificada aprovada não é permitida a produção de sementes, salvo casos especiais a considerar e a autorizar pela DGPPA;\n\ne) Categorias especiais que serão definidas nos Regulamentos Técnicos anexos.\n\n6 - Para as variedades incluídas na LNV, a que se reporta o n.º 4, consideram-se todas as categorias de semente referidas no n.º 5, desde que a sua manutenção seja minimamente assegurada.\n\n7 - A semente da categoria do melhorador não será obrigatoriamente submetida a controle; caso o seja, deverão ser satisfeitas as exigências estabelecidas para a semente pré-base."
+  },
+  "58175579af2a3242": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Equivalências das categorias de sementes de outros países",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Equivalências das categorias de sementes de outros países\n\n8 - As categorias de sementes adoptadas em outros países são reconhecidas como equivalentes às portuguesas quando sobre elas exista decisão da Comunidade Económica Europeia (CEE) ou da Organização de Cooperação e Desenvolvimento Económico (OCDE) em matéria de equivalência."
+  },
+  "e51b9332bc24be73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Admissão de entidades à produção de sementes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Admissão de entidades à produção de sementes\n\n9 - Apenas serão admitidas à produção de sementes das categorias referidas no n.º 5 as entidades portadoras das respectivas carteiras profissionais, definidas no Estatuto do Produtor de Sementes ([Portaria n.º 613/82](https://diariodarepublica.pt/dr/detalhe/portaria/613-1982-395325))."
+  },
+  "cd1bcf2a87994a90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Produção de sementes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Produção de sementes\n\n10 - A produção de sementes das categorias pré-base e base é executada pelo obtentor ou sob a sua responsabilidade.\n\n11 - O obtentor de uma variedade detém todos os direitos de propriedade sobre a mesma, desde que não tenha cedido a sua posição a outra entidade.\n\n12 - Os produtores de semente base que desejem produzir semente de qualquer variedade do domínio público deverão comunicar nesse sentido à Direcção de Serviços de Ordenamento e Planeamento da DGPPA, a qual dará conhecimento da posição verificada à DSCQS.\n\n13 - A produção de semente da categoria certificada de uma variedade, quando não efectuada pelo seu obtentor ou proprietário actual, só é permitida pela DSCQS se a entidade interessada fizer prova documental de que está autorizada pelo detentor dos direitos de propriedade dessa variedade a proceder à sua multiplicação."
+  },
+  "eb2d0b75c7dfff38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Inscrição e controle dos campos de produção de sementes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Inscrição e controle dos campos de produção de sementes\n\n14 - A inscrição dos campos de multiplicação deverá obedecer às seguintes condições:\n\na) Os produtores de sementes base e certificada inscrevem cada um dos seus campos de multiplicação na DSCQS, nos prazos seguintes:\n\nAté 31 de Dezembro, no caso de espécies de cultura outono-invernal;\n\nAté 31 de Maio, para as espécies de cultura primaveril;\n\nb) As inscrições constarão do preenchimento e entrega de impressos próprios fornecidos pela DSCQS, onde, pelo menos, constem os seguintes elementos:\n\nNome do produtor de semente;\n\nNome e morada do agricultor-multiplicador;\n\nNome e localização da propriedade;\n\nCategoria da semente a obter;\n\nEspécie e variedade;\n\nIdentificação do lote de semente utilizada para multiplicação;\n\nÁrea do campo;\n\nQuantidade de semente utilizada;\n\nc) Qualquer alteração nestas informações deverá ser comunicada à DSCQS antes do início das inspecções de campo;\n\nd) As inscrições deverão ser acompanhadas de:\n\nContrato de multiplicação respectivo, se houver intervenção do agricultor-multiplicador e sempre que para a espécie em causa esteja instituído um bónus oficial para a produção de sementes base e certificada, sendo as orientações para o contrato de multiplicação dadas pela DSCQS;\n\nProva documental referida no n.º 13, quando for caso disso;\n\nOutros elementos definidos, para cada espécie ou grupo de espécies, nos regulamentos técnicos próprios;\n\ne) A DSCQS recusará as inscrições que não se apresentem conforme o preceituado nas alíneas anteriores, do que será dado conhecimento aos interessados, no prazo de 15 dias após as datas das respectivas recepções.\n\n15 - Os campos de multiplicação são inspeccionados, segundo a metodologia definida nos regulamentos técnicos próprios para cada espécie ou grupo de espécies, por inspectores de campo - técnicos da DSCQS, dos serviços regionais de agricultura ou outros credenciados pela mencionada Direcção de Serviços - para averiguar se foram cumpridas as condições expressas neste Regulamento.\n\n16 - Para o prosseguimento das inspecções a qualquer campo de produção de sementes é indispensável que o produtor ou o agricultor-multiplicador comprove ao inspector a origem e a categoria da semente utilizada, o que fará pela apresentação das respectivas etiquetas de certificação oficial ou das etiquetas de garantia, quando no país de origem das sementes não houver certificação oficial.\n\n17 - O número mínimo de inspecções a realizar para cada espécie ou grupo de espécies é o definido nos regulamentos técnicos respectivos.\n\n18 - Em resultado das inspecções efectuadas, os campos de multiplicação de sementes serão classificados de:\n\nAprovado;\n\nReprovado.\n\n19 - Na classificação será adoptado o método dos pontos, em que a cada elemento de caracterização do campo será atribuída a pontuação de 0 a 3.\n\n20 - As características dos campos de multiplicação a classificar são, pelo menos, as seguintes:\n\nPureza varietal;\n\nPureza específica;\n\nAspecto da cultura;\n\nIsolamento;\n\nSanidade.\n\n21 - Se a qualquer característica referida no número anterior ou a outras que venham a ser definidas nos regulamentos técnicos próprios for atribuída a classificação 0, o campo será reprovado.\n\n22 - O campo de multiplicação que, na altura da última inspecção, se encontrar total ou parcialmente colhido sem conhecimento dos inspectores será reprovado.\n\n23 - O registo das características do campo e respectiva classificação serão feitos em boletins de inspecção apropriados."
+  },
+  "bfcb6c9aad5efb5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Controle dos lotes produzidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Controle dos lotes produzidos\n\n24 - Para a determinação das características da semente dos lotes obtidos nos campos de multiplicação, a DSCQS, os serviços regionais de agricultura ou outras entidades credenciadas pela indicada Direcção de Serviços colherão amostras representativas desses lotes.\n\n25 - As amostras poderão ser colhidas em qualquer momento, desde a colheita até à utilização do lote de semente.\n\n26 - A amostragem é realizada segundo as regras da International Seed Testing Association (ISTA).\n\n27 - De cada lote de semente será colhida 1 amostra, a dividir em 3 subamostras, que, depois de identificadas e seladas, ficarão na posse de:\n\nDSCQS - 2, sendo 1 destinada a análises e ensaios e a outra a manter em reserva durante, pelo menos, 1 ano, para servir de contraprova em caso de litígio;\n\nProdutor - 1, que servirá de contraprova em caso de litígio.\n\n28 - Os lotes de sementes a certificar serão submetidos a análises e ensaios pela DSCQS ou, por sua delegação, em outro laboratório.\n\n29 - As análises e os ensaios serão realizados de acordo com as regras da ISTA.\n\n30 - Os lotes, depois de analisados e ensaiados, serão classificados de:\n\nAprovado;\n\nReprovado.\n\n31 - O registo dos resultados das análises e dos ensaios será feito em fichas apropriadas.\n\n32 - A classificação de Aprovado será aplicada aos lotes de semente que satisfaçam os limites estabelecidos nos regulamentos técnicos para as características exigidas para cada espécie ou grupo de espécies.\n\n33 - No caso de reprovação, será dado conhecimento ao produtor de semente das razões dessa classificação.\n\n34 - Em casos justificados, a DSCQS poderá certificar sementes pré-base que apresentem um valor de germinação inferior ao estabelecido nos regulamentos técnicos próprios."
+  },
+  "a1551a9b502d8c0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Identificação da semente obtida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Identificação da semente obtida\n\n35 - Após a colheita, durante o transporte e até ao momento do acondicionamento, os sacos contendo a semente obtida no campo de multiplicação ou, no caso de o transporte e de a armazenagem serem efectuados em contentores, os veículos e recipientes de armazenagem deverão estar identificados por etiquetas ou documentos que contenham, pelo menos, as seguintes informações:\n\nNome do produtor;\n\nVariedade;\n\nNúmero de identificação do campo.\n\n36 - O disposto no n.º 35 aplica-se integralmente às sementes produzidas no estrangeiro e que se destinam a ser certificadas em Portugal."
+  },
+  "0ecb325af1879ee0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO X — Acondicionamento das sementes e emissão de certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO X — Acondicionamento das sementes e emissão de certificados\n\n37 - As embalagens contendo as sementes a certificar devem, quando da amostragem, apresentar-se convenientemente fechadas e com a identificação do seu conteúdo.\n\n38 - As embalagens devem apresentar-se devidamente fechadas por meio de sistema que impossibilite a sua abertura sem danificação do dispositivo utilizado e não revele vestígios de violação.\n\n39 - O dispositivo de fecho das embalagens deve ser assegurado pela aplicação de etiquetas ou de selos.\n\n40 - A aplicação de elementos como os indicados no número anterior é dispensada quando os dispositivos utilizados no fecho das embalagens não possibilitem a sua reutilização.\n\n41 - A identificação do conteúdo das embalagens será assegurada por etiquetas que, simultaneamente, funcionam como certificados de garantia de qualidade.\n\n42 - As etiquetas emitidas pela DSCQS não podem apresentar vestígios de utilização anterior e devem colocar-se no exterior das embalagens.\n\n43 - As etiquetas com ilhó podem utilizar-se, desde que o fecho das embalagens seja assegurado pelos selos do organismo certificador - a DSCQS.\n\n44 - As etiquetas adesivas são permitidas se for impossível a sua reutilização.\n\n45 - As etiquetas devem obedecer às seguintes características:\n\na) Ser impressas sobre 1 ou 2 faces;\n\nb) Ter forma rectangular;\n\nc) Ter as cores seguintes:\n\nBranca, com uma faixa em diagonal em cor violeta, para sementes do melhorador e pré-base;\n\nBranca, para semente base;\n\nAzul, para semente certificada de 1.ª geração;\n\nVermelha, para semente certificada de 2.ª geração e ulteriores;\n\nOutras, para os casos especiais, a definir nos regulamentos técnicos próprios;\n\nd) Ser de material suficientemente resistente, para não se deteriorar com o manuseamento;\n\ne) A disposição e a dimensão dos caracteres a imprimir devem permitir a sua fácil leitura;\n\nf) Se os caracteres forem impressos nas embalagens, devem ser iguais aos das etiquetas;\n\ng) Nas embalagens destinadas a exportação, as informações impressas nas etiquetas serão redigidas em, pelo menos, francês ou inglês;\n\nh) Conter as indicações seguintes:\n\nPara as variedades inscritas no CNV:\n\nNome e endereço do organismo certificador;\n\nRegras e normas CEE;\n\nEspécie e variedade;\n\nCategoria da semente (no caso de semente certificada, indicar a geração);\n\nNúmero do lote;\n\nData da amostragem;\n\nPeso líquido ou bruto;\n\nPara as variedades da LNV:\n\nTodas as indicações anteriormente referidas, com excepção das regras e normas CEE;\n\ni) A superfície das etiquetas não ocupada pelas informações obrigatórias pode ser utilizada para outras informações, não podendo, porém, os caracteres ser maiores. Não é permitida qualquer publicidade nestas etiquetas.\n\n46 - No interior de cada embalagem, e nos casos a definir pela DSCQS, são introduzidas etiquetas com informações sobre identificação da semente, que serão obrigatoriamente diferentes das etiquetas de certificação.\n\n47 - As características das embalagens de semente certificada são as definidas no Regulamento do Comércio de Sementes."
+  },
+  "7bf436f782d66b17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XI — Identificação e gestão dos lotes certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XI — Identificação e gestão dos lotes certificados\n\n48 - Entende-se por lote uma quantidade de semente homogénea no referente a identidade, purezas específica e varietal, germinação, estado sanitário, teor em humidade e calibre.\n\n49 - Cada lote de semente é identificado por uma referência constituída pelo número que lhe é atribuído pela DSCQS, antecedido do algarismo das unidades do ano de produção e seguido do código dado ao produtor.\n\n50 - Cada produtor de semente deverá ter organizada a gestão dos lotes em seu poder, de modo a poder fornecer, em qualquer momento, à DSCQS o registo do movimento de entradas e saídas respectivas."
+  },
+  "ca9db8ce41a08c47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XII — Controle dos lotes certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XII — Controle dos lotes certificados\n\n51 - Para as sementes das categorias anteriores à categoria certificada, cada produtor de semente base deverá realizar ensaios de pós-controle de todos os lotes certificados, dando conhecimento dos resultados obtidos à DSCQS.\n\n52 - A DSCQS realizará ensaios de pós-controle dos lotes:\n\na) Referidos no n.º 51, sempre que for julgado conveniente;\n\nb) De sementes da categoria certificada em, pelo menos, 10% da sua totalidade.\n\n53 - Estes ensaios são realizados segundo os métodos da OCDE.\n\n54 - Nos ensaios de pós-controle, a realizar pela DSCQS, os lotes submetidos a ensaio serão comparados com testemunhas de referência das variedades."
+  },
+  "b3a77aa4b3009bf4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XIII — Fraccionamento e reacondicionamento de lotes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XIII — Fraccionamento e reacondicionamento de lotes\n\n55 - As operações de fraccionamento e de reacondicionamento de lotes de sementes certificadas só poderão ser realizadas pelas entidades habilitadas para o efeito e referidas no Estatuto do Produtor de Sementes ([Portaria n.º 613/82](https://diariodarepublica.pt/dr/detalhe/portaria/613-1982-395325)).\n\n56 - Todo o fraccionamento e reacondicionamento terá de ser previamente autorizado pela DSCQS e será executado sob o seu controle.\n\n57 - Sempre que haja reacondicionamento serão emitidas novas etiquetas, nas quais, além de figurarem as mesmas indicações das etiquetas originais, será mencionado que o lote de sementes foi reacondicionado."
+  },
+  "e6123d7e405fb2a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XIV — Lotes de sementes em reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XIV — Lotes de sementes em reserva\n\n58 - A partir de 1 de Julho do ano seguinte ao da respectiva produção, os lotes de sementes, certificados ou a certificar, de todas as categorias são considerados em reserva.\n\n59 - O produtor de sementes deverá, até 15 dias após a data referida no número anterior, dar conhecimento à DSCQS dos lotes em reserva, indicando para cada um a sua identificação, o número de embalagens e o peso líquido.\n\n60 - Os lotes já certificados terão de ser submetidos a nova amostragem e ensaio.\n\n61 - Nenhum lote em reserva de semente certificada pode ser posto em comercialização sem que seja submetido ao ensaio referido no n.º 60.\n\n62 - Aos lotes reprovados serão retiradas as etiquetas de certificação, que deverão ser devolvidas à DSCQS."
+  },
+  "86da836e82793d1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XV — Sistema de organização de cooperação e desenvolvimento económico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XV — Sistema de organização de cooperação e desenvolvimento económico\n\n63 - Na aplicação dos esquemas da OCDE de certificação varietal de sementes destinadas ao comércio internacional a que Portugal tenha aderido, as mesmas não poderão ser certificadas a coberto desses esquemas se não satisfizerem as prescrições do presente Regulamento."
+  },
+  "b48ed0aaf195d879": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XVI — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XVI — Disposições diversas\n\n64 - São revogadas as Portarias n.os 809/81, de 17 de Setembro, 16739, de 17 de Julho de 1958, 18618, de 23 de Julho de 1961, e 19073, de 3 de Março de 1962.\n\n65 - O preceituado nos n.os 6 e 13, na alínea a) do n.º 14 e no n.º 51 deste Regulamento poderá, para aplicação até 1986, ser alterado por despacho do director-geral de Protecção da Produção Agrícola, sob proposta fundamentada da DSCQS.\n\n66 - Os regulamentos técnicos para outras espécies ou grupos de espécies constarão de portarias do Ministro da Agricultura, Comércio e Pescas, a publicar oportunamente.\n\n67 - O estabelecido nesta portaria e nos Regulamentos anexos entra em vigor no dia 1 de Janeiro de 1983."
+  },
+  "ccbc9a4b2a622030": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 2 — Regulamento Técnico para Sementes de Cereais Autogâmicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 2 — Regulamento Técnico para Sementes de Cereais Autogâmicos"
+  },
+  "a9b1ecd7435270c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I\n\n1 - O presente Regulamento é aplicado na produção de sementes de variedades pertencentes às seguintes espécies agrícolas:\n\nTrigo mole (Triticum aestivum L.);\n\nTrigo rijo (Triticum turgidum L.);\n\nCevada (Hordeum vulgare L.);\n\nAveia (Avena sativa L.);\n\nArroz (Oryza sativa L.);\n\nTriticale (X Triticosecale)."
+  },
+  "fe9b50ff8b643d54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Admissão e outros requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Admissão e outros requisitos\n\n2 - A admissão à produção de sementes pode ser feita separada ou simultaneamente para:\n\na) Sementes das categorias anteriores à semente certificada, entre os produtores de semente base;\n\nb) Sementes da categoria certificada, entre os produtores de semente desta mesma categoria.\n\n3 - Os produtores de semente base, além de cumprirem o estabelecido no Estatuto do Produtor de Sementes, devem obedecer também às seguintes disposições:\n\na) Dispor de um número mínimo de centros de produção, fixados em função das áreas e variedades inscritas, por forma a garantir o abastecimento de sementes certificadas de cada variedade;\n\nb) Não delegar numa mesma entidade a produção de sementes de mais de 10 variedades da mesma espécie sem autorização expressa da DSCQS;\n\nc) Inscrever e cultivar o mínimo de 2 ha de cada variedade inscrita há mais de 5 anos no CNV;\n\nd) Manter em reserva:\n\nPara a produção de semente pré-base:\n\n300 espigas ou panículas;\n\n50% de peso de semente da categoria do melhorador necessária à execução do esquema, salvo casos devidamente justificados perante a DSCQS;\n\nPara a produção de semente base:\n\n30% das necessidades normais para a execução do esquema;\n\ne) Renovar anualmente as reservas referidas na alínea d).\n\n4 - Os produtores de semente da categoria certificada, além de cumprirem o estabelecido no Estatuto do Produtor de Sementes, devem obedecer também às condições seguintes:\n\na) Não multiplicar no mesmo agricultor-multiplicador mais de uma variedade da mesma espécie, por exploração agrícola, salvo casos devidamente justificados perante a DSCQS;\n\nb) As áreas mínimas de cada campo de multiplicação não poderão ser inferiores a:\n\nEm casos normais:\n\n... Hectares\n\nTrigo, cevada e aveia ... 10\n\nTriticale ... 3\n\nArroz ... 1\n\nEm casos especiais, devidamente justificados perante a DSCQS:\n\n... Hectares\n\nTrigo ... 2\n\nOutros cereais ... 1\n\nc) Inscrever e promover a cultura de cada variedade inscrita há mais de 5 anos no CNV, nas seguintes áreas mínimas:\n\n... Hectares\n\nTrigo ... 25\n\nAveia, cevada e triticale ... 10\n\nArroz ... 5"
+  },
+  "eb7cdca3bd641608": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Controle dos campos de multiplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Controle dos campos de multiplicação\n\n5 - Nas inspecções de campo será seguida a metodologia da OCDE, sendo o número mínimo e as oportunidades das inspecções os apresentados no quadro que segue:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)\n\n6 - As distâncias mínimas de isolamento, em metros, a observar nos campos de multiplicação são:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)\n\nSendo a classificação a atribuir:\n\n3 - Para distâncias de isolamento cumpridas;\n\n2 - Para isolamento deficiente, mas corrigido em devido tempo;\n\n0 - Para isolamento imperfeito ou deficiente e não corrigido em devido tempo.\n\n7 - No aspecto geral (uniformidade, densidade e infestação) será atribuída a seguinte classificação:\n\n3 - Bom;\n\n2 - Regular;\n\n1 - Mau;\n\n0 - Péssimo, não permitindo que os elementos de caracterização de campo possam ser apreciados com segurança.\n\n8 - Para assegurar a pureza varietal da semente a produzir, os limites máximos de impurezas permitidos na multiplicação são:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)\n\n9 - A classificação a atribuir ao campo de multiplicação quanto à pureza varietal será:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)\n\n10 - À presença de plantas de outras espécies cujas sementes são de difícil separação nas operações de limpeza e calibragem deve ser dada especial atenção, pelo que serão anotadas as seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)\n\n11 - A classificação a atribuir aos campos de multiplicação, quanto à pureza da espécie, será:\n\na) Para a presença de outros cereais:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)\n\nb) Para a presença das restantes espécies referidas no n.º 10:\n\n3 - Ausência de plantas daquelas espécies;\n\n2 - Presença de algumas plantas daquelas espécies;\n\n1 - Presença de bastantes plantas daquelas espécies;\n\n0 - Presença de elevado número daquelas plantas, de tal maneira que não seja possível apreciar com segurança os elementos de caracterização do campo.\n\n12 - Quando a qualquer campo for atribuída a classificação 1 para pureza específica, este deverá ser aprovado condicionalmente, aguardando que o resultado da análise do lote de sementes obtido permita tomar uma decisão definitiva.\n\n13 - À presença de doenças que reduzem o valor de utilização das sementes deverá ser dada especial atenção, pelo que serão anotadas as seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)\n\n14 - A presença das doenças abaixo indicadas conduz à reprovação do campo:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)"
+  },
+  "03498e6f6130c3d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Controle dos lotes de sementes produzidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Controle dos lotes de sementes produzidas\n\n15 - Os pesos máximos de cada lote a certificar serão:\n\n... Toneladas\n\na) Semente pré-base ... 10\n\nb) Sementes base e certificada ... 20\n\n16 - A mistura de lotes de semente pré-base não é permitida.\n\n17 - A mistura de lotes de semente base provenientes de campos de multiplicação diferentes apenas será realizada se:\n\na) Nesses campos tiver sido utilizado o mesmo lote de semente;\n\nb) Nas inspecções desses mesmos campos a pureza varietal tiver obtido a classificação mínima de 2 pontos;\n\nc) O produtor obtiver a necessária autorização da DSCQS.\n\n18 - A mistura de lotes de semente certificada obtidos em campos de multiplicação diferentes apenas poderá ser praticada se:\n\na) Nas inspecções desses mesmos campos a pureza varietal tiver a classificação mínima de 2 pontos;\n\nb) O produtor obtiver a indispensável autorização da DSCQS."
+  },
+  "370ebb9142ad68ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Certificação\n\n19 - Para que sejam emitidos certificados é indispensável que os lotes de sementes submetidos à certificação satisfaçam todas as prescrições regulamentares e as sementes tenham as características definidas no quadro seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)"
+  },
+  "19287fa2f609c62e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições transitórias\n\n20 - O preceituado nas alíneas d) e e) do n.º 3, no aplicável às variedades da LNV, e nos n.os 5, 15 e 19 poderá, para aplicação até 1986, ser alterado por despacho do director-geral de Protecção da Produção Agrícola, sob proposta da DSCQS."
+  },
+  "35666aaf84b7bc36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 3 — Regulamento Técnico para Sementes de Milho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 3 — Regulamento Técnico para Sementes de Milho"
+  },
+  "19e89fcf5fdc8c2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Variedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Variedades\n\n1 - O presente Regulamento é aplicado na produção de sementes das variedades de Zea mays L., exceptuando as das subvariedades Microsperma koern. (popcorn) e Sacharata koern (milho doce).\n\n2 - As variedades referidas no n.º 1 pertencerão a um dos seguintes tipos:\n\na) Variedades híbridas - entendendo-se como variedade híbrida uma população que se distingue de outra por um certo número de caracteres morfológicos, fisiológicos, citológicos, químicos ou outros e para a qual o obtentor definiu uma fórmula de hibridação própria. As variedades ou formas híbridas podem ser:\n\nHíbrido simples: 1.ª geração de um cruzamento entre duas linhas autofecundadas, definidas pelo obtentor, entendendo-se como linha autofecundada uma população suficientemente homogénea e estável obtida por polinização controlada e selecção durante várias gerações ou por operações equivalentes;\n\nHíbrido duplo: 1.ª geração de um cruzamento entre dois híbridos simples, definidos pelo obtentor;\n\nHíbrido trilíneo: 1.ª geração de um cruzamento entre um híbrido simples e uma linha autofecundada, definidos pelo obtentor;\n\nHíbrido Top cross: 1.ª geração de um cruzamento entre uma linha autofecundada ou um híbrido simples e uma variedade de polinização livre, definidos pelo obtentor;\n\nHíbrido intervarietal: 1.ª geração de um cruzamento entre sementes base de duas variedades de polinização livre, definidas pelo obtentor;\n\nb) Variedades de polinização livre - entendendo-se como tal uma população que se distingue de outra por um certo número de caracteres morfológicos, fisiológicos, citológicos, químicos ou outros e que, após a multiplicação, conserva as suas características distintivas."
+  },
+  "8a7ffce4ff5048bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Categoria de sementes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Categoria de sementes\n\n3 - Para as sementes de milho são consideradas as categorias base e certificada.\n\n4 - A semente base é produzida sob a responsabilidade do obtentor ou do seu representante ou do proprietário actual, segundo as regras geralmente aceites para a manutenção da variedade que, satisfazendo as recomendações e prescrições deste Regulamento, confirmadas em controle oficial, se destina:\n\na) No caso das variedades de polinização livre, à produção de semente da categoria certificada da própria variedade e de híbridos Top cross ou intervarietais;\n\nb) No caso das linhas autofecundadas, à produção de semente da categoria certificada de híbridos simples e trilíneos;\n\nc) No caso dos híbridos simples, à produção de semente da categoria certificada de híbridos duplos, trilíneos e Top cross.\n\n5 - A semente certificada é a que provém directamente da semente da categoria base ou, a pedido do obtentor da variedade, de uma geração anterior à semente base, que deverá satisfazer as recomendações e prescrições do presente Regulamento, a confirmar por controle oficial, e se destina a outros fins que não a produção de sementes."
+  },
+  "fecbd603603e5cc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Admissão à produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Admissão à produção\n\n6 - A admissão à produção poderá ser feita separada ou simultaneamente para as seguintes categorias:\n\na) Semente base - entre os produtores de semente base;\n\nb) Semente certificada - entre os produtores de semente certificada.\n\n7 - Os produtores de semente base, para além da observância e do cumprimento do estabelecido no Estatuto do Produtor de Sementes, devem satisfazer os seguintes requisitos:\n\na) Dispor de um número mínimo de centros de produção, fixados em função das áreas e variedades inscritas, por forma a garantir o abastecimento de sementes certificadas de cada variedade;\n\nb) Não delegar numa mesma entidade a produção de sementes de mais de 10 variedades, sem autorização expressa da DSCQS;\n\nc) Deverão ter à sua disposição instalações adequadas para a realização das seguintes operações:\n\nRecepção, verificação e selecção de espigas;\n\nSecagem de espigas;\n\nArmazenagem com capacidade suficiente que permita a conservação das reservas de semente sem risco de deterioração;\n\nd) Manter uma reserva de semente base correspondente a 20% das necessidades normais;\n\ne) Renovar anualmente a reserva referida na alínea b);\n\n8 - Os produtores de semente certificada, para além da observância e do cumprimento dos preceitos estabelecidos no Estatuto do Produtor de Sementes, devem observar também os seguintes requisitos:\n\na) Desde que não autorizado pela DSCQS, cada agricultor-multiplicador não poderá produzir mais de uma variedade;\n\nb) A área mínima de cada campo de multiplicação não poderá ser inferior a 1 ha, salvo autorização da DSCQS;\n\nc) Inscrever e promover anualmente a cultura no mínimo de 2 ha por cada variedade inscrita no CNV há mais de 5 anos;\n\nd) Quando a semente base a utilizar na produção for importada, deverão comunicar em tempo oportuno à DSCQS a data da sua recepção ou disponibilidade, a fim de este organismo proceder à colheita de amostras destinadas à realização de ensaios de pré-controle;\n\ne) Poder dispor de instalações adequadas para a realização das seguintes operações:\n\nRecepção, verificação e selecção de espigas;\n\nSecagem de espigas;\n\nArmazenagem com capacidade suficiente que permita a conservação das reservas de semente sem risco de deterioração."
+  },
+  "9f7e08b67fbbcf31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Controle dos campos de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Controle dos campos de produção\n\n9 - As inscrições dos campos de produção de sementes serão recusadas se, apesar de satisfazerem as condições definidas no n.º 14 do capítulo VII do Regulamento para Aplicação do Esquema de Certificação de Sementes, os produtores de sementes não fizerem entrega na DSCQS, até 30 de Junho, de:\n\na) Declaração da data de sementeira do campo;\n\nb) Croquis de localização do campo;\n\nc) Croquis de sementeira com diferenciação dos progenitores e localização das linhas de bordadura, se for caso disso.\n\n10 - O número mínimo e a oportunidade das inspecções de campo são apresentados no quadro que se segue:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)\n\n11 - A metodologia a utilizar nas inspecções de campo será definida pela DSCQS.\n\n12 - As distâncias de isolamento, em metros, a observar nos campos de produção de sementes são:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)\n\n13 - As distâncias de isolamento fixadas no n.º 12 poderão ser reduzidas nas seguintes condições:\n\na) Semente base:\n\nA título excepcional e desde que a localização do campo seja favorável, a DSCQS poderá autorizar o produtor de semente base a reduzir aquelas distâncias nas condições a fixar caso a caso;\n\nb) Semente certificada:\n\nPara os campos de produção de semente com áreas superiores às dos campos contaminadores, aquela distância poderá ser reduzida à razão de 5 m por linha de bordadura de progenitor masculino até uma distância mínima de 100 m;\n\nPara os campos de produção de semente com áreas inferiores às dos campos contaminadores, aquela distância poderá ser reduzida:\n\nAté aos 200 m, à razão de 8 m por cada linha de bordadura de progenitor masculino;\n\nAté 100 m, por aplicação conjunta do estabelecido no parágrafo anterior e no primeiro parágrafo desta alínea.\n\n14 - As linhas de bordadura consideradas no n.º 13 deverão:\n\na) Ser semeadas em linhas contíguas e paralelas ao campo de produção, com a mesma distância de entrelinha;\n\nb) Ter uma densidade de plantas idêntica à do campo de produção;\n\nc) Emitir pólen em simultaneidade com as plantas do progenitor masculino do campo de produção;\n\nd) No caso de serem perpendiculares às do campo de produção, existir uma zona de terreno nu entre a bordadura e o campo de produção, com uma largura mínima de 1,5 m.\n\n15 - A classificação a atribuir ao campo de produção de sementes quanto ao isolamento será:\n\n3 - Isolamento perfeito;\n\n0 - Isolamento imperfeito (não cumprimento das condições exigidas para o isolamento).\n\n16 - Para assegurar a pureza varietal da semente a produzir, as impurezas deverão ser eliminadas nos campos de produção de semente.\n\nSão consideradas impurezas:\n\na) As plantas nitidamente fora do tipo;\n\nb) As espigas nitidamente fora do tipo ou as espigas aberrantes (espigas portadoras de grãos de cor e textura diferentes das da variedade).\n\n17 - A eliminação das impurezas referidas no n.º 16 deverá ser realizada:\n\na) Antes do início da floração, as plantas fora do tipo, nas linhas autofecundadas, variedades de polinização livre e progenitores masculinos das variedades híbridas;\n\nb) Antes da colheita do campo, as plantas fora do tipo, nos progenitores femininos das variedades híbridas;\n\nc) Após a colheita e antes do descarolamento, as espigas fora do tipo e as aberrantes, em qualquer das variedades consideradas.\n\n18 - Os campos de produção de sementes, após os períodos referidos no n.º 17, não poderão apresentar percentagens de impurezas superiores às indicadas no quadro que se segue:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)\n\nA classificação a atribuir será:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)\n\n19 - Os campos de produção de semente de variedades híbridas não poderão apresentar, durante todo o período de floração, um número de plantas do progenitor feminino a disseminar ou que tenham disseminado pólen que exceda as seguintes percentagens:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)\n\n20 - Considera-se como tendo disseminado pólen, para aplicação do n.º 19, as plantas que apresentem no total 5 cm ou mais de ráquis com anteras, emergindo das glumas. Para a determinação desse total considera-se não só o ráquis principal como as suas ramificações, tanto no caule principal como nos caules secundários (filhos).\n\n21 - As disposições do n.º 19 só são aplicáveis a partir do momento em que 5% ou mais das plantas do progenitor feminino apresentem estigmas aparentemente receptivos.\n\n22 - A classificação a atribuir ao campo de produção de sementes quanto ao desbandeiramento será (em função da percentagem de plantas do progenitor feminino a disseminar ou que tenham disseminado pólen):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)\n\n23 - À polinização será atribuída a seguinte classificação:\n\n3 - Boa;\n\n0 - Má - quando ou a coincidência de floração dos progenitores não se verificou ou a população do progenitor masculino é insuficiente.\n\n24 - Ao aspecto geral (uniformidade, densidade e infestação) do campo de produção de sementes será atribuída a classificação seguinte:\n\n3 - Bom;\n\n2 - Regular;\n\n1 - Mau;\n\n0 - Péssimo - quando não permita que o controle das impurezas e do desbandeiramento seja realizado com segurança.\n\n25 - Como a presença de doenças ou pragas reduz o valor de utilização das sementes, aos campos de produção será atribuída a seguinte classificação:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)\n\n26 - Quando a um campo de produção de sementes for atribuída a classificação de 1 quanto ao estado sanitário, este deverá ser aprovado condicionalmente, aguardando que o resultado da análise de pureza a efectuar ao lote de semente produzido permita tomar uma decisão definitiva."
+  },
+  "585d536e9c204f81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Controle dos lotes da semente produzidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Controle dos lotes da semente produzidos\n\n27 - O peso máximo de cada lote a certificar será de:\n\na) Semente base - 10 t;\n\nb) Semente certificada - 40 t.\n\n28 - Entende-se por lote uma quantidade de semente, proveniente de um só campo de produção, homogénea no referente a identidade, pureza específica, faculdade germinativa, estado sanitário, humidade e calibre.\n\n29 - A mistura de lotes de semente é admitida desde que:\n\na) Nas inspecções de campo as classificações atribuídas nos n.os 18, 22 e 25 não sejam inferiores a 2;\n\nb) O produtor de sementes obtenha a indispensável autorização da DSCQS.\n\n30 - Os lotes de semente apresentados à certificação, além de satisfazerem a todas as prescrições regulamentares, devem ter as seguintes características:\n\na) Das linhas autofecundadas e variedades híbridas:\n\n... Percentagem\n\nGrãos de cor ou textura diferente (máximo) ... 0,2\n\nPureza específica (mínimo) ... 98,0\n\nFaculdade germinativa (mínimo) ... 85,0\n\nOutras espécies (máximo) ... 0,0\n\nMatéria inerte (máximo) ... 2,0\n\nTeor em humidade (máximo) ... 14,0\n\nb) Das variedades de polinização livre, as mesmas que as da alínea anterior, com excepção de grãos de cor ou textura diferente, em que o máximo poderá ser de 0,5%."
+  },
+  "e69ca555641d2c3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições transitórias\n\n31 - O preceituado nos n.os 7, 8, 9, 27 e 30 poderá, até 1986, ser alterado por despacho do director-geral de Protecção da Produção Agrícola, emitido sob proposta da DSCQS.\n\nMinistério da Agricultura, Comércio e Pescas, 26 de Abril de 1982. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca."
+  },
+  "8233843c7a3d2d7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Variedades admitidas ao esquema",
+   "in_force_from": "1984-01-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 19/84](https://diariodarepublica.pt/dr/detalhe/portaria/19-1984-660290), publicado em 1984-01-12."
+   ],
+   "markdown": "### CAPÍTULO II — Variedades admitidas ao esquema\n\n3 - São admitidas ao esquema as variedades:\n\na) Inscritas no Catálogo Nacional de Variedades (CNV);\n\nb) Em fase de inscrição no CNV, cuja admissão seja requerida pela entidade interessada à DGPPA;\n\nc) Inscritas em catálogos oficiais de outros países, se a semente a produzir for destinada exclusivamente a exportação.\n\n4 - São ainda admitidas ao esquema, até 1990, as variedades incluídas na lista nacional de variedades (LNV), desde que:\n\n> Alterado pelo/a [Portaria n.º 19/84](https://diariodarepublica.pt/dr/detalhe/portaria/19-1984-660290), publicado em 1984-01-12.\n\na) Tenham apresentado, em ensaios oficiais para avaliação dos valores agronómico e de utilização, resultados que justifiquem a certificação das respectivas sementes;\n\nb) Disponham de descrição dos caracteres morfológicos e fisiológicos essenciais à sua identificação."
+  },
+  "8e09d669d6e8c046": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Produção de sementes",
+   "in_force_from": "1984-01-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 19/84](https://diariodarepublica.pt/dr/detalhe/portaria/19-1984-660290), publicado em 1984-01-12."
+   ],
+   "markdown": "### CAPÍTULO VI — Produção de sementes\n\n10 - A produção de sementes das categorias pré-base e base é executada pelo obtentor ou sob a sua responsabilidade.\n\n11 - O obtentor de uma variedade detém todos os direitos de propriedade sobre a mesma, desde que não tenha cedido a sua posição a outra entidade.\n\n12 - Os produtores de semente base que desejem produzir semente de qualquer variedade do domínio público deverão comunicar nesse sentido à Direcção de Serviços de Ordenamento e Planeamento da DGPPA, a qual dará conhecimento da posição verificada à DSCQS.\n\n13 - A produção de semente da categoria certificada de uma variedade, inscrita no CNV, quando não efectuada pelo seu obtentor ou proprietário actual, só é permitida pela Direcção dos Serviços de Controle de Qualidade de Sementes se a entidade interessada fizer prova documental de que está autorizada pelo detentor dos direitos de propriedade dessa variedade a proceder à sua multiplicação.\n\n> Alterado pelo/a [Portaria n.º 19/84](https://diariodarepublica.pt/dr/detalhe/portaria/19-1984-660290), publicado em 1984-01-12."
+  }
+ }
+}

@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553074:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1982-01-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1c5482cef4fd0c80",
+    "d4b9d54a5666dcee",
+    "c18a74de5af84578",
+    "3c103ffe6feb68a4",
+    "e770b11ac5f86efe",
+    "c4a9994cb022efe5"
+   ]
+  },
+  {
+   "date": "1983-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:454049:por",
+     "title": "Portaria n.º 810/83",
+     "published": "1983-08-03",
+     "dre_path": "/dr/detalhe/portaria/810-1983-454049"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 9-9",
+    "Altera Artigo unidades 56-56",
+    "Altera Artigo unidades 58-64",
+    "Altera Artigo unidades 68-68",
+    "Altera Artigo unidades 103-106",
+    "Altera Artigo unidades 108-108",
+    "Altera Artigo unidades 111-112"
+   ],
+   "fragments": [
+    "1794ee7d1ef529e8",
+    "00e047b2be8313b5",
+    "c18a74de5af84578",
+    "3c103ffe6feb68a4",
+    "da26528cc796e7bb",
+    "c4a9994cb022efe5"
+   ]
+  }
+ ],
+ "fragments": {
+  "1c5482cef4fd0c80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Janeiro\n\nSob proposta do conselho científico da Faculdade de Letras da Universidade de Coimbra;\n\nAo abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, e [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), de 7 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e das Universidades, o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade de Coimbra, através da Faculdade de Letras, concede o grau de mestre em:\n\na) Literatura Novilatina em Portugal;\n\nb) Literatura Portuguesa;\n\nc) Estudos Anglo-Americanos;\n\nd) Geografia Humana;\n\ne) Filosofia Contemporânea.\n\n2.º\n\n(Organização dos cursos)\n\nOs cursos especializados conducentes aos mestrados enumerados no n.º 1, adiante simplesmente designados por «cursos», organizam-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Estrutura curricular)\n\nA estrutura curricular é a descrita nos anexos I a V da presente portaria.\n\n4.º\n\n(Precedências)\n\nAs tabelas e o regime de precedências serão fixados pelo conselho científico.\n\n5.º\n\n(Duração normal)\n\nA duração normal de cada curso é de 2 anos lectivos.\n\n6.º\n\n(Habilitação de acesso)\n\n1 - São admitidos à candidatura à matrícula em cada um dos cursos os titulares das licenciaturas descritas nos anexos I a V ou de licenciaturas em áreas afins ou habilitações legalmente equivalentes, com a classificação mínima de 14 valores.\n\n2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula licenciados cujo currículo demonstre uma adequada preparação científica de base, embora no grau referido no n.º 1 tenham classificação inferior a 14 valores.\n\n3 - Excepcionalmente, em casos devidamente justificados, e nos termos do n.º 4 do n.º 8.º, o conselho científico poderá admitir à candidatura à matrícula nos cursos os titulares de outra licenciatura pelas universidades portuguesas ou legalmente equivalente cujo currículo demonstre uma adequada preparação científica de base.\n\n4 - Cabe ao conselho científico definir quais os cursos a incluir nas áreas afins referidas no n.º 1.\n\n7.º\n\n(«Numerus clausus»)\n\n1 - O numerus clausus de cada curso será fixado anualmente por despacho do Ministro da Educação e das Universidades.\n\n2 - Uma percentagem do numerus clausus, a fixar igualmente no despacho a que se refere o número anterior, será reservada a docentes de estabelecimentos de ensino superior.\n\n8.º\n\n(Critérios de selecção)\n\n1 - Os candidatos à matrícula em cada curso serão seleccionados pelo conselho científico, tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 6.º ou de outros graus já obtidos pelo candidato;\n\nb) Currículo académico, científico e técnico;\n\nc) Experiência docente.\n\n2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 7.º, n.º 2, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino superior.\n\n3 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção para avaliação do nível daqueles nas áreas científicas de base correspondentes ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciaturas ou outras como condição prévia para a candidatura à matrícula no curso.\n\n4 - Os candidatos a que se refere o n.º 6.º, n.º 3, só serão considerados após selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.\n\n5 - A selecção a que se refere o presente número será feita pelo conselho científico da Faculdade de Letras da Universidade de Coimbra, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.\n\n9.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição para as disciplinas que integram os cursos serão as previstas na lei para os cursos de licenciatura, naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza dos cursos.\n\n10.º\n\n(Calendário)\n\nOs prazos de candidatura e inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o n.º 7.º\n\n11.º\n\n(Dispensa das provas complementares de doutoramentos)\n\nOs titulares de aprovação em cada curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para obtenção do grau de doutor nas especialidades indicadas nos anexos I a V.\n\nMinistério da Educação e das Universidades, 3 de Dezembro de 1981. - Pelo Ministro da Educação e das Universidades, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior."
+  },
+  "d4b9d54a5666dcee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Literatura Novilatina em Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Literatura Novilatina em Portugal\n\n1 - Área científica do curso:\n\nLiteratura Novilatina em Portugal.\n\n2 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\na) Literatura Novilatina em Portugal ... 8\n\nb) Literatura Latina ... 4\n\nc) Literatura Portuguesa Clássica ... 4\n\nTotal ... 16\n\n3 - Licenciaturas a que se refere o n.º 6.º, n.º 1:\n\na) Filologia Clássica;\n\nb) Línguas e Literaturas Clássicas, variante de Estudos Clássicos e Portugueses.\n\n4 - Especialidades a que se refere o n.º 11.º:\n\nLiteratura Latina."
+  },
+  "c18a74de5af84578": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Literatura Portuguesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Literatura Portuguesa\n\n1 - Área científica do curso:\n\nLiteratura Portuguesa.\n\n2 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\na) Literatura Portuguesa Medieval ... 4\n\nb) Literatura Portuguesa Clássica ... 4\n\nc) Literatura Portuguesa Moderna e Contemporânea ... 4\n\nd) Teoria da Literatura ... 4\n\nTotal ... 16\n\n3 - Licenciaturas a que se refere o n.º 6.º, n.º 1:\n\na) Filologia Românica;\n\nb) Línguas e Literaturas Modernas, variante de Estudos Portugueses;\n\nc) Línguas e Literaturas Clássicas, variante de Estudos Clássicos e Portugueses.\n\n4 - Especialidades a que se refere o n.º 11.º:\n\nLiteratura Portuguesa."
+  },
+  "3c103ffe6feb68a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Estudos Anglo-Americanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Estudos Anglo-Americanos\n\n1 - Área científica do curso:\n\nEstudos Anglo-Americanos.\n\n2 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\na) Literatura e Cultura Inglesa ... 8\n\nb) Literatura e Cultura Norte-Americana ... 8\n\nc) Problemática dos Estudos Anglo-Americanos ... 2\n\nTotal ... 18\n\n3 - Licenciaturas a que se refere o n.º 6.º, n.º 1:\n\na) Filologia Germânica;\n\nb) Línguas e Literaturas Modernas, variante de Estudos Ingleses.\n\n4 - Especialidades a que se refere o n.º 11.º:\n\na) Literatura Inglesa;\n\nb) História da Cultura Inglesa;\n\nc) Literatura Norte-Americana."
+  },
+  "e770b11ac5f86efe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Geografia Humana",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Geografia Humana\n\n1 - Área científica do curso:\n\nGeografia Humana.\n\n2 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\na) Geografia Regional ... 8\n\nb) Geografia Humana ... 3\n\nc) Metodologia do Planeamento ... 3\n\nd) Estágio ... 4\n\nTotal ... 18\n\n3 - Licenciaturas a que se refere o n.º 6.º, n.º 1:\n\na) Ciências Geográficas;\n\nb) Geografia.\n\n4 - Especialidades a que se refere o n.º 11.º:\n\nGeografia Humana."
+  },
+  "c4a9994cb022efe5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO V — Filosofia Contemporânea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — Filosofia Contemporânea\n\n1 - Área científica do curso:\n\nFilosofia Contemporânea.\n\n2 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\na) Fenomenologia ... 8\n\nb) Hermenêutica ... 8\n\ne) Problemas Antropológicos de Filosofia Contemporânea ... 2\n\nTotal ... 18\n\n3 - Licenciaturas a que se refere o n.º 6.º, n.º 1:\n\na) Ciências Históricas e Filosóficas;\n\nb) Filosofia.\n\n4 - Especialidades a que se refere o n.º 11.º:\n\nFilosofia Moderna e Contemporânea."
+  },
+  "1794ee7d1ef529e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1983-08-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03."
+   ],
+   "markdown": "de 4 de Janeiro\n\nSob proposta do conselho científico da Faculdade de Letras da Universidade de Coimbra;\n\nAo abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, e [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), de 7 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e das Universidades, o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade de Coimbra, através da Faculdade de Letras, concede o grau de mestre em:\n\na) Literaturas Clássicas;\n\n> Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03.\n\nb) Literatura Portuguesa;\n\nc) Estudos Anglo-Americanos;\n\nd) Geografia Humana;\n\ne) Filosofia Contemporânea.\n\n2.º\n\n(Organização dos cursos)\n\nOs cursos especializados conducentes aos mestrados enumerados no n.º 1, adiante simplesmente designados por «cursos», organizam-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Estrutura curricular)\n\nA estrutura curricular é a descrita nos anexos I a V da presente portaria.\n\n4.º\n\n(Precedências)\n\nAs tabelas e o regime de precedências serão fixados pelo conselho científico.\n\n5.º\n\n(Duração normal)\n\nA duração normal de cada curso é de 2 anos lectivos.\n\n6.º\n\n(Habilitação de acesso)\n\n1 - São admitidos à candidatura à matrícula em cada um dos cursos os titulares das licenciaturas descritas nos anexos I a V ou de licenciaturas em áreas afins ou habilitações legalmente equivalentes, com a classificação mínima de 14 valores.\n\n2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula licenciados cujo currículo demonstre uma adequada preparação científica de base, embora no grau referido no n.º 1 tenham classificação inferior a 14 valores.\n\n3 - Excepcionalmente, em casos devidamente justificados, e nos termos do n.º 4 do n.º 8.º, o conselho científico poderá admitir à candidatura à matrícula nos cursos os titulares de outra licenciatura pelas universidades portuguesas ou legalmente equivalente cujo currículo demonstre uma adequada preparação científica de base.\n\n4 - Cabe ao conselho científico definir quais os cursos a incluir nas áreas afins referidas no n.º 1.\n\n7.º\n\n(«Numerus clausus»)\n\n1 - O numerus clausus de cada curso será fixado anualmente por despacho do Ministro da Educação e das Universidades.\n\n2 - Uma percentagem do numerus clausus, a fixar igualmente no despacho a que se refere o número anterior, será reservada a docentes de estabelecimentos de ensino superior.\n\n8.º\n\n(Critérios de selecção)\n\n1 - Os candidatos à matrícula em cada curso serão seleccionados pelo conselho científico, tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 6.º ou de outros graus já obtidos pelo candidato;\n\nb) Currículo académico, científico e técnico;\n\nc) Experiência docente.\n\n2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 7.º, n.º 2, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino superior.\n\n3 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção para avaliação do nível daqueles nas áreas científicas de base correspondentes ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciaturas ou outras como condição prévia para a candidatura à matrícula no curso.\n\n4 - Os candidatos a que se refere o n.º 6.º, n.º 3, só serão considerados após selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.\n\n5 - A selecção a que se refere o presente número será feita pelo conselho científico da Faculdade de Letras da Universidade de Coimbra, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.\n\n9.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição para as disciplinas que integram os cursos serão as previstas na lei para os cursos de licenciatura, naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza dos cursos.\n\n10.º\n\n(Calendário)\n\nOs prazos de candidatura e inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o n.º 7.º\n\n11.º\n\n(Dispensa das provas complementares de doutoramentos)\n\nOs titulares de aprovação em cada curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para obtenção do grau de doutor nas especialidades indicadas nos anexos I a V.\n\nMinistério da Educação e das Universidades, 3 de Dezembro de 1981. - Pelo Ministro da Educação e das Universidades, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior."
+  },
+  "00e047b2be8313b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Literaturas Clássicas",
+   "in_force_from": "1983-08-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03.",
+    "Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03.",
+    "Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03."
+   ],
+   "markdown": "## ANEXO I — Literaturas Clássicas\n\n> Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03.\n\n1 - Área científica do curso:\n\nLiteraturas Clássicas (Latina, Grega e Portuguesa).\n\n2 - Áreas e unidades de crédito necessárias à obtenção do grau:\n\na) Obrigatórias:\n\nI) Literatura Novilatina em Portugal ... 3\n\nII) Literatura Grega ... 3\n\nIII) Literatura Latina ... 1,5\n\nIV) Literatura Portuguesa Clássica ... 1,5\n\nV) Literatura Latina Medieval ... 1,5\n\nb) Opcionais:\n\nI) Literatura Novilatina em Portugual ... 6\n\nII) Literatura Grega ... 6\n\nTotal ... 16,5\n\n3 - Licenciaturas a que se refere o n.º 1 do n.º 6.º:\n\n> Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03.\n\na) Filologia Clássica;\n\nb) Línguas e Literaturas Clássicas, variante de Estudos Clássicos e Portugueses.\n\n4 - Especialidades a que se refere o n.º 11.º:\n\na) Literatura Latina;\n\nb) Literatura Grega.\n\n> Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03."
+  },
+  "da26528cc796e7bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Geografia Humana",
+   "in_force_from": "1983-08-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03.",
+    "Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03.",
+    "Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03."
+   ],
+   "markdown": "## ANEXO IV — Geografia Humana\n\n1 - Área científica do curso:\n\nGeografia Humana.\n\n2 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\na) Obrigatórias:\n\nI) Geografia Humana ... 3\n\nII) Geo-Economia do Espaço Rural ... 3\n\nIII) Geografia Regional ... 8\n\nb) Estágio ... 4\n\n> Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03.\n\nTotal ... 18\n\n3 - Licenciaturas a que se refere o n.º 1 do n.º 6.º:\n\n> Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03.\n\na) Ciências Geográficas;\n\nb) Geografia.\n\n4 - Especialidade a que se refere o n.º 11.º:\n\na) Geografia Humana.\n\n> Alterado pelo/a [Portaria n.º 810/83](https://diariodarepublica.pt/dr/detalhe/portaria/810-1983-454049), publicado em 1983-08-03."
+  }
+ }
+}

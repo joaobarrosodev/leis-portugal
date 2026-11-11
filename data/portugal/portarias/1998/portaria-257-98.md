@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-05-22'
+version_history:
+  file: portaria-257-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-05-22'
+    amending: pt:dre:323314:por
+    amending_title: Portaria n.º 354/99
+    changes:
+    - Altera Artigo unidades 3-3
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/257/1998/04/24/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:07:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 354/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-257-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,7 +147,9 @@ validation:
 
 de 24 de Abril
 
-Pela [Portaria n.º 606/95](https://diariodarepublica.pt/dr/detalhe/portaria/606-1995-517627), de 19 de Junho, foi concessionada à Associação de Caça e Pesca Senhora do Almortão a zona de caça associativa da Senhora do Almortão, processo n.º 447-DGF, situada na freguesia e município de Idanha-a-Nova, com uma área de 1622,0975 ha, válida até 31 de Maio de 2002.
+Pela [Portaria n.º 606/95](https://diariodarepublica.pt/dr/detalhe/portaria/606-1995-517627), de 19 de Junho, foi concessionada à Associação de Caça e Pesca Senhora do Almortão a zona de caça associativa da Senhora do Almortão, processo n.º 447-DGF, situada na freguesia e município de Idanha-a-Nova, com uma área de 1622,0975 ha, válida até 31 de Maio de 2000.
+
+> Alterado pelo/a [Portaria n.º 354/99](https://diariodarepublica.pt/dr/detalhe/portaria/354-1999-323314), publicado em 1999-05-17.
 
 A concessionária requereu agora a anexação à referida zona de caça de alguns prédios rústicos sitos no município de Idanha-a-Nova, com uma área de 181,35 ha.
 

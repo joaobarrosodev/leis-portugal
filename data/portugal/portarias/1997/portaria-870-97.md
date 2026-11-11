@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-08-25'
+version_history:
+  file: portaria-870-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-09-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-08-25'
+    amending: pt:dre:444450:por
+    amending_title: Portaria n.º 563/98
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/870/1997/09/10/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:05:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 563/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-870-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,7 +164,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 1.º O n.º 1.º da [Portaria n.º 124/90](https://diariodarepublica.pt/dr/detalhe/portaria/124-1990-332774), de 16 de Fevereiro, passa a ter a seguinte redacção:
 
-«Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Perais, município de Vila Velha de Ródão, com a área de 1716,4650 ha.»
+«Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Perais, município de Vila Velha de Ródão, com a área de 1810,4650 ha.»
+
+> Alterado pelo/a [Portaria n.º 563/98](https://diariodarepublica.pt/dr/detalhe/portaria/563-1998-444450), publicado em 1998-08-20.
 
 É aditado à [Portaria n.º 124/90](https://diariodarepublica.pt/dr/detalhe/portaria/124-1990-332774), de 16 de Fevereiro, um n.º 1.º-A, com a seguinte redacção:
 

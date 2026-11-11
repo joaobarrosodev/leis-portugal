@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-06-27'
+version_history:
+  file: portaria-608-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-10-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-06-27'
+    amending: pt:dre:250029:por
+    amending_title: Portaria n.º 390/77
+    changes:
+    - Altera Artigo unidades 34-38
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:08:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 390/77. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1976/portaria-608-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -163,15 +178,9 @@ b) Experiência profissional mais adequada.
 
 20. O período de duração dos cursos referidos nos n.os 18 e 19 é considerado um período experimental.
 
-21. Ao pessoal contratado ao abrigo da presente portaria são atribuídas as seguintes remunerações:
+21. Ao pessoal contratado ao abrigo da presente portaria são atribuídas as remunerações correspondentes ao vencimento base dos funcionários do quadro que exerçam funções idênticas, conforme o quadro anexo, que faz parte integrante da presente portaria.
 
-a) Licenciados em Direito, Engenharia Civil, Economia, Finanças ou Gestão de Empresas ... 10200$00
-
-b) Diplomados com o curso de engenheiro técnico ... 8000$00
-
-c) Indivíduos com as qualificações referidas nas alíneas b) e c) do n.º 5 ... 7000$00
-
-d) Indivíduos com as qualificações referidas no n.º 6 ... 6400$00
+> Alterado pelo/a [Portaria n.º 390/77](https://diariodarepublica.pt/dr/detalhe/portaria/390-1977-250029), publicado em 1977-06-27.
 
 22. Às remunerações referidas no número anterior acrescem as equivalentes a um mês de subsídio de Natal e o subsídio de férias nas condições determinadas para o funcionalismo público em geral.
 

@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-10-15'
+version_history:
+  file: portaria-544-aa-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-10-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-10-15'
+    amending: pt:dre:667881:por
+    amending_title: Portaria n.º 1052/97
+    changes:
+    - Altera Artigo unidades 9-9
+    - Adita Artigo depois da unidade 9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/544-aa/1996/10/04/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:32:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1052/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-544-aa-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,7 +189,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Azambuja, Vale Paraíso e Aveiras de Baixo, município de Azambuja, com uma área de 1144,7470 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias da Azambuja, Vale Paraíso e Aveiras de Baixo, município da Azambuja, com a área de 1080,7970 ha.
+
+> Alterado pelo/a [Portaria n.º 1052/97](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1997-667881), publicado em 1997-10-14.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 1052/97](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1997-667881), publicado em 1997-10-14.
 
 2.º Pelo presente diploma é concessionada, até 15 de Julho de 2002, à Associação de Caçadores de Vale Paraíso (registo na Direcção-Geral das Florestas n.º 3.912.91), com sede em Vale Paraíso, Azambuja, a zona de caça associativa de Vale Paraíso (processo n.º 1220 da Direcção-Geral das Florestas).
 

@@ -38,10 +38,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-11-26'
+version_history:
+  file: decreto-regulamentar-regional-34-89-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-10-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-11-26'
+    amending: pt:dre:298837:por
+    amending_title: Decreto Regulamentar Regional n.º 6/94/A; Decreto Regulamentar Regional n.º 11/94/A
+    changes:
+    - Altera Artigo unidades 45-45
+    - Altera Artigo unidades 54-55
+    - Adita Artigo depois da unidade 56
+    - Altera Artigo unidades 58-67
+    - Altera Artigo unidades 69-70
 identifiers:
   celex: null
   eli: null
@@ -67,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:27:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    6/94/A; Decreto Regulamentar Regional n.º 11/94/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1989/decreto-regulamentar-regional-34-89-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -216,7 +235,7 @@ Art. 7.º - 1 - Os membros dos órgãos do IIPA são designados por períodos de
 
 3 - Os membros designados em substituição de outros manter-se-ão em funções até ao termo do mandato dos substituídos.
 
-Art. 8.º O conselho de administração é composto nos termos do artigo 6.º do [Decreto Legislativo Regional n.º 10/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1989-619936), de 25 de Julho, e reunirá, ordinariamente, uma vez em cada trimestre e, extraordinariamente, sempre que o seu presidente o convoque, por sua iniciativa ou a requerimento de qualquer dos seus membros, em qualquer caso por carta registada, com a antecedência mínima de cinco dias.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 6/94/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1994-298837), publicado em 1994-07-15.
 
 Art. 9.º O conselho de administração não pode constituir-se em reunião sem que estejam presentes a maioria dos seus membros.
 
@@ -234,39 +253,25 @@ c) Aprovar o orçamento anual;
 
 d) Aprovar o relatório de gestão e as contas de cada exercício, a submeter a homologação, nos termos do artigo 20.º;
 
-e) Deliberar sobre a alienação e aquisição de imóveis;
+e) Deliberar sobre a aquisição, alienação e oneração de bens imóveis e de participações financeiras;
 
-f) Aprovar o estatuto aplicável ao pessoal do IIPA;
+f) Aprovar o estatuto aplicável aos trabalhadores do IIPA e proceder à sua contratação;
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 11/94/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1994-547020), publicado em 1994-11-26.
 
 g) Acompanhar a evolução da actividade do IIPA.
 
+h) Constituir mandatários do IIPA, fixando-lhes os respectivos poderes.
+
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 11/94/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1994-547020), publicado em 1994-11-26.
+
 2 - Para o desempenho das suas competências o conselho de administração e cada um dos seus membros podem obter do administrador-delegado as informações que acharem úteis ou convenientes.
 
-Art. 12.º Compete ao administrador-delegado prosseguir os interesses do IIPA e assegurar a sua gestão e, nomeadamente:
-
-a) Elaborar e submeter à aprovação do conselho de administração os planos e orçamentos anuais e os planos estratégicos;
-
-b) Dirigir a actividade do IIPA, praticando todos os actos materiais e jurídicos inseridos no seu objecto.
-
-c) Representar o IIPA em juízo e fora dele;
-
-d) Adquirir, alienar e onerar quaisquer bens e direitos com ressalva do disposto na alínea e) do artigo anterior;
-
-e) Contratar os trabalhadores do IIPA, fixar as suas remunerações e exercer o inerente poder directivo e disciplinar;
-
-f) Executar e fazer executar as decisões do conselho de administração que sejam da sua competência;
-
-g) Elaborar o relatório de gestão e as contas de cada exercício, que submeterá à aprovação do conselho de administração e à homologação, nos termos do artigo 20.º;
-
-h) Constituir mandatários do IIPA, fixando-lhes os respectivos poderes;
-
-i) De uma forma geral, decidir todos os assuntos e praticar todos os actos que, segundo o presente Estatuto, não caibam nas competências de outros órgãos.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 6/94/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1994-298837), publicado em 1994-07-15.
 
 Art. 13.º O administrador-delegado goza da faculdade conferida aos presidentes das empresas públicas no artigo 9.º-A do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, com a redacção introduzida pelo [Decreto-Lei n.º 29/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1984-659899), de 20 de Janeiro.
 
-Art. 14.º - 1 - O IIPA obriga-se pela assinatura do administrador-delegado, pela de dois mandatários em actos que caibam nos respectivos poderes ou de um mandatário em acto para que lhe tenham sido conferidos poderes especiais.
-
-2 - Nos actos que não envolvam para o IIPA a assunção de quaisquer responsabilidades bastará a assinatura de um vogal ou de um mandatário, dentro dos seus poderes.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 6/94/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1994-298837), publicado em 1994-07-15.
 
 Art. 15.º A comissão de fiscalização será constituída nos termos do artigo 7.º do [Decreto Legislativo Regional n.º 10/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1989-619936), de 25 de Julho.
 

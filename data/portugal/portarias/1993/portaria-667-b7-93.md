@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-10-16'
+version_history:
+  file: portaria-667-b7-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-10-16'
+    amending: pt:dre:673588:por
+    amending_title: Portaria n.º 895/99
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/667-b7/1993/07/14/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:02:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 895/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-667-b7-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -179,7 +194,9 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdades dos Pelados», «Cardeais», «Azinhal», «Cotovia e Choça», «Courela do Touril» e outros, sitos nas freguesias de Trindade, Albernoa, Santa Clara do Louredo e Cabeça Gorda, município de Beja, com uma área de 5396,6448 ha, conforme planta em anexo ao presente diploma, que dele faz parte integrante.
 
-2.º Pelo presente diploma é concessionada, até 15 de Julho de 2002, à SOPELADOS - Sociedade Turística e Cinegética dos Pelados, com o número de pessoa colectiva 502346132 e sede na Herdade dos Pelados, Beja, a zona de caça turística da Herdade dos Pelados e Mingorra (processo n.º 1129 do Instituto Florestal).
+2.º Pelo presente diploma é concessionada, até 15 de Julho de 2000, à SOPELADOS - Sociedade Turística e Cinegética dos Pelados, com o número de pessoa colectiva 502346132 e sede na Herdade dos Pelados, Beja, a zona de caça turística da Herdade dos Pelados e Mingorra (processo n.º 1129 do Instituto Florestal).
+
+> Alterado pelo/a [Portaria n.º 895/99](https://diariodarepublica.pt/dr/detalhe/portaria/895-1999-673588), publicado em 1999-10-11.
 
 3.º A SOPELADOS - Sociedade Turística e Cinegética dos Pelados, como entidade gestora da zona de caça turística concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir os respectivos planos de ordenamento e exploração cinegética e de aproveitamento turístico aprovados e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
 

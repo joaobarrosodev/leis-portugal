@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-11-12'
+version_history:
+  file: portaria-931-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-09-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-11-12'
+    amending: pt:dre:177783:por
+    amending_title: Portaria n.º 638/96
+    changes:
+    - Altera Artigo unidades 27-27
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/931/1993/09/22/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:13:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 638/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-931-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -183,7 +198,9 @@ b) Ter desempenhado as funções de professor do 1.º ciclo do ensino básico.
 
 Contingentes
 
-As vagas para o curso de Supervisão Pedagógica e Gestão da Formação, fixadas nos termos do n.º 3.º, serão distribuídas pelos contingentes e afectadas a cada um deles de acordo com as seguintes percentagens:
+As vagas para o curso de estudos superiores especializados em Línguas Estrangeiras, fixadas nos termos do n.º 3.º, serão distribuídas pelos contingentes e afectadas a cada um deles de acordo com as seguintes percentagens:
+
+> Alterado pelo/a [Portaria n.º 638/96](https://diariodarepublica.pt/dr/detalhe/portaria/638-1996-177783), publicado em 1996-11-07.
 
 a) Para os candidatos titulares de um grau de bacharel - 50% das vagas;
 

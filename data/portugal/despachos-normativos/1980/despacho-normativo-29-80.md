@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-04-22'
+version_history:
+  file: despacho-normativo-29-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-02-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-04-22'
+    amending: pt:dre:678982:por
+    amending_title: Despacho Normativo n.º 72/80; Despacho Normativo n.º 139/80
+    changes:
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 23-23
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:03:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 72/80; Despacho
+    Normativo n.º 139/80. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1980/despacho-normativo-29-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,7 +139,9 @@ c) À Direcção-Geral do Equipamento Escolar;
 
 d) À Direcção-Geral do Ensino Particular;
 
-e) À Direcção-Geral de Pessoal, excepto quanto à Direcção de Serviços de Finanças e quanto à alínea b) do artigo 14.º do [Decreto-Lei n.º 552/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482), de 31 de Dezembro, no que se refere ao pessoal dos serviços centrais do Ministério da Educação e Ciência;
+e) À Direcção-Geral de Pessoal, excepto, relativamente à Direcção de Serviços de Finanças, quanto às competências mencionadas nas alíneas a), b) e parte final da alínea d) do artigo 12.º, e, no que se refere ao pessoal dos Serviços Centrais do Ministério da Educação e Ciência, na alínea b) do artigo 14.º, todas do [Decreto-Lei n.º 552/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482), de 31 de Dezembro.
+
+> Alterado pelo/a [Despacho Normativo n.º 139/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/139-1980-681428), publicado em 1980-04-22.
 
 f) Ao Instituto de Tecnologia Educativa;
 
@@ -145,7 +163,9 @@ c) Ao Fundo de Apoio aos Organismos Juvenis;
 
 d) Ao Fundo de Fomento do Desporto.
 
-4 - Os Secretários de Estado ficam autorizados a delegar nos directores-gerais e equiparados, ou nos seus substitutos legais, e a autorizar estes, por sua vez, a subdelegarem nos reitores, subdirectores-gerais ou equiparados, inspectores superiores e directores de serviços a competência que lhes é atribuída pelo presente despacho.
+4 - Os Secretários de Estado ficam autorizados a delegar nos directores-gerais e equiparados, ou nos seus substitutos legais, e a autorizar estes, por sua vez, a subdelegarem nos reitores, subdirectores-gerais ou equiparados, inspectores superiores, directores de serviços, chefes de divisão, chefes de repartição e outros funcionários de categoria igual ou superior à letra H a competência que lhes é atribuída pelo presente despacho.
+
+> Alterado pelo/a [Despacho Normativo n.º 72/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/72-1980-678982), publicado em 1980-03-03.
 
 5 - A delegação a que se refere o presente despacho entende-se feita sem prejuízo dos poderes de avocação e superintendência.
 

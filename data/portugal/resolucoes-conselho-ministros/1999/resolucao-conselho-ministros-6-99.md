@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-08-15'
+version_history:
+  file: resolucao-conselho-ministros-6-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-02-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-08-15'
+    amending: pt:dre:522210:por
+    amending_title: Resolução do Conselho de Ministros n.º 109/2001
+    changes:
+    - Altera Artigo unidades 27-27
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/6/1999/02/08/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:41:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 109/2001. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1999/resolucao-conselho-ministros-6-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -179,7 +194,9 @@ m) Preparar a elaboração e divulgação do livro A Segurança Começa em Nós,
 
 6 - O chefe do projecto é nomeado por despacho do Ministro da Administração Interna.
 
-7 - O chefe do projecto é equiparado, para efeitos remuneratórios, a director de serviços.
+7 - O chefe do projecto é equiparado, para efeitos remuneratórios, incluindo a percepção de despesas de representação, a director de serviços.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 109/2001](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/109-2001-522210), publicado em 2001-08-10.
 
 8 - Para a execução do disposto no n.º 5, podem ser nomeados, em regime de comissão de serviço, requisitados ou destacados, funcionários da administração pública, central, regional e local ou das forças de segurança, podendo ainda, nos termos do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, quando as circunstâncias o aconselhem, haver recurso a contratos de prestação de serviços e a contratos individuais de trabalho, a termo certo, os quais caducarão automaticamente com a extinção da estrutura do projecto.
 

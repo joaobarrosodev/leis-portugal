@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:141581:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-07-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dac3f020563e9c95",
+    "7aec659b148665e8",
+    "108e01ffc2983397",
+    "2fb2a8e188c8739f",
+    "8afd0790a412a367",
+    "4eb436207c7bd6ae",
+    "38622f2697f7e80c",
+    "cee70b220dd62234",
+    "62e004bea822520e"
+   ]
+  },
+  {
+   "date": "2004-07-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:525604:por",
+     "title": "Despacho Normativo n.º 33/2004",
+     "published": "2004-07-20",
+     "dre_path": "/dr/detalhe/despacho-normativo/33-2004-525604"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 45"
+   ],
+   "fragments": [
+    "dac3f020563e9c95",
+    "7aec659b148665e8",
+    "108e01ffc2983397",
+    "2fb2a8e188c8739f",
+    "ee59d40d1369e337",
+    "4eb436207c7bd6ae",
+    "38622f2697f7e80c",
+    "cee70b220dd62234",
+    "62e004bea822520e"
+   ]
+  }
+ ],
+ "fragments": {
+  "dac3f020563e9c95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Regulamento (CE) n.º [2529/2001](http://data.europa.eu/eli/reg/2001/2529/oj?locale=pt), do Conselho, de 19 de Dezembro, que estabelece a organização comum de mercados no sector das carnes de ovino e caprinos, prevê, no artigo 11.º, a possibilidade de os Estados-Membros efectuarem anualmente pagamentos complementares aos produtores em função de critérios objectivos estabelecidos a nível nacional.\n\nO Regulamento (CE) n.º [2550/2001](http://data.europa.eu/eli/reg/2001/2550/oj?locale=pt), da Comissão, de 21 de Dezembro, estabelece as normas de execução daquele regulamento.\n\nCompete, agora, a cada Estado-Membro tomar as medidas necessárias e adequadas para assegurar a correcta aplicação do citado regulamento.\n\nPelo que importa agora estabelecer os critérios objectivos segundo os quais serão efectuados os pagamentos complementares aos produtores, bem como as respectivas regras de concessão.\n\nAssim:\n\nAo abrigo do disposto no artigo 19.º do Regulamento (CE) n.º [2529/2001](http://data.europa.eu/eli/reg/2001/2529/oj?locale=pt), do Conselho, de 19 de Dezembro, determina-se o seguinte:"
+  },
+  "7aec659b148665e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Âmbito de aplicação\n\n1.º\n\nOs pagamentos complementares aos produtores de ovinos e caprinos, previstos no artigo 11.º do Regulamento (CE) n.º [2529/2001](http://data.europa.eu/eli/reg/2001/2529/oj?locale=pt), do Conselho, de 19 de Dezembro, serão atribuídos com o objectivo de apoiar a preservação e o melhoramento das raças autóctones.\n\n2.º\n\nOs referidos pagamentos serão concedidos sob a forma de subsídios por cabeça, no âmbito dos seguintes incentivos:\n\na) Incentivo à inscrição de fêmeas adultas no Registo Zootécnico (RZ) ou Livro Genealógico (LG);\n\nb) Incentivo ao contraste de performance (CP);\n\nc) Incentivo ao contraste leiteiro (CL)."
+  },
+  "108e01ffc2983397": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Incentivo à inscrição de fêmeas no Livro de Adultos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Incentivo à inscrição de fêmeas no Livro de Adultos\n\n3.º\n\nAos criadores das raças autóctones constantes do anexo I ao presente despacho normativo é atribuído um subsídio às fêmeas exploradas em linha pura, inscritas até 30 de Junho no Livro de Adultos (LA).\n\n4.º\n\nO número de fêmeas elegíveis no âmbito deste incentivo não pode ultrapassar, para cada produtor, o total do seu limite individual previsto no artigo 8.º do Regulamento (CE) n.º [2529/2001](http://data.europa.eu/eli/reg/2001/2529/oj?locale=pt).\n\n5.º\n\nOs montantes a atribuir variam na razão inversa da dimensão do efectivo da raça, conforme tabela constante do anexo II ao presente despacho normativo."
+  },
+  "2fb2a8e188c8739f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Incentivo aos contraste de performance e contraste leiteiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Incentivo aos contraste de performance e contraste leiteiro\n\n6.º\n\n1 - O subsídio ao CP é atribuído aos produtores de todas as raças autóctones, sendo elegíveis para efeitos de atribuição deste incentivo as fêmeas cujos filhos sejam submetidos a CP durante o período de 1 de Setembro do ano anterior a 30 de Junho do ano em curso.\n\n2 - O número de fêmeas elegíveis deverá respeitar cumulativamente os seguintes limites:\n\na) 50% de fêmeas inscritas no LA, em cada rebanho;\n\nb) 100 fêmeas inscritas no LA, em cada rebanho.\n\n7.º\n\nO subsídio ao CL é atribuído aos produtores de todas as raças autóctones, sendo elegíveis para efeitos de atribuição deste subsídio as fêmeas submetidas a CL válido durante o período de 1 de Setembro do ano anterior a 30 de Junho do ano em curso.\n\n8.º\n\nOs beneficiários dos incentivos aos CP e CL ficam obrigados a manter-se, durante todo o período referido nos números anteriores, num programa de melhoramento animal aprovado pela Direcção-Geral de Veterinária (DGV).\n\n9.º\n\nOs montantes a atribuir no âmbito dos incentivos mencionados no presente capítulo são modulados em função da dimensão do rebanho submetido ao programa de melhoramento, de acordo com os valores referidos nos anexos III e IV ao presente despacho normativo."
+  },
+  "8afd0790a412a367": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições gerais\n\n10.º\n\n1 - As associações de produtores de raças autóctones emitem declarações relativas a cada um dos seus associados, mencionando o número de animais elegíveis para efeitos dos incentivos constantes do presente despacho normativo.\n\n2 - Os secretários técnicos dos RZ e LG validam as declarações mencionadas no número anterior e remetem as mesmas à DGV até à data-limite de 31 de Agosto.\n\n3 - A DGV procede ao controle, homologação e envio das declarações ao Instituto Nacional de Intervenção e Garantia Agrícola (INGA) até à data-limite de 31 de Outubro.\n\n4 - O INGA efectua os pagamentos até à data-limite de 31 de Março do ano seguinte.\n\n11.º\n\n1 - Se o montante global de pagamentos complementares apurados ultrapassar 2275 milhões de euros, o INGA procederá a uma redução dos valores unitários constantes dos anexos II, III e IV, na percentagem equivalente à referida ultrapassagem.\n\n2 - Sempre que os montantes globais sejam inferiores à verba mencionada no número anterior, o INGA procederá à distribuição igualitária do remanescente pelo número de fêmeas elegíveis ao prémio complementar previsto no artigo 5.º do Regulamento (CE) n.º [2529/2001](http://data.europa.eu/eli/reg/2001/2529/oj?locale=pt), do Conselho.\n\n12.º\n\nSempre que um produtor se encontre em qualquer das condições previstas no artigo 40.º do Regulamento (CE) n.º [2419/2001](http://data.europa.eu/eli/reg/2001/2419/oj?locale=pt), a percentagem de penalização daí resultante será igualmente aplicada no âmbito dos pagamentos a efectuar ao abrigo do presente despacho normativo.\n\n13.º\n\nO presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.\n\nMinistério da Agriculutra, Desenvolvimento Rural e Pescas, 3 de Junho de 2002. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto."
+  },
+  "4eb436207c7bd6ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Lista das raças ovinas e caprinas a que se refere o n.º 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Lista das raças ovinas e caprinas a que se refere o n.º 3.º\n\nRaças ovinas:\n\nBordaleira de Entre Douro e Minho;\n\nMerino da Beira Baixa;\n\nSerra da Estrela;\n\nMerino Branco;\n\nChurra da Terra Quente.\n\nRaças caprinas:\n\nSerpentina;\n\nSerrana."
+  },
+  "38622f2697f7e80c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — [[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — [[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)"
+  },
+  "cee70b220dd62234": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Incentivo ao contraste de performance",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Incentivo ao contraste de performance\n\n[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)"
+  },
+  "62e004bea822520e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Incentivo ao contraste leiteiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Incentivo ao contraste leiteiro\n\n[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)"
+  },
+  "ee59d40d1369e337": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições gerais",
+   "in_force_from": "2004-07-25",
+   "changed_by": [
+    "Aditado pelo/a [Despacho Normativo n.º 33/2004](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/33-2004-525604), publicado em 2004-07-20."
+   ],
+   "markdown": "### CAPÍTULO IV — Disposições gerais\n\n10.º\n\n1 - As associações de produtores de raças autóctones emitem declarações relativas a cada um dos seus associados, mencionando o número de animais elegíveis para efeitos dos incentivos constantes do presente despacho normativo.\n\n2 - Os secretários técnicos dos RZ e LG validam as declarações mencionadas no número anterior e remetem as mesmas à DGV até à data-limite de 31 de Agosto.\n\n3 - A DGV procede ao controle, homologação e envio das declarações ao Instituto Nacional de Intervenção e Garantia Agrícola (INGA) até à data-limite de 31 de Outubro.\n\n4 - O INGA efectua os pagamentos até à data-limite de 31 de Março do ano seguinte.\n\n11.º\n\n1 - Se o montante global de pagamentos complementares apurados ultrapassar 2275 milhões de euros, o INGA procederá a uma redução dos valores unitários constantes dos anexos II, III e IV, na percentagem equivalente à referida ultrapassagem.\n\n2 - Sempre que os montantes globais sejam inferiores à verba mencionada no número anterior, o INGA procederá à distribuição igualitária do remanescente pelo número de fêmeas elegíveis ao prémio complementar previsto no artigo 5.º do Regulamento (CE) n.º [2529/2001](http://data.europa.eu/eli/reg/2001/2529/oj?locale=pt), do Conselho.\n\n12.º\n\nSempre que um produtor se encontre em qualquer das condições previstas no artigo 40.º do Regulamento (CE) n.º [2419/2001](http://data.europa.eu/eli/reg/2001/2419/oj?locale=pt), a percentagem de penalização daí resultante será igualmente aplicada no âmbito dos pagamentos a efectuar ao abrigo do presente despacho normativo.\n\nArtigo 12.º-A\n\n1 - O último período relevante para efeitos de atribuição do incentivo previsto no artigo 3.º do presente diploma termina a 30 de Junho de 2004.\n\n2 - Os contrastes de performance (CP) e os contrastes leiteiros efectuados após 1 de Setembro de 2004 não são elegíveis para efeitos dos incentivos previstos nos artigos 6.º e 7.º do presente diploma.\n\n> Aditado pelo/a [Despacho Normativo n.º 33/2004](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/33-2004-525604), publicado em 2004-07-20.\n\n13.º\n\nO presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.\n\nMinistério da Agriculutra, Desenvolvimento Rural e Pescas, 3 de Junho de 2002. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto."
+  }
+ }
+}

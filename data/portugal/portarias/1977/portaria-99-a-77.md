@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-06-18'
+version_history:
+  file: portaria-99-a-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-02-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-06-18'
+    amending: pt:dre:240989:por
+    amending_title: Portaria n.º 365-A/77
+    changes:
+    - Altera Artigo unidades 10-26
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:32:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 365-A/77. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1977/portaria-99-a-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,39 +134,9 @@ Tendo em conta o exposto, ao abrigo do [Decreto-Lei n.º 720-A/76](https://diari
 
 3.º O critério a tomar como base de distribuição é, salvo razões imperiosas de abastecimento público, o das importações efectuadas por cada importador na média dos anos de 1975 e 1976, devendo estes fazer prova do nível das importações alcançado naquele período, perante os departamentos referidos no n.º 2.º, através de apresentação das certidões dos respectivos despachos aduaneiros, mantendo-se, porém, a liberdade de escolha dos mercados de origem dos produtos.
 
-4.º Para além dos contingentes fixados na lista anexa, serão autorizadas importações de valor igual aos de valor nacional, adicionado das exportações de artigos pautais:
+4.º Para além dos contingentes fixados na lista anexa, poderão ser autorizadas, sob condicionalismo a estabelecer por despacho ministerial, importações, em valor que não exceda o valor nacional adicionado nas mercadorias exportadas, que o importador tenha fabricado em Portugal, ou de mercadorias portuguesas que tenham sido exportadas com destino ao fabricante estrangeiro do produto cuja importação se pretenda realizar, destinadas à utilização industrial por esses fabricantes.
 
-73.36.
-
-84.15.02.
-
-84.17.01.
-
-84.19.01.
-
-84.40.03.
-
-84.41.01.
-
-85.07.
-
-85.12.01.
-
-85.12.03.
-
-85.12.06.
-
-85.15.01.
-
-85.15.02.
-
-87.01.
-
-87.14.
-
-92.11.02.
-
-92.12.01.
+> Alterado pelo/a [Portaria n.º 365-A/77](https://diariodarepublica.pt/dr/detalhe/portaria/365-a-1977-240989), publicado em 1977-06-18.
 
 5.º As dúvidas suscitadas por esta portaria serão decididas por despacho conjunto dos Ministros do Plano e Coordenação Económica, das Finanças e do Comércio e Turismo.
 

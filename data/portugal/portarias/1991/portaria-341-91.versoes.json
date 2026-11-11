@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:616843:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-04-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "60c211c71746b8bb"
+   ]
+  },
+  {
+   "date": "1991-08-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:674622:por",
+     "title": "Portaria n.º 843/91",
+     "published": "1991-08-16",
+     "dre_path": "/dr/detalhe/portaria/843-1991-674622"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 8"
+   ],
+   "fragments": [
+    "5fc59e46075ac529"
+   ]
+  }
+ ],
+ "fragments": {
+  "60c211c71746b8bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Abril\n\nCom a presente portaria continua-se o processo de aprovação das cartas da reserva agrícola nacional relativas à área abrangida pela Direcção Regional de Agricultura do Alentejo, iniciado com a publicação das Portarias n.os [971/90](https://diariodarepublica.pt/dr/detalhe/portaria/971-1990-556072), de 10 de Outubro, e [1111/90](https://diariodarepublica.pt/dr/detalhe/portaria/1111-1990-566063), de 8 de Novembro.\n\nAssim, ao abrigo do disposto no artigo 5.º do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho:\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:\n\n1.º São aprovadas as cartas da reserva agrícola nacional (RAN) publicadas em anexo ao presente diploma, relativas:\n\na) Aos municípios de Vendas Novas, Redondo e Alandroal;\n\nb) À parte dos municípios de Alcácer do Sal, Viana do Alentejo, Portel, Reguengos de Monsaraz e Mourão não abrangido pela [Portaria n.º 1111/90](https://diariodarepublica.pt/dr/detalhe/portaria/1111-1990-566063), de 8 de Novembro.\n\n2.º As áreas compreendidas nas cartas em anexo pertencentes a municípios não mencionados no número anterior não são abrangidas pelo presente diploma.\n\n3.º As dúvidas quanto à inclusão ou não de prédios rústicos nas áreas da RAN delimitadas na carta em anexo, devido ao pequeno pormenor desta, são resolvidas através da emissão de certificados de solos, cuja apresentação deve ser exigida pelas autarquias locais em momento anterior a qualquer licenciamento a eles relativos.\n\n4.º Às áreas da RAN agora delimitadas é aplicável o regime jurídico da RAN constante, designadamente, dos artigos 8.º e seguintes do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho.\n\n5.º A futura ratificação de planos directores municipais que tenham por objecto áreas abrangidas pelo presente regulamento determina a caducidade da delimitação da RAN agora efectuada para as mesmas e a sua substituição pelas constantes dos citados planos.\n\n6.º Os originais da carta em anexo ficam depositados no Centro Nacional de Reconhecimento e Ordenamento Agrário e na Direcção Regional de Agricultura do Alentejo.\n\nMinistério da Agricultura, Pescas e Alimentação.\n\nAssinada em 25 de Março de 1991.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\nAnexo a que se refere o n.º 1.º da Portaria n.º 341/91, de 16 de Abril\n\nCarta da reserva agrícola nacional (RAN)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/088b00/21172122.pdf)"
+  },
+  "5fc59e46075ac529": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-08-21",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 843/91](https://diariodarepublica.pt/dr/detalhe/portaria/843-1991-674622), publicado em 1991-08-16."
+   ],
+   "markdown": "de 16 de Abril\n\nCom a presente portaria continua-se o processo de aprovação das cartas da reserva agrícola nacional relativas à área abrangida pela Direcção Regional de Agricultura do Alentejo, iniciado com a publicação das Portarias n.os [971/90](https://diariodarepublica.pt/dr/detalhe/portaria/971-1990-556072), de 10 de Outubro, e [1111/90](https://diariodarepublica.pt/dr/detalhe/portaria/1111-1990-566063), de 8 de Novembro.\n\nAssim, ao abrigo do disposto no artigo 5.º do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho:\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:\n\n1.º São aprovadas as cartas da reserva agrícola nacional (RAN) publicadas em anexo ao presente diploma, relativas:\n\na) Aos municípios de Vendas Novas, Redondo e Alandroal;\n\nb) À parte dos municípios de Alcácer do Sal, Viana do Alentejo, Portel, Reguengos de Monsaraz e Mourão não abrangido pela [Portaria n.º 1111/90](https://diariodarepublica.pt/dr/detalhe/portaria/1111-1990-566063), de 8 de Novembro.\n\nc) A parte dos Municípios de Vila Viçosa, Borba, Estremoz, Arraiolos e Montemor-o-Novo.\n\n> Aditado pelo/a [Portaria n.º 843/91](https://diariodarepublica.pt/dr/detalhe/portaria/843-1991-674622), publicado em 1991-08-16.\n\n2.º As áreas compreendidas nas cartas em anexo pertencentes a municípios não mencionados no número anterior não são abrangidas pelo presente diploma.\n\n3.º As dúvidas quanto à inclusão ou não de prédios rústicos nas áreas da RAN delimitadas na carta em anexo, devido ao pequeno pormenor desta, são resolvidas através da emissão de certificados de solos, cuja apresentação deve ser exigida pelas autarquias locais em momento anterior a qualquer licenciamento a eles relativos.\n\n4.º Às áreas da RAN agora delimitadas é aplicável o regime jurídico da RAN constante, designadamente, dos artigos 8.º e seguintes do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho.\n\n5.º A futura ratificação de planos directores municipais que tenham por objecto áreas abrangidas pelo presente regulamento determina a caducidade da delimitação da RAN agora efectuada para as mesmas e a sua substituição pelas constantes dos citados planos.\n\n6.º Os originais da carta em anexo ficam depositados no Centro Nacional de Reconhecimento e Ordenamento Agrário e na Direcção Regional de Agricultura do Alentejo.\n\nMinistério da Agricultura, Pescas e Alimentação.\n\nAssinada em 25 de Março de 1991.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\nAnexo a que se refere o n.º 1.º da Portaria n.º 341/91, de 16 de Abril\n\nCarta da reserva agrícola nacional (RAN)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/088b00/21172122.pdf)"
+  }
+ }
+}

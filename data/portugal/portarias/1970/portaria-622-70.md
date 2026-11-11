@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-12-20'
+version_history:
+  file: portaria-622-70.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1970-12-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-12-20'
+    amending: pt:dre:309524:por
+    amending_title: Portaria n.º 709/75; Portaria n.º 750/76
+    changes:
+    - Altera Artigo unidades 84-85
+    - Altera Artigo unidades 100-102
+    - Altera Artigo unidades 124-124
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:22:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 709/75; Portaria n.º
+    750/76. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1970/portaria-622-70.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -273,9 +290,11 @@ b) Condições especiais:
 
 1.ª A alferes graduado, os aspirantes a oficial graduados, com um ano de serviço, ou no acto de embarque, e sem prejuízo das antiguidades, quando nomeados para prestar serviço fora do território metropolitano ou ultramarino onde os CTT os utilizavam na data em que foram convocados para o S. P. M.;
 
-2.ª A tenente graduado, os alferes graduados com o mínimo de dois anos de permanência no posto;
+2.ª A tenente graduado, os alferes graduados que completem um ano de permanência no posto;
 
-3.ª A capitão graduado, os tenentes graduados com três anos de permanência no posto que, como subalternos, tenham desempenhado as funções de chefia técnico-postal durante pelo menos seis meses e obtido aproveitamento nas provas de aptidão técnica;
+3.ª A capitão graduado, os tenentes graduados que completem três anos de permanência no posto.
+
+> Alterado pelo/a [Portaria n.º 709/75](https://diariodarepublica.pt/dr/detalhe/portaria/709-1975-309524), publicado em 1975-11-29.
 
 4.ª A major graduado, os capitães graduados com cinco anos de permanência no posto que tenham desempenhado as funções de chefe de E. P. M. central ou S. P. M. T. durante pelo menos um ano e obtido aproveitamento nas provas de aptidão técnica;
 
@@ -305,11 +324,13 @@ b) Condições especiais:
 
 2. De entre os militares graduados no mesmo posto com a mesma categoria nos CTT, o acesso ao posto imediato faz-se por ordem de colocação na escala.
 
-17.º A graduação dos militares do S. P. M. nos postos imediatos só pode efectivar-se quando ocorram vagas nos quadros orgânicos do Serviço em relação aos seguintes postos:
+17.º A graduação dos militares do SPM nos postos imediatos só pode efectivar-se quando ocorram vagas nos quadros orgânicos do serviço em relação aos seguintes postos:
 
-a) Oficiais - a partir de capitão, inclusive;
+a) Oficiais - a partir de major, inclusive;
 
-b) Sargentos - a partir de primeiro-sargento, inclusive.
+b) Sargentos - para sargento-ajudante.
+
+> Alterado pelo/a [Portaria n.º 709/75](https://diariodarepublica.pt/dr/detalhe/portaria/709-1975-309524), publicado em 1975-11-29.
 
 18.º A antiguidade e a origem de contagem da permanência, para o efeito de graduação no posto imediato, serão ambas referidas, em cada posto, data da portaria da graduação nesse posto, no caso dos oficiais, e à data da respectiva graduação, quanto aos sargentos.
 
@@ -353,7 +374,9 @@ c) A duração e natureza do serviço prestado no S. P. M. devem, no entanto, se
 
 2. Deve sempre solicitar-se aos CTT ou CTTU que proíbam a inutilização das franquias postais afixadas nas correspondências expedidas por militares com marcas do dia que identifiquem a localização da estação postal civil que as aceita.
 
-29.º A correspondência oficial das forças armadas, no seu trânsito pelo S. P. M., deverá ser tratada como o S. E. G. M. I. L. 1 determina para as matérias classificadas de secreto.
+29.º A correspondência oficial das forças armadas, classificada com o grau de confidencial, ou superior, na sua aceitação e trânsito pelos canais do SPM, deverá ser tratada como o SEGMIL 1 determina para as matérias classificadas de secreto.
+
+> Alterado pelo/a [Portaria n.º 750/76](https://diariodarepublica.pt/dr/detalhe/portaria/750-1976-407710), publicado em 1976-12-20.
 
 30.º Ficam revogadas as Portarias n.os 22118, de 18 de Julho de 1966, e 23164, de 24 de Janeiro de 1968.
 

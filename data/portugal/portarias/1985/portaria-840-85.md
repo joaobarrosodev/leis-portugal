@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-11-08'
+version_history:
+  file: portaria-840-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-11-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-11-08'
+    amending: pt:dre:223035:por
+    amending_title: Portaria n.º 948/98
+    changes:
+    - Altera Artigo unidades 7-8
+    - Altera Artigo unidades 10-11
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: null
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:36:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 948/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-840-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,17 +149,19 @@ Assim:
 
 Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, nos termos dos artigos 12.º e 17.º do [Decreto-Lei n.º 363/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1978-326736), de 28 de Novembro, o seguinte:
 
-1.º - 1 - O concelho de Guimarães é dividido em 3 repartições de finanças.
+1.º - 1 - O concelho de Guimarães é dividido em duas repartições de finanças.
 
-2 - Cada repartição abrange a área das seguintes freguesias:
+2 - Cada repartição de finanças abrange a área das seguintes freguesias:
+
+> Alterado pelo/a [Portaria n.º 948/98](https://diariodarepublica.pt/dr/detalhe/portaria/948-1998-223035), publicado em 1998-11-03.
 
 1.ª Repartição: Airão (Santa Maria), Airão (São João Baptista), Arosa, Azurém, Balazar, Barco, Briteiros (Santa Leocádia), Briteiros (Santo Estêvão), Briteiros (São Salvador), Brito, Caldelas, Castelões, Creixomil, Donim, Fermentões, Figueiredo, Gominhães, Gonça, Gondar, Gondomar, Leitões, Longos, Oleiros, Oliveira, Pencelo, Ponte, Prazins (Santa Eufémia), Prazins (Santo Tirso), Ronfe, Sande (São Clemente), Sande (São Lourenço), Sande (São Martinho), Sande (Vila Nova), São Torcato, Selho (São Jorge), Selho (São Lourenço), Silvares, Souto (Santa Maria), Souto (São Salvador) e Vermil;
 
-2.ª Repartição: Abação, Aldão, Atães, Candoso (São Martinho), Candoso (Santiago), Costa, Infantas, Mascotelo, Mesão Frio, Nespereira, Pinheiro, Polvoreira, Rendufe, São Paio, São Sebastião, Selho (São Cristóvão), Serzedelo, Serzedo, Tabuadelo e Urgezes;
+2.ª Repartição: Abação (São Tomé), Aldão, Atães, Calvos, Candoso (São Martinho), Candoso (Santiago), Conde, Costa, Gandarela, Gémeos, Guardizela, Infantas, Lordelo, Mascotelos, Mesão Frio, Moreira de Cónegos, Nespereira, Pinheiro, Polvoreira, Rendufe, Guimarães (São Paio), Guimarães (São Sebastião), Selho (São Cristóvão), Serzedelo, Serzedo, Tabuadelo, Urgezes e Vizela (São Faustino).
 
-3.ª Repartição: Caldas (São João), Caldas (São Miguel), Calvos, Conde, Gandarela, Gémeos, Guardizela, Infias, Lordelo, Moreira de Cónegos, Tagilde, Vizela (São Faustino) e Vizela (São Paulo).
+> Alterado pelo/a [Portaria n.º 948/98](https://diariodarepublica.pt/dr/detalhe/portaria/948-1998-223035), publicado em 1998-11-03.
 
-2.º As sedes da 1.ª Repartição e da 2.ª Repartição são na cidade de Guimarães e a sede da 3.ª Repartição situa-se na vila de Vizela.
+> Alterado pelo/a [Portaria n.º 948/98](https://diariodarepublica.pt/dr/detalhe/portaria/948-1998-223035), publicado em 1998-11-03.
 
 3.º As repartições de finanças criadas têm competência plena para praticar todas as realidades fiscais na sua área.
 

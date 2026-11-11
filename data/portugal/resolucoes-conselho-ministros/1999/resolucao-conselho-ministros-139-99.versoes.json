@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:693860:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-11-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "acaf688d5811bd8e"
+   ]
+  },
+  {
+   "date": "2002-01-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:613431:por",
+     "title": "Resolução do Conselho de Ministros n.º 152/2000",
+     "published": "2000-11-11",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/152-2000-613431"
+    },
+    {
+     "id": "pt:dre:583004:por",
+     "title": "Resolução do Conselho de Ministros n.º 7/2002",
+     "published": "2002-01-11",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/7-2002-583004"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-13",
+    "Altera Artigo unidades 14-14"
+   ],
+   "fragments": [
+    "8abf9da012ac3fcd"
+   ]
+  }
+ ],
+ "fragments": {
+  "acaf688d5811bd8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Com uma capacidade útil de armazenamento de 902000 milhões de metros cúbicos de água, a albufeira de Castelo do Bode tem como uma das suas utilizações principais o abastecimento de água, servindo cerca de 3 milhões de habitantes da área de 22 municípios, nomeadamente dos municípios da área da Grande Lisboa.\n\nMantendo embora globalmente uma qualidade físico-química apreciável, certo é também que se tem vindo a verificar uma preocupante degradação da qualidade da água desta albufeira, nomeadamente quanto aos parâmetros biológicos e microbiológicos.\n\nContribuem para esta degradação causas múltiplas existentes em toda a bacia do Zêzere localizada a montante da albufeira - sobre as quais a administração central e local tem vindo conjugadamente a actuar -, bem como a ocupação da área circundante da albufeira através de actividades geradoras de efluentes que drenam para as suas águas e a sobreutilização do plano de água através de embarcações a motor.\n\nAs regras contidas no Plano de Ordenamento, de 1993, da Albufeira de Castelo do Bode têm-se revelado insuficientes para a prossecução da sua finalidade última - garantir a compatibilização entre os diversos usos, principais e secundários, permitidos pela albufeira -, encontrando-se, por isso, já em curso a revisão deste Plano, que há-de traduzir-se num plano especial de ordenamento do território.\n\nPerante o grande número de solicitações existentes no sentido de uma maior utilização - quer da zona de protecção da albufeira, quer do seu plano de água - e atenta a circunstância de estarmos perante a maior origem de água nacional para abastecimento público, urge que sejam desde já adoptadas as medidas previstas no artigo 6.º do [Decreto-Lei n.º 151/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1995-475371), de 24 de Junho.\n\nForam ouvidas as Câmaras Municipais de Abrantes, Ferreira do Zêzere, Figueiró dos Vinhos, Sardoal, Sertã, Vila de Rei e Tomar.\n\nAssim:\n\nNos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - A área envolvente da albufeira de Castelo do Bode, tal como se encontra definida no n.º 1 do artigo 7.º do [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, fica sujeita às seguintes medidas preventivas:\n\na) Proibição de utilizações que envolvam a produção de efluentes, salvo quando estes se encontrem ligados a um sistema de recolha, tratamento e rejeição de efluentes municipal ou multimunicipal, quando o ponto de descarga se localize a jusante da albufeira, quando se refiram a construções localizadas dentro de perímetro urbano definido em plano director municipal ou quando se insiram em áreas abrangidas por plano de urbanização ou plano de pormenor, desde que dotadas de sistema colectivo de recolha e tratamento de efluentes;\n\nb) Proibição da abertura de acessos à albufeira;\n\nc) Proibição da execução de infra-estruturas de apoio à utilização da albufeira, com excepção de infra-estruturas públicas de apoio à actividade balnear cujo processo de licenciamento se encontre em curso à data da publicação da presente resolução.\n\n2 - O prazo de vigência das medidas preventivas é de um ano, prorrogável, se necessário, por mais um, mediante resolução do Conselho de Ministros, caducando com a entrada em vigor do Plano de Ordenamento da Albufeira de Castelo do Bode.\n\n3 - Aos municípios abrangidos compete dar publicidade das medidas preventivas previstas na presente resolução, por editais a afixar nos paços do concelho e nas sedes das juntas de freguesia e por meio de aviso publicado no jornal mais lido na região.\n\n4 - Compete à Direcção Regional do Ambiente - Lisboa e Vale do Tejo, em articulação com a EPAL - Empresa Portuguesa de Águas Livres, S. A., proceder à sinalização, no plano de água da albufeira, das zonas de protecção à captação.\n\n5 - Compete às direcções regionais do ambiente, em articulação com o Instituto da Água, bem como às comissões de coordenação regional e câmaras municipais, nas respectivas áreas de jurisdição, a fiscalização do disposto na presente resolução.\n\n6 - São suspensas as normas do despacho conjunto dos Ministros do Planeamento e da Administração do Território e do Ambiente e Recursos Naturais publicado no Diário da República, 2.ª série, de 8 de Junho de 1993, bem como dos planos municipais de ordenamento do território abrangidos que contrariem o disposto no n.º 1 da presente resolução.\n\nPresidência do Conselho de Ministros, 12 de Outubro de 1999. - O Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "8abf9da012ac3fcd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2002-01-12",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 7/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/7-2002-583004), publicado em 2002-01-11.",
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 152/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/152-2000-613431), publicado em 2000-11-11."
+   ],
+   "markdown": "Com uma capacidade útil de armazenamento de 902000 milhões de metros cúbicos de água, a albufeira de Castelo do Bode tem como uma das suas utilizações principais o abastecimento de água, servindo cerca de 3 milhões de habitantes da área de 22 municípios, nomeadamente dos municípios da área da Grande Lisboa.\n\nMantendo embora globalmente uma qualidade físico-química apreciável, certo é também que se tem vindo a verificar uma preocupante degradação da qualidade da água desta albufeira, nomeadamente quanto aos parâmetros biológicos e microbiológicos.\n\nContribuem para esta degradação causas múltiplas existentes em toda a bacia do Zêzere localizada a montante da albufeira - sobre as quais a administração central e local tem vindo conjugadamente a actuar -, bem como a ocupação da área circundante da albufeira através de actividades geradoras de efluentes que drenam para as suas águas e a sobreutilização do plano de água através de embarcações a motor.\n\nAs regras contidas no Plano de Ordenamento, de 1993, da Albufeira de Castelo do Bode têm-se revelado insuficientes para a prossecução da sua finalidade última - garantir a compatibilização entre os diversos usos, principais e secundários, permitidos pela albufeira -, encontrando-se, por isso, já em curso a revisão deste Plano, que há-de traduzir-se num plano especial de ordenamento do território.\n\nPerante o grande número de solicitações existentes no sentido de uma maior utilização - quer da zona de protecção da albufeira, quer do seu plano de água - e atenta a circunstância de estarmos perante a maior origem de água nacional para abastecimento público, urge que sejam desde já adoptadas as medidas previstas no artigo 6.º do [Decreto-Lei n.º 151/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1995-475371), de 24 de Junho.\n\nForam ouvidas as Câmaras Municipais de Abrantes, Ferreira do Zêzere, Figueiró dos Vinhos, Sardoal, Sertã, Vila de Rei e Tomar.\n\nAssim:\n\nNos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Na área da albufeira de Castelo do Bode, tal como se encontra definida no n.º 1 do artigo 7.º do [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, são proibidos os seguintes actos e actividades:\n\na) Criação de novos núcleos populacionais;\n\nb) Construção ou ampliação de edifícios ou outras instalações;\n\nc) Instalação de explorações ou ampliação das já existentes;\n\nd) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;\n\ne) Derrube de árvores em maciço, com qualquer área;\n\nf) Destruição do solo vivo e do coberto vegetal.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 7/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/7-2002-583004), publicado em 2002-01-11.\n\n2 - O prazo de vigência das medidas preventivas é de dois anos, prorrogável, se necessário, por mais um, mediante resolução do Conselho de Ministros, caducando com a entrada em vigor do Plano de Ordenamento da Albufeira de Castelo do Bode.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 152/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/152-2000-613431), publicado em 2000-11-11.\n\n3 - Aos municípios abrangidos compete dar publicidade das medidas preventivas previstas na presente resolução, por editais a afixar nos paços do concelho e nas sedes das juntas de freguesia e por meio de aviso publicado no jornal mais lido na região.\n\n4 - Compete à Direcção Regional do Ambiente - Lisboa e Vale do Tejo, em articulação com a EPAL - Empresa Portuguesa de Águas Livres, S. A., proceder à sinalização, no plano de água da albufeira, das zonas de protecção à captação.\n\n5 - Compete às direcções regionais do ambiente, em articulação com o Instituto da Água, bem como às comissões de coordenação regional e câmaras municipais, nas respectivas áreas de jurisdição, a fiscalização do disposto na presente resolução.\n\n6 - São suspensas as normas do despacho conjunto dos Ministros do Planeamento e da Administração do Território e do Ambiente e Recursos Naturais publicado no Diário da República, 2.ª série, de 8 de Junho de 1993, bem como dos planos municipais de ordenamento do território abrangidos que contrariem o disposto no n.º 1 da presente resolução.\n\nPresidência do Conselho de Ministros, 12 de Outubro de 1999. - O Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

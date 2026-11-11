@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-10-01'
+version_history:
+  file: portaria-545-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-05-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-10-01'
+    amending: pt:dre:483639:por
+    amending_title: Portaria n.º 1114/2003
+    changes:
+    - Altera Artigo unidades 16-16
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/545/2002/05/29/p/dre/pt/html
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:41:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1114/2003. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-545-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,7 +163,9 @@ Manda o Governo, pelos Ministros das Obras Públicas, Transportes e Habitação 
 
 5.º A presente portaria produz efeitos a partir da data em que estejam efectivamente instalados e em funcionamento, em cada um dos referidos aeroportos, os respectivos sistemas de monitorização do ruído.
 
-6.º A presente portaria vigora até 14 de Maio de 2003, momento em que serão redefinidos os valores indicados no quadro anexo, no sentido de reduzir o número de movimentos aéreos a autorizar, podendo este prazo ser prorrogado.
+6.º A presente portaria vigora até 27 de Março de 2004.
+
+> Alterado pelo/a [Portaria n.º 1114/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1114-2003-483639), publicado em 2003-09-30.
 
 Em 13 de Maio de 2002.
 

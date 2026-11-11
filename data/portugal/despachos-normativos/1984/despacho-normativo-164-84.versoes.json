@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:400799:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-11-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "56a51e454a5b86a7"
+   ]
+  },
+  {
+   "date": "1985-08-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:179872:por",
+     "title": "Despacho Normativo n.º 63/85",
+     "published": "1985-07-30",
+     "dre_path": "/dr/detalhe/despacho-normativo/63-1985-179872"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 13-14"
+   ],
+   "fragments": [
+    "44c710550c24f095"
+   ]
+  }
+ ],
+ "fragments": {
+  "56a51e454a5b86a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O [Despacho Normativo n.º 227/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/227-1982-376386), publicado no Diário da República, 1.ª série, n.º 246, de 23 de Outubro de 1982, fixou, respectivamente:\n\nOs preços a aprovar aos fabricantes de adubos sujeitos ao regime de preços máximos e importadores de cloreto de potássio a 60%, os subsídios aos mesmos pelas vendas no continente e regiões autónomas e ao amoníaco que lhes foi destinado; e\n\nO preço aprovado aos fabricantes de amoníaco para adubos destinados a consumo em mercado interno.\n\nAtendendo a que o agravamento do custo económico-técnico global dos adubos e amoníaco excedeu o limite previsto no n.º 6 do despacho conjunto publicado no Diário da República, 2.ª série, n.º 228, de 1 de Outubro de 1982, procedeu-se à revisão dos preços anteriormente aprovados aos fabricantes e ao apuramento dos correspondentes acertos de subsídios unitários.\n\nNo apuramento daqueles acertos foram tidos em consideração:\n\nOs preços máximos de venda de adubos ao consumidor fixados pelas Portarias n.os [882/81](https://diariodarepublica.pt/dr/detalhe/portaria/882-1981-564180), de 2 de Outubro, [814/82](https://diariodarepublica.pt/dr/detalhe/portaria/814-1982-396684), de 28 de Agosto, e [714-A/83](https://diariodarepublica.pt/dr/detalhe/portaria/714-a-1983-627018), de 23 de Junho, períodos de vigência e respectivos subsídios fixados no [Despacho Normativo n.º 227/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/227-1982-376386), de 23 de Outubro;\n\nOs preços máximos do amoníaco que vigoraram durante a campanha, fixados pela [Portaria n.º 814/82](https://diariodarepublica.pt/dr/detalhe/portaria/814-1982-396684), de 28 de Agosto, com as alterações introduzidas pelo [Despacho Normativo n.º 228/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/228-1982-376387), publicado no Diário da República, 1.ª série, n.º 246, de 23 de Outubro de 1982, e pelo [Despacho Normativo n.º 176/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/176-1983-439376), publicado no Diário da República, 1.ª série, n.º 204, de 5 de Setembro de 1983, e respectivos subsídios constantes do [Despacho Normativo n.º 227/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/227-1982-376386), de 23 de Outubro.\n\nNestes termos, determina-se, ao abrigo do disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, e no n.º 6 do despacho conjunto publicado no Diário da República, 2.ª série, n.º 228, de 1 de Outubro de 1982, o seguinte:\n\n1.º É aprovado aos fabricantes de amoníaco destinado a adubos para consumo no continente e Regiões Autónomas dos Açores e da Madeira o preço de 34485$60, por tonelada à porta do fabricante, para as vendas efectuadas entre 1 de Julho de 1982 e 30 de Junho de 1983.\n\n2.º São aprovados aos fabricantes de adubos sujeitos ao regime de preços máximos e importadores de cloreto de potássio a 60%, destinados a consumo no continente e Regiões Autónomas dos Açores e da Madeira, os preços constantes do quadro anexo a este despacho.\n\n3.º O Fundo de Abastecimento pagará por tonelada de amoníaco consumido na produção de adubos para o continente e Regiões Autónomas dos Açores e da Madeira os seguintes acertos de subsídio:\n\na) 1292$10 por tonelada, à Quimigal - Química de Portugal, E. P., até ao limite de 44950 t;\n\nb) 866$20 por tonelada, à PGP - Petroquímica e Gás de Portugal, E. P., até ao limite de 120068,2 t.\n\n4.º O Fundo de Abastecimento pagará por tonelada de adubo vendido na campanha de 1982-1983, para o continente e Regiões Autónomas dos Açores e da Madeira, os acertos de subsídio constantes do quadro anexo a este despacho.\n\n5.º O Fundo de Abastecimento procederá ao apuramento dos valores relativos aos acertos dos subsídios para a campanha de 1982-1983, a pagar aos fabricantes de amoníaco e aos de adubos sujeitos ao regime de preços máximos e aos importadores de cloreto de potássio a 60%, resultantes do estabelecido no presente despacho.\n\n6.º Este despacho produz efeitos desde 1 de Julho de 1982.\n\nSecretarias de Estado do Orçamento, da Indústria e do Comércio Interno, 12 de Outubro de 1984. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Indústria, João Nuno Boulain de Carvalho Carreira. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.\n\nQuadro anexo a que se referem os n.os 2.º e 4.º\n\nPreços aprovados aos fabricantes de adubos sujeitos ao regime de preços máximos e importadores de cloreto de potássio a 60% e acertos de subsídio a pagar aos mesmos, por tonelada de adubo vendido para o continente e Regiões Autónomas dos Açores e da Madeira, na campanha de 1982-1983.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/11/26000/34393440.pdf)"
+  },
+  "44c710550c24f095": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1985-08-04",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 63/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-1985-179872), publicado em 1985-07-30."
+   ],
+   "markdown": "O [Despacho Normativo n.º 227/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/227-1982-376386), publicado no Diário da República, 1.ª série, n.º 246, de 23 de Outubro de 1982, fixou, respectivamente:\n\nOs preços a aprovar aos fabricantes de adubos sujeitos ao regime de preços máximos e importadores de cloreto de potássio a 60%, os subsídios aos mesmos pelas vendas no continente e regiões autónomas e ao amoníaco que lhes foi destinado; e\n\nO preço aprovado aos fabricantes de amoníaco para adubos destinados a consumo em mercado interno.\n\nAtendendo a que o agravamento do custo económico-técnico global dos adubos e amoníaco excedeu o limite previsto no n.º 6 do despacho conjunto publicado no Diário da República, 2.ª série, n.º 228, de 1 de Outubro de 1982, procedeu-se à revisão dos preços anteriormente aprovados aos fabricantes e ao apuramento dos correspondentes acertos de subsídios unitários.\n\nNo apuramento daqueles acertos foram tidos em consideração:\n\nOs preços máximos de venda de adubos ao consumidor fixados pelas Portarias n.os [882/81](https://diariodarepublica.pt/dr/detalhe/portaria/882-1981-564180), de 2 de Outubro, [814/82](https://diariodarepublica.pt/dr/detalhe/portaria/814-1982-396684), de 28 de Agosto, e [714-A/83](https://diariodarepublica.pt/dr/detalhe/portaria/714-a-1983-627018), de 23 de Junho, períodos de vigência e respectivos subsídios fixados no [Despacho Normativo n.º 227/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/227-1982-376386), de 23 de Outubro;\n\nOs preços máximos do amoníaco que vigoraram durante a campanha, fixados pela [Portaria n.º 814/82](https://diariodarepublica.pt/dr/detalhe/portaria/814-1982-396684), de 28 de Agosto, com as alterações introduzidas pelo [Despacho Normativo n.º 228/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/228-1982-376387), publicado no Diário da República, 1.ª série, n.º 246, de 23 de Outubro de 1982, e pelo [Despacho Normativo n.º 176/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/176-1983-439376), publicado no Diário da República, 1.ª série, n.º 204, de 5 de Setembro de 1983, e respectivos subsídios constantes do [Despacho Normativo n.º 227/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/227-1982-376386), de 23 de Outubro.\n\nNestes termos, determina-se, ao abrigo do disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, e no n.º 6 do despacho conjunto publicado no Diário da República, 2.ª série, n.º 228, de 1 de Outubro de 1982, o seguinte:\n\n1.º É aprovado aos fabricantes de amoníaco destinado a adubos para consumo no continente e Regiões Autónomas dos Açores e da Madeira o preço de 34485$60, por tonelada à porta do fabricante, para as vendas efectuadas entre 1 de Julho de 1982 e 30 de Junho de 1983.\n\n2.º São aprovados aos fabricantes de adubos sujeitos ao regime de preços máximos e importadores de cloreto de potássio a 60%, destinados a consumo no continente e Regiões Autónomas dos Açores e da Madeira, os preços constantes do quadro anexo a este despacho.\n\n3.º O Fundo de Abastecimento pagará por tonelada de amoníaco consumido na produção de adubos para o continente e Regiões Autónomas dos Açores e da Madeira os seguintes acertos de subsídio:\n\na) 1292$10 por tonelada, à QUIMIGAL - Química de Portugal, E. P., até ao limite de 44950 t;\n\nb) 1123$60 por tonelada, à PGP - Petroquímica e Gás de Portugal, E. P., até ao limite de 120068,2 t.\n\n> Alterado pelo/a [Despacho Normativo n.º 63/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-1985-179872), publicado em 1985-07-30.\n\n4.º O Fundo de Abastecimento pagará por tonelada de adubo vendido na campanha de 1982-1983, para o continente e Regiões Autónomas dos Açores e da Madeira, os acertos de subsídio constantes do quadro anexo a este despacho.\n\n5.º O Fundo de Abastecimento procederá ao apuramento dos valores relativos aos acertos dos subsídios para a campanha de 1982-1983, a pagar aos fabricantes de amoníaco e aos de adubos sujeitos ao regime de preços máximos e aos importadores de cloreto de potássio a 60%, resultantes do estabelecido no presente despacho.\n\n6.º Este despacho produz efeitos desde 1 de Julho de 1982.\n\nSecretarias de Estado do Orçamento, da Indústria e do Comércio Interno, 12 de Outubro de 1984. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Indústria, João Nuno Boulain de Carvalho Carreira. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.\n\nQuadro anexo a que se referem os n.os 2.º e 4.º\n\nPreços aprovados aos fabricantes de adubos sujeitos ao regime de preços máximos e importadores de cloreto de potássio a 60% e acertos de subsídio a pagar aos mesmos, por tonelada de adubo vendido para o continente e Regiões Autónomas dos Açores e da Madeira, na campanha de 1982-1983.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/11/26000/34393440.pdf)"
+  }
+ }
+}

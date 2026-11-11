@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-11'
+version_history:
+  file: portaria-448-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-11'
+    amending: pt:dre:644525:por
+    amending_title: Portaria n.º 881/97
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/448/1991/05/28/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:49:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 881/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-448-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -161,7 +177,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Casével, concelho de Santarém, com uma área de 1967,50 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Casével, município de Santarém, com a área de 1872,7655 ha.
+
+> Alterado pelo/a [Portaria n.º 881/97](https://diariodarepublica.pt/dr/detalhe/portaria/881-1997-644525), publicado em 1997-09-10.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 881/97](https://diariodarepublica.pt/dr/detalhe/portaria/881-1997-644525), publicado em 1997-09-10.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à Associação Recreativa e Cultural de Casével (registo na Direcção-Geral das Florestas n.º 3.786.90), com sede na Comenda, Casével, Santarém, a zona de caça associativa de Casével (processo n.º 577 da Direcção-Geral das Florestas).
 

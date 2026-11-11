@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-01-12'
+version_history:
+  file: resolucao-conselho-ministros-139-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-11-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-01-12'
+    amending: pt:dre:613431:por
+    amending_title: Resolução do Conselho de Ministros n.º 152/2000; Resolução do Conselho de Ministros n.º 7/2002
+    changes:
+    - Altera Artigo unidades 10-13
+    - Altera Artigo unidades 14-14
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/139/1999/11/04/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:41:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 152/2000; Resolução do Conselho de Ministros n.º 7/2002. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1999/resolucao-conselho-ministros-139-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,15 +160,25 @@ Assim:
 
 Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - A área envolvente da albufeira de Castelo do Bode, tal como se encontra definida no n.º 1 do artigo 7.º do [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, fica sujeita às seguintes medidas preventivas:
+1 - Na área da albufeira de Castelo do Bode, tal como se encontra definida no n.º 1 do artigo 7.º do [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, são proibidos os seguintes actos e actividades:
 
-a) Proibição de utilizações que envolvam a produção de efluentes, salvo quando estes se encontrem ligados a um sistema de recolha, tratamento e rejeição de efluentes municipal ou multimunicipal, quando o ponto de descarga se localize a jusante da albufeira, quando se refiram a construções localizadas dentro de perímetro urbano definido em plano director municipal ou quando se insiram em áreas abrangidas por plano de urbanização ou plano de pormenor, desde que dotadas de sistema colectivo de recolha e tratamento de efluentes;
+a) Criação de novos núcleos populacionais;
 
-b) Proibição da abertura de acessos à albufeira;
+b) Construção ou ampliação de edifícios ou outras instalações;
 
-c) Proibição da execução de infra-estruturas de apoio à utilização da albufeira, com excepção de infra-estruturas públicas de apoio à actividade balnear cujo processo de licenciamento se encontre em curso à data da publicação da presente resolução.
+c) Instalação de explorações ou ampliação das já existentes;
 
-2 - O prazo de vigência das medidas preventivas é de um ano, prorrogável, se necessário, por mais um, mediante resolução do Conselho de Ministros, caducando com a entrada em vigor do Plano de Ordenamento da Albufeira de Castelo do Bode.
+d) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;
+
+e) Derrube de árvores em maciço, com qualquer área;
+
+f) Destruição do solo vivo e do coberto vegetal.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 7/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/7-2002-583004), publicado em 2002-01-11.
+
+2 - O prazo de vigência das medidas preventivas é de dois anos, prorrogável, se necessário, por mais um, mediante resolução do Conselho de Ministros, caducando com a entrada em vigor do Plano de Ordenamento da Albufeira de Castelo do Bode.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 152/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/152-2000-613431), publicado em 2000-11-11.
 
 3 - Aos municípios abrangidos compete dar publicidade das medidas preventivas previstas na presente resolução, por editais a afixar nos paços do concelho e nas sedes das juntas de freguesia e por meio de aviso publicado no jornal mais lido na região.
 

@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-07'
+version_history:
+  file: portaria-722-m4-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-07'
+    amending: pt:dre:642905:por
+    amending_title: Portaria n.º 846/97
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/722-m4/1992/07/15/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:30:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 846/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-722-m4-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +160,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Castrelos, município de Bragança, com uma área de 1930 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Castrelos, município de Bragança, com a área de 1911 ha.
+
+> Alterado pelo/a [Portaria n.º 846/97](https://diariodarepublica.pt/dr/detalhe/portaria/846-1997-642905), publicado em 1997-09-06.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 846/97](https://diariodarepublica.pt/dr/detalhe/portaria/846-1997-642905), publicado em 1997-09-06.
 
 2.º Pelo presente diploma é concessionada, pelo período de nove anos, à Associação de Caça e Pesca do Baceiro (registo na Direcção-Geral das Florestas n.º 1.1077.92), com sede em Conlelas, Bragança, a zona de caça associativa do Baceiro (processo n.º 1071 da Direcção-Geral das Florestas).
 

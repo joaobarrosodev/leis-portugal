@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:157802:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-10-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e14c42cfafb81c08"
+   ]
+  },
+  {
+   "date": "2006-12-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:552373:por",
+     "title": "Portaria n.º 1417/2006",
+     "published": "2006-12-20",
+     "dre_path": "/dr/detalhe/portaria/1417-2006-552373"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "53ddfe4b8db973fd"
+   ]
+  }
+ ],
+ "fragments": {
+  "e14c42cfafb81c08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Outubro\n\nCom fundamento no disposto no artigo 26.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto;\n\nOuvido o Conselho Cinegético Municipal de Coruche:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Vale de Sobreiras (processo n.º 4153-DGRF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caçadores da Açorda, com o número de pessoa colectiva 504072951 e sede no Apartado 40, 2104-908 Couço.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Couço, município de Coruche, com a área de 1336 ha.\n\n3.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 30% relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;\n\nb) 20% relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;\n\nc) 25% relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;\n\nd) 25% aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão.\n\n6.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 19 de Setembro de 2005.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/10/192b00/59335933.pdf)"
+  },
+  "53ddfe4b8db973fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-12-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1417/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1417-2006-552373), publicado em 2006-12-20."
+   ],
+   "markdown": "de 6 de Outubro\n\nCom fundamento no disposto no artigo 26.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto;\n\nOuvido o Conselho Cinegético Municipal de Coruche:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Vale de Sobreiras (processo n.º 4153-DGRF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caçadores da Açorda, com o número de pessoa colectiva 504072951 e sede no Apartado 40, 2104-908 Couço.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia do Couço, município de Coruche, com a área de 691 ha.\n\n> Alterado pelo/a [Portaria n.º 1417/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1417-2006-552373), publicado em 2006-12-20.\n\n3.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 30% relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;\n\nb) 20% relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;\n\nc) 25% relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;\n\nd) 25% aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão.\n\n6.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 19 de Setembro de 2005.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/10/192b00/59335933.pdf)"
+  }
+ }
+}

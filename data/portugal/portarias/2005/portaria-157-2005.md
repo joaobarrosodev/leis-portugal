@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-10-29'
+version_history:
+  file: portaria-157-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-02-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-10-29'
+    amending: pt:dre:595311:por
+    amending_title: Portaria n.º 1101/2005
+    changes:
+    - Altera Artigo unidades 22-22
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/157/2005/02/08/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:04:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1101/2005. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2005/portaria-157-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,7 +188,9 @@ d) A data a partir da qual o reconhecimento produz efeitos.
 
 a) Projecto curricular e formativo;
 
-b) Plano curricular com explicitação das áreas científicas das unidades curriculares obrigatórias e facultativas que o integram, bem como o número de unidades de crédito de cada unidade curricular;
+b) Plano curricular, com explicitação das áreas científicas das unidades curriculares obrigatórias e facultativas que o integram, bem como o número de unidades de crédito de cada unidade curricular, quando aplicável;
+
+> Alterado pelo/a [Portaria n.º 1101/2005](https://diariodarepublica.pt/dr/detalhe/portaria/1101-2005-595311), publicado em 2005-10-24.
 
 c) As unidades de crédito referidas na alínea anterior deverão estar obrigatoriamente em conformidade com o sistema de créditos ECTS previsto na Declaração de Bolonha, aquando da regulamentação deste.
 

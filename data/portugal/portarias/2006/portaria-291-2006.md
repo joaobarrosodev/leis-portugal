@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-10-23'
+version_history:
+  file: portaria-291-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-03-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-10-23'
+    amending: pt:dre:545838:por
+    amending_title: Portaria n.º 1117/2006
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/291/2006/03/22/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:13:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1117/2006. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2006/portaria-291-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,7 +173,9 @@ Com fundamento no disposto nos artigos 11.º e 26.º do [Decreto-Lei n.º 202/20
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º São anexados à zona de caça municipal criada pela [Portaria n.º 801/2003](https://diariodarepublica.pt/dr/detalhe/portaria/801-2003-660093), de 13 de Agosto, vários prédios rústicos sitos na freguesia de Pechão, município de Faro, com a área de 368 ha, ficando a mesma com a área total de 1562 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+1.º São anexados à zona de caça municipal criada pela [Portaria n.º 801/2003](https://diariodarepublica.pt/dr/detalhe/portaria/801-2003-660093), de 13 de Agosto, vários prédios rústicos sitos na freguesia de Estói, município de Faro, com a área de 368 ha, ficando a mesma com a área total de 1562 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+
+> Alterado pelo/a [Portaria n.º 1117/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1117-2006-545838), publicado em 2006-10-18.
 
 2.º A presente anexação só produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
 

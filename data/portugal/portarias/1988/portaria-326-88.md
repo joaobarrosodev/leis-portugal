@@ -38,10 +38,36 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-05-23'
+version_history:
+  file: portaria-326-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-05-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-05-23'
+    amending: pt:dre:642189:por
+    amending_title: Portaria n.º 415/91; Portaria n.º 757/92; Portaria n.º 307/94; Portaria n.º 307/94
+    changes:
+    - Altera Artigo unidades 7-7
+    - Adita Artigo depois da unidade 8
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 11-13
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 15-23
+    - Altera Artigo unidades 25-25
+    - Adita Artigo depois da unidade 25
+    - Altera Artigo unidades 26-30
+    - Altera Artigo unidades 31-31
+    - Altera Artigo unidades 32-32
+    - Altera Artigo unidades 40-40
 identifiers:
   celex: null
   eli: null
@@ -67,7 +93,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:27:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 415/91; Portaria n.º
+    757/92; Portaria n.º 307/94; Portaria n.º 307/94. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-326-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,57 +166,85 @@ Assim:
 
 Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, nos termos e em execução do n.º 2 do artigo 8.º do [Decreto-Lei n.º 99/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1988-285743), de 23 de Março, ouvidos os Ministros do Planeamento e da Administração do Território, da Educação, da Indústria e Energia e da Saúde, o seguinte:
 
-1.º A Comissão de Alvarás de Empresas de Obras Públicas e Particulares (CAEOPP), para além das individualidades referidas na alínea a) do n.º 1 do artigo 7.º e no n.º 3 do artigo 8.º, é composta pelas seguintes entidades:
+1.º A Comissão de Alvarás de Empresas de Obras Públicas e Particulares (CAEOPP), para além das individualidades referidas na alínea a) do n.º 1 do artigo 7.º e do n.º 3 do artigo 8.º, é composta pelas seguintes entidades:
+
+> Alterado pelo/a [Portaria n.º 757/92](https://diariodarepublica.pt/dr/detalhe/portaria/757-1992-274467), publicado em 1992-08-04.
 
 a) Junta Autónoma de Estradas;
 
-b) Direcção-Geral das Instalações e Equipamentos de Saúde;
+b) Direcção-Geral dos Edifícios e Monumentos Nacionais;
 
-c) Direcção-Geral dos Equipamentos Educativos;
+> Aditado pelo/a [Portaria n.º 757/92](https://diariodarepublica.pt/dr/detalhe/portaria/757-1992-274467), publicado em 1992-08-04.
 
-d) Direcção-Geral de Portos;
+c) Direcção-Geral das Instalações e Equipamentos de Saúde;
 
-e) Associação Nacional de Municípios;
+> Alterado pelo/a [Portaria n.º 757/92](https://diariodarepublica.pt/dr/detalhe/portaria/757-1992-274467), publicado em 1992-08-04.
 
-f) Associação de Industriais da Construção Civil e Obras Públicas do Norte (AICCOPN);
+d) Departamento de Gestão de Recursos Educativos;
 
-g) Associação de Empresas de Construção e Obras Públicas do Sul (AECOPS);
+> Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.
 
-h) Associação da Indústria, Associação da Construção - Região Autónoma da Madeira (ASSICOM);
+e) Direcção-Geral de Portos;
 
-i) Associação Nacional dos Empreiteiros de Obras Públicas (ANEOP);
+f) Associação Nacional de Municípios Portugueses;
 
-j) Associação dos Industriais da Construção de Edifícios (AICE):
+g) Associação de Industriais da Construção Civil e Obras Públicas do Norte;
 
-l) Ordem dos Engenheiros;
+> Alterado pelo/a [Portaria n.º 757/92](https://diariodarepublica.pt/dr/detalhe/portaria/757-1992-274467), publicado em 1992-08-04.
 
-m) Associação dos Arquitectos Portugueses;
+h) AECOPS - Associação de Empresas de Construção e Obras Públicas.
 
-n) Associação Profissional dos Engenheiros Técnicos Portugueses;
+> Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.
 
-o) Sindicato dos Agentes Técnicos de Arquitectura e Engenharia, enquanto associação profissional.
+i) Associação da Indústria, Associação da Construção - Região Autónoma da Madeira;
 
-2.º - a) Da 1.ª Secção da CAEOPP fazem parte as entidades referidas nas alínea a) a i) e l) a o) do número anterior.
+j) Associação Nacional dos Empreiteiros de Obras Públicas;
 
-b) Da 2.ª Secção da CAEOPP fazem parte as entidades referidas nas alíneas e) a h) e j) a o).
+l) Associação dos Industriais da Construção de Edifícios;
+
+m) Ordem dos Engenheiros;
+
+n) Associação dos Arquitectos Portugueses;
+
+o) Associação Portuguesa de Engenheiros Técnicos;
+
+p) Associação dos Agentes Técnicos de Arquitectura e Engenharia.
+
+2.º - a) Da 1.ª Secção da CAEOPP fazem parte as entidades referidas nas alíneas a) a j) e m) a p) do número anterior.
+
+b) Da 2.ª Secção da CAEOPP fazem parte as entidades referidas nas alíneas f) a i) e l) a p).
+
+> Alterado pelo/a [Portaria n.º 757/92](https://diariodarepublica.pt/dr/detalhe/portaria/757-1992-274467), publicado em 1992-08-04.
 
 3.º A Comissão de Índices e Fórmulas de Empreitadas (CIFE), para além da individualidade referida na alínea a) do n.º 1 do artigo 7.º, é composta pelas seguintes entidades:
 
-a) Instituto Nacional de Estatística;
+a) Instituto Nacional de Estatística (INE);
 
-b) Gabinete de Estudos e Planeamento do Ministério das Obras Públicas, Transportes e Comunicações (GEP/MOPTC);
+> Alterado pelo/a [Portaria n.º 415/91](https://diariodarepublica.pt/dr/detalhe/portaria/415-1991-642189), publicado em 1991-05-16.
 
-c) Direcção-Geral dos Edifícios e Monumentos Nacionais;
+b) Departamento de Estatística do Ministério do Emprego e da Segurança Social (DE/MESS);
 
-d) Junta Autónoma de Estradas;
+> Aditado pelo/a [Portaria n.º 415/91](https://diariodarepublica.pt/dr/detalhe/portaria/415-1991-642189), publicado em 1991-05-16.
 
-e) Laboratório Nacional de Engenharia Civil (LNEC);
+c) Gabinete de Estudos e Planeamento do Ministério das Obras Públicas, Transportes e Comunicações (GEP/MOPTC);
 
-f) Associação de Industriais da Construção Civil e Obras Públicas do Norte (AICCOPN);
+d) Direcção-Geral dos Edifícios e Monumentos Nacionais (DGEMN);
 
-g) Associação de Empresas de Construção e Obras Públicas do Sul (AECOPS);
+e) Junta Autónoma de Estradas (JAE);
 
-h) Associação Nacional dos Empreiteiros de Obras Públicas (ANEOP).
+f) Laboratório Nacional de Engenharia Civil (LNEC);
+
+g) Associação dos Industriais da Construção Civil e Obras Públicas do Norte (AICCOPN);
+
+> Alterado pelo/a [Portaria n.º 415/91](https://diariodarepublica.pt/dr/detalhe/portaria/415-1991-642189), publicado em 1991-05-16.
+
+h) AECOPS - Associação de Empresas de Construção e Obras Públicas (AECOPS);
+
+> Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.
+
+i) Associação Nacional dos Empreiteiros de Obras Públicas (ANEOP).
+
+> Alterado pelo/a [Portaria n.º 415/91](https://diariodarepublica.pt/dr/detalhe/portaria/415-1991-642189), publicado em 1991-05-16.
 
 4.º A Comissão de Análise e Estudos de Conjuntura da Construção e de Acompanhamento da Legislação (CAECCAL), para além da individualidade referida na alínea a) do n.º 1 do artigo 7.º, é composta pelas seguintes entidades:
 
@@ -205,7 +260,9 @@ e) Associação Nacional de Municípios;
 
 f) Associação de Industriais de Construção Civil e Obras Públicas do Norte (AICCOPN);
 
-g) Associação de Empresas de Construção e Obras Públicas do Sul (AECOPS);
+g) AECOPS - Associação de Empresas de Construção e Obras Públicas (AECOPS);
+
+> Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.
 
 h) Associação da Indústria, Associação da Construção - Região Autónoma da Madeira (ASSICOM);
 

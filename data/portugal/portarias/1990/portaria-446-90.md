@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-08-16'
+version_history:
+  file: portaria-446-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-06-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-08-16'
+    amending: pt:dre:477669:por
+    amending_title: Portaria n.º 974/95
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:21:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 974/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-446-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,7 +165,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º Ficam sujeitas ao regime cinegético especial as propriedades constantes da planta anexa, denominadas «Corte Pão e Água e Outras», situadas nas freguesias de São João dos Caldeireiros e de Alcaria Ruiva, ambas do concelho de Mértola, com uma área de 1270,5550 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de São João de Caldeireiros e Alcaria Ruiva, município de Mértola, com uma área 1290,93 ha.
+
+> Alterado pelo/a [Portaria n.º 974/95](https://diariodarepublica.pt/dr/detalhe/portaria/974-1995-477669), publicado em 1995-08-11.
 
 2.º Nesta área, até ao dia 31 de Maio de 2002, é concessionada à Sociedade S. Ciro, Administração e Iniciativas Financeiras, S. A., a exploração de uma zona de caça turística (processo n.º 271 da Direcção-Geral das Florestas).
 
