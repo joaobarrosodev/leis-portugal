@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:613381:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "A Assembleia da República, em reunião plenária de 1 de Fevereiro de 1996, resolve designar, nos termos dos artigos 23.º, n.º 3, 166.º, alínea i), e 169.º, n.º 5, da Constituição, o conselheiro Dr. José Manuel Meneres Sampaio Pimentel para o cargo de Provedor de Justiça.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação do nome \"José Manuel Menezes de Sampaio Pimentel\" para \"José Manuel Meneres Sampaio Pimentel\"; substituída a unidade 3."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

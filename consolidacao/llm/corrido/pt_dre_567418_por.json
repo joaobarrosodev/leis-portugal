@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:567418:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de rectificação n.º 11/92) rectifica as designações \"Gestão do Parque Escolar\" e \"Universidade da Beira Interior\", que só constam dos mapas em imagem no documento original; não há texto onde aplicar.",
+  "instrucoes": [
+    "Alterador 1: rectificação de duas designações nos mapas de alterações orçamentais — não aplicada, mapas só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

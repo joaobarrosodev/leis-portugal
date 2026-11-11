@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:583012:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 311/2004 (n.º 1.º, n.º 2) dá nova redação ao anexo (plano de estudos), mas os quadros do novo anexo só vêm em imagem no documento original; não se aplica sem inventar. O n.º 1.º, n.º 1 (nova denominação das opções e ramos) refere-se ao curso criado pela Portaria n.º 692/2001 e só se reflete no texto através do novo anexo.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º, n.º 1: as opções e ramos passam a denominar-se Contabilidade e Finanças Empresariais/Públicas; não é instrução textual sobre o original (o reflexo está no anexo); não aplicado.",
+    "Alterador 1, n.º 1.º, n.º 2: substituição integral do anexo; quadros só em imagem; não aplicado (nao_aplicavel).",
+    "Alterador 1, n.os 2.º a 4.º: disposições próprias do alterador (seminário e estágio, transição, aplicação); não alteram o original; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

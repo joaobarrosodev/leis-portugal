@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:607568:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º São excluídos da zona de caça municipal de Monforte 5 (processo n.º 2833-AFN) vários prédios rústicos sitos na freguesia de Santo Aleixo, município de Monforte, com a área de 201 ha, ficando a mesma com a área de 538 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2 do artigo único: a planta anexa relativa à zona de caça municipal de Monforte 5 é substituída por outra que só vem em imagem; não aplicado. Alterador 2 (Portaria n.º 1128/2010): faz nova exclusão, concessão e anexação por normas próprias, sem alterar o texto do original.",
+  "instrucoes": [
+    "Alterador 1, artigo único, n.º 1: nova redacção do n.º 1.º - substituída a unidade 7.",
+    "Alterador 1, artigo único, n.º 2: substituição da planta anexa (imagem) - não aplicada.",
+    "Alterador 2, artigos 1.º a 5.º: actos próprios (exclusão de terrenos, concessão, anexação), sem instrução textual dirigida ao original - ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

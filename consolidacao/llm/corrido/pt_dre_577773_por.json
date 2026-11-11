@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:577773:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 198/2002), 1.º: os quadros n.os 1 e 5 do anexo passam a ter a redação do anexo da portaria, que só vem em imagem; não se aplica.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação dos quadros n.os 1 e 5 do anexo, só em imagem — não aplicado.",
+    "Alterador 1, 2.º: aplicação, sem alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

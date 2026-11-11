@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:615991:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Conceição, município de Vila Viçosa, com a área de 3147 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: a planta anexa é substituída pela apensa à Portaria n.º 1005/2006, que só existe em imagem; não aplicada. Alterador 2 (renovação e anexação de terrenos) não altera o texto do original.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 2.º (área de 3147 ha); substituída a unidade 7 mantendo a numeração '2.º'.",
+    "Alterador 1, n.º 2.º: substituição da planta anexa (imagem); não aplicável.",
+    "Alterador 2: renova a transferência de gestão e anexa terrenos, sem alteração textual do original; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

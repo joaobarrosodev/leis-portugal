@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:617153:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 593/2006), n.º 1.º: extingue a zona de caça municipal criada pelo original; é um efeito material, não uma alteração ou revogação textual do texto da portaria.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: extinção da zona de caça municipal das Piçarras; não textual, não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

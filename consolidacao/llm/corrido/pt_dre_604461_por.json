@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:604461:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 218/94): rectifica «Dotação comum» para «Subdiv. 02 - Dotação comum» no cap. 02, div. 01, mas esse conteúdo só existe no quadro em imagem (unidade 3); o texto não existe no texto atual, não aplicado.",
+  "instrucoes": [
+    "Alterador 1: rectificação no cap. 02, div. 01 («Dotação comum» → «Subdiv. 02 - Dotação comum») — quadro só em imagem, não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:616847:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 retifica um valor ('239' para '329') no mapa de transferências, que só existe em imagem no documento original; não há texto atual onde aplicar.",
+  "instrucoes": [
+    "Alterador 1: retificação de '239' para '329' no cap. 03, div. 06, subdiv. 08, C. E. 02.02.07; quadro só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

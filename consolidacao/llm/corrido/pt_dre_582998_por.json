@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:582998:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 340/2009 (artigo único) revoga a concessão da zona de caça turística atribuída pelo original, o que deixa o diploma sem efeito por inteiro; não há alteração textual a aplicar.",
+  "instrucoes": [
+    "Alterador 1, artigo único: revogação da concessão da zona de caça turística da Herdade das Casas Novas atribuída pelo original; equivale a revogar o original por inteiro; nada aplicado ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:582445:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1033-GO/2004 (n.º 1.º) extingue a zona de caça municipal criada pelo original, o que esgota o diploma por inteiro; não altera o texto, e o resto da portaria anexa os terrenos a outra zona de caça associativa (criada pela Portaria n.º 148/2000).",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: extinção da zona de caça municipal das Mestras de Baixo criada pelo original; não é alteração textual, equivale a deixar o original sem efeito por inteiro; nada aplicado.",
+    "Alterador 1, n.os 2.º a 5.º: anexação à zona de caça associativa da Portaria n.º 148/2000; dirige-se a outro diploma; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

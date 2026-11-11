@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:616248:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "(1) Inclui 422513 contos, com compensação em receita, ao abrigo do artigo único do [Decreto-Lei n.º 216/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1984-385404), de 1 de Julho.",
+      "alterador": 1
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "917159 contos ao abrigo do artigo 13.º do [Decreto-Lei n.º 187/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1990-575126), de 7 de Junho, e do artigo 7.º do [Decreto-Lei n.º 199/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1990-574952), de 19 de Junho;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, observação (1) do Ministério das Finanças: 'Inclui 415057 contos' passa a 'Inclui 422513 contos'; substituída a unidade 11.",
+    "Alterador 1, observação (5): '704126 contos' passa a '917159 contos'; substituída a unidade 13."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

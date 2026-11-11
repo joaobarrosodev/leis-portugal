@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:610903:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: a tabela inserta na Portaria n.º 367/89 é substituída pela tabela anexa à Portaria n.º 415-A/90, que só vem em imagem (ver documento original); não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição da tabela anexa por nova tabela que só existe em imagem; não aplicada (nao_aplicavel).",
+    "Alterador 1, 2.º e 3.º: produção de efeitos e manutenção transitória; não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

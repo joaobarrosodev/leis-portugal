@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:576714:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1376/2009), 1.º: o anexo passa a ter a redação do anexo da portaria, cujos quadros (1.º a 3.º semestre) só vêm em imagem no documento original; não se aplica.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição integral do anexo (plano de estudos) por quadros só em imagem — não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º e 3.º: normas próprias (transição, aplicação), não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

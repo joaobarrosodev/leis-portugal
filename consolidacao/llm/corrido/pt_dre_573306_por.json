@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:573306:por",
+  "substituicoes": [
+    {
+      "de": 41,
+      "ate": 43,
+      "texto": "a) Cuja parte aromatizante contenha exclusivamente substâncias aromatizantes e ou preparados aromatizantes definidos, respectivamente, nas alíneas b) e c) do n.º 2;\n\nb) Cuja parte aromatizante, no caso de ser feita referência a um género alimentício ou a uma fonte de aromas, seja isolada por processos físicos adequados, por processos enzimáticos ou microbiológicos ou por processos tradicionais de preparação de géneros alimentícios, exclusivamente ou quase exclusivamente a partir do género alimentício ou da fonte de aromas referidos.\n\n9.º As menções previstas nos n.os 6.º e 6.º-A serão sempre redigidas em português, sem prejuízo da sua reprodução noutras línguas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 38,
+      "texto": "6.º-A - 1 - Os aromatizantes destinados à venda ao consumidor final só podem ser comercializados se as respectivas rotulagens incluírem as seguintes indicações obrigatórias, que devem ser facilmente visíveis, claramente legíveis e indeléveis:\n\na) A menção «Aromatizante», ou uma denominação mais específica, ou uma descrição do aromatizante;\n\nb) A menção «Para géneros alimentícios», ou uma referência mais específica ao género alimentício a que o aromatizante se destina;\n\nc) A data de durabilidade mínima, ou a data limite de consumo, em conformidade com o estabelecido na alínea d) do n.º 1 do artigo 3.º do Decreto-Lei n.º 170/92, de 8 de Agosto, e nos n.os 14.º e 15.º da Portaria n.º 119/93, de 2 de Fevereiro;\n\nd) As condições específicas de conservação e utilização;\n\ne) O modo de utilização, sempre que a respectiva omissão possa impedir ou dificultar o uso apropriado do aromatizante;\n\nf) A quantidade líquida, expressa em unidades de massa ou de volume;\n\ng) O nome, denominação ou firma e o endereço do fabricante, do embalador ou de um vendedor estabelecido num dos Estados membros da Comunidade Económica Europeia;\n\nh) Uma indicação ou marca que permita identificar o lote, em conformidade com a alínea o) do artigo 2.º do Decreto-Lei n.º 170/92, de 8 de Agosto, e no n.º 16.º da Portaria n.º 119/93, de 2 de Fevereiro;\n\ni) Se se tratar de uma mistura de aromatizante ou aromatizantes com outras substâncias, a enumeração, por ordem decrescente de peso na mistura:\n\n- Desse aromatizante ou aromatizantes, nos termos da alínea a);\n\n- Do nome de cada uma das restantes substâncias ou matérias e, se for caso disso, do respectivo número CEE.\n\n2 - O termo «natural», ou qualquer outra expressão com um significado sensivelmente equivalente, apenas pode ser utilizado para os aromatizantes cuja parte activa contenha exclusivamente substâncias aromatizantes naturais e ou preparados aromatizantes, respectivamente definidos na alínea b), primeiro travessão, e na alínea c) do n.º 2.º\n\n3 - Se a designação comercial do aromatizante contiver uma referência a um género alimentício, ou a uma fonte de aromatizantes, o termo «natural», ou qualquer outra expressão equivalente, apenas pode ser utilizado se a parte activa tiver sido isolada por processo físico adequado, por processos enzimáticos, microbiológicos ou tradicionais de preparação de géneros alimentícios, unicamente, ou quase unicamente, a partir do género alimentício ou da fonte aromatizante, referidos na designação comercial mencionada no início deste parágrafo.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 43,
+      "texto": "10.º O comércio dos produtos que não estejam em conformidade com o artigo 6.º-A fica proibido a partir de 1 de Janeiro de 1994.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º: nova redação das alíneas a) e b) do n.º 8.º (corpo '8.º ...' mantém-se) e do n.º 9.º: substituídas as unidades 41 a 43",
+    "2.º: aditado o n.º 6.º-A (inserido depois da unidade 38, fim do n.º 6.º) e o n.º 10.º (inserido depois da unidade 43)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

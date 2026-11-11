@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:575772:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 922/92 (1.º) altera o plano de estudos de acordo com um mapa anexo que só vem em imagem; não aplicado. A Portaria n.º 979/2005 extingue os cursos criados pelas Portarias n.os 922/92 e 531/95 e revoga a 922/92, sem instrução textual dirigida à Portaria n.º 550/90.",
+  "instrucoes": [
+    "Alterador 1, 1.º: alteração do plano de estudos pelo mapa anexo - só em imagem, não aplicada",
+    "Alterador 1, 2.º: efeitos retroativos - não altera o texto",
+    "Alterador 2: extinção de cursos e revogação da Portaria n.º 922/92 - não se dirige textualmente ao original, nada aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:603522:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada, pelo período de seis anos renovável automaticamente por um único e igual período, ao Clube Amadores de Caça e Pesca Desportiva do Crato, com o número de identificação fiscal 506806014 e sede na Rua do Dr. António Prior do Crato, 16, 7430-154 Crato, a zona de caça associativa da Herdade do Ceirão e outras (processo n.º 5178-AFN), englobando vários prédios rústicos, sitos na freguesia de Crato e Mártires, município do Crato, com a área de 311 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 710/2009), artigo único: nova redacção do n.º 1.º (área 311 ha) — substituída a unidade 6, mantendo o número 1.º"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

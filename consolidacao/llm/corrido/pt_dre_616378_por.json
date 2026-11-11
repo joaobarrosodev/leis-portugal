@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:616378:por",
+  "substituicoes": [
+    {
+      "de": 19,
+      "ate": 23,
+      "texto": "1 - O estágio que integra o plano de estudos do curso tem uma duração não inferior a 26 semanas.\n\n2 - O estágio tem como objectivo a aproximação do estudante à realidade da sua futura actividade profissional.\n\n3 - O regulamento do estágio é fixado pelo órgão legal e estatutariamente competente da Escola.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: a mudança de designação do curso (Horticultura para Engenharia Hortícola e Paisagista) não é uma alteração textual do original, não aplicada ao n.º 1.º. Alterador 1, n.º 2.º: o novo plano de estudos (anexo) só existe em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova designação do curso, sem instrução textual sobre o original; não aplicada.",
+    "Alterador 1, n.º 2.º: substitui o plano de estudos do anexo (imagem); não aplicável.",
+    "Alterador 1, n.º 3.º: nova redação do n.º 4.º (Estágio) com três números; substituídas as unidades 19 a 23, mantendo '4.º' e a epígrafe 'Estágio' (iguais)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

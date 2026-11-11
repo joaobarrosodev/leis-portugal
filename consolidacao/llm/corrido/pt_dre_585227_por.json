@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:585227:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 1174/2001, 1.º: o plano de estudos da variante de Português e Inglês passa a ser o do anexo da portaria, mas os quadros só vêm em imagem (ver quadro no documento original); não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui o plano de estudos da variante Português e Inglês do anexo; quadros só em imagem, não aplicado.",
+    "Alterador 1, 2.º a 5.º: normas próprias (semanas lectivas, opções, transição, aplicação), não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

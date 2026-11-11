@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:563247:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1205/2005), n.º 1.º: o quadro n.º 2 do anexo passa a ter nova redação, mas o quadro só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do quadro n.º 2 do anexo (só em imagem) - não aplicado, nao_aplicavel.",
+    "Alterador 1, n.º 2.º: produção de efeitos, não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

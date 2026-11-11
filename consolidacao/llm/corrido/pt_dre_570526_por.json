@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:570526:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 13,
+      "texto": "3.º O disposto nos números anteriores não se aplica quando o montante a pagar por meio de cheque não for superior a 12500$00.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Aditamento do n.º 3.º: inserido depois da unidade 13 (última alínea do n.º 2.º)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:592730:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Declaração de Rectificação n.º 34/2008: retifica a Portaria n.º 310/2008 e a sua republicação (da Portaria n.º 1177/2000); o ponto 5 cita 'Portaria n.º 1117/2000, de 15 de Dezembro', mas a data e a matéria (Classes de bonificação, tabela II) não correspondem ao original, cujo anexo é um plano de estudos; além disso o texto só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, pontos 1 a 4: retificações à Portaria n.º 310/2008 e à republicação da Portaria n.º 1177/2000; não dirigidas ao original, ignoradas.",
+    "Alterador 1, ponto 5: refere a Portaria n.º 1117/2000 por aparente gralha (matéria da Portaria n.º 1177/2000) e só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

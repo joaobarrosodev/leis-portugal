@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:612628:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: as taxas aprovadas pela Portaria n.º 276-A/94 são alteradas pelas do anexo da Portaria n.º 930-A/94, que só vem em imagem (ver documento original); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: alteração do tarifário anexo por novo anexo que só existe em imagem; não aplicada (nao_aplicavel).",
+    "Alterador 1, 2.º: produção de efeitos; não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

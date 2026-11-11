@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:573539:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 80/91 não dá nova redação a nenhum ponto: 1.º retifica a portaria pela anexação da propriedade «Courela Nova» (sem texto a inserir), 2.º retifica a área da concessão para 1417,45 ha sem dizer que unidade nem que redação muda, 3.º reitera a concessão até 31 de Maio de 2002, 4.º substitui a planta anexa, que só existe em imagem. Alterações não textuais; não aplicadas.",
+  "instrucoes": [
+    "1.º: anexação da propriedade «Courela Nova» ao regime cinegético especial - sem redação textual, não aplicada",
+    "2.º: retificação da área para 1417,45 ha - sem nova redação do n.º 1.º, não aplicada",
+    "3.º: concessão da área até 31 de Maio de 2002 - igual ao texto atual, nada a fazer",
+    "4.º: substituição da planta anexa - só em imagem, não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

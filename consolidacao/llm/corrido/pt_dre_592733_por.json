@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:592733:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1069/2003) substitui os quadros n.º 2 do anexo I, 4 do anexo VII, 2 do anexo IX e 4 do anexo XI, que no original e no alterador só existem em imagem (ver quadros no documento original); não há texto a aplicar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação de quadros dos anexos I, VII, IX e XI, só em imagem; não aplicado.",
+    "Alterador 1, 2.º: produção de efeitos; não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

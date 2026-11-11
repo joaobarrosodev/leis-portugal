@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:583202:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites contam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de São Teotónio, município de Odemira, com a área de 6957 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1217/2010 (artigo único, n.º 2) substitui a planta anexa, que só vem em imagem; a unidade 18 (ligação para a planta) não foi alterada.",
+  "instrucoes": [
+    "Alterador 1, artigo único, n.º 1: nova redação do n.º 2.º; substituída a unidade 7, copiada letra a letra (incluindo 'contam').",
+    "Alterador 1, artigo único, n.º 2: substituição da planta anexa; só em imagem; não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

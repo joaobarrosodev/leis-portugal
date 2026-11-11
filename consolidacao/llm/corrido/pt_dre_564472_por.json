@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:564472:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 773/97) muda a denominação do curso de Ciências Sociais para Sociologia e aprova novo plano de estudos, mas não dá nova redação a nenhum ponto da Portaria n.º 1131/90; alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o curso de Ciências Sociais passa a designar-se Sociologia — sem nova redação do texto do original, não aplicado.",
+    "Alterador 1, 2.º a 4.º: plano de estudos, aplicação e transição próprios da portaria alteradora — não dirigidos ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

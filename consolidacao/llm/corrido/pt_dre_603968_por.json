@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:603968:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Santiago do Cacém, com a área de 2908 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 321/2010), artigo 2.º: substituição da planta anexa — só em imagem, não aplicada. Alterador 2 (Portaria n.º 1207/2010), artigo 1.º: exclusão de terrenos (544 ha, área total 2364 ha) e nova planta — não altera textualmente o original (não dá nova redacção ao n.º 2.º) e a planta só vem em imagem; não aplicado. Os artigos 2.º a 6.º do alterador 2 respeitam a outras zonas de caça ou a efeitos próprios.",
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: nova redacção do n.º 2.º (área 2908 ha) — substituída a unidade 7",
+    "Alterador 1, artigo 2.º: substituição da planta — só em imagem, não aplicada",
+    "Alterador 2, artigo 1.º: exclusão de terrenos, área total 2364 ha, nova planta — sem nova redacção textual, não aplicada",
+    "Alterador 2, artigos 2.º a 6.º: zonas de Miróbriga e da Praia e produção de efeitos — não dirigidos ao texto do original, ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

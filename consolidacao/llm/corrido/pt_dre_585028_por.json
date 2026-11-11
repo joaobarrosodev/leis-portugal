@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:585028:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Declaração de Rectificação n.º 58/93: as duas retificações (cap. 08, 'Serviço Regional da Madeira' -> 'Div. 03 - Serviço Regional da Madeira'; p. 179, 'Cap. 01, div. 01' -> 'Cap. 10, div. 01') incidem sobre o mapa, que só vem em imagem; esse texto não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retificação no cap. 08 do mapa; mapa só em imagem, não aplicada.",
+    "Alterador 1: retificação no início da p. 179 do mapa; mapa só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

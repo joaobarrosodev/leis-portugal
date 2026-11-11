@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:566616:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 836/2009), 1.º: o anexo (plano de estudos) passa a ter a redacção do anexo da portaria alteradora, mas os quadros novos só existem em imagem no documento original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo — não aplicada, quadros só em imagem.",
+    "Alterador 1, 2.º e 3.º: transição e aplicação próprias da portaria alteradora — não dirigidas ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

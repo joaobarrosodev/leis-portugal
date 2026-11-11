@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:580639:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 dá nova redação ao quadro n.º 4 do anexo I, mas o quadro só existe em imagem (no original e no alterador): não há texto a aplicar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do quadro n.º 4 do anexo I — quadro só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

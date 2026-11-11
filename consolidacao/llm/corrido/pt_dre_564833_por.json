@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:564833:por",
+  "substituicoes": [
+    {
+      "de": 19,
+      "ate": 25,
+      "texto": "1 - A época especial tem duas chamadas.\n\n2 - Cada estudante pode apresentar-se a ambas as chamadas, prevalecendo a melhor classificação.\n\n3 - A apresentação à 2.ª chamada não carece de outra inscrição.\n\n4 - Apenas podem realizar a prova na época especial:\n\na) Os estudantes que reúnam as condições para se apresentarem à candidatura pelo contingente especial para emigrantes portugueses e seus familiares, conforme definido no n.º 20.º da presente portaria;\n\nb) Os estudantes, portugueses ou estrangeiros, que tenham feito o ensino secundário numa língua curricular não portuguesa, quer no estrangeiro, quer em Portugal;\n\nc) Os estudantes, portugueses ou estrangeiros, que tenham feito o ensino secundário português no estrangeiro.\n\n5 - Não podem apresentar-se à época especial os estudantes que se hajam apresentado à época normal.\n\n6 - Aos estudantes que, em infracção ao disposto nos números anteriores, realizem a prova em mais de uma época serão anuladas todas as provas realizadas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 97,
+      "texto": "4 - A 2.ª chamada da prova na época especial terá lugar no dia 9 de Agosto.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 4.º (Época especial); epígrafe igual, corpo substituído (unidades 19 a 25).",
+    "Alterador 1, 2.º: aditado n.º 4 ao n.º 14.º — inserido depois da unidade 97."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

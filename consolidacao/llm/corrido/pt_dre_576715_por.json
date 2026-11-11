@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:576715:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 251/2020), art. 3.º: a caracterização, estrutura curricular e plano de estudos (anexo) passam a ter a redação do anexo da portaria, cujos quadros só vêm em imagem; não se aplica. Art. 2.º: mudança de denominação do curso, sem instrução textual sobre o texto do original; não se aplica.",
+  "instrucoes": [
+    "Alterador 1, art. 2.º: nova denominação do curso (Obstétrica) sem alteração textual dirigida ao original — não aplicado.",
+    "Alterador 1, art. 3.º: substituição do anexo com estrutura curricular e plano de estudos só em imagem — não aplicado.",
+    "Alterador 1, arts. 1.º, 4.º e 5.º: objeto, transição e efeitos, sem alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

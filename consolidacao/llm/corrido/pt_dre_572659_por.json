@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:572659:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "3.º O subsídio respeitante às áreas regadas por bombagem é de 4050$00/ha.",
+      "alterador": 1
+    },
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "9.º O pagamento será efectuado até 30 de Março de 1991.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Nova redação do n.º 2.º: o corpo é igual e o quadro de máquinas e subsídios só vem em imagem (unidade 9); não aplicado.",
+  "instrucoes": [
+    "1.º, n.º 2.º: frase de abertura igual; quadro novo só em imagem; não aplicável",
+    "1.º, n.º 3.º: nova redação, substituída a unidade 10",
+    "1.º, n.º 9.º: nova redação, substituída a unidade 18",
+    "2.º: retroatividade, não altera o texto; ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

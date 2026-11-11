@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:609800:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 (Portaria n.º 1053/92, repetida), 2.º: alteram as taxas da Portaria n.º 389/89 pelas que constam do anexo (tarifa n.º 5), cujos valores só vêm em imagem e que não indica que unidades do original substitui; não aplicado. O 1.º altera outro diploma (Portaria n.º 35/91).",
+  "instrucoes": [
+    "Alterador 1, 1.º: altera a Portaria n.º 35/91 - não é do original, ignorado.",
+    "Alterador 1, 2.º: alteração das taxas pelas do anexo (quadros em imagem, alvo indefinido) - não aplicada.",
+    "Alterador 2: mesmo texto do alterador 1 (duplicado) - nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

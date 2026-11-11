@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:607125:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 232/94): rectifica a nota (b) das observações do quadro de pessoal, que no texto atual só existe em imagem (unidade 12, ver documento original); o texto a rectificar não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: rectificação da nota (b) do quadro anexo ('enfermeiro-assistente' para 'enfermeiro-professor') - quadro só em imagem, não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:563594:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "4.º Fixar em 9$10 a taxa unitária de uma conversação telefónicas, em 1450$00 a taxa de assinatura mensal de um posto telefónico principal (linha de rede) e em 12000$00 a respectiva taxa de instalação, não se incluindo nestas taxas o equipamento.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação no n.º 4.º, 'a respectiva taxa de instalação' passa a 'a respectiva taxa de instalação, não se incluindo nestas taxas o equipamento' - substituída a unidade 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

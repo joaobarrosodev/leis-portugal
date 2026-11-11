@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:578551:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 35/2005), n.os 1 e 2: retificam as distâncias à meridiana dos vértices C e D no quadro da zona intermédia, que só vem em imagem (unidade 11); não se aplica.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: vértice C, -13830 para -13330, no quadro só em imagem — não aplicado.",
+    "Alterador 1, n.º 2: vértice D, -13330 para -13830, no quadro só em imagem — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

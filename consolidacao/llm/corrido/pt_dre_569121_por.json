@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:569121:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada, por um período de 10 anos, renovável automaticamente por dois períodos iguais, à Associação de Caçadores da Ermida, com o número de pessoa colectiva 505352060, com sede na Praceta do Juncalinho, lote G, rés-do-chão, Amoreira, 2645-209 Alcabideche, a zona de caça associativa de Santa Águeda (processo n.º 3961-DGRF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Vila Nova da Baronia, município do Alvito, com a área de 431 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "2.º do alterador 1: substituição da planta anexa, que só existe em imagem; não aplicada.",
+  "instrucoes": [
+    "1.º: nova redação do n.º 1.º; substituída a unidade 6 mantendo o número 1.º",
+    "2.º: substitui a planta anexa (imagem); não aplicável"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

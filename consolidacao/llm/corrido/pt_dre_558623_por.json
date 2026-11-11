@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:558623:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 815/2006 altera o n.º 6.º e os anexos I, II e III da Portaria n.º 103/2006 (nemátodo da madeira do pinheiro); a ligação à Portaria n.º 103/96 é um erro de citação. O original (Portaria n.º 103/96, conservatória de Gavião) não tem n.º 6.º nem anexos, pelo que nada se aplica.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 6.º e dos anexos I, II e III — dirigida, de facto, à Portaria n.º 103/2006; o texto alvo não existe no original; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

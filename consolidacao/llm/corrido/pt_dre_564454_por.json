@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:564454:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 43-A/2005) rectifica o quadro n.º 3 do anexo (\"Gestão de Dados de Saúde\" para \"Gestão de Dados de Saúde I\"), mas o quadro só existe em imagem no documento original; não há texto onde aplicar.",
+  "instrucoes": [
+    "Alterador 1: rectificação no quadro n.º 3 (unidade curricular) — não aplicada, quadro só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

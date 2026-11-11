@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:560428:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: nova redação do anexo I (plano de estudos), cujos quadros só vêm em imagem no documento original; não aplicada.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição do anexo I por quadros só disponíveis em imagem; não aplicada.",
+    "Alterador 1, 2.º a 4.º: normas próprias (número máximo de alunos, transição, aplicação), não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
