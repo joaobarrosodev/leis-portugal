@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:387283:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 14,
+      "texto": "Chefe do Estado-Maior-General das Forças Armadas, Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea ... 4160$00\n\nOficiais-generais ... 3570$00\n\nOficiais superiores ... 3570$00\n\nOutros oficiais, aspirantes a oficial e cadetes ... 2980$00\n\nSargentos-mor e sargentos-chefes ... 2980$00\n\nOutros sargentos, furriéis e subsargentos ... 2690$00\n\nPrimeiros-despenseiros, praças do grupo A da Armada e praças readmitidas, contratadas e convocadas do Exército e da Força Aérea ... 2690$00\n\nPrimeiros-grumetes, segundos-grumetes alunos e segundos-grumetes da Armada, primeiros-cabos, segundos-cabos e soldados do Exército e da Força Aérea (ver nota a) ... 950$00\n\nOutras praças (ver nota a) ... 600$00",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: a tabela de ajudas de custo da Portaria n.º 407/84 é substituída — unidades 6 a 14 substituídas (a nota a), unidade 15, fica igual).",
+    "Alterador 1, 2.º: repete o texto do n.º 2.º do original, sem instrução de alteração — nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

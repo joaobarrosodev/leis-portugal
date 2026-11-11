@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:332049:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1116/95), n.º 1.º: o quadro de pessoal (mapa anexo) é alterado pelo quadro anexo à Portaria n.º 1116/95, que só vem em imagem; não há alteração textual.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: altera o mapa anexo (quadro de pessoal) por um quadro que só vem em imagem — não aplicado.",
+    "Alterador 1, n.º 2.º: entrada em vigor do alterador — nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:331981:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: substitui o plano de estudos (anexo I), que só vem em imagem no documento original; não é alteração textual das unidades.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos (anexo) - não aplicado, anexo só em imagem.",
+    "Alterador 1, 2.º: norma de aplicação própria, não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

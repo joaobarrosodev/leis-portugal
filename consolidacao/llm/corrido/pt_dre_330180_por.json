@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:330180:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "Chefe de divisão - Letra E, número de lugares - 14.",
+      "alterador": 1
+    },
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22201/00030004.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O novo quadro do pessoal técnico só vem em imagem no alterador; apenas se atualizou a ligação para o documento original, sem transcrever o conteúdo.",
+  "instrucoes": [
+    "Alterador 1: substituição do quadro de pessoal anexo; pessoal dirigente substituído pelo texto novo (unidade 12) e ligação da imagem do pessoal técnico atualizada (unidade 14)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

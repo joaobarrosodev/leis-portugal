@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Considerando a competência atribuída ao Conselho de Ministros pelo artigo 12.º do [Decreto-Lei n.º 105/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1993-682991), de 7 de Abril:",
+    "depois": "Considerando a competência atribuída ao Conselho de Ministros pelo artigo 7.º do [Decreto-Lei n.º 105/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1993-682991), de 7 de Abril:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:336530:por",
+    "alterador": "pt:dre:225413:por"
+  }
+]

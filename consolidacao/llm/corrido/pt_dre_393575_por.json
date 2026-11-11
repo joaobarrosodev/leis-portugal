@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:393575:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: extingue a zona de caça municipal do Cerrado criada pela Portaria n.º 763/2001; é extinção do ato, não alteração nem revogação textual do original, pelo que nada muda no texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: extinção da zona de caça criada pelo original; não textual, nada aplicado.",
+    "Alterador 1, 2.º a 4.º: concessão de nova zona de caça associativa; não se dirigem ao original, ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

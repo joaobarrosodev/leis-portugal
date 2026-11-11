@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:394522:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1982 os projectos da CP - Caminhos de Ferro Portugueses, E. P., a seguir discriminados, cuja execução deverá implicar a realização de uma formação bruta de capital fixo e de uma despesa de investimento superiores, respectivamente, a 2200000 contos e a 2350200 contos.",
+      "alterador": 1
+    },
+    {
+      "de": 46,
+      "ate": 46,
+      "texto": "4 - A despesa de investimento referida no n.º 1 será financiada por uma dotação de capital no montante de 1938 milhões de escudos. Esta e eventualmente outra dotação adicional poderão assumir a forma de empréstimo subordinado ou de quase capital, nos termos que venham a ser definidos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 1 — substituída a unidade 3.",
+    "Alterador 1, n.º 1 (2.ª parte): nova redação do n.º 4 — substituída a unidade 46.",
+    "Alterador 1, n.os 2 a 5: dirigidos a outros despachos normativos — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

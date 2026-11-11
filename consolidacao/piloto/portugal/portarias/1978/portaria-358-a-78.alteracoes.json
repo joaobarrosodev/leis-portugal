@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/15301/00010001.pdf)\n\n2 - No caso de a exploração se efectuar com cobrança automática das portagens dos veículos automóveis ligeiros de passageiros, aos veículos das classes A e B serão aplicadas as taxas correspondentes à classe C.",
+    "depois": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/10/24200/22242224.pdf)\n\n2 - No caso de a exploração se efectuar com cobrança automática das portagens dos veículos automóveis de passageiros, aos veículos da classe B serão aplicadas as taxas correspondentes à classe C.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:292752:por",
+    "alterador": "pt:dre:328043:por"
+  }
+]

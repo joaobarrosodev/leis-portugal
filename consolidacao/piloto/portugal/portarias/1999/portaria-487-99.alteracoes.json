@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "depois da unidade 7",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "a) Nos terrenos de regime cinegético geral, no período de 1 de Janeiro a 27 de Fevereiro de 2000, apenas é permitida a caça ao tordo e ao estorninho-malhado pelo processo de espera.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:374184:por",
+    "alterador": "pt:dre:631776:por"
+  },
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º A Direcção-Geral das Florestas e as direcções regionais de agricultura estabelecerão por edital os locais, os processos e outras condicionantes venatórias nos períodos referidos no quadro anexo à presente portaria.",
+    "depois": "5.º A Direcção-Geral das Florestas e as direcções regionais de agricultura estabelecerão por edital os locais e outras condicionantes venatórias nos períodos referidos no quadro anexo à presente portaria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:374184:por",
+    "alterador": "pt:dre:631776:por"
+  }
+]

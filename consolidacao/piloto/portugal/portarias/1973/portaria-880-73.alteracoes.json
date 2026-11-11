@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 17-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º O n.º 3.º da [Portaria n.º 22016](https://diariodarepublica.pt/dr/detalhe/portaria/22016-1966-473492), de 26 de Maio de 1966, passa a ter a redacção seguinte:\n\n3.º As condições gerais e especiais de preferência para prestação de serviço na reserva naval são as seguintes:\n\na) Condições gerais de preferência:\n\n1) Ser voluntário ou oferecido;\n\n2) Possuir conhecimentos náuticos comprovados por documentação, nomeadamente cartas de patrão de costa ou de patrão de alto mar, obtidas em conformidade com o [Decreto-Lei n.º 37218](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37218-1948-370403), de 17 de Dezembro de 1948.\n\nb) Condições especiais de preferência:\n\n1) Classe de fuzileiros - Possuir melhores condições de aptidão para fuzileiro.\n\n2) Classe de técnicos. - Menor idade;\n\n3) Restantes classes. - Possuir melhores habilitações literárias referentes às especialidades que dão acesso à sua classe.\n\n5.º O n.º 4.º da portaria referida no número anterior passa a ter a seguinte redacção:\n\n4.º Os mancebos destinados a prestar serviço na reserva naval são observados por uma junta de recrutamento e selecção e os que forem seleccionados são alistados provisoriamente na mesma reserva como cadetes da respectiva classe.",
+    "depois": "4.º - (Revogado.)\n\n5.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:410939:por",
+    "alterador": "pt:dre:383003:por"
+  }
+]

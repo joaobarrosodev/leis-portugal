@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:312184:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O artigo 1.º do Decreto-Lei n.º 84/88 extingue o Centro de Neurocirurgia de Lisboa criado pela portaria, mas não altera nem revoga expressamente o texto; não é uma alteração textual.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: extinção do Centro e transferência para o Hospital de Egas Moniz; não textual, nada aplicado.",
+    "Alterador 1, art. 2.º: quadro de pessoal do Hospital de Egas Moniz; não é dirigido ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "É revogado o n.º 2 do [Despacho Normativo n.º 196/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/196-1981-577114), de 5 de Agosto, sem prejuízo dos efeitos anteriormente produzidos.",
+    "depois": "É revogado, para todos os efeitos legais, o n.º 2 do [Despacho Normativo n.º 196/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/196-1981-577114), de 5 de Agosto, desde a data da sua entrada em vigor.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:376789:por",
+    "alterador": "pt:dre:311664:por"
+  }
+]

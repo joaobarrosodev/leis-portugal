@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:405324:por",
+  "substituicoes": [
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "2 - A frequência global do curso de especialização não pode exceder 30 alunos.",
+      "alterador": 1
+    },
+    {
+      "de": 40,
+      "ate": 43,
+      "texto": "O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2 do número único: o novo plano de estudos (anexo) só vem em imagem, não se aplica ao anexo.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 2 do 5.º (30 alunos); n.º 1 mantém-se ('...'). Substituída a unidade 28.",
+    "Alterador 1, n.º 2: plano de estudos passa a ser o do anexo, que só vem em imagem. Não aplicado.",
+    "Alterador 2, 1.º: nova redação do número com a epígrafe Regulamento (9.º), num só parágrafo. Substituídas as unidades 40 a 43; epígrafe mantém-se."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:292932:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: retificação «Deutshe Mark - República Federal da Alemanha - 87$152 0» para «Deutsche Mark - Alemanha - 87$152 0»; o quadro só vem em imagem (ver documento original), não aplicada.",
+  "instrucoes": [
+    "Alterador 1: retificação de uma linha do quadro de câmbios; quadro só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

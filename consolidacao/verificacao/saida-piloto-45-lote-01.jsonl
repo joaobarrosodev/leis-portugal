@@ -1,0 +1,39 @@
+{"id": "pt:dre:355881:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "O Despacho 11457/2001 dá ao n.º 5.º a redacção '5.º - 1 - (texto original) 2 - Excepcionalmente no ano de 2001, a 1.ª fase do período de candidatura termina em 31 de Maio.'; o consolidado coincide.", "texto_esperado": ""}
+{"id": "pt:dre:355881:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:355950:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "A Portaria 654/2003 revoga a Portaria 634/88 'no que se refere aos serviços do registo predial de Coimbra'. O n.º 1.º trata inteiramente de Coimbra, por isso fica '1.º - (Revogado.)'. Os n.os 2.º a 4.º (outros concelhos; o 4.º só em parte) não foram tocados, o que é aceitável.", "texto_esperado": ""}
+{"id": "pt:dre:355950:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:360770:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "O n.º 3.º da Portaria 316/98 revoga o n.º 4.º (com efeitos a 1 de Abril de 1998); o consolidado fica '4.º - (Revogado.)'. Os n.os 1.º e 2.º do alterador só actualizam montantes e não alteram texto do original.", "texto_esperado": ""}
+{"id": "pt:dre:360770:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:362084:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "O n.º 6.º passa a ter '1 - ... não pode exceder 100. 2 - ... não pode exceder 400 alunos.'; o consolidado coincide letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:362084:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:364353:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Quadro n.º 1: anexo substituído pelo da Portaria 321/2005 (ligação 26232625.pdf).", "texto_esperado": ""}
+{"id": "pt:dre:364353:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Quadro n.º 2: anexo substituído pelo da Portaria 321/2005 (ligação 26232625.pdf).", "texto_esperado": ""}
+{"id": "pt:dre:364353:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Quadro n.º 3: anexo substituído pelo da Portaria 321/2005 (ligação 26232625.pdf).", "texto_esperado": ""}
+{"id": "pt:dre:364353:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Quadro n.º 4: anexo substituído pelo da Portaria 321/2005 (ligação 26232625.pdf).", "texto_esperado": ""}
+{"id": "pt:dre:364353:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações (cabeçalho do anexo igual ao do anexo do alterador)"}
+{"id": "pt:dre:364354:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "O anexo do alterador tem 'Curso de Professores do Ensino Básico - 2.º Ciclo, variante de Português-Francês' numa só linha; o consolidado coincide.", "texto_esperado": ""}
+{"id": "pt:dre:364354:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Quadro n.º 1 substituído pelo do alterador (25622564.pdf).", "texto_esperado": ""}
+{"id": "pt:dre:364354:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Quadro n.º 2 substituído pelo do alterador (25622564.pdf).", "texto_esperado": ""}
+{"id": "pt:dre:364354:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Quadro n.º 3 substituído pelo do alterador (25622564.pdf).", "texto_esperado": ""}
+{"id": "pt:dre:364354:por", "artigo": "Trecho 5", "veredicto": "certo", "motivo": "Quadro n.º 4 substituído pelo do alterador (25622564.pdf).", "texto_esperado": ""}
+{"id": "pt:dre:364354:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:370263:por", "artigo": "Trecho 1", "veredicto": "dúvida", "motivo": "O artigo 3.º da Portaria 163/2010 'extingue' a Reserva ARC-2 do n.º 1; não é uma revogação textual. O consolidado deixou o parágrafo vazio, e esta forma não é nem o original nem '(Revogada.)'. Se a extinção se aplicar ao texto, esperava-se '(Revogada.)' (ou manter o original).", "texto_esperado": "(Revogada.)  [ou o parágrafo original, se a extinção não se aplicar ao texto]"}
+{"id": "pt:dre:370263:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:371778:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "O n.º 1.º da Portaria 367/89 substitui a tabela da Portaria 389/88 pela tabela anexa; a ligação passa a 20422043.pdf, como no alterador.", "texto_esperado": ""}
+{"id": "pt:dre:371778:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:371828:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "O n.º 2.º passa a ter a redacção da Portaria 474/2004, com 'e que dela faz parte integrante' e 'com uma área de 1497 ha'; o consolidado coincide.", "texto_esperado": ""}
+{"id": "pt:dre:371828:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "O n.º 2 do alterador diz que a nova planta substitui a apensa; a ligação passa a 28822882.pdf.", "texto_esperado": ""}
+{"id": "pt:dre:371828:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:372230:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "A rectificação troca as percentagens por 40%, 10%, 25% e 25%, e a alínea d) fica 'd) 25%, aos demais [...]' (com vírgula, como na rectificação); o consolidado coincide.", "texto_esperado": ""}
+{"id": "pt:dre:372230:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:372386:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "O n.º 7.º da Portaria 115-A/2004 revoga o n.º 2 do regulamento interno; o consolidado fica '2.º - (Revogado.)'. O Decreto-Lei 50-A/2007 e o Decreto-Lei 21/2010 não visam o original. O n.º 6.º do alterador só refere 'alterações decorrentes' sem texto, por isso não há mais instruções.", "texto_esperado": ""}
+{"id": "pt:dre:372386:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:372655:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Aditamento da alínea d) ao n.º 1.º, com o texto 'Matemática Aplicada em Ciências Estatísticas.'", "texto_esperado": ""}
+{"id": "pt:dre:372655:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Aditamento do anexo IV; o texto é igual ao do anexo do alterador.", "texto_esperado": ""}
+{"id": "pt:dre:372655:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:372982:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "A rectificação troca 'Educação Especial - Problemáticas de Risco' por 'Supervisão Pedagógica e Formação de Formadores' no n.º 1.º; o consolidado coincide.", "texto_esperado": ""}
+{"id": "pt:dre:372982:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:373381:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 10 com 50% em vez de 10%, conforme o n.º 1 do Despacho Normativo n.º 165/90; resto igual.", "texto_esperado": ""}
+{"id": "pt:dre:373381:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:374176:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "O 3.º da Portaria 537/98 revoga os n.os 4.º a 7.º; o consolidado mantém o número e põe '(Revogado.)' em cada um.", "texto_esperado": ""}
+{"id": "pt:dre:374176:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}

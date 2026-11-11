@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 12-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Direito aduaneiro nacional ... 100\n\nb) Direito aduaneiro comunitário ... 45\n\nc) Política pautal. Nomenclatura ... 130\n\nd) Valor aduaneiro ... 15\n\ne) Contabilidade ... 15\n\nf) Fiscalização aduaneira ... 15\n\ng) Finanças públicas e fiscalidade ... 15\n\nh) Contencioso fiscal e técnico ... 15\n\ni) Informática ... 15\n\nj) Regime jurídico da função pública ... 10",
+    "depois": "a) Direito aduaneiro nacional ... 72\n\nb) Direito aduaneiro comunitário ... 42\n\nc) Política pautal. Nomenclatura ... 36\n\nd) Valor aduaneiro ... 2\n\ne) Contabilidade ... 8\n\nf) Fiscalização aduaneira ... 11\n\ng) Finanças públicas e fiscalidade ... 11\n\nh) Contencioso fiscal e técnico ... 7\n\ni) Informática ... 11\n\nj) Regime jurídico da função pública ... 14",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:385022:por",
+    "alterador": "pt:dre:326128:por"
+  },
+  {
+    "artigo": "unidades 43-45",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "18 - O exame de aptidão consistirá numa prova escrita sobre as matérias tratadas no estágio, que deverá realizar-se no prazo de 10 dias a contar da data do termo deste.\n\n19 - A prova escrita referida no número anterior será eliminatória para os concorrentes que obtiverem menos de 9,5 valores.\n\n20 - À prova escrita será dada a média dos valores que, de 0 a 20, lhe forem atribuídos por cada membro do júri, sem qualquer arredondamento.",
+    "depois": "18 - O exame de aptidão consistirá numa prova escrita e numa prova oral sobre as matérias tratadas no estágio, que deverão iniciar-se no prazo de 10 dias a contar da data do termo deste.\n\n19 - À prova escrita e à prova oral referidas no número anterior será dada a média aritmética dos valores que, de 0 a 20, lhe forem atribuídos por cada membro do júri, sem qualquer arredondamento.\n\n20 - Ao exame de aptidão será dada a média aritmética dos valores da prova escrita e da prova oral sem qualquer arredondamento, ficando excluídos os concorrentes que obtiverem menos de 9,5 valores.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:385022:por",
+    "alterador": "pt:dre:326128:por"
+  }
+]

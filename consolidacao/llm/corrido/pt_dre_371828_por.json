@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:371828:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Pavia, município de Mora, com uma área de 1497 ha.",
+      "alterador": 1
+    },
+    {
+      "de": 19,
+      "ate": 19,
+      "texto": "[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/05/104b00/28822882.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2.º (unidade 7), área de 1497 ha.",
+    "Alterador 1, 2.º: a planta anexa substitui a do original; troca-se a ligação da unidade 19 pela nova (planta só em imagem)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "10 - Se, para respeitar o limite da quantidade do contingente posto a concurso, resultar a atribuição a um concorrente de uma quantidade inferior em mais de 10% à constante da sua proposta, este poderá, no prazo de 24 horas, requerer a retirada da mesma, sendo a respectiva caução libertada.",
+    "depois": "10 - Se, para respeitar o limite da quantidade do contingente posto a concurso, resultar a atribuição a um concorrente de uma quantidade inferior em mais de 50% à constante da sua proposta, este poderá, no prazo de 24 horas, requerer a retirada da mesma, sendo a respectiva caução libertada.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:373381:por",
+    "alterador": "pt:dre:565254:por"
+  }
+]

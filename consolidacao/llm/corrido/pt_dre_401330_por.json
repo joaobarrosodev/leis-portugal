@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:401330:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1079/89 dá nova redação ao anexo I, mas o novo anexo só vem em imagem (ver documento original); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: anexo I passa a ter a redação do anexo do alterador — só em imagem, não aplicado. N.º 2.º (entrada em funcionamento e transição) é norma autónoma."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

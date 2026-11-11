@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:380965:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 (Portaria n.º 771/86, repetida): o n.º 1.º substitui o quadro III do anexo I, mas o quadro novo e o anexo original só existem em imagem; não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do quadro III do anexo I (só em imagem) — não aplicado.",
+    "Alterador 1, n.º 2.º: regra de aplicação no tempo, não altera o texto.",
+    "Alterador 2: é o mesmo diploma repetido; nada a acrescentar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

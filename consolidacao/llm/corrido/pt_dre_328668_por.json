@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:328668:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O Despacho Normativo n.º 57/79 (n.º 13) revoga por inteiro o Despacho Normativo n.º 274/78, que substitui por um novo texto; não há alteração a aplicar ao original.",
+  "instrucoes": [
+    "Alterador 1, n.º 13: revogação total do original; nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

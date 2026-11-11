@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 12-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Opções\n\nO curso desdobra-se nas opções:\n\na) Teologia Cristã-Ecuménica (Católica, Protestante, Ortodoxa);\n\nb) Judaísmo;\n\nc) Islamismo;\n\nd) Ásia;\n\ne) África.",
+    "depois": "Ramos\n\nO curso desdobra-se nos seguintes ramos:\n\na) Cristianismo;\n\nb) Judaísmo;\n\nc) Islamismo;\n\nd) Religiões Orientais;\n\ne) Religiões Africanas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:406366:por",
+    "alterador": "pt:dre:198335:por"
+  },
+  {
+    "artigo": "depois da unidade 25",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "4.º-A\n\nUnidades curriculares de opção\n\nO elenco das unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n4.º-B\n\nDuração do ano e semestre lectivos\n\n1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:406366:por",
+    "alterador": "pt:dre:198335:por"
+  }
+]

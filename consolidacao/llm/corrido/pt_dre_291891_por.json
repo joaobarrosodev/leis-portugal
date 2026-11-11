@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:291891:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 15,
+      "texto": "1 - O número máximo de novos alunos a admitir anualmente não pode exceder 40.\n\n2 - A frequência global do curso não pode exceder 160 alunos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: o anexo passa a ter nova redação, mas os quadros do novo anexo só vêm em imagem (ver documento original); não aplicado. Alterador 1, n.º 1.º: mudança de denominação do curso para «Comunicação» não é alteração textual do original; não aplicada.",
+  "instrucoes": [
+    "Alterador 1, 1.º: altera a denominação do curso; não é alteração textual do original, não aplicado.",
+    "Alterador 1, 2.º: nova redação do anexo; quadros só em imagem, não aplicado.",
+    "Alterador 1, 3.º: nova redação do n.º 2.º (n.os 1 e 2); substituídas as unidades 14 a 15.",
+    "Alterador 1, 4.º a 7.º: disposições próprias, não dirigidas ao texto do original; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

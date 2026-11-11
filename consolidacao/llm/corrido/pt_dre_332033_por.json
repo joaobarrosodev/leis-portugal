@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:332033:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 1360/2009), artigos 1.º e 2.º, n.º 1: alteram e aditam números à Portaria n.º 541/2004 (taxa de segurança), não ao original — ignorados.",
+    "Alterador 1, artigo 2.º, n.º 2: renumera os n.os 5 e 6 da 'Portaria n.º 541/2001, de 21 de Maio'; pela data e pelo contexto é a Portaria n.º 541/2004 (o original é de 30 de Maio e não tem n.os 5 e 6) — ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

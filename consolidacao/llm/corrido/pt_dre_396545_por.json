@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:396545:por",
+  "substituicoes": [
+    {
+      "de": 62,
+      "ate": 62,
+      "texto": "19 - Artigo 229.º, alínea m), proposta de aditamento de uma alínea m) ao artigo 229.º, de acordo com projecto da FRS, artigo 126.º, n.º 6, a p. 89:",
+      "alterador": 1
+    },
+    {
+      "de": 67,
+      "ate": 67,
+      "texto": "O artigo 230.º, como é reconhecido pelos comentadores, integra, na sua maior parte, proibições e limites já constantes de outros passos da Constituição. Acham-se nesta situação as matérias da sua alínea b), quanto ao trânsito de pessoas (cf. Constituição, artigos 17.º, 18.º e 44.º, n.º 1), e as da sua alínea c) [cf. Constituição, artigos 13.º, 17.º, 18.º, 51.º e 167.º, alínea c)]. Constituíram inovação restritiva a matéria da alínea a), quanto aos direitos não garantidos constitucionalmente, seja em termos materiais, seja em termos orgânico-formais, e as restrições quanto ao trânsito de bens.",
+      "alterador": 1
+    },
+    {
+      "de": 85,
+      "ate": 85,
+      "texto": "A assembleia entende adoptar o projecto da AD, por conter melhorias formais e uma explicitação útil, consistente na referência expressa às eleições regionais. Entende-se, ainda, que o actual n.º 3 deve ser eliminado, por estabelecer limitações que, por muito exactas que sejam, só devem ter lugar no Estatuto da Região.",
+      "alterador": 1
+    },
+    {
+      "de": 147,
+      "ate": 147,
+      "texto": "A Assembleia é favorável ao novo n.º 4 do artigo 170.º do projecto da AD por o mesmo explicitar um entendimento que parece mais adequado.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Rectificação no ponto 19: «19 - Proposta de aditamento de uma alínea m)» passa a «19 - Artigo 229.º, alínea m), proposta de aditamento de uma alínea m)» — unidade 62.",
+    "Rectificação no ponto 21: «inovação restrita» passa a «inovação restritiva» — unidade 67.",
+    "Rectificação no ponto 24: «expressa às relações regionais» passa a «expressa às eleições regionais» — unidade 85.",
+    "Rectificação no ponto 36: «n.º 4 do artigo 17.º do projecto» passa a «n.º 4 do artigo 170.º do projecto» — unidade 147."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Os preços de aquisição do milho da produção a praticar pela Empresa Pública de Abastecimento de Cereais - EPAC na campanha de 1983 são fixados em 19$50/kg para os milhos brancos e 20$00/kg para os milhos amarelos e aplicam-se ao cereal que se apresente são, isento de cheiros estranhos e de depredadores vivos, com coloração própria e mais as seguintes características para a qualidade tipo:",
+    "depois": "1 - Os preços de aquisição do milho da produção nacional a praticar pela Empresa Pública de Abastecimento de Cereais - EPAC na campanha de 1983 são fixados em 22$50 kg para os milhos brancos e 23$00/kg para os milhos amarelos, e aplicam-se ao cereal que se apresente são, isentos de cheiros estranhos e de predadores vivos, com coloração própria e mais as seguintes características para a qualidade tipo:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:310597:por",
+    "alterador": "pt:dre:441482:por"
+  },
+  {
+    "artigo": "unidades 20-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2) Outras - 1%.",
+    "depois": "2) Outras 1%.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:310597:por",
+    "alterador": "pt:dre:441482:por"
+  },
+  {
+    "artigo": "unidades 44-44",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "10 - A Empresa Pública de Abastecimento de Cereais - EPAC adquirirá ao preço de 17$50/kg o sorgo de produção nacional da campanha de 1983 que se encontre são, isento de cheiros estranhos e de depredadores vivos, com coloração própria e mais as seguintes características:",
+    "depois": "10 - A Empresa Pública de Abastecimento de Cereais - EPAC adquirirá ao preço de 21$70/kg o sorgo da produção nacional da campanha de 1983 que se encontre são, isento de cheiros estranhos e de predadores vivos, com coloração própria e mais as seguintes características:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:310597:por",
+    "alterador": "pt:dre:441482:por"
+  },
+  {
+    "artigo": "unidades 45-45",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Humidade - máximo 14%;",
+    "depois": "Humidade - máximo 14%",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:310597:por",
+    "alterador": "pt:dre:441482:por"
+  }
+]

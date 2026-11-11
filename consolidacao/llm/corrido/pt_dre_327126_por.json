@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:327126:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 7,
+      "texto": "1.º São criados 3 prémios para distinguir trabalhos de investigação no domínio do ambiente.\n\n2.º Os prémios referidos no número anterior, a atribuir pela Secretaria de Estado do Ambiente e dos Recursos Naturais, através da Direcção-Geral da Qualidade do Ambiente, terão o valor de 250000$00, 150000$00 e 100000$00, respectivamente.",
+      "alterador": 1
+    },
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "5.º A comissão mencionada no n.º 3.º reunirá anualmente, de 15 de Abril a 15 de Maio, para apreciar os trabalhos dos candidatos, sob convocação do respectivo presidente.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação dos n.os 1.º, 2.º e 5.º (unidades 6, 7 e 10); 3.º, 4.º e 6.º com '...' ficam como estão."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

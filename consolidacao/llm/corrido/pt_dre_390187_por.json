@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:390187:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo 45.º, n.º 1, alínea h): revoga a Portaria n.º 96/81 'em tudo o que neles for incompatível' — revogação condicional, não aplicada ao texto",
+    "Restantes normas do Decreto-Lei n.º 361/89 não se dirigem ao texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

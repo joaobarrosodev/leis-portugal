@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:330179:por",
+  "substituicoes": [
+    {
+      "de": 58,
+      "ate": 58,
+      "texto": "c) Os segundos-sargentos que constem da lista a promover a primeiro-sargento, mas que não satisfaçam a condição especial referente a habilitações literárias, só serão promovidos, dentro do prazo de validade da lista, quando fizerem prova na Direcção do Serviço de Pessoal de possuírem a habilitação literária em falta. A data de promoção deverá reportar-se ao dia imediato àquele em que o sargento completa a condição de promoção em falta.",
+      "alterador": 1
+    },
+    {
+      "de": 68,
+      "ate": 68,
+      "texto": "11 - A promoção ao posto de sargento-ajudante é feita de acordo com a escala reformulada de primeiros-sargentos, conforme se refere no n.º 10 da presente portaria e no artigo 21.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro, e Portarias n.os [388/77](https://diariodarepublica.pt/dr/detalhe/portaria/388-1977-250040) e [389/77](https://diariodarepublica.pt/dr/detalhe/portaria/389-1977-250037), ambas de 27 de Junho.",
+      "alterador": 1
+    },
+    {
+      "de": 103,
+      "ate": 103,
+      "texto": "15 - Disposições finais. - Para proceder à apreciação dos sargentos os conselhos das armas e dos serviços observam regras idênticas às que forem estabelecidas para apreciação de oficiais e que constam do n.º 12 da [Portaria n.º 576/77](https://diariodarepublica.pt/dr/detalhe/portaria/576-1977-286086), de 15 de Setembro.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação da alínea c) do n.º 9 (unidade 58).",
+    "Alterador 1, n.º 2: nova redação do corpo do n.º 11 (unidade 68); alíneas a) a c) com '...' ficam.",
+    "Alterador 1, n.º 3: nova redação do n.º 15 (unidade 103)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

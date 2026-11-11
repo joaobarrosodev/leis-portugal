@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:386217:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "b) Tenham um capital social mínimo de 5000 contos, tratando-se de sociedades comerciais, ou dois anos de exercício efectivo da actividade, nos restantes casos;",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "d) Documentos curriculares do responsável e do pessoal técnico, demonstrativos da experiência e capacidade exigíveis para a realização dos trabalhos a executar e, tratando-se de entidades sem fins lucrativos, documentos que comprovem a realização de inquéritos ou estudos de opinião nos dois anos anteriores ao pedido;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação da alínea b) do n.º 2.º — unidade 8 substituída.",
+    "Alterador 1, 2.º: nova redação da alínea d) do n.º 3.º — unidade 15 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

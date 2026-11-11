@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 14-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/09700/11271128.pdf)",
+    "depois": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19200/21172117.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:324347:por",
+    "alterador": "pt:dre:219104:por"
+  },
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/09700/11271128.pdf)",
+    "depois": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19200/21172117.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:324347:por",
+    "alterador": "pt:dre:219104:por"
+  }
+]

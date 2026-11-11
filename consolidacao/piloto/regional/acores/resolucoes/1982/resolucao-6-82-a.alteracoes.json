@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 62-62",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "19 - Proposta de aditamento de uma alínea m) ao artigo 229.º, de acordo com projecto da FRS, artigo 126.º, n.º 6, a p. 89:",
+    "depois": "19 - Artigo 229.º, alínea m), proposta de aditamento de uma alínea m) ao artigo 229.º, de acordo com projecto da FRS, artigo 126.º, n.º 6, a p. 89:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:396545:por",
+    "alterador": "pt:dre:375419:por"
+  },
+  {
+    "artigo": "unidades 67-67",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O artigo 230.º, como é reconhecido pelos comentadores, integra, na sua maior parte, proibições e limites já constantes de outros passos da Constituição. Acham-se nesta situação as matérias da sua alínea b), quanto ao trânsito de pessoas (cf. Constituição, artigos 17.º, 18.º e 44.º, n.º 1), e as da sua alínea c) [cf. Constituição, artigos 13.º, 17.º, 18.º, 51.º e 167.º, alínea c)]. Constituíram inovação restrita a matéria da alínea a), quanto aos direitos não garantidos constitucionalmente, seja em termos materiais, seja em termos orgânico-formais, e as restrições quanto ao trânsito de bens.",
+    "depois": "O artigo 230.º, como é reconhecido pelos comentadores, integra, na sua maior parte, proibições e limites já constantes de outros passos da Constituição. Acham-se nesta situação as matérias da sua alínea b), quanto ao trânsito de pessoas (cf. Constituição, artigos 17.º, 18.º e 44.º, n.º 1), e as da sua alínea c) [cf. Constituição, artigos 13.º, 17.º, 18.º, 51.º e 167.º, alínea c)]. Constituíram inovação restritiva a matéria da alínea a), quanto aos direitos não garantidos constitucionalmente, seja em termos materiais, seja em termos orgânico-formais, e as restrições quanto ao trânsito de bens.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:396545:por",
+    "alterador": "pt:dre:375419:por"
+  },
+  {
+    "artigo": "unidades 85-85",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A assembleia entende adoptar o projecto da AD, por conter melhorias formais e uma explicitação útil, consistente na referência expressa às relações regionais. Entende-se, ainda, que o actual n.º 3 deve ser eliminado, por estabelecer limitações que, por muito exactas que sejam, só devem ter lugar no Estatuto da Região.",
+    "depois": "A assembleia entende adoptar o projecto da AD, por conter melhorias formais e uma explicitação útil, consistente na referência expressa às eleições regionais. Entende-se, ainda, que o actual n.º 3 deve ser eliminado, por estabelecer limitações que, por muito exactas que sejam, só devem ter lugar no Estatuto da Região.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:396545:por",
+    "alterador": "pt:dre:375419:por"
+  },
+  {
+    "artigo": "unidades 147-147",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A Assembleia é favorável ao novo n.º 4 do artigo 17.º do projecto da AD por o mesmo explicitar um entendimento que parece mais adequado.",
+    "depois": "A Assembleia é favorável ao novo n.º 4 do artigo 170.º do projecto da AD por o mesmo explicitar um entendimento que parece mais adequado.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:396545:por",
+    "alterador": "pt:dre:375419:por"
+  }
+]

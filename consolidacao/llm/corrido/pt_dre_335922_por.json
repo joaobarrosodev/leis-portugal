@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:335922:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 477-A/75), número único: substitui o mapa I anexo; os títulos são iguais aos atuais e os quadros novos só vêm em imagem, pelo que não há texto a aplicar.",
+  "instrucoes": [
+    "Alterador 1, número único: nova redação do mapa I — títulos idênticos ao texto atual; quadros A) e B) só em imagem — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

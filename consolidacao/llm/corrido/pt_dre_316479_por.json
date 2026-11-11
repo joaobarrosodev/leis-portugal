@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:316479:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 2 do 1.º da Portaria n.º 1213/2005 dá nova redação ao anexo I, cujos quadros n.os 1 a 5 só vêm em imagem ('ver quadro no documento original'); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º n.º 1: desdobramento do 2.º ciclo em ramos; não é texto do original.",
+    "Alterador 1, 1.º n.º 2: nova redação do anexo I, quadros só em imagem; não aplicado.",
+    "Alterador 1, 2.º a 4.º: normas próprias do alterador; não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

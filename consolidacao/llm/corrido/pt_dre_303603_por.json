@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:303603:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: as rectificações (eliminar a classificação orgânica 03.01 nas transferências correntes da Universidade do Minho; Div. 15 para Div. -) incidem sobre os mapas de alterações orçamentais, que só vêm em imagem (ver documento original); não aplicadas.",
+  "instrucoes": [
+    "Alterador 1: duas rectificações nos mapas orçamentais, só em imagem; não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

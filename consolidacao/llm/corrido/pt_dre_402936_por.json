@@ -1,0 +1,69 @@
+{
+  "id": "pt:dre:402936:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Preço dos combustíveis líquidos. - São fixados, para vigorarem no continente a partir das 0 horas do dia 16 de Outubro de 1986, os seguintes preços:",
+      "alterador": 1
+    },
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "27$00 por quilograma;",
+      "alterador": 1
+    },
+    {
+      "de": 22,
+      "ate": 23,
+      "texto": "22$00 por quilograma, fornecido a granel nas instalações das companhias distribuidoras em Lisboa, Matosinhos e Sines;\n\nc) Para a Electricidade de Portugal (EDP), E. P., os preços dos produtos anteriores são, respectivamente, de 27$00 e 20$00 por quilograma, fornecidos também a granel nas instalações das companhias distribuidoras em Lisboa, Matosinhos e Sines.",
+      "alterador": 1
+    },
+    {
+      "de": 24,
+      "ate": 24,
+      "texto": "2.º Preços dos gases de petróleo liquefeitos. - São fixados, para vigorarem no continente a partir das 0 horas do dia 16 de Outubro de 1986, os seguintes preços:",
+      "alterador": 1
+    },
+    {
+      "de": 27,
+      "ate": 28,
+      "texto": "Butano - 60$50 por quilograma;\n\nPropano - 60$00 por quilograma;",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 31,
+      "texto": "Butano - 63$00 por quilograma;\n\nPropano - 63$00 por quilograma;",
+      "alterador": 1
+    },
+    {
+      "de": 33,
+      "ate": 33,
+      "texto": "Vendido a granel ou em garrafas - 63$00 por quilograma;",
+      "alterador": 1
+    },
+    {
+      "de": 35,
+      "ate": 36,
+      "texto": "Butano - 39$00 por quilograma;\n\nPropano - 39$00 por quilograma;",
+      "alterador": 1
+    },
+    {
+      "de": 38,
+      "ate": 38,
+      "texto": "3.º Preço do gás de cidade. - O preço máximo de venda ao público do gás de cidade é fixado em 23$00/m3, só podendo o novo preço ser aplicado a gás consumido após a primeira leitura mensal do contador - na data habitual ou contratual - realizada posteriormente à data da publicação da presente portaria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º quanto ao fuelóleo; substituídos o proémio (unidade 6, nova data, copiado letra a letra com 'Preço'), e os preços das unidades 20, 22 e 23; as gasolinas, petróleos e gasóleo ficam ('...').",
+    "Alterador 1, 2.º: nova redação do n.º 2.º; trocadas a data (unidade 24) e os preços (unidades 27-28, 30-31, 33, 35-36); as restantes unidades são iguais.",
+    "Alterador 1, 2.º: nova redação do n.º 3.º; preço do gás de cidade passa a 23$00/m3 (unidade 38); o segundo parágrafo fica igual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

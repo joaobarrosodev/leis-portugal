@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:323953:por",
+  "substituicoes": [
+    {
+      "de": 40,
+      "ate": 43,
+      "texto": "O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.",
+      "alterador": 2
+    },
+    {
+      "de": 49,
+      "ate": 51,
+      "texto": "Curso de especialização em Museologia\n\nGrau de mestre\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/189b00/58875888.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O conteúdo do quadro do novo anexo (Portaria 955/2005) só vem em imagem (PDF); substituíram-se os títulos e a referência ao quadro. A lista de portarias abrangidas pela Portaria 269/2006 só vem em imagem; assumi que inclui esta, por vir indicada como alteradora.",
+  "instrucoes": [
+    "1.º da Portaria 955/2005: novo anexo; substituí as unidades 49 a 51 (curso, grau, quadro); 48 fica igual.",
+    "2.º a 4.º da Portaria 955/2005 (opções, transição, aplicação) são normas próprias, sem efeito no texto.",
+    "1.º da Portaria 269/2006: nova redação do número com a epígrafe «Regulamento» (9.º); os n.os 1 a 4 (unidades 40 a 43) passam a um só parágrafo; 38 e 39 ficam iguais.",
+    "2.º e 3.º da Portaria 269/2006 (efeitos, vigência) sem efeito no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

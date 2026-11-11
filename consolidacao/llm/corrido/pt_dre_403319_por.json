@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:403319:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 228/91 rectifica o mapa de alterações orçamentais, mas o «onde se lê» e o «deve ler-se» só vêm em imagem (ver documento original); não aplicado.",
+  "instrucoes": [
+    "Alterador 1: rectificação do mapa orçamental, só em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

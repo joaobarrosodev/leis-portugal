@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 39-40",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - Número total de unidades de crédito necessário à concessão do grau:\n\n154 unidades de crédito.",
+    "depois": "3 - Número total mínimo de unidades de crédito necessário à concessão do grau:\n\n155.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:377939:por",
+    "alterador": "pt:dre:549412:por"
+  },
+  {
+    "artigo": "unidades 44-46",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Matemática e Informática ... 27\n\nc) Química ... 16\n\nd) Óptica ... 32",
+    "depois": "b) Matemática e Informática ... 31\n\nc) Química ... 12\n\nd) Óptica ... 20",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:377939:por",
+    "alterador": "pt:dre:549412:por"
+  },
+  {
+    "artigo": "unidades 49-50",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Física ... 15\n\nb) Óptica ... 15",
+    "depois": "a) Física ... 28\n\nb) Óptica ... 8",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:377939:por",
+    "alterador": "pt:dre:549412:por"
+  }
+]

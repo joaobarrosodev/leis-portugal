@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:303083:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Tuizelo e Santalha, município de Vinhais, com a área de 1596,7000 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 1.º; substituída a unidade 6.",
+    "Alterador 1, 1.º: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 1, 2.º e 3.º: manutenção de direitos e entrada em vigor; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

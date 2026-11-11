@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:291586:por",
+  "substituicoes": [
+    {
+      "de": 2,
+      "ate": 2,
+      "texto": "De harmonia com o disposto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 46/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1984-660512), de 4 de Fevereiro, se publicam as seguintes transferências de verbas no Orçamento do Estado para 1994, autorizadas, nos termos dos n.os 2 e 3 do artigo 5.º do mesmo diploma, conjugado com o artigo 13.º do [Decreto-Lei n.º 77/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1994-275399), de 9 de Março, cujos despachos de autorização constam dos respectivos processos:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação do parágrafo introdutório (o 'onde se lê' cita 'por despacho' e o texto tem 'por despachos', mas o resto é igual e o alvo é inequívoco) -> substituída a unidade 2 pelo texto retificado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

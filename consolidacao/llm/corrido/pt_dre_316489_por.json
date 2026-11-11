@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:316489:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 272/91 rectifica valores e designações do mapa da receita (ponto 1.2), que só existe em imagem no documento original (unidade 6); o texto a rectificar não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: três rectificações no mapa da receita (Cap. 05, Cap. 09, Cap. 15) - não aplicado, o quadro só vem em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:366624:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui a estrutura do quadro paralelo aprovada por despacho conjunto (ao abrigo do n.º 2.º, n.º 1, da portaria), não o texto da portaria: nada a alterar.",
+    "Alterador 1, 2.º e 3.º: transição e produção de efeitos, sem texto a alterar no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

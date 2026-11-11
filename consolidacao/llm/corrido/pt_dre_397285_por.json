@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:397285:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 20,
+      "texto": "7 - É atribuída à Companhia Carris de Ferro de Lisboa, S. A. R. L., uma dotação de 300 milhões de escudos para financiamento parcial da despesa de investimento referida no n.º 1.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 3: aditado o n.º 7 — inserido depois da unidade 20 (n.º 6).",
+    "Alterador 1, n.os 1, 2, 4 e 5: dirigidos a outros despachos normativos — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

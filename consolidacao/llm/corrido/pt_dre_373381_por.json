@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:373381:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "10 - Se, para respeitar o limite da quantidade do contingente posto a concurso, resultar a atribuição a um concorrente de uma quantidade inferior em mais de 50% à constante da sua proposta, este poderá, no prazo de 24 horas, requerer a retirada da mesma, sendo a respectiva caução libertada.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redacção do n.º 10 (10% passa a 50%) — unidade 12 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

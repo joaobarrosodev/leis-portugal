@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:402550:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "2.º O CNT/UNTAET-PKF é constituído basicamente por elementos para o QG da UNTAET-PKF e pelo comando e QG do sector central e por elementos dos três ramos das Forças Armadas que integram as várias componentes da UNTAET-PKF, no total máximo de 1000 efectivos.",
+      "alterador": 1
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "5.º O CNT é estabelecido, previsivelmente, até 31 de Janeiro de 2002.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: efectivos do n.º 2.º passam a 1000; trocado 800 por 1000 na unidade 10.",
+    "Alterador 1, 2.º: limite temporal do n.º 5.º passa a 31 de Janeiro de 2002; trocada a data na unidade 13."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

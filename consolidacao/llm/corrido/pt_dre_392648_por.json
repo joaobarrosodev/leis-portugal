@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:392648:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1 - É revogado o [Despacho Normativo n.º 121/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/121-1992-300259), de 14 de Julho.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação do sumário (191/92 -> 121/92); o sumário não faz parte do texto por unidades, nada a fazer.",
+    "Alterador 1: retificação do n.º 1 (191/92 -> 121/92); substituída a unidade 8."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

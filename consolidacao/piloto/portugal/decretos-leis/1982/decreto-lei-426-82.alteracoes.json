@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 20-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Apenas podem deter acções da sociedade as seguintes entidades:\n\na) O Estado;\n\nb) As empresas públicas de seguros e os fundos existentes no âmbito da actividade seguradora;\n\nc) Quaisquer outras empresas públicas que não as referidas na alínea anterior.",
+    "depois": "2 - As acções da sociedade devem obrigatoriamente ser detidas pelas seguintes entidades:\n\na) Estado;\n\nb) Empresas públicas;\n\nc) Sociedades anónimas de capitais maioritária ou exclusivamente públicos;\n\nd) Fundos existentes no âmbito da actividade seguradora;\n\ne) Quaisquer outras entidades públicas que não as referidas na alínea anterior.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:376195:por",
+    "alterador": "pt:dre:370433:por"
+  },
+  {
+    "artigo": "unidades 30-30",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - Quando, num aumento de capital, haja accionistas que renunciem à subscrição de acções que lhe caberiam, poderão as mesmas ser subscritas pelos demais accionistas, na proporção das suas participações.",
+    "depois": "4 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:376195:por",
+    "alterador": "pt:dre:370433:por"
+  },
+  {
+    "artigo": "unidades 31-31",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 8.º As acções só podem ser alienadas entre accionistas ou às entidades referidas no n.º 2 do artigo 5.º",
+    "depois": "Art. 8.º As alienações de acções da sociedade não podem contrariar o disposto no n.º 2 do artigo 5.º",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:376195:por",
+    "alterador": "pt:dre:370433:por"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:372230:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 12,
+      "texto": "a) 40%, relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 10%, relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 25%, relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 25%, aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Retificação do n.º 3.º, alíneas a) a d): percentagens passam a 40%, 10%, 25% e 25%; resto de cada alínea mantido do texto atual ([...])"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:303467:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: rectifica o mapa IX - 6 (Secretaria Regional da Educação), cujo conteúdo só vem em imagem (ver mapa no documento original); não aplicado.",
+  "instrucoes": [
+    "Alterador 1: rectificação do mapa IX - 6, só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

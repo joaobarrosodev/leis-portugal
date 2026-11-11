@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:373673:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 298/2012), artigo 1.º: extingue a Conservatória do Registo Civil de Moscavide e integra-a por fusão na de Lisboa; não altera nem revoga expressamente nenhum ponto do texto do original (alteração não textual).",
+  "instrucoes": [
+    "Alterador 1, art. 1.º a 5.º: extinção e fusão da Conservatória de Moscavide, sem instrução textual sobre o original — não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

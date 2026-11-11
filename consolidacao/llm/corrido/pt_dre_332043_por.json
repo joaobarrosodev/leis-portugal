@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:332043:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 948/98), n.º 2.º: extingue a 3.ª Tesouraria da Fazenda Pública de Guimarães criada pelo original, sem alterar nem revogar expressamente o seu texto; não é uma alteração textual.",
+  "instrucoes": [
+    "Alterador 1, n.º 2.º: extinção da 3.ª Tesouraria de Guimarães criada pelo original — efeito material, sem instrução textual; não aplicado.",
+    "Alterador 1, n.os 3.º e 4.º: alteram a Portaria n.º 840/85, não o original — ignorados.",
+    "Alterador 1, restantes números (1.º, 5.º a 8.º): normas próprias, não dirigidas ao texto do original — nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "pt:dre:344194:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "a) Garantir a execução do programa de vigilância da EEB no estrito cumprimento da Decisão n.º [2001/499/CE](http://data.europa.eu/eli/dec/2001/499/oj?locale=pt), de 3 de Julho, e do Regulamento (CE) n.º [999/2001](http://data.europa.eu/eli/reg/2001/999/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de Maio, alterado pelo Regulamento (CE) n.º [1248/2001](http://data.europa.eu/eli/reg/2001/1248/oj?locale=pt), da Comissão, de 22 de Junho;",
+      "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "c) Tratar e divulgar toda a informação estatística correlacionada com a execução dos programas, nomeadamente a sua inclusão nos relatórios mensais a remeter à Comissão nos termos da Decisão n.º [2001/376/CE](http://data.europa.eu/eli/dec/2001/376/oj?locale=pt), de 18 de Abril.",
+      "alterador": 1
+    },
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "d) Promover a obtenção das verbas necessárias às adjudicações feitas no âmbito do presente despacho, incluindo a organização dos processos com vista à obtenção da participação financeira comunitária estabelecida para Portugal na Decisão da Comissão n.º [2000/773/CE](http://data.europa.eu/eli/dec/2000/773/oj?locale=pt), de 30 de Novembro, alterada pela Decisão da Comissão n.º [2001/499/CE](http://data.europa.eu/eli/dec/2001/499/oj?locale=pt), de 3 de Julho;",
+      "alterador": 1
+    },
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "f) Pagar aos laboratórios privados, mediante a apresentação dos comprovativos das despesas com a aquisição dos kits de teste e dos reagentes, bem como do número de testes realizados, devida e previamente visados pelo LNIV, o montante da comparticipação comunitária, nos termos previstos na Decisão da Comissão n.º [2000/773/CE](http://data.europa.eu/eli/dec/2000/773/oj?locale=pt), de 30 de Novembro, alterada pela Decisão n.º [2001/499/CE](http://data.europa.eu/eli/dec/2001/499/oj?locale=pt), de 3 de Julho;",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "5 - As aquisições de kits de teste e reagentes necessários à execução dos testes rápidos para rastreio da EEB previstas na Decisão da Comissão n.º [2000/773/CE](http://data.europa.eu/eli/dec/2000/773/oj?locale=pt), de 30 de Novembro, alterada pela Decisão da Comissão n.º [2001/499/CE](http://data.europa.eu/eli/dec/2001/499/oj?locale=pt), de 3 de Julho, e no Regulamento (CE) n.º [999/2001](http://data.europa.eu/eli/reg/2001/999/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de Maio, alterado pelo Regulamento (CE) n.º [1248/2001](http://data.europa.eu/eli/reg/2001/1248/oj?locale=pt), da Comissão, de 22 de Junho, e normativos complementares, são havidas como de urgência imperiosa para efeitos do disposto na alínea b) do n.º 1 do artigo 60.º e ainda na alínea c) do n.º 1 do artigo 86.º, conjugado com o n.º 2 do artigo 79.º, do Decreto-Lei n.º 197/99, de 8 de Junho.",
+      "alterador": 1
+    },
+    {
+      "de": 31,
+      "ate": 33,
+      "texto": "6 - O LNIV e os demais laboratórios oficiais cobrarão aos apresentantes para abate, no caso de bovinos aprovados para consumo humano, e à DGV, no caso de bovinos mortos nas explorações e ou rejeitados pela inspecção sanitária nos matadouros, pela prestação de serviços inerente à realização das análises, o valor de 5000$00 por teste.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação da alínea a) do n.º 2 - substituída a unidade 10.",
+    "Alterador 1: nova redação da alínea c) do n.º 2 - substituída a unidade 12.",
+    "Alterador 1: nova redação da alínea d) do n.º 4 - substituída a unidade 27.",
+    "Alterador 1: nova redação da alínea f) do n.º 4 - substituída a unidade 29.",
+    "Alterador 1: nova redação do n.º 5 - substituída a unidade 30.",
+    "Alterador 1: nova redação do n.º 6 - o corpo e os n.os 6.1 e 6.2 (unidades 31-33) passam a um só parágrafo; o parágrafo final (unidade 34) é igual e fica."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

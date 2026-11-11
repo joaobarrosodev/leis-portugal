@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:307441:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A rectificação («Cap. 02 - Encargos Gerais do Ministério das Finanças» por «Div. 02 - ...») incide sobre o mapa de alterações orçamentais, que só existe em imagem; o texto não existe nas unidades.",
+  "instrucoes": [
+    "Alterador 1: rectifica designação no mapa orçamental; não aplicada porque o mapa só vem em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

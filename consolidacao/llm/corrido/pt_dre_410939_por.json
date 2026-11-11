@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:410939:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 27,
+      "texto": "4.º - (Revogado.)\n\n5.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 20.º f): revoga os n.os 4.º e 5.º da Portaria n.º 880/73; unidades 17-27 substituídas por '4.º - (Revogado.)' e '5.º - (Revogado.)'. As restantes instruções (novo regime, revogação de outras portarias) não se dirigem ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

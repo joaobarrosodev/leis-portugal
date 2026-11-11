@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Tenham um capital social mínimo de 5000 contos;",
+    "depois": "b) Tenham um capital social mínimo de 5000 contos, tratando-se de sociedades comerciais, ou dois anos de exercício efectivo da actividade, nos restantes casos;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:386217:por",
+    "alterador": "pt:dre:394328:por"
+  },
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Documentos curriculares do responsável e do pessoal técnico demonstrativos da experiência e capacidade exigível para a realização dos trabalhos a executar;",
+    "depois": "d) Documentos curriculares do responsável e do pessoal técnico, demonstrativos da experiência e capacidade exigíveis para a realização dos trabalhos a executar e, tratando-se de entidades sem fins lucrativos, documentos que comprovem a realização de inquéritos ou estudos de opinião nos dois anos anteriores ao pedido;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:386217:por",
+    "alterador": "pt:dre:394328:por"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:389391:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1 - É criado no quadro de pessoal da Secretaria-Geral da Presidência do Conselho de Ministros, a que se refere o artigo 16.º do [Decreto-Lei n.º 147/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1993-300009), de 3 de Maio, um lugar de assessor principal.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação do n.º 1 — unidade 5 substituída pela redação correta"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

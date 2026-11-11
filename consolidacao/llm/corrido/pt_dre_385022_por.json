@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:385022:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 21,
+      "texto": "a) Direito aduaneiro nacional ... 72\n\nb) Direito aduaneiro comunitário ... 42\n\nc) Política pautal. Nomenclatura ... 36\n\nd) Valor aduaneiro ... 2\n\ne) Contabilidade ... 8\n\nf) Fiscalização aduaneira ... 11\n\ng) Finanças públicas e fiscalidade ... 11\n\nh) Contencioso fiscal e técnico ... 7\n\ni) Informática ... 11\n\nj) Regime jurídico da função pública ... 14",
+      "alterador": 1
+    },
+    {
+      "de": 43,
+      "ate": 45,
+      "texto": "18 - O exame de aptidão consistirá numa prova escrita e numa prova oral sobre as matérias tratadas no estágio, que deverão iniciar-se no prazo de 10 dias a contar da data do termo deste.\n\n19 - À prova escrita e à prova oral referidas no número anterior será dada a média aritmética dos valores que, de 0 a 20, lhe forem atribuídos por cada membro do júri, sem qualquer arredondamento.\n\n20 - Ao exame de aptidão será dada a média aritmética dos valores da prova escrita e da prova oral sem qualquer arredondamento, ficando excluídos os concorrentes que obtiverem menos de 9,5 valores.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redação do n.º 3: só mudam as horas das alíneas a) a j) — unidades 12 a 21 substituídas (corpo, cabeçalho e alínea k) iguais).",
+    "Nova redação dos n.os 18, 19 e 20 — unidades 43 a 45 substituídas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:300848:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o plano de estudos passa a ser o constante do anexo do alterador, mas os quadros n.os 1 a 4 só vêm em imagem; não aplicável textualmente com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos (anexo) — quadros só em imagem; não aplicado.",
+    "Alterador 1, 2.º a 4.º: normas próprias do alterador (transição, duração do ano lectivo, aplicação), sem instrução de aditamento ao original; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

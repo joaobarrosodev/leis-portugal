@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:372992:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1089/2001), n.º 1.º: os quadros n.os 1 e 2 do anexo passam a ter a redacção do anexo da portaria alteradora, mas os quadros só existem em imagem (PDF); alteração não textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui os quadros n.os 1 e 2 do anexo — quadros só em imagem, não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

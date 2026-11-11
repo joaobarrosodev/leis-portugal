@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:376789:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "É revogado, para todos os efeitos legais, o n.º 2 do [Despacho Normativo n.º 196/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/196-1981-577114), de 5 de Agosto, desde a data da sua entrada em vigor.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redação do Despacho Normativo n.º 221/82 (corpo único); unidade 3 substituída"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

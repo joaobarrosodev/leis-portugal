@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:354161:por",
+  "substituicoes": [
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "a) Dimensão que permita responder às necessidades de armazenagem resultantes do volume de tráfego do requerente e, tratando-se de armazéns de exportação autorizados às empresas referidas nas alíneas b) e c) do n.º 2, não pode, no continente, a área coberta ser inferior a 500 m2;",
+      "alterador": 1
+    },
+    {
+      "de": 38,
+      "ate": 39,
+      "texto": "12 - Para garantia da responsabilidade estabelecida no n.º 10, o titular da autorização prestará caução por depósito, fiança bancária ou seguro-caução, de montante a fixar pelo director da alfândega, tendo em conta, nomeadamente, a capacidade média de armazenagem e a carga fiscal de que as mercadorias possam ser passíveis no caso de desvio do fim a que se destinam ou de exportação sem o processamento dos competentes documentos aduaneiros (exportação e trânsito, se for caso disso).\n\nO montante da garantia referida poderá ser modificado anualmente pelo director da alfândega, quer por iniciativa própria, quer por solicitação do próprio titular, em função do movimento de mercadorias verificado no ano anterior.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 5 (só a alínea a) muda; corpo e alíneas b) a h) com '...'); substituída a unidade 22.",
+    "Alterador 1: nova redação do n.º 12 (dois parágrafos, ambos mudam); substituídas as unidades 38-39."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

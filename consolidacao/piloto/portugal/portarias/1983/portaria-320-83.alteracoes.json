@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Alargar, a título excepcional, a área de recrutamento para os lugares de director dos Palácios Nacionais da Ajuda, Mafra, Pena, Queluz e Sintra e do Arquivo Histórico do Ministério das Finanças de entre qualquer das categorias de conservador ou de técnico superior, desde que habilitados com licenciatura adequada e curriculum vitae que demonstre possuir a qualificação técnica e experiência necessárias ao desempenho daquelas funções.",
+    "depois": "1.º Alargar, a título excepcional, a área de recrutamento para os lugares de director dos Palácios Nacionais da Ajuda, Mafra, Pena, Queluz e Sintra e do Arquivo Histórico do Ministério das Finanças de entre qualquer das categorias de conservador ou de entre indivíduos vinculados à função pública, desde que habilitados com licenciatura adequada e curriculum vitae que demonstre possuírem a qualificação técnica e a experiência necessárias ao desempenho daquelas funções.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312604:por",
+    "alterador": "pt:dre:396343:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "remover",
+    "regra": "llm",
+    "antes": "A zona ARC-2, designada por Serra da Freita, situada na freguesia de Cabreiros, constituída por prédios rústicos do perímetro florestal da serra da Freita, com uma área aproximada de 100 ha;",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:370263:por",
+    "alterador": "pt:dre:611934:por"
+  }
+]

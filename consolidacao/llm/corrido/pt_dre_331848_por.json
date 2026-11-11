@@ -1,0 +1,43 @@
+{
+  "id": "pt:dre:331848:por",
+  "substituicoes": [
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 32,
+      "ate": 32,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 35,
+      "ate": 35,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 38,
+      "ate": 38,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)](https://files.diariodarepublica.pt/1s/2002/09/218b00/65056507.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os quadros n.os 1 a 5 do novo plano de estudos só vêm em imagem; apenas se atualizaram as ligações para o documento original, sem transcrever o conteúdo.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos do anexo; ligações das imagens dos quadros n.os 1 a 5 atualizadas (unidades 26, 29, 32, 35 e 38). Os n.os 2.º a 4.º do alterador são disposições próprias, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

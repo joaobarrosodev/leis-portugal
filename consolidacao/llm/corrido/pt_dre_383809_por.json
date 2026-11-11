@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:383809:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 11-I/97): as três retificações (Assistente graduado/assistente para Assistente principal/assistente) são no quadro de pessoal, que só existe em imagem; não há texto para aplicar.",
+  "instrucoes": [
+    "Três retificações no quadro de pessoal (farmácia, laboratório, nutrição): quadro só em imagem, não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Empresas exploradoras de veículos ligeiros de aluguer para transporte de mercadorias: 10 t;",
+    "depois": "b) Empresas exploradoras de veículos ligeiros de aluguer para transporte de mercadorias - 4 t;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:411594:por",
+    "alterador": "pt:dre:296241:por"
+  }
+]

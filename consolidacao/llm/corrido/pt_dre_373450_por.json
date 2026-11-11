@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:373450:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 149/2006), n.º 1.º: o anexo (plano de estudos) passa a ter a redacção do anexo da portaria alteradora, mas os quadros só existem em imagem (PDF); alteração não textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui o anexo (quadros n.os 1 a 4) — quadros só em imagem, não aplicado (nao_aplicavel). Os n.os 2.º e 3.º do alterador são normas próprias, não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

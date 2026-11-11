@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:372421:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "1.º da Portaria n.º 917/89 substitui o quadro I do anexo I, que só vem em imagem (no original e no alterador); 3.º retifica 'Escolaridade - Horas semanais' nos quadros I, II e III, texto que não existe no texto atual (quadros só em imagem). Nenhum aplicado. O alterador 2 é o mesmo diploma repetido.",
+  "instrucoes": [
+    "1.º: nova redação do quadro I do anexo I; quadro só em imagem, não aplicado",
+    "2.º e 4.º: transição e aplicação, normas próprias do alterador; ignoradas",
+    "3.º: retificação de 'Horas semanais' para 'Horas totais' nos quadros; texto só em imagem, não aplicado",
+    "Alterador 2: duplicado do alterador 1; nada mais"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

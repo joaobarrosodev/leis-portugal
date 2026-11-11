@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:320286:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 561/2005 dá nova redação ao anexo I (plano de estudos, quadros n.os 1 a 4), que só vem em imagem; a alteração não é textual.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do anexo I - não aplicado, quadros só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

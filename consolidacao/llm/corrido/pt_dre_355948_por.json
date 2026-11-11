@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:355948:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: aditamento de lugares ao quadro de pessoal (anexo I do alterador) e substituição do quadro do anexo I do original pelo anexo II do alterador; ambos os quadros só existem em imagem (ver documento original), não há texto a aplicar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: adita lugares ao quadro de pessoal não docente; quadro só em imagem, não aplicado.",
+    "Alterador 1, 2.º: o quadro do anexo I passa a ser o do anexo II do alterador; quadro só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

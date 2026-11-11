@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É tornado obrigatório o registo, nas intendências de pecuária respectivas, das explorações suínas com mais de cinco animais e com qualquer número das que se dediquem à reprodução.\n\n2.º Os proprietários dos suínos das explorações registadas ficam obrigados a indicar os efectivos que possuem referidos a 1 de Janeiro, 1 de Maio e 1 de Setembro de cada ano.",
+    "depois": "1.º - (Revogado.)\n\n2.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:388385:por",
+    "alterador": "pt:dre:507394:por"
+  }
+]

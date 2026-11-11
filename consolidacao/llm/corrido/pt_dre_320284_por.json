@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:320284:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1445/2002 dá nova redação ao anexo II (plano de estudos do ano complementar), cujo quadro só vem em imagem; a alteração não é textual.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do anexo II - não aplicado, quadro só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

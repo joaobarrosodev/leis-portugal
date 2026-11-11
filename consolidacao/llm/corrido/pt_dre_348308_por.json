@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:348308:por",
+  "substituicoes": [
+    {
+      "de": 49,
+      "ate": 65,
+      "texto": "Escola Superior de Saúde do Vale do Sousa\n\nCurso de Anatomia Patológica, Citológica e Tanatológica\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/051b00/11021103.pdf)](https://files.diariodarepublica.pt/1s/2004/03/051b00/11021103.pdf)](https://files.diariodarepublica.pt/1s/2004/03/051b00/11021103.pdf)](https://files.diariodarepublica.pt/1s/2004/03/051b00/11021103.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/051b00/11021103.pdf)](https://files.diariodarepublica.pt/1s/2004/03/051b00/11021103.pdf)](https://files.diariodarepublica.pt/1s/2004/03/051b00/11021103.pdf)](https://files.diariodarepublica.pt/1s/2004/03/051b00/11021103.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/051b00/11021103.pdf)](https://files.diariodarepublica.pt/1s/2004/03/051b00/11021103.pdf)](https://files.diariodarepublica.pt/1s/2004/03/051b00/11021103.pdf)](https://files.diariodarepublica.pt/1s/2004/03/051b00/11021103.pdf)\n\n2.º ciclo - Grau de licenciado\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/051b00/11021103.pdf)](https://files.diariodarepublica.pt/1s/2004/03/051b00/11021103.pdf)](https://files.diariodarepublica.pt/1s/2004/03/051b00/11021103.pdf)](https://files.diariodarepublica.pt/1s/2004/03/051b00/11021103.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: o anexo passa a ter a redação do anexo da Portaria n.º 198/2004; substituí o corpo do anexo (unidades 49-65) pela nova redação, mantendo o título (unidade 48), que já nomeia o Instituto Politécnico de Saúde do Norte. Os quadros vêm em imagem e ficam como ligações.",
+    "Alterador 1, n.os 2.º e 3.º: transição e aplicação próprias do alterador; nada a mudar no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

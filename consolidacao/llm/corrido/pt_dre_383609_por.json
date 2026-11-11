@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:383609:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração): retifica o sumário publicado (Resolução n.º 38/78 para n.º 37/78); o sumário não faz parte do texto e o texto atual já diz Resolução n.º 37/78.",
+  "instrucoes": [
+    "Retificação do sumário: não há unidade a mudar; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

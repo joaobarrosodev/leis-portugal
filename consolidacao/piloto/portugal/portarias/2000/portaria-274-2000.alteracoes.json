@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 27-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Pelo Ministro da Educação, Joaquim Manuel dos Santos Vigário Pacheco, Secretário de Estado do Orçamento. - O Ministro da Educação, Guilherme d'Oliveira Martins.",
+    "depois": "Pelo Ministro das Finanças, Fernando Manuel dos Santos Vigário Pacheco, Secretário de Estado do Orçamento. - O Ministro da Educação, Guilherme d'Oliveira Martins.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:300004:por",
+    "alterador": "pt:dre:522259:por"
+  }
+]

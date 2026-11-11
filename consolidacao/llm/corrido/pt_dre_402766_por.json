@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:402766:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "3.º É alterada em conformidade a área de responsabilidade do posto de Cinfães.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: rectificação no n.º 3.º, Lamego passa a Cinfães; trocado na unidade 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

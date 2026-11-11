@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:372982:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "É aprovado o plano de estudos do curso de qualificação para o exercício de outras funções educativas na área de Supervisão Pedagógica e Formação de Formadores da Escola Superior de Educação de Santarém, criado pela [Portaria n.º 281-B/99](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-1999-651148), de 24 de Abril, nos termos do anexo à presente portaria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Retificação do n.º 1.º: 'Educação Especial - Problemáticas de Risco' passa a 'Supervisão Pedagógica e Formação de Formadores' na unidade 11"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 12-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Probabilidades e Estatística;\n\nb) Sistemas Lineares e Teoria do Controle.",
+    "depois": "a) Estatística, Investigação Operacional e Computação;\n\nb) Teoria Matemática dos Sistemas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:380918:por",
+    "alterador": "pt:dre:220891:por"
+  },
+  {
+    "artigo": "unidades 20-34",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1) Ramo de Probabilidades e Estatística:\n\na) Obrigatórias:\n\nI) Análise ... 52,5\n\nII) Álgebra ... 18\n\nIII) Geometria e Desenho ... 8\n\nIV) Probabilidades e Estatística ... 43,5\n\nTotal ... 122\n\n2) Ramo de Sistemas Lineares e Teoria do Controle:\n\na) Obrigatórias:\n\nI) Análise ... 52,5\n\nII) Álgebra ... 18\n\nIII) Geometria e Desenho ... 8\n\nIV) Probabilidades e Estatística ... 15,5\n\nV) Sistemas Lineares e Teoria do Controle ... 28\n\nTotal ... 122",
+    "depois": "1) Ramo de Estatística, Investigação Operacional e Computação:\n\na) Obrigatórias:\n\nI) Matemática ... 90,5\n\nII) Física ... 4\n\nb) Optativas:\n\nI) Matemática ... 16\n\nII) Electrónica ... 16\n\nc) Seminário ... 2\n\nTotal ... 122,5\n\n2) Ramo de Teoria Matemática dos Sistemas:\n\na) Obrigatórias:\n\nI) Matemática ... 90,5\n\nII) Física ... 4\n\nb) Optativas:\n\nI) Matemática ... 16\n\nII) Física ... 16\n\nc) Seminário ... 12\n\nTotal ... 122,5",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:380918:por",
+    "alterador": "pt:dre:220891:por"
+  }
+]

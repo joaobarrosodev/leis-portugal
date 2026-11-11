@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:293350:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "10.ª Delegação da Direcção-Geral da Contabilidade Pública, 11 de Setembro de 1991. - A Directora, Maria Isabel Teixeira Freire Alves.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação do fecho, acrescentando a data; substituída a unidade 4."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

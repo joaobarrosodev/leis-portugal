@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:376858:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 731/89 substitui o quadro II do anexo I (plano de estudos) pelo quadro anexo, que só existe em imagem (ver documento original), tal como o anexo do original; não há texto a aplicar.",
+  "instrucoes": [
+    "1.º: nova redação do quadro II do anexo I, só em imagem; não aplicada",
+    "2.º: aplicação a partir de 1989-1990; não altera o texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

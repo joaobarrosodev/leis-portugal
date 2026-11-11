@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:387372:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1260/2003), 1.º: o anexo (plano de estudos) passa a ter a redação do anexo do alterador, mas os quadros só vêm em imagem ('ver quadro no documento original'); não aplicado. Os n.os 2.º e 3.º do alterador são normas próprias.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo com quadros que só existem em imagem — não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º e 3.º: transição e aplicação — disposições próprias do alterador, ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:394090:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 11.º: o quadro de pessoal da Direcção-Geral dos Registos e do Notariado (mapa anexo, unidade 8) passa a ser o do anexo IX da Portaria n.º 316/87, que só existe em imagem; não se aplica.",
+  "instrucoes": [
+    "Alterador 1, 11.º: substituição do mapa anexo pelo anexo IX, só em imagem; não aplicada.",
+    "Alterador 1, restantes números: quadros de outros serviços, não dirigidos ao original; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

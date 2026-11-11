@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:371844:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1016/2006 (1.º) extingue a zona de caça municipal criada pelo original, mas não altera nem revoga expressamente o seu texto; não é alteração textual. Os n.os 2.º e 3.º concessionam uma nova zona de caça associativa e não se dirigem ao original.",
+  "instrucoes": [
+    "1.º da Portaria n.º 1016/2006: extinção da zona de caça municipal criada pelo original; não textual, não aplicado",
+    "2.º e 3.º: nova zona de caça associativa, não dirigidos ao original; ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

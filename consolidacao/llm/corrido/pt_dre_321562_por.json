@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:321562:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 26,
+      "texto": "Curso de Engenharia Química\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)\n\n2.º ciclo - Grau de licenciado\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)\n\nQUADRO N.º 5\n\n2.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O conteúdo dos quadros do novo anexo só vem em imagem (PDF); substituíram-se os títulos e as referências aos quadros, copiadas do alterador.",
+  "instrucoes": [
+    "1.º da Portaria 1315/2003: novo anexo; substituí as unidades 20 a 26 (curso, ciclos, quadros 1 a 5); 18 e 19 ficam iguais.",
+    "2.º e 3.º da Portaria 1315/2003 (transição, aplicação) são normas próprias, sem efeito no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

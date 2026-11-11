@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:345528:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As duas retificações (ARSEC -> ARSBC na despesa; 322950 -> 322905 na receita) incidem sobre os mapas que só existem em imagem (unidades 4 e 7); o texto não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retificação da despesa (ARSEC/ARSBC), mapa em imagem; não aplicada.",
+    "Alterador 1: retificação da receita (322950/322905), mapa em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

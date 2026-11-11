@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:303596:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "Pela [Portaria n.º 1052/90](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1990-555992), de 12 de Outubro, foi concessionada ao Clube de Caçadores das Cortes da Venda uma zona de caça associativa pelo período de 12 anos (processo n.º 453 da DGF).",
+      "alterador": 1
+    },
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "1.º É revogada a [Portaria n.º 1052/90](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1990-555992), de 12 de Outubro, extinguindo-se, em consequência, a concessão para exploração cinegética na modalidade de zona de caça associativa atribuída ao Clube de Caçadores das Cortes da Venda.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: rectificação de Portaria n.º 1053/90 para 1052/90 no sumário, preâmbulo e n.º 1; substituídas as unidades 3 (preâmbulo) e 10 (n.º 1); o sumário não faz parte do texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 83-83",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A duração normal do curso nas 3 áreas de especialização é de 3 semestres lectivos.",
+    "depois": "A duração normal do curso nas 3 áreas de especialização é de 2 semestres lectivos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400438:por",
+    "alterador": "pt:dre:177819:por"
+  }
+]

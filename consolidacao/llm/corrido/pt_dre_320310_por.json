@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:320310:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 1519/2004 dá nova redação ao anexo I, mas o plano de estudos do novo anexo (quadros n.os 1 a 4) só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: anexo I passa a ter a redação do anexo da Portaria n.º 1519/2004 — quadros só em imagem, não aplicado",
+    "Alterador 1, n.os 2.º e 3.º: transição e aplicação, normas próprias do alterador, sem alteração ao texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

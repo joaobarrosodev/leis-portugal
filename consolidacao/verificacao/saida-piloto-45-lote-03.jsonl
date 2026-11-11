@@ -1,0 +1,34 @@
+{"id": "pt:dre:389391:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Rectificação do n.º 1 aplicada letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:389391:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:389997:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Nova redacção do n.º 1.º aplicada integralmente.", "texto_esperado": ""}
+{"id": "pt:dre:389997:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:390193:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Aditamento do n.º 34.º-A copiado do diploma que altera (n.º 2 do alterador é a sua própria entrada em vigor).", "texto_esperado": ""}
+{"id": "pt:dre:390193:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:390587:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Nova redacção do n.º 16.º aplicada integralmente.", "texto_esperado": ""}
+{"id": "pt:dre:390587:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:390817:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Epígrafe do anexo conforme o novo anexo (grau e título do curso alterados).", "texto_esperado": ""}
+{"id": "pt:dre:390817:por", "instrucoes_em_falta": ["O anexo passa a ter a redacção do anexo da alteradora: o quadro (ligação ao PDF) do consolidado continua o do original (2001/03/062b00/14551457.pdf) em vez do da alteradora (2005/12/249b00/73967397.pdf); possível falha, mas o conteúdo do quadro não é verificável na vista.", "O n.º 1 do 1.º diz que o curso passa a designar-se de outra forma; o 1.º do original ('Problemáticas de Risco') ficou igual no consolidado (provável dúvida, não aplicado)."], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:391787:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Nova redacção do n.º 1.º aplicada letra a letra (DGRF, 1220 ha).", "texto_esperado": ""}
+{"id": "pt:dre:391787:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "A planta anexa é substituída pela da alteradora; o texto não mostra diferença (ligação à planta igual à do original), não verificável."}
+{"id": "pt:dre:392648:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Rectificação do n.º 1 aplicada (121/92).", "texto_esperado": ""}
+{"id": "pt:dre:392648:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações (a rectificação do sumário não consta do texto do original)"}
+{"id": "pt:dre:394502:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Nova redacção do n.º 3 aplicada integralmente.", "texto_esperado": ""}
+{"id": "pt:dre:394502:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:394522:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Nova redacção do n.º 1 aplicada integralmente.", "texto_esperado": ""}
+{"id": "pt:dre:394522:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Nova redacção do n.º 4 aplicada integralmente.", "texto_esperado": ""}
+{"id": "pt:dre:394522:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:394535:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Nova redacção do n.º 3 aplicada integralmente.", "texto_esperado": ""}
+{"id": "pt:dre:394535:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:394546:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Aditamento do n.º 7 copiado do alterador; fica no fim, antes da assinatura.", "texto_esperado": ""}
+{"id": "pt:dre:394546:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:396545:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Ponto 19 rectificado como indicado.", "texto_esperado": ""}
+{"id": "pt:dre:396545:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Ponto 21: 'restrita' passa a 'restritiva'.", "texto_esperado": ""}
+{"id": "pt:dre:396545:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Ponto 24: 'relações regionais' passa a 'eleições regionais'.", "texto_esperado": ""}
+{"id": "pt:dre:396545:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Ponto 36: 'artigo 17.º' passa a 'artigo 170.º'.", "texto_esperado": ""}
+{"id": "pt:dre:396545:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:397285:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Aditamento do n.º 7 copiado do alterador.", "texto_esperado": ""}
+{"id": "pt:dre:397285:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:400192:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 2.º substituído letra a letra pela nova redação (primeiro parágrafo); segundo parágrafo igual.", "texto_esperado": ""}
+{"id": "pt:dre:400192:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:400438:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 5.º: 3 semestres passa a 2 semestres, conforme a nova redação; epígrafe igual. O n.º 2.º da alteradora é transitório e não altera o original.", "texto_esperado": ""}
+{"id": "pt:dre:400438:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}

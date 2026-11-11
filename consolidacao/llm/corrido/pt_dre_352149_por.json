@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:352149:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação (2.º Cartório Notarial do Funchal, escriturário, 2 -> 3) incide sobre o mapa anexo, que só existe em imagem (unidade 8); o texto não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retificação no mapa anexo em imagem; não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

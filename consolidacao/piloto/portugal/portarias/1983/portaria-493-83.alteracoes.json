@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 58-58",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Os titulares de aprovação no curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do grau de doutor em Engenharia Mecânica, nas especialidades de Máquinas Térmicas e de Tecnologia da Transferência de Calor.",
+    "depois": "Os titulares de aprovação no curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do grau de doutor em Engenharia nas especialidades de Máquinas Térmicas, Tecnologia da Transferência de Calor e Mecânica dos Fluidos (compressíveis).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:311604:por",
+    "alterador": "pt:dre:442927:por"
+  }
+]

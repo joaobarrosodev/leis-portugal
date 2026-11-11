@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:372655:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 11,
+      "texto": "d) Matemática Aplicada em Ciências Estatísticas.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 135,
+      "texto": "Anexo IV à [Portaria n.º 466/88](https://diariodarepublica.pt/dr/detalhe/portaria/466-1988-372655), de 18 de Julho\n\nUniversidade Nova de Lisboa\n\nFaculdade de Ciências e Tecnologia\n\nLicenciatura em Matemática\n\nRamo de Matemática Aplicada em Ciências Estatísticas\n\n1 - Áreas científicas do curso:\n\na) Matemática;\n\nb) Ciências Estatísticas.\n\n2 - Duração normal do curso - cinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau - 155,5.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Matemática ... 77,5\n\nb) Ciências Estatísticas ... 33\n\nc) Informática ... 3\n\nd) Ciências Humanas e Sociais ... 4\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Matemática ... 8\n\nb) Estatística ... 8\n\nc) Informática ... 8\n\n4.3 - Seminário ... 5\n\n4.4 - Projecto ... 5\n\n4.5 - Estágio profissionalizante ... 20\n\n5 - Condições para inscrição no ramo - obtenção de 42 unidades de crédito.\n\n6 - Condições para inscrição no estágio profissionalizante - obtenção de 109,5 unidades de crédito.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º, n.º 1: aditada alínea d) ao n.º 1.º; inserida depois da alínea c) (unidade 11)",
+    "1.º, n.º 2: aditado o anexo IV; inserido no fim, depois do anexo III (unidade 135)",
+    "2.º: aplicação, norma própria do alterador; ignorada",
+    "Alterador 2: duplicado do alterador 1; não reaplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

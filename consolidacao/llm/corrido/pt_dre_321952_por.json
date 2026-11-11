@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:321952:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 26,
+      "texto": "Curso de Jornalismo e Comunicação\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)\n\nOpção de Jornalismo\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)\n\nOpção de Publicidade e Relações Públicas\n\nQUADRO N.º 4\n\n3.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)\n\n2.º ciclo - Grau de licenciado\n\nRamo de Jornalismo\n\nQUADRO N.º 5\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)\n\nRamo de Publicidade e Relações Públicas\n\nQUADRO N.º 6\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 10,
+      "texto": "1.º-A\n\nEstágio\n\nAs unidades curriculares denominadas 'Estágio' realizam-se nos termos fixados por regulamento a aprovar pelo órgão legal e estatutariamente competente do estabelecimento de ensino.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "O conteúdo dos quadros do novo anexo só vem em imagem (PDF); substituíram-se os títulos e as referências aos quadros, copiadas do alterador.",
+  "instrucoes": [
+    "1.º da Portaria 1301/2003 (opções do 1.º ciclo e ramos do 2.º ciclo): norma própria, sem texto a mudar no original; reflete-se no novo anexo.",
+    "2.º da Portaria 1301/2003: novo anexo; substituí as unidades 20 a 26 (curso, ciclos, opções, ramos, quadros 1 a 6); 18 e 19 ficam iguais.",
+    "3.º da Portaria 1301/2003: aditado o 1.º-A (Estágio); inserido depois da unidade 10 (fim do 1.º).",
+    "4.º e 5.º da Portaria 1301/2003 (transição, aplicação) são normas próprias, sem efeito no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

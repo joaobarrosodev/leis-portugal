@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 31-31",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/187b00/40064007.pdf)",
+    "depois": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/200b00/55525553.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:337264:por",
+    "alterador": "pt:dre:631451:por"
+  }
+]

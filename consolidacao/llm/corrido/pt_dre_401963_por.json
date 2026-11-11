@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:401963:por",
+  "substituicoes": [
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "b) Ter experiência profissional como educador de infância ou professor do ensino básico ou secundário.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação da alínea b) do n.º 5.º; substituída a unidade 25. N.º 2.º (aplicação no tempo) não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

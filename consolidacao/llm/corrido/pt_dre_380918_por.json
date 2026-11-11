@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:380918:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 13,
+      "texto": "a) Estatística, Investigação Operacional e Computação;\n\nb) Teoria Matemática dos Sistemas.",
+      "alterador": 1
+    },
+    {
+      "de": 20,
+      "ate": 34,
+      "texto": "1) Ramo de Estatística, Investigação Operacional e Computação:\n\na) Obrigatórias:\n\nI) Matemática ... 90,5\n\nII) Física ... 4\n\nb) Optativas:\n\nI) Matemática ... 16\n\nII) Electrónica ... 16\n\nc) Seminário ... 2\n\nTotal ... 122,5\n\n2) Ramo de Teoria Matemática dos Sistemas:\n\na) Obrigatórias:\n\nI) Matemática ... 90,5\n\nII) Física ... 4\n\nb) Optativas:\n\nI) Matemática ... 16\n\nII) Física ... 16\n\nc) Seminário ... 12\n\nTotal ... 122,5",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º, n.º 1: nova redação do n.º 2.º (Ramos); número, epígrafe e corpo iguais, mudam só as alíneas a) e b); substituídas as unidades 12-13.",
+    "Alterador 1, n.º 1.º, n.º 2: nova redação do n.º 4.º; número, epígrafe e frase introdutória iguais; substituída a distribuição dos dois ramos (unidades 20-34).",
+    "Alterador 1, n.os 2.º e 3.º: entrada em funcionamento e regime de transição; não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

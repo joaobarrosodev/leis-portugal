@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Datas em que o docente atingirá 5, 11 ou 18 anos de serviço contável para efeitos de fases;",
+    "depois": "c) Datas em que o docente atingirá 5, 11 ou 17 anos de serviço contável para efeitos de fases e ainda as datas em que o docente atinge a 5.ª ou 6.ª fase, após 4 anos de bom e efectivo serviço docente prestado na fase imediatamente anterior.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:376252:por",
+    "alterador": "pt:dre:219076:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Pela [Portaria n.º 1053/90](https://diariodarepublica.pt/dr/detalhe/portaria/1053-1990-555993), de 12 de Outubro, foi concessionada ao Clube de Caçadores das Cortes da Venda uma zona de caça associativa pelo período de 12 anos (processo n.º 453 da DGF).",
+    "depois": "Pela [Portaria n.º 1052/90](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1990-555992), de 12 de Outubro, foi concessionada ao Clube de Caçadores das Cortes da Venda uma zona de caça associativa pelo período de 12 anos (processo n.º 453 da DGF).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:303596:por",
+    "alterador": "pt:dre:307461:por"
+  },
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É revogada a [Portaria n.º 1053/90](https://diariodarepublica.pt/dr/detalhe/portaria/1053-1990-555993), de 12 de Outubro, extinguindo-se, em consequência, a concessão para exploração cinegética na modalidade de zona de caça associativa atribuída ao Clube de Caçadores das Cortes da Venda.",
+    "depois": "1.º É revogada a [Portaria n.º 1052/90](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1990-555992), de 12 de Outubro, extinguindo-se, em consequência, a concessão para exploração cinegética na modalidade de zona de caça associativa atribuída ao Clube de Caçadores das Cortes da Venda.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:303596:por",
+    "alterador": "pt:dre:307461:por"
+  }
+]

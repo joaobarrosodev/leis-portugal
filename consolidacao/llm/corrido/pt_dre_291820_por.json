@@ -1,0 +1,44 @@
+{
+  "id": "pt:dre:291820:por",
+  "substituicoes": [
+    {
+      "de": 39,
+      "ate": 39,
+      "texto": "Curso de Professores do Ensino Básico - 2.º Ciclo\n\nVariante de Matemática e Ciências da Natureza",
+      "alterador": 1
+    },
+    {
+      "de": 43,
+      "ate": 43,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 46,
+      "ate": 46,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 49,
+      "ate": 49,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 52,
+      "ate": 52,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O conteúdo dos quadros do novo anexo só vem em imagem; aplicou-se a estrutura textual do anexo e as ligações para os novos quadros.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o anexo passa a ter a redação do anexo da Portaria n.º 322/2005 -> substituídas as unidades 39 (título do curso desdobrado), 43, 46, 49 e 52 (quadros, que só vêm em imagem, com ligação ao novo documento); restantes linhas iguais.",
+    "Alterador 1, 2.º e 3.º: transição e aplicação -> autónomas, nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

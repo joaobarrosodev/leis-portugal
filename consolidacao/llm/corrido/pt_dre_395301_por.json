@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:395301:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 476/89) extingue os lugares do mapa da Portaria n.º 619/82, salvo o pessoal docente, e cria um novo quadro do pessoal não docente; o mapa original e o novo só existem em imagem (ver documento original), pelo que a alteração não se pode aplicar textualmente.",
+  "instrucoes": [
+    "Alterador 1: extinção dos lugares não docentes do mapa (unidade 4, só em imagem) e criação de novo quadro em mapa anexo também em imagem — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

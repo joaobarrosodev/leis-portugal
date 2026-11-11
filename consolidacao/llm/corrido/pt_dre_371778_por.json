@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:371778:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/11800/20422043.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: a tabela é substituída pela tabela anexa à Portaria 367/89; a tabela só existe em imagem, troca-se a ligação da unidade 14 pela nova.",
+    "Alterador 1, 2.º e 3.º: produção de efeitos e manutenção transitória, sem texto a alterar no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

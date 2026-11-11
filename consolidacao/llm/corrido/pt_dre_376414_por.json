@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:376414:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 181/93 rectifica o quadro (ágio e câmbio médio), que tanto no original como na rectificação só existe em imagem (ver documento original); não há texto a aplicar.",
+  "instrucoes": [
+    "Rectificação do quadro: onde se lê / deve ler-se só em imagem; não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

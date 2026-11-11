@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:388621:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 420/2002), 1.º: os quadros n.os 7, 8, 11 e 12 do anexo passam a ter a redação do anexo do alterador, mas os quadros só vêm em imagem ('ver quadro no documento original'); não aplicado. O n.º 2.º do alterador é norma própria.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação dos quadros n.os 7, 8, 11 e 12, que só existem em imagem — não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º: aplicação — disposição própria do alterador, ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

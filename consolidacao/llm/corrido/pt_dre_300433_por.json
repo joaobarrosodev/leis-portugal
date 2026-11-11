@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:300433:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a única retificação é ao sumário, que não faz parte do texto do original; nada a aplicar.",
+  "instrucoes": [
+    "Alterador 1: retificação do sumário - o sumário não está no texto, em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

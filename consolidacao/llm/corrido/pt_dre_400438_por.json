@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:400438:por",
+  "substituicoes": [
+    {
+      "de": 83,
+      "ate": 83,
+      "texto": "A duração normal do curso nas 3 áreas de especialização é de 2 semestres lectivos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 5.º; só muda o corpo (3 para 2 semestres), substituída a unidade 83. O n.º 2.º do alterador é norma autónoma."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

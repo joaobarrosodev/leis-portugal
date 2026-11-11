@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:380362:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "N.º 1.º da Portaria 565/81: o quadro anexo é substituído pelo quadro anexo à Portaria 565/81, que só vem em imagem (ver documento original); não se aplicou.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substituição do quadro anexo por quadro só em imagem; não aplicada.",
+    "Alterador 1, n.º 2.º: entrada em vigor; não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

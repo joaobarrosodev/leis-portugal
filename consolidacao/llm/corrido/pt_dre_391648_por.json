@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:391648:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º, n.os 1 e 2: substitui o quadro n.º 6 do anexo I (unidade 47) e o quadro n.º 8 do anexo II (unidade 106) pelos quadros dos anexos da Portaria n.º 260/2003, que só existem em imagem; não se aplica.",
+  "instrucoes": [
+    "Alterador 1, 1.º, n.º 1: novo quadro n.º 6 do anexo I, só em imagem; não aplicado.",
+    "Alterador 1, 1.º, n.º 2: novo quadro n.º 8 do anexo II, só em imagem; não aplicado.",
+    "Alterador 1, 2.º: produção de efeitos, não altera o texto; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

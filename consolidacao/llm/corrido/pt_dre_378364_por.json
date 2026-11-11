@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:378364:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 550/89 regula a campanha lanar de 1989-1990 por remissão para a Portaria 505/88 e fixa para essa campanha nova comparticipação de transporte (1$40 e 2$30, referida ao n.º 2 do n.º 2.º, que não existe na Portaria 505/88) e uma nova tabela de preços de garantia anexa a ela própria; não dá nova redação a nenhuma unidade da Portaria 505/88, por isso não é alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: a nova campanha rege-se pela Portaria 505/88; remissão, sem alteração do texto.",
+    "Alterador 1, n.º 2.º: nova comparticipação para despesas de transporte (1$40 e 2$30) definida para a nova campanha, com alvo (n.º 2 do n.º 2.º) inexistente no original; não aplicada.",
+    "Alterador 1, n.os 3.º e 4.º: novos preços de garantia na tabela anexa à própria Portaria 550/89; não substituem a tabela do original.",
+    "Alterador 1, n.os 5.º e 6.º: custos e entrada em vigor; não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:375392:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 106,
+      "texto": "1.º São classificados de primeiro acesso os tribunais judiciais das comarcas de:\n\nAlfândega da Fé;\n\nAlijó;\n\nAlmeida;\n\nAlmodôvar;\n\nAlvaiázere;\n\nArmamar;\n\nArraiolos;\n\nAvis;\n\nBaião;\n\nBombarral;\n\nBoticas;\n\nCabeceiras de Basto;\n\nCadaval;\n\nCarrazeda de Ansiães;\n\nCastelo de Paiva;\n\nCastelo de Vide;\n\nCastro Daire;\n\nCelorico de Basto;\n\nCelorico da Beira;\n\nCinfães;\n\nCondeixa-a-Nova;\n\nCuba;\n\nFerreira do Alentejo;\n\nFerreira do Zêzere;\n\nFigueira de Castelo Rodrigo;\n\nFigueiró dos Vinhos;\n\nFornos de Algodres;\n\nFronteira;\n\nGolegã;\n\nIdanha-a-Nova;\n\nLagoa;\n\nMação;\n\nMeda;\n\nMelgaço;\n\nMértola;\n\nMesão Frio;\n\nMira;\n\nMiranda do Douro;\n\nMogadouro;\n\nMoimenta da Beira;\n\nMonchique;\n\nMondim de Basto;\n\nMontalegre;\n\nMoura;\n\nMurça;\n\nNelas;\n\nNisa;\n\nNordeste;\n\nOleiros;\n\nOliveira de Frades;\n\nPalmela;\n\nPampilhosa da Serra;\n\nParedes de Coura;\n\nPenamacor;\n\nPenela;\n\nPinhel;\n\nPonte da Barca;\n\nPortel;\n\nPorto Santo;\n\nPovoação;\n\nRedondo;\n\nReguengos de Monsaraz;\n\nResende;\n\nSabrosa;\n\nSabugal;\n\nSanta Cruz das Flores;\n\nSanta Cruz da Graciosa;\n\nSão João da Pesqueira;\n\nSão Roque do Pico;\n\nSão Vicente;\n\nSátão;\n\nSerpa;\n\nSoure;\n\nTábua;\n\nTabuaço;\n\nTorre de Moncorvo;\n\nTrancoso;\n\nValpaços;\n\nVelas;\n\nVila Flor;\n\nVila Franca do Campo;\n\nVila Nova de Cerveira;\n\nVila Nova de Foz Côa;\n\nVila do Porto;\n\nVila Viçosa;\n\nVimioso;\n\nVinhais;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 2.º: nova redação do n.º 1.º (lista das comarcas de primeiro acesso); substituídas as unidades 3 a 106 pela nova lista, mantendo-se a unidade 107 (Vouzela.), igual",
+    "Arts. 1.º, 3.º, 4.º e 5.º: objeto, classificação dos juízos das comarcas piloto, agregação de comarcas e efeitos são normas autónomas que não alteram o texto do original; nada a fazer"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

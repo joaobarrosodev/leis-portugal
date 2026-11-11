@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:331976:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/093b00/22732274.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O novo plano de estudos (anexo) só vem em imagem; apenas se atualizou a ligação para o documento original, sem transcrever o conteúdo.",
+  "instrucoes": [
+    "Alterador 1, 1.º: plano de estudos substituído pelo anexo do alterador; ligação da imagem do anexo atualizada (unidade 16)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

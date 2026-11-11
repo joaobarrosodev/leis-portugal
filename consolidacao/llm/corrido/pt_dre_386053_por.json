@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:386053:por",
+  "substituicoes": [
+    {
+      "de": 26,
+      "ate": 47,
+      "texto": "## ANEXO I — Licenciatura em Economia\n\n1 - Área científica do curso - Economia.\n\n2 - Duração normal do curso - dez semestres lectivos.\n\n3 - Condições necessárias à concessão do grau - 124 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Economia ... 28,5\n\nb) Matemática ... 31,5\n\nc) Gestão ... 8\n\nd) História Económica ... 7\n\n4.2 - Áreas científicas opcionais:\n\na) Economia ...49\n\nb) Matemática ... 49\n\nc) Gestão ... 49\n\nd) História Económica ... 49\n\ne) Sociologia ... 49\n\nf) Psicologia Económica ... 49\n\ng) Ciência Política ... 49\n\nh) Direito Económico e Demografia ... 49",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 12,
+      "texto": "2.º-A\n\nLíngua estrangeira\n\nOs alunos inscritos no curso a que se refere a presente portaria deverão prestar provas de conhecimento numa língua estrangeira, à sua escolha, dentro daquelas em que a Faculdade oferece formação e nas condições por esta fixadas em regulamento a aprovar pelo conselho científico.\n\n2.º-B\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de dez.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas de serviço de aulas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º n.º 1: aditado o n.º 2.º-A (Língua estrangeira) — inserido após a unidade 12.",
+    "Alterador 1, 1.º n.º 2: aditado o n.º 2.º-B (Disciplinas de opção) — inserido a seguir ao 2.º-A.",
+    "Alterador 1, 2.º: anexo I com nova redação — unidades 26 a 47 substituídas pelo anexo do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

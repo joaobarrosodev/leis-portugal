@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:300635:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: extingue a zona de caça municipal criada pelo original; é um ato de extinção, não uma alteração nem revogação textual do original. Os n.os 2.º a 4.º concessionam nova zona de caça associativa (normas próprias do alterador).",
+  "instrucoes": [
+    "Alterador 1, 1.º: extinção da zona de caça municipal da Castelhana — não textual; não aplicado.",
+    "Alterador 1, 2.º a 4.º: criação de zona de caça associativa, normas autónomas; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

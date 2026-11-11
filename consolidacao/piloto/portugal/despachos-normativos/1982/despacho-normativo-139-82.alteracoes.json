@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1982 os projectos da CP - Caminhos de Ferro Portugueses, E. P., a seguir discriminados, cuja execução não deverá implicar a realização de uma formação bruta de capital fixo e de uma despesa de investimento superiores, respectivamente, a 3200000 contos e 3350200 contos.",
+    "depois": "1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1982 os projectos da CP - Caminhos de Ferro Portugueses, E. P., a seguir discriminados, cuja execução deverá implicar a realização de uma formação bruta de capital fixo e de uma despesa de investimento superiores, respectivamente, a 2200000 contos e a 2350200 contos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:394522:por",
+    "alterador": "pt:dre:318149:por"
+  },
+  {
+    "artigo": "unidades 46-46",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - A despesa de investimento referida no n.º 1 será financiada por uma dotação de capital no montante de 2938 milhões de escudos. Esta e, eventualmente, outra dotação adicional poderão assumir a forma de empréstimo subordinado ou de quase capital, nos termos que venham a ser definidos.",
+    "depois": "4 - A despesa de investimento referida no n.º 1 será financiada por uma dotação de capital no montante de 1938 milhões de escudos. Esta e eventualmente outra dotação adicional poderão assumir a forma de empréstimo subordinado ou de quase capital, nos termos que venham a ser definidos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:394522:por",
+    "alterador": "pt:dre:318149:por"
+  }
+]

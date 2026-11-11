@@ -1,0 +1,38 @@
+{"id": "pt:dre:327126:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.os 1.º e 2.º substituídos letra a letra pela Portaria 56/86.", "texto_esperado": ""}
+{"id": "pt:dre:327126:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "N.º 5.º substituído letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:327126:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:329667:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Aditamento do ponto 5.º com a redacção exacta da Portaria 410/79.", "texto_esperado": ""}
+{"id": "pt:dre:329667:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "O protocolo financeiro publicado em anexo à Portaria 410/79 (e referido no novo 5.º como parte integrante) não consta do consolidado; o aditamento é apenas do ponto 5.º, pelo que não é claramente erro."}
+{"id": "pt:dre:330179:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Alínea c) do n.º 9 igual à nova redacção (sem aspas, sem 'nova').", "texto_esperado": ""}
+{"id": "pt:dre:330179:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "N.º 11 com 'n.º 10' conforme a nova redacção; alíneas a) a c) mantidas ('...').", "texto_esperado": ""}
+{"id": "pt:dre:330179:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "N.º 15 com Portaria n.º 576/77 conforme a nova redacção.", "texto_esperado": ""}
+{"id": "pt:dre:330179:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:330180:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Pessoal dirigente substituído pelo texto do novo quadro.", "texto_esperado": ""}
+{"id": "pt:dre:330180:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Pessoal técnico: ligação ao novo documento original.", "texto_esperado": ""}
+{"id": "pt:dre:330180:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "Menor: a assinatura final do quadro (ministros) manteve as do original, e não as do quadro novo; discutível, não classificada como erro."}
+{"id": "pt:dre:331848:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Quadro n.º 1 substituído pelo novo anexo (ligação nova).", "texto_esperado": ""}
+{"id": "pt:dre:331848:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Quadro n.º 2 idem.", "texto_esperado": ""}
+{"id": "pt:dre:331848:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Quadro n.º 3 idem.", "texto_esperado": ""}
+{"id": "pt:dre:331848:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Quadro n.º 4 idem.", "texto_esperado": ""}
+{"id": "pt:dre:331848:por", "artigo": "Trecho 5", "veredicto": "certo", "motivo": "Quadro n.º 5 idem.", "texto_esperado": ""}
+{"id": "pt:dre:331848:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "Possível diferença: o novo anexo intitula-se 'Universidade Lusíada' e o consolidado manteve o título do anexo original 'Universidade Lusíada de Lisboa' (não aparece como trecho alterado). Dúvida menor."}
+{"id": "pt:dre:331976:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Plano de estudos passa a ser o do novo anexo: ligação substituída.", "texto_esperado": ""}
+{"id": "pt:dre:331976:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:331988:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 2.º revogado: '2.º - (Revogado.)'.", "texto_esperado": ""}
+{"id": "pt:dre:331988:por", "instrucoes_em_falta": ["1.º: o plano de estudos passa a ser o do anexo da Portaria 1419/95 (ligação .../1995/11/273b00/73407341.pdf); a ligação final do original (.../1990/04/08900/18241825.pdf) ficou por substituir"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "A ligação do plano de estudos no fim do texto não foi substituída pela do novo anexo."}
+{"id": "pt:dre:331992:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 2.º revogado: '2.º - (Revogado.)'.", "texto_esperado": ""}
+{"id": "pt:dre:331992:por", "instrucoes_em_falta": ["1.º: o plano de estudos passa a ser o do anexo da Portaria 1421/95 (ligação .../1995/11/273b00/73447345.pdf); a ligação final do original (.../1990/04/08900/18271827.pdf) ficou por substituir"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "A ligação do plano de estudos no fim do texto não foi substituída pela do novo anexo."}
+{"id": "pt:dre:331993:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 2.º revogado: '2.º - (Revogado.)'.", "texto_esperado": ""}
+{"id": "pt:dre:331993:por", "instrucoes_em_falta": ["1.º: o plano de estudos passa a ser o do anexo da Portaria 1422/95 (ligação .../1995/11/273b00/73457347.pdf); a ligação final do original (.../1990/04/08900/18271828.pdf) ficou por substituir"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "A ligação do plano de estudos no fim do texto não foi substituída pela do novo anexo."}
+{"id": "pt:dre:331995:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 2.º revogado: '2.º - (Revogado.)'.", "texto_esperado": ""}
+{"id": "pt:dre:331995:por", "instrucoes_em_falta": ["1.º: o plano de estudos passa a ser o do anexo da Portaria 1420/95 (ligação .../1995/11/273b00/73427343.pdf); a ligação final do original (.../1990/04/08900/18291829.pdf) ficou por substituir"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "A ligação do plano de estudos no fim do texto não foi substituída pela do novo anexo."}
+{"id": "pt:dre:332185:por", "artigo": "Trecho 1", "veredicto": "dúvida", "motivo": "O n.º 4.º revoga a Portaria 243/90 'na parte relativa à emissão de certificado do registo criminal': a alínea b) é exactamente essa parte, mas a revogação é parcial/condicionada por matéria e foi aplicada ao texto.", "texto_esperado": "b) Pela passagem de certificado de registo criminal - 250$00; (se a revogação parcial não se aplicar ao texto)"}
+{"id": "pt:dre:332185:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:336299:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Revogado o n.º 7, 2.º: '2.º - (Revogado.)'.", "texto_esperado": ""}
+{"id": "pt:dre:336299:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:336527:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Rectificação do preâmbulo: 'artigo 7.º'.", "texto_esperado": ""}
+{"id": "pt:dre:336527:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:336528:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Rectificação do preâmbulo: 'artigo 7.º'.", "texto_esperado": ""}
+{"id": "pt:dre:336528:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:336530:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Rectificação do preâmbulo: 'artigo 7.º'.", "texto_esperado": ""}
+{"id": "pt:dre:336530:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}

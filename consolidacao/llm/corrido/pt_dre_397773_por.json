@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:397773:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 411/98 (alterador 2), artigo 32.º, n.º 1, revoga por inteiro o Despacho Normativo n.º 171/82; por isso não se devolve nenhuma mudança (a nova redacção do n.º 6 dada pelo Despacho Normativo n.º 28/83, alterador 1, fica prejudicada pela revogação total).",
+  "instrucoes": [
+    "Alterador 1 (Despacho Normativo n.º 28/83): nova redacção do n.º 6 (unidade 8) — prejudicada pela revogação total posterior.",
+    "Alterador 2 (Decreto-Lei n.º 411/98), artigo 32.º, n.º 1: revoga o Despacho Normativo n.º 171/82 por inteiro — registado em nao_aplicavel, sem mudanças.",
+    "Alterador 2, restantes artigos: não dirigidos ao original — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
