@@ -94,7 +94,7 @@
     {
       "chave": "24.º",
       "epigrafe": "Arquivamento de processos, livros e papéis",
-      "texto": "1 - Consideram-se findos para efeitos de arquivo:a) Os processos penais decorridos três meses após decisão que os mande arquivar ou aguardar a produção de melhor prova, o trânsito em julgado da decisão absolutória ou a extinção do procedimento criminal, da pena ou da medida de segurança;\n\nb) Os processos cíveis, decorridos três meses após o trânsito em julgado da respectiva sentença;\n\nc) Os processos em que se verifique a interrupção da instância;\n\n2 - Os processos judiciais, livros e papéis darão ingresso no arquivo do tribunal após a fiscalização do Ministério Público e a correição do juiz.",
+      "texto": "1 - Consideram-se findos para efeitos de arquivo:\n\na) Os processos penais decorridos três meses após decisão que os mande arquivar ou aguardar a produção de melhor prova, o trânsito em julgado da decisão absolutória ou a extinção do procedimento criminal, da pena ou da medida de segurança;\n\nb) Os processos cíveis, decorridos três meses após o trânsito em julgado da respectiva sentença;\n\nc) Os processos em que se verifique a interrupção da instância;\n\n2 - Os processos judiciais, livros e papéis darão ingresso no arquivo do tribunal após a fiscalização do Ministério Público e a correição do juiz.",
       "alterador": 1
     },
     {
@@ -381,20 +381,27 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1, art. 182.º-A: o texto atual não tem artigo 182.º-A (terá sido aditado pelo DL 167/89, não incluído), pelo que a epígrafe fica vazia e os n.os 4 e 5, '(Actual n.º 2.)' e '(Actual n.º 3.)', não podem ser resolvidos; ficaram com a marca literal do alterador. Alterador 1, art. 74.º: a nova redação remete para um n.º 3 ('3 - ...') que não existe no texto atual (só há n.os 1 e 2); devolvi os n.os 1 e 2. Alterador 1, art. 24.º: a nova redação do n.º 1 remete para alíneas d) e e) ('...') que não existem no texto atual (só a), b), c)); devolvi a), b) e a nova c). Alterador 1, art. 9.º: substitui o mapa I anexo ao DL 167/89 (outro diploma), ignorado. Alterador 4, art. 2.º: altera a epígrafe da secção IV do capítulo IV para 'Disponibilidade, licença e supranumerários' — os títulos de secção não constam do texto por artigos. Alterador 5 (Acórdão n.º 73/2002 do TC): declara a inconstitucionalidade com força obrigatória geral dos artigos 95.º e 107.º, alínea a), 'na parte em que' atribuem ao Conselho dos Oficiais de Justiça a competência para apreciar o mérito e exercer a acção disciplinar; não é alteração textual, não aplicada.",
+  "titulos": [
+    {
+      "atual": "#### SECÇÃO IV — Disponibilidade e licença ilimitada",
+      "novo": "#### SECÇÃO IV — Disponibilidade, licença e supranumerários",
+      "alterador": 4
+    }
+  ],
+  "nao_aplicavel": "Alterador 5 (Acórdão TC 73/2002): declaração de inconstitucionalidade dos arts. 95.º e 107.º, a), 'na parte em que' atribuem competência ao COJ — não é alteração textual, não aplicada. Alterador 1, art. 9.º: substituição do mapa I anexo (descrição de conteúdos funcionais) — anexo sem chave de artigo no texto atual, não aplicado. Alterador 1: o texto atual não reflete alterações intermédias (DL 167/89, 270/90, 378/91): no art. 24.º, n.º 1, as alíneas d) e e) mandadas manter ('...') não existem no texto atual e foram omitidas; no art. 74.º o n.º 3 mandado manter não existe e foi omitido; o art. 182.º-A não existe no texto atual (alterado pelo alterador 1 com números '(Actual n.º 2/3.)' desconhecidos) e foi devolvido apenas como revogado pelo alterador 6, sem epígrafe conhecida. Alterador 6, art. 3.º, n.º 3 (revogação genérica de disposições que contrariem) não aplicada ao texto.",
   "instrucoes": [
-    "Alt 1 (DL 364/93) art. 1.º: nova redação dos arts. 3.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 21.º, 23.º, 24.º, 33.º, 34.º, 35.º, 36.º, 39.º, 40.º, 43.º, 46.º, 48.º, 50.º, 55.º, 56.º, 57.º, 58.º, 59.º, 60.º, 62.º, 66.º, 68.º, 69.º, 71.º, 73.º, 74.º, 75.º, 78.º, 82.º, 84.º, 85.º, 86.º, 91.º, 96.º, 97.º, 99.º, 100.º, 105.º, 107.º, 108.º, 109.º, 130.º, 179.º, 181.º e 182.º-A: aplicada, resolvendo '...' e '(Actual n.º X.)' com o texto atual; 3.º, 40.º, 43.º, 46.º, 55.º, 68.º, 71.º, 82.º e 85.º foram depois sobrepostos pelos alteradores 3 e 4.",
-    "Alt 1 art. 1.º, art. 23.º: no texto atual o 23.º vinha colado dentro da chave 22.º ('Artigo 23.ºInutilização ou microfilmagem'); devolvi 22.º só com os seus n.os 1 e 2 e a nova redação do 23.º com a sua própria chave.",
-    "Alt 1 art. 2.º: aditados os arts. 49.º-A e 71.º-A: aplicado.",
-    "Alt 1 art. 4.º: revoga os arts. 42.º, 189.º e 204.º: já aplicado por um programa no texto atual, nada a devolver.",
-    "Alt 1 arts. 3.º, 5.º a 8.º e 10.º: normas declarativas e transitórias que não alteram o texto do original; ignoradas. Art. 9.º (mapa I anexo ao DL 167/89): outro diploma, ignorado.",
-    "Alt 2 (DL 167/94) art. 4.º: nova redação do art. 3.º: aplicada mas totalmente substituída pelo alterador 3 (Lei 44/96); restantes artigos do DL 167/94 não alteram o original.",
-    "Alt 3 (Lei 44/96) art. 4.º n.º 1: nova redação dos arts. 3.º, 82.º e 85.º: aplicada (versão final). Art. 4.º n.º 2: aditado o art. 7.º-A: aplicado. Arts. 1.º a 3.º e 5.º alteram outros diplomas (Lei 38/87, Lei 21/85, DL 214/88, DL 167/94): ignorados.",
-    "Alt 4 (DL 150/97) art. 1.º: nova redação dos arts. 40.º (n.º 1), 43.º (n.º 2), 44.º (n.º 2), 46.º (corpo único), 55.º (n.os 3 e 4), 61.º (n.º 2), 67.º (n.º 1), 68.º (n.º 6) e 71.º (epígrafe e n.º 6): aplicada sobre o texto resultante do alterador 1. Art. 2.º (epígrafe da secção IV do capítulo IV): sem artigo correspondente, ver nao_aplicavel. Art. 3.º: norma transitória, ignorada.",
-    "Alt 5 (Acórdão 73/2002): declaração de inconstitucionalidade parcial dos arts. 95.º e 107.º, a): não textual, ver nao_aplicavel.",
-    "Art. 2.º, alínea i), do Decreto-Lei n.º 229/2005: revoga o artigo 182.º-A do Decreto-Lei n.º 376/87 (acréscimo de tempo de serviço / limite de idade) — artigo 182.º-A passa a '(Revogado.)'.",
-    "Art. 3.º, n.º 3, do Decreto-Lei n.º 229/2005: revogação condicional ('todas as disposições legais que contrariem o disposto nos números anteriores') — não se aplica ao texto, ignorada.",
-    "Art. 5.º, n.º 2, alínea b) (regime transitório dos oficiais de justiça) e art. 6.º (salvaguarda de direitos): normas próprias do alterador, sem instrução textual dirigida ao original — nada a alterar."
+    "A1 art.1.º: nova redação dos arts. 3, 6-15, 21, 23, 24, 33-36, 39, 40, 43, 46, 48, 50, 55-60, 62, 66, 68, 69, 71, 73-75, 78, 82, 84-86, 91, 96, 97, 99, 100, 105, 107-109, 130, 179, 181 e 182.º-A; aplicada com '...' = texto atual e '(Actual n.º X)' = antigo número; arts. 3, 82, 85 depois substituídos por A3 e 40, 43, 46, 55, 68, 71 completados por A4.",
+    "A1 art.1.º/23.º: o art. 23.º vinha colado no corpo do 22.º; devolvi o 22.º sem esse texto e o 23.º com a nova redação (parágrafo único).",
+    "A1 art.2.º: aditados 49.º-A e 71.º-A.",
+    "A1 art.4.º: revoga 42.º, 189.º e 204.º — já revogados pelo programa, corretos, não devolvidos.",
+    "A1 arts. 3.º, 5.º-8.º, 10.º: normas transitórias/autónomas, não alteram o texto; art. 9.º substitui o mapa I (não aplicado).",
+    "A2 art.4.º: nova redação do art. 3.º, depois substituída pela do A3.",
+    "A2 arts. 1.º-3.º: turnos de magistrados, não alteram o original.",
+    "A3 art.4.º n.º1: nova redação dos arts. 3.º, 82.º e 85.º; n.º2: aditado o 7.º-A. Restantes artigos alteram outros diplomas (ignorados).",
+    "A4 art.1.º: nova redação dos arts. 40, 43, 44, 46, 55, 61, 67, 68, 71 (epígrafe 'Disponibilidade e licenças').",
+    "A4 art.2.º: nova epígrafe da secção IV do capítulo IV -> titulos.",
+    "A5: acórdão TC, declaração de inconstitucionalidade parcial, não textual (nao_aplicavel).",
+    "A6 art.2.º i): revoga o art. 182.º-A -> devolvido '(Revogado.)'."
   ],
   "modelo": "claude-fable-5-1",
   "pedido": "completo",
@@ -406,18 +413,11 @@
         2,
         3,
         4,
-        5
-      ],
-      "chars": 215312,
-      "artigos": 63
-    },
-    {
-      "n": 2,
-      "alteradores": [
+        5,
         6
       ],
-      "chars": 147741,
-      "artigos": 1
+      "chars": 243184,
+      "artigos": 63
     }
   ],
   "problemas": []

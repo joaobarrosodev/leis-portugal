@@ -34,6 +34,20 @@ Nos termos do disposto na alínea a) do n.º 1 do artigo 198.º da Constituiçã
 
 O Regulamento da Via Navegável do Douro entra em vigor 30 dias após a data da publicação do presente diploma.
 
+Visto e aprovado em Conselho de Ministros de 23 de Julho de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - Emanuel José Leandro Maranha das Neves - António Ricardo Rocha de Magalhães.
+
+Promulgado em 10 de Outubro de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 9 de Outubro de 1998.
+
+Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.
+
+REGULAMENTO DA VIA NAVEGÁVEL DO DOURO
+
 ### CAPÍTULO I — Disposições gerais
 
 ###### Artigo 1.º — Objecto
@@ -991,20 +1005,6 @@ Compete à Capitania do Porto do Douro e ao IND a fiscalização do cumprimento 
 2 - Nos processos relativos ao incumprimento das disposições constantes da
 
 secção IV do capítulo IV e do capítulo VII do presente Regulamento, as competências referidas no n.º 1 são exercidas pelo IND.
-
-Visto e aprovado em Conselho de Ministros de 23 de Julho de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - Emanuel José Leandro Maranha das Neves - António Ricardo Rocha de Magalhães.
-
-Promulgado em 10 de Outubro de 1998.
-
-Publique-se.
-
-O Presidente da República, JORGE SAMPAIO.
-
-Referendado em 9 de Outubro de 1998.
-
-Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.
-
-REGULAMENTO DA VIA NAVEGÁVEL DO DOURO
 
 ## ANEXO I — [(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/257a01/00020032.pdf)
 

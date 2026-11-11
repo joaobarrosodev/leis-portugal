@@ -46,6 +46,18 @@ O Governo Regional da Madeira, ao abrigo da alínea d) do n.º 1 do artigo 227.�
 
 > Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.
 
+Aprovado em Conselho do Governo Regional em 4 de Março de 2004.
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 17 de Março de 2004.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
+
+Orgânica da Direcção Regional para a Administração Pública de Porto Santo
+
 ### CAPÍTULO I — Natureza, atribuições e competências
 
 ###### Artigo 1.º — Natureza e atribuições
@@ -157,15 +169,3 @@ b) A Direcção de Serviços Administrativos e Financeiros (DSAF).
 (Revogado.)
 
 > Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.
-
-Aprovado em Conselho do Governo Regional em 4 de Março de 2004.
-
-O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
-
-Assinado em 17 de Março de 2004.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
-
-Orgânica da Direcção Regional para a Administração Pública de Porto Santo

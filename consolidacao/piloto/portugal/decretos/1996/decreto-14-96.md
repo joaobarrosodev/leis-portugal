@@ -26,6 +26,30 @@ Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo
 
 É aprovado o Protocolo anexo ao Acordo sobre Promoção e Protecção Mútua de Investimentos, assinado em Seul, a 3 de Maio de 1995, cujas versões autênticas nas línguas portuguesa e inglesa seguem em anexo.
 
+Visto e aprovado em Conselho de Ministros de 4 de Abril de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Augusto Carlos Serra Ventura Mateus.
+
+Assinado em 10 de Maio de 1996.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 13 de Maio de 1996.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA COREIA SOBRE A PROMOÇÃO E A PROTECÇÃO MÚTUA DE INVESTIMENTOS.
+
+O Governo da República Portuguesa e o Governo da República da Coreia, adiante designadas como Partes Contratantes:
+
+Animados do desejo de intensificar a cooperação económica entre os dois Estados;
+
+Tendo em vista o encorajamento e a criação das condições favoráveis para a realização de investimentos pelos investidores de uma Parte Contratante no território da outra Parte Contratante na base da igualdade e do benefício mútuos;
+
+Reconhecendo que a protecção e promoção mútua de investimentos nos termos deste Acordo contribuirá para estimular a iniciativa privada;
+
+acordam no seguinte:
+
 ###### Artigo 1.º — Definições
 
 Para os efeitos do presente Acordo:
@@ -409,27 +433,3 @@ For the Government of the Portuguese Republic:
 José Manuel Gervásio Leite.
 
 > Alterado pelo/a [Declaração de Rectificação n.º 14-A/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-a-1996-147846), publicado em 1996-09-30.
-
-Visto e aprovado em Conselho de Ministros de 4 de Abril de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Augusto Carlos Serra Ventura Mateus.
-
-Assinado em 10 de Maio de 1996.
-
-Publique-se.
-
-O Presidente da República, JORGE SAMPAIO.
-
-Referendado em 13 de Maio de 1996.
-
-O Primeiro-Ministro, António Manuel de Oliveira Guterres.
-
-ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA COREIA SOBRE A PROMOÇÃO E A PROTECÇÃO MÚTUA DE INVESTIMENTOS.
-
-O Governo da República Portuguesa e o Governo da República da Coreia, adiante designadas como Partes Contratantes:
-
-Animados do desejo de intensificar a cooperação económica entre os dois Estados;
-
-Tendo em vista o encorajamento e a criação das condições favoráveis para a realização de investimentos pelos investidores de uma Parte Contratante no território da outra Parte Contratante na base da igualdade e do benefício mútuos;
-
-Reconhecendo que a protecção e promoção mútua de investimentos nos termos deste Acordo contribuirá para estimular a iniciativa privada;
-
-acordam no seguinte:

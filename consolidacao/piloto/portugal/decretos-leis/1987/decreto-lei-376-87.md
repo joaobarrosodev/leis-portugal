@@ -503,7 +503,9 @@ Ponderadas a sua antiguidade e espécies, e atenta a falta de espaço nos arquiv
 
 ###### Artigo 24.º — Arquivamento de processos, livros e papéis
 
-1 - Consideram-se findos para efeitos de arquivo:a) Os processos penais decorridos três meses após decisão que os mande arquivar ou aguardar a produção de melhor prova, o trânsito em julgado da decisão absolutória ou a extinção do procedimento criminal, da pena ou da medida de segurança;
+1 - Consideram-se findos para efeitos de arquivo:
+
+a) Os processos penais decorridos três meses após decisão que os mande arquivar ou aguardar a produção de melhor prova, o trânsito em julgado da decisão absolutória ou a extinção do procedimento criminal, da pena ou da medida de segurança;
 
 b) Os processos cíveis, decorridos três meses após o trânsito em julgado da respectiva sentença;
 
@@ -1019,7 +1021,7 @@ b) No dia em que lhes for comunicado o despacho do seu desligamento do serviço;
 
 c) No dia imediato àquele em que chegar à comarca ou lugar onde servem o Diário da República com a publicação da nova situação.
 
-#### SECÇÃO IV — Disponibilidade e licença ilimitada
+#### SECÇÃO IV — Disponibilidade, licença e supranumerários
 
 ###### Artigo 71.º — Disponibilidade e licenças
 

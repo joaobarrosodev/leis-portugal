@@ -183,6 +183,7 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": "Alterador 5 (DL 320-B/2000), art. 2.º e anexo: a tabela das taxas de justiça inicial e subsequente a que se referem os artigos 23.º e 25.º só vem em imagem (ligação ao PDF), não há texto a copiar. Alterador 5, art. 3.º n.º 2: a revogação dos artigos 125.º a 130.º, 132.º a 139.º, 141.º, 143.º e 145.º fica dependente da entrada em vigor de portaria futura do Ministro da Justiça (procedimentos do sistema de gestão e controlo das receitas e despesas), facto que não consta do pedido; não a apliquei. Alterador 5, art. 3.º n.º 3: a revogação do n.º 3 do artigo 43.º fica dependente da aprovação por portaria da tabela de preparos para despesas, facto que não consta do pedido; não a apliquei (o n.º 3 do 43.º mantém-se). Alterador 6 (DL 323/2001), art. 32.º do anexo: as novas tabelas (a do artigo 13.º e a dos artigos 23.º e 25.º) só vêm em imagem (ligação ao PDF); a frase solta «Para além de (euro) 49879,79: por cada (euro) 4987,98 de valor da acção ou fracção - (euro) 49,88 de taxa de justiça.» pertence a essa tabela e não há unidade textual no texto atual onde a inserir; apliquei só o artigo 27.º. | Não apliquei as novas redacções dos artigos 124.º, 131.º e 142.º (alterador 8, art. 94.º, quanto ao 131.º; alterador 9, art. 134.º n.os 1 e 2, quanto aos três): essas instruções pressupõem a redacção dada pelo Decreto-Lei n.º 324/2003 e referem-se a unidades que não existem no texto atual (que é a redacção anterior): no 124.º os n.os 5 a 7 ('...'), quando o texto atual só tem n.os 1 a 4; no 131.º a alínea g) do n.º 1, as alíneas a) a d) do n.º 3 e os n.os 4 a 8 ('...' ou revogados), quando o texto atual tem n.º 1 a) a f) e n.os 1 a 3 sem alíneas no n.º 3; no 142.º o n.º 4 ('...'), quando o texto atual só tem n.os 1 a 3. Sem o texto dessas unidades a redacção resultante não se pode reconstruir com segurança. Alterador 11 (Acórdão TC n.º 375/2008): declara a inconstitucionalidade do n.º 2 do artigo 13.º numa certa interpretação, na redacção do DL 324/2003; não é alteração textual e o n.º 2 do 13.º no texto atual é a redacção de 1996, por isso não alterei nada. Alterador 12 (Lei n.º 42/2016, art. 148.º): só se refere ao n.º 8 do artigo 124.º para ordenar transferências de depósitos; não altera o texto. Alterador 10 (DL 116/2008): sem artigos no pedido. Artigos 22.º e 135.º do alterador 9: regime transitório e produção de efeitos, sem alteração textual.",
   "instrucoes": [
     "Alterador 1 (DL 91/97) art. 1.º: nova redação do 131.º (alínea a) do n.º 1 e n.º 3). O texto atual já traz esta redação (assinalado como alterado por um programa); fica superada pelo alterador 3.",
@@ -233,7 +234,5 @@
       "artigos": 4
     }
   ],
-  "problemas": [
-    "passagem 1: 32.º: parágrafo que não está no alterador nem no original: g) O reembolso à parte vencedora a título de custas de parte e de procuradoria;"
-  ]
+  "problemas": []
 }

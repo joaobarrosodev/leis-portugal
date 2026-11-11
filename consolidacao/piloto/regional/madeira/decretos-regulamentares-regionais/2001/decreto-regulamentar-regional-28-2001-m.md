@@ -34,6 +34,18 @@ O Governo Regional da Região Autónoma da Madeira decreta, nos termos da alíne
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
+Aprovado em Conselho do Governo Regional em 30 de Agosto de 2001.
+
+O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.
+
+Assinado em 20 de Setembro de 2001.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
+
+Orgânica da Direcção Regional de Educação Especial e Reabilitação
+
 ### CAPÍTULO I — Natureza e atribuições
 
 ###### Artigo 1.º — Natureza
@@ -667,18 +679,6 @@ d) A relação entre cozinheiros principais e cozinheiros será de um para quatr
 ###### Artigo 30.º — Dirigentes
 
 O recrutamento para os cargos de chefe de divisão da DREER pode ser feito de entre funcionários integrados em carreiras específicas do respectivo serviço, ainda que não possuidores de curso superior.
-
-Aprovado em Conselho do Governo Regional em 30 de Agosto de 2001.
-
-O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.
-
-Assinado em 20 de Setembro de 2001.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
-
-Orgânica da Direcção Regional de Educação Especial e Reabilitação
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 24.º)
 

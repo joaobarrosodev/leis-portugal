@@ -27,6 +27,14 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 É aprovado o Estatuto do Cofre de Previdência das Forças Armadas, que faz parte integrante do presente diploma e vai assinado pelo Ministro da Defesa Nacional.
 
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 26 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.
+
+Estatuto do Cofre de Previdência das Forças Armadas
+
 ### CAPÍTULO I — Da natureza e fins
 
 ###### Artigo 1.º
@@ -600,11 +608,3 @@ Reverterão para o Cofre os subsídios que não puderem ser pagos por carência 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
-
-Publique-se e cumpra-se como nele se contém.
-
-Paços do Governo da República, 26 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
-
-Para ser presente à Assembleia Nacional.
-
-Estatuto do Cofre de Previdência das Forças Armadas

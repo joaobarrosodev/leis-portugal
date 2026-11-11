@@ -129,7 +129,21 @@ class Corpo:
         return [s for s in self.segmentos if isinstance(s, Artigo)]
 
     def artigo(self, parte: str, numero: str) -> Artigo | None:
-        return next((a for a in self.artigos if a.parte == parte and a.numero == numero), None)
+        """O artigo com esta chave. Quando a chave se repete na mesma parte (o decreto que aprova
+        e o regulamento que vem a seguir sem título de anexo), "4.º#2" é a segunda ocorrência."""
+        numero, _, ordem = numero.partition("#")
+        iguais = [a for a in self.artigos if a.parte == parte and a.numero == numero]
+        k = int(ordem) if ordem.isdigit() else 1
+        return iguais[k - 1] if 0 < k <= len(iguais) else None
+
+    def chaves_unicas(self) -> dict[int, str]:
+        """A chave de cada artigo (por `id`) com "#k" a partir da segunda ocorrência."""
+        vistos: dict[str, int] = {}
+        chaves = {}
+        for a in self.artigos:
+            vistos[a.chave] = vistos.get(a.chave, 0) + 1
+            chaves[id(a)] = a.chave if vistos[a.chave] == 1 else f"{a.chave}#{vistos[a.chave]}"
+        return chaves
 
     def partes(self) -> list[str]:
         return list(dict.fromkeys(a.parte for a in self.artigos))

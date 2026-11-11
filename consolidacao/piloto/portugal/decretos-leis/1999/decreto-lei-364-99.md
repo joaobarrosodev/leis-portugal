@@ -182,6 +182,20 @@ No prazo de 15 dias contados do termo de cada uma das fases de privatização, a
 
 O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
+Visto e aprovado em Conselho de Ministros de 22 de Julho de 1999. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Vítor Manuel Sampaio Caetano Ramalho.
+
+Promulgado em 30 de Agosto de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 2 de Setembro de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+CADERNO DE ENCARGOS
+
 ### CAPÍTULO I — Disposições gerais
 
 ###### Artigo 1.º — Objecto do concurso
@@ -749,20 +763,6 @@ Os concorrentes excluídos e preteridos no concurso não têm direito, por esse 
 ###### Artigo 50.º — Suspensão ou anulação do concurso
 
 O Estado reserva o direito de, em qualquer momento e até à decisão final, suspender ou anular o processo de alienação das acções objecto deste concurso, desde que razões de interesse público ou social o justifiquem.
-
-Visto e aprovado em Conselho de Ministros de 22 de Julho de 1999. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Vítor Manuel Sampaio Caetano Ramalho.
-
-Promulgado em 30 de Agosto de 1999.
-
-Publique-se.
-
-O Presidente da República, JORGE SAMPAIO.
-
-Referendado em 2 de Setembro de 1999.
-
-O Primeiro-Ministro, António Manuel de Oliveira Guterres.
-
-CADERNO DE ENCARGOS
 
 ## ANEXO I — Modelo de carta para oferta de compra de acções
 

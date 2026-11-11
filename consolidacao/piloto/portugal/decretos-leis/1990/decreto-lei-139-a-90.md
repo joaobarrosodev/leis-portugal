@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:522638:por
-    title: Decreto-Lei n.º 15/2007
-    publication_date: '2007-01-19'
   - id: pt:dre:335228:por
     title: Decreto-Lei n.º 75/2010
     publication_date: '2010-06-23'
+  - id: pt:dre:522638:por
+    title: Decreto-Lei n.º 15/2007
+    publication_date: '2007-01-19'
   - id: pt:dre:224179:por
     title: Decreto-Lei n.º 1/98
     publication_date: '1998-01-02'
@@ -100,6 +100,94 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
+###### Artigo 1.º — Objecto
+
+É aprovado o Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, o qual faz parte integrante do presente diploma.
+
+###### Artigo 2.º — Definição de conceitos
+
+Para efeitos do disposto no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, entende-se por:
+
+a) Sistema educativo - conjunto de meios pelo qual se concretiza o direito à educação;
+
+b) Docentes - educadores de infância, professores dos 1.º, 2.º e 3.º ciclos do ensino básico e professores do ensino secundário profissionalizados ou a aguardar profissionalização;
+
+c) Certificação - reconhecimento da adequação da qualificação profissional dos candidatos à docência e às necessidades curriculares de determinado nível de educação e ensino, bem como da existência dos requisitos para o exercício de funções ou cargos educativos;
+
+d) Educadores de infância - docentes certificados para a docência na educação pré-escolar;
+
+e) Professores - docentes certificados para a docência nos ensinos básico e secundário;
+
+f) Educação pré-escolar - educação não escolar precedendo o ensino básico;
+
+g) Níveis de ensino - ensino básico e ensino secundário;
+
+h) Graus de ensino - ciclos em que se encontram organizados os níveis de ensino;
+
+i) Educação e ensino especial - modalidade de educação e ensino que visa o acompanhamento e complemento pedagógico de alunos com necessidades educativas e escolares especiais;
+
+j) Educação extra-escolar - educação não escolar, complementar ou substituta da formação escolar, que pode ser realizada em estruturas de extensão cultural do sistema escolar ou noutras, designadamente autarquias e associações culturais e recreativas;
+
+l) Grupo de docência - estrutura que corresponde a uma habilitação específica para leccionar, nos 2.º e 3.º ciclos do ensino básico, uma área disciplinar e, no ensino secundário, uma disciplina;
+
+m) Escola - estabelecimento de educação ou de ensino;
+
+n) Estabelecimentos de educação ou de ensino - estabelecimentos de educação pré-escolar, estabelecimentos de ensino básico e estabelecimentos de ensino secundário;
+
+o) Órgão de administração e gestão - órgão responsável pela administração e gestão de cada estabelecimento ou grupo de estabelecimentos de educação ou de ensino, nos termos do disposto no artigo 45.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro;
+
+p) Estruturas pedagógicas - estruturas de apoio de cada estabelecimento ou grupo de estabelecimentos de educação ou de ensino, nos termos da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, que aprova as bases do sistema educativo;
+
+q) Ano escolar - o período compreendido entre 1 de Setembro de cada ano e 31 de Agosto do ano seguinte;
+
+r) Ano lectivo - o período compreendido entre o início e o termo das actividades lectivas.
+
+###### Artigo 3.º — Docentes em profissionalização em exercício
+
+1 - O ingresso na carreira dos docentes referidos no artigo 16.º do [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro, efectua-se nos termos previstos no n.º 4 do artigo 7.º do mesmo diploma, com respeito pelas regras de transição aplicadas aos docentes integrados no nível de qualificação 1 do mapa anexo ao [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, com igual tempo de serviço docente ou equiparado.
+
+2 - Os índices atribuídos à pré-carreira pelo anexo IV do [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro, são aplicáveis apenas aos docentes em exercício de funções à data da entrada em vigor do mesmo diploma.
+
+3 - Consoante os docentes tenham grau de licenciado ou de bacharel, à situação de pré-carreira correspondem, respectivamente, os índices 112 e 84, em 1990, os índices 122 e 86, em 1991, e os índices 130 e 90, em 1992.
+
+4 - O disposto nos n.os 1 e 2 tem natureza interpretativa.
+
+###### Artigo 4º — Ex-regentes escolares
+
+1 - Os ex-regentes escolares habilitados com o curso especial previsto no [Decreto-Lei n.º 111/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1976-506643), de 7 de Fevereiro, que se encontravam no nível de qualificação 4 constante do mapa anexo ao [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, transitam para a nova estrutura da carreira docente, nos termos do disposto no artigo 14.º do [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro, nos escalões para que transitaram os educadores de infância e os professores do ensino primário com igual tempo de serviço.
+
+2 - O disposto no número anterior tem natureza interpretativa.
+
+###### Artigo 5.º — Aplicação às regiões autónomas
+
+A aplicação do presente diploma, bem como do Estatuto por ele aprovado, às Regiões Autónomas dos Açores e da Madeira não prejudica as competências dos respectivos órgãos de governo próprio.
+
+###### Artigo 6.º — Prevalência
+
+1 - O disposto no Estatuto aprovado pelo presente diploma prevalece sobre quaisquer normas, gerais ou especiais.
+
+2 - Ficam desde já revogados o [Decreto n.º 36508](https://diariodarepublica.pt/dr/detalhe/decreto/36508-1947-637472), de 17 de Setembro de 1947, o [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, o [Decreto n.º 48572](https://diariodarepublica.pt/dr/detalhe/decreto/48572-1968-508641), de 9 de Setembro de 1968, o Decreto-Lei n.º 559/70, de 16 de Novembro, o Decreto-Lei n.º 800/76, de 6 de Novembro, o [Decreto-Lei n.º 266/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1977-250429), de 1 de Julho, o [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, o [Decreto Regulamentar n.º 89/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/89-1977-404487), de 31 de Dezembro, o [Decreto Regulamentar n.º 18/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1978-298232), de 1 de Julho, o [Decreto-Lei n.º 170/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1978-298028), de 6 de Julho, o [Decreto-Lei n.º 287/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1979-377755), de 13 de Agosto, o [Decreto-Lei n.º 422/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1979-364732), de 22 de Outubro, o [Decreto-Lei n.º 221/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1980-471930), de 11 de Julho, o [Decreto-Lei n.º 330/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1980-469782), de 27 de Agosto, o [Decreto-Lei n.º 300/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1981-569131), de 5 de Novembro, o [Decreto-Lei n.º 135/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1982-606560), de 23 de Abril, o [Decreto-Lei n.º 235-C/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-c-1983-245344), de 1 de Junho, o [Decreto-Lei n.º 287/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1985-183222), de 22 de Julho, o [Decreto-Lei n.º 31/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1987-663489), de 15 de Janeiro, o [Decreto-Lei n.º 400/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1987-406111), de 31 de Dezembro, e a [Lei n.º 103/88](https://diariodarepublica.pt/dr/detalhe/lei/103-1988-379751), de 27 de Agosto.
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente diploma entra em vigor no primeiro dia útil do mês seguinte ao da respectiva publicação.
+
+Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Roberto Artur do Luz Carneiro - Arlindo Gomes de Carvalho.
+
+Promulgado em 23 de Abril de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 23 de Abril de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+ESTATUTO DA CARREIRA DE EDUCADORES DE INFÂNCIA E DOS PROFESSORES DOS ENSINOS BÁSICO E SECUNDÁRIO
+
+### CAPÍTULO I — Princípios gerais
+
 ###### Artigo 1.º — Âmbito de aplicação
 
 1 - O Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, adiante designado por Estatuto, aplica-se aos docentes, qualquer que seja o nível, ciclo de ensino, grupo de recrutamento ou área de formação, que exerçam funções nas diversas modalidades do sistema de educação e ensino não superior, e no âmbito dos estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário na dependência do Ministério da Educação.
@@ -116,15 +204,11 @@ Para efeitos da aplicação do presente Estatuto, considera-se pessoal docente a
 
 > Alterado pelo/a [Lei n.º 16/2016](https://diariodarepublica.pt/dr/detalhe/lei/16-2016-74717230), publicado em 2016-06-17.
 
-###### Artigo 3.º — Docentes em profissionalização em exercício
+###### Artigo 3.º — Princípios fundamentais
 
-1 - O ingresso na carreira dos docentes referidos no artigo 16.º do [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro, efectua-se nos termos previstos no n.º 4 do artigo 7.º do mesmo diploma, com respeito pelas regras de transição aplicadas aos docentes integrados no nível de qualificação 1 do mapa anexo ao [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, com igual tempo de serviço docente ou equiparado.
+A actividade do pessoal docente desenvolve-se de acordo com os princípios fundamentais consagrados na Constituição da República Portuguesa e no quadro dos princípios gerais e específicos constantes dos artigos 2.º e 3.º da Lei de Bases do Sistema Educativo.
 
-2 - Os índices atribuídos à pré-carreira pelo anexo IV do [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro, são aplicáveis apenas aos docentes em exercício de funções à data da entrada em vigor do mesmo diploma.
-
-3 - Consoante os docentes tenham grau de licenciado ou de bacharel, à situação de pré-carreira correspondem, respectivamente, os índices 112 e 84, em 1990, os índices 122 e 86, em 1991, e os índices 130 e 90, em 1992.
-
-4 - O disposto nos n.os 1 e 2 tem natureza interpretativa.
+### CAPÍTULO II — Direitos e deveres
 
 ###### Artigo 4.º — Direitos profissionais
 
@@ -179,72 +263,6 @@ b) Pelo apoio à autoformação dos docentes, de acordo com os respectivos plano
 2 - Para efeitos do disposto no número anterior, o direito à formação e informação para o exercício da função educativa pode também visar objectivos de reconversão profissional, bem como de mobilidade e progressão na carreira.
 
 > Alterado pelo/a [Decreto-Lei n.º 1/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1998-224179), publicado em 1998-01-02.
-
-###### Artigo 7.º — Entrada em vigor
-
-O presente diploma entra em vigor no primeiro dia útil do mês seguinte ao da respectiva publicação.
-
-### CAPÍTULO I — Princípios gerais
-
-###### Artigo 1.º — Âmbito de aplicação
-
-1 - O Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, adiante designado Estatuto, aplica-se aos docentes em exercício efectivo de funções nos estabelecimentos de educação ou de ensino públicos.
-
-2 - O disposto neste Estatuto é ainda aplicável aos docentes que exerçam fuções no âmbito da educação extra-escolar, bem como aos que se encontrem em situações legalmente equiparadas ao exercício de funções docentes.
-
-3 - O presente Estatuto será aplicado, com as necessárias adaptações, aos docentes em exercício efectivo de funções em estabelecimentos ou instituições de ensino dependentes ou sob tutela de outros ministérios, bem como aos educadores de infância integrados no quadro único dos serviços centrais e regionais do Ministério da Educação.
-
-4 - Os professores de Português no estrangeiro, bem como os docentes que se encontrem a prestar serviço no território de Macau ou em regime de cooperação nos países africanos de língua oficial portuguesa ou em outros, regem-se por normas próprias.
-
-###### Artigo 2.º — Pessoal docente
-
-1 - Para efeitos de aplicação do presente Estatuto considera-se pessoal docente aquele que é portador de qualificação profissional, certificada pelo Ministério da Educação, para o desempenho de funções de educação ou de ensino com carácter permanente, sequencial e sistemático.
-
-2 - Consideram-se ainda pessoal docente, nos termos do disposto no n.º 3 do artigo 31.º da Lei de Bases do Sistema Educativo, os docentes do 3.º ciclo do ensino básico e do ensino secundário portadores dos requisitos exigidos para o acesso à profissionalização em exercício ou que dela tenham sido dispensados nos termos legais.
-
-3 - O disposto no número anterior é extensivo aos docentes do 2.º ciclo do ensino básico nas condições naquele previstas, enquanto a satisfação das necessidades do sistema educativo o exigir.
-
-###### Artigo 3.º — Princípios fundamentais
-
-A actividade do pessoal docente desenvolve-se de acordo com os princípios fundamentais consagrados na Constituição da República Portuguesa e no quadro dos princípios gerais e específicos constantes dos artigos 2.º e 3.º da Lei de Bases do Sistema Educativo.
-
-### CAPÍTULO II — Direitos e deveres
-
-###### Artigo 4.º — Direitos profissionais
-
-1 - São garantidos ao pessoal docente os direitos estabelecidos para os funcionários e agentes do Estado em geral, bem como os direitos profissionais decorrentes do presente Estatuto.
-
-2 - São direitos profissionais específicos do pessoal docente:
-
-a) Direito de participação no processo educativo;
-
-b) Direito à formação e informação para o exercício da função educativa;
-
-c) Direito ao apoio técnico, material e documental;
-
-d) Direito à segurança na actividade profissional.
-
-###### Artigo 5.º — Direito de participação no processo educativo
-
-1 - O direito de participação exerce-se nas áreas do sistema de ensino, da escola, da aula e da relação escola-meio.
-
-2 - O direito de participação que, consoante os casos, é exercido individualmente, em grupo ou através das organizações profissionais ou sindicais do pessoal docente, compreende:
-
-a) O direito de responder a consultas sobre opções fundamentais para o sector educativo;
-
-b) O direito de emitir recomendações no âmbito da análise crítica do sistema educativo;
-
-c) O direito de intervir na orientação pedagógica através da liberdade de iniciativa, a exercer no quadro dos planos de estudo aprovados e dos projectos educativos das escolas, na escolha dos métodos de ensino, das tecnologias e técnicas de educação e dos tipos de meios auxiliares de ensino mais adequados;
-
-d) O direito de participar em experiências pedagógicas;
-
-e) O direito de eleger e ser eleito para e em órgãos colegiais dos estabelecimentos de educação ou de ensino.
-
-3 - O direito de participação pode ainda ser exercido, através das organizações profissionais e sindicais do pessoal docente, em órgãos que, no âmbito nacional, regional autónomo ou regional, assegurem a interligação do sistema educativo à comunidade.
-
-###### Artigo 6.º — Direito à formação e informação para o exercício da função educativa
-
-O direito à formação e informação para o exercício da função educativa é garantido pelo acesso a acções de formação contínua regulares, destinadas a actualizar e aprofundar os conhecimentos e as competências profissionais dos docentes, e ainda pelo apoio à autoformação, podendo também visar objectivos de reconversão profissional, bem como de mobilidade e progressão na carreira.
 
 ###### Artigo 7.º — Direito ao apoio técnico, material e documental
 
@@ -412,7 +430,7 @@ A formação especializada visa a qualificação dos docentes para o desempenho 
 
 > Alterado pelo/a [Decreto-Lei n.º 270/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2009-491219), publicado em 2009-09-30.
 
-### CAPÍTULO IV — Recrutamento e selecção
+### CAPÍTULO IV — Recrutamento e selecção para lugar do quadro
 
 ###### Artigo 17.º — Princípios gerais
 
@@ -500,7 +518,7 @@ A regulamentação dos concursos previstos no presente Estatuto é objecto de de
 
 > Alterado pelo/a [Decreto-Lei n.º 75/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2010-335228), publicado em 2010-06-23.
 
-### CAPÍTULO V — Quadros
+### CAPÍTULO V — Quadros de pessoal docente
 
 ###### Artigo 25.º — Estrutura
 
@@ -710,6 +728,10 @@ o) Desempenhar as actividades de coordenação administrativa e pedagógica que 
 
 7 - As funções previstas no n.º 4 são atribuídas prioritariamente aos docentes referidos no número anterior.
 
+SUBCAPÍTULO II
+
+Condições de progressão e acesso na carreira
+
 > Alterado pelo/a [Decreto-Lei n.º 75/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2010-335228), publicado em 2010-06-23.
 
 ###### Artigo 36.º — Ingresso
@@ -721,8 +743,6 @@ o) Desempenhar as actividades de coordenação administrativa e pedagógica que 
 3 - O ingresso na carreira dos docentes portadores de habilitação profissional adequada faz-se no escalão correspondente ao tempo de serviço prestado em funções docentes e classificado com a menção qualitativa mínima de Bom, independentemente do título jurídico da relação de trabalho subordinado, de acordo com os critérios gerais de progressão, em termos a definir por portaria do membro do Governo responsável pela área da educação.
 
 > Alterado pelo/a [Decreto-Lei n.º 75/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2010-335228), publicado em 2010-06-23.
-
-#### SECÇÃO I — Tempo de serviço efectivo em funções docentes
 
 ###### Artigo 37.º — Progressão
 
@@ -765,8 +785,6 @@ b) A progressão aos 5.º e 7.º escalões opera-se na data em que o docente obt
 É equiparado a serviço efectivo em funções docentes todo aquele que for prestado pelo pessoal docente em cargo ou função cujo regime legal preveja a salvaguarda na carreira de origem do direito à contagem do tempo de serviço prestado.
 
 > Alterado pelo/a [Decreto-Lei n.º 75/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2010-335228), publicado em 2010-06-23.
-
-#### SECÇÃO II — Avaliação do desempenho
 
 ###### Artigo 39.º — Exercício de funções não docentes
 
@@ -829,8 +847,6 @@ a) Na falta da avaliação do desempenho prevista na alínea a) do n.º 6;
 b) Tendo sido atribuída a avaliação do desempenho prevista na alínea a) do n.º 6, pretendam a sua alteração.
 
 > Alterado pelo/a [Decreto-Lei n.º 75/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2010-335228), publicado em 2010-06-23.
-
-##### SUBSECÇÃO I — Avaliação ordinária
 
 ###### Artigo 41.º — Relevância
 
@@ -970,8 +986,6 @@ e) Insuficiente - de 1 a 4,9 valores.
 
 > Alterado pelo/a [Decreto-Lei n.º 75/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2010-335228), publicado em 2010-06-23.
 
-##### SUBSECÇÃO II — Avaliação extraordinária
-
 ###### Artigo 47.º — Reclamação e recurso
 
 1 - Atribuída a avaliação final, esta é dada a conhecer ao avaliado, que dela pode apresentar reclamação escrita no prazo de 10 dias úteis.
@@ -1052,8 +1066,6 @@ d) A impossibilidade de nova candidatura, a qualquer título, à docência, no m
 
 > Revogado pelo/a [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.
 
-#### SECÇÃO III — Aquisição de outras habilitações e capacitações
-
 ###### Artigo 54.º — Aquisição de outras habilitações
 
 1 - A aquisição por docentes profissionalizados, integrados na carreira, do grau académico de mestre em domínio directamente relacionado com a área científica que leccionem ou em Ciências da Educação confere direito à redução de um ano no tempo de serviço legalmente exigido para a progressão ao escalão seguinte, desde que, em qualquer caso, na avaliação do desempenho docente lhes tenha sido sempre atribuída menção qualitativa igual ou superior a Bom.
@@ -1116,6 +1128,10 @@ j) Inspecção da Educação.
 
 4 - (Revogado.)
 
+SUBCAPÍTULO II
+
+Intercomunicabilidade
+
 > Alterado pelo/a [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.
 
 ###### Artigo 58.º — Intercomunicabilidade com carreiras do regime geral
@@ -1124,7 +1140,7 @@ j) Inspecção da Educação.
 
 > Revogado pelo/a [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.
 
-### CAPÍTULO VIII — Remunerações
+### CAPÍTULO VIII — Remunerações e outras prestações pecuniárias
 
 ###### Artigo 59.º — Índices remuneratórios
 
@@ -1319,6 +1335,10 @@ A comissão de serviço destina-se ao exercício de funções dirigentes na Admi
 3 - (Revogado.)
 
 4 - A mudança de nível, ciclo ou grupo de recrutamento não implica por si alterações na situação jurídico-funcional já detida, contando-se, para todos os efeitos, o tempo de serviço já prestado na carreira.
+
+SUBCAPÍTULO II
+
+Exercício de funções docentes por outros funcionários
 
 > Alterado pelo/a [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.
 
@@ -1542,6 +1562,10 @@ c) Através da organização de actividades de enriquecimento e complemento curr
 
 Sem prejuízo do disposto no n.º 1 do artigo 79.º, o pessoal docente dos 2.º e 3.º ciclos do ensino básico e do ensino secundário pode exercer funções em regime de tempo parcial, nos termos previstos para os demais funcionários e agentes da Administração Pública.
 
+SUBCAPÍTULO III
+
+Férias, faltas e licenças
+
 > Alterado pelo/a [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.
 
 ###### Artigo 86.º — Regime geral
@@ -1588,7 +1612,7 @@ As férias respeitantes a determinado ano podem, por conveniência de serviço o
 
 Durante o gozo do período de férias o pessoal docente não deve ser convocado para a realização de quaisquer tarefas.
 
-#### SECÇÃO II — Interrupção da actividade docente
+#### SECÇÃO II — Interrupção da actividade lectiva
 
 ###### Artigo 91.º — Interrupção da actividade
 
@@ -2054,12 +2078,6 @@ Em tudo o que não esteja especialmente regulado e não contrarie o disposto no 
 
 > Revogado pelo/a [Decreto-Lei n.º 1/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1998-224179), publicado em 1998-01-02.
 
-###### Artigo 141.º — Situações excepcionais
-
-1 - Os docentes da educação pré-escolar e do 1.º ciclo do ensino básico, em regime de monodocência, que, à data da transição para a nova estrutura de carreira, possuíssem 14 ou mais anos de serviço docente têm direito a aposentarem-se com pensão por inteiro com 32 anos de serviço docente e pelo menos 52 anos de idade.
-
-2 - Na contagem do tempo de serviço para efeitos de aposentação, previsto no número anterior, não são considerados os períodos referidos nos n.os 1 e 2 do artigo 37.º do presente Estatuto.
-
 ###### Artigo 144.º — Período probatório dos docentes contratados
 
 (Revogado.)
@@ -2100,20 +2118,6 @@ Em tudo o que não esteja especialmente regulado e não contrarie o disposto no 
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 1/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1998-224179), publicado em 1998-01-02.
+> Alterado pelo/a [Decreto-Lei n.º 1/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1998-224179), publicado em 1998-01-02.
 
 O Ministro da Educação, Roberto Artur da Luz Carneiro.
-
-Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Roberto Artur do Luz Carneiro - Arlindo Gomes de Carvalho.
-
-Promulgado em 23 de Abril de 1990.
-
-Publique-se.
-
-O Presidente da República, MÁRIO SOARES.
-
-Referendado em 23 de Abril de 1990.
-
-O Primeiro-Ministro, Aníbal António Cavaco Silva.
-
-ESTATUTO DA CARREIRA DE EDUCADORES DE INFÂNCIA E DOS PROFESSORES DOS ENSINOS BÁSICO E SECUNDÁRIO

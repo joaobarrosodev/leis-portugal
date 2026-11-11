@@ -4,32 +4,32 @@
     {
       "chave": "2.º",
       "epigrafe": "(Regime jurídico)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "O INPP rege-se pelo presente diploma e pelos estatutos e regulamentos que o completam, designadamente o Estatuto do Pessoal, o Estatuto Disciplinar e o Regulamento de Prestação de Serviços e Taxas, os quais são publicados em anexo a este diploma, dele fazendo parte integrante.",
+      "alterador": 2
     },
     {
       "chave": "3.º",
       "epigrafe": "(Objectivos)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "1 - O INPP tem por objectivo assegurar a eficiência do serviço público de pilotagem nas barras, portos, rios, terminais ou bóias de amarração, na orla marítima sob jurisdição nacional, considerados lugares susceptíveis de realização de operações comerciais.\n\n2 - Além dos serviços referidos no número anterior, poderá o INPP exercer quaisquer outras actividades complementares ou subsidiárias que a índole do serviço imponha ou a experiência e o progresso técnico aconselhem.\n\n3 - O INPP deverá ainda colaborar com as entidades ligadas à exploração, segurança e defesa dos portos.",
+      "alterador": 2
     },
     {
       "chave": "6.º",
       "epigrafe": "(Competência)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "No âmbito das atribuições referidas no artigo 4.º, compete ao INPP:\n\na) Elaborar e propor para homologação pelo Governo a regulamentação e medidas relativas aos serviços de pilotagem;\n\nb) Propor ou apreciar as iniciativas legislativas e regulamentares relativas aos serviços de pilotagem, em colaboração com todas as entidades interessadas;\n\nc) Dar parecer sobre estudos, experiências ou realizações de carácter técnico da iniciativa de outros organismos que por algum modo possam interferir nos serviços de pilotagem;\n\nd) Planear e instalar os departamentos de pilotagem nos locais julgados convenientes e assegurar o seu funcionamento;\n\ne) Executar estudos nos domínios da pilotagem, por forma a dar satisfação às necessidades nacionais e aos compromissos internacionais e contribuir para o desenvolvimento técnico naqueles domínios;\n\nf) Recrutar o seu pessoal e promover a sua instrução;\n\ng) Assegurar a unidade de orientação e de métodos de trabalho nos domínios da pilotagem, no território nacional, elaborando instruções, fixando terminologia e estabelecendo normas;\n\nh) Promover a realização de reuniões em que participem utilizadores e ou representantes de outros serviços públicos com vista a aumentar a eficiência do serviço;\n\ni) Assegurar a representação oficial do sector de pilotagem em todos os organismos nacionais e internacionais ou iniciativas em que sejam tratados assuntos da especialidade;\n\nj) Desempenhar todas as tarefas que resultem deste diploma e da demais legislação em vigor ou das funções que, cumulativamente, lhe forem atribuídas.",
+      "alterador": 2
     },
     {
       "chave": "9.º",
       "epigrafe": "(Estrutura geral do INPP)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "1 - São órgãos do INPP:\n\na) O conselho directivo;\n\nb) O conselho geral.\n\n2 - São serviços do INPP:\n\na) Os serviços administrativos;\n\nb) Os serviços técnicos de apoio.\n\n3 - Os departamentos de pilotagem compreendem os serviços de pilotagem e os auxiliares do serviço de pilotagem.",
+      "alterador": 18
     },
     {
       "chave": "12.º",
       "epigrafe": "(Competência)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "Compete ao conselho directivo:\n\na) Dirigir e coordenar toda a actividade do INPP;\n\nb) Elaborar os regulamentos internos do INPP, submetê-los à aprovação do Ministro do Equipamento, do Planeamento e da Administração do Território e zelar pelo seu cumprimento;\n\nc) Elaborar e submeter à apreciação do Ministro do Equipamento, do Planeamento e da Administração do Território os planos de actividades e o orçamento, o relatório e a conta de gerência;\n\nd) Fiscalizar e inspeccionar os serviços técnicos e administrativos dos departamentos;\n\ne) Efectuar a gestão financeira, patrimonial e de pessoal;\n\nf) Estudar e propor ao Ministro do Equipamento, do Planeamento e da Administração do Território os coeficientes a aplicar às taxas de pilotagem;\n\ng) Deliberar sobre a aquisição, alienação e oneração de imóveis;\n\nh) Praticar os demais actos referentes às atribuições do INPP que não sejam da competência de outros órgãos.",
+      "alterador": 18
     },
     {
       "chave": "17.º",
@@ -40,134 +40,68 @@
     {
       "chave": "25.º",
       "epigrafe": "(Organização)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "1 - A nível local, em cada um dos portos onde havia uma corporação ou secção de pilotos passam a existir departamentos de pilotagem, cujos quadros de pessoal vêm estabelecidos nos artigos 58.º e seguintes deste Estatuto.\n\n2 - Compete ao Secretário de Estado da Marinha Mercante criar ou extinguir departamentos de pilotagem nos portos do continente.\n\n3 - Cada departamento de pilotagem terá a seguinte constituição:\n\na) Uma comissão administrativa;\n\nb) Serviços auxiliares.\n\n4 - Cada departamento de pilotagem será chefiado por um piloto nomeado pelo conselho de gestão do INPP, após consulta prévia ao respectivo departamento, de entre os membros da comissão administrativa.\n\n5 - Nos departamentos onde não se justifique a orgânica consignada no n.º 3 o exercício das funções e competência correspondente àqueles órgãos e serviços serão regulados no regulamento interno do INPP.",
+      "alterador": 2
     },
     {
       "chave": "29.º",
       "epigrafe": "(Competência)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "Compete à comissão administrativa:\n\na) Dirigir a actividade do respectivo departamento, zelar e defender os interesses do INPP a nível local;\n\nb) Cumprir e fazer cumprir as disposições regulamentares e as determinações do conselho de gestão do INPP;\n\nc) Gerir os fundos que forem confiados à sua guarda e responsabilidade;\n\nd) Velar por que sejam escriturados e estejam sempre em dia todos os seus livros e registos;\n\ne) Elaborar uma conta de caixa dos fundos que administra, extraindo dela uma cópia mensal que, devidamente instruída com os seus documentos de receita e de despesa, será submetida a exame e aprovação do conselho de gestão;\n\nf) Propor ao conselho de gestão as alterações que entender convenientes para o bom funcionamento dos serviços locais;\n\ng) Efectuar as despesas que nos termos das alíneas g) e j) do n.º 2 do artigo 12.º lhe forem autorizadas pelo conselho de gestão;\n\nh) Exercer a competência que lhe for atribuída pelo estatuto disciplinar.",
+      "alterador": 2
     },
     {
       "chave": "31.º",
       "epigrafe": "(Funcionamento)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "1 - A comissão administrativa será presidida pelo chefe do respectivo departamento de pilotagem ou, na sua falta ou impedimento, por quem o substituir, e reunirá ordinariamente uma vez por mês e extraordinariamente sempre que convocada pelo presidente ou a pedido da maioria dos seus membros.\n\n2 - A comissão administrativa só poderá reunir quando estiver presente a maioria dos seus membros e as resoluções são tomadas por maioria de votos, tendo o presidente voto de qualidade, em caso de empate.",
+      "alterador": 2
     },
     {
       "chave": "35.º",
       "epigrafe": "(Reserva e fundos)",
-      "texto": "1 - Para efeitos de movimentação das receitas e despesas existirá:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) A nível central, um Fundo de Aposentações, destinado a suportar os encargos de aposentação do pessoal que, nos termos legais, sejam da responsabilidade do INPP.\n\n2 - Constituem fundo para fins sociais as seguintes receitas:\n\na) 2% das receitas apuradas em cada exercício;\n\nb) As receitas provenientes de comparticipações, dotações ou subsídios de que o INPP seja beneficiário e destinado a esse fim.\n\n3 - Constituem fontes de financiamento do Fundo de Aposentações as seguintes receitas:\n\na) Uma percentagem das receitas a fixar anualmente pela tutela, por meio de portaria, mediante proposta do conselho de gestão;\n\nb) As receitas provenientes das comparticipações, dotações ou subsídios de que o INPP seja beneficiário e destinados a esse fim.\n\n4 - O Fundo de Aposentações poderá ser substituído por participação em fundo de pensões já constituído, após parecer fundamentado do conselho de gestão e aprovação da tutela.",
-      "alterador": 20
+      "texto": "1 - Para efeitos de movimentação das receitas e despesas existirá:\n\na) A nível central, um fundo de reserva administrado pelo conselho de gestão e fiscalizado pelo conselho geral, para o qual transitará a parte dos excedentes de cada exercício que lhe for anualmente destinada, nunca inferior a 10% dos mesmos;\n\nb) A nível central e de cada departamento de pilotagem, um fundo de maneio, cuja existência será fixada pelo conselho de gestão durante o mês de Janeiro de cada ano e corresponderá ao triplo da média mensal das respectivas despesas efectuadas no ano anterior; este fundo destina-se a fazer face às despesas correntes de cada mês;\n\nc) A nível central, um fundo para fins sociais, destinado a financiar benefícios sociais ou fornecimentos de serviços colectivos ao pessoal.\n\nd) A nível central, um Fundo de Aposentações, destinado a suportar os encargos de aposentação do pessoal que, nos termos legais, sejam da responsabilidade do INPP.\n\n2 - Constituem fundo para fins sociais as seguintes receitas:\n\na) 2% das receitas apuradas em cada exercício;\n\nb) As receitas provenientes de comparticipações, dotações ou subsídios de que o INPP seja beneficiário e destinado a esse fim.\n\n3 - Constituem fontes de financiamento do Fundo de Aposentações as seguintes receitas:\n\na) Uma percentagem das receitas a fixar anualmente pela tutela, por meio de portaria, mediante proposta do conselho de gestão;\n\nb) As receitas provenientes das comparticipações, dotações ou subsídios de que o INPP seja beneficiário e destinados a esse fim.\n\n4 - O Fundo de Aposentações poderá ser substituído por participação em fundo de pensões já constituído, após parecer fundamentado do conselho de gestão e aprovação da tutela.",
+      "alterador": 9
     },
     {
       "chave": "38.º",
       "epigrafe": "(Património)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "1 - O INPP administra o domínio público do Estado afecto à exploração dos serviços a seu cargo, devendo manter em dia o respectivo cadastro, afectar-lhe os bens que nele convenha incorporar, desafectar os dispensáveis e assegurar a respectiva polícia.\n\n2 - Os bens do domínio privado do INPP afectos ou não à exploração dos seus serviços e os demais bens que o Instituto receba ou adquira para realização dos seus fins constituem o seu património privativo.",
+      "alterador": 2
     },
     {
       "chave": "44.º",
       "epigrafe": "(Contabilidade)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "1 - A contabilidade do INPP obedece às regras de gestão empresarial que lhe é própria, mantendo-se paralelamente a escrita orçamental.\n\n2 - Da escrita orçamental deverá constar: quanto à receita, a verba orçamentada e a cobrança realizada; no tocante aos encargos figurarão as dotações atribuídas, os pagamentos efectuados e os saldos de cada dotação.\n\n3 - A contabilidade dos departamentos de pilotagem obedecerá às regras que vierem a ser definidas pelo conselho de gestão.\n\n4 - A contabilidade subordinar-se-á ao plano estabelecido pelo conselho de gestão e mostrará a posição das contas do activo, passivo e situação líquida, bem como da conta de resultados.",
+      "alterador": 2
     },
     {
       "chave": "46.º",
       "epigrafe": "(Balancetes mensais)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "51.º-A",
-      "epigrafe": "Limite de idade",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "1 - Mensalmente, além dos extractos da conta «Caixa» mensal e da escrita orçamental, serão elaborados balancetes do Caixa e do Razão, em que se mostra as posições orçamentais das diferentes contas.\n\n2 - Cópias dos extractos da conta «Caixa» e da escrita orçamental, bem como dos balancetes do Caixa e do Razão, serão mensalmente enviados, para conhecimento, aos departamentos de pilotagem.",
+      "alterador": 2
     },
     {
       "chave": "54.º",
       "epigrafe": "(Pessoal requisitado a outros serviços)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "1 - Quando se mostre indispensável, o Secretário de Estado da Marinha Mercante poderá requisitar pessoal de outros serviços ou institutos públicos para prestar serviço no INPP, fixando-lhe a respectiva remuneração, a pagar por dotação especial para este efeito inscrita no orçamento do INPP, e com o acordo do Ministro requisitando, se for esse o caso.\n\n2 - O pessoal requisitado ao abrigo do número anterior não abre vaga no serviço de origem, mas o respectivo lugar pode ser preenchido interinamente.\n\n3 - O tempo de serviço prestado pelos funcionários requisitados contará, para todos os efeitos, como se tivesse sido prestado nos quadros a que pertencem, mantendo os mesmos durante esse tempo os respectivos direitos, incluindo os relativos a promoção.",
+      "alterador": 2
     },
     {
       "chave": "57.º",
-      "epigrafe": "Quadros de pessoal",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "58.º",
-      "epigrafe": "(Quadro de pessoal)",
-      "texto": "(Revogado.)",
-      "alterador": 13
-    },
-    {
-      "chave": "59.º",
-      "epigrafe": "(Quadro de pessoal)",
-      "texto": "(Revogado.)",
-      "alterador": 13
-    },
-    {
-      "chave": "60.º",
-      "epigrafe": "(Quadro de pessoal)",
-      "texto": "(Revogado.)",
-      "alterador": 13
-    },
-    {
-      "chave": "61.º",
-      "epigrafe": "(Quadro de pessoal)",
-      "texto": "(Revogado.)",
-      "alterador": 13
-    },
-    {
-      "chave": "62.º",
-      "epigrafe": "(Quadro de pessoal)",
-      "texto": "(Revogado.)",
-      "alterador": 13
-    },
-    {
-      "chave": "63.º",
-      "epigrafe": "(Quadro de pessoal)",
-      "texto": "(Revogado.)",
+      "epigrafe": "(Quadros de pessoal)",
+      "texto": "Os quadros de pessoal do departamento central e dos departamentos de pilotagem do INPP são fixados por portaria conjunta dos Ministros das Finanças e do Mar, sob proposta do respectivo conselho de gestão.",
       "alterador": 13
     },
     {
       "chave": "64.º",
       "epigrafe": "(Quadro de pessoal)",
-      "texto": "(Revogado.)",
-      "alterador": 13
-    },
-    {
-      "chave": "65.º",
-      "epigrafe": "(Quadro de pessoal)",
-      "texto": "(Revogado.)",
-      "alterador": 13
-    },
-    {
-      "chave": "66.º",
-      "epigrafe": "(Quadro de pessoal)",
-      "texto": "(Revogado.)",
-      "alterador": 13
-    },
-    {
-      "chave": "67.º",
-      "epigrafe": "(Quadro de pessoal)",
-      "texto": "(Revogado.)",
-      "alterador": 13
-    },
-    {
-      "chave": "67.º-A",
-      "epigrafe": "(Quadro de pessoal)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "1 - O departamento de pilotagem de Sines é constituído pelo seguinte pessoal:\n\n4 pilotos.\n\n2 - A composição e lotação do quadro do departamento de pilotagem de Sines serão completadas de acordo com o desenvolvimento e as necessidades do porto por portaria do Secretário de Estado da Marinha Mercante, sobre proposta do conselho de gestão.\n\nPortimão",
+      "alterador": 4
     },
     {
       "chave": "71.º",
       "epigrafe": "(Isenção de impostos)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "O INPP está isento de todos os impostos, contribuições ou taxas, custos ou emolumentos e selos nos processos, actos notariais, de registo ou outros em que intervenha, em termos e condições idênticos aos do Estado.",
+      "alterador": 2
     },
     {
       "chave": "72.º",
@@ -196,38 +130,458 @@
     {
       "chave": "80.º",
       "epigrafe": "(Revisão deste diploma)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "O conselho de gestão do INPP, ouvido o conselho geral, dois anos após a publicação deste diploma e posteriormente de cinco em cinco anos, deverá reexaminar a presente organização, submetendo à consideração superior as alterações que a experiência torne aconselháveis.",
+      "alterador": 2
     },
     {
       "chave": "82.º",
       "epigrafe": "(Transferências)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "Em consequência do disposto no artigo anterior, só serão admitidas transferências de pessoal entre quadros dos diferentes departamentos para preenchimento de vagas nestes ocorridas nos termos e condições para o efeito estabelecidos no estatuto do pessoal.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::1.º",
+      "epigrafe": "",
+      "texto": "1 - O pessoal do Instituto Nacional de Pilotagem dos Portos, adiante designado por INPP, passa a reger-se por um estatuto privativo constituído pelas normas legais e regulamentares que disponham especialmente sobre o seu regime jurídico.\n\n2 - Os princípios consignados no presente estatuto serão desenvolvidos e efectivados por normas a ele subordinadas, contidas em ordens de serviço dimanadas do conselho de gestão.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::4.º",
+      "epigrafe": "",
+      "texto": "O pessoal dirigente dos departamentos de pilotagem é responsável perante o conselho de gestão pelo bom funcionamento destes, cumprindo-lhe designadamente:\n\na) Velar pela observância das leis, regulamentos e demais disposições relativas ao serviço;\n\nb) Interessar-se pela máxima eficiência e melhoramento do serviço, dentro da maior economia, adoptando ou propondo a adopção de medidas de sua iniciativa ou sugeridas pelos seus subordinados, que julgarem convenientes e proveitosas para aqueles fins;\n\nc) Cooperar com os demais departamentos do Instituto em matérias das suas atribuições;\n\nd) Manter a disciplina, prevenindo infracções;\n\ne) Informar com verdade, isenção e espírito de justiça, designadamente em relação aos seus subordinados.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::5.º",
+      "epigrafe": "",
+      "texto": "1 - São direitos do pessoal, nomeadamente, os seguintes:\n\na) Receber os abonos que lhe forem fixados;\n\nb) Ser aposentado de acordo com as normas legais aplicáveis;\n\nc) Gozar o descanso semanal e as férias anuais;\n\nd) Usufruir do benefício das obras sociais, culturais e de previdência facultadas pelo Instituto;\n\ne) Usar de representação perante os superiores ou para eles interpor recursos das decisões que julgue lesivas dos seus direitos e interesses;\n\nf) Exercer as suas funções em condições de higiene e segurança;\n\ng) Desempenhar tarefas mais leves que as anteriormente exercidas, em caso de capacidade de trabalho reduzida, desde que devidamente comprovada e as possibilidades do serviço o permitam.\n\n2 - Quando as circunstâncias o justifiquem, poderá o INPP custear as despesas judiciais e de procuradoria a servidores seus com a intervenção em quaisquer processos, quando motivados pelo serviço ou por actos legitimamente praticados no exercício das suas funções.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::6.º",
+      "epigrafe": "",
+      "texto": "1 - É permitida a transferência de trabalhadores da mesma categoria de um departamento para outro, mediante requerimento dos interessados dirigido ao presidente do conselho de gestão. Exceptuam-se as transferências em que o candidato não possa garantir a plena satisfação dos requisitos físicos e sanitários exigidos pelo condicionalismo próprio do serviço de pilotagem do porto onde o departamento para que pretenda ser transferido exerce a sua actividade; nestes casos, a transferência não será autorizada.\n\n2 - Os pedidos de transferência serão considerados aquando do pedido de abertura do respectivo concurso de admissão, nos termos do artigo 15.º",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::14.º",
+      "epigrafe": "",
+      "texto": "As categorias do pessoal ao serviço do INPP são as seguintes:\n\na) Pessoal dirigente;\n\nb) Pilotos e outro pessoal técnico especializado;\n\nc) Pessoal auxiliar dos serviços de pilotagem:\n\nMestre.\n\nPrimeiro-marinheiro.\n\nSegundo-marinheiro.\n\nVigia radiotelefonista.\n\nCarpinteiro.\n\nPrimeiro-motorista.\n\nSegundo-motorista.\n\nAjudante de motorista.\n\nd) Pessoal administrativo e auxiliar:\n\nChefe dos serviços administrativos.\n\nAdjunto dos serviços administrativos.\n\nPrimeiro-oficial.\n\nSegundo-oficial.\n\nEscriturário-dactilógrafo.\n\nCobrador.\n\nContínuo.\n\nTelefonista.\n\nServente.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::15.º",
+      "epigrafe": "",
+      "texto": "1 - O preenchimento das vagas nos quadros dos departamentos do INPP far-se-á, sempre que possível, por transferência do pessoal já pertencente aos quadros de outros departamentos do Instituto, depois de efectuadas as devidas promoções, para o que o conselho de gestão fará uma consulta a todo o pessoal dos departamentos, no sentido de averiguar dos possíveis interessados.\n\n2 - À transferência será aplicado o disposto nos artigos 6.º, 7.º, 8.º, 9.º e 10.º",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::19.º",
+      "epigrafe": "",
+      "texto": "1 - Só podem habilitar-se ao concurso os candidatos que preencham os seguintes requisitos:\n\na) Ter nacionalidade portuguesa, salvo nos casos exceptuados por convenção internacional ou lei especial;\n\nb) Ter cumprido o serviço militar obrigatório ou dele estar isento;\n\nc) Ter já completado 25 anos de idade e ainda não ter perfeito 35 anos de idade à data da publicação do aviso de abertura do concurso;\n\nd) Ter, pelo menos, carta de piloto de 2.ª classe da marinha mercante nacional, com o mínimo de dois anos de exercício nesta categoria, bom comportamento e aptidão profissional.\n\n2 - Em igualdade de condições, são condições de preferência no concurso as indicadas pela ordem seguinte:\n\na) Mais tempo de comando com carta de capitão da marinha mercante nacional;\n\nb) Mais tempo de comando comprovado por autoridades portuguesas;\n\nc) Ter carta de capitão da marinha mercante nacional;\n\nd) Ter carta de maior categoria;\n\ne) Mais tempo de embarque como oficial da marinha mercante nacional.\n\n3 - Em caso de igualdade dentro de cada uma das alíneas do número anterior, é ainda condição de preferência ter menos idade.",
+      "alterador": 10
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::20.º",
+      "epigrafe": "",
+      "texto": "1 - O pedido de admissão ao concurso é feito por requerimento dirigido ao presidente do conselho, de gestão e deve ser acompanhado dos seguintes documentos:\n\na) Certidão narrativa completa do registo de nascimento;\n\nb) Documentos comprovativos das condições de admissão no concurso e de preferência nas classificações;\n\nc) Certificado do registo criminal.\n\n2 - O requerimento será entregue contra recibo na secretaria do INPP e nele deverá mencionar-se os documentos que o acompanham.\n\n3 - A prova das habilitações e das condições de preferência só pode ser feita por documentos autênticos ou autenticados.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::29.º",
+      "epigrafe": "",
+      "texto": "1 - Os candidatos declarados inaptos serão notificados da deliberação da comissão referida no artigo anterior, acompanhada da respectiva fundamentação.\n\n2 - Os candidatos a que se refere o número anterior terão direito à prorrogação do período de aprendizagem por mais três meses; para tanto, deverão declará-lo por escrito ao chefe do departamento respectivo, dentro do prazo de três dias a contar da data da notificação da deliberação.\n\n3 - Findo o período de três meses, a comissão de pilotos procederá nos termos do n.º 4 do artigo anterior.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::30.º",
+      "epigrafe": "",
+      "texto": "À admissão do pessoal auxiliar dos serviços de pilotagem e pessoal administrativo e auxiliar aplicar-se-ão as regras consignadas nos artigos 16.º, 17.º, 18.º, 20.º, 21.º, 22.º, 24.º, 25.º e 26.º em tudo o que não vier regulado especialmente nos artigos seguintes.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::31.º",
+      "epigrafe": "",
+      "texto": "1 - Só podem habilitar-se ao concurso os candidatos que preencham os seguintes requisitos:\n\na) Ter nacionalidade portuguesa, salvo nos casos exceptuados por convenção internacional ou lei especial;\n\nb) Ter as habilitações profissionais e literárias exigidas para o desempenho do lugar;\n\nc) Ter já completado, pelo menos, 21 anos à data da publicação do aviso de abertura do concurso.\n\n2 - Em igualdade de condições, são condições de preferência no concurso, as indicadas pela ordem seguinte:\n\na) Melhores habilitações profissionais para o exercício do lugar;\n\nb) Mais tempo de exercício profissional na categoria;\n\nc) Melhores habilitações literárias;\n\nd) Ter menos idade;\n\ne) Ter o serviço militar cumprido ou estar dele isento.",
+      "alterador": 10
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::35.º",
+      "epigrafe": "",
+      "texto": "1 - A posse definitiva será conferida pelo presidente do conselho de gestão, que poderá delegar esta função no chefe do respectivo departamento, no prazo de trinta dias, a contar da data da notificação da deliberação do conselho de gestão, homologada pelo Secretário de Estado da Marinha Mercante.\n\n2 - A não tomada de posse dentro do prazo é considerada abandono do lugar e faz cessar imediatamente todos os direitos do candidato.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::40.º",
+      "epigrafe": "",
+      "texto": "1 - Os vencimentos base são os constantes da tabela de vencimentos a aprovar por portaria do Secretário de Estado da Marinha Mercante.\n\n2 - Anualmente ou quando o conselho de gestão considerar oportuno, os vencimentos referidos no número anterior serão revistos e actualizados.\n\n3 - Sempre que se derem alterações à tabela de vencimentos, operar-se-á a sua substituição pela nova tabela, que ficará fazendo parte integrante deste regulamento.\n\n4 - Os candidatos ao preenchimento das vagas que ocorrerem nos quadros do Instituto receberão, durante o período de aprendizagem ou experiência a que se referem os artigos 23.º, 27.º e 29.º, 75% do vencimento base da respectiva categoria e as remunerações que o conselho de gestão determinar.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::42.º",
+      "epigrafe": "",
+      "texto": "1 - O presidente do conselho de gestão, o vogal-secretário e os restantes vogais deste mesmo conselho têm direito a perceber uma gratificação mensal de quantitativo fixado na tabela de vencimentos.\n\n2 - Os chefes dos departamentos de pilotagem e os vogais das comissões administrativas a quem, nos termos dos respectivos regulamentos internos dos serviços, forem atribuídas tarefas específicas, a desempenhar no âmbito da actividade das referidas comissões, têm direito a perceber uma gratificação mensal do quantitativo fixado na tabela de vencimentos. Os restantes vogais perceberão por cada reunião a que assistam uma senha de presença do quantitativo fixado na tabela de vencimentos.\n\n3 - Os membros do conselho geral perceberão por cada reunião a que assistam uma senha de presença de quantitativo fixado pelo Secretário de Estado da Marinha Mercante, sob proposta do conselho de gestão, e terão direito ao reembolso das despesas efectuadas quando participem em reuniões ou actos de serviço.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::53.º",
+      "epigrafe": "",
+      "texto": "1 - Consideram-se não justificadas todas as faltas não abrangidas nos artigos anteriores. Estas faltas dão lugar a desconto total nas remunerações certas ordinárias, na antiguidade, no período de férias e respectivo subsídio, e são registadas na nota de assentamentos, podendo ainda ser passíveis de procedimento disciplinar, desde que precedido do parecer do chefe do departamento respectivo.\n\n2 - Os descontos feitos nas remunerações nos termos do número anterior revertem a favor dos fundos do Instituto.\n\n3 - O desconto no período de férias far-se-á à razão de um dia por cada três faltas, até ao máximo de um terço das férias.\n\n4 - O desconto no subsídio de férias far-se-á à razão de um trinta avos por cada dia descontado no período de férias.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::58.º",
+      "epigrafe": "",
+      "texto": "1 - O pessoal do INPP é obrigatoriamente inscrito na Caixa Geral de Aposentações e no Montepio dos Servidores do Estado, ficando abrangido pelos regimes consignados no Estatuto da Aposentação e no Estatuto das Pensões de Sobrevivência.\n\n2 - Ao pessoal referido no número anterior será contado, para efeitos de aposentação e sobrevivência, todo o tempo de serviço prestado nas extintas corporações e secções de pilotos e qualquer outro tempo de serviço prestado ao Estado nas condições previstas nos artigos 24.º e 25.º do Estatuto da Aposentação.\n\n3 - O pessoal referido no n.º 2 do artigo 73.º do [Decreto-Lei n.º 361/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1978-429270), de 27 de Novembro, tem a faculdade de se inscrever no Montepio dos Servidores do Estado, sob o regime estabelecido no [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março, e legislação complementar, contando-se-lhe, para o efeito, todo o tempo de serviço prestado nas extintas corporações e secções de pilotos e qualquer outro tempo de serviço prestado nas condições previstas nos artigos 24.º e 25.º do Estatuto da Aposentação.",
+      "alterador": 9
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::59.º",
+      "epigrafe": "",
+      "texto": "Para efeitos de aposentação, o tempo de serviço efectivo prestado ao INPP será acrescido das percentagens seguintes:\n\na) 20%, quando prestado pelos pilotos no exercício da actividade de pilotagem, tal como é definida no artigo 1.º do Regulamento Geral de Serviço de Pilotagem de Portos e Barras, aprovado pelo [Decreto-Lei n.º 166/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1989-610762), de 19 de Maio;\n\nb) 10%, quando prestado pelo pessoal auxiliar dos serviços de pilotagem no exercício da actividade de pilotagem, tal como é definida na disposição referida na alínea anterior.",
+      "alterador": 9
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::63.º",
+      "epigrafe": "",
+      "texto": "1 - Por morte, o pessoal do INPP confere o direito à percepção de um subsídio igual a seis meses do último vencimento base ou pensão de aposentação em relação à data da morte.\n\n2 - O trabalhador que àquela data se encontrar de licença ilimitada não confere direito à percepção daquele subsídio, salvo se esta licença tiver sido concedida nos termos do artigo 54.º deste estatuto. Neste caso, o subsídio é igual ao último vencimento base percebido.\n\n3 - O pessoal do INPP inscrito na Caixa Geral de Aposentações segundo o regime consignado no Estatuto da Aposentação, por morte, confere direito à percepção de um subsídio, nos termos do artigo 83.º do Estatuto da Aposentação.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::64.º",
+      "epigrafe": "",
+      "texto": "1 - O direito ao subsídio é conferido aos descendentes do trabalhador que estiverem ou devessem estar a seu cargo na data do falecimento e à pessoa ou pessoas que ele haja designado numa declaração datada e assinada pelo próprio, ou a seu rogo, com reconhecimento notarial da assinatura. Esta declaração deverá conter as moradas das pessoas a quem o subsídio deverá ser atribuído quando o seu autor assim o entenda.\n\n2 - A declaração, encerrada em envelope lacrado, será entregue na secretaria do INPP contra recibo ou enviada pelo correio em carta registada com aviso de recepção. No envelope o trabalhador aporá a sua assinatura, que será autenticada com o reconhecimento notarial.\n\n3 - Consideram-se inexistentes as declarações que violem as formalidades prescritas nos números anteriores.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::69.º",
+      "epigrafe": "",
+      "texto": "1 - Até ao final do mês de Janeiro de cada ano, com referência a 31 de Dezembro do ano anterior, elaborar-se-á um mapa de antiguidade, desde constem:\n\nAs datas das posses nas categorias;\n\nA antiguidade referida a 31 de Dezembro anterior;\n\nOs dias de férias gozados;\n\nAs faltas autorizadas;\n\nAs faltas justificadas;\n\nAs faltas por doença;\n\nOs dias de licença;\n\nOs dias de inactividade temporária;\n\nO tempo de antiguidade actual.\n\n2 - O mapa referido no número anterior, depois de aprovado pelos chefes dos departamentos de pilotagem respectivos, será afixado na respectiva sede de 20 a 31 de Janeiro, sendo facultada a sua consulta, fora deste período a qualquer trabalhador. Uma cópia deste mapa será enviada ao conselho de gestão.\n\n3 - Em relação ao departamento central, o mapa referido no número anterior será aprovado pelo presidente do conselho de gestão.\n\n4 - Não o achando conforme, qualquer trabalhador tem o direito de solicitar a devida rectificação, no prazo de dez dias, para o que apresentará, por escrito, ao chefe do departamento de pilotagem respectivo ou, no caso referido no n.º 3, ao presidente do conselho de gestão a reclamação fundamentada.\n\n5 - Para efeitos de aposentação, com base no mapa referido no n.º 1 elaborar-se-á uma lista nominal, donde conste a antiguidade e o número de anos, meses e dias, referida a 31 de Dezembro último.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::73.º",
+      "epigrafe": "",
+      "texto": "Os concursos de admissão já abertos à data da publicação do presente estatuto mantêm as condições indicadas no respectivo aviso de abertura, mas o provimento processar-se-á segundo as normas deste estatuto.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::3.º",
+      "epigrafe": "",
+      "texto": "1 - O direito de exigir a responsabilidade disciplinar prescreve passados seis meses sobre a data em que a falta tiver sido cometida, salvo o disposto no número seguinte.\n\n2 - Se o facto qualificado de infracção disciplinar for também considerado infracção penal e os prazos de prescrição do procedimento criminal forem superiores a seis meses, aplicar-se-ão ao procedimento disciplinar os prazos estabelecidos no Código Penal.\n\n3 - Interrompem a prescrição o processo de sindicância aos serviços e o mero processo de averiguações e ainda os processos de inquérito e disciplinar, mesmo que não tenham sido dirigidos contra o trabalhador a quem a prescrição interesse, mas nos quais venham a apurar-se faltas de que seja responsável.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::4.º",
+      "epigrafe": "",
+      "texto": "1 - Os indivíduos abrangidos por este regulamento ficam sujeitos ao poder disciplinar desde a data da posse e, se esta não for exigida, desde a data da entrada ao serviço.\n\n2 - A circunstância de deixarem o serviço ou mudarem a situação não impede que sejam punidos pelas faltas cometidas durante o tempo em que desempenharam funções. As penas dos n.os 3 e 7 do artigo 11.º deste regulamento serão sempre executadas desde que o infractor regresse ao serviço.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::17.º",
+      "epigrafe": "",
+      "texto": "1 - As penas dos n.os 1, 2 e 3 do artigo 11.º são da competência dos chefes dos departamentos de pilotagem e do chefe dos serviços administrativos centrais, quanto ao pessoal deles dependente, e do presidente do conselho de gestão, depois de ouvido este conselho, quanto aos chefes dos departamentos de pilotagem, chefe dos serviços administrativos centrais e demais pessoal.\n\n2 - As penas dos n.os 4 e 5 do artigo 11.º são da competência do presidente do conselho de gestão, depois de ouvido este conselho.\n\n3 - As penas de aposentação compulsiva e de demissão são da competência do MTC, precedendo parecer do conselho de gestão.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::30.º",
+      "epigrafe": "",
+      "texto": "A instauração de processos disciplinares para averiguação dos factos a que correspondem as penas dos n.os 4 e seguintes do artigo 11.º é da competência do presidente do conselho de gestão e dos chefes dos departamentos de pilotagem, relativamente ao pessoal deles dependente, mediante participação dos interessados.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::55.º",
+      "epigrafe": "",
+      "texto": "Sempre que um trabalhador deixe de comparecer ao serviço durante cinco dias, depois de ter manifestado a intenção de abandonar o cargo, ou faltar durante trinta dias úteis seguidos e sem justificação, será o facto comunicado pelos responsáveis directos do sector respectivo ao conselho de gestão, que mandará levantar auto de abandono de lugar.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::71.º",
+      "epigrafe": "",
+      "texto": "As recompensas e punições, com a excepção das advertências e repreensões, serão transcritas nos livros de assentamentos, nos precisos termos em que foram redigidas.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::1.º",
+      "epigrafe": "",
+      "texto": "1 - A pilotagem consiste na assistência prestada às embarcações por pessoal especialmente habilitado na condução de navios na entrada e saída dos portos e barras e na navegação e manobras no interior e exterior dos mesmos, nas radas, em águas marítimas e fluviais dos rios e canais e em todas as instalações colocadas no espaço marítimo nacional.\n\n2 - O Instituto Nacional de Pilotagem dos Portos, que usa a sigla INPP, assegurará, em regime de exclusivo, a pilotagem em todo o espaço fluvial e marítimo nacional, através dos seus departamentos de pilotagem.\n\n3 - Para efeitos dos números anteriores, cada departamento de pilotagem exercerá a sua actividade na área definida pelos limites a seguir indicados:\n\nViana do Castelo - área limitada pelos paralelos:\n\nLatitude = 41 52.0 N. e latitude = 41 30.0 N.\n\nDouro e Leixões - área limitada pelos paralelos:\n\nLatitude = 41 30.0 N. e latitude = 41 00.0 N.\n\nAveiro - área limitada pelos paralelos:\n\nLatitude = 41 00.0 N. e latitude = 40 26.0 N.\n\nFigueira da Foz - área limitada pelos paralelos:\n\nLatitude = 40 26.0 N. e latitude = 39 30.0 N.\n\nLisboa - área limitada pelos paralelos:\n\nLatitude = 39 30.0 N. e latitude = 38 25.0 N.\n\nSetúbal - área limitada pelos paralelos:\n\nLatitude = 38 25.0 N. e latitude = 38 10.0 N.\n\nSines - área limitada pelos paralelos:\n\nLatitude = 38 10.0 N. e latitude = 37 00.0 N.\n\nPortimão - área limitada pelos meridianos:\n\nLongitude = 09 00.0 W. e longitude = 08 11.3 W.\n\nFaro - área limitada pelos meridianos:\n\nLongitude = 08 11.3 W. e longitude = 07 43.0 W.\n\nVila Real de Santo António - área limitada pelos meridianos:\n\nLongitude = 07 43.0 W. e longitude = 07 25.0 W.\n\nFunchal - área limitada pelos paralelos:\n\nLatitude = 32 20.0 N. e latitude = 33 15.0 N. e pelos meridianos:\n\nLongitude = 16 10.0 W. e longitude =17 25.0 W.",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::2.º",
+      "epigrafe": "",
+      "texto": "A assistência às embarcações de que trata o artigo anterior faz-se com a presença do piloto a bordo, podendo, no entanto, fazer-se por sinais ou outros meios de comunicação e orientação sempre que o embarque do piloto não seja possível.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::3.º",
+      "epigrafe": "",
+      "texto": "A pilotagem compreende a assistência às embarcações:\n\na) Na navegação na entrada e saída de portos e barras;\n\nb) Na navegação em calas e canais no interior dos portos;\n\nc) Na navegação dentro e fora dos portos para experiências de máquinas ou outros aparelhos, provas de velocidade, regulação, calibração e experiências de quaisquer auxiliares de navegação;\n\nd) Na navegação no interior dos portos;\n\ne) Nas manobras de fundear e suspender;\n\nf) Nas manobras de atracar e desatracar a (de) cais, muralhas, pontes, pontões ou outras embarcações;\n\ng) Nas manobras de correr ao longo do cais, muralhas ou pontes, quando impliquem mudança de cabos nos cabeços sem deixar de ter contacto com a terra;\n\nh) Nas manobras de amarrar e desamarrar a (de) dois ferros, bóias, estacas e tirar voltas a amarras;\n\ni) Nas manobras de entrada e saída de docas secas, diques ou planos inclinados;\n\nj) Nas manobras para encalhar e desencalhar em praias ou varadouros;\n\nk) Nas manobras de arriar e rondar cabos a uma embarcação para manobra de outra que esteja por dentro ou fora desta, sem fazer qualquer movimento interior;\n\nl) Nas manobras de colocar ou suspender amarrações fixas com ou sem bóias;\n\nm) Nas manobras para rocegar amarras ou ferros;\n\nn) Nas manobras para espiar âncoras ou amarras;\n\no) Na navegação e em manobras fora ou dentro dos limites da área de pilotagem em serviços não especificados que impliquem a presença de piloto a bordo.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::4.º",
+      "epigrafe": "",
+      "texto": "1 - Considera-se navegação na entrada de portos ou barras, a que se refere a alínea a) do artigo anterior, a efectuada desde o momento em que a embarcação entra nos limites da área de pilotagem a que se refere o artigo 18.º deste regulamento até às zonas de fundeadouro no interior do porto.\n\n2 - Considera-se navegação na saída de portos ou barras, a que se refere a alínea a) do artigo anterior, a efectuada desde as zonas de fundeadouro no interior do porto até a embarcação se encontrar em franquia fora da área obrigatória de pilotagem.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::7.º",
+      "epigrafe": "",
+      "texto": "Considera-se navegação no interior dos portos, a que se refere a alínea d) do artigo 3.º, a efectuada pelas embarcações, dentro dos limites do porto, desde as zonas de fundeadouro até ao local de atracação, ou desde o local de atracação até às zonas de fundeadouro.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::8.º",
+      "epigrafe": "",
+      "texto": "1 - Considera-se manobra de fundear, a que se refere a alínea e) do artigo 3.º, a efectuada desde que, chegada a embarcação ao local do fundeadouro, é largado o ferro até que este esteja unhado no fundo e a amarra com o comprimento devido.\n\n2 - Considera-se manobra de suspender, a que se refere a alínea e) do artigo 3.º, a efectuada desde que se principia a virar o ferro até este estar ao lume de água.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::11.º",
+      "epigrafe": "",
+      "texto": "1 - Considera-se manobra de amarrar a dois ferros, a que se refere a alínea h) do artigo 3.º, a efectuada desde que, chegada a embarcação ao local do fundeadouro, é largado o primeiro ferro até que o último esteja unhado no fundo e as amarras com o comprimento devido.\n\n2 - Considera-se manobra de amarrar a bóias ou estacas, a que se refere a alínea h) do artigo 3.º, a efectuada desde que, chegada a embarcação junto da bóia ou estaca, é passado o primeiro cabo até que esteja passado o último.\n\n3 - Considera-se manobra de desamarrar de dois ferros, a que se refere a alínea h) do artigo 3.º, a efectuada desde que se principia a virar o primeiro ferro até o último estar ao lume de água.\n\n4 - Considera-se manobra de desamarrar de bóias ou estacas, a que se refere a alínea h) do artigo 3.º a efectuada desde que se principia a largar o primeiro cabo da bóia ou estaca até estar largado o último cabo.\n\n5 - Considera-se manobra de tirar voltas a amarras, a que se refere a alínea h) do artigo 3.º, a efectuada desde que se inicia o serviço até as amarras estarem claras e safas e o navio voltar à posição do fundeadouro.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::18.º",
+      "epigrafe": "",
+      "texto": "1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, tanto na navegação de entrada como de saída dos portos e barras, como na navegação e manobras feitas no interior dos portos, nas radas, em águas marítimas e fluviais dos rios e canais e todas as instalações colocadas no espaço marítimo nacional, abrangidas por este Regulamento.\n\n2 - Para efeitos do número anterior, a área ou áreas onde a pilotagem é obrigatória vêm definidas nos artigos 36.º e seguintes deste regulamento.\n\n3 - Compete ao INPP propor à autoridade marítima as zonas e embarcações em que, para além da obrigatoriedade de pilotagem, é indispensável a presença do piloto a bordo.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::21.º",
+      "epigrafe": "",
+      "texto": "1 - O INPP cobra dos navios ou de entidades as seguintes taxas:\n\na) De pilotagem;\n\nb) De ocupação extraordinária de pilotos;\n\nc) De aluguer de material.\n\n2 - Para efeitos de cobrança das taxas de pilotagem referidas em 1, os serviços serão classificados de acordo com as manobras descritas nos artigos 4.º a 17.º deste Regulamento.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::22.º",
+      "epigrafe": "",
+      "texto": "1 - As taxas a que se refere a alínea a) do artigo anterior são devidas:\n\na) Por todas as embarcações que, utilizando ou não a pilotagem, entrem ou saiam as barras ou portos, naveguem ou manobrem nas águas marítimas e fluviais das áreas de pilotagem obrigatória, ainda que só para mudança de fundeadouro ou de local de atracação, e mesmo que a sua deslocação se faça a reboque, com excepção das isenções estabelecidas neste regulamento.\n\nb) Por todas as entidades que requisitem a assistência dos serviços de pilotagem ou a presença de piloto.\n\n2 - As taxas a que se referem as alíneas b) e c) do artigo anterior são devidas pelas embarcações e entidades mencionadas no número anterior que embarquem ou requisitem a presença a bordo de piloto ou utilizem o material do INPP.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::23.º",
+      "epigrafe": "",
+      "texto": "1 - As taxas de pilotagem, a que se refere a alínea a) do artigo 21.º, são cobradas em função:\n\na) Da tonelagem de arqueação bruta, para os navios mercantes;\n\nb) Da tonelagem de deslocamento, para os navios de guerra.\n\n2 - Para efeitos de aplicação da alínea a) do n.º 1 aos casos das alíneas l), m) e n) do artigo 3.º, a tonelagem a considerar é a do maior navio que possa amarrar a essa bóia ou amarração, para o caso da alínea l), ou do navio a que pertencer o ferro ou amarra a rocegar ou a espiar, para o caso das alíneas m) e n). Porém, quando seja desconhecido o navio a que pertence o ferro ou amarra rocegada, a tonelagem será estimada em função das tabelas estabelecidas pelas autoridades marítimas.\n\n3 - As taxas de ocupação extraordinária de pilotos e de aluguer de material, a que se referem as alíneas b) e c) do artigo 21.º, são cobradas em função do tempo de ocupação dos pilotos e do tempo e serviço em que foi utilizado o material.\n\n4 - Quando os documentos das embarcações mencionem mais do que uma tonelagem da mesma espécie, a taxa é sempre cobrada pela tonelagem maior.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::24.º",
+      "epigrafe": "",
+      "texto": "1 - As taxas de pilotagem a cobrar são as que constam das tabelas A e B anexas a este regulamento - anexo I -, depois de lhes ser aplicado o coeficiente que para cada departamento de pilotagem for estabelecido anualmente por despacho do SEMM, sob proposta do INPP.\n\n2 - As taxas de pilotagem que constam da tabela A aplicam-se:\n\na) Aos casos referidos nas alíneas a) e b) do artigo 3.º;\n\nb) Aos casos referidos na alínea e) do artigo 3.º, só para as embarcações que não entrem no porto e façam fora dele as suas operações comerciais ou outras, ainda que o serviço consista só na indicação do fundeadouro. Nestes casos, não se cobrará a taxa a que se refere a alínea a) do mesmo artigo.\n\n3 - As taxas de pilotagem que constam da tabela B aplicam-se nos casos referidos nas alíneas c), d), e), f), g), h), i), j), k), l), m), n) e o) do artigo 3.º\n\n4 - As taxas de pilotagem que constam da tabela B aplicam-se nos casos referidos na alínea e) do artigo 3.º, quando se trate de embarcações que, entrando no porto, não passem além das zonas de fundeadouro, ou que, não entrando no porto, também não façam fora dele quaisquer operações comerciais, ainda que o serviço consista só na indicação do fundeadouro. No caso referido na última parte deste número, não se cobrará a taxa a que se refere a alínea a) do mesmo artigo.\n\n5 - Não há lugar à cobrança de taxa de pilotagem nos casos referidos na alínea e) do artigo 3.º, quando sejam exclusivamente devidos à má visibilidade ou a fim de dar volta para aproar à corrente de água para imediatamente a seguir ir atracar, fundear ou amarrar no local que lhe foi destinado, exceptuando os casos referidos no número anterior.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::27.º",
+      "epigrafe": "",
+      "texto": "1 - São isentas do pagamento da taxa de pilotagem:\n\na) As embarcações nacionais e estrangeiras que arribem aos portos para desembarcar náufragos, tripulantes ou passageiros em perigo de vida ou que precisem de ser socorridos em virtude de desastre sofrido a bordo ou doença grave e apenas se demorem no porto o tempo indispensável para o respectivo desembarque ou assistência médica, não fazendo qualquer outra operação ou serviço;\n\nb) As embarcações propriedade do Estado, nacional ou estrangeiro, em missões científicas ou de benemerência internacional, salvo quando o INPP não conceda tal isenção.\n\nc) As embarcações que tenham de mudar de fundeadouro ou de local de acostagem por exclusiva necessidade dos departamentos de pilotagem.\n\n2 - As embarcações referidas nas alíneas a) e b) do número anterior não são isentas da aplicação do disposto no artigo 30.º",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::28.º",
+      "epigrafe": "",
+      "texto": "1 - Os navios de guerra ou propriedade de Estados estrangeiros, desde que não façam operações comerciais, beneficiam de isenção ou redução de taxas de pilotagem nos casos em que estiver estabelecida reciprocidade de tratamento.\n\n2 - Aos departamentos de pilotagem será dado conhecimento pelo INPP das nações a cujos navios se deve aplicar a doutrina deste artigo e das alterações que se verifiquem.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::29.º",
+      "epigrafe": "",
+      "texto": "1 - As taxas que constam das tabelas A, B e C são acrescidas das sobretaxas seguintes:\n\na) 50% de segunda-feira a sexta-feira, entre as 12 e as 13 horas e entre as 17 e as 24 horas, e ao sábado, entre as 12 e as 17 horas;\n\nb) 100% aos domingos e feriados, de segunda-feira a sexta-feira, entre as 0 e as 8 horas, e ao sábado, entre as 0 e as 8 horas e entre as 17 e as 24 horas.\n\n2 - Para efeitos do disposto no número anterior, o horário normal fica definido entre as 8 e as 12 horas e entre as 13 e as 17 horas dos dias úteis, de segunda-feira a sexta-feira, e entre as 8 e as 12 horas de sábado.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::30.º",
+      "epigrafe": "",
+      "texto": "1 - As taxas de ocupação extraordinária de pilotos a cobrar são as que constam de uma tabela C, anexa a este regulamento - anexo II -, estabelecida pelo INPP, depois de lhe ser aplicado o coeficiente determinado anualmente por despacho do SEMM, sob proposta do INPP.\n\n2 - As taxas de ocupação extraordinária de pilotos que constam da tabela C aplicam-se em todos os casos referidos nas alíneas do artigo 3.º, quando se verifique alguma das situações previstas no número seguinte.\n\n3 - Considera-se especialmente ocupação extraordinária de pilotos para efeitos de aplicação da respectiva tabela:\n\na) A sua permanência a bordo da embarcação fora da barra, quando requisitado para pilotar embarcação que não possa entrar por qualquer motivo;\n\nb) A sua permanência a bordo, dentro do porto, quando requisitado pelas embarcações ou mandado pela autoridade marítima por motivo de mau tempo;\n\nc) Quando em serviços que excedam duas horas;\n\nd) Quando o piloto, por interrupção do serviço, se mantenha em terra ou a bordo, às ordens de uma embarcação, por mais de uma hora, excepto por:\n\n1.º Condições de tempo locais que impossibilitem a navegação;\n\n2.º Nível de marés nos serviços para demandar calas e locais de carga e descarga;\n\n3.º Avarias no navio ocorridas durante a pilotagem;\n\n4.º Dificuldade de obter meios para a execução da manobra;\n\ne) Quando de quarentena, a bordo ou em terra, ou sujeito a revisão médico-sanitária;\n\nf) Quando requisitado para serviço que se não chegou a efectuar por conveniência da embarcação;\n\ng) Os casos a que se referem os n.os 1 e 2 do artigo seguinte;\n\nh) Quando em viagem por conta de uma embarcação;\n\ni) A transmissão de ordens a um navio no mar, quando não chegue a entrar;\n\nj) O pedido de piloto fora de horas de expediente estabelecidas;\n\nk) Outros motivos de idêntica natureza não previstos especialmente neste artigo.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::31.º",
+      "epigrafe": "",
+      "texto": "1 - Quando as embarcações que provenham de fora dos limites da área de pilotagem cheguem à mesma com atraso superior a duas horas em relação à hora anunciada na sua última comunicação, considera-se que o piloto por elas requisitado esteve às ordens a partir dessas duas horas até ao momento em que for recebida alteração da hora de chegada, ou o seu cancelamento, ou as mesmas se encontrem dentro da área de pilotagem prontas a ser pilotadas.\n\n2 - Quando as embarcações se encontrem dentro da área de pilotagem, considera-se o piloto à ordem no período entre a hora para que foi requisitada a sua presença e aquela a que a embarcação se encontrar pronta a iniciar a manobra.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::33.º",
+      "epigrafe": "",
+      "texto": "Todas as alterações às taxas constantes das tabelas A, B, C e D serão estabelecidas por despacho do SEMM, sob proposta do INPP.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::36.º",
+      "epigrafe": "",
+      "texto": "1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas na área para leste do arco de círculo oeste com raio de duas milhas centrado na torre de sinais da sede do Departamento de Pilotagem do Porto de Aveiro (DPPA).\n\n2 - A pilotagem pode fazer-se pela presença de piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, conforme o artigo 2.º deste Regulamento.\n\n3 - É, porém, indispensável a presença do piloto a bordo na navegação e manobras efectuadas nas áreas a montante da sede do DPPA e ainda nas embarcações que na área a oeste da mesma sede efectuem qualquer operação comercial, excepto em ocasiões em que, por dificuldade de ordem técnica dos serviços de pilotagem, a presença do piloto a bordo não se possa efectivar, procurando-se nestes casos resolver a dificuldade da maneira mais eficiente e conveniente.\n\n4 - Para efeitos do artigo 7.º deste regulamento, considera-se limite exterior do porto o meridiano que passa pela torre da sede do DPPA.\n\nII - Requisições",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::40.º",
+      "epigrafe": "",
+      "texto": "1 - Para o embarque e desembarque dos pilotos os navios devem arriar uma escada de quebra-costas com as características a seguir indicadas, sem o que o piloto não será obrigado a embarcar:\n\na) Deve estar fixada em posição livre de quaisquer esgotos ou descargas e por forma que todos os degraus se apoiem firmemente no costado, não tendo o piloto que subir, desde o lume de água ao local de acesso, nem menos de 1,5 m nem mais de 5 m;\n\nb) Os degraus devem ser de madeira rija, com as dimensões de 47,5 cm de comprimento, 12 cm de largura e 2,5 cm de espessura, estarem afastados entre si de 30 cm a 37,5 cm e manterem-se horizontais;\n\nc) Os dois cordões laterais devem ser de manila de 5,5 cm de bitola;\n\nd) Deve ser dotada de travessas com pelo menos 1,8 m de comprimento, por forma que a escada se não enrole;\n\ne) Deve ter duas boças de manila de 5,5 cm de bitola devidamente fixadas ao navio prontas a ser arriadas;\n\nf) Deve possuir meios que permitam ao piloto passar com segurança do topo da escada para o interior do navio, os quais, no caso de a escada terminar à borda, constarão de um escadote com dois corrimãos devidamente posicionados;\n\ng) Deve ter pronta uma bóia de salvação com facho Holmes e volta para uma retenida longa, devidamente colhida e pronta a ser usada;\n\nh) De noite, deve dispor de uma luz que lhe ilumine o costado, o local de embarque e o de acesso ao navio, a qual não deve nunca, por ser perigoso, estar fixada à escada.\n\n2 - Ainda para o embarque e desembarque do piloto, os navios de grande porte podem utilizar uma escada elevatória (pilot-hoist) de acordo com as recomendações da EMPA (European Maritime Pilots Association), nos termos descritos em anexo a este Regulamento - anexo IV.\n\n3 - Todas as operações de embarque e desembarque do piloto e respectivos preparativos, nomeadamente os referidos no número seguinte, devem ser dirigidas e assistidas por um oficial.\n\n4 - Para aumentar as condições de rapidez e segurança do embarque e desembarque, os navios de mais de 5 m de altura do costado livre acima do lume de água que não disponham de porta de costado nem de outros meios modernos de embarque e desembarque de pilotos, caso o tempo o permita, devem arriar a escada de portaló até cerca de 3 m do nível do mar e colocar uma escada de quebra-costas de modo a ficar ligada ao patim inferior do portaló, conforme desenho em anexo a este Regulamento - anexo V.\n\nIII - Taxas",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::41.º",
+      "epigrafe": "",
+      "texto": "1 - São isentos do pagamento de taxas de pilotagem, quando, não utilizem os serviços de pilotagem:\n\na) Na entrada e na saída do porto, nos movimentos e manobras no interior do mesmo, os navios nacionais registados exclusivamente na navegação costeira de tonelagem inferior a 200 tb;\n\nb) Na entrada e saída do porto e nos movimentos e manobras no interior do mesmo, os navios nacionais de pesca do alto e costeira de tonelagem inferior a 200 tb.\n\n2 - Para cálculo das tonelagens referidas no número anterior aplicar-se-á o critério da alínea a) do n.º 1 do artigo 23.º deste Regulamento.\n\n3 - Os serviços de pilotagem efectuados a partir do fundeadouro do porto (zona compreendida entre o triângulo regulador de correntes e a ponte de S. Jacinto) até qualquer outro local no interior do porto serão remunerados por 50% da tabela A.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::44.º",
+      "epigrafe": "",
+      "texto": "1 - A pilotagem é obrigatória para todas as embarcações, nacionais e estrangeiras, na navegação e ou manobras efectuadas nas áreas a seguir indicadas:\n\na) No porto de Leixões, em toda a zona interior do porto e docas e até ao limite exterior de duas milhas contadas a partir do farolim do Esporão;\n\nb) No rio Douro, em toda a zona navegável do rio até à orla dos bancos de fora.\n\n2 - É, porém, indispensável a presença do piloto a bordo na navegação e manobras efectuadas nas seguintes áreas:\n\na) No rio Douro, até uma milha a oeste do farolim de Felgueiras;\n\nb) Em Leixões, no interior do porto e ao norte do paralelo do farolim do Esporão.\n\n3 - Para efeitos do artigo 7.º deste Regulamento, considera-se limite exterior do porto de Leixões o paralelo do farolim do Esporão e no rio Douro a linha que une a bóia n.º 2 com o farolim de Felgueiras.\n\n4 - As embarcações que, para esperar maré ou lugar no cais, tenham que fundear fora do porto, dentro da área de pilotagem obrigatória referida no n.º 1 deste artigo, não serão obrigadas a pagamento de qualquer taxa, desde que não utilizem os serviços de pilotagem.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::48.º",
+      "epigrafe": "",
+      "texto": "1 - As embarcações que, vindas de fora da área de pilotagem, se destinem directamente aos locais de atracação passarão a pagar taxa de pilotagem por ocupação extraordinária de piloto - tabela C - se, duas horas depois da hora indicada no seu aviso de chegada, não estiverem prontas a receber piloto.\n\n2 - As remunerações do serviço de pilotagem devidas pelos navios que se destinam ao posto A do terminal petrolífero de Leixões serão as seguintes:\n\nTabela A - pela navegação efectuada na aproximação e entrada do navio na zona de manobra (considera-se para este efeito que o navio entrou na zona de manobra logo que transpôs, para leste, a linha norte-sul que passa pelo farolim do Esporão);\n\nTabela B - pela navegação efectuada desde a entrada na zona de manobra até ao local de atracação;\n\nTabela B - pela manobra de atracação.\n\nDe saída os navios pagarão as mesmas tabelas pela ordem inversa.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::50.º",
+      "epigrafe": "",
+      "texto": "1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas no percurso entre a orla dos bancos de fora e o cais comercial de Faro e também entre os mesmos bancos e a doca de Olhão.\n\n2 - A pilotagem pode fazer-se pela presença de piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento, até à entrada dos molhes da barra.\n\n3 - Para efeitos do artigo 7.º, considera-se limite exterior do porto de Faro e Olhão a linha que une os dois molhes.\n\n4 - É indispensável a presença do piloto a bordo na navegação e manobras efectuadas no percurso entre os molhes da barra e o cais comercial de Faro ou entre os mesmos molhes e a doca de Olhão.\n\nII - Requisições",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::54.º",
+      "epigrafe": "",
+      "texto": "1 - São isentos do pagamento de taxas de pilotagem, quando não utilizem os serviços de pilotagem:\n\na) Na entrada e saída do porto e nos movimentos e manobras no interior do mesmo, os navios nacionais registados exclusivamente na navegação costeira de tonelagem inferior a 200 tb;\n\nb) Na entrada e saída do porto e nos movimentos e manobras no interior do mesmo, os navios nacionais de pesca do alto e costeira de tonelagem inferior a 250 tb.\n\n2 - Para o cálculo das tonelagens referidas nas alíneas do número anterior aplicar-se-á o critério da alínea a) do n.º 1 do artigo 23.º deste Regulamento.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::57.º",
+      "epigrafe": "",
+      "texto": "1 - A pilotagem é obrigatória para todas as embarcações, nacionais e estrangeiras, na navegação e ou manobras efectuadas na área para leste do arco de círculo oeste com raio de duas milhas centrado na ponta oeste do molhe norte.\n\n2 - A pilotagem pode fazer-se pela presença do piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento.\n\n3 - É, porém, indispensável a presença do piloto a bordo na navegação e manobras efectuadas na área a leste da bóia n.º 2.\n\n4 - Para efeitos do artigo 7.º deste Regulamento, considera-se limite exterior do porto a linha definida pelas pontas dos molhes.\n\nII - Requisições",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::58.º",
+      "epigrafe": "",
+      "texto": "As requisições de serviços de pilotagem devem ser dirigidas para «Departamento de Pilotagem do Porto da Figueira da Foz (DPPFF)» e feitas normalmente do seguinte modo:\n\na) Entradas. - Por telefone ou rádio, com uma antecedência não inferior a seis horas em relação à hora de chegada da embarcação, contendo os seguintes elementos:\n\nNome do navio;\n\nHora de chegada à área de pilotagem obrigatória;\n\nCalado do navio;\n\nProcedência;\n\nb) Saídas e movimentos no rio - por telefone, devendo ser efectuadas dentro do horário, das 9 às 17 horas, e com pelo menos três horas de antecedência em relação à hora do praia-mar;\n\nc) Pedidos de emergência. - Podem ser feitos por telefone ou directamente, a qualquer hora.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::60.º",
+      "epigrafe": "",
+      "texto": "Quando, por motivo de mau tempo, o piloto não puder embarcar fora da barra, este entrará em contacto com o navio por fonia ou VHF e orientá-lo-á na entrada, processando-se o embarque dentro do rio e o mais próximo possível da barra.\n\nIII - Taxas",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::67.º",
+      "epigrafe": "",
+      "texto": "1 - O embarque e desembarque dos pilotos nos serviços de entradas e saídas poderá efectuar-se em Cascais ou no Bom Sucesso, por intermédio de embarcações do DPPL.\n\n2 - Em Cascais, o embarque e desembarque processa-se a qualquer hora, devendo o navio pairar para o efeito nas imediações da posição 38º 40,8' N. e 09º 24' W. No entanto, perante acordo prévio, o embarque ou desembarque poderá ser feito noutro local, desde que as condições meteorológicas o permitam.\n\n3 - No Bom Sucesso, para o embarque e desembarque do piloto a embarcação deverá pairar a sul desta estação.\n\n4 - O embarque do piloto no Bom Sucesso para navios de entrada poderá efectuar-se:\n\na) Entre as 6 e as 18 horas e 30 minutos, normalmente, para todos os navios;\n\nb) Entre as 18 horas e 30 minutos e as 24 horas, só para os navios que nestes períodos tenham livre prática ou visita extraordinária das autoridades portuárias ou estejam dispensados de tais visitas;\n\nc) Entre as 24 e as 6 horas, para todos os navios cuja atracação esteja condicionada e que se verifique dentro desse período, ou que tenham livre prática ou tenham requisitado visita extraordinária às autoridades portuárias ou estejam dispensados delas.\n\n5 - O embarque do piloto no Bom Sucesso para a saída de navios fundeados a oeste da Torre de Belém poderá efectuar-se a qualquer hora, desde que a sua presença tenha sido requisitada com a observância das normas estabelecidas no artigo 65.º\n\n6 - O desembarque de pilotos de navios em movimento de saída poderá processar-se no Bom Sucesso a qualquer hora.\n\n7 - O fornecimento de meio de transporte de e para bordo dos pilotos que vão prestar serviços às embarcações fundeadas para leste da Torre de Belém ou atracadas na margem sul é da responsabilidade da embarcação.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::75.º",
+      "epigrafe": "",
+      "texto": "As requisições de serviço de pilotagem devem ser dirigidas para «Pilotagem de Portimão» e feitas normalmente do seguinte modo:\n\na) Entradas. - Por telefone ou por impresso próprio, com antecedência não inferior a seis horas em relação à hora de chegada da embarcação, contendo os seguintes elementos:\n\nNome do navio;\n\nHora de chegada à área de pilotagem obrigatória;\n\nCalado do navio;\n\nProcedência;\n\nb) Saídas e movimentos no rio - por telefone e devem ser efectuadas dentro do horário das 9 horas e 30 minutos às 17 horas e 30 minutos nos dias úteis, excepto aos sábados, que será das 9 horas e 30 minutos às 13 horas, com, pelo menos, três horas de antecedência em relação à hora do praia-mar.\n\nc) Pedidos de emergência. - Podem ser feitos por telefone ou directamente a qualquer hora.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::82.º",
+      "epigrafe": "",
+      "texto": "1 - O embarque e desembarque dos pilotos nos serviços de entradas e saídas poderá efectuar-se por intermédio de embarcações do DPPS.\n\n2 - O embarque e desembarque dos pilotos nos serviços, entradas e saídas e nos movimentos no porto processam-se a qualquer hora, salvo o condicionalismo de calados, marés, mau tempo ou outros que não aconselhem as manobras.\n\n3 - O fornecimento de meio de transporte de e para bordo dos pilotos que vão prestar serviço às embarcações é da responsabilidade da embarcação.\n\n4 - Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 40.º\n\nIII - Taxas",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::88.º",
+      "epigrafe": "",
+      "texto": "Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 40.º\nIII - Taxas",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::93.º",
+      "epigrafe": "",
+      "texto": "1 - As requisições de serviço de pilotagem devem ser dirigidas para «Pilotagem de Viana - Torre de Vigia» e feitas normalmente do seguinte modo:\n\na) Entradas - por telefone, podendo ser recebidas das 8 às 18 horas, mas com uma antecedência não inferior a seis horas nem superior a vinte e quatro horas em relação à hora da chegada da embarcação à área de pilotagem, contendo os seguintes elementos:\n\nNome do navio;\n\nHora da chegada à área de pilotagem obrigatória;\n\nCalado do navio;\n\nProcedência;\n\nb) Saídas e movimentos no interior do porto - por telefone, podendo ser recebidas das 8 às 18 horas, e com, pelo menos, a antecedência de seis horas para movimento de saldas e de duas horas de antecedência para movimento no interior do porto. No caso de saída, deve conter os seguintes elementos:\n\nNome do navio;\n\nCalado do navio;\n\nPorto de destino;\n\nMovimento que a embarcação pretende efectuar.\n\n2 - Para efeitos das requisições a que se refere o número anterior, o DPPVC dispõe de uma estação localizada na torre de Vigia, no molhe norte do canal de acesso à doca de flutuação, e dos seguintes meios de comunicação:\n\na) Telefone. - N.º 22697;\n\nb) IF. - Em escuta sem carácter de obrigatoriedade em 2182 kHz, respondendo em 2341 kHz ou ainda em 2132 kHz;\n\nc) VHF. - Em escuta com a lancha em movimento no canal 16, podendo, no entanto, responder em qualquer dos seguintes canais: 11, 13 e 16.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::94.º",
+      "epigrafe": "",
+      "texto": "1 - O embarque e desembarque dos pilotos nos serviços de entradas e saídas efectua-se na área da orla dos bancos de fora da barra.\n\n2 - O embarque e desembarque dos pilotos estão condicionados às horas aproximadas do praia-mar, desde que as condições meteorológicas o permitam, e far-se-á por intermédio da embarcação do DPPVC.\n\nIII - Taxas",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::99.º",
+      "epigrafe": "",
+      "texto": "As requisições dos serviços de pilotagem devem ser dirigidas para «Departamento de Pilotagem de Vila Real de Santo António (DPPVR)» e feitas normalmente do seguinte modo:\n\na) Entradas. - Por telefone ou radiotelegrama, com uma antecedência não inferior a seis horas em relação à hora de chegada da embarcação, contendo os seguintes elementos:\n\nNome do navio;\n\nHora de chegada à área de pilotagem obrigatória;\n\nCalado do navio;\n\nProcedência;\n\nb) Saldas e movimentos no interior do porto - por telefone, dentro do horário, das 9 às 17 horas e 30 minutos e com, pelo menos, três horas de antecedência em relação à hora do praia-mar:\n\nc) Pedidos de emergência. - Podem ser feitos por telefone ou directamente a qualquer hora.",
+      "alterador": 2
+    },
+    {
+      "chave": "51.º-A",
+      "epigrafe": "(Limite de idade)",
+      "texto": "O limite de idade para o exercício de funções pelo pessoal do INPP é o aprovado pelo [Decreto n.º 16563](https://diariodarepublica.pt/dr/detalhe/decreto/16563-1929-358735), de 5 de Março de 1929, com excepção do dos pilotos e do pessoal auxiliar de pilotagem, que é fixado em 65 anos.",
+      "alterador": 9
+    },
+    {
+      "chave": "67.º-A",
+      "epigrafe": "(Quadro de pessoal)",
+      "texto": "O Departamento de Pilotagem do Funchal terá o seguinte quadro de pessoal:\n\n3 pilotos.\n\n2 mestres.\n\n2 motoristas.\n\n1 contínuo.",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º-A",
+      "epigrafe": "",
+      "texto": "1 - A pilotagem é obrigatória para todas as embarcações nacionais e estrangeiras na navegação e ou manobras efectuadas:\n\na) No porto do Funchal - na área não superior a três milhas do extremo leste do molhe-cais;\n\nb) Na praia Formosa - na área não superior a três milhas do quadro da amarração.\n\n2 - Quando requisitados os serviços de pilotagem, podem ainda ser prestados em qualquer outra área do arquipélago da Madeira.\n\n3 - A pilotagem pode fazer-se pela presença do piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento.\n\n4 - Para efeitos do artigo 7.º deste Regulamento consideram-se os seguintes limites exteriores:\n\na) No porto do Funchal, a distância de uma milha do extremo leste do cais-molhe;\n\nb) Na praia Formosa, a distância de uma milha do quadro de amarração.\n\n5 - É, porém, indispensável a presença do piloto a bordo na navegação e manobras efectuadas nas seguintes áreas:\n\na) Porto do Funchal - na área para oeste do meridiano 16 53.9 W. e para norte do paralelo 32 38.0 N.;\n\nb) Praia Formosa - na área limitada a norte pela linha da costa, a sul pela linha que une os pontos 32 38.0 N. e 16 58 W. e 32 37.5 N. e 16 57.4 W., a leste pela linha correspondente ao Zv = 045º à chaminé do lado poente da fábrica Walle (32 38.0 N., 16 56.8 W.) e a oeste pela linha correspondente ao Zv = 054º à torre da igreja de S. Martinho (32 38.9 N. e 16 56.6 W.).\n\nII - Requisições",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º-B",
+      "epigrafe": "",
+      "texto": "1 - As requisições de serviços de pilotagem devem ser dirigidas para pilotos do Funchal, na cidade do Funchal, e feitas normalmente do seguinte modo:\n\na) Entradas - por radiograma que pode ser enviado a qualquer hora, mas com a antecedência não inferior a seis horas nem superior a vinte e quatro horas, em relação à hora de chegada da embarcação à área de pilotagem, contendo os seguintes elementos:\n\nNome da embarcação;\n\nHora de chegada à área de pilotagem;\n\nCalado da embarcação;\n\nTonelagem bruta;\n\nProcedência;\n\nb) Saídas e movimento no porto - por avisos das agências ou chamadas telefónicas dentro do horário das 9 horas e 30 minutos às 12 horas e 30 minutos e das 14 horas às 17 horas e 30 minutos e com pelo menos duas horas de antecedência em relação à hora do início do movimento da embarcação, indicando os seguintes elementos:\n\nNome do navio;\n\nNome do agente;\n\nMovimento que a embarcação pretende efectuar;\n\nHora de início do movimento da embarcação;\n\nNo caso de saída, qual o porto de destino;\n\nc) Pedidos de emergência - podem ser feitos por qualquer meio e sistema e a qualquer hora.\n\n2 - Para efeitos das requisições a que se refere o número anterior, o departamento de pilotagem do porto do Funchal dispõe de uma estação localizada na Avenida do Mar, 15, 2.º, no Funchal, e dos seguintes meios de comunicação:\n\na) VHF escuta das 9 horas e 30 minutos às 12 horas e 30 minutos e das 14 horas às 17 horas e 30 minutos no canal 16;\n\nb) Telefone pelo seguinte número: 2 56 37;\n\nc) Embarcação dos pilotos, pessoal permanente e VHF escuta canal 16.",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º-C",
+      "epigrafe": "",
+      "texto": "Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 40.º\n\nIII - Taxas",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º-D",
+      "epigrafe": "",
+      "texto": "1 - São isentos do pagamento de taxas de pilotagem, quando não utilizem os serviços de pilotagem:\n\na) Na entrada e saída do porto e movimentos e manobras no interior do porto, os navios nacionais registados exclusivamente na navegação costeira de tonelagem inferior a 200 tAB;\n\nb) Na entrada e saída do porto e movimentos e manobras no interior do porto, os navios nacionais de pesca do alto e costeira de tonelagem inferior a 500 tAB.\n\n2 - Para o cálculo das tonelagens referidas nas alíneas do número anterior, aplicar-se-á o critério da alínea a) do n.º 1 do artigo 23.º deste Regulamento.\n\n3 - As embarcações que escalam o porto do Funchal em viagem de turismo, sem efectuar qualquer operação comercial, beneficiam de uma redução de 50% na tabela A.",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º-E",
+      "epigrafe": "",
+      "texto": "As taxas de ocupação extraordinária de pilotos a cobrar são as que constam da tabela C anexa a este Regulamento, depois de lhe ser aplicado o coeficiente estabelecido, nos termos do n.º 1 do artigo 30.º",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º-F",
+      "epigrafe": "",
+      "texto": "As taxas de aluguer de material a cobrar são as que constam da tabela D, anexa a este Regulamento.",
+      "alterador": 3
     },
     {
       "chave": "10.º",
       "epigrafe": "(Conceito)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "O conselho directivo é o órgão de gestão do INPP, com as competências definidas no artigo 12.º",
+      "alterador": 18
     },
     {
       "chave": "11.º",
       "epigrafe": "(Constituição)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "1 - O conselho directivo é nomeado pelo Ministro do Equipamento, do Planeamento e da Administração do Território, sendo constituído por um presidente, equiparado a director-geral, e dois vogais, equiparados a subdirectores-gerais.\n\n2 - O presidente é substituído, nas suas faltas e impedimentos, pelo vogal por si designado.\n\n3 - Os membros do conselho directivo têm direito à remuneração a fixar por despacho conjunto dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território e do membro do Governo que tem a seu cargo a Administração Pública.",
+      "alterador": 18
     },
     {
       "chave": "13.º",
-      "epigrafe": "Competência do presidente",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "epigrafe": "(Competência do presidente)",
+      "texto": "Compete especialmente ao presidente do INPP:\n\na) Convocar e presidir ao conselho directivo;\n\nb) Assegurar as relações do INPP com o Governo e com os organismos da Administração Pública;\n\nc) Convocar reuniões conjuntas do conselho directivo com as comissões administrativas dos departamentos sempre que o julgar conveniente;\n\nd) Representar o INPP em juízo e fora dele.",
+      "alterador": 18
     },
     {
       "chave": "14.º",
       "epigrafe": "(Funcionamento)",
-      "texto": "(Revogado.)",
-      "alterador": 20
+      "texto": "1 - O conselho directivo reúne ordinariamente uma vez por semana e, extraordinariamente, sempre que o presidente o julgue conveniente ou quando for requerido pelos dois vogais.\n\n2 - O conselho directivo só pode deliberar quando estiver presente a maioria dos seus membros.\n\n3 - As deliberações são tomadas por maioria absoluta, gozando o presidente ou quem o substituir de voto de qualidade.\n\n4 - As deliberações do conselho directivo são registadas em acta e assinadas pelos membros presentes na reunião.",
+      "alterador": 18
     },
     {
       "chave": "15.º",
@@ -252,1804 +606,68 @@
       "epigrafe": "(Participação)",
       "texto": "(Revogado.)",
       "alterador": 18
-    },
-    {
-      "chave": "1.º",
-      "epigrafe": "(Conceito)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "4.º",
-      "epigrafe": "(Atribuições)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "5.º",
-      "epigrafe": "(Natureza, âmbito e regime de serviço)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "7.º",
-      "epigrafe": "(Uso público dos serviços)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "8.º",
-      "epigrafe": "(Relações com outros serviços ou entidades)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "20.º",
-      "epigrafe": "(Conceito)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "21.º",
-      "epigrafe": "(Constituição)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "22.º",
-      "epigrafe": "(Atribuições da secção de expediente e pessoal)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "23.º",
-      "epigrafe": "(Atribuições da secção de contabilidade, tesouraria e aprovisionamento)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "24.º",
-      "epigrafe": "(Constituição)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "26.º",
-      "epigrafe": "(Classificação)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "27.º",
-      "epigrafe": "(Conceito)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "28.º",
-      "epigrafe": "(Constituição)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "30.º",
-      "epigrafe": "(Responsabilidade)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "32.º",
-      "epigrafe": "(Receitas)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "33.º",
-      "epigrafe": "(Cobrança e arrecadação das receitas locais)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "34.º",
-      "epigrafe": "(Exame e aprovação dos balancetes)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "36.º",
-      "epigrafe": "(Despesas)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "37.º",
-      "epigrafe": "(Dívida ao INPP)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "39.º",
-      "epigrafe": "(Previsões da gestão financeira)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "40.º",
-      "epigrafe": "(Aprovação dos planos de actividade e do orçamento)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "41.º",
-      "epigrafe": "(Transferências de verbas)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "42.º",
-      "epigrafe": "(Alienação de bens)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "43.º",
-      "epigrafe": "(Empréstimos)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "45.º",
-      "epigrafe": "(Livros e impressos)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "47.º",
-      "epigrafe": "(Elaboração de um «Desenvolvimento»)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "48.º",
-      "epigrafe": "(Saldos da conta «Resultados»)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "49.º",
-      "epigrafe": "(Aprovação do relatório e contas anuais da gerência)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "50.º",
-      "epigrafe": "(Arquivo)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "51.º",
-      "epigrafe": "(Regime jurídico)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "52.º",
-      "epigrafe": "(Pessoal do quadro)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "53.º",
-      "epigrafe": "(Remunerações)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "55.º",
-      "epigrafe": "(Pessoal contratado e assalariado além do quadro)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "56.º",
-      "epigrafe": "(Prestação de serviços)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "68.º",
-      "epigrafe": "(Regime de serviço prestado no conselho de gestão)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "69.º",
-      "epigrafe": "(Selo branco)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "70.º",
-      "epigrafe": "(contratos de arrendamento)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "74.º",
-      "epigrafe": "(Extinção das corporações/secções)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "75.º",
-      "epigrafe": "(Normas subsidiárias)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "76.º",
-      "epigrafe": "(Regime especial)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "77.º",
-      "epigrafe": "(Credencial)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "81.º",
-      "epigrafe": "(Quadros de pessoal)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "83.º",
-      "epigrafe": "(Preenchimento dos novos quadros)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "84.º",
-      "epigrafe": "(Transferência do património)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "85.º",
-      "epigrafe": "(Ressalva de direitos)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "86.º",
-      "epigrafe": "(Vencimentos)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "87.º",
-      "epigrafe": "(Lista nominativa)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "88.º",
-      "epigrafe": "(Integração da pilotagem da Madeira e dos Açores)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "89.º",
-      "epigrafe": "(Encargos decorrentes da execução deste diploma)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "90.º",
-      "epigrafe": "(Legislação revogada)",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::1.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::2.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::3.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::4.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::5.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::6.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::7.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::8.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::9.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::10.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::11.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::12.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::13.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::14.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::15.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::16.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::17.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::18.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::19.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::20.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::21.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::22.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::23.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::24.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::25.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::26.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::27.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::28.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::29.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::30.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::31.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::32.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::33.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::34.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::35.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::36.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::37.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::38.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::39.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::40.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::41.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::42.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::43.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::44.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::45.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::46.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::47.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::48.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::49.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::50.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::51.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::52.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::53.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::54.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::55.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::56.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::57.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::60.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::61.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::62.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::63.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::64.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::65.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::66.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::67.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::68.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::69.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::70.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::71.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::72.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO I — Estatuto do pessoal::73.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::1.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::2.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::3.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::4.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::5.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::6.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::7.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::8.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::9.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::10.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::11.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::12.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::13.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::14.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::15.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::16.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::17.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::18.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::19.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::20.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::21.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::22.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::23.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::24.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::25.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::26.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::27.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::28.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::29.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::30.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::31.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::32.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::33.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::34.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::35.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::36.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::37.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::38.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::39.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::40.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::41.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::42.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::43.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::44.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::45.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::46.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::47.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::48.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::49.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::50.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::51.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::52.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::53.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::54.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::55.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::56.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::57.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::58.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::59.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::60.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::61.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::62.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::63.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::64.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::65.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::66.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::67.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::68.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::69.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::70.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::71.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::72.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::73.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::1.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::2.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::3.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::4.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::5.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::6.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::7.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::8.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::9.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::10.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::11.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::12.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::13.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::14.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::15.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::16.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::17.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::18.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::19.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::20.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::21.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::22.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::23.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::24.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::25.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::26.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::27.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::28.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::29.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::30.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::31.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::32.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::33.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::34.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::35.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::36.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::37.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::38.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::39.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::40.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::41.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::42.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::43.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::44.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::45.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::46.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::47.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::48.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::49.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::50.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::51.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::52.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::53.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::54.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::55.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::56.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::57.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::58.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::59.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::60.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::61.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::62.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::63.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::64.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::65.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::66.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::67.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::68.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::69.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::70.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::71.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::72.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::73.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::74.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::75.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::76.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::77.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::78.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::79.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::80.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::81.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::82.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::83.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::84.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::85.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::86.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::87.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::88.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::89.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::90.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::91.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::92.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::93.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::94.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::95.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::96.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::97.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::98.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::99.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::100.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::101.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::102.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
-    },
-    {
-      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::103.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 20
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 (Portaria n.º 49/79): fixa os coeficientes (32, 45, 83) a aplicar às verbas das tabelas A, B e C a que se referem os artigos 24.º e 30.º do Regulamento de Prestação de Serviços e Taxas, ao abrigo do n.º 3 do artigo 32.º do Decreto-Lei n.º 361/78. Não contém nenhuma instrução textual dirigida ao original (nenhuma substituição, aditamento, revogação, retificação ou renumeração de artigos, números, alíneas ou epígrafes); é um ato regulamentar complementar, não uma alteração ao texto. As tabelas A, B e C a que os coeficientes se aplicam não constam do texto atual do pedido. Nenhum artigo foi alterado. | Alterador 18, artigo 2.º: nova epígrafe da secção I da divisão II do capítulo II («Conselho directivo») é um título de secção, não um artigo, e o texto atual não traz títulos de secção, pelo que não há unidade a que a aplicar. Alterador 19 (DL 234-A/98), artigo único: suspensão da aplicabilidade do artigo 5.º aos portos do continente não é alteração textual; o artigo 5.º fica com o texto atual. Alteradores 16 (DL 296-A/95, Lei Orgânica do Governo) e 17 (Portaria 240/96, atualização de remunerações) não contêm instruções dirigidas ao texto do original. | Alterador 20, artigo 12.º, n.º 1, alínea a): a excepção à revogação refere 'artigos 58.º, 59.º e 72.º, com a redacção que lhes foi dada pelos artigos 1.º e 5.º do Decreto-Lei n.º 188/89'. O pedido não diz se 58.º e 59.º são os do corpo do diploma (quadros de pessoal, já '(Revogado.)' no texto atual) ou os do Anexo I — Estatuto do pessoal (aposentação, matéria do DL 188/89). Interpretei-os como os do Anexo I e deixei esses dois em vigor (não os revoguei); os 58.º e 59.º do corpo já estavam revogados e não mudam. Se a excepção fosse só aos do corpo, os Anexo I::58.º e 59.º teriam também de passar a '(Revogado.)'. As restantes disposições do alterador 20 (extinção do INPP, sucessão de direitos, património, pessoal) e o artigo 6.º, n.º 2, do alterador 21 (salvaguarda dos acréscimos até 31-12-2005) não são alterações textuais ao diploma.",
+  "titulos": [
+    {
+      "atual": "##### DIVISÃO VI — Lisboa",
+      "novo": "##### DIVISÃO V — Lisboa",
+      "alterador": 2
+    },
+    {
+      "atual": "##### DIVISÃO VII — Portimão",
+      "novo": "##### DIVISÃO VI — Portimão",
+      "alterador": 2
+    },
+    {
+      "atual": "##### DIVISÃO VIII — Setúbal",
+      "novo": "##### DIVISÃO VII — Setúbal",
+      "alterador": 2
+    },
+    {
+      "atual": "##### DIVISÃO IX — Sines",
+      "novo": "##### DIVISÃO VIII — Sines",
+      "alterador": 2
+    },
+    {
+      "atual": "##### DIVISÃO X — Viana do Castelo",
+      "novo": "##### DIVISÃO IX — Viana do Castelo",
+      "alterador": 2
+    },
+    {
+      "atual": "##### DIVISÃO XI — Vila Real de Santo António",
+      "novo": "##### DIVISÃO X — Vila Real de Santo António",
+      "alterador": 2
+    },
+    {
+      "atual": "#### SECÇÃO I — Conselho de gestão",
+      "novo": "#### SECÇÃO I — Conselho directivo",
+      "alterador": 18
+    }
+  ],
+  "nao_aplicavel": "Não textuais ou sem alvo no texto: alteradores 1, 7 e 8 (coeficientes das taxas e valores da tabela D, que só existe como título/imagem), 12 e 15 (percentagem do Fundo de Aposentações), 14 (actualização de remunerações); alterador 2: nota B da tabela C (anexo II só com título) e figura do anexo IV (imagem); alterador 3, n.º 1 (classificação do Departamento do Funchal na 2.ª categoria) e títulos novos 'Funchal' e 'DIVISÃO XI — Funchal', que não existem no texto atual (não inventados como títulos). Alterador 13, art. 2.º, n.º 1: a revogação dos artigos 58.º a 67.º não foi aplicada, porque o n.º 3 adia o seu efeito para a entrada em vigor da portaria de fixação dos quadros de pessoal (facto futuro); esses artigos ficam com o texto atual, salvo o 64.º, que leva as alterações dos alteradores 2 e 4/5 (n.º 1 com 4 pilotos). | Alterador 20 (DL 331/98, art. 12.º, n.º 1, a)): revoga o DL 361/78 com excepção do art. 35.º n.º 1 d), 2, 3 e 4 e dos arts. 58.º, 59.º e 72.º, mas 'sem prejuízo' das disposições transitórias e dos diplomas que venham a reestruturar as juntas autónomas e administrações portuárias (o art. 2.º, n.º 3, mantém as atribuições do INPP até lá): efeito adiado para data incerta e excepções ambíguas (58.º/59.º do diploma ou do anexo I), não aplicada. Alterador 19 (DL 234-A/98): suspende a aplicabilidade do art. 5.º aos portos do continente; não é alteração textual. Alterador 18, art. 9.º: a nova redação ('1 - ... a) O conselho directivo; b) ... c) ...', seguida de n.os 2 e 3 sobre serviços e departamentos) foi escrita sobre uma estrutura de 3 números; apliquei o '1 - ...' à lista de órgãos (antigo n.º 2), o que faz desaparecer o atual n.º 1 ('O INPP compreenderá') e o n.º 5 (grupos de trabalho); a correspondência é incerta. | Alterador 21 (DL 229/2005), artigo 2.º, proémio: a revogação genérica de \"todas as normas que estabelecem acréscimos de tempo de serviço\" não nomeia outras disposições do original; o artigo 59.º do Anexo I (Estatuto do pessoal), que prevê acréscimos idênticos, não é indicado expressamente e não foi revogado. Artigo 3.º, n.º 3 (revogação das disposições que contrariem) é condicional e não se aplica ao texto. Artigo 6.º, n.º 2 (salvaguarda dos acréscimos até 31-12-2005) não altera o texto.",
   "instrucoes": [
-    "Alterador 1 (Portaria n.º 49/79), n.os 1 a 6: fixação dos coeficientes a aplicar às tabelas A, B e C dos artigos 24.º e 30.º do Regulamento de Prestação de Serviços e Taxas (anexo), regras de classificação das embarcações para efeito dos coeficientes e entrada em vigor — não é uma alteração textual ao Decreto-Lei n.º 361/78; nada aplicado ao texto.",
-    "Alterador 16 (DL 296-A/95): Lei Orgânica do Governo; apenas transfere o INPP para a dependência do Ministro do Equipamento Social (art. 19.º, n.º 3, m); sem alteração textual ao original: nada feito.",
-    "Alterador 17 (Portaria 240/96): atualiza tabelas de remunerações dos pilotos ao abrigo do art. 53.º e do art. 40.º do anexo I; sem alteração textual ao original: nada feito.",
-    "Alterador 18 (DL 143/97), art. 1.º: nova redação dos artigos 9.º, 10.º, 11.º, 12.º, 13.º e 14.º; aplicada, mantendo as epígrafes atuais onde o alterador traz [...] e o texto atual onde traz ...; o 13.º recebe a epígrafe nova «Competência do presidente».",
-    "Alterador 18 (DL 143/97), art. 2.º: nova epígrafe da secção I da divisão II do capítulo II; não aplicável (título de secção, não artigo).",
-    "Alterador 18 (DL 143/97), art. 3.º: revoga os artigos 15.º a 19.º; aplicada, um elemento «(Revogado.)» por artigo.",
-    "Alterador 19 (DL 234-A/98): suspende a aplicabilidade do art. 5.º aos portos do continente; não é alteração textual: nada feito.",
-    "Alterador 20 (DL 331/98), art. 12.º n.º 1 a): revoga o DL 361/78 com excepção do art. 35.º n.º 1 alínea d) e n.os 2, 3 e 4, e dos artigos 58.º, 59.º e 72.º. Apliquei: todos os artigos do corpo e dos Anexos I, III e IV que ainda tinham texto passam a '(Revogado.)' (um elemento por artigo); os já '(Revogado.)' no texto atual (15.º a 19.º, 58.º a 67.º, 73.º, 78.º, 79.º) não mudam; Anexo I 58.º e 59.º mantidos (ver nao_aplicavel).",
-    "Alterador 20, mesma alínea, excepção parcial ao art. 35.º: n.º 1 alíneas a), b) e c) passam a '(Revogada.)'; proémio do n.º 1, alínea d) e n.os 2, 3 e 4 mantidos letra a letra.",
-    "Alterador 20, excepção ao art. 72.º: ficou em vigor após o alterador 20, mas o alterador 21 (DL 229/2005), art. 2.º alínea c), revoga expressamente o artigo 72.º do DL 361/78 — art. 72.º passa a '(Revogado.)' com alterador 21.",
-    "Alterador 21, art. 2.º: as restantes alíneas revogam normas de outros diplomas — ignoradas."
+    "Alt.1 Portaria 49/79: fixa coeficientes, não textual.",
+    "Alt.2 Portaria 240/79: rectificações/alterações em 2.º,3.º,6.º,9.º,12.º,17.º,25.º,29.º,31.º,38.º,44.º,46.º,54.º,71.º,80.º,82.º do Estatuto; anexo I 1.º,4.º,5.º,6.º,14.º,15.º,20.º,29.º,30.º,35.º,40.º,42.º,53.º,63.º,64.º,69.º,73.º; anexo III 3.º,4.º,17.º,30.º,55.º,71.º; anexo IV 1.º,2.º,3.º,4.º,7.º,8.º,11.º,18.º,21.º,22.º,23.º,24.º,27.º,28.º,29.º,30.º,31.º,33.º,36.º,40.º,41.º (n.º 3 aditado),44.º,48.º,50.º,54.º,57.º,58.º,60.º,67.º,75.º,82.º,88.º,93.º,94.º,99.º; renumeração das divisões V a X do cap. III do anexo IV (títulos). 14.º n.º 5 sem diferença; 64.º depois revogado.",
+    "Alt.3 Portaria 273/79: aditado 67.º-A; anexo IV 1.º n.º 3 substituído (com Funchal); aditados 103.º-A a 103.º-F.",
+    "Alt.4/5 Portaria 123/80 (duplicada): 64.º n.º 1 com 4 pilotos (sobre a redacção do alt.2).",
+    "Alt.6 Portaria 443/80: nova redacção do 73.º; depois revogado pelo alt.9.",
+    "Alt.9 DL 188/89: 35.º (alínea d) do n.º 1 e n.os 3 e 4 aditados), 72.º nova redacção, aditado 51.º-A, revogado 73.º, anexo I 58.º e 59.º nova redacção.",
+    "Alt.10/11 DL 356/91 (duplicado): anexo I 19.º e 31.º, n.º 1 alínea a); art. 11.º do DL 101/88 ignorado.",
+    "Alt.13 DL 403/93: 57.º nova redacção; revogados 78.º e 79.º; revogação dos 58.º a 67.º não aplicada (efeito adiado, n.º 3).",
+    "Alt.7, 8, 12, 14, 15: não textuais.",
+    "Alterador 16 (DL 296-A/95, Lei Orgânica do Governo): só põe o INPP na dependência do Ministro do Equipamento Social; nenhuma alteração textual ao original.",
+    "Alterador 17 (Portaria 240/96): actualiza remunerações e senhas ao abrigo do art. 53.º e do art. 40.º do anexo I; nenhuma alteração textual.",
+    "Alterador 18 (DL 143/97), art. 1.º: nova redação dos arts. 9.º a 14.º (conselho directivo); aplicada, com nova epígrafe '(Competência do presidente)' no 13.º e as restantes epígrafes mantidas ([...]).",
+    "Alterador 18, art. 2.º: epígrafe da secção I da divisão II do capítulo II passa a 'Conselho directivo'; aplicada em titulos.",
+    "Alterador 18, art. 3.º: revoga os arts. 15.º a 19.º; cada um fica '(Revogado.)'.",
+    "Alterador 19 (DL 234-A/98): suspensão da aplicabilidade do art. 5.º; não textual, em nao_aplicavel.",
+    "Alterador 20 (DL 331/98), art. 12.º: revogação do DL 361/78 com excepções e ressalva de regime transitório até à reestruturação das juntas autónomas e administrações portuárias; não aplicada, em nao_aplicavel.",
+    "Alterador 21, art. 2.º, alínea c): revoga o artigo 72.º do Decreto-Lei n.º 361/78 — artigo 72.º passa a (Revogado.).",
+    "Alterador 21, art. 2.º, proémio (revogação genérica de normas de acréscimo de tempo de serviço): sem alvo expresso além do 72.º; não aplicado ao Anexo I::59.º.",
+    "Alterador 21, art. 3.º, n.º 3: revogação condicional das disposições que contrariem; não aplicada.",
+    "Restantes artigos do alterador 21 dizem respeito a outros regimes ou diplomas; ignorados."
   ],
   "modelo": "claude-fable-5-1",
   "pedido": "completo",
@@ -2057,14 +675,7 @@
     {
       "n": 1,
       "alteradores": [
-        1
-      ],
-      "chars": 203985,
-      "artigos": 0
-    },
-    {
-      "n": 2,
-      "alteradores": [
+        1,
         2,
         3,
         4,
@@ -2080,28 +691,28 @@
         14,
         15
       ],
-      "chars": 274090,
-      "artigos": 34
+      "chars": 282572,
+      "artigos": 93
     },
     {
-      "n": 3,
+      "n": 2,
       "alteradores": [
         16,
         17,
         18,
-        19
+        19,
+        20
       ],
-      "chars": 240144,
+      "chars": 292873,
       "artigos": 11
     },
     {
-      "n": 4,
+      "n": 3,
       "alteradores": [
-        20,
         21
       ],
-      "chars": 255277,
-      "artigos": 321
+      "chars": 230490,
+      "artigos": 1
     }
   ],
   "problemas": []

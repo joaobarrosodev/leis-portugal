@@ -375,6 +375,22 @@ h) Pessoal auxiliar.
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
+Aprovado em Conselho do Governo Regional em 11 de Fevereiro de 1993.
+
+O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 2 de Março de 1993.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
+
+Anexo I ao Decreto Regulamentar Regional n.º 7/93/M, que consagra a orgânica da Direcção Regional de Florestas
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/073b00/15011511.pdf)
+
+Anexo II ao Decreto Regulamentar Regional n.º/93/M, que aprova a orgânica da Direcção Regional de Florestas
+
+Estatuto do Corpo de Polícia Florestal (CPF)
+
 ### CAPÍTULO I — Objecto e âmbito de aplicação
 
 ###### Artigo 1.º — Objecto e âmbito de aplicação
@@ -616,19 +632,3 @@ Zona II - considerada de penosidade média e que abrange os Postos Florestais da
 Zona III - considerada de baixa penosidade e que abrange os Postos Florestais da Ribeira das Cales, Encumeada, Santa (Porto Moniz), Poiso, Ribeiro Frio e Casa Velha - 1000$00.
 
 > Aditado pelo/a [Decreto Legislativo Regional n.º 4-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-a-1997-231958), publicado em 1997-04-21.
-
-Aprovado em Conselho do Governo Regional em 11 de Fevereiro de 1993.
-
-O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.
-
-Assinado em 2 de Março de 1993.
-
-O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
-
-Anexo I ao Decreto Regulamentar Regional n.º 7/93/M, que consagra a orgânica da Direcção Regional de Florestas
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/073b00/15011511.pdf)
-
-Anexo II ao Decreto Regulamentar Regional n.º/93/M, que aprova a orgânica da Direcção Regional de Florestas
-
-Estatuto do Corpo de Polícia Florestal (CPF)

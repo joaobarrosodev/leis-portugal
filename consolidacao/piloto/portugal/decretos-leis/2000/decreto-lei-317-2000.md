@@ -144,6 +144,20 @@ b) Num grupo, de modo que cada uma das luzes agrupadas, combinadas ou incorporad
 
 > Alterado pelo/a [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.
 
+Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa.
+
+Promulgado em 29 de Setembro de 2000.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 4 de Outubro de 2000.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+REGULAMENTO DA HOMOLOGAÇÃO DOS DISPOSITIVOS DE ILUMINAÇÃO E DE SINALIZAÇÃO LUMINOSA DOS AUTOMÓVEIS E SEUS REBOQUES.
+
 ### CAPÍTULO I — Disposições administrativas relativas à homologação das luzes de nevoeiro da retaguarda dos automóveis e seus reboques
 
 #### SECÇÃO I — Do pedido da homologação CE de componente e das marcações
@@ -1367,20 +1381,6 @@ A Direcção-Geral de Viação deve informar as autoridades competentes dos Esta
 ###### Artigo 70.º — Alterações
 
 As alterações necessárias para adaptar ao progresso técnico as prescrições dos capítulos do presente Regulamento devem ser adoptadas em conformidade com o procedimento previsto no artigo 13.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas.
-
-Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa.
-
-Promulgado em 29 de Setembro de 2000.
-
-Publique-se.
-
-O Presidente da República, JORGE SAMPAIO.
-
-Referendado em 4 de Outubro de 2000.
-
-O Primeiro-Ministro, António Manuel de Oliveira Guterres.
-
-REGULAMENTO DA HOMOLOGAÇÃO DOS DISPOSITIVOS DE ILUMINAÇÃO E DE SINALIZAÇÃO LUMINOSA DOS AUTOMÓVEIS E SEUS REBOQUES.
 
 ## ANEXO 1.º — (referente ao capítulo I)
 

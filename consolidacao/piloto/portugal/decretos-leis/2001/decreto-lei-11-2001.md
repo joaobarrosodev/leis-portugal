@@ -128,6 +128,20 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 > Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
+Visto e aprovado em Conselho de Ministros de 23 de Novembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa.
+
+Promulgado em 8 de Janeiro de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 11 de Janeiro de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+ESTATUTOS DA VALNOR - VALORIZAÇÃO E TRATAMENTO DE RESÍDUOS SÓLIDOS DO NORTE ALENTEJANO, S. A.
+
 ### CAPÍTULO I — Denominação, duração e sede
 
 ###### Artigo 1.º
@@ -377,17 +391,3 @@ A fiscalização da sociedade compete a um fiscal único e a um suplente, ambos 
 1 - O ano social coincide com o ano civil.
 
 2 - Os resultados apurados em cada exercício, exceptuando a parte destinada à constituição ou reintegração das reservas legais e de outras reservas obrigatórias nos termos do contrato de concessão, terão a aplicação que a assembleia geral deliberar.
-
-Visto e aprovado em Conselho de Ministros de 23 de Novembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa.
-
-Promulgado em 8 de Janeiro de 2001.
-
-Publique-se.
-
-O Presidente da República, JORGE SAMPAIO.
-
-Referendado em 11 de Janeiro de 2001.
-
-O Primeiro-Ministro, António Manuel de Oliveira Guterres.
-
-ESTATUTOS DA VALNOR - VALORIZAÇÃO E TRATAMENTO DE RESÍDUOS SÓLIDOS DO NORTE ALENTEJANO, S. A.

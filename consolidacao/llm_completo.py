@@ -50,7 +50,7 @@ from consolidar import PILOTO, _markdown, processar
 from juntar import METODO, _aplicar_resposta
 from llm import ESQUEMA
 from llm import _alteradores as _alteradores_da_selecao
-from texto import RAIZ, front_matter, publicado
+from texto import RAIZ, Artigo, front_matter, publicado
 from verificar import _REVOGADO, _plano
 
 
@@ -69,7 +69,9 @@ que, depois de todas, ainda tem de mudar em relação ao texto atual, e só dess
 Regras:
 - Uma instrução que altera OUTRO diploma ("o artigo 5.º do Decreto-Lei X, na redação dada pelo
   [original]") não é do original: ignora-a. Revogação condicional ("na parte em que contrariem")
-  não se aplica ao texto.
+  não se aplica ao texto, nem a revogação cujo efeito o diploma adia para um facto futuro (a
+  entrada em vigor de um regulamento ou de um plano, uma portaria a publicar): diz-o em
+  "nao_aplicavel".
 - O texto novo copia-se letra a letra do diploma que altera; o que a instrução não muda
   copia-se letra a letra do texto atual. Não corrijas grafia, pontuação nem gralhas.
 - "[...]", "..." ou "(...)" numa nova redação querem dizer "fica o texto atual dessa unidade".
@@ -84,6 +86,18 @@ Regras:
   seguintes são renumerados) ou que deixa de existir com a chave que tinha depois de uma
   renumeração (o antigo 14.º que passou a 13.º) vai em "removidos", a lista das chaves, e não em
   "artigos". Um artigo apenas revogado ("(Revogado.)") continua em "artigos".
+- Um artigo assinalado como "já alterado por um programa" pode ter ficado errado: se, depois de
+  todas as instruções, a redação certa for outra (por exemplo, o programa revogou um artigo que
+  nenhuma instrução revoga), devolve a redação certa.
+- Quando a mesma chave aparece duas vezes no texto atual (o decreto que aprova e o estatuto ou
+  regulamento que vem a seguir), a segunda vem como "4.º#2", a terceira "4.º#3": usa essa chave.
+- Os títulos de divisão (capítulos, secções, subsecções, títulos, livros) vêm no texto atual como
+  "#### Título de divisão: …", pela ordem em que estão. Uma instrução que muda a designação ou a
+  epígrafe de um deles, ou que o elimina, vai em "titulos": {"atual": a linha tal como vem, sem
+  "#### Título de divisão: ", "novo": a linha nova (com os mesmos "#" do início, e o texto novo
+  copiado letra a letra do diploma que altera) ou null para o eliminar, "alterador": o número}.
+  Não inventes títulos que não estão no texto atual. Põe-nos pela ordem do texto: um título que
+  se repete (o mesmo "TÍTULO II" em dois livros) entende-se o primeiro a seguir ao anterior da lista.
 - Se uma instrução não se puder aplicar com segurança (alvo ambíguo, texto que não existe no
   texto atual, anexo ou quadro que só vem em imagem, alteração que não é textual), não a
   inventes: diz em "nao_aplicavel" qual é e porquê. Se tudo ficou aplicado, "nao_aplicavel" é null.
@@ -98,10 +112,12 @@ SISTEMA_RESPOSTA = ESQUEMA | {
 FORMATO = """
 ## Formato da resposta
 Escreve (com a ferramenta Write) um ficheiro JSON com uma lista, um objeto por diploma do pedido (todos), assim:
-`{"id": "<id>", "artigos": [{"chave": "...", "epigrafe": "...", "texto": "...", "alterador": 1}], "removidos": ["chave", ...], "nao_aplicavel": null ou "texto", "instrucoes": ["resumo curto de cada instrução do original e o que fizeste"]}`
-Só usas o pedido; não leias mais nada. O "texto" de cada artigo é o corpo inteiro (sem o título "Artigo N.º"), parágrafos separados por uma linha em branco, copiado letra a letra do alterador ou do texto atual. "removidos" é [] quando nenhum artigo desaparece. Confirma no fim que o JSON é válido e que respondeste a todos os "<<<DIPLOMA id=...>>>".
+`{"id": "<id>", "artigos": [{"chave": "...", "epigrafe": "...", "texto": "...", "alterador": 1}], "removidos": ["chave", ...], "titulos": [{"atual": "#### SECÇÃO IV — …", "novo": "#### SECÇÃO IV — …", "alterador": 2}], "nao_aplicavel": null ou "texto", "instrucoes": ["resumo curto de cada instrução do original e o que fizeste"]}`
+Só usas o pedido; não leias mais nada. O "texto" de cada artigo é o corpo inteiro (sem o título "Artigo N.º"), parágrafos separados por uma linha em branco, copiado letra a letra do alterador ou do texto atual. "removidos" é [] quando nenhum artigo desaparece; "titulos" é [] quando nenhum título de divisão muda. Confirma no fim que o JSON é válido e que respondeste a todos os "<<<DIPLOMA id=...>>>".
 """
 
+_TITULO_DIVISAO = re.compile(r"^#{2,5} ")
+_ELIMINADO = "\x00título eliminado\x00"
 _NUMERACAO = re.compile(r"^(?:\d+[-–.\s]*|[a-z]\))\s*")
 _NOTA = re.compile(r"^> (?:Alterado|Aditado|Revogado|Retificado) pelo/a .*$", re.M)
 
@@ -124,6 +140,15 @@ def verificar_resposta(resultado: dict, selecao: dict, textos_atuais: list[str] 
             if _REVOGADO.match(p) or vem_de_algum(_plano(p)) or vem_de_algum(_plano(_NUMERACAO.sub("", p))):
                 continue
             problemas.append(f"{artigo['chave']}: parágrafo que não está no alterador nem no original: {p[:80]}")
+    for titulo in resultado.get("titulos") or []:
+        novo = titulo.get("novo")
+        if novo is None:
+            continue
+        texto = re.sub(r"^#+\s*", "", novo).strip()
+        # o identificador ("SECÇÃO IV") pode vir noutro formato; o que tem de vir do alterador é o texto
+        epigrafe = texto.split(" — ", 1)[-1].strip()
+        if not (vem_de_algum(_plano(texto)) or vem_de_algum(_plano(epigrafe))):
+            problemas.append(f"título {novo[:60]}: texto que não está no alterador nem no original")
     return problemas
 
 
@@ -149,11 +174,16 @@ def pedido(registo: dict, extra: dict, alteradores: list[dict] | None = None, in
     partes = [f"# Diploma original: {registo['title']}", ""]
     if aviso:
         partes += [aviso, ""]
-    partes.append("## Texto atual do original, por artigos")
-    for a in consolidado.artigos:
-        sinal = (" [já alterado por um programa]" if a.chave in tocados
-                 else " [já alterado numa passagem anterior]" if a.chave in tocados_llm else "")
-        partes += [f"### {a.chave}{sinal}", a.epigrafe, _NOTA.sub("", a.texto).strip(), ""]
+    partes.append("## Texto atual do original, por artigos (e os títulos de divisão, pela ordem do texto)")
+    chaves = consolidado.chaves_unicas()
+    for s in consolidado.segmentos:
+        if not isinstance(s, Artigo):
+            partes += [f"#### Título de divisão: {l.strip()}" for l in s if _TITULO_DIVISAO.match(l)]
+            continue
+        chave = chaves[id(s)]
+        sinal = (" [já alterado por um programa]" if s.chave in tocados
+                 else " [já alterado numa passagem anterior]" if chave in tocados_llm else "")
+        partes += [f"### {chave}{sinal}", s.epigrafe, _NOTA.sub("", s.texto).strip(), ""]
     partes.append("## Diplomas que alteram o original, por ordem de aplicação")
     for n, a in enumerate(alteradores, inicio):
         texto, completo = _texto_alterador(a["path"], registo["title"])
@@ -173,7 +203,7 @@ def _fundir(respostas: list[dict]) -> dict:
     o texto de um artigo é o da última resposta que o deu; os removidos somam-se (um artigo
     removido e depois dado outra vez deixa de estar removido); `nao_aplicavel` e `instrucoes`
     juntam-se."""
-    saida: dict = {"id": None, "artigos": [], "removidos": [], "nao_aplicavel": None, "instrucoes": []}
+    saida: dict = {"id": None, "artigos": [], "removidos": [], "titulos": [], "nao_aplicavel": None, "instrucoes": []}
     por_chave: dict[str, dict] = {}
     for r in respostas:
         saida["id"] = saida["id"] or r.get("id")
@@ -188,6 +218,7 @@ def _fundir(respostas: list[dict]) -> dict:
         if r.get("nao_aplicavel"):
             saida["nao_aplicavel"] = (saida["nao_aplicavel"] + " | " if saida["nao_aplicavel"] else "") + str(r["nao_aplicavel"])
         saida["instrucoes"] += list(r.get("instrucoes") or [])
+        saida["titulos"] += list(r.get("titulos") or [])  # aplicam-se pela ordem
     saida["artigos"] = list(por_chave.values())
     return saida
 
@@ -314,6 +345,7 @@ def _aplicar(resposta: dict, registo: dict, consolidado) -> tuple[list[Registo],
     registos_llm: list[Registo] = []
     citados: dict[str, dict] = {}
     grupos: dict[tuple, list[dict]] = {}
+    ultimos = _ultimos_do_original(registo)
     for novo in resposta["artigos"]:
         numeros = tuple(sorted({int(x) for x in re.findall(r"\d+", str(novo.get("alterador") or ""))} & set(por_numero))) or tuple(por_numero)
         grupos.setdefault(numeros, []).append(novo)
@@ -331,14 +363,38 @@ def _aplicar(resposta: dict, registo: dict, consolidado) -> tuple[list[Registo],
         if erro:
             return registos_llm, citados, erro
         registos_llm += feitos
+    a_remover = []
     for chave in resposta.get("removidos") or []:
         parte, _, numero = chave.rpartition("::")
         artigo = consolidado.artigo(parte, numero)
         if artigo is None:
             return registos_llm, citados, f"artigo a remover {chave} não existe"
-        consolidado.segmentos.remove(artigo)
+        a_remover.append(artigo)
+    for artigo in a_remover:  # por identidade: com chaves repetidas, dois artigos podem ser iguais
+        consolidado.segmentos = [s for s in consolidado.segmentos if s is not artigo]
         registos_llm.append(Registo(artigo.chave, "revogar", "llm", "\n".join(artigo.linhas).strip(), "", "", "", metodo="llm"))
-    _recolocar_assinaturas(consolidado)
+    cursor = (-1, -1)  # os títulos vêm pela ordem do texto: um repetido é o primeiro a seguir ao anterior
+    for titulo in resposta.get("titulos") or []:
+        feito, erro, cursor = _mudar_titulo(consolidado, titulo, cursor)
+        if erro:
+            return registos_llm, citados, erro
+        if feito is None:
+            continue
+        registos_llm.append(feito)
+        n = next(iter(sorted({int(x) for x in re.findall(r"\d+", str(titulo.get("alterador") or ""))} & set(por_numero))), None)
+        for a in [por_numero[n]] if n else alteradores:
+            citados[a["id"]] = a
+    # os títulos eliminados ficaram como linhas vazias marcadas: tiram-se agora, com a linha em branco a seguir
+    for s in consolidado.segmentos:
+        if not isinstance(s, Artigo) and _ELIMINADO in s:
+            i = len(s) - 1
+            while i >= 0:
+                if s[i] == _ELIMINADO:
+                    del s[i]
+                    if i < len(s) and not s[i].strip():
+                        del s[i]
+                i -= 1
+    _recolocar_assinaturas(consolidado, ultimos)
     if resposta.get("removidos") and not citados:
         citados.update({a["id"]: a for a in alteradores})
     return registos_llm, citados, None
@@ -375,9 +431,55 @@ def _junto(resposta: dict, registo: dict) -> dict:
     return linha
 
 
-def _recolocar_assinaturas(consolidado) -> None:
+def _ultimos_do_original(registo: dict) -> set[str]:
+    """A chave do último artigo de cada parte no original publicado: é aí que estão as fórmulas
+    finais. (Com os títulos normalizados quando o original os tem em texto corrido.)"""
+    from texto import com_titulos, dividir
+
+    texto = publicado(RAIZ / registo["path"])
+    original = dividir(texto)
+    if not original.artigos and (normalizado := com_titulos(texto)) is not None:
+        original = dividir(normalizado)
+    por_parte: dict[str, str] = {}
+    for a in original.artigos:
+        por_parte[a.parte] = a.chave
+    return set(por_parte.values())
+
+
+def _mudar_titulo(consolidado, titulo: dict, cursor: tuple[int, int] = (-1, -1)):
+    """Muda (ou elimina, com `novo` null) uma linha de título de divisão fora dos artigos. A linha
+    `atual` tem de existir letra a letra; o número de "#" fica o da linha atual. Quando se repete
+    (o "TÍTULO II — Da Marinha" de dois livros), é a primeira depois de `cursor`, a posição do
+    título anterior da mesma resposta. Devolve (registo, erro, nova posição)."""
+    atual = (titulo.get("atual") or "").strip()
+    novo = titulo.get("novo")
+    sem_marca = lambda l: re.sub(r"^#+\s*", "", l.strip())
+    lugares = [((k, i), s, i) for k, s in enumerate(consolidado.segmentos) if not isinstance(s, Artigo)
+               for i, l in enumerate(s) if _TITULO_DIVISAO.match(l) and sem_marca(l) == sem_marca(atual)]
+    if not lugares:
+        return None, f"título a mudar não existe no texto: {atual[:80]}", cursor
+    if len(lugares) > 1:
+        lugares = [x for x in lugares if x[0] > cursor]
+        if not lugares:
+            return None, f"título repetido sem ocorrência depois do anterior: {atual[:80]}", cursor
+    posicao, segmento, i = lugares[0]
+    antes = segmento[i]
+    if novo is None:
+        segmento[i] = _ELIMINADO  # tira-se no fim, para as posições dos outros títulos não mudarem
+        return Registo(sem_marca(antes), "revogar", "llm", antes, "", "", "", metodo="llm"), None, posicao
+    marca = re.match(r"^#+", antes).group(0)
+    depois = f"{marca} {sem_marca(novo)}"
+    if depois == antes:
+        return None, None, posicao
+    segmento[i] = depois
+    return Registo(sem_marca(antes), "substituir", "llm", antes, depois, "", "", metodo="llm"), None, posicao
+
+
+def _recolocar_assinaturas(consolidado, ultimos: set[str] | None = None) -> None:
     """As fórmulas finais ("Visto e aprovado…", assinaturas) ficam no último artigo da parte: se
-    um artigo aditado depois do último as deixou a meio, passam para o fim."""
+    um artigo aditado depois do último as deixou a meio, passam para o fim. Só se movem as que
+    estavam no último artigo da parte no original (`ultimos`, as chaves): no decreto que aprova um
+    regulamento na mesma parte, as fórmulas do decreto ficam a meio desde o original."""
     from leis_portugal.domain.articles import _signature
 
     por_parte: dict[str, list] = {}
@@ -386,6 +488,8 @@ def _recolocar_assinaturas(consolidado) -> None:
     for artigos in por_parte.values():
         ultimo = artigos[-1]
         for a in artigos[:-1]:
+            if ultimos is not None and a.chave not in ultimos:
+                continue
             cheias = [i for i in range(1, len(a.linhas)) if a.linhas[i].strip()]
             inicio = next((i for i in cheias if _signature(a.linhas[i].strip())), None)
             if inicio is None:
@@ -511,7 +615,7 @@ def juntar() -> None:
         resposta = json.loads(f.read_text(encoding="utf-8"))
         if resposta["problemas"]:
             linhas.append({"id": resposta["id"], "title": selecao[resposta["id"]]["title"], "estado": "não junto", "motivo": "a resposta não passou a verificação letra a letra: " + "; ".join(resposta["problemas"])[:300]})
-        elif not resposta["artigos"] and not resposta.get("removidos"):
+        elif not resposta["artigos"] and not resposta.get("removidos") and not resposta.get("titulos"):
             linhas.append({"id": resposta["id"], "title": selecao[resposta["id"]]["title"], "estado": "não junto", "motivo": "a resposta não tem artigos: " + str(resposta.get("nao_aplicavel"))[:200]})
         else:
             linhas.append(_junto(resposta, selecao[resposta["id"]]))

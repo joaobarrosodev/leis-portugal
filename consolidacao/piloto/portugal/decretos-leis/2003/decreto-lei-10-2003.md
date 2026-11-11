@@ -124,6 +124,20 @@ As referências, contidas em preceitos legais não revogados pelo presente diplo
 
 > Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18.
 
+Visto e aprovado em Conselho de Ministros de 20 de Novembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
+
+Promulgado em 8 de Janeiro de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 9 de Janeiro de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+ESTATUTOS DA AUTORIDADE DA CONCORRÊNCIA
+
 ### CAPÍTULO I — Disposições gerais
 
 ###### Artigo 1.º — Natureza e finalidade
@@ -539,17 +553,3 @@ A Autoridade elabora e envia, anualmente, ao Governo, que o remete, nesse moment
 ###### Artigo 39.º — Página electrónica
 
 A Autoridade deve disponibilizar um sítio na Internet, com todos os dados relevantes, nomeadamente os diplomas legislativos que lhe dizem respeito, os Estatutos e regulamentos internos, a composição dos seus órgãos, incluindo os correspondentes elementos biográficos, os planos, orçamentos, relatórios e contas dos últimos dois anos, bem como os principais instrumentos regulatórios em vigor.
-
-Visto e aprovado em Conselho de Ministros de 20 de Novembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
-
-Promulgado em 8 de Janeiro de 2003.
-
-Publique-se.
-
-O Presidente da República, JORGE SAMPAIO.
-
-Referendado em 9 de Janeiro de 2003.
-
-O Primeiro-Ministro, José Manuel Durão Barroso.
-
-ESTATUTOS DA AUTORIDADE DA CONCORRÊNCIA

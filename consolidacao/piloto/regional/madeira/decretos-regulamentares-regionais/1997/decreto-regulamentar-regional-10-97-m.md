@@ -32,6 +32,18 @@ Nos termos do n.º 2 do artigo 12.º do [Decreto Legislativo Regional n.º 24-A/
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
+Aprovado em Conselho do Governo Regional em 20 de Março de 1997.
+
+Pelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.
+
+Assinado em 10 de Abril de 1997.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
+
+ORGÂNICA DA DIRECÇÃO REGIONAL DAS COMUNIDADES EUROPEIAS E DA COOPERAÇÃO EXTERNA
+
 ### CAPÍTULO I — Natureza e atribuições
 
 ###### Artigo 1.º — Natureza
@@ -341,15 +353,3 @@ Direcção Regional das Comunidades Europeias e da Cooperação Externa
 6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho.
 
 > Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21.
-
-Aprovado em Conselho do Governo Regional em 20 de Março de 1997.
-
-Pelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.
-
-Assinado em 10 de Abril de 1997.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
-
-ORGÂNICA DA DIRECÇÃO REGIONAL DAS COMUNIDADES EUROPEIAS E DA COOPERAÇÃO EXTERNA

@@ -52,6 +52,18 @@ São aprovados o estatuto e orgânica da Inspecção Regional do Trabalho, adian
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
+Aprovado em Conselho do Governo Regional em 31 de Maio de 2001.
+
+O Vice-Presidente do Governo Regional, em exercício da Presidência, João Carlos Cunha e Silva.
+
+Assinado em 19 de Junho de 2001.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
+
+Estatuto e orgânica da Inspecção Regional do Trabalho
+
 ### CAPÍTULO I — Natureza e atribuições
 
 ###### Artigo 1.º — Natureza
@@ -671,18 +683,6 @@ O provimento na categoria de encarregado de instalações e equipamentos é feit
 5 - O disposto nos números anteriores não impede a integração formal no escalão que resultar das regras de transição.
 
 6 - Os funcionários e agentes que se aposentaram durante o ano de 1998 e até à entrada em vigor do presente diploma terão a sua pensão de aposentação calculada com base no índice que couber ao escalão em que ficarem posicionados.
-
-Aprovado em Conselho do Governo Regional em 31 de Maio de 2001.
-
-O Vice-Presidente do Governo Regional, em exercício da Presidência, João Carlos Cunha e Silva.
-
-Assinado em 19 de Junho de 2001.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
-
-Estatuto e orgânica da Inspecção Regional do Trabalho
 
 ## ANEXO I — [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)
 

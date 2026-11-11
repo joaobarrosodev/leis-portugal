@@ -38,6 +38,18 @@ O Governo Regional da Madeira, nos termos do artigo 12.º do [Decreto Legislativ
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
+Aprovado em Conselho do Governo Regional de 30 de Janeiro de 1997.
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 12 de Fevereiro de 1997.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
+
+ORGÂNICA DA SECRETARIA REGIONAL DE ECONOMIA E COOPERAÇÃO EXTERNA
+
 ### CAPÍTULO I — Natureza, atribuições e competências
 
 ###### Artigo 1.º — Natureza e atribuições
@@ -421,15 +433,3 @@ O regime retributivo aplicável ao pessoal da Secretaria Regional de Economia e 
 MAPA ANEXO
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/036b01/00020007.pdf)
-
-Aprovado em Conselho do Governo Regional de 30 de Janeiro de 1997.
-
-O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
-
-Assinado em 12 de Fevereiro de 1997.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
-
-ORGÂNICA DA SECRETARIA REGIONAL DE ECONOMIA E COOPERAÇÃO EXTERNA

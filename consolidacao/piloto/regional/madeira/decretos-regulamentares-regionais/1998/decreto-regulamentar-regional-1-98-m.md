@@ -38,6 +38,18 @@ Nos termos do n.º 2 do artigo 28.º do [Decreto Regulamentar Regional n.º 2-A/
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
+Aprovado em Conselho do Governo Regional em 18 de Dezembro de 1997.
+
+Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
+
+Assinado em 8 de Janeiro de 1998.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
+
+Orgânica do Núcleo Estratégico da Sociedade de Informação
+
 ### CAPÍTULO I — Natureza e atribuições do NESI
 
 ###### Artigo 1.º — Natureza
@@ -277,18 +289,6 @@ O pessoal do NESI encontra-se directamente dependente do Secretário Regional do
 As despesas correntes e de capital serão autorizadas pelo Secretário Regional do Plano e da Coordenação.
 
 > Aditado pelo/a [Decreto Regulamentar Regional n.º 12/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1998-241266), publicado em 1998-09-16.
-
-Aprovado em Conselho do Governo Regional em 18 de Dezembro de 1997.
-
-Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
-
-Assinado em 8 de Janeiro de 1998.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
-
-Orgânica do Núcleo Estratégico da Sociedade de Informação
 
 ## ANEXO — MAPA
 

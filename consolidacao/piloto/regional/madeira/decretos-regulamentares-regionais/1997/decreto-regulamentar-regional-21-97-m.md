@@ -35,6 +35,18 @@ Nos termos do artigo 7.º, alínea b), do Decreto Legislativo Regional n.º 24-A
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
+Aprovado em Conselho do Governo Regional em 31 de Julho de 1997.
+
+Pelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.
+
+Assinado em 25 de Agosto de 1997.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
+
+ORGÂNICA DA DIRECÇÃO REGIONAL DOS RECURSOS HUMANOS
+
 ### CAPÍTULO I — Natureza
 
 ###### Artigo 1.º — Natureza e atribuições
@@ -734,18 +746,6 @@ b) Com observância das habilitações legais, para a carreira e categoria que i
 6 - A progressão faz-se em módulos de três anos.
 
 > Aditado pelo/a [Decreto Regulamentar Regional n.º 22/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2000-515260), publicado em 2000-03-22.
-
-Aprovado em Conselho do Governo Regional em 31 de Julho de 1997.
-
-Pelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.
-
-Assinado em 25 de Agosto de 1997.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
-
-ORGÂNICA DA DIRECÇÃO REGIONAL DOS RECURSOS HUMANOS
 
 ## ANEXO — (a que se refere o n.º 5 do artigo 23.º do presente diploma)
 
