@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-09-14'
+version_history:
+  file: despacho-normativo-47-b-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-06-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-09-14'
+    amending: pt:dre:220143:por
+    amending_title: Despacho Normativo n.º 82/86
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:35:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 82/86. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1986/despacho-normativo-47-b-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,7 +153,9 @@ Nestes termos, determina-se, ao abrigo dos artigos 12.º e 13.º do [Decreto-Lei
 
 2 - a) As quotas de descongelamento referentes a cada departamento governamental são estabelecidas, por grupos profissionais, no mapa anexo ao presente despacho, mas estão sujeitas, em qualquer caso, à existência de cobertura orçamental.
 
-b) Não será permitida a utilização da quota de descongelamento para provimento de lugares não cabimentados ou para a admissão de pessoal além do quadro.
+b) Não será permitida a utilização da quota de descongelamento para provimento de lugares não cabimentados ou para a admissão de pessoal além do quadro, com excepção, neste último caso, do pessoal a afectar à fiscalização e administração tributária, nos termos do [Decreto-Lei n.º 200/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1985-182239), de 15 de Junho.
+
+> Alterado pelo/a [Despacho Normativo n.º 82/86](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/82-1986-220143), publicado em 1986-09-09.
 
 3 - Os departamentos governamentais deverão privilegiar:
 

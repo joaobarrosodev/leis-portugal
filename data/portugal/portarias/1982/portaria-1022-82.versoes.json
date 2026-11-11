@@ -1,0 +1,373 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:378485:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1982-11-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a37163fa863ce7d3",
+    "1e2949f438601964",
+    "ebf201f0863ec44c",
+    "8129e0ae1a09af5e",
+    "495f5ca5e4011124",
+    "d791a51e8f74eb76",
+    "13cbc89c12d99a3d",
+    "130598fa11aabba2",
+    "c713343f8ef65e10",
+    "549151b1a11e1238",
+    "94854e619ef04efb",
+    "1706829819e813a2",
+    "b9f09c4b01c34d61",
+    "3c899f306c6237bf",
+    "41786078f001bb57",
+    "ebba4d76905dd4a7",
+    "2e4e2617553639bd",
+    "1b3c60cab892906b",
+    "7ea567d731e40068",
+    "cad8cb8aa6beb3ab",
+    "52be8dc44810c97f",
+    "a651b92b73bfd0e6"
+   ]
+  },
+  {
+   "date": "1989-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:325077:por",
+     "title": "Portaria n.º 184/85",
+     "published": "1985-04-04",
+     "dre_path": "/dr/detalhe/portaria/184-1985-325077"
+    },
+    {
+     "id": "pt:dre:221571:por",
+     "title": "Portaria n.º 551/86",
+     "published": "1986-09-25",
+     "dre_path": "/dr/detalhe/portaria/551-1986-221571"
+    },
+    {
+     "id": "pt:dre:373254:por",
+     "title": "Portaria n.º 447/88",
+     "published": "1988-07-08",
+     "dre_path": "/dr/detalhe/portaria/447-1988-373254"
+    },
+    {
+     "id": "pt:dre:548204:por",
+     "title": "Portaria n.º 844/89",
+     "published": "1989-09-26",
+     "dre_path": "/dr/detalhe/portaria/844-1989-548204"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 11-11",
+    "Adita Artigo depois da unidade 37",
+    "Altera Artigo unidades 42-44",
+    "Altera Artigo unidades 45-48",
+    "Altera Artigo unidades 68-68",
+    "Adita Artigo depois da unidade 68",
+    "Altera Artigo unidades 118-136",
+    "Altera Artigo unidades 141-155",
+    "Altera Artigo unidades 160-174",
+    "Altera Artigo unidades 176-189",
+    "Altera Artigo unidades 383-442"
+   ],
+   "fragments": [
+    "287c104642eaba2a",
+    "1e2949f438601964",
+    "ebf201f0863ec44c",
+    "69987c371461b2bd",
+    "f8c8dd25d470d7df",
+    "2866e298a689bc26",
+    "865c22c7ef28cd95",
+    "130598fa11aabba2",
+    "c713343f8ef65e10",
+    "549151b1a11e1238",
+    "94854e619ef04efb",
+    "1706829819e813a2",
+    "b9f09c4b01c34d61",
+    "3c899f306c6237bf",
+    "41786078f001bb57",
+    "ebba4d76905dd4a7",
+    "2e4e2617553639bd",
+    "1b3c60cab892906b",
+    "85d237c1e1bf234d",
+    "0cd40f8818fd43c7",
+    "3f79f057b6b53e66",
+    "e38c01ac0ecc07c1"
+   ]
+  }
+ ],
+ "fragments": {
+  "a37163fa863ce7d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Novembro\n\nSob proposta da Universidade de Lisboa;\n\nAo abrigo do disposto no artigo 4.º do [Decreto n.º 125/82](https://diariodarepublica.pt/dr/detalhe/decreto/125-1982-378305), de 3 de Novembro, e no n.º 3 do artigo 2.º do Decreto-Lei 173/80, de 29 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, o seguinte:\n\n1.º\n\n(Organização dos cursos)\n\nOs cursos de licenciatura ministrados pela Faculdade de Ciências da Universidade de Lisboa seguidamente enumerados, adiante simplesmente designados por «cursos», organizam-se pelo sistema de unidades de crédito:\n\na) Matemática;\n\nb) Ensino da Matemática;\n\nc) Computação;\n\nd) Estatística e Investigação Operacional;\n\ne) Probabilidades e Estatística;\n\nf) Engenharia Geográfica;\n\ng) Física;\n\nh) Ciências Geofísicas;\n\ni) Física Tecnológica;\n\nj) Ensino da Física;\n\nl) Química;\n\nm) Química Tecnológica;\n\nn) Ensino da Química;\n\no) Bioquímica;\n\np) Geologia;\n\nq) Geologia Económica Aplicada;\n\nr) Ensino da Geologia;\n\ns) Biologia;\n\nt) Biologia Vegetal Aplicada;\n\nu) Recursos Faunísticos e Ambiente;\n\nv) Ensino da Biologia.\n\n2.º\n\n(Estrutura curricular)\n\nOs elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são constantes dos anexos I a XXI da presente portaria.\n\n3.º\n\n(Planos de estudos)\n\n1 - O plano de estudos de cada curso será fixado por despacho reitoral, a publicar no Diário da República, 2.ª série, nos termos do artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690).\n\n2 - Do despacho a que se refere o número anterior constarão os elementos a que se refere o n.º 6.º e o n.º 2 do n.º 7.º do presente diploma.\n\n3 - As inscrições em cada curso só poderão ter início após a publicação do despacho a que se refere o presente número.\n\n4.º\n\n(Elencos comuns de disciplinas)\n\n1 - Os cursos da mesma área científica terão um conjunto de disciplinas comuns correspondentes aos dois primeiros anos curriculares do plano organizado nos termos do artigo 5.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.\n\n2 - São cursos da mesma área científica para os efeitos deste número os seguintes:\n\na) Área da Matemática Pura:\n\nI) Matemática;\n\nII) Ensino da Matemática;\n\nb) Área da Matemática Aplicada:\n\nI) Computação;\n\nII) Estatística e Investigação Operacional;\n\nIII) Probabilidades e Estatística;\n\nc) Área da Física:\n\nI) Física;\n\nII) Ciências Geofísicas;\n\nIII) Física Tecnológica;\n\nIV) Ensino da Física;\n\nd) Área da Química:\n\nI) Química;\n\nII) Química Tecnológica;\n\nIII) Ensino da Química;\n\ne) Área da Geologia:\n\nI) Geologia;\n\nII) Geologia Económica Aplicada;\n\nIII) Ensino da Geologia;\n\nf) Área da Biologia:\n\nI) Biologia;\n\nII) Biologia Vegetal Aplicada;\n\nIII) Recursos Faunísticos e Ambiente;\n\nIV) Ensino da Biologia.\n\n3 - O curso de licenciatura em Bioquímica terá um conjunto de disciplinas comuns correspondente apenas ao primeiro ano dos cursos da área da Química.\n\n4 - O curso de licenciatura em Engenharia Geográfica terá um conjunto de disciplinas comuns correspondente apenas ao primeiro ano dos cursos da área da Física.\n\n5.º\n\n(Inscrição)\n\n1 - A primeira inscrição na Faculdade de Ciências da Universidade de Lisboa far-se-á numa das áreas a que se refere o n.º 4.º, salvo se por razões de equivalência deva processar-se em disciplinas específicas de um dos cursos.\n\n2 - A inscrição num dos cursos a que se refere o n.º 1.º está sujeita a numerus clausus, a fixar anualmente pelo reitor da Universidade, sob proposta da Faculdade de Ciências.\n\n3 - Os critérios de selecção serão igualmente fixados pelo reitor da Universidade de Lisboa, sob proposta da Faculdade de Ciências.\n\n4 - O numerus clausus para os cursos de licenciatura em ensino será fixado por despacho do Ministro da Educação, ouvida a Faculdade de Ciências da Universidade de Lisboa.\n\n5 - Há lugar a inscrição num dos cursos a que se refere o n.º 1.º quando o aluno se pretende inscrever em disciplinas que não estejam integradas no respectivo elenco de disciplinas comuns a que se refere o n.º 4.º\n\n6.º\n\n(Estágios)\n\n1 - Os estágios incluídos nos planos curriculares dos cursos de índole científico-tecnológica são realizados, sob orientação da Universidade, na área da tecnologia respectiva, revestem carácter profissionalizante e terão uma duração compreendida entre 6 e 9 meses com um mínimo de 750 horas em situação profissional.\n\n2 - Em paralelo com o estágio será igualmente ministrada formação científico-tecnológica suplementar sob a forma de um seminário.\n\n3 - As condições de acesso e a regulamentação dos estágios referidos no número anterior serão propostas pelo conselho científico, ouvido o conselho pedagógico, e fixadas nos termos do artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.\n\n4 - São abrangidas pelo disposto no presente número as licenciaturas a que se referem as alíneas c), d), e), h), i), m), q), t) e u) do n.º 1.º\n\n7.º\n\n(Precedências)\n\nA tabela e o regime de precedências serão fixados pelo conselho científico, ouvido o conselho pedagógico, e sujeitos à aprovação e publicação nos termos do disposto no artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.\n\n8.º\n\n(Classificação final)\n\n1 - A classificação final dos cursos será a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a 5 décimas), das classificações das disciplinas, estágios e seminários integrantes do respectivo plano de estudos.\n\n2 - Os coeficientes de ponderação serão propostos pelo conselho científico, ouvido o conselho pedagógico, e fixados nos termos do artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.\n\n9.º\n\n(Licenciaturas em ensino)\n\n1 - O estágio das licenciaturas em ensino, bem como a admissão ao mesmo, são regulados pela [Portaria n.º 431/79](https://diariodarepublica.pt/dr/detalhe/portaria/431-1979-377538), de 16 de Agosto, com a redacção que lhe foi dada pela [Portaria n.º 791/80](https://diariodarepublica.pt/dr/detalhe/portaria/791-1980-462201), de 6 de Outubro.\n\n2 - A classificação final das licenciaturas em ensino é calculada nos termos da [Portaria n.º 792/81](https://diariodarepublica.pt/dr/detalhe/portaria/792-1981-565003), de 11 de Setembro.\n\nMinistério da Educação, 3 de Novembro de 1982. - O Ministro da Educação, João José Fraústo da Silva."
+  },
+  "1e2949f438601964": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Licenciatura em Matemática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Licenciatura em Matemática\n\n1 - Área científica do curso:\n\nMatemática.\n\n2 - Duração normal do curso:\n\n4 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\n121,5 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Matemática ... 121,5"
+  },
+  "ebf201f0863ec44c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Licenciatura em Ensino da Matemática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Licenciatura em Ensino da Matemática\n\n1 - Área científica do curso:\n\nMatemática.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 121,5 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Ciências da Educação ... 27\n\n4.1.2 - Matemática ... 82,5\n\n4.1.3 - Metodologia da Matemática ... 6\n\n4.2 - Monografia ... 6"
+  },
+  "8129e0ae1a09af5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Licenciatura em Computação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Licenciatura em Computação\n\n1 - Área científica do curso:\n\nMatemática Aplicada.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 127,5 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Matemática ... 38\n\n4.1.2 - Computação ... 53\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Probabilidades e Estatística ... 25\n\n4.2.2 - Investigação Operacional ... 7,5\n\n4.3 - Áreas científicas opcionais:\n\n4.3.1 - Computação ... 4\n\n4.3.2 - Estatística ... 4\n\n4.3.3 - Investigação Operacional ... 4"
+  },
+  "495f5ca5e4011124": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Licenciatura em Estatística e Investigação Operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Licenciatura em Estatística e Investigação Operacional\n\n1 - Área científica do curso:\n\nMatemática Aplicada.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 127,5 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Matemática ... 38\n\n4.1.2 - Probabilidades e Estatística ... 36\n\n4.1.3 - Investigação Operacional ... 27,5\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Computação ... 18\n\n4.3 - Áreas científicas opcionais:\n\n4.3.1 - Computação ... 8\n\n4.3.2 - Estatística ... 8\n\n4.3.3 - Investigação Operacional ... 8"
+  },
+  "d791a51e8f74eb76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO V — Licenciatura em Probabilidades e Estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — Licenciatura em Probabilidades e Estatística\n\n1 - Área científica do curso:\n\nMatemática Aplicada.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 127,5 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Matemática ... 42\n\n4.1.2 - Probabilidades e Estatística ... 52\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Investigação Operacional ... 7,5\n\n4.2.2 - Computação ... 18\n\n4.3 - Áreas científicas opcionais:\n\n4.3.1 - Computação ... 8\n\n4.3.2 - Estatística ... 8\n\n4.3.3 - Investigação Operacional ... 8"
+  },
+  "13cbc89c12d99a3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VI — Licenciatura em Engenharia Geográfica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — Licenciatura em Engenharia Geográfica\n\n1 - Área científica do curso:\n\nEngenharia Geográfica.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\n165 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Engenharia Geográfica ... 71,5\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 32\n\n4.2.2 - Geologia ... 8\n\n4.2.3 - Matemática ... 43,5\n\n4.3 - Estágio ... 10"
+  },
+  "130598fa11aabba2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VII — Licenciatura em Física",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — Licenciatura em Física\n\n1 - Área científica do curso:\n\nFísica.\n\n2 - Duração normal do curso:\n\n4 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\n130 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Física ... 89,5\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Matemática ... 30,5\n\n4.2.2 - Química ... 10"
+  },
+  "c713343f8ef65e10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VIII — Licenciatura em Ciências Geofísicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — Licenciatura em Ciências Geofísicas\n\n1 - Área científica do curso:\n\nFísica.\n\n2 - Duração normal do curso.\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 130 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Ciências Geofísicas ... 34,5\n\n4.1.2 - Física ... 55\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Geologia ... 4\n\n4.2.2 - Matemática ... 33,5\n\n4.2.3 - Química ... 3"
+  },
+  "549151b1a11e1238": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IX — Licenciatura em Física Tecnológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX — Licenciatura em Física Tecnológica\n\n1 - Área científica do curso:\n\nFísica.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 130 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Física ... 50,5\n\n4.1.2 - Tecnologias Físicas ... 41,5\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Matemática ... 31\n\n4.2.2 - Química ... 7"
+  },
+  "94854e619ef04efb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO X — Licenciatura em Ensino da Física",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO X — Licenciatura em Ensino da Física\n\n1 - Área científica do curso:\n\nFísica.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 130 unidades de crédito;\n\nb) Aprovação em estágio pedagógico.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Ciências da Educação ... 23\n\n4.1.2 - Física ... 55,5\n\n4.1.3 - Metodologia científica ... 8\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Matemática ... 24,5\n\n4.2.2 - Química ... 13\n\n4.3 - Monografia ... 6"
+  },
+  "1706829819e813a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XI — Licenciatura em Química",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XI — Licenciatura em Química\n\n1 - Área científica do curso:\n\nQuímica.\n\n2 - Duração normal do curso:\n\n4 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\n130 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\nQuímica ... 94,5\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 12,5\n\n4.2.2 - Matemática ... 21\n\n4.3 - Áreas científicas opcionais:\n\n4.3.1 - Filosofia das Ciências ... 2\n\n4.3.2 - Sociologia das Ciências ... 2"
+  },
+  "b9f09c4b01c34d61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XII — Licenciatura em Química Tecnológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XII — Licenciatura em Química Tecnológica\n\n1 - Área científica do curso:\n\nQuímica.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 130 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Química ... 48\n\n4.1.2 - Tecnologias Químicas ... 50\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 9\n\n4.2.2 - Matemática ... 21\n\n4.2.3 - Sociologia das Ciências ... 2"
+  },
+  "3c899f306c6237bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XIII — Licenciatura em Ensino da Química",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XIII — Licenciatura em Ensino da Química\n\n1 - Área científica do curso:\n\nQuímica.\n\n2 - Duração normal do curso.\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 130 unidades de crédito;\n\nb) Aprovação em estágio pedagógico.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Ciências da Educação ... 23\n\n4.1.2 - Metodologia Científica ... 8\n\n4.1.3 - Química ... 57\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 13\n\n4.2.2 - Matemática ... 21\n\n4.3 - Áreas científicas opcionais:\n\n4.3.1 - Filosofia das Ciências ... 2\n\n4.3.2 - Sociologia das Ciências ... 2\n\n4.4 - Monografia ... 6"
+  },
+  "41786078f001bb57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XIV — Licenciatura em Bioquímica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XIV — Licenciatura em Bioquímica\n\n1 - Área científica do curso:\n\nQuímica.\n\n2 - Duração normal do curso:\n\n4 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\n130 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Biologia ... 35\n\n4.1.2 - Química ... 48\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 16\n\n4.2.2 - História das Ciências ... 2\n\n4.2.3 - Matemática ... 21\n\n4.3 - Áreas científicas opcionais:\n\n4.3.1 - Filosofia das Ciências ... 2\n\n4.3.2 - Sociologia das Ciências ... 2\n\n4.4 - Estágio ... 6"
+  },
+  "ebba4d76905dd4a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XV — Licenciatura em Geologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XV — Licenciatura em Geologia\n\n1 - Área científica do curso:\n\nGeologia.\n\n2 - Duração normal do curso:\n\n4 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\n126 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\nGeologia ... 102\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Biologia ... 4\n\n4.2.2 - Física ... 4\n\n4.2.3 - Matemática ... 12\n\n4.2.4 - Química ... 4"
+  },
+  "2e4e2617553639bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XVI — Licenciatura em Geologia Económica e Aplicada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XVI — Licenciatura em Geologia Económica e Aplicada\n\n1 - Área científica do curso:\n\nGeologia.\n\n2 - Duração normal do curso:\n\n4 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 129 unidades de crédito;\n\nb) Estágio profissionalizante facultativo.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Geologia ... 59\n\n4.1.2 - Tecnologias Geológicas ... 40\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Biologia ... 4\n\n4.2.2 - Física ... 4\n\n4.2.3 - Matemática ... 12\n\n4.2.4 - Química ... 4\n\n4.3 - Áreas científicas opcionais:\n\n4.3.1 - Física ... 6\n\n4.3.2 - Geologia ... 6\n\n4.3.3 - Matemática ... 6\n\n4.3.4 - Química ... 6"
+  },
+  "1b3c60cab892906b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XVII — Licenciatura em Ensino da Geologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XVII — Licenciatura em Ensino da Geologia\n\n1 - Área científica do curso:\n\nGeologia.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 129 unidades de crédito;\n\nb) Aprovação em estágio pedagógico.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Ciências da Educação ... 23\n\n4.1.2 - Geologia ... 59\n\n4.1.3 - Metodologia ... 8\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Biologia ... 13\n\n4.2.2 - Física ... 4\n\n4.2.3 - Matemática ... 12\n\n4.2.4 - Química ... 4\n\n4.3 - Monografia ... 6"
+  },
+  "7ea567d731e40068": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XVIII — Licenciatura em Biologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XVIII — Licenciatura em Biologia\n\n1 - Área científica do curso:\n\nBiologia.\n\n2 - Duração normal do curso:\n\n4 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\n130 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Biologia ... 91,5\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 8\n\n4.2.2 - Geologia ... 4\n\n4.2.3 - Matemática ... 10\n\n4.2.4 - Química ... 16,5"
+  },
+  "cad8cb8aa6beb3ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XIX — Licenciatura em Biologia Vegetal Aplicada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XIX — Licenciatura em Biologia Vegetal Aplicada\n\n1 - Área científica do curso:\n\nBiologia.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 122,5 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Biologia ... 52\n\n4.1 .2 - Tecnologias Biológicas ... 30\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 8\n\n4.2.2 - Matemática ... 10\n\n4.2.3 - Química ... 22,5"
+  },
+  "52be8dc44810c97f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XX — Licenciatura em Recursos Faunísticos e Ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XX — Licenciatura em Recursos Faunísticos e Ambiente\n\n1 - Área científica do curso:\n\nBiologia.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 130 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Biologia ... 55\n\n4.1.2 - Tecnologias Biológicas ... 40,5\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 8\n\n4.2.2 - Matemática ... 10\n\n4.2.3 - Química ... 16,5"
+  },
+  "a651b92b73bfd0e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XXI — Licenciatura em Ensino da Biologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XXI — Licenciatura em Ensino da Biologia\n\n1 - Área científica do curso:\n\nBiologia.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 130 unidades de crédito;\n\nb) Aprovação em estágio pedagógico.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Biologia ... 45,5\n\n4.1.2 - Ciências da Educação ... 23\n\n4.1.3 - Metodologia Científica ... 8\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 8\n\n4.2.2 - Geologia ... 13\n\n4.2.3 - Matemática ... 10\n\n4.2.4 - Química ... 16,5\n\n4.3 - Monografia ... 6"
+  },
+  "287c104642eaba2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1989-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08.",
+    "Aditado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08.",
+    "Alterado pelo/a [Portaria n.º 844/89](https://diariodarepublica.pt/dr/detalhe/portaria/844-1989-548204), publicado em 1989-09-26.",
+    "Alterado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08.",
+    "Alterado pelo/a [Portaria n.º 551/86](https://diariodarepublica.pt/dr/detalhe/portaria/551-1986-221571), publicado em 1986-09-25.",
+    "Aditado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08."
+   ],
+   "markdown": "de 5 de Novembro\n\nSob proposta da Universidade de Lisboa;\n\nAo abrigo do disposto no artigo 4.º do [Decreto n.º 125/82](https://diariodarepublica.pt/dr/detalhe/decreto/125-1982-378305), de 3 de Novembro, e no n.º 3 do artigo 2.º do Decreto-Lei 173/80, de 29 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, o seguinte:\n\n1.º\n\n(Organização dos cursos)\n\nOs cursos de licenciatura ministrados pela Faculdade de Ciências da Universidade de Lisboa seguidamente enumerados, adiante simplesmente designados por «cursos», organizam-se pelo sistema de unidades de crédito:\n\na) Matemática;\n\nb) Ensino da Matemática;\n\nc) Informática.\n\n> Alterado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08.\n\nd) Estatística e Investigação Operacional;\n\ne) Probabilidades e Estatística;\n\nf) Engenharia Geográfica;\n\ng) Física;\n\nh) Ciências Geofísicas;\n\ni) Física Tecnológica;\n\nj) Ensino da Física;\n\nl) Química;\n\nm) Química Tecnológica;\n\nn) Ensino da Química;\n\no) Bioquímica;\n\np) Geologia;\n\nq) Geologia Económica Aplicada;\n\nr) Ensino da Geologia;\n\ns) Biologia;\n\nt) Biologia Vegetal Aplicada;\n\nu) Recursos Faunísticos e Ambiente;\n\nv) Ensino da Biologia.\n\n2.º\n\n(Estrutura curricular)\n\nOs elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são constantes dos anexos I a XXI da presente portaria.\n\n3.º\n\n(Planos de estudos)\n\n1 - O plano de estudos de cada curso será fixado por despacho reitoral, a publicar no Diário da República, 2.ª série, nos termos do artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690).\n\n2 - Do despacho a que se refere o número anterior constarão os elementos a que se refere o n.º 6.º e o n.º 2 do n.º 7.º do presente diploma.\n\n3 - As inscrições em cada curso só poderão ter início após a publicação do despacho a que se refere o presente número.\n\n3.º-A\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de dez.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas de serviço de aulas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.\n\n> Aditado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08.\n\n4.º\n\n(Elencos comuns de disciplinas)\n\n1 - Os cursos da mesma área científica terão um conjunto de disciplinas comuns correspondentes aos dois primeiros anos curriculares do plano organizado nos termos do artigo 5.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.\n\n2 - São cursos da mesma área científica para os efeitos deste número os seguintes:\n\na) Área de Matemática:\n\nI) Matemática;\n\nII) Ensino da Matemática.\n\n> Alterado pelo/a [Portaria n.º 844/89](https://diariodarepublica.pt/dr/detalhe/portaria/844-1989-548204), publicado em 1989-09-26.\n\nb) Área de Matemática Aplicada:\n\nI) Estatística e Investigação Operacional;\n\nII) Probabilidades e Estatística.\n\n> Alterado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08.\n\nc) Área da Física:\n\nI) Física;\n\nII) Ciências Geofísicas;\n\nIII) Física Tecnológica;\n\nIV) Ensino da Física;\n\nd) Área da Química:\n\nI) Química;\n\nII) Química Tecnológica;\n\nIII) Ensino da Química;\n\ne) Área da Geologia:\n\nI) Geologia;\n\nII) Geologia Económica Aplicada;\n\nIII) Ensino da Geologia;\n\nf) Área da Biologia:\n\nI) Biologia;\n\nII) Biologia Vegetal Aplicada;\n\nIII) Recursos Faunísticos e Ambiente;\n\nIV) Ensino da Biologia.\n\n3 - O curso de licenciatura em Bioquímica terá um conjunto de disciplinas comuns correspondente apenas ao primeiro ano dos cursos da área da Química.\n\n4 - O curso de licenciatura em Engenharia Geográfica terá um conjunto de disciplinas comuns correspondentes apenas ao 1.º ano dos cursos da área de Matemática Aplicada.\n\n> Alterado pelo/a [Portaria n.º 551/86](https://diariodarepublica.pt/dr/detalhe/portaria/551-1986-221571), publicado em 1986-09-25.\n\n5 - O curso de licenciatura em Informática terá um conjunto de disciplinas comuns correspondente apenas ao 1.º ano dos cursos da área de Matemática Aplicada.\n\n> Aditado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08.\n\n5.º\n\n(Inscrição)\n\n1 - A primeira inscrição na Faculdade de Ciências da Universidade de Lisboa far-se-á numa das áreas a que se refere o n.º 4.º, salvo se por razões de equivalência deva processar-se em disciplinas específicas de um dos cursos.\n\n2 - A inscrição num dos cursos a que se refere o n.º 1.º está sujeita a numerus clausus, a fixar anualmente pelo reitor da Universidade, sob proposta da Faculdade de Ciências.\n\n3 - Os critérios de selecção serão igualmente fixados pelo reitor da Universidade de Lisboa, sob proposta da Faculdade de Ciências.\n\n4 - O numerus clausus para os cursos de licenciatura em ensino será fixado por despacho do Ministro da Educação, ouvida a Faculdade de Ciências da Universidade de Lisboa.\n\n5 - Há lugar a inscrição num dos cursos a que se refere o n.º 1.º quando o aluno se pretende inscrever em disciplinas que não estejam integradas no respectivo elenco de disciplinas comuns a que se refere o n.º 4.º\n\n6.º\n\n(Estágios)\n\n1 - Os estágios incluídos nos planos curriculares dos cursos de índole científico-tecnológica são realizados, sob orientação da Universidade, na área da tecnologia respectiva, revestem carácter profissionalizante e terão uma duração compreendida entre 6 e 9 meses com um mínimo de 750 horas em situação profissional.\n\n2 - Em paralelo com o estágio será igualmente ministrada formação científico-tecnológica suplementar sob a forma de um seminário.\n\n3 - As condições de acesso e a regulamentação dos estágios referidos no número anterior serão propostas pelo conselho científico, ouvido o conselho pedagógico, e fixadas nos termos do artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.\n\n4 - São abrangidas pelo disposto no presente número as licenciaturas a que se referem as alíneas c), d), e), h), i), m), q), t) e u) do n.º 1.º\n\n7.º\n\n(Precedências)\n\nA tabela e o regime de precedências serão fixados pelo conselho científico, ouvido o conselho pedagógico, e sujeitos à aprovação e publicação nos termos do disposto no artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.\n\n8.º\n\n(Classificação final)\n\n1 - A classificação final dos cursos será a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a 5 décimas), das classificações das disciplinas, estágios e seminários integrantes do respectivo plano de estudos.\n\n2 - Os coeficientes de ponderação serão propostos pelo conselho científico, ouvido o conselho pedagógico, e fixados nos termos do artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.\n\n9.º\n\n(Licenciaturas em ensino)\n\n1 - O estágio das licenciaturas em ensino, bem como a admissão ao mesmo, são regulados pela [Portaria n.º 431/79](https://diariodarepublica.pt/dr/detalhe/portaria/431-1979-377538), de 16 de Agosto, com a redacção que lhe foi dada pela [Portaria n.º 791/80](https://diariodarepublica.pt/dr/detalhe/portaria/791-1980-462201), de 6 de Outubro.\n\n2 - A classificação final das licenciaturas em ensino é calculada nos termos da [Portaria n.º 792/81](https://diariodarepublica.pt/dr/detalhe/portaria/792-1981-565003), de 11 de Setembro.\n\nMinistério da Educação, 3 de Novembro de 1982. - O Ministro da Educação, João José Fraústo da Silva."
+  },
+  "69987c371461b2bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Licenciatura em Informática",
+   "in_force_from": "1989-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08."
+   ],
+   "markdown": "## ANEXO III — Licenciatura em Informática\n\n1 - Área científica do curso:\n\nInformática.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\na) 127 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Informática ... 74\n\n4.1.2 - Matemática ... 20\n\n4.1.3 - Matemática Aplicada ... 13\n\n4.1.4 - Ciências Humanas e Sociais ... 8\n\n4.2 - Conjunto das áreas científicas optativas:\n\n4.2.1 - Informática ... 12\n\n4.2.2 - Matemática Aplicada ... 12\n\n> Alterado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08."
+  },
+  "f8c8dd25d470d7df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Licenciatura em Estatística e Investigação Operacional",
+   "in_force_from": "1989-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08."
+   ],
+   "markdown": "## ANEXO IV — Licenciatura em Estatística e Investigação Operacional\n\n1 - Área científica do curso:\n\nMatemática Aplicada.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\na) 127 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Probabilidades e Processos Estocásticos ... 8\n\n4.1.2 - Estatística ... 19 a 27\n\n4.1.3 - Investigação Operacional ... 19 a 27\n\n4.1.4 - Análise Numérica ... 4\n\nTotal (4.1.1 a 4.1.4) ... 58\n\n4.1.5 - Matemática ... 30\n\n4.1.6 - Informática ... 12\n\n4.2 - Conjunto das áreas científicas optativas:\n\n4.2.1 - Probabilidades e Processos Estocásticos ... 27\n\n4.2.2 - Estatística ... 27\n\n4.2.3 - Investigação Operacional ... 27\n\n4.2.4 - Análise Numérica ... 27\n\n4.2.5 - Matemática ... 27\n\n4.2.6 - Informática ... 27\n\n4.2.7 - História das Ciências ... 27\n\n4.2.8 - Filosofia das Ciências ... 27\n\n4.2.9 - Ciências Sociais e Humanas ... 27\n\n> Alterado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08."
+  },
+  "2866e298a689bc26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO V — Licenciatura em Probabilidades e Estatística",
+   "in_force_from": "1989-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08."
+   ],
+   "markdown": "## ANEXO V — Licenciatura em Probabilidades e Estatística\n\n1 - Área científica do curso:\n\nMatemática Aplicada.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\na) 127 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Probabilidades e Processos Estocásticos ... 12 a 16\n\n4.1.2 - Estatística ... 27 a 35\n\n4.1.3 - Investigação Operacional ... 7 a 11\n\n4.1.4 - Análise Numérica ... 4\n\nTotal (4.1.1 a 4.1.4) ... 58\n\n4.1.5 - Matemática ... 30\n\n4.1.6 - Informática ... 12\n\n4.2 - Conjunto das áreas científicas optativas:\n\n4.2.1 - Probabilidades e Processos Estocásticos ... 27\n\n4.2.2 - Estatística ... 27\n\n4.2.3 - Operação Operacional ... 27\n\n4.2.4 - Análise Numérica ... 27\n\n4.2.5 - Matemática ... 27\n\n4.2.6 - Informática ... 27\n\n4.2.7 - História das Ciências ... 27\n\n4.2.8 - Filosofia das Ciências ... 27\n\n4.2.9 - Ciências Sociais e Humanas ... 27\n\n> Alterado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08."
+  },
+  "865c22c7ef28cd95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VI — Licenciatura em Engenharia Geográfica",
+   "in_force_from": "1989-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 551/86](https://diariodarepublica.pt/dr/detalhe/portaria/551-1986-221571), publicado em 1986-09-25."
+   ],
+   "markdown": "## ANEXO VI — Licenciatura em Engenharia Geográfica\n\n1 - Área científica do curso - Engenharia Geográfica.\n\n2 - Duração normal do curso - Cinco anos lectivos.\n\n3 - Condições necessárias à concessão do grau - 158 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Engenharia Geográfica ... 77\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Matemática ... 53\n\n4.2.2 - Física ... 3\n\n4.2.3 - Geologia ... 4\n\n4.3 - Áreas científicas opcionais:\n\n4.3.1 - Matemática ... 11\n\n4.3.2 - Física ... 11\n\n4.3.3 - Geologia ... 11\n\n4.4 - Estágio ... 10\n\n> Alterado pelo/a [Portaria n.º 551/86](https://diariodarepublica.pt/dr/detalhe/portaria/551-1986-221571), publicado em 1986-09-25."
+  },
+  "85d237c1e1bf234d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XVIII — Licenciatura em Biologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XVIII — Licenciatura em Biologia\n\n1 - Área científica do curso:\n\nBiologia.\n\n2 - Duração normal do curso:\n\n4 anos lectivos.\n\n3 - Condições necessárias à concessão do grau.\n\n130 unidades de crédito.\n\n4 - Áreas científicas e distribuição de unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Biologia ... 95\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 7\n\n4.2.2 - Geologia ... 4\n\n4.2.3 - Matemática ... 10\n\n4.2.4 - Química ... 14"
+  },
+  "0cd40f8818fd43c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XIX — Licenciatura em Biologia Vegetal Aplicada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XIX — Licenciatura em Biologia Vegetal Aplicada\n\n1 - Área científica do curso:\n\nBiologia.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 124 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Biologia ... 57\n\n4.1.2 - Tecnologias Biológicas ... 30\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 7\n\n4.2.2 - Matemática ... 10\n\n4.2.3 - Química ... 20"
+  },
+  "3f79f057b6b53e66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XX — Licenciatura em Recursos Faunísticos e Ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XX — Licenciatura em Recursos Faunísticos e Ambiente\n\n1 - Área científica do curso:\n\nBiologia.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 131,5 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Biologia ... 60\n\n4.1.2 - Tecnologias Biológicas ... 40,5\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 7\n\n4.2.2 - Matemática ... 10\n\n4.2.3 - Química ... 14"
+  },
+  "e38c01ac0ecc07c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XXI — Licenciatura em Ensino de Biologia",
+   "in_force_from": "1989-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 184/85](https://diariodarepublica.pt/dr/detalhe/portaria/184-1985-325077), publicado em 1985-04-04."
+   ],
+   "markdown": "## ANEXO XXI — Licenciatura em Ensino de Biologia\n\n1 - Área científica do curso:\n\nBiologia.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 130 unidades de crédito;\n\nb) Aprovação em estágio pedagógico.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Biologia ... 49\n\n4.1.2 - Ciências da Educação ... 23\n\n4.1.3 - Metodologia Científica ... 8\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 7\n\n4.2.2 - Geologia ... 13\n\n4.2.3 - Matemática ... 10\n\n4.2.4 - Química ... 14\n\n> Alterado pelo/a [Portaria n.º 184/85](https://diariodarepublica.pt/dr/detalhe/portaria/184-1985-325077), publicado em 1985-04-04.\n\n4.3 - Monografia ... 6"
+  }
+ }
+}

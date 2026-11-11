@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-02-17'
+version_history:
+  file: portaria-465-a-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-02-17'
+    amending: pt:dre:693832:por
+    amending_title: Portaria n.º 149-B/2004
+    changes:
+    - Altera Artigo unidades 8-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/465-a/1999/06/25/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:15:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 149-B/2004. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-465-a-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,9 +159,25 @@ Assim:
 
 Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administração do Território, nos termos do disposto no n.º 1 do artigo 9.º do [Decreto-Lei n.º 207/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1992-233310), de 2 de Outubro, o seguinte:
 
-1.º A utilização de cada bloco de frequências atribuído para o acesso fixo via rádio fica sujeita ao pagamento de taxas anuais constantes do quadro seguinte:
+1.º A utilização de cada bloco de frequências atribuído para o acesso fixo via rádio fica sujeita ao pagamento das taxas anuais constantes do quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146b01/00020002.pdf)
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/036b01/00020009.pdf)
+
+Relativamente às faixas 3400-3800 MHz e 24,5-26,5 GHz, aplica-se a fórmula abaixo indicada, se no ano anterior tiverem sido adicionalmente instaladas novas estações de base nas regiões A e ou B:
+
+T(índice i) = (euro) 304260 [1 - 0,45 ((Delta)EB(índice A)/(Delta)EB)(índice i - 1) - 0,30 ((Delta)EB(índice B)/(Delta)EB)(índice i - 1)]
+
+Legenda:
+
+T(índice i): taxa anual de utilização do espectro referente à licença aplicável no ano i;
+
+(Delta)EB(índice A): número de novas estações de base instaladas adicionalmente pelo operador/prestador na zona A no ano i - 1;
+
+(Delta)EB(índice B): número de novas estações de base instaladas adicionalmente pelo operador/prestador na zona B no ano i - 1;
+
+(Delta)EB: número total de novas estações de base instaladas adicionalmente no País pelo operador/prestador durante o ano i - 1.
+
+> Alterado pelo/a [Portaria n.º 149-B/2004](https://diariodarepublica.pt/dr/detalhe/portaria/149-b-2004-693832), publicado em 2004-02-12.
 
 Zona A: integra os concelhos das seguintes unidades de nível 3 da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS), estabelecida pelo [Decreto-Lei n.º 46/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), de 15 de Fevereiro, na redacção dada pelo [Decreto-Lei n.º 163/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1999-321718), de 13 de Maio:
 

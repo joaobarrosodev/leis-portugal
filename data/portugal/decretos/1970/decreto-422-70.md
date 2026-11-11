@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-10-31'
+version_history:
+  file: decreto-422-70.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1970-09-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-10-31'
+    amending: pt:dre:412625:por
+    amending_title: Decreto n.º 570/73
+    changes:
+    - Altera Artigo unidades 114-114
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:14:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 570/73. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1970/decreto-422-70.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -329,7 +344,9 @@ Art. 15.º - 1. Os serviços centrais serão chefiados por peritos industriais, 
 
 4. O laboratório será chefiado pelo funcionário provido no cargo de chefe de laboratório.
 
-Art. 16.º Os Serviços poderão ser subdivididos em repartições, divisões e secções, técnicas ou administrativas, sendo as técnicas chefiadas por peritos industriais com os cursos adequados.
+Art. 16.º Os serviços poderão ser subdivididos em repartições, divisões e secções, técnicas ou administrativas, sendo as técnicas chefiadas por peritos industriais ou técnicos de 1.ª classe com os cursos adequados.
+
+> Alterado pelo/a [Decreto n.º 570/73](https://diariodarepublica.pt/dr/detalhe/decreto/570-1973-412625), publicado em 1973-10-31.
 
 ##### SUBSECÇÃO II — Das delegações regionais
 

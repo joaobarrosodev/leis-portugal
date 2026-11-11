@@ -28,10 +28,34 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-10-01'
+version_history:
+  file: portaria-1022-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-11-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-10-01'
+    amending: pt:dre:325077:por
+    amending_title: Portaria n.º 184/85; Portaria n.º 551/86; Portaria n.º 447/88; Portaria n.º 844/89
+    changes:
+    - Altera Artigo unidades 11-11
+    - Adita Artigo depois da unidade 37
+    - Altera Artigo unidades 42-44
+    - Altera Artigo unidades 45-48
+    - Altera Artigo unidades 68-68
+    - Adita Artigo depois da unidade 68
+    - Altera Artigo unidades 118-136
+    - Altera Artigo unidades 141-155
+    - Altera Artigo unidades 160-174
+    - Altera Artigo unidades 176-189
+    - Altera Artigo unidades 383-442
 identifiers:
   celex: null
   eli: null
@@ -57,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:00:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 184/85; Portaria n.º
+    551/86; Portaria n.º 447/88; Portaria n.º 844/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-1022-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -169,7 +194,9 @@ a) Matemática;
 
 b) Ensino da Matemática;
 
-c) Computação;
+c) Informática.
+
+> Alterado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08.
 
 d) Estatística e Investigação Operacional;
 
@@ -223,6 +250,18 @@ Os elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80
 
 3 - As inscrições em cada curso só poderão ter início após a publicação do despacho a que se refere o presente número.
 
+3.º-A
+
+Disciplinas de opção
+
+1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de dez.
+
+2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas de serviço de aulas a que é obrigado por lei.
+
+3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.
+
+> Aditado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08.
+
 4.º
 
 (Elencos comuns de disciplinas)
@@ -231,19 +270,21 @@ Os elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80
 
 2 - São cursos da mesma área científica para os efeitos deste número os seguintes:
 
-a) Área da Matemática Pura:
+a) Área de Matemática:
 
 I) Matemática;
 
-II) Ensino da Matemática;
+II) Ensino da Matemática.
 
-b) Área da Matemática Aplicada:
+> Alterado pelo/a [Portaria n.º 844/89](https://diariodarepublica.pt/dr/detalhe/portaria/844-1989-548204), publicado em 1989-09-26.
 
-I) Computação;
+b) Área de Matemática Aplicada:
 
-II) Estatística e Investigação Operacional;
+I) Estatística e Investigação Operacional;
 
-III) Probabilidades e Estatística;
+II) Probabilidades e Estatística.
+
+> Alterado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08.
 
 c) Área da Física:
 
@@ -283,7 +324,13 @@ IV) Ensino da Biologia.
 
 3 - O curso de licenciatura em Bioquímica terá um conjunto de disciplinas comuns correspondente apenas ao primeiro ano dos cursos da área da Química.
 
-4 - O curso de licenciatura em Engenharia Geográfica terá um conjunto de disciplinas comuns correspondente apenas ao primeiro ano dos cursos da área da Física.
+4 - O curso de licenciatura em Engenharia Geográfica terá um conjunto de disciplinas comuns correspondentes apenas ao 1.º ano dos cursos da área de Matemática Aplicada.
+
+> Alterado pelo/a [Portaria n.º 551/86](https://diariodarepublica.pt/dr/detalhe/portaria/551-1986-221571), publicado em 1986-09-25.
+
+5 - O curso de licenciatura em Informática terá um conjunto de disciplinas comuns correspondente apenas ao 1.º ano dos cursos da área de Matemática Aplicada.
+
+> Aditado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08.
 
 5.º
 
@@ -383,43 +430,41 @@ b) Aprovação em estágio profissionalizante.
 
 4.2 - Monografia ... 6
 
-## ANEXO III — Licenciatura em Computação
+## ANEXO III — Licenciatura em Informática
 
 1 - Área científica do curso:
 
-Matemática Aplicada.
+Informática.
 
 2 - Duração normal do curso:
 
-5 anos lectivos.
+Cinco anos lectivos.
 
-3 - Condições necessárias à concessão do grau:
+3 - Condições necessárias à obtenção do grau:
 
-a) 127,5 unidades de crédito;
+a) 127 unidades de crédito;
 
 b) Aprovação em estágio profissionalizante.
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
-4.1 - Áreas científicas obrigatórias principais:
+4.1 - Áreas científicas obrigatórias:
 
-4.1.1 - Matemática ... 38
+4.1.1 - Informática ... 74
 
-4.1.2 - Computação ... 53
+4.1.2 - Matemática ... 20
 
-4.2 - Áreas científicas obrigatórias afins:
+4.1.3 - Matemática Aplicada ... 13
 
-4.2.1 - Probabilidades e Estatística ... 25
+4.1.4 - Ciências Humanas e Sociais ... 8
 
-4.2.2 - Investigação Operacional ... 7,5
+4.2 - Conjunto das áreas científicas optativas:
 
-4.3 - Áreas científicas opcionais:
+4.2.1 - Informática ... 12
 
-4.3.1 - Computação ... 4
+4.2.2 - Matemática Aplicada ... 12
 
-4.3.2 - Estatística ... 4
-
-4.3.3 - Investigação Operacional ... 4
+> Alterado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08.
 
 ## ANEXO IV — Licenciatura em Estatística e Investigação Operacional
 
@@ -429,35 +474,53 @@ Matemática Aplicada.
 
 2 - Duração normal do curso:
 
-5 anos lectivos.
+Cinco anos lectivos.
 
-3 - Condições necessárias à concessão do grau:
+3 - Condições necessárias à obtenção do grau:
 
-a) 127,5 unidades de crédito;
+a) 127 unidades de crédito;
 
 b) Aprovação em estágio profissionalizante.
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
-4.1 - Áreas científicas obrigatórias principais:
+4.1 - Áreas científicas obrigatórias:
 
-4.1.1 - Matemática ... 38
+4.1.1 - Probabilidades e Processos Estocásticos ... 8
 
-4.1.2 - Probabilidades e Estatística ... 36
+4.1.2 - Estatística ... 19 a 27
 
-4.1.3 - Investigação Operacional ... 27,5
+4.1.3 - Investigação Operacional ... 19 a 27
 
-4.2 - Áreas científicas obrigatórias afins:
+4.1.4 - Análise Numérica ... 4
 
-4.2.1 - Computação ... 18
+Total (4.1.1 a 4.1.4) ... 58
 
-4.3 - Áreas científicas opcionais:
+4.1.5 - Matemática ... 30
 
-4.3.1 - Computação ... 8
+4.1.6 - Informática ... 12
 
-4.3.2 - Estatística ... 8
+4.2 - Conjunto das áreas científicas optativas:
 
-4.3.3 - Investigação Operacional ... 8
+4.2.1 - Probabilidades e Processos Estocásticos ... 27
+
+4.2.2 - Estatística ... 27
+
+4.2.3 - Investigação Operacional ... 27
+
+4.2.4 - Análise Numérica ... 27
+
+4.2.5 - Matemática ... 27
+
+4.2.6 - Informática ... 27
+
+4.2.7 - História das Ciências ... 27
+
+4.2.8 - Filosofia das Ciências ... 27
+
+4.2.9 - Ciências Sociais e Humanas ... 27
+
+> Alterado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08.
 
 ## ANEXO V — Licenciatura em Probabilidades e Estatística
 
@@ -467,65 +530,87 @@ Matemática Aplicada.
 
 2 - Duração normal do curso:
 
-5 anos lectivos.
+Cinco anos lectivos.
 
-3 - Condições necessárias à concessão do grau:
+3 - Condições necessárias à obtenção do grau:
 
-a) 127,5 unidades de crédito;
+a) 127 unidades de crédito;
 
 b) Aprovação em estágio profissionalizante.
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
-4.1 - Áreas científicas obrigatórias principais:
+4.1 - Áreas científicas obrigatórias:
 
-4.1.1 - Matemática ... 42
+4.1.1 - Probabilidades e Processos Estocásticos ... 12 a 16
 
-4.1.2 - Probabilidades e Estatística ... 52
+4.1.2 - Estatística ... 27 a 35
 
-4.2 - Áreas científicas obrigatórias afins:
+4.1.3 - Investigação Operacional ... 7 a 11
 
-4.2.1 - Investigação Operacional ... 7,5
+4.1.4 - Análise Numérica ... 4
 
-4.2.2 - Computação ... 18
+Total (4.1.1 a 4.1.4) ... 58
 
-4.3 - Áreas científicas opcionais:
+4.1.5 - Matemática ... 30
 
-4.3.1 - Computação ... 8
+4.1.6 - Informática ... 12
 
-4.3.2 - Estatística ... 8
+4.2 - Conjunto das áreas científicas optativas:
 
-4.3.3 - Investigação Operacional ... 8
+4.2.1 - Probabilidades e Processos Estocásticos ... 27
+
+4.2.2 - Estatística ... 27
+
+4.2.3 - Operação Operacional ... 27
+
+4.2.4 - Análise Numérica ... 27
+
+4.2.5 - Matemática ... 27
+
+4.2.6 - Informática ... 27
+
+4.2.7 - História das Ciências ... 27
+
+4.2.8 - Filosofia das Ciências ... 27
+
+4.2.9 - Ciências Sociais e Humanas ... 27
+
+> Alterado pelo/a [Portaria n.º 447/88](https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254), publicado em 1988-07-08.
 
 ## ANEXO VI — Licenciatura em Engenharia Geográfica
 
-1 - Área científica do curso:
+1 - Área científica do curso - Engenharia Geográfica.
 
-Engenharia Geográfica.
+2 - Duração normal do curso - Cinco anos lectivos.
 
-2 - Duração normal do curso:
-
-5 anos lectivos.
-
-3 - Condições necessárias à concessão do grau:
-
-165 unidades de crédito.
+3 - Condições necessárias à concessão do grau - 158 unidades de crédito.
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
 4.1 - Áreas científicas obrigatórias principais:
 
-4.1.1 - Engenharia Geográfica ... 71,5
+4.1.1 - Engenharia Geográfica ... 77
 
 4.2 - Áreas científicas obrigatórias afins:
 
-4.2.1 - Física ... 32
+4.2.1 - Matemática ... 53
 
-4.2.2 - Geologia ... 8
+4.2.2 - Física ... 3
 
-4.2.3 - Matemática ... 43,5
+4.2.3 - Geologia ... 4
 
-4.3 - Estágio ... 10
+4.3 - Áreas científicas opcionais:
+
+4.3.1 - Matemática ... 11
+
+4.3.2 - Física ... 11
+
+4.3.3 - Geologia ... 11
+
+4.4 - Estágio ... 10
+
+> Alterado pelo/a [Portaria n.º 551/86](https://diariodarepublica.pt/dr/detalhe/portaria/551-1986-221571), publicado em 1986-09-25.
 
 ## ANEXO VII — Licenciatura em Física
 
@@ -913,25 +998,25 @@ Biologia.
 
 4 anos lectivos.
 
-3 - Condições necessárias à concessão do grau:
+3 - Condições necessárias à concessão do grau.
 
 130 unidades de crédito.
 
-4 - Áreas científicas e distribuição das unidades de crédito:
+4 - Áreas científicas e distribuição de unidades de crédito:
 
 4.1 - Áreas científicas obrigatórias principais:
 
-4.1.1 - Biologia ... 91,5
+4.1.1 - Biologia ... 95
 
 4.2 - Áreas científicas obrigatórias afins:
 
-4.2.1 - Física ... 8
+4.2.1 - Física ... 7
 
 4.2.2 - Geologia ... 4
 
 4.2.3 - Matemática ... 10
 
-4.2.4 - Química ... 16,5
+4.2.4 - Química ... 14
 
 ## ANEXO XIX — Licenciatura em Biologia Vegetal Aplicada
 
@@ -945,7 +1030,7 @@ Biologia.
 
 3 - Condições necessárias à concessão do grau:
 
-a) 122,5 unidades de crédito;
+a) 124 unidades de crédito;
 
 b) Aprovação em estágio profissionalizante.
 
@@ -953,17 +1038,17 @@ b) Aprovação em estágio profissionalizante.
 
 4.1 - Áreas científicas obrigatórias principais:
 
-4.1.1 - Biologia ... 52
+4.1.1 - Biologia ... 57
 
-4.1 .2 - Tecnologias Biológicas ... 30
+4.1.2 - Tecnologias Biológicas ... 30
 
 4.2 - Áreas científicas obrigatórias afins:
 
-4.2.1 - Física ... 8
+4.2.1 - Física ... 7
 
 4.2.2 - Matemática ... 10
 
-4.2.3 - Química ... 22,5
+4.2.3 - Química ... 20
 
 ## ANEXO XX — Licenciatura em Recursos Faunísticos e Ambiente
 
@@ -977,7 +1062,7 @@ Biologia.
 
 3 - Condições necessárias à concessão do grau:
 
-a) 130 unidades de crédito;
+a) 131,5 unidades de crédito;
 
 b) Aprovação em estágio profissionalizante.
 
@@ -985,19 +1070,19 @@ b) Aprovação em estágio profissionalizante.
 
 4.1 - Áreas científicas obrigatórias principais:
 
-4.1.1 - Biologia ... 55
+4.1.1 - Biologia ... 60
 
 4.1.2 - Tecnologias Biológicas ... 40,5
 
 4.2 - Áreas científicas obrigatórias afins:
 
-4.2.1 - Física ... 8
+4.2.1 - Física ... 7
 
 4.2.2 - Matemática ... 10
 
-4.2.3 - Química ... 16,5
+4.2.3 - Química ... 14
 
-## ANEXO XXI — Licenciatura em Ensino da Biologia
+## ANEXO XXI — Licenciatura em Ensino de Biologia
 
 1 - Área científica do curso:
 
@@ -1017,7 +1102,7 @@ b) Aprovação em estágio pedagógico.
 
 4.1 - Áreas científicas obrigatórias principais:
 
-4.1.1 - Biologia ... 45,5
+4.1.1 - Biologia ... 49
 
 4.1.2 - Ciências da Educação ... 23
 
@@ -1025,12 +1110,14 @@ b) Aprovação em estágio pedagógico.
 
 4.2 - Áreas científicas obrigatórias afins:
 
-4.2.1 - Física ... 8
+4.2.1 - Física ... 7
 
 4.2.2 - Geologia ... 13
 
 4.2.3 - Matemática ... 10
 
-4.2.4 - Química ... 16,5
+4.2.4 - Química ... 14
+
+> Alterado pelo/a [Portaria n.º 184/85](https://diariodarepublica.pt/dr/detalhe/portaria/184-1985-325077), publicado em 1985-04-04.
 
 4.3 - Monografia ... 6

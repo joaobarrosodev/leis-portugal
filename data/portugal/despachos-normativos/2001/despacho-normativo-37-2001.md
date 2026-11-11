@@ -39,10 +39,32 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-04-10'
+version_history:
+  file: despacho-normativo-37-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-10-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-04-10'
+    amending: pt:dre:562398:por
+    amending_title: Despacho Normativo n.º 22/2005
+    changes:
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 16-16
+    - Altera Artigo unidades 17-23
+    - Altera Artigo unidades 24-28
+    - Altera Artigo unidades 37-38
+    - Altera Artigo unidades 43-43
+    - Altera Artigo unidades 56-57
+    - Altera Artigo unidades 58-58
+    - Altera Artigo unidades 59-59
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/37/2001/10/02/p/dre/pt/html
@@ -68,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:38:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 22/2005. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2001/despacho-normativo-37-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -207,35 +230,31 @@ a) «Parcela agrícola» uma porção contínua de terreno efectivamente cultiva
 
 b) «Superfície agrícola» o conjunto das parcelas agrícolas tal como definidas na alínea anterior;
 
-c) «Culturas arvenses» as enumeradas no anexo I do Regulamento (CE) n.º [1251/1999](http://data.europa.eu/eli/reg/1999/1251/oj?locale=pt), do Conselho;
+c) 'Culturas arvenses', as culturas enumeradas no anexo IX do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, de 29 de Setembro;
+
+> Alterado pelo/a [Despacho Normativo n.º 22/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-2005-562398), publicado em 2005-04-05.
 
 d) «Produtor» pessoa individual ou colectiva que cultiva numa parcela agrícola ou numa superfície agrícola culturas arvenses ou as deixa em pousio;
 
-e) «Leguminosas forrageiras» as culturas das espécies mencionadas no anexo XIV do Regulamento (CE) n.º [2316/1999](http://data.europa.eu/eli/reg/1999/2316/oj?locale=pt), da Comissão, de 22 de Outubro.
+e) 'Leguminosas forrageiras', as culturas das espécies mencionadas no anexo VII do Regulamento (CE) n.º [1973/2004](http://data.europa.eu/eli/reg/2004/1973/oj?locale=pt), da Comissão, de 29 de Outubro.
 
-3 - São elegíveis as parcelas utilizadas numa rotação que integra culturas arvenses, ficando excluídas as superfícies que, à data de 31 de Dezembro de 1991, se encontravam afectas a pastagens permanentes, culturas permanentes, florestas ou a utilizações não agrícolas, tal como definidas no anexo I do Regulamento (CE) n.º [2316/1999](http://data.europa.eu/eli/reg/1999/2316/oj?locale=pt), da Comissão, de 22 de Outubro.
+> Alterado pelo/a [Despacho Normativo n.º 22/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-2005-562398), publicado em 2005-04-05.
 
-Em derrogação do parágrafo anterior, são também elegíveis:
+3.1 - São elegíveis as parcelas utilizadas numa rotação que integra culturas arvenses, ficando excluídas as superfícies que, à data de 15 de Maio de 2003, se encontravam afectas a pastagens permanentes, culturas permanentes, florestas ou a utilizações não agrícolas, de acordo com as definições constantes do Regulamento (CE) n.º [795/2003](http://data.europa.eu/eli/reg/2003/795/oj?locale=pt) e do Regulamento (CE) n.º [796/2003](http://data.europa.eu/eli/reg/2003/796/oj?locale=pt), ambos da Comissão, de 21 de Abril, com excepção dos seguintes casos:
 
-a) As superfícies que se encontravam ocupadas, em 31 de Dezembro de 1991, com culturas permanentes, pastagens permanentes ou florestas, desde que a exploração agrícola tenha sido modificada na sua estrutura ou na superfície elegível, em virtude de um programa de reestruturação imposto pelo Estado, como são os casos de emparcelamentos, aproveitamentos hidro-agrícolas de carácter público, bem como outras situações decorrentes de qualquer forma de intervenção pública.
+a) As superfícies que se encontravam ocupadas, em 15 de Maio de 2003, com culturas permanentes, pastagens permanentes ou florestas, desde que a exploração agrícola tenha sido modificada na sua estrutura ou na superfície elegível, em virtude de um programa de reestruturação imposto pelo Estado, como são os casos de emparcelamentos, aproveitamentos hidro-agrícolas de carácter público, bem como outras situações decorrentes de qualquer forma de intervenção pública;
 
-Nestes casos, o Instituto Nacional de Intervenção e Garantia Agrícola (INGA) procederá às análise e avaliação respectivas, tendo em atenção o disposto no n.º 3 do artigo 2.º do Regulamento n.º [2316/1999](http://data.europa.eu/eli/reg/1999/2316/oj?locale=pt), da Comissão, de 22 de Outubro, e de acordo com normas internas a divulgar oportunamente por todos os interessados;
+b) As superfícies que se encontram afectas a pastagens permanentes, culturas permanentes, florestas ou a utilizações não agrícolas, desde que o produtor se veja obrigado a, no âmbito da sua exploração, permutar essas terras por terras aráveis, desde que não se apresentem impedimentos válidos, nomeadamente no domínio ambiental, e essa permuta não conduza a um aumento de superfície total de terras aráveis da exploração.
 
-b) As superfícies que se encontram afectas a pastagens permanentes, culturas permanentes, florestas ou a utilizações não agrícolas, desde que o produtor se veja obrigado a, no âmbito da sua exploração, permutar essas terras por terras aráveis, desde que não se apresentem impedimentos válidos, nomeadamente no domínio ambiental, e essa permuta não conduza a um aumento da superfície total de terras aráveis da exploração.
+3.2 - Nos casos previstos na alínea a) do número anterior, o Instituto Nacional de Intervenção e Garantia Agrícola (INGA) procederá à análise e avaliação respectivas, tendo em atenção o disposto no n.º 2, alínea a), do artigo 51.º do Regulamento (CE) n.º [1973/2004](http://data.europa.eu/eli/reg/2004/1973/oj?locale=pt), de 29 de Outubro, e de acordo com normas internas a divulgar oportunamente por todos os interessados.
 
-Neste caso, o produtor deve apresentar ao INGA, até 30 de Setembro de cada ano, uma proposta da permuta que pretende efectuar, explicitando as razões da mesma;
+3.3 - Nos casos previstos na alínea b) do número anterior, o produtor deve apresentar ao INGA, até 30 de Setembro de cada ano, uma proposta da permuta que pretende efectuar, explicitando as razões da mesma.
 
-c) As superfícies consagradas à cultura do linho ou do cânhamo, destinados à produção de fibras, e eventualmente à respectiva retirada obrigatória, desde que, para tal, tenham beneficiado de uma ajuda concedida no âmbito do Regulamento (CEE) n.º [1308/1970](http://data.europa.eu/eli/reg/1970/1308/oj?locale=pt), do Conselho, de 29 de Junho, durante pelo menos uma das campanhas entre 1998-1999 e 2000-2001.
+> Alterado pelo/a [Despacho Normativo n.º 22/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-2005-562398), publicado em 2005-04-05.
 
-4 - São igualmente elegíveis as parcelas com coberto de árvores que, à data de 31 de Dezembro de 1991, se encontravam nas seguintes condições:
+4 - No caso de parcelas com coberto de árvores dispersas de qualquer espécie arbórea ou em povoamentos mistos, desde que a sua densidade não ultrapassasse 60 árvores por hectare é elegível a totalidade da área da parcela.
 
-a) Montado, souto, alfarrobal, carvalhal, olival, amendoal, figueiral, outras espécies florestais, outras fruteiras ou povoamentos mistos com estas espécies, com uma densidade não superior a 20 árvores/ha, sendo elegível a totalidade da área da parcela;
-
-b) Montado, souto, alfarrobal, carvalhal ou outras espécies florestais, com uma densidade compreendida entre 21 e 40 árvores/ha, sendo elegível uma área equivalente a dois terços da área da parcela;
-
-c) Olival, amendoal, figueiral ou outras fruteiras, com uma densidade compreendida entre 21 e 60 árvores/ha, sendo elegível uma área equivalente a dois terços da área da parcela;
-
-d) Povoamentos mistos das espécies referidas nas alíneas b) e c), com uma densidade de povoamento compreendida entre 21 e 50 árvores/ha, em que as espécies referidas na alínea b) não ultrapassem 30 árvores/ha, sendo elegível uma área equivalente a dois terços da área da parcela.
+> Alterado pelo/a [Despacho Normativo n.º 22/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-2005-562398), publicado em 2005-04-05.
 
 5 - Para beneficiarem do regime de apoio, os produtores devem respeitar as seguintes condições:
 
@@ -253,9 +272,11 @@ f) Nos casos em que a colheita seja realizada, no estádio de plena maturação 
 
 g) No que respeita ao cânhamo destinado à produção de fibras, a cultura deve ser mantida, nas condições descritas, pelo menos até 10 dias após o fim do período de floração, devendo o produtor comunicar ao INGA a data do início da floração daquela cultura logo que a mesma ocorra. Contudo, o produtor poderá efectuar a colheita do cânhamo antes da data mencionada, se, para tal, for objecto da respectiva autorização pelos serviços de controlo do INGA.
 
-6 - As condições referidas nas alíneas d) e e) do número anterior não são exigidas sempre que, para uma dada região, se constate a ocorrência de circunstâncias climáticas anormais que impeçam, nomeadamente, a realização das práticas culturais adequadas.
+6.1 - As condições referidas nas alíneas d) e e) do n.º 5 não são exigidas sempre que, para uma dada região, se constate a ocorrência de circunstâncias climáticas anormais que impeçam, nomeadamente, a realização das práticas culturais adequadas.
 
-As regiões a abranger pela derrogação prevista no parágrafo anterior serão definidas pelo Gabinete de Planeamento e Política Agro-Alimentar (GPPAA), até 31 de Maio para as culturas de Outono-Inverno e 15 de Julho para as culturas de Primavera-Verão, com base em informação relevante fornecida pelas direcções regionais de Agricultura, até 15 de Maio e até 30 de Junho, respectivamente.
+6.2 - As regiões a abranger pela excepção prevista no número anterior serão definidas pelos serviços regionais de agricultura de cada Região Autónoma até 15 de Maio para as culturas de Outono-Inverno e 30 de Junho para as culturas de Primavera-Verão, devendo esta informação ser transmitida ao INGA o mais tardar até 31 de Maio e 15 de Julho, respectivamente.
+
+> Alterado pelo/a [Despacho Normativo n.º 22/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-2005-562398), publicado em 2005-04-05.
 
 7 - São igualmente elegíveis as superfícies ocupadas com a cultura do milho de regadio consociada com o feijão, nas regiões de Entre Douro e Minho e da Beira Litoral, em que esta consociação constitua uma prática agrícola tradicional, desde que:
 
@@ -265,7 +286,9 @@ b) Seja respeitado o disposto no presente despacho no que se refere a densidades
 
 ### CAPÍTULO II — Plano de regionalização
 
-8 - O valor dos pagamentos à superfície previstos no regime de apoio depende da categoria de rendimento atribuída às parcelas, semeadas ou em pousio, objecto do pedido de ajuda, e da cultura arvense declarada, de acordo com a descrição dos anexos I e II do presente despacho normativo.
+8 - O valor dos pagamentos à superfície previstos no regime de apoio depende da categoria de rendimento atribuída às parcelas, semeadas ou em pousio, objecto do pedido de ajuda, e da cultura arvense declarada.
+
+> Alterado pelo/a [Despacho Normativo n.º 22/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-2005-562398), publicado em 2005-04-05.
 
 9 - De acordo com o Plano de Regionalização de Culturas Arvenses, aprovado pela Comissão da União Europeia, para aplicação do presente regime de apoio são estabelecidas:
 
@@ -291,13 +314,17 @@ b) Nas culturas de Primavera-Verão, designadamente milho, sorgo, soja, girassol
 
 ### CAPÍTULO IV — Disposições relativas à retirada de terras
 
-12 - Entende-se por retirada de terras ou pousio, para efeitos do disposto no presente despacho normativo, o não cultivo de uma parcela elegível ao abrigo do disposto nos n.os 3 e 4 do presente despacho, sem prejuízo do disposto nos n.os 16 e 19.
+12 - A retirada de terras da produção, ou pousio, pode ter carácter obrigatório ou voluntário, e efectua-se nos termos do disposto no artigo 107.º do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, de 21 de Outubro, e nos artigos 64.º a 68.º do Regulamento (CE) n.º [1973/2004](http://data.europa.eu/eli/reg/2004/1973/oj?locale=pt), da Comissão, de 29 de Outubro.
 
-A retirada de terras tem uma natureza obrigatória para os produtores cuja área total declarada seja superior à necessária para produzir 92 t de cereais, em função dos rendimentos atribuídos às parcelas declaradas, conforme o descrito no n.º 7 do presente despacho normativo. A taxa de retirada obrigatória é de 10% do total da área declarada para as campanhas de 2000-2001 até 2006-2007, sem prejuízo de posterior fixação de uma taxa diferente pelo Conselho da União Europeia, tendo em conta a evolução do mercado de cereais.
+> Alterado pelo/a [Despacho Normativo n.º 22/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-2005-562398), publicado em 2005-04-05.
 
-13 - O produtor deverá fazer o pousio obrigatório em cada região de diferente rendimento utilizado para o pagamento a título da retirada de terras, na proporção da respectiva área semeada, de acordo com o anexo I do presente despacho normativo. No entanto, o produtor poderá optar por fazer o pousio noutra região, se as regiões de diferente rendimento forem contíguas. Neste caso, a superfície a retirar deve ser ajustada tendo em conta as diferenças de rendimento entre as regiões em causa. Porém, o número de hectares retirados da produção não pode ser inferior ao estabelecido pela obrigação de retirada.
+13 - Em aplicação do disposto no artigo 68.º do Regulamento (CE) n.º [1973/2004](http://data.europa.eu/eli/reg/2004/1973/oj?locale=pt), da Comissão, de 29 de Outubro, os produtores podem efectuar um pousio voluntário, que consiste na possibilidade de uma retirada de terras superior à sua obrigação.
 
-14 - Os produtores poderão efectuar um pousio voluntário, que consiste na possibilidade de uma retirada de terras superior à sua obrigação. A retirada total de terras, pousio obrigatório e pousio voluntário no caso dos produtores cuja área declarada é superior à necessária para produzir 92 t de cereais, ou pousio voluntário, no caso dos produtores cuja área declarada é inferior ou igual à necessária para produzir 92 t de cereais, não poderá exceder 35% do total de superfície declarada para efeitos de pedido de ajuda. Contudo, a título excepcional e transitório, para a campanha de 2002-2003, é permitida uma retirada total de terras inferior ou igual a 50% do total da superfície declarada para efeitos de pedido de ajuda.
+> Alterado pelo/a [Despacho Normativo n.º 22/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-2005-562398), publicado em 2005-04-05.
+
+14 - A retirada total de terras, pousio obrigatório e pousio voluntário no caso dos produtores cuja área declarada é superior à necessária para produzir 92 t de cereais, ou pousio voluntário, no caso dos produtores cuja área declarada é inferior ou igual à necessária para produzir 92 t de cereais, não pode exceder 35% do total de superfície declarada para efeitos de pedido de ajuda.
+
+> Alterado pelo/a [Despacho Normativo n.º 22/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-2005-562398), publicado em 2005-04-05.
 
 15 - As superfícies retiradas sob qualquer forma de pousio objecto de compensação devem manter-se nessa situação no período de 15 de Janeiro a 31 de Agosto. Todavia:
 

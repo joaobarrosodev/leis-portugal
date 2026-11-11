@@ -38,10 +38,37 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-11-17'
+version_history:
+  file: despacho-normativo-35-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-07-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-11-17'
+    amending: pt:dre:596347:por
+    amending_title: Despacho Normativo n.º 49/2005; Despacho Normativo n.º 29/2006; Despacho Normativo n.º 17/2006
+    changes:
+    - Altera Artigo unidades 37-37
+    - Altera Artigo unidades 40-40
+    - Adita Artigo depois da unidade 40
+    - Altera Artigo unidades 58-58
+    - Altera Artigo unidades 72-72
+    - Altera Artigo unidades 75-75
+    - Altera Artigo unidades 76-76
+    - Altera Artigo unidades 77-77
+    - Adita Artigo depois da unidade 84
+    - Altera Artigo unidades 90-90
+    - Altera Artigo unidades 95-95
+    - Altera Artigo unidades 113-113
+    - Altera Artigo unidades 117-120
+    - Altera Artigo unidades 163-163
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/35/2005/07/25/p/dre/pt/html
@@ -67,7 +94,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:42:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 49/2005; Despacho
+    Normativo n.º 29/2006; Despacho Normativo n.º 17/2006. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2005/despacho-normativo-35-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -210,13 +238,23 @@ Despesas elegíveis
 
 1 - Sem prejuízo do disposto nos capítulos seguintes, são elegíveis as despesas necessárias ao cabal desenvolvimento das acções propostas e de acordo com as determinações relativas aos tipos de despesas elegíveis definidas e divulgadas pelo Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).
 
-2 - Não são elegíveis as despesas susceptíveis de apoio por qualquer outro instrumento de política, nomeadamente no âmbito das acções n.os 3.1, 3.2 e 3.6 da medida n.º 3 do Programa AGRO, da subacção n.º 3.4 da medida AGRIS e das subacções a), b), f) e j) da acção integrada de base territorial do pinhal interior, salvo o autofinanciamento previsto na alínea f) do n.º 1 do n.º 12.º
+2 - Não são elegíveis as despesas susceptíveis de apoio por qualquer outro instrumento de política, nomeadamente no âmbito das acções n.os 3.1, 3.2 e 3.6 da medida n.º 3 do Programa AGRO, da subacção n.º 3.4 da medida AGRIS e das subacções a), b), f) e j) da Acção Integrada de Base Territorial do Pinhal Interior, sem prejuízo do disposto na alínea f) do n.º 1 do n.º 12.º
+
+> Alterado pelo/a [Despacho Normativo n.º 17/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2006-2791126), publicado em 2006-11-17.
 
 7.º
 
 Apresentação das candidaturas
 
-As candidaturas formalizam-se junto do IFADAP até 30 de Setembro de 2005 e entre 1 de Fevereiro e 30 de Abril de 2006.
+1 - As candidaturas formalizam-se junto do IFADAP até 30 de Setembro de 2005 no caso dos apoios previstos nas alíneas a), c), d) e e) do n.º 1 do n.º 2.º
+
+2 - As candidaturas referentes à alínea b) do n.º 1 do n.º 2.º formalizam-se até 30 de Novembro de 2005.
+
+> Alterado pelo/a [Despacho Normativo n.º 49/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-2005-596347), publicado em 2005-10-26.
+
+3 - Em 2006, as candidaturas devem ser apresentadas entre 1 de Fevereiro de 2006 e 30 de Abril do mesmo ano, com excepção das referentes aos apoios previstos nas alíneas b) e d) do n.º 1 do n.º 2.º, que devem ser apresentadas entre 1 de Fevereiro de 2006 e 30 de Maio do mesmo ano.
+
+> Aditado pelo/a [Despacho Normativo n.º 29/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-2006-659156), publicado em 2006-05-08.
 
 8.º
 
@@ -252,7 +290,11 @@ Decisão das candidaturas
 
 1 - A decisão das candidaturas decorre em 2005 até 31 de Dezembro e em 2006 em duas épocas, a 1.ª até 30 de Setembro de 2006, em que são objecto de decisão as candidaturas das áreas prioritárias indicadas no n.º 2 do n.º 2.º, e a 2.ª até 31 de Dezembro de 2006, em que serão objecto de decisão as candidaturas das restantes áreas.
 
-2 - São recusadas as candidaturas que não cumpram as condições estabelecidas no presente Regulamento, as determinações relativas aos tipos de despesas elegíveis divulgas pelo IFADAP e demais legislação aplicável ou não tenham cobertura orçamental assegurada.
+2 - Relativamente às candidaturas apresentadas em 2005, referidas no n.º 2 do n.º 7.º, o prazo de decisão decorre até 31 de Janeiro de 2006.
+
+3 - São recusadas as candidaturas que não cumpram as condições estabelecidas no presente Regulamento, as determinações relativas aos tipos de despesas elegíveis divulgas pelo IFADAP e demais legislação aplicável ou não tenham cobertura orçamental assegurada.
+
+> Alterado pelo/a [Despacho Normativo n.º 49/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-2005-596347), publicado em 2005-10-26.
 
 11.º
 
@@ -280,17 +322,25 @@ d) Vigilância;
 
 e) Operações silvícolas e de manutenção de infra-estruturas consideradas de urgente interesse público, levadas a cabo em substituição das entidades responsáveis, nos termos do estipulado no [Decreto-Lei n.º 156/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2004-517473), de 30 de Junho;
 
-f) Autofinanciamento no âmbito dos apoios à subacção n.º 3.4 da medida AGRIS, componente n.º 2, e subacção j), componente n.º 2, da acção integrada de base territorial do pinhal interior, de acordo com os despachos do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas de 22 de Março e de 12 de Maio de 2004;
+f) Autofinanciamento e co-financiamento nacional no âmbito dos apoios à subacção n.º 3.4 da medida AGRIS, componente n.º 2, e subacção j), componente n.º 2, da Acção Integrada de Base Territorial do Pinhal Interior. O co-financiamento nacional é efectuado até ao limite de Euro 1 000 000;
+
+> Alterado pelo/a [Despacho Normativo n.º 17/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2006-2791126), publicado em 2006-11-17.
 
 g) Campanhas de sensibilização dos cidadãos para a defesa da floresta contra incêndios;
 
 h) Constituição e funcionamento dos gabinetes técnicos florestais, enquanto estruturas técnicas permanentes de apoio às comissões municipais de defesa da floresta contra incêndios, nos termos do protocolo celebrado entre o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas e a Associação Nacional de Municípios Portugueses.
 
-2 - As acções referidas no número anterior deverão respeitar as seguintes condições:
+2 - As acções referidas no número anterior, na parte aplicável, devem respeitar as seguintes condições:
 
-a) Ter parecer da comissão municipal de defesa da floresta contra incêndios, se forem de âmbito concelhio ou intermunicipal, no caso das alíneas a), d) e e);
+> Alterado pelo/a [Despacho Normativo n.º 17/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2006-2791126), publicado em 2006-11-17.
 
-b) Ter parecer favorável da DGRF, se de âmbito mais alargado, no caso das alíneas d) e e);
+a) Ter parecer da comissão municipal de defesa da floresta contra incêndios, se forem de âmbito concelhio ou intermunicipal, no caso das alíneas a), d) e g);
+
+> Alterado pelo/a [Despacho Normativo n.º 49/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-2005-596347), publicado em 2005-10-26.
+
+b) Ter parecer favorável da DGRF, se de âmbito mais alargado, no caso das alíneas d) e g);
+
+> Alterado pelo/a [Despacho Normativo n.º 49/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-2005-596347), publicado em 2005-10-26.
 
 c) Estar de acordo com a legislação em vigor sobre a sinalização de áreas de acesso condicionado, no caso da alínea b);
 
@@ -306,6 +356,22 @@ h) Incidir em áreas geográficas abrangidas por núcleos críticos e pelas clas
 
 i) Corresponder ao previsto nos n.os 3 e 4 do artigo 16.º do [Decreto-Lei n.º 156/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2004-517473), de 30 de Junho, no caso da alínea a).
 
+3 - As candidaturas às subacções referidas na alínea f) do n.º 1 do presente número devem respeitar as condições previstas nos respectivos regulamentos de aplicação, bem como o disposto nas Portarias n.os [459/2006](https://diariodarepublica.pt/dr/detalhe/portaria/459-2006-633528), de 18 de Maio, e [902/2006](https://diariodarepublica.pt/dr/detalhe/portaria/902-2006-540001), de 4 de Setembro.
+
+4 - No caso da alínea a) do n.º 1 do presente número, as câmaras municipais podem beneficiar de um apoio, desde que verificado o disposto no n.º 10 do artigo 15.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho, e de acordo com as seguintes condicionantes:
+
+a) Realização das despesas elegíveis, após 15 de Abril de cada ano, data a partir da qual deve ser constatado o incumprimento das obrigações a cargo daqueles que, a qualquer título, detenham os respectivos terrenos;
+
+b) Exibição, pelas câmaras municipais, da aprovação do plano municipal de defesa da floresta contra incêndios, bem como prova do procedimento administrativo e respectivo processo de contra-ordenação instaurados, respectivamente, nos termos do n.º 10 do artigo 15.º e dos artigos 38.º e 40.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491);
+
+c) Entrega da documentação comprovativa da despesa efectivamente suportada, por força do disposto no n.º 10 do artigo 15.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), sem os quais o pagamento não pode ser realizado;
+
+d) Apresentação, pelas câmaras municipais, de requerimento para efeitos de antecipação do apoio previsto no presente despacho normativo, o qual deve ser acompanhado de declaração emitida pelo órgão competente, reconhecendo o montante antecipado e da qual conste o compromisso de liquidação, à primeira solicitação do IFADAP;
+
+e) Declaração de compromisso emitida pelo órgão competente de que os apoios são reembolsados ao IFADAP logo que ressarcidas as despesas por aqueles que, nos termos do n.º 9 do artigo 15.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), estão obrigados a proceder à gestão de combustível nos respectivos terrenos, sem prejuízo de as câmaras municipais ficarem obrigadas a demonstrar, a todo o tempo, a adopção de todos os meios legais ao seu alcance, por forma a obterem os reembolsos previstos no n.º 10 do artigo 15.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491).
+
+> Aditado pelo/a [Despacho Normativo n.º 17/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2006-2791126), publicado em 2006-11-17.
+
 13.º
 
 Beneficiários
@@ -316,7 +382,9 @@ a) No caso das alíneas a) e b), os produtores florestais, as organizações de 
 
 b) Quando se trate da alínea d), as organizações de produtores florestais, as organizações não governamentais, os órgãos de administração de baldios e os organismos da administração central, autarquias locais e associações intermunicipais;
 
-c) Quando se trate da alínea e), as organizações de produtores florestais de grau superior, os organismos da administração central, autarquias locais e associações intermunicipais;
+c) Quando se trate da alínea g), as organizações de produtores florestais de grau superior, os organismos da administração central, autarquias locais e associações intermunicipais;
+
+> Alterado pelo/a [Despacho Normativo n.º 49/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-2005-596347), publicado em 2005-10-26.
 
 d) No caso das alíneas c), e) e f), a Autoridade Florestal Nacional;
 
@@ -326,7 +394,13 @@ e) No caso da alínea h), a Agência para a Prevenção de Incêndios Florestais
 
 Níveis de apoio
 
-Os apoios são de 85% do valor das despesas elegíveis no caso de o beneficiário revestir a forma de entidade de direito privado e de 100% caso o beneficiário seja uma entidade de direito público ou de utilidade pública.
+1 - Os apoios são de 85% do valor das despesas elegíveis no caso de o beneficiário revestir a forma de entidade de direito privado e de 100% caso o beneficiário seja uma entidade de direito público ou de utilidade pública.
+
+2 - No caso das acções previstas no n.º 4 do n.º 12.º, o apoio a conceder é calculado tendo em conta o valor por hectare, fixado em Euro 500, e a área declarada para o efeito pela câmara municipal, nunca superior a 30% da área a que se refere o n.º 8 do artigo 15.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491) e constante do respectivo plano municipal de defesa da floresta contra incêndios.
+
+3 - O apoio previsto no número anterior fica condicionado ao limite das disponibilidades orçamentais do Fundo.
+
+> Alterado pelo/a [Despacho Normativo n.º 17/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2006-2791126), publicado em 2006-11-17.
 
 ### CAPÍTULO III — Promoção do ordenamento e gestão florestal
 
@@ -362,7 +436,11 @@ d) A descrição técnica do projecto de cadastro a desenvolver, nos termos a de
 
 3 - A acção referida na alínea e) do n.º 1 aplica-se às áreas ZIF, às explorações florestais ou conjunto de explorações que possuam uma área igual ou superior à área exigível para a existência de PGF no âmbito do PROF respectivo ou, na ausência temporária deste instrumento sectorial de gestão territorial, em áreas que viabilizem uma gestão florestal sustentável.
 
-4 - As candidaturas aos apoios referidos nas alíneas a) a d) podem ser apresentadas em simultâneo.
+4 - As candidaturas aos apoios referidos nas alíneas b) a d) do n.º 1 só podem ser apresentadas após a publicação da portaria que aprovar as ZIF respectivas.
+
+5 - As candidaturas aos apoios referidos na alínea a) do n.º 1 devem incluir a elaboração do plano de defesa da floresta contra incêndios, cujos apoios estão previstos na alínea e) do n.º 1.
+
+> Alterado pelo/a [Despacho Normativo n.º 49/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-2005-596347), publicado em 2005-10-26.
 
 16.º
 
@@ -370,13 +448,17 @@ Beneficiários
 
 Podem beneficiar dos apoios referidos no n.º 1 do número anterior:
 
-a) No caso das alíneas a) a d), a organização associativa sem fins lucrativos de proprietários e produtores florestais ou outra pessoa colectiva aprovada pelos proprietários e produtores florestais que se proponha apresentar uma proposta de criação de ZIF;
+a) No caso da alínea a), o núcleo fundador, definido na alínea e) do artigo 3.º do [Decreto-Lei n.º 127/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2005-241857), de 5 de Agosto, representado por pessoa colectiva ou entidade da administração central ou local que assuma solidariamente com os proprietários e produtores florestais que constituem o núcleo fundador as obrigações decorrentes do contrato de apoio;
 
-b) Relativamente à alínea e), as entidades gestoras das ZIF, os titulares ou entidades responsáveis pela administração de explorações ou conjuntos de explorações florestais de dimensão elegível;
+b) Nas alíneas b) a d), as entidades gestoras das ZIF, tal como identificadas na alínea b) do artigo 3.º do referido decreto-lei;
 
-c) Relativamente à alínea f), a DGRF;
+c) Relativamente à alínea e), as entidades gestoras das ZIF, os titulares ou entidades responsáveis pela administração de explorações ou conjuntos de explorações florestais de dimensão elegível;
 
-d) No caso da alínea g), os produtores florestais, as organizações de produtores florestais, os órgãos da administração de baldios e as autarquias detentoras de áreas florestais.
+d) Relativamente à alínea f), a Direcção-Geral dos Recursos Florestais;
+
+e) No caso da alínea g), os produtores florestais, as organizações de produtores florestais, os órgãos de administração de baldios e as autarquias detentoras de áreas florestais.
+
+> Alterado pelo/a [Despacho Normativo n.º 49/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-2005-596347), publicado em 2005-10-26.
 
 17.º
 
@@ -462,7 +544,9 @@ Beneficiários
 
 Podem beneficiar dos apoios referidos no número anterior:
 
-a) No caso da alínea a), as organizações de produtores florestais, os órgãos de administração de baldios e os organismos da administração central e local;
+a) No caso da alínea a), os produtores florestais, as organizações de produtores florestais, os órgãos de administração de baldios e os organismos da administração central e local;
+
+> Alterado pelo/a [Despacho Normativo n.º 29/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-2006-659156), publicado em 2006-05-08.
 
 b) Quando se trate da alínea b), a DGRF.
 

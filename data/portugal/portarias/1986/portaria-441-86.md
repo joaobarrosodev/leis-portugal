@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-08-24'
+version_history:
+  file: portaria-441-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-08-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-08-24'
+    amending: pt:dre:618367:por
+    amending_title: Portaria n.º 721/89; Portaria n.º 721/89
+    changes:
+    - Adita Artigo depois da unidade 104
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:49:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 721/89; Portaria n.º
+    721/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-441-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -337,6 +352,18 @@ c) Educadores de infância e professores do ensino primário a prestar serviço 
 3 - Poderão ainda ser criados contingentes especiais, dentro ou para além do número de vagas fixado no n.º 1, para docentes de regiões especialmente carenciadas nos domínios da educação especial.
 
 4 - Os contingentes especiais a que se refere o n.º 3 serão criados e regulamentados por despacho do Ministro da Educação e Cultura, sob proposta da comissão instaladora do Instituto Politécnico de Lisboa, ouvida a comissão instaladora da Escola Superior de Educação.
+
+15.º-A
+
+Supranumerários
+
+1 - Existirá ainda um contingente especial, para além das vagas fixadas nos termos do n.º 15.º, destinado a estudantes nacionais das Repúblicas Popular de Angola, de Cabo Verde, da Guiné-Bissau, Popular de Moçambique e Democrática de São Tomé e Príncipe, desde que a sua candidatura seja apresentada previamente pela via diplomática, através do Gabinete Coordenador do Ingresso no Ensino Superior, no âmbito dos acordos de cooperação firmados pelo Estado Português.
+
+2 - Os estudantes a que se refere o n.º 1 têm de satisfazer todas as condições de acesso a que se refere o n.º 16.º e estarão sujeitos, se excederem o número de vagas fixadas, às regras de selecção e seriação fixadas pela presente portaria.
+
+3 - O número de vagas a afectar a este contingente será fixado pelo presidente da comissão instaladora do Instituto Politécnico de Lisboa e não poderá exceder 10% das vagas fixadas nos termos do n.º 1 do n.º 15.º
+
+> Aditado pelo/a [Portaria n.º 721/89](https://diariodarepublica.pt/dr/detalhe/portaria/721-1989-618367), publicado em 1989-08-24.
 
 16.º
 

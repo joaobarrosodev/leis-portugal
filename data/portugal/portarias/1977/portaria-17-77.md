@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-07-11'
+version_history:
+  file: portaria-17-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-01-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-07-11'
+    amending: pt:dre:250445:por
+    amending_title: Portaria n.º 417/77
+    changes:
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 22-22
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:15:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 417/77. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1977/portaria-17-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +160,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 1.º Os pesticidas de uso agrícola constantes dos quadros anexos a este diploma estão sujeitos ao regime de preços máximos e ainda ao regime especial de margens mínimas de comercialização fixadas.
 
-2.º Os pesticidas de uso agrícola submetidos ao regime de preços controlados estão ainda sujeitos ao regime de margens de comercialização fixadas, a que se refere a alínea e) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
+2.º Os pesticidas de uso agrícola não referidos no número anterior estão sujeitos ao regime de margens de comercialização fixadas.
+
+> Alterado pelo/a [Portaria n.º 417/77](https://diariodarepublica.pt/dr/detalhe/portaria/417-1977-250445), publicado em 1977-07-11.
 
 3.º - 1. Os preços máximos de venda à porta da fábrica ou armazém do importador, bem como os preços máximos de venda ao consumidor, no continente e ilhas adjacentes, de herbicidas e fungicidas, com excepção do enxofre em pó, são os constantes do quadro I, anexo a esta portaria.
 
@@ -162,7 +180,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 5.º Os preços máximos de venda ao consumidor poderão ser onerados com os encargos financeiros resultantes das vendas a prazo.
 
-6.º Nas vendas dos pesticidas de uso agrícola submetidos ao regime de preços controlados são ainda aplicáveis as margens de comercialização de 25%, calculadas sobre o preço de venda à porta da fábrica ou armazém do importador, e mínima de 15% para o retalhista, calculada sobre a mesma base.
+6.º Nas vendas de pesticidas de uso agrícola referidos no n.º 2 é aplicável a margem de comercialização de 25%, calculada sobre o preço de venda à porta da fábrica ou armazém do importador, e mínima de 15% para o retalhista, calculada sobre a mesma base.
+
+> Alterado pelo/a [Portaria n.º 417/77](https://diariodarepublica.pt/dr/detalhe/portaria/417-1977-250445), publicado em 1977-07-11.
 
 7.º As dúvidas suscitadas na aplicação da presente portaria serão resolvidas por despacho do Secretário de Estado do Comércio Interno.
 

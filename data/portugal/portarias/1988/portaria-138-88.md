@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-08-07'
+version_history:
+  file: portaria-138-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-03-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-08-07'
+    amending: pt:dre:407753:por
+    amending_title: Portaria n.º 328/96
+    changes:
+    - Altera Artigo unidades 19-23
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:23:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 328/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-138-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -161,13 +176,19 @@ d) Estar assegurado que, sem prejuízo da dignidade e funcionalidade dos estabel
 
 2.º
 
-Situações excluídas
+Condições de adjudicação das obras
 
-Será recusado financiamento em relação a obras de construção de estabelecimentos de equipamento social de iniciativa de IPSS, verificadas que sejam as seguintes situações:
+1 - O financiamento das obras fica dependente da adjudicação das mesmas por concurso público, concurso limitado, concurso por negociação ou ajuste directo, nos termos do regime jurídico das empreitadas de obras públicas.
 
-a) A adjudicação não ter sido precedida de concurso público, salvo, a título excepcional, os casos de administração directa confiada a entidades tecnicamente idóneas;
+2 - O recurso ao ajuste directo deverá ser precedido de consulta a, pelo menos, três entidades.
 
-b) A adjudicação recair sobre entidade a que qualquer dirigente da instituição esteja ligado por laços familiares ou nela detenha interesses.
+3 - As obras poderão ser realizadas, a título excepcional, por administração directa se por esta forma forem significativamente reduzidos os respectivos custos, sem prejuízo das condições técnicas exigíveis e desde que supervisionadas por entidade tecnicamente idónea.
+
+4 - A adjudicação das obras nos termos dos n.os 2 e 3 será devidamente fundamentada pelo órgão competente da instituição e carece de parecer favorável do centro regional de segurança social.
+
+5 - As obras não poderão, em qualquer caso, ser adjudicadas a entidade a que qualquer dirigente da instituição esteja ligado por laços familiares ou nela detenha interesses.
+
+> Alterado pelo/a [Portaria n.º 328/96](https://diariodarepublica.pt/dr/detalhe/portaria/328-1996-407753), publicado em 1996-08-02.
 
 3.º
 

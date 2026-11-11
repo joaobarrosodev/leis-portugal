@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-09-30'
+version_history:
+  file: portaria-493-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-09-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-09-30'
+    amending: pt:dre:516524:por
+    amending_title: Declaração de Rectificação n.º 14-L/96
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/493/1996/09/16/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:30:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 14-L/96.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-493-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,7 +161,9 @@ de 16 de Setembro
 
 Sob proposta da Escola Superior de Hotelaria e Turismo do Estoril;
 
-Ao abrigo do disposto no [Decreto-Lei n.º 374/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1991-287978), de 8 de Outubro, conjugado com a [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro, [Decreto-Lei n.º 260/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1985-183425), de 30 de Setembro, e ainda com o capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:
+Ao abrigo do disposto no [Decreto-Lei n.º 374/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1991-287978), de 8 de Outubro, conjugado com a [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro, [Decreto-Lei n.º 260/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1995-575733), de 30 de Setembro, e ainda com o capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:
+
+> Alterado pelo/a [Declaração de Rectificação n.º 14-L/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-l-1996-516524), publicado em 1996-09-30.
 
 Manda o Governo, pelos Ministros da Economia e da Educação, o seguinte:
 

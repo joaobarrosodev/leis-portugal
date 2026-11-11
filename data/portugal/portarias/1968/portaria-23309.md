@@ -30,10 +30,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1970-06-26'
+version_history:
+  file: portaria-23309.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-04-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1970-06-26'
+    amending: pt:dre:140873:por
+    amending_title: Portaria n.º 310/70
+    changes:
+    - Altera Artigo unidades 15-15
+    - Altera Artigo unidades 17-17
+    - Altera Artigo unidades 21-21
+    - Altera Artigo unidades 22-22
+    - Altera Artigo unidades 35-36
+    - Altera Artigo unidades 38-38
 identifiers:
   celex: null
   eli: null
@@ -59,7 +78,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:44:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 310/70. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1968/portaria-23309.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,11 +144,15 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelos Ministros do Interior e das Comunicações, de acordo com o disposto nos artigos 2.º e 5.º do [Decreto n.º 47070](https://diariodarepublica.pt/dr/detalhe/decreto/47070-1966-475085), de 4 de Julho de 1966, o seguinte:
 
-1.º A fase inicial a que se refere o artigo 2.º do [Decreto n.º 47070](https://diariodarepublica.pt/dr/detalhe/decreto/47070-1966-475085), de 4 de Julho de 1966, terminará em 31 de Dezembro de 1968, começando em 1 de Janeiro de 1969 o período de transição a que se refere o mesmo artigo.
+1.º A fase inicial a que se refere o artigo 2.º do [Decreto n.º 47070](https://diariodarepublica.pt/dr/detalhe/decreto/47070-1966-475085), de 4 de Julho de 1966, terminará em 30 de Junho de 1971, começando em 1 de Julho de 1971 o período de transição a que se refere o mesmo artigo.
+
+> Alterado pelo/a [Portaria n.º 310/70](https://diariodarepublica.pt/dr/detalhe/portaria/310-1970-140873), publicado em 1970-06-26.
 
 2.º Em conformidade com o disposto no § único do artigo mencionado no número anterior, o termo do período de transição será determinado por portaria do Ministro das Comunicações.
 
-3.º Só poderão ser trocadas por carta de condução de ciclomotores as licenças que habilitem à condução de velocípedes com motor passadas até 31 de Dezembro de 1968.
+3.º Só poderão ser trocadas por cartas de condução de ciclomotores as licenças que habilitem à condução de velocípedes com motor passadas até 30 de Junho de 1971.
+
+> Alterado pelo/a [Portaria n.º 310/70](https://diariodarepublica.pt/dr/detalhe/portaria/310-1970-140873), publicado em 1970-06-26.
 
 4.º Para se proceder à troca referida no número anterior, os interessados deverão entregar na câmara municipal do concelho em que residam o impresso requerimento modelo n.º 1, publicado em anexo, devidamente preenchido, o qual deverá ser acompanhado da licença de condução que pretendem trocar e de duas fotografias actualizadas, de 35 mm x 45 mm.
 
@@ -136,9 +160,13 @@ a) No acto da entrega ser-lhes-á passado um recibo, destacável do impresso ref
 
 b) Se for requerida a troca de mais de uma licença de condução para o mesmo indivíduo, este será punido com a multa de 500$00 não lhe sendo concedida a troca. No caso de esta já se ter verificado, àquela sanção acrescerá a apreensão e cancelamento das cartas obtidas por troca.
 
-c) A troca de licença de condução deverá ser requerida desde 1 de Janeiro até 31 de Dezembro de 1969 e em conformidade com o disposto no número 10.º desta portaria.
+c) A troca de licença de condução deverá ser requerida desde 1 de Julho de 1971 a 30 de Junho de 1972 e em conformidade com o disposto no n.º 10.º desta portaria.
 
-5.º Durante o período referido na alínea c) do número anterior e também em conformidade com o disposto no número 10.º desta portaria, deverá ser requerida a matrícula como ciclomotor dos veículos que até 31 de Dezembro de 1968 estejam matriculados como velocípedes com motor e que, nos termos do n.º 3 do artigo 38.º do Código da Estrada, possuam características de ciclomotores.
+> Alterado pelo/a [Portaria n.º 310/70](https://diariodarepublica.pt/dr/detalhe/portaria/310-1970-140873), publicado em 1970-06-26.
+
+5.º Durante o período referido na alínea c) do número anterior e também em conformidade com o disposto no n.º 10.º desta portaria deverá ser requerida a matrícula como ciclomotor dos veículos que em 30 de Junho de 1971 estejam matriculados como velocípedes com motor e que, nos termos de n.º 3 do artigo 38.º do Código da Estrada, possuam características de ciclomotores:
+
+> Alterado pelo/a [Portaria n.º 310/70](https://diariodarepublica.pt/dr/detalhe/portaria/310-1970-140873), publicado em 1970-06-26.
 
 a) Para se proceder a essa matrícula, os interessados deverão entregar na câmara municipal do concelho em que residam o impresso requerimento modelo n.º 2, publicado em anexo, devidamente preenchido, o qual deverá ser acompanhado do livrete do veículo que pretendem matricular.
 
@@ -164,13 +192,17 @@ Nos casos em que a entrega dos impressos seja feita numa câmara municipal que n
 
 A taxa a cobrar pela matrícula de ciclomotores, anteriormente registados como velocípedes com motor, será de 100$00, paga igualmente no momento da entrega do respectivo requerimento.
 
-10.º Ouvidas as câmaras municipais, o director-geral de Transportes Terrestres poderá determinar uma ordem de entrega dos requerimentos referidos nos n.os 4.º e 5.º, ordem cuja inobservância implicará a cobrança de um adicional de 50$00 sobre as taxas referidas no n.º 9.º, por cada mês ou fracção em atraso, não podendo, em qualquer caso, ser ultrapassada a data de 31 de Dezembro de 1969.
+10.º Ouvidas as câmaras municipais, o director-geral de Transportes Terrestres poderá determinar uma ordem de entrega dos requerimentos referidos nos n.os 4.º e 5.º, ordem cuja inobservância implicará a cobrança de um adicional de 50$00 sobre as taxas referidas no n.º 9.º por cada mês ou fracção em atraso, não podendo, em qualquer caso, ser ultrapassada a data de 30 de Junho de 1972.
 
-O escalonamento referido neste número será tornado público pelas câmaras municipais, pela forma prescrita no artigo 53.º do Código Administrativo.
+O escalonamento referido neste número será tornado público pelas câmaras municipais pela forma prescrita no artigo 53.º do Código Administrativo.
+
+> Alterado pelo/a [Portaria n.º 310/70](https://diariodarepublica.pt/dr/detalhe/portaria/310-1970-140873), publicado em 1970-06-26.
 
 11.º Em caso de extravio ou mau estado de conservação dos recibos a que se referem a alínea a) do n.º 4.º e alínea a) do n.º 5.º, os interessados poderão requerer à direcção de viação competente um duplicado ou a substituição do documento em causa, fazendo acompanhar o requerimento de 50$00 ou 20$00 em selos fiscais, conforme o caso.
 
-12.º A partir de 1 de Janeiro de 1970 os veículos matriculados como velocípedes com motor até 31 de Dezembro de 1968, que tenham características de ciclomotores e que sejam encontrados a circular sem estarem já matriculados como tais ou que não se prove já ter sido requerida essa matrícula, serão apreendidos, nos termos do disposto nos n.os 1 e 5 do artigo 43.º do Código da Estrada.
+12.º A partir de 1 de Julho de 1972 serão apreendidos, nos termos do disposto nos n.os 1 e 5 do artigo 43.º do Código da Estrada, os veículos com características de ciclomotores que sejam encontrados a circular sem estarem matriculados como tais, salvo se, tendo sido matriculados como velocípedes com motor até 30 de Junho de 1971, se provar ter sido já requerida a sua matrícula como ciclomotor.
+
+> Alterado pelo/a [Portaria n.º 310/70](https://diariodarepublica.pt/dr/detalhe/portaria/310-1970-140873), publicado em 1970-06-26.
 
 13.º O pagamento das taxas referidas nos n.os 9.º e 10.º desta portaria será feito nos termos seguintes:
 

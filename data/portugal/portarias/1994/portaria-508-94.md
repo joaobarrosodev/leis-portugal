@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-10-28'
+version_history:
+  file: portaria-508-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-10-28'
+    amending: pt:dre:673605:por
+    amending_title: Portaria n.º 1078/97
+    changes:
+    - Altera Artigo unidades 9-9
+    - Adita Artigo depois da unidade 9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/508/1994/07/07/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:29:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1078/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-508-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -168,7 +184,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Arrouquelas, município de Rio Maior, com uma área de 713,1030 ha, e na freguesia de Alcoentre, município da Azambuja, com uma área de 847,9930 ha, perfazendo uma área de 1475,4710 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Arrouquelas e Alcoentre, municípios de Rio Maior e Azambuja, com a área de 1338,5153 ha.
+
+> Alterado pelo/a [Portaria n.º 1078/97](https://diariodarepublica.pt/dr/detalhe/portaria/1078-1997-673605), publicado em 1997-10-27.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 1078/97](https://diariodarepublica.pt/dr/detalhe/portaria/1078-1997-673605), publicado em 1997-10-27.
 
 2.º Pelo presente diploma é concessionada, até 15 de Julho de 2000, à Associação Desportiva de Caçadores de Quebradas (registo no Instituto Florestal n.º 3.1104.92), com sede em Quebradas, Azambuja, a zona de caça associativa de Quebradas (processo n.º 1031 do Instituto Florestal).
 

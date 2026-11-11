@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-12-13'
+version_history:
+  file: portaria-234-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-03-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-12-13'
+    amending: pt:dre:324734:por
+    amending_title: Portaria n.º 736/78
+    changes:
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:22:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 736/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1974/portaria-234-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,7 +158,9 @@ Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Segu
 
 4 - Os industriais barbeiros e cabeleireiros admitidos no regime dos fundos de previdência das Casas do Povo ficam obrigados à inscrição nas caixas sindicais de previdência quando deixem de estar abrangidos por aquele regime.
 
-5 - Devem os industriais barbeiros e cabeleireiros apresentar aquando da inscrição nas caixas sindicais de previdência documento comprovativo do efectivo exercício da actividade profissional, o qual deverá ser passado pelo grémio competente.
+5 - Devem os industriais barbeiros e cabeleireiros apresentar, quando da inscrição nas caixas sindicais de previdência, documento comprovativo do efectivo exercício de actividade profissional passado pela associação de classe respectiva, ou documento comprovativo da tributação industrial, ou ainda o título de tributação referente à actividade abrangida pela presente portaria.
+
+> Alterado pelo/a [Portaria n.º 736/78](https://diariodarepublica.pt/dr/detalhe/portaria/736-1978-324734), publicado em 1978-12-13.
 
 6 - As massagistas de estética, manicuras, pedicuros, calistas, esteticistas e posticeiros que trabalhem por conta própria e exerçam a sua actividade em estabelecimento próprio ou no dos industriais barbeiros e cabeleireiros ficam obrigados à inscrição nas caixas sindicais de previdência.
 

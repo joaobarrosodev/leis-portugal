@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-02-02'
+version_history:
+  file: portaria-479-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-09-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-02-02'
+    amending: pt:dre:308311:por
+    amending_title: Portaria n.º 122/83
+    changes:
+    - Altera Artigo unidades 65-66
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:34:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 122/83. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-479-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -230,9 +245,17 @@ c) Terem os produtores prestado falsas declarações.
 
 32. Os resultados do ensaio preliminar serão comunicados à Comissão Reguladora do Comércio de Arroz e ao produtor tanto nos casos de aprovação como de reprovação.
 
-33. Os lotes a aprovar no ensaio a que se refere o número anterior devem satisfazer as características seguintes:
+33 - Os lotes a aprovar no ensaio a que se refere o número anterior devem satisfazer as características seguintes:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/20700/12601262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/02700/03270328.pdf)
+
+a) Por impurezas entende-se matéria inerte, grãos partidos ou descascados e sementes de outras espécies.
+
+b) As sementes de outras espécies não podem ultrapassar o limite máximo de 0,1%.
+
+c) Quando o cereal apresentar um teor de impurezas entre 6% e 15%, descontar-se-á, no peso, a percentagem que exceder os 6%.
+
+> Alterado pelo/a [Portaria n.º 122/83](https://diariodarepublica.pt/dr/detalhe/portaria/122-1983-308311), publicado em 1983-02-02.
 
 34. Sempre que se verifique reprovação ao ensaio preliminar, assiste ao produtor o direito de solicitar novo ensaio.
 

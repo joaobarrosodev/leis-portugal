@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-05-13'
+version_history:
+  file: decreto-47739.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-05-13'
+    amending: pt:dre:644532:por
+    amending_title: Decreto-Lei n.º 202/71
+    changes:
+    - Altera Artigo unidades 33-33
+    - Altera Artigo unidades 36-36
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:57:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 202/71. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1967/decreto-47739.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -167,13 +183,17 @@ Art. 9.º Para efeitos de compra de algodão-caroço nos mercados e fixação da
 
 Art. 10.º No prazo de 30 dias a contar da publicação da portaria a que alude o artigo 6.º deste Regulamento, os comerciantes de algodão inscritos devem apresentar ao instituto do algodão proposta, em carta lacrada, indicando quais os mercados a que desejam concorrer, bem como os preços que se propõem pagar por unidade de peso de cada qualidade de algodão-caroço. As propostas serão abertas em acto público no trigésimo dia, na sede do instituto.
 
-§ 1.º Havendo nos mesmos mercados mais de um comerciante interessado na compra do algodão-caroço, será dada preferência àquele cujo preço médio, com base em 90 por cento de algodão de 1.ª e 10 por cento de algodão de 2.ª, for mais elevado.
+§ 1.º Havendo nos mesmos mercados mais de um comerciante interessado na compra do algodão-caroço, será dada preferência àquele cujo preço médio ponderado para as diferentes qualidades de algodão-caroço, estabelecidas nos termos do artigo 3.º do presente diploma, for mais elevado.
+
+> Alterado pelo/a [Decreto-Lei n.º 202/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1971-644532), publicado em 1971-05-13.
 
 § 2.º Não havendo diferença no preço inicialmente oferecido pelos comerciantes compradores do algodão, serão estes convidados a apresentar, no prazo máximo de quinze dias, novas propostas, dirigidas ao director do instituto do algodão, com os novos preços que se propõem pagar.
 
 Se continuar a não haver diferença de preço nesta segunda proposta, o governador da província, ouvido o instituto do algodão, decidirá como for mais conveniente.
 
-§ 3.º Os preços oferecidos pelo algodão-caroço de 2.ª não poderão exceder 90 por cento do preço oferecido pelo algodão-caroço de 1.ª
+§ 3.º Os preços oferecidos pelo algodão-caroço de cada uma das qualidades não poderá exceder 90 por cento do preço oferecido pelo algodão-caroço da qualidade imediatamente superior.
+
+> Alterado pelo/a [Decreto-Lei n.º 202/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1971-644532), publicado em 1971-05-13.
 
 Art. 11.º Das propostas de compra do algodão-caroço nos mercados deverá constar:
 

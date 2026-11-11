@@ -38,10 +38,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-06-28'
+version_history:
+  file: resolucao-conselho-ministros-33-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-04-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-06-28'
+    amending: pt:dre:156008:por
+    amending_title: Resolução do Conselho de Ministros n.º 109/97; Resolução do Conselho de Ministros n.º 59/99
+    changes:
+    - Altera Artigo unidades 15-16
+    - Altera Artigo unidades 17-18
+    - Altera Artigo unidades 55-55
+    - Altera Artigo unidades 57-57
+    - Adita Artigo depois da unidade 107
+    - Altera Artigo unidades 121-121
+    - Altera Artigo unidades 180-180
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/33/1996/04/03/p/dre/pt/html
@@ -67,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:36:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 109/97; Resolução do Conselho de Ministros n.º 59/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1996/resolucao-conselho-ministros-33-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -161,13 +182,17 @@ As candidaturas ao Programa de Apoio à Modernização do Comércio, adiante des
 
 Processo de decisão
 
-1 - Para efeitos da execução do disposto no n.º 7 do artigo 29.º do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, a comissão de avaliação reúne, rem regra, trimestralmente.
+1 - Para efeitos da execução do disposto no n.º 8 do artigo 29.º do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, a comissão de avaliação reúne, em regra, trimestralmente.
 
-2 - Em cada reunião da comissão de avaliação só serão apreciados e objecto de parecer os processos de candidatura que, após instrução técnica pelas entidades referidas no n.º 2 do artigo 30.º do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, quando aplicável, tenham dado entrada na Direcção-Geral do Comércio até 30 dias úteis antes da data da sua realização.
+2 - Em cada reunião da comissão de avaliação só serão apreciados e objecto de parecer os processos de candidatura que, após instrução técnica pelas instituições de crédito ou estruturas associativas referidas nos n.os 2 e 4 do artigo 30.º do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, quando aplicáveis, tenham dado entrada no Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI), no que se refere aos projectos do subcapítulo I, e na Direcção-Geral do Comércio e da Concorrência, no que se refere aos projectos dos subcapítulos II e IV, até 30 dias úteis antes da data da sua realização.
 
-3 - Conjuntamente com o seu parecer, a comissão de avaliação elabora, em cada reunião, e submete aos órgãos de gestão do Programa de Apoio ao Comércio e Serviços, para efeitos do disposto no n.º 1 do artigo 29.º do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, uma lista hierarquizada dos processos de candidatura em função dos respectivos indicadores de relevância comercial, determinados em conformidade com os n.os 9.º e 20.º do presente Regulamento.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 59/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-1999-389818), publicado em 1999-06-23.
 
-4 - Os órgãos de gestão do Programa de Apoio ao Comércio e Serviços atribuirão prioridade, para aprovação ministerial, aos processos de candidatura que tenham relevância comercial mais elevada até ao esgotamento das disponibilidades orçamentais previamente definidas para cada trimestre por despacho do Ministro da Economia.
+3 - Conjuntamente com o seu parecer, a comissão de avaliação elabora em cada reunião, e submete aos órgãos de gestão da Intervenção Operacional Comércio e Serviços, para efeitos do disposto no n.º 1 do artigo 29.º do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, uma lista hierarquizada dos processos de candidatura em função dos respectivos indicadores de relevância comercial, determinados em conformidade com os n.os 9.º e 20.º do presente Regulamento.
+
+4 - Os órgãos de gestão da Intervenção Operacional Comércio e Serviços atribuirão prioridade, para aprovação ministerial, aos processos de candidatura que tenham relevância comercial mais elevada, até ao esgotamento das disponibilidades orçamentais previamente definidas para cada trimestre por despacho do Ministro da Economia.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 109/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/109-1997-156008), publicado em 1997-07-04.
 
 5 - O despacho ministerial referido no número precedente individualizará os montantes orçamentais adstritos às secções I e II do subcapítulo I e aos subcapítulos II e III do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho.
 
@@ -241,11 +266,15 @@ Projectos de dinamização integrados e de cooperação empresarial
 
 5.º
 
-Valor de facturação
+Valor da facturação
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 109/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/109-1997-156008), publicado em 1997-07-04.
 
 1 - Para efeitos do disposto no n.º 1 do artigo 4.º e no n.º 1 do artigo 15.º do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, considera-se que a facturação anual global do último exercício aprovado, das empresas individualmente consideradas, ou do grupo empresarial a que estão associadas, não pode ser superior a 10 milhões de contos.
 
-2 - Para efeitos do número anterior, considera-se que as empresas se encontram associadas a um grupo empresarial sempre que participem, directa ou indirectamente, no capital social de outras, ou sejam por outras participadas, directa ou indirectamente.
+2 - Para efeitos do número anterior, considera-se que as empresas se encontram associadas a um grupo empresarial sempre que sejam participadas por outras empresas em qualquer percentagem do seu capital ou quando participem no capital de outras numa percentagem superior a 10%.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 109/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/109-1997-156008), publicado em 1997-07-04.
 
 3 - O volume de facturação referido no n.º 1 pode ser objecto de correcção, em 31 de Dezembro de cada ano, por portaria conjunta dos Ministros do Equipamento, do Planeamento e da Administração do Território e da Economia.
 
@@ -347,6 +376,16 @@ b) A duração do financiamento não pode ser superior a quatro anos;
 
 c) O período de carência não pode ter duração superior a dois anos.
 
+7 - Logo após a conclusão dos projectos, verificada através do relatório final de vistoria, será transferido para as intituições de crédito, com a sua concordância, tendo em vista o posterior pagamento ao promotor, o valor correspondente ao pagamento da totalidade dos juros vincendos dos empréstimos bonificados.
+
+8 - No final do Programa, caso se verifique a existência de projectos não concluídos, o montante a transferir para as instituições de crédito relativo a juros vincendos, tendo em vista o seu posterior pagamento ao promotor, corresponderá ao grau de execução do projecto respectivo, procedendo-se, previamente, à realização das acções de fiscalização apropriadas.
+
+9 - Para os efeitos referidos nos n.os 7 e 8, o gestor deverá promover a transferência de fundos do orçamento da Intervenção Operacional de Comércio e Serviços para o IAPMEI.
+
+10 - No caso referido no n.º 6, aplica-se igualmente o disposto nos n.os 7, 8 e 9.
+
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 59/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-1999-389818), publicado em 1999-06-23.
+
 13.º
 
 Bonificação de rendas de contratos de locação financeira
@@ -373,7 +412,9 @@ Subvenção financeira a fundo perdido
 
 1 - Para efeitos da alínea c) do n.º 1 do artigo 8.º e do artigo 19.º do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, a subvenção financeira a fundo perdido é calculada nas condições referidas nos números seguintes e com base no vencimento líquido correspondente ao escalão 1 (único titular, não casado) das categorias de técnico superior de 1.ª classe e de assessor da Administração Pública, consoante se trate de quadros médios (bacharéis ou equiparados) ou quadros superiores (licenciados), respectivamente.
 
-2 - A equiparação a bacharéis decorre da lei geral, podendo, no entanto, a Direcção-Geral do Comércio conceder, para efeitos do disposto no presente número, tratamento idêntico a técnicos de elevada especialização, devidamente certificada, particularmente no domínio de tecnologias avançadas, e que sejam indispensáveis à viabilização do projecto.
+2 - A equiparação a bacharéis decorre da lei geral, podendo, no entanto, o IAPMEI, no que se refere aos projectos do subcapítulo I, e a DGCC, no que se refere aos projectos do subcapítulo II, conceder, para efeitos do disposto no presente número, tratamento a técnicos de elevada especialização, devidamente certificada, particularmente no domínio de tecnologias avançadas, e que sejam indispensáveis à viabilização do projecto.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 109/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/109-1997-156008), publicado em 1997-07-04.
 
 3 - A subvenção financeira referida no n.º 1 é concedida durante um período de três anos, de forma degressiva, através de uma redução anual acumulada de 10%.
 
@@ -491,7 +532,11 @@ Os montantes referidos nos n.os 1 e 2 do n.º 7.º e no n.º 18.º do presente R
 
 Norma transitória
 
-As disposições deste Regulamento só são aplicáveis aos processos de candidatura que derem entrada na Direcção-Geral do Comércio a partir da data de entrada em vigor desta resolução.
+1 - As disposições deste Regulamento só são aplicáveis aos processos de candidatura que derem entrada na Direcção-Geral do Comércio a partir da data de entrada em vigor desta resolução.
+
+2 - O disposto no n.º 2 do n.º 5.º, assim como nos n.os 4, 7 e 8 do n.º 12.º, aplica-se também aos processos de candidatura ao PROCOM apresentados desde a sua entrada em vigor.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 109/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/109-1997-156008), publicado em 1997-07-04.
 
 29.º
 

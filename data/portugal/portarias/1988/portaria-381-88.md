@@ -40,10 +40,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-05-01'
+version_history:
+  file: portaria-381-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-06-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-05-01'
+    amending: pt:dre:625651:por
+    amending_title: Portaria n.º 311/89
+    changes:
+    - Altera Artigo unidades 75-75
+    - Altera Artigo unidades 87-94
+    - Altera Artigo unidades 104-107
 identifiers:
   celex: null
   eli: null
@@ -69,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:29:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 311/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-381-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -284,7 +301,9 @@ b) Verificará as condições de acesso a definir no mesmo regulamento;
 
 c) Proporá a atribuição dos apoios previstos no n.º 1 do n.º 6.º, no n.º 1 do n.º 7.º, no n.º 3 do n.º 8 e no n.º 9.º do presente diploma, tendo em conta o parecer, quando necessário, dos organismos discriminados no presente número;
 
-d) Apresentará, semestralmente, relatório de execução ao Ministro da Indústria e Energia, em cumprimento do artigo 14.º do [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto.
+d) Apresentará, semestralmente, relatórios de execução ao Ministério da Indústria e Energia e ao gestor do PEDIP, em cumprimento do artigo 14.º do [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto.
+
+> Alterado pelo/a [Portaria n.º 311/89](https://diariodarepublica.pt/dr/detalhe/portaria/311-1989-625651), publicado em 1989-04-26.
 
 2 - A Direcção-Geral da Indústria (DGI) deverá pronunciar-se, no âmbito das suas competências, sobre os aspectos referidos nas alíneas a), b) e c) do número anterior sempre que tal for solicitado pelo IAPMEI.
 
@@ -308,21 +327,17 @@ d) Apresentará, semestralmente, relatório de execução ao Ministro da Indúst
 
 11.º
 
-Comissão de análise
+Comissão de selecção
 
-1 - Será constituída uma comissão de análise dos projectos apresentados no âmbito desta reestruturação, cujo presidente, a nomear pelo Ministro da Indústria e Energia, tem voto de qualidade.
+1 - Será constituída uma comissão de selecção dos projectos apresentados no âmbito desta reestruturação presidida pelo gestor do PEDIP.
 
-2 - A comissão de análise integrará ainda os seguintes elementos:
+2 - A comissão de selecção integrará ainda, para além de um representante do IAPMEI, da DGI e do MESS, um representante de cada uma das restantes entidades referidas no n.º 10.º sempre que se trate de projectos do seu domínio de competência.
 
-Um representante do IAPMEI;
+3 - Compete à comissão de selecção emitir parecer sobre as comparticipações financeiras e medidas de âmbito sectorial propostas pela entidade responsável e submetê-las a despacho do MIE.
 
-Um representante do IT;
+4 - No caso de parecer desfavorável, os pareceres serão comunicados aos promotores, que, querendo, poderão apresentar alegações contrárias, que serão submetidas, no prazo de 30 dias, ao MIE, juntamente com o parecer da comissão.
 
-Um representante do MESS.
-
-3 - A comissão de análise poderá solicitar a assessoria dos representantes dos organismos a quem foi solicitado parecer no âmbito do projecto de reestruturação.
-
-4 - Compete à comissão de análise emitir parecer sobre as comparticipações financeiras e medidas de âmbito sectorial propostas pela entidade responsável pela reestruturação e submeter os projectos à homologação do Ministro da Indústria e Energia.
+> Alterado pelo/a [Portaria n.º 311/89](https://diariodarepublica.pt/dr/detalhe/portaria/311-1989-625651), publicado em 1989-04-26.
 
 12.º
 
@@ -342,13 +357,9 @@ b) DGRCT, ICEP e IGFSS - 30 dias.
 
 5 - Os prazos definidos nos n.os 2, 3 e 4 são contados a partir da data de recepção dos processos pelas respectivas entidades ou a partir da data da recepção dos esclarecimentos, quando solicitados.
 
-13.º
+13.º - (Revogado.)
 
-Recurso hierárquico
-
-1 - Da decisão final sobre os apoios definidos na alínea c) do n.º 1 do n.º 10.º cabe recurso para o Ministro da Indústria e Energia.
-
-2 - A interposição de recurso suspende a eficácia da decisão inicial.
+> Alterado pelo/a [Portaria n.º 311/89](https://diariodarepublica.pt/dr/detalhe/portaria/311-1989-625651), publicado em 1989-04-26.
 
 14.º
 

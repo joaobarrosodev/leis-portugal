@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:555415:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-04-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "062cc1ab77339173",
+    "eb453d088e6dd82a"
+   ]
+  },
+  {
+   "date": "2004-05-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:270438:por",
+     "title": "Portaria n.º 536/2004",
+     "published": "2004-05-20",
+     "dre_path": "/dr/detalhe/portaria/536-2004-270438"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 14-15"
+   ],
+   "fragments": [
+    "fb3c888be1f57cb1",
+    "eb453d088e6dd82a"
+   ]
+  }
+ ],
+ "fragments": {
+  "062cc1ab77339173": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Abril\n\nConsiderando que o [Decreto-Lei n.º 74/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1991-478447), de 9 de Fevereiro, no artigo 10.º, determina que os planos curriculares do ensino secundário recorrente sejam estabelecidos em função das características e necessidades dos destinatários, devendo os mesmos incluir componentes de carácter regional e de natureza artística e profissional;\n\nTendo em conta o disposto no Despacho n.º 273/ME/92, de 10 de Novembro, e no Despacho n.º 41/SEED/94, de 14 de Junho:\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 74/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1991-478447), de 9 de Fevereiro, e no n.º 8 do [Despacho Normativo n.º 193/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/193-1991-304765), de 5 de Setembro:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nSão criados na Escola Secundária de António Arroio os cursos de ensino recorrente a seguir indicados:\n\na) Curso geral de artes;\n\nb) Curso de arte e tecnologias da comunicação gráfica;\n\nc) Curso de arte e tecnologias da comunicação audiovisual;\n\nd) Curso tecnológico de design de equipamento.\n\n2.º\n\nOs cursos criados pela presente portaria são ministrados por unidades capitalizáveis, de acordo com os planos de estudo que constam dos mapas I, II, III e IV anexos ao presente diploma e que dele fazem parte integrante.\n\n3.º\n\nA conclusão com aproveitamento do curso referido na alínea a) do n.º 1.º da presente portaria confere um diploma de fim de estudos secundários para efeitos de acesso ao ensino superior, nos termos da legislação aplicável.\n\n4.º\n\nA conclusão com aproveitamento dos cursos referidos nas alíneas b), c) e d) do n.º 1.º confere um diploma de qualificação profissional de nível III equivalente ao ensino secundário.\n\n5.º\n\nOs cursos agora criados funcionam em regime de experiência pedagógica, devendo respeitar os princípios organizativos e pedagógicos previstos no Despacho n.º 273/ME/92, de 10 de Novembro, com as alterações introduzidas pelo Despacho n.º 41/SEED/94, de 14 de Junho.\n\nMinistério da Educação.\n\nAssinada em 14 de Março de 1996.\n\nO Ministro da Educação, Eduardo Carrega Marçal Grilo."
+  },
+  "eb453d088e6dd82a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I ao ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/085b00/07870788.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I ao ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/085b00/07870788.pdf)"
+  },
+  "fb3c888be1f57cb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2004-05-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 536/2004](https://diariodarepublica.pt/dr/detalhe/portaria/536-2004-270438), publicado em 2004-05-20."
+   ],
+   "markdown": "de 10 de Abril\n\nConsiderando que o [Decreto-Lei n.º 74/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1991-478447), de 9 de Fevereiro, no artigo 10.º, determina que os planos curriculares do ensino secundário recorrente sejam estabelecidos em função das características e necessidades dos destinatários, devendo os mesmos incluir componentes de carácter regional e de natureza artística e profissional;\n\nTendo em conta o disposto no Despacho n.º 273/ME/92, de 10 de Novembro, e no Despacho n.º 41/SEED/94, de 14 de Junho:\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 74/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1991-478447), de 9 de Fevereiro, e no n.º 8 do [Despacho Normativo n.º 193/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/193-1991-304765), de 5 de Setembro:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nSão criados na Escola Secundária de António Arroio os cursos de ensino recorrente a seguir indicados:\n\na) Curso geral de artes;\n\nb) Curso de arte e tecnologias da comunicação gráfica;\n\nc) Curso de arte e tecnologias da comunicação audiovisual;\n\nd) Curso tecnológico de design de equipamento.\n\n2.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 536/2004](https://diariodarepublica.pt/dr/detalhe/portaria/536-2004-270438), publicado em 2004-05-20.\n\n3.º\n\nA conclusão com aproveitamento do curso referido na alínea a) do n.º 1.º da presente portaria confere um diploma de fim de estudos secundários para efeitos de acesso ao ensino superior, nos termos da legislação aplicável.\n\n4.º\n\nA conclusão com aproveitamento dos cursos referidos nas alíneas b), c) e d) do n.º 1.º confere um diploma de qualificação profissional de nível III equivalente ao ensino secundário.\n\n5.º\n\nOs cursos agora criados funcionam em regime de experiência pedagógica, devendo respeitar os princípios organizativos e pedagógicos previstos no Despacho n.º 273/ME/92, de 10 de Novembro, com as alterações introduzidas pelo Despacho n.º 41/SEED/94, de 14 de Junho.\n\nMinistério da Educação.\n\nAssinada em 14 de Março de 1996.\n\nO Ministro da Educação, Eduardo Carrega Marçal Grilo."
+  }
+ }
+}

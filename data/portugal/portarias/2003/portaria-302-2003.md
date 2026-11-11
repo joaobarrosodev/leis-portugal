@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-04-09'
+version_history:
+  file: portaria-302-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-04-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-04-09'
+    amending: pt:dre:218759:por
+    amending_title: Portaria n.º 365/2004
+    changes:
+    - Altera Artigo unidades 58-58
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/302/2003/04/12/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:48:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 365/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-302-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -255,7 +270,9 @@ Manda o Governo, pelos Ministros da Educação e da Ciência e do Ensino Superio
 
 4.3 - A classificação final de cada unidade, calculada de acordo com o estabelecido, para as diferentes disciplinas, no anexo I a que se refere o n.º 6.1 do [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), de 22 de Julho, é sempre arredondada às unidades; sempre que seja utilizado mais de um instrumento de avaliação, a classificação final de cada unidade resulta da média aritmética das classificações obtidas, não podendo estas ser objecto de qualquer arredondamento.
 
-4.4 - As provas de avaliação em regime não presencial são provas de avaliação sumativa das disciplinas frequentadas nesse regime e realizam-se em quatro momentos - Janeiro, Abril, Julho e Setembro - em data a fixar pela escola; as provas a realizar em Setembro destinam-se, exclusivamente, à capitalização de unidades para conclusão de curso dos alunos que frequentaram esta modalidade de ensino no ano lectivo anterior e pretendam candidatar-se à segunda fase do concurso de acesso ao ensino superior.
+4.4 - As provas de avaliação em regime não presencial são provas de avaliação sumativa das disciplinas frequentadas nesse regime e realizam-se em três momentos - Janeiro, Abril e Julho - em data a fixar pela escola, sendo que, em cada momento, só é permitida a realização de uma prova de avaliação por disciplina.
+
+> Alterado pelo/a [Portaria n.º 365/2004](https://diariodarepublica.pt/dr/detalhe/portaria/365-2004-218759), publicado em 2004-04-08.
 
 5 - O disposto na presente portaria aplica-se aos regimes de experiência pedagógica, por blocos de aprendizagem, em vigor no ensino particular e cooperativo, derrogando os respectivos regulamentos, mesmo que homologados, quando estes disponham em sentido contrário, sendo apenas admitidas as adaptações estritamente decorrentes da compatibilização entre blocos e unidades capitalizáveis.
 

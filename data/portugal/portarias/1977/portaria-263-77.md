@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-05-09'
+version_history:
+  file: portaria-263-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-05-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-05-09'
+    amending: pt:dre:243372:por
+    amending_title: Portaria n.º 1012-I/82; Portaria n.º 269/88
+    changes:
+    - Altera Artigo unidades 18-56
+    - Altera Artigo unidades 132-132
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:18:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1012-I/82; Portaria
+    n.º 269/88. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1977/portaria-263-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,83 +172,105 @@ Para sargentos milicianos: curso geral dos liceus ou equivalente;
 
 Para praças: 6.ª classe da instrução primária, podendo ser aceite a 4.ª classe no caso de indivíduos que, pela sua idade, tenham estado sujeitos apenas a este grau de escolaridade obrigatória.
 
-3. Compete ao Chefe do Estado-Maior definir as classes e especialidades para que podem ser admitidos voluntários. Em regra, são as seguintes:
+3 - Compete ao Chefe do Estado-Maior da Força Aérea definir as classes e especialidades para que podem ser admitidos voluntários. Em regra, são as seguintes:
 
 a) Oficiais milicianos:
 
-Pilotos;
+1) Pilotos (PIL);
 
-De intendência e contabilidade;
+2) Navegadores (NAV);
 
-Navegadores;
+3) De intendência e contabilidade (IC);
 
-Técnicos de mecanografia e estatística;
+4) Técnicos de:
 
-Técnicos de abastecimento;
+Mecanografia e estatística (TMEST);
 
-Do serviço geral;
+Operações de comunicações e criptografia (TOCC);
+
+Operações de meteorologia (TOMET);
+
+Operações de circulação aérea e radar de tráfego (TOCART);
+
+Operações de detecção e conduta da intercepção (TODCI);
+
+Manutenção de material aéreo (TMMA);
+
+Manutenção de material terrestre (TMMT);
+
+Manutenção de material electrotécnico (TMMEL);
+
+Manutenção de armamento e equipamento (TMAEQ);
+
+Abastecimento (TABST);
+
+Polícia aérea (PA);
+
+5) Serviço geral (SG);
 
 b) Sargentos milicianos:
 
-Pilotos;
-
-Especialistas operadores de comunicações;
-
-Especialistas operadores de meteorologia;
-
-Especialistas operadores de circulação aérea e radaristas de tráfego;
-
-Especialistas operadores radaristas de detecção;
-
-Especialistas mecânicos de material aéreo;
-
-Especialistas mecânicos de material terrestre;
-
-Especialistas mecânicos electricistas;
-
-Especialistas mecânicos de rádio;
-
-Especialistas mecânicos de radar;
-
-Especialistas mecânicos de armamento e equipamento;
-
-Especialistas de abastecimento;
-
-Enfermeiros;
-
-Do serviço geral;
+Admissão temporariamente suspensa para qualquer especialidade;
 
 c) Primeiros-cabos:
 
-Especialistas operadores de comunicações;
+1) Especialistas operadores:
 
-Especialistas operadores de meteorologia;
+De comunicações (OPCOM);
 
-Especialistas operadores radaristas de detecção;
+Meteorologistas (OPMET);
 
-Especialistas mecânicos de material aéreo;
+De circulação aérea e radaristas de tráfego (OPCART);
 
-Especialistas mecânicos de material terrestre;
+Radaristas de detecção (OPRDET);
 
-Especialistas mecânicos electricistas;
+De informática (OPINF);
 
-Especialistas mecânicos de rádio;
+2) Especialistas mecânicos de:
 
-Especialistas mecânicos de radar;
+Material aéreo (MMA);
 
-Especialistas mecânicos de armamento e equipamento;
+Material terrestre (MMT) - especialidade básica que abrange o ramo «mecânico de material terrestre/operador de sistemas de assistência e socorros (MMT/OPSAS)»;
 
-Especialistas de abastecimento;
+Electricidade (MELECT);
 
-Enfermeiros;
+Electrónica (MELECA);
 
-Do serviço geral;
+Electricidade e instrumentos de avião (MELIAV);
+
+Armamento e equipamento (MARME);
+
+3) Especialistas de abastecimento (EABST);
+
+4) Especialistas de polícia aérea (PA);
+
+5) Enfermeiros (ENF);
+
+6) Pessoal da banda de música e fanfarra:
+
+Músicos (MUS);
+
+Clarins (CLAR);
+
+7) Do serviço geral (SG), que abrange normalmente as seguintes especialidades:
+
+Amanuenses (AMA);
+
+Auxiliares de serviço religioso (ASR);
 
 d) Soldados:
 
-Músicos;
+Polícia aérea (PA);
 
-Do serviço geral.
+Do serviço geral (SG), abrangendo, normalmente:
+
+Telefonistas (TEL);
+
+Socorristas (SOC);
+
+Operadores de sistemas de assistência e socorros (OPSAS).
+
+> Alterado pelo/a [Portaria n.º 1012-I/82](https://diariodarepublica.pt/dr/detalhe/portaria/1012-i-1982-243372), publicado em 1982-10-29.
 
 4. A admissão de voluntários possuidores de grau universitário de interesse para a Força Aérea pode fazer-se com dispensa do limite superior de idade (21 anos) estabelecido para os restantes candidatos, segundo normas a estabelecer por cada caso.
 
@@ -384,7 +422,9 @@ b) Durante a preparação militar especial e técnica:
 
 15.º - 1. O pessoal em preparação que concluir com aproveitamento os diferentes cursos de formação tem ingresso na categoria de pessoal militar privativo não permanente da Força Aérea, nas especialidades a que se refere o [Decreto-Lei n.º 41492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41492-1957-251422), de 31 de Dezembro de 1957, com as antiguidades referidas às datas em que se efectuem as promoções, salvo o disposto em 6.º, 3.
 
-2. O tempo de serviço efectivo a prestar pelo pessoal militar não permanente privativo da Força Aérea e neste incorporado como voluntário é de quatro anos para pilotos e navegadores e de três anos para as restantes especialidades.
+2 - O tempo de serviço efectivo a prestar pelo pessoal militar não permanente privativo da Força Aérea e nesta incorporado como voluntário é de seis anos para pilotos, de quatro anos para navegadores e de três anos para as restantes especialidades.
+
+> Alterado pelo/a [Portaria n.º 269/88](https://diariodarepublica.pt/dr/detalhe/portaria/269-1988-373615), publicado em 1988-05-04.
 
 3. As condições em que os militares a que se refere o número anterior podem permanecer nas fileiras para além do período de serviço efectivo obrigatório e, bem assim, a forma como poderão vir a ingressar nos quadros permanentes constam de legislação especial.
 

@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-11-25'
+version_history:
+  file: despacho-normativo-16-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-03-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-11-25'
+    amending: pt:dre:595752:por
+    amending_title: Despacho Normativo n.º 9/2005; Despacho Normativo n.º 60/2008
+    changes:
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 13-15
+    - Altera Artigo unidades 18-22
+    - Altera Artigo unidades 30-80
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/16/2004/03/20/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:40:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 9/2005; Despacho
+    Normativo n.º 60/2008. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2004/despacho-normativo-16-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,27 +174,21 @@ c) Utilizem uma densidade mínima de sementeira de 150 kg/ha;
 
 d) Juntem ao pedido de ajudas Superfícies certificado que comprove o cumprimento das alíneas b) e c) deste número.
 
-2 - Não são elegíveis para efeitos do prémio específico mencionado no número anterior as parcelas declaradas com trigo-duro que tenham sido ocupadas com cereais praganosos na campanha anterior.
+2 - (Revogado.)
 
-3 - Para o prémio em 2004 e 2005, ao abrigo do disposto no artigo 12.º do Regulamento (CE) n.º [2237/2003](https://data.europa.eu/eli/reg/2003/2237/oj?locale=pt), da Comissão:
+> Alterado pelo/a [Despacho Normativo n.º 9/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2005-595752), publicado em 2005-02-11.
 
-a) É publicada em anexo ao presente despacho e dele faz parte integrante a lista das variedades elegíveis de trigo-duro;
+3 - Ao abrigo do disposto no n.º 1 do artigo 8.º do Regulamento (CE) n.º 1973/2004, da Comissão, de 29 de Outubro, é publicada em anexo ao presente despacho, e dele faz parte integrante, a lista das variedades elegíveis de trigo duro para o prémio específico à qualidade a atribuir em 2009.
 
-b) As variedades elegíveis constantes das listas publicadas ou a publicar pelos Estados membros produtores indicados no artigo 74.º do Regulamento (CE) n.º [1782/2003](https://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, serão incluídas na lista mencionada na alínea anterior.
+> Alterado pelo/a [Despacho Normativo n.º 60/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/60-2008-2963597), publicado em 2008-11-25.
 
 4 - O prémio às proteaginosas regulado no capítulo 2 do título IV do Regulamento (CE) n.º [1782/2003](https://data.europa.eu/eli/reg/2003/1782/oj?locale=pt) será concedido a pedido dos agricultores que, para além de cumprirem as condições aplicáveis constantes do artigo 4.º do Regulamento (CE) n.º [2237/2003](https://data.europa.eu/eli/reg/2003/2237/oj?locale=pt), tenham procedido à colheita após o estádio de maturação leitosa e declarem no pedido de ajudas Superfícies uma área mínima de 0,3 ha de culturas proteaginosas das espécies referidas no artigo 76.º do Regulamento (CE) n.º [1782/2003](https://data.europa.eu/eli/reg/2003/1782/oj?locale=pt).
 
 5 - O pagamento específico para o arroz regulado no capítulo 3 do título IV do Regulamento (CE) n.º [1782/2003](https://data.europa.eu/eli/reg/2003/1782/oj?locale=pt) será efectuado a pedido dos agricultores que, para além de cumprirem as condições aplicáveis constantes dos artigos 4.º, 15.º e 16.º do Regulamento (CE) n.º [2237/2003](https://data.europa.eu/eli/reg/2003/2237/oj?locale=pt) declarem no pedido de ajudas Superfícies uma área mínima de 0,3 ha, com indicação da variedade utilizada em cada parcela, que digam respeito a superfícies cultivadas com arroz, mantido pelo menos até ao início do período de floração, nos terrenos sistematizados especificamente para esta cultura, e nas quais tenha sido utilizado o alagamento como método exclusivo de irrigação e tenham sido efectuados os trabalhos normais de cultivo.
 
-6 - As parcelas com culturas realizadas sob coberto de árvores dispersas são elegíveis para o prémio à qualidade para o trigo-duro e para o prémio às proteaginosas referidos no presente despacho relativamente às seguintes áreas e nas condições a seguir indicadas:
+6 - Ao abrigo do disposto no n.º 1 do artigo 8.º do Regulamento (CE) n.º [796/2004](https://data.europa.eu/eli/reg/2004/796/oj?locale=pt), da Comissão, de 21 de Abril, é elegível, para efeitos do prémio à qualidade do trigo-duro e do prémio às proteaginosas, a totalidade da área das parcelas com culturas realizadas sob coberto de árvores dispersas de qualquer espécie arbórea ou em povoamentos mistos, desde que a sua densidade não ultrapasse 60 árvores por hectare.
 
-a) A totalidade da área da parcela no caso de cultura realizada sob coberto de sobreiros ou azinheiras, carvalhos, alfarrobeiras, castanheiros, oliveiras, amendoeiras, figueiras, outras espécies florestais, outras fruteiras ou povoamentos mistos com estas espécies, com uma densidade não superior a 20 árvores/ha;
-
-b) Uma área equivalente a dois terços da parcela no caso de cultura realizada sob coberto de sobreiros ou azinheiras, carvalhos, alfarrobeiras, castanheiros ou outras espécies florestais, com uma densidade compreendida entre 21 árvores/ha e 40 árvores/ha;
-
-c) Uma área equivalente a dois terços da parcela no caso de cultura realizada sob coberto de oliveiras, amendoeiras, figueiras ou outras fruteiras, com uma densidade compreendida entre 21 árvores/ha e 60 árvores/ha;
-
-d) Uma área equivalente a dois terços da parcela no caso de cultura realizada sob coberto de povoamentos mistos das espécies referidas nas alíneas b) e c), com uma densidade de povoamento compreendida entre 21 árvores/ha e 50 árvores/ha, em que as espécies referidas na alínea b) não ultrapassem 30 árvores/ha.
+> Alterado pelo/a [Despacho Normativo n.º 9/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2005-595752), publicado em 2005-02-11.
 
 7 - Nos casos devidamente justificados, pela ocorrência de circunstâncias climáticas excepcionais, o Gabinete de Planeamento e Política Agro-Alimentar (GPPAA) definirá, até 15 de Julho de cada ano, as regiões nas quais as superfícies semeadas permanecem elegíveis para as ajudas específicas respectivas, mesmo que as culturas não atinjam:
 
@@ -192,104 +204,44 @@ Ministério da Agricultura, Desenvolvimento Rural e Pescas, 13 de Fevereiro de 2
 
 ## ANEXO — (a que se refere o n.º 3)
 
-Lista de variedades elegíveis ao prémio específico à qualidade do trigo-duro
-
-Agridur.
-
-Aldura.
-
-Altar Aos.
-
-Almocreve.
-
-Amílcar.
-
-Aracena.
-
-Arcobaleno.
+Lista de variedades elegíveis ao prémio específico à qualidade do trigo duro
 
 Ariesol.
 
-Attila.
+Avispa.
 
-Bejadur.
+Baliduro.
 
-Beleño.
-
-Bolido.
-
-Bolo.
-
-Bonzo.
-
-Camacho.
-
-Canyon.
-
-Cannizo.
-
-Castiço.
+Carioca.
 
 Celta.
 
-Ciccio.
-
-Claudio.
+Cimbel.
 
 Colosseo.
 
-Debano.
+Concadoro.
+
+Donduro.
 
 Duilio.
 
-Durbel.
-
-Epidur.
-
-Excalibur.
-
-Fabio.
-
-Gallareta.
-
-Gianni.
-
 Hélvio.
 
-Ibérico.
-
-Iride.
+Imhotep.
 
 Italo.
 
-Jabato.
+Khandur.
 
 Marialva.
 
-Mellaria.
-
-Meridiano.
-
-Pastor.
-
-Platani.
-
 Preco.
 
-Radioso.
-
-Rubio.
+Silur.
 
 Simeto.
 
-Sula.
+Vítrico.
 
-Trovador.
-
-Tresor.
-
-Vitromax.
-
-Vitron.
-
-Yavaros.
+> Alterado pelo/a [Despacho Normativo n.º 60/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/60-2008-2963597), publicado em 2008-11-25.

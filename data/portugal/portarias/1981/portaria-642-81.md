@@ -40,10 +40,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-11-21'
+version_history:
+  file: portaria-642-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-07-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-11-21'
+    amending: pt:dre:177850:por
+    amending_title: Portaria n.º 811/85; Portaria n.º 995/89
+    changes:
+    - Altera Artigo unidades 26-27
+    - Altera Artigo unidades 36-36
+    - Altera Artigo unidades 37-39
+    - Altera Artigo unidades 42-42
 identifiers:
   celex: null
   eli: null
@@ -69,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:51:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 811/85; Portaria n.º
+    995/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-642-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -204,9 +222,9 @@ d) Sortido - peixes até 0,5 kg e peixes partidos, amputados ou com ligeiros def
 
 4.º - 1 - O bacalhau salgado seco e as espécies afins só podem ser vendidos pelos produtores, pela Comissão Reguladora do Comércio de Bacalhau e pelos armazenistas, quando devidamente embalados, nos termos seguintes:
 
-a) Grupo I - Embalagens de peixes inteiros:
+a) Grupo I - Embalagens de peixes inteiros: Sacos de juta ou polipropileno, de 50 kg;
 
-Sacos de juta ou polipropileno de 60 kg;
+> Alterado pelo/a [Portaria n.º 811/85](https://diariodarepublica.pt/dr/detalhe/portaria/811-1985-177850), publicado em 1985-10-26.
 
 Caixas de cartão de 25 kg;
 
@@ -224,19 +242,21 @@ Postas provenientes de um único peixe ou meio peixe, que, uma vez juntas, permi
 
 5.º A Comissão Reguladora do Comércio de Bacalhau expedirá as instruções necessárias à execução do disposto nos números anteriores.
 
-6.º O bacalhau salgado seco e as espécies afins, nacionais ou importados, ficam sujeitos ao regime de margens de comercialização fixado e a que se refere a alínea e) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
+6.º - (Revogado.)
 
-7.º As margens máximas de comercialização do bacalhau salgado seco e espécies afins, nacionais ou importados, a que se refere o número anterior são as seguintes:
+> Alterado pelo/a [Portaria n.º 995/89](https://diariodarepublica.pt/dr/detalhe/portaria/995-1989-549812), publicado em 1989-11-16.
 
-a) No armazenista: margem de 8%, calculada sobre o preço de aquisição no armazém do produtor;
+7.º - (Revogado.)
 
-b) Retalhista: margem de 13%, calculada sobre o preço de aquisição à porta do retalhista.
+> Alterado pelo/a [Portaria n.º 995/89](https://diariodarepublica.pt/dr/detalhe/portaria/995-1989-549812), publicado em 1989-11-16.
 
 8.º - 1 - Para efeitos da presente portaria, considera-se a Comissão Reguladora do Comércio de Bacalhau equiparada ao produtor.
 
 2 - A margem do armazenista engloba as despesas de transporte e distribuição, bem como todos os demais encargos inerentes à respectiva comercialização.
 
-9.º Qualquer que seja o número de agentes intervenientes no circuito de comercialização, não é permitida a utilização de margens que, no seu conjunto, ultrapassem os limites fixados no n.º 7.º
+9.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 995/89](https://diariodarepublica.pt/dr/detalhe/portaria/995-1989-549812), publicado em 1989-11-16.
 
 10.º Os preços de venda ao público de todos os tipos comerciais de bacalhau salgado seco e espécies afins poderão ser agravados, sempre que os produtos sejam embalados, nos termos da alínea b) do n.º 1 do do n.º 4.º, com as despesas efectivamente realizadas com as operações de embalagem e corte até ao máximo de 5$00 para a operação de embalagem e 6$00 para a operação de corte, por quilograma.
 

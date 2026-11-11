@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-12-31'
+version_history:
+  file: despacho-normativo-50-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-04-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-12-31'
+    amending: pt:dre:238024:por
+    amending_title: Despacho Normativo n.º 259/92; Despacho Normativo n.º 259/92
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/50/1992/04/13/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:58:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 259/92; Despacho
+    Normativo n.º 259/92. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1992/despacho-normativo-50-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,7 +142,9 @@ Nestes termos, e para efeitos do n.º 2 do artigo 8.º do [Decreto-Lei n.º 75-A
 
 2 - Não ficam sujeitas aos critérios e metodologia de aplicação previstos no anexo as candidaturas que envolvam processos de cooperação e de concentração de empresas previstos nas alíneas c) e d) do artigo 4.º do [Decreto-Lei n.º 75-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-a-1991-537851), cujos processos se revestem de prioridade.
 
-3 - As candidaturas são reconhecidas como elegíveis quando o indicador de relevância global, definido naquele anexo, alcançar um valor igual ou superior a 50 pontos.
+3 - As candidaturas são reconhecidas como elegíveis quando o indicador de relevância global, definido naquele anexo, alcançar um valor igual ou superior a 65 pontos.
+
+> Alterado pelo/a [Despacho Normativo n.º 259/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/259-1992-238024), publicado em 1992-12-31.
 
 4 - O presente despacho entra em vigor a partir da data da sua publicação, sendo aplicável aos processos de candidatura em fase de instrução técnica, bem como aos processos em apreciação pela Direcção-Geral do Desenvolvimento Regional (DGDR) e pela Direcção-Geral do Comércio Interno (DGCI).
 

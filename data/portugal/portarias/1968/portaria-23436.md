@@ -28,10 +28,39 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-06-18'
+version_history:
+  file: portaria-23436.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-06-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-06-18'
+    amending: pt:dre:643289:por
+    amending_title: Portaria n.º 310/71
+    changes:
+    - Altera Artigo unidades 7-7
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 40-40
+    - Altera Artigo unidades 48-48
+    - Altera Artigo unidades 50-50
+    - Altera Artigo unidades 62-62
+    - Altera Artigo unidades 69-69
+    - Altera Artigo unidades 72-72
+    - Altera Artigo unidades 74-74
+    - Altera Artigo unidades 75-75
+    - Altera Artigo unidades 85-85
+    - Altera Artigo unidades 92-104
+    - Altera Artigo unidades 105-110
+    - Altera Artigo unidades 111-116
+    - Altera Artigo unidades 119-119
 identifiers:
   celex: null
   eli: null
@@ -57,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:46:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 310/71. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1968/portaria-23436.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,13 +157,17 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/06/14100/08860889.pdf)
 
-2.º Na classe da taifa, na categoria de praças, existem as seguintes subclasses e ramos:
+2.º Na classe da taifa, na categoria de praças, existem as seguintes subclasses:
+
+> Alterado pelo/a [Portaria n.º 310/71](https://diariodarepublica.pt/dr/detalhe/portaria/310-1971-643289), publicado em 1971-06-18.
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/06/14100/08860889.pdf)
 
-3.º As praças da subclasse dos despenseiros deixam automàticamente de pertencer aos ramos de copeiros ou de padeiros quando são promovidas ao posto de cabo da sua subclasse.
+> Alterado pelo/a [Portaria n.º 310/71](https://diariodarepublica.pt/dr/detalhe/portaria/310-1971-643289), publicado em 1971-06-18.
 
-4.º Os sargentos e praças da taifa são designados, quer pelo cargo que desempenham, quer pelo posto seguido da classe.
+4.º Os sargentos e praças da taifa são designados, quer pelo cargo que desempenham (cozinheiros, despenseiros, copeiros e padeiros), quer pelo posto seguido da classe e subclasse.
+
+> Alterado pelo/a [Portaria n.º 310/71](https://diariodarepublica.pt/dr/detalhe/portaria/310-1971-643289), publicado em 1971-06-18.
 
 5.º Além das funções inerentes aos seus postos, na sua qualidade de militares da Armada, competem aos sargentos e praças da taifa as seguintes funções:
 
@@ -193,7 +227,9 @@ c) Ao pessoal da subclasse dos despenseiros com o posto de cabo:
 
 9) Cooperar no serviço de limitação de avarias.
 
-d) Ao pessoal da subclasse dos despenseiros, ramo dos copeiros:
+d) Ao pessoal da subclasse dos despenseiros com o posto de marinheiro:
+
+> Alterado pelo/a [Portaria n.º 310/71](https://diariodarepublica.pt/dr/detalhe/portaria/310-1971-643289), publicado em 1971-06-18.
 
 1) Substituir os cabos despenseiros na sua falta;
 
@@ -209,11 +245,15 @@ d) Ao pessoal da subclasse dos despenseiros, ramo dos copeiros:
 
 7) Cooperar no serviço de limitação de avarias.
 
-e) Ao pessoal da subclasse dos despenseiros, ramo dos padeiros:
+e) Ao pessoal da subclasse dos padeiros:
+
+> Alterado pelo/a [Portaria n.º 310/71](https://diariodarepublica.pt/dr/detalhe/portaria/310-1971-643289), publicado em 1971-06-18.
 
 1) Fabricar o pão e desempenhar o serviço de pasteleiro;
 
-2) Coadjuvar os copeiros no desempenho das suas funções;
+2) Cooperar no serviço do rancho;
+
+> Alterado pelo/a [Portaria n.º 310/71](https://diariodarepublica.pt/dr/detalhe/portaria/310-1971-643289), publicado em 1971-06-18.
 
 3) Guardar e conservar o material em uso, ou distribuído para utilização, no respectivo serviço;
 
@@ -237,7 +277,9 @@ Os programas das provas dos concursos serão publicados na Ordem da Direcção d
 
 9.º Os indivíduos julgados inaptos e os que excedam o número a admitir revertem à vida civil, sujeitos às leis do serviço militar, quando forem civis, e às situações anteriores, quando forem militares.
 
-10.º A preparação a ministrar nos cursos de alistamento da classe da taifa é variável conforme a situação militar dos indivíduos a ela sujeitos e a subclasse e ramo em que forem incorporados.
+10.º A preparação a ministrar nos cursos de alistamento da classe da taifa é variável conforme a situação militar dos indivíduos a ela sujeitos e a subclasse em que forem incorporados.
+
+> Alterado pelo/a [Portaria n.º 310/71](https://diariodarepublica.pt/dr/detalhe/portaria/310-1971-643289), publicado em 1971-06-18.
 
 11.º Os cursos de alistamento e os cursos de aplicação do 2.º grau para a classe da taifa funcionam no Grupo n.º 1 de Escolas da Armada (Escola de Abastecimento) e como regra geral a duração do curso de alistamento não deve exceder dezoito meses, nem ser inferior a seis meses.
 
@@ -251,19 +293,27 @@ Estas praças mantêm, enquanto frequentam o curso de alistamento, o seu posto e
 
 15.º O ingresso na classe da taifa é feito no posto de marinheiro, após a conclusão do respectivo curso de alistamento.
 
-16.º A data do ingresso na classe é a do dia em que forem aprovadas, por despacho do director do Serviço do Pessoal, as classificações finais dos alunos que frequentam o respectivo curso de alistamento.
+16.º A data do ingresso na classe é a do dia em que forem aprovadas, por despacho do superintendente dos Serviços do Pessoal da Armada, as classificações finais dos alunos que frequentam o respectivo curso de alistamento.
+
+> Alterado pelo/a [Portaria n.º 310/71](https://diariodarepublica.pt/dr/detalhe/portaria/310-1971-643289), publicado em 1971-06-18.
 
 A ordem por que se realiza o ingresso corresponde à ordem decrescente das classificações finais dos alunos que frequentaram o mesmo curso de alistamento, a qual define a antiguidade relativa dos mesmos alunos na data do ingresso na classe.
 
 17.º As praças da Armada que, quando concluírem com aproveitamento o curso de alistamento e ingressem na classe da taifa, tenham ascendido na classe de origem a posto superior ao de marinheiro ficam graduados no posto da classe de origem e só perdem essa graduação quando atinjam esse posto na classe da taifa.
 
-18.º Constitui uma das condições especiais de promoção a cabo nas subclasses dos cozinheiros e dos despenseiros a aprovação num exame de feição essencialmente prática e versando sobre a matéria de carácter profissional.
+18.º Constitui uma das condições especiais de promoção a cabo nas subclasses dos cozinheiros, dos despenseiros e dos padeiros a promoção num exame de feição essencialmente prática e versando sobre a matéria de carácter profissional.
+
+> Alterado pelo/a [Portaria n.º 310/71](https://diariodarepublica.pt/dr/detalhe/portaria/310-1971-643289), publicado em 1971-06-18.
 
 Estes exames serão realizados nas condições referidas no artigo 144.º e seguintes do E. S. P. A.
 
-19.º Para habilitar os cabos das subclasses dos cozinheiros e dos despenseiros ao desempenho das funções de segundo-sargento da taifa existirá um curso de 2.º grau da taifa, que constitui uma das condições especiais de promoção ao posto de segundo-sargento desta classe.
+19.º Para habilitar os cabos das subclasses dos cozinheiros, dos despenseiros e dos padeiros ao desempenho das funções de segundo-sargento da taifa existirá um curso de 2.º grau da taifa, que constitui uma das condições especiais de promoção ao posto de segundo-sargento desta classe.
 
-20.º Os cursos de aplicação do 2.º grau da taifa serão frequentados pelas praças que tenham sido aprovadas num exame de admissão.
+> Alterado pelo/a [Portaria n.º 310/71](https://diariodarepublica.pt/dr/detalhe/portaria/310-1971-643289), publicado em 1971-06-18.
+
+20.º A admissão aos cursos de aplicação do 2.º grau da taifa será feita proporcionalmente aos efectivos de cada subclasse de entre as praças que prèviamente tenham sido aprovadas no exame de admissão.
+
+> Alterado pelo/a [Portaria n.º 310/71](https://diariodarepublica.pt/dr/detalhe/portaria/310-1971-643289), publicado em 1971-06-18.
 
 21.º A nomeação das praças que devem ser submetidas ao exame de admissão referido no número anterior compete à Direcção do Serviço do Pessoal e é feita por ordem decrescente de antiguidades, segundo o seguinte escalonamento:
 
@@ -283,7 +333,9 @@ a) A subtenente do serviço geral, por classificação em curso (curso geral de 
 
 b) A sargento-ajudante, por antiguidade;
 
-c) A primeiro-sargento, por escolha;
+c) A primeiro-sargento, por diuturnidade;
+
+> Alterado pelo/a [Portaria n.º 310/71](https://diariodarepublica.pt/dr/detalhe/portaria/310-1971-643289), publicado em 1971-06-18.
 
 d) A segundo-sargento, por classificação em curso (curso de 2.º grau da taifa);
 
@@ -297,61 +349,41 @@ Curso geral de sargentos.
 
 b) Para a promoção a sargento-ajudante:
 
-Três anos de serviço efectivo no posto de primeiro-sargento;
+Dezoito meses de serviço efectivo no posto de primeiro-sargento;
 
-Seis meses de embarque ou dezoito meses realizados em segundo-sargento e primeiro-sargento.
+Dezoito meses de embarque a fazer em segundo-sargento, em primeiro-sargento ou nos dois postos.
 
-c) Para a promoção a primeiro-sargento:
+c) Para a promoção a segundo-sargento:
 
-Quatro anos de serviço efectivo no posto de segundo-sargento;
+Um ano de serviço efectivo no posto de cabo;
 
-Um ano de embarque.
-
-d) Para a promoção a segundo-sargento:
-
-Dois anos de serviço efectivo no posto de cabo;
-
-Um ano de embarque;
+Seis meses de embarque;
 
 Curso do 2.º grau da taifa.
 
-e) Para a promoção a cabo:
+d) Para a promoção a cabo:
 
-Três anos de serviço efectivo no posto de marinheiro;
+Dezoito meses de serviço efectivo no posto de marinheiro;
 
-Um ano de embarque;
+Seis meses de embarque;
 
 Exame.
 
-26.º O pessoal das extintas classes de cozinheiros, de criados e de padeiros e os segundos-despenseiros são automàticamente transferidos para a classe da taifa, observando-se a seguinte correspondência:
+> Alterado pelo/a [Portaria n.º 310/71](https://diariodarepublica.pt/dr/detalhe/portaria/310-1971-643289), publicado em 1971-06-18.
 
-Segundos-despenseiros - cabos da taifa (subclasse dos despenseiros);
+26.º Os actuais 13 cabos despenseiros oriundos do ramo de padeiros, agora extinto, são transferidos para a subclasse dos padeiros com o mesmo posto e antiguidade, sendo-lhes contadas as condições especiais de promoção que já tenham efectuado na subclasse a que pertenciam.
 
-Primeiros-cozinheiros - cabos da taifa (subclasse dos cozinheiros);
+> Alterado pelo/a [Portaria n.º 310/71](https://diariodarepublica.pt/dr/detalhe/portaria/310-1971-643289), publicado em 1971-06-18.
 
-Segundos-cozinheiros - marinheiros da taifa (subclasse dos cozinheiros);
+27.º Os actuais marinheiros padeiros deixam de pertencer à subclasse dos despenseiros, ramo de padeiros, e são transferidos para a nova subclasse dos padeiros com o mesmo posto e antiguidade, sendo-lhes contadas as condições de promoção que já tenham efectuado na subclasse a que pertenciam.
 
-Primeiros-criados e segundos-criados - marinheiros da taifa (subclasse dos despenseiros, ramo dos copeiros);
-
-Padeiros - marinheiros da taifa (subclasse dos despenseiros, ramo dos padeiros).
-
-27.º As escalas das antiguidades das praças transferidas serão elaboradas pela 2.ª Repartição da Direcção do Pessoal, observando-se as seguintes regras:
-
-a) No posto de cabo, a antiguidade do pessoal transferido reporta-se à data de promoção no concurso para os segundos-despenseiros e primeiros-cozinheiros;
-
-b) No posto de marinheiro, a antiguidade será assim definida:
-
-1) Os segundos-cozinheiros e os padeiros transferidos para a classe da taifa terão a sua antiguidade referida à data de promoção nos respectivos concursos;
-
-2) Os primeiros e segundos-criados transferidos para a classe da taifa ficarão ordenados, entre si, pela antiguidade que tinham na extinta classe dos criados e, em relação ao pessoal referido em 1), terão a sua antiguidade referida à data de promoção no concurso para segundo-criado;
-
-3) Para o pessoal admitido ou promovido na mesma data, a antiguidade será definida pela classificação obtida no concurso, e, em caso de igualdade, será mais antigo o que tiver mais tempo de serviço na Armada; em igualdade deste, o que tiver mais idade.
+> Alterado pelo/a [Portaria n.º 310/71](https://diariodarepublica.pt/dr/detalhe/portaria/310-1971-643289), publicado em 1971-06-18.
 
 28.º O limite de idade dos sargentos e praças da classe da taifa, para efeitos do disposto no artigo 83.º do E. S. P. A., é de 56 anos de idade.
 
 29.º Aos sargentos e praças da classe da taifa são aplicáveis as disposições gerais a todas as classes que constam do E. S. P. A. e da legislação complementar.
 
-30.º Para os cabos e marinheiros da classe da taifa que tenham sido transferidos para esta classe nos termos fixados no artigo 26.º desta portaria, o tempo de serviço efectivo nas classes de origem nos postos em que foram transferidos é contado como tempo de serviço efectivo na nova classe.
+> Alterado pelo/a [Portaria n.º 310/71](https://diariodarepublica.pt/dr/detalhe/portaria/310-1971-643289), publicado em 1971-06-18.
 
 31.º Os casos omissos ou duvidosos da matéria que consta desta portaria serão resolvidos por despacho do Ministro da Marinha.
 

@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-07'
+version_history:
+  file: portaria-534-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-07'
+    amending: pt:dre:642888:por
+    amending_title: Portaria n.º 841/97
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/534/1994/07/08/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:30:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 841/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-534-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,7 +194,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Odeleite, município de Castro Marim, com uma área de 730 ha, e na freguesia e município de Alcoutim, com uma área de 203 ha, perfazendo uma área de 933 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Odeleite e Alcoutim, municípios de Castro Marim e Alcoutim, com a área de 812 ha.
+
+> Alterado pelo/a [Portaria n.º 841/97](https://diariodarepublica.pt/dr/detalhe/portaria/841-1997-642888), publicado em 1997-09-06.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 841/97](https://diariodarepublica.pt/dr/detalhe/portaria/841-1997-642888), publicado em 1997-09-06.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à Associação de Caçadores e Pescadores Amigos da Natureza (registo no Instituto Florestal n.º 5.779.90), com sede em Odeleite, Castro Marim, a zona de caça associativa da Telhada (processo n.º 1581 do Instituto Florestal).
 

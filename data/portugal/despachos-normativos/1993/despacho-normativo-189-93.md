@@ -38,10 +38,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-07-27'
+version_history:
+  file: despacho-normativo-189-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-08-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-07-27'
+    amending: pt:dre:354678:por
+    amending_title: Despacho Normativo n.º 36/99
+    changes:
+    - Altera Artigo unidades 18-20
+    - Altera Artigo unidades 74-74
+    - Altera Artigo unidades 77-77
+    - Altera Artigo unidades 82-83
+    - Altera Artigo unidades 89-90
+    - Altera Artigo unidades 92-93
+    - Altera Artigo unidades 103-104
+    - Altera Artigo unidades 107-116
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/189/1993/08/07/p/dre/pt/html
@@ -67,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:02:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 36/99. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1993/despacho-normativo-189-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -180,11 +202,13 @@ I - Princípios gerais
 
 3.3 - Os tempos lectivos previstos no plano curricular para cada disciplina ou área disciplinar constituem um espaço de formação, informação e orientação, permitindo a cada aluno adquirir os conhecimentos, as competências e a autonomia necessários ao desenvolvimento do seu itinerário individual de formação;
 
-3.4 - Aos tempos lectivos semanais previstos, para cada disciplina ou área disciplinar, será acrescida uma hora lectiva semanal, nos horários dos professores, exclusivamente para apoio aos alunos.
+3.4 - (Revogado.)
 
-3.4.1 - A hora lectiva semanal prevista no n.º 3.4 é igualmente marcada no horário semanal dos alunos, podendo, no entanto, funcionar em simultâneo o apoio a diferentes disciplinas e áreas disciplinares.
+3.4.1 - (Revogado.)
 
-3.4.2 - Estas sessões visam fundamentalmente apoiar a autoformação dos alunos, através do esclarecimento de dúvidas decorrentes da utilização dos guias de aprendizagem, da negociação de estratégias individuais de aprendizagem e avaliação e da indicação de materiais de consulta complementares ou alternativos.
+3.4.2 - (Revogado.)
+
+> Alterado pelo/a [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), publicado em 1999-07-22.
 
 4 - Os cursos funcionarão, de acordo com o calendário que for determinado para cada ano escolar, com a duração mínima de 40 semanas, cabendo ao órgão de gestão da escola determinar, de acordo com as condições existentes, os períodos de interrupção no Natal, Páscoa e férias de Verão.
 
@@ -292,13 +316,17 @@ a) Colaborar com os coordenadores pedagógicos nas diferentes tarefas, nomeadame
 
 b) Esclarecer os alunos, antes da leccionação de cada unidade, sobre os objectivos que deverão atingir e conhecimentos que deverão adquirir;
 
-c) Atender os alunos, individualmente ou em grupo, nas sessões previstas no n.º 3.4, para esclarecimento de dúvidas e desenvolvimento de actividades de diagnóstico e recuperação;
+c) (Revogada.)
+
+> Alterado pelo/a [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), publicado em 1999-07-22.
 
 d) Proceder ao registo, nos suportes existentes para o efeito, das classificações obtidas pelos alunos nos testes de avaliação e proceder ao preenchimento dos livros de termos;
 
 e) Registar, em cada sessão, a presença dos alunos e manter informados os coordenadores.
 
-14 - Para acompanhamento pedagógico aos alunos, através do reforço do apoio individualizado, cada escola poderá dispor de um crédito até ao limite de 7% de carga horária atribuída, em cada ano lectivo, ao 3.º ciclo do ensino básico recorrente, gerido de forma flexível ao longo do ano lectivo pelo órgão de gestão da escola, mediante proposta do coordenador.
+14 - (Revogado.)
+
+> Alterado pelo/a [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), publicado em 1999-07-22.
 
 15 - O órgão de gestão da escola e os serviços de administração escolar deverão garantir os apoios logísticos e administrativos necessários ao funcionamento do 3.º ciclo do ensino básico recorrente.
 
@@ -308,9 +336,11 @@ V - Organização administrativa
 
 16.1 - Façam prova de ter concluído, com aproveitamento, o 6.º ano de escolaridade ou outra habilitação equivalente;
 
-16.2 - Não possuindo a habilitação referida no número anterior, se submetam a uma avaliação diagnóstica globalizante, precedida de uma entrevista com um coordenador pedagógico, apoiado pelos Serviços de Psicologia e Orientação Escolar, para aquilatar do perfil, currículo e conhecimentos do candidato, cujos resultados permitam determinar se o aluno tem os pré-requisitos necessários à frequência deste ciclo de ensino;
+16.2 - (Revogado.)
 
-16.2.1 - A elaboração do(s) instrumento(s) de avaliação diagnóstica referida no n.º 16.2 será da responsabilidade do conjunto de professores que leccionam as diferentes disciplinas e áreas disciplinares com supervisão dos respectivos delegados de disciplina ou grupo disciplinar, de acordo com orientações gerais a definir;
+16.2.1 - (Revogado.)
+
+> Alterado pelo/a [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), publicado em 1999-07-22.
 
 16.3 - Em qualquer das situações referidas nos números anteriores os conhecimentos adquiridos, designadamente através da educação extra-escolar, podem ser reconhecidos e creditados como equivalentes a unidades de qualquer disciplina e área, em termos a definir.
 
@@ -322,15 +352,19 @@ V - Organização administrativa
 
 18 - O processo de matrícula e renovação de matrícula deve realizar-se durante o mês de Julho e obedecer aos seguintes procedimentos:
 
-18.1 - O coordenador do 3.º ciclo do ensino básico recorrente, em colaboração com os professores e os Serviços de Psicologia e Orientação Escolar, deve organizar um serviço de atendimento aos alunos que permita estabelecer, após entrevista, um itinerário individual de formação;
+18.1 - (Revogado.)
 
-18.2 - O itinerário individual de formação resulta de uma negociação entre a escola, representada pelo coordenador pedagógico, e o aluno, devendo ser consideradas, nomeadamente, as disponibilidades, as motivações, os conhecimentos anteriores e as condições que a escola pode oferecer;
+18.2 - (Revogado.)
+
+> Alterado pelo/a [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), publicado em 1999-07-22.
 
 18.2.1 - Para os alunos menores de 18 anos e não emancipados deve ser comunicado ao encarregado de educação o itinerário individual de formação estabelecido entre a escola e o aluno.
 
-18.3 - A efectivação do acto de matrícula, de acordo com as normas gerais em vigor nos serviços de administração escolar, só deve realizar-se depois de determinado o itinerário individual de formação.
+18.3 - (Revogado.)
 
-18.4 - Este itinerário pode ser renegociado em qualquer altura do ano por proposta do aluno ou do coordenador pedagógico, com o acompanhamento dos Serviços de Psicologia e Orientação Escolar;
+18.4 - (Revogado.)
+
+> Alterado pelo/a [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), publicado em 1999-07-22.
 
 18.4.1. - A renegociação do itinerário individual de formação para os alunos menores de 18 anos e não emancipados deve ser comunicado, também, ao encarregado de educação.
 
@@ -350,33 +384,37 @@ V - Organização administrativa
 
 22 - Todas as classificações são, ainda, registadas em livro de termos próprio.
 
-23 - Os alunos não estão sujeitos a qualquer regime de marcação de faltas, existindo, no entanto, um registo obrigatório de presenças em cada disciplina e área disciplinar, nomeadamente para os efeitos previstos na [Lei n.º 26/81](https://diariodarepublica.pt/dr/detalhe/lei/26-1981-575910), de 21 de Agosto, e como instrumento pedagógico e administrativo.
+23 - (Revogado.)
 
-23.1 - Relativamente aos alunos que beneficiam da [Lei n.º 26/81](https://diariodarepublica.pt/dr/detalhe/lei/26-1981-575910), de 21 de Agosto, o coordenador pedagógico comunica à entidade patronal todas as informações referentes ao horário, assiduidade e aproveitamento.
+23.1 - (Revogado.)
+
+> Alterado pelo/a [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), publicado em 1999-07-22.
 
 23.2 - Sempre que o aluno menor de 18 anos e não emancipado não comparecer com assiduidade às actividades lectivas, de acordo com o registo de presenças de cada disciplina e área disciplinar, é comunicada a situação, por escrito, ao respectivo encarregado de educação.
 
 VI - Avaliação
 
-24 - Em qualquer disciplina e área disciplinar a avaliação é feita unidade a unidade, sendo a classificação expressa numa escala de 0 a 20.
+24 - (Revogado.)
 
-25 - A avaliação tem lugar em datas previamente acordadas entre professor e aluno ou grupo de alunos.
+25 - (Revogado.)
 
-26 - A avaliação consta, em todas as disciplinas e áreas disciplinares, de provas escritas adequadas à sua especificidade.
+26 - (Revogado.)
 
-26.1 - O tempo de duração de cada prova escrita não deve ser superior a noventa minutos.
+26.1 - (Revogado.)
 
-27 - No caso das disciplinas de Português e de Língua Estrangeira, há uma prova escrita e uma prova oral que pode, sempre que o aluno tenha assiduidade, ser substituída por uma avaliação contínua do seu desempenho oral, nos termos dos n.os 24 e 29.
+27 - (Revogado.)
 
-27.1 - O tempo de duração de cada prova oral não deve ser superior a quinze minutos.
+27.1 - (Revogado.)
 
-28 - No caso das disciplinas de carácter eminentemente prático, além da prova escrita, há uma prova prática, que pode, sempre que o aluno tenha assiduidade, ser substituída por uma avaliação contínua, nos termos dos n.os 24 e 29 do presente despacho.
+28 - (Revogado.)
 
-28.1 - O tempo de duração de cada prova prática não deve ser superior a quarenta e cinco minutos.
+28.1 - (Revogado.)
 
-29 - A classificação final de cada unidade é a classificação obtida na prova efectuada, expressa em números inteiros. Exceptuam-se os casos do Português, das Línguas Estrangeiras e das disciplinas de carácter prático, em que é a média, arredondada às unidades, das classificações obtidas pelo aluno nas provas realizadas.
+29 - (Revogado.)
 
-30 - Considera-se aprovado em qualquer unidade o aluno que obtenha a classificação mínima de 10 valores, desde que não obtenha, em nenhuma das provas realizadas, classificação inferior a 8 valores.
+30 - (Revogado.)
+
+> Alterado pelo/a [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), publicado em 1999-07-22.
 
 31 - A aprovação em todas as unidades de qualquer disciplina ou área disciplinar confere ao aluno a titularidade dessa disciplina ou área disciplinar.
 

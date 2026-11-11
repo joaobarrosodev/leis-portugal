@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:308681:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-02-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "714275f65aea4d0a"
+   ]
+  },
+  {
+   "date": "1986-05-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:227429:por",
+     "title": "Portaria n.º 175/86",
+     "published": "1986-05-03",
+     "dre_path": "/dr/detalhe/portaria/175-1986-227429"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8"
+   ],
+   "fragments": [
+    "e61160e3df2579ce"
+   ]
+  }
+ ],
+ "fragments": {
+  "714275f65aea4d0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Fevereiro\n\nConsiderando a necessidade de promover a rápida integração dos funcionários adidos nos serviços e organismos onde exerçam actividades e satisfaçam necessidades permanentes de serviço;\n\nConsiderando as orientações estabelecidas nesse sentido no n.º 3 do artigo 2.º do [Decreto-Lei n.º 182/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1980-474880), de 3 de Junho:\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior-General das Forças Armadas, e o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Reforma Administrativa, o seguinte:\n\n1.º\n\n(Alargamento do quadro do pessoal civil dos Serviços Sociais das Forças Armadas)\n\nO quadro do pessoal civil dos Serviços Sociais das Forças Armadas, aprovado pelo [Decreto-Lei n.º 225/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1976-501186), de 31 de Março, alterado pelo [Decreto-Lei n.º 307/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1977-251417), de 4 de Agosto, e pela [Portaria n.º 591/77](https://diariodarepublica.pt/dr/detalhe/portaria/591-1977-285931), de 19 de Setembro, é aumentado dos lugares constantes de mapa anexo ao presente diploma.\n\n2.º\n\n(Revogação de legislação)\n\nO presente diploma revoga a [Portaria n.º 675/82](https://diariodarepublica.pt/dr/detalhe/portaria/675-1982-394508), de 8 de Julho.\n\n3.º\n\n(Entrada em vigor)\n\nEsta portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEstado-Maior-General das Forças Armadas e Ministérios das Finanças e do Plano e da Reforma Administrativa, 7 de Setembro de 1982. - O Chefe do Estado-Maior-General das Forças Armadas, Nuno Viriato Tavares de Melo Egídio, general. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/02600/02980298.pdf)"
+  },
+  "e61160e3df2579ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1986-05-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 175/86](https://diariodarepublica.pt/dr/detalhe/portaria/175-1986-227429), publicado em 1986-05-03."
+   ],
+   "markdown": "de 1 de Fevereiro\n\nConsiderando a necessidade de promover a rápida integração dos funcionários adidos nos serviços e organismos onde exerçam actividades e satisfaçam necessidades permanentes de serviço;\n\nConsiderando as orientações estabelecidas nesse sentido no n.º 3 do artigo 2.º do [Decreto-Lei n.º 182/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1980-474880), de 3 de Junho:\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior-General das Forças Armadas, e o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Reforma Administrativa, o seguinte:\n\n1.º\n\n(Alargamento do quadro do pessoal civil dos Serviços Sociais das Forças Armadas)\n\nO quadro de pessoal civil dos Serviços Sociais das Forças Armadas, aprovado pela [Portaria n.º 986/82](https://diariodarepublica.pt/dr/detalhe/portaria/986-1982-376188), de 20 de Outubro, é aumentado dos lugares constantes do mapa anexo ao presente diploma.\n\n> Alterado pelo/a [Portaria n.º 175/86](https://diariodarepublica.pt/dr/detalhe/portaria/175-1986-227429), publicado em 1986-05-03.\n\n2.º\n\n(Revogação de legislação)\n\nO presente diploma revoga a [Portaria n.º 675/82](https://diariodarepublica.pt/dr/detalhe/portaria/675-1982-394508), de 8 de Julho.\n\n3.º\n\n(Entrada em vigor)\n\nEsta portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEstado-Maior-General das Forças Armadas e Ministérios das Finanças e do Plano e da Reforma Administrativa, 7 de Setembro de 1982. - O Chefe do Estado-Maior-General das Forças Armadas, Nuno Viriato Tavares de Melo Egídio, general. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/02600/02980298.pdf)"
+  }
+ }
+}

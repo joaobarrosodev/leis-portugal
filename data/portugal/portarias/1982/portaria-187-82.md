@@ -29,10 +29,32 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-02-15'
+version_history:
+  file: portaria-187-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-02-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-02-15'
+    amending: pt:dre:378302:por
+    amending_title: Portaria n.º 1016/82; Portaria n.º 92/88
+    changes:
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 16-18
+    - Altera Artigo unidades 35-38
+    - Altera Artigo unidades 70-76
+    - Altera Artigo unidades 93-108
+    - Altera Artigo unidades 115-115
+    - Adita Artigo depois da unidade 118
+    - Altera Artigo unidades 120-126
+    - Altera Artigo unidades 184-219
 identifiers:
   celex: null
   eli: null
@@ -58,7 +80,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:10:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1016/82; Portaria n.º
+    92/88. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-187-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,7 +178,7 @@ A Universidade de Coimbra, através da Faculdade de Ciências e Tecnologia, conc
 
 a) Biologia Celular;
 
-b) Ciências da Computação;
+> Alterado pelo/a [Portaria n.º 92/88](https://diariodarepublica.pt/dr/detalhe/portaria/92-1988-282970), publicado em 1988-02-10.
 
 c) Física Experimental e Aplicada, com 3 áreas de especialização:
 
@@ -167,11 +190,19 @@ III) Física da Radiação;
 
 d) Física Teórica;
 
-e) Matemática, com 2 áreas de especialização:
+e) Matemática, nas seguintes áreas de especialização:
 
-I) Álgebra Linear e Aplicações;
+I) Álgebra;
 
-II) Física Matemática.
+II) Física Matemática;
+
+III) Análise Numérica e Ciências da Computação;
+
+IV) Investigação Operacional;
+
+V) Ensino.
+
+> Alterado pelo/a [Portaria n.º 92/88](https://diariodarepublica.pt/dr/detalhe/portaria/92-1988-282970), publicado em 1988-02-10.
 
 2.º
 
@@ -205,13 +236,21 @@ A tabela e regime de precedências de cada curso serão fixados pelo conselho ci
 
 6.º
 
-(«Numerus clausus»)
+Limitações quantitativas
 
-1 - O numerus clausus de cada curso será fixado por despacho do Ministro da Educação e das Universidades.
+1 - A matrícula e a inscrição em cada curso estão sujeitas a limitações quantitativas, a fixar anualmente por despacho do reitor da Universidade de Coimbra, ao abrigo do disposto na alínea e) do artigo 2.º do [Decreto-Lei n.º 323/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1984-400032), de 9 de Outubro, sob proposta do conselho científico, ouvido o conselho de departamento ou, caso este não exista, a comissão de grupo.
 
-2 - Uma percentagem do numerus clausus a fixar igualmente no despacho a que se refere o número anterior será reservada a docentes de estabelecimentos de ensino superior.
+2 - O despacho a que se refere o n.º 1 estabelecerá ainda:
 
-3 - No despacho referido no n.º 1 poderá igualmente ser fixado um número mínimo de alunos indispensável para o funcionamento de cada curso.
+a) Qual a percentagem de numerus clausus que será reservada prioritariamente a docentes de estabelecimentos de ensino superior;
+
+b) Qual a percentagem de numerus clausus que será reservada prioritariamente a candidatos que não sejam docentes de estabelecimentos de ensino superior, a qual não poderá ser inferior a 50%;
+
+c) Qual o número mínimo de inscrições indispensável ao funcionamento do curso e de cada área de especialização, que não poderá ser inferior, respectivamente, a vinte e a oito.
+
+3 - O despacho a que se refere o n.º 1 deverá ser publicado na 2.ª série do Diário da República antes do início do prazo de candidatura.
+
+> Alterado pelo/a [Portaria n.º 92/88](https://diariodarepublica.pt/dr/detalhe/portaria/92-1988-282970), publicado em 1988-02-10.
 
 7.º
 
@@ -275,19 +314,21 @@ III) Instrumentação e Tecnologia Aplicadas em Biologia ... 2
 
 b) Optativas:
 
-I) Biologia ... 12
+I) Biologia ... 8
 
-II) Bioquímica ... 12
+II) Bioquímica ... 8
 
-III) Biofísica ... 12
+III) Biofísica ... 8
 
 c) Seminário:
 
-I) Biologia ... 2
+I) Biologia ... 4
 
-II) Bioenergética ... 2
+II) Bioenergética ... 4
 
-Total ... 22
+Total ... 20
+
+> Alterado pelo/a [Portaria n.º 1016/82](https://diariodarepublica.pt/dr/detalhe/portaria/1016-1982-378302), publicado em 1982-11-03.
 
 4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
 
@@ -321,37 +362,7 @@ VI) Genética e Biologia Molecular;
 
 VII) Microbiologia.
 
-## ANEXO II — Mestrado em Ciências da Computação
-
-1 - Área científica do curso:
-
-Ciências da Computação.
-
-2 - Duração normal do curso:
-
-1 ano lectivo:
-
-3 - Áreas científicas obrigatórias e unidades de crédito necessárias à obtenção do curso:
-
-a) Teorias da Computação ... 5,5
-
-b) Metodologia da Programação e dos Processos Algorítmicos ... 9
-
-c) Organização e Arquitectura de Sistemas ... 4
-
-Total ... 18,5
-
-4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
-
-a) Matemática (ramo de especialização científica);
-
-b) Engenharia Electrotécnica.
-
-5 - Ramos e especialidades a que se refere o n.º 10.º:
-
-a) Doutoramento em Ciências, na especialidade de Análise Numérica e Computação;
-
-b) Doutoramento em Engenharia, na especialidade de Engenharia Electrotécnica - Informática.
+> Alterado pelo/a [Portaria n.º 92/88](https://diariodarepublica.pt/dr/detalhe/portaria/92-1988-282970), publicado em 1988-02-10.
 
 ## ANEXO III — Mestrado em Física Experimental e Aplicada
 
@@ -365,7 +376,9 @@ Física Experimental e Aplicada.
 
 3 - Áreas científicas e unidades de crédito necessárias à conclusão do curso:
 
-3.1 - Áreas de especialização em Electrónica e Física Aplicada:
+3.1 - Área de especialização em Electrónica e Física Aplicada:
+
+> Alterado pelo/a [Portaria n.º 1016/82](https://diariodarepublica.pt/dr/detalhe/portaria/1016-1982-378302), publicado em 1982-11-03.
 
 a) Obrigatórias:
 
@@ -373,21 +386,25 @@ I) Electrónica e Instrumentação ... 5
 
 II) Métodos de Computação ... 5
 
+III) Mecânica Quântica ... 4
+
+> Aditado pelo/a [Portaria n.º 1016/82](https://diariodarepublica.pt/dr/detalhe/portaria/1016-1982-378302), publicado em 1982-11-03.
+
 b) Optativas:
 
-I) Mecânica Quântica ... 10
+I) Física do Estado Sólido ... 6
 
-II) Física do Estado Sólido ... 10
+II) Física Atómica e Molecular ... 6
 
-III) Física Atómica e Molecular ... 10
+III) Física Nuclear ... 6
 
-IV) Física Nuclear ... 10
+IV) Física de Radiação ... 6
 
-V) Física da Radiação ... 10
+V) Biofísica ... 6
 
-VI) Biofísica ... 10
+VI) Estatística ... 6
 
-VII) Estatística ... 10
+> Alterado pelo/a [Portaria n.º 1016/82](https://diariodarepublica.pt/dr/detalhe/portaria/1016-1982-378302), publicado em 1982-11-03.
 
 Total ... 20
 
@@ -503,74 +520,86 @@ a) Doutoramento em Ciências, na especialidade de Física Teórica.
 
 ## ANEXO V — Mestrado em Matemática
 
-1 - A área científica do curso nas áreas de especialização criadas no n.º 1.º da presente portaria é, respectivamente:
+1 - Área científica do curso:
 
-a) Álgebra Linear e Aplicações;
+Matemática.
 
-b) Física Matemática.
+2 - Duração normal do curso:
 
-2 - Áreas científicas e unidades de crédito necessárias à conclusão do curso:
+1 ano lectivo.
 
-2.1 - Áreas de especialização em Álgebra Linear e Aplicações:
+3 - Áreas científicas e unidades de crédito necessárias à conclusão do concurso:
 
-a) Obrigatórias:
+3.1 - Áreas científicas obrigatórias para cada área de especialização:
 
-I) Álgebra ... 6
+3.1.1 - Área de especialização em Álgebra:
 
-II) Análise Numérica ... 3
+a) Álgebra ... 12
 
-III) Análise Combinatória ... 3
+3.1.2 - Área de especialização em Física Matemática:
 
-b) Optativas:
+a) Física Matemática ... 12
 
-I) Análise ... 12
+3.1.3 - Área de especialização em Análise Numérica e Ciências da Computação:
 
-II) Investigação Operacional ... 12
+a) Análise Numérica ... 6
 
-III) Análise Funcional ... 12
+b) Ciências da Computação ... 6
 
-Total ... 24
+3.1.4 - Área de especialização em Investigação Operacional:
 
-2.2 - Áreas de especialização em Física Matemática:
+a) Investigação Operacional ... 12
 
-a) Obrigatórias:
+3.1.5 - Área de especialização em Ensino:
 
-I) Análise ... 6
+a) História da Matemática ... 3
 
-II) Geometria ... 3
+b) Metodologia da Matemática ... 6
 
-III) Mecânica ... 3
+c) Didáctica da Matemática ... 3
 
-b) Optativas:
+3.2 - Áreas científicas optativas comuns a todas as áreas de especialização:
 
-I) Topologia ... 12
+a) Todas as áreas científicas indicadas no n.º 3.1 ... 6
 
-II) Relatividade ... 12
+b) Análise ... 6
 
-III) Física Quântica ... 12
+c) Geometria e Topologia ... 6
 
-Total ... 24
+d) Mecânica ... 6
+
+e) Probabilidades e Estatística ... 6
+
+f) Lógica e Fundamentos ... 6
+
+g) Teoria Combinatória ... 6
+
+h) Relatividade ... 6
 
 4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
 
-a) Matemática (ramo de especialização científica).
+a) Matemática.
 
 5 - Ramos e especialidades a que se refere o n.º 10.º:
-
-5.1 - Área de especialização em Álgebra Linear e Aplicações:
 
 a) Doutoramento em Ciências, nas especialidades de:
 
 I) Álgebra;
 
-II) Análise Numérica e Computação.
+II) Análise;
 
-5.2 - Área de especialização em Física Matemática:
+III) Geometria e Topologia;
 
-a) Doutoramento em Ciências, nas especialidades de:
+IV) Mecânica e Física Matemática;
 
-I) Análise;
+V) Astronomia e Geodesia;
 
-II) Geometria e Topologia;
+VI) Análise Numérica e Computação;
 
-III) Mecânica e Física Matemática.
+VII) Probabilidades e Estatística;
+
+VIII) Investigação Operacional;
+
+IX) História e Metodologia da Matemática.
+
+> Alterado pelo/a [Portaria n.º 92/88](https://diariodarepublica.pt/dr/detalhe/portaria/92-1988-282970), publicado em 1988-02-10.

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-04-05'
+version_history:
+  file: portaria-126-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-04-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-04-05'
+    amending: pt:dre:286307:por
+    amending_title: Portaria n.º 206/88
+    changes:
+    - Adita Artigo depois da unidade 37
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:40:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 206/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-126-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -188,5 +203,9 @@ Forma e condições de aplicação da marca «Modelo conforme»
 6 - As letras a utilizar na inscrição Modelo conforme são do tipo helvético, com a dimensão indicada no desenho de execução, e equidistantes ao longo dos arcos em que se inserem.
 
 7 - A execução da marca Modelo conforme com dimensão diferente da correspondente a H = 100 mm considerada no desenho de execução gráfica junto é feita mediante a alteração proporcional das cotas constantes do mesmo desenho.
+
+8 - Na execução da marca Modelo conforme em dimensões reduzidas, o organismo de certificação competente pode autorizar que sejam suprimidas as indicações «SNGQ» e «modelo conforme».
+
+> Aditado pelo/a [Portaria n.º 206/88](https://diariodarepublica.pt/dr/detalhe/portaria/206-1988-286307), publicado em 1988-03-31.
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/04/07600/07790780.pdf)

@@ -38,10 +38,35 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-12-08'
+version_history:
+  file: resolucao-conselho-ministros-55-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-08-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-12-08'
+    amending: pt:dre:190646:por
+    amending_title: Resolução do Conselho de Ministros n.º 103/2012
+    changes:
+    - Altera Artigo unidades 26-27
+    - Altera Artigo unidades 36-39
+    - Altera Artigo unidades 42-42
+    - Altera Artigo unidades 54-55
+    - Altera Artigo unidades 59-59
+    - Altera Artigo unidades 65-66
+    - Adita Artigo depois da unidade 66
+    - Altera Artigo unidades 67-69
+    - Altera Artigo unidades 71-71
+    - Altera Artigo unidades 73-73
+    - Altera Artigo unidades 75-77
+    - Altera Artigo unidades 81-84
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/55/2010/08/04/p/dre/pt/html
@@ -67,7 +92,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-27T00:21:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 103/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2010/resolucao-conselho-ministros-55-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -170,9 +196,11 @@ h) Elaborar, no fim de cada ano civil, um relatório sobre a sua actividade, a e
 
 3 - Determinar que o CNES é composto por:
 
-a) O Primeiro-Ministro, que preside, podendo delegar no membro do Governo responsável pela área do trabalho e da solidariedade social;
+a) O Primeiro-Ministro, que preside, podendo delegar no membro do Governo responsável pela área da economia social;
 
-b) Representantes dos membros de Governo responsáveis pelas áreas das finanças, da economia, do trabalho e da solidariedade social;
+b) O membro do Governo responsável pela área da economia social;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 103/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2012-190646), publicado em 2012-12-07.
 
 c) Um representante do Governo da Região Autónoma dos Açores;
 
@@ -190,19 +218,25 @@ i) Um representante da Confederação Cooperativa Portuguesa, C. C. R. L. - CONF
 
 j) Um representante da Confederação Nacional das Instituições de Solidariedade - CNIS;
 
-l) Um representante do Centro Português de Fundações;
+k) Um representante do Centro Português de Fundações;
 
-m) Um representante da União das Misericórdias Portuguesas - UMP;
+l) Um representante da União das Misericórdias Portuguesas - UMP;
 
-n) Um representante da União das Mutualidades Portuguesas - UMP;
+m) Um representante da União das Mutualidades Portuguesas - UMP;
 
-o) Cinco personalidades de reconhecidos mérito e experiência no sector da economia social, a indicar pelo membro do Governo responsável pela área do trabalho e da solidariedade social;
+n) Um representante da Confederação Portuguesa das Coletividades de Cultura, Recreio e Desporto (CPCCRD);
+
+o) Cinco personalidades de reconhecido mérito e experiência no setor da economia social, a indicar pelo membro do Governo responsável pela área da economia social;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 103/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2012-190646), publicado em 2012-12-07.
 
 p) O presidente da Cooperativa António Sérgio para a Economia Social, que secretaria, sem direito a voto.
 
 4 - Determinar que as entidades referidas nas alíneas g) a n) do número anterior são representadas no CNES pelos respectivos presidentes do órgão de administração ou pelos seus legais representantes.
 
-5 - Determinar que do CNES possam vir a fazer parte outras entidades de âmbito nacional de qualquer das componentes do sector cooperativo e social, entretanto criadas, a fixar por portaria do membro do Governo responsável pela área do trabalho e da solidariedade social, ouvido o CNES.
+5 - Determinar que do CNES possam vir a fazer parte outras entidades de âmbito nacional de qualquer das componentes do setor da economia social, entretanto criadas, a fixar por portaria do membro do Governo responsável pela área da economia social, ouvido o CNES.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 103/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2012-190646), publicado em 2012-12-07.
 
 6 - Determinar que os membros do CNES não são remunerados.
 
@@ -226,9 +260,13 @@ a) O presidente;
 
 b) O plenário;
 
-c) O secretário executivo.
+c) A comissão executiva;
 
-9 - Determinar que o presidente do CNES é o Primeiro-Ministro, o qual pode delegar no membro do Governo responsável pela área do trabalho e da solidariedade social.
+d) O secretário executivo.
+
+9 - Determinar que o presidente do CNES é o Primeiro-Ministro, o qual pode delegar no membro do Governo responsável pela área da economia social.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 103/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2012-190646), publicado em 2012-12-07.
 
 10 - Atribuir ao presidente do CNES as seguintes competências:
 
@@ -236,7 +274,9 @@ a) Convocar as sessões ordinárias e extraordinárias do plenário, elaborar a 
 
 b) Fazer cumprir o disposto na presente resolução e nos regulamentos do CNES e zelar pela legalidade das respectivas deliberações;
 
-c) Convidar a participar nas reuniões do plenário quaisquer entidades cuja presença seja julgada útil;
+c) Convidar a participar nas reuniões do plenário membros do Governo responsáveis pelas áreas que se relacionem com a agenda da reunião, bem como quaisquer entidades cuja presença seja julgada útil;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 103/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2012-190646), publicado em 2012-12-07.
 
 d) Utilizar, se necessário, voto de qualidade;
 
@@ -248,31 +288,59 @@ g) Exercer outras funções inerentes à sua condição.
 
 11 - Determinar que o plenário é constituído por todos os membros do CNES referidos no n.º 3.
 
-12 - Determinar que podem participar nas reuniões do plenário, sem direito de voto, outras entidades, pessoas singulares ou colectivas, públicas, privadas ou do sector cooperativo e social, cuja presença seja julgada útil.
+12 - Determinar que podem participar nas reuniões do plenário, sem direito de voto, outras entidades, pessoas singulares ou coletivas, públicas, privadas ou do setor da economia social, cuja presença seja julgada útil.
 
-13 - Estabelecer que o plenário reúne, pelo menos, duas vezes por ano, a título ordinário, reunindo com natureza extraordinária sempre que convocado pelo seu presidente ou a pedido de, pelo menos, um terço dos seus membros.
+13 - Estabelecer que o plenário reúne, a título ordinário, trimestralmente, reunindo com natureza extraordinária sempre que convocado pelo seu presidente ou a pedido de, pelo menos, um terço dos seus membros.
 
-14 - Determinar que o secretário executivo do CNES é o presidente da Cooperativa António Sérgio para a Economia Social.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 103/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2012-190646), publicado em 2012-12-07.
 
-15 - Atribuir ao secretário executivo do CNES as seguintes competências:
+14 - À comissão executiva compete, designadamente:
 
-a) Preparar as reuniões do plenário e grupos de trabalho, procedendo, designadamente, à respectiva convocatória de membros e das entidades convidadas e remetendo aos membros a documentação de suporte às questões a debater;
+a) Acompanhar as atividades relacionadas com a economia social no período entre cada reunião do plenário;
+
+b) Definir a agenda para as reuniões plenárias;
+
+c) Propor ao presidente do CNES a realização de reuniões extraordinárias;
+
+d) Propor ao plenário a criação de grupos de trabalho;
+
+e) Coordenar os grupos de trabalho.
+
+15 - A comissão executiva é eleita de entre os membros do plenário e é presidida pelo membro do Governo responsável pela área da economia social.
+
+16- A comissão executiva é eleita anualmente e dela fazem parte pelo menos um elemento das cooperativas, das misericórdias, das mutualidades, das associações e das fundações.
+
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 103/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2012-190646), publicado em 2012-12-07.
+
+17 - Determinar que o secretário executivo do CNES é o presidente da Cooperativa António Sérgio para a Economia Social.
+
+18 - Atribuir ao secretário executivo do CNES as seguintes competências:
+
+a) Preparar as reuniões do plenário, da comissão executiva e dos grupos de trabalho, procedendo, designadamente, à respetiva convocatória de membros e das entidades convidadas, à distribuição da agenda das reuniões e remetendo aos membros a documentação de suporte às questões a debater;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 103/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2012-190646), publicado em 2012-12-07.
 
 b) Receber e responder às questões formuladas pelos membros;
 
-c) Redigir as actas do plenário e dos grupos de trabalho;
+c) Redigir as atas do plenário, da comissão executiva e dos grupos de trabalho;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 103/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2012-190646), publicado em 2012-12-07.
 
 d) Gerir e manter o sítio na Internet de divulgação das actividades do CNES;
 
-e) Fazer a divulgação junto da comunicação social das decisões tomadas pelo CNES;
+e) Sem prejuízo do disposto na alínea f) do n.º 10, fazer a divulgação junto da comunicação social das decisões tomadas pelo CNES;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 103/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2012-190646), publicado em 2012-12-07.
 
 f) Exercer outras funções inerentes à sua condição.
 
-16 - Determinar que, para além dos trabalhos em plenário, a actividade dos membros do CNES desenvolve-se em grupos de trabalho.
+19 - Determinar que, para além dos trabalhos em plenário e na comissão executiva, a atividade dos membros do CNES desenvolve-se em grupos de trabalho.
 
-17 - Estabelecer que os grupos de trabalho são criados por deliberação do plenário, que define as correspondentes missão, composição e duração.
+20 - Estabelecer que os grupos de trabalho são criados por deliberação do plenário, que define as correspondentes missão, composição e duração.
 
-18 - Atribuir aos grupos de trabalho as seguintes competências:
+21 - Atribuir aos grupos de trabalho as seguintes competências:
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 103/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2012-190646), publicado em 2012-12-07.
 
 a) Elaborar estudos, pareceres, relatórios e informações no âmbito da missão definida pelo plenário;
 
@@ -280,12 +348,14 @@ b) Propor ao presidente do CNES a realização dos estudos que considerar necess
 
 c) Requerer, através do secretário executivo, as informações, os depoimentos ou os esclarecimentos necessários aos trabalhos.
 
-19 - Determinar que os grupos de trabalho funcionam sempre que convocados pelo membro designado como presidente, nos termos de regulamento aprovado na sua sessão constitutiva.
+22 - Determinar que os grupos de trabalho funcionam sempre que convocados pelo membro designado como presidente, nos termos de regulamento aprovado na sua sessão constitutiva.
 
-20 - Estabelecer que fazem parte dos grupos de trabalho pessoas singulares designadas pelo plenário, bem como entidades convidadas mediante indicação dos membros do CNES.
+23 - Estabelecer que fazem parte dos grupos de trabalho pessoas singulares designadas pelo plenário, bem como entidades convidadas mediante indicação dos membros do CNES.
 
-21 - Estabelecer que o apoio administrativo e financeiro ao funcionamento do CNES é assegurado pela Cooperativa António Sérgio para a Economia Social.
+24 - Estabelecer que o apoio administrativo e financeiro ao funcionamento do CNES é assegurado pela Cooperativa António Sérgio para a Economia Social.
 
-22 - Determinar que a primeira reunião do CNES ocorra no prazo de 60 dias subsequentes à publicação da presente resolução.
+25 - Determinar que a primeira reunião do CNES ocorra no prazo de 60 dias subsequentes à publicação da presente resolução.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 103/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2012-190646), publicado em 2012-12-07.
 
 Presidência do Conselho de Ministros, 22 de Julho de 2010. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

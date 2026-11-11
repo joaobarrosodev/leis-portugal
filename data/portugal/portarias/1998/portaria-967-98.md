@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-01-12'
+version_history:
+  file: portaria-967-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-11-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-01-12'
+    amending: pt:dre:386608:por
+    amending_title: Portaria n.º 35/2008
+    changes:
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 20-20
+    - Altera Artigo unidades 27-27
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/967/1998/11/12/p/dre/pt/html
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:12:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 35/2008. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-967-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,7 +142,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 1.º O presente diploma estabelece as regras de aplicação do regime de reconhecimento das organizações interprofissionais previsto na [Lei n.º 123/97](https://diariodarepublica.pt/dr/detalhe/lei/123-1997-687460), de 13 de Novembro.
 
-2.º Podem ser reconhecidas, a seu pedido, após parecer do Conselho Nacional de Agricultura, do Desenvolvimento Rural e das Pescas, as organizações interprofissionais, a nível nacional ou regional, por produto ou grupo de produtos, que preencham, cumulativamente, os seguintes requisitos:
+2.º Podem ser reconhecidas, a seu pedido, as organizações interprofissionais, a nível nacional ou regional, por produto ou grupo de produtos, que preencham, cumulativamente os seguintes requisitos:
+
+> Alterado pelo/a [Portaria n.º 35/2008](https://diariodarepublica.pt/dr/detalhe/portaria/35-2008-386608), publicado em 2008-01-11.
 
 a) Revistam a natureza jurídica de associações;
 
@@ -145,7 +164,9 @@ b) Estatuto de constituição e regulamento interno da organização interprofis
 
 c) Relação nominal dos associados e respectivos membros, com indicação da sua sede, áreas, volume de produção e zonas de comercialização.
 
-4.º A pedido do GPPAA, podem ser solicitados documentos complementares.
+4.º O GPP emite parecer técnico, podendo solicitar documentos complementares.
+
+> Alterado pelo/a [Portaria n.º 35/2008](https://diariodarepublica.pt/dr/detalhe/portaria/35-2008-386608), publicado em 2008-01-11.
 
 5.º O reconhecimento será concedido, a pedido da organização interprofissional, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
@@ -159,7 +180,9 @@ b) Estarem a ser aplicadas há, pelo menos, uma campanha de comercialização;
 
 c) Não originarem compartimentação de mercados, não conduzirem à fixação de preços e criarem discriminações ou eliminarem a concorrência relativamente a uma parte substancial dos produtos em causa.
 
-8.º O pedido de aprovação dos acordos previstos no artigo 7.º da [Lei n.º 123/97](https://diariodarepublica.pt/dr/detalhe/lei/123-1997-687460), de 13 de Novembro, ou extensão das respectivas regras deve ser apresentado no GPPAA, acompanhado dos seguintes documentos:
+8.º O pedido de aprovação dos acordos previstos no artigo 7.º da [Lei n.º 123/97](https://diariodarepublica.pt/dr/detalhe/lei/123-1997-687460), de 13 de Novembro, ou extensão das respectivas regras deve ser apresentado no GPP que emite parecer técnico, acompanhado dos seguintes documentos:
+
+> Alterado pelo/a [Portaria n.º 35/2008](https://diariodarepublica.pt/dr/detalhe/portaria/35-2008-386608), publicado em 2008-01-11.
 
 a) Acta da assembleia geral que aprovou o acordo;
 

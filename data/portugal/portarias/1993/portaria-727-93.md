@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-03-02'
+version_history:
+  file: portaria-727-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-08-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-03-02'
+    amending: pt:dre:505783:por
+    amending_title: Decreto-Lei n.º 47/97
+    changes:
+    - Altera Artigo unidades 5-5
+    - Altera Artigo unidades 14-14
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/727/1993/08/12/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:08:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 47/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-727-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,7 +140,9 @@ Ao abrigo do disposto no artigo 5.º da [Lei n.º 8/90](https://diariodarepublic
 
 Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
 
-1.º São consignadas ao Instituto de Inovação Educacional de António Aurélio da Costa Ferreira, às Direcções Regionais de Educação, ao Departamento de Programação e Gestão Financeira, ao Departamento de Gestão de Recursos Educativos, ao Departamento do Ensino Superior, à Inspecção-Geral da Educação, ao Departamento de Ensino Secundário e ao Departamento da Educação Básica, quando por estes arrecadadas, as seguintes receitas:
+1.º São consignadas ao Instituto de Inovação Educacional de António Aurélio da Costa Ferreira, às Direcções Regionais de Educação, ao Departamento de Gestão de Recursos Educativos, ao Departamento do Ensino Superior, à Inspecção-Geral da Educação, ao Departamento de Ensino Secundário e ao Departamento da Educação Básica, quando por estes arrecadadas, as seguintes receitas:
+
+> Alterado pelo/a [Decreto-Lei n.º 47/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1997-505783), publicado em 1997-02-25.
 
 a) Os subsídios, subvenções, comparticipações, quotizações, doações e legados concedidos por quaisquer entidades;
 
@@ -142,7 +160,9 @@ g) Os saldos das receitas consignadas.
 
 2.º Constituem receitas da Secretaria-Geral os saldos das receitas consignadas.
 
-3.º As receitas enumeradas nos números anteriores, com excepção das respeitantes ao Departamento de Programação e Gestão Financeira, são afectas ao pagamento das despesas dos serviços respectivos, mediante inscrições de dotações com compensação em receitas.
+3.º As receitas enumeradas nos números anteriores são afectas ao pagamento das despesas dos serviços respectivos, mediante inscrições de dotações com compensação em receitas.
+
+> Alterado pelo/a [Decreto-Lei n.º 47/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1997-505783), publicado em 1997-02-25.
 
 4.º A presente portaria produz efeitos desde 3 de Maio de 1993.
 

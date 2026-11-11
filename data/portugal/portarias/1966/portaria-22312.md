@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-06-22'
+version_history:
+  file: portaria-22312.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1966-11-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-06-22'
+    amending: pt:dre:381103:por
+    amending_title: Portaria n.º 294/79
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:22:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 294/79. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1966/portaria-22312.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,7 +158,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1.º Na pesca de camarões, gambas e crustáceos semelhantes podem ser usadas redes de arrasto, de modelos aprovados pela Direcção das Pescarias, desde que as suas malhas, no saco, se deixem atravessar fàcilmente por uma bitola rectangular com 2 mm de espessura e 50 mm de largura;
 
-2.º A utilização das redes referidas no número anterior é, contudo, reservada aos arrastões registados em nome de cooperativas de pescadores, usualmente designados por arrastões de crustáceos;
+2.º A utilização das redes referidas no número anterior é, contudo, reservada aos arrastões registados em nome de sociedades que se encontrem constituídas sob a forma cooperativa, independentemente de eventuais modificações dos respectivos pactos sociais.
+
+> Alterado pelo/a [Portaria n.º 294/79](https://diariodarepublica.pt/dr/detalhe/portaria/294-1979-381103), publicado em 1979-06-22.
 
 3.º Poderão exercer a sua actividade até ao paralelo 10º N. os arrastões de crustáceos que tenham mais de 100 t de arqueação bruta, autonomia superior a vinte dias, instalações de congelação do pescado, porões frigoríficos, equipamento de navegação e de comunicações para o efeito prescritos pelo Instituto Hidrográfico e pela Direcção do Serviço de Electricidade e Comunicações.
 

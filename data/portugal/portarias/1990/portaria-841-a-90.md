@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-02-27'
+version_history:
+  file: portaria-841-a-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-09-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-02-27'
+    amending: pt:dre:624629:por
+    amending_title: Portaria n.º 1113-A/90; Portaria n.º 154-A/95
+    changes:
+    - Altera Artigo unidades 29-29
+    - Adita Artigo depois da unidade 45
+    - Altera Artigo unidades 64-64
+    - Adita Artigo depois da unidade 87
 identifiers:
   celex: null
   eli: null
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:31:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1113-A/90; Portaria
+    n.º 154-A/95. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-841-a-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -187,7 +205,11 @@ b) Actividades;
 
 c) Infra-estruturas;
 
-d) Despesas de funcionamento.
+d) Equipamentos;
+
+e) Despesas de funcionamento.
+
+> Alterado pelo/a [Portaria n.º 154-A/95](https://diariodarepublica.pt/dr/detalhe/portaria/154-a-1995-228618), publicado em 1995-02-22.
 
 2 - Contrato-programa.
 
@@ -220,6 +242,14 @@ h) Estrutura de acompanhamento e de avaliação;
 i) Penalizações;
 
 j) Períodos e condições de revisão e ajustamento.
+
+2.3.1 - Despesas de funcionamento.
+
+2.3.2 - A modalidade «despesas de funcionamento» pode ser estabelecida com associações juvenis de âmbito nacional que celebrem contratos-programa.
+
+2.3.3 - O apoio para despesas de funcionamento não poderá exceder 20% do total do valor do apoio financeiro estabelecido no âmbito do contrato-programa a celebrar com o Instituto, tendo-se em conta as despesas com o aluguer de instalações, telefone, electricidade, água e pessoal que preste actividade regular na Associação.
+
+> Aditado pelo/a [Portaria n.º 1113-A/90](https://diariodarepublica.pt/dr/detalhe/portaria/1113-a-1990-624629), publicado em 1990-11-08.
 
 2.4 - As entidades referidas no n.º 2.1, alínea a), enviarão aos serviços centrais do Instituto, até 30 de Novembro de cada ano, o plano de actividades, devendo o contrato-programa ser celebrado até 28 de Fevereiro do ano seguinte.
 
@@ -257,7 +287,9 @@ d) Organizações partidárias e sindicais de juventude, nos termos do n.º 1.2.
 
 a) De 1 de Janeiro a 31 de Março, devendo o Instituto responder até 31 de Maio;
 
-b) De 1 de Junho a 30 de Setembro, devendo o Instituto responder até 30 de Novembro.
+b) De 1 de Junho a 31 de Agosto, devendo o Instituto responder até 30 de Novembro.
+
+> Alterado pelo/a [Portaria n.º 154-A/95](https://diariodarepublica.pt/dr/detalhe/portaria/154-a-1995-228618), publicado em 1995-02-22.
 
 4.5 - Quando, por motivos orçamentais, não for possível conceder apoio a uma entidade que reúna os requisitos para tanto necessários, será a respectiva candidatura considerada no período subsequente.
 
@@ -304,6 +336,58 @@ c) A localização da obra;
 d) A carência de estruturas similares na região;
 
 e) A necessidade de conservação do património construído.
+
+5-A - Equipamentos.
+
+5-A.1 - A modalidade «Equipamentos» destina-se a apoiar associações juvenis inscritas no RNAJ com o equipamento necessário ao desenvolvimento das suas actividades, sendo o apoio financeiro concedido para aquisição de:
+
+a) Equipamento informático e de comunicações, designadamente computadores, impressoras, scaner, fax-modem e videotex;
+
+b) Equipamento para infra-estruturas juvenis, nomeadamente mobiliário, equipamento de escritório e reprográfico;
+
+c) Equipamento de suporte a actividades formativas com jovens.
+
+5-A.2 - No âmbito da modalidade «Equipamentos» não é susceptível de apoio a aquisição de:
+
+a) Material ou equipamento desportivo de qualquer natureza;
+
+b) Electrodomésticos;
+
+c) Software;
+
+d) Material consumível ou similar.
+
+5-A.3 - Os pedidos de apoio, devidamente hierarquizados, são feitos em impresso próprio, mediante a apresentação no decurso do mês de Maio de uma única candidatura, devendo o Instituto decidir até 30 de Junho.
+
+5-A.4 - As candidaturas são apresentadas nos centros de juventude, quando se tratem de associações de âmbito local ou regional, ou nos serviços centrais do Instituto, quando se tratem de associações de âmbito nacional, e devem ser instruídas com:
+
+a) Memória descritiva e justificativa do pedido;
+
+b) Três orçamentos actualizados apresentados por vendedores autorizados, identificando o equipamento, quantidades e preço unitário;
+
+c) Garantia de financiamento próprio mínimo de 40%.
+
+5-A.5 - Aos serviços regionais do Instituto compete emitir parecer sobre os pedidos das associações da respectiva região, podendo para o efeito efectuar visitas às associações e solicitar-lhes informações de modo a avaliar da necessidade e adequação do equipamento pedido.
+
+5-A.6 - No caso de aprovação do pedido, o Instituto concederá às associações um apoio financeiro até ao montante de 60% do investimento necessário à aquisição do equipamento e inferior ao valor fixado anualmente pelo conselho de administração, sendo o respectivo pagamento efectuado mediante apresentação, a título devolutivo, dos originais dos recibos relativos às despesas realizadas.
+
+5-A.7 - A apreciação dos pedidos de apoio para aquisição de equipamentos deve ter em conta:
+
+a) Antiguidade de inscrição no RNAJ;
+
+b) Número de associados;
+
+c) Comparticipação financeira da associação;
+
+d) Actividades desenvolvidas com jovens;
+
+e) Grau de carência do equipamento;
+
+f) Prioridade a pedidos de associações que ainda não tenham beneficiado de apoios para aquisição de equipamentos.
+
+5-A.8 - À modalidade «Apoio para aquisição de equipamentos» é aplicável o disposto no n.º 4.5.
+
+> Aditado pelo/a [Portaria n.º 154-A/95](https://diariodarepublica.pt/dr/detalhe/portaria/154-a-1995-228618), publicado em 1995-02-22.
 
 6 - Deveres das associações.
 

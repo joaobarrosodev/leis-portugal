@@ -29,10 +29,34 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-04-26'
+version_history:
+  file: portaria-728-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-08-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-04-26'
+    amending: pt:dre:380917:por
+    amending_title: Portaria n.º 1178/82; Portaria n.º 363/83; Portaria n.º 813/83; Portaria n.º 525/84; Portaria n.º 324/87
+    changes:
+    - Altera Artigo unidades 32-32
+    - Altera Artigo unidades 76-106
+    - Altera Artigo unidades 111-112
+    - Altera Artigo unidades 114-114
+    - Altera Artigo unidades 120-120
+    - Altera Artigo unidades 185-185
+    - Altera Artigo unidades 189-189
+    - Altera Artigo unidades 194-195
+    - Altera Artigo unidades 242-244
+    - Altera Artigo unidades 252-260
+    - Altera Artigo unidades 287-295
 identifiers:
   celex: null
   eli: null
@@ -58,7 +82,9 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:53:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1178/82; Portaria n.º
+    363/83; Portaria n.º 813/83; Portaria n.º 525/84; Portaria n.º 324/87. Método e verificação: consolidacao/README.md e
+    consolidacao/piloto/portugal/portarias/1981/portaria-728-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -194,7 +220,15 @@ VII) Filosofia e Cultura em Portugal;
 
 i) Geografia Humana e Planeamento Regional;
 
-j) Geografia Física e Regional.
+j) Geografia Física e Regional, com 3 áreas de especialização:
+
+a) Geomorfologia;
+
+b) Climatologia;
+
+c) Geografia Regional.
+
+> Alterado pelo/a [Portaria n.º 525/84](https://diariodarepublica.pt/dr/detalhe/portaria/525-1984-381725), publicado em 1984-07-28.
 
 2.º
 
@@ -282,67 +316,91 @@ Literaturas Clássicas.
 
 2 - Duração normal do curso:
 
-Dois anos lectivos.
+2 anos lectivos.
 
-3 - Áreas e unidades de crédito necessárias à obtenção do curso:
+3 - Número total de unidades de crédito necessárias à obtenção do curso: 20.
 
-I - Comuns a todas as áreas de especialização:
+4 - Áreas científicas e unidades de crédito:
 
-a) Problemática de Literatura ... 6
+4.1 - Áreas científicas comuns a todas as áreas de especialização:
 
-b) Linguística ... 4
+4.1.1 - Obrigatória:
 
-c) Cultura ... 4
+Problemática da Licenciatura ... 6
 
-d) Filosofia ... 4
+4.1.2 - Optativas:
 
-e) História ... 4
+Metodologia Científica ... 4
 
-f) Metodologia Científica ... 4
+Linguística ... 4
 
-II - Área de especialização em Literatura Grega:
+Cultura ... 4
 
-a) Literatura Grega ... 5
+Filosofia ... 4
 
-b) Literatura Latina ... 5
+História ... 4
 
-c) Literaturas Modernas ... 5
+4.2 - Áreas científicas específicas de cada área de especialização:
 
-III - Área de especialização em Literatura Latina:
+4.2.1 - Área de especialização em Literatura Grega:
 
-a) Literatura Latina ... 5
+4.2.1.1 - Obrigatória:
 
-b) Literatura Grega ... 5
+Literatura Grega ... 6
 
-c) Literaturas Modernas ... 5
+4.2.1.2 - Optativas:
 
-IV - Área de especialização em Literaturas Comparadas:
+Literatura Grega ... 4
 
-a) Literaturas Modernas ... 5 unidades numa área e 5 noutra.
+Literatura Latina ... 4
 
-b) Literatura Grega ... 5 unidades numa área e 5 noutra.
+Literaturas Modernas ... 4
 
-c) Literatura Latina ... 5 unidades numa área e 5 noutra.
+4.2.2 - Área de especialização em Literatura Latina:
 
-4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
+4.2.2.1 - Obrigatória:
 
-a) Filologia Clássica;
+Literatura Latina ... 6
 
-b) Línguas e Literaturas Clássicas.
+4.2.2.2 - Optativas:
 
-5 - Especialidades a que se refere o n.º 10.º:
+Literatura Latina ... 4
 
-a) Área de especialização em Literatura Grega:
+Literatura Grega ... 4
 
-Literatura Grega;
+Literaturas Modernas ... 4
 
-b) Área de especialização em Literatura Latina:
+4.2.3 - Área de especialização em Literaturas Comparadas:
 
-Literatura Latina;
+4.2.3.1 - Obrigatórias:
 
-c) Área de especialização em Literaturas Comparadas:
+Literaturas Modernas ... 4
 
-A fixar caso a caso pelo conselho científico face ao plano de estudos do curso seguido por cada candidato.
+Literatura Grega ... 6
+
+Literatura Latina ... 6
+
+5 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
+
+5.1 - Filosofia Clássica;
+
+5.2 - Línguas e Literaturas Clássicas (todas as variantes).
+
+6 - Especialidades a que se refere o n.º 10.º:
+
+6.1 - Área de especialização em Literatura Grega:
+
+Literatura Grega.
+
+6.2 - Área de especialização em Literatura Latina:
+
+Literatura Latina.
+
+6.3 - Área de especialização em Literaturas Comparadas:
+
+A fixar, caso a caso, pelo conselho científico face ao plano de estudos do curso seguido por cada candidato.
+
+> Alterado pelo/a [Portaria n.º 363/83](https://diariodarepublica.pt/dr/detalhe/portaria/363-1983-312443), publicado em 1983-04-02.
 
 ## ANEXO II — Mestrado em Linguística Portuguesa Histórica
 
@@ -352,13 +410,17 @@ Linguística Portuguesa Histórica.
 
 2 - Duração normal do curso:
 
-Dois anos lectivos.
+2 anos lectivos.
 
-3 - Áreas e unidades de crédito necessárias à obtenção do curso:
+3 - Áreas científicas e unidades de crédito necessárias à obtenção do curso:
+
+> Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03.
 
 I - Obrigatória:
 
-Linguística Portuguesa Descritiva ... 8
+Linguística Portuguesa Histórica ... 8
+
+> Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03.
 
 II - Opcionais:
 
@@ -370,7 +432,9 @@ c) Linguística Geral ... 8
 
 d) Linguística Aplicada ... 8
 
-4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
+4 - Licenciaturas a que se refere o ponto 1 do n.º 5.º:
+
+> Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03.
 
 a) Filologia Românica;
 
@@ -500,7 +564,9 @@ Literatura Francesa.
 
 2 - Duração normal do curso:
 
-Dois anos lectivos.
+2 anos lectivos.
+
+> Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03.
 
 3 - Áreas e unidades de crédito necessárias à obtenção do curso:
 
@@ -508,7 +574,9 @@ I - Obrigatórias:
 
 a) Problemática da Leitura Literária ... 4
 
-b) Literatura Francesa ... 4
+b) Literatura Francesa ... 8
+
+> Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03.
 
 II - Opcionais:
 
@@ -518,9 +586,11 @@ b) Literatura Brasileira e Literaturas Africanas de Expressão Portuguesa ... (v
 
 c) Literatura Portuguesa ... (ver nota a) 4
 
-(nota a) Para cada aluno poderá ser determinado que as quatro unidades de crédito sejam obtidas na área II, alínea a).
+(nota a) Para cada aluno poderá ser determinado que as 4 unidades de crédito sejam obtidas na área referida na alínea (a).
 
-4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
+4 - Licenciaturas a que se refere o ponto 1 do n.º 5.º:
+
+> Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03.
 
 a) Filologia Românica;
 
@@ -614,11 +684,15 @@ b) Línguas e Literaturas Modernas (variantes com inglês).
 
 5 - Especialidades a que se refere o n.º 10.º:
 
-a) Literatura Inglesa;
+a) Cultura Inglesa;
 
-b) Literatura Norte-Americana;
+b) Literatura Inglesa;
 
-c) Linguística Inglesa.
+c) Literatura Norte-Americana;
+
+d) Linguística Inglesa.
+
+> Alterado pelo/a [Portaria n.º 1178/82](https://diariodarepublica.pt/dr/detalhe/portaria/1178-1982-380917), publicado em 1982-12-22.
 
 ## ANEXO VIII — Mestrado em Filosofia
 
@@ -634,23 +708,23 @@ Dois anos lectivos.
 
 3.1 - A área de especialização em que é conferido o grau é definida pela dissertação.
 
-3.2 - Para qualquer área de especialização, as áreas e unidades de crédito necessárias à obtenção do curso são as seguintes:
+3.2 - Para qualquer área de especialização as áreas e unidades de crédito necessárias à obtenção do curso são as seguintes:
 
-a) Metodologia do Trabalho Filosófico ... 4
+a) História da Filosofia ... 16
 
-b) História da Filosofia ... 12
+b) Metafísica e Antropologia ... 16
 
-c) Metafísica e Antropologia ... 12
+c) Filosofia do Conhecimento e Epistemologia ... 16
 
-d) Filosofia do Conhecimento e Epistemologia ... 12
+d) Filosofia da Linguagem e Lógica ... 16
 
-e) Filosofia da Linguagem e Lógica ... 12
+e) Filosofia da Cultura ... 16
 
-f) Filosofia da Cultura ... 12
+f) Filosofia Social e Política ... 16
 
-g) Filosofia Social e Política ... 12
+g) Filosofia da Cultura em Portugal ...16
 
-h) Filosofia e Cultura em Portugal ... 12
+> Alterado pelo/a [Portaria n.º 324/87](https://diariodarepublica.pt/dr/detalhe/portaria/324-1987-665894), publicado em 1987-04-21.
 
 4 - Licenciatura a que se refere o n.º 1 do n.º 5.º:
 
@@ -704,20 +778,44 @@ Geografia Física e Regional.
 
 2 - Duração normal do curso:
 
-Dois anos lectivos.
+2 anos lectivos.
 
-3 - Áreas e unidades de crédito necessárias à obtenção do curso:
+3 - Áreas científicas e unidades de crédito necessárias à obtenção do curso:
 
-a) Geomorfologia ... 6
+3.1 - Área de especialização em Geomorfologia:
 
-b) Climatologia ... 6
+Geomorfologia ... 12
 
-c) Geografia Regional ... 6
+Climatologia ... 3
 
-4 - Licenciatura a que se refere o n.º 1 do n.º 5.º:
+Geografia Regional ... 3
 
-a) Geografia.
+3.2 - Área de especialização em Climatologia:
 
-5 - Especialidade a que se refere o n.º 10.º:
+Climatologia ... 12
 
-a) Geografia Física.
+Geomorfologia ... 3
+
+Geografia Regional ... 3
+
+3.3 - Área de especialização em Geografia Regional:
+
+Geografia Regional ... 12
+
+Climatologia ... 3
+
+Geomorfologia ... 3
+
+4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
+
+a) Geografia;
+
+b) Geologia.
+
+5 - Especialidades a que se refere o n.º 10.º:
+
+a) Geografia Física;
+
+b) Geografia Regional.
+
+> Alterado pelo/a [Portaria n.º 525/84](https://diariodarepublica.pt/dr/detalhe/portaria/525-1984-381725), publicado em 1984-07-28.

@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-25'
+version_history:
+  file: portaria-450-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-25'
+    amending: pt:dre:305618:por
+    amending_title: Declaração de Rectificação n.º 124/94; Portaria n.º 1000/97
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/450/1994/06/30/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:27:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 124/94;
+    Portaria n.º 1000/97. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-450-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,7 +167,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos nas freguesias de São Miguel de Acha, Proença-a-Velha e Oledo, município de Idanha-a-Nova, com uma área de 2500 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de São Miguel de Acha, Proença-a-Velha e Oledo, município de Idanha-a-Nova, com a área de 1679,7225 ha.
+
+> Alterado pelo/a [Portaria n.º 1000/97](https://diariodarepublica.pt/dr/detalhe/portaria/1000-1997-659740), publicado em 1997-09-24.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 1000/97](https://diariodarepublica.pt/dr/detalhe/portaria/1000-1997-659740), publicado em 1997-09-24.
 
 2.º Pelo presente diploma é concessionada, pelo período de seis anos, à Associação de Caçadores de São Miguel de Acha (registo no Instituto Florestal n.º 2.1167.92), com sede na Casa Capelo, São Miguel de Acha, Idanha-a-Nova, a zona de caça associativa de São Miguel de Acha (processo n.º 1448 do Instituto Florestal).
 
@@ -162,7 +185,9 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 2 - A sinalização obedecerá às condições definidas nos n.os 6.º a 9.º da [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), 3.º e 4.º da [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925) e 6.º e 7.º da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697), de 18 de Março.
 
-6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).
+6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter dois guardas florestais auxiliares dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).
+
+> Alterado pelo/a [Declaração de Rectificação n.º 124/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/124-1994-305618), publicado em 1994-08-31.
 
 7.º O disposto no presente diploma não é aplicável às áreas consignadas no artigo 14.º, n.os 1 e 2, da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.
 

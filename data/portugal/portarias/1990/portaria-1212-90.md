@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-04-14'
+version_history:
+  file: portaria-1212-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-12-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-04-14'
+    amending: pt:dre:614311:por
+    amending_title: Portaria n.º 314/91
+    changes:
+    - Altera Artigo unidades 137-138
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:12:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 314/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-1212-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -400,9 +415,11 @@ Aos titulares do diploma de estudos superiores especializados em Engenharia de M
 
 Classificação
 
-A classificação do grau de licenciado é a resultante do cálculo da expressão seguinte, arrendondada às unidades (considerando como unidade a fracção não inferior a cinco décimas):
+A classificação do grau de licenciado é a resultante do cálculo da expressão seguinte, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas):
 
-(3B + D)/4
+(3B + 2D)/5
+
+> Alterado pelo/a [Portaria n.º 314/91](https://diariodarepublica.pt/dr/detalhe/portaria/314-1991-614311), publicado em 1991-04-09.
 
 em que:
 

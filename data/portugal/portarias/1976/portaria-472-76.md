@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-12-14'
+version_history:
+  file: portaria-472-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-08-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-12-14'
+    amending: pt:dre:443152:por
+    amending_title: Portaria n.º 1028/83
+    changes:
+    - Altera Artigo unidades 15-15
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:05:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1028/83. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1976/portaria-472-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -179,7 +194,9 @@ Regime geral de preços
 
 4.º Os preços do serviço de restaurantes (serviço de refeições tradicionalmente designado por «serviço à carta» a praticar nos estabelecimentos hoteleiros e nos similares de hoteleiros classificados no grupo 1 e a que se refere o n.º 1 do artigo 18.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de ou sem interesse para o turismo, ficam sujeitos ao regime de preços livres.
 
-5.º Os preços de venda a cálice de bebidas espirituosas e licorosas a praticar em todos os estabelecimentos hoteleiros e similares de e sem interesse para o turismo serão calculados de acordo com os factores constantes de tabelas fixadas pelas Direcções-Gerais do Turismo e do Comércio Alimentar.
+5.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 1028/83](https://diariodarepublica.pt/dr/detalhe/portaria/1028-1983-443152), publicado em 1983-12-09.
 
 6.º Os preços de venda de vinhos e espumantes continuam sujeitos a legislação especial.
 

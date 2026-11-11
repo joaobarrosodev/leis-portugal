@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-05-14'
+version_history:
+  file: despacho-normativo-315-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-11-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-05-14'
+    amending: pt:dre:473913:por
+    amending_title: Despacho Normativo n.º 156/80
+    changes:
+    - Altera Artigo unidades 44-45
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:47:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 156/80. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1978/despacho-normativo-315-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -189,9 +204,9 @@ i) Acompanhamento do processo até ao reembolso total pelos trabalhadores da emp
 
 j) Apresentação dos elementos de contabilidade e outros documentos que forem solicitados pelos serviços competentes da Secretaria de Estado da População e Emprego.
 
-12 - O montante do apoio será função das necessidades da empresa determinadas pelos serviços competentes da SEPE, não podendo ultrapassar, independentemente da sua forma, o seguinte limite máximo:
+12 - O montante do apoio será o equivalente ao subsídio de desemprego, por posto de trabalho a criar, durante dois anos, calculado com base no montante mensal mais elevado.
 
-O equivalente ao subsídio de desemprego, por posto de trabalho a criar, durante dois anos, calculado com base no montante mensal mais elevado.
+> Alterado pelo/a [Despacho Normativo n.º 156/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/156-1980-473913), publicado em 1980-05-13.
 
 13 - O montante do apoio de natureza técnica será calculado, caso a caso, pelos serviços da DGPE, tendo em conta, entre outros factores, o custo dos meios humanos e materiais utilizados.
 

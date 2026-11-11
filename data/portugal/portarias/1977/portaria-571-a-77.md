@@ -29,10 +29,32 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-06-26'
+version_history:
+  file: portaria-571-a-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-09-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-06-26'
+    amending: pt:dre:325967:por
+    amending_title: Portaria n.º 662/78; Portaria n.º 159/79; Portaria n.º 655/79; Portaria n.º 350/80
+    changes:
+    - Altera Artigo unidades 35-35
+    - Altera Artigo unidades 38-38
+    - Altera Artigo unidades 40-40
+    - Altera Artigo unidades 45-46
+    - Altera Artigo unidades 53-53
+    - Altera Artigo unidades 112-112
+    - Adita Artigo depois da unidade 138
+    - Altera Artigo unidades 140-143
+    - Adita Artigo depois da unidade 182
 identifiers:
   celex: null
   eli: null
@@ -58,7 +80,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:25:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 662/78; Portaria n.º
+    159/79; Portaria n.º 655/79; Portaria n.º 350/80. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1977/portaria-571-a-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -195,17 +218,23 @@ Dois oficiais do quadro técnico de exploração;
 
 Um oficial do quadro técnico de manutenção;
 
-Um sargento-chefe de exploração;
+Um sargento-mor ou sargento-chefe de exploração;
+
+> Alterado pelo/a [Portaria n.º 655/79](https://diariodarepublica.pt/dr/detalhe/portaria/655-1979-366601), publicado em 1979-12-07.
 
 Um sargento-ajudante de exploração;
 
 Dois primeiros-sargentos ou segundos-sargentos de exploração;
 
-Um sargento-chefe mecânico;
+Um sargento-mor ou sargento-chefe mecânico;
+
+> Alterado pelo/a [Portaria n.º 655/79](https://diariodarepublica.pt/dr/detalhe/portaria/655-1979-366601), publicado em 1979-12-07.
 
 Um sargento-ajudante mecânico;
 
-Dois primeiros-sargentos ou segundos-sargentos mecânicos;
+Dois primeiros-sargentos ou segundos-sargentos mecânicos.
+
+> Alterado pelo/a [Portaria n.º 655/79](https://diariodarepublica.pt/dr/detalhe/portaria/655-1979-366601), publicado em 1979-12-07.
 
 d) Conselho do Serviço de Saúde:
 
@@ -215,9 +244,11 @@ d) Conselho do Serviço de Saúde:
 
 3) Militares nomeados mediante eleição:
 
-Um coronel ou tenente-coronel médico;
+Um coronel, tenente-coronel ou major médico;
 
-Um major ou capitão médico;
+Um capitão ou subalterno médico;
+
+> Alterado pelo/a [Portaria n.º 350/80](https://diariodarepublica.pt/dr/detalhe/portaria/350-1980-473564), publicado em 1980-06-26.
 
 Dois oficiais farmacêuticos de qualquer posto;
 
@@ -231,7 +262,9 @@ Dois primeiros-sargentos ou segundos-sargentos do ramo médico;
 
 Dois sargentos do ramo farmacêutico;
 
-Dois sargentos do ramo veterinário;
+Dois sargentos do ramo veterinário.
+
+> Alterado pelo/a [Portaria n.º 350/80](https://diariodarepublica.pt/dr/detalhe/portaria/350-1980-473564), publicado em 1980-06-26.
 
 e) Conselho do Serviço de Material:
 
@@ -349,7 +382,9 @@ Um primeiro-sargento ou segundo-sargento corneteiro ou clarim;
 
 a) Na primeira volta cada militar só vota para os lugares correspondentes ao seu posto ou grupo de postos, ou de especialidades, em conformidade com a composição de cada conselho definida no n.º 4;
 
-b) Para a segunda volta apenas são elegíveis os militares mais votados na primeira volta, incluídos no quádruplo do número de lugares a preencher; os oficiais votam para todos os lugares destinados a oficiais e os sargentos votam para todos os lugares destinados a sargentos.
+b) Para a segunda volta apenas são elegíveis os militares mais votados na primeira volta, incluídos no quádruplo do número de lugares a preencher, considerando, porém, sempre que aplicável, os casos particulares referidos nos n.os 27, § único, e 29; os oficiais votam para todos os lugares destinados a oficiais e os sargentos votam para todos os lugares destinados a sargentos.
+
+> Alterado pelo/a [Portaria n.º 159/79](https://diariodarepublica.pt/dr/detalhe/portaria/159-1979-382584), publicado em 1979-04-11.
 
 19 - Compete às direcções ou chefias das armas e serviços a organização das respectivas eleições, para o que nomearão comissões.
 
@@ -403,15 +438,29 @@ f) Elaborar acta com o resultado da segunda volta da eleição e enviar os resul
 
 27 - Para os lugares a preencher são indicados os militares mais votados.
 
+§ único. No caso de, durante o processo eleitoral, ocorrerem promoções (ou graduações) que afectem um militar dos mais votados na primeira volta e, como tal, apurado para a segunda volta, deve este ser incluído entre os militares do posto a que foi promovido (ou graduado). Tal procedimento terá como consequências:
+
+1.º O quantitativo «quádruplo do número de lugares» dos elegíveis, referido na alínea b) do n.º 18, será acrescido com esse militar, no posto a que ascendeu;
+
+2.º A lista dos militares apurados para a segunda volta, relativa ao posto a que o militar pertencia anteriormente, será completada com o mais votado dos não apurados inicialmente.
+
+> Aditado pelo/a [Portaria n.º 159/79](https://diariodarepublica.pt/dr/detalhe/portaria/159-1979-382584), publicado em 1979-04-11.
+
 28 - O apuramento dos suplentes é feito ordenando os restantes militares em função dos votos.
 
-29 - Os casos de empate são resolvidos dando prioridade aos militares que:
+29 - Os casos de empate são resolvidos consoante se trate de empates na primeira ou na segunda volta:
 
-a) Pertençam à região militar ou zona militar com o menor número de elementos eleitos;
+a) Os empates ocorridos na primeira volta não dão lugar a eliminação. Se o número de votos determinar o apuramento para a segunda volta, os militares empatados são considerados elegíveis, ainda que tal ocasione acréscimo para além do quantitativo (quádruplo) estipulado na alínea b) do n.º 18;
 
-b) Pertençam a uma unidade ou estabelecimento da arma ou serviço sem outro militar eleito;
+b) Os empates ocorridos na segunda volta são resolvidos dando prioridade aos militares que:
 
-c) Sejam mais graduados ou mais antigos.
+1.º Pertençam à região militar ou zona militar com o menor número de elementos eleitos;
+
+2.º Pertençam a uma unidade ou estabelecimento da arma ou serviço sem outro militar eleito;
+
+3.º Sejam mais graduados ou mais antigos.
+
+> Alterado pelo/a [Portaria n.º 159/79](https://diariodarepublica.pt/dr/detalhe/portaria/159-1979-382584), publicado em 1979-04-11.
 
 30 - O desempate entre oficiais faz-se sem ter em consideração os resultados relativos a sargentos, tal como o desempate entre sargentos se faz sem ter em consideração os resultados relativos a oficiais.
 
@@ -490,6 +539,70 @@ Dois primeiros-sargentos ou segundos-sargentos músicos;
 Um sargento-ajudante corneteiro ou clarim;
 
 Dois primeiros-sargentos ou segundos-sargentos corneteiros ou clarins.
+
+34-A - Após 1978, e enquanto, à data das eleições, não se verificar a existência de sargentos com o posto de sargento-mor, a composição dos conselhos das armas e serviços, no que se refere aos sargentos a nomear mediante eleição, é a seguinte:
+
+a) Conselhos das Armas de Infantaria, Artilharia, Cavalaria, Engenharia e do Serviço de Administração Militar:
+
+Um sargento-chefe;
+
+Dois sargentos-ajudantes;
+
+Cinco primeiros-sargentos ou segundos-sargentos;
+
+b) Conselho da Arma de Transmissões:
+
+A composição fixada no n.º 4;
+
+c) Conselho do Serviço de Saúde:
+
+Um sargento-chefe do ramo médico;
+
+Um sargento-ajudante do ramo médico;
+
+Dois primeiros-sargentos ou segundos-sargentos do ramo médico;
+
+Dois sargentos do ramo farmacêutico, de qualquer posto;
+
+Dois sargentos do ramo veterinário, de qualquer posto;
+
+d) Conselho do Serviço de Material:
+
+Um sargento-chefe;
+
+Três sargentos-ajudantes;
+
+Um primeiro-sargento ou segundo-sargento do ramo auto;
+
+Um primeiro-sargento ou segundo-sargento do ramo eléctrico;
+
+Um primeiro-sargento ou segundo-sargento do ramo de armamento;
+
+Um primeiro-sargento ou segundo-sargento artífice;
+
+e) Conselho do Serviço Geral:
+
+Um sargento-chefe;
+
+Três sargentos-ajudantes;
+
+Quatro primeiros-sargentos;
+
+f) Conselho das Bandas e Fanfarras:
+
+Um sargento-chefe músico;
+
+Um sargento-ajudante músico;
+
+Um primeiro-sargento ou segundo-sargento músico;
+
+Um sargento-chefe corneteiro ou clarim;
+
+Um sargento-ajudante corneteiro ou clarim;
+
+Um primeiro-sargento ou segundo-sargento corneteiro ou clarim.
+
+> Aditado pelo/a [Portaria n.º 662/78](https://diariodarepublica.pt/dr/detalhe/portaria/662-1978-325967), publicado em 1978-11-15.
 
 35 - São revogadas as Portarias n.os [368/76](https://diariodarepublica.pt/dr/detalhe/portaria/368-1976-431033), de 16 de Junho, e [745/76](https://diariodarepublica.pt/dr/detalhe/portaria/745-1976-407688), de 17 de Dezembro.
 

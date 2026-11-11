@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-02-23'
+version_history:
+  file: portaria-272-70.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1970-06-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-02-23'
+    amending: pt:dre:446897:por
+    amending_title: Portaria n.º 107/71
+    changes:
+    - Altera Artigo unidades 23-23
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:14:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 107/71. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1970/portaria-272-70.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +159,9 @@ V
 
 VI
 
-O estatuto da Caixa de Previdência e Abono de Família dos Empregados Bancários deverá entrar em vigor até ao dia 1 de Março de 1971.
+O estatuto da Caixa de Previdência e Abono de Família dos Empregados Bancários deverá entrar em vigor até ao dia 1 de Julho de 1971.
+
+> Alterado pelo/a [Portaria n.º 107/71](https://diariodarepublica.pt/dr/detalhe/portaria/107-1971-446897), publicado em 1971-02-23.
 
 VII
 

@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-08-19'
+version_history:
+  file: portaria-725-g-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-08-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-19'
+    amending: pt:dre:248073:por
+    amending_title: Portaria n.º 989-B/93; Portaria n.º 884/2009
+    changes:
+    - Altera Artigo unidades 18-18
+    - Altera Artigo unidades 23-23
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/725-g/1993/08/10/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:08:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 989-B/93; Portaria n.º
+    884/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-725-g-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -168,7 +184,9 @@ A zona BJA-1, designada por Perímetro Florestal da Salvada e da Cabeça Gorda, 
 
 No concelho de Mértola:
 
-A zona MTL-1, designada por Perímetro Florestal de Mértola, com cerca de 571 ha;
+(Revogada.)
+
+> Alterado pelo/a [Portaria n.º 989-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/989-b-1993-248073), publicado em 1993-10-07.
 
 A zona MTL-2, designada por Corte de Pinto, excedente da anterior reserva de caça com a mesma designação ainda não incluída na zona de caça social, com cerca de 1680 ha;
 
@@ -178,7 +196,9 @@ A zona MFT-1, designada por Herdade do Assumar, na freguesia do Assumar, com cer
 
 No concelho de Moura:
 
-A zona MRA-1, designada por Perímetro Florestal das Ferrarias, na freguesia de Amareleja, com cerca de 934 ha;
+(Revogada.)
+
+> Alterado pelo/a [Portaria n.º 884/2009](https://diariodarepublica.pt/dr/detalhe/portaria/884-2009-493723), publicado em 2009-08-14.
 
 No concelho de Reguengos de Monsaraz:
 

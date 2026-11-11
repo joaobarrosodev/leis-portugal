@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-12-18'
+version_history:
+  file: decreto-presidente-republica-58-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-11-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-12-18'
+    amending: pt:dre:539622:por
+    amending_title: Declaração de Rectificação n.º 21/2001
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decpresrep/58/2001/11/15/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:39:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 21/2001.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-presidente-republica/2001/decreto-presidente-republica-58-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,7 +129,9 @@ a) Quando o agente da infracção for cidadão português, mas não funcionário
 
 O agente do crime for encontrado em Portugal;
 
-Os factos cometidos forem puníveis também pela legislação do lugar em que tiverem sido praticados, salvo se nesse lugar não se exceder poder unitivo;
+Os factos cometidos forem puníveis também pela legislação do lugar em que tiverem sido praticados, salvo se nesse lugar não se exercer poder punitivo;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 21/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2001-539622), publicado em 2001-12-18.
 
 Constituírem, para além disso, crimes que admitem extradição e esta não possa ser concedida;
 

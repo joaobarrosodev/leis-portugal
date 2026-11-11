@@ -38,10 +38,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-11-27'
+version_history:
+  file: portaria-267-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-03-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-11-27'
+    amending: pt:dre:505655:por
+    amending_title: Portaria n.º 889/2004; Portaria n.º 891/2004; Portaria n.º 1286/2006; Portaria n.º 1282/2006; Portaria
+      n.º 1299/2006
+    changes:
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 11-11
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/267/1992/03/30/p/dre/pt/html
@@ -67,7 +86,9 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:15:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 889/2004; Portaria n.º
+    891/2004; Portaria n.º 1286/2006; Portaria n.º 1282/2006; Portaria n.º 1299/2006. Método e verificação: consolidacao/README.md
+    e consolidacao/piloto/portugal/portarias/1992/portaria-267-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,15 +178,25 @@ Manda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Soci
 
 1.º São criados os cursos de:
 
-a) Técnico de mecânica/manutenção industrial;
+a) (Revogada.)
 
-b) Técnico de controlo de qualidade alimentar;
+> Alterado pelo/a [Portaria n.º 889/2004](https://diariodarepublica.pt/dr/detalhe/portaria/889-2004-505655), publicado em 2004-07-21.
 
-c) Técnico de comunicação/edição gráfica;
+b) (Revogada.)
 
-d) Técnico de comunicação/técnicas jornalísticas;
+> Alterado pelo/a [Portaria n.º 891/2004](https://diariodarepublica.pt/dr/detalhe/portaria/891-2004-505657), publicado em 2004-07-21.
 
-e) Técnico de comunicação/técnicas áudio-visuais;
+c) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 1282/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1282-2006-544841), publicado em 2006-11-21.
+
+d) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 1286/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1286-2006-544835), publicado em 2006-11-21.
+
+e) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 1299/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1299-2006-544862), publicado em 2006-11-22.
 
 cujos planos de estudo se anexam.
 

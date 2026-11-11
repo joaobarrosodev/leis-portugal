@@ -1,0 +1,154 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:600677:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1982-02-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1a0280a7ceba9287",
+    "b37f269c2e108c8e",
+    "1a0016fcc5b4cdf5",
+    "e528fb699278e47a",
+    "1921139be6eade83",
+    "1bc2a84b022dceeb"
+   ]
+  },
+  {
+   "date": "1988-02-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:378302:por",
+     "title": "Portaria n.º 1016/82",
+     "published": "1982-11-03",
+     "dre_path": "/dr/detalhe/portaria/1016-1982-378302"
+    },
+    {
+     "id": "pt:dre:282970:por",
+     "title": "Portaria n.º 92/88",
+     "published": "1988-02-10",
+     "dre_path": "/dr/detalhe/portaria/92-1988-282970"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-10",
+    "Altera Artigo unidades 16-18",
+    "Altera Artigo unidades 35-38",
+    "Altera Artigo unidades 70-76",
+    "Altera Artigo unidades 93-108",
+    "Altera Artigo unidades 115-115",
+    "Adita Artigo depois da unidade 118",
+    "Altera Artigo unidades 120-126",
+    "Altera Artigo unidades 184-219"
+   ],
+   "fragments": [
+    "f9264e7934a48e31",
+    "a8fcfd38413c0a35",
+    "00d7bef5680863b9",
+    "1921139be6eade83",
+    "9b040ac25f797058"
+   ]
+  }
+ ],
+ "fragments": {
+  "1a0280a7ceba9287": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Fevereiro\n\nSob proposta da Faculdade de Ciências e Tecnologia da Universidade de Coimbra;\n\nAo abrigo do disposto no n.º 3 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, e nos Decretos-Leis n.os [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), de 7 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e das Universidades, o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade de Coimbra, através da Faculdade de Ciências e Tecnologia, concede o grau de mestre em:\n\na) Biologia Celular;\n\nb) Ciências da Computação;\n\nc) Física Experimental e Aplicada, com 3 áreas de especialização:\n\nI) Electrónica e Física Aplicada;\n\nII) Física do Estado Sólido;\n\nIII) Física da Radiação;\n\nd) Física Teórica;\n\ne) Matemática, com 2 áreas de especialização:\n\nI) Álgebra Linear e Aplicações;\n\nII) Física Matemática.\n\n2.º\n\n(Organização dos cursos)\n\nOs cursos especializados conducentes aos mestrados enumerados no n.º 1, adiante simplesmente designados por «cursos», organizam-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Estrutura curricular)\n\nOs elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são os constantes dos anexos I a V da presente portaria.\n\n4.º\n\n(Precedências)\n\nA tabela e regime de precedências de cada curso serão fixados pelo conselho científico, ouvido o conselho de departamento ou, caso este não exista, a comissão de grupo.\n\n5.º\n\n(Habilitação de acesso)\n\n1 - São admitidos à candidatura à matrícula em cada um dos cursos os titulares das licenciaturas descritas nos anexos I a V ou de licenciaturas em áreas afins ou habilitações legalmente equivalentes com a classificação mínima de 14 valores.\n\n2 - Excepcionalmente, em casos devidamente justificados, o conselho científico, ouvido o conselho de departamento ou, caso este não exista, a comissão de grupo, poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.\n\n3 - Excepcionalmente, em casos devidamente justificados, e nos termos do n.º 4 do n.º 7.º, o conselho científico, ouvido o conselho de departamento ou, caso este não exista, a comissão de grupo, poderá admitir à candidatura à matrícula os titulares de outra licenciatura pelas universidades portuguesas ou habilitação legalmente equivalente, cujo currículo demonstre uma adequada preparação científica de base.\n\n4 - Cabe ao conselho científico, ouvido o conselho de departamento ou, caso este não exista, a comissão de grupo, definir quais os cursos a incluir nas áreas afins referidas no n.º 1.\n\n6.º\n\n(«Numerus clausus»)\n\n1 - O numerus clausus de cada curso será fixado por despacho do Ministro da Educação e das Universidades.\n\n2 - Uma percentagem do numerus clausus a fixar igualmente no despacho a que se refere o número anterior será reservada a docentes de estabelecimentos de ensino superior.\n\n3 - No despacho referido no n.º 1 poderá igualmente ser fixado um número mínimo de alunos indispensável para o funcionamento de cada curso.\n\n7.º\n\n(Critérios de selecção)\n\n1 - Os candidatos à matrícula em cada curso serão seleccionados pelo conselho científico, ouvido o conselho de departamento ou, caso este não exista, a comissão de grupo, tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 5.º ou de outros graus já obtidos pelo candidato;\n\nb) Currículos académico, científico e técnico;\n\nc) Experiência docente.\n\n2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 2 do n.º 6.º, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino.\n\n3 - O conselho científico, ouvido o conselho de departamento ou, caso este não exista, a comissão de grupo, poderá submeter os candidatos à matrícula a provas académicas de selecção, para avaliação do nível daqueles nas áreas científicas de base correspondentes aos cursos, bem como determinar obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciaturas ou outras, como condição prévia para a candidatura à matrícula nos cursos.\n\n4 - Os candidatos a que se refere o n.º 3 do n.º 5.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.\n\n5 - Da selecção a que se refere o presente número não cabe recurso, salvo se arguida de vício de forma.\n\n8.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição, bem como o regime de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram os cursos, serão as previstas na lei para os cursos de licenciatura, naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza dos cursos.\n\n9.º\n\n(Calendário)\n\nOs prazos de candidatura e inscrição, bem como o calendário lectivo, serão fixados pelo despacho a que se refere o n.º 6.º\n\n10.º\n\n(Dispensa das provas complementares de doutoramento)\n\nOs titulares de aprovação em cada curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do grau de doutor nos ramos e especialidades indicadas nos anexos I a V.\n\nMinistério da Educação e das Universidades, 5 de Fevereiro de 1982. - O Ministro da Educação e das Universidades, Vítor Pereira Crespo."
+  },
+  "b37f269c2e108c8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Mestrado em Biologia Celular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Mestrado em Biologia Celular\n\n1 - Área científica do curso:\n\nBiologia Celular.\n\n2 - Duração normal do curso:\n\n2 anos lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à conclusão do curso:\n\na) Obrigatórias:\n\nI) Biologia Celular ... 3\n\nII) Bioenergética ... 3\n\nIII) Instrumentação e Tecnologia Aplicadas em Biologia ... 2\n\nb) Optativas:\n\nI) Biologia ... 12\n\nII) Bioquímica ... 12\n\nIII) Biofísica ... 12\n\nc) Seminário:\n\nI) Biologia ... 2\n\nII) Bioenergética ... 2\n\nTotal ... 22\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Biologia (ramo de especialização científica);\n\nb) Engenharia Química;\n\nc) Química (ramo de especialização científica);\n\nd) Bioquímica;\n\ne) Medicina;\n\nf) Farmácia.\n\n5 - Ramos e especialidades a que se refere o n.º 10.º:\n\na) Doutoramento em Ciências, nas especialidades de:\n\nI) Biofísica;\n\nII) Biologia Físico-Química;\n\nIII) Bioquímica;\n\nIV) Fisiologia Animal;\n\nV) Fisiologia Vegetal;\n\nVI) Genética e Biologia Molecular;\n\nVII) Microbiologia."
+  },
+  "1a0016fcc5b4cdf5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Mestrado em Ciências da Computação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Mestrado em Ciências da Computação\n\n1 - Área científica do curso:\n\nCiências da Computação.\n\n2 - Duração normal do curso:\n\n1 ano lectivo:\n\n3 - Áreas científicas obrigatórias e unidades de crédito necessárias à obtenção do curso:\n\na) Teorias da Computação ... 5,5\n\nb) Metodologia da Programação e dos Processos Algorítmicos ... 9\n\nc) Organização e Arquitectura de Sistemas ... 4\n\nTotal ... 18,5\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Matemática (ramo de especialização científica);\n\nb) Engenharia Electrotécnica.\n\n5 - Ramos e especialidades a que se refere o n.º 10.º:\n\na) Doutoramento em Ciências, na especialidade de Análise Numérica e Computação;\n\nb) Doutoramento em Engenharia, na especialidade de Engenharia Electrotécnica - Informática."
+  },
+  "e528fb699278e47a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Mestrado em Física Experimental e Aplicada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Mestrado em Física Experimental e Aplicada\n\n1 - Área científica do curso:\n\nFísica Experimental e Aplicada.\n\n2 - Duração normal do curso:\n\n1 ano lectivo.\n\n3 - Áreas científicas e unidades de crédito necessárias à conclusão do curso:\n\n3.1 - Áreas de especialização em Electrónica e Física Aplicada:\n\na) Obrigatórias:\n\nI) Electrónica e Instrumentação ... 5\n\nII) Métodos de Computação ... 5\n\nb) Optativas:\n\nI) Mecânica Quântica ... 10\n\nII) Física do Estado Sólido ... 10\n\nIII) Física Atómica e Molecular ... 10\n\nIV) Física Nuclear ... 10\n\nV) Física da Radiação ... 10\n\nVI) Biofísica ... 10\n\nVII) Estatística ... 10\n\nTotal ... 20\n\n3.2 - Áreas de especialização em Física do Estado Sólido:\n\na) Obrigatórias:\n\nI) Física do Estado Sólido ... 8\n\nII) Mecânica Quântica ... 4\n\nb) Optativas:\n\nI) Electrónica e Instrumentação ... 8\n\nII) Métodos de Computação ... 8\n\nIII) Física Atómica e Molecular ... 8\n\nIV) Física Nuclear ... 8\n\nV) Física da Radiação ... 8\n\nVI) Biofísica ... 8\n\nVII) Estatística ... 8\n\nTotal ... 20\n\n3.3 - Áreas de especialização em Física da Radiação:\n\na) Obrigatórias:\n\nI) Física da Radiação ... 6\n\nII) Mecânica Quântica ... 4\n\nIII) Física Atómica e Molecular ... 2\n\nIV) Física Nuclear ... 2\n\nb) Optativas:\n\nI) Electrónica e Instrumentação ... 6\n\nII) Métodos de Computação ... 6\n\nIII) Física do Estado Sólido ... 6\n\nIV) Biofísica ... 6\n\nV) Estatística ... 6\n\nTotal ... 20\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\n4.1 - Áreas de especialização em Electrónica e Física Aplicada:\n\na) Física (ramo de especialização científica);\n\nb) Engenharia Electrotécnica.\n\n4.2 - Área de especialização em Física do Estado Sólido e em Física da Radiação:\n\na) Física (ramo de especialização científica).\n\n5 - Ramos e especialidades a que se refere o n.º 10.º:\n\n5.1 - Área de especialização em Electrónica e Física Aplicada:\n\na) Doutoramento em Ciências, na especialidade de Electrónica e Instrumentação.\n\n5.2 - Área de especialização em Física do Estado Sólido:\n\na) Doutoramento em Ciências, na especialidade de Física do Estado Sólido.\n\n5.3 - Área de especialização em Física da Radiação:\n\na) Doutoramento em Ciências, nas especialidades de:\n\nI) Biofísica;\n\nII) Física Nuclear."
+  },
+  "1921139be6eade83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Mestrado em Física Teórica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Mestrado em Física Teórica\n\n1 - Área científica do curso:\n\nFísica Teórica.\n\n2 - Duração normal do curso:\n\n1 ano lectivo.\n\n3 - Áreas científicas obrigatórias e unidades de crédito necessárias à obtenção do curso:\n\na) Física Quântica ... 12\n\nb) Física Estatística ... 6\n\nc) Física Nuclear Teórica ... 6\n\nTotal ... 24\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Física (ramo de especialização científica).\n\n5 - Ramos e especialidades a que se refere o n.º 10.º:\n\na) Doutoramento em Ciências, na especialidade de Física Teórica."
+  },
+  "1bc2a84b022dceeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO V — Mestrado em Matemática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — Mestrado em Matemática\n\n1 - A área científica do curso nas áreas de especialização criadas no n.º 1.º da presente portaria é, respectivamente:\n\na) Álgebra Linear e Aplicações;\n\nb) Física Matemática.\n\n2 - Áreas científicas e unidades de crédito necessárias à conclusão do curso:\n\n2.1 - Áreas de especialização em Álgebra Linear e Aplicações:\n\na) Obrigatórias:\n\nI) Álgebra ... 6\n\nII) Análise Numérica ... 3\n\nIII) Análise Combinatória ... 3\n\nb) Optativas:\n\nI) Análise ... 12\n\nII) Investigação Operacional ... 12\n\nIII) Análise Funcional ... 12\n\nTotal ... 24\n\n2.2 - Áreas de especialização em Física Matemática:\n\na) Obrigatórias:\n\nI) Análise ... 6\n\nII) Geometria ... 3\n\nIII) Mecânica ... 3\n\nb) Optativas:\n\nI) Topologia ... 12\n\nII) Relatividade ... 12\n\nIII) Física Quântica ... 12\n\nTotal ... 24\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Matemática (ramo de especialização científica).\n\n5 - Ramos e especialidades a que se refere o n.º 10.º:\n\n5.1 - Área de especialização em Álgebra Linear e Aplicações:\n\na) Doutoramento em Ciências, nas especialidades de:\n\nI) Álgebra;\n\nII) Análise Numérica e Computação.\n\n5.2 - Área de especialização em Física Matemática:\n\na) Doutoramento em Ciências, nas especialidades de:\n\nI) Análise;\n\nII) Geometria e Topologia;\n\nIII) Mecânica e Física Matemática."
+  },
+  "f9264e7934a48e31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1988-02-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 92/88](https://diariodarepublica.pt/dr/detalhe/portaria/92-1988-282970), publicado em 1988-02-10.",
+    "Alterado pelo/a [Portaria n.º 92/88](https://diariodarepublica.pt/dr/detalhe/portaria/92-1988-282970), publicado em 1988-02-10.",
+    "Alterado pelo/a [Portaria n.º 92/88](https://diariodarepublica.pt/dr/detalhe/portaria/92-1988-282970), publicado em 1988-02-10."
+   ],
+   "markdown": "de 13 de Fevereiro\n\nSob proposta da Faculdade de Ciências e Tecnologia da Universidade de Coimbra;\n\nAo abrigo do disposto no n.º 3 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, e nos Decretos-Leis n.os [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), de 7 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e das Universidades, o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade de Coimbra, através da Faculdade de Ciências e Tecnologia, concede o grau de mestre em:\n\na) Biologia Celular;\n\n> Alterado pelo/a [Portaria n.º 92/88](https://diariodarepublica.pt/dr/detalhe/portaria/92-1988-282970), publicado em 1988-02-10.\n\nc) Física Experimental e Aplicada, com 3 áreas de especialização:\n\nI) Electrónica e Física Aplicada;\n\nII) Física do Estado Sólido;\n\nIII) Física da Radiação;\n\nd) Física Teórica;\n\ne) Matemática, nas seguintes áreas de especialização:\n\nI) Álgebra;\n\nII) Física Matemática;\n\nIII) Análise Numérica e Ciências da Computação;\n\nIV) Investigação Operacional;\n\nV) Ensino.\n\n> Alterado pelo/a [Portaria n.º 92/88](https://diariodarepublica.pt/dr/detalhe/portaria/92-1988-282970), publicado em 1988-02-10.\n\n2.º\n\n(Organização dos cursos)\n\nOs cursos especializados conducentes aos mestrados enumerados no n.º 1, adiante simplesmente designados por «cursos», organizam-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Estrutura curricular)\n\nOs elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são os constantes dos anexos I a V da presente portaria.\n\n4.º\n\n(Precedências)\n\nA tabela e regime de precedências de cada curso serão fixados pelo conselho científico, ouvido o conselho de departamento ou, caso este não exista, a comissão de grupo.\n\n5.º\n\n(Habilitação de acesso)\n\n1 - São admitidos à candidatura à matrícula em cada um dos cursos os titulares das licenciaturas descritas nos anexos I a V ou de licenciaturas em áreas afins ou habilitações legalmente equivalentes com a classificação mínima de 14 valores.\n\n2 - Excepcionalmente, em casos devidamente justificados, o conselho científico, ouvido o conselho de departamento ou, caso este não exista, a comissão de grupo, poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.\n\n3 - Excepcionalmente, em casos devidamente justificados, e nos termos do n.º 4 do n.º 7.º, o conselho científico, ouvido o conselho de departamento ou, caso este não exista, a comissão de grupo, poderá admitir à candidatura à matrícula os titulares de outra licenciatura pelas universidades portuguesas ou habilitação legalmente equivalente, cujo currículo demonstre uma adequada preparação científica de base.\n\n4 - Cabe ao conselho científico, ouvido o conselho de departamento ou, caso este não exista, a comissão de grupo, definir quais os cursos a incluir nas áreas afins referidas no n.º 1.\n\n6.º\n\nLimitações quantitativas\n\n1 - A matrícula e a inscrição em cada curso estão sujeitas a limitações quantitativas, a fixar anualmente por despacho do reitor da Universidade de Coimbra, ao abrigo do disposto na alínea e) do artigo 2.º do [Decreto-Lei n.º 323/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1984-400032), de 9 de Outubro, sob proposta do conselho científico, ouvido o conselho de departamento ou, caso este não exista, a comissão de grupo.\n\n2 - O despacho a que se refere o n.º 1 estabelecerá ainda:\n\na) Qual a percentagem de numerus clausus que será reservada prioritariamente a docentes de estabelecimentos de ensino superior;\n\nb) Qual a percentagem de numerus clausus que será reservada prioritariamente a candidatos que não sejam docentes de estabelecimentos de ensino superior, a qual não poderá ser inferior a 50%;\n\nc) Qual o número mínimo de inscrições indispensável ao funcionamento do curso e de cada área de especialização, que não poderá ser inferior, respectivamente, a vinte e a oito.\n\n3 - O despacho a que se refere o n.º 1 deverá ser publicado na 2.ª série do Diário da República antes do início do prazo de candidatura.\n\n> Alterado pelo/a [Portaria n.º 92/88](https://diariodarepublica.pt/dr/detalhe/portaria/92-1988-282970), publicado em 1988-02-10.\n\n7.º\n\n(Critérios de selecção)\n\n1 - Os candidatos à matrícula em cada curso serão seleccionados pelo conselho científico, ouvido o conselho de departamento ou, caso este não exista, a comissão de grupo, tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 5.º ou de outros graus já obtidos pelo candidato;\n\nb) Currículos académico, científico e técnico;\n\nc) Experiência docente.\n\n2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 2 do n.º 6.º, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino.\n\n3 - O conselho científico, ouvido o conselho de departamento ou, caso este não exista, a comissão de grupo, poderá submeter os candidatos à matrícula a provas académicas de selecção, para avaliação do nível daqueles nas áreas científicas de base correspondentes aos cursos, bem como determinar obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciaturas ou outras, como condição prévia para a candidatura à matrícula nos cursos.\n\n4 - Os candidatos a que se refere o n.º 3 do n.º 5.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.\n\n5 - Da selecção a que se refere o presente número não cabe recurso, salvo se arguida de vício de forma.\n\n8.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição, bem como o regime de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram os cursos, serão as previstas na lei para os cursos de licenciatura, naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza dos cursos.\n\n9.º\n\n(Calendário)\n\nOs prazos de candidatura e inscrição, bem como o calendário lectivo, serão fixados pelo despacho a que se refere o n.º 6.º\n\n10.º\n\n(Dispensa das provas complementares de doutoramento)\n\nOs titulares de aprovação em cada curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do grau de doutor nos ramos e especialidades indicadas nos anexos I a V.\n\nMinistério da Educação e das Universidades, 5 de Fevereiro de 1982. - O Ministro da Educação e das Universidades, Vítor Pereira Crespo."
+  },
+  "a8fcfd38413c0a35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Mestrado em Biologia Celular",
+   "in_force_from": "1988-02-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1016/82](https://diariodarepublica.pt/dr/detalhe/portaria/1016-1982-378302), publicado em 1982-11-03.",
+    "Alterado pelo/a [Portaria n.º 92/88](https://diariodarepublica.pt/dr/detalhe/portaria/92-1988-282970), publicado em 1988-02-10."
+   ],
+   "markdown": "## ANEXO I — Mestrado em Biologia Celular\n\n1 - Área científica do curso:\n\nBiologia Celular.\n\n2 - Duração normal do curso:\n\n2 anos lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à conclusão do curso:\n\na) Obrigatórias:\n\nI) Biologia Celular ... 3\n\nII) Bioenergética ... 3\n\nIII) Instrumentação e Tecnologia Aplicadas em Biologia ... 2\n\nb) Optativas:\n\nI) Biologia ... 8\n\nII) Bioquímica ... 8\n\nIII) Biofísica ... 8\n\nc) Seminário:\n\nI) Biologia ... 4\n\nII) Bioenergética ... 4\n\nTotal ... 20\n\n> Alterado pelo/a [Portaria n.º 1016/82](https://diariodarepublica.pt/dr/detalhe/portaria/1016-1982-378302), publicado em 1982-11-03.\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Biologia (ramo de especialização científica);\n\nb) Engenharia Química;\n\nc) Química (ramo de especialização científica);\n\nd) Bioquímica;\n\ne) Medicina;\n\nf) Farmácia.\n\n5 - Ramos e especialidades a que se refere o n.º 10.º:\n\na) Doutoramento em Ciências, nas especialidades de:\n\nI) Biofísica;\n\nII) Biologia Físico-Química;\n\nIII) Bioquímica;\n\nIV) Fisiologia Animal;\n\nV) Fisiologia Vegetal;\n\nVI) Genética e Biologia Molecular;\n\nVII) Microbiologia.\n\n> Alterado pelo/a [Portaria n.º 92/88](https://diariodarepublica.pt/dr/detalhe/portaria/92-1988-282970), publicado em 1988-02-10."
+  },
+  "00d7bef5680863b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Mestrado em Física Experimental e Aplicada",
+   "in_force_from": "1988-02-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1016/82](https://diariodarepublica.pt/dr/detalhe/portaria/1016-1982-378302), publicado em 1982-11-03.",
+    "Aditado pelo/a [Portaria n.º 1016/82](https://diariodarepublica.pt/dr/detalhe/portaria/1016-1982-378302), publicado em 1982-11-03.",
+    "Alterado pelo/a [Portaria n.º 1016/82](https://diariodarepublica.pt/dr/detalhe/portaria/1016-1982-378302), publicado em 1982-11-03."
+   ],
+   "markdown": "## ANEXO III — Mestrado em Física Experimental e Aplicada\n\n1 - Área científica do curso:\n\nFísica Experimental e Aplicada.\n\n2 - Duração normal do curso:\n\n1 ano lectivo.\n\n3 - Áreas científicas e unidades de crédito necessárias à conclusão do curso:\n\n3.1 - Área de especialização em Electrónica e Física Aplicada:\n\n> Alterado pelo/a [Portaria n.º 1016/82](https://diariodarepublica.pt/dr/detalhe/portaria/1016-1982-378302), publicado em 1982-11-03.\n\na) Obrigatórias:\n\nI) Electrónica e Instrumentação ... 5\n\nII) Métodos de Computação ... 5\n\nIII) Mecânica Quântica ... 4\n\n> Aditado pelo/a [Portaria n.º 1016/82](https://diariodarepublica.pt/dr/detalhe/portaria/1016-1982-378302), publicado em 1982-11-03.\n\nb) Optativas:\n\nI) Física do Estado Sólido ... 6\n\nII) Física Atómica e Molecular ... 6\n\nIII) Física Nuclear ... 6\n\nIV) Física de Radiação ... 6\n\nV) Biofísica ... 6\n\nVI) Estatística ... 6\n\n> Alterado pelo/a [Portaria n.º 1016/82](https://diariodarepublica.pt/dr/detalhe/portaria/1016-1982-378302), publicado em 1982-11-03.\n\nTotal ... 20\n\n3.2 - Áreas de especialização em Física do Estado Sólido:\n\na) Obrigatórias:\n\nI) Física do Estado Sólido ... 8\n\nII) Mecânica Quântica ... 4\n\nb) Optativas:\n\nI) Electrónica e Instrumentação ... 8\n\nII) Métodos de Computação ... 8\n\nIII) Física Atómica e Molecular ... 8\n\nIV) Física Nuclear ... 8\n\nV) Física da Radiação ... 8\n\nVI) Biofísica ... 8\n\nVII) Estatística ... 8\n\nTotal ... 20\n\n3.3 - Áreas de especialização em Física da Radiação:\n\na) Obrigatórias:\n\nI) Física da Radiação ... 6\n\nII) Mecânica Quântica ... 4\n\nIII) Física Atómica e Molecular ... 2\n\nIV) Física Nuclear ... 2\n\nb) Optativas:\n\nI) Electrónica e Instrumentação ... 6\n\nII) Métodos de Computação ... 6\n\nIII) Física do Estado Sólido ... 6\n\nIV) Biofísica ... 6\n\nV) Estatística ... 6\n\nTotal ... 20\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\n4.1 - Áreas de especialização em Electrónica e Física Aplicada:\n\na) Física (ramo de especialização científica);\n\nb) Engenharia Electrotécnica.\n\n4.2 - Área de especialização em Física do Estado Sólido e em Física da Radiação:\n\na) Física (ramo de especialização científica).\n\n5 - Ramos e especialidades a que se refere o n.º 10.º:\n\n5.1 - Área de especialização em Electrónica e Física Aplicada:\n\na) Doutoramento em Ciências, na especialidade de Electrónica e Instrumentação.\n\n5.2 - Área de especialização em Física do Estado Sólido:\n\na) Doutoramento em Ciências, na especialidade de Física do Estado Sólido.\n\n5.3 - Área de especialização em Física da Radiação:\n\na) Doutoramento em Ciências, nas especialidades de:\n\nI) Biofísica;\n\nII) Física Nuclear."
+  },
+  "9b040ac25f797058": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO V — Mestrado em Matemática",
+   "in_force_from": "1988-02-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 92/88](https://diariodarepublica.pt/dr/detalhe/portaria/92-1988-282970), publicado em 1988-02-10."
+   ],
+   "markdown": "## ANEXO V — Mestrado em Matemática\n\n1 - Área científica do curso:\n\nMatemática.\n\n2 - Duração normal do curso:\n\n1 ano lectivo.\n\n3 - Áreas científicas e unidades de crédito necessárias à conclusão do concurso:\n\n3.1 - Áreas científicas obrigatórias para cada área de especialização:\n\n3.1.1 - Área de especialização em Álgebra:\n\na) Álgebra ... 12\n\n3.1.2 - Área de especialização em Física Matemática:\n\na) Física Matemática ... 12\n\n3.1.3 - Área de especialização em Análise Numérica e Ciências da Computação:\n\na) Análise Numérica ... 6\n\nb) Ciências da Computação ... 6\n\n3.1.4 - Área de especialização em Investigação Operacional:\n\na) Investigação Operacional ... 12\n\n3.1.5 - Área de especialização em Ensino:\n\na) História da Matemática ... 3\n\nb) Metodologia da Matemática ... 6\n\nc) Didáctica da Matemática ... 3\n\n3.2 - Áreas científicas optativas comuns a todas as áreas de especialização:\n\na) Todas as áreas científicas indicadas no n.º 3.1 ... 6\n\nb) Análise ... 6\n\nc) Geometria e Topologia ... 6\n\nd) Mecânica ... 6\n\ne) Probabilidades e Estatística ... 6\n\nf) Lógica e Fundamentos ... 6\n\ng) Teoria Combinatória ... 6\n\nh) Relatividade ... 6\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Matemática.\n\n5 - Ramos e especialidades a que se refere o n.º 10.º:\n\na) Doutoramento em Ciências, nas especialidades de:\n\nI) Álgebra;\n\nII) Análise;\n\nIII) Geometria e Topologia;\n\nIV) Mecânica e Física Matemática;\n\nV) Astronomia e Geodesia;\n\nVI) Análise Numérica e Computação;\n\nVII) Probabilidades e Estatística;\n\nVIII) Investigação Operacional;\n\nIX) História e Metodologia da Matemática.\n\n> Alterado pelo/a [Portaria n.º 92/88](https://diariodarepublica.pt/dr/detalhe/portaria/92-1988-282970), publicado em 1988-02-10."
+  }
+ }
+}

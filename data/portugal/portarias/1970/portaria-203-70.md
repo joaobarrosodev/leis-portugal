@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-08-06'
+version_history:
+  file: portaria-203-70.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1970-04-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-08-06'
+    amending: pt:dre:377897:por
+    amending_title: Portaria n.º 397/79
+    changes:
+    - Altera Artigo unidades 33-33
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:12:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 397/79. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1970/portaria-203-70.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -166,7 +181,7 @@ Medicamentos e acessórios médicos
 
 14. Os militares da Armada prestando serviço efectivo têm direito, gratuitamente, aos medicamentos e outro material necessário ao seu tratamento, os quais são fornecidos pela Farmácia Central da Marinha:
 
-a) Directamente pela Farmácia, quando prescritos nas consultas externas do Hospital da Marinha, mediante apresentação da respectiva receita médica;
+> Alterado pelo/a [Portaria n.º 397/79](https://diariodarepublica.pt/dr/detalhe/portaria/397-1979-377897), publicado em 1979-08-06.
 
 b) Através do Hospital da Marinha, para os internados, mediante requisição do respectivo serviço do Hospital;
 

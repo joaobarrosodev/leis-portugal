@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:312612:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-03-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "37d22b41921b0933"
+   ]
+  },
+  {
+   "date": "1984-07-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:455428:por",
+     "title": "Portaria n.º 842/83",
+     "published": "1983-08-20",
+     "dre_path": "/dr/detalhe/portaria/842-1983-455428"
+    },
+    {
+     "id": "pt:dre:385983:por",
+     "title": "Portaria n.º 452/84",
+     "published": "1984-07-12",
+     "dre_path": "/dr/detalhe/portaria/452-1984-385983"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 9-9",
+    "Altera Artigo unidades 12-12"
+   ],
+   "fragments": [
+    "224fab2898b75954"
+   ]
+  }
+ ],
+ "fragments": {
+  "37d22b41921b0933": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Março\n\nConsiderando que convém adaptar a composição do conselho geral do Laboratório Nacional de Engenharia e Tecnologia Industrial (LNETI) à estrutura actual desta instituição;\n\nConsiderando que a lei orgânica do LNETI ([Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro) prevê a possibilidade de alteração da composição daquele órgão;\n\nConsiderando que se torna necessário concretizar a escolha dos membros eleitos:\n\nManda o Governo da República Portuguesa, pelo Ministro da Indústria, Energia e Exportação, ao abrigo do n.º 2 do artigo 11.º do [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro, aprovar o seguinte:\n\n1.º O conselho geral do Laboratório Nacional de Engenharia e Tecnologia Industrial (LNETI) é constituído:\n\na) Pelo presidente e pelo vice-presidente do LNETI;\n\nb) Pelos directores dos institutos e dos departamentos não integrados em institutos;\n\nc) Pelos directores dos serviços de relações exteriores, dos serviços administrativos e dos serviços de finanças e património;\n\nd) Pelo coordenador da assessoria jurídica;\n\ne) Por 6 representantes eleitos de entre o pessoal de investigação e técnico superior.\n\n2.º Os membros referidos na alínea e) do número anterior serão eleitos pela forma seguinte:\n\na) Um de entre o pessoal dos departamentos do Instituto de Tecnologia Industrial referidos nas alíneas a), b) e c) do artigo 22.º do [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663);\n\nb) Outro de entre o pessoal dos departamentos do Instituto de Tecnologia Industrial a que se referem as alíneas d) e e) do citado artigo 22.º;\n\nc) Outro de entre o pessoal dos departamentos do Instituto de Energia referidos nas alíneas a) e b) do artigo 23.º do mesmo decreto-lei;\n\nd) Outro de entre o pessoal dos departamentos do Instituto de Energia a que se referem as alíneas c) e d) do mesmo artigo 23.º;\n\ne) Outro de entre o pessoal do Departamento de Protecção e Segurança Radiológica;\n\nf) Outro de entre todos os departamentos referidos no artigo 27.º do [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663).\n\n3.º O conselho geral é presidido pelo presidente do LNETI e, nas suas ausências ou impedimentos, pelo vice-presidente.\n\n4.º A eleição dos membros referidos na alínea e) do n.º 1 deverá estar ultimada no prazo de 60 dias a contar da data da entrada em vigor da presente portaria.\n\n5.º É revogada a [Portaria n.º 522/80](https://diariodarepublica.pt/dr/detalhe/portaria/522-1980-470822), de 14 de Agosto.\n\n6.º Esta portaria entra imediatamente em vigor.\n\nMinistério da Indústria, Energia e Exportação, 10 de Março de 1983. - O Ministro da Indústria, Energia e Exportação, Ricardo Manuel Simões Bayão Horta."
+  },
+  "224fab2898b75954": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1984-07-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 452/84](https://diariodarepublica.pt/dr/detalhe/portaria/452-1984-385983), publicado em 1984-07-12.",
+    "Alterado pelo/a [Portaria n.º 842/83](https://diariodarepublica.pt/dr/detalhe/portaria/842-1983-455428), publicado em 1983-08-20."
+   ],
+   "markdown": "de 28 de Março\n\nConsiderando que convém adaptar a composição do conselho geral do Laboratório Nacional de Engenharia e Tecnologia Industrial (LNETI) à estrutura actual desta instituição;\n\nConsiderando que a lei orgânica do LNETI ([Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro) prevê a possibilidade de alteração da composição daquele órgão;\n\nConsiderando que se torna necessário concretizar a escolha dos membros eleitos:\n\nManda o Governo da República Portuguesa, pelo Ministro da Indústria, Energia e Exportação, ao abrigo do n.º 2 do artigo 11.º do [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro, aprovar o seguinte:\n\n1.º O conselho geral do Laboratório Nacional de Engenharia e Tecnologia Industrial (LNETI) é constituído:\n\na) Pelo presidente e pelo vice-presidente do LNETI;\n\nb) Pelos directores dos institutos e dos departamentos;\n\n> Alterado pelo/a [Portaria n.º 452/84](https://diariodarepublica.pt/dr/detalhe/portaria/452-1984-385983), publicado em 1984-07-12.\n\nc) Pelos directores dos serviços de relações exteriores, dos serviços administrativos e dos serviços de finanças e património;\n\nd) Pelo coordenador da assessoria jurídica;\n\ne) Por 6 representantes eleitos de entre o pessoal de investigação e técnico superior, bem como pessoal dirigente oriundo destas carreiras, não incluído nas alíneas a), b), c) e d).\n\n> Alterado pelo/a [Portaria n.º 842/83](https://diariodarepublica.pt/dr/detalhe/portaria/842-1983-455428), publicado em 1983-08-20.\n\n2.º Os membros referidos na alínea e) do número anterior serão eleitos pela forma seguinte:\n\na) Um de entre o pessoal dos departamentos do Instituto de Tecnologia Industrial referidos nas alíneas a), b) e c) do artigo 22.º do [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663);\n\nb) Outro de entre o pessoal dos departamentos do Instituto de Tecnologia Industrial a que se referem as alíneas d) e e) do citado artigo 22.º;\n\nc) Outro de entre o pessoal dos departamentos do Instituto de Energia referidos nas alíneas a) e b) do artigo 23.º do mesmo decreto-lei;\n\nd) Outro de entre o pessoal dos departamentos do Instituto de Energia a que se referem as alíneas c) e d) do mesmo artigo 23.º;\n\ne) Outro de entre o pessoal do Departamento de Protecção e Segurança Radiológica;\n\nf) Outro de entre todos os departamentos referidos no artigo 27.º do [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663).\n\n3.º O conselho geral é presidido pelo presidente do LNETI e, nas suas ausências ou impedimentos, pelo vice-presidente.\n\n4.º A eleição dos membros referidos na alínea e) do n.º 1 deverá estar ultimada no prazo de 60 dias a contar da data da entrada em vigor da presente portaria.\n\n5.º É revogada a [Portaria n.º 522/80](https://diariodarepublica.pt/dr/detalhe/portaria/522-1980-470822), de 14 de Agosto.\n\n6.º Esta portaria entra imediatamente em vigor.\n\nMinistério da Indústria, Energia e Exportação, 10 de Março de 1983. - O Ministro da Indústria, Energia e Exportação, Ricardo Manuel Simões Bayão Horta."
+  }
+ }
+}

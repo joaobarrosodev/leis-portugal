@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-08-27'
+version_history:
+  file: portaria-764-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-12-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-08-27'
+    amending: pt:dre:618538:por
+    amending_title: Portaria n.º 704/89
+    changes:
+    - Altera Artigo unidades 4-4
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:58:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 704/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-764-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,11 +138,15 @@ de 26 de Dezembro
 
 Nos termos do artigo 15.º do [Decreto-Lei n.º 172-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-1986-518811), de 30 de Junho, manda o Governo da República Portuguesa, pelo Ministro das Finanças, o seguinte:
 
-1.º A taxa de juro anual aplicável no cálculo do valor de reembolso dos certificados de aforro da série B será a taxa de referência fixada nos termos do artigo 1.º do [Decreto-Lei n.º 311-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-a-1985-393610), de 30 de Julho, abatida do diferencial de 2,25%, que estiver em vigor no início de cada período trimestral de capitalização.
+1.º Aos certificados de aforro da série B emitidos até 31 de Maio de 1989 será aplicada, no termo dos respectivos prazos de garantia, a taxa de juro correspondente à taxa líquida que resulte da aplicação da taxa liberatória do IRS à taxa anual nominal bruta definida pela [Portaria n.º 314-A/89](https://diariodarepublica.pt/dr/detalhe/portaria/314-a-1989-424311), de 3 de Maio.
+
+> Alterado pelo/a [Portaria n.º 704/89](https://diariodarepublica.pt/dr/detalhe/portaria/704-1989-618538), publicado em 1989-08-22.
 
 2.º Por cada ano de vida do certificado além do primeiro, a taxa a que se refere o número anterior irá sendo acrescida de 0,5% ao ano, até ao 5.º ano.
 
-3.º A partir de 1 de Janeiro de 1987, as taxas de juro trimestrais serão as taxas equivalentes às taxas anuais referidas nos números anteriores.
+3.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 704/89](https://diariodarepublica.pt/dr/detalhe/portaria/704-1989-618538), publicado em 1989-08-22.
 
 4.º O limite máximo de certificados de aforro a subscrever pelo mesmo titular não poderá exceder o valor de 10000 contos.
 

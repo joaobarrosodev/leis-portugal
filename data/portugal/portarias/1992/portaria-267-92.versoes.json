@@ -1,0 +1,88 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:189938:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-03-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2bb03480eadf028f"
+   ]
+  },
+  {
+   "date": "2006-11-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:505655:por",
+     "title": "Portaria n.º 889/2004",
+     "published": "2004-07-21",
+     "dre_path": "/dr/detalhe/portaria/889-2004-505655"
+    },
+    {
+     "id": "pt:dre:505657:por",
+     "title": "Portaria n.º 891/2004",
+     "published": "2004-07-21",
+     "dre_path": "/dr/detalhe/portaria/891-2004-505657"
+    },
+    {
+     "id": "pt:dre:544835:por",
+     "title": "Portaria n.º 1286/2006",
+     "published": "2006-11-21",
+     "dre_path": "/dr/detalhe/portaria/1286-2006-544835"
+    },
+    {
+     "id": "pt:dre:544841:por",
+     "title": "Portaria n.º 1282/2006",
+     "published": "2006-11-21",
+     "dre_path": "/dr/detalhe/portaria/1282-2006-544841"
+    },
+    {
+     "id": "pt:dre:544862:por",
+     "title": "Portaria n.º 1299/2006",
+     "published": "2006-11-22",
+     "dre_path": "/dr/detalhe/portaria/1299-2006-544862"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8",
+    "Altera Artigo unidades 9-9",
+    "Altera Artigo unidades 10-10",
+    "Altera Artigo unidades 11-11",
+    "Altera Artigo unidades 12-12"
+   ],
+   "fragments": [
+    "259d927a62622564"
+   ]
+  }
+ ],
+ "fragments": {
+  "2bb03480eadf028f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Março\n\nO [Decreto-Lei n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1989-609609), de 21 de Janeiro, cria as escolas profissionais no quadro do «relançamento do ensino profissional e reforço das diversas modalidades de formação profissional, que se pretendem levar a cabo fundamentalmente através da acção conjunta dos Ministérios da Educação e do Emprego e da Segurança Social, em estreita cooperação com outros ministérios e ainda com várias entidades públicas ou privadas, tentando capitalizar estruturas e recursos disponíveis, o que, aliás, vem na sequência de orientações definidas em conjunto pelos Ministérios».\n\nPor força das referidas disposições legais e em particular dos n.os 1, 2 e 4 do artigo 4.º e dos n.os 1, 2 e 3 do artigo 6.º do [Decreto-Lei n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1989-609609), de 21 de Janeiro, torna-se necessário criar mais cursos a funcionar na Escola Profissional Cirius, criada por contrato-programa ao abrigo do citado decreto-lei.\n\nAssim:\n\nManda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Social, o seguinte:\n\n1.º São criados os cursos de:\n\na) Técnico de mecânica/manutenção industrial;\n\nb) Técnico de controlo de qualidade alimentar;\n\nc) Técnico de comunicação/edição gráfica;\n\nd) Técnico de comunicação/técnicas jornalísticas;\n\ne) Técnico de comunicação/técnicas áudio-visuais;\n\ncujos planos de estudo se anexam.\n\n2.º Aos alunos que concluírem, com aproveitamento, os cursos aprovados no n.º 1.º será atribuído um certificado de nível 3 de qualificação profissional e um certificado equivalente ao 12.º ano.\n\nMinistérios da Educação e do Emprego e da Segurança Social.\n\nAssinada em 25 de Fevereiro de 1992.\n\nO Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/075b00/14901491.pdf)"
+  },
+  "259d927a62622564": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-11-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 889/2004](https://diariodarepublica.pt/dr/detalhe/portaria/889-2004-505655), publicado em 2004-07-21.",
+    "Alterado pelo/a [Portaria n.º 891/2004](https://diariodarepublica.pt/dr/detalhe/portaria/891-2004-505657), publicado em 2004-07-21.",
+    "Alterado pelo/a [Portaria n.º 1282/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1282-2006-544841), publicado em 2006-11-21.",
+    "Alterado pelo/a [Portaria n.º 1286/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1286-2006-544835), publicado em 2006-11-21.",
+    "Alterado pelo/a [Portaria n.º 1299/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1299-2006-544862), publicado em 2006-11-22."
+   ],
+   "markdown": "de 30 de Março\n\nO [Decreto-Lei n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1989-609609), de 21 de Janeiro, cria as escolas profissionais no quadro do «relançamento do ensino profissional e reforço das diversas modalidades de formação profissional, que se pretendem levar a cabo fundamentalmente através da acção conjunta dos Ministérios da Educação e do Emprego e da Segurança Social, em estreita cooperação com outros ministérios e ainda com várias entidades públicas ou privadas, tentando capitalizar estruturas e recursos disponíveis, o que, aliás, vem na sequência de orientações definidas em conjunto pelos Ministérios».\n\nPor força das referidas disposições legais e em particular dos n.os 1, 2 e 4 do artigo 4.º e dos n.os 1, 2 e 3 do artigo 6.º do [Decreto-Lei n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1989-609609), de 21 de Janeiro, torna-se necessário criar mais cursos a funcionar na Escola Profissional Cirius, criada por contrato-programa ao abrigo do citado decreto-lei.\n\nAssim:\n\nManda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Social, o seguinte:\n\n1.º São criados os cursos de:\n\na) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 889/2004](https://diariodarepublica.pt/dr/detalhe/portaria/889-2004-505655), publicado em 2004-07-21.\n\nb) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 891/2004](https://diariodarepublica.pt/dr/detalhe/portaria/891-2004-505657), publicado em 2004-07-21.\n\nc) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 1282/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1282-2006-544841), publicado em 2006-11-21.\n\nd) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 1286/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1286-2006-544835), publicado em 2006-11-21.\n\ne) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 1299/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1299-2006-544862), publicado em 2006-11-22.\n\ncujos planos de estudo se anexam.\n\n2.º Aos alunos que concluírem, com aproveitamento, os cursos aprovados no n.º 1.º será atribuído um certificado de nível 3 de qualificação profissional e um certificado equivalente ao 12.º ano.\n\nMinistérios da Educação e do Emprego e da Segurança Social.\n\nAssinada em 25 de Fevereiro de 1992.\n\nO Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/075b00/14901491.pdf)"
+  }
+ }
+}

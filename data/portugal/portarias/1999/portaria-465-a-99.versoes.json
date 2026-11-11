@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:291864:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-06-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "898e8a19f3b7f7ae"
+   ]
+  },
+  {
+   "date": "2004-02-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:693832:por",
+     "title": "Portaria n.º 149-B/2004",
+     "published": "2004-02-12",
+     "dre_path": "/dr/detalhe/portaria/149-b-2004-693832"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-9"
+   ],
+   "fragments": [
+    "145d2347b0c90f89"
+   ]
+  }
+ ],
+ "fragments": {
+  "898e8a19f3b7f7ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Junho\n\nNo âmbito da preparação do mercado das telecomunicações para a liberalização do serviço fixo de telefone em 1 de Janeiro de 2000, promoveu o Instituto das Comunicações de Portugal (ICP) uma consulta pública para manifestação de interesses na utilização de sistemas de acesso fixo via rádio (FWA).\n\nEsta acção, motivada pelo reconhecimento da importância do acesso fixo via rádio para a oferta, nas melhores condições económicas, de novos serviços de telecomunicações, visa a promoção de novos serviços e plataformas tecnológicas.\n\nAssume vital importância na atribuição de frequências para FWA a fixação de uma disciplina tarifária especial no que se refere à utilização do domínio público radioeléctrico, que promova e incentive a sua eficiente e correcta utilização.\n\nAssim:\n\nManda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administração do Território, nos termos do disposto no n.º 1 do artigo 9.º do [Decreto-Lei n.º 207/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1992-233310), de 2 de Outubro, o seguinte:\n\n1.º A utilização de cada bloco de frequências atribuído para o acesso fixo via rádio fica sujeita ao pagamento de taxas anuais constantes do quadro seguinte:\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146b01/00020002.pdf)\n\nZona A: integra os concelhos das seguintes unidades de nível 3 da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS), estabelecida pelo [Decreto-Lei n.º 46/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), de 15 de Fevereiro, na redacção dada pelo [Decreto-Lei n.º 163/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1999-321718), de 13 de Maio:\n\nMinho-Lima;\n\nCávado;\n\nAve;\n\nTâmega;\n\nEntre Douro e Vouga;\n\nDouro;\n\nAlto Trás-os-Montes;\n\nPinhal Interior Norte;\n\nPinhal Interior Sul;\n\nDão-Lafões;\n\nBaixo Alentejo;\n\nRegião Autónoma dos Açores;\n\nRegião Autónoma da Madeira.\n\nZona B: integra os concelhos das seguintes unidades de nível 3 da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS), estabelecida pelo [Decreto-Lei n.º 46/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), de 15 de Fevereiro, na redacção dada pelo [Decreto-Lei n.º 163/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1999-321718), de 13 de Maio:\n\nBaixo Vouga;\n\nBaixo Mondego;\n\nPinhal Litoral;\n\nSerra da Estrela;\n\nBeira Interior Norte;\n\nBeira Interior Sul;\n\nCova da Beira;\n\nOeste;\n\nMédio Tejo;\n\nLezíria do Tejo;\n\nAlentejo Litoral;\n\nAlto Alentejo;\n\nAlentejo Central.\n\n2.º As taxas anuais fixadas nos termos do número anterior são pagas antecipadamente no mês de Janeiro, salvo se outra data for fixada pelo Instituto das Comunicações de Portugal (ICP).\n\n3.º Se a atribuição das frequências tiver início no decurso do ano civil, a taxa anual é devida apenas na quota-parte do número de meses que restam até ao final desse mesmo ano civil, considerando-se, para o efeito, toda a fracção de um mês como um mês completo.\n\n4.º As taxas previstas no n.º 1.º poderão ser revistas num prazo de dois anos.\n\n5.º As entidades licenciadas para a utilização de frequências para o acesso fixo via rádio ficam ainda sujeitas ao pagamento das demais taxas previstas para as radiocomunicações de uso público - serviço móvel terrestre -, constantes do tarifário dos serviços de radiocomunicações, nos termos do [Decreto-Lei n.º 207/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1992-233310), de 2 de Outubro.\n\nO Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 24 de Junho de 1999."
+  },
+  "145d2347b0c90f89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2004-02-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 149-B/2004](https://diariodarepublica.pt/dr/detalhe/portaria/149-b-2004-693832), publicado em 2004-02-12."
+   ],
+   "markdown": "de 25 de Junho\n\nNo âmbito da preparação do mercado das telecomunicações para a liberalização do serviço fixo de telefone em 1 de Janeiro de 2000, promoveu o Instituto das Comunicações de Portugal (ICP) uma consulta pública para manifestação de interesses na utilização de sistemas de acesso fixo via rádio (FWA).\n\nEsta acção, motivada pelo reconhecimento da importância do acesso fixo via rádio para a oferta, nas melhores condições económicas, de novos serviços de telecomunicações, visa a promoção de novos serviços e plataformas tecnológicas.\n\nAssume vital importância na atribuição de frequências para FWA a fixação de uma disciplina tarifária especial no que se refere à utilização do domínio público radioeléctrico, que promova e incentive a sua eficiente e correcta utilização.\n\nAssim:\n\nManda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administração do Território, nos termos do disposto no n.º 1 do artigo 9.º do [Decreto-Lei n.º 207/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1992-233310), de 2 de Outubro, o seguinte:\n\n1.º A utilização de cada bloco de frequências atribuído para o acesso fixo via rádio fica sujeita ao pagamento das taxas anuais constantes do quadro seguinte:\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/036b01/00020009.pdf)\n\nRelativamente às faixas 3400-3800 MHz e 24,5-26,5 GHz, aplica-se a fórmula abaixo indicada, se no ano anterior tiverem sido adicionalmente instaladas novas estações de base nas regiões A e ou B:\n\nT(índice i) = (euro) 304260 [1 - 0,45 ((Delta)EB(índice A)/(Delta)EB)(índice i - 1) - 0,30 ((Delta)EB(índice B)/(Delta)EB)(índice i - 1)]\n\nLegenda:\n\nT(índice i): taxa anual de utilização do espectro referente à licença aplicável no ano i;\n\n(Delta)EB(índice A): número de novas estações de base instaladas adicionalmente pelo operador/prestador na zona A no ano i - 1;\n\n(Delta)EB(índice B): número de novas estações de base instaladas adicionalmente pelo operador/prestador na zona B no ano i - 1;\n\n(Delta)EB: número total de novas estações de base instaladas adicionalmente no País pelo operador/prestador durante o ano i - 1.\n\n> Alterado pelo/a [Portaria n.º 149-B/2004](https://diariodarepublica.pt/dr/detalhe/portaria/149-b-2004-693832), publicado em 2004-02-12.\n\nZona A: integra os concelhos das seguintes unidades de nível 3 da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS), estabelecida pelo [Decreto-Lei n.º 46/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), de 15 de Fevereiro, na redacção dada pelo [Decreto-Lei n.º 163/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1999-321718), de 13 de Maio:\n\nMinho-Lima;\n\nCávado;\n\nAve;\n\nTâmega;\n\nEntre Douro e Vouga;\n\nDouro;\n\nAlto Trás-os-Montes;\n\nPinhal Interior Norte;\n\nPinhal Interior Sul;\n\nDão-Lafões;\n\nBaixo Alentejo;\n\nRegião Autónoma dos Açores;\n\nRegião Autónoma da Madeira.\n\nZona B: integra os concelhos das seguintes unidades de nível 3 da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS), estabelecida pelo [Decreto-Lei n.º 46/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), de 15 de Fevereiro, na redacção dada pelo [Decreto-Lei n.º 163/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1999-321718), de 13 de Maio:\n\nBaixo Vouga;\n\nBaixo Mondego;\n\nPinhal Litoral;\n\nSerra da Estrela;\n\nBeira Interior Norte;\n\nBeira Interior Sul;\n\nCova da Beira;\n\nOeste;\n\nMédio Tejo;\n\nLezíria do Tejo;\n\nAlentejo Litoral;\n\nAlto Alentejo;\n\nAlentejo Central.\n\n2.º As taxas anuais fixadas nos termos do número anterior são pagas antecipadamente no mês de Janeiro, salvo se outra data for fixada pelo Instituto das Comunicações de Portugal (ICP).\n\n3.º Se a atribuição das frequências tiver início no decurso do ano civil, a taxa anual é devida apenas na quota-parte do número de meses que restam até ao final desse mesmo ano civil, considerando-se, para o efeito, toda a fracção de um mês como um mês completo.\n\n4.º As taxas previstas no n.º 1.º poderão ser revistas num prazo de dois anos.\n\n5.º As entidades licenciadas para a utilização de frequências para o acesso fixo via rádio ficam ainda sujeitas ao pagamento das demais taxas previstas para as radiocomunicações de uso público - serviço móvel terrestre -, constantes do tarifário dos serviços de radiocomunicações, nos termos do [Decreto-Lei n.º 207/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1992-233310), de 2 de Outubro.\n\nO Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho, em 24 de Junho de 1999."
+  }
+ }
+}

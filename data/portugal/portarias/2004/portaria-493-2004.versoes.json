@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:301806:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2004-05-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "826a218a1a8b419b"
+   ]
+  },
+  {
+   "date": "2005-04-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:546622:por",
+     "title": "Portaria n.º 416/2005",
+     "published": "2005-04-13",
+     "dre_path": "/dr/detalhe/portaria/416-2005-546622"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "f517a61f7d960653"
+   ]
+  }
+ ],
+ "fragments": {
+  "826a218a1a8b419b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Maio\n\nCom fundamento no disposto no artigo 25.º e no n.º 1 do artigo 114.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvido o Conselho Cinegético Municipal de Silves:\n\nManda o Governo, pelos Ministros da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Enxerim (processo n.º 3437-DGF), pelo período de seis anos, e transferida a sua gestão para o Grupo Desportivo e Cultural do Enxerim, com o número de pessoa colectiva 501652477, com sede em Enxerim, 8300-025 Silves.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Silves, com a área de 10859,40 ha.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 60%, relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 20%, relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 10%, relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 10% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva direcção regional de agricultura, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça municipal será obrigatoriamente sinalizada com tabuletas do modelo n.º 2 e sinal do modelo n.º 10, definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro.\n\n7.º A eficácia da transferência está dependente de prévia sinalização, de acordo com as condições definidas na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974).\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 26 de Novembro de 2003. - Pelo Ministro das Cidades, Ordenamento do Território e Ambiente, Joaquim Paulo Taveira de Sousa, Secretário de Estado do Ordenamento do Território, em 16 de Abril de 2004.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/05/105b00/28942894.pdf)"
+  },
+  "f517a61f7d960653": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2005-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 416/2005](https://diariodarepublica.pt/dr/detalhe/portaria/416-2005-546622), publicado em 2005-04-13."
+   ],
+   "markdown": "de 5 de Maio\n\nCom fundamento no disposto no artigo 25.º e no n.º 1 do artigo 114.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvido o Conselho Cinegético Municipal de Silves:\n\nManda o Governo, pelos Ministros da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Enxerim (processo n.º 3437-DGF), pelo período de seis anos, e transferida a sua gestão para o Grupo Desportivo e Cultural do Enxerim, com o número de pessoa colectiva 501652477, com sede em Enxerim, 8300-025 Silves.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Silves, com a área de 10594 ha.\n\n> Alterado pelo/a [Portaria n.º 416/2005](https://diariodarepublica.pt/dr/detalhe/portaria/416-2005-546622), publicado em 2005-04-13.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 60%, relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 20%, relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 10%, relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 10% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva direcção regional de agricultura, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça municipal será obrigatoriamente sinalizada com tabuletas do modelo n.º 2 e sinal do modelo n.º 10, definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro.\n\n7.º A eficácia da transferência está dependente de prévia sinalização, de acordo com as condições definidas na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974).\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 26 de Novembro de 2003. - Pelo Ministro das Cidades, Ordenamento do Território e Ambiente, Joaquim Paulo Taveira de Sousa, Secretário de Estado do Ordenamento do Território, em 16 de Abril de 2004.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/05/105b00/28942894.pdf)"
+  }
+ }
+}

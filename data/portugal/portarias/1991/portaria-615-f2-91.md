@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-09-23'
+version_history:
+  file: portaria-615-f2-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-07-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-09-23'
+    amending: pt:dre:241662:por
+    amending_title: Portaria n.º 796/98
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/615-f2/1991/07/08/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:54:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 796/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-615-f2-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,7 +165,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias do Pereiro e da Atalaia, concelho de Pinhel, com uma área de 2994 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias do Pereiro e da Atalaia, município de Pinhel, com a área de 2881 ha.
+
+> Alterado pelo/a [Portaria n.º 796/98](https://diariodarepublica.pt/dr/detalhe/portaria/796-1998-241662), publicado em 1998-09-22.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 796/98](https://diariodarepublica.pt/dr/detalhe/portaria/796-1998-241662), publicado em 1998-09-22.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à Associação de Caçadores das freguesias do Pereiro e Carvalhal (registo na Direcção-Geral das Florestas n.º 2.908.91), com sede no Pereiro, Pinhel, a zona de caça associativa da Freguesia do Pereiro e Carvalhal (processo n.º 762 da Direcção-Geral das Florestas).
 

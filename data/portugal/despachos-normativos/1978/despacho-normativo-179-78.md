@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-08-02'
+version_history:
+  file: despacho-normativo-179-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-08-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-08-02'
+    amending: pt:dre:381359:por
+    amending_title: Despacho Normativo n.º 184/79
+    changes:
+    - Altera Artigo unidades 7-10
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:43:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 184/79. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1978/despacho-normativo-179-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,13 +138,13 @@ Determina-se:
 
 A transferência de pessoal nos termos dos despachos de afectação processar-se-á nas mesmas datas.
 
-2.º A verticalização das competências que por este despacho se transfere deverá, no entanto, observar a aplicação dos seguintes critérios:
+2.º A verticalização das competências que por este despacho se transferem deverá, no entanto, realizar-se com aplicação dos seguintes critérios:
 
-a) Os requerimentos relativos a matérias-primas e outros materiais, quer para importação definitiva, quer temporária, deverão ser apresentados na direcção-geral que superintende na actividade industrial do requerente, de acordo com a citada [Portaria n.º 296/78](https://diariodarepublica.pt/dr/detalhe/portaria/296-1978-294571) (sectores industriais); esta direcção-geral, todavia, quando a mercadoria a importar se não inclua no âmbito dos sectores industriais que lhe são afectos, instruirá o seu parecer, mediante informação obtida junto da direcção-geral que superintenda no respectivo sector produtor;
+a) Os requerimentos de isenção ou redução de direitos e de sobretaxa incidindo sobre quaisquer mercadorias, inclusive bens de equipamento ou seus componentes, deverão ser apresentados na direcção-geral, referida no n.º 1.º, que superintenda na actividade industrial do requerente, nos termos das Portarias n.os [296/78](https://diariodarepublica.pt/dr/detalhe/portaria/296-1978-294571), de 31 de Maio, e [462/78](https://diariodarepublica.pt/dr/detalhe/portaria/462-1978-299851), de 14 de Agosto; esta direcção-geral, todavia, quando a mercadoria a importar não seja produto de actividade industrial que lhe esteja afecta, instruirá o seu parecer mediante informação obtida junto da direcção-geral que superintende na actividade produtora;
 
-b) Os requerimentos relativos a bens de equipamento ou seus componentes deverão ser apresentados na direcção-geral que superintende no sector industrial onde se incluam as actividades produtoras daqueles bens, a qual instruirá o seu parecer, mediante informação da direcção-geral que superintenda no sector industrial utilizador;
+b) Os requerimentos quer oriundos de empresas que exercem actividades não afectas às direcções-gerais referidas no n.º 1.º, quer não oriundos de empresas industriais ou relativos a mercadorias não afectas à actividade industrial destas deverão ser apresentados na direcção-geral a que está afecta a actividade produtora da mercadoria que se pretende importar (de acordo com as Portarias n.os [296/78](https://diariodarepublica.pt/dr/detalhe/portaria/296-1978-294571) e [462/78](https://diariodarepublica.pt/dr/detalhe/portaria/462-1978-299851)), instruindo a direcção-geral o seu parecer mediante informação da direcção-geral que superintende na actividade industrial a que aquela mercadoria se destina, caso seja do Ministério da Indústria e Tecnologia.
 
-c) Os requerimentos oriundos de empresas não afectas às direcções-gerais referidas em 1 ou não oriundos de unidades industriais deverão ser apresentados na direcção-geral que tem superintendência no sector produtor dos bens que se pretende importar (de acordo com a [Portaria n.º 296/78](https://diariodarepublica.pt/dr/detalhe/portaria/296-1978-294571)), instruindo a direcção-geral o seu parecer, mediante informação da direcção-geral que superintenda no sector industrial a que aqueles bens se destinam, caso esta seja do Ministério da Indústria e Tecnologia.
+> Alterado pelo/a [Despacho Normativo n.º 184/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/184-1979-381359), publicado em 1979-08-02.
 
 3.º O parecer da direcção-geral competente para o efeito só carece de homologação superior se a legislação aplicável assim o exigir ou quando a sua opinião for contrária à da direcção-geral consultada.
 

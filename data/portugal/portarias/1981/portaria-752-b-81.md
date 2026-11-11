@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-03-17'
+version_history:
+  file: portaria-752-b-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-09-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-03-17'
+    amending: pt:dre:310462:por
+    amending_title: Portaria n.º 283/83
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:53:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 283/83. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-752-b-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,4 +174,6 @@ Quadro de Pessoal do Centro de Saúde Mental de Leiria
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/20101/00110011.pdf)
 
-Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração mensal de 4000$00 para falhas, sem prejuízo da revisão deste quantitativo, nos termos da lei geral aplicável.
+Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração de 400$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos da lei geral aplicável.
+
+> Alterado pelo/a [Portaria n.º 283/83](https://diariodarepublica.pt/dr/detalhe/portaria/283-1983-310462), publicado em 1983-03-17.

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-03-05'
+version_history:
+  file: resolucao-conselho-ministros-7-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-02-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-03-05'
+    amending: pt:dre:332962:por
+    amending_title: Resolução do Conselho de Ministros n.º 4/90
+    changes:
+    - Altera Artigo unidades 16-17
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T20:26:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 4/90. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1988/resolucao-conselho-ministros-7-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,9 +157,11 @@ c) Conselho coordenador.
 
 3 - A comissão executiva é o órgão responsável pela coordenação da preparação e implementação da operação integrada de desenvolvimento, designadamente no que respeita a assegurar a eficaz articulação entre as actuações da responsabilidade das várias entidades intervenientes.
 
-4 - A comissão executiva será constituída por um presidente, uma direcção de acções de fomento económico e uma direcção de infra-estruturas.
+4 - A comissão executiva será constituída por um presidente e três directores.
 
-5 - O presidente da comissão executiva bem como os responsáveis pelas duas direcções são nomeados pelo Ministro do Planeamento e da Administração do Território.
+5 - Os membros da comissão executiva são nomeados por despacho do Ministro do Planeamento e da Administração do Território.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 4/90](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-1990-332962), publicado em 1990-02-28.
 
 6 - A comissão executiva depende directamente do Ministro do Planeamento e da Administração do Território.
 

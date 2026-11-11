@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-10-01'
+version_history:
+  file: portaria-349-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-04-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-10-01'
+    amending: pt:dre:505652:por
+    amending_title: Portaria n.º 886/2004; Portaria n.º 890/2004; Portaria n.º 913/2005; Portaria n.º 896/2005
+    changes:
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/349/1992/04/16/p/dre/pt/html
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:17:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 886/2004; Portaria n.º
+    890/2004; Portaria n.º 913/2005; Portaria n.º 896/2005. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-349-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,13 +166,21 @@ Manda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Soci
 
 1.º São criados os cursos de:
 
-a) Técnico de electrónica/instrumentação industrial;
+a) (Revogada.)
 
-b) Técnico de informática - gestão;
+> Alterado pelo/a [Portaria n.º 896/2005](https://diariodarepublica.pt/dr/detalhe/portaria/896-2005-147659), publicado em 2005-09-26.
 
-c) Química tecnológica/técnico fabril;
+b) (Revogada.)
 
-d) Química tecnológica/analista de laboratório;
+> Alterado pelo/a [Portaria n.º 913/2005](https://diariodarepublica.pt/dr/detalhe/portaria/913-2005-147640), publicado em 2005-09-26.
+
+c) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 886/2004](https://diariodarepublica.pt/dr/detalhe/portaria/886-2004-505652), publicado em 2004-07-21.
+
+d) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 890/2004](https://diariodarepublica.pt/dr/detalhe/portaria/890-2004-505656), publicado em 2004-07-21.
 
 cujos planos de estudo se anexam.
 

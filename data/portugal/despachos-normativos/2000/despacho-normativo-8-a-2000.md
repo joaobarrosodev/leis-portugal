@@ -28,10 +28,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-12-26'
+version_history:
+  file: despacho-normativo-8-a-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-02-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-12-26'
+    amending: pt:dre:582019:por
+    amending_title: Despacho Normativo n.º 41/2000; Despacho Normativo n.º 45/2000
+    changes:
+    - Altera Artigo unidades 50-50
+    - Altera Artigo unidades 56-60
+    - Altera Artigo unidades 67-67
+    - Altera Artigo unidades 91-91
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/8-a/2000/02/02/p/dre/pt/html
@@ -57,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:37:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 41/2000; Despacho
+    Normativo n.º 45/2000. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2000/despacho-normativo-8-a-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -214,7 +232,9 @@ h) Aquisição de artes de pesca, excepto quando contemplem as artes mencionadas
 
 i) Não tenham sido objecto de apoios públicos concedidos há menos de dois anos, salvo em caso de catástrofe ou intempérie que, reconhecidamente, haja produzido danos graves; e
 
-ii) O custo das mesmas não exceda 15% do investimento previsto para o restante custo, quando se trate de novas construções, e 12% do montante máximo elegível, no caso das modernizações.
+ii) O custo das mesmas não exceda 25% do investimento previsto para o restante custo, quando se trate de novas construções e 20% do montante máximo elegível, no caso das modernizações.
+
+> Alterado pelo/a [Despacho Normativo n.º 41/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-2000-582019), publicado em 2000-09-06.
 
 2 - Para efeitos do disposto nas alíneas d) e h) do número anterior, considera-se o lapso de tempo decorrido entre a data da última concessão de apoios públicos e a data da apresentação da candidatura.
 
@@ -226,15 +246,13 @@ Montantes dos apoios
 
 2 - O custo total de uma modernização não pode ser inferior a 100 contos nem exceder 5500 contos.
 
-3 - Os níveis de comparticipação do Estado nos custos elegíveis dos projectos fixam-se do modo seguinte:
+3 - A comparticipação do Estado nos custos elegíveis do projecto é fixada em 40%.
 
-a) Quando se prossiga o reforço da competitividade económica com diminuição do esforço de pesca dentro de parâmetros que contemplem artes mais selectivas, melhor acondicionamento e conservação do pescado e melhoria das condições de segurança e do trabalho a bordo - 40%;
+4 - As ajudas a conceder são diminuídas, na proporção do tempo decorrido, dos montantes anteriormente concedidos há menos de cinco anos, desde que aqueles tenham sido concedidos para a mesma finalidade.
 
-b) Quando se prossiga apenas um melhor acondicionamento e conservação do pescado ou a melhoria das condições de segurança ou a melhoria das condições do trabalho a bordo - 35%;
+5 - Em nenhum caso o valor dos subsídios poderá ultrapassar o limite máximo da taxa de comparticipação prevista nas 'Linhas directrizes da Comissão da CE para exame dos auxílios nacionais no sector da pesca'.
 
-c) As ajudas a conceder são diminuídas, na proporção do tempo decorrido, dos montantes anteriormente concedidos há menos de cinco anos, desde que aqueles tenham sido concedidos para a mesma finalidade.
-
-4 - Em nenhum caso o valor total dos subsídios poderá ultrapassar o limite máximo da taxa de comparticipação prevista nas «Linhas Directrizes da Comissão da CE para Exame dos Auxílios Nacionais no Sector da Pesca».
+> Alterado pelo/a [Despacho Normativo n.º 41/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-2000-582019), publicado em 2000-09-06.
 
 6.º
 
@@ -248,7 +266,9 @@ Outras acções
 
 Apresentação de candidaturas e decisão
 
-1 - As candidaturas entregues na Direcção-Geral das Pescas e Aquicultura até 29 de Fevereiro de 2000, 31 de Agosto de 2000, 28 de Fevereiro de 2001 e 31 de Agosto de 2001 serão objecto de decisão até 30 de Abril de 2000, 31 de Outubro de 2000, 30 de Abril de 2001 e 31 de Outubro de 2001, respectivamente.
+1 - As candidaturas entregues na Direcção-Geral das Pescas e Aquicultura (DGPA) até 29 de Fevereiro de 2000, 31 de Agosto de 2000, 15 de Dezembro de 2000, 28 de Fevereiro de 2001, 31 de Agosto de 2001 e 15 de Dezembro de 2001 serão objecto de decisão até 30 de Abril de 2000, 31 de Outubro de 2000, 31 de Dezembro de 2000, 30 de Abril de 2001, 31 de Outubro de 2001 e 31 de Dezembro de 2001.
+
+> Alterado pelo/a [Despacho Normativo n.º 45/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/45-2000-660331), publicado em 2000-12-21.
 
 2 - Excepcionam-se do disposto no número anterior as candidaturas às acções previstas no artigo 6.º
 
@@ -296,4 +316,8 @@ Incumprimento
 
 Disposições transitórias
 
-As candidaturas anteriores à data da publicação do presente Regulamento, apresentadas ao abrigo do Regulamento aprovado pelo [Despacho Normativo n.º 57/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/57-1998-444675), de 21 de Agosto, alterado pelo [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), de 28 de Abril, e que ainda não foram objecto de decisão, podem ficar abrangidas pelas disposições constantes do presente Regulamento, devendo os candidatos reformulá-las até 31 de Agosto de 2000.
+1 - As candidaturas apresentadas ao abrigo do Regulamento aprovado pelo [Despacho Normativo n.º 57/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/57-1998-444675), de 21 de Agosto, alterado pelo [Despacho Normativo n.º 23-A/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1999-663963), de 28 de Abril, que ainda não foram objecto de decisão, transitam para o regime previsto no presente Regulamento.
+
+2 - As candidaturas previstas no número anterior poderão ser reformuladas pelos respectivos promotores até 31 de Agosto de 2000.
+
+> Alterado pelo/a [Despacho Normativo n.º 41/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-2000-582019), publicado em 2000-09-06.

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:297246:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-06-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "27919fc98670e0a6"
+   ]
+  },
+  {
+   "date": "1986-09-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220143:por",
+     "title": "Despacho Normativo n.º 82/86",
+     "published": "1986-09-09",
+     "dre_path": "/dr/detalhe/despacho-normativo/82-1986-220143"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 11-11"
+   ],
+   "fragments": [
+    "c6b7969134947db2"
+   ]
+  }
+ ],
+ "fragments": {
+  "27919fc98670e0a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Lei do Orçamento do Estado para 1986 estabeleceu como linhas mestras da actuação governativa, no domínio da política de pessoal e de emprego da Administração Pública:\n\na) O recurso aos instrumentos de mobilidade e de reafectação mais adequados caso a caso e o reforço dos incentivos à colocação de pessoal em zonas periféricas, como forma de garantir o pleno emprego dos efectivos da Administração e o aumento da eficiência e eficácia desta última;\n\nb) A estrita contenção desses efectivos, cujo número global não poderá aumentar no decorrer de 1986, como estipula o n.º 3 do artigo 9.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril.\n\nNos termos da legislação em vigor, a admissão de pessoal não vinculado à Administração Pública está dependente de um despacho global de descongelamento, fixando a quota anual correspondente a cada departamento ministerial.\n\nAssim, a fixação da quota global de descongelamento para o ano em curso há-de cumprir o limite do citado n.º 3 do artigo 9.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), prevendo-se que a mesma seja inferior ao número de funcionários e agentes que se aposentem no mesmo período, ao abrigo quer do regime geral de aposentações, quer do regime de aposentação voluntária, antecipada e bonificada, criado pela [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909).\n\nDo ponto de vista orgânico, atribuíram-se dois graus de prioridade para a fixação das quotas de descongelamento: no 1.º grau situam-se os sectores da saúde, da fiscalização e administração tributária e da justiça (investigação criminal e serviços prisionais) pela essencialidade das respectivas funções; no 2.º grau incluem-se os restantes sectores com graves carências de pessoal, embora sem as características dos supracitados.\n\nNestes termos, determina-se, ao abrigo dos artigos 12.º e 13.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, o seguinte:\n\n1 - É fixada em 6580 admissões a quota global de descongelamento da administração central para 1986.\n\n2 - a) As quotas de descongelamento referentes a cada departamento governamental são estabelecidas, por grupos profissionais, no mapa anexo ao presente despacho, mas estão sujeitas, em qualquer caso, à existência de cobertura orçamental.\n\nb) Não será permitida a utilização da quota de descongelamento para provimento de lugares não cabimentados ou para a admissão de pessoal além do quadro.\n\n3 - Os departamentos governamentais deverão privilegiar:\n\na) A admissão de pessoal para os serviços sediados em zonas periféricas;\n\nb) A regularização de situações de pessoal admitido em regime de tarefa que satisfaça necessidades permanentes de serviço e possua os requisitos legalmente estabelecidos para provimento na categoria correspondente às funções exercidas.\n\n4 - São válidos os concursos já abertos à data da publicação do presente despacho, ao abrigo das quotas de 1985.\n\nMinistério das Finanças, 18 de Junho de 1986. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe.\n\nQuotas de descongelamento\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/13703/00250026.pdf)"
+  },
+  "c6b7969134947db2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1986-09-14",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 82/86](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/82-1986-220143), publicado em 1986-09-09."
+   ],
+   "markdown": "A Lei do Orçamento do Estado para 1986 estabeleceu como linhas mestras da actuação governativa, no domínio da política de pessoal e de emprego da Administração Pública:\n\na) O recurso aos instrumentos de mobilidade e de reafectação mais adequados caso a caso e o reforço dos incentivos à colocação de pessoal em zonas periféricas, como forma de garantir o pleno emprego dos efectivos da Administração e o aumento da eficiência e eficácia desta última;\n\nb) A estrita contenção desses efectivos, cujo número global não poderá aumentar no decorrer de 1986, como estipula o n.º 3 do artigo 9.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril.\n\nNos termos da legislação em vigor, a admissão de pessoal não vinculado à Administração Pública está dependente de um despacho global de descongelamento, fixando a quota anual correspondente a cada departamento ministerial.\n\nAssim, a fixação da quota global de descongelamento para o ano em curso há-de cumprir o limite do citado n.º 3 do artigo 9.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), prevendo-se que a mesma seja inferior ao número de funcionários e agentes que se aposentem no mesmo período, ao abrigo quer do regime geral de aposentações, quer do regime de aposentação voluntária, antecipada e bonificada, criado pela [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909).\n\nDo ponto de vista orgânico, atribuíram-se dois graus de prioridade para a fixação das quotas de descongelamento: no 1.º grau situam-se os sectores da saúde, da fiscalização e administração tributária e da justiça (investigação criminal e serviços prisionais) pela essencialidade das respectivas funções; no 2.º grau incluem-se os restantes sectores com graves carências de pessoal, embora sem as características dos supracitados.\n\nNestes termos, determina-se, ao abrigo dos artigos 12.º e 13.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, o seguinte:\n\n1 - É fixada em 6580 admissões a quota global de descongelamento da administração central para 1986.\n\n2 - a) As quotas de descongelamento referentes a cada departamento governamental são estabelecidas, por grupos profissionais, no mapa anexo ao presente despacho, mas estão sujeitas, em qualquer caso, à existência de cobertura orçamental.\n\nb) Não será permitida a utilização da quota de descongelamento para provimento de lugares não cabimentados ou para a admissão de pessoal além do quadro, com excepção, neste último caso, do pessoal a afectar à fiscalização e administração tributária, nos termos do [Decreto-Lei n.º 200/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1985-182239), de 15 de Junho.\n\n> Alterado pelo/a [Despacho Normativo n.º 82/86](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/82-1986-220143), publicado em 1986-09-09.\n\n3 - Os departamentos governamentais deverão privilegiar:\n\na) A admissão de pessoal para os serviços sediados em zonas periféricas;\n\nb) A regularização de situações de pessoal admitido em regime de tarefa que satisfaça necessidades permanentes de serviço e possua os requisitos legalmente estabelecidos para provimento na categoria correspondente às funções exercidas.\n\n4 - São válidos os concursos já abertos à data da publicação do presente despacho, ao abrigo das quotas de 1985.\n\nMinistério das Finanças, 18 de Junho de 1986. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe.\n\nQuotas de descongelamento\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/13703/00250026.pdf)"
+  }
+ }
+}

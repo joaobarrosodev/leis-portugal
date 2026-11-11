@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-08-19'
+version_history:
+  file: portaria-830-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-09-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-08-19'
+    amending: pt:dre:437798:por
+    amending_title: Portaria n.º 522/98
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/830/1997/09/06/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:05:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 522/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-830-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -175,7 +190,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Fronteira, com uma área de 510,6470 ha.
 
-2.º Pela presente portaria é concessionada, até 1 de Julho de 2011, ao Clube de Caçadores de Fronteira (registo na Direcção-Geral das Florestas n.º 4.185.87), com sede na Rua de Avis, 15, 1.º, direito, Fronteira, a zona de caça associativa (processo n.º 376 da Direcção-Geral das Florestas).
+2.º Pela presente portaria é concessionada, até 1 de Junho de 2011, ao Clube de Caçadores de Fronteira (registo na Direcção-Geral das Florestas n.º 4.185.87), com sede na Rua de Avis, 15, 1.º, direito, Fronteira, a zona de caça associativa (processo n.º 376 da Direcção-Geral das Florestas).
+
+> Alterado pelo/a [Portaria n.º 522/98](https://diariodarepublica.pt/dr/detalhe/portaria/522-1998-437798), publicado em 1998-08-14.
 
 3.º O Clube de Caçadores de Fronteira, como entidade gestora da zona de caça associativa concedida pela presente portaria, fica obrigado a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
 

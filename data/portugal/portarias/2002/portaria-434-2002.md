@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-09-22'
+version_history:
+  file: portaria-434-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-04-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-09-22'
+    amending: pt:dre:601495:por
+    amending_title: Portaria n.º 150/2009; Portaria n.º 288/2012
+    changes:
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 29-30
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/434/2002/04/22/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:41:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 150/2009; Portaria n.º
+    288/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-434-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +160,9 @@ O requerente de certificado de isenção do serviço de pilotagem deve apresenta
 
 3) A arqueação bruta das embarcações;
 
-4) Que possui conhecimento da língua portuguesa.
+4) Que possui conhecimento da língua portuguesa ou da língua inglesa.
+
+> Alterado pelo/a [Portaria n.º 288/2012](https://diariodarepublica.pt/dr/detalhe/portaria/288-2012-176050), publicado em 2012-09-21.
 
 3.º
 
@@ -176,9 +194,11 @@ c) A arqueação bruta das embarcações.
 
 Informação
 
-1 - As autoridades portuárias devem manter informado o Instituto Marítimo-Portuário (IMP) sobre os certificados de isenção do serviço de pilotagem emitidos, suspensos e cancelados.
+1 - As autoridades portuárias devem manter informado o Instituto Portuário e dos Transportes Marítimos, I. P. (IPTM, I. P.), sobre os certificados de isenção do serviço de pilotagem emitidos, suspensos e cancelados.
 
-2 - O IMP manterá um cadastro actualizado de todos os certificados de isenção do serviço de pilotagem, do qual dará, semestralmente, conhecimento a todas as autoridades portuárias.
+2 - O IPTM, I. P., deve manter um cadastro actualizado de todos os certificados de isenção do serviço de pilotagem emitidos.
+
+> Alterado pelo/a [Portaria n.º 150/2009](https://diariodarepublica.pt/dr/detalhe/portaria/150-2009-601495), publicado em 2009-02-09.
 
 7.º
 

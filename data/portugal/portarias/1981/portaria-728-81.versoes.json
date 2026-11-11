@@ -1,0 +1,254 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:577945:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1981-08-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0c50ac646aac89b8",
+    "9b91ff5f993eb891",
+    "5acaa2eb1ba65058",
+    "fa36a0171cfe47e4",
+    "061ff7bc04f30eef",
+    "c234bcb05caee5d8",
+    "9f1fc2101ad5b22e",
+    "64deb33d6e8d73a4",
+    "e20b12aec56f3030",
+    "f252722f1c9de327",
+    "5bbb50ad69424a70"
+   ]
+  },
+  {
+   "date": "1987-04-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:380917:por",
+     "title": "Portaria n.º 1178/82",
+     "published": "1982-12-22",
+     "dre_path": "/dr/detalhe/portaria/1178-1982-380917"
+    },
+    {
+     "id": "pt:dre:312443:por",
+     "title": "Portaria n.º 363/83",
+     "published": "1983-04-02",
+     "dre_path": "/dr/detalhe/portaria/363-1983-312443"
+    },
+    {
+     "id": "pt:dre:454052:por",
+     "title": "Portaria n.º 813/83",
+     "published": "1983-08-03",
+     "dre_path": "/dr/detalhe/portaria/813-1983-454052"
+    },
+    {
+     "id": "pt:dre:381725:por",
+     "title": "Portaria n.º 525/84",
+     "published": "1984-07-28",
+     "dre_path": "/dr/detalhe/portaria/525-1984-381725"
+    },
+    {
+     "id": "pt:dre:665894:por",
+     "title": "Portaria n.º 324/87",
+     "published": "1987-04-21",
+     "dre_path": "/dr/detalhe/portaria/324-1987-665894"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 32-32",
+    "Altera Artigo unidades 76-106",
+    "Altera Artigo unidades 111-112",
+    "Altera Artigo unidades 114-114",
+    "Altera Artigo unidades 120-120",
+    "Altera Artigo unidades 185-185",
+    "Altera Artigo unidades 189-189",
+    "Altera Artigo unidades 194-195",
+    "Altera Artigo unidades 242-244",
+    "Altera Artigo unidades 252-260",
+    "Altera Artigo unidades 287-295"
+   ],
+   "fragments": [
+    "5cf7a01236a6e0c6",
+    "39e933c6cd312f69",
+    "f3f1b5cd60210562",
+    "fa36a0171cfe47e4",
+    "061ff7bc04f30eef",
+    "c234bcb05caee5d8",
+    "0e711ded0b15596c",
+    "bc7863b663834182",
+    "4bef36b722c58ab0",
+    "f252722f1c9de327",
+    "a9538bd6bb3374f9"
+   ]
+  }
+ ],
+ "fragments": {
+  "0c50ac646aac89b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Agosto\n\nSob proposta do conselho científico da Faculdade de Letras da Universidade de Lisboa:\n\nAo abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, e [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), de 7 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Ciência, o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade de Lisboa, através da Faculdade de Letras, concede o grau de mestre em:\n\na) Literaturas Clássicas, com três áreas de especialização:\n\nI) Literatura Grega;\n\nII) Literatura Latina;\n\nIII) Literaturas Comparadas;\n\nb) Linguística Portuguesa Histórica;\n\nc) Linguística Portuguesa Descritiva;\n\nd) Literatura Portuguesa;\n\ne) Literatura Brasileira e Literaturas Africanas de Expressão Portuguesa;\n\nf) Literatura Francesa;\n\ng) Estudos Anglo-Americanos, com quatro áreas de especialização:\n\nI) Literatura Inglesa;\n\nII) Linguística Inglesa;\n\nIII) Cultura Inglesa;\n\nIV) Literatura e Cultura Norte-Americanas;\n\nh) Filosofia, com sete áreas de especialização:\n\nI) História da Filosofia;\n\nII) Metafísica e Antropologia;\n\nIII) Filosofia do Conhecimento e Epistemologia;\n\nIV) Filosofia da Linguagem e Lógica;\n\nV) Filosofia da Cultura;\n\nVI) Filosofia Social e Política;\n\nVII) Filosofia e Cultura em Portugal;\n\ni) Geografia Humana e Planeamento Regional;\n\nj) Geografia Física e Regional.\n\n2.º\n\n(Organização dos cursos)\n\nOs cursos especializados conducentes aos mestrados enumerados no n.º 1.º, adiante simplesmente designados por cursos, organizam-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Estrutura curricular)\n\nA estrutura curricular dos cursos é a descrita nos anexos I a x da presente portaria.\n\n4.º\n\n(Precedências)\n\nAs tabelas e o regime de precedências serão fixados pelo conselho científico.\n\n5.º\n\n(Habilitação de acesso)\n\n1 - São admitidos à candidatura à matrícula em cada um dos cursos os titulares das licenciaturas descritas nos anexos I a x ou de licenciaturas em áreas afins ou habilitações legalmente equivalentes, com a classificação mínima de 14 valores.\n\n2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.\n\n3 - Excepcionalmente, em casos devidamente justificados, e nos termos do n.º 4 do n.º 7.º, o conselho científico poderá admitir à candidatura à matrícula nos cursos os titulares de outra licenciatura pelas universidades portuguesas, ou legalmente equivalente, cujo currículo demonstre uma adequada preparação científica de base.\n\n4 - Cabe ao conselho científico definir quais os cursos a incluir nas áreas afins referidas no n.º 1.\n\n6.º\n\n(«Numerus clausus»)\n\n1 - O numerus clausus de cada curso será fixado anualmente por despacho do Ministro da Educação e Ciência.\n\n2 - Uma percentagem do numerus clausus, a fixar igualmente no despacho a que se refere o número anterior, será reservada a docentes de estabelecimentos de ensino superior.\n\n7.º\n\n(Critério de selecção)\n\n1 - Os candidatos à matrícula em cada curso serão seleccionados pelo conselho científico, tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 8.º ou de outros graus já obtidos pelo candidato;\n\nb) Currículo académico, científico e técnico;\n\nc) Experiência docente.\n\n2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 6, n.º 2, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino superior.\n\n3 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção para avaliação do nível daqueles nas áreas científicas de base correspondente ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciaturas ou outras como condição prévia para a candidatura à matrícula no curso.\n\n4 - Os candidatos a que se refere o n.º 3 do n.º 5.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.\n\n5 - A selecção a que se refere o presente n.º 7.º será feita pelo conselho científico da Faculdade de Letras da Universidade de Lisboa, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.\n\n8.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição e, bem assim, o regime de faltas, de avaliação de conhecimentos e de classificação, para as disciplinas que integram o curso, serão os previstos na lei para os cursos de licenciatura, naquilo em que não forem contrariados pelo disposto na presente portaria e pela natureza do curso.\n\n9.º\n\n(Calendário)\n\nOs prazos de candidatura e inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o n.º 6.º\n\n10.º\n\n(Dispensa das provas complementares de doutoramento)\n\nOs titulares de aprovação em cada curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do grau de doutor nas especialidades indicadas nos anexos I a X.\n\nMinistério da Educação e Ciência, 10 de Agosto de 1981. - O Ministro da Educação e Ciência, Vítor Pereira Crespo."
+  },
+  "9b91ff5f993eb891": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Mestrado em Literaturas Clássicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Mestrado em Literaturas Clássicas\n\n1 - Área científica do curso:\n\nLiteraturas Clássicas.\n\n2 - Duração normal do curso:\n\nDois anos lectivos.\n\n3 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\nI - Comuns a todas as áreas de especialização:\n\na) Problemática de Literatura ... 6\n\nb) Linguística ... 4\n\nc) Cultura ... 4\n\nd) Filosofia ... 4\n\ne) História ... 4\n\nf) Metodologia Científica ... 4\n\nII - Área de especialização em Literatura Grega:\n\na) Literatura Grega ... 5\n\nb) Literatura Latina ... 5\n\nc) Literaturas Modernas ... 5\n\nIII - Área de especialização em Literatura Latina:\n\na) Literatura Latina ... 5\n\nb) Literatura Grega ... 5\n\nc) Literaturas Modernas ... 5\n\nIV - Área de especialização em Literaturas Comparadas:\n\na) Literaturas Modernas ... 5 unidades numa área e 5 noutra.\n\nb) Literatura Grega ... 5 unidades numa área e 5 noutra.\n\nc) Literatura Latina ... 5 unidades numa área e 5 noutra.\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Filologia Clássica;\n\nb) Línguas e Literaturas Clássicas.\n\n5 - Especialidades a que se refere o n.º 10.º:\n\na) Área de especialização em Literatura Grega:\n\nLiteratura Grega;\n\nb) Área de especialização em Literatura Latina:\n\nLiteratura Latina;\n\nc) Área de especialização em Literaturas Comparadas:\n\nA fixar caso a caso pelo conselho científico face ao plano de estudos do curso seguido por cada candidato."
+  },
+  "5acaa2eb1ba65058": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Mestrado em Linguística Portuguesa Histórica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Mestrado em Linguística Portuguesa Histórica\n\n1 - Área científica do curso:\n\nLinguística Portuguesa Histórica.\n\n2 - Duração normal do curso:\n\nDois anos lectivos.\n\n3 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\nI - Obrigatória:\n\nLinguística Portuguesa Descritiva ... 8\n\nII - Opcionais:\n\na) Linguística Portuguesa ... 8\n\nb) Linguística Românica ... 8\n\nc) Linguística Geral ... 8\n\nd) Linguística Aplicada ... 8\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Filologia Românica;\n\nb) Línguas e Literaturas Modernas (variantes com estudos portugueses).\n\n5 - Especialidade a que se refere o n.º 10.º:\n\na) Linguística Portuguesa."
+  },
+  "fa36a0171cfe47e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Mestrado em Linguística Portuguesa Descritiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Mestrado em Linguística Portuguesa Descritiva\n\n1 - Área científica do curso:\n\nLinguística Portuguesa Descritiva.\n\n2 - Duração normal do curso:\n\nDois anos lectivos.\n\n3 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\nI - Obrigatória:\n\nLinguística Portuguesa Descritiva ... 8\n\nII - Opcionais:\n\na) Linguística Portuguesa ... 8\n\nb) Linguística Românica ... 8\n\nc) Linguística Geral ... 8\n\nd) Linguística Aplicada ... 8\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Filologia Românica;\n\nb) Línguas e Literaturas Modernas (variantes com estudos portugueses).\n\n5 - Especialidade a que se refere o n.º 10.º:\n\na) Linguística Portuguesa."
+  },
+  "061ff7bc04f30eef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Mestrado em Literatura Portuguesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Mestrado em Literatura Portuguesa\n\n1 - Área científica do curso:\n\nLiteratura Portuguesa.\n\n2 - Duração normal do curso:\n\nDois anos lectivos.\n\n3 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\nI - Obrigatórias:\n\na) Problemática da Leitura Literária ... 4\n\nb) Literatura Portuguesa ... 8\n\nII - Opcionais:\n\na) Problemática da Leitura Literária ... (ver nota a) 4\n\nb) Literatura Brasileira e Literaturas Africanas de Expressão Portuguesa ... (ver nota a) 4\n\nc) Literatura Francesa ... (ver nota a) 4\n\n(nota a) Para cada aluno poderá ser determinado que as quatro unidades de crédito sejam obtidas na área II, alínea a).\n\n4 - Licenciaturas a que se refere o n.º 5.º:\n\na) Filologia Românica;\n\nb) Línguas e Literaturas Modernas (variantes com estudos portugueses).\n\n5 - Especialidade a que se refere o n.º 10.º:\n\na) Literatura Portuguesa."
+  },
+  "c234bcb05caee5d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO V — Mestrado em Literatura Brasileira e Literaturas Africanas de Expressão Portuguesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — Mestrado em Literatura Brasileira e Literaturas Africanas de Expressão Portuguesa\n\n1 - Área científica do curso:\n\nLiteratura Brasileira e Literaturas Africanas de Expressão Portuguesa.\n\n2 - Duração normal do curso:\n\nDois anos lectivos.\n\n3 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\nI - Obrigatórias:\n\na) Problemática da Leitura Literária ... 4\n\nb) Literatura Brasileira e Literaturas Africanas de Expressão Portuguesa ... 8\n\nII - Opcionais:\n\na) Problemática da Leitura Literária ... (ver nota a) 4\n\nb) Literatura Portuguesa ... (ver nota a) 4\n\nc) Literatura Francesa ... (ver nota a) 4\n\n(nota a) Para cada aluno poderá ser determinado que as quatro unidades de crédito sejam obtidas na área II, alínea a).\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Filologia Românica;\n\nb) Línguas e Literaturas Modernas (variantes com estudos portugueses).\n\n5 - Especialidade a que se refere o n.º 10.º:\n\na) Literatura Brasileira."
+  },
+  "9f1fc2101ad5b22e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VI — Mestrado em Literatura Francesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — Mestrado em Literatura Francesa\n\n1 - Área científica do curso:\n\nLiteratura Francesa.\n\n2 - Duração normal do curso:\n\nDois anos lectivos.\n\n3 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\nI - Obrigatórias:\n\na) Problemática da Leitura Literária ... 4\n\nb) Literatura Francesa ... 4\n\nII - Opcionais:\n\na) Problemática da Leitura Literária ... (ver nota a) 4\n\nb) Literatura Brasileira e Literaturas Africanas de Expressão Portuguesa ... (ver nota a) 4\n\nc) Literatura Portuguesa ... (ver nota a) 4\n\n(nota a) Para cada aluno poderá ser determinado que as quatro unidades de crédito sejam obtidas na área II, alínea a).\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Filologia Românica;\n\nb) Línguas e Literaturas Modernas (variantes com estudos franceses).\n\n5 - Especialidade a que se refere o n.º 10.º:\n\na) Literatura Francesa."
+  },
+  "64deb33d6e8d73a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VII — Mestrado em Estudos Anglo-Americanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — Mestrado em Estudos Anglo-Americanos\n\n1 - Área científica do curso:\n\nEstudos Anglo-Americanos.\n\n2 - Duração normal do curso:\n\nDois anos lectivos\n\n3 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\n3.1 - Área de especialização em Literatura Inglesa:\n\nI - Obrigatória:\n\na) Literatura Inglesa ... 8\n\nII - Opcionais:\n\na) Literatura Inglesa ... 8\n\nb) Linguística Inglesa ... 8\n\nc) Cultura Inglesa ... 8\n\nd) Literatura e Cultura Norte-Americanas ... 8\n\n3.2 - Área de especialização em Linguística Inglesa:\n\nI - Obrigatória:\n\na) Linguística Inglesa ... 8\n\nII - Opcionais:\n\na) Linguística Inglesa ... 8\n\nb) Literatura Inglesa ... 8\n\nc) Cultura Inglesa ... 8\n\nd) Literatura e Cultura Norte-Americanas ... 8\n\n3.3 - Área de especialização em Cultura Inglesa:\n\nI - Obrigatória:\n\na) Cultura Inglesa ... 8\n\nII - Opcionais:\n\na) Cultura Inglesa ... 8\n\nb) Literatura Inglesa ... 8\n\nc) Linguística Inglesa ... 8\n\nd) Literatura e Cultura Norte-Americanas ... 8\n\n3.4 - Área de especialização em Literatura e Cultura Norte-Americanas:\n\nI - Obrigatória:\n\na) Literatura e Cultura Norte-Americanas ... 8\n\nII - Opcionais:\n\na) Literatura e Cultura Norte-Americanas ... 8\n\nb) Cultura Inglesa ... 8\n\nc) Literatura Inglesa ... 8\n\nd) Linguística Inglesa ... 8\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Filologia Germânica;\n\nb) Línguas e Literaturas Modernas (variantes com inglês).\n\n5 - Especialidades a que se refere o n.º 10.º:\n\na) Literatura Inglesa;\n\nb) Literatura Norte-Americana;\n\nc) Linguística Inglesa."
+  },
+  "e20b12aec56f3030": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VIII — Mestrado em Filosofia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — Mestrado em Filosofia\n\n1 - Área científica do curso:\n\nFilosofia.\n\n2 - Duração normal do curso:\n\nDois anos lectivos.\n\n3 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\n3.1 - A área de especialização em que é conferido o grau é definida pela dissertação.\n\n3.2 - Para qualquer área de especialização, as áreas e unidades de crédito necessárias à obtenção do curso são as seguintes:\n\na) Metodologia do Trabalho Filosófico ... 4\n\nb) História da Filosofia ... 12\n\nc) Metafísica e Antropologia ... 12\n\nd) Filosofia do Conhecimento e Epistemologia ... 12\n\ne) Filosofia da Linguagem e Lógica ... 12\n\nf) Filosofia da Cultura ... 12\n\ng) Filosofia Social e Política ... 12\n\nh) Filosofia e Cultura em Portugal ... 12\n\n4 - Licenciatura a que se refere o n.º 1 do n.º 5.º:\n\na) Filosofia.\n\n5 - Especialidades a que se refere o n.º 10.º:\n\nSerão definidas caso a caso pelo conselho científico face ao plano de estudos do curso seguido por cada candidato;\n\nCaso o candidato seja titular do grau de mestre, será considerada igualmente a área sobre que incidiu a dissertação."
+  },
+  "f252722f1c9de327": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IX — Mestrado em Geografia Humana e Planeamento Regional e Local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX — Mestrado em Geografia Humana e Planeamento Regional e Local\n\n1 - Área científica do curso:\n\nGeografia Humana e Planeamento Regional e Local.\n\n2 - Duração normal do curso:\n\nDois anos lectivos.\n\n3 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\nI - Obrigatórias:\n\na) Geografia Humana ... 6\n\nb) Desenvolvimento e Planeamento Regional e Local ... 8\n\nII - Opcionais:\n\na) Gestão Regional e Local ... 4\n\nb) Análise Regional e Local ... 4\n\nII - Estágio numa das áreas I, alíneas a) ou b), ou II, alínea a) ... 2\n\n4 - Licenciatura a que se refere o n.º 1 do n.º 5.º:\n\na) Geografia.\n\n5 - Especialidade a que se refere o n.º 10.º:\n\na) Geografia Humana."
+  },
+  "5bbb50ad69424a70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO X — Mestrado em Geografia Física e Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO X — Mestrado em Geografia Física e Regional\n\n1 - Área científica do curso:\n\nGeografia Física e Regional.\n\n2 - Duração normal do curso:\n\nDois anos lectivos.\n\n3 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\na) Geomorfologia ... 6\n\nb) Climatologia ... 6\n\nc) Geografia Regional ... 6\n\n4 - Licenciatura a que se refere o n.º 1 do n.º 5.º:\n\na) Geografia.\n\n5 - Especialidade a que se refere o n.º 10.º:\n\na) Geografia Física."
+  },
+  "5cf7a01236a6e0c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1987-04-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 525/84](https://diariodarepublica.pt/dr/detalhe/portaria/525-1984-381725), publicado em 1984-07-28."
+   ],
+   "markdown": "de 27 de Agosto\n\nSob proposta do conselho científico da Faculdade de Letras da Universidade de Lisboa:\n\nAo abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, e [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), de 7 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Ciência, o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade de Lisboa, através da Faculdade de Letras, concede o grau de mestre em:\n\na) Literaturas Clássicas, com três áreas de especialização:\n\nI) Literatura Grega;\n\nII) Literatura Latina;\n\nIII) Literaturas Comparadas;\n\nb) Linguística Portuguesa Histórica;\n\nc) Linguística Portuguesa Descritiva;\n\nd) Literatura Portuguesa;\n\ne) Literatura Brasileira e Literaturas Africanas de Expressão Portuguesa;\n\nf) Literatura Francesa;\n\ng) Estudos Anglo-Americanos, com quatro áreas de especialização:\n\nI) Literatura Inglesa;\n\nII) Linguística Inglesa;\n\nIII) Cultura Inglesa;\n\nIV) Literatura e Cultura Norte-Americanas;\n\nh) Filosofia, com sete áreas de especialização:\n\nI) História da Filosofia;\n\nII) Metafísica e Antropologia;\n\nIII) Filosofia do Conhecimento e Epistemologia;\n\nIV) Filosofia da Linguagem e Lógica;\n\nV) Filosofia da Cultura;\n\nVI) Filosofia Social e Política;\n\nVII) Filosofia e Cultura em Portugal;\n\ni) Geografia Humana e Planeamento Regional;\n\nj) Geografia Física e Regional, com 3 áreas de especialização:\n\na) Geomorfologia;\n\nb) Climatologia;\n\nc) Geografia Regional.\n\n> Alterado pelo/a [Portaria n.º 525/84](https://diariodarepublica.pt/dr/detalhe/portaria/525-1984-381725), publicado em 1984-07-28.\n\n2.º\n\n(Organização dos cursos)\n\nOs cursos especializados conducentes aos mestrados enumerados no n.º 1.º, adiante simplesmente designados por cursos, organizam-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Estrutura curricular)\n\nA estrutura curricular dos cursos é a descrita nos anexos I a x da presente portaria.\n\n4.º\n\n(Precedências)\n\nAs tabelas e o regime de precedências serão fixados pelo conselho científico.\n\n5.º\n\n(Habilitação de acesso)\n\n1 - São admitidos à candidatura à matrícula em cada um dos cursos os titulares das licenciaturas descritas nos anexos I a x ou de licenciaturas em áreas afins ou habilitações legalmente equivalentes, com a classificação mínima de 14 valores.\n\n2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.\n\n3 - Excepcionalmente, em casos devidamente justificados, e nos termos do n.º 4 do n.º 7.º, o conselho científico poderá admitir à candidatura à matrícula nos cursos os titulares de outra licenciatura pelas universidades portuguesas, ou legalmente equivalente, cujo currículo demonstre uma adequada preparação científica de base.\n\n4 - Cabe ao conselho científico definir quais os cursos a incluir nas áreas afins referidas no n.º 1.\n\n6.º\n\n(«Numerus clausus»)\n\n1 - O numerus clausus de cada curso será fixado anualmente por despacho do Ministro da Educação e Ciência.\n\n2 - Uma percentagem do numerus clausus, a fixar igualmente no despacho a que se refere o número anterior, será reservada a docentes de estabelecimentos de ensino superior.\n\n7.º\n\n(Critério de selecção)\n\n1 - Os candidatos à matrícula em cada curso serão seleccionados pelo conselho científico, tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 8.º ou de outros graus já obtidos pelo candidato;\n\nb) Currículo académico, científico e técnico;\n\nc) Experiência docente.\n\n2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 6, n.º 2, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino superior.\n\n3 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção para avaliação do nível daqueles nas áreas científicas de base correspondente ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciaturas ou outras como condição prévia para a candidatura à matrícula no curso.\n\n4 - Os candidatos a que se refere o n.º 3 do n.º 5.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.\n\n5 - A selecção a que se refere o presente n.º 7.º será feita pelo conselho científico da Faculdade de Letras da Universidade de Lisboa, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.\n\n8.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição e, bem assim, o regime de faltas, de avaliação de conhecimentos e de classificação, para as disciplinas que integram o curso, serão os previstos na lei para os cursos de licenciatura, naquilo em que não forem contrariados pelo disposto na presente portaria e pela natureza do curso.\n\n9.º\n\n(Calendário)\n\nOs prazos de candidatura e inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o n.º 6.º\n\n10.º\n\n(Dispensa das provas complementares de doutoramento)\n\nOs titulares de aprovação em cada curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do grau de doutor nas especialidades indicadas nos anexos I a X.\n\nMinistério da Educação e Ciência, 10 de Agosto de 1981. - O Ministro da Educação e Ciência, Vítor Pereira Crespo."
+  },
+  "39e933c6cd312f69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Mestrado em Literaturas Clássicas",
+   "in_force_from": "1987-04-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 363/83](https://diariodarepublica.pt/dr/detalhe/portaria/363-1983-312443), publicado em 1983-04-02."
+   ],
+   "markdown": "## ANEXO I — Mestrado em Literaturas Clássicas\n\n1 - Área científica do curso:\n\nLiteraturas Clássicas.\n\n2 - Duração normal do curso:\n\n2 anos lectivos.\n\n3 - Número total de unidades de crédito necessárias à obtenção do curso: 20.\n\n4 - Áreas científicas e unidades de crédito:\n\n4.1 - Áreas científicas comuns a todas as áreas de especialização:\n\n4.1.1 - Obrigatória:\n\nProblemática da Licenciatura ... 6\n\n4.1.2 - Optativas:\n\nMetodologia Científica ... 4\n\nLinguística ... 4\n\nCultura ... 4\n\nFilosofia ... 4\n\nHistória ... 4\n\n4.2 - Áreas científicas específicas de cada área de especialização:\n\n4.2.1 - Área de especialização em Literatura Grega:\n\n4.2.1.1 - Obrigatória:\n\nLiteratura Grega ... 6\n\n4.2.1.2 - Optativas:\n\nLiteratura Grega ... 4\n\nLiteratura Latina ... 4\n\nLiteraturas Modernas ... 4\n\n4.2.2 - Área de especialização em Literatura Latina:\n\n4.2.2.1 - Obrigatória:\n\nLiteratura Latina ... 6\n\n4.2.2.2 - Optativas:\n\nLiteratura Latina ... 4\n\nLiteratura Grega ... 4\n\nLiteraturas Modernas ... 4\n\n4.2.3 - Área de especialização em Literaturas Comparadas:\n\n4.2.3.1 - Obrigatórias:\n\nLiteraturas Modernas ... 4\n\nLiteratura Grega ... 6\n\nLiteratura Latina ... 6\n\n5 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\n5.1 - Filosofia Clássica;\n\n5.2 - Línguas e Literaturas Clássicas (todas as variantes).\n\n6 - Especialidades a que se refere o n.º 10.º:\n\n6.1 - Área de especialização em Literatura Grega:\n\nLiteratura Grega.\n\n6.2 - Área de especialização em Literatura Latina:\n\nLiteratura Latina.\n\n6.3 - Área de especialização em Literaturas Comparadas:\n\nA fixar, caso a caso, pelo conselho científico face ao plano de estudos do curso seguido por cada candidato.\n\n> Alterado pelo/a [Portaria n.º 363/83](https://diariodarepublica.pt/dr/detalhe/portaria/363-1983-312443), publicado em 1983-04-02."
+  },
+  "f3f1b5cd60210562": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Mestrado em Linguística Portuguesa Histórica",
+   "in_force_from": "1987-04-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03.",
+    "Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03.",
+    "Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03."
+   ],
+   "markdown": "## ANEXO II — Mestrado em Linguística Portuguesa Histórica\n\n1 - Área científica do curso:\n\nLinguística Portuguesa Histórica.\n\n2 - Duração normal do curso:\n\n2 anos lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à obtenção do curso:\n\n> Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03.\n\nI - Obrigatória:\n\nLinguística Portuguesa Histórica ... 8\n\n> Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03.\n\nII - Opcionais:\n\na) Linguística Portuguesa ... 8\n\nb) Linguística Românica ... 8\n\nc) Linguística Geral ... 8\n\nd) Linguística Aplicada ... 8\n\n4 - Licenciaturas a que se refere o ponto 1 do n.º 5.º:\n\n> Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03.\n\na) Filologia Românica;\n\nb) Línguas e Literaturas Modernas (variantes com estudos portugueses).\n\n5 - Especialidade a que se refere o n.º 10.º:\n\na) Linguística Portuguesa."
+  },
+  "0e711ded0b15596c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VI — Mestrado em Literatura Francesa",
+   "in_force_from": "1987-04-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03.",
+    "Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03.",
+    "Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03."
+   ],
+   "markdown": "## ANEXO VI — Mestrado em Literatura Francesa\n\n1 - Área científica do curso:\n\nLiteratura Francesa.\n\n2 - Duração normal do curso:\n\n2 anos lectivos.\n\n> Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03.\n\n3 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\nI - Obrigatórias:\n\na) Problemática da Leitura Literária ... 4\n\nb) Literatura Francesa ... 8\n\n> Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03.\n\nII - Opcionais:\n\na) Problemática da Leitura Literária ... (ver nota a) 4\n\nb) Literatura Brasileira e Literaturas Africanas de Expressão Portuguesa ... (ver nota a) 4\n\nc) Literatura Portuguesa ... (ver nota a) 4\n\n(nota a) Para cada aluno poderá ser determinado que as 4 unidades de crédito sejam obtidas na área referida na alínea (a).\n\n4 - Licenciaturas a que se refere o ponto 1 do n.º 5.º:\n\n> Alterado pelo/a [Portaria n.º 813/83](https://diariodarepublica.pt/dr/detalhe/portaria/813-1983-454052), publicado em 1983-08-03.\n\na) Filologia Românica;\n\nb) Línguas e Literaturas Modernas (variantes com estudos franceses).\n\n5 - Especialidade a que se refere o n.º 10.º:\n\na) Literatura Francesa."
+  },
+  "bc7863b663834182": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VII — Mestrado em Estudos Anglo-Americanos",
+   "in_force_from": "1987-04-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1178/82](https://diariodarepublica.pt/dr/detalhe/portaria/1178-1982-380917), publicado em 1982-12-22."
+   ],
+   "markdown": "## ANEXO VII — Mestrado em Estudos Anglo-Americanos\n\n1 - Área científica do curso:\n\nEstudos Anglo-Americanos.\n\n2 - Duração normal do curso:\n\nDois anos lectivos\n\n3 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\n3.1 - Área de especialização em Literatura Inglesa:\n\nI - Obrigatória:\n\na) Literatura Inglesa ... 8\n\nII - Opcionais:\n\na) Literatura Inglesa ... 8\n\nb) Linguística Inglesa ... 8\n\nc) Cultura Inglesa ... 8\n\nd) Literatura e Cultura Norte-Americanas ... 8\n\n3.2 - Área de especialização em Linguística Inglesa:\n\nI - Obrigatória:\n\na) Linguística Inglesa ... 8\n\nII - Opcionais:\n\na) Linguística Inglesa ... 8\n\nb) Literatura Inglesa ... 8\n\nc) Cultura Inglesa ... 8\n\nd) Literatura e Cultura Norte-Americanas ... 8\n\n3.3 - Área de especialização em Cultura Inglesa:\n\nI - Obrigatória:\n\na) Cultura Inglesa ... 8\n\nII - Opcionais:\n\na) Cultura Inglesa ... 8\n\nb) Literatura Inglesa ... 8\n\nc) Linguística Inglesa ... 8\n\nd) Literatura e Cultura Norte-Americanas ... 8\n\n3.4 - Área de especialização em Literatura e Cultura Norte-Americanas:\n\nI - Obrigatória:\n\na) Literatura e Cultura Norte-Americanas ... 8\n\nII - Opcionais:\n\na) Literatura e Cultura Norte-Americanas ... 8\n\nb) Cultura Inglesa ... 8\n\nc) Literatura Inglesa ... 8\n\nd) Linguística Inglesa ... 8\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Filologia Germânica;\n\nb) Línguas e Literaturas Modernas (variantes com inglês).\n\n5 - Especialidades a que se refere o n.º 10.º:\n\na) Cultura Inglesa;\n\nb) Literatura Inglesa;\n\nc) Literatura Norte-Americana;\n\nd) Linguística Inglesa.\n\n> Alterado pelo/a [Portaria n.º 1178/82](https://diariodarepublica.pt/dr/detalhe/portaria/1178-1982-380917), publicado em 1982-12-22."
+  },
+  "4bef36b722c58ab0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VIII — Mestrado em Filosofia",
+   "in_force_from": "1987-04-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 324/87](https://diariodarepublica.pt/dr/detalhe/portaria/324-1987-665894), publicado em 1987-04-21."
+   ],
+   "markdown": "## ANEXO VIII — Mestrado em Filosofia\n\n1 - Área científica do curso:\n\nFilosofia.\n\n2 - Duração normal do curso:\n\nDois anos lectivos.\n\n3 - Áreas e unidades de crédito necessárias à obtenção do curso:\n\n3.1 - A área de especialização em que é conferido o grau é definida pela dissertação.\n\n3.2 - Para qualquer área de especialização as áreas e unidades de crédito necessárias à obtenção do curso são as seguintes:\n\na) História da Filosofia ... 16\n\nb) Metafísica e Antropologia ... 16\n\nc) Filosofia do Conhecimento e Epistemologia ... 16\n\nd) Filosofia da Linguagem e Lógica ... 16\n\ne) Filosofia da Cultura ... 16\n\nf) Filosofia Social e Política ... 16\n\ng) Filosofia da Cultura em Portugal ...16\n\n> Alterado pelo/a [Portaria n.º 324/87](https://diariodarepublica.pt/dr/detalhe/portaria/324-1987-665894), publicado em 1987-04-21.\n\n4 - Licenciatura a que se refere o n.º 1 do n.º 5.º:\n\na) Filosofia.\n\n5 - Especialidades a que se refere o n.º 10.º:\n\nSerão definidas caso a caso pelo conselho científico face ao plano de estudos do curso seguido por cada candidato;\n\nCaso o candidato seja titular do grau de mestre, será considerada igualmente a área sobre que incidiu a dissertação."
+  },
+  "a9538bd6bb3374f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO X — Mestrado em Geografia Física e Regional",
+   "in_force_from": "1987-04-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 525/84](https://diariodarepublica.pt/dr/detalhe/portaria/525-1984-381725), publicado em 1984-07-28."
+   ],
+   "markdown": "## ANEXO X — Mestrado em Geografia Física e Regional\n\n1 - Área científica do curso:\n\nGeografia Física e Regional.\n\n2 - Duração normal do curso:\n\n2 anos lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à obtenção do curso:\n\n3.1 - Área de especialização em Geomorfologia:\n\nGeomorfologia ... 12\n\nClimatologia ... 3\n\nGeografia Regional ... 3\n\n3.2 - Área de especialização em Climatologia:\n\nClimatologia ... 12\n\nGeomorfologia ... 3\n\nGeografia Regional ... 3\n\n3.3 - Área de especialização em Geografia Regional:\n\nGeografia Regional ... 12\n\nClimatologia ... 3\n\nGeomorfologia ... 3\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Geografia;\n\nb) Geologia.\n\n5 - Especialidades a que se refere o n.º 10.º:\n\na) Geografia Física;\n\nb) Geografia Regional.\n\n> Alterado pelo/a [Portaria n.º 525/84](https://diariodarepublica.pt/dr/detalhe/portaria/525-1984-381725), publicado em 1984-07-28."
+  }
+ }
+}

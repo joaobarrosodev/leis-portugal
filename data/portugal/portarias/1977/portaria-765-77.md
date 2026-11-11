@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-11-20'
+version_history:
+  file: portaria-765-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-12-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-11-20'
+    amending: pt:dre:367628:por
+    amending_title: Portaria n.º 600/79
+    changes:
+    - Altera Artigo unidades 24-29
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:30:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 600/79. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1977/portaria-765-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,17 +161,17 @@ c) Em instalações próprias de associações de cidadãos portugueses e seus d
 
 3 - Da escrituração escolar
 
-3.1 - Em todos os cursos cujo funcionamento não esteja integrado no horário escolar normal das escolas oficiais ou oficializadas dos diferentes países é obrigatória a existência e preenchimento dos seguintes livros de escrituração escolar:
+3.1 - Em todos os cursos de ensino básico português no estrangeiro é obrigatório a existência e preenchimento dos seguintes livros de escrituração escolar:
 
 a) Livro A - de matrícula, frequência e seus resultados;
 
-b) Livro B - diário de frequência;
+b) Livro B - diário da frequência;
 
-c) Livro C - registo das visitas respeitantes aos serviços de orientação pedagógica e inspecção;
+c) Livro E - registo de correspondência expedida;
 
-d) Livro E - da correspondência expedida;
+d) Arquivo de correspondência recebida;
 
-e) Arquivo de toda a correspondência recebida.
+> Alterado pelo/a [Portaria n.º 600/79](https://diariodarepublica.pt/dr/detalhe/portaria/600-1979-367628), publicado em 1979-11-20.
 
 3.2 - Os livros referidos no número anterior serão elaborados pelo Ministério da Educação e Investigação Científica, ouvidos os coordenadores, nos países em que existam, tendo as características específicas e apropriadas aos condicionalismos do ensino nos diferentes países.
 

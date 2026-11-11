@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:354346:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-08-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "23aa4889f7382b7b"
+   ]
+  },
+  {
+   "date": "1997-03-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:505783:por",
+     "title": "Decreto-Lei n.º 47/97",
+     "published": "1997-02-25",
+     "dre_path": "/dr/detalhe/decreto-lei/47-1997-505783"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-5",
+    "Altera Artigo unidades 14-14"
+   ],
+   "fragments": [
+    "ad2d7cb17f8c731c"
+   ]
+  }
+ ],
+ "fragments": {
+  "23aa4889f7382b7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Agosto\n\nAo abrigo do disposto no artigo 5.º da [Lei n.º 8/90](https://diariodarepublica.pt/dr/detalhe/lei/8-1990-332895), de 20 de Fevereiro:\n\nManda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:\n\n1.º São consignadas ao Instituto de Inovação Educacional de António Aurélio da Costa Ferreira, às Direcções Regionais de Educação, ao Departamento de Programação e Gestão Financeira, ao Departamento de Gestão de Recursos Educativos, ao Departamento do Ensino Superior, à Inspecção-Geral da Educação, ao Departamento de Ensino Secundário e ao Departamento da Educação Básica, quando por estes arrecadadas, as seguintes receitas:\n\na) Os subsídios, subvenções, comparticipações, quotizações, doações e legados concedidos por quaisquer entidades;\n\nb) O produto da venda de publicações e impressos editados e de materiais educativos produzidos;\n\nc) As quantias cobradas por actividades ou serviços prestados, bem como as resultantes da exploração de patentes;\n\nd) O produto da venda, nos termos da lei, de bens patrimoniais que não sejam necessários ao seu funcionamento;\n\ne) Os rendimentos de bens que, a qualquer título, se encontrem na sua posse;\n\nf) Quaisquer outras receitas que lhes sejam atribuídas por lei, contrato ou outro título;\n\ng) Os saldos das receitas consignadas.\n\n2.º Constituem receitas da Secretaria-Geral os saldos das receitas consignadas.\n\n3.º As receitas enumeradas nos números anteriores, com excepção das respeitantes ao Departamento de Programação e Gestão Financeira, são afectas ao pagamento das despesas dos serviços respectivos, mediante inscrições de dotações com compensação em receitas.\n\n4.º A presente portaria produz efeitos desde 3 de Maio de 1993.\n\nMinistérios das Finanças e da Educação.\n\nAssinada em 9 de Junho de 1993.\n\nPelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Educação, António Fernando Couto dos Santos."
+  },
+  "ad2d7cb17f8c731c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1997-03-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 47/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1997-505783), publicado em 1997-02-25.",
+    "Alterado pelo/a [Decreto-Lei n.º 47/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1997-505783), publicado em 1997-02-25."
+   ],
+   "markdown": "de 12 de Agosto\n\nAo abrigo do disposto no artigo 5.º da [Lei n.º 8/90](https://diariodarepublica.pt/dr/detalhe/lei/8-1990-332895), de 20 de Fevereiro:\n\nManda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:\n\n1.º São consignadas ao Instituto de Inovação Educacional de António Aurélio da Costa Ferreira, às Direcções Regionais de Educação, ao Departamento de Gestão de Recursos Educativos, ao Departamento do Ensino Superior, à Inspecção-Geral da Educação, ao Departamento de Ensino Secundário e ao Departamento da Educação Básica, quando por estes arrecadadas, as seguintes receitas:\n\n> Alterado pelo/a [Decreto-Lei n.º 47/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1997-505783), publicado em 1997-02-25.\n\na) Os subsídios, subvenções, comparticipações, quotizações, doações e legados concedidos por quaisquer entidades;\n\nb) O produto da venda de publicações e impressos editados e de materiais educativos produzidos;\n\nc) As quantias cobradas por actividades ou serviços prestados, bem como as resultantes da exploração de patentes;\n\nd) O produto da venda, nos termos da lei, de bens patrimoniais que não sejam necessários ao seu funcionamento;\n\ne) Os rendimentos de bens que, a qualquer título, se encontrem na sua posse;\n\nf) Quaisquer outras receitas que lhes sejam atribuídas por lei, contrato ou outro título;\n\ng) Os saldos das receitas consignadas.\n\n2.º Constituem receitas da Secretaria-Geral os saldos das receitas consignadas.\n\n3.º As receitas enumeradas nos números anteriores são afectas ao pagamento das despesas dos serviços respectivos, mediante inscrições de dotações com compensação em receitas.\n\n> Alterado pelo/a [Decreto-Lei n.º 47/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1997-505783), publicado em 1997-02-25.\n\n4.º A presente portaria produz efeitos desde 3 de Maio de 1993.\n\nMinistérios das Finanças e da Educação.\n\nAssinada em 9 de Junho de 1993.\n\nPelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Educação, António Fernando Couto dos Santos."
+  }
+ }
+}

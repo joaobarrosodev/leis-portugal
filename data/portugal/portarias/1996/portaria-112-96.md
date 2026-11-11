@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-05-25'
+version_history:
+  file: portaria-112-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-04-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-25'
+    amending: pt:dre:270438:por
+    amending_title: Portaria n.º 536/2004
+    changes:
+    - Altera Artigo unidades 14-15
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/112/1996/04/10/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:17:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 536/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-112-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,9 +157,9 @@ c) Curso de arte e tecnologias da comunicação audiovisual;
 
 d) Curso tecnológico de design de equipamento.
 
-2.º
+2.º - (Revogado.)
 
-Os cursos criados pela presente portaria são ministrados por unidades capitalizáveis, de acordo com os planos de estudo que constam dos mapas I, II, III e IV anexos ao presente diploma e que dele fazem parte integrante.
+> Alterado pelo/a [Portaria n.º 536/2004](https://diariodarepublica.pt/dr/detalhe/portaria/536-2004-270438), publicado em 2004-05-20.
 
 3.º
 

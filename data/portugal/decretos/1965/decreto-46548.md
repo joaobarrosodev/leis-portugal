@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-12-31'
+version_history:
+  file: decreto-46548.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1965-09-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-12-31'
+    amending: pt:dre:355346:por
+    amending_title: Decreto n.º 785/75
+    changes:
+    - Altera Artigo unidades 281-281
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:46:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 785/75. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1965/decreto-46548.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -719,7 +734,9 @@ b) A partir do início do mês seguinte ao do começo da actividade profissional
 
 Art. 74.º - 1. A partir da data em que tenham expirado os prazos estabelecidos para o pagamento das contribuições serão estas acrescidas de juro de mora.
 
-2. O juro de mora é de 0,5 por cento em relação a cada um dos meses seguintes àquele a que se referem as contribuições até ao mês, inclusive, em que o seu pagamento seja efectuado.
+2. O juro de mora é de 1,5% em relação a cada um dos meses seguintes àquele a que se referem as contribuições e até ao mês, inclusive, em que o seu pagamento seja efectuado.
+
+> Alterado pelo/a [Decreto n.º 785/75](https://diariodarepublica.pt/dr/detalhe/decreto/785-1975-355346), publicado em 1975-12-31.
 
 Art. 75.º - 1. A direcção da caixa, nos 30 dias seguintes ao termo do prazo fixado para o pagamento das contribuições, notificará o beneficiário faltoso que não se tenha justificado nos termos do artigo 80.º ou cuja justificação não for aceite, por meio de carta registada com aviso de recepção ou entrega contra recibo, para, dentro de quinze dias, efectuar aquele pagamento e juros de mora que forem devidos.
 

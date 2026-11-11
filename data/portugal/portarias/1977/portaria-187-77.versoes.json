@@ -1,0 +1,78 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:139733:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-04-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "43e5e783948fa8e1"
+   ]
+  },
+  {
+   "date": "1980-06-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:286343:por",
+     "title": "Portaria n.º 559/77",
+     "published": "1977-09-08",
+     "dre_path": "/dr/detalhe/portaria/559-1977-286343"
+    },
+    {
+     "id": "pt:dre:276635:por",
+     "title": "Portaria n.º 795/77",
+     "published": "1977-12-30",
+     "dre_path": "/dr/detalhe/portaria/795-1977-276635"
+    },
+    {
+     "id": "pt:dre:473094:por",
+     "title": "Portaria n.º 318/80",
+     "published": "1980-06-06",
+     "dre_path": "/dr/detalhe/portaria/318-1980-473094"
+    },
+    {
+     "id": "pt:dre:473094:por",
+     "title": "Portaria n.º 318/80",
+     "published": "1980-06-06",
+     "dre_path": "/dr/detalhe/portaria/318-1980-473094"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 30",
+    "Adita Artigo depois da unidade 30",
+    "Adita Artigo depois da unidade 30"
+   ],
+   "fragments": [
+    "aef0bca62cfb3579"
+   ]
+  }
+ ],
+ "fragments": {
+  "43e5e783948fa8e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Abril\n\nTendo em vista a necessidade de coordenar a actividade e interesses das diversas entidades que participam no comércio externo, decidiu o Governo criar um órgão onde possam ser amplamente discutidos e analisados os mais prementes problemas do sector.\n\nCom a criação do Conselho Nacional do Comércio Externo, espera o Governo dotar o País de um fórum onde possam ser pensadas e articuladas as principais medidas a adoptar para o indispensável incremento do comércio externo nacional.\n\nA actividade deste Conselho deverá estar, sobretudo, virada para a concertação social e convergência de esforços de todos os sujeitos que tomam parte nos sectores de actividade com maior incidência no comércio externo, de modo a conseguir-se para os problemas de interesse comum soluções harmónicas, coordenadas e eficazes.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças, dos Negócios Estrangeiros, da Indústria e Tecnologia, do Comércio e Turismo e dos Transportes e Comunicações, o seguinte:\n\n1.º É criado, no âmbito do Ministério do Comércio e Turismo, o Conselho Nacional do Comércio Externo.\n\n2.º - 1. O CNCE tem como presidente o Ministro do Comércio e Turismo e vice-presidente o Secretário de Estado do Comércio Externo.\n\n2. Têm assento no Conselho:\n\na) Um representante da Comissão de Economia da Assembleia da República, caso a Comissão entenda fazer-se representar;\n\nb) Um representante do Ministério das Finanças;\n\nc) Um representante do Ministério dos Negócios Estrangeiros;\n\nd) Um representante do Ministério da Indústria e Tecnologia;\n\ne) Um representante do Ministério dos Transportes e Comunicações;\n\nf) Três representantes de sindicatos dos trabalhadores do comércio;\n\ng) Um representante da Confederação do Comércio Português;\n\nh) Um representante da Associação Comercial de Lisboa;\n\ni) Um representante da Associação Comercial do Porto;\n\nj) Um representante da Confederação da Indústria Portuguesa;\n\nl) Um representante da Associação Industrial Portuguesa;\n\nm) Um representante do Banco de Portugal;\n\nn) Um representante da banca comercial nacionalizada;\n\no) Um representante da TAP - Transportes Aéreos Portugueses, E. P.;\n\np) Um representante da Associação dos Armadores da Marinha Mercante;\n\nq) Um representante das administrações portuárias;\n\nr) Um representante da CP - Caminhos de Ferro Portugueses, E. P.;\n\ns) Um representante da Antram - Associação Nacional de Transportes Públicos Rodoviários de Mercadorias;\n\nt) Um representante dos agentes de navegação;\n\nu) Um representante dos agentes transitários.\n\n3.º O Conselho terá as seguintes funções genéricas de carácter consultivo:\n\na) Emitir parecer sobre os assuntos de comércio externo que forem submetidos à sua apreciação pelo Governo ou por qualquer dos seus vogais;\n\nb) Formular recomendações sobre a política nacional de comércio externo.\n\n4.º Na medida do possível, deverá o Governo ouvir o Conselho, em particular nas seguintes matérias:\n\na) Projectos de fixação e alteração de regimes legais que regulamentem as importações;\n\nb) Projectos de criação ou agravamento de imposições fiscais que onerem os produtos comerciais ou as empresas de comércio externo;\n\nc) Criação de exclusivos para a importação ou exportação de determinados produtos;\n\nd) Criação de esquemas restritivos à importação de certos bens;\n\ne) Criação de esquemas de apoio à exportação.\n\n5.º O Conselho deverá emitir o seu parecer sobre a situação e evolução do comércio externo, nomeadamente nos seguintes aspectos:\n\na) Medidas de política do sector;\n\nb) Conjuntura interna do sector;\n\nc) Formação de gestores em comércio externo.\n\n6.º O Conselho deverá, obrigatoriamente, reunir-se todos os três meses, e poderá fazê-lo a qualquer momento, desde que convocado pelo seu presidente ou a requerimento de um terço dos seus membros.\n\n7.º O regulamento interno será elaborado, dentro de trinta dias, pelo Conselho, que para o efeito nomeará, de entre os seus membros, uma comissão.\n\nMinistérios das Finanças, dos Negócios Estrangeiros, da Indústria e Tecnologia, do Comércio e Turismo e dos Transportes e Comunicações, 17 de Março de 1977. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro dos Negócios Estrangeiros, José Manuel de Medeiros Ferreira. - O Ministro da Indústria e Tecnologia, António Francisco Barroso de Sousa Games. O Ministro do Comércio e Turismo, António Miguel Morais Barreto. - O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar."
+  },
+  "aef0bca62cfb3579": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1980-06-06",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 559/77](https://diariodarepublica.pt/dr/detalhe/portaria/559-1977-286343), publicado em 1977-09-08.",
+    "Aditado pelo/a [Portaria n.º 795/77](https://diariodarepublica.pt/dr/detalhe/portaria/795-1977-276635), publicado em 1977-12-30.",
+    "Aditado pelo/a [Portaria n.º 318/80](https://diariodarepublica.pt/dr/detalhe/portaria/318-1980-473094), publicado em 1980-06-06."
+   ],
+   "markdown": "de 4 de Abril\n\nTendo em vista a necessidade de coordenar a actividade e interesses das diversas entidades que participam no comércio externo, decidiu o Governo criar um órgão onde possam ser amplamente discutidos e analisados os mais prementes problemas do sector.\n\nCom a criação do Conselho Nacional do Comércio Externo, espera o Governo dotar o País de um fórum onde possam ser pensadas e articuladas as principais medidas a adoptar para o indispensável incremento do comércio externo nacional.\n\nA actividade deste Conselho deverá estar, sobretudo, virada para a concertação social e convergência de esforços de todos os sujeitos que tomam parte nos sectores de actividade com maior incidência no comércio externo, de modo a conseguir-se para os problemas de interesse comum soluções harmónicas, coordenadas e eficazes.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças, dos Negócios Estrangeiros, da Indústria e Tecnologia, do Comércio e Turismo e dos Transportes e Comunicações, o seguinte:\n\n1.º É criado, no âmbito do Ministério do Comércio e Turismo, o Conselho Nacional do Comércio Externo.\n\n2.º - 1. O CNCE tem como presidente o Ministro do Comércio e Turismo e vice-presidente o Secretário de Estado do Comércio Externo.\n\n2. Têm assento no Conselho:\n\na) Um representante da Comissão de Economia da Assembleia da República, caso a Comissão entenda fazer-se representar;\n\nb) Um representante do Ministério das Finanças;\n\nc) Um representante do Ministério dos Negócios Estrangeiros;\n\nd) Um representante do Ministério da Indústria e Tecnologia;\n\ne) Um representante do Ministério dos Transportes e Comunicações;\n\nf) Três representantes de sindicatos dos trabalhadores do comércio;\n\ng) Um representante da Confederação do Comércio Português;\n\nh) Um representante da Associação Comercial de Lisboa;\n\ni) Um representante da Associação Comercial do Porto;\n\nj) Um representante da Confederação da Indústria Portuguesa;\n\nl) Um representante da Associação Industrial Portuguesa;\n\nm) Um representante do Banco de Portugal;\n\nn) Um representante da banca comercial nacionalizada;\n\no) Um representante da TAP - Transportes Aéreos Portugueses, E. P.;\n\np) Um representante da Associação dos Armadores da Marinha Mercante;\n\nq) Um representante das administrações portuárias;\n\nr) Um representante da CP - Caminhos de Ferro Portugueses, E. P.;\n\ns) Um representante da Antram - Associação Nacional de Transportes Públicos Rodoviários de Mercadorias;\n\nt) Um representante dos agentes de navegação;\n\nu) Um representante dos agentes transitários.\n\nv) Um representante da Cosec - Companhia de Seguro de Créditos, E. P.\n\n> Aditado pelo/a [Portaria n.º 559/77](https://diariodarepublica.pt/dr/detalhe/portaria/559-1977-286343), publicado em 1977-09-08.\n\nv) Um representante do Sindicato dos Ajudantes e Praticantes de Despachante Oficial, Despachantes Privativos e Agentes Aduaneiros;\n\nw) Um representante da Câmara dos Despachantes Oficiais.\n\n> Aditado pelo/a [Portaria n.º 795/77](https://diariodarepublica.pt/dr/detalhe/portaria/795-1977-276635), publicado em 1977-12-30.\n\nv) Um representante dos bancos de poupança e investimento.\n\n> Aditado pelo/a [Portaria n.º 318/80](https://diariodarepublica.pt/dr/detalhe/portaria/318-1980-473094), publicado em 1980-06-06.\n\n3.º O Conselho terá as seguintes funções genéricas de carácter consultivo:\n\na) Emitir parecer sobre os assuntos de comércio externo que forem submetidos à sua apreciação pelo Governo ou por qualquer dos seus vogais;\n\nb) Formular recomendações sobre a política nacional de comércio externo.\n\n4.º Na medida do possível, deverá o Governo ouvir o Conselho, em particular nas seguintes matérias:\n\na) Projectos de fixação e alteração de regimes legais que regulamentem as importações;\n\nb) Projectos de criação ou agravamento de imposições fiscais que onerem os produtos comerciais ou as empresas de comércio externo;\n\nc) Criação de exclusivos para a importação ou exportação de determinados produtos;\n\nd) Criação de esquemas restritivos à importação de certos bens;\n\ne) Criação de esquemas de apoio à exportação.\n\n5.º O Conselho deverá emitir o seu parecer sobre a situação e evolução do comércio externo, nomeadamente nos seguintes aspectos:\n\na) Medidas de política do sector;\n\nb) Conjuntura interna do sector;\n\nc) Formação de gestores em comércio externo.\n\n6.º O Conselho deverá, obrigatoriamente, reunir-se todos os três meses, e poderá fazê-lo a qualquer momento, desde que convocado pelo seu presidente ou a requerimento de um terço dos seus membros.\n\n7.º O regulamento interno será elaborado, dentro de trinta dias, pelo Conselho, que para o efeito nomeará, de entre os seus membros, uma comissão.\n\nMinistérios das Finanças, dos Negócios Estrangeiros, da Indústria e Tecnologia, do Comércio e Turismo e dos Transportes e Comunicações, 17 de Março de 1977. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro dos Negócios Estrangeiros, José Manuel de Medeiros Ferreira. - O Ministro da Indústria e Tecnologia, António Francisco Barroso de Sousa Games. O Ministro do Comércio e Turismo, António Miguel Morais Barreto. - O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar."
+  }
+ }
+}

@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-07-17'
+version_history:
+  file: portaria-319-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-03-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-07-17'
+    amending: pt:dre:455428:por
+    amending_title: Portaria n.º 842/83; Portaria n.º 452/84
+    changes:
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:37:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 842/83; Portaria n.º
+    452/84. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-319-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,13 +139,17 @@ Manda o Governo da República Portuguesa, pelo Ministro da Indústria, Energia e
 
 a) Pelo presidente e pelo vice-presidente do LNETI;
 
-b) Pelos directores dos institutos e dos departamentos não integrados em institutos;
+b) Pelos directores dos institutos e dos departamentos;
+
+> Alterado pelo/a [Portaria n.º 452/84](https://diariodarepublica.pt/dr/detalhe/portaria/452-1984-385983), publicado em 1984-07-12.
 
 c) Pelos directores dos serviços de relações exteriores, dos serviços administrativos e dos serviços de finanças e património;
 
 d) Pelo coordenador da assessoria jurídica;
 
-e) Por 6 representantes eleitos de entre o pessoal de investigação e técnico superior.
+e) Por 6 representantes eleitos de entre o pessoal de investigação e técnico superior, bem como pessoal dirigente oriundo destas carreiras, não incluído nas alíneas a), b), c) e d).
+
+> Alterado pelo/a [Portaria n.º 842/83](https://diariodarepublica.pt/dr/detalhe/portaria/842-1983-455428), publicado em 1983-08-20.
 
 2.º Os membros referidos na alínea e) do número anterior serão eleitos pela forma seguinte:
 

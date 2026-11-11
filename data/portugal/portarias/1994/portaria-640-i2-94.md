@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-08-31'
+version_history:
+  file: portaria-640-i2-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-08-31'
+    amending: pt:dre:305604:por
+    amending_title: Declaração de Rectificação n.º 128/94
+    changes:
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/640-i2/1994/07/15/p/dre/pt/html
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:33:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 128/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-640-i2-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -181,7 +196,9 @@ a zona de caça turística do Monte da Vinha e outras (processo n.º 1679 do Ins
 
 2 - A sinalização obedecerá às condições definidas nos n.os 6.º a 9.º da [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), 3.º e 4.º da [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925) e 6.º e 7.º da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697), de 18 de Março.
 
-7.º Os prédios rústicos que integram esta zona de caça turística, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).
+7.º Os prédios rústicos que integram esta zona de caça turística, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter dois guardas florestais auxiliares dotados de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).
+
+> Alterado pelo/a [Declaração de Rectificação n.º 128/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/128-1994-305604), publicado em 1994-08-31.
 
 8.º O disposto no presente diploma não é aplicável às áreas consignadas no artigo 14.º, n.os 1 e 2, da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.
 

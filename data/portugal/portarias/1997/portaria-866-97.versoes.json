@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:644487:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-09-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "df550ec5cde19bae"
+   ]
+  },
+  {
+   "date": "1998-04-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176317:por",
+     "title": "Portaria n.º 260/98",
+     "published": "1998-04-24",
+     "dre_path": "/dr/detalhe/portaria/260-1998-176317"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 9-9"
+   ],
+   "fragments": [
+    "95b0db4f38cde4ac"
+   ]
+  }
+ ],
+ "fragments": {
+  "df550ec5cde19bae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Setembro\n\nPela [Portaria n.º 640-T1/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-t1-1994-276409), de 15 de Julho, alterada pela [Portaria n.º 1002/95](https://diariodarepublica.pt/dr/detalhe/portaria/1002-1995-434668), de 19 de Agosto, foi concessionada à Associação de Caça e Pesca da Mata uma zona de caça associativa situada no município de Castelo Branco, com uma área de 1575,6475 ha.\n\nCom o Acórdão do Tribunal Constitucional n.º 866/96, de 18 de Dezembro, foi declarada a inconstitucionalidade dos n.os 3 a 6 do artigo 63.º do [Decreto-Lei n.º 311/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1987-417646), de 10 de Agosto, dos n.os 3, 4, 6 e 7 do artigo 65.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto, e dos artigos 71.º e 76.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro, por violação do artigo 2.º e do n.º 1 do artigo 62.º da Constituição da República Portuguesa, na parte em que a criação de zonas de caça associativa impôs a integração de terrenos relativamente aos quais os respectivos titulares de direitos reais sobre os mesmos não produziram uma efectiva manifestação de vontade no sentido dessa integração.\n\nConsiderando que, por força do citado acórdão, a inconstitucionalidade das normas dos artigos atrás referidos determina a exclusão dos prédios integrados em zonas de caça associativa sem o acordo dos respectivos titulares, a zona de caça associativa (processo n.º 1640-DGF) constituída pela [Portaria n.º 640-T1/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-t1-1994-276409), de 15 de Julho, alterada pela [Portaria n.º 1002/95](https://diariodarepublica.pt/dr/detalhe/portaria/1002-1995-434668), de 19 de Agosto, encontra-se abrangida pela declaração de inconstitucionalidade referida.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, com fundamento no artigo 2.º da Lei n.º 28/82, de 15 de Novembro, o seguinte:\n\n1.º O n.º 1.º da [Portaria n.º 640-T1/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-t1-1994-276409), de 15 de Julho, alterado pela [Portaria n.º 1002/95](https://diariodarepublica.pt/dr/detalhe/portaria/1002-1995-434668), de 19 de Agosto, passa a ter a seguinte redacção:\n\n«Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia da Mata, município de Castelo Branco, com a área de 858,3701 ha.»\n\nÉ aditado à [Portaria n.º 640-T1/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-t1-1994-276409), de 15 de Julho, um n.º 1.º-A, com a seguinte redacção:\n\n«Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.»\n\n2.º Mantêm-se integralmente os direitos e obrigações decorrentes da lei e constantes na [Portaria n.º 640-T1/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-t1-1994-276409), de 15 de Julho.\n\n3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas.\n\nAssinada em 8 de Agosto de 1997.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/209b00/48044804.pdf)"
+  },
+  "95b0db4f38cde4ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1998-04-29",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 260/98](https://diariodarepublica.pt/dr/detalhe/portaria/260-1998-176317), publicado em 1998-04-24."
+   ],
+   "markdown": "de 10 de Setembro\n\nPela [Portaria n.º 640-T1/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-t1-1994-276409), de 15 de Julho, alterada pela [Portaria n.º 1002/95](https://diariodarepublica.pt/dr/detalhe/portaria/1002-1995-434668), de 19 de Agosto, foi concessionada à Associação de Caça e Pesca da Mata uma zona de caça associativa situada no município de Castelo Branco, com uma área de 1575,6475 ha.\n\nCom o Acórdão do Tribunal Constitucional n.º 866/96, de 18 de Dezembro, foi declarada a inconstitucionalidade dos n.os 3 a 6 do artigo 63.º do [Decreto-Lei n.º 311/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1987-417646), de 10 de Agosto, dos n.os 3, 4, 6 e 7 do artigo 65.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto, e dos artigos 71.º e 76.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro, por violação do artigo 2.º e do n.º 1 do artigo 62.º da Constituição da República Portuguesa, na parte em que a criação de zonas de caça associativa impôs a integração de terrenos relativamente aos quais os respectivos titulares de direitos reais sobre os mesmos não produziram uma efectiva manifestação de vontade no sentido dessa integração.\n\nConsiderando que, por força do citado acórdão, a inconstitucionalidade das normas dos artigos atrás referidos determina a exclusão dos prédios integrados em zonas de caça associativa sem o acordo dos respectivos titulares, a zona de caça associativa (processo n.º 1640-DGF) constituída pela [Portaria n.º 640-T1/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-t1-1994-276409), de 15 de Julho, alterada pela [Portaria n.º 1002/95](https://diariodarepublica.pt/dr/detalhe/portaria/1002-1995-434668), de 19 de Agosto, encontra-se abrangida pela declaração de inconstitucionalidade referida.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, com fundamento no artigo 2.º da Lei n.º 28/82, de 15 de Novembro, o seguinte:\n\n1.º O n.º 1.º da [Portaria n.º 640-T1/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-t1-1994-276409), de 15 de Julho, alterado pela [Portaria n.º 1002/95](https://diariodarepublica.pt/dr/detalhe/portaria/1002-1995-434668), de 19 de Agosto, passa a ter a seguinte redacção:\n\n«Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia da Mata, município de Castelo Branco, com a área de 849,8536 ha.»\n\n> Alterado pelo/a [Portaria n.º 260/98](https://diariodarepublica.pt/dr/detalhe/portaria/260-1998-176317), publicado em 1998-04-24.\n\nÉ aditado à [Portaria n.º 640-T1/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-t1-1994-276409), de 15 de Julho, um n.º 1.º-A, com a seguinte redacção:\n\n«Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.»\n\n2.º Mantêm-se integralmente os direitos e obrigações decorrentes da lei e constantes na [Portaria n.º 640-T1/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-t1-1994-276409), de 15 de Julho.\n\n3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas.\n\nAssinada em 8 de Agosto de 1997.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/209b00/48044804.pdf)"
+  }
+ }
+}

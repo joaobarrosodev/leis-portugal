@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-06-08'
+version_history:
+  file: portaria-895-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-11-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-06-08'
+    amending: pt:dre:421830:por
+    amending_title: Portaria n.º 465/87
+    changes:
+    - Altera Artigo unidades 25-25
+    - Altera Artigo unidades 28-28
+    - Altera Artigo unidades 47-47
+    - Adita Artigo depois da unidade 47
 identifiers:
   celex: null
   eli: null
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:37:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 465/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-895-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,13 +182,17 @@ c) Principais regulamentações de circulação nos países com os quais existam
 
 3 - As pessoas diplomadas com cursos superiores que impliquem o conhecimento de algumas das matérias referidas no número anterior serão dispensadas do exame referente a essas matérias por decisão do director-geral de Transportes Terrestres, a requerimento do interessado.
 
-4 - As pessoas a quem tenha sido reconhecida capacidade profissional nos termos do n.º 1 do n.º 5.º da [Portaria n.º 1180/82](https://diariodarepublica.pt/dr/detalhe/portaria/1180-1982-380902), de 22 de Dezembro, são dispensadas da aprovação em exame nas matérias constantes do grupo I do n.º 2.
+4 - As pessoas a quem tenha sido reconhecida capacidade para o exercício da profissão de transportador público ocasional de mercadorias ficam dispensadas do exame das matérias constantes do grupo I do n.º 2.
+
+> Alterado pelo/a [Portaria n.º 465/87](https://diariodarepublica.pt/dr/detalhe/portaria/465-1987-421830), publicado em 1987-06-03.
 
 5 - Aos cursos de formação profissional destinados a preparar os candidatos aos exames referidos no n.º 2 é aplicável o disposto na [Portaria n.º 1180/82](https://diariodarepublica.pt/dr/detalhe/portaria/1180-1982-380902), de 22 de Dezembro.
 
 6 - Os gerentes, administradores ou directores de empresas titulares de alvará para transporte internacional rodoviário de mercadorias que à data da publicação do presente diploma contem 3 anos de exercício ininterrupto daquelas funções são dispensados da aprovação no exame a que se refere o n.º 2, para efeitos de obtenção do certificado de capacidade profissional.
 
-7 - O director-geral de Transportes Terrestres poderá, mediante despacho e a título excepcional, fixar um prazo durante o qual a aprovação em exame sobre as matérias referidas no grupo I do n.º 2 confere capacidade profissional para o exercício da actividade de transportador internacional rodoviário de mercadorias, sem prejuízo da posterior frequência dos cursos referentes às matérias referidas no grupo II do mesmo número.
+7 - Sem prejuízo de posterior frequência de curso e aprovação em exame das matérias constantes do grupo II do n.º 2, a capacidade para o exercício da profissão de transportador público ocasional de mercadorias será provisoriamente aceite para efeitos do disposto na alínea b) do n.º 1 do n.º 1.º, durante um período a fixar por despacho do director-geral de Transportes Terrestres.
+
+> Alterado pelo/a [Portaria n.º 465/87](https://diariodarepublica.pt/dr/detalhe/portaria/465-1987-421830), publicado em 1987-06-03.
 
 8 - A capacidade profissional será colocada ao serviço exclusivo de uma única empresa de transportes.
 
@@ -208,7 +230,15 @@ e) Fotocópia autenticada do último balanço entregue na repartição de finan�
 
 a) Até 31 de Dezembro de 1987, continuar a realizar esses transportes com veículos licenciados para transporte público ocasional de mercadorias sem limite de raio de acção;
 
-b) Até 31 de Dezembro de 1989, realizar transportes com destino a Espanha em veículos licenciados sem limite de raio de acção.
+b) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 465/87](https://diariodarepublica.pt/dr/detalhe/portaria/465-1987-421830), publicado em 1987-06-03.
+
+10.º Até 31 de Dezembro de 1989 poderão ser concedidas autorizações para transportes com destino a Espanha às empresas licenciadas para transporte público ocasional de mercadorias que se proponham realizar esses transportes por meio de veículos licenciados sem limite de raio de acção.
+
+11.º Se as condições de mercado o exigirem e ouvida a associação representativa dos transportadores, poderão ser prorrogados os prazos estabelecidos nos n.os 9.º e 10.º, por despacho do Ministro das Obras Públicas, Transportes e Comunicações.
+
+> Aditado pelo/a [Portaria n.º 465/87](https://diariodarepublica.pt/dr/detalhe/portaria/465-1987-421830), publicado em 1987-06-03.
 
 Ministério do Equipamento Social.
 

@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-03-01'
+version_history:
+  file: portaria-644-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-12-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-03-01'
+    amending: pt:dre:678849:por
+    amending_title: Portaria n.º 70/80
+    changes:
+    - Altera Artigo unidades 18-21
+    - Adita Artigo depois da unidade 22
+    - Adita Artigo depois da unidade 27
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:03:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 70/80. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1979/portaria-644-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,15 +159,17 @@ A Creche e Jardim Infantil Abrigo dos Pequeninos;
 
 c) Dependentes do Instituto de Obras Sociais:
 
-A Creche, Jardim Infantil e Colónia de Férias de Matosinhos;
+O Jardim-de-Infância da Póvoa de Varzim;
 
-A Creche e Jardim-de-Infância de S. Mamede de Infesta;
+O Jardim-de-Infância de Lavadores;
 
-A Creche e Jardim-de-Infância de Santo Tirso;
-
-A Colónia de Férias da Praia da Árvore;
+> Alterado pelo/a [Portaria n.º 70/80](https://diariodarepublica.pt/dr/detalhe/portaria/70-1980-678849), publicado em 1980-03-01.
 
 d) A delegação, no distrito do Porto, do Instituto de Apoio ao Retorno de Nacionais;
+
+e) A delegação no Porto do Gabinete de Inspecção do ex-Comissariado para os Desalojados.
+
+> Aditado pelo/a [Portaria n.º 70/80](https://diariodarepublica.pt/dr/detalhe/portaria/70-1980-678849), publicado em 1980-03-01.
 
 2) Integração apenas funcional:
 
@@ -161,6 +180,10 @@ O Lar de Monte dos Burgos;
 O Lar Residencial das Fontainhas;
 
 O Centro de Paralisia Cerebral do Porto.
+
+O Centro de Educação Especial do Porto.
+
+> Aditado pelo/a [Portaria n.º 70/80](https://diariodarepublica.pt/dr/detalhe/portaria/70-1980-678849), publicado em 1980-03-01.
 
 II
 

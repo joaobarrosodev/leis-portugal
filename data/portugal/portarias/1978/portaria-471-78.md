@@ -30,10 +30,28 @@ notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-12-14'
+version_history:
+  file: portaria-471-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-08-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-12-14'
+    amending: pt:dre:324722:por
+    amending_title: Portaria n.º 737/78
+    changes:
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 25-25
+    - Altera Artigo unidades 27-27
+    - Altera Artigo unidades 34-34
 identifiers:
   celex: null
   eli: null
@@ -59,7 +77,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:42:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 737/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1978/portaria-471-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,11 +158,15 @@ b) Oficiais e sargentos do quadro de complemento dos três ramos das forças arm
 
 c) Oficiais e sargentos da Guarda Nacional Republicana e da Guarda Fiscal, nas situações de activo, reserva e reforma;
 
-d) Oficiais e sargentos da Guarda Fiscal das ex-colónias, na situação de reforma;
+d) Oficiais, comandantes de circunscrição, chefes-ajudantes, chefes e subchefes de secção da Guarda Fiscal das ex-colónias, na situação de desligados para efeitos de aposentação e aposentados;
+
+> Alterado pelo/a [Portaria n.º 737/78](https://diariodarepublica.pt/dr/detalhe/portaria/737-1978-324722), publicado em 1978-12-14.
 
 e) Oficiais, comissários, chefes e subchefes da Polícia de Segurança Pública, nas situações de activo e reforma;
 
-f) Oficiais, comissários, chefes e subchefes da Polícia de Segurança Pública das ex-colónias, na situação de reforma;
+f) Oficiais, adjuntos do Comando-Geral, adjuntos distritais, comandantes de secção, comissários, chefes e subchefes da Polícia de Segurança Pública das ex-colónias, na situação de desligados para efeitos de aposentação e aposentados.
+
+> Alterado pelo/a [Portaria n.º 737/78](https://diariodarepublica.pt/dr/detalhe/portaria/737-1978-324722), publicado em 1978-12-14.
 
 g) Juízes do Supremo Tribunal Militar, dos tribunais militares territoriais e do Tribunal Militar da Marinha;
 
@@ -165,11 +188,15 @@ b) Outras praças dos três ramos das forças armadas, quando na efectividade de
 
 c) Praças da Guarda Nacional Republicana e da Guarda Fiscal, nas situações de activo, reserva e reforma;
 
-d) Praças da Guarda Fiscal das ex-colónias, na situação de reforma;
+d) Cabos e guardas da Guarda Fiscal das ex-colónias, na situação de desligados para efeitos de aposentação e aposentados;
+
+> Alterado pelo/a [Portaria n.º 737/78](https://diariodarepublica.pt/dr/detalhe/portaria/737-1978-324722), publicado em 1978-12-14.
 
 e) Guardas da Polícia de Segurança Pública, nas situações de activo e reforma;
 
-f) Guardas da Polícia de Segurança Pública das ex-colónias, na situação de reforma;
+f) Guardas da Polícia de Segurança Pública das ex-colónias, na situação de desligados para efeitos de aposentação e aposentados.
+
+> Alterado pelo/a [Portaria n.º 737/78](https://diariodarepublica.pt/dr/detalhe/portaria/737-1978-324722), publicado em 1978-12-14.
 
 g) Deficientes das forças armadas oriundos das categorias mencionadas neste número;
 
@@ -183,7 +210,9 @@ rege-se pelas seguintes condições:
 
 4.º - 1 - Salvo nos casos em que a aquisição dos bilhetes seja feita através de requisição da autoridade competente, as concessões de que tratam os artigos 1.º e 2.º obrigam à identificação do beneficiário, por meio de bilhete de identidade ou cartão de identificação emitido pelo ramo das forças armadas, ou departamento a que pertence, perante os funcionários dos caminhos de ferro encarregados da venda e fiscalização dos bilhetes.
 
-2 - Os elementos de identificação referidos no número anterior, quando a sua validade possa justificadamente suscitar fundadas dúvidas ou, na sua falta, serão obrigatoriamente acompanhados ou substituídos por uma credencial que os autentique passada pelo comando a que o militar ou elemento das forças militarizadas se encontre subordinado, autenticada com o respectivo selo branco.
+2 - Os elementos de identificação referidos no número anterior, quando a sua validade possa justificadamente suscitar fundadas dúvidas ou na sua falta, serão obrigatoriamente acompanhados ou substituídos por uma credencial que os autentique, passada pelo comando a que o militar ou elemento das forças militarizadas se encontre subordinado ou pela Direcção-Geral da Administração Civil, da Secretaria de Estado da Administração Pública, autenticada com o respectivo selo branco.
+
+> Alterado pelo/a [Portaria n.º 737/78](https://diariodarepublica.pt/dr/detalhe/portaria/737-1978-324722), publicado em 1978-12-14.
 
 3 - Na credencial referida no número anterior figurará obrigatoriamente o prazo da sua validade.
 

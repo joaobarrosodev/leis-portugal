@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:617525:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-07-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "278981fd8dcca809"
+   ]
+  },
+  {
+   "date": "1997-08-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:194610:por",
+     "title": "Portaria n.º 750/97",
+     "published": "1997-08-28",
+     "dre_path": "/dr/detalhe/portaria/750-1997-194610"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6",
+    "Adita Artigo depois da unidade 6"
+   ],
+   "fragments": [
+    "6a7b80e71811d4eb"
+   ]
+  }
+ ],
+ "fragments": {
+  "278981fd8dcca809": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Julho\n\nCom fundamento no disposto nos artigos 19.º, 20.º, 21.º e 26.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 79.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto;\n\nOuvido o Conselho Nacional da Caça e da Conservação da Fauna:\n\nManda o Governo, pelo Ministro da Agricultura, o seguinte:\n\n1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Montalvão, município de Nisa, com uma área de 597,6350 ha.\n\n2.º Pelo presente diploma é concessionada, pelo período de 12 anos, ao Clube Amadores de Caça de Pé da Serra (registo na Direcção-Geral das Florestas n.º 4.734.90), com sede no Pé da Serra, Nisa, a zona de caça associativa das Herdades de Frágua, Couto dos Merujos e outras (processo n.º 1021 da Direcção-Geral das Florestas).\n\n3.º O Clube Amadores de Caça de Pé da Serra, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigado a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegética aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.\n\n4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados do Clube Amadores de Caça de Pé da Serra, com observância das regras legais e das suas normas estatutárias e regulamentares.\n\n5.º - 1 - A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.\n\n2 - A sinalização obedecerá às condições definidas nos n.os 6.º a 9.º da [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), 3.º e 4.º da [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925) e 6.º e 7.º da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697), de 18 de Março.\n\n6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).\n\n7.º O disposto no presente diploma não é aplicável às áreas consignadas no artigo 14.º, n.os 1 e 2, da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.\n\n8.º Esta concessão é renovável nos termos do disposto no artigo 73.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890).\n\nMinistério da Agricultura.\n\nAssinada em 24 de Junho de 1992.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161b02/00180019.pdf)"
+  },
+  "6a7b80e71811d4eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1997-08-29",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 750/97](https://diariodarepublica.pt/dr/detalhe/portaria/750-1997-194610), publicado em 1997-08-28.",
+    "Aditado pelo/a [Portaria n.º 750/97](https://diariodarepublica.pt/dr/detalhe/portaria/750-1997-194610), publicado em 1997-08-28."
+   ],
+   "markdown": "de 15 de Julho\n\nCom fundamento no disposto nos artigos 19.º, 20.º, 21.º e 26.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 79.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto;\n\nOuvido o Conselho Nacional da Caça e da Conservação da Fauna:\n\nManda o Governo, pelo Ministro da Agricultura, o seguinte:\n\n1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Montalvão, município de Nisa, com a área de 516,1850 ha.\n\n> Alterado pelo/a [Portaria n.º 750/97](https://diariodarepublica.pt/dr/detalhe/portaria/750-1997-194610), publicado em 1997-08-28.\n\n1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.\n\n> Aditado pelo/a [Portaria n.º 750/97](https://diariodarepublica.pt/dr/detalhe/portaria/750-1997-194610), publicado em 1997-08-28.\n\n2.º Pelo presente diploma é concessionada, pelo período de 12 anos, ao Clube Amadores de Caça de Pé da Serra (registo na Direcção-Geral das Florestas n.º 4.734.90), com sede no Pé da Serra, Nisa, a zona de caça associativa das Herdades de Frágua, Couto dos Merujos e outras (processo n.º 1021 da Direcção-Geral das Florestas).\n\n3.º O Clube Amadores de Caça de Pé da Serra, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigado a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegética aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.\n\n4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados do Clube Amadores de Caça de Pé da Serra, com observância das regras legais e das suas normas estatutárias e regulamentares.\n\n5.º - 1 - A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.\n\n2 - A sinalização obedecerá às condições definidas nos n.os 6.º a 9.º da [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), 3.º e 4.º da [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925) e 6.º e 7.º da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697), de 18 de Março.\n\n6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).\n\n7.º O disposto no presente diploma não é aplicável às áreas consignadas no artigo 14.º, n.os 1 e 2, da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.\n\n8.º Esta concessão é renovável nos termos do disposto no artigo 73.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890).\n\nMinistério da Agricultura.\n\nAssinada em 24 de Junho de 1992.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161b02/00180019.pdf)"
+  }
+ }
+}

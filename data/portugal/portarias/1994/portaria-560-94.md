@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-12-02'
+version_history:
+  file: portaria-560-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-12-02'
+    amending: pt:dre:469245:por
+    amending_title: Portaria n.º 693-F/96
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/560/1994/07/12/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:30:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 693-F/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-560-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,7 +164,11 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Sabacheira, município de Tomar, com uma área de 1900 ha.
+1.º - 1 - Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Sabacheira, município de Tomar, com uma área de 1861,3440 ha.
+
+2 - Exceptuam-se os prédios delimitados na planta, que substitui a anexa à [Portaria n.º 569-G/96](https://diariodarepublica.pt/dr/detalhe/portaria/569-g-1996-534407), os quais constituem enclaves e correspondem aos identificados na lista apensa ao presente diploma e aos já identificados na lista apensa à portaria acima referida.
+
+> Alterado pelo/a [Portaria n.º 693-F/96](https://diariodarepublica.pt/dr/detalhe/portaria/693-f-1996-469245), publicado em 1996-11-27.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, ao Grupo Desportivo Recreativo e de Caça da Sabacheira (Serra) (registo no Instituto Florestal n.º 3.845.91), com sede na Serra de Cima, Sabacheira, Tomar, a zona de caça associativa de Sabacheira (Serra) (processo n.º 1599 do Instituto Florestal).
 

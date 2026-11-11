@@ -30,10 +30,26 @@ notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-06-06'
+version_history:
+  file: portaria-187-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-04-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-06-06'
+    amending: pt:dre:286343:por
+    amending_title: Portaria n.º 559/77; Portaria n.º 795/77; Portaria n.º 318/80; Portaria n.º 318/80
+    changes:
+    - Adita Artigo depois da unidade 30
+    - Adita Artigo depois da unidade 30
+    - Adita Artigo depois da unidade 30
 identifiers:
   celex: null
   eli: null
@@ -59,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:16:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 559/77; Portaria n.º
+    795/77; Portaria n.º 318/80; Portaria n.º 318/80. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1977/portaria-187-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,6 +181,20 @@ s) Um representante da Antram - Associação Nacional de Transportes Públicos R
 t) Um representante dos agentes de navegação;
 
 u) Um representante dos agentes transitários.
+
+v) Um representante da Cosec - Companhia de Seguro de Créditos, E. P.
+
+> Aditado pelo/a [Portaria n.º 559/77](https://diariodarepublica.pt/dr/detalhe/portaria/559-1977-286343), publicado em 1977-09-08.
+
+v) Um representante do Sindicato dos Ajudantes e Praticantes de Despachante Oficial, Despachantes Privativos e Agentes Aduaneiros;
+
+w) Um representante da Câmara dos Despachantes Oficiais.
+
+> Aditado pelo/a [Portaria n.º 795/77](https://diariodarepublica.pt/dr/detalhe/portaria/795-1977-276635), publicado em 1977-12-30.
+
+v) Um representante dos bancos de poupança e investimento.
+
+> Aditado pelo/a [Portaria n.º 318/80](https://diariodarepublica.pt/dr/detalhe/portaria/318-1980-473094), publicado em 1980-06-06.
 
 3.º O Conselho terá as seguintes funções genéricas de carácter consultivo:
 

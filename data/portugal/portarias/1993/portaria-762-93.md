@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-07-28'
+version_history:
+  file: portaria-762-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-08-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-07-28'
+    amending: pt:dre:636770:por
+    amending_title: Portaria n.º 793/2007
+    changes:
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/762/1993/08/27/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:09:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 793/2007. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-762-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,11 +158,15 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 1.º Sempre que as taxas de portagem sejam determinadas pela leitura magnética de títulos de trânsito, os utentes das auto-estradas que integram a concessão outorgada pela BRISA - Auto-Estradas de Portugal, S. A., e constantes da base I anexa ao [Decreto-Lei n.º 315/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1991-402880), de 20 de Agosto, devem:
 
-a) Recolher o título de trânsito na barreira de portagem em que entrarem na auto-estrada;
+a) Recolher o título de trânsito sempre que tal lhes seja exigido numa barreira de portagem;
+
+> Alterado pelo/a [Portaria n.º 793/2007](https://diariodarepublica.pt/dr/detalhe/portaria/793-2007-636770), publicado em 2007-07-23.
 
 b) Conservar o título de trânsito, em boas condições, durante a viagem;
 
-c) Apresentar o título de trânsito, para determinação da taxa de portagem a cobrar, aos portageiros, na barreira de portagem por onde pretenderem sair da auto-estrada.
+c) Apresentar o título de trânsito, para determinação da taxa de portagem a cobrar, nas barreiras de portagem onde o pagamento lhes for exigido.
+
+> Alterado pelo/a [Portaria n.º 793/2007](https://diariodarepublica.pt/dr/detalhe/portaria/793-2007-636770), publicado em 2007-07-23.
 
 2.º Considera-se verificar ausência de título de trânsito sempre que o utente não apresente o título de trânsito ou quando o título apresentado não seja válido.
 

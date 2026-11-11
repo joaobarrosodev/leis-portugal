@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-04-29'
+version_history:
+  file: portaria-866-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-09-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-04-29'
+    amending: pt:dre:176317:por
+    amending_title: Portaria n.º 260/98
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/866/1997/09/10/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:05:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 260/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-866-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,7 +173,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 1.º O n.º 1.º da [Portaria n.º 640-T1/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-t1-1994-276409), de 15 de Julho, alterado pela [Portaria n.º 1002/95](https://diariodarepublica.pt/dr/detalhe/portaria/1002-1995-434668), de 19 de Agosto, passa a ter a seguinte redacção:
 
-«Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia da Mata, município de Castelo Branco, com a área de 858,3701 ha.»
+«Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia da Mata, município de Castelo Branco, com a área de 849,8536 ha.»
+
+> Alterado pelo/a [Portaria n.º 260/98](https://diariodarepublica.pt/dr/detalhe/portaria/260-1998-176317), publicado em 1998-04-24.
 
 É aditado à [Portaria n.º 640-T1/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-t1-1994-276409), de 15 de Julho, um n.º 1.º-A, com a seguinte redacção:
 

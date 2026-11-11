@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-05-19'
+version_history:
+  file: portaria-843-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-05-19'
+    amending: pt:dre:630669:por
+    amending_title: Portaria n.º 279/78
+    changes:
+    - Altera Artigo unidades 21-21
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:37:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 279/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1974/portaria-843-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -168,7 +183,9 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Abaste
 
 6.º Os preços máximos de venda pelo armazenista são os indicados nos n.os 2.º a 5.º para a venda pelo fabricante ou importador acrescidos de 10%.
 
-7.º É consentida a venda ao público nos estabelecimentos retalhistas do ramo alimentar dos produtos referidos nesta portaria, salvo daqueles que, por decisão da Direcção-Geral de Saúde, só possam ser vendidos mediante receita médica.
+7.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 279/78](https://diariodarepublica.pt/dr/detalhe/portaria/279-1978-630669), publicado em 1978-05-19.
 
 8.º - 1. Os fabricantes e importadores de leite em pó e condensado e dos produtos derivados do leite, incluindo os dietéticos, não podem recusar a sua venda aos retalhistas, aos preços máximos estabelecidos nos n.os 2.º a 5.º, em relação a encomendas iguais ou superiores a 50 kg.
 

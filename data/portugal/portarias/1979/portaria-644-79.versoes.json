@@ -1,0 +1,60 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:366996:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-12-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8ffcd8798adb2e8b"
+   ]
+  },
+  {
+   "date": "1980-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:678849:por",
+     "title": "Portaria n.º 70/80",
+     "published": "1980-03-01",
+     "dre_path": "/dr/detalhe/portaria/70-1980-678849"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 18-21",
+    "Adita Artigo depois da unidade 22",
+    "Adita Artigo depois da unidade 27"
+   ],
+   "fragments": [
+    "1318a681c558b743"
+   ]
+  }
+ ],
+ "fragments": {
+  "8ffcd8798adb2e8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Dezembro\n\nPara execução do disposto no [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, ratificado pela [Lei n.º 55/78](https://diariodarepublica.pt/dr/detalhe/lei/55-1978-297012), de 27 de Julho, e de acordo com o n.º 3 do artigo 1.º do [Decreto n.º 79/79](https://diariodarepublica.pt/dr/detalhe/decreto/79-1979-381356), de 2 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social:\n\nI\n\nSão integrados no Centro Regional de Segurança Social do Porto os seguintes órgãos, serviços e instituições oficiais existentes na área do distrito:\n\n1) Integração completa (orgânica e funcional):\n\na) Dependentes da Direcção-Geral da Previdência:\n\nA Caixa de Previdência e Abono de Família da Indústria do Distrito do Porto;\n\nA Caixa de Previdência e Abono de Família do Comércio do Distrito do Porto;\n\nA Caixa de Previdência e Abono de Família dos Serviços do Distrito do Porto;\n\nA Caixa de Previdência e Abono de Família do Pessoal do Serviço de Transportes Colectivos do Porto;\n\nb) Dependentes da Direcção-Geral da Assistência Social:\n\nOs serviços de acção directa do Instituto da Família e Acção Social;\n\nO Centro de Reabilitação Vocacional do Porto;\n\nA Creche e Jardim Infantil Abrigo dos Pequeninos;\n\nc) Dependentes do Instituto de Obras Sociais:\n\nA Creche, Jardim Infantil e Colónia de Férias de Matosinhos;\n\nA Creche e Jardim-de-Infância de S. Mamede de Infesta;\n\nA Creche e Jardim-de-Infância de Santo Tirso;\n\nA Colónia de Férias da Praia da Árvore;\n\nd) A delegação, no distrito do Porto, do Instituto de Apoio ao Retorno de Nacionais;\n\n2) Integração apenas funcional:\n\nDependentes da Direcção-Geral da Assistência Social:\n\nO Lar de Monte dos Burgos;\n\nO Lar Residencial das Fontainhas;\n\nO Centro de Paralisia Cerebral do Porto.\n\nII\n\nSerão ainda integrados neste Centro Regional, nos termos e nas datas que forem fixados por despacho do Secretário de Estado da Segurança Social, os contribuintes, beneficiários, acções e serviços das caixas de actividade e de empresa de âmbito nacional da área geográfica do distrito.\n\nIII\n\nDe acordo com o previsto no n.º 1 do artigo 2.º do [Decreto n.º 79/79](https://diariodarepublica.pt/dr/detalhe/decreto/79-1979-381356), de 2 de Agosto, o Centro Regional de Segurança Social do Porto entra em regime de instalação, aplicando-se-lhe o disposto nos artigos 79.º a 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.\n\nIV\n\nEnquanto os contribuintes, beneficiários, acções e serviços da Caixa de Previdência e Abono de Família da Indústria Têxtil do Distrito do Porto não estiverem completamente integrados, a referida Caixa ficará, no que lhes disser respeito, funcionalmente integrada no Centro Regional de Segurança Social do Porto.\n\nMinistério dos Assuntos Sociais, 22 de Novembro de 1979. - O Secretário de Estado da Segurança Social, Coriolano Albino Ferreira."
+  },
+  "1318a681c558b743": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1980-03-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 70/80](https://diariodarepublica.pt/dr/detalhe/portaria/70-1980-678849), publicado em 1980-03-01.",
+    "Aditado pelo/a [Portaria n.º 70/80](https://diariodarepublica.pt/dr/detalhe/portaria/70-1980-678849), publicado em 1980-03-01.",
+    "Aditado pelo/a [Portaria n.º 70/80](https://diariodarepublica.pt/dr/detalhe/portaria/70-1980-678849), publicado em 1980-03-01."
+   ],
+   "markdown": "de 4 de Dezembro\n\nPara execução do disposto no [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, ratificado pela [Lei n.º 55/78](https://diariodarepublica.pt/dr/detalhe/lei/55-1978-297012), de 27 de Julho, e de acordo com o n.º 3 do artigo 1.º do [Decreto n.º 79/79](https://diariodarepublica.pt/dr/detalhe/decreto/79-1979-381356), de 2 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social:\n\nI\n\nSão integrados no Centro Regional de Segurança Social do Porto os seguintes órgãos, serviços e instituições oficiais existentes na área do distrito:\n\n1) Integração completa (orgânica e funcional):\n\na) Dependentes da Direcção-Geral da Previdência:\n\nA Caixa de Previdência e Abono de Família da Indústria do Distrito do Porto;\n\nA Caixa de Previdência e Abono de Família do Comércio do Distrito do Porto;\n\nA Caixa de Previdência e Abono de Família dos Serviços do Distrito do Porto;\n\nA Caixa de Previdência e Abono de Família do Pessoal do Serviço de Transportes Colectivos do Porto;\n\nb) Dependentes da Direcção-Geral da Assistência Social:\n\nOs serviços de acção directa do Instituto da Família e Acção Social;\n\nO Centro de Reabilitação Vocacional do Porto;\n\nA Creche e Jardim Infantil Abrigo dos Pequeninos;\n\nc) Dependentes do Instituto de Obras Sociais:\n\nO Jardim-de-Infância da Póvoa de Varzim;\n\nO Jardim-de-Infância de Lavadores;\n\n> Alterado pelo/a [Portaria n.º 70/80](https://diariodarepublica.pt/dr/detalhe/portaria/70-1980-678849), publicado em 1980-03-01.\n\nd) A delegação, no distrito do Porto, do Instituto de Apoio ao Retorno de Nacionais;\n\ne) A delegação no Porto do Gabinete de Inspecção do ex-Comissariado para os Desalojados.\n\n> Aditado pelo/a [Portaria n.º 70/80](https://diariodarepublica.pt/dr/detalhe/portaria/70-1980-678849), publicado em 1980-03-01.\n\n2) Integração apenas funcional:\n\nDependentes da Direcção-Geral da Assistência Social:\n\nO Lar de Monte dos Burgos;\n\nO Lar Residencial das Fontainhas;\n\nO Centro de Paralisia Cerebral do Porto.\n\nO Centro de Educação Especial do Porto.\n\n> Aditado pelo/a [Portaria n.º 70/80](https://diariodarepublica.pt/dr/detalhe/portaria/70-1980-678849), publicado em 1980-03-01.\n\nII\n\nSerão ainda integrados neste Centro Regional, nos termos e nas datas que forem fixados por despacho do Secretário de Estado da Segurança Social, os contribuintes, beneficiários, acções e serviços das caixas de actividade e de empresa de âmbito nacional da área geográfica do distrito.\n\nIII\n\nDe acordo com o previsto no n.º 1 do artigo 2.º do [Decreto n.º 79/79](https://diariodarepublica.pt/dr/detalhe/decreto/79-1979-381356), de 2 de Agosto, o Centro Regional de Segurança Social do Porto entra em regime de instalação, aplicando-se-lhe o disposto nos artigos 79.º a 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.\n\nIV\n\nEnquanto os contribuintes, beneficiários, acções e serviços da Caixa de Previdência e Abono de Família da Indústria Têxtil do Distrito do Porto não estiverem completamente integrados, a referida Caixa ficará, no que lhes disser respeito, funcionalmente integrada no Centro Regional de Segurança Social do Porto.\n\nMinistério dos Assuntos Sociais, 22 de Novembro de 1979. - O Secretário de Estado da Segurança Social, Coriolano Albino Ferreira."
+  }
+ }
+}

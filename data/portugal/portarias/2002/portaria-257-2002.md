@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-06-25'
+version_history:
+  file: portaria-257-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-06-25'
+    amending: pt:dre:345313:por
+    amending_title: Portaria n.º 582/2006
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/257/2002/03/13/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:40:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 582/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-257-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -154,7 +169,9 @@ Nos termos do disposto na [Lei n.º 46/86](https://diariodarepublica.pt/dr/detal
 
 Manda o Governo, pelos Ministros da Economia e da Educação, o seguinte:
 
-1.º São aprovados os planos curriculares dos cursos de Alojamento Hoteleiro, de Cozinha, de Restaurante/Bar e de Turismo, promovidos pelo INFTUR e ministrados pelos estabelecimentos de ensino dele dependentes, designados por escolas de hotelaria e turismo, constantes do anexo I da presente portaria, que dela faz parte integrante.
+1.º São aprovados os planos curriculares dos cursos de Alojamento Hoteleiro, de Cozinha, de Restaurante/Bar e de Turismo promovidos pelo INFTUR e ministrados pelos estabelecimentos dele dependentes, designados por escolas de hotelaria e turismo, e pela Escola Profissional de Hotelaria e Turismo da Madeira, constantes do anexo I da [Portaria n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/portaria/257-2002-265288), de 13 de Março, que dela faz parte integrante.
+
+> Alterado pelo/a [Portaria n.º 582/2006](https://diariodarepublica.pt/dr/detalhe/portaria/582-2006-345313), publicado em 2006-06-20.
 
 2.º Estes cursos destinam-se a jovens habilitados com o 9.º ano de escolaridade completo e capacitados para a frequência integral das respectivas componentes de formação tecnológica e prática em contexto de trabalho.
 

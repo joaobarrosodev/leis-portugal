@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:158418:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1981-09-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b71ca0c0b391da19"
+   ]
+  },
+  {
+   "date": "1983-03-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:310462:por",
+     "title": "Portaria n.º 283/83",
+     "published": "1983-03-17",
+     "dre_path": "/dr/detalhe/portaria/283-1983-310462"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-10"
+   ],
+   "fragments": [
+    "f60c5ad455428df3"
+   ]
+  }
+ ],
+ "fragments": {
+  "b71ca0c0b391da19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Setembro\n\nEm execução do disposto no artigo 2.º do [Decreto-Lei n.º 513-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-u-1979-147382), de 27 de Dezembro, segundo a nova redacção dada pelo [Decreto-Lei n.º 96/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1980-298998), de 5 de Maio, e em conformidade com o artigo 1.º, n.º 2, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e dos Assuntos Sociais e pelo Secretário de Estado da Reforma Administrativa, o seguinte:\n\n1.º É aprovado o quadro de pessoal do Centro de Saúde Mental de Leiria, anexo à presente portaria.\n\n2.º A transição do pessoal abrangido pela presente portaria para as categorias constantes do quadro anexo será feita de acordo com os artigos 3.º e 4.º do [Decreto-Lei n.º 513-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-u-1979-147382), de 27 de Dezembro, e nos termos previstos na lei geral aplicável.\n\nMinistérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, 13 de Agosto de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro dos Assuntos Sociais, Carlos Matos Chaves de Macedo. - O Secretário de Estado da Reforma Administrativa, José Cândido Sousa Carrusca Robin de Andrade.\n\nQuadro de Pessoal do Centro de Saúde Mental de Leiria\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/20101/00110011.pdf)\n\nNota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração mensal de 4000$00 para falhas, sem prejuízo da revisão deste quantitativo, nos termos da lei geral aplicável."
+  },
+  "f60c5ad455428df3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1983-03-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 283/83](https://diariodarepublica.pt/dr/detalhe/portaria/283-1983-310462), publicado em 1983-03-17."
+   ],
+   "markdown": "de 2 de Setembro\n\nEm execução do disposto no artigo 2.º do [Decreto-Lei n.º 513-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-u-1979-147382), de 27 de Dezembro, segundo a nova redacção dada pelo [Decreto-Lei n.º 96/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1980-298998), de 5 de Maio, e em conformidade com o artigo 1.º, n.º 2, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e dos Assuntos Sociais e pelo Secretário de Estado da Reforma Administrativa, o seguinte:\n\n1.º É aprovado o quadro de pessoal do Centro de Saúde Mental de Leiria, anexo à presente portaria.\n\n2.º A transição do pessoal abrangido pela presente portaria para as categorias constantes do quadro anexo será feita de acordo com os artigos 3.º e 4.º do [Decreto-Lei n.º 513-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-u-1979-147382), de 27 de Dezembro, e nos termos previstos na lei geral aplicável.\n\nMinistérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, 13 de Agosto de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro dos Assuntos Sociais, Carlos Matos Chaves de Macedo. - O Secretário de Estado da Reforma Administrativa, José Cândido Sousa Carrusca Robin de Andrade.\n\nQuadro de Pessoal do Centro de Saúde Mental de Leiria\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/20101/00110011.pdf)\n\nNota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração de 400$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos da lei geral aplicável.\n\n> Alterado pelo/a [Portaria n.º 283/83](https://diariodarepublica.pt/dr/detalhe/portaria/283-1983-310462), publicado em 1983-03-17."
+  }
+ }
+}

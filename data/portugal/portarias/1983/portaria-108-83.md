@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-05-08'
+version_history:
+  file: portaria-108-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-02-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-05-08'
+    amending: pt:dre:227429:por
+    amending_title: Portaria n.º 175/86
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:32:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 175/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-108-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,7 +163,9 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior-General das Forças 
 
 (Alargamento do quadro do pessoal civil dos Serviços Sociais das Forças Armadas)
 
-O quadro do pessoal civil dos Serviços Sociais das Forças Armadas, aprovado pelo [Decreto-Lei n.º 225/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1976-501186), de 31 de Março, alterado pelo [Decreto-Lei n.º 307/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1977-251417), de 4 de Agosto, e pela [Portaria n.º 591/77](https://diariodarepublica.pt/dr/detalhe/portaria/591-1977-285931), de 19 de Setembro, é aumentado dos lugares constantes de mapa anexo ao presente diploma.
+O quadro de pessoal civil dos Serviços Sociais das Forças Armadas, aprovado pela [Portaria n.º 986/82](https://diariodarepublica.pt/dr/detalhe/portaria/986-1982-376188), de 20 de Outubro, é aumentado dos lugares constantes do mapa anexo ao presente diploma.
+
+> Alterado pelo/a [Portaria n.º 175/86](https://diariodarepublica.pt/dr/detalhe/portaria/175-1986-227429), publicado em 1986-05-03.
 
 2.º
 

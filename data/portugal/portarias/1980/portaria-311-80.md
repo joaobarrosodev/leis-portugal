@@ -28,10 +28,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-11-21'
+version_history:
+  file: portaria-311-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-05-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-11-21'
+    amending: pt:dre:181432:por
+    amending_title: Portaria n.º 378/85; Portaria n.º 995/89
+    changes:
+    - Adita Artigo depois da unidade 18
+    - Altera Artigo unidades 44-45
+    - Altera Artigo unidades 46-52
+    - Altera Artigo unidades 53-54
 identifiers:
   celex: null
   eli: null
@@ -57,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:17:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 378/85; Portaria n.º
+    995/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-311-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -182,6 +200,10 @@ h) Feirante;
 
 i) Industrial.
 
+1.º-A. A CRCB é equiparada, para efeitos do disposto na presente portaria, ao produtor, importador, armazenista e exportador.
+
+> Aditado pelo/a [Portaria n.º 378/85](https://diariodarepublica.pt/dr/detalhe/portaria/378-1985-181432), publicado em 1985-06-19.
+
 2.º São reconhecidas para os efeitos do presente diploma, além das actividades referidas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 247/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1978-299014), de 22 de Agosto, as de produtor e de industrial, considerando-se:
 
 a) Produtor - o que, possuindo estrutura adequada à respectiva actividade, captura o pescado;
@@ -232,27 +254,17 @@ d) Ligação directa do produtor/importador ao armazenista e deste ao industrial
 
 11.º Em cada estabelecimento, o pescado fresco e o pescado congelado devem ser armazenados e expostos em locais absolutamente separados e devidamente assinalados com indicação de pescado fresco e pescado congelado.
 
-12.º - 1 - A venda de pescado fresco fica sujeita ao regime de margens de comercialização fixadas previsto na alínea e) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
+12.º - (Revogado.)
 
-2 - O preço de venda ao público não pode exceder o que resulta da soma do preço de venda do produtor ou importador com as margens de comercialização fixadas neste diploma, acrescidas das despesas de frete previstas no número seguinte.
+> Alterado pelo/a [Portaria n.º 995/89](https://diariodarepublica.pt/dr/detalhe/portaria/995-1989-549812), publicado em 1989-11-16.
 
-13.º - 1 - As margens máximas de comercialização, para o armazenista, serão as seguintes, por quilograma:
+13.º - (Revogado.)
 
-a) 7$00 para o pescado comprado na lota ou ao importador até ao preço de 30$00;
+> Alterado pelo/a [Portaria n.º 995/89](https://diariodarepublica.pt/dr/detalhe/portaria/995-1989-549812), publicado em 1989-11-16.
 
-b) 25% do preço de aquisição para o pescado comprado na lota ou ao importador a preço superior a 30$00, até 100$00;
+14.º - (Revogado.)
 
-c) 20% do preço de aquisição para o pescado comprado na lota ou ao importador a preço superior a 100$00, até 250$00;
-
-d) 15% do preço de aquisição para o pescado comprado na lota ou ao importador a preço superior a 250$00.
-
-2 - As margens de comercialização mencionadas no número anterior só poderão ser acrescidas das despesas de frete quando o transporte haja excedido a distância de 35 km desde o local de aquisição, seguindo o percurso normal.
-
-3 - Como despesas de frete consideram-se unicamente as do transporte do pescado desde a origem, posto sobre vagão ou camioneta, até à localidade do destino, não podendo ultrapassar as resultantes da aplicação das tarifas legalmente aprovadas ou, na sua falta, as do meio de transporte mais económico.
-
-14.º - 1 - As margens máximas de comercialização para o retalhista são iguais às mencionadas no n.º 1 do n.º 13.º
-
-2 - O retalhista só poderá acumular as margens de comercialização previstas para o armazenista com as suas quando exerça também a actividade deste.
+> Alterado pelo/a [Portaria n.º 995/89](https://diariodarepublica.pt/dr/detalhe/portaria/995-1989-549812), publicado em 1989-11-16.
 
 15.º As infracções ao disposto no n.º 2 do n.º 4.º, n.os 1 e 4 do n.º 5.º, n.os 7.º e 11.º do presente diploma são punidas com a multa de 10000$00.
 

@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-08-07'
+version_history:
+  file: portaria-587-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-08-07'
+    amending: pt:dre:204056:por
+    amending_title: Portaria n.º 597/97
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/587/1992/06/27/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:23:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 597/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-587-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,7 +166,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Vaqueiros, município de Santarém, com uma área de 355,6250 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante na planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Vaqueiros, município de Santarém, com a área de 338,0220 ha.
+
+> Alterado pelo/a [Portaria n.º 597/97](https://diariodarepublica.pt/dr/detalhe/portaria/597-1997-204056), publicado em 1997-08-06.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 597/97](https://diariodarepublica.pt/dr/detalhe/portaria/597-1997-204056), publicado em 1997-08-06.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, ao Clube de Caça e Pesca de Vaqueiros (registo na Direcção-Geral das Florestas n.º 3.875.91), com sede em Vaqueiros, Santarém, a zona de caça associativa de Vaqueiros (processo n.º 903 da Direcção-Geral das Florestas).
 

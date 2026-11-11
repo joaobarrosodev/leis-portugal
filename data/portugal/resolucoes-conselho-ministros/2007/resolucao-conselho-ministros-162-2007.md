@@ -39,10 +39,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-02-14'
+version_history:
+  file: resolucao-conselho-ministros-162-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-10-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-02-14'
+    amending: pt:dre:543032:por
+    amending_title: Resolução do Conselho de Ministros n.º 17/2012
+    changes:
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 11-11
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 15-20
+    - Altera Artigo unidades 24-31
+    - Altera Artigo unidades 35-35
+    - Altera Artigo unidades 36-36
+    - Adita Artigo depois da unidade 38
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/162/2007/10/12/p/dre/pt/html
@@ -68,7 +89,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:54:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 17/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2007/resolucao-conselho-ministros-162-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,29 +174,27 @@ Ao abrigo do disposto no artigo 28.º da Lei n.º 4/2004, de 15 de Janeiro, na r
 
 1 - Criar a estrutura de missão para o Programa Operacional (PO) Temático Potencial Humano a fim de exercer as competências da respectiva autoridade de gestão prevista no Regulamento (CE) n.º [1083/2006](https://data.europa.eu/eli/reg/2006/1083/oj?locale=pt), do Conselho, de 11 de Julho, que estabelece disposições gerais sobre o Fundo Europeu de Desenvolvimento Regional, o Fundo Social Europeu e o Fundo de Coesão.
 
-2 - Nomear como presidente da comissão directiva do PO Temático Potencial Humano, responsável pela estrutura de missão, Rui Fiolhais, e como vogais executivos Margarida Maria Chaves Pratas Ferreira Filipe e Maria Alexandra dos Santos Vilela.
+2 - Nomear como presidente da comissão diretiva do PO Temático Potencial Humano, responsável pela estrutura de missão, Domingos Jorge Ferreira Lopes, e como vogais executivos Margarida Maria Chaves Pratas Ferreira Filipe e Maria Alexandra dos Santos Vilela.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-2012-543032), publicado em 2012-02-14.
 
 3 - Criar a estrutura de missão para o PO Temático Factores de Competitividade a fim de exercer as competências da respectiva autoridade de gestão prevista no Regulamento (CE) n.º [1083/2006](https://data.europa.eu/eli/reg/2006/1083/oj?locale=pt), do Conselho, de 11 de Julho, que estabelece disposições gerais sobre o Fundo Europeu de Desenvolvimento Regional, o Fundo Social Europeu e o Fundo de Coesão.
 
-4 - Nomear como presidente da comissão directiva do PO Temático Factores de Competitividade, responsável pela estrutura de missão, Nélson Souza, e como vogais executivos Maria Isabel Sanches Matalonga y Planas e Maria da Piedade Brito Monteiro Valente.
+4 - Nomear como presidente da comissão diretiva do PO Temático Fatores de Competitividade, responsável pela estrutura de missão, Franquelim Fernando Garcia Alves, e como vogais executivos Maria Isabel Sanches Matalonga y Planas e Maria da Piedade Brito Monteiro Valente.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-2012-543032), publicado em 2012-02-14.
 
 5 - Criar a estrutura de missão para o PO Temático Valorização do Território a fim de exercer as competências da respectiva autoridade de gestão prevista no Regulamento (CE) n.º [1083/2006](https://data.europa.eu/eli/reg/2006/1083/oj?locale=pt), do Conselho, de 11 de Julho, que estabelece disposições gerais sobre o Fundo Europeu de Desenvolvimento Regional, o Fundo Social Europeu e o Fundo de Coesão.
 
-6 - Nomear como presidente da comissão directiva do PO Temático Valorização do Território, responsável pela estrutura de missão, Helena Azevedo, e como vogais executivos Ana Maria dos Santos Barata da Silva e Germano Farias Martins.
+6 - Nomear como presidente da comissão diretiva do PO Temático Valorização do Território, responsável pela estrutura de missão, Helena da Conceição Pinheiro Lourenço de Azevedo, e como vogais executivos José Roque de Pinho Marques Guedes e Vasco da Rocha Campilho Marques.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-2012-543032), publicado em 2012-02-14.
 
 7 - Determinar que cada estrutura de missão, criada através da presente resolução, responde perante a comissão ministerial de coordenação do respectivo PO através do ministro coordenador da mesma.
 
-8 - Determinar que, enquanto os referidos programas operacionais temáticos não forem aprovados pela Comissão Europeia, compete em especial às comissões directivas:
+8 - (Revogado.)
 
-a) Prestar apoio técnico à fundamentação das posições negociais das autoridades portuguesas e à elaboração de regulamentos de aplicação do respectivo PO;
-
-b) Preparar a configuração definitiva da respectiva estrutura de missão e diligenciar pela sua instalação;
-
-c) Assegurar que na preparação e instalação referidas na alínea anterior, se adoptem soluções organizativas que favoreçam a partilha de recursos e a realização comum de tarefas de apoio;
-
-d) Assegurar, no exercício das suas funções, adequada articulação com o grupo de trabalho QREN e respectiva rede de interlocutores sectoriais e regionais;
-
-e) Participar activamente nas negociações com a Comissão Europeia sobre o respectivo PO.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-2012-543032), publicado em 2012-02-14.
 
 9 - Determinar que, após a aprovação dos referidos programas operacionais pela Comissão Europeia, as comissões directivas são responsáveis por assegurar a gestão e a qualidade da execução dos respectivos programas operacionais, de acordo com os princípios de boa gestão financeira, desempenhando as competências que vierem a ser definidas em legislação específica.
 
@@ -182,21 +202,23 @@ e) Participar activamente nas negociações com a Comissão Europeia sobre o res
 
 11 - Determinar que o regime remuneratório dos membros das comissões directivas referidos nos n.os 2, 4 e 6 obedece às seguintes características:
 
-a) Para os gestores que presidem às comissões directivas:
+a) Relativamente aos presidentes das comissões diretivas:
 
-i) Remuneração mensal ilíquida fixa, composta por uma remuneração base no valor de (euro) 5350, paga 14 vezes por ano, e por despesas de representação no valor de (euro) 950, paga 12 vezes por ano, actualizável anualmente;
+i) Remuneração mensal ilíquida equivalente ao vencimento mensal ilíquido de presidente de conselho de administração de empresa pública de Grupo C, determinado nos termos da [Resolução do Conselho de Ministros n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2012-543034), de 14 de fevereiro;
 
-ii) Remuneração anual ilíquida variável com valor máximo de 15 % da remuneração anual ilíquida fixa, destinada a premiar a eficiência no desempenho, em condições a estabelecer oportunamente pela comissão ministerial de coordenação do QREN;
+ii) Despesas de representação, no montante de 30 % da remuneração prevista na subalínea anterior;
 
-b) Para os vogais executivos das comissões directivas:
+b) Relativamente aos vogais executivos das comissões diretivas:
 
-i) Remuneração mensal ilíquida fixa, composta por uma remuneração base no valor de (euro) 4600, paga 14 vezes por ano, e despesas de representação no valor de (euro) 755, paga 12 vezes por ano, actualizável anualmente;
+i) Remuneração mensal ilíquida equivalente a 90 % da remuneração mensal ilíquida do presidente da comissão diretiva;
 
-ii) Remuneração anual ilíquida variável com valor máximo de 15 % da remuneração anual ilíquida fixa, destinada a premiar a eficiência no desempenho, em condições a estabelecer oportunamente pela comissão ministerial de coordenação do QREN;
+ii) Despesas de representação, no montante de 25 % da respetiva remuneração;
 
-c) Aos membros das comissões directivas referidas nas alíneas anteriores aplicam-se, com as necessárias adaptações, os limites previstos no n.º 2 do artigo 32.º do Decreto-Lei n.º 71/2007, de 27 de Março;
+c) Aos membros das comissões diretivas referidas nas alíneas anteriores aplicam-se, com as necessárias adaptações, os limites e impedimentos previstos no artigo 32.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, e pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro;
 
-d) Aos presidentes das comissões directivas referidas nas alíneas anteriores aplicam-se os limites previstos no artigo 33.º do Decreto-Lei n.º 71/2007, de 27 de Março, mediante deliberação da comissão ministerial de coordenação do QREN.
+d) Aos presidentes das comissões diretivas referidas nas alíneas anteriores aplicam -se os limites previstos no artigo 33.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, e pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, de acordo com deliberação da comissão ministerial de coordenação do QREN.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-2012-543032), publicado em 2012-02-14.
 
 12 - Determinar que as funções de membro de comissão directiva são exercidas em regime de exclusividade, sem prejuízo da possibilidade do desempenho de actividades que se relacionem com o encerramento de programas operacionais do actual QCA III ou de actividades que, pela sua conexão, sejam consideradas essenciais à boa realização das medidas de apoio inscritas nos respectivos programas operacionais do QREN, salvaguardando eventuais conflitos de interesse.
 
@@ -204,12 +226,22 @@ d) Aos presidentes das comissões directivas referidas nas alíneas anteriores a
 
 14 - Determinar que a configuração definitiva das estruturas de missão, referidas nos n.os 1, 3 e 5, é aprovada por resolução do Conselho de Ministros.
 
-15 - Estabelecer que, até à aprovação da configuração definitiva prevista no número anterior, as despesas decorrentes do disposto nos n.os 8, 9 e 11 e de funcionamento estritamente indispensáveis para cada estrutura de missão, são suportadas em 15 % pelo orçamento da autoridade de certificação do fundo comunitário que apoia o PO respectivo, e em 85 % por operações específicas do Tesouro, nos termos do artigo 111.º da Lei n.º 53-A/2006, de 29 de Dezembro.
+15 - (Revogado.)
 
-16 - A regularização das operações específicas do Tesouro a que se refere o número anterior é feita mediante a apresentação de um pedido de adiantamento de FEDER da autoridade de gestão à autoridade de certificação, no âmbito das medidas de assistência técnica.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-2012-543032), publicado em 2012-02-14.
+
+16 - (Revogado.)
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-2012-543032), publicado em 2012-02-14.
 
 17 - Determinar que as estruturas de missão criadas pela presente resolução têm a duração prevista para a execução dos respectivos programas operacionais, podendo manter a sua actividade até ao envio, à Comissão Europeia, da declaração de encerramento, emitida pela autoridade de auditoria.
 
 18 - Determinar que a presente resolução produz efeitos desde 1 de Agosto de 2007.
+
+19 - Determinar que, durante a vigência do Programa de Assistência Económica e Financeira (PAEF) a Portugal, a remuneração mensal ilíquida e as despesas de representação dos membros das comissões diretivas são pagas 12 vezes por ano.
+
+20 - Determinar que a remuneração mensal ilíquida e as despesas de representação dos membros das comissões diretivas se encontram sujeitas às reduções remuneratórias que as tomem por objeto, estabelecidas por força da situação de dificuldade económica e financeira do Estado ou do PAEF.
+
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-2012-543032), publicado em 2012-02-14.
 
 Presidência do Conselho de Ministros, 14 de Junho de 2007. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

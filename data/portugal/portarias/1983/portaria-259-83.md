@@ -29,10 +29,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-10-16'
+version_history:
+  file: portaria-259-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-03-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-10-16'
+    amending: pt:dre:222210:por
+    amending_title: Portaria n.º 621/86; Portaria n.º 351/88; Portaria n.º 880/89; Portaria n.º 880/89
+    changes:
+    - Altera Artigo unidades 34-54
+    - Altera Artigo unidades 56-80
+    - Altera Artigo unidades 82-106
+    - Altera Artigo unidades 108-127
+    - Altera Artigo unidades 129-147
 identifiers:
   celex: null
   eli: null
@@ -58,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:35:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 621/86; Portaria n.º
+    351/88; Portaria n.º 880/89; Portaria n.º 880/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-259-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -189,131 +208,137 @@ Ministério da Educação, 7 de Fevereiro de 1983. - Pelo Ministro da Educação
 
 ## ANEXO I — Licenciatura em Engenharia do Ambiente, ramo de Poluição
 
-1 - Área científica do curso:
+1 - Áreas científicas do curso:
 
-Ciências e Tecnologia do Ambiente.
+Ciências e Tecnologias do Ambiente.
 
 2 - Duração normal do curso:
 
-5 anos lectivos.
+Cinco anos.
 
-3 - Condições necessárias à concessão do grau:
+3 - Número total mínimo de unidades de crédito necessário à conclusão do curso:
 
-172 unidades de crédito.
+174.
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
-4.1 - Obrigatórias:
+4.1 - Áreas científicas obrigatórias:
 
-4.1.1 - Ciências do Ambiente ... 32,5
+4.1.1 - Ciências do Ambiente ... 23
 
 4.1.2 - Tecnologia do Ambiente ... 26
 
-4.1.3 - Química ... 20
+4.1.3 - Química ... 21,5
 
 4.1.4 - Matemática ... 26
 
-4.1.5 - Física ... 14
+4.1.5 - Física ... 11,5
 
-4.1.6 - Geologia ... 17,5
+4.1.6 - Geologia ... 14
 
-4.1.7 - Biologia ... 19,5
+4.1.7 - Biologia ... 16
 
-4.1.8 - Electrónica ... 6,5
+4.1.8 - Electrónica ... 3,5
 
 4.1.9 - Línguas Estrangeiras Modernas ... 2
 
-4.2 - Optativas:
+4.1.10 - Economia ... 3,5
 
-4.2.1 - Ciências do Ambiente ... 3
+4.2 - Conjunto das áreas científicas optativas:
 
-4.2.2 - Tecnologias do Ambiente ... 3
+4.2.1 - Ciências do Ambiente ... 12
 
-4.3 - Projecto ... 5
+4.2.2 - Tecnologia do Ambiente ... 12
+
+4.2.3 - Planeamento Regional e Urbano ... 12
+
+4.2.4 - Administração ... 12
+
+4.2.5 - Geologia ... 12
+
+4.2.6 - Biologia ... 12
+
+4.2.7 - Desenho ... 12
+
+4.2.8 - Matemática ... 12
+
+4.3 - Projecto ... 15
+
+> Alterado pelo/a [Portaria n.º 351/88](https://diariodarepublica.pt/dr/detalhe/portaria/351-1988-374188), publicado em 1988-06-01.
 
 ## ANEXO II — Licenciatura em Engenharia Cerâmica e do Vidro
 
 1 - Área científica do curso:
 
-Ciência e Tecnologia da Cerâmica e do Vidro.
+a) Ciência e Tecnologia da Cerâmica e do Vidro.
 
 2 - Duração normal do curso:
 
-5 anos lectivos.
+Cinco anos lectivos.
 
-3 - Condições necessárias à concessão do grau:
+3 - Número total mínimo de unidades de crédito necessário à concessão do grau:
 
-169,5 unidades de crédito.
+170,5.
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
-4.1 - Obrigatórias:
+4.1 - Áreas científicas obrigatórias:
 
-4.1.1 - Ciência da Cerâmica e do Vidro ... 42,5
+a) Ciência da Cerâmica e do Vidro ... 43
 
-4.1.2 - Tecnologia da Cerâmica e do Vidro ... 35
+b) Tecnologia da Cerâmica e do Vidro ... 35
 
-4.1.3 - Física ... 12,5
+c) Física ... 12,5
 
-4.1.4 - Geologia ... 6,5
+d) Geologia ... 6,5
 
-4.1.5 - Matemática ... 21
+e) Matemática ... 21,5
 
-4.1.6 - Química ... 12,5
+f) Química ... 12,5
 
-4.2 - Optativas:
+4.2 - Conjunto das áreas científicas optativas:
 
-4.2.1 - Ciência da Cerâmica e do Vidro ... 20,5
+a) Ciência da Cerâmica e do Vidro ... 20,5
 
-4.2.2 - Tecnologia da Cerâmica e do Vidro ... 20,5
+b) Tecnologia da Cerâmica e do Vidro ... 20,5
 
-4.2.3 - Física ... 20,5
+c) Matemática ... 20,5
 
-4.2.4 - Geologia ... 20,5
+d) Química ... 20,5
 
-4.2.5 - Matemática ... 20,5
+e) Electrónica ... 20,5
 
-4.2.6 - Química ... 20,5
-
-4.2.7 - Electrónica ... 20,5
-
-4.2.8 - Ciências Sociais ... 20,5
-
-4.2.9 - Línguas Estrangeiras Modernas ... 20,5
+f) Ciências Sociais ... 20,5
 
 4.3 - Projecto ... 19
 
+> Alterado pelo/a [Portaria n.º 880/89](https://diariodarepublica.pt/dr/detalhe/portaria/880-1989-548823), publicado em 1989-10-11.
+
 ## ANEXO III — Licenciatura em Engenharia Electrónica e Telecomunicações
 
-1 - Área científica do curso:
+1 - Área científica do curso - Engenharia Eletrónica e Telecomunicações.
 
-Engenharia Electrónica e Telecomunicações.
+2 - Duração normal do curso - cinco anos lectivos.
 
-2 - Duração normal do curso:
+3 - Condições necessárias à concessão do grau - 168 unidades de crédito.
 
-5 anos lectivos.
-
-3 - Condições necessárias à concessão do grau:
-
-160 unidades de crédito.
-
-4 - Áreas científicas e distribuição das unidades de crédito:
+4 - Áreas cietíficas e distribuição de unidades de crédito:
 
 4.1 - Obrigatórias:
 
-4.1.1 - Electrónica ... 19
+4.1.1 - Electrónica ... 23,5
 
-4.1.2 - Telecomunicações ... 15
+4.1.2 - Telecomunicações ... 17
 
-4.1.3 - Controle ... 7
+4.1.3 - Controle ... 7,5
 
-4.1.4 - Electrotecnia ... 22
+4.1.4 - Electrotecnia ... 20,5
 
-4.1.5 - Informática ... 7
+4.1.5 - Informática ... 15,5
 
-4.1.6 - Matemática ... 24
+4.1.6 - Matemática ... 27,5
 
-4.1.7 - Física ... 21
+4.1.7 - Física ... 17,5
 
 4.1.8 - Química ... 4
 
@@ -321,101 +346,103 @@ Engenharia Electrónica e Telecomunicações.
 
 4.2 - Optativas:
 
-4.2.1 - Electrónica ... 24
+4.2.1 - Electrónica ... 18
 
-4.2.2 - Telecomunicações ... 24
+4.2.2 - Telecomunicações ... 18
 
-4.2.3 - Controle ... 24
+4.2.3 - Controle ... 18
 
-4.2.4 - Electrotecnia ... 24
+4.2.4 - Eletrotecnia ... 18
 
-4.2.5 - Informática ... 24
+4.2.5 - Informática ... 18
 
-4.2.6 - Economia e Gestão ... 24
+4.2.6 - Economia e Gestão ... 18
+
+4.2.7 - Física ... 18
+
+4.2.8 - Matemática ... 18
 
 4.3 - Projecto ... 15
 
+> Alterado pelo/a [Portaria n.º 621/86](https://diariodarepublica.pt/dr/detalhe/portaria/621-1986-222210), publicado em 1986-10-24.
+
 ## ANEXO IV — Licenciatura em Ensino de Biologia o Geologia
 
-1 - Área científica do curso:
+1 - Áreas científicas do curso:
 
-Biologia e Geologia.
+a) Biologia;
+
+b) Geologia;
+
+c) Ciências da Educação.
 
 2 - Duração normal do curso:
 
-5 anos lectivos.
+Cinco anos lectivos.
 
 3 - Condições necessárias à concessão do grau:
 
-a) 143 unidades de crédito;
+a) Obtenção de um mínimo de 139 unidades de crédito;
 
-b) Aprovação em estágio pedagógico.
+b) Aprovação no estágio pedagógico.
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
-4.1 - Obrigatórias:
+4.1 - Áreas científicas obrigatórias:
 
-4.1.1 - Ciências da Educação ... 28
+a) Ciências da Educação ... 28
 
-4.1.2 - Biologia ... 49
+b) Biologia ... 52,5
 
-4.1.3 - Geologia ... 28
+c) Geociências ... 31,5
 
-4.1.4 - Física ... 3,5
+d) Física ... 3,5
 
-4.1.5 - Química ... 9
+e) Química ... 9
 
-4.1.6 - Matemática ... 6,5
+f) Matemática ... 6,5
 
-4.2 - Optativas:
+4.2 - Seminário científico-pedagógico ... 8
 
-4.2.1 - Ciências da Educação ... 11
-
-4.2.2 - Biologia ... 11
-
-4.2.3 - Geologia ... 11
-
-4.3 - Seminário (monografia) ... 8
+> Alterado pelo/a [Portaria n.º 880/89](https://diariodarepublica.pt/dr/detalhe/portaria/880-1989-548823), publicado em 1989-10-11.
 
 ## ANEXO V — Licenciatura em Ensino de Física e Química
 
-1 - Área científica do curso:
+1 - Áreas científicas do curso:
 
-Física e Química
+a) Física;
+
+b) Química;
+
+c) Ciências da Educação.
 
 2 - Duração normal do curso:
 
-5 anos lectivos.
+Cinco anos lectivos.
 
 3 - Condições necessárias à concessão do grau:
 
-a) 140 unidades de crédito;
+a) Obtenção de um mínimo de 134 unidades de crédito;
 
-b) Aprovação em estágio pedagógico.
+b) Aprovação no estágio pedagógico.
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
-4.1 - Obrigatórias:
+4.1 - Áreas científicas obrigatórias:
 
-4.1.1 - Ciências da Educação ... 28
+a) Ciências da Educação ... 28
 
-4.1.2 - Física ... 37,5
+b) Física ... 40,5
 
-4.1.3 - Química ... 34,5
+c) Química ... 38
 
-4.1.4 - Matemática ... 16
+d) Matemática ... 16
 
-4.1.5 - Electrónica ... 3,5
+e) Electrónica ... 3,5
 
-4.2 - Optativas:
+4.2 - Seminário científico-pedagógico ... 8
 
-4.2.1 - Ciências da Educação ... 12,5
-
-4.2.2 - Física ... 12,5
-
-4.2.3 - Química ... 12,5
-
-4.3 - Seminário (monografia) ... 8
+> Alterado pelo/a [Portaria n.º 880/89](https://diariodarepublica.pt/dr/detalhe/portaria/880-1989-548823), publicado em 1989-10-11.
 
 ## ANEXO VI — Licenciatura em Ensino de Matemática e Desenho
 

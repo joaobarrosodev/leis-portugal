@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-07-01'
+version_history:
+  file: portaria-960-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-11-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-07-01'
+    amending: pt:dre:393594:por
+    amending_title: Portaria n.º 467/99
+    changes:
+    - Adita Artigo depois da unidade 28
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/960/1998/11/10/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:12:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 467/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-960-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,6 +188,10 @@ a) Até 25% das vagas fixadas nos termos do artigo 12.º do [Decreto-Lei n.º 25
 b) Até 25% das vagas fixadas nos termos do artigo 12.º do [Decreto-Lei n.º 255/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1998-438070) podem ser afectadas prioritariamente a candidatos que desenvolvam a sua actividade profissional principal e com carácter de permanência em organismos ou instituições sediados na área de influência da escola.
 
 2 - A decisão a que se refere o número anterior é divulgada através do edital a que se refere o n.º 3 do artigo 13.º
+
+3 - Os limites a que se refere o n.º 1 podem, em situações devidamente fundamentadas, ser aumentados por despacho do Ministro da Educação exarado sobre proposta do órgão legal e estatutariamente competente do estabelecimento de ensino.
+
+> Aditado pelo/a [Portaria n.º 467/99](https://diariodarepublica.pt/dr/detalhe/portaria/467-1999-393594), publicado em 1999-06-26.
 
 3.º
 

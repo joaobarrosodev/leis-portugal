@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-05-15'
+version_history:
+  file: portaria-504-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-09-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-05-15'
+    amending: pt:dre:392450:por
+    amending_title: Portaria n.º 498/82
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:00:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 498/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1979/portaria-504-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,7 +125,9 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, o 
 
 a) Mecânico de material terrestre/polícia aérea (MMT/PA);
 
-b) Mecânico de material terrestre/sapador bombeiro (MMT/SB);
+b) Mecânico de material terrestre/operador de sistemas de assistência e socorros (MMT/OPSAS);
+
+> Alterado pelo/a [Portaria n.º 498/82](https://diariodarepublica.pt/dr/detalhe/portaria/498-1982-392450), publicado em 1982-05-15.
 
 2.º A especialidade de praças mecânico de armamento e equipamento, especialidade básica, passa a integrar mais o ramo de mecânico de armamento e equipamento/polícia aérea (MARME/PA).
 

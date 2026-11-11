@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:210599:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-12-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4a5a1bf243ec1984"
+   ]
+  },
+  {
+   "date": "1989-08-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:618538:por",
+     "title": "Portaria n.º 704/89",
+     "published": "1989-08-22",
+     "dre_path": "/dr/detalhe/portaria/704-1989-618538"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-4",
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "9fd93f1d599ec5f1"
+   ]
+  }
+ ],
+ "fragments": {
+  "4a5a1bf243ec1984": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Dezembro\n\nNos termos do artigo 15.º do [Decreto-Lei n.º 172-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-1986-518811), de 30 de Junho, manda o Governo da República Portuguesa, pelo Ministro das Finanças, o seguinte:\n\n1.º A taxa de juro anual aplicável no cálculo do valor de reembolso dos certificados de aforro da série B será a taxa de referência fixada nos termos do artigo 1.º do [Decreto-Lei n.º 311-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-a-1985-393610), de 30 de Julho, abatida do diferencial de 2,25%, que estiver em vigor no início de cada período trimestral de capitalização.\n\n2.º Por cada ano de vida do certificado além do primeiro, a taxa a que se refere o número anterior irá sendo acrescida de 0,5% ao ano, até ao 5.º ano.\n\n3.º A partir de 1 de Janeiro de 1987, as taxas de juro trimestrais serão as taxas equivalentes às taxas anuais referidas nos números anteriores.\n\n4.º O limite máximo de certificados de aforro a subscrever pelo mesmo titular não poderá exceder o valor de 10000 contos.\n\n5.º É fixada em 0,75% a comissão por angariação dos certificados de aforro, não sendo aplicável às operações de substituição previstas no n.º 2 do artigo 10.º do [Decreto-Lei n.º 172-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-1986-518811), de 30 de Junho.\n\n6.º A comissão de angariação indicada no número anterior poderá ser acrescida de 0,15%, mas apenas terá efeito a partir da efectivação de uma colocação anual superior a 12 milhões de contos ou de 0,25% se essa colocação exceder 20 milhões de contos.\n\n7.º Fica revogada a [Portaria n.º 329-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/329-a-1986-518819), de 30 de Junho.\n\nMinistério das Finanças.\n\nAssinada em 11 de Dezembro de 1986.\n\nO Ministro das Finanças, Miguel José Ribeiro Cadilhe."
+  },
+  "9fd93f1d599ec5f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1989-08-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 704/89](https://diariodarepublica.pt/dr/detalhe/portaria/704-1989-618538), publicado em 1989-08-22.",
+    "Alterado pelo/a [Portaria n.º 704/89](https://diariodarepublica.pt/dr/detalhe/portaria/704-1989-618538), publicado em 1989-08-22."
+   ],
+   "markdown": "de 26 de Dezembro\n\nNos termos do artigo 15.º do [Decreto-Lei n.º 172-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-1986-518811), de 30 de Junho, manda o Governo da República Portuguesa, pelo Ministro das Finanças, o seguinte:\n\n1.º Aos certificados de aforro da série B emitidos até 31 de Maio de 1989 será aplicada, no termo dos respectivos prazos de garantia, a taxa de juro correspondente à taxa líquida que resulte da aplicação da taxa liberatória do IRS à taxa anual nominal bruta definida pela [Portaria n.º 314-A/89](https://diariodarepublica.pt/dr/detalhe/portaria/314-a-1989-424311), de 3 de Maio.\n\n> Alterado pelo/a [Portaria n.º 704/89](https://diariodarepublica.pt/dr/detalhe/portaria/704-1989-618538), publicado em 1989-08-22.\n\n2.º Por cada ano de vida do certificado além do primeiro, a taxa a que se refere o número anterior irá sendo acrescida de 0,5% ao ano, até ao 5.º ano.\n\n3.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 704/89](https://diariodarepublica.pt/dr/detalhe/portaria/704-1989-618538), publicado em 1989-08-22.\n\n4.º O limite máximo de certificados de aforro a subscrever pelo mesmo titular não poderá exceder o valor de 10000 contos.\n\n5.º É fixada em 0,75% a comissão por angariação dos certificados de aforro, não sendo aplicável às operações de substituição previstas no n.º 2 do artigo 10.º do [Decreto-Lei n.º 172-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-1986-518811), de 30 de Junho.\n\n6.º A comissão de angariação indicada no número anterior poderá ser acrescida de 0,15%, mas apenas terá efeito a partir da efectivação de uma colocação anual superior a 12 milhões de contos ou de 0,25% se essa colocação exceder 20 milhões de contos.\n\n7.º Fica revogada a [Portaria n.º 329-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/329-a-1986-518819), de 30 de Junho.\n\nMinistério das Finanças.\n\nAssinada em 11 de Dezembro de 1986.\n\nO Ministro das Finanças, Miguel José Ribeiro Cadilhe."
+  }
+ }
+}

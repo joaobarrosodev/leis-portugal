@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:137474:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-01-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2a2688ebb55eb68d"
+   ]
+  },
+  {
+   "date": "1977-07-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:250445:por",
+     "title": "Portaria n.º 417/77",
+     "published": "1977-07-11",
+     "dre_path": "/dr/detalhe/portaria/417-1977-250445"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 13-13",
+    "Altera Artigo unidades 22-22"
+   ],
+   "fragments": [
+    "03772819b3ab161a"
+   ]
+  }
+ ],
+ "fragments": {
+  "2a2688ebb55eb68d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Janeiro\n\nOs preços máximos dos pesticidas de uso agrícola foram fixados pelas Portarias n.os [285/76](https://diariodarepublica.pt/dr/detalhe/portaria/285-1976-427805), de 6 de Maio, e [466/76](https://diariodarepublica.pt/dr/detalhe/portaria/466-1976-431004), de 31 de Julho.\n\nConsiderando:\n\nOs agravamentos posteriormente verificados nos custos da maior parte das matérias-primas e embalagens;\n\nQue estes produtos têm épocas de aplicação específica;\n\nA necessidade de se garantir o regular abastecimento do mercado;\n\ntorna-se necessário proceder à revisão dos preços de herbicidas e fungicidas submetidos ao regime de preços máximos fixados nas citadas portarias, a fim de permitir ajustar os preços aos custos reais e manter a margem mínima de comercialização anteriormente fixada ao retalhista.\n\nNestes termos:\n\nAo abrigo do disposto no n.º 1 do artigo 2.º, na alínea c) do n.º 1 do artigo 13.º e no artigo 17.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, o seguinte:\n\n1.º Os pesticidas de uso agrícola constantes dos quadros anexos a este diploma estão sujeitos ao regime de preços máximos e ainda ao regime especial de margens mínimas de comercialização fixadas.\n\n2.º Os pesticidas de uso agrícola submetidos ao regime de preços controlados estão ainda sujeitos ao regime de margens de comercialização fixadas, a que se refere a alínea e) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.\n\n3.º - 1. Os preços máximos de venda à porta da fábrica ou armazém do importador, bem como os preços máximos de venda ao consumidor, no continente e ilhas adjacentes, de herbicidas e fungicidas, com excepção do enxofre em pó, são os constantes do quadro I, anexo a esta portaria.\n\n2. É atribuída ao retalhista a margem mínima de 15%, calculada sobre o preço de venda à porta da fábrica ou armazém do importador.\n\n4.º - 1. Os preços máximos de venda pelo fabricante ou importador, bem como os preços máximos de venda ao consumidor, no continente e ilhas adjacentes, do enxofre em pó são os constantes do quadro II, anexo a esta portaria.\n\n2. Nos preços máximos de venda pelo fabricante ou importador do enxofre em pó está incluído o encargo inerente ao transporte até à estação de destino, quando transportado por caminho de ferro, ou ao depósito do revendedor, quando transportado por camionagem.\n\n3. Nas vendas do enxofre em pó para os arquipélagos da Madeira e dos Açores os preços máximos referidos no n.º 1 desta norma incluem o encargo com o transporte até à colocação do produto sobre o cais de desembarque dos portos daqueles arquipélagos.\n\n4. Os preços máximos de venda ao consumidor do enxofre em pó, nas ilhas adjacentes, podem ser acrescidos dos encargos inerentes ao transporte desde o cais de desembarque até ao armazém do revendedor.\n\n5. Aos retalhistas é atribuída a margem mínima de 185$00 por tonelada.\n\n5.º Os preços máximos de venda ao consumidor poderão ser onerados com os encargos financeiros resultantes das vendas a prazo.\n\n6.º Nas vendas dos pesticidas de uso agrícola submetidos ao regime de preços controlados são ainda aplicáveis as margens de comercialização de 25%, calculadas sobre o preço de venda à porta da fábrica ou armazém do importador, e mínima de 15% para o retalhista, calculada sobre a mesma base.\n\n7.º As dúvidas suscitadas na aplicação da presente portaria serão resolvidas por despacho do Secretário de Estado do Comércio Interno.\n\n8.º São revogadas as Portarias n.os [285/76](https://diariodarepublica.pt/dr/detalhe/portaria/285-1976-427805) e [466/76](https://diariodarepublica.pt/dr/detalhe/portaria/466-1976-431004), respectivamente de 6 de Maio e de 31 de Julho.\n\n9.º Esta portaria entra em vigor na data da sua publicação.\n\nSecretaria de Estado do Comércio Interno, 29 de Dezembro de 1976. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.\n\nQUADRO I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/01/01200/00700072.pdf)\n\nQUADRO II\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/01/01200/00700072.pdf)\n\nO Secretário de Estado do Comércio Interno, António Escaja Gonçalves."
+  },
+  "03772819b3ab161a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1977-07-11",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 417/77](https://diariodarepublica.pt/dr/detalhe/portaria/417-1977-250445), publicado em 1977-07-11.",
+    "Alterado pelo/a [Portaria n.º 417/77](https://diariodarepublica.pt/dr/detalhe/portaria/417-1977-250445), publicado em 1977-07-11."
+   ],
+   "markdown": "de 15 de Janeiro\n\nOs preços máximos dos pesticidas de uso agrícola foram fixados pelas Portarias n.os [285/76](https://diariodarepublica.pt/dr/detalhe/portaria/285-1976-427805), de 6 de Maio, e [466/76](https://diariodarepublica.pt/dr/detalhe/portaria/466-1976-431004), de 31 de Julho.\n\nConsiderando:\n\nOs agravamentos posteriormente verificados nos custos da maior parte das matérias-primas e embalagens;\n\nQue estes produtos têm épocas de aplicação específica;\n\nA necessidade de se garantir o regular abastecimento do mercado;\n\ntorna-se necessário proceder à revisão dos preços de herbicidas e fungicidas submetidos ao regime de preços máximos fixados nas citadas portarias, a fim de permitir ajustar os preços aos custos reais e manter a margem mínima de comercialização anteriormente fixada ao retalhista.\n\nNestes termos:\n\nAo abrigo do disposto no n.º 1 do artigo 2.º, na alínea c) do n.º 1 do artigo 13.º e no artigo 17.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, o seguinte:\n\n1.º Os pesticidas de uso agrícola constantes dos quadros anexos a este diploma estão sujeitos ao regime de preços máximos e ainda ao regime especial de margens mínimas de comercialização fixadas.\n\n2.º Os pesticidas de uso agrícola não referidos no número anterior estão sujeitos ao regime de margens de comercialização fixadas.\n\n> Alterado pelo/a [Portaria n.º 417/77](https://diariodarepublica.pt/dr/detalhe/portaria/417-1977-250445), publicado em 1977-07-11.\n\n3.º - 1. Os preços máximos de venda à porta da fábrica ou armazém do importador, bem como os preços máximos de venda ao consumidor, no continente e ilhas adjacentes, de herbicidas e fungicidas, com excepção do enxofre em pó, são os constantes do quadro I, anexo a esta portaria.\n\n2. É atribuída ao retalhista a margem mínima de 15%, calculada sobre o preço de venda à porta da fábrica ou armazém do importador.\n\n4.º - 1. Os preços máximos de venda pelo fabricante ou importador, bem como os preços máximos de venda ao consumidor, no continente e ilhas adjacentes, do enxofre em pó são os constantes do quadro II, anexo a esta portaria.\n\n2. Nos preços máximos de venda pelo fabricante ou importador do enxofre em pó está incluído o encargo inerente ao transporte até à estação de destino, quando transportado por caminho de ferro, ou ao depósito do revendedor, quando transportado por camionagem.\n\n3. Nas vendas do enxofre em pó para os arquipélagos da Madeira e dos Açores os preços máximos referidos no n.º 1 desta norma incluem o encargo com o transporte até à colocação do produto sobre o cais de desembarque dos portos daqueles arquipélagos.\n\n4. Os preços máximos de venda ao consumidor do enxofre em pó, nas ilhas adjacentes, podem ser acrescidos dos encargos inerentes ao transporte desde o cais de desembarque até ao armazém do revendedor.\n\n5. Aos retalhistas é atribuída a margem mínima de 185$00 por tonelada.\n\n5.º Os preços máximos de venda ao consumidor poderão ser onerados com os encargos financeiros resultantes das vendas a prazo.\n\n6.º Nas vendas de pesticidas de uso agrícola referidos no n.º 2 é aplicável a margem de comercialização de 25%, calculada sobre o preço de venda à porta da fábrica ou armazém do importador, e mínima de 15% para o retalhista, calculada sobre a mesma base.\n\n> Alterado pelo/a [Portaria n.º 417/77](https://diariodarepublica.pt/dr/detalhe/portaria/417-1977-250445), publicado em 1977-07-11.\n\n7.º As dúvidas suscitadas na aplicação da presente portaria serão resolvidas por despacho do Secretário de Estado do Comércio Interno.\n\n8.º São revogadas as Portarias n.os [285/76](https://diariodarepublica.pt/dr/detalhe/portaria/285-1976-427805) e [466/76](https://diariodarepublica.pt/dr/detalhe/portaria/466-1976-431004), respectivamente de 6 de Maio e de 31 de Julho.\n\n9.º Esta portaria entra em vigor na data da sua publicação.\n\nSecretaria de Estado do Comércio Interno, 29 de Dezembro de 1976. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.\n\nQUADRO I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/01/01200/00700072.pdf)\n\nQUADRO II\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/01/01200/00700072.pdf)\n\nO Secretário de Estado do Comércio Interno, António Escaja Gonçalves."
+  }
+ }
+}
