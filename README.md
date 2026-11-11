@@ -9,17 +9,19 @@ O objetivo é tornar o ordenamento jurídico português mais acessível, pesquis
 
 > **Estado do projeto:** em desenvolvimento ativo. Os números exatos e atualizados estão sempre em [`reports/COBERTURA.md`](reports/COBERTURA.md) e [`reports/PROGRESSO.md`](reports/PROGRESSO.md), gerados a partir dos próprios dados.
 
-### O que já existe (outubro de 2026)
+### O que já existe (novembro de 2026)
 
 | | |
 |---|---|
 | Registos | ~340 mil: ~274 mil da legislação nacional (1.ª Série desde 1833, praticamente completa face aos sitemaps do DRE, e parte da 2.ª Série), ~31 mil regionais (Açores e Madeira, incluindo o catálogo do Jornal Oficial dos Açores) e ~36 mil atos da UE |
 | Texto | ~246 mil com texto pesquisável; ~70 mil só com o PDF oficial (sobretudo 1910–1959, digitalizações); ~24 mil só com metadados, porque a fonte não tem texto nem PDF |
-| Versões | ~8 mil diplomas e atos com o histórico completo de versões consolidadas (`.versoes.json`) e consulta do texto numa data (`version-at`) |
+| Versões | ~10 mil diplomas e atos com o histórico de versões (`.versoes.json`) e consulta do texto numa data (`version-at`) |
+| Texto em vigor consolidado pelo leis-portugal | ~2,3 mil diplomas que o DRE dá como alterados mas não consolida: alterações aplicadas por regras ou por um LLM e verificadas às cegas por outro modelo; marcados como **sem valor oficial** (ver [`consolidacao/`](consolidacao/README.md)) |
 | Relações | ~1,04 milhões de relações (alterações, revogações, retificações, citações, transposições); ~89% apontam para um documento do acervo |
 | Fontes operacionais | Diário da República Eletrónico (DRE) e EUR-Lex/CELLAR |
 | Atualização | Diária, por GitHub Actions |
 | Exportação | Índice de relações (JSONL), SQLite e Parquet com os metadados (`leis-portugal export`) |
+| Perguntas (protótipo) | Pesquisa por artigo com reranker e resposta só a partir dos artigos encontrados, com "não sei" quando não há base; medição com juízes às cegas em [`rag/README.md`](rag/README.md) |
 
 ## Índice
 
@@ -67,6 +69,8 @@ Cada documento deve incluir uma ligação para a sua publicação ou página ofi
 A publicação oficial de um diploma e uma versão consolidada são representações diferentes.
 
 Uma consolidação pode facilitar a leitura da redação resultante de alterações sucessivas, mas não deve ser apresentada como se fosse o diploma original. Sempre que possível, devem ser preservadas as referências necessárias para consultar ambas as versões.
+
+Quando o DRE não consolida um diploma alterado, o `leis-portugal` pode produzir o texto em vigor. Esses registos têm `version.kind: consolidated` e o rótulo "Versão consolidada pelo leis-portugal, sem valor oficial", cada artigo alterado leva uma nota com o diploma que o alterou, e o `.versoes.json` guarda o original publicado ao lado da versão consolidada. Só entram depois de verificados às cegas por outro modelo; uma consolidação do próprio DRE, quando existir, substitui-os. O método e o que falha estão em [`consolidacao/README.md`](consolidacao/README.md).
 
 ### Não inventar cobertura
 
@@ -171,6 +175,9 @@ leis-portugal/
 │       ├── regulations/<ano>/regulamento-ue-2016-679.md
 │       ├── directives/<ano>/diretiva-ue-2022-2555.md
 │       └── decisions/<ano>/decisao-ue-2019-1234.md
+├── consolidacao/              # texto em vigor dos diplomas alterados que o DRE não consolida
+├── rag/                       # protótipo de perguntas: índice por artigo, pesquisa, resposta e medição
+├── avaliacao/                 # perguntas de avaliação do protótipo (as privadas ficam fora do git)
 ├── reports/                   # cobertura, progresso e falhas, gerados a partir de data/
 ├── exports/                   # gerado por `leis-portugal export` (fora do git)
 ├── scripts/                   # atualização diária
