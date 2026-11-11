@@ -1,0 +1,63 @@
+{
+  "id": "pt:dre:461606:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "O Instituto funcionará em instalações cedidas pelo Hospital Central Especializado de Crianças de Maria Pia e noutras que eventualmente adquira por qualquer título.",
+      "alterador": 3
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "1 - O director será licenciado em Medicina e possuirá qualificação profissional não inferior à de chefe de clínica de genética médica.\n\n2 - Ao director compete:\n\na) Superintender nos serviços do Instituto e coordenar as suas actividades;\n\nb) Promover a elaboração dos planos e programas de trabalho do Instituto;\n\nc) Promover a elaboração do relatório anual de actividade do Instituto, que submeterá ao Director-Geral dos Hospitais;\n\nd) Promover o recrutamento do pessoal e exercer a competência disciplinar que por lei lhe for atribuída;\n\ne) Submeter a despacho do Director-Geral dos Hospitais os assuntos que careçam de decisão superior;\n\nf) Promover e presidir as reuniões do conselho administrativo;\n\ng) Assegurar a representação do Instituto, directamente ou por delegação;\n\nh) Tomar todas as iniciativas necessárias à prossecução das actividades do Instituto e à sua valorização.\n\ni) Designar, de entre os chefes de serviço, os que desempenharão funções de director de serviços.\n\n3 - O regime de trabalho do director do Instituto é o de tempo completo prolongado, sendo as funções de direcção remuneradas de acordo com o previsto no quadro anexo ao presente diploma.",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "1 - O conselho administrativo do Instituto será constituído pelo director, que presidirá, e terá como vogais o adjunto do director e o administrador ou quem desempenhe as suas funções.\n\n2 - Compete ao conselho administrativo:\n\na) Elaborar os projectos de orçamento do Instituto;\n\nb) Administrar as verbas consignadas nos orçamentos;\n\nc) Fiscalizar a cobrança das receitas e o processamento das despesas;\n\nd) Fiscalizar a escrituração do Instituto;\n\ne) Requisitar, se necessário, à respectiva Repartição da Direcção-Geral da Contabilidade Pública as importâncias das dotações inscritas no Orçamento Geral do Estado a favor do Instituto;\n\nf) Autorizar, nos termos legais, a dispensa de concurso público ou limitado e do contrato escrito quanto a obras ou aquisições de material;\n\ng) Aceitar heranças, legados e donativos feitos a favor do Instituto;\n\nh) Proceder à verificação dos fundos em cofre e em depósito;\n\ni) Elaborar anualmente a conta de gerência anterior e submeter a mesma ao Tribunal de Contas nos termos e prazos legais;\n\nj) Zelar pela conservação e bom aproveitamento dos bens materiais do Instituto;\n\nl) Promover a organização e permanente actualização do cadastro dos imóveis e do inventário dos móveis pertencentes ao Instituto ou na sua posse.\n\n3 - O conselho reunirá sempre que necessário ou por convocação do presidente.",
+      "alterador": 4
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "1 - O provimento do lugar de director do Instituto será feito por nomeação do Ministro da Saúde.\n\n2 - O provimento do restante pessoal dos quadros do Instituto terá lugar segundo as normas vigentes para os serviços dependentes da Secretaria de Estado da Saúde.\n\n3 - Quando para o pessoal mencionado no número anterior já existam carreiras definidas no âmbito da SES, o provimento dos lugares correspondentes obedecerá às respectivas normas.",
+      "alterador": 4
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 3, art. 2.º: o quadro de pessoal anexo (administração e direcção técnica) é alterado conforme quadro que só vem em imagem; não aplicado. Alterador 4, art. 1.º: o Instituto passa a depender directamente do Ministro da Saúde, sem nova redação do art. 1.º (alteração não textual); não aplicado. Alteradores 8 (DL 212/2006, art. 26.º, n.º 2, d)) e 9 (DL 271/2007, art. 19.º): extinção/fusão do Instituto no INSA, sem revogação textual do original e com efeitos dependentes dos diplomas orgânicos; não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (DL 25/82): nova redação do n.º 1 dos arts. 8.º e 9.º; ultrapassada pelos alteradores 3 e 4.",
+    "Alterador 2: duplicado do alterador 1 (mesmo DL 25/82); sem efeito adicional.",
+    "Alterador 3 (DL 237-A/83), art. 1.º: nova redação do art. 4.º; art. 7.º com nova alínea i) do n.º 2 e novo n.º 3; n.º 1 do art. 8.º (ultrapassado pelo alterador 4). Aplicado ao 4.º e 7.º.",
+    "Alterador 3, art. 2.º: alteração do quadro anexo só em imagem; em nao_aplicavel.",
+    "Alterador 4 (DL 179/87), art. 2.º: nova redação do n.º 1 do art. 8.º e do n.º 1 do art. 9.º; aplicado (n.os 2 e 3 mantidos do texto atual).",
+    "Alterador 4, art. 1.º: mudança de dependência sem redação nova; em nao_aplicavel.",
+    "Alteradores 5, 6 e 7 (leis orgânicas do Governo): só alteram ou aprovam outros diplomas; ignorados.",
+    "Alteradores 8 e 9 (DL 212/2006 e DL 271/2007): extinção do Instituto por fusão no INSA, sem instrução textual sobre o original; em nao_aplicavel."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "chars": 192838,
+      "artigos": 4
+    }
+  ],
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "CAPÍTULO VII — Funções do IEP",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "### CAPÍTULO VII — Funções do IEP",
+    "depois": "### CAPÍTULO VII — Funções do IMT",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:517191:por",
+    "alterador": "pt:dre:70409924:por;pt:dre:510858:por"
+  },
+  {
+    "artigo": "CAPÍTULO X — Exploração e conservação da Auto-Estrada",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "### CAPÍTULO X — Exploração e conservação da Auto-Estrada",
+    "depois": "### CAPÍTULO X — Manutenção, exploração e conservação da Auto-Estrada",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:517191:por",
+    "alterador": "pt:dre:70409924:por;pt:dre:510858:por"
+  }
+]

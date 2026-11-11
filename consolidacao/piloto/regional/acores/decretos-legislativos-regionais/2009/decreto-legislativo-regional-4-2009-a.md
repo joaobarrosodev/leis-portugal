@@ -5062,7 +5062,7 @@ ANEXO II
 
 1 - É revogado o artigo 9.º do [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de Agosto.
 
-2 - É revogado o artigo 14.º do Decreto Legislativo Regional n.º 21/2007/A, de 30 de Agosto, com efeitos à data da entrada em vigor do mesmo.
+2 - É revogado o artigo 14.º do [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de Agosto, com efeitos à data da entrada em vigor do mesmo.
 
 3 - É revogada a alínea t) do n.º 1 do artigo 15.º do [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de Agosto, com repristinação do [Despacho Normativo n.º 4/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2005-626225), de 20 de Janeiro.
 

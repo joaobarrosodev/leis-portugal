@@ -1,0 +1,168 @@
+---
+id: pt:dre:461606:por
+title: Decreto-Lei n.º 431/80
+original: data/portugal/decretos-leis/1980/decreto-lei-431-80.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:225788:por
+    title: Decreto-Lei n.º 237-A/83
+    publication_date: '1983-06-08'
+  - id: pt:dre:666325:por
+    title: Decreto-Lei n.º 179/87
+    publication_date: '1987-04-20'
+  titulos_normalizados: artigos em texto corrido no original, com título pelo parser
+    da fase 3
+---
+
+# Decreto-Lei n.º 431/80
+
+de 1 de Outubro
+
+A genética médica constitui actualmente uma área médica em profundo desenvolvimento, na qual se alicerçam algumas das melhores esperanças da humanidade de melhoria da qualidade de vida. O acesso à informação fornecida pela moderna tecnologia científica, que constitui elemento do direito dos cidadãos à informação, exige um esforço de estruturação neste sector. Não se pode, pois, deixar de reflectir na importância crescente desta área em termos de prevenção e no significado que ela rapidamente vai ganhando nas sociedades modernas.
+
+A patologia hereditária e malformativa toma uma importância relativamente crescente na mortalidade e na morbilidade infantil, dadas as acções de contrôle das doenças infecciosas e das de nutrição.
+
+Com o prolongamento de vida de indivíduos portadores deste tipo de deficiências esta patologia vai tornar-se cada vez mais pesada nos sistemas de segurança social e no custo da saúde.
+
+O homem contemporâneo está cada vez mais preocupado com a perfeita integridade física e psíquica dos filhos que deseja ter. Por outro lado, as preocupações relativas à qualidade da vida pressionam de modo notavelmente sensível as estruturas sociais e manifesta-se uma inquietação sobre os perigos da sociedade técnica e das diversas poluições. Pode-se, certamente, pensar que há em tudo isto um certo exagero, mas não pode, no entanto, subestimar-se a relevância do problema justificando-se plenamente o seu estudo objectivo. Por todas estas razões, parece que o conjunto dos trabalhos assistenciais, de investigação e de ensino pós-graduado relativos à genética médica devem ser colocados numa estrutura organizada, que será o Instituto de Genética Médica, que integrará o actual Serviço de Genética do Hospital de Maria Pia.
+
+Nestes termos:
+
+O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º
+
+1 - É criado na dependência da Direcção-Geral dos Hospitais o Instituto de Genética Médica, adiante designado apenas por Instituto.
+
+2 - Este Instituto integra o equipamento, infra-estruturas e pessoal pertencentes ao Serviço de Genética do Hospital de Crianças de Maria Pia.
+
+###### Artigo 2.º
+
+O Instituto tem personalidade jurídica e é dotado de autonomia administrativa e financeira.
+
+###### Artigo 3.º
+
+Ao Instituto compete a programação e realização de estudos de genética médica, tendo atribuições assistenciais, de investigação e de ensino.
+
+###### Artigo 4.º
+
+O Instituto funcionará em instalações cedidas pelo Hospital Central Especializado de Crianças de Maria Pia e noutras que eventualmente adquira por qualquer título.
+
+> Alterado pelo/a [Decreto-Lei n.º 237-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-a-1983-225788), publicado em 1983-06-08.
+
+###### Artigo 5.º
+
+O Instituto dispõe do quadro de pessoal anexo ao presente diploma, cujo provimento fará extinguir os correspondentes lugares no quadro do referido Hospital de Maria Pia.
+
+###### Artigo 6.º
+
+O Instituto será orientado por um director e disporará de um conselho administrativo.
+
+###### Artigo 7.º
+
+1 - O director será licenciado em Medicina e possuirá qualificação profissional não inferior à de chefe de clínica de genética médica.
+
+2 - Ao director compete:
+
+a) Superintender nos serviços do Instituto e coordenar as suas actividades;
+
+b) Promover a elaboração dos planos e programas de trabalho do Instituto;
+
+c) Promover a elaboração do relatório anual de actividade do Instituto, que submeterá ao Director-Geral dos Hospitais;
+
+d) Promover o recrutamento do pessoal e exercer a competência disciplinar que por lei lhe for atribuída;
+
+e) Submeter a despacho do Director-Geral dos Hospitais os assuntos que careçam de decisão superior;
+
+f) Promover e presidir as reuniões do conselho administrativo;
+
+g) Assegurar a representação do Instituto, directamente ou por delegação;
+
+h) Tomar todas as iniciativas necessárias à prossecução das actividades do Instituto e à sua valorização.
+
+i) Designar, de entre os chefes de serviço, os que desempenharão funções de director de serviços.
+
+3 - O regime de trabalho do director do Instituto é o de tempo completo prolongado, sendo as funções de direcção remuneradas de acordo com o previsto no quadro anexo ao presente diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 237-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-a-1983-225788), publicado em 1983-06-08.
+
+###### Artigo 8.º
+
+1 - O conselho administrativo do Instituto será constituído pelo director, que presidirá, e terá como vogais o adjunto do director e o administrador ou quem desempenhe as suas funções.
+
+2 - Compete ao conselho administrativo:
+
+a) Elaborar os projectos de orçamento do Instituto;
+
+b) Administrar as verbas consignadas nos orçamentos;
+
+c) Fiscalizar a cobrança das receitas e o processamento das despesas;
+
+d) Fiscalizar a escrituração do Instituto;
+
+e) Requisitar, se necessário, à respectiva Repartição da Direcção-Geral da Contabilidade Pública as importâncias das dotações inscritas no Orçamento Geral do Estado a favor do Instituto;
+
+f) Autorizar, nos termos legais, a dispensa de concurso público ou limitado e do contrato escrito quanto a obras ou aquisições de material;
+
+g) Aceitar heranças, legados e donativos feitos a favor do Instituto;
+
+h) Proceder à verificação dos fundos em cofre e em depósito;
+
+i) Elaborar anualmente a conta de gerência anterior e submeter a mesma ao Tribunal de Contas nos termos e prazos legais;
+
+j) Zelar pela conservação e bom aproveitamento dos bens materiais do Instituto;
+
+l) Promover a organização e permanente actualização do cadastro dos imóveis e do inventário dos móveis pertencentes ao Instituto ou na sua posse.
+
+3 - O conselho reunirá sempre que necessário ou por convocação do presidente.
+
+> Alterado pelo/a [Decreto-Lei n.º 179/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1987-666325), publicado em 1987-04-20.
+
+###### Artigo 9.º
+
+1 - O provimento do lugar de director do Instituto será feito por nomeação do Ministro da Saúde.
+
+2 - O provimento do restante pessoal dos quadros do Instituto terá lugar segundo as normas vigentes para os serviços dependentes da Secretaria de Estado da Saúde.
+
+3 - Quando para o pessoal mencionado no número anterior já existam carreiras definidas no âmbito da SES, o provimento dos lugares correspondentes obedecerá às respectivas normas.
+
+> Alterado pelo/a [Decreto-Lei n.º 179/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1987-666325), publicado em 1987-04-20.
+
+###### Artigo 10.º
+
+O Ministro dos Assuntos Sociais poderá autorizar o Instituto a celebrar contratos de tarefa com indivíduos ou organismos nacionais ou estrangeiros, quando essa forma de contratação se revele a mais económica ou quando se revele necessária à prossecução dos fins do Instituto.
+
+###### Artigo 11.º
+
+Os encargos resultantes do funcionamento do Instituto serão cobertos pelos donativos, produtos de heranças, legados ou doações que lhe sejam feitos e por qualquer outras receitas ou subsídios legalmente atribuídos.
+
+###### Artigo 12.º
+
+O Instituto ficará em regime de instalação, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+
+###### Artigo 13.º
+
+A comissão instaladora elaborará o regulamento interno do Instituto, que será aprovado pelo Ministro dos Assuntos Sociais, e no qual serão definidas as relações entre o Instituto e os hospitais.
+
+###### Artigo 14.º
+
+Os casos omissos e as dúvidas resultantes da aplicação do presente diploma serão resolvidos por despacho do Ministro dos Assuntos Sociais.
+
+###### Artigo 15.º
+
+É revogada a portaria da Secretaria de Estado da Saúde referente à matéria do presente diploma, com data de 31 de Janeiro de 1980, publicada no Diário da República, 2.ª série, n.º 33, de 8 de Fevereiro de 1980.
+
+###### Artigo 16.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 4 de Setembro de 1980. - Francisco Sá Carneiro.
+
+Promulgado em 19 de Setembro de 1980.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

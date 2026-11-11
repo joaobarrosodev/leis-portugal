@@ -1,0 +1,47 @@
+{
+  "id": "pt:dre:173758:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [
+    {
+      "atual": "### CAPÍTULO VII — Funções do IEP",
+      "novo": "### CAPÍTULO VII — Funções do IMT",
+      "alterador": 3
+    },
+    {
+      "atual": "### CAPÍTULO X — Exploração e conservação da Auto-Estrada",
+      "novo": "### CAPÍTULO X — Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "O texto atual só traz os artigos 1.º a 5.º do decreto-lei e os títulos dos capítulos I a X do anexo; as bases do anexo não vêm no texto atual, pelo que não se aplicam: a alteração das bases I, II, V e XXVI e a revogação da alínea f) do n.º 1 da base II (alterador 1, arts. 2.º e 4.º); a alteração de dezenas de bases e o aditamento das bases XVIII-A, XIX-A, LI-A, LVII-A a LVII-BB, LXV-A e LXXXVII-A (alterador 2, arts. 1.º e 2.º); a alteração de bases, o aditamento das bases XXXIV-A, LIV-A, LVII-UA, LXV-B a LXV-E, LXXXVI-A e LXXXVII-B e as revogações do art. 5.º (alterador 3, arts. 1.º, 2.º e 5.º). Também não se aplicam: as novas epígrafes dos capítulos XVII e XXI (alterador 2, art. 3.º, n.º 1, alíneas c) e d)), por esses capítulos não estarem no texto atual; o aditamento do capítulo X-A e das suas secções e subsecções (alterador 2, art. 3.º, n.º 2), as novas epígrafes das secções I, II, IV, V e IX e das subsecções II e III do capítulo X-A (alterador 3, art. 3.º, n.os 2 e 3) e o aditamento do capítulo XXII-A (alterador 3, art. 3.º, n.º 4), por se tratar de títulos que não estão no texto atual; a regra de republicação «InIR» por «IMT» (alterador 3, art. 6.º, n.º 2), que só respeita à republicação.",
+  "instrucoes": [
+    "Alterador 1 (DL 19/2007), art. 2.º: nova redação das bases I, II, V e XXVI do anexo; bases ausentes do texto atual, não aplicada (nao_aplicavel).",
+    "Alterador 1, art. 3.º: autoriza os ministros a outorgar o primeiro aditamento; norma autónoma, não altera o art. 3.º do original; nada a fazer.",
+    "Alterador 1, art. 4.º: revoga a alínea f) do n.º 1 da base II; base ausente do texto atual (nao_aplicavel).",
+    "Alterador 2 (DL 44-G/2010), arts. 1.º e 2.º: altera e adita bases do anexo; ausentes do texto atual (nao_aplicavel).",
+    "Alterador 2, art. 3.º, n.º 1: novas epígrafes dos capítulos VII («Funções do InIR»), X («Manutenção, exploração e conservação da Auto-Estrada»), XVII e XXI; VII e X depois mudados de novo pelo alterador 3; XVII e XXI não estão no texto atual (nao_aplicavel).",
+    "Alterador 2, art. 3.º, n.º 2: adita o capítulo X-A com secções e subsecções; títulos novos que não estão no texto atual, não inventados (nao_aplicavel).",
+    "Alterador 2, art. 6.º: republicação; nada a aplicar.",
+    "Alterador 3 (DL 110/2015), arts. 1.º, 2.º e 5.º: altera, adita e revoga bases e alíneas do anexo; ausentes do texto atual (nao_aplicavel).",
+    "Alterador 3, art. 3.º, n.º 1: capítulo VII passa a «Funções do IMT» e capítulo X a «Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios»; aplicado em titulos.",
+    "Alterador 3, art. 3.º, n.os 2 a 4: epígrafes de secções/subsecções do capítulo X-A e aditamento do capítulo XXII-A; títulos que não estão no texto atual (nao_aplicavel).",
+    "Alterador 3, art. 6.º: republicação e regra «InIR»/«IMT» para a republicação; nada a aplicar.",
+    "Nenhuma instrução altera os artigos 1.º a 5.º do decreto-lei: artigos [] e removidos []."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2,
+        3
+      ],
+      "chars": 295357,
+      "artigos": 0
+    }
+  ],
+  "problemas": []
+}

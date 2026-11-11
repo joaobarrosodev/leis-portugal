@@ -7,24 +7,24 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:209451:por
-    title: Decreto-Lei n.º 243-A/2004
-    publication_date: '2004-12-31'
+  - id: pt:dre:191285:por
+    title: Decreto-Lei n.º 252/2012
+    publication_date: '2012-11-26'
+  - id: pt:dre:612397:por
+    title: Decreto-Lei n.º 30/2010
+    publication_date: '2010-04-08'
   - id: pt:dre:671384:por
     title: Decreto-Lei n.º 72/2006
     publication_date: '2006-03-24'
   - id: pt:dre:492216:por
     title: Decreto-Lei n.º 154/2009
     publication_date: '2009-07-06'
-  - id: pt:dre:612397:por
-    title: Decreto-Lei n.º 30/2010
-    publication_date: '2010-04-08'
   - id: pt:dre:333859:por
     title: Decreto-Lei n.º 93/2010
     publication_date: '2010-07-27'
-  - id: pt:dre:191285:por
-    title: Decreto-Lei n.º 252/2012
-    publication_date: '2012-11-26'
+  - id: pt:dre:209451:por
+    title: Decreto-Lei n.º 243-A/2004
+    publication_date: '2004-12-31'
 ---
 
 # Decreto-Lei n.º 233/2004
@@ -69,9 +69,9 @@ Regime de comércio de licenças de emissão de gases com efeito de estufa na Co
 
 ###### Artigo 1.º — Objecto
 
-O presente decreto-lei transpõe para a ordem jurídica nacional a Diretiva n.º 2003/87/CE, do Parlamento Europeu e do Conselho, de 13 de outubro, relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade e que altera a Diretiva n.º 96/61/CE, do Conselho, alterada pela Diretiva n.º 2004/101/CE, do Parlamento Europeu e do Conselho, de 27 de outubro, no que diz respeito aos mecanismos baseados em projetos do Protocolo de Quioto, bem como os n.os10, 11 e 13 do artigo 1.º da Diretiva n.º 2009/29/CE, do Parlamento Europeu e do Conselho, de 23 de abril.
+O presente decreto-lei transpõe para a ordem jurídica nacional a Diretiva n.º [2003/87/CE](https://data.europa.eu/eli/dir/2003/87/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de outubro, relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade e que altera a Diretiva n.º [96/61/CE](https://data.europa.eu/eli/dir/1996/61/oj?locale=pt), do Conselho, alterada pela Diretiva n.º [2004/101/CE](https://data.europa.eu/eli/dir/2004/101/oj?locale=pt), do Parlamento Europeu e do Conselho, de 27 de outubro, no que diz respeito aos mecanismos baseados em projetos do Protocolo de Quioto, bem como os n.os10, 11 e 13 do artigo 1.º da Diretiva n.º [2009/29/CE](https://data.europa.eu/eli/dir/2009/29/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de abril.
 
-> Alterado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Alterado pelo/a [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
 
 ###### Artigo 2.º — Definições
 
@@ -97,13 +97,27 @@ i) «Título de emissão de gases com efeito de estufa» o título emitido de ac
 
 j) «Tonelada de dióxido de carbono equivalente» uma tonelada métrica de dióxido de carbono (CO(índice 2)) ou uma quantidade de outro gás com efeito de estufa com um potencial de aquecimento global equivalente.
 
+l) «Parte incluída no anexo I» uma Parte incluída no anexo I da Convenção Quadro das Nações Unidas sobre as Alterações Climáticas que tenha ratificado o Protocolo de Quioto, nos termos do n.º 7 do artigo 1.º do Protocolo de Quioto;
+
+m) «Actividade de projecto» uma actividade de projecto aprovada por uma ou mais Partes incluídas no anexo I, nos termos do artigo 6.º ou do artigo 12.º do Protocolo de Quioto e das decisões adoptadas por força da Convenção Quadro das Nações Unidas sobre as Alterações Climáticas ou do Protocolo de Quioto;
+
+n) «Unidade de redução de emissões» ou «URE» uma unidade emitida nos termos do artigo 6.º do Protocolo de Quioto e das decisões adoptadas por força da Convenção Quadro das Nações Unidas sobre as Alterações Climáticas ou do Protocolo de Quioto;
+
+o) «Redução certificada de emissões» ou «RCE» uma unidade emitida nos termos do artigo 12.º do Protocolo de Quioto e das decisões adoptadas por força da Convenção Quadro das Nações Unidas sobre as Alterações Climáticas ou do Protocolo de Quioto.
+
+p) 'Sobrecusto total da produção em regime especial a partir de fontes de energia renováveis', o diferencial entre o custo unitário da energia elétrica produzida em regime ordinário, em euros por MWh, e o custo unitário de aquisição de energia elétrica produzida em regime especial a partir de fontes de energia renováveis, em euros por MWh, multiplicado pelas correspondentes produções, em MWh;
+
+q) 'Sobrecusto da produção da cogeração renovável na sua fração renovável', o diferencial entre o custo unitário da energia elétrica produzida em regime ordinário, em euros por MWh, e o custo unitário de aquisição de energia elétrica às instalações de cogeração renovável, em euros por MWh, multiplicado pelas correspondentes produções, em MWh, e pelas frações de energia renovável na energia primária total consumida.
+
+> Alterado pelo/a [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+
 ###### Artigo 3.º — Âmbito de aplicação
 
 1 - Sem prejuízo do disposto no regime jurídico da prevenção e controlo integrados da poluição, aprovado pelo Decreto-Lei n.º 173/2008, de 26 de Agosto, o presente decreto-lei aplica-se às emissões provenientes das actividades constantes dos anexos i e vi do presente decreto-lei, do qual fazem parte integrante, e aos gases com efeito de estufa identificados nos referidos anexos.
 
 2 - O regime do presente diploma não é aplicável às instalações ou partes de instalações utilizadas para investigação, desenvolvimento e ensaio de novos produtos ou processos.
 
-> Alterado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Alterado pelo/a [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397), publicado em 2010-04-08.
 
 ### CAPÍTULO II — Entidades e competências
 
@@ -111,29 +125,39 @@ j) «Tonelada de dióxido de carbono equivalente» uma tonelada métrica de dió
 
 1 - Compete ao Instituto do Ambiente:
 
-a) Apreciar os pedidos apresentados pelos operadores e atribuir os títulos de emissão de gases com efeito de estufa;
+a) Impulsionar, em articulação estreita com as entidades a designar pelo membro do Governo responsável pela área da economia, a elaboração do PNALE;
 
-b) Actualizar os títulos de emissão de gases com efeito de estufa em caso de alterações na respectiva instalação ou na identidade do operador;
+b) Apreciar os pedidos apresentados pelos operadores e atribuir os títulos de emissão de gases com efeito de estufa;
 
-c) Emitir recomendação sobre os pedidos de exclusão temporária do regime de comércio de licenças de emissão, bem como sobre os casos de força maior;
+c) Actualizar os títulos de emissão de gases com efeito de estufa em caso de alterações na respectiva instalação ou na identidade do operador;
 
-d) Atribuir as licenças de emissão e proceder à respectiva anulação;
+d) Emitir recomendação sobre os pedidos de exclusão temporária do regime de comércio de licenças de emissão, bem como sobre os casos de força maior;
 
-e) Definir a quantidade de licenças de emissão a atribuir a novas instalações e em caso de actualização de títulos de emissão de gases com efeito de estufa;
+e) Atribuir as licenças de emissão e proceder à respectiva anulação;
 
-f) Assegurar a gestão do sistema de registo nacional de dados relativos à concessão, detenção, transferência e anulação de licenças de emissão;
+f) Definir a quantidade de licenças de emissão a atribuir a novas instalações;
 
-g) Validar os relatórios de emissões da instalação apresentados anualmente pelos operadores;
+g) Assegurar a gestão do sistema de registo nacional de dados relativos à concessão, detenção, transferência e anulação de licenças de emissão;
 
-h) Apreciar os pedidos de agrupamento de operadores e apresentar as respectivas propostas de autorização;
+h) Atribuir a qualificação de verificador dos relatórios de emissões das instalações e emitir o respectivo certificado, bem como renovar e retirar a referida qualificação;
 
-i) Disponibilizar ao público as decisões sobre a atribuição de licenças e as informações sobre as emissões, bem como a lista com o nome dos operadores que não devolvam licenças de emissão suficientes, nos termos do n.º 4 do artigo 17.º;
+i) Avaliar os relatórios de emissões da instalação apresentados anualmente pelos operadores;
 
-j) Organizar os processos de consulta pública;
+j) Apreciar os pedidos de agrupamento de operadores e apresentar as respectivas propostas de autorização;
 
-l) Elaborar e enviar à Comissão Europeia o relatório anual sobre a aplicação do presente diploma.
+l) Disponibilizar ao público as decisões sobre a atribuição de licenças e as informações sobre as emissões, bem como a lista com o nome dos operadores que não devolvam licenças de emissão suficientes, nos termos do n.º 4 do artigo 17.º;
 
-2 - As decisões adoptadas ao abrigo das alíneas a), c), e), g) e h) do número anterior carecem de parecer da Direcção-Geral de Geologia e Energia.
+m) Organizar os processos de consulta pública;
+
+n) Elaborar e enviar à Comissão Europeia o relatório anual sobre a aplicação do presente diploma.
+
+o) Preparar, publicar e apresentar à Comissão Europeia, até 30 de Setembro de 2011, a lista das instalações que, no território nacional, são abrangidas pelo regime de comércio europeu de licenças de emissão a partir de 1 de Janeiro de 2013, e das licenças de emissão que venham a ser atribuídas, a título gratuito, às referidas instalações.
+
+2 - A decisão adoptada ao abrigo da alínea b) do número anterior carece de parecer da entidade coordenadora do licenciamento.
+
+3 - As decisões adoptadas ao abrigo das alíneas d), f), j) e o) do n.º 1 carecem de parecer da Direcção-Geral de Energia e Geologia (DGEG).
+
+> Alterado pelo/a [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397), publicado em 2010-04-08.
 
 ###### Artigo 5.º — Entidade coordenadora do licenciamento
 
@@ -141,7 +165,9 @@ Compete à entidade coordenadora do licenciamento remeter ao Instituto do Ambien
 
 ###### Artigo 6.º — Direcção-Geral de Geologia e Energia
 
-Compete à Direcção-Geral de Geologia e Energia (DGGE) acompanhar a implementação nacional do regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade Europeia promovendo em articulação com o Instituto do Ambiente, reuniões com representantes das instalações ou associações dos sectores de actividade constantes do anexo I para apreciar as matérias relativas às decisões adoptadas ao abrigo das alíneas a), c), e), g) e h) do n.º 1 do artigo 4.º
+Compete à DGGE acompanhar a implementação nacional do regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade Europeia, promovendo, em articulação com o Instituto do Ambiente, reuniões com representantes das instalações ou associações dos sectores de actividade constantes do anexo I para apreciar as matérias relativas às decisões adoptadas ao abrigo das alíneas d), f) e j) do n.º 1 do artigo 4.º
+
+> Alterado pelo/a [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384), publicado em 2006-03-24.
 
 ###### Artigo 6.º-A — Autoridade nacional designada para os mecanismos de flexibilidade do Protocolo de Quioto
 
@@ -153,7 +179,7 @@ b) Avaliar a conformidade dos projectos de mecanismo de desenvolvimento limpo e 
 
 c) Disponibilizar informação sistematizada de apoio a investidores para o desenvolvimento de projectos de implementação conjunta e mecanismo de desenvolvimento limpo e funcionar como repositório de informação técnica relativa aos mecanismos de flexibilidade do Protocolo de Quioto.
 
-> Aditado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Aditado pelo/a [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216), publicado em 2009-07-06.
 
 ### CAPÍTULO III
 
@@ -181,21 +207,19 @@ e) Descrição da metodologia de monitorização e comunicação de informaçõe
 
 f) Resumo não técnico dos elementos referidos nas alíneas anteriores.
 
-2 - O pedido de título de emissão deve constar de impresso de modelo aprovado por portaria conjunta dos Ministros das Actividades Económicas e do Trabalho e do Ambiente e do Ordenamento do Território.
+2 - O pedido de título de emissão deve constar de impresso de modelo aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas do ambiente e da economia.
+
+> Alterado pelo/a [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384), publicado em 2006-03-24.
 
 ###### Artigo 9.º — Instrução e apreciação do pedido
 
-1 - O pedido de título de emissão é apresentado na entidade coordenadora do licenciamento simultaneamente com o pedido de licenciamento da actividade.
+1 - O pedido de título de emissão é apresentado junto da entidade coordenadora do licenciamento, o qual é remetido no prazo de três dias úteis para o Instituto do Ambiente.
 
-2 - No prazo de três dias úteis, a entidade coordenadora do licenciamento deve remeter:
+2 - No prazo de 20 dias úteis, a entidade coordenadora do licenciamento deve emitir parecer sobre o pedido, junto do Instituto do Ambiente.
 
-a) O pedido à comissão de coordenação e desenvolvimento regional competente, caso se trate de instalação sujeita ao regime do Decreto-Lei n.º 194/2000, de 21 de Agosto, seguindo-se a tramitação prevista para a emissão de licença ambiental;
+3 - A decisão sobre o pedido de título de emissão cabe, mediante parecer da entidade coordenadora do licenciamento, ao Instituto do Ambiente no prazo de 30 dias úteis a contar da data da recepção do pedido.
 
-b) O pedido ao Instituto do Ambiente para apreciação, nos restantes casos;
-
-c) Uma cópia do pedido à DGGE para emissão de parecer, no prazo de 20 dias úteis, nos casos previstos nas alíneas anteriores.
-
-3 - A decisão sobre o pedido de título de emissão cabe, mediante parecer da DGGE, ao Instituto do Ambiente, no prazo previsto para a decisão sobre a licença ambiental, quando se trate de instalações abrangidas pelo Decreto-Lei n.º 194/2000, de 21 de Agosto, ou, no prazo de 30 dias úteis a contar da data da recepção do pedido remetido pela entidade coordenadora do licenciamento, nos restantes casos.
+> Alterado pelo/a [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384), publicado em 2006-03-24.
 
 ###### Artigo 10.º — Condições e conteúdo do título de emissão de gases com efeito de estufa
 
@@ -215,7 +239,9 @@ d) Indicação das regras de comunicação de informações; e
 
 e) Indicação da obrigação de devolver, ao Instituto do Ambiente, licenças de emissão correspondentes ao total das emissões da instalação em cada ano civil, verificadas em conformidade com o artigo 23.º, no prazo de quatro meses a contar do termo do ano em causa.
 
-4 - O modelo do título de emissão é aprovado por portaria conjunta dos Ministros das Actividades Económicas e do Trabalho e do Ambiente e do Ordenamento do Território.
+4 - O modelo do título de emissão é aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas do ambiente e da economia.
+
+> Alterado pelo/a [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384), publicado em 2006-03-24.
 
 ###### Artigo 11.º — Modificação das instalações
 
@@ -223,9 +249,11 @@ e) Indicação da obrigação de devolver, ao Instituto do Ambiente, licenças d
 
 2 - A transmissão, a qualquer título, de instalação abrangida pelo presente diploma, devidamente comprovada, é comunicada à entidade coordenadora do licenciamento, no prazo de 30 dias úteis, para actualização do título de emissão de gases com efeito de estufa com a indicação do nome e endereço do novo operador.
 
-3 - A entidade coordenadora do licenciamento deve remeter as informações referidas nos números anteriores, no prazo de três dias úteis, ao Instituto do Ambiente que, se for caso disso, procede à actualização do título.
+3 - A entidade coordenadora do licenciamento deve remeter as informações referidas nos números anteriores no prazo de 3 dias úteis ao Instituto do Ambiente, que, se for caso disso, procede à actualização do título no prazo de 30 dias úteis.
 
 4 - O disposto no presente artigo não prejudica as obrigações decorrentes de outros regimes legais aplicáveis no caso de alteração das instalações.
+
+> Alterado pelo/a [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384), publicado em 2006-03-24.
 
 ###### Artigo 12.º — Exclusão temporária do regime de comércio de emissões
 
@@ -239,7 +267,7 @@ c) As instalações estão sujeitas à aplicação de penalização, pelo menos,
 
 2 - No prazo de 3 dias úteis, a entidade coordenadora do licenciamento deve remeter uma cópia do pedido à DGGE para emissão de parecer no prazo de 20 dias úteis.
 
-3 - Os pedidos de exclusão temporária, após recomendação do Instituto do Ambiente, que tem em conta o parecer da DGGE, são sujeitos a despacho conjunto dos Ministros das Actividades Económicas e do Trabalho e do Ambiente e do Ordenamento do Território, no qual se identificam as instalações que podem ser temporariamente excluídas do regime de comércio de licenças de emissão.
+3 - Os pedidos de exclusão temporária, após recomendação do Instituto do Ambiente, que tem em conta o parecer da DGGE, são sujeitos a despacho conjunto dos membros do Governo responsáveis pelas áreas do ambiente e da economia, no qual se identificam as instalações que podem ser temporariamente excluídas do regime de comércio de licenças de emissão.
 
 4 - O Instituto do Ambiente publicita a lista de instalações constantes do despacho conjunto previsto no número anterior para permitir a apresentação de observações pelo público.
 
@@ -247,27 +275,25 @@ c) As instalações estão sujeitas à aplicação de penalização, pelo menos,
 
 6 - A decisão da Comissão Europeia sobre os pedidos de exclusão temporária é notificada às instalações pelo Instituto do Ambiente.
 
-7 - As instalações e actividades temporariamente excluídas do regime de comércio de licenças de emissões devem reduzir as suas emissões de gases com efeito de estufa, nos termos previstos no Plano Nacional de Atribuição de Licenças de Emissão.
-
-8 - As instalações e actividades temporariamente excluídas do regime de comércio de licenças de emissões ficam sujeitas ao cumprimento dos requisitos de monitorização, comunicação de informações e verificação previstos no artigo 22.º e no n.º 1 do artigo 23.º
-
-> Alterado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Alterado pelo/a [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384), publicado em 2006-03-24.
 
 ### CAPÍTULO IV — Plano nacional de atribuição de licenças de emissão
 
 ###### Artigo 13.º — Plano nacional de atribuição de licenças de emissão
 
-1 - Para o período de três anos com início em 2005 e para cada período subsequente de cinco anos, é elaborado, sob a responsabilidade dos Ministérios das Actividades Económicas e do Trabalho e do Ambiente e do Ordenamento do Território, um plano nacional de atribuição de licenças de emissão (PNALE), que estabelece a quantidade total de licenças de emissão a atribuir pelo Estado Português e o respectivo método de atribuição.
+1 - Para o período de três anos com início em 2005 e para cada período subsequente de cinco anos é elaborado, sob a responsabilidade dos membros do Governo responsáveis pelas áreas do ambiente e da economia, um PNALE, que estabelece a quantidade total de licenças de emissão a atribuir pelo Estado Português e o respectivo método de atribuição.
 
 2 - O projecto de PNALE é disponibilizado ao público nas instalações do Instituto do Ambiente e publicitado na respectiva página da Internet, para permitir a apresentação de observações pelo público.
 
 3 - O PNALE deve basear-se em critérios objectivos e transparentes, incluindo os constantes do anexo III, e ter em devida conta as observações do público.
 
-4 - Para o período de três anos com início em 2005, o projecto de PNALE é aprovado por despacho conjunto dos Ministros das Actividades Económicas e do Trabalho e do Ambiente e do Ordenamento do Território e notificado à Comissão e aos outros Estados membros da União Europeia.
+4 - Para o período de três anos com início em 2005, o projecto de PNALE é aprovado por despacho conjunto dos membros do Governo responsáveis pelas áreas do ambiente e da economia e notificado à Comissão e aos outros Estados membros da União Europeia.
 
-5 - Para os períodos posteriores, o projecto de PNALE é aprovado por despacho conjunto dos Ministros das Actividades Económicas e do Trabalho e do Ambiente e do Ordenamento do Território e notificado à Comissão Europeia e aos outros Estados membros da União Europeia pelo menos 18 meses antes do início do período em causa.
+5 - Para os períodos posteriores, o projecto de PNALE é aprovado por despacho conjunto dos membros do Governo responsáveis pelas áreas do ambiente e da economia e notificado à Comissão Europeia e aos outros Estados membros da União Europeia pelo menos 18 meses antes do início do período em causa.
 
 6 - O PNALE torna-se definitivo mediante aprovação por Resolução do Conselho de Ministros, após apreciação pela Comissão Europeia, nos termos dos n.os 2 e 3 do artigo 9.º da Directiva n.º [2003/87/CE](https://data.europa.eu/eli/dir/2003/87/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de Outubro.
+
+> Alterado pelo/a [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384), publicado em 2006-03-24.
 
 ###### Artigo 14.º — Método de atribuição
 
@@ -291,15 +317,15 @@ c) As instalações estão sujeitas à aplicação de penalização, pelo menos,
 
 ###### Artigo 16.º — Atribuição e concessão de licenças de emissão
 
-1 - A quantidade total de licenças de emissão a atribuir no período de três anos com início em 1 de Janeiro de 2005, bem como a respectiva atribuição aos operadores das instalações, é determinada por despacho conjunto dos Ministros das Actividades Económicas e do Trabalho e do Ambiente e do Ordenamento do Território, a adoptar no prazo de 15 dias a contar da data da publicação da Resolução do Conselho de Ministros prevista no n.º 4 do artigo anterior.
+1 - A quantidade total de licenças de emissão a atribuir no período de três anos, com início em 1 de Janeiro de 2005, bem como a respectiva atribuição aos operadores das instalações, é determinada por despacho conjunto dos membros do Governo responsáveis pelas áreas do ambiente e da economia, a adoptar no prazo de 15 dias a contar da data da publicação da resolução do Conselho de Ministros prevista no n.º 6 do artigo 13.º
 
-2 - Para o período de cinco anos com início em 1 de Janeiro de 2008, e para cada período de cinco anos subsequente, a quantidade total de licenças de emissão a atribuir nesse período e o início do processo de atribuição dessas licenças aos operadores das instalações são determinados por despacho conjunto dos Ministros das Actividades Económicas e do Trabalho e do Ambiente e do Ordenamento do Território, com uma antecedência mínima de 12 meses.
+2 - Para o período de cinco anos, com início em 1 de Janeiro de 2008, e para cada período de cinco anos subsequente, a quantidade total de licenças de emissão a atribuir nesse período e o início do processo de atribuição dessas licenças aos operadores das instalações são determinados por despacho conjunto dos membros do Governo responsáveis pelas áreas do ambiente e da economia com uma antecedência mínima de 12 meses.
 
-3 - As decisões previstas nos números anteriores são adoptadas com base no PNALE, em conformidade com o artigo 14.º, tendo em devida conta as observações apresentadas pelo público junto do Instituto do Ambiente.
+3 - As decisões previstas nos números anteriores são adoptadas com base no PNALE, em conformidade com o artigo 13.º, tendo em devida conta as observações apresentadas pelo público junto do Instituto do Ambiente.
 
 4 - A decisão de atribuição de licenças da reserva para novas instalações compete ao Instituto do Ambiente, mediante parecer da DGGE.
 
-5 - Sempre que o montante de licenças da reserva para novas instalações a atribuir seja superior a 20000, a decisão de atribuição prevista no número anterior deve ser homologada pelos Ministros das Actividades Económicas e do Trabalho e do Ambiente e do Ordenamento do Território.
+5 - Sempre que o montante de licenças da reserva para novas instalações a atribuir seja superior a 20000, a decisão de atribuição prevista no número anterior deve ser homologada pelos membros do Governo responsáveis pelas áreas do ambiente e da economia.
 
 6 - Na sequência das decisões de atribuição de licenças previstas nos números anteriores, o Instituto do Ambiente concede anualmente às respectivas instalações uma parte da quantidade total de licenças de emissão a atribuir para cada ano dos períodos referidos nos n.os 1 e 2, até 28 de Fevereiro do ano em questão.
 
@@ -309,7 +335,7 @@ c) As instalações estão sujeitas à aplicação de penalização, pelo menos,
 
 9 - As regras para a atribuição das licenças de emissão para novas instalações, designadamente o procedimento de inscrição, a prioridade e as condições para a respectiva atribuição e concessão, são definidas por portaria dos membros do Governo responsáveis pelas áreas do ambiente e da economia.
 
-> Alterado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Alterado pelo/a [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216), publicado em 2009-07-06.
 
 ###### Artigo 16.º-A — Definição das regras de utilização de URE e RCE
 
@@ -327,13 +353,13 @@ c) As instalações estão sujeitas à aplicação de penalização, pelo menos,
 
 7 - As decisões sobre a anulação de licenças de emissão referidas nos números anteriores competem ao Instituto do Ambiente.
 
-> Aditado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Aditado pelo/a [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216), publicado em 2009-07-06.
 
 ###### Artigo 16.º-B — Leilão de licenças de emissão
 
 1 - A partir de 1 de janeiro de 2013, as licenças de emissão que não sejam atribuídas a título gratuito ficam sujeitas a venda em leilão.
 
-2 - As regras do funcionamento dos leilões de licenças de emissão referentes ao calendário, administração e outros aspetos são definidas através do Regulamento (UE) n.º 1031/2010 da Comissão, de 12 de novembro.
+2 - As regras do funcionamento dos leilões de licenças de emissão referentes ao calendário, administração e outros aspetos são definidas através do Regulamento (UE) n.º [1031/2010](https://data.europa.eu/eli/reg/2010/1031/oj?locale=pt) da Comissão, de 12 de novembro.
 
 3 - As receitas geradas pelos leilões das licenças de emissão constituem receita do Fundo Português de Carbono e devem ser utilizadas em ações que contribuam para um desenvolvimento assente numa economia competitiva e de baixo carbono e para o cumprimento dos compromissos nacionais, europeus e internacionais em matéria de alterações climáticas, na seguinte proporção:
 
@@ -369,7 +395,7 @@ v) 3 % na cobertura de despesas resultantes do funcionamento do comércio europe
 
 7 - A entidade responsável pela administração do Fundo Português de Carbono comunica à Comissão Europeia as medidas aprovadas, bem como a utilização dada às receitas referidas no n.º 3.
 
-> Aditado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Aditado pelo/a [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
 
 ###### Artigo 16.º-C — Utilização de licenças de emissão da reserva para novas instalações do período 2008-2012
 
@@ -379,13 +405,13 @@ a) 70 % dos proventos acrescem ao montante previsto na alínea a) do n.º 3 do a
 
 b) 30 % dos proventos são aplicados de acordo com a distribuição prevista nas subalíneas i) a iv) da alínea b) do n.º 3 do artigo 16.º-B.
 
-> Aditado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Aditado pelo/a [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
 
 ###### Artigo 17.º — Transferência, devolução e anulação de licenças de emissão
 
-1 - Qualquer pessoa pode ser titular de licenças de emissão.
+1 - Qualquer pessoa pode ser titular de licenças de emissão, de RCE ou de URE.
 
-2 - As licenças de emissão podem ser transferidas:
+2 - As licenças de emissão, as RCE e as URE podem ser transferidas:
 
 a) Entre pessoas no interior da Comunidade;
 
@@ -397,11 +423,11 @@ b) Entre pessoas no interior da Comunidade e pessoas de países terceiros consta
 
 5 - As licenças de emissão podem, a qualquer momento, ser anuladas a pedido do seu titular.
 
-6 - As formalidades relativas à transferência, reconhecimento, devolução e anulação de licenças são definidas por portaria conjunta dos Ministros das Actividades Económicas e do Trabalho e do Ambiente e do Ordenamento do Território.
+6 - As formalidades relativas à transferência, reconhecimento, devolução e anulação de licenças são as definidas pelo Regulamento (CE) n.º [2216/2004](https://data.europa.eu/eli/reg/2004/2216/oj?locale=pt), de 21 de Dezembro.
 
 7 - Para o cumprimento da obrigação de devolução de licenças de emissão referida no n.º 4, não podem ser utilizadas licenças de emissão concedidas aos operadores de aeronaves ao abrigo do Decreto-Lei n.º 93/2010, de 27 de Julho
 
-> Alterado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Alterado pelo/a [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859), publicado em 2010-07-27.
 
 ###### Artigo 18.º — Validade das licenças de emissão
 
@@ -411,7 +437,9 @@ b) Entre pessoas no interior da Comunidade e pessoas de países terceiros consta
 
 3 - Quatro meses após o início de cada período subsequente de cinco anos previsto no n.º 2 do artigo 16.º, as licenças de emissão caducadas que não tenham sido devolvidas e anuladas, em conformidade com o disposto no n.º 4 do artigo 17.º, são anuladas pelo Instituto do Ambiente.
 
-4 - O Instituto do Ambiente deve conceder licenças de emissão para o período em curso, em substituição das licenças anuladas nos termos dos n.os 2 e 3.
+4 - O Instituto do Ambiente deve conceder licenças de emissão para o período em curso, a fim de substituir as licenças anuladas nos termos do n.º 3.
+
+> Alterado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451), publicado em 2004-12-31.
 
 ###### Artigo 18.º-A — Suspensão da concessão das licenças de emissão
 
@@ -445,7 +473,7 @@ c) Por comunicação da entidade coordenadora do licenciamento ou da Inspecção
 
 9 - O montante de licenças não concedidas, por força da suspensão da concessão das licenças de emissão nos termos do n.º 1, ou das situações de incumprimento previstas no n.º 4 do artigo 25.º, reverte para a reserva de novas instalações.
 
-> Aditado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Aditado pelo/a [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216), publicado em 2009-07-06.
 
 ###### Artigo 18.º-B — Cancelamento da concessão das licenças de emissão
 
@@ -465,11 +493,11 @@ c) Por comunicação da entidade coordenadora do licenciamento ou da IGAOT.
 
 5 - Para efeitos do n.º 1, entende-se por cessação do exercício da actividade, o encerramento em definitivo da actividade de uma instalação.
 
-> Aditado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Aditado pelo/a [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216), publicado em 2009-07-06.
 
 ###### Artigo 19.º — Registo
 
-1 - A criação e manutenção de um registo de dados normalizado protegido, que garanta uma contabilidade precisa sobre a concessão, detenção e transferência e anulação de licenças de emissão, rege-se pelo Regulamento (CE) n.º 2216/2004, da Comissão, de 21 de Dezembro.
+1 - A criação e manutenção de um registo de dados normalizado protegido, que garanta uma contabilidade precisa sobre a concessão, detenção e transferência e anulação de licenças de emissão, rege-se pelo Regulamento (CE) n.º [2216/2004](https://data.europa.eu/eli/reg/2004/2216/oj?locale=pt), da Comissão, de 21 de Dezembro.
 
 2 - O registo de dados nacional designa-se por Registo Português de Licenças de Emissão (RPLE) e está disponível no respectivo sítio da Internet ou através do sítio da Internet da APA.
 
@@ -483,15 +511,15 @@ c) Por comunicação da entidade coordenadora do licenciamento ou da IGAOT.
 
 7 - O valor da taxa referida no número anterior considera-se automaticamente actualizado todos os anos por aplicação do índice de preços ao consumidor publicado pelo Instituto Nacional de Estatística, arredondando-se o resultado para a casa decimal superior, devendo a APA proceder à divulgação, com carácter de permanência, no sítio da Internet do RPLE, dos valores em vigor em cada ano.
 
-> Alterado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Alterado pelo/a [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216), publicado em 2009-07-06.
 
 ###### Artigo 20.º — Agrupamento
 
-1 - Por despacho conjunto dos Ministros das Actividades Económicas e do Trabalho e do Ambiente e do Ordenamento do Território, sob proposta do Instituto do Ambiente, tendo em conta parecer obrigatório da DGGE, pode ser permitido que os operadores de instalações que realizam uma das actividades constantes do anexo I constituam um agrupamento de instalações que desenvolvem a mesma actividade durante o período de três anos com início em 1 de Janeiro de 2005 e ou durante o período de cinco anos, com início em 1 de Janeiro de 2008.
+1 - Por despacho conjunto dos membros do Governo responsáveis pelas áreas do ambiente e da economia, sob proposta do Instituto do Ambiente, tendo em conta parecer obrigatório da DGGE, pode ser permitido que os operadores de instalações que realizam uma das actividades constantes do anexo I constituam um agrupamento de instalações que desenvolvem a mesma actividade durante o período de três anos, com início em 1 de Janeiro de 2005, e ou durante o período de cinco anos, com início em 1 de Janeiro de 2008.
 
-2 - Com vista à constituição de um agrupamento de instalações nos termos do estabelecido no n.º 1, para o período de três anos com início em 1 de Janeiro de 2005, os operadores devem apresentar o pedido ao Instituto do Ambiente no prazo de 30 dias úteis a contar da data da publicação do presente diploma, dando indicações pormenorizadas sobre as instalações, e demonstrar que o administrador tem condições para cumprir as obrigações referidas no artigo 22.º
+2 - Com vista à constituição de um agrupamento de instalações nos termos do estabelecido no n.º 1 e para o período de três anos, com início em 1 de Janeiro de 2005, os operadores devem apresentar o pedido ao Instituto do Ambiente no prazo de 30 dias úteis a contar da data da publicação do presente diploma, dando indicações pormenorizadas sobre as instalações e demonstrar que o administrador tem condições para cumprir as obrigações referidas no artigo 21.º
 
-3 - Para o período de cinco anos com início em 1 de Janeiro de 2008, os operadores devem apresentar o pedido à autoridade competente até ao dia 1 de Julho de 2006, dando indicações pormenorizadas sobre as instalações e o período durante o qual se pretendem agrupar, e demonstrar que o administrador tem condições para cumprir as obrigações referidas no artigo 22.º
+3 - Para o período de cinco anos, com início em 1 de Janeiro de 2008, os operadores devem apresentar o pedido à autoridade competente até ao dia 1 de Julho de 2006, dando indicações pormenorizadas sobre as instalações e o período durante o qual se pretendem agrupar e demonstrar que o administrador tem condições para cumprir as obrigações referidas no artigo 21.º
 
 4 - O Instituto do Ambiente deve remeter à DGGE, no prazo de três dias úteis, cópia do pedido de constituição de agrupamento de instalações.
 
@@ -499,7 +527,9 @@ c) Por comunicação da entidade coordenadora do licenciamento ou da IGAOT.
 
 6 - A aprovação da constituição de um ou mais agrupamentos de instalações, nos termos do n.º 1, depende de aceitação da Comissão Europeia.
 
-7 - O pedido de constituição de agrupamento de instalações deve constar de impresso de modelo aprovado por portaria conjunta dos Ministros das Actividades Económicas e do Trabalho e do Ambiente e do Ordenamento do Território.
+7 - O pedido de constituição de agrupamento de instalações deve constar de impresso de modelo aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas do ambiente e da economia.
+
+> Alterado pelo/a [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384), publicado em 2006-03-24.
 
 ###### Artigo 21.º — Administrador do agrupamento
 
@@ -509,7 +539,7 @@ c) Por comunicação da entidade coordenadora do licenciamento ou da IGAOT.
 
 a) Receber a quantidade total de licenças de emissão calculadas por instalação dos operadores, em derrogação do disposto no artigo 16.º;
 
-b) Devolver licenças de emissão correspondentes ao total das emissões das instalações do agrupamento, em derrogação do disposto na alínea e) do n.º 2 do artigo 10.º e no n.º 4 do artigo 17.º;
+b) Devolver licenças de emissão correspondentes ao total das emissões das instalações do agrupamento, em derrogação ao disposto na alínea e) do n.º 3 do artigo 10.º e no n.º 4 do artigo 17.º;
 
 c) Não efectuar transferências de licenças de emissão no caso de o relatório apresentado pelo operador não ter sido considerado satisfatório, em conformidade com os n.os 3 e 4 do artigo 23.º
 
@@ -517,13 +547,19 @@ c) Não efectuar transferências de licenças de emissão no caso de o relatóri
 
 4 - Caso o administrador não cumpra as sanções previstas no número anterior, cada um dos operadores de instalação integrada no agrupamento é responsável, nos termos do n.º 4 do artigo 17.º e dos artigos 25.º a 27.º, pelas emissões da sua própria instalação.
 
+> Alterado pelo/a [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384), publicado em 2006-03-24.
+
 ### CAPÍTULO VI — Monitorização e comunicação de informações
 
 ###### Artigo 22.º — Orientações para a monitorização e a comunicação de informações relativas a emissões
 
-1 - As regras de monitorização e comunicação de informações relativas às emissões, resultantes das actividades constantes do anexo I, de gases com efeito de estufa especificados em relação às mesmas actividades são fixadas por portaria conjunta dos Ministros das Actividades Económicas e do Trabalho e do Ambiente e do Ordenamento do Território, com base nos princípios definidos no anexo IV.
+1 - Os operadores de instalações que desenvolvam qualquer actividade constante do anexo i e de que resultem emissões de gases com efeito de estufa monitorizam e comunicam as respectivas emissões de acordo com as orientações gerais e as orientações específicas para cada actividade fixadas em conformidade com a Decisão da Comissão n.º [2007/589/CE](https://data.europa.eu/eli/dec/2007/589/oj?locale=pt), de 18 de Julho, alterada pela Decisão da Comissão n.º [2009/73/CE](https://data.europa.eu/eli/dec/2009/73/oj?locale=pt), de 17 de Dezembro de 2008.
 
-2 - O operador deve enviar ao Instituto do Ambiente, até 28 de Fevereiro, relatório que contenha as informações relativas às emissões da instalação verificadas no ano civil anterior.
+2 - A metodologia de monitorização de emissões aplicável a cada instalação é fixada no respectivo título de emissão de gases com efeito de estufa, podendo ser alterada pela APA nos termos previstos na Decisão da Comissão n.º [2007/589/CE](https://data.europa.eu/eli/dec/2007/589/oj?locale=pt), de 18 de Julho, alterada pela Decisão da Comissão n.º [2007/73/CE](https://data.europa.eu/eli/dec/2007/73/oj?locale=pt), de 17 de Dezembro de 2008.
+
+3 - O operador deve enviar ao Instituto do Ambiente até 31 de Março relatório que contenha as informações relativas às emissões da instalação ocorridas no ano civil anterior, já submetido a um processo de verificação de acordo com o procedimento referido no n.º 1 do artigo 23.º
+
+> Alterado pelo/a [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397), publicado em 2010-04-08.
 
 ###### Artigo 22.º-A — Dever de informação das instalações abrangidas a partir de 1 de Janeiro de 2013
 
@@ -531,7 +567,7 @@ c) Não efectuar transferências de licenças de emissão no caso de o relatóri
 
 2 - Os operadores das instalações que desenvolvam as actividades constantes do anexo i do presente decreto-lei incluídas no regime comunitário no período de 2008-2012 devem apresentar à APA, até 31 de Dezembro de 2010, dados de emissões correspondentes aos anos de 2005 a 2007, preferencialmente em formato electrónico.
 
-3 - Os dados de emissões referidos nos n.os 1 e 2 devem ter em conta a Decisão da Comissão n.º 2007/589/CE, de 18 de Julho, alterada pela Decisão da Comissão n.º 2009/73/CE, de 17 de Dezembro de 2008, e ser submetidos a um processo de verificação de acordo com o procedimento estabelecido no n.º 2 do artigo 23.º
+3 - Os dados de emissões referidos nos n.os 1 e 2 devem ter em conta a Decisão da Comissão n.º [2007/589/CE](https://data.europa.eu/eli/dec/2007/589/oj?locale=pt), de 18 de Julho, alterada pela Decisão da Comissão n.º [2009/73/CE](https://data.europa.eu/eli/dec/2009/73/oj?locale=pt), de 17 de Dezembro de 2008, e ser submetidos a um processo de verificação de acordo com o procedimento estabelecido no n.º 2 do artigo 23.º
 
 4 - Para efeitos de submissão dos dados de actividade referidos no n.º 1 devem ser preenchidos os formulários A e B do pedido de título de emissão de gases com efeito de estufa, constantes da Portaria n.º 698/2008, de 29 de Julho.
 
@@ -539,27 +575,35 @@ c) Não efectuar transferências de licenças de emissão no caso de o relatóri
 
 6 - O disposto no presente artigo não é aplicável às instalações que utilizem exclusivamente biomassa, as quais incluem as unidades a biomassa que utilizam combustíveis fósseis apenas durante o arranque e a paragem da unidade.
 
-> Aditado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Aditado pelo/a [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397), publicado em 2010-04-08.
 
 ###### Artigo 23.º — Verificação
 
-1 - O relatório de emissões da instalação apresentado pelo operador, nos termos do n.º 2 do artigo anterior, deve ser verificado, em conformidade com os critérios estabelecidos no anexo V, por verificadores independentes, sendo o Instituto do Ambiente obrigatoriamente informado pelo operador dos resultados da verificação.
+1 - O relatório de emissões da instalação apresentado pelo operador, nos termos do n.º 3 do artigo 22.º, é verificado por verificadores independentes, em conformidade com os critérios estabelecidos no anexo v e nos termos do Regulamento (CE) n.º [2216/2004](https://data.europa.eu/eli/reg/2004/2216/oj?locale=pt), de 21 de Dezembro, que acedem ao Registo Português de Licenças de Emissão e introduzem directamente os dados nos termos do regulamento referido.
 
-2 - Os requisitos e as condições de exercício da actividade de verificador são definidos por portaria conjunta dos Ministros das Actividades Económicas e do Trabalho e do Ambiente e do Ordenamento do Território.
+2 - Os dados de emissões apresentados pelo operador, nos termos dos n.os 1 e 2 do artigo 22.º-A, são verificados por verificadores independentes, em conformidade com as regras definidas para o período de 2008-2012, no que respeita à verificação.
 
-3 - Até 31 de Março, o Instituto do Ambiente, tendo em conta parecer obrigatório da DGGE, notifica o operador cujo relatório de emissões da instalação não tenha sido considerado satisfatório pelo verificador, em conformidade com os critérios estabelecidos no anexo V, da decisão de proibição de transferência de licenças de emissão até que o mesmo seja considerado satisfatório.
+3 - Os requisitos e condições de exercício da actividade de verificador são definidos por portaria conjunta dos membros do Governo responsáveis pelas áreas do ambiente e da economia.
 
-4 - O Instituto do Ambiente, tendo em conta parecer obrigatório da DGGE, pode, ainda, no caso do relatório ter sido considerado satisfatório, requerer a sua análise, para avaliação, assistindo-lhe a faculdade de o considerar não satisfatório, com as consequências previstas no número anterior.
+4 - A partir de 31 de Março, o Instituto do Ambiente impede a possibilidade de ocorrência de transferência de licenças de emissão por parte do operador da instalação cujo relatório de emissões não tenha sido entregue ou não tenha sido considerado satisfatório pelo verificador, em conformidade com os critérios estabelecidos no anexo V, até que o mesmo seja considerado satisfatório, nos termos dos procedimentos previstos no capítulo IV do Regulamento (CE) n.º [2216/2004](https://data.europa.eu/eli/reg/2004/2216/oj?locale=pt), de 21 de Dezembro, e entregue no Instituto do Ambiente.
 
-5 - O recurso hierárquico interposto da decisão de proibição de transferência de licenças de emissão adoptada pelo Instituto do Ambiente não tem efeito suspensivo.
+5 - O Instituto do Ambiente pode ainda, no caso de o relatório ter sido considerado satisfatório, requerer a sua análise, para avaliação, assistindo-lhe a faculdade de o considerar não satisfatório, mediante parecer prévio da entidade coordenadora do licenciamento, com as consequências previstas no número anterior.
+
+6 - Se até 30 de Abril não ocorrer a entrega do relatório de uma instalação ou se o mesmo não tiver sido considerado satisfatório pelo verificador, o Instituto do Ambiente deve proceder à estimativa das emissões da respectiva instalação, de acordo com os princípios da metodologia de monitorização estabelecidos para essa instalação, notificando o operador respectivo.
+
+7 - O recurso hierárquico interposto da decisão de proibição de transferência de licenças de emissão adoptada pelo Instituto do Ambiente não tem efeito suspensivo.
+
+> Alterado pelo/a [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397), publicado em 2010-04-08.
 
 ### CAPÍTULO VII — Fiscalização, penalidades e contra-ordenações
 
 ###### Artigo 24.º — Fiscalização
 
-1 - Sem prejuízo das competências próprias das entidades coordenadoras do licenciamento, a fiscalização do cumprimento do presente diploma compete à Inspecção-Geral do Ambiente (IGA).
+1 - Sem prejuízo das competências próprias das entidades coordenadoras do licenciamento, a fiscalização do cumprimento do presente decreto-lei compete à Inspecção-Geral do Ambiente e do Ordenamento do Território (IGAOT).
 
-2 - As situações que indiciem a prática de infracção punível nos termos do presente diploma devem ser comunicadas à IGA, devendo ser-lhe igualmente remetida, para o efeito, toda a documentação de que se disponha.
+2 - As situações que indiciem a prática de infracção punível nos termos do presente diploma devem ser comunicadas à IGAOT, devendo ser-lhe igualmente remetida, para o efeito, toda a documentação de que se disponha.
+
+> Alterado pelo/a [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384), publicado em 2006-03-24.
 
 ###### Artigo 25.º — Penalizações por emissões excedentárias
 
@@ -575,7 +619,7 @@ c) Não efectuar transferências de licenças de emissão no caso de o relatóri
 
 6 - Findo o incumprimento previsto no número anterior, a suspensão cessa, sendo concedidas à instalação as licenças de emissão a que o operador tenha direito no ano civil em que seja posto termo ao incumprimento.
 
-> Alterado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Alterado pelo/a [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216), publicado em 2009-07-06.
 
 ###### Artigo 25.º-A — Entidade competente
 
@@ -587,25 +631,37 @@ c) Não efectuar transferências de licenças de emissão no caso de o relatóri
 
 4 - As quantias resultantes da aplicação das penalidades previstas no artigo anterior constituem receita própria do Instituto do Ambiente.
 
-> Aditado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Aditado pelo/a [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384), publicado em 2006-03-24.
 
 ###### Artigo 26.º — Contra-ordenações
 
-1 - Constituem contra-ordenação punível com coima de (euro) 1500 a (euro) 3740, no caso de pessoas singulares, e de (euro) 3500 a (euro) 44890, no caso de pessoas colectivas, as seguintes infracções:
+1 - Constitui contra-ordenação ambiental muito grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, a violação pelo operador da obrigação de possuir título de emissão de gases com efeito de estufa nos termos do n.º 1 do artigo 7.º
 
-a) A violação do disposto no artigo 7.º, no que respeita ao exercício das actividades constantes do anexo I de que resultem as emissões aí especificadas;
+2 - Constitui contra-ordenação ambiental grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, a prática dos seguintes actos:
 
-b) A violação da obrigação de comunicação sobre modificação da instalação, prevista no artigo 11.º;
+a) Omitir ou falsificar a informação solicitada no âmbito dos procedimentos referidos nos artigos 8.º, 11.º, 18.º-A, 18.º-B, 19.º e 20.º;
 
-c) A transferência de licenças de emissão em violação do disposto nos n.os 3 e 4 do artigo 23.º;
+b) Violação da obrigação de monitorização das emissões, nos termos do n.º 1 do artigo 22.º;
 
-d) A violação das obrigações de monitorização e comunicação de informações relativas a emissões previstas no n.º 2 do artigo 22.º;
+c) Violação da obrigação de envio do relatório contendo as informações relativas às emissões da instalação, de acordo com o n.º 3 do artigo 22.º;
 
-e) A violação do disposto nos n.os 7 e 8 do artigo 12.º, no que respeita a instalações e actividades que beneficiem de exclusão temporária do regime de comércio de licenças de emissões.
+d) Violação da obrigação de submissão a verificação do relatório contendo as informações relativas às emissões da instalação, prevista nos termos do n.º 1 do artigo 23.º;
 
-2 - Se o agente retirou da infracção um benefício económico calculável superior ao limite máximo da coima e não existirem outros meios de o eliminar, pode este elevar-se até ao montante do benefício, não devendo todavia a elevação exceder um terço do limite máximo legalmente estabelecido.
+e) Violação da obrigação de celebração de um acordo para a abertura e manutenção da conta do RPLE, nos termos do n.º 3 do artigo 19.º
 
-3 - A tentativa e a negligência são puníveis.
+f) Violação da obrigação de submissão dos dados de emissões verificadas e dos dados de actividade, nos termos dos n.os 1 a 3 do artigo 22.º-A.
+
+3 - Constitui contra-ordenação ambiental leve, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, a prática dos seguintes actos:
+
+a) O não cumprimento dos requisitos de monitorização constantes do título de emissão de gases com efeito de estufa, de acordo com a alínea c) do n.º 3 do artigo 10.º e do n.º 2 do artigo 22.º;
+
+b) O não cumprimento da comunicação relativa à modificação da instalação, nos termos do artigo 11.º;
+
+c) O não cumprimento do prazo para envio do relatório contendo as informações relativas às emissões da instalação, de acordo com o n.º 3 do artigo 22.º
+
+4 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, a condenação pela prática das infracções muito graves e graves previstas nos n.os 1 e 2 do presente artigo, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.
+
+> Alterado pelo/a [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397), publicado em 2010-04-08.
 
 ###### Artigo 27.º — Sanções acessórias e apreensão cautelar
 
@@ -613,37 +669,33 @@ e) A violação do disposto nos n.os 7 e 8 do artigo 12.º, no que respeita a in
 
 2 - A autoridade competente pode ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto.
 
-> Alterado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Alterado pelo/a [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216), publicado em 2009-07-06.
 
 ###### Artigo 28.º — Pressupostos da aplicação das sanções acessórias
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 243-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451) e [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384) e [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216) e [Decreto-Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397) e [Decreto-Lei n.º 93/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859) e [Decreto-Lei n.º 252/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285), publicado em 2012-11-26.
+> Revogado pelo/a [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216), publicado em 2009-07-06.
 
 ###### Artigo 29.º — Instrução e decisão dos processos
 
-1 - A instrução dos processos de contra-ordenação instaurados no âmbito do presente diploma, bem como a aplicação das correspondentes coimas e sanções acessórias, compete à IGA.
+Compete à IGAOT a instrução dos processos de contra-ordenação instaurados no âmbito do presente decreto-lei, bem como a aplicação das correspondentes coimas e sanções acessórias.
 
-2 - Sempre que em virtude do exercício das suas competências o Instituto do Ambiente tenha conhecimento da prática de infracção prevista no presente diploma, envia o correspondente auto de notícia à IGA.
+> Alterado pelo/a [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216), publicado em 2009-07-06.
 
 ###### Artigo 30.º — Destino das receitas cobradas
 
-O montante das importâncias cobradas em resultado da aplicação das coimas previstas no artigo 26.º é afectado da seguinte forma:
+O produto das coimas previstas no presente decreto-lei é afectado de acordo com o disposto no artigo 73.º da Lei n.º 50/2006, de 29 de Agosto.
 
-a) 10% para o Instituto do Ambiente;
-
-b) 10% para a DGGE;
-
-c) 20% para a entidade que aplica a coima;
-
-d) 60% para o Estado.
+> Alterado pelo/a [Decreto-Lei n.º 154/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216), publicado em 2009-07-06.
 
 ### CAPÍTULO VIII — Disposições finais
 
 ###### Artigo 31.º — Acesso à informação
 
-O Instituto do Ambiente deve colocar à disposição do público as decisões relativas à atribuição de licenças de emissão e as informações sobre emissões exigidas pelo título de emissão de gases com efeito de estufa que estejam na sua posse.
+Nos termos da lei, o Instituto do Ambiente deve colocar à disposição do público as decisões relativas à atribuição de licenças de emissão, as informações sobre as actividades de projecto em que Portugal participa ou autoriza entidades privadas ou públicas a participar e os relatórios de emissões exigíveis nos termos do n.º 3 do artigo 22.º do presente diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384), publicado em 2006-03-24.
 
 ###### Artigo 32.º — Comunicação de informações à Comissão Europeia
 
@@ -651,17 +703,21 @@ O Instituto do Ambiente deve colocar à disposição do público as decisões re
 
 a) Atribuição de licenças de emissão;
 
-b) Funcionamento do registo de dados;
+b) Utilização de URE e RCE;
 
-c) Aplicação das orientações de monitorização e comunicação de informações;
+c) Funcionamento do registo de dados;
 
-d) Verificação;
+d) Aplicação das orientações de monitorização e comunicação de informações;
 
-e) Questões relacionadas com o cumprimento da directiva; e
+e) Verificação;
 
-f) Regime fiscal das licenças de emissão, quando adequado.
+f) Questões relacionadas com o cumprimento da directiva; e
+
+g) Regime fiscal das licenças de emissão, quando adequado.
 
 2 - O primeiro relatório deve ser enviado até 30 de Junho de 2005, segundo modelo aprovado pela Comissão Europeia.
+
+> Alterado pelo/a [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384), publicado em 2006-03-24.
 
 ###### Artigo 33.º — Força maior
 
@@ -669,21 +725,27 @@ f) Regime fiscal das licenças de emissão, quando adequado.
 
 2 - O Instituto do Ambiente deve remeter, no prazo de 3 dias úteis, uma cópia do pedido para a DGGE para emissão de parecer, no prazo de 20 dias úteis.
 
-3 - Os pedidos, após recomendação do Instituto do Ambiente, que tem em conta o parecer da DGGE, são enviados à Comissão através de despacho conjunto dos Ministros das Actividades Económicas e do Trabalho e do Ambiente e do Ordenamento do Território.
+3 - Os pedidos, após recomendação do Instituto do Ambiente, que tem em conta o parecer da DGGE, são enviados à Comissão através de despacho conjunto dos membros do Governo responsáveis pelas áreas do ambiente e da economia.
 
 4 - Caso a Comissão considere provada a existência de um caso de força maior, o Instituto do Ambiente emite, a favor dos operadores dessas instalações, licenças de emissão adicionais e não transferíveis.
 
+> Alterado pelo/a [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384), publicado em 2006-03-24.
+
 ###### Artigo 34.º — Taxas
 
-1 - Pela avaliação do pedido de título de emissão de gases com efeito de estufa e da sua actualização, são devidas taxas a fixar por portaria conjunta dos Ministros das Actividades Económicas e do Trabalho e do Ambiente e do Ordenamento do Território.
+1 - Pela avaliação do pedido de título de emissão de gases com efeito de estufa e da sua actualização são devidas taxas a fixar por portaria conjunta dos membros do Governo responsáveis pelas áreas do ambiente e da economia.
 
 2 - As receitas provenientes das taxas previstas no número anterior revertem para as seguintes entidades:
 
-a) 5% para a autoridade coordenadora do licenciamento;
+a) 30% para a entidade coordenadora do licenciamento;
 
-b) 25% para a DGGE;
+b) 70% para o Instituto do Ambiente.
 
-c) 70% para o Instituto do Ambiente.
+3 - São ainda devidas taxas pelos serviços de qualificação dos verificadores prestados pelo Instituto do Ambiente, bem como pela emissão e renovação do respectivo certificado, cujos montantes são fixados na portaria conjunta mencionada no n.º 2 do artigo 23.º
+
+4 - As receitas das taxas previstas no número anterior são afectas ao Instituto do Ambiente.
+
+> Alterado pelo/a [Decreto-Lei n.º 72/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384), publicado em 2006-03-24.
 
 ###### Artigo 35.º — Regiões Autónomas
 
