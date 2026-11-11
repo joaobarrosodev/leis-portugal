@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:621159:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 9,
+      "texto": "1.º-A\n\nLocais onde o curso é ministrado\n\nO curso pode ser ministrado em Bragança e em Mirandela.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: aditamento do n.º 1.º-A (epígrafe e corpo) — inserido a seguir ao n.º 1.º (unidade 9).",
+    "Alterador 1, 2.º: aplicação da própria portaria alteradora — nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

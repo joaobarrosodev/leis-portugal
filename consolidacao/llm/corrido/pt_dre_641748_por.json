@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:641748:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é renovada pelo período de 12 anos, renovável automaticamente, por um único e igual período e com efeitos a partir do dia 16 de Julho de 2007, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos na freguesia de Almargem do Bispo, município de Sintra, com a área de 504 ha, o que exprime uma redução da área concessionada de 34 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: correção do n.º 1.º, acrescentando o período de 12 anos renovável; unidade 6 substituída com o resto da frase mantido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

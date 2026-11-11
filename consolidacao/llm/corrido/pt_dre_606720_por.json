@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:606720:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 495/2005), 1.º: o anexo passa a ter a redacção do anexo da portaria alteradora, cujos quadros só vêm em imagem; não se aplica para não inventar o conteúdo dos quadros. Os n.os 2.º e 3.º do alterador são disposições próprias.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do anexo (plano de estudos) só em imagem - não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º e 3.º: normas autónomas do alterador - ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

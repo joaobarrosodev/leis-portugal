@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:604844:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1296/2002), 1.º: o plano de estudos constante do anexo passa a ter a redacção do anexo da portaria alteradora, cujos quadros só vêm em imagem; não se aplica para não inventar o conteúdo dos quadros. Os n.os 2.º a 4.º do alterador são disposições próprias, não alteram o texto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do anexo (plano de estudos) só em imagem - não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º a 4.º: normas autónomas do alterador, sem alteração ao texto do original - ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

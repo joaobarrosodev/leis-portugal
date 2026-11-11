@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:561253:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, artigo único: revoga a concessão da zona de caça turística da Herdade da Matosa atribuída pelo original; é um ato sobre a concessão, não uma alteração textual nem revogação do texto da portaria; não aplicada.",
+  "instrucoes": [
+    "Alterador 1, artigo único: revogação da concessão (não textual); não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

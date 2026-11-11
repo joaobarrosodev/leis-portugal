@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:570675:por",
+  "substituicoes": [
+    {
+      "de": 28,
+      "ate": 34,
+      "texto": "4.º - 1 - Os preços de orientação de mercado para os cereais importados, com excepção do trigo, a partir de 1 de Julho de 1989, são os seguintes:\n\na) Para o milho, 42000$00/t;\n\nb) Para a cevada, 36500$00/t;\n\nc) Para o sorgo, 37525$00/t;\n\nd) Para a aveia, 30000$00/t.\n\n2 - Os preços de orientação de mercado para o trigo importado, a partir de 1 de Julho de 1989 e até ao dia 14 do mesmo mês, são os seguintes:\n\na) Para o trigo-mole, os preços estabelecidos na alínea a) do n.º 3.º, acrescidos de 2875$00/t;\n\nb) Para o trigo-rijo, os preços estabelecidos na alínea b) do n.º 3.º para o trigo-rijo da classe A, acrescidos de 2270$00/t.\n\n3 - Os preços de orientação de mercado para o trigo importado, a partir de 15 de Julho de 1989, são os seguintes:\n\na) Para o trigo-mole, os preços estabelecidos na alínea a) do n.º 3.º, acrescidos de 7200$00/t;\n\nb) Para o trigo-rijo, os preços estabelecidos na alínea b) do n.º 3.º para o trigo-rijo da classe A, acrescidos de 2270$00/t.",
+      "alterador": 1
+    },
+    {
+      "de": 44,
+      "ate": 44,
+      "texto": "3) Triticale - superior a 71 kg/hl até 75 Kg/hl;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 49,
+      "texto": "e) Quando a percentagem de outras impurezas, ou seja, as não constituídas por grãos, exceder os teores estabelecidos para a qualidade tipo, descontar-se-á ao preço de aquisição do cereal a percentagem equivalente ao excedente verificado.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redação do n.º 4.º (n.os 1 a 3): substituídas as unidades 28-34",
+    "N.º 8.º: só muda a subalínea 3) da alínea a) (unidade 44); o resto é '...' e fica",
+    "N.º 8.º: aditada a alínea e), inserida depois da unidade 49"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

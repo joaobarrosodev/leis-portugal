@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:564214:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 494/2005): o anexo passa a ter nova redação, mas o quadro só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º único: nova redação do anexo (quadro só em imagem) - não aplicado, nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

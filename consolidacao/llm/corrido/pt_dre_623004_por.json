@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:623004:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 613/97, 1.º: altera as taxas aprovadas pela Portaria n.º 772-A/96 pelas que constam do anexo; o tarifário novo só vem em imagem (ver documento original), não se pode aplicar textualmente com segurança.",
+  "instrucoes": [
+    "Portaria 613/97, 1.º: substitui as taxas do anexo pelas do novo anexo, que está só em imagem; não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

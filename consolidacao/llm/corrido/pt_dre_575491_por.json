@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:575491:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "a) Para o trigo-mole, os preços estabelecidos na alínea a) do n.º 3, acrescidos de 2875$00/t.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "3.º: nova redação da alínea a) do n.º 4.º (efeitos a partir de 10 de Dezembro de 1990): substituída a unidade 17",
+    "1.º e 2.º: preços limiares e revogação da Portaria n.º 504/90 - não se dirigem ao original, ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

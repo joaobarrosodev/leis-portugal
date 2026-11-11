@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:567699:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 16/2002), 1.º: o plano de estudos passa a ser o do anexo da portaria alteradora, mas os quadros só existem em imagem no documento original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos (anexo) — não aplicado, quadros só em imagem.",
+    "Alterador 1, 2.º a 5.º: opções, duração do ano lectivo, transição e aplicação — normas próprias da portaria alteradora, sem instrução de alterar o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

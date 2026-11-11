@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:655120:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 888/97 muda a designação do curso para Engenharia Electrotécnica Industrial (alteração de designação do curso, não uma alteração textual da portaria) e substitui o plano de estudos anexo, que só vem em imagem (ver documento original).",
+  "instrucoes": [
+    "N.º 1 do 1.º: o curso passa a designar-se Engenharia Electrotécnica Industrial; não é instrução de alteração do texto, não aplicada.",
+    "N.º 2 do 1.º: novo plano de estudos anexo; só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

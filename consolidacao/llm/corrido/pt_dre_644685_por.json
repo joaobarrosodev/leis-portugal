@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:644685:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1201/2003, 1.º) dá nova redação ao anexo, mas os quadros n.os 1 a 4 só vêm em imagem; o 2.º muda a denominação da opção e ramo «Artes de Imprensa», designação que não existe no texto atual (que diz «Artes da Impressão») e que fica absorvida pela nova redação do anexo; não se aplica com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo (quadros só em imagem) — não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º: «Artes de Imprensa» passa a «Artes Digitais e Multimédia» — alvo não existe literalmente no texto atual; não aplicado (nao_aplicavel).",
+    "Alterador 1, 3.º e 4.º: disposições próprias — ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

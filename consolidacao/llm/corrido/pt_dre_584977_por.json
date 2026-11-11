@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:584977:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Declaração de Rectificação n.º 57/93: o 'onde se lê' e o 'deve ler-se' só vêm em imagem (ver documento original); a retificação incide sobre o mapa, também em imagem.",
+  "instrucoes": [
+    "Alterador 1: retificação do mapa de alterações orçamentais, só em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

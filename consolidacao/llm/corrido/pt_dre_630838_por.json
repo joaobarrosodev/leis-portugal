@@ -1,0 +1,44 @@
+{
+  "id": "pt:dre:630838:por",
+  "substituicoes": [
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "## ANEXO — Universidade Moderna de Lisboa",
+      "alterador": 1
+    },
+    {
+      "de": 34,
+      "ate": 34,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 37,
+      "ate": 37,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 40,
+      "ate": 40,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 43,
+      "ate": 43,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)](https://files.diariodarepublica.pt/1s/2003/02/043b00/11741176.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo; cabeçalho passa a 'Universidade Moderna de Lisboa' (unidade 29) e as ligações dos quadros n.os 1 a 4 (unidades 34, 37, 40, 43) passam às do novo anexo; o resto do anexo é igual. O conteúdo dos quadros só existe em imagem, em ambos os diplomas.",
+    "Alterador 1, 2.º e 3.º: transição e aplicação próprias do alterador; sem mudança no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

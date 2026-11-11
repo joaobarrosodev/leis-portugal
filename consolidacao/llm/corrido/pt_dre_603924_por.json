@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:603924:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1001/2005), n.º 1.º: extingue a zona de caça municipal criada pelo original; não é uma alteração textual nem uma revogação expressa do texto, pelo que não há nada a aplicar ao texto. Os n.os 2.º e 3.º concessionam uma nova zona de caça associativa (normas próprias do alterador).",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: extinção da zona de caça municipal — efeito não textual, não aplicado (nao_aplicavel)",
+    "Alterador 1, n.os 2.º e 3.º: concessão de nova zona associativa, normas próprias — ignoradas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

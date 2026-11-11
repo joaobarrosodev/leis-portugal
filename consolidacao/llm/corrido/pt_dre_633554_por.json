@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:633554:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1015/92) substitui a tabela anexa, que só existe em imagem no original e no alterador; não é alteração textual aplicável.",
+  "instrucoes": [
+    "Alterador 1: substituição da tabela anexa (coeficientes), em imagem: não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

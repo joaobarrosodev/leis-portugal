@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:618879:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º n.º 1: o diploma do curso passa a designar-se 'curso de Professores do 2.º Ciclo do Ensino Básico, variante de Educação Visual e Tecnológica' — mudança de designação sem nova redação do texto do original; n.º 2: novo plano de estudos em anexo só em imagem e sem correspondência no original. Não aplicadas.",
+  "instrucoes": [
+    "Alterador 1, 1.º n.º 1: mudança de designação do diploma do curso, sem instrução textual — não aplicada.",
+    "Alterador 1, 1.º n.º 2: plano de estudos em anexo (imagem) — não aplicado.",
+    "Alterador 1, 2.º e 3.º: regime de transição e aplicação da própria portaria alteradora — não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

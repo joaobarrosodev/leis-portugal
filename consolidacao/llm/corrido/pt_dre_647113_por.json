@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:647113:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 644/2006), n.º 1.º: extingue a zona de caça municipal criada pelo original, sem revogar nem alterar o texto da portaria; não é alteração textual. Os n.os 2.º e 3.º dizem respeito a outra zona de caça (Portaria 1250/97).",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: extinção da zona de caça municipal da Torre do Bacoro; efeito não textual, nada aplicado (nao_aplicavel).",
+    "Alterador 1, n.os 2.º e 3.º: anexação à zona de caça associativa de Santo Estêvão (outro diploma); ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:654730:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 239/85 substitui as tabelas de retribuição do anexo (Tabelas A e B), que tanto no original como no alterador só existem em imagem (ver documento original); não há texto a aplicar.",
+  "instrucoes": [
+    "Substituição das tabelas A e B do anexo pelas do anexo da Portaria 239/85: não aplicada, tabelas só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

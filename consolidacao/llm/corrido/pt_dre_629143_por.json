@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:629143:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As quatro retificações do alterador 1 à despesa (01 cap. 50; 06 cap. 80; 10 cap. 03; 14 cap. 80) incidem sobre os mapas de créditos especiais, que só vêm em imagem (ver documento original); esse texto não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: quatro retificações a classificações nos mapas da despesa - não aplicadas (mapas em imagem)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

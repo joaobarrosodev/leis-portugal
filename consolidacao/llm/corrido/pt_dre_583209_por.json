@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:583209:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 17,
+      "texto": "4.º - (Revogado.)\n\n5.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 4.º: revoga os n.os 4.º e 5.º da Portaria n.º 1147/2005; unidades 16 e 17 passam a '4.º - (Revogado.)' e '5.º - (Revogado.)'.",
+    "Alterador 1, restantes números: dirigem-se à TLEBS/Portaria n.º 1488/2004 e a programas; não alteram o original; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

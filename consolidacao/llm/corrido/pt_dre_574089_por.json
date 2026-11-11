@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:574089:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 891/2004 (n.º 6.º) revoga na sua totalidade a Portaria n.º 709/90; o diploma está revogado por inteiro.",
+  "instrucoes": [
+    "6.º: extinção do curso e revogação total da Portaria n.º 709/90 - diploma revogado por inteiro, nada a devolver"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

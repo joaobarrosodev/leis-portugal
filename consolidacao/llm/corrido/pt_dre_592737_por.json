@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:592737:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1521/2002) dá nova redação aos anexos I e II, cujos quadros só existem em imagem no original e no alterador; não há texto a aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação dos anexos I e II (quadros em imagem); não aplicado.",
+    "Alterador 1, 2.º e 3.º: transição e aplicação; normas próprias, não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

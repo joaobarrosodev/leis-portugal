@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:622996:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "b) Nos restantes casos, o custo máximo elegível é de 4% do investimento objecto das ajudas, não podendo o seu valor global ultrapassar 3546 ECU.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DN 247/94, n.º 1: valor do n.º 5, alínea b), passa a 3546 ECU; substituído na unidade 13",
+    "Alterador 2 é o mesmo DN 247/94 repetido; nada mais a aplicar"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

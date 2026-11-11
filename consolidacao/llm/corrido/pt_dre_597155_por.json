@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:597155:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º É autorizada a importação de batata-semente de variedade Kennebec originária do Canadá, durante o período de 1 de Novembro de 1992 a 31 de Março de 1993.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º; substituída a unidade 7.",
+    "Alterador 1, 2.º: efeitos retroativos; norma própria, não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:660121:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 136/2006 extingue a zona de caça municipal de Martinlongo criada pelo original; é uma extinção do ato e não uma alteração ou revogação textual do texto da portaria, pelo que não há texto a mudar.",
+  "instrucoes": [
+    "Alterador 1: n.º 1.º extingue a zona de caça criada pelo original; não aplicada como mudança textual. Os n.os 2.º a 4.º concessionam uma nova zona de caça associativa e não se dirigem ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

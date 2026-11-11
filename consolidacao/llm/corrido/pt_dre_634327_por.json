@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:634327:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: as retificações (Cap. 05, div. 01 para div. 02; C. F. 8.01.1 para 8.02.1) incidem sobre os mapas das alterações orçamentais, que só existem no documento original em imagem/PDF (unidade 3); não há texto onde aplicá-las.",
+  "instrucoes": [
+    "Alterador 1: duas retificações nos mapas orçamentais; não aplicadas porque o mapa só vem em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

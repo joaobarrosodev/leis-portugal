@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:626818:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação incide sobre o quadro de pessoal anexo, que só existe em imagem (ver quadro no documento original); não há texto a alterar.",
+  "instrucoes": [
+    "Alterador 1 retifica o quadro de pessoal anexo (Técnico director - 1): quadro só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

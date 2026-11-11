@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:577345:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 86/2003), 1.º: o anexo passa a ter a redação do anexo da portaria, cujos quadros n.os 1 a 11 só vêm em imagem; não se aplica.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição integral do anexo por quadros só em imagem — não aplicado.",
+    "Alterador 1, 2.º e 3.º: transição e aplicação, sem alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

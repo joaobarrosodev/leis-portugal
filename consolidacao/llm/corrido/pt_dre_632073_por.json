@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:632073:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "9 - O cálculo do montante da ajuda a conceder em cada trimestre terá em conta as quantidades reais relativas ao mesmo trimestre e indicadas por cada empresa e os montantes unitários fixados no anexo I, podendo, em casos devidamente justificados e autorizados por despacho do Ministro da Agricultura, aquele montante ser corrigido em função de alterações de quantidade relativas a trimestres anteriores.",
+      "alterador": 2
+    },
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "13 - Os beneficiários da ajuda devem possuir contabilidade organizada nos termos da legislação em vigor e manter à disposição do INGA, durante os três anos seguintes a cada ano de concessão da ajuda, os seguintes elementos:",
+      "alterador": 2
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "Registo de movimentação física das existências que indentifique, nomeadamente:",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 5,
+      "texto": "1.1 - Sempre que as operações de transformação e comercialização referidas no n.º 1 ocorram em empresas distintas, ao abrigo de contratos celebrados entre si, a ajuda será concedida às empresas responsáveis pela transformação, nos termos contratuais, as quais podem fazer reflectir aquela ajuda nesses contratos.\n\n1.2 - O disposto no ponto anterior produz efeitos a partir de 1 de Abril de 1993.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1 ('1 - ...' mantém o corpo) com aditamento dos n.os 1.1 e 1.2: inseridos a seguir à unidade 5.",
+    "Alterador 2: nova redação do n.º 9: unidade 16 substituída.",
+    "Alterador 2: nova redação do n.º 13: só mudam o proémio ('concessão da ajuda', unidade 26) e a segunda linha ('Registo de movimentação física...', unidade 28); as restantes unidades 27, 29-32 ficam iguais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:604210:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 21-H/2001): ambas as rectificações incidem sobre quadros que no texto atual só existem em imagem (quadro «Proposta de orçamento para o ano 2002», cujo 'onde se lê'/'deve ler-se' também só vem em imagem, e coluna «Categoria» do quadro «Anexo ao projecto de orçamento para 2002»); o texto a rectificar não existe no texto atual, não aplicado.",
+  "instrucoes": [
+    "Alterador 1: rectificação do quadro «Proposta de orçamento para o ano 2002» — só em imagem, não aplicada",
+    "Alterador 1: rectificação de «Assessor administrativo...» para «Assistente administrativo...» na coluna «Categoria» do quadro anexo — quadro só em imagem, não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

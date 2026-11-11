@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:624038:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 32,
+      "texto": "8.º Até 1998, inclusive, os docentes que disponham de um mínimo de oito anos de exercício de funções como presidente do conselho directivo ou director executivo são dispensados das componentes referidas nas alíneas b) e c) do n.º 6.º",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 1279/95: adita o n.º 8.º; inserido a seguir ao n.º 7.º (unidade 32)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:655946:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação 30/93 corrige uma designação na p. 655, que está no mapa de transferências publicado só em imagem (unidade 3, ver documento original); o texto a corrigir não existe no texto atual.",
+  "instrucoes": [
+    "Retificação de «Cap. 04 - Planeamento e Informática - Direcção-Geral dos Serviços de Informática» no mapa da p. 655: não aplicada, mapa só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:631988:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 16,
+      "texto": "10.º O primeiro provimento poderá efectuar-se, independentemente de concurso, por pilotos que, não satisfazendo as condições prescritas no n.º 3.º, estejam já a exercer, em qualquer situação, as funções de piloto nos governos de distrito, devendo, no entanto, num prazo de dezoito meses, obter a qualificação de voo por instrumentos.\n\n11.º A falta de qualificação a que se refere o número anterior, no prazo ali fixado, implica a caducidade imediata do contrato vigente.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: aditados os n.os 10.º e 11.º; inseridos a seguir ao 9.º (unidade 16)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

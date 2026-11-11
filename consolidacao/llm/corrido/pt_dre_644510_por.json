@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:644510:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 15-M/97) retifica valores do quadro de pessoal (Administrador de 2.ª e 3.ª classe), que só vem em imagem no texto atual (unidade 30); não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1: retificação de dotações no quadro de pessoal (só em imagem) — não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

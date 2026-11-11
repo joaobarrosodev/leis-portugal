@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:644684:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 55/2005, 1.º) dá nova redação ao anexo (plano de estudos), mas os quadros n.os 1 a 4 só vêm em imagem no documento original; não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo (quadros só em imagem) — não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º e 3.º: disposições próprias de transição e aplicação — ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

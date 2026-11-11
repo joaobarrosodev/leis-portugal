@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:564052:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 19,
+      "texto": "a) Estudos Anglo-Portugueses/Estudos Anglo-Americanos;\n\nb) Análise das Fontes e Crítica Literária.",
+      "alterador": 1
+    },
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "b) Literatura de Expressão Inglesa;\n\nc) Culturas de Expressão Inglesa;\n\nd) Culturas de Expressão Portuguesa.",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 35,
+      "texto": "I - Áreas obrigatórias:\n\na) Estudos Anglo-Portugueses/Estudos Anglo-Americanos ... 8\n\nb) Análise das Fontes e Crítica Literária ... 4\n\nII - Áreas opcionais:\n\na) Literatura Portuguesa ... 4\n\nb) Literatura de Expressão Inglesa ... 4\n\nc) Culturas de Expressão Inglesa ... 4\n\nd) Culturas de Expressão Portuguesa ... 4",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 4.º (Áreas) - substituídas as unidades 18-19 e 22 (a epígrafe e as unidades 17, 20 e 21 ficam iguais).",
+    "Alterador 1, n.º 1.º: nova redação do n.º 6.º (Unidades de crédito) - o corpo, unidades 28-35, substituído pelo texto novo, que não traz a frase introdutória nem o total.",
+    "Alterador 1, n.º 2.º: aplicação a partir de 1989-1990, não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

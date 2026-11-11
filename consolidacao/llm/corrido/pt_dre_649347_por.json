@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:649347:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 179/91 rectifica o quadro de ágios e câmbios, mas o 'onde se lê' e o 'deve ler-se' só vêm em imagem (ver documento original); não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1: rectificação do quadro de ágio e câmbio, só em imagem; não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

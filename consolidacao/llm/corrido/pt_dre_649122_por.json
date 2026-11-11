@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:649122:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação 238/91): as três retificações (classificações orgânica/funcional, montante 1622/1662 e data do despacho d)) incidem sobre o mapa de transferências, que só existe em imagem no documento original (unidade 3); texto a retificar não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retificação de três inexatidões no mapa de transferências; mapa só em imagem, nada aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:622992:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 15,
+      "texto": "7 - As ajudas aos AP destinadas a contribuir para os custos da sua gestão, que não ultrapassarão 17730 ECU por agrupamento e 90% dos custos totais elegíveis, são concedidos até:\n\na) 9460 ECU em relação ao tipo de agrupamento;\n\nb) 8275 ECU em relação ao número de associados.",
+      "alterador": 1
+    },
+    {
+      "de": 24,
+      "ate": 24,
+      "texto": "Ajuda em ECU = 9460 A + 8275 B",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DN 247/94, n.º 4: n.º 7 passa a 17730 ECU, alínea a) a 9460 ECU e alínea b) a 8275 ECU; substituídos os valores nas unidades 13 a 15",
+    "DN 247/94, n.º 4: n.º 10, fórmula passa a 9460 A + 8275 B; substituídos os valores na unidade 24",
+    "Alterador 2 é o mesmo DN 247/94 repetido; nada mais a aplicar"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

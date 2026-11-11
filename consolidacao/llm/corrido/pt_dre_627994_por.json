@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:627994:por",
+  "substituicoes": [
+    {
+      "de": 2,
+      "ate": 2,
+      "texto": "Considerando que, em 7 de Janeiro de 1990, cessou a comissão de serviço do licenciado em Finanças Noé Cipriano Fernandes, à data director de serviços do Instituto Regulador e Orientador dos Mercados Agrícolas;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação de «do licenciado em Economia Noé Cipriano Rodrigues» para «do licenciado em Finanças Noé Cipriano Fernandes» - substituída a unidade 2."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

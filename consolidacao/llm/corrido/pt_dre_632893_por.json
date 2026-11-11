@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:632893:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º São anexados à zona de caça associativa concessionada pela [Portaria n.º 501/2002](https://diariodarepublica.pt/dr/detalhe/portaria/501-2002-288206), de 27 de Abril, vários prédios rústicos situados nas freguesias de Benafim e Boliqueime, município de Loulé, com a área de 14 ha, ficando a mesma com a área total de 1267 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: no n.º 1.º, 'Bensafrim' passa a 'Benafim': unidade 8 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

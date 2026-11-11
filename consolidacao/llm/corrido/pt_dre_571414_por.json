@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:571414:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Retificação no quadro do n.º 2.º (Vila do Bispo, segundo-ajudante, 2 para 3): o quadro só existe em imagem (unidade 6); não aplicada.",
+  "instrucoes": [
+    "Retificação do quadro de pessoal do n.º 2.º: quadro em imagem; não aplicável"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

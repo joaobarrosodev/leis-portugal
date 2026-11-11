@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:613059:por",
+  "substituicoes": [
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "2.º É aprovado o logótipo do Serviço de Estrangeiros e Fronteiras, a usar nos documentos electrónicos ou impressos, nos locais de atendimento ao público, bem como em placares, cartazes e outros suportes de comunicação, conforme modelo anexo.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 21,
+      "texto": "3.º O logótipo pode ser usado em cor azul ou só a preto e branco, ou ainda em relevo sem cores.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 2.º; substituída a unidade 21.",
+    "Alterador 1, n.º 2: aditado o n.º 3.º; inserido a seguir à unidade 21.",
+    "O novo modelo de logótipo do alterador só vem em imagem e não há instrução expressa de substituição do anexo; nada aplicado quanto ao anexo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:575942:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 12,
+      "texto": "6 - É atribuída uma dotação de capital no montante de 363 milhões de escudos, a realizar por conta da dotação de 18000 milhões de escudos inscrita no Orçamento, Geral do Estado para 1981, que se destina ao reembolso do crédito intercalar mobilizado para execução dos projectos inscritos no PISEE/80, de acordo com o [Despacho Normativo n.º 258/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/258-1980-470781), publicado no Diário da República, 1 série, de 16 de Agosto de 1980.\n\n7 - As despesas de investimento em bens dominais afectos à exploração da empresa referidas no n.º 2 serão financiadas, numa parcela correspondente a 91% do total, por uma dotação de capital no montante de 722 milhões de escudos, a realizar por conta da dotação de 18000 milhões de escudos inscrita no Orçamento Geral do Estado para 1981.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redação dos n.os 6 e 7 do Despacho Normativo n.º 223/81: substituídas as unidades 11 e 12",
+    "Nova redação do n.º 5 do Despacho Normativo n.º 224/81 e parágrafo seguinte - outro diploma, ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

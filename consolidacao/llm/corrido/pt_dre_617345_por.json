@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:617345:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 41/2002), artigo 20.º, n.º 1: revoga a Portaria n.º 1125/92 apenas no que se refere aos equipamentos sob pressão transportáveis; revogação parcial por âmbito material, sem alvo textual identificável.",
+  "instrucoes": [
+    "Alterador 1, art. 20.º: revogação parcial da portaria quanto aos equipamentos sob pressão transportáveis; não aplicada ao texto (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

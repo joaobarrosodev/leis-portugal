@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:582417:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O 1.º do alterador 1 dá nova redação ao anexo I (quadros n.os 1 a 4), mas os quadros só existem em imagem (no original e no alterador).",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo I — quadros só em imagem, não aplicado.",
+    "Alterador 1, 2.º e 3.º: transição e aplicação — não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:608898:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 809/82), 1.º: extingue o lugar de técnico auxiliar do mapa anexo e cria 1 lugar de agente técnico agrícola principal, de 1.ª classe ou de 2.ª classe; o mapa só existe em imagem (unidade 12), não se pode aplicar textualmente. O 2.º é norma de produção de efeitos do alterador.",
+  "instrucoes": [
+    "Alterador 1, 1.º: alteração do mapa anexo (só em imagem) - não aplicada.",
+    "Alterador 1, 2.º: produção de efeitos do próprio alterador - ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

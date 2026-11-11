@@ -1,0 +1,50 @@
+{
+  "id": "pt:dre:632029:por",
+  "substituicoes": [
+    {
+      "de": 26,
+      "ate": 28,
+      "texto": "Curso de Gestão e Sistemas de Informação\n\nGrau de bacharel - 1.º ciclo",
+      "alterador": 1
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 34,
+      "ate": 34,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 37,
+      "ate": 39,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)\n\nGrau de licenciado - 2.º ciclo",
+      "alterador": 1
+    },
+    {
+      "de": 42,
+      "ate": 42,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 44,
+      "ate": 45,
+      "texto": "2.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)](https://files.diariodarepublica.pt/1s/2005/03/063b00/27592761.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 2.º: o anexo passa a ter a redação do anexo da Portaria n.º 338/2005; substituídos o nome do curso, os títulos de grau/ciclo, o título do quadro n.º 5 e as ligações dos quadros (que continuam a vir só em imagem, agora para o PDF de 2005); unidade 25 e títulos dos quadros iguais mantidos.",
+    "Alterador 1, 1.º: mudança de denominação do curso autorizado pela Portaria n.º 457-A/98; não é instrução textual ao articulado do original (só refletida no anexo substituído)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

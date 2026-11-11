@@ -1,0 +1,39 @@
+{"id": "pt:dre:647090:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 2.º substituído pela redacção do 1.º da Portaria 673/2004 (4209 ha).", "texto_esperado": ""}
+{"id": "pt:dre:647090:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações (a substituição da planta anexa é um ficheiro, não texto)"}
+{"id": "pt:dre:647493:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 6.º da Portaria 1294/2002 substituído pelos n.ºs 1 e 2 do ponto 5 do 1.º da Portaria 1178/2003; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:647493:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:650303:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Agocinda -> Agoncida.", "texto_esperado": ""}
+{"id": "pt:dre:650303:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "641546 rectificado como indicado.", "texto_esperado": ""}
+{"id": "pt:dre:650303:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Igreja n.º 2 -> Igreja.", "texto_esperado": ""}
+{"id": "pt:dre:650303:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Santa Maria do Zêzere -> Santa Marinha do Zêzere.", "texto_esperado": ""}
+{"id": "pt:dre:650303:por", "artigo": "Trecho 5", "veredicto": "certo", "motivo": "641753 rectificado exactamente como na declaração (sem concelho).", "texto_esperado": ""}
+{"id": "pt:dre:650303:por", "artigo": "Trecho 6", "veredicto": "certo", "motivo": "642009 rectificado como indicado.", "texto_esperado": ""}
+{"id": "pt:dre:650303:por", "artigo": "Trecho 7", "veredicto": "certo", "motivo": "Rua do Falcão n.º 2.", "texto_esperado": ""}
+{"id": "pt:dre:650303:por", "artigo": "Trecho 8", "veredicto": "certo", "motivo": "522594 -> 642320.", "texto_esperado": ""}
+{"id": "pt:dre:650303:por", "artigo": "Trecho 9", "veredicto": "certo", "motivo": "Vila Seca -> Adoufe.", "texto_esperado": ""}
+{"id": "pt:dre:650303:por", "artigo": "Trecho 10", "veredicto": "certo", "motivo": "Nespeira -> Nespereira.", "texto_esperado": ""}
+{"id": "pt:dre:650303:por", "artigo": "Trecho 11", "veredicto": "certo", "motivo": "Benavente (Areias).", "texto_esperado": ""}
+{"id": "pt:dre:650303:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:650362:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Proémio do 1.º substituído; alíneas a) e b) '...' mantidas.", "texto_esperado": ""}
+{"id": "pt:dre:650362:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Alínea c) com subalíneas i) e ii) conforme a Portaria 388/2008.", "texto_esperado": ""}
+{"id": "pt:dre:650362:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "N.º 2.º-A aditado conforme o art. 2.º.", "texto_esperado": ""}
+{"id": "pt:dre:650362:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "N.º 4.º substituído conforme o art. 1.º.", "texto_esperado": ""}
+{"id": "pt:dre:650362:por", "instrucoes_em_falta": ["Substituição do anexo III (zonas de apanha, com 'Zona 1 ...' e 'Zona 10 ...' e [...] para as restantes): não reflectida (o anexo III do consolidado não difere do original); instrução com elisões, possível dúvida"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "Anexo III não alterado no consolidado apesar de instrução de substituição; o art. 3.º da Portaria 388/2008 (alargamento à Capitania de Sines) não altera o texto do original"}
+{"id": "pt:dre:654549:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Alínea c) do n.º 2 do anexo I passa a 8.", "texto_esperado": ""}
+{"id": "pt:dre:654549:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Alínea h) Linguística Alemã ... 4 aditada; Total ... 16 mantido como na portaria alteradora.", "texto_esperado": ""}
+{"id": "pt:dre:654549:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:656077:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 2.º (Regulamento) substituído pela redacção da Portaria 269/2006; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:656077:por", "instrucoes_em_falta": ["Portaria 1285/2001, 1.º: o anexo da Portaria 1191/2000 passa a ser o do anexo daquela (quadros em PDF): não reflectido no consolidado (anexo igual ao original)"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "Anexo (quadros) não substituído, apenas ligações a PDF distintas; possível dúvida por ser imagem"}
+{"id": "pt:dre:656083:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 2.º (Regulamento) substituído pela redacção da Portaria 269/2006; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:656083:por", "instrucoes_em_falta": ["Portaria 683/2004, 1.º: alteração da denominação do curso para 'Espaço Lusófono: Lusofonia e Relações Internacionais' (o 1.º do original e o anexo ainda dizem 'Cultura, Economia e Política')", "Portaria 683/2004, 2.º: anexo substituído (quadro em PDF), não reflectido"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "Denominação do curso e anexo do original não alterados no consolidado; instruções de denominação/anexo de natureza não literal (dúvida possível)"}
+{"id": "pt:dre:656592:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 2.º substituído: 2450$00 e 3680$00.", "texto_esperado": ""}
+{"id": "pt:dre:656592:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:657469:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Alínea b) do n.º 1 rectificada conforme a declaração (o original diz 'Quando valor', a declaração cita 'Quando o valor'; o consolidado usa a nova redacção integral).", "texto_esperado": ""}
+{"id": "pt:dre:657469:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:658449:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "'aprovado pela Portaria 745/89, de 30 de Agosto' -> 'constante da Portaria 1227/90, de 21 de Dezembro'.", "texto_esperado": ""}
+{"id": "pt:dre:658449:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:658450:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Preâmbulo: Maria Georgete.", "texto_esperado": ""}
+{"id": "pt:dre:658450:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "N.º 1: constante da Portaria 1227/90, de 21 de Dezembro.", "texto_esperado": ""}
+{"id": "pt:dre:658450:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:659936:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Abrantes -> Vimioso no segundo parágrafo.", "texto_esperado": ""}
+{"id": "pt:dre:659936:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}

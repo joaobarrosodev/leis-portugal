@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:585060:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 1314/93, 1.º: altera as taxas da tarifa n.º 5 pelas do anexo, que só vem em imagem (ver documento original); não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui as taxas do anexo (tarifa n.º 5); anexo só em imagem, não aplicado.",
+    "Alterador 1, 2.º: produção de efeitos, não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

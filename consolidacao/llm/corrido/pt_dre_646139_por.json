@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:646139:por",
+  "substituicoes": [
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "1 - O 1.º ciclo do curso pode começar a funcionar a partir do ano lectivo de 2002-2003, inclusive, um ano curricular em cada ano lectivo.\n\n2 - O 2.º ciclo do curso pode começar a funcionar a partir do ano lectivo de 2003-2004, inclusive.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º, n.º 6: nova redação do n.º 6.º da Portaria 1297/2002; substituído o corpo (unidade 28) pelos dois números novos. Os n.os 1 a 5 do alterador visam outras portarias: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

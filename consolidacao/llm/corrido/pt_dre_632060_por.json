@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:632060:por",
+  "substituicoes": [
+    {
+      "de": 70,
+      "ate": 71,
+      "texto": "Engenharia Agro-Pecuária ... 5\n\nEngenharia Alimentar ... 4",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do anexo na parte da Escola Superior Agrária de Coimbra; mudam Engenharia Agro-Pecuária (2 para 5) e Engenharia Alimentar (2 para 4); Ambiente e Recursos Florestais ficam iguais; a linha «... Vagas» é cabeçalho e não foi inserida."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

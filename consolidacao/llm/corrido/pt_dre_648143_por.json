@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:648143:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 903/2002) suspende o exercício da caça na zona e alterador 2 (Portaria 472/2003) revoga a concessão atribuída pelo original; são atos administrativos sem alteração nem revogação do texto da portaria.",
+  "instrucoes": [
+    "Alterador 1: suspensão do exercício da caça por 90 dias; efeito não textual, nada aplicado.",
+    "Alterador 2: revogação da concessão (não do texto do diploma); efeito não textual, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

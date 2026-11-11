@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:624653:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "3 - Os pedidos de concessão do prémio serão entregues na direcção regional de agricultura da área da exploração, após o que a mesma procederá, através de visitas ao local, à verificação das informações neles contidas e remetê-los-á, devidamente fundamentados, ao INGA no prazo de 20 dias.\n\nContudo, em casos excepcionais que impossibilitem o cumprimento do prazo acima referido, a direcção regional de agricultura poderá remeter ao INGA os processos devidamente fundamentados o mais tardar até 15 de Março de 1996.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 3 (n.os 1 e 2 com '...', ficam); substituída a unidade 6 pelo n.º 3 com o novo parágrafo 'Contudo, em casos excepcionais...'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

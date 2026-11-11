@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:629578:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 dá nova redação ao quadro n.º 1 do anexo, mas o quadro novo (tal como o atual, unidade 25) só vem em imagem; não é alteração textual aplicável com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do quadro n.º 1 do anexo - não aplicada (quadro só em imagem).",
+    "Alterador 1, 2.º: produção de efeitos - norma própria do alterador, sem alteração ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

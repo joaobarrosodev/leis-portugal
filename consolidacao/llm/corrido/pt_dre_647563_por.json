@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:647563:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: nova redação do anexo (plano de estudos); os títulos são iguais aos atuais e os quadros n.os 1 a 3 só vêm em imagem no documento original, pelo que não há alteração textual segura a aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui o anexo; cabeçalhos idênticos e quadros só em imagem; nada aplicado (nao_aplicavel).",
+    "Alterador 1, n.os 2.º e 3.º: normas próprias (transição, aplicação), não alteram o texto do original; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:657469:por",
+  "substituicoes": [
+    {
+      "de": 24,
+      "ate": 24,
+      "texto": "b) Com excepção das parcelas armadas em socalcos ou terraços, quando o valor do IQFP for de 5:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: na alínea b) do n.º 1 (do texto «deve ler-se», unidade 24, cujo texto atual é «Quando valor do IQFP for de 5:», sem o artigo «o»), substituí a frase por «Com excepção das parcelas armadas em socalcos ou terraços, quando o valor do IQFP for de 5:»."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

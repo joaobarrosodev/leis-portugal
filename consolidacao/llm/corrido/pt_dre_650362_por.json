@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:650362:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "1.º É autorizada a apanha de perceve no Parque Natural do Sudoeste Alentejano e Costa Vicentina (PNSAC), nas seguintes condições:",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "c) Os limites de transporte e apanha diária por cada apanhador são fixados com base no peso 'em bruto', nos seguintes termos:\n\ni) 10 kg, no período compreendido entre 16 de Dezembro e final de Fevereiro;\n\nii) 15 kg, no período compreendido entre 1 de Março e 14 de Setembro.",
+      "alterador": 1
+    },
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "4.º Tendo em conta a avaliação feita pela Comissão de Acompanhamento e o estado dos recursos, por despacho conjunto dos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas podem ser estabelecidos outros limites diários de captura, períodos e zonas de defeso, bem como regimes de rotatividade das zonas de apanha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 16,
+      "texto": "2.º-A - Os espécimes de perceves com tamanho inferior a 20 mm não podem ser transportados, armazenados, expostos, colocados à venda ou vendidos separadamente, devendo a todo o momento estar garantida no peso de cada lote a percentagem de 75 % referida no número anterior.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, artigo 1.º, anexo III: a nova redacção traz um mapa em imagem e as zonas 2 a 9 como [...], que remetem para texto que no original só existe em imagem (unidade 32); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º, n.º 1.º: nova redacção do proémio (unidade 12); alíneas a) e b) com '...' mantidas; alínea c) substituída por c) com i) e ii) (unidade 15).",
+    "Alterador 1, art. 1.º, n.º 4.º: nova redacção (unidade 18).",
+    "Alterador 1, art. 1.º, anexo III: nova redacção só em parte textual, zonas 2-9 em [...] sobre imagem; não aplicado (nao_aplicavel).",
+    "Alterador 1, art. 2.º: aditado o n.º 2.º-A, inserido depois da unidade 16.",
+    "Alterador 1, art. 3.º: extensão das limitações à Capitania de Sines; norma própria do alterador, não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

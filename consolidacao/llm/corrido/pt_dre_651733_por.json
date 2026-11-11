@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:651733:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 11-D/2003 rectifica o quadro de pessoal do n.º 4.º (Primeiro-ajudante - 1 -> 2), mas esse quadro só vem em imagem (unidade 11); não aplicado.",
+  "instrucoes": [
+    "Alterador 1: rectificação no quadro de pessoal do n.º 4.º, só em imagem; não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

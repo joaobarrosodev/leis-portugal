@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:642541:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 41/98, 1.º: altera o anexo só na parte do 1.º ano; o anexo e a nova redação só existem em imagem, não é possível substituir apenas essa parte com segurança.",
+  "instrucoes": [
+    "1.º: nova redação do anexo na parte do 1.º ano - não aplicada (só em imagem).",
+    "2.º (entrada em vigor) não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

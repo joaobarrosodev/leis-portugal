@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:616212:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 retifica entradas do plano de estudos do anexo I (5.º ano), que só existe em imagem no documento original; não há texto atual onde aplicar.",
+  "instrucoes": [
+    "Alterador 1 retifica três entradas do 5.º ano do anexo I (asterisco e designação de disciplina); anexo só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

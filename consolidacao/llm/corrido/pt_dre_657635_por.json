@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:657635:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação de «Técnico especialista de 1.ª classe» para «Técnico especialista principal» na coluna «Categoria de transição» do mapa anexo incide sobre um mapa que só vem em imagem (ver documento original).",
+  "instrucoes": [
+    "Alterador 1: retifica a categoria de transição no mapa anexo; não aplicada porque o mapa só vem em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

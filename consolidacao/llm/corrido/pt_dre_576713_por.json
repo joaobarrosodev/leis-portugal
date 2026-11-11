@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:576713:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1378/2009 (1.º) dá nova redação ao anexo (plano de estudos), mas os quadros n.os 1 a 3 do novo anexo só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "1.º: substituição do anexo pelo anexo da Portaria n.º 1378/2009 - quadros só em imagem, não aplicado",
+    "2.º e 3.º: regras de transição e aplicação - não alteram o texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

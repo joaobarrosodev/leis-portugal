@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:641753:por",
+  "substituicoes": [
+    {
+      "de": 22,
+      "ate": 23,
+      "texto": "Grau de licenciado\n\nEngenharia Biomédica",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 47,
+      "texto": "Grau de licenciado\n\nEngenharia Biomédica\n\nQUADRO N.º 1\n\n1.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\nQUADRO N.º 2\n\n2.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\nQUADRO N.º 3\n\n3.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\nQUADRO N.º 4\n\n4.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\nQUADRO N.º 5\n\n5.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)\n\nQUADRO N.º 6\n\n6.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 236/2008, 1.º: anexos I e II passam a ter a redação do anexo; substituídas as partes textuais dos anexos (ordem dos títulos e ligações às imagens novas), cabeçalhos ANEXO I/II iguais mantidos; o conteúdo dos quadros só existe em imagem.",
+    "2.º (aplicação) não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

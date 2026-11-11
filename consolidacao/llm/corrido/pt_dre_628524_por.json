@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:628524:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As duas retificações do alterador 1 (p. 1076, designação da Div. 20; p. 1077, eliminação do cap. 01, div. 19) incidem sobre os mapas de alterações orçamentais, que só vêm em imagem (ver documento original); esse texto não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retificação da designação «Instituto dos Assuntos Sociais da Educação» na p. 1076 - não aplicada (mapa em imagem).",
+    "Alterador 1: eliminação do cap. 01, div. 19 na p. 1077 - não aplicada (mapa em imagem)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

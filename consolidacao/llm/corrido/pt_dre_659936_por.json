@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:659936:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "Ouvido o Conselho Cinegético Municipal de Vimioso:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: no segundo parágrafo do preâmbulo (unidade 4), «Conselho Cinegético Municipal de Abrantes» passou a «Conselho Cinegético Municipal de Vimioso»; mantive os dois pontos finais do texto atual (a instrução cita com ponto final)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

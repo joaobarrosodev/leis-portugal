@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:581601:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O artigo 5.º, n.º 1, do alterador 1 extingue o Grupo dos Hospitais Psiquiátricos criado pela portaria; não é uma alteração textual nem revoga expressamente o texto.",
+  "instrucoes": [
+    "Alterador 1, artigo 5.º: extinção do Grupo e dos hospitais integrados — não textual, não aplicado.",
+    "Restantes artigos do alterador 1 criam o Centro Hospitalar Psiquiátrico de Lisboa — não dirigidos ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

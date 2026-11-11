@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:643302:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 41,
+      "texto": "Quando da transição para o quadro comum das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique, constante do mapa I anexo à presente portaria, resultar para alguns agentes diminuição de remunerações ou de outros direitos, enquanto permanecerem na categoria para onde transitem, os mesmos agentes mantêm as suas remunerações e outras regalias inerentes.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 742/71, 1.º: aditada nota às notas do mapa II; inserida depois da última nota (unidade 41)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

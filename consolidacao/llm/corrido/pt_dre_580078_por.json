@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:580078:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "4 - Incumbir os Ministros das Finanças e do Plano, dos Transportes e Comunicações, da República para a Região Autónoma dos Açores e da República para a Região Autónoma da Madeira de apresentarem as propostas adequadas para a cobertura integral dos custos referentes às especiais obrigações de serviço público impostas às empresas públicas TAP - Transportes Aéreos Portugueses, E. P., CTM - Companhia Portuguesa de Transportes Marítimos, E. P., e ANA - Aeroportos e Navegação Aérea, E. P., para assegurar as ligações entre o continente e as regiões autónomas nos valores que excedem os referidos no n.º 1.",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "7 - A verba de 502000 contos, a distribuir futuramente, será afectada mediante despacho do Ministro das Finanças e do Plano.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 4 — substituída a unidade 12.",
+    "Alterador 1: nova redação do n.º 7 (502000 contos, despacho do Ministro das Finanças e do Plano) — substituída a unidade 15."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

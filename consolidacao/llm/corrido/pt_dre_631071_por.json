@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:631071:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "## ANEXO — Curso de complemento de formação em enfermagem",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/246b00/68066807.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo; título com 'enfermagem' em minúscula (unidade 13) e nova ligação do quadro de vagas (unidade 15). O conteúdo do quadro só existe em imagem.",
+    "Alterador 1, 2.º e 3.º: entrada em vigor e produção de efeitos do alterador; sem mudança no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

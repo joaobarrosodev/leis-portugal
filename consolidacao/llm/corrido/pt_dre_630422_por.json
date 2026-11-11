@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:630422:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "2.º Para efeito da aplicação das regras das carreiras hospitalares, os lugares dos quadros do Instituto de Assistência Psiquiátrica e suas delegações são, para efeito da aplicação da carreira de administração hospitalar, equiparados aos dos hospitais centrais com mais de 700 camas, e, para efeito de aplicação da carreira médica, o director do Instituto e delegados serão equiparados, respectivamente, a director e a director clínico de hospital com mais de 500 camas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2.º; substituída a unidade 6.",
+    "Alterador 1, 2.º: produção de efeitos das equiparações, norma própria do alterador; sem mudança no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:570310:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Pela presente portaria é concessionada, pelo período de 12 anos, a Casa Sarmento - Restaurantes, S. A., pessoa colectiva com o n.º 501105808 e sede em Sernadelo, Mealhada, a zona de caça turística da Herdade da Defesa de Barros e Anexas (processo n.º 2404 da Direcção-Geral das Florestas).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º: onde se lê Sarmento, Lda. passa a ler-se Casa Sarmento - Restaurantes, S. A.; aplicado na unidade 7 (no original SARMENTO, Lda., em maiúsculas)",
+    "2.º: declaração do NIPC e sede da sociedade, sem alteração textual; ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

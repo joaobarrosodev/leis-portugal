@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:621362:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o anexo (plano de estudos) passa a ter a redação do anexo à Portaria n.º 1397/2001, cujos quadros só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo (quadros em imagem) — não aplicada, ver nao_aplicavel.",
+    "Alterador 1, 2.º a 4.º: disposições próprias da portaria alteradora — não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:616786:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "É confirmada a promoção ao posto de Major-General do Coronel Tirocinado de Cavalaria José Carlos Filipe Antunes Calçada, efectuada por deliberação de 13 de Janeiro de 2010 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional da mesma data.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: a identificação 'Coronel Tirocinado de Cavalaria Carlos José Filipe Antunes Calçada' passa a 'Coronel Tirocinado de Cavalaria José Carlos Filipe Antunes Calçada'; substituída a unidade 4."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

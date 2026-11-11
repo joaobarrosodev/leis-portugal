@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:631248:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 substitui, nos anexos I e II, a linha «Escola Superior de Educação e Ciências» por «Instituto Superior de Educação e Ciências - 160 vagas»: os quadros dos anexos só vêm em imagem (unidades 22 e 25).",
+  "instrucoes": [
+    "Alterador 1, n.º 1: linha do anexo I substituída; quadro em imagem, não aplicada.",
+    "Alterador 1, n.º 2: linha do anexo II substituída; quadro em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:582433:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1033-ED/2004 (n.º 1.º) extingue a zona de caça municipal criada pelo original, o que esgota o diploma por inteiro; não altera o texto, e o resto da portaria concessiona uma nova zona de caça associativa (matéria própria).",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: extinção da zona de caça municipal da Herdade do Monte Novo e outras criada pelo original; não é alteração textual, equivale a deixar o original sem efeito por inteiro; nada aplicado.",
+    "Alterador 1, n.os 2.º a 4.º: concessão de nova zona de caça associativa; não se dirigem ao texto do original; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

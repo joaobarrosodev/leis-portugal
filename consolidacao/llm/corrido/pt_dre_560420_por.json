@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:560420:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 10,
+      "texto": "1.º-A\n\nTrabalho de fim de curso\n\nA unidade curricular 'Trabalho de fim de curso' realiza-se nos termos fixados por regulamento a aprovar pelo órgão legal e estatutariamente competente do estabelecimento de ensino.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, 1.º, n.º 1: nova redação do anexo (plano de estudos), cujos quadros só vêm em imagem no documento original; não aplicada.",
+  "instrucoes": [
+    "Alterador 1, 1.º, n.º 1: substituição do anexo por quadros só disponíveis em imagem; não aplicada.",
+    "Alterador 1, 1.º, n.º 2: aditamento do n.º 1.º-A (Trabalho de fim de curso); inserido a seguir à unidade 10 (fim do n.º 1.º)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

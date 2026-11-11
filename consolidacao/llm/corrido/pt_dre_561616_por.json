@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:561616:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Poderão ser admitidos como auxiliares de farmacêutico e classificados em grau a definir na regulamentação colectiva de trabalho para o sector indivíduos que, não possuindo prática registada, ou possuindo-a, tenham a ascensão na carreira congelada, revelem, em exame adequado, conhecimentos suficientes para o exercício de tais funções.",
+      "alterador": 1
+    },
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "2.º O disposto no número anterior só é aplicável àqueles que provem a sua qualidade de ajudantes de farmácia ou categoria análoga obtida no estrangeiro ou ainda àqueles que tenham pelo menos 5 anos de prática registada e não tenham podido ascender ao grau máximo da respectiva carreira.",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 13,
+      "texto": "a) 1 representante da Direcção-Geral de Saúde, que presidirá e terá voto de qualidade;\n\nb) 1 representante da Ordem dos Farmacêuticos;\n\nc) 1 representante da Associação Nacional das Farmácias, que será obrigatoriamente licenciado em Farmácia;\n\nd) 1 representante do Sindicato Nacional dos Farmacêuticos;\n\ne) 1 representante dos sindicatos representativos dos ajudantes de farmácia.",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "e) Documento comprovativo de estar o candidato numa das situações previstas nos n.os 1.º e 2.º desta portaria;\n\nf) Quaisquer outros elementos de valorização que os candidatos entendam juntar.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º; substituída a unidade 8.",
+    "Alterador 1, 1.º: nova redação do n.º 2.º; substituída a unidade 9.",
+    "Alterador 1, 1.º: nova redação do n.º 3.º; proémio igual ao atual (unidade 10 mantida), alíneas a) a c) substituídas e aditadas d) e e) (unidades 11 a 13).",
+    "Alterador 1, 1.º: nova redação do n.º 7.º; proémio igual e alíneas a) a d) mantidas ('...'), alínea e) substituída pela nova e) e aditada f) (unidade 28).",
+    "Alterador 1, 2.º: salvaguarda de direitos adquiridos, norma própria; não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

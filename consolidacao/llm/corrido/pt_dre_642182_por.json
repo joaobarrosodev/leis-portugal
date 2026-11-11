@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:642182:por",
+  "substituicoes": [
+    {
+      "de": 66,
+      "ate": 66,
+      "texto": "b) Tenha sido entregue a declaração simplificada correspondente, acompanhada dos documentos referidos no n.º 11;",
+      "alterador": 1
+    },
+    {
+      "de": 77,
+      "ate": 77,
+      "texto": "20.º Quando o beneficiário do regime simplificado de desalfandegamento no domicílio esteja autorizado a aplicar o procedimento simplificado referido no n.º 8 desta portaria, deverá a entrega da declaração global, periódica ou recapitulativa ser feita na estância de domiciliação, o mais tardar no segundo dia seguinte ao termo do «período de globalização».",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Retificação 211/91: alínea b) do n.º 13.º, n.º 12 passa a n.º 11 (unidade 66; o texto atual tem 'n.º 12.º', copiada a redação do alterador).",
+    "Retificação 211/91: n.º 20.º, n.º 6 passa a n.º 8 (unidade 77)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:617731:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Turquel, município de Alcobaça, com a área de 1838,25 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 972/2010), artigo 1.º: renova a concessão por 12 anos com a área de 1374 ha, sem alterar textualmente o original; não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 1.º; substituída a unidade 6.",
+    "Alterador 1: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 2, art. 1.º: renovação da concessão; não textual, não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

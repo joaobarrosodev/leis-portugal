@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:627199:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 substitui a tabela do n.º 1, que no original e no alterador só existe em imagem (ver documento original); não há texto a aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui a tabela de preços do n.º 1; tabela só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

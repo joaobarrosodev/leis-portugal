@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:621364:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: os quadros n.º 3 do anexo I e n.º 1 do anexo II passam a ter a redação dos anexos à Portaria n.º 1170/2001, que só vêm em imagem (e os quadros do original também só existem em imagem); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação dos quadros n.º 3 (anexo I) e n.º 1 (anexo II), em imagem — não aplicada, ver nao_aplicavel.",
+    "Alterador 1, 2.º: produção de efeitos da portaria alteradora — nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

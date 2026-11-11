@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:563382:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 7,
+      "texto": "3115.1.0 - Produção de azeite.\n\n3115.2.0 - Refinação de azeite.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação no n.º 1.º dos códigos 3117.1.0 e 3117.2.0 para 3115.1.0 e 3115.2.0 - substituídas as unidades 6 e 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

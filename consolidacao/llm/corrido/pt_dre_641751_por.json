@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:641751:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é renovada pelo período de 12 anos, renovável automaticamente por um único e igual período e com efeitos a partir do dia 12 de Julho de 2007, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos na freguesia de Santana, município de Nisa, com a área de 782 ha, o que exprime uma redução da área concessionada de 78 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 227/2008: correção do n.º 1.º (período de 12 anos renovável); substituída a unidade 6 com a frase trocada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

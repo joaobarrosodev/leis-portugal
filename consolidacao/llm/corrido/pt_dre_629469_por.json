@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:629469:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação do alterador 1 («Técnico superior» para «Técnico superior principal», col. «Categoria» do mapa anexo II) incide sobre um mapa que só vem em imagem; o texto não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retificação da categoria no mapa anexo II - não aplicada (mapa em imagem)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

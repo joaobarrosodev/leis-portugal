@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:595122:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 78/2005) rectifica o sumário da Declaração de Rectificação n.º 76/2005; o sumário não faz parte do texto por unidades e a expressão a corrigir não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: rectificação do sumário (Lei n.º 13/2003 -> Lei n.º 45/2005); o sumário não está no texto, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

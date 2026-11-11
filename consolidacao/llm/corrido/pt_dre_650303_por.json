@@ -1,0 +1,89 @@
+{
+  "id": "pt:dre:650303:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "641443 - Agoncida n.º 2, Mosteiró, Santa Maria da Feira - um lugar.",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "641546 - Boavista, Vizela (Santo Adrião), Vizela - um lugar.",
+      "alterador": 1
+    },
+    {
+      "de": 32,
+      "ate": 32,
+      "texto": "641571 - Igreja, Aboadela, Amarante - um lugar.",
+      "alterador": 1
+    },
+    {
+      "de": 37,
+      "ate": 37,
+      "texto": "641625 - São Pedro, Santa Marinha do Zêzere, Baião - um lugar.",
+      "alterador": 1
+    },
+    {
+      "de": 50,
+      "ate": 50,
+      "texto": "641753 - Ferreiró, Avioso (Santa Maria) - um lugar.",
+      "alterador": 1
+    },
+    {
+      "de": 75,
+      "ate": 75,
+      "texto": "642009 - Caxinas (Frei Mauro), Vila do Conde, Vila do Conde - um lugar.",
+      "alterador": 1
+    },
+    {
+      "de": 80,
+      "ate": 80,
+      "texto": "641017 - Rua do Falcão n.º 2, Campanhã, Porto - três lugares.",
+      "alterador": 1
+    },
+    {
+      "de": 94,
+      "ate": 94,
+      "texto": "642320 - Canidelo, Canidelo, Vila Nova de Gaia - três lugares.",
+      "alterador": 1
+    },
+    {
+      "de": 105,
+      "ate": 105,
+      "texto": "642113 - Gravelos, Adoufe, Vila Real - um lugar.",
+      "alterador": 1
+    },
+    {
+      "de": 107,
+      "ate": 107,
+      "texto": "642125 - Vila Chã, Nespereira, Cinfães - um lugar.",
+      "alterador": 1
+    },
+    {
+      "de": 132,
+      "ate": 132,
+      "texto": "641315 - Benavente (Areias), Benavente, Benavente - dois lugares.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: Agocinda -> Agoncida (641443); substituída a unidade 17.",
+    "Alterador 1: 641546 Santo Adrião de Vizela -> Vizela (Santo Adrião); unidade 28.",
+    "Alterador 1: 641571 Igreja n.º 2 -> Igreja; unidade 32.",
+    "Alterador 1: 641625 Santa Maria do Zêzere -> Santa Marinha do Zêzere; unidade 37.",
+    "Alterador 1: 641753 Ferreiró, Ferreiró, Maia -> Ferreiró, Avioso (Santa Maria), copiado à letra; unidade 50.",
+    "Alterador 1: 642009 Frei Mauro, Caxinas -> Caxinas (Frei Mauro), Vila do Conde; unidade 75.",
+    "Alterador 1: 641017 Rua do Falcão -> Rua do Falcão n.º 2; unidade 80.",
+    "Alterador 1: código 522594 -> 642320 (Canidelo); unidade 94.",
+    "Alterador 1: 642113 Vila Seca -> Adoufe; unidade 105.",
+    "Alterador 1: 642125 Nespeira -> Nespereira; unidade 107.",
+    "Alterador 1: 641315 Benavente -> Benavente (Areias); unidade 132."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

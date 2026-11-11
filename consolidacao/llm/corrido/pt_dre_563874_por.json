@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:563874:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 6-P/97): retificação do anexo, que só vem em imagem; não aplicada.",
+  "instrucoes": [
+    "Alterador 1: retificação do anexo (só em imagem) - não aplicada, nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

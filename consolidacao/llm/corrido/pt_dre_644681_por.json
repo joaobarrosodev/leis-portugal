@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:644681:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1401/2003, 1.º) dá nova redação ao anexo (plano de estudos), mas os quadros n.os 1 a 10 só vêm em imagem no documento original; não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo (quadros só em imagem) — não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º a 4.º: disposições próprias — ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

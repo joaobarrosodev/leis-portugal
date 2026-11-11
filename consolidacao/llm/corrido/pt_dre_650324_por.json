@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:650324:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 441/2001 substitui o plano de estudos do anexo, mas os quadros n.os 1 a 5 do novo anexo só vêm em imagem (ver quadro no documento original); não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: novo plano de estudos (anexo, quadros 1 a 5), só em imagem; não aplicado (nao_aplicavel).",
+    "Alterador 1, n.os 2.º e 3.º: transição e aplicação; normas próprias do alterador, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

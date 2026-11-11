@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:660134:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 984/2003 dá nova redação ao anexo, parte II - Outros estabelecimentos, quanto às vagas do Conservatório Superior de Música de Gaia; tanto a tabela atual (unidade 32) como a nova só existem em imagem (ver tabela no documento original), por isso não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1: n.º 1.º altera a tabela do anexo (parte II) relativa ao Conservatório Superior de Música de Gaia; não aplicada porque as tabelas só vêm em imagem. O n.º 2.º (produção de efeitos) não muda o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

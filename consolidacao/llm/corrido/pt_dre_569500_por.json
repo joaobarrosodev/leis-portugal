@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:569500:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 19684 cria um novo 5.º depósito para o material devolvido, retirando-o ao 2.º depósito, sem instrução textual sobre a Portaria n.º 18412; alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Criação do 5.º depósito e transferência da guarda do material devolvido: alteração material sem nova redação; não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
