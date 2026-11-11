@@ -38,10 +38,36 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-03-22'
+version_history:
+  file: decreto-regulamentar-regional-15-a-97-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-07-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-03-22'
+    amending: pt:dre:515272:por
+    amending_title: Decreto Regulamentar Regional n.º 12/2000/M
+    changes:
+    - Adita Artigo 29.º-A
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo SUBSECÇÃO III — Repartição Administrativa e de Processamento de Abonos
+    - Altera Artigo SUBSECÇÃO IV — Repartição de Contabilidade
+    - Altera Artigo SUBSECÇÃO V — Repartição Administrativa de Apoio aos Estudos e Planeamento
+    - Altera Artigo SECÇÃO I — Repartição dos Serviços Administrativos
+    - Altera Artigo SECÇÃO II — Repartição de Aquisições e Manutenção
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/15-a/1997/07/30/m/dre/pt/html
@@ -67,7 +93,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:46:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    12/2000/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/1997/decreto-regulamentar-regional-15-a-97-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -488,7 +515,9 @@ h) Promover e realizar acções de formação na área da sua competência a tod
 
 3 - O director pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia.
 
-4 - Na dependência do GGCO funcionam a Divisão de Gestão Orçamental (DGO), a Divisão de Acção Social Escolar (DASE), a Repartição Administrativa e de Processamento de Abonos (RAPA) e a Repartição de Contabilidade (RC).
+4 - Na dependência do GGCO funcionam a Divisão de Gestão Orçamental (DGO), a Divisão de Acção Social Escolar (DASE), o Departamento Administrativo e de Processamento de Abonos (DAPA) e o Departamento de Contabilidade (DC).
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21.
 
 ##### SUBSECÇÃO I
 
@@ -526,11 +555,11 @@ c) Promover e divulgar a informação e documentação relativas às suas activi
 
 d) Assegurar o acompanhamento da respectiva execução orçamental junto de todos os estabelecimentos de ensino.
 
-##### SUBSECÇÃO III — Repartição Administrativa e de Processamento de Abonos
+##### SUBSECÇÃO III — Departamento Administrativo e de Processamento de Abonos
 
 ###### Artigo 17.º — Estrutura e atribuições
 
-1 - À RAPA compete, nomeadamente:
+1 - Ao DAPA compete, nomeadamente:
 
 a) Proceder à divulgação de circulares, instruções ou outras normas relativas à contabilidade pública e ao processamento de abonos e regalias sociais;
 
@@ -540,17 +569,19 @@ c) Superintender e coordenar todas as operações inerentes ao processamento de 
 
 d) Apoiar a DGO e a DASE.
 
-2 - A RAPA compreende duas secções:
+2 - O DAPA compreende duas secções:
 
 a) Secção de Expediente, Arquivo e Economato (SEAE);
 
 b) Secção de Processamento de Abonos e Regalias Sociais (SPARS).
 
-##### SUBSECÇÃO IV — Repartição de Contabilidade
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21.
+
+##### SUBSECÇÃO IV — Departamento de Contabilidade
 
 ###### Artigo 18.º — Estrutura e atribuições
 
-1 - À RC compete, nomeadamente:
+1 - Ao DC compete, nomeadamente:
 
 a) Executar todas as operações relativas à elaboração dos projectos de orçamento da SRE;
 
@@ -558,11 +589,13 @@ b) Superintender e coordenar todas as operações inerentes à execução orçam
 
 c) Proceder à organização, encaminhamento e registo dos processos de despesas inerentes à SRE.
 
-2 - A RC compreende duas secções:
+2 - O DC compreende duas secções:
 
 a) Secção de Contabilidade dos Serviços Centrais da SRE (SCSC);
 
 b) Secção de Contabilidade dos Serviços com Autonomia tutelados pela SRE (SCSA).
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21.
 
 #### SECÇÃO II — Gabinete de Estudos e Planeamento
 
@@ -580,7 +613,9 @@ d) Colaborar com todas as instituições educativas do País, através de inform
 
 e) Planear e acompanhar a execução dos investimentos do Plano no que se refere a equipamentos e elaborar relatórios respeitantes a essa execução.
 
-2 - Na dependência do GEP funcionam a Divisão de Equipamento Educativo e Apoio Económico (DEEAE), a Divisão de Informação e Estatística da Educação (DIEE), a Divisão de Estudos e Planeamento (DEP) e a Repartição Administrativa de Apoio aos Estudos e Planeamento (RAAEP).
+2 - Na dependência do GEP, funcionam a Divisão de Equipamento Educativo e Apoio Económico (DEEAE), a Divisão de Informação e Estatística da Educação (DIEE), a Divisão de Estudos e Planeamento (DEP) e o Departamento Administrativo de Apoio aos Estudos e Planeamento (DAAEP).
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21.
 
 ##### SUBSECÇÃO I
 
@@ -636,17 +671,19 @@ e) Coordenar, orientar e gerir o sistema de divulgação das actividades desenvo
 
 f) Implementar a recolha e sistematização de dados tendo em vista a constituição de bolsas de ideias tendentes a fomentar a criação selectiva de novos projectos de investimento.
 
-##### SUBSECÇÃO V — Repartição Administrativa de Apoio aos Estudos e Planeamento
+##### SUBSECÇÃO V — Departamento Administrativo de Apoio aos Estudos e Planeamento
 
 ###### Artigo 23.º — Atribuições
 
-1 - A RAAEP é um serviço de apoio administrativo e logístico do GEP, com atribuições em matérias de expediente, registo, arquivo e assuntos de natureza genérica.
+1 - O DAAEP é um serviço de apoio administrativo e logístico do GEP com atribuições em matérias de expediente, registo, arquivo e assuntos de natureza genérica.
 
-2 - A RAEP compreende duas secções:
+2 - O DAAEP compreende duas secções:
 
 a) Secção Técnica (ST);
 
 b) Secção Administrativa (SA).
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21.
 
 #### SECÇÃO III — Gabinete de Estudos e Pareceres Jurídicos
 
@@ -694,33 +731,37 @@ e) Divulgar projectos e programas comunitários nas áreas de competência da SR
 
 ### CAPÍTULO IV — Órgãos de apoio logístico
 
-#### SECÇÃO I — Repartição dos Serviços Administrativos
+#### SECÇÃO I — Departamento dos Serviços Administrativos
 
 ###### Artigo 26.º — Atribuições
 
-1 - A Repartição de Serviços Administrativos (RSA) é um serviço de apoio ao Secretário Regional, competindo-lhe assegurar o apoio administrativo ao seu Gabinete e aos serviços dele dependentes que não possuam serviços administrativos próprios.
+1 - O Departamento dos Serviços Administrativos (DSA) é um serviço de apoio ao Secretário Regional, competindo-lhe assegurar o apoio administrativo ao seu Gabinete e aos serviços dele dependentes que não possuam serviços administrativos próprios.
 
-2 - À RSA compete, nomeadamente:
+2 - Ao DSA compete, nomeadamente:
 
 a) Assegurar o registo, o encaminhamento e o arquivo do expediente;
 
 b) Assegurar, em geral, o normal funcionamento da SRE em tudo o que não seja da competência específica dos demais serviços.
 
-#### SECÇÃO II — Repartição de Aquisições e Manutenção
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21.
+
+#### SECÇÃO II — Departamento de Aquisições e Manutenção
 
 ###### Artigo 27.º — Atribuições
 
-1 - A Repartição de Aquisições e Manutenção (RAM) é um serviço de apoio logístico do Gabinete do Secretário Regional, a quem compete, designadamente:
+1 - O Departamento de Aquisições e Manutenção (DAM) é um serviço de apoio logístico do Gabinete do Secretário Regional, a quem compete, designadamente:
 
 a) Proceder à aquisição de bens e serviços para as creches e para os estabelecimentos de educação pré-escolar.
 
 b) Proceder à manutenção dos equipamentos e das instalações das creches e dos estabelecimentos de educação pré-escolar.
 
-2 - A RAM compreende duas secções:
+2 - O DAM compreende duas secções:
 
 a) Secção de Aquisições;
 
 b) Secção de Manutenção.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21.
 
 ### CAPÍTULO V — Do pessoal
 
@@ -789,6 +830,22 @@ a) O tempo de serviço prestado na inspecção é contado para todos os efeitos 
 b) Os docentes referidos no número anterior que requererem a integração na carreira de inspecção superior serão posicionados para efeitos remuneratórios em escalão da categoria de inspector igual ou imediatamente superior àquele que nesse momento aufiram.
 
 9 - A transição prevista no número anterior deverá realizar-se no período máximo de três meses após o decurso do prazo previsto no n.º 8.
+
+###### Artigo 29.º-A — Regras de transição para chefe de departamento
+
+1 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.
+
+2 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontram posicionados.
+
+3 - Quando da transição resultar um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeitos de progressão na nova categoria.
+
+4 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho.
+
+5 - A transição produz efeitos a partir da data de integração na nova categoria.
+
+6 - Os lugares de chefe de departamento são a extinguir quando vagarem.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21.
 
 ###### Artigo 30.º — Concursos e estágios pendentes
 

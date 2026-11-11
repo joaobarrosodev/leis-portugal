@@ -30,10 +30,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-04-04'
+version_history:
+  file: decreto-lei-323-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-10-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-04-04'
+    amending: pt:dre:679669:por
+    amending_title: Lei n.º 3-B/2000
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/323/1998/10/30/p/dre/pt/html
@@ -59,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:01:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 3-B/2000. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-323-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -548,25 +564,25 @@ d) Não tenham sido condenados por crimes previstos nos artigos 256.º, 258.º, 
 
 ###### Artigo 4.º — Regime de tributação dos combustíveis
 
-1 - A partir do dia 1 de Janeiro de 1999 é aplicável aos combustíveis abrangidos pelo [Decreto-Lei n.º 521/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1985-546456), de 31 de Dezembro, pelo artigo 32.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, e pelo artigo 6.º do [Decreto-Lei n.º 185/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1986-228204), de 14 de Julho, o regime normal de tributação em IVA.
+1 - Às transmissões de gasolina para viaturas, ao gasóleo e ao petróleo iluminante e carburante será aplicável, a partir de 1 de Julho de 2000, o regime normal de tributação em IVA.
 
-2 - Não obstante o disposto no artigo 7.º do Código do IVA, relativamente aos combustíveis entregues à consignação, o imposto é devido e exigível na data da leitura dos contadores de bombas, efectuada pelo consignatário, pelo menos uma vez por semana.
+2 - Não obstante o disposto no artigo 7.º do Código do IVA, relativamente aos combustíveis referidos no número anterior e entregues à consignação, o imposto é devido e exigível na data da leitura dos contadores de bombas, efectuada pelo consignatário, pelo menos uma vez por semana.
 
-3 - Sem prejuízo do disposto no n.º 3 do artigo 54.º e no n.º 2 do artigo 60.º do Código do IVA, os sujeitos passivos que comercializem combustíveis poderão deduzir o imposto correspondente às suas existências na data da cessação do regime especial de tributação.
+3 - Os sujeitos passivos que comercializem os combustíveis referidos no n.º 1 poderão deduzir o imposto correspondente às suas existências em 30 de Junho de 2000.
 
 4 - Para efeitos de dedução do imposto referido no número anterior, os sujeitos passivos deverão elaborar um inventário das existências dos combustíveis mencionados no n.º 1, do qual deverão constar as quantidades e a descrição dos bens, o preço de compra e o imposto suportado.
 
 5 - O imposto apurado no inventário referido no número anterior poderá ser objecto de dedução na declaração periódica correspondente à data da entrada em vigor do regime normal de tributação.
 
-6 - O inventário referido no n.º 4 será elaborado e entregue, em duplicado, na repartição de finanças a que se refere o artigo 70.º do Código do IVA até ao fim do mês de Janeiro de 1999, devendo os serviços devolver o duplicado, averbado do recebimento do original.
+6 - O inventário referido no n.º 4 será elaborado e entregue, em duplicado, na repartição de finanças a que se refere o artigo 70.º do Código do IVA até ao fim do mês de Julho de 2000, devendo os serviços devolver o duplicado, averbado do recebimento do original.
 
-7 - Os sujeitos passivos que comercializem combustíveis e se encontrem enquadrados no regime especial de isenção ou no regime dos pequenos retalhistas poderão optar pelo regime normal de tributação, mediante apresentação, durante o mês de Janeiro de 1999, da declaração prevista no artigo 31.º do Código do IVA, que produzirá efeitos a partir da data prevista no n.º 1.
-
-8 - Aos sujeitos passivos que exerçam a opção referida no número anterior é aplicável o disposto nos n.os 3 a 6 deste artigo.
+> Alterado pelo/a [Lei n.º 3-B/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), publicado em 2000-04-04.
 
 ###### Artigo 5.º — Norma revogatória
 
-São revogados, a partir do dia 1 de Janeiro de 1999, o [Decreto-Lei n.º 521/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1985-546456), de 31 de Dezembro, o artigo 32.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, e o artigo 6.º do [Decreto-Lei n.º 185/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1986-228204), de 14 de Julho.
+São revogados, a partir de 1 de Julho de 2000, o Decreto-Lei n.º 521/85, de 31 de Dezembro, e o artigo 6.º do Decreto-Lei n.º 185/86, de 14 de Julho.
+
+> Alterado pelo/a [Lei n.º 3-B/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), publicado em 2000-04-04.
 
 ###### Artigo 6.º — Disposições finais
 

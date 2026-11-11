@@ -1,0 +1,787 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:664081:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-07-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e2208af8b4945032",
+    "065839f634a45274",
+    "57f730a7fda55fe8",
+    "7992c63bb2bfa40e",
+    "a1f2ffa963016a32",
+    "ae30fee926887936",
+    "53e89208b6d4c504",
+    "779587bdf41d712d",
+    "137c5e35c721558e",
+    "62179090bd7d1ea9",
+    "15548b2a06c7b3e7",
+    "9e0b41f85ecb9519",
+    "05bf5aa979d74ba2",
+    "82a46c39ed0ee558",
+    "8f835f2ed87c2433",
+    "262f1a238dd700cc",
+    "183a90d6fe5068f6",
+    "377d4d8723b67a39",
+    "54d6d7a2d76d0bd5",
+    "8dae89188de3fb0d",
+    "552945b376c221ac",
+    "25bb41338dedf8d7",
+    "c7b46678293d1ec9",
+    "bc9829e2bd793ab5",
+    "c0b127ad87d8b8cc",
+    "7fd9d03630017cd5",
+    "d47200a830c5afe0",
+    "4d0e2c6638e6ec8c",
+    "2f29ff511bb4e2dd",
+    "84f781235cae0079",
+    "4ed41f79d6a68f99",
+    "08dee7fdc9cedaaa",
+    "05bf5aa979d74ba2",
+    "9ad03d0fc3446189",
+    "46de776e2f9aa2e1",
+    "09dd79863ab4f7e5",
+    "76c9bea685a60b93",
+    "81c63749598a98f1",
+    "66e850473f3cd59b",
+    "a09add877a1d477a",
+    "63cf3bfa3586aff0",
+    "84f781235cae0079",
+    "533a25fbdbaa9719",
+    "8758225e869bf5e7",
+    "05bf5aa979d74ba2",
+    "24728c5ef86fa7de",
+    "8666c99ed1816836",
+    "262f1a238dd700cc",
+    "5aa1fae889593223",
+    "a1ae308c76ee5358",
+    "ca7b7a4e717147cd",
+    "98384e1beda2990a",
+    "b6e08d3c7855c7bc",
+    "fc68cfc981232665",
+    "d9b58ecf1b9635f2",
+    "18cd1ea180172015",
+    "880244bedabdfe79",
+    "3cf273cab3defb76",
+    "cfcb750ce27ed98b",
+    "ed212b60fbe78afc",
+    "ad373c25bd9f5dab",
+    "b66d711cef71eecb",
+    "8da62f03480f2db5",
+    "da04976261069c6e",
+    "20115408dcf22821"
+   ]
+  },
+  {
+   "date": "2000-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:515272:por",
+     "title": "Decreto Regulamentar Regional n.º 12/2000/M",
+     "published": "2000-03-21",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/12-2000-515272"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 29.º-A",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo SUBSECÇÃO III — Repartição Administrativa e de Processamento de Abonos",
+    "Altera Artigo SUBSECÇÃO IV — Repartição de Contabilidade",
+    "Altera Artigo SUBSECÇÃO V — Repartição Administrativa de Apoio aos Estudos e Planeamento",
+    "Altera Artigo SECÇÃO I — Repartição dos Serviços Administrativos",
+    "Altera Artigo SECÇÃO II — Repartição de Aquisições e Manutenção"
+   ],
+   "fragments": [
+    "e2208af8b4945032",
+    "065839f634a45274",
+    "57f730a7fda55fe8",
+    "7992c63bb2bfa40e",
+    "a1f2ffa963016a32",
+    "ae30fee926887936",
+    "53e89208b6d4c504",
+    "779587bdf41d712d",
+    "137c5e35c721558e",
+    "62179090bd7d1ea9",
+    "15548b2a06c7b3e7",
+    "9e0b41f85ecb9519",
+    "05bf5aa979d74ba2",
+    "82a46c39ed0ee558",
+    "8f835f2ed87c2433",
+    "262f1a238dd700cc",
+    "183a90d6fe5068f6",
+    "377d4d8723b67a39",
+    "54d6d7a2d76d0bd5",
+    "8dae89188de3fb0d",
+    "552945b376c221ac",
+    "25bb41338dedf8d7",
+    "c7b46678293d1ec9",
+    "bc9829e2bd793ab5",
+    "c0b127ad87d8b8cc",
+    "7fd9d03630017cd5",
+    "d47200a830c5afe0",
+    "4d0e2c6638e6ec8c",
+    "abf74b997f791399",
+    "84f781235cae0079",
+    "4ed41f79d6a68f99",
+    "08dee7fdc9cedaaa",
+    "05bf5aa979d74ba2",
+    "9ad03d0fc3446189",
+    "46de776e2f9aa2e1",
+    "73b996630741a0f4",
+    "30f87cae8bb39032",
+    "7fc7dfc703d1acf2",
+    "1d570a309f1509f2",
+    "a09add877a1d477a",
+    "7172346ad9c6ab15",
+    "84f781235cae0079",
+    "533a25fbdbaa9719",
+    "8758225e869bf5e7",
+    "05bf5aa979d74ba2",
+    "24728c5ef86fa7de",
+    "8666c99ed1816836",
+    "262f1a238dd700cc",
+    "5aa1fae889593223",
+    "a1ae308c76ee5358",
+    "8208f8c00863b7f9",
+    "781e22b5741684d0",
+    "b6e08d3c7855c7bc",
+    "fc68cfc981232665",
+    "d9b58ecf1b9635f2",
+    "18cd1ea180172015",
+    "880244bedabdfe79",
+    "77458742368c09e6",
+    "0c14f58763d44d1a",
+    "6af8538eac642309",
+    "3eae74227f759d59",
+    "b66d711cef71eecb",
+    "8da62f03480f2db5",
+    "da04976261069c6e",
+    "24a2bc0f45cc6198",
+    "20115408dcf22821"
+   ]
+  }
+ ],
+ "fragments": {
+  "e2208af8b4945032": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprova a orgânica dos órgãos e serviços dependentes do Gabinete do Secretário Regional de Educação\n\nO [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, que procedeu à reestruturação do Governo da Região Autónoma da Madeira, modificou a orgânica da Secretaria Regional de Educação.\n\nO [Decreto Regulamentar Regional n.º 6/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1997-517385), de 17 de Março, criou a nova estrutura da Secretaria Regional de Educação, a qual integra os sectores de educação, educação especial, desporto e formação profissional, estatuiu no seu articulado que as atribuições, a orgânica, funcionamento e pessoal de cada organismo e serviço nela englobado constariam do decreto regulamentar regional.\n\nNeste contexto, urge criar a orgânica dos órgãos e serviços dependentes do Gabinete do Secretário Regional com a sua estrutura, por forma a dotá-la dos meios necessários ao exercício das suas atribuições e competências.\n\nNestes termos:\n\nO Governo Regional da Região Autónoma da Madeira decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea c) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, conjugados com a alínea h) do artigo 1.º do [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, e do n.º 2 do artigo 4.º do [Decreto Regulamentar Regional n.º 6/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1997-517385), de 17 de Março, o seguinte:"
+  },
+  "065839f634a45274": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovada a estrutura orgânica dos órgãos e serviços dependentes do Gabinete do Secretário Regional, publicada em anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "57f730a7fda55fe8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em Conselho do Governo Regional em 26 de Junho de 1997.\n\nO Presidente do Governo Regional, em exercício, José Paulo Baptista Fontes.\n\nAssinado em 30 de Julho de 1997.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.\n\nORGÂNICA DOS ÓRGÃOS E SERVIÇOS DEPENDENTES DO GABINETE DO SECRETÁRIO REGIONAL DE EDUCAÇÃO"
+  },
+  "7992c63bb2bfa40e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Órgãos e serviços"
+  },
+  "a1f2ffa963016a32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura\n\nDo Gabinete do Secretário Regional dependem directamente os seguintes órgãos:\n\na) Departamentos de natureza técnica e técnico-pedagógica\n\nb) Órgãos de concepção e de apoio;\n\nc) Órgãos de apoio logístico."
+  },
+  "ae30fee926887936": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Departamentos de natureza técnica e técnico-pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Departamentos de natureza técnica e técnico-pedagógica"
+  },
+  "53e89208b6d4c504": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Departamento de Tecnologia e Sistemas de Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Departamento de Tecnologia e Sistemas de Informação"
+  },
+  "779587bdf41d712d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições e competências\n\n1 - Ao Departamento de Tecnologia e Sistemas de Informação (DTSI), dirigido por um director de serviços, compete coordenar os domínios dos sistemas e tecnologias de informação na SRE.\n\n2 - O DTSI tem como atribuições:\n\na) Assegurar a orientação geral do serviço e definir a estratégia da sua actuação de harmonia com as determinações recebidas do respectivo membro do Governo Regional com vista a assegurar o seu cumprimento;\n\nb) Propor ao membro do Governo Regional as medidas que considere mais aconselháveis para se alcançarem os objectivos e as metas necessários ao desenvolvimento do serviço;\n\nc) Elaborar e submeter à aprovação do membro do Governo Regional os planos anuais ou plurianuais de actividades, bem como os respectivos relatórios de execução, propor as formas de financiamento mais adequadas e definir e implementar o programa de desenvolvimento do serviço, avaliando-o e corrigindo-o em função dos indicadores de gestão recolhidos;\n\nd) Gerir os meios humanos, financeiros e de equipamento do Departamento e a sua comparticipação em programas e projectos em que o mesmo seja interveniente;\n\ne) Promover, desenvolver e implementar sistemas e tecnologias de informação de acordo com as necessidades da SRE e conforme determinação do Secretário Regional de Educação;\n\nf) Estruturar e criar condições de acesso à informação relevante a todos os utilizadores do sistema;\n\ng) Promover acções de sensibilização e formação em coordenação com a Direcção Regional de Administração e Pessoal e prestar apoio aos órgãos e serviços da SRE no domínio dos sistemas e tecnologias de informação;\n\nh) Apoiar o planeamento e a organização nas diferentes funções de gestão da SRE, perspectivando a criação de serviços de qualidade mais eficazes e eficientes;\n\ni) Pronunciar-se no domínio dos sistemas e tecnologias de informação, fixando princípios, regras e normas gerais de actuação noutros organismos e serviços dependentes da SRE, nomeadamente nos que tenham autonomia administrativa e ou financeira, conforme determinação superior;\n\nj) Orientar as funções de organização exigidas para uma eficaz e eficiente implementação do projecto de rede escolar integrada;\n\nl) Estudar, definir e promover a implementação de uma arquitectura de informação global, coerente e actualizada na SRE, conforme determinação superior;\n\nm) Orientar as funções de organização exigidas a uma eficaz e eficiente coordenação dos núcleos de informática, a criar nos serviços da SRE;\n\nn) Superintender na utilização racional das instalações afectas ao respectivo serviço, bem como na sua manutenção e conservação;\n\no) Gerir de forma eficaz e eficiente a utilização, manutenção e conservação dos equipamentos afectos ao respectivo serviço;\n\np) Elaborar e submeter à aprovação superior planos anuais e plurianuais de reequipamento em função das necessidades previstas e da evolução tecnológica.\n\n3 - Ao director de serviços do Departamento, para além das atribuições referidas no número anterior, poderá ser ainda delegada competência para autorizar a realização de despesas até ao montante máximo de 500 mil escudos.\n\n4 - O director de serviços do Departamento é substituído nas suas ausências e impedimentos pelo chefe de divisão para o efeito designado.\n\n5 - O director de serviços do Departamento pode, nos termos da lei, delegar competências em titulares de cargos de chefia.\n\n6 - Na dependência do DTSI funcionam os seguintes serviços:\n\n1) Órgãos de apoio:\n\na) Núcleo de Arquitectura de Informação (NAI);\n\nb) Núcleo Coordenador do Projecto de Rede Integrada (NCPREI);\n\nc) Gabinete Coordenador dos Núcleos de Informação dos Serviços da SRE (GCNI);\n\n2) Divisão de Desenvolvimento (DD).\n\n3) Divisão de Infra-Estruturas Tecnológicas e Serviços (DITS)."
+  },
+  "137c5e35c721558e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Órgãos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Órgãos de apoio"
+  },
+  "62179090bd7d1ea9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Núcleo de Arquitectura de Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Núcleo de Arquitectura de Informação\n\nAo NAI, que é coordenado por um administrador de dados, compete, designadamente:\n\na) Coordenar os trabalhos de concepção e integração dos modelos de dados da organização;\n\nb) Assegurar a normalização da informação, criando, desenvolvendo e mantendo actualizado o dicionário (repositório) de dados da organização;\n\nc) Garantir a integridade lógica dos modelos de informação;\n\nd) Definir os níveis de qualidade, confidencialidade e segurança dos dados;\n\ne) Definir e divulgar os critérios e normas para a disponibilização da informação;\n\nf) Definir, em colaboração com o administrador de base de dados, a estrutura das bases de dados em função das necessidades específicas dos utilizadores e estabelecer os respectivos procedimentos de salvaguarda e recuperação."
+  },
+  "15548b2a06c7b3e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Núcleo Coordenador do Projecto da Rede Escolar Integrada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Núcleo Coordenador do Projecto da Rede Escolar Integrada\n\nAo NCPREI, dirigido por um coordenador, equiparado para todos os efeitos legais a chefe de divisão, compete, nomeadamente:\n\na) Coordenar a implementação do projecto da rede escolar integrada, sendo o interlocutor privilegiado junto dos serviços e organismos da SRE;\n\nb) Colaborar na divulgação e dinamização do projecto da rede escolar integrada;\n\nc) Garantir a execução das diversas actividades do projecto da rede escolar integrada de acordo com a calendarização definida;\n\nd) Colaborar na avaliação, reajustamento e reavaliação do plano e objectivos do projecto da rede escolar integrada."
+  },
+  "9e0b41f85ecb9519": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Gabinete Coordenador dos Núcleos de Informática dos Serviços da SRE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Gabinete Coordenador dos Núcleos de Informática dos Serviços da SRE\n\nAo GCNI, que é dirigido por um coordenador, equiparado para todos os efeitos legais a chefe de divisão, compete, nomeadamente:\n\na) Coordenar a actividade dos diferentes núcleos nos serviços da SRE, sendo o interlocutor privilegiado entre o DTSI e esse mesmo organismo;\n\nb) Divulgar e promover as linhas de actuação definidas pelo DTSI;\n\nc) Garantir a execução das políticas adoptadas pelo DTSI no seu âmbito de actuação;\n\nd) Planificar e organizar as equipas de trabalho por áreas de intervenção em cada um dos serviços da SRE;\n\ne) Colaborar em cada um dos organismos da sua área de intervenção em conjunto com a Direcção Regional de Administração e Pessoal no levantamento e definição das necessidades de recursos humanos do grupo de pessoal de informática."
+  },
+  "05bf5aa979d74ba2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II"
+  },
+  "82a46c39ed0ee558": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Desenvolvimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Desenvolvimento"
+  },
+  "8f835f2ed87c2433": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Estrutura e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Estrutura e atribuições\n\n1 - Da DD fazem parte as seguintes áreas de actuação agregadas nos diferentes núcleos:\n\na) Administração de base de dados;\n\nb) Infocentro;\n\nc) Desenvolvimento e manutenção.\n\n2 - Para a coordenação destes núcleos poderão ser nomeados técnicos da carreira e categorias específicas do grupo de pessoal de informática.\n\n3 - À DD compete, nomeadamente:\n\na) Elaborar os estudos necessários para a adequação dos sistemas de informação à missão e objectivos da SRE e à avaliação do seu impacte na organização;\n\nb) Promover a melhoria dos sistemas de informação, garantindo a sua integração, normalização e coerência;\n\nc) Definir os padrões de qualidade a que devem obedecer os sistemas de informação da organização;\n\nd) Colaborar na definição da arquitectura de informação que contemple as necessidades informacionais e funcionais de cada área de actividade da SRE;\n\ne) Especificar as aplicações informáticas que integrarão os sistemas de informação, tendo em conta a vontade expressa pelos diferentes órgãos e serviços;\n\nf) Estabelecer os critérios de confidencialidade e privacidade dos dados e dos processos das aplicações;\n\ng) Gerir os projectos informáticos durante o seu ciclo de desenvolvimento interno ou externo;\n\nh) Promover a formação dos recursos afectos e a introdução de ferramentas e metodologias de desenvolvimento adequadas."
+  },
+  "262f1a238dd700cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III"
+  },
+  "183a90d6fe5068f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Infra-Estruturas Tecnológicas e Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Infra-Estruturas Tecnológicas e Serviços"
+  },
+  "377d4d8723b67a39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atribuições\n\n1 - Da DITS fazem parte as seguintes áreas de actuação agregadas nos diferentes núcleos:\n\na) Comunicações;\n\nb) Exploração;\n\nc) Gestão das infra-estruturas.\n\n2 - Para a coordenação destes núcleos poderão ser nomeados técnicos da carreira e categorias específicas do grupo de pessoal de informática.\n\n3 - À DITS compete, nomeadamente:\n\na) Colaborar no planeamento e definição da infra-estrutura tecnológica adequada à satisfação das necessidades da SRE;\n\nb) Supervisionar os processos de aquisição de equipamento e suporte lógico;\n\nc) Elaborar as medidas necessárias à segurança e confidencialidade da informação, bem como os procedimentos para a sua recuperação em casos de falha;\n\nd) Conceber e garantir a implementação, manutenção e actualização da rede de comunicações e da gestão dos respectivos suportes lógicos e equipamentos;\n\ne) Gerir os projectos de infra-estruturas tecnológicas.\n\n4 - Compete ao chefe de divisão da DITS, em estreita colaboração com o responsável pelo núcleo coordenador do projecto da rede escolar integrada e os órgãos de direcção competentes dos estabelecimentos de ensino, a coordenação dos técnicos de informática afectos às escolas"
+  },
+  "54d6d7a2d76d0bd5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Departamento de Inspecção Regional de Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Departamento de Inspecção Regional de Educação"
+  },
+  "8dae89188de3fb0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Atribuições\n\n1 - O Departamento de Inspecção Regional de Educação (DIRE), que é dirigido por um coordenador, equiparado para todos os efeitos legais a director de serviços, é um serviço com competências de auditoria e controlo do funcionamento do sistema educativo, bem como de apoio técnico às escolas e aos serviços da SRE.\n\n2 - O DIRE tem como atribuições:\n\na) Conceber, planear e executar auditorias e inspecções de natureza técnico-pedagógica ao nível da educação pré-escolar, extra-escolar e dos ensinos básico e secundário, incluindo as modalidades especiais, por forma a garantir a qualidade pedagógica dos estabelecimentos de educação e de ensino;\n\nb) Conceber, planear e executar auditorias e inspecções de natureza administrativo-financeira de todos os estabelecimentos e serviços integrados no sistema educativo, bem como dos serviços dependentes da SRE;\n\nc) Verificar e assegurar o cumprimento das disposições legais e das orientações definidas superiormente;\n\nd) Proceder a averiguações, propor e instruir os processos disciplinares, inquéritos e sindicâncias de natureza pedagógica e administrativo-financeira resultantes do exercício da sua actividade ou que lhe sejam remetidos para o efeito;\n\ne) Elaborar e submeter a homologação do Secretário Regional de Educação, durante o mês de Julho do ano anterior àquele a que respeite, o plano de actividades para o ano seguinte;\n\nf) Propor a realização de acções inspectivas extraordinárias;\n\ng) Elaborar e apresentar ao Secretário Regional de Educação, até 31 de Outubro, um relatório anual de actividades;\n\nh) Efectuar vistorias e elaborar relatórios sobre o estado de conservação e condições de segurança e higiene dos equipamentos educativos;\n\ni) Propor ou colaborar na preparação e execução de medidas que visem o aperfeiçoamento e a melhoria do funcionamento do sistema educativo e da qualidade pedagógica dos estabelecimentos de educação e de ensino;\n\nj) Promover a autoformação e propor à tutela as acções de formação que considere adequadas à melhoria do desempenho dos serviços;\n\nk) Conceber, planear e executar auditorias à organização e funcionamento técnico-pedagógico de estabelecimentos de educação e ensino particular e cooperativo, nos termos do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, aplicado à RAM pelo [Decreto Regulamentar Regional n.º 12/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1981-563003), de 16 de Setembro, verificando, nomeadamente, os requisitos relativos à concessão de autonomia e paralelismo pedagógico.\n\n3 - Na dependência do DIRE funciona a Secção Administrativa."
+  },
+  "552945b376c221ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Das acções de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Das acções de inspecção"
+  },
+  "25bb41338dedf8d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acções\n\n1 - O DIRE desenvolverá acções de inspecção ordinária de acordo com o plano de actividades previamente elaborado, ou extraordinária, quando superiormente determinadas.\n\n2 - O DIRE poderá proceder a fiscalizações para verificação do cumprimento de medidas propostas em inspecção anterior."
+  },
+  "c7b46678293d1ec9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Direitos e prerrogativas do pessoal de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direitos e prerrogativas do pessoal de inspecção\n\nO pessoal integrado na carreira de inspecção superior no desempenho de funções inspectivas goza, para além dos previstos na lei geral, dos seguintes direitos:\n\na) Acesso, quando em serviço, a todos os locais, serviços e estabelecimentos de educação e ensino, oficiais e particulares ou cooperativos, dependentes da SRE, bem como instituições por ela tutelados;\n\nb) Assistir, quando em serviço, a aulas ou a outras actividades escolares, reuniões e sessões dos órgãos dos estabelecimentos de educação e ensino sujeitos à sua acção inspectiva."
+  },
+  "bc9829e2bd793ab5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Inibições e incompatibilidades do pessoal de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Inibições e incompatibilidades do pessoal de inspecção\n\nÉ vedado ao pessoal de inspecção:\n\na) Efectuar serviços de inspecção, inquérito ou sindicâncias em serviços ou estabelecimentos de educação e ensino onde parentes ou afins em qualquer grau de linha recta, ou até ao 2.º grau da linha colateral, prestem actividades;\n\nb) Instruir processos disciplinares em que sejam arguidos parentes ou afins em qualquer grau de linha recta ou até ao 2.º grau da linha colateral;\n\nc) Executar inspecções e efectuar averiguações, inquéritos e sindicâncias ou instruir processos disciplinares em serviços ou estabelecimentos de educação e ensino onde tenham exercido funções, de qualquer natureza, nos três anos anteriores;\n\nd) Ser proprietário ou exercer qualquer actividade quer docente quer não docente em estabelecimento de educação ou serviço público ou particular;\n\ne) Exercer a qualquer título a prestação de serviços no âmbito da formação."
+  },
+  "c0b127ad87d8b8cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Duração e relatórios dos serviços externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Duração e relatórios dos serviços externos\n\n1 - Sem prejuízo dos prazos impostos legalmente, os serviços externos deverão ser iniciados e concluídos dentro do prazo que para cada caso for superiormente fixado.\n\n2 - No final de cada serviço será elaborado relatório dos trabalhos realizados e, quando se trate de visita de inspecção, deverá nele chamar-se a atenção para os aspectos que especialmente o justifiquem e, bem assim, sugerir-se as providências que se entenda dever ser adoptadas.\n\n3 - O relatório, com o respectivo processo, será entregue até 20 dias depois de terminado o serviço de inspecção, salvo se prazo diferente for fixado pelo coordenador."
+  },
+  "7fd9d03630017cd5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Domicílio profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Domicílio profissional\n\n1 - O pessoal da carreira de inspecção pode ter, mediante despacho do Secretário Regional de Educação e anuência do interessado, domicílio profissional em localidade diferente da sede do serviço a que está afecto.\n\n2 - O abono de ajudas de custo rege-se pela legislação aplicável ao pessoal da carreira técnica superior da inspecção."
+  },
+  "d47200a830c5afe0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Órgãos de concepção e de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Órgãos de concepção e de apoio"
+  },
+  "4d0e2c6638e6ec8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Gabinete de Gestão e Controlo Orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Gabinete de Gestão e Controlo Orçamental"
+  },
+  "2f29ff511bb4e2dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Atribuições e competências\n\nAo Gabinete de Gestão e Controlo Orçamental (GGCO), dirigido por um director de serviços, compete assegurar a coordenação financeira e a gestão orçamental da SRE.\n\n1 - O GGCO tem como atribuições:\n\na) Elaborar a proposta orçamental da SRE;\n\nb) Coordenar e controlar a execução dos orçamentos dos estabelecimentos de ensino e serviços dependentes;\n\nc) Proceder ao estudo de dados estatísticos relativos às áreas da sua competência;\n\nd) Estabelecer a normalização de procedimentos e propor medidas que assegurem a intercomunicabilidade de dados entre os diversos serviços da SRE, tendo em vista a obtenção de maior eficiência e eficácia nos gastos públicos;\n\ne) Elaborar estudos e pareceres de carácter económico e estatístico, em colaboração com todas as direcções regionais, que possibilitem a análise de todo o sistema educativo e contribuam para a formação da política geral de educação;\n\nf) Providenciar o apoio aos estabelecimentos de ensino particular e cooperativo e às instituições particulares de solidariedade social com valência infância na área financeira;\n\ng) Superintender e coordenar os serviços de acção social escolar;\n\nh) Promover e realizar acções de formação na área da sua competência a todos os serviços que integram a SRE.\n\n2 - O director é substituído nas suas ausências e impedimentos pelo chefe de divisão para o efeito designado.\n\n3 - O director pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia.\n\n4 - Na dependência do GGCO funcionam a Divisão de Gestão Orçamental (DGO), a Divisão de Acção Social Escolar (DASE), a Repartição Administrativa e de Processamento de Abonos (RAPA) e a Repartição de Contabilidade (RC)."
+  },
+  "84f781235cae0079": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I"
+  },
+  "4ed41f79d6a68f99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Gestão Orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Gestão Orçamental"
+  },
+  "08dee7fdc9cedaaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Atribuições\n\nÀ DGO compete, nomeadamente:\n\na) Promover a elaboração do projecto de orçamento da SRE em colaboração com todos os serviços dependentes;\n\nb) Apoiar os estabelecimentos de ensino particular e cooperativo e as instituições particulares de solidariedade social com valência infância em tudo o que decorrer do apoio financeiro;\n\nc) Assegurar o apoio, na área da sua acção, a todos os serviços da SRE;\n\nd) Proceder à recolha e organização de dados estatísticos referentes à área da sua competência;\n\ne) Proceder à análise e interpretação de dados tendo em vista quer a compreensão e descrição da situação em estudos quer a formulação de pareceres a partir dos resultados apurados;\n\nf) Promover a formação do pessoal afecto às áreas da sua competência."
+  },
+  "9ad03d0fc3446189": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Acção Social Escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Acção Social Escolar"
+  },
+  "46de776e2f9aa2e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Atribuições\n\nÀ DASE compete, nomeadamente:\n\na) Realizar os estudos necessários à formulação de propostas de definição da política de acção social escolar, propondo, se necessário, a adaptação da legislação nacional aos condicionalismos da Região;\n\nb) Perspectivar, planificar e acompanhar as acções regionais relativamente às actividades de acção social escolar no âmbito de todos os seus serviços;\n\nc) Promover e divulgar a informação e documentação relativas às suas actividades nos estabelecimentos de ensino básico e secundário;\n\nd) Assegurar o acompanhamento da respectiva execução orçamental junto de todos os estabelecimentos de ensino."
+  },
+  "09dd79863ab4f7e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Repartição Administrativa e de Processamento de Abonos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Repartição Administrativa e de Processamento de Abonos"
+  },
+  "76c9bea685a60b93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Estrutura e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Estrutura e atribuições\n\n1 - À RAPA compete, nomeadamente:\n\na) Proceder à divulgação de circulares, instruções ou outras normas relativas à contabilidade pública e ao processamento de abonos e regalias sociais;\n\nb) Assegurar o economato, registo, encaminhamento e arquivo do expediente e de toda a documentação afecta ao GGCO.\n\nc) Superintender e coordenar todas as operações inerentes ao processamento de abonos e regalias sociais;\n\nd) Apoiar a DGO e a DASE.\n\n2 - A RAPA compreende duas secções:\n\na) Secção de Expediente, Arquivo e Economato (SEAE);\n\nb) Secção de Processamento de Abonos e Regalias Sociais (SPARS)."
+  },
+  "81c63749598a98f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV — Repartição de Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV — Repartição de Contabilidade"
+  },
+  "66e850473f3cd59b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Estrutura e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Estrutura e atribuições\n\n1 - À RC compete, nomeadamente:\n\na) Executar todas as operações relativas à elaboração dos projectos de orçamento da SRE;\n\nb) Superintender e coordenar todas as operações inerentes à execução orçamental dos serviços com autonomia tutelados pela SRE;\n\nc) Proceder à organização, encaminhamento e registo dos processos de despesas inerentes à SRE.\n\n2 - A RC compreende duas secções:\n\na) Secção de Contabilidade dos Serviços Centrais da SRE (SCSC);\n\nb) Secção de Contabilidade dos Serviços com Autonomia tutelados pela SRE (SCSA)."
+  },
+  "a09add877a1d477a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Gabinete de Estudos e Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Gabinete de Estudos e Planeamento"
+  },
+  "63cf3bfa3586aff0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Atribuições e competências\n\n1 - Ao Gabinete de Estudos e Planeamento (GEP), dirigido por um director de serviços, compete, nomeadamente:\n\na) Estabelecer relações estreitas entre a SRE e a Secretaria Regional do Equipamento Social e Ambiente e os municípios com vista à colaboração em todos os processos referentes à criação de novas estruturas escolares e desportivas, assim como em ampliações e melhoramentos nas estruturas já existentes;\n\nb) Definir e executar a aquisição de equipamentos didácticos a fornecer às escolas, com apoio destas e das autarquias;\n\nc) Criar uma base de dados das escolas e dos serviços da SRE que inclua dados físicos, equipamentos e humanos, possibilitando a disponibilização de informações promotoras da evolução nas respectivas áreas, bem como a sustentação e apoio à decisão;\n\nd) Colaborar com todas as instituições educativas do País, através de informação e instrumentos de decisão, garantindo inovação e correcta implementação, consolidação e renovação do sistema educativo;\n\ne) Planear e acompanhar a execução dos investimentos do Plano no que se refere a equipamentos e elaborar relatórios respeitantes a essa execução.\n\n2 - Na dependência do GEP funcionam a Divisão de Equipamento Educativo e Apoio Económico (DEEAE), a Divisão de Informação e Estatística da Educação (DIEE), a Divisão de Estudos e Planeamento (DEP) e a Repartição Administrativa de Apoio aos Estudos e Planeamento (RAAEP)."
+  },
+  "533a25fbdbaa9719": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Equipamento Educativo e Apoio Económico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Equipamento Educativo e Apoio Económico"
+  },
+  "8758225e869bf5e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Atribuições\n\nÀ DEEAE compete, nomeadamente:\n\na) Criar e manter actualizada a base de dados de equipamentos referentes às escolas e serviços da SRE;\n\nb) Colaborar com a Secretaria Regional do Equipamento Social e Ambiente e os municípios em todas as fases de criação de novas instalações escolares e desportivas, assim como nas suas ampliações e melhoramentos (decisão, localização, programas, projecto, construção, apetrechamento, manutenção, ampliação);\n\nc) Proceder ao levantamento das necessidades regionais em mobiliário e material didáctico, criando instrumentos de decisão para a sua escolha, aquisição, proposta de aquisição e distribuição;\n\nd) Promover a definição, actualização e distribuição de normas e tipologias das instalações escolares e equipamento educativo, tendo em conta as exigências pedagógicas e a sua evolução."
+  },
+  "24728c5ef86fa7de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Informação e Estatística da Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Informação e Estatística da Educação"
+  },
+  "8666c99ed1816836": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Atribuições\n\n1 - À DIEE compete, nomeadamente:\n\na) Criar e manter actualizada a base de dados referente a toda a rede escolar regional (pessoal docente), pessoal não docente, discente e escolas);\n\nb) Criar instrumentos de decisão de forma a fornecer informações às instituições de gestão da SRE e estabelecimentos de ensino particular e cooperativo;\n\nc) Assegurar o apoio a todas as instituições componentes da rede escolar regional na concepção, desenvolvimento e implementação do sistema informático da educação;\n\nd) Acompanhar todos os estudos que decorrem a nível nacional, fornecendo informação, nomeadamente ao Departamento de Programação e Gestão Financeira, para publicação de estatísticas e outros trabalhos conducentes à melhor avaliação da situação educacional do todo nacional;\n\ne) Elaborar estudos periódicos orientados para o diagnóstico fundamentado da situação educativa regional com elaboração de indicadores estatísticos necessários à macroorientação dos órgãos de decisão da SRE."
+  },
+  "5aa1fae889593223": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Estudos e Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Estudos e Planeamento"
+  },
+  "a1ae308c76ee5358": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Atribuições\n\nÀ DEP compete, nomeadamente:\n\na) Proceder à recolha de elementos estatísticos junto às entidades empresariais, estabelecendo ligações à educação, formação e reabilitação profissional a nível regional e promovendo o seu tratamento e divulgação no sentido de estruturar o respectivo conhecimento;\n\nb) Promover a elaboração de estudos prospectivos visando a detecção de futuras necessidades educativas e formativas de mão-de-obra qualificada;\n\nc) Dinamizar o estudo e a análise de profissões em especial de maior interesse e actualidade no mercado da região, potenciando e clarificando os objectivos das estruturas educativas e formativas regionais;\n\nd) Proceder à análise global e permanente das actividades realizadas e elaborar os respectivos relatórios;\n\ne) Coordenar, orientar e gerir o sistema de divulgação das actividades desenvolvidas e a desenvolver no âmbito da Secretaria Regional;\n\nf) Implementar a recolha e sistematização de dados tendo em vista a constituição de bolsas de ideias tendentes a fomentar a criação selectiva de novos projectos de investimento."
+  },
+  "ca7b7a4e717147cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO V — Repartição Administrativa de Apoio aos Estudos e Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO V — Repartição Administrativa de Apoio aos Estudos e Planeamento"
+  },
+  "98384e1beda2990a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Atribuições\n\n1 - A RAAEP é um serviço de apoio administrativo e logístico do GEP, com atribuições em matérias de expediente, registo, arquivo e assuntos de natureza genérica.\n\n2 - A RAEP compreende duas secções:\n\na) Secção Técnica (ST);\n\nb) Secção Administrativa (SA)."
+  },
+  "b6e08d3c7855c7bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Gabinete de Estudos e Pareceres Jurídicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Gabinete de Estudos e Pareceres Jurídicos"
+  },
+  "fc68cfc981232665": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Atribuições e competências\n\n1 - O Gabinete de Estudos e Pareceres Jurídicos (GEPJ), dirigido por um coordenador, equiparado para todos os efeitos legais a chefe de divisão, é um órgão de apoio técnico-jurídico ao Gabinete do Secretário Regional e órgãos directamente dependentes, com funções exclusivas de mera consulta jurídica.\n\n2 - São atribuições do GEPJ, designadamente:\n\na) Elaborar estudos jurídicos e emitir pareceres em matéria de natureza jurídica;\n\nb) Emitir pareceres sobre projectos e propostas de diplomas que lhe sejam submetidos;\n\nc) Participar na elaboração dos pareceres necessários à audição da Região nos termos constitucionais.\n\n3 - Ao coordenador do Gabinete de Estudos e Pareceres Jurídicos compete, designadamente:\n\na) Definir os princípios e as regras que devem presidir à elaboração dos estudos e pareceres jurídicos;\n\nb) Estabelecer critérios de organização e distribuição dos pareceres jurídicos solicitados;\n\nc) Apoiar juridicamente o Secretário Regional em todas as matérias que entenda submeter à sua apreciação técnica, no âmbito das atribuições da SRE;\n\nd) Promover a difusão da legislação e jurisprudência de interesse para a SRE;\n\ne) Avaliar e suscitar oficiosamente os problemas da aplicação do direito no seu âmbito de actuação e propor superiormente a adopção de actos ou medidas legislativos da competência da Região."
+  },
+  "d9b58ecf1b9635f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Gabinete de Assuntos Comunitários e Relações Internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Gabinete de Assuntos Comunitários e Relações Internacionais"
+  },
+  "18cd1ea180172015": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Atribuições e competências\n\n1 - O Gabinete de Assuntos Comunitários e Relações Internacionais (GACRI), dirigido por um coordenador, equiparado para todos os efeitos legais a chefe de divisão, é um órgão de apoio ao Gabinete do Secretário Regional, na área dos assuntos comunitários e relações internacionais.\n\n2 - São atribuições do GACRI, designadamente:\n\na) Promover, implementar e apoiar a cooperação, os intercâmbios, cursos regionais, nacionais e internacionais, nomeadamente com os países da União Europeia;\n\nb) Planear, promover e implementar programas comunitários;\n\nc) Dinamizar e apoiar acções que possibilitem às escolas o conhecimento dos assuntos comunitários;\n\nd) Divulgar informação sobre a União Europeia nos cursos de educação de base de adultos;\n\ne) Divulgar projectos e programas comunitários nas áreas de competência da SRE."
+  },
+  "880244bedabdfe79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Órgãos de apoio logístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Órgãos de apoio logístico"
+  },
+  "3cf273cab3defb76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Repartição dos Serviços Administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Repartição dos Serviços Administrativos"
+  },
+  "cfcb750ce27ed98b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Atribuições\n\n1 - A Repartição de Serviços Administrativos (RSA) é um serviço de apoio ao Secretário Regional, competindo-lhe assegurar o apoio administrativo ao seu Gabinete e aos serviços dele dependentes que não possuam serviços administrativos próprios.\n\n2 - À RSA compete, nomeadamente:\n\na) Assegurar o registo, o encaminhamento e o arquivo do expediente;\n\nb) Assegurar, em geral, o normal funcionamento da SRE em tudo o que não seja da competência específica dos demais serviços."
+  },
+  "ed212b60fbe78afc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Repartição de Aquisições e Manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Repartição de Aquisições e Manutenção"
+  },
+  "ad373c25bd9f5dab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Atribuições\n\n1 - A Repartição de Aquisições e Manutenção (RAM) é um serviço de apoio logístico do Gabinete do Secretário Regional, a quem compete, designadamente:\n\na) Proceder à aquisição de bens e serviços para as creches e para os estabelecimentos de educação pré-escolar.\n\nb) Proceder à manutenção dos equipamentos e das instalações das creches e dos estabelecimentos de educação pré-escolar.\n\n2 - A RAM compreende duas secções:\n\na) Secção de Aquisições;\n\nb) Secção de Manutenção."
+  },
+  "b66d711cef71eecb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Do pessoal"
+  },
+  "8da62f03480f2db5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Quadro de pessoal\n\n1 - O pessoal dos quadros do Gabinete do Secretário Regional de Educação e dos serviços na sua directa dependência, previstos no [Decreto Regulamentar Regional n.º 6/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1997-517385), de 17 de Março, é agrupado em:\n\na) Pessoal dirigente;\n\nb) Pessoal de inspecção;\n\nc) Pessoal de informática;\n\nd) Pessoal técnico superior;\n\ne) Pessoal técnico;\n\nf) Pessoal docente;\n\ng) Pessoal técnico-profissional;\n\nh) Pessoal administrativo;\n\ni) Pessoal auxiliar.\n\n2 - Os quadros do pessoal a que se refere o número anterior são os constantes do mapa anexo ao presente diploma.\n\n3 - Os membros do Gabinete a que se refere a alínea b) do n.º 1 do artigo 10.º do [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, são livremente nomeados e exonerados pelo Secretário Regional, cessando funções com a exoneração deste.\n\n4 - O recrutamento, o provimento, a progressão e a classificação de serviço do pessoal da carreira técnica superior de inspecção regulam-se pela lei geral, com as especificidades constantes do [Decreto-Lei n.º 271/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1995-668484), de 23 de Outubro, com as alterações da [Lei n.º 18/96](https://diariodarepublica.pt/dr/detalhe/lei/18-1996-431038), de 20 de Junho, e demais legislação aplicável.\n\n5 - A estrutura remuneratória, bem como os suplementos a atribuir ao pessoal dirigente e da carreira técnica superior de inspecção, é a constante da legislação mencionada no número anterior.\n\n6 - É competência do coordenador definir os cursos e ou grupos ou disciplinas da docência cujos titulares podem ser admitidos a concurso.\n\n7 - O estágio tem a duração de um ano, sendo as demais condições de funcionamento e avaliação definidas por portaria conjunta dos Secretários Regionais do Plano e da Coordenação e de Educação.\n\n8 - O recrutamento para ingresso na carreira de auxiliar de limpeza far-se-á, mediante concurso, de entre indivíduos habilitados com a escolaridade obrigatória."
+  },
+  "da04976261069c6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Transição de pessoal\n\n1 - A integração do pessoal do quadro da Direcção Regional de Administração e Pessoal, da Direcção Regional de Inovação e Gestão Educativa nos quadros de pessoal do Gabinete do Secretário Regional e dos serviços na sua directa dependência será feita através de publicação de lista nominativa nos termos da lei geral.\n\n2 - O chefe da Repartição Administrativa do Centro de Meios Áudio-Visuais da Direcção Regional de Inovação e Gestão Educativa transita para a categoria de chefe de repartição de contabilidade do Gabinete de Gestão e Controlo Orçamental, nos termos do número anterior.\n\n3 - O pessoal provido na carreira de inspecção transita para a carreira de inspecção superior sem prejuízo do disposto no n.º 5 do artigo 28.º do presente diploma, de acordo com as seguintes regras:\n\na) Os inspectores principais não licenciados para a categoria de inspector principal;\n\nb) Os inspectores principais-adjuntos para a categoria de inspector principal;\n\nc) Os inspectores para a categoria de inspector.\n\n4 - Nas transições efectuadas nos termos da alínea b) do n.º 3 do presente artigo, o tempo de serviço prestado na extinta categoria de inspector principal-adjunto é contado exclusivamente para efeitos de determinação da antiguidade na carreira.\n\n5 - Nas transições efectuadas nos termos das alíneas a) e c) do número anterior, o tempo de serviço prestado na categoria de origem é contado para todos os efeitos legais na categoria para que transitam.\n\n6 - Os inspectores com opção de vencimento pela carreira docente, sem prejuízo do disposto nos n.os 3 e 4, transitam para o escalão a que corresponde remuneração igual ou imediatamente superior à auferida.\n\n7 - A transição prevista no n.º 3 ao nível remuneratório produz os efeitos previstos na [Portaria n.º 263/97](https://diariodarepublica.pt/dr/detalhe/portaria/263-1997-469651), de 17 de Abril.\n\n8 - Os docentes requisitados que se encontrem a exercer funções na inspecção há mais de dois anos, profissionalizados e com o mínimo de cinco anos de exercício da docência, poderão ser integrados na carreira de inspecção superior mediante concurso curricular e aprovação em entrevista a requerer no prazo de 30 dias, nos termos seguintes:\n\na) O tempo de serviço prestado na inspecção é contado para todos os efeitos legais na categoria para que transitam;\n\nb) Os docentes referidos no número anterior que requererem a integração na carreira de inspecção superior serão posicionados para efeitos remuneratórios em escalão da categoria de inspector igual ou imediatamente superior àquele que nesse momento aufiram.\n\n9 - A transição prevista no número anterior deverá realizar-se no período máximo de três meses após o decurso do prazo previsto no n.º 8."
+  },
+  "20115408dcf22821": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Concursos e estágios pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Concursos e estágios pendentes\n\n1 - Os concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover os correspondentes ao mapa anexo a este diploma.\n\n2 - O concurso para ingresso na categoria de inspector para o quadro de pessoal da Direcção Regional de Administração e Pessoal mantém-se aberto, sendo os lugares a prover os correspondentes ao mapa anexo a este diploma.\n\n3 - Os actuais estagiários prosseguem os respectivos estágios, transitando, findos os mesmos e se neles obtiverem aproveitamento, para as categorias objecto de concursos e constantes do mapa anexo ao presente diploma.\n\nANEXO A QUE SE REFERE O N.º 2 DO ARTIGO 28.º DO PRESENTE DIPLOMA\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/174b01/00020017.pdf)"
+  },
+  "abf74b997f791399": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Atribuições e competências",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 14.º — Atribuições e competências\n\nAo Gabinete de Gestão e Controlo Orçamental (GGCO), dirigido por um director de serviços, compete assegurar a coordenação financeira e a gestão orçamental da SRE.\n\n1 - O GGCO tem como atribuições:\n\na) Elaborar a proposta orçamental da SRE;\n\nb) Coordenar e controlar a execução dos orçamentos dos estabelecimentos de ensino e serviços dependentes;\n\nc) Proceder ao estudo de dados estatísticos relativos às áreas da sua competência;\n\nd) Estabelecer a normalização de procedimentos e propor medidas que assegurem a intercomunicabilidade de dados entre os diversos serviços da SRE, tendo em vista a obtenção de maior eficiência e eficácia nos gastos públicos;\n\ne) Elaborar estudos e pareceres de carácter económico e estatístico, em colaboração com todas as direcções regionais, que possibilitem a análise de todo o sistema educativo e contribuam para a formação da política geral de educação;\n\nf) Providenciar o apoio aos estabelecimentos de ensino particular e cooperativo e às instituições particulares de solidariedade social com valência infância na área financeira;\n\ng) Superintender e coordenar os serviços de acção social escolar;\n\nh) Promover e realizar acções de formação na área da sua competência a todos os serviços que integram a SRE.\n\n2 - O director é substituído nas suas ausências e impedimentos pelo chefe de divisão para o efeito designado.\n\n3 - O director pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia.\n\n4 - Na dependência do GGCO funcionam a Divisão de Gestão Orçamental (DGO), a Divisão de Acção Social Escolar (DASE), o Departamento Administrativo e de Processamento de Abonos (DAPA) e o Departamento de Contabilidade (DC).\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+  },
+  "73b996630741a0f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Departamento Administrativo e de Processamento de Abonos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Departamento Administrativo e de Processamento de Abonos"
+  },
+  "30f87cae8bb39032": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Estrutura e atribuições",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 17.º — Estrutura e atribuições\n\n1 - Ao DAPA compete, nomeadamente:\n\na) Proceder à divulgação de circulares, instruções ou outras normas relativas à contabilidade pública e ao processamento de abonos e regalias sociais;\n\nb) Assegurar o economato, registo, encaminhamento e arquivo do expediente e de toda a documentação afecta ao GGCO.\n\nc) Superintender e coordenar todas as operações inerentes ao processamento de abonos e regalias sociais;\n\nd) Apoiar a DGO e a DASE.\n\n2 - O DAPA compreende duas secções:\n\na) Secção de Expediente, Arquivo e Economato (SEAE);\n\nb) Secção de Processamento de Abonos e Regalias Sociais (SPARS).\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+  },
+  "7fc7dfc703d1acf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV — Departamento de Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV — Departamento de Contabilidade"
+  },
+  "1d570a309f1509f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Estrutura e atribuições",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 18.º — Estrutura e atribuições\n\n1 - Ao DC compete, nomeadamente:\n\na) Executar todas as operações relativas à elaboração dos projectos de orçamento da SRE;\n\nb) Superintender e coordenar todas as operações inerentes à execução orçamental dos serviços com autonomia tutelados pela SRE;\n\nc) Proceder à organização, encaminhamento e registo dos processos de despesas inerentes à SRE.\n\n2 - O DC compreende duas secções:\n\na) Secção de Contabilidade dos Serviços Centrais da SRE (SCSC);\n\nb) Secção de Contabilidade dos Serviços com Autonomia tutelados pela SRE (SCSA).\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+  },
+  "7172346ad9c6ab15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Atribuições e competências",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 19.º — Atribuições e competências\n\n1 - Ao Gabinete de Estudos e Planeamento (GEP), dirigido por um director de serviços, compete, nomeadamente:\n\na) Estabelecer relações estreitas entre a SRE e a Secretaria Regional do Equipamento Social e Ambiente e os municípios com vista à colaboração em todos os processos referentes à criação de novas estruturas escolares e desportivas, assim como em ampliações e melhoramentos nas estruturas já existentes;\n\nb) Definir e executar a aquisição de equipamentos didácticos a fornecer às escolas, com apoio destas e das autarquias;\n\nc) Criar uma base de dados das escolas e dos serviços da SRE que inclua dados físicos, equipamentos e humanos, possibilitando a disponibilização de informações promotoras da evolução nas respectivas áreas, bem como a sustentação e apoio à decisão;\n\nd) Colaborar com todas as instituições educativas do País, através de informação e instrumentos de decisão, garantindo inovação e correcta implementação, consolidação e renovação do sistema educativo;\n\ne) Planear e acompanhar a execução dos investimentos do Plano no que se refere a equipamentos e elaborar relatórios respeitantes a essa execução.\n\n2 - Na dependência do GEP, funcionam a Divisão de Equipamento Educativo e Apoio Económico (DEEAE), a Divisão de Informação e Estatística da Educação (DIEE), a Divisão de Estudos e Planeamento (DEP) e o Departamento Administrativo de Apoio aos Estudos e Planeamento (DAAEP).\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+  },
+  "8208f8c00863b7f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO V — Departamento Administrativo de Apoio aos Estudos e Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO V — Departamento Administrativo de Apoio aos Estudos e Planeamento"
+  },
+  "781e22b5741684d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Atribuições",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 23.º — Atribuições\n\n1 - O DAAEP é um serviço de apoio administrativo e logístico do GEP com atribuições em matérias de expediente, registo, arquivo e assuntos de natureza genérica.\n\n2 - O DAAEP compreende duas secções:\n\na) Secção Técnica (ST);\n\nb) Secção Administrativa (SA).\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+  },
+  "77458742368c09e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Departamento dos Serviços Administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Departamento dos Serviços Administrativos"
+  },
+  "0c14f58763d44d1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Atribuições",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 26.º — Atribuições\n\n1 - O Departamento dos Serviços Administrativos (DSA) é um serviço de apoio ao Secretário Regional, competindo-lhe assegurar o apoio administrativo ao seu Gabinete e aos serviços dele dependentes que não possuam serviços administrativos próprios.\n\n2 - Ao DSA compete, nomeadamente:\n\na) Assegurar o registo, o encaminhamento e o arquivo do expediente;\n\nb) Assegurar, em geral, o normal funcionamento da SRE em tudo o que não seja da competência específica dos demais serviços.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+  },
+  "6af8538eac642309": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Departamento de Aquisições e Manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Departamento de Aquisições e Manutenção"
+  },
+  "3eae74227f759d59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Atribuições",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 27.º — Atribuições\n\n1 - O Departamento de Aquisições e Manutenção (DAM) é um serviço de apoio logístico do Gabinete do Secretário Regional, a quem compete, designadamente:\n\na) Proceder à aquisição de bens e serviços para as creches e para os estabelecimentos de educação pré-escolar.\n\nb) Proceder à manutenção dos equipamentos e das instalações das creches e dos estabelecimentos de educação pré-escolar.\n\n2 - O DAM compreende duas secções:\n\na) Secção de Aquisições;\n\nb) Secção de Manutenção.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+  },
+  "24a2bc0f45cc6198": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º-A — Regras de transição para chefe de departamento",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 29.º-A — Regras de transição para chefe de departamento\n\n1 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.\n\n2 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontram posicionados.\n\n3 - Quando da transição resultar um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeitos de progressão na nova categoria.\n\n4 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho.\n\n5 - A transição produz efeitos a partir da data de integração na nova categoria.\n\n6 - Os lugares de chefe de departamento são a extinguir quando vagarem.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+  }
+ }
+}

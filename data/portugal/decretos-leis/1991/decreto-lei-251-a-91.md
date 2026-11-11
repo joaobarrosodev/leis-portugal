@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-11-26'
+version_history:
+  file: decreto-lei-251-a-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-07-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-11-26'
+    amending: pt:dre:593710:por
+    amending_title: Lei n.º 71/93
+    changes:
+    - Altera Artigo 97.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/251-a/1991/07/16/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:09:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 71/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-251-a-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -606,9 +621,11 @@ a) São aceites como custos do exercício, na sua totalidade, as dotações corr
 
 b) Quanto às responsabilidades com pensões de pessoal no activo em 31 de Dezembro de 1990, por tempo de serviço posterior a esta data, é aplicável o disposto nos n.os 2 ou 3 do artigo 38.º do Código do IRC;
 
-c) As dotações destinadas à cobertura de responsabilidades com pensões de pessoal no activo em 31 de Dezembro de 1990, por tempo de serviço anterior a esta data, são igualmente aceites como custos nos termos dos n.os 2 ou 3 do artigo 38.º do Código do IRC, podendo, no caso de aquelas responsabilidades ultrapassarem os limites estabelecidos naqueles números, ser aceites também como custos, pelo período máximo de cinco exercícios a contar daquela data, valores correspondentes, em cada um deles, à aplicação de uma percentagem não superior a 30% daquele excesso, devendo aquelas responsabilidades ser certificadas por seguradoras ou outras entidades de competência reconhecida pelo Banco de Portugal.
+c) As dotações destinadas à cobertura de responsabilidades com pensões de pessoal no activo em 31 de Dezembro de 1990, por tempo de serviço anterior a esta data, são igualmente aceites como custos nos termos dos n.os 2 ou 3 do artigo 38.º do Código do IRC, podendo, no caso de aquelas responsabilidades ultrapassarem os limites estabelecidos naqueles números ser aceites também como custos, pelo período máximo de sete exercícios a contar daquela data, valores correspondentes, em cada um deles, à aplicação de uma percentagem não superior a 30% daquele excesso, devendo aquelas responsabilidades ser certificadas por seguradoras ou outras entidades de competência reconhecida pelo Banco de Portugal.
 
 2 - Enquanto se não efectivar a transferência das responsabilidades definidas no número anterior para fundos de pensões ou entidades equiparáveis, a qual deverá ocorrer até 31 de Dezembro de 1995, as dotações constituídas ou a constituir com as finalidades e em termos idênticos aos previstos no número anterior também poderão ser aceites como custos, desde que o respectivo saldo acumulado seja devidamente explicitado no passivo dos balanços, em conta própria, nos termos a determinar pelo Banco de Portugal.
+
+> Alterado pelo/a [Lei n.º 71/93](https://diariodarepublica.pt/dr/detalhe/lei/71-1993-593710), publicado em 1993-11-26.
 
 Visto e aprovado em Conselho de Ministros de 16 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
