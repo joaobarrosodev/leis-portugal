@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:520816:por",
+  "substituicoes": [
+    {
+      "de": 2,
+      "ate": 2,
+      "texto": "Por ordem superior se torna público que, por notificação de 11 de Setembro de 2006, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Geórgia, em 21 de Agosto de 2006, aderido à Convenção Relativa à Supressão da Exigência da Legalização dos Actos Públicos Estrangeiros, adoptada na Haia em 5 de Outubro de 1961.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Retificação (Aviso n.º 367/2007): no primeiro parágrafo 'Legalidade' passa a 'Legalização'; substituída a unidade 2."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

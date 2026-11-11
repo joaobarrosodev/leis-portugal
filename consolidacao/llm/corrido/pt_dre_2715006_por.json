@@ -1,0 +1,37 @@
+{
+  "id": "pt:dre:2715006:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 14,
+      "texto": "Autarca de freguesia - Adriano Augusto Correia Rodrigues.",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 16,
+      "texto": "Representante da Autoridade Florestal Nacional - Armando José Pereira.",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 18,
+      "texto": "Representante das associações de defesa do ambiente - Manuel Carlos Dias Morais.",
+      "alterador": 1
+    },
+    {
+      "de": 19,
+      "ate": 20,
+      "texto": "Representante do Instituto da Conservação da Natureza e da Biodiversidade - José Luís Nunes Rosa.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redação do n.º 1.º (Portaria 1058/2009): caçadores e agricultores iguais; os quatro últimos vogais passam a uma linha cada (epígrafe - nome), DRATM substituída pela Autoridade Florestal Nacional e ICN pelo ICNB; substituídas as unidades 13-14, 15-16, 17-18 e 19-20."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

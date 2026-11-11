@@ -1,0 +1,38 @@
+{
+  "id": "pt:dre:637427:por",
+  "substituicoes": [
+    {
+      "de": 158,
+      "ate": 158,
+      "texto": "Licenças de uso e porte de arma, especial, de colecionador e de tiro desportivo, livrete de manifesto de arma e cédula de operador de explosivos - (euro) 15,00;",
+      "alterador": 1
+    },
+    {
+      "de": 162,
+      "ate": 162,
+      "texto": "Livro de registo de munições e livro de disparos efetuados com arma de coleção - (euro) 16,60;",
+      "alterador": 1
+    },
+    {
+      "de": 168,
+      "ate": 168,
+      "texto": "Os custos destes serviços são comunicados à PSP no início de cada mês, relativamente aos documentos emitidos no mês anterior, sendo o seu pagamento efetuado dentro do prazo de 30 dias a contar da emissão da respetiva fatura.",
+      "alterador": 1
+    },
+    {
+      "de": 174,
+      "ate": 174,
+      "texto": "Os custos são atualizados no início de cada ano, com base no índice de preços no consumidor, verificado no continente, sem habitação, publicado pelo INE;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 286/2014, art. 2.º: nova redação do anexo II (a epígrafe fica, [...]). Comparado unidade a unidade, mudam só a 158 (custo de 22,50 para 15,00, colecionador), a 162 (efetuados, coleção), a 168 (efetuado, respetiva fatura) e a 174 (atualizados); o resto é igual e fica.",
+    "Os arts. 1.º (objeto) e 3.º (entrada em vigor) não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

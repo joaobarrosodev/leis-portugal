@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:3239103:por",
+  "substituicoes": [
+    {
+      "de": 39,
+      "ate": 39,
+      "texto": "12 - As candidaturas devem ser apresentadas, desde a data de entrada em vigor do presente despacho normativo, até 31 de Agosto de 2009, em impresso próprio, na Direcção Regional de Agricultura e Pescas (DRAP) onde se localiza a parcela candidata à atribuição dos direitos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 12 (unidade 39), prazo até 31 de Agosto de 2009.",
+    "Alterador 1, n.º 2: regra de produção de efeitos, não textual; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

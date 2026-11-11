@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:518379:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é renovada, por um período de 12 anos, renovável automaticamente e com efeitos a partir do dia 28 de Novembro de 2006, a concessão da zona de caça associativa de Covões (processo n.º 463-DGRF), abrangendo vários prédios rústicos sitos na freguesia de Covões, município de Cantanhede, com a área de 1489 ha, o que exprime uma redução de área de 13 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 288/2008: no n.º 1.º troca a frase do prazo para incluir 'renovável automaticamente e'; substituída a unidade 6 com a frase trocada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

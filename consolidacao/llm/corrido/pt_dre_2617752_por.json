@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:2617752:por",
+  "substituicoes": [
+    {
+      "de": 75,
+      "ate": 75,
+      "texto": "c) Verificação de qualquer das condições resolutivas previstas no contrato de depósito e doação dos documentos que integram o arquivo do Prof. Doutor Marcello Caetano prometido celebrar.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "N.º 1.º da Portaria n.º 821/2003: nova redação da alínea c) do n.º 9.º do regulamento ('suspensivas' passa a 'resolutivas'); substituída a unidade 75.",
+    "N.º 2.º: produção de efeitos retroativa da alteração, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

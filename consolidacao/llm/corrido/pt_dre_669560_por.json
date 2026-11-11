@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:669560:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "No cap. 03, onde se lê «div. 02, subdiv. -» deve ler-se «div. -, subdiv. 02».",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DR 172/91): no cap. 03, «Div.- - subdiv. 03» passa a «Div.- - subdiv. 02»; a única ocorrência de div. - com subdiv. 03 é a correção da unidade 6 («div. -, subdiv. 03»), em que se trocou só 03 por 02, mantendo a grafia do texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

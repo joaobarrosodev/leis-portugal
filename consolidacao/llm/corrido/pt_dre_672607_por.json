@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:672607:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 135/2017, artigo 10.º): revoga a Portaria 850/99 só na parte relativa ao cartão de livre-trânsito dos oficiais de justiça. É uma revogação parcial por matéria: os pontos 1.º a 4.º servem também os restantes funcionários de justiça e os modelos só vêm em imagem. Não há alteração textual que se possa aplicar com segurança. Os artigos 1.º a 9.º e 11.º aprovam um regime novo e não alteram o texto do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 135/2017): revogação parcial («na parte relativa ao cartão de livre-trânsito para uso dos oficiais de justiça»), não textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

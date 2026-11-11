@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:292495:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 96/91 (quadro I, 4.ª linha) cita «0,4 =< V < 1 - -», que não coincide com o texto atual («0,4 =< V < 1 - - - -»), e a nova redação vem truncada (símbolo perdido e quebra de parágrafo: «0,4 =< V / 1 - (mais ou menos) 1»); não se aplica com segurança.",
+  "instrucoes": [
+    "Rectificação 96/91 ao quadro I, 4.ª linha: texto citado não coincide e redação nova ilegível; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

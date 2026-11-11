@@ -590,3 +590,7 @@ Mais 120 diplomas (`llm/corrido-ids-bloco21.txt`, de 377 candidatos; 47 saltados
 ### Bloco 22 (ronda 39)
 
 Mais 120 diplomas (`llm/corrido-ids-bloco22.txt`, de 257 candidatos; 47 saltados por tamanho). 55 sem alterações, 64 juntados, 1 recusado. Ronda 39: 64 verificados às cegas, **57 sem reparos: 48 % do bloco (89 % dos verificados)**. Acumulado das rondas 17 a 39: **1 129 em 2 560 (44 %)**. Ficam cerca de 137 candidatos.
+
+### Bloco 23 (ronda 40)
+
+Últimos 89 diplomas que cabem no limite de 120 000 caracteres por pedido (`llm/corrido-ids-bloco23.txt`). 30 sem alterações, 58 juntados, 1 recusado. Ronda 40: 58 verificados às cegas, **56 sem reparos: 63 % do bloco (97 % dos verificados)**. Acumulado das rondas 17 a 40: **1 185 em 2 649 (45 %)**. Ficam 48 candidatos com pedidos acima de 120 000 caracteres.

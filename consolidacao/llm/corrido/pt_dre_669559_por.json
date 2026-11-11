@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:669559:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação 170/91): manda ler «Cap. 02, div. 02» onde se lê «Cap. 02, div. 02, subdiv. 01». Esse texto não existe tal qual no original (a unidade 5 tem «Cap. 02, div. 02 subdiv. 01», sem vírgula, já seguido de «deve ler-se «Cap. 02, div. 02»»); aplicá-lo deixaria a unidade 5 a dizer que «Cap. 02, div. 02» deve ler-se «Cap. 02, div. 02». O alvo é ambíguo, por isso não se aplica.",
+  "instrucoes": [
+    "Alterador 1 (DR 170/91): «Cap. 02, div. 02, subdiv. 01» passa a «Cap. 02, div. 02»; o texto não existe tal qual e o alvo é ambíguo; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

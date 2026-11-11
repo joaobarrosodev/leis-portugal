@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:2534162:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "N.º 2 do artigo 1.º da Portaria n.º 56/2012: as zonas do perímetro de proteção da Calvaria de Baixo do anexo II são alteradas pelo anexo I do alterador, que só vem em imagem (carta). N.º 3 do artigo 1.º: o quadro do anexo IV respeitante ao pólo da Calvaria de Baixo é substituído pelo anexo II do alterador, quadro de coordenadas que só vem em imagem.",
+  "instrucoes": [
+    "Art. 1.º, n.º 1: declaração de objeto, sem alteração textual.",
+    "Art. 1.º, n.º 2: alteração das zonas da Calvaria de Baixo no anexo II por planta em imagem: não aplicada.",
+    "Art. 1.º, n.º 3: substituição do quadro da Calvaria de Baixo no anexo IV por quadro em imagem: não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

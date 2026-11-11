@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:459472:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 rectifica a Declaração de Rectificação n.º 101/91 com 'onde se lê / deve ler-se' que só vem em imagem (ver documento original); o texto a trocar não está disponível.",
+  "instrucoes": [
+    "Alterador 1: rectificação de quadro só em imagem — não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

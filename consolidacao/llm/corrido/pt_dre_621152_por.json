@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:621152:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 22,
+      "texto": "2.º - (Revogado.)\n\n3.º - (Revogado.)\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 256/2000, art. 6.º, n.º 2: revoga o capítulo II (pontos 2.º a 5.º); o título do capítulo fica e cada ponto passa a (Revogado.) (unidades 10-22).",
+    "Os arts. 2.º a 5.º e o art. 6.º, n.º 1, são dirigidos ao DL 264/98 e ao DL 54/93; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

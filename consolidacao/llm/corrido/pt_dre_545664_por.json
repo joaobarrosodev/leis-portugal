@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:545664:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "3 - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (n.º 11): revoga o ponto 3 do Despacho Normativo n.º 4/2006 — unidade 9 passa a \"3 - (Revogado.)\"."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

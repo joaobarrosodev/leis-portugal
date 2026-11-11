@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:892657:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 18,
+      "texto": "a) Representantes dos caçadores:\n\ni) Jaime Manuel Gonçalves Murta;\n\nii) Joaquim José Estevens da Silva;\n\nb) Representantes dos agricultores:\n\ni) Pedro Manuel Vale Soares Rodrigues Palma;\n\nii) António José Francisco da Palma;\n\nc) Autarca de freguesia, João Carlos Rodrigues;\n\nd) Representante da Autoridade Florestal Nacional, Silvestre Manuel Valente Marques;\n\ne) Representante do Instituto da Conservação da Natureza e da Biodiversidade, Pedro Nuno Azeda Rocha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 5,
+      "texto": "Artigo 1.º\n\nConstituição",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: autarca de freguesia passa a João Carlos Rodrigues (unidade 14) — absorvido pela nova redação do alterador 2, que já o inclui.",
+    "Alterador 2, artigo único: nova redação do artigo 1.º — inserida a epígrafe 'Artigo 1.º / Constituição' antes da unidade 6 (que não muda) e substituídas as unidades 7 a 18."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:551834:por",
+  "substituicoes": [
+    {
+      "de": 26,
+      "ate": 29,
+      "texto": "3 - Os grupos a que se refere o número anterior são organizados por níveis de proficiência linguística e não por ciclo ou nível de ensino, devendo os materiais didácticos a utilizar ser adequados à faixa etária dos alunos.\n\n4 - Cada grupo de nível de proficiência linguística deve ser constituído, no mínimo, por 10 alunos, podendo, no entanto, caso tal não seja possível, serem agrupados aqueles níveis (iniciação e intermédio), de modo a respeitar esse mínimo.\n\n5 - O professor titular da turma do 1.º ciclo e os professores de cada conselho de turma devem contribuir para a construção de materiais didácticos e para a construção de glossários temáticos para as áreas curriculares.\n\n6 - As actividades a desenvolver no âmbito do presente despacho normativo atendem às necessidades do aluno ou do grupo de alunos e são de frequência obrigatória.\n\n7 - No decurso do ano lectivo o aluno, de acordo com o seu progresso, pode transitar de grupo de nível de proficiência linguística.",
+      "alterador": 1
+    },
+    {
+      "de": 32,
+      "ate": 34,
+      "texto": "1 - Os alunos que se encontram no nível de iniciação ou no nível intermédio devem frequentar o PLNM, equivalente à disciplina de Língua Portuguesa, com a mesma carga horária desta disciplina.\n\n2 - Deve ser reservado um período de 45 minutos da carga horária semanal atribuída ao PLNM para trabalhar a língua portuguesa enquanto língua veicular das restantes disciplinas.",
+      "alterador": 1
+    },
+    {
+      "de": 37,
+      "ate": 38,
+      "texto": "Os alunos que se encontram no nível avançado devem frequentar a disciplina de Língua Portuguesa e não o PLNM.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 47,
+      "texto": "4 - Os alunos de PLNM que obtenham aprovação na disciplina no final do ano lectivo transitam obrigatoriamente para o nível seguinte de proficiência linguística.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "3.º: a epígrafe e os n.os 1 e 2 ficam; novos n.os 3 e 4; os antigos 3, 4 e 6 passam a 5, 6 e 7; o antigo n.º 5 não vem na nova redação e sai (unidades 26-29).",
+    "4.º: a epígrafe fica; os n.os 1 e 2 têm redação nova; o antigo n.º 3 não vem na nova redação e sai (unidades 32-34).",
+    "5.º: a epígrafe fica; o corpo (n.os 1 e 2) é substituído por um parágrafo único (unidades 37-38).",
+    "6.º: os n.os 1 a 3 ficam; acrescenta-se um n.º 4 a seguir à unidade 47.",
+    "O n.º 2 do despacho alterador (entrada em vigor) não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:682865:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Declaração de Rectificação n.º 85/93: retifica o sumário (Decreto-Lei n.º 50/83 por 50/93), que não consta do texto do original; o corpo já diz Decreto-Lei n.º 50/93.",
+  "instrucoes": [
+    "Alterador 1: retificação do sumário — o sumário não está no texto; nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

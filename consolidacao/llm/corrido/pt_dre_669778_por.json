@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:669778:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "No cap. 03, div. 10, subdiv. 01, C. F. 3.02.0, C. E. 01.01.04, na coluna de anulações, onde se lê «1200» deve ler-se «1280».",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (DR 171/91), 1.ª correção: no cap. 01, div. 18, subdiv. 02, C. F. 3.01.0, C. E. 06.03.00, alínea A, coluna de anulações, «3000» passa a «2». Na unidade 10, o «3000» da coluna de anulações é o valor do «onde se lê»; trocá-lo daria «onde se lê «2» deve ler-se «-»», e pode ser que se queira trocar o valor corrigido «-». O alvo é ambíguo, por isso não se aplica.",
+  "instrucoes": [
+    "Alterador 1 (DR 171/91), 1.ª: anulações da div. 18, subdiv. 02, «3000» passa a «2»; ambíguo, não aplicado.",
+    "Alterador 1 (DR 171/91), 2.ª: no cap. 03, div. 10, subdiv. 01, C. F. 3.02.0, «C. E. 01.01.01» passa a «C. E. 01.01.04»; aplicado na unidade 12."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

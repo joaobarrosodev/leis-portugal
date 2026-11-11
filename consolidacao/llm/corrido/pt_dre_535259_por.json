@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:535259:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "2.º A presente portaria mantém-se em vigor até 30 de Março de 2002.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto-Lei n.º 131/2000, artigo único: nova redação do n.º 2.º (vigência até 30 de Março de 2002); substituída a unidade 12."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "pt:dre:2800997:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 9,
+      "texto": "Carlos Gomes Viegas.\n\nVítor Manuel da Conceição Rodrigues.",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 12,
+      "texto": "José António Domingos.\n\nManuel Rodrigues Vaz.",
+      "alterador": 1
+    },
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "Ana Lídia Freitas Monteiro do Valle Fernandes.",
+      "alterador": 1
+    },
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "José Manuel Madeira Neto.",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 19,
+      "texto": "Representante da Autoridade Florestal Nacional:\n\nAníbal António Vidigal Vinhas.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redação do n.º 1.º (Portaria 1038/2009): nomes passam a terminar em ponto em vez de ponto e vírgula; representante da DRA Algarve substituído pelo da Autoridade Florestal Nacional (Aníbal António Vidigal Vinhas); ICN passa a ICNB; substituídas as unidades 8-9, 11-12, 14, 16 e 17-19."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

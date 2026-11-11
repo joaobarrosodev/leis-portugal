@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:629106:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 235/2016, art. 1.º, dá nova redação ao plano de estudos (anexo); os quadros só vêm em imagem, por isso não se aplica.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 235/2016), art. 1.º: novo plano de estudos no anexo, que vem em imagem; não aplicado. Os arts. 2.º (transição) e 3.º (aplicação) não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

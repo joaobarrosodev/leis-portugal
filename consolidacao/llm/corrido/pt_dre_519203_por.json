@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:519203:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "Portugal é Parte desta Convenção, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 23/89](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/23-1989-618545), publicada no Diário da República, 1.ª série-A, n.º 191, de 21 de Agosto de 1989, e ratificada pelo [Decreto do Presidente da República n.º 57/89](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/57-1989-618542), publicado no Diário da República, 1.ª série-A, n.º 191, de 21 de Agosto de 1989, tendo depositado o seu instrumento de ratificação conforme o Aviso publicado no Diário da República, 1.ª série-A, n.º 76, de 31 de Março de 1990.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Retificação (Aviso n.º 203/2007): o parágrafo 'Portugal é Parte desta Convenção...' passa a ter a redação 'deve ler-se'; substituída a unidade 6."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

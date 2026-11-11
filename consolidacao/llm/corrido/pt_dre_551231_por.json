@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:551231:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 235/2003 (alterador 7), artigo 15.º, revoga a Portaria n.º 1107/89 por inteiro, com todas as alterações. As alterações anteriores (alteradores 1 a 6) só mexem nos anexos I e II, que vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1208/91): altera o anexo I, parte B, aflatoxina B1; o quadro só vem em imagem; não aplicado.",
+    "Alterador 2 (Portaria 408/94): altera o anexo II (cádmio) e acrescenta uma posição; o quadro só vem em imagem; não aplicado.",
+    "Alterador 3 (Portaria 941/95): altera o anexo I, parte A, arsénio; o quadro só vem em imagem; não aplicado.",
+    "Alterador 4 (Portaria 62/97): altera o anexo I, parte B, aflatoxina B; o quadro só vem em imagem; não aplicado.",
+    "Alterador 5 (DL 391/98): acrescenta subpontos aos anexos I e II; o quadro só vem em imagem; não aplicado.",
+    "Alterador 6 (DL 182/99), art. 4.º: substitui os anexos I e II, que vêm em imagem; os arts. 1.º a 3.º são dirigidos a outros diplomas; ignorados.",
+    "Alterador 7 (DL 235/2003), art. 15.º: revoga a portaria por inteiro; nada é devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

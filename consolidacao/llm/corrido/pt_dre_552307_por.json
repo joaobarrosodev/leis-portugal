@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:552307:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1366/2007, 1.º, muda os limites da zona vulnerável n.º 5, Tejo, que constam do anexo; o anexo só vem em imagem (carta), por isso não há alteração textual que se possa aplicar.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1366/2007), 1.º: os limites da zona vulnerável n.º 5 passam a ser os do novo anexo, que vem em imagem; não aplicado. O 2.º (depósito das cartas) não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

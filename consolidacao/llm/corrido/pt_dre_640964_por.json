@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:640964:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 1626/2007, 1.º): a nova redação do anexo, quanto ao curso de Saúde Materna e Obstetrícia da Escola Superior de Enfermagem de São João de Deus, só vem em imagem (ver documento original); o quadro original também só existe em imagem. Não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1626/2007): altera o anexo (vagas de Saúde Materna e Obstetrícia, ESE São João de Deus); quadro só em imagem, não aplicado. O 2.º (produção de efeitos) não é alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

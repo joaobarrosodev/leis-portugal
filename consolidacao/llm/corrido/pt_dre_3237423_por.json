@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:3237423:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "«2 - O presente despacho produz efeitos a 1 de Julho de 2011.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retifica «1 de Julho de 2001» para «1 de Julho de 2011» na unidade 6."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

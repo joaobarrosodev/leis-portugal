@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:544845:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (n.os 1.º e 2.º): altera as notas (a) e (b) do plano de estudos anexo e republica-o, mas o plano (original e republicado) só existe em imagem; não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1: alteração das notas do plano de estudos anexo e sua republicação (só em imagem) — não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:2681494:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "Representante das associações de defesa do ambiente:",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 18,
+      "texto": "Representante da Autoridade Florestal Nacional:\n\nÁlvaro Manuel Vieira Gonçalves.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redação do n.º 1.º (Portaria 1278/2009): só mudam a epígrafe do representante das associações de defesa do ambiente (minúsculas) e o representante da DRAEDM, substituído pelo da Autoridade Florestal Nacional; substituídas as unidades 13 e 17-18."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

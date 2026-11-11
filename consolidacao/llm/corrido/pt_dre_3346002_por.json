@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:3346002:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "6.º Esta cessão fica sujeita à clausula de reversão, nos termos do artigo 2.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a qual terá que ser registada na Conservatória do Registo Predial, como ónus, devendo as obras ter início no prazo máximo de 3 anos a contar da data de assinatura do auto de cessão definitiva, e concluídas no prazo de 5 anos a contar do seu início",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 prorroga por um ano o prazo de início das obras do 6.º e fixa prazo para o aditamento ao auto de cessão, sem dar nova redação: alteração não textual.",
+  "instrucoes": [
+    "Alterador 1: nova redação do 6.º (unidade 11).",
+    "Alterador 2, 1.º: prorrogação do prazo do 6.º sem nova redação; não aplicada.",
+    "Alterador 2, 2.º: prazo para aditamento ao auto de cessão; norma própria, não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

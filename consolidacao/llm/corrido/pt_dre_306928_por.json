@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:306928:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Nenhum alterador muda o texto: a Portaria n.º 220-A/2008 (artigo 4.º) extingue as secretarias criadas pela Portaria n.º 433/99, mantendo-as como liquidatárias, e as Portarias n.os 1052/2008 e 1314/2008 fazem cessar essa situação de liquidatária; são efeitos não textuais (nem revogação expressa do texto), pelo que nada se aplica.",
+  "instrucoes": [
+    "Alterador 1, artigo 4.º: extinção das secretarias de Lisboa e Porto como liquidatárias - não textual, não aplicado.",
+    "Alterador 2, artigo 2.º: cessa a situação de liquidatária da Secretaria-Geral de Injunção do Porto - não textual, não aplicado.",
+    "Alterador 3, artigo 1.º: cessa a situação de liquidatária da Secretaria-Geral de Injunção de Lisboa - não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
