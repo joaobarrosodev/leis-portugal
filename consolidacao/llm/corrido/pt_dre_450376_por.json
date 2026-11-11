@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:450376:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "3.º Os cartões de identidade serão de cor branca, com uma faixa diagonal, com as cores verde e vermelha no canto superior esquerdo, mas os destinados ao pessoal dos gabinetes constantes do n.º 1, bem como ao pessoal dirigente por ele abrangido, terão na parte inferior esquerda a menção 'Livre trânsito', a vermelho.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria 1052/2010, art. 7.º, n.º 2) faz cessar a validade dos cartões emitidos pela IGAC ao abrigo da Portaria 1499/95: efeito não textual, não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 3.º - unidade 7 substituída.",
+    "Alterador 1, 2.º: produção de efeitos, norma própria - ignorada.",
+    "Alterador 2, art. 7.º n.º 2: cessação da validade dos cartões da IGAC - não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

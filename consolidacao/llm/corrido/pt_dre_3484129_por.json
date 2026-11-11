@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:3484129:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 3 (Despacho n.º 10569/2011) fixa novos preços compreensivos (450,68 e 470,09 euros, sem e com acessos vasculares) e o preço por sessão, mas não dá nova redação ao Anexo I nem a nenhuma unidade do texto; é fixação de preços, não alteração textual, e não se aplica.",
+  "instrucoes": [
+    "Alt. 1, n.º 3: mantém em vigor o Despacho n.º 4325/2008 para o preço compreensivo; não altera o texto.",
+    "Alt. 2, n.º 1: nova redação das cláusulas 5.ª (n.º 6 aditado) e 14.ª (n.º 1) do clausulado tipo aprovado pelo Despacho n.º 7001/2002, alterado e republicado pelo original; é alteração ao Despacho n.º 7001/2002, outro diploma, e foi ignorada.",
+    "Alt. 3: novos preços da diálise para efeitos do clausulado tipo, sem nova redação do texto; não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

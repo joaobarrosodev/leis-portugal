@@ -1,0 +1,45 @@
+{
+  "id": "pt:dre:425522:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "c) Ter idade igual ou inferior a 30 anos de idade no dia 31 de Dezembro do ano de abertura do concurso, excepto no que respeita aos militares dos quadros permanentes;",
+      "alterador": 2
+    },
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "e) Encontrarem-se abrangidos pela Lei do Serviço Militar e com a sua situação regularizada perante os imperativos decorrentes desta lei e seu regulamento;",
+      "alterador": 2
+    },
+    {
+      "de": 37,
+      "ate": 37,
+      "texto": "2) Para o ramo farmacêutico, o director do Laboratório Militar de Produtos Químicos Farmacêuticos (LMPQF), como presidente, e 3 oficiais farmacêuticos, correspondentes às 3 opções da licenciatura em Ciências Farmacêuticas, como vogais.",
+      "alterador": 1
+    },
+    {
+      "de": 72,
+      "ate": 77,
+      "texto": "25.º As provas do concurso para provimento de vacaturas no quadro permanente de oficiais farmacêuticos englobam:\n\na) Uma prova escrita versando temas comuns às 3 opções da licenciatura em Ciências Farmacêuticas e temas específicos a cada uma das opções, de acordo com a opção de licenciatura de cada candidato;\n\nb) Provas práticas específicas da opção de licenciatura de cada candidato;\n\nc) Uma prova oral.",
+      "alterador": 1
+    },
+    {
+      "de": 78,
+      "ate": 82,
+      "texto": "26.º A publicação no Diário da República a que se refere o § único do n.º 1.º deve incluir uma referência às matérias de estudo sobre as quais incidirão as provas constantes do n.º 25.º",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação da alínea 2) do n.º 9.º (unidade 37); 1), 3) e corpo ficam.",
+    "Alterador 1, 2.º: nova redação do n.º 25.º (unidades 72-77 substituídas pelo corpo e alíneas a) a c)) e do n.º 26.º (unidades 78-82 substituídas pelo novo n.º 26.º de um só parágrafo).",
+    "Alterador 2, 1.º: nova redação das alíneas c) e e) do n.º 2.º (unidades 12 e 14); restantes alíneas com '...' ficam."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

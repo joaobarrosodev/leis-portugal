@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:408348:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 687/74 mantém a taxa de 10$70 para 1975 e a Portaria n.º 154/76 fixa nova taxa de 13$00 a partir de 1976; são fixações autónomas da taxa, não alterações do texto do n.º 1.º do original. Não aplicadas.",
+  "instrucoes": [
+    "Alterador 1: mantém em 1975 a taxa de 10$70 do n.º 1.º; sem alteração textual.",
+    "Alterador 2, n.os 1.º e 2.º: fixa a taxa em 13$00 a partir de 1 de Janeiro de 1976 por ato próprio; não reescreve o n.º 1.º; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

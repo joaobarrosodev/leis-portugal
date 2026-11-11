@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:446938:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 274/79) muda a remuneração dos lugares de chefe de secretaria do quadro, que só existe em imagem: alteração não textual. Alterador 2 (Portaria 448/82, n.º 3.º) substitui o quadro de pessoal pelo quadro anexo III, que só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1: lugares de chefe de secretaria do quadro passam à letra I - quadro em imagem, não aplicado.",
+    "Alterador 2, 3.º: quadro de pessoal substituído pelo anexo III - anexo só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

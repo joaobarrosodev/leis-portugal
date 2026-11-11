@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:383673:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 15,
+      "texto": "c) Executar gradualmente um sistema de contabilidade geral, orçamental e analítica, segundo métodos racionais e científicos, de modo a assegurar desde já a informação de gestão necessária;\n\nd) Apoiar tecnicamente, em termos de gestão económico-financeira, os órgãos da sua área e fornecer, com oportunidade, informações que contribuam para uma mais eficaz e esclarecida acção de comando, direcção ou chefia;\n\ne) Prestar, de acordo com as normas fixadas superiormente, informações de gestão, através de relatórios de actividades financeiras, complementados com mapas de gestão, estatísticas e outros documentos julgados convenientes;\n\nf) Exercer superintendência técnica sobre os órgãos das unidades, estabelecimentos e outros da sua área de apoio;\n\ng) Desenvolver outras actividades que no campo administrativo-financeiro lhe venham a ser superiormente determinadas;\n\nh) A verificação das contas das unidades, estabelecimentos e outros órgãos prevista nos artigos 140.º e seguintes do [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959, dentro da sua área de apoio;\n\ni) Fiscalizar as actividades desenvolvidas no âmbito da gestão financeira da sua área de apoio.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 15,
+      "texto": "3 - O Centro de Gestão Financeira da Logística compreende:\n\na) Chefe do Centro de Gestão;\n\nb) Adjunto-inspector;\n\nc) Secção de Gestão e Análise Económico-Orçamental;\n\nd) Secção de Gestão Financeira e Contabilidade;\n\ne) Secção de Verificação de Contas;\n\nf) Secção de Expediente e Arquivo.\n\n4 - As datas em que o CGF/Logística passa a desempenhar as atribuições referidas na alínea h) e i) do n.º 1, bem como a definição das unidades, estabelecimentos e outros órgãos ou instalações que ficam integrados na área de apoio do mesmo Centro, serão fixadas por despacho do CEME.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1: aditamento de um n.º 3 (QO provisório difundido por despacho do CEME) que colide com o n.º 3 depois aditado pelo alterador 2 como número novo, sem o substituir nem renumerar; não é seguro manter os dois n.os 3, pelo que só ficou o do alterador 2.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: adita o n.º 3 — não aplicado por colisão de numeração com o n.º 3 do alterador 2, em nao_aplicavel.",
+    "Alterador 2, n.º 1: nova redação do n.º 2 — corpo e alíneas a) e b) iguais; unidades 10 a 15 substituídas (antiga c) eliminada, alíneas reletradas, novas h) e i)).",
+    "Alterador 2, n.º 2: adita os n.os 3 e 4 — inseridos depois da unidade 15."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:426077:por",
+  "substituicoes": [
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "No lado direito a data de emissão do cartão (ano com quatro dígitos, mês e dia) e, no canto inferior direito, o código de barras que represente o número de identificação do utente e a existência - sim ou não - de: regime especial de comparticipação de medicamentos; isenção de taxas moderadoras; outras situações de isenção e subsistema de saúde ou seguradora.",
+      "alterador": 1
+    },
+    {
+      "de": 32,
+      "ate": 32,
+      "texto": "Número de identificação, nome completo, data de nascimento, sexo, naturalidade, nacionalidade, região de saúde, sub-região de saúde, centro de saúde - sede e ou extensão - da residência do utente, subsistema de saúde/seguradora que suporta/comparticipa nos encargos com saúde, respectivo número de beneficiário/apólice e data de validade, código de: regime especial de comparticipação de medicamentos e respectiva data de validade; isenção de taxas moderadoras e respectiva data de validade, e outras situações de isenção, com a respectiva data de validade.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (retificação), Zona C: acrescentado ao fim da frase do código de barras 'e a existência - sim ou não - de: ...' (unidade 28).",
+    "Alterador 1 (retificação), Zona D: 'existência - sim ou não - de:' passa a 'código de:' (unidade 32); o resto da unidade igual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

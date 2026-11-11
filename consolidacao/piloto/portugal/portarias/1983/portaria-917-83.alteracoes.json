@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1) Chefe da Missão - o embaixador de Portugal;\n\n2) Chefe-adjunto da Missão - funcionário do quadro do pessoal do serviço diplomático com a categoria de ministro plenipotenciário de 1.ª classe ou de 2.ª classe;\n\n3) Membros da Missão:\n\na) 3 funcionários do quadro do pessoal do serviço diplomático de qualquer categoria;\n\nb) 1 conselheiro técnico principal;\n\nc) 4 conselheiros técnicos;\n\nd) 2 adidos técnicos;\n\n4) Pessoal assalariado:\n\n1 chanceler;\n\n1 arquivista;\n\n2 secretários-tradutores;\n\n3 secretários de 1.ª classe;\n\n2 secretários de 2.ª classe;\n\n1 escriturário-dactilógrafo;\n\n1 motorista;\n\n1 contínuo;\n\n2 auxiliares de serviço.",
+    "depois": "1) Chefe da Missão, 1 funcionário do quadro do pessoal do serviço diplomático com a categoria de embaixador;\n\n2) Chefe adjunto da Missão, 1 funcionário do quadro do pessoal do serviço diplomático com a categoria de ministro plenipotenciário de 1.ª classe ou de 2.ª classe;\n\n3) Pessoal diplomático:\n\n15 funcionários do quadro do pessoal do serviço diplomático de qualquer categoria;\n\n4) Pessoal especializado:\n\n25 funcionários do quadro do pessoal especializado com a categoria de conselheiro técnico principal, conselheiro ou adido técnico;\n\n5) Pessoal administrativo:\n\n2 funcionários do quadro do pessoal administrativo;\n\n6) Pessoal assalariado:\n\n3 chanceleres;\n\n3 arquivistas;\n\n11 assistentes tradutores;\n\n3 secretários de 1.ª classe;\n\n2 secretários de 2.ª classe;\n\n2 escriturários-dactilógrafos;\n\n3 telefonistas;\n\n3 motoristas;\n\n1 porteiro;\n\n3 contínuos;\n\n3 guardas;\n\n3 auxiliares de serviço.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:441280:por",
+    "alterador": "pt:dre:178358:por"
+  }
+]

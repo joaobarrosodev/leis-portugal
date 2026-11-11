@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:400218:por",
+  "substituicoes": [
+    {
+      "de": 32,
+      "ate": 38,
+      "texto": "a) Projecto ... 57\n\nb) Desenho ... 13\n\nc) Geometria ... 10,5\n\nd) Teoria da Arquitectura ... 13,5\n\ne) História da Arquitectura ... 21\n\nf) Construção ... 30\n\ng) Urbanismo ... 12\n\nh) Geografia ... 6",
+      "alterador": 2
+    },
+    {
+      "de": 40,
+      "ate": 49,
+      "texto": "a) Estética ... 4,5\n\nb) Paisagismo ... 4,5",
+      "alterador": 2
+    },
+    {
+      "de": 69,
+      "ate": 69,
+      "texto": "a) Obtenção de 167,5 unidades de crédito nos termos do n.º 5.º;",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 15,
+      "texto": "1.º-A\n\nMinistração do curso em Viseu\n\n1 - O curso poderá ser ministrado no Porto e em Viseu.\n\n2 - À transferência de alunos entre as duas cidades onde a Faculdade ministre o curso aplicam-se, com as necessárias adaptações, as regras do regime de transferência.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: aditado o n.º 1.º-A: inserido depois da unidade 15 (fim do n.º 1.º)",
+    "Alterador 1, 2.º: altera a Portaria n.º 525/87 (outro diploma): ignorado",
+    "Alterador 2, 1.º: nova redacção do n.º 5.º: obrigatórias (unidades 32-38) e optativas (40-49) substituídas; número, epígrafe e corpos 1 e 2 iguais em conteúdo (a epígrafe só difere nos parênteses tipográficos), mantidos",
+    "Alterador 2, 1.º: nova redacção do n.º 10.º: só muda a alínea a) (unidade 69)",
+    "Alterador 3: repete o texto do alterador 2 (mesma Portaria n.º 947/89); nada a acrescentar"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

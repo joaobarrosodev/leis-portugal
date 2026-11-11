@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:378497:por",
+  "substituicoes": [
+    {
+      "de": 31,
+      "ate": 32,
+      "texto": "8.ª (Revogada.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2: substituição do anexo, que tanto no original como no alterador só vem em imagem (ver documento original); não aplicável textualmente.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: revoga a norma 8.ª — unidades 31 (corpo) e 32 (quadro) substituídas por \"8.ª (Revogada.)\".",
+    "Alterador 1, n.º 2: substitui o anexo (imagem) — não aplicado, em nao_aplicavel.",
+    "Alterador 1, n.º 3: produção de efeitos — não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 31-32: parágrafo que não está no alterador nem no original: 8.ª (Revogada.)"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:378076:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O Despacho Normativo n.º 41/83 acresce 6600$00 por hectare à bonificação do n.º 2, até 60000 contos, por norma autónoma; não dá nova redação ao n.º 2, logo não é uma alteração textual.",
+  "instrucoes": [
+    "Alterador 1: acréscimo à bonificação do n.º 2 por norma autónoma — não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

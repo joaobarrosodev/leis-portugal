@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:458410:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 271/82, 3.º: o mapa n.º 2 é substituído pelo mapa anexo à Portaria 271/82, que só vem em imagem; não há texto a aplicar (unidade 31 é uma imagem).",
+  "instrucoes": [
+    "Portaria 1018/81, 3.º: afeta os lugares de agente técnico agrícola do mapa do Decreto-Lei n.º 25/81 ao quadro da Escola do Rodo; altera outro diploma, ignorada.",
+    "Portaria 271/82, 1.º e 3.º: substitui o mapa n.º 2 (pessoal não docente) por um mapa em imagem: não aplicável.",
+    "Portaria 271/82, 2.º: autorização de admissão de pessoal; não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

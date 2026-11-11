@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:401921:por",
+  "substituicoes": [
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "O curso pode começar a funcionar a partir do ano lectivo de 1996-1997, inclusive.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 177/2003), 1.º: o anexo (plano de estudos) passa a ter a redacção do anexo da portaria, cujos quadros só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 886/97): nova redacção do n.º 5.º; epígrafe igual, corpo da unidade 22 substituído.",
+    "Alterador 2, 1.º: novo anexo com quadros só em imagem, não aplicado. 2.º a 4.º são normas próprias do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

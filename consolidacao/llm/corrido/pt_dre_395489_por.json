@@ -1,0 +1,51 @@
+{
+  "id": "pt:dre:395489:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "O curso desdobra-se nos ramos de:",
+      "alterador": 1
+    },
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "f) Matemática e Estatística.",
+      "alterador": 1
+    },
+    {
+      "de": 60,
+      "ate": 61,
+      "texto": "Área científica de cada ramo ... 21\n\nÁreas científicas optativas ... 12",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 30,
+      "texto": "e) Ciências da Educação;",
+      "alterador": 1
+    },
+    {
+      "depois_de": 58,
+      "texto": "Ciências da Educação ... 2",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º, 1: nova redação do n.º 2.º: o corpo deixa de ter n.º 1 e o n.º 2 desaparece (unidades 15 e 20).",
+    "Alterador 1, n.º 1.º, 2: nova redação do n.º 1 do n.º 4.º: aditada a alínea e) Ciências da Educação e a antiga e) passa a f) (inserção depois de 30, unidade 31).",
+    "Alterador 1, n.º 1.º, 3: nova redação do n.º 7.º: aditada a linha Ciências da Educação ... 2, alteradas as linhas da área de cada ramo e das optativas (inserção depois de 58, unidades 60-61).",
+    "Alterador 1, n.º 1.º, 4: altera a Portaria n.º 777/83, outro diploma: ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

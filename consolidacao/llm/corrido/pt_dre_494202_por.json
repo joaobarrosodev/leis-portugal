@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:494202:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 11,
+      "texto": "1 - Aprovar a inclusão da requalificação do edifício do Museu de Arte Popular nos objectivos e linhas de orientação da requalificação e da reabilitação da frente ribeirinha de Lisboa, inscritos no documento estratégico Frente Tejo, anexo à [Resolução do Conselho de Ministros n.º 78/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/78-2008-249206), de 15 de Maio, para a área de intervenção Ajuda-Belém.\n\n2 - (Revogado.)\n\n3 - Determinar que todos os encargos inerentes à requalificação do edifício do Museu de Arte Popular, incluindo as despesas com elaboração de projectos, empreitada, fiscalização, conteúdos expositivos, coordenação técnica e gestão integrada da intervenção, são suportados pelo orçamento afecto ao Ministério da Cultura, mediante transferência para a Frente Tejo, S. A., sem prejuízo de apoios que venham a ser concedidos no âmbito do Quadro de Referência Estratégico Nacional.",
+      "alterador": 1
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "5 - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação dos n.os 1 e 3 — substituídas as unidades 9 e 11; n.º 4 mantido ('...').",
+    "Alterador 1, n.º 2: revogados os n.os 2 e 5 — unidades 10 e 13 passam a '(Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

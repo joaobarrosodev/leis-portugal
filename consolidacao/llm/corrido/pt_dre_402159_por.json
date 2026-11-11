@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:402159:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Silvares, município do Fundão, com a área de 1319,50 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 965/2005) renova a concessão e anexa prédios (área total de 3626 ha, planta só em imagem), sem dar nova redacção a nenhum ponto do original; não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 1.º; unidade 6 substituída mantendo a numeração 1.º.",
+    "Alterador 1: aditado o n.º 1.º-A; inserido a seguir à unidade 6.",
+    "Alterador 1, 2.º e 3.º: normas próprias.",
+    "Alterador 2: renovação e anexação de terrenos; não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

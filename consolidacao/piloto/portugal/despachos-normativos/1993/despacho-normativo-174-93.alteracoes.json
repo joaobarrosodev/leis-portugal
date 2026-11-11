@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 13-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "As quantidades de milho indicadas deverão estar convertidas em peso equivalente à taxa de humidade de 14%;\n\nAs quantidades de arroz em casca indicadas deverão estar convertidas em peso equivalente à taxa de humidade 14,5%;",
+    "depois": "As quantidades de milho indicadas deverão estar convertidas em peso equivalente à taxa de humidade de 14,5%;\n\nAs quantidades de arroz em casca indicadas deverão estar convertidas em peso equivalente à taxa de humidade de 14,5%;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:345526:por",
+    "alterador": "pt:dre:433031:por;pt:dre:621332:por"
+  },
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "9 - Se o controlo de campo indicar um excedente superior a 10% ou a 5 ha entre as superfícies declaradas e controladas, serão indeferidos os pedidos de pagamento de ajuda efectuados no decurso da campanha de comercialização em causa.",
+    "depois": "9 - Se o controlo de campo indicar um excedente superior a 15% entre as superfícies declaradas e controladas, serão indeferidos os pedidos de pagamento de ajuda efectuados no decurso da campanha de comercialização em causa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:345526:por",
+    "alterador": "pt:dre:433031:por;pt:dre:621332:por"
+  }
+]

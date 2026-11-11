@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:380945:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 9,
+      "texto": "1.º (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: inclui o melão na alínea b) do n.º 1.º — sem efeito final, porque o n.º 1.º é depois revogado pelo alterador 2 (que revoga também a própria Portaria n.º 580/85).",
+    "Alterador 2, n.º 4.º: revoga o n.º 1.º — unidades 5 a 9 (corpo e alíneas) substituídas por \"1.º (Revogado.)\".",
+    "Alterador 2, n.os 1.º a 3.º: regime próprio de margens, não dirigido ao texto do original — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 5-9: parágrafo que não está no alterador nem no original: 1.º (Revogado.)"
+  ]
+}

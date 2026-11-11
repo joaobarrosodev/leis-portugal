@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 12-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Os preços de intervenção para o trigo, centeio, triticale, cevada forrageira e aveia para a campanha de produção de 1982-1983 a praticar pela EPAC são os seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/19900/25322534.pdf)",
+    "depois": "1.º Os preços de intervenção para o trigo, centeio, triticale, cevada forrageira e aveia para a campanha de 1982-1983 a praticar pela EPAC são os seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/18900/29492949.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:396694:por",
+    "alterador": "pt:dre:454860:por"
+  },
+  {
+    "artigo": "unidades 49-54",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1) Os preços do trigo serão acrescidos, a partir de Outubro de 1982, inclusive, até 31 de Maio de 1983, de 272$00 por tonelada e por mês;\n\n2) Os preços de centeio, triticale, cevada forrageira e aveia serão acrescidos, a partir de Setembro de 1982, inclusive, até 30 de Abril de 1983, das seguintes majorações por tonelada e por mês:\n\nCenteio - 259$00;\n\nTriticale - 264$00;\n\nCevada forrageira - 233$00;\n\nAveia - 189$00.",
+    "depois": "1) Os preços do trigo serão acrescidos, a partir de Outubro de 1983, inclusive, até 31 de Maio de 1984, de 294$00 por tonelada e por mês;\n\n2) Os preços do centeio, triticale, cevada forrageira e aveia serão acrescidos, a partir de Setembro de 1983, inclusive, até 30 de Abril de 1984, das seguintes majorações por tonelada e por mês:\n\nCenteio - 280$00;\n\nTriticale - 286$00;\n\nCevada forrageira - 254$00;\n\nAveia - 215$00.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:396694:por",
+    "alterador": "pt:dre:454860:por"
+  },
+  {
+    "artigo": "unidades 58-61",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "14.º Os preços de intervenção a praticar pela EPAC para a cevada dística qualificada para malte definida pelo Decreto-Lei n.º 47745, de 2 de Junho de 1967, e classificada pela [Portaria n.º 22757](https://diariodarepublica.pt/dr/detalhe/portaria/22757-1967-311784), de 28 do mesmo mês, são os seguintes por tonelada:\n\n1.ª classe - 18800$00;\n\n2.ª classe - 18600$00;\n\n3.ª classe - 18400$00.",
+    "depois": "14.º Os preços de intervenção a praticar pela EPAC para a cevada dística qualificada para malte, definida pelo Decreto-Lei n.º 47745, de 2 de Junho de 1967, e classificada pela [Portaria n.º 22757](https://diariodarepublica.pt/dr/detalhe/portaria/22757-1967-311784), de 28 de Junho de 1967, são os seguintes, por tonelada:\n\n1.ª classe - 20700$00;\n\n2.ª classe - 20470$00;\n\n3.ª classe - 20240$00.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:396694:por",
+    "alterador": "pt:dre:454860:por"
+  },
+  {
+    "artigo": "unidades 64-64",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "17.º Os preços de intervenção fixados no n.º 14.º serão acrescidos, a partir de Setembro de 1982, inclusive, até 30 de Abril de 1983, de 244$00 por tonelada e por mês.",
+    "depois": "17.º Os preços de intervenção fixados no n.º 14.º serão acrescidos, a partir de Setembro de 1983, inclusive, até 30 de Abril de 1984, de 269$00 por tonelada e por mês.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:396694:por",
+    "alterador": "pt:dre:454860:por"
+  }
+]

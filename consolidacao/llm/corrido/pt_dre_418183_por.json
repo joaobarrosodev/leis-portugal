@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:418183:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 substitui parte do quadro de pessoal anexo e alterador 2 (1.º) substitui todo o quadro; os quadros só vêm em imagem. O 2.º e o 3.º do alterador 2 são normas próprias da nova portaria, sem instrução de alteração do texto do 2.º do original.",
+  "instrucoes": [
+    "Alterador 1: substitui o quadro de pessoal na parte das carreiras de técnicos superiores de saúde, serviço social e biblioteca/arquivo/documentação (quadro em imagem) - não aplicado",
+    "Alterador 2, 1.º: substitui o quadro de pessoal anexo (quadro em imagem) - não aplicado",
+    "Alterador 2, 2.º e 3.º: normas próprias (unidades orgânicas, conteúdos funcionais), não dirigidas textualmente ao original - ignoradas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

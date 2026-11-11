@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:406542:por",
+  "substituicoes": [
+    {
+      "de": 34,
+      "ate": 41,
+      "texto": "7.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "N.º 18.º da Portaria n.º 346/98 revoga o n.º 7.º da Portaria n.º 393/96: unidades 34-41 (corpo, valores e quadro do anexo V que pertencem ao 7.º) substituídas por «7.º - (Revogado.)».",
+    "A revogação da Portaria n.º 1177/95 visa outro diploma: ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:367059:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 55/80 dá nova redação ao n.º 1.º, mas o corpo da frase é igual ao atual e o quadro das subunidades só vem em imagem (ver documento original); não há texto a aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (quadro de subunidades) — frase inicial idêntica, quadro só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

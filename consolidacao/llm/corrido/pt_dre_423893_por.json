@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:423893:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 387/99 (artigo 18.º) extingue o Grupo de Missão criado pela resolução, mas não revoga nem altera expressamente o texto da resolução; não há alteração textual a aplicar.",
+  "instrucoes": [
+    "Alterador 1, artigo 18.º: extinção do Grupo de Missão e transição para a ANEFA - não é instrução textual sobre a resolução, não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

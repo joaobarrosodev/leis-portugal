@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 28-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "No lado direito a data de emissão do cartão (ano com quatro dígitos, mês e dia) e, no canto inferior direito, o código de barras que represente o número de identificação do utente.",
+    "depois": "No lado direito a data de emissão do cartão (ano com quatro dígitos, mês e dia) e, no canto inferior direito, o código de barras que represente o número de identificação do utente e a existência - sim ou não - de: regime especial de comparticipação de medicamentos; isenção de taxas moderadoras; outras situações de isenção e subsistema de saúde ou seguradora.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:426077:por",
+    "alterador": "pt:dre:602496:por"
+  },
+  {
+    "artigo": "unidades 32-32",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Número de identificação, nome completo, data de nascimento, sexo, naturalidade, nacionalidade, região de saúde, sub-região de saúde, centro de saúde - sede e ou extensão - da residência do utente, subsistema de saúde/seguradora que suporta/comparticipa nos encargos com saúde, respectivo número de beneficiário/apólice e data de validade, existência - sim ou não - de: regime especial de comparticipação de medicamentos e respectiva data de validade; isenção de taxas moderadoras e respectiva data de validade, e outras situações de isenção, com a respectiva data de validade.",
+    "depois": "Número de identificação, nome completo, data de nascimento, sexo, naturalidade, nacionalidade, região de saúde, sub-região de saúde, centro de saúde - sede e ou extensão - da residência do utente, subsistema de saúde/seguradora que suporta/comparticipa nos encargos com saúde, respectivo número de beneficiário/apólice e data de validade, código de: regime especial de comparticipação de medicamentos e respectiva data de validade; isenção de taxas moderadoras e respectiva data de validade, e outras situações de isenção, com a respectiva data de validade.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:426077:por",
+    "alterador": "pt:dre:602496:por"
+  }
+]

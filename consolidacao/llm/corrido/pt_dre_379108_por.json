@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:379108:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 185/90), n.º 11.º, n.º 1: revoga a Portaria n.º 1157/82 por inteiro (com regime de transição para os alunos já inscritos); nada a devolver.",
+  "instrucoes": [
+    "Alterador 1: nova redação dos n.os 1.º, 3.º, 7.º (n.º 1) e 12.º — fica sem efeito por a revogação total posterior.",
+    "Alterador 2, n.º 11.º: revoga todo o original — em nao_aplicavel, sem mudanças."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

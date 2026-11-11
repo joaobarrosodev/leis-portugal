@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:475772:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 10,
+      "texto": "2.º - 1 - A administração da zona de caça social do Sabor, criada por tempo indeterminado pela [Portaria n.º 678/95](https://diariodarepublica.pt/dr/detalhe/portaria/678-1995-475772), de 28 de Junho, é atribuída à Direcção Regional de Agricultura de Trás-os-Montes, sendo a sua gestão assegurada por uma comissão, designada por comissão de gestão da zona de caça social do Sabor, criada por protocolo celebrado em 15 de Junho de 1998 e homologado por despacho do Secretário de Estado da Agricultura e do Desenvolvimento Rural em 31 de Julho de 1998.\n\n2 - A comissão de gestão referida no número anterior integra um representante da Direcção Regional de Agricultura de Trás-os-Montes, que preside, um representante da Câmara Municipal de Bragança, um representante da Associação de Caça e Pesca do Sabor, um representante das juntas de freguesia que abrangem os terrenos integrados na zona de caça e um representante dos gestores dos terrenos abrangidos pela zona de caça social do Sabor.\n\n3.º A comissão de gestão fica obrigada a cumprir e fazer cumprir o plano de ordenamento e exploração cinegético e as disposições legais e regulamentares do exercício da caça, sem prejuízo da responsabilidade pessoal dos infractores.\n\n4.º O acesso dos caçadores a esta zona de caça, bem como as demais regras de funcionamento da mesma, obedecem ao disposto na [Portaria n.º 893/98](https://diariodarepublica.pt/dr/detalhe/portaria/893-1998-235558), de 10 de Outubro.",
+      "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "6.º Os prédios que integram esta zona de caça consideram-se submetidos ao regime florestal, para efeitos de policiamento e fiscalização, obrigando-se a comissão de gestão referida no n.º 2.º, através da Associação de Caça e Pesca do Sabor, a requerer a nomeação de guardas florestais auxiliares se necessários para complemento da fiscalização efectuada por elementos do Corpo Nacional da Guarda Florestal.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: revoga 'o n.º 7.º da Portaria n.º 697/95, de 28 de Junho' — diploma diferente do original (678/95); se for gralha, o alvo é ambíguo, não aplicado. Alterador 2 (Portaria 1241/2001): declara extinta a concessão e cria nova zona de caça municipal — alteração não textual do original, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação dos n.os 2.º (unidades 7-8), 3.º (9), 4.º (10) e 6.º (12); substituídas.",
+    "Alterador 1, n.º 2.º: revogação do n.º 7.º da Portaria 697/95 (outro diploma); não aplicada.",
+    "Alterador 2: extinção da concessão e criação de nova zona; não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

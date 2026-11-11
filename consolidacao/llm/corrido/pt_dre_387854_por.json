@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:387854:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 17,
+      "texto": "3. Tratando-se de professor de estabelecimento de ensino das ilhas adjacentes ou do ultramar, a Direcção de Serviços do Ciclo Preparatório do Ensino Secundário abonar-lhe-á não só as gratificações, como também os vencimentos.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 adita um n.º 3 ao n.º 3.º: inserido depois da unidade 17."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

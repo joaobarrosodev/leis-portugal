@@ -1,0 +1,51 @@
+{
+  "id": "pt:dre:420440:por",
+  "substituicoes": [
+    {
+      "de": 34,
+      "ate": 37,
+      "texto": "6.º Os modelos de impressos para apresentação dos pedidos de concessão de prémio, conforme referido no n.º 1 do artigo 7.º do [Decreto-Lei n.º 259-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-a-1987-539977), de 26 de Junho, serão postos à disposição dos interessados nas direcções regionais de agricultura.",
+      "alterador": 2
+    },
+    {
+      "de": 39,
+      "ate": 39,
+      "texto": "8.º O pedido referido no n.º 1.º deverá ser apresentado nos meses de Março e Abril nos serviços regionais de agricultura da área à qual pertence a exploração.",
+      "alterador": 2
+    },
+    {
+      "de": 40,
+      "ate": 40,
+      "texto": "9.º O processo, após parecer favorável da direcção regional de agricultura, será enviado ao Instituto da Vinha e do Vinho (IVV) no prazo de 45 dias e até à data limite de 31 de Julho.",
+      "alterador": 2
+    },
+    {
+      "de": 41,
+      "ate": 41,
+      "texto": "10.º O IVV decide no âmbito das suas competências, procedendo ao envio dos processos aprovados ao Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) até 31 de Outubro e, a título excepcional, até 30 de Novembro, notificando de imediato os proponentes dos processos recusados e especificando as razões que levaram a tal decisão.",
+      "alterador": 2
+    },
+    {
+      "de": 43,
+      "ate": 43,
+      "texto": "12.º O IFADAP decide em conformidade com as suas competências e informa o IVV até 30 de Novembro dos processos aprovados e recusados e, a título excepcional, até 31 de Janeiro.",
+      "alterador": 2
+    },
+    {
+      "de": 44,
+      "ate": 44,
+      "texto": "13.º O IVV, até 30 de Dezembro e, a título excepcional, até 28 de Fevereiro, dá conhecimento da aprovação à direcção regional de agricultura e notifica o viticultor para proceder ao arranque da vinha, o qual deverá ser efectuado até à data limite de 31 de Maio.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 só prorroga, para o ano de 1987, os prazos dos n.os 8.º e 9.º, sem alterar o texto. Alterador 3 é repetição do alterador 2 (mesma Portaria n.º 762/89), já aplicada.",
+  "instrucoes": [
+    "Alterador 1, 1.º e 2.º: prorrogação dos prazos dos n.os 8.º e 9.º só para 1987 - não textual, não aplicada",
+    "Alterador 2, 1.º: nova redação dos n.os 6.º (sem alíneas; unidades 34-37 substituídas), 8.º, 9.º, 10.º, 12.º e 13.º - aplicada",
+    "Alterador 3: duplicado do alterador 2 - nada a acrescentar"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

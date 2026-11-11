@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:460219:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria, que dela faz parte integrante, sitos nas freguesias de A dos Francos e São Gregório da Fanadia, município das Caldas da Rainha, com a área de 1645 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 8,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "As substituições da planta anexa (pela Portaria 964/97 e depois pela Portaria 1033-GT/2004, 2.º) não se aplicam: a planta só existe em imagem (unidade 21).",
+  "instrucoes": [
+    "Portaria 964/97, 1.º: nova redação do n.º 1.º (área de 1689,6682 ha); depois substituída de novo pela Portaria 1033-GT/2004, pelo que a unidade 8 fica com a redação final desta.",
+    "Portaria 964/97, 1.º: aditado o n.º 1.º-A: inserido depois da unidade 8.",
+    "Portaria 964/97, 2.º e 3.º: manutenção de direitos e entrada em vigor; não alteram o texto.",
+    "Portaria 1033-GT/2004, 1.º: nova redação do n.º 1.º (área de 1645 ha): substituída a unidade 8.",
+    "Portaria 1033-GT/2004, 2.º: substitui a planta anexa (imagem): não aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

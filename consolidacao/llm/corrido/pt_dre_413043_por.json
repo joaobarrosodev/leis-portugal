@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:413043:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 8.º da Portaria n.º 663/75 revoga a portaria apenas na parte dos preços no continente das algas agarófitas; esses preços estão num quadro só em imagem e a revogação é parcial (só continente), sem unidade textual delimitável. Não aplicada.",
+  "instrucoes": [
+    "N.º 8.º: revogação parcial (preços no continente das algas agarófitas); quadro em imagem e alcance parcial; não aplicada.",
+    "N.os 1.º a 7.º: regime próprio da safra de 1975; não dirigidos ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

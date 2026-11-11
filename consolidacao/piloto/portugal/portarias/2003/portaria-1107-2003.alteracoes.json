@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Proença-a-Velha, município de Idanha-a-Nova, com a área de 969,49 ha.",
+    "depois": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Proença-a-Velha, município de Idanha-a-Nova, com uma área de 947 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:483647:por",
+    "alterador": "pt:dre:667076:por"
+  },
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/09/226b00/64396440.pdf)",
+    "depois": "[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2006/03/050b00/18021803.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:483647:por",
+    "alterador": "pt:dre:667076:por"
+  }
+]

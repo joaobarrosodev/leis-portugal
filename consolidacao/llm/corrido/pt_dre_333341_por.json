@@ -1,0 +1,105 @@
+{
+  "id": "pt:dre:333341:por",
+  "substituicoes": [
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "1) Serviços oficiais:\n\n1.1) Entidades que tenham atribuições e responsabilidades na organização e constituição do CNVB e de outras espécies propagadas vegetativamente e, ainda, no domínio do controlo e certificação de batata-semente e de outros materiais de propagação vegetativa;\n\n1.2) Direcção-Geral das Florestas (DGF);",
+      "alterador": 2
+    },
+    {
+      "de": 38,
+      "ate": 39,
+      "texto": "1) No caso dos serviços oficiais:\n\n1.1) Implementação ou desenvolvimento das acções de controlo e certificação de todos os materiais de propagação vegetativa das espécies abrangidas pelo Programa, incluindo a adequação das infra-estruturas físicas e dos meios humanos necessários;\n\n1.2) Modernização de viveiros florestais, em especial, para a produção de espécies não comercializadas pelos operadores privados;\n\n2) No caso dos operadores:",
+      "alterador": 2
+    },
+    {
+      "de": 61,
+      "ate": 61,
+      "texto": "b) 70% dos custos de aquisição de tubérculos de outro material de propagação pertencente a gerações ou a categorias anteriores à base, excluído o pagamento de royalties, até ao montante máximo de 7000000$00;",
+      "alterador": 2
+    },
+    {
+      "de": 70,
+      "ate": 70,
+      "texto": "b) 70% dos custos de aquisição de materiais de propagação destinados a programas de melhoramento genético ou sanitário, excluído o pagamento de royalties, até ao montante máximo de 7000000$00;",
+      "alterador": 2
+    },
+    {
+      "de": 73,
+      "ate": 73,
+      "texto": "b) 65% dos custos de aquisição de materiais de propagação de comprovada qualidade e instalação de plantas-mãe, excluído o pagamento de royalties, até ao montante de 6000000$00;",
+      "alterador": 2
+    },
+    {
+      "de": 76,
+      "ate": 76,
+      "texto": "b) 65% dos custos de aquisição de materiais de propagação de comprovada qualidade, destinados à instalação de plantas-mãe, excluído o pagamento de royalties, até ao montante máximo de 6000000$00;",
+      "alterador": 2
+    },
+    {
+      "de": 112,
+      "ate": 112,
+      "texto": "17.º A comissão executiva será composta por cinco membros, sendo um designado pelo director-geral de Planeamento e Agricultura, que presidirá e exercerá as funções de coordenador e de gestor do Programa, um designado pelo INIA e os restantes pelas associações representativas do sector.",
+      "alterador": 2
+    },
+    {
+      "de": 155,
+      "ate": 155,
+      "texto": "25.º Os candidatos seleccionados deverão apresentar na respectiva DRA ou CF, no prazo de 60 dias contados da data da recepção da comunicação da comissão executiva de que a sua intenção de investimento foi considerada, os correspondentes projectos de investimento, devidamente elaborados e especificados.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 36,
+      "texto": "3) Associações do sector.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 43,
+      "texto": "e) Instalação de laboratórios com vista a assegurar o controlo dos produtos em conformidade com a legislação em vigor, apenas no caso dos operadores referidos nas alíneas 2.1) e 2.3) do n.º 8.º;\n\n3) No caso das associações do sector, promoção de acções de informação e divulgação.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 45,
+      "texto": "1.1) Serviços oficiais, excepto a DGF:",
+      "alterador": 2
+    },
+    {
+      "depois_de": 51,
+      "texto": "c) Instalação de laboratórios;",
+      "alterador": 2
+    },
+    {
+      "depois_de": 55,
+      "texto": "c) Instalação de laboratórios;",
+      "alterador": 2
+    },
+    {
+      "depois_de": 56,
+      "texto": "6) Associações do sector - pagamento de despesas com acções de informação e divulgação.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 106,
+      "texto": "13.º As entidades operadoras legalmente habilitadas para o exercício de actividades e candidatas numa pluralidade de modalidades estão sujeitas, relativamente a cada uma, aos critérios de prioridade fixados no número anterior.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: transfere para a DGF as competências da EFN e manda ler as referências à EFN como feitas à DGF; é uma regra de leitura, não uma alteração textual, e o texto fica com EFN.",
+  "instrucoes": [
+    "Alt. 1, 1.º a): aditado o n.º 13.º; inserido depois da unidade 106 (fim do n.º 12.º).",
+    "Alt. 1, 1.º b): nova redação do n.º 25.º; substituída a unidade 155.",
+    "Alt. 1, 2.º: transferência EFN para DGF por remissão; não aplicada ao texto (nao_aplicavel).",
+    "Alt. 2, 1.º, n.º 8.º: alínea 1) desdobrada em 1.1) e 1.2) (unidade 29); 2) a 2.6) mantidas; aditada 3) depois da unidade 36.",
+    "Alt. 2, 1.º, n.º 9.º: nova redação de 1) com 1.1) e 1.2) e de 2) (unidades 38-39); a) a d) mantidas; aditadas e) e 3) depois da unidade 43.",
+    "Alt. 2, 1.º, n.º 10.º: aditada 1.1) depois da unidade 45; aditada c) em 2) (depois da 51) e em 4) (depois da 55); aditada 6) depois da unidade 56.",
+    "Alt. 2, 1.º, n.º 11.º: nova redação das alíneas b) de 1.1), 3.1), 3.2) e 3.3) (unidades 61, 70, 73, 76).",
+    "Alt. 2, 1.º, n.º 17.º: nova redação (unidade 112).",
+    "Alt. 2, 2.º: prazo de candidatura em 1992; norma própria, não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

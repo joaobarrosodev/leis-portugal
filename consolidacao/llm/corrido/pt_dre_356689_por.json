@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:356689:por",
+  "substituicoes": [
+    {
+      "de": 21,
+      "ate": 24,
+      "texto": "1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)\n\n2.º ciclo - Grau de licenciado\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85458547.pdf)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os quadros dos planos de estudos (alteradores 1 e 2) só vêm em imagem; aplicou-se a estrutura textual do anexo final (alterador 2) com as remissões para o documento original.",
+  "instrucoes": [
+    "Alt. 1, 1.º: duração do 2.º ciclo passa a quatro semestres; não é alteração textual.",
+    "Alt. 1, 2.º: novo plano do 2.º ciclo (quadros só em imagem); absorvido pela substituição integral do anexo pelo alterador 2.",
+    "Alt. 2, 1.º, n.º 1: duração do 2.º ciclo passa a dois semestres; não é alteração textual.",
+    "Alt. 2, 1.º, n.º 2: o anexo passa a ter a redação do anexo da Portaria n.º 1405/2003; substituídas as unidades 21-24 (19 e 20 iguais); quadros só em imagem.",
+    "Alt. 2, 2.º a 4.º: estágio, transição e aplicação; normas próprias, sem alteração do texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 22-22",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O curso pode começar a funcionar a partir do ano lectivo de 1996-1997, inclusive, um ano curricular em cada ano lectivo.",
+    "depois": "O curso pode começar a funcionar a partir do ano lectivo de 1996-1997, inclusive.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:401921:por",
+    "alterador": "pt:dre:644518:por"
+  }
+]

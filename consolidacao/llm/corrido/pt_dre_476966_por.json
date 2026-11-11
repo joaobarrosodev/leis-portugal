@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:476966:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 542/2001): adita GDH à tabela do anexo I e altera um valor dessa tabela, mas a tabela só existe em imagem. Alterador 2 (Portaria 1255/2002): adita GDH às tabelas dos anexos I e II, também só em imagem. Nada aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.os 1.º e 2.º: aditamentos e alteração de valor na tabela do anexo I (imagem); não aplicados.",
+    "Alterador 2, n.os 1.º e 2.º: aditamentos às tabelas dos anexos I e II (imagem); não aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

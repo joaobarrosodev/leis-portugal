@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "depois da unidade 15",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1.º-A\n\nMinistração do curso em Viseu\n\n1 - O curso poderá ser ministrado no Porto e em Viseu.\n\n2 - À transferência de alunos entre as duas cidades onde a Faculdade ministre o curso aplicam-se, com as necessárias adaptações, as regras do regime de transferência.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400218:por",
+    "alterador": "pt:dre:417619:por;pt:dre:549413:por"
+  },
+  {
+    "artigo": "unidades 32-38",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Projecto ... 68,0\n\nDesenho ... 9,5\n\nGeometria ... 8,5\n\nTeoria da Arquitectura ... 16,5\n\nHistória da Arquitectura ... 21,0\n\nConstrução ... 17,5\n\nUrbanologia ... 10,0",
+    "depois": "a) Projecto ... 57\n\nb) Desenho ... 13\n\nc) Geometria ... 10,5\n\nd) Teoria da Arquitectura ... 13,5\n\ne) História da Arquitectura ... 21\n\nf) Construção ... 30\n\ng) Urbanismo ... 12\n\nh) Geografia ... 6",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400218:por",
+    "alterador": "pt:dre:417619:por;pt:dre:549413:por"
+  },
+  {
+    "artigo": "unidades 40-49",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Construção ... 5,0\n\nUrbanologia ... 5,0\n\nEstética ... 10,0\n\nArqueologia ... 10,0\n\nGeografia ... 10,0\n\nSociologia ... 10,0\n\nEconomia ... 10,0\n\nDireito ... 10,0\n\nPaisagismo ... 10,0\n\nMatemática ... 10,0",
+    "depois": "a) Estética ... 4,5\n\nb) Paisagismo ... 4,5",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400218:por",
+    "alterador": "pt:dre:417619:por;pt:dre:549413:por"
+  },
+  {
+    "artigo": "unidades 69-69",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Obtenção de 166 unidades de crédito nos termos do n.º 5.º;",
+    "depois": "a) Obtenção de 167,5 unidades de crédito nos termos do n.º 5.º;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400218:por",
+    "alterador": "pt:dre:417619:por;pt:dre:549413:por"
+  }
+]

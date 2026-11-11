@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º A tabela de precedências é a constante do anexo II a esta portaria.",
+    "depois": "3.º\n\n(Disciplinas de opção)\n\n1 - O elenco de disciplinas de opção será fixado anualmente pelo conselho científico.\n\n2 - O conselho científico fixará o número máximo de alunos a admitir à inscrição nas disciplinas de opção.\n\n3 - O número mínimo de alunos a admitir à inscrição em cada disciplina de opção é de 10, nos termos do n.º 3 do artigo 5.º do [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio.\n\n4 - Exceptuam-se do disposto no n.º 3 os casos em que:\n\na) O docente assegure a regência da disciplina a título gratuito;\n\nb) O docente assegure a regência da disciplina para além do número máximo de horas de serviço de aulas ou seminários a que é obrigado por lei;\n\nc) Não existindo outro serviço para distribuir ao docente, este complete com a regência da disciplina o número de horas de ensino que por lei deva assegurar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:370618:por",
+    "alterador": "pt:dre:396689:por"
+  },
+  {
+    "artigo": "unidades 14-15",
+    "operacao": "remover",
+    "regra": "llm",
+    "antes": "## ANEXO II — Curso de Filosofia\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20900/22582258.pdf)",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:370618:por",
+    "alterador": "pt:dre:396689:por"
+  }
+]

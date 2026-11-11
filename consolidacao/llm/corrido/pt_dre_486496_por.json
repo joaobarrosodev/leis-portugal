@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:486496:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 19,
+      "texto": "7 - O coordenador do Conselho Consultivo para a Formação das Forças e Serviços de Segurança é equiparado, para todos os efeitos, a director-geral.\n\n8 - O coordenador será coadjuvado, no exercício das suas funções, por dois oficiais, sendo um da GNR e outro da PSP, podendo ainda dispor de dois adjuntos a nomear pelo Ministro da Administração Interna, todos eles equiparados, para efeitos retributivos, a chefes de divisão.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (RCM n.º 118/2005) dá por cessada a missão do Conselho e extingue o secretariado, sem revogar nem alterar o texto da resolução original: não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1: nova redação dos n.os 7 e 8 — substituídas as unidades 18-19.",
+    "Alterador 2: cessação da missão do Conselho, extinção do secretariado e regime transitório do pessoal — não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

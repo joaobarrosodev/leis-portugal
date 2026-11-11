@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:419820:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (1.º) dá nova redação ao anexo (plano de estudos), cujos quadros só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: anexo passa a ter a redação do anexo da Portaria 16/2005 (quadros em imagem) - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:387164:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2: revoga a norma VIII apenas relativamente ao impresso mod. 511.65 (Declaração de vínculo à entidade patronal), que só consta do anexo em imagem; revogação parcial sem alteração textual identificável, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 2: revogação parcial da norma VIII quanto a um modelo de impresso — em nao_aplicavel.",
+    "Alterador 1, n.os 1 e 3: aprovam e regulam um novo modelo, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

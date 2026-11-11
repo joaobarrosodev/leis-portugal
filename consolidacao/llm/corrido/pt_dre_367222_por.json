@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:367222:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 530/87 (n.º 4.º) revoga por inteiro a Portaria n.º 630/79.",
+  "instrucoes": [
+    "Alterador 1: revogação total do original — nada a devolver."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

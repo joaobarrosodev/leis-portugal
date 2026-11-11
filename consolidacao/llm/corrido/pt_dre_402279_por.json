@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:402279:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 880/2002) suspende o exercício da caça e alterador 2 (Portaria n.º 1033-F/2004) revoga a concessão da zona de caça; são actos sobre a concessão, sem alteração textual nem revogação expressa do texto da portaria.",
+  "instrucoes": [
+    "Alterador 1: suspensão do exercício da caça por falta de pagamento; não textual.",
+    "Alterador 2: revogação da concessão da zona de caça turística; não textual, texto mantido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

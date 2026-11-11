@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:450998:por",
+  "substituicoes": [
+    {
+      "de": 33,
+      "ate": 33,
+      "texto": "Bocal de Cima, Montemuro, Santo Estêvão das Galés, Mafra (1).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 237/84, 1.º: nova redação da lista do distrito de Lisboa ('...' mantém o resto); a escola de Bocal de Baixo passa a Bocal de Cima, Montemuro: substituída a unidade 33.",
+    "Portaria 237/84, 2.º a 4.º: efeitos retroativos, autorização de funcionamento e numeração das escolas; não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

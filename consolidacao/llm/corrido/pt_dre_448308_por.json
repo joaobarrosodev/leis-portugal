@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:448308:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 17,
+      "texto": "O curso desdobra-se nos ramos:\n\na) Estudos Portugueses e Lusófonos;\n\nb) Desenvolvimento e Cooperação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 24,
+      "texto": "4.º-A\n\nUnidades curriculares de opção\n\nO elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente da Universidade.\n\n4.º-B\n\nDuração do ano e semestre lectivos\n\n1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, 1.º n.º 2, substitui o anexo (plano de estudos) pelo anexo da Portaria 199/2002, cujos quadros só vêm em imagem; Alterador 2 substitui de novo esse anexo (dirigido ao anexo da Portaria 199/2002), também com quadros só em imagem. Não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º n.º 1: nova redação do n.º 2.º (corpo e alíneas) - unidades 13-17 substituídas, epígrafe mantida.",
+    "Alterador 1, 1.º n.º 2: anexo substituído - quadros só em imagem, não aplicado.",
+    "Alterador 1, 2.º: aditados os n.os 4.º-A e 4.º-B - inseridos após a unidade 24.",
+    "Alterador 1, 3.º e 4.º: transição e aplicação, normas próprias do alterador - ignoradas.",
+    "Alterador 2: substitui o anexo da Portaria 199/2002 (plano de estudos) - quadros só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

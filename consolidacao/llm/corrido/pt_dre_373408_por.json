@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:373408:por",
+  "substituicoes": [
+    {
+      "de": 19,
+      "ate": 20,
+      "texto": "7.º - (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: mantém em vigor a Portaria n.º 422/88 — sem alteração textual.",
+    "Alterador 2, 3.º: revoga o n.º 7.º — unidades 19-20 substituídas por 7.º - (Revogado.); os n.os 1.º e 2.º do alterador 2 são normas autónomas, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Os cartões destinados ao pessoal dos gabinetes constantes do n.º 1.º, bem como ao pessoal dirigente por ele abrangido, terão na parte inferior esquerda a menção «Livre trânsito», a vermelho.",
+    "depois": "3.º Os cartões de identidade serão de cor branca, com uma faixa diagonal, com as cores verde e vermelha no canto superior esquerdo, mas os destinados ao pessoal dos gabinetes constantes do n.º 1, bem como ao pessoal dirigente por ele abrangido, terão na parte inferior esquerda a menção 'Livre trânsito', a vermelho.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:450376:por",
+    "alterador": "pt:dre:178543:por"
+  }
+]

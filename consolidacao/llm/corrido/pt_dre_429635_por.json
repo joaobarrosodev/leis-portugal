@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:429635:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 754/76), artigo único: o quadro III passa a ter a composição do mapa anexo, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1: substituição do quadro III por mapa anexo em imagem: não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

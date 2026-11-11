@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:414229:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (1.º) dá nova redação a todo o anexo e alterador 2 (1.º e 2.º) dá nova redação ao quadro n.º 3 do anexo; os quadros só vêm em imagem, pelo que não se aplicam ao texto. Os restantes pontos dos alteradores são normas próprias (estágio, transição, aplicação).",
+  "instrucoes": [
+    "Alterador 1, 1.º: anexo passa a ter a redação do anexo da Portaria 1278/2003 (quadros em imagem) - não aplicado",
+    "Alterador 2, 1.º e 2.º: quadro n.º 3 do anexo substituído pelos anexos I e II (quadros em imagem) - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

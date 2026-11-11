@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante sitos nas freguesias de Santana de Cambas e Mértola, município de Mértola, com a área de 2311,7241 ha.",
+    "depois": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Santana de Cambas e Mértola, município de Mértola, com a área de 2088 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:484099:por",
+    "alterador": "pt:dre:346719:por"
+  },
+  {
+    "artigo": "unidades 19-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/10/228b00/64836483.pdf)",
+    "depois": "[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/113b00/41714171.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:484099:por",
+    "alterador": "pt:dre:346719:por"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:433815:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria 1153/2009): dá nova redação ao n.º 1.º de uma Portaria n.º 703/99 da 2.ª série sobre o Conselho Cinegético Municipal de Portalegre; este original (zona de caça das Caveiras) não tem n.º 1.º nem esse conteúdo, alvo inexistente; não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 839/2006): nova anexação de prédios à zona de caça renovada pela Portaria 13/2004, por ato próprio, sem alteração textual ao original: nada aplicado.",
+    "Alterador 2: nova redação do n.º 1.º (composição do CCM de Portalegre), alvo inexistente neste original: não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

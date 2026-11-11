@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Os Municípios de Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra e Setúbal passam a beneficiar das percentagens previstas na alínea a) do n.º 2 do n.º 5.º do regulamento aprovado pela [Portaria n.º 976/87](https://diariodarepublica.pt/dr/detalhe/portaria/976-1987-410875), de 31 de Dezembro.\n\n2.º As zonas de modulação relativas à componente de emprego, definidas no anexo III do regulamento aprovado pela [Portaria n.º 976/87](https://diariodarepublica.pt/dr/detalhe/portaria/976-1987-410875), de 31 de Dezembro, são alteradas do seguinte modo: os Municípios de Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra e Setúbal, que figuram na zona 1, transitam para a zona 3.",
+    "depois": "1.º - (Revogado.)\n\n2.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:372776:por",
+    "alterador": "pt:dre:225816:por"
+  }
+]

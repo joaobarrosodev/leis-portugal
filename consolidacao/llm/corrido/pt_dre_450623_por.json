@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:450623:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Sendim da Serra e Valverde, município de Alfândega da Fé, com a área de 970 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria 1074/2008, 1.º) extingue a zona de caça municipal de Sendim da Serra, sem revogar expressamente o texto da portaria: efeito não textual, não aplicado.",
+  "instrucoes": [
+    "Alterador 1: retificação no n.º 2.º ('freguesia de Sendim da Serra' passa a 'freguesias de Sendim da Serra e Valverde') - unidade 7 substituída.",
+    "Alterador 2, 1.º: extinção da zona de caça - não textual, não aplicada; restantes números dizem respeito à zona de caça de Alfândega da Fé - ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 31-32",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Secção de Gestão Econócimo-Orçamental;\n\nd) Secção de Gestão e Contabilidade;",
+    "depois": "c) Secção de Gestão Económico-Orçamental;\n\nd) Secção de Gestão Financeira e Contabilidade;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:446539:por",
+    "alterador": "pt:dre:425549:por"
+  }
+]

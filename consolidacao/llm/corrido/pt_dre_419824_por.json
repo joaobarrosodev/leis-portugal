@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:419824:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (1.º) substitui o plano de estudos pelo do seu anexo, cujos quadros só vêm em imagem; o 2.º (ramo de Educação) e os restantes pontos não são alterações textuais ao original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: curso passa a ser o constante do anexo (quadros em imagem) - não aplicado",
+    "Alterador 1, 2.º a 6.º: normas próprias (ramo, semanas lectivas, opções, transição, aplicação) - não aplicadas ao texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

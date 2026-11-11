@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "(Áreas científicas e unidades de crédito)",
+    "depois": "(Áreas científicas)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:396898:por",
+    "alterador": "pt:dre:218574:por"
+  },
+  {
+    "artigo": "unidades 20-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "I) Bioquímica ... 1\n\nII) Neurologia Básica, Neurofisiologia e Neuropsiquiatria ... 2\n\nIII) Psicofarmacologia ... 1\n\nIV) Psicologia Geral e Psicopatologia ... 2\n\nV) Psiquiatria Básica ... 6\n\nVI) Psiquiatria Especial e Saúde Mental ... 6",
+    "depois": "I) Psicopatologia e Psiquiatria ... 3\n\nII) Psiquiatria Especial ... 3\n\nIII) Medicina Psicossomática ... 3\n\nIV) Psiquiatria e Comunidade ... 1\n\nV) Terapêuticas Psiquiátricas ... 2\n\nVI) Métodos de Investigação ... 4",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:396898:por",
+    "alterador": "pt:dre:218574:por"
+  },
+  {
+    "artigo": "unidades 27-35",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "I) Alcoolismo ... 4\n\nII) Farmacodependências ... 4\n\nIII) Gerontopsiquiatria ... 4\n\nIV) Metodologia, Estatística e Estandardização da Descrição ... 4\n\nV) Pedopsiquiatria ... 4\n\nVI) Psicoterapia ... 4\n\nVII) Psiquiatria Forense ... 4\n\nc) Estágios e seminários ... 8\n\nTotal ... 30",
+    "depois": "I) Psiquiatria Forense ... 1\n\nII) Toxicodependências e Alcoolismo ... 1\n\nc) Estágio e seminário ... 6\n\nTotal ... 23",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:396898:por",
+    "alterador": "pt:dre:218574:por"
+  }
+]

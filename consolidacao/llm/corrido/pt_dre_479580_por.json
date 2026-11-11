@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:479580:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 16,
+      "texto": "b) Um representante designado por cada um dos seguintes ministros: Ministro da Defesa Nacional, Ministro da Administração Interna, Ministro das Finanças, Ministro do Planeamento e da Administração do Território, Ministro da Justiça, Ministro dos Negócios Estrangeiros, Ministro da Agricultura, Ministro da Indústria e Energia, Ministro da Educação, Ministro das Obras Públicas, Transportes e Comunicações, Ministro da Saúde, Ministro do Emprego e da Segurança Social, Ministro do Comércio e Turismo, Ministro do Ambiente e Recursos Naturais, Ministro do Mar e Ministro Adjunto;\n\nc) O secretário-geral do Ministério do Ambiente e Recursos Naturais, que é, por inerência de funções, o secretário da CCA;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (RCM 34/92): nova redação do n.º 3; a) e d) mantêm-se ('...'); nova alínea b) com a lista de ministros; c) passa a ser a anterior alínea b) (o secretário-geral); a anterior alínea c) desaparece. Unidades 15-16 substituídas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

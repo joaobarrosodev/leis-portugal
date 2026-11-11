@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:477822:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 918/99), n.º 3.º, e alterador 2 (Portaria 10/2000), n.os 1.º, 3.º, 4.º e 6.º: alteram/substituem os quadros do mapa anexo, que só existem em imagem; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, n.º 3.º: supressão e acréscimo de vagas no mapa anexo (imagem); não aplicado. Os n.os 1.º e 2.º dizem respeito à Portaria 251/98 e à transição de professores.",
+    "Alterador 2: atribuição/extinção de lugares e substituição dos quadros anexos (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

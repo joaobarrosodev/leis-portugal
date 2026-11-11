@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:483645:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de Marialva, município de Meda, com a área de 1773 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 895/2009) renova a zona de caça e a transferência de gestão por seis anos: não é alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º (área de 1773 ha) — substituída a unidade 7.",
+    "Alterador 2: renovação da zona de caça por seis anos — não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:393025:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação incide sobre o mapa anexo, que só vem em imagem (incluindo a troca de Obstetrícia por Obstetrícia/ginecologia, que está no mapa).",
+  "instrucoes": [
+    "Alterador 1: retificação do mapa anexo e da área funcional Obstetrícia no mapa: não aplicada, o mapa só existe em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:457451:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os três alteradores mexem só no quadro único do pessoal da Polícia Judiciária, que no original só existe em imagem (unidade 11): a Portaria 333/82 aumenta-o com os lugares de um mapa em imagem, a Portaria 428/82 adita 12 lugares de perito de criminalística e extingue os de técnico auxiliar de laboratório da alínea f) do mapa, a Portaria 786/84 cria 1 lugar de assessor de investigação criminal. Não há texto onde aplicar.",
+  "instrucoes": [
+    "Portaria 333/82, 1.º: alarga o quadro com o mapa anexo (imagem): não aplicável.",
+    "Portaria 428/82, 1.º e 2.º: adita lugares e extingue lugares no mapa anexo (imagem): não aplicável.",
+    "Portaria 786/84: cria 1 lugar no quadro (imagem): não aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

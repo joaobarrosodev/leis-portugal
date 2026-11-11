@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:437855:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "No n.º 2.º, onde se lê «com uma área de 13,9070 ha.» deve ler-se «com uma área de 13,9700 ha.».",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 retifica a rectificação do n.º 2.º (as expressões passam a terminar em ponto): substituída a unidade 3 pela redação dada pelo alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

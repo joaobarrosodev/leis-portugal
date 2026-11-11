@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:345492:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 699/93 é revogada por inteiro pelo Decreto-Lei n.º 74/2004 (alterador 2, artigo 19.º, n.º 2, alínea c)), de acordo com o calendário do artigo 18.º; por isso não se devolve nada. Antes disso, o alterador 1 revogava o n.º 2.º e alterava os mapas I a VII (só em imagem).",
+  "instrucoes": [
+    "Alt. 1, 1.º: planos de estudo alterados pelos mapas I a VII anexos, só em imagem; não aplicável.",
+    "Alt. 1, 3.º: revogado o n.º 2.º (unidade 19); prejudicado pela revogação total.",
+    "Alt. 2, artigo 19.º, n.º 2, c): revoga a Portaria n.º 699/93 por inteiro; nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

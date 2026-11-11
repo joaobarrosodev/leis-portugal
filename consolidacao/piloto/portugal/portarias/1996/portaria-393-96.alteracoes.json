@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 34-41",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º Os valores fixados na Portaria n. 1177/95, de 26 de Setembro, são alterados para os seguintes montantes:\n\nN.º 7.º, n.º 1:\n\n22701,2 ECU;\n\n28376,5 ECU;\n\nN.º 7.º, n.º 2:\n\n22701,2 ECU;\n\n28376,5 ECU.\n\n## Anexo V: — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)",
+    "depois": "7.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:406542:por",
+    "alterador": "pt:dre:475972:por"
+  }
+]
