@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:406710:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: retificação na tabela III ('Antes de 1955 - 1,1725' por 'Antes de 1975 - 1,1725'); a tabela só vem em imagem (unidade 19), o texto não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retificação de uma linha da tabela III, que só existe em imagem. Não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

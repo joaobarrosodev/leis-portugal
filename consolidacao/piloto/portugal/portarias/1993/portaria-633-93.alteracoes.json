@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 16-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º\n\nCarta de curso do grau de bacharel - Escola Superior de Tecnologia de Tomar\n\nO modelo de carta de curso do grau de bacharel conferido pelo Instituto Politécnico de Santarém, através da sua Escola Superior de Tecnologia de Tomar, é o constante do anexo IV à presente portaria.\n\n5.º\n\nCarta de curso do grau de licenciado - Escola Superior de Tecnologia de Tomar\n\nO modelo de carta de curso do grau de licenciado conferido pelo Instituto Politécnico de Santarém, através da sua Escola Superior de Tecnologia de Tomar, é o constante do anexo V à presente portaria.\n\n6.º\n\nDiploma de estudos superiores especializados - Escola Superior de Tecnologia de Tomar\n\nO modelo de diploma de estudos superiores especializados conferido pelo Instituto Politécnico de Santarém, através da sua Escola Superior de Tecnologia de Tomar, é o constante do anexo VI à presente portaria.\n\n7.º\n\nTexto bilingue\n\nAs cartas de curso e diploma a que se referem os n.os 4.º a 6.º terão num lado o texto em latim e no outro lado o texto em português, devendo a forma gráfica de ambos os textos revestir-se de igual dignidade.",
+    "depois": "4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n6.º - (Revogado.)\n\n7.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:374176:por",
+    "alterador": "pt:dre:437457:por"
+  }
+]

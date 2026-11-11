@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:382253:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 279-A/85), art. 4.º: extingue o Gabinete para a Integração Europeia criado pelo despacho; é uma extinção do órgão, não uma alteração ou revogação textual de unidades, por isso não se mexe no texto.",
+  "instrucoes": [
+    "Art. 4.º extingue o GIE (MQV): não textual, não aplicado.",
+    "Arts. 2.º, 5.º e 7.º dirigem-se ao Decreto-Lei n.º 344-A/83: ignorados.",
+    "Arts. 1.º, 3.º, 6.º e 8.º não se dirigem ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

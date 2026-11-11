@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º O trigo mole do tipo I integra o cereal proveniente de semente certificada das variedades Campodoro, Ímpeto, Mara, Nazereno Strampelli, Anza, Caia, Tejo e Mira de searas devidamente verificadas pelos serviços regionais de agricultura ou pela EPAC.",
+    "depois": "2.º O trigo mole do tipo I integra o cereal das variedades Campodoro, Ímpeto, Mara, Nazereno, Strampelli, Anza, Caia, Mira e Tejo de searas devidamente verificadas pelos serviços regionais de agricultura ou pela EPAC.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400192:por",
+    "alterador": "pt:dre:183614:por"
+  }
+]

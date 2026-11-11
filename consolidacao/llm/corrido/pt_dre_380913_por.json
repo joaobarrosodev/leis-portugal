@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:380913:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.os 1.º a 3.º: aditam observações e eliminam uma alínea na relação anexa ao Decreto-Lei 303/82 (o n.º 3.º remete para a redação da observação (b) da Portaria 1174/82, mas o alvo é o n.º 12 da relação do Decreto-Lei 303/82); alteram outro diploma, ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

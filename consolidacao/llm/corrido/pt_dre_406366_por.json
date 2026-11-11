@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:406366:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 18,
+      "texto": "Ramos\n\nO curso desdobra-se nos seguintes ramos:\n\na) Cristianismo;\n\nb) Judaísmo;\n\nc) Islamismo;\n\nd) Religiões Orientais;\n\ne) Religiões Africanas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 25,
+      "texto": "4.º-A\n\nUnidades curriculares de opção\n\nO elenco das unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n4.º-B\n\nDuração do ano e semestre lectivos\n\n1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, 2.º: o novo anexo (plano de estudos, quadros n.os 1 a 8) só vem em imagem; não se aplica.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do 2.º (epígrafe Ramos e alíneas a) a e)). Substituídas as unidades 12 a 18.",
+    "Alterador 1, 2.º: anexo substituído por anexo em imagem. Não aplicado.",
+    "Alterador 1, 3.º: aditados os n.os 4.º-A e 4.º-B. Inseridos depois da unidade 25 (fim do 4.º).",
+    "Alterador 1, 4.º e 5.º: transição e aplicação, normas próprias do alterador. Nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

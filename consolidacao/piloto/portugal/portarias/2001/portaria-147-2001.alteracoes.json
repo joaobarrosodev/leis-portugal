@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 34-36",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º\n\nSubgrupo Hospitalar dos Capuchos e Desterro\n\nO Hospital de Santo António dos Capuchos e o Hospital do Desterro constituem um subgrupo hospitalar sob administração comum, ficando a responsabilidade da administração cometida aos orgãos próprios do Hospital de Santo António dos Capuchos.",
+    "depois": "2.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:372386:por",
+    "alterador": "pt:dre:213619:por"
+  }
+]

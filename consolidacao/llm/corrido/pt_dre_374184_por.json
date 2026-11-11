@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:374184:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "5.º A Direcção-Geral das Florestas e as direcções regionais de agricultura estabelecerão por edital os locais e outras condicionantes venatórias nos períodos referidos no quadro anexo à presente portaria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 7,
+      "texto": "a) Nos terrenos de regime cinegético geral, no período de 1 de Janeiro a 27 de Fevereiro de 2000, apenas é permitida a caça ao tordo e ao estorninho-malhado pelo processo de espera.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: adita alínea a) ao n.º 2.º — inserida depois da unidade 7.",
+    "Alterador 1, 2.º: nova redacção do n.º 5.º (retira 'os processos') — unidade 12 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

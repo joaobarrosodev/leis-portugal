@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:371473:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: manda substituir o quadro n.º 3 do anexo I e os quadros n.os 1 e 2 do anexo II de uma Portaria n.º 397/88 que criou cursos de bacharelato na Escola Superior Agrária de Beja; o original (classificação de serviço dos técnicos de diagnóstico e terapêutica) não tem esses anexos nem quadros, e o novo conteúdo só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição de quadros dos anexos I e II que não existem no texto atual: não aplicada.",
+    "Alterador 1, 2.º: entrada em funcionamento e transição, sem texto a alterar no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

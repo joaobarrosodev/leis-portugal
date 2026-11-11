@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Curso técnico de electrónica;\n\nCurso técnico de têxtil:\n\nEspecialização em acabamentos, tinturaria e estamparia e ultimação;\n\nCurso técnico de têxtil:\n\nEspecialização em estilismo, colorismo e confecção.",
+    "depois": "Curso técnico de Electrónica;\n\nCurso técnico de Têxtil;\n\nCurso de Estilismo e Modelismo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:383995:por",
+    "alterador": "pt:dre:172151:por"
+  }
+]

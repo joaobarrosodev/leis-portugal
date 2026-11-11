@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:391787:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, à Associação de Caça e Pesca Artesanal de Santa Catarina da Fonte do Bispo, com o número de pessoa colectiva 502956690 e sede em Santa Catarina da Fonte do Bispo, Tavira, a zona de caça associativa de Água de Tábuas (processo n.º 2647-DGRF), englobando vários prédios rústicos sitos na freguesia de Santa Catarina da Fonte do Bispo, município de Tavira, com a área de 1220 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: a planta anexa (unidade 11) é substituída pela apensa à Portaria n.º 729/2005, que só existe em imagem; não se aplica.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º; substituída a unidade 6 mantendo o número \"1.º\".",
+    "Alterador 1, 2.º: substituição da planta anexa, só em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

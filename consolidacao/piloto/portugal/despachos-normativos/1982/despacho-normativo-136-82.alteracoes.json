@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - A despesa de investimento referida no n.º 1 será parcialmente financiada por uma dotação de capital estatutário no montante de 47 milhões de escudos. Esta e eventualmente outra dotação adicional poderão assumir a forma de empréstimo subordinado ou de quase capital, nos termos que venham a ser definidos.",
+    "depois": "3 - A despesa de investimento referida no n.º 1 será parcialmente financiada por uma dotação de capital de 162 milhões de escudos. Esta e eventualmente outra dotação adicional poderão assumir a forma de empréstimo subordinado ou de quase capital, nos termos que venham a ser definidos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:394502:por",
+    "alterador": "pt:dre:318149:por"
+  }
+]

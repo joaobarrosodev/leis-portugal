@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:383249:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Resolução n.º 46/81), n.º 1.º: extingue o Secretariado de Acção Social; é extinção do órgão, sem alteração textual do original.",
+  "instrucoes": [
+    "N.º 1.º extingue o Secretariado: não textual, não aplicado.",
+    "N.º 2.º é norma de execução, não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

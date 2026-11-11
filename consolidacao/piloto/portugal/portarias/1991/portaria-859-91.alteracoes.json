@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º É alterada em conformidade a área de responsabilidade do posto de Lamego.",
+    "depois": "3.º É alterada em conformidade a área de responsabilidade do posto de Cinfães.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:402766:por",
+    "alterador": "pt:dre:402560:por"
+  }
+]

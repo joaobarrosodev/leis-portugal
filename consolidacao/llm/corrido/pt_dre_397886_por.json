@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:397886:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 394/83 dá nova redação aos anexos I, II e III, mas os novos modelos só vêm em imagem (ver documento original); não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1: anexos I, II e III passam a ter a redação dos anexos da Portaria n.º 394/83 — só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

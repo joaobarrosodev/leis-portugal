@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:390011:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a retificação incide sobre o sumário ('Verificação' por 'Rectificação'), que não faz parte do texto por unidades; o corpo (unidade 3) já diz 'Rectificação'. Nada a mudar no texto.",
+  "instrucoes": [
+    "Alterador 1: retificação do sumário — sumário ausente do texto, unidade 3 já correta; nada alterado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "pt:dre:375248:por",
+  "substituicoes": [
+    {
+      "de": 94,
+      "ate": 94,
+      "texto": "Escola Preparatória de Santo António dos Cavaleiros (Loures) ... 1",
+      "alterador": 1
+    },
+    {
+      "de": 102,
+      "ate": 102,
+      "texto": "Escola Preparatória de Albergaria-a-Velha ... 1",
+      "alterador": 1
+    },
+    {
+      "de": 273,
+      "ate": 273,
+      "texto": "Escola Preparatória de Caldas das Taipas (Guimarães) ... 1",
+      "alterador": 1
+    },
+    {
+      "de": 291,
+      "ate": 291,
+      "texto": "Escola Preparatória da Póvoa de Santa Iria ... 1",
+      "alterador": 1
+    },
+    {
+      "de": 302,
+      "ate": 302,
+      "texto": "Escola Preparatória do Almirante Gago Coutinho (Lisboa) ... 1",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º: no n.º 2.º, São Julião (Oeiras) passa a Santo António dos Cavaleiros (Loures) (unidade 94) e Dr. Augusto César de Lima (Porto) passa a Albergaria-a-Velha (unidade 102); mantido o separador '... 1' do texto atual",
+    "2.º: no n.º 3.º, Moura passa a Caldas das Taipas (Guimarães) (unidade 273) e Soares dos Reis (Vila Nova de Gaia) passa a Almirante Gago Coutinho (Lisboa) (unidade 302)",
+    "3.º: no n.º 3.º, Santa Iria de Azoia (Vila Franca de Xira) passa a Póvoa de Santa Iria (unidade 291)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

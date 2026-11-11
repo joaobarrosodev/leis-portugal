@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Autorizar que, excepcionalmente, o primeiro provimento dos lugares de director de serviços da Direcção do Pessoal Aeronáutico e da Direcção da Navegação Aérea do quadro de pessoal dirigente da Direcção-Geral da Aviação Civil, a que se refere o n.º 1 do artigo 16.º do [Decreto-Lei n.º 242/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1979-381286), de 25 de Julho, se faça, por escolha do Ministro dos Transportes e Comunicações, de entre técnicos de aviação civil do quadro a que se refere o artigo 6.º do [Decreto-Lei n.º 333/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1980-469664), de 29 de Agosto, de categoria não inferior à de técnico principal e que possuam os conhecimentos técnicos indispensáveis e a prática efectiva do desempenho de funções de chefia, podendo ser dispensada a posse de licenciatura.",
+    "depois": "1.º Autorizar que, excepcionalmente, o provimento dos lugares de director de serviços da Direcção do Pessoal Aeronáutico e da Direcção de Navegação Aérea do quadro do pessoal dirigente da Direcção-Geral da Aviação Civil, a que se refere o n.º 1 do artigo 16.º do [Decreto-Lei n.º 242/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1979-381286), de 25 de Julho, se faça por escolha do Ministro da Habitação, Obras Públicas e Transportes de entre técnicos da aviação civil do quadro a que se refere o artigo 6.º do [Decreto-Lei n.º 333/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1980-469664), de 29 de Agosto, de categoria não inferior à de técnico principal e que possuam os conhecimentos técnicos indispensáveis à prática efectiva do desempenho de funções de chefia ou técnicos de outra origem de reconhecido mérito, podendo ser dispensada a posse de licenciatura.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:389997:por",
+    "alterador": "pt:dre:308339:por"
+  }
+]

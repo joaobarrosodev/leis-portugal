@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 30-30",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "No final de Abril, Agosto e Dezembro de cada ano são encerrados os períodos de candidatura, iniciando-se o processo de instrução e decisão.",
+    "depois": "1 - No final de Abril, Agosto e Dezembro de cada ano são encerrados os períodos de candidatura, iniciando-se o processo de instrução e decisão.\n\n2 - Excepcionalmente no ano de 2001, a 1.ª fase do período de candidatura termina em 31 de Maio.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:355881:por",
+    "alterador": "pt:dre:1605526:por"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:386814:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 339/2005), 1.º: o plano de estudos (anexo) passa a ser o do anexo do alterador, mas os quadros só vêm em imagem ('ver quadro no documento original'); não aplicado. Os n.os 2.º a 4.º do alterador são normas autónomas, não alteram o texto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição do plano de estudos (anexo) por quadros que só existem em imagem — não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º a 4.º: estágio, transição e aplicação — disposições próprias do alterador, ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

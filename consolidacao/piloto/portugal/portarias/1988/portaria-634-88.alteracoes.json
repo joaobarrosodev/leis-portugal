@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º - a) É criada uma 2.ª conservatória do registo predial de 1.ª classe no concelho de Coimbra.\n\nb) Cada uma das conservatórias resultantes do desdobramento da actual ficará com competência territorial sobre a área a seguir indicada:\n\n1.ª Conservatória do Registo Predial:\n\nFreguesia, de Almedina, Antuzede, Botão, Brasfemes, Eiras, Lamarosa, Santa Cruz, Santo António dos Olivais, São Bartolomeu, São Jorge do Campo, São Martinho de Árvore, São Paulo de Frades, São Silvestre, Sé Nova, Souselas, Torre de Vilela, Trouxemil e Vil de Matos;\n\n2.ª Conservatória do Registo Predial:\n\nFreguesias de Almalaguês, Ameal, Antanhol, Arzila, Assafarge, Castelo Viegas, Ceira, Cernache, Ribeira de Frades, Santa Clara, São Martinho do Bispo, Taveiro e Torres do Mondego.\n\nc) O quadro de oficiais de cada uma das conservatórias será assim constituído:\n\nPrimeiro-ajudante - 1;\n\nSegundo-ajudante - 1;\n\nTerceiros-ajudantes - 2;\n\nEscriturários - 3;",
+    "depois": "1.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:355950:por",
+    "alterador": "pt:dre:651733:por"
+  }
+]

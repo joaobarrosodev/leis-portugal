@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:405913:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o novo anexo (plano de estudos, quadros n.os 1 a 5) só vem em imagem; não se aplica.",
+  "instrucoes": [
+    "Alterador 1, 1.º: anexo substituído pelo anexo do alterador, só em imagem. Não aplicado.",
+    "Alterador 1, 2.º a 5.º: normas próprias do alterador (opções, semanas lectivas, aplicação, transição), não alteram o texto do original. Nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

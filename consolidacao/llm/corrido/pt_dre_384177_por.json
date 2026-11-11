@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:384177:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, art. 15.º, alínea v): a revogação das alíneas a) e b) do quadro do n.º 1.º não se pode aplicar porque o quadro só existe em imagem.",
+  "instrucoes": [
+    "Art. 15.º, v): revoga o n.º 2.º — unidade 7 passa a 2.º (Revogado.).",
+    "Art. 15.º, v): revoga as alíneas a) e b) do quadro do n.º 1.º — quadro em imagem, não aplicado.",
+    "Restantes alíneas do art. 15.º e outros artigos dirigem-se a outros diplomas: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 7-7: parágrafo que não está no alterador nem no original: 2.º (Revogado.)"
+  ]
+}

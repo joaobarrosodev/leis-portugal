@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:383995:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 16,
+      "texto": "Curso técnico de Electrónica;\n\nCurso técnico de Têxtil;\n\nCurso de Estilismo e Modelismo.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2: os planos de estudo anexos são substituídos pelos do anexo do Despacho Normativo n.º 108/85, que só existe em imagem (tal como os originais); não aplicado.",
+  "instrucoes": [
+    "N.º 1: novas designações dos cursos do n.º 1 — unidades 12 a 16 substituídas pelas três designações novas.",
+    "N.º 2: substituição dos planos de estudo anexos (só em imagem) — não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

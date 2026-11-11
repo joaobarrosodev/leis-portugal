@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:355881:por",
+  "substituicoes": [
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "1 - No final de Abril, Agosto e Dezembro de cada ano são encerrados os períodos de candidatura, iniciando-se o processo de instrução e decisão.\n\n2 - Excepcionalmente no ano de 2001, a 1.ª fase do período de candidatura termina em 31 de Maio.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 5.º do Regulamento (corpo passa a n.os 1 e 2); substituída a unidade 30, mantidos o número e a epígrafe."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

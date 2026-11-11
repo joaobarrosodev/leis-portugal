@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O CFMCO tem a duração de cerca de 20 semanas úteis.",
+    "depois": "O CFMCO tem a duração de 11 semanas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:405925:por",
+    "alterador": "pt:dre:570104:por"
+  }
+]

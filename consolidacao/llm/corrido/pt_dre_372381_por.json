@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:372381:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "1.º da Portaria n.º 156/2006 substitui o anexo do original (plano de estudos), mas os quadros do novo anexo só vêm em imagem; não aplicado. Os n.os 2.º (transição) e 3.º (aplicação) são normas próprias do alterador e não alteram o original.",
+  "instrucoes": [
+    "1.º da Portaria n.º 156/2006: nova redação do anexo; quadros só em imagem, não aplicado",
+    "2.º e 3.º: normas próprias do alterador; ignoradas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

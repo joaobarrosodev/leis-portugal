@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:394535:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "3 - É atribuída à CTM - Companhia de Transportes Marítimos uma dotação para capital estatutário no montante de 1300 milhões de escudos, a realizar por conta da dotação de 17 milhões de escudos inscrita no Orçamento Geral do Estado para 1982, que se destina ao saneamento da estrutura financeira da empresa.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 5: nova redação do n.º 3 — substituída a unidade 11.",
+    "Alterador 1, n.os 1 a 4: dirigidos a outros despachos normativos — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

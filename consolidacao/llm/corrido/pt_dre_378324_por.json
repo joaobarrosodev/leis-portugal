@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:378324:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "N.º 1.º, n.º 2 da Portaria 1277/93: os novos planos de estudos (anexos) só vêm em imagem (ver documento original), não se podem aplicar. N.º 1.º, n.º 1: a variante da alínea b) passa a designar-se Educação Visual e Tecnológica, mas a portaria não dá nova redação ao texto do original (é mudança de designação, não alteração textual), pelo que não se reescreveu a alínea b).",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º, n.º 1: mudança de designação da variante b) para Educação Visual e Tecnológica e aplicação da Portaria 212/93; não aplicada ao texto (sem nova redação).",
+    "Alterador 1, n.º 1.º, n.º 2: planos de estudos substituídos pelos anexos da Portaria 1277/93, só em imagem; não aplicado.",
+    "Alterador 1, n.º 2.º: entrada em funcionamento e transição; não altera o texto.",
+    "Alterador 2: é a mesma Portaria 1277/93 repetida; nada de novo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

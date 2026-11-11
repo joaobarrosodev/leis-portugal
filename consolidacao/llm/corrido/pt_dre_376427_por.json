@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:376427:por",
+  "substituicoes": [
+    {
+      "de": 2,
+      "ate": 2,
+      "texto": "Ao abrigo do disposto na alínea a) do n.º 2 do artigo 4.º da [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), de 28 de Dezembro, do artigo 2.º da [Lei n.º 12/90](https://diariodarepublica.pt/dr/detalhe/lei/12-1990-332051), de 7 de Abril, conjugados com o estabelecido no artigo 14.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), no artigo 17.º do Decreto-Lei n.º 43454, ambos de 30 de Dezembro de 1960, e no artigo 11.º do [Decreto-Lei n.º 172-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-1986-518811), de 30 de Junho, entende o Governo prosseguir com as subscrições de títulos da dívida pública nominativos e amortizáveis, denominados «Certificados de aforro», sendo autorizada para o corrente ano, para aquela espécie de dívida, emissões que não poderão exceder 300 milhões de contos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Rectificação do preâmbulo: 'na parte final da alínea b)' passa a 'na alínea a)' do n.º 2 do artigo 4.º da Lei n.º 65/90; unidade 2 substituída com o resto do texto igual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:406538:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação nas assinaturas, 'Fausto da Fonseca Correia' passa a 'Fausto de Sousa Correia'. Substituída a unidade 10."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

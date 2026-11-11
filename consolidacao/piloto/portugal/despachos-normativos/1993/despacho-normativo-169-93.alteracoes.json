@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - É revogado o [Despacho Normativo n.º 191/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/191-1992-225801), de 14 de Julho.",
+    "depois": "1 - É revogado o [Despacho Normativo n.º 121/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/121-1992-300259), de 14 de Julho.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:392648:por",
+    "alterador": "pt:dre:451190:por"
+  }
+]

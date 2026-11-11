@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:373032:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 (Portaria n.º 836/89, repetida), n.º 1.º: o plano de estudos (anexo) passa a ter a redacção do anexo da portaria alteradora, mas o anexo só existe em imagem (PDF); alteração não textual.",
+  "instrucoes": [
+    "Alteradores 1 e 2, 1.º: substitui o plano de estudos do anexo — anexo só em imagem, não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

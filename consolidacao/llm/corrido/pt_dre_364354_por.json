@@ -1,0 +1,44 @@
+{
+  "id": "pt:dre:364354:por",
+  "substituicoes": [
+    {
+      "de": 39,
+      "ate": 40,
+      "texto": "Curso de Professores do Ensino Básico - 2.º Ciclo, variante de Português-Francês",
+      "alterador": 1
+    },
+    {
+      "de": 44,
+      "ate": 44,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25622564.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25622564.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25622564.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25622564.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 47,
+      "ate": 47,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25622564.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25622564.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25622564.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25622564.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 50,
+      "ate": 50,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25622564.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25622564.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25622564.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25622564.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 53,
+      "ate": 53,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25622564.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25622564.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25622564.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25622564.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: o anexo passa a ter a redação do anexo da Portaria 308/2005; curso e variante passam a uma só linha (unidades 39-40) e trocam-se as quatro ligações dos quadros (44, 47, 50, 53); o conteúdo dos quadros só existe em imagem.",
+    "Alterador 1, 2.º e 3.º: transição e aplicação, sem texto a alterar no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

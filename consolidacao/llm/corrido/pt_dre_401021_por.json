@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:401021:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 529/2002 substitui o plano de estudos pelos anexos I e II, cujos quadros só vêm em imagem (ver quadro no documento original); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: plano de estudos passa a ser o dos anexos I e II — quadros só em imagem, não aplicado. N.º 2.º (produção de efeitos) não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

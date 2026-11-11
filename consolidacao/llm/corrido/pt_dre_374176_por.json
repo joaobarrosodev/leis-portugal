@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:374176:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 27,
+      "texto": "4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n6.º - (Revogado.)\n\n7.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 3.º: revoga os n.os 4.º, 5.º, 6.º e 7.º — unidades 16 a 27 (número, epígrafe e corpo de cada ponto) substituídas por '4.º - (Revogado.)' a '7.º - (Revogado.)'. Os anexos IV a VI não são revogados expressamente e ficam. Os n.os 1.º e 2.º do alterador são normas próprias do Instituto Politécnico de Tomar, não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:372386:por",
+  "substituicoes": [
+    {
+      "de": 34,
+      "ate": 36,
+      "texto": "2.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "6.º da Portaria n.º 115-A/2004 mantém em vigor o original \"com as alterações decorrentes da entrada em vigor do presente diploma\" (criação do Centro Hospitalar e extinção do Hospital de São José e do subgrupo): alteração implícita, não textual. Os Decretos-Leis n.os 50-A/2007 e 21/2010 criam entidades públicas empresariais por fusão/transformação dos hospitais, sem instrução textual dirigida ao original.",
+  "instrucoes": [
+    "Alterador 1, 7.º: revoga o n.º 2 do regulamento interno anexo; unidades 34-36 (número, epígrafe e corpo) substituídas por '2.º - (Revogado.)'",
+    "Alterador 1, 1.º a 5.º e 8.º: criação do Centro Hospitalar e normas próprias; não textuais para o original",
+    "Alterador 1, 6.º: alterações decorrentes implícitas; não aplicado",
+    "Alteradores 2 e 3: criação de E. P. E. e alteração de outros diplomas (DL 233/2005); ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

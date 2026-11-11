@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Ter experiência profissional como educador de infância ou professor do 1.º ciclo do ensino básico.",
+    "depois": "b) Ter experiência profissional como educador de infância ou professor do ensino básico ou secundário.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:401963:por",
+    "alterador": "pt:dre:160513:por"
+  }
+]

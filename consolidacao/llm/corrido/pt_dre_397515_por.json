@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:397515:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Rectificação no anexo XI (carga horária anual de Educação Física, «280» para «320»): o anexo só existe em imagem (unidade 16, ver documento original), pelo que não se pode aplicar textualmente.",
+  "instrucoes": [
+    "Alterador 1: rectificação de valor no quadro do anexo XI, que só vem em imagem — não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

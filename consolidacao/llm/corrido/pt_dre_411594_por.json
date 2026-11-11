@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:411594:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "b) Empresas exploradoras de veículos ligeiros de aluguer para transporte de mercadorias - 4 t;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação da alínea b) do n.º 1.º (4 t); unidade 11 substituída; as restantes ('...') ficam."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

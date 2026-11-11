@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:377939:por",
+  "substituicoes": [
+    {
+      "de": 39,
+      "ate": 40,
+      "texto": "3 - Número total mínimo de unidades de crédito necessário à concessão do grau:\n\n155.",
+      "alterador": 1
+    },
+    {
+      "de": 44,
+      "ate": 46,
+      "texto": "b) Matemática e Informática ... 31\n\nc) Química ... 12\n\nd) Óptica ... 20",
+      "alterador": 1
+    },
+    {
+      "de": 49,
+      "ate": 50,
+      "texto": "a) Física ... 28\n\nb) Óptica ... 8",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: o anexo passa a ter a redação do anexo da Portaria 946/89; comparado unidade a unidade, mudam só o ponto 3 (título e valor), as alíneas b), c), d) do 4.1 e a) e b) do 4.2; substituídas só essas unidades. Os títulos do anexo alterador (Universidade da Beira Interior, Licenciatura...) não existem no original e não foram acrescentados.",
+    "Alterador 2: é a mesma Portaria 946/89 repetida; nada de novo a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

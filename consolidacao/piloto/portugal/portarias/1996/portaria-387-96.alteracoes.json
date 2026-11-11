@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - Pelo Ministro Adjunto, Fausto da Fonseca Correia, Secretário de Estado da Administração Pública.",
+    "depois": "Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:406538:por",
+    "alterador": "pt:dre:516521:por"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:405925:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "O CFMCO tem a duração de 11 semanas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: o novo plano de estudos que substitui o anexo só vem em imagem; não se aplica.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do 3.º (epígrafe '[...]' mantém-se); substituída a unidade 15.",
+    "Alterador 1, 2.º: plano de estudos do anexo substituído por anexo em imagem. Não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

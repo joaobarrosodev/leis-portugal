@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:376195:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 23,
+      "texto": "2 - As acções da sociedade devem obrigatoriamente ser detidas pelas seguintes entidades:\n\na) Estado;\n\nb) Empresas públicas;\n\nc) Sociedades anónimas de capitais maioritária ou exclusivamente públicos;\n\nd) Fundos existentes no âmbito da actividade seguradora;\n\ne) Quaisquer outras entidades públicas que não as referidas na alínea anterior.",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "4 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "Art. 8.º As alienações de acções da sociedade não podem contrariar o disposto no n.º 2 do artigo 5.º",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º: altera o artigo 3.º do Decreto-Lei n.º 425/82, outro diploma; ignorado",
+    "Art. 2.º: nova redação do n.º 2 do art. 5.º dos Estatutos (n.º 1 fica '...'); substituídas as unidades 20 a 23",
+    "Art. 2.º: nova redação do art. 8.º dos Estatutos; substituída a unidade 31",
+    "Art. 3.º: revogado o n.º 4 do art. 7.º dos Estatutos; unidade 30 passa a '4 - (Revogado.)'"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:378360:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "N.º 1.º da Portaria 918/89: o novo quadro I do anexo I só vem em imagem (ver documento original). N.º 3.º: retificação de «Escolaridade - Horas anuais» para «Escolaridade - Horas totais» nos quadros I, II e III, mas esse texto não existe no texto atual (os quadros estão só em imagem).",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: quadro I do anexo I substituído pelo quadro anexo, só em imagem; não aplicado.",
+    "Alterador 1, n.º 2.º e 4.º: regime de transição e aplicação; não alteram o texto.",
+    "Alterador 1, n.º 3.º: retificação de expressão nos quadros I a III, texto ausente do original (imagem); não aplicada.",
+    "Alterador 2: é a mesma Portaria 918/89 repetida; nada de novo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

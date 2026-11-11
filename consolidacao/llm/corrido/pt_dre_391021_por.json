@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:391021:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: revoga o n.º 2 da Portaria n.º 190/81 \"somente na parte que interessa às caixas de 120 fósforos\"; é revogação parcial não textual (não diz que palavras saem), pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: fixa preço de fósforos, não altera o texto do original; ignorada.",
+    "Alterador 1, 2.º: revogação parcial do n.º 2 só quanto às caixas de 120 fósforos; não textual, não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

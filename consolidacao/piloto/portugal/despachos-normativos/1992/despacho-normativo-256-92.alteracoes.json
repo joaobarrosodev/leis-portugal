@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 2-2",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Considerando que em 21 de Maio de 1992 cessou a comissão de serviço do engenheiro Manuel Teles Ferreira Gonçalves, à data director de serviços do Instituto Geográfico e Cadastral;",
+    "depois": "Considerando que em 21 de Maio de 1992 cessou a comissão de serviço do engenheiro Carlos Manuel Teles Ferreira Gonçalves, à data director de serviços do Instituto Geográfico e Cadastral;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:408703:por",
+    "alterador": "pt:dre:580647:por"
+  }
+]

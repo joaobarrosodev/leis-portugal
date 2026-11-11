@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:405333:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: os novos quadros n.º 6 do anexo I e n.º 8 do anexo II só vêm em imagem; não se aplicam.",
+  "instrucoes": [
+    "Alterador 1, 1.º, n.º 1: quadro n.º 6 do anexo I substituído por quadro em imagem. Não aplicado.",
+    "Alterador 1, 1.º, n.º 2: quadro n.º 8 do anexo II substituído por quadro em imagem. Não aplicado.",
+    "Alterador 1, 2.º: produção de efeitos, norma própria do alterador. Nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

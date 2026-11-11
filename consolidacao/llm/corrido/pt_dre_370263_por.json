@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:370263:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo 3.º: é extinta a reserva ARC-2 do concelho de Arouca constante do n.º 1: elimina-se a unidade 12 (zona ARC-2, Serra da Freita).",
+    "Alterador 1, artigos 1.º, 2.º e 4.º: anexação à zona de caça associativa da Freita, sem texto a alterar no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

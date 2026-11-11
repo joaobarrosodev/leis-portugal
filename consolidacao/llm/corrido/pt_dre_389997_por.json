@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:389997:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "1.º Autorizar que, excepcionalmente, o provimento dos lugares de director de serviços da Direcção do Pessoal Aeronáutico e da Direcção de Navegação Aérea do quadro do pessoal dirigente da Direcção-Geral da Aviação Civil, a que se refere o n.º 1 do artigo 16.º do [Decreto-Lei n.º 242/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1979-381286), de 25 de Julho, se faça por escolha do Ministro da Habitação, Obras Públicas e Transportes de entre técnicos da aviação civil do quadro a que se refere o artigo 6.º do [Decreto-Lei n.º 333/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1980-469664), de 29 de Agosto, de categoria não inferior à de técnico principal e que possuam os conhecimentos técnicos indispensáveis à prática efectiva do desempenho de funções de chefia ou técnicos de outra origem de reconhecido mérito, podendo ser dispensada a posse de licenciatura.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º — unidade 10 substituída"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

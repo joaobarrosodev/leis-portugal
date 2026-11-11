@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 26-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - O número máximo de novos alunos a admitir anualmente não pode exceder 75.\n\n2 - A frequência global do curso não pode exceder 300 alunos.",
+    "depois": "1 - O número máximo de novos alunos a admitir anualmente não pode exceder 100.\n\n2 - A frequência global do curso não pode exceder 400 alunos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:362084:por",
+    "alterador": "pt:dre:219691:por"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:408703:por",
+  "substituicoes": [
+    {
+      "de": 2,
+      "ate": 2,
+      "texto": "Considerando que em 21 de Maio de 1992 cessou a comissão de serviço do engenheiro Carlos Manuel Teles Ferreira Gonçalves, à data director de serviços do Instituto Geográfico e Cadastral;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação no primeiro parágrafo, 'engenheiro Manuel Teles Ferreira Gonçalves' passa a 'engenheiro Carlos Manuel Teles Ferreira Gonçalves'. Substituída a unidade 2."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

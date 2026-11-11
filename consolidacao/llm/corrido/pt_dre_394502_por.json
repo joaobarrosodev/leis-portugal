@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:394502:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "3 - A despesa de investimento referida no n.º 1 será parcialmente financiada por uma dotação de capital de 162 milhões de escudos. Esta e eventualmente outra dotação adicional poderão assumir a forma de empréstimo subordinado ou de quase capital, nos termos que venham a ser definidos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 4: nova redação do n.º 3 do original; substituída a unidade 11.",
+    "Alterador 1, n.os 1, 2, 3 e 5: alteram os Despachos Normativos n.os 139/82, 132/82, 163/82 e 133/82; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

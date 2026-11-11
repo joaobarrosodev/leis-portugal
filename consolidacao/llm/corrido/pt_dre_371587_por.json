@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:371587:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, Único: o mestrado em Extensão Rural passa a designar-se mestrado em Extensão e Desenvolvimento Rural; é uma mudança de designação, não uma alteração textual da portaria, por isso não se reescrevem as menções (unidades 8, 11, 50, 58).",
+  "instrucoes": [
+    "Alterador 1, Único: mudança de designação do mestrado, sem nova redação de qualquer ponto: não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

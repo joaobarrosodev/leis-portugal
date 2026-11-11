@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:390817:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "Curso de qualificação para o exercício de outras funções educativas na área de Educação Especial no Domínio das Perturbações Emocionais e da Personalidade",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º, n.º 2: o anexo passa a ter a redação do anexo da Portaria n.º 1335/2005, mas o plano de estudos (quadro) só vem em imagem; aplicou-se só o título do curso no anexo (unidade 16), o quadro não. O n.º 1 (nova designação do curso) não é alteração textual do n.º 1.º do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º, n.º 1: mudança de designação do curso — não textual, unidade 10 mantida",
+    "Alterador 1, 1.º, n.º 2: nova redação do anexo — título do curso (unidade 16) substituído; quadro só em imagem, não aplicado",
+    "Alterador 1, 2.º e 3.º: transição e aplicação, não alteram o original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

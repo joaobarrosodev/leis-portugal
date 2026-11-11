@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 94-94",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Escola Preparatória de São Julião (Oeiras) ... 1",
+    "depois": "Escola Preparatória de Santo António dos Cavaleiros (Loures) ... 1",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:375248:por",
+    "alterador": "pt:dre:660168:por"
+  },
+  {
+    "artigo": "unidades 102-102",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Escola Preparatória do Dr. Augusto César de Lima (Porto) ... 1",
+    "depois": "Escola Preparatória de Albergaria-a-Velha ... 1",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:375248:por",
+    "alterador": "pt:dre:660168:por"
+  },
+  {
+    "artigo": "unidades 273-273",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Escola Preparatória de Moura ... 1",
+    "depois": "Escola Preparatória de Caldas das Taipas (Guimarães) ... 1",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:375248:por",
+    "alterador": "pt:dre:660168:por"
+  },
+  {
+    "artigo": "unidades 291-291",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Escola Preparatória de Santa Iria de Azoia (Vila Franca de Xira) ... 1",
+    "depois": "Escola Preparatória da Póvoa de Santa Iria ... 1",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:375248:por",
+    "alterador": "pt:dre:660168:por"
+  },
+  {
+    "artigo": "unidades 302-302",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Escola Preparatória de Soares dos Reis (Vila Nova de Gaia) ... 1",
+    "depois": "Escola Preparatória do Almirante Gago Coutinho (Lisboa) ... 1",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:375248:por",
+    "alterador": "pt:dre:660168:por"
+  }
+]

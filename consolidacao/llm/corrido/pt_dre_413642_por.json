@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:413642:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: altera para 50 o número de vagas do curso de Enfermagem da Escola Superior de Enfermagem de São Vicente de Paulo, valor que está no quadro do anexo, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: alteração de vagas num quadro do anexo só em imagem, não aplicado. 2.º (produção de efeitos) não é alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

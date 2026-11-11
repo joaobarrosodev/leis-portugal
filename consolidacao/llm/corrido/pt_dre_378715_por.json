@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:378715:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O Despacho Normativo 9-R/80 revoga a primeira parte do n.º 4.º, no que se refere à limitação do número de candidatos, sem dar nova redação; tirar parte da frase obrigaria a reescrever a unidade 7 com texto que o alterador não fornece, por isso não se aplicou.",
+  "instrucoes": [
+    "Alterador 1: revogação parcial da primeira parte do n.º 4.º (limite de vinte candidatos), sem nova redação; não aplicada ao texto, ver nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

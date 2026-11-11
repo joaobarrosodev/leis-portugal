@@ -1,0 +1,46 @@
+{"id": "pt:dre:374184:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Alínea a) aditada ao n.º 2.º, texto igual ao do alterador.", "texto_esperado": ""}
+{"id": "pt:dre:374184:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "n.º 5.º com a nova redacção («os locais e outras condicionantes venatórias»), letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:374184:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:375248:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 2.º: São Julião (Oeiras) substituída por Santo António dos Cavaleiros (Loures).", "texto_esperado": ""}
+{"id": "pt:dre:375248:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "n.º 2.º: Dr. Augusto César de Lima (Porto) substituída por Albergaria-a-Velha.", "texto_esperado": ""}
+{"id": "pt:dre:375248:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "n.º 3.º: Moura substituída por Caldas das Taipas (Guimarães).", "texto_esperado": ""}
+{"id": "pt:dre:375248:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "n.º 3.º: Santa Iria de Azoia (Vila Franca de Xira) substituída por Póvoa de Santa Iria.", "texto_esperado": ""}
+{"id": "pt:dre:375248:por", "artigo": "Trecho 5", "veredicto": "dúvida", "motivo": "O texto está certo (Soares dos Reis -> Almirante Gago Coutinho (Lisboa)), mas a linha 'Soares dos Reis (Vila Nova de Gaia) ... 1' existe no original no n.º 2.º (lugares criados de segundo-oficial) e no n.º 3.º (extintos de terceiro-oficial). A instrução visa o n.º 3.º; o trecho não mostra qual das duas ocorrências foi alterada.", "texto_esperado": "No n.º 3.º (extintos, terceiro-oficial): 'Escola Preparatória do Almirante Gago Coutinho (Lisboa) ... 1'; no n.º 2.º (criados, segundo-oficial) a linha Soares dos Reis mantém-se."}
+{"id": "pt:dre:375248:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:375392:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 1.º com a nova redacção: corpo «São classificados de primeiro acesso...» e lista de 84 comarcas igual à do alterador (sem Alcácer do Sal, Almeirim, Amares, Ansião, Coruche, Estremoz, Grândola, Mealhada, Nazaré, Odemira, Ourique, Penacova, Ponta do Sol, Ponte de Sor, Sever do Vouga, Vieira do Minho); Vouzela fica no parágrafo seguinte, igual ao original.", "texto_esperado": ""}
+{"id": "pt:dre:375392:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:376195:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 2 do artigo 5.º com a nova redacção e alíneas a) a e), letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:376195:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "n.º 4 do artigo 7.º revogado ('4 - (Revogado.)') e artigo 8.º com a nova redacção.", "texto_esperado": ""}
+{"id": "pt:dre:376195:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:376252:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Alínea c) do n.º 3 com a nova redacção, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:376252:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:376427:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Rectificação aplicada: «alínea a) do n.º 2 do artigo 4.º da Lei n.º 65/90»; resto do preâmbulo igual.", "texto_esperado": ""}
+{"id": "pt:dre:376427:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:376789:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Texto do despacho substituído pela nova redacção do alterador.", "texto_esperado": ""}
+{"id": "pt:dre:376789:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:377939:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Ponto 3 do anexo igual ao do novo anexo (155, 'mínimo').", "texto_esperado": ""}
+{"id": "pt:dre:377939:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "4.1 b), c), d) = 31, 12, 20, como no novo anexo.", "texto_esperado": ""}
+{"id": "pt:dre:377939:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "4.2 a), b) = 28, 8, como no novo anexo.", "texto_esperado": ""}
+{"id": "pt:dre:377939:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:380918:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 2.º com os novos ramos a) e b).", "texto_esperado": ""}
+{"id": "pt:dre:380918:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Título do ramo 1) alterado como no novo n.º 4.º.", "texto_esperado": ""}
+{"id": "pt:dre:380918:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Alíneas do ramo 1) (Matemática 90,5; Física 4; optativas; Seminário 2; Total 122,5) e título do ramo 2) iguais ao novo n.º 4.º.", "texto_esperado": ""}
+{"id": "pt:dre:380918:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Alíneas do ramo 2) (Matemática 90,5; Física 4; optativas; Seminário 12; Total 122,5) iguais ao novo n.º 4.º.", "texto_esperado": ""}
+{"id": "pt:dre:380918:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:383995:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 1: os cursos passam a ter as três designações indicadas, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:383995:por", "instrucoes_em_falta": ["n.º 2 do Despacho Normativo n.º 108/85: os planos de estudo anexos ao original são substituídos pelos do anexo do alterador (link PDF 38553856); o consolidado manteve o anexo do original (link PDF 16661668) com os títulos antigos."], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "Anexo do original não substituído pelo anexo do 108/85 (ver instrucoes_em_falta)."}
+{"id": "pt:dre:385022:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 3: horas de a) a j) alteradas (72, 42, 36, 2, 8, 11, 11, 7, 11, 14); k) mantém 15, como no alterador.", "texto_esperado": ""}
+{"id": "pt:dre:385022:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "n.os 18, 19 e 20 com a nova redacção, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:385022:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:386053:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Aditados os n.os 2.º-A e 2.º-B com o texto do alterador (a posição no texto não é visível).", "texto_esperado": ""}
+{"id": "pt:dre:386053:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Título e pontos 1 a 3 do anexo I iguais ao novo anexo ('dez semestres lectivos').", "texto_esperado": ""}
+{"id": "pt:dre:386053:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "4.1 a) Economia ... 28,5, como no novo anexo.", "texto_esperado": ""}
+{"id": "pt:dre:386053:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "4.2 a) a h) = 49, como no novo anexo. Nota: o trecho traz no fim uma linha de anotação '> Alterado pelo/a Portaria n.º 675/88...' que não é texto do diploma (devia ter sido retirada), sem efeito de substância.", "texto_esperado": ""}
+{"id": "pt:dre:386053:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:386217:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Alínea b) do n.º 2.º com a nova redacção, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:386217:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Alínea d) do n.º 3.º com a nova redacção, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:386217:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:387283:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "A Portaria 254/85 substitui a tabela; as 9 linhas e valores do consolidado coincidem com a nova tabela (4160, 3570, 3570, 2980, 2980, 2690, 2690, 950, 600).", "texto_esperado": ""}
+{"id": "pt:dre:387283:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:388385:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "O 5.º da Portaria 111/76 revoga os n.os 1.º e 2.º da Portaria 22960; o consolidado mostra ambos como (Revogado.).", "texto_esperado": ""}
+{"id": "pt:dre:388385:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
