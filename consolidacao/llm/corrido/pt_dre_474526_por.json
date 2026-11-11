@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:474526:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "2.º O preço do bilhete de entrada será fixado por despacho do Chefe do Estado-Maior da Armada (CEMA), sendo a entrada livre às quartas-feiras.",
+      "alterador": 2
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "b) As praças dos quadros permanentes das forças armadas, mediante a apresentação do bilhete de identidade militar;",
+      "alterador": 1
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "d) As praças não pertencentes aos quadros permanentes das forças armadas, na efectividade de serviço, quando fardadas e mediante a apresentação do cartão de identificação militar.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação das alíneas b) e d) do n.º 3.º - substituídas as unidades 11 e 13.",
+    "Alterador 1, n.º 2.º: entrada em vigor do alterador - nada a fazer.",
+    "Alterador 2, n.º 1.º: nova redação do n.º 2.º - substituída a unidade 8.",
+    "Alterador 2, n.º 2.º: produção de efeitos do alterador - nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

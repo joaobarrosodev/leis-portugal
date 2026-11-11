@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 41-41",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "17 - Constituem ainda obrigações específicas da CDG da sala de jogos tradicionais proceder mensalmente à liquidação do valor correspondente a 12% do montante global das gratificações, que constitui receita própria do Fundo Especial de Segurança Social dos Profissionais de Banca nos Casinos e depositá-la na respectiva conta bancária.",
+    "depois": "17 - Constituem ainda obrigações específicas da CDG da sala de jogos tradicionais proceder mensalmente à liquidação do valor correspondente à percentagem do montante global das gratificações respeitante aos profissionais abrangidos pelo Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos, de que constitui receita própria, nos termos previstos no respetivo Regulamento, e depositá-lo na respetiva conta bancária.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:564807:por",
+    "alterador": "pt:dre:124879310:por;pt:dre:218304:por"
+  },
+  {
+    "artigo": "unidades 43-43",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "19 - Do mapa são extraídas cópias para o serviço permanente de inspecção da IGJ, sindicatos representativos dos trabalhadores, empresa concessionária, para a afixação nas instalações do pessoal e, quanto às salas de jogos tradicionais, para o Fundo Especial de Segurança dos Profissionais de Banca nos Casinos.",
+    "depois": "19 - Do mapa são extraídas cópias para o Serviço de Regulação e Inspeção de Jogos do Turismo de Portugal, I. P., sindicatos representativos dos trabalhadores, empresa concessionária, para a afixação nas instalações do pessoal e, quanto às salas de jogos tradicionais, para o Fundo Especial de Segurança dos Profissionais de Banca nos Casinos, que será acompanhado de relação discriminada dos depósitos efetuados em cada mês.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:564807:por",
+    "alterador": "pt:dre:124879310:por;pt:dre:218304:por"
+  },
+  {
+    "artigo": "depois da unidade 107",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "D) Empregado de sistemas informáticos de controlo de jogo:\n\nn) Operador.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:564807:por",
+    "alterador": "pt:dre:124879310:por;pt:dre:218304:por"
+  }
+]

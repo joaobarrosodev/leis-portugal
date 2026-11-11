@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:469850:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o novo quadro da Brigada (a que se refere o n.º 3.º) só vem em imagem no documento original; não há texto para substituir a unidade 26. O n.º 2.º do alterador é norma autónoma, não altera o texto do original.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui o quadro anexo (n.º 3.º) por um quadro que só vem em imagem - não aplicado (nao_aplicavel).",
+    "Alterador 1, n.º 2.º: norma autónoma sobre contratação de pessoal, sem alteração textual do original - nada a fazer.",
+    "Alterador 1, n.º 3.º: revoga a Portaria n.º 22756, outro diploma - ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

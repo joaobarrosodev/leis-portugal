@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:617502:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Brenha e Quiaios, município da Figueira da Foz, com a área de 539 ha.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Substituição da planta anexa (alteradores 1, 2 e 3): só em imagem.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º com n.os 1 (1987,2670 ha) e 2 (enclave) - substituída depois por inteiro pelo alterador 2.",
+    "Alterador 2, 1.º: nova redação de todo o n.º 1.º (1158 ha), sem o n.º 2 - substituída depois pelo alterador 3.",
+    "Alterador 2: aditado o n.º 1.º-A - inserido depois da unidade 6.",
+    "Alterador 3, 1.º: nova redação do n.º 1.º (539 ha) - unidade 6 com a redação final, mantendo o número 1.º."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

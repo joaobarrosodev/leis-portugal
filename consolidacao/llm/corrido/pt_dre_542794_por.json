@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:542794:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 (Portarias n.os 489/97 e 1080/97) alteram anexos I, II, V e VI que só vêm em imagem. Alterador 3 (Decreto-Lei n.º 81/2011, art. 85.º, n.º 2) revoga o anexo V apenas parcialmente (matérias de acesso ao lugar do condutor, espaço de manobra, portas e janelas, identificação dos comandos), num anexo em imagem.",
+  "instrucoes": [
+    "Alterador 1: altera os anexos I, II, V e VI (imagem) - não aplicado.",
+    "Alterador 2: altera os anexos I e II (imagem) - não aplicado.",
+    "Alterador 3, art. 85.º, n.º 2: revogação parcial do anexo V (imagem) - não aplicada; n.º 1 diz respeito a outro diploma - ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

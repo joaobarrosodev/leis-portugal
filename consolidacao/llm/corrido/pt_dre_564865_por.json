@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:564865:por",
+  "substituicoes": [
+    {
+      "de": 62,
+      "ate": 120,
+      "texto": "1 - A área científica do curso é a Gestão.\n\n2 - São áreas científicas obrigatórias:\n\nA) Ramo de gestão de empresas:\n\na) Gestão;\n\nb) Métodos Matemáticos;\n\nc) Contabilidade;\n\nd) Economia;\n\ne) Ciências Sociais e Políticas;\n\nf) História Económica;\n\ng) Ciências Jurídicas;\n\nh) Informática;\n\nB) Ramo de gestão regional:\n\na) Gestão;\n\nb) Métodos Matemáticos;\n\nc) Contabilidade;\n\nd) Economia;\n\ne) Ciências Sociais e Políticas;\n\nf) História Económica;\n\ng) Ciências Jurídicas;\n\nh) Informática.\n\n3 - São áreas opcionais:\n\nA) Ramo de gestão de empresas:\n\na) Métodos Matemáticos;\n\nb) Contabilidade;\n\nc) Economia;\n\nd) Ciências Sociais e Políticas;\n\nB) Ramo de gestão regional:\n\na) Gestão;\n\nb) Métodos Matemáticos;\n\nc) Contabilidade;\n\nd) Economia.\n\n4 - A duração do curso é de cinco anos lectivos.\n\n5 - As unidades de crédito necessárias à concessão do grau são 161, assim distribuídas, para cada ramo:\n\n5.1 - Áreas científicas obrigatórias:\n\n5.1.1 - Ciclo base:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/14100/23742375.pdf)\n\n5.1.2 - Ciclo especializado:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/14100/23742375.pdf)\n\n5.2 - Áreas científicas optativas:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/14100/23742375.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: os quadros de unidades de crédito dos n.os 5.1.1, 5.1.2 e 5.2 só vêm em imagem (ficam as ligações ao documento original). O 2.º do alterador (entrada em funcionamento e regime de transição) não altera o texto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do capítulo II — o título do capítulo e o «6.º» ficam; substituídas as unidades 62 a 120 (epígrafe «(Gestão)», corpo do 6.º e o 7.º, que pertence ao capítulo II e não consta da nova redação) pelo texto novo do 6.º.",
+    "Alterador 1, 2.º: regime de entrada em funcionamento — não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

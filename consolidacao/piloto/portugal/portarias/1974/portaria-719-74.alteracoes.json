@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 20-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º Para efeito do disposto nesta portaria, são considerados como família do militar:",
+    "depois": "7. Para efeito do disposto nesta portaria são considerados como família do militar:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:465388:por",
+    "alterador": "pt:dre:252994:por"
+  },
+  {
+    "artigo": "unidades 23-24",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "As filhas solteiras;\n\nOutras pessoas que, estando a seu cargo, confiram direito a abono de família.",
+    "depois": "Outras pessoas que se prove estarem a seu cargo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:465388:por",
+    "alterador": "pt:dre:252994:por"
+  }
+]

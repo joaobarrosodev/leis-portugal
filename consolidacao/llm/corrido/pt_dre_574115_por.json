@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:574115:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 680/90 é revogada por inteiro pelo alterador 2 (Portaria n.º 1316/2006, n.º 7.º, alínea b): 'As restantes portarias mencionadas no n.º 5.º', em que a 680/90 está incluída e não consta da alínea a)). O alterador 1 alterou só planos de estudo por mapas anexos em imagem.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: alteração dos planos de estudo de contabilidade e serviços comerciais por mapas anexos em imagem; não aplicada.",
+    "Alterador 2, n.º 7.º, alínea b): revogação total da Portaria n.º 680/90; nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

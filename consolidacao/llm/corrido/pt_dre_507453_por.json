@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:507453:por",
+  "substituicoes": [
+    {
+      "de": 103,
+      "ate": 103,
+      "texto": "4 - Da decisão do Subchefe do Estado-Maior da Força Aérea (Pessoal) pode ainda haver recurso para o Chefe do Estado-Maior da Força Aérea, que decidirá, se necessário, após parecer do Conselho Superior de Disciplina da Força Aérea, de acordo com a alínea f) do artigo 134.º do RDM.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2: altera a última página do modelo I anexo, que só existe em imagem.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 4 da instrução 24.ª — substituída a unidade 103.",
+    "Alterador 2: nova composição da última página do modelo I (imagem) — não aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

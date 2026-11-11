@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:531674:por",
+  "substituicoes": [
+    {
+      "de": 24,
+      "ate": 25,
+      "texto": "Regime transitório\n\n1 - As regras da transição entre o anterior e o novo plano de estudos são fixadas pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n2 - Aos alunos da opção e do ramo de Gestão de Comércio e Serviços é facultado, nos termos fixados pelo órgão legal e estatutariamente competente do estabelecimento de ensino, o prosseguimento dos estudos nos mesmos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2, n.º 3.º: cessação da ministração da opção e do ramo de Gestão de Comércio e Serviços, sem alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 4.º (epígrafe e corpo); substituídas as unidades 24 e 25, mantida a unidade 23 (4.º).",
+    "Alterador 2: aprova plano de estudos de outro curso e faz cessar a opção/ramo; sem alteração textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

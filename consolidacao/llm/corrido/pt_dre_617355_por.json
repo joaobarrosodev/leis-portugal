@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:617355:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia do Espinheiro, município de Alcanena, com a área de 711,6089 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "A nova planta anexa da Portaria n.º 942/97 só vem em imagem. A Portaria n.º 875/2001 (suspensão temporária da caça) não altera o texto. A Portaria n.º 657/2002 refere-se a outra zona (CAÇARAZ, Herdade da Cotovia, processo n.º 405-DGF), que não existe neste diploma; não aplicada.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º (área de 711,6089 ha), unidade 6 substituída mantendo o número «1.º».",
+    "Alterador 1, 1.º (segundo parágrafo): aditado o n.º 1.º-A, inserido depois da unidade 6.",
+    "Alterador 1, 2.º e 3.º: manutenção de direitos e entrada em vigor; nada a mudar.",
+    "Alterador 2: suspensão do exercício da caça até à renovação; não textual, não aplicado.",
+    "Alterador 3: suspensão na zona de caça turística da Herdade da Cotovia, que não é a deste diploma; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

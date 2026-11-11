@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:461269:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Duas Igrejas e Miranda do Douro, município de Miranda do Douro, com a área de 1871,3790 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Nova planta (Portaria 784/98) só em imagem; a renovação da concessão pela Portaria 65/2008 não altera o texto.",
+  "instrucoes": [
+    "P. 784/98 1.º: nova redação do n.º 1.º -> substituída a unidade 6 (mantida a numeração 1.º)",
+    "P. 784/98: planta substituída -> só em imagem",
+    "P. 65/2008: renovação e redução da área -> não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

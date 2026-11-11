@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 84-88",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Os financiamentos destinados à remodelação e modernização de postos de informação turística, desde que as respectivas obras se iniciem em 1992 e cujo termo não ultrapasse 31 de Dezembro de 1993, ficam sujeitos às seguintes condições:\n\nMontante máximo - 1500 contos, com o limite de 75% do custo total do investimento;\n\nPrazo máximo - 10 anos;\n\nPeríodo máximo de carência de capital - 2 anos;\n\nTaxa de juro anual - 10%.",
+    "depois": "b) Os financiamentos destinados à instalação, ampliação, remodelação e equipamento de postos de informação turística, desde que as respectivas obras se iniciem em 1992 e cujo termo não ultrapasse 31 de Dezembro de 1993, ficam sujeitos às seguintes condições:\n\nMontante máximo - 1500 contos, com o limite de 75% do custo total do investimento;\n\nPrazo máximo - 10 anos;\n\nPeríodo máximo de carência de capital - 2 anos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:524417:por",
+    "alterador": "pt:dre:225996:por"
+  }
+]

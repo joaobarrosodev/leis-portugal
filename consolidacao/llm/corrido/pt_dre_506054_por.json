@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:506054:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2, 1.º: adita atos ou procedimentos à tabela anexa, que só existe em imagem (no original e no alterador).",
+  "instrucoes": [
+    "Alterador 1: fixa o modo de estabelecer o suplemento de cada profissional — não altera o texto do original.",
+    "Alterador 2, 1.º: aditamento à tabela anexa (imagem) — não aplicável.",
+    "Alterador 2, 2.º: produção de efeitos — não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

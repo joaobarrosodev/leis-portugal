@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:617905:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria, e que dela faz parte integrante, sitos nas freguesias de Salvador, Olaia e Paço, município de Torres Novas, com a área de 692,3914 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 8,
+      "texto": "1.º-A. Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 e 3 (suspensão e renovação com área de 643,0349 ha e nova planta) não dão nova redação a nenhum ponto do original; não são alterações textuais.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º -> substituída a unidade 8.",
+    "Alt. 1: aditado o n.º 1.º-A -> inserido depois da unidade 8.",
+    "Alt. 2: suspensão da actividade cinegética; não textual, nada feito.",
+    "Alt. 3: renovação e revogação da Portaria 499/2001 (outro diploma); nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

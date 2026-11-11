@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:570362:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 391/87), 2.º: extingue o lugar de assessor, letra B, criado pela Portaria n.º 18/81; é um efeito sobre o quadro, não uma alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: adita lugares ao quadro da DGCP (Decreto Regulamentar n.º 17/87), não ao original: ignorado.",
+    "Alterador 1, 2.º: extinção do lugar criado pelo original, sem instrução textual: não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

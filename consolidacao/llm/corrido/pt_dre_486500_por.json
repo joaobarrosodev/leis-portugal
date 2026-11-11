@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:486500:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (retificação do n.º 4): o texto a substituir, 'do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas e do Ministério do Trabalho e da Solidariedade.', não existe no texto atual da unidade 8 (que diz 'da Agricultura, do Desenvolvimento Rural e das Pescas e do Trabalho e da Solidariedade.'); não aplicado para não inventar redação (o sentido é acrescentar o Ministério da Saúde).",
+  "instrucoes": [
+    "Alterador 1: retificação do n.º 4 para incluir o Ministério da Saúde - texto citado não existe no original, não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

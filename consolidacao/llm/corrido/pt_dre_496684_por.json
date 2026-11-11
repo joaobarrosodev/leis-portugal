@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:496684:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Santiago do Escoural, município de Montemor-o-Novo, com a área de 5253 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: substitui a planta anexa (só em imagem). Alteradores 3 e 4: renovação da zona de caça (área de 1350 ha, novas percentagens) e exclusão de terrenos (área de 1017 ha) são disposições próprias, sem nova redação dos números do original; não aplicadas ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2.º (área de 5255 ha) — aplicada à unidade 7, depois substituída pelo alterador 2.",
+    "Alterador 1, 2.º: substituição da planta (imagem) — não aplicável.",
+    "Alterador 2: nova redação do n.º 2.º (Santiago do Escoural, 5253 ha) — substituída a unidade 7.",
+    "Alterador 3: renovação por seis anos e novos critérios de proporcionalidade, sem alterar a redação do original — não aplicado.",
+    "Alterador 4: exclusão, concessão e anexação de terrenos — não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:574107:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 283/92) altera o plano de estudo do curso de técnico de informática/gestão segundo mapa anexo só em imagem. Alterador 2 (Portaria n.º 914/2005) extingue o curso de técnico de contabilidade e revoga parcialmente o original «nas partes que àqueles cursos respeitam», sem instrução textual; não aplicado ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: alteração do plano de estudo (anexo em imagem): não aplicada.",
+    "Alterador 2, 6.º e 7.º: extinção do curso de técnico de contabilidade e revogação parcial na parte respetiva: não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

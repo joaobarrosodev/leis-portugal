@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:479396:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 335,
+      "texto": "Iniciados no ano lectivo de 1980-1981:\n\nCursos de:\n\nFisioterapia;\n\nOrtóptica.\n\nIniciados no ano lectivo de 1981-1982:\n\nCursos de:\n\nAnálises Clínicas e Saúde Pública;\n\nMedicina Nuclear;\n\nNeurofisiografia.\n\nIniciados no ano lectivo de 1982-1983:\n\nCursos de:\n\nAnatomia Patológica;\n\nFisioterapia.\n\nIniciados no ano lectivo de 1983-1984:\n\nCursos de:\n\nAudiometria;\n\nCardiopneumografia;\n\nMedicina Nuclear;\n\nRadioterapia;\n\nTerapêutica da Fala;\n\nTerapêutica Ocupacional.\n\nIniciados no ano lectivo de 1985-1986:\n\nCursos de:\n\nAnálises Clínicas e Saúde Pública;\n\nCardiopneumografia;\n\nTerapêutica Ocupacional.\n\nIniciados no ano lectivo de 1987-1988:\n\nCursos de:\n\nMedicina Nuclear;\n\nTerapêutica da Fala;\n\nTerapêutica Ocupacional.\n\nIniciado no ano lectivo de 1989-1990:\n\nCurso de:\n\nCardiopneumografia.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: aditados ao anexo III os cursos do anexo do alterador - inseridos, tal como vêm no anexo do alterador, no fim do anexo III (depois da unidade 335), sem fundir nos grupos anuais existentes para não alterar a pontuação do texto atual.",
+    "Alterador 1, n.º 2.º: entrada em vigor do alterador - nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

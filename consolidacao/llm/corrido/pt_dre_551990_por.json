@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:551990:por",
+  "substituicoes": [
+    {
+      "de": 28,
+      "ate": 33,
+      "texto": "Ano económico de 2015 - (euro) 14 965 952,56;\n\nAno económico de 2016 - (euro) 14 965 952,56;\n\nAno económico de 2017 - (euro) 14 965 952,56;\n\nAno económico de 2018 - (euro) 14 965 952,56;\n\nAno económico de 2019 - (euro) 14 465 952,56;\n\nAno económico de 2020 - (euro) 500 000,00.",
+      "alterador": 1
+    },
+    {
+      "de": 35,
+      "ate": 40,
+      "texto": "Ano económico de 2015 - (euro) 2 466 600,00;\n\nAno económico de 2016 - (euro) 2 466 600,00;\n\nAno económico de 2017 - (euro) 2 466 600,00;\n\nAno económico de 2018 - (euro) 2 466 600,00;\n\nAno económico de 2019 - (euro) 2 000000,00;\n\nAno económico de 2020 - (euro) 416 600,00;\n\nAno económico de 2021 - (euro) 50 000,00.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, n.º 1: nova redação do n.º 10 — corpo mantido ('...'), lista de anos (unidades 28-33) substituída pela nova (2015-2020).",
+    "Alt. 1, n.º 1: nova redação do n.º 11 — corpo mantido ('...'), lista de anos (unidades 35-40) substituída pela nova (2015-2021)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

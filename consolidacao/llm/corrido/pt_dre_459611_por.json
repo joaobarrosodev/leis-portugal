@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:459611:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portarias 1046/92 (n.º 2.º) e 526/93 (n.º 2.º) extinguem lugares criados pela portaria com a transição dos titulares: não é alteração textual (o mapa só vem em imagem).",
+  "instrucoes": [
+    "P. 1046/92 2.º: extinção de um lugar criado pela portaria -> não textual, nada aplicado",
+    "P. 526/93 2.º: extinção de cinco lugares criados pela portaria -> não textual, nada aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

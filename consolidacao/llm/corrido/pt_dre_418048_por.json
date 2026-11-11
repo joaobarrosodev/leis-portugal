@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:418048:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 516/88), 1.º n.º 2: nova redação dos quadros do anexo, que só vem em imagem; Alterador 2 (Portaria 117/94), 1.º: novo plano de estudos da variante de Educação Física, só em imagem. Não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º n.º 1: altera anexos da Portaria 601/86 — outro diploma; ignorado.",
+    "Alterador 1, 1.º n.º 2: quadros do anexo do original com nova redação só em imagem; não aplicado.",
+    "Alterador 2, 1.º: plano de estudos substituído pelo anexo, só em imagem; não aplicado.",
+    "Alterador 3 (Portaria 253/94): diz respeito à variante de Educação Visual (Portaria 601/86) — não dirigida ao original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

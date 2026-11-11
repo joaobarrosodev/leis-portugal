@@ -1,0 +1,42 @@
+{
+  "id": "pt:dre:457982:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "3.º Os funcionários actualmente providos em categorias que não correspondem às designações previstas no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, transitarão para as novas categorias de acordo com as equivalências previstas no mapa II anexo, salvo o disposto no n.º 5.º",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "8.º As alterações resultantes da presente portaria produzirão efeitos desde 1 de Julho de 1979.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 10,
+      "texto": "5.º Transitará para a categoria de controlador-chefe o primeiro-mecanógrafo que exerce as funções constantes do n.º 3 do artigo 14.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.\n\n6.º Transitará para o lugar de analista de sistemas de 2.ª classe o técnico superior de 2.ª classe que, embora não provido no quadro de pessoal de informática, vem exercendo as respectivas funções.\n\n7.º As transições a que se refere o n.º 4.º far-se-ão sem dependência das habilitações literárias, devendo o serviço certificar, em todos os casos, o exercício efectivo das funções que integram a categoria em que se verifique o provimento.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 11,
+      "texto": "9.º Os funcionários providos em novas categorias após 1 de Julho de 1979 e até à data da publicação da presente portaria transitarão em função dessas categorias, contando os efeitos desta transição a partir da data do respectivo provimento nas novas categorias, sem prejuízo dos efeitos relativos à situação anterior a esse provimento, previsto no n.º 3.º do presente diploma de acordo com as equivalências estabelecidas no mapa II.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Substituição do mapa II (Portaria 1129/82, n.º 5.º) e do mapa I (Portaria 374/86, n.º 2.º): os novos mapas só vêm em imagem; a criação de carreiras (Portaria 374/86, n.º 1.º) não é alteração textual.",
+  "instrucoes": [
+    "P. 1129/82 1.º: nova redação do n.º 3.º -> substituída a unidade 9",
+    "P. 1129/82 2.º: intercalados os n.os 5.º, 6.º e 7.º -> inseridos depois da unidade 10",
+    "P. 1129/82 3.º: o n.º 5.º passa a 8.º com nova redação -> substituída a unidade 11",
+    "P. 1129/82 4.º: aditado o n.º 9.º -> inserido depois da unidade 11",
+    "P. 1129/82 5.º: mapa II substituído -> só em imagem, não aplicado",
+    "P. 374/86 1.º: criação de carreira e categoria -> não textual",
+    "P. 374/86 2.º: mapa I substituído -> só em imagem, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

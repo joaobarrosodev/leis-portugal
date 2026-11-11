@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:460249:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Esperança, município de Arronches, com a área de 2568,3520 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Substituição das plantas anexas (Portarias 647-D/96 e 758/97) só em imagem; a renovação e anexação de prédios da Portaria 1124/2007 não altera o texto.",
+  "instrucoes": [
+    "P. 647-D/96: nova redação do n.º 1.º (n.os 1 e 2) -> substituída depois pela P. 758/97, que dá nova redação a todo o n.º 1.º",
+    "P. 758/97 1.º: nova redação do n.º 1.º -> substituída a unidade 6",
+    "P. 758/97: aditado o n.º 1.º-A -> inserido depois da unidade 6",
+    "Plantas substituídas -> só em imagem, não aplicadas",
+    "P. 1124/2007: renovação e anexação -> não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

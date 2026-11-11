@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:418226:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 4 (Portarias 337/88, 1182/91 e 753/93, esta repetida): aumentam o quadro e substituem o mapa anexo, que só vem em imagem; não aplicados.",
+  "instrucoes": [
+    "Alterador 1: +1 lugar de catedrático, novo mapa só em imagem; não aplicado.",
+    "Alterador 2: +21 catedráticos e +46 associados, novo mapa só em imagem; não aplicado.",
+    "Alteradores 3 e 4 (mesma Portaria 753/93): +1 catedrático, novo mapa só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:557434:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante na planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Aldeia Gavinha, município de Alenquer, com uma área de 692,2630 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 661/2003) apenas suspende o exercício da caça, sem alteração textual (e foi revogado pelo alterador 3). Alterador 3 (Portaria n.º 318/2004) renova a concessão por 12 anos com área de 601 ha e nova planta (só em imagem), sem instrução textual sobre o original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º — substituída a unidade 6.",
+    "Alterador 1, 1.º: aditado o n.º 1.º-A — inserido depois da unidade 6.",
+    "Alterador 2: suspensão do exercício da caça — não textual, não aplicada.",
+    "Alterador 3: renovação da concessão e nova planta — não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

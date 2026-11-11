@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:420623:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 (Portaria 293/88), 2 (Portaria 755/89) e 3 (Portaria 927/94, 1.º): alteram ou substituem o quadro de pessoal anexo, que só vem em imagem; não aplicados.",
+  "instrucoes": [
+    "Alterador 1: altera o quadro anexo (pessoal operário e auxiliar), só em imagem; não aplicado.",
+    "Alterador 2: altera quadros de vários serviços, incluindo o de Chaves, só em imagem; não aplicado.",
+    "Alterador 3, 1.º: substitui o quadro, só em imagem; não aplicado. 2.º: norma própria sobre a departamentalização do novo quadro, sem instrução de alterar o n.º 2.º do original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

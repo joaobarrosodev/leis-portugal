@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:566419:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Atalaia, Moita do Norte, Tancos, Vila Nova da Barquinha e Golegã, municípios de Vila Nova da Barquinha e Golegã, com a área de 1778,60 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 9,
+      "texto": "1-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 513/2001) suspende a actividade cinegética (revogado pelo alterador 3); alteradores 3 (Portaria n.º 56-B/2002), 4 (Portaria n.º 1118/2005), 5 (Portaria n.º 1598/2007) e 6 (Portaria n.º 1088/2010) renovam, anexam ou desanexam prédios com plantas em imagem — nenhum dá instrução textual sobre o original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º — substituída a unidade 9, mantendo o número «1.º».",
+    "Alterador 1, 1.º: aditado o n.º 1-A — inserido depois da unidade 9.",
+    "Alterador 2: suspensão da actividade cinegética — não textual, não aplicada.",
+    "Alteradores 3 a 6: renovações, anexação e desanexações de áreas — não textuais, não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

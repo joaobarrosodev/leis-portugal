@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 28-33",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Ano económico de 2014 - (euro) 7 482 976,28;\n\nAno económico de 2015 - (euro) 14 965 952,56;\n\nAno económico de 2016 - (euro) 14 965 952,56;\n\nAno económico de 2017 - (euro) 14 965 952,56;\n\nAno económico de 2018 - (euro) 14 965 952,56;\n\nAno económico de 2019 - (euro) 7 482 976,28.",
+    "depois": "Ano económico de 2015 - (euro) 14 965 952,56;\n\nAno económico de 2016 - (euro) 14 965 952,56;\n\nAno económico de 2017 - (euro) 14 965 952,56;\n\nAno económico de 2018 - (euro) 14 965 952,56;\n\nAno económico de 2019 - (euro) 14 465 952,56;\n\nAno económico de 2020 - (euro) 500 000,00.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:551990:por",
+    "alterador": "pt:dre:178997:por"
+  },
+  {
+    "artigo": "unidades 35-40",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Ano económico de 2014 - (euro) 616 650;\n\nAno económico de 2015 - (euro) 2 466 600;\n\nAno económico de 2016 - (euro) 2 466 600;\n\nAno económico de 2017 - (euro) 2 466 600;\n\nAno económico de 2018 - (euro) 2 466 600;\n\nAno económico de 2019 - (euro) 1 849 950.",
+    "depois": "Ano económico de 2015 - (euro) 2 466 600,00;\n\nAno económico de 2016 - (euro) 2 466 600,00;\n\nAno económico de 2017 - (euro) 2 466 600,00;\n\nAno económico de 2018 - (euro) 2 466 600,00;\n\nAno económico de 2019 - (euro) 2 000000,00;\n\nAno económico de 2020 - (euro) 416 600,00;\n\nAno económico de 2021 - (euro) 50 000,00.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:551990:por",
+    "alterador": "pt:dre:178997:por"
+  }
+]

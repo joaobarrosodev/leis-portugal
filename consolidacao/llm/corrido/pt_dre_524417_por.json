@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:524417:por",
+  "substituicoes": [
+    {
+      "de": 84,
+      "ate": 88,
+      "texto": "b) Os financiamentos destinados à instalação, ampliação, remodelação e equipamento de postos de informação turística, desde que as respectivas obras se iniciem em 1992 e cujo termo não ultrapasse 31 de Dezembro de 1993, ficam sujeitos às seguintes condições:\n\nMontante máximo - 1500 contos, com o limite de 75% do custo total do investimento;\n\nPrazo máximo - 10 anos;\n\nPeríodo máximo de carência de capital - 2 anos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.os 1 a 7: indexação das taxas de juro à TBA (quadro só em imagem), redução da pontuação da tabela anexa e dispensa de requisitos do n.º 16 não são alterações textuais do original.",
+  "instrucoes": [
+    "Alterador 1, n.º 8: nova redação da alínea b) do n.º 19; substituídas as unidades 84 a 88 (a linha da taxa de juro desaparece na nova redação; mantida a letra b)).",
+    "Alterador 1, n.os 1 a 7 e 9: regime próprio sem nova redação do texto; não aplicado.",
+    "Alterador 2 (Decreto-Lei n.º 247/95): altera o Decreto-Lei n.º 49266 e mantém em vigor os despachos normativos; nada dirigido ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

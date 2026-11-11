@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:556793:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1014/94 (alterador 1, quadro n.º 4 do anexo II) e a Portaria n.º 46/2004 (alterador 2, anexos I e II) substituem quadros de planos de estudos que só vêm em imagem no documento original; não aplicadas.",
+  "instrucoes": [
+    "Alt. 1, n.º 1.º: quadro n.º 4 do anexo II substituído — só em imagem, não aplicado.",
+    "Alt. 2, n.º 1.º: anexos I e II com nova redacção — só em quadros/imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

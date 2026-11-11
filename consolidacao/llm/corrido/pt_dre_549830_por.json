@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:549830:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 961/97 (alterador 1, n.º 7.º) revoga a autorização de funcionamento do curso de bacharelato em Marketing, sem prejuízo do regime de transição do n.º 9.º; é uma revogação de efeitos (autorização), não uma alteração textual do original, pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "Alt. 1, n.º 7.º: revogada a autorização de funcionamento do curso de bacharelato em Marketing concedida pela Portaria n.º 998/89 — não textual (com regime de transição), não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

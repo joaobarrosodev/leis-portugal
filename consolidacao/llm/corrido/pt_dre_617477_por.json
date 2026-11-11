@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:617477:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante na planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Cela, município de Alcobaça, com a área de 1300,1230 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 e 3 (suspensão da caça; renovação da concessão com 1237 ha, cujo preâmbulo refere um lapso na área mas sem instrução de retificação do texto) não dão nova redação ao original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º (1300,1230 ha) - substituída a unidade 6, mantendo o número 1.º.",
+    "Alterador 1: aditado o n.º 1.º-A - inserido depois da unidade 6.",
+    "Alterador 2: suspensão da caça - não textual, não aplicada.",
+    "Alterador 3: renovação da concessão (1237 ha) - não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

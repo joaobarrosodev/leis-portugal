@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:617335:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 778/2006): atualiza tabelas de remunerações e dá nova redação aos n.os 17.º, 37.º, 39.º e 53.º da Portaria n.º 1098/99 (o 37.º na redação dada pela Portaria n.º 1182/2004); instruções dirigidas a outro diploma, ignoradas.",
+    "Alterador 2 (Portaria n.º 66/2026/1): substitui o mapa de pessoal do anexo II-A da Portaria n.º 1098/99; dirigida a outro diploma, ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "depois da unidade 8",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1.º-A\n\nOpções\n\n1 - O curso de bacharelato em Engenharia Eléctrica Industrial da Escola Superior de Tecnologia de Tomar, criado pela [Portaria n.º 1059/94](https://diariodarepublica.pt/dr/detalhe/portaria/1059-1994-549204), de 2 de Dezembro, alterada pela [Portaria n.º 8/97](https://diariodarepublica.pt/dr/detalhe/portaria/8-1997-300849), de 2 de Janeiro, desdobra-se nas opções de:\n\na) Automação e Informática Industrial;\n\nb) Energia e Instalações de Potência.\n\n2 - Em cada ano lectivo só se abrem novas inscrições nas opções em que o número de alunos a inscrever no 5.º semestre seja de pelo menos 15.\n\n3 - Se o número total de alunos a inscrever no 5.º semestre for inferior a 15, só funciona a opção com maior número de interessados na inscrição.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:549204:por",
+    "alterador": "pt:dre:239989:por"
+  },
+  {
+    "artigo": "unidades 12-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º\n\nEstágios\n\nNo final dos 4.º e 6.º semestres curriculares a Escola Superior de Tecnologia de Tomar organizará estágios com a duração máxima anual de 45 dias.",
+    "depois": "3.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:549204:por",
+    "alterador": "pt:dre:239989:por"
+  }
+]

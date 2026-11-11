@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:463197:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Lamosa, município de Sernancelhe, com a área de 1492,6754 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Plantas (Portarias 1050/97 e 1023/2001) só em imagem; as suspensões (Portarias 987/97 e 535/2001) e a renovação (Portaria 1023/2001) não alteram o texto.",
+  "instrucoes": [
+    "P. 987/97: suspensão da actividade cinegética -> não textual",
+    "P. 1050/97 1.º: nova redação do n.º 1.º -> substituída a unidade 6",
+    "P. 1050/97 1.º: aditado o n.º 1.º-A -> inserido depois da unidade 6",
+    "P. 535/2001: suspensão -> não textual",
+    "P. 1023/2001: renovação da concessão -> não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

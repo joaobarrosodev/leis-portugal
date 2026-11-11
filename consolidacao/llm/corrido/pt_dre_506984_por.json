@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:506984:por",
+  "substituicoes": [
+    {
+      "de": 58,
+      "ate": 66,
+      "texto": "7.º - (Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DR 22/2007): orgânica da DGAEP; o art. 10.º mantém transitoriamente o Departamento do n.º 7.º, sem alterar o texto — nada a aplicar.",
+    "Alterador 2 (DR 20/2007): orgânica da SGMFAP — não contém instruções dirigidas ao original.",
+    "Alterador 3, art. 2.º: extinção do DRSP — disposição própria, sem alteração textual.",
+    "Alterador 3, art. 4.º, a): revoga o n.º 7.º — unidades 58 a 66 substituídas por '7.º - (Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

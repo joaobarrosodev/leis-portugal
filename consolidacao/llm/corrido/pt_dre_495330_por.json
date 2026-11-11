@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:495330:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 substitui os quadros de pessoal médico (anexos só em imagem); alterador 2, n.º 1.º, substitui o quadro de pessoal anexo (só em imagem). O n.º 2.º do alterador 2 é disposição própria (unidades orgânicas no seu anexo I), não uma nova redação do n.º 2.º do original, pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1: substitui os quadros de pessoal médico pelos anexos (imagem) — não aplicável.",
+    "Alterador 2, 1.º: substitui o quadro de pessoal do anexo (imagem) — não aplicável.",
+    "Alterador 2, 2.º: correspondência dos lugares de chefia às unidades orgânicas do seu anexo I — disposição própria, não aplicada ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

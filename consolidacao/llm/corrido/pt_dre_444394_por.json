@@ -1,0 +1,52 @@
+{
+  "id": "pt:dre:444394:por",
+  "substituicoes": [
+    {
+      "de": 40,
+      "ate": 40,
+      "texto": "3.ª área de especialização em História Moderna:",
+      "alterador": 2
+    },
+    {
+      "de": 45,
+      "ate": 49,
+      "texto": "I) Inquisição e Sociedade (Séculos XVI e XVII) ... 6\n\nII) Expansão Portuguesa ... 6\n\nIII) Paleografia Moderna ... 6\n\nIV) Arte do Renascimento ... 6\n\nV) Literatura Portuguesa ...6",
+      "alterador": 2
+    },
+    {
+      "de": 50,
+      "ate": 50,
+      "texto": "4.ª Área de especialização em História Contemporânea:",
+      "alterador": 3
+    },
+    {
+      "de": 52,
+      "ate": 53,
+      "texto": "I) História Contemporânea de Portugal (Séculos XVIII-XX) ... 8\n\nII) História da Cultura Portuguesa Contemporânea (Séculos XVIII-XX) ... 4",
+      "alterador": 3
+    },
+    {
+      "de": 55,
+      "ate": 58,
+      "texto": "I) Empresas, Áreas e Legislação Económica ... 4\n\nII) Comunidade Nacional e Grupos Particulares (Séculos XVIII-XX) ... 4\n\nIII) Expressões Literárias de Cultura Contemporânea ... 4\n\nIV) História Contemporânea Comparada ... 4",
+      "alterador": 3
+    },
+    {
+      "de": 59,
+      "ate": 67,
+      "texto": "5.ª área de especialização em História da Arte:\n\na) Obrigatórias:\n\nI) História da Arte ... 6\n\nII) História da Cultura ... 4\n\nb) Optativas:\n\nI) Paleografia ... 6\n\nII) Iconologia ... 6\n\nIII) Arqueologia ... 6\n\nIV) Métodos de Laboratório Aplicados na História da Arte ... 6\n\nV) Codicologia ... 6\n\nVI) Conservação do Património Artístico Nacional ... 6",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação da 5.ª área de especialização do n.º 3.º; substituí as unidades 59 a 67.",
+    "Alterador 2: nova redação da 3.ª área de especialização do n.º 3.º; substituí a unidade 40 (área em minúscula) e as optativas, unidades 45 a 49 (as obrigatórias ficam iguais).",
+    "Alterador 3, 1.º: nova redação do n.º 3.º com '...' para o proémio e as áreas 1.ª a 3.ª e '5.ª ...' para a 5.ª (ficam); só a 4.ª área muda: substituí as unidades 50, 52-53 e 55-58. Mantive a epígrafe do n.º 3.º como está.",
+    "Alterador 3, 2.º e 3.º: regime de transição e aplicação; normas próprias, sem alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

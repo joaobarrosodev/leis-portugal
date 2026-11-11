@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Os agricultores estão obrigados a apresentar, no acto de inscrição, comprovativo do número de beneficiário da Segurança Social e o boletim de vacinação da febre aftosa, no caso dos bovinos, excepto nos casos em que não tenha havido campanhas de vacinação.",
+    "depois": "3.º Os agricultores estão obrigados a apresentar, no acto de inscrição:\n\na) Documento comprovativo de que se encontram inscritos na Segurança Social como produtores agrícolas ou, no caso dos agrupamentos, como contribuintes no âmbito de uma actividade agrícola;\n\nb) Boletim de vacinação da febre aftosa, no caso dos bovinos, excepto quando não tenha havido campanhas de vacinação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:614634:por",
+    "alterador": "pt:dre:333339:por"
+  }
+]

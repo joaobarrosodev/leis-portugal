@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 22-22",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Dois representantes do Ministro para a Qualificação e o Emprego, um dos quais preside;",
+    "depois": "a) Director do Programa, que preside;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:517977:por",
+    "alterador": "pt:dre:229769:por"
+  },
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Um representante do Ministro da Solidariedade e Segurança Social; e",
+    "depois": "d) Dois representantes do Ministro do Trabalho e da Solidariedade;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:517977:por",
+    "alterador": "pt:dre:229769:por"
+  },
+  {
+    "artigo": "unidades 28-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Assegurar o conhecimento e diagnóstico da realidade relativa ao mercado de emprego para os jovens e à sua inserção profissional;",
+    "depois": "a) Assegurar, em articulação com a Comissão de Acompanhamento do Plano Nacional de Emprego, o conhecimento e diagnóstico da realidade relativa ao mercado de emprego para os jovens e à sua inserção profissional;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:517977:por",
+    "alterador": "pt:dre:229769:por"
+  },
+  {
+    "artigo": "unidades 30-32",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Propor, sempre que necessário, a adopção de medidas que melhorem a articulação entre os serviços dependentes dos membros do Governo directamente envolvidos na execução do Programa;\n\nd) Assegurar a articulação com os restantes ministérios sectoriais, na medida em que tal se justifique;\n\ne) Assegurar a avaliação global do Programa, difundindo relatórios periódicos relativos à execução das medidas e eficácia das mesmas.",
+    "depois": "c) Propor orientações e a adopção de medidas que promovam os objectivos do Programa;\n\nd) Aprovar os planos e relatórios anuais de execução e avaliação do Programa.\n\ne) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:517977:por",
+    "alterador": "pt:dre:229769:por"
+  },
+  {
+    "artigo": "depois da unidade 32",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "4 - É criada, sob a forma de estrutura de projecto, prevista no artigo 10.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, na dependência do Ministro do Trabalho e da Solidariedade, com faculdade de delegação, a Direcção do Programa para a Integração de Jovens na Vida Activa.\n\n5 - A direcção do Programa é constituída por:\n\na) Um director do Programa;\n\nb) Um director-adjunto do Programa;\n\nc) Uma unidade executiva, de apoio técnico e administrativo ao director do Programa.\n\n6 - Compete ao director do Programa:\n\na) Dirigir a unidade executiva e garantir a afectação de recursos necessários ao respectivo funcionamento;\n\nb) Representar institucionalmente o Programa;\n\nc) Identificar áreas prioritárias de intervenção do Programa;\n\nd) Coordenar e acompanhar o desenvolvimento das acções do Programa;\n\ne) Promover a articulação e a coordenação entre os serviços envolvidos no Programa;\n\nf) Apoiar e reforçar a articulação com as estruturas da União Europeia que detêm competências no âmbito da inserção de jovens na vida activa;\n\ng) Estabelecer a articulação com estruturas e ou organizações similares de outros Estados membros da União Europeia;\n\nh) Promover a avaliação das acções do Programa;\n\ni) Promover iniciativas de divulgação das acções do Programa.\n\n7 - O mandato da direcção do Programa terá a duração de três anos.\n\n8 - Para a prossecução dos seus objectivos, compete à direcção do Programa, através do seu director:\n\na) Solicitar aos serviços dependentes dos Ministérios da Educação e do Trabalho e da Solidariedade todas as informações e documentação neles disponíveis relacionadas com o seu mandato;\n\nb) Solicitar pareceres aos serviços competentes.\n\n9 - É nomeado director do Programa, equiparado para efeitos remuneratórios a director-geral, o licenciado João António Cortês dos Ramos Pinheiro.\n\n10 - É nomeado director-adjunto do Programa o licenciado José Joaquim Machado Courinha Leitão, que exercerá funções a título gratuito e substituirá, nas suas faltas e impedimentos, o director do Programa.\n\n11 - Para a unidade executiva podem ser nomeados, em regime de comissão de serviço, requisitados ou destacados, funcionários da administração central, regional ou local ou técnicos de empresas públicas ou privadas, podendo ainda, quando as circunstâncias o aconselharem, haver recurso a contratos de prestação de serviços ou a contratos de trabalho a termo certo, os quais caducarão automaticamente com a extinção da direcção do Programa.\n\n12 - Os encargos orçamentais decorrentes da presente resolução são suportados por verbas provenientes dos orçamentos do Ministério da Educação, nos termos a definir por despacho conjunto dos Ministros das Finanças e da Educação e, bem assim, por verbas do orçamento do Instituto do Emprego e Formação Profissional, nos limites a fixar por despacho do Ministro do Trabalho e da Solidariedade.\n\n13 - O apoio administrativo e logístico ao funcionamento da direcção do Programa é assegurado pelo Instituto do Emprego e Formação Profissional.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:517977:por",
+    "alterador": "pt:dre:229769:por"
+  }
+]

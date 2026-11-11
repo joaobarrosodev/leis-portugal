@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:610255:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 832/89 (alteradores 1 e 2, o mesmo texto) diz retificar a Portaria n.º 62/89, mas o conteúdo respeita à zona de caça associativa do Clube de Caçadores Ferpinta (Rosmaninhal, Idanha-a-Nova, processo n.º 38, Portaria n.º 106/89), que não existe no texto atual (zona turística da SOMERCA em Mértola, processo n.º 33). A anexação de prédios, a nova área de 1036,80 ha e a substituição da planta (só em imagem) não têm alvo seguro no original.",
+  "instrucoes": [
+    "Alterador 1, 1.º a 3.º: anexação de prédios do Rosmaninhal e área de 1036,80 ha para a concessão Ferpinta; não corresponde ao texto do original, não aplicado.",
+    "Alterador 1, 4.º: substituição da planta anexa (imagem); não textual, não aplicado.",
+    "Alterador 2: repete o texto do alterador 1; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

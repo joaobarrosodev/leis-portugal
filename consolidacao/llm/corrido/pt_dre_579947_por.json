@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:579947:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Lourinhã, Santa Bárbara, Marteleira e Miragaia, município da Lourinhã, com a área de 1628,3160 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: o n.º 7.º passa, quanto ao número de guardas, a obrigar a manter só um guarda florestal auxiliar, mas sem nova redacção do texto; não aplicado. Alterador 2 (suspensão do exercício da caça) e alterador 3 (renovação da concessão por 12 anos, com área de 1728,70 ha e nova planta em imagem) não alteram textualmente o original.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redacção do n.º 1.º; substituída a unidade 6.",
+    "Alterador 1, n.º 1.º (2.º parágrafo): aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 1, n.º 2.º: redução para um guarda no n.º 7.º sem nova redacção; não aplicada.",
+    "Alterador 2, n.º 1.º: suspensão do exercício da caça até à renovação; não textual.",
+    "Alterador 3, n.º 1.º: renovação da concessão por 12 anos com 1728,70 ha; não textual (a correcção da área está só no preâmbulo)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

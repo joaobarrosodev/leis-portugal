@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:431580:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 (Portaria n.º 376/97) e 2 (Portaria n.º 773/99) substituem o plano de estudos anexo (unidade 16), mas o novo plano só vem em imagem (ver documento original); não se pode aplicar textualmente. As restantes normas do alterador 2 (número máximo de alunos, ano e semestre lectivos, aplicação, transição) e o 2.º do alterador 1 são normas próprias, não alterações ao texto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o plano de estudos passa a ser o do anexo da Portaria n.º 376/97, só em imagem; não aplicado.",
+    "Alterador 1, 2.º: aplicação a partir de 1996-1997; norma própria, sem alteração ao texto.",
+    "Alterador 2, 1.º: o plano de estudos passa a ser o do anexo da Portaria n.º 773/99, só em imagem; não aplicado.",
+    "Alterador 2, 2.º a 5.º: normas próprias (vagas, semanas lectivas, aplicação, transição) que não alteram o texto do original; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

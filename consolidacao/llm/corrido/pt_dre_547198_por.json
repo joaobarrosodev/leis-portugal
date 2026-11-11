@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:547198:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 772/97): a mudança de denominação do curso (Ciências Sociais para Sociologia) não é uma instrução de nova redação do texto do original; o novo plano de estudos (anexo) só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o curso passa a designar-se Sociologia - alteração não textual, não aplicada.",
+    "Alterador 1, 2.º: novo plano de estudos (anexo em imagem) - não aplicado.",
+    "Alterador 1, 3.º e 4.º: disposições próprias (aplicação e transição) - ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:421808:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "1.º É homologado o protocolo que criou o Centro de Formação Profissional para o Sector Alimentar (CFPSA), outorgado entre o Instituto do Emprego e Formação Profissional (IEFP) e a Associação Portuguesa de Geladeiros Artesanais (ARTOGEL), a Associação dos Industriais de Panificação, Pastelaria e Similares do Norte (AIPAN), a Associação do Centro dos Industriais de Panificação e Pastelaria (ACIP), a Associação dos Comerciantes de Carnes do Concelho de Lisboa e Outros (ACCCLO), a Associação da Restauração e Similares de Portugal (ARESP) e o Sindicato dos Trabalhadores de Escritório, Comércio, Hotelaria e Serviços (SITESE).",
+      "alterador": 3
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "O Instituto do Emprego e Formação Profissional (IEFP), a Associação Portuguesa de Geladeiros Artesanais (ARTOGEL), a Associação dos Industriais de Panificação, Pastelaria e Similares do Norte (AIPAN), a Associação do Centro dos Industriais de Panificação e Pastelaria (ACIP), a Associação dos Comerciantes de Carnes do Concelho de Lisboa e Outros (ACCCLO), a Associação da Restauração e Similares de Portugal (ARESP) e o Sindicato dos Trabalhadores de Escritório, Comércio, Hotelaria e Serviços (SITESE) adoptam o protocolo que criou o Centro de Formação Profissional para o Sector Alimentar (CFPSA) de harmonia com as cláusulas seguintes:",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 4 (Portaria n.º 309/2016): o artigo 1.º só declara quem são os outorgantes, sem redação nova para o texto; as alterações ao protocolo homologadas pelo artigo 2.º estão num anexo que só existe em imagem (ver documento original), por isso não se podem aplicar. O alterador 1 só lista as entidades, sem redação completa do texto introdutório; a mudança ficou absorvida pelas redações completas dos alteradores 2 e 3.",
+  "instrucoes": [
+    "Alterador 1: retifica as entidades do texto introdutório do protocolo (unidade 15) com uma lista, sem redação completa; não aplicado à parte porque os alteradores 2 e 3 dão depois a redação inteira da mesma unidade.",
+    "Alterador 2, 1.º: nova redação do n.º 1.º (unidade 9); substituída depois pela redação do alterador 3.",
+    "Alterador 2, 2.º: nova redação do texto introdutório do protocolo (unidade 15); substituída depois pela redação do alterador 3.",
+    "Alterador 3, 1.º: nova redação do n.º 1.º; substituí a unidade 9.",
+    "Alterador 3, 2.º: nova redação do texto introdutório do protocolo; substituí a unidade 15.",
+    "Alterador 4: artigo 1.º declara os outorgantes (não textual) e o artigo 2.º homologa alterações que só estão no anexo em imagem; não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

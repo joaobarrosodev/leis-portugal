@@ -1,0 +1,65 @@
+---
+id: pt:dre:566419:por
+title: Portaria n.º 600-C/96
+original: data/portugal/portarias/1996/portaria-600-c-96.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:659755:por
+    title: Portaria n.º 1019/97
+    publication_date: '1997-09-24'
+---
+
+# Portaria n.º 600-C/96
+
+de 22 de Outubro
+
+Pela [Portaria n.º 460/95](https://diariodarepublica.pt/dr/detalhe/portaria/460-1995-507260), de 15 de Maio, foi concedida ao Clube de Caça e Pesca do Concelho de Vila Nova da Barquinha uma zona de caça associativa situada nos municípios de Vila Nova da Barquinha e Golegã, com uma área de 2117,50 ha.
+
+A concessionária requereu agora a anexação de algumas propriedades com uma área de 30,50 ha e a desanexação de outras, com uma área de 274,5740 ha, situadas no município de Vila Nova da Barquinha.
+
+Assim:
+
+Com fundamento no disposto nos artigos 19.º, 20.º, 21.º e 26.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 79.º, 80.º e 81.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto;
+
+Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Atalaia, Moita do Norte, Tancos, Vila Nova da Barquinha e Golegã, municípios de Vila Nova da Barquinha e Golegã, com a área de 1778,60 ha.
+
+> Alterado pelo/a [Portaria n.º 1019/97](https://diariodarepublica.pt/dr/detalhe/portaria/1019-1997-659755), publicado em 1997-09-24.
+
+1-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 1019/97](https://diariodarepublica.pt/dr/detalhe/portaria/1019-1997-659755), publicado em 1997-09-24.
+
+2.º Pelo presente diploma é concessionada até 15 de Maio de 2001 ao Clube de Caça e Pesca do Concelho de Vila Nova da Barquinha (registo na Direcção-Geral das Florestas n.º 3.1250.92), com sede na Rua de D. Maria II, 70, Vila Nova da Barquinha, a zona de caça associativa de Vila Nova da Barquinha (processo n.º 1728 da Direcção-Geral das Florestas).
+
+3.º O Clube de Caça e Pesca do Concelho de Vila Nova da Barquinha, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigado a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
+
+4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados do Clube de Caça e Pesca do Concelho de Vila Nova da Barquinha, com observância das regras legais e das suas normas estatutárias e regulamentares.
+
+5.º - 1 - A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.
+
+2 - A zona de caça só poderá entrar em funcionamento logo que esteja sinalizada de acordo com as condições definidas nos n.os 6.º a 9.º da [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162) e 3.º e 4.º da [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925).
+
+6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 72.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se o concessionário a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697), de 18 de Março.
+
+7.º O disposto no presente diploma não é aplicável às áreas consignadas no artigo 14.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.
+
+8.º Esta concessão é renovável nos termos do disposto no artigo 83.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765).
+
+9.º É revogada a [Portaria n.º 460/95](https://diariodarepublica.pt/dr/detalhe/portaria/460-1995-507260), de 15 de Maio.
+
+10.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+Assinada em 18 de Outubro de 1996.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/245b01/00030004.pdf)

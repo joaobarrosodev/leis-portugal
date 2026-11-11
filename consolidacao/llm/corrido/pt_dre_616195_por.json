@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:616195:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As Portarias n.os 1098/92 e 436/96 substituem (parcial e totalmente) o quadro de pessoal anexo, que só vem em imagem; a Portaria n.º 436/96 define as unidades orgânicas no seu próprio anexo I sem dar nova redação ao 2.º do original. Nada textual a aplicar.",
+  "instrucoes": [
+    "Alterador 1: substituição do quadro anexo na parte das carreiras de técnico superior de saúde, serviço social e biblioteca (imagem); não aplicado.",
+    "Alterador 2, 1.º: substituição do quadro anexo (imagem); não aplicado.",
+    "Alterador 2, 2.º e 3.º: unidades orgânicas e conteúdo funcional definidos nos anexos I e II da própria portaria, sem alterar o texto do original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

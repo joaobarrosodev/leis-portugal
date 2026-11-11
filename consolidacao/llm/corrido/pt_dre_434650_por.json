@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:434650:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 (Portaria n.º 1234/2003) e 2 (Portaria n.º 816/2004) aditam e alteram GDH nas tabelas dos anexos I e II e republicam esses anexos, mas as tabelas só vêm em imagem (ver tabela no documento original); não se podem aplicar textualmente. Os n.os 2.º e 3.º do alterador 1 são normas próprias (âmbito das tabelas e acréscimo de 20 %), não alterações ao texto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º e 4.º: adita actos e GDH às tabelas e republica os anexos I e II, só em imagem; não aplicado.",
+    "Alterador 1, 2.º, 3.º e 5.º: normas próprias (aplicação a todas as unidades, acréscimo de 20 %, produção de efeitos); sem alteração ao texto.",
+    "Alterador 2, 1.º, 2.º e 5.º: altera e adita GDH aos anexos I e II e republica-os, só em imagem; não aplicado.",
+    "Alterador 2, 3.º e 4.º: produção de efeitos; norma própria, sem alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

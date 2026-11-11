@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:480319:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Pela presente portaria é concessionada, até 28 de Agosto de 2003, à Associação de Caçadores Abade de Baçal (registo na Direcção-Geral das Florestas n.º 1.1626.96), com sede em Baçal, Bragança, a zona de caça associativa da Baixa Lombada (processo n.º 1963 da Direcção-Geral das Florestas).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (suspensão do exercício da caça até à portaria de renovação) e alterador 3 (renovação da concessão por seis anos com a área de 1930 ha e nova planta; revogação da Portaria n.º 707/2003) não dão nova redação a nenhuma unidade do original e a planta só vem em imagem; não aplicados ao texto.",
+  "instrucoes": [
+    "Alterador 1: retificação no n.º 2.º, onde se lê 'pelo período de seis anos' deve ler-se 'até 28 de Agosto de 2003' - substituída a unidade 7.",
+    "Alterador 2, n.os 1.º e 2.º: suspensão temporária da caça - alteração não textual, não aplicada (nao_aplicavel).",
+    "Alterador 3, n.º 1.º: renovação com nova área e planta - alteração não textual, não aplicada (nao_aplicavel).",
+    "Alterador 3, n.º 2.º: revoga a Portaria n.º 707/2003, outro diploma - ignorado; n.º 3.º produção de efeitos - nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

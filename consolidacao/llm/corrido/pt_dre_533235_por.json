@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:533235:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 695/96) altera o quadro de pessoal anexo, que só vem em imagem. Alterador 2 (Portaria n.º 856/97) substitui o quadro anexo (só em imagem); os seus n.os 2.º e 3.º são disposições próprias, sem instrução de nova redação do texto do original.",
+  "instrucoes": [
+    "Alterador 1: altera o quadro de pessoal anexo (imagem) - não aplicado.",
+    "Alterador 2, 1.º: substitui o quadro anexo (imagem) - não aplicado.",
+    "Alterador 2, 2.º e 3.º: disposições próprias da nova portaria, não dirigidas ao texto do original - ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

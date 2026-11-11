@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:612456:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O Despacho Normativo n.º 189/91 descongela lugares em mapa próprio e abate lugares à quota global do mapa anexo, sem alterar o texto; a Declaração de Rectificação n.º 214/91 corrige o mapa anexo, que só vem em imagem. Nada textual a aplicar.",
+  "instrucoes": [
+    "Alterador 1, 1.º a 3.º: descongelamento excecional e abate de lugares às quotas do mapa anexo (imagem); não textual, não aplicado.",
+    "Alterador 2: retificação no mapa anexo («Técnico-adjunto» por «Técnico-ajudante de medicina legal»), que só existe em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

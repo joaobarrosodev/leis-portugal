@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:557605:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 972/94): o novo plano de estudos e a revogação dos quadros anexos incidem sobre o anexo, que só existe em imagem; a transferência de competências para a Escola Superior de Tecnologia e de Gestão não é uma alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, 2.º: plano de estudos passa a ser o do anexo do alterador — anexo só em imagem, não aplicado.",
+    "Alterador 1, 3.º: competências passam para os órgãos da ESTG — não textual, não aplicado.",
+    "Alterador 1, 5.º: revogados os quadros anexos — anexo só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

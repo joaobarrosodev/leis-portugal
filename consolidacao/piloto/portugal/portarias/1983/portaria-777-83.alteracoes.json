@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - As áreas científicas e as unidades de crédito que integram o plano de estudos do curso no ramo de Psicologia Social distribuem-se da seguinte forma:",
+    "depois": "As áreas científicas e as unidades de crédito que integram o plano de estudos do curso no ramo de Psicologia Social distribuem-se da seguinte forma:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453833:por",
+    "alterador": "pt:dre:666118:por"
+  },
+  {
+    "artigo": "unidades 18-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "e) Matemática e Estatística ... 15\n\nf) Psicoterapia e Aconselhamento ... 3\n\ng) Orientação Escolar e Profissional ... 3\n\nh) Psicologia Social ... 18",
+    "depois": "e) Ciências da Educação ... 2\n\nf) Matemática e Estatística ... 15\n\ng) Psicologia Social ... 21",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453833:por",
+    "alterador": "pt:dre:666118:por"
+  },
+  {
+    "artigo": "unidades 23-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Psicologia ... 14\n\nb) Biologia ... 14\n\nc) Ciências da Educação ... 14\n\nd) Matemática e Estatística ... 14",
+    "depois": "a) Psicologia ... 12\n\nb) Biologia ... 12\n\nc) Ciências Sociais ... 12\n\nd) Ciências da Educação ... 12\n\ne) Matemática e Estatística ... 12",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453833:por",
+    "alterador": "pt:dre:666118:por"
+  },
+  {
+    "artigo": "unidades 28-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Total ... 143",
+    "depois": "Total ... 140",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453833:por",
+    "alterador": "pt:dre:666118:por"
+  }
+]

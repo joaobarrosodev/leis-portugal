@@ -1,0 +1,35 @@
+{
+  "id": "pt:dre:564807:por",
+  "substituicoes": [
+    {
+      "de": 41,
+      "ate": 41,
+      "texto": "17 - Constituem ainda obrigações específicas da CDG da sala de jogos tradicionais proceder mensalmente à liquidação do valor correspondente à percentagem do montante global das gratificações respeitante aos profissionais abrangidos pelo Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos, de que constitui receita própria, nos termos previstos no respetivo Regulamento, e depositá-lo na respetiva conta bancária.",
+      "alterador": 3
+    },
+    {
+      "de": 43,
+      "ate": 43,
+      "texto": "19 - Do mapa são extraídas cópias para o Serviço de Regulação e Inspeção de Jogos do Turismo de Portugal, I. P., sindicatos representativos dos trabalhadores, empresa concessionária, para a afixação nas instalações do pessoal e, quanto às salas de jogos tradicionais, para o Fundo Especial de Segurança dos Profissionais de Banca nos Casinos, que será acompanhado de relação discriminada dos depósitos efetuados em cada mês.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 107,
+      "texto": "D) Empregado de sistemas informáticos de controlo de jogo:\n\nn) Operador.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: aditada ao n.º 1 do título III a alínea D/n) Operador — substituída pelo alterador 2, que revoga a Portaria n.º 63/2002 e adita a mesma alínea; fica uma só inserção, com o texto do alterador 2.",
+    "Alterador 2, 1.º: aditada ao n.º 1 do título III a alínea D) Empregado de sistemas informáticos de controlo de jogo / n) Operador — inserida depois da unidade 107.",
+    "Alterador 3, artigo 2.º: nova redação do n.º 17 das regras — substituída a unidade 41.",
+    "Alterador 3, artigo 2.º: nova redação do n.º 19 das regras — substituída a unidade 43.",
+    "Alterador 3, restantes artigos e Regulamento anexo: não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

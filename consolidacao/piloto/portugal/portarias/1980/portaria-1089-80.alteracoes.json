@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º O quadro de pessoal da Junta Nacional de Investigação Científica e Tecnológica, decorrente dos Decretos-Leis n.os 47791, [601/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/601-1970-146953) e [627/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/627-1973-412030), respectivamente de 11 de Julho de 1967, 5 de Dezembro e 24 de Novembro, é substituído, a partir da entrada em vigor do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e até à total integração do pessoal no quadro aprovado pelo [Decreto-Lei n.º 519-S1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-s1-1979-157179), de 29 de Dezembro, pelo quadro constante do mapa IV anexo ao presente diploma, dele fazendo parte integrante.",
+    "depois": "4.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:459589:por",
+    "alterador": "pt:dre:354088:por"
+  }
+]

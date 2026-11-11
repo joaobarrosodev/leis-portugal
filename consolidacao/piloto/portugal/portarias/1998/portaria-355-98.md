@@ -1,0 +1,53 @@
+---
+id: pt:dre:480319:por
+title: Portaria n.º 355/98
+original: data/portugal/portarias/1998/portaria-355-98.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:655315:por
+    title: Portaria n.º 1091/99
+    publication_date: '1999-12-17'
+---
+
+# Portaria n.º 355/98
+
+de 23 de Junho
+
+Com fundamento no disposto nos artigos 19.º, 20.º 21.º e 26.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 79.º, 80.º e 104.º, n.º 1, do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto;
+
+Ouvidos o Conselho Nacional da Caça e da Conservação da Fauna e o Conselho Cinegético Municipal:
+
+Manda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, o seguinte:
+
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Baçal, município de Bragança, com uma área de 1960 ha.
+
+2.º Pela presente portaria é concessionada, até 28 de Agosto de 2003, à Associação de Caçadores Abade de Baçal (registo na Direcção-Geral das Florestas n.º 1.1626.96), com sede em Baçal, Bragança, a zona de caça associativa da Baixa Lombada (processo n.º 1963 da Direcção-Geral das Florestas).
+
+> Alterado pelo/a [Portaria n.º 1091/99](https://diariodarepublica.pt/dr/detalhe/portaria/1091-1999-655315), publicado em 1999-12-17.
+
+3.º A Associação de Caçadores Abade de Baçal, como entidade gestora da zona de caça associativa concedida pela presente portaria, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
+
+4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados da Associação de Caçadores Abade de Baçal, com observância das regras legais e das suas normas estatutárias e regulamentares.
+
+5.º - 1 - A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.
+
+2 - A zona de caça só poderá entrar em funcionamento logo que esteja sinalizada de acordo com as condições definidas nos n.os 6.º a 9.º da [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162) e 3.º e 4.º da [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925).
+
+6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 72.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697), de 18 de Março.
+
+7.º O disposto na presente portaria não é aplicável às áreas consignadas no artigo 14.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.
+
+8.º Esta concessão é renovável nos termos do disposto nos artigos 83.º e 104.º, n.º 2, do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765).
+
+9.º É revogada a [Portaria n.º 765/97](https://diariodarepublica.pt/dr/detalhe/portaria/765-1997-194593), de 28 de Agosto.
+
+Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.
+
+Assinada em 19 de Maio de 1998.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/06/142b00/27872788.pdf)
