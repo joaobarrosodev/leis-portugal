@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-12-25'
+version_history:
+  file: portaria-850-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-09-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-12-25'
+    amending: pt:dre:552374:por
+    amending_title: Portaria n.º 1418/2006
+    changes:
+    - Altera Artigo unidades 3-3
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/850/2005/09/20/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:08:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1418/2006. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2005/portaria-850-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,7 +139,9 @@ validation:
 
 de 20 de Setembro
 
-Pela [Portaria n.º 1471/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1471-2002-451585), de 19 de Novembro, foi criada a zona de caça municipal de Veiga de Lila (processo n.º 3214-DGRF), situada no município de Valpaços, e transferida a sua gestão para a Associação de Caçadores de Deimãos, São Pedro de Veiga de Lila, Canaveses e Cadouço.
+Pela [Portaria n.º 1471/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1471-2002-451585), de 19 de Novembro, foi criada a zona de caça municipal de Veiga de Lila (processo n.º 3214-DGRF), situada no município de Valpaços, e transferida a sua gestão para o Clube de Caça e Pesca de Veiga de Lila.
+
+> Alterado pelo/a [Portaria n.º 1418/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1418-2006-552374), publicado em 2006-12-20.
 
 A concessionária requereu agora a anexação à referida zona de caça de outros prédios rústicos com a área de 503 ha.
 

@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-10-31'
+version_history:
+  file: declaracao-retificacao-16-i-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-09-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-10-31'
+    amending: pt:dre:235758:por
+    amending_title: Declaração de Rectificação n.º 19-N/98
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declrectif/16-i/1998/09/30/p/dre/pt/html
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T18:51:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 19-N/98.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/declaracoes-retificacao/1998/declaracao-retificacao-16-i-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -104,6 +119,8 @@ Segundo comunicação do Ministério da Cultura, a [Portaria n.º 681/98](https:
 
 No grupo de pessoal técnico, onde se lê «Técnico especialista principal (c) - 2» deve ler-se «Técnico especialista principal (e) - 2».
 
-No grupo de pessoal administrativo, onde se lê «Chefe de secção (c) - 2» deve ler-se «Chefe de secção (e) - 2».
+No grupo de pessoal administrativo, onde se lê «Chefe de secção (c) - 2» deve ler-se «Chefe de secção (e) - 4».
+
+> Alterado pelo/a [Declaração de Rectificação n.º 19-N/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-n-1998-235758), publicado em 1998-10-31.
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 24 de Setembro de 1998. - O Secretário-Geral, Alexandre Figueiredo.

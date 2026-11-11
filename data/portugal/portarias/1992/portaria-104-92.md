@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-02-24'
+version_history:
+  file: portaria-104-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-02-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-02-24'
+    amending: pt:dre:656141:por
+    amending_title: Portaria n.º 209/93
+    changes:
+    - Altera Artigo unidades 32-36
+    - Altera Artigo unidades 87-88
+    - Adita Artigo depois da unidade 92
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/104/1992/02/19/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:07:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 209/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-104-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,15 +195,25 @@ b) Associações de horticultores, cooperativas agrícolas, sociedades de agricu
 
 Despesas elegíveis
 
-1 - Para efeitos da presente secção são consideradas as seguintes despesas e respectivos custos máximos:
+1 - Para efeitos da presente secção, são consideradas as despesas com a aquisição de:
 
-a) Máquinas automotrizes de colheita - até 350 contos por hectare;
+a) Máquinas de colheita automotrizes;
 
-b) Plantadores, semeadores, armadores e arrancadores - até 1000 contos por hectare.
+b) Máquinas de colheita rebocáveis;
 
-2 - As despesas com a aquisição das máquinas referidas na alínea a) do ponto anterior só são elegíveis quando se trate de áreas com, pelo menos, 50 ha.
+c) Plantadores, semeadores, armadores, arrancadores e sachadores.
 
-3 - As despesas com a aquisição das máquinas referidas na alínea b) do ponto 1 só são elegíveis quando se trate de áreas com, pelo menos, 2 ha.
+2 - As despesas com a aquisição das máquinas referidas na alínea a) do número anterior só são elegíveis quando se trate de:
+
+a) Áreas com, pelo menos, 30 ha;
+
+b) Máquinas cuja potência seja igual ou superior a 70 cv.
+
+3 - As despesas com a aquisição das máquinas referidas na alínea b) do n.º 1 só são elegíveis, no caso da cultura do tomate de indústria, quando se trate de áreas com, pelo menos, 10 ha.
+
+4 - As despesas com a aquisição das máquinas referidas na alínea c) do n.º 1 só são elegíveis quando se trate de áreas com, pelo menos, 2 ha.
+
+> Alterado pelo/a [Portaria n.º 209/93](https://diariodarepublica.pt/dr/detalhe/portaria/209-1993-656141), publicado em 1993-02-19.
 
 6.º
 
@@ -288,9 +315,11 @@ O montante máximo de investimento considerado para efeitos de cálculo da ajuda
 
 15.º
 
-Ajudas à mecanização e a culturas protegidas
+Ajudas às culturas protegidas
 
-1 - O processo de candidatura às ajudas a atribuir às acções referidas nas alíneas a) e b) do n.º 3.º inicia-se com a apresentação pelos interessados, junto do serviço regional de agricultura competente, de uma ficha de inscrição, de acordo com modelo a distribuir por esse mesmo serviço, até ao último dia do mês de Fevereiro de cada ano.
+1 - O processo de candidatura às ajudas a atribuir às acções referidas na alínea b) do n.º 3.º inicia-se com a apresentação pelos interessados, junto do serviço regional de agricultura competente, de uma ficha de inscrição, de acordo com modelo a distribuir por esse serviço, até ao último dia do mês de Fevereiro de cada ano.
+
+> Alterado pelo/a [Portaria n.º 209/93](https://diariodarepublica.pt/dr/detalhe/portaria/209-1993-656141), publicado em 1993-02-19.
 
 2 - A ficha de inscrição deve ser acompanhada de elementos comprovativos dos requisitos de acesso às ajudas e das declarações em que sejam assumidos os compromissos exigidos para a sua concessão.
 
@@ -299,6 +328,18 @@ Ajudas à mecanização e a culturas protegidas
 4 - Os candidatos que tenham obtido decisão preliminar favorável deverão proceder à entrega dos respectivos projectos de investimento, junto dos serviços regionais de agricultura competentes, nos meses de Abril e Maio desse ano.
 
 5 - Os projectos apresentados serão objecto de análise e decisão final até 31 de Julho de cada ano.
+
+15.º-A
+
+Ajudas à mecanização
+
+1 - No caso das ajudas a atribuir à acção prevista na alínea a) do n.º 3.º, o processo de candidatura inicia-se com a apresentação pelos interessados, junto do serviço regional de agricultura competente, de um projecto de investimento, até ao último dia do mês de Fevereiro de cada ano.
+
+2 - Os projectos apresentados devem ser acompanhados de elementos comprovativos dos requisitos de acesso às ajudas e das declarações em que sejam assumidos os compromissos exigidos para a sua concessão.
+
+3 - Os projectos apresentados serão objecto de análise e decisão até 31 de Março de cada ano.
+
+> Aditado pelo/a [Portaria n.º 209/93](https://diariodarepublica.pt/dr/detalhe/portaria/209-1993-656141), publicado em 1993-02-19.
 
 16.º
 

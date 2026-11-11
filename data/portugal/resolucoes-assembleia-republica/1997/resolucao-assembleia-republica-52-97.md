@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-10-15'
+version_history:
+  file: resolucao-assembleia-republica-52-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-08-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-10-15'
+    amending: pt:dre:667762:por
+    amending_title: Declaração de Rectificação n.º 16/97
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolassrep/52/1997/08/23/p/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:02:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 16/97.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-assembleia-republica/1997/resolucao-assembleia-republica-52-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,7 +125,9 @@ Luís Miguel Kolback da Veiga.
 
 José Miguel Alarcão Júdice.
 
-Margarida Augusto Martins Blasco Telles de Abreu.
+Maria Margarida Blasco Martins Augusto Telles de Abreu.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 16/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1997-667762), publicado em 1997-10-15.
 
 Aprovada em 31 de Julho de 1997.
 

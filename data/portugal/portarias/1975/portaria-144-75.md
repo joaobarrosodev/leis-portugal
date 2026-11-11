@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-07-01'
+version_history:
+  file: portaria-144-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-03-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-07-01'
+    amending: pt:dre:434602:por
+    amending_title: Decreto Regulamentar n.º 24/78
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:39:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 24/78. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1975/portaria-144-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,7 +127,9 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social:
 
-1. Os pensionistas de invalidez ou velhice com incapacidade permanente para todo e qualquer trabalho que não possam dispensar a assistência constante de terceira pessoa, abrangidos pela Caixa Nacional de Pensões, terão direito a, uma prestação mensal suplementar igual a 20% do salário mínimo nacional.
+1 - Os pensionistas de invalidez ou velhice com incapacidade permanente para todo e qualquer trabalho que não possam dispensar a assistência constante de terceira pessoa, abrangidos pela Caixa Nacional de Pensões, terão direito a uma prestação mensal suplementar na importância de 1000$00.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 24/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1978-434602), publicado em 1978-07-15.
 
 2. O suplemento referido no número anterior será atribuído a requerimento dos interessados e mediante parecer da junta médica em que sejam confirmados os requisitos referidos no número anterior.
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-03-01'
+version_history:
+  file: portaria-182-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-03-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-03-01'
+    amending: pt:dre:608031:por
+    amending_title: Portaria n.º 219/2005
+    changes:
+    - Altera Artigo unidades 30-32
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/182/1999/03/19/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:13:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 219/2005. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-182-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -181,8 +196,50 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 ## ANEXO — Universidade Independente
 
-Curso: Ciências da Comunicação
+Curso de Ciências da Comunicação
 
-Grau: licenciado
+Grau de licenciado
 
-[(ver quadros 1 a 6 no documento original)](https://files.diariodarepublica.pt/1s/1999/03/066b00/15471549.pdf)
+QUADRO N.º 1
+
+1.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)
+
+QUADRO N.º 2
+
+2.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)
+
+QUADRO N.º 3
+
+3.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)
+
+Ramo de Jornalismo
+
+QUADRO N.º 4
+
+4.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)
+
+Ramo de Marketing, Publicidade e Relações Públicas
+
+QUADRO N.º 5
+
+4.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)
+
+Ramo de Audiovisual
+
+QUADRO N.º 6
+
+4.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)
+
+> Alterado pelo/a [Portaria n.º 219/2005](https://diariodarepublica.pt/dr/detalhe/portaria/219-2005-608031), publicado em 2005-02-24.

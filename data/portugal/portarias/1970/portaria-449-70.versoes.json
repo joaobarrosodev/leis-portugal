@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:148860:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1970-09-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0b1cb20f14a9f3e7"
+   ]
+  },
+  {
+   "date": "1974-12-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:466852:por",
+     "title": "Portaria n.º 799/74",
+     "published": "1974-12-09",
+     "dre_path": "/dr/detalhe/portaria/799-1974-466852"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-5"
+   ],
+   "fragments": [
+    "3f5b2877c427bba3"
+   ]
+  }
+ ],
+ "fragments": {
+  "0b1cb20f14a9f3e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tornando-se necessário alterar a lotação do pessoal militar que consta do quadro anexo à [Portaria n.º 20170](https://diariodarepublica.pt/dr/detalhe/portaria/20170-1963-688237), de 15 de Novembro de 1963:\n\nManda o Governo da República Portuguesa, pelo Ministro da Marinha, nos termos do artigo 61.º da [Portaria n.º 20139](https://diariodarepublica.pt/dr/detalhe/portaria/20139-1963-687853), de 28 de Outubro de 1963, e ao abrigo do disposto no artigo 12.º do [Decreto n.º 42173](https://diariodarepublica.pt/dr/detalhe/decreto/42173-1959-590162), de 4 de Março de 1959:\n\n1.º A coluna relativa ao gabinete do chefe do Estado-Maior da Armada do quadro anexo à [Portaria n.º 20170](https://diariodarepublica.pt/dr/detalhe/portaria/20170-1963-688237), de 15 de Novembro de 1963, passa a incluir, na parte respeitante a oficiais, os seguintes:\n\nCapitão-de-mar-e-guerra ... 1\n\nCapitão-tenente ... (e) 1\n\nPrimeiro-tenente ... (e) 1\n\n2.º A redacção da alínea e) das observações relativas ao mesmo quadro passa a ser a seguinte:\n\nO capitão-tenente acumula as funções de adjunto do chefe do Gabinete com as de adjunto de campo do chefe do Estado-Maior da Armada; o primeiro-tenente, que pode ser das classes de engenheiros maquinistas navais ou de administração naval, acumula as funções de adjunto do chefe do Gabinete com as de ajudante de ordens do mesmo oficial general.\n\nMinistério da Marinha 9 de Setembro de 1970. - O Ministro da Marinha, Manuel Pereira Crespo."
+  },
+  "3f5b2877c427bba3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1974-12-09",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 799/74](https://diariodarepublica.pt/dr/detalhe/portaria/799-1974-466852), publicado em 1974-12-09."
+   ],
+   "markdown": "Tornando-se necessário alterar a lotação do pessoal militar que consta do quadro anexo à [Portaria n.º 20170](https://diariodarepublica.pt/dr/detalhe/portaria/20170-1963-688237), de 15 de Novembro de 1963:\n\nManda o Governo da República Portuguesa, pelo Ministro da Marinha, nos termos do artigo 61.º da [Portaria n.º 20139](https://diariodarepublica.pt/dr/detalhe/portaria/20139-1963-687853), de 28 de Outubro de 1963, e ao abrigo do disposto no artigo 12.º do [Decreto n.º 42173](https://diariodarepublica.pt/dr/detalhe/decreto/42173-1959-590162), de 4 de Março de 1959:\n\n1.º A coluna relativa ao gabinete do chefe do Estado-Maior da Armada do quadro anexo à [Portaria n.º 20170](https://diariodarepublica.pt/dr/detalhe/portaria/20170-1963-688237), de 15 de Novembro de 1963, passa a incluir, na parte respeitante a oficiais, os seguintes:\n\nCapitão-de-mar-e-guerra ou capitão-de-fragata ... 1\n\n> Alterado pelo/a [Portaria n.º 799/74](https://diariodarepublica.pt/dr/detalhe/portaria/799-1974-466852), publicado em 1974-12-09.\n\nCapitão-tenente ... (e) 1\n\nPrimeiro-tenente ... (e) 1\n\n2.º A redacção da alínea e) das observações relativas ao mesmo quadro passa a ser a seguinte:\n\nO capitão-tenente acumula as funções de adjunto do chefe do Gabinete com as de adjunto de campo do chefe do Estado-Maior da Armada; o primeiro-tenente, que pode ser das classes de engenheiros maquinistas navais ou de administração naval, acumula as funções de adjunto do chefe do Gabinete com as de ajudante de ordens do mesmo oficial general.\n\nMinistério da Marinha 9 de Setembro de 1970. - O Ministro da Marinha, Manuel Pereira Crespo."
+  }
+ }
+}

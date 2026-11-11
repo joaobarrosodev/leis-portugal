@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1963-03-09'
+version_history:
+  file: portaria-18484.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-05-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1963-03-09'
+    amending: pt:dre:194414:por
+    amending_title: Portaria n.º 19752
+    changes:
+    - Altera Artigo unidades 39-55
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:59:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 19752. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1961/portaria-18484.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -177,39 +192,15 @@ O Inspector-geral dos Produtos Agrícolas e Industriais pode, por despacho funda
 
 Armazenistas
 
-22.º Para efeitos desta portaria, serão considerados armazenistas de papel as empresas singulares ou colectivas que satisfaçam simultâneamente a todas as condições seguintes:
+22.º - (Revogado.)
 
-a) Pagarem contribuições relativas à actividade de «Papel (Armazém de)» baseadas num rendimento colectável igual ou superior a 70000$00 anuais;
+23.º - (Revogado.)
 
-b) Possuírem, dentro do concelho onde as empresas forem colectadas, pelo menos um armazém privativo que apresente condições adequadas para a guarda do papel, com uma área mínima de 200 m2;
+24.º - (Revogado.)
 
-c) Atingirem anualmente um volume de compras de valor não inferior a 750000$00 de papéis correntes produzidos por empresas industriais portuguesas;
+25.º - (Revogado.)
 
-d) Possuírem uma reserva permanente de papéis nacionais adquirida nas condições da alínea c); esta reserva deve ser relacionada com as aquisições feitas no ano anterior, de acordo com o seguinte quadro:
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
-
-A reserva deve ser constituída por vários tipos de papel, em regra na percentagem dos adquiridos no ano anterior.
-
-23.º Os armazenistas de papel são obrigados a inscrever-se na Inspecção-Geral dos Produtos Agrícolas e Industriais, a quem incumbe a verificação das condições mencionadas no número anterior.
-
-Para o efeito, os mesmos enviarão um requerimento, no qual se indicará a localização do armazém, acompanhado de uma planta cotada do armazém e do recibo da contribuição industrial que os reconheça, nos termos da alínea a) do número anterior. A inscrição será gratuita e a relação dos inscritos será publicada todos os anos no Diário do Governo.
-
-24.º Os armazenistas já inscritos deverão, a partir do dia 1 de Janeiro de 1962, satisfazer às alíneas a) e b) do n.º 22.º e, durante o exercício do ano de 1962 e seguintes, às alíneas c) e d).
-
-Os armazenistas que vierem a inscrever-se deverão, de início, satisfazer às alíneas a) e b) e no ano da inscrição deverão satisfazer à alínea c), proporcionalmente aos meses de actividade nesse ano. Nos anos seguintes deverão satisfazer a todas as alíneas do n.º 22.º
-
-25.º Sobre o preço do papel fixado às fábricas, o armazenista pode ter um lucro de 20 por cento; mas, para as seguintes entidades: cartonageiros, editores, fabricantes de papéis pintados, fabricantes de sacos, fabricantes de sobrescritos, industriais gráficos, industriais de litografia e rotogravura e retalhistas de papelaria, o armazenista, sobre o preço da fábrica, acrescido de 20 por cento, é obrigado, para o mínimo, de uma resna ou de um carretel e para entregas de uma só vez, a fazer os descontos seguintes:
-
-Papéis correntes ou especiais
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
-
-a) Em todas as localidades do continente e ilhas adjacentes onde existam armazenistas, estes só poderão vender às entidades constantes da relação mencionada no corpo deste número ou às que, nos termos da alínea seguinte, forem mandadas incluir. Nas restantes localidades do País, os armazenistas poderão vender a qualquer outra entidade, desde que o montante da encomenda seja igual ou superior a 100 kg, mas com a condição de que, por qualidade, cor ou formato do papel, não vendam quantidades inferiores a uma resma ou peso equivalente em carretéis;
-
-b) A relação das entidades, indicada no corpo deste número, a quem os armazenistas fornecem o papel pode ser aumentada por despacho do inspector-geral dos Produtos Agrícolas e Industriais, homologado pelo Secretário de Estado do Comércio e publicado no Diário do Governo, de maneira que fiquem incluídas indústrias transformadoras que empreguem o papel como uma das suas matérias-primas;
-
-c) Nas localidades onde existam armazenistas, o transporte do papel é feito por conta destes até ao armazém do seu cliente; nas restantes localidades do continente e ilhas adjacentes, os encargos de embalagem e transporte serão facturados à parte.
+> Alterado pelo/a [Portaria n.º 19752](https://diariodarepublica.pt/dr/detalhe/portaria/19752-1963-194414), publicado em 1963-03-09.
 
 Outros consumidores
 

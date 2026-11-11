@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-12'
+version_history:
+  file: portaria-615-s3-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-07-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-12'
+    amending: pt:dre:650107:por
+    amending_title: Portaria n.º 909/97
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/615-s3/1991/07/08/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:56:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 909/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-615-s3-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,7 +147,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Abrigada, concelho de Alenquer, com uma área de 2824,6250 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Abrigada, município de Alenquer, com a área de 2480,1713 ha.
+
+> Alterado pelo/a [Portaria n.º 909/97](https://diariodarepublica.pt/dr/detalhe/portaria/909-1997-650107), publicado em 1997-09-11.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 909/97](https://diariodarepublica.pt/dr/detalhe/portaria/909-1997-650107), publicado em 1997-09-11.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à Associação de Caçadores de Abrigada (registo na Direcção-Geral das Florestas n.º 3.823.91), com sede em Abrigada, Alenquer, a zona de caça associativa da freguesia de Abrigada (processo n.º 815 da Direcção-Geral das Florestas).
 

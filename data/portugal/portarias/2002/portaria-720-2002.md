@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-12-27'
+version_history:
+  file: portaria-720-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-12-27'
+    amending: pt:dre:423636:por
+    amending_title: Portaria n.º 1402/2003
+    changes:
+    - Altera Artigo unidades 31-31
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/720/2002/06/26/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:43:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1402/2003. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-720-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -182,7 +197,9 @@ QUADRO N.º 1
 
 1.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85408540.pdf)
+
+> Alterado pelo/a [Portaria n.º 1402/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1402-2003-423636), publicado em 2003-12-22.
 
 QUADRO N.º 2
 

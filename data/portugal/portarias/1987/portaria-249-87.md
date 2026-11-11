@@ -40,10 +40,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-09-22'
+version_history:
+  file: portaria-249-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-09-22'
+    amending: pt:dre:612817:por
+    amending_title: Portaria n.º 179/89; Portaria n.º 937/91
+    changes:
+    - Altera Artigo unidades 6-6
+    - Altera Artigo unidades 7-7
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 11-11
+    - Altera Artigo unidades 24-26
+    - Adita Artigo depois da unidade 26
 identifiers:
   celex: null
   eli: null
@@ -69,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:03:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 179/89; Portaria n.º
+    937/91. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-249-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,17 +143,37 @@ Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Pescas e
 
 1.º O Programa tem como objectivos garantir o acesso de máquinas e equipamentos modernos às explorações e permitir um rápido e adequado escoamento dos produtos agrícolas.
 
-2.º O Programa tem a duração de dez anos, estando aprovado o orçamento para uma primeira fase de três anos.
+2.º O Programa tem a duração de dez anos, dispondo de orçamento aprovado até 1991.
 
-3.º As acções a realizar são a construção e beneficiação de:
+> Alterado pelo/a [Portaria n.º 179/89](https://diariodarepublica.pt/dr/detalhe/portaria/179-1989-612817), publicado em 1989-03-04.
+
+3.º As acções a realizar consistem na construção e beneficiação de:
+
+> Alterado pelo/a [Portaria n.º 179/89](https://diariodarepublica.pt/dr/detalhe/portaria/179-1989-612817), publicado em 1989-03-04.
 
 Caminhos agrícolas de acesso às explorações com uma largura de plataforma de 4 m;
 
 Caminhos rurais de ligação entre povoações com uma largura de plataforma de 5 m;
 
-Caminhos rurais de enlace à rede viária municipal ou nacional com uma largura de plataforma de 5 m ou excepcionalmente de 6 m.
+Caminhos rurais de enlace à rede viária municipal ou nacional com uma largura de plataforma de 5 m.
 
-4.º Os investimentos efectuados com a realização das acções e dos trabalhos que conduzem à concretização de obras são suportadas em 75% pelas Comunidades Europeias e 25% pelo Estado Português.
+> Alterado pelo/a [Portaria n.º 179/89](https://diariodarepublica.pt/dr/detalhe/portaria/179-1989-612817), publicado em 1989-03-04.
+
+4.º - 1 - Os investimentos efectuados com a realização das acções previstas no número anterior são subsidiados em 100% do seu custo.
+
+2 - Para efeitos de concessão do subsídio referido no ponto anterior são privilegiadas, pela ordem apresentada, as acções que se insiram em:
+
+a) Aproveitamentos hidroagrícolas;
+
+b) Obras de fomento hidroagrícolas a implementar no âmbito do Programa Específico do Desenvolvimento da Agricultura Portuguesa (PEDAP);
+
+c) Zonas objecto de operações de emparcelamento, nomeadamente no que respeita a caminhos de acesso às mesmas;
+
+d) Programas de desenvolvimento agrícola regional (PDAR) e ou nas componentes agrícolas de outras operações de desenvolvimento integrado;
+
+e) Zonas de minifúndio com policultura intensiva.
+
+> Alterado pelo/a [Portaria n.º 179/89](https://diariodarepublica.pt/dr/detalhe/portaria/179-1989-612817), publicado em 1989-03-04.
 
 5.º O Programa é de âmbito nacional, a concretizar através de subprogramas nas áreas de intervenção de cada uma das direcções regionais de agricultura (DRA).
 
@@ -159,11 +199,13 @@ Caminhos rurais de enlace à rede viária municipal ou nacional com uma largura 
 
 16.º O coordenador nacional preparará o plano de actividades e o orçamento do Programa para o ano seguinte, enviando-os até 15 de Julho à Direcção-Geral de Planeamento e Agricultura (DGPA).
 
-17.º As obras serão executadas pelas DRA por adjudicação ou por administração directa:
+17.º A execução das obras é da responsabilidade da DRA, como dono da obra, e poderá ser efectuada por adjudicação ou administração directa.
 
-Nas adjudicações observar-se-á o disposto no regime jurídico das empreitadas e fornecimento das obras públicas em vigor;
+> Alterado pelo/a [Portaria n.º 937/91](https://diariodarepublica.pt/dr/detalhe/portaria/937-1991-301466), publicado em 1991-09-17.
 
-Quando se trata de obras cuja dimensão, custo e localização não aconselham abertura de concurso, poderão as DRA executá-las por administração directa, apoiando-se nos próprios meios e equipamentos e ou recorrendo às autarquias ou serviços estatais através da celebração de protocolos. Neste caso e a pedido das DRA, o Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) deverá proceder à transferência, contra recibo, de uma verba inicial correspondente a 20% do valor orçamentado para o projecto, que constituirá fundo de maneio para o arranque das obras.
+17.º-A. Em qualquer dos casos, a DRA pode, mediante protocolo, cometer a execução das obras a outros serviços estatais ou a autarquias locais.
+
+> Aditado pelo/a [Portaria n.º 937/91](https://diariodarepublica.pt/dr/detalhe/portaria/937-1991-301466), publicado em 1991-09-17.
 
 18.º O acompanhamento e o controle de execução dos projectos realizados por empreitada caberão às DRA, que poderão recorrer a outras entidades, nos termos da alínea f) do artigo 13.º do Decreto-Lei n.º 96/87, de 4 de Março.
 

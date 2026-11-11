@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-06'
+version_history:
+  file: resolucao-conselho-ministros-118-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-07-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-06'
+    amending: pt:dre:212805:por
+    amending_title: Resolução do Conselho de Ministros n.º 145-A/97
+    changes:
+    - Altera Artigo unidades 20-20
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/118/1997/07/10/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:23:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 145-A/97. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1997/resolucao-conselho-ministros-118-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,7 +165,9 @@ Nos termos dos artigos 71.º e 72.º da [Lei n.º 52-C/96](https://diariodarepub
 
 11 - Na primeira data de vencimento de juros posterior em mais de 60 dias ao início da terceira fase da União Económica e Monetária (UEM), o montante nominal das obrigações, independentemente do consentimento dos portadores dos títulos, será redenominado para euros à taxa que, de entre as seguintes, se mostrar mais favorável para os investidores:
 
-a) Taxa de paridade central do escudo face ao ecu oficial, no mecanismo cambial do Sistema Monetário Europeu (SME), à data da primeira colocação do empréstimo;
+a) Taxa equivalente ao produto da taxa de paridade central do escudo no mecanismo cambial do Sistema Monetário Europeu, à data da primeira colocação do empréstimo, face à moeda que, naquela data, o IGCP tiver por mais conveniente em função das condições prospectivas do mercado, e da taxa estabelecida oficialmente para a conversão de tal moeda em euros;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 145-A/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/145-a-1997-212805), publicado em 1997-09-05.
 
 b) Taxa estabelecida oficialmente para a conversão do escudo em euros ou, no caso de esta não existir, a taxa resultante da média aritmética das cotações do escudo/euro fixadas diariamente pelo Banco de Portugal durante os cinco dias úteis que terminarem no segundo dia útil anterior à redenominação.
 

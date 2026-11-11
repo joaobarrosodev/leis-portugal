@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-04-30'
+version_history:
+  file: resolucao-conselho-ministros-48-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-04-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-04-30'
+    amending: pt:dre:668500:por
+    amending_title: Declaração de Rectificação n.º 9-L/98
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/48/1998/04/16/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:40:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 9-L/98.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1998/resolucao-conselho-ministros-48-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,7 +137,9 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 1 - Criar uma comissão interministerial para as comemorações da candidatura presidencial de 1958 do general Humberto Delgado.
 
-2 - A comissão será composta por representantes dos Ministros da Defesa Nacional, da Administração Interna, do Equipamento, do Planeamento e da Administração do Território, da Educação, da Cultura e Adjunto do Primeiro-Ministro, que coordenará.
+2 - A comissão será composta por representantes dos Ministros da Defesa Nacional, das Finanças, da Administração Interna, do Equipamento, do Planeamento e da Administração do Território, da Educação, da Cultura e Adjunto do Primeiro-Ministro, que coordenará.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 9-L/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-l-1998-668500), publicado em 1998-04-30.
 
 3 - A comissão funcionará junto do Ministro Adjunto do Primeiro-Ministro.
 

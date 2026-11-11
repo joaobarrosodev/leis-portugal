@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:209602:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2004-12-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "057e7037c212ef5e"
+   ]
+  },
+  {
+   "date": "2005-01-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:620904:por",
+     "title": "Aviso n.º 24/2005",
+     "published": "2005-01-28",
+     "dre_path": "/dr/detalhe/aviso/24-2005-620904"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 2-2",
+    "Altera Artigo unidades 4-4"
+   ],
+   "fragments": [
+    "ea7e5c7d4e724c02"
+   ]
+  }
+ ],
+ "fragments": {
+  "057e7037c212ef5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se torna público que, em 3 de Fevereiro e em 12 de Agosto de 2004, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros de Portugal e pela Embaixada da República Federativa do Brasil, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo de Cooperação para a Prevenção e a Repressão do Tráfico Ilícito de Drogas entre a República Portuguesa e a República Federativa do Brasil, assinado em Lisboa, em 11 de Julho de 2003.\n\nPor parte de Portugal o Acordo foi aprovado pelo Decreto do Governo n.º 42/2003, publicado no Diário da República, 1.ª série-A, n.º 218, de 20 de Setembro de 2003.\n\nNos termos do artigo 10.º do Acordo, este entrou em vigor no dia 3 de Outubro de 2003.\n\nDirecção-Geral dos Assuntos Consulares e Comunidades Portuguesas, 21 de Outubro de 2004. - O Director-Geral, José Duarte Sequeira e Serpa."
+  },
+  "ea7e5c7d4e724c02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2005-01-28",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 24/2005](https://diariodarepublica.pt/dr/detalhe/aviso/24-2005-620904), publicado em 2005-01-28.",
+    "Alterado pelo/a [Aviso n.º 24/2005](https://diariodarepublica.pt/dr/detalhe/aviso/24-2005-620904), publicado em 2005-01-28."
+   ],
+   "markdown": "Por ordem superior se torna público que, em 3 de Fevereiro e em 12 de Agosto de 2004, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros de Portugal e pela Embaixada da República Federativa do Brasil, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo de Cooperação entre a República Portuguesa e a República Federativa do Brasil para a Prevenção e a Repressão do Tráfico Ilícito de Migrantes, assinado em Lisboa, em 11 de Julho de 2003.\n\n> Alterado pelo/a [Aviso n.º 24/2005](https://diariodarepublica.pt/dr/detalhe/aviso/24-2005-620904), publicado em 2005-01-28.\n\nPor parte de Portugal o Acordo foi aprovado pelo Decreto do Governo n.º 42/2003, publicado no Diário da República, 1.ª série-A, n.º 218, de 20 de Setembro de 2003.\n\nNos termos do artigo 10.º do Acordo, este entrou em vigor no dia 3 de Outubro de 2004.\n\n> Alterado pelo/a [Aviso n.º 24/2005](https://diariodarepublica.pt/dr/detalhe/aviso/24-2005-620904), publicado em 2005-01-28.\n\nDirecção-Geral dos Assuntos Consulares e Comunidades Portuguesas, 21 de Outubro de 2004. - O Director-Geral, José Duarte Sequeira e Serpa."
+  }
+ }
+}

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-10-31'
+version_history:
+  file: portaria-448-c-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-05-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-10-31'
+    amending: pt:dre:627609:por
+    amending_title: Declaração de Rectificação n.º 177/92
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/448-c/1992/05/30/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:20:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 177/92.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-448-c-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,7 +130,9 @@ de 30 de Maio
 
 Considerando que o [Decreto-Lei n.º 48/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1992-198546), de 7 de, Abril, que determinou a extinção da Direcção-Geral da Comunicação Social, previu no n.º 2 do artigo 2.º a faculdade de os funcionários desta extinta Direcção-Geral, em regime de requisição ou destacamento, poderem optar pela integração nos quadros dos organismos nos quais exercem funções;
 
-Considerando que o licenciado Sebastião José de Sousa Dias, assessor principal do quadro da extinta Direcção-Geral, se encontra a exercer funções, em regime de requisição, no Instituto Português do Livro e da Leitura, tendo declarado optar pela integração no quadro de pessoal deste organismo;
+Considerando que o licenciado Sebastião José de Sousa Diniz, assessor principal do quadro da extinta Direcção-Geral, se encontra a exercer funções, em regime de requisição, no Instituto Português do Livro e da Leitura, tendo declarado optar pela integração no quadro de pessoal deste organismo;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 177/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/177-1992-627609), publicado em 1992-10-31.
 
 Considerando o interesse manifestado pelo Instituto Português do Livro e da Leitura na integração do indicado funcionário no seu quadro de pessoal;
 

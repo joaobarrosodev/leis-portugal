@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-07-29'
+version_history:
+  file: despacho-normativo-40-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-07-29'
+    amending: pt:dre:183260:por
+    amending_title: Despacho Normativo n.º 62/85
+    changes:
+    - Altera Artigo unidades 16-16
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:32:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 62/85. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1985/despacho-normativo-40-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,7 +155,7 @@ Nestes termos, é decidido o seguinte:
 
 1.2.1 - Estarem registados na conservatória do registo predial em nome do vendedor identificado no pedido de financiamento.
 
-Na impossibilidade ou dificuldade do registo do prédio ou prédios, poderá a garantia ser dada por outro ou outros prédios da sociedade registados na conservatória e livres de quaisquer ónus, encargos e responsabilidades e de valor nunca inferior ao do prédio ou prédios em transacção;
+> Alterado pelo/a [Despacho Normativo n.º 62/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/62-1985-183260), publicado em 1985-07-24.
 
 1.2.2 - Estarem livres de quaisquer ónus, encargos ou responsabilidades à data da celebração da escritura de venda;
 

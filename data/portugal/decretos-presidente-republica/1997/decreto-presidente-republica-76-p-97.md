@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-01-31'
+version_history:
+  file: decreto-presidente-republica-76-p-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-01-31'
+    amending: pt:dre:225377:por
+    amending_title: Declaração de Rectificação n.º 1/98
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decpresrep/76-p/1997/12/22/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:26:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 1/98.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-presidente-republica/1997/decreto-presidente-republica-76-p-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -97,7 +112,9 @@ de 22 de Dezembro
 
 O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:
 
-A pena de 16 anos de prisão resultante de revogação, por sentença proferida em 17 de Outubro de 1996, da suspensão da pena aplicada a Francisco Ricardo Guerreiro Santana, de 35 anos de idade, no processo n.º 179/94 do 2.º Juízo do Tribunal de Círculo de Portimão é revogada, por indulto, em 10 meses de prisão, por razões humanitárias.
+A pena de 16 meses de prisão resultante de revogação, por sentença proferida em 12 de Dezembro de 1995, da suspensão da pena aplicada a Francisco Ricardo Guerreiro Santana, de 35 anos de idade, no processo n.º 179/94 do 2.º Juízo do Tribunal de Círculo de Portimão é revogada, por indulto, em 10 meses de prisão, por razões humanitárias.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 1/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1998-225377), publicado em 1998-01-31.
 
 Assinado em 22 de Dezembro de 1997.
 

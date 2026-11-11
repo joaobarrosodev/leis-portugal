@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-08-22'
+version_history:
+  file: portaria-1135-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-11-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-08-22'
+    amending: pt:dre:437456:por
+    amending_title: Portaria n.º 529/98
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1135/1997/11/07/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:43:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 529/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-1135-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,7 +180,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdades do Monte Branco, Lajes Grandes, Zambujal, Fuzeira» e outros, sitos nas freguesias de São Miguel de Machede e Sé, município de Évora, com uma área de 1596,4675 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
 
-2.º Pela presente portaria é concessionada, até 31 de Maio de 1999, à Associação Desportiva e Cinegética das Lajes Grandes (registo na Direcção-Geral das Florestas n.º 4.782.90), com sede na Herdade das Lajes Grandes, Azaruja, a zona de caça associativa das Herdades do Monte Branco, Lajes Grandes e outras (processo n.º 565 da Direcção-Geral das Florestas).
+2.º Pela presente portaria é concessionada, até 13 de Maio de 1999, à Associação Desportiva e Cinegética das Lajes Grandes (registo na Direcção-Geral das Florestas n.º 4.782.90), com sede na Herdade das Lajes Grandes, Azaruja, a zona de caça associativa das Herdades do Monte Branco, Lajes Grandes e outras (processo n.º 565 da Direcção-Geral das Florestas).
+
+> Alterado pelo/a [Portaria n.º 529/98](https://diariodarepublica.pt/dr/detalhe/portaria/529-1998-437456), publicado em 1998-08-17.
 
 3.º A Associação Desportiva e Cinegética das Lajes Grandes, como entidade gestora da zona de caça associativa concedida pela presente portaria, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
 

@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-03-31'
+version_history:
+  file: portaria-71-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-02-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-03-31'
+    amending: pt:dre:647959:por
+    amending_title: Declaração de Rectificação n.º 32/92
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/71/1992/02/01/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:26:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 32/92.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-71-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,7 +160,9 @@ Manda o Governo, pelo Ministro da Justiça, o seguinte:
 
 4.º Ao abrigo do disposto no artigo 88.º, n.º 2, do [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de Outubro, são aumentados os quadros de oficiais dos serviços abaixo referidos pela forma seguinte:
 
-a) Com um lugar de primeiro-ajudante, o da Conservatória do Registo Predial de Torres Vedras, o das Conservatórias dos Registos Civil, Predial e Comercial de Ponte de Sor e de Salvaterra de Magos e o dos Cartórios Notariais de Arganil, Condeixa-a-Nova, Leiria (1.º e 2.º) e Évora, extinguindo-se o deste último quando vagar;
+a) Com um lugar de primeiro-ajudante, o da Conservatória do Registo Predial de Torres Vedras, o das Conservatórias dos Registos Civil, Predial e Comercial de Ponte de Sor e de Salvaterra de Magos e o dos Cartórios Notariais de Arganil, Condeixa-a-Nova, Leiria (1.º e 2.º) e Évora (2.º), extinguindo-se o deste último quando vagar;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 32/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-1992-647959), publicado em 1992-03-31.
 
 b) Com um lugar de segundo-ajudante, o das Conservatórias do Registo Civil de Cascais e de Setúbal;
 

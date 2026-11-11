@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-08-31'
+version_history:
+  file: portaria-615-g2-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-07-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-08-31'
+    amending: pt:dre:688438:por
+    amending_title: Declaração de Rectificação n.º 192/91
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/615-g2/1991/07/08/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:54:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 192/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-615-g2-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,7 +138,9 @@ Assim, ao abrigo do disposto no n.º 2 do artigo 15.º da [Lei n.º 30/86](https
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º É criada a reserva de caça, temporária e parcial, da Herdade dos Lameirões, Borrazeiros ou Cruzeiros Velhos, Metum ou Mutum e Courelas das Pernas, com a área total de 1410,45 ha, situadas na freguesia de Safara, concelho de Moura, conforme mapa anexo ao presente diploma, do qual faz parte integrante.
+1.º É criada a reserva de caça, temporária e parcial, da Herdade dos Lameirões, Borrazeiros ou Cruzeiros Velhos, Metum ou Mutum e Courelas das Pernas, com a área total de 1410,45 ha, situadas nas freguesias de Safara e Sobral da Adiça, concelho de Moura, conforme mapa anexo ao presente diploma, do qual faz parte integrante.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 192/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/192-1991-688438), publicado em 1991-08-31.
 
 2.º A reserva manter-se-á até entrada em vigor do decreto-lei que crie a respectiva zona nacional de caça.
 

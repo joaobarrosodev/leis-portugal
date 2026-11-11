@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-01-26'
+version_history:
+  file: portaria-128-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-02-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-26'
+    amending: pt:dre:625416:por
+    amending_title: Portaria n.º 60/2005
+    changes:
+    - Altera Artigo unidades 44-63
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/128/2003/02/05/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:46:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 60/2005. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-128-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -227,42 +242,38 @@ Esta portaria entra em vigor no dia seguinte ao da sua publicação.
 
 O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 15 de Janeiro de 2003.
 
-## ANEXO I — Academia Nacional Superior de Orquestra
+## ANEXO — ([Portaria n.º 128/2003](https://diariodarepublica.pt/dr/detalhe/portaria/128-2003-200428), de 5 de Fevereiro - alteração)
+
+Academia Nacional Superior de Orquestra
 
 Curso de Canto
 
-1.º ciclo
-
-Grau de bacharel
+1.º ciclo - Grau de bacharel
 
 QUADRO N.º 1
 
 1.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07360738.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07360738.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07360738.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07360738.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07360738.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07360738.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07360738.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07360738.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07360738.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07360738.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07360738.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07360738.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)
 
-## ANEXO II — Academia Nacional Superior de Orquestra
+2.º ciclo - Grau de licenciado
 
-Curso de Canto
-
-2.º ciclo
-
-Grau de licenciado
-
-QUADRO N.º 1
+QUADRO N.º 4
 
 1.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07360738.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07360738.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07360738.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07360738.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)](https://files.diariodarepublica.pt/1s/2005/01/015b00/05410543.pdf)
+
+> Alterado pelo/a [Portaria n.º 60/2005](https://diariodarepublica.pt/dr/detalhe/portaria/60-2005-625416), publicado em 2005-01-21.

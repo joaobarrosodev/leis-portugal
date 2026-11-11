@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174873:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-03-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2d0b6de0b2b7c8fb",
+    "3b6d30a7ec9a8951"
+   ]
+  },
+  {
+   "date": "1998-01-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:420799:por",
+     "title": "Portaria n.º 1277/97",
+     "published": "1997-12-29",
+     "dre_path": "/dr/detalhe/portaria/1277-1997-420799"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 47-47"
+   ],
+   "fragments": [
+    "2d0b6de0b2b7c8fb",
+    "fae2f9d890233133"
+   ]
+  }
+ ],
+ "fragments": {
+  "2d0b6de0b2b7c8fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Março\n\nA requerimento da entidade titular da Escola Superior de Educação de Torres Novas, reconhecida como estabelecimento de ensino superior particular pelo [Decreto-Lei n.º 416/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/416-1988-357905), de 10 de Novembro;\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo - [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro;\n\nInstruído e analisado o respectivo processo, nos termos do n.º 1 do artigo 57.º e do n.º 1 do artigo 59.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro;\n\nAo abrigo do disposto no n.º 1 do artigo 64.º do mesmo diploma:\n\nManda o Governo, pela Ministra da Educação, o seguinte:\n\n1.º\n\nCriação\n\nÉ autorizada a Escola Superior de Educação de Torres Novas a ministrar o curso de estudos superiores especializados em Educação Física, conferindo, em consequência, o respectivo diploma.\n\n2.º\n\nInício de funcionamento\n\nO curso iniciará as actividades escolares no ano lectivo de 1994-1995 e funcionará nas instalações da Escola Superior de Educação de Torres Novas, sitas na Quinta de Santo António, 2350 Torres Novas.\n\n3.º\n\nHabilitações de acesso\n\nTêm acesso ao curso de estudos superiores especializados em Educação Física os candidatos titulares de grau de bacharel ou de licenciatura que sejam professores profissionalizados de Educação Física do Ensino Básico ou do Ensino Secundário.\n\n4.º\n\nCandidatura\n\n1 - A candidatura à matrícula e inscrição será apresentada em requerimento dirigido ao órgão directivo da Escola Superior de Educação de Torres Novas.\n\n2 - Os elementos a mencionar obrigatoriamente no requerimento, bem como os documentos que o deverão acompanhar constarão de edital a afixar anualmente pelo órgão competente da Escola.\n\n5.º\n\nLimites quantitativos\n\nA matrícula e inscrição no curso está sujeita aos limites quantitativos que forem fixados anualmente pelo Ministério da Educação, sob proposta da Escola Superior de Educação de Torres Novas.\n\n6.º\n\nPlano de estudos\n\nO plano de estudos do curso é publicado em anexo à presente portaria.\n\n7.º\n\nDuração\n\nA duração do curso é de dois anos lectivos em horário pós-laboral.\n\n8.º\n\nRegimes escolares\n\nOs regimes de inscrição (incluindo o de prescrição do direito de inscrição e o das condições de reingresso), de frequência, avaliação de conhecimentos, transição de ano e de precedências do curso serão fixados pela Escola Superior de Educação de Torres Novas, através do seu órgão competente.\n\n9.º\n\nClassificação final do curso\n\n1 - A classificação final do curso será a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações obtidas nas unidades curriculares que integram o plano de estudos do curso.\n\n2 - Os coeficientes de ponderação são fixados pelo órgão competente da Escola Superior de Educação de Torres Novas, de modo a assegurar a uniformização de critérios entre os vários cursos.\n\n10.º\n\nDiploma\n\nAos alunos aprovados em todas as unidades curriculares que integram o plano de estudos do curso, bem como na discussão do trabalho final de curso, será emitido um diploma de estudos superiores especializados, ao qual são reconhecidos os efeitos previstos no n.º 6 do artigo 13.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro.\n\n11.º\n\nCorrecções ou adaptações\n\nA autorização de funcionamento conferida pela presente portaria não prejudica, sob pena de revogação, a obrigatoriedade do cumprimento das correcções ou adaptações que sejam determinadas pelo Ministério da Educação, quer em aplicação das informações e pareceres especializados solicitados para apreciação do processo, quer em resultado de informações dos serviços de inspecção, de acordo com a legislação em vigor.\n\nMinistério da Educação.\n\nAssinada em 24 de Janeiro de 1995.\n\nPela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior."
+  },
+  "3b6d30a7ec9a8951": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Curso de estudos superiores especializados em Educação Física",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Curso de estudos superiores especializados em Educação Física\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/058b00/12821283.pdf)"
+  },
+  "fae2f9d890233133": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Curso de estudos superiores especializados em Educação Física",
+   "in_force_from": "1998-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1277/97](https://diariodarepublica.pt/dr/detalhe/portaria/1277-1997-420799), publicado em 1997-12-29."
+   ],
+   "markdown": "## ANEXO — Curso de estudos superiores especializados em Educação Física\n\nEscola Superior de Educação de Torres Novas\n\nCurso: Educação Física\n\nDiploma de estudos superiores especializados\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/299b00/68256825.pdf)\n\n> Alterado pelo/a [Portaria n.º 1277/97](https://diariodarepublica.pt/dr/detalhe/portaria/1277-1997-420799), publicado em 1997-12-29."
+  }
+ }
+}

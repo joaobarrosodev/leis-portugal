@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-05-08'
+version_history:
+  file: despacho-normativo-30-a-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-03-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-05-08'
+    amending: pt:dre:300022:por
+    amending_title: Despacho Normativo n.º 66/93
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/30-a/1993/03/08/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:04:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 66/93. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1993/despacho-normativo-30-a-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,7 +145,9 @@ Considerando que, devido às condições climatéricas anormais que se continuam
 
 Ao abrigo dos Regulamentos (CEE) n.º [2066/92](http://data.europa.eu/eli/reg/1992/2066/oj?locale=pt), (CEE) n.º [3508/92](http://data.europa.eu/eli/reg/1992/3508/oj?locale=pt) e (CEE) n.º [125/93](http://data.europa.eu/eli/reg/1993/125/oj?locale=pt), do Conselho, e dos Regulamentos (CEE) n.º [3886/92](http://data.europa.eu/eli/reg/1992/3886/oj?locale=pt) e (CEE) n.º [3887/92](http://data.europa.eu/eli/reg/1992/3887/oj?locale=pt), da Comissão, determina-se o seguinte:
 
-1 - Os produtores que se encontrem nas condições definidas pela regulamentação comunitária e que pretendam beneficiar do prémio para manutenção dos efectivos de vacas aleitantes cujas explorações (ou unidades de produção) se localizem nos concelhos de Barrancos (freguesia de Barrancos), Mourão (freguesias da Luz e da Granja), Serpa (freguesia de Ficalho), Moura (freguesias de Santo Amador, de Santo Aleixo e de Safara) e Alandroal (freguesia de Capelins) podem apresentar a sua candidatura ao referido prémio no Instituto Nacional de Intervenção e Garantia Agrícola ou noutra entidade designada para o efeito, em modelo próprio a fornecer por este Instituto, a partir do dia 15 de Março e até ao dia 15 de Abril.
+1 - Os produtores que se encontrem nas condições definidas pela regulamentação comunitária e que pretendam beneficiar do prémo para manutenção dos efectivos de vacas aleitantes cujas explorações (ou unidades de produção) se localizem nos concelhos de Barrancos (freguesia de Barrancos), Mourão, Serpa (freguesia de Ficalho), Moura (freguesias de Santo Amador, Santo Aleixo, Safara, Póvoa de São Miguel, Sobral da Adiça e Amareleja) e Alandroal (freguesia de Capelins) podem apresentar a sua candidatura ao referido prémio no Instituto Nacional de Intervenção e Garantia Agrícola ou noutra entidade designada para o efeito, em modelo próprio, a fornecer por este Instituto, a partir do dia 15 de Março e até ao dia 15 de Maio.
+
+> Alterado pelo/a [Despacho Normativo n.º 66/93](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/66-1993-300022), publicado em 1993-05-03.
 
 2 - Os produtores que apresentem as suas candidaturas ficarão sujeitos à regulamentação comunitária aplicável.
 

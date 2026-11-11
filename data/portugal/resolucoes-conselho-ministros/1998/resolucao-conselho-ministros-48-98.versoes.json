@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:173106:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-04-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7c9421cc0d45e0cc"
+   ]
+  },
+  {
+   "date": "1998-04-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:668500:por",
+     "title": "Declaração de Rectificação n.º 9-L/98",
+     "published": "1998-04-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/9-l-1998-668500"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-10"
+   ],
+   "fragments": [
+    "b7d4f02007855caa"
+   ]
+  }
+ ],
+ "fragments": {
+  "7c9421cc0d45e0cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 8 de Junho de 1958 ocorreram em Portugal eleições presidenciais em que pela primeira vez as forças da oposição se uniram na luta contra a ditadura do Estado Novo.\n\nComo candidato da oposição perfilou-se na altura o general Humberto Delgado, que desenvolveu toda uma campanha eleitoral caracterizada fundamentalmente pela denúncia da repressão do regime e da prática de métodos tendentes a subverter os resultados das eleições.\n\nDo programa da sua candidatura constou a defesa de valores como a democracia e a liberdade, o que contribuiu, também pela primeira vez, para a existência de uma enorme adesão e apoio populares a esta campanha.\n\nCom o objectivo de recordar esta campanha e o papel desempenhado pelo general Humberto Delgado, um conjunto diversificado de entidades representativas da sociedade civil constituiu-se em comissão coordenadora, projectando um programa de comemorações a nível nacional de modo a inserir no panorama da história contemporânea portuguesa o ano de 1958 como uma das datas fundamentais que assinalam a luta pela liberdade que abriu caminho para a emergência do actual regime democrático.\n\nNum momento e numa sociedade em que valores dispersivos e de efeito imediato tendem a criar um clima de alguma passividade e indiferença relativamente ao passado recente, entende o Governo dever apoiar o programa destas comemorações, bem como toda uma campanha de pedagogia democrática que leve aos portugueses de hoje, e em particular à população estudantil, a noção de que a luta pela liberdade e pela democracia é uma constante que deve ser permanentemente lembrada.\n\nAssim:\n\nNos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolveu:\n\n1 - Criar uma comissão interministerial para as comemorações da candidatura presidencial de 1958 do general Humberto Delgado.\n\n2 - A comissão será composta por representantes dos Ministros da Defesa Nacional, da Administração Interna, do Equipamento, do Planeamento e da Administração do Território, da Educação, da Cultura e Adjunto do Primeiro-Ministro, que coordenará.\n\n3 - A comissão funcionará junto do Ministro Adjunto do Primeiro-Ministro.\n\n4 - A comissão apoiará um plano de acções a desenvolver no âmbito das comemorações, devendo atender à necessidade de:\n\na) Assegurar a articulação do plano das comemorações com as actividades a desenvolver pela comissão coordenadora já constituída;\n\nb) Propor iniciativas que possam envolver a representação de outros órgãos de soberania e de autarquias locais.\n\n5 - No termo da execução do plano será elaborado um relatório final sobre as acções desenvolvidas no respectivo âmbito.\n\n6 - Os encargos resultantes das actividades a desenvolver pela comissão constarão de um orçamento a apresentar ao Ministro Adjunto do Primeiro-Ministro, sendo suportados por dotação provisional do Ministério das Finanças.\n\nPresidência do Conselho de Ministros, 26 de Março de 1998. - O Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "b7d4f02007855caa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1998-04-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 9-L/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-l-1998-668500), publicado em 1998-04-30."
+   ],
+   "markdown": "Em 8 de Junho de 1958 ocorreram em Portugal eleições presidenciais em que pela primeira vez as forças da oposição se uniram na luta contra a ditadura do Estado Novo.\n\nComo candidato da oposição perfilou-se na altura o general Humberto Delgado, que desenvolveu toda uma campanha eleitoral caracterizada fundamentalmente pela denúncia da repressão do regime e da prática de métodos tendentes a subverter os resultados das eleições.\n\nDo programa da sua candidatura constou a defesa de valores como a democracia e a liberdade, o que contribuiu, também pela primeira vez, para a existência de uma enorme adesão e apoio populares a esta campanha.\n\nCom o objectivo de recordar esta campanha e o papel desempenhado pelo general Humberto Delgado, um conjunto diversificado de entidades representativas da sociedade civil constituiu-se em comissão coordenadora, projectando um programa de comemorações a nível nacional de modo a inserir no panorama da história contemporânea portuguesa o ano de 1958 como uma das datas fundamentais que assinalam a luta pela liberdade que abriu caminho para a emergência do actual regime democrático.\n\nNum momento e numa sociedade em que valores dispersivos e de efeito imediato tendem a criar um clima de alguma passividade e indiferença relativamente ao passado recente, entende o Governo dever apoiar o programa destas comemorações, bem como toda uma campanha de pedagogia democrática que leve aos portugueses de hoje, e em particular à população estudantil, a noção de que a luta pela liberdade e pela democracia é uma constante que deve ser permanentemente lembrada.\n\nAssim:\n\nNos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolveu:\n\n1 - Criar uma comissão interministerial para as comemorações da candidatura presidencial de 1958 do general Humberto Delgado.\n\n2 - A comissão será composta por representantes dos Ministros da Defesa Nacional, das Finanças, da Administração Interna, do Equipamento, do Planeamento e da Administração do Território, da Educação, da Cultura e Adjunto do Primeiro-Ministro, que coordenará.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 9-L/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-l-1998-668500), publicado em 1998-04-30.\n\n3 - A comissão funcionará junto do Ministro Adjunto do Primeiro-Ministro.\n\n4 - A comissão apoiará um plano de acções a desenvolver no âmbito das comemorações, devendo atender à necessidade de:\n\na) Assegurar a articulação do plano das comemorações com as actividades a desenvolver pela comissão coordenadora já constituída;\n\nb) Propor iniciativas que possam envolver a representação de outros órgãos de soberania e de autarquias locais.\n\n5 - No termo da execução do plano será elaborado um relatório final sobre as acções desenvolvidas no respectivo âmbito.\n\n6 - Os encargos resultantes das actividades a desenvolver pela comissão constarão de um orçamento a apresentar ao Ministro Adjunto do Primeiro-Ministro, sendo suportados por dotação provisional do Ministério das Finanças.\n\nPresidência do Conselho de Ministros, 26 de Março de 1998. - O Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

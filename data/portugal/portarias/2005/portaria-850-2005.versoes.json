@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:150728:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-09-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1dce2e071188e803"
+   ]
+  },
+  {
+   "date": "2006-12-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:552374:por",
+     "title": "Portaria n.º 1418/2006",
+     "published": "2006-12-20",
+     "dre_path": "/dr/detalhe/portaria/1418-2006-552374"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-3"
+   ],
+   "fragments": [
+    "cb51b8e23bf47abe"
+   ]
+  }
+ ],
+ "fragments": {
+  "1dce2e071188e803": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Setembro\n\nPela [Portaria n.º 1471/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1471-2002-451585), de 19 de Novembro, foi criada a zona de caça municipal de Veiga de Lila (processo n.º 3214-DGRF), situada no município de Valpaços, e transferida a sua gestão para a Associação de Caçadores de Deimãos, São Pedro de Veiga de Lila, Canaveses e Cadouço.\n\nA concessionária requereu agora a anexação à referida zona de caça de outros prédios rústicos com a área de 503 ha.\n\nAssim:\n\nCom fundamento no disposto nos artigos 11.º e 26.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, e ouvido o Conselho Cinegético Municipal:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º São anexados à zona de caça municipal criada pela [Portaria n.º 1471/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1471-2002-451585), de 19 de Novembro, vários prédios rústicos sitos na freguesia de Rio Torto, município de Valpaços, com a área de 503 ha, ficando a mesma com a área total de 1716 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n2.º A presente anexação só produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n3.º A sinalização dos terrenos agora anexados deve obedecer ao disposto no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro, com a redacção que lhe foi conferida pela [Portaria n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/portaria/45-2004-603031), de 14 de Janeiro.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 5 de Setembro de 2005.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/09/181b00/56375637.pdf)"
+  },
+  "cb51b8e23bf47abe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-12-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1418/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1418-2006-552374), publicado em 2006-12-20."
+   ],
+   "markdown": "de 20 de Setembro\n\nPela [Portaria n.º 1471/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1471-2002-451585), de 19 de Novembro, foi criada a zona de caça municipal de Veiga de Lila (processo n.º 3214-DGRF), situada no município de Valpaços, e transferida a sua gestão para o Clube de Caça e Pesca de Veiga de Lila.\n\n> Alterado pelo/a [Portaria n.º 1418/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1418-2006-552374), publicado em 2006-12-20.\n\nA concessionária requereu agora a anexação à referida zona de caça de outros prédios rústicos com a área de 503 ha.\n\nAssim:\n\nCom fundamento no disposto nos artigos 11.º e 26.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, e ouvido o Conselho Cinegético Municipal:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º São anexados à zona de caça municipal criada pela [Portaria n.º 1471/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1471-2002-451585), de 19 de Novembro, vários prédios rústicos sitos na freguesia de Rio Torto, município de Valpaços, com a área de 503 ha, ficando a mesma com a área total de 1716 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n2.º A presente anexação só produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n3.º A sinalização dos terrenos agora anexados deve obedecer ao disposto no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro, com a redacção que lhe foi conferida pela [Portaria n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/portaria/45-2004-603031), de 14 de Janeiro.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 5 de Setembro de 2005.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/09/181b00/56375637.pdf)"
+  }
+ }
+}

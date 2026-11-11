@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-09-30'
+version_history:
+  file: portaria-454-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-08-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-09-30'
+    amending: pt:dre:355526:por
+    amending_title: Portaria n.º 653/88
+    changes:
+    - Altera Artigo unidades 23-23
+    - Altera Artigo unidades 24-25
+    - Altera Artigo unidades 28-29
+    - Altera Artigo unidades 31-31
 identifiers:
   celex: null
   eli: null
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:49:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 653/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-454-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,23 +174,43 @@ c) Exportações para a Espanha: restituição para a CEE, corrigida do montante
 
 7.º O montante da restituição a pagar ao exportador é o que estiver em vigor no dia da exportação.
 
-8.º O montante da restituição é pago pelo Instituto Nacional de Garantia Agrícola após a apresentação de documento emitido pela alfândega que comprove que os produtos foram exportados dentro do prazo de validade do respectivo certificado de exportação e que atingiram o país de destino.
+8.º - 1 - O processo de pagamento das restituições é constituído no Instituto Nacional de Garantia Agrícola (INGA), a pedido do exportador, dentro dos doze meses seguintes ao dia da aceitação da declaração de exportação.
 
-9.º - 1 - A pedido do exportador, e sempre que a situação do mercado o permita, a restituição pode ser fixada antecipadamente, sendo, neste caso, o seu montante o que estiver em vigor no dia da apresentação do pedido.
+2 - O pagamento da restituição pelo INGA fica subordinado à apresentação da prova de que os produtos para os quais foi aceite uma declaração de exportação deixaram, no seu estado inalterado, o território aduaneiro da Comunidade, o mais tardar, no prazo de 60 dias após a data dessa aceitação.
 
-2 - Qualquer variação decidida pelo Governo para os preços de revenda acarreta o ajustamento correspondente da restituição em vigor e dos valores das restituições fixadas nos termos do número anterior.
+Caso a taxa da restituição seja diferenciada, conforme o destino, o pagamento da restituição fica subordinado à apresentação da prova do cumprimento das formalidades aduaneiras de introdução no consumo no país terceiro para o qual tenha sido fixada essa taxa.
+
+3 - Todavia, a pedido do exportador, o INGA poderá adiantar a totalidade ou parte do montante da restituição, após a aceitação da declaração da exportação, na condição de que seja garantido pela constituição de uma caução o montante desse adiantamento, acrescido de 15%.
+
+4 - Quando o montante adiantado for superior ao montante efectivamente devido para a exportação em causa, o exportador pagará a diferença entre estes dois montantes, acrescida de 15%.
+
+5 - Se este montante não for pago pelo exportador, não obstante o pedido nesse sentido, a caução constituída ficará adquirida em relação a esse mesmo montante.
+
+> Alterado pelo/a [Portaria n.º 653/88](https://diariodarepublica.pt/dr/detalhe/portaria/653-1988-355526), publicado em 1988-09-29.
+
+9.º - 1 - A pedido do exportador, e sempre que a situação do mercado o permita, a restituição pode ser fixada antecipadamente, sendo, neste caso, o seu montante o que estiver em vigor no dia da apresentação do pedido de certificado.
+
+2 - Qualquer variação, decidida pelo Governo, para os preços de revenda acarreta o ajustamento correspondente da restituição em vigor e dos valores das restituições fixadas nos termos do número anterior.
+
+> Alterado pelo/a [Portaria n.º 653/88](https://diariodarepublica.pt/dr/detalhe/portaria/653-1988-355526), publicado em 1988-09-29.
 
 10.º A concessão da restituição nas condições previstas no número anterior fica subordinada à sua indicação no certificado de exportação.
 
 11.º A caução a prestar aquando do pedido do certificado de exportação e constituída a favor da Direcção-Geral do Comércio Externo é de 600$00 por tonelada, ou de 1000$00 por tonelada, em caso de fixação antecipada de restituição.
 
-12.º A libertação da caução será efectuada, no todo ou em parte, após apresentação pelo interessado dos documentos referidos no n.º 8.º
+12.º A libertação da caução prevista no n.º 11.º ficará subordinada à apresentação da prova referida no primeiro parágrafo do n.º 8.º, n.º 2.
 
-13.º A caução, ou parte da mesma, que não tiver sido libertada, de acordo com o disposto na presente portaria, será considerada perdida a favor do Estado.
+13.º - 1 - A caução, ou parte da mesma, que não tiver sido libertada, de acordo com o disposto na presente portaria, será considerada perdida a favor do Estado.
+
+2 - A libertação da caução constituída a favor do INGA será efectuada, no todo ou em parte, após a conclusão do processo de pagamento.
+
+> Alterado pelo/a [Portaria n.º 653/88](https://diariodarepublica.pt/dr/detalhe/portaria/653-1988-355526), publicado em 1988-09-29.
 
 14.º O prazo de validade dos certificados de exportação é de quatro meses, com excepção do malte e das sêmolas, em que o prazo será de, respectivamente, onze e seis meses.
 
-15.º Esta portaria entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+15.º Esta portaria entra em vigor no dia seguinte ao da sua publicação.
+
+> Alterado pelo/a [Portaria n.º 653/88](https://diariodarepublica.pt/dr/detalhe/portaria/653-1988-355526), publicado em 1988-09-29.
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 

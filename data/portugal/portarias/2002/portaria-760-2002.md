@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-08-08'
+version_history:
+  file: portaria-760-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-08-08'
+    amending: pt:dre:514995:por
+    amending_title: Portaria n.º 979/2004
+    changes:
+    - Altera Artigo unidades 28-28
+    - Altera Artigo unidades 31-31
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/760/2002/06/28/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:43:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 979/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-760-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -196,13 +212,17 @@ QUADRO N.º 2
 
 2.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/147b00/51075109.pdf)](https://files.diariodarepublica.pt/1s/2002/06/147b00/51075109.pdf)](https://files.diariodarepublica.pt/1s/2002/06/147b00/51075109.pdf)](https://files.diariodarepublica.pt/1s/2002/06/147b00/51075109.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)
+
+> Alterado pelo/a [Portaria n.º 979/2004](https://diariodarepublica.pt/dr/detalhe/portaria/979-2004-514995), publicado em 2004-08-03.
 
 QUADRO N.º 3
 
 3.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/147b00/51075109.pdf)](https://files.diariodarepublica.pt/1s/2002/06/147b00/51075109.pdf)](https://files.diariodarepublica.pt/1s/2002/06/147b00/51075109.pdf)](https://files.diariodarepublica.pt/1s/2002/06/147b00/51075109.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)
+
+> Alterado pelo/a [Portaria n.º 979/2004](https://diariodarepublica.pt/dr/detalhe/portaria/979-2004-514995), publicado em 2004-08-03.
 
 ## ANEXO II — Instituto Politécnico do Porto
 

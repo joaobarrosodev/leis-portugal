@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-02-22'
+version_history:
+  file: portaria-581-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-07-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-02-22'
+    amending: pt:dre:570535:por
+    amending_title: Portaria n.º 164/2004
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/581/2003/07/17/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:50:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 164/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-581-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,7 +157,9 @@ Cumpridos os preceitos legais, com fundamento no disposto no n.º 8 do artigo 44
 
 Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
 
-1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça associativa da Azoia de Baixo (processo n.º 655-DGF), abrangendo vários prédios rústicos sitos nas freguesias de Azoia de Baixo, Póvoa de Santarém e Romeiras, município de Santarém, com uma área de 542,0866 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça associativa da Azoia de Baixo (processo n.º 655-DGF), abrangendo os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Azoia de Baixo, Póvoa de Santarém e Romeiras, município de Santarém, com a área de 539 ha.
+
+> Alterado pelo/a [Portaria n.º 164/2004](https://diariodarepublica.pt/dr/detalhe/portaria/164-2004-570535), publicado em 2004-02-17.
 
 2.º A presente portaria produz efeitos a partir do dia 28 de Junho de 2003.
 

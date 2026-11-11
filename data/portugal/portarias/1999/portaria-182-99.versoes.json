@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:145646:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-03-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a6c84386d7f452a1",
+    "6311d1a721a1d2e1"
+   ]
+  },
+  {
+   "date": "2005-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:608031:por",
+     "title": "Portaria n.º 219/2005",
+     "published": "2005-02-24",
+     "dre_path": "/dr/detalhe/portaria/219-2005-608031"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 30-32"
+   ],
+   "fragments": [
+    "a6c84386d7f452a1",
+    "aca0f479863f9cbe"
+   ]
+  }
+ ],
+ "fragments": {
+  "a6c84386d7f452a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Março\n\nA requerimento da SIDES - Sociedade Independente para o Desenvolvimento do Ensino Superior, S. A., entidade instituidora da Universidade Independente, reconhecida como de interesse público, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, pelo [Decreto-Lei n.º 310/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1994-571604), de 21 de Dezembro;\n\nConsiderando o disposto na [Portaria n.º 472/95](https://diariodarepublica.pt/dr/detalhe/portaria/472-1995-502431), de 18 de Maio;\n\nAo abrigo do disposto no artigo 67.º e no n.º 5 do artigo 53.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nRamos\n\nO curso de licenciatura em Ciências da Comunicação ministrado pela Universidade Independente, cujo funcionamento foi autorizado pela [Portaria n.º 472/95](https://diariodarepublica.pt/dr/detalhe/portaria/472-1995-502431), de 18 de Maio, desdobra-se nos ramos de:\n\na) Audiovisual;\n\nb) Marketing, Publicidade e Relações Públicas;\n\nc) Jornalismo.\n\n2.º\n\nAlteração do plano de estudos\n\nO plano de estudos do curso passa a ser o constante do anexo à presente portaria.\n\n3.º\n\nNúmero máximo de alunos\n\n1 - A frequência global do curso não pode exceder 600 alunos.\n\n2 - O número de novos alunos a admitir anualmente não pode exceder 150.\n\n4.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do ano lectivo de 1997-1998, inclusive.\n\n5.º\n\nTransição\n\nAs regras de transição entre o anterior e o novo plano de estudos são fixadas pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\nMinistério da Educação.\n\nAssinada em 19 de Fevereiro de 1999.\n\nPelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior."
+  },
+  "6311d1a721a1d2e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Universidade Independente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Universidade Independente\n\nCurso: Ciências da Comunicação\n\nGrau: licenciado\n\n[(ver quadros 1 a 6 no documento original)](https://files.diariodarepublica.pt/1s/1999/03/066b00/15471549.pdf)"
+  },
+  "aca0f479863f9cbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Universidade Independente",
+   "in_force_from": "2005-03-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 219/2005](https://diariodarepublica.pt/dr/detalhe/portaria/219-2005-608031), publicado em 2005-02-24."
+   ],
+   "markdown": "## ANEXO — Universidade Independente\n\nCurso de Ciências da Comunicação\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)\n\nRamo de Jornalismo\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)\n\nRamo de Marketing, Publicidade e Relações Públicas\n\nQUADRO N.º 5\n\n4.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)\n\nRamo de Audiovisual\n\nQUADRO N.º 6\n\n4.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)\n\n> Alterado pelo/a [Portaria n.º 219/2005](https://diariodarepublica.pt/dr/detalhe/portaria/219-2005-608031), publicado em 2005-02-24."
+  }
+ }
+}

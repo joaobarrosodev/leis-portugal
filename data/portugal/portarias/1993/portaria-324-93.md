@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-04-30'
+version_history:
+  file: portaria-324-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-03-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-04-30'
+    amending: pt:dre:425573:por
+    amending_title: Declaração de Rectificação n.º 73/93
+    changes:
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/324/1993/03/19/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:53:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 73/93.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-324-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,7 +149,9 @@ b) O teor total em microrganismos viáveis de uma água mineral natural deve est
 
 c) Na emergência, o teor de microrganismos referido na alínea b), após cultura em meio gelosado, não deve normalmente exceder os seguintes valores, que são considerados como números guia, e não como concentrações máximas:
 
-20/ml a 22 (mais ou menos) 1ºC às 72 (mais ou menos) horas;
+20/ml a 22 (mais ou menos) 1ºC às 72 (mais ou menos) 4 horas;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 73/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/73-1993-425573), publicado em 1993-04-30.
 
 5/ml a 37 (mais ou menos) 1ºC às 24 (mais ou menos) 1 hora.
 

@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-11-19'
+version_history:
+  file: portaria-1167-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-11-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-11-19'
+    amending: pt:dre:689639:por
+    amending_title: Portaria n.º 1349/95
+    changes:
+    - Altera Artigo unidades 6-8
+    - Altera Artigo unidades 9-13
+    - Altera Artigo unidades 14-20
+    - Altera Artigo unidades 21-23
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1167/1993/11/09/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:44:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1349/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-1167-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,41 +150,21 @@ Ao abrigo do disposto no artigo 4.º do [Decreto-Lei n.º 303/80](https://diario
 
 Manda o Governo, pelo Ministro da Educação, o seguinte:
 
-1.º
+1.º - (Revogado.)
 
-Criação
+> Alterado pelo/a [Portaria n.º 1349/95](https://diariodarepublica.pt/dr/detalhe/portaria/1349-1995-689639), publicado em 1995-11-14.
 
-O Instituto Politécnico de Viana do Castelo, através da sua Escola Superior de Tecnologia e Gestão, confere o grau de bacharel em Engenharia e Processamento dos Produtos de Pesca ministrando, em consequência, o respectivo curso.
+2.º - (Revogado.)
 
-2.º
+> Alterado pelo/a [Portaria n.º 1349/95](https://diariodarepublica.pt/dr/detalhe/portaria/1349-1995-689639), publicado em 1995-11-14.
 
-Ramos
+3.º - (Revogado.)
 
-O curso de bacharelato em Engenharia e Processamento dos Produtos de Pesca desdobra-se nos ramos de:
+> Alterado pelo/a [Portaria n.º 1349/95](https://diariodarepublica.pt/dr/detalhe/portaria/1349-1995-689639), publicado em 1995-11-14.
 
-a) Tecnologias de Transformação do Pescado;
+4.º - (Revogado.)
 
-b) Gestão de Equipamentos e Instalações de Pescas.
-
-3.º
-
-Opção pelos ramos
-
-1 - A opção por cada um dos ramos a que se refere o n.º 2.º faz-se no acto de inscrição no 2.º ano curricular.
-
-2 - Em cada ano lectivo, a admissão de novos alunos para um ramo está sujeita a limitações quantitativas mínimas e máximas.
-
-3 - O número mínimo de inscrições indispensável à admissão de novos alunos num ramo é de 20.
-
-4 - O número máximo de alunos a admitir em cada ramo é fixado pela comissão instaladora do Instituto, sob proposta da comissão instaladora da Escola.
-
-5 - Será sempre assegurado o funcionamento de um ramo.
-
-4.º
-
-Plano de estudos
-
-O plano de estudos do curso a que se refere o n.º 1.º é o constante do anexo à presente portaria.
+> Alterado pelo/a [Portaria n.º 1349/95](https://diariodarepublica.pt/dr/detalhe/portaria/1349-1995-689639), publicado em 1995-11-14.
 
 5.º
 

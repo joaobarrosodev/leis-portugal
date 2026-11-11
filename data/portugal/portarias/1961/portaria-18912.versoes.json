@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:184512:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1961-12-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e2058ce648743855"
+   ]
+  },
+  {
+   "date": "1963-02-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:193270:por",
+     "title": "Portaria n.º 19720",
+     "published": "1963-02-21",
+     "dre_path": "/dr/detalhe/portaria/19720-1963-193270"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-4"
+   ],
+   "fragments": [
+    "d5b00c142c05f5af"
+   ]
+  }
+ ],
+ "fragments": {
+  "e2058ce648743855": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "De harmonia com o disposto no § único do artigo 14.º do [Decreto n.º 43454](https://diariodarepublica.pt/dr/detalhe/decreto/43454-1960-479932), de 30 de Dezembro de 1960:\n\nManda o Governo da República, pelo Ministro das Finanças, o seguinte:\n\n1.º É alterado para 100000$00 o limite fixado no artigo 16.º do [Decreto n.º 43454](https://diariodarepublica.pt/dr/detalhe/decreto/43454-1960-479932), de 30 de Dezembro de 1960, não podendo exceder esse montante a soma dos valores faciais dos certificados de aforro emitidos a favor de uma mesma pessoa.\n\n2.º O quantitativo a que se refere a parte final do § único do artigo 16.º do [Decreto n.º 43454](https://diariodarepublica.pt/dr/detalhe/decreto/43454-1960-479932) passa a ser de 100000$00.\n\nMinistério das Finanças, 27 de Dezembro de 1961. - O Ministro das Finanças, António Manuel Pinto Barbosa."
+  },
+  "d5b00c142c05f5af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1963-02-21",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 19720](https://diariodarepublica.pt/dr/detalhe/portaria/19720-1963-193270), publicado em 1963-02-21."
+   ],
+   "markdown": "De harmonia com o disposto no § único do artigo 14.º do [Decreto n.º 43454](https://diariodarepublica.pt/dr/detalhe/decreto/43454-1960-479932), de 30 de Dezembro de 1960:\n\nManda o Governo da República, pelo Ministro das Finanças, o seguinte:\n\n1.º É alterado para 150000$00 o limite fixado no artigo 16.º do [Decreto n.º 43454](https://diariodarepublica.pt/dr/detalhe/decreto/43454-1960-479932), de 30 de Dezembro de 1960, não podendo exceder esse montante a soma dos valores faciais dos certificados de aforro emitidos a favor de uma mesma pessoa.\n\n> Alterado pelo/a [Portaria n.º 19720](https://diariodarepublica.pt/dr/detalhe/portaria/19720-1963-193270), publicado em 1963-02-21.\n\n2.º O quantitativo a que se refere a parte final do § único do artigo 16.º do [Decreto n.º 43454](https://diariodarepublica.pt/dr/detalhe/decreto/43454-1960-479932) passa a ser de 100000$00.\n\nMinistério das Finanças, 27 de Dezembro de 1961. - O Ministro das Finanças, António Manuel Pinto Barbosa."
+  }
+ }
+}

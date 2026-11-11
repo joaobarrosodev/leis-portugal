@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-12-21'
+version_history:
+  file: portaria-889-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-07-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-12-21'
+    amending: pt:dre:306941:por
+    amending_title: Portaria n.º 1280/2010
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/889/2002/07/27/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:44:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1280/2010. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-889-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,7 +156,9 @@ Cumpridos os preceitos legais, com fundamento no disposto no n.º 8 do artigo 44
 
 Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pesca, o seguinte:
 
-1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça associativa de Caria (processo n.º 965-DGF), abrangendo os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Caria, município de Belmonte, com uma área de 2464,80 ha.
+1.º Pela presente portaria é renovada, por um período de 12 anos, renovável automaticamente por um único e igual período, a concessão da zona de caça associativa de Caria (processo n.º 965-AFN), abrangendo os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Caria, município de Belmonte, com a área de 2464,80 ha.
+
+> Alterado pelo/a [Portaria n.º 1280/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1280-2010-306941), publicado em 2010-12-16.
 
 2.º A presente portaria produz efeitos a partir do dia 9 de Julho de 2002.
 

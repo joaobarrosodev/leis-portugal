@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-04-18'
+version_history:
+  file: despacho-normativo-75-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-04-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-04-18'
+    amending: pt:dre:264749:por
+    amending_title: Despacho Normativo n.º 247/94; Despacho Normativo n.º 247/94
+    changes:
+    - Altera Artigo unidades 17-18
+    - Altera Artigo unidades 20-24
+    - Altera Artigo unidades 26-32
+    - Altera Artigo unidades 34-36
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/75/1991/04/05/p/dre/pt/html
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:53:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 247/94; Despacho
+    Normativo n.º 247/94. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1991/despacho-normativo-75-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,45 +161,53 @@ ii) Em povoamentos de altura média inferior a 5 m, a superfície florestal deve
 
 4 - Os custos máximos de investimento elegíveis ao abrigo do n.º 1 do artigo 42.º do diploma citado no n.º 1 são os seguintes:
 
-a) Arborização - 1200 ECU/ha;
+a) Arborização - 1419 ECU/ha;
 
-b) Melhoria das superfícies florestais - até 600 ECU/ha, para o conjunto dos investimentos realizados e com as seguintes limitações:
+b) Melhoria das superfícies florestais - até 709,5 ECU/ha, para o conjunto dos investimentos realizados e com as seguintes limitações:
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
 i) Montados de sobro e sobreirais:
 
-Limpeza de mato - 300 ECU/ha;
+Limpeza de mato - 354,6 ECU/ha;
 
-Podas de formação - 210 ECU/ha;
+Podas de formação - 248,2 ECU/ha;
 
-Adensamento - 220 ECU/ha;
+Adensamento - 260 ECU/ha;
 
-Limpezas de povoamento - 110 ECU/ha;
+Limpezas de povoamento - 130 ECU/ha;
 
-Fertilizações - 100 ECU/ha;
+Fertilizações - 118,2 ECU/ha;
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
 ii) Outros povoamentos:
 
-Limpeza de mato - 300 ECU/ha;
+Limpeza de mato - 354,6 ECU/ha;
 
-Limpeza de povoamento - 300 ECU/ha;
+Limpeza de povoamento - 354,6 ECU/ha;
 
-Desramações - 230 ECU/ha;
+Desramações - 272 ECU/ha;
 
-Fertilizações - 100 ECU/ha;
+Fertilizações - 118,2 ECU/ha;
 
-Podas (excepto azinheira) - 300 ECU/ha;
+Podas (excepto azinheira) - 354,6 ECU/ha;
 
-Adensamento - 360 ECU/ha;
+Adensamento - 425,5 ECU/ha;
 
-c) Cortinas de abrigo - 560 ECU/ha;
+c) Cortinas de abrigo - 662 ECU/ha;
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
 d) Infra-estruturas:
 
-i) Construção da rede viária - 5000 ECU/km;
+i) Construção da rede viária - 5910 ECU/km;
 
-ii) Construção da rede divisional e de pontos de água - 800 ECU/km e 4500 ECU/unidade, respectivamente, não podendo exceder, no seu conjunto, 80 ECU/ha;
+ii) Construção da rede divisional e de pontos de água - 945,5 ECU/km e 5320 ECU/unidade, respectivamente, não podendo exceder, no seu conjunto, 94,6 ECU/ha;
 
-e) Equipamento mecânico: custos de adaptação do material agrícola para trabalhos florestais - até 10% do montante do investimento total e com o limite máximo de 6000 ECU.
+e) Equipamento mecânico: custos de adaptação do material agrícola para trabalhos florestais - até 10% do montante do investimento total e com o limite máximo de 7095 ECU.
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
 Ministério da Agricultura, Pescas e Alimentação, 8 de Março de 1991. - Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 

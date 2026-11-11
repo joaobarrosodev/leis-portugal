@@ -38,10 +38,33 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-12-27'
+version_history:
+  file: portaria-681-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-06-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-12-27'
+    amending: pt:dre:423640:por
+    amending_title: Portaria n.º 1406/2003
+    changes:
+    - Altera Artigo unidades 17-17
+    - Altera Artigo unidades 19-20
+    - Altera Artigo unidades 23-23
+    - Altera Artigo unidades 26-26
+    - Altera Artigo unidades 30-30
+    - Altera Artigo unidades 34-34
+    - Altera Artigo unidades 36-36
+    - Altera Artigo unidades 38-39
+    - Altera Artigo unidades 43-43
+    - Altera Artigo unidades 47-47
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/681/2002/06/19/p/dre/pt/html
@@ -67,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:42:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1406/2003. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-681-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -174,25 +198,31 @@ Pelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Est
 
 ## ANEXO I — Instituto Politécnico de Bragança
 
-Escola Superior de Educação de Bragança
+Escola Superior de Educação
+
+> Alterado pelo/a [Portaria n.º 1406/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1406-2003-423640), publicado em 2003-12-22.
 
 Curso de Tradução
 
-1.º ciclo
+1.º ciclo - Grau de bacharel
 
-Grau de bacharel
+> Alterado pelo/a [Portaria n.º 1406/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1406-2003-423640), publicado em 2003-12-22.
 
 QUADRO N.º 1
 
 1.º ano
 
-[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)
+
+> Alterado pelo/a [Portaria n.º 1406/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1406-2003-423640), publicado em 2003-12-22.
 
 QUADRO N.º 2
 
 2.º ano
 
-[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)
+
+> Alterado pelo/a [Portaria n.º 1406/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1406-2003-423640), publicado em 2003-12-22.
 
 Opção de Tradução Literária
 
@@ -200,7 +230,9 @@ QUADRO N.º 3
 
 3.º ano
 
-[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)
+
+> Alterado pelo/a [Portaria n.º 1406/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1406-2003-423640), publicado em 2003-12-22.
 
 Opção de Tradução Técnico-Científica
 
@@ -208,17 +240,21 @@ QUADRO N.º 4
 
 3.º ano
 
-[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)
+
+> Alterado pelo/a [Portaria n.º 1406/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1406-2003-423640), publicado em 2003-12-22.
 
 ## ANEXO II — Instituto Politécnico de Bragança
 
-Escola Superior de Educação de Bragança
+Escola Superior de Educação
+
+> Alterado pelo/a [Portaria n.º 1406/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1406-2003-423640), publicado em 2003-12-22.
 
 Curso de Tradução
 
-2.º ciclo
+2.º ciclo - Grau de licenciado
 
-Grau de licenciado
+> Alterado pelo/a [Portaria n.º 1406/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1406-2003-423640), publicado em 2003-12-22.
 
 Ramo de Tradução Literária
 
@@ -226,7 +262,9 @@ QUADRO N.º 1
 
 1.º ano
 
-[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)
+
+> Alterado pelo/a [Portaria n.º 1406/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1406-2003-423640), publicado em 2003-12-22.
 
 Ramo de Tradução Técnico-Científica
 
@@ -234,4 +272,6 @@ QUADRO N.º 2
 
 1.º ano
 
-[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)](https://files.diariodarepublica.pt/1s/2002/06/139b00/48894891.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85478550.pdf)
+
+> Alterado pelo/a [Portaria n.º 1406/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1406-2003-423640), publicado em 2003-12-22.

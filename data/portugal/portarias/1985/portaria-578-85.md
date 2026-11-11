@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-09-24'
+version_history:
+  file: portaria-578-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-08-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-09-24'
+    amending: pt:dre:557603:por
+    amending_title: Portaria n.º 860/90
+    changes:
+    - Altera Artigo unidades 179-179
+    - Altera Artigo unidades 181-182
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:30:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 860/90. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-578-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -469,13 +485,21 @@ Literatura Inglesa Moderna.
 
 Literatura Inglesa Contemporânea.
 
-Literatura Norte-Americana.
+Literatura Americana.
+
+> Alterado pelo/a [Portaria n.º 860/90](https://diariodarepublica.pt/dr/detalhe/portaria/860-1990-557603), publicado em 1990-09-19.
 
 Estudos Anglo-Portugueses.
 
+Linguística Inglesa.
+
 Cultura Inglesa.
 
-Linguística Inglesa.
+Cultura Americana.
+
+Estudos Americanos.
+
+> Alterado pelo/a [Portaria n.º 860/90](https://diariodarepublica.pt/dr/detalhe/portaria/860-1990-557603), publicado em 1990-09-19.
 
 ## ANEXO IX — Grupo: Estudos Alemães
 

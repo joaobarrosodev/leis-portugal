@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:671011:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-07-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2208f83f6eae65f2"
+   ]
+  },
+  {
+   "date": "2004-02-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:570535:por",
+     "title": "Portaria n.º 164/2004",
+     "published": "2004-02-17",
+     "dre_path": "/dr/detalhe/portaria/164-2004-570535"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "73323604631304ff"
+   ]
+  }
+ ],
+ "fragments": {
+  "2208f83f6eae65f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Julho\n\nPela [Portaria n.º 692/95](https://diariodarepublica.pt/dr/detalhe/portaria/692-1995-476726), de 30 de Junho, alterada pelas Portarias n.os [630/97](https://diariodarepublica.pt/dr/detalhe/portaria/630-1997-204189) e [1034/98](https://diariodarepublica.pt/dr/detalhe/portaria/1034-1998-219352), respectivamente de 8 de Agosto e de 15 de Dezembro, foi concessionada à Associação de Caçadores da Azoia de Baixo a zona de caça associativa da Azoia de Baixo (processo n.º 655-DGF), situada no município de Santarém, com uma área de 585,2756 ha, válida até 27 de Junho de 2003.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 1 do artigo 36.º, do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, e ouvido o Conselho Cinegético Municipal:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça associativa da Azoia de Baixo (processo n.º 655-DGF), abrangendo vários prédios rústicos sitos nas freguesias de Azoia de Baixo, Póvoa de Santarém e Romeiras, município de Santarém, com uma área de 542,0866 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n2.º A presente portaria produz efeitos a partir do dia 28 de Junho de 2003.\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 24 de Junho de 2003.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/07/163b00/41214121.pdf)"
+  },
+  "73323604631304ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2004-02-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 164/2004](https://diariodarepublica.pt/dr/detalhe/portaria/164-2004-570535), publicado em 2004-02-17."
+   ],
+   "markdown": "de 17 de Julho\n\nPela [Portaria n.º 692/95](https://diariodarepublica.pt/dr/detalhe/portaria/692-1995-476726), de 30 de Junho, alterada pelas Portarias n.os [630/97](https://diariodarepublica.pt/dr/detalhe/portaria/630-1997-204189) e [1034/98](https://diariodarepublica.pt/dr/detalhe/portaria/1034-1998-219352), respectivamente de 8 de Agosto e de 15 de Dezembro, foi concessionada à Associação de Caçadores da Azoia de Baixo a zona de caça associativa da Azoia de Baixo (processo n.º 655-DGF), situada no município de Santarém, com uma área de 585,2756 ha, válida até 27 de Junho de 2003.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 1 do artigo 36.º, do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, e ouvido o Conselho Cinegético Municipal:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça associativa da Azoia de Baixo (processo n.º 655-DGF), abrangendo os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Azoia de Baixo, Póvoa de Santarém e Romeiras, município de Santarém, com a área de 539 ha.\n\n> Alterado pelo/a [Portaria n.º 164/2004](https://diariodarepublica.pt/dr/detalhe/portaria/164-2004-570535), publicado em 2004-02-17.\n\n2.º A presente portaria produz efeitos a partir do dia 28 de Junho de 2003.\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 24 de Junho de 2003.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/07/163b00/41214121.pdf)"
+  }
+ }
+}

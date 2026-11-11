@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:665116:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-10-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4065628ded54c5d4"
+   ]
+  },
+  {
+   "date": "2002-03-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:265505:por",
+     "title": "Portaria n.º 250/2002",
+     "published": "2002-03-12",
+     "dre_path": "/dr/detalhe/portaria/250-2002-265505"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 16-17",
+    "Altera Artigo unidades 20-21"
+   ],
+   "fragments": [
+    "1be6b330e81112a2"
+   ]
+  }
+ ],
+ "fragments": {
+  "4065628ded54c5d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Outubro\n\nSob proposta da comissão instaladora do Instituto Politécnico da Guarda e da sua Escola Superior de Tecnologia e Gestão;\n\nAo abrigo do disposto no artigo 4.º do [Decreto-Lei n.º 303/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1980-470779), de 16 de Agosto, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nCriação\n\nO Instituto Politécnico da Guarda, através da sua Escola Superior de Tecnologia e Gestão, confere o grau de bacharel em Engenharia Topográfica, ministrando, em consequência, o respectivo curso.\n\n2.º\n\nPlano de estudos\n\nO plano de estudos do curso de bacharelato a que se refere o n.º 1.º é o constante do anexo à presente portaria.\n\n3.º\n\nRegimes escolares\n\nOs regimes de frequência, avaliação de conhecimentos, transição de ano e de precedências são fixados pela Escola, através do seu órgão competente.\n\n4.º\n\nCondições para obtenção do grau\n\nÉ condição para a obtenção do grau de bacharel a aprovação na totalidade das disciplinas que integram o respectivo plano de estudos.\n\n5.º\n\nClassificação final\n\n1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o plano de estudos.\n\n2 - Os coeficientes de ponderação são fixados pelo conselho científico.\n\n6.º\n\nEntrada em funcionamento\n\nO curso referido no n.º 1.º entrará em funcionamento progressivamente, um ano curricular em cada ano lectivo, a partir do ano lectivo de 1993-1994, inclusive.\n\nMinistério da Educação.\n\nAssinada em 29 de Setembro de 1993.\n\nO Ministro da Educação, António Fernando Couto dos Santos."
+  },
+  "1be6b330e81112a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2002-03-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 250/2002](https://diariodarepublica.pt/dr/detalhe/portaria/250-2002-265505), publicado em 2002-03-12.",
+    "Alterado pelo/a [Portaria n.º 250/2002](https://diariodarepublica.pt/dr/detalhe/portaria/250-2002-265505), publicado em 2002-03-12."
+   ],
+   "markdown": "de 26 de Outubro\n\nSob proposta da comissão instaladora do Instituto Politécnico da Guarda e da sua Escola Superior de Tecnologia e Gestão;\n\nAo abrigo do disposto no artigo 4.º do [Decreto-Lei n.º 303/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1980-470779), de 16 de Agosto, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nCriação\n\nO Instituto Politécnico da Guarda, através da sua Escola Superior de Tecnologia e Gestão, confere o grau de bacharel em Engenharia Topográfica, ministrando, em consequência, o respectivo curso.\n\n2.º\n\nPlano de estudos\n\nO plano de estudos do curso de bacharelato a que se refere o n.º 1.º é o constante do anexo à presente portaria.\n\n3.º\n\nRegimes escolares\n\nOs regimes de frequência, avaliação de conhecimentos, transição de ano e de precedências são fixados pela Escola, através do seu órgão competente.\n\n4.º\n\nCondições para a obtenção do grau\n\n1 - São condições para a obtenção do grau de bacharel, cumulativamente:\n\na) A aprovação na totalidade das unidades curriculares que integram o respectivo plano de estudos;\n\nb) A realização, com aproveitamento, do estágio no final do curso.\n\n2 - O estágio é objecto de avaliação, que se traduzirá numa classificação, nos termos a regulamentar pelo órgão legal e estatutariamente competente.\n\n> Alterado pelo/a [Portaria n.º 250/2002](https://diariodarepublica.pt/dr/detalhe/portaria/250-2002-265505), publicado em 2002-03-12.\n\n5.º\n\nClassificação final\n\nA classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o plano de estudos e do estágio a que se refere o n.º 2 do número anterior.\n\n> Alterado pelo/a [Portaria n.º 250/2002](https://diariodarepublica.pt/dr/detalhe/portaria/250-2002-265505), publicado em 2002-03-12.\n\n6.º\n\nEntrada em funcionamento\n\nO curso referido no n.º 1.º entrará em funcionamento progressivamente, um ano curricular em cada ano lectivo, a partir do ano lectivo de 1993-1994, inclusive.\n\nMinistério da Educação.\n\nAssinada em 29 de Setembro de 1993.\n\nO Ministro da Educação, António Fernando Couto dos Santos."
+  }
+ }
+}

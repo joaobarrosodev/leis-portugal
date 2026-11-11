@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-11-13'
+version_history:
+  file: portaria-1491-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-11-13'
+    amending: pt:dre:687024:por
+    amending_title: Portaria n.º 1151/97
+    changes:
+    - Adita Artigo depois da unidade 22
+    - Adita Artigo depois da unidade 87
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1491/1995/12/29/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:55:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1151/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-1491-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -171,6 +187,18 @@ d) Ter um bacharelato ou licenciatura em áreas afins, desde que o respectivo cu
 Limitações quantitativas
 
 A matrícula e a inscrição no curso estão sujeitas às limitações quantitativas a fixar anualmente por portaria conjunta dos Ministros da Educação e do Comércio e Turismo, sob proposta da ESHTE.
+
+4.º-A
+
+Supranumerários
+
+1 - Para além das vagas fixadas nos termos do n.º 4.º, pode ainda ser criado um contingente especial destinado a estudantes nacionais dos países africanos de expressão portuguesa, desde que a sua candidatura seja apresentada previamente pela via diplomática, no âmbito dos acordos de cooperação firmados pelo Estado Português.
+
+2 - O número de vagas deste contingente é fixado pelo director da Escola e não pode ser superior a 10% das vagas fixadas nos termos do n.º 4.º
+
+3 - Os estudantes a que se refere o n.º 1 devem satisfazer as condições de acesso fixadas nos termos do n.º 3.º e estão sujeitos, se excederem o número de vagas fixadas nos termos do n.º 4.º, às regras e critérios de selecção e seriação estabelecidos pela presente portaria.
+
+> Aditado pelo/a [Portaria n.º 1151/97](https://diariodarepublica.pt/dr/detalhe/portaria/1151-1997-687024), publicado em 1997-11-12.
 
 5.º
 
@@ -301,6 +329,14 @@ O plano de estudo do curso é o fixado em anexo à presente portaria.
 Duração
 
 A duração do curso é de dois anos lectivos.
+
+15.º-A
+
+Horário pós-laboral
+
+O curso pode funcionar em horário pós-laboral, com o plano de estudos e duração fixados pelos n.os 14.º e 15.º
+
+> Aditado pelo/a [Portaria n.º 1151/97](https://diariodarepublica.pt/dr/detalhe/portaria/1151-1997-687024), publicado em 1997-11-12.
 
 16.º
 

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:692408:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-11-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "434265e68171923e"
+   ]
+  },
+  {
+   "date": "1996-11-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:179552:por",
+     "title": "Resolução do Conselho de Ministros n.º 179/96",
+     "published": "1996-10-31",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/179-1996-179552"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-9"
+   ],
+   "fragments": [
+    "998529a5ea2bfc55"
+   ]
+  }
+ ],
+ "fragments": {
+  "434265e68171923e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O n.º 1 do artigo 27.º do Regulamento da Exploração do Jogo do Bingo, aprovado pelo Decreto-Lei n.º 341/95, de 24 de Novembro, determina que as percentagens da receita bruta da venda dos cartões que constituem receita dos concessionários das salas de jogo do bingo fora dos casinos são estabelecidas por resolução do Conselho de Ministros.\n\nAssim:\n\nNos termos da alínea g) do artigo 202.º da Constituição, e do n.º 1 do artigo 27.º do Regulamento aprovado pelo [Decreto-Lei n.º 314/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1995-692421), de 24 de Novembro, o Conselho de Ministros resolveu:\n\n1 - Constituem receita dos concessionários das salas de jogo do bingo fora dos casinos as seguintes percentagens da receita bruta da venda dos cartões:\n\na) No caso de salas concessionadas a pessoas colectivas públicas e de utilidade pública - 33%;\n\nb) No caso de salas concessionadas a empresas do sector turístico:\n\ni) 33%, até ao montante de 250000 contos;\n\nii) 22%, na parte da receita que exceda aquele valor.\n\n2 - As importâncias referidas no número anterior encontram-se expressas em escudos com poder aquisitivo referido ao ano de 1995 e serão actualizadas com efeitos a partir do dia 1 de Março de cada ano, tendo em conta o índice médio de preços no consumidor, no continente, excluindo a habitação, publicado pelo Instituto Nacional de Estatística, arredondando-se para a dezena de contos imediatamente inferior.\n\nPresidência do Conselho de Ministros, 12 de Outubro de 1995. - O Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "998529a5ea2bfc55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1996-11-05",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 179/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/179-1996-179552), publicado em 1996-10-31."
+   ],
+   "markdown": "O n.º 1 do artigo 27.º do Regulamento da Exploração do Jogo do Bingo, aprovado pelo Decreto-Lei n.º 341/95, de 24 de Novembro, determina que as percentagens da receita bruta da venda dos cartões que constituem receita dos concessionários das salas de jogo do bingo fora dos casinos são estabelecidas por resolução do Conselho de Ministros.\n\nAssim:\n\nNos termos da alínea g) do artigo 202.º da Constituição, e do n.º 1 do artigo 27.º do Regulamento aprovado pelo [Decreto-Lei n.º 314/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1995-692421), de 24 de Novembro, o Conselho de Ministros resolveu:\n\n1 - Constituem receita dos concessionários das salas de jogo do bingo fora dos casinos as seguintes percentagens da receita bruta da venda dos cartões:\n\na) (Revogada.)\n\nb) (Revogada.)\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 179/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/179-1996-179552), publicado em 1996-10-31.\n\n2 - As importâncias referidas no número anterior encontram-se expressas em escudos com poder aquisitivo referido ao ano de 1995 e serão actualizadas com efeitos a partir do dia 1 de Março de cada ano, tendo em conta o índice médio de preços no consumidor, no continente, excluindo a habitação, publicado pelo Instituto Nacional de Estatística, arredondando-se para a dezena de contos imediatamente inferior.\n\nPresidência do Conselho de Ministros, 12 de Outubro de 1995. - O Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

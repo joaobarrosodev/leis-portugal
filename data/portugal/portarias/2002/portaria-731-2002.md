@@ -38,10 +38,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-03-13'
+version_history:
+  file: portaria-731-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-03-13'
+    amending: pt:dre:687042:por
+    amending_title: Portaria n.º 227/2006
+    changes:
+    - Altera Artigo unidades 21-21
+    - Altera Artigo unidades 25-25
+    - Altera Artigo unidades 28-28
+    - Altera Artigo unidades 31-31
+    - Altera Artigo unidades 34-34
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/731/2002/06/27/p/dre/pt/html
@@ -67,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:43:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 227/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-731-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -169,7 +188,9 @@ Pelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Est
 
 Universidade Atlântica
 
-Curso em Gestão em Saúde
+Curso de Gestão em Saúde
+
+> Alterado pelo/a [Portaria n.º 227/2006](https://diariodarepublica.pt/dr/detalhe/portaria/227-2006-687042), publicado em 2006-03-08.
 
 Grau de licenciado
 
@@ -177,22 +198,30 @@ QUADRO N.º 1
 
 1.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)
+
+> Alterado pelo/a [Portaria n.º 227/2006](https://diariodarepublica.pt/dr/detalhe/portaria/227-2006-687042), publicado em 2006-03-08.
 
 QUADRO N.º 2
 
 2.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)
+
+> Alterado pelo/a [Portaria n.º 227/2006](https://diariodarepublica.pt/dr/detalhe/portaria/227-2006-687042), publicado em 2006-03-08.
 
 QUADRO N.º 3
 
 3.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)
+
+> Alterado pelo/a [Portaria n.º 227/2006](https://diariodarepublica.pt/dr/detalhe/portaria/227-2006-687042), publicado em 2006-03-08.
 
 QUADRO N.º 4
 
 4.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)
+
+> Alterado pelo/a [Portaria n.º 227/2006](https://diariodarepublica.pt/dr/detalhe/portaria/227-2006-687042), publicado em 2006-03-08.

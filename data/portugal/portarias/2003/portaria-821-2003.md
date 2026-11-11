@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-10-08'
+version_history:
+  file: portaria-821-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-08-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-10-08'
+    amending: pt:dre:590481:por
+    amending_title: Portaria n.º 1275/2004
+    changes:
+    - Altera Artigo unidades 36-36
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/821/2003/08/13/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:51:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1275/2004. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-821-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -224,7 +239,11 @@ Reconhecimento dos graus
 
 Início de funcionamento
 
-O curso pode entrar em funcionamento a partir do ano lectivo de 2003-2004, inclusive, um ano curricular em cada ano lectivo.
+1 - O 1.º ciclo do curso pode começar a funcionar a partir do ano lectivo de 2003-2004, inclusive, um ano curricular em cada ano lectivo.
+
+2 - O 2.º ciclo do curso pode começar a funcionar a partir do ano lectivo de 2004-2005, inclusive.
+
+> Alterado pelo/a [Portaria n.º 1275/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1275-2004-590481), publicado em 2004-10-07.
 
 9.º
 

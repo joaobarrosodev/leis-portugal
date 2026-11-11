@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-12-24'
+version_history:
+  file: despacho-normativo-127-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-06-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-12-24'
+    amending: pt:dre:623836:por
+    amending_title: Despacho Normativo n.º 240/92
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/127/1991/06/15/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:49:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 240/92. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1991/despacho-normativo-127-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,6 +161,8 @@ a) 10% serão atribuídos ao instituto Nacional de Saúde Dr. Ricardo Jorge;
 
 b) 60% reverterão para o Centro de Estudos do Medicamento, destinados a assegurar as condições técnicas e laboratoriais necessárias ao desenvolvimento das competências que lhe foram atribuídas pela [Portaria n.º 71/90](https://diariodarepublica.pt/dr/detalhe/portaria/71-1990-335401), de 29 de Janeiro, nomeadamente a investigação científica nas áreas da produção e comprovação da qualidade dos medicamentos e de outros produtos de uso médico e farmacêutico e farmacovigilância;
 
-c) 30% destinam-se ao pagamento das despesas inerentes ao funcionamento das Comissões Técnica de Medicamentos e de Revisão das Especialidades Farmacêuticas, designadamente serviços administrativos, pagamento de análises a efectuar em laboratórios públicos ou privados, à melhoria do equipamento necessário àquelas Comissões e ainda à formação e aperfeiçoamento profissional dos técnicos da Direcção-Geral de Assuntos Farmacêuticos.
+c) 30% destinam-se ao pagamento das despesas inerentes ao funcionamento das Comissões Técnica de Medicamentos e de Revisão das Especialidades Farmacêuticas, designadamente serviços administrativos, pagamento de análises a efectuar em laboratórios públicos ou privados, à melhoria do equipamento necessário àquelas Comissões e ainda à formação e aperfeiçoamento profissional dos técnicos da Direcção-Geral de Assuntos Farmacêuticos, bem como a suportar as despesas com a participação dos técnicos desta Direcção-Geral em reuniões e comités no âmbito da Comunidade Europeia; por esta verba poderão ainda ser suportadas as despesas decorrentes da racionalização e organização administrativa, das acções de informação aos profissionais de saúde e utentes a desenvolver pela DGAF, das publicações técnicas inerentes àquelas acções e da informatização da mesma Direcção-Geral.
+
+> Alterado pelo/a [Despacho Normativo n.º 240/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/240-1992-623836), publicado em 1992-12-19.
 
 Ministério da Saúde, 20 de Maio de 1991. - O Secretário de Estado da Administração da Saúde, Jorge Augusto Pires.

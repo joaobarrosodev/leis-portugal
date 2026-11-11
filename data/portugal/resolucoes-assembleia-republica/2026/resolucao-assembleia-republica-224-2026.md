@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-08-06'
+version_history:
+  file: resolucao-assembleia-republica-224-2026.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2026-07-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-08-06'
+    amending: pt:dre:1154555252:por
+    amending_title: Declaração de Retificação n.º 30/2026/1
+    changes:
+    - Altera Artigo unidades 5-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolassrep/224/2026/07/28/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T18:48:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Retificação n.º 30/2026/1.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-assembleia-republica/2026/resolucao-assembleia-republica-224-2026.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -100,17 +115,19 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 1 - Avalie, reveja e atualize os valores de comparticipação pública nas refeições escolares no âmbito dos contratos de associação, tendo em conta a evolução dos custos alimentares, energéticos e logísticos e os requisitos de uma alimentação equilibrada, assegurando a convergência e equiparação aos valores atribuídos para o mesmo efeito aos alunos do ensino público.
 
-2 - Proceda à revisão das verbas transferidas aos municípios para financiamento das refeições escolares do 1.º ciclo, garantindo a sua atualização em função dos custos reais suportados pelas autarquias, designadamente os decorrentes da inflação alimentar.
+2 - Atualize as verbas transferidas aos municípios para financiamento das refeições escolares do 1.º ciclo, em função dos custos reais suportados pelas autarquias, designadamente os decorrentes da inflação alimentar.
 
-3 - Garanta mecanismos periódicos de revisão das comparticipações atribuídas, tendo em consideração a evolução da inflação verificada.
+3 - Garanta mecanismos periódicos de revisão das comparticipações atribuídas, considerando a evolução da inflação.
 
-4 - Proceda a uma atualização extraordinária e tecnicamente fundamentada dos montantes transferidos pela administração central às câmaras municipais para o financiamento das refeições escolares, precedida de um levantamento nacional que permita identificar os custos reais por refeição, as assimetrias existentes entre municípios e as situações de subfinanciamento efetivo.
+4 - Atualize, de forma extraordinária e tecnicamente fundamentada, os montantes transferidos pela administração central às câmaras municipais, para o financiamento das refeições escolares, precedida de um levantamento que permita identificar os custos reais por refeição, as assimetrias existentes entre municípios e as situações de subfinanciamento efetivo.
 
-5 - Diligencie no sentido de garantir que todos os alunos têm acesso a refeições escolares nutricionalmente adequadas, equilibradas, diversificadas e de qualidade equivalente, independentemente do tipo de estabelecimento de ensino ou regime de frequência, acautelando que nos estabelecimentos de ensino com contrato de associação não possa haver tratamento diferenciado entre alunos.
+5 - Garanta que todos os alunos têm acesso a refeições escolares nutricionalmente adequadas, equilibradas, diversificadas e de qualidade equivalente, independentemente do tipo de estabelecimento de ensino ou regime de frequência, acautelando que nos estabelecimentos de ensino com contrato de associação não haja tratamento diferenciado entre alunos.
 
-6 - Estabeleça orientações claras para os estabelecimentos de ensino com contrato de associação, para assegurar que não existam práticas que resultem em tratamento diferenciado entre alunos no acesso a refeições, espaços ou serviços escolares, e promova, através da Inspeção-Geral da Educação e Ciência, ações de fiscalização com vista a apurar a eventual existência de práticas discriminatórias no acesso e na qualidade das refeições escolares.
+6 - Estabeleça orientações claras para os estabelecimentos de ensino com contrato de associação, no sentido de assegurar que não existam práticas que resultem em tratamento diferenciado entre alunos no acesso a refeições, espaços ou serviços escolares, e promova, através da Inspeção-Geral da Educação e Ciência, ações de fiscalização com vista a apurar a eventual existência de práticas discriminatórias no acesso e na qualidade das refeições escolares.
 
-7 - Inste as Câmaras Municipais a, junto das escolas, avaliarem a possibilidade de introdução de critérios de eficiência na gestão das cantinas escolares, nomeadamente no combate ao desperdício alimentar e na melhoria da gestão logística e de distribuição de alimentos.
+7 - Inste as câmaras municipais a avaliar, junto das escolas, a possibilidade de introduzir critérios de eficiência na gestão das cantinas escolares, nomeadamente no combate ao desperdício alimentar e na melhoria da gestão logística e de distribuição de alimentos.
+
+> Alterado pelo/a [Declaração de Retificação n.º 30/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/30-2026-1154555252), publicado em 2026-08-06.
 
 Aprovada em 17 de julho de 2026.
 

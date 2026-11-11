@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-08-15'
+version_history:
+  file: portaria-218-a-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-03-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-08-15'
+    amending: pt:dre:282758:por
+    amending_title: Portaria n.º 776/92
+    changes:
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 15-15
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/218-a/1992/03/20/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:14:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 776/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-218-a-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,7 +159,9 @@ Nestes termos, ao abrigo do disposto nos artigos 17.º do [Decreto-Lei n.º 329-
 
 Manda o Governo, pelos Ministros das Finanças, da Saúde e do Comércio e Turismo, o seguinte:
 
-1.º Em 1992, o disposto nos n.os 5, 6 e 8 do n.º 4.º, nos n.os 4, 5 e 6 do n.º 5.º e no n.º 6.º da [Portaria n.º 29/90](https://diariodarepublica.pt/dr/detalhe/portaria/29-1990-333525), de 13 de Janeiro, é suspenso, vigorando em sua substituição o disposto nos n.os 2.º a 10.º seguintes.
+1.º Em 1992, o disposto nos n.os 5, 6 e 8 do n.º 4.º, na alínea c) do n.º 3 e n.os 4, 5 e 6 do n.º 5.º e no n.º 6.º da [Portaria n.º 29/90](https://diariodarepublica.pt/dr/detalhe/portaria/29-1990-333525), de 13 de Janeiro, é suspenso, vigorando em sua substituição o disposto nos n.os 2.º a 10.º seguintes.
+
+> Alterado pelo/a [Portaria n.º 776/92](https://diariodarepublica.pt/dr/detalhe/portaria/776-1992-282758), publicado em 1992-08-10.
 
 2.º Os índices máximos a aplicar na revisão dos preços das especialidades farmacêuticas a que se refere o n.º 1 do n.º 5.º da [Portaria n.º 29/90](https://diariodarepublica.pt/dr/detalhe/portaria/29-1990-333525), de 13 de Janeiro, já com a inclusão do IVA, serão os seguintes:
 
@@ -157,7 +175,13 @@ Restante valor - 7,10%.
 
 3.º O coeficiente médio ponderado a aplicar na revisão dos preços das especialidades farmacêuticas a que se refere o n.º 1 do n.º 4.º da [Portaria n.º 29/90](https://diariodarepublica.pt/dr/detalhe/portaria/29-1990-333525), de 13 de Janeiro, já com a inclusão do IVA não poderá exceder 9,1%.
 
-4.º O índice máximo de agravamento para as especialidades farmacêuticas cujo primeiro preço tenha sido autorizado depois de 1 de Outubro de 1991, já com a inclusão do IVA, será de 5%.
+4.º - 1 - O índice máximo de agravamento para as especialidades farmacêuticas cujo primeiro preço tenha sido autorizado depois de 1 de Outubro de 1991, bem como para as que se encontrem abrangidas pelo disposto na alínea c) do n.º 3 do n.º 5 da [Portaria n.º 29/90](https://diariodarepublica.pt/dr/detalhe/portaria/29-1990-333525), de 13 de Janeiro, será de 5%, já com a inclusão do IVA.
+
+2 - Ficam excluídas do disposto no número anterior as especialidades farmacêuticas abrangidas pelo disposto na alínea c) do n.º 3 do n.º 5.º da [Portaria n.º 29/90](https://diariodarepublica.pt/dr/detalhe/portaria/29-1990-333525), de 13 de Janeiro, cujos preços tenham sido baseados no preço do similar nacional para as quais será aplicado um índice igual ao do similar de referência.
+
+3 - Os preços resultantes da aplicação do n.º 1 anterior, se diferentes dos já calculados, serão comunicados pela Direcção-Geral de Concorrência e Preços (DGCP) às empresas no prazo máximo de 30 dias a contar da publicação da presente portaria.
+
+> Alterado pelo/a [Portaria n.º 776/92](https://diariodarepublica.pt/dr/detalhe/portaria/776-1992-282758), publicado em 1992-08-10.
 
 5.º Nos termos do disposto no artigo 67.º do [Decreto-Lei n.º 72/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1991-478253), de 8 de Fevereiro, as empresas deverão indicar nas respectivas embalagens e junto ao PVP, calculado de acordo com os números anteriores, a menção expressa de que neles se inclui o IVA.
 

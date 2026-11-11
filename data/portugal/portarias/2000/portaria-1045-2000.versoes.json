@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:623028:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-10-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cfc1a469682bd8e5",
+    "208d06a9966cb689"
+   ]
+  },
+  {
+   "date": "2002-07-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:140129:por",
+     "title": "Portaria n.º 735/2002",
+     "published": "2002-06-27",
+     "dre_path": "/dr/detalhe/portaria/735-2002-140129"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 29-30"
+   ],
+   "fragments": [
+    "cfc1a469682bd8e5",
+    "bcbd593b61f57575"
+   ]
+  }
+ ],
+ "fragments": {
+  "cfc1a469682bd8e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Outubro\n\nSob proposta do Instituto Politécnico de Lisboa e da sua Escola Superior de Comunicação Social;\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro);\n\nConsiderando o disposto no Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho;\n\nConsiderando o disposto na [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto;\n\nAo abrigo do disposto na lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro) e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nOpções\n\nO 1.º ciclo do curso bietápico de licenciatura em Publicidade e Marketing, da Escola Superior de Comunicação Social de Lisboa, criado pela [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto, desdobra-se nas seguintes opções:\n\na) Publicidade;\n\nb) Marketing.\n\n2.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso bietápico de licenciatura em Publicidade e Marketing, nos termos do anexo à presente portaria.\n\n3.º\n\nNorma revogatória\n\nFindo o processo de transição fixado nos termos do artigo 31.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho, são revogadas:\n\na) A [Portaria n.º 542/89](https://diariodarepublica.pt/dr/detalhe/portaria/542-1989-619744), de 13 de Julho, alterada pelas Portarias n.os [1132/92](https://diariodarepublica.pt/dr/detalhe/portaria/1132-1992-616382), de 10 de Dezembro, e [232/97](https://diariodarepublica.pt/dr/detalhe/portaria/232-1997-526661), de 3 de Abril, que autorizou o Instituto Politécnico de Lisboa, através da sua Escola Superior de Comunicação Social, a conferir o grau de bacharel em Publicidade e Marketing;\n\nb) A [Portaria n.º 1166/93](https://diariodarepublica.pt/dr/detalhe/portaria/1166-1993-686406), de 9 de Novembro, alterada pela [Portaria n.º 679/96](https://diariodarepublica.pt/dr/detalhe/portaria/679-1996-168792), de 19 de Novembro, que autorizou o Instituto Politécnico de Lisboa, através da sua Escola Superior de Comunicação Social, a conferir o diploma de estudos superiores especializados em Marketing Internacional;\n\nc) A [Portaria n.º 769/96](https://diariodarepublica.pt/dr/detalhe/portaria/769-1996-494799), de 30 de Dezembro, alterada pela [Portaria n.º 212/97](https://diariodarepublica.pt/dr/detalhe/portaria/212-1997-524851), de 29 de Março, que autorizou o Instituto Politécnico de Lisboa, através da sua Escola Superior de Comunicação Social, a conferir o diploma de estudos superiores especializados em Comunicação e Comportamento do Consumidor.\n\n4.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do ano lectivo de 1998-1999, inclusive.\n\nPelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 2 de Outubro de 2000."
+  },
+  "208d06a9966cb689": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Lisboa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Instituto Politécnico de Lisboa\n\nEscola Superior de Comunicação Social\n\nCurso: Publicidade e Marketing\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/249b00/60736075.pdf)"
+  },
+  "bcbd593b61f57575": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Lisboa",
+   "in_force_from": "2002-07-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 735/2002](https://diariodarepublica.pt/dr/detalhe/portaria/735-2002-140129), publicado em 2002-06-27."
+   ],
+   "markdown": "## ANEXO — Instituto Politécnico de Lisboa\n\nEscola Superior de Comunicação Social\n\nCurso de Publicidade e Marketing\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)\n\nOpção: Publicidade\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)\n\nOpção: Marketing\n\nQUADRO N.º 4\n\n3.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)\n\n2.º ciclo - Grau de licenciado\n\nRamo: Publicidade\n\nQUADRO N.º 5\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)\n\nRamo: Marketing\n\nQUADRO N.º 6\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50885091.pdf)\n\n> Alterado pelo/a [Portaria n.º 735/2002](https://diariodarepublica.pt/dr/detalhe/portaria/735-2002-140129), publicado em 2002-06-27."
+  }
+ }
+}

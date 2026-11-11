@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:196479:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-08-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "49b0e9c269b9c2ea"
+   ]
+  },
+  {
+   "date": "1997-10-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:667762:por",
+     "title": "Declaração de Rectificação n.º 16/97",
+     "published": "1997-10-15",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/16-1997-667762"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-10"
+   ],
+   "fragments": [
+    "a113166c74c09f1c"
+   ]
+  }
+ ],
+ "fragments": {
+  "49b0e9c269b9c2ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Designação de vogais do Conselho Superior da Magistratura eleitos pela Assembleia da República\n\nA Assembleia da República resolve, na reunião plenária de 31 de Julho de 1997, nos termos dos artigos 166.º, alínea i), e 169.º, n.º 5, da Constituição, designar como vogais do Conselho Superior da Magistratura os seguintes cidadãos:\n\nGil Moreira dos Santos.\n\nAntónio Duarte Arnault.\n\nJosé Manuel Lebre de Freitas.\n\nDiogo Campos Barradas de Lacerda Machado.\n\nLuís Miguel Kolback da Veiga.\n\nJosé Miguel Alarcão Júdice.\n\nMargarida Augusto Martins Blasco Telles de Abreu.\n\nAprovada em 31 de Julho de 1997.\n\nO Presidente da Assembleia da República, António de Almeida Santos."
+  },
+  "a113166c74c09f1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1997-10-15",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 16/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1997-667762), publicado em 1997-10-15."
+   ],
+   "markdown": "Designação de vogais do Conselho Superior da Magistratura eleitos pela Assembleia da República\n\nA Assembleia da República resolve, na reunião plenária de 31 de Julho de 1997, nos termos dos artigos 166.º, alínea i), e 169.º, n.º 5, da Constituição, designar como vogais do Conselho Superior da Magistratura os seguintes cidadãos:\n\nGil Moreira dos Santos.\n\nAntónio Duarte Arnault.\n\nJosé Manuel Lebre de Freitas.\n\nDiogo Campos Barradas de Lacerda Machado.\n\nLuís Miguel Kolback da Veiga.\n\nJosé Miguel Alarcão Júdice.\n\nMaria Margarida Blasco Martins Augusto Telles de Abreu.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 16/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1997-667762), publicado em 1997-10-15.\n\nAprovada em 31 de Julho de 1997.\n\nO Presidente da Assembleia da República, António de Almeida Santos."
+  }
+ }
+}

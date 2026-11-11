@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:157801:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-10-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "343b20b82802b497"
+   ]
+  },
+  {
+   "date": "2006-04-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:651972:por",
+     "title": "Portaria n.º 361/2006",
+     "published": "2006-04-12",
+     "dre_path": "/dr/detalhe/portaria/361-2006-651972"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "785699445203608f"
+   ]
+  }
+ ],
+ "fragments": {
+  "343b20b82802b497": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Outubro\n\nPela [Portaria n.º 1378/95](https://diariodarepublica.pt/dr/detalhe/portaria/1378-1995-692782), de 22 de Novembro, foi renovada à Associação de Caçadores e Pescadores da Herdade das Estacas a zona de caça associativa da Herdade das Estacas (processo n.º 156-DGRF), situada no município de Arraiolos, válida até 15 de Outubro de 2005.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no artigo 48.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, em conjugação com o estipulado na alínea a) do artigo 40.º do citado diploma:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de 12 anos, renovável automaticamente por um período igual, a concessão da zona da caça associativa da Herdade das Estacas (processo n.º 156-DGRF), abrangendo vários prédios rústicos sitos na freguesia de Vimieiro, município de Arraiolos, com a área de 558 ha.\n\n2.º A presente portaria produz efeitos a partir do dia 16 de Outubro de 2005.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 19 de Setembro de 2005."
+  },
+  "785699445203608f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-04-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 361/2006](https://diariodarepublica.pt/dr/detalhe/portaria/361-2006-651972), publicado em 2006-04-12."
+   ],
+   "markdown": "de 6 de Outubro\n\nPela [Portaria n.º 1378/95](https://diariodarepublica.pt/dr/detalhe/portaria/1378-1995-692782), de 22 de Novembro, foi renovada à Associação de Caçadores e Pescadores da Herdade das Estacas a zona de caça associativa da Herdade das Estacas (processo n.º 156-DGRF), situada no município de Arraiolos, válida até 15 de Outubro de 2005.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no artigo 48.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, em conjugação com o estipulado na alínea a) do artigo 40.º do citado diploma:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de 12 anos, renovável automaticamente por um período igual, a concessão da zona da caça associativa da Herdade das Estacas (processo n.º 156-DGRF), abrangendo vários prédios rústicos sitos na freguesia de Vimieiro, município de Arraiolos, com a área de 588 ha.\n\n> Alterado pelo/a [Portaria n.º 361/2006](https://diariodarepublica.pt/dr/detalhe/portaria/361-2006-651972), publicado em 2006-04-12.\n\n2.º A presente portaria produz efeitos a partir do dia 16 de Outubro de 2005.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 19 de Setembro de 2005."
+  }
+ }
+}

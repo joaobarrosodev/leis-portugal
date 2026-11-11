@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-12-17'
+version_history:
+  file: portaria-75-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-01-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-12-17'
+    amending: pt:dre:582846:por
+    amending_title: Portaria n.º 1168/2000
+    changes:
+    - Altera Artigo unidades 20-20
+    - Altera Artigo unidades 21-26
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/75/1995/01/28/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:10:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1168/2000. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-75-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -151,16 +167,12 @@ Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensi
 
 ## ANEXO — Universidade Lusíada
 
-Mestrado em Relações Internacionais
+Curso de Relações Internacionais
 
-QUADRO I
+> Alterado pelo/a [Portaria n.º 1168/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1168-2000-582846), publicado em 2000-12-12.
 
-Disciplinas obrigatórias
+Grau de mestre
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/024b00/05370538.pdf)
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/12/285b00/70707070.pdf)
 
-QUADRO II
-
-Disciplinas opcionais
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/024b00/05370538.pdf)
+> Alterado pelo/a [Portaria n.º 1168/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1168-2000-582846), publicado em 2000-12-12.

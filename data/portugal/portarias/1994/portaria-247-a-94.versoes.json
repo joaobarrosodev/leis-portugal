@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:143356:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-04-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bc557a25ac6be0ac"
+   ]
+  },
+  {
+   "date": "1995-05-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:513264:por",
+     "title": "Portaria n.º 383/95",
+     "published": "1995-05-02",
+     "dre_path": "/dr/detalhe/portaria/383-1995-513264"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 22-22"
+   ],
+   "fragments": [
+    "771970a83a7593c0"
+   ]
+  }
+ ],
+ "fragments": {
+  "bc557a25ac6be0ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Abril\n\nNa sequência da publicação das leis orgânicas das direcções regionais de agricultura e do Instituto Florestal, bem como das portarias que delimitaram as regiões agrárias e as áreas abrangidas pelas delegações regionais do Instituto Florestal, impõe-se agora proceder à identificação das respectivas zonas agrárias e zonas florestais.\n\nEsta etapa, que se insere no processo de reestruturação do Ministério da Agricultura, deve ser efectuada pelos princípios a que esta obedeceu e visar prosseguir os mesmos objectivos, designadamente o da harmonização das circunscrições administrativas, do reforço dos serviços regionais e sub-regionais e o da aproximação da Administração aos cidadãos.\n\nCom a harmonização das circunscrições administrativas tem-se em vista propiciar uma maior coordenação e cooperação entre os vários serviços regionais e sub-regionais existentes no Ministério da Agricultura e simultaneamente simplificar as relações entre estes e os agricultores e suas organizações.\n\nNeste sentido se uniformizaram as áreas de actuação das zonas agrárias e das zonas florestais.\n\nO objectivo do reforço da capacidade de actuação dos serviços sub-regionais foi prosseguido mediante uma clara identificação das respectivas áreas geográficas, que teve por base as suas acessibilidades e as suas características comuns ou complementares para o efeito relevantes.\n\nEste trabalho conduziu a uma sensível diminuição do número de unidades orgânicas, sem prejuízo do apoio técnico agrícola e florestal a prestar aos agricultures e produtores florestais. Tal significa que a extinção formal de algumas unidades orgânicas não se vai repercutir na ausência do apoio que era prestado, mas, pelo contrário, haverá um acréscimo da capacidade estratégica de actuação conseguida, através de uma maior racionalização dos serviços do Ministério da Agricultura.\n\nEsta nova realidade potencia uma contínua transferência de funções para os serviços regionais, sem prejuízo da desejável abertura de espaços de intervenções para as organizações de agricultores ou para formas de parceria entre estas e o Ministério da Agricultura, que, aliás, constitui outro dos grandes objectivos desta reestruturação.\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 1.º, no n.º 3 do artigo 4.º e no artigo 29.º do [Decreto-Lei n.º 96/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1993-680636), de 2 de Abril, e no artigo 5.º do [Decreto-Lei n.º 100/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1993-680643), de 2 de Abril:\n\nManda o Governo, pelo Ministro da Agricultura, o seguinte:\n\n1.º São criadas as zonas agrárias que constam do mapa I anexo ao presente diploma, que dele faz parte integrante.\n\n2.º São criadas as zonas florestais que constam do mapa II anexo ao presente diploma, que dele faz parte integrante.\n\nMinistério da Agricultura.\n\nAssinada em 22 de Março de 1994.\n\nO Ministro da Agricultura, Arlindo Marques da Cunha.\n\nMAPA I\n\nAnexo a que se refere o n.º 1.º da Portaria n.º 247-A/94, de 20 de Abril\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/04/092b01/00020007.pdf)\n\nMAPA II\n\nAnexo a que se refere o n.º 2.º da Portaria n.º 247-A/94, de 20 de Abril\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/04/092b01/00020007.pdf)"
+  },
+  "771970a83a7593c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1995-05-07",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 383/95](https://diariodarepublica.pt/dr/detalhe/portaria/383-1995-513264), publicado em 1995-05-02."
+   ],
+   "markdown": "de 20 de Abril\n\nNa sequência da publicação das leis orgânicas das direcções regionais de agricultura e do Instituto Florestal, bem como das portarias que delimitaram as regiões agrárias e as áreas abrangidas pelas delegações regionais do Instituto Florestal, impõe-se agora proceder à identificação das respectivas zonas agrárias e zonas florestais.\n\nEsta etapa, que se insere no processo de reestruturação do Ministério da Agricultura, deve ser efectuada pelos princípios a que esta obedeceu e visar prosseguir os mesmos objectivos, designadamente o da harmonização das circunscrições administrativas, do reforço dos serviços regionais e sub-regionais e o da aproximação da Administração aos cidadãos.\n\nCom a harmonização das circunscrições administrativas tem-se em vista propiciar uma maior coordenação e cooperação entre os vários serviços regionais e sub-regionais existentes no Ministério da Agricultura e simultaneamente simplificar as relações entre estes e os agricultores e suas organizações.\n\nNeste sentido se uniformizaram as áreas de actuação das zonas agrárias e das zonas florestais.\n\nO objectivo do reforço da capacidade de actuação dos serviços sub-regionais foi prosseguido mediante uma clara identificação das respectivas áreas geográficas, que teve por base as suas acessibilidades e as suas características comuns ou complementares para o efeito relevantes.\n\nEste trabalho conduziu a uma sensível diminuição do número de unidades orgânicas, sem prejuízo do apoio técnico agrícola e florestal a prestar aos agricultures e produtores florestais. Tal significa que a extinção formal de algumas unidades orgânicas não se vai repercutir na ausência do apoio que era prestado, mas, pelo contrário, haverá um acréscimo da capacidade estratégica de actuação conseguida, através de uma maior racionalização dos serviços do Ministério da Agricultura.\n\nEsta nova realidade potencia uma contínua transferência de funções para os serviços regionais, sem prejuízo da desejável abertura de espaços de intervenções para as organizações de agricultores ou para formas de parceria entre estas e o Ministério da Agricultura, que, aliás, constitui outro dos grandes objectivos desta reestruturação.\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 1.º, no n.º 3 do artigo 4.º e no artigo 29.º do [Decreto-Lei n.º 96/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1993-680636), de 2 de Abril, e no artigo 5.º do [Decreto-Lei n.º 100/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1993-680643), de 2 de Abril:\n\nManda o Governo, pelo Ministro da Agricultura, o seguinte:\n\n1.º São criadas as zonas agrárias que constam do mapa I anexo ao presente diploma, que dele faz parte integrante.\n\n2.º São criadas as zonas florestais que constam do mapa II anexo ao presente diploma, que dele faz parte integrante.\n\nMinistério da Agricultura.\n\nAssinada em 22 de Março de 1994.\n\nO Ministro da Agricultura, Arlindo Marques da Cunha.\n\nMAPA I\n\nAnexo a que se refere o n.º 1.º da Portaria n.º 247-A/94, de 20 de Abril\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/04/092b01/00020007.pdf)\n\nMAPA II\n\nAnexo a que se refere o n.º 2.º da Portaria n.º 247-A/94, de 20 de Abril\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/101b00/24562458.pdf)\n\n> Alterado pelo/a [Portaria n.º 383/95](https://diariodarepublica.pt/dr/detalhe/portaria/383-1995-513264), publicado em 1995-05-02."
+  }
+ }
+}

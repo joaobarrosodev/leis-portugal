@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-07-04'
+version_history:
+  file: resolucao-conselho-ministros-150-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-09-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-07-04'
+    amending: pt:dre:356349:por
+    amending_title: Resolução do Conselho de Ministros n.º 83/2006
+    changes:
+    - Altera Artigo unidades 12-14
+    - Altera Artigo unidades 15-15
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/150/2005/09/21/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:57:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 83/2006. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2005/resolucao-conselho-ministros-150-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,13 +144,13 @@ Nos termos da alínea g) do artigo 199.º da Constituição, bem como ao abrigo 
 
 2 - Aprovar a despesa relativa à aquisição do fornecimento a que se refere o número anterior, até ao montante global de (euro) 22584100, a que acresce o IVA à taxa legal.
 
-3 - Estabelecer que os encargos resultantes da adjudicação não poderão, em cada ano económico, exceder as seguintes importâncias, acrescidas de IVA:
+3 - Estabelecer que os encargos resultantes da adjudicação são suportados no ano económico de 2006 através do orçamento do Serviço Nacional de Saúde, inscrito no Instituto de Gestão Informática e Financeira da Saúde.
 
-2006 - (euro) 7700000;
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 83/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/83-2006-356349), publicado em 2006-06-29.
 
-2007 - (euro) 14884100.
+4 - (Revogado.)
 
-4 - Determinar que a importância fixada para 2007 poderá ser acrescida do saldo apurado de 2006.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 83/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/83-2006-356349), publicado em 2006-06-29.
 
 5 - Determinar que os encargos referidos nos números anteriores serão suportados por verbas adequadas a inscrever no orçamento do Instituto de Gestão Informática e Financeira da Saúde.
 

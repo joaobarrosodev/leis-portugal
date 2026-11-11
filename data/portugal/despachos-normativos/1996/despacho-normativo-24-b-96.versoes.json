@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:169249:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-06-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fab12fe7f71c11ac"
+   ]
+  },
+  {
+   "date": "1996-10-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:233294:por",
+     "title": "Despacho Normativo n.º 40/96",
+     "published": "1996-10-10",
+     "dre_path": "/dr/detalhe/despacho-normativo/40-1996-233294"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 17"
+   ],
+   "fragments": [
+    "2635262aedcfc4d9"
+   ]
+  }
+ ],
+ "fragments": {
+  "fab12fe7f71c11ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Julgando-se indispensável melhorar a eficiência dos transportes urbanos de passageiros não inseridos em áreas metropolitanas, facilitando a sua relevante função ao serviço das populações envolvidas, o Orçamento do Estado para 1996 prevê a atribução de uma verba de 350 mil contos destinados a acções que visem a melhoria da qualidade do serviço prestado nos transportes urbanos municipais de passageiros.\n\nAssim, de acordo com o disposto no artigo 2.º do [Decreto-Lei n.º 21/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1986-194248), de 14 de Fevereiro, e tendo ainda presente o previsto nos artigos 16.º e 17 do [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), de 24 de Dezembro, determino o seguinte:\n\n1 - Podem ser objecto de participação financeira, ao abrigo do presente despacho, as seguintes acções:\n\na) Construção de interfaces de transportes colectivos de passageiros e de articulação entre estes e o transporte individual;\n\nb) Construção ou reformulação dos acessos às interfaces referidas na alínea anterior;\n\nc) Estabelecimento de medidas que assegurem a prioridade de circulação aos transportes colectivos de passageiros;\n\nd) Criação de condições de estada e de segurança nas paragens dos transportes colectivos urbanos de passageiros;\n\ne) Aquisição e instalação de sistemas de apoio à exploração dos transportes colectivos urbanos de passageiros;\n\nf) Renovação de frota e aquisição de equipamentos;\n\ng) Realização de estudos com vista ao aumento da produtividade e à reestruturação do sistema tarifário e das redes de transportes urbanos, bem como ao seu reenquadramento legislativo;\n\nh) Desbloqueamento de situações financeiras graves dos municípios com efeito directo sobre a qualidade do serviço prestado pelos transportes colectivos urbanos municipais.\n\n2 - A comparticipação financeira referida no número anterior deve revestir a forma de contratos-programa ou de acordos de colaboração entre a administração central e um ou mais municípios.\n\n3 - O valor da comparticipação financeira será determinado com base na aplicação de uma percentagem máxima de 90% do custo total da acção, sem prejuízo das disposições aplicáveis do [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480).\n\n4 - Os contratos-programa e os acordos de colaboração a celebrar nos termos dos números anteriores só serão válidos mediante homologação do ministro da tutela da área dos transportes.\n\n5 - O processamento da participação financeira da administração central relativa às acções constantes do n.º 1 será feito através da Direcção-Geral de Transportes Terrestres.\n\n6 - As entregas das participações financeiras podem fazer-se de uma só vez, após a conclusão da acção, ou parcelarmente, mediante comprovação dos pagamentos efectuados ou comprovação e verificação do grau de realização da acção, conforme o caso.\n\nMinistério do Equipamento, do Planeamento e da Administração do Território, 18 de Junho de 1996. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho."
+  },
+  "2635262aedcfc4d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1996-10-15",
+   "changed_by": [
+    "Aditado pelo/a [Despacho Normativo n.º 40/96](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/40-1996-233294), publicado em 1996-10-10."
+   ],
+   "markdown": "Julgando-se indispensável melhorar a eficiência dos transportes urbanos de passageiros não inseridos em áreas metropolitanas, facilitando a sua relevante função ao serviço das populações envolvidas, o Orçamento do Estado para 1996 prevê a atribução de uma verba de 350 mil contos destinados a acções que visem a melhoria da qualidade do serviço prestado nos transportes urbanos municipais de passageiros.\n\nAssim, de acordo com o disposto no artigo 2.º do [Decreto-Lei n.º 21/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1986-194248), de 14 de Fevereiro, e tendo ainda presente o previsto nos artigos 16.º e 17 do [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), de 24 de Dezembro, determino o seguinte:\n\n1 - Podem ser objecto de participação financeira, ao abrigo do presente despacho, as seguintes acções:\n\na) Construção de interfaces de transportes colectivos de passageiros e de articulação entre estes e o transporte individual;\n\nb) Construção ou reformulação dos acessos às interfaces referidas na alínea anterior;\n\nc) Estabelecimento de medidas que assegurem a prioridade de circulação aos transportes colectivos de passageiros;\n\nd) Criação de condições de estada e de segurança nas paragens dos transportes colectivos urbanos de passageiros;\n\ne) Aquisição e instalação de sistemas de apoio à exploração dos transportes colectivos urbanos de passageiros;\n\nf) Renovação de frota e aquisição de equipamentos;\n\ng) Realização de estudos com vista ao aumento da produtividade e à reestruturação do sistema tarifário e das redes de transportes urbanos, bem como ao seu reenquadramento legislativo;\n\nh) Desbloqueamento de situações financeiras graves dos municípios com efeito directo sobre a qualidade do serviço prestado pelos transportes colectivos urbanos municipais.\n\n2 - A comparticipação financeira referida no número anterior deve revestir a forma de contratos-programa ou de acordos de colaboração entre a administração central e um ou mais municípios.\n\n3 - O valor da comparticipação financeira será determinado com base na aplicação de uma percentagem máxima de 90% do custo total da acção, sem prejuízo das disposições aplicáveis do [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480).\n\n4 - Os contratos-programa e os acordos de colaboração a celebrar nos termos dos números anteriores só serão válidos mediante homologação do ministro da tutela da área dos transportes.\n\n5 - O processamento da participação financeira da administração central relativa às acções constantes do n.º 1 será feito através da Direcção-Geral de Transportes Terrestres.\n\n6 - As entregas das participações financeiras podem fazer-se de uma só vez, após a conclusão da acção, ou parcelarmente, mediante comprovação dos pagamentos efectuados ou comprovação e verificação do grau de realização da acção, conforme o caso.\n\n7 - Tratando-se de projectos plurianuais, as entregas das participações financeiras podem também ser feitas mediante pedidos de adiantamento apresentados pelos municípios, devendo a comprovação das despesas ser efectuada, nos termos do n.º 6 do presente despacho normativo, até 31 de Dezembro de 1997.\n\n8 - A não comprovação das despesas no prazo estabelecido dá lugar a reposição dos montantes recebidos por adiantamento acrescidos de juros, contados a partir da data da disponibilização da verba e calculados de acordo com a taxa média praticada pelas instituições bancárias autorizadas a fazer operações activas de prazo superior a cinco anos.\n\n> Aditado pelo/a [Despacho Normativo n.º 40/96](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/40-1996-233294), publicado em 1996-10-10.\n\nMinistério do Equipamento, do Planeamento e da Administração do Território, 18 de Junho de 1996. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho."
+  }
+ }
+}

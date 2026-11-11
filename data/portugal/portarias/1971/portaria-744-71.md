@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-01-22'
+version_history:
+  file: portaria-744-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-01-22'
+    amending: pt:dre:683604:por
+    amending_title: Portaria n.º 40/73
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:40:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 40/73. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-744-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -109,7 +124,9 @@ Manda o Governo da República Portuguesa, pelos Ministros do Ultramar e da Saúd
 
 2.º O recrutamento do pessoal para os períodos de prolongamento é feito mediante escalas a elaborar e a publicar em ordem de serviço.
 
-3.º Ao pessoal referido no n.º 1.º poderá ser atribuída pela mesa para a gerência das apostas mútuas desportivas uma remuneração mensal, que não excederá a terça parte do seu vencimento, sendo o encargo suportado pelas verbas inscritas no orçamento para pagamento do escrutínio das apostas premiadas.
+3.º Ao pessoal referido no n.º 1.º poderá ser atribuída pela mesa para a gerência das apostas mútuas desportivas uma remuneração mensal, que não excederá a terça parte do seu vencimento, sendo o encargo satisfeito em conta das dotações inscritas para o efeito nos orçamentos respectivos.
+
+> Alterado pelo/a [Portaria n.º 40/73](https://diariodarepublica.pt/dr/detalhe/portaria/40-1973-683604), publicado em 1973-01-22.
 
 4.º As faltas, mesmo justificadas, implicam um desconto equivalente a 20 por cento ou a 5 por cento da remuneração, consoante os funcionários constem ou não das escalas publicadas. Em caso de doença comprovada, o desconto é sempre de 5 por cento.
 

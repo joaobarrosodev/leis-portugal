@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1963-02-21'
+version_history:
+  file: portaria-18912.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-12-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1963-02-21'
+    amending: pt:dre:193270:por
+    amending_title: Portaria n.º 19720
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:09:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 19720. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1961/portaria-18912.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -101,7 +116,9 @@ De harmonia com o disposto no § único do artigo 14.º do [Decreto n.º 43454](
 
 Manda o Governo da República, pelo Ministro das Finanças, o seguinte:
 
-1.º É alterado para 100000$00 o limite fixado no artigo 16.º do [Decreto n.º 43454](https://diariodarepublica.pt/dr/detalhe/decreto/43454-1960-479932), de 30 de Dezembro de 1960, não podendo exceder esse montante a soma dos valores faciais dos certificados de aforro emitidos a favor de uma mesma pessoa.
+1.º É alterado para 150000$00 o limite fixado no artigo 16.º do [Decreto n.º 43454](https://diariodarepublica.pt/dr/detalhe/decreto/43454-1960-479932), de 30 de Dezembro de 1960, não podendo exceder esse montante a soma dos valores faciais dos certificados de aforro emitidos a favor de uma mesma pessoa.
+
+> Alterado pelo/a [Portaria n.º 19720](https://diariodarepublica.pt/dr/detalhe/portaria/19720-1963-193270), publicado em 1963-02-21.
 
 2.º O quantitativo a que se refere a parte final do § único do artigo 16.º do [Decreto n.º 43454](https://diariodarepublica.pt/dr/detalhe/decreto/43454-1960-479932) passa a ser de 100000$00.
 

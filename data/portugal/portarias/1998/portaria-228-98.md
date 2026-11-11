@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-04-30'
+version_history:
+  file: portaria-228-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-04-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-04-30'
+    amending: pt:dre:668497:por
+    amending_title: Declaração de Rectificação n.º 9-H/98
+    changes:
+    - Altera Artigo unidades 59-60
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/228/1998/04/11/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:07:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 9-H/98.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-228-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -234,9 +249,11 @@ d) Por cada unidade de arqueação bruta acima de 200 GT, as taxas da alínea c)
 
 Anual - 48$00;
 
-Semestral - 6$00;
+Semestral - 26$00;
 
-Trimestral - 5$00.
+Trimestral - 15$00.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 9-H/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-h-1998-668497), publicado em 1998-04-30.
 
 2 - ...
 

@@ -39,10 +39,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-01-17'
+version_history:
+  file: portaria-709-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-01-17'
+    amending: pt:dre:241009:por
+    amending_title: Portaria n.º 37/2004
+    changes:
+    - Altera Artigo unidades 20-20
+    - Altera Artigo unidades 22-22
+    - Altera Artigo unidades 25-25
+    - Altera Artigo unidades 28-28
+    - Altera Artigo unidades 31-31
+    - Altera Artigo unidades 33-33
+    - Altera Artigo unidades 35-36
+    - Altera Artigo unidades 39-49
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/709/2002/06/25/p/dre/pt/html
@@ -68,7 +89,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:42:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 37/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-709-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -182,62 +204,56 @@ Pelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Est
 
 ## ANEXO I — Instituto Politécnico de Castelo Branco
 
-Escola Superior de Artes Aplicadas de Castelo Branco
+Escola Superior de Artes Aplicadas
+
+> Alterado pelo/a [Portaria n.º 37/2004](https://diariodarepublica.pt/dr/detalhe/portaria/37-2004-241009), publicado em 2004-01-12.
 
 Curso de Design de Moda e Têxtil
 
-1.º ciclo - Grau de bacharel
+1.º ciclo - grau de bacharel
+
+> Alterado pelo/a [Portaria n.º 37/2004](https://diariodarepublica.pt/dr/detalhe/portaria/37-2004-241009), publicado em 2004-01-12.
 
 QUADRO N.º 1
 
 1.º ano
 
-[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)
+
+> Alterado pelo/a [Portaria n.º 37/2004](https://diariodarepublica.pt/dr/detalhe/portaria/37-2004-241009), publicado em 2004-01-12.
 
 QUADRO N.º 2
 
 2.º ano
 
-[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)
+
+> Alterado pelo/a [Portaria n.º 37/2004](https://diariodarepublica.pt/dr/detalhe/portaria/37-2004-241009), publicado em 2004-01-12.
 
 QUADRO N.º 3
 
 3.º ano
 
-[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)
+
+> Alterado pelo/a [Portaria n.º 37/2004](https://diariodarepublica.pt/dr/detalhe/portaria/37-2004-241009), publicado em 2004-01-12.
 
 ## ANEXO II — Instituto Politécnico de Castelo Branco
 
-Escola Superior de Artes Aplicadas de Castelo Branco
+Escola Superior de Artes Aplicadas
+
+> Alterado pelo/a [Portaria n.º 37/2004](https://diariodarepublica.pt/dr/detalhe/portaria/37-2004-241009), publicado em 2004-01-12.
 
 Curso de Design de Moda e Têxtil
 
-Ramo de Design de Moda
+2.º ciclo - grau de licenciado
 
-2.º ciclo - Grau de licenciado
+> Alterado pelo/a [Portaria n.º 37/2004](https://diariodarepublica.pt/dr/detalhe/portaria/37-2004-241009), publicado em 2004-01-12.
 
 QUADRO N.º 1
 
 1.º ano
 
-[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)](https://files.diariodarepublica.pt/1s/2004/01/009b00/02040206.pdf)
 
-QUADRO N.º 2
-
-2.º ano
-
-[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)
-
-Ramo de Design Têxtil
-
-QUADRO N.º 3
-
-1.º ano
-
-[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)
-
-QUADRO N.º 4
-
-2.º ano
-
-[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49654967.pdf)
+> Alterado pelo/a [Portaria n.º 37/2004](https://diariodarepublica.pt/dr/detalhe/portaria/37-2004-241009), publicado em 2004-01-12.

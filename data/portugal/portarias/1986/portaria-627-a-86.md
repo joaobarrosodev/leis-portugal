@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-07-07'
+version_history:
+  file: portaria-627-a-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-07-07'
+    amending: pt:dre:373397:por
+    amending_title: Portaria n.º 440/88
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:54:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 440/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-627-a-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,7 +152,9 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças, o seguint
 
 2 - Sempre que no país de acolhimento não possa ser obtido algum dos documentos anteriormente referidos deve exigir-se a certificação desse facto pela respectiva autoridade consular portuguesa e ainda a certificação, pela mesma autoridade, de que o interessado exerce determinada actividade remunerada há mais de seis meses no mesmo país e de que aí reside também há mais de seis meses.
 
-3 - A qualidade de emigrante poderá ser certificada pelo Instituto de Apoio à Emigração e Comunidades Portuguesas quando no país onde reside ou donde procede o emigrante não exista autoridade consular portuguesa.
+3 - A qualidade de emigrante poderá ser certificada pelo Instituto de Apoio à Emigração e Comunidades Portuguesas ou pelos serviços de emigração das Regiões Autónomas dos Açores e da Madeira quando no país onde reside ou donde procede o emigrante não exista autoridade consular portuguesa.
+
+> Alterado pelo/a [Portaria n.º 440/88](https://diariodarepublica.pt/dr/detalhe/portaria/440-1988-373397), publicado em 1988-07-07.
 
 4 - ...
 

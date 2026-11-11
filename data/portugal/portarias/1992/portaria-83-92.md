@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-03-30'
+version_history:
+  file: portaria-83-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-02-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-03-30'
+    amending: pt:dre:678800:por
+    amending_title: Portaria n.º 355/93
+    changes:
+    - Altera Artigo unidades 7-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/83/1992/02/07/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:36:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 355/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-83-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,9 +143,11 @@ Considerando a necessidade de regulamentação de aspectos processuais de atribu
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Para o corrente ano, relativamente às indemnizações compensatórias com vencimento em 1 de Setembro de 1992, o prazo de inscrição ou reinscrição decorre entre 17 de Fevereiro e 31 de Março.
+1.º Para o corrente ano, relativamente às indemnizações compensatórias com vencimento em 1 de Setembro de 1993, o prazo de inscrição ou reinscrição decorre entre 15 de Março e 30 de Abril.
 
-2.º O prazo de reclamação relativo às indemnizações compensatórias de 1991 termina a 31 de Março do corrente ano.
+2.º O prazo de reclamação relativo às indemnizações compensatórias de 1992 termina a 30 de Abril do corrente ano.
+
+> Alterado pelo/a [Portaria n.º 355/93](https://diariodarepublica.pt/dr/detalhe/portaria/355-1993-678800), publicado em 1993-03-25.
 
 3.º No caso de o agricultor se inscrever pela primeira vez, deve apresentar conjuntamente com o requerimento e o formulário, devidamente preenchidos:
 

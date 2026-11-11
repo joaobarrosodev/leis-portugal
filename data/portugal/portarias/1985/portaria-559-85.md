@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-11-01'
+version_history:
+  file: portaria-559-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-08-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-11-01'
+    amending: pt:dre:177820:por
+    amending_title: Portaria n.º 819/85
+    changes:
+    - Altera Artigo unidades 27-31
+    - Adita Artigo depois da unidade 37
 identifiers:
   celex: null
   eli: null
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:29:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 819/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-559-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,15 +181,17 @@ d) Representar o País, o INIC, a universidade ou sociedades científicas.
 
 10 - O INIC subsidiará apenas as deslocações cuja duração não seja superior a 15 dias, para as reuniões referida no n.º 7.
 
-11 - O subsídio máximo a conceder pelo INIC para reuniões científicas e visitas de estudo compreende o custo de uma viagem aérea de ida e volta em classe turística, o custo da inscrição e um subsídio de manutenção diário correspondente a 70% da tabela de ajudas de custo para missões oficiais ao estrangeiro para categorias superiores à letra D.
+11 - O subsídio máximo a conceder pelo INIC para as reuniões científicas no estrangeiro compreende o custo de uma viagem aérea de ida e volta em classe turística ou em caminho de ferro em 1.ª classe, o custo da inscrição e um subsídio de manutenção diário correspondente a 70% da tabela de ajudas de custo para missões oficiais no estrangeiro para categorias superiores à letra D; para as reuniões científicas a realizar no País, o subsídio compreende o custo de uma viagem em caminho de ferro em 1.ª classe, o custo da inscrição e o subsídio de manutenção diário correspondente a 70% da tabela de ajudas de custo no País para categorias superiores à letra D.
 
-12 - No caso de a bolsa se destinar a estágio ou curso, a sua duração máxima é de 3 meses, devendo o pedido ser acompanhado de plano de estudos pormenorizado, documento comprovativo da inscrição no curso ou no estágio e ainda da sua aceitação.
+12 - No caso de a bolsa se destinar a estágio, curso ou visita de estudo, a sua duração máxima é de 3 meses, devendo o pedido ser acompanhado de aceitação de planos de estudo pormenorizados e ainda do documento comprovativo da inscrição, no respeitante às duas primeiras bolsas.
 
-13 - São aplicáveis às bolsas previstas no número anterior as condições financeiras das bolsas de estudo para doutoramento no estrangeiro previstas na [Portaria n.º 552/85](https://diariodarepublica.pt/dr/detalhe/portaria/552-1985-180586).
+13 - As bolsas previstas no número anterior incluem os custos de viagem e de inscrição constantes do n.º 11, sendo o subsídio diário atribuído de valor correspondente a 70% da tabela de ajudas de custo para missões oficiais ao estrangeiro para a categoria correspondente à respectiva letra do bolseiro até ao 10.º dia e, daí em diante, do valor correspondente a 35% da referida tabela.
 
-14 - A vinda de docentes ou investigadores do estrangeiro a Portugal a fim de proferirem conferências, participarem em reuniões científicas, colaborarem na avaliação de projectos ou ministrarem cursos de pós-graduação deverá ser proposta ao presidente do INIC pelas universidades ou pelos centros dependentes do INIC, podendo ainda ser iniciativa do Instituto ou consequência de acordos ou convénios culturais ou científicos.
+14 - A vinda de docentes do ensino superior ou investigadores do estrangeiro a Portugal, a fim de colaborarem na realização de actividades de investigação científica ou na avaliação de projectos, bem como proferirem conferências ou participarem em reuniões científicas, deverá ser proposta ao presidente do INIC pelas universidades ou pelos centros dependentes do INIC, podendo ainda ser iniciativa do Instituto ou consequência de acordos ou convénios culturais ou científicos.
 
-15 - O subsídio a conceder neste caso compreende o custo de uma viagem aérea de ida e volta em classe turística, caso o acordo não disponha em contrário sobre esta matéria, e ainda um subsídio diário de manutenção igual a 50% do montante estabelecido na tabela de ajudas de custo para missões oficiais ao estrangeiro para funcionários de categoria superior à letra D da tabela de vencimentos da função pública.
+15 - O subsídio a conceder neste caso compreende o custo de uma viagem aérea de ida e volta em classe turística e ainda um subsídio diário de manutenção igual a 50% do montante estabelecido na tabela de ajudas de custo para missões oficiais ao estrangeiro para funcionários de categoria superior à letra D da tabela de vencimentos da função pública até ao 15.º dia e, daí em diante, de valor correspondente a 25% da referida tabela, caso o acordo ou convénio não disponham em contrário sobre esta matéria.
+
+> Alterado pelo/a [Portaria n.º 819/85](https://diariodarepublica.pt/dr/detalhe/portaria/819-1985-177820), publicado em 1985-10-29.
 
 16 - Serão condições de preferência na atribuição de bolsa:
 
@@ -186,6 +204,10 @@ c) Os estágios ou cursos que se enquadrem nas áreas científicas prioritárias
 d) As propostas de iniciativa do INIC, visando a participação de investigadores e docentes.
 
 17 - É revogado o despacho do Secretário de Estado do Ensino Superior de 30 de Julho de 1981, publicado no Diário da República, 2.ª série, de 14 de Agosto de 1981.
+
+18 - O presente diploma entra em vigor no dia 1 do mês imediato à sua publicação.
+
+> Aditado pelo/a [Portaria n.º 819/85](https://diariodarepublica.pt/dr/detalhe/portaria/819-1985-177820), publicado em 1985-10-29.
 
 Ministério da Educação.
 

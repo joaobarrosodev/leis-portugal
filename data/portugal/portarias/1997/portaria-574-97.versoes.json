@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:144787:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-07-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "247aad71346f8bd4",
+    "7d9a71c0428d2a75"
+   ]
+  },
+  {
+   "date": "2004-11-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:548671:por",
+     "title": "Portaria n.º 1396/2004",
+     "published": "2004-11-10",
+     "dre_path": "/dr/detalhe/portaria/1396-2004-548671"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 20-22"
+   ],
+   "fragments": [
+    "247aad71346f8bd4",
+    "936659e9cacee794"
+   ]
+  }
+ ],
+ "fragments": {
+  "247aad71346f8bd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Julho\n\nA requerimento da DINENSINO - Ensino, Desenvolvimento e Cooperação, C. R. L., entidade autorizada pela [Portaria n.º 958/91](https://diariodarepublica.pt/dr/detalhe/portaria/958-1991-301667), de 19 de Setembro, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo ([Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto), a ministrar o curso de licenciatura em Investigação Social Aplicada em Beja;\n\nConsiderado o disposto nas Portarias n.os [1061/89](https://diariodarepublica.pt/dr/detalhe/portaria/1061-1989-550582), de 9 de Dezembro, e [958/91](https://diariodarepublica.pt/dr/detalhe/portaria/958-1991-301667), de 19 de Setembro;\n\nTendo em vista o disposto no artigo 67.º e no n.º 5 do artigo 53.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro;\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAlteração do plano de estudos\n\nO plano de estudos do curso de licenciatura em Investigação Social Aplicada ministrado pela DINENSINO - Ensino, Desenvolvimento e Cooperação, C. R. L., em Beja, cujo funcionamento foi autorizado pela [Portaria n.º 958/91](https://diariodarepublica.pt/dr/detalhe/portaria/958-1991-301667), de 19 de Setembro, passa a ser o constante do anexo à presente portaria.\n\n2.º\n\nAplicação\n\nAs alterações aprovadas pela presente portaria entram em vigor a partir do ano lectivo de 1996-1997, inclusive.\n\n3.º\n\nTransição\n\nO regime de transição entre o anterior plano de estudos e o plano de estudos aprovado pela presente portaria é fixado pelo órgão legal e estatutariamente competente da instituição.\n\nMinistério da Educação.\n\nAssinada em 9 de Julho de 1997.\n\nPelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior."
+  },
+  "7d9a71c0428d2a75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — DINENSINO - Ensino, Desenvolvimento e Cooperação, C. R. L. (Beja)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — DINENSINO - Ensino, Desenvolvimento e Cooperação, C. R. L. (Beja)\n\nLicenciatura em Investigação Social Aplicada\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/174b00/39523953.pdf)"
+  },
+  "936659e9cacee794": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — DINENSINO - Ensino, Desenvolvimento e Cooperação, C. R. L., Beja",
+   "in_force_from": "2004-11-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1396/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1396-2004-548671), publicado em 2004-11-10."
+   ],
+   "markdown": "## ANEXO — DINENSINO - Ensino, Desenvolvimento e Cooperação, C. R. L., Beja\n\nCurso de Sociologia Aplicada\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)\n\n> Alterado pelo/a [Portaria n.º 1396/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1396-2004-548671), publicado em 2004-11-10."
+  }
+ }
+}

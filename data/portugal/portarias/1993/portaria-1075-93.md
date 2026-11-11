@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-03-17'
+version_history:
+  file: portaria-1075-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-10-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-03-17'
+    amending: pt:dre:265505:por
+    amending_title: Portaria n.º 250/2002
+    changes:
+    - Altera Artigo unidades 16-17
+    - Altera Artigo unidades 20-21
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1075/1993/10/26/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:42:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 250/2002. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-1075-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -151,17 +167,25 @@ Os regimes de frequência, avaliação de conhecimentos, transição de ano e de
 
 4.º
 
-Condições para obtenção do grau
+Condições para a obtenção do grau
 
-É condição para a obtenção do grau de bacharel a aprovação na totalidade das disciplinas que integram o respectivo plano de estudos.
+1 - São condições para a obtenção do grau de bacharel, cumulativamente:
+
+a) A aprovação na totalidade das unidades curriculares que integram o respectivo plano de estudos;
+
+b) A realização, com aproveitamento, do estágio no final do curso.
+
+2 - O estágio é objecto de avaliação, que se traduzirá numa classificação, nos termos a regulamentar pelo órgão legal e estatutariamente competente.
+
+> Alterado pelo/a [Portaria n.º 250/2002](https://diariodarepublica.pt/dr/detalhe/portaria/250-2002-265505), publicado em 2002-03-12.
 
 5.º
 
 Classificação final
 
-1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o plano de estudos.
+A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o plano de estudos e do estágio a que se refere o n.º 2 do número anterior.
 
-2 - Os coeficientes de ponderação são fixados pelo conselho científico.
+> Alterado pelo/a [Portaria n.º 250/2002](https://diariodarepublica.pt/dr/detalhe/portaria/250-2002-265505), publicado em 2002-03-12.
 
 6.º
 

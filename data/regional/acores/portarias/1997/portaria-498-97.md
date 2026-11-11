@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-10-10'
+version_history:
+  file: portaria-498-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-07-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-10-10'
+    amending: pt:dre:667312:por
+    amending_title: Portaria n.º 1047/97
+    changes:
+    - Altera Artigo unidades 27-28
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/498/1997/07/21/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T18:03:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1047/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/regional/acores/portarias/1997/portaria-498-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,6 +174,8 @@ O Ministro da República para a Região Autónoma dos Açores, Mário Fernando d
 
 ## ANEXO — Escola Superior de Enfermagem de Ponta Delgada
 
-Diploma de estudos superiores especializados em Enfermagem de Saúde na Comunidade
+Diploma de estudos superiores especializados em Enfermagem na Comunidade
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/166b00/36513652.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/235b00/54605461.pdf)
+
+> Alterado pelo/a [Portaria n.º 1047/97](https://diariodarepublica.pt/dr/detalhe/portaria/1047-1997-667312), publicado em 1997-10-10.

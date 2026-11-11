@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-02-16'
+version_history:
+  file: despacho-normativo-18-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-04-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-02-16'
+    amending: pt:dre:595752:por
+    amending_title: Despacho Normativo n.º 9/2005
+    changes:
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 15-17
+    - Altera Artigo unidades 22-26
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/18/2004/04/05/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:40:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 9/2005. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2004/despacho-normativo-18-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,7 +149,9 @@ Assim, tendo em conta o disposto nos Regulamentos (CE) n.os [1782/2003](http://d
 
 4 - Cada agricultor apenas pode celebrar um contrato de fornecimento relativamente a cada matéria-prima.
 
-5 - As candidaturas às ajudas previstas no presente diploma serão formalizadas, pelos agricultores, junto do Instituto Nacional de Intervenção e Garantia Agrícola (INGA), de acordo com o previsto no Despacho Normativo n.º 8/2004, publicado no Diário da República, 1.ª série-B, de 14 de Fevereiro de 2004.
+5 - As candidaturas à ajuda prevista no presente diploma são formalizadas anualmente pelos agricultores, junto do Instituto Nacional de Intervenção e Garantia Agrícola (INGA), nos termos e prazos previstos no despacho normativo relativo ao Sistema Integrado de Gestão e Controlo (SIGC).
+
+> Alterado pelo/a [Despacho Normativo n.º 9/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2005-595752), publicado em 2005-02-11.
 
 6 - Após a recepção das candidaturas, e até ao dia 31 de Maio de cada ano, o INGA envia ao Gabinete de Planeamento e Política Agro-Alimentar (GPPAA) todas as informações necessárias relativamente às culturas e respectivas áreas candidatas à ajuda às culturas energéticas.
 
@@ -144,11 +163,13 @@ Assim, tendo em conta o disposto nos Regulamentos (CE) n.os [1782/2003](http://d
 
 10 - Os transformadores que celebrem contratos de fornecimento com os agricultores devem conservar registos mensais, dos quais constem os elementos referidos nas alíneas a) a f) do artigo 49.º do Regulamento n.º [2237/2003](http://data.europa.eu/eli/reg/2003/2237/oj?locale=pt) da Comissão.
 
-11 - Ao abrigo do previsto no n.º 1 do artigo 34.º do Regulamento (CE) n.º [2237/2003](http://data.europa.eu/eli/reg/2003/2237/oj?locale=pt), da Comissão, os agricultores podem:
+11 - Ao abrigo do previsto no n.º 1 do artigo 25.º do Regulamento (CE) n.º [1973/2004](https://data.europa.eu/eli/reg/2004/1973/oj?locale=pt), da Comissão, de 29 de Outubro, os agricultores podem:
 
-a) Utilizar todos os cereais ou as oleaginosas dos códigos NC 12010090, 12050090 e 12060091 como combustíveis para aquecimento da sua exploração agrícola, ou ainda na produção de energia ou biocombustíveis na sua exploração;
+a) Utilizar árvores florestais de revolução curta do código ex 0602 90 41, todos os cereais ou as oleaginosas dos códigos NC 1201 00 90, 1205 10 90, 1205 90 00, 1206 00 91 e 1206 00 99 colhidos, como combustíveis para aquecimento da sua exploração agrícola, ou ainda na produção de energia ou biocombustíveis na sua exploração;
 
-b) Transformar, na sua exploração agrícola, em biogás do código NC 27112900 toda a matéria-prima colhida.
+b) Transformar, na sua exploração agrícola, em biogás do código NC 2711 29 00 toda a matéria-prima colhida.
+
+> Alterado pelo/a [Despacho Normativo n.º 9/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2005-595752), publicado em 2005-02-11.
 
 12 - Para efeito do disposto no número anterior, os agricultores devem:
 
@@ -158,15 +179,9 @@ b) Informar o INGA da data da colheita das matérias-primas cultivadas, no prazo
 
 13 - Os métodos de desnaturação a utilizar para efeitos do previsto na alínea a) do n.º 11 serão comunicados aos agricultores até 15 de Junho pelo INGA.
 
-14 - As parcelas com culturas anuais realizadas sob coberto de árvores dispersas são elegíveis para as ajudas às culturas energéticas relativamente às seguintes áreas e nas condições a seguir indicadas:
+14 - Ao abrigo do disposto no n.º 1 do artigo 8.º do Regulamento (CE) n.º [796/2004](https://data.europa.eu/eli/reg/2004/796/oj?locale=pt), da Comissão, de 21 de Abril, é elegível a totalidade da área das parcelas com culturas energéticas anuais realizadas sob coberto de árvores dispersas de qualquer espécie arbórea ou em povoamentos mistos, desde que a sua densidade não ultrapasse 60 árvores por hectare.
 
-a) A totalidade da área da parcela no caso de cultura realizada sob coberto de sobreiros ou azinheiras, carvalhos, alfarrobeiras, castanheiros, oliveiras, amendoeiras, figueiras, outras espécies florestais, outras fruteiras ou povoamentos mistos com estas espécies, com uma densidade não superior a 20 árvores/ha;
-
-b) Uma área equivalente a dois terços da parcela no caso de cultura realizada sob coberto de sobreiros ou azinheiras, carvalhos, alfarrobeiras, castanheiros ou outras espécies florestais, com uma densidade compreendida entre 21 e 40 árvores/ha;
-
-c) Uma área equivalente a dois terços da parcela no caso de cultura realizada sob coberto de oliveiras, amendoeiras, figueiras ou outras fruteiras, com uma densidade compreendida entre 21 e 60 árvores/ha;
-
-d) Uma área equivalente a dois terços da parcela no caso de cultura realizada sob coberto de povoamentos mistos das espécies referidas nas alíneas b) e c), com uma densidade de povoamento compreendida entre 21 e 50 árvores/ha, em que as espécies referidas na alínea b) não ultrapassem 30 árvores/ha.
+> Alterado pelo/a [Despacho Normativo n.º 9/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2005-595752), publicado em 2005-02-11.
 
 15 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 

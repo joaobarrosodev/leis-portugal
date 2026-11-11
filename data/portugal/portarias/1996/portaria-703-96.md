@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-11-16'
+version_history:
+  file: portaria-703-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-12-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-11-16'
+    amending: pt:dre:439406:por
+    amending_title: Portaria n.º 1296/2008
+    changes:
+    - Altera Artigo unidades 37-39
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/703/1996/12/06/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:37:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1296/2008. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-703-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -181,11 +196,13 @@ m) Mel - o produto com as características estabelecidas pelo Decreto-Lei n.º 1
 
 4.º Os contaminantes, os aromatizantes e os corantes, edulcorantes e outros aditivos admissíveis no fabrico de refrigerantes, bem como os respectivos teores, serão os fixados na legislação específica sobre essas substâncias.
 
-5.º - 1 - Salvo o disposto no n.º 3, os refrigerantes destinados ao consumidor final somente podem ser comercializados pré-embalados em recipientes hermeticamente vedados, fabricados em material que obedeça às disposições gerais previstas no Decreto-Lei n.º 193/88, de 30 de Maio, os quais, quando recuperáveis, devem permitir lavagem e ou esterilização fáceis.
+5.º - 1 - Salvo o disposto no n.º 3, os refrigerantes destinados ao consumidor final são comercializados pré-embalados em recipientes hermeticamente vedados, fabricados de acordo com legislação em vigor relativa aos materiais destinados a entrar em contacto com os géneros alimentícios, recipientes que, quando recuperáveis, devem permitir lavagem e ou esterilização fáceis.
 
-2 - A comercialização de refrigerantes só pode ser efectuada em pré-embalagens com as quantidades líquidas de 0,125 l, 0,20 l, 0,25 l, 0,33 l, 0,50 l, 0,75 l, 1 l, 1,5 l e 2 l.
+2 - (Revogado.)
 
-3 - Os refrigerantes também podem ser vendidos não pré-embalados, colhidos em aparelhos distribuidores, de vidro ou outro material apropriado que satisfaça os necessários requisitos de inocuidade e higiene.
+3 - Os refrigerantes podem ser vendidos não pré-embalados, colhidos em aparelhos distribuidores, de vidro ou outro material apropriado que satisfaça os necessários requisitos de inocuidade e higiene.
+
+> Alterado pelo/a [Portaria n.º 1296/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1296-2008-439406), publicado em 2008-11-11.
 
 6.º - 1 - À rotulagem dos refrigerantes aplicam-se as regras gerais de rotulagem dos géneros alimentícios.
 

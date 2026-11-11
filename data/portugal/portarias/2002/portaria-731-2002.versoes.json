@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:140123:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-06-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5e0881081151309a",
+    "6ed30d4de2fd43c9"
+   ]
+  },
+  {
+   "date": "2006-03-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:687042:por",
+     "title": "Portaria n.º 227/2006",
+     "published": "2006-03-08",
+     "dre_path": "/dr/detalhe/portaria/227-2006-687042"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 21-21",
+    "Altera Artigo unidades 25-25",
+    "Altera Artigo unidades 28-28",
+    "Altera Artigo unidades 31-31",
+    "Altera Artigo unidades 34-34"
+   ],
+   "fragments": [
+    "5e0881081151309a",
+    "d9eac3f2687c0289"
+   ]
+  }
+ ],
+ "fragments": {
+  "5e0881081151309a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Junho\n\nA requerimento da EIA - Ensino, Investigação e Administração, S. A., entidade instituidora da Universidade Atlântica, reconhecida como de interesse público pelo [Decreto-Lei n.º 108/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1996-406880), de 31 de Julho, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nConsiderando o disposto na [Portaria n.º 1072/97](https://diariodarepublica.pt/dr/detalhe/portaria/1072-1997-672138), de 23 de Outubro;\n\nInstruído, organizado e apreciado o processo nos termos do artigo 67.º do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nColhido o parecer da comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto;\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAlteração do plano de estudos\n\nO plano de estudos do curso de licenciatura em Gestão em Saúde, ministrado pela Universidade Atlântica, cujo funcionamento foi autorizado pela [Portaria n.º 1072/97](https://diariodarepublica.pt/dr/detalhe/portaria/1072-1997-672138), de 23 de Outubro, passa a ser o constante do anexo à presente portaria.\n\n2.º\n\nTransição\n\nAs regras de transição entre o anterior e o novo plano de estudos são fixadas pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n3.º\n\nAplicação\n\nO presente diploma aplica-se a partir do ano lectivo de 2001-2002, inclusive.\n\nPelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Estado do Ensino Superior, em 27 de Março de 2002."
+  },
+  "6ed30d4de2fd43c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — ([Portaria n.º 757/99](https://diariodarepublica.pt/dr/detalhe/portaria/757-1999-533805), de 27 de Agosto - alteração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ([Portaria n.º 757/99](https://diariodarepublica.pt/dr/detalhe/portaria/757-1999-533805), de 27 de Agosto - alteração)\n\nUniversidade Atlântica\n\nCurso em Gestão em Saúde\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50815082.pdf)"
+  },
+  "d9eac3f2687c0289": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — ([Portaria n.º 757/99](https://diariodarepublica.pt/dr/detalhe/portaria/757-1999-533805), de 27 de Agosto - alteração)",
+   "in_force_from": "2006-03-13",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 227/2006](https://diariodarepublica.pt/dr/detalhe/portaria/227-2006-687042), publicado em 2006-03-08.",
+    "Alterado pelo/a [Portaria n.º 227/2006](https://diariodarepublica.pt/dr/detalhe/portaria/227-2006-687042), publicado em 2006-03-08.",
+    "Alterado pelo/a [Portaria n.º 227/2006](https://diariodarepublica.pt/dr/detalhe/portaria/227-2006-687042), publicado em 2006-03-08.",
+    "Alterado pelo/a [Portaria n.º 227/2006](https://diariodarepublica.pt/dr/detalhe/portaria/227-2006-687042), publicado em 2006-03-08.",
+    "Alterado pelo/a [Portaria n.º 227/2006](https://diariodarepublica.pt/dr/detalhe/portaria/227-2006-687042), publicado em 2006-03-08."
+   ],
+   "markdown": "## ANEXO — ([Portaria n.º 757/99](https://diariodarepublica.pt/dr/detalhe/portaria/757-1999-533805), de 27 de Agosto - alteração)\n\nUniversidade Atlântica\n\nCurso de Gestão em Saúde\n\n> Alterado pelo/a [Portaria n.º 227/2006](https://diariodarepublica.pt/dr/detalhe/portaria/227-2006-687042), publicado em 2006-03-08.\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)\n\n> Alterado pelo/a [Portaria n.º 227/2006](https://diariodarepublica.pt/dr/detalhe/portaria/227-2006-687042), publicado em 2006-03-08.\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)\n\n> Alterado pelo/a [Portaria n.º 227/2006](https://diariodarepublica.pt/dr/detalhe/portaria/227-2006-687042), publicado em 2006-03-08.\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)\n\n> Alterado pelo/a [Portaria n.º 227/2006](https://diariodarepublica.pt/dr/detalhe/portaria/227-2006-687042), publicado em 2006-03-08.\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17271729.pdf)\n\n> Alterado pelo/a [Portaria n.º 227/2006](https://diariodarepublica.pt/dr/detalhe/portaria/227-2006-687042), publicado em 2006-03-08."
+  }
+ }
+}

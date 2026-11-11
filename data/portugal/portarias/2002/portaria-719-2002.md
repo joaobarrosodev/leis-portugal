@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-03-28'
+version_history:
+  file: portaria-719-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-03-28'
+    amending: pt:dre:579524:por
+    amending_title: Portaria n.º 299/2005
+    changes:
+    - Altera Artigo unidades 40-40
+    - Altera Artigo unidades 43-43
+    - Altera Artigo unidades 46-46
+    - Altera Artigo unidades 49-49
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/719/2002/06/26/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:43:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 299/2005. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-719-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -202,22 +220,30 @@ QUADRO N.º 1
 
 1.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50075010.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50075010.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50075010.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50075010.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)
+
+> Alterado pelo/a [Portaria n.º 299/2005](https://diariodarepublica.pt/dr/detalhe/portaria/299-2005-579524), publicado em 2005-03-23.
 
 QUADRO N.º 2
 
 2.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50075010.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50075010.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50075010.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50075010.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)
+
+> Alterado pelo/a [Portaria n.º 299/2005](https://diariodarepublica.pt/dr/detalhe/portaria/299-2005-579524), publicado em 2005-03-23.
 
 QUADRO N.º 3
 
 3.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50075010.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50075010.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50075010.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50075010.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)
+
+> Alterado pelo/a [Portaria n.º 299/2005](https://diariodarepublica.pt/dr/detalhe/portaria/299-2005-579524), publicado em 2005-03-23.
 
 QUADRO N.º 4
 
 4.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50075010.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50075010.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50075010.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50075010.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25452547.pdf)
+
+> Alterado pelo/a [Portaria n.º 299/2005](https://diariodarepublica.pt/dr/detalhe/portaria/299-2005-579524), publicado em 2005-03-23.

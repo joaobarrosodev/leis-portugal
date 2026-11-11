@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-11-15'
+version_history:
+  file: portaria-574-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-07-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-11-15'
+    amending: pt:dre:548671:por
+    amending_title: Portaria n.º 1396/2004
+    changes:
+    - Altera Artigo unidades 20-22
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/574/1997/07/30/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:03:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1396/2004. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-574-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,8 +170,34 @@ Assinada em 9 de Julho de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
-## ANEXO — DINENSINO - Ensino, Desenvolvimento e Cooperação, C. R. L. (Beja)
+## ANEXO — DINENSINO - Ensino, Desenvolvimento e Cooperação, C. R. L., Beja
 
-Licenciatura em Investigação Social Aplicada
+Curso de Sociologia Aplicada
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/174b00/39523953.pdf)
+Grau de licenciado
+
+QUADRO N.º 1
+
+1.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)
+
+QUADRO N.º 2
+
+2.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)
+
+QUADRO N.º 3
+
+3.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)
+
+QUADRO N.º 4
+
+4.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66906692.pdf)
+
+> Alterado pelo/a [Portaria n.º 1396/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1396-2004-548671), publicado em 2004-11-10.

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:222413:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-10-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1a20016e1ededcde"
+   ]
+  },
+  {
+   "date": "1987-07-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:420194:por",
+     "title": "Portaria n.º 566/87",
+     "published": "1987-07-07",
+     "dre_path": "/dr/detalhe/portaria/566-1987-420194"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 13"
+   ],
+   "fragments": [
+    "4d0b5f243d1e7943"
+   ]
+  }
+ ],
+ "fragments": {
+  "1a20016e1ededcde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Outubro\n\nSob proposta da comissão instaladora da Escola superior de Educação de Vila Real;\n\nConsiderando o disposto no [Decreto-Lei n.º 59/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1986-196876), de 21 de Março, e o disposto no Despacho n.º 78/MEC/86, de 3 de Abril, publicado no Diário da República, 2.ª série, de 15 de Abril de 1986;\n\nTendo em atenção o disposto na [Portaria n.º 252/86](https://diariodarepublica.pt/dr/detalhe/portaria/252-1986-226841), de 8 de Julho;\n\nAo abrigo do disposto no artigo 4.º do [Decreto-Lei n.º 303/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1980-470779), de 16 de Agosto, e do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar o seguinte:\n\n1.º\n\n(Criação)\n\nA Escola Superior de Educação de Vila Real confere:\n\na) O grau de bacharel em Educação Pré-Escolar;\n\nb) O grau de bacharel em Ensino Primário,\n\nministrando, em consequência, os respectivos cursos.\n\n2.º\n\n(Planos de estudos)\n\nOs planos de estudos dos cursos a que se refere o n.º 1.º são os constantes dos anexos I e II à presente portaria.\n\n3.º\n\n(Início de funcionamento)\n\nOs cursos a que se refere o n.º 1.º iniciarão o seu funcionamento no ano lectivo de 1986-1987.\n\nMinistério da Educação e Cultura.\n\nAssinada em 15 de Setembro de 1986.\n\nPelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23700/30853087.pdf)"
+  },
+  "4d0b5f243d1e7943": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1987-07-07",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 566/87](https://diariodarepublica.pt/dr/detalhe/portaria/566-1987-420194), publicado em 1987-07-07."
+   ],
+   "markdown": "de 14 de Outubro\n\nSob proposta da comissão instaladora da Escola superior de Educação de Vila Real;\n\nConsiderando o disposto no [Decreto-Lei n.º 59/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1986-196876), de 21 de Março, e o disposto no Despacho n.º 78/MEC/86, de 3 de Abril, publicado no Diário da República, 2.ª série, de 15 de Abril de 1986;\n\nTendo em atenção o disposto na [Portaria n.º 252/86](https://diariodarepublica.pt/dr/detalhe/portaria/252-1986-226841), de 8 de Julho;\n\nAo abrigo do disposto no artigo 4.º do [Decreto-Lei n.º 303/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1980-470779), de 16 de Agosto, e do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar o seguinte:\n\n1.º\n\n(Criação)\n\nA Escola Superior de Educação de Vila Real confere:\n\na) O grau de bacharel em Educação Pré-Escolar;\n\nb) O grau de bacharel em Ensino Primário,\n\nministrando, em consequência, os respectivos cursos.\n\n1.º-A\n\nCurso de Educadores de Infância\n\n1 - O curso de Educadores de Infância poderá ser ministrado em Vila Real e em Chaves.\n\n2 - À transferência de alunos entre as duas cidades onde a Universidade ministre o curso aplicam-se, com as necessárias adaptações, as regras do regime de transferência.\n\n> Aditado pelo/a [Portaria n.º 566/87](https://diariodarepublica.pt/dr/detalhe/portaria/566-1987-420194), publicado em 1987-07-07.\n\n2.º\n\n(Planos de estudos)\n\nOs planos de estudos dos cursos a que se refere o n.º 1.º são os constantes dos anexos I e II à presente portaria.\n\n3.º\n\n(Início de funcionamento)\n\nOs cursos a que se refere o n.º 1.º iniciarão o seu funcionamento no ano lectivo de 1986-1987.\n\nMinistério da Educação e Cultura.\n\nAssinada em 15 de Setembro de 1986.\n\nPelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23700/30853087.pdf)"
+  }
+ }
+}

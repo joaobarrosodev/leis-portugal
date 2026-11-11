@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-05-17'
+version_history:
+  file: portaria-495-2011.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2011-04-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-05-17'
+    amending: pt:dre:2230068:por
+    amending_title: Declaração de Rectificação n.º 850/2011
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:31:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 850/2011.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2011/portaria-495-2011.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,7 +136,9 @@ Assim, ao abrigo do disposto no n.º 1 do artigo 12.º e das alíneas f) e n) do
 
 1 - Autorizar, com vista à participação nacional na operação Ocean Shield, o chefe do Estado-Maior-General das Forças Armadas (CEMGFA) a:
 
-a) Aprontar e empregar um destacamento aéreo constituído por uma aeronave P3, tripulação e pessoal de apoio em terra, num total de 42 militares a qual ficará colocada na sua dependência directa; a duração da missão terá um período máximo de dois meses, com início em Abril de 2011;
+a) Aprontar e empregar um destacamento aéreo constituído por uma aeronave P 3, tripulação e pessoal de apoio em terra, num total de 53 militares a qual ficará colocada na sua dependência directa; a duração da missão terá um período máximo de dois meses, com início em Abril de 2011;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 850/2011](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/850-2011-2230068), publicado em 2011-05-17.
 
 b) Aprontar e empregar uma fragata da Marinha, e respectiva guarnição e uma equipa de abordagem, ficando a unidade naval colocada na sua dependência directa; a duração da missão terá um período máximo de dois meses, com início em Setembro de 2011.
 

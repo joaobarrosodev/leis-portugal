@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-02-25'
+version_history:
+  file: despacho-normativo-117-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-12-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-02-25'
+    amending: pt:dre:193793:por
+    amending_title: Despacho Normativo n.º 17/86
+    changes:
+    - Altera Artigo unidades 5-6
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:31:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 17/86. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1985/despacho-normativo-117-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,9 +133,11 @@ Ao abrigo do disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](htt
 
 a) Margens do importador/armazenista:
 
-Para batata-semente importada, 15% sobre o preço CIF liner terms mais os encargos até ao armazém, não excedendo 335$00;
+Para batata-semente importada, 15% sobre o preço CIF liner tarms mais os encargos até ao armazém, não excedendo 335$00;
 
-Para batata-semente nacional, 15% sobre o preço da venda pelas cooperativas de produtores de batata-semente mais os encargos do transporte até ao armazém, não excedendo 145$00;
+Para batata-semente nacional, 15% sobre o preço de venda pelas cooperativas de produtores de batata-semente, para a produzida no continente, ou sobre o preço no cais de desembarque, no continente, para a produzida na Região Autónoma dos Açores, mais os encargos de transporte até ao armazém, não excedendo 145$00.
+
+> Alterado pelo/a [Despacho Normativo n.º 17/86](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-1986-193793), publicado em 1986-02-24.
 
 b) Margem do retalhista - 120$00.
 

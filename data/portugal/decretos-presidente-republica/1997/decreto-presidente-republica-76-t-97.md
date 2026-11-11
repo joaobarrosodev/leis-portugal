@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-02-09'
+version_history:
+  file: decreto-presidente-republica-76-t-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-02-09'
+    amending: pt:dre:230077:por
+    amending_title: Declaração de Rectificação n.º 3/98
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decpresrep/76-t/1997/12/22/p/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:26:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 3/98.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-presidente-republica/1997/decreto-presidente-republica-76-t-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -96,7 +111,9 @@ de 22 de Dezembro
 
 O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:
 
-A pena residual de prisão aplicada a Vítor Manuel Vieira, de 35 anos de idade, no processo n.º 103/95 da 1.ª Secção da 8.ª Vara do Tribunal Criminal de Lisboa é reduzida, por indulto, em um ano de prisão.
+A pena residual de prisão aplicada a Vítor Manuel Vieira, de 35 anos de idade, no processo n.º 41/97 da 2.ª Secção da 2.ª Vara do Tribunal Criminal de Lisboa é reduzida, por indulto, em um ano de prisão.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 3/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-1998-230077), publicado em 1998-02-09.
 
 Assinado em 22 de Dezembro de 1997.
 

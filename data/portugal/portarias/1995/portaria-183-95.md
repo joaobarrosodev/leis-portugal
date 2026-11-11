@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-01-03'
+version_history:
+  file: portaria-183-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-03-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-01-03'
+    amending: pt:dre:420799:por
+    amending_title: Portaria n.º 1277/97
+    changes:
+    - Altera Artigo unidades 47-47
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/183/1995/03/09/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:56:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1277/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-183-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -209,4 +224,12 @@ Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensi
 
 ## ANEXO — Curso de estudos superiores especializados em Educação Física
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/058b00/12821283.pdf)
+Escola Superior de Educação de Torres Novas
+
+Curso: Educação Física
+
+Diploma de estudos superiores especializados
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/299b00/68256825.pdf)
+
+> Alterado pelo/a [Portaria n.º 1277/97](https://diariodarepublica.pt/dr/detalhe/portaria/1277-1997-420799), publicado em 1997-12-29.

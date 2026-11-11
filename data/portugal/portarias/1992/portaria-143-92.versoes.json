@@ -1,0 +1,86 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:168624:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-03-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "25579639c1ab83dd",
+    "6a748411b0a63500",
+    "9990ae6833fa888f",
+    "e62ab2f8ee2f6052"
+   ]
+  },
+  {
+   "date": "1995-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:664882:por",
+     "title": "Portaria n.º 1115-D/94",
+     "published": "1994-12-15",
+     "dre_path": "/dr/detalhe/portaria/1115-d-1994-664882"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-11"
+   ],
+   "fragments": [
+    "a454d5789474d028",
+    "6a748411b0a63500",
+    "9990ae6833fa888f",
+    "e62ab2f8ee2f6052"
+   ]
+  }
+ ],
+ "fragments": {
+  "25579639c1ab83dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Março\n\nO [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, que define o regime jurídico do licenciamento municipal de obras particulares, prevê que os modelos dos avisos de publicitação dos pedidos de licenciamento e da concessão de alvarás de licença de construção sejam aprovados, por portaria, pelo Ministro do Planeamento e da Administração do Território.\n\nEssa disposição tem subjacente um objectivo de uniformização, contribuindo para uma maior facilidade de intervenção dos particulares, bem como da própria câmara municipal, no processo de licenciamento.\n\nPor outro lado, a forma adoptada evita que o [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, contenha disposições regulamentares que não fazem parte do conteúdo normativo inerente a esse tipo de diploma.\n\nAssim, nos termos do disposto no n.º 1 do artigo 8.º e do n.º 3 do artigo 9.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro:\n\nManda o Governo, pelo Ministro do Planeamento e da Administração do Território, o seguinte:\n\n1.º São aprovados os seguintes modelos, anexos à presente portaria e que dela fazem parte integrante:\n\na) O aviso a que se refere o artigo 8.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, deve obedecer às especificações definidas no anexo I;\n\nb) O aviso a que se refere o n.º 1 do artigo 9.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, deve obedecer as especificações definidas no anexo II;\n\nc) O aviso a que se refere o n.º 2 do artigo 9.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, deve obedecer às especificações definidas no anexo III.\n\n2.º Os avisos a que se referem as alíneas a) e b) do número anterior devem ter forma rectangular e dimensão não inferior a 0,8 m x 1,2 m.\n\n3.º A presente portaria entra em vigor no dia imediato ao da sua publicação.\n\nMinistério do Planeamento e da Administração do Território.\n\nAssinada em 14 de Fevereiro de 1992.\n\nO Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira."
+  },
+  "6a748411b0a63500": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/054b00/11781179.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/054b00/11781179.pdf)"
+  },
+  "9990ae6833fa888f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/054b00/11781179.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/054b00/11781179.pdf)"
+  },
+  "e62ab2f8ee2f6052": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/054b00/11781179.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/054b00/11781179.pdf)"
+  },
+  "a454d5789474d028": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1995-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1115-D/94](https://diariodarepublica.pt/dr/detalhe/portaria/1115-d-1994-664882), publicado em 1994-12-15."
+   ],
+   "markdown": "de 5 de Março\n\nO [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, que define o regime jurídico do licenciamento municipal de obras particulares, prevê que os modelos dos avisos de publicitação dos pedidos de licenciamento e da concessão de alvarás de licença de construção sejam aprovados, por portaria, pelo Ministro do Planeamento e da Administração do Território.\n\nEssa disposição tem subjacente um objectivo de uniformização, contribuindo para uma maior facilidade de intervenção dos particulares, bem como da própria câmara municipal, no processo de licenciamento.\n\nPor outro lado, a forma adoptada evita que o [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, contenha disposições regulamentares que não fazem parte do conteúdo normativo inerente a esse tipo de diploma.\n\nAssim, nos termos do disposto no n.º 1 do artigo 8.º e do n.º 3 do artigo 9.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro:\n\nManda o Governo, pelo Ministro do Planeamento e da Administração do Território, o seguinte:\n\n1.º São aprovados os seguintes modelos, anexos à presente portaria e que dela fazem parte integrante:\n\na) O aviso a que se refere o artigo 8.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, deve obedecer às especificações definidas no anexo I;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 1115-D/94](https://diariodarepublica.pt/dr/detalhe/portaria/1115-d-1994-664882), publicado em 1994-12-15.\n\n2.º Os avisos a que se referem as alíneas a) e b) do número anterior devem ter forma rectangular e dimensão não inferior a 0,8 m x 1,2 m.\n\n3.º A presente portaria entra em vigor no dia imediato ao da sua publicação.\n\nMinistério do Planeamento e da Administração do Território.\n\nAssinada em 14 de Fevereiro de 1992.\n\nO Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira."
+  }
+ }
+}

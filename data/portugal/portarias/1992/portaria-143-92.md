@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-01-01'
+version_history:
+  file: portaria-143-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-03-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-01-01'
+    amending: pt:dre:664882:por
+    amending_title: Portaria n.º 1115-D/94
+    changes:
+    - Altera Artigo unidades 10-11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/143/1992/03/05/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:12:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1115-D/94. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-143-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,9 +143,11 @@ Manda o Governo, pelo Ministro do Planeamento e da Administração do Territóri
 
 a) O aviso a que se refere o artigo 8.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, deve obedecer às especificações definidas no anexo I;
 
-b) O aviso a que se refere o n.º 1 do artigo 9.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, deve obedecer as especificações definidas no anexo II;
+b) (Revogada.)
 
-c) O aviso a que se refere o n.º 2 do artigo 9.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, deve obedecer às especificações definidas no anexo III.
+c) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 1115-D/94](https://diariodarepublica.pt/dr/detalhe/portaria/1115-d-1994-664882), publicado em 1994-12-15.
 
 2.º Os avisos a que se referem as alíneas a) e b) do número anterior devem ter forma rectangular e dimensão não inferior a 0,8 m x 1,2 m.
 

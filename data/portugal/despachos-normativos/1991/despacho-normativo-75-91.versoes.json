@@ -1,0 +1,78 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:622986:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-04-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bb1982cc2973603a",
+    "4ca6318daee00adb"
+   ]
+  },
+  {
+   "date": "1994-04-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:264749:por",
+     "title": "Despacho Normativo n.º 247/94",
+     "published": "1994-04-18",
+     "dre_path": "/dr/detalhe/despacho-normativo/247-1994-264749"
+    },
+    {
+     "id": "pt:dre:264749:por",
+     "title": "Despacho Normativo n.º 247/94",
+     "published": "1994-04-18",
+     "dre_path": "/dr/detalhe/despacho-normativo/247-1994-264749"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 17-18",
+    "Altera Artigo unidades 20-24",
+    "Altera Artigo unidades 26-32",
+    "Altera Artigo unidades 34-36"
+   ],
+   "fragments": [
+    "0bf9a61e2800e11b",
+    "4ca6318daee00adb"
+   ]
+  }
+ ],
+ "fragments": {
+  "bb1982cc2973603a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando as ajudas aos investimentos florestais nas explorações agrícolas previstas na subsecção I da secção IV do título III do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, e ao abrigo do disposto na alínea a) do n.º 1 e na alínea a) do n.º 2 do artigo 40.º do diploma citado:\n\nDetermino o seguinte:\n\n1 - A área mínima das superfícies agrícolas exigível para efeitos da alínea a) do n.º 1 do artigo 40.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, é de 1 ha.\n\n2 - As actividades passíveis de beneficiação ao abrigo do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, deverão ser conduzidas por forma a prosseguir um dos seguintes objectivos:\n\na) Produção de madeira, devendo o diâmetro à altura do peito das árvores sujeitas a corte ser de, pelo menos, 30 cm medidos sobre a casca;\n\nb) Produção mista madeira/fruto, devendo a produção ser conduzida por forma a obter aqueles elementos;\n\nc) Produção múltipla, devendo a produção de madeira ser conjugada com a de espécies florestais de outra natureza, bem como com a produção agrícola ou pecuária.\n\n3 - Para efeitos do disposto na alínea a) do n.º 2 do artigo 40.º do diploma citado no número anterior, são os seguintes os critérios a considerar para a definição de superfície florestal:\n\na) Sobreiro, azinheira, alfarrobeira e pinheiro-manso:\n\ni) Em povoamentos de altura média igual ou superior a 3 m, a superfície florestal deverá ter uma área de coberto, definida pela soma da projecção horizontal da área das copas por hectare, de, pelo menos, 1000 m2;\n\nii) Em povoamentos de altura média inferior a 3 m, a superfície florestal deverá ter, pelo menos, 70% das densidades mínimas admissíveis após instalação, definidas no anexo a este diploma, do qual faz parte integrante;\n\nb) Outras espécies florestais:\n\ni) Em povoamentos de altura média igual ou superior a 5 m, a superfície florestal deverá ter uma área de coberto, definida pela soma da projecção horizontal da área das copas por hectare, de, pelo menos, 1000 m2;\n\nii) Em povoamentos de altura média inferior a 5 m, a superfície florestal deverá ter, pelo menos, 70% das densidades mínimas admissíveis após instalação, definidas no anexo a este diploma, do qual faz parte integrante.\n\n4 - Os custos máximos de investimento elegíveis ao abrigo do n.º 1 do artigo 42.º do diploma citado no n.º 1 são os seguintes:\n\na) Arborização - 1200 ECU/ha;\n\nb) Melhoria das superfícies florestais - até 600 ECU/ha, para o conjunto dos investimentos realizados e com as seguintes limitações:\n\ni) Montados de sobro e sobreirais:\n\nLimpeza de mato - 300 ECU/ha;\n\nPodas de formação - 210 ECU/ha;\n\nAdensamento - 220 ECU/ha;\n\nLimpezas de povoamento - 110 ECU/ha;\n\nFertilizações - 100 ECU/ha;\n\nii) Outros povoamentos:\n\nLimpeza de mato - 300 ECU/ha;\n\nLimpeza de povoamento - 300 ECU/ha;\n\nDesramações - 230 ECU/ha;\n\nFertilizações - 100 ECU/ha;\n\nPodas (excepto azinheira) - 300 ECU/ha;\n\nAdensamento - 360 ECU/ha;\n\nc) Cortinas de abrigo - 560 ECU/ha;\n\nd) Infra-estruturas:\n\ni) Construção da rede viária - 5000 ECU/km;\n\nii) Construção da rede divisional e de pontos de água - 800 ECU/km e 4500 ECU/unidade, respectivamente, não podendo exceder, no seu conjunto, 80 ECU/ha;\n\ne) Equipamento mecânico: custos de adaptação do material agrícola para trabalhos florestais - até 10% do montante do investimento total e com o limite máximo de 6000 ECU.\n\nMinistério da Agricultura, Pescas e Alimentação, 8 de Março de 1991. - Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  },
+  "4ca6318daee00adb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Árvores por hectare consoante os objectivos de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Árvores por hectare consoante os objectivos de produção\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/079b00/17761777.pdf)"
+  },
+  "0bf9a61e2800e11b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1994-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.",
+    "Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.",
+    "Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.",
+    "Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18."
+   ],
+   "markdown": "Considerando as ajudas aos investimentos florestais nas explorações agrícolas previstas na subsecção I da secção IV do título III do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, e ao abrigo do disposto na alínea a) do n.º 1 e na alínea a) do n.º 2 do artigo 40.º do diploma citado:\n\nDetermino o seguinte:\n\n1 - A área mínima das superfícies agrícolas exigível para efeitos da alínea a) do n.º 1 do artigo 40.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, é de 1 ha.\n\n2 - As actividades passíveis de beneficiação ao abrigo do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, deverão ser conduzidas por forma a prosseguir um dos seguintes objectivos:\n\na) Produção de madeira, devendo o diâmetro à altura do peito das árvores sujeitas a corte ser de, pelo menos, 30 cm medidos sobre a casca;\n\nb) Produção mista madeira/fruto, devendo a produção ser conduzida por forma a obter aqueles elementos;\n\nc) Produção múltipla, devendo a produção de madeira ser conjugada com a de espécies florestais de outra natureza, bem como com a produção agrícola ou pecuária.\n\n3 - Para efeitos do disposto na alínea a) do n.º 2 do artigo 40.º do diploma citado no número anterior, são os seguintes os critérios a considerar para a definição de superfície florestal:\n\na) Sobreiro, azinheira, alfarrobeira e pinheiro-manso:\n\ni) Em povoamentos de altura média igual ou superior a 3 m, a superfície florestal deverá ter uma área de coberto, definida pela soma da projecção horizontal da área das copas por hectare, de, pelo menos, 1000 m2;\n\nii) Em povoamentos de altura média inferior a 3 m, a superfície florestal deverá ter, pelo menos, 70% das densidades mínimas admissíveis após instalação, definidas no anexo a este diploma, do qual faz parte integrante;\n\nb) Outras espécies florestais:\n\ni) Em povoamentos de altura média igual ou superior a 5 m, a superfície florestal deverá ter uma área de coberto, definida pela soma da projecção horizontal da área das copas por hectare, de, pelo menos, 1000 m2;\n\nii) Em povoamentos de altura média inferior a 5 m, a superfície florestal deverá ter, pelo menos, 70% das densidades mínimas admissíveis após instalação, definidas no anexo a este diploma, do qual faz parte integrante.\n\n4 - Os custos máximos de investimento elegíveis ao abrigo do n.º 1 do artigo 42.º do diploma citado no n.º 1 são os seguintes:\n\na) Arborização - 1419 ECU/ha;\n\nb) Melhoria das superfícies florestais - até 709,5 ECU/ha, para o conjunto dos investimentos realizados e com as seguintes limitações:\n\n> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.\n\ni) Montados de sobro e sobreirais:\n\nLimpeza de mato - 354,6 ECU/ha;\n\nPodas de formação - 248,2 ECU/ha;\n\nAdensamento - 260 ECU/ha;\n\nLimpezas de povoamento - 130 ECU/ha;\n\nFertilizações - 118,2 ECU/ha;\n\n> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.\n\nii) Outros povoamentos:\n\nLimpeza de mato - 354,6 ECU/ha;\n\nLimpeza de povoamento - 354,6 ECU/ha;\n\nDesramações - 272 ECU/ha;\n\nFertilizações - 118,2 ECU/ha;\n\nPodas (excepto azinheira) - 354,6 ECU/ha;\n\nAdensamento - 425,5 ECU/ha;\n\nc) Cortinas de abrigo - 662 ECU/ha;\n\n> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.\n\nd) Infra-estruturas:\n\ni) Construção da rede viária - 5910 ECU/km;\n\nii) Construção da rede divisional e de pontos de água - 945,5 ECU/km e 5320 ECU/unidade, respectivamente, não podendo exceder, no seu conjunto, 94,6 ECU/ha;\n\ne) Equipamento mecânico: custos de adaptação do material agrícola para trabalhos florestais - até 10% do montante do investimento total e com o limite máximo de 7095 ECU.\n\n> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.\n\nMinistério da Agricultura, Pescas e Alimentação, 8 de Março de 1991. - Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  }
+ }
+}

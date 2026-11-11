@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-01-17'
+version_history:
+  file: portaria-843-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-08-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-17'
+    amending: pt:dre:169060:por
+    amending_title: Portaria n.º 50/2006
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/843/2003/08/14/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:51:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 50/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-843-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,7 +153,9 @@ Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o
 
 1.º Pela presente portaria é criada a zona de caça municipal de Fátima (processo n.º 3256-DGF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caçadores de Fátima, com o número de pessoa colectiva 501910204 e sede na Rua do Rosário, 2495-559 Fátima.
 
-2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Fátima, município de Ourém, com a área de 6232 ha.
+2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Fátima, município de Ourém, com a área de 5646 ha.
+
+> Alterado pelo/a [Portaria n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/portaria/50-2006-169060), publicado em 2006-01-12.
 
 3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:
 

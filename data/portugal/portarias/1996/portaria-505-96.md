@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-08-30'
+version_history:
+  file: portaria-505-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-09-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-08-30'
+    amending: pt:dre:193408:por
+    amending_title: Portaria n.º 730/97
+    changes:
+    - Adita Artigo depois da unidade 18
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/505/1996/09/25/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:31:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 730/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-505-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,6 +160,10 @@ h) Um médico, em representação do Centro de Saúde;
 i) Um representante da Guarda Nacional Republicana e um representante da Polícia de Segurança Pública;
 
 j) Um representante das associações de pais.
+
+l) Um representante da Santa Casa da Misericórdia de Ponte de Lima.
+
+> Aditado pelo/a [Portaria n.º 730/97](https://diariodarepublica.pt/dr/detalhe/portaria/730-1997-193408), publicado em 1997-08-25.
 
 3.º A Comissão de Protecção poderá deliberar que dela façam parte outros membros, nas situações previstas no artigo 14.º do [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio.
 

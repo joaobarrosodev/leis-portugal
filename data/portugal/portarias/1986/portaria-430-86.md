@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-08-31'
+version_history:
+  file: portaria-430-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-08-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-08-31'
+    amending: pt:dre:618303:por
+    amending_title: Portaria n.º 746/89
+    changes:
+    - Altera Artigo unidades 4-4
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:48:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 746/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-430-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,7 +128,9 @@ de 8 de Agosto
 
 Atendendo a que, em cumprimento do disposto no Acto de Adesão de Portugal à Comunidade Económica Europeia, a [Portaria n.º 63-G/86](https://diariodarepublica.pt/dr/detalhe/portaria/63-g-1986-245103), de 1 de Março, estabeleceu regras de cálculo dos direitos niveladores que incidem sobre as importações dos produtos do sector do leite e produtos lácteos, idênticos às normas comunitárias aplicáveis neste sector às importações provenientes de países terceiros;
 
-Considerando que os montantes dos direitos niveladores assim calculados, que incidem sobre a importação dos produtos incluídos na posição pautal 23.07.B, genericamente denominados «leites de substituição», são muito mais elevados do que os direitos aduaneiros que anteriormente incidiam sobre aqueles mesmos produtos;
+Considerando que os montantes dos direitos niveladores assim calculados, que incidem sobre a importação dos produtos incluídos na posição pautal ex 2309, genericamente denominados «leites de substituição», são muito mais elevados do que os direitos aduaneiros que anteriormente incidiam sobre aqueles mesmos produtos;
+
+> Alterado pelo/a [Portaria n.º 746/89](https://diariodarepublica.pt/dr/detalhe/portaria/746-1989-618303), publicado em 1989-08-30.
 
 Considerando que continua a revelar-se necessário o recurso à importação de leites de substituição, dada a insuficiência da produção nacional;
 
@@ -126,7 +144,9 @@ Ouvidos os Governos das Regiões Autónomas dos Açores e da Madeira:
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio, o seguinte:
 
-1.º Sem prejuízo das regras de cálculo dos direitos niveladores, estabelecidos na [Portaria n.º 63-G/86](https://diariodarepublica.pt/dr/detalhe/portaria/63-g-1986-245103), de 1 de Março, para o sector do leite e produtos lácteos, o montante dos direitos niveladores efectivamente aplicáveis nas importações dos produtos, provenientes da Comunidade e de Espanha, classificados pela posição pautal 23.07.B, que constam do artigo 1.º do [Decreto-Lei n.º 513/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1985-546419), de 31 de Dezembro, não pode ser superior a 7% ad valorem.
+1.º Sem prejuízo das regras de cálculo dos direitos niveladores, estabelecidos na [Portaria n.º 63-G/86](https://diariodarepublica.pt/dr/detalhe/portaria/63-g-1986-245103), de 1 de Março, para o sector do leite e produtos lácteos, o montante dos direitos niveladores efectivamente aplicáveis nas importações dos produtos, provenientes da Comunidade e de Espanha, classificados pela posição pautal ex 2309, que constam do artigo 1.º do [Decreto-Lei n.º 513/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1985-546419), de 31 de Dezembro, não pode ser superior a 7% ad valorem.
+
+> Alterado pelo/a [Portaria n.º 746/89](https://diariodarepublica.pt/dr/detalhe/portaria/746-1989-618303), publicado em 1989-08-30.
 
 2.º O limite estabelecido no número anterior é transitório e será revisto, sempre que oportuno, mediante portaria dos ministros com competência nas áreas das finanças, da agricultura, do comércio e da concorrência e preços.
 

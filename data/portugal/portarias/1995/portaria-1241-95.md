@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-07-26'
+version_history:
+  file: portaria-1241-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-10-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-07-26'
+    amending: pt:dre:626390:por
+    amending_title: Portaria n.º 61/96; Portaria n.º 61/96; Portaria n.º 506/97
+    changes:
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 19-19
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1241/1995/10/13/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:49:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 61/96; Portaria n.º
+    61/96; Portaria n.º 506/97. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-1241-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,7 +168,9 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 1.º Para efeitos de aplicação dos Decretos-Leis n.os [237/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1995-563043) e [238/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1995-563027), ambos de 13 de Setembro, consideram-se como actividades afectadas as seguintes:
 
-a) Arbóreo-arbustivas: vinha, macieiras, pereiras, kiwis, pessegueiros, nogueiras, castanheiros, cerejeiras e olival;
+a) Arbóreo-arbustivas: vinha, macieiras, pereiras, kiwis, pessegueiros, nogueiras, castanheiros, cerejeiras e olival, bem como a cultura da ameixeira na área da Direcção Regional de Agricultura do Alentejo.
+
+> Alterado pelo/a [Portaria n.º 506/97](https://diariodarepublica.pt/dr/detalhe/portaria/506-1997-147415), publicado em 1997-07-21.
 
 b) Cereais: trigo, cevada dística, triticale, centeio e cevada;
 
@@ -174,7 +192,9 @@ d) Da Direcção Regional do Ribatejo e Oeste, os concelhos de Abrantes, Chamusc
 
 5.º - 1 - O montante do crédito para relançamento da actividade das empresas agrícolas e pecuárias a conceder a cada beneficiário é calculado em função da dimensão das actividades a realizar na campanha de 1995-1996.
 
-2 - As entidades que recorram à linha de crédito de relançamento das actividades agro-pecuárias não têm acesso, na campanha de 1995-1996, para as actividades que constituem o objecto de crédito, às linhas de crédito de curto prazo criadas pelo [Decreto-Lei n.º 145/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1994-269594), de 24 de Maio.
+2 - As entidades que recorram à linha de crédito de relançamento das actividades agro-pecuárias não têm acesso, na campanha de 1995-1996, para as actividades que constituem o objecto de crédito, às linhas de crédito de curto prazo criadas pelo [Decreto-Lei n.º 145/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1994-269594), de 24 de Maio, excepto se os valores unitários do crédito efectivamente utilizado forem inferiores aos fixados nas referidas linhas, podendo, nesse caso, os beneficiários ter acesso, para o crédito remanescente, às linhas de curto prazo previstas naquele diploma.
+
+> Alterado pelo/a [Portaria n.º 61/96](https://diariodarepublica.pt/dr/detalhe/portaria/61-1996-626390), publicado em 1996-02-27.
 
 6.º No caso das cooperativas e organizações ou agrupamentos de produtores, o montante de crédito a conceder é calculado em função dos encargos de exploração e da quebra de matéria-prima a laborar prevista para o ano de 1995, desde que superior a 30% em relação à média dos últimos três anos.
 

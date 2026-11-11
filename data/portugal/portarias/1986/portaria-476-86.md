@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-01-11'
+version_history:
+  file: portaria-476-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-08-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-01-11'
+    amending: pt:dre:599756:por
+    amending_title: Portaria n.º 11/87
+    changes:
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:49:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 11/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-476-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,11 +139,15 @@ b) Milho utilizado na fabricação de sêmolas (gritz) para a produção de cerv
 
 c) Trincas de arroz utilizadas na produção de cerveja.
 
-2.º É ainda concedida uma restituição na utilização de amidos de trigo, de milho, de arroz ou de fécula de batata, ou ainda de certos produtos derivados destes, para a elaboração das mercadorias constantes da lista anexa.
+2.º É ainda concedida uma restituição na utilização do amido de milho, ou de certos produtos derivados deste, para a elaboração das mercadorias constantes da lista anexa.
+
+> Alterado pelo/a [Portaria n.º 11/87](https://diariodarepublica.pt/dr/detalhe/portaria/11-1987-599756), publicado em 1987-01-06.
 
 3.º Os montantes das restituições à produção previstas no n.º 1.º serão equivalentes às restituições comunitárias em vigor.
 
-4.º A restituição prevista no n.º 2.º será aproximadamente igual à restituição para o mesmo efeito em vigor na Comunidade Económica Europeia, corrigida da diferença entre os preços de mercado na Comunidade e em Portugal dos respectivos cereais de base considerados na coluna 3 do anexo ao [Decreto-Lei n.º 62/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1986-196216), de 25 de Março, multiplicada pelo coeficiente da coluna 4 do mesmo anexo.
+4.º A restituição prevista no n.º 2.º será equivalente à restituição para o mesmo efeito em vigor na Comunidade Económica Europeia, corrigida da diferença entre os preços de mercado do milho na Comunidade e em Portugal, multiplicada pelo coeficiente de 1,6.
+
+> Alterado pelo/a [Portaria n.º 11/87](https://diariodarepublica.pt/dr/detalhe/portaria/11-1987-599756), publicado em 1987-01-06.
 
 5.º Os montantes das restituições à produção referidos nos números anteriores serão fixados pela Comissão do Mercado de Cereais e constarão de aviso a publicar na 2.ª série do Diário da República.
 

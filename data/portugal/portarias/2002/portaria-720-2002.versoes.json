@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:139759:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-06-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "94bff7a27904cfaa",
+    "714e2352f5a1de55"
+   ]
+  },
+  {
+   "date": "2003-12-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:423636:por",
+     "title": "Portaria n.º 1402/2003",
+     "published": "2003-12-22",
+     "dre_path": "/dr/detalhe/portaria/1402-2003-423636"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 31-31"
+   ],
+   "fragments": [
+    "94bff7a27904cfaa",
+    "632c4a13f811adfb"
+   ]
+  }
+ ],
+ "fragments": {
+  "94bff7a27904cfaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Junho\n\nSob proposta do Instituto Politécnico de Lisboa e da sua Escola Superior de Comunicação Social;\n\nAo abrigo do disposto na lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro) e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAutorização\n\nO Instituto Politécnico de Lisboa, através da sua Escola Superior de Comunicação Social, é autorizado a conferir os graus de bacharel e de licenciado em Audiovisual e Multimédia.\n\n2.º\n\nDuração do 2.º ciclo\n\nO 2.º ciclo do curso tem a duração de dois semestres lectivos.\n\n3.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso nos termos do anexo à presente portaria.\n\n4.º\n\nUnidades curriculares de opção\n\nO elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente.\n\n5.º\n\nRegulamentação\n\nO curso organiza-se de acordo com o Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho.\n\n6.º\n\nEntrada em funcionamento\n\nO curso entra em funcionamento a partir do ano lectivo de 2002-2003, inclusive, um ano curricular em cada ano lectivo.\n\nPelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Estado do Ensino Superior, em 28 de Março de 2002."
+  },
+  "714e2352f5a1de55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Lisboa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Instituto Politécnico de Lisboa\n\nEscola Superior de Comunicação Social\n\nCurso de Audiovisual e Multimédia\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)\n\n2.º ciclo - Grau de licenciado\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)"
+  },
+  "632c4a13f811adfb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Lisboa",
+   "in_force_from": "2003-12-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1402/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1402-2003-423636), publicado em 2003-12-22."
+   ],
+   "markdown": "## ANEXO — Instituto Politécnico de Lisboa\n\nEscola Superior de Comunicação Social\n\nCurso de Audiovisual e Multimédia\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85408540.pdf)\n\n> Alterado pelo/a [Portaria n.º 1402/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1402-2003-423636), publicado em 2003-12-22.\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)\n\n2.º ciclo - Grau de licenciado\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)"
+  }
+ }
+}

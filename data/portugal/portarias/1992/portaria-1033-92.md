@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-01-30'
+version_history:
+  file: portaria-1033-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-11-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-01-30'
+    amending: pt:dre:580657:por
+    amending_title: Declaração de Rectificação n.º 4/93
+    changes:
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1033/1992/11/05/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:07:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 4/93.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-1033-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,7 +153,9 @@ i) 31 de Maio de cada ano, quando se trate da polinização do meloeiro e do gir
 
 ii) 30 de Abril de cada ano, para as restantes culturas;
 
-c) No caso das acções 1.3, 2.1 e 4.1 a 6.1, até 30 de Abril de cada ano.
+c) No caso das acções 1.3, 2.1 e 5.1 a 6.1, até 30 de Abril de cada ano.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 4/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-1993-580657), publicado em 1993-01-30.
 
 2 - ...
 

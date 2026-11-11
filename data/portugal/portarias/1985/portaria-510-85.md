@@ -40,10 +40,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-09-17'
+version_history:
+  file: portaria-510-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-07-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-09-17'
+    amending: pt:dre:495709:por
+    amending_title: Portaria n.º 786/87
+    changes:
+    - Altera Artigo unidades 222-224
+    - Altera Artigo unidades 226-226
+    - Altera Artigo unidades 228-231
+    - Altera Artigo unidades 235-257
 identifiers:
   celex: null
   eli: null
@@ -69,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:28:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 786/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-510-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -559,25 +577,31 @@ I PARTE
 
 3.1 - Junta:
 
-3.1.1 - Estrutura.
+3.1.1 - Estrutura;
 
-3.1.2 - Atribuições.
+3.1.2 - Atribuições;
 
-3.1.3 - Competência.
+3.1.3 - Competência;
+
+> Alterado pelo/a [Portaria n.º 786/87](https://diariodarepublica.pt/dr/detalhe/portaria/786-1987-495709), publicado em 1987-09-12.
 
 3.2 - Direcção-Geral da Junta do Crédito Público:
 
-3.2.1 - Estrutura.
+3.2.1 - Estrutura;
+
+> Alterado pelo/a [Portaria n.º 786/87](https://diariodarepublica.pt/dr/detalhe/portaria/786-1987-495709), publicado em 1987-09-12.
 
 3.2.2 - Orgânica:
 
-3.2.2.1 - Órgãos operativos.
+3.2.2.1 - Órgãos operativos;
 
-3.2.2.2 - Órgãos de apoio técnico.
+3.2.2.2 - Órgãos de apoio técnico;
 
-3.2.2.3 - Órgãos de apoio consultivo.
+3.2.2.3 - Órgãos de apoio consultivo;
 
-3.2.2.4 - Órgãos de apoio instrumental.
+3.2.2.4 - Órgãos de apoio instrumental;
+
+> Alterado pelo/a [Portaria n.º 786/87](https://diariodarepublica.pt/dr/detalhe/portaria/786-1987-495709), publicado em 1987-09-12.
 
 3.2.3 - Atribuições.
 
@@ -585,48 +609,42 @@ II PARTE
 
 Aplicação dos módulos A, B e C à Junta do Crédito Público
 
-1 - Recrutamento e selecção de pessoal.
+1 - Dívida pública: objectivos da política de gestão, formas de colocação da dívida, espécies, papel dos mercados primário e secundário.
 
-2 - Gestão de pessoal.
+2 - Taxa média efectiva para determinação do valor actual da renda perpétua.
 
-3 - Liquidação de vencimentos e outros abonos.
+3 - Determinação de valores para pagamento de encargos de dívida externa em função da cotação dos câmbios.
 
-4 - Determinação de pensão de aposentação.
+4 - Liquidação de encargos de dívida pública. Arredondamentos. Pagamento por antecipação.
 
-5 - Processamento de despesas.
+5 - Meios de pagamento. Ordem de pagamento e ordem de transferência.
 
-6 - Inventário e cadastro de bens e seu controle.
+6 - Escrituração das despesas da Junta do Crédito Público. Movimentação das dotações orçamentais.
 
-7 - Gestão de stocks.
+7 - Aquisição e cedência de títulos.
 
-8 - Taxa média efectiva para determinação do valor actual da renda perpétua.
+8 - Emissão de um empréstimo externo.
 
-9 - Determinação de valores para pagamento de encargos de dívida externa em função da cotação dos câmbios.
+9 - Emissão de um empréstimo interno.
 
-10 - Liquidação de encargos de dívida pública. Arredondamentos. Pagamento por antecipação.
+10 - Criação de renda vitalícia.
 
-11 - Meios de pagamento. Ordem de pagamento e ordem de transferência.
+11 - Criação de renda perpétua.
 
-12 - Escrituração das despesas da Junta do Crédito Público. Movimentação das dotações orçamentais.
+12 - Títulos extraviados e títulos deteriorados.
 
-13 - Aquisição e cedência de títulos.
+13 - Processos ordinários, sumários e sumaríssimos: tramitação.
 
-14 - Emissão de um empréstimo externo.
+14 - Emissão, cláusulas e reembolso de certificados de aforro.
 
-15 - Emissão de um empréstimo interno.
+15 - Contratos com agentes pagadores.
 
-16 - Criação de renda vitalícia.
+16 - Relatório e contas da Junta do Crédito Público.
 
-17 - Criação de renda perpétua.
+17 - Plano de contas da Junta do Crédito Público.
 
-18 - Títulos extraviados e títulos deteriorados.
+18 - Introdução à informática: noções gerais.
 
-19 - Processos ordinários, sumários e sumaríssimos: tramitação.
+19 - Aplicações da Junta do Crédito Público.
 
-20 - Emissão, cláusulas e reembolso de certificados de aforro.
-
-21 - Contratos com agentes pagadores.
-
-22 - Relatório e contas da Junta do Crédito Público.
-
-23 - Plano de contas da Junta de Crédito Público.
+> Alterado pelo/a [Portaria n.º 786/87](https://diariodarepublica.pt/dr/detalhe/portaria/786-1987-495709), publicado em 1987-09-12.

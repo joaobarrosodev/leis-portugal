@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-10-15'
+version_history:
+  file: despacho-normativo-24-a-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-06-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-10-15'
+    amending: pt:dre:233297:por
+    amending_title: Despacho Normativo n.º 39/96
+    changes:
+    - Adita Artigo depois da unidade 18
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/24-a/1996/06/21/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:30:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 39/96. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1996/despacho-normativo-24-a-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,5 +165,11 @@ h) Realização de estudos de caracterização das deslocações nas áreas urba
 5 - O processamento da participação financeira da administração central relativa às acções constantes do n.º 1 será feito através da Direcção-Geral de Transportes Terrestres.
 
 6 - As entregas das participações financeiras podem fazer-se de uma só vez, após a conclusão da acção, ou parcelarmente, mediante comprovação dos pagamentos efectuados ou comprovação e verificação do grau de realização da acção, conforme o caso.
+
+7 - Tratando-se de projectos plurianuais, as entregas das participações financeiras podem também ser feitas mediante pedidos de adiantamento apresentados pelos municípios e entidades privadas ou empresas públicas, devendo a comprovação das despesas ser efectuada, nos termos do n.º 6 do presente despacho normativo, até 31 de Dezembro de 1997.
+
+8 - A não comprovação das despesas no prazo estabelecido dá lugar a reposição dos montantes recebidos por adiantamento acrescidos de juros, contados a partir da data da disponibilização da verba e calculados de acordo com a taxa média praticada pelas instituições bancárias autorizadas a fazer operações activas de prazo superior a cinco anos.
+
+> Aditado pelo/a [Despacho Normativo n.º 39/96](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1996-233297), publicado em 1996-10-10.
 
 Ministério do Equipamento, do Planeamento e da Administração do Território, 18 de Junho de 1996. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.

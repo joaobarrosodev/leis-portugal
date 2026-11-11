@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-03-31'
+version_history:
+  file: portaria-1226-au-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-03-31'
+    amending: pt:dre:621328:por
+    amending_title: Declaração de Rectificação n.º 9-S/2001
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1226-au/2000/12/30/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:20:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 9-S/2001.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-1226-au-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,7 +138,9 @@ Acções de informação e articulação entre todas as entidades públicas e pa
 
 Assim, ao abrigo do n.º 3 do artigo 3.º da lei preambular e do n.º 3 do artigo 12.º da lei de protecção, manda o Governo, pelos Ministros do Trabalho e da Solidariedade e da Justiça, o seguinte:
 
-1.º É reorganizada a Comissão de Protecção de Menores do Concelho de Porto Santo em Comissão de Protecção de Crianças e Jovens, que fica instalada em edifício do Tribunal Judicial.
+1.º É reorganizada a Comissão de Protecção de Menores do Concelho de Porto Santo em Comissão de Protecção de Crianças e Jovens, que fica instalada em edifício da Câmara Municipal.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 9-S/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-s-2001-621328), publicado em 2001-03-31.
 
 2.º A Comissão é constituída, nos termos do artigo 17.º da lei de protecção, pelos seguintes elementos:
 

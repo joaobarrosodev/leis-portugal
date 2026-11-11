@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-05-20'
+version_history:
+  file: portaria-19777.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1963-03-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-05-20'
+    amending: pt:dre:336139:por
+    amending_title: Portaria n.º 320/75
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:27:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 320/75. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1963/portaria-19777.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,7 +130,9 @@ Convindo harmonizar as disposições do [Decreto-Lei n.º 44563](https://diariod
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáutica, que se observe o seguinte:
 
-1.º Os directores dos Serviços de Comunicações e Tráfego Aéreo e de Recrutamento e Instrução são pilotos aviadores com as patentes de brigadeiro ou coronel.
+1.º Os directores dos Serviços de Electricidade e Telecomunicações e de Instrução são, respectivamente, engenheiros electrotécnicos e pilotos aviadores, com as patentes de brigadeiro ou coronel.
+
+> Alterado pelo/a [Portaria n.º 320/75](https://diariodarepublica.pt/dr/detalhe/portaria/320-1975-336139), publicado em 1975-05-20.
 
 2.º O director do Serviço de Saúde é um coronel médico.
 

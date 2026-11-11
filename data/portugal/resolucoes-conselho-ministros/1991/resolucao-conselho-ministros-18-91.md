@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-11-18'
+version_history:
+  file: resolucao-conselho-ministros-18-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-11-18'
+    amending: pt:dre:585017:por
+    amending_title: Resolução do Conselho de Ministros n.º 39/92
+    changes:
+    - Altera Artigo unidades 38-38
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/18/1991/05/31/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:32:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 39/92. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1991/resolucao-conselho-ministros-18-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -195,7 +210,9 @@ e) Pronunciar-se quanto ao alargamento do INFOCID a outras áreas temáticas de 
 
 f) Fomentar a cooperação com outras entidades que coexistam no plano de informação ao cidadão.
 
-5.1 - É órgão executivo do INFOCID o secretário-geral da Presidência do Conselho de Ministros, que será apoiado em tal função por uma equipa de projecto, cuja constituição e estatuto será objecto de despacho conjunto do membro do Governo responsável pela modernização administrativa e do Ministro das Finanças.
+5.1 - É órgão executivo do INFOCID o Secretariado para a Modernização Administrativa.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 39/92](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-1992-585017), publicado em 1992-11-13.
 
 5.2 - Compete ao órgão executivo:
 

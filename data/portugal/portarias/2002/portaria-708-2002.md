@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-05-07'
+version_history:
+  file: portaria-708-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-05-07'
+    amending: pt:dre:659944:por
+    amending_title: Portaria n.º 428/2006
+    changes:
+    - Altera Artigo unidades 23-31
+    - Altera Artigo unidades 35-35
+    - Altera Artigo unidades 37-58
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/708/2002/06/25/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:42:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 428/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-708-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -187,23 +204,9 @@ Curso de Engenharia da Produção
 
 1.º ciclo - Grau de bacharel
 
-QUADRO N.º 1
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/084b00/31783181.pdf)
 
-1.º ano
-
-[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)
-
-QUADRO N.º 2
-
-2.º ano
-
-[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)
-
-QUADRO N.º 3
-
-3.º ano
-
-[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)
+> Alterado pelo/a [Portaria n.º 428/2006](https://diariodarepublica.pt/dr/detalhe/portaria/428-2006-659944), publicado em 2006-05-02.
 
 ## ANEXO II — Instituto Politécnico do Porto
 
@@ -211,50 +214,10 @@ Escola Superior de Estudos Industriais e de Gestão
 
 Curso de Engenharia da Produção
 
-Ramo de Electrónica Industrial
+> Alterado pelo/a [Portaria n.º 428/2006](https://diariodarepublica.pt/dr/detalhe/portaria/428-2006-659944), publicado em 2006-05-02.
 
 2.º ciclo - Grau de licenciado
 
-QUADRO N.º 1
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/084b00/31783181.pdf)
 
-1.º ano
-
-[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)
-
-QUADRO N.º 2
-
-2.º ano
-
-[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)
-
-Ramo de Engenharia Industrial
-
-2.º ciclo - Grau de licenciado
-
-QUADRO N.º 1
-
-1.º ano
-
-[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)
-
-QUADRO N.º 2
-
-2.º ano
-
-[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)
-
-Ramo de Mecânica
-
-2.º ciclo - Grau de licenciado
-
-QUADRO N.º 1
-
-1.º ano
-
-[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)
-
-QUADRO N.º 2
-
-2.º ano
-
-[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)](https://files.diariodarepublica.pt/1s/2002/06/144b00/49624965.pdf)
+> Alterado pelo/a [Portaria n.º 428/2006](https://diariodarepublica.pt/dr/detalhe/portaria/428-2006-659944), publicado em 2006-05-02.

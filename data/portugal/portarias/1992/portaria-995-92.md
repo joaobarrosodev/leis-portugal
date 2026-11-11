@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-10-31'
+version_history:
+  file: portaria-995-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-10-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-10-31'
+    amending: pt:dre:627598:por
+    amending_title: Declaração de Rectificação n.º 188/92
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/995/1992/10/22/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:40:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 188/92.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-995-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,7 +139,9 @@ Manda o Governo, pelos Ministros das Finanças e das Obras Públicas, Transporte
 
 2.º A presente portaria é aplicável aos concursos cujos anúncios forem publicados entre o dia da sua entrada em vigor e o dia 31 de Agosto de 1993.
 
-3.º A presente portaria entra em vigor no dia 1 de Setembro de 1992.
+3.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 188/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/188-1992-627598), publicado em 1992-10-31.
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-09-04'
+version_history:
+  file: portaria-62-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-01-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-09-04'
+    amending: pt:dre:305399:por
+    amending_title: Portaria n.º 872-A/2006
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/62/2003/01/16/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:50:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 872-A/2006. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-62-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,7 +146,9 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Habitação, o
 
 2.º É criada a Subcomissão para a Revisão do Regulamento Geral de Edificações Urbanas, composta por representantes das seguintes entidades:
 
-a) Conselho Superior de Obras Públicas e Transportes, a presidir;
+a) Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário, a presidir;
+
+> Alterado pelo/a [Portaria n.º 872-A/2006](https://diariodarepublica.pt/dr/detalhe/portaria/872-a-2006-305399), publicado em 2006-08-30.
 
 b) Laboratório Nacional de Engenharia Civil;
 

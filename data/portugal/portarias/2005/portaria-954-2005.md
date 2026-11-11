@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-02-21'
+version_history:
+  file: portaria-954-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-09-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-02-21'
+    amending: pt:dre:676825:por
+    amending_title: Portaria n.º 155/2006
+    changes:
+    - Altera Artigo unidades 33-33
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/954/2005/09/30/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:09:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 155/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2005/portaria-954-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -201,7 +216,9 @@ Número máximo de alunos
 
 Início de funcionamento do curso
 
-O curso pode começar a funcionar a partir do ano lectivo de 2005-2006, inclusive, um ano curricular em cada ano lectivo.
+O curso pode começar a funcionar a partir do ano lectivo de 2005-2006, inclusive.
+
+> Alterado pelo/a [Portaria n.º 155/2006](https://diariodarepublica.pt/dr/detalhe/portaria/155-2006-676825), publicado em 2006-02-20.
 
 9.º
 

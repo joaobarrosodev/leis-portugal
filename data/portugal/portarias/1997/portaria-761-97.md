@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-30'
+version_history:
+  file: portaria-761-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-08-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-30'
+    amending: pt:dre:468790:por
+    amending_title: Declaração de Rectificação n.º 15-L/97
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/761/1997/08/28/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:04:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 15-L/97.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-761-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,7 +151,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 1.º É revogada a [Portaria n.º 231/97](https://diariodarepublica.pt/dr/detalhe/portaria/231-1997-526659), de 3 de Abril.
 
-2.º São repristinadas as Portarias n.os 853/86 e [235/89](https://diariodarepublica.pt/dr/detalhe/portaria/235-1989-614674), respectivamente de 9 de Novembro e de 29 de Março.
+2.º São repristinadas as Portarias n.os 853/85 e [235/89](https://diariodarepublica.pt/dr/detalhe/portaria/235-1989-614674), respectivamente de 9 de Novembro e de 29 de Março.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 15-L/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-l-1997-468790), publicado em 1997-09-30.
 
 3.º A presente portaria entra imediatamente em vigor.
 

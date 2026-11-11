@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-07-16'
+version_history:
+  file: portaria-510-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-09-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-07-16'
+    amending: pt:dre:670000:por
+    amending_title: Portaria n.º 238/2011
+    changes:
+    - Altera Artigo unidades 9-14
+    - Altera Artigo unidades 21-29
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/510/1996/09/25/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:31:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 238/2011. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-510-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,17 +161,9 @@ Neste termos, ao abrigo do disposto no n.º 2 do artigo 8.º, no n.º 3 do artig
 
 Manda o Governo, pelo Ministro da Cultura, o seguinte:
 
-1.º Pelas vistorias a realizar ao abrigo do n.º 1 do artigo 8.º e do n.º 3 do artigo 12.º do [Decreto-Lei n.º 315/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1995-626594), de 28 de Novembro, são devidas a seguintes taxas, em conformidade com a classificação dos recintos feita no n.º 2 do artigo 3.º do Regulamento das Condições Técnicas e de Segurança dos Recintos de Espectáculos e Divertimentos Públicos, aprovado pelo [Decreto Regulamentar n.º 34/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1995-634904), de 16 de Dezembro:
+1.º - (Revogado.)
 
-a) Recintos de 1.ª categoria - 110000$00;
-
-b) Recintos de 2.ª categoria - 90000$00;
-
-c) Recintos de 3.ª categoria - 70000$00;
-
-d) Recintos de 4.ª categoria - 50000$00;
-
-e) Recintos de 5.ª categoria - 35000$00.
+> Alterado pelo/a [Portaria n.º 238/2011](https://diariodarepublica.pt/dr/detalhe/portaria/238-2011-670000), publicado em 2011-06-16.
 
 2.º São as seguintes as remunerações devidas a cada um dos membros das comissões de vistoria previstas nos artigos 8.º, 12.º e 18.º do [Decreto-Lei n.º 315/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1995-626594), de 28 de Novembro:
 
@@ -169,23 +177,17 @@ d) Vistorias de recintos de 4.ª categoria - 7000$00;
 
 e) Vistorias de recintos de 5.ª categoria - 6000$00.
 
-3.º O valor da taxa suplementar devida pela passagem do alvará da licença de recinto em prazo mais curto do que o fixado no n.º 1 do artigo 9.º do [Decreto-Lei n.º 315/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1995-626594), de 28 de Novembro, é o seguinte:
+3.º - (Revogado.)
 
-a) Emissão em prazo de vinte e quatro horas - 20000$00;
+4.º - (Revogado.)
 
-b) Emissão em prazo inferior a 10 dias mais superior a 1 - 10000$00.
+5.º - (Revogado.)
 
-4.º O valor da taxa devida pelo registo da actividade de promotor de espectáculos, da actividade de edição, reprodução, distribuição, venda, aluguer ou troca de videogramas e da actividade de importação, exportação, fabrico, produção, edição e distribuição de fonogramas e suas renovações é de 30000$00.
+6.º - (Revogado.)
 
-5.º Estão isentas da taxa referida no n.º 4.º da presente portaria:
+7.º - (Revogado.)
 
-a) As associações recreativas, culturais ou desportivas;
-
-b) Os salões ou centros paroquiais e as instituições de beneficência.
-
-6.º As instituições referidas no n.º 5.º da presente portaria pagarão apenas o valor de dois terços das taxas referidas no n.º 1.º, arredondado para a centena de escudos mais próxima.
-
-7.º Os valores fixados no n.º 2.º da presente portaria apenas se aplicam aos membros das comissões de vistorias extraordinárias determinadas após a sua entrada em vigor e às ordinárias que já tiveram pago os valores fixados no seus n.os 1.º e 6.º
+> Alterado pelo/a [Portaria n.º 238/2011](https://diariodarepublica.pt/dr/detalhe/portaria/238-2011-670000), publicado em 2011-06-16.
 
 8.º A presente portaria entra em vigor em 1 de Outubro de 1996.
 

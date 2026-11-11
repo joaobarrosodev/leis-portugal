@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-04-12'
+version_history:
+  file: portaria-223-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-03-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-12'
+    amending: pt:dre:603556:por
+    amending_title: Portaria n.º 366/2009
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/223/2006/03/08/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:12:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 366/2009. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2006/portaria-223-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,7 +152,9 @@ Entretanto, a entidade concessionária veio requerer a sua renovação.
 
 Cumpridos os preceitos legais, com fundamento no disposto no artigo 48.º em conjugação com o estipulado na alínea a) do artigo 40.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Pela presente portaria é renovada, por um período de 12 anos, renovável automaticamente por um único e igual período, a concessão da zona de caça associativa das Mestras de Baixo (processo n.º 2245-DGRF), abrangendo vários prédios rústicos sitos na freguesia de São Mansos, município de Évora, com uma área de 1256 ha.
+1.º Pela presente portaria é renovada, por um período de seis anos, renovável automaticamente por um único e igual período, a concessão da zona de caça associativa das Mestras de Baixo (processo n.º 2245-DGRF), abrangendo vários prédios rústicos sitos na freguesia de São Mansos, município de Évora, com uma área de 1256 ha.
+
+> Alterado pelo/a [Portaria n.º 366/2009](https://diariodarepublica.pt/dr/detalhe/portaria/366-2009-603556), publicado em 2009-04-07.
 
 2.º A presente portaria produz efeitos a partir do dia 15 de Março de 2006.
 

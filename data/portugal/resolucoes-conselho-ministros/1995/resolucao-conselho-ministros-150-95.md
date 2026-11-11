@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-11-05'
+version_history:
+  file: resolucao-conselho-ministros-150-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-11-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-11-05'
+    amending: pt:dre:179552:por
+    amending_title: Resolução do Conselho de Ministros n.º 179/96
+    changes:
+    - Altera Artigo unidades 6-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/150/1995/11/24/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:33:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 179/96. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1995/resolucao-conselho-ministros-150-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,13 +134,11 @@ Nos termos da alínea g) do artigo 202.º da Constituição, e do n.º 1 do arti
 
 1 - Constituem receita dos concessionários das salas de jogo do bingo fora dos casinos as seguintes percentagens da receita bruta da venda dos cartões:
 
-a) No caso de salas concessionadas a pessoas colectivas públicas e de utilidade pública - 33%;
+a) (Revogada.)
 
-b) No caso de salas concessionadas a empresas do sector turístico:
+b) (Revogada.)
 
-i) 33%, até ao montante de 250000 contos;
-
-ii) 22%, na parte da receita que exceda aquele valor.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 179/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/179-1996-179552), publicado em 1996-10-31.
 
 2 - As importâncias referidas no número anterior encontram-se expressas em escudos com poder aquisitivo referido ao ano de 1995 e serão actualizadas com efeitos a partir do dia 1 de Março de cada ano, tendo em conta o índice médio de preços no consumidor, no continente, excluindo a habitação, publicado pelo Instituto Nacional de Estatística, arredondando-se para a dezena de contos imediatamente inferior.
 

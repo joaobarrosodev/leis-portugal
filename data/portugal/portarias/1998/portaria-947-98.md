@@ -42,10 +42,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-12-27'
+version_history:
+  file: portaria-947-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-11-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-12-27'
+    amending: pt:dre:405337:por
+    amending_title: Portaria n.º 1548/2002
+    changes:
+    - Altera Artigo unidades 20-20
+    - Altera Artigo unidades 44-48
+    - Altera Artigo unidades 49-49
+    - Altera Artigo unidades 55-55
+    - Altera Artigo unidades 58-58
+    - Altera Artigo unidades 61-63
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/947/1998/11/03/p/dre/pt/html
@@ -71,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:12:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1548/2002. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-947-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,7 +178,9 @@ Ingredientes
 
 No fabrico da margarina e de outras matérias gordas são admitidos, entre outros, os seguintes ingredientes:
 
-a) Óleos e gorduras vegetais comestíveis;
+a) Óleos e gorduras vegetais e animais comestíveis;
+
+> Alterado pelo/a [Portaria n.º 1548/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1548-2002-405337), publicado em 2002-12-26.
 
 b) Óleos hidrogenados vegetais e animais;
 
@@ -206,17 +228,11 @@ Acondicionamento
 
 2 - O material em contacto com os produtos referidos no número anterior deve ser inerte, inócuo em relação ao conteúdo, garantir uma adequada conservação e estar de acordo com a legislação específica que lhe é aplicável.
 
+> Alterado pelo/a [Portaria n.º 1548/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1548-2002-405337), publicado em 2002-12-26.
+
 8.º
 
-Embalagens
-
-1 - A margarina e outras matérias gordas só poderão ser expostas à venda, vendidas a retalhistas ou a entidades aos mesmos equiparadas e ao consumidor final, em embalagens com as seguintes quantidades líquidas: 125 g, 250 g, 500 g, 1 kg, 1,5 kg, 2 kg, 2,5 kg e 5 kg.
-
-2 - A margarina e outras matérias gordas destinadas à indústria poderão ser comercializadas em embalagens com quantidades líquidas superiores a 5 kg.
-
-3 - São admitidas embalagens com quantidades líquidas diferentes das estabelecidas no n.º 1, desde que inferiores a 125 g.
-
-9.º
+> Alterado pelo/a [Portaria n.º 1548/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1548-2002-405337), publicado em 2002-12-26.
 
 Rotulagem
 
@@ -228,23 +244,23 @@ b) No caso de produtos não abrangidos pelo regulamento referido na alínea ante
 
 c) Deverão ser incluídas as menções relativas às condições particulares de conservação, nomeadamente a indicação «Conservar no frio», quando tal se torne necessário para assegurar uma adequada garantia das suas características.
 
-10.º
+9.º
+
+> Alterado pelo/a [Portaria n.º 1548/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1548-2002-405337), publicado em 2002-12-26.
 
 Reconhecimento mútuo
 
 O disposto no presente diploma aplica-se sem prejuízo da livre circulação dos produtos que sejam legalmente produzidos ou comercializados nos outros Estados membros da União Europeia ou que sejam originários dos países da EFTA, que são partes contratantes do Acordo sobre o Espaço Económico Europeu (Acordo EEE), na medida em que tais produtos não acarretem um risco para a saúde ou para a vida das pessoas na acepção do artigo 36.º do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) e do artigo 13.º do Acordo EEE.
 
-11.º
+10.º
+
+> Alterado pelo/a [Portaria n.º 1548/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1548-2002-405337), publicado em 2002-12-26.
 
 Regime sancionatório
 
 Às infracções ao presente diploma aplica-se o disposto no Decreto-Lei n.º 28/84, de 20 de Janeiro, e, supletivamente, o regime constante do Decreto-Lei n.º 433/82, de 27 de Outubro, e respectivas alterações.
 
-12.º
-
-Entrada em vigor
-
-O presente diploma entra em vigor no dia da sua publicação, sem prejuízo da comercialização, durante o período de um ano, de margarinas e outras matérias gordas que obedeçam ao disposto no Decreto-Lei n.º 59/85, de 11 de Março.
+> Alterado pelo/a [Portaria n.º 1548/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1548-2002-405337), publicado em 2002-12-26.
 
 Presidência do Conselho de Ministros e Ministérios da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas e da Saúde.
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-08-15'
+version_history:
+  file: portaria-411-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-04-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-08-15'
+    amending: pt:dre:284085:por
+    amending_title: Portaria n.º 1033-BD/2004
+    changes:
+    - Adita Artigo depois da unidade 16
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/411/2004/04/22/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:59:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1033-BD/2004. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-411-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -151,6 +166,10 @@ d) 25% aos demais caçadores, conforme é referido na alínea d) do citado artig
 6.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
 
 7.º A zona de caça municipal será obrigatoriamente sinalizada com tabuletas do modelo n.º 2 e sinal do modelo n.º 10, definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro, e obedecer ao disposto no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro.
+
+8.º É revogada a [Portaria n.º 1355/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1355-2003-431072), de 11 de Dezembro.
+
+> Aditado pelo/a [Portaria n.º 1033-BD/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1033-bd-2004-284085), publicado em 2004-08-10.
 
 Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 2 de Fevereiro de 2004. - Pelo Ministro das Cidades, Ordenamento do Território e Ambiente, Joaquim Paulo Taveira de Sousa, Secretário de Estado do Ordenamento do Território, em 26 de Março de 2004.
 

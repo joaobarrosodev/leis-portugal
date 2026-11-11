@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:211848:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-09-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "37dc1bc365571e75"
+   ]
+  },
+  {
+   "date": "1998-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:235758:por",
+     "title": "Declaração de Rectificação n.º 19-N/98",
+     "published": "1998-10-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/19-n-1998-235758"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-4"
+   ],
+   "fragments": [
+    "01677f8ef888bb34"
+   ]
+  }
+ ],
+ "fragments": {
+  "37dc1bc365571e75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Segundo comunicação do Ministério da Cultura, a [Portaria n.º 681/98](https://diariodarepublica.pt/dr/detalhe/portaria/681-1998-566634), publicada no Diário da República, 1.ª série, n.º 201, de 1 de Setembro de 1998, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:\n\nNo grupo de pessoal técnico, onde se lê «Técnico especialista principal (c) - 2» deve ler-se «Técnico especialista principal (e) - 2».\n\nNo grupo de pessoal administrativo, onde se lê «Chefe de secção (c) - 2» deve ler-se «Chefe de secção (e) - 2».\n\nSecretaria-Geral da Presidência do Conselho de Ministros, 24 de Setembro de 1998. - O Secretário-Geral, Alexandre Figueiredo."
+  },
+  "01677f8ef888bb34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1998-10-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 19-N/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-n-1998-235758), publicado em 1998-10-31."
+   ],
+   "markdown": "Segundo comunicação do Ministério da Cultura, a [Portaria n.º 681/98](https://diariodarepublica.pt/dr/detalhe/portaria/681-1998-566634), publicada no Diário da República, 1.ª série, n.º 201, de 1 de Setembro de 1998, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:\n\nNo grupo de pessoal técnico, onde se lê «Técnico especialista principal (c) - 2» deve ler-se «Técnico especialista principal (e) - 2».\n\nNo grupo de pessoal administrativo, onde se lê «Chefe de secção (c) - 2» deve ler-se «Chefe de secção (e) - 4».\n\n> Alterado pelo/a [Declaração de Rectificação n.º 19-N/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-n-1998-235758), publicado em 1998-10-31.\n\nSecretaria-Geral da Presidência do Conselho de Ministros, 24 de Setembro de 1998. - O Secretário-Geral, Alexandre Figueiredo."
+  }
+ }
+}

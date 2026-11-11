@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-02-28'
+version_history:
+  file: portaria-677-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-08-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-02-28'
+    amending: pt:dre:386220:por
+    amending_title: Portaria n.º 125/2001
+    changes:
+    - Altera Artigo unidades 31-34
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/677/1997/08/12/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:04:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 125/2001. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-677-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,10 +193,56 @@ Assinada em 17 de Julho de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
-## ANEXO — Universidade Internacional da Figueira da Foz
+## ANEXO — (alteração à [Portaria n.º 677/97](https://diariodarepublica.pt/dr/detalhe/portaria/677-1997-202470), de 12 de Agosto)
 
-Curso: Direito
+Universidade Internacional da Figueira da Foz
 
-Grau: licenciado
+Curso de Direito
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/185b00/42024203.pdf)
+Grau de licenciado
+
+QUADRO N.º 1
+
+1.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)
+
+QUADRO N.º 2
+
+2.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)
+
+QUADRO N.º 3
+
+3.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)
+
+QUADRO N.º 4
+
+4.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)
+
+Ramo Jurídico-Forense
+
+Grau de licenciado
+
+QUADRO N.º 5
+
+5.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)
+
+Ramo Jurídico-Empresarial
+
+Grau de licenciado
+
+QUADRO N.º 6
+
+5.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10561058.pdf)
+
+> Alterado pelo/a [Portaria n.º 125/2001](https://diariodarepublica.pt/dr/detalhe/portaria/125-2001-386220), publicado em 2001-02-23.

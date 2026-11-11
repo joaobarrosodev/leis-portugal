@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:659891:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-08-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "30194eed885f0daa"
+   ]
+  },
+  {
+   "date": "2006-01-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:169060:por",
+     "title": "Portaria n.º 50/2006",
+     "published": "2006-01-12",
+     "dre_path": "/dr/detalhe/portaria/50-2006-169060"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "bb5e0e52d897cdf0"
+   ]
+  }
+ ],
+ "fragments": {
+  "30194eed885f0daa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Agosto\n\nCom fundamento no disposto no artigo 25.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvido o Conselho Cinegético Municipal de Ourém:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Fátima (processo n.º 3256-DGF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caçadores de Fátima, com o número de pessoa colectiva 501910204 e sede na Rua do Rosário, 2495-559 Fátima.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Fátima, município de Ourém, com a área de 6232 ha.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 30%, relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 20%, relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 25%, relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 25% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva direcção regional de agricultura, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n7.º A sinalização da zona de caça deve obedecer ao disposto na alínea b) dos n.os 2.º e 3.º e nos n.os 4.º a 7.º da [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro, e ainda no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro.\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 19 de Julho de 2003.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187b00/50995100.pdf)"
+  },
+  "bb5e0e52d897cdf0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-01-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/portaria/50-2006-169060), publicado em 2006-01-12."
+   ],
+   "markdown": "de 14 de Agosto\n\nCom fundamento no disposto no artigo 25.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvido o Conselho Cinegético Municipal de Ourém:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Fátima (processo n.º 3256-DGF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caçadores de Fátima, com o número de pessoa colectiva 501910204 e sede na Rua do Rosário, 2495-559 Fátima.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Fátima, município de Ourém, com a área de 5646 ha.\n\n> Alterado pelo/a [Portaria n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/portaria/50-2006-169060), publicado em 2006-01-12.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 30%, relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 20%, relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 25%, relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 25% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva direcção regional de agricultura, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n7.º A sinalização da zona de caça deve obedecer ao disposto na alínea b) dos n.os 2.º e 3.º e nos n.os 4.º a 7.º da [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro, e ainda no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro.\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 19 de Julho de 2003.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187b00/50995100.pdf)"
+  }
+ }
+}

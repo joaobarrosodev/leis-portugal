@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-04-17'
+version_history:
+  file: portaria-994-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-10-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-04-17'
+    amending: pt:dre:651972:por
+    amending_title: Portaria n.º 361/2006
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/994/2005/10/06/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:09:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 361/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2005/portaria-994-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,7 +138,9 @@ Cumpridos os preceitos legais, com fundamento no disposto no artigo 48.º do [De
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Pela presente portaria é renovada, por um período de 12 anos, renovável automaticamente por um período igual, a concessão da zona da caça associativa da Herdade das Estacas (processo n.º 156-DGRF), abrangendo vários prédios rústicos sitos na freguesia de Vimieiro, município de Arraiolos, com a área de 558 ha.
+1.º Pela presente portaria é renovada, por um período de 12 anos, renovável automaticamente por um período igual, a concessão da zona da caça associativa da Herdade das Estacas (processo n.º 156-DGRF), abrangendo vários prédios rústicos sitos na freguesia de Vimieiro, município de Arraiolos, com a área de 588 ha.
+
+> Alterado pelo/a [Portaria n.º 361/2006](https://diariodarepublica.pt/dr/detalhe/portaria/361-2006-651972), publicado em 2006-04-12.
 
 2.º A presente portaria produz efeitos a partir do dia 16 de Outubro de 2005.
 

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:189928:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-12-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "78ba069bbaa35e63"
+   ]
+  },
+  {
+   "date": "1998-02-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:230077:por",
+     "title": "Declaração de Rectificação n.º 3/98",
+     "published": "1998-02-09",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/3-1998-230077"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-4"
+   ],
+   "fragments": [
+    "35a0bef79279ebe5"
+   ]
+  }
+ ],
+ "fragments": {
+  "78ba069bbaa35e63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro\n\nO Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:\n\nA pena residual de prisão aplicada a Vítor Manuel Vieira, de 35 anos de idade, no processo n.º 103/95 da 1.ª Secção da 8.ª Vara do Tribunal Criminal de Lisboa é reduzida, por indulto, em um ano de prisão.\n\nAssinado em 22 de Dezembro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Dezembro de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "35a0bef79279ebe5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1998-02-09",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 3/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-1998-230077), publicado em 1998-02-09."
+   ],
+   "markdown": "de 22 de Dezembro\n\nO Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:\n\nA pena residual de prisão aplicada a Vítor Manuel Vieira, de 35 anos de idade, no processo n.º 41/97 da 2.ª Secção da 2.ª Vara do Tribunal Criminal de Lisboa é reduzida, por indulto, em um ano de prisão.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 3/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-1998-230077), publicado em 1998-02-09.\n\nAssinado em 22 de Dezembro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Dezembro de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

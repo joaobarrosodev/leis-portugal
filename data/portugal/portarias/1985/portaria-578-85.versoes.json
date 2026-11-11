@@ -1,0 +1,178 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:180633:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-08-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1f60f85231c04374",
+    "f8c8aad53dd1afab",
+    "351fb173bfd251b4",
+    "e8d8451b343bb814",
+    "c2cd8c5ad905d5b8",
+    "54b0756e5d0d0aea",
+    "a8303e6dcc477710",
+    "242b55fab1e88f6c",
+    "32f37518f5bb9899",
+    "3c46315468cf2a5d",
+    "420bcafef67d06de",
+    "2bd519e7894ea507",
+    "35b3903e22b402db"
+   ]
+  },
+  {
+   "date": "1990-09-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:557603:por",
+     "title": "Portaria n.º 860/90",
+     "published": "1990-09-19",
+     "dre_path": "/dr/detalhe/portaria/860-1990-557603"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 179-179",
+    "Altera Artigo unidades 181-182"
+   ],
+   "fragments": [
+    "1f60f85231c04374",
+    "f8c8aad53dd1afab",
+    "351fb173bfd251b4",
+    "e8d8451b343bb814",
+    "c2cd8c5ad905d5b8",
+    "54b0756e5d0d0aea",
+    "a8303e6dcc477710",
+    "242b55fab1e88f6c",
+    "0249871248450c64",
+    "3c46315468cf2a5d",
+    "420bcafef67d06de",
+    "2bd519e7894ea507",
+    "35b3903e22b402db"
+   ]
+  }
+ ],
+ "fragments": {
+  "1f60f85231c04374": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Agosto\n\nTendo em vista o disposto no artigo 32.º do [Decreto n.º 18717](https://diariodarepublica.pt/dr/detalhe/decreto/18717-1930-224630), de 1 de Agosto de 1930;\n\nSob proposta do conselho científico da Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa;\n\nAo abrigo do disposto do artigo 13.º do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar a estrutura orgânica do quadro de professores catedráticos e associados da Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa, que consta dos anexos à presente portaria.\n\nMinistério da Educação.\n\nAssinada em 24 de Julho de 1985.\n\nO Ministro da Educação, João de Deus Rogado Salvador Pinheiro."
+  },
+  "f8c8aad53dd1afab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Grupo: Antropologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Grupo: Antropologia\n\nDisciplinas\n\nMatemática e Estatística para as Ciências Sociais.\n\nTeoria e Método em Ciências Sociais.\n\nIntrodução a Antropologia.\n\nAntropologia Linguística.\n\nBiologia Aplicada às Ciências Sociais e Antropologia Física.\n\nAntropologia Cultural e Social (História da).\n\nAntropologia Cultural e Social (Parentesco).\n\nAntropologia Cultural e Social (Antropologia do Económico).\n\nEtnografia Geral.\n\nEtnologia Portuguesa.\n\nCulturas não Europeias.\n\nAntropologia Política.\n\nAntropologia da Religião.\n\nAntropologia do Simbólio.\n\nMuseologia.\n\nEtologia.\n\nSemiologia e Semiótica.\n\nAntropologia Jurídica.\n\nAntropologia e Psicanálise.\n\nEspaço e Antropologia Urbana.\n\nCivilizações e Culturas Africanas."
+  },
+  "351fb173bfd251b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Grupo: Sociologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Grupo: Sociologia\n\nDisciplinas\n\nSociologia Geral.\n\nTeoria e Método em Ciências Sociais.\n\nMatemática e Estatística para as Ciências Sociais.\n\nIntrodução à Economia.\n\nDemografia Histórica.\n\nDemografia Social e Políticas Demográficas.\n\nSociologia do Desenvolvimento.\n\nMicrossociologia.\n\nEstratificação Social e Classes Sociais.\n\nDemografia.\n\nMétodos e Técnicas de Investigação Sociológica.\n\nSociologia Política.\n\nSociologia Rural e Urbana.\n\nSociologia e Economia Históricas.\n\nEstruturas da Sociedade Portuguesa.\n\nHistória do Pensamento Social.\n\nSociologia da Cultura.\n\nSociologia Industrial e do Trabalho.\n\nSociologia da Educação.\n\nGestão de Pessoal."
+  },
+  "e8d8451b343bb814": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Grupo: Comunicação Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Grupo: Comunicação Social\n\nDisciplinas\n\nMetodologia das Ciências Sociais.\n\nMatemática.\n\nEconomia.\n\nAntropologia da Comunicação.\n\nTeoria da Comunicação.\n\nDiscurso dos Media.\n\nDireito e Deontologia da Comunicação Social.\n\nHistória dos Media.\n\nPsicossociologia.\n\nSemiótica Textual.\n\nEconomia da Informação.\n\nTecnologia dos Media.\n\nSemiótica das Artes Visuais.\n\nSemiologia.\n\nTeoria dos Sistemas.\n\nProdução e Realização Televisiva.\n\nProdução e Realização Radiofónica.\n\nFilmologia.\n\nRetórica dos Media.\n\nJornalismo Comparado.\n\nSociologia da Comunicação Social.\n\nDireito Internacional da Comunicação Social.\n\nOpinião Pública.\n\nProdução Jornalística.\n\nGéneros Jornalísticos.\n\nEpistemologia das Ciências e das Técnicas."
+  },
+  "c2cd8c5ad905d5b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Grupo: Geografia e Planeamento Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Grupo: Geografia e Planeamento Regional\n\nDisciplinas\n\nGeografia Física.\n\nGeografia Humana.\n\nIntrodução aos Métodos Quantitativos.\n\nEcologia.\n\nEconomia.\n\nGeografia Rural.\n\nGeografia Urbana.\n\nGeografia Regional.\n\nPrincípios e Problemas do Planeamento Regional.\n\nGeografia Económica e Social.\n\nTeorias e Políticas do Desenvolvimento.\n\nGeografia de Portugal e Desenvolvimento Regional.\n\nPlaneamento Urbano.\n\nPlaneamento Regional."
+  },
+  "54b0756e5d0d0aea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO V — Grupo: Filosofia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — Grupo: Filosofia\n\nDisciplinas\n\nHermêutica do Texto Filosófico.\n\nEpistemologia Geral.\n\nFilosofia do Conhecimento.\n\nFilosofia Antiga.\n\nLógica.\n\nFilosofia Medieval.\n\nFilosofia Social e Política.\n\nOntologia.\n\nAxiologia e Ética.\n\nFilosofia Moderna.\n\nFilosofia em Portugal.\n\nAntropologia Filosófica.\n\nFilosofia Contemporânea.\n\nEstética.\n\nIdealismo Alemão.\n\nIntrodução à Filosofia."
+  },
+  "a8303e6dcc477710": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VI — Grupo: História e História da Arte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — Grupo: História e História da Arte\n\nDisciplinas\n\nTeoria das Fontes e Problemática do Saber Histórico.\n\nPré-Histórica.\n\nSociedades, Culturas e Civilizações Pré-Clássicas.\n\nSociedades, Culturas e Civilizações Clássicas.\n\nHistória Económica e Social (Séculos III a XV).\n\nHistória Cultural e das Mentalidades (Séculos III a XV).\n\nHistória Institucional e Política (Séculos III a XV).\n\nHistória de Portugal (Séculos IX a XV).\n\nHistória Económica e Social (Séculos XV a XVIII).\n\nHistória Institucional e Política (Séculos XV a XVIII).\n\nHistória Cultural e das Mentalidades (Séculos XV a XVIII).\n\nHistória de Portugal (Séculos XV a XVIII).\n\nHistória dos Descobrimentos e da Expansão Portuguesa.\n\nHistória Económica e Social (Séculos XVIII a XX).\n\nHistória Institucional e Política (Séculos XVIII a XX).\n\nHistória Cultural e das Mentalidades (Séculos XVIII a XX).\n\nHistória de Portugal (Séculos XVIII a XX).\n\nTeoria da História e do Conhecimento Histórico.\n\nPaleografia e Diplomática.\n\nNumismática e Esfragística.\n\nArqueologia.\n\nEpigrafia.\n\nHistória de Arte da Antiguidade.\n\nHistória de Arte Medieval.\n\nHistória de Arte (Séculos XV a XVIII).\n\nHistória de Arte (Séculos XVIII a XX).\n\nEstética."
+  },
+  "242b55fab1e88f6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VII — Grupo: Ciências Musicais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — Grupo: Ciências Musicais\n\nDisciplinas\n\nAs Grandes Correntes da História da Música (Antiguidade, Idade Média, Renascimento).\n\nAs Grandes Correntes da História da Música (Barroco e Classicismo).\n\nAs Grandes Correntes da História da Música (Romantismo, Neoclassicismo e Impressionismo).\n\nAs Grandes Correntes da História da Música (Música Contemporânea e Suas Raízes).\n\nMúsica Portuguesa.\n\nOrganologia.\n\nMúsica no Contexto Social.\n\nEstética Musical.\n\nEstudo de Fontes e Metodologia de Investigação.\n\nAnálise: Estruturas, Formas e Problemas da Execução Musical (Antiguidade, Idade Média, Renascimento).\n\nAnálise: Estruturas, Formas e Problemas da Execução Musical (Barroco e Classicismo).\n\nAnálise: Estruturas, Formas e Problemas da Execução Musical (Romantismo, Neoclassicismo e Impressionismo).\n\nAnálise: Estruturas, Formas e Problemas da Execução Musical (Música Contemporânea e Suas Raízes).\n\nEtnomusicologia (Teoria e Metodologia, Culturas Musicais Europeias).\n\nEtnomusicologia (Culturas Musicais Extra-Europeias).\n\nTratamento de Bibliografia Musical.\n\nAcústica e Electroacústica.\n\nHistória da Teoria Musical (da Antiguidade Clássica ao Fim do Renascimento).\n\nHistória da Teoria Musical (Séculos XVII e XVIII).\n\nHistória da Teoria Musical (Séculos XIX e XX).\n\nPaleografia Musical.\n\nDirecção de Orquestra e Coral.\n\nImprovisação."
+  },
+  "32f37518f5bb9899": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VIII — Grupo: Estudos Ingleses e Americanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — Grupo: Estudos Ingleses e Americanos\n\nDisciplinas\n\nIntrodução aos Estudos Literários.\n\nTeoria da Literatura.\n\nLiteratura Inglesa Medieval.\n\nLiteratura Inglesa Isabelina.\n\nLiteratura Inglesa Moderna.\n\nLiteratura Inglesa Contemporânea.\n\nLiteratura Norte-Americana.\n\nEstudos Anglo-Portugueses.\n\nCultura Inglesa.\n\nLinguística Inglesa."
+  },
+  "3c46315468cf2a5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IX — Grupo: Estudos Alemães",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX — Grupo: Estudos Alemães\n\nDisciplinas\n\nIntrodução aos Estudos Literários.\n\nTeoria da Literatura.\n\nLiteratura Alemã Medieval.\n\nLiteratura Alemã Clássica.\n\nLiteratura Alemã Moderna.\n\nLiteratura Alemã Contemporânea.\n\nCultura Alemã.\n\nEstudos Luso-Alemães.\n\nLinguística Alemã.\n\nHistória das Ideias.\n\nLiteratura Comparada.\n\nDidáctica da Língua."
+  },
+  "420bcafef67d06de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO X — Grupo: Linguística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO X — Grupo: Linguística\n\nDisciplinas\n\nTeoria da Enunciação.\n\nTeoria do Texto.\n\nFonética.\n\nFonologia e Morfologia.\n\nSintaxe.\n\nSemântica.\n\nPragmática.\n\nLexicologia e Lexicografia.\n\nLinguística Portuguesa.\n\nLinguística Francesa.\n\nLinguística Inglesa.\n\nLinguística Alemã.\n\nHistória da Língua.\n\nAnálise do Discurso.\n\nEstilística.\n\nSociolinguística.\n\nPsicolinguística.\n\nEnsino de Línguas.\n\nTécnicas de Expressão.\n\nTradução.\n\nCrítica Textual."
+  },
+  "2bd519e7894ea507": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XI — Grupo: Estudos Portugueses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XI — Grupo: Estudos Portugueses\n\nDisciplinas\n\nLíngua e Cultura Latinas.\n\nLiteratura Brasileira.\n\nCultura e Literatura Portuguesa (Época Medieval).\n\nCultura e Literatura Portuguesa (Época Clássica).\n\nLiteraturas Africanas de Expressão Portuguesa.\n\nTeoria da Literatura.\n\nCulturas Regionais Portuguesas.\n\nCultura e Literatura Portuguesa (Época Moderna).\n\nCultura e Literatura Portuguesa (Época Contemporânea).\n\nLiteratura Galega.\n\nLiteratura Tradicional e Literaturas Marginais.\n\nCrítica Textual.\n\nFonética e Morfologia do Português.\n\nSintaxe e Semântica do Português.\n\nHistória da Língua Portuguesa."
+  },
+  "35b3903e22b402db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO XII — Grupo: Estudos Românicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XII — Grupo: Estudos Românicos\n\nDisciplinas\n\nIntrodução aos Estudos Literários.\n\nLiteratura Portuguesa Medieval.\n\nLiteratura Francesa Medieval.\n\nLiteratura Portuguesa Clássica.\n\nLiteratura Francesa Clássica.\n\nLiteratura Portuguesa Moderna.\n\nLiteratura Francesa Moderna.\n\nLiteratura Portuguesa Contemporânea.\n\nLiteratura Francesa Contemporânea.\n\nLiteratura Espanhola.\n\nLiteratura Italiana.\n\nLinguística Francesa.\n\nLiteratura Romena.\n\nLiteratura Tradicional e Oral.\n\nLiteraturas Românicas Comparadas.\n\nProblemas da Cultura Portuguesa.\n\nTeoria da Literatura.\n\nLinguística Românica."
+  },
+  "0249871248450c64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VIII — Grupo: Estudos Ingleses e Americanos",
+   "in_force_from": "1990-09-24",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 860/90](https://diariodarepublica.pt/dr/detalhe/portaria/860-1990-557603), publicado em 1990-09-19.",
+    "Alterado pelo/a [Portaria n.º 860/90](https://diariodarepublica.pt/dr/detalhe/portaria/860-1990-557603), publicado em 1990-09-19."
+   ],
+   "markdown": "## ANEXO VIII — Grupo: Estudos Ingleses e Americanos\n\nDisciplinas\n\nIntrodução aos Estudos Literários.\n\nTeoria da Literatura.\n\nLiteratura Inglesa Medieval.\n\nLiteratura Inglesa Isabelina.\n\nLiteratura Inglesa Moderna.\n\nLiteratura Inglesa Contemporânea.\n\nLiteratura Americana.\n\n> Alterado pelo/a [Portaria n.º 860/90](https://diariodarepublica.pt/dr/detalhe/portaria/860-1990-557603), publicado em 1990-09-19.\n\nEstudos Anglo-Portugueses.\n\nLinguística Inglesa.\n\nCultura Inglesa.\n\nCultura Americana.\n\nEstudos Americanos.\n\n> Alterado pelo/a [Portaria n.º 860/90](https://diariodarepublica.pt/dr/detalhe/portaria/860-1990-557603), publicado em 1990-09-19."
+  }
+ }
+}

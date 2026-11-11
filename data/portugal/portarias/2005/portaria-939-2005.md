@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-12-19'
+version_history:
+  file: portaria-939-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-09-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-19'
+    amending: pt:dre:483174:por
+    amending_title: Portaria n.º 1338/2009
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/939/2005/09/28/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:09:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1338/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2005/portaria-939-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,7 +135,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 1.º Pela presente portaria é criada a zona de caça municipal de Bodiosa (processo n.º 4149-DGRF), pelo período de seis anos, e transferida a sua gestão para o Clube dos Caçadores e Pescadores de Bodiosa, com o número de pessoa colectiva 506983323, com sede em Bodiosa, 3510 Viseu.
 
-2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Campo, Couto de Cima e Bodiosa, município de Viseu, com a área de 1347 ha.
+2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Bodiosa, Campo, Couto de Cima, Ribafeita e Vil Souto, município de Viseu, com a área de 1347 ha.
+
+> Alterado pelo/a [Portaria n.º 1338/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1338-2009-483174), publicado em 2009-10-22.
 
 3.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:
 

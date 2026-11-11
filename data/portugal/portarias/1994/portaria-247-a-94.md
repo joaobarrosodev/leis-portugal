@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-05-07'
+version_history:
+  file: portaria-247-a-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-04-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-05-07'
+    amending: pt:dre:513264:por
+    amending_title: Portaria n.º 383/95
+    changes:
+    - Altera Artigo unidades 22-22
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/247-a/1994/04/20/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:22:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 383/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-247-a-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,4 +167,6 @@ MAPA II
 
 Anexo a que se refere o n.º 2.º da Portaria n.º 247-A/94, de 20 de Abril
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/04/092b01/00020007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/101b00/24562458.pdf)
+
+> Alterado pelo/a [Portaria n.º 383/95](https://diariodarepublica.pt/dr/detalhe/portaria/383-1995-513264), publicado em 1995-05-02.

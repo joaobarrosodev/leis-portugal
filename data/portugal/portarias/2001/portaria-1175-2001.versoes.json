@@ -1,0 +1,87 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:621318:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-10-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9ddba8656232f279",
+    "830eb1774f0ab7fd",
+    "d5b8b49b1ea57635"
+   ]
+  },
+  {
+   "date": "2001-11-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:604843:por",
+     "title": "Portaria n.º 1286/2001",
+     "published": "2001-11-15",
+     "dre_path": "/dr/detalhe/portaria/1286-2001-604843"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 21-21",
+    "Altera Artigo unidades 28-28"
+   ],
+   "fragments": [
+    "9ddba8656232f279",
+    "7ad6ab03e43685ce",
+    "f3ea712783ea367e"
+   ]
+  }
+ ],
+ "fragments": {
+  "9ddba8656232f279": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Outubro\n\nA requerimento da Santa Casa da Misericórdia de Lisboa, entidade instituidora da Escola Superior de Saúde do Alcoitão, reconhecida oficialmente, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo ([Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto), pela [Portaria n.º 185/94](https://diariodarepublica.pt/dr/detalhe/portaria/185-1994-259680), de 31 de Março;\n\nInstruído, organizado e apreciado o processo nos termos do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nConsiderando o disposto na [Portaria n.º 1043/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2000-623026), de 27 de Outubro;\n\nAo abrigo do disposto no artigo 67.º do Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAlteração do plano de estudos\n\nOs quadros n.os 3 e 1, respectivamente dos anexos I e II da [Portaria n.º 1043/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2000-623026), de 27 de Outubro, que autorizou o funcionamento do curso bietápico de licenciatura em Fisioterapia na Escola Superior de Saúde do Alcoitão, passam a ter a redacção constante dos anexos à presente portaria.\n\n2.º\n\nAplicação\n\nO disposto na presente portaria produz efeitos a partir da data da sua publicação.\n\nPelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Estado do Ensino Superior, em 6 de Setembro de 2001."
+  },
+  "830eb1774f0ab7fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — ([Portaria n.º 1043/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2000-623026), de 27 de Outubro - alteração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ([Portaria n.º 1043/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2000-623026), de 27 de Outubro - alteração)\n\nEscola Superior de Saúde do Alcoitão\n\nCurso de Fisioterapia\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 3\n\n3.º ano\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/234b00/64036403.pdf)](https://files.diariodarepublica.pt/1s/2001/10/234b00/64036403.pdf)"
+  },
+  "d5b8b49b1ea57635": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — ([Portaria n.º 1043/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2000-623026), de 27 de Outubro - alteração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — ([Portaria n.º 1043/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2000-623026), de 27 de Outubro - alteração)\n\nEscola Superior de Saúde do Alcoitão\n\nCurso de Fisioterapia\n\n2.º ciclo - Grau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/234b00/64036403.pdf)](https://files.diariodarepublica.pt/1s/2001/10/234b00/64036403.pdf)"
+  },
+  "7ad6ab03e43685ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — ([Portaria n.º 1043/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2000-623026), de 27 de Outubro - alteração)",
+   "in_force_from": "2001-11-20",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1286/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1286-2001-604843), publicado em 2001-11-15."
+   ],
+   "markdown": "## ANEXO I — ([Portaria n.º 1043/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2000-623026), de 27 de Outubro - alteração)\n\nEscola Superior de Saúde do Alcoitão\n\nCurso de Fisioterapia\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 3\n\n3.º ano\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/73037304.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/73037304.pdf)\n\n> Alterado pelo/a [Portaria n.º 1286/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1286-2001-604843), publicado em 2001-11-15."
+  },
+  "f3ea712783ea367e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — ([Portaria n.º 1043/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2000-623026), de 27 de Outubro - alteração)",
+   "in_force_from": "2001-11-20",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1286/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1286-2001-604843), publicado em 2001-11-15."
+   ],
+   "markdown": "## ANEXO II — ([Portaria n.º 1043/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2000-623026), de 27 de Outubro - alteração)\n\nEscola Superior de Saúde do Alcoitão\n\nCurso de Fisioterapia\n\n2.º ciclo - Grau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/73037304.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/73037304.pdf)\n\n> Alterado pelo/a [Portaria n.º 1286/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1286-2001-604843), publicado em 2001-11-15."
+  }
+ }
+}

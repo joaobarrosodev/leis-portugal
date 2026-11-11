@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-01-31'
+version_history:
+  file: portaria-182-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-03-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-31'
+    amending: pt:dre:624440:por
+    amending_title: Portaria n.º 107/2005
+    changes:
+    - Altera Artigo unidades 22-23
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/182/1995/03/06/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:56:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 107/2005. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-182-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,6 +174,10 @@ Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensi
 
 ## ANEXO — Instituto Superior de Serviço Social de Lisboa
 
-Mestrado em Serviço Social
+Curso de especialização em Serviço Social
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/055b00/12271228.pdf)
+Grau de mestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/018b00/06620663.pdf)
+
+> Alterado pelo/a [Portaria n.º 107/2005](https://diariodarepublica.pt/dr/detalhe/portaria/107-2005-624440), publicado em 2005-01-26.

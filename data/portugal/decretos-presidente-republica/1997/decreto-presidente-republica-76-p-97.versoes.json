@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:189924:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-12-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c3fe716f5c2c7f18"
+   ]
+  },
+  {
+   "date": "1998-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:225377:por",
+     "title": "Declaração de Rectificação n.º 1/98",
+     "published": "1998-01-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/1-1998-225377"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-4"
+   ],
+   "fragments": [
+    "ea3df068eb1a2641"
+   ]
+  }
+ ],
+ "fragments": {
+  "c3fe716f5c2c7f18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro\n\nO Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:\n\nA pena de 16 anos de prisão resultante de revogação, por sentença proferida em 17 de Outubro de 1996, da suspensão da pena aplicada a Francisco Ricardo Guerreiro Santana, de 35 anos de idade, no processo n.º 179/94 do 2.º Juízo do Tribunal de Círculo de Portimão é revogada, por indulto, em 10 meses de prisão, por razões humanitárias.\n\nAssinado em 22 de Dezembro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Dezembro de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "ea3df068eb1a2641": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1998-01-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 1/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1998-225377), publicado em 1998-01-31."
+   ],
+   "markdown": "de 22 de Dezembro\n\nO Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:\n\nA pena de 16 meses de prisão resultante de revogação, por sentença proferida em 12 de Dezembro de 1995, da suspensão da pena aplicada a Francisco Ricardo Guerreiro Santana, de 35 anos de idade, no processo n.º 179/94 do 2.º Juízo do Tribunal de Círculo de Portimão é revogada, por indulto, em 10 meses de prisão, por razões humanitárias.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1998-225377), publicado em 1998-01-31.\n\nAssinado em 22 de Dezembro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Dezembro de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

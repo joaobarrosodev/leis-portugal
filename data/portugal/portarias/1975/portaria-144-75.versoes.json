@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:160548:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1975-03-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "59796b5d68d338d2"
+   ]
+  },
+  {
+   "date": "1978-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:434602:por",
+     "title": "Decreto Regulamentar n.º 24/78",
+     "published": "1978-07-15",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/24-1978-434602"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8"
+   ],
+   "fragments": [
+    "c6a156886258598e"
+   ]
+  }
+ ],
+ "fragments": {
+  "59796b5d68d338d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Março\n\nEm obediência aos princípios do Programa do Movimento das Forças Armadas, compete ao Governo adoptar novas providências de protecção na invalidez, na incapacidade e na velhice, em especial aos diminuídos e mutilados da guerra.\n\nDentro desta orientação institui-se, pela presente portaria, uma prestação destinada à compensação de encargos adicionais ligados à situação dos grandes inválidos que necessitam de constante assistência e cuidados especiais de outra pessoa.\n\nO suplemento de pensão atribuído aos grandes inválidos é de montante igual a 20% do salário mínimo nacional.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social:\n\n1. Os pensionistas de invalidez ou velhice com incapacidade permanente para todo e qualquer trabalho que não possam dispensar a assistência constante de terceira pessoa, abrangidos pela Caixa Nacional de Pensões, terão direito a, uma prestação mensal suplementar igual a 20% do salário mínimo nacional.\n\n2. O suplemento referido no número anterior será atribuído a requerimento dos interessados e mediante parecer da junta médica em que sejam confirmados os requisitos referidos no número anterior.\n\n3. No caso de acumulação do direito ao suplemento referido nos números anteriores com a prestação prevista na base XVIII da [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), de 3 de Agosto de 1965, ou com o complemento por cônjuge a cargo previsto no n.º 4 do artigo 80.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), apenas será atribuído o suplemento na parte que exceda o total daquelas prestações.\n\n4. A prestação estabelecida no n.º 1 não será considerada para cálculo da pensão de sobrevivência.\n\n5. O disposto na presente portaria é aplicável aos pensionistas das caixas sindicais de previdência e das caixas de previdência com entidades patronais contribuintes.\n\n6. Esta portaria produz efeitos a partir de 1 de Fevereiro de 1975.\n\nMinistério dos Assuntos Sociais, 24 de Janeiro de 1975. - O Secretário de Estado da Segurança Social, Henrique Santa Clara Gomes."
+  },
+  "c6a156886258598e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1978-07-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 24/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1978-434602), publicado em 1978-07-15."
+   ],
+   "markdown": "de 3 de Março\n\nEm obediência aos princípios do Programa do Movimento das Forças Armadas, compete ao Governo adoptar novas providências de protecção na invalidez, na incapacidade e na velhice, em especial aos diminuídos e mutilados da guerra.\n\nDentro desta orientação institui-se, pela presente portaria, uma prestação destinada à compensação de encargos adicionais ligados à situação dos grandes inválidos que necessitam de constante assistência e cuidados especiais de outra pessoa.\n\nO suplemento de pensão atribuído aos grandes inválidos é de montante igual a 20% do salário mínimo nacional.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social:\n\n1 - Os pensionistas de invalidez ou velhice com incapacidade permanente para todo e qualquer trabalho que não possam dispensar a assistência constante de terceira pessoa, abrangidos pela Caixa Nacional de Pensões, terão direito a uma prestação mensal suplementar na importância de 1000$00.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 24/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1978-434602), publicado em 1978-07-15.\n\n2. O suplemento referido no número anterior será atribuído a requerimento dos interessados e mediante parecer da junta médica em que sejam confirmados os requisitos referidos no número anterior.\n\n3. No caso de acumulação do direito ao suplemento referido nos números anteriores com a prestação prevista na base XVIII da [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), de 3 de Agosto de 1965, ou com o complemento por cônjuge a cargo previsto no n.º 4 do artigo 80.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), apenas será atribuído o suplemento na parte que exceda o total daquelas prestações.\n\n4. A prestação estabelecida no n.º 1 não será considerada para cálculo da pensão de sobrevivência.\n\n5. O disposto na presente portaria é aplicável aos pensionistas das caixas sindicais de previdência e das caixas de previdência com entidades patronais contribuintes.\n\n6. Esta portaria produz efeitos a partir de 1 de Fevereiro de 1975.\n\nMinistério dos Assuntos Sociais, 24 de Janeiro de 1975. - O Secretário de Estado da Segurança Social, Henrique Santa Clara Gomes."
+  }
+ }
+}
