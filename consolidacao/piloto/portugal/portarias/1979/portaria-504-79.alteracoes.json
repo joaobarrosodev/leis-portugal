@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Mecânico de material terrestre/sapador bombeiro (MMT/SB);",
+    "depois": "b) Mecânico de material terrestre/operador de sistemas de assistência e socorros (MMT/OPSAS);",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:369859:por",
+    "alterador": "pt:dre:392450:por"
+  }
+]

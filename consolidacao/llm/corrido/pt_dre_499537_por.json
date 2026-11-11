@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:499537:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações incidem sobre o mapa/quadro de pessoal, que só vem em imagem: alteradores 1 e 2 acrescentam lugares, 3 e 6 criam lugares, 4 (DL 167/91, art. 11.º) altera o quadro pelo mapa IX e 5 substitui o quadro.",
+  "instrucoes": [
+    "Alterador 1: acresce lugares ao quadro (imagem) e extingue três lugares: não textual.",
+    "Alterador 2: aumenta o quadro com lugares a extinguir (imagem): não aplicado.",
+    "Alterador 3: cria dois lugares no quadro: não textual.",
+    "Alterador 4: art. 11.º altera o quadro pelo mapa IX (imagem); os outros artigos não são do original: não aplicado.",
+    "Alterador 5: substitui o quadro pelo quadro anexo (imagem): não aplicado.",
+    "Alterador 6: cria um lugar de assessor principal: não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

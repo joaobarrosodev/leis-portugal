@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:661303:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 5 aprovam ou alteram planos de estudos (anexos só em imagem) e declaram a caducidade da autorização de funcionamento de cursos; nenhum altera textualmente os pontos da portaria.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1110/99): caducidade do CESE em Marketing e Relações Públicas Internacionais, findo o processo de transição; não é alteração textual: não aplicado.",
+    "Alterador 2 (Portaria 1115/99): caducidade do CESE em Gestão Industrial; não é alteração textual: não aplicado.",
+    "Alterador 3 (Portaria 1117/99): caducidade do bacharelato em Informática de Gestão; não é alteração textual: não aplicado.",
+    "Alterador 4 (Portaria 1119/99): novo plano de estudos do bacharelato em Informática de Gestão, em anexo-imagem: não aplicado.",
+    "Alterador 5 (Portaria 1171/2000): novo plano de estudos do CESE em Gestão Industrial, em anexo-imagem: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

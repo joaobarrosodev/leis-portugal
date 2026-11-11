@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:142547:por",
+  "substituicoes": [
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "O estatuto da Caixa de Previdência e Abono de Família dos Empregados Bancários deverá entrar em vigor até ao dia 1 de Julho de 1971.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1: prorroga o prazo dos trabalhos da comissão organizadora até ao fim de Maio de 1971 sem dar nova redação ao n.º 1 da base V; alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: prorrogação do prazo da comissão organizadora (base V, n.º 1) sem nova redação; não aplicada.",
+    "Alterador 1, n.º 2: nova redação da base VI (unidade 23), data passa a 1 de Julho de 1971; substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

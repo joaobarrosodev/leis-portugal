@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:430850:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "5.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 1028/83): o n.º 6.º revoga o n.º 5.º da Portaria 472/76; unidade 15 passa a 5.º - (Revogado.). O resto da portaria é regime próprio, sem alterações ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

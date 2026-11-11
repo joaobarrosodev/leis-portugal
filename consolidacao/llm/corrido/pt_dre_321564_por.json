@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:321564:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 1284/2003), 1.º: substitui o anexo (plano de estudos), cujos quadros só vêm em imagem.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do anexo; quadros só em imagem, em nao_aplicavel.",
+    "Alt. 1, 2.º e 3.º: transição e aplicação do próprio alterador; não dirigidos ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

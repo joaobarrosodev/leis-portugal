@@ -1,0 +1,84 @@
+{
+  "id": "pt:dre:577945:por",
+  "substituicoes": [
+    {
+      "de": 32,
+      "ate": 32,
+      "texto": "j) Geografia Física e Regional, com 3 áreas de especialização:\n\na) Geomorfologia;\n\nb) Climatologia;\n\nc) Geografia Regional.",
+      "alterador": 4
+    },
+    {
+      "de": 76,
+      "ate": 106,
+      "texto": "2 anos lectivos.\n\n3 - Número total de unidades de crédito necessárias à obtenção do curso: 20.\n\n4 - Áreas científicas e unidades de crédito:\n\n4.1 - Áreas científicas comuns a todas as áreas de especialização:\n\n4.1.1 - Obrigatória:\n\nProblemática da Licenciatura ... 6\n\n4.1.2 - Optativas:\n\nMetodologia Científica ... 4\n\nLinguística ... 4\n\nCultura ... 4\n\nFilosofia ... 4\n\nHistória ... 4\n\n4.2 - Áreas científicas específicas de cada área de especialização:\n\n4.2.1 - Área de especialização em Literatura Grega:\n\n4.2.1.1 - Obrigatória:\n\nLiteratura Grega ... 6\n\n4.2.1.2 - Optativas:\n\nLiteratura Grega ... 4\n\nLiteratura Latina ... 4\n\nLiteraturas Modernas ... 4\n\n4.2.2 - Área de especialização em Literatura Latina:\n\n4.2.2.1 - Obrigatória:\n\nLiteratura Latina ... 6\n\n4.2.2.2 - Optativas:\n\nLiteratura Latina ... 4\n\nLiteratura Grega ... 4\n\nLiteraturas Modernas ... 4\n\n4.2.3 - Área de especialização em Literaturas Comparadas:\n\n4.2.3.1 - Obrigatórias:\n\nLiteraturas Modernas ... 4\n\nLiteratura Grega ... 6\n\nLiteratura Latina ... 6\n\n5 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\n5.1 - Filosofia Clássica;\n\n5.2 - Línguas e Literaturas Clássicas (todas as variantes).\n\n6 - Especialidades a que se refere o n.º 10.º:\n\n6.1 - Área de especialização em Literatura Grega:\n\nLiteratura Grega.\n\n6.2 - Área de especialização em Literatura Latina:\n\nLiteratura Latina.\n\n6.3 - Área de especialização em Literaturas Comparadas:\n\nA fixar, caso a caso, pelo conselho científico face ao plano de estudos do curso seguido por cada candidato.",
+      "alterador": 2
+    },
+    {
+      "de": 111,
+      "ate": 112,
+      "texto": "2 anos lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à obtenção do curso:",
+      "alterador": 3
+    },
+    {
+      "de": 114,
+      "ate": 114,
+      "texto": "Linguística Portuguesa Histórica ... 8",
+      "alterador": 3
+    },
+    {
+      "de": 120,
+      "ate": 120,
+      "texto": "4 - Licenciaturas a que se refere o ponto 1 do n.º 5.º:",
+      "alterador": 3
+    },
+    {
+      "de": 185,
+      "ate": 185,
+      "texto": "2 anos lectivos.",
+      "alterador": 3
+    },
+    {
+      "de": 189,
+      "ate": 189,
+      "texto": "b) Literatura Francesa ... 8",
+      "alterador": 3
+    },
+    {
+      "de": 194,
+      "ate": 195,
+      "texto": "(nota a) Para cada aluno poderá ser determinado que as 4 unidades de crédito sejam obtidas na área referida na alínea (a).\n\n4 - Licenciaturas a que se refere o ponto 1 do n.º 5.º:",
+      "alterador": 3
+    },
+    {
+      "de": 242,
+      "ate": 244,
+      "texto": "a) Cultura Inglesa;\n\nb) Literatura Inglesa;\n\nc) Literatura Norte-Americana;\n\nd) Linguística Inglesa.",
+      "alterador": 1
+    },
+    {
+      "de": 252,
+      "ate": 260,
+      "texto": "3.2 - Para qualquer área de especialização as áreas e unidades de crédito necessárias à obtenção do curso são as seguintes:\n\na) História da Filosofia ... 16\n\nb) Metafísica e Antropologia ... 16\n\nc) Filosofia do Conhecimento e Epistemologia ... 16\n\nd) Filosofia da Linguagem e Lógica ... 16\n\ne) Filosofia da Cultura ... 16\n\nf) Filosofia Social e Política ... 16\n\ng) Filosofia da Cultura em Portugal ...16",
+      "alterador": 5
+    },
+    {
+      "de": 287,
+      "ate": 295,
+      "texto": "2 anos lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à obtenção do curso:\n\n3.1 - Área de especialização em Geomorfologia:\n\nGeomorfologia ... 12\n\nClimatologia ... 3\n\nGeografia Regional ... 3\n\n3.2 - Área de especialização em Climatologia:\n\nClimatologia ... 12\n\nGeomorfologia ... 3\n\nGeografia Regional ... 3\n\n3.3 - Área de especialização em Geografia Regional:\n\nGeografia Regional ... 12\n\nClimatologia ... 3\n\nGeomorfologia ... 3\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Geografia;\n\nb) Geologia.\n\n5 - Especialidades a que se refere o n.º 10.º:\n\na) Geografia Física;\n\nb) Geografia Regional.",
+      "alterador": 4
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: nova redação do n.º 5 do anexo VII - alíneas (unidades 242-244) substituídas; o proémio do n.º 5 (241) é igual.",
+    "Alt. 2: nova redação do anexo I - unidades 76-106 substituídas (72-75 iguais).",
+    "Alt. 3: nova redação dos anexos II e VI - só as unidades que mudam: 111-112, 114, 120 (anexo II); 185, 189, 194-195 (anexo VI).",
+    "Alt. 4, 1.º: nova redação da alínea j) do n.º 1.º (unidade 32) com as três áreas de especialização.",
+    "Alt. 4, 2.º: nova redação do anexo X - unidades 287-295 substituídas (283-286 iguais).",
+    "Alt. 5: nova redação do n.º 3.2 do anexo VIII (unidades 252-260); os n.os 1, 2 e 3.1 ficam ('...')."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

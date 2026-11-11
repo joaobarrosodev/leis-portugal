@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:563616:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 4 (Portarias n.os 1409/2001, 1410/2001, 1426/2001 e 155/2002) substituem os planos de estudos (quadros do anexo) das variantes Português-Francês, Português-Inglês, Educação Musical e Educação Física, e o alterador 5 (Portaria n.º 199/2003) os quadros n.os 2 e 3 da variante Educação Física; os quadros só vêm em imagem. As normas sobre semanas lectivas, transição e aplicação são autónomas.",
+  "instrucoes": [
+    "Alt. 1-4: novo plano de estudos (anexo, quadros em imagem) de cada variante - não aplicado.",
+    "Alt. 5: novos quadros n.os 2 e 3 (em imagem) do anexo da Portaria 155/2002 - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 23-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6) Submeter o relatório e contas dos exercícios de 1981 e 1982, até à extinção da empresa, bem como o inventário de todos os bens e direitos da empresa, à aprovação dos Secretários de Estado das Finanças e das Pescas, até 30 de Novembro do corrente ano;",
+    "depois": "6) Submeter o relatório e contas dos exercícios de 1981 e 1982, até à extinção da empresa, bem como o inventário de todos os bens e direitos da empresa, à aprovação dos Secretários de Estado das Finanças e das Pescas, até 30 de Novembro de 1984;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:395497:por",
+    "alterador": "pt:dre:399447:por;pt:dre:377331:por"
+  },
+  {
+    "artigo": "unidades 41-41",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Até 30 de Setembro de 1982, a comissão liquidatária apreciará as reclamações de créditos e as impugnações e publicará o mapa de todos os créditos;",
+    "depois": "a) Até 30 de Novembro de 1984, a comissão liquidatária apreciará as reclamações de créditos e impugnações e publicará o mapa de todos os créditos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:395497:por",
+    "alterador": "pt:dre:399447:por;pt:dre:377331:por"
+  },
+  {
+    "artigo": "unidades 56-56",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "g) Mantém-se em vigor o mandato conferido ao Banco Pinto & Sotto Mayor para venda de unidades da frota da SNAPA objecto da intervenção desta instituição de crédito, sem prejuízo do disposto na alínea a) do n.º 10.",
+    "depois": "g) À venda dos bens aplica-se, quanto aos seus efeitos, o regime da venda em execução, designadamente o disposto no artigo 824.º do Código Civil, na parte aplicável.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:395497:por",
+    "alterador": "pt:dre:399447:por;pt:dre:377331:por"
+  },
+  {
+    "artigo": "depois da unidade 56",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "h) Os registos referentes aos direitos reais de garantia que onerem os bens da SNAPA serão cancelados oficiosa e gratuitamente em face dos documentos que titularem a transmissão desses bens.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:395497:por",
+    "alterador": "pt:dre:399447:por;pt:dre:377331:por"
+  },
+  {
+    "artigo": "depois da unidade 72",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "20.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro de Estado e das Finanças e do Plano e pelo Ministro da Agricultura, Comércio e Pescas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:395497:por",
+    "alterador": "pt:dre:399447:por;pt:dre:377331:por"
+  }
+]

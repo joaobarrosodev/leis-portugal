@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "depois da unidade 4",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "3. No que toca à categoria de adjunto de divisão de 1.ª classe dos serviços da antiga administração ultramarina, resolveu-se fazer a sua equivalência a técnico superior de 1.ª classe e a chefe de secção, consoante tivessem, respectivamente, licenciatura ou habilitação inferior. Esta equivalência seguiu o critério utilizado na reclassificação dessa categoria efectuada pelo quadro geral de adidos, que, tendo em conta a não existência no ordenamento genérico das carreiras da Administração Pública portuguesa da categoria de adjunto de divisão de 1.ª classe, procedeu à sua reclassificação, atribuindo-lhe categorias diferentes, consoante os funcionários fossem ou não detentores de licenciatura.\n\nEste critério está de acordo com o disposto no artigo 7.º-B, n.º 1, do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, na redacção dada pelo [Decreto-Lei n.º 245/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937), de 24 de Agosto, que manda ter em conta na determinação das equivalências «os requisitos de provimento, o posicionamento na tabela de vencimentos no momento da aposentação e a transição para o actual ordenamento de carreiras».",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312865:por",
+    "alterador": "pt:dre:283151:por"
+  },
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Para efeitos do disposto no artigo 7.º-B do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, aditado pelo [Decreto-Lei n.º 245/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937), de 24 de Agosto, são aprovadas as tabelas de equivalências a que se referem os mapas I, II, III e IV da presente portaria, respectivamente sobre categorias de conservadores, notários e oficiais dos registos e do notariado, professores do ensino superior, categorias específicas da administração local e categorias da antiga administração ultramarina.",
+    "depois": "1.º Para efeitos do disposto no artigo 7.º-B do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, aditado pelo [Decreto-Lei n.º 245/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937), de 24 de Agosto, são aprovadas as tabelas de equivalências a que se referem os mapas anexos à presente portaria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312865:por",
+    "alterador": "pt:dre:283151:por"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:565431:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 571/97) muda a denominação do curso de Ciências do Desenvolvimento e Cooperação para Gestão do Desenvolvimento e Cooperação Internacional e o plano de estudos (em imagem); alteradores 2 (Portaria n.º 521/2001) e 3 (Portaria n.º 1404/2003) aprovam planos de estudos (em imagem) e regras autónomas do curso de Organização e Gestão de Empresas, que o alt. 3 renomeia Gestão. Nenhum dá nova redação ao texto da portaria.",
+  "instrucoes": [
+    "Alt. 1: mudança de denominação e plano de estudos, sem redação do texto - não aplicado.",
+    "Alt. 2: plano de estudos e regras autónomas - não aplicado.",
+    "Alt. 3: nova denominação 'Gestão', plano e regras autónomas - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

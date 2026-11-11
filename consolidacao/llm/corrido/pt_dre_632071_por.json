@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:632071:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "a) Recolher o título de trânsito sempre que tal lhes seja exigido numa barreira de portagem;",
+      "alterador": 3
+    },
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "c) Apresentar o título de trânsito, para determinação da taxa de portagem a cobrar, nas barreiras de portagem onde o pagamento lhes for exigido.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 218/2000): torna a portaria aplicável a todas as concessões; não é alteração textual: nada a fazer.",
+    "Alterador 2 (Lei 25/2006), art. 21.º, n.º 2: mantém em vigor a portaria; nada a fazer.",
+    "Alterador 3 (Portaria 793/2007): nova redação das alíneas a) e c) do 1.º; substituídas as unidades 8 e 10 (alínea b) mantém-se)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

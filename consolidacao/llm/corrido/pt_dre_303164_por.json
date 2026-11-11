@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:303164:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Coriscada e Cótimos, municípios de Meda e Trancoso, com uma área de 2709,50 ha.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 4 a 7 (Portarias 758/2004, 1033-DZ/2004, 906/2008 e 646/2010): suspensão, renovação, desanexação e anexação da zona de caça, sem nova redação do texto do original; as plantas anexas só vêm em imagem.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º (área 2906,50 ha); substituída depois pelos alteradores 2 e 3, fica só a redação final na unidade 6.",
+    "Alt. 1: aditado o n.º 1.º-A; inserido a seguir à unidade 6.",
+    "Alt. 1, 2.º: manutenção de direitos e obrigações; não é textual.",
+    "Alt. 2: nova redação do n.º 1.º (municípios de Trancoso e Meda); substituída pela do alterador 3.",
+    "Alt. 3: nova redação do n.º 1.º (2709,50 ha); aplicada à unidade 6, mantendo o número 1.º.",
+    "Alt. 4 a 7: suspensão, renovação, desanexação e anexação; não textuais, em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

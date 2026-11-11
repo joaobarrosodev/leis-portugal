@@ -1,0 +1,57 @@
+{
+  "id": "pt:dre:277093:por",
+  "substituicoes": [
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "§ único. (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 44,
+      "ate": 44,
+      "texto": "§ 5.º (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 46,
+      "ate": 48,
+      "texto": "§ 7.º (Revogado.)\n\n§ 8.º (Revogado.)\n\n§ 9.º (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 49,
+      "ate": 49,
+      "texto": "10.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 53,
+      "ate": 54,
+      "texto": "13.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 69,
+      "ate": 70,
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O quadro n.º 1 anexo é revogado só na parte referente a vencimentos, viagens e ajudas de custo, mas o quadro só existe em imagem; não aplicado. A revogação genérica das disposições que contrariem o Decreto n.º 44364 é condicional e não se aplica ao texto.",
+  "instrucoes": [
+    "Art. 23.º: revoga o § único do n.º 4.º (unidade 31), os §§ 5.º, 7.º, 8.º e 9.º do n.º 9.º (unidades 44, 46-48), os n.os 10.º (unidade 49) e 13.º (unidades 53-54, com o seu § único) e o quadro n.º 2 (unidades 69-70, fica o título); aplicado como (Revogado.).",
+    "Art. 23.º: revogação parcial do quadro n.º 1 (imagem); não aplicada.",
+    "Art. 21.º altera o Estatuto do Funcionalismo Ultramarino, não o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 31-31: parágrafo que não está no alterador nem no original: § único. (Revogado.)",
+    "substituição 44-44: parágrafo que não está no alterador nem no original: § 5.º (Revogado.)",
+    "substituição 46-48: parágrafo que não está no alterador nem no original: § 7.º (Revogado.)",
+    "substituição 46-48: parágrafo que não está no alterador nem no original: § 8.º (Revogado.)",
+    "substituição 46-48: parágrafo que não está no alterador nem no original: § 9.º (Revogado.)"
+  ]
+}

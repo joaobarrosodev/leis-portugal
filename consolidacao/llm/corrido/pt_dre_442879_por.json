@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:442879:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 255/90 (alteradores 1 e 2, o mesmo diploma) dá nova redação aos quadros II, III e IV do anexo I, que só existem em imagem (quadros no documento original); não aplicado. Os seus n.os 2.º e 3.º são disposições próprias.",
+  "instrucoes": [
+    "Alteradores 1 e 2 (Portaria 255/90), 1.º: quadros II, III e IV do anexo I substituídos por quadros em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

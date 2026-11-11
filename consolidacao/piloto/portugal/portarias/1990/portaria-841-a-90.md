@@ -1,0 +1,290 @@
+---
+id: pt:dre:336522:por
+title: Portaria n.º 841-A/90
+original: data/portugal/portarias/1990/portaria-841-a-90.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:228618:por
+    title: Portaria n.º 154-A/95
+    publication_date: '1995-02-22'
+  - id: pt:dre:624629:por
+    title: Portaria n.º 1113-A/90
+    publication_date: '1990-11-08'
+---
+
+# Portaria n.º 841-A/90
+
+de 15 de Setembro
+
+O apoio ao associativismo juvenil foi uma das prioridades que o Governo estabeleceu como meio de promoção do desenvolvimento das potencialidades dos jovens. A sua inserção social tem sido enquadrada, ao nível regulamentar, de acordo com os interesses prevalecentes dos jovens e das suas associações no desenvolvimento das suas actividades.
+
+O interesse e a participação dos jovens na vida associativa vieram exigir uma nova alteração do regulamento em vigor, à semelhança, aliás, do que já havia acontecido com a Portaria n.º 136/88, de 1 de Março. Com a aprovação da nova portaria pretende-se dar um novo passo no aperfeiçoamento nos mecanismos já instituídos, dotando assim o associativismo de meios acrescidos e potenciando o seu grau de responsabilização em face das actividades planeadas.
+
+Foi ouvido o Conselho Consultivo da Juventude, que deu o seu parecer favorável.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado da Juventude, nos termos do n.º 3 do artigo 4.º do [Decreto-Lei n.º 483/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-1988-312837), de 26 de Dezembro, o seguinte:
+
+1.º É aprovado o Regulamento para a Concessão de Apoios às Associações Juvenis, anexo à presente portaria, da qual faz parte integrante.
+
+2.º É revogada a [Portaria n.º 244/89](https://diariodarepublica.pt/dr/detalhe/portaria/244-1989-614626), de 3 de Abril.
+
+3.º Os pedidos de apoio que se encontrem pendentes à data de entrada em vigor da presente portaria serão apreciados e decididos ao abrigo do novo Regulamento, sem prejuízo de aos interessados poderem ser solicitados novos elementos para instrução dos respectivos processos, sempre que os mesmos sejam considerados necessários.
+
+Presidência do Conselho de Ministros.
+
+Assinada em 3 de Setembro de 1990.
+
+O Secretário de Estado da Juventude, Miguel Bento Martins da Costa de Macedo e Silva.
+
+## ANEXO — Regulamento para a Concessão de Apoios às Associações Juvenis
+
+1 - Objectivo e âmbito de aplicação.
+
+1.1 - O presente Regulamento define os apoios de carácter técnico e financeiro a prestar às associações inscritas no Registo Nacional de Associações Juvenis (RNAJ), assim como às entidades que desenvolvam actividades para jovens e que visem, através do associativismo, objectivos sócio-culturais, sócio-educativos, artísticos, científicos, económicos ou de intercâmbio.
+
+1.2 - As organizações partidárias e sindicais de juventude poderão beneficiar de apoios para a concretização de actividades de intercâmbio internacional através da modalidade prevista na alínea b) do n.º 1.6 do presente Regulamento.
+
+1.3 - As associações de estudantes, ainda que inscritas no RNAJ, são excluídas dos apoios previstos neste Regulamento.
+
+1.4 - O Instituto da Juventude - adiante designado por Instituto - prestará apoio técnico abrangendo as seguintes áreas:
+
+a) Formação;
+
+b) Informação e documentação;
+
+c) Assessoria jurídica;
+
+d) Planeamento, organização e avaliação de actividades.
+
+1.5 - O apoio técnico pode ainda incluir a cedência de material e equipamento, desde que os interessados adiram expressamente às condições de utilização e salvaguarda que sejam estabelecidas pelos serviços do Instituto.
+
+1.6 - Os apoios prestados pelo Instituto podem revestir as seguintes modalidades:
+
+a) Contrato-programa;
+
+b) Actividades;
+
+c) Infra-estruturas;
+
+d) Equipamentos;
+
+e) Despesas de funcionamento.
+
+> Alterado pelo/a [Portaria n.º 154-A/95](https://diariodarepublica.pt/dr/detalhe/portaria/154-a-1995-228618), publicado em 1995-02-22.
+
+2 - Contrato-programa.
+
+2.1 - O contrato-programa pode ser outorgado entre o Instituto e:
+
+a) Associações de âmbito nacional, como tal inscritas no RNAJ;
+
+b) Confederações, federações ou uniões de associações, como tal inscritas no RNAJ.
+
+2.2 - O contrato-programa requer a apresentação de um plano de actividades, devidamente formalizado, que discrimine os objectivos a atingir e as acções a desenvolver, os meios humanos, materiais e financeiros necessários, assim como a respectiva calendarização.
+
+2.3 - O contrato-programa especificará:
+
+a) Âmbito (nacional, regional ou local);
+
+b) Duração;
+
+c) Direitos e deveres das partes;
+
+d) Períodos de execução das actividades;
+
+e) Objectivos específicos das actividades contratadas;
+
+f) Tipos de apoio;
+
+g) Quantitativos financeiros suportados pelas partes;
+
+h) Estrutura de acompanhamento e de avaliação;
+
+i) Penalizações;
+
+j) Períodos e condições de revisão e ajustamento.
+
+2.3.1 - Despesas de funcionamento.
+
+2.3.2 - A modalidade «despesas de funcionamento» pode ser estabelecida com associações juvenis de âmbito nacional que celebrem contratos-programa.
+
+2.3.3 - O apoio para despesas de funcionamento não poderá exceder 20% do total do valor do apoio financeiro estabelecido no âmbito do contrato-programa a celebrar com o Instituto, tendo-se em conta as despesas com o aluguer de instalações, telefone, electricidade, água e pessoal que preste actividade regular na Associação.
+
+> Aditado pelo/a [Portaria n.º 1113-A/90](https://diariodarepublica.pt/dr/detalhe/portaria/1113-a-1990-624629), publicado em 1990-11-08.
+
+2.4 - As entidades referidas no n.º 2.1, alínea a), enviarão aos serviços centrais do Instituto, até 30 de Novembro de cada ano, o plano de actividades, devendo o contrato-programa ser celebrado até 28 de Fevereiro do ano seguinte.
+
+2.5 - As entidades referidas no n.º 2.1, alínea b), enviarão o plano de actividades através dos serviços regionais, que, após emissão de parecer, remeterão todo o processo aos serviços centrais do Instituto.
+
+3 - Actividades.
+
+3.1 - A modalidade «Actividades» pode ser estabelecida com:
+
+a) Associações de âmbito regional e local, como tal inscritas no RNAJ;
+
+b) Núcleos regionais ou locais de associações de âmbito nacional, como tal inscritas no RNAJ;
+
+c) Outras entidades de âmbito nacional, regional ou local que desenvolvam actividades de forma regular e contínua, destinadas prioritariamente a jovens;
+
+d) Organizações partidárias e sindicais de juventude, nos termos do n.º 1.2.
+
+3.2 - A referida modalidade concretiza-se através da concessão de apoios directos para a implantação, desenvolvimento ou execução de actividades concretas.
+
+3.3 - Sempre que a dimensão das actividades a desenvolver ou o número de acções o justifique, poderão ser celebrados protocolos entre os serviços centrais ou regionais do Instituto e as entidades promotoras.
+
+3.4 - As entidades referidas no n.º 3.1 devem formalizar os seus pedidos nos serviços regionais do Instituto, através de impresso próprio, até 60 dias antes da realização das acções que pretendam desenvolver.
+
+3.5 - Os serviços regionais do Instituto devem responder, por escrito, às candidaturas apresentadas até 30 dias após a sua recepção.
+
+4 - Infra-estruturas.
+
+4.1 - A modalidade «Infra-estruturas» destina-se a apoiar associações inscritas no RNAJ no que respeita à aquisição, construção, conservação ou reparação de instalações que estejam afectas, em exclusivo, às actividades da associação.
+
+4.2 - O apoio a que se refere o n.º 4.1 terá em conta o trabalho realizado pela associação e o interesse das actividades que se proponha desenvolver e poderá ser plurianual.
+
+4.3 - A candidatura das associações a esta modalidade de apoio é, em cada ano, efectuada através de um único pedido que discrimine todos os projectos, independentemente de respeitarem a estruturas nacionais, regionais ou locais.
+
+4.4 - A apresentação de candidaturas pode ser feita em uma das duas fases seguintes:
+
+a) De 1 de Janeiro a 31 de Março, devendo o Instituto responder até 31 de Maio;
+
+b) De 1 de Junho a 31 de Agosto, devendo o Instituto responder até 30 de Novembro.
+
+> Alterado pelo/a [Portaria n.º 154-A/95](https://diariodarepublica.pt/dr/detalhe/portaria/154-a-1995-228618), publicado em 1995-02-22.
+
+4.5 - Quando, por motivos orçamentais, não for possível conceder apoio a uma entidade que reúna os requisitos para tanto necessários, será a respectiva candidatura considerada no período subsequente.
+
+4.6 - As candidaturas apresentadas ao abrigo do n.º 4.1, salvo o caso de aquisição de instalações, são feitas em impresso próprio fornecido pelos serviços do Instituto e devem ser instruídas com:
+
+a) Projecto devidamente aprovado pelo órgão autárquico competente;
+
+b) Três orçamentos apresentados por entidades diferentes e de reconhecida capacidade para a execução da obra;
+
+c) Memória descritiva;
+
+d) Parecer do delegado regional do Instituto, quando se trate de associações de âmbito regional ou local;
+
+e) Documento indicativo do montante da comparticipação financeira própria.
+
+4.7 - As candidaturas de associações de âmbito nacional, como tal inscritas no RNAJ, serão apresentadas nos serviços centrais do Instituto e as de associações de âmbito regional e local, como tal inscritas no RNAJ, nos respectivos serviços regionais.
+
+5 - Critérios de apreciação.
+
+5.1 - A apreciação dos pedidos de apoio que se enquadrem na modalidade «Actividades» deve ter em conta:
+
+a) O número de jovens abrangidos pela acção;
+
+b) O tipo de acções para jovens desenvolvidas nos últimos dois anos;
+
+c) O número efectivo de jovens inscritos na associação;
+
+d) O grau de comparticipação financeira disponibilizada pela própria associação ou outras entidades;
+
+e) O envolvimento dos jovens no planeamento e orientação técnica da acção;
+
+f) As condições técnicas do local ou instalação onde decorrerá a acção;
+
+g) A qualidade e a garantia de continuidade da acção.
+
+5.2 - A apreciação dos pedidos de apoio a que se refere a modalidade «Infra-estruturas» deve ter em conta, para além dos critérios definidos no n.º 5.1:
+
+a) A participação dos jovens, em regime de trabalho voluntário, na execução das obras;
+
+b) A relevância das obras a executar para a concretização de novas actividades;
+
+c) A localização da obra;
+
+d) A carência de estruturas similares na região;
+
+e) A necessidade de conservação do património construído.
+
+5-A - Equipamentos.
+
+5-A.1 - A modalidade «Equipamentos» destina-se a apoiar associações juvenis inscritas no RNAJ com o equipamento necessário ao desenvolvimento das suas actividades, sendo o apoio financeiro concedido para aquisição de:
+
+a) Equipamento informático e de comunicações, designadamente computadores, impressoras, scaner, fax-modem e videotex;
+
+b) Equipamento para infra-estruturas juvenis, nomeadamente mobiliário, equipamento de escritório e reprográfico;
+
+c) Equipamento de suporte a actividades formativas com jovens.
+
+5-A.2 - No âmbito da modalidade «Equipamentos» não é susceptível de apoio a aquisição de:
+
+a) Material ou equipamento desportivo de qualquer natureza;
+
+b) Electrodomésticos;
+
+c) Software;
+
+d) Material consumível ou similar.
+
+5-A.3 - Os pedidos de apoio, devidamente hierarquizados, são feitos em impresso próprio, mediante a apresentação no decurso do mês de Maio de uma única candidatura, devendo o Instituto decidir até 30 de Junho.
+
+5-A.4 - As candidaturas são apresentadas nos centros de juventude, quando se tratem de associações de âmbito local ou regional, ou nos serviços centrais do Instituto, quando se tratem de associações de âmbito nacional, e devem ser instruídas com:
+
+a) Memória descritiva e justificativa do pedido;
+
+b) Três orçamentos actualizados apresentados por vendedores autorizados, identificando o equipamento, quantidades e preço unitário;
+
+c) Garantia de financiamento próprio mínimo de 40%.
+
+5-A.5 - Aos serviços regionais do Instituto compete emitir parecer sobre os pedidos das associações da respectiva região, podendo para o efeito efectuar visitas às associações e solicitar-lhes informações de modo a avaliar da necessidade e adequação do equipamento pedido.
+
+5-A.6 - No caso de aprovação do pedido, o Instituto concederá às associações um apoio financeiro até ao montante de 60% do investimento necessário à aquisição do equipamento e inferior ao valor fixado anualmente pelo conselho de administração, sendo o respectivo pagamento efectuado mediante apresentação, a título devolutivo, dos originais dos recibos relativos às despesas realizadas.
+
+5-A.7 - A apreciação dos pedidos de apoio para aquisição de equipamentos deve ter em conta:
+
+a) Antiguidade de inscrição no RNAJ;
+
+b) Número de associados;
+
+c) Comparticipação financeira da associação;
+
+d) Actividades desenvolvidas com jovens;
+
+e) Grau de carência do equipamento;
+
+f) Prioridade a pedidos de associações que ainda não tenham beneficiado de apoios para aquisição de equipamentos.
+
+5-A.8 - À modalidade «Apoio para aquisição de equipamentos» é aplicável o disposto no n.º 4.5.
+
+> Aditado pelo/a [Portaria n.º 154-A/95](https://diariodarepublica.pt/dr/detalhe/portaria/154-a-1995-228618), publicado em 1995-02-22.
+
+6 - Deveres das associações.
+
+6.1 - A associação ou entidade que tenha recebido qualquer apoio do Instituto no âmbito deste Regulamento obriga-se a:
+
+a) Aceitar a avaliação, por parte do Instituto, das actividades apoiadas;
+
+b) Desenvolver, na medida do possível, a articulação com o Instituto de actividades e acções que este promova no mesmo âmbito;
+
+c) Apresentar, até 31 de Janeiro de cada ano, relatório do qual conste a informação necessária à avaliação das acções levadas a efeito no ano anterior, sempre que tenham estabelecido contrato-programa;
+
+d) Apresentar, até 30 dias após o final da acção, relatório detalhado das actividades desenvolvidas, sempre que o seu pedido se inscreva na modalidade «Actividades»;
+
+e) Apresentar um relatório final da aplicação das verbas concedidas até 60 dias após a conclusão das obras, bem como fornecer os elementos solicitados pelo Instituto e permitir visitas de inspecção à obra, no seu decurso, quando o apoio se inscreva na modalidade «Infra-estruturas»;
+
+f) Em caso da extinção da associação ou entidade, doar as instalações adquiridas ou construídas que tenham sido objecto de apoio, após parecer favorável do Instituto, a outras associações ou entidades similares ou a qualquer entidade pública, sempre que o apoio concedido tenha sido superior a 50% do valor do património construído.
+
+6.2 - Se forem detectadas irregularidades na aplicação das verbas concedidas, nomeadamente a sua utilização para fins diferentes dos projectados ou acordados, será o precessamento das mesmas imediatamente suspenso, não podendo a associação ou entidade beneficiar de qualquer espécie de apoio do Instituto por prazo não inferior a dois anos, sem prejuízo da responsabilidade que ao caso couber.
+
+7 - Apoio financeiro para as despesas realizadas com a aquisição de personalidade jurídica.
+
+7.1 - O Instituto apoia financeiramente a totalidade das despesas efectuadas com a aquisição de personalidade jurídica das associações candidatas a inscrição no RNAJ, nos termos e para os efeitos previstos no n.º 1.1 do regulamento aprovado pela [Portaria n.º 140-A/89](https://diariodarepublica.pt/dr/detalhe/portaria/140-a-1989-251984).
+
+7.2 - O pedido de apoio a que se refere o número anterior deve ser solicitado ao Instituto até 60 dias após a publicação no Diário da República do extracto dos estatutos da associação e da acta da respectiva constituição, bem como de todos os justificativos das despesas efectuadas.
+
+8 - Deveres das entidades apoiantes.
+
+8.1 - Em Janeiro de cada ano, o Instituto remeterá ao CNJ elementos informativos respeitantes aos apoios concedidos no ano anterior a associações juvenis de âmbito nacional.
+
+8.2 - Os serviços envolvidos na concessão do apoio a que se refere o n.º 4.1 devem, no mês de Outubro de cada ano, conjuntamente com as entidades beneficiárias, proceder a eventuais acertos nas acções a desenvolver no âmbito de acordos bilaterais.
+
+8.3 - Trimestralmente, o Instituto deve remeter aos conselhos consultivos regionais mapas referentes à atribuição de apoios no respectivo distrito.
+
+O Secretário de Estado da Juventude, Miguel Bento Martins da Costa de Macedo e Silva.

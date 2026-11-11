@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:515228:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 397/75 (designação da escola de S. Torcato, extinção da Escola Preparatória de D. Francisco de Almeida, lugares acrescentados aos quadros docentes) e Portaria 371/78 (extinção da Escola Preparatória do Dr. José Leite de Vasconcelos) mexem nas escolas e quadros dos mapas n.os 1 e 2, que só vêm em imagem; não há alteração textual ao texto corrido.",
+  "instrucoes": [
+    "Alterador 1, 1.º: designação e quadros da escola de S. Torcato conforme a Portaria 664/73; não textual, não aplicado.",
+    "Alterador 1, 2.º: retifica o mapa II da Portaria 222/75 (outro diploma), ignorado.",
+    "Alterador 1, 3.º e 4.º: extinção de escola e lugares acrescentados nos quadros (mapas em imagem); não aplicado.",
+    "Alterador 2: extinção da Escola Preparatória do Dr. José Leite de Vasconcelos (mapa em imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

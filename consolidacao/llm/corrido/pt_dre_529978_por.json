@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:529978:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 585/97, 3.º: vagas acrescentadas ao mapa I anexo, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 3.º: acrescenta vagas no mapa I (imagem); não aplicado. Os 1.º, 2.º e 4.º visam outras portarias, ignorados.",
+    "Alterador 2 (Portaria 601/2005): revê os quadros distritais de vinculação do DL 223/87 (outro diploma), anexos em imagem; nada a aplicar ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

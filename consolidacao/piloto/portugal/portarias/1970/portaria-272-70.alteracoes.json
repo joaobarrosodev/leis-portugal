@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 23-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O estatuto da Caixa de Previdência e Abono de Família dos Empregados Bancários deverá entrar em vigor até ao dia 1 de Março de 1971.",
+    "depois": "O estatuto da Caixa de Previdência e Abono de Família dos Empregados Bancários deverá entrar em vigor até ao dia 1 de Julho de 1971.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:142547:por",
+    "alterador": "pt:dre:446897:por"
+  }
+]

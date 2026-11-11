@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:298054:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 prorroga o prazo do n.º 12 sem lhe dar nova redacção (não textual). Alterador 2, 3: revoga o n.º 13 só 'no que respeita ao prazo de entrega' (revogação parcial sem texto de substituição; não se pode aplicar com segurança); o seu n.º 1 é prorrogação não textual.",
+  "instrucoes": [
+    "Alterador 1, 1 e 2: prorrogação do prazo do n.º 12 até 30/11/1978 (migrantes até 31/1/1979); não textual, nada aplicado.",
+    "Alterador 2, 1: prorrogação até 30/6/1979 do prazo de entrega pelas instituições de crédito; não textual, nada aplicado.",
+    "Alterador 2, 3: revogação do n.º 13 no que respeita ao prazo de entrega; revogação parcial sem redacção, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

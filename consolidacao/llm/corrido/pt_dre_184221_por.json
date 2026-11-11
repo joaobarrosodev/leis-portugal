@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:184221:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 527/75): os novos preços máximos do n.º 1.º vêm só em imagem; os n.os 3.º, 4.º e 5.º estabelecem regime próprio sem dar nova redação aos pontos do original; o 7.º é revogação condicional (mantém o que não contrarie), que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º e 2.º: novos preços máximos em quadro só em imagem; não aplicado.",
+    "Alterador 1, 3.º a 6.º: regras próprias sobre preços, encargos e existências, sem redação nova para o original; não aplicadas.",
+    "Alterador 1, 7.º: mantém em vigor o que não contrarie; revogação condicional, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

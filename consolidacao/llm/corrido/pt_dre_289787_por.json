@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:289787:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os aditamentos, abates e criações de lugares no quadro de pessoal (Portarias 709/95, 600/96, 1354/2000, 466/2001 e 794/2004) alteram o mapa anexo I, que só existe em imagem, e não trazem texto para o original; não aplicados.",
+  "instrucoes": [
+    "Alterador 1 (709/95): acrescenta lugares ao quadro (mapa em imagem); não aplicado.",
+    "Alterador 2 (174/96): bilhetes-postais, não se dirige ao original; ignorado.",
+    "Alterador 3 (189/96): altera a Portaria n.º 948/83, não o original; ignorado.",
+    "Alterador 4 (600/96): adita e abate lugares no anexo I (mapas em imagem); não aplicado.",
+    "Alteradores 5 e 6 (1354/2000 e 466/2001): criam um lugar cada no quadro, a extinguir quando vagar, sem texto para o original; não aplicado.",
+    "Alterador 7 (794/2004): o quadro passa a integrar um coordenador técnico no grupo de informática, sem texto para o original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pt:dre:234553:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "1.º A fase inicial a que se refere o artigo 2.º do [Decreto n.º 47070](https://diariodarepublica.pt/dr/detalhe/decreto/47070-1966-475085), de 4 de Julho de 1966, terminará em 30 de Junho de 1971, começando em 1 de Julho de 1971 o período de transição a que se refere o mesmo artigo.",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "3.º Só poderão ser trocadas por cartas de condução de ciclomotores as licenças que habilitem à condução de velocípedes com motor passadas até 30 de Junho de 1971.",
+      "alterador": 1
+    },
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "c) A troca de licença de condução deverá ser requerida desde 1 de Julho de 1971 a 30 de Junho de 1972 e em conformidade com o disposto no n.º 10.º desta portaria.",
+      "alterador": 1
+    },
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "5.º Durante o período referido na alínea c) do número anterior e também em conformidade com o disposto no n.º 10.º desta portaria deverá ser requerida a matrícula como ciclomotor dos veículos que em 30 de Junho de 1971 estejam matriculados como velocípedes com motor e que, nos termos de n.º 3 do artigo 38.º do Código da Estrada, possuam características de ciclomotores:",
+      "alterador": 1
+    },
+    {
+      "de": 35,
+      "ate": 36,
+      "texto": "10.º Ouvidas as câmaras municipais, o director-geral de Transportes Terrestres poderá determinar uma ordem de entrega dos requerimentos referidos nos n.os 4.º e 5.º, ordem cuja inobservância implicará a cobrança de um adicional de 50$00 sobre as taxas referidas no n.º 9.º por cada mês ou fracção em atraso, não podendo, em qualquer caso, ser ultrapassada a data de 30 de Junho de 1972.\n\nO escalonamento referido neste número será tornado público pelas câmaras municipais pela forma prescrita no artigo 53.º do Código Administrativo.",
+      "alterador": 1
+    },
+    {
+      "de": 38,
+      "ate": 38,
+      "texto": "12.º A partir de 1 de Julho de 1972 serão apreendidos, nos termos do disposto nos n.os 1 e 5 do artigo 43.º do Código da Estrada, os veículos com características de ciclomotores que sejam encontrados a circular sem estarem matriculados como tais, salvo se, tendo sido matriculados como velocípedes com motor até 30 de Junho de 1971, se provar ter sido já requerida a sua matrícula como ciclomotor.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 310/70 1.º: nova redação dos n.os 1.º (15), 3.º (17), 4.º c) (21), 5.º corpo (22; alíneas a) e b) ficam), 10.º (35-36) e 12.º (38).",
+    "Portaria 310/70 2.º: revoga a Portaria 24502, outro diploma; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

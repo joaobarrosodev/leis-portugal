@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:555415:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 15,
+      "texto": "2.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 5.º: revogado o n.º 2.º; unidades 14-15 passam a '2.º - (Revogado.)'. Os 1.º a 4.º são disposições próprias com novos anexos (imagem), sem alteração textual do original; o 2.º e parte do 5.º visam a Portaria 145/98."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

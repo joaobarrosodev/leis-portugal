@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:370265:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "(Revogada.)",
+      "alterador": 1
+    },
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "(Revogada.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1: extinta por revogação a reserva MTL-1 - unidade 18 revogada",
+    "Alt.2 n.º 6.º: revogado o n.º 1.º quanto à reserva MRA-1 - unidade 23 revogada; restantes números da Portaria 884/2009 criam zona de caça própria, não alteram o original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:461402:por",
+  "substituicoes": [
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "7.º - (Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 4.º: mantém em vigor a Portaria 843/74 em tudo o que não contraria (revogação condicional): não aplicado ao texto.",
+    "Alterador 2, 6.º: mantém o n.º 7.º; não altera o texto.",
+    "Alterador 3, 9.º: revoga o n.º 7.º: unidade 21 passa a '7.º - (Revogado.)'. A revogação das Portarias 143/77 e 688/77 é de outros diplomas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

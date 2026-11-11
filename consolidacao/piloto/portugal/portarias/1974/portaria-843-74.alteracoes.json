@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 21-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º É consentida a venda ao público nos estabelecimentos retalhistas do ramo alimentar dos produtos referidos nesta portaria, salvo daqueles que, por decisão da Direcção-Geral de Saúde, só possam ser vendidos mediante receita médica.",
+    "depois": "7.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:461402:por",
+    "alterador": "pt:dre:630669:por"
+  }
+]

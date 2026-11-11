@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:312865:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Para efeitos do disposto no artigo 7.º-B do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, aditado pelo [Decreto-Lei n.º 245/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937), de 24 de Agosto, são aprovadas as tabelas de equivalências a que se referem os mapas anexos à presente portaria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 4,
+      "texto": "3. No que toca à categoria de adjunto de divisão de 1.ª classe dos serviços da antiga administração ultramarina, resolveu-se fazer a sua equivalência a técnico superior de 1.ª classe e a chefe de secção, consoante tivessem, respectivamente, licenciatura ou habilitação inferior. Esta equivalência seguiu o critério utilizado na reclassificação dessa categoria efectuada pelo quadro geral de adidos, que, tendo em conta a não existência no ordenamento genérico das carreiras da Administração Pública portuguesa da categoria de adjunto de divisão de 1.ª classe, procedeu à sua reclassificação, atribuindo-lhe categorias diferentes, consoante os funcionários fossem ou não detentores de licenciatura.\n\nEste critério está de acordo com o disposto no artigo 7.º-B, n.º 1, do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, na redacção dada pelo [Decreto-Lei n.º 245/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937), de 24 de Agosto, que manda ter em conta na determinação das equivalências «os requisitos de provimento, o posicionamento na tabela de vencimentos no momento da aposentação e a transição para o actual ordenamento de carreiras».",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Portaria 123/95): o 1.º fixa uma equivalência sem alterar o texto do original e o 2.º altera o mapa IV, que só vem em imagem.",
+  "instrucoes": [
+    "Alt. 1, 1.º: aditado um n.º 3 ao preâmbulo; inserido a seguir ao n.º 2 (unidade 4), com os dois parágrafos.",
+    "Alt. 1, 2.º: nova redação do n.º 1.º; substituída a unidade 8.",
+    "Alt. 2, 1.º: equivalência do adjunto de divisão de 1.ª classe; norma própria, não textual.",
+    "Alt. 2, 2.º: supressão e alteração de designação no mapa IV (imagem); em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:623210:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1, 2 e 3 alteram a delimitação das zonas vulneráveis e aprovam nova lista e cartas (anexos), que só vêm em imagem/tabela no documento original; não há alteração textual aplicável ao texto do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 833/2005): nova delimitação da zona n.º 1 e aditamento das zonas 7 e 8 à lista do anexo I, só em tabela-imagem: não aplicado.",
+    "Alterador 2 (Portaria 1433/2006): novos limites das zonas 1 e 5, em anexo-imagem: não aplicado.",
+    "Alterador 3 (Portaria 164/2010): aprova nova lista e cartas das zonas vulneráveis (anexos I e II) e une Aveiro e Mira, em anexo-imagem; não altera textualmente os pontos do original: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

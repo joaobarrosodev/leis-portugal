@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:563604:por",
+  "substituicoes": [
+    {
+      "de": 137,
+      "ate": 138,
+      "texto": "A classificação do grau de licenciado é a resultante do cálculo da expressão seguinte, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas):\n\n(3B + 2D)/5",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: nova redação do n.º 22.º (corpo e fórmula (3B + 2D)/5) - unidades 137-138 substituídas; a nova redação não traz o 'em que:' e as definições de B e D (unidades 139-141), que se mantêm por provável omissão na transcrição; epígrafe igual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:471118:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1, 2 e 4 alteram o quadro de pessoal, que só vem em imagem; o alterador 3 cria dois lugares no quadro sem dar redação a texto do original.",
+  "instrucoes": [
+    "Alterador 1: altera o quadro de pessoal (imagem): não aplicado.",
+    "Alterador 2: altera o quadro de pessoal (imagem): não aplicado.",
+    "Alterador 3: cria 1 lugar de assessor e 1 de técnico superior principal no quadro (imagem): não aplicado.",
+    "Alterador 4: altera o quadro de pessoal (imagem): não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

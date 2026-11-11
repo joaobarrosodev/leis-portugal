@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:417620:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As Portarias 100/89, 413/91 e 599/96 alteram ou substituem o quadro de pessoal anexo, que vem apenas em imagem. A Portaria 113/90 distribui lugares de parteira sem alterar o texto. O n.º 2.º da Portaria 599/96 fixa novas unidades orgânicas como disposição própria, sem mandar alterar o n.º 2.º do original, pelo que não foi aplicado ao texto.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 100/89): altera o quadro de pessoal conforme quadro anexo em imagem; não aplicado.",
+    "Alterador 2 (Portaria 113/90): distribui um lugar de parteira ao Hospital Distrital de Santarém; alteração não textual, não aplicado.",
+    "Alterador 3 (Portaria 413/91): substitui o quadro de pessoal médico por quadro anexo em imagem; não aplicado.",
+    "Alterador 4 (Portaria 599/96): 1.º substitui o quadro anexo (imagem), não aplicado; 2.º e 3.º são disposições próprias sem instrução de alteração do texto do original, não aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

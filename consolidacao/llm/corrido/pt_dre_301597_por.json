@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:301597:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Soalheira, Louriçal do Campo e São Vicente da Beira, municípios de Fundão e Castelo Branco, com a área de 1242,3075 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 a 6 (anexações de prédios e renovação da concessão, com plantas) não dão nova redacção a nenhum ponto do original; não aplicados ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 1.º; substituída a unidade 6.",
+    "Alterador 1: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alteradores 2, 3, 4 e 6: anexação de prédios rústicos; não textual, nada aplicado.",
+    "Alterador 5: renovação da concessão por 12 anos (3101 ha); não textual, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:234108:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 28,
+      "texto": "3 - Os limites a que se refere o n.º 1 podem, em situações devidamente fundamentadas, ser aumentados por despacho do Ministro da Educação exarado sobre proposta do órgão legal e estatutariamente competente do estabelecimento de ensino.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 467/99: adita n.º 3 ao n.º 2.º; inserido depois da unidade 28."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

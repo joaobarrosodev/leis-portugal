@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:206059:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Pereiro, Vaqueiros e Giões, município de Alcoutim, com uma área de 3765 ha.",
+      "alterador": 1
+    },
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à URBALGARVE II - Turismo e Construções, S. A., com o número de pessoa colectiva 501321713 e sede na Rua de Angola, lote E, loja B, Vila Real de Santo António, a zona de caça turística do Pereiro (processo n.º 743 da Direcção-Geral das Florestas).",
+      "alterador": 3
+    },
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "3.º A URBALGARVE II - Turismo e Construções, S. A., como entidade gestora da zona de caça turística concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir os respectivos planos de ordenamento e exploração cinegética e de aproveitamento turístico aprovados e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 569-C/96, 2.º: substituição da planta anexa (só em imagem). Portarias 614/2003 (suspensão da caça), 1140/2003 (renovação a outra concessionária), 61/2006, 142/2007 e 865/2008 (anexações de prédios e áreas totais): não alteram o texto do original.",
+  "instrucoes": [
+    "569-C/96 1.º: nova redação do n.º 1.º; unidade 6 substituída (alterador 1; o alterador 2 é o mesmo diploma repetido).",
+    "569-C/96 2.º: substitui a planta anexa; não textual, em nao_aplicavel.",
+    "231/99 1.º: onde se lê URBALGARVE - Imobiliária e Turismo, Lda. passa URBALGARVE II - Turismo e Construções, S. A.; aplicado nas unidades 7 e 8 (no texto está 'Imobiliário', mesma entidade).",
+    "231/99 2.º, 614/2003, 1140/2003, 61/2006, 142/2007, 865/2008: não textuais, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

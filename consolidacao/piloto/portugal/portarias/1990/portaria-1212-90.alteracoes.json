@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 137-138",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A classificação do grau de licenciado é a resultante do cálculo da expressão seguinte, arrendondada às unidades (considerando como unidade a fracção não inferior a cinco décimas):\n\n(3B + D)/4",
+    "depois": "A classificação do grau de licenciado é a resultante do cálculo da expressão seguinte, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas):\n\n(3B + 2D)/5",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:563604:por",
+    "alterador": "pt:dre:614311:por"
+  }
+]

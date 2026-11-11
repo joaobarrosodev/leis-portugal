@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:332911:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As alterações aos quadros de pessoal (Decreto Regulamentar n.º 35/91, Portaria n.º 251/93, Despacho Normativo n.º 225/93, Portaria n.º 146/95, Portaria n.º 177/96) incidem sobre os mapas, que só vêm em imagem, ou criam lugares sem alterar o texto da portaria.",
+  "instrucoes": [
+    "DR 35/91: transição de funcionários para carreiras de nível 4 (mapas em imagem); não textual; não aplicado.",
+    "Portaria 251/93, 2.º: altera o mapa do ISCSP (mapa VI em imagem); não aplicado.",
+    "Despacho Normativo 225/93: cria um lugar no quadro do ISEG; não textual; não aplicado.",
+    "Portaria 146/95: cria um lugar no quadro do ISA; não textual; não aplicado.",
+    "Portaria 177/96: cria um lugar no quadro do IST; não textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

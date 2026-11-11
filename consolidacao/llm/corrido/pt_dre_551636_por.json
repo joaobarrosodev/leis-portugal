@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:551636:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 substitui o plano de estudos de Engenharia Química Industrial (anexo II), que só existe em imagem. Os alteradores 2 a 5 aprovam planos de cursos bietápicos autorizados por outra portaria (457-A/98) e declaram a caducidade de autorizações de cursos do original, o que não é alteração textual. Nada aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos de Engenharia Química Industrial; só em imagem, não aplicado.",
+    "Alterador 2, 3.º: caducidade da autorização do bacharelato e do CESE em Gestão e Contabilidade; não textual, não aplicado. 1.º e 2.º: normas próprias.",
+    "Alterador 3, art. 3.º: caducidade da autorização do bacharelato em Relações Públicas e Publicidade e do CESE em Relações Públicas e Internacionais; não textual, não aplicado.",
+    "Alterador 4, 3.º: caducidade da autorização do bacharelato em Relações Internacionais e do CESE em Relações Públicas e Internacionais; não textual, não aplicado.",
+    "Alterador 5, 3.º: caducidade da autorização do bacharelato em Línguas e Secretariado e do CESE em Relações Públicas e Internacionais; não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

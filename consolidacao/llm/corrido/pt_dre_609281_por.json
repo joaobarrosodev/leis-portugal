@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:609281:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 620-B/2008) extingue o Serviço de Finanças de Lisboa 5 e alterador 2 (Portaria n.º 599/2009) fixa nova divisão em 11 serviços de finanças por mapa próprio (em imagem) e extingue os Serviços 6 e 13: são normas próprias, sem instrução de alteração textual do original (não dão nova redacção ao n.º 1.º nem ao mapa, que só vem em imagem).",
+  "instrucoes": [
+    "Alterador 1, 1.º a 7.º: extinção do Serviço de Finanças de Lisboa 5 e regras sobre pessoal - normas próprias, nada a mudar no texto.",
+    "Alterador 2, 1.º: o concelho de Lisboa divide-se em 11 serviços de finanças (mapa em imagem) - norma própria, não aplicado ao n.º 1.º do original.",
+    "Alterador 2, 2.º a 8.º: extinção dos Serviços 6 e 13, pessoal, redesignação de serviços - normas próprias, nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:370260:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 895-A/94): o 2.º redefine a zona ALC-1 (passa a incluir CDR-3 e ALC-1 com outra área) e o 3.º retifica a área da CDR-1 para cerca de 130 ha, sem nova redação do texto; alterador 2 (Portaria 561/98) extingue a reserva TVD-1 e alterador 3 (Portaria 850/2010) extingue as reservas PNC 1 e PNC 2 (esta parte de uma zona conjunta), sem revogar texto do original.",
+  "instrucoes": [
+    "Alt. 1, 1.º: reserva CHV-1 da Portaria 725-A/93; não é do original.",
+    "Alt. 1, 2.º e 3.º: retificações de localização e área de ALC-1 e CDR-1 sem redação; em nao_aplicavel.",
+    "Alt. 1, 4.º a 7.º: normas próprias do alterador.",
+    "Alt. 2, 2.º: extinção da reserva TVD-1; em nao_aplicavel.",
+    "Alt. 3, art. 3.º: extinção das reservas PNC 1 e PNC 2; em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

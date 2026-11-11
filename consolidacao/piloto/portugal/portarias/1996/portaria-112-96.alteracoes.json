@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 14-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º\n\nOs cursos criados pela presente portaria são ministrados por unidades capitalizáveis, de acordo com os planos de estudo que constam dos mapas I, II, III e IV anexos ao presente diploma e que dele fazem parte integrante.",
+    "depois": "2.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:555415:por",
+    "alterador": "pt:dre:270438:por"
+  }
+]

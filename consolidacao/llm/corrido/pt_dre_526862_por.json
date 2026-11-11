@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:526862:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As Portarias 24/95, 124/95 e 258/96 substituem ou acrescentam o quadro de pessoal (anexo I), que só vem em imagem. Os n.os 2.º e 3.º e os anexos I e II da Portaria 258/96 são disposições próprias dessa portaria, sem instrução textual expressa de alteração dos n.os 2.º, 3.º ou do anexo II da Portaria 390/92; não aplicados.",
+  "instrucoes": [
+    "Alterador 1: substitui o quadro na área de radionuclear (imagem); não aplicado.",
+    "Alterador 2: cria a carreira de investigação científica no quadro (imagem); não aplicado.",
+    "Alterador 3, 1.º: substitui o quadro de pessoal (imagem); não aplicado. 2.º e 3.º: unidades orgânicas e conteúdos funcionais em anexos próprios, sem alteração textual expressa do original; não aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

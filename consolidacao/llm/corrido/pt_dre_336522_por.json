@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:336522:por",
+  "substituicoes": [
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "d) Equipamentos;\n\ne) Despesas de funcionamento.",
+      "alterador": 2
+    },
+    {
+      "de": 64,
+      "ate": 64,
+      "texto": "b) De 1 de Junho a 31 de Agosto, devendo o Instituto responder até 30 de Novembro.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 45,
+      "texto": "2.3.1 - Despesas de funcionamento.\n\n2.3.2 - A modalidade «despesas de funcionamento» pode ser estabelecida com associações juvenis de âmbito nacional que celebrem contratos-programa.\n\n2.3.3 - O apoio para despesas de funcionamento não poderá exceder 20% do total do valor do apoio financeiro estabelecido no âmbito do contrato-programa a celebrar com o Instituto, tendo-se em conta as despesas com o aluguer de instalações, telefone, electricidade, água e pessoal que preste actividade regular na Associação.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 87,
+      "texto": "5-A - Equipamentos.\n\n5-A.1 - A modalidade «Equipamentos» destina-se a apoiar associações juvenis inscritas no RNAJ com o equipamento necessário ao desenvolvimento das suas actividades, sendo o apoio financeiro concedido para aquisição de:\n\na) Equipamento informático e de comunicações, designadamente computadores, impressoras, scaner, fax-modem e videotex;\n\nb) Equipamento para infra-estruturas juvenis, nomeadamente mobiliário, equipamento de escritório e reprográfico;\n\nc) Equipamento de suporte a actividades formativas com jovens.\n\n5-A.2 - No âmbito da modalidade «Equipamentos» não é susceptível de apoio a aquisição de:\n\na) Material ou equipamento desportivo de qualquer natureza;\n\nb) Electrodomésticos;\n\nc) Software;\n\nd) Material consumível ou similar.\n\n5-A.3 - Os pedidos de apoio, devidamente hierarquizados, são feitos em impresso próprio, mediante a apresentação no decurso do mês de Maio de uma única candidatura, devendo o Instituto decidir até 30 de Junho.\n\n5-A.4 - As candidaturas são apresentadas nos centros de juventude, quando se tratem de associações de âmbito local ou regional, ou nos serviços centrais do Instituto, quando se tratem de associações de âmbito nacional, e devem ser instruídas com:\n\na) Memória descritiva e justificativa do pedido;\n\nb) Três orçamentos actualizados apresentados por vendedores autorizados, identificando o equipamento, quantidades e preço unitário;\n\nc) Garantia de financiamento próprio mínimo de 40%.\n\n5-A.5 - Aos serviços regionais do Instituto compete emitir parecer sobre os pedidos das associações da respectiva região, podendo para o efeito efectuar visitas às associações e solicitar-lhes informações de modo a avaliar da necessidade e adequação do equipamento pedido.\n\n5-A.6 - No caso de aprovação do pedido, o Instituto concederá às associações um apoio financeiro até ao montante de 60% do investimento necessário à aquisição do equipamento e inferior ao valor fixado anualmente pelo conselho de administração, sendo o respectivo pagamento efectuado mediante apresentação, a título devolutivo, dos originais dos recibos relativos às despesas realizadas.\n\n5-A.7 - A apreciação dos pedidos de apoio para aquisição de equipamentos deve ter em conta:\n\na) Antiguidade de inscrição no RNAJ;\n\nb) Número de associados;\n\nc) Comparticipação financeira da associação;\n\nd) Actividades desenvolvidas com jovens;\n\ne) Grau de carência do equipamento;\n\nf) Prioridade a pedidos de associações que ainda não tenham beneficiado de apoios para aquisição de equipamentos.\n\n5-A.8 - À modalidade «Apoio para aquisição de equipamentos» é aplicável o disposto no n.º 4.5.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Portaria n.º 354/96, 4.º: mantém em vigor as Portarias n.os 841-A/90, 1113-A/90 e 154-A/95 só até 31 de Dezembro de 1996 (cessação de vigência por norma transitória, sem revogação expressa nem alteração textual); não aplicado ao texto.",
+  "instrucoes": [
+    "Portaria 1113-A/90, artigo único: aditados os pontos 2.3.1 a 2.3.3; inseridos a seguir à alínea j) do n.º 2.3 (unidade 45).",
+    "Portaria 154-A/95, 1.º: n.º 1.6 com nova alínea d) Equipamentos e antiga d) passa a e) (unidade 29); n.º 4.4, alínea b) nova redação (unidade 64).",
+    "Portaria 154-A/95, 2.º: aditado o n.º 5-A, inserido depois do n.º 5 (unidade 87).",
+    "Portaria 354/96: novo Regulamento do PAAJ e vigência das portarias anteriores até 31-12-1996; não textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

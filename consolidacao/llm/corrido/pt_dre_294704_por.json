@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:294704:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º - 1 - Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Sabacheira, município de Tomar, com uma área de 1861,3440 ha.\n\n2 - Exceptuam-se os prédios delimitados na planta, que substitui a anexa à [Portaria n.º 569-G/96](https://diariodarepublica.pt/dr/detalhe/portaria/569-g-1996-534407), os quais constituem enclaves e correspondem aos identificados na lista apensa ao presente diploma e aos já identificados na lista apensa à portaria acima referida.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "As plantas anexas substituídas (Portarias 569-G/96, 693-F/96 e 137/2007) e as listas de prédios desanexados só existem em imagem; a suspensão da actividade cinegética (983/97) e a renovação com anexação de prédios (137/2007) não são alterações textuais do original.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (1864,4880 ha) e substituição da planta; o n.º 1.º foi de novo substituído pelo alterador 2, fica só a redação final na unidade 6.",
+    "Alterador 2: nova redação do n.º 1.º, com n.os 1 e 2 (1861,3440 ha e enclaves), aplicada na unidade 6.",
+    "Alterador 3: suspensão da actividade cinegética por 180 dias, sem instrução textual; não aplicado.",
+    "Alterador 4: renovação da concessão e anexação de prédios (2195 ha), sem instrução textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

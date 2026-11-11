@@ -1,0 +1,52 @@
+{
+  "id": "pt:dre:355687:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "b) As acções do tipo B são nominativas ou ao portador em regime de registo, podendo delas ser titulares entidades públicas ou privadas.",
+      "alterador": 1
+    },
+    {
+      "de": 19,
+      "ate": 19,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "2 - As acções a que se referem as alíneas a) e b) do número anterior não podem ser transaccionadas durante um período de dois anos.",
+      "alterador": 1
+    },
+    {
+      "de": 63,
+      "ate": 63,
+      "texto": "b) As acções do tipo B são nominativas ou ao portador em regime de registo, podendo delas ser titulares entidades públicas ou privadas.",
+      "alterador": 1
+    },
+    {
+      "de": 67,
+      "ate": 69,
+      "texto": "3 - As acções são livremente transferíveis entre as entidades a quem puderem pertencer.\n\n4 - No caso de transmissão para entidades privadas, nos termos da lei, de acções detidas pelo Estado, os outros accionistas poderão gozar, com respeito a tal transmissão, de direito de preferência na proporção do número de acções de cada um, sem prejuízo das disposições legais que reservem para certas categorias de adquirentes uma percentagem das acções a alienar.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 29,
+      "texto": "6 - O preço de emissão de acções representativas de qualquer aumento de capital, no âmbito do artigo 9.º da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, poderá ser o que resultar de leilão competitivo realizado em bolsa de valores, nos mesmos termos da alienação de acções.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "DL n.º 170-B/90, art. 11.º: reduz para um ano o prazo do n.º 2 do artigo 6.º, sem dar nova redação ao texto (alteração não textual); não aplicado.",
+  "instrucoes": [
+    "DL 191-A/89, art. 1.º: art. 5.º com nova redação: n.º 1, alínea b) alterada (unidade 15); n.º 2 fica; o n.º 3 não consta da nova redação e é eliminado (unidade 19).",
+    "DL 191-A/89, art. 1.º: art. 6.º, n.º 2 nova redação (unidade 26); n.os 3 a 5 ficam; novo n.º 6 inserido depois da unidade 29.",
+    "DL 191-A/89, art. 2.º: art. 4.º dos estatutos: n.º 1, alínea b) nova redação (unidade 63); antigo n.º 3 eliminado e antigos n.os 4 e 5 passam a 3 e 4 com o texto do alterador (unidades 67-69).",
+    "DL 170-B/90, art. 11.º: redução do prazo do n.º 2 do art. 6.º para um ano; não textual; não aplicado. Restantes artigos do DL 170-B/90 são normas próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

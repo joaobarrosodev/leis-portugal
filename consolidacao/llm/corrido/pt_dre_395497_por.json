@@ -1,0 +1,48 @@
+{
+  "id": "pt:dre:395497:por",
+  "substituicoes": [
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "6) Submeter o relatório e contas dos exercícios de 1981 e 1982, até à extinção da empresa, bem como o inventário de todos os bens e direitos da empresa, à aprovação dos Secretários de Estado das Finanças e das Pescas, até 30 de Novembro de 1984;",
+      "alterador": 3
+    },
+    {
+      "de": 41,
+      "ate": 41,
+      "texto": "a) Até 30 de Novembro de 1984, a comissão liquidatária apreciará as reclamações de créditos e impugnações e publicará o mapa de todos os créditos.",
+      "alterador": 3
+    },
+    {
+      "de": 56,
+      "ate": 56,
+      "texto": "g) À venda dos bens aplica-se, quanto aos seus efeitos, o regime da venda em execução, designadamente o disposto no artigo 824.º do Código Civil, na parte aplicável.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 56,
+      "texto": "h) Os registos referentes aos direitos reais de garantia que onerem os bens da SNAPA serão cancelados oficiosa e gratuitamente em face dos documentos que titularem a transmissão desses bens.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 72,
+      "texto": "20.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro de Estado e das Finanças e do Plano e pelo Ministro da Agricultura, Comércio e Pescas.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 2, 1.º e 2.º (cessação do mandato do BPSM e sucessão do Estado nos créditos) e alterador 4 (DL 161/89, arts. 3.º e 4.º: referências à comissão liquidatária entendidas como feitas ao administrador liquidatário; superintendência do Ministro das Finanças) não alteram o texto. As prorrogações intermédias pelas Portarias 238/83 e 869/83 não vêm no pedido; ficou o prazo final do alterador 3.",
+  "instrucoes": [
+    "Alt. 1: nova redação da alínea a) do n.º 11.º (unidade 41), depois alterada no prazo pelo alt. 3; fica a redação do alt. 1 com a data do alt. 3.",
+    "Alt. 2, 3.º: nova redação da alínea g) do n.º 13.º (unidade 56) aplicada.",
+    "Alt. 2, 4.º: aditada a alínea h) ao n.º 13.º, depois da unidade 56.",
+    "Alt. 2, 5.º: aditado o n.º 20.º, depois do 19.º (unidade 72).",
+    "Alt. 2, 1.º e 2.º: normas próprias, não textuais; não aplicadas.",
+    "Alt. 3: prazos do n.º 6) da alínea b) do n.º 5.º (unidade 23) e da alínea a) do n.º 11.º (unidade 41) alterados para 30 de Novembro de 1984.",
+    "Alt. 4, arts. 3.º e 4.º: regra interpretativa de referências e superintendência, não textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

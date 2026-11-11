@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:503633:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (DL 51/97), art. 15.º, a): revoga 'todas as disposições do regulamento ... respeitantes a agulhas magnéticas ou electromagnéticas e suas bitáculas'. É uma revogação por matéria, sem indicar artigos; o alvo exato (que artigos e que partes de artigos mistos, como os arts. 1.º, 3.º, 26.º e 27.º do regulamento) é ambíguo, por isso não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, art. 15.º, a): revogação das disposições do regulamento sobre agulhas magnéticas: alvo ambíguo, não aplicada. As alíneas b) e c) revogam outros diplomas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

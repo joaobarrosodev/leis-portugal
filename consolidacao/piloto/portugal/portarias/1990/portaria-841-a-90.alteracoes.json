@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 29-29",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Despesas de funcionamento.",
+    "depois": "d) Equipamentos;\n\ne) Despesas de funcionamento.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:336522:por",
+    "alterador": "pt:dre:228618:por;pt:dre:624629:por"
+  },
+  {
+    "artigo": "depois da unidade 45",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "2.3.1 - Despesas de funcionamento.\n\n2.3.2 - A modalidade «despesas de funcionamento» pode ser estabelecida com associações juvenis de âmbito nacional que celebrem contratos-programa.\n\n2.3.3 - O apoio para despesas de funcionamento não poderá exceder 20% do total do valor do apoio financeiro estabelecido no âmbito do contrato-programa a celebrar com o Instituto, tendo-se em conta as despesas com o aluguer de instalações, telefone, electricidade, água e pessoal que preste actividade regular na Associação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:336522:por",
+    "alterador": "pt:dre:228618:por;pt:dre:624629:por"
+  },
+  {
+    "artigo": "unidades 64-64",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) De 1 de Junho a 30 de Setembro, devendo o Instituto responder até 30 de Novembro.",
+    "depois": "b) De 1 de Junho a 31 de Agosto, devendo o Instituto responder até 30 de Novembro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:336522:por",
+    "alterador": "pt:dre:228618:por;pt:dre:624629:por"
+  },
+  {
+    "artigo": "depois da unidade 87",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "5-A - Equipamentos.\n\n5-A.1 - A modalidade «Equipamentos» destina-se a apoiar associações juvenis inscritas no RNAJ com o equipamento necessário ao desenvolvimento das suas actividades, sendo o apoio financeiro concedido para aquisição de:\n\na) Equipamento informático e de comunicações, designadamente computadores, impressoras, scaner, fax-modem e videotex;\n\nb) Equipamento para infra-estruturas juvenis, nomeadamente mobiliário, equipamento de escritório e reprográfico;\n\nc) Equipamento de suporte a actividades formativas com jovens.\n\n5-A.2 - No âmbito da modalidade «Equipamentos» não é susceptível de apoio a aquisição de:\n\na) Material ou equipamento desportivo de qualquer natureza;\n\nb) Electrodomésticos;\n\nc) Software;\n\nd) Material consumível ou similar.\n\n5-A.3 - Os pedidos de apoio, devidamente hierarquizados, são feitos em impresso próprio, mediante a apresentação no decurso do mês de Maio de uma única candidatura, devendo o Instituto decidir até 30 de Junho.\n\n5-A.4 - As candidaturas são apresentadas nos centros de juventude, quando se tratem de associações de âmbito local ou regional, ou nos serviços centrais do Instituto, quando se tratem de associações de âmbito nacional, e devem ser instruídas com:\n\na) Memória descritiva e justificativa do pedido;\n\nb) Três orçamentos actualizados apresentados por vendedores autorizados, identificando o equipamento, quantidades e preço unitário;\n\nc) Garantia de financiamento próprio mínimo de 40%.\n\n5-A.5 - Aos serviços regionais do Instituto compete emitir parecer sobre os pedidos das associações da respectiva região, podendo para o efeito efectuar visitas às associações e solicitar-lhes informações de modo a avaliar da necessidade e adequação do equipamento pedido.\n\n5-A.6 - No caso de aprovação do pedido, o Instituto concederá às associações um apoio financeiro até ao montante de 60% do investimento necessário à aquisição do equipamento e inferior ao valor fixado anualmente pelo conselho de administração, sendo o respectivo pagamento efectuado mediante apresentação, a título devolutivo, dos originais dos recibos relativos às despesas realizadas.\n\n5-A.7 - A apreciação dos pedidos de apoio para aquisição de equipamentos deve ter em conta:\n\na) Antiguidade de inscrição no RNAJ;\n\nb) Número de associados;\n\nc) Comparticipação financeira da associação;\n\nd) Actividades desenvolvidas com jovens;\n\ne) Grau de carência do equipamento;\n\nf) Prioridade a pedidos de associações que ainda não tenham beneficiado de apoios para aquisição de equipamentos.\n\n5-A.8 - À modalidade «Apoio para aquisição de equipamentos» é aplicável o disposto no n.º 4.5.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:336522:por",
+    "alterador": "pt:dre:228618:por;pt:dre:624629:por"
+  }
+]

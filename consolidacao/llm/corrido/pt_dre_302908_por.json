@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:302908:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Alcanede, município de Santarém, com a área de 1531,2520 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 2, n.º 2.º: o n.º 6.º passa a obrigar a manter um só guarda florestal auxiliar, mas sem nova redação textual; não aplicado. A planta anexa só existe em imagem. As suspensões (993-E/97, 815/99) e a extinção da concessão (56/2000) não são alterações textuais do original.",
+  "instrucoes": [
+    "Alterador 1: suspensão da actividade cinegética por 180 dias, sem instrução textual; não aplicado.",
+    "Alterador 2, n.º 1.º: nova redação do n.º 1.º (1531,2520 ha) aplicada na unidade 6; aditado o n.º 1.º-A (a instrução diz 'Portaria n.º 572/72', gralha pela 572/92 no mesmo diploma) a seguir à unidade 6.",
+    "Alterador 2, n.º 2.º: redução para um guarda no n.º 6.º sem texto novo; não aplicado. N.º 3.º revoga a Portaria 993-E/97, não o original.",
+    "Alterador 3: suspensão da exploração cinegética, sem instrução textual; não aplicado.",
+    "Alterador 4: extinção da concessão, não revoga o texto do original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

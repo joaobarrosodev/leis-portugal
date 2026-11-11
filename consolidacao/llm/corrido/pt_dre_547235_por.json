@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:547235:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 5 substituem planos de estudos do anexo (Gestão de Empresas; Gestão de Recursos Humanos), que só existem em imagem; o alterador 5 altera o anexo da Portaria n.º 1190/2000, outro diploma. A mudança de designação do curso de Gestão de Recursos Humanos e Psicologia do Trabalho (alterador 2, 1.º) não é uma alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos de Gestão de Empresas; só em imagem, não aplicado.",
+    "Alterador 2, 1.º: mudança de designação do curso; não textual, não aplicada. 2.º: novo anexo, só em imagem, não aplicado.",
+    "Alterador 3, 1.º: novo plano de Gestão de Empresas; só em imagem, não aplicado. Restantes pontos: normas próprias.",
+    "Alterador 4, 1.º: novo plano de Gestão de Recursos Humanos e Organização Estratégica; só em imagem, não aplicado. Restantes pontos: normas próprias.",
+    "Alterador 5, 1.º: altera o anexo da Portaria n.º 1190/2000, outro diploma; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

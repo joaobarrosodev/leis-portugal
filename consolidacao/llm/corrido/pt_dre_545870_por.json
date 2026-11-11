@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:545870:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 11,
+      "texto": "6.º É interditada a caça nas áreas ardidas e numa faixa envolvente de 1000 m de largura das freguesias constantes do anexo III à presente portaria e que desta faz parte integrante.\n\n7.º Excepciona-se na faixa envolvente às áreas ardidas, referida no número anterior, a caça à galinha d'água, patos e galeirão (aves aquáticas), pombos, tordos, estorninho-malhado, narceja, tarambola-dourada e galinhola (migradoras de Inverno), constantes do quadro único do anexo I da presente portaria e que desta faz parte integrante, e a caça ao javali, corço, gamo, veado e muflão (caça maior), constantes do quadro único do anexo II da presente portaria e que desta faz parte integrante.",
+      "alterador": 4
+    },
+    {
+      "depois_de": 20,
+      "texto": "## ANEXO III\n\nNa época venatória 2003-2004 está interditada a caça nas freguesias constantes do quadro seguinte:\n\nQuadro único\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/204b00/58655867.pdf)",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "Portaria 706/2003 (período do coelho-bravo no quadro do anexo II), Portaria 1163/2003, 3.º (freguesias aditadas ao quadro do anexo III) e Portaria 1225/2003 (freguesias de Mafra e Cadaval no quadro do anexo III): os quadros só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1: troca de período no quadro do anexo II (imagem); não aplicado.",
+    "Alterador 2: adita o n.º 6.º e o anexo III; revogado depois pelo alterador 3, e o n.º 6.º volta a ser aditado pelo alterador 4.",
+    "Alterador 3: nova redação do anexo III; inserido depois da unidade 20 (quadro em imagem, só a ligação). Revoga a Portaria 847/2003 (alterador 2).",
+    "Alterador 4: adita os n.os 6.º e 7.º; inseridos depois da unidade 11. O 3.º adita freguesias ao quadro do anexo III (imagem); não aplicado.",
+    "Alterador 5: altera o quadro do anexo III (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

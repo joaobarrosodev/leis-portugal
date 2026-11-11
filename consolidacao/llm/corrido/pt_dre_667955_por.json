@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:667955:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 alteram/aumentam o quadro de pessoal do mapa anexo, que só vem em imagem; não há alteração textual aplicável.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 888/84): altera o quadro de pessoal segundo mapa em imagem: não aplicado.",
+    "Alterador 2 (Portaria 898/84): aumenta o quadro de um lugar, segundo mapa em imagem: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

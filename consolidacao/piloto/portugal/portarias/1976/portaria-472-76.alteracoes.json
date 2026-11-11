@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º Os preços de venda a cálice de bebidas espirituosas e licorosas a praticar em todos os estabelecimentos hoteleiros e similares de e sem interesse para o turismo serão calculados de acordo com os factores constantes de tabelas fixadas pelas Direcções-Gerais do Turismo e do Comércio Alimentar.",
+    "depois": "5.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430850:por",
+    "alterador": "pt:dre:443152:por"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:287461:por",
+  "substituicoes": [
+    {
+      "de": 19,
+      "ate": 23,
+      "texto": "2.º\n\nCondições de adjudicação das obras\n\n1 - O financiamento das obras fica dependente da adjudicação das mesmas por concurso público, concurso limitado, concurso por negociação ou ajuste directo, nos termos do regime jurídico das empreitadas de obras públicas.\n\n2 - O recurso ao ajuste directo deverá ser precedido de consulta a, pelo menos, três entidades.\n\n3 - As obras poderão ser realizadas, a título excepcional, por administração directa se por esta forma forem significativamente reduzidos os respectivos custos, sem prejuízo das condições técnicas exigíveis e desde que supervisionadas por entidade tecnicamente idónea.\n\n4 - A adjudicação das obras nos termos dos n.os 2 e 3 será devidamente fundamentada pelo órgão competente da instituição e carece de parecer favorável do centro regional de segurança social.\n\n5 - As obras não poderão, em qualquer caso, ser adjudicadas a entidade a que qualquer dirigente da instituição esteja ligado por laços familiares ou nela detenha interesses.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação da alínea a) do n.º 2.º; depois substituída pela nova redação integral do n.º 2.º do alterador 2, fica só a redação final.",
+    "Alterador 2, n.º 2.º: nova redação integral do n.º 2.º (unidades 19-23) aplicada.",
+    "Alterador 2, n.º 1.º: repristina a Portaria 138/88 (revogação da Portaria 499/95); sem mudança de texto. N.os 3.º e 4.º são normas autónomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

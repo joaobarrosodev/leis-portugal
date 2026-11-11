@@ -1,0 +1,47 @@
+{
+  "id": "pt:dre:189938:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "a) (Revogada.)",
+      "alterador": 1
+    },
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "b) (Revogada.)",
+      "alterador": 2
+    },
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "c) (Revogada.)",
+      "alterador": 4
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "d) (Revogada.)",
+      "alterador": 3
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "e) (Revogada.)",
+      "alterador": 5
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 4 (Portaria n.º 1282/2006), 7.º, alínea b): revoga 'as restantes portarias mencionadas no n.º 5.º', o que à letra abrange a Portaria n.º 267/92 por inteiro; como a Portaria n.º 1299/2006 (alterador 5) a trata depois como em vigor e a revoga só em parte, apliquei só a revogação da alínea c) (técnico de comunicação/edição gráfica). Os planos de estudos anexos vêm só em imagem.",
+  "instrucoes": [
+    "Alterador 1, 6.º: extingue o curso de técnico de mecânica/manutenção industrial e revoga a portaria nessa parte; alínea a) revogada.",
+    "Alterador 2, 6.º: extingue o curso de técnico de controlo de qualidade alimentar e revoga parcialmente a portaria; alínea b) revogada.",
+    "Alterador 3, 5.º e 7.º a): extingue técnico de comunicação/técnicas jornalísticas e revoga a portaria nessa parte; alínea d) revogada.",
+    "Alterador 4, 5.º e 7.º b): extingue técnico de comunicação/edição gráfica; alínea c) revogada (ver nao_aplicavel sobre a revogação total à letra).",
+    "Alterador 5, 5.º e 7.º: extingue técnico de comunicação/técnicas audiovisuais e revoga a portaria nessa parte; alínea e) revogada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:588257:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 232/2001): substitui o plano de estudos de Engenharia Mecatrónica (anexo), que só vem em imagem. Alterador 2 (Despacho n.º 16843/2003): declara o encerramento do Instituto e a cessação do curso, sem alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos (quadros em imagem) - não aplicado.",
+    "Alterador 1, 2.º a 5.º: semestre lectivo, número de alunos, transição, aplicação - normas próprias, nada a mudar.",
+    "Alterador 2: encerramento do Instituto e cessação do curso - não é alteração textual, nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

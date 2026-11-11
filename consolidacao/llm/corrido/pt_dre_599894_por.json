@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:599894:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1, 2, 5 e 6 (Portarias n.os 916/95, 1131/95, 636/96 e 983/98) alteram ou substituem o quadro de pessoal do anexo I, que só vem em imagem. Os n.os 2.º das Portarias n.os 1131/95 e 983/98 e o 3.º da Portaria n.º 983/98 são normas próprias com os seus anexos (unidades orgânicas e conteúdo funcional), não substituição textual dos anexos II e III do original. Alteradores 3 e 4 (Portaria n.º 428/96, repetida) criam lugares no quadro em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º e 2.º: quadro alterado pelo anexo (imagem); extinção de lugares - não aplicado.",
+    "Alterador 2, 1.º: quadro do pessoal dirigente (imagem) - não aplicado; 2.º: unidades orgânicas de natureza técnica - norma própria, não altera o texto do anexo II.",
+    "Alteradores 3 e 4 (mesma Portaria n.º 428/96): criação de quatro lugares no quadro - não aplicado (quadro em imagem).",
+    "Alterador 5: quadro de pneumologia (imagem) - não aplicado.",
+    "Alterador 6, 1.º: quadro substituído pelo mapa anexo (imagem) - não aplicado; 2.º e 3.º: unidades orgânicas e conteúdo funcional da secretária-recepcionista pelos seus anexos I e II - normas próprias, não substituição textual dos anexos II e III do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

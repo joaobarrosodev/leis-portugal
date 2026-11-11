@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:312786:por",
+  "substituicoes": [
+    {
+      "de": 33,
+      "ate": 33,
+      "texto": "§ 1.º Havendo nos mesmos mercados mais de um comerciante interessado na compra do algodão-caroço, será dada preferência àquele cujo preço médio ponderado para as diferentes qualidades de algodão-caroço, estabelecidas nos termos do artigo 3.º do presente diploma, for mais elevado.",
+      "alterador": 1
+    },
+    {
+      "de": 36,
+      "ate": 36,
+      "texto": "§ 3.º Os preços oferecidos pelo algodão-caroço de cada uma das qualidades não poderá exceder 90 por cento do preço oferecido pelo algodão-caroço da qualidade imediatamente superior.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 202/71, art. 4.º: nova redação dos §§ 1.º e 3.º do art. 10.º do Regulamento (§ 2.º em '...', fica); substituídas as unidades 33 e 36.",
+    "DL 202/71, arts. 2.º, 5.º e 6.º: alteram/revogam o DL 45179 e o DL 40405, não o original; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

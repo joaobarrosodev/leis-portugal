@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:376188:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações (Portarias 108/83, 338/85, 175/86, 380/87, 876/87 e 1013/91) aumentam ou substituem o quadro de pessoal anexo, que só existe em imagem no original e nos alteradores; o 1.º da 175/86 altera a Portaria 108/83, não o original.",
+  "instrucoes": [
+    "Alt. 1 a 6: alterações ao quadro de pessoal anexo (imagem); não aplicadas.",
+    "Alt. 3, 1.º: altera a Portaria 108/83, não o original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

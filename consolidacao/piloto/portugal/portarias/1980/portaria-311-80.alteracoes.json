@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "depois da unidade 18",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1.º-A. A CRCB é equiparada, para efeitos do disposto na presente portaria, ao produtor, importador, armazenista e exportador.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:667948:por",
+    "alterador": "pt:dre:181432:por;pt:dre:549812:por"
+  },
+  {
+    "artigo": "unidades 44-45",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "12.º - 1 - A venda de pescado fresco fica sujeita ao regime de margens de comercialização fixadas previsto na alínea e) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.\n\n2 - O preço de venda ao público não pode exceder o que resulta da soma do preço de venda do produtor ou importador com as margens de comercialização fixadas neste diploma, acrescidas das despesas de frete previstas no número seguinte.",
+    "depois": "12.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:667948:por",
+    "alterador": "pt:dre:181432:por;pt:dre:549812:por"
+  },
+  {
+    "artigo": "unidades 46-52",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "13.º - 1 - As margens máximas de comercialização, para o armazenista, serão as seguintes, por quilograma:\n\na) 7$00 para o pescado comprado na lota ou ao importador até ao preço de 30$00;\n\nb) 25% do preço de aquisição para o pescado comprado na lota ou ao importador a preço superior a 30$00, até 100$00;\n\nc) 20% do preço de aquisição para o pescado comprado na lota ou ao importador a preço superior a 100$00, até 250$00;\n\nd) 15% do preço de aquisição para o pescado comprado na lota ou ao importador a preço superior a 250$00.\n\n2 - As margens de comercialização mencionadas no número anterior só poderão ser acrescidas das despesas de frete quando o transporte haja excedido a distância de 35 km desde o local de aquisição, seguindo o percurso normal.\n\n3 - Como despesas de frete consideram-se unicamente as do transporte do pescado desde a origem, posto sobre vagão ou camioneta, até à localidade do destino, não podendo ultrapassar as resultantes da aplicação das tarifas legalmente aprovadas ou, na sua falta, as do meio de transporte mais económico.",
+    "depois": "13.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:667948:por",
+    "alterador": "pt:dre:181432:por;pt:dre:549812:por"
+  },
+  {
+    "artigo": "unidades 53-54",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "14.º - 1 - As margens máximas de comercialização para o retalhista são iguais às mencionadas no n.º 1 do n.º 13.º\n\n2 - O retalhista só poderá acumular as margens de comercialização previstas para o armazenista com as suas quando exerça também a actividade deste.",
+    "depois": "14.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:667948:por",
+    "alterador": "pt:dre:181432:por;pt:dre:549812:por"
+  }
+]

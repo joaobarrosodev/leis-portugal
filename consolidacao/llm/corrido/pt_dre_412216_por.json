@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:412216:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "5 - Devem os industriais barbeiros e cabeleireiros apresentar, quando da inscrição nas caixas sindicais de previdência, documento comprovativo do efectivo exercício de actividade profissional passado pela associação de classe respectiva, ou documento comprovativo da tributação industrial, ou ainda o título de tributação referente à actividade abrangida pela presente portaria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1: nova redação do n.º 5 - unidade 13 substituída"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

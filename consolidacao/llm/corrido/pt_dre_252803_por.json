@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:252803:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 985/81: acrescenta a categoria de tesoureiro de 2.ª classe à tabela de equivalências, que só vem em imagem. Decreto-Lei 539/77 não dá instrução textual ao original.",
+  "instrucoes": [
+    "DL 539/77: integra pessoal no quadro paralelo; sem alteração textual do original.",
+    "Portaria 985/81: aditamento à tabela de equivalências (imagem); nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

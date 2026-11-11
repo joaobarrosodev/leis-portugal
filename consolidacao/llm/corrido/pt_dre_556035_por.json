@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:556035:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Aldeia Galega da Merceana, município de Alenquer, com uma área de 1721,4015 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 4 (Portaria n.º 1493/2002) renova a concessão por 12 anos com área de 1711,6886 ha, sem nova redação do texto; alterador 3 suspende a caça (não textual).",
+  "instrucoes": [
+    "Alt. 1: nova redação do n.º 1.º (1791,8095 ha) e aditamento do n.º 1.º-A - 1.º-A inserido a seguir à unidade 6; 1.º depois substituído pelo alt. 2.",
+    "Alt. 2: nova redação do n.º 1.º (1721,4015 ha) - unidade 6 substituída (redação final).",
+    "Alt. 3: suspensão da caça - não textual.",
+    "Alt. 4: renovação, área 1711,6886 ha, sem redação - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

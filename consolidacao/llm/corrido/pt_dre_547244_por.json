@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:547244:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A revogação da autorização de funcionamento do curso de Engenharia das Construções Civis (alterador 2, 7.º) é uma revogação de efeitos (autorização concedida), não uma revogação de texto do original; a transição do ISCIE para a Universidade Fernando Pessoa (alterador 1, art. 7.º) também não é alteração textual. Nada aplicado.",
+  "instrucoes": [
+    "Alterador 1 (DL 107/96), art. 7.º: o ISCIE cessa actividade e as autorizações transitam para a UFP; não é alteração textual, não aplicado.",
+    "Alterador 2 (Portaria 962/97), 7.º: revoga a autorização de funcionamento do curso de Engenharia das Construções Civis; não é instrução textual, não aplicada. Restantes pontos: normas próprias do novo curso."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

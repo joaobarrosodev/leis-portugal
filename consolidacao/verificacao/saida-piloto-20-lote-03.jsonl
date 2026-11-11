@@ -1,0 +1,93 @@
+{"id": "pt:dre:355687:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "DL 191-A/89 art. 1.º (art. 5.º n.º 1 al. b)) e a nova redação, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:355687:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "A nova redação do art. 5.º dada por DL 191-A/89 só tem n.os 1 e 2 (\"1 - ...\", \"2 - ...\"); o antigo n.º 3 não consta e foi eliminado (coerente com o art. 4.º dos estatutos, que também perde o n.º 3).", "texto_esperado": ""}
+{"id": "pt:dre:355687:por", "artigo": "Trecho 3", "veredicto": "errado", "motivo": "DL 191-A/89 deu ao n.º 2 do art. 6.º 'dois anos', mas o DL 170-B/90, art. 11.º, reduz para um ano o prazo previsto no n.º 2 do art. 6.º do DL 352/88; o consolidado manteve 'dois anos'.", "texto_esperado": "2 - As acções a que se referem as alíneas a) e b) do número anterior não podem ser transaccionadas durante um período de um ano."}
+{"id": "pt:dre:355687:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "N.º 6 novo do art. 6.º, igual ao DL 191-A/89.", "texto_esperado": ""}
+{"id": "pt:dre:355687:por", "artigo": "Trecho 5", "veredicto": "certo", "motivo": "Art. 2.º do DL 191-A/89 (art. 4.º dos estatutos, n.º 1 al. b)) copiado letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:355687:por", "artigo": "Trecho 6", "veredicto": "certo", "motivo": "Art. 4.º dos estatutos: novos n.os 3 e 4 (antigos 4 e 5 renumerados, o 4 sem a vírgula após 'preferência', como no diploma que altera); o antigo n.º 3 não consta da nova redação.", "texto_esperado": ""}
+{"id": "pt:dre:355687:por", "instrucoes_em_falta": ["DL 170-B/90, art. 11.º: prazo do n.º 2 do art. 6.º do DL 352/88 reduzido para um ano (consolidado mantém dois anos)."], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:358568:por", "artigo": "Trecho 1", "veredicto": "dúvida", "motivo": "Os n.os 13.º a 17.º são o aditamento da Portaria 588/93, copiados letra a letra (certo). O n.º 18.º foi aditado pela Portaria 201/97, mas a Portaria 105/2008 (art. 1.º) revoga a Portaria 201/97, cujo único efeito era esse n.º 18.º; se a revogação o elimina, o n.º 18.º não devia constar. A Portaria 807-A/88 (suspensão) foi revogada e não deixa efeito.", "texto_esperado": "13.º a 17.º como no consolidado; o n.º 18.º só se a revogação da Portaria 201/97 não o eliminar."}
+{"id": "pt:dre:358568:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:369859:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Portaria 498/82, n.º 2.º: a especialidade da al. b) do n.º 1 passa a 'Mecânico de material terrestre/operador de sistemas de assistência e socorros (MMT/OPSAS)'.", "texto_esperado": ""}
+{"id": "pt:dre:369859:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:370265:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Portaria 989-B/93 extingue por revogação a reserva MTL-1 (Mértola).", "texto_esperado": ""}
+{"id": "pt:dre:370265:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Portaria 884/2009, n.º 6.º: revogado o n.º 1.º da Portaria 725-G/93 quanto à reserva MRA-1 (Ferrarias); revogação específica, não condicional.", "texto_esperado": ""}
+{"id": "pt:dre:370265:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:372182:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Portaria 311/89, 1.º: nova redação da al. d) do n.º 1 do n.º 10.º, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:372182:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Portaria 311/89, 2.º: n.º 11.º (epígrafe 'Comissão de selecção' e n.os 1 a 4) substituído letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:372182:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Portaria 311/89, 3.º: n.º 13.º revogado. Corpo '(Revogado.)'; a epígrafe 'Recurso hierárquico' não foi mantida, o que é diferença menor de forma.", "texto_esperado": "13.º\n\nRecurso hierárquico\n\n(Revogado.)"}
+{"id": "pt:dre:372182:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:373796:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Anexo I (Civil), nova redação da Portaria 417/87: 'Cinco anos lectivos.' e 'Número total de unidades de crédito necessário à concessão do grau:'.", "texto_esperado": ""}
+{"id": "pt:dre:373796:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Anexo I da Portaria 417/87: f) 12,5 e g) 'Hidráulica'.", "texto_esperado": ""}
+{"id": "pt:dre:373796:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Anexo I da Portaria 417/87, 4.2 a): acrescenta 'ou Geotecnia'.", "texto_esperado": ""}
+{"id": "pt:dre:373796:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Anexo I da Portaria 417/87, 4.2 i) Geotecnia ... 15.", "texto_esperado": ""}
+{"id": "pt:dre:373796:por", "artigo": "Trecho 5", "veredicto": "certo", "motivo": "Anexo II (Minas), nova redação da Portaria 385/86: 'Cinco anos lectivos.' e n.º 3 'Número total de unidades de crédito...'.", "texto_esperado": ""}
+{"id": "pt:dre:373796:por", "artigo": "Trecho 6", "veredicto": "certo", "motivo": "Anexo II da Portaria 385/86: 4.1 a) a j) e 4.2 Projecto ... 8 coincidem.", "texto_esperado": ""}
+{"id": "pt:dre:373796:por", "artigo": "Trecho 7", "veredicto": "certo", "motivo": "Anexo IV (Metalúrgica), versão final da Portaria 417/87 (que substitui a da 385/86): 206,5 unidades de crédito e n.º 4 'Áreas científicas obrigatórias e distribuição de unidades de crédito:'.", "texto_esperado": ""}
+{"id": "pt:dre:373796:por", "artigo": "Trecho 8", "veredicto": "certo", "motivo": "Anexo IV da Portaria 417/87: b) 13,5; c) 11,5; d) 16,5.", "texto_esperado": ""}
+{"id": "pt:dre:373796:por", "artigo": "Trecho 9", "veredicto": "certo", "motivo": "Anexo IV da Portaria 417/87: f) 23,5.", "texto_esperado": ""}
+{"id": "pt:dre:373796:por", "artigo": "Trecho 10", "veredicto": "certo", "motivo": "Anexo IV da Portaria 417/87: i) Técnicas de Base 21,5; j) Gestão 21,5; l) Matérias Interdisciplinares 5; o 4.2 Seminário desaparece.", "texto_esperado": ""}
+{"id": "pt:dre:373796:por", "instrucoes_em_falta": ["Portaria 825/85, 1.º: anexo V (plano de estudos de Engenharia Electrotécnica) passa a ter a redação do anexo da portaria (documento PDF, não verificável na vista); o consolidado deixou o anexo V igual ao original.", "Portaria 825/85, 3.º: o plano de Engenharia Química (anexo VI da 672/84; a portaria diz 'anexo II', provável lapso) passa a ter a redação do anexo (PDF); o consolidado deixou o anexo VI igual ao original.", "Dúvida, derrogações não aplicadas ao texto (corretamente se condicionais): Portaria 436/87 (art. 1.º, renomeia Electrotécnica para 'Electrotécnica e de Computadores'; art. 9.º, derroga a 672/84 e a 825/85 quanto a esse curso) e Portaria 511/90 (art. 1.º, renomeia Metalúrgica para 'Metalúrgica e dos Materiais'; art. 7.º, derroga a 672/84 quanto a esse curso)."], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "447/88 n.º 1.º-2: c) Informática.", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "447/88 n.º 1.º-3: aditado n.º 3.º-A", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "844/89: a) Área de Matemática", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "844/89 e 447/88 n.º 1.º-4: b) Área de Matemática Aplicada com duas alíneas", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 5", "veredicto": "certo", "motivo": "551/86 (n.º 4) e 447/88 (aditado n.º 5)", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 6", "veredicto": "certo", "motivo": "447/88 n.º 1.º-6 e mudança de designação", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 7", "veredicto": "certo", "motivo": "447/88 anexo III", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 8", "veredicto": "certo", "motivo": "447/88 anexo III", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 9", "veredicto": "certo", "motivo": "447/88 anexo III", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 10", "veredicto": "certo", "motivo": "447/88 anexo IV", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 11", "veredicto": "certo", "motivo": "447/88 anexo IV", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 12", "veredicto": "certo", "motivo": "447/88 anexo V", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 13", "veredicto": "certo", "motivo": "447/88 anexo V (gralha 'Operação Operacional' já no diploma que altera)", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 14", "veredicto": "certo", "motivo": "551/86 anexo VI", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 15", "veredicto": "certo", "motivo": "551/86 anexo VI", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 16", "veredicto": "certo", "motivo": "551/86 anexo VI", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 17", "veredicto": "certo", "motivo": "184/85 anexos XVIII a XXI: igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 18", "veredicto": "certo", "motivo": "184/85 anexos XVIII a XXI: igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 19", "veredicto": "certo", "motivo": "184/85 anexos XVIII a XXI: igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 20", "veredicto": "certo", "motivo": "184/85 anexos XVIII a XXI: igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 21", "veredicto": "certo", "motivo": "184/85 anexos XVIII a XXI: igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 22", "veredicto": "certo", "motivo": "184/85 anexos XVIII a XXI: igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 23", "veredicto": "certo", "motivo": "184/85 anexos XVIII a XXI: igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 24", "veredicto": "certo", "motivo": "184/85 anexos XVIII a XXI: igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 25", "veredicto": "certo", "motivo": "184/85 anexos XVIII a XXI: igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 26", "veredicto": "certo", "motivo": "184/85 anexos XVIII a XXI: igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 27", "veredicto": "certo", "motivo": "184/85 anexos XVIII a XXI: igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 28", "veredicto": "certo", "motivo": "184/85 anexos XVIII a XXI: igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 29", "veredicto": "certo", "motivo": "184/85 anexos XVIII a XXI: igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 30", "veredicto": "certo", "motivo": "184/85 anexos XVIII a XXI: igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 31", "veredicto": "certo", "motivo": "184/85 anexos XVIII a XXI: igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "artigo": "Trecho 32", "veredicto": "certo", "motivo": "184/85 anexos XVIII a XXI: igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:378485:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:379942:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "632/83: n.º 2.º com n.os 1 e 2, igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:379942:por", "instrucoes_em_falta": ["317-E/86, 549/88 (anexos I, VII e VIII) e 453/89 (anexo VII): substituição de anexos que no original só existem como PDF; não aplicável em texto", "549/88 n.º 2.º: o curso de Engenharia de Construção Naval passa a designar-se Engenharia Naval; a alínea g) do n.º 1.º do original mantém 'Engenharia de Construção Naval' (dúvida: mudança de designação não é redacção explícita)"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:394552:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "453/96 n.º 3.ª revoga o n.º 2 do n.º 9.º; o consolidado fica '2 - (Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:394552:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:395497:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "942/82 e 731/84: prazo passa a 30 de Novembro de 1984", "texto_esperado": ""}
+{"id": "pt:dre:395497:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "942/82 (redacção da alínea a) do n.º 11.º) com a data de 731/84", "texto_esperado": ""}
+{"id": "pt:dre:395497:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "1075/82 n.º 3.º e 4.º: alínea g) nova e alínea h) aditada", "texto_esperado": ""}
+{"id": "pt:dre:395497:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "1075/82 n.º 5.º: aditado n.º 20.º", "texto_esperado": ""}
+{"id": "pt:dre:395497:por", "instrucoes_em_falta": ["DL 161/89 art. 3.º: referências às comissões liquidatárias entendem-se feitas ao administrador liquidatário (norma interpretativa, não é substituição de texto; dúvida)"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:402477:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "593/97: n.º 1.º com nova redacção e aditado n.º 1.º-A. Portarias 353/99, 357/2003 e 1268/2005 alteram a área/renovam a concessão por actos não textuais, sem redacção de substituição", "texto_esperado": ""}
+{"id": "pt:dre:402477:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:412216:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "736/78: n.º 5 igual ao diploma que altera", "texto_esperado": ""}
+{"id": "pt:dre:412216:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:419591:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "DN 3/89: aditados n.os 7 e 8", "texto_esperado": ""}
+{"id": "pt:dre:419591:por", "instrucoes_em_falta": ["DN 80/87: correcção de valores no mapa anexo (Ministério da Saúde: Pessoal técnico 340, Pessoal técnico-profissional 30); o mapa só existe em PDF"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:430850:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "O art. 6.º da Portaria 1028/83 revoga o n.º 5.º; o consolidado fica '5.º - (Revogado.)'.", "texto_esperado": ""}
+{"id": "pt:dre:430850:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:434616:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "1.º: nova redação igual à do diploma que altera.", "texto_esperado": ""}
+{"id": "pt:dre:434616:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "6.º n.º 1: nova redação igual.", "texto_esperado": ""}
+{"id": "pt:dre:434616:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "6.º n.º 1 c): 'Declaração da aceitação' como no diploma que altera.", "texto_esperado": ""}
+{"id": "pt:dre:434616:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "6.º al. e) e n.os 2 a 6: nova redação igual; o antigo n.º 6 com alíneas deixa de existir por substituição.", "texto_esperado": ""}
+{"id": "pt:dre:434616:por", "artigo": "Trecho 5", "veredicto": "certo", "motivo": "7.º: nova redação igual; a fusão 'n.º 1.2 -' do alterador é falha de extração e o consolidado separa bem o n.º 2.", "texto_esperado": ""}
+{"id": "pt:dre:434616:por", "artigo": "Trecho 6", "veredicto": "certo", "motivo": "8.º: nova redação igual.", "texto_esperado": ""}
+{"id": "pt:dre:434616:por", "artigo": "Trecho 7", "veredicto": "certo", "motivo": "9.º: nova redação igual.", "texto_esperado": ""}
+{"id": "pt:dre:434616:por", "artigo": "Trecho 8", "veredicto": "certo", "motivo": "10.º: nova redação igual.", "texto_esperado": ""}
+{"id": "pt:dre:434616:por", "artigo": "Trecho 9", "veredicto": "certo", "motivo": "11.º n.º 1: nova redação igual.", "texto_esperado": ""}
+{"id": "pt:dre:434616:por", "artigo": "Trecho 10", "veredicto": "certo", "motivo": "11.º n.º 2: valores 11550$00 e 7730$00 iguais.", "texto_esperado": ""}
+{"id": "pt:dre:434616:por", "artigo": "Trecho 11", "veredicto": "certo", "motivo": "12.º n.º 1: alíneas a) a d) iguais.", "texto_esperado": ""}
+{"id": "pt:dre:434616:por", "artigo": "Trecho 12", "veredicto": "certo", "motivo": "13.º: epígrafe 'Disposição transitória' e corpo iguais.", "texto_esperado": ""}
+{"id": "pt:dre:434616:por", "artigo": "Trecho 13", "veredicto": "errado", "motivo": "14.º: o consolidado acaba com o carácter » (fecho de aspas da citação da instrução), que não faz parte do texto da norma.", "texto_esperado": "Produção de efeitos\n\nO disposto na presente portaria produz efeitos a partir de 1 de Setembro de 1996."}
+{"id": "pt:dre:434616:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}

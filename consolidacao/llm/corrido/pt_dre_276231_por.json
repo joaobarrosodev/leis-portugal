@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:276231:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Carreiras, município de Portalegre, com a área de 1624,2750 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "As plantas anexas substituídas (Portarias 735/95, 759/97, 153/99, 1033-CQ/2004 e 158/2007) só existem em imagem; as anexações de prédios (153/99, 1033-CQ/2004, 158/2007) e a renovação da concessão (158/2007) não são alterações textuais do original.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (área 1796,9750 ha) e substituição da planta; o n.º 1.º foi de novo substituído pelo alterador 2, fica só a redação final na unidade 6; planta não aplicável (imagem).",
+    "Alterador 2: nova redação do n.º 1.º (área 1624,2750 ha) aplicada na unidade 6; aditado o n.º 1.º-A, inserido a seguir à unidade 6.",
+    "Alterador 3: anexação de prédios e nova área total, sem instrução textual; não aplicado.",
+    "Alterador 4: anexação de prédios (área total 2085 ha), sem instrução textual; não aplicado.",
+    "Alterador 5: renovação da concessão e anexação de prédios, sem instrução textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

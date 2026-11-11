@@ -1,0 +1,45 @@
+{
+  "id": "pt:dre:299069:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "d) Oficiais, comandantes de circunscrição, chefes-ajudantes, chefes e subchefes de secção da Guarda Fiscal das ex-colónias, na situação de desligados para efeitos de aposentação e aposentados;",
+      "alterador": 1
+    },
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "f) Oficiais, adjuntos do Comando-Geral, adjuntos distritais, comandantes de secção, comissários, chefes e subchefes da Polícia de Segurança Pública das ex-colónias, na situação de desligados para efeitos de aposentação e aposentados.",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "d) Cabos e guardas da Guarda Fiscal das ex-colónias, na situação de desligados para efeitos de aposentação e aposentados;",
+      "alterador": 1
+    },
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "f) Guardas da Polícia de Segurança Pública das ex-colónias, na situação de desligados para efeitos de aposentação e aposentados.",
+      "alterador": 1
+    },
+    {
+      "de": 34,
+      "ate": 34,
+      "texto": "2 - Os elementos de identificação referidos no número anterior, quando a sua validade possa justificadamente suscitar fundadas dúvidas ou na sua falta, serão obrigatoriamente acompanhados ou substituídos por uma credencial que os autentique, passada pelo comando a que o militar ou elemento das forças militarizadas se encontre subordinado ou pela Direcção-Geral da Administração Civil, da Secretaria de Estado da Administração Pública, autenticada com o respectivo selo branco.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redacção das alíneas d) e f) do n.º 1.º; substituídas as unidades 12 e 14.",
+    "Alterador 1, art. 1.º: nova redacção das alíneas d) e f) do n.º 2.º; substituídas as unidades 25 e 27.",
+    "Alterador 1, art. 2.º: nova redacção do n.º 2 do n.º 4.º; substituída a unidade 34."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

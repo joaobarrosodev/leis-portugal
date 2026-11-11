@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:332201:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O anexo (planos de estudos) passa a ter nova redação pela Portaria n.º 1097/97 (2.º) e pela Portaria n.º 1131/2000 (2.º), mas o anexo novo só vem em imagem; as mudanças de denominação do curso não são alterações textuais ao original.",
+  "instrucoes": [
+    "Portaria 1097/97, 1.º: o curso passa a designar-se Matemática Aplicada; não é alteração textual; não aplicado.",
+    "Portaria 1097/97, 2.º: nova redação do anexo, só em imagem; não aplicado.",
+    "Portaria 1131/2000, 1.º e 2.º: nova denominação e novo plano de estudos (anexo em imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

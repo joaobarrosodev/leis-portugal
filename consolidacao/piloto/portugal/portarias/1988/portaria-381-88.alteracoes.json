@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 75-75",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Apresentará, semestralmente, relatório de execução ao Ministro da Indústria e Energia, em cumprimento do artigo 14.º do [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto.",
+    "depois": "d) Apresentará, semestralmente, relatórios de execução ao Ministério da Indústria e Energia e ao gestor do PEDIP, em cumprimento do artigo 14.º do [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:372182:por",
+    "alterador": "pt:dre:625651:por"
+  },
+  {
+    "artigo": "unidades 87-94",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Comissão de análise\n\n1 - Será constituída uma comissão de análise dos projectos apresentados no âmbito desta reestruturação, cujo presidente, a nomear pelo Ministro da Indústria e Energia, tem voto de qualidade.\n\n2 - A comissão de análise integrará ainda os seguintes elementos:\n\nUm representante do IAPMEI;\n\nUm representante do IT;\n\nUm representante do MESS.\n\n3 - A comissão de análise poderá solicitar a assessoria dos representantes dos organismos a quem foi solicitado parecer no âmbito do projecto de reestruturação.\n\n4 - Compete à comissão de análise emitir parecer sobre as comparticipações financeiras e medidas de âmbito sectorial propostas pela entidade responsável pela reestruturação e submeter os projectos à homologação do Ministro da Indústria e Energia.",
+    "depois": "Comissão de selecção\n\n1 - Será constituída uma comissão de selecção dos projectos apresentados no âmbito desta reestruturação presidida pelo gestor do PEDIP.\n\n2 - A comissão de selecção integrará ainda, para além de um representante do IAPMEI, da DGI e do MESS, um representante de cada uma das restantes entidades referidas no n.º 10.º sempre que se trate de projectos do seu domínio de competência.\n\n3 - Compete à comissão de selecção emitir parecer sobre as comparticipações financeiras e medidas de âmbito sectorial propostas pela entidade responsável e submetê-las a despacho do MIE.\n\n4 - No caso de parecer desfavorável, os pareceres serão comunicados aos promotores, que, querendo, poderão apresentar alegações contrárias, que serão submetidas, no prazo de 30 dias, ao MIE, juntamente com o parecer da comissão.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:372182:por",
+    "alterador": "pt:dre:625651:por"
+  },
+  {
+    "artigo": "unidades 104-107",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "13.º\n\nRecurso hierárquico\n\n1 - Da decisão final sobre os apoios definidos na alínea c) do n.º 1 do n.º 10.º cabe recurso para o Ministro da Indústria e Energia.\n\n2 - A interposição de recurso suspende a eficácia da decisão inicial.",
+    "depois": "13.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:372182:por",
+    "alterador": "pt:dre:625651:por"
+  }
+]

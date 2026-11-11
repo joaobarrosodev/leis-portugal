@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:402477:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante na planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Arrouquelas, município de Rio Maior, com a área de 1726,31 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 8,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 e 4 (suspensões da caça), 3 e 6 (anexação de prédios, com nova área total e planta em imagem) e 5 (renovação da concessão por 10 anos, área de 1205,3956 ha e nova planta) não dão nova redação a nenhum número do original; a planta só existe em imagem.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º (unidade 8) aplicada.",
+    "Alt. 1, 1.º: aditado o n.º 1.º-A depois da unidade 8.",
+    "Alt. 2 e 4: suspensão da atividade cinegética, não textual; não aplicada.",
+    "Alt. 3 e 6: anexação de prédios (planta em imagem), sem nova redação do texto; não aplicada.",
+    "Alt. 5: renovação da concessão, sem nova redação do texto; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

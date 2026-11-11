@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:555863:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Achete, município de Santarém, com a área de 2018 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 3 (Portaria n.º 621/99) anexa prédios e muda a área para 2209,1088 ha só por planta, sem nova redação; alterador 5 (Portaria n.º 931/2002) renova a concessão por 12 anos com área de 2166,2557 ha, sem nova redação do texto. Alteradores 1 e 4 suspendem a caça (não textual).",
+  "instrucoes": [
+    "Alt. 1: suspensão da atividade cinegética por 180 dias - não textual, nada aplicado.",
+    "Alt. 2: nova redação do n.º 1.º (unidade 6) e aditamento do n.º 1.º-A a seguir - aplicados.",
+    "Alt. 3: anexação de prédios (área 2209,1088 ha) sem redação - não aplicado.",
+    "Alt. 4: suspensão da caça - não textual.",
+    "Alt. 5: renovação por 12 anos, área 2166,2557 ha, sem redação - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

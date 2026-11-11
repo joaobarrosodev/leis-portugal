@@ -1,0 +1,69 @@
+{
+  "id": "pt:dre:292915:por",
+  "substituicoes": [
+    {
+      "de": 35,
+      "ate": 35,
+      "texto": "Um sargento-mor ou sargento-chefe de exploração;",
+      "alterador": 3
+    },
+    {
+      "de": 38,
+      "ate": 38,
+      "texto": "Um sargento-mor ou sargento-chefe mecânico;",
+      "alterador": 3
+    },
+    {
+      "de": 40,
+      "ate": 40,
+      "texto": "Dois primeiros-sargentos ou segundos-sargentos mecânicos.",
+      "alterador": 3
+    },
+    {
+      "de": 45,
+      "ate": 46,
+      "texto": "Um coronel, tenente-coronel ou major médico;\n\nUm capitão ou subalterno médico;",
+      "alterador": 4
+    },
+    {
+      "de": 53,
+      "ate": 53,
+      "texto": "Dois sargentos do ramo veterinário.",
+      "alterador": 4
+    },
+    {
+      "de": 112,
+      "ate": 112,
+      "texto": "b) Para a segunda volta apenas são elegíveis os militares mais votados na primeira volta, incluídos no quádruplo do número de lugares a preencher, considerando, porém, sempre que aplicável, os casos particulares referidos nos n.os 27, § único, e 29; os oficiais votam para todos os lugares destinados a oficiais e os sargentos votam para todos os lugares destinados a sargentos.",
+      "alterador": 2
+    },
+    {
+      "de": 140,
+      "ate": 143,
+      "texto": "29 - Os casos de empate são resolvidos consoante se trate de empates na primeira ou na segunda volta:\n\na) Os empates ocorridos na primeira volta não dão lugar a eliminação. Se o número de votos determinar o apuramento para a segunda volta, os militares empatados são considerados elegíveis, ainda que tal ocasione acréscimo para além do quantitativo (quádruplo) estipulado na alínea b) do n.º 18;\n\nb) Os empates ocorridos na segunda volta são resolvidos dando prioridade aos militares que:\n\n1.º Pertençam à região militar ou zona militar com o menor número de elementos eleitos;\n\n2.º Pertençam a uma unidade ou estabelecimento da arma ou serviço sem outro militar eleito;\n\n3.º Sejam mais graduados ou mais antigos.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 138,
+      "texto": "§ único. No caso de, durante o processo eleitoral, ocorrerem promoções (ou graduações) que afectem um militar dos mais votados na primeira volta e, como tal, apurado para a segunda volta, deve este ser incluído entre os militares do posto a que foi promovido (ou graduado). Tal procedimento terá como consequências:\n\n1.º O quantitativo «quádruplo do número de lugares» dos elegíveis, referido na alínea b) do n.º 18, será acrescido com esse militar, no posto a que ascendeu;\n\n2.º A lista dos militares apurados para a segunda volta, relativa ao posto a que o militar pertencia anteriormente, será completada com o mais votado dos não apurados inicialmente.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 182,
+      "texto": "34-A - Após 1978, e enquanto, à data das eleições, não se verificar a existência de sargentos com o posto de sargento-mor, a composição dos conselhos das armas e serviços, no que se refere aos sargentos a nomear mediante eleição, é a seguinte:\n\na) Conselhos das Armas de Infantaria, Artilharia, Cavalaria, Engenharia e do Serviço de Administração Militar:\n\nUm sargento-chefe;\n\nDois sargentos-ajudantes;\n\nCinco primeiros-sargentos ou segundos-sargentos;\n\nb) Conselho da Arma de Transmissões:\n\nA composição fixada no n.º 4;\n\nc) Conselho do Serviço de Saúde:\n\nUm sargento-chefe do ramo médico;\n\nUm sargento-ajudante do ramo médico;\n\nDois primeiros-sargentos ou segundos-sargentos do ramo médico;\n\nDois sargentos do ramo farmacêutico, de qualquer posto;\n\nDois sargentos do ramo veterinário, de qualquer posto;\n\nd) Conselho do Serviço de Material:\n\nUm sargento-chefe;\n\nTrês sargentos-ajudantes;\n\nUm primeiro-sargento ou segundo-sargento do ramo auto;\n\nUm primeiro-sargento ou segundo-sargento do ramo eléctrico;\n\nUm primeiro-sargento ou segundo-sargento do ramo de armamento;\n\nUm primeiro-sargento ou segundo-sargento artífice;\n\ne) Conselho do Serviço Geral:\n\nUm sargento-chefe;\n\nTrês sargentos-ajudantes;\n\nQuatro primeiros-sargentos;\n\nf) Conselho das Bandas e Fanfarras:\n\nUm sargento-chefe músico;\n\nUm sargento-ajudante músico;\n\nUm primeiro-sargento ou segundo-sargento músico;\n\nUm sargento-chefe corneteiro ou clarim;\n\nUm sargento-ajudante corneteiro ou clarim;\n\nUm primeiro-sargento ou segundo-sargento corneteiro ou clarim.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: aditado o n.º 34-A, inserido a seguir à unidade 182 (fim do n.º 34).",
+    "Alterador 2: nova redação do n.º 18 (corpo e a) com '...', mantidos; muda a alínea b), unidade 112); n.º 27 com o mesmo corpo (unidade 138 mantida) e novo § único com 1.º e 2.º, inserido a seguir à 138; nova redação do n.º 29 (unidades 140-143).",
+    "Alterador 3: nova redação da alínea c) do n.º 4 (1) e 2) com '...', mantidos); mudam as unidades 35, 38 e 40 (esta com ponto final em vez de ponto e vírgula).",
+    "Alterador 4: nova redação da subalínea 3) da alínea d) do n.º 4; mudam as unidades 45, 46 e 53 (esta com ponto final)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

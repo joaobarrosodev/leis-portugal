@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:690649:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 924/97): muda a designação do curso para Engenharia da Comunicação, cria ramos, número máximo de alunos e novo plano de estudos em portaria própria, sem nova redação de qualquer ponto do original; o anexo só vem em imagem. Alteradores 2, 3 e 4 (Portarias n.os 209/2001, 620/2001 e 622/2001): novos planos de estudos (e nova designação Engenharia Informática) em anexos que só vêm em imagem; não há alteração textual ao texto do original.",
+  "instrucoes": [
+    "Alterador 1: mudança de designação do curso de Engenharia da Comunicação e do Design e regime próprio do curso, sem redação nova para o original; não aplicado.",
+    "Alterador 2: mudança de designação para Engenharia Informática e novo plano de estudos em quadros só em imagem; não aplicado.",
+    "Alterador 3: novo plano de estudos de Engenharia do Ambiente (anexo em imagem); não aplicado.",
+    "Alterador 4: novo plano de estudos de Engenharia da Qualidade (anexo em imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "depois da unidade 11",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "6.º É interditada a caça nas áreas ardidas e numa faixa envolvente de 1000 m de largura das freguesias constantes do anexo III à presente portaria e que desta faz parte integrante.\n\n7.º Excepciona-se na faixa envolvente às áreas ardidas, referida no número anterior, a caça à galinha d'água, patos e galeirão (aves aquáticas), pombos, tordos, estorninho-malhado, narceja, tarambola-dourada e galinhola (migradoras de Inverno), constantes do quadro único do anexo I da presente portaria e que desta faz parte integrante, e a caça ao javali, corço, gamo, veado e muflão (caça maior), constantes do quadro único do anexo II da presente portaria e que desta faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:545870:por",
+    "alterador": "pt:dre:484117:por;pt:dre:510439:por"
+  },
+  {
+    "artigo": "depois da unidade 20",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "## ANEXO III\n\nNa época venatória 2003-2004 está interditada a caça nas freguesias constantes do quadro seguinte:\n\nQuadro único\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/204b00/58655867.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:545870:por",
+    "alterador": "pt:dre:484117:por;pt:dre:510439:por"
+  }
+]

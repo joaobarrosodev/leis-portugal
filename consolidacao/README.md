@@ -514,3 +514,7 @@ python rendimento.py N --ids ids.txt
 ### Bloco 3 (ronda 19)
 
 Mais 120 diplomas (`llm/corrido-ids-bloco3.txt`, de 2 537 candidatos; 34 saltados por tamanho), mesmo processo. 50 sem alterações, 61 juntados, 9 recusados. Ronda 19: 61 verificados às cegas, **35 sem reparos: 29 % do bloco (57 % dos verificados)**. O rendimento desce de bloco para bloco porque os diplomas vão por ordem de citações e os seguintes têm mais anexos em imagem e mais alteradores. Acumulado das rondas 17 a 19: **89 em 280 (32 %)**. Ficam cerca de 2 400 candidatos; a este ritmo cada bloco de 120 dá ~35 consolidações, abaixo do limiar de 35 % que fixámos, por isso não se alarga sem decisão.
+
+### Bloco 4 (ronda 20)
+
+Mais 120 diplomas (`llm/corrido-ids-bloco4.txt`, de 2 417 candidatos; 35 saltados por tamanho). 47 sem alterações, 68 juntados, 5 recusados. Ronda 20: 68 verificados às cegas, **46 sem reparos: 38 % do bloco (68 % dos verificados)**. O rendimento oscila entre blocos (38, 32, 29, 38 %) conforme a proporção de quadros em imagem. Acumulado das rondas 17 a 20: **135 em 400 (34 %)**. Segue-se sempre para o bloco seguinte (cobertura); ficam cerca de 2 300 candidatos.

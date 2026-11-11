@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A zona MTL-1, designada por Perímetro Florestal de Mértola, com cerca de 571 ha;",
+    "depois": "(Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:370265:por",
+    "alterador": "pt:dre:248073:por;pt:dre:493723:por"
+  },
+  {
+    "artigo": "unidades 23-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A zona MRA-1, designada por Perímetro Florestal das Ferrarias, na freguesia de Amareleja, com cerca de 934 ha;",
+    "depois": "(Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:370265:por",
+    "alterador": "pt:dre:248073:por;pt:dre:493723:por"
+  }
+]

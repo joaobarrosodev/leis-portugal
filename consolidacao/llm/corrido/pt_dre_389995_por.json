@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:389995:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 5 (Portarias 138/83, 180/83, 807-R2/83, 195/84 e 971/84) alteram o quadro de pessoal anexo, que só vem em imagem; o n.º 2.º da Portaria 195/84 revoga a Portaria 138/83 (outro diploma). Nada aplicável ao texto.",
+  "instrucoes": [
+    "Alt.1-5: alterações ao quadro de pessoal em imagem - não aplicadas",
+    "Alt.4 2.º: revoga a Portaria 138/83 - outro diploma, ignorada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

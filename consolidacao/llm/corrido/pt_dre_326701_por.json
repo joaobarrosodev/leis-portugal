@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:326701:por",
+  "substituicoes": [
+    {
+      "de": 44,
+      "ate": 45,
+      "texto": "12 - O montante do apoio será o equivalente ao subsídio de desemprego, por posto de trabalho a criar, durante dois anos, calculado com base no montante mensal mais elevado.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1: nova redação do n.º 12; substituídas as unidades 44 e 45 por um só parágrafo.",
+    "Alt. 1, 2 a 7: normas próprias do alterador; não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

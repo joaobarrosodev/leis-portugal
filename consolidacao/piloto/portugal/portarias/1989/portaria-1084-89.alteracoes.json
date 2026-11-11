@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 28-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Para candidatos oriundos de instituições educativas dos diferentes graus de ensino: 1.º, 2.º e 3.º ciclos do ensino básico, ensino secundário e ensino superior - 75%;",
+    "depois": "a) Para candidatos oriundos das diferentes instituições educativas: educação pré-escolar, ensino básico, secundário e superior - 75%.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:550453:por",
+    "alterador": "pt:dre:571247:por"
+  }
+]

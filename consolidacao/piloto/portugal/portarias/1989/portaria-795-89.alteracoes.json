@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 34-34",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Podem candidatar-se à matrícula e inscrição no curso de Apoio Educativo a Populações Especiais os candidatos que sejam titulares, cumulativamente, de um grau de bacharel ou de licenciado e de uma habilitação profissional para a docência no ensino básico ou secundário.",
+    "depois": "1 - Podem candidatar-se à matrícula e inscrição no curso de estudos superiores especializados em Apoio Educativo a Populações Especiais os estudantes que satisfaçam, cumulativamente, as seguintes condições:\n\na) Ser titular do grau de bacharel ou de licenciado;\n\nb) Ter habilitação profissional para a docência na educação pré-escolar ou nos ensinos básico ou secundário.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:547242:por",
+    "alterador": "pt:dre:367440:por;pt:dre:549808:por"
+  },
+  {
+    "artigo": "unidades 39-58",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - As vagas para o curso de Apoio Educativo a Populações Especiais, fixadas nos termos do n.º 3.º, são distribuídas por dois contingentes:\n\na) Para professores do ensino primário e professores profissionalizados do ensino preparatório com uma experiência nessas funções de três anos em regime de tempo integral;\n\nb) Para os restantes candidatos.\n\n2 - As vagas para o curso de Comunicação Educacional Multimédia, fixadas nos termos do n.º 3.º, são distribuídas por dois contingentes:\n\na) Para educadores de infância, professores do ensino primário, professores profissionalizados dos ensinos preparatório e secundário e docentes do ensino superior, com uma experiência nessas funções de três anos em regime de tempo integral;\n\nb) Para os restantes candidatos.\n\n3 - As vagas para o curso de Estudos Africanos e Ensino da Língua Portuguesa em África, fixadas nos termos do n.º 3.º, são distribuídas por dois contingentes:\n\na) Para candidatos com experiência docente de três anos, como professores profissionalizados;\n\nb) Para os restantes candidatos.\n\n4 - A percentagem das vagas fixadas nos termos do n.º 3.º a afectar a cada contingente será a seguinte:\n\na) Curso de apoio Educativo a Populações Especiais:\n\ni) Contingente da alínea a) do n.º 1 - 75%;\n\nii) Contingente da alínea b) do n.º 1 - 25%;\n\nb) Curso de Comunicação Educacional Multimédia:\n\ni) Contingente da alínea a) do n.º 2 - 75%;\n\nii) Contingente da alínea b) do n.º 2 - 25%;\n\nc) Curso de Estudos Africanos e Ensino da Língua Portuguesa em África:\n\ni) Contingente da alínea a) do n.º 3 - 75%;\n\nii) Contingente da alínea b) do n.º 3 - 25%.\n\n5 - As vagas eventualmente não ocupadas de um contingente de um curso serão afectadas ao outro contingente do mesmo curso.",
+    "depois": "1 - As vagas para o curso de estudos superiores especializados em Apoio Educativo a Populações Especiais repartem-se pelos seguintes contingentes:\n\na) Educadores de infância e professores profissionalizados do ensino básico ou do ensino secundário com uma experiência mínima de três anos como educador ou professor profissionalizado em tempo integral;\n\nb) Para os restantes candidatos.\n\n2 - As vagas para o curso de estudos superiores especializados em Comunicação Educacional Multimédia repartem-se pelos seguintes contingentes:\n\na) Educadores de infância e professores profissionalizados do ensino básico ou do ensino secundário e docentes do ensino superior com experiência mínima de três anos nestas funções em tempo integral;\n\nb) Para os restantes candidatos.\n\n3 - As vagas para o curso de estudos superiores especializados em Estudos Africanos e Ensino da Língua Portuguesa em África repartem-se pelos seguintes contingentes:\n\na) Candidatos com experiência docente de três anos como professores profissionalizados;\n\nb) Para os restantes candidatos.\n\n4 - A percentagem de vagas a afectar a cada contingente de cada curso é fixada pelo presidente do Instituto, ouvido o director da Escola.\n\n5 - As vagas eventualmente não ocupadas num dos contingentes de um curso revertem para o outro contingente do mesmo curso, não podendo as vagas sobrantes deste processo ser utilizadas para qualquer outro fim.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:547242:por",
+    "alterador": "pt:dre:367440:por;pt:dre:549808:por"
+  },
+  {
+    "artigo": "unidades 121-121",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Aos alunos aprovados em todas as disciplinas que integram o plano de estudos do curso será emitido um diploma do modelo constante no anexo III à presente portaria.",
+    "depois": "Aos alunos aprovados em todas as disciplinas que integram o plano de estudos do curso será emitido um diploma do modelo constante no anexo IV à presente portaria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:547242:por",
+    "alterador": "pt:dre:367440:por;pt:dre:549808:por"
+  },
+  {
+    "artigo": "depois da unidade 135",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "Anexo IV\n\nDiploma\n\nR (ver nota a) P\n\n... (ver nota b), presidente da comissão instaladora do Instituto Politécnico de Santarém, faz saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver nota e), concluiu em ... (ver nota f), na Escola Superior de Educação deste Instituto, o curso de estudos superiores especializados em ... (ver nota g), com a classificação final de ... (ver nota h), pelo que, em conformidade com as disposições legais em vigor, lhe mandei passar o presente diploma de estudos superiores especializados em ... (ver nota g).\n\nInstituto Politécnico de Santarém, ... (ver nota i).\n\nO Presidente da Comissão Instaladora do Instituto Politécnico de Santarém, ...\n\nO Presidente da Comissão Instaladora da Escola Superior de Educação, ...\n\nO Administrador, ...\n\nO Secretário da Escola Superior de Educação, ...\n\n(nota a) Símbolo do Instituto Politécnico de Santarém.\n\n(nota b) Nome do presidente da comissão instaladora do Instituto Politécnico de Santarém.\n\n(nota c) Nome do titular do diploma.\n\n(nota d) Nome do pai e da mãe do titular do diploma.\n\n(nota e) Freguesia, conselho e distrito da naturalidade do titular do diploma.\n\n(nota f) Data da conclusão do curso.\n\n(nota g) Conforme o caso: Apoio Educativo a Populações Especiais; Comunicação Educacional Multimédia; Estudos Africanos e Ensino da Língua Portuguesa em África.\n\n(nota h) Classificação final calculada nos termos do n.º 17.º\n\n(nota i) Data da emissão do diploma.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:547242:por",
+    "alterador": "pt:dre:367440:por;pt:dre:549808:por"
+  }
+]

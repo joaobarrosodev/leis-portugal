@@ -1,0 +1,86 @@
+{
+  "id": "pt:dre:378485:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "c) Informática.",
+      "alterador": 3
+    },
+    {
+      "de": 42,
+      "ate": 44,
+      "texto": "a) Área de Matemática:\n\nI) Matemática;\n\nII) Ensino da Matemática.",
+      "alterador": 4
+    },
+    {
+      "de": 45,
+      "ate": 48,
+      "texto": "b) Área de Matemática Aplicada:\n\nI) Estatística e Investigação Operacional;\n\nII) Probabilidades e Estatística.",
+      "alterador": 3
+    },
+    {
+      "de": 68,
+      "ate": 68,
+      "texto": "4 - O curso de licenciatura em Engenharia Geográfica terá um conjunto de disciplinas comuns correspondentes apenas ao 1.º ano dos cursos da área de Matemática Aplicada.",
+      "alterador": 2
+    },
+    {
+      "de": 118,
+      "ate": 136,
+      "texto": "## ANEXO III — Licenciatura em Informática\n\n1 - Área científica do curso:\n\nInformática.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\na) 127 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Informática ... 74\n\n4.1.2 - Matemática ... 20\n\n4.1.3 - Matemática Aplicada ... 13\n\n4.1.4 - Ciências Humanas e Sociais ... 8\n\n4.2 - Conjunto das áreas científicas optativas:\n\n4.2.1 - Informática ... 12\n\n4.2.2 - Matemática Aplicada ... 12",
+      "alterador": 3
+    },
+    {
+      "de": 141,
+      "ate": 155,
+      "texto": "Cinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\na) 127 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Probabilidades e Processos Estocásticos ... 8\n\n4.1.2 - Estatística ... 19 a 27\n\n4.1.3 - Investigação Operacional ... 19 a 27\n\n4.1.4 - Análise Numérica ... 4\n\nTotal (4.1.1 a 4.1.4) ... 58\n\n4.1.5 - Matemática ... 30\n\n4.1.6 - Informática ... 12\n\n4.2 - Conjunto das áreas científicas optativas:\n\n4.2.1 - Probabilidades e Processos Estocásticos ... 27\n\n4.2.2 - Estatística ... 27\n\n4.2.3 - Investigação Operacional ... 27\n\n4.2.4 - Análise Numérica ... 27\n\n4.2.5 - Matemática ... 27\n\n4.2.6 - Informática ... 27\n\n4.2.7 - História das Ciências ... 27\n\n4.2.8 - Filosofia das Ciências ... 27\n\n4.2.9 - Ciências Sociais e Humanas ... 27",
+      "alterador": 3
+    },
+    {
+      "de": 160,
+      "ate": 174,
+      "texto": "Cinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\na) 127 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Probabilidades e Processos Estocásticos ... 12 a 16\n\n4.1.2 - Estatística ... 27 a 35\n\n4.1.3 - Investigação Operacional ... 7 a 11\n\n4.1.4 - Análise Numérica ... 4\n\nTotal (4.1.1 a 4.1.4) ... 58\n\n4.1.5 - Matemática ... 30\n\n4.1.6 - Informática ... 12\n\n4.2 - Conjunto das áreas científicas optativas:\n\n4.2.1 - Probabilidades e Processos Estocásticos ... 27\n\n4.2.2 - Estatística ... 27\n\n4.2.3 - Operação Operacional ... 27\n\n4.2.4 - Análise Numérica ... 27\n\n4.2.5 - Matemática ... 27\n\n4.2.6 - Informática ... 27\n\n4.2.7 - História das Ciências ... 27\n\n4.2.8 - Filosofia das Ciências ... 27\n\n4.2.9 - Ciências Sociais e Humanas ... 27",
+      "alterador": 3
+    },
+    {
+      "de": 176,
+      "ate": 189,
+      "texto": "1 - Área científica do curso - Engenharia Geográfica.\n\n2 - Duração normal do curso - Cinco anos lectivos.\n\n3 - Condições necessárias à concessão do grau - 158 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Engenharia Geográfica ... 77\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Matemática ... 53\n\n4.2.2 - Física ... 3\n\n4.2.3 - Geologia ... 4\n\n4.3 - Áreas científicas opcionais:\n\n4.3.1 - Matemática ... 11\n\n4.3.2 - Física ... 11\n\n4.3.3 - Geologia ... 11\n\n4.4 - Estágio ... 10",
+      "alterador": 2
+    },
+    {
+      "de": 383,
+      "ate": 442,
+      "texto": "3 - Condições necessárias à concessão do grau.\n\n130 unidades de crédito.\n\n4 - Áreas científicas e distribuição de unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Biologia ... 95\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 7\n\n4.2.2 - Geologia ... 4\n\n4.2.3 - Matemática ... 10\n\n4.2.4 - Química ... 14\n\n## ANEXO XIX — Licenciatura em Biologia Vegetal Aplicada\n\n1 - Área científica do curso:\n\nBiologia.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 124 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Biologia ... 57\n\n4.1.2 - Tecnologias Biológicas ... 30\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 7\n\n4.2.2 - Matemática ... 10\n\n4.2.3 - Química ... 20\n\n## ANEXO XX — Licenciatura em Recursos Faunísticos e Ambiente\n\n1 - Área científica do curso:\n\nBiologia.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 131,5 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Biologia ... 60\n\n4.1.2 - Tecnologias Biológicas ... 40,5\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 7\n\n4.2.2 - Matemática ... 10\n\n4.2.3 - Química ... 14\n\n## ANEXO XXI — Licenciatura em Ensino de Biologia\n\n1 - Área científica do curso:\n\nBiologia.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 130 unidades de crédito;\n\nb) Aprovação em estágio pedagógico.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\n4.1.1 - Biologia ... 49\n\n4.1.2 - Ciências da Educação ... 23\n\n4.1.3 - Metodologia Científica ... 8\n\n4.2 - Áreas científicas obrigatórias afins:\n\n4.2.1 - Física ... 7\n\n4.2.2 - Geologia ... 13\n\n4.2.3 - Matemática ... 10\n\n4.2.4 - Química ... 14",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 37,
+      "texto": "3.º-A\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de dez.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas de serviço de aulas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.",
+      "alterador": 3
+    },
+    {
+      "depois_de": 68,
+      "texto": "5 - O curso de licenciatura em Informática terá um conjunto de disciplinas comuns correspondente apenas ao 1.º ano dos cursos da área de Matemática Aplicada.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1: nova redação dos anexos XVIII a XXI - substituídas unidades 383-442 (cabeçalhos e unidades iguais mantidos dentro do intervalo)",
+    "Alt.2 1.º-1: n.º 4 do n.º 4.º - unidade 68",
+    "Alt.2 1.º-2: nova redação do anexo VI - unidades 176-189",
+    "Alt.3 1.º-1: mudança de designação do grau (sem texto próprio); 1.º-2: alínea c) do n.º 1.º - unidade 11",
+    "Alt.3 1.º-3: aditado n.º 3.º-A - inserido depois da unidade 37",
+    "Alt.3 1.º-4: alínea b) do n.º 2 do n.º 4.º - unidades 45-48",
+    "Alt.3 1.º-5: aditado n.º 5 ao n.º 4.º - inserido depois da unidade 68",
+    "Alt.3 1.º-6: anexos III, IV e V - unidades 118-136 (título do anexo III passa a Informática), 141-155, 160-174",
+    "Alt.4: alínea a) do n.º 2 do n.º 4.º - unidades 42-44; o corpo do n.º 2 reproduzido com vírgulas não é alvo da instrução e fica como está"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

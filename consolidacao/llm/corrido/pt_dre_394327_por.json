@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:394327:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Retificação 38-B/2024/1 retifica a Portaria 309/2024/1 (preâmbulo, anexo da Portaria 67/2024 e artigo 3.º-A); a Portaria 736/2001 só é citada numa nota do quadro. Nenhuma instrução dirigida ao original.",
+  "instrucoes": [
+    "Alt. 1: retificações a outro diploma (Portaria 309/2024/1); ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
