@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:626816:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Pela presente portaria é concessionada, pelo período de 12 anos, à Associação de Caçadores da Herdade dos Valagões e anexas, com o número de pessoa colectiva 504805410 e sede na Rua de Avis, 54, Montemor-o-Novo, a zona de caça associativa da Herdade do Queijo, Sobral e outras (processo n.º 3102-DGRF).",
+      "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58695869.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: no n.º 2.º, 'a zona de caça associativa da Herdade dos Valagões (processo n.º 3102-DGRF).' passa a 'a zona de caça associativa da Herdade do Queijo, Sobral e outras (processo n.º 3102-DGRF).'; aplicado na unidade 7 (o texto atual tem 'DGF'; o novo segmento copiado do alterador, com 'DGRF').",
+    "Alterador 1, 2.º: a planta anexa é substituída pela da Portaria n.º 947/2005; substituída a ligação da unidade 12."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

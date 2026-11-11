@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:628314:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "II) O lugar será provido, por qualquer das formas previstas na lei, por diplomado com os cursos de Farmácia ou Ciências Físico-Químicas, livremente escolhido pelo Ministro do Ultramar ou mediante proposta do governador da província.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º II - substituída a unidade 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

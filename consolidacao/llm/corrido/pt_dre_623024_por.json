@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:623024:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 1445/2004, 1.º: o anexo passa a ter a redacção do anexo da portaria alteradora, cujos quadros do plano de estudos só vêm em imagem (ver quadro no documento original); não se pode aplicar textualmente com segurança.",
+  "instrucoes": [
+    "Portaria 1445/2004, 1.º: nova redacção do anexo (plano de estudos), só em imagem; não aplicado",
+    "Portaria 1445/2004, 2.º e 3.º: regras de transição e aplicação próprias, não alteram o texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:631227:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 149/91): o 'onde se lê' e o 'deve ler-se' só vêm em imagem (mesma ligação para ambos), tal como o mapa de transferências do original; não há texto a aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1: retificação de uma inexatidão no mapa de transferências, só em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

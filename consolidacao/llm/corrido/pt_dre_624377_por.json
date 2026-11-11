@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:624377:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 48/93 (alterador 1) só traz o \"onde se lê\" e o \"deve ler-se\" em imagem (ver documento original), presumivelmente sobre o mapa anexo; o texto a corrigir não está disponível, pelo que não se aplica.",
+  "instrucoes": [
+    "Alterador 1: rectificação de inexactidões com o texto apenas em imagem; não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

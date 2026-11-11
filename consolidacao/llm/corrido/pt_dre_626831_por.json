@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:626831:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 extingue a zona de caça municipal criada pela portaria; não é uma alteração textual do original (não revoga nem substitui texto), pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: extingue a zona de caça criada pela portaria; efeito material, sem alteração textual, não aplicado. Os n.os 2.º a 4.º dizem respeito a outra zona de caça."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

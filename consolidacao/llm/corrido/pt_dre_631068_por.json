@@ -1,0 +1,44 @@
+{
+  "id": "pt:dre:631068:por",
+  "substituicoes": [
+    {
+      "de": 46,
+      "ate": 47,
+      "texto": "1.º ciclo - Grau de bacharel",
+      "alterador": 1
+    },
+    {
+      "de": 50,
+      "ate": 50,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11331135.pdf)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11331135.pdf)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11331135.pdf)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11331135.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 53,
+      "ate": 53,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11331135.pdf)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11331135.pdf)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11331135.pdf)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11331135.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 56,
+      "ate": 58,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11331135.pdf)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11331135.pdf)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11331135.pdf)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11331135.pdf)\n\n2.º ciclo - Grau de licenciado",
+      "alterador": 1
+    },
+    {
+      "de": 61,
+      "ate": 61,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11331135.pdf)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11331135.pdf)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11331135.pdf)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11331135.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo; os títulos '1.º ciclo - Grau de bacharel' e '2.º ciclo - Grau de licenciado' passam a uma só linha cada (unidades 46-47 e 57-58) e as ligações dos quadros n.os 1 a 4 (unidades 50, 53, 56, 61) passam às do novo anexo; o resto é igual. O conteúdo dos quadros só existe em imagem.",
+    "Alterador 1, 2.º e 3.º: transição e aplicação próprias do alterador; sem mudança no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

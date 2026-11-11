@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:631254:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 retifica o código «01.00.00» para «01.01.00» no cap. 01, div. 01, subdiv. 05: esse texto está no mapa que só vem em imagem (unidade 3).",
+  "instrucoes": [
+    "Alterador 1: retificação de um código de classificação económica no mapa; mapa em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

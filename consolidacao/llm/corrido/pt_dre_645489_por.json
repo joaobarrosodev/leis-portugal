@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:645489:por",
+  "substituicoes": [
+    {
+      "de": 2,
+      "ate": 2,
+      "texto": "Considerando que o assessor do quadro permanente da Direcção-Geral de Viação Dr. António Eugênio da Costa Fonseca cessou, em 29 de Maio de 1993, as funções de director de serviço que vinha exercendo na referida Direcção-Geral desde 14 de Fevereiro de 1980;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação do nome «Dr. Eugênio da Costa Fonseca» para «Dr. António Eugênio da Costa Fonseca» — aplicada na unidade 2, com o nome copiado letra a letra da retificação."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

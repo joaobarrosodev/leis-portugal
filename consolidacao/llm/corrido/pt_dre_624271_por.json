@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:624271:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 16,
+      "texto": "7.º Sempre que resulte dos inventários levados a cabo no quadro das acções de controlo às empresas embaladoras reconhecidas existências físicas de azeite, óleo de bagaço de azeitona, outros óleos vegetais, subprodutos de refinação ou embalagens em quantidade diversa da registada pela empresa na sua contabilidade de existências, o INGA aplicará à empresa em causa uma das sanções seguidamente previstas:\n\na) Uma sanção pecuniária de montante não inferior a três vezes, nem superior a seis vezes, o valor da ajuda que corresponderia a uma quantidade de azeite igual à quantidade dos produtos ou à capacidade das embalagens, inventariadas a mais ou menos, consoante a expressão da diferença e tendo em atenção se a empresa já foi penalizada por diferenças de inventário ou pela deficiência da sua contabilidade;\n\nb) A retirada do reconhecimento por um período de 12 meses, se a diferença referida na alínea anterior:\n\n- Atingir 20% da média das quantidades desses produtos ou embalagens, produzidas ou movimentadas nos últimos 12 meses, ou,\n\n- Atingir 12 t; ou\n\n- Se a empresa já tiver sido sancionada pelo valor máximo previsto na alínea anterior em uma das anteriores duas campanhas;\n\nc) A retirada do reconhecimento por um período de 24 meses, se a empresa tiver sido sancionada nos termos da alínea anterior em uma das duas últimas campanhas.\n\n8.º Não serão aplicadas as sanções previstas no artigo anterior se:\n\na) As diferenças forem consideradas justificadas pela entidade pública que levou a cabo ou ordenou a acção de controlo, para o que se atenderá à conduta anterior da empresa;\n\nb) As diferenças não excederem:\n\n- 3%, tratando-se de subprodutos da refinação, azeite em óleo de bagaço de azeitona ou outro óleo vegetal a granel;\n\n- 1%, tratando-se de azeite, óleo de bagaço de azeitona ou outro óleo vegetal embalado;\n\n- 2%, tratando-se de embalagens vazias.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 22,
+      "texto": "14.º-A - O disposto no artigo 12.º, n.º 7, do Regulamento (CEE) n.º [2677/85](http://data.europa.eu/eli/reg/1985/2677/oj?locale=pt), da Comissão, de 24 de Setembro, com a última redacção que lhe foi dada pelo Regulamento (CE) n.º [887/96](http://data.europa.eu/eli/reg/1996/887/oj?locale=pt), da Comissão, de 15 de Maio, é igualmente aplicável em caso de insuficiência ou impropriedade da documentação exibida.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 528/96, 1.º: nova redacção dos n.os 7.º e 8.º; substituídas as unidades 15 a 16",
+    "Portaria 528/96, 2.º: adita o n.º 14.º-A; inserido a seguir ao n.º 14.º (unidade 22)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

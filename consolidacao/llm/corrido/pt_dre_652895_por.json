@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:652895:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 30/2006 rectifica o quadro n.º 1 (FEDER - (euro) x 1000 -> x 100), mas os quadros republicados só vêm em imagem (unidade 6); não aplicado.",
+  "instrucoes": [
+    "Alterador 1: rectificação na primeira linha do quadro n.º 1, só em imagem; não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:623027:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 1176/2001, artigo 1.º: os quadros n.º 3 do anexo I e n.º 1 do anexo II passam a ter a redacção dos anexos da portaria alteradora, que só vêm em imagem (ver quadro no documento original); não se pode aplicar textualmente com segurança.",
+  "instrucoes": [
+    "Portaria 1176/2001, art. 1.º: nova redacção do quadro n.º 3 do anexo I e do quadro n.º 1 do anexo II, só em imagem; não aplicado",
+    "Portaria 1176/2001, art. 2.º: produção de efeitos, não altera o texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

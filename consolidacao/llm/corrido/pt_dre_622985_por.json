@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:622985:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "a) 42550 ECU, quando o técnico a contratar possua a qualificação prevista no n.º 9;",
+      "alterador": 1
+    },
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "b) 31910 ECU, nos casos referidos no n.º 11.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DN 247/94, n.º 2: n.º 1, alínea a) passa a 42550 ECU; substituído o valor na unidade 5",
+    "DN 247/94, n.º 2: n.º 1, alínea b) passa a 31910 ECU; substituído o valor na unidade 6",
+    "Alterador 2 é o mesmo DN 247/94 repetido; nada mais a aplicar"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

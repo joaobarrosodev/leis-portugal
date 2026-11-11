@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:656592:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 13,
+      "texto": "1 - O montante do abono de família é de 2450$00 por cada descendente, salvo o disposto no número seguinte.\n\n2 - O montante mensal do abono de família relativamente ao terceiro descendente e seguintes é de 3680$00, tratando-se de agregados familiares cujos rendimentos ilíquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 312/94, 1.º: nova redação do n.º 2.º (montantes 2450$00 e 3680$00); substituídos os n.os 1 e 2 (unidades 12 e 13), mantidos o 2.º e a epígrafe Abono de família."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

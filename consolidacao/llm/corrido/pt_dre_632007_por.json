@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:632007:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 541/96): substitui o quadro de pessoal do Centro Hospitalar das Caldas da Rainha (Portaria n.º 803/92, retificada por esta declaração); a instrução é dirigida a outro diploma e não altera o texto da declaração; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

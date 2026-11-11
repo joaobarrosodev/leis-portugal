@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:649352:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 240/95 substitui o plano de estudos do anexo, mas o novo anexo só vem em imagem (ver documento original); não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: novo plano de estudos (anexo), só em imagem; não aplicado (nao_aplicavel).",
+    "Alterador 1, n.º 2.º: entrada em funcionamento da alteração; norma própria do alterador, não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

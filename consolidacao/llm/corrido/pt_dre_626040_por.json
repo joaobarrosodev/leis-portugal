@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:626040:por",
+  "substituicoes": [
+    {
+      "de": 283,
+      "ate": 283,
+      "texto": "Fisioterapia - 10;\n\nFisioterapia (no âmbito do protocolo firmado, em 7 de Setembro de 2004, entre a Secretaria Regional dos Assuntos Sociais da Região Autónoma da Madeira e o Instituto Politécnico de Setúbal) - 40.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (n.º 1.º): nova redacção do anexo na parte da Escola Superior de Saúde de Setúbal; a linha 'Fisioterapia ... 10' (unidade 283) substituída pelas duas linhas do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:657047:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação de «Cap. 05, div. 01, subdiv. 02 - Corpo de Tropas Pára-Quedistas» para «Cap. 05, div. 02 - Corpo de Tropas Pára-Quedistas» incide sobre o mapa de transferências, que só existe em imagem (ver documento original); o texto não está no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retifica a classificação do Corpo de Tropas Pára-Quedistas no mapa; não aplicada porque o mapa só vem em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

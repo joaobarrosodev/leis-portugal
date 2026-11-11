@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:633348:por",
+  "substituicoes": [
+    {
+      "de": 37,
+      "ate": 38,
+      "texto": "2. O chefe será coadjuvado por dois adjuntos de missão, que o substituirão nas suas faltas e impedimentos e em todas as funções para que por ele sejam designados.\n\n3. O chefe e adjuntos de missão terão a categoria da letra D.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 5.º mantendo o n.º 1 ('5.º - 1. ...'); n.os 2 e 3 substituídos (unidades 37-38)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

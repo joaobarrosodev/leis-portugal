@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:633551:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 155/91) retifica designações e códigos nos mapas de alterações orçamentais, que só existem em imagem no documento original; o texto a retificar não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: cinco retificações nos mapas (Defesa Nacional, Finanças, Administração Interna, Agricultura, Saúde), em imagem: não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

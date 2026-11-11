@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:624811:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1 - É criado no quadro de pessoal da Direcção Regional de Agricultura da Beira Litoral, constante do anexo IV à [Portaria n.º 826/93](https://diariodarepublica.pt/dr/detalhe/portaria/826-1993-626995), de 8 de Setembro, um lugar de assessor principal da carreira de técnico superior, a extinguir quando vagar.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: rectificação no n.º 1, 'de pessoal da Direcção Regional de Agricultura do Algarve,' passa a 'de pessoal da Direcção Regional de Agricultura da Beira Litoral,'; aplicada na unidade 5."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

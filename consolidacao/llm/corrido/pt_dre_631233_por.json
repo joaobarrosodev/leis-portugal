@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:631233:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 retifica «Cap. 02, Div. 12, C. E. 02.03.07, alínea B» para «... alínea C»: esse texto está no mapa que só vem em imagem (unidade 3), não no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retificação de uma referência no mapa de transferências; o mapa só existe como imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

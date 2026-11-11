@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:627260:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação incide sobre o código no quadro dos mapas anexos, que só existem em imagem (ver mapas no documento original); não há texto a alterar.",
+  "instrucoes": [
+    "Alterador 1 retifica no quadro '07.01.03 - Material de transporte' para '07.01.06 - Material de transporte': mapas só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

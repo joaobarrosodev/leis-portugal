@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:633552:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "Assim, ao abrigo do disposto no n.º 2 do artigo 18.º do [Decreto Regulamentar n.º 51/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1986-222604), de 6 de Outubro:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação no preâmbulo, 'artigo 8.º' passa a 'artigo 18.º': unidade 7 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:634695:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: extingue a zona de caça municipal de Montoito criada pela portaria, mas não revoga nem altera o texto da portaria; é um efeito material, não uma alteração textual. Os 2.º e 3.º do alterador dizem respeito a outra zona de caça.",
+  "instrucoes": [
+    "Alterador 1, 1.º: extinção da zona de caça; não aplicada ao texto (não textual).",
+    "Alterador 1, 2.º e 3.º: anexação de prédios à zona de caça associativa da Herdade da Sapatôa; não dirigida ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

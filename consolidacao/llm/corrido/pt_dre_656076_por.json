@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:656076:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 427/2006 dá nova redação ao anexo (plano de estudos), que tanto no original como no alterador só existe em imagem (ver documento original).",
+  "instrucoes": [
+    "1.º: novo anexo com o plano de estudos; só em imagem, não aplicado. 2.º e 3.º do alterador são normas próprias (transição, aplicação), não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

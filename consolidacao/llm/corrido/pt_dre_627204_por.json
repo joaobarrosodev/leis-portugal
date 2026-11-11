@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:627204:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação incide sobre o nome de uma disciplina no mapa anexo, que só existe em imagem (ver documento original); não há texto a alterar.",
+  "instrucoes": [
+    "Alterador 1 retifica no mapa anexo 'Deficiência Visual e Multimédia.' para 'Deficiência Visual e Multideficiência.': anexo só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:619492:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o anexo (plano de estudos da licenciatura em Engenharia de Informática, anexo I) passa a ter a redação do anexo à Portaria n.º 323/2006, cujo plano só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo I (plano de estudos em imagem) — não aplicada, ver nao_aplicavel.",
+    "Alterador 1, 2.º a 5.º: disposições próprias da portaria alteradora (projeto, vagas, transição, aplicação) — não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

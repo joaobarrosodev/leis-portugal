@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:618552:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: a planta anexa à Portaria n.º 154/2005 é substituída pela planta apensa à Portaria n.º 249/2006, que só vem em imagem; não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º da Portaria n.º 762/2004 — dirigida a outro diploma, ignorada.",
+    "Alterador 1, 2.º: substituição da planta anexa (imagem) — não aplicada, ver nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

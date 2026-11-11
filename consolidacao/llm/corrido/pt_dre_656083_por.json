@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:656083:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 16,
+      "texto": "O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 683/2004 muda a denominação do curso para Espaço Lusófono: Lusofonia e Relações Internacionais (alteração da denominação do curso, não instrução de alteração do texto da portaria) e substitui o anexo, que só vem em imagem (ver quadro no documento original).",
+  "instrucoes": [
+    "Alterador 1 (Portaria 683/2004), 1.º: nova denominação do curso; não é alteração textual, não aplicada.",
+    "Alterador 1, 2.º: novo anexo; só em imagem, não aplicado. 3.º a 6.º são normas próprias do alterador, não alteram o original.",
+    "Alterador 2 (Portaria 269/2006), 1.º: o número com a epígrafe Regulamento (2.º) passa a ter redação única; substituídos os n.os 1 a 4 (unidades 13 a 16), mantidos o 2.º e a epígrafe."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

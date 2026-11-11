@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:645493:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 226/93) retifica classificações económicas no mapa de alterações orçamentais, que só vem em imagem no texto atual (unidade 3); não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1: retificação de C. E. no mapa orçamental (só em imagem) — não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

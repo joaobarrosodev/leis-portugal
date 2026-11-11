@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:626065:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/079b00/21992199.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: a tabela anexa é substituída pela tabela anexa à Portaria n.º 289/2003 (só em imagem); substituída a ligação da unidade 14 pela ligação da nova tabela.",
+    "Alterador 1, 2.º a 4.º: actualização de remunerações e mecanismo de actualização automática; não alteram o texto do original, ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

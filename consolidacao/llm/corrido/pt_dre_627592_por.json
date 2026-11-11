@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:627592:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "Factores de correcção extraordinária a aplicar a partir de Janeiro de 1993, nos termos do n.º 4 do artigo 12.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), de 20 de Setembro.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 retifica na tabela III 'de 20 de Dezembro' para 'de 20 de Setembro' (Lei n.º 46/85); substituída a unidade 18, o título da tabela III em texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

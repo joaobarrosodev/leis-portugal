@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:652124:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 289/98 dá nova redacção ao plano de estudos do anexo, mas os quadros só vêm em imagem (ver quadros no documento original); não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: novo plano de estudos (anexo), só em imagem; não aplicado (nao_aplicavel).",
+    "Alterador 1, n.os 2.º e 3.º: aplicação e transição; normas próprias do alterador, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:642533:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 153/2008: o 1.º muda a designação da zona de caça (não é alteração textual do texto da Portaria 1296/2007, que só a refere no preâmbulo); o 2.º substitui a planta anexa, que só existe em imagem.",
+  "instrucoes": [
+    "1.º: nova designação da zona de caça (Foia) - não aplicada, não é textual.",
+    "2.º: substituição da planta anexa - não aplicada, só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

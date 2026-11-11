@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:626867:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "4.º A presente portaria produz efeitos a partir do dia 1 de Junho de 2000.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 corrige o n.º 4.º: 26 de Novembro de 2000 passa a 1 de Junho de 2000; substituída a unidade 11."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

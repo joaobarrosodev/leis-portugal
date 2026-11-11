@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:654549:por",
+  "substituicoes": [
+    {
+      "de": 66,
+      "ate": 66,
+      "texto": "c) Problemas de Investigação ... 8",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 70,
+      "texto": "h) Linguística Alemã ... 4",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 793/85 dá nova redação ao n.º 2 do anexo (pelo conteúdo, o Anexo I, Estudos Alemães): alínea c) passa de 4 para 8 unidades de crédito (substituída a unidade 66) e acrescenta-se a alínea h) Linguística Alemã ... 4 a seguir à g) (inserção depois da 70); restantes alíneas e o Total ficam iguais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

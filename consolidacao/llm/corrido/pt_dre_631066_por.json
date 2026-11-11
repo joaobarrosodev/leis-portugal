@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:631066:por",
+  "substituicoes": [
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/251b00/68986899.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: o quadro n.º 2 do anexo passa a ser o do anexo do alterador; substituída a ligação do quadro (unidade 26). O conteúdo do quadro só existe em imagem.",
+    "Alterador 1, 2.º: produção de efeitos, norma própria do alterador; sem mudança no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:632260:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 4-J/2000) retifica códigos/rubricas ('04.01.03 Caixa Geral de Aposentações', '07.01.06 Material de informática') nos mapas orçamentais, que só existem em imagem no documento original; o texto não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retificação de duas rubricas nos mapas do orçamento, em imagem: não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

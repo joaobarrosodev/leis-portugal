@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:631870:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 12,
+      "texto": "1972 ... 215000000$00\n\n1973 ... 240000000$00\n\n1974 ... 150000000$00\n\n1975 ... 3478315$00",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: novo escalonamento dos pagamentos; 1971 e total mantêm-se, 1972 a 1975 com novos valores e o ano de 1976 desaparece (unidades 8 a 12 substituídas)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

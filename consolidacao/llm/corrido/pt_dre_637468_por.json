@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:637468:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2: substituem o modelo de certificado anexo (e a relação de equipamento), que só existe em imagem/PDF no original e nos alteradores; não há texto onde aplicar. Alterador 3, artigo 52.º, n.º 2: mantém em vigor o modelo de certificado da portaria até novas portarias; não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1: substituição do modelo de certificado anexo; não aplicada (anexo só em imagem).",
+    "Alterador 2, artigo único: substituição do modelo de certificado e relação de equipamento; não aplicada (anexo só em imagem).",
+    "Alterador 3, artigo 52.º, n.º 2: manutenção em vigor do modelo de certificado; sem alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
