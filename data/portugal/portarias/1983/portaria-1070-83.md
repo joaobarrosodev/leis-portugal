@@ -38,10 +38,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-12-02'
+version_history:
+  file: portaria-1070-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-12-02'
+    amending: pt:dre:227205:por
+    amending_title: Portaria n.º 220/86; Portaria n.º 310/86; Portaria n.º 1031/89
+    changes:
+    - Altera Artigo unidades 40-40
+    - Altera Artigo unidades 45-49
+    - Altera Artigo unidades 50-50
+    - Altera Artigo unidades 52-53
+    - Altera Artigo unidades 55-58
+    - Altera Artigo unidades 59-67
 identifiers:
   celex: null
   eli: null
@@ -67,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:31:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 220/86; Portaria n.º
+    310/86; Portaria n.º 1031/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-1070-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -203,7 +223,9 @@ V) Linguística Portuguesa Histórica ... 6
 
 VI) Latim Medieval ... 6
 
-3.ª Área de especialização em História Moderna:
+3.ª área de especialização em História Moderna:
+
+> Alterado pelo/a [Portaria n.º 310/86](https://diariodarepublica.pt/dr/detalhe/portaria/310-1986-228652), publicado em 1986-06-23.
 
 a) Obrigatórias:
 
@@ -213,51 +235,65 @@ II) Renascimento em Portugal ... 4
 
 b) Optativas:
 
-I) Inquisição e Sociedade (Séculos XVI E XVII) ... 6
+I) Inquisição e Sociedade (Séculos XVI e XVII) ... 6
 
-II) Expansão Portuguesa no Índico ... 6
+II) Expansão Portuguesa ... 6
 
 III) Paleografia Moderna ... 6
 
 IV) Arte do Renascimento ... 6
 
-V) Linguística Portuguesa Histórica ... 6
+V) Literatura Portuguesa ...6
 
-4.ª Área de Especialização em História Contemporânea:
+> Alterado pelo/a [Portaria n.º 310/86](https://diariodarepublica.pt/dr/detalhe/portaria/310-1986-228652), publicado em 1986-06-23.
 
-a) Obrigatórias:
+4.ª Área de especialização em História Contemporânea:
 
-I) História Contemporânea de Portugal ... 6
-
-II) Republicanismo ... 4
-
-b) Optativas:
-
-I) Pensamento Social e Histórico ... 6
-
-II) Política Externa Portuguesa na Época Contemporânea ... 6
-
-III) Literaturas Brasileira e Africanas de Língua Portuguesa ... 6
-
-IV) Filosofia Social e Política ... 6
-
-5.ª Área de especialização em História da Arte:
+> Alterado pelo/a [Portaria n.º 1031/89](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1989-550854), publicado em 1989-11-27.
 
 a) Obrigatórias:
 
-I) A Arte do Renascimento ... 6
+I) História Contemporânea de Portugal (Séculos XVIII-XX) ... 8
 
-II) A Arte dos Séculos XVII e XVIII ... 4
+II) História da Cultura Portuguesa Contemporânea (Séculos XVIII-XX) ... 4
+
+> Alterado pelo/a [Portaria n.º 1031/89](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1989-550854), publicado em 1989-11-27.
 
 b) Optativas:
 
-I) O Renascimento em Portugal ... 6
+I) Empresas, Áreas e Legislação Económica ... 4
 
-II) História Moderna de Portugal ... 6
+II) Comunidade Nacional e Grupos Particulares (Séculos XVIII-XX) ... 4
 
-III) Expansão Portuguesa no Índico ... 6
+III) Expressões Literárias de Cultura Contemporânea ... 4
 
-IV) Filosofia de Arte ... 6
+IV) História Contemporânea Comparada ... 4
+
+> Alterado pelo/a [Portaria n.º 1031/89](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1989-550854), publicado em 1989-11-27.
+
+5.ª área de especialização em História da Arte:
+
+a) Obrigatórias:
+
+I) História da Arte ... 6
+
+II) História da Cultura ... 4
+
+b) Optativas:
+
+I) Paleografia ... 6
+
+II) Iconologia ... 6
+
+III) Arqueologia ... 6
+
+IV) Métodos de Laboratório Aplicados na História da Arte ... 6
+
+V) Codicologia ... 6
+
+VI) Conservação do Património Artístico Nacional ... 6
+
+> Alterado pelo/a [Portaria n.º 220/86](https://diariodarepublica.pt/dr/detalhe/portaria/220-1986-227205), publicado em 1986-05-15.
 
 4.º
 

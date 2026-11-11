@@ -29,10 +29,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-04-21'
+version_history:
+  file: portaria-777-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-07-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-04-21'
+    amending: pt:dre:666118:por
+    amending_title: Portaria n.º 318/87
+    changes:
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 18-21
+    - Altera Artigo unidades 23-26
+    - Altera Artigo unidades 28-28
 identifiers:
   celex: null
   eli: null
@@ -58,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:48:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 318/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-777-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,7 +157,9 @@ O disposto na presente portaria aplica-se ao ramo de Psicologia Social do curso 
 
 (Áreas científicas e unidades de crédito)
 
-1 - As áreas científicas e as unidades de crédito que integram o plano de estudos do curso no ramo de Psicologia Social distribuem-se da seguinte forma:
+As áreas científicas e as unidades de crédito que integram o plano de estudos do curso no ramo de Psicologia Social distribuem-se da seguinte forma:
+
+> Alterado pelo/a [Portaria n.º 318/87](https://diariodarepublica.pt/dr/detalhe/portaria/318-1987-666118), publicado em 1987-04-16.
 
 I) Áreas científicas obrigatórias:
 
@@ -151,27 +171,33 @@ c) Biologia ... 6
 
 d) Ciências Sociais ... 3
 
-e) Matemática e Estatística ... 15
+e) Ciências da Educação ... 2
 
-f) Psicoterapia e Aconselhamento ... 3
+f) Matemática e Estatística ... 15
 
-g) Orientação Escolar e Profissional ... 3
+g) Psicologia Social ... 21
 
-h) Psicologia Social ... 18
+> Alterado pelo/a [Portaria n.º 318/87](https://diariodarepublica.pt/dr/detalhe/portaria/318-1987-666118), publicado em 1987-04-16.
 
 II) Áreas científicas optativas:
 
-a) Psicologia ... 14
+a) Psicologia ... 12
 
-b) Biologia ... 14
+b) Biologia ... 12
 
-c) Ciências da Educação ... 14
+c) Ciências Sociais ... 12
 
-d) Matemática e Estatística ... 14
+d) Ciências da Educação ... 12
+
+e) Matemática e Estatística ... 12
+
+> Alterado pelo/a [Portaria n.º 318/87](https://diariodarepublica.pt/dr/detalhe/portaria/318-1987-666118), publicado em 1987-04-16.
 
 III) Estágio ... 10
 
-Total ... 143
+Total ... 140
+
+> Alterado pelo/a [Portaria n.º 318/87](https://diariodarepublica.pt/dr/detalhe/portaria/318-1987-666118), publicado em 1987-04-16.
 
 3.º
 

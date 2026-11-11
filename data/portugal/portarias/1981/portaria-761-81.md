@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-06-28'
+version_history:
+  file: portaria-761-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-09-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-06-28'
+    amending: pt:dre:419436:por
+    amending_title: Portaria n.º 504/87
+    changes:
+    - Altera Artigo unidades 62-120
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:54:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 504/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-761-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -229,123 +244,87 @@ IV) Projecto ... 5
 
 6.º
 
-(Gestão)
-
 1 - A área científica do curso é a Gestão.
 
-2 - São áreas obrigatórias:
+2 - São áreas científicas obrigatórias:
 
 A) Ramo de gestão de empresas:
 
 a) Gestão;
 
-b) Contabilidade;
+b) Métodos Matemáticos;
 
-c) Métodos Matemáticos;
+c) Contabilidade;
 
 d) Economia;
 
-e) Informática;
+e) Ciências Sociais e Políticas;
 
-f) Ciências Sociológicas e Políticas;
+f) História Económica;
 
-g) Ciências Jurídicas.
+g) Ciências Jurídicas;
+
+h) Informática;
 
 B) Ramo de gestão regional:
 
 a) Gestão;
 
-b) Contabilidade;
+b) Métodos Matemáticos;
 
-c) Métodos Matemáticos;
+c) Contabilidade;
 
 d) Economia;
 
-e) História Económica;
+e) Ciências Sociais e Políticas;
 
-f) Informática;
+f) História Económica;
 
-g) Ciências Sociológicas e Políticas;
+g) Ciências Jurídicas;
 
-h) Ciências Jurídicas.
+h) Informática.
 
 3 - São áreas opcionais:
 
 A) Ramo de gestão de empresas:
 
-a) Gestão;
+a) Métodos Matemáticos;
 
-b) Métodos Matemáticos.
+b) Contabilidade;
+
+c) Economia;
+
+d) Ciências Sociais e Políticas;
 
 B) Ramo de gestão regional:
 
 a) Gestão;
 
-b) Informática;
+b) Métodos Matemáticos;
 
-c) Métodos Matemáticos.
+c) Contabilidade;
+
+d) Economia.
 
 4 - A duração do curso é de cinco anos lectivos.
 
-5 - As unidades de crédito necessárias à concessão do grau são 159,5, assim distribuídas:
+5 - As unidades de crédito necessárias à concessão do grau são 161, assim distribuídas, para cada ramo:
 
-A) Ramo de gestão de empresas:
+5.1 - Áreas científicas obrigatórias:
 
-I) Áreas obrigatórias:
+5.1.1 - Ciclo base:
 
-a) Gestão ... 23
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/14100/23742375.pdf)
 
-b) Contabilidade ... 27
+5.1.2 - Ciclo especializado:
 
-c) Métodos Matemáticos ... 42
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/14100/23742375.pdf)
 
-d) Economia ... 26
+5.2 - Áreas científicas optativas:
 
-e) Informática ... 8
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/14100/23742375.pdf)
 
-f) Ciências Sociológicas e Políticas ... 13
-
-g) Ciências Jurídicas ... 16,5
-
-II) Áreas opcionais:
-
-a) Gestão ... 4
-
-b) Métodos Matemáticos ... 4
-
-B) Ramo de gestão regional:
-
-I) Áreas obrigatórias:
-
-a) Gestão ... 19
-
-b) Contabilidade ... 22
-
-c) Métodos Matemáticos ... 42
-
-d) Economia ... 33,5
-
-e) História Económica ... 4
-
-f) Informática ... 4
-
-g) Ciências Sociológicas e Políticas ... 15,5
-
-h) Ciências Jurídicas ... 15,5
-
-II) Áreas opcionais:
-
-a) Gestão ... 4
-
-b) Informática ... 4
-
-c) Métodos Matemáticos ... 4
-
-7.º
-
-(Seminários)
-
-No decurso do último ano serão realizadas actividades de seminário concretizadas em encontros, de frequência obrigatória, para discussão de temas de interesse actual e imediato, tendo como objectivo quer a sensibilização dos futuros licenciados em Gestão para os problemas regionais e das empresas, quer a complementação das matérias curriculares.
+> Alterado pelo/a [Portaria n.º 504/87](https://diariodarepublica.pt/dr/detalhe/portaria/504-1987-419436), publicado em 1987-06-23.
 
 ### CAPÍTULO III — Disposições gerais
 

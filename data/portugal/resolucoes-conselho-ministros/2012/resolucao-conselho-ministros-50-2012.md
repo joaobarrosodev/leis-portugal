@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-08-11'
+version_history:
+  file: resolucao-conselho-ministros-50-2012.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-05-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-08-11'
+    amending: pt:dre:178997:por
+    amending_title: Resolução do Conselho de Ministros n.º 66/2012
+    changes:
+    - Altera Artigo unidades 28-33
+    - Altera Artigo unidades 35-40
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/50/2012/05/22/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-27T00:28:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 66/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2012/resolucao-conselho-ministros-50-2012.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -190,8 +206,6 @@ Nos termos do artigo 99.º da [Lei n.º 5/2004](https://diariodarepublica.pt/dr/
 
 10 - Autorizar a repartição dos encargos com os contratos decorrentes do procedimento previsto nos n.os 3 e 5 da presente resolução, da seguinte forma:
 
-Ano económico de 2014 - (euro) 7 482 976,28;
-
 Ano económico de 2015 - (euro) 14 965 952,56;
 
 Ano económico de 2016 - (euro) 14 965 952,56;
@@ -200,21 +214,29 @@ Ano económico de 2017 - (euro) 14 965 952,56;
 
 Ano económico de 2018 - (euro) 14 965 952,56;
 
-Ano económico de 2019 - (euro) 7 482 976,28.
+Ano económico de 2019 - (euro) 14 465 952,56;
+
+Ano económico de 2020 - (euro) 500 000,00.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2012-178997), publicado em 2012-08-06.
 
 11 - Autorizar a repartição dos encargos com os contratos decorrentes do procedimento previsto nos n.os 4 e 6 da presente resolução, da seguinte forma:
 
-Ano económico de 2014 - (euro) 616 650;
+Ano económico de 2015 - (euro) 2 466 600,00;
 
-Ano económico de 2015 - (euro) 2 466 600;
+Ano económico de 2016 - (euro) 2 466 600,00;
 
-Ano económico de 2016 - (euro) 2 466 600;
+Ano económico de 2017 - (euro) 2 466 600,00;
 
-Ano económico de 2017 - (euro) 2 466 600;
+Ano económico de 2018 - (euro) 2 466 600,00;
 
-Ano económico de 2018 - (euro) 2 466 600;
+Ano económico de 2019 - (euro) 2 000000,00;
 
-Ano económico de 2019 - (euro) 1 849 950.
+Ano económico de 2020 - (euro) 416 600,00;
+
+Ano económico de 2021 - (euro) 50 000,00.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2012-178997), publicado em 2012-08-06.
 
 12 - Determinar que o montante fixado para cada ano pode ser acrescido do saldo apurado no ano que antecede.
 

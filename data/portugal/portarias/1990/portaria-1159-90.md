@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2019-09-21'
+version_history:
+  file: portaria-1159-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-11-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-09-21'
+    amending: pt:dre:218304:por
+    amending_title: Portaria n.º 355/2004; Portaria n.º 324/2019
+    changes:
+    - Altera Artigo unidades 41-41
+    - Altera Artigo unidades 43-43
+    - Adita Artigo depois da unidade 107
 identifiers:
   celex: null
   eli: null
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:11:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 355/2004; Portaria n.º
+    324/2019. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-1159-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -220,11 +237,15 @@ c) Depositar na conta de cada trabalhador as importâncias apuradas por realiza�
 
 d) As demais que por lei lhe forem cometidas.
 
-17 - Constituem ainda obrigações específicas da CDG da sala de jogos tradicionais proceder mensalmente à liquidação do valor correspondente a 12% do montante global das gratificações, que constitui receita própria do Fundo Especial de Segurança Social dos Profissionais de Banca nos Casinos e depositá-la na respectiva conta bancária.
+17 - Constituem ainda obrigações específicas da CDG da sala de jogos tradicionais proceder mensalmente à liquidação do valor correspondente à percentagem do montante global das gratificações respeitante aos profissionais abrangidos pelo Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos, de que constitui receita própria, nos termos previstos no respetivo Regulamento, e depositá-lo na respetiva conta bancária.
+
+> Alterado pelo/a [Portaria n.º 324/2019](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), publicado em 2019-09-20.
 
 18 - O mapa mensal de distribuição é assinado, pelo menos, por quatro dos membros da CDG, número que é elevado a seis no caso previsto no n.º 4 do título II, e visado por um inspector da IGJ em serviço.
 
-19 - Do mapa são extraídas cópias para o serviço permanente de inspecção da IGJ, sindicatos representativos dos trabalhadores, empresa concessionária, para a afixação nas instalações do pessoal e, quanto às salas de jogos tradicionais, para o Fundo Especial de Segurança dos Profissionais de Banca nos Casinos.
+19 - Do mapa são extraídas cópias para o Serviço de Regulação e Inspeção de Jogos do Turismo de Portugal, I. P., sindicatos representativos dos trabalhadores, empresa concessionária, para a afixação nas instalações do pessoal e, quanto às salas de jogos tradicionais, para o Fundo Especial de Segurança dos Profissionais de Banca nos Casinos, que será acompanhado de relação discriminada dos depósitos efetuados em cada mês.
+
+> Alterado pelo/a [Portaria n.º 324/2019](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), publicado em 2019-09-20.
 
 20 - Os depósitos são efectuados até ao 3.º dia útil de cada mês, através de ordens de transferência bancária.
 
@@ -353,6 +374,12 @@ j) Técnico-chefe;
 l) Técnico;
 
 m) Técnico-ajudante.
+
+D) Empregado de sistemas informáticos de controlo de jogo:
+
+n) Operador.
+
+> Aditado pelo/a [Portaria n.º 355/2004](https://diariodarepublica.pt/dr/detalhe/portaria/355-2004-218304), publicado em 2004-04-05.
 
 2 - A distribuição das gratificações será feita em partes iguais por todos os referidos trabalhadores, salvo quanto aos que tenham menos de seis meses de serviço efectivo prestado na sala privativa de máquinas, os quais receberão metade do que couber a cada um dos outros.
 

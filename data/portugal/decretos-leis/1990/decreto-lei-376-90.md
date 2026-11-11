@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-11-07'
+version_history:
+  file: decreto-lei-376-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-11-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-11-07'
+    amending: pt:dre:693588:por
+    amending_title: Decreto-Lei n.º 468/99
+    changes:
+    - Altera Artigo unidades 36-38
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:04:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 468/99. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1990/decreto-lei-376-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -210,11 +225,15 @@ Art. 9.º - 1 - É, por este forma, convocada a assembleia geral da ENU - Empres
 
 Art. 10.º Atenta a natureza específica da sua actividade, a ENU - Empresa Nacional de Urânio, S. A., gozará, sempre que tal se mostre indispensável à prossecução dos seus fins, dos direitos atribuídos por disposições legais e regulamentares à ENU - Empresa Nacional de Urânio, E. P., para efeitos de expropriação por utilidade pública urgente e de protecção das suas instalações.
 
-Art. 11.º - 1 - À ENU - Empresa Nacional de Urânio, S. A., continuará a assistir o regime de exclusivo no exercício das actividades de exploração de jazigos de urânio e de estabelecimento e exploração de instalações de recuperação e tratamento de minerais de urânio, com ressalva dos direitos adquiridos, a favor de terceiros, à data da entrada em vigor do [Decreto n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto/66-1977-251656), de 6 de Maio, que aprovou o estatuto da ENU - Empresa Nacional de Urânio, E. P.
+Art. 11.º - 1 - À ENU - Empresa Nacional de Urânio, S. A., assiste o regime de exclusivo no exercício das actividades de exploração de jazigos de urânio e de estabelecimento e exploração de instalações de recuperação e tratamento de minerais de urânio, com a ressalva dos direitos adquiridos, a favor de terceiros, à data da entrada em vigor do [Decreto n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto/66-1977-251656), de 6 de Maio, que aprovou o estatuto da ENU - Empresa Nacional de Urânio, E. P.
 
-2 - Os bens do domínio público mineiro que se encontrem afectos ao exercício das actividades que constituíam o objecto estatutário da ENU - Empresa Nacional de Urânio, E. P., e os que venham a estar afectos à ENU - Empresa Nacional de Urânio, S. A., são por esta administrados, nos termos previstos no artigo 15.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
+2 - O exercício de tais actividades poderá ser permitido a associações, empresas ou sociedades, criadas para esse fim, em que a ENU - Empresa Nacional de Urânio, S. A., participe, desde que a sua constituição seja previamente autorizada por despacho conjunto dos Ministros das Finanças e da Economia.
 
-3 - Continuará a aplicar-se à ENU - Empresa Nacional de Urânio, S. A., o disposto para a ENU - Empresa Nacional de Urânio, E. P., no [Decreto-Lei n.º 105/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1977-141025), de 22 de Março, e no [Decreto-Lei n.º 31/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1990-335238), de 24 de Janeiro.
+3 - Os bens do domínio público mineiro que se encontrem afectos ao exercício das actividades que constituíam o objecto estatutário da ENU - Empresa Nacional de Urânio, E. P., e os que venham a estar afectos à ENU - Empresa Nacional de Urânio, S. A., são por esta administrados, nos termos previstos no artigo 15.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
+
+4 - Continuará a aplicar-se à ENU - Empresa Nacional de Urânio, S. A., o disposto para a ENU - Empresa Nacional de Urânio, E. P., no [Decreto-Lei n.º 105/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1977-141025), de 22 de Março, e no [Decreto-Lei n.º 31/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1990-335238), de 24 de Janeiro.
+
+> Alterado pelo/a [Decreto-Lei n.º 468/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1999-693588), publicado em 1999-11-06.
 
 Visto e aprovado em Conselho de Ministros de 27 de Setembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral.
 

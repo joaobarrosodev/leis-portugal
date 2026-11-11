@@ -38,10 +38,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-11-21'
+version_history:
+  file: resolucao-conselho-ministros-44-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-03-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-11-21'
+    amending: pt:dre:229769:por
+    amending_title: Resolução do Conselho de Ministros n.º 132/98
+    changes:
+    - Altera Artigo unidades 22-22
+    - Altera Artigo unidades 25-25
+    - Altera Artigo unidades 28-28
+    - Altera Artigo unidades 30-32
+    - Adita Artigo depois da unidade 32
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/44/1997/03/21/p/dre/pt/html
@@ -67,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:22:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 132/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1997/resolucao-conselho-ministros-44-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,27 +175,85 @@ Nos termos da alínea g) do n.º 1 do artigo 202.º da Constituição, o Conselh
 
 2 - Criar a Comissão Interministerial do Programa para a Integração dos Jovens na Vida Activa, constituída por:
 
-a) Dois representantes do Ministro para a Qualificação e o Emprego, um dos quais preside;
+a) Director do Programa, que preside;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 132/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/132-1998-229769), publicado em 1998-11-16.
 
 b) Dois representantes do Ministro da Educação;
 
 c) Um representante do Ministro da Economia;
 
-d) Um representante do Ministro da Solidariedade e Segurança Social; e
+d) Dois representantes do Ministro do Trabalho e da Solidariedade;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 132/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/132-1998-229769), publicado em 1998-11-16.
 
 e) Um representante do Secretário de Estado da Juventude.
 
 3 - Compete à Comissão Interministerial do Programa para a Integração dos Jovens na Vida Activa:
 
-a) Assegurar o conhecimento e diagnóstico da realidade relativa ao mercado de emprego para os jovens e à sua inserção profissional;
+a) Assegurar, em articulação com a Comissão de Acompanhamento do Plano Nacional de Emprego, o conhecimento e diagnóstico da realidade relativa ao mercado de emprego para os jovens e à sua inserção profissional;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 132/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/132-1998-229769), publicado em 1998-11-16.
 
 b) Acompanhar a execução do Programa;
 
-c) Propor, sempre que necessário, a adopção de medidas que melhorem a articulação entre os serviços dependentes dos membros do Governo directamente envolvidos na execução do Programa;
+c) Propor orientações e a adopção de medidas que promovam os objectivos do Programa;
 
-d) Assegurar a articulação com os restantes ministérios sectoriais, na medida em que tal se justifique;
+d) Aprovar os planos e relatórios anuais de execução e avaliação do Programa.
 
-e) Assegurar a avaliação global do Programa, difundindo relatórios periódicos relativos à execução das medidas e eficácia das mesmas.
+e) (Revogada.)
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 132/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/132-1998-229769), publicado em 1998-11-16.
+
+4 - É criada, sob a forma de estrutura de projecto, prevista no artigo 10.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, na dependência do Ministro do Trabalho e da Solidariedade, com faculdade de delegação, a Direcção do Programa para a Integração de Jovens na Vida Activa.
+
+5 - A direcção do Programa é constituída por:
+
+a) Um director do Programa;
+
+b) Um director-adjunto do Programa;
+
+c) Uma unidade executiva, de apoio técnico e administrativo ao director do Programa.
+
+6 - Compete ao director do Programa:
+
+a) Dirigir a unidade executiva e garantir a afectação de recursos necessários ao respectivo funcionamento;
+
+b) Representar institucionalmente o Programa;
+
+c) Identificar áreas prioritárias de intervenção do Programa;
+
+d) Coordenar e acompanhar o desenvolvimento das acções do Programa;
+
+e) Promover a articulação e a coordenação entre os serviços envolvidos no Programa;
+
+f) Apoiar e reforçar a articulação com as estruturas da União Europeia que detêm competências no âmbito da inserção de jovens na vida activa;
+
+g) Estabelecer a articulação com estruturas e ou organizações similares de outros Estados membros da União Europeia;
+
+h) Promover a avaliação das acções do Programa;
+
+i) Promover iniciativas de divulgação das acções do Programa.
+
+7 - O mandato da direcção do Programa terá a duração de três anos.
+
+8 - Para a prossecução dos seus objectivos, compete à direcção do Programa, através do seu director:
+
+a) Solicitar aos serviços dependentes dos Ministérios da Educação e do Trabalho e da Solidariedade todas as informações e documentação neles disponíveis relacionadas com o seu mandato;
+
+b) Solicitar pareceres aos serviços competentes.
+
+9 - É nomeado director do Programa, equiparado para efeitos remuneratórios a director-geral, o licenciado João António Cortês dos Ramos Pinheiro.
+
+10 - É nomeado director-adjunto do Programa o licenciado José Joaquim Machado Courinha Leitão, que exercerá funções a título gratuito e substituirá, nas suas faltas e impedimentos, o director do Programa.
+
+11 - Para a unidade executiva podem ser nomeados, em regime de comissão de serviço, requisitados ou destacados, funcionários da administração central, regional ou local ou técnicos de empresas públicas ou privadas, podendo ainda, quando as circunstâncias o aconselharem, haver recurso a contratos de prestação de serviços ou a contratos de trabalho a termo certo, os quais caducarão automaticamente com a extinção da direcção do Programa.
+
+12 - Os encargos orçamentais decorrentes da presente resolução são suportados por verbas provenientes dos orçamentos do Ministério da Educação, nos termos a definir por despacho conjunto dos Ministros das Finanças e da Educação e, bem assim, por verbas do orçamento do Instituto do Emprego e Formação Profissional, nos limites a fixar por despacho do Ministro do Trabalho e da Solidariedade.
+
+13 - O apoio administrativo e logístico ao funcionamento da direcção do Programa é assegurado pelo Instituto do Emprego e Formação Profissional.
+
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 132/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/132-1998-229769), publicado em 1998-11-16.
 
 Presidência do Conselho de Ministros, 20 de Fevereiro de 1997. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 

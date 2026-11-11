@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-02-01'
+version_history:
+  file: portaria-925-l-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-12-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-02-01'
+    amending: pt:dre:149830:por
+    amending_title: Portaria n.º 72/92
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:20:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 72/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-925-l-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,7 +126,9 @@ Manda o Governo da República Portuguesa, pelos Ministros das Obras Públicas, T
 
 2.º A percentagem de aumento médio dos preços é fixada por despacho, nos termos da alínea b) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 415-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-a-1986-352316).
 
-3.º Nos serviços a táxi em automóveis de aluguer com distintivo e cor padrão será aplicada, a partir das 22 horas e até às 6 horas, uma tarifa de serviço nocturno. A mudança da tarifa será efectuada mesmo no decurso dos serviços que tenham o seu início antes das 22 horas ou o seu termo depois das 6 horas.
+3.º Nos serviços a táxi em automóveis de aluguer com distintivo e cor padrão será aplicada uma tarifa especial das 22 horas às 6 horas e aos sábados, domingos e feriados nacionais durante todo o dia. A mudança da tarifa será efectuada mesmo no decurso dos serviços que tenham o seu início antes das 22 horas ou o seu termo depois das 6 horas.
+
+> Alterado pelo/a [Portaria n.º 72/92](https://diariodarepublica.pt/dr/detalhe/portaria/72-1992-149830), publicado em 1992-02-01.
 
 4.º Os serviços ao quilómetro efectuados no período referido no número anterior serão agravados com uma sobretaxa de 20%.
 

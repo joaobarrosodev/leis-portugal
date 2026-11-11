@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-06-02'
+version_history:
+  file: portaria-499-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-06-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-06-02'
+    amending: pt:dre:631238:por
+    amending_title: Portaria n.º 456/91
+    changes:
+    - Adita Artigo depois da unidade 11
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:09:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 456/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-499-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,6 +161,16 @@ a) Gestão Informática;
 b) Ciências da Computação,
 
 ministrando, em consequência, os respectivos cursos.
+
+1.º-A
+
+Curso de Gestão Informática
+
+1 - O curso de Gestão Informática poderá ser ministrado na Guarda e em Seia.
+
+2 - À transferência de alunos entre as duas localidades onde a Escola Superior de Educação poderá ministrar o curso aplicam-se, com as necessárias adaptações, as regras do regime de transferência.
+
+> Aditado pelo/a [Portaria n.º 456/91](https://diariodarepublica.pt/dr/detalhe/portaria/456-1991-631238), publicado em 1991-05-28.
 
 2.º
 

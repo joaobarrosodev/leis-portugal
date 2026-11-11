@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-04-06'
+version_history:
+  file: portaria-363-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-04-06'
+    amending: pt:dre:138814:por
+    amending_title: Portaria n.º 234/99
+    changes:
+    - Adita Artigo depois da unidade 335
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/363/1998/06/26/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:08:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 234/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-363-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -786,6 +801,76 @@ Técnico de Higiene e Saúde Ambiental;
 Técnico de Radiologia;
 
 Técnico de Radioterapia.
+
+Iniciados no ano lectivo de 1980-1981:
+
+Cursos de:
+
+Fisioterapia;
+
+Ortóptica.
+
+Iniciados no ano lectivo de 1981-1982:
+
+Cursos de:
+
+Análises Clínicas e Saúde Pública;
+
+Medicina Nuclear;
+
+Neurofisiografia.
+
+Iniciados no ano lectivo de 1982-1983:
+
+Cursos de:
+
+Anatomia Patológica;
+
+Fisioterapia.
+
+Iniciados no ano lectivo de 1983-1984:
+
+Cursos de:
+
+Audiometria;
+
+Cardiopneumografia;
+
+Medicina Nuclear;
+
+Radioterapia;
+
+Terapêutica da Fala;
+
+Terapêutica Ocupacional.
+
+Iniciados no ano lectivo de 1985-1986:
+
+Cursos de:
+
+Análises Clínicas e Saúde Pública;
+
+Cardiopneumografia;
+
+Terapêutica Ocupacional.
+
+Iniciados no ano lectivo de 1987-1988:
+
+Cursos de:
+
+Medicina Nuclear;
+
+Terapêutica da Fala;
+
+Terapêutica Ocupacional.
+
+Iniciado no ano lectivo de 1989-1990:
+
+Curso de:
+
+Cardiopneumografia.
+
+> Aditado pelo/a [Portaria n.º 234/99](https://diariodarepublica.pt/dr/detalhe/portaria/234-1999-138814), publicado em 1999-04-05.
 
 ## ANEXO IV — Escola de Reabilitação do Alcoitão
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-01-15'
+version_history:
+  file: portaria-906-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-07-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-15'
+    amending: pt:dre:306622:por
+    amending_title: Portaria n.º 1332/2010
+    changes:
+    - Altera Artigo unidades 58-66
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/906/2004/07/26/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:02:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1332/2010. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-906-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -244,23 +259,9 @@ d) Estimular a gestão pela qualidade, designadamente através da promoção da 
 
 e) Coordenar estudos que envolvam outros departamentos da DGAP, quando estejam em causa iniciativas em matéria de inovação, modernização ou qualidade de natureza interdepartamental.
 
-7.º
+7.º - (Revogado.)
 
-Departamento de Recrutamento e Selecção
-
-1 - Ao DRSP compete desenvolver e propor novas técnicas e processos de recrutamento e selecção de pessoal para a Administração Pública, tendo em conta a eficiência e eficácia dos métodos aplicados e as necessidades das organizações.
-
-2 - Ao DRSP compete, designadamente:
-
-a) Melhorar e desenvolver novas técnicas e processos de recrutamento e selecção de pessoal da Administração Pública, incluindo a análise e avaliação de competências profissionais e promovendo a sua aplicação;
-
-b) Colaborar na definição dos métodos e processos de recrutamento e selecção de pessoal adequados à organização e dinâmica das diversas carreiras;
-
-c) Investigar, desenvolver e executar novas técnicas e métodos de psicologia aplicada ao trabalho e às organizações, numa perspectiva integradora;
-
-d) Realizar as acções de recrutamento e selecção de pessoal solicitadas por outras entidades;
-
-e) Prestar assessoria técnica, nas áreas de intervenção do Departamento, aos diversos serviços e organismos da Administração Pública e no desenvolvimento de serviços afins, quando solicitada.
+> Alterado pelo/a [Portaria n.º 1332/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1332-2010-306622), publicado em 2010-12-31.
 
 8.º
 

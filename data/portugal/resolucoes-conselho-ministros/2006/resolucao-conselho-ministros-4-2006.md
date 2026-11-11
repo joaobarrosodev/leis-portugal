@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-02-01'
+version_history:
+  file: resolucao-conselho-ministros-4-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-01-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-02-01'
+    amending: pt:dre:386862:por
+    amending_title: Resolução do Conselho de Ministros n.º 3/2008
+    changes:
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 18-20
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/4/2006/01/16/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-27T00:00:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 3/2008. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2006/resolucao-conselho-ministros-4-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,7 +161,9 @@ Nos termos da alínea g) do artigo 199.º da Constituição e do artigo 28.º da
 
 2 - Determinar que a Estrutura de Missão visa a preparação e o exercício da presidência portuguesa do Conselho da União Europeia (UE), no 2.º semestre de 2007, garantindo os recursos humanos necessários, designadamente nas áreas diplomática, técnica e especializada, para coordenar e assegurar a referida presidência.
 
-3 - Determinar que o mandato da Estrutura de Missão tem início no dia 1 de Dezembro de 2005 e terminará em 1 de Fevereiro de 2008, competindo-lhe:
+3 - Determinar que o mandato da Estrutura de Missão tem início no dia 1 de Dezembro de 2005 e termina em 30 de Abril de 2008, competindo-lhe:
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 3/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2008-386862), publicado em 2008-01-08.
 
 a) Assegurar que os locais escolhidos para as reuniões a nível político e técnico que se realizem durante a presidência estejam dotados de condições adequadas ao fim em vista, no que respeita, nomeadamente, à dimensão e estrutura dos espaços, aos meios e redes de comunicação, ao mobiliário, ao material de trabalho e secretaria e outro equipamento administrativo, à segurança, à comunicação social e à restauração, garantindo o respectivo funcionamento;
 
@@ -161,11 +179,9 @@ f) Adquirir os bens e serviços necessários à realização dos eventos relacio
 
 4 - Determinar que a Estrutura de Missão é coordenada por um encarregado, nomeado por despacho do Ministro de Estado e dos Negócios Estrangeiros e equiparado, para todos os efeitos legais, a subdirector-geral, salvo para efeitos de autorização de despesas, matéria em que é equiparado a director-geral.
 
-5 - Estipular que, na directa dependência do encarregado de missão, a Estrutura de Missão tem um núcleo permanente e duas unidades de apoio administrativo, sendo aquela constituída por três funcionários provenientes dos quadros da Administração Pública, responsáveis pelo desempenho das seguintes funções:
+5 - Estipular que, na directa dependência do encarregado de missão, a Estrutura de Missão tem um núcleo permanente e duas unidades de apoio administrativo, sendo aquela constituída por um funcionário proveniente dos quadros da Administração Pública responsável pelo desempenho de funções de coordenador de projecto equiparado para efeitos remuneratórios a chefe de divisão.
 
-a) Um adjunto do encarregado de missão, equiparado, para efeitos remuneratórios, a director de serviços;
-
-b) Dois coordenadores de projecto, equiparados, para efeitos remuneratórios, a chefe de divisão.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 3/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2008-386862), publicado em 2008-01-08.
 
 6 - Determinar que os elementos da Estrutura de Missão são nomeados por despacho do Ministro de Estado e dos Negócios Estrangeiros, caso sejam funcionários ou agentes provenientes dos quadros do Ministério dos Negócios Estrangeiros, ou por despacho conjunto com o membro do Governo de que depende o serviço no qual se integram, caso provenham de outro serviço ou organismo do Estado.
 

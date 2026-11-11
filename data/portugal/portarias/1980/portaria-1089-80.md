@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-10-26'
+version_history:
+  file: portaria-1089-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-10-26'
+    amending: pt:dre:354088:por
+    amending_title: Decreto-Lei n.º 374/88
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:09:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 374/88. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-1089-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,7 +167,9 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano
 
 3.º O quadro de pessoal do Departamento Central de Planeamento, criado pelo Decreto-Lei n.º 877/76, e alterado pelo [Decreto Regulamentar n.º 6/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1978-446532), de 18 de Fevereiro, e pelo artigo 8.º do [Decreto-Lei n.º 181/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1978-297442), de 17 de Julho, é substituído, a partir da entrada em vigor do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e até à total integração do pessoal no quadro aprovado pelo [Decreto-Lei n.º 516/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1980-457673), de 31 de Outubro, pelo quadro constante do mapa II anexo ao presente diploma, dele fazendo parte integrante.
 
-4.º O quadro de pessoal da Junta Nacional de Investigação Científica e Tecnológica, decorrente dos Decretos-Leis n.os 47791, [601/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/601-1970-146953) e [627/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/627-1973-412030), respectivamente de 11 de Julho de 1967, 5 de Dezembro e 24 de Novembro, é substituído, a partir da entrada em vigor do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e até à total integração do pessoal no quadro aprovado pelo [Decreto-Lei n.º 519-S1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-s1-1979-157179), de 29 de Dezembro, pelo quadro constante do mapa IV anexo ao presente diploma, dele fazendo parte integrante.
+4.º - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 374/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1988-354088), publicado em 1988-10-21.
 
 5.º A transição dos funcionários pertencentes aos quadros a que se referem os números anteriores far-se-á mediante diploma individual de provimento ou por listas nominativas, aprovadas por despacho do Secretário de Estado Adjunto do Ministro das Finanças e do Plano e do Secretário de Estado do Planeamento, consoante for o caso, visadas ou anotadas pelo Tribunal de Contas, nos termos da lei aplicável, e publicadas no Diário da República.
 

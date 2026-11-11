@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-05-30'
+version_history:
+  file: portaria-719-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-11-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-05-30'
+    amending: pt:dre:252994:por
+    amending_title: Portaria n.º 313/77
+    changes:
+    - Altera Artigo unidades 20-20
+    - Altera Artigo unidades 23-24
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:34:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 313/77. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1974/portaria-719-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -151,15 +167,17 @@ f) Quando os militares considerados deslocados venham a ser transferidos para a 
 
 6.º As Repartições de Oficiais e de Sargentos e Praças deverão enviar à Direcção do Serviço de Administração cópia da ordem de colocação ou de transferência dos militares dos quadros permanentes.
 
-7.º Para efeito do disposto nesta portaria, são considerados como família do militar:
+7. Para efeito do disposto nesta portaria são considerados como família do militar:
+
+> Alterado pelo/a [Portaria n.º 313/77](https://diariodarepublica.pt/dr/detalhe/portaria/313-1977-252994), publicado em 1977-05-30.
 
 A mulher;
 
 Os filhos menores;
 
-As filhas solteiras;
+Outras pessoas que se prove estarem a seu cargo.
 
-Outras pessoas que, estando a seu cargo, confiram direito a abono de família.
+> Alterado pelo/a [Portaria n.º 313/77](https://diariodarepublica.pt/dr/detalhe/portaria/313-1977-252994), publicado em 1977-05-30.
 
 8.º Não terá direito ao subsídio de deslocamento o militar que na guarnição onde for colocado possa ter habitação para si e sua família de conta do Estado, desde que a ocupe com a família.
 

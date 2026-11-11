@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:474526:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1980-05-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5af95cb6c5263e20"
+   ]
+  },
+  {
+   "date": "1982-06-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:570372:por",
+     "title": "Portaria n.º 1/81",
+     "published": "1981-01-02",
+     "dre_path": "/dr/detalhe/portaria/1-1981-570372"
+    },
+    {
+     "id": "pt:dre:395885:por",
+     "title": "Portaria n.º 593/82",
+     "published": "1982-06-17",
+     "dre_path": "/dr/detalhe/portaria/593-1982-395885"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8",
+    "Altera Artigo unidades 11-11",
+    "Altera Artigo unidades 13-13"
+   ],
+   "fragments": [
+    "17bdd60d1b7990ac"
+   ]
+  }
+ ],
+ "fragments": {
+  "5af95cb6c5263e20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Maio\n\nTornando-se necessário fixar algumas das disposições previstas no âmbito do artigo 12.º do [Decreto-Lei n.º 36/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1976-506034), de 19 de Janeiro:\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguinte:\n\n1.º O Aquário de Vasco da Gama (AVG), para fins de exposição ao público, estará aberto todos os dias da semana, com o seguinte horário de funcionamento:\n\na) Domingos e feriados: das 10 às 18 horas;\n\nb) Outros dias: das 12 às 18 horas.\n\n2.º O custo do bilhete de entrada é de 15$00, sendo a entrada livre às quartas-feiras.\n\n3.º Têm entrada livre no AVG todos os dias de exposição:\n\na) Os oficiais e sargentos dos quadros permanentes das forças armadas e os aspirantes a oficial e cadetes da Escola Naval, da Academia Militar e da Academia da Força Aérea, mediante a apresentação do bilhete de identidade militar;\n\nb) As praças da Armada dos quadros permanentes, mediante a apresentação do bilhete de identidade militar;\n\nc) Os oficiais e sargentos da Armada não pertencentes aos quadros permanentes na efectividade de serviço, mediante a apresentação do cartão de identificação militar;\n\nd) As praças da Armada não pertencentes aos quadros permanentes, na efectividade do serviço, quando fardadas e mediante a apresentação do cartão de identificação militar;\n\ne) O pessoal militarizado e civil da Marinha, mediante a apresentação de documento comprovativo daquela condição, enquanto não forem aprovados os modelos de cartão de identificação respectivos;\n\nf) Os membros da Academia de Marinha, mediante a apresentação de credencial passada pelo director do AVG, enquanto não for aprovado o modelo de cartão de identificação daquela Academia;\n\ng) Os membros civis de comissões e juntas integradas na estrutura orgânica da Marinha, mediante a apresentação de credencial passada pelo director do AVG;\n\nh) Os membros da direcção do Jardim Zoológico de Lisboa, mediante a apresentação de credencial assinada pelo director do AVG;\n\ni) As individualidades, nacionais e estrangeiras, que o director do AVG reconheça terem prestado ou possam vir a prestar serviços relevantes ao AVG, mediante a apresentação de credencial passada pelo director;\n\nj) As crianças de idade inferior a 10 anos, quando acompanhadas por pessoas munidas de bilhete de entrada;\n\nl) Os indivíduos que comprovem, nos termos da lei, ter direito a entrar livremente em todos os lugares onde se realizem reuniões públicas ou onde seja permitido o acesso público por meio de pagamento de bilhete de entrada.\n\n4.º Têm entrada livre no AVG, todos os dias de exposição, excepto domingos e dias feriados:\n\na) Os componentes de visitas de estudo, previamente solicitadas e autorizadas, quando acompanhados por elemento responsável do organismo que solicite a visita, devidamente credenciado;\n\nb) Os sócios da Liga dos Combatentes.\n\n5.º O disposto na presente portaria entra em vigor no dia 1 do mês seguinte ao da sua publicação.\n\nEstado-Maior da Armada, 28 de Abril de 1980. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante."
+  },
+  "17bdd60d1b7990ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1982-06-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 593/82](https://diariodarepublica.pt/dr/detalhe/portaria/593-1982-395885), publicado em 1982-06-17.",
+    "Alterado pelo/a [Portaria n.º 1/81](https://diariodarepublica.pt/dr/detalhe/portaria/1-1981-570372), publicado em 1981-01-02.",
+    "Alterado pelo/a [Portaria n.º 1/81](https://diariodarepublica.pt/dr/detalhe/portaria/1-1981-570372), publicado em 1981-01-02."
+   ],
+   "markdown": "de 24 de Maio\n\nTornando-se necessário fixar algumas das disposições previstas no âmbito do artigo 12.º do [Decreto-Lei n.º 36/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1976-506034), de 19 de Janeiro:\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguinte:\n\n1.º O Aquário de Vasco da Gama (AVG), para fins de exposição ao público, estará aberto todos os dias da semana, com o seguinte horário de funcionamento:\n\na) Domingos e feriados: das 10 às 18 horas;\n\nb) Outros dias: das 12 às 18 horas.\n\n2.º O preço do bilhete de entrada será fixado por despacho do Chefe do Estado-Maior da Armada (CEMA), sendo a entrada livre às quartas-feiras.\n\n> Alterado pelo/a [Portaria n.º 593/82](https://diariodarepublica.pt/dr/detalhe/portaria/593-1982-395885), publicado em 1982-06-17.\n\n3.º Têm entrada livre no AVG todos os dias de exposição:\n\na) Os oficiais e sargentos dos quadros permanentes das forças armadas e os aspirantes a oficial e cadetes da Escola Naval, da Academia Militar e da Academia da Força Aérea, mediante a apresentação do bilhete de identidade militar;\n\nb) As praças dos quadros permanentes das forças armadas, mediante a apresentação do bilhete de identidade militar;\n\n> Alterado pelo/a [Portaria n.º 1/81](https://diariodarepublica.pt/dr/detalhe/portaria/1-1981-570372), publicado em 1981-01-02.\n\nc) Os oficiais e sargentos da Armada não pertencentes aos quadros permanentes na efectividade de serviço, mediante a apresentação do cartão de identificação militar;\n\nd) As praças não pertencentes aos quadros permanentes das forças armadas, na efectividade de serviço, quando fardadas e mediante a apresentação do cartão de identificação militar.\n\n> Alterado pelo/a [Portaria n.º 1/81](https://diariodarepublica.pt/dr/detalhe/portaria/1-1981-570372), publicado em 1981-01-02.\n\ne) O pessoal militarizado e civil da Marinha, mediante a apresentação de documento comprovativo daquela condição, enquanto não forem aprovados os modelos de cartão de identificação respectivos;\n\nf) Os membros da Academia de Marinha, mediante a apresentação de credencial passada pelo director do AVG, enquanto não for aprovado o modelo de cartão de identificação daquela Academia;\n\ng) Os membros civis de comissões e juntas integradas na estrutura orgânica da Marinha, mediante a apresentação de credencial passada pelo director do AVG;\n\nh) Os membros da direcção do Jardim Zoológico de Lisboa, mediante a apresentação de credencial assinada pelo director do AVG;\n\ni) As individualidades, nacionais e estrangeiras, que o director do AVG reconheça terem prestado ou possam vir a prestar serviços relevantes ao AVG, mediante a apresentação de credencial passada pelo director;\n\nj) As crianças de idade inferior a 10 anos, quando acompanhadas por pessoas munidas de bilhete de entrada;\n\nl) Os indivíduos que comprovem, nos termos da lei, ter direito a entrar livremente em todos os lugares onde se realizem reuniões públicas ou onde seja permitido o acesso público por meio de pagamento de bilhete de entrada.\n\n4.º Têm entrada livre no AVG, todos os dias de exposição, excepto domingos e dias feriados:\n\na) Os componentes de visitas de estudo, previamente solicitadas e autorizadas, quando acompanhados por elemento responsável do organismo que solicite a visita, devidamente credenciado;\n\nb) Os sócios da Liga dos Combatentes.\n\n5.º O disposto na presente portaria entra em vigor no dia 1 do mês seguinte ao da sua publicação.\n\nEstado-Maior da Armada, 28 de Abril de 1980. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante."
+  }
+ }
+}

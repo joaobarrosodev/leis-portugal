@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-06-17'
+version_history:
+  file: portaria-282-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-05-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-06-17'
+    amending: pt:dre:570372:por
+    amending_title: Portaria n.º 1/81; Portaria n.º 593/82
+    changes:
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 11-11
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: null
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:16:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1/81; Portaria n.º 593/82.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-282-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,17 +132,23 @@ a) Domingos e feriados: das 10 às 18 horas;
 
 b) Outros dias: das 12 às 18 horas.
 
-2.º O custo do bilhete de entrada é de 15$00, sendo a entrada livre às quartas-feiras.
+2.º O preço do bilhete de entrada será fixado por despacho do Chefe do Estado-Maior da Armada (CEMA), sendo a entrada livre às quartas-feiras.
+
+> Alterado pelo/a [Portaria n.º 593/82](https://diariodarepublica.pt/dr/detalhe/portaria/593-1982-395885), publicado em 1982-06-17.
 
 3.º Têm entrada livre no AVG todos os dias de exposição:
 
 a) Os oficiais e sargentos dos quadros permanentes das forças armadas e os aspirantes a oficial e cadetes da Escola Naval, da Academia Militar e da Academia da Força Aérea, mediante a apresentação do bilhete de identidade militar;
 
-b) As praças da Armada dos quadros permanentes, mediante a apresentação do bilhete de identidade militar;
+b) As praças dos quadros permanentes das forças armadas, mediante a apresentação do bilhete de identidade militar;
+
+> Alterado pelo/a [Portaria n.º 1/81](https://diariodarepublica.pt/dr/detalhe/portaria/1-1981-570372), publicado em 1981-01-02.
 
 c) Os oficiais e sargentos da Armada não pertencentes aos quadros permanentes na efectividade de serviço, mediante a apresentação do cartão de identificação militar;
 
-d) As praças da Armada não pertencentes aos quadros permanentes, na efectividade do serviço, quando fardadas e mediante a apresentação do cartão de identificação militar;
+d) As praças não pertencentes aos quadros permanentes das forças armadas, na efectividade de serviço, quando fardadas e mediante a apresentação do cartão de identificação militar.
+
+> Alterado pelo/a [Portaria n.º 1/81](https://diariodarepublica.pt/dr/detalhe/portaria/1-1981-570372), publicado em 1981-01-02.
 
 e) O pessoal militarizado e civil da Marinha, mediante a apresentação de documento comprovativo daquela condição, enquanto não forem aprovados os modelos de cartão de identificação respectivos;
 

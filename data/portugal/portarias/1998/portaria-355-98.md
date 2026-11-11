@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-12-22'
+version_history:
+  file: portaria-355-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-06-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-12-22'
+    amending: pt:dre:655315:por
+    amending_title: Portaria n.º 1091/99
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/355/1998/06/23/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:08:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1091/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-355-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,7 +167,9 @@ Manda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das 
 
 1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Baçal, município de Bragança, com uma área de 1960 ha.
 
-2.º Pela presente portaria é concessionada, pelo período de seis anos, à Associação de Caçadores Abade de Baçal (registo na Direcção-Geral das Florestas n.º 1.1626.96), com sede em Baçal, Bragança, a zona de caça associativa da Baixa Lombada (processo n.º 1963 da Direcção-Geral das Florestas).
+2.º Pela presente portaria é concessionada, até 28 de Agosto de 2003, à Associação de Caçadores Abade de Baçal (registo na Direcção-Geral das Florestas n.º 1.1626.96), com sede em Baçal, Bragança, a zona de caça associativa da Baixa Lombada (processo n.º 1963 da Direcção-Geral das Florestas).
+
+> Alterado pelo/a [Portaria n.º 1091/99](https://diariodarepublica.pt/dr/detalhe/portaria/1091-1999-655315), publicado em 1999-12-17.
 
 3.º A Associação de Caçadores Abade de Baçal, como entidade gestora da zona de caça associativa concedida pela presente portaria, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
 

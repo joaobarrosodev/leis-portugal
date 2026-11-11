@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-11'
+version_history:
+  file: portaria-898-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-10-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-11'
+    amending: pt:dre:644493:por
+    amending_title: Portaria n.º 872/97
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:04:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 872/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-898-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,7 +156,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna e dispensada a a
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos situados na freguesia do Carvalhal, concelho do Bombarral, com uma área total de 2950 ha, constantes da planta anexa a este diploma.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Carvalhal, município do Bombarral, com a área de 2620,2844 ha.
+
+> Alterado pelo/a [Portaria n.º 872/97](https://diariodarepublica.pt/dr/detalhe/portaria/872-1997-644493), publicado em 1997-09-10.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 872/97](https://diariodarepublica.pt/dr/detalhe/portaria/872-1997-644493), publicado em 1997-09-10.
 
 2.º Nesta área é concessionada à Associação de Caçadores da Freguesia do Carvalhal a exploração de uma zona de caça associativa (processo n.º 142 da Direcção-Geral das Florestas), por um período de 12 anos.
 

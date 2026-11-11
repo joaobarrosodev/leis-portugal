@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-07-27'
+version_history:
+  file: portaria-392-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-06-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-07-27'
+    amending: pt:dre:381306:por
+    amending_title: Portaria n.º 371/79
+    changes:
+    - Adita Artigo depois da unidade 53
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:03:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 371/79. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1976/portaria-392-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -216,6 +231,10 @@ b) Documento comprovativo da sua qualidade de transportadores;
 c) Documento comprovativo do cumprimento das obrigações fiscais;
 
 d) Uma fotografia.
+
+e) Identidade das pessoas que poderão, ao serviço do transportador, utilizar o mercado, bem como os respectivos cartões de sanidade e uma fotografia de cada um.
+
+> Aditado pelo/a [Portaria n.º 371/79](https://diariodarepublica.pt/dr/detalhe/portaria/371-1979-381306), publicado em 1979-07-26.
 
 J) Vendedores ambulantes:
 

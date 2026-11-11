@@ -29,10 +29,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-12-03'
+version_history:
+  file: portaria-949-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-11-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-12-03'
+    amending: pt:dre:379734:por
+    amending_title: Portaria n.º 1129/82
+    changes:
+    - Altera Artigo unidades 9-9
+    - Adita Artigo depois da unidade 10
+    - Altera Artigo unidades 11-11
+    - Adita Artigo depois da unidade 11
 identifiers:
   celex: null
   eli: null
@@ -58,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:32:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1129/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-949-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,11 +146,27 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado da Reform
 
 2.º A transição para as categorias constantes do mapa I anexo será feita de acordo com o disposto no artigo 5.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
 
-3.º Os funcionários actualmente providos em categorias que não correspondem às designações previstas no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, transitarão para as novas categorias de acordo com as equivalências previstas no mapa II anexo.
+3.º Os funcionários actualmente providos em categorias que não correspondem às designações previstas no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, transitarão para as novas categorias de acordo com as equivalências previstas no mapa II anexo, salvo o disposto no n.º 5.º
+
+> Alterado pelo/a [Portaria n.º 1129/82](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1982-379734), publicado em 1982-12-03.
 
 4.º Transitam para lugares de ingresso de controladores de trabalho os funcionários que há mais de cinco anos se encontram a desempenhar essas funções.
 
-5.º Para efeitos de remunerações e antiguidades este diploma produz efeitos desde 1 de Julho de 1979.
+5.º Transitará para a categoria de controlador-chefe o primeiro-mecanógrafo que exerce as funções constantes do n.º 3 do artigo 14.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+
+6.º Transitará para o lugar de analista de sistemas de 2.ª classe o técnico superior de 2.ª classe que, embora não provido no quadro de pessoal de informática, vem exercendo as respectivas funções.
+
+7.º As transições a que se refere o n.º 4.º far-se-ão sem dependência das habilitações literárias, devendo o serviço certificar, em todos os casos, o exercício efectivo das funções que integram a categoria em que se verifique o provimento.
+
+> Aditado pelo/a [Portaria n.º 1129/82](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1982-379734), publicado em 1982-12-03.
+
+8.º As alterações resultantes da presente portaria produzirão efeitos desde 1 de Julho de 1979.
+
+> Alterado pelo/a [Portaria n.º 1129/82](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1982-379734), publicado em 1982-12-03.
+
+9.º Os funcionários providos em novas categorias após 1 de Julho de 1979 e até à data da publicação da presente portaria transitarão em função dessas categorias, contando os efeitos desta transição a partir da data do respectivo provimento nas novas categorias, sem prejuízo dos efeitos relativos à situação anterior a esse provimento, previsto no n.º 3.º do presente diploma de acordo com as equivalências estabelecidas no mapa II.
+
+> Aditado pelo/a [Portaria n.º 1129/82](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1982-379734), publicado em 1982-12-03.
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e dos Transportes e Comunicações, 27 de Outubro de 1980. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo. - O Secretário de Estado do Orçamento, António Jorge de Figueiredo Lopes. - O Secretário de Estado dos Transportes, José Miguel Nunes Anacoreta Correia.
 

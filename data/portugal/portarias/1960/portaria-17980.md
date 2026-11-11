@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-10-14'
+version_history:
+  file: portaria-17980.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-09-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-10-14'
+    amending: pt:dre:399991:por
+    amending_title: Portaria n.º 806/84
+    changes:
+    - Altera Artigo unidades 47-47
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:49:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 806/84. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1960/portaria-17980.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -191,7 +206,7 @@ Estado físico;
 
 Peso líquido das embalagens;
 
-Preço de venda ao público de cada embalagem;
+> Alterado pelo/a [Portaria n.º 806/84](https://diariodarepublica.pt/dr/detalhe/portaria/806-1984-399991), publicado em 1984-10-13.
 
 Modo de emprego;
 

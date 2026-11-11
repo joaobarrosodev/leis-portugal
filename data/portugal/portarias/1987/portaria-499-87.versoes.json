@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:418986:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1987-06-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "74db609a5ab8b8c3"
+   ]
+  },
+  {
+   "date": "1991-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:631238:por",
+     "title": "Portaria n.º 456/91",
+     "published": "1991-05-28",
+     "dre_path": "/dr/detalhe/portaria/456-1991-631238"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 11"
+   ],
+   "fragments": [
+    "2ccff4151e8c8905"
+   ]
+  }
+ ],
+ "fragments": {
+  "74db609a5ab8b8c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Junho\n\nSob proposta das comissões instaladoras do Instituto Politécnico da Guarda e da Escola Superior de Tecnologia e Gestão;\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar o seguinte:\n\n1.º\n\nCriação\n\nO Instituto Politécnico da Guarda, através da Escola Superior de Tecnologia e Gestão (ESTG), confere o grau de bacharel em:\n\na) Gestão Informática;\n\nb) Ciências da Computação,\n\nministrando, em consequência, os respectivos cursos.\n\n2.º\n\nRamos\n\n1 - O curso de bacharelato em Gestão Informática desdobra-se nos ramos de:\n\na) Contabilidade;\n\nb) Informática de Gestão;\n\nc) Gestão Empresarial.\n\n2 - O curso de bacharelato em Ciências da Computação desdobra-se nos ramos de:\n\na) Análise de Sistemas e Programação;\n\nb) Informática Industrial.\n\n3.º\n\nOpção pelos ramos\n\n1 - A opção por cada um dos ramos de cada um dos cursos a que se refere o n.º 1.º faz-se no acto de inscrição no 3.º ano curricular.\n\n2 - A aceitação da inscrição em cada ramo está sujeita a limites quantitativos mínimos e máximos, a fixar pela comissão instaladora do Instituto Politécnico, sob proposta fundamentada da comissão instaladora da Escola.\n\n3 - A deliberação a que se refere o número anterior será proferida até ao dia 31 de Março de cada ano.\n\n4.º\n\nPlanos de estudos\n\nOs planos de estudos dos cursos de bacharelato a que se refere o n.º 1.º são os constantes dos anexos I e II à presente portaria.\n\n5.º\n\nEstágios\n\n1 - A ESTG organizará estágios em todos os cursos no final de cada ano curricular.\n\n2 - Os estágios revestem carácter escolar e têm por objectivo a aproximação do aluno à realidade da futura actividade profissional.\n\n3 - Os estágios serão objecto de avaliação, que se traduzirá numa classificação.\n\n4 - A realização e avaliação dos estágios obedecerá a regulamento a aprovar pela comissão instaladora da Escola, sob proposta do respectivo conselho científico.\n\n5 - O regulamento a que se refere o n.º 4 estará sujeito a homologação pela comissão instaladora do Instituto Politécnico.\n\n6 - Quando não for possível a realização dos estágios, serão organizados seminários com igual duração.\n\n6.º\n\nClassificação final\n\n1 - A classificação final dos cursos é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações obtidas nas disciplinas que integram o respectivo plano de estudos e das classificações dos estágios ou seminários a que se refere o n.º 5.º\n\n2 - Os coeficientes de ponderação são fixados pelo conselho científico.\n\n7.º\n\nCondições para obtenção do grau\n\nSão condições para obtenção do grau de bacharel a aprovação cumulativa:\n\na) Na totalidade das disciplinas que integram os planos de estudos;\n\nb) No estágio ou seminários a que se refere o n.º 5.º\n\n8.º\n\nEntrada em funcionamento\n\nOs cursos entrarão em funcionamento progressivamente a partir do ano lectivo de 1987-1988.\n\nMinistério da Educação e Cultura.\n\nAssinada em 19 de Maio de 1987.\n\nPelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/13800/23542356.pdf)"
+  },
+  "2ccff4151e8c8905": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-06-02",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 456/91](https://diariodarepublica.pt/dr/detalhe/portaria/456-1991-631238), publicado em 1991-05-28."
+   ],
+   "markdown": "de 19 de Junho\n\nSob proposta das comissões instaladoras do Instituto Politécnico da Guarda e da Escola Superior de Tecnologia e Gestão;\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar o seguinte:\n\n1.º\n\nCriação\n\nO Instituto Politécnico da Guarda, através da Escola Superior de Tecnologia e Gestão (ESTG), confere o grau de bacharel em:\n\na) Gestão Informática;\n\nb) Ciências da Computação,\n\nministrando, em consequência, os respectivos cursos.\n\n1.º-A\n\nCurso de Gestão Informática\n\n1 - O curso de Gestão Informática poderá ser ministrado na Guarda e em Seia.\n\n2 - À transferência de alunos entre as duas localidades onde a Escola Superior de Educação poderá ministrar o curso aplicam-se, com as necessárias adaptações, as regras do regime de transferência.\n\n> Aditado pelo/a [Portaria n.º 456/91](https://diariodarepublica.pt/dr/detalhe/portaria/456-1991-631238), publicado em 1991-05-28.\n\n2.º\n\nRamos\n\n1 - O curso de bacharelato em Gestão Informática desdobra-se nos ramos de:\n\na) Contabilidade;\n\nb) Informática de Gestão;\n\nc) Gestão Empresarial.\n\n2 - O curso de bacharelato em Ciências da Computação desdobra-se nos ramos de:\n\na) Análise de Sistemas e Programação;\n\nb) Informática Industrial.\n\n3.º\n\nOpção pelos ramos\n\n1 - A opção por cada um dos ramos de cada um dos cursos a que se refere o n.º 1.º faz-se no acto de inscrição no 3.º ano curricular.\n\n2 - A aceitação da inscrição em cada ramo está sujeita a limites quantitativos mínimos e máximos, a fixar pela comissão instaladora do Instituto Politécnico, sob proposta fundamentada da comissão instaladora da Escola.\n\n3 - A deliberação a que se refere o número anterior será proferida até ao dia 31 de Março de cada ano.\n\n4.º\n\nPlanos de estudos\n\nOs planos de estudos dos cursos de bacharelato a que se refere o n.º 1.º são os constantes dos anexos I e II à presente portaria.\n\n5.º\n\nEstágios\n\n1 - A ESTG organizará estágios em todos os cursos no final de cada ano curricular.\n\n2 - Os estágios revestem carácter escolar e têm por objectivo a aproximação do aluno à realidade da futura actividade profissional.\n\n3 - Os estágios serão objecto de avaliação, que se traduzirá numa classificação.\n\n4 - A realização e avaliação dos estágios obedecerá a regulamento a aprovar pela comissão instaladora da Escola, sob proposta do respectivo conselho científico.\n\n5 - O regulamento a que se refere o n.º 4 estará sujeito a homologação pela comissão instaladora do Instituto Politécnico.\n\n6 - Quando não for possível a realização dos estágios, serão organizados seminários com igual duração.\n\n6.º\n\nClassificação final\n\n1 - A classificação final dos cursos é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações obtidas nas disciplinas que integram o respectivo plano de estudos e das classificações dos estágios ou seminários a que se refere o n.º 5.º\n\n2 - Os coeficientes de ponderação são fixados pelo conselho científico.\n\n7.º\n\nCondições para obtenção do grau\n\nSão condições para obtenção do grau de bacharel a aprovação cumulativa:\n\na) Na totalidade das disciplinas que integram os planos de estudos;\n\nb) No estágio ou seminários a que se refere o n.º 5.º\n\n8.º\n\nEntrada em funcionamento\n\nOs cursos entrarão em funcionamento progressivamente a partir do ano lectivo de 1987-1988.\n\nMinistério da Educação e Cultura.\n\nAssinada em 19 de Maio de 1987.\n\nPelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/13800/23542356.pdf)"
+  }
+ }
+}

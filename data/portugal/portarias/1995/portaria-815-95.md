@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-09-20'
+version_history:
+  file: portaria-815-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-07-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-09-20'
+    amending: pt:dre:241457:por
+    amending_title: Portaria n.º 784/98
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/815/1995/07/13/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:11:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 784/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-815-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,7 +153,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos nas freguesias de Duas Igrejas e Miranda do Douro, município de Miranda do Douro, com uma área de 1980 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Duas Igrejas e Miranda do Douro, município de Miranda do Douro, com a área de 1871,3790 ha.
+
+> Alterado pelo/a [Portaria n.º 784/98](https://diariodarepublica.pt/dr/detalhe/portaria/784-1998-241457), publicado em 1998-09-19.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, ao Clube de Caça e Pesca de Miranda do Douro (registo no Instituto Florestal n.º 1.024.87), com sede em Miranda do Douro, a zona de caça associativa de Miranda do Douro (processo n.º 1767 do Instituto Florestal).
 

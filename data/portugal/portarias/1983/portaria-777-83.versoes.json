@@ -1,0 +1,62 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:453833:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-07-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2d6ec3f4cd6fdec9"
+   ]
+  },
+  {
+   "date": "1987-04-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:666118:por",
+     "title": "Portaria n.º 318/87",
+     "published": "1987-04-16",
+     "dre_path": "/dr/detalhe/portaria/318-1987-666118"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 12-12",
+    "Altera Artigo unidades 18-21",
+    "Altera Artigo unidades 23-26",
+    "Altera Artigo unidades 28-28"
+   ],
+   "fragments": [
+    "7aead9a15e928c74"
+   ]
+  }
+ ],
+ "fragments": {
+  "2d6ec3f4cd6fdec9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Julho\n\nSob proposta da Faculdade de Psicologia e de Ciências da Educação da Universidade de Lisboa;\n\nAo abrigo do n.º 2 do artigo 4.º do [Decreto-Lei n.º 529/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1980-457583), de 5 de Novembro;\n\nTendo em vista o disposto no n.º 2 do n.º 2.º da [Portaria n.º 654/82](https://diariodarepublica.pt/dr/detalhe/portaria/654-1982-395489), de 30 de Junho:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, o seguinte:\n\n1.º\n\n(Âmbito de aplicação)\n\nO disposto na presente portaria aplica-se ao ramo de Psicologia Social do curso de licenciatura em Psicologia da Faculdade de Psicologia e de Ciências da Educação da Universidade de Lisboa, adiante simplesmente designado por «curso», regulamentado pela [Portaria n.º 654/82](https://diariodarepublica.pt/dr/detalhe/portaria/654-1982-395489), de 30 de Junho.\n\n2.º\n\n(Áreas científicas e unidades de crédito)\n\n1 - As áreas científicas e as unidades de crédito que integram o plano de estudos do curso no ramo de Psicologia Social distribuem-se da seguinte forma:\n\nI) Áreas científicas obrigatórias:\n\na) Psicologia ... 65\n\nb) Neurofisiologia e Psicofisiologia ... 6\n\nc) Biologia ... 6\n\nd) Ciências Sociais ... 3\n\ne) Matemática e Estatística ... 15\n\nf) Psicoterapia e Aconselhamento ... 3\n\ng) Orientação Escolar e Profissional ... 3\n\nh) Psicologia Social ... 18\n\nII) Áreas científicas optativas:\n\na) Psicologia ... 14\n\nb) Biologia ... 14\n\nc) Ciências da Educação ... 14\n\nd) Matemática e Estatística ... 14\n\nIII) Estágio ... 10\n\nTotal ... 143\n\n3.º\n\n(Plano de estudos)\n\nO reitor da Universidade de Lisboa, sob proposta do conselho científico da Faculdade de Psicologia e Ciências da Educação, fixará, por despacho a publicar na 2.ª série do Diário da República, nos termos do artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, o elenco de disciplinas fixas e optativas e respectivas unidades de crédito que integram o plano de estudos, organizado nos termos do artigo 5.º do referido decreto-lei.\n\n4.º\n\n(Início de funcionamento)\n\nO ramo de Psicologia Social terá início em ano lectivo a fixar pelo despacho reitoral a que se refere o n.º 3.º, sob proposta fundamentada da Faculdade de Psicologia e de Ciências da Educação comprovativa de se encontrarem reunidas as condições humanas e materiais para tal necessárias.\n\nMinistério da Educação.\n\nAssinada em 7 de Junho de 1983.\n\nPelo Ministro da Educação, Alberto Romão Dias, Secretário de Estado do Ensino Superior."
+  },
+  "7aead9a15e928c74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1987-04-21",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 318/87](https://diariodarepublica.pt/dr/detalhe/portaria/318-1987-666118), publicado em 1987-04-16.",
+    "Alterado pelo/a [Portaria n.º 318/87](https://diariodarepublica.pt/dr/detalhe/portaria/318-1987-666118), publicado em 1987-04-16.",
+    "Alterado pelo/a [Portaria n.º 318/87](https://diariodarepublica.pt/dr/detalhe/portaria/318-1987-666118), publicado em 1987-04-16.",
+    "Alterado pelo/a [Portaria n.º 318/87](https://diariodarepublica.pt/dr/detalhe/portaria/318-1987-666118), publicado em 1987-04-16."
+   ],
+   "markdown": "de 23 de Julho\n\nSob proposta da Faculdade de Psicologia e de Ciências da Educação da Universidade de Lisboa;\n\nAo abrigo do n.º 2 do artigo 4.º do [Decreto-Lei n.º 529/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1980-457583), de 5 de Novembro;\n\nTendo em vista o disposto no n.º 2 do n.º 2.º da [Portaria n.º 654/82](https://diariodarepublica.pt/dr/detalhe/portaria/654-1982-395489), de 30 de Junho:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, o seguinte:\n\n1.º\n\n(Âmbito de aplicação)\n\nO disposto na presente portaria aplica-se ao ramo de Psicologia Social do curso de licenciatura em Psicologia da Faculdade de Psicologia e de Ciências da Educação da Universidade de Lisboa, adiante simplesmente designado por «curso», regulamentado pela [Portaria n.º 654/82](https://diariodarepublica.pt/dr/detalhe/portaria/654-1982-395489), de 30 de Junho.\n\n2.º\n\n(Áreas científicas e unidades de crédito)\n\nAs áreas científicas e as unidades de crédito que integram o plano de estudos do curso no ramo de Psicologia Social distribuem-se da seguinte forma:\n\n> Alterado pelo/a [Portaria n.º 318/87](https://diariodarepublica.pt/dr/detalhe/portaria/318-1987-666118), publicado em 1987-04-16.\n\nI) Áreas científicas obrigatórias:\n\na) Psicologia ... 65\n\nb) Neurofisiologia e Psicofisiologia ... 6\n\nc) Biologia ... 6\n\nd) Ciências Sociais ... 3\n\ne) Ciências da Educação ... 2\n\nf) Matemática e Estatística ... 15\n\ng) Psicologia Social ... 21\n\n> Alterado pelo/a [Portaria n.º 318/87](https://diariodarepublica.pt/dr/detalhe/portaria/318-1987-666118), publicado em 1987-04-16.\n\nII) Áreas científicas optativas:\n\na) Psicologia ... 12\n\nb) Biologia ... 12\n\nc) Ciências Sociais ... 12\n\nd) Ciências da Educação ... 12\n\ne) Matemática e Estatística ... 12\n\n> Alterado pelo/a [Portaria n.º 318/87](https://diariodarepublica.pt/dr/detalhe/portaria/318-1987-666118), publicado em 1987-04-16.\n\nIII) Estágio ... 10\n\nTotal ... 140\n\n> Alterado pelo/a [Portaria n.º 318/87](https://diariodarepublica.pt/dr/detalhe/portaria/318-1987-666118), publicado em 1987-04-16.\n\n3.º\n\n(Plano de estudos)\n\nO reitor da Universidade de Lisboa, sob proposta do conselho científico da Faculdade de Psicologia e Ciências da Educação, fixará, por despacho a publicar na 2.ª série do Diário da República, nos termos do artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, o elenco de disciplinas fixas e optativas e respectivas unidades de crédito que integram o plano de estudos, organizado nos termos do artigo 5.º do referido decreto-lei.\n\n4.º\n\n(Início de funcionamento)\n\nO ramo de Psicologia Social terá início em ano lectivo a fixar pelo despacho reitoral a que se refere o n.º 3.º, sob proposta fundamentada da Faculdade de Psicologia e de Ciências da Educação comprovativa de se encontrarem reunidas as condições humanas e materiais para tal necessárias.\n\nMinistério da Educação.\n\nAssinada em 7 de Junho de 1983.\n\nPelo Ministro da Educação, Alberto Romão Dias, Secretário de Estado do Ensino Superior."
+  }
+ }
+}
