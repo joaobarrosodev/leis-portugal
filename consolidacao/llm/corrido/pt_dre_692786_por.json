@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:692786:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação incide sobre o quadro n.º 1 do anexo I, que só existe em imagem, e a própria instrução está incompleta (só tem o «onde se lê», sem o «deve ler-se»).",
+  "instrucoes": [
+    "Alterador 1: retificação no quadro n.º 1 do anexo I («Análise de Qualidade dos Recursos Rurais») — anexo em imagem e instrução incompleta, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

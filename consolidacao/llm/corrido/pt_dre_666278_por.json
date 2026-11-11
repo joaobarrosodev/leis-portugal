@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:666278:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "Acções de informação e articulação entre todas as entidades públicas e particulares intervenientes foram já desenvolvidas no concelho de Vila Nova de Poiares com vista à instalação da respectiva comissão de protecção.",
+      "alterador": 1
+    },
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º É criada a Comissão de Protecção de Menores do Concelho de Vila Nova de Poiares, que fica instalada em edifício da Câmara Municipal.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: retificação no preâmbulo, «desenvolvidos na comarca de» passa a «desenvolvidos no concelho de» (unidade 4).",
+    "Alt. 1: retificação no n.º 1.º, «da Comarca» passa a «do Concelho» (unidade 7)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

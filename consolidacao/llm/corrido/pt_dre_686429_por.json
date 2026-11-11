@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:686429:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "Encontrando-se a exercer funções há mais de um ano no Gabinete para a Pesquisa e Exploração de Petróleo, em regime de destacamento, a funcionária do quadro de efectivos interdepartamental do Ministério da Indústria e Energia Aurora Antónia Pais Pinção Costa;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: rectifica a expressão do primeiro considerando, acrescentando o nome da funcionária — aplicado na unidade 3."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

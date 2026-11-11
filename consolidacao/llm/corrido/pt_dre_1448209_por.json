@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:1448209:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "4 - São objeto de publicação no Boletim do Trabalho e Emprego:",
+      "alterador": 1
+    },
+    {
+      "de": 16,
+      "ate": 17,
+      "texto": "b) Portarias de condições de trabalho, despachos de constituição de comissões técnicas para a elaboração dos estudos preparatórios;\n\nc) Portarias de extensão;",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "6 - São publicados, para apreciação pública, em separata do Boletim do Trabalho e Emprego:\n\na) Os projetos de diplomas relativos a legislação do trabalho a aprovar pelo Governo da República, transmitidos em ficheiro eletrónico em formato Word não editável;\n\nb) Os avisos de projetos de portarias de condições de trabalho e de extensão.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º, n.º 4: nova redação do corpo (objeto) e das alíneas b) e c); restantes alíneas com '...' ficam; substituídas as unidades 14 e 16-17.",
+    "Alterador 1, art. 1.º, n.º 6: nova redação com alíneas a) e b); substituída a unidade 28.",
+    "Alterador 1, art. 2.º: produção de efeitos do próprio alterador — não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

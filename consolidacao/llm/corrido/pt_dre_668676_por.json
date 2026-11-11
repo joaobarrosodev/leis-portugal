@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:668676:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 14,
+      "texto": "a) Administração e Técnicas Aduaneiras - 40;\n\nb) Auditoria - 40;\n\nc) Controlo Financeiro - 40;\n\nd) Secretariado e Gestão - 40;\n\ne) Contabilidade e Administração - 40.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1 do número único; o proémio e a epígrafe ficam iguais, mudam as vagas das alíneas a) a e) de 30 para 40 (unidades 10 a 14)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

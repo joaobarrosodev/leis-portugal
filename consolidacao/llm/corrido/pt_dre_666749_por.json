@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:666749:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação incide sobre o mapa anexo (círculos Luxemburgo e outros / Reino Unido), que no texto do original só existe em imagem (unidade 19); não há texto onde aplicar.",
+  "instrucoes": [
+    "Alt. 1: retificação do mapa anexo dos círculos eleitorais; não aplicada porque o anexo só vem em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

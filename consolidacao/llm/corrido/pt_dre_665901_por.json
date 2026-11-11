@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:665901:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 1023/89 (alteradores 1 e 2, o mesmo diploma repetido) dá nova redação aos quadros n.os 1 a 3 do anexo I, mas os quadros, originais e novos, só vêm em imagem; os n.os 2.º e 3.º são normas próprias do alterador.",
+  "instrucoes": [
+    "1.º: quadros n.os 1 a 3 do anexo I substituídos — só em imagem; não aplicado.",
+    "2.º e 3.º (aplicação e regime de transição): normas do alterador, sem alteração textual; ignoradas.",
+    "Alterador 2 é cópia do alterador 1; nada a acrescentar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

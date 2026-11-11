@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:664088:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as retificações da Declaração de Rectificação n.º 267/93 incidem sobre o mapa II do anexo I (categorias do pessoal de vigilância, Mapa III, Serralheiro civil, pessoal operário, grupo de pessoal auxiliar), que no texto atual só existe em imagem (ver documento original); o texto a retificar não existe no texto atual.",
+  "instrucoes": [
+    "Retificações de quadros dadas em imagem (onde se lê / deve ler-se): não aplicadas, mapa só em imagem.",
+    "Retificação das categorias de guarda prisional (de -> da guarda prisional; Subchefe-ajudante): texto só no mapa em imagem; não aplicada.",
+    "Serralheiro -> Serralheiro civil e grupo de pessoal auxiliar, nível 1: texto só no mapa em imagem; não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:686201:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1289/2001 (1.º) substitui o plano de estudos do anexo, mas os quadros novos só vêm em imagem; os n.os 2.º a 4.º são normas autónomas que não alteram o texto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos (anexo) — não aplicado (quadros só em imagem).",
+    "Alterador 1, 2.º a 4.º: semanas lectivas, aplicação e transição — normas próprias, não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

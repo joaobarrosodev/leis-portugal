@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:662757:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As duas retificações da Declaração de Rectificação n.º 182/91 (cap. 02, div. 02, subdiv. 05 / Despesas dom o pessoal; Remunerações certa e permanentes) incidem sobre o quadro de transferências, que só existe em imagem (ver documento original); o texto a retificar não existe no texto atual.",
+  "instrucoes": [
+    "Retificação 1 (Despesas dom o pessoal -> Despesas com o pessoal, div. 05): texto só no quadro em imagem; não aplicada.",
+    "Retificação 2 (Remunerações certa -> certas e permanentes): texto só no quadro em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:1331434:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 16,
+      "texto": "Representante da Autoridade Florestal Nacional:\n\nAugusto João Barbosa Maia.",
+      "alterador": 1
+    },
+    {
+      "de": 19,
+      "ate": 19,
+      "texto": "Representante do Instituto da Conservação da Natureza e da Biodiversidade:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do n.º 1.º; o representante da DRA de Entre Douro e Minho passa a ser o da Autoridade Florestal Nacional (unidades 15-16) e o ICN passa a ICNB (unidade 19)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

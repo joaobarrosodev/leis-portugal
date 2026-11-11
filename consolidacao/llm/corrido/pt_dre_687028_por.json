@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:687028:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 20,
+      "texto": "a) Ciências Jurídico-Forenses;\n\nb) Ciências Jurídico-Económicas;\n\nc) Ciências Jurídico-Políticas;\n\nd) Ciências Jurídico-Lusófonas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2 do 1.º: o anexo (plano de estudos) passa a ter a redacção do anexo da Portaria n.º 99/2003, mas os quadros só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º n.º 1: nova redacção do 2.º (Opções); epígrafe e proémio iguais, substituí as alíneas a) a e) (unidades 16-20) pelas novas a) a d).",
+    "Alterador 1, 1.º n.º 2: novo anexo só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

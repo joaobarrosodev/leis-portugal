@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:1502431:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 59,
+      "texto": "a) Procedimento prévio de contratação na área infra-estrutural - procedimento n.º 1, para um primeiro conjunto de no máximo quatro projectos hospitalares, até ao montante de (euro) 2 633 000, a que acresce o IVA à taxa legal, que envolve despesa em anos económicos diferentes, de acordo com o seguinte escalonamento:\n\nAno 2008 até ao limite máximo de (euro) 657 000;\n\nAno 2009 até ao limite máximo de (euro) 657 000;\n\nAno 2010 até ao limite máximo de (euro) 694 000;\n\nAno 2011 até ao limite máximo de (euro) 625 000;\n\nb) Procedimento prévio de contratação na área infra-estrutural - procedimento n.º 2, para um segundo conjunto de no máximo quatro projectos hospitalares, até ao montante de (euro) 2 633 000, a que acresce o IVA à taxa legal, que envolve despesa em anos económicos diferentes, de acordo com o seguinte escalonamento:\n\nAno 2009 até ao limite máximo de (euro) 657 000;\n\nAno 2010 até ao limite máximo de (euro) 657 000;\n\nAno 2011 até ao limite máximo de (euro) 694 000;\n\nAno 2012 até ao limite máximo de (euro) 625 000;\n\nc) Procedimento prévio de contratação na área jurídica - procedimento n.º 1, para um primeiro conjunto de no máximo quatro projectos hospitalares, até ao montante de (euro) 1 631 000, a que acresce o IVA à taxa legal, que envolve despesa em anos económicos diferentes, de acordo com o seguinte escalonamento:\n\nAno 2008 até ao limite máximo de (euro) 407 000;\n\nAno 2009 até ao limite máximo de (euro) 407 000;\n\nAno 2010 até ao limite máximo de (euro) 430 000;\n\nAno 2011 até ao limite máximo de (euro) 387 000;\n\nd) Procedimento prévio de contratação na área jurídica - procedimento n.º 2, para um segundo conjunto de no máximo quatro projectos hospitalares, até ao montante de (euro) 1 631 000, a que acresce o IVA à taxa legal, que envolve despesa em anos económicos diferentes, de acordo com o seguinte escalonamento:\n\nAno 2009 até ao limite máximo de (euro) 407 000;\n\nAno 2010 até ao limite máximo de (euro) 407 000;\n\nAno 2011 até ao limite máximo de (euro) 430 000;\n\nAno 2012 até ao limite máximo de (euro) 387 000;\n\ne) Procedimento prévio de contratação na área dos sistemas de informação - procedimento n.º 1, para um primeiro conjunto de no máximo quatro projectos hospitalares, até ao montante de (euro) 408 000, a que acresce o IVA à taxa legal, que envolve despesa em anos económicos diferentes, de acordo com o seguinte escalonamento:\n\nAno 2009 até ao limite máximo de (euro) 102 000;\n\nAno 2010 até ao limite máximo de (euro) 102 000;\n\nAno 2011 até ao limite máximo de (euro) 107 000;\n\nAno 2012 até ao limite máximo de (euro) 97 000;\n\nf) Procedimento prévio de contratação na área dos sistemas de informação - procedimento n.º 2, para um segundo conjunto de no máximo quatro projectos hospitalares, até ao montante de (euro) 408 000, a que acresce o IVA à taxa legal, que envolve despesa em anos económicos diferentes, de acordo com o seguinte escalonamento:\n\nAno 2009 até ao limite máximo de (euro) 102 000;\n\nAno 2010 até ao limite máximo de (euro) 102 000;\n\nAno 2011 até ao limite máximo de (euro) 107 000;\n\nAno 2012 até ao limite máximo de (euro) 97 000;\n\ng) Procedimento prévio de contratação na área económico-financeira para o conjunto de no máximo quatro projectos hospitalares, até ao montante de (euro) 2 513 000, a que acresce o IVA à taxa legal, que envolve despesa em anos económicos diferentes, de acordo com o seguinte escalonamento:\n\nAno 2008 até ao limite máximo de (euro) 627 000;\n\nAno 2009 até ao limite máximo de (euro) 627 000;\n\nAno 2010 até ao limite máximo de (euro) 663 000;\n\nAno 2011 até ao limite máximo de (euro) 596 000;\n\nh) Procedimento prévio de contratação na área da gestão clínica, para o conjunto de no máximo quatro projectos hospitalares, até ao montante de (euro) 1 651 000, a que acresce o IVA à taxa legal, que envolve despesa em anos económicos diferentes, de acordo com o seguinte escalonamento:\n\nAno 2008 até ao limite máximo de (euro) 412 000;\n\nAno 2009 até ao limite máximo de (euro) 412 000;\n\nAno 2010 até ao limite máximo de (euro) 435 000;\n\nAno 2011 até ao limite máximo de (euro) 392 000.",
+      "alterador": 1
+    },
+    {
+      "de": 61,
+      "ate": 62,
+      "texto": "3.º Os saldos a que se refere o número anterior podem ser afectos a encargos decorrentes da prorrogação dos contratos celebrados no âmbito dos procedimentos constantes da presente portaria, com o limite temporal de 2013 no caso dos procedimentos das alíneas a), c), g) e h) e com o limite temporal de 2014 nos restantes casos.\n\n4.º Os encargos decorrentes da presente portaria serão suportados por verbas adequadas a inscrever no orçamento da Administração Central do Sistema de Saúde, I. P.\n\n5.º A presente portaria produz os seus efeitos no dia seguinte ao da sua publicação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redação do n.º 1.º: corpo (unidade 11) igual; alíneas a) a h) e escalonamentos (unidades 12-59) substituídos pela nova redação.",
+    "N.º 2.º com '...': mantido.",
+    "Novo n.º 3.º (saldos/prorrogação), antigo 3.º passa a 4.º com nova entidade (ACSS), antigo 4.º passa a 5.º com o mesmo texto: unidades 61-62 substituídas.",
+    "O alterador publica um anexo apenas em imagem, sem instrução textual de substituição: anexo do original mantido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

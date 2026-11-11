@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:673039:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 700/2007 extingue a zona de caça municipal de Giões criada pela Portaria n.º 329/2006, mas não revoga nem altera o texto da portaria; a extinção é um efeito material, não uma alteração textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º: extinção da zona de caça municipal de Giões — não é alteração textual, não aplicada. Os n.os 2.º a 5.º dizem respeito a outra zona de caça (Chada de Giões)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

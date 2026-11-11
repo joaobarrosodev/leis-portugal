@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:664078:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 1174/2000 substitui o plano de estudos anexo, mas o anexo original e o novo só vêm em imagem; os n.os 2.º a 5.º (ramos, ano lectivo, aplicação, transição) são normas próprias do alterador sem instrução de alteração textual do original.",
+  "instrucoes": [
+    "1.º: plano de estudos passa a ser o do anexo da Portaria n.º 1174/2000 — anexo só em imagem; não aplicado.",
+    "2.º a 5.º: normas autónomas do alterador, sem alteração ao texto do original; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

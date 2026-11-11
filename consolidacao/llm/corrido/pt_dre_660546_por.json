@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:660546:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: rectificação de um elemento da tabela anexa, que só vem em imagem no original e no alterador.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção de um elemento da tabela anexa, só em imagem: não aplicado.",
+    "Alterador 1, 2.º: produção de efeitos, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

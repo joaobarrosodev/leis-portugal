@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:674203:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 316/2003 (1.º) fixa um novo plano de estudos para o curso autorizado pela Portaria n.º 829/91, mas o original não contém plano de estudos nem anexo onde o aplicar (e os quadros do novo anexo só vêm em imagem); não é uma alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos do curso de Serviço Social em Beja; não aplicado (o original não tem plano de estudos; quadros só em imagem).",
+    "Alterador 1, 2.º a 5.º: normas próprias (opções, duração do ano lectivo, transição, aplicação); não alteram o texto do original; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

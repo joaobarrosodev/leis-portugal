@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:692471:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as retificações da Declaração n.º 117/93 incidem sobre os mapas I e II (colunas e notas), que só existem em imagem no documento original; nada a alterar no texto.",
+  "instrucoes": [
+    "Alterador 1: retificações da coluna «Categoria» e das notas (d), (e), (f), (h) e (o) do mapa I e da coluna «Categoria» do mapa II — mapas só em imagem, não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

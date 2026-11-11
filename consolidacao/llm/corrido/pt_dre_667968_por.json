@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:667968:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 809/97 dá nova redação ao anexo (plano de estudos), que tanto no original (unidade 20) como no alterador só vem em imagem; não há texto a aplicar.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do anexo I (plano de estudos); não aplicada, anexo só em imagem.",
+    "Alt. 1, 2.º e 3.º: aplicação e transição próprias do alterador; não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

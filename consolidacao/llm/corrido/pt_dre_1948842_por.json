@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:1948842:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os dois alteradores (Avisos do Banco de Portugal n.º 7/2012 e 10/2012) alteram o Aviso do Banco de Portugal n.º 3/2010 (Fundo de Garantia do Crédito Agrícola Mútuo, n.os 2.º, 3.º, 4.º, 5.º), mas o original é um aviso de um agrupamento de escolas sobre listas de antiguidade docente, sem esses números; alvo não corresponde ao texto atual.",
+  "instrucoes": [
+    "Aviso BdP 7/2012, art. 1.º: altera o n.º 3.º do Aviso BdP 3/2010 - não existe no original; não aplicado.",
+    "Aviso BdP 10/2012, n.os 1 a 5: alteram/aditam/revogam n.os 2.º, 4.º, 4.º-A a 4.º-E, 5.º b) e c), 5.º-B do Aviso BdP 3/2010 - não existem no original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

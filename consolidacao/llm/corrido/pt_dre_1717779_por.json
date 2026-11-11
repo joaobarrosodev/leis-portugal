@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:1717779:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 18,
+      "texto": "Autarca de freguesia - Alfredo António Sampaio.\n\nRepresentante da Autoridade Florestal Nacional - António José Pereira Baptista.\n\nRepresentante das associações de defesa do ambiente - Mário Pereira Gonçalves.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redação do n.º 1.º: unidades 6-12 iguais; autarca, representante florestal (agora Autoridade Florestal Nacional) e ambiente passam a uma linha cada (unidades 13-18 substituídas)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

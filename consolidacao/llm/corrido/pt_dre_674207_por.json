@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:674207:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "Definição. - São esforços físicos de alta intensidade, realizados por curtos períodos de tempo (cinco a sessenta segundos) e que exigem uma aptidão predominante anaeróbica.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A rectificação no anexo II («Queijo - 0,250 kg» → «Queijo - 0,025 kg») incide sobre a tabela de capitações, que só vem em imagem no texto atual (unidade 28); não aplicada.",
+  "instrucoes": [
+    "Alterador 1: rectificação da definição do n.º 1 do anexo I (acrescenta «e que exigem uma aptidão predominante anaeróbica»); aplicada à unidade 18 (o texto atual já tinha «sessenta» por extenso).",
+    "Alterador 1: rectificação no anexo II (queijo 0,250 kg → 0,025 kg); não aplicada porque a tabela só vem em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:248522:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é renovada, por um período de 12 anos, renovável automaticamente, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos nas freguesias de Paredes da Beira, Riodades e Trevões, município de São João da Pesqueira, com a área de 2006 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: no n.º 1.º acrescenta renovável automaticamente após por um período de 12 anos; unidade 6 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:667499:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 8,
+      "texto": "2.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1.º: aprova uma nova declaração de autoliquidação (modelo n.º 6) por diploma próprio; não altera o texto do original.",
+    "Alt. 1, 2.º: revogado o n.º 2.º; unidades 7-8 (corpo e n.º 2.1) substituídas por «2.º - (Revogado.)»."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

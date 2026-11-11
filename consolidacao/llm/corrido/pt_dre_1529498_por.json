@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:1529498:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Autorizar, nos termos do artigo 1.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a cessão, a título definitivo, ao Centro Social da Cova e Gala do prédio rústico, com a área de 15 000 m2, a desanexar da Mata do Cabedelo, freguesia de Lavos, concelho da Figueira da Foz, que se encontra inscrita na respectiva matriz sob o artigo 5562, descrita na Conservatória do Registo Predial da Figueira da Foz sob o n.º 00330/290486 e registada, a favor do Estado, pela inscrição G-1.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "N.º 2.º do alterador (o prazo de 90 dias do n.º 5.º conta-se a partir da publicação do alterador) não é alteração textual do original.",
+  "instrucoes": [
+    "Nova redação do n.º 1.º: unidade 6 substituída.",
+    "Contagem do prazo do n.º 5.º: não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

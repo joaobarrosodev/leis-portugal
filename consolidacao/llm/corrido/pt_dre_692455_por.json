@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:692455:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 396/96 substitui os quadros do anexo I, que só existem em imagem (documento original); não há texto a alterar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: os quadros do anexo I passam a ter a redação dos quadros do anexo I da Portaria n.º 396/96 — anexo só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

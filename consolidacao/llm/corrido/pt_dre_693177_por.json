@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:693177:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação incide sobre o mapa anexo, que só existe em imagem no documento original; nada a alterar no texto.",
+  "instrucoes": [
+    "Alterador 1: no mapa anexo, «Conservador-restaurador, ...» passa a «Conservador-restaurador assessor principal, ...» — mapa só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

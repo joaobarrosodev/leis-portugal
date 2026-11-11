@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:660676:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: extingue a zona de caça municipal criada pelo original; não é uma alteração textual nem revogação expressa do texto da portaria.",
+  "instrucoes": [
+    "Alterador 1, 1.º: extinção da zona de caça municipal: não textual, não aplicado.",
+    "Alterador 1, 2.º a 4.º: concessão de nova zona de caça associativa, não dirigida ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

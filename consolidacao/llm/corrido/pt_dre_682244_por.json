@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:682244:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "Pilotos (PIL); pára-quedistas (PARAQ); navegadores (NAV); técnicos de informática (TINF), de operações de meteorologia (TOMET), de operações de circulação aérea e radar de tráfego (TOCART), de operações de detecção e conduta de intercepção (TODCI), de manutenção de material aéreo (TMMA), de manutenção de material terrestre (TMMT), de manutenção de material electrotécnico (TMMEL), de manutenção de armamento e equipamento (TMAEQ), de abastecimento (TABST) e de pessoal e apoio administrativo (TPAA); e polícia aérea (PA);",
+      "alterador": 1
+    },
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "Pára-quedistas (PARAQ); operadores de comunicações (OPCOM), de meteorologia (OPMET), de circulação aérea e radarista de tráfego (OPCART), radarista de detecção (OPDET), de informática (OPINF) e de sistemas de assistência e socorro (OPSAS); mecânicos de material aéreo (MMA), de material terrestre (MMT), de electricidade (MELECT), de electrónica (MELECA), de electricidade e instrumentos de avião (MELIAV) e armamento e equipamento (MARME); abastecimentos (ABST); construção e manutenção de infra-estruturas (CMI); serviço de saúde (SS); polícia aérea (PA); secretariado e apoio de serviços (SAS); e músicos (MUS).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: rectifica a alínea a) do n.º 1.º, acrescentando 'pára-quedistas (PARAQ);' a seguir a 'Pilotos (PIL);' — aplicado na unidade 8.",
+    "Alterador 1: rectifica a alínea b) do n.º 1.º, passando a começar por 'Pára-quedistas (PARAQ); operadores de comunicações (OPCOM)' — aplicado na unidade 10."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

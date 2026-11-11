@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:1947612:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "Fernando Manuel Coelho da Silva;",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "Rodolfo Manuel Fernandes Torres;",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 19,
+      "texto": "Representante da Autoridade Florestal Nacional:\n\nAugusto João Barbosa Maia.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 1081/2009, artigo único: nova redação do n.º 1.º; substituídas só as unidades que mudam (8, 11 pontuação; 17-19 novo representante da AFN e designação do ICNB)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

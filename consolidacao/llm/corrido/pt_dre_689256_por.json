@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:689256:por",
+  "substituicoes": [
+    {
+      "de": 37,
+      "ate": 37,
+      "texto": "Mínimo de cobrança - 900$00;",
+      "alterador": 1
+    },
+    {
+      "de": 41,
+      "ate": 41,
+      "texto": "Mínimo de cobrança - 800$00;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: os quadros de tarifas do n.º 1.º são substituídos, mas os novos quadros só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição dos quadros do n.º 1.º, só em imagem; não aplicada.",
+    "Alterador 1, 2.º: mínimo de cobrança do n.º 18.º passa a 900$00 (Lisboa-Açores, unidade 37) e 800$00 (Açores-Madeira, unidade 41)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:664876:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 1021/99 dá nova redação ao anexo IV, mas o quadro de vagas, tanto o original como o novo, só vem em imagem; o título e o subtítulo do anexo ficam iguais.",
+  "instrucoes": [
+    "1.º: anexo IV passa a ter a redação do anexo da Portaria n.º 1021/99 — quadro só em imagem; não aplicado (título e subtítulo sem mudança).",
+    "2.º (produção de efeitos): norma do alterador, não altera o texto; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

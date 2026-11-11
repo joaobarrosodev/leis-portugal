@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:660301:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o novo plano de estudos (anexo) só vem em imagem (quadros n.os 1 a 10 no documento original); não há texto para substituir o anexo.",
+  "instrucoes": [
+    "Alterador 1, 1.º: plano de estudos do curso passa a ser o do anexo, que só existe em imagem: não aplicado.",
+    "Alterador 1, 2.º e 3.º: aplicação no tempo e transição, sem alteração textual ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

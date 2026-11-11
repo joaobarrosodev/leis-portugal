@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:673795:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 129/2003 (1.º) dá nova redação ao anexo II, mas o novo anexo consiste em quadros n.os 1 a 6 que só vêm em imagem; o texto do cabeçalho não muda e os quadros não se podem reproduzir.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo II (plano de estudos); não aplicada porque os quadros só vêm em imagem.",
+    "Alterador 1, 2.º e 3.º: normas próprias (transição, aplicação), não alteram o texto do original; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pt:dre:916457169:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "1 - Autorizar o Instituto Superior Técnico da Universidade de Lisboa (IST) a assumir a realização da despesa correspondente à celebração do contrato de empreitada de obras públicas de «Reabilitação e construção do edifício do jardim sul do Polo da Alameda - Centro para a Inteligência Artificial e Economia Digital | AIDE», até ao montante global máximo de 8 000 000,00 €, ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor.",
+      "alterador": 1
+    },
+    {
+      "de": 14,
+      "ate": 22,
+      "texto": "a) 2025 - 0,00 €:\n\ni) Financiamento FEDER: 0,00 €;\n\nii) Financiamento nacional: 0,00 €;\n\nb) 2026 - 3 316 574,79 €, repartido por:\n\ni) Financiamento FEDER: 1 326 629,92 €;\n\nii) Saldos de Fundos Europeus:1 989 944,87 €;\n\nc) 2027 - 4 683 425,21 €, repartido por:\n\ni) Financiamento FEDER: 1 873 370,08 €;\n\nii) Saldos de Fundos Europeus: 1 298 726,03 €;\n\niii) Receita Própria: 1 511 329,10 €.",
+      "alterador": 1
+    },
+    {
+      "de": 24,
+      "ate": 26,
+      "texto": "4 - Determinar que os encargos financeiros decorrentes da presente resolução são suportados por verbas adequadas inscritas, no ano de 2026, e a inscrever, no ano de 2027, nas fontes de financiamento referidas no n.º 2 do orçamento do IST, não havendo lugar, para este efeito, a qualquer reforço orçamental com recurso à dotação provisional ou a outras dotações centralizadas do Ministério das Finanças, nem com recurso ao capítulo 60, gerido pela Entidade do Tesouro e Finanças, durante a execução orçamental.\n\n5 - Estabelecer que a assunção dos encargos financeiros plurianuais decorrentes da presente resolução não constitui fundamento para a atribuição de plafond adicional referente ao ano de 2027.\n\n6 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área do ensino superior, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.\n\n7 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "| (valores com IVA) |  |  |  |\n| --- | --- | --- | --- |\n| Ano | Atividades | Total ano |  |\n| Ano 2026 |  |  |  |\n|  | Montagem de estaleiro | 135 601 € |  |\n|  | Demolições e preparação do terreno | 96 407 € |  |\n|  | Trabalho de escavação | 22 535 € |  |\n|  | Estrutura | 930 259 € |  |\n|  | Alvenarias | 72 899 € |  |\n|  | Redes de infraestruturas | 540 652 € |  |\n|  | Equipamentos fixos (AVAC e GTC) | 719 933 € |  |\n|  | Tectos e luminárias | 267 615 € |  |\n|  | Caixilharias e portas | 288 791 € |  |\n|  | Revestimentos exteriores | 323 484 € |  |\n|  | Ascensores | 92 574 € |  |\n|  | Aranjos exteriores | 24 821 € |  |\n|  | Total parcial | 3 515 569 € |  |\n| Ano 2027 |  |  |  |\n|  | Montagem de estaleiro | 406 802 € |  |\n|  | Demolições e preparação do terreno | 0 € |  |\n|  | Trabalho de escavação | 0 € |  |\n|  | Estrutura | 558 155 € |  |\n|  | Alvenarias | 216 809 € |  |\n|  | Redes de infraestruturas | 756 913 € |  |\n|  | Equipamentos fixos (AVAC e GTC) | 719 933 € |  |\n|  | Tectos e luminárias | 535 229 € |  |\n|  | Caixilharias e portas | 577 582 € |  |\n|  | Revestimentos exteriores | 646 967 € |  |\n|  | Ascensores | 129 603 € |  |\n|  | Aranjos exteriores | 416 437 € |  |\n|  | Total parcial | 4 964 431 € |  |\n|  | Total global | 8 480 000 € |  |",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 1 (unidade 12); proémio do n.º 2 mantido ([...]) e alíneas a) a c) substituídas (unidades 14-22); n.º 3 mantido; nova redação do n.º 4 e aditamento do n.º 5; anteriores n.os 5 e 6 renumerados como 6 e 7 (unidades 24-26).",
+    "Alterador 1, n.º 2: nova redação do anexo; título e epígrafe iguais, substituída a tabela do plano de execução financeira (unidade 30)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

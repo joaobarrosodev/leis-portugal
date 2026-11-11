@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:670349:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1485/2007 revoga a Portaria n.º 600/2003 só «na parte em que autorizou» o IP de Portalegre/ESA de Elvas a conferir o bacharelato em Gestão de Espaços Verdes; é revogação parcial que não corresponde a nenhum texto do original (que trata da licenciatura em Música da ESAA de Castelo Branco), pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, 4.º, alínea b): revogação parcial («na parte em que…») sem correspondência textual no original — não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

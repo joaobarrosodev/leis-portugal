@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:692042:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: o anexo (plano de estudos) passa a ter a redacção do anexo da Portaria n.º 63/2005, mas os quadros n.os 1 a 5 desse anexo só vêm em imagem no documento original; não se aplica por não haver texto seguro para o novo anexo.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: o 2.º ciclo passa a desdobrar-se nos ramos de Informação e Planeamento e de Ciências Empresariais — norma própria, sem alteração textual de nenhuma unidade do original.",
+    "Alterador 1, n.º 2.º: substitui o anexo do original pelo anexo da Portaria n.º 63/2005 — não aplicado: quadros só em imagem.",
+    "Alterador 1, n.os 3.º a 5.º: normas próprias (Estágio, transição, aplicação) — ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

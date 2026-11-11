@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:673797:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 190/2003 (3.º) dá nova redação ao anexo, mas o novo anexo consiste em quadros n.os 1 a 10 que só vêm em imagem. A mudança de denominação do curso (1.º) e o desdobramento em ramos (2.º) são normas próprias, não alterações textuais do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 414/2002): muda a denominação de outro curso (Engenharia de Projectos e Gestão de Obras, Portaria n.º 842/93 alterada pela 873/99); não é dirigida ao original; ignorada.",
+    "Alterador 2, 1.º e 2.º: nova denominação (Engenharia Industrial) e ramos do curso; normas próprias, sem alteração textual do original; não aplicadas.",
+    "Alterador 2, 3.º: nova redação do anexo; não aplicada porque os quadros só vêm em imagem.",
+    "Alterador 2, 4.º e 5.º: transição e aplicação; normas próprias; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

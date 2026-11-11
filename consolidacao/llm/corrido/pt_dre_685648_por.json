@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:685648:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "Parte do encargo do saco o arredondamento ... $0066",
+      "alterador": 1
+    },
+    {
+      "de": 10,
+      "ate": 12,
+      "texto": "0,630 kg de farinha para incorporação a 3$1992/quilograma ... 2$0155\n\n0,220 kg de farinha forrageira a 2$20/quilograma ... $484\n\n0,150 kg de gérmen a 2$114 02/quilograma ... $3171",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui (provisoriamente) o diagrama — a despesa só difere na linha do saco (copiada letra a letra, unidade 6) e a receita muda nas três linhas (unidades 10 a 12); os totais ficam iguais.",
+    "Alterador 1, 2.º a 5.º: normas autónomas (diferencial, características da farinha, requisição) que não alteram o texto do original — não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

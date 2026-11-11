@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:1686403:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "Representante da Autoridade Florestal Nacional - Viriato Pascoal Lopes Alves.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redação do n.º 1.º: só muda o representante florestal (unidade 16); o resto é igual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

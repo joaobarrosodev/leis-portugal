@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:687030:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o anexo (plano de estudos) passa a ter a redacção do anexo da Portaria n.º 897/98, mas os quadros só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo anexo só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

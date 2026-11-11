@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:1086157:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2: o novo mapa só vem em imagem ((ver documento original)); não se pode transcrever. O n.º 1 do alterador fixa novos montantes globais mas não manda alterar texto do original.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: fixa os encargos totais em novos valores, sem instrução textual sobre o original; nada aplicado.",
+    "Alterador 1, n.º 2: nova redação do mapa (unidade 9), que só existe em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

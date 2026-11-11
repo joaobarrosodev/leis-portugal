@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:673613:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A rectificação («Psicologia da Comunicação» passa a «Psicossociologia da Comunicação», na col. «Unidades curriculares» do anexo) incide sobre o quadro n.º 4, que só existe em imagem (unidade 23).",
+  "instrucoes": [
+    "Alterador 1: rectificação de uma unidade curricular no quadro do anexo — não aplicada, quadro só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

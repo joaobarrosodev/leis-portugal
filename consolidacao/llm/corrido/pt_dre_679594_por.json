@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:679594:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O Decreto n.º 146/80 (art. 3.º) extingue o quadro de pessoal assalariado do Consulado no Havre e cria em Ruão um quadro idêntico; os quadros só existem em imagem (mapas anexos) e a alteração não é textual.",
+  "instrucoes": [
+    "Alterador 1, art. 3.º: extinção do quadro do Havre e criação de quadro idêntico em Ruão — não aplicado (mapa só em imagem, alteração não textual)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

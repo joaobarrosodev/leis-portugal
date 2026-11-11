@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:692044:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "5.º O montante da comparticipação por beneficiário do subsistema inscrito na base de dados do cartão de saúde com essa qualidade é fixado no ano de 2004 em Euro 181.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 16,
+      "texto": "6.º O valor fixado no número anterior é actualizado de acordo com a variação do índice de preços no consumidor do sector da saúde registada no ano civil imediatamente anterior.\n\n7.º Aos valores referidos nos números anteriores acrescem nos anos referidos os seguintes montantes:\n\n2004 - Euro 100;\n\n2005 - Euro 120;\n\n2006 - Euro 140;\n\n2007 - Euro 155;\n\n2008 - Euro 170.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redacção do n.º 5.º — substituída a unidade 16.",
+    "Alterador 1, n.º 2.º: aditamento dos n.os 6.º e 7.º — inseridos a seguir à unidade 16 (n.º 5.º), antes da assinatura."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

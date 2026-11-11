@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:691649:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o anexo (plano de estudos) passa a ter a redacção do anexo da Portaria n.º 146/2003, mas os quadros n.os 1 a 6 desse anexo só vêm em imagem no documento original; não se aplica por não haver texto seguro para o novo anexo.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui o anexo do original pelo anexo da Portaria n.º 146/2003 — não aplicado: quadros só em imagem.",
+    "Alterador 1, n.os 2.º a 4.º: normas próprias (duração do ano lectivo, transição, aplicação) que não alteram o texto do original — ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

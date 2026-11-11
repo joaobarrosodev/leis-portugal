@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:692034:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: o anexo (plano de estudos) passa a ter a redacção do anexo da Portaria n.º 681/2004, mas os quadros n.os 1 a 6 desse anexo só vêm em imagem no documento original; não se aplica por não haver texto seguro para o novo anexo.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: o 2.º ciclo do curso passa a desdobrar-se nos ramos de Auditoria, Gestão Financeira e Gestão Comercial e Marketing — norma própria, sem alteração textual de nenhuma unidade do original.",
+    "Alterador 1, n.º 2.º: substitui o anexo do original pelo anexo da Portaria n.º 681/2004 — não aplicado: quadros só em imagem.",
+    "Alterador 1, n.º 3.º: aplicação a partir de 2003-2004 — norma própria, ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
