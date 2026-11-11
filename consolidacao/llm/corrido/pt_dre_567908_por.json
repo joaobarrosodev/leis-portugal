@@ -1,0 +1,295 @@
+{
+  "id": "pt:dre:567908:por",
+  "substituicoes": [
+    {
+      "de": 56,
+      "ate": 56,
+      "texto": "Quatro anos.",
+      "alterador": 8
+    },
+    {
+      "de": 63,
+      "ate": 63,
+      "texto": "a) Matemática ... 8",
+      "alterador": 8
+    },
+    {
+      "de": 69,
+      "ate": 73,
+      "texto": "a) Biologia ... 13,5\n\nb) Matemática ... 13,5\n\nc) Física ... 13,5\n\nd) Química ... 13,5\n\ne) Geologia ...13,5",
+      "alterador": 8
+    },
+    {
+      "de": 97,
+      "ate": 97,
+      "texto": "Quatro anos.",
+      "alterador": 8
+    },
+    {
+      "de": 104,
+      "ate": 104,
+      "texto": "a) Matemática ... 8",
+      "alterador": 8
+    },
+    {
+      "de": 109,
+      "ate": 109,
+      "texto": "4.3 - Áreas científicas opcionais:\n\na) Biologia ... 3,5\n\nb) Matemática ... 3,5\n\nc) Física ... 3,5\n\nd) Química ... 3,5\n\ne) Geologia ... 3,5\n\n5 - Nos termos dos n.os 16 e 17 do [Despacho Normativo n.º 323/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/323-1980-462199), de 6 de Outubro, o curso inclui igualmente um estágio profissionalizante e um seminário, ambos com carácter facultativo e com a duração máxima de dois semestres.",
+      "alterador": 8
+    },
+    {
+      "de": 116,
+      "ate": 116,
+      "texto": "Cinco anos.",
+      "alterador": 8
+    },
+    {
+      "de": 118,
+      "ate": 119,
+      "texto": "a) 130 unidades de crédito;\n\nb) Aprovação em estágio pedagógico.",
+      "alterador": 8
+    },
+    {
+      "de": 128,
+      "ate": 129,
+      "texto": "d) Mineralogia-Geologia ...4\n\n4.3 - Monografia ... 4",
+      "alterador": 8
+    },
+    {
+      "de": 131,
+      "ate": 131,
+      "texto": "Ramo de especialização científico-tecnológica em Industrias Alimentares",
+      "alterador": 4
+    },
+    {
+      "de": 138,
+      "ate": 138,
+      "texto": "129.",
+      "alterador": 4
+    },
+    {
+      "de": 141,
+      "ate": 142,
+      "texto": "a) Química ... 51,5\n\nb) Biologia ... 25,5",
+      "alterador": 4
+    },
+    {
+      "de": 144,
+      "ate": 144,
+      "texto": "a) Matemática ... 13",
+      "alterador": 4
+    },
+    {
+      "de": 146,
+      "ate": 146,
+      "texto": "4.3 - Áreas científicas opcionais:\n\na) Química ... 30\n\nb) Física ... 30\n\nc) Biologia ... 30",
+      "alterador": 4
+    },
+    {
+      "de": 155,
+      "ate": 155,
+      "texto": "129.",
+      "alterador": 4
+    },
+    {
+      "de": 158,
+      "ate": 159,
+      "texto": "a) Química ... 51,5\n\nb) Biologia ... 25,5",
+      "alterador": 4
+    },
+    {
+      "de": 161,
+      "ate": 161,
+      "texto": "a) Matemática ... 13",
+      "alterador": 4
+    },
+    {
+      "de": 164,
+      "ate": 167,
+      "texto": "a) Matemática ... 30\n\nb) Química ... 30\n\nc) Física ... 30\n\nd) Biologia ... 30",
+      "alterador": 4
+    },
+    {
+      "de": 175,
+      "ate": 180,
+      "texto": "3 - Número total de unidades do crédito necessárias à concessão do grau:\n\n129.\n\n4 - Áreas científicas e distribuição das unidade de crédito:\n\n4.1 - Áreas científicas obrigatórias principais:\n\na) Química ... 51,5\n\nb) Biologia ... 25,5",
+      "alterador": 4
+    },
+    {
+      "de": 182,
+      "ate": 182,
+      "texto": "a) Matemática ... 13",
+      "alterador": 4
+    },
+    {
+      "de": 185,
+      "ate": 187,
+      "texto": "a) Química ... 30\n\nb) Física ... 30\n\nc) Biologia ... 30",
+      "alterador": 4
+    },
+    {
+      "de": 232,
+      "ate": 232,
+      "texto": "a) 129,5 unidades de crédito;",
+      "alterador": 5
+    },
+    {
+      "de": 237,
+      "ate": 237,
+      "texto": "b) Ciências da Educação ... 26,5",
+      "alterador": 5
+    },
+    {
+      "de": 243,
+      "ate": 243,
+      "texto": "Ramo de especialização científico-tecnológico",
+      "alterador": 6
+    },
+    {
+      "de": 254,
+      "ate": 254,
+      "texto": "a) Matemática ... 16",
+      "alterador": 6
+    },
+    {
+      "de": 259,
+      "ate": 262,
+      "texto": "a) Matemática ... 4\n\nb) Física ... 4\n\nc) Química ... 4",
+      "alterador": 6
+    },
+    {
+      "de": 292,
+      "ate": 292,
+      "texto": "a) 127,5 unidades de crédito;",
+      "alterador": 7
+    },
+    {
+      "de": 296,
+      "ate": 296,
+      "texto": "b) Ciências da Educação ... 24,5",
+      "alterador": 7
+    },
+    {
+      "de": 301,
+      "ate": 302,
+      "texto": "d) Biologia ... 12\n\n4.4. - Monografia ... 6",
+      "alterador": 7
+    },
+    {
+      "de": 324,
+      "ate": 324,
+      "texto": "Quatro anos.",
+      "alterador": 8
+    },
+    {
+      "de": 329,
+      "ate": 329,
+      "texto": "Matemática ... 115",
+      "alterador": 8
+    },
+    {
+      "de": 344,
+      "ate": 344,
+      "texto": "a) Matemática ... 88",
+      "alterador": 1
+    },
+    {
+      "de": 346,
+      "ate": 346,
+      "texto": "4.2 - Área científica obrigatória afim:\n\nFísica ... 3\n\n4.3 - Áreas científicas opcionais:",
+      "alterador": 1
+    },
+    {
+      "de": 349,
+      "ate": 349,
+      "texto": "4.4 - Monografia ... 8",
+      "alterador": 1
+    },
+    {
+      "de": 356,
+      "ate": 356,
+      "texto": "3 - Número total de unidades de crédito necessárias à concessão do grau:",
+      "alterador": 1
+    },
+    {
+      "de": 360,
+      "ate": 360,
+      "texto": "Química ... 96,5",
+      "alterador": 1
+    },
+    {
+      "de": 362,
+      "ate": 362,
+      "texto": "a) Matemática ... 17",
+      "alterador": 1
+    },
+    {
+      "de": 364,
+      "ate": 366,
+      "texto": "4.3 - Áreas científicas opcionais:\n\na) Química ... 3,5\n\nb) Ciências da Educação ... 3,5",
+      "alterador": 1
+    },
+    {
+      "de": 375,
+      "ate": 376,
+      "texto": "a) 128,5 unidades de crédito;\n\nb) Aprovação em estágio profissionalizante:",
+      "alterador": 5
+    },
+    {
+      "de": 379,
+      "ate": 380,
+      "texto": "a) Química ... 66\n\nb) Ciências da Educação ... 26",
+      "alterador": 5
+    },
+    {
+      "de": 382,
+      "ate": 382,
+      "texto": "a) Matemática ... 17",
+      "alterador": 5
+    },
+    {
+      "de": 384,
+      "ate": 384,
+      "texto": "4.3 - Monografia ... 2,5",
+      "alterador": 5
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 49,
+      "texto": "7.º\n\n(Classificação final da licenciatura)\n\n1 - A classificação final da licenciatura é a média aritmética ponderada arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas) das classificações das disciplinas em que o aluno realizou os créditos necessários à satisfação do disposto no n.º 3.º\n\n2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.",
+      "alterador": 3
+    },
+    {
+      "depois_de": 129,
+      "texto": "## ANEXO IV-A — Curso de licenciatura em Biologia\n\nRamo de especialização científico-tecnológica em Ecologia e Recursos Zoológicos\n\n1 - Área científica do curso:\n\nBiologia.\n\n2 - Duração normal do curso:\n\nQuatro anos.\n\n3 - Número total de unidades de crédito necessárias à concessão do grau:\n\n130.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Área científica obrigatória principal:\n\nBiologia ... 101,5\n\n4.2 - Áreas científicas obrigatórias afins:\n\na) Matemática ... 8\n\nb) Física ... 4,5\n\nc) Química ... 4,5\n\nd) Mineratogia-Geologia ... 4\n\ne) História e Filosofia da Ciência ... 4\n\n4.3 - Áreas científicas opcionais:\n\na) Biologia ... 3,5\n\nb) Matemática ... 3,5\n\nc) Física ... 3,5\n\nd) Química ... 3,5\n\ne) Geologia ... 3,5\n\n5 - Nos termos dos n.os 16 e 17 do Despacho n.º 323/80, de 6 de Outubro, o curso inclui igualmente um estágio profissionalizante e um seminário, ambos com carácter facultativo e com a duração máxima de dois semestres.",
+      "alterador": 8
+    },
+    {
+      "depois_de": 294,
+      "texto": "4.1 - Áreas científicas obrigatórias principais:",
+      "alterador": 7
+    },
+    {
+      "depois_de": 331,
+      "texto": "4.3 - Áreas científicas opcionais:\n\na) Matemática ... 8\n\nb) Física ... 8",
+      "alterador": 8
+    }
+  ],
+  "nao_aplicavel": "Portaria 148/88, 1.º n.os 1 e 2 (criação do ramo em Ecologia e Recursos Zoológicos e extinção do ramo em Biologia Aquática) e 4.º (o ramo em Química Biológica passa a designar-se Química Biofísica) são normas próprias, sem instrução de nova redação do n.º 1.º do original; não aplicadas ao texto (o anexo II mantém-se).",
+  "instrucoes": [
+    "Alt. 1: nova redação dos anexos V, VI, VII, XI, XVI, XVII e XVIII; V, VI, VII, XI e XVIII depois redigidos de novo pelos alts. 4, 5 e 6 (ficou a última redação); XVI e XVII aplicados unidade a unidade",
+    "Alt. 2: nova redação do anexo XV; substituída depois pelo alt. 8",
+    "Alt. 3: aditado o n.º 7.º (inserção depois da unidade 49)",
+    "Alt. 4: nova redação dos anexos V, VI e VII (títulos e números trocados; VI volta a Química-Biofísica e ao '3 - Número total' original)",
+    "Alt. 5: nova redação dos anexos X, XIII e XVIII (XIII depois substituído pelo alt. 7)",
+    "Alt. 6: nova redação do anexo XI",
+    "Alt. 7: nova redação do anexo XIII; '...' sem unidade correspondente ignorado",
+    "Alt. 8: nova redação dos anexos I, III, IV e XV e aditamento do anexo IV-A (inserido depois do anexo IV); 1.º e 4.º não aplicados (ver nao_aplicavel)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "inserção depois de 129: parágrafo que não está no alterador nem no original: ## ANEXO IV-A — Curso de licenciatura em Biologia"
+  ]
+}

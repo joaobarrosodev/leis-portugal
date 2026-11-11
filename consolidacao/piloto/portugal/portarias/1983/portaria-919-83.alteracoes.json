@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Metalomecânica;",
+    "depois": "b) Mecânica.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:441282:por",
+    "alterador": "pt:dre:620332:por;pt:dre:377078:por"
+  },
+  {
+    "artigo": "depois da unidade 49",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "4.º-A\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de dez.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas de serviço de aulas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de uma delas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:441282:por",
+    "alterador": "pt:dre:620332:por;pt:dre:377078:por"
+  },
+  {
+    "artigo": "unidades 92-116",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO II — Licenciatura em Engenharia Civil - Ramo de Produção\n\n1 - Área científica do curso:\n\nEngenharia Civil (Produção).\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\n171 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Obrigatórias:\n\n4.1.1 - Estruturas e Materiais ... 23,5\n\n4.1.2 - Hidráulica ... 9\n\n4.1.3 - Construções e Processos ... 11\n\n4.1.4 - Vias de Comunicação ... 10,5\n\n4.1.5 - Planeamento e Arquitectura ... 5\n\n4.1.6 - Produção e Sistemas ... 34\n\n4.1.7 - Matemática, Física e Química ... 26,5\n\n4.1.8 - Ciências da Engenharia ... 25\n\n4.1.9 - Metalomecânica ... 2,5\n\n4.1.10 - Ciências Político-Sociais e Humanidades ... 4,5\n\n4.2 - Optativas:\n\n4.2.1 - Estruturas e Materiais ... 7,5\n\n4.2.2 - Hidráulica ... 7,5\n\n4.2.3 - Planeamneto e Arquitectura ... 7,5\n\n4.2.4 - Produção e Sistemas ... 7,5\n\n4.3 - Seminário/Estágio ... 12",
+    "depois": "## ANEXO II — Licenciatura em Engenharia Civil\n\n1 - Área científica:\n\nEngenharia Civil.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito para obtenção do grau:\n\n200.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Estruturas e Materiais ... 35 a 42\n\n4.1.2 - Hidráulica ... 13 a 18\n\n4.1.3 - Construção e Processos ... 14 a 20\n\n4.1.4 - Vias de Comunicação ... 16 a 23\n\n4.1.5 - Planeamento e Arquitectura ... 19 a 25\n\n4.1.6 - Produção e Sistemas ... 12 a 17\n\n4.1.7 - Matemática, Física e Química ... 30 a 37\n\n4.1.8 - Ciências da Engenharia ... 12 a 17\n\n4.1.9 - Ciências Político-Sociais e Humanidades ... 4 a 5\n\n4.2 - Conjunto das áreas científicas optativas:\n\n4.2.1 - Estruturas e Materiais ... 9 a 14\n\n4.2.2 - Hidráulica ... 9 a 14\n\n4.2.3 - Planeamento e Arquitectura ... 9 a 14\n\n4.2.4 - Produção e Sistemas ... 9 a 14\n\n4.2.5 - Vias de Comunicação ... 9 a 14\n\n4.3 - Seminário/Estágio (projecto individual) ... 10 a 14",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:441282:por",
+    "alterador": "pt:dre:620332:por;pt:dre:377078:por"
+  },
+  {
+    "artigo": "unidades 117-140",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO III — Licenciatura em Engenharia Metalomecânica\n\n1 - Área científica do curso:\n\nEngenharia Metalomecânica.\n\n2 - Duração normal do curso:\n\n5 anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\n168,5 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Obrigatórias:\n\n4.1.1 - Mecânica dos Materiais ... 9,5\n\n4.1.2 - Metalurgia ... 14\n\n4.1.3 - Tecnologia de Produção ... 22\n\n4.1.4 - Projecto de Máquinas ... 18\n\n4.1.5 - Produção e Sistemas ... 15,5\n\n4.1.6 - Matemática, Física e Química ... 26,5\n\n4.1.7 - Ciências da Engenharia ... 35,5\n\n4.1.8 - Plásticos ... 3,5\n\n4.1.9 - Ciências Político-Sociais e Humanidades ... 4,5\n\n4.2 - Optativas:\n\n4.2.1 - Mecânica dos Materiais ... 7,5\n\n4.2.2 - Metalurgia ... 7,5\n\n4.2.3 - Tecnologia da Produção ... 7,5\n\n4.2.4 - Projecto de Máquinas ... 7,5\n\n4.3 - Seminário/Estágio ... 12",
+    "depois": "## ANEXO III — Licenciatura em Engenharia Mecânica\n\n1 - Área científica:\n\nEngenharia Mecânica.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau:\n\n196 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Matemática e Física ... 28 a 32\n\n4.1.2 - Ciências da Engenharia ... 44 a 48\n\n4.1.3 - Mecânica dos Materiais ... 12 a 14\n\n4.1.4 - Metalurgia ... 14 a 16\n\n4.1.5 - Tecnologia de Produção ... 13 a 15\n\n4.1.6 - Projecto de Máquinas ... 28 a 32\n\n4.1.7 - Produção e Sistemas ... 7 a 9\n\n4.1.8 - Electrónica Controlo ... 4 a 6\n\n4.1.9 - Ciências Político-Sociais e Humanidades ... 4 a 5\n\n4.2 - Conjunto das áreas científicas optativas:\n\n4.2.1 - Mecânica dos Materiais ... 17 a 20\n\n4.2.2 - Metalurgia ... 17 a 20\n\n4.2.3 - Tecnologia de Produção ... 17 a 20\n\n4.2.4 - Projecto de Máquinas ... 17 a 20\n\n4.2.5 - Produção e Sistemas ... 17 a 20\n\n4.2.6 - Ciências da Engenharia ... 17 a 20\n\n4.2.7 - Polímeros ... 17 a 20\n\n4.2.8 - Electrónica e Controlo ... 17 a 20\n\n4.3 - Estágio ... 15",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:441282:por",
+    "alterador": "pt:dre:620332:por;pt:dre:377078:por"
+  }
+]

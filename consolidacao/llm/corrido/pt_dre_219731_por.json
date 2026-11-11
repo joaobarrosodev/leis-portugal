@@ -1,0 +1,122 @@
+{
+  "id": "pt:dre:219731:por",
+  "substituicoes": [
+    {
+      "de": 32,
+      "ate": 32,
+      "texto": "2 - São susceptíveis de apoio no âmbito do presente regime os projectos de investimento que tenham por objecto as actividades da indústria e as actividades consideradas prioritárias do turismo e outros serviços, de acordo com o disposto no artigo 10.º",
+      "alterador": 2
+    },
+    {
+      "de": 35,
+      "ate": 35,
+      "texto": "1 - Podem candidatar-se ao presente regime de incentivos às microempresas, entendendo-se para este efeito empresas até nove trabalhadores que revistam a forma de empresário em nome individual, estabelecimento individual de responsabilidade limitada, cooperativa ou sociedade comercial.",
+      "alterador": 1
+    },
+    {
+      "de": 50,
+      "ate": 50,
+      "texto": "b) Não serem detidos em 25% ou mais do capital social por empresas que não cumpram os critérios para serem consideradas PME, de acordo com a legislação aplicável a cada sector de actividade;",
+      "alterador": 1
+    },
+    {
+      "de": 67,
+      "ate": 67,
+      "texto": "a) Ter sido iniciada a respectiva realização há menos de três meses da data da apresentação da candidatura e não estar concluída à mesma data;",
+      "alterador": 2
+    },
+    {
+      "de": 71,
+      "ate": 71,
+      "texto": "b.iii) (Revogada.)",
+      "alterador": 2
+    },
+    {
+      "de": 91,
+      "ate": 91,
+      "texto": "a) Os subsídios a fundo perdido para investimento correspondem a 20% do investimento elegível;",
+      "alterador": 2
+    },
+    {
+      "de": 93,
+      "ate": 96,
+      "texto": "4 - Os subsídios a fundo perdido para a criação de postos de trabalho serão os seguintes:\n\na) Seis vezes o montante mais elevado da remuneração mínima nacional garantida por lei por cada novo posto de trabalho criado e preenchido, em resultado do projecto, por um desempregado há menos de um ano ou pelos trabalhadores contemplados no n.º 1.5 do artigo 10.º;\n\nb) Doze vezes o montante mais elevado da remuneração mínima nacional garantida por lei por cada novo posto de trabalho criado e preenchido, em resultado do projecto, por um desempregado há mais de um ano e há menos de dois ou por um jovem à procura do primeiro emprego ou, ainda, por um beneficiário do rendimento mínimo garantido, no âmbito do acordo de inserção;\n\nc) Dezoito vezes o montante mais elevado da remuneração mínima nacional garantida por lei por cada novo posto de trabalho criado e preenchido, em resultado do projecto, por um desempregado há mais de dois anos ou por um cidadão portador de deficiência.\n\n5 - Considera-se criado o posto de trabalho, para efeitos da alínea anterior, quando o mesmo se encontre preenchido durante pelo menos quatro anos.\n\n6 - As majorações dos apoios previstos no presente regime são atribuídas segundo os critérios de classificação enunciados no artigo seguinte, em conjugação com as tabelas de incentivos constantes do anexo I.\n\n7 - O valor acumulado dos incentivos concedidos não pode ultrapassar 50% das despesas de investimento elegíveis.\n\n8 - Para além do limite estabelecido no número anterior, será atribuído para as novas empresas criadas com capital social detido exclusivamente por desempregados um prémio à criação do próprio emprego no montante máximo de 4000 contos, cuja soma com os subsídios a fundo perdido referidos no n.º 1 do presente artigo, que lhes tenham sido atribuídos, não exceda 70% do montante total das despesas de investimento consideradas elegíveis.",
+      "alterador": 2
+    },
+    {
+      "de": 104,
+      "ate": 104,
+      "texto": "d) (Revogada.)",
+      "alterador": 2
+    },
+    {
+      "de": 107,
+      "ate": 107,
+      "texto": "ii) (Revogada.)",
+      "alterador": 2
+    },
+    {
+      "de": 113,
+      "ate": 113,
+      "texto": "viii) (Revogada.)",
+      "alterador": 2
+    },
+    {
+      "de": 118,
+      "ate": 120,
+      "texto": "1.4 - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 122,
+      "ate": 122,
+      "texto": "2 - A localização do investimento considera-se prioritária e não prioritária, entendendo-se por localização prioritária para efeitos de majoração dos apoios previstos no presente regime a definida por despacho do Ministro do Equipamento, do Planeamento e da Administração do Território.",
+      "alterador": 2
+    },
+    {
+      "de": 125,
+      "ate": 125,
+      "texto": "5 - Os incentivos aos postos de trabalho criados com nível três de qualificação ou superiores, conforme definidos no anexo ao [Despacho Normativo n.º 53-A/96](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/53-a-1996-345161), de 17 de Fevereiro, serão majorados em 30%.",
+      "alterador": 2
+    },
+    {
+      "de": 126,
+      "ate": 126,
+      "texto": "6 - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 127,
+      "ate": 127,
+      "texto": "7 - No caso de postos de trabalho preenchidos por mulheres, o subsídio para a criação de emprego será majorado em mais de 20% do valor que lhe seria atribuído em função do montante a que se refere a alínea b) do n.º 4 do artigo 9.º, conjugado com o n.º 5 do presente artigo.",
+      "alterador": 2
+    },
+    {
+      "de": 185,
+      "ate": 185,
+      "texto": "3 - As comissões regionais de selecção são constituídas pelo coordenador regional, por um técnico especialista na economia da respectiva região, nomeado pela CCR correspondente, e por técnicos nomeados, a nível regional, pelo IAPMEI, Fundo de Turismo, IEFP, Direcção-Geral da Acção Social e Direcção-Geral de Desenvolvimento Rural, estes últimos sob proposta das direcções regionais de agricultura respectivas.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 32,
+      "texto": "3 - São ainda susceptíveis de apoio os projectos de investimento que tenham por objecto actividades no domínio do comércio que apenas se consideram relevantes para efeitos de atribuição de incentivos à criação de postos de trabalho.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (RCM n.º 51/98): a nova redação do anexo I, quadro n.º 1 (Incentivos ao investimento), só vem em imagem e o anexo I do original também (unidade 308); não aplicada.",
+  "instrucoes": [
+    "RCM 35/97, n.º 1: nova redação do n.º 1 do 4.º (unidade 35, acrescenta 'cooperativa'), da alínea b) do 6.º (unidade 50) e do n.º 7 do 9.º (unidade 96); esta última fica absorvida pela reestruturação do 9.º feita pela RCM 51/98 (o n.º 7 passa a n.º 8 com nova redação), por isso vai na substituição 93-96 com alterador 2.",
+    "RCM 51/98, 3.º: nova redação do n.º 2 (unidade 32) e aditamento do n.º 3 (inserção depois da 32).",
+    "RCM 51/98, 8.º: nova alínea a) (unidade 67); b.iii) revogada (unidade 71).",
+    "RCM 51/98, 9.º: nova alínea a) do n.º 3 (unidade 91); novo n.º 4 com alíneas a) a c), antigos n.os 4 e 5 passam a 5 e 6 com o texto atual, novos n.os 7 e 8 (unidades 93-96).",
+    "RCM 51/98, 10.º: alínea d) do n.º 1 revogada (104); subalíneas ii) e viii) do n.º 1.1 revogadas (107, 113); n.º 1.4 revogado com as subalíneas (118-120); novos n.os 2, 5 e 7 (122, 125, 127); n.º 6 revogado (126).",
+    "RCM 51/98, 13.º: nova redação do n.º 3 (unidade 185).",
+    "RCM 51/98, anexo I quadro n.º 1: só em imagem, não aplicado. As 'Disposições finais e transitórias' são da própria RCM 51/98, não do original.",
+    "DL 228/99: altera o artigo 4.º do DL 34/95, outro diploma; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

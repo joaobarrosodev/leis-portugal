@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 83-84",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "BASE XXI\n\nAs questões entre senhorios e arrendatários serão decididas, com recurso para o Tribunal da Relação competente, por uma comissão arbitral composta pelo juiz de direito da comarca, que presidirá, e representantes da Secretaria de Estado da Agricultura e da organização corporativa da lavoura.",
+    "depois": "BASE XXI\n\n(Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:164863:por",
+    "alterador": "pt:dre:525599:por"
+  }
+]

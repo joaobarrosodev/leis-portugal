@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:461577:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações (alteradores 1 a 9) incidem sobre o quadro de pessoal do Hospital Distrital de Abrantes, anexo em imagem ou com distribuição de lugares sem instrução textual sobre o original (Portaria 113/90 distribui lugares de parteira; Portaria 413/91 substitui o quadro de pessoal médico por quadros anexos em imagem).",
+  "instrucoes": [
+    "Alteradores 1 a 6: alteram partes do quadro de pessoal anexo (só em imagem) - não aplicado.",
+    "Alterador 7 (Portaria 361/86): aumenta o quadro de um lugar por mapa anexo (só em imagem) - não aplicado.",
+    "Alterador 8 (Portaria 113/90): distribui 3 lugares de parteira ao hospital, sem texto para o original - não aplicado.",
+    "Alterador 9 (Portaria 413/91): substitui o quadro de pessoal médico por quadro anexo (só em imagem) - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

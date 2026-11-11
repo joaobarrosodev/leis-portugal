@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:460859:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações (alteradores 1 a 13) incidem sobre o quadro de pessoal do Hospital de Sobral Cid, anexo em imagem (ver documento original): reajustamentos, alterações por carreiras, lugares acrescidos pelo DL 284/83, retificação da Portaria 699/83 (que é outro diploma) e substituição integral do quadro pela Portaria 11/95. Nenhuma tem texto aplicável ao original.",
+  "instrucoes": [
+    "Alteradores 1, 2, 4, 5, 7, 8, 9, 10, 11 e 12: alteram partes do quadro de pessoal anexo (só em imagem) - não aplicado.",
+    "Alterador 3 (DL 284/83): acrescenta lugares ao quadro por mapa anexo (só em imagem) - não aplicado.",
+    "Alterador 6 (Portaria 666/84): retifica a Portaria 699/83, não o original - ignorado.",
+    "Alterador 13 (Portaria 11/95): substitui o quadro de pessoal pelo quadro anexo (só em imagem) e fixa unidades orgânicas e conteúdos funcionais próprios - não aplicado ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

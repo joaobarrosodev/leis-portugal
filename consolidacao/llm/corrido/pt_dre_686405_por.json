@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:686405:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria n.º 275/2001: altera o plano de estudos do curso de Sociologia Aplicada (Portaria n.º 1076/90) e fixa vagas; não altera o texto da Portaria n.º 1172/93. Nada aplicado.",
+    "Portaria n.º 276/2001: altera o plano de estudos de Contabilidade e Administração (Portaria n.º 1077/90); não altera o texto do original. Nada aplicado.",
+    "Portaria n.º 403/2001: altera o plano de estudos de Informática de Gestão (Portaria n.º 1077/90); não altera o texto do original. Nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

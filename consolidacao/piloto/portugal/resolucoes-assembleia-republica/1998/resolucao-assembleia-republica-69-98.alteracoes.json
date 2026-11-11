@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 5-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Instituir o Prémio Direitos Humanos, destinado a reconhecer e distinguir o alto mérito da actividade de organizações não governamentais ou do original de trabalho literário, histórico, científico, jornalístico, televisivo ou radiofónico, publicado em Portugal, no ano da respectiva atribuição, que contribuam para a divulgação ou o respeito dos direitos humanos, ou ainda para a denúncia da sua violação, no País ou no exterior, da autoria individual ou colectiva de cidadãos portugueses ou estrangeiros.\n\n3 - Que esse prémio seja pecuniário e do montante de 5 milhões de escudos, atribuído até 30 de Novembro do ano a que disser respeito e entregue em cerimónia que terá lugar na Assembleia da República no Dia Nacional dos Direitos Humanos.",
+    "depois": "2 - Instituir o Prémio Direitos Humanos, destinado a reconhecer e distinguir o alto mérito da actividade de organizações não governamentais ou do original de trabalho literário, histórico, científico, jornalístico, televisivo ou radiofónico, publicados em Portugal entre 1 de Julho do ano anterior e 30 de Junho do ano da atribuição, que contribuam para a divulgação ou o respeito dos direitos humanos ou ainda para a denúncia da sua violação, no País ou no exterior, da autoria individual ou colectiva de cidadãos portugueses ou estrangeiros.\n\n3 - Que esse prémio seja pecuniário e do montante de (euro) 25000, atribuídos até 30 de Novembro do ano da atribuição e entregue em cerimónia que terá lugar na Assembleia da República na sessão comemorativa do Dia Nacional dos Direitos Humanos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:186525:por",
+    "alterador": "pt:dre:187719:por"
+  },
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "8 - A mesma Comissão elaborará e aprovará, no prazo de 60 dias contados da aprovação da presente resolução, o regulamento das candidaturas, da selecção dos trabalhos, da atribuição do Prémio e do mais necessário à execução da presente deliberação.",
+    "depois": "8 - A mesma Comissão elaborará e aprovará, no prazo de 60 dias contados da aprovação da presente resolução, o regulamento da selecção dos trabalhos e atribuição do Prémio e do mais necessário à execução da presente deliberação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:186525:por",
+    "alterador": "pt:dre:187719:por"
+  }
+]

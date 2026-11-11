@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Autorizar a realização da despesa resultante da participação do Estado Português no projeto de desenvolvimento e produção da aeronave KC-390, até ao montante máximo de (euro) 30 000 000.",
+    "depois": "1 - Autorizar a realização da despesa resultante da participação do Estado Português no projeto de desenvolvimento e produção da aeronave KC-390, até ao montante máximo de EUR 38 300 000.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:179540:por",
+    "alterador": "pt:dre:70331761:por"
+  },
+  {
+    "artigo": "unidades 11-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2012 - (euro) 18 160 000;\n\n2013 - (euro) 11 740 000;\n\n2014 - (euro) 50 000;\n\n2015 - (euro) 50 000.",
+    "depois": "2012 - EUR 4 008 944,20;\n\n2013 - EUR 17 176 549,22;\n\n2014 - EUR 8 764 506,58;\n\n2015 - EUR 8 350 000,00.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:179540:por",
+    "alterador": "pt:dre:70331761:por"
+  }
+]

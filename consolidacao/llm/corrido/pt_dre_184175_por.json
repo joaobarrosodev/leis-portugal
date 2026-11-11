@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:184175:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as instruções incidem sobre o anexo (plano de estudos) ou os seus quadros, que só vêm em imagem: alterador 1 (novo anexo), alterador 2 (quadro n.º 2), alterador 3 (quadro n.º 5, citando por lapso a Portaria n.º 185/95) e alterador 4 (novo anexo, quadros 1 a 5). Não há texto a copiar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o anexo passa a ter a redacção do anexo da Portaria n.º 896/98 — só em imagem, não aplicado.",
+    "Alterador 2, 1.º: o quadro n.º 2 do anexo é substituído — só em imagem, não aplicado.",
+    "Alterador 3, 1.º: o quadro n.º 5 do plano de estudos é substituído — só em imagem, não aplicado.",
+    "Alterador 4, 1.º: o anexo passa a ter a redacção do anexo da Portaria n.º 838/2005 — quadros só em imagem, não aplicado.",
+    "Normas de aplicação e transição dos alteradores não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

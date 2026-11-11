@@ -524,7 +524,7 @@ Os ficheiros de trabalho (pedidos, respostas por passagem, vistas da ronda 23) e
 
 ## Originais sem artigos: texto corrido por unidades (`llm_corrido.py`)
 
-As rondas deste trabalho foram renumeradas ao juntar ao `main` (17 → 24, 18 → 25), porque a frente B já usava os números 17 e 18 para outros diplomas.
+As rondas deste trabalho foram renumeradas ao juntar ao `main` (17 → 24, 18 → 25, 19 → 26), porque a frente B já usava os números 17, 18 e 19 para outros diplomas.
 
 **Problema.** Dos 4.362 diplomas para o LLM, 2.697 têm um original sem artigos identificados (portarias "1.º, 2.º" em texto corrido, resoluções, despachos, declarações de retificação, bases). `juntar.py` e `llm_completo.py` recusam-nos ("original sem artigos: a resposta não tem onde encaixar").
 
@@ -568,3 +568,7 @@ python rendimento.py N --ids ids.txt
 ### Bloco 2 (ronda 25; no ramo de origem era a ronda 18)
 
 120 diplomas por citações (`llm_corrido.py proximos 120`, 25 saltados por tamanho; ids em `llm/corrido-ids-bloco2.txt`), 15 subagentes Opus (30 pedidos). A primeira tentativa ficou a meio por limite de uso e foi repetida de raiz. Resultado: 63 sem alterações (anexos e quadros só em imagem, ou revogação total), 51 juntados, 6 recusados na verificação letra a letra (parágrafos "(Revogado.)" escritos pelo LLM que não existem no alterador). Ronda 18: 51 em 4 lotes, 18 pedaços, verificadores Sonnet às cegas. **39 sem reparos: 32 % do bloco de 120 (76 % dos 51 verificados)**, um pouco abaixo dos 38 % da amostra e do limiar de 35 %. `rendimento.py 18 --ids llm/corrido-ids-bloco2.txt`. Os 12 com reparos são quase todos instruções sobre anexos que só vêm em imagem.
+
+### Bloco 3 (ronda 26; no ramo de origem era a ronda 19)
+
+Mais 120 diplomas (`llm/corrido-ids-bloco3.txt`, de 2 537 candidatos; 34 saltados por tamanho), mesmo processo. 50 sem alterações, 61 juntados, 9 recusados. Ronda 19: 61 verificados às cegas, **35 sem reparos: 29 % do bloco (57 % dos verificados)**. O rendimento desce de bloco para bloco porque os diplomas vão por ordem de citações e os seguintes têm mais anexos em imagem e mais alteradores. Acumulado das rondas 17 a 19: **89 em 280 (32 %)**. Ficam cerca de 2 400 candidatos; a este ritmo cada bloco de 120 dá ~35 consolidações, abaixo do limiar de 35 % que fixámos, por isso não se alarga sem decisão.

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:601079:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações (alteradores 1 a 11) incidem sobre o mapa anexo do quadro de pessoal, que só vem em imagem (aumentos de lugares, novas dotações em mapas em imagem); nenhuma altera o texto dos n.os 1.º a 3.º.",
+  "instrucoes": [
+    "Alt. 1, 3, 8: aumentam lugares do quadro (mapa em imagem) - não aplicado",
+    "Alt. 2, 4, 6, 7, 9: alteram dotações do mapa anexo (imagem) - não aplicado",
+    "Alt. 5 e 10: criam lugares no quadro - não textual, não aplicado",
+    "Alt. 11, 2.º: substitui a parte de enfermagem do mapa (anexo I em imagem) - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

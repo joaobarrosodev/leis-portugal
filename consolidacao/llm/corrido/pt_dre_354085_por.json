@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:354085:por",
+  "substituicoes": [
+    {
+      "de": 106,
+      "ate": 106,
+      "texto": "i) As atribuições e actividades que, nos termos do [Decreto-Lei n.º 36935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36935-1948-387087), de 24 de Junho de 1948, e do [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Junho de 1952 (Estatuto de Normalização Portuguesa, modificado pelo [Decreto-Lei n.º 48454](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48454-1968-272027), de 25 de Junho de 1968, e pelo [Decreto-Lei n.º 117/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1975-160716), de 8 de Março), têm vindo a ser prosseguidas no âmbito da 2.ª Repartição, bem como as atribuições e actividades da Comissão Electrotécnica Portuguesa, cuja competência está definida no [Decreto-Lei n.º 105/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1970-228782), de 16 de Março, devendo manter-se uma articulação adequada com a Direcção-Geral de Energia, por forma que os dois serviços se possam desempenhar eficazmente das suas atribuições.",
+      "alterador": 4
+    },
+    {
+      "de": 114,
+      "ate": 114,
+      "texto": "7.2 - O presidente do Laboratório Nacional de Engenharia e Tecnologia Industrial exercerá os poderes de direcção do Gabinete de Protecção e Segurança Nuclear até à nomeação do director deste Gabinete.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 3 (Decreto-Lei 522/79) transfere atribuições para a Região Autónoma dos Açores sem alterar o texto do despacho: não é alteração textual. O aditamento da alínea d) ao ponto 1.1 e a nova redacção do ponto 6.1, b), i), feitos pelo alterador 1 (Despacho Normativo 239/78), ficam sem efeito porque o alterador 4 revoga o Despacho Normativo 239/78 e dá nova redacção ao ponto 6.1, b), i).",
+  "instrucoes": [
+    "Alterador 1 (Despacho Normativo 239/78): adita a alínea d) ao ponto 1.1 (depois da unidade 47) e dá nova redacção ao ponto 6.1, b), i) (unidade 106); não aplicado no resultado final porque o alterador 4 revoga este despacho.",
+    "Alterador 2 (Despacho Normativo 347/79): nova redacção do n.º 7.2: substituída a unidade 114, mantendo a numeração 7.2.",
+    "Alterador 3 (Decreto-Lei 522/79): transfere atribuições da Direcção-Geral da Qualidade para os Açores; não é textual: não aplicado.",
+    "Alterador 4 (Despacho Normativo 91/82): 1 - revoga o Despacho Normativo 239/78 (fica sem a alínea d) do ponto 1.1); 2 - nova redacção da alínea i) do n.º 6.1: substituída a unidade 106."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:288583:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Arruda dos Vinhos, com a área de 2085,0233 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (suspensão da actividade cinegética) e alterador 3 (renovação da concessão com 1967,4169 ha) não são alterações textuais. Alterador 4: o texto vem truncado, sem parte dispositiva (só preâmbulo sobre a anexação de 357,1905 ha). A nova planta do alterador 1 só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 1.º (2085,0233 ha) na unidade 6 e aditamento do n.º 1.º-A depois da unidade 6.",
+    "Alterador 2: suspensão da actividade cinegética — sem alteração textual.",
+    "Alterador 3: renovação da concessão e revogação da Portaria n.º 662/98 (outro diploma) — sem alteração textual.",
+    "Alterador 4: texto sem parte dispositiva — nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

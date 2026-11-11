@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:422789:por",
+  "substituicoes": [
+    {
+      "de": 79,
+      "ate": 79,
+      "texto": "b) Exame para instrutor:\n\n1) Exame teórico (por tipo de ensino) ... 600$00\n\n2) Exame prático:\n\n1) De teoria da condução ... 600$00\n\n2) De mecânica automóvel ... 600$00\n\n3) De prática da condução (por classe de veículos) ... 600$00",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 75,
+      "texto": "5.3 - Aprovação de contentores por modelo e passagem do respectivo certificado, de acordo com a resolução n.º 31 do grupo de peritos dos problemas aduaneiros relativos a transportes do Comité dos Transportes Interiores da Comissão Económica para a Europa ... 7500$00",
+      "alterador": 1
+    },
+    {
+      "depois_de": 85,
+      "texto": "d) Curso de formação de instrutor:\n\n1) Teoria da condução ... 2000$00\n\n2) Mecânica automóvel ... 2000$00\n\n3) Prática da condução ... 2000$00",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 476/78): adita ao ponto 5 da parte I da tabela um ponto 5.3: inserido depois da unidade 75 (fim do 5.2); o cabeçalho de coluna '... Taxas' não foi incluído.",
+    "Alterador 2 (Portaria 322/80): 1.º nova redacção da alínea b) do n.º 1 da parte II: substituída a unidade 79; 2.º adita a alínea d) ao n.º 1 da parte II: inserida depois da unidade 85 (fim da alínea c)); 3.º é norma autónoma, não textual.",
+    "Alterador 3 (Portaria 915/80): revoga a Portaria 362/70 e aprova a tabela da DGTT; não é dirigida ao original: ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

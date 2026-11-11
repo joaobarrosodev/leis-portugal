@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:285904:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 304/89 altera as notas (g) e (h) do quadro de pessoal, que só vem em imagem (unidade 9); a Portaria n.º 1277/95 substitui todo o quadro de pessoal do Hospital por novo quadro em imagem, sem alterar o texto das unidades do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 304/89): nova redação das notas (g) e (h) do quadro anexo, em imagem; não aplicado.",
+    "Alteradores 2 e 3 (Portaria 1277/95, repetida): substituem o quadro de pessoal pelo quadro anexo (imagem) e aprovam anexos I e II próprios; não é alteração textual do original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

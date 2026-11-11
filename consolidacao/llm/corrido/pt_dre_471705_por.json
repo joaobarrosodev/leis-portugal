@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:471705:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 (Portaria 642-G/78) e 2 (Portaria 535/90) substituem as designações do pessoal civil no quadro de pessoal permanente anexo, que só vem em imagem (ver documento original).",
+  "instrucoes": [
+    "Alterador 1: substitui as designações do pessoal civil do quadro anexo (só em imagem) - não aplicado.",
+    "Alterador 2: altera as designações das categorias do quadro anexo (só em imagem) - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

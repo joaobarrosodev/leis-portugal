@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 60-63",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Um ano lectivo.\n\n3 - Áreas obrigatórias e unidades de crédito necessárias à obtenção do curso:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf)\n\n4 - Licenciaturas a que se refere o ponto 1 do n.º 5.º:",
+    "depois": "Um ano lectivo. O conselho científico poderá autorizar a duração normal de dois anos a alunos que dela careçam, atendendo à sua situação profissional.\n\n3 - Áreas científicas obrigatórias e unidades de crédito necessárias à obtenção do curso:\n\nEngenharia de Estruturas - 22.\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:388612:por",
+    "alterador": "pt:dre:370577:por;pt:dre:171484:por"
+  },
+  {
+    "artigo": "unidades 67-68",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5 - Especialidade a que se refere o n.º 10.º:\n\nEngenharia Civil (Estruturas).",
+    "depois": "5 - Ramo e especialidade a que se refere o n.º 10.º:\n\nRamo - Engenharia Civil.\n\nEspecialidade - não fixada nos termos do Despacho n.º 47/SEES/84, publicado no Diário da República, 2.ª série, n.º 121, de 25 de Maio de 1984.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:388612:por",
+    "alterador": "pt:dre:370577:por;pt:dre:171484:por"
+  },
+  {
+    "artigo": "unidades 130-138",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - Áreas obrigatórias e unidades de crédito necessárias à obtenção do curso:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf)\n\n4 - Licenciaturas a que se refere o ponto 1 do n.º 5.º:\n\na) Engenharia;\n\nb) Física;\n\nc) Matemática;\n\nd) Química.\n\n5 - Especialidade a que se refere o n.º 10.º:\n\nEngenharia Mecânica (Termodinâmica Aplicada).",
+    "depois": "3 - Áreas científicas e distribuição das unidades de crédito:\n\n3.1 - Áreas científicas obrigatórias:\n\na) Termodinâmica ... 10\n\nb) Economia da Energia ... 4\n\nc) Cálculo Automático e Instrumentação ... 4\n\n3.2 - Áreas científicas opcionais:\n\na) Sistemas de Conversão de Energia ... 5\n\nb) Gestão de Energia em Edifícios ... 5\n\n4 - Número total de unidades de crédito necessárias à conclusão do curso: 23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:388612:por",
+    "alterador": "pt:dre:370577:por;pt:dre:171484:por"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:288587:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Constituem terrenos ordenados os prédios rústicos, cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de São Pedro da Cadeira, município de Torres Vedras, com uma área de 1758,3286 ha.",
+      "alterador": 6
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "As substituições da planta anexa (Portarias n.os 939/94, 944/97, 1071/2002) só vêm em imagem; a anexação de prédios (Portaria n.º 558/98), as suspensões (1206/2001, 172/2002, 905/2004) e a renovação da concessão (1372/2004) não são alterações textuais.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 939/94): nova redação do 1.º (1846,6960 ha), depois substituída pelas seguintes; planta substituída em imagem, não aplicada.",
+    "Alterador 2 (Portaria 944/97): nova redação do 1.º (1736,2865 ha), depois substituída; aditado o n.º 1.º-A, inserido depois da unidade 6.",
+    "Alterador 3 (Portaria 558/98): anexação de prédios e nova área total, sem nova redação; não aplicado.",
+    "Alteradores 4, 5 e 7 (Portarias 1206/2001, 172/2002, 905/2004): suspensões da caça; não textuais; nada aplicado.",
+    "Alterador 6 (Portaria 1071/2002): nova redação do 1.º (1758,3286 ha); unidade 6 substituída com o texto final.",
+    "Alterador 8 (Portaria 1372/2004): renova a concessão por 12 anos com 1655 ha, sem nova redação do original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

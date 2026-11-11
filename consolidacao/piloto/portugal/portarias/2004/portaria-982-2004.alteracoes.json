@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º São aprovadas as directrizes relativas à apreciação da qualidade construtiva, da localização excepcional e do estado deficiente de conservação, para efeitos de aplicação da tabela I referida no n.º 1 do artigo 43.º do CIMI, e publicadas no anexo II à presente portaria.",
+    "depois": "5.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:515184:por",
+    "alterador": "pt:dre:629447:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Um acréscimo máximo de 38% sobre o quantitativo que resultar do produto da área bruta do fogo pelo respectivo custo de construção, determinados em conformidade com as alíneas anteriores. Esse acréscimo corresponde à soma de duas parcelas, sendo uma equivalente ao valor do terreno urbanizado, que não poderá exceder 15%, e outra aos encargos de financiamento, comercialização, custo do projecto e outros custos indirectos, que não poderá exceder 23%;",
+    "depois": "c) Um acréscimo máximo de 46% sobre o quantitativo que resultar do produto da área bruta do fogo pelo respectivo custo de construção, determinado em conformidade com as alíneas anteriores.\n\nEsse acréscimo corresponde à soma de 3 parcelas, sendo uma equivalente ao valor do terreno urbanizado, que não poderá exceder 15%, outra aos encargos de financiamento, que não poderão exceder 20%, e outra aos encargos de comercialização, custo de projecto e outros custos indirectos, que não poderão exceder 11%.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:470207:por",
+    "alterador": "pt:dre:546382:por"
+  }
+]

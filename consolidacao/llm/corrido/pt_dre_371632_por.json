@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:371632:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 520/89): altera o mapa anexo conforme mapa II, que só vem em imagem; alterador 2 (Portaria n.º 663/94): aprova um novo quadro de pessoal da DGCI, sem alterar o texto do original.",
+  "instrucoes": [
+    "Alterador 1, n.º 2.º: altera o mapa anexo (mapa II em imagem); não aplicado.",
+    "Alterador 2, n.º 1.º: novo quadro de pessoal; não é alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

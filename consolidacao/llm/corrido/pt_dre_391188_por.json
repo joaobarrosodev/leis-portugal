@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:391188:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 4 (Portarias n.os 756/81, 472/83, 867/85 e 1151/90): alteram o quadro geral e os quadros de contingentação por mapas que só vêm em imagem, criam, desdobram ou extinguem tesourarias e mandam aplicar normas da portaria; nenhuma dá nova redação ao texto do original.",
+  "instrucoes": [
+    "Alterador 1, n.os 13.º e 14.º: altera o quadro por mapa (imagem) e manda aplicar os n.os 6.º, 10.º e 13.º; não textual.",
+    "Alterador 2, n.º 41.º: altera o quadro geral por mapa II (imagem); não textual.",
+    "Alterador 3, n.º 6.º: altera o quadro geral por mapa II (imagem); não textual.",
+    "Alterador 4, n.º 4.º: extingue o quadro da tesouraria do 6.º Bairro Fiscal do Porto (mapas em imagem); não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

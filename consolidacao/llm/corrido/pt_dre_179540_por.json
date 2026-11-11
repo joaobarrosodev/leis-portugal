@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:179540:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "1 - Autorizar a realização da despesa resultante da participação do Estado Português no projeto de desenvolvimento e produção da aeronave KC-390, até ao montante máximo de EUR 38 300 000.",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 14,
+      "texto": "2012 - EUR 4 008 944,20;\n\n2013 - EUR 17 176 549,22;\n\n2014 - EUR 8 764 506,58;\n\n2015 - EUR 8 350 000,00.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1: nova redacção do n.º 1; unidade 9 substituída.",
+    "Alterador 1, 1: nova redacção do n.º 2; o corpo (unidade 10) fica igual, montantes anuais (unidades 11-14) substituídos.",
+    "Alterador 1, 2: produção de efeitos da própria resolução; não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

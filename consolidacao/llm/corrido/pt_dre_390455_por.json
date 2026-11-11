@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:390455:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações (alteradores 1 a 10) acrescentam, extinguem, reestruturam ou substituem lugares do quadro de pessoal anexo, que no original é só imagem (unidade 9), e os quadros novos também vêm só em imagem; o alterador 3, 2.º (extinção de um lugar de chefe de secção) não tem alvo no texto.",
+  "instrucoes": [
+    "Alteradores 1 e 2 (Portaria n.º 308/81, repetida): acrescentam lugares docentes ao quadro (imagem) - não aplicado.",
+    "Alterador 3: acrescenta a carreira de tesoureiro (imagem) e extingue um lugar de chefe de secção - não aplicado.",
+    "Alterador 4: acrescenta lugares ao quadro (imagem) - não aplicado.",
+    "Alterador 5: altera o quadro quanto a professores catedráticos e associados (imagem) - não aplicado.",
+    "Alterador 6: reestrutura o pessoal técnico de diagnóstico e terapêutica (imagem) - não aplicado.",
+    "Alteradores 7 e 8 (Portaria n.º 147/88, repetida): alteram vários quadros de pessoal, em imagem - não aplicado.",
+    "Alterador 9: altera o pessoal técnico-profissional (imagem) - não aplicado.",
+    "Alterador 10: substitui o quadro do pessoal docente pelos mapas I e II (imagem) - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

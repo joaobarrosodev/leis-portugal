@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:649095:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As Portarias n.os 891/2004, 883/2004 e 884/2004 extinguem cada uma um dos cursos e revogam a Portaria n.º 970/97 'nas partes que àquele curso respeita', sem identificar as unidades (alíneas do 1.º, 5.º, anexos); alvo não determinado textualmente, não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 891/2004), 6.º: extingue o curso de técnico de indústrias agro-alimentares e revoga parcialmente a 970/97 nas partes respeitantes; alvo ambíguo, não aplicado.",
+    "Alterador 2 (Portaria 883/2004), 6.º: extingue o curso de técnico de gestão cinegética e revoga a 970/97 nas partes respeitantes; alvo ambíguo, não aplicado.",
+    "Alterador 3 (Portaria 884/2004), 6.º: extingue o curso de técnico de gestão e recuperação de espaços verdes e revoga a 970/97 nas partes respeitantes; alvo ambíguo, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:515184:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "5.º - (Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "As alterações ao zonamento e os novos coeficientes de localização mínimos e máximos para alguns municípios (Portaria 1022/2006, anexos I a III; Portaria 1305/2007, anexo I) só vêm em imagem e o anexo I do original também; não aplicadas.",
+  "instrucoes": [
+    "Alt. 1: alterações ao zonamento e novos coeficientes (anexo III) em imagem; não aplicado",
+    "Alt. 2: alteração ao zonamento em imagem; não aplicado",
+    "Alt. 3, 2.º: revoga o n.º 5.º; unidade 16 passa a '5.º - (Revogado.)'; anexo II mantém-se (aplicação ressalvada); as novas directrizes do 1.º são anexo próprio da portaria nova"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

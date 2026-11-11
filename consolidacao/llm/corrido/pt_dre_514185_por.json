@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:514185:por",
+  "substituicoes": [
+    {
+      "de": 163,
+      "ate": 163,
+      "texto": "3 de condutor de obras públicas de 1.ª classe.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, art. 10.º: nova redação do art. 38.º; só muda a unidade 163 (condutor de automóveis -> condutor de obras públicas)",
+    "Alt. 1, restantes artigos: normas próprias, não alteram o original",
+    "Alt. 2 (Decreto 45541): sem texto de artigos que mencionem o original; nada a fazer"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

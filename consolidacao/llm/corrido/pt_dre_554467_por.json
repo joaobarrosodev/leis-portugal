@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:554467:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 3 substituem os planos de estudos dos cursos de Relações Públicas, Comércio e Ciências Administrativas, que estão no anexo só em imagem (o anexo do original também é só imagem). Alteradores 4 e 5 determinam a caducidade da autorização dos bacharelatos em Relações Públicas e em Comércio findo o processo de transição: efeito não textual e condicional, sem nova redação do n.º 2.º.",
+  "instrucoes": [
+    "Alt. 1, 1.º: novo plano de estudos de Relações Públicas no anexo (imagem) - não aplicado",
+    "Alt. 2, 1.º: novo plano de estudos de Comércio (imagem) - não aplicado",
+    "Alt. 3, 1.º: novo plano de estudos de Ciências Administrativas (imagem) - não aplicado",
+    "Alt. 4, 3.º a): caducidade da autorização do bacharelato em Relações Públicas - não textual, não aplicado",
+    "Alt. 5, 3.º a): caducidade da autorização do bacharelato em Comércio - não textual, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

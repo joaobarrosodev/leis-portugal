@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:588254:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 substituem o plano de estudos do curso de Economia, que está no anexo só em imagem (unidade 18), e os novos planos também só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos do curso de Economia (anexo em imagem); não aplicado. 2.º e 3.º: aplicação e transição, sem alteração textual.",
+    "Alterador 2, 1.º: nova redação do plano de estudos de Economia (quadros em imagem); não aplicado. 2.º a 5.º: normas próprias do alterador, sem alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

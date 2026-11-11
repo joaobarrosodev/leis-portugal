@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "depois da unidade 75",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "5.3 - Aprovação de contentores por modelo e passagem do respectivo certificado, de acordo com a resolução n.º 31 do grupo de peritos dos problemas aduaneiros relativos a transportes do Comité dos Transportes Interiores da Comissão Económica para a Europa ... 7500$00",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:422789:por",
+    "alterador": "pt:dre:299012:por;pt:dre:473110:por"
+  },
+  {
+    "artigo": "unidades 79-79",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Exame para instrutor ... 500$00",
+    "depois": "b) Exame para instrutor:\n\n1) Exame teórico (por tipo de ensino) ... 600$00\n\n2) Exame prático:\n\n1) De teoria da condução ... 600$00\n\n2) De mecânica automóvel ... 600$00\n\n3) De prática da condução (por classe de veículos) ... 600$00",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:422789:por",
+    "alterador": "pt:dre:299012:por;pt:dre:473110:por"
+  },
+  {
+    "artigo": "depois da unidade 85",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "d) Curso de formação de instrutor:\n\n1) Teoria da condução ... 2000$00\n\n2) Mecânica automóvel ... 2000$00\n\n3) Prática da condução ... 2000$00",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:422789:por",
+    "alterador": "pt:dre:299012:por;pt:dre:473110:por"
+  }
+]

@@ -1,0 +1,69 @@
+---
+id: pt:dre:276416:por
+title: Portaria n.º 640-Z/94
+original: data/portugal/portarias/1994/portaria-640-z-94.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:692057:por
+    title: Portaria n.º 964/99
+    publication_date: '1999-10-30'
+  - id: pt:dre:685019:por
+    title: Portaria n.º 1133/97
+    publication_date: '1997-11-07'
+  - id: pt:dre:305607:por
+    title: Declaração de Rectificação n.º 135/94
+    publication_date: '1994-08-31'
+---
+
+# Portaria n.º 640-Z/94
+
+de 15 de Julho
+
+Pela [Portaria n.º 668-F/93](https://diariodarepublica.pt/dr/detalhe/portaria/668-f-1993-687048), de 15 de Julho, foi concedida à Associação de Caçadores de Santa Catarina uma zona de caça associativa com uma área de 1722,6687 ha, situada no município das Caldas da Rainha.
+
+A concessionária requereu agora a anexação de outras propriedades com uma área de 1274 ha.
+
+Com fundamento no disposto nos artigos 19.º, 20.º, 21.º e 26.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 80.º e 81.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro;
+
+Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
+
+Manda o Governo, pelo Ministro da Agricultura, o seguinte:
+
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Santa Catarina e Carvalhal Benfeito, município das Caldas da Rainha, com uma área de 1494,5671 ha.
+
+> Alterado pelo/a [Portaria n.º 964/99](https://diariodarepublica.pt/dr/detalhe/portaria/964-1999-692057), publicado em 1999-10-30.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 1133/97](https://diariodarepublica.pt/dr/detalhe/portaria/1133-1997-685019), publicado em 1997-11-07.
+
+2.º Pelo presente diploma é concessionada, até 15 de Julho de 2005, à Associação de Caçadores de Santa Catarina (registo no Instituto Florestal n.º 3.1232.92), com sede em Santa Catarina, Caldas da Rainha, a zona de caça associativa da freguesia de Santa Catarina (processo n.º 1509 do Instituto Florestal).
+
+3.º A Associação de Caçadores de Santa Catarina, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
+
+4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados da Associação de Caçadores de Santa Catarina, com observância das regras legais e das suas normas estatutárias e regulamentares.
+
+5.º - 1 - A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.
+
+2 - A sinalização obedecerá às condições definidas nos n.os 6.º a 9.º da [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), 3.º e 4.º da [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925) e 6.º e 7.º da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697), de 18 de Março.
+
+6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter dois guardas florestais auxiliares dotados de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).
+
+> Alterado pelo/a [Declaração de Rectificação n.º 135/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/135-1994-305607), publicado em 1994-08-31.
+
+7.º O disposto no presente diploma não é aplicável às áreas consignadas no artigo 14.º, n.os 1 e 2, da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.
+
+8.º Esta concessão é renovável nos termos do disposto no artigo 83.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874).
+
+9.º É revogada a [Portaria n.º 668-F/93](https://diariodarepublica.pt/dr/detalhe/portaria/668-f-1993-687048), de 15 de Julho.
+
+Ministério da Agricultura.
+
+Assinada em 5 de Julho de 1994.
+
+Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/162b02/00270028.pdf)

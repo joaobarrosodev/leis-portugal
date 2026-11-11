@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:455936:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (DRR 19/84/M): o art. 1.º altera o artigo 14.º do Decreto Regulamentar n.º 10/83 (outro diploma) e o art. 2.º revoga o artigo 2.º do original só no que se refere ao artigo 14.º desse decreto regulamentar; o novo texto não é dado como redacção do original e não há forma segura de marcar a revogação parcial dentro da redacção transcrita (unidades 21-29). Alterador 2 (DLR 14/2007/M): revogação 'na parte aplicável às carreiras ora reestruturadas', condicional, não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1 (DRR 19/84/M), art. 1.º: nova redacção do art. 14.º do DR 10/83 aplicado à Madeira; dirigida a outro diploma: não aplicada.",
+    "Alterador 1, art. 2.º: revoga o art. 2.º do original no que se refere ao art. 14.º do DR 10/83; revogação parcial dentro de redacção transcrita: não aplicada, explicada em nao_aplicavel.",
+    "Alterador 2 (DLR 14/2007/M), art. 41.º, n.º 1: revoga as disposições do original na parte aplicável às carreiras reestruturadas; revogação condicional: não aplicada. Restantes normas são regime novo autónomo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

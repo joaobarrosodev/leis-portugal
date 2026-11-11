@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:402570:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "Título mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e Metropolitano e, fora dela, nos percursos do passe de linha da V. M. Carnaxide que afluem a Lisboa a que actualmente corresponde o preço de 340$00.",
+      "alterador": 1
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "Título mensal para um número ilimitado de viagens, válido em todos os percursos referidos na alínea anterior e ainda nos percursos dos passes de linha da V. M. Carnaxide que afluem a Lisboa a que actualmente correspondem os preços de 500$00 e de 625$00.",
+      "alterador": 1
+    },
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "Título mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e Metropolitano e, fora dela, na rede geral da V. M. Carnaxide.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção das alíneas a), b) e c) do n.º 1.º; só mudam os parágrafos do âmbito de validade: unidades 10, 13 e 16 (as restantes iguais)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

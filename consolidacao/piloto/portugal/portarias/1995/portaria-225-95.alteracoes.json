@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 25-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.ª Repartição, abrangendo as freguesias de Bucelas, Fanhões, Frielas, Loures, Lousa, Póvoa de Santo Adrião, Santo Antão do Tojal, Santo António dos Cavaleiros e Olival Basto;\n\n2.ª Repartição, abrangendo as freguesias de Caneças, Odivelas, Pontinha, Famões e Ramada;\n\n3.ª Repartição, abrangendo as freguesias de Moscavide, Portela, Santa Iria de Azoia, São João da Talha e Bobadela;\n\n4.ª Repartição, abrangendo as freguesias de Apelação, Camarate, Sacavém, Unhos e Prior Velho;",
+    "depois": "1.ª Repartição e 1.ª Tesouraria: Bucelas, Fanhões, Frielas, Loures, Lousa, Santo Antão do Tojal, Santo António dos Cavaleiros e São Julião do Tojal;\n\n3.ª Repartição e 3.ª Tesouraria: Bobadela, Moscavide, Portela, Santa Iria de Azoia e São João da Talha;\n\n4.ª Repartição e 4.ª Tesouraria: Apelação, Camarate, Prior Velho, Sacavém e Unhos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:172965:por",
+    "alterador": "pt:dre:158268:por;pt:dre:527389:por"
+  },
+  {
+    "artigo": "unidades 40-40",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.ª Repartição, abrangendo as freguesias de Arrentela, Paio Pires e Seixal:",
+    "depois": "1.ª Repartição, abrangendo as freguesias de Arrentela, Fernão Ferro, Aldeia de Paio Pires e Seixal;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:172965:por",
+    "alterador": "pt:dre:158268:por;pt:dre:527389:por"
+  },
+  {
+    "artigo": "unidades 46-47",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.ª Repartição, abrangendo as freguesias de Avintes, Crestuma, Lever, Mafamude, Oliveira do Douro e Vilar de Andorinho;\n\n2.ª Repartição, abrangendo as freguesias de Arcozelo, Canelas, Gulpilhares, Madalena, São Félix da Marinha, Valadares e Vilar do Paraíso;",
+    "depois": "1.ª Repartição, abrangendo as freguesias de Avintes, Crestuma, Lever, Oliveira do Douro e Santa Marinha;\n\n2.ª Repartição, abrangendo as freguesias de Arcozelo, Canidelo, Gulpilhares, Madalena, São Félix da Marinha, São Pedro da Afurada, Valadares e Vilar do Paraíso;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:172965:por",
+    "alterador": "pt:dre:158268:por;pt:dre:527389:por"
+  },
+  {
+    "artigo": "unidades 49-49",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.ª Repartição, abrangendo as freguesias de Canidelo, Santa Marinha e São Pedro da Afurada.",
+    "depois": "4.ª Repartição, abrangendo as freguesias de Canelas, Mafamude e Vilar de Andorinho.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:172965:por",
+    "alterador": "pt:dre:158268:por;pt:dre:527389:por"
+  },
+  {
+    "artigo": "unidades 68-68",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "8.º Em consequência da redução de bairros fiscais no concelho de Lisboa, conforme o previsto na [Portaria n.º 871/94](https://diariodarepublica.pt/dr/detalhe/portaria/871-1994-609281), de 29 de Setembro, são abatidos ao quadro de pessoal mencionado no número anterior os lugares indicados no mapa II anexo à presente portaria, que dela faz parte integrante.",
+    "depois": "8.º Em consequência da redução de bairros fiscais no concelho de Lisboa, conforme o previsto na [Portaria n.º 871/94](https://diariodarepublica.pt/dr/detalhe/portaria/871-1994-609281), de 29 de Setembro, são abatidos ao quadro de pessoal mencionado no n.º 6.º os lugares indicados no mapa II anexo à presente portaria, que dela faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:172965:por",
+    "alterador": "pt:dre:158268:por;pt:dre:527389:por"
+  }
+]

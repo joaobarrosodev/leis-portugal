@@ -1,0 +1,72 @@
+{
+  "id": "pt:dre:654966:por",
+  "substituicoes": [
+    {
+      "de": 120,
+      "ate": 120,
+      "texto": "f) Colocação dos candidatos do contingente geral que se encontram ao abrigo do regime de preferências regionais previsto no n.º 8.º-A;\n\ng) Colocação dos restantes candidatos do contingente geral nas vagas sobrantes após a operação referida na alínea f).",
+      "alterador": 1
+    },
+    {
+      "de": 208,
+      "ate": 208,
+      "texto": "6 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 234,
+      "ate": 234,
+      "texto": "i) A eventual aplicação dos critérios de prioridade e preferência referidos nos n.os 4 e 5 do n.º 8.º e no n.º 8.º-A.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 78,
+      "texto": "8.º-A\n\n(Preferências regionais na candidatura aos estabelecimentos de ensino superior politécnico)\n\n1 - Os estudantes que hajam concluído os 11.º e 12.º anos de escolaridade, ou habilitação de nível correspondente, em escola secundária localizada na área de influência do estabelecimento de ensino superior politécnico do par da 1.ª opção indicada nos termos do n.º 9.º terão prioridade na colocação nesse par, nos termos deste número.\n\n2 - A prioridade a que se refere o número anterior é absoluta em relação à colocação dos restantes candidatos do contingente geral nas vagas sobrantes após a operação a que se refere a alínea e) do n.º 2 do n.º 12.º\n\n3 - São áreas de influência de cada estabelecimento as indicadas no anexo IX.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 93,
+      "texto": "4 - Os candidatos a que se refere a alínea c) do n.º 1 do n.º 2.º podem apresentar a sua candidatura quer no prazo a que se refere o n.º 5 quer no prazo a que se refere o n.º 6 do anexo VIII.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 110,
+      "texto": "8 - Não estão dispensados da entrega dos documentos a que se refere o presente número os candidatos a que se refere a alínea c) do n.º 1 do n.º 2.º",
+      "alterador": 1
+    },
+    {
+      "depois_de": 242,
+      "texto": "3 - Em relação aos candidatos que já estiveram matriculados e inscritos num estabelecimento de ensino superior, o GCIES comunicará igualmente aos estabelecimentos onde aqueles vierem a ser colocados no âmbito do concurso de candidatura regulado pela presente portaria qual o estabelecimento de ensino superior onde haviam sido colocados previamente.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 249,
+      "texto": "24.º-A\n\n(Candidatos que já estiveram inscritos em curso de ensino superior)\n\n1 - Os candidatos que tenham tido uma matrícula e inscrição válidas no ensino superior no ano lectivo de 1983-1984 e que não obtenham colocação poderão proceder à inscrição no curso onde haviam estado inscritos no ano lectivo de 1983-1984 dentro dos prazos referidos no anexo VIII, referências 9 a 11 ou 19 a 21, conforme o caso.\n\n2 - Os candidatos que já tenham estado inscritos num curso do ensino superior e que, obtendo colocação no concurso regulado pela presente portaria, não procedam à matrícula no prazo fixado sem motivo de força maior devidamente justificado não poderão, nos anos lectivos de 1984-1985 e 1985-1986, praticar matrícula, inscrição, candidatura pelo regime geral ou regimes especiais ou candidatura pelos regimes de reingresso, mudança de curso e transferência.\n\n3 - A aceitação ou rejeição da justificação referida no n.º 2 é da competência do director do Gabinete Coordenador do Ingresso no Ensino Superior.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 262,
+      "texto": "3 - Em relação aos candidatos que já hajam estado matriculados em estabelecimentos de ensino superior, os estabelecimentos onde aqueles foram colocados no âmbito do concurso de candidatura regulado pela presente portaria deverão:\n\na) Se o candidato se matriculou, requisitar igualmente o seu processo individual ao último estabelecimento onde o candidato esteve matriculado;\n\nb) Se o candidato não se matriculou, notificar do facto o último estabelecimento onde o candidato esteve matriculado.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Portaria 429/84: aditamento do anexo IX (só em imagem) e alterações aos quadros dos anexos I e II (n.os 8.º a 13.º), que só existem em imagem (unidade 313); Portaria 657/84: nova redação do n.º 5 do anexo VIII, só em imagem. Não aplicadas.",
+  "instrucoes": [
+    "Alt. 1, 1.º: aditados os n.os 8.º-A (depois da unidade 78) e 24.º-A (depois da 249); anexo IX em imagem não aplicado",
+    "Alt. 1, 2.º: aditado n.º 4 ao 10.º (depois da 93)",
+    "Alt. 1, 3.º: aditado n.º 8 ao 11.º (depois da 110)",
+    "Alt. 1, 4.º: nova redação do n.º 2 do 12.º; a) a e) ficam ('...'); f) substituída e g) aditada (unidade 120)",
+    "Alt. 1, 5.º: nova redação da alínea i) do n.º 2 do 22.º (unidade 234)",
+    "Alt. 1, 6.º: aditado n.º 3 ao 23.º (depois da 242)",
+    "Alt. 1, 7.º: aditado n.º 3 ao 27.º (depois da 262)",
+    "Alt. 1, 8.º a 13.º: quadros dos anexos I e II em imagem; não aplicado",
+    "Alt. 1, 14.º: revogado o n.º 6 do 20.º (unidade 208)",
+    "Alt. 2: n.º 5 do anexo VIII em imagem; não aplicado",
+    "Alt. 3: altera o Regulamento aprovado pela Portaria 582-B/84, não o original; ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:494871:por",
+  "substituicoes": [
+    {
+      "de": 26,
+      "ate": 33,
+      "texto": "1 - Afixação pública da grelha de apreciação dos curricula - até 7 de Outubro de 1987.\n\n2 - Candidatura à matrícula - até 13 de Outubro de 1987.\n\n3 - Afixação das listas ordenadas - até 15 de Outubro de 1987.\n\n4 - Reclamação sobre os resultados finais da candidatura - até 19 de Outubro de 1987.\n\n5 - Decisão sobre as reclamações - até 21 de Outubro de 1987.\n\n6 - Matrículas e inscrições - de 22 de Outubro de 1987 a 26 de Outubro de 1987.\n\n7 - Início das aulas - 27 de Outubro de 1987.\n\n8 - Comunicação dos resultados da candidatura ao Gabinete Coordenador do Ingresso no Ensino Superior - até 16 de Novembro de 1987.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do anexo; título igual, substituídos os pontos 1 a 8 (unidades 26-33)",
+    "Alt. 2: altera a Portaria 1031/93, não o original; ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

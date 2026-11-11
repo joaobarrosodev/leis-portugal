@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:502425:por",
+  "substituicoes": [
+    {
+      "de": 42,
+      "ate": 42,
+      "texto": "§ único. Aos condutores de automóveis, intérpretes, guardas-nocturnos, serventes e a todo o pessoal assalariado em serviço nas curadorias dos indígenas portugueses na União da África do Sul e na Rodésia do Sul, além do salário próprio que lhes estiver fixado, será abonada uma gratificação mensal de 750$00.",
+      "alterador": 1
+    },
+    {
+      "de": 121,
+      "ate": 124,
+      "texto": "Art. 27.º (Revogado.)",
+      "alterador": 4
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto n.º 43565), art. 7.º: nova redação do § único do artigo 6.º do original (unidade 42); mantido o rótulo '§ único.' do texto atual e trocado o corpo pelo do alterador. Os restantes artigos não se dirigem ao original.",
+    "Alterador 2 (Decreto n.º 45575): o pedido não traz texto nenhum deste diploma; nada a aplicar.",
+    "Alterador 3 (Decreto n.º 46068), art. 22.º: prorroga a vigência do artigo 15.º do original; não é alteração textual; nada aplicado.",
+    "Alterador 4 (Decreto n.º 268/70), art. 8.º: autoriza alterar o complemento do artigo 47.º do Decreto n.º 40709 na redação dada pelo original; é dirigido a outro diploma e não é textual; ignorado.",
+    "Alterador 4 (Decreto n.º 268/70), art. 20.º: revogado o artigo 27.º do original; unidades 121 a 124 (corpo e alíneas a) a c)) passam a 'Art. 27.º (Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 42-42: parágrafo que não está no alterador nem no original: § único. Aos condutores de automóveis, intérpretes, guardas-nocturnos, serventes",
+    "substituição 121-124: parágrafo que não está no alterador nem no original: Art. 27.º (Revogado.)"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:407692:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 15,
+      "texto": "2.º O preço das quantidades maiores do que as que se acham fixadas será feito em relação ao preço indicado para a maior unidade, sem mais qualquer redução.\n\n3.º O preço das quantidades intermédias às que se acharem fixadas neste Regimento será calculado adicionando ao preço da unidade imediatamente inferior o da quantidade restante das primeiras cinco décimas partes da unidade imediatamente superior, avaliado em relação ao preço desta; o das segundas cinco décimas, em relação à diferença entre o preço daquelas e o da referida unidade superior.",
+      "alterador": 2
+    },
+    {
+      "de": 34,
+      "ate": 114,
+      "texto": "Até seis ... 60$00\n\nPor cada uma a mais ... 3$50\n\nBolos:\n\nAté seis ... 17$00\n\nPor cada um a mais ... 1$50\n\nCápsulas:\n\nAté seis ... 35$00\n\nPor cada uma a mais ... 3$50\n\nCataplasmas:\n\nAté 500 g ... 17$00\n\nPor cada 100 g a mais ou fracção ... 2$00\n\nCozimentos:\n\nAté 250 g ... 25$00\n\nPor cada 100 g a mais ou fracção ... 3$50\n\nElectuários:\n\nAté 250 g ... 17$00\n\nPor cada 100 g a mais ou fracção ... 3$50\n\nEmulsões:\n\nAté 100 g ... 30$00\n\nPor cada 100 g a mais ou fracção ... 7$00\n\nEspécies:\n\nAté 250 g ... 17$00\n\nPor cada 100 g a mais ou fracção ... 3$50\n\nEsterilizações, cada uma ... 50$00\n\nGeleias:\n\nAté 100 g ... 30$00\n\nPor cada 100 g a mais ou fracção ... 13$50\n\nGlicerados:\n\nAté 50 g ... 17$00\n\nPor cada 25 g a mais ou fracção ... 3$50\n\nHóstias:\n\nAté seis ... 25$00\n\nPor cada uma a mais ... 3$00\n\nInfusos:\n\nAté 250 g ... 21$00\n\nPor cada 100 g a mais ou fracção ... 3$50\n\nJulepos:\n\nAté 100 g ... 25$00\n\nPor cada 100 g a mais ou fracção ... 5$50\n\nLoques:\n\nAté 100 g ... 30$00\n\nPor cada 100 g a mais ou fracção ... 7$00\n\nMacerados:\n\nAté 250 g ... 17$00\n\nPor cada 100 g a mais ou fracção ... 4$00\n\nMisturas:\n\nAté 100 g ... 17$00\n\nPor cada 100 g a mais ou fracção ... 3$50\n\nÓvulos:\n\nAté seis ... 30$00\n\nPor cada um a mais ... 4$00\n\nPapéis:\n\nAté seis ... 17$00\n\nPor cada um a mais ... 2$00\n\nPastas:\n\nAté 50 g ... 21$00\n\nPor cada 25 g a mais ou fracção ... 3$50\n\nPílulas:\n\nAté seis ... 25$00\n\nPor cada uma a mais ... 3$00\n\nCom revestimento de qualquer induto:\n\nAté seis ... 30$00\n\nPor cada uma a mais ... 3$50\n\nPoções:\n\nAté 100 g ... 17$00\n\nPor cada 100 g a mais ou fracção ... 3$50\n\nPomadas:\n\nAté 50 g ... 17$00\n\nPor cada 25 g a mais ou fracção ... 3$50\n\nPós compostos:\n\nAté 50 g ... 17$00\n\nPor cada 25 g a mais ou fracção ... 3$50\n\nSolutos:\n\nAté 100 g ... 17$00\n\nPor cada 100 g a mais ou fracção ... 3$50\n\nSupositórios:\n\nAté seis ... 30$00\n\nPor cada um a mais ... 3$50\n\nSuspensões:\n\nAté 100 g ... 17$00\n\nPor cada 100 g a mais ou fracção ... 3$50",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: nova tabela dos preços dos medicamentos e alterações ao prontuário só em imagem. Alterador 2, 2.º: nota (a) ao prontuário, que só existe no documento em imagem (unidade 120), não está no texto. Alterador 3: tabela dos preços dos medicamentos e prontuário só em imagem. Alteradores 4 e 5: alterações ao prontuário só em imagem.",
+  "instrucoes": [
+    "Alterador 1: tabela de preços e prontuário em imagem: nao_aplicavel.",
+    "Alterador 2, 1.º: nova redacção dos n.os 2.º e 3.º do Regimento: unidades 14-15.",
+    "Alterador 2, 2.º: nova redacção da nota (a) do prontuário (em imagem): nao_aplicavel.",
+    "Alterador 3: nova tabela dos honorários das manipulações: unidades 34-114 substituídas (título e primeira rubrica iguais); tabela de preços e prontuário em imagem: nao_aplicavel.",
+    "Alteradores 4 e 5: prontuário em imagem: nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

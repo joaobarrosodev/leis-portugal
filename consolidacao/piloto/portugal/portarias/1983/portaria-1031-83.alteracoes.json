@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 representante permanente;\n\n1 representante permanente adjunto;\n\n3 funcionários do serviço diplomático;",
+    "depois": "Um representante permanente;\n\nUm representante permanente adjunto para as questões do desarmamento;\n\nUm representante permanente adjunto;\n\nTrês funcionários diplomáticos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:443285:por",
+    "alterador": "pt:dre:506599:por;pt:dre:506399:por"
+  },
+  {
+    "artigo": "unidades 12-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 conselheiro ou adido económico;\n\n1 conselheiro ou adido de imprensa;\n\n1 Consultor técnico para assuntos de trabalho e emprego;\n\n1 secretário privativo;",
+    "depois": "Um conselheiro jurídico;\n\nUm conselheiro ou adido económico;\n\nUm conselheiro ou adido de imprensa;\n\nUm consultor técnico para assuntos de trabalho e emprego;\n\nUm secretário privativo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:443285:por",
+    "alterador": "pt:dre:506599:por;pt:dre:506399:por"
+  }
+]

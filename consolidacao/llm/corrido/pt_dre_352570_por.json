@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:352570:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1, 3, 4 e 5 criam lugares no quadro de pessoal, que só existe nos mapas em imagem; o alterador 2 substitui o quadro (mapas I e II do anexo I, em imagem) e aprova o seu próprio anexo II sem mandar substituir o texto do anexo II do original. Nada aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1535/2001): cria um lugar de assessor principal no quadro (mapa em imagem): não aplicado.",
+    "Alterador 2 (Portaria 1220/2001): 1.º substitui o quadro pelos mapas I e II do seu anexo I (imagens): não aplicado; 2.º fixa o conteúdo funcional no seu próprio anexo II, sem instrução de substituição do anexo II do original: não aplicado.",
+    "Alterador 3 (Portaria 1369/2002): cria um lugar de assessor no quadro (mapa em imagem): não aplicado.",
+    "Alterador 4 (Portaria 366/2003): cria um lugar de especialista de informática no quadro (mapa em imagem): não aplicado.",
+    "Alterador 5 (Portaria 985/2003): cria um lugar de assessor principal no quadro (mapa em imagem): não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

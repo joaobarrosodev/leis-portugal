@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 14-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º O preço das quantidades intermédias às que se acharem fixadas neste Regimento será calculado adicionando ao preço da unidade imediatamente inferior o da quantidade restante das primeiras cinco décimas partes da unidade imediatamente superior, avaliado em relação à diferença entre o preço daquelas e o da referida unidade superior.\n\n3.º O preço das quantidades maiores do que as que se acham fixadas será feito em relação ao preço indicado para a maior unidade, sem mais qualquer redução.",
+    "depois": "2.º O preço das quantidades maiores do que as que se acham fixadas será feito em relação ao preço indicado para a maior unidade, sem mais qualquer redução.\n\n3.º O preço das quantidades intermédias às que se acharem fixadas neste Regimento será calculado adicionando ao preço da unidade imediatamente inferior o da quantidade restante das primeiras cinco décimas partes da unidade imediatamente superior, avaliado em relação ao preço desta; o das segundas cinco décimas, em relação à diferença entre o preço daquelas e o da referida unidade superior.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:407692:por",
+    "alterador": "pt:dre:446162:por;pt:dre:329461:por"
+  },
+  {
+    "artigo": "unidades 34-114",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Até seis ... 42$50\n\nPor cada uma a mais ... 2$50\n\nBolos:\n\nAté seis ... 12$50\n\nPor cada um a mais ... 1$00\n\nCápsulas:\n\nAté seis ... 25$00\n\nPor cada uma a mais ... 2$50\n\nCataplasmas:\n\nAté 500 g ... 12$00\n\nPor cada 100 g a mais ou fracção ... 1$50\n\nCozimentos:\n\nAté 250 g ... 18$00\n\nPor cada 100 g a mais ou fracção ... 2$50\n\nElectuários\n\nAté 250 g ... 12$00\n\nPor cada 100 g a mais ou fracção ... 2$50\n\nEmulsões:\n\nAté 100 g ... 22$50\n\nPor cada 100 g a mais ou fracção ... 5$00\n\nEspécies:\n\nAté 250 g ... 12$50\n\nPor cada 100 g a mais ou fracção ... 2$50\n\nEsterilizações, cada uma ... 35$00\n\nGeleias:\n\nAté 100 g ... 22$50\n\nPor cada 100 g a mais ou fracção ... 10$00\n\nGlicerados:\n\nAté 50 g ... 12$50\n\nPor cada 25 g a mais ou fracção ... 2$50\n\nHóstias:\n\nAté seis ... 18$00\n\nPor cada uma a mais ... 2$00\n\nInfusos:\n\nAté 250 g ... 15$00\n\nPor cada 100 g a mais ou fracção ... 2$50\n\nJulepos:\n\nAté 100 g ... 18$00\n\nPor cada 100 g a mais ou fracção ... 4$00\n\nLooques:\n\nAté 100 g ... 22$50\n\nPor cada 100 g a mais ou fracção ... 5$00\n\nMacerados:\n\nAté 250 g ... 12$50\n\nPor cada 100 g a mais ou fracção ... 3$00\n\nMisturas:\n\nAté 100 g ... 12$50\n\nPor cada 100 g a mais ou fracção ... 2$50\n\nÓvulos:\n\nAté seis ... 22$50\n\nPor cada um a mais ... 2$50\n\nPapéis:\n\nAté seis ... 12$50\n\nPor cada um a mais ... 1$50\n\nPastas:\n\nAté 50 g ... 15$00\n\nPor cada 25 g a mais ou fracção ... 2$50\n\nPílulas:\n\nAté seis ... 18$00\n\nPor cada uma a mais ... 2$00\n\nCom revestimento de qualquer induto:\n\nAté seis ... 22$50\n\nPor cada uma a mais ... 2$50\n\nPoções:\n\nAté 100 g ... 12$50\n\nPor cada 100 g a mais ou fracção ... 2$50\n\nPomadas:\n\nAté 50 g ... 12$50\n\nPor cada 25 g a mais ou fracção ... 2$50\n\nPós compostos:\n\nAté 50 g ... 12$50\n\nPor cada 25 g a mais ou fracção ... 2$50\n\nSolutos:\n\nAté 100 g ... 12$50\n\nPor cada 100 g a mais ou fracção ... 2$50\n\nSupositórios:\n\nAté seis ... 22$50\n\nPor cada um a mais ... 2$50\n\nSuspensões:\n\nAté 100 g ... 12$50\n\nPor cada 100 g a mais ou fracção ... 2$50",
+    "depois": "Até seis ... 60$00\n\nPor cada uma a mais ... 3$50\n\nBolos:\n\nAté seis ... 17$00\n\nPor cada um a mais ... 1$50\n\nCápsulas:\n\nAté seis ... 35$00\n\nPor cada uma a mais ... 3$50\n\nCataplasmas:\n\nAté 500 g ... 17$00\n\nPor cada 100 g a mais ou fracção ... 2$00\n\nCozimentos:\n\nAté 250 g ... 25$00\n\nPor cada 100 g a mais ou fracção ... 3$50\n\nElectuários:\n\nAté 250 g ... 17$00\n\nPor cada 100 g a mais ou fracção ... 3$50\n\nEmulsões:\n\nAté 100 g ... 30$00\n\nPor cada 100 g a mais ou fracção ... 7$00\n\nEspécies:\n\nAté 250 g ... 17$00\n\nPor cada 100 g a mais ou fracção ... 3$50\n\nEsterilizações, cada uma ... 50$00\n\nGeleias:\n\nAté 100 g ... 30$00\n\nPor cada 100 g a mais ou fracção ... 13$50\n\nGlicerados:\n\nAté 50 g ... 17$00\n\nPor cada 25 g a mais ou fracção ... 3$50\n\nHóstias:\n\nAté seis ... 25$00\n\nPor cada uma a mais ... 3$00\n\nInfusos:\n\nAté 250 g ... 21$00\n\nPor cada 100 g a mais ou fracção ... 3$50\n\nJulepos:\n\nAté 100 g ... 25$00\n\nPor cada 100 g a mais ou fracção ... 5$50\n\nLoques:\n\nAté 100 g ... 30$00\n\nPor cada 100 g a mais ou fracção ... 7$00\n\nMacerados:\n\nAté 250 g ... 17$00\n\nPor cada 100 g a mais ou fracção ... 4$00\n\nMisturas:\n\nAté 100 g ... 17$00\n\nPor cada 100 g a mais ou fracção ... 3$50\n\nÓvulos:\n\nAté seis ... 30$00\n\nPor cada um a mais ... 4$00\n\nPapéis:\n\nAté seis ... 17$00\n\nPor cada um a mais ... 2$00\n\nPastas:\n\nAté 50 g ... 21$00\n\nPor cada 25 g a mais ou fracção ... 3$50\n\nPílulas:\n\nAté seis ... 25$00\n\nPor cada uma a mais ... 3$00\n\nCom revestimento de qualquer induto:\n\nAté seis ... 30$00\n\nPor cada uma a mais ... 3$50\n\nPoções:\n\nAté 100 g ... 17$00\n\nPor cada 100 g a mais ou fracção ... 3$50\n\nPomadas:\n\nAté 50 g ... 17$00\n\nPor cada 25 g a mais ou fracção ... 3$50\n\nPós compostos:\n\nAté 50 g ... 17$00\n\nPor cada 25 g a mais ou fracção ... 3$50\n\nSolutos:\n\nAté 100 g ... 17$00\n\nPor cada 100 g a mais ou fracção ... 3$50\n\nSupositórios:\n\nAté seis ... 30$00\n\nPor cada um a mais ... 3$50\n\nSuspensões:\n\nAté 100 g ... 17$00\n\nPor cada 100 g a mais ou fracção ... 3$50",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:407692:por",
+    "alterador": "pt:dre:446162:por;pt:dre:329461:por"
+  }
+]

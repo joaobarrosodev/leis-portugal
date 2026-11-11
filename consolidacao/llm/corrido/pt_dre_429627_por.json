@@ -1,0 +1,35 @@
+{
+  "id": "pt:dre:429627:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 19,
+      "texto": "a) O 1.º ciclo do curso tem a duração de seis semestres lectivos;\n\nb) O 2.º ciclo do curso tem a duração de dois semestres lectivos.",
+      "alterador": 2
+    },
+    {
+      "de": 40,
+      "ate": 46,
+      "texto": "2 - A conclusão com aproveitamento na totalidade das unidades curriculares que integram os 1.º e 2.º ciclos do curso de Engenharia de Máquinas Marítimas satisfaz os requisitos obrigatórios para a certificação de chefes de máquinas e segundos-oficiais de máquinas de navios cuja máquina principal tenha potência propulsora entre 750 kW e 3000 kW (regra III/3 da Convenção STCW e Emendas) e de navios cuja máquina principal tenha uma potência propulsora superior a 3000 kW (regra III/2 da Convenção STCW e Emendas), possibilitando a obtenção dos respectivos certificados de competência, desde que estejam satisfeitos os restantes requisitos para a sua emissão.\n\n3 - A conclusão com aproveitamento na totalidade das unidades curriculares que integram o 1.º ciclo do curso de Engenharia de Máquinas Marítimas possibilita ainda a obtenção dos seguintes certificados de qualificação e provas documentais previstos na Convenção STCW e Emendas, desde que estejam satisfeitos os restantes requisitos exigidos para a sua emissão:\n\na) Condução de embarcações de salvamento (tabela A-VI/2-1 do Código STCW);\n\nb) Condução de embarcações de salvamento rápidas (tabela A-VI/2-2 do Código STCW);\n\nc) Para ministrar os primeiros socorros a bordo (tabela A-VI/4-1 do Código STCW);\n\nd) Controlo de operações de combate a incêndios (tabela A-VI/3 do Código STCW);\n\ne) Exercício de funções específicas nos navios-tanque (petroleiros, químicos e gás liquefeito) (parágrafos 2 a 7 da secção A-V/1 do Código STCW);\n\nf) Familiarização em navios ro-ro de passageiros (parágrafo 2 da secção A-V/2 do Código STCW);\n\ng) Controlo de multidões em navios ro-ro de passageiros (parágrafo 1 da secção A-V/2 do Código STCW);\n\nh) Segurança na comunicação com passageiros em navios ro-ro de passageiros (parágrafo 3 da secção A-V/2 do Código STCW);\n\ni) Gestão de crises e comportamento humano (parágrafo 5 da secção A-V/2 do Código STCW);\n\nj) Segurança dos passageiros, da carga e integridade do casco nos navios ro-ro de passageiros (parágrafo 4 da secção A-V/2 do Código STCW).\n\n4 - A conclusão com aproveitamento das unidades curriculares que integram o 2.º ciclo do curso de Engenharia de Máquinas Marítimas, incluindo as disciplinas de Navios-Tanque I e Navios-Tanques II, possibilita, ainda, a obtenção dos seguintes certificados de qualificação, desde que estejam satisfeitos os restantes requisitos exigidos para a sua emissão:\n\na) Para o exercício de funções de responsabilidade em navios-tanque petroleiros (parágrafos 9 a 14 da secção A-V/1 do Código STCW);\n\nb) Para o exercício de funções de responsabilidade em navios-tanque químicos (parágrafos 16 a 21 da secção A-V/1 do Código STCW);\n\nc) Para o exercício de funções de responsabilidade em navios-tanque de gás liquefeito (parágrafos 23 a 34 da secção A-V/1 do Código STCW).",
+      "alterador": 2
+    },
+    {
+      "de": 49,
+      "ate": 53,
+      "texto": "1 - O acesso ao 2.º ciclo do curso de Engenharia de Máquinas Marítimas está condicionado a um período de experiência profissional a bordo com a duração de seis meses, realizado nas condições estabelecidas na Convenção STCW e Emendas e será efectuado da seguinte forma:\n\na) Sem limitações quantitativas para os estudantes que tenham concluído o 1.º ciclo do curso de Engenharia de Máquinas Marítimas na Escola Náutica Infante D. Henrique em ano lectivo imediatamente anterior;\n\nb) Sujeito a limitações quantitativas:\n\nb.1) Para os estudantes que tenham concluído o 1.º ciclo do curso de Engenharia de Máquinas Marítimas na Escola Náutica Infante D. Henrique noutros anos lectivos;\n\nb.2) Para os estudantes que tenham concluído um 1.º ciclo na área do curso cujo plano de estudos garanta, globalmente, uma formação correspondente à do 1.º ciclo do curso.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (quadro n.º 8 do anexo) e alterador 2, 1.º, n.º 2 (novo anexo): os quadros do plano de estudos só vêm em imagem, e o anexo do original também é só imagem (unidade 133).",
+  "instrucoes": [
+    "Alterador 1: nova redacção do quadro n.º 8 do anexo (imagem) - não aplicado.",
+    "Alterador 2, 1.º, n.º 1, n.º 2.º: epígrafe e proémio mantidos ([...] e texto igual); substituídas as alíneas 1) e 2) (unidades 18-19) pelas novas a) e b).",
+    "Alterador 2, 1.º, n.º 1, n.º 8.º: n.º 1 mantido (...); substituídos os n.os 2 e 3 com as alíneas (unidades 40-46) pelos novos n.os 2, 3 (alíneas a) a j)) e 4 (alíneas a) a c)).",
+    "Alterador 2, 1.º, n.º 1, n.º 9.º: substituído o n.º 1 com as alíneas (unidades 49-53); n.º 2 mantido (...).",
+    "Alterador 2, 1.º, n.º 2: novo anexo (imagem) - não aplicado; 2.º e 3.º: transição e aplicação, regras próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

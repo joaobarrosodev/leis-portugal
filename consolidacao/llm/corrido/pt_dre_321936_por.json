@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:321936:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1, 2, 4 e 5 criam lugares no quadro de pessoal (mapas só em imagem); alterador 3 altera o quadro conforme mapa só em imagem; alterador 6 (art. 9.º) remete a alteração do quadro para portaria futura. Nenhuma alteração textual aplicável ao texto do original.",
+  "instrucoes": [
+    "Alteradores 1, 2, 4, 5: criação de lugares a extinguir quando vagarem no quadro (mapa em imagem): não aplicável.",
+    "Alterador 3: alteração do quadro de pessoal pelo mapa I anexo (só em imagem): não aplicável.",
+    "Alterador 6: aplica regime das carreiras de inspecção; o art. 9.º prevê alteração do quadro por portaria futura: não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

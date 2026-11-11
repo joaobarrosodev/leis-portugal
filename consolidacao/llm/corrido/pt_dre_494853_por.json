@@ -1,0 +1,65 @@
+{
+  "id": "pt:dre:494853:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "2.º A CDPM funciona na directa dependência hierárquica do Chefe do Estado-Maior da Armada (CEMA), por inerência a Autoridade Marítima Nacional (AMN), constituindo-se como órgão de consulta da Autoridade Marítima Nacional (AMN).",
+      "alterador": 3
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "3.º A CDPM é apoiada, em termos administrativos e financeiros, pela Direcção-Geral da Autoridade Marítima (DGAM).",
+      "alterador": 3
+    },
+    {
+      "de": 14,
+      "ate": 34,
+      "texto": "4.º A CDPM é constituída, por:\n\na) Presidente, que é um oficial general da Marinha, do activo ou da reserva;\n\nb) Seis vogais, individualidades de reconhecido mérito, sendo duas delas doutores em Direito e outras duas oficiais da Marinha;\n\nc) Um vogal representante da Direcção-Geral da Autoridade Marítima;\n\nd) Um vogal representante do Instituto Geográfico, do Exército;\n\ne) Um vogal representante do ministério responsável pela área dos portos;\n\nf) Um vogal representante do Instituto Hidrográfico;\n\ng) Um vogal representante do ministério responsável pela área dos recursos hídricos;\n\nh) Um vogal representante do ministério responsável pela área das pescas e da aquicultura;\n\ni) Um vogal representante do Instituto da Conservação da Natureza e da Biodiversidade;\n\nj) Um vogal representante do ministério responsável pela área do turismo;\n\nk) Um vogal representante do ministério responsável pela área das administrações portuárias autónomas;\n\nl) Um vogal representante do ministério responsável pela área das florestas;\n\nm) Um vogal representante do ministério responsável pela área da cultura;\n\nn) Um vogal representante da Direcção-Geral do Património;\n\no) Um vogal representante da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo;\n\np) Um vogal representante da Região Autónoma dos Açores;\n\nq) Um vogal representante da Região Autónoma da Madeira;\n\nr) Um vogal representante do ministério responsável pela área da administração local;\n\ns) Um vogal representante do ministério responsável pela área do ordenamento do território;\n\nt) Um oficial da Marinha licenciado em Direito, como secretário, sem direito a voto.",
+      "alterador": 3
+    },
+    {
+      "de": 41,
+      "ate": 48,
+      "texto": "10.º Nas sessões ordinárias, a ordem de trabalhos é estabelecida pelo presidente e inclui, em regra, os seguintes assuntos:\n\na) Leitura da minuta da acta da última sessão a submeter a aprovação;\n\nb) Conhecimento do expediente relevante e de assuntos de interesse para a CDPM;\n\nc) Designação dos vogais relatores para os processos recepcionados;\n\nd) Indicação dos projectos de parecer, apresentados pelos vogais relatores, disponíveis na secretaria para consulta;\n\ne) Apresentação e leitura, pelos vogais relatores, dos projectos agendados e subsequente debate e votação;\n\nf) Outros assuntos e informação de ordem geral que interesse ao conhecimento dos vogais.",
+      "alterador": 3
+    },
+    {
+      "de": 76,
+      "ate": 76,
+      "texto": "22.º Nas suas ausências, faltas ou impedimentos, o presidente é substituído pelo vogal da CDPM, oficial da Marinha, de maior antiguidade.",
+      "alterador": 3
+    },
+    {
+      "de": 83,
+      "ate": 83,
+      "texto": "f) (Revogada.)",
+      "alterador": 1
+    },
+    {
+      "de": 94,
+      "ate": 94,
+      "texto": "26.º Nas suas ausências, faltas ou impedimentos, as funções do secretário, durante as sessões, são asseguradas, em acumulação, pelo vogal da CDPM, oficial da Marinha, de menor antiguidade.",
+      "alterador": 3
+    },
+    {
+      "de": 103,
+      "ate": 103,
+      "texto": "30.º As senhas de presença devidas aos membros da CDPM são pagas pelo órgão administrativo competente da DGAM.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 344/96), 1.º: nova redação do n.º 10 (unidades 41 a 48); substituída depois pela redação do alterador 3, que também revoga esse n.º 1.º da Portaria n.º 344/96, pelo que fica só a redação final na substituição 41-48.",
+    "Alterador 1 (Portaria n.º 344/96), 2.º: revogada a alínea f) do n.º 23; unidade 83 passa a 'f) (Revogada.)'.",
+    "Alterador 2: é a mesma Portaria n.º 344/96 repetida; as mesmas instruções, já aplicadas uma vez.",
+    "Alterador 3 (Portaria n.º 566/2008), art. 1.º: nova redação dos n.os 2 (unidade 12), 3 (unidade 13), 4 com alíneas a) a t) (unidades 14 a 34), 10 com alíneas a) a f) (unidades 41 a 48), 22 (unidade 76), 26 (unidade 94) e 30 (unidade 103), copiadas do alterador.",
+    "Alterador 3, art. 2.º: revoga a Portaria n.º 234/88 e o n.º 1 da Portaria n.º 344/96; não incide sobre o texto do original (a Portaria n.º 234/88 não está entre os alteradores do pedido)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

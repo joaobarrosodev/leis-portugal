@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Fica sujeito ao regime de preços máximos a que se refere a alínea a) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, o pão de trigo fabricado com farinha de trigo dos tipos 75, 95 e 115.",
+    "depois": "1.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:162778:por",
+    "alterador": "pt:dre:284896:por"
+  }
+]

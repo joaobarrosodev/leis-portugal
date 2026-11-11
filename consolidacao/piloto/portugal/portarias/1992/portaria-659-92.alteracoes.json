@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Santo Quintino, município de Sobral de Monte Agraço, com uma área de 2600 ha.",
+    "depois": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de São Quintino, município de Sobral de Monte Agraço, com uma área de 1671,9580 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:288024:por",
+    "alterador": "pt:dre:310828:por;pt:dre:650104:por"
+  },
+  {
+    "artigo": "depois da unidade 6",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:288024:por",
+    "alterador": "pt:dre:310828:por;pt:dre:650104:por"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:514040:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 21,
+      "texto": "2.º - 1 - O despacho previsto na alínea b) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 415-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-a-1986-352316), de 17 de Dezembro, fixará a percentagem máxima de aumento médio dos preços de transporte rodoviário interurbano, a qual poderá ser diferenciada por categorias de títulos de transporte.\n\n2 - Através do despacho citado no n.º 1, fixará ainda o Governo as percentagens máximas de aumento médio relativas aos preços dos transportes fluviais, ferroviários e urbanos em Lisboa e no Porto.\n\n3 - Os operadores de transportes urbanos rodoviários de Lisboa e do Porto, sempre que as respectivas carreiras ultrapassem os limites daquelas cidades, poderão actualizar os preços dos correspondentes títulos de transporte, desde que não excedam os valores decorrentes da aplicação do n.º 1.\n\n4 - O disposto no número anterior é igualmente aplicável aos passes de rede, combinados e multimodais, considerando-se, neste caso, os valores médios decorrentes da aplicação da percentagem prevista no n.º 1 para as mesmas distâncias nos transportes rodoviários interurbanos.\n\n5 - Exceptuam-se do disposto nos n.os 1 e 2 os preços dos transportes rodoviários interurbanos e dos ferroviários em comboios directos e regionais, relativamente a percursos que excedam 100 km, cuja fixação compete aos respectivos operadores.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 1110-G/89), 1.º: nova redação do n.º 2.º (unidades 8 a 21); substituída depois por inteiro pela redação do alterador 2, pelo que fica só a redação final.",
+    "Alterador 2 (Portaria n.º 69/92), 1.º: nova redação do n.º 2.º com os n.os 1 a 5; substituídas as unidades 8 a 21 pelo texto do alterador.",
+    "Alterador 3 (Despacho Normativo n.º 39-A/92): emitido ao abrigo do n.º 2.º do original, reduz percentagens fixadas no Despacho Normativo n.º 18/92; não altera o texto do original; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

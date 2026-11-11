@@ -1,0 +1,114 @@
+{
+  "id": "pt:dre:614364:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "2.º Sem prejuízo do disposto no número seguinte, as ambulâncias com licença válida à data do presente diploma devem ser adaptadas e reclassificadas, no prazo de 36 meses às disposições do Regulamento, nomeadamente no que se refere às características sanitárias e ao equipamento da célula sanitária.",
+      "alterador": 1
+    },
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "1.2 - A instrução dos processos de alvará compete ao Instituto Nacional de Emergência Médica, adiante designado por INEM.",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "2.1 - As entidades privadas transportadoras de doentes devem observar os seguintes requisitos mínimos quanto às suas instalações físicas e operacionalidade:",
+      "alterador": 1
+    },
+    {
+      "de": 52,
+      "ate": 52,
+      "texto": "3.6 - Pela apreciação do processo conducente à emissão de alvará são devidas taxas, nos seguintes montantes:\n\na) Instrução do processo de alvará - (euro) 200;\n\nb) Requerimento da vistoria da viatura - (euro) 400;\n\nc) Emissão de alvará - (euro) 100;\n\nd) Averbamento no alvará - (euro) 25;\n\ne) Emissão de segunda via de alvará e ou certificado de vistoria - (euro) 25;\n\nf) Revalidação do alvará - (euro) 100.",
+      "alterador": 1
+    },
+    {
+      "de": 53,
+      "ate": 53,
+      "texto": "3.7 - As taxas acima referidas são cobradas no acto de entrega dos requerimentos.",
+      "alterador": 1
+    },
+    {
+      "de": 68,
+      "ate": 70,
+      "texto": "10 - O licenciamento das ambulâncias é da competência da Direcção-Geral de Viação, na sequência de vistoria realizada pelo INEM, que emite o respectivo certificado de vistoria.\n\n10.1 - No caso de ambulâncias pertencentes às entidades referidas no n.º 1.3 o certificado de vistoria fica sujeito ao pagamento de 25% da taxa prevista na alínea b) do n.º 3.6.\n\n10.2 - A vistoria de ambulâncias pertencentes a outras entidades faz-se no âmbito do processo previsto no n.º 3.6.",
+      "alterador": 2
+    },
+    {
+      "de": 73,
+      "ate": 73,
+      "texto": "11.1 - As ambulâncias pertencentes a empresas privadas de transportes de doentes devem ser de cor branca.",
+      "alterador": 1
+    },
+    {
+      "de": 157,
+      "ate": 157,
+      "texto": "25.1 - A tripulação das ambulâncias de socorro é constituída por dois elementos, sendo um simultaneamente o condutor.",
+      "alterador": 2
+    },
+    {
+      "de": 159,
+      "ate": 159,
+      "texto": "25.3 - O outro elemento deve ter, pelo menos, o curso de tripulante de ambulância de transporte.",
+      "alterador": 2
+    },
+    {
+      "de": 167,
+      "ate": 167,
+      "texto": "27.1 - O curso para tripulante de ambulância de transporte é um curso teórico-prático com a duração mínima de trinta e cinco horas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 23,
+      "texto": "1.4 - A emissão dos alvarás e certificados de vistoria poderá ser delegada no conselho de direcção do INEM.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 39,
+      "texto": "3.2.1.1 - O capital social mínimo exigido às pessoas colectivas transportadoras de doentes é de (euro) 5000, a comprovar mediante certidão do registo comercial.\n\n3.2.1.2 - Durante o exercício da actividade de transporte de doentes as empresas devem dispor de um capital de reserva de montante igual ou superior a (euro) 600 por cada veículo licenciado.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 41,
+      "texto": "3.2.4 - Para efeitos do número anterior, serão consideradas com capacidade profissional para o exercício de responsável pela frota afecta ao transporte de doentes as pessoas que façam prova de uma das seguintes condições:\n\na) Comprovem, documentalmente e por meio de currículo, experiência prática de, pelo menos, cinco anos consecutivos, numa empresa de transportes como directores, administradores, gerentes ou dirigentes de corporações de bombeiros;\n\nb) Sejam médicos ou enfermeiros;\n\nc) Se encontrem habilitados com cursos superiores em área de gestão ou economia;\n\nd) Estejam habilitados com exame de capacidade profissional relativa a transportador público rodoviário interno de passageiros e apresentem o respectivo certificado.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 53,
+      "texto": "3.7.1 - As taxas referidas no n.º 3.6 poderão ser alteradas por despacho do Ministro da Saúde.\n\n3.8 - O alvará é válido pelo período de cinco anos após a sua emissão, devendo a respectiva revalidação ser requerida até 60 dias antes do termo do prazo, sob pena de caducidade.\n\n3.8.1 - O pedido de revalidação referido no número anterior deve ser acompanhado dos documentos comprovativos da verificação das condições exigidas mencionadas nos n.os 2 e 3.\n\n3.8.2 - O INEM deve decidir o pedido de revalidação no prazo de 30 dias, sob pena de este ser considerado tacitamente deferido.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 79,
+      "texto": "11.8 - As faixas de material reflector exterior das ambulâncias propriedade das entidades detentoras de corpos de bombeiros podem ser de cor branca.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 178,
+      "texto": "CAPÍTULO IV\n\nDa fiscalização\n\n31 - Compete ao INEM a fiscalização da actividade privada de transporte de doentes, bem como a instrução dos procedimentos conducentes à eventual aplicação de sanções.\n\n31.1 - A fiscalização desta actividade poderá ser delegada nas ARS de forma a torná-la mais eficaz.\n\n32 - Constituem contra-ordenações, puníveis com coimas de (euro) 1000 a (euro) 3000, para pessoas singulares, e até ao limite de (euro) 25000, para pessoas colectivas:\n\na) O exercício sem alvará da actividade de transporte de doentes;\n\nb) A utilização para outros fins de veículos afectos ao transporte de doentes;\n\nc) A utilização, na actividade de transporte de doentes, de veículos não licenciados;\n\nd) O incumprimento do regime de inspecção periódica dos veículos;\n\ne) A violação dos condicionamentos previstos no capítulo II do presente Regulamento;\n\nf) O não cumprimento do disposto na secção I do capítulo III do presente Regulamento.\n\n32.1 - A tentativa e a negligência são puníveis.\n\n32.2 - A aplicação das coimas resultantes do processo de contra-ordenação é da competência do conselho de direcção do INEM.\n\n33 - A afectação do produto das coimas faz-se da seguinte forma:\n\na) 60% para o Estado;\n\nb) 40% para a entidade competente para a aplicação da coima, constituindo receita própria.\n\n34 - O alvará será cassado:\n\na) Se o titular não iniciar a exploração no prazo de um ano a contar da data de emissão do alvará;\n\nb) Se deixarem de se verificar os requisitos previstos no n.º 2 do capítulo I do presente Regulamento;\n\nc) Se o titular deixar de possuir os recursos humanos e técnicos adequados.\n\n35 - Independentemente do processamento das contra-ordenações e da aplicação das coimas, o INEM pode notificar a entidade licenciada para suspender, no prazo fixado para o efeito, as actividades desenvolvidas em violação do disposto no presente Regulamento.\n\n35.1 - Caso o incumprimento persista, deve o INEM cancelar a licença e interditar o exercício da actividade por um período até dois anos.\n\nCAPÍTULO V\n\nNorma transitória\n\n36 - As normas relativas à instrução dos procedimentos de concessão de alvará previstas neste Regulamento não se aplicam aos procedimentos pendentes à entrada em vigor desta portaria, os quais continuam a reger-se pelas disposições do regulamento aprovado pela [Portaria n.º 439/93](https://diariodarepublica.pt/dr/detalhe/portaria/439-1993-665973), de 27 de Abril.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2, 4.º: nova redação dos quadros n.os 2, 6 e 10, que só vêm em imagem (tal como os do original), não aplicada. Alterador 3 (Portaria n.º 142-A/2012): o texto recebido acaba no preâmbulo, sem as instruções dispositivas, por isso nada se aplicou dele.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2.º (prazo de 36 meses); unidade 13 substituída.",
+    "Alterador 1, 2.º: nova redação dos n.os 1.2, 2.1 ([...] mantém o resto), 3.6, 3.7, 10, 10.2, 11.1 e 27.1; unidades 22, 25, 52, 53, 73 e 167 substituídas; 10 e 10.2 substituídos depois de novo pelo alterador 2.",
+    "Alterador 1, 3.º: aditados 1.4 (depois do 1.3), 3.2.1.1 e 3.2.1.2 (depois do 3.2.1), 3.2.4 (depois do 3.2.3), 3.7.1, 3.8, 3.8.1 e 3.8.2 (depois do 3.7) e capítulos IV e V com os n.os 31 a 36 (no fim do Regulamento).",
+    "Alterador 2, 1.º: nos n.os 1.4 e 3.6, «certificado de alvará» passa a «certificado de vistoria»; aplicado no 1.4 inserido e na alínea e) do 3.6.",
+    "Alterador 2, 2.º: nova redação dos n.os 10, 10.1, 10.2 (unidades 68 a 70), 25.1 (157) e 25.3 (159).",
+    "Alterador 2, 3.º: aditado o n.º 11.8 depois do 11.7.",
+    "Alterador 2, 4.º: quadros n.os 2, 6 e 10 em imagem; não aplicado.",
+    "Alterador 3: só preâmbulo no texto recebido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 52-52: parágrafo que não está no alterador nem no original: e) Emissão de segunda via de alvará e ou certificado de vistoria - (euro) 25;",
+    "inserção depois de 23: parágrafo que não está no alterador nem no original: 1.4 - A emissão dos alvarás e certificados de vistoria poderá ser delegada no co"
+  ]
+}

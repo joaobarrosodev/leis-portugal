@@ -1,0 +1,60 @@
+{
+  "id": "pt:dre:146923:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "2 - Determinar que o CEIE fica na dependência direta do Primeiro-Ministro e tem por missão a avaliação das políticas públicas e das iniciativas privadas, e respetiva articulação, em matéria de internacionalização da economia portuguesa, nomeadamente a promoção do comércio externo e do investimento português no estrangeiro e a captação de investimento direto estrangeiro, bem como de cooperação para o desenvolvimento.",
+      "alterador": 3
+    },
+    {
+      "de": 11,
+      "ate": 15,
+      "texto": "a) O Primeiro-Ministro, que o dirige, sendo substituído pelo Ministro dos Negócios Estrangeiros ou pelo Ministro da Economia nas suas ausências ou impedimentos;\n\nb) O Ministro dos Negócios Estrangeiros;\n\nc) O Ministro das Finanças;\n\nd) O Ministro do Trabalho, Solidariedade e Segurança Social;\n\ne) O Ministro do Planeamento e das Infraestruturas;\n\nf) O Ministro da Economia;\n\ng) O Ministro da Agricultura, Florestas e Desenvolvimento Rural;\n\nh) A Ministra do Mar;\n\ni) O Secretário de Estado da Internacionalização;\n\nj) O presidente do conselho de administração da Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.); e\n\nk) Até 10 representantes de organizações do sector empresarial privado, a convidar de entre as mais diretamente ligadas aos processos de internacionalização e desenvolvimento referidos no número anterior.",
+      "alterador": 3
+    },
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "4 - Estabelecer que, em função do tratamento específico de políticas, programas ou projetos, podem ainda ser convidadas outras entidades a participar em reuniões do CEIE, designadamente as organizações representativas dos trabalhadores.",
+      "alterador": 3
+    },
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "5 - Determinar que o secretariado executivo do CEIE é assegurado pela AICEP, E. P. E.",
+      "alterador": 3
+    },
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "6 - Determinar que o CEIE reúne em sessões plenárias, ordinariamente numa base trimestral, ou extraordinariamente por convocação do Primeiro-Ministro.",
+      "alterador": 3
+    },
+    {
+      "de": 19,
+      "ate": 19,
+      "texto": "7 - Determinar que a AICEP, E. P. E., pode ser adjuvada por representantes dos membros do CEIE na preparação das reuniões e no acompanhamento da execução das recomendações do CEIE.",
+      "alterador": 3
+    },
+    {
+      "de": 20,
+      "ate": 25,
+      "texto": "8 - (Revogado.)\n\n9 - (Revogado.)\n\n10 - (Revogado.)\n\n11 - (Revogado.)\n\n12 - (Revogado.)\n\n13 - (Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1: nova redacção do n.º 3 (alíneas e) e f)); depois substituída por inteiro pelo alterador 3, por isso não fica no texto final.",
+    "Alterador 2, 1: nova redacção das alíneas do n.º 3 (a) a h)); depois substituída por inteiro pelo alterador 3, por isso não fica no texto final.",
+    "Alterador 3, 1: nova redacção dos n.os 2 a 7; substituídas as unidades 9, 11-15 (alíneas a) a k); o corpo do n.º 3 fica com [...]), 16, 17, 18 e 19.",
+    "Alterador 3, 2: revogados os n.os 8 a 13; unidades 20-25 com (Revogado.).",
+    "Alterador 3, 3: republicação; usada só para confirmar o texto final.",
+    "Alterador 4: atribui competências ao Ministro do Planeamento; não altera o texto, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

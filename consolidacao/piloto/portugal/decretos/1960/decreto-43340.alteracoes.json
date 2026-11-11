@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 163-163",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 de condutor de automóveis de 1.ª classe.",
+    "depois": "3 de condutor de obras públicas de 1.ª classe.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514185:por",
+    "alterador": "pt:dre:559427:por"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "pt:dre:668278:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 22,
+      "texto": "4) Implementação de cinco regiões demarcadas para a produção de azeite, através de:\n\na) Elaboração de estudos técnicos;\n\nb) Tipificação e análise do azeite;\n\nc) Divulgação e promoção das respectivas zonas.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 30,
+      "texto": "f) A implementação das seguintes regiões demarcadas:\n\ni)Duas regiões demarcadas na área de intervenção da Direcção Regional de Agricultura do Alentejo;\n\nii) Uma região demarcada na área de intervenção da Direcção Regional de Agricultura do Ribatejo e Oeste;\n\niii) Uma região demarcada na área de intervenção da Direcção Regional de Agricultura da Beira Interior;\n\niv) Uma região demarcada na área de intervenção da Direcção Regional de Agricultura de Trás-os-Montes.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 118,
+      "texto": "#### SECÇÃO IV-A — Implementação de regiões demarcadas\n\n21.º-A\n\nBeneficiários\n\nPodem beneficiar de ajudas à acção prevista nesta secção as associações de produtores ligadas ao sector que assumam a responsabilidade pela coordenação e dinamização do processo de delimitação das zonas de produção de azeite.\n\n21.º-B\n\nDespesas elegíveis\n\nPara efeitos de atribuição de ajudas à acção referida no n.º 4 do n.º 3.º, são consideradas elegíveis as despesa com:\n\na) Remunerações de pessoal técnico e auxiliar contratado;\n\nb) Aquisição de serviços;\n\nc) Aquisição de equipamento laboratorial.\n\n21.º-C\n\nNíveis das ajudas\n\nO valor das ajudas a conceder no âmbito desta secção é de 90% das despesas elegíveis, até ao montante máximo de 75000 contos, sendo de 15000 contos por região demarcada.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 149,
+      "texto": "Carregal do Sal;\n\nNelas;\n\nMangualde;\n\nViseu;\n\nTondela.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 151,
+      "texto": "Sertã;\n\nMação;\n\nOleiros;\n\nMeda;\n\nSeia;\n\nVila de Rei;\n\nBelmonte;\n\nGouveia;\n\nAlmeida.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 3.º, só com [...] e ... no existente; aditada a acção 4) com alíneas a) a c), inserida depois da unidade 22.",
+    "Alterador 1, 1.º: nova redacção do n.º 4.º, só com [...] e ... no existente; aditada a alínea f) com subalíneas i) a iv), inserida depois da unidade 30.",
+    "Alterador 1, 2.º: aditada a secção IV-A (n.os 21.º-A a 21.º-C), inserida depois da unidade 118, antes da secção V.",
+    "Alterador 2: aditados ao anexo cinco concelhos da DRA da Beira Litoral; inseridos tal como vêm, depois da unidade 149.",
+    "Alterador 3: aditados ao anexo nove concelhos da DRA da Beira Interior; inseridos tal como vêm, depois da unidade 151."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

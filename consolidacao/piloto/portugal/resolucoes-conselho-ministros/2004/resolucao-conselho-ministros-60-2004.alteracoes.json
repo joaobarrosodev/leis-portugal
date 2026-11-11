@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 46-47",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "10.2 - O Programa pode, em regime de contratualização, atribuir um apoio técnico e financeiro aos projectos, em condições a determinar em regulamento a aprovar por despacho do Ministro da Presidência.\n\n11 - O Programa funciona na dependência do Ministro da Presidência.",
+    "depois": "10.2 - O Programa pode, em regime de contratualização, atribuir um apoio técnico e financeiro aos projectos, em condições a determinar em regulamento a aprovar por despacho do Ministro Adjunto do Primeiro-Ministro.\n\n11 - O Programa funciona na dependência do Ministro Adjunto do Primeiro-Ministro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:302289:por",
+    "alterador": "pt:dre:624785:por"
+  }
+]

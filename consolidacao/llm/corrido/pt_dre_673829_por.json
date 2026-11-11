@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:673829:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (mapa IV), alterador 2 (mapas I e II): os mapas novos só vêm em imagem e no original os mapas também são só imagem (unidade 6); alterador 3 (criação de categoria e de lugar), alterador 4 (nova letra, número de lugares, extinção de categorias) e alterador 5 (extinção de lugares): alterações ao quadro de pessoal que não são textuais e não têm alvo no texto do original.",
+  "instrucoes": [
+    "Alterador 1: altera o mapa IV (imagem) - não aplicado, só imagem.",
+    "Alterador 2, n.º 1: altera os mapas I e II (imagem) - não aplicado, só imagem.",
+    "Alterador 3: cria a categoria de professor de Trabalhos Manuais e mais um lugar de professor de Educação Física no quadro - não textual, não aplicado.",
+    "Alterador 4, arts. 2.º e 3.º: letra N e 110 lugares para preceptor; extingue vigilante e sub-regente - alterações ao quadro (mapas em imagem), não aplicadas.",
+    "Alterador 5, art. 1.º: extingue três lugares de chefe no quadro - alteração ao quadro (mapas em imagem), não aplicada; art. 2.º é dirigido à Portaria n.º 282/73 e art. 3.º ao Decreto n.º 39787 - ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

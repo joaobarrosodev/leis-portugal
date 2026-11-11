@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:460833:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações (Portarias 1116/81, 1310/82, 197/83, 807-U3/83, 413/91 e a substituição integral do quadro pela Portaria 1304/93) incidem sobre o quadro de pessoal anexo, que só existe em imagem; a Portaria 113/90 distribui lugares de parteira sem alterar o texto. Nada aplicável com segurança ao texto.",
+  "instrucoes": [
+    "Alt. 1-4 e 6: alterações ao quadro de pessoal em imagem; não aplicado",
+    "Alt. 5: distribuição de lugares de parteira, sem alteração textual; não aplicado",
+    "Alt. 7/8: 1.º substitui o quadro anexo por novo quadro em imagem; não aplicado; 2.º é norma própria da portaria nova"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:657621:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 214/2001), 2.º a): revoga a Portaria n.º 791/94 só na parte que se refere à Escola Superior de Tecnologia da Saúde de Coimbra e só findo o processo de transição; revogação parcial e condicional sem alvo textual.",
+  "instrucoes": [
+    "Alt. 1, 1.º: aprova planos de estudos da ESTS de Coimbra - não altera o original",
+    "Alt. 1, 2.º a): revogação parcial e condicional quanto à ESTS de Coimbra - não aplicada ao texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

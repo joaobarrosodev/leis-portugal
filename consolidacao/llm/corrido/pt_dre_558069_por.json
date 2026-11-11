@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:558069:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: os anexos I a VI passam a ter a redação dos anexos do alterador, mas os planos de estudos (quadros n.os 1 a 24) só vêm em imagem, tal como os do original; a substituição dos anexos não se pode aplicar com segurança ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: adita o ramo de Acompanhamento ao 2.º ciclo da variante de Instrumento do curso criado pela Portaria n.º 413-E/98 (outro diploma); não altera o texto do original.",
+    "Alterador 1, 2.º: nova redação dos anexos I a VI; quadros só em imagem, não aplicado.",
+    "Alterador 1, 3.º e 4.º: transição e produção de efeitos; sem alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

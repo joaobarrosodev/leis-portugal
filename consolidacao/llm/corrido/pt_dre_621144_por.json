@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:621144:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 266/2004 adita sete lugares ao quadro através de mapa anexo que só vem em imagem; não é alteração textual das unidades do original. A Portaria n.º 104/2004 não contém instruções dirigidas ao texto do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 104/2004): atualiza remunerações dos trabalhadores do mapa II; não altera o texto do original; nada aplicado.",
+    "Alterador 2 (Portaria 266/2004), 1.º: adita sete lugares ao quadro, constantes de mapa anexo em imagem; não aplicado (nao_aplicavel).",
+    "Alterador 2, 2.º: extinção dos lugares quando vagarem, disposição própria; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

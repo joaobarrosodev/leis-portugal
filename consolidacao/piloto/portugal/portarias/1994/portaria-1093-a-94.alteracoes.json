@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 19-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º Os funcionários e agentes com remuneração base correspondente ao índice 100 da escala salarial de regime geral são remunerados, no ano de 1995, pelo índice 105.",
+    "depois": "5.º Os funcionários e agentes com remuneração base correspondente ao índice 100 da escala salarial do regime geral são remunerados, no ano de 1995, pelo índice 106.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:667495:por",
+    "alterador": "pt:dre:141776:por"
+  }
+]

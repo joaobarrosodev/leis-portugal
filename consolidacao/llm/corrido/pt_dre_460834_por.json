@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:460834:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (1 a 9) alteram, reajustam, distribuem lugares ou substituem o quadro de pessoal, que só existe em imagem (ver documento original). Nada aplicado.",
+  "instrucoes": [
+    "Alteradores 1 a 4 (Portarias 1319/82, 193/83, 533/83, 35/87): alteram ou reajustam o quadro (imagem): não aplicado.",
+    "Alterador 5 (Portaria 461/88): reajusta o quadro (imagem) e departamentaliza os serviços administrativos (norma autónoma): não aplicado.",
+    "Alterador 6 (Portaria 113/90): distribui um lugar de parteira; não textual: não aplicado.",
+    "Alterador 7 (DL 169/91): altera o quadro (imagem) e regula a transição de pessoal (norma autónoma): não aplicado.",
+    "Alterador 8 (Portaria 413/91): altera o quadro de pessoal médico (imagem): não aplicado.",
+    "Alterador 9 (Portaria 803/92): substitui o quadro pelo do seu anexo (imagem): não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

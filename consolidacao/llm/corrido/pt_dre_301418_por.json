@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:301418:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2: o novo plano de estudos (anexo) só vem em imagem. Alterador 3: muda a denominação do curso na Universidade Moderna do Porto e aprova novo plano em imagem; a denominação «Estudos Europeus» no original (unidades 6 e 13) é comum a Lisboa e Porto, pelo que a troca não se pode aplicar com segurança ao texto, e as demais disposições (duração, número de alunos, etc.) são regras próprias da portaria nova.",
+  "instrucoes": [
+    "Alterador 1, 1.º: plano de estudos do curso no Porto passa a ser o do anexo (imagem) - não aplicado.",
+    "Alterador 2, 1.º: plano de estudos do curso em Lisboa passa a ser o do anexo (imagem) - não aplicado.",
+    "Alterador 3, 1.º: o curso no Porto passa a denominar-se «Estudos Europeus e Relações Internacionais» - não aplicado (o original abrange Lisboa e Porto); 4.º: novo plano em imagem - não aplicado; restantes números são regras próprias - não aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

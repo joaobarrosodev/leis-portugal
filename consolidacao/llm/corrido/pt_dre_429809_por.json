@@ -1,0 +1,63 @@
+{
+  "id": "pt:dre:429809:por",
+  "substituicoes": [
+    {
+      "de": 38,
+      "ate": 38,
+      "texto": "24 - (Revogado.)",
+      "alterador": 7
+    },
+    {
+      "de": 46,
+      "ate": 48,
+      "texto": "27 - (Revogado.)\n\n28 - (Revogado.)\n\n29 - (Revogado.)",
+      "alterador": 4
+    },
+    {
+      "de": 51,
+      "ate": 51,
+      "texto": "30 - (Revogado.)",
+      "alterador": 3
+    },
+    {
+      "de": 115,
+      "ate": 117,
+      "texto": "78 - (Revogado.)\n\n79 - (Revogado.)\n\n80 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 119,
+      "ate": 122,
+      "texto": "82 - (Revogado.)\n\n83 - (Revogado.)\n\n84 - (Revogado.)\n\n85 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 125,
+      "ate": 125,
+      "texto": "86 - (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 148,
+      "ate": 148,
+      "texto": "98 - (Revogado.)",
+      "alterador": 5
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (Portaria 352/77): derroga a expropriação de 7 prédios (Surdos e Ferrão, Meia Légua e Calejão, Calejão 340-M, Meia Légua 345-M, Vale de Arveiras, Vale de Amoreiras, Cabeça Aguda): n.os 78, 79, 80, 82, 83, 84 e 85 dados como revogados; o n.º 81 (Meia Légua 343-M) não consta e fica.",
+    "Alt. 2 (Portaria 383/77): nova redação do n.º 24 (S. Bento, 20,2795 ha); superada pela derrogação total do mesmo prédio pelo alt. 7, pelo que o n.º 24 fica revogado.",
+    "Alt. 3 (Portaria 741/77): derroga a expropriação dos prédios da Fundação da Casa de Bragança: n.º 30 (Monte Branco) revogado.",
+    "Alt. 4 (Portaria 624/78): derroga quanto a Fuscas, Chainça e Guedelha (parte) de Francisco Paula Cardoso Pais, que correspondem aos n.os 27 (Frescaz), 28 (Chaiança) e 29 (Gadelha (parte)): revogados.",
+    "Alt. 5 (Portaria 710/80): derroga quanto à Herdade da Contenda: n.º 98 revogado.",
+    "Alt. 6 (Portaria 959/80): derroga quanto a Vale de Estacas: n.º 86 revogado.",
+    "Alt. 7 (Portaria 1071/80): derroga quanto a S. Bento (28-J): n.º 24 revogado.",
+    "Alt. 8 (Portaria 281/81): derroga quanto à Coutada (n.º 90), mas o alt. 9 (Portaria 423/81) revoga a Portaria 281/81: o n.º 90 fica como está.",
+    "Cabeçalhos dos proprietários e notas entre parênteses mantidos."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

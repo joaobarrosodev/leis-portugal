@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:476091:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "a) Faculdade de Medicina da Universidade de Coimbra e Hospitais da Universidade de Coimbra, o Centro Hospitalar de Coimbra - Hospital Pediátrico e o Instituto Português de Oncologia;",
+      "alterador": 3
+    },
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "b) Faculdade de Medicina da Universidade de Lisboa, Hospital de Santa Maria, Hospital de Garcia de Orta e Hospital de Amadora-Sintra.",
+      "alterador": 2
+    },
+    {
+      "de": 9,
+      "ate": 11,
+      "texto": "e) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Instituto de Higiene e Medicina Tropical;\n\nf) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Hospital de Pulido Valente;\n\ng) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Hospital de São Francisco Xavier;\n\nh) Faculdades de Medicina das Universidades de Lisboa, Coimbra e Porto, Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Instituto de Ciências Biomédicas de Abel Salazar com os centros de saúde dependentes das Administrações Regionais de Saúde de Lisboa, Coimbra e Porto.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 11,
+      "texto": "i) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Maternidade do Dr. Alfredo da Costa.",
+      "alterador": 4
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 972/93): nova redação das alíneas (a) a d) mantidas com '...'); nova alínea e) (Instituto de Higiene e Medicina Tropical) e antigas e), f), g) passam a f), g), h); substituídas as unidades 9 a 11 por e) a h).",
+    "Alterador 2 (Portaria n.º 342/98): nova redação da alínea b); substituída a unidade 6.",
+    "Alterador 3 (Portaria n.º 976/98): nova redação da alínea a); substituída a unidade 5.",
+    "Alterador 4 (Portaria n.º 312/2004): aditada a alínea i), inserida a seguir à alínea h) (depois da unidade 11, já substituída)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

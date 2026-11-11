@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:619309:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 substitui o anexo I (plano de estudos de Administração Escolar), que não consta do texto atual e cuja nova redacção só vem em imagem no documento original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do anexo I; anexo ausente do texto e novo conteúdo só em imagem, não aplicado.",
+    "Alterador 1, 2.º: entrada em funcionamento e regime de transição da própria portaria; não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

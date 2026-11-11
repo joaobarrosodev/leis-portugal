@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:178851:por",
+  "substituicoes": [
+    {
+      "de": 202,
+      "ate": 202,
+      "texto": "a) Prontos para todo o serviço;",
+      "alterador": 1
+    },
+    {
+      "de": 204,
+      "ate": 204,
+      "texto": "c) Incapazes do serviço activo;\n\nd) Incapazes de todo o serviço.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 284/78): nova redacção do art. 52.º - alínea a) muda ('Prontos para todo o serviço'), c) passa a 'Incapazes do serviço activo' e acrescenta-se d) 'Incapazes de todo o serviço'; unidades 202 e 204"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

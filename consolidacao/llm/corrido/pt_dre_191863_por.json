@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:191863:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, artigo 16.º: a Tabela III do RNID passa a ter a redação do anexo do Decreto-Lei n.º 83/2018, mas o conteúdo da tabela só vem em imagem (título e epígrafe iguais aos atuais).",
+  "instrucoes": [
+    "Alterador 1, art. 16.º: nova redação da Tabela III do RNID — só em imagem, não aplicado.",
+    "Alterador 1, art. 15.º: altera o artigo 2.º da Lei n.º 36/2011 — outro diploma, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

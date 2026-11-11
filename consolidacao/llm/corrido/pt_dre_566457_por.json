@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:566457:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 9 (Portarias n.os 211/2003, 212/2003, 213/2003, 216/2003, 235/2003, 430/2003, 1050/2005, 1049/2005 e 1043/2005) só substituem planos de estudos do anexo, cujos quadros vêm apenas em imagem (ver documento original); a 430/2003 altera o anexo da Portaria n.º 235/2003, não o original. Nada textual a aplicar.",
+  "instrucoes": [
+    "Alteradores 1-5, 7-9: novo plano de estudos de cada variante (anexo em imagem) - não aplicado",
+    "Alterador 6: altera quadro n.º 2 do anexo da Portaria n.º 235/2003 (outro diploma, em imagem) - ignorado",
+    "Normas de transição e aplicação dos alteradores são autónomas, não alteram o texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:470207:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "c) Um acréscimo máximo de 46% sobre o quantitativo que resultar do produto da área bruta do fogo pelo respectivo custo de construção, determinado em conformidade com as alíneas anteriores.\n\nEsse acréscimo corresponde à soma de 3 parcelas, sendo uma equivalente ao valor do terreno urbanizado, que não poderá exceder 15%, outra aos encargos de financiamento, que não poderão exceder 20%, e outra aos encargos de comercialização, custo de projecto e outros custos indirectos, que não poderão exceder 11%.",
+      "alterador": 7
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A substituição do gráfico e do quadro da alínea b) (alteradores 1, 3, 4, 5, 6 e 7) só vem em imagem; o n.º 1.º do alterador 2 (taxa de juro de 16,5% considerada na parcela de 23%) e o seu n.º 2.º não dão nova redação ao texto do original.",
+  "instrucoes": [
+    "Alteradores 1, 4 e 5: substituem o gráfico e o quadro da alínea b) (só em imagem) - não aplicado.",
+    "Alterador 2: regra sobre a taxa de juro da parcela de 23% e valores de custo por contrato, sem nova redação - não aplicado.",
+    "Alterador 3, n.º 1.º: nova redação da alínea c) (46%, parcelas de 15% e 31%) - absorvida pelas redações posteriores da mesma unidade 9.",
+    "Alterador 6, n.º 1.º: nova redação da alínea c) (3 parcelas: 15%, 20%, 11%) - absorvida pela redação do alterador 7.",
+    "Alterador 7, n.º 1.º: nova redação da alínea c) - substituída a unidade 9 (redação final).",
+    "Alteradores 3, 6 e 7, n.º 2.º: substituem o gráfico e o quadro (só em imagem) - não aplicado; as revogações de portarias alteradoras não são do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

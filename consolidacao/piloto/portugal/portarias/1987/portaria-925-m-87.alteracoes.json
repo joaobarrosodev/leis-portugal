@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º O despacho previsto na alínea b) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 415-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-a-1986-352316) fixará, além da percentagem de aumento médio dos preços, que poderá ser diferenciado por categorias de títulos ou tipos de transporte, o preço dos seguintes títulos mensais de transporte:\n\nNa rede geral (rodovia):\n\nO passe de número ilimitado de viagens num percurso de 8 km;\n\nO passe de número limitado de 44 viagens num percurso de 8 km.\n\nNa região de Lisboa:\n\nOs passes intermodais L, L1, L2 e L3;\n\nOs passes combinados L/CP (Lisboa-Cascais), L/CP (Lisboa-Vila Franca de Xira) e L/RN e operadores privados para um percurso de 8 km;\n\nO passe Transtejo da zona estreita do Tejo.\n\nNa região do Porto:\n\nDos STCP, os passes cidade (A), periferia norte (B), Vila Nova de Gaia (C) e rede geral (ABC);\n\nPasse combinado STCP/operadores privados para 44 viagens num percurso de 8 km.\n\nNa CP - Companhia de Caminhos de Ferro Portugueses, E. P.:\n\nAssinatura normal para o percurso de uma zona de comboios de tranvia;\n\nAssinatura normal de base quilométrica para um percurso de 8 km.",
+    "depois": "2.º - 1 - O despacho previsto na alínea b) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 415-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-a-1986-352316), de 17 de Dezembro, fixará a percentagem máxima de aumento médio dos preços de transporte rodoviário interurbano, a qual poderá ser diferenciada por categorias de títulos de transporte.\n\n2 - Através do despacho citado no n.º 1, fixará ainda o Governo as percentagens máximas de aumento médio relativas aos preços dos transportes fluviais, ferroviários e urbanos em Lisboa e no Porto.\n\n3 - Os operadores de transportes urbanos rodoviários de Lisboa e do Porto, sempre que as respectivas carreiras ultrapassem os limites daquelas cidades, poderão actualizar os preços dos correspondentes títulos de transporte, desde que não excedam os valores decorrentes da aplicação do n.º 1.\n\n4 - O disposto no número anterior é igualmente aplicável aos passes de rede, combinados e multimodais, considerando-se, neste caso, os valores médios decorrentes da aplicação da percentagem prevista no n.º 1 para as mesmas distâncias nos transportes rodoviários interurbanos.\n\n5 - Exceptuam-se do disposto nos n.os 1 e 2 os preços dos transportes rodoviários interurbanos e dos ferroviários em comboios directos e regionais, relativamente a percursos que excedam 100 km, cuja fixação compete aos respectivos operadores.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514040:por",
+    "alterador": "pt:dre:149827:por"
+  }
+]
