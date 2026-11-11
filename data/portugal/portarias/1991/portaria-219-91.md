@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-03-28'
+version_history:
+  file: portaria-219-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-03-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-03-28'
+    amending: pt:dre:645483:por
+    amending_title: Portaria n.º 972/93; Portaria n.º 342/98; Portaria n.º 976/98; Portaria n.º 312/2004
+    changes:
+    - Altera Artigo unidades 5-5
+    - Altera Artigo unidades 6-6
+    - Altera Artigo unidades 9-11
+    - Adita Artigo depois da unidade 11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/219/1991/03/16/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:43:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 972/93; Portaria n.º
+    342/98; Portaria n.º 976/98; Portaria n.º 312/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-219-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,19 +166,31 @@ Ao abrigo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 94/91](https://diariodar
 
 Manda o Governo, pelos Ministros da Educação e da Saúde, que passem a estar articulados institucionalmente, nos termos definidos no [Decreto-Lei n.º 94/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1991-484416), de 26 de Fevereiro, as Faculdades de Medicina e de Ciências Médicas e as instituições hospitalares ou os estabelecimentos de saúde abaixo indicados:
 
-a) Faculdade de Medicina da Universidade de Coimbra e Hospitais da Universidade de Coimbra;
+a) Faculdade de Medicina da Universidade de Coimbra e Hospitais da Universidade de Coimbra, o Centro Hospitalar de Coimbra - Hospital Pediátrico e o Instituto Português de Oncologia;
 
-b) Faculdade de Medicina da Universidade de Lisboa e Hospital de Santa Maria;
+> Alterado pelo/a [Portaria n.º 976/98](https://diariodarepublica.pt/dr/detalhe/portaria/976-1998-229877), publicado em 1998-11-16.
+
+b) Faculdade de Medicina da Universidade de Lisboa, Hospital de Santa Maria, Hospital de Garcia de Orta e Hospital de Amadora-Sintra.
+
+> Alterado pelo/a [Portaria n.º 342/98](https://diariodarepublica.pt/dr/detalhe/portaria/342-1998-456851), publicado em 1998-06-03.
 
 c) Faculdade de Medicina da Universidade do Porto e Hospital de São João;
 
 d) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Hospital de Egas Moniz;
 
-e) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Hospital de Pulido Valente;
+e) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Instituto de Higiene e Medicina Tropical;
 
-f) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Hospital de São Francisco Xavier;
+f) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Hospital de Pulido Valente;
 
-g) Faculdades de Medicina das Universidades de Lisboa, Coimbra e Porto, Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Instituto de Ciências Biomédicas de Abel Salazar com os centros de saúde dependentes das Administrações Regionais de Saúde de Lisboa, Coimbra e Porto.
+g) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Hospital de São Francisco Xavier;
+
+h) Faculdades de Medicina das Universidades de Lisboa, Coimbra e Porto, Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Instituto de Ciências Biomédicas de Abel Salazar com os centros de saúde dependentes das Administrações Regionais de Saúde de Lisboa, Coimbra e Porto.
+
+> Alterado pelo/a [Portaria n.º 972/93](https://diariodarepublica.pt/dr/detalhe/portaria/972-1993-645483), publicado em 1993-10-02.
+
+i) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Maternidade do Dr. Alfredo da Costa.
+
+> Aditado pelo/a [Portaria n.º 312/2004](https://diariodarepublica.pt/dr/detalhe/portaria/312-2004-209618), publicado em 2004-03-23.
 
 Ministérios da Educação e da Saúde.
 

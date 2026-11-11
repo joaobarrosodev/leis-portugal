@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-12-31'
+version_history:
+  file: portaria-358-a-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-12-31'
+    amending: pt:dre:226674:por
+    amending_title: Portaria n.º 1107/80
+    changes:
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 16-16
 identifiers:
   celex: null
   eli: null
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:18:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1107/80. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-358-a-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,19 +137,25 @@ a) LA - V. M. Carnaxide - 585$00.
 
 Válido na Carris, Metropolitano de Lisboa e Viação Mecânica de Carnaxide.
 
-Título mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e metropolitano e fora dela nos percursos do passe à linha da V. M. Carnaxide a que actualmente corresponde o preço de 340$00.
+Título mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e Metropolitano e, fora dela, nos percursos do passe de linha da V. M. Carnaxide que afluem a Lisboa a que actualmente corresponde o preço de 340$00.
+
+> Alterado pelo/a [Portaria n.º 1107/80](https://diariodarepublica.pt/dr/detalhe/portaria/1107-1980-226674), publicado em 1980-12-31.
 
 b) LC - V. M. Carnaxide - 730$00.
 
 Válido na Carris, Metropolitano de Lisboa e Viação Mecânica de Carnaxide.
 
-Título mensal para um número ilimitado de viagens, válido em todos os percursos referidos na alínea anterior e ainda nos percursos do passe à linha da V. M. Carnaxide a que actualmente corresponde o preço de 500$00.
+Título mensal para um número ilimitado de viagens, válido em todos os percursos referidos na alínea anterior e ainda nos percursos dos passes de linha da V. M. Carnaxide que afluem a Lisboa a que actualmente correspondem os preços de 500$00 e de 625$00.
+
+> Alterado pelo/a [Portaria n.º 1107/80](https://diariodarepublica.pt/dr/detalhe/portaria/1107-1980-226674), publicado em 1980-12-31.
 
 c) LD - V. M. Carnaxide - 850$00.
 
 Válido na Carris, Metropolitano de Lisboa e Viação Mecânica de Carnaxide.
 
-Título mensal para um número ilimitado de viagens, válido em todos os percursos referidos na alínea anterior, nos percursos do passe à linha da V. M. Carnaxide a que actualmente corresponde o preço de 625$00, bem como nos percursos da mesma empresa entre Oeiras, Linda-a-Velha e Lisboa.
+Título mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e Metropolitano e, fora dela, na rede geral da V. M. Carnaxide.
+
+> Alterado pelo/a [Portaria n.º 1107/80](https://diariodarepublica.pt/dr/detalhe/portaria/1107-1980-226674), publicado em 1980-12-31.
 
 d) LB - Barraqueiro - 650$00.
 

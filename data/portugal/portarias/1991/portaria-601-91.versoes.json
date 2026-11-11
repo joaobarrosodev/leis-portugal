@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:668278:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-07-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e03de0820db545b5",
+    "0e4ccf8adff3fb04",
+    "898f48591c982411",
+    "af9ba634f9f31742",
+    "8ee9be0b124e7cdc",
+    "6cc6e19c9244a923"
+   ]
+  },
+  {
+   "date": "1993-11-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:221158:por",
+     "title": "Portaria n.º 996/92",
+     "published": "1992-10-22",
+     "dre_path": "/dr/detalhe/portaria/996-1992-221158"
+    },
+    {
+     "id": "pt:dre:656416:por",
+     "title": "Portaria n.º 203/93",
+     "published": "1993-02-18",
+     "dre_path": "/dr/detalhe/portaria/203-1993-656416"
+    },
+    {
+     "id": "pt:dre:666566:por",
+     "title": "Portaria n.º 1108/93",
+     "published": "1993-11-02",
+     "dre_path": "/dr/detalhe/portaria/1108-1993-666566"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 22",
+    "Adita Artigo depois da unidade 30",
+    "Adita Artigo depois da unidade 118",
+    "Adita Artigo depois da unidade 149",
+    "Adita Artigo depois da unidade 151"
+   ],
+   "fragments": [
+    "e03de0820db545b5",
+    "726144b2828a806f",
+    "898f48591c982411",
+    "af9ba634f9f31742",
+    "8ee9be0b124e7cdc",
+    "ecf3d79f607e0a66",
+    "55d40dc25ff5ae87"
+   ]
+  }
+ ],
+ "fragments": {
+  "e03de0820db545b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Julho\n\nConsiderando que, nos termos do artigo 11.º do Regulamento (CEE) n.º [3828/85](http://data.europa.eu/eli/reg/1985/3828/oj?locale=pt), do Conselho, de 20 de Dezembro, foi aprovada pela Comissão das Comunidades Europeias a 2.ª fase do Programa Nacional de Olivicultura, cuja execução se encontra regulamentada pela Portaria n.º 259/87, de 2 de Abril, com as alterações introduzidas pela Portaria n.º 672/88, de 7 de Outubro;\n\nConsiderando o interesse em fomentar a mecanização das operações culturais respeitantes à colheita e limpeza da azeitona, através da introdução desta nova acção no Programa, e proceder a alguns ajustamentos considerados adequados à sua boa execução:\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo do artigo 9.º do Decreto-Lei n.º 96/87, de 4 de Março, o seguinte:"
+  },
+  "0e4ccf8adff3fb04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Natureza, objectivos e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Natureza, objectivos e âmbito\n\n1.º\n\nObjectivo do Programa\n\n1 - O Programa Nacional de Olivicultura, adiante designado por Programa, aprovado pela Comissão das Comunidades Europeias (CEE), tem como objectivo elevar os rendimentos dos agricultores, através do aumento da produtividade dos olivais e da melhoria da qualidade do azeite.\n\n2 - A produção global de azeite resultante da aplicação do Programa não deve exceder as quantidades de produção potencial das superfícies plantadas com oliveiras em produção efectiva à data de 1 de Janeiro de 1984.\n\n2.º\n\nDuração do Programa\n\nO Programa tem a duração de 10 anos e dispõe do orçamento aprovado para a sua 2.ª fase, que é de três anos contados a partir de 1 de Janeiro de 1991.\n\n3.º\n\nAcções do Programa\n\nAs acções a empreender no âmbito do Programa elegíveis para a concessão de ajudas são:\n\n1) Reestruturação do olival em regiões adequadas ao desenvolvimento da cultura da oliveira em explorações que tenham como área mínima de olival 1 ha, através de:\n\na) Plantação de novos olivais;\n\nb) Reconversão por enxertia de olivais existentes com uma densidade superior a 70 oliveiras por hectare;\n\nc) Adensamento de olivais, com excepção dos destinados à produção de azeite de mesa, cuja densidade seja inferior a 100 oliveiras por hectare;\n\n2) Arranque de olivais e sua substituição por outras culturas;\n\n3) Mecanização das operações culturais, especialmente as respeitantes à colheita e limpeza da azeitona.\n\n4.º\n\nÂmbito territorial\n\nO Programa é de âmbito nacional e realiza-se por subprogramas regionais, competindo às direcções regionais de agricultura (DRA) promover e assegurar:\n\na) A plantação de novos olivais nas áreas das DRA e dos concelhos que constam do anexo a esta portaria, da qual faz parte integrante;\n\nb) A reconversão por enxertia de olivais existentes nas áreas das DRA de Trás-os-Montes, Beira Interior e Alentejo;\n\nc) O adensamento de olivais na área da DRA do Alentejo;\n\nd) O arranque de olivais em todo o território nacional;\n\ne) A mecanização das operações culturais em todas as DRA, com excepção das áreas das DRA do Algarve e de Entre Douro e Minho."
+  },
+  "898f48591c982411": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Reestruturação do olival",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Reestruturação do olival\n\n5.º\n\nNíveis das ajudas\n\n1 - Os níveis de ajudas a atribuir à reestruturação do olival prevista na alínea a) do n.º 1) do n.º 3.º são:\n\n1.1 - Instalação de novos olivais e reconversão por enxertia de olivais existentes:\n\na) 65% do investimento dos projectos aprovados que sejam apresentados por agricultores com idades compreendidas entre os 18 e os 40 anos, por agrupamentos de produtores a que se refere o n.º 2 do artigo 34.º do Decreto-Lei n.º 81/91, de 19 de Fevereiro, ou por outras associações de agricultores constituídas e reconhecidas legalmente que tenham por objecto a comercialização ou a transformação de produtos do olival;\n\nb) 50% do investimento aprovado, no caso de os projectos serem apresentados por outros candidatos.\n\n1.2 - Adensamento de olivais existentes - 960$00 por árvore plantada.\n\n2 - No cálculo do montante das ajudas referidas no número anterior não poderão ser excedidos os seguintes custos máximos elegíveis:\n\na) Plantação de novos olivais - 300000$00 por hectare;\n\nb) Enxertia de olivais existentes - 67000$00 por hectare.\n\n6.º\n\nAjuda adicional\n\n1 - Os candidatos que apresentam projectos de plantação de novos olivais destinados à produção de azeitona de mesa poderão beneficiar ainda de uma ajuda adicional para instalação de sistemas de rega, desde que se verifiquem, cumulativamente, as seguintes condições:\n\na) Disponibilidade de água na exploração que permita a rega eficaz do olival;\n\nb) Capacidade da área a cultivar e a plantar para a produção de azeitona de aptidão mista.\n\n2 - A ajuda adicional é de 65% do investimento dos projectos aprovados, não devendo exceder o custo máximo elegível de 319000$00 por hectare.\n\n7.º\n\nPrioridade na concessão de ajudas\n\nOs projectos de investimento para reestruturação de olivais a executar em áreas abrangidas por acções integradas previstas no artigo 10.º do Decreto-Lei n.º 96/87, de 4 de Março, gozam de prioridade na concessão das ajudas.\n\n8.º\n\nLimite de subsídio por beneficiário\n\nO limite máximo de subsídio a conceder no âmbito da acção de reestruturação do olival prevista no n.º 1) do n.º 3.º é de 10500000$00 por beneficiário.\n\n9.º\n\nIndemnização por perda de rendimento\n\n1 - Os beneficiários de ajudas para a plantação de novos olivais e enxertia de existentes têm ainda direito ao pagamento de uma indemnização por perda de rendimento até ao limite máximo da área de 10 ha por beneficiário.\n\n2 - A indemnização é fixada nos seguintes quantitativos:\n\na) 150000$00 por hectare de novo olival instalado;\n\nb) 100000$00 por hectare de olival enxertado.\n\n3 - A indemnização devida será repartida por três prestações anuais e sucessivas no valor, respectivamente, de 50%, 33% e 17%, devendo a primeira ser paga no prazo de um ano contado da data do primeiro pagamento da ajuda à plantação de novos olivais ou à acção de enxertia de existentes.\n\n10.º\n\nInstrução do processo de candidatura\n\nA instrução do processo de candidatura às ajudas da acção de reestruturação do olival obedece às seguintes regras:\n\na) Os agricultores deverão apresentar uma ficha de inscrição, individualmente ou através das suas associações, nos serviços da DRA até 1 de Fevereiro do ano anterior à realização dos investimentos;\n\nb) Até 1 de Abril seguinte, a DRA procederá a uma primeira selecção das candidaturas apresentadas com base nos critérios e prioridades de acesso às ajudas estabelecidos e comunicará a decisão aos interessados;\n\nc) Até 15 de Maio, os candidatos seleccionados deverão entregar nos serviços das DRA os respectivos projectos de investimento, organizados de acordo com as normas contidas na ficha cultural a distribuir pelas DRA;\n\nd) A aprovação final dos projectos apresentados será efectuada até 15 de Junho e comunicada, de imediato, aos interessados.\n\n11.º\n\nPagamento das ajudas\n\nO pagamento das ajudas concedidas no âmbito da reestruturação do olival processa-se mediante a apresentação ao gestor regional do subprograma dos documentos comprovativos das despesas efectuadas e do seguinte modo:\n\na) Projectos de plantação de novos olivais - até um máximo de três prestações;\n\nb) Acções de enxertia e de adensamento de olivais existentes - uma só prestação, depois de realizado o investimento."
+  },
+  "af9ba634f9f31742": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Arranque de olivais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Arranque de olivais\n\n12.º\n\nÂmbito da acção\n\nO arranque de olivais previsto no n.º 2) do n.º 3.º para substituição por outras culturas aplica-se aos olivais com a densidade mínima de 40 árvores por hectare.\n\n13.º\n\nNível da ajuda\n\nA ajuda à acção de arranque concretiza-se através da concessão de um prémio por hectare de olival arrancado no valor de:\n\na) 62000$00, quando o arranque é efectuado nas condições estabelecidas no artigo 2.º do Decreto-Lei n.º 120/86, de 28 de Maio;\n\nb) 104000$00, no caso de olivais com a densidade mínima de 80 árvores por hectare ou com a produção potencial de 250 l de azeite também por hectare.\n\n14.º\n\nBeneficiários do prémio\n\nPara concessão do prémio referido no número anterior, os candidatos deverão vincular-se por compromisso escrito a não voltar a plantar oliveiras no terreno objecto da ajuda, por um período de 10 anos.\n\n15.º\n\nInstrução do processo de candidatura ao prémio\n\n1 - No acto de candidatura ao prémio por hectare do olival arrancado, os agricultores deverão apresentar uma ficha de inscrição, individualmente ou através das suas associações, nos serviços da DRA, acompanhada dos seguintes documentos:\n\na) Declaração em que assumem o compromisso a que se refere o número anterior;\n\nb) Documento comprovativo da autorização de arranque do olival, de acordo com o estabelecido no Decreto-Lei n.º 120/86, de 28 de Maio.\n\n2 - As candidaturas serão apreciadas e decididas no prazo de 30 dias após a sua recepção nos serviços competentes.\n\n16.º\n\nPagamento do prémio\n\nO prémio previsto no n.º 13.º será pago após a conclusão dos trabalhos de arranque das árvores."
+  },
+  "8ee9be0b124e7cdc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Mecanização das operações culturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Mecanização das operações culturais\n\n17.º\n\nPrioridade na concessão de ajudas\n\nAs ajudas à acção de mecanização das operações culturais prevista no n.º 3) do n.º 3.º são concedidas às seguintes entidades beneficiárias:\n\na) Lagares cooperativos;\n\nb) Cooperativas agrícolas de serviços;\n\nc) Associações de olivicultores;\n\nd) Sociedades de agricultura de grupo.\n\n18.º\n\nBens de equipamento elegíveis\n\nSão elegíveis, no âmbito da acção referida no número anterior, os custos de aquisição dos equipamentos seguintes:\n\na) Vibradores e outro equipamento para colheita de azeitona;\n\nb) Equipamento de limpeza da azeitona;\n\nc) Equipamento de poda, incluindo motosseras e destroçadores de rama;\n\nd) Pulverizadores ou atomizadores;\n\ne) Distribuidores de fertilizantes e rolos.\n\n19.º\n\nNível da ajuda\n\nO montante das ajudas a conceder à acção de mecanização referida é de 50% do investimento aprovado, que será pago em prestação única, depois de realizado o investimento.\n\n20.º\n\nApresentação de novos projectos\n\nOs beneficiários das ajudas previstas no número anterior só poderão apresentar novo projecto para o mesmo tipo de investimento no caso de este respeitar o aumento de área de olival a mecanizar.\n\n21.º\n\nOrganização do processo de candidatura\n\nSão aplicáveis à instrução do processo de candidatura às ajudas à mecanização das operações culturais as regras estabelecidas no n.º 10.º relativas ao processo de candidaturas às ajudas para a reestruturação do olival."
+  },
+  "6cc6e19c9244a923": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Disposições gerais finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Disposições gerais finais\n\n22.º\n\nCoordenação do Programa\n\nCompete à Direcção-Geral de Planeamento e Agricultura exercer a coordenação nacional do Programa e prestar o apoio técnico às DRA necessário à execução dos subprogramas regionais.\n\n23.º\n\nPlanos de actividade e orçamentos\n\n1 - Até 30 de Junho de cada ano, as DRA enviarão ao coordenador nacional o plano de actividades e orçamentos dos subprogramas regionais para o ano seguinte, elaborados dentro das orientações e limites orçamentais do Programa.\n\n2 - Até 15 de Julho, o coordenador nacional preparará o plano de actividades e o orçamento do Programa para o ano seguinte.\n\n24.º\n\nInformação de controlo da execução\n\nAs DRA enviarão mensalmente ao coordenador nacional os elementos relativos à execução dos referidos subprogramas regionais, para efeitos de informação actualizada sobre o estado de execução do Programa.\n\n25.º\n\nPublicitação dos objectivos do Programa\n\nAs DRA devem promover uma adequada divulgação da natureza e objectivos do Programa, facultando os impressos e esclarecimentos necessários à apresentação de candidaturas pelos agricultores e suas associações.\n\n26.º\n\nPreços de venda de árvores\n\nOs preços de venda de árvores provenientes de viveiros do MAPA são fixados anualmente, até 31 de Janeiro, por despacho do Ministro da Agricultura, Pescas e Alimentação, ouvidos a Associação Portuguesa dos Produtores de Plantas e o Conselho Consultivo para as Acções de Conversão Olivícola.\n\n27.º\n\nDisposição transitória\n\nNo corrente ano, o prazo de candidatura a que se refere a alínea a) do n.º 10.º decorrerá nos 60 dias seguintes à publicação do presente diploma e estabelece-se para cada uma das operações referidas respectivamente nas alíneas b), c) e d) o prazo de 30 dias.\n\n28.º\n\nRevogação\n\nSão revogadas as Portarias n.os 259/87, de 2 de Abril, e 672/88, de 7 de Outubro.\n\nMinistério da Agricultura, Pescas e Alimentação.\n\nAssinada em 22 de Maio de 1991.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\nAnexo a que se refere a alínea a) do n.º 4.º da Portaria n.º 601/91\n\nDirecção Regional de Agricultura de Trás-os-Montes\n\nConcelhos de Vila Nova de Foz Côa, Freixo de Espada à Cinta, Torre de Moncorvo, Mogadouro, Alfândega da Fé, Macedo de Cavaleiros, Mirandela, Vila Flor, São João da Pesqueira, Valpaços e Murça.\n\nDirecção Regional de Agricultura da Beira Litoral\n\nConcelhos de Coimbra, Condeixa-a-Nova, Penela, Pombal, Ansião, Alvaiázere, Soure, Miranda do Corvo e Lousã.\n\nDirecção Regional de Agricultura da Beira Interior\n\nConcelhos de Idanha-a-Nova, Castelo Branco, Vila Velha de Ródão, Penamacor, Fundão, Figueira de Castelo Rodrigo, Covilhã, Proença-a-Nova, Guarda, Pinhel, Celorico da Beira, Fornos de Algodres, Sabugal e Trancoso.\n\nDirecção Regional de Agricultura do Ribatejo e Oeste\n\nConcelhos de Santarém, Torres Novas, Abrantes, Alcanena, Vila Nova de Ourém, Tomar, Sardoal, Ferreira do Zêzere, Cartaxo, Constância e Rio Maior.\n\nDirecção Regional de Agricultura do Alentejo\n\nConcelhos de Moura, Serpa, Elvas, Avis, Campo Maior, Fronteira, Beja, Vidigueira, Cuba, Portel, Reguengos de Monsaraz, Mourão, Redondo, Alandroal, Borba, Vila Viçosa, Estremoz, Sousel, Alter do Chão, Monforte, Arronches, Ferreira do Alentejo, Alvito, Viana do Alentejo, Arraiolos, Alcácer do Sal (freguesia de Torrão), Aljustrel, Crato, Portalegre, Marvão, Castelo de Vide, Évora, Montemor-o-Novo e Barrancos."
+  },
+  "726144b2828a806f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Natureza, objectivos e âmbito",
+   "in_force_from": "1993-11-07",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 996/92](https://diariodarepublica.pt/dr/detalhe/portaria/996-1992-221158), publicado em 1992-10-22.",
+    "Aditado pelo/a [Portaria n.º 996/92](https://diariodarepublica.pt/dr/detalhe/portaria/996-1992-221158), publicado em 1992-10-22."
+   ],
+   "markdown": "#### SECÇÃO I — Natureza, objectivos e âmbito\n\n1.º\n\nObjectivo do Programa\n\n1 - O Programa Nacional de Olivicultura, adiante designado por Programa, aprovado pela Comissão das Comunidades Europeias (CEE), tem como objectivo elevar os rendimentos dos agricultores, através do aumento da produtividade dos olivais e da melhoria da qualidade do azeite.\n\n2 - A produção global de azeite resultante da aplicação do Programa não deve exceder as quantidades de produção potencial das superfícies plantadas com oliveiras em produção efectiva à data de 1 de Janeiro de 1984.\n\n2.º\n\nDuração do Programa\n\nO Programa tem a duração de 10 anos e dispõe do orçamento aprovado para a sua 2.ª fase, que é de três anos contados a partir de 1 de Janeiro de 1991.\n\n3.º\n\nAcções do Programa\n\nAs acções a empreender no âmbito do Programa elegíveis para a concessão de ajudas são:\n\n1) Reestruturação do olival em regiões adequadas ao desenvolvimento da cultura da oliveira em explorações que tenham como área mínima de olival 1 ha, através de:\n\na) Plantação de novos olivais;\n\nb) Reconversão por enxertia de olivais existentes com uma densidade superior a 70 oliveiras por hectare;\n\nc) Adensamento de olivais, com excepção dos destinados à produção de azeite de mesa, cuja densidade seja inferior a 100 oliveiras por hectare;\n\n2) Arranque de olivais e sua substituição por outras culturas;\n\n3) Mecanização das operações culturais, especialmente as respeitantes à colheita e limpeza da azeitona.\n\n4) Implementação de cinco regiões demarcadas para a produção de azeite, através de:\n\na) Elaboração de estudos técnicos;\n\nb) Tipificação e análise do azeite;\n\nc) Divulgação e promoção das respectivas zonas.\n\n> Aditado pelo/a [Portaria n.º 996/92](https://diariodarepublica.pt/dr/detalhe/portaria/996-1992-221158), publicado em 1992-10-22.\n\n4.º\n\nÂmbito territorial\n\nO Programa é de âmbito nacional e realiza-se por subprogramas regionais, competindo às direcções regionais de agricultura (DRA) promover e assegurar:\n\na) A plantação de novos olivais nas áreas das DRA e dos concelhos que constam do anexo a esta portaria, da qual faz parte integrante;\n\nb) A reconversão por enxertia de olivais existentes nas áreas das DRA de Trás-os-Montes, Beira Interior e Alentejo;\n\nc) O adensamento de olivais na área da DRA do Alentejo;\n\nd) O arranque de olivais em todo o território nacional;\n\ne) A mecanização das operações culturais em todas as DRA, com excepção das áreas das DRA do Algarve e de Entre Douro e Minho.\n\nf) A implementação das seguintes regiões demarcadas:\n\ni)Duas regiões demarcadas na área de intervenção da Direcção Regional de Agricultura do Alentejo;\n\nii) Uma região demarcada na área de intervenção da Direcção Regional de Agricultura do Ribatejo e Oeste;\n\niii) Uma região demarcada na área de intervenção da Direcção Regional de Agricultura da Beira Interior;\n\niv) Uma região demarcada na área de intervenção da Direcção Regional de Agricultura de Trás-os-Montes.\n\n> Aditado pelo/a [Portaria n.º 996/92](https://diariodarepublica.pt/dr/detalhe/portaria/996-1992-221158), publicado em 1992-10-22."
+  },
+  "ecf3d79f607e0a66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV-A — Implementação de regiões demarcadas",
+   "in_force_from": "1993-11-07",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 996/92](https://diariodarepublica.pt/dr/detalhe/portaria/996-1992-221158), publicado em 1992-10-22."
+   ],
+   "markdown": "#### SECÇÃO IV-A — Implementação de regiões demarcadas\n\n21.º-A\n\nBeneficiários\n\nPodem beneficiar de ajudas à acção prevista nesta secção as associações de produtores ligadas ao sector que assumam a responsabilidade pela coordenação e dinamização do processo de delimitação das zonas de produção de azeite.\n\n21.º-B\n\nDespesas elegíveis\n\nPara efeitos de atribuição de ajudas à acção referida no n.º 4 do n.º 3.º, são consideradas elegíveis as despesa com:\n\na) Remunerações de pessoal técnico e auxiliar contratado;\n\nb) Aquisição de serviços;\n\nc) Aquisição de equipamento laboratorial.\n\n21.º-C\n\nNíveis das ajudas\n\nO valor das ajudas a conceder no âmbito desta secção é de 90% das despesas elegíveis, até ao montante máximo de 75000 contos, sendo de 15000 contos por região demarcada.\n\n> Aditado pelo/a [Portaria n.º 996/92](https://diariodarepublica.pt/dr/detalhe/portaria/996-1992-221158), publicado em 1992-10-22."
+  },
+  "55d40dc25ff5ae87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Disposições gerais finais",
+   "in_force_from": "1993-11-07",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 203/93](https://diariodarepublica.pt/dr/detalhe/portaria/203-1993-656416), publicado em 1993-02-18.",
+    "Aditado pelo/a [Portaria n.º 1108/93](https://diariodarepublica.pt/dr/detalhe/portaria/1108-1993-666566), publicado em 1993-11-02."
+   ],
+   "markdown": "#### SECÇÃO V — Disposições gerais finais\n\n22.º\n\nCoordenação do Programa\n\nCompete à Direcção-Geral de Planeamento e Agricultura exercer a coordenação nacional do Programa e prestar o apoio técnico às DRA necessário à execução dos subprogramas regionais.\n\n23.º\n\nPlanos de actividade e orçamentos\n\n1 - Até 30 de Junho de cada ano, as DRA enviarão ao coordenador nacional o plano de actividades e orçamentos dos subprogramas regionais para o ano seguinte, elaborados dentro das orientações e limites orçamentais do Programa.\n\n2 - Até 15 de Julho, o coordenador nacional preparará o plano de actividades e o orçamento do Programa para o ano seguinte.\n\n24.º\n\nInformação de controlo da execução\n\nAs DRA enviarão mensalmente ao coordenador nacional os elementos relativos à execução dos referidos subprogramas regionais, para efeitos de informação actualizada sobre o estado de execução do Programa.\n\n25.º\n\nPublicitação dos objectivos do Programa\n\nAs DRA devem promover uma adequada divulgação da natureza e objectivos do Programa, facultando os impressos e esclarecimentos necessários à apresentação de candidaturas pelos agricultores e suas associações.\n\n26.º\n\nPreços de venda de árvores\n\nOs preços de venda de árvores provenientes de viveiros do MAPA são fixados anualmente, até 31 de Janeiro, por despacho do Ministro da Agricultura, Pescas e Alimentação, ouvidos a Associação Portuguesa dos Produtores de Plantas e o Conselho Consultivo para as Acções de Conversão Olivícola.\n\n27.º\n\nDisposição transitória\n\nNo corrente ano, o prazo de candidatura a que se refere a alínea a) do n.º 10.º decorrerá nos 60 dias seguintes à publicação do presente diploma e estabelece-se para cada uma das operações referidas respectivamente nas alíneas b), c) e d) o prazo de 30 dias.\n\n28.º\n\nRevogação\n\nSão revogadas as Portarias n.os 259/87, de 2 de Abril, e 672/88, de 7 de Outubro.\n\nMinistério da Agricultura, Pescas e Alimentação.\n\nAssinada em 22 de Maio de 1991.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\nAnexo a que se refere a alínea a) do n.º 4.º da Portaria n.º 601/91\n\nDirecção Regional de Agricultura de Trás-os-Montes\n\nConcelhos de Vila Nova de Foz Côa, Freixo de Espada à Cinta, Torre de Moncorvo, Mogadouro, Alfândega da Fé, Macedo de Cavaleiros, Mirandela, Vila Flor, São João da Pesqueira, Valpaços e Murça.\n\nDirecção Regional de Agricultura da Beira Litoral\n\nConcelhos de Coimbra, Condeixa-a-Nova, Penela, Pombal, Ansião, Alvaiázere, Soure, Miranda do Corvo e Lousã.\n\nCarregal do Sal;\n\nNelas;\n\nMangualde;\n\nViseu;\n\nTondela.\n\n> Aditado pelo/a [Portaria n.º 203/93](https://diariodarepublica.pt/dr/detalhe/portaria/203-1993-656416), publicado em 1993-02-18.\n\nDirecção Regional de Agricultura da Beira Interior\n\nConcelhos de Idanha-a-Nova, Castelo Branco, Vila Velha de Ródão, Penamacor, Fundão, Figueira de Castelo Rodrigo, Covilhã, Proença-a-Nova, Guarda, Pinhel, Celorico da Beira, Fornos de Algodres, Sabugal e Trancoso.\n\nSertã;\n\nMação;\n\nOleiros;\n\nMeda;\n\nSeia;\n\nVila de Rei;\n\nBelmonte;\n\nGouveia;\n\nAlmeida.\n\n> Aditado pelo/a [Portaria n.º 1108/93](https://diariodarepublica.pt/dr/detalhe/portaria/1108-1993-666566), publicado em 1993-11-02.\n\nDirecção Regional de Agricultura do Ribatejo e Oeste\n\nConcelhos de Santarém, Torres Novas, Abrantes, Alcanena, Vila Nova de Ourém, Tomar, Sardoal, Ferreira do Zêzere, Cartaxo, Constância e Rio Maior.\n\nDirecção Regional de Agricultura do Alentejo\n\nConcelhos de Moura, Serpa, Elvas, Avis, Campo Maior, Fronteira, Beja, Vidigueira, Cuba, Portel, Reguengos de Monsaraz, Mourão, Redondo, Alandroal, Borba, Vila Viçosa, Estremoz, Sousel, Alter do Chão, Monforte, Arronches, Ferreira do Alentejo, Alvito, Viana do Alentejo, Arraiolos, Alcácer do Sal (freguesia de Torrão), Aljustrel, Crato, Portalegre, Marvão, Castelo de Vide, Évora, Montemor-o-Novo e Barrancos."
+  }
+ }
+}

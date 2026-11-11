@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-11-11'
+version_history:
+  file: portaria-982-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-08-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-11-11'
+    amending: pt:dre:629447:por
+    amending_title: Portaria n.º 1434/2007
+    changes:
+    - Altera Artigo unidades 16-16
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/982/2004/08/04/p/dre/pt/html
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:02:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1434/2007. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-982-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,7 +179,9 @@ Manda o Governo, pela Ministra de Estado e das Finanças, ao abrigo do disposto 
 
 4.º São aprovados os coeficientes majorativos aplicáveis às moradias unifamiliares, para efeitos do disposto no n.º 1 do artigo 43.º do CIMI.
 
-5.º São aprovadas as directrizes relativas à apreciação da qualidade construtiva, da localização excepcional e do estado deficiente de conservação, para efeitos de aplicação da tabela I referida no n.º 1 do artigo 43.º do CIMI, e publicadas no anexo II à presente portaria.
+5.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 1434/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1434-2007-629447), publicado em 2007-11-06.
 
 6.º É fixado em (euro) 480 o custo médio de construção por metro quadrado, para efeitos do artigo 39.º do CIMI, a vigorar em 2003 e 2004.
 

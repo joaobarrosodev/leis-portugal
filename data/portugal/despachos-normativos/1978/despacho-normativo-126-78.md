@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-06-11'
+version_history:
+  file: despacho-normativo-126-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-06-11'
+    amending: pt:dre:367232:por
+    amending_title: Despacho Normativo n.º 347/79; Despacho Normativo n.º 91/82
+    changes:
+    - Altera Artigo unidades 106-106
+    - Altera Artigo unidades 114-114
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:41:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 347/79; Despacho
+    Normativo n.º 91/82. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1978/despacho-normativo-126-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -525,7 +541,9 @@ Aprovação dos projectos de instalações industriais, salvo se de outro modo v
 
 b) Da Inspecção-Geral dos Produtos Agrícolas e Industriais:
 
-i) As atribuições e actividades que, nos termos do [Decreto-Lei n.º 36935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36935-1948-387087), de 24 de Junho de 1948, do [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Junho de 1952 (Estatuto de Normalização Portuguesa, modificado pelo [Decreto-Lei n.º 48454](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48454-1968-272027), de 25 de Junho de 1968, e [Decreto-Lei n.º 117/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1975-160716), de 8 de Março), e do [Decreto-Lei n.º 105/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1970-228782), de 16 de Março, têm vindo a ser prosseguidas no âmbito da 2.ª Repartição;
+i) As atribuições e actividades que, nos termos do [Decreto-Lei n.º 36935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36935-1948-387087), de 24 de Junho de 1948, e do [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Junho de 1952 (Estatuto de Normalização Portuguesa, modificado pelo [Decreto-Lei n.º 48454](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48454-1968-272027), de 25 de Junho de 1968, e pelo [Decreto-Lei n.º 117/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1975-160716), de 8 de Março), têm vindo a ser prosseguidas no âmbito da 2.ª Repartição, bem como as atribuições e actividades da Comissão Electrotécnica Portuguesa, cuja competência está definida no [Decreto-Lei n.º 105/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1970-228782), de 16 de Março, devendo manter-se uma articulação adequada com a Direcção-Geral de Energia, por forma que os dois serviços se possam desempenhar eficazmente das suas atribuições.
+
+> Alterado pelo/a [Despacho Normativo n.º 91/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/91-1982-395749), publicado em 1982-06-11.
 
 ii) Inspecção e fiscalização de todos os produtos industriais e do comércio e trânsito dos mesmos produtos sujeitos a regime especial, que, nos termos dos artigos 9.º e 10.º do citado [Decreto-Lei n.º 36935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36935-1948-387087), têm sido prosseguidas no âmbito da 3.ª e 4.ª Repartições;
 
@@ -541,7 +559,9 @@ O director-geral da Qualidade exercerá ainda as atribuições cometidas ao insp
 
 7.1 - O Gabinete de Protecção e Segurança Nuclear integra da Junta de Energia Nuclear as atribuições e as actividades relacionadas com a segurança nuclear das centrais nucleares, bem como a intervenção no licenciamento de centrais nucleares, nos termos do Decreto-Lei n.º 487/72, de 5 de Dezembro.
 
-7.2 - O presidente da Comissão Instaladora do Laboratório Nacional de Engenharia e Tecnologia Industrial exercerá os poderes de direcção do Gabinete de Protecção e Segurança Nuclear até à nomeação do director ou subdirector deste Gabinete.
+7.2 - O presidente do Laboratório Nacional de Engenharia e Tecnologia Industrial exercerá os poderes de direcção do Gabinete de Protecção e Segurança Nuclear até à nomeação do director deste Gabinete.
+
+> Alterado pelo/a [Despacho Normativo n.º 347/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/347-1979-367232), publicado em 1979-12-03.
 
 8 - A integração, pelos novos serviços operativos, das atribuições que têm vindo a ser prosseguidas no âmbito da 4.ª Repartição da Inspecção-Geral dos Produtos Agrícolas e Industriais será feita progressivamente, nos termos em que vier a ser definida por despacho autónomo.
 

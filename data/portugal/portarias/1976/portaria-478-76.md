@@ -28,10 +28,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-12-16'
+version_history:
+  file: portaria-478-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-08-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-12-16'
+    amending: pt:dre:253412:por
+    amending_title: Portaria n.º 352/77; Portaria n.º 741/77; Portaria n.º 624/78; Portaria n.º 710/80; Portaria n.º 959/80;
+      Portaria n.º 1071/80
+    changes:
+    - Altera Artigo unidades 38-38
+    - Altera Artigo unidades 46-48
+    - Altera Artigo unidades 51-51
+    - Altera Artigo unidades 115-117
+    - Altera Artigo unidades 119-122
+    - Altera Artigo unidades 125-125
+    - Altera Artigo unidades 148-148
 identifiers:
   celex: null
   eli: null
@@ -57,7 +78,9 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:05:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 352/77; Portaria n.º
+    741/77; Portaria n.º 624/78; Portaria n.º 710/80; Portaria n.º 959/80; Portaria n.º 1071/80. Método e verificação: consolidacao/README.md
+    e consolidacao/piloto/portugal/portarias/1976/portaria-478-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -230,7 +253,9 @@ Cremilde Aurora Telo Gonçalves Nunes e Maria Violante Gonçalves Vasconcelos:
 
 (Estas proprietárias, a título de propriedade indivisa, possuem ainda o prédio rústico Vale Monteiro, situado na freguesia de Alegrete, concelho de Portalegre, matriz cadastral 1-J-J1, com a área de 819,0750 ha. A proprietária Maria Violante Gonçalves Vasconcelos já foi expropriada pela [Portaria n.º 139/76](https://diariodarepublica.pt/dr/detalhe/portaria/139-1976-501575).)
 
-24 - S. Bento. - Situado na freguesia de Mosteiros, concelho de Arronches, matriz cadastral 28-J, com a área de 20,3625 ha.
+24 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 1071/80](https://diariodarepublica.pt/dr/detalhe/portaria/1071-1980-459907), publicado em 1980-12-16.
 
 Cremilde Aurora Telo Gonçalves Abreu:
 
@@ -246,17 +271,21 @@ Francisco Franco Capitão:
 
 Francisco Paula Cardoso Pais:
 
-27 - Frescaz. - Situado na freguesia e concelho de Avis, matriz cadastral 54-K, com a área de 120,3500 ha (44261 pontos).
+27 - (Revogado.)
 
-28 - Chaiança. - Situado na freguesia de Ervedal, concelho de Avis, matriz cadastral 124-A, com a área de 20,8750 ha (2575 pontos).
+28 - (Revogado.)
 
-29 - Gadelha (parte). - Situado na freguesia de Ervedal, concelho de Avis, matriz cadastral 36-D, com a área de 18,8500 ha (4134 pontos).
+29 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 624/78](https://diariodarepublica.pt/dr/detalhe/portaria/624-1978-328023), publicado em 1978-10-19.
 
 Fundação da Casa de Bragança:
 
 (Esta Fundação já foi expropriada pela [Portaria n.º 139/76](https://diariodarepublica.pt/dr/detalhe/portaria/139-1976-501575).)
 
-30 - Monte Branco. - Situado na freguesia de Terrugem, concelho de Elvas, matriz cadastral 4-E, com a área de 58,7000 ha.
+30 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 741/77](https://diariodarepublica.pt/dr/detalhe/portaria/741-1977-279809), publicado em 1977-12-09.
 
 João Jordão (herdeiros):
 
@@ -384,27 +413,33 @@ Lourenço António da Rosa:
 
 Luís de Matos Telo da Gama, João de Matos Telo da Gama e António de Matos Telo da Gama:
 
-78 - Herdade dos Surdos e Ferrão. - Situado na freguesia de S. João Baptista, concelho de Campo Maior, matriz cadastral 24-O, com a área de 190,7640 ha (44906 pontos).
+78 - (Revogado.)
 
-79 - Meia Légua e Calejão. - Situado na freguesia de S. João Baptista, concelho de Campo Maior, matriz cadastral 348-M, com a área de 3,1750 ha (2000 pontos).
+79 - (Revogado.)
 
-80 - Calejão. - Situado na freguesia de S. João Baptista, concelho de Campo Maior, matriz cadastral 340-M, com a área de 0,5250 ha (330 pontos).
+80 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 352/77](https://diariodarepublica.pt/dr/detalhe/portaria/352-1977-253412), publicado em 1977-06-11.
 
 81 - Meia Légua. - Situado na freguesia de S. João Baptista, concelho de Campo Maior, matriz cadastral 343-M, com a área de 0,6500 ha (409 pontos).
 
-82 - Meia Légua. - Situado na freguesia de S. João Baptista, concelho de Campo Maior, matriz cadastral 345-M, com a área de 0,2000 ha (78 pontos).
+82 - (Revogado.)
 
-83 - Vale de Arveiras. - Situado na freguesia de Expectação, concelho de Campo Maior, matriz cadastral 187-J, com a área de 14,6750 ha (8944 pontos).
+83 - (Revogado.)
 
-84 - Vale de Amoreiras. - Situado na freguesia de Expectação, concelho de Campo Maior, matriz cadastral 189-J, com a área de 3,0500 ha (2303 pontos).
+84 - (Revogado.)
 
-85 - Cabeça Aguda. - Situado na freguesia de Expectação, concelho de Campo Maior, matriz cadastral 64-J, com a área de 1,2250 ha (1114 pontos).
+85 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 352/77](https://diariodarepublica.pt/dr/detalhe/portaria/352-1977-253412), publicado em 1977-06-11.
 
 Manuel Nunes Marques Adegas:
 
 (Deste proprietário foram expropriados vários prédios rústicos pelas Portarias n.os [680/75](https://diariodarepublica.pt/dr/detalhe/portaria/680-1975-310415) e [139/76](https://diariodarepublica.pt/dr/detalhe/portaria/139-1976-501575).)
 
-86 - Vale de Estacas. - Situado na freguesia e concelho de Ponte de Sor, matriz cadastral 1-V, com a área de 147,0250 ha.
+86 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 959/80](https://diariodarepublica.pt/dr/detalhe/portaria/959-1980-457422), publicado em 1980-11-10.
 
 Manuel Pires Romão Tavares:
 
@@ -450,7 +485,9 @@ Maria Vitória Lourenço de Almeida Castelo Branco Gomes Pereira, José Lourenç
 
 Paul Hamish Darke:
 
-98 - Contenda. - Situado na freguesia de Assunção, concelho de Arronches, matriz cadastral 6-KK, com a área de 280,8500 ha (58618 pontos).
+98 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 710/80](https://diariodarepublica.pt/dr/detalhe/portaria/710-1980-461865), publicado em 1980-09-23.
 
 Rosa Falcão Jordão de Azevedo:
 

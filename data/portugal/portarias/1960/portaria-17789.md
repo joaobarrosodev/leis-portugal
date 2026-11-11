@@ -29,10 +29,34 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-08-30'
+version_history:
+  file: portaria-17789.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-07-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-08-30'
+    amending: pt:dre:138806:por
+    amending_title: Portaria n.º 426-A/75; Portaria n.º 548-A/76
+    changes:
+    - Altera Artigo unidades 5-8
+    - Altera Artigo unidades 12-23
+    - Altera Artigo unidades 24-24
+    - Altera Artigo unidades 30-34
+    - Altera Artigo unidades 35-35
+    - Altera Artigo unidades 36-38
+    - Altera Artigo unidades 39-45
+    - Altera Artigo unidades 46-46
+    - Altera Artigo unidades 56-62
+    - Altera Artigo unidades 66-67
+    - Altera Artigo unidades 69-69
 identifiers:
   celex: null
   eli: null
@@ -58,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:45:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 426-A/75; Portaria n.º
+    548-A/76. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1960/portaria-17789.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,13 +164,17 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, 
 
 I. Em cada distrito escolar haverá um quadro de professores agregados e outro de regentes agregados para ocorrer às necessidades do ensino.
 
-II. De 1 a 25 de Agosto de cada ano podem requerer o ingresso nalgum dos quadros de professores agregados:
+II - De 15 de Julho a 10 de Agosto, podem requerer o ingresso num dos quadros de professores agregados:
 
-a) Os candidatos habilitados para o exercício do magistério primário oficial que não tenham sido demitidos de qualquer cargo público, exonerados por abandono de lugar, ou não sofram de outra incapacidade para o exercício de funções públicas;
+a) Os candidatos habilitados para o exercício do magistério primário oficial que não tenham sido demitidos de qualquer cargo público, exonerados por abandono do lugar, ou não sofram de outra incapacidade para o exercício de funções públicas;
 
-b) Os candidatos que pertenceram ao quadro geral ou de agregados exonerados, respectivamente a seu pedido ou por falta de posse, há mais de um ano;
+b) Os candidatos que pertenceram aos quadros gerais ou de agregados exonerados, por falta de posse, há mais de um ano;
 
-c) Os candidatos que pertenceram ao quadro de agregados exonerados, há mais de dois anos, por não terem entrado em exercício nos lugares em que foram colocados.
+c) Os candidatos que pertenceram ao quadro geral ou de agregados que foram exonerados a seu pedido;
+
+d) Os candidatos que pertenceram ao quadro de agregados exonerados, há mais de dois anos, por não terem entrado em exercício nos lugares em que foram colocados.
+
+> Alterado pelo/a [Portaria n.º 426-A/75](https://diariodarepublica.pt/dr/detalhe/portaria/426-a-1975-138806), publicado em 1975-07-11.
 
 III - 1. Podem requerer o ingresso nalgum dos quadros de regentes agregadas os candidatos habilitados para a regência de postos escolares, no prazo e condições do artigo anterior.
 
@@ -153,7 +182,7 @@ III - 1. Podem requerer o ingresso nalgum dos quadros de regentes agregadas os c
 
 IV. Em casos excepcionais, se o interesse do ensino o aconselhar, pode o Ministro da Educação Nacional autorizar, em qualquer altura do ano, o ingresso nos quadros de agregados de candidatos que se encontrem nas condições dos números anteriores.
 
-V - 1. Os requerentes devem apresentar na direcção do distrito escolar em cujo quadro pretendam ingressar os seguintes documentos:
+V - 1. Os requerentes devem apresentar na direcção do distrito escolar em cujo quadro pretendam ingressar, os seguintes documentos:
 
 a) Boletim de admissão, devidamente preenchido;
 
@@ -163,21 +192,27 @@ c) Certidão de habilitação legal;
 
 d) Certificado do registo criminal;
 
-e) Atestado de bom comportamento moral e civil;
+e) Documento comprovativo de haverem satisfeito a Lei do Recrutamento Militar;
 
-f) Documento comprovativo de haverem satisfeito às leis do recrutamento militar; g) Declaração a que se refere o [Decreto-Lei n.º 27003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27003-1936-363715), de 14 de Setembro de 1936;
+f) Declaração a que se refere a alínea a) ou b) do artigo único do Decreto-Lei n.º 26826, de 25 de Julho de 1936;
 
-h) Declaração a que se referem as alíneas a) ou b) do artigo único do Decreto-Lei n.º 26826, 25 de Julho de 1936;
+g) Atestado passado pelo delegado ou subdelegado de saúde do concelho da sua residência, de que têm a robustez necessária para o exercício do cargo, não sofrem de doença contagiosa e não têm defeito ou deformidade física incompatível com a disciplina escolar;
 
-i) Atestado, passado pelo delegado ou subdelegado de saúde do concelho da sua residência, de que têm a robustez necessária para o exercício do cargo, não sofrem de doença contagiosa e não têm defeito ou deformidade física incompatível com a disciplina escolar;
+h) Certificado de ausência de turbeculose evolutiva passado por um dispensário oficial antituberculoso;
 
-j) Certificado de ausência de tuberculose evolutiva passado por um dispensário oficial antituberculoso;
+i) Documento comprovativo de que foram vacinados ou revacinados contra a varíola e o tétano há menos de três anos;
 
-l) Atestado de que foram vacinados ou revacinados contra a varíola há menos de três anos.
+j) Certificado do serviço docente prestado em outros distritos ou nas antigas colónias, quando se encontrem na situação de exonerados.
 
-2. Será dispensada a apresentação dos documentos mencionados nas alíneas b), d), f), j) e l) quando o requerente seja funcionário público e junte certidão dos documentos existentes no processo da sua nomeação.
+2. Será dispensada a apresentação dos documentos mencionados nas alíneas b), d), e), g) e i) do número anterior quando o requerente seja funcionário público e junte certidão dos documentos existentes no processo da sua nomeação.
 
-VI. A direcção do distrito escolar, depois de conferir todos os documentos e de verificar que estão em ordem, remeterá, no prazo máximo de cinco dias, o processo completo à Direcção-Geral do Ensino Primário.
+3. O ingresso dos professores nos quadros de agregados e respectiva colocação serão feitos por conveniência urgente de serviço, com direito à remuneração legal desde o dia da entrada em exercício, aplicando-se-lhes o disposto nos §§ 1.º e 2.º do artigo 24.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933.
+
+> Alterado pelo/a [Portaria n.º 426-A/75](https://diariodarepublica.pt/dr/detalhe/portaria/426-a-1975-138806), publicado em 1975-07-11.
+
+VI - As direcções dos distritos escolares, depois de conferirem todos os documentos e verificarem que estão em ordem, remeterão, até ao dia 15 de Agosto, o processo completo à Direcção de Serviços de Pessoal da Direcção-Geral da Administração Escolar.
+
+> Alterado pelo/a [Portaria n.º 426-A/75](https://diariodarepublica.pt/dr/detalhe/portaria/426-a-1975-138806), publicado em 1975-07-11.
 
 VII - 1. Os candidatos nomeados para os quadros de agregados dos distritos do continente e das ilhas adjacentes devem tomar posse no prazo de 20 e 30 dias, respectivamente, a contar da publicação da portaria de nomeação no Diário do Governo.
 
@@ -189,39 +224,73 @@ IX. Por conveniência de serviço, o Ministro da Educação Nacional poderá tra
 
 X. Por assim o exigirem às conveniências do ensino, só em circunstâncias excepcionais, comprovadas caso a caso, poderá ser concedida a exoneração dos agentes dos quadros de agregados fora do prazo de 15 de Julho a 25 de Agosto.
 
-XI - 1. As direcções dos distritos escolares afixarão em lugar acessível ao público, numa das dependências dos seus serviços, pelas 9 horas e 30 minutos do dia 20 de Setembro de cada ano, as listas graduadas dos professores e dos regentes dos quadros de agregados, organizadas nos termos do artigo 9.º do [Decreto n.º 19531](https://diariodarepublica.pt/dr/detalhe/decreto/19531-1931-212411), de 30 de Março de 1931, tendo em conta, em igualdade de valorização, as seguintes preferências:
+XI - 1. As direcções dos distritos escolares afixarão em lugar acessível ao público, numa das dependências dos seus serviços, pelas 9 horas do dia 30 de Agosto, as listas graduadas provisórias dos professores e dos regentes, dos quadros de agregados, organizadas nos termos do artigo 9.º do [Decreto n.º 19531](https://diariodarepublica.pt/dr/detalhe/decreto/19531-1931-212411), de 30 de Março de 1931, excepto no referido no número seguinte.
 
-a) Terem família constituída;
+2. As listas graduadas respeitarão previamente os seguintes escalões:
 
-b) Terem mais tempo de serviço bem qualificado não contado para a valorização;
+1.º escalão - Professores agregados que já exerceram funções docentes no ensino primário oficial ou no ciclo preparatório TV oficial, qualquer que tenha sido o período desse exercício;
 
-c) Terem diploma mais antigo;
+2.º escalão - Professores agregados que nunca exerceram funções nem no ensino primário oficial nem no ciclo preparatório TV oficial.
 
-d) Serem mais idosos.
+3. Em caso de igualdade de valorização aplicam-se as seguintes preferências:
 
-2. Desta relação hão-de constar os professores e regentes empossados até às 17 horas do dia 18 de Setembro.
+No 1.º escalão:
 
-XII - 1. No dia, hora e local referidos no número anterior, as direcções dos distritos escolares afixarão a relação de todas as vagas em escolas e em postos escolares a preencher com agregados, com indicação do motivo que as determina.
+1.ª Em favor do concorrente que possuir mais tempo de serviço não contado para valorização;
 
-2. A fim de serem incluídas na relação atrás referida as vagas resultantes do movimento de professores e regentes ocorrido no mês de Setembro, a Direcção-Geral enviará, oportunamente, às direcções dos distritos as informações necessárias para esse efeito.
+2.ª Em favor do concorrente que possuir mais tempo de serviço docente prestado no ensino oficial;
 
-3. Os professores e os regentes agregados deverão requerer, até às 17 horas do dia 23 de Setembro, pelo menos vinte das vagas constantes das relações, indicando pela ordem de preferência as que mais lhes interessarem.
+3.ª Em favor do concorrente que prove ter maior número de filhos a seu cargo;
 
-XIII - 1. Nas escolas e postos escolares do sexo masculino serão colocados primeiramente os agentes de ensino do mesmo sexo.
+4.ª Em favor do concorrente com mais idade;
 
-2. As colocações nos lugares requeridos far-se-ão com base na ordenação constante das listas graduadas, depois de atendidas pela sua ordem as seguintes preferências:
+b) No 2.º escalão:
 
-1.ª Os cônjuges de professores do ensino primário e de regentes escolares que se encontrem nas condições do artigo 10.º do [Decreto-Lei n.º 27279](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27279-1936-322921), de 24 de Novembro de 1936;
+1.ª Em favor do concorrente que tiver mais tempo de serviço docente no ensino primário particular;
 
-2.ª Os cônjuges de agentes de ensino efectivos ou eventuais de outros graus de ensino dependentes do Ministério da Educação Nacional;
+2.ª Em favor do concorrente que possuir mais tempo de serviço docente em qualquer outro grau ou ramo de ensino;
 
-3.ª Os professores e regentes agregados com, pelo menos, nove meses de exercício e boa informação do serviço prestado no ano lectivo anterior na escola ou posto escolar que, no seu requerimento, indicarem em primeiro lugar.
+3.ª Em favor do concorrente que prove ter maior número de filhos a seu cargo;
 
-3. Os motivos de preferência devem ser declarados no requerimento e faculta-se aos candidatos a declaração, no mesmo requerimento, dos concelhos e circunstâncias que mais lhes interessem no caso de não serem colocados nos lugares que requereram.
+4.ª Em favor do concorrente com mais idade.
 
-4. Os agentes do quadro de agregados que não apresentarem o requerimento referido no n.º XII-3 só poderão vir a ser chamados depois da colocação de todos os concorrentes.
+> Alterado pelo/a [Portaria n.º 548-A/76](https://diariodarepublica.pt/dr/detalhe/portaria/548-a-1976-451627), publicado em 1976-08-30.
 
-XIV. Os professores agregados que não venham a ser colocados nos termos do artigo anterior sê-lo-ão compulsivamente nas vagas disponíveis, pela ordem de valorização, e os regentes agregados segundo o prudente critério do director escolar.
+3. Desta relação hão-de constar os agentes de ensino que já façam parte do quadro de agregados e aqueles que tenham requerido o seu ingresso dentro do prazo limite.
+
+4. As listas graduadas provisórias ficarão sujeitas, durante três dias, à verificação dos interessados. Findo este prazo, e consideradas todas as legítimas correcções, serão as listas tornadas definitivas.
+
+5. Os candidatos que não cumprirem o prazo referido em II ficarão abrangidos pelo n.º IV.
+
+6. Estes candidatos farão parte de uma lista B, onde serão graduados pela data de tomada de posse.
+
+7. No caso de se verificar no mesmo dia a posse de mais de um candidato, a graduação entre eles será feita nos termos do n.º XI, 1 e 2.
+
+8. Os professores agregados constantes da lista B só poderão ser colocados depois de esgotada a lista A.
+
+> Alterado pelo/a [Portaria n.º 426-A/75](https://diariodarepublica.pt/dr/detalhe/portaria/426-a-1975-138806), publicado em 1975-07-11.
+
+XII - 1. No dia 14 de Setembro, na hora e locais indicados no número anterior, as direcções dos distritos escolares afixarão a relação de todos os lugares vagos em escolas e postos escolares, com a indicação do motivo que as determina.
+
+2 - a) Serão incluídos na mesma relação os lugares criados nos termos do [Decreto-Lei n.º 486/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1975-307616), de 4 de Setembro, e as vagas resultantes de transferências e destacamentos, cujo conhecimento a Direcção-Geral de Pessoal e Administração possa dar às direcções escolares até àquela data;
+
+b) Da mesma lista não deverão constar os lugares para os quais os professores referidos na alínea anterior irão ser transferidos ou destacados.
+
+3. Os professores e regentes agregados têm de requerer, das 9 horas do dia 15 de Setembro até às 17 horas e 30 minutos do dia 18 do mesmo mês, pelo menos, vinte das vagas constantes das relações, indicando, por ordem de preferência, as que mais lhes interessarem, podendo acrescentar esta lista em folha de vinte e cinco linhas anexa.
+
+4. Após a indicação dos lugares referidos no número anterior, os concorrentes têm de indicar obrigatoriamente todos os concelhos do distrito, por ordem de preferência, para a hipótese de não obterem colocação em qualquer dos lugares a que se refere o número anterior.
+
+5. Os candidatos que não cumprirem o disposto nos n.os 3 e 4 só poderão vir a ser chamados depois da colocação de todos os concorrentes.
+
+> Alterado pelo/a [Portaria n.º 548-A/76](https://diariodarepublica.pt/dr/detalhe/portaria/548-a-1976-451627), publicado em 1976-08-30.
+
+XIII. As colocações nos lugares requeridos far-se-ão com base na ordenação constante das listas graduadas, a partir de 19 de Setembro, de modo que todos os concorrentes estejam nos seus lugares no dia 1 de Outubro.
+
+> Alterado pelo/a [Portaria n.º 548-A/76](https://diariodarepublica.pt/dr/detalhe/portaria/548-a-1976-451627), publicado em 1976-08-30.
+
+XIV - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 426-A/75](https://diariodarepublica.pt/dr/detalhe/portaria/426-a-1975-138806), publicado em 1975-07-11.
 
 XV. A colocação dos professores agregados nas escolas de aplicação anexas às do magistério primário é de livre escolha ministerial, de entre, os diplomados com, pelo menos, 15 valores.
 
@@ -241,19 +310,9 @@ XIX - 1. Chamados todos os professores constantes da respectiva lista graduada, 
 
 2. Do mesmo modo se procederá em relação às vagas em escolas verificadas depois de 20 de Setembro.
 
-XX - 1. Na colocação dos regentes do quadro de agregados nos postos escolares terão preferência:
+XX - (Revogado.)
 
-a) Os que estejam nas condições das preferências do n.º XIII;
-
-b) Os casados com residência fixa na localidade;
-
-c) Os que residam permanentemente na localidade;
-
-d) Os que residam permanentemente a menos de 5 km do posto escolar vago.
-
-2. Se houver mais do que um candidato em igualdade de preferências, deverá ser colocado em primeiro lugar o mais valorizado.
-
-3. A colocação de regentes dos quadros de agregados nos postos que funcionem em preventórios, sanatórios, patronatos, casas de beneficência e instituições religiosas é feita livremente pelo Ministro da Educação Nacional.
+> Alterado pelo/a [Portaria n.º 426-A/75](https://diariodarepublica.pt/dr/detalhe/portaria/426-a-1975-138806), publicado em 1975-07-11.
 
 XXI. A colocação dos agentes de ensino dos quadros de agregados carece de homologação superior. Para isso, o director do distrito escolar remeterá à Direcção-Geral a respectiva proposta, logo que haja conhecimento da entrada em exercício.
 
@@ -261,13 +320,23 @@ XXII - 1. O candidato que se julgar preterido na sua colocação pode reclamar p
 
 2. Se for dado provimento ao recurso, o funcionário que determinou a colocação poderá ser responsabilizado pelos prejuízos causados ao recorrente.
 
-XXIII - 1. Os agentes de ensino dos quadros de agregados, bem como os regentes de postos nomeados em comissão para escolas, apresentar-se-ão nos lugares indicados nos respectivos alvarás no dia 1 de Outubro ou no primeiro dia útil seguinte, ou no prazo de três dias, a contar da recepção do alvará, se a colocação for posterior ao início do ano escolar.
+XXIII - 1. Os agentes de ensino do quadro de agregados apresentar-se-ão nos lugares indicados nos respectivos alvarás até ao dia 1 de Outubro, ou no prazo de três dias a contar da recepção do alvará, se a colocação for posterior ao início do ano lectivo.
 
-2. Os mesmos agentes de ensino, no próprio dia da entrada em exercício, comunicá-la-ão por escrito ao director do distrito escolar e ao seu delegado no concelho ou ao secretário de zona.
+2. Os mesmos agentes de ensino, no próprio dia de entrada em exercício, comunicá-lo-ão, por escrito, ao director do distrito escolar e ao seu delegado no concelho ou secretário de zona.
+
+> Alterado pelo/a [Portaria n.º 548-A/76](https://diariodarepublica.pt/dr/detalhe/portaria/548-a-1976-451627), publicado em 1976-08-30.
 
 XXIV. Os professores e regentes que não entrarem em exercício no prazo ou dentro deste não comprovarem impossibilidade por doença, atestada pelo delegado ou subdelegado de saúde, serão exonerados mediante proposta do director do distrito escolar e não poderão reingressar nos quadros antes de decorridos dois anos.
 
-XXV. Quando um agente de ensino interromper o serviço por motivo de doença, legalmente comprovada e verificada pelo delegado ou subdelegado de saúde, e esta se preveja de duração superior a um mês, será substituído por outro agente de ensino, mas se a doença não for confirmada aplicar-se-lhe-á a parte final do número anterior.
+XXV - 1. Quando um professor agregado interromper o serviço por motivo de doença comprovada pela entidade sanitária, e esta se preveja de duração superior a oito dias, será substituído por outro agente de ensino. Se a doença não for comprovada pela entidade sanitária, aplicar-se-lhe-á a parte final do n.º XXIV.
+
+2. Se do atestado não constar a duração provável da doença, deverá ser a professora a indicá-la.
+
+3. Todos os professores agregados que se consideram aptos para o serviço, depois de um período de doença, voltarão ao lugar que lhes tinha sido atribuído.
+
+4. Aos professores agregados que não entrarem em exercício por motivo de doença devidamente comprovada pela entidade sanitária será aplicado o disposto no n.º 3.
+
+> Alterado pelo/a [Portaria n.º 426-A/75](https://diariodarepublica.pt/dr/detalhe/portaria/426-a-1975-138806), publicado em 1975-07-11.
 
 XXVI. Por motivo de doença ou por outro aceitável, poderá o Ministro da Educação Nacional, a requerimento do agente de ensino, dispensá-lo do serviço docente por um período não excedente a um ano lectivo.
 

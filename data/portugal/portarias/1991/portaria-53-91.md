@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-03-28'
+version_history:
+  file: portaria-53-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-01-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-03-28'
+    amending: pt:dre:283327:por
+    amending_title: Portaria n.º 165/94
+    changes:
+    - Altera Artigo unidades 22-31
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/53/1991/01/19/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:51:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 165/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-53-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -189,25 +204,11 @@ Outros - 5300$00.
 
 10.º No caso de deslocações em que um funcionário ou agente acompanhe outro que aufira ajuda de custo superior, aquele terá direito ao pagamento pelo escalão de ajuda de custo imediatamente superior.
 
-11.º Sem prejuízo das situações excepcionais devidamente documentadas, as ajudas de custo diárias a abonar ao pessoal em missão oficial ao estrangeiro e no estrangeiro têm os seguintes valores:
+11.º - (Revogado.)
 
-Membros do Governo - 22100$00;
+12.º - (Revogado.)
 
-Funcionários, agentes do Estado e entidades a eles equiparadas:
-
-Com vencimentos superiores aos valores da letra D ou do índice 405 - 19700$00;
-
-Com vencimentos que se situem entre os valores das letras D e H ou entre os índices 405 e 260 - 17400$00;
-
-Outros - 14800$00.
-
-12.º As ajudas de custo relativas a deslocações em missão oficial ao e no estrangeiro obedecem ainda às seguintes regras:
-
-a) O disposto no número anterior não se aplica a entidades abrangidas por instrumentos colectivos de trabalho em que se definam outras tabelas de ajudas de custo;
-
-b) Sempre que uma missão integre funcionários de diversas categorias, o valor das respectivas ajudas de custo será idêntico ao auferido pelo funcionário de mais elevada categoria;
-
-c) As condições especiais a que eventualmente deva ficar sujeito o pessoal em serviço nas missões diplomáticas no estrangeiro serão fixadas por despacho conjunto dos Ministros das Finanças e dos Negócios Estrangeiros.
+> Alterado pelo/a [Portaria n.º 165/94](https://diariodarepublica.pt/dr/detalhe/portaria/165-1994-283327), publicado em 1994-03-23.
 
 13.º Os quantitativos dos subsídios de viagem e de marcha fixados pela [Portaria n.º 904-B/89](https://diariodarepublica.pt/dr/detalhe/portaria/904-b-1989-291807), de 16 de Outubro, passam a ser os seguintes:
 

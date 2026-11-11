@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-08-08'
+version_history:
+  file: despacho-normativo-223-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-11-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-08-08'
+    amending: pt:dre:381538:por
+    amending_title: Despacho Normativo n.º 132/84
+    changes:
+    - Altera Artigo unidades 5-7
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:38:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 132/84. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1977/despacho-normativo-223-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,11 +135,13 @@ Na previsão de que outras caixas económicas do continente e das ilhas adjacent
 
 Nestes termos, determino o seguinte:
 
-1 - Poderão solicitar a sua participação no sistema de poupança-crédito as caixas económicas que satisfaçam simultaneamente as seguintes condições:
+1 - Poderão solicitar a sua participação no sistema de poupança-crédito as caixas económicas que satisfaçam, simultaneamente, as seguintes condições:
 
-a) Capital e reservas não inferiores a 5000 contos;
+a) Capital e reservas não inferiores a 10000 contos;
 
-b) Depósitos à ordem, com pré-aviso e a prazo: saldo global não inferior a 150000 contos.
+b) Depósitos à ordem, com pré-aviso e a prazo: saldo global não inferior a 300000 contos.
+
+> Alterado pelo/a [Despacho Normativo n.º 132/84](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/132-1984-381538), publicado em 1984-08-03.
 
 2 - Não estando as caixas económicas autorizadas a exercer o comércio de câmbios, os meios de pagamento sobre o exterior enviados pelos emigrantes para crédito das suas contas de depósito no quadro do sistema de poupança-crédito deverão ser convertidos em escudos, logo após a sua recepção, num banco comercial ou em qualquer outra instituição autorizada a exercer o comércio de câmbios, por forma a facilitar-se o acesso dos emigrantes ao circuito cambial oficial.
 

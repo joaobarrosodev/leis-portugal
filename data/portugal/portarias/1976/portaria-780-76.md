@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-04-22'
+version_history:
+  file: portaria-780-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-04-22'
+    amending: pt:dre:425550:por
+    amending_title: Portaria n.º 227/78
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:12:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 227/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1976/portaria-780-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,6 +158,12 @@ Manda o Governo da República Portuguesa, pelo Ministro dos Assuntos Sociais, o 
 3. As alterações ao quadro aprovado pela [Portaria n.º 690/74](https://diariodarepublica.pt/dr/detalhe/portaria/690-1974-472275), de 24 de Outubro, efectuadas em execução do [Decreto n.º 534/76](https://diariodarepublica.pt/dr/detalhe/decreto/534-1976-431440), de 8 de Julho, produzem efeitos desde 1 de Janeiro de 1976, nos termos do artigo 14.º do mesmo diploma.
 
 4. É acrescentada a seguinte observação às constantes da [Portaria n.º 690/74](https://diariodarepublica.pt/dr/detalhe/portaria/690-1974-472275):
+
+(p) O pessoal com seis anos de exercício profissional transita para a letra L, conforme dispõe o artigo 3.º do [Decreto n.º 534/76](https://diariodarepublica.pt/dr/detalhe/decreto/534-1976-431440), de 8 de Julho.
+
+Em consequência, no quadro 1.5 «De enfermagem» a observação (o) deve entender-se substituída por (p).
+
+> Alterado pelo/a [Portaria n.º 227/78](https://diariodarepublica.pt/dr/detalhe/portaria/227-1978-425550), publicado em 1978-04-22.
 
 5. Na colocação do pessoal nos lugares abrangidos pelo n.º 1 da presente portaria observar-se-á o preceituado nos n.os 1, 2 e 3 do artigo 65.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, por força do disposto no artigo 12.º do [Decreto-Lei n.º 692/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/692-1970-414417), de 31 de Dezembro.
 

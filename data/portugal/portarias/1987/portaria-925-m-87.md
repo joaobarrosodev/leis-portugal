@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-02-01'
+version_history:
+  file: portaria-925-m-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-12-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-02-01'
+    amending: pt:dre:149827:por
+    amending_title: Portaria n.º 69/92
+    changes:
+    - Altera Artigo unidades 8-21
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:20:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 69/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-925-m-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,33 +131,17 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças, das Obr
 
 1.º A revisão dos preços dos transportes constantes dos n.os 1 e 2 da lista anexa ao [Decreto-Lei n.º 415-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-a-1986-352316) reger-se-á pelo disposto nos números seguintes.
 
-2.º O despacho previsto na alínea b) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 415-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-a-1986-352316) fixará, além da percentagem de aumento médio dos preços, que poderá ser diferenciado por categorias de títulos ou tipos de transporte, o preço dos seguintes títulos mensais de transporte:
+2.º - 1 - O despacho previsto na alínea b) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 415-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-a-1986-352316), de 17 de Dezembro, fixará a percentagem máxima de aumento médio dos preços de transporte rodoviário interurbano, a qual poderá ser diferenciada por categorias de títulos de transporte.
 
-Na rede geral (rodovia):
+2 - Através do despacho citado no n.º 1, fixará ainda o Governo as percentagens máximas de aumento médio relativas aos preços dos transportes fluviais, ferroviários e urbanos em Lisboa e no Porto.
 
-O passe de número ilimitado de viagens num percurso de 8 km;
+3 - Os operadores de transportes urbanos rodoviários de Lisboa e do Porto, sempre que as respectivas carreiras ultrapassem os limites daquelas cidades, poderão actualizar os preços dos correspondentes títulos de transporte, desde que não excedam os valores decorrentes da aplicação do n.º 1.
 
-O passe de número limitado de 44 viagens num percurso de 8 km.
+4 - O disposto no número anterior é igualmente aplicável aos passes de rede, combinados e multimodais, considerando-se, neste caso, os valores médios decorrentes da aplicação da percentagem prevista no n.º 1 para as mesmas distâncias nos transportes rodoviários interurbanos.
 
-Na região de Lisboa:
+5 - Exceptuam-se do disposto nos n.os 1 e 2 os preços dos transportes rodoviários interurbanos e dos ferroviários em comboios directos e regionais, relativamente a percursos que excedam 100 km, cuja fixação compete aos respectivos operadores.
 
-Os passes intermodais L, L1, L2 e L3;
-
-Os passes combinados L/CP (Lisboa-Cascais), L/CP (Lisboa-Vila Franca de Xira) e L/RN e operadores privados para um percurso de 8 km;
-
-O passe Transtejo da zona estreita do Tejo.
-
-Na região do Porto:
-
-Dos STCP, os passes cidade (A), periferia norte (B), Vila Nova de Gaia (C) e rede geral (ABC);
-
-Passe combinado STCP/operadores privados para 44 viagens num percurso de 8 km.
-
-Na CP - Companhia de Caminhos de Ferro Portugueses, E. P.:
-
-Assinatura normal para o percurso de uma zona de comboios de tranvia;
-
-Assinatura normal de base quilométrica para um percurso de 8 km.
+> Alterado pelo/a [Portaria n.º 69/92](https://diariodarepublica.pt/dr/detalhe/portaria/69-1992-149827), publicado em 1992-02-01.
 
 3.º Por razões de operacionalidade de cobrança ou de harmonização tarifária, a Direcção-Geral de Transportes Terrestres poderá, a título excepcional:
 

@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-10-05'
+version_history:
+  file: portaria-765-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-09-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-10-05'
+    amending: pt:dre:495345:por
+    amending_title: Portaria n.º 815/87
+    changes:
+    - Altera Artigo unidades 26-33
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:16:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 815/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-765-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,18 +188,20 @@ Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário
 
 ## ANEXO — Prazos para a candidatura de 1987-1988 (n.º 2.º)
 
-1 - Afixação pública da grelha de apreciação dos curricula - até 14 de Agosto de 1987.
+1 - Afixação pública da grelha de apreciação dos curricula - até 7 de Outubro de 1987.
 
-2 - Candidatura à matrícula - até 31 de Agosto de 1987.
+2 - Candidatura à matrícula - até 13 de Outubro de 1987.
 
-3 - Afixação das listas ordenadas - até 22 de Setembro de 1987.
+3 - Afixação das listas ordenadas - até 15 de Outubro de 1987.
 
-4 - Reclamação sobre os resultados finais da candidatura - de 23 a 25 de Setembro de 1987.
+4 - Reclamação sobre os resultados finais da candidatura - até 19 de Outubro de 1987.
 
-5 - Decisão sobre as reclamações - de 28 a 30 de Setembro de 1987.
+5 - Decisão sobre as reclamações - até 21 de Outubro de 1987.
 
-6 - Matrículas e inscrições - de 1 a 9 de Outubro de 1987.
+6 - Matrículas e inscrições - de 22 de Outubro de 1987 a 26 de Outubro de 1987.
 
-7 - Início das aulas - 12 de Outubro de 1987.
+7 - Início das aulas - 27 de Outubro de 1987.
 
-8 - Comunicação dos resultados ao Gabinete Coordenador do Ingresso no Ensino Superior - até 29 de Outubro de 1987.
+8 - Comunicação dos resultados da candidatura ao Gabinete Coordenador do Ingresso no Ensino Superior - até 16 de Novembro de 1987.
+
+> Alterado pelo/a [Portaria n.º 815/87](https://diariodarepublica.pt/dr/detalhe/portaria/815-1987-495345), publicado em 1987-09-30.

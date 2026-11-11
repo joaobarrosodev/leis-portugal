@@ -38,10 +38,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2016-05-02'
+version_history:
+  file: resolucao-conselho-ministros-44-2011.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2011-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-05-02'
+    amending: pt:dre:74284596:por
+    amending_title: Resolução do Conselho de Ministros n.º 24/2016
+    changes:
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 11-15
+    - Altera Artigo unidades 16-16
+    - Altera Artigo unidades 17-17
+    - Altera Artigo unidades 18-18
+    - Altera Artigo unidades 19-19
+    - Altera Artigo unidades 20-25
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/44/2011/10/25/p/dre/pt/html
@@ -67,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-27T00:26:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 24/2016. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2011/resolucao-conselho-ministros-44-2011.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,39 +170,65 @@ Nos termos das alíneas d) e g) do artigo 199.º da Constituição, o Conselho d
 
 1 - Constituir, no âmbito da Presidência do Conselho de Ministros, o Conselho Estratégico de Internacionalização da Economia, adiante designado por CEIE.
 
-2 - Determinar que o CEIE fica na dependência directa do Primeiro-Ministro e tem por missão a avaliação das políticas públicas e das iniciativas privadas, e respectiva articulação, em matéria de internacionalização da economia portuguesa, da promoção e captação de investimento estrangeiro e de cooperação para o desenvolvimento.
+2 - Determinar que o CEIE fica na dependência direta do Primeiro-Ministro e tem por missão a avaliação das políticas públicas e das iniciativas privadas, e respetiva articulação, em matéria de internacionalização da economia portuguesa, nomeadamente a promoção do comércio externo e do investimento português no estrangeiro e a captação de investimento direto estrangeiro, bem como de cooperação para o desenvolvimento.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 24/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-2016-74284596), publicado em 2016-04-27.
 
 3 - Estabelecer que o CEIE tem a seguinte composição:
 
-a) O Primeiro-Ministro, que o dirige;
+a) O Primeiro-Ministro, que o dirige, sendo substituído pelo Ministro dos Negócios Estrangeiros ou pelo Ministro da Economia nas suas ausências ou impedimentos;
 
-b) O Ministro de Estado e das Finanças;
+b) O Ministro dos Negócios Estrangeiros;
 
-c) O Ministro de Estado e dos Negócios Estrangeiros;
+c) O Ministro das Finanças;
 
-d) O Ministro da Economia e do Emprego;
+d) O Ministro do Trabalho, Solidariedade e Segurança Social;
 
-e) Quatro representantes de organizações do sector empresarial privado, a convidar de entre as mais directamente ligadas aos processos de internacionalização e desenvolvimento.
+e) O Ministro do Planeamento e das Infraestruturas;
 
-4 - Estabelecer que, em função do tratamento específico de políticas, programas ou projectos, por indicação do Primeiro-Ministro podem ainda ser convidadas outras entidades a participar em reuniões do CEIE.
+f) O Ministro da Economia;
 
-5 - Determinar que o secretariado executivo do CEIE é assegurado pela Agência para o Investimento e o Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.), estando o presidente do conselho de administração presente nas reuniões.
+g) O Ministro da Agricultura, Florestas e Desenvolvimento Rural;
 
-6 - Determinar que o CEIE reúne ordinariamente numa base trimestral, ou extraordinariamente por convocação do Primeiro-Ministro.
+h) A Ministra do Mar;
 
-7 - Determinar que a preparação das reuniões e o acompanhamento da execução das deliberações ou recomendações do CEIE são assegurados por representantes pessoais dos seus membros.
+i) O Secretário de Estado da Internacionalização;
 
-8 - Estabelecer que será promovida a unificação das redes externas, mediante o total aproveitamento das missões diplomáticas, e a fixação de objectivos e metas concretas de política, com o reforço do papel dos respectivos chefes de missão e a congregação das representações diplomáticas, da AICEP, E. P. E., e do Turismo de Portugal, I. P.
+j) O presidente do conselho de administração da Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.); e
 
-9 - Determinar que, mediante despacho do Primeiro-Ministro, do Ministro de Estado e dos Negócios Estrangeiros e do Ministro da Economia e do Emprego, poderão ser nomeados altos representantes para áreas ou projectos específicos, bem como para regiões que se considere constituírem uma mais-valia na prossecução dos objectivos a atingir.
+k) Até 10 representantes de organizações do sector empresarial privado, a convidar de entre as mais diretamente ligadas aos processos de internacionalização e desenvolvimento referidos no número anterior.
 
-10 - Estabelecer que os altos representantes referidos no número anterior são escolhidos de entre personalidades de reconhecida competência em matéria internacional, diplomática ou económica, e que a sua actividade não pressupõe a existência de estruturas locais fixas.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 24/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-2016-74284596), publicado em 2016-04-27.
 
-11 - Estabelecer que o Instituto Português de Apoio ao Desenvolvimento, I. P., deve ver o seu estatuto reforçado ao nível da definição e execução das políticas de cooperação desenvolvidas sectorialmente.
+4 - Estabelecer que, em função do tratamento específico de políticas, programas ou projetos, podem ainda ser convidadas outras entidades a participar em reuniões do CEIE, designadamente as organizações representativas dos trabalhadores.
 
-12 - Estabelecer que nas principais entidades públicas envolvidas nos processos de internacionalização e desenvolvimento deve ser promovido o princípio de representação cruzada entre as respectivas administrações, de modo a potenciar sinergias de missões e de recursos.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 24/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-2016-74284596), publicado em 2016-04-27.
 
-13 - Determinar que, em sede de leis orgânicas dos departamentos, serviços e organismos a aprovar no âmbito do Programa de Redução e Melhoria da Administração Central, serão implementadas medidas e alterações de natureza orgânica adequadas à boa concretização da reforma e do disposto na presente resolução.
+5 - Determinar que o secretariado executivo do CEIE é assegurado pela AICEP, E. P. E.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 24/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-2016-74284596), publicado em 2016-04-27.
+
+6 - Determinar que o CEIE reúne em sessões plenárias, ordinariamente numa base trimestral, ou extraordinariamente por convocação do Primeiro-Ministro.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 24/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-2016-74284596), publicado em 2016-04-27.
+
+7 - Determinar que a AICEP, E. P. E., pode ser adjuvada por representantes dos membros do CEIE na preparação das reuniões e no acompanhamento da execução das recomendações do CEIE.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 24/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-2016-74284596), publicado em 2016-04-27.
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - (Revogado.)
+
+12 - (Revogado.)
+
+13 - (Revogado.)
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 24/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-2016-74284596), publicado em 2016-04-27.
 
 14 - Revogar os n.os 4 e 5 da [Resolução do Conselho de Ministros n.º 115/2009](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/115-2009-482083), de 15 de Dezembro, e a [Resolução do Conselho de Ministros n.º 3/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2010-616825), de 19 de Janeiro.
 

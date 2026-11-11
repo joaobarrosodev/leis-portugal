@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-12-29'
+version_history:
+  file: portaria-31-c-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-01-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-12-29'
+    amending: pt:dre:284896:por
+    amending_title: Portaria n.º 1110-O/89
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:23:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1110-O/89. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-31-c-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,7 +142,9 @@ Ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](htt
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, aprovar o seguinte:
 
-1.º Fica sujeito ao regime de preços máximos a que se refere a alínea a) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, o pão de trigo fabricado com farinha de trigo dos tipos 75, 95 e 115.
+1.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 1110-O/89](https://diariodarepublica.pt/dr/detalhe/portaria/1110-o-1989-284896), publicado em 1989-12-28.
 
 2.º Ficam sujeitos ao regime de preços vigiados a que se refere a [Portaria n.º 650/81](https://diariodarepublica.pt/dr/detalhe/portaria/650-1981-579351), de 29 de Julho, nos estádios de produção e comercialização, os tipos de pão incluídos no desdobramento da classificação das actividades económicas (CAE, revisão 1973) 3117.1.0 a seguir indicados:
 

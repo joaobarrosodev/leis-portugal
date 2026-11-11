@@ -38,10 +38,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-06-11'
+version_history:
+  file: portaria-752-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-09-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-06-11'
+    amending: pt:dre:411653:por
+    amending_title: Portaria n.º 344/96; Portaria n.º 344/96; Portaria n.º 566/2008
+    changes:
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 14-34
+    - Altera Artigo unidades 41-48
+    - Altera Artigo unidades 76-76
+    - Altera Artigo unidades 83-83
+    - Altera Artigo unidades 94-94
+    - Altera Artigo unidades 103-103
 identifiers:
   celex: null
   eli: null
@@ -67,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:15:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 344/96; Portaria n.º
+    344/96; Portaria n.º 566/2008. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-752-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,51 +163,57 @@ I - Competência e composição
 
 1 - A Comissão do Domínio Público Marítimo, abreviadamente designada por CDPM, destina-se a estudar e dar parecer sobre os assuntos relativos a utilização, manutenção e defesa do domínio público marítimo.
 
-2 - A CDPM funciona na dependência hierárquica directa do Chefe do Estado-Maior da Armada.
+2.º A CDPM funciona na directa dependência hierárquica do Chefe do Estado-Maior da Armada (CEMA), por inerência a Autoridade Marítima Nacional (AMN), constituindo-se como órgão de consulta da Autoridade Marítima Nacional (AMN).
 
-3 - A CDPM é apoiada administrativamente pela Direcção-Geral de Marinha (DGM).
+> Alterado pelo/a [Portaria n.º 566/2008](https://diariodarepublica.pt/dr/detalhe/portaria/566-2008-1183491), publicado em 2008-06-11.
 
-4 - A CDPM é constituída por:
+3.º A CDPM é apoiada, em termos administrativos e financeiros, pela Direcção-Geral da Autoridade Marítima (DGAM).
 
-a) Presidente - um oficial general da Armada, do activo ou da reserva;
+> Alterado pelo/a [Portaria n.º 566/2008](https://diariodarepublica.pt/dr/detalhe/portaria/566-2008-1183491), publicado em 2008-06-11.
 
-b) Seis individualidades de reconhecido mérito, sendo duas delas professores das faculdades de Direito;
+4.º A CDPM é constituída, por:
 
-c) O juiz auditor do Tribunal Militar da Marinha;
+a) Presidente, que é um oficial general da Marinha, do activo ou da reserva;
 
-d) Um representante do órgão central do sistema de autoridade marítima;
+b) Seis vogais, individualidades de reconhecido mérito, sendo duas delas doutores em Direito e outras duas oficiais da Marinha;
 
-e) Um representante do sector de cartografia militar;
+c) Um vogal representante da Direcção-Geral da Autoridade Marítima;
 
-f) Um representante do departamento de tutela do domínio público marítimo e dos portos;
+d) Um vogal representante do Instituto Geográfico, do Exército;
 
-g) Um representante do Instituto Hidrográfico;
+e) Um vogal representante do ministério responsável pela área dos portos;
 
-h) Um representante do departamento de tutela dos recursos hídricos;
+f) Um vogal representante do Instituto Hidrográfico;
 
-i) Um representante do departamento de tutela das pescas;
+g) Um vogal representante do ministério responsável pela área dos recursos hídricos;
 
-j) Um representante do departamento de tutela da qualidade de vida;
+h) Um vogal representante do ministério responsável pela área das pescas e da aquicultura;
 
-l) Um representante do departamento de tutela do turismo;
+i) Um vogal representante do Instituto da Conservação da Natureza e da Biodiversidade;
 
-m) Um representante das administrações portuárias autónomas;
+j) Um vogal representante do ministério responsável pela área do turismo;
 
-n) Um representante do departamento de tutela das florestas;
+k) Um vogal representante do ministério responsável pela área das administrações portuárias autónomas;
 
-o) Um representante do departamento de tutela da cultura;
+l) Um vogal representante do ministério responsável pela área das florestas;
 
-p) Um representante do sector do património do Estado;
+m) Um vogal representante do ministério responsável pela área da cultura;
 
-q) Um representante das alfândegas;
+n) Um vogal representante da Direcção-Geral do Património;
 
-r) Um representante do Governo Regional dos Açores;
+o) Um vogal representante da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo;
 
-s) Um representante do Governo Regional da Madeira;
+p) Um vogal representante da Região Autónoma dos Açores;
 
-t) Um representante do sector da administração regional e autárquica;
+q) Um vogal representante da Região Autónoma da Madeira;
 
-u) Um oficial da Armada, como secretário, sem direito a voto.
+r) Um vogal representante do ministério responsável pela área da administração local;
+
+s) Um vogal representante do ministério responsável pela área do ordenamento do território;
+
+t) Um oficial da Marinha licenciado em Direito, como secretário, sem direito a voto.
+
+> Alterado pelo/a [Portaria n.º 566/2008](https://diariodarepublica.pt/dr/detalhe/portaria/566-2008-1183491), publicado em 2008-06-11.
 
 II - Funcionamento
 
@@ -199,21 +227,21 @@ II - Funcionamento
 
 9 - Quando forem tratados assuntos respeitantes a uma região autónoma, o respectivo representante será especialmente convocado para o efeito.
 
-10 - Nas sessões ordinárias, depois de o presidente declarar aberta a sessão, a ordem dos trabalhos será normalmente a seguinte:
+10.º Nas sessões ordinárias, a ordem de trabalhos é estabelecida pelo presidente e inclui, em regra, os seguintes assuntos:
 
-a) A leitura da minuta da acta da última sessão para eventuais correcções e aprovação;
+a) Leitura da minuta da acta da última sessão a submeter a aprovação;
 
-b) A assinatura, pelos membros presentes, das actas de sessões a que tenham assistido;
+b) Conhecimento do expediente relevante e de assuntos de interesse para a CDPM;
 
-c) O conhecimento do expediente recebido e de quaisquer assuntos correntes de serviço para eventuais tomadas de posição;
+c) Designação dos vogais relatores para os processos recepcionados;
 
-d) A designação dos relatores para os processos entrados;
+d) Indicação dos projectos de parecer, apresentados pelos vogais relatores, disponíveis na secretaria para consulta;
 
-e) O tratamento de quaisquer assuntos que se relacionem com o funcionamento da CDPM, tendente a dar maior eficiência aos seus trabalhos;
+e) Apresentação e leitura, pelos vogais relatores, dos projectos agendados e subsequente debate e votação;
 
-f) A assinatura, pelos membros presentes, dos pareceres cujos projectos tenham sido anteriormente aprovados pela CDPM;
+f) Outros assuntos e informação de ordem geral que interesse ao conhecimento dos vogais.
 
-g) A apresentação pelos relatores, para apreciação e votação, dos projectos de pareceres sobre os processos que lhes foram distribuídos.
+> Alterado pelo/a [Portaria n.º 566/2008](https://diariodarepublica.pt/dr/detalhe/portaria/566-2008-1183491), publicado em 2008-06-11.
 
 11 - Nas sessões extraordinárias o procedimento será, nas suas linhas gerais, idêntico, sem prejuízo do cumprimento da agenda de trabalhos distribuídos.
 
@@ -269,7 +297,9 @@ i) Representar a CDPM;
 
 j) Exercer, quanto ao pessoal da Armada em serviço na CDPM, a competência disciplinar fixada no Regulamento de Disciplina Militar para os oficiais generais.
 
-22 - Na ausência do presidente ou no seu impedimento temporário, será este substituído nas suas funções pelo oficial da Armada mais antigo.
+22.º Nas suas ausências, faltas ou impedimentos, o presidente é substituído pelo vogal da CDPM, oficial da Marinha, de maior antiguidade.
+
+> Alterado pelo/a [Portaria n.º 566/2008](https://diariodarepublica.pt/dr/detalhe/portaria/566-2008-1183491), publicado em 2008-06-11.
 
 23 - Compete aos vogais:
 
@@ -283,7 +313,9 @@ d) Estudar os assuntos sobre os quais foram pedidas informações à Comissão;
 
 e) Acatar as resoluções da CDPM que lhes digam respeito;
 
-f) Assinar as actas e os pareceres.
+f) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 344/96](https://diariodarepublica.pt/dr/detalhe/portaria/344-1996-411653), publicado em 1996-08-08.
 
 24 - Sempre que um vogal falte, sem motivo justificado, a seis sessões consecutivas, o presidente comunicará superiormente esse fato para o efeito de aquele ser substituído.
 
@@ -305,7 +337,9 @@ g) Orientar os serviços do arquivo;
 
 h) Secretariar a comissão de redacção do boletim da CDPM, tomando as medidas necessárias para a sua publicação.
 
-26 - No impedimento temporário do secretário, será este substituído nas suas funções pelo vogal oficial da Armada mais moderno.
+26.º Nas suas ausências, faltas ou impedimentos, as funções do secretário, durante as sessões, são asseguradas, em acumulação, pelo vogal da CDPM, oficial da Marinha, de menor antiguidade.
+
+> Alterado pelo/a [Portaria n.º 566/2008](https://diariodarepublica.pt/dr/detalhe/portaria/566-2008-1183491), publicado em 2008-06-11.
 
 27 - Prestam serviço na Comissão um sargento e uma praça da Armada.
 
@@ -323,7 +357,9 @@ a) Coadjuvar o sargento nas suas atribuições;
 
 b) Desempenhar o serviço de ordenança.
 
-30 - As senhas de presença devidas aos membros da CDPM serão pagas pelo órgão administrativo competente da DGM.
+30.º As senhas de presença devidas aos membros da CDPM são pagas pelo órgão administrativo competente da DGAM.
+
+> Alterado pelo/a [Portaria n.º 566/2008](https://diariodarepublica.pt/dr/detalhe/portaria/566-2008-1183491), publicado em 2008-06-11.
 
 IV - Material
 

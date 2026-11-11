@@ -31,10 +31,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-01-30'
+version_history:
+  file: portaria-23266.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-01-30'
+    amending: pt:dre:225982:por
+    amending_title: Portaria n.º 218/70; Portaria n.º 154/81
+    changes:
+    - Altera Artigo unidades 36-39
+    - Altera Artigo unidades 40-40
+    - Altera Artigo unidades 41-41
+    - Altera Artigo unidades 42-45
 identifiers:
   celex: null
   eli: null
@@ -60,7 +77,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:43:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 218/70; Portaria n.º
+    154/81. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1968/portaria-23266.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -195,25 +213,27 @@ A instrução técnica elementar perdida nas mesmas circunstâncias poderá ser 
 
 16.º No curso de alistamento de enfermeiros deverá ser ministrado o ensino das matérias incluídas nos programas dos cursos professados nas escolas civis, além do que for especìficamente recomendado para a sua preparação no âmbito do serviço de saúde naval.
 
-17.º Os concursos para admissão às classes para cujo ingresso é exigido o curso de alistamento são organizados pelos respectivos estabelecimentos de ensino; os concursos para admissão às classes dos clarins, dos carpinteiros, da taifa dos condutores de automóveis e dos mergulhadores são organizados pela 2.ª Repartição da Direcção do Serviço do Pessoal e os concursos para admissão às restantes classes são organizados pela 7.ª Repartição da Direcção do Serviço do Pessoal.
+17.º Os concursos para admissão às diferentes classes de praças da Armada são organizados pela 2.ª Repartição da Direcção do Serviço do Pessoal. Os concursos serão devidamente anunciados no Diário da República, na Ordem da Direcção do Serviço do Pessoal, em editais a afixar nos locais mais convenientes, e terão a adequada divulgação através dos órgãos de comunicação social.
 
-Os concursos serão devidamente anunciados no Diário do Governo, em dois ou mais jornais de grande circulação, na Ordem da Direcção do Serviço do Pessoal e por meio de editais a fixar nos locais mais convenientes, conforme o que lhe for aplicável.
+O encerramento do concurso, em regra, é efectuado quando expirar o prazo de trinta dias, a contar do dia seguinte ao da publicação no Diário da República.
 
-A publicação no Diário do Governo é sempre exigida para os concursos referentes aos cursos de alistamento.
+> Alterado pelo/a [Portaria n.º 154/81](https://diariodarepublica.pt/dr/detalhe/portaria/154-1981-389674), publicado em 1981-01-30.
 
-O encerramento do concurso, em regra, é efectuado quando expirar o prazo de 30 dias, a contar do dia seguinte ao da publicação no Diário do Governo ou na Ordem da Direcção do Serviço do Pessoal.
+18.º A admissão ao concurso é feita a requerimento do candidato, dirigido ao chefe da 2.ª Repartição da Direcção do Serviço do Pessoal, devendo o requerimento ser instruído com os documentos exigidos para se verificar que satisfaz, nas que é possível por este meio, às condições gerais de admissão fixadas no ESPA e às condições especiais estabelecidas por despacho do Chefe do Estado-Maior da Armada, podendo, porém, o candidato juntar quaisquer outros documentos que possam interessar ao concurso.
 
-18.º A admissão ao concurso é feita a requerimento do candidato, dirigido ao comandante ou director do estabelecimento de ensino ou ao chefe da repartição onde é organizado o concurso, devendo o requerimento ser instruído com os documentos exigidos para se verificar que satisfaz, nas que é possível por este meio, às condições gerais de admissão fixadas no Estatuto dos Sargentos e Praças da Armada e às condições especiais estabelecidas por despacho do Ministro da Marinha, podendo, porém, o candidato juntar quaisquer outros documentos que possam interessar ao concurso.
+> Alterado pelo/a [Portaria n.º 154/81](https://diariodarepublica.pt/dr/detalhe/portaria/154-1981-389674), publicado em 1981-01-30.
 
-Para a verificação da condição geral indicada no n.º 3.º do artigo 28.º do Estatuto dos Sargentos e Praças da Armada, além dos certificados dos registos policial e criminal, é exigida a apresentação das declarações a que se referem a [Lei n.º 1901](https://diariodarepublica.pt/dr/detalhe/lei/1901-1935-577495), de 21 de Maio de 1935, e o [Decreto-Lei n.º 27003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27003-1936-363715), de 14 de Setembro de 1936. Além desta documentação, aos candidatos poderá ser exigido mais o que for necessário para garantia de cooperar na realização dos fins superiores do Estado e de defender os princípios fundamentais da ordem política e social estabelecida na Constituição.
+> Alterado pelo/a [Portaria n.º 218/70](https://diariodarepublica.pt/dr/detalhe/portaria/218-1970-225982), publicado em 1970-04-27.
 
-19.º As provas dos concursos para apreciação dos conhecimentos gerais exigidos para as diversas classes, subordinadas aos programas nas condições do artigo 31.º do Estatuto dos Sargentos e Praças da Armada, serão classificadas de O a 20 pelos júris nomeados para o efeito.
+19.º Nos concursos para admissão às classes de electrotécnicos, de maquinistas navais, de enfermeiros e de músicos há provas de apreciação dos conhecimentos gerais, subordinadas aos programas, nas condições do artigo 31.º do ESPA, que são classificadas de 0 a 20 valores pelos júris nomeados para o efeito, sendo excluídos os candidatos que obtenham classificação inferior a 10 valores em qualquer das provas.
 
-A classificação final de cada candidato é obtida pela média, aproximada a centésimas, das classificações de cada prova, sendo excluídos do concurso os que não obtiverem classificação igual ou superior a 10 valores em qualquer delas.
+A classificação de cada candidato no conjunto das provas atrás referidas é obtida pela média aritmética das classificações em cada prova, sendo o resultado aproximado às centésimas.
 
-O ordenamento dos candidatos aprovados é efectuado de acordo com as classificações finais obtidas e, em caso de igualdade de classificações, serão observadas as condições de preferência estabelecidas pelo artigo 32.º do Estatuto dos Sargentos e Praças da Armada.
+O ordenamento dos candidatos aprovados é efectuado de acordo com as classificações obtidas; em caso de igualdade serão observadas as condições de preferência estabelecidas no artigo 32.º do ESPA.
 
-O Ministro da Marinha, a quem as listas de ordenamento serão presentes, designará os candidatos a admitir aos cursos de alistamento. Para os restantes cursos e instruções de ingresso nas classes o Ministro da Marinha delega no superintendente dos Serviços da Armada essa prerrogativa.
+As listas de ordenamento dos candidatos a admitir nas diversas classes serão presentes ao Chefe do Estado-Maior da Armada, ao qual compete designar os candidatos a admitir, podendo delegar esta prerrogativa no superintendente dos Serviços do Pessoal da Armada.
+
+> Alterado pelo/a [Portaria n.º 154/81](https://diariodarepublica.pt/dr/detalhe/portaria/154-1981-389674), publicado em 1981-01-30.
 
 20.º Os cursos de alistamento para os alunos que não tenham sido praças da Armada compreendem uma instrução militar, de acordo com o respectivo plano de curso, em estabelecimento de ensino a designar pelo director do Serviço do Pessoal.
 

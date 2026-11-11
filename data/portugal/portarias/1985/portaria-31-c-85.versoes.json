@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:162778:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-01-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0511488e7fa92938"
+   ]
+  },
+  {
+   "date": "1989-12-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:284896:por",
+     "title": "Portaria n.º 1110-O/89",
+     "published": "1989-12-28",
+     "dre_path": "/dr/detalhe/portaria/1110-o-1989-284896"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-5"
+   ],
+   "fragments": [
+    "4cb3ee487ff654a8"
+   ]
+  }
+ ],
+ "fragments": {
+  "0511488e7fa92938": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Janeiro\n\nAo abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, e na [Portaria n.º 650/81](https://diariodarepublica.pt/dr/detalhe/portaria/650-1981-579351), de 29 de Julho:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, aprovar o seguinte:\n\n1.º Fica sujeito ao regime de preços máximos a que se refere a alínea a) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, o pão de trigo fabricado com farinha de trigo dos tipos 75, 95 e 115.\n\n2.º Ficam sujeitos ao regime de preços vigiados a que se refere a [Portaria n.º 650/81](https://diariodarepublica.pt/dr/detalhe/portaria/650-1981-579351), de 29 de Julho, nos estádios de produção e comercialização, os tipos de pão incluídos no desdobramento da classificação das actividades económicas (CAE, revisão 1973) 3117.1.0 a seguir indicados:\n\na) Pão integral de trigo;\n\nb) Pão de centeio;\n\nc) Pão integral de centeio;\n\nd) Pão de triticale;\n\ne) Pão de mistura;\n\nf) Pão de milho ou broa de milho;\n\ng) Pão especial.\n\n3.º Aos produtos a que se refere o presente diploma aplica-se o disposto no [Decreto-Lei n.º 289/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1984-380931), de 24 de Agosto.\n\n4.º O presente diploma aplica-se apenas ao território do continente.\n\n5.º Este diploma entra em vigor no dia imediato ao da sua publicação.\n\nSecretaria de Estado do Comércio Interno.\n\nAssinada em 10 de Janeiro de 1985.\n\nO Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade."
+  },
+  "4cb3ee487ff654a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1989-12-29",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1110-O/89](https://diariodarepublica.pt/dr/detalhe/portaria/1110-o-1989-284896), publicado em 1989-12-28."
+   ],
+   "markdown": "de 12 de Janeiro\n\nAo abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, e na [Portaria n.º 650/81](https://diariodarepublica.pt/dr/detalhe/portaria/650-1981-579351), de 29 de Julho:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, aprovar o seguinte:\n\n1.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 1110-O/89](https://diariodarepublica.pt/dr/detalhe/portaria/1110-o-1989-284896), publicado em 1989-12-28.\n\n2.º Ficam sujeitos ao regime de preços vigiados a que se refere a [Portaria n.º 650/81](https://diariodarepublica.pt/dr/detalhe/portaria/650-1981-579351), de 29 de Julho, nos estádios de produção e comercialização, os tipos de pão incluídos no desdobramento da classificação das actividades económicas (CAE, revisão 1973) 3117.1.0 a seguir indicados:\n\na) Pão integral de trigo;\n\nb) Pão de centeio;\n\nc) Pão integral de centeio;\n\nd) Pão de triticale;\n\ne) Pão de mistura;\n\nf) Pão de milho ou broa de milho;\n\ng) Pão especial.\n\n3.º Aos produtos a que se refere o presente diploma aplica-se o disposto no [Decreto-Lei n.º 289/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1984-380931), de 24 de Agosto.\n\n4.º O presente diploma aplica-se apenas ao território do continente.\n\n5.º Este diploma entra em vigor no dia imediato ao da sua publicação.\n\nSecretaria de Estado do Comércio Interno.\n\nAssinada em 10 de Janeiro de 1985.\n\nO Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade."
+  }
+ }
+}

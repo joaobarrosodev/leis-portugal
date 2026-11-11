@@ -29,10 +29,24 @@ notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-09-16'
+version_history:
+  file: portaria-979-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-11-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-09-16'
+    amending: pt:dre:1170050271:por
+    amending_title: Portaria n.º 395/2026/2
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:59:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 395/2026/2. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-979-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,7 +131,19 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior-General das Forças 
 
 3.º A composição desta Representação Militar Nacional é a seguinte:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/26600/30553056.pdf)
+| Cargo (a) | Contra-almirante/Major-General | Capitão-de-Mar-e-Guerra/Coronel | Capitão-de-Fragata/Tenente-Coronel | Sargentos | Praças |
+| --- | --- | --- | --- | --- | --- |
+| Chefe da Representação Militar: | 1 | - | - | - | - |
+| Subchefe da Representação Militar | - | 1 | - | - | - |
+| Adjunto do Representante | - | - | 2 | - | - |
+| Amanuense | - | - | - | 2 | - |
+| Auxiliares | - | - | - | - | 2 |
+| Totais | 1 | 1 | 2 | 2 | 2 |
+| Total |  | 8 |  |  |  |
+
+(a) As descrições dos cargos serão elaboradas de acordo com normas aprovadas no âmbito do EMGFA.
+
+> Alterado pelo/a [Portaria n.º 395/2026/2](https://diariodarepublica.pt/dr/detalhe/portaria/395-2026-1170050271), publicado em 2026-09-15.
 
 4.º Esta portaria produz efeitos a partir de 5 de Agosto de 1981.
 

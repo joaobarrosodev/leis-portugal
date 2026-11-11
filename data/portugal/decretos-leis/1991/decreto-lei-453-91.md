@@ -38,10 +38,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-12-20'
+version_history:
+  file: decreto-lei-453-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-12-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-12-20'
+    amending: pt:dre:200002:por
+    amending_title: Decreto-Lei n.º 58/92; Decreto-Lei n.º 273/93; Decreto-Lei n.º 142/94; Lei n.º 127-B/97
+    changes:
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 16-16
+    - Adita Artigo depois da unidade 16
+    - Adita Artigo depois da unidade 23
+    - Adita Artigo depois da unidade 24
+    - Altera Artigo unidades 37-37
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/453/1991/12/11/p/dre/pt/html
@@ -67,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:14:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 58/92; Decreto-Lei
+    n.º 273/93; Decreto-Lei n.º 142/94; Lei n.º 127-B/97. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-453-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,13 +186,23 @@ Artigo 1.º - 1 - É criada a sociedade de capitais exclusivamente públicos ANA
 
 2 - A ANAM, S. A., rege-se pela lei geral ou especial que lhe seja aplicável, pelo presente diploma e respectivos estatutos, que constituem o anexo ao presente diploma, do qual faz parte integrante.
 
-3 - É vedada à ANAM, S. A., a contracção de empréstimos.
+3 - A contracção de empréstimos pela ANAM, S. A., é precedida de autorização do Ministério das Finanças.
 
-Art. 2.º - 1 - O capital social da ANAM, S. A., e de 50000000$00 e encontra-se integralmente subscrito pelo Estado, em 80%, e pela Região Autónoma da Madeira (RAM), em 20%.
+> Alterado pelo/a [Decreto-Lei n.º 273/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1993-369428), publicado em 1993-08-04.
+
+Art. 2.º - 1 - O capital social da ANAM, S. A, é de 50000000$00 e encontra-se integralmente subscrito pelo Estado, em 60%, pela Região Autónoma da Madeira (RAM), em 20%, e pela ANA - Aeroportos e Navegação Aérea, E. P., em 20%.
+
+> Alterado pelo/a [Decreto-Lei n.º 58/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1992-200002), publicado em 1992-04-13.
 
 2 - As acções representativas do capital de que o Estado seja titular serão detidas pela Direcção-Geral do Tesouro e as da RAM pelo Governo Regional, através da Secretaria Regional das Finanças.
 
-3 - Os direitos do Estado, como accionista da sociedade, são exercidos por representante designado por despacho conjunto do Ministro das Finanças e do Ministro das Obras Públicas, Transportes e Comunicações de entre os membros do conselho de administração da ANA - Aeroportos e Navegação Aérea, E. P.
+3 - Os direitos do Estado, como accionista da sociedade, são exercidos por representante designado por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+
+> Alterado pelo/a [Decreto-Lei n.º 58/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1992-200002), publicado em 1992-04-13.
+
+4 - Em futuros aumentos de capital social, a participação do Estado poderá reduzir-se até atingir um mínimo de 10% enquanto a Região Autónoma da Madeira manterá uma participação fixa de 20%, sendo o restante subscrito e realizado pela ANA - Aeroportos e Navegação Aérea, E. P.
+
+> Aditado pelo/a [Decreto-Lei n.º 142/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1994-265553), publicado em 1994-05-23.
 
 Art. 3.º O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração.
 
@@ -187,7 +218,27 @@ Art. 6.º - 1 - É extinto o Gabinete dos Aeroportos da Região Autónoma da Mad
 
 2 - É transferida para a ANAM, S. A., a universalidade de direitos e obrigações de que o GARAM seja titular.
 
+Artigo 6.º-A
+
+1 - São concedidos à ANAM - Aeroportos e Navegação Aérea da Madeira os seguintes benefícios fiscais:
+
+a) Isenção de contribuição autárquica, desde que o interesse municipal seja reconhecido por deliberação da assembleia municipal da área de localização dos respectivos imóveis, o que vale como renúncia à correspondente receita;
+
+b) Isenção do imposto municipal de sisa e do imposto sobre sucessões e doações, desde que o interesse municipal seja reconhecido por deliberação da assembleia municipal da área de localização dos respectivos imóveis, o que vale como renúncia à correspondente receita;
+
+c) Isenção do imposto do selo previsto nos artigos 1, 50, 54, 92, 93, 94, 99, 100, 101, 102, 114, 120-A, 136, 149 e 167 da Tabela Geral do Imposto do Selo;
+
+d) Isenção de emolumentos notariais e de registo.
+
+2 - O regime de benefícios fiscais previsto no número anterior vigorará até ao termo do ano 2005.
+
+> Aditado pelo/a [Lei n.º 127-B/97](https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563), publicado em 1997-12-20.
+
 Art. 7.º O presente decreto-lei entra em vigor simultaneamente com o diploma que outorgar a concessão da exploração dos aeroportos da Região Autónoma da Madeira à ANAM, S. A.
+
+Art. 8.º As obras a realizar nos aeroportos da Região Autónoma da Madeira pela ANAM, S. A., estão sujeitas ao regime jurídico das empreitadas de obras públicas.
+
+> Aditado pelo/a [Decreto-Lei n.º 273/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1993-369428), publicado em 1993-08-04.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
@@ -213,7 +264,9 @@ Art. 3.º A duração da sociedade é por tempo indeterminado e a sua sede situa
 
 ### CAPÍTULO II — Capital social
 
-Art. 4.º O capital inicial é de 50000000$00, integralmente realizado em dinheiro pelo Estado, no montante de 40000000$00 e pela Região Autónoma da Madeira, no montante de 10000000$00, encontrando-se representado por acções nominativas com o valor nominal de 1000000$00 cada uma.
+Art. 4.º O capital social é de 50000000$00, integralmente realizado em dinheiro pelo Estado, no montante de 30000000$00, pela Região Autónoma da Madeira, no montante de 10000000$00, e pela ANA - Aeroportos e Navegação Aérea, E. P., no montante de 10000000$00, encontrando-se representado por acções nominativas com o valor nominal de 1000000$00 cada uma.
+
+> Alterado pelo/a [Decreto-Lei n.º 58/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1992-200002), publicado em 1992-04-13.
 
 ### CAPÍTULO III — Órgãos sociais
 

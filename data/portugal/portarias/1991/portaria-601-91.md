@@ -38,10 +38,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-11-07'
+version_history:
+  file: portaria-601-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-07-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-11-07'
+    amending: pt:dre:221158:por
+    amending_title: Portaria n.º 996/92; Portaria n.º 203/93; Portaria n.º 1108/93
+    changes:
+    - Adita Artigo depois da unidade 22
+    - Adita Artigo depois da unidade 30
+    - Adita Artigo depois da unidade 118
+    - Adita Artigo depois da unidade 149
+    - Adita Artigo depois da unidade 151
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/601/1991/07/04/p/dre/pt/html
@@ -67,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:53:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 996/92; Portaria n.º
+    203/93; Portaria n.º 1108/93. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-601-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,6 +184,16 @@ c) Adensamento de olivais, com excepção dos destinados à produção de azeite
 
 3) Mecanização das operações culturais, especialmente as respeitantes à colheita e limpeza da azeitona.
 
+4) Implementação de cinco regiões demarcadas para a produção de azeite, através de:
+
+a) Elaboração de estudos técnicos;
+
+b) Tipificação e análise do azeite;
+
+c) Divulgação e promoção das respectivas zonas.
+
+> Aditado pelo/a [Portaria n.º 996/92](https://diariodarepublica.pt/dr/detalhe/portaria/996-1992-221158), publicado em 1992-10-22.
+
 4.º
 
 Âmbito territorial
@@ -180,6 +209,18 @@ c) O adensamento de olivais na área da DRA do Alentejo;
 d) O arranque de olivais em todo o território nacional;
 
 e) A mecanização das operações culturais em todas as DRA, com excepção das áreas das DRA do Algarve e de Entre Douro e Minho.
+
+f) A implementação das seguintes regiões demarcadas:
+
+i)Duas regiões demarcadas na área de intervenção da Direcção Regional de Agricultura do Alentejo;
+
+ii) Uma região demarcada na área de intervenção da Direcção Regional de Agricultura do Ribatejo e Oeste;
+
+iii) Uma região demarcada na área de intervenção da Direcção Regional de Agricultura da Beira Interior;
+
+iv) Uma região demarcada na área de intervenção da Direcção Regional de Agricultura de Trás-os-Montes.
+
+> Aditado pelo/a [Portaria n.º 996/92](https://diariodarepublica.pt/dr/detalhe/portaria/996-1992-221158), publicado em 1992-10-22.
 
 #### SECÇÃO II — Reestruturação do olival
 
@@ -357,6 +398,34 @@ Organização do processo de candidatura
 
 São aplicáveis à instrução do processo de candidatura às ajudas à mecanização das operações culturais as regras estabelecidas no n.º 10.º relativas ao processo de candidaturas às ajudas para a reestruturação do olival.
 
+#### SECÇÃO IV-A — Implementação de regiões demarcadas
+
+21.º-A
+
+Beneficiários
+
+Podem beneficiar de ajudas à acção prevista nesta secção as associações de produtores ligadas ao sector que assumam a responsabilidade pela coordenação e dinamização do processo de delimitação das zonas de produção de azeite.
+
+21.º-B
+
+Despesas elegíveis
+
+Para efeitos de atribuição de ajudas à acção referida no n.º 4 do n.º 3.º, são consideradas elegíveis as despesa com:
+
+a) Remunerações de pessoal técnico e auxiliar contratado;
+
+b) Aquisição de serviços;
+
+c) Aquisição de equipamento laboratorial.
+
+21.º-C
+
+Níveis das ajudas
+
+O valor das ajudas a conceder no âmbito desta secção é de 90% das despesas elegíveis, até ao montante máximo de 75000 contos, sendo de 15000 contos por região demarcada.
+
+> Aditado pelo/a [Portaria n.º 996/92](https://diariodarepublica.pt/dr/detalhe/portaria/996-1992-221158), publicado em 1992-10-22.
+
 #### SECÇÃO V — Disposições gerais finais
 
 22.º
@@ -419,9 +488,41 @@ Direcção Regional de Agricultura da Beira Litoral
 
 Concelhos de Coimbra, Condeixa-a-Nova, Penela, Pombal, Ansião, Alvaiázere, Soure, Miranda do Corvo e Lousã.
 
+Carregal do Sal;
+
+Nelas;
+
+Mangualde;
+
+Viseu;
+
+Tondela.
+
+> Aditado pelo/a [Portaria n.º 203/93](https://diariodarepublica.pt/dr/detalhe/portaria/203-1993-656416), publicado em 1993-02-18.
+
 Direcção Regional de Agricultura da Beira Interior
 
 Concelhos de Idanha-a-Nova, Castelo Branco, Vila Velha de Ródão, Penamacor, Fundão, Figueira de Castelo Rodrigo, Covilhã, Proença-a-Nova, Guarda, Pinhel, Celorico da Beira, Fornos de Algodres, Sabugal e Trancoso.
+
+Sertã;
+
+Mação;
+
+Oleiros;
+
+Meda;
+
+Seia;
+
+Vila de Rei;
+
+Belmonte;
+
+Gouveia;
+
+Almeida.
+
+> Aditado pelo/a [Portaria n.º 1108/93](https://diariodarepublica.pt/dr/detalhe/portaria/1108-1993-666566), publicado em 1993-11-02.
 
 Direcção Regional de Agricultura do Ribatejo e Oeste
 

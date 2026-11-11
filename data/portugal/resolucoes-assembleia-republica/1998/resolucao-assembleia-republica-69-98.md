@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-07-20'
+version_history:
+  file: resolucao-assembleia-republica-69-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-07-20'
+    amending: pt:dre:187719:por
+    amending_title: Resolução da Assembleia da República n.º 48/2002
+    changes:
+    - Altera Artigo unidades 5-6
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolassrep/69/1998/12/22/p/dre/pt/html
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:04:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução da Assembleia da República
+    n.º 48/2002. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-assembleia-republica/1998/resolucao-assembleia-republica-69-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -102,9 +118,11 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 1 - Instituir o dia 10 de Dezembro de cada ano como Dia Nacional dos Direitos Humanos.
 
-2 - Instituir o Prémio Direitos Humanos, destinado a reconhecer e distinguir o alto mérito da actividade de organizações não governamentais ou do original de trabalho literário, histórico, científico, jornalístico, televisivo ou radiofónico, publicado em Portugal, no ano da respectiva atribuição, que contribuam para a divulgação ou o respeito dos direitos humanos, ou ainda para a denúncia da sua violação, no País ou no exterior, da autoria individual ou colectiva de cidadãos portugueses ou estrangeiros.
+2 - Instituir o Prémio Direitos Humanos, destinado a reconhecer e distinguir o alto mérito da actividade de organizações não governamentais ou do original de trabalho literário, histórico, científico, jornalístico, televisivo ou radiofónico, publicados em Portugal entre 1 de Julho do ano anterior e 30 de Junho do ano da atribuição, que contribuam para a divulgação ou o respeito dos direitos humanos ou ainda para a denúncia da sua violação, no País ou no exterior, da autoria individual ou colectiva de cidadãos portugueses ou estrangeiros.
 
-3 - Que esse prémio seja pecuniário e do montante de 5 milhões de escudos, atribuído até 30 de Novembro do ano a que disser respeito e entregue em cerimónia que terá lugar na Assembleia da República no Dia Nacional dos Direitos Humanos.
+3 - Que esse prémio seja pecuniário e do montante de (euro) 25000, atribuídos até 30 de Novembro do ano da atribuição e entregue em cerimónia que terá lugar na Assembleia da República na sessão comemorativa do Dia Nacional dos Direitos Humanos.
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 48/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/48-2002-187719), publicado em 2002-07-20.
 
 4 - Assumir como objectivos da instituição do Prémio Direitos Humanos intuitos informativos, formativos e pedagógicos centrados no conhecimento dos direitos humanos, na sua crescente validade universal, na preservação e denúncia das suas violações, onde quer que ocorram, e no desestímulo a que se repitam.
 
@@ -114,7 +132,9 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 7 - O Prémio será atribuído pelo Presidente da Assembleia da República, ouvida a Conferência de Líderes, mediante proposta da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias.
 
-8 - A mesma Comissão elaborará e aprovará, no prazo de 60 dias contados da aprovação da presente resolução, o regulamento das candidaturas, da selecção dos trabalhos, da atribuição do Prémio e do mais necessário à execução da presente deliberação.
+8 - A mesma Comissão elaborará e aprovará, no prazo de 60 dias contados da aprovação da presente resolução, o regulamento da selecção dos trabalhos e atribuição do Prémio e do mais necessário à execução da presente deliberação.
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 48/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/48-2002-187719), publicado em 2002-07-20.
 
 9 - O primeiro Prémio será atribuído no dia 10 de Dezembro de 1999.
 

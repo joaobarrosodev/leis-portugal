@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1964-05-07'
+version_history:
+  file: portaria-20397.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-02-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1964-05-07'
+    amending: pt:dre:582600:por
+    amending_title: Portaria n.º 20575
+    changes:
+    - Adita Artigo depois da unidade 36
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:41:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 20575. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1964/portaria-20397.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,6 +180,28 @@ Missão de Estudo e Fiscalização das Obras e Fornecimentos para Transportes de
 13.º Para efeitos do número anterior, fica o Governo-Geral autorizado a, observadas as disposições legais aplicáveis, abrir o crédito especial necessário, tomando como contrapartida disponibilidades ou recursos orçamentais, ou, na sua falta, os saldos das contas de exercícios findos ou as receitas do Fundo de Fomento.
 
 14.º No exercício da função de fiscalização das obras e fornecimentos que lhe é atribuída no n.º 1.º desta portaria e, de um modo geral, no exercício da sua actividade, a missão regular-se-á, nos casos omissos, pelas disposições legais em vigor para casos análogos, que sejam aplicáveis.
+
+15.º Sempre que as circunstâncias o aconselhem, poderá o Ministro do Ultramar determinar por despacho a constituição de grupos de trabalho especiais, incumbidos do desempenho, relativamente a toda ou parte de quaisquer das obras ou fornecimentos abrangidos pelo contrato, de uma ou mais atribuições referidas nas alíneas a) a h) do n.º 3.º Igualmente por despacho será determinada a dissolução dos grupos de trabalho especiais quando cessem as circunstâncias que justificaram a sua constituição ou quando se hajam desobrigado da incumbência recebida.
+
+16.º O despacho que determine a constituição de um grupo de trabalho especial fixar-lhe-á as atribuições, a composição, a orgânica e a disciplina de trabalho e nomeará o respectivo responsável, que o será directamente perante o Ministro do Ultramar e o governador-geral de Angola, definindo-lhe as faculdades de decisão convenientes e permitidas pela lei.
+
+§ 1.º De cada um dos grupos de trabalho especiais farão normalmente parte o director-geral de Obras Públicas e Comunicações ou um engenheiro da mesma Direcção-Geral, o director dos Serviços dos Portos, Caminhos de Ferro e Transportes da província de Angola ou um engenheiro dos mesmos serviços, a indicar pelo Governo-Geral, e o chefe da missão ou um seu delegado, a indicar pelo mesmo modo, e poderão fazer parte os delegados do Governo junto das Companhias ou os administradores destas por parte do Estado.
+
+§ 2.º Além dos membros referidos no § 1.º, os grupos de trabalho especiais poderão incluir elementos ao serviço da missão e funcionários de qualquer outro serviço do Estado, comissionados, destacados ou requisitados nos termos da lei, e ainda outras entidades de reconhecida idoneidade e capacidade para o fim em vista, comissionadas, contratadas ou subsidiadas de harmonia com a lei.
+
+§ 3.º Qualquer que seja a forma por que, nos termos do despacho referido no corpo do artigo, se assegure o expediente de um grupo de trabalho, toda a documentação ao mesmo respeitante será, à data da sua extinção, entregue, devidamente organizada e relacionada, à Direcção dos Serviços dos Portos, Caminhos de Ferro e Transportes da província de Angola.
+
+17.º O Ministro do Ultramar poderá nomear um coordenador das atribuições cometidas a dois ou mais grupos de trabalho especiais. Quando o fizer, os assuntos que decorram pelos grupos abrangidos não poderão ser submetidos a despacho do Ministro ou do governador-geral sem parecer, fundamentado, do coordenador e a este ficará concedida a faculdade de avocar os correspondentes processos sempre que, para efeitos de coordenação de soluções, convenha serem por ele submetidos conjuntamente a despacho.
+
+18.º Quando, por proposta do chefe de um grupo de trabalho, seja autorizada a utilização dos serviços de qualquer entidade consultora ou recepcionária, para efeitos relacionados com o fabrico ou a recepção de material ou equipamento a fornecer ao abrigo do contrato, os assuntos decorrentes de tal prestação de serviços serão submetidos a despacho superior através do grupo de trabalho que a propôs.
+
+19.º Os servidores do Estado destacados ou requisitados para os grupos de trabalho especiais serão remunerados nos termos do n.º 7.º Aos comissionados em acumulação de funções poderá ser fixada gratificação por despacho do Ministro do Ultramar até ao máximo de 1500$00 mensais.
+
+20.º As pessoas estranhas aos serviços do Estado que sejam comissionadas para os grupos de trabalho especiais terão direito a uma indemnização mensal de 1500$00, acrescida, quando tenham de deslocar-se do local da sua residência por exigências do trabalho cometido ao grupo, das ajudas de custo ou subsídios diários estabelecidos para os funcionários do Estado da letra D. Exceptuam-se as pessoas que se encontrem ao serviço das Companhias, por assumirem estas quaisquer encargos que resultem da sua colaboração.
+
+21.º Às despesas com o funcionamento dos grupos de trabalho especiais é aplicável o disposto no n.º 12.º
+
+> Aditado pelo/a [Portaria n.º 20575](https://diariodarepublica.pt/dr/detalhe/portaria/20575-1964-582600), publicado em 1964-05-07.
 
 Ministério do Ultramar, 27 de Fevereiro de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.
 

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:568476:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1981-11-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fc0b20909c6bffad"
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1170050271:por",
+     "title": "Portaria n.º 395/2026/2",
+     "published": "2026-09-15",
+     "dre_path": "/dr/detalhe/portaria/395-2026-1170050271"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "92809102a39cdd18"
+   ]
+  }
+ ],
+ "fragments": {
+  "fc0b20909c6bffad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Novembro\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior-General das Forças Armadas, e o Governo, pelos Ministros da Defesa Nacional, de Estado e das Finanças e do Plano e dos Negócios Estrangeiros, nos termos do artigo 1.º, n.º 2, do [Decreto-Lei n.º 233/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1981-576960), de 1 de Agosto, o seguinte:\n\n1.º A Representação Militar Nacional no Quartel-General do Comando Supremo Aliado da Europa (SHAPE) está criada junto da DELNATO e acreditada junto do Comando Supremo Aliado da Europa (SACEUR).\n\n2.º O representante (NMRSHAPE) tem por missão representar o Chefe do Estado-Maior-General das Forças Armadas nos assuntos específicos afectos ao respectivo comandante da área onde se encontra acreditado, devendo manter coordenação com a DELNATO, MILREP e POLO AFSOUTH.\n\n3.º A composição desta Representação Militar Nacional é a seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/26600/30553056.pdf)\n\n4.º Esta portaria produz efeitos a partir de 5 de Agosto de 1981.\n\nConselho da Revolução e Ministérios da Defesa Nacional, das Finanças e do Plano e dos Negócios Estrangeiros, 28 de Outubro de 1981. - O Chefe do Estado-Maior-General das Forças Armadas, Nuno Viriato Tavares de Melo Egídio, general. - O Ministro da Defesa Nacional, Diogo Pinto de Freitas do Amaral. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro dos Negócios Estrangeiros, André Roberto Delaunay Gonçalves Pereira."
+  },
+  "92809102a39cdd18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2026-09-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 395/2026/2](https://diariodarepublica.pt/dr/detalhe/portaria/395-2026-1170050271), publicado em 2026-09-15."
+   ],
+   "markdown": "de 18 de Novembro\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior-General das Forças Armadas, e o Governo, pelos Ministros da Defesa Nacional, de Estado e das Finanças e do Plano e dos Negócios Estrangeiros, nos termos do artigo 1.º, n.º 2, do [Decreto-Lei n.º 233/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1981-576960), de 1 de Agosto, o seguinte:\n\n1.º A Representação Militar Nacional no Quartel-General do Comando Supremo Aliado da Europa (SHAPE) está criada junto da DELNATO e acreditada junto do Comando Supremo Aliado da Europa (SACEUR).\n\n2.º O representante (NMRSHAPE) tem por missão representar o Chefe do Estado-Maior-General das Forças Armadas nos assuntos específicos afectos ao respectivo comandante da área onde se encontra acreditado, devendo manter coordenação com a DELNATO, MILREP e POLO AFSOUTH.\n\n3.º A composição desta Representação Militar Nacional é a seguinte:\n\n| Cargo (a) | Contra-almirante/Major-General | Capitão-de-Mar-e-Guerra/Coronel | Capitão-de-Fragata/Tenente-Coronel | Sargentos | Praças |\n| --- | --- | --- | --- | --- | --- |\n| Chefe da Representação Militar: | 1 | - | - | - | - |\n| Subchefe da Representação Militar | - | 1 | - | - | - |\n| Adjunto do Representante | - | - | 2 | - | - |\n| Amanuense | - | - | - | 2 | - |\n| Auxiliares | - | - | - | - | 2 |\n| Totais | 1 | 1 | 2 | 2 | 2 |\n| Total |  | 8 |  |  |  |\n\n(a) As descrições dos cargos serão elaboradas de acordo com normas aprovadas no âmbito do EMGFA.\n\n> Alterado pelo/a [Portaria n.º 395/2026/2](https://diariodarepublica.pt/dr/detalhe/portaria/395-2026-1170050271), publicado em 2026-09-15.\n\n4.º Esta portaria produz efeitos a partir de 5 de Agosto de 1981.\n\nConselho da Revolução e Ministérios da Defesa Nacional, das Finanças e do Plano e dos Negócios Estrangeiros, 28 de Outubro de 1981. - O Chefe do Estado-Maior-General das Forças Armadas, Nuno Viriato Tavares de Melo Egídio, general. - O Ministro da Defesa Nacional, Diogo Pinto de Freitas do Amaral. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro dos Negócios Estrangeiros, André Roberto Delaunay Gonçalves Pereira."
+  }
+ }
+}

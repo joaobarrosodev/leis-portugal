@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-09-26'
+version_history:
+  file: resolucao-conselho-ministros-63-2012.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-07-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-09-26'
+    amending: pt:dre:70331761:por
+    amending_title: Resolução do Conselho de Ministros n.º 78/2015
+    changes:
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 11-14
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/63/2012/07/17/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:03:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 78/2015. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2012/resolucao-conselho-ministros-63-2012.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,17 +152,21 @@ Assim:
 
 Nos termos do artigo 35.º do Código do Procedimento Administrativo, da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Autorizar a realização da despesa resultante da participação do Estado Português no projeto de desenvolvimento e produção da aeronave KC-390, até ao montante máximo de (euro) 30 000 000.
+1 - Autorizar a realização da despesa resultante da participação do Estado Português no projeto de desenvolvimento e produção da aeronave KC-390, até ao montante máximo de EUR 38 300 000.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/78-2015-70331761), publicado em 2015-09-21.
 
 2 - Determinar que os encargos resultantes da participação referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes:
 
-2012 - (euro) 18 160 000;
+2012 - EUR 4 008 944,20;
 
-2013 - (euro) 11 740 000;
+2013 - EUR 17 176 549,22;
 
-2014 - (euro) 50 000;
+2014 - EUR 8 764 506,58;
 
-2015 - (euro) 50 000.
+2015 - EUR 8 350 000,00.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/78-2015-70331761), publicado em 2015-09-21.
 
 3 - Estabelecer que o montante fixado para cada ano económico pode ser acrescido do saldo apurado no ano que antecede.
 

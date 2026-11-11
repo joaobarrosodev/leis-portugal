@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1961-03-27'
+version_history:
+  file: decreto-43340.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-11-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1961-03-27'
+    amending: pt:dre:559427:por
+    amending_title: Decreto n.º 43565
+    changes:
+    - Altera Artigo unidades 163-163
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:21:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 43565. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1960/decreto-43340.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -536,7 +551,9 @@ Art. 38.º Nos serviços de obras públicas e transportes são criados os seguin
 
 1) Pessoal de nomeação:
 
-3 de condutor de automóveis de 1.ª classe.
+3 de condutor de obras públicas de 1.ª classe.
+
+> Alterado pelo/a [Decreto n.º 43565](https://diariodarepublica.pt/dr/detalhe/decreto/43565-1961-559427), publicado em 1961-03-27.
 
 2) Pessoal contratado:
 

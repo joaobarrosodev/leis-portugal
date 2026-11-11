@@ -1,0 +1,60 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:402570:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1980-06-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ba94c1f3c16782b1"
+   ]
+  },
+  {
+   "date": "1980-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:226674:por",
+     "title": "Portaria n.º 1107/80",
+     "published": "1980-12-31",
+     "dre_path": "/dr/detalhe/portaria/1107-1980-226674"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-10",
+    "Altera Artigo unidades 13-13",
+    "Altera Artigo unidades 16-16"
+   ],
+   "fragments": [
+    "95ed7a497fabf28c"
+   ]
+  }
+ ],
+ "fragments": {
+  "ba94c1f3c16782b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Junho\n\nAtravés da presente portaria, o sistema de passes sociais em vigor na Região de Lisboa conhece um novo avanço, marcado pela adesão das empresas privadas que aí realizam um transporte de características suburbanas.\n\nCondicionalismos vários conduziram, porém, a que nesta fase a adesão seja limitada, resultando os novos passes da combinação de percursos de cada um dos operadores privados com a área do passe L.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelos Ministros do Comércio e Turismo e dos Transportes e Comunicações, o seguinte:\n\n1.º São criadas novas modalidades de passes sociais intermodais nas seguintes condições e preços:\n\na) LA - V. M. Carnaxide - 585$00.\n\nVálido na Carris, Metropolitano de Lisboa e Viação Mecânica de Carnaxide.\n\nTítulo mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e metropolitano e fora dela nos percursos do passe à linha da V. M. Carnaxide a que actualmente corresponde o preço de 340$00.\n\nb) LC - V. M. Carnaxide - 730$00.\n\nVálido na Carris, Metropolitano de Lisboa e Viação Mecânica de Carnaxide.\n\nTítulo mensal para um número ilimitado de viagens, válido em todos os percursos referidos na alínea anterior e ainda nos percursos do passe à linha da V. M. Carnaxide a que actualmente corresponde o preço de 500$00.\n\nc) LD - V. M. Carnaxide - 850$00.\n\nVálido na Carris, Metropolitano de Lisboa e Viação Mecânica de Carnaxide.\n\nTítulo mensal para um número ilimitado de viagens, válido em todos os percursos referidos na alínea anterior, nos percursos do passe à linha da V. M. Carnaxide a que actualmente corresponde o preço de 625$00, bem como nos percursos da mesma empresa entre Oeiras, Linda-a-Velha e Lisboa.\n\nd) LB - Barraqueiro - 650$00.\n\nVálido na Carris, Metropolitano de Lisboa, Joaquim Jerónimo, Lda., e Henrique Leonardo Mota, Lda.\n\nTítulo mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos elevadores e metropolitano e fora dela nas carreiras de interesse local de Joaquim Jerónimo, Lda., e Henrique Leonardo Mota, Lda., entre Ponte de Frielas e Entrecampos.\n\ne) LD - Barraqueiro - 850$00.\n\nVálido na Carris, Metropolitano de Lisboa, Joaquim Jerónimo, Lda., e Henrique Leonardo Mota, Lda.\n\nTítulo mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e metropolitano e fora dela nas carreiras de interesse local de Joaquim Jerónimo, Lda., e Henrique Leonardo Mota, Lda., entre Pinheiro de Loures e Entrecampos.\n\nf) LE - Barraqueiro- 1100$00.\n\nVálido na Carris, Metropolitano de Lisboa, Joaquim Jerónimo, Lda., e Henrique Leonardo Mota, Lda.\n\nTítulo mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e metropolitano e fora dela nas carreiras de interesse local de Joaquim Jerónimo, Lda., e Henrique Leonardo Mota, Lda., entre Ponte de Lousa e Entrecampos.\n\ng) LB - Isidoro Duarte - 650$00.\n\nVálido na Carris, Metropolitano de Lisboa e Isidoro Duarte, Lda.\n\nTítulo mensal para um número ilimitado de viagens, com área de validade idêntica à do passe LB - Barraqueiro, definido na alínea d).\n\nh) LD - Isidoro Duarte - 850$00.\n\nVálido na Carris, Metropolitano de Lisboa e Isidoro Duarte, Lda.\n\nTítulo mensal para um número ilimitado de viagens, com a área de validade idêntica à do passe LD - Barraqueiro, definido na alínea e).\n\ni) LE - Isidoro Duarte - 1100$00.\n\nVálido na Carris, Metropolitano de Lisboa e Isidoro Duarte, Lda.\n\nTítulo mensal para um número ilimitado de viagens, com área de validade idêntica à do passe LE - Barraqueiro, definido na alínea f).\n\n2.º A Direcção-Geral de Transportes Terrestres fixará as carreiras abrangidas por estes passes fora da cidade de Lisboa.\n\n3.º Mantêm-se em vigor todas as modalidades de redução tarifária definidas por diplomas anteriores.\n\n4.º Esta portaria entra em vigor no dia 1 de Julho de 1980.\n\nMinistérios do Comércio e Turismo e dos Transportes e Comunicações, 26 de Junho de 1980. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca. - O Ministro dos Transportes e Comunicações, José Carlos Pinto Soromenho Viana Baptista."
+  },
+  "95ed7a497fabf28c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1980-12-31",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1107/80](https://diariodarepublica.pt/dr/detalhe/portaria/1107-1980-226674), publicado em 1980-12-31.",
+    "Alterado pelo/a [Portaria n.º 1107/80](https://diariodarepublica.pt/dr/detalhe/portaria/1107-1980-226674), publicado em 1980-12-31.",
+    "Alterado pelo/a [Portaria n.º 1107/80](https://diariodarepublica.pt/dr/detalhe/portaria/1107-1980-226674), publicado em 1980-12-31."
+   ],
+   "markdown": "de 30 de Junho\n\nAtravés da presente portaria, o sistema de passes sociais em vigor na Região de Lisboa conhece um novo avanço, marcado pela adesão das empresas privadas que aí realizam um transporte de características suburbanas.\n\nCondicionalismos vários conduziram, porém, a que nesta fase a adesão seja limitada, resultando os novos passes da combinação de percursos de cada um dos operadores privados com a área do passe L.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelos Ministros do Comércio e Turismo e dos Transportes e Comunicações, o seguinte:\n\n1.º São criadas novas modalidades de passes sociais intermodais nas seguintes condições e preços:\n\na) LA - V. M. Carnaxide - 585$00.\n\nVálido na Carris, Metropolitano de Lisboa e Viação Mecânica de Carnaxide.\n\nTítulo mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e Metropolitano e, fora dela, nos percursos do passe de linha da V. M. Carnaxide que afluem a Lisboa a que actualmente corresponde o preço de 340$00.\n\n> Alterado pelo/a [Portaria n.º 1107/80](https://diariodarepublica.pt/dr/detalhe/portaria/1107-1980-226674), publicado em 1980-12-31.\n\nb) LC - V. M. Carnaxide - 730$00.\n\nVálido na Carris, Metropolitano de Lisboa e Viação Mecânica de Carnaxide.\n\nTítulo mensal para um número ilimitado de viagens, válido em todos os percursos referidos na alínea anterior e ainda nos percursos dos passes de linha da V. M. Carnaxide que afluem a Lisboa a que actualmente correspondem os preços de 500$00 e de 625$00.\n\n> Alterado pelo/a [Portaria n.º 1107/80](https://diariodarepublica.pt/dr/detalhe/portaria/1107-1980-226674), publicado em 1980-12-31.\n\nc) LD - V. M. Carnaxide - 850$00.\n\nVálido na Carris, Metropolitano de Lisboa e Viação Mecânica de Carnaxide.\n\nTítulo mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e Metropolitano e, fora dela, na rede geral da V. M. Carnaxide.\n\n> Alterado pelo/a [Portaria n.º 1107/80](https://diariodarepublica.pt/dr/detalhe/portaria/1107-1980-226674), publicado em 1980-12-31.\n\nd) LB - Barraqueiro - 650$00.\n\nVálido na Carris, Metropolitano de Lisboa, Joaquim Jerónimo, Lda., e Henrique Leonardo Mota, Lda.\n\nTítulo mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos elevadores e metropolitano e fora dela nas carreiras de interesse local de Joaquim Jerónimo, Lda., e Henrique Leonardo Mota, Lda., entre Ponte de Frielas e Entrecampos.\n\ne) LD - Barraqueiro - 850$00.\n\nVálido na Carris, Metropolitano de Lisboa, Joaquim Jerónimo, Lda., e Henrique Leonardo Mota, Lda.\n\nTítulo mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e metropolitano e fora dela nas carreiras de interesse local de Joaquim Jerónimo, Lda., e Henrique Leonardo Mota, Lda., entre Pinheiro de Loures e Entrecampos.\n\nf) LE - Barraqueiro- 1100$00.\n\nVálido na Carris, Metropolitano de Lisboa, Joaquim Jerónimo, Lda., e Henrique Leonardo Mota, Lda.\n\nTítulo mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e metropolitano e fora dela nas carreiras de interesse local de Joaquim Jerónimo, Lda., e Henrique Leonardo Mota, Lda., entre Ponte de Lousa e Entrecampos.\n\ng) LB - Isidoro Duarte - 650$00.\n\nVálido na Carris, Metropolitano de Lisboa e Isidoro Duarte, Lda.\n\nTítulo mensal para um número ilimitado de viagens, com área de validade idêntica à do passe LB - Barraqueiro, definido na alínea d).\n\nh) LD - Isidoro Duarte - 850$00.\n\nVálido na Carris, Metropolitano de Lisboa e Isidoro Duarte, Lda.\n\nTítulo mensal para um número ilimitado de viagens, com a área de validade idêntica à do passe LD - Barraqueiro, definido na alínea e).\n\ni) LE - Isidoro Duarte - 1100$00.\n\nVálido na Carris, Metropolitano de Lisboa e Isidoro Duarte, Lda.\n\nTítulo mensal para um número ilimitado de viagens, com área de validade idêntica à do passe LE - Barraqueiro, definido na alínea f).\n\n2.º A Direcção-Geral de Transportes Terrestres fixará as carreiras abrangidas por estes passes fora da cidade de Lisboa.\n\n3.º Mantêm-se em vigor todas as modalidades de redução tarifária definidas por diplomas anteriores.\n\n4.º Esta portaria entra em vigor no dia 1 de Julho de 1980.\n\nMinistérios do Comércio e Turismo e dos Transportes e Comunicações, 26 de Junho de 1980. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca. - O Ministro dos Transportes e Comunicações, José Carlos Pinto Soromenho Viana Baptista."
+  }
+ }
+}

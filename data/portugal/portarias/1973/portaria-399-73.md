@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-06-07'
+version_history:
+  file: portaria-399-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-06-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-06-07'
+    amending: pt:dre:299012:por
+    amending_title: Portaria n.º 476/78; Portaria n.º 322/80
+    changes:
+    - Adita Artigo depois da unidade 75
+    - Altera Artigo unidades 79-79
+    - Adita Artigo depois da unidade 85
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:05:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 476/78; Portaria n.º
+    322/80. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1973/portaria-399-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -261,13 +278,29 @@ b) Máquinas industriais ... 100$00
 
 c) Veículos cujos pesos e dimensões excedem os previstos nos artigos 18.º e 19.º do Código da Estrada (por veículo e por viagem) ... 100$00
 
+5.3 - Aprovação de contentores por modelo e passagem do respectivo certificado, de acordo com a resolução n.º 31 do grupo de peritos dos problemas aduaneiros relativos a transportes do Comité dos Transportes Interiores da Comissão Económica para a Europa ... 7500$00
+
+> Aditado pelo/a [Portaria n.º 476/78](https://diariodarepublica.pt/dr/detalhe/portaria/476-1978-299012), publicado em 1978-08-22.
+
 II - Ensino de condução
 
 1 - Instrução:
 
 a) Licenças de aprendizagem ... 100$00
 
-b) Exame para instrutor ... 500$00
+b) Exame para instrutor:
+
+1) Exame teórico (por tipo de ensino) ... 600$00
+
+2) Exame prático:
+
+1) De teoria da condução ... 600$00
+
+2) De mecânica automóvel ... 600$00
+
+3) De prática da condução (por classe de veículos) ... 600$00
+
+> Alterado pelo/a [Portaria n.º 322/80](https://diariodarepublica.pt/dr/detalhe/portaria/322-1980-473110), publicado em 1980-06-07.
 
 c) Licença para o serviço de instrução (por veículo):
 
@@ -280,6 +313,16 @@ c) Licença para o serviço de instrução (por veículo):
 4) Automóveis pesados ... 500$00
 
 5) Tractores agrícolas ... 150$00
+
+d) Curso de formação de instrutor:
+
+1) Teoria da condução ... 2000$00
+
+2) Mecânica automóvel ... 2000$00
+
+3) Prática da condução ... 2000$00
+
+> Aditado pelo/a [Portaria n.º 322/80](https://diariodarepublica.pt/dr/detalhe/portaria/322-1980-473110), publicado em 1980-06-07.
 
 2 - Escolas de condução:
 

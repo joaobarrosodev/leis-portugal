@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-01-24'
+version_history:
+  file: resolucao-conselho-ministros-60-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-24'
+    amending: pt:dre:624785:por
+    amending_title: Resolução do Conselho de Ministros n.º 15/2005
+    changes:
+    - Altera Artigo unidades 46-47
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/60/2004/04/30/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:50:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 15/2005. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2004/resolucao-conselho-ministros-60-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -226,9 +241,11 @@ f) Instituições particulares de solidariedade social.
 
 10.1 - Os projectos têm a duração mínima de 12 meses e máxima de 24 meses.
 
-10.2 - O Programa pode, em regime de contratualização, atribuir um apoio técnico e financeiro aos projectos, em condições a determinar em regulamento a aprovar por despacho do Ministro da Presidência.
+10.2 - O Programa pode, em regime de contratualização, atribuir um apoio técnico e financeiro aos projectos, em condições a determinar em regulamento a aprovar por despacho do Ministro Adjunto do Primeiro-Ministro.
 
-11 - O Programa funciona na dependência do Ministro da Presidência.
+11 - O Programa funciona na dependência do Ministro Adjunto do Primeiro-Ministro.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 15/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-2005-624785), publicado em 2005-01-19.
 
 12 - O Programa é coordenado pelo alto-comissário para a Imigração e Minorias Étnicas, com faculdade de delegação no alto-comissário-adjunto.
 

@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:515184:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2004-08-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4bd141ce0c941280",
+    "21f48d1ff785fdfd",
+    "58097310421904f4"
+   ]
+  },
+  {
+   "date": "2007-11-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:629447:por",
+     "title": "Portaria n.º 1434/2007",
+     "published": "2007-11-06",
+     "dre_path": "/dr/detalhe/portaria/1434-2007-629447"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 16-16"
+   ],
+   "fragments": [
+    "1982e94626f0baee",
+    "21f48d1ff785fdfd",
+    "58097310421904f4"
+   ]
+  }
+ ],
+ "fragments": {
+  "4bd141ce0c941280": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Agosto\n\nO sistema de avaliação de prédios urbanos instituído pela Reforma da Tributação do Património é profundamente inovador relativamente ao anterior regime.\n\nPor um lado, porque o valor de referência é o valor de mercado e já não o rendimento, o que constitui por si uma garantia de justiça e equidade na distribuição da carga fiscal nos impostos que incidem sobre o imobiliário.\n\nPor outro lado, porque a determinação do valor patrimonial dos prédios urbanos assenta em coeficientes integralmente objectivos e transparentes, eliminando-se a subjectividade que caracterizava o anterior regime.\n\nO novo sistema permite que qualquer interessado possa facilmente calcular o valor patrimonial tributário dos seus prédios, o que é, em si mesmo, uma garantia de transparência e de segurança jurídica.\n\nA presente portaria destina-se a aprovar e dar publicidade aos coeficientes a fixar dentro dos limites estabelecidos no Código do Imposto Municipal sobre Imóveis (CIMI), bem como a aprovar e dar publicidade ao custo médio de construção e aos coeficientes de capitalização da renda anual para determinação do valor patrimonial tributário dos prédios urbanos arrendados com rendas degradadas que sejam transmitidos. Com a sua fixação, ficam tipificados e quantificados todos os coeficientes, podendo iniciar-se desde já as avaliações.\n\nA objectividade do sistema conferirá ainda uma maior celeridade ao procedimento de avaliação, prevendo-se que a respectiva pendência passe para um número muito reduzido de dias, o que será também um factor de eficiência e desburocratização.\n\nNa fixação dos elementos de avaliação aprovados pela presente portaria, foram ouvidas as entidades previstas na lei.\n\nAssim:\n\nManda o Governo, pela Ministra de Estado e das Finanças, ao abrigo do disposto no n.º 1 do artigo 13.º do [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, e nos termos do n.º 3 e das alíneas a) a d) do n.º 1 do artigo 62.º do CIMI, na sequência de proposta da Comissão Nacional de Avaliação de Prédios Urbanos (CNAPU), o seguinte:\n\n1.º São aprovados os coeficientes de localização mínimos e máximos a aplicar em cada município, previstos no artigo 42.º do CIMI, e publicados no anexo I à presente portaria.\n\n2.º É aprovado o zonamento e os coeficientes de localização correspondentes a cada zona de valor homogéneo para os tipos de afectação à habitação, comércio, indústria e serviços, nos termos e para os efeitos do artigo 42.º do CIMI.\n\n3.º São aprovadas as percentagens correspondentes à área de implantação, previstas no n.º 2 do artigo 45.º do CIMI, para apuramento do valor patrimonial tributário dos terrenos para construção, bem como as respectivas áreas de aplicação.\n\n4.º São aprovados os coeficientes majorativos aplicáveis às moradias unifamiliares, para efeitos do disposto no n.º 1 do artigo 43.º do CIMI.\n\n5.º São aprovadas as directrizes relativas à apreciação da qualidade construtiva, da localização excepcional e do estado deficiente de conservação, para efeitos de aplicação da tabela I referida no n.º 1 do artigo 43.º do CIMI, e publicadas no anexo II à presente portaria.\n\n6.º É fixado em (euro) 480 o custo médio de construção por metro quadrado, para efeitos do artigo 39.º do CIMI, a vigorar em 2003 e 2004.\n\n7.º O zonamento, os coeficientes de localização, as percentagens e os coeficientes majorativos referidos, respectivamente, nos n.os 2.º, 3.º e 4.º da presente portaria são publicados no sítio www.e-financas.gov.pt, podendo ser consultados por qualquer interessado, e estão ainda disponíveis em qualquer serviço de finanças.\n\n8.º Para efeitos do disposto nos n.os 2 e 3 do artigo 17.º do [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, são fixados os factores 12 e 12,5 para vigorarem, respectivamente, em 2003 e 2004.\n\nA Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 15 de Julho de 2004."
+  },
+  "21f48d1ff785fdfd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Valores mínimos (min) e máximos (MAX) dos coeficientes de localização, por tipo de afectação, a aplicar em cada município por serviço de finanças (SF)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Valores mínimos (min) e máximos (MAX) dos coeficientes de localização, por tipo de afectação, a aplicar em cada município por serviço de finanças (SF)\n\n[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/08/182b00/50965102.pdf)"
+  },
+  "58097310421904f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nDirectrizes relativas à apreciação da qualidade construtiva, de localização excepcional e de estado deficiente de conservação.\n\nNos termos da alínea c) do n.º 1 do artigo 62.º do Código do Imposto Municipal sobre Imóveis, são definidos os seguintes parâmetros a considerar na avaliação dos prédios urbanos:\n\nQualidade construtiva:\n\nQualidade do projecto;\n\nVentilação - sistemas de aquecimento e arrefecimento;\n\nIsolamento térmico;\n\nConforto acústico;\n\nNível de qualidade dos revestimentos/acabamentos;\n\nNível de qualidade/existência de instalações especiais - segurança, incêndio, domótica;\n\nLocalização excepcional:\n\nVistas panorâmicas;\n\nOrientação da construção;\n\nPiso;\n\nEnquadramento urbanístico - equipamentos colectivos, densidade de construção;\n\nQualidade ambiental - zonas verdes, elementos naturais, ausência de poluição;\n\nEstado de deficiente conservação:\n\nAnomalias na estrutura;\n\nCobertura em mau estado;\n\nRevestimentos de piso, paredes e tectos deteriorados;\n\nCaixilharia deteriorada;\n\nInstalações deterioradas ou em deficiente funcionamento;\n\nCondições de salubridade e higiene deficientes."
+  },
+  "1982e94626f0baee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2007-11-11",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1434/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1434-2007-629447), publicado em 2007-11-06."
+   ],
+   "markdown": "de 4 de Agosto\n\nO sistema de avaliação de prédios urbanos instituído pela Reforma da Tributação do Património é profundamente inovador relativamente ao anterior regime.\n\nPor um lado, porque o valor de referência é o valor de mercado e já não o rendimento, o que constitui por si uma garantia de justiça e equidade na distribuição da carga fiscal nos impostos que incidem sobre o imobiliário.\n\nPor outro lado, porque a determinação do valor patrimonial dos prédios urbanos assenta em coeficientes integralmente objectivos e transparentes, eliminando-se a subjectividade que caracterizava o anterior regime.\n\nO novo sistema permite que qualquer interessado possa facilmente calcular o valor patrimonial tributário dos seus prédios, o que é, em si mesmo, uma garantia de transparência e de segurança jurídica.\n\nA presente portaria destina-se a aprovar e dar publicidade aos coeficientes a fixar dentro dos limites estabelecidos no Código do Imposto Municipal sobre Imóveis (CIMI), bem como a aprovar e dar publicidade ao custo médio de construção e aos coeficientes de capitalização da renda anual para determinação do valor patrimonial tributário dos prédios urbanos arrendados com rendas degradadas que sejam transmitidos. Com a sua fixação, ficam tipificados e quantificados todos os coeficientes, podendo iniciar-se desde já as avaliações.\n\nA objectividade do sistema conferirá ainda uma maior celeridade ao procedimento de avaliação, prevendo-se que a respectiva pendência passe para um número muito reduzido de dias, o que será também um factor de eficiência e desburocratização.\n\nNa fixação dos elementos de avaliação aprovados pela presente portaria, foram ouvidas as entidades previstas na lei.\n\nAssim:\n\nManda o Governo, pela Ministra de Estado e das Finanças, ao abrigo do disposto no n.º 1 do artigo 13.º do [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, e nos termos do n.º 3 e das alíneas a) a d) do n.º 1 do artigo 62.º do CIMI, na sequência de proposta da Comissão Nacional de Avaliação de Prédios Urbanos (CNAPU), o seguinte:\n\n1.º São aprovados os coeficientes de localização mínimos e máximos a aplicar em cada município, previstos no artigo 42.º do CIMI, e publicados no anexo I à presente portaria.\n\n2.º É aprovado o zonamento e os coeficientes de localização correspondentes a cada zona de valor homogéneo para os tipos de afectação à habitação, comércio, indústria e serviços, nos termos e para os efeitos do artigo 42.º do CIMI.\n\n3.º São aprovadas as percentagens correspondentes à área de implantação, previstas no n.º 2 do artigo 45.º do CIMI, para apuramento do valor patrimonial tributário dos terrenos para construção, bem como as respectivas áreas de aplicação.\n\n4.º São aprovados os coeficientes majorativos aplicáveis às moradias unifamiliares, para efeitos do disposto no n.º 1 do artigo 43.º do CIMI.\n\n5.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 1434/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1434-2007-629447), publicado em 2007-11-06.\n\n6.º É fixado em (euro) 480 o custo médio de construção por metro quadrado, para efeitos do artigo 39.º do CIMI, a vigorar em 2003 e 2004.\n\n7.º O zonamento, os coeficientes de localização, as percentagens e os coeficientes majorativos referidos, respectivamente, nos n.os 2.º, 3.º e 4.º da presente portaria são publicados no sítio www.e-financas.gov.pt, podendo ser consultados por qualquer interessado, e estão ainda disponíveis em qualquer serviço de finanças.\n\n8.º Para efeitos do disposto nos n.os 2 e 3 do artigo 17.º do [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, são fixados os factores 12 e 12,5 para vigorarem, respectivamente, em 2003 e 2004.\n\nA Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 15 de Julho de 2004."
+  }
+ }
+}

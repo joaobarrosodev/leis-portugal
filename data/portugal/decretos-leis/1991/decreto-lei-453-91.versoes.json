@@ -1,0 +1,135 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:392016:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-12-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "60d02b1ab870b287",
+    "10cf80a9c112d0ac",
+    "d38d18869f910df4",
+    "8ede5e41d379e752",
+    "7398729b769f0ee6"
+   ]
+  },
+  {
+   "date": "1997-12-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:200002:por",
+     "title": "Decreto-Lei n.º 58/92",
+     "published": "1992-04-13",
+     "dre_path": "/dr/detalhe/decreto-lei/58-1992-200002"
+    },
+    {
+     "id": "pt:dre:369428:por",
+     "title": "Decreto-Lei n.º 273/93",
+     "published": "1993-08-04",
+     "dre_path": "/dr/detalhe/decreto-lei/273-1993-369428"
+    },
+    {
+     "id": "pt:dre:265553:por",
+     "title": "Decreto-Lei n.º 142/94",
+     "published": "1994-05-23",
+     "dre_path": "/dr/detalhe/decreto-lei/142-1994-265553"
+    },
+    {
+     "id": "pt:dre:659563:por",
+     "title": "Lei n.º 127-B/97",
+     "published": "1997-12-20",
+     "dre_path": "/dr/detalhe/lei/127-b-1997-659563"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 13-13",
+    "Altera Artigo unidades 14-14",
+    "Altera Artigo unidades 16-16",
+    "Adita Artigo depois da unidade 16",
+    "Adita Artigo depois da unidade 23",
+    "Adita Artigo depois da unidade 24",
+    "Altera Artigo unidades 37-37"
+   ],
+   "fragments": [
+    "5d40ef30fe6e55dc",
+    "10cf80a9c112d0ac",
+    "ba194aaeb638e534",
+    "8ede5e41d379e752",
+    "7398729b769f0ee6"
+   ]
+  }
+ ],
+ "fragments": {
+  "60d02b1ab870b287": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Dezembro\n\nTem sido preocupação do Governo dotar a Madeira de uma infra-estrutura aeroportuária capaz de acolher o tráfego aéreo que demanda a ilha, especialmente o oriundo da actividade turística, de importância estratégica fundamental para aquela região insular.\n\nAssim, pelo [Decreto-Lei n.º 221/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1981-579740), de 17 de Julho, foi criado o Gabinete do Aeroporto de Santa Catarina, que teve a seu cargo a gestão das obras relativas à 1.ª fase de ampliação daquele Aeroporto, fundamentalmente a construção de prolongamentos de segurança da pista e a ampliação da plataforma de estacionamento.\n\nA realização das obras de ampliação e melhoramentos no Aeroporto de Porto Santo, em estreita ligação com a NATO, levou a alargar, também ao Aeroporto de Porto Santo, as atribuições conferidas àquele Gabinete, o qual, pelo [Decreto-Lei n.º 137/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1986-228847), de 12 de Junho, passou a designar-se Gabinete para os Aeroportos da Região Autónoma da Madeira (GARAM).\n\nPor forma a garantir a operacionalidade de voos intercontinentais e respondendo a uma aspiração de longa data da Região, foi decidida a construção da 2.ª fase da amplicação da pista, projecto para o qual o Governo, após um longo e difícil processo de negociação, obteve uma comparticipação do FEDER de 75%, através do programa REGIS, destinado a iniciativas tendentes a minorar os problemas de desenvolvimento das regiões ultraperiféricas, cabendo, por se tratar de um bem do domínio público regional, à Região Autónoma da Madeira assegurar o remanescente financiamento que integra a comparticipação nacional do projecto.\n\nFace à especificidade técnica que naturalmente decorre da natureza da obra em causa, e ainda pelas necessárias implicações que a mesma vai ter na gestão corrente da pista já instalada, torna-se necessário criar uma empresa de serviços que, dotada do apetrechamento técnico especializado, possa, mediante concessão, encarregar-se da exploração das infra-estruturas aeroportuárias e promover as obras da sua ampliação.\n\nOuvidos os órgãos de governo próprio da Região Autónoma da Madeira:\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º - 1 - É criada a sociedade de capitais exclusivamente públicos ANAM - Aeroportos e Navegação Aérea da Madeira, S. A., abreviadamente designada por ANAM, S. A.\n\n2 - A ANAM, S. A., rege-se pela lei geral ou especial que lhe seja aplicável, pelo presente diploma e respectivos estatutos, que constituem o anexo ao presente diploma, do qual faz parte integrante.\n\n3 - É vedada à ANAM, S. A., a contracção de empréstimos.\n\nArt. 2.º - 1 - O capital social da ANAM, S. A., e de 50000000$00 e encontra-se integralmente subscrito pelo Estado, em 80%, e pela Região Autónoma da Madeira (RAM), em 20%.\n\n2 - As acções representativas do capital de que o Estado seja titular serão detidas pela Direcção-Geral do Tesouro e as da RAM pelo Governo Regional, através da Secretaria Regional das Finanças.\n\n3 - Os direitos do Estado, como accionista da sociedade, são exercidos por representante designado por despacho conjunto do Ministro das Finanças e do Ministro das Obras Públicas, Transportes e Comunicações de entre os membros do conselho de administração da ANA - Aeroportos e Navegação Aérea, E. P.\n\nArt. 3.º O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração.\n\nArt. 4.º - 1 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer cargos ou funções na ANAM, S. A., em regime de requisição, conservando todos os direitos inerentes ao quadro de origem, incluindo antiguidade, reforma e outras regalias.\n\n2 - A situação dos trabalhadores da ANAM, S. A., que sejam chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o mandato ou tempo de requisição.\n\nArt. 5.º - 1 - É por esta forma convocada a assembleia geral da ANAM, S. A., a qual deve reunir na sede da sociedade até ao 30.º dia posterior à data da entrada em vigor deste diploma, com o objectivo de proceder à eleição dos membros dos órgãos sociais.\n\n2 - Até à data de posse dos titulares dos órgãos sociais da ANAM, S. A., o exercício das competências fixadas nos estatutos para os conselhos de administração e fiscal é atribuído ao conselho de gerência da ANA, E. P.\n\nArt. 6.º - 1 - É extinto o Gabinete dos Aeroportos da Região Autónoma da Madeira (GARAM), criado pelo [Decreto-Lei n.º 221/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1981-579740), de 17 de Julho, cuja designação foi definida pelo [Decreto-Lei n.º 137/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1986-228847), de 12 de Junho.\n\n2 - É transferida para a ANAM, S. A., a universalidade de direitos e obrigações de que o GARAM seja titular.\n\nArt. 7.º O presente decreto-lei entra em vigor simultaneamente com o diploma que outorgar a concessão da exploração dos aeroportos da Região Autónoma da Madeira à ANAM, S. A.\n\nVisto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 27 de Novembro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 29 de Novembro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nEstatutos"
+  },
+  "10cf80a9c112d0ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Denominação, objecto, duração e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Denominação, objecto, duração e sede\n\nArtigo 1.º A sociedade denomina-se ANAM - Aeroportos e Navegação Aérea da Madeira, S. A., adiante abreviadamente designada apenas por sociedade.\n\nArt. 2.º O objecto principal da sociedade consistirá no estudo, planeamento, construção e exploração dos aeroportos da Região Autónoma da Madeira.\n\nArt. 3.º A duração da sociedade é por tempo indeterminado e a sua sede situa-se na Rua do Dr. Pestana Júnior, Campo da Barca, Funchal."
+  },
+  "d38d18869f910df4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Capital social\n\nArt. 4.º O capital inicial é de 50000000$00, integralmente realizado em dinheiro pelo Estado, no montante de 40000000$00 e pela Região Autónoma da Madeira, no montante de 10000000$00, encontrando-se representado por acções nominativas com o valor nominal de 1000000$00 cada uma."
+  },
+  "8ede5e41d379e752": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Órgãos sociais\n\nArt. 5.º Os órgãos da sociedade são os seguintes:\n\na) A assembleia geral;\n\nb) O conselho de administração;\n\nc) O conselho fiscal.\n\nArt. 6.º - 1 - A assembleia geral é constituída por todos os accionistas.\n\n2 - A cada 100 acções corresponde um voto na assembleia geral.\n\n3 - Qualquer accionista pode fazer-se representar na assembleia geral mediante simples carta dirigida ao presidente da mesa, cabendo a este apreciar a autenticidade da mesma.\n\n4 - Os restantes accionistas que sejam pessoas colectivas devem indicar, por carta dirigida ao presidente da mesa, quem os representará na assembleia geral.\n\n5 - Nenhum accionista se poderá representar por duas ou mais pessoas.\n\nArt. 7.º - 1 - Compete à assembleia geral:\n\na) Apreciar o relatório do conselho de administração e discutir e votar o balanço, as contas e o parecer do conselho fiscal;\n\nb) Deliberar sobre a aplicação dos resultados do exercício;\n\nc) Eleger os titulares dos órgãos sociais;\n\nd) Deliberar sobre quaisquer alterações dos estatutos e aumentos de capital;\n\ne) Deliberar sobre as remunerações dos membros dos corpos sociais;\n\nf) Tratar de qualquer outro assunto para que tenha sido convocada.\n\n2 - As deliberações serão tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral, sempre que a lei não exija maior número.\n\nArt. 8.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, que é ainda constituída por um vice-presidente e um secretário, eleitos pela própria assembleia e cujas faltas serão supridas nos termos da lei comercial.\n\n2 - O mandato dos membros da mesa da assembleia geral é de três anos, renovável.\n\nArt. 9.º A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que os conselhos de administração ou fiscal o julguem necessário, ou quando a reunião seja requerida por accionistas que representem, pelo menos, 20% do capital.\n\nArt. 10.º - 1 - O conselho de administração é composto por um presidente e por dois ou quatro vogais, dos quais dois poderão ser eleitos sem funções executivas.\n\n2 - O mandato dos membros do conselho de administração é de três anos e é renovável.\n\n3 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidas pelo próprio conselho de administração até que a primeira assembleia geral sobre elas delibere definitivamente.\n\nArt. 11.º - 1 - Ao conselho de administração compete, além da prossecução das atribuições gerais que por lei lhe são conferidas:\n\na) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;\n\nb) Representar a sociedade em juízo e fora dele, activa e passivamente, podendo desistir, transigir e confessar em quaisquer pleitos e, bem assim, comprometer-se em convenções de arbitragem;\n\nc) Adquirir, vender ou por outra forma alienar ou onerar direitos;\n\nd) Estabelecer a organização técnico-administrativa da sociedade e as normas de funcionamento interno, designadamente sobre o pessoal e sua remuneração;\n\ne) Constituir mandatários com poderes que julgue convenientes, incluindo os de substabelecer.\n\n2 - O conselho de administração poderá delegar numa comissão executiva, ou em qualquer dos seus membros, alguns dos seus poderes.\n\nArt. 12.º - 1 - Compete especialmente ao presidente do conselho de administração:\n\na) Representar o conselho em juízo ou fora dele;\n\nb) Coordenar a actividade do conselho de administração e convocar e dirigir as respectivas reuniões;\n\nc) Exercer voto de qualidade;\n\nd) Zelar pela correcta execução das deliberações do conselho de administração.\n\n2 - Nas suas faltas ou impedimentos, o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.\n\nArt. 13.º - 1 - O conselho de administração deve reunir, pelo menos, uma vez por mês e sempre que seja convocado pelo presidente, por sua iniciativa ou a pedido de dois administradores.\n\n2 - O conselho de administração não poderá funcionar sem a presença da maioria dos seus membros em exercício, salvo por motivo de urgência, como tal expressamente reconhecida pelo presidente, caso em que os votos podem ser expressos por correspondência ou por procuração passada a outro administrador.\n\n3 - As deliberações do conselho de administração serão tomadas por maioria dos votos expressos, tendo o presidente, ou quem legalmente o substitua, voto de qualidade.\n\nArt. 14.º - 1 - A sociedade obriga-se:\n\na) Pela assinatura de dois membros do conselho de administração;\n\nb) Pela assinatura dos mandatários constituídos, no âmbito e nos termos do correspondente mandato.\n\n2 - Em assuntos de mero expediente bastará a assinatura de um administrador.\n\n3 - As acções e obrigações da sociedade devem ter a assinatura de dois administradores, podendo uma das assinaturas ser substituídas por simples reprodução mecânica ou chancela.\n\n4 - O conselho de administração poderá deliberar, dentro dos limites legais, que certos documentos da Sociedade sejam assinados por processos mecânicos ou chancela.\n\nArt. 15.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, proposto pelo Ministro das Finanças, composto por um presidente e dois vogais e eleito em assembleia geral.\n\n2 - Um dos vogais efectivos será revisor oficial de contas.\n\n3 - O mandato dos membros do conselho fiscal é de três anos, renovável.\n\nArt. 16.º Ao conselho fiscal compete, em especial:\n\na) Examinar, sempre que o julgue conveniente, a escrituração da sociedade;\n\nb) Acompanhar o funcionamento da instituição e o cumprimento das leis, dos estatutos e do regulamento que lhe são aplicáveis;\n\nc) Pedir a convocação extraordinária da assembleia geral sempre que o entenda conveniente;\n\nd) Examinar as situações periódicas apresentadas pelo conselho de administração durante a sua gerência;\n\ne) Emitir parecer acerca do orçamento, do balanço, do inventário e das contas anuais.\n\nArt. 17.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos estando presente a maioria dos membros em exercício."
+  },
+  "7398729b769f0ee6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias\n\nArt. 18.º Constituem receitas da sociedade as que resultem da prossecução do seu objecto, designadamente as correspondentes à concessão da exploração dos aeroportos da Região Autónoma da Madeira.\n\nArt. 19.º A sociedade está sujeita à fiscalização do Tribunal de Contas nas operações que estiverem directa ou indirectamente relacionadas com a construção e ampliação dos aeroportos da Região Autónoma da Madeira.\n\nArt. 20.º É obrigatória a realização de concursos públicos sempre que, em sede de trabalhos de construção civil nos aeroportos da Região Autónoma da Madeira, seja necessário recorrer a serviços externos.\n\nArt. 21.º - 1 - A sociedade dissolve-se nos casos e termos legais.\n\n2 - A liquidação da sociedade rege-se pelas disposições da lei e destes estatutos e pelas deliberações da assembleia geral."
+  },
+  "5d40ef30fe6e55dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1997-12-20",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 273/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1993-369428), publicado em 1993-08-04.",
+    "Alterado pelo/a [Decreto-Lei n.º 58/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1992-200002), publicado em 1992-04-13.",
+    "Alterado pelo/a [Decreto-Lei n.º 58/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1992-200002), publicado em 1992-04-13.",
+    "Aditado pelo/a [Decreto-Lei n.º 142/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1994-265553), publicado em 1994-05-23.",
+    "Aditado pelo/a [Lei n.º 127-B/97](https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563), publicado em 1997-12-20.",
+    "Aditado pelo/a [Decreto-Lei n.º 273/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1993-369428), publicado em 1993-08-04."
+   ],
+   "markdown": "de 11 de Dezembro\n\nTem sido preocupação do Governo dotar a Madeira de uma infra-estrutura aeroportuária capaz de acolher o tráfego aéreo que demanda a ilha, especialmente o oriundo da actividade turística, de importância estratégica fundamental para aquela região insular.\n\nAssim, pelo [Decreto-Lei n.º 221/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1981-579740), de 17 de Julho, foi criado o Gabinete do Aeroporto de Santa Catarina, que teve a seu cargo a gestão das obras relativas à 1.ª fase de ampliação daquele Aeroporto, fundamentalmente a construção de prolongamentos de segurança da pista e a ampliação da plataforma de estacionamento.\n\nA realização das obras de ampliação e melhoramentos no Aeroporto de Porto Santo, em estreita ligação com a NATO, levou a alargar, também ao Aeroporto de Porto Santo, as atribuições conferidas àquele Gabinete, o qual, pelo [Decreto-Lei n.º 137/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1986-228847), de 12 de Junho, passou a designar-se Gabinete para os Aeroportos da Região Autónoma da Madeira (GARAM).\n\nPor forma a garantir a operacionalidade de voos intercontinentais e respondendo a uma aspiração de longa data da Região, foi decidida a construção da 2.ª fase da amplicação da pista, projecto para o qual o Governo, após um longo e difícil processo de negociação, obteve uma comparticipação do FEDER de 75%, através do programa REGIS, destinado a iniciativas tendentes a minorar os problemas de desenvolvimento das regiões ultraperiféricas, cabendo, por se tratar de um bem do domínio público regional, à Região Autónoma da Madeira assegurar o remanescente financiamento que integra a comparticipação nacional do projecto.\n\nFace à especificidade técnica que naturalmente decorre da natureza da obra em causa, e ainda pelas necessárias implicações que a mesma vai ter na gestão corrente da pista já instalada, torna-se necessário criar uma empresa de serviços que, dotada do apetrechamento técnico especializado, possa, mediante concessão, encarregar-se da exploração das infra-estruturas aeroportuárias e promover as obras da sua ampliação.\n\nOuvidos os órgãos de governo próprio da Região Autónoma da Madeira:\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º - 1 - É criada a sociedade de capitais exclusivamente públicos ANAM - Aeroportos e Navegação Aérea da Madeira, S. A., abreviadamente designada por ANAM, S. A.\n\n2 - A ANAM, S. A., rege-se pela lei geral ou especial que lhe seja aplicável, pelo presente diploma e respectivos estatutos, que constituem o anexo ao presente diploma, do qual faz parte integrante.\n\n3 - A contracção de empréstimos pela ANAM, S. A., é precedida de autorização do Ministério das Finanças.\n\n> Alterado pelo/a [Decreto-Lei n.º 273/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1993-369428), publicado em 1993-08-04.\n\nArt. 2.º - 1 - O capital social da ANAM, S. A, é de 50000000$00 e encontra-se integralmente subscrito pelo Estado, em 60%, pela Região Autónoma da Madeira (RAM), em 20%, e pela ANA - Aeroportos e Navegação Aérea, E. P., em 20%.\n\n> Alterado pelo/a [Decreto-Lei n.º 58/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1992-200002), publicado em 1992-04-13.\n\n2 - As acções representativas do capital de que o Estado seja titular serão detidas pela Direcção-Geral do Tesouro e as da RAM pelo Governo Regional, através da Secretaria Regional das Finanças.\n\n3 - Os direitos do Estado, como accionista da sociedade, são exercidos por representante designado por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.\n\n> Alterado pelo/a [Decreto-Lei n.º 58/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1992-200002), publicado em 1992-04-13.\n\n4 - Em futuros aumentos de capital social, a participação do Estado poderá reduzir-se até atingir um mínimo de 10% enquanto a Região Autónoma da Madeira manterá uma participação fixa de 20%, sendo o restante subscrito e realizado pela ANA - Aeroportos e Navegação Aérea, E. P.\n\n> Aditado pelo/a [Decreto-Lei n.º 142/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1994-265553), publicado em 1994-05-23.\n\nArt. 3.º O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração.\n\nArt. 4.º - 1 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer cargos ou funções na ANAM, S. A., em regime de requisição, conservando todos os direitos inerentes ao quadro de origem, incluindo antiguidade, reforma e outras regalias.\n\n2 - A situação dos trabalhadores da ANAM, S. A., que sejam chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o mandato ou tempo de requisição.\n\nArt. 5.º - 1 - É por esta forma convocada a assembleia geral da ANAM, S. A., a qual deve reunir na sede da sociedade até ao 30.º dia posterior à data da entrada em vigor deste diploma, com o objectivo de proceder à eleição dos membros dos órgãos sociais.\n\n2 - Até à data de posse dos titulares dos órgãos sociais da ANAM, S. A., o exercício das competências fixadas nos estatutos para os conselhos de administração e fiscal é atribuído ao conselho de gerência da ANA, E. P.\n\nArt. 6.º - 1 - É extinto o Gabinete dos Aeroportos da Região Autónoma da Madeira (GARAM), criado pelo [Decreto-Lei n.º 221/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1981-579740), de 17 de Julho, cuja designação foi definida pelo [Decreto-Lei n.º 137/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1986-228847), de 12 de Junho.\n\n2 - É transferida para a ANAM, S. A., a universalidade de direitos e obrigações de que o GARAM seja titular.\n\nArtigo 6.º-A\n\n1 - São concedidos à ANAM - Aeroportos e Navegação Aérea da Madeira os seguintes benefícios fiscais:\n\na) Isenção de contribuição autárquica, desde que o interesse municipal seja reconhecido por deliberação da assembleia municipal da área de localização dos respectivos imóveis, o que vale como renúncia à correspondente receita;\n\nb) Isenção do imposto municipal de sisa e do imposto sobre sucessões e doações, desde que o interesse municipal seja reconhecido por deliberação da assembleia municipal da área de localização dos respectivos imóveis, o que vale como renúncia à correspondente receita;\n\nc) Isenção do imposto do selo previsto nos artigos 1, 50, 54, 92, 93, 94, 99, 100, 101, 102, 114, 120-A, 136, 149 e 167 da Tabela Geral do Imposto do Selo;\n\nd) Isenção de emolumentos notariais e de registo.\n\n2 - O regime de benefícios fiscais previsto no número anterior vigorará até ao termo do ano 2005.\n\n> Aditado pelo/a [Lei n.º 127-B/97](https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563), publicado em 1997-12-20.\n\nArt. 7.º O presente decreto-lei entra em vigor simultaneamente com o diploma que outorgar a concessão da exploração dos aeroportos da Região Autónoma da Madeira à ANAM, S. A.\n\nArt. 8.º As obras a realizar nos aeroportos da Região Autónoma da Madeira pela ANAM, S. A., estão sujeitas ao regime jurídico das empreitadas de obras públicas.\n\n> Aditado pelo/a [Decreto-Lei n.º 273/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1993-369428), publicado em 1993-08-04.\n\nVisto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 27 de Novembro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 29 de Novembro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nEstatutos"
+  },
+  "ba194aaeb638e534": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Capital social",
+   "in_force_from": "1997-12-20",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 58/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1992-200002), publicado em 1992-04-13."
+   ],
+   "markdown": "### CAPÍTULO II — Capital social\n\nArt. 4.º O capital social é de 50000000$00, integralmente realizado em dinheiro pelo Estado, no montante de 30000000$00, pela Região Autónoma da Madeira, no montante de 10000000$00, e pela ANA - Aeroportos e Navegação Aérea, E. P., no montante de 10000000$00, encontrando-se representado por acções nominativas com o valor nominal de 1000000$00 cada uma.\n\n> Alterado pelo/a [Decreto-Lei n.º 58/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1992-200002), publicado em 1992-04-13."
+  }
+ }
+}

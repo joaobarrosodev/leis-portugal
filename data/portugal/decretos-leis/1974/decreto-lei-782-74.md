@@ -28,10 +28,36 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-05-30'
+version_history:
+  file: decreto-lei-782-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-05-30'
+    amending: pt:dre:335950:por
+    amending_title: Decreto-Lei n.º 269/75
+    changes:
+    - Altera Artigo unidades 26-26
+    - Altera Artigo unidades 29-29
+    - Adita Artigo depois da unidade 45
+    - Altera Artigo unidades 47-47
+    - Adita Artigo depois da unidade 47
+    - Altera Artigo unidades 51-55
+    - Adita Artigo depois da unidade 60
+    - Altera Artigo unidades 73-78
+    - Altera Artigo unidades 79-79
+    - Altera Artigo unidades 81-82
+    - Altera Artigo unidades 95-95
+    - Altera Artigo unidades 97-97
+    - Altera Artigo unidades 101-101
 identifiers:
   celex: null
   eli: null
@@ -57,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:37:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 269/75. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-782-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -167,13 +194,17 @@ REGULAMENTO DO IMPOSTO SOBRE VEÍCULOS
 
 Artigo 1.º - 1. O imposto sobre veículos incide sobre o uso e fruição dos veículos a seguir mencionados, matriculados ou registados no território do continente e ilhas adjacentes, ou, quando não sujeitos a essas formalidades, logo que, decorridos cento e oitenta dias a contar da sua entrada no mesmo território, venham a circular ou a ser usados em condições normais da sua utilização:
 
-a) Automóveis ligeiros, de passageiros ou mistos;
+a) Automóveis ligeiros, de passageiros ou mistos, e motociclos de passageiros com ou sem carro;
+
+> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
 
 b) Aeronaves de uso particular;
 
 c) Barcos de recreio de uso particular.
 
-2. A matrícula ou o registo a que se refere o n.º 1 é o que, conforme o caso, deva ser efectuado nos serviços competentes de Viação, da Aeronáutica Civil e da Marinha Mercante.
+2. A matrícula ou o registo a que se refere o n.º 1 é o que, conforme o caso, deva ser efectuado nos serviços competentes de viação, da aeronáutica civil, da marinha mercante e dos serviços hidráulicos.
+
+> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
 
 3. Consideram-se potencialmente em uso os veículos automóveis que circulem pelos seus próprios meios ou estacionem nas vias ou recintos públicos e os barcos de recreio e as aeronaves desde que sejam detentores dos certificados de navegabilidade, devidamente válidos.
 
@@ -207,9 +238,23 @@ f) As organizações estrangeiras ou internacionais, nos termos de acordos celeb
 
 g) Os militares abrangidos pelo [Decreto-Lei n.º 210/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1973-421985), de 9 de Maio, cujo grau de invalidez seja igual ou superior a 60%.
 
+h) Outros deficientes cujo grau de invalidez seja igual ou superior a 60%, nos termos do n.º 4 deste artigo.
+
+> Aditado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
+
 2. Na hipótese da alínea c) do número anterior, a mera aprovação dos estatutos não confere, só por si, isenção deste imposto, devendo cada caso ser submetido à apreciação do Secretário de Estado do Orçamento, que, ouvida a Direcção-Geral das Contribuições e Impostos, e conforme as circunstâncias, definirá, em despacho, a amplitude da respectiva isenção; é dispensado este condicionalismo relativamente a isenções concedidas em anos anteriores.
 
-3. A isenção referida na alínea g) do n.º 1 não pode ser fruída, por cada beneficiário, em relação a mais de um veículo.
+3. As isenções previstas nas alíneas g) e h) do n.º 1 não podem ser fruídas por cada beneficiário em relação a mais de um veículo, devendo o grau de invalidez ser comprovado por documento emitido por entidade competente para o efeito.
+
+> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
+
+4. A isenção prevista na alínea h) do n.º 1 respeita apenas aos seguintes veículos, cuja propriedade esteja registada em nome do beneficiário:
+
+a) Automóveis compreendidos nos grupos A, B e C da tabela I do n.º 1, alínea a), do artigo 8.º;
+
+b) Motociclos compreendidos nos grupos G a I da tabela II do n.º 1, alínea b), do mesmo artigo.
+
+> Aditado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
 
 Art. 6.º - 1. Ficam igualmente isentos de imposto:
 
@@ -217,15 +262,17 @@ a) Os automóveis utilizados em serviço público e como tal averbados no respec
 
 b) As aeronaves de instrução e treino quando propriedade de escolas e aeroclubes cujo funcionamento esteja autorizado pela Direcção-Geral da Aeronáutica Civil;
 
-c) As aeronaves concebidas ou preparadas para apoio à agricultura e silvicultura, à prospecção geológica e mineira e aos serviços de incêndio, quando autorizados pela Direcção-Geral da Aeronáutica Civil e exclusivamente utilizadas nos indicados trabalhos;
+c) As aeronaves concebidas ou preparadas para (trabalho aéreo» (aerial-work), quando autorizadas pela Direcção-Geral da Aeronáutica Civil e exclusivamente utilizadas em actividades no âmbito do «trabalho aéreo»;
 
-d) Os barcos a remos;
+d) As aeronaves sem motor e os barcos de arqueação bruta até 2 t sem motor ou com motor de potência não excedente a 25 H. P.;
 
-e) Os barcos à vela, de arqueação bruta até 2 t, sem motor ou com motor auxiliar de potência não excedente a 20 HP;
+e) Os barcos, com ou sem motor, pertencentes a clubes náuticos cuja actividade esteja autorizada pela entidade competente;
 
-f) Os barcos a motor, de arqueação bruta até 0,5 t, desde que a potência do motor não exceda 20 HP;
+f) Os barcos, com ou sem motor, com arqueação bruta não superior a 10 t construídos pelo seu proprietário;
 
-g) Os barcos, com ou sem motor, pertencentes a clubes náuticos cujo funcionamento esteja autorizado pela entidade competente;
+g) Os barcos, com ou sem motor, com arqueação bruta não superior a 20 t, transformados a partir de embarcações de pesca, de comércio, salva-vidas ou de sucata;
+
+> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
 
 h) Os veículos que, tendo mais de 20 anos e constituindo peças de museus públicos, só ocasionalmente sejam usados em condições normais da sua utilização;
 
@@ -236,6 +283,12 @@ i) No ano da aquisição, os veículos novos adquiridos posteriormente a 30 de S
 a) Os automóveis novos destinados a venda; e, no período que anteceder o licenciamento, os automóveis novos adquiridos para aluguer;
 
 b) Os automóveis antigos detentores de certificado de autenticidade e de placa de homologação concedidos pelo Clube Português de Automóveis Antigos, quando ocasionalmente circulem para conservação da sua mecânica ou participem em manifestações desportivas ou cortejos.
+
+3. A isenção prevista na alínea f) do n.º 1 será concedida mediante a apresentação de documento, emitido pelos serviços competentes da Inspecção-Geral de Navios, comprovativo de a embarcação ter sido construída pelo próprio («autoconstrução»).
+
+4. Para efeitos da isenção estabelecida na alínea g) do n.º 1 e da redução do imposto prevista na tabela IV do n.º 1, alínea d), do artigo 8.º, deverá ser apresentado documento comprovativo da transformação do barco, emitido pelos serviços a que se refere o número anterior.
+
+> Aditado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
 
 Art. 7.º - 1. A isenção do imposto será concedida pela repartição de finanças do concelho ou bairro da área da residência ou sede da entidade interessada, mediante requisição escrita, devendo ser exibidos, para o efeito, o título de propriedade e o livrete ou certificado de registo ou matrícula do veículo, bem como, no caso da alínea i) do n.º 1 do artigo 6.º, o documento a que se refere o artigo 15.º
 
@@ -261,25 +314,37 @@ TABELA I
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf)
 
-b) Para aeronaves:
+b) Para motociclos:
 
 TABELA II
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/05/12400/07500752.pdf)
 
-c) Para barcos de recreio:
+c) Para aeronaves:
 
 TABELA III
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/05/12400/07500752.pdf)
 
-2. A antiguidade dos automóveis e dos barcos de recreio será reportada a 1 de Janeiro do ano a que respeita o imposto e contada por anos civis, incluindo, quanto aos automóveis, o ano da matrícula constante do respectivo livrete e, quanto aos barcos, o da construção indicado no título de registo.
+d) Para barcos de recreio:
+
+TABELA IV
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/05/12400/07500752.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
+
+2. A antiguidade dos automóveis e motociclos e dos barcos de recreio será reportada a 1 de Janeiro do ano a que respeita o imposto e contada por anos civis, incluindo, quanto aos automóveis e motociclos, o ano da matrícula constante do respectivo livrete e, quanto aos barcos, o do registo constante do respectivo título.
+
+> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
 
 3. A antiguidade dos veículos usados, inicialmente matriculados ou registados no ultramar ou no estrangeiro e que só posteriormente recebam matrícula ou registo no continente e ilhas adjacentes, poderá ser determinada pela data da matrícula ou registo iniciais se for feita prova dessa formalidade através do correspondente livrete ou título de registo ou, na sua falta, de outro documento bastante.
 
-4. Os veículos que, segundo o livrete e o título de registo, estejam simultaneamente classificados como automóveis e barcos de recreio ficam sujeitos às taxas da tabela I ou da tabela III, conforme as que produzirem maior imposto.
+4. Os automóveis que, segundo o livrete e o título de registo, estejam simultaneamente classificados como automóveis e barcos de recreio ficam sujeitos às taxas da tabela I ou da tabela IV, conforme as que produzirem maior imposto.
 
-5. A alteração da cilindrada do motor dos automóveis não implica correcção do imposto já pago respeitante ao ano em que a alteração se verificar.
+5. A alteração da cilindrada ou do combustível utilizado pelos automóveis e motociclos e, bem assim, da potência da propulsão dos barcos de recreio não implica correcção do imposto já pago, respeitante ao ano em que a alteração se verificar.
+
+> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
 
 ### CAPÍTULO IV — Liquidação e cobrança
 
@@ -305,11 +370,15 @@ Art. 10.º - 1. Os dísticos modelo n.º 4, comprovativos do pagamento do impost
 
 Art. 11.º - 1. O imposto relativo a aeronaves e a barcos de recreio será pago na tesouraria da Fazenda Pública do concelho ou bairro da área da residência ou sede do contribuinte, quando situada no território do continente e ilhas adjacentes, ou, sendo fora deste território, em qualquer outra tesouraria, mediante a guia modelo n.º 5, a processar na respectiva repartição de finanças.
 
-2. O processamento da guia será solicitado pelo contribuinte, devendo para o efeito ser exibido o título de matrícula ou registo do veículo.
+2. O processamento da guia será solicitado pelo contribuinte, devendo para o efeito ser exibido o título de matrícula ou registo do veículo e, no caso das aeronaves, também o certificado de navigabilidade.
+
+> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
 
 ### CAPÍTULO V — Fiscalização
 
-Art. 12.º - 1. O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades e, em especial, pelo pessoal das Direcções-Gerais das Contribuições e Impostos, de Transportes Terrestres, de Viação e das Alfândegas, da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Guarda Fiscal, das conservatórias do registo comercial e de automóveis, das capitanias dos portos e da Polícia Marítima e, bem assim, pelo pessoal privativo dos serviços de estradas e dos aeroportos.
+Art. 12.º - 1. O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades e, em especial, pelo pessoal das Direcções-Gerais das Contribuições e Impostos, de Transportes Terrestres, de Viação, dos Serviços Hidráulicos e das Alfândegas, da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Guarda Fiscal, das conservatórias do registo comercial e de automóveis, das capitanias dos portos e da Polícia Marítima e, bem assim, pelo pessoal privativo dos serviços de estradas e dos aeroportos.
+
+> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
 
 2. Os funcionários a quem incumbe a fiscalização prevista no número anterior, sempre que verifiquem qualquer transgressão dos preceitos estabelecidos neste diploma e quando para tal tenham competência, deverão levantar o respectivo auto de notícia, que, nos termos e para os efeitos do Código de Processo das Contribuições e Impostos, será remetido ao chefe da repartição de finanças do concelho ou bairro da área da residência ou sede do infractor.
 
@@ -317,7 +386,13 @@ Art. 12.º - 1. O cumprimento das obrigações impostas por este diploma será f
 
 Art. 13.º - 1. O condutor de veículos sujeitos a imposto, mesmo quando dele isentos, com excepção dos referidos no n.º 4 do artigo 7.º, será obrigatoriamente portador, conforme o caso, da guia de pagamento do imposto, do título de isenção, da nota de registo modelo n.º 6 ou da certidão a que se refere o n.º 1 do artigo 31.º, documentos que deverão ser exibidos sempre que sejam solicitados por qualquer das entidades mencionadas no n.º 1 do artigo anterior.
 
-2. Os dísticos modelos n.os 2, 4 e 7 serão obrigatoriamente afixados em local bem visível do exterior, no canto superior direito do pára-brisas do automóvel a que respeitem, depois de inscritas no verso, pelo interessado, a marca e a matrícula do veículo.
+2. Os dísticos modelos n.os 2, 4 e 7, depois de inscritas no verso, de forma indelével, a tinta ou esferográfica, a marca e a matrícula do veículo, serão obrigatoriamente afixados ou colocados:
+
+a) Nos automóveis - no canto superior direito do pára-brisas e em lugar bem visível do exterior;
+
+b) Nos motociclos - à frente, do lado direito, em lugar visível e preservados da humidade, devendo para o efeito ser utilizados suportes apropriados.
+
+> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
 
 Art. 14.º - 1. Os pedidos de revalidação dos certificados de navegabilidade de aeronaves ou de barcos de recreio não poderão ter seguimento sem que seja exibido à respectiva entidade o documento comprovativo do pagamento ou da isenção do imposto relativo ao ano em que o pedido for apresentado.
 

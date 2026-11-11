@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1968-12-07'
+version_history:
+  file: decreto-47951.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-09-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1968-12-07'
+    amending: pt:dre:262653:por
+    amending_title: Decreto n.º 48751
+    changes:
+    - Adita Artigo depois da unidade 461
+    - Adita Artigo depois da unidade 462
+    - Adita Artigo depois da unidade 599
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:58:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 48751. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1967/decreto-47951.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1036,7 +1053,17 @@ d) Assistentes livres;
 
 e) Pessoal assalariado, nos termos da lei geral.
 
+f) Pessoal eventual.
+
+> Aditado pelo/a [Decreto n.º 48751](https://diariodarepublica.pt/dr/detalhe/decreto/48751-1968-262653), publicado em 1968-12-07.
+
 2. O número de primeiros e segundos-assistentes será o que constar do respectivo orçamento, precedendo proposta do conselho escolar.
+
+3. Quando trabalhos eventuais ou urgentes o justifiquem, poderá o director da Escola admitir, em regime de assalariamento e segundo as disposições legais em vigor, pessoal estranho aos quadros, o qual será dispensado logo que cesse o motivo da admissão.
+
+A remuneração daquele pessoal não poderá exceder a estabelecida para o pessoal do quadro de igual categoria.
+
+> Aditado pelo/a [Decreto n.º 48751](https://diariodarepublica.pt/dr/detalhe/decreto/48751-1968-262653), publicado em 1968-12-07.
 
 ### CAPÍTULO II — Do recrutamento e provimento
 
@@ -1311,6 +1338,10 @@ Art. 199.º - 1. Transitam para a Escola Nacional de Saúde Pública e de Medici
 2. Anualmente serão inscritas no orçamento privativo da Escola as verbas necessárias para o pagamento dos encargos com o empréstimo referido no número anterior, a satisfazer por conta das receitas referidas no artigo 72.º do [Decreto n.º 38034](https://diariodarepublica.pt/dr/detalhe/decreto/38034-1950-486516), de 7 de Dezembro de 1950, e no artigo 73.º, § 3.º, do [Decreto n.º 41968](https://diariodarepublica.pt/dr/detalhe/decreto/41968-1958-339383), de 22 de Novembro de 1958.
 
 Art. 200.º Os assuntos do Instituto de Medicina Tropical que se encontravam pendentes à data de 31 de Dezembro do ano findo continuarão a ser tratados com a Escola Nacional de Saúde Pública e de Medicina Tropical.
+
+Art. 201.º (transitório). O pessoal que tem vindo a prestar serviço desde 1 de Janeiro de 1968 deverá ser abonado dos respectivos salários a partir daquela data.
+
+> Aditado pelo/a [Decreto n.º 48751](https://diariodarepublica.pt/dr/detalhe/decreto/48751-1968-262653), publicado em 1968-12-07.
 
 Publique-se e cumpra-se como nele se contém.
 

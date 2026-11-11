@@ -30,10 +30,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-09-11'
+version_history:
+  file: decreto-lei-44131.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-09-11'
+    amending: pt:dre:329820:por
+    amending_title: Decreto-Lei n.º 284/78
+    changes:
+    - Altera Artigo unidades 202-202
+    - Altera Artigo unidades 204-204
 identifiers:
   celex: null
   eli: null
@@ -59,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:39:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 284/78. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1961/decreto-lei-44131.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -544,11 +560,17 @@ Art. 51.º As pessoas de família assistidas que pela direcção da Assistência
 
 Art. 52.º Os militares propostos para a junta da Assistência aos Tuberculosos das Forças Armadas, nos termos dos artigos 49.º e 50.º, serão por esta julgados:
 
-a) Prontos para o serviço;
+a) Prontos para todo o serviço;
+
+> Alterado pelo/a [Decreto-Lei n.º 284/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1978-329820), publicado em 1978-09-11.
 
 b) Aptos para serviços moderados;
 
-c) Incapazes de todo o serviço.
+c) Incapazes do serviço activo;
+
+d) Incapazes de todo o serviço.
+
+> Alterado pelo/a [Decreto-Lei n.º 284/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1978-329820), publicado em 1978-09-11.
 
 Art. 53.º Consideram-se serviços moderados para efeito do disposto neste estatuto:
 
