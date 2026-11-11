@@ -28,10 +28,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-23'
+version_history:
+  file: portaria-1449-2001-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-08-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-23'
+    amending: pt:dre:3228004:por
+    amending_title: Portaria n.º 1079/2009
+    changes:
+    - Altera Artigo unidades 6-6
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 11-11
+    - Altera Artigo unidades 17-19
 identifiers:
   celex: null
   eli: null
@@ -57,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:17:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1079/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2001/portaria-1449-2001-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -107,17 +125,23 @@ Com fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](htt
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1 - O Conselho Cinegético Municipal de Vila Pouca de Aguiar é constituído pelos seguintes vogais:
+1.º O Conselho Cinegético Municipal de Vila Pouca de Aguiar é constituído pelos seguintes vogais:
+
+> Alterado pelo/a [Portaria n.º 1079/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1079-2009-3228004), publicado em 2009-10-23.
 
 Representantes dos caçadores:
 
-Nélson Teixeira Machado.
+Nélson Teixeira Machado;
+
+> Alterado pelo/a [Portaria n.º 1079/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1079-2009-3228004), publicado em 2009-10-23.
 
 Maximiano Fernando Paços Gonçalves.
 
 Representantes dos agricultores:
 
-Abílio Ribeiro da Costa.
+Abílio Ribeiro da Costa;
+
+> Alterado pelo/a [Portaria n.º 1079/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1079-2009-3228004), publicado em 2009-10-23.
 
 Guilherme Chaves Carocha.
 
@@ -129,11 +153,13 @@ Autarca de freguesia:
 
 Rui Sousa.
 
-Representante da Direcção Regional de Agricultura de Trás-os-Montes:
+Representante da Autoridade Florestal Nacional:
 
-Maria Arlete dos Prazeres.
+Maria João Martins Gonçalves Pinheiro.
 
-Representante do Instituto da Conservação da Natureza:
+Representante do Instituto da Conservação da Natureza e da Biodiversidade:
+
+> Alterado pelo/a [Portaria n.º 1079/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1079-2009-3228004), publicado em 2009-10-23.
 
 José Manuel Figueiredo Duarte Nascimento.
 

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6.º Esta cessão fica sujeita à cláusula de reversão, nos termos do artigo 2.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a qual terá que ser registada na Conservatória do Registo Predial, como ónus, devendo ao imóvel ser conferido o destino que fundamenta a cessão no prazo máximo de dois anos.",
+    "depois": "6.º Esta cessão fica sujeita à clausula de reversão, nos termos do artigo 2.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a qual terá que ser registada na Conservatória do Registo Predial, como ónus, devendo as obras ter início no prazo máximo de 3 anos a contar da data de assinatura do auto de cessão definitiva, e concluídas no prazo de 5 anos a contar do seu início",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3346002:por",
+    "alterador": "pt:dre:1820297:por"
+  }
+]

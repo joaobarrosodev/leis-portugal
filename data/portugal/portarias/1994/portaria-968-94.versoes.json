@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:621152:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-10-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "aa834bbbab760917",
+    "05f78c883131c0a4",
+    "f0db6bd793de4684",
+    "e76dee160058b9ad",
+    "da53a80c9cb3db5c",
+    "fbff01a2635e0abb",
+    "425292c9d04e1e2f",
+    "6165214b77b23786",
+    "536cc25d188a004d"
+   ]
+  },
+  {
+   "date": "2000-10-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:532459:por",
+     "title": "Decreto-Lei n.º 256/2000",
+     "published": "2000-10-17",
+     "dre_path": "/dr/detalhe/decreto-lei/256-2000-532459"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-22"
+   ],
+   "fragments": [
+    "aa834bbbab760917",
+    "05f78c883131c0a4",
+    "0292cc8b17f592a1",
+    "e76dee160058b9ad",
+    "da53a80c9cb3db5c",
+    "fbff01a2635e0abb",
+    "425292c9d04e1e2f",
+    "6165214b77b23786",
+    "536cc25d188a004d"
+   ]
+  }
+ ],
+ "fragments": {
+  "aa834bbbab760917": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Outubro\n\nO Decreto-Lei n.º 232/94, de 14 de Setembro, em cumprimento das Directivas do Conselho n.os [91/173/CEE](https://data.europa.eu/eli/dir/1991/173/oj?locale=pt), de 21 de Março, [91/338/CEE](https://data.europa.eu/eli/dir/1991/338/oj?locale=pt) e [91/339/CEE](https://data.europa.eu/eli/dir/1991/339/oj?locale=pt), de 18 de Junho, estabelece as regras que limitam a comercialização e utilização de determinadas substâncias e preparações perigosas, remetendo para portaria as normas técnicas necessárias à sua execução.\n\nAssim:\n\nAo abrigo do artigo 2.º do Decreto-Lei n.º 232/94, de 14 de Setembro:\n\nManda o Governo, pelo Ministro da Indústria e Energia, o seguinte:"
+  },
+  "05f78c883131c0a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Objecto e âmbito\n\n1.º A presente portaria tem por objecto estabelecer as limitações da colocação no mercado e da utilização das substâncias indicadas no anexo à presente portaria, bem como das preparações e produtos que as contenham, nas condições definidas nos capítulos seguintes."
+  },
+  "f0db6bd793de4684": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Pentaclorofenol, seus sais e ésteres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Pentaclorofenol, seus sais e ésteres\n\n2.º É proibida a colocação no mercado e a utilização de substâncias e preparações cuja concentração em pentaclorofenol, seus sais e ésteres seja igual ou superior a 0,1% em massa.\n\n3.º Exceptuam-se do disposto no artigo anterior as substâncias e preparações destinadas a serem utilizadas exclusivamente em instalações industriais que não permitam a emissão e ou a rejeição de pentaclorofenol (PCP) em quantidade superior à legalmente estabelecida na legislação em vigor e com os fins seguintes:\n\na) Tratamento de madeiras, com excepção das destinadas à utilização:\n\nNo interior de edifícios;\n\nNa fabricação ou manutenção quer de contentores destinados a culturas quer de embalagens que, entrando em contacto com outros materiais, possam contaminar produtos em bruto, intermédios ou acabados, destinados à alimentação humana ou animal;\n\nb) Impregnação de fibras e de têxteis pesados não destinados à confecção de vestuário ou à utilização em mobiliário com fins decorativos;\n\nc) Como agente de síntese e ou de transformação em processos industriais.\n\n4.º Mediante autorização a conceder pela Direcção-Geral da Indústria, os produtos a que se reporta o n.º 2.º podem ser utilizados no tratamento curativo dos materiais em madeira e pedra atacados por podridão seca (serpula lacrymans) e podridão cúbica, quando realizados in situ, por profissionais especializados, nos seguintes casos:\n\na) Em edifícios classificados ou em vias de classificação;\n\nb) Noutros edifícios, em casos de urgência.\n\n5.º O pentaclorofenol, seus sais e ésteres, bem como suas preparações, só podem ser utilizados nas aplicações identificadas nos artigos 3.º e 4.º desde que:\n\nTenham um teor de hexaclorodibenzoparadioxina (H6CDD) inferior a quatro partes por milhão (ppm);\n\nSejam vendidos a utilizadores industriais e profissionais e em embalagens com capacidade igual ou superior a 20 l, cujo rótulo ostente, de modo legível e indelével, a expressão «Reservado aos utilizadores industriais e profissionais», sem prejuízo do disposto nos Decretos-Leis n.os 280-A/87, de 17 de Julho, e 120/92, de 30 de Junho, e na Portaria n.º 1164/92, de 18 de Dezembro."
+  },
+  "e76dee160058b9ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Cádmio e seus compostos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Cádmio e seus compostos"
+  },
+  "da53a80c9cb3db5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Corantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Corantes\n\n6.º - 1 - É proibido o uso do cádmio e seus compostos para corar os produtos acabados fabricados a partir das substâncias e preparações a seguir enumeradas:\n\nCloreto de polivinilo;\n\nPoliuretano;\n\nPolietileno de baixa densidade, com excepção do que é utilizado na produção de concentrados de cor master-batch;\n\nAcetato de celulose;\n\nAcetobutirato de celulose;\n\nResina epoxi.\n\n2 - Independentemente da utilização ou destino final, é proibida a colocação no mercado dos produtos acabados e dos componentes dos produtos fabricados a partir das substâncias e preparações mencionadas no número anterior coradas com cádmio se o seu teor de cádmio, expresso em Cd metal, for superior a 0,01% em massa de matéria plástica.\n\n7.º - 1 - É proibido o uso do cádmio ou seus compostos para corar os produtos acabados fabricados a partir das substâncias e preparações seguintes:\n\nResina de melamina-formaldeído;\n\nResina de ureia-formaldeído;\n\nPoliester insaturado;\n\nTereftalato de polietileno;\n\nTereftalato de polibutileno;\n\nPoliestireno cristal/standard;\n\nMetacrilato de metilo acrilonitrilo;\n\nPolietileno reticulado;\n\nPoliestireno impacte/choque;\n\nPolipropileno.\n\n2 - Independentemente da utilização ou destino final, é proibida a colocação no mercado dos produtos acabados e dos componentes dos produtos fabricados a partir das substâncias e preparações mencionadas no número anterior, coradas com cádmio, se o seu teor de cádmio, expresso em Cd metal, for superior a 0,01% em massa de matéria plástica.\n\n8.º - 1 - É proibido o uso do cádmio e seus compostos para corar tintas.\n\n2 - Independentemente da utilização ou destino final, é proibida a colocação no mercado das tintas ou dos seus componentes se o seu teor em cádmio, expresso em Cd metal, for superior a 0,01% em massa. Contudo, se as tintas contiverem um elevado teor de zinco as suas concentrações residuais em cádmio não devem ultrapassar 0,1% em massa.\n\n9.º O disposto nos n.os 6.º, 7.º e 8.º não se aplica aos produtos destinados a serem corados por razões de segurança."
+  },
+  "fbff01a2635e0abb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Estabilizantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Estabilizantes\n\n10.º - 1 - É proibido o uso do cádmio e seus compostos para estabilizar os seguintes produtos acabados fabricados com base em polímeros e co-polímeros de cloreto de vinilo:\n\nArtigos de embalagem, tais como sacos, garrafas, tampas;\n\nArtigos de escritório e escolares;\n\nGuarnições para móveis, carroçarias ou similares;\n\nVestuário e seus acessórios (incluindo luvas);\n\nRevestimentos de pavimentos e paredes;\n\nTecidos impregnados, revestidos, recobertos ou estratificados;\n\nArtigos em couros sintéticos;\n\nDiscos de música;\n\nTubagem e acessórios de união;\n\nPortas oscilantes do tipo saloon;\n\nVeículos para o transporte rodoviário (interior, exterior e partes da carroçaria);\n\nRevestimentos das chapas de aço utilizadas na construção ou na indústria;\n\nIsolamento de cabos eléctricos.\n\n2 - Independentemente da sua utilização ou destino final, é proibida a colocação no mercado dos produtos acima enumerados e dos componentes desses produtos, fabricados a partir dos polímeros e co-polímeros de cloreto de vinilo estabilizados por meio de substâncias que contenham cádmio, se o seu teor em cádmio, expresso em Cd metal, for superior a 0,01% em massa do polímero.\n\n11.º O disposto no n.º 10.º não se aplica aos produtos acabados que utilizem estabilizantes à base de cádmio por razões de segurança."
+  },
+  "425292c9d04e1e2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Cadmiagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Cadmiagem\n\n12.º Para os efeitos do presente diploma, entende-se por tratamento de superfície com cádmio -cadmiagem- qualquer depósito ou revestimento de cádmio metálico numa superfície metálica.\n\n13.º - 1 - É proibida a cadmiagem dos produtos ou componentes dos produtos utilizados nos sectores/aplicações enumerados a seguir:\n\na) Equipamentos e máquinas para:\n\nA indústria alimentar;\n\nA agricultura;\n\nA refrigeração e a congelação;\n\nA tipografia e a imprensa;\n\nb) Equipamentos e máquinas para a produção de:\n\nAparelhos e acessórios de uso doméstico;\n\nMobiliário;\n\nInstalações sanitárias;\n\nAquecimento central e ar condicionado.\n\n2 - Independentemente da utilização ou destino final, é proibida a colocação no mercado dos produtos acabados cadmiados ou dos componentes desses produtos cadmiados utilizados nos sectores/aplicações enumerados nas alíneas a) e b), bem como dos produtos manufacturados dos sectores referidos na alínea b) do número anterior.\n\n14.º - 1 - É proibida a cadmiagem dos produtos ou componentes desses produtos utilizados nos seguintes sectores/aplicações:\n\na) Equipamentos e máquinas para a produção de:\n\nPapel e cartão;\n\nTêxteis e vestuário;\n\nb) Equipamentos e máquinas para a produção de:\n\nEquipamentos ou meios de movimentação industrial;\n\nVeículos rodoviários, agrícolas e ferroviários;\n\nEmbarcações.\n\n2 - Independentemente da utilização ou destino final, é proibida a colocação no mercado dos produtos acabados cadmiados ou dos componentes desses produtos cadmiados utilizados nos sectores/aplicações enumerados nas alíneas a) e b) bem como dos produtos manufacturados dos sectores referidos na alínea b).\n\n15.º - O disposto nos n.os 13.º e 14.º não se aplica:\n\nAos produtos e componentes de produtos utilizados nos sectores aeronáutico, aerospacial, mineiro, offshore e nuclear, cujas aplicações requerem um elevado grau de segurança, assim como aos órgãos de segurança dos veículos rodoviários, agrícolas, ferroviários e embarcações;\n\nAos contactos eléctricos, sejam quais forem os seus sectores de utilização, a fim de garantir a fiabilidade da aparelhagem em que estão instalados."
+  },
+  "6165214b77b23786": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV\n\nMonometil-tetraclorodifenil-metano, monometil-diclorodifenil-metano e monometil-dibromo-difenil-metano.\n\n16.º - 1 - É proibida a colocação no mercado e a utilização do monometil-tetraclorodifenil-metano, designado comercialmente por Ugilec 141, bem como das preparações e produtos que o contenham. Esta disposição não se aplica às instalações fabris e máquinas já em funcionamento àquela data, até à sua desactivação ou para efeitos da respectiva manutenção.\n\n2 - É proibida a colocação no mercado de produtos em 2.ª mão da substância referida no n.º 1, bem como de preparações e de instalações fabris ou de máquinas que a contenham.\n\n17.º - É proibida a colocação no mercado e a utilização do monometil-diclorodifenil-metano, designado comercialmente por Ugilec 121 ou Ugilec 21, bem como das preparações e dos produtos que a contenham.\n\n18.º - É proibida a colocação no mercado e a utilização do monometil-dibromo-difenil-metano, designado comercialmente por DBBT, bem como das preparações e dos produtos que o contenham."
+  },
+  "536cc25d188a004d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais\n\n19.º - 1 - O disposto nos n.os 7.º e 8.º só produz efeitos a partir de 31 de Dezembro de 1995.\n\n2 - O disposto no artigo 14.º só produz efeitos a partir de 30 de Junho de 1995.\n\nMinistério da Indústria e Energia.\n\nAssinada em 29 de Setembro de 1994.\n\nPelo Ministro da Indústria e Energia, Luís Filipe da Conceição Pereira, Secretário de Estado da Energia.\n\nAnexo a que se refere o artigo 1.º\n\n1) Pentaclorofenol e seus sais e ésteres, número CAS 87-86-5;\n\n2) Cádmio e seus compostos, número CAS 7440-43-9;\n\n3) Monometil-tetraclorodifenil-metano (designação comercial - Ugilec 141), número CAS 76253-60-6;\n\n4) Monometil-diclorodifenil-metano (designação comercial - Ugilec 121 ou Ugilec 21), número CAS desconhecido;\n\n5) Monometil-dibromo-difenil-metano (designação comercial - DBBT), número CAS 99688-47-8.\n\nCAS = Chemical Abstracts Service."
+  },
+  "0292cc8b17f592a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Pentaclorofenol, seus sais e ésteres",
+   "in_force_from": "2000-10-17",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 256/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2000-532459), publicado em 2000-10-17."
+   ],
+   "markdown": "### CAPÍTULO II — Pentaclorofenol, seus sais e ésteres\n\n2.º - (Revogado.)\n\n3.º - (Revogado.)\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 256/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2000-532459), publicado em 2000-10-17."
+  }
+ }
+}

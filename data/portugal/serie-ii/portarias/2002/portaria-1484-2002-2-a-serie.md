@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-03-10'
+version_history:
+  file: portaria-1484-2002-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-10-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-03-10'
+    amending: pt:dre:3400118:por
+    amending_title: Portaria n.º 313/2003 (2.ª série)
+    changes:
+    - Adita Artigo depois da unidade 25
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:28:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 313/2003 (2.ª série).
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2002/portaria-1484-2002-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -153,6 +168,10 @@ p) Ordem dos Arquitectos;
 q) Ordem dos Engenheiros;
 
 r) Associação Portuguesa de Projectistas e Consultores.
+
+s) Associação Nacional dos Engenheiros Técnicos.
+
+> Aditado pelo/a [Portaria n.º 313/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/313-2003-3400118), publicado em 2003-03-10.
 
 3.º Os representantes da Subcomissão, referida no artigo anterior, serão nomeados por despacho do Ministro das Obras Públicas, Transportes e Habitação.
 

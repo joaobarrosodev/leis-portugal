@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-04-16'
+version_history:
+  file: portaria-166-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-02-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-04-16'
+    amending: pt:dre:249832:por
+    amending_title: Portaria n.º 288/2008
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/166/2007/02/02/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:21:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 288/2008. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2007/portaria-166-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,7 +140,9 @@ Entretanto, a entidade concessionária veio requerer a sua renovação e ao mesm
 
 Cumpridos os preceitos legais, com fundamento no disposto nos artigos 11.º, 37.º e 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º, do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, e ouvido o Conselho Cinegético Municipal, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Pela presente portaria é renovada, por um período de 12 anos, com efeitos a partir do dia 28 de Novembro de 2006, a concessão da zona de caça associativa de Covões (processo n.º 463-DGRF), abrangendo vários prédios rústicos sitos na freguesia de Covões, município de Cantanhede, com a área de 1489 ha, o que exprime uma redução de área de 13 ha.
+1.º Pela presente portaria é renovada, por um período de 12 anos, renovável automaticamente e com efeitos a partir do dia 28 de Novembro de 2006, a concessão da zona de caça associativa de Covões (processo n.º 463-DGRF), abrangendo vários prédios rústicos sitos na freguesia de Covões, município de Cantanhede, com a área de 1489 ha, o que exprime uma redução de área de 13 ha.
+
+> Alterado pelo/a [Portaria n.º 288/2008](https://diariodarepublica.pt/dr/detalhe/portaria/288-2008-249832), publicado em 2008-04-11.
 
 2.º São anexados à presente zona de caça vários prédios rústicos sitos na freguesia de Covões, município de Cantanhede, com a área de 211 ha.
 

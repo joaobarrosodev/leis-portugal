@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:2681494:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-03-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8ccc1f5c6c254885"
+   ]
+  },
+  {
+   "date": "2009-12-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:2581694:por",
+     "title": "Portaria n.º 1278/2009",
+     "published": "2009-12-03",
+     "dre_path": "/dr/detalhe/portaria/1278-2009-2581694"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 13-13",
+    "Altera Artigo unidades 17-18"
+   ],
+   "fragments": [
+    "c567a9aec95eb2f9"
+   ]
+  }
+ ],
+ "fragments": {
+  "8ccc1f5c6c254885": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 476/2002 (2.ª série). - Pelo [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição política cinegética do conselho.\n\nDetermina o n.º 3 do artigo 154.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal de Celorico de Basto é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nJosé Álvaro Silveira Alves Ribeiro;\n\nVicente de Paulo Pinto da Cruz.\n\nRepresentantes dos agricultores:\n\nAntónio Joaquim Ribeiro Cerqueira;\n\nAntónio Augusto Gonçalves Santos.\n\nRepresentante das Associações de Defesa do Ambiente:\n\nJosé António Peixoto Lima.\n\nAutarca de freguesia:\n\nAvelino da Silva Campos.\n\nRepresentante da Direcção Regional de Agricultura de Entre Douro e Minho:\n\nJosé António da Costa Rodrigues Alves.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n26 de Fevereiro de 2002. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural."
+  },
+  "c567a9aec95eb2f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-12-03",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1278/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1278-2009-2581694), publicado em 2009-12-03.",
+    "Alterado pelo/a [Portaria n.º 1278/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1278-2009-2581694), publicado em 2009-12-03."
+   ],
+   "markdown": "Portaria n.º 476/2002 (2.ª série). - Pelo [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição política cinegética do conselho.\n\nDetermina o n.º 3 do artigo 154.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal de Celorico de Basto é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nJosé Álvaro Silveira Alves Ribeiro;\n\nVicente de Paulo Pinto da Cruz.\n\nRepresentantes dos agricultores:\n\nAntónio Joaquim Ribeiro Cerqueira;\n\nAntónio Augusto Gonçalves Santos.\n\nRepresentante das associações de defesa do ambiente:\n\n> Alterado pelo/a [Portaria n.º 1278/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1278-2009-2581694), publicado em 2009-12-03.\n\nJosé António Peixoto Lima.\n\nAutarca de freguesia:\n\nAvelino da Silva Campos.\n\nRepresentante da Autoridade Florestal Nacional:\n\nÁlvaro Manuel Vieira Gonçalves.\n\n> Alterado pelo/a [Portaria n.º 1278/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1278-2009-2581694), publicado em 2009-12-03.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n26 de Fevereiro de 2002. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural."
+  }
+ }
+}

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-11-20'
+version_history:
+  file: portaria-284-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-05-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-11-20'
+    amending: pt:dre:458213:por
+    amending_title: Portaria n.º 996/80
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:16:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 996/80. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-284-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -363,7 +378,9 @@ Nos termos do disposto no n.º 1 do artigo 20.º do [Decreto-Lei n.º 191-C/79](
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Indústria e Energia e pelo Secretário de Estado da Reforma Administrativa, o seguinte:
 
-1 - O quadro de pessoal da Secretaria-Geral, aprovado pelo [Decreto Regulamentar n.º 86/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/86-1977-279626), de 16 de Dezembro, conjugado com o quadro constante da [Portaria n.º 382/79](https://diariodarepublica.pt/dr/detalhe/portaria/382-1979-381529), de 31 de Julho, é substituído pelo quadro anexo I à presente portaria.
+1 - Os quadros II e III anexos ao [Decreto Regulamentar n.º 86/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/86-1977-279626), de 16 de Dezembro, bem como o quadro constante da [Portaria n.º 382/79](https://diariodarepublica.pt/dr/detalhe/portaria/382-1979-381529), de 31 de Julho, são substituídos pelo quadro anexo I à presente portaria.
+
+> Alterado pelo/a [Portaria n.º 996/80](https://diariodarepublica.pt/dr/detalhe/portaria/996-1980-458213), publicado em 1980-11-20.
 
 2 - O quadro de pessoal da Auditoria Jurídica, aprovado pelo [Decreto-Lei n.º 155/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1977-139956), de 14 de Abril, é substituído pelo quadro anexo II à presente portaria.
 

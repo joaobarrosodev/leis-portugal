@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-11-30'
+version_history:
+  file: resolucao-conselho-ministros-69-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-11-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-11-30'
+    amending: pt:dre:661527:por
+    amending_title: Declaração de Rectificação n.º 252/93
+    changes:
+    - Altera Artigo unidades 1-1
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/69/1993/11/26/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:32:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 252/93.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1993/resolucao-conselho-ministros-69-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -105,7 +120,9 @@ validation:
   errors: []
 ---
 
-# Resolução do Conselho de Ministros n.º 69/93
+# Resolução do Conselho de Ministros n.º 70/93
+
+> Alterado pelo/a [Declaração de Rectificação n.º 252/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/252-1993-661527), publicado em 1993-11-30.
 
 A [Resolução do Conselho de Ministros n.º 51/93](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/51-1993-346729), de 13 de Junho, institui o Programa Nacional de Ciência e Tecnologias do Espaço, cujos objectivos são o desenvolvimento das capacidades nacionais científicas, tenológicas e industriais no domínio aeroespacial, a coordenação dos aspectos multidisciplinadores, a promoção da adequada articulação entre o sistema científico e tecnológico, o aparelho produtivo e a rede comercial e ainda o enquadramento e articulação com os objectivos dos programas espaciais internacionais.
 

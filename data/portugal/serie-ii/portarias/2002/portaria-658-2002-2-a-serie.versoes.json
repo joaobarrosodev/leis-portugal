@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:817080:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-04-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b45950b767ff02fd"
+   ]
+  },
+  {
+   "date": "2009-11-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:2598671:por",
+     "title": "Portaria n.º 1146/2009",
+     "published": "2009-11-02",
+     "dre_path": "/dr/detalhe/portaria/1146-2009-2598671"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 17-20"
+   ],
+   "fragments": [
+    "782cd5fda0e5e2d5"
+   ]
+  }
+ ],
+ "fragments": {
+  "b45950b767ff02fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 658/2002 (2.ª série). - Pelo [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição política cinegética do concelho.\n\nDetermina o n.º 3 do artigo 154.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal de Nisa é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nMário Luís Maia Condessa.\n\nJosé António Louro Vicente.\n\nRepresentantes dos agricultores:\n\nRodrigo Manuel Rasquilho Vieira Babo.\n\nJoaquim José Parracho Ribeirinho.\n\nRepresentante das associações de defesa do ambiente:\n\nMiguel Pestana Bastos.\n\nAutarca de freguesia:\n\nFrancisco Miguéns de Almeida.\n\nRepresentante da Direcção Regional de Agricultura do Alentejo:\n\nJoão da Cruz Morgadinho Tremoço.\n\nRepresentante do Instituto da Conservação da Natureza:\n\nJoão Mário Vieira Pargana.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n4 de Abril de 2002. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural."
+  },
+  "782cd5fda0e5e2d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-11-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1146/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1146-2009-2598671), publicado em 2009-11-02."
+   ],
+   "markdown": "Portaria n.º 658/2002 (2.ª série). - Pelo [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição política cinegética do concelho.\n\nDetermina o n.º 3 do artigo 154.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal de Nisa é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nMário Luís Maia Condessa.\n\nJosé António Louro Vicente.\n\nRepresentantes dos agricultores:\n\nRodrigo Manuel Rasquilho Vieira Babo.\n\nJoaquim José Parracho Ribeirinho.\n\nRepresentante das associações de defesa do ambiente:\n\nMiguel Pestana Bastos.\n\nAutarca de freguesia:\n\nFrancisco Miguéns de Almeida.\n\nRepresentante da Autoridade Florestal Nacional:\n\nJoaquim Fernando Pinheiro Brito.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade:\n\nJoão Mário Vieira Pragana.\n\n> Alterado pelo/a [Portaria n.º 1146/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1146-2009-2598671), publicado em 2009-11-02.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n4 de Abril de 2002. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural."
+  }
+ }
+}

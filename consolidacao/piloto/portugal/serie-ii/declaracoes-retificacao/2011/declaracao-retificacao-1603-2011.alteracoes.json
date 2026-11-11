@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "«2 - O presente despacho produz efeitos a 1 de Julho de 2001.",
+    "depois": "«2 - O presente despacho produz efeitos a 1 de Julho de 2011.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3237423:por",
+    "alterador": "pt:dre:3477660:por"
+  }
+]

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:3001652:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2006-06-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0bd7630554518ea7"
+   ]
+  },
+  {
+   "date": "2009-10-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:3227999:por",
+     "title": "Portaria n.º 1074/2009",
+     "published": "2009-10-23",
+     "dre_path": "/dr/detalhe/portaria/1074-2009-3227999"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 18-20"
+   ],
+   "fragments": [
+    "65553973c270d697"
+   ]
+  }
+ ],
+ "fragments": {
+  "0bd7630554518ea7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 958/2006 (2.ª série). - Pelo [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição da política cinegética do concelho.\n\nDetermina o n.º 2 do artigo 157.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 157.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal de Marvão é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nAntónio Joaquim Neves Matias.\n\nAntónio José Roque Elias.\n\nFernando do Rosário Moreira.\n\nRepresentantes dos agricultores:\n\nAntónio Sequeira Lourenço.\n\nJoão António Barradas Batista.\n\nRepresentante das zonas de caça turísticas:\n\nAntónio Ribeiro Barroca.\n\nAutarca de freguesia:\n\nTomás Nunes Morgado.\n\nRepresentante da Direcção-Geral dos Recursos Florestais:\n\nRui Fernando Sameiro Santana Correia.\n\nRepresentante do Instituto da Conservação da Natureza:\n\nJoão Mário Madeira Pargana.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n12 de Maio de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas."
+  },
+  "65553973c270d697": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-10-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1074/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1074-2009-3227999), publicado em 2009-10-23."
+   ],
+   "markdown": "Portaria n.º 958/2006 (2.ª série). - Pelo [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição da política cinegética do concelho.\n\nDetermina o n.º 2 do artigo 157.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 157.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal de Marvão é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nAntónio Joaquim Neves Matias.\n\nAntónio José Roque Elias.\n\nFernando do Rosário Moreira.\n\nRepresentantes dos agricultores:\n\nAntónio Sequeira Lourenço.\n\nJoão António Barradas Batista.\n\nRepresentante das zonas de caça turísticas:\n\nAntónio Ribeiro Barroca.\n\nAutarca de freguesia:\n\nTomás Nunes Morgado.\n\nRepresentante da Autoridade Florestal Nacional:\n\nJoaquim Fernando Pinheiro Brito.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade, I. P.:\n\n> Alterado pelo/a [Portaria n.º 1074/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1074-2009-3227999), publicado em 2009-10-23.\n\nJoão Mário Madeira Pargana.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n12 de Maio de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas."
+  }
+ }
+}

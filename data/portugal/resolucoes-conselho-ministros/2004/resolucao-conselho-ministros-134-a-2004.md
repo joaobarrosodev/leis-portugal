@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-02-27'
+version_history:
+  file: resolucao-conselho-ministros-134-a-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-09-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-02-27'
+    amending: pt:dre:606286:por
+    amending_title: Resolução do Conselho de Ministros n.º 32/2005
+    changes:
+    - Altera Artigo unidades 73-73
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/134-a/2004/09/16/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:49:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 32/2005. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2004/resolucao-conselho-ministros-134-a-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -249,7 +264,9 @@ xx) TMDA - tráfego médio diário anual;
 
 zz) VAL - significa o valor actualizado líquido acumulado, apurado nos termos e para os efeitos do disposto no artigo 13 do Contrato de Concessão;
 
-aaa) VAL Máximo - significa o VAL a partir do qual, nos termos do artigo 13 do Contrato de Concessão, se dá o termo da Concessão ((euro) 924531722).
+aaa) VAL Máximo - significa o VAL a partir do qual, nos termos do artigo 13.º do contrato de concessão, se dá o termo da concessão ((euro) 917390085).
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 32/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-2005-606286), publicado em 2005-02-22.
 
 1.2 - Os termos definidos no número anterior no singular poderão ser utilizados no plural, e vice-versa, com a correspondente alteração do respectivo significado, salvo se do contexto resultar claramente o inverso.
 

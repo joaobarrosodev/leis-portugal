@@ -40,10 +40,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-05-30'
+version_history:
+  file: portaria-471-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-04-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-05-30'
+    amending: pt:dre:639085:por
+    amending_title: Portaria n.º 709/2007; Portaria n.º 389/2008
+    changes:
+    - Altera Artigo unidades 55-55
+    - Altera Artigo unidades 61-61
+    - Altera Artigo unidades 72-73
+    - Adita Artigo depois da unidade 104
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/471/2007/04/18/p/dre/pt/html
@@ -69,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:23:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 709/2007; Portaria n.º
+    389/2008. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2007/portaria-471-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -249,7 +267,9 @@ d) A garantia a que se refere a alínea anterior é liberada no prazo máximo de
 
 e) A opção pela compensação financeira exige o arranque da vinha velha antes do início da colocação do material vegetativo no terreno, quer se trate de enxertos prontos quer de porta-enxertos e respectiva enxertia, desde que o arranque tenha ocorrido após 1 de Agosto de 2000.
 
-12.º São elegíveis os investimentos executados a partir da data de apresentação da candidatura.
+12.º São elegíveis os investimentos executados a partir de 1 de Agosto de 2006.
+
+> Alterado pelo/a [Portaria n.º 709/2007](https://diariodarepublica.pt/dr/detalhe/portaria/709-2007-639085), publicado em 2007-06-08.
 
 13.º A ajuda é paga directa e integralmente ao beneficiário, em função:
 
@@ -261,7 +281,9 @@ c) Da área da parcela de vinha reestruturada, arredondada a duas casas decimais
 
 d) Do parecer prévio emitido pelas DRAP no caso da acção «Melhoria das infra-estruturas fundiárias e alteração do perfil do terreno».
 
-14.º Para a campanha vitivinícola de 2007-2008, a recepção de candidaturas decorre a partir da data de entrada em vigor da presente portaria, até 31 de Maio de 2007, podendo, no entanto, este prazo ser alterado por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sempre que circunstâncias especiais devidamente fundamentadas assim o determinem.
+14.º Para a campanha vitivinícola de 2007-2008, a recepção de candidaturas decorre a partir da data de entrada em vigor da presente portaria, até 29 de Junho de 2007, podendo, no entanto, este prazo ser alterado por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sempre que circunstâncias especiais devidamente fundamentadas assim o determinem.
+
+> Alterado pelo/a [Portaria n.º 709/2007](https://diariodarepublica.pt/dr/detalhe/portaria/709-2007-639085), publicado em 2007-06-08.
 
 15.º As candidaturas são analisadas no prazo máximo de 90 dias contados a partir do 1.º dia do termo do prazo para a sua recepção; no entanto, a sua decisão apenas é comunicada aos proponentes logo que seja conhecida a dotação inicial anual atribuída pela Comissão para a campanha de 2007-2008.
 
@@ -283,9 +305,11 @@ c) Por ordem cronológica da data de recepção da candidatura.
 
 19.º As candidaturas contratadas em cada campanha vitivinícola devem:
 
-a) Encontrar-se integralmente executadas até 30 de Abril de 2008 e ser objecto do correspondente pedido de pagamento das ajudas e da compensação financeira por perda de receita, sendo o caso, até àquela data; ou
+a) Encontrar-se integralmente executadas até 30 de Maio de 2008 e serem objecto do correspondente pedido de pagamento das ajudas e da compensação financeira por perda de receita, sendo o caso, até àquela data; ou
 
-b) Ser objecto, após o início da sua execução, de um pedido de pagamento antecipado das ajudas até 30 de Abril de 2008, mediante a prestação de uma garantia bancária, sem prazo, a favor do IFAP, de montante igual a 120% do valor das ajudas previstas para as medidas específicas em causa, devendo estas encontrar-se integralmente executadas até 31 de Julho de 2010;
+b) Ser objecto, após o início da sua execução, de um pedido de pagamento antecipado das ajudas e da correspondente compensação financeira por perda de receita, sendo o caso, a efectuar até 30 de Maio de 2008, acompanhado de prestação de uma garantia bancária, sem prazo, a favor do IFAP, de montante igual a 120 % do valor das ajudas previstas para as medidas específicas em causa, devendo estas encontrar-se integralmente executadas até 31 de Julho de 2010;
+
+> Alterado pelo/a [Portaria n.º 389/2008](https://diariodarepublica.pt/dr/detalhe/portaria/389-2008-448960), publicado em 2008-05-30.
 
 c) Cumprir o disposto na alínea b), no caso das candidaturas que contemplem a utilização de porta-enxertos.
 
@@ -348,6 +372,10 @@ ii) Emitir os pareceres técnicos previstos na alínea d) do n.º 13.º;
 iii) Proceder à recepção e análise das candidaturas e propor a sua decisão;
 
 iv) Participar na realização das acções de controlo;
+
+v) Enviar, impreterivelmente, até ao dia 6 de Julho de 2007, os valores previsionais das áreas e montantes das ajudas referentes às candidaturas recepcionadas.
+
+> Aditado pelo/a [Portaria n.º 709/2007](https://diariodarepublica.pt/dr/detalhe/portaria/709-2007-639085), publicado em 2007-06-08.
 
 d) Às comissões vitivinícolas regionais (CVR) e às entidades certificadoras do vinho regional, confirmar a aptidão dos solos para a produção de VQPRD ou de vinho regional, consoante o caso.
 

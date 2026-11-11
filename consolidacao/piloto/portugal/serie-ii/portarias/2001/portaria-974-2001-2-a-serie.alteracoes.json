@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - O Conselho Cinegético Municipal de Arraiolos é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nJosué Gregório Martins Freixa.\n\nManuel Maria Goulão Santos.\n\nRepresentantes dos agricultores:\n\nAntónio Mira Duarte Silva.\n\nJoão Jerónimo Baionetas Chotas.\n\nRepresentante das associações de defesa do Ambiente:\n\nHenrique Manuel Ferreira Velez.\n\nAutarca de freguesia:\n\nCaetano António Fanico Alfaiate.\n\nRepresentante da Direcção Regional de Agricultura do Alentejo:\n\nArlindo Rosa Gato.",
+    "depois": "1.º O Conselho Cinegético Municipal de Arraiolos é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores - Josué Gregório Martins Freixa Manuel Maria Goulão Santos.\n\nRepresentantes dos agricultores - António Mira Duarte Silva João Jerónimo Baionetas Chotas.\n\nRepresentante das associações de defesa do ambiente - Henrique Manuel Ferreira Velez.\n\nAutarca de freguesia - Caetano António Fanico Alfaiate.\n\nRepresentante da Autoridade Florestal Nacional - Viriato Pascoal Lopes Alves.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3446454:por",
+    "alterador": "pt:dre:2325589:por"
+  }
+]

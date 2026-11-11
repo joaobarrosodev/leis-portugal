@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.6 - O apoio atribuído à TAP - Transportes Aéreos Portugueses, S. A., destina-se a ressarcir a empresa pelo prejuízo suportado em 1996 nas ligações aéreas regulares entre o continente e as Regiões Autónomas, entre estas e entre o Funchal e Porto Santo, equivalente ao produto do número efectivamente transportado de residentes, estudantes e membros da comitiva de equipas desportivas das Regiões Autónomas em viagens ao continente, pelo diferencial entre a tarifa normal que a empresa praticou para outros passageiros e as tarifas que para os supracitados passageiros foram administrativamente fixadas para aqueles percursos, nos termos do n.º 2 do artigo 2.º do Decreto-Lei n.º 311/91, de 17 de Agosto;",
+    "depois": "2.6 - O apoio atribuído à TAP - Transportes Aéreos Portugueses, S. A., destina-se a ressarcir a empresa pelos prejuízos suportados em 1996 nos serviços aéreos abragidos pelos convénios de serviço público assinados em 29 de Dezembro de 1995, estabelecidos em conformidade com o Regulamento CEE n.º [2408/92](http://data.europa.eu/eli/reg/1992/2408/oj?locale=pt), do Conselho, de 23 de Julho.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:351360:por",
+    "alterador": "pt:dre:649089:por"
+  },
+  {
+    "artigo": "unidades 27-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6.5 - No caso específico do apoio atribuído à TAP - Transportes Aéreos Portugueses, S. A., a verba a entregar deve ser objecto de rigorosa verificação prévia pela Inspecção-Geral de Finanças;",
+    "depois": "6.5 - No caso específico do apoio atribuído à TAP - Transportes Aéreos Portugueses, S. A., a verba será disponibilizada pela Direcção-Geral do Tesouro de um só vez, mediante aferição prévia do montante devido, a efectuar pela Inspecção-Geral de Finanças.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:351360:por",
+    "alterador": "pt:dre:649089:por"
+  }
+]

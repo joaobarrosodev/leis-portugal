@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 2-2",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Segundo comunicação do Ministério da Agricultura, Pescas e Alimentação, a [Portaria n.º 108/90](https://diariodarepublica.pt/dr/detalhe/portaria/108-1990-334639), publicada no Diário da República, 1.ª série, n.º 249, de 27 de Outubro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:",
+    "depois": "Segundo comunicação do Ministério da Agricultura, Pescas e Alimentação, a [Portaria n.º 1086/90](https://diariodarepublica.pt/dr/detalhe/portaria/1086-1990-565790), publicada no Diário da República, 1.ª série, n.º 249, de 27 de Outubro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:444263:por",
+    "alterador": "pt:dre:292497:por"
+  }
+]

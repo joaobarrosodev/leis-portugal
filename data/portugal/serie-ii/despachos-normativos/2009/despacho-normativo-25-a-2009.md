@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-09-30'
+version_history:
+  file: despacho-normativo-25-a-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-09-30'
+    amending: pt:dre:2078926:por
+    amending_title: Despacho Normativo n.º 34/2009
+    changes:
+    - Altera Artigo unidades 39-39
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:07:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 34/2009. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2009/despacho-normativo-25-a-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -190,7 +205,9 @@ iii) A candidaturas de viticultores que tenham um património vitícola superior
 
 c) Se, após a aplicação dos critérios estabelecidos na alínea anterior, a área repartida pelas candidaturas correspondentes à subalínea i), ou a área disponível para as subalíneas sucessivas, for inferior a 0,50 ha, a mesma é repartida pela totalidade das candidaturas enquadradas na subalínea iii).
 
-12 - As candidaturas devem ser apresentadas, desde a entrada em vigor do presente despacho até 31 de Julho de 2009, em impresso próprio, na direcção regional de agricultura e pescas (DRAP) onde se localiza a parcela candidata à atribuição dos direitos.
+12 - As candidaturas devem ser apresentadas, desde a data de entrada em vigor do presente despacho normativo, até 31 de Agosto de 2009, em impresso próprio, na Direcção Regional de Agricultura e Pescas (DRAP) onde se localiza a parcela candidata à atribuição dos direitos.
+
+> Alterado pelo/a [Despacho Normativo n.º 34/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/34-2009-2078926), publicado em 2009-09-30.
 
 13 - Apenas são consideradas as candidaturas devidamente preenchidas com os elementos necessários para a sua selecção.
 

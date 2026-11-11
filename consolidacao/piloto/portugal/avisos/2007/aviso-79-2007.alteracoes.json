@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Portugal denunciou esta Convenção em 8 de Maio de 1998, tendo a denúncia produzido efeitos em 2 de Junho de 1999.",
+    "depois": "Portugal denunciou esta Convenção em 5 de Agosto de 1998, tendo a denúncia produzido efeitos em 6 de Fevereiro de 1999.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:519199:por",
+    "alterador": "pt:dre:519655:por"
+  }
+]

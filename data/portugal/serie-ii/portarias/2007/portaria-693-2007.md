@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-23'
+version_history:
+  file: portaria-693-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-08-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-23'
+    amending: pt:dre:3228003:por
+    amending_title: Portaria n.º 1078/2009
+    changes:
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:09:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1078/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2007/portaria-693-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,7 +150,9 @@ Representante das organizações não governamentais do ambiente - Carlos Albert
 
 Autarca de freguesia - José António Cordeiro.
 
-Representante da Direcção-Geral dos Recursos Florestais - Graça Maria Gonçalves Barreira Andrade.
+Representante da Autoridade Florestal Nacional - Armando José Pereira.
+
+> Alterado pelo/a [Portaria n.º 1078/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1078-2009-3228003), publicado em 2009-10-23.
 
 Representante do Instituto da Conservação da Natureza - José João Martins Lourenço.
 

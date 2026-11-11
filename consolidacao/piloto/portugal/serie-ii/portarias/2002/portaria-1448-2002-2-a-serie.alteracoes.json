@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Clemente Luís Bentes Camarinha.\n\nJosé Mendes Pina.",
+    "depois": "Clemente Luís Bentes Camarinha;\n\nJosé Mendes Pina;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:903447:por",
+    "alterador": "pt:dre:3227990:por"
+  },
+  {
+    "artigo": "unidades 11-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "João Francisco Prazeres Bentes.\n\nManuel Moniz Barreto Romão.\n\nAutarca de freguesia:\n\nAmílcar Manuel dos Santos Charneco.\n\nRepresentante da Direcção Regional de Agricultura do Argarve:\n\nCarla Alexandra Carvalheiro Jacinto.\n\nRepresentante das associações de defesa do ambiente:\n\nNélson Ricardo Feliciano Fonseca.\n\nRepresentante do Instituto da Conservação da Natureza:\n\nNuno Grade.",
+    "depois": "João Francisco Prazeres Bentes;\n\nManuel Moniz Barreto Romão;\n\nAutarca de freguesia - Amílcar Manuel dos Santos Charneco;\n\nRepresentante da Autoridade Florestal Nacional - Paulo Adriano Sim Sim Dias;\n\nRepresentante das associações de defesa do ambiente - Nélson Ricardo Feliciano Fonseca;\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade - Nuno Grade.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:903447:por",
+    "alterador": "pt:dre:3227990:por"
+  }
+]

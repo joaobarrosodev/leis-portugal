@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-22'
+version_history:
+  file: portaria-974-2001-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-05-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-22'
+    amending: pt:dre:2325589:por
+    amending_title: Portaria n.º 1043/2009
+    changes:
+    - Altera Artigo unidades 6-18
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:25:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1043/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2001/portaria-974-2001-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -107,31 +122,19 @@ Com fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](htt
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1 - O Conselho Cinegético Municipal de Arraiolos é constituído pelos seguintes vogais:
+1.º O Conselho Cinegético Municipal de Arraiolos é constituído pelos seguintes vogais:
 
-Representantes dos caçadores:
+Representantes dos caçadores - Josué Gregório Martins Freixa Manuel Maria Goulão Santos.
 
-Josué Gregório Martins Freixa.
+Representantes dos agricultores - António Mira Duarte Silva João Jerónimo Baionetas Chotas.
 
-Manuel Maria Goulão Santos.
+Representante das associações de defesa do ambiente - Henrique Manuel Ferreira Velez.
 
-Representantes dos agricultores:
+Autarca de freguesia - Caetano António Fanico Alfaiate.
 
-António Mira Duarte Silva.
+Representante da Autoridade Florestal Nacional - Viriato Pascoal Lopes Alves.
 
-João Jerónimo Baionetas Chotas.
-
-Representante das associações de defesa do Ambiente:
-
-Henrique Manuel Ferreira Velez.
-
-Autarca de freguesia:
-
-Caetano António Fanico Alfaiate.
-
-Representante da Direcção Regional de Agricultura do Alentejo:
-
-Arlindo Rosa Gato.
+> Alterado pelo/a [Portaria n.º 1043/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2009-2325589), publicado em 2009-10-22.
 
 2 - Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.
 

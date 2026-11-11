@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "depois da unidade 5",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "Artigo 1.º\n\nConstituição",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:892657:por",
+    "alterador": "pt:dre:2177092:por"
+  },
+  {
+    "artigo": "unidades 7-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representantes dos caçadores:\n\nJaime Manuel Gonçalves Murta.\n\nJoaquim José Estevens da Silva.\n\nRepresentantes dos agricultores:\n\nPedro Manuel Vale Soares Rodrigues Palma.\n\nAntónio José Francisco da Palma.\n\nAutarca de freguesia:\n\nJosé Mário Martins Alves.\n\nRepresentante da Direcção Regional de Agricultura do Alentejo:\n\nLuís Manuel Gomes Glória Fialho.\n\nRepresentante do Instituto da Conservação da Natureza:\n\nPedro Nuno Azenha Rocha.",
+    "depois": "a) Representantes dos caçadores:\n\ni) Jaime Manuel Gonçalves Murta;\n\nii) Joaquim José Estevens da Silva;\n\nb) Representantes dos agricultores:\n\ni) Pedro Manuel Vale Soares Rodrigues Palma;\n\nii) António José Francisco da Palma;\n\nc) Autarca de freguesia, João Carlos Rodrigues;\n\nd) Representante da Autoridade Florestal Nacional, Silvestre Manuel Valente Marques;\n\ne) Representante do Instituto da Conservação da Natureza e da Biodiversidade, Pedro Nuno Azeda Rocha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:892657:por",
+    "alterador": "pt:dre:2177092:por"
+  }
+]

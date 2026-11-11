@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º O curso criado no número anterior enquadra-se na família profissional de têxtil, vestuário e calçado e integra-se na área de educação e formação de indústrias do têxtil, vestuário, calçado e couro (542), de acordo com a classificação aprovada pela [Portaria n.º 256/2005](https://diariodarepublica.pt/dr/detalhe/portaria/256-2005-572672), de 16 de Março.",
+    "depois": "2.º O curso criado no número anterior enquadra-se na família profissional de têxtil, vestuário e calçado e integra-se na área de educação e formação de design (214), de acordo com a classificação aprovada pela [Portaria n.º 256/2005](https://diariodarepublica.pt/dr/detalhe/portaria/256-2005-572672), de 16 de Março.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:544852:por",
+    "alterador": "pt:dre:520786:por"
+  }
+]

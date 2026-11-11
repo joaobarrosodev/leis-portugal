@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-04-30'
+version_history:
+  file: declaracao-retificacao-28-q-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-02-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-04-30'
+    amending: pt:dre:459577:por
+    amending_title: Declaração de Rectificação n.º 83/91
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declrectif/28-q/1991/02/28/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T18:31:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 83/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/declaracoes-retificacao/1991/declaracao-retificacao-28-q-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -108,6 +123,8 @@ No cap. 05, div. 03, subdiv. 01, onde se lê «C. E. 07.01.07 - Material de info
 
 No cap. 07, div. 01, onde se lê «C. E. 07.01.08 - Maquin. e equipamento - 14694 contos» deve ler-se «C.E. 07.01.08 - Maquin. e equipamento - 14690 contos».
 
-No cap. 60, div. 01, subdiv. 09, onde se lê «C. E. 09.07.00 - B - Execução de avales - 3930000 contos» deve ler-se «C. E. 07.07.00 - B - Execução de avales - 2930000 contos».
+No cap. 60, div. 01, subdiv. 09, onde se lê «C. E. 09.07.00 - B - Execução de avales - 3930000 contos» deve ler-se «C. E. 09.07.00 - B - Execução de avales - 2930000 contos».
+
+> Alterado pelo/a [Declaração de Rectificação n.º 83/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/83-1991-459577), publicado em 1991-04-30.
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 25 de Fevereiro de 1991. - O Secretário-Geral, França Martins.

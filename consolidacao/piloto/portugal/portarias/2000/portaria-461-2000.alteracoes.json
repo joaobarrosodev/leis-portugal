@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 49-49",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "17.º Ao valor da taxa que incide sobre a concessão de direitos de novas plantações, fixada na alínea a) do n.º 1.º da Portaria n.º 291/97, de 2 de Maio, acresce o valor de 50000$00, a aplicar conforme o estabelecido no n.º 3 do artigo 5.º do Regulamento (CE) n.º [1493/99](http://data.europa.eu/eli/reg/1999/1493/oj?locale=pt), do Conselho, de 17 de Maio.",
+    "depois": "17.º Ao valor da taxa que incide sobre a concessão de direitos de novas plantações, fixada na alínea a) do n.º 1.º da Portaria n.º 291/97, de 2 de Maio, acresce o valor de (euro) 249,40, a aplicar conforme o estabelecido no n.º 3 do artigo 5.º do Regulamento (CE) n.º [1493/99](http://data.europa.eu/eli/reg/1999/1493/oj?locale=pt), do Conselho, de 17 de Maio.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:321301:por",
+    "alterador": "pt:dre:578087:por"
+  }
+]

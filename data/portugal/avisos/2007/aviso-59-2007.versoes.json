@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:519038:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-03-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e1b87af17bf6d44c"
+   ]
+  },
+  {
+   "date": "2007-04-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:519650:por",
+     "title": "Aviso n.º 200/2007",
+     "published": "2007-04-12",
+     "dre_path": "/dr/detalhe/aviso/200-2007-519650"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 14-14"
+   ],
+   "fragments": [
+    "533d4b4d2ab22683"
+   ]
+  }
+ ],
+ "fragments": {
+  "e1b87af17bf6d44c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se torna público terem os Países Baixos formulado, junto do Secretário-Geral do Conselho da Europa, em 31 de Agosto de 2005, uma declaração à Convenção Europeia de Extradição, concluída em Paris em 13 de Dezembro de 1957:\n\n«On 13 June 2002, the Council of the European Union adopted a Framework Decision on the European arrest warrant and surrender procedures between Member States (no. 2002/584/JHA) ('the Framework Decision'). Article 31 of the Framework Decision provides that from 1 January 2004 the Framework Decision will replace the corresponding provisions of the relevant extradition conventions applicable in the field of extradition in relations between the Member States.\n\nThe Permanent Representation of the Kingdom of the Netherlands therefore has the honour to inform the Secretary General of the Council of Europe that pursuant to article 28, paragraph 3, of the Convention on Extradition, the Convention shall no longer be applied in relations between the European part of the Kingdom of the Netherlands and the Member States of the European Union that are a Party to the Convention.\n\nThe Permanent Representation of the Kingdom of the Netherlands would emphasise that the above does not alter the application of the Convention in relations between:\n\nThe Netherlands Antilles and Aruba and the Parties to the Convention; or\n\nThe European part of the Kingdom and the Parties to the Convention that are not Member States of the European Union.»\n\nTradução\n\nEm 13 de Junho de 2002, o Conselho da União Europeia adoptou uma decisão quadro relativa ao mandado de detenção europeu e aos processos de entrega entre os Estados membros (2002/584/JAI) («a Decisão Quadro»). O artigo 31.º da Decisão Quadro determina que, a partir de 1 de Janeiro de 2004, a Decisão Quadro substitui as disposições correspondentes das convenções de extradição relevantes aplicáveis em matéria de extradição nas relações entre os Estados membros.\n\nA Representação Permanente do Reino dos Países Baixos tem, portanto, a honra de informar o Secretário-Geral do Conselho da Europa que, nos termos do n.º 3 do artigo 28.º da Convenção Europeia de Extradição, esta Convenção deixará de ser aplicável nas relações entre a parte europeia do Reino dos Países Baixos e os Estados membros da União Europeia que sejam Partes na Convenção.\n\nA Representação Permanente do Reino dos Países Baixos gostaria de salientar que o acima exposto não altera a aplicação da Convenção nas relações entre:\n\nAs Antilhas Neerlandesas e Aruba, por um lado, e as Partes na Convenção, por outro; ou\n\nA parte europeia do Reino dos Países Baixos e as Partes na Convenção que não sejam Estados membros da União Europeia.\n\nPortugal é Parte desta Convenção, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 22/89](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/22-1989-618746), publicada no Diário da República, 1.ª série-A, n.º 191, de 21 de Agosto de 1989, e ratificada pelo [Decreto do Presidente da República n.º 51/89](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/51-1989-618747), publicado no Diário da República, 1.ª série-A, n.º 191, de 21 de Agosto de 1989, tendo depositado o seu instrumento de ratificação em 25 de Janeiro de 1990, conforme o Aviso publicado no Diário da República, 1.ª série-A, n.º 76, de 31 de Março de 1990.\n\nA declaração produziu efeitos para os Países Baixos em 5 de Setembro de 2005.\n\nDirecção-Geral de Política Externa, 12 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva."
+  },
+  "533d4b4d2ab22683": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2007-04-12",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 200/2007](https://diariodarepublica.pt/dr/detalhe/aviso/200-2007-519650), publicado em 2007-04-12."
+   ],
+   "markdown": "Por ordem superior se torna público terem os Países Baixos formulado, junto do Secretário-Geral do Conselho da Europa, em 31 de Agosto de 2005, uma declaração à Convenção Europeia de Extradição, concluída em Paris em 13 de Dezembro de 1957:\n\n«On 13 June 2002, the Council of the European Union adopted a Framework Decision on the European arrest warrant and surrender procedures between Member States (no. 2002/584/JHA) ('the Framework Decision'). Article 31 of the Framework Decision provides that from 1 January 2004 the Framework Decision will replace the corresponding provisions of the relevant extradition conventions applicable in the field of extradition in relations between the Member States.\n\nThe Permanent Representation of the Kingdom of the Netherlands therefore has the honour to inform the Secretary General of the Council of Europe that pursuant to article 28, paragraph 3, of the Convention on Extradition, the Convention shall no longer be applied in relations between the European part of the Kingdom of the Netherlands and the Member States of the European Union that are a Party to the Convention.\n\nThe Permanent Representation of the Kingdom of the Netherlands would emphasise that the above does not alter the application of the Convention in relations between:\n\nThe Netherlands Antilles and Aruba and the Parties to the Convention; or\n\nThe European part of the Kingdom and the Parties to the Convention that are not Member States of the European Union.»\n\nTradução\n\nEm 13 de Junho de 2002, o Conselho da União Europeia adoptou uma decisão quadro relativa ao mandado de detenção europeu e aos processos de entrega entre os Estados membros (2002/584/JAI) («a Decisão Quadro»). O artigo 31.º da Decisão Quadro determina que, a partir de 1 de Janeiro de 2004, a Decisão Quadro substitui as disposições correspondentes das convenções de extradição relevantes aplicáveis em matéria de extradição nas relações entre os Estados membros.\n\nA Representação Permanente do Reino dos Países Baixos tem, portanto, a honra de informar o Secretário-Geral do Conselho da Europa que, nos termos do n.º 3 do artigo 28.º da Convenção Europeia de Extradição, esta Convenção deixará de ser aplicável nas relações entre a parte europeia do Reino dos Países Baixos e os Estados membros da União Europeia que sejam Partes na Convenção.\n\nA Representação Permanente do Reino dos Países Baixos gostaria de salientar que o acima exposto não altera a aplicação da Convenção nas relações entre:\n\nAs Antilhas Neerlandesas e Aruba, por um lado, e as Partes na Convenção, por outro; ou\n\nA parte europeia do Reino dos Países Baixos e as Partes na Convenção que não sejam Estados membros da União Europeia.\n\nPortugal é Parte desta Convenção, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 23/89](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/23-1989-618545), publicada no Diário da República, 1.ª série-A, n.º 191, de 21 de Agosto de 1989, e ratificada pelo [Decreto do Presidente da República n.º 57/89](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/57-1989-618542), publicado no Diário da República, 1.ª série-A, n.º 191, de 21 de Agosto de 1989, tendo depositado o seu instrumento de ratificação conforme o Aviso publicado no Diário da República, 1.ª série-A, n.º 76, de 31 de Março de 1990.\n\n> Alterado pelo/a [Aviso n.º 200/2007](https://diariodarepublica.pt/dr/detalhe/aviso/200-2007-519650), publicado em 2007-04-12.\n\nA declaração produziu efeitos para os Países Baixos em 5 de Setembro de 2005.\n\nDirecção-Geral de Política Externa, 12 de Fevereiro de 2007. - A Directora de Serviços das Organizações Políticas Internacionais, Helena Alexandra Furtado de Paiva."
+  }
+ }
+}

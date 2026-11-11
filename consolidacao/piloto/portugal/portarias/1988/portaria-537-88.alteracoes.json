@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 2978-2979",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Escrivão de direito ... 2\n\nEscrivão-adjunto ... 2",
+    "depois": "Escrivão de direito ... 1\n\nEscrivão-adjunto ... 1",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:377295:por",
+    "alterador": "pt:dre:575484:por"
+  }
+]

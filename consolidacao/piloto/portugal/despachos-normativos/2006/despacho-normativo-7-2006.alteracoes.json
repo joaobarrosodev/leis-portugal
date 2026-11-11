@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 26-29",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - O professor titular da turma do 1.º ciclo e os professores de cada conselho de turma devem contribuir para a construção de materiais didácticos e para a construção de glossários temáticos para as áreas curriculares.\n\n4 - As actividades a desenvolver no âmbito do presente despacho normativo atendem às necessidades do aluno ou do grupo de alunos e são de frequência obrigatória.\n\n5 - As actividades a que se refere o número anterior não dispensam a frequência pelos alunos da área curricular disciplinar de Língua Portuguesa.\n\n6 - No decurso do ano lectivo o aluno, de acordo com o seu progresso, pode transitar de grupo de nível de proficiência linguística.",
+    "depois": "3 - Os grupos a que se refere o número anterior são organizados por níveis de proficiência linguística e não por ciclo ou nível de ensino, devendo os materiais didácticos a utilizar ser adequados à faixa etária dos alunos.\n\n4 - Cada grupo de nível de proficiência linguística deve ser constituído, no mínimo, por 10 alunos, podendo, no entanto, caso tal não seja possível, serem agrupados aqueles níveis (iniciação e intermédio), de modo a respeitar esse mínimo.\n\n5 - O professor titular da turma do 1.º ciclo e os professores de cada conselho de turma devem contribuir para a construção de materiais didácticos e para a construção de glossários temáticos para as áreas curriculares.\n\n6 - As actividades a desenvolver no âmbito do presente despacho normativo atendem às necessidades do aluno ou do grupo de alunos e são de frequência obrigatória.\n\n7 - No decurso do ano lectivo o aluno, de acordo com o seu progresso, pode transitar de grupo de nível de proficiência linguística.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:551834:por",
+    "alterador": "pt:dre:829810:por"
+  },
+  {
+    "artigo": "unidades 32-34",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Os alunos que, em função dos resultados obtidos no teste diagnóstico, foram inseridos no nível de iniciação ou no nível intermédio beneficiam de actividades em língua portuguesa como língua não materna, cuja carga horária semanal corresponde a um período de noventa minutos, no âmbito da área curricular não disciplinar de Estudo Acompanhado.\n\n2 - A direcção executiva de cada escola ou agrupamento de escolas pode, ainda, se considerar necessário, dispor da oferta de escola para as actividades a desenvolver em língua portuguesa como língua não materna.\n\n3 - As actividades de apoio à língua portuguesa como língua não materna devem ser planeadas, realizadas e avaliadas, quando necessário, em articulação com outros técnicos de educação, envolvendo os pais ou encarregados de educação e os alunos.",
+    "depois": "1 - Os alunos que se encontram no nível de iniciação ou no nível intermédio devem frequentar o PLNM, equivalente à disciplina de Língua Portuguesa, com a mesma carga horária desta disciplina.\n\n2 - Deve ser reservado um período de 45 minutos da carga horária semanal atribuída ao PLNM para trabalhar a língua portuguesa enquanto língua veicular das restantes disciplinas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:551834:por",
+    "alterador": "pt:dre:829810:por"
+  },
+  {
+    "artigo": "unidades 37-38",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Os alunos que, em função dos resultados obtidos no teste diagnóstico, foram inseridos no nível avançado, consideram-se aptos no domínio da língua portuguesa, o que lhes permite acompanhar o currículo nacional.\n\n2 - A direcção executiva de cada escola ou agrupamento de escolas pode, ainda, se considerar necessário, desenvolver actividades de enriquecimento no âmbito da língua portuguesa como língua não materna.",
+    "depois": "Os alunos que se encontram no nível avançado devem frequentar a disciplina de Língua Portuguesa e não o PLNM.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:551834:por",
+    "alterador": "pt:dre:829810:por"
+  },
+  {
+    "artigo": "depois da unidade 47",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "4 - Os alunos de PLNM que obtenham aprovação na disciplina no final do ano lectivo transitam obrigatoriamente para o nível seguinte de proficiência linguística.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:551834:por",
+    "alterador": "pt:dre:829810:por"
+  }
+]

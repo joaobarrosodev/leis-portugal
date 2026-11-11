@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 1-1",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "# Resolução do Conselho de Ministros n.º 69/93",
+    "depois": "# Resolução do Conselho de Ministros n.º 70/93",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:681670:por",
+    "alterador": "pt:dre:661527:por"
+  }
+]

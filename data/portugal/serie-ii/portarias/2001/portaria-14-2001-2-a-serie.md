@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-06-07'
+version_history:
+  file: portaria-14-2001-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-01-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-06-07'
+    amending: pt:dre:3004100:por
+    amending_title: Portaria n.º 638/2005 (2.ª série)
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:17:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 638/2005 (2.ª série).
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2001/portaria-14-2001-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -105,7 +120,15 @@ Assim:
 
 Manda o Governo, pelo Secretário de Estado do Tesouro e das Finanças, o seguinte:
 
-1 - Autorizar, nos termos do artigo 1.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a cessão, a título definitivo, ao município de Santa Marta de Penaguião do prédio rústico, com a área de 218 m2, sito no lugar do Cruzeiro, inscrito na matriz cadastral sob o artigo 382-E, da freguesia da Cumieira, descrito na Conservatória do Registo Predial de Santa Marta sob o n.º 00969/291092 e registado a favor do Estado pela inscrição G-1.
+1 - Autorizar, nos termos do artigo 1.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a cessão, a título definitivo, ao município de Santa Marta de Penaguião dos seguintes prédios:
+
+a) Prédio rústico com a área de 218 m2, inscrito na matriz predial sob o artigo 382-E, da freguesia da Cumieira e descrito na Conservatória do Registo Predial de Santa Marta de Penaguião sob o n.º 00969/291092, onde se encontra implantada a sede da Banda Musical da Cumieira;
+
+b) Prédio rústico com a área de 156 m2, inscrito na matriz predial sob o artigo 384-E, da freguesia da Cumieira, onde se encontra implantada a sede da Junta de Freguesia da Cumieira;
+
+c) Prédio urbano com a área de 58 m2, inscrito na matriz predial urbana sob o artigo 501, da freguesia da Cumieira, onde se encontra implantada a sede do Sporting Clube da Cumieira.
+
+> Alterado pelo/a [Portaria n.º 638/2005 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/638-2005-3004100), publicado em 2005-06-07.
 
 2 - Reconhecer o interesse da cessão, uma vez que o imóvel se destina à instalação das sedes das referidas entidades.
 

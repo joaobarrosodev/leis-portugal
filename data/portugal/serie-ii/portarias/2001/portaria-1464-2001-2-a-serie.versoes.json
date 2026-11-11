@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:3225033:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-09-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "54a1101b8baf9edf"
+   ]
+  },
+  {
+   "date": "2009-10-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:3227993:por",
+     "title": "Portaria n.º 1068/2009",
+     "published": "2009-10-23",
+     "dre_path": "/dr/detalhe/portaria/1068-2009-3227993"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 15-16"
+   ],
+   "fragments": [
+    "71536be3f56062f5"
+   ]
+  }
+ ],
+ "fragments": {
+  "54a1101b8baf9edf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1464/2001 (2.ª série). - Pelo [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição política cinegética do concelho.\n\nDetermina o n.º 3 do artigo 154.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal de Évora é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nJoaquim António Caeiro Paixão;\n\nAntónio José Flor Ferreira;\n\nRepresentantes dos agricultores:\n\nAntónio Mário Morais Perdigão;\n\nTiago Maria da Silveira e Castro Appleton;\n\nRepresentante das associações de defesa do ambiente - Carlos Miguel Cruz;\n\nAutarca de freguesia - José Vitorino Piteira;\n\nRepresentante da Direcção Regional de Agricultura do Alentejo - António Plácido F. Costa Santos;\n\nRepresentante do Instituto da Conservação da Natureza - Rui Fernando Sameiro Santana Correia.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n17 de Agosto de 2001. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural."
+  },
+  "71536be3f56062f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-10-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1068/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1068-2009-3227993), publicado em 2009-10-23."
+   ],
+   "markdown": "Portaria n.º 1464/2001 (2.ª série). - Pelo [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição política cinegética do concelho.\n\nDetermina o n.º 3 do artigo 154.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal de Évora é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nJoaquim António Caeiro Paixão;\n\nAntónio José Flor Ferreira;\n\nRepresentantes dos agricultores:\n\nAntónio Mário Morais Perdigão;\n\nTiago Maria da Silveira e Castro Appleton;\n\nRepresentante das associações de defesa do ambiente - Carlos Miguel Cruz;\n\nAutarca de freguesia - José Vitorino Piteira;\n\nRepresentante da Autoridade Florestal Nacional - Viriato Pascoal Lopes Alves;\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade - João Mário Madeira Pargana.\n\n> Alterado pelo/a [Portaria n.º 1068/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1068-2009-3227993), publicado em 2009-10-23.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n17 de Agosto de 2001. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural."
+  }
+ }
+}

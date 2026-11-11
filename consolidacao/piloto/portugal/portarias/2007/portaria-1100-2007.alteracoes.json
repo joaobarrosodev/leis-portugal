@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 15",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "Escola Superior de Enfermagem de Artur Ravara - 35;\n\nEscola Superior de Enfermagem da Universidade da Madeira - 70.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:640122:por",
+    "alterador": "pt:dre:642534:por"
+  }
+]

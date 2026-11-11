@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 129-129",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Pareceres dos serviços competentes sobre as condições económicas e sociais da povoação e sobre as obras já realizadas ou a realizar para a sua conveniente urbanização;",
+    "depois": "3.º Pareceres dos serviços competentes sobre as condições económicas e sociais da povoação e sobre as obras já realizadas ou a realizar para a sua conveniente urbanização, sendo sempre obrigatória a audição da Repartição de Urbanismo da Direcção dos Serviços de Obras Públicas e Transportes.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:180993:por",
+    "alterador": "pt:dre:469428:por"
+  },
+  {
+    "artigo": "unidades 131-131",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "§ 1.º Quando as povoações abranjam, no todo ou em parte, terrenos sobre os quais tenham jurisdição os serviços de marinha, os de portos, caminhos de ferro e transportes ou os de aeronáutica, devem ser pedidos os pareceres destes.",
+    "depois": "§ 1.º Quando as povoações abranjam, no todo ou em parte, terrenos sobre os quais tenham jurisdição os serviços de marinha, os dos portos, caminhos de ferro e transportes ou os de aeronáutica, devem ser pedidos pareceres destes e em quaisquer casos o dos serviços de obras públicas e transportes.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:180993:por",
+    "alterador": "pt:dre:469428:por"
+  },
+  {
+    "artigo": "depois da unidade 132",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "§ 3.º No caso de os serviços de obras públicas e transportes reconhecerem a necessidade de prévia elaboração de plantas de divisão em talhões ou esboços para demarcação referidos no n.º 2.º, serão esses elementos preparados por aqueles serviços com base nas plantas ou esboços topográficos a fornecer pelos serviços geográficos e cadastrais.\n\n§ 4.º Os elementos para demarcação referidos no parágrafo anterior são exigíveis sempre que as povoações sejam pelo menos sedes de administração de circunscrição ou concelho ou outras que, não o sendo, apresentem iniciativas ou ocupação merecedoras de atenção especial em matéria urbanística.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:180993:por",
+    "alterador": "pt:dre:469428:por"
+  }
+]

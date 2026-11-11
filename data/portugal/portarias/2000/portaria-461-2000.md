@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-12-20'
+version_history:
+  file: portaria-461-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-07-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-12-20'
+    amending: pt:dre:578087:por
+    amending_title: Portaria n.º 1428/2001
+    changes:
+    - Altera Artigo unidades 49-49
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/461/2000/07/21/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:23:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1428/2001. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-461-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -214,7 +229,9 @@ c) Se, em aplicação da alínea anterior, a área repartida for inferior a 1 ha
 
 16.º O IVV distribui os novos direitos de plantação até ao final da campanha vitivinícola de 2002-2003.
 
-17.º Ao valor da taxa que incide sobre a concessão de direitos de novas plantações, fixada na alínea a) do n.º 1.º da Portaria n.º 291/97, de 2 de Maio, acresce o valor de 50000$00, a aplicar conforme o estabelecido no n.º 3 do artigo 5.º do Regulamento (CE) n.º [1493/99](http://data.europa.eu/eli/reg/1999/1493/oj?locale=pt), do Conselho, de 17 de Maio.
+17.º Ao valor da taxa que incide sobre a concessão de direitos de novas plantações, fixada na alínea a) do n.º 1.º da Portaria n.º 291/97, de 2 de Maio, acresce o valor de (euro) 249,40, a aplicar conforme o estabelecido no n.º 3 do artigo 5.º do Regulamento (CE) n.º [1493/99](http://data.europa.eu/eli/reg/1999/1493/oj?locale=pt), do Conselho, de 17 de Maio.
+
+> Alterado pelo/a [Portaria n.º 1428/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1428-2001-578087), publicado em 2001-12-15.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado dos Mercados Agrícolas e da Qualidade Alimentar, em 28 de Junho de 2000.
 

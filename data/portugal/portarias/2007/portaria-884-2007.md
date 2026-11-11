@@ -40,10 +40,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-01-01'
+version_history:
+  file: portaria-884-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-08-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-01-01'
+    amending: pt:dre:66012652:por
+    amending_title: Portaria n.º 286/2014
+    changes:
+    - Altera Artigo unidades 158-158
+    - Altera Artigo unidades 162-162
+    - Altera Artigo unidades 168-168
+    - Altera Artigo unidades 174-174
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/884/2007/08/10/p/dre/pt/html
@@ -69,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:26:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 286/2014. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2007/portaria-884-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -432,7 +450,9 @@ Custos:
 
 Os custos unitários de cada um dos documentos a que se refere a presente portaria, incluindo segundas vias, são os seguintes:
 
-Licenças de uso e porte de arma, especial, de coleccionador e de tiro desportivo, livrete de manifesto de arma e cédula de operador de explosivos - (euro) 22,50;
+Licenças de uso e porte de arma, especial, de colecionador e de tiro desportivo, livrete de manifesto de arma e cédula de operador de explosivos - (euro) 15,00;
+
+> Alterado pelo/a [Portaria n.º 286/2014](https://diariodarepublica.pt/dr/detalhe/portaria/286-2014-66012652), publicado em 2014-12-31.
 
 Notificações - (euro) 2,43;
 
@@ -440,7 +460,9 @@ Certificados - (euro) 10,14;
 
 Cartas PIN - (euro) 3,80;
 
-Livro de registo de munições e livro de disparos efectuados com arma de colecção - (euro) 16,60;
+Livro de registo de munições e livro de disparos efetuados com arma de coleção - (euro) 16,60;
+
+> Alterado pelo/a [Portaria n.º 286/2014](https://diariodarepublica.pt/dr/detalhe/portaria/286-2014-66012652), publicado em 2014-12-31.
 
 Cartão europeu de arma de fogo - (euro) 30,60.
 
@@ -452,7 +474,9 @@ Notificações, certificados e cartas PIN - (euro) 5;
 
 Livros de registo e cartão europeu de arma de fogo - (euro) 10.
 
-Os custos destes serviços são comunicados à PSP no início de cada mês, relativamente aos documentos emitidos no mês anterior, sendo o seu pagamento efectuado dentro do prazo de 30 dias a contar da emissão da respectiva factura.
+Os custos destes serviços são comunicados à PSP no início de cada mês, relativamente aos documentos emitidos no mês anterior, sendo o seu pagamento efetuado dentro do prazo de 30 dias a contar da emissão da respetiva fatura.
+
+> Alterado pelo/a [Portaria n.º 286/2014](https://diariodarepublica.pt/dr/detalhe/portaria/286-2014-66012652), publicado em 2014-12-31.
 
 Outras condições:
 
@@ -464,7 +488,9 @@ Os níveis de serviço descritos, nas condições previstas, vigoram pelo perío
 
 Alterações de custos:
 
-Os custos são actualizados no início de cada ano, com base no índice de preços no consumidor, verificado no continente, sem habitação, publicado pelo INE;
+Os custos são atualizados no início de cada ano, com base no índice de preços no consumidor, verificado no continente, sem habitação, publicado pelo INE;
+
+> Alterado pelo/a [Portaria n.º 286/2014](https://diariodarepublica.pt/dr/detalhe/portaria/286-2014-66012652), publicado em 2014-12-31.
 
 Os custos são revistos sempre que se verifiquem alterações significativas no processo e na configuração dos produtos a fornecer pela INCM;
 

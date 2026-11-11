@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-11-02'
+version_history:
+  file: portaria-1547-2001-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-09-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-11-02'
+    amending: pt:dre:2598880:por
+    amending_title: Portaria n.º 1155/2009
+    changes:
+    - Altera Artigo unidades 8-16
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:17:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1155/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2001/portaria-1547-2001-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,23 +126,21 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Representantes dos caçadores:
 
-Orlando Augusto Morais;
+Orlando Augusto Morais.
 
-Engenheiro João da Costa Teixeira.
+João da Costa Teixeira.
 
 Representantes dos agricultores:
 
-Engenheiro Paulo Augusto Breia da Fonseca Calvão;
+Paulo Augusto Breia da Fonseca Calvão.
 
-Francisco João Carvalho da Silva;
+Francisco João Carvalho da Silva.
 
-Representante da Direcção Regional de Agricultura de Trás-os-Montes:
+Representante da Autoridade Florestal Nacional - Maria João Martins Gonçalves Pinheiro.
 
-Manuel Pereira Ribeiro;
+Autarca de freguesia - António Fernandes Chaves.
 
-Autarca de freguesia:
-
-António Fernandes Chaves.
+> Alterado pelo/a [Portaria n.º 1155/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1155-2009-2598880), publicado em 2009-11-02.
 
 2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.
 

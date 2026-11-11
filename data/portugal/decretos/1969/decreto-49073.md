@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-10-10'
+version_history:
+  file: decreto-49073.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-06-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-10-10'
+    amending: pt:dre:413202:por
+    amending_title: Decreto n.º 512/73
+    changes:
+    - Altera Artigo unidades 119-119
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:07:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 512/73. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1969/decreto-49073.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -402,7 +417,7 @@ c) Dos Serviços de Combate à Lepra e Tuberculose de Angola e de Moçambique.
 
 § 2.º Os serviços enumerados no parágrafo anterior continuam a reger-se pelos respectivos diplomas orgânicos, com as alterações determinadas pelo presente decreto.
 
-§ 3.º A Missão de Combate às Tripanossomíases de Moçambique dependerá transitòriamente dos serviços provinciais de veterinária nos termos previstos em diploma especial.
+> Alterado pelo/a [Decreto n.º 512/73](https://diariodarepublica.pt/dr/detalhe/decreto/512-1973-413202), publicado em 1973-10-10.
 
 § 4.º A Missão de Combate às Tripanossomíases da Guiné e as Missões de Erradicação do Paludismo de Cabo Verde e de S. Tomé e Príncipe encarregar-se-ão também do estudo e combate a outras endemias existentes nas respectivas províncias.
 

@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-10-12'
+version_history:
+  file: portaria-1720-2001-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-10-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-10-12'
+    amending: pt:dre:2177092:por
+    amending_title: Portaria n.º 731/2010
+    changes:
+    - Adita Artigo depois da unidade 5
+    - Altera Artigo unidades 7-18
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:18:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 731/2010. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2001/portaria-1720-2001-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,31 +129,33 @@ Com fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](htt
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
+Artigo 1.º
+
+Constituição
+
+> Aditado pelo/a [Portaria n.º 731/2010](https://diariodarepublica.pt/dr/detalhe/portaria/731-2010-2177092), publicado em 2010-10-12.
+
 1.º O Conselho Cinegético Municipal de Almodôvar é constituído pelos seguintes vogais:
 
-Representantes dos caçadores:
+a) Representantes dos caçadores:
 
-Jaime Manuel Gonçalves Murta.
+i) Jaime Manuel Gonçalves Murta;
 
-Joaquim José Estevens da Silva.
+ii) Joaquim José Estevens da Silva;
 
-Representantes dos agricultores:
+b) Representantes dos agricultores:
 
-Pedro Manuel Vale Soares Rodrigues Palma.
+i) Pedro Manuel Vale Soares Rodrigues Palma;
 
-António José Francisco da Palma.
+ii) António José Francisco da Palma;
 
-Autarca de freguesia:
+c) Autarca de freguesia, João Carlos Rodrigues;
 
-José Mário Martins Alves.
+d) Representante da Autoridade Florestal Nacional, Silvestre Manuel Valente Marques;
 
-Representante da Direcção Regional de Agricultura do Alentejo:
+e) Representante do Instituto da Conservação da Natureza e da Biodiversidade, Pedro Nuno Azeda Rocha.
 
-Luís Manuel Gomes Glória Fialho.
-
-Representante do Instituto da Conservação da Natureza:
-
-Pedro Nuno Azenha Rocha.
+> Alterado pelo/a [Portaria n.º 731/2010](https://diariodarepublica.pt/dr/detalhe/portaria/731-2010-2177092), publicado em 2010-10-12.
 
 2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.
 

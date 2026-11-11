@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2025-12-24'
+version_history:
+  file: despacho-3162-b-2025.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2025-03-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-12-24'
+    amending: pt:dre:939532529:por
+    amending_title: Despacho n.º 12087/2025; Despacho n.º 15291/2025
+    changes:
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 16-16
+    - Altera Artigo unidades 21-21
 identifiers:
   celex: null
   eli: null
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T13:38:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho n.º 12087/2025; Despacho
+    n.º 15291/2025. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos/2025/despacho-3162-b-2025.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,11 +148,15 @@ Assim, ao abrigo do disposto nos n.os3 e 4 do artigo 12.º e no n.º 2 do artigo
 
 3 - A aplicação dos valores unitários da subvenção majorada depende do cumprimento dos objetivos definidos, tendo em consideração a manutenção de ausência ou a redução da prevalência das doenças que fazem parte dos programas sanitários e constam nos protocolos estabelecidos entre a DGAV e as OPSA.
 
-4 - Quando os animais elegíveis apurados em conformidade com o n.º 1 não ultrapassarem os limites estabelecidos no escalão A, será o valor da subvenção acrescido de um valor base de 15,00 € por exploração, de forma a compensar os custos base do controlo destas pequenas explorações.
+4 - Quando os animais elegíveis apurados em conformidade com o n.º 1 não ultrapassarem os limites estabelecidos no escalão A, o valor da subvenção é acrescido de um valor base de 20,00 € por exploração, de forma a compensar os custos base do controlo destas pequenas explorações.
+
+> Alterado pelo/a [Despacho n.º 12087/2025](https://diariodarepublica.pt/dr/detalhe/despacho/12087-2025-939532529), publicado em 2025-10-14.
 
 5 - O montante anual de subvenções a conceder ao abrigo dos números anteriores não pode ultrapassar, em cada ano, o montante de oito milhões de euros.
 
-6 - É criada uma subvenção adicional de quatro milhões de euros por ano para apoio à vacinação contra a febre catarral ovina, e outras doenças emergentes, de acordo com as instruções da DGAV, emitidas em edital e de acordo com o protocolo estabelecido entre a DGAV e a OPSA.
+6 - É criada uma subvenção adicional para apoio à vacinação contra a febre catarral ovina e outras doenças emergentes, de acordo com as instruções da DGAV, emitidas em edital e de acordo com o protocolo estabelecido entre a DGAV e a OPSA, no valor de quatro milhões de euros por ano, acrescida de 252 641,46 mil euros para o ano de 2025.
+
+> Alterado pelo/a [Despacho n.º 15291/2025](https://diariodarepublica.pt/dr/detalhe/despacho/15291-2025-992394048), publicado em 2025-12-23.
 
 7 - A subvenção prevista no número anterior não abrange os animais vacinados para exportação para países terceiros.
 
@@ -145,7 +166,9 @@ Assim, ao abrigo do disposto nos n.os3 e 4 do artigo 12.º e no n.º 2 do artigo
 
 10 - São revogados o Despacho n.º 3171/2023, de 2 de março, publicado no Diário da República, 2.ª série, n.º 49, de 9 de março de 2023, e o Despacho n.º 10119/2022, de 9 de agosto, publicado no Diário da República, 2.ª série, n.º 158, de 17 de agosto de 2022.
 
-11 - O presente despacho produz efeitos a partir do dia seguinte à data da sua publicação.
+11 - O presente despacho produz efeitos a 1 de janeiro de 2025.
+
+> Alterado pelo/a [Despacho n.º 12087/2025](https://diariodarepublica.pt/dr/detalhe/despacho/12087-2025-939532529), publicado em 2025-10-14.
 
 11 de março de 2025. - O Secretário de Estado da Agricultura, João Manuel Moura Rodrigues.
 

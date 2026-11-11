@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 20-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Portugal é Parte desta Convenção, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 4/90](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-1990-335410), publicada no Diário da República, 1.ª série, n.º 26, de 31 de Janeiro de 1990, ratificada pelo [Decreto do Presidente da República n.º 7/90](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/7-1990-332905), publicado no Diário da República, 1.ª série, n.º 26, de 31 de Janeiro de 1990, tendo depositado o seu instrumento de ratificação em 23 de Abril de 1990, conforme aviso publicado no Diário da República, 1.ª série, n.º 124, de 30 de Maio de 1990.",
+    "depois": "Portugal é Parte desta Convenção, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 4/90](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-1990-335410), publicada no Diário da República, 1.ª série, n.º 26, de 31 de Janeiro de 1990, ratificada pelo [Decreto do Presidente da República n.º 7/90](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/7-1990-332905), publicado no Diário da República, 1.ª série, n.º 43, de 20 de Fevereiro de 1990, tendo depositado o seu instrumento de ratificação em 23 de Abril de 1990, conforme o Aviso publicado no Diário da República, 1.ª série, n.º 124, de 30 de Maio de 1990.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:519037:por",
+    "alterador": "pt:dre:519667:por"
+  }
+]

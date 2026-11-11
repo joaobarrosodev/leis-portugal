@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 117",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "7.4 - Avaliação final:\n\n7.4.1 - Prova prática. - A prova prática destina-se a avaliar a capacidade do interno para resolver problemas de diagnóstico decorrentes da prática profissional da anatomia patológica. O seu conteúdo é o seguinte:\n\n7.4.1.1 - Resolução de um caso-problema de rotina: estudo do relatório macroscópico, observação das lâminas histológicas e elaboração do relatório diagnóstico final. Esta fase da prova tem a duração de trinta minutos;\n\n7.4.1.2 - Elaboração de propostas de diagnóstico e resolução de problemas enunciados a partir de lâminas de preparações histológicas, diapositivos microscópicos de citologia e técnicas especiais devidamente identificadas, nos seguintes quantitativos:\n\na) 15 histologias (lâminas);\n\nb) 10 citologias (diapositivos).\n\nEsta fase da prova tem a duração de duas horas, cabendo noventa minutos ao expresso na alínea a) e trinta minutos ao expresso na alínea b).\n\n7.4.2 - Prova teórica. - A prova teórica destina-se a avaliar o nível de conhecimentos e a sua integração, consistindo no interrogatório sobre seis temas, referentes a igual número de casos clínicos, identificados por história clínica sumária e pela documentação iconográfica das lesões. A prova terá a duração máxima de noventa minutos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:582018:por",
+    "alterador": "pt:dre:518849:por"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 14-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - Quando os animais elegíveis apurados em conformidade com o n.º 1 não ultrapassarem os limites estabelecidos no escalão A, será o valor da subvenção acrescido de um valor base de 15,00 € por exploração, de forma a compensar os custos base do controlo destas pequenas explorações.",
+    "depois": "4 - Quando os animais elegíveis apurados em conformidade com o n.º 1 não ultrapassarem os limites estabelecidos no escalão A, o valor da subvenção é acrescido de um valor base de 20,00 € por exploração, de forma a compensar os custos base do controlo destas pequenas explorações.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:910468940:por",
+    "alterador": "pt:dre:939532529:por;pt:dre:992394048:por"
+  },
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6 - É criada uma subvenção adicional de quatro milhões de euros por ano para apoio à vacinação contra a febre catarral ovina, e outras doenças emergentes, de acordo com as instruções da DGAV, emitidas em edital e de acordo com o protocolo estabelecido entre a DGAV e a OPSA.",
+    "depois": "6 - É criada uma subvenção adicional para apoio à vacinação contra a febre catarral ovina e outras doenças emergentes, de acordo com as instruções da DGAV, emitidas em edital e de acordo com o protocolo estabelecido entre a DGAV e a OPSA, no valor de quatro milhões de euros por ano, acrescida de 252 641,46 mil euros para o ano de 2025.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:910468940:por",
+    "alterador": "pt:dre:939532529:por;pt:dre:992394048:por"
+  },
+  {
+    "artigo": "unidades 21-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "11 - O presente despacho produz efeitos a partir do dia seguinte à data da sua publicação.",
+    "depois": "11 - O presente despacho produz efeitos a 1 de janeiro de 2025.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:910468940:por",
+    "alterador": "pt:dre:939532529:por;pt:dre:992394048:por"
+  }
+]

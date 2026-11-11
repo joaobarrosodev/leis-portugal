@@ -29,10 +29,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-09-30'
+version_history:
+  file: portaria-636-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-11-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-09-30'
+    amending: pt:dre:403331:por
+    amending_title: Portaria n.º 527/79; Portaria n.º 1112-A/81; Portaria n.º 812/87
+    changes:
+    - Altera Artigo unidades 73-73
+    - Altera Artigo unidades 82-85
+    - Altera Artigo unidades 89-89
+    - Altera Artigo unidades 91-96
+    - Altera Artigo unidades 106-119
 identifiers:
   celex: null
   eli: null
@@ -58,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:51:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 527/79; Portaria n.º
+    1112-A/81; Portaria n.º 812/87. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1975/portaria-636-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -369,7 +388,9 @@ A tarifa especial n.º 8/108 - «Grande velocidade - Volumes de peso não superi
 
 ###### ARTIGO 1.º — Objecto
 
-A presente tarifa regula as condições e prevê os preços de transporte, em regime acelerado, dos volumes de peso não superior a 50 kg que satisfaçam às disposições contidas no artigo 2.º
+A presente tarifa regula as condições e prevê os preços de transporte dos volumes de peso não superior a 50 kg que satisfaçam as disposições contidas no artigo 2.º
+
+> Alterado pelo/a [Portaria n.º 527/79](https://diariodarepublica.pt/dr/detalhe/portaria/527-1979-403331), publicado em 1979-09-29.
 
 ###### ARTIGO 2.º — Acondicionamento dos volumes
 
@@ -387,13 +408,9 @@ A alínea e) é eliminada e as alíneas f) e g) passam, respectivamente, a alín
 
 ...
 
-###### ARTIGO 6.º — Prazos de transporte
+###### ARTIGO 6.º — Reservado
 
-As remessas serão transportadas:
-
-a) Nos percursos da via fluvial e da via férrea, com subordinação aos prazos de transporte e de entrega do regime acelerado;
-
-b) Nos percursos da camionagem, nos prazos estabelecidos nas respectivas tarifas.
+> Alterado pelo/a [Portaria n.º 527/79](https://diariodarepublica.pt/dr/detalhe/portaria/527-1979-403331), publicado em 1979-09-29.
 
 ###### ARTIGO 7.º — Remessas com cobrança de conta alheia
 
@@ -401,21 +418,25 @@ Admitem-se, ao abrigo desta tarifa, remessas com cobrança de conta alheia, para
 
 ###### ARTIGO 8.º — Responsabilidade do caminho de ferro
 
-Pelas perdas ou avarias dos volumes que possam ser imputadas à responsabilidade do caminho de ferro, não originadas por caso de força maior, a indemnização a pagar será limitada ao máximo de 50$00 por cada quilograma.
+Pelas perdas ou avarias dos volumes que possam ser imputadas à responsabilidade do Caminho de Ferro, não originadas por caso de força maior, a indemnização a pagar será limitada ao máximo de 70$00 por cada quilograma.
+
+> Alterado pelo/a [Portaria n.º 812/87](https://diariodarepublica.pt/dr/detalhe/portaria/812-1987-495364), publicado em 1987-09-26.
 
 ###### ARTIGO 9.º — Preços
 
-1. Os preços de transporte dos volumes em qualquer percurso do caminho de ferro, incluindo a via fluvial entre Lisboa e Barreiro, são os seguintes, por cada volume:
+1 - Os preços de transporte dos volumes em qualquer percurso de caminho de ferro, incluindo transbordo e a via fluvial entre Lisboa (Terreiro do Paço) e Barreiro, são os seguintes, por cada volume:
 
-Até 15 kg ... 25$00
+Até 15 kg ... 110$00
 
-De mais de 15 kg até 20 kg ... 30$00
+De mais de 15 kg até 20 kg ... 135$00
 
-De mais de 20 kg até 30 kg ... 40$00
+De mais de 20 kg até 30 kg ... 170$00
 
-De mais de 30 kg até 40 kg ... 45$00
+De mais de 30 kg até 40 kg ... 175$00
 
-De mais de 40 kg até 50 kg ... 50$00
+De mais de 40 kg até 50 kg ... 190$00
+
+> Alterado pelo/a [Portaria n.º 1112-A/81](https://diariodarepublica.pt/dr/detalhe/portaria/1112-a-1981-242539), publicado em 1981-12-30.
 
 2. Os preços de transporte dos volumes na camionagem combinada são os previstos nas respectivas tarifas.
 
@@ -437,31 +458,87 @@ A tarifa especial n.º 2 «Grande velocidade - Volumes com seguimento de urgênc
 
 ###### ARTIGO 1.º — Objecto
 
-A presente tarifa prevê o preço e regula as condições do transporte, em regime acelerado.
+A presente tarifa fixa os preços e as condições de transporte de volumes cujo seguimento se pretenda seja feito com urgência, nomeadamente por comboios de passageiros, com exclusão dos internacionais, que sirvam directamente a estação de destino ou que dêem a primeira ligação a outros que a sirvam.
 
-...
+###### ARTIGO 2.º — Limitações ao transporte
 
-###### ARTIGO 5.º — Preços
+1 - Os volumes expedidos ao abrigo desta tarifa não podem exceder:
 
-O preço de transporte dos volumes em qualquer percurso do caminho de ferro, incluindo a via fluvial entre Lisboa e Barreiro, são os seguintes, por cada volume:
+a) 5 kg de peso quando a estação de origem ou a de destino pertencer à linha de Cascais;
 
-Até 5 kg ... 30$00
+b) 30 kg nos casos restantes.
 
-De mais de 5 kg até 10 kg ... 50$00
+2 - Cada remessa só pode ser constituída por um volume. No entanto, para efeito de expedição, permite-se a utilização de apenas um documento de despacho para agrupamento de volumes desde que se trate da expedição de remessas de um expedidor para este destinatário.
 
-De mais de 10 kg até 20 kg ... 70$00
+3 - Não se aceitam a despacho:
 
-De mais de 20 kg até 30 kg ... 90$00
+a) Volumes contendo dinheiro, valores, objectos de arte e mercadorias perigosas, nem contendo animais vivos com peso superior a 10 kg;
 
-###### ARTIGO 7.º — Responsabilidade do caminho de ferro
+b) Volumes frágeis ou com acondicionamento deficiente;
 
-Pelas perdas ou avarias dos volumes que possam ser imputadas à responsabilidade do caminho de ferro, não originadas por caso de força maior, a indemnização a pagar será limitada ao máximo de 50$00 por cada quilograma.
+c) Volumes contendo líquidos, a não ser acondicionados em embalagens perfeitamente estanques;
 
-###### ARTIGO 8.º — Disposição geral
+d) Volumes de qualquer natureza em que, pelo menos, uma das dimensões seja superior a 1 m, excepto aquelas com origem ou destino na linha de Cascais, onde a dimensão máxima não pode exceder 0,5 m.
 
-Em tudo o que não contrarie o disposto na presente, vigoram as disposições da tarifa geral de transportes (parte II - Mercadorias).
+4 - O Caminho de Ferro reserva-se o direito de não dar seguimento aos volumes por comboios para os quais possam resultar prejuízos para a regularidade da circulação ou por comboios que, devido à natureza da sua composição, os não possam transportar.
 
-...
+###### ARTIGO 3.º — Acondicionamento dos objectos a transportar
+
+Os objectos a transportar devem ser apresentados acondicionados em embalagens apropriadas, podendo, no entanto, dispensar-se qualquer espécie de acondicionamento para os objectos que normalmente são transportados sem resguardo.
+
+###### ARTIGO 4.º — Indicações nos volumes a transportar
+
+Nos próprios volumes, se a embalagem for apropriada para o efeito ou em etiquetas solidamente presas aos mesmos, devem ser inscritos em caracteres bem legíveis os nomes e as moradas, quer do expedidor, quer do destinatário, bem como o nome da estação de destino.
+
+###### ARTIGO 5.º — Expedição dos volumes
+
+Tendo em atenção a reserva indicada no n.º 4 do artigo 2.º, a expedição efectua-se pela apresentação dos volumes na estação de origem até vinte minutos antes da hora regulamentar da partida do comboio por que se pretenda o seu seguimento.
+
+Em troca de cada volume receberão os expedidores uma senha numerada comprovativa da entrega dos mesmos ao caminho de ferro e da importância paga pelo transporte.
+
+###### ARTIGO 6.º — Preços de transporte
+
+1 - Os preços normais de transporte dos volumes em qualquer percurso ferroviário, incluindo transbordo e a via fluvial entre Lisboa (Terreiro do Paço) e Barreiro, são os seguintes:
+
+Até 5 kg ... 115$00
+
+De mais de 5 kg até 10 kg ... 190$00
+
+De mais de 10 kg até 20 kg ... 265$00
+
+De mais de 20 kg até 30 kg ... 335$00
+
+2 - Para os percursos definidos ou a definir como «Encomenda Expresso» os preços de transporte são os seguintes:
+
+Até 5 kg ... 140$00
+
+De mais de 5 kg até 10 kg ... 225$00
+
+De mais de 10 kg até 20 kg ... 315$00
+
+De mais de 20 kg até 30 kg ... 400$00
+
+3 - Os preços referidos são sempre pagos no acto da expedição.
+
+###### ARTIGO 7.º — Levantamento dos volumes na estação de destino
+
+1 - Para estes volumes não se estabelece aviso de chegada.
+
+2 - Os volumes são entregues ao destinatário contra a apresentação do bilhete de identidade válido do Arquivo de Identificação ou de outro documento oficial que comprove a sua identidade ou a outrem que apresente um daqueles documentos do destinatário ou declaração assinada por este de recebimento dos volumes.
+
+Esta declaração, onde consta a indicação do número da remessa e a data do seu levantamento, só é considerada válida com a assinatura do destinatário reconhecida por firma e carimbo de qualquer casa acreditada.
+
+###### ARTIGO 8.º — Responsabilidade do Caminho de Ferro
+
+1 - O caminho de ferro não se responsabiliza pela eventual morte ou fuga dos animais vivos transportados, qualquer que seja a sua causa, nem pela entrega dos volumes ao destinatário desde que o tenha feito de acordo com o n.º 2 do artigo anterior.
+
+2 - Pelas perdas ou avarias dos volumes que possam ser imputadas ao Caminho de Ferro, não originadas por caso de força maior, a indemnização a pagar será limitada ao máximo de 70$00 por cada quilograma em falta ou avariado.
+
+###### ARTIGO 9.º — Disposição geral
+
+Em tudo o que não contrarie o disposto na presente portaria vigoram as disposições da Tarifa Geral de Transportes - Parte II «Mercadorias».
+
+> Alterado pelo/a [Portaria n.º 527/79](https://diariodarepublica.pt/dr/detalhe/portaria/527-1979-403331), publicado em 1979-09-29.
 
 O presente aditamento anula e substitui o 1.º aditamento a esta tarifa, de 2 de Junho de 1971, e entra em vigor em 1 de Dezembro de 1975.
 

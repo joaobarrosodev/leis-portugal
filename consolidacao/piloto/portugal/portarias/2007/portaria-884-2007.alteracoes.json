@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 158-158",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Licenças de uso e porte de arma, especial, de coleccionador e de tiro desportivo, livrete de manifesto de arma e cédula de operador de explosivos - (euro) 22,50;",
+    "depois": "Licenças de uso e porte de arma, especial, de colecionador e de tiro desportivo, livrete de manifesto de arma e cédula de operador de explosivos - (euro) 15,00;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:637427:por",
+    "alterador": "pt:dre:66012652:por"
+  },
+  {
+    "artigo": "unidades 162-162",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Livro de registo de munições e livro de disparos efectuados com arma de colecção - (euro) 16,60;",
+    "depois": "Livro de registo de munições e livro de disparos efetuados com arma de coleção - (euro) 16,60;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:637427:por",
+    "alterador": "pt:dre:66012652:por"
+  },
+  {
+    "artigo": "unidades 168-168",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Os custos destes serviços são comunicados à PSP no início de cada mês, relativamente aos documentos emitidos no mês anterior, sendo o seu pagamento efectuado dentro do prazo de 30 dias a contar da emissão da respectiva factura.",
+    "depois": "Os custos destes serviços são comunicados à PSP no início de cada mês, relativamente aos documentos emitidos no mês anterior, sendo o seu pagamento efetuado dentro do prazo de 30 dias a contar da emissão da respetiva fatura.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:637427:por",
+    "alterador": "pt:dre:66012652:por"
+  },
+  {
+    "artigo": "unidades 174-174",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Os custos são actualizados no início de cada ano, com base no índice de preços no consumidor, verificado no continente, sem habitação, publicado pelo INE;",
+    "depois": "Os custos são atualizados no início de cada ano, com base no índice de preços no consumidor, verificado no continente, sem habitação, publicado pelo INE;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:637427:por",
+    "alterador": "pt:dre:66012652:por"
+  }
+]

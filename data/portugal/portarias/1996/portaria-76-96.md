@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-07-18'
+version_history:
+  file: portaria-76-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-03-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-07-18'
+    amending: pt:dre:319929:por
+    amending_title: Decreto-Lei n.º 131/2000
+    changes:
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/76/1996/03/09/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:39:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 131/2000. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-76-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,7 +147,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 1.º É estabelecido o método de cálculo do valor energético dos alimentos para cães e gatos com objectivos nutricionais específicos, constante do anexo à presente portaria, que dela faz parte integrante.
 
-2.º A presente portaria mantém-se em vigor até 30 de Junho de 1998.
+2.º A presente portaria mantém-se em vigor até 30 de Março de 2002.
+
+> Alterado pelo/a [Decreto-Lei n.º 131/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2000-319929), publicado em 2000-07-13.
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 73-73",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "aaa) VAL Máximo - significa o VAL a partir do qual, nos termos do artigo 13 do Contrato de Concessão, se dá o termo da Concessão ((euro) 924531722).",
+    "depois": "aaa) VAL Máximo - significa o VAL a partir do qual, nos termos do artigo 13.º do contrato de concessão, se dá o termo da concessão ((euro) 917390085).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:406357:por",
+    "alterador": "pt:dre:606286:por"
+  }
+]

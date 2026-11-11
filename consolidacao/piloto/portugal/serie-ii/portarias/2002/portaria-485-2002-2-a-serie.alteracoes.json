@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 75-75",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Verificação de qualquer das condições suspensivas previstas no contrato de depósito e doação dos documentos que integram o arquivo do Prof. Doutor Marcello Caetano prometido celebrar.",
+    "depois": "c) Verificação de qualquer das condições resolutivas previstas no contrato de depósito e doação dos documentos que integram o arquivo do Prof. Doutor Marcello Caetano prometido celebrar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2617752:por",
+    "alterador": "pt:dre:3434139:por"
+  }
+]

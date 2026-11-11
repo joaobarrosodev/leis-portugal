@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:3189805:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-08-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ed5599e38a632aa6"
+   ]
+  },
+  {
+   "date": "2009-10-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:3228003:por",
+     "title": "Portaria n.º 1078/2009",
+     "published": "2009-10-23",
+     "dre_path": "/dr/detalhe/portaria/1078-2009-3228003"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 17-17"
+   ],
+   "fragments": [
+    "0ed38bd24498159d"
+   ]
+  }
+ ],
+ "fragments": {
+  "ed5599e38a632aa6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição da política cinegética do concelho.\n\nDetermina o n.º 2 do artigo 157.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 157.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas o seguinte:\n\n1.º O Conselho Cinegético Municipal de Macedo de Cavaleiros é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nDaniel Augusto Vaz Baptista.\n\nManuel António Machado Carvalho.\n\nRaul Fernando Fernandes.\n\nRepresentantes dos agricultores:\n\nLuís Colmieiro Rodrigues.\n\nMário José Pereira.\n\nRepresentante das zonas de caça turísticas - Alberto Luís Sousa Baptista.\n\nRepresentante das organizações não governamentais do ambiente - Carlos Alberto Santos Mendes.\n\nAutarca de freguesia - José António Cordeiro.\n\nRepresentante da Direcção-Geral dos Recursos Florestais - Graça Maria Gonçalves Barreira Andrade.\n\nRepresentante do Instituto da Conservação da Natureza - José João Martins Lourenço.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n29 de Junho de 2007. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva."
+  },
+  "0ed38bd24498159d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-10-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1078/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1078-2009-3228003), publicado em 2009-10-23."
+   ],
+   "markdown": "Pelo [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição da política cinegética do concelho.\n\nDetermina o n.º 2 do artigo 157.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 157.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas o seguinte:\n\n1.º O Conselho Cinegético Municipal de Macedo de Cavaleiros é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nDaniel Augusto Vaz Baptista.\n\nManuel António Machado Carvalho.\n\nRaul Fernando Fernandes.\n\nRepresentantes dos agricultores:\n\nLuís Colmieiro Rodrigues.\n\nMário José Pereira.\n\nRepresentante das zonas de caça turísticas - Alberto Luís Sousa Baptista.\n\nRepresentante das organizações não governamentais do ambiente - Carlos Alberto Santos Mendes.\n\nAutarca de freguesia - José António Cordeiro.\n\nRepresentante da Autoridade Florestal Nacional - Armando José Pereira.\n\n> Alterado pelo/a [Portaria n.º 1078/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1078-2009-3228003), publicado em 2009-10-23.\n\nRepresentante do Instituto da Conservação da Natureza - José João Martins Lourenço.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n29 de Junho de 2007. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva."
+  }
+ }
+}

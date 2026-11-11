@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-10-17'
+version_history:
+  file: portaria-968-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-10-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-10-17'
+    amending: pt:dre:532459:por
+    amending_title: Decreto-Lei n.º 256/2000
+    changes:
+    - Altera Artigo unidades 10-22
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/968/1994/10/28/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:42:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 256/2000. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-968-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,31 +151,15 @@ Manda o Governo, pelo Ministro da Indústria e Energia, o seguinte:
 
 ### CAPÍTULO II — Pentaclorofenol, seus sais e ésteres
 
-2.º É proibida a colocação no mercado e a utilização de substâncias e preparações cuja concentração em pentaclorofenol, seus sais e ésteres seja igual ou superior a 0,1% em massa.
+2.º - (Revogado.)
 
-3.º Exceptuam-se do disposto no artigo anterior as substâncias e preparações destinadas a serem utilizadas exclusivamente em instalações industriais que não permitam a emissão e ou a rejeição de pentaclorofenol (PCP) em quantidade superior à legalmente estabelecida na legislação em vigor e com os fins seguintes:
+3.º - (Revogado.)
 
-a) Tratamento de madeiras, com excepção das destinadas à utilização:
+4.º - (Revogado.)
 
-No interior de edifícios;
+5.º - (Revogado.)
 
-Na fabricação ou manutenção quer de contentores destinados a culturas quer de embalagens que, entrando em contacto com outros materiais, possam contaminar produtos em bruto, intermédios ou acabados, destinados à alimentação humana ou animal;
-
-b) Impregnação de fibras e de têxteis pesados não destinados à confecção de vestuário ou à utilização em mobiliário com fins decorativos;
-
-c) Como agente de síntese e ou de transformação em processos industriais.
-
-4.º Mediante autorização a conceder pela Direcção-Geral da Indústria, os produtos a que se reporta o n.º 2.º podem ser utilizados no tratamento curativo dos materiais em madeira e pedra atacados por podridão seca (serpula lacrymans) e podridão cúbica, quando realizados in situ, por profissionais especializados, nos seguintes casos:
-
-a) Em edifícios classificados ou em vias de classificação;
-
-b) Noutros edifícios, em casos de urgência.
-
-5.º O pentaclorofenol, seus sais e ésteres, bem como suas preparações, só podem ser utilizados nas aplicações identificadas nos artigos 3.º e 4.º desde que:
-
-Tenham um teor de hexaclorodibenzoparadioxina (H6CDD) inferior a quatro partes por milhão (ppm);
-
-Sejam vendidos a utilizadores industriais e profissionais e em embalagens com capacidade igual ou superior a 20 l, cujo rótulo ostente, de modo legível e indelével, a expressão «Reservado aos utilizadores industriais e profissionais», sem prejuízo do disposto nos Decretos-Leis n.os 280-A/87, de 17 de Julho, e 120/92, de 30 de Junho, e na Portaria n.º 1164/92, de 18 de Dezembro.
+> Alterado pelo/a [Decreto-Lei n.º 256/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2000-532459), publicado em 2000-10-17.
 
 ### CAPÍTULO III — Cádmio e seus compostos
 

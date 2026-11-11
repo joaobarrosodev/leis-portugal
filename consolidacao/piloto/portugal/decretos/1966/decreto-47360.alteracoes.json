@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 123-123",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 7.º A inspecção administrativa assegura a inspecção dos serviços administrativos do Comando-Geral e dos diferentes comandos da corporação.",
+    "depois": "Art. 7.º A Inspecção Administrativa assegura a inspecção dos Serviços Administrativos do Comando-Geral, dos diferentes comandos e dos Serviços Sociais.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:477306:por",
+    "alterador": "pt:dre:473286:por;pt:dre:413866:por"
+  },
+  {
+    "artigo": "unidades 126-128",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 9.º Incumbem às repartições do Comando-Geral as funções seguintes:\n\n1.º À 1.ª Repartição - dar andamento aos assuntos respeitantes ao pessoal, aos serviços de justiça, aos serviços sociais, e bem assim assegurar o movimento e escrituração dos solípedes, bovídeos e canídeos pertencentes à corporação. A 1.ª Repartição tem duas secções, às quais incumbe:\n\na) 1.ª Secção (Administração do pessoal e serviços) - todos os assuntos relativos ao movimento e escrituração do pessoal, informações e ficheiro geral do mesmo; os assuntos respeitantes ao moral e bem-estar do pessoal, tais como assistência religiosa, actividades recreativas, coordenação com a Cruz Vermelha Portuguesa e Movimento Nacional Feminino e contactos com os serviços de saúde; os assuntos relativos ao serviço de justiça e aos serviços sociais da Polícia e ainda os funerais e o registo de sepulturas;",
+    "depois": "Art. 9.º - 1. Incumbem às repartições do Comando-Geral as funções seguintes:\n\nÀ 1.ª Repartição - dar andamento aos assuntos respeitantes ao pessoal, aos Serviços de Justiça e assegurar o movimento e escrituração dos solípedes, bovídeos e canídeos pertencentes à corporação. A 1.ª Repartição tem duas secções, às quais incumbe:\n\na) 1.ª Secção (Administração do pessoal e serviços) - todos os assuntos relativos ao movimento e escrituração do pessoal, informações e ficheiro geral do mesmo;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:477306:por",
+    "alterador": "pt:dre:473286:por;pt:dre:413866:por"
+  },
+  {
+    "artigo": "unidades 142-148",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 10.º O Comando-Geral tem seis serviços, aos quais incumbe:\n\n1.º Serviços de material (S. M. G. A.) - a superintendência e responsabilidade da recepção, estudo, manutenção, distribuição e movimento de carga do material de guerra e de aquartelamento, e bem assim, como actividade complementar, a superintendência nas oficinas que não estejam a cargo de outros serviços;\n\n2.º Serviço auto (S. A.) - a superintendência e responsabilidade da recepção, manutenção, distribuição e movimento de carga do material rolante e flutuante, a preparação dos respectivos condutores, mecânicos e ajudantes de mecânico para o serviço da corporação e ainda as oficinas de manutenção daquele material;\n\n3.º Serviço de transmissões e obras (S. T. O.) - o estabelecimento, exploração e conservação da rede telefónica e telegráfica; os assuntos relativos à conservação de quartéis e cadastro de imóveis directamente afectos à Polícia de Segurança Pública; o comando, produção, distribuição e fiscalização dos sistemas de cifra, bem como as oficinas de manutenção do material de transmissões e electrónico;\n\n4.º Serviço de saúde (S. S.) - a assistência ao pessoal e famílias, a preparação de ajudantes de enfermeiro e primeiros socorristas para o serviço da Polícia de Segurança Pública e ainda a assistência aos solípedes, bovídeos e canídeos da corporação;\n\n5.º Serviço social - promover, moral e materialmente, a satisfação das necessidades de ordem social e de previdência dos componentes da Polícia de Segurança Pública de Angola e contribuir para a manutenção de um estado de espírito elevado do seu pessoal, podendo ter a seu cargo cantinas, barbearias, oficinas de alfaiataria, sapataria e outras que forem julgadas convenientes;\n\n6.º Serviço de justiça (S. J.) - todos os assuntos relativos à justiça e disciplina.",
+    "depois": "Art. 10.º O Comando-Geral tem cinco serviços, aos quais incumbe:\n\n1.º Serviços de material (SMAG) - a superintendência e responsabilidade da recepção, estudo, manutenção, distribuição e movimento de carga do material de guerra e de aquartelamento, e bem assim, como actividade complementar, a superintendência nas oficinas que não estejam a cargo de outros serviços;\n\n2.º Serviço auto (SA) - a superintendência e responsabilidade da recepção, manutenção, distribuição e movimento de carga do material rolante e flutuante, a preparação dos respectivos condutores, mecânicos e ajudantes de mecânico para o serviço da corporação e ainda as oficinas de manutenção daquele material;\n\n3.º Serviço de transmissões e obras (STO) - o estabelecimento, exploração e conservação da rede telefónica e telegráfica; os assuntos relativos à conservação de quartéis e cadastro de imóveis directamente afectos à Polícia de Segurança Pública; o comando, produção, distribuição e fiscalização dos sistemas de cifra, bem como as oficinas de manutenção do material de transmissões e electrónico;\n\n4.º Serviços de saúde (SS) - a assistência ao pessoal e famílias, a preparação de ajudantes de enfermeiro e primeiros socorristas para o serviço da Polícia de Segurança Pública e ainda a assistência aos solípedes, bovídeos e canídeos da corporação;\n\n5.º Serviços de justiça (SJ) - todos os assuntos relativos à justiça e disciplina.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:477306:por",
+    "alterador": "pt:dre:473286:por;pt:dre:413866:por"
+  },
+  {
+    "artigo": "depois da unidade 454",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "§ 3.º Às pessoas que, devidamente notificadas, não comparecerem a qualquer diligência relativa a processo crime será aplicável, com a devida adaptação, o disposto no artigo 91.º do Código de Processo Penal, salvo tratando-se de notificação para pagamento de multa por contravenção, em que unicamente se remeterá o processo à entidade competente para os ulteriores termos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:477306:por",
+    "alterador": "pt:dre:473286:por;pt:dre:413866:por"
+  }
+]

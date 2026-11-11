@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Orlando Augusto Morais;\n\nEngenheiro João da Costa Teixeira.\n\nRepresentantes dos agricultores:\n\nEngenheiro Paulo Augusto Breia da Fonseca Calvão;\n\nFrancisco João Carvalho da Silva;\n\nRepresentante da Direcção Regional de Agricultura de Trás-os-Montes:\n\nManuel Pereira Ribeiro;\n\nAutarca de freguesia:\n\nAntónio Fernandes Chaves.",
+    "depois": "Orlando Augusto Morais.\n\nJoão da Costa Teixeira.\n\nRepresentantes dos agricultores:\n\nPaulo Augusto Breia da Fonseca Calvão.\n\nFrancisco João Carvalho da Silva.\n\nRepresentante da Autoridade Florestal Nacional - Maria João Martins Gonçalves Pinheiro.\n\nAutarca de freguesia - António Fernandes Chaves.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2551693:por",
+    "alterador": "pt:dre:2598880:por"
+  }
+]

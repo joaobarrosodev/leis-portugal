@@ -28,10 +28,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-22'
+version_history:
+  file: portaria-1571-2001-2-aserie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-09-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-22'
+    amending: pt:dre:2325584:por
+    amending_title: Portaria n.º 1038/2009
+    changes:
+    - Altera Artigo unidades 8-9
+    - Altera Artigo unidades 11-12
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 16-16
+    - Altera Artigo unidades 17-19
 identifiers:
   celex: null
   eli: null
@@ -57,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:18:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1038/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2001/portaria-1571-2001-2-aserie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,29 +130,39 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Representantes dos caçadores:
 
-Carlos Gomes Viegas;
+Carlos Gomes Viegas.
 
-Vítor Manuel da Conceição Rodrigues;
+Vítor Manuel da Conceição Rodrigues.
+
+> Alterado pelo/a [Portaria n.º 1038/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2009-2325584), publicado em 2009-10-22.
 
 Representantes dos agricultores:
 
-José António Domingos;
+José António Domingos.
 
-Manuel Rodrigues Vaz;
+Manuel Rodrigues Vaz.
+
+> Alterado pelo/a [Portaria n.º 1038/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2009-2325584), publicado em 2009-10-22.
 
 Representante das associações de defesa do ambiente:
 
-Ana Lídia Freitas Monteiro do Valle Fernandes;
+Ana Lídia Freitas Monteiro do Valle Fernandes.
+
+> Alterado pelo/a [Portaria n.º 1038/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2009-2325584), publicado em 2009-10-22.
 
 Autarca de freguesia:
 
-José Manuel Madeira Neto;
+José Manuel Madeira Neto.
 
-Representante da Direcção Regional de Agricultura do Algarve:
+> Alterado pelo/a [Portaria n.º 1038/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2009-2325584), publicado em 2009-10-22.
 
-José António Oliveira Filipe;
+Representante da Autoridade Florestal Nacional:
 
-Representante do Instituto da Conservação da Natureza:
+Aníbal António Vidigal Vinhas.
+
+Representante do Instituto da Conservação da Natureza e da Biodiversidade:
+
+> Alterado pelo/a [Portaria n.º 1038/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2009-2325584), publicado em 2009-10-22.
 
 Nuno José Silva Grade.
 

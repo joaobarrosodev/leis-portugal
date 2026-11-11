@@ -1,0 +1,582 @@
+---
+id: pt:dre:294899:por
+title: Decreto-Lei n.º 46373
+original: data/portugal/decretos-leis/1965/decreto-lei-46373.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:599757:por
+    title: Decreto-Lei n.º 5/87
+    publication_date: '1987-01-06'
+  - id: pt:dre:430854:por
+    title: Decreto-Lei n.º 626/76
+    publication_date: '1976-07-28'
+  - id: pt:dre:228846:por
+    title: Decreto-Lei n.º 135/86
+    publication_date: '1986-06-12'
+  - id: pt:dre:631782:por
+    title: Decreto-Lei n.º 506/71
+    publication_date: '1971-11-20'
+  - id: pt:dre:165993:por
+    title: Decreto-Lei n.º 625/71
+    publication_date: '1971-12-31'
+  - id: pt:dre:632018:por
+    title: Decreto-Lei n.º 542/71
+    publication_date: '1971-12-06'
+  - id: pt:dre:600531:por
+    title: Decreto-Lei n.º 36/82
+    publication_date: '1982-02-05'
+  - id: pt:dre:392835:por
+    title: Decreto-Lei n.º 155/82
+    publication_date: '1982-05-06'
+  - id: pt:dre:324952:por
+    title: Decreto-Lei n.º 183-G/80
+    publication_date: '1980-06-09'
+  - id: pt:dre:286368:por
+    title: Decreto-Lei n.º 378/77
+    publication_date: '1977-09-07'
+---
+
+# Decreto-Lei n.º 46373
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º É aprovado o Código do Imposto de Mais-Valias, que faz parte do presente decreto-lei.
+
+Art. 2.º O código começará a vigorar em todo o continente e ilhas adjacentes decorridos 30 dias sobre a data deste diploma.
+
+§ 1.º Os ganhos a que respeita o n.º 1.º do artigo 1.º do código só ficam sujeitos a imposto quando o terreno tiver sido adquirido após a data deste diploma.
+
+§ 2.º Os ganhos a que respeita o n.º 2.º do artigo 1.º do código estão sujeitos a imposto desde que a transmissão onerosa dos elementos, bens ou valores aí referidos seja posterior à entrada em vigor do código.
+
+§ 3.º Os ganhos a que respeita o n.º 4.º do artigo 1.º do código não estão sujeitos a imposto se a autorização para incorporação de reservas ou para emissão de acções com reserva de preferência tiver sido requerida antes da entrada em vigor do código e for utilizada nos 90 dias subsequentes à data do despacho que a concedeu.
+
+Art. 3.º Considera-se abolido a partir da entrada em vigor do código o imposto do selo sobre traspasses e novos arrendamentos a que se refere o [Decreto-Lei n.º 27235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27235-1936-322961), de 23 de Novembro de 1936, com as alterações e aditamentos que posteriormente lhe foram introduzidos.
+
+Art. 4.º Consideram-se revogadas a partir da entrada em vigor do código todas as disposições dos Decretos-Leis n.os 33128 e 39125, respectivamente de 12 de Outubro de 1943 e de 6 de Março de 1953, que ainda o não tenham sido.
+
+Art. 5.º As modificações que de futuro se fizerem sobre matéria contida no código serão consideradas como fazendo parte dele e incluídas no lugar próprio, devendo essas modificações ser sempre efectuadas por meio de substituição dos artigos alterados, supressão dos artigos inúteis ou pelo aditamento dos que forem necessários.
+
+Art. 6.º Fica autorizado o Ministro das Finanças a alterar, por despacho, os modelos dos impressos que fazem parte do código aprovado por este decreto-lei, bem como a mandar adoptar os mais que se tornarem necessários à execução dos serviços de que trata o mesmo código.
+
+Art. 7.º As primeiras relações a organizar nos termos dos artigos 38.º, § único, e 42.º do código respeitarão ao período do ano de 1965 posterior à entrada em vigor do código.
+
+Art. 8.º Por infracções ao disposto no código cometidas até 31 de Dezembro de 1966 só poderá ser instaurado processo de transgressão com prévia autorização do director-geral das Contribuições e Impostos, que apenas a concederá quando julgue ter havido culpa grave.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 9 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - Francisco Pereira Neto de Carvalho.
+
+CÓDIGO DO IMPOSTO DE MAIS-VALIAS
+
+1. Eis o último dos códigos, e com este são sete, em que veio a concretizar-se a reforma da nossa tributação directa, iniciada em 1958 com o Código da Sisa e do Imposto sobre as Sucessões e Doações e que terminará em breve com a publicação de um diploma onde se incluam algumas disposições gerais que, por motivos de vária ordem, não foram inseridas nos diversos códigos.
+
+Trata-se agora do imposto de mais-valias, que é um imposto novo, apesar de não ser nova a espécie de tributação que com ele se realiza. Na verdade, as mais-valias ou ganhos de capital já são colectados entre nós através quer dos encargos de mais-valia previstos na [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461) e no [Decreto-Lei n.º 41616](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41616-1958-302897), quer do selo de traspasse, pago embora pelo tomador do local; e foram-no até há pouco, ainda que não exclusivamente, também noutro caso - o da tributação, em imposto sobre a aplicação de capitais, dos aumentos de capital das sociedades por acções e por quotas, mediante incorporação de fundos de reserva e emissão de acções com preferência para os accionistas. Precisamente por se ter reconhecido que esta tributação só poderia justificar-se como de mais-valias, é que ela foi subtraída ao domínio do actual imposto de capitais e reservada para o imposto que se cria agora.
+
+Como se vê, a tributação das mais-valias, que no estrangeiro está a conquistar cada vez mais adeptos e a introduzir-se em número cada vez maior de sistemas fiscais, já se encontra consagrada entre nós, e há bastantes anos, em casos isolados, é certo, mas bem significativos de uma posição de princípio. Não é preciso, pois, justificá-la, mostrar a conveniência de a acrescentar à tributação dos chamados rendimentos ordinários; o que era preciso, ao proceder-se à reforma da tributação directa, era submeter também a imposto as outras mais-valias que merecessem e desde já pudessem ser colectadas e sistematizar depois toda a tributação. A isso vem o presente código.
+
+2. A ideia de que se partiu para traçar os limites do imposto foi a de considerar mais-valias os aumentos de valor dos bens que os contribuintes não produziram nem adquiriram para venda. É uma ideia decerto sujeita a reparos sob o ponto de vista teórico, mas que tem a vantagem de poder ser utilizada na prática. No entanto, resolveu-se aplicá-la, não a todos os bens naquelas condições, e sim apenas aos bens cujas mais-valias se verificam com maior frequência, são de maior vulto ou não oferecem dificuldades sérias de determinação. É o que acontece, sem dúvida, com os terrenos para construção; com os elementos do activo imobilizado das empresas (entre eles os traspasses e os alvarás) e os seus bens de rendimento; com o direito ao arrendamento dos escritórios e consultórios; com as quotas em sociedades e as acções.
+
+Caem precisamente sob a alçada do imposto as mais-valias desses quatro grupos de bens. Mas fica a porta aberta para se alargar a base da incidência, trazendo-lhe outros bens com as respectivas mais-valias, muito embora só possa pensar-se em fazê-lo depois de colhida a experiência deste diploma e de bem delineados em vários sectores os contornos da evolução económica que está em curso.
+
+Claro que se excluem da tributação as mais-valias puramente nominais, isto é, os ganhos atribuíveis à desvalorização da moeda, sabendo-se, aliás, quanto há de convencional e de arbitrário no seu cálculo. Mas também se excluem as mais-valias não realizadas, que alguns consideram, por isso mesmo, apenas mais-valias potenciais, e que, de qualquer modo, são quase sempre extremamente difíceis de avaliar.
+
+3. Enunciados os princípios do novo imposto, cabe agora referir, ainda que sucintamente, o sentido de algumas das soluções no domínio da sua técnica.
+
+Assim, em matéria de incidência, houve que reconhecer a impossibilidade de atingir de forma directa as mais-valias realizadas através da transmissão de quotas ou de acções. Verificando-se, todavia, que os aumentos de capital das sociedades, quando feitos por incorporação de reservas ou por subscrição com reserva de preferência para os accionistas, proporcionam frequentemente vultosos ganhos, decidiu-se aproveitar essa ocasião de enriquecimento - agora, portanto, com intuito diferente do do antigo imposto sobre a aplicação de capitais - para atingir de forma indirecta as mais-valias que os sócios em tal altura, ou noutra, realizem.
+
+Dado, porém, que nem sempre os sócios ganham com os aumentos de capital, e o que ganham só casualmente corresponderá às mais-valias de que então beneficiam ou antes beneficiaram, foi-se muito cauto na delimitação da base da incidência, considerando apenas matéria colectável, no caso da incorporação de reservas, metade do aumento de capital e, no caso da emissão de acções com preferência, metade da diferença entre o valor das acções antigas e o preço por que as novas são postas à subscrição dos sócios.
+
+4. Como, em princípio, só se visam com este imposto valorizações meramente ocasionais ou, no dizer dos Ingleses, ganhos trazidos pelo vento, nem a existência da tributação pode, na maioria das hipóteses, constituir obstáculo a que se verifiquem as mais-valias, nem a justiça exige que se concedam quaisquer isenções. Por isso mesmo é que se resolveu exonerar do imposto, além do Estado e das autarquias locais, tão-sòmente um número restritíssimo de entidades.
+
+Houve, no entanto, que prevenir o caso de as acções emitidas com reserva de preferência não serem subscritas na sua totalidade pelos accionistas. Quando tal aconteça, provàvelmente falha o pressuposto da imposição, que é, como se viu, o enriquecimento dos sócios. Fica o Ministro das Finanças com poderes para ordenar, sendo caso disso, a restituição das importâncias que tiverem sido pagas.
+
+5. O facto de as mais-valias provirem de fontes muito diversas não permitiu dar tratamento unitário à determinação da matéria colectável. Teve de apelar-se para vários métodos, consoante o mais adequado a cada uma das hipóteses contempladas pelo imposto, de modo a obviar, dentro do possível, quer à carência de um sistema satisfatório de escrita em muitas empresas médias e à falta ou ao carácter rudimentar da contabilidade na generalidade das empresas pequenas, quer à circunstância de não serem cotadas nas bolsas as acções de numerosas e importantes companhias.
+
+Em face dessas realidades, algumas das quais afectam, como bem se sabe, o lançamento de outros impostos, não ficam dúvidas sobre as imperfeições de que há-de inevitàvelmente sofrer, em número apreciável de casos, a avaliação da matéria colectável.
+
+6. Quanto à taxa, duas razões primaciais pediam que fosse moderada: primeira, a de o imposto não atingir todos os ganhos de capital, e nem talvez a maior parte; segunda, a de não se ter admitido, por dificuldades várias, o reporte das menos-valias e, dentro do mesmo exercício, só serem dedutíveis as menos-valias do activo das empresas. Com efeito, tornar-se-ia injusto onerar pesadamente as mais-valias tributadas, quando muitas outras escapavam ao imposto e muitas daquelas deveriam ser abatidas, e não eram, de perdas de capital suportadas pelo mesmo contribuinte.
+
+Foi-se, assim, para a taxa de 10 por cento - francamente modesta, sobretudo se se atender que as mais-valias são ganhos fortuitos. Julgou-se, porém, que a rapidez com que hoje sobem consideràvelmente de preços os terrenos para construção justificava a exigência de maior taxa - a taxa de 20 por cento - pelas respectivas valorizações, tanto mais que não era nada provável o imposto viesse a encarecer os terrenos, repercutindo-se sobre os compradores.
+
+No entanto, como se trata de uma tributação nova, essas taxas apresentam, de certo modo, carácter experimental, podendo desde já prever-se que tenham de ser reconsideradas e reajustadas ao fim de algum tempo.
+
+7. Nos capítulos da liquidação, cobrança, fiscalização, reclamações e recursos e penalidades adoptaram-se as soluções indicadas pelo cabedal de experiência adquirido, ao longo dos anos, no tocante aos casos em que este imposto sucede a formas de tributação análogas. Por outro lado, o trabalho de orientação, elaboração e redacção daqueles capítulos beneficiou largamente do esforço de apuramento de conceitos e textos em que se tem traduzido a reforma fiscal.
+
+Feitas as contas, fica-se, pois, com mais um imposto directo que, como os outros, se procurou estruturar com base no conhecimento dos factos e na razoabilidade das soluções. Oxalá que em domínio tão árduo e controverso como este dos ganhos de capital os resultados não venham a desmerecer grandemente dos propósitos.
+
+### CAPÍTULO I — Incidência
+
+Artigo 1.º O imposto de mais-valias incide sobre os ganhos realizados através dos actos que a seguir se enumeram:
+
+1.º Transmissão onerosa de terreno para construção, qualquer que seja o título por que se opere, quando dela resultem ganhos não sujeitos aos encargos de mais-valia previstos no artigo 17.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, ou no artigo 4.º do [Decreto-Lei n.º 41616](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41616-1958-302897), de 10 de Maio de 1958, e que não tenham a natureza de rendimentos tributáveis em contribuição industrial.
+
+2.º Transmissão onerosa, qualquer que seja o título por que se opere, de elementos do activo imobilizado e de bens ou valores mantidos como reserva ou para fruição das empresas, incluindo as não sujeitas a contribuição industrial ou ao imposto sobre a indústria agrícola ou isentas destes impostos.
+
+> Alterado pelo/a [Decreto-Lei n.º 5/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1987-599757), publicado em 1987-01-06.
+
+3.º Traspasse de locais ocupados por escritórios ou consultórios afectos ao exercício de profissões constantes da tabela anexa ao Código do Imposto Profissional.
+
+4.º Aumento do capital das sociedades anónimas, e em comandita por acções ou por quotas, mediante incorporação de reservas ou emissão de acções.
+
+> Alterado pelo/a [Decreto-Lei n.º 626/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1976-430854), publicado em 1976-07-28.
+
+§ 1.º Consideram-se rendimentos tributáveis em contribuição industrial os ganhos provenientes da transmissão a título oneroso de terreno para construção até decorridos dois anos sobre a data da aquisição, quando esta se haja operado a igual título.
+
+§ 2.º São havidos como terrenos para construção os situados em zonas urbanizadas ou compreendidos em planos de urbanização já aprovados e os assim declarados no título aquisitivo.
+
+§ 3.º Não se considera abrangida pelo n.º 1.º deste artigo a transmissão onerosa de terreno para construção, de um sócio para a cooperativa de construção de que faça parte, ou de um beneficiário ou sócio de instituição de previdência social para essa mesma instituição, desde que o terreno se destine à construção, por essas entidades, de uma habitação para venda exclusiva ao transmitente do terreno.
+
+Do mesmo modo, não se compreende no n.º 1.º deste artigo a transmissão que, por virtude de desistência da construção, se opere da entidade adquirente do terreno para o anterior transmitente, quando efectuada pelo mesmo valor.
+
+§ 4.º Quando, por virtude de desistência da construção a que se destinava, o terreno fique na titularidade da entidade que o adquiriu, será o transmitente sujeito a imposto, nos termos do n.º 1.º neste artigo.
+
+§ 5.º Os ganhos a que respeita o n.º 2.º, quando realizados mediante transmissão onerosa de terreno para construção ou de acções ou outras participações sociais, só ficarão sujeitos a imposto por força do que dispõem, respectivamente, os n.º 1.º e 4.º
+
+> Alterado pelo/a [Decreto-Lei n.º 626/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1976-430854), publicado em 1976-07-28.
+
+Art. 2.º Constituem os ganhos sujeitos a imposto:
+
+a) No caso do n.º 1.º do artigo anterior, a diferença entre o valor de realização e o valor de aquisição do terreno acrescido dos encargos suportados indispensáveis à valorização do mesmo nos cinco anos anteriores à data da transmissão;
+
+> Alterado pelo/a [Decreto-Lei n.º 135/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1986-228846), publicado em 1986-06-12.
+
+b) No caso do n.º 2.º, a diferença entre o valor de realização e o valor de aquisição, eventualmente corrigido, dos elementos, bens e valores aí referidos;
+
+c) No caso do n.º 3.º, o preço pago ao cedente, deduzido do preço por que este, se adquiriu por traspasse o direito ao arrendamento, o tenha obtido;
+
+d) No caso do n.º 4.º, 50 por cento das reservas incorporadas e da diferença que se verificar entre o valor das acções emitidas por virtude do aumento de capital e o preço da emissão.
+
+Art. 3.º Para que os ganhos referidos no artigo 1.º fiquem sujeitos a imposto é necessário que o terreno, no caso do n.º 1.º, os elementos do activo imobilizado das empresas ou os bens ou valores por elas mantidos como reserva ou para fruição, no caso do n.º 2.º, e o local traspassado, no caso do n.º 3.º, estejam situados no território do continente e ilhas adjacentes; e, no caso do n.º 4.º, que as sociedades aí tenham a sua sede.
+
+§ 1.º A situação dos elementos, bens e valores a que se refere o n.º 2.º determina-se pelas regras seguintes:
+
+a) Os direitos mobiliários e imobiliários localizam-se onde estiverem os bens a que respeitam;
+
+b) Os veículos motorizados, navios, aeronaves e material ferroviário circulante consideram-se situados no local onde se exerça a actividade para que são utilizados;
+
+c) Os bens referidos na alínea anterior, bem como os bens móveis afectos à sua exploração e funcionamento, quando destinados ao tráfego internacional ou ao tráfego entre o território português europeu e o das províncias ultramarinas, consideram-se situados no local do domicílio da empresa transportadora, se esta for domiciliada em Portugal, ou no do registo, matrícula ou inscrição dos veículos, navios, aeronaves ou material ferroviário circulante, no caso contrário;
+
+d) Os créditos pertencem ao domicílio do credor;
+
+e) Os alvarás consideram-se situados no local onde é exercida a actividade a que respeitam.
+
+> Alterado pelo/a [Decreto-Lei n.º 506/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1971-631782), publicado em 1971-11-20.
+
+§ 2.º As sociedades com sede no estrangeiro ou nas províncias ultramarinas que tenham a direcção efectiva no continente ou ilhas adjacentes serão consideradas, para efeitos deste imposto, como tendo aqui a sua sede.
+
+Art. 4.º O imposto respeita às pessoas que aufiram os ganhos a ele sujeitos, sem prejuízo da sua exigência às sociedades referidas no n.º 4.º do artigo 1.º, nos casos aí previstos.
+
+### CAPÍTULO II — Isenções
+
+Art. 5.º Ficam isentos do imposto:
+
+1.º O Estado e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os órgãos de coordenação da assistência;
+
+2.º As autarquias locais e suas federações e uniões;
+
+3.º As pessoas colectivas de utilidade pública administrativa, nos termos do artigo 9.º;
+
+4.º Quaisquer outras entidades ou pessoas declaradas de utilidade pública, nos termos e com as restrições estabelecidas nos diplomas que as criaram ou constantes de legislação especial;
+
+5.º O Banco de Portugal, quanto à parte de mais-valias pertencente ao Estado em virtude da sua participação estatutária nos lucros;
+
+6.º Os empreiteiros ou arrematantes, nacionais ou estrangeiros, relativamente às obras e trabalhos das infra-estruturas comuns N. A. T. O. a realizar no continente e ilhas adjacentes, de harmonia com o [Decreto-Lei n.º 41561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41561-1958-304721), de 17 de Março de 1958;
+
+7.º As instituições de previdência definidas na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962.
+
+8.º As pessoas sujeitas ao imposto sobre o rendimento do petróleo.
+
+> Aditado pelo/a [Decreto-Lei n.º 625/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/625-1971-165993), publicado em 1971-12-31.
+
+§ único. A isenção do imposto pelos ganhos a que respeita o n.º 4.º do artigo 1.º, quando se trate das entidades referidas nos n.os 2.º a 8.º deste artigo, só terá lugar relativamente àquelas que, até à data da celebração da escritura do aumento de capital, apresentem à sociedade uma declaração do seu direito à isenção, indicando na mesma o preceito legal que a concede e, sendo caso disso, o despacho mencionado no artigo 9.º
+
+> Alterado pelo/a [Decreto-Lei n.º 625/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/625-1971-165993), publicado em 1971-12-31.
+
+Art. 6.º Ficam também isentas do imposto, mas só pelos ganhos a que respeita o n.º 4.º do artigo 1.º, as sociedades cuja actividade consista na mera gestão de uma carteira de títulos e que tenham capital superior a 100000 contos, sendo-lhes aplicável o disposto no § único do artigo anterior.
+
+> Alterado pelo/a [Decreto-Lei n.º 542/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1971-632018), publicado em 1971-12-06.
+
+Art. 7.º Poderá ser concedida isenção do imposto de mais-valias nos termos da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, e demais legislação posterior ao Código.
+
+§ único. Na falta de disposição em contrário, a isenção será concedida pelo Ministro das Finanças.
+
+> Alterado pelo/a [Decreto-Lei n.º 626/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1976-430854), publicado em 1976-07-28.
+
+> Alterado pelo/a [Decreto-Lei n.º 626/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1976-430854), publicado em 1976-07-28.
+
+Art. 9.º Na hipótese do n.º 3.º do artigo 5.º, a mera aprovação dos estatutos não confere só por si isenção deste imposto, devendo cada caso ser submetido à apreciação do Ministro das Finanças, que, ouvida a Direcção-Geral das Contribuições e Impostos, e conforme as circunstâncias, definirá em despacho publicado no Diário do Governo a amplitude da respectiva isenção.
+
+Art. 10.º As isenções resultantes de acordo entre o Estado e quaisquer pessoas de direito público ou privado são mantidas na forma da respectiva lei.
+
+§ único. Tratando-se de empresas concessionárias, a isenção limitar-se-á aos ganhos provenientes do objecto da concessão.
+
+### CAPÍTULO III — Determinação da matéria colectável
+
+Art. 11.º O valor de realização dos terrenos para construção equivalerá àquele que for considerado para liquidação da sisa e o valor de aquisição ao que for considerado para liquidação da sisa ou do imposto sobre as sucessões e doações, consoante se trate de aquisição a título oneroso ou a título gratuito, acrescido dos encargos que se tornou indispensável suportar para a sua valorização nos últimos cinco anos anteriores à data da transmissão.
+
+> Alterado pelo/a [Decreto-Lei n.º 135/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1986-228846), publicado em 1986-06-12.
+
+§ único. Não havendo lugar a liquidação dos referidos impostos, considerar-se-ão os valores que lhes serviriam de base, caso fossem devidos, determinados de harmonia com as regras estabelecidas no Código da Sisa e do Imposto sobre as Sucessões e Doações.
+
+Art. 12.º A correcção a efectuar no valor de aquisição dos elementos, bens ou valores referidos no n.º 2.º do artigo 1.º processa-se de acordo com as seguintes regras:
+
+a) Ao valor de aquisição são deduzidas as importâncias que deviam ter sido destinadas a reintegrá-lo ou amortizá-lo nos termos da [Portaria n.º 737/81](https://diariodarepublica.pt/dr/detalhe/portaria/737-1981-577913), de 29 de Agosto, de modo a determinar-se o valor líquido que, feitas as competentes reintegrações ou amortizações, deveria figurar no último balanço, ou, no caso de se ter praticado mensualização de reintegrações e amortizações nos termos do n.º 6.º da citada portaria, o valor líquido que figuraria no balancete «Razão» com data do último dia do mês anterior ao da transmissão onerosa;
+
+b) O valor líquido referido na alínea anterior é actualizado mediante a aplicação do coeficiente de desvalorização da moeda mencionado no artigo 15.º deste Código.
+
+> Alterado pelo/a [Decreto-Lei n.º 36/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1982-600531), publicado em 1982-02-05.
+
+§ 1.º Quando a razoabilidade das reintegrações e amortizações praticadas deva ser apreciada pela Direcção-Geral das Contribuições e Impostos, para efeitos de contribuição industrial, a correcção terá de conter-se dentro dos limites que lhes houverem sido assinados, sem prejuízo, porém, do disposto no artigo 138.º do respectivo Código.
+
+§ 2.º Quando não caiba à Direcção-Geral das Contribuições e Impostos apreciar a razoabilidade das reintegrações e amortizações, a correcção terá de conter-se dentro dos limites que para o efeito lhes deverão ser assinados pelo chefe da repartição de finanças competente para a fixação do lucro tributável da contribuição industrial, ou pela comissão a que se refere o artigo 72.º do Código desta contribuição.
+
+> Alterado pelo/a [Decreto-Lei n.º 626/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1976-430854), publicado em 1976-07-28.
+
+§ 3.º Da importância global das mais-valias apuradas em determinado exercício será deduzida, até à concorrência do respectivo montante, a importância correspondente à totalidade das menos-valias sofridas no mesmo exercício.
+
+Art. 13.º No caso da alínea c) do artigo 2.º, não pode ser considerada como preço pago ao cedente importância inferior a cinco vezes o rendimento colectável correspondente ao prédio ou parte do prédio que foi objecto de traspasse.
+
+§ 1.º Se o cedente tiver tomado por traspasse o local cedido, ao preço que lhe for pago deduzir-se-á o preço por que ele houver adquirido o direito ao arrendamento, ambos determinados nos termos deste artigo.
+
+§ 2.º O contribuinte pode contestar o valor resultante do rendimento colectável e a Fazenda Nacional, representada pelo Ministério Público, pode contestar os preços ou valores declarados, devendo proceder-se em qualquer dos casos a avaliação do direito transferido, que correrá nos termos aplicáveis dos artigos 93.º e seguintes do Código da Sisa e do Imposto sobre as Sucessões e Doações.
+
+§ 3.º Se for feita avaliação, o valor dela resultante prevalecerá sobre qualquer dos valores referidos neste artigo, excepto sobre o preço declarado, quando este for superior.
+
+Art. 14.º Para efeitos da alínea d) do artigo 2.º haver-se-á como valor das acções emitidas o que resultar da cotação média na bolsa dos últimos 6 meses ou, não havendo cotação, o que resultar da aplicação da seguinte fórmula:
+
+V(índice a) = 1/2(índice n)[S + ((R(índice 1) + R(índice 2))/2)f]
+
+em que:
+
+V(índice a) - Representa o valor de cada acção;
+
+n - É o número de acções em que se dividia o capital nominal ou, no caso de transformação de sociedades por quotas em sociedades anónimas, o número de acções que, segundo o valor nominal das que vão ser emitidas, se compreenda no capital nominal da sociedade a transformar;
+
+S - É o valor substancial da sociedade, o qual será calculado a partir do valor contabilístico correspondente ao exercício anterior à deliberação a que se refere o artigo 24.º;
+
+R(índice 1) e R(índice 2) - São os resultados líquidos obtidos pela sociedade nos 2 últimos exercícios findos antes da deliberação a que se refere o artigo 24.º, considerando-se R(índice 1) + R(índice 2) = 0 nos casos em que o somatório desses resultados for negativo;
+
+f - É o factor de capitalização dos resultados líquidos publicados anualmente por portaria do Ministro de Estado e das Finanças e do Plano para efeitos da alínea a) da regra 5.ª do § 3.º do artigo 20.º do Código da Sisa e do Imposto sobre as Sucessões e Doações.
+
+> Alterado pelo/a [Decreto-Lei n.º 155/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1982-392835), publicado em 1982-05-06.
+
+> Alterado pelo/a [Decreto-Lei n.º 506/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1971-631782), publicado em 1971-11-20.
+
+Art. 15.º Ocorrendo desvalorização da moeda, os valores de aquisição mencionados nas alíneas a) e c) do artigo 2.º, assim como o valor líquido referido na alínea a) do artigo 12.º, serão sempre corrigidos pelos coeficientes que, para o efeito, sejam publicados em portaria do Ministro de Estado e das Finanças e do Plano.
+
+> Alterado pelo/a [Decreto-Lei n.º 36/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1982-600531), publicado em 1982-02-05.
+
+### CAPÍTULO IV — Taxas
+
+Art. 16.º A taxa do imposto é de 12%, salvo no caso dos ganhos de que trata o n.º 1 do artigo 1.º, em que será de 24%.
+
+> Alterado pelo/a [Decreto-Lei n.º 183-G/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-g-1980-324952), publicado em 1980-06-09.
+
+Art. 17.º Sobre este imposto não recai nenhum adicional.
+
+### CAPÍTULO V — Liquidação
+
+Art. 18.º As pessoas ou entidades que pretendam transmitir a título oneroso qualquer terreno para construção, ou trespassar o direito ao arrendamento de escritórios ou consultórios afectos ao exercício de profissões constantes da tabela anexa ao Código do Imposto Profissional, participá-lo-ão ao chefe da repartição de finanças do concelho ou bairro em que estiver situado o terreno, o escritório ou o consultório, em impresso modelo n.º 1, entregue em duplicado, para efeito da liquidação do imposto, se for devido, juntando, tratando-se de terreno para construção, prova documental dos encargos referidos no artigo 11.º
+
+> Alterado pelo/a [Decreto-Lei n.º 135/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1986-228846), publicado em 1986-06-12.
+
+§ 1.º Na hipótese prevista no § 4.º do artigo 1.º, a declaração a que se refere este artigo será apresentada no prazo de trinta dias, a contar da data da desistência.
+
+§ 2.º Excluem-se da obrigação estabelecida no corpo deste artigo as pessoas ou entidades que transmitam terreno para construção, quando tributadas em contribuição industrial pela actividade de compra de prédios para revenda e, bem assim, nos casos previstos no § 3.º do artigo 1.º
+
+> Alterado pelo/a [Decreto-Lei n.º 626/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1976-430854), publicado em 1976-07-28.
+
+§ 3.º A exactidão dos encargos referidos no artigo 11.º será verificada pelo chefe da repartição de finanças, que os poderá alterar em face de quaisquer elementos de que disponha.
+
+§ 4.º Da correcção a que se refere o parágrafo anterior poderá o contribuinte reclamar com efeito suspensivo, no prazo de quinze dias a contar da notificação que para esse fim lhe será feita, aplicando-se, com as devidas adaptações, o disposto nos §§ 5.º e 7.º do artigo 19.º
+
+> Aditado pelo/a [Decreto-Lei n.º 135/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1986-228846), publicado em 1986-06-12.
+
+Art. 19.º A liquidação do imposto de mais-valias, a que se refere o n.º 2.º do artigo 1.º, será efectuada pela repartição de finanças em que deve ser apresentada a declaração modelo n.º 2, nos termos seguintes:
+
+a) Até ao dia 20 de Setembro do ano seguinte àquele a que respeita o imposto, tratando-se de contribuintes do grupo A da contribuição industrial ou do imposto sobre a indústria agrícola e de entidades referidas no artigo 22.º-A que devessem pertencer a este grupo;
+
+b) Conjuntamente com a da correcção à contribuição industrial ou ao imposto sobre a indústria agrícola que respeitem ao mesmo contribuinte, quando pertença ao grupo B, prevista no § único do artigo 85.º do CCI, observando-se para o efeito as regras fixadas neste Código, aplicáveis em ambos os casos;
+
+c) Conjuntamente com a contribuição industrial, quando se trate de contribuinte pertencente ao grupo C, observando-se para o efeito as regras fixadas no respectivo Código.
+
+§ 1.º Tratando-se de contribuintes dos grupos B e C da contribuição industrial e do grupo B do imposto sobre a indústria agrícola, ou que a estes grupos pertenceriam na hipótese de estarem sujeitos aos referidos impostos, mas não havendo lugar a liquidação dos mesmos, o imposto de mais-valias será liquidado autonomamente nos prazos e termos fixados, respectivamente, para a correcção daqueles impostos, no caso do grupo B, e para a liquidação da contribuição industrial, quanto aos do grupo C.
+
+§ 2.º Em qualquer dos casos, a liquidação terá por base os elementos constantes da declaração modelo n.º 2, sendo a sua exactidão verificada pelo chefe da respectiva repartição de finanças, que os poderá alterar em face de quaisquer outros elementos de que disponha.
+
+§ 3.º Na impossibilidade de as mais-valias realizadas e as menos-valias sofridas serem determinadas com base em elementos fornecidos pelos contribuintes, serão as mesmas fixadas pelo chefe da respectiva repartição de finanças.
+
+§ 4.º As alterações referidas na parte final do § 2.º e bem assim as fixações de que trata o § 3.º deverão ficar concluídas dentro dos seguintes prazos:
+
+a) Até ao dia 31 de Julho, tratando-se de contribuintes abrangidos pela alínea a) deste artigo;
+
+b) Nos prazos estabelecidos nos respectivos códigos para a fixação da matéria colectável da contribuição industrial ou imposto sobre a indústria agrícola, nos restantes casos.
+
+§ 5.º Das alterações feitas nos termos do § 2.º e das fixações efectuadas de harmonia com o preceituado no § 3.º poderão os contribuintes reclamar para o chefe da repartição de finanças, observando-se o disposto no artigo 70.º do Código da Contribuição Industrial.
+
+§ 6.º A reclamação prevista no parágrafo antecedente será apresentada nos prazos seguintes:
+
+a) De 1 a 15 de Agosto, tratando-se de alterações ou fixações que devam ser efectuadas dentro do prazo fixado na alínea a) do § 4.º;
+
+b) Nos prazos fixados no artigo 71.º do Código da Contribuição Industrial, nos restantes casos.
+
+§ 7.º Quando a reclamação for totalmente desatendida, a comissão fixará, a título de custas, um agravamento ao imposto, graduado conforme as circunstâncias, mas nunca superior a 5%.
+
+> Alterado pelo/a [Decreto-Lei n.º 378/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1977-286368), publicado em 1977-09-07.
+
+Art. 20.º Os contribuintes do grupo A da contribuição industrial ou do imposto sobre a indústria agrícola que, em determinado exercício, transmitirem globalmente, a título oneroso, estabelecimento estável ou conjunto de elementos do seu activo imobilizado ou de bens ou valores mantidos como reserva ou para fruição, ou de uns e outros indiscriminadamente, mencionarão expressamente essa circunstância na declaração modelo n.º 2, no espaço reservado às «observações», e imputarão rateadamente a soma ou importância recebida a cada uma das rubricas do activo em que se incluam os bens alienados.
+
+> Alterado pelo/a [Decreto-Lei n.º 5/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1987-599757), publicado em 1987-01-06.
+
+Art. 21.º Os contribuintes tributados em contribuição industrial ou em imposto sobre a indústria agrícola apresentarão, na repartição de finanças competente para a liquidação desses impostos, com as respectivas declarações de rendimentos, anuais ou de cessação, uma declaração modelo n.º 2, na qual mencionarão as importâncias das mais-valias realizadas e das menos-valias sofridas no ano a que respeita a declaração, em elementos do activo imobilizado ou em bens ou valores mantidos como reserva ou para fruição.
+
+§ único. Não tendo havido transmissão onerosa de elementos do activo imobilizado ou de bens ou valores mantidos como reserva ou para fruição, será feita menção nesse sentido na declaração apresentada para efeitos da contribuição industrial ou do imposto sobre a indústria agrícola.
+
+> Alterado pelo/a [Decreto-Lei n.º 5/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1987-599757), publicado em 1987-01-06.
+
+> Alterado pelo/a [Decreto-Lei n.º 36/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1982-600531), publicado em 1982-02-05.
+
+Art. 22.º-A. As pessoas singulares ou colectivas não sujeitas a contribuição industrial ou a imposto sobre a indústria agrícola ou isentas destes impostos, mas não isentas do imposto de mais-valias a que se refere o n.º 2 do artigo 1.º, apresentarão a declaração modelo n.º 2 dentro dos prazos em que teriam de apresentar as declarações para efeitos daqueles impostos se fossem devidos e na repartição de finanças competente para a sua liquidação.
+
+§ único. Se o contribuinte tiver domicílio ou sede fora do território do continente e ilhas adjacentes e não possuir neste território instalações comerciais ou industriais nem representação permanente, será a declaração apresentada na Repartição de Finanças do 3.º Bairro Fiscal de Lisboa.
+
+> Aditado pelo/a [Decreto-Lei n.º 506/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1971-631782), publicado em 1971-11-20.
+
+Art. 23.º As sociedades anónimas, em comandita por acções ou por quotas, que queiram proceder a aumentos do capital, mediante incorporação de fundos de reserva ou emissão de acções, participá-lo-ão ao chefe da repartição de finanças do concelho ou bairro onde tiverem a sua sede, em impresso modelo n.º 3, para efeitos da liquidação do imposto, se for devido.
+
+§ único. São igualmente obrigadas ao disposto neste artigo as sociedades por quotas que pretendam transformar-se em anónimas e aumentar o capital social.
+
+> Alterado pelo/a [Decreto-Lei n.º 626/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1976-430854), publicado em 1976-07-28.
+
+Art. 24.º A participação a que se refere o artigo anterior deverá ser acompanhada de um exemplar do balanço relativo ao exercício findo antes da deliberação da assembleia geral e das demonstrações de resultados líquidos relativos aos 2 últimos exercícios findos antes daquela deliberação, bem como de uma pública-forma da acta que desta houver sido lavrada.
+
+§ único. No caso de emissão de acções, a participação será também acompanhada de uma certidão da bolsa, donde conste a cotação média das acções nos últimos 6 meses.
+
+> Alterado pelo/a [Decreto-Lei n.º 155/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1982-392835), publicado em 1982-05-06.
+
+Art. 25.º O imposto será liquidado tomando por base as indicações fornecidas pelas sociedades, cuja exactidão será verificada pelas repartições de finanças, que as deverão corrigir oficiosamente quando nelas reconheçam quaisquer inexactidões.
+
+Art. 26.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 12% ao ano, sem prejuízo da multa cominada ao infractor.
+
+> Alterado pelo/a [Decreto-Lei n.º 626/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1976-430854), publicado em 1976-07-28.
+
+§ único. O juro será contado dia a dia, desde o termo do prazo para a apresentação da declaração ou para o cumprimento da obrigação de que resultou atraso na liquidação até à data em que vier a ser suprida ou corrigida a falta.
+
+Art. 27.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 100$00.
+
+> Alterado pelo/a [Decreto-Lei n.º 626/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1976-430854), publicado em 1976-07-28.
+
+Art. 28.º Só poderá ser liquidado imposto nos cinco anos seguintes àquele em que houverem sido praticados os actos que, nos termos do artigo 1.º, directamente respeitam aos ganhos realizados, ou no caso previsto no § 4.º do mesmo artigo nos cinco anos seguintes àquele em que tenha ocorrido a desistência da construção.
+
+> Alterado pelo/a [Decreto-Lei n.º 626/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1976-430854), publicado em 1976-07-28.
+
+Art. 29.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito ou houve quaisquer omissões de que resultou prejuízo para o Estado, a repartição de finanças deverá repará-lo mediante liquidação adicional, mas sempre com observância do disposto no artigo anterior.
+
+### CAPÍTULO VI — Cobrança
+
+Art. 30.º Liquidado o imposto pelas mais-valias a que respeitam os n.os 1.º e 3.º do artigo 1.º, o contribuinte será notificado para o pagar no prazo de quinze dias, ou, tratando-se de traspasse, para, no mesmo prazo, pagar ou requerer avaliação do direito ao arrendamento.
+
+§ 1.º Pretendendo o contribuinte pagar o imposto no prazo fixado no corpo deste artigo, ser-lhe-á imediatamente passado, a seu pedido, título para cobrança eventual.
+
+§ 2.º Se for requerida avaliação do direito ao arrendamento, a liquidação será reformada de acordo com os seus resultados, notificando-se novamente o contribuinte para pagar o imposto no prazo de quinze dias.
+
+§ 3.º Se o contribuinte não pagar o imposto no prazo fixado, serão passados títulos para cobrança virtual.
+
+Art. 31.º A cobrança do imposto de mais-valias a que respeita o n.º 2.º do artigo 1.º será feita nos termos seguintes:
+
+a) Quando se trate de imposto de mais-valias liquidado nos termos da alínea a) do artigo 19.º, durante o mês de Outubro;
+
+b) Nos demais casos, conjuntamente com a da contribuição industrial ou do imposto sobre a indústria agrícola devidos pelo mesmo contribuinte, nos prazos e termos fixados nos respectivos códigos.
+
+> Alterado pelo/a [Decreto-Lei n.º 378/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1977-286368), publicado em 1977-09-07.
+
+§ único. Não havendo lugar a cobrança da contribuição industrial ou do imposto sobre a indústria agrícola e tratando-se de imposto de mais-valias liquidado nos termos do § 1.º do artigo 19.º, a sua cobrança far-se-á autonomamente nos prazos e termos fixados no CCI para a cobrança da importância relativa à correcção de que trata o § único do artigo 85.º do mesmo Código ou para cobrança da contribuição devida, conforme se trate, respectivamente, de contribuintes do grupo B de qualquer daqueles impostos ou do grupo C da contribuição industrial.
+
+> Alterado pelo/a [Decreto-Lei n.º 5/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1987-599757), publicado em 1987-01-06.
+
+Art. 32.º Liquidado o imposto pelas mais-valias a que respeita o n.º 4.º do artigo 1.º, será notificada a sociedade para o pagar no prazo de quinze dias, observando-se, na falta de pagamento, o disposto no § 3.º do artigo 30.º
+
+> Alterado pelo/a [Decreto-Lei n.º 506/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1971-631782), publicado em 1971-11-20.
+
+§ único. Quando se apurar que o imposto não é devido, entregar-se-á à sociedade um certificado de tal circunstância.
+
+Art. 33.º Pago o imposto pela sociedade, esta exigirá sempre aos sócios não isentos, na proporção do acréscimo de capital nominal que lhes for atribuído, a importância que a cada um deles couber.
+
+§ único. Se algum sócio não pagar, a sociedade deverá reter, enquanto durar a mora, as acções que lhe pertencerem; havendo lucros, deverá cobrar-se da dívida pelos que ao sócio forem atribuídos.
+
+Art. 33.º-A. O imposto pago correspondente a entidades que devam beneficiar de isenção será restituído à sociedade, mediante título de anulação, desde que ela o requeira ao Ministro das Finanças, no prazo de trinta dias, contados da data da escritura do aumento de capital.
+
+§ único, O requerimento será obrigatòriamente acompanhado de uma relação das entidades isentas, com indicação da parte do aumento de capital que a cada uma delas coube, e das declarações a que se refere o § único do artigo 5.º
+
+> Aditado pelo/a [Decreto-Lei n.º 506/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1971-631782), publicado em 1971-11-20.
+
+Art. 34.º Não sendo pago o imposto na data do vencimento, começarão a correr imediatamente juros de mora.
+
+Art. 34.º-A. Passados sessenta dias sobre o vencimento do imposto liquidado nos termos da alínea a) do artigo 19.º sem que se mostre efectuado o pagamento, haverá lugar a procedimento executivo.
+
+> Aditado pelo/a [Decreto-Lei n.º 378/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1977-286368), publicado em 1977-09-07.
+
+Art. 35.º Passados quinze dias sobre o débito ao tesoureiro dos títulos para cobrança virtual a que se refere o § 3.º do artigo 30.º sem que se mostre efectuado o pagamento do imposto, haverá lugar a procedimento executivo.
+
+Art. 36.º Para o pagamento do imposto pelos ganhos a que respeitam os n.os 1.º e 3.º do artigo 1.º a Fazenda Nacional goza de privilégio creditório, respectivamente, sobre o terreno para construção e sobre o direito ao arrendamento, podendo executar a todo o tempo esses bens, embora tenham passado, antes ou depois da liquidação, para o poder de terceiro, salvo se a transmissão se tiver operado por venda judicial em processo a que o Estado deva ser chamado a deduzir os seus direitos.
+
+Art. 36.º-A. Para pagamento do imposto pelos ganhos a que respeita o n.º 2.º do artigo 1.º, a Fazenda Nacional goza do privilégio referido no artigo 736.º do Código Civil.
+
+> Aditado pelo/a [Decreto-Lei n.º 378/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1977-286368), publicado em 1977-09-07.
+
+### CAPÍTULO VII — Fiscalização
+
+Art. 37.º O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades, corpos administrativos, repartições públicas e pessoas colectivas de utilidade pública e, em especial, pela Direcção-Geral das Contribuições e Impostos.
+
+§ 1.º Os agentes do Ministério Público das contribuições e impostos poderão examinar os arquivos de repartições públicas, de pessoas colectivas de utilidade pública administrativa e organismos de coordenação económica e corporativos, bem como, eles próprios ou os seus representantes, os livros e documentos dos contribuintes, ou responsáveis, sejam ou não comerciantes, embora sempre com observância do disposto no § único do artigo 43.º do Código Comercial.
+
+§ 2.º A Direcção-Geral poderá solicitar à Inspecção-Geral de Finanças ou à Inspecção-Geral de Crédito e Seguros, conforme os casos, a realização de exames à escrita das pessoas ou entidades referidas no parágrafo anterior.
+
+§ 3.º As autoridades civis e militares deverão prestar aos funcionários de finanças todo o auxílio que estes lhes requererem para o efeito da fiscalização a seu cargo.
+
+Art. 38.º Os notários, ainda que privativos, não poderão lavrar escrituras de transmissão onerosa de terreno para construção ou de traspasse dos locais referidos no n.º 3.º do artigo 1.º sem que o alienante ou o dador de traspasse, conforme o caso, comprove ter pago o imposto de mais-valias ou haver requerido a sua liquidação, salvo se, tratando-se de transmissão onerosa de terreno para construção, o alienante for entidade tributada em contribuição industrial pela actividade de compra de prédios para revenda e comprovar perante o notário essa qualidade, nos termos dos artigos 116.º e 117.º do respectivo código.
+
+§ único. Durante o mês de Fevereiro de cada ano, os notários enviarão às repartições de finanças relações modelo n.º 4 donde constem todas as escrituras de transmissão onerosa de terreno para construção, celebradas no ano anterior, em que figurem como alienantes as entidades tributadas em contribuição industrial, através de cada uma dessas repartições, pela actividade de compra de prédios para revenda.
+
+Art. 39.º Se for vendido judicialmente terreno para construção ou direito ao arrendamento dos locais referidos no n.º 3.º do artigo 1.º, o escrivão do processo comunicá-lo-á no dia seguinte à repartição de finanças competente para a liquidação do imposto que eventualmente for devido.
+
+§ 1.º A comunicação deverá incluir obrigatòriamente uma identificação geral do processo, com indicação da data em que se efectuou a venda e do nome, estado, profissão e morada do anterior dono do terreno ou titular do direito ao arrendamento.
+
+§ 2.º Feita a comunicação, aguardar-se-á que a repartição de finanças se pronuncie sobre se é devido imposto e, no caso afirmativo, qual o seu montante.
+
+§ 3.º Sendo devido imposto, a importância deste sairá do produto da venda.
+
+Art. 40.º Sem que se mostre estar pago ou não ser devido o respectivo imposto, os notários, ainda que privativos, não poderão lavrar escrituras donde constem aumentos do capital de sociedades anónimas, em comandita por acções ou por quotas, operados mediante incorporação de fundos de reserva ou emissão de acções.
+
+§ único. A proibição referida neste artigo é extensiva às escrituras donde conste a transformação de sociedades por quotas em sociedades anónimas, com aumento de capital.
+
+> Alterado pelo/a [Decreto-Lei n.º 626/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1976-430854), publicado em 1976-07-28.
+
+Art. 41.º Até ao dia 15 de cada mês os notários enviarão às repartições de finanças competentes para liquidar o imposto a que respeita o n.º 4.º do artigo 1.º, relações modelo n.º 5, donde constem todas as escrituras celebradas no mês anterior, de aumento de capital de sociedades anónimas, em comandita por acções ou por quotas, quando realizado mediante incorporação de fundos de reserva ou emissão de acções.
+
+§ único. Das relações modelo n.º 5 constarão também as escrituras que respeitem à transformação de sociedades por quotas em sociedades anónimas, com aumento de capital.
+
+> Alterado pelo/a [Decreto-Lei n.º 626/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1976-430854), publicado em 1976-07-28.
+
+Art. 42.º Durante o mês de Janeiro de cada ano as repartições de finanças enviarão aos serviços centrais da Direcção-Geral das Contribuições e Impostos uma relação modelo n.º 6, mencionando todos os aumentos de capital das sociedades com sede na área do respectivo concelho ou bairro, realizados no ano anterior, e que tenham chegado ao seu conhecimento por qualquer forma.
+
+### CAPÍTULO VIII — Reclamações e recursos
+
+Art. 43.º Os contribuintes poderão reclamar contra a liquidação deste imposto, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
+
+Art. 44.º Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido cinco anos sobre a abertura dos cofres para a respectiva cobrança ou sobre o pagamento eventual.
+
+§ único. Não se procederá a anulação quando o seu quantitativo seja inferior a 100$00.
+
+> Alterado pelo/a [Decreto-Lei n.º 626/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1976-430854), publicado em 1976-07-28.
+
+Art. 45.º Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, com trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido em imposto de mais-valias, arrecadado por cobrança virtual.
+
+§ 1.º Contar-se-ão juros de 12% ao ano a favor do contribuinte sempre que, estando pago o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
+
+> Alterado pelo/a [Decreto-Lei n.º 626/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1976-430854), publicado em 1976-07-28.
+
+§ 2.º Os juros serão contados dia a dia desde a data do pagamento do imposto até à data do processamento do título de anulação e acrescidos à importância deste.
+
+### CAPÍTULO IX — Penalidades
+
+Art. 46.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo a graduação das penas, quando a isso houver lugar, fazer-se de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
+
+Art. 46.º-A. A falta de apresentação das participações exigidas pelos artigos 18.º e 23.º antes de efectuadas as transmissões, os trespasses ou as escrituras de aumento de capital ou, no caso previsto no § 1.º do artigo 18.º, dentro do prazo nele estabelecido, será punida com multa igual ao imposto devido, com o mínimo de 500$00.
+
+§ único. Não sendo devido imposto aplicar-se-á sempre o mínimo da multa.
+
+> Aditado pelo/a [Decreto-Lei n.º 626/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1976-430854), publicado em 1976-07-28.
+
+Art. 47.º A falta das declarações exigidas no corpo do artigo 21.º será punida com multa de 200$00 a 40000$00 e a falta da declaração a que se refere o artigo 22.º-A com a multa de 400$00 a 100000$00.
+
+> Alterado pelo/a [Decreto-Lei n.º 36/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1982-600531), publicado em 1982-02-05.
+
+§ único. Sendo a falta cometida por contribuinte isento de contribuição industrial ou de imposto sobre a indústria agrícola, a multa será de 1000$00 a 100000$00, salvo tratando-se de entidade que, se não beneficiasse da isenção de contribuição industrial, seria tributada pelo grupo C.
+
+> Alterado pelo/a [Decreto-Lei n.º 5/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1987-599757), publicado em 1987-01-06.
+
+Art. 48.º Por qualquer indicação inexacta ou omissão nas participações ou declarações exigidas no presente diploma, donde resulte falta de liquidação de imposto ou liquidação inferior à devida, será paga multa de 100$00 a 20000$00, havendo simples negligência, e multa igual ao dobro do imposto que deixou de ser liquidado, no mínimo de 500$00, havendo dolo.
+
+§ único. As inexactidões ou omissões respeitantes a elementos exigidos pelo artigo 20.º e a inobservância do disposto no § único do artigo 21.º serão punidas nos termos das disposições do CCI ou do CCPIIA, aplicáveis a idênticas faltas cometidas nas respectivas declarações em que tais elementos devem figurar.
+
+> Alterado pelo/a [Decreto-Lei n.º 5/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1987-599757), publicado em 1987-01-06.
+
+Art. 49.º A inobservância do disposto no § único do artigo 33.º será punida com multa de 10$00 a 10000$00, relativamente a cada sócio.
+
+Art. 50.º A recusa de exibição dos arquivos ou da escrita e a de apresentação de quaisquer elementos com eles relacionados, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, por parte de entidades que não sejam serviços públicos, serão punidas com multa de 2500$00 a 100000$00, na qual incorrerão, solidàriamente entre si, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida que forem responsáveis, sem prejuízo do procedimento criminal que no caso couber.
+
+Art. 51.º Realizando-se acto ou contrato simulado, com prejuízo do imposto de mais-valias que de outro modo seria pago, ficarão os simuladores solidàriamente sujeitos a multa igual ao triplo do imposto que se deixou de pagar, no mínimo de 500$00.
+
+Art. 52.º Os funcionários público que deixarem de cumprir alguma das obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista em outras leis.
+
+Art. 53.º Por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada multa de 100$00 a 1000$00.
+
+Art. 54.º As multas cujo quantitativo apenas dependa do montante do imposto não poderão exceder 1000000$00.
+
+Art. 55.º Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
+
+§ 1.º A responsabilidade solidária prevista neste artigo só terá lugar quanto às pessoas nele referidas que hajam praticado ou sancionado a omissão ou o acto delituoso.
+
+§ 2.º Após a extinção das pessoas colectivas, responderão solidàriamente entre si as restantes pessoas neste artigo mencionadas.
+
+Art. 56.º Quando os actos ou omissões tiverem sido praticados por procurador, ou gestor de negócios, e lhe couber a responsabilidade da inexactidão da omissão, contra ele correrá o procedimento para aplicação das multas.
+
+§ único. Pelas multas impostas aos mandatários responderão solidàriamente os mandantes.
+
+Art. 57.º As multas serão impostas mediante processo de transgressão.
+
+§ 1.º O processo para aplicação da multa prevista no artigo 51.º só poderá ser instaurado depois de declarada a nulidade dos actos ou contratos simulados, em acção proposta pelo Ministério Público perante o competente tribunal comum, dentro do prazo de cinco anos a contar da realização do acto.
+
+§ 2.º O chefe da repartição de finanças, tendo fundadas suspeitas de que se simulou qualquer acto ou contrato em prejuízo da Fazenda Nacional, comunicará o facto ao agente do Ministério Público junto do tribunal competente, para que proponha a respectiva acção de anulação.
+
+§ 3.º Transitada em julgado a sentença que declara a nulidade, o tribunal deverá remeter cópia nos oito dias seguintes à repartição de finanças competente para instaurar o processo de transgressão.
+
+Art. 58.º Só poderá ser instaurado processo de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos contados da data em que a infracção foi cometida ou transitou em julgado a sentença que anulou o acto simulado.
+
+> Alterado pelo/a [Decreto-Lei n.º 506/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1971-631782), publicado em 1971-11-20.
+
+Art. 59.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional.
+
+Art. 60.º A obrigação de pagar qualquer multa prescreverá passados dez anos sobre o trânsito em julgado da condenação.
+
+Art. 61.º Serão admitidas denúncias perante as repartições e direcções de finanças, os serviços centrais e os de prevenção e fiscalização tributária da Direcção-Geral das Contribuições e Impostos, contra os que transgredirem as disposições do presente diploma.
+
+§ 1.º Qualquer denúncia poderá ser feita verbalmente ou por escrito assinado, mas só terá seguimento depois de lavrado termo de identificação do denunciante.
+
+§ 2.º A denúncia ficará secreta, salvo se, sendo destituída de fundamento, tiver sido feita dolosamente, caso em que, a requerimento do denunciado, lhe será comunicado o nome do denunciante e o conteúdo da denúncia.
+
+Art. 62.º O produto das multas será dividido nos termos do [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926, e do [Decreto n.º 12296](https://diariodarepublica.pt/dr/detalhe/decreto/12296-1926-160170), de 10 de Setembro de 1926, com as alterações introduzidas pelos artigos 12.º do [Decreto n.º 15661](https://diariodarepublica.pt/dr/detalhe/decreto/15661-1928-590108), de 1 de Julho de 1928, e 22.º do [Decreto-Lei n.º 44235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44235-1962-518252), de 14 de Março de 1962.
+
+Art. 63.º Nos casos de pagamento espontâneo da multa, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.
+
+§ único. Não se considerará espontâneo o pagamento da multa quando a participação do facto ou a solicitação da regularização da respectiva situação tributária for feita posteriormente ao início de qualquer fiscalização mediante exame à escrita do infractor.
+
+Art. 64.º Havendo a falsificação ou a viciação previstas no artigo 50.º, o tribunal participá-lo-á, nos oito dias seguintes ao trânsito em julgado da decisão, ao agente do Ministério Público competente, nos termos e para os efeitos do artigo 164.º do Código de Processo Penal, independentemente da participação, no mesmo prazo, a outras entidades que devam tomar conhecimento da infracção para eventual procedimento disciplinar contra o respectivo técnico de contas, guarda-livros e outros responsáveis.
+
+Art. 65.º Se a transgressão for praticada com dolo e o quantitativo dos ganhos ocultados, nos casos dos n.os 1.º, 2.º e 3.º do artigo 1.º, ou a multa aplicada, no caso do n.º 4.º, exceder 100000$00, será dada publicidade à condenação do transgressor, mediante inserção na imprensa periódica de um extracto da sentença, nos oito dias seguintes ao do seu trânsito em julgado.
+
+§ 1.º O extracto será organizado pelo tribunal e publicado, a expensas do infractor, em um dos diários ou não os havendo, em um periódico do concelho onde o infractor residir e, além disso, na segunda ou terceira página de dois diários de grande circulação, um de Lisboa e outro do Porto, entrando as despesas da publicação em regra de custas.
+
+§ 2.º Do extracto deverá constar a identificação do infractor, a natureza da transgressão, as circunstâncias mais reprováveis em que foi cometida e a importância dos ganhos ocultados
+
+### CAPÍTULO X — Disposições diversas
+
+Art. 65.º-A. Verificando-se a cessação total de actividade, omissão a lançamento ou liquidação de imposto inferior ao devido, observar-se-ão relativamente ao imposto referido no n.º 2.º do artigo 1.º, com as necessárias adaptações, os preceitos do Código da Contribuição Industrial aplicáveis a idênticas situações.
+
+> Aditado pelo/a [Decreto-Lei n.º 378/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1977-286368), publicado em 1977-09-07.
+
+Art. 66.º As repartições de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, participações, relações e outros documentos que lhes forem remetidos em duplicado.
+
+Art. 67.º As declarações, participações, relações e outros documentos a apresentar nas repartições de finanças pelos contribuintes e outras entidades particulares podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito devidamente endereçado e franquiado para devolução imediata, também sob registo, dos duplicados, ou dos documentos, quando for caso disso.
+
+§ único. Os documentos referidos neste artigo deverão ser assinados pelas pessoas a que incumba a sua apresentação, ou pelos seus representantes legais ou mandatários.
+
+Ministério das Finanças, 9 de Junho de 1965. - O Ministro das Finanças, António Manuel Pinto Barbosa.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/06/12900/07960806.pdf)
+
+Ministério das Finanças, 9 de Junho de 1965. - O Ministro das Finanças, António Manuel Pinto Barbosa

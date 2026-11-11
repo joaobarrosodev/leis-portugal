@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:669560:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-05-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "259ba4c667d804cb"
+   ]
+  },
+  {
+   "date": "1991-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:521587:por",
+     "title": "Declaração de Rectificação n.º 172/91",
+     "published": "1991-07-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/172-1991-521587"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "14ceb679f0b90e8d"
+   ]
+  }
+ ],
+ "fragments": {
+  "259ba4c667d804cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Declaração de rectificação n.º 114/91\n\nSegundo comunicação da 11.ª Delegação junto do Ministério da Educação, a Declaração de transferências de verbas n.º 46/91, publicada no Diário da República, n.º 78, de 4 de Abril de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:\n\nNo cap. 03, div. 04, subdiv. 01, C. F. 3.02.0, C. E. 02.02.08, na coluna das anulações, onde se lê «1538» deve ler-se «1358».\n\nNo cap. 03, div. 06, subdiv. 01, C. F. 3.02.0, C. E. 02.03.07, na coluna de anulações, onde se lê «90» deve ler-se «60».\n\nNo cap. 03, onde se lê «div. 02, subdiv. -» deve ler-se «div. -, subdiv. 03».\n\nNo cap. 03, onde se lê «div. 02, subdiv. 03» deve ler-se «div. 10, subdiv. 03».\n\nNo cap. 03, div. 12, subdiv. 01, C. F. 3.02.0, C. E. 07.01.08, na coluna das anulações, onde se lê «3500» deve ler-se «2500».\n\nSecretaria-Geral da Presidência do Conselho de Ministros, 10 de Maio de 1991. - O Secretário-Geral, França Martins."
+  },
+  "14ceb679f0b90e8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-07-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 172/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/172-1991-521587), publicado em 1991-07-31."
+   ],
+   "markdown": "Declaração de rectificação n.º 114/91\n\nSegundo comunicação da 11.ª Delegação junto do Ministério da Educação, a Declaração de transferências de verbas n.º 46/91, publicada no Diário da República, n.º 78, de 4 de Abril de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:\n\nNo cap. 03, div. 04, subdiv. 01, C. F. 3.02.0, C. E. 02.02.08, na coluna das anulações, onde se lê «1538» deve ler-se «1358».\n\nNo cap. 03, div. 06, subdiv. 01, C. F. 3.02.0, C. E. 02.03.07, na coluna de anulações, onde se lê «90» deve ler-se «60».\n\nNo cap. 03, onde se lê «div. 02, subdiv. -» deve ler-se «div. -, subdiv. 02».\n\n> Alterado pelo/a [Declaração de Rectificação n.º 172/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/172-1991-521587), publicado em 1991-07-31.\n\nNo cap. 03, onde se lê «div. 02, subdiv. 03» deve ler-se «div. 10, subdiv. 03».\n\nNo cap. 03, div. 12, subdiv. 01, C. F. 3.02.0, C. E. 07.01.08, na coluna das anulações, onde se lê «3500» deve ler-se «2500».\n\nSecretaria-Geral da Presidência do Conselho de Ministros, 10 de Maio de 1991. - O Secretário-Geral, França Martins."
+  }
+ }
+}

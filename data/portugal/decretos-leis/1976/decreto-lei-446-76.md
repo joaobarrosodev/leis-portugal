@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-06-12'
+version_history:
+  file: decreto-lei-446-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-06-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-06-12'
+    amending: pt:dre:611079:por
+    amending_title: Portaria n.º 344/89
+    changes:
+    - Altera Artigo unidades 64-64
+    - Altera Artigo unidades 80-80
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:54:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 344/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1976/decreto-lei-446-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -274,7 +290,11 @@ A Direcção-Geral dos Serviços Eléctricos poderá mandar introduzir no projec
 
 2. Os elementos referidos no número anterior serão apresentados pelo requerente num prazo que poderá variar de quinze a sessenta dias, conforme a importância dos documentos pedidos. A falta de apresentação dos elementos no prazo fixado poderá dar lugar a que o processo seja arquivado.
 
-3. Sempre que se trate de linhas de alta tensão que cruzem linhas de telecomunicação ou tenham extensão superior a 500 m, consultar-se-ão os Correios e Telecomunicações de Portugal, enviando-se-lhes os elementos para a conveniente apreciação das eventuais interferências.
+3 - Sempre que a linha de alta tensão tenha um comprimento superior a 1000 m, consultar-se-ão aos Correios e Telecomunicações de Portugal, enviando-se-lhes os elementos para a conveniente apreciação das eventuais interferências.
+
+No caso de linhas com comprimento inferior e com cruzamentos com linhas de telecomunicação, deverá ser comunicada aos Correios e Telecomunicações de Portugal a concessão da licença ou a aprovação do projecto, remetendo, para o efeito, um exemplar do perfil com os elementos do cruzamento.
+
+> Alterado pelo/a [Portaria n.º 344/89](https://diariodarepublica.pt/dr/detalhe/portaria/344-1989-611079), publicado em 1989-05-13.
 
 4. No caso de o pedido de licença abranger linhas de alta ou baixa tensão que atravessem caminhos de ferro entre agulhas de estação ou ocupem terrenos dos mesmos, atravessem rios navegáveis ou ocupem a zona de estradas nacionais ou outras sujeitas à jurisdição da Junta Autónoma de Estradas, proceder-se-á a consultas nos termos do [Decreto-Lei n.º 30349](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30349-1940-195638) e do [Decreto n.º 30350](https://diariodarepublica.pt/dr/detalhe/decreto/30350-1940-195639), de 2 de Abril de 1940. Proceder-se-á igualmente a consulta no caso de linhas de alta ou baixa tensão que cruzem caminhos de ferro electrificados.
 
@@ -306,7 +326,9 @@ a) Linhas de alta tensão subterrâneas, de tensão nominal inferior a 60 kV, e 
 
 b) Alterações de tensão ou de número e secção de condutores de linhas de alta tensão aéreas se as novas características já estavam previstas no projecto que serviu de base ao licenciamento;
 
-c) Linhas aéreas de alta tensão, de tensão nominal superior a 1 kV e inferior a 60 kV, com extensão não superior a 500 m, sem cruzamentos nem travessias, quando os terrenos atravessados pertencerem exclusivamente ao proprietário da linha ou da instalação a abastecer;
+c) Linhas aéreas de tensão nominal superior a 1 kV e igual ou inferior a 60 kV, com extensão até 1000 m inclusive, sem travessias e respeitando as condições regulamentares relativas a cruzamentos com linhas de telecomunicação, desde que o distribuidor declare, por escrito, que obteve autorização dos proprietários dos terrenos atravessados pela linha para efectuar os trabalhos ou que se compromete a obter a autorização dos referidos proprietários.
+
+> Alterado pelo/a [Portaria n.º 344/89](https://diariodarepublica.pt/dr/detalhe/portaria/344-1989-611079), publicado em 1989-05-13.
 
 d) Linhas aéreas de alta tensão, de tensão nominal não superior a 1 kV;
 

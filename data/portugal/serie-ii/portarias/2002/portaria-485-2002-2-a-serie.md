@@ -37,10 +37,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-07-02'
+version_history:
+  file: portaria-485-2002-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-03-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-07-02'
+    amending: pt:dre:3434139:por
+    amending_title: Portaria n.º 821/2003 (2.ª série)
+    changes:
+    - Altera Artigo unidades 75-75
 identifiers:
   celex: null
   eli: null
@@ -66,7 +80,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:32:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 821/2003 (2.ª série).
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2002/portaria-485-2002-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -260,7 +275,9 @@ a) Exercício das faculdades potestativas referidas nos n.os 7.º, n.º 3, e 8.�
 
 b) Violação das regras que disciplinam a comunicação, o acesso e a utilização previstas neste regulamento;
 
-c) Verificação de qualquer das condições suspensivas previstas no contrato de depósito e doação dos documentos que integram o arquivo do Prof. Doutor Marcello Caetano prometido celebrar.
+c) Verificação de qualquer das condições resolutivas previstas no contrato de depósito e doação dos documentos que integram o arquivo do Prof. Doutor Marcello Caetano prometido celebrar.
+
+> Alterado pelo/a [Portaria n.º 821/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/821-2003-3434139), publicado em 2003-07-02.
 
 10.º O presente regulamento vigorará até 26 de Outubro de 2030 e não poderá ser alterado sem o acordo formal dos sucessores do Prof. Doutor Marcello Caetano.
 

@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - O Conselho Cinegético Municipal de Vila Pouca de Aguiar é constituído pelos seguintes vogais:",
+    "depois": "1.º O Conselho Cinegético Municipal de Vila Pouca de Aguiar é constituído pelos seguintes vogais:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3014001:por",
+    "alterador": "pt:dre:3228004:por"
+  },
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Nélson Teixeira Machado.",
+    "depois": "Nélson Teixeira Machado;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3014001:por",
+    "alterador": "pt:dre:3228004:por"
+  },
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Abílio Ribeiro da Costa.",
+    "depois": "Abílio Ribeiro da Costa;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3014001:por",
+    "alterador": "pt:dre:3228004:por"
+  },
+  {
+    "artigo": "unidades 17-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção Regional de Agricultura de Trás-os-Montes:\n\nMaria Arlete dos Prazeres.\n\nRepresentante do Instituto da Conservação da Natureza:",
+    "depois": "Representante da Autoridade Florestal Nacional:\n\nMaria João Martins Gonçalves Pinheiro.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3014001:por",
+    "alterador": "pt:dre:3228004:por"
+  }
+]

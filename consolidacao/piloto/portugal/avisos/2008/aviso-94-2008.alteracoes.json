@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 2-2",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Por ordem superior se torna público que, em 8 de Março de 2007 e em 18 de Janeiro de 2008, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros de Israel em Jerusalém e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e o Governo do Estado de Israel para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinado em Lisboa em 26 de Setembro de 2006.",
+    "depois": "Por ordem superior se torna público que, em 8 de Março de 2007 e em 18 de Janeiro de 2008, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros de Israel e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e o Governo do Estado de Israel para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinado em Lisboa, em 26 de Setembro de 2006.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:449686:por",
+    "alterador": "pt:dre:454331:por"
+  }
+]

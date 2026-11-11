@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-07-31'
+version_history:
+  file: declaracao-retificacao-122-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-07-31'
+    amending: pt:dre:521576:por
+    amending_title: Declaração de Rectificação n.º 171/91
+    changes:
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declrectif/122/1991/05/31/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T18:28:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 171/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/declaracoes-retificacao/1991/declaracao-retificacao-122-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,6 +130,8 @@ No cap. 01, div. 18, subdiv. 02, C. F. 3.01.0, C. E. 06.03.00, alínea A, na col
 
 No cap. 03, div. 01, subdiv. 04, onde se lê «C. E. 04.04.03» deve ler-se «C. E. 04.01.03».
 
-No cap. 03, div. 10, subdiv. 01, C. F. 3.02.0, C. E. 01.01.01, na coluna de anulações, onde se lê «1200» deve ler-se «1280».
+No cap. 03, div. 10, subdiv. 01, C. F. 3.02.0, C. E. 01.01.04, na coluna de anulações, onde se lê «1200» deve ler-se «1280».
+
+> Alterado pelo/a [Declaração de Rectificação n.º 171/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/171-1991-521576), publicado em 1991-07-31.
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Maio de 1991. - O Secretário-Geral, França Martins.

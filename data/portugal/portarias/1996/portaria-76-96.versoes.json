@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:535259:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-03-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1c2215b59332f975",
+    "1859e49517ed5727"
+   ]
+  },
+  {
+   "date": "2000-07-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:319929:por",
+     "title": "Decreto-Lei n.º 131/2000",
+     "published": "2000-07-13",
+     "dre_path": "/dr/detalhe/decreto-lei/131-2000-319929"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 12-12"
+   ],
+   "fragments": [
+    "eea1c5c0b5f35f95",
+    "1859e49517ed5727"
+   ]
+  }
+ ],
+ "fragments": {
+  "1c2215b59332f975": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Março\n\nConsiderando que o valor energético constitui característica nutricional essencial para determinados alimentos com objectivos nutricionais específicos para animais de estimação;\n\nConsiderando que para efeitos de declaração se torna necessário estabelecer o respectivo método de cálculo;\n\nConsiderando que os métodos de cálculo do valor energético actualmente disponíveis não são inteiramente satisfatórios, tanto ao nível do controlo como da fiabilidade das informações obtidas;\n\nConsiderando, no entanto, que, até ao estabelecimento de um método satisfatório, é necessário fixar um método provisório que permita, por um período de tempo limitado, declarar o valor energético dos alimentos com determinados objectivos nutricionais específicos, de modo a permitir a utilização destes alimentos em animais que se encontram em situações particulares e que necessitam do recurso a uma alimentação adaptada ao seu estado;\n\nConsiderando que, em caso de desvio entre o resultado do controlo oficial e o valor energético declarado pelo fabricante, convém admitir uma tolerância que tenha em conta os desvios resultantes da recolha de amostras, de eventuais erros de análise ou do processo de fabrico do alimento;\n\nConsiderando a necessidade de transpor para a ordem jurídica nacional a Directiva n.º [95/10/CE](http://data.europa.eu/eli/dir/1995/10/oj?locale=pt), da Comissão, de 7 de Abril;\n\nConsiderando, por último, que o Conselho Consultivo de Alimentação Animal foi ouvido sobre a matéria nos termos do artigo 4.º do Decreto-Lei n.º 372/87, de 5 de Dezembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto na alínea c) do n.º 1 do artigo 13.º do Regulamento da Comercialização de Alimentos Compostos para Animais, aprovado pelo Decreto-Lei n.º 350/90, de 6 de Novembro, o seguinte:\n\n1.º É estabelecido o método de cálculo do valor energético dos alimentos para cães e gatos com objectivos nutricionais específicos, constante do anexo à presente portaria, que dela faz parte integrante.\n\n2.º A presente portaria mantém-se em vigor até 30 de Junho de 1998.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas.\n\nAssinada em 14 de Fevereiro de 1996.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural."
+  },
+  "1859e49517ed5727": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Método de cálculo do valor energético dos alimentos para cães e gatos com objectivos nutricionais específicos/dietéticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Método de cálculo do valor energético dos alimentos para cães e gatos com objectivos nutricionais específicos/dietéticos\n\n1 - Método de cálculo e expressão do valor energético\n\nO valor energético dos alimentos para cães e gatos com objectivos nutricionais específicos deve ser calculado segundo a fórmula a seguir indicada, com base nas percentagens de determinados constituintes analíticos dos alimentos; o referido valor é expresso em megajoules (MJ) de energia metabolizável (EM) por quilograma de alimento composto, sendo:\n\na) Alimentos para cães e gatos, com excepção dos alimentos para gatos com um teor em humidade superior a 14%:\n\nMJ/kg de EM = 0,1464 x % proteína bruta + 0,3556 x % matérias gordas + 0,1464 x % extractivo não azotado;\n\nb) Alimentos para gatos com um teor em humidade superior a 14%:\n\nMJ/kg de EM = (0,1632 x % proteína bruta + 0,3222 x % matérias gordas + 0,1255 x % extractivo não azotado) - 0,2092.\n\nA percentagem de extractivo não azotado a utilizar na fórmula é a diferença entre 100 e as percentagens de humidade, de cinza total, de proteína bruta, de gordura e de celulose bruta.\n\n2 - Tolerâncias aplicáveis aos valores declarados\n\nEm caso de diferença entre o resultado do controlo oficial e o valor energético declarado que constitua um aumento ou uma diminuição do valor energético do alimento, é aplicada a tolerância de 15%.\n\n3 - Expressão do resultado\n\nApós a aplicação da fórmula acima indicada, o resultado obtido é aproximado às décimas.\n\n4 - Métodos de colheita de amostras e de análise\n\nA colheita de amostras do alimento composto e o teor dos constituintes analíticos indicados no método de cálculo são realizados, respectivamente, segundo os métodos de colheita de amostras e métodos de análise comunitários para o controlo oficial dos alimentos para animais."
+  },
+  "eea1c5c0b5f35f95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2000-07-18",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 131/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2000-319929), publicado em 2000-07-13."
+   ],
+   "markdown": "de 9 de Março\n\nConsiderando que o valor energético constitui característica nutricional essencial para determinados alimentos com objectivos nutricionais específicos para animais de estimação;\n\nConsiderando que para efeitos de declaração se torna necessário estabelecer o respectivo método de cálculo;\n\nConsiderando que os métodos de cálculo do valor energético actualmente disponíveis não são inteiramente satisfatórios, tanto ao nível do controlo como da fiabilidade das informações obtidas;\n\nConsiderando, no entanto, que, até ao estabelecimento de um método satisfatório, é necessário fixar um método provisório que permita, por um período de tempo limitado, declarar o valor energético dos alimentos com determinados objectivos nutricionais específicos, de modo a permitir a utilização destes alimentos em animais que se encontram em situações particulares e que necessitam do recurso a uma alimentação adaptada ao seu estado;\n\nConsiderando que, em caso de desvio entre o resultado do controlo oficial e o valor energético declarado pelo fabricante, convém admitir uma tolerância que tenha em conta os desvios resultantes da recolha de amostras, de eventuais erros de análise ou do processo de fabrico do alimento;\n\nConsiderando a necessidade de transpor para a ordem jurídica nacional a Directiva n.º [95/10/CE](http://data.europa.eu/eli/dir/1995/10/oj?locale=pt), da Comissão, de 7 de Abril;\n\nConsiderando, por último, que o Conselho Consultivo de Alimentação Animal foi ouvido sobre a matéria nos termos do artigo 4.º do Decreto-Lei n.º 372/87, de 5 de Dezembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto na alínea c) do n.º 1 do artigo 13.º do Regulamento da Comercialização de Alimentos Compostos para Animais, aprovado pelo Decreto-Lei n.º 350/90, de 6 de Novembro, o seguinte:\n\n1.º É estabelecido o método de cálculo do valor energético dos alimentos para cães e gatos com objectivos nutricionais específicos, constante do anexo à presente portaria, que dela faz parte integrante.\n\n2.º A presente portaria mantém-se em vigor até 30 de Março de 2002.\n\n> Alterado pelo/a [Decreto-Lei n.º 131/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2000-319929), publicado em 2000-07-13.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas.\n\nAssinada em 14 de Fevereiro de 1996.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural."
+  }
+ }
+}

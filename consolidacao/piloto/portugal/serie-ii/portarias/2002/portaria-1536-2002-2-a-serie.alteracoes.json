@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 15-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção Regional de Agricultura de Trás-os-Montes e Alto Douro:\n\nValdemiro José Falcão Lopes.\n\nRepresentante do Instituto da Conservação da Natureza:",
+    "depois": "Representante da Autoridade Florestal Nacional:\n\nArmando José Pereira.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:892987:por",
+    "alterador": "pt:dre:3227987:por"
+  }
+]

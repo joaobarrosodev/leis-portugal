@@ -28,10 +28,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-23'
+version_history:
+  file: portaria-187-2004-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-02-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-23'
+    amending: pt:dre:3227983:por
+    amending_title: Portaria n.º 1058/2009
+    changes:
+    - Altera Artigo unidades 13-14
+    - Altera Artigo unidades 15-16
+    - Altera Artigo unidades 17-18
+    - Altera Artigo unidades 19-20
 identifiers:
   celex: null
   eli: null
@@ -57,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:45:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1058/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2004/portaria-187-2004-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,21 +143,21 @@ Luís Filipe Pires Fernandes.
 
 Vítor Manuel Martins.
 
-Autarca de freguesia:
+Autarca de freguesia - Adriano Augusto Correia Rodrigues.
 
-Adriano Augusto Correia Rodrigues.
+> Alterado pelo/a [Portaria n.º 1058/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1058-2009-3227983), publicado em 2009-10-23.
 
-Representante da Direcção Regional de Agricultura de Trás-os-Montes:
+Representante da Autoridade Florestal Nacional - Armando José Pereira.
 
-Graça Maria Gonçalves Barreira Andrade.
+> Alterado pelo/a [Portaria n.º 1058/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1058-2009-3227983), publicado em 2009-10-23.
 
-Representante das associações de defesa do ambiente:
+Representante das associações de defesa do ambiente - Manuel Carlos Dias Morais.
 
-Manuel Carlos Dias Morais.
+> Alterado pelo/a [Portaria n.º 1058/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1058-2009-3227983), publicado em 2009-10-23.
 
-Representante do Instituto da Conservação da Natureza:
+Representante do Instituto da Conservação da Natureza e da Biodiversidade - José Luís Nunes Rosa.
 
-José Luís Nunes Rosa.
+> Alterado pelo/a [Portaria n.º 1058/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1058-2009-3227983), publicado em 2009-10-23.
 
 2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.
 

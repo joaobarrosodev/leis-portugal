@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 64-64",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3. Sempre que se trate de linhas de alta tensão que cruzem linhas de telecomunicação ou tenham extensão superior a 500 m, consultar-se-ão os Correios e Telecomunicações de Portugal, enviando-se-lhes os elementos para a conveniente apreciação das eventuais interferências.",
+    "depois": "3 - Sempre que a linha de alta tensão tenha um comprimento superior a 1000 m, consultar-se-ão aos Correios e Telecomunicações de Portugal, enviando-se-lhes os elementos para a conveniente apreciação das eventuais interferências.\n\nNo caso de linhas com comprimento inferior e com cruzamentos com linhas de telecomunicação, deverá ser comunicada aos Correios e Telecomunicações de Portugal a concessão da licença ou a aprovação do projecto, remetendo, para o efeito, um exemplar do perfil com os elementos do cruzamento.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:427162:por",
+    "alterador": "pt:dre:611079:por"
+  },
+  {
+    "artigo": "unidades 80-80",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Linhas aéreas de alta tensão, de tensão nominal superior a 1 kV e inferior a 60 kV, com extensão não superior a 500 m, sem cruzamentos nem travessias, quando os terrenos atravessados pertencerem exclusivamente ao proprietário da linha ou da instalação a abastecer;",
+    "depois": "c) Linhas aéreas de tensão nominal superior a 1 kV e igual ou inferior a 60 kV, com extensão até 1000 m inclusive, sem travessias e respeitando as condições regulamentares relativas a cruzamentos com linhas de telecomunicação, desde que o distribuidor declare, por escrito, que obteve autorização dos proprietários dos terrenos atravessados pela linha para efectuar os trabalhos ou que se compromete a obter a autorização dos referidos proprietários.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:427162:por",
+    "alterador": "pt:dre:611079:por"
+  }
+]

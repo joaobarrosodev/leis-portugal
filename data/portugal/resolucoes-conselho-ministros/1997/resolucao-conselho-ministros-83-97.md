@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-20'
+version_history:
+  file: resolucao-conselho-ministros-83-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-20'
+    amending: pt:dre:649089:por
+    amending_title: Resolução do Conselho de Ministros n.º 153/97
+    changes:
+    - Altera Artigo unidades 16-16
+    - Altera Artigo unidades 27-27
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/83/1997/05/28/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:23:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 153/97. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1997/resolucao-conselho-ministros-83-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,7 +157,9 @@ Normalização de contas ... 250
 
 2.5 - A compensação financeira atribuída à CIPRL - Agência Lusa de Informação justifica-se pela natureza de serviço público da sua actividade e enquadra-se no contrato-programa celebrado entre o Estado e a Lusa;
 
-2.6 - O apoio atribuído à TAP - Transportes Aéreos Portugueses, S. A., destina-se a ressarcir a empresa pelo prejuízo suportado em 1996 nas ligações aéreas regulares entre o continente e as Regiões Autónomas, entre estas e entre o Funchal e Porto Santo, equivalente ao produto do número efectivamente transportado de residentes, estudantes e membros da comitiva de equipas desportivas das Regiões Autónomas em viagens ao continente, pelo diferencial entre a tarifa normal que a empresa praticou para outros passageiros e as tarifas que para os supracitados passageiros foram administrativamente fixadas para aqueles percursos, nos termos do n.º 2 do artigo 2.º do Decreto-Lei n.º 311/91, de 17 de Agosto;
+2.6 - O apoio atribuído à TAP - Transportes Aéreos Portugueses, S. A., destina-se a ressarcir a empresa pelos prejuízos suportados em 1996 nos serviços aéreos abragidos pelos convénios de serviço público assinados em 29 de Dezembro de 1995, estabelecidos em conformidade com o Regulamento CEE n.º [2408/92](http://data.europa.eu/eli/reg/1992/2408/oj?locale=pt), do Conselho, de 23 de Julho.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1997-649089), publicado em 1997-09-15.
 
 2.7 - A compensação atribuída ao Serviço Açoreano de Transportes, E. P. - SATA Air Açores justifica-se pelas obrigações de serviço público decorrentes do encaminhamento dos passageiros beneficiários das tarifas especiais e transportados até ou a partir dos aeroportos de entrada e saída dos Açores;
 
@@ -163,7 +181,9 @@ Normalização de contas ... 250
 
 6.4 - As indemnizações compensatórias pressupõem a observância das condições de prestação do serviço público que as justificam;
 
-6.5 - No caso específico do apoio atribuído à TAP - Transportes Aéreos Portugueses, S. A., a verba a entregar deve ser objecto de rigorosa verificação prévia pela Inspecção-Geral de Finanças;
+6.5 - No caso específico do apoio atribuído à TAP - Transportes Aéreos Portugueses, S. A., a verba será disponibilizada pela Direcção-Geral do Tesouro de um só vez, mediante aferição prévia do montante devido, a efectuar pela Inspecção-Geral de Finanças.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1997-649089), publicado em 1997-09-15.
 
 6.6 - Relativamente ao subsídio atribuído à BRISA - Auto-Estradas de Portugal, S. A., e atendendo à sua finalidade específica, deverá a Direcção-Geral do Tesouro disponibilizar o respectivo montante, de uma só vez, em data próxima do vencimento da obrigação a que respeita;
 

@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 55-55",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "12.º São elegíveis os investimentos executados a partir da data de apresentação da candidatura.",
+    "depois": "12.º São elegíveis os investimentos executados a partir de 1 de Agosto de 2006.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:519417:por",
+    "alterador": "pt:dre:639085:por;pt:dre:448960:por"
+  },
+  {
+    "artigo": "unidades 61-61",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "14.º Para a campanha vitivinícola de 2007-2008, a recepção de candidaturas decorre a partir da data de entrada em vigor da presente portaria, até 31 de Maio de 2007, podendo, no entanto, este prazo ser alterado por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sempre que circunstâncias especiais devidamente fundamentadas assim o determinem.",
+    "depois": "14.º Para a campanha vitivinícola de 2007-2008, a recepção de candidaturas decorre a partir da data de entrada em vigor da presente portaria, até 29 de Junho de 2007, podendo, no entanto, este prazo ser alterado por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sempre que circunstâncias especiais devidamente fundamentadas assim o determinem.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:519417:por",
+    "alterador": "pt:dre:639085:por;pt:dre:448960:por"
+  },
+  {
+    "artigo": "unidades 72-73",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Encontrar-se integralmente executadas até 30 de Abril de 2008 e ser objecto do correspondente pedido de pagamento das ajudas e da compensação financeira por perda de receita, sendo o caso, até àquela data; ou\n\nb) Ser objecto, após o início da sua execução, de um pedido de pagamento antecipado das ajudas até 30 de Abril de 2008, mediante a prestação de uma garantia bancária, sem prazo, a favor do IFAP, de montante igual a 120% do valor das ajudas previstas para as medidas específicas em causa, devendo estas encontrar-se integralmente executadas até 31 de Julho de 2010;",
+    "depois": "a) Encontrar-se integralmente executadas até 30 de Maio de 2008 e serem objecto do correspondente pedido de pagamento das ajudas e da compensação financeira por perda de receita, sendo o caso, até àquela data; ou\n\nb) Ser objecto, após o início da sua execução, de um pedido de pagamento antecipado das ajudas e da correspondente compensação financeira por perda de receita, sendo o caso, a efectuar até 30 de Maio de 2008, acompanhado de prestação de uma garantia bancária, sem prazo, a favor do IFAP, de montante igual a 120 % do valor das ajudas previstas para as medidas específicas em causa, devendo estas encontrar-se integralmente executadas até 31 de Julho de 2010;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:519417:por",
+    "alterador": "pt:dre:639085:por;pt:dre:448960:por"
+  },
+  {
+    "artigo": "depois da unidade 104",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "v) Enviar, impreterivelmente, até ao dia 6 de Julho de 2007, os valores previsionais das áreas e montantes das ajudas referentes às candidaturas recepcionadas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:519417:por",
+    "alterador": "pt:dre:639085:por;pt:dre:448960:por"
+  }
+]

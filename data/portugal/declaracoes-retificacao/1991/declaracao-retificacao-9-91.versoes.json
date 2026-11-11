@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:444263:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-01-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "83eb0a3a35a944a4"
+   ]
+  },
+  {
+   "date": "1991-02-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:292497:por",
+     "title": "Declaração de Rectificação n.º 28-T/91",
+     "published": "1991-02-28",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/28-t-1991-292497"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 2-2"
+   ],
+   "fragments": [
+    "28a9ff9035b6d055"
+   ]
+  }
+ ],
+ "fragments": {
+  "83eb0a3a35a944a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Segundo comunicação do Ministério da Agricultura, Pescas e Alimentação, a [Portaria n.º 108/90](https://diariodarepublica.pt/dr/detalhe/portaria/108-1990-334639), publicada no Diário da República, 1.ª série, n.º 249, de 27 de Outubro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:\n\nNo artigo 20.º, n.º 2, alínea a), onde se lê «Para o exame da alínea a), na EPP» deve ler-se «Para o exame da alínea a) do n.º 1, na EPP».\n\nNo artigo 37.º, n.º 3, onde se lê «a partir de 1 de Janeiro de 1991» deve ler-se «a partir de 1 de Janeiro de 1993».\n\nNo artigo 41.º, n.º 2, alínea a), onde se lê «Aos oficiais de pilotagem de categoria não inferior a piloto de 1.ª classe que possuam a disciplina de comunicações do curso respectivo;» deve ler-se «Aos oficiais de pilotagem de categoria não inferior a piloto de 3.ª classe e aos mestres do largo pescadores que possuam uma disciplina de Comunicações do curso respectivo que inclua os conhecimentos respeitantes ao programa de exame para obtenção deste certificado;».\n\nO certificado a que se refere o artigo 46.º saiu com várias inexactidões, pelo que se procede de novo à sua publicação.\n\nModelo do certificado a que se refere o art. 46.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/026b01/00070007.pdf)\n\nSecretaria-Geral da Presidência do Conselho de Ministros, 16 de Janeiro de 1991. - O Secretário-Geral, França Martins."
+  },
+  "28a9ff9035b6d055": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-02-28",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 28-T/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-t-1991-292497), publicado em 1991-02-28."
+   ],
+   "markdown": "Segundo comunicação do Ministério da Agricultura, Pescas e Alimentação, a [Portaria n.º 1086/90](https://diariodarepublica.pt/dr/detalhe/portaria/1086-1990-565790), publicada no Diário da República, 1.ª série, n.º 249, de 27 de Outubro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:\n\n> Alterado pelo/a [Declaração de Rectificação n.º 28-T/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-t-1991-292497), publicado em 1991-02-28.\n\nNo artigo 20.º, n.º 2, alínea a), onde se lê «Para o exame da alínea a), na EPP» deve ler-se «Para o exame da alínea a) do n.º 1, na EPP».\n\nNo artigo 37.º, n.º 3, onde se lê «a partir de 1 de Janeiro de 1991» deve ler-se «a partir de 1 de Janeiro de 1993».\n\nNo artigo 41.º, n.º 2, alínea a), onde se lê «Aos oficiais de pilotagem de categoria não inferior a piloto de 1.ª classe que possuam a disciplina de comunicações do curso respectivo;» deve ler-se «Aos oficiais de pilotagem de categoria não inferior a piloto de 3.ª classe e aos mestres do largo pescadores que possuam uma disciplina de Comunicações do curso respectivo que inclua os conhecimentos respeitantes ao programa de exame para obtenção deste certificado;».\n\nO certificado a que se refere o artigo 46.º saiu com várias inexactidões, pelo que se procede de novo à sua publicação.\n\nModelo do certificado a que se refere o art. 46.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/026b01/00070007.pdf)\n\nSecretaria-Geral da Presidência do Conselho de Ministros, 16 de Janeiro de 1991. - O Secretário-Geral, França Martins."
+  }
+ }
+}

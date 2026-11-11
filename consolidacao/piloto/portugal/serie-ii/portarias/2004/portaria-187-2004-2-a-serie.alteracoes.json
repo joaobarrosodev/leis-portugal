@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 13-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Autarca de freguesia:\n\nAdriano Augusto Correia Rodrigues.",
+    "depois": "Autarca de freguesia - Adriano Augusto Correia Rodrigues.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2715006:por",
+    "alterador": "pt:dre:3227983:por"
+  },
+  {
+    "artigo": "unidades 15-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção Regional de Agricultura de Trás-os-Montes:\n\nGraça Maria Gonçalves Barreira Andrade.",
+    "depois": "Representante da Autoridade Florestal Nacional - Armando José Pereira.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2715006:por",
+    "alterador": "pt:dre:3227983:por"
+  },
+  {
+    "artigo": "unidades 17-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante das associações de defesa do ambiente:\n\nManuel Carlos Dias Morais.",
+    "depois": "Representante das associações de defesa do ambiente - Manuel Carlos Dias Morais.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2715006:por",
+    "alterador": "pt:dre:3227983:por"
+  },
+  {
+    "artigo": "unidades 19-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante do Instituto da Conservação da Natureza:\n\nJosé Luís Nunes Rosa.",
+    "depois": "Representante do Instituto da Conservação da Natureza e da Biodiversidade - José Luís Nunes Rosa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2715006:por",
+    "alterador": "pt:dre:3227983:por"
+  }
+]

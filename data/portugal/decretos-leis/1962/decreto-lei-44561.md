@@ -28,10 +28,66 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-03-09'
+version_history:
+  file: decreto-lei-44561.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-09-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-03-09'
+    amending: pt:dre:432797:por
+    amending_title: Decreto-Lei n.º 45400; Decreto-Lei n.º 49483; Decreto-Lei n.º 542/71; Lei n.º 40/77; Decreto-Lei n.º 390/77;
+      Decreto-Lei n.º 239/79; Decreto-Lei n.º 183-E/80; Decreto-Lei n.º 139/81; Decreto-Lei n.º 155/82; Decreto-Lei n.º 197/82;
+      Decreto-Lei n.º 119-E/83; Decreto-Lei n.º 178/84; Decreto-Lei n.º 92-B/85; Decreto-Lei n.º 110/86; Decreto-Lei n.º 121/87;
+      Decreto-Lei n.º 325/87; Decreto-Lei n.º 73/88
+    changes:
+    - Altera Artigo unidades 71-71
+    - Altera Artigo unidades 72-72
+    - Altera Artigo unidades 73-73
+    - Altera Artigo unidades 75-75
+    - Altera Artigo unidades 76-76
+    - Altera Artigo unidades 77-77
+    - Altera Artigo unidades 79-79
+    - Altera Artigo unidades 80-80
+    - Adita Artigo depois da unidade 80
+    - Altera Artigo unidades 89-89
+    - Altera Artigo unidades 91-91
+    - Adita Artigo depois da unidade 91
+    - Altera Artigo unidades 94-94
+    - Adita Artigo depois da unidade 100
+    - Altera Artigo unidades 101-101
+    - Altera Artigo unidades 102-102
+    - Altera Artigo unidades 103-103
+    - Adita Artigo depois da unidade 104
+    - Altera Artigo unidades 112-112
+    - Adita Artigo depois da unidade 112
+    - Altera Artigo unidades 113-113
+    - Altera Artigo unidades 120-120
+    - Altera Artigo unidades 121-121
+    - Altera Artigo unidades 122-122
+    - Altera Artigo unidades 123-123
+    - Altera Artigo unidades 131-131
+    - Altera Artigo unidades 134-134
+    - Adita Artigo depois da unidade 135
+    - Altera Artigo unidades 140-140
+    - Altera Artigo unidades 143-143
+    - Altera Artigo unidades 144-144
+    - Altera Artigo unidades 145-145
+    - Adita Artigo depois da unidade 145
+    - Altera Artigo unidades 149-149
+    - Adita Artigo depois da unidade 150
+    - Altera Artigo unidades 160-160
+    - Altera Artigo unidades 162-162
+    - Altera Artigo unidades 163-163
+    - Adita Artigo depois da unidade 166
+    - Altera Artigo unidades 170-170
 identifiers:
   celex: null
   eli: null
@@ -57,7 +113,11 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:42:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 45400; Decreto-Lei
+    n.º 49483; Decreto-Lei n.º 542/71; Lei n.º 40/77; Decreto-Lei n.º 390/77; Decreto-Lei n.º 239/79; Decreto-Lei n.º 183-E/80;
+    Decreto-Lei n.º 139/81; Decreto-Lei n.º 155/82; Decreto-Lei n.º 197/82; Decreto-Lei n.º 119-E/83; Decreto-Lei n.º 178/84;
+    Decreto-Lei n.º 92-B/85; Decreto-Lei n.º 110/86; Decreto-Lei n.º 121/87; Decreto-Lei n.º 325/87; Decreto-Lei n.º 73/88.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1962/decreto-lei-44561.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -427,25 +487,49 @@ Art. 5.º Para que os rendimentos referidos nos artigos anteriores fiquem sujeit
 
 Art. 6.º São compreendidos na secção B:
 
-1.º Os lucros, seja qual for a sua natureza, espécie ou designação, atribuídos aos sócios das sociedades comerciais ou civis sob a forma comercial, bem como os juros concedidos nos termos do § 2.º do artigo 192.º do Código Comercial.
+1.º Os lucros e os adiantamentos por conta de lucros, seja qual for a sua natureza, espécie ou designação, colocados à disposição dos sócios das sociedades comerciais ou civis sob a forma comercial, bem como os juros concedidos nos termos do § 2.º do artigo 192.º do Código Comercial;
 
-2.º As importâncias ou quaisquer outros valores atribuídos aos sócios das sociedades cooperativas, desde que constituam remuneração do capital;
+> Alterado pelo/a [Decreto-Lei n.º 197/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1982-392407), publicado em 1982-05-21.
 
-3.º Os juros das obrigações emitidas por qualquer sociedade;
+2.º As importâncias ou quaisquer outros valores colocados à disposição dos sócios das sociedades cooperativas, desde que constituam remuneração do capital;
+
+> Alterado pelo/a [Lei n.º 40/77](https://diariodarepublica.pt/dr/detalhe/lei/40-1977-253192), publicado em 1977-06-17.
+
+3.º Os juros, prémios de reembolso ou de amortização e bem assim qualquer outro tipo de remuneração de obrigações ou de outros títulos sujeitos ao mesmo regime fiscal emitidos por sociedades, empresas públicas ou outras entidades;
+
+> Alterado pelo/a [Decreto-Lei n.º 121/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1987-662294), publicado em 1987-03-16.
 
 4.º Os juros de títulos representativos de empréstimos emitidos por autarquias locais, suas federações e uniões, ou pessoas colectivas de utilidade pública administrativa;
 
-5.º Os juros dos suprimentos ou de outros abonos feitos pelos sócios às sociedades, bem como o rendimento dos lucros que, tendo-lhes sido atribuídos, por eles não sejam levantados até ao fim do ano da respectiva atribuição;
+5.º Os juros dos suprimentos ou de outros abonos feitos pelos sócios às sociedades, bem como o rendimento dos lucros que, tendo sido colocados à disposição dos sócios das sociedades não anónimas, nem em comandita por acções, por eles não sejam levantados até ao fim do ano daquela colocação;
 
-6.º O saldo dos juros apurados em conta corrente, nos termos previstos no artigo 344.º e seguintes do Código Comercial, e bem assim os juros escriturados em conta corrente, nos demais casos;
+> Alterado pelo/a [Lei n.º 40/77](https://diariodarepublica.pt/dr/detalhe/lei/40-1977-253192), publicado em 1977-06-17.
 
-7.º Os juros de depósitos confiados a pessoas singulares ou colectivas legalmente autorizadas a recebê-los;
+6.º O saldo dos juros apurados em conta corrente, nos termos previstos nos artigos 344.º e seguintes do Código Comercial, e bem assim os juros escriturados em conta corrente, nos demais casos, incluindo as importâncias auferidas pelas resseguradoras como remuneração da sua contribuição em numerário para as reservas técnicas das empresas resseguradas;
+
+> Alterado pelo/a [Decreto-Lei n.º 139/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1981-574572), publicado em 1981-05-30.
+
+7.º Os juros de depósitos confiados a pessoas singulares ou colectivas legalmente autorizadas a recebê-los e, bem assim, os rendimentos ou ganhos derivados das operações de reporte a que se refere o artigo 477.º do Código Comercial.
+
+> Alterado pelo/a [Decreto-Lei n.º 325/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1987-418035), publicado em 1987-08-31.
 
 8.º As importâncias atribuídas a empresas singulares ou colectivas a título de indemnização pela suspensão ou redução da sua actividade;
 
-9.º Os lucros que as pessoas singulares ou colectivas aufiram pelo facto de um comerciante as interessar nos seus negócios, em regime de conta em participação, nos termos do artigo 224.º e Seguintes do Código Comercial;
+9.º Os lucros, líquidos da dedução das perdas previstas no n.º 7 do artigo 25.º do [Decreto-Lei n.º 231/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1981-579479), de 28 de Julho, que uma pessoa singular ou colectiva aufira pelo facto de uma outra a interessar numa actividade económica, em regime de contrato de associação em participação, nos termos dos artigos 21.º e seguintes do referido diploma;
 
-10.º Quaisquer outros rendimentos derivados da simples aplicação de capitais, não compreendidos na secção A.
+> Alterado pelo/a [Decreto-Lei n.º 197/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1982-392407), publicado em 1982-05-21.
+
+10.º Os rendimentos resultantes da concessão ou cedência temporária de patentes de invenção, licenças de exploração, modelos de utilidade, desenhos e modelos industriais, marcas, nomes e insígnias de estabelecimentos, processo de fabrico ou de conservação de produtos e direitos análogos, bem como os recebidos pela prestação de informações respeitantes a uma experiência adquirida no sector industrial, comercial ou científico;
+
+> Alterado pelo/a [Decreto-Lei n.º 49483](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49483-1969-213067), publicado em 1969-12-30.
+
+11.º Os rendimentos derivados do uso ou da concessão do uso de equipamento agrícola, industrial, comercial ou científico, que não estejam sujeitos a contribuição predial;
+
+12.º Quaisquer outros rendimentos derivados da simples aplicação de capitais não compreendidos na secção A.
+
+§ único. Tratando-se de qualquer das contas correntes referidas no n.º 6.º deste artigo estabelecidas entre sociedades comerciais ou civis sob a forma comercial e os respectivos sócios, incumbe aos interessados fazer a prova da natureza das operações que originaram os lançamentos, sob pena de ficarem sujeitas a imposto, nos termos do n.º 1.º do mesmo artigo, as importâncias lançadas a favor dos sócios.
+
+> Aditado pelo/a [Decreto-Lei n.º 197/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1982-392407), publicado em 1982-05-21.
 
 Art. 7.º A obrigação do imposto tanto pode resultar da atribuição efectiva dos rendimentos como da presunção da sua existência nos termos deste diploma.
 
@@ -463,17 +547,43 @@ Art. 9.º Estão isentos de imposto:
 
 2.º Os juros dos empréstimos ou financiamentos feitos aos vinicultores nos termos dos Decretos-Leis n.os 28482, de 18 de Fevereiro de 1938, e 37310, de 18 de Fevereiro de 1949;
 
-3.º Os juros das vendas a crédito dos comerciantes relativas a produtos ou serviços do seu comércio ou indústria, bem como o juro ou qualquer compensação da mora no pagamento do respectivo preço;
+3.º Os juros das vendas a crédito dos comerciantes relativas a produtos ou serviços do seu comércio ou indústria, bem como o juro ou qualquer compensação da mora no pagamento do respectivo preço, quando tais rendimentos sejam auferidos por pessoas sujeitas, relativamente aos mesmos, a impostos incidentes sobre lucros, embora deles isentos;
+
+> Alterado pelo/a [Decreto-Lei n.º 197/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1982-392407), publicado em 1982-05-21.
 
 4.º Os juros ou quaisquer remunerações que derivem de empréstimos de géneros para sementeira, desde que a quantidade desses géneros seja proporcional à lavoura do devedor;
 
-5.º Os juros devidos por tornas até 5000$00 em partilhas judiciais.
+5.º Os rendimentos abrangidos pelo artigo 3.º que derivem de capitais cujo valor global não exceda 10000$00 por cada titular, sendo esse limite fixado em 20000$00 quando se trate de tornas em partilhas judiciais.
+
+> Alterado pelo/a [Decreto-Lei n.º 110/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1986-173752), publicado em 1986-05-21.
+
+6.º Os juros dos empréstimos feitos pelas casas de penhores.
+
+6.º-A - Os juros de mora a que tenham direito os lesados em acidentes de viação e os trabalhadores, por créditos emergentes do seu contrato de trabalho, não se aplicando o disposto nos artigos 3.º, n.º 3.º, e 57.º;
+
+7.º As sociedades de seguros pelos juros dos empréstimos sobre apólices de seguros de vida.
+
+§ 1.º Os rendimentos referidos no n.º 5.º derivados de capitais cujo valor global está fixado em 10000$00 deixarão de beneficiar de isenção a partir da data em que o mesmo titular passe a auferir rendimentos resultantes de capitais cuja soma exceda aquele limite.
+
+§ 2.º A isenção estabelecida na primeira parte do n.º 5.º não se aplica aos rendimentos de capitais que, por virtude de recebimentos parciais das importâncias manifestadas, fiquem reduzidos a um quantitativo igual ou inferior a 10000$00.
+
+Art. 9.º-A O Ministro das Finanças e do Plano pode, em face de requerimento e com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos, conceder isenção, total ou parcial, do imposto nos seguintes casos:
+
+a) Juros de capitais provenientes do estrangeiro e representativos de empréstimos de que sejam devedores o Estado ou qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os institutos públicos, e, bem assim, as autarquias locais e suas federações ou uniões, desde que os credores tenham a residência ou sede efectiva no estrangeiro e não possuam em Portugal estabelecimento estável a que sejam imputáveis os capitais emprestados;
+
+b) Juros respeitantes a quaisquer empréstimos ou outras formas de crédito obtidos no estrangeiro por força de directivas emanadas do Banco de Portugal e que se destinem ao financiamento de importações de petróleo bruto e de bens alimentares considerados essenciais para o abastecimento público.
+
+§ único. A isenção de que beneficiam, nos termos deste artigo, os juros referidos nas alíneas a) e b) abrange igualmente os rendimentos originados pelo diferimento no tempo da prestação ou pela mora no pagamento.
+
+> Aditado pelo/a [Decreto-Lei n.º 121/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1987-662294), publicado em 1987-03-16.
 
 #### SECÇÃO B
 
 Art. 10.º Estão isentos de imposto:
 
-1.º Os lucros atribuídos aos sócios de sociedades cuja actividade consista na mera gestão de uma carteira de títulos, até ao montante dos juros e dividendos de títulos nacionais recebidos por essas sociedades ou creditados a seu favor durante o ano da gerência a que respeite a atribuição;
+1.º Os lucros atribuídos aos sócios de sociedades cuja actividade consista na mera gestão de uma carteira de títulos e que tenham capital superior a 100000 contos, até ao montante dos juros e dividendos de títulos nacionais que tenham sido recebidos por essas sociedades ou creditados a seu favor durante o ano da gerência a que respeita a atribuição.
+
+> Alterado pelo/a [Decreto-Lei n.º 542/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1971-632018), publicado em 1971-12-06.
 
 2.º Os dividendos e juros das acções e obrigações emitidas pelas sociedades anónimas ou cooperativas constituídas para os fins da [Lei n.º 2007](https://diariodarepublica.pt/dr/detalhe/lei/2007-1945-610718), de 7 de Maio de 1945;
 
@@ -487,13 +597,27 @@ Art. 10.º Estão isentos de imposto:
 
 7.º Os juros das obrigações emitidas pela Radiotelevisão Portuguesa, S. A. R. L., de harmonia com o n.º 3 da base VII anexa ao [Decreto-Lei n.º 40341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40341-1955-245369), de 18 de Outubro de 1955;
 
-8.º Os juros de depósitos à ordem em estabelecimentos legalmente autorizados a recebê-los;
+7.º-A. Os juros das obrigações para saneamento financeiro emitidas pelas empresas públicas nas condições previstas no [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), de 19 de Junho, e legislação complementar, auferidos pelas instituições de crédito e sujeitos a contribuição industrial, embora dela isentos;
 
-9.º Os juros de depósitos a prazo efectuados na Caixa-Geral de Depósitos, Crédito e Previdência, na Caixa Económica Portuguesa e no Banco de Fomento Nacional;
+> Aditado pelo/a [Decreto-Lei n.º 119-E/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-e-1983-401319), publicado em 1983-02-28.
 
-10.º Os juros de depósitos a prazo feitos nas Caixas Económicas, quando o capital depositado não exceda 15000$00;
+8.º Os juros de depósitos a prazo em moeda estrangeira efectuados em estabelecimentos legalmente autorizados a recebê-los, por instituições de crédito não residentes;
+
+> Alterado pelo/a [Decreto-Lei n.º 73/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1988-287390), publicado em 1988-03-09.
+
+9.º Os rendimentos derivados do uso ou da concessão do uso de equipamento agrícola, industrial, comercial ou científico, auferidos por empresas sujeitas, relativamente aos mesmos, a impostos incidentes sobre lucros, embora deles isentos;
+
+> Alterado pelo/a [Decreto-Lei n.º 197/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1982-392407), publicado em 1982-05-21.
+
+10.º Os juros de obrigações convertíveis em acções;
+
+> Alterado pelo/a [Decreto-Lei n.º 121/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1987-662294), publicado em 1987-03-16.
 
 11.º Os juros de bilhetes do Tesouro e de títulos da dívida pública a cargo da Junta do Crédito Público, bem como de promissórias de fomento nacional e das emitidas nos termos do [Decreto-Lei n.º 38415](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38415-1951-584054), de 10 de Setembro de 1951.
+
+12.º Os juros de depósitos a prazo constituídos pelas instituições de crédito no Banco de Portugal.
+
+> Aditado pelo/a [Decreto-Lei n.º 121/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1987-662294), publicado em 1987-03-16.
 
 Disposições comuns
 
@@ -509,9 +633,17 @@ Art. 11.º Estão isentos do imposto de capitais, secções A e B:
 
 5.º As instituições de previdência social ou de abono de família, as Casas do Povo e respectivas federações;
 
-6.º As sociedades de seguros, pelos rendimentos provenientes da aplicação das suas reservas matemáticas e dos empréstimos sobre apólices de seguros de vida.
+6.º As instituições de crédito estrangeiras cujo capital social seja detido a 100% por instituições de crédito com sede no território do continente ou regiões autónomas, relativamente aos rendimentos provenientes de operações de financiamento externo.
 
-§ único. As isenções resultantes de acordo entre o Estado e quaisquer pessoas, de direito público ou privado, são mantidas na forma da respectiva lei.
+> Alterado pelo/a [Decreto-Lei n.º 73/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1988-287390), publicado em 1988-03-09.
+
+§ 1.º As entidades referidas nos n.os 1.º, 2.º, 3.º, 4.º e 5.º não beneficiam da isenção do imposto relativamente aos rendimentos derivados da aplicação dos seus fundos em depósitos confiados a pessoas singulares ou colectivas legalmente autorizadas a recebê-los, bem como em obrigações e certificados de depósito.
+
+> Aditado pelo/a [Decreto-Lei n.º 73/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1988-287390), publicado em 1988-03-09.
+
+§ 2.º As isenções resultantes de acordo entre o Estado e quaisquer pessoas, de direito público e privado, são mantidas na forma da respectiva lei.
+
+> Alterado pelo/a [Decreto-Lei n.º 73/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1988-287390), publicado em 1988-03-09.
 
 Art. 12.º Na hipótese prevista no n.º 3.º do artigo anterior, a mera aprovação dos estatutos não confere, só por si, isenção do imposto, devendo cada caso ser submetido à apreciação do Ministro das Finanças, que, ouvida a Direcção-Geral das Contribuições e Impostos e conforme as circunstâncias, definirá, em despacho publicado no Diário do Governo, a amplitude da respectiva isenção.
 
@@ -525,13 +657,21 @@ b) Quanto aos outros casos, em face do respectivo assento, averbamento, pertence
 
 #### SECÇÃO A
 
-Art. 14.º Presume-se que os mútuos e as aberturas de crédito vencem juro e à taxa anual de 6 por cento, se outra mais elevada não constar do título constitutivo ou não houver sido declarada, entendendo-se que o juro começa a vencer-se, nos mútuos, desde a data do contrato, e, nas aberturas de crédito, desde a data da sua utilização.
+Art. 14.º Presume-se que os mútuos e as aberturas de crédito vencem juro e à taxa anual de 15%, se outra mais elevada não constar do título constitutivo ou não houver sido declarada, entendendo-se que o juro começa a vencer-se, nos mútuos, desde a data do contrato, e, nas aberturas de crédito, desde a data da sua utilização.
 
-§ 1.º A taxa será revista trienalmente por decreto, sob parecer fundamentado de uma comissão nomeada para o efeito pelo Ministro das Finanças e constituída por três membros, um dos quais designado pelo Ministro da Economia.
+> Alterado pelo/a [Decreto-Lei n.º 139/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1981-574572), publicado em 1981-05-30.
 
-§ 2.º As presunções a que se refere o corpo do artigo só podem ser ilididas por decisão judicial proferida em acção intentada pelo contribuinte contra o Estado, em que se declare ter ficado provado que não foram recebidos juros antecipadamente, nem eram ou são devidos, ou, sendo-o, têm taxa diferente.
+§ 1.º A taxa será revista anualmente, mediante portaria do Ministro das Finanças e do Plano.
 
-§ 3.º No caso do parágrafo anterior, o Ministério Público deverá sempre requisitar à secção de finanças competente os elementos que possua, ou possa obter, para esclarecimento da verdade dos factos e eventual condenação em multa dos litigantes de má fé.
+> Alterado pelo/a [Decreto-Lei n.º 139/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1981-574572), publicado em 1981-05-30.
+
+§ 2.º Exceptuados os mútuos e as aberturas de crédito efectuados pelas sociedades comerciais ou civis sob a forma comercial a favor dos respectivos sócios, em que se considera sempre como mínimo tributável a importância que resultar da aplicação da taxa prevista no corpo deste artigo, as presunções aí estabelecidas só podem ser ilididas por decisão judicial proferida em acção intentada pelo contribuinte contra o Estado, em que se declare ter ficado provado que não foram recebidos juros antecipadamente, nem eram ou são devidos ou, sendo-o, têm taxa diferente, ou por declaração passada pelo Banco de Portugal em que se confirme a taxa de juro efectivamente praticada ou a sua inexistência.
+
+> Alterado pelo/a [Decreto-Lei n.º 197/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1982-392407), publicado em 1982-05-21.
+
+§ 3.º No caso de a acção referida no parágrafo anterior, o Ministério Público deverá sempre requisitar à repartição de finanças competente os elementos que possua, ou possa obter, para esclarecimento da verdade dos factos e eventual condenação em multa dos litigantes de má fé.
+
+> Alterado pelo/a [Decreto-Lei n.º 183-E/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-e-1980-324950), publicado em 1980-06-09.
 
 Art. 15.º Aos empréstimos efectuados pelos organismos corporativos não se aplicarão as presunções estabelecidas no artigo anterior, devendo o imposto recair sobre os rendimentos efectivamente recebidos.
 
@@ -547,15 +687,23 @@ Art. 16.º Os rendimentos ficam sujeitos a imposto desde o momento em que começ
 
 Art. 17.º Quando os rendimentos sejam estipulados em moeda ultramarina ou estrangeira, a sua equivalência em escudos será estabelecida pela cotação média do trimestre anterior ao da liquidação.
 
-Art. 18.º Quando os rendimentos forem em géneros, a redução a dinheiro far-se-á pelo preço médio do ano anterior ao da liquidação, segundo o que constar do registo da secção de finanças ou, na sua falta, da estiva camarária.
+Art. 18.º Quando os rendimentos forem em géneros, a redução a dinheiro far-se-á pelo preço médio do ano anterior ao da liquidação, segundo o que constar do registo da repartição de finanças ou, na sua falta, da estiva camarária.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 #### SECÇÃO B
 
 Art. 19.º A matéria colectável do imposto é constituída:
 
-1.º Pelos rendimentos efectivos de que tratam os n.os 1.º a 4.º e 6.º a 10.º do artigo 6.º;
+1.º Pelos rendimentos efectivos de que tratam os n.os 1.º a 4.º e 6.º a 12.º do artigo 6.º;
+
+> Alterado pelo/a [Decreto-Lei n.º 178/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1984-669083), publicado em 1984-05-25.
 
 2.º Pelos juros e rendimentos de que trata o n.º 5.º do artigo 6.º, cuja contagem será feita dia a dia e, na hipótese da parte final da mesma disposição, terá início em 1 de Janeiro seguinte, não podendo, em qualquer caso, considerar-se importância inferior à resultante da aplicação da taxa anual de 5 por cento.
+
+Art. 19.º-A. Quando os juros de obrigações ou de depósitos em instituições de crédito legalmente autorizadas a recebê-los sejam estipulados em moeda estrangeira ou de território sob administração portuguesa, a sua equivalência em escudos será estabelecida pela cotação à data do vencimento.
+
+> Aditado pelo/a [Decreto-Lei n.º 110/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1986-173752), publicado em 1986-05-21.
 
 Art. 20.º Os rendimentos não representados por numerário serão reduzidos a dinheiro, relativamente à data da sua atribuição, nos termos seguintes:
 
@@ -565,17 +713,33 @@ b) Tratando-se de moedas nacionais ou estrangeiras sem cotação nas praças de 
 
 c) Tratando-se de objectos de ouro ou jóias, considerar-se-á o valor constante de certidão passada pelo avaliador oficial;
 
-d) Tratando-se de acções, títulos e certificados da dívida pública e outros papéis de crédito, considerar-se-á o valor da sua cotação e, não a havendo na data da atribuição dos rendimentos, o da última mais próxima dentro dos três meses anteriores, observando-se na sua falta o disposto na segunda parte da alínea h) do artigo 603.º do Código de Processo Civil;
+d) Tratando-se de acções, títulos e certificados da dívida pública e outros papéis de crédito, considerar-se-á o valor da sua cotação e, não a havendo na data da atribuição dos rendimentos, o da última mais próxima dentro dos 6 meses anteriores, observando-se na sua falta, na parte aplicável, as regras estabelecidas no Código da Sisa e do Imposto sobre as Sucessões e Doações para a valorização daqueles bens.
+
+> Alterado pelo/a [Decreto-Lei n.º 155/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1982-392835), publicado em 1982-05-06.
 
 e) Nos restantes casos, será o valor em dinheiro determinado segundo as demais regras estabelecidas no Código da Sisa e do Imposto sobre as Sucessões e Doações para determinação do valor dos bens transmitidos a título gratuito.
 
 ### CAPÍTULO IV — Taxas
 
-Art. 21.º A taxa do imposto é de 15 por cento, salvo nos casos previstos nos parágrafos seguintes:
+Art. 21.º A taxa do imposto de capitais é de 30%, salvo nos casos previstos nos parágrafos seguintes:
 
-§ 1.º Quando se trate dos lucros, importâncias e rendimentos a que se referem os n.os 1.º, 2.º e 9.º do artigo 6.º, a taxa será de 5 por cento.
+> Alterado pelo/a [Decreto-Lei n.º 183-E/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-e-1980-324950), publicado em 1980-06-09.
 
-§ 2.º Tratando-se de juros das obrigações representativas dos empréstimos emitidos pelo Fundo de Renovação da Marinha Mercante, ao abrigo do [Decreto-Lei n.º 35876](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35876-1946-150556), de 24 de Setembro de 1946, e pelo Fundo de Renovação e de Apetrechamento da Indústria da Pesca, ao abrigo do [Decreto-Lei n.º 39283](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39283-1953-642230), de 20 de Julho de 1953, a taxa será de 1 por cento.
+§ 1.º Quando se trate de lucros, juros, importâncias e rendimentos a que se referem os n.os 1.º, 2.º e 9.º do artigo 6.º, a taxa será de 12%.
+
+> Alterado pelo/a [Decreto-Lei n.º 92-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-b-1985-140096), publicado em 1985-04-01.
+
+§ 2.º Nos juros das obrigações, a taxa será de 12%.
+
+> Alterado pelo/a [Decreto-Lei n.º 183-E/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-e-1980-324950), publicado em 1980-06-09.
+
+§ 3.º Tratando-se de rendimentos a que se refere o n.º 10.º do artigo 6.º, a taxa será de 15%.
+
+§ 4.º Quando se trate de rendimentos e juros a que se referem os n.os 5.º e 7.º do artigo 6.º, a taxa será de 15%.
+
+§ 5.º Tratando-se dos rendimentos a que se refere o n.º 11.º do artigo 6.º, a taxa será de 12%.
+
+> Aditado pelo/a [Decreto-Lei n.º 110/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1986-173752), publicado em 1986-05-21.
 
 Art. 22.º O Ministro das Finanças, com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos, pode conceder a redução da taxa do imposto nos casos seguintes:
 
@@ -583,9 +747,15 @@ a) Quando a emissão das obrigações se destine à realização de investimento
 
 b) Quando se trate de títulos do Empréstimo de Renovação e de Apetrechamento da Marinha Mercante e do Empréstimo de Renovação e de Apetrechamento da Indústria da Pesca, ambos relativos ao II Plano de Fomento;
 
-c) Quando o produto do empréstimo ou da emissão de obrigações subscritas no estrangeiro se destine à realização de investimentos no País incluídos em programas de execução de planos de fomento;
+c) Quando o empréstimo ou a emissão de obrigações subscritas no estrangeiro se revistam de superior interesse para a economia nacional ou regional, designadamente no caso de o respectivo produto se destinar à realização de investimentos no País incluídos nos planos anuais;
+
+> Alterado pelo/a [Decreto-Lei n.º 139/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1981-574572), publicado em 1981-05-30.
 
 d) Quando a emissão das obrigações se destine à realização de investimentos, nas regiões rurais econòmicamente mais desfavorecidas, à instalação de indústrias de aproveitamento de recursos locais, e bem assim à descentralização de outras localizadas em meios urbanos.
+
+e) Quando os rendimentos referidos nos n.os 10.º e 11.º do artigo 6.º provenham de bens utilizados em actividades de superior interesse para o desenvolvimento económico nacional ou regional.
+
+> Aditado pelo/a [Decreto-Lei n.º 92-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-b-1985-140096), publicado em 1985-04-01.
 
 Art. 23.º Sobre este imposto não recai qualquer adicional para o Estado.
 
@@ -605,13 +775,19 @@ Art. 24.º As situações ou actos de que derivem os rendimentos tributáveis na
 
 § 5.º Exceptuam-se do disposto neste artigo os empréstimos efectuados pelos organismos corporativos.
 
-Art. 25.º O manifesto será feito na secção de finanças do concelho ou bairro da residência ou sede do titular do crédito, ou da situação do estabelecimento estável, com base no respectivo título ou documento ou em declaração escrita e assinada pela pessoa a quem incumba a obrigação de o solicitar, ou, na falta de solicitação, em face do auto de transgressão, depois de concluído o respectivo processo, quer por pagamento voluntário, quer por condenação com trânsito em julgado.
+Art. 25.º O manifesto será feito na repartição de finanças do concelho ou bairro da residência ou sede do titular do crédito, ou da situação do estabelecimento estável, com base no respectivo título ou documento ou em declaração escrita e assinada pela pessoa a quem incumba a obrigação de o solicitar, ou, na falta de solicitação, em face do auto de transgressão, depois de concluído o respectivo processo, quer por pagamento voluntário, quer por condenação com trânsito em julgado.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § 1.º A declaração referida neste artigo deverá ser apresentada em duplicado e conter os nomes, profissões e moradas do credor e devedor, a indicação do montante da dívida, a taxa de juro ou indemnização devida, a origem, natureza e data do título constitutivo, a data do vencimento e, tratando-se de créditos com garantia real sobre prédios determinados sujeitos a registo obrigatório, os números das respectivas descrições na conservatória.
 
-§ 2.º Se o titular do crédito não residir no continente ou ilhas, nem aí possuir sede ou estabelecimento estável, será o manifesto efectuado na secção de finanças do concelho ou bairro em que resida o devedor dos rendimentos, ou fique situado o estabelecimento estável a que deva imputar-se o respectivo encargo, ou em que, tratando-se de pessoa colectiva, esta tenha a sua sede.
+§ 2.º Se o titular do crédito não residir no continente ou ilhas, nem aí possuir sede ou estabelecimento estável, será o manifesto efectuado na repartição de finanças do concelho ou bairro em que resida o devedor dos rendimentos, ou fique situado o estabelecimento estável a que deva imputar-se o respectivo encargo, ou em que, tratando-se de pessoa colectiva, esta tenha a sua sede.
 
-§ 3.º. Quando não se verifiquem as hipóteses previstas no corpo deste artigo e no parágrafo anterior, o manifesto será efectuado na secção de finanças do concelho ou bairro da situação dos bens que caucionam a dívida ou, na falta destes, no da celebração do respectivo contrato.
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
+
+§ 3.º. Quando não se verifiquem as hipóteses previstas no corpo deste artigo e no parágrafo anterior, o manifesto será efectuado na repartição de finanças do concelho ou bairro da situação dos bens que caucionam a dívida ou, na falta destes, no da celebração do respectivo contrato.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § 4.º O manifesto será feito em verbete apropriado e averbado no título ou no duplicado da declaração, que será devolvido ao interessado.
 
@@ -619,19 +795,27 @@ Art. 25.º O manifesto será feito na secção de finanças do concelho ou bairr
 
 Art. 26.º Os titulares dos créditos, ou seus representantes, são obrigados a declarar, dentro do prazo de 30 dias, as alterações ocorridas em relação aos elementos constantes do manifesto que possam originar agravamento do imposto, devendo igualmente declarar, nos termos do § 1.º do artigo 30.º, os recebimentos parciais e quaisquer outras modificações que importem diminuição de colecta.
 
+§ único. As obrigações estabelecidas no corpo deste artigo incumbem ao devedor quando se verificar a situação prevista no § 2.º do artigo 24.º;
+
+> Aditado pelo/a [Decreto-Lei n.º 239/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1979-381291), publicado em 1979-07-25.
+
 Art. 27.º Os manifestos poderão ser transferidos a requerimento dos contribuintes, quando estes mudem de residência para outro concelho ou bairro.
 
 Art. 28.º Os manifestos dão lugar a liquidação do imposto enquanto se mantiverem em vigor, sem prejuízo do disposto no artigo seguinte e § único do artigo 32.º
 
 Art. 29.º Os credores de dívidas litigiosas poderão requerer a suspensão da liquidação do imposto até à extinção da instância.
 
-§ 1.º O pedido será acompanhado de certidão comprovativa da existência da instância, devendo a suspensão, depois de autorizada pelo chefe da secção de finanças, ser averbada no manifesto e no verbete de lançamento.
+§ 1.º O pedido será acompanhado de certidão comprovativa da existência da instância, devendo a suspensão, depois de autorizada pelo chefe da repartição de finanças, ser averbada no manifesto e no verbete de lançamento.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § 2.º Enquanto durar a instância, os credores têm de apresentar, no 1.º trimestre de cada ano, nova certidão do estado da causa em 31 de Dezembro do ano anterior.
 
 § 3.º Extinta a instância por qualquer das formas previstas nos artigos 287.º e 288.º do Código de Processo Civil, o credor fica obrigado a declarar essa extinção no prazo de 30 dias, com vista ao averbamento no manifesto e subsequente liquidação do imposto, conforme houver sido julgado, e sem limitação do número de anos.
 
-§ 4.º Decorrido o prazo fixado no parágrafo anterior, o chefe da secção de finanças, sempre que tenha notícia da extinção da instância, procederá oficiosamente ao averbamento.
+§ 4.º Decorrido o prazo fixado no parágrafo anterior, o chefe da repartição de finanças, sempre que tenha notícia da extinção da instância, procederá oficiosamente ao averbamento.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § 5.º Consideram-se litigiosas as dívidas cuja declaração ou pagamento seja pedido em juízo.
 
@@ -643,19 +827,25 @@ b) Pelo julgamento em falhas proferido em processo de execução fiscal;
 
 c) Pela insolvência ou quebra do devedor.
 
-§ 1.º A situação será havida por extinta quando o titular do crédito assim o declare verbalmente ou em escrito assinado por ele ou a rogo perante notário, indicando o motivo da extinção.
+§ 1.º A situação será havida por extinta quando o titular do crédito ou, na situação prevista no § 2.º do artigo 24.º, o devedor o declare verbalmente ou em escrito assinado por ele ou a rogo perante o notário, indicando o motivo da extinção.
+
+> Alterado pelo/a [Decreto-Lei n.º 239/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1979-381291), publicado em 1979-07-25.
 
 § 2.º Para os efeitos deste artigo, a anulação só poderá provar-se por sentença judicial transitada em julgado.
 
 § 3.º O estado de insolvência do devedor pode comprovar-se em face de declaração judicial de falência ou insolvência civil, ou nos termos do artigo seguinte.
 
-Art. 31.º O estado de insolvência do devedor, quando não haja declaração judicial de falência ou insolvência civil, poderá ser comprovado perante o chefe da secção de finanças competente.
+Art. 31.º O estado de insolvência do devedor, quando não haja declaração judicial de falência ou insolvência civil, poderá ser comprovado perante o chefe da repartição de finanças competente.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § 1.º Independentemente de qualquer prazo, o credor requererá a comprovação do estado de insolvência, indicando no requerimento o último domicílio conhecido do devedor e a data ou época a partir da qual este se tornou insolvente, e arrolará três a cinco testemunhas idóneas que possam provar aqueles factos e a circunstância de o devedor e os demais responsáveis não possuírem bens ou valores com que solvam a dívida.
 
 § 2.º O requerimento será instruído com atestado da situação económica do devedor e dos restantes responsáveis, passado pela junta de freguesia do seu último domicílio.
 
-§ 3.º Inquiridas as testemunhas e ouvida por escrito a fiscalização, o chefe da secção de finanças proferirá decisão, cuja exiquibilidade depende de confirmação do respectivo director de finanças.
+§ 3.º Inquiridas as testemunhas e ouvida por escrito a fiscalização, o chefe da repartição de finanças proferirá decisão, cuja exiquibilidade depende de confirmação do respectivo director de finanças.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § 4.º Do despacho do director de finanças cabe recurso hierárquico, nos termos do artigo 62.º do [Decreto n.º 18176](https://diariodarepublica.pt/dr/detalhe/decreto/18176-1930-534227), de 8 de Abril de 1930.
 
@@ -667,9 +857,13 @@ Art. 33.º Os organismos corporativos ficam obrigados a organizar, segundo o mod
 
 § único. O livro será encerrado mensalmente na coluna respeitante aos juros, averbando-se em seguida o número da guia de que trata o § único do artigo 47.º, a data e importância do pagamento.
 
-Art. 34.º A liquidação do imposto é da competência da secção de finanças onde tiver sido feito ou para onde tiver sido transferido o manifesto.
+Art. 34.º A liquidação do imposto é da competência da repartição de finanças onde tiver sido feito ou para onde tiver sido transferido o manifesto.
 
-Art. 35.º Os chefes das secções de finanças extrairão dos manifestos os elementos necessários ao lançamento do imposto, os quais serão inscritos em verbetes individuais.
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
+
+Art. 35.º Os chefes das repartições de finanças extrairão dos manifestos os elementos necessários ao lançamento do imposto, os quais serão inscritos em verbetes individuais.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § único. Em 31 de Janeiro apurar-se-á em cada verbete a soma dos rendimentos relativos ao ano anterior, a qual servirá de base ao cálculo do imposto.
 
@@ -677,19 +871,27 @@ Art. 36.º O imposto será liquidado aos titulares dos respectivos rendimentos.
 
 § 1.º Se, todavia, os titulares dos rendimentos não possuírem, no continente ou ilhas adjacentes, residência, sede efectiva, ou estabelecimento estável, e o contrário se verificar em relação aos devedores, será a estes liquidado o imposto.
 
-§ 2.º Pelo imposto que lhes for liquidado, os devedores apenas responderão até ao limite dos pagamentos que devam fazer aos credores a título de juros ou reembolso do capital.
+§ 2.º Pelo imposto que lhes for liquidado, os devedores apenas responderão até ao limite dos pagamentos que tenham feito ou devam fazer aos credores a título de juros ou reembolso de capital.
+
+> Alterado pelo/a [Decreto-Lei n.º 239/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1979-381291), publicado em 1979-07-25.
 
 Art. 37.º O imposto será liquidado:
 
-a) Para cobrança eventual, quando se trate de empréstimos efectuados por organismos corporativos, e sempre que os contribuintes, antes de iniciada a cobrança nos termos previstos no artigo 46.º, careçam de provar que efectuaram o pagamento;
+a) Para cobrança eventual, quando se trate de empréstimos efectuados por organismos corporativos ou, nos casos referidos no § 1.º do artigo anterior, quando os manifestos forem averbados do pagamento total ou parcial das importâncias manifestadas e, bem assim, sempre que os contribuintes, antes de iniciada a cobrança nos termos previstos no artigo 46.º, careçam de provar que efectuaram o pagamento;
+
+> Alterado pelo/a [Decreto-Lei n.º 239/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1979-381291), publicado em 1979-07-25.
 
 b) Para cobrança virtual, nos restantes casos e em relação aos rendimentos apurados nos respectivos verbetes de lançamento nos termos do § único do artigo 35.º
 
-Art. 38.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 4 por cento ao ano, sem prejuízo da multa cominada ao infractor.
+Art. 38.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
+
+> Alterado pelo/a [Decreto-Lei n.º 197/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1982-392407), publicado em 1982-05-21.
 
 § único. O juro será contado dia a dia, desde o termo do prazo para a solicitação do manifesto ou para o cumprimento da obrigação de que resultou atraso na liquidação, até à data em que vier a ser suprida ou corrigida a falta.
 
-Art. 39.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 10$00.
+Art. 39.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 1000$00.
+
+> Alterado pelo/a [Decreto-Lei n.º 121/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1987-662294), publicado em 1987-03-16.
 
 #### SECÇÃO B
 
@@ -697,13 +899,27 @@ Art. 40.º Nos casos enumerados no artigo 6.º, a entrega do imposto ao Estado s
 
 § único. A entrega far-se-á na tesouraria da Fazenda Pública do concelho ou bairro da residência ou sede da entidade que a ela deva proceder ou da situação do estabelecimento estável a que se refere a parte final do artigo 8.º, até ao fim do mês seguinte àquele em que se verifique:
 
-a) A aprovação das contas de gerência, ou a colocação dos rendimentos à disposição dos seus titulares antes de encerradas as contas ou independentemente da sua aprovação formal, nos casos abrangidos pelos n.os 1.º, 2.º e 5.º do artigo 6.º;
+a) A colocação dos rendimentos à disposição dos seus titulares, ainda que sob a forma de adiantamentos por conta de lucros ou de lançamentos a favor dos sócios, nos casos abrangidos pelos n.os 1.º e 2.º do artigo 6.º e parte final do seu § único.
 
-b) O vencimento dos juros das obrigações;
+> Alterado pelo/a [Decreto-Lei n.º 197/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1982-392407), publicado em 1982-05-21.
 
-c) A liquidação dos rendimentos, nos restantes casos.
+b) A aprovação das contas de gerência ou a colocação dos rendimentos à disposição dos seus titulares antes de encerradas as contas ou independentemente da sua aprovação formal, nos casos abrangidos pelo n.º 5.º do artigo 6.º;
 
-Art. 41.º O imposto será entregue por meio de guia, em triplicado, processada pelas entidades responsáveis, com as indicações seguintes:
+> Alterado pelo/a [Decreto-Lei n.º 390/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1977-286091), publicado em 1977-09-15.
+
+c) O vencimento dos juros das obrigações;
+
+> Alterado pelo/a [Decreto-Lei n.º 390/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1977-286091), publicado em 1977-09-15.
+
+d) A liquidação dos rendimentos, nos restantes casos.
+
+Art. 40.º-A - As instituições de crédito em que se encontrem depositadas acções emitidas por sociedades com sede efectiva no território do continente e ilhas adjacentes enviarão à sociedade emitente relação dos respectivos titulares à data da colocação à sua disposição dos rendimentos a que tiverem direito, no prazo de quinze dias a contar dessa data.
+
+> Aditado pelo/a [Decreto-Lei n.º 390/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1977-286091), publicado em 1977-09-15.
+
+Art. 41.º O imposto será entregue por meio de guia do modelo oficial, em triplicado, processada pelas entidades responsáveis, com as indicações seguintes:
+
+> Alterado pelo/a [Decreto-Lei n.º 121/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1987-662294), publicado em 1987-03-16.
 
 a) Nome e sede das entidades;
 
@@ -719,21 +935,33 @@ e) Data em que ocorreu o facto que obriga à entrega do imposto.
 
 Art. 42.º As entidades que procedam ao pagamento de importâncias sujeitas a imposto ficam obrigadas a efectuar sempre o desconto nos rendimentos respectivos.
 
-§ único. Tratando-se de suprimentos, abonos ou lucros que não vençam juros, poderão as sociedades exigir o reembolso do imposto que tiverem pago.
+§ 1.º Tratando-se de suprimentos, abonos ou lucros que não vençam juros, poderão as sociedades exigir o reembolso do imposto que tiverem pago.
+
+> Alterado pelo/a [Decreto-Lei n.º 183-E/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-e-1980-324950), publicado em 1980-06-09.
+
+§ 2.º O Ministro das Finanças e do Plano poderá, a requerimento da entidade pagadora dos rendimentos e com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos, dispensar o cumprimento do disposto no corpo deste artigo quando se trate de imposto referente a rendimentos abrangidos pelo n.º 10.º do artigo 6.º, de que sejam titulares pessoas singulares ou colectivas com residência ou sede no estrangeiro, ou que sejam imputáveis a estabelecimento estável situado fora de Portugal.
+
+§ 3.º A dispensa referida no parágrafo anterior poderá ser revogada a todo o tempo, produzindo a revogação efeito nos pagamentos dos rendimentos a efectuar depois de notificada, à empresa pagadora, a revogação.
+
+> Aditado pelo/a [Decreto-Lei n.º 183-E/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-e-1980-324950), publicado em 1980-06-09.
 
 Disposições comuns
 
 Art. 43.º Só poderá ser liquidado imposto nos cinco anos seguintes àquele a que o rendimento colectável respeite, salvo no caso do § 3.º do artigo 29.º
 
-Art. 44.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões, de que resultou prejuízo para o Estado, a secção de finanças deverá repará-lo mediante liquidação adicional, mas sempre com observância do disposto no artigo anterior.
+Art. 44.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões, de que resultou prejuízo para o Estado, a repartição de finanças deverá repará-lo mediante liquidação adicional, mas sempre com observância do disposto no artigo anterior.
 
-§ único. A liquidação adicional, quando vise a corrigir o prejuízo resultante de erro de direito, ou de omissão imputável à Fazenda, só poderá ter lugar dentro do prazo em que a esta é permitido recorrer extraordinàriamente da primeira liquidação.
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 ### CAPÍTULO VI — Cobrança
 
 Art. 45.º Os conhecimentos de cobrança virtual serão entregues até 15 de Março ao tesoureiro da Fazenda Pública, que expedirá até ao dia 20 os avisos para pagamento à boca do cofre.
 
-§ único. Independentemente da expedição dos avisos, o tesoureiro anunciará prèviamente a abertura do cofre em editais expostos na tesouraria e na secção de finanças e promoverá a divulgação do conteúdo desses editais através da imprensa.
+§ único. Independentemente da expedição dos avisos, o tesoureiro anunciará prèviamente a abertura do cofre em editais expostos na tesouraria e na repartição de finanças e promoverá a divulgação do conteúdo desses editais através da imprensa.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 Art. 46.º O imposto liquidado nos termos da alínea b) do artigo 37.º deverá ser pago durante o mês de Abril.
 
@@ -761,15 +989,23 @@ Art. 51.º Para pagamento do imposto de capitais, secção A, a Fazenda Nacional
 
 #### SECÇÃO A
 
-Art. 52.º Os notários são obrigados a enviar às secções de finanças competentes para o manifesto, até ao dia 10 de cada mês, uma relação modelo n.º 2, em duplicado, donde constem todos os actos e contratos em que tenham intervindo no mês anterior e mediante os quais se tenham constituído, modificado ou distratado dívidas sujeitas a imposto.
+Art. 52.º Os notários são obrigados a enviar às repartições de finanças competentes para o manifesto, até ao dia 10 de cada mês, uma relação modelo n.º 2, em duplicado, donde constem todos os actos e contratos em que tenham intervindo no mês anterior e mediante os quais se tenham constituído, modificado ou distratado dívidas sujeitas a imposto.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § único. Nesta relação serão incluídas as letras e livranças que não se encontrem na posse de instituições de crédito e em que os notários tenham feito reconhecimentos de assinaturas ou por qualquer outra forma hajam intervindo.
 
-Art. 53.º Os escrivães de direito são obrigados a enviar às secções de finanças competentes para o mafesto, até ao dia 10 de cada mês, uma relação modelo n.º 3, em duplicado, dos inventários e demais processos a seu cargo, cujas decisões tenham transitado em julgado no mês anterior e dos quais se mostre haver fundamento para a exigência de imposto.
+Art. 53.º Os escrivães de direito são obrigados a enviar às repartições de finanças competentes para o mafesto, até ao dia 10 de cada mês, uma relação modelo n.º 3, em duplicado, dos inventários e demais processos a seu cargo, cujas decisões tenham transitado em julgado no mês anterior e dos quais se mostre haver fundamento para a exigência de imposto.
 
-Art. 54.º Os aceitantes de letras e livranças que titulem situações sujeitas a manifesto são obrigados a participar à secção de finanças do concelho ou bairro da residência ou sede do credor, dentro do prazo de 30 dias a contar da data do aceite, a existência dos mesmos títulos.
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
-§ 1.º Quando o credor não resida no continente ou ilhas adjacentes ou, tratando-se de uma pessoa colectiva, aí não tenha a sua sede, será a participação feita à secção de finanças do concelho ou bairro onde se localize a residência do aceitante, ou se encontre a sede da entidade que figure como tal.
+Art. 54.º Os aceitantes de letras e livranças que titulem situações sujeitas a manifesto são obrigados a participar à repartição de finanças do concelho ou bairro da residência ou sede do credor, dentro do prazo de 30 dias a contar da data do aceite, a existência dos mesmos títulos.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
+
+§ 1.º Quando o credor não resida no continente ou ilhas adjacentes ou, tratando-se de uma pessoa colectiva, aí não tenha a sua sede, será a participação feita à repartição de finanças do concelho ou bairro onde se localize a residência do aceitante, ou se encontre a sede da entidade que figure como tal.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § 2.º Da participação, a apresentar em duplicado, deverão constar os nomes e moradas do credor e devedor, data do saque, origem e importância da dívida e taxa de juro.
 
@@ -797,7 +1033,9 @@ Disposição comum
 
 Art. 61.º O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades, corpos administrativos, repartições públicas e pessoas colectivas de utilidade pública e, em especial, pela Direcção-Geral das Contribuições e Impostos.
 
-§ 1.º Os chefes de repartição da Direcção-Geral, os directores de finanças, os chefes dos serviços de prevenção e repressão e os chefes das secções de finanças poderão examinar os arquivos de repartições públicas, de pessoas colectivas de utilidade pública administrativa e organismos de coordenação económica e corporativos, bem como, eles próprios ou os seus representantes, os livros e documentos dos contribuintes, ou responsáveis, sejam ou não comerciantes, embora sempre com observância do disposto no § único do artigo 43.º do Código Comercial.
+§ 1.º Os agentes do Ministério Público das contribuições e impostos poderão examinar os arquivos de repartições públicas, de pessoas colectivas de utilidade pública administrativa e organismos de coordenação económica e corporativa, bem como, eles próprios ou os seus representantes, os livros e documentos dos contribuintes, ou responsáveis, sejam ou não comerciantes, embora sempre com observância do disposto no § único do artigo 43.º do Código Comercial.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § 2.º A Direcção-Geral poderá solicitar à Inspecção-Geral de Finanças ou à Inspecção-Geral de Crédito e Seguros, conforme os casos, a realização de exames à escrita das pessoas ou entidades referidas no parágrafo anterior.
 
@@ -807,27 +1045,43 @@ Art. 61.º O cumprimento das obrigações impostas por este diploma será fiscal
 
 #### SECÇÃO A
 
-Art. 62.º Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, com os fundamentos e nos termos estabelecidos na legislação do contencioso das contribuições e impostos.
+Art. 62.º Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugna-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 #### SECÇÃO B
 
-Art. 63.º Contra a liquidação do imposto entregue nos cofres do Estado, ou contra a liquidação adicional, poderão os titulares dos rendimentos e as entidades responsáveis pela entrega reclamar e recorrer com os fundamentos e nos termos estabelecidos pela legislação do contencioso das contribuições e impostos.
+Art. 63.º A liquidação do imposto entregue nos cofres do Estado e a liquidação adicional poderão ser objecto de reclamação ou de impugnação judicial por parte dos titulares dos rendimentos e das entidades responsáveis pela entrega, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
 
-§ único. Os prazos para as reclamações ordinárias e recursos extraordinários contar-se-ão:
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
-a) Quando apresentados pelos titulares dos rendimentos, desde a data em que se verificou o pagamento que originou o desconto do imposto;
+§ único. Os prazos para as reclamações ou impugnações contar-se-ão:
 
-b) Quando apresentados pelas entidades responsáveis pela entrega, desde a data em que esta tenha ocorrido ou, tratando-se de liquidação adicional, desde o primeiro dia útil do mês seguinte ao do débito ao tesoureiro.
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
+
+a) Quando apresentados pelos titulares dos rendimentos, desde o dia imediato àquele em que se verificar o pagamento que originou o desconto do imposto;
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
+
+b) Quando apresentados pelas entidades responsáveis pela entrega, desde o dia imediato àquele em que esta tenha ocorrido ou, tratando-se de liquidação adicional, desde o dia imediato ao da abertura do cofre para a cobrança virtual.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 Disposições comuns
 
 Art. 64.º Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido cinco anos sobre a abertura dos cofres para a respectiva cobrança, ou sobre o pagamento eventual.
 
-§ único. Não se procederá a anulação quando o seu quantitativo seja inferior a 10$00.
+§ único. Não se procederá a anulação quando o seu quantitativo seja inferior a 500$00.
 
-Art. 65.º Anulada a liquidação, quer oficiosamente, quer por decisão dos tribunais com trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido em imposto da mesma natureza, arrecadado por cobrança virtual.
+> Alterado pelo/a [Decreto-Lei n.º 121/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1987-662294), publicado em 1987-03-16.
 
-§ 1.º Contar-se-ão juros de 4 por cento ao ano a favor do contribuinte sempre que, estando pago o imposto, a Fazenda seja convencida, em reclamação ou recurso da liquidação, de que nesta houve erro de facto imputável aos serviços.
+Art. 65.º Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido no imposto de capitais, arrecadado por cobrança virtual.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
+
+§ 1.º Contar-se-ão juros de 18% ao ano a favor do contribuinte sempre que, estando pago o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
+
+> Alterado pelo/a [Decreto-Lei n.º 197/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1982-392407), publicado em 1982-05-21.
 
 § 2.º Os juros serão contados dia a dia desde a data do pagamento do imposto até à data do processamento do título de anulação e acrescidos à importância deste.
 
@@ -837,7 +1091,9 @@ Art. 66.º As transgressões ao disposto no presente diploma serão punidas nos 
 
 Art. 67.º A falta de solicitação do manifesto no prazo legal será punida com multa igual ao quíntuplo do imposto devido.
 
-§ 1.º Tratando-se, porém, de dívidas de que as secções de finanças tenham ou devam ter conhecimento através das relações a que se referem os artigos 52.º e 53.º, a multa será igual ao dobro do imposto.
+§ 1.º Tratando-se, porém, de dívidas de que as repartições de finanças tenham ou devam ter conhecimento através das relações a que se referem os artigos 52.º e 53.º, a multa será igual ao dobro do imposto.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § 2.º Em qualquer caso, as multas a que se refere este artigo não poderão ser inferiores a 100$00.
 
@@ -873,6 +1129,10 @@ Art. 76.º A falta, total ou parcial, da entrega do imposto até ao último dos 
 
 § único. Quando a infracção prevista no corpo deste artigo seja acompanhada de falta do desconto prescrito no artigo 42.º, à multa nele cominada acrescerá, pela primeira vez, a de 250$00 a 5000$00 e, no caso de repetição dentro de cinco anos, a de 2500$00 a 50000$00.
 
+Art. 76.º-A - A falta ou inexactidão das relações a que alude o artigo 40.º-A, bem como as omissões nelas praticadas, serão punidas com multa de 200$00 a 50000$00.
+
+> Aditado pelo/a [Decreto-Lei n.º 390/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1977-286091), publicado em 1977-09-15.
+
 Art. 77.º A infracção do disposto no artigo 42.º, quando, não obstante, se proceda à entrega do imposto, será punida, pela primeira vez, com multa de 100$00 a 10000$00, e, no caso de repetição dentro de cinco anos, com a de 5000$00 a 100000$00.
 
 Art. 78.º O não cumprimento do disposto no artigo 59.º será punido com multa de 500$00 a 20000$00.
@@ -903,17 +1163,27 @@ Art. 87.º Quando os actos ou omissões tiverem sido praticados por procurador, 
 
 § único. Pelas multas impostas aos mandatários responderão solidàriamente os mandantes.
 
-Art. 88.º As multas serão impostas mediante auto de transgressão levantado e julgado nos termos estabelecidos na legislação que regula o contencioso das contribuições e impostos.
+Art. 88.º As multas serão impostas mediante processo de transgressão.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § 1.º O auto para aplicação da multa prevista no artigo 81.º só poderá ser levantado depois de declarada a nulidade dos actos ou contratos simulados, em acção proposta pelo Ministério Público perante o competente tribunal comum, dentro do prazo de cinco anos a contar da realização do acto.
 
-§ 2.º O chefe da secção de finanças, tendo fundadas suspeitas de que se simulou qualquer acto ou contrato em prejuízo da Fazenda Nacional, comunicará o facto ao agente do Ministério Público junto do tribunal competente, para que proponha a respectiva acção de anulação.
+§ 2.º O chefe da repartição de finanças, tendo fundadas suspeitas de que se simulou qualquer acto ou contrato em prejuízo da Fazenda Nacional, comunicará o facto ao agente do Ministério Público junto do tribunal competente, para que proponha a respectiva acção de anulação.
 
-§ 3.º Transitada em julgado a sentença que declara a nulidade, o tribunal deverá remeter cópia nos oito dias seguintes à secção de finanças competente para o levantamento do auto.
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
-Art. 89.º Só poderá ser levantado auto de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos, contados da data em que a infracção foi cometida ou transitou em julgado a sentença que anulou o acto simulado.
+§ 3.º Transitada em julgado a sentença que declara a nulidade, o tribunal deverá remeter cópia nos oito dias seguintes à repartição de finanças competente para instaurar o processo de transgressão.
 
-§ 1.º Ainda que extinto o procedimento para aplicação da multa, levantar-se-á auto para exigência do imposto devido, relativamente aos últimos cinco anos.
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
+
+Art. 89.º Só poderá ser instaurado processo de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos, contados da data em que a infracção foi cometida.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
+
+§ 1.º Ainda que extinto o procedimento para aplicação da multa, instaurar-se-á processo de transgressão para exigência do imposto devido relativamente aos últimos cinco anos.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § 2.º Se o processo de transgressão estiver parado durante cinco anos, ficará extinto o procedimento para a aplicação da multa, prosseguindo, no entanto, para arrecadação do imposto devido.
 
@@ -921,7 +1191,9 @@ Art. 90.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional
 
 Art. 91.º A obrigação de pagar qualquer multa prescreverá passados dez anos sobre o trânsito em julgado da condenação.
 
-Art. 92.º Serão admitidas denúncias perante as secções e direcções de finanças e serviços centrais e de prevenção e repressão, da Direcção-Geral das Contribuições e Impostos, contra os que transgredirem as disposições do presente diploma.
+Art. 92.º Serão admitidas denúncias perante as repartições e direcções de finanças e serviços centrais e de prevenção e repressão, da Direcção-Geral das Contribuições e Impostos, contra os que transgredirem as disposições do presente diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § 1.º Qualquer denúncia poderá ser feita verbalmente ou por escrito assinado, mas só terá seguimento depois de lavrado termo de identificação do denunciante.
 
@@ -929,11 +1201,15 @@ Art. 92.º Serão admitidas denúncias perante as secções e direcções de fin
 
 Art. 93.º O produto das multas será dividido nos termos do [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926, e do [Decreto n.º 12296](https://diariodarepublica.pt/dr/detalhe/decreto/12296-1926-160170), de 10 de Setembro de 1926, com as alterações introduzidas pelos artigos 12.º do [Decreto n.º 15661](https://diariodarepublica.pt/dr/detalhe/decreto/15661-1928-590108), de 1 de Julho de 1928, e 22.º do [Decreto-Lei n.º 44235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44235-1962-518252), de 14 de Março de 1962.
 
-Art. 94.º Quando qualquer infractor se apresente voluntàriamente a pedir o pagamento da multa antes de lhe ser notificado o auto de transgressão, ou de citado para a acção de simulação, será aquela reduzida a metade, revertendo integralmente para o Estado.
+Art. 94.º No caso de pagamento espontâneo da multa, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.
 
-§ 1.º Se o auto de transgressão ainda não tiver sido levantado, sê-lo-á no caso de multa variável entre limites.
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
-§ 2.º Não se considerará voluntário o pedido de pagamento da multa feito posteriormente ao início de qualquer fiscalização mediante exame à escrita do infractor.
+§ único. Não se considerará espontâneo o pagamento da multa quando a participação do facto ou a solicitação da regularização da respectiva situação tributária for feita posteriormente ao início de qualquer fiscalização mediante exame à escrita do infractor.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 Art. 95.º Havendo a falsificação ou a viciação previstas no artigo 80.º, o tribunal participá-lo-á, nos oito dias seguintes ao trânsito em julgado da decisão, ao agente do Ministério Público competente, nos termos e para efeitos do artigo 164.º do Código de Processo Penal, independentemente da participação, no mesmo prazo, a outras entidades que devam tomar conhecimento da infracção para eventual procedimento disciplinar contra o respectivo guarda-livros e outros responsáveis.
 
@@ -945,13 +1221,19 @@ Art. 96.º Se a transgressão for praticada com dolo e o quantitativo dos rendim
 
 ### CAPÍTULO X — Disposições diversas
 
-Art. 97.º Os chefes das secções de finanças enviarão aos conservadores do registo predial, até ao último dia útil de cada mês, uma relação dos manifestos cujos efeitos cessaram no mês anterior, por extinção dos créditos que hajam sido assegurados com garantia real sobre prédios determinados sujeitos a registo obrigatório, devendo referir na relação o número da descrição dos respectivos prédios na conservatória.
+Art. 97.º Os chefes das repartições de finanças enviarão aos conservadores do registo predial, até ao último dia útil de cada mês, uma relação dos manifestos cujos efeitos cessaram no mês anterior, por extinção dos créditos que hajam sido assegurados com garantia real sobre prédios determinados sujeitos a registo obrigatório, devendo referir na relação o número da descrição dos respectivos prédios na conservatória.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 Art. 98.º Entende-se por estabelecimento estável qualquer instalação fixa onde a empresa exerça toda ou parte da sua actividade.
 
-Art. 99.º As secções de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, relações ou participações, a que se referem o § 1.º do artigo 25.º e os artigos 52.º, 53.º e 54.º
+Art. 99.º As repartições de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, relações ou participações, a que se referem o § 1.º do artigo 25.º e os artigos 52.º, 53.º e 54.º
 
-Art. 100.º As declarações, relações, participações e outros documentos a apresentar nas direcções e secções de finanças podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito devidamente endereçado e franquiado, para devolução imediata, também sob registo, dos duplicados, ou dos documentos, quando for caso disso.
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
+
+Art. 100.º As declarações, relações, participações e outros documentos a apresentar nas direcções e repartições de finanças podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito devidamente endereçado e franquiado, para devolução imediata, também sob registo, dos duplicados, ou dos documentos, quando for caso disso.
+
+> Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
 § único. Os documentos referidos neste artigo deverão ser assinados pelas pessoas a que incumba a sua apresentação, ou pelos seus representantes legais ou mandatários.
 

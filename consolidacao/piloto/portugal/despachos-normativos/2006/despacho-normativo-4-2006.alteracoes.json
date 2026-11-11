@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - A aprovação e a classificação final de disciplinas dos cursos referidos no n.º 1 podem ainda obter-se por recurso à realização exclusiva de provas de exame nacional, sempre que o mesmo exista, ou pela realização de exames de equivalência à frequência, nos restantes casos.",
+    "depois": "3 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:545664:por",
+    "alterador": "pt:dre:3426349:por"
+  }
+]

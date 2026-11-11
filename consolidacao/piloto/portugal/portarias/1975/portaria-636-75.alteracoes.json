@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 73-73",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A presente tarifa regula as condições e prevê os preços de transporte, em regime acelerado, dos volumes de peso não superior a 50 kg que satisfaçam às disposições contidas no artigo 2.º",
+    "depois": "A presente tarifa regula as condições e prevê os preços de transporte dos volumes de peso não superior a 50 kg que satisfaçam as disposições contidas no artigo 2.º",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312793:por",
+    "alterador": "pt:dre:403331:por;pt:dre:495364:por;pt:dre:242539:por"
+  },
+  {
+    "artigo": "unidades 82-85",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### ARTIGO 6.º — Prazos de transporte\n\nAs remessas serão transportadas:\n\na) Nos percursos da via fluvial e da via férrea, com subordinação aos prazos de transporte e de entrega do regime acelerado;\n\nb) Nos percursos da camionagem, nos prazos estabelecidos nas respectivas tarifas.",
+    "depois": "###### ARTIGO 6.º — Reservado",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312793:por",
+    "alterador": "pt:dre:403331:por;pt:dre:495364:por;pt:dre:242539:por"
+  },
+  {
+    "artigo": "unidades 89-89",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Pelas perdas ou avarias dos volumes que possam ser imputadas à responsabilidade do caminho de ferro, não originadas por caso de força maior, a indemnização a pagar será limitada ao máximo de 50$00 por cada quilograma.",
+    "depois": "Pelas perdas ou avarias dos volumes que possam ser imputadas à responsabilidade do Caminho de Ferro, não originadas por caso de força maior, a indemnização a pagar será limitada ao máximo de 70$00 por cada quilograma.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312793:por",
+    "alterador": "pt:dre:403331:por;pt:dre:495364:por;pt:dre:242539:por"
+  },
+  {
+    "artigo": "unidades 91-96",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1. Os preços de transporte dos volumes em qualquer percurso do caminho de ferro, incluindo a via fluvial entre Lisboa e Barreiro, são os seguintes, por cada volume:\n\nAté 15 kg ... 25$00\n\nDe mais de 15 kg até 20 kg ... 30$00\n\nDe mais de 20 kg até 30 kg ... 40$00\n\nDe mais de 30 kg até 40 kg ... 45$00\n\nDe mais de 40 kg até 50 kg ... 50$00",
+    "depois": "1 - Os preços de transporte dos volumes em qualquer percurso de caminho de ferro, incluindo transbordo e a via fluvial entre Lisboa (Terreiro do Paço) e Barreiro, são os seguintes, por cada volume:\n\nAté 15 kg ... 110$00\n\nDe mais de 15 kg até 20 kg ... 135$00\n\nDe mais de 20 kg até 30 kg ... 170$00\n\nDe mais de 30 kg até 40 kg ... 175$00\n\nDe mais de 40 kg até 50 kg ... 190$00",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312793:por",
+    "alterador": "pt:dre:403331:por;pt:dre:495364:por;pt:dre:242539:por"
+  },
+  {
+    "artigo": "unidades 106-119",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### ARTIGO 1.º — Objecto\n\nA presente tarifa prevê o preço e regula as condições do transporte, em regime acelerado.\n\n...\n\n###### ARTIGO 5.º — Preços\n\nO preço de transporte dos volumes em qualquer percurso do caminho de ferro, incluindo a via fluvial entre Lisboa e Barreiro, são os seguintes, por cada volume:\n\nAté 5 kg ... 30$00\n\nDe mais de 5 kg até 10 kg ... 50$00\n\nDe mais de 10 kg até 20 kg ... 70$00\n\nDe mais de 20 kg até 30 kg ... 90$00\n\n###### ARTIGO 7.º — Responsabilidade do caminho de ferro\n\nPelas perdas ou avarias dos volumes que possam ser imputadas à responsabilidade do caminho de ferro, não originadas por caso de força maior, a indemnização a pagar será limitada ao máximo de 50$00 por cada quilograma.\n\n###### ARTIGO 8.º — Disposição geral\n\nEm tudo o que não contrarie o disposto na presente, vigoram as disposições da tarifa geral de transportes (parte II - Mercadorias).\n\n...",
+    "depois": "###### ARTIGO 1.º — Objecto\n\nA presente tarifa fixa os preços e as condições de transporte de volumes cujo seguimento se pretenda seja feito com urgência, nomeadamente por comboios de passageiros, com exclusão dos internacionais, que sirvam directamente a estação de destino ou que dêem a primeira ligação a outros que a sirvam.\n\n###### ARTIGO 2.º — Limitações ao transporte\n\n1 - Os volumes expedidos ao abrigo desta tarifa não podem exceder:\n\na) 5 kg de peso quando a estação de origem ou a de destino pertencer à linha de Cascais;\n\nb) 30 kg nos casos restantes.\n\n2 - Cada remessa só pode ser constituída por um volume. No entanto, para efeito de expedição, permite-se a utilização de apenas um documento de despacho para agrupamento de volumes desde que se trate da expedição de remessas de um expedidor para este destinatário.\n\n3 - Não se aceitam a despacho:\n\na) Volumes contendo dinheiro, valores, objectos de arte e mercadorias perigosas, nem contendo animais vivos com peso superior a 10 kg;\n\nb) Volumes frágeis ou com acondicionamento deficiente;\n\nc) Volumes contendo líquidos, a não ser acondicionados em embalagens perfeitamente estanques;\n\nd) Volumes de qualquer natureza em que, pelo menos, uma das dimensões seja superior a 1 m, excepto aquelas com origem ou destino na linha de Cascais, onde a dimensão máxima não pode exceder 0,5 m.\n\n4 - O Caminho de Ferro reserva-se o direito de não dar seguimento aos volumes por comboios para os quais possam resultar prejuízos para a regularidade da circulação ou por comboios que, devido à natureza da sua composição, os não possam transportar.\n\n###### ARTIGO 3.º — Acondicionamento dos objectos a transportar\n\nOs objectos a transportar devem ser apresentados acondicionados em embalagens apropriadas, podendo, no entanto, dispensar-se qualquer espécie de acondicionamento para os objectos que normalmente são transportados sem resguardo.\n\n###### ARTIGO 4.º — Indicações nos volumes a transportar\n\nNos próprios volumes, se a embalagem for apropriada para o efeito ou em etiquetas solidamente presas aos mesmos, devem ser inscritos em caracteres bem legíveis os nomes e as moradas, quer do expedidor, quer do destinatário, bem como o nome da estação de destino.\n\n###### ARTIGO 5.º — Expedição dos volumes\n\nTendo em atenção a reserva indicada no n.º 4 do artigo 2.º, a expedição efectua-se pela apresentação dos volumes na estação de origem até vinte minutos antes da hora regulamentar da partida do comboio por que se pretenda o seu seguimento.\n\nEm troca de cada volume receberão os expedidores uma senha numerada comprovativa da entrega dos mesmos ao caminho de ferro e da importância paga pelo transporte.\n\n###### ARTIGO 6.º — Preços de transporte\n\n1 - Os preços normais de transporte dos volumes em qualquer percurso ferroviário, incluindo transbordo e a via fluvial entre Lisboa (Terreiro do Paço) e Barreiro, são os seguintes:\n\nAté 5 kg ... 115$00\n\nDe mais de 5 kg até 10 kg ... 190$00\n\nDe mais de 10 kg até 20 kg ... 265$00\n\nDe mais de 20 kg até 30 kg ... 335$00\n\n2 - Para os percursos definidos ou a definir como «Encomenda Expresso» os preços de transporte são os seguintes:\n\nAté 5 kg ... 140$00\n\nDe mais de 5 kg até 10 kg ... 225$00\n\nDe mais de 10 kg até 20 kg ... 315$00\n\nDe mais de 20 kg até 30 kg ... 400$00\n\n3 - Os preços referidos são sempre pagos no acto da expedição.\n\n###### ARTIGO 7.º — Levantamento dos volumes na estação de destino\n\n1 - Para estes volumes não se estabelece aviso de chegada.\n\n2 - Os volumes são entregues ao destinatário contra a apresentação do bilhete de identidade válido do Arquivo de Identificação ou de outro documento oficial que comprove a sua identidade ou a outrem que apresente um daqueles documentos do destinatário ou declaração assinada por este de recebimento dos volumes.\n\nEsta declaração, onde consta a indicação do número da remessa e a data do seu levantamento, só é considerada válida com a assinatura do destinatário reconhecida por firma e carimbo de qualquer casa acreditada.\n\n###### ARTIGO 8.º — Responsabilidade do Caminho de Ferro\n\n1 - O caminho de ferro não se responsabiliza pela eventual morte ou fuga dos animais vivos transportados, qualquer que seja a sua causa, nem pela entrega dos volumes ao destinatário desde que o tenha feito de acordo com o n.º 2 do artigo anterior.\n\n2 - Pelas perdas ou avarias dos volumes que possam ser imputadas ao Caminho de Ferro, não originadas por caso de força maior, a indemnização a pagar será limitada ao máximo de 70$00 por cada quilograma em falta ou avariado.\n\n###### ARTIGO 9.º — Disposição geral\n\nEm tudo o que não contrarie o disposto na presente portaria vigoram as disposições da Tarifa Geral de Transportes - Parte II «Mercadorias».",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312793:por",
+    "alterador": "pt:dre:403331:por;pt:dre:495364:por;pt:dre:242539:por"
+  }
+]

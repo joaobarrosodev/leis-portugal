@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável por dois períodos iguais, à Sociedade Agro-Pecuária, Lda., com o número de pessoa colectiva 501575448 e sede no Monte da Abelheira, Corvos, 7750 Mértola, a zona de caça turística da Herdade da Abelheira (processo n.º 4582-DGRF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Mértola, com a área de 1019 ha.",
+    "depois": "2.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável por dois períodos iguais, à Sociedade Agro-Pecuária da Abelheira, Lda., com o número de pessoa colectiva 501575448 e sede no Monte da Abelheira, Corvos, 7750 Mértola, a zona de caça turística da Herdade da Abelheira (processo n.º 4582-DGRF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Mértola, com a área de 1019 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:641375:por",
+    "alterador": "pt:dre:454549:por"
+  }
+]

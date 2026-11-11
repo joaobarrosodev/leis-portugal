@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante das Associações de Defesa do Ambiente:",
+    "depois": "Representante das associações de defesa do ambiente:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2681494:por",
+    "alterador": "pt:dre:2581694:por"
+  },
+  {
+    "artigo": "unidades 17-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção Regional de Agricultura de Entre Douro e Minho:\n\nJosé António da Costa Rodrigues Alves.",
+    "depois": "Representante da Autoridade Florestal Nacional:\n\nÁlvaro Manuel Vieira Gonçalves.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2681494:por",
+    "alterador": "pt:dre:2581694:por"
+  }
+]

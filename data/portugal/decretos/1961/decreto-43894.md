@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1966-08-26'
+version_history:
+  file: decreto-43894.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-09-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1966-08-26'
+    amending: pt:dre:469428:por
+    amending_title: Decreto n.º 47167
+    changes:
+    - Altera Artigo unidades 129-129
+    - Altera Artigo unidades 131-131
+    - Adita Artigo depois da unidade 132
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:25:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 47167. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1961/decreto-43894.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -360,13 +377,23 @@ Art. 28.º A classificação das povoações é feita sobre processo organizado 
 
 2.º A planta ou o esboço referidos nos §§ 1.º e 2.º do artigo 33.º;
 
-3.º Pareceres dos serviços competentes sobre as condições económicas e sociais da povoação e sobre as obras já realizadas ou a realizar para a sua conveniente urbanização;
+3.º Pareceres dos serviços competentes sobre as condições económicas e sociais da povoação e sobre as obras já realizadas ou a realizar para a sua conveniente urbanização, sendo sempre obrigatória a audição da Repartição de Urbanismo da Direcção dos Serviços de Obras Públicas e Transportes.
+
+> Alterado pelo/a [Decreto n.º 47167](https://diariodarepublica.pt/dr/detalhe/decreto/47167-1966-469428), publicado em 1966-08-26.
 
 4.º A autorização do Ministro do Ultramar, quando necessária.
 
-§ 1.º Quando as povoações abranjam, no todo ou em parte, terrenos sobre os quais tenham jurisdição os serviços de marinha, os de portos, caminhos de ferro e transportes ou os de aeronáutica, devem ser pedidos os pareceres destes.
+§ 1.º Quando as povoações abranjam, no todo ou em parte, terrenos sobre os quais tenham jurisdição os serviços de marinha, os dos portos, caminhos de ferro e transportes ou os de aeronáutica, devem ser pedidos pareceres destes e em quaisquer casos o dos serviços de obras públicas e transportes.
+
+> Alterado pelo/a [Decreto n.º 47167](https://diariodarepublica.pt/dr/detalhe/decreto/47167-1966-469428), publicado em 1966-08-26.
 
 § 2.º As plantas ou esboços aprovados para povoações classificadas, bem como quaisquer modificações que posteriormente lhes sejam introduzidas, estarão patentes ao público na sede dos serviços de agrimensura, bem como nas suas repartições distritais e nas secretarias dos postos e concelhos ou circunscrições administrativos em cuja área fique situada a povoação, publicando-se no Boletim Oficial aviso deste facto.
+
+§ 3.º No caso de os serviços de obras públicas e transportes reconhecerem a necessidade de prévia elaboração de plantas de divisão em talhões ou esboços para demarcação referidos no n.º 2.º, serão esses elementos preparados por aqueles serviços com base nas plantas ou esboços topográficos a fornecer pelos serviços geográficos e cadastrais.
+
+§ 4.º Os elementos para demarcação referidos no parágrafo anterior são exigíveis sempre que as povoações sejam pelo menos sedes de administração de circunscrição ou concelho ou outras que, não o sendo, apresentem iniciativas ou ocupação merecedoras de atenção especial em matéria urbanística.
+
+> Aditado pelo/a [Decreto n.º 47167](https://diariodarepublica.pt/dr/detalhe/decreto/47167-1966-469428), publicado em 1966-08-26.
 
 Art. 29.º As áreas e limites das povoações classificadas e as dos seus subúrbios serão fixadas em cada província, segundo a importância daquelas.
 

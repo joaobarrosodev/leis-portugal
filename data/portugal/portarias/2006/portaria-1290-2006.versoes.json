@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:544851:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2006-11-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "011ba9717877ebba",
+    "f1b522aee5f494cb"
+   ]
+  },
+  {
+   "date": "2007-10-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:629142:por",
+     "title": "Portaria n.º 1365/2007",
+     "published": "2007-10-17",
+     "dre_path": "/dr/detalhe/portaria/1365-2007-629142"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 19-19"
+   ],
+   "fragments": [
+    "011ba9717877ebba",
+    "ca1e8a8faab62fa7"
+   ]
+  }
+ ],
+ "fragments": {
+  "011ba9717877ebba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Novembro\n\nO [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, rectificado pela [Declaração de Rectificação n.º 44/2004](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/44-2004-252206), de 25 de Maio, com as alterações introduzidas pelo [Decreto-Lei n.º 24/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2006-551873), de 6 de Fevereiro, rectificado pela [Declaração de Rectificação n.º 23/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-2006-652894), de 7 de Abril, estabeleceu os princípios orientadores da organização e gestão do currículo, bem como da avaliação e certificação das aprendizagens do nível secundário de educação, definindo a diversidade da oferta formativa do referido nível de educação, na qual se incluem os cursos profissionais vocacionados para a qualificação inicial dos alunos, privilegiando a sua inserção no mundo do trabalho e permitindo o prosseguimento de estudos.\n\nO supramencionado decreto-lei determina, no n.º 5 do artigo 5.º, que os cursos de nível secundário e os respectivos planos de estudos são criados e aprovados por portaria do Ministro da Educação.\n\nNeste sentido, a [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio, com as alterações introduzidas pela [Portaria n.º 797/2006](https://diariodarepublica.pt/dr/detalhe/portaria/797-2006-538593), de 10 de Agosto, veio regular a criação, organização e gestão do currículo, bem como a avaliação e certificação das aprendizagens dos cursos profissionais de nível secundário.\n\nAssim, no âmbito da revisão curricular do ensino profissional e da racionalização da oferta formativa consagradas nos diplomas acima referidos, importa proceder à reestruturação dos cursos actualmente em vigor, criados ao abrigo da legislação anterior, e, consequentemente, aprovar os novos cursos e planos de estudos, à luz das matrizes curriculares estabelecidas pelos citados diplomas.\n\nNestes termos:\n\nAtento o disposto no n.º 5 do artigo 5.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, rectificado pela [Declaração de Rectificação n.º 44/2004](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/44-2004-252206), de 25 de Maio, com as alterações introduzidas pelo [Decreto-Lei n.º 24/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2006-551873), de 6 de Fevereiro, rectificado pela [Declaração de Rectificação n.º 23/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-2006-652894), de 7 de Abril, e ao abrigo dos n.os 1 e 2 do artigo 7.º da [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio, com as alterações introduzidas pela [Portaria n.º 797/2006](https://diariodarepublica.pt/dr/detalhe/portaria/797-2006-538593), de 10 de Agosto:\n\nManda o Governo, pelo Secretário de Estado da Educação, o seguinte:\n\n1.º É criado o curso profissional de técnico de recuperação do património edificado, visando a saída profissional de técnico de recuperação do património edificado.\n\n2.º O curso criado no número anterior enquadra-se na família profissional de informação, documentação e património e integra-se na área de educação e formação de história e arqueologia (225), de acordo com a classificação aprovada pela [Portaria n.º 256/2005](https://diariodarepublica.pt/dr/detalhe/portaria/256-2005-572672), de 16 de Março.\n\n3.º O plano de estudos do curso agora criado é o constante do anexo à presente portaria, da qual faz parte integrante, e que resulta da reestruturação dos cursos profissionais aprovados pelos diplomas a que se refere o n.º 5.º da presente portaria.\n\n4.º Aos alunos que concluírem com aproveitamento o curso profissional criado pela presente portaria será atribuído um diploma de conclusão do nível secundário de educação e um certificado de qualificação profissional de nível 3, de acordo com o previsto no n.º 1 e na alínea c) do n.º 2 do artigo 15.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, rectificado pela [Declaração de Rectificação n.º 44/2004](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/44-2004-252206), de 25 de Maio, com as alterações introduzidas pelo [Decreto-Lei n.º 24/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2006-551873), de 6 de Fevereiro, rectificado pela [Declaração de Rectificação n.º 23/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-2006-652894), de 7 de Abril, e no n.º 1 do artigo 33.º da [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio, com as alterações introduzidas pela [Portaria n.º 797/2006](https://diariodarepublica.pt/dr/detalhe/portaria/797-2006-538593), de 10 de Agosto.\n\n5.º Com a publicação da presente portaria é extinto o curso profissional de técnico de recuperação do património edificado, criado pela [Portaria n.º 207/92](https://diariodarepublica.pt/dr/detalhe/portaria/207-1992-179794), de 19 de Março.\n\n6.º Sem prejuízo do disposto nos n.os 5.º e 7.º, o plano de estudos do curso profissional agora extinto continuará em vigor até à conclusão do curso por parte dos alunos que, entretanto, o tiverem iniciado.\n\n7.º Pela presente é revogada a [Portaria n.º 207/92](https://diariodarepublica.pt/dr/detalhe/portaria/207-1992-179794), de 19 de Março.\n\n8.º A presente portaria produz efeitos a partir do ano lectivo de 2006-2007.\n\nO Secretário de Estado da Educação, Valter Victorino Lemos, em 31 de Outubro de 2006."
+  },
+  "f1b522aee5f494cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Curso profissional de técnico de recuperação do património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Curso profissional de técnico de recuperação do património\n\nPlano de estudos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22400/79998000.pdf)"
+  },
+  "ca1e8a8faab62fa7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Curso profissional de técnico de recuperação do património edificado",
+   "in_force_from": "2007-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1365/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1365-2007-629142), publicado em 2007-10-17."
+   ],
+   "markdown": "## ANEXO — Curso profissional de técnico de recuperação do património edificado\n\n> Alterado pelo/a [Portaria n.º 1365/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1365-2007-629142), publicado em 2007-10-17.\n\nPlano de estudos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22400/79998000.pdf)"
+  }
+ }
+}

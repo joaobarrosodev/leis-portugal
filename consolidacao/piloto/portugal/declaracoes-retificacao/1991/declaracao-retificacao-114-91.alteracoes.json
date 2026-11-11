@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "No cap. 03, onde se lê «div. 02, subdiv. -» deve ler-se «div. -, subdiv. 03».",
+    "depois": "No cap. 03, onde se lê «div. 02, subdiv. -» deve ler-se «div. -, subdiv. 02».",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:669560:por",
+    "alterador": "pt:dre:521587:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "No cap. 60, div. 01, subdiv. 09, onde se lê «C. E. 09.07.00 - B - Execução de avales - 3930000 contos» deve ler-se «C. E. 07.07.00 - B - Execução de avales - 2930000 contos».",
+    "depois": "No cap. 60, div. 01, subdiv. 09, onde se lê «C. E. 09.07.00 - B - Execução de avales - 3930000 contos» deve ler-se «C. E. 09.07.00 - B - Execução de avales - 2930000 contos».",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:292494:por",
+    "alterador": "pt:dre:459577:por"
+  }
+]

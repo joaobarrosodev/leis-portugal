@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Portugal é Parte desta Convenção, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 22/89](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/22-1989-618746), publicada no Diário da República, 1.ª série-A, n.º 191, de 21 de Agosto de 1989, e ratificada pelo [Decreto do Presidente da República n.º 51/89](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/51-1989-618747), publicado no Diário da República, 1.ª série-A, n.º 191, de 21 de Agosto de 1989, tendo depositado o seu instrumento de ratificação em 25 de Janeiro de 1990, conforme o aviso de 31 de Março de 1990, publicado no Diário da República, 1.ª série-A, n.º 76, de 31 de Março de 1990.",
+    "depois": "Portugal é Parte desta Convenção, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 23/89](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/23-1989-618545), publicada no Diário da República, 1.ª série-A, n.º 191, de 21 de Agosto de 1989, e ratificada pelo [Decreto do Presidente da República n.º 57/89](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/57-1989-618542), publicado no Diário da República, 1.ª série-A, n.º 191, de 21 de Agosto de 1989, tendo depositado o seu instrumento de ratificação conforme o Aviso publicado no Diário da República, 1.ª série-A, n.º 76, de 31 de Março de 1990.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:518865:por",
+    "alterador": "pt:dre:519672:por"
+  }
+]

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-23'
+version_history:
+  file: portaria-1464-2001-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-09-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-23'
+    amending: pt:dre:3227993:por
+    amending_title: Portaria n.º 1068/2009
+    changes:
+    - Altera Artigo unidades 15-16
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:17:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1068/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2001/portaria-1464-2001-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,9 +146,11 @@ Representante das associações de defesa do ambiente - Carlos Miguel Cruz;
 
 Autarca de freguesia - José Vitorino Piteira;
 
-Representante da Direcção Regional de Agricultura do Alentejo - António Plácido F. Costa Santos;
+Representante da Autoridade Florestal Nacional - Viriato Pascoal Lopes Alves;
 
-Representante do Instituto da Conservação da Natureza - Rui Fernando Sameiro Santana Correia.
+Representante do Instituto da Conservação da Natureza e da Biodiversidade - João Mário Madeira Pargana.
+
+> Alterado pelo/a [Portaria n.º 1068/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1068-2009-3227993), publicado em 2009-10-23.
 
 2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.
 

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 18-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção-Geral dos Recursos Florestais:\n\nRui Fernando Sameiro Santana Correia.\n\nRepresentante do Instituto da Conservação da Natureza:",
+    "depois": "Representante da Autoridade Florestal Nacional:\n\nJoaquim Fernando Pinheiro Brito.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade, I. P.:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3001652:por",
+    "alterador": "pt:dre:3227999:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 17-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção Regional de Agricultura do Alentejo:\n\nJoão da Cruz Morgadinho Tremoço.\n\nRepresentante do Instituto da Conservação da Natureza:\n\nJoão Mário Vieira Pargana.",
+    "depois": "Representante da Autoridade Florestal Nacional:\n\nJoaquim Fernando Pinheiro Brito.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade:\n\nJoão Mário Vieira Pragana.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:817080:por",
+    "alterador": "pt:dre:2598671:por"
+  }
+]

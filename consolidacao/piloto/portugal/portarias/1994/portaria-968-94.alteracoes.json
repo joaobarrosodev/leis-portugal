@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-22",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º É proibida a colocação no mercado e a utilização de substâncias e preparações cuja concentração em pentaclorofenol, seus sais e ésteres seja igual ou superior a 0,1% em massa.\n\n3.º Exceptuam-se do disposto no artigo anterior as substâncias e preparações destinadas a serem utilizadas exclusivamente em instalações industriais que não permitam a emissão e ou a rejeição de pentaclorofenol (PCP) em quantidade superior à legalmente estabelecida na legislação em vigor e com os fins seguintes:\n\na) Tratamento de madeiras, com excepção das destinadas à utilização:\n\nNo interior de edifícios;\n\nNa fabricação ou manutenção quer de contentores destinados a culturas quer de embalagens que, entrando em contacto com outros materiais, possam contaminar produtos em bruto, intermédios ou acabados, destinados à alimentação humana ou animal;\n\nb) Impregnação de fibras e de têxteis pesados não destinados à confecção de vestuário ou à utilização em mobiliário com fins decorativos;\n\nc) Como agente de síntese e ou de transformação em processos industriais.\n\n4.º Mediante autorização a conceder pela Direcção-Geral da Indústria, os produtos a que se reporta o n.º 2.º podem ser utilizados no tratamento curativo dos materiais em madeira e pedra atacados por podridão seca (serpula lacrymans) e podridão cúbica, quando realizados in situ, por profissionais especializados, nos seguintes casos:\n\na) Em edifícios classificados ou em vias de classificação;\n\nb) Noutros edifícios, em casos de urgência.\n\n5.º O pentaclorofenol, seus sais e ésteres, bem como suas preparações, só podem ser utilizados nas aplicações identificadas nos artigos 3.º e 4.º desde que:\n\nTenham um teor de hexaclorodibenzoparadioxina (H6CDD) inferior a quatro partes por milhão (ppm);\n\nSejam vendidos a utilizadores industriais e profissionais e em embalagens com capacidade igual ou superior a 20 l, cujo rótulo ostente, de modo legível e indelével, a expressão «Reservado aos utilizadores industriais e profissionais», sem prejuízo do disposto nos Decretos-Leis n.os 280-A/87, de 17 de Julho, e 120/92, de 30 de Junho, e na Portaria n.º 1164/92, de 18 de Dezembro.",
+    "depois": "2.º - (Revogado.)\n\n3.º - (Revogado.)\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:621152:por",
+    "alterador": "pt:dre:532459:por"
+  }
+]

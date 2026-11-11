@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção-Geral dos Recursos Florestais - Graça Maria Gonçalves Barreira Andrade.",
+    "depois": "Representante da Autoridade Florestal Nacional - Armando José Pereira.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3189805:por",
+    "alterador": "pt:dre:3228003:por"
+  }
+]

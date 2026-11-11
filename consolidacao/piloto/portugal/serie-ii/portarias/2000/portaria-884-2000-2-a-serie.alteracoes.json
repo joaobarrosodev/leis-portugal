@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "depois da unidade 5",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "Artigo 1.º\n\nConstituição",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:862134:por",
+    "alterador": "pt:dre:2177093:por"
+  },
+  {
+    "artigo": "unidades 7-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representantes dos caçadores:\n\nJosé Domingos Gomes Escoval;\n\nJosé Manuel Chamorro Fernandes;\n\nRepresentantes dos agricultores:\n\nAntónio Maria de Sousa Cabral Fialho;\n\nLuís Fernando da Moita Pinheiro;\n\nFrancisco Cândido Pinto Pulido;\n\nAutarca de freguesia:\n\nLuís Fialho Alcario;\n\nRepresentante dos serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas:\n\nDomingos Fernandes Garcia.",
+    "depois": "a) Representantes dos caçadores:\n\ni) José Domingos Gomes Escoval;\n\nii) José Manuel Chamorro Fernandes;\n\nb) Representantes dos agricultores:\n\ni) António Maria de Sousa Cabral Fialho;\n\nii) Luís Fernando da Moita Pinheiro;\n\niii) Francisco Cândido Pinto Pulido;\n\nc) Autarca de freguesia, Luís Fialho Alcario;\n\nd) Representante da Autoridade Florestal Nacional, José Caimoto e Sousa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:862134:por",
+    "alterador": "pt:dre:2177093:por"
+  }
+]

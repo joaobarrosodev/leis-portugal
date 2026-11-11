@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Delego no Secretário de Estado da Saúde, licenciado Manuel Ferreira Teixeira, as competências que me são legalmente atribuídas relativamente à Secretaria-Geral do Ministério da Saúde, no que se refere a:",
+    "depois": "1 - Delego no Secretário de Estado da Saúde, licenciado Manuel Ferreira Teixeira, com faculdade de subdelegação, as competências que me são legalmente atribuídas relativamente à Secretaria-Geral do Ministério da Saúde, no que se refere a:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2772437:por",
+    "alterador": "pt:dre:2285608:por"
+  }
+]

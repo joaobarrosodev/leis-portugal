@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:862134:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-06-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fba245ae7ba24401"
+   ]
+  },
+  {
+   "date": "2010-10-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:2177093:por",
+     "title": "Portaria n.º 732/2010",
+     "published": "2010-10-12",
+     "dre_path": "/dr/detalhe/portaria/732-2010-2177093"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 5",
+    "Altera Artigo unidades 7-17"
+   ],
+   "fragments": [
+    "c98775dc179f1eef"
+   ]
+  }
+ ],
+ "fragments": {
+  "fba245ae7ba24401": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 884/2000 (2.ª série). - O [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto, determina no n.º 8 do artigo 134.º que a duração do mandato dos conselhos cinegéticos e da conservação da fauna municipais é de três anos.\n\nConsiderando que o mandato do Conselho Cinegético Municipal da Barrancos, fixado pela Portaria n.º 141-E/97 (2.ª série), de 23 de Abril, alterado pela [Portaria n.º 923/98](https://diariodarepublica.pt/dr/detalhe/portaria/923-1998-239862) (2.ª série), de 3 de Setembro, chegou ao seu termo, torna-se necessário proceder à publicação de nova portaria.\n\nAssim, com fundamento no disposto no artigo 133.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1 - O Conselho Cinegético Municipal de Barrancos é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nJosé Domingos Gomes Escoval;\n\nJosé Manuel Chamorro Fernandes;\n\nRepresentantes dos agricultores:\n\nAntónio Maria de Sousa Cabral Fialho;\n\nLuís Fernando da Moita Pinheiro;\n\nFrancisco Cândido Pinto Pulido;\n\nAutarca de freguesia:\n\nLuís Fialho Alcario;\n\nRepresentante dos serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas:\n\nDomingos Fernandes Garcia.\n\n2 - Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n31 de Maio de 2000. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Vítor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural."
+  },
+  "c98775dc179f1eef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2010-10-12",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 732/2010](https://diariodarepublica.pt/dr/detalhe/portaria/732-2010-2177093), publicado em 2010-10-12.",
+    "Alterado pelo/a [Portaria n.º 732/2010](https://diariodarepublica.pt/dr/detalhe/portaria/732-2010-2177093), publicado em 2010-10-12."
+   ],
+   "markdown": "Portaria n.º 884/2000 (2.ª série). - O [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto, determina no n.º 8 do artigo 134.º que a duração do mandato dos conselhos cinegéticos e da conservação da fauna municipais é de três anos.\n\nConsiderando que o mandato do Conselho Cinegético Municipal da Barrancos, fixado pela Portaria n.º 141-E/97 (2.ª série), de 23 de Abril, alterado pela [Portaria n.º 923/98](https://diariodarepublica.pt/dr/detalhe/portaria/923-1998-239862) (2.ª série), de 3 de Setembro, chegou ao seu termo, torna-se necessário proceder à publicação de nova portaria.\n\nAssim, com fundamento no disposto no artigo 133.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\nArtigo 1.º\n\nConstituição\n\n> Aditado pelo/a [Portaria n.º 732/2010](https://diariodarepublica.pt/dr/detalhe/portaria/732-2010-2177093), publicado em 2010-10-12.\n\n1 - O Conselho Cinegético Municipal de Barrancos é constituído pelos seguintes vogais:\n\na) Representantes dos caçadores:\n\ni) José Domingos Gomes Escoval;\n\nii) José Manuel Chamorro Fernandes;\n\nb) Representantes dos agricultores:\n\ni) António Maria de Sousa Cabral Fialho;\n\nii) Luís Fernando da Moita Pinheiro;\n\niii) Francisco Cândido Pinto Pulido;\n\nc) Autarca de freguesia, Luís Fialho Alcario;\n\nd) Representante da Autoridade Florestal Nacional, José Caimoto e Sousa.\n\n> Alterado pelo/a [Portaria n.º 732/2010](https://diariodarepublica.pt/dr/detalhe/portaria/732-2010-2177093), publicado em 2010-10-12.\n\n2 - Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n31 de Maio de 2000. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Vítor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural."
+  }
+ }
+}

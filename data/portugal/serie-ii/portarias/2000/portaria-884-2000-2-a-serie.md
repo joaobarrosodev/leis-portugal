@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-10-12'
+version_history:
+  file: portaria-884-2000-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-06-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-10-12'
+    amending: pt:dre:2177093:por
+    amending_title: Portaria n.º 732/2010
+    changes:
+    - Adita Artigo depois da unidade 5
+    - Altera Artigo unidades 7-17
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:14:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 732/2010. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2000/portaria-884-2000-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,29 +127,33 @@ Assim, com fundamento no disposto no artigo 133.º do [Decreto-Lei n.º 136/96](
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
+Artigo 1.º
+
+Constituição
+
+> Aditado pelo/a [Portaria n.º 732/2010](https://diariodarepublica.pt/dr/detalhe/portaria/732-2010-2177093), publicado em 2010-10-12.
+
 1 - O Conselho Cinegético Municipal de Barrancos é constituído pelos seguintes vogais:
 
-Representantes dos caçadores:
+a) Representantes dos caçadores:
 
-José Domingos Gomes Escoval;
+i) José Domingos Gomes Escoval;
 
-José Manuel Chamorro Fernandes;
+ii) José Manuel Chamorro Fernandes;
 
-Representantes dos agricultores:
+b) Representantes dos agricultores:
 
-António Maria de Sousa Cabral Fialho;
+i) António Maria de Sousa Cabral Fialho;
 
-Luís Fernando da Moita Pinheiro;
+ii) Luís Fernando da Moita Pinheiro;
 
-Francisco Cândido Pinto Pulido;
+iii) Francisco Cândido Pinto Pulido;
 
-Autarca de freguesia:
+c) Autarca de freguesia, Luís Fialho Alcario;
 
-Luís Fialho Alcario;
+d) Representante da Autoridade Florestal Nacional, José Caimoto e Sousa.
 
-Representante dos serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas:
-
-Domingos Fernandes Garcia.
+> Alterado pelo/a [Portaria n.º 732/2010](https://diariodarepublica.pt/dr/detalhe/portaria/732-2010-2177093), publicado em 2010-10-12.
 
 2 - Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.
 

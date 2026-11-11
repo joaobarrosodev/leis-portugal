@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º A presente portaria mantém-se em vigor até 30 de Junho de 1998.",
+    "depois": "2.º A presente portaria mantém-se em vigor até 30 de Março de 2002.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:535259:por",
+    "alterador": "pt:dre:319929:por"
+  }
+]

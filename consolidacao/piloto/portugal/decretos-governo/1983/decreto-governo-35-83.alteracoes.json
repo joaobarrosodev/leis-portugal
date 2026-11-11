@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2) Quanto ao Protocolo Adicional ao Código Europeu de Segurança Social, Portugal não aceita:\n\na) As obrigações decorrentes das partes IV e VI, relativas, respectivamente, ao subsídio de desemprego e às prestações, em caso de acidente de trabalho e doenças profissionais;\n\nb) O disposto na subalínea iii) da alínea a) do n.º 2 do artigo 10.º e na alínea c) do n.º 2 do artigo 49.º, respeitantes à percentagem de participação dos beneficiários no custo de medicamentos.",
+    "depois": "b) Quanto ao Protocolo, Portugal aceita as obrigações decorrentes das partes III, IV, V, VII, IX e X do Código, tais como modificadas pelo Protocolo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:451605:por",
+    "alterador": "pt:dre:182241:por"
+  }
+]

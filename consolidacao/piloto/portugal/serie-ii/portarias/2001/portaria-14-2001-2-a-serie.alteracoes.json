@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Autorizar, nos termos do artigo 1.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a cessão, a título definitivo, ao município de Santa Marta de Penaguião do prédio rústico, com a área de 218 m2, sito no lugar do Cruzeiro, inscrito na matriz cadastral sob o artigo 382-E, da freguesia da Cumieira, descrito na Conservatória do Registo Predial de Santa Marta sob o n.º 00969/291092 e registado a favor do Estado pela inscrição G-1.",
+    "depois": "1 - Autorizar, nos termos do artigo 1.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a cessão, a título definitivo, ao município de Santa Marta de Penaguião dos seguintes prédios:\n\na) Prédio rústico com a área de 218 m2, inscrito na matriz predial sob o artigo 382-E, da freguesia da Cumieira e descrito na Conservatória do Registo Predial de Santa Marta de Penaguião sob o n.º 00969/291092, onde se encontra implantada a sede da Banda Musical da Cumieira;\n\nb) Prédio rústico com a área de 156 m2, inscrito na matriz predial sob o artigo 384-E, da freguesia da Cumieira, onde se encontra implantada a sede da Junta de Freguesia da Cumieira;\n\nc) Prédio urbano com a área de 58 m2, inscrito na matriz predial urbana sob o artigo 501, da freguesia da Cumieira, onde se encontra implantada a sede do Sporting Clube da Cumieira.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3422803:por",
+    "alterador": "pt:dre:3004100:por"
+  }
+]

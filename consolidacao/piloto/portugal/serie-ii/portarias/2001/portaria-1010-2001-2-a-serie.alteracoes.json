@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Mário Marques Queirós;\n\nArtur Jorge da Silva Miguel;",
+    "depois": "Mário Marques Queirós.\n\nArtur Jorge da Silva Miguel.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2917173:por",
+    "alterador": "pt:dre:3227994:por"
+  },
+  {
+    "artigo": "unidades 11-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Armindo de Sousa Queirós;\n\nJoão Francisco Pinheiro Marques Leandro;\n\nRepresentante das Associações de Defesa do Ambiente - José António Peixoto Lima;\n\nAutarca de freguesia - António José Guimarães Peixoto;\n\nRepresentante da Direcção Regional de Agricultura de Entre-Douro e Minho - Germinal Rodrigues;\n\nRepresentante do Instituto da Conservação da Natureza - José Nascimento.",
+    "depois": "Armindo de Sousa Queirós.\n\nJoão Francisco Pinheiro Marques Leandro.\n\nRepresentante das associações de defesa do ambiente:\n\nJosé António Peixoto Lima.\n\nAutarca de freguesia:\n\nAntónio José Guimarães Peixoto.\n\nRepresentante da Autoridade Florestal Nacional:\n\nJulieta Manuela Ribeiro Sampaio Calçada Duarte.\n\nRepresentante do Instituto da Conservação da Natureza:\n\nJosé Nascimento.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2917173:por",
+    "alterador": "pt:dre:3227994:por"
+  }
+]

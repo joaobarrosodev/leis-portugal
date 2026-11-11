@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-23'
+version_history:
+  file: portaria-1010-2001-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-06-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-23'
+    amending: pt:dre:3227994:por
+    amending_title: Portaria n.º 1069/2009
+    changes:
+    - Altera Artigo unidades 8-9
+    - Altera Artigo unidades 11-16
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:14:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1069/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2001/portaria-1010-2001-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,23 +127,35 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Representantes dos caçadores:
 
-Mário Marques Queirós;
+Mário Marques Queirós.
 
-Artur Jorge da Silva Miguel;
+Artur Jorge da Silva Miguel.
+
+> Alterado pelo/a [Portaria n.º 1069/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1069-2009-3227994), publicado em 2009-10-23.
 
 Representantes dos agricultores:
 
-Armindo de Sousa Queirós;
+Armindo de Sousa Queirós.
 
-João Francisco Pinheiro Marques Leandro;
+João Francisco Pinheiro Marques Leandro.
 
-Representante das Associações de Defesa do Ambiente - José António Peixoto Lima;
+Representante das associações de defesa do ambiente:
 
-Autarca de freguesia - António José Guimarães Peixoto;
+José António Peixoto Lima.
 
-Representante da Direcção Regional de Agricultura de Entre-Douro e Minho - Germinal Rodrigues;
+Autarca de freguesia:
 
-Representante do Instituto da Conservação da Natureza - José Nascimento.
+António José Guimarães Peixoto.
+
+Representante da Autoridade Florestal Nacional:
+
+Julieta Manuela Ribeiro Sampaio Calçada Duarte.
+
+Representante do Instituto da Conservação da Natureza:
+
+José Nascimento.
+
+> Alterado pelo/a [Portaria n.º 1069/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1069-2009-3227994), publicado em 2009-10-23.
 
 2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.
 

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - Os processos de candidatura, que serão constituídos por um projecto a fornecer pelas direcções regionais de agricultura e pelo IVV e pela documentação neles exigida, são apresentados na direcção regional de agricultura competente.",
+    "depois": "3.º Os processos de candidatura, que serão constituídos por impressos a fornecer pelas direcções regionais e pelo IVV e pela documentação neles exigida, são apresentados na direcção regional de agricultura competente.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:357537:por",
+    "alterador": "pt:dre:360927:por"
+  }
+]

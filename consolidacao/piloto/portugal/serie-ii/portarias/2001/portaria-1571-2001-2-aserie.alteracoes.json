@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 8-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Carlos Gomes Viegas;\n\nVítor Manuel da Conceição Rodrigues;",
+    "depois": "Carlos Gomes Viegas.\n\nVítor Manuel da Conceição Rodrigues.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2800997:por",
+    "alterador": "pt:dre:2325584:por"
+  },
+  {
+    "artigo": "unidades 11-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "José António Domingos;\n\nManuel Rodrigues Vaz;",
+    "depois": "José António Domingos.\n\nManuel Rodrigues Vaz.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2800997:por",
+    "alterador": "pt:dre:2325584:por"
+  },
+  {
+    "artigo": "unidades 14-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Ana Lídia Freitas Monteiro do Valle Fernandes;",
+    "depois": "Ana Lídia Freitas Monteiro do Valle Fernandes.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2800997:por",
+    "alterador": "pt:dre:2325584:por"
+  },
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "José Manuel Madeira Neto;",
+    "depois": "José Manuel Madeira Neto.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2800997:por",
+    "alterador": "pt:dre:2325584:por"
+  },
+  {
+    "artigo": "unidades 17-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção Regional de Agricultura do Algarve:\n\nJosé António Oliveira Filipe;\n\nRepresentante do Instituto da Conservação da Natureza:",
+    "depois": "Representante da Autoridade Florestal Nacional:\n\nAníbal António Vidigal Vinhas.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2800997:por",
+    "alterador": "pt:dre:2325584:por"
+  }
+]

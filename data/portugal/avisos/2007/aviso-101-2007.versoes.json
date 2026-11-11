@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:518623:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-03-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "564784240af4b8d7"
+   ]
+  },
+  {
+   "date": "2007-04-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:519439:por",
+     "title": "Aviso n.º 284/2007",
+     "published": "2007-04-17",
+     "dre_path": "/dr/detalhe/aviso/284-2007-519439"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-3"
+   ],
+   "fragments": [
+    "bf0db6e15830c68a"
+   ]
+  }
+ ],
+ "fragments": {
+  "564784240af4b8d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se torna público que o Governo da República Portuguesa depositou, em 2 de Fevereiro de 2007, o seu instrumento de ratificação do Protocolo Relativo aos Privilégios e Imunidades da Autoridade Internacional dos Fundos Marinhos, aberto à assinatura em Kingston entre 17 e 28 de Agosto de 1998.\n\nO Protocolo Relativo aos Privilégios e Imunidades da Autoridade Internacional dos Fundos Marinhos foi aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 60/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-2006-545003), publicada no Diário da República, 1.ª série-A, n.º 229, de 28 de Novembro de 2006.\n\nNos termos do disposto no seu artigo 18.º, n.º 2, o Protocolo entrará em vigor para a República Portuguesa em 4 de Março de 2007.\n\nDirecção-Geral dos Assuntos Técnicos e Económicos, 27 de Fevereiro de 2007. - O Subdirector-Geral, Miguel Maria Simões Coelho de Almeida e Sousa."
+  },
+  "bf0db6e15830c68a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2007-04-17",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 284/2007](https://diariodarepublica.pt/dr/detalhe/aviso/284-2007-519439), publicado em 2007-04-17."
+   ],
+   "markdown": "Por ordem superior se torna público que o Governo da República Portuguesa depositou, em 2 de Fevereiro de 2007, o seu instrumento de ratificação do Protocolo Relativo aos Privilégios e Imunidades da Autoridade Internacional dos Fundos Marinhos, aberto à assinatura em Kingston entre 17 e 28 de Agosto de 1998.\n\nO Protocolo Relativo aos Privilégios e Imunidades da Autoridade Marítima Internacional dos Fundos Marinhos foi aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 60/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-2006-545003) e pelo [Decreto do Presidente da República n.º 115/2006](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/115-2006-545005), ambos publicados no Diário da República, 1.ª série, n.º 229, de 28 de Novembro de 2006.\n\n> Alterado pelo/a [Aviso n.º 284/2007](https://diariodarepublica.pt/dr/detalhe/aviso/284-2007-519439), publicado em 2007-04-17.\n\nNos termos do disposto no seu artigo 18.º, n.º 2, o Protocolo entrará em vigor para a República Portuguesa em 4 de Março de 2007.\n\nDirecção-Geral dos Assuntos Técnicos e Económicos, 27 de Fevereiro de 2007. - O Subdirector-Geral, Miguel Maria Simões Coelho de Almeida e Sousa."
+  }
+ }
+}

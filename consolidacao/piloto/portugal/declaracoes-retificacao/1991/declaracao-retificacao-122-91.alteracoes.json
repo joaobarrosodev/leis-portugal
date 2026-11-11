@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "No cap. 03, div. 10, subdiv. 01, C. F. 3.02.0, C. E. 01.01.01, na coluna de anulações, onde se lê «1200» deve ler-se «1280».",
+    "depois": "No cap. 03, div. 10, subdiv. 01, C. F. 3.02.0, C. E. 01.01.04, na coluna de anulações, onde se lê «1200» deve ler-se «1280».",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:669778:por",
+    "alterador": "pt:dre:521576:por"
+  }
+]

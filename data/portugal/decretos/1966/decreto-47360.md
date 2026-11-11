@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-09-20'
+version_history:
+  file: decreto-47360.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1966-12-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-09-20'
+    amending: pt:dre:413866:por
+    amending_title: Decreto n.º 442/73; Decreto-Lei n.º 467/74
+    changes:
+    - Altera Artigo unidades 123-123
+    - Altera Artigo unidades 126-128
+    - Altera Artigo unidades 142-148
+    - Adita Artigo depois da unidade 454
 identifiers:
   celex: null
   eli: null
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:53:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 442/73; Decreto-Lei n.º
+    467/74. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1966/decreto-47360.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -385,17 +403,21 @@ Art. 6.º O Comando-Geral da Polícia de Segurança Pública é constituído por
 
 § único. O comandante-geral é coadjuvado por um 2.º comandante-geral. Junto deste e na sua dependência directa haverá uma inspecção técnica e de instrução e um gabinete de estudos, o qual inclui uma secção de contencioso, a biblioteca e um serviço de relações públicas.
 
-Art. 7.º A inspecção administrativa assegura a inspecção dos serviços administrativos do Comando-Geral e dos diferentes comandos da corporação.
+Art. 7.º A Inspecção Administrativa assegura a inspecção dos Serviços Administrativos do Comando-Geral, dos diferentes comandos e dos Serviços Sociais.
+
+> Alterado pelo/a [Decreto-Lei n.º 467/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/467-1974-473286), publicado em 1974-09-20.
 
 Art. 8. À secretaria-geral incumbe dar andamento aos assuntos relativos à entrada e expediente de toda a correspondência, publicação da ordem de serviço do Comando-Geral, organização do ficheiro sobre legislação e do copiador geral, às apresentações e marchas do pessoal, à organização do arquivo do Comando-Geral e ainda outros serviços não especificados de que for encarregada pelo mesmo Comando.
 
 § único. A secretaria-geral é chefiada por um comandante de secção ou comissário-chefe, nomeado pelo comandante-geral.
 
-Art. 9.º Incumbem às repartições do Comando-Geral as funções seguintes:
+Art. 9.º - 1. Incumbem às repartições do Comando-Geral as funções seguintes:
 
-1.º À 1.ª Repartição - dar andamento aos assuntos respeitantes ao pessoal, aos serviços de justiça, aos serviços sociais, e bem assim assegurar o movimento e escrituração dos solípedes, bovídeos e canídeos pertencentes à corporação. A 1.ª Repartição tem duas secções, às quais incumbe:
+À 1.ª Repartição - dar andamento aos assuntos respeitantes ao pessoal, aos Serviços de Justiça e assegurar o movimento e escrituração dos solípedes, bovídeos e canídeos pertencentes à corporação. A 1.ª Repartição tem duas secções, às quais incumbe:
 
-a) 1.ª Secção (Administração do pessoal e serviços) - todos os assuntos relativos ao movimento e escrituração do pessoal, informações e ficheiro geral do mesmo; os assuntos respeitantes ao moral e bem-estar do pessoal, tais como assistência religiosa, actividades recreativas, coordenação com a Cruz Vermelha Portuguesa e Movimento Nacional Feminino e contactos com os serviços de saúde; os assuntos relativos ao serviço de justiça e aos serviços sociais da Polícia e ainda os funerais e o registo de sepulturas;
+a) 1.ª Secção (Administração do pessoal e serviços) - todos os assuntos relativos ao movimento e escrituração do pessoal, informações e ficheiro geral do mesmo;
+
+> Alterado pelo/a [Decreto-Lei n.º 467/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/467-1974-473286), publicado em 1974-09-20.
 
 b) 2.ª Secção (Registo e escrituração de animais) - todos os assuntos relativos ao movimento e escrituração dos solípedes, bovídeos e canídeos em carga ao património da corporação e ao ficheiro geral respectivo.
 
@@ -423,19 +445,19 @@ c) 3.ª Secção (Contratos) - o preenchimento das formalidades legais respeitan
 
 d) 4.ª Secção - o expediente e o arquivo.
 
-Art. 10.º O Comando-Geral tem seis serviços, aos quais incumbe:
+Art. 10.º O Comando-Geral tem cinco serviços, aos quais incumbe:
 
-1.º Serviços de material (S. M. G. A.) - a superintendência e responsabilidade da recepção, estudo, manutenção, distribuição e movimento de carga do material de guerra e de aquartelamento, e bem assim, como actividade complementar, a superintendência nas oficinas que não estejam a cargo de outros serviços;
+1.º Serviços de material (SMAG) - a superintendência e responsabilidade da recepção, estudo, manutenção, distribuição e movimento de carga do material de guerra e de aquartelamento, e bem assim, como actividade complementar, a superintendência nas oficinas que não estejam a cargo de outros serviços;
 
-2.º Serviço auto (S. A.) - a superintendência e responsabilidade da recepção, manutenção, distribuição e movimento de carga do material rolante e flutuante, a preparação dos respectivos condutores, mecânicos e ajudantes de mecânico para o serviço da corporação e ainda as oficinas de manutenção daquele material;
+2.º Serviço auto (SA) - a superintendência e responsabilidade da recepção, manutenção, distribuição e movimento de carga do material rolante e flutuante, a preparação dos respectivos condutores, mecânicos e ajudantes de mecânico para o serviço da corporação e ainda as oficinas de manutenção daquele material;
 
-3.º Serviço de transmissões e obras (S. T. O.) - o estabelecimento, exploração e conservação da rede telefónica e telegráfica; os assuntos relativos à conservação de quartéis e cadastro de imóveis directamente afectos à Polícia de Segurança Pública; o comando, produção, distribuição e fiscalização dos sistemas de cifra, bem como as oficinas de manutenção do material de transmissões e electrónico;
+3.º Serviço de transmissões e obras (STO) - o estabelecimento, exploração e conservação da rede telefónica e telegráfica; os assuntos relativos à conservação de quartéis e cadastro de imóveis directamente afectos à Polícia de Segurança Pública; o comando, produção, distribuição e fiscalização dos sistemas de cifra, bem como as oficinas de manutenção do material de transmissões e electrónico;
 
-4.º Serviço de saúde (S. S.) - a assistência ao pessoal e famílias, a preparação de ajudantes de enfermeiro e primeiros socorristas para o serviço da Polícia de Segurança Pública e ainda a assistência aos solípedes, bovídeos e canídeos da corporação;
+4.º Serviços de saúde (SS) - a assistência ao pessoal e famílias, a preparação de ajudantes de enfermeiro e primeiros socorristas para o serviço da Polícia de Segurança Pública e ainda a assistência aos solípedes, bovídeos e canídeos da corporação;
 
-5.º Serviço social - promover, moral e materialmente, a satisfação das necessidades de ordem social e de previdência dos componentes da Polícia de Segurança Pública de Angola e contribuir para a manutenção de um estado de espírito elevado do seu pessoal, podendo ter a seu cargo cantinas, barbearias, oficinas de alfaiataria, sapataria e outras que forem julgadas convenientes;
+5.º Serviços de justiça (SJ) - todos os assuntos relativos à justiça e disciplina.
 
-6.º Serviço de justiça (S. J.) - todos os assuntos relativos à justiça e disciplina.
+> Alterado pelo/a [Decreto-Lei n.º 467/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/467-1974-473286), publicado em 1974-09-20.
 
 Art. 11.º No Comando-Geral funcionará uma junta de inspecção de recrutamento, constituída por:
 
@@ -1048,6 +1070,10 @@ Art. 120.º Os autos ou participações de infracções de que a Polícia de Seg
 § 1.º Os autos ou participações de contravenções ou transgressões serão enviados às autoridades que superintendam nos respectivos serviços, competindo-lhes proceder em conformidade com a legislação especial aplicável.
 
 § 2.º Os autos de notícia levantados pela Polícia de Segurança Pública, nos termos do artigo 166.º do Código de Processo Penal, e os corpos de delito devidamente organizados quanto às infracções possíveis de acção penal equivalem, para todos os efeitos, quando remetidos ao tribunal à acusação em processo penal.
+
+§ 3.º Às pessoas que, devidamente notificadas, não comparecerem a qualquer diligência relativa a processo crime será aplicável, com a devida adaptação, o disposto no artigo 91.º do Código de Processo Penal, salvo tratando-se de notificação para pagamento de multa por contravenção, em que unicamente se remeterá o processo à entidade competente para os ulteriores termos.
+
+> Aditado pelo/a [Decreto n.º 442/73](https://diariodarepublica.pt/dr/detalhe/decreto/442-1973-413866), publicado em 1973-09-04.
 
 Art. 121.º Haverá em todos os concelhos ou circunscrições postos policiais, aquartelados na sede respectiva.
 

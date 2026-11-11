@@ -29,10 +29,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-08-21'
+version_history:
+  file: despacho-normativo-22-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-09-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-08-21'
+    amending: pt:dre:56305486:por
+    amending_title: Despacho Normativo n.º 11/2014
+    changes:
+    - Altera Artigo unidades 4-5
+    - Altera Artigo unidades 11-11
+    - Altera Artigo unidades 16-16
+    - Altera Artigo unidades 18-20
+    - Altera Artigo unidades 22-22
+    - Altera Artigo unidades 24-24
 identifiers:
   celex: null
   eli: null
@@ -58,7 +77,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:07:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 11/2014. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2010/despacho-normativo-22-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,9 +136,15 @@ Nos termos do disposto no n.º 5 do artigo 23.º do [Decreto-Lei n.º 202/2004](
 
 1 - Os valores das taxas a pagar pela concessão de autorizações especiais de caça referidos no presente despacho são referentes à zona de caça nacional da Lombada (n.º 357-AFN).
 
-2 - Os valores devidos pela concessão de autorização especial de caça a que se refere o n.º 5 do artigo 23.º, do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, e com a alteração do [Decreto-Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2009-396926), de 9 de Janeiro, são as seguintes:
+2 - Os valores devidos pela concessão de autorização especial de caça a que se refere o n.º 6 do artigo 23.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de agosto, alterado pelos Decretos-Leis n.os [201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de novembro, [159/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2008-455127), de 8 de agosto, [214/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), de 10 de novembro, [9/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2009-396926), de 9 de janeiro, e [2/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2011-485605), de 6 de janeiro, são os seguintes:
 
-a) Veado de aproximação (troféu) - (euro) 1 000.
+a) Veado:
+
+i) de aproximação (troféu): (euro) 500;
+
+ii) de aproximação (seletiva): (euro) 250.
+
+> Alterado pelo/a [Despacho Normativo n.º 11/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2014-56305486), publicado em 2014-08-20.
 
 b) Javali de montaria:
 
@@ -130,7 +156,11 @@ iii) Tipo C: (euro) 40;
 
 iv) Tipo D: (euro) 50.
 
-c) Coelho-bravo, lebre, raposa, perdiz vermelha, codorniz e pombo-torcaz, de salto:
+c) Javali de espera: (euro) 150.
+
+d) Coelho-bravo, lebre, raposa, perdiz vermelha, codorniz, pombo-torcaz, rola-comum e tordos, de salto:
+
+> Alterado pelo/a [Despacho Normativo n.º 11/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2014-56305486), publicado em 2014-08-20.
 
 i) Tipo A: (euro) 1;
 
@@ -140,23 +170,31 @@ iii) Tipo C: (euro)20;
 
 iv) Tipo D: (euro) 25.
 
-d) Raposa, de batida:
+e) Raposa, de batida:
+
+> Alterado pelo/a [Despacho Normativo n.º 11/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2014-56305486), publicado em 2014-08-20.
 
 i) Tipo A: (euro) 1;
 
-ii) Tipo B: (euro) 2;
+ii) Tipo B: (euro) 15
 
-iii) Tipo C: (euro) 5;
+iii) Tipo C: (euro) 20;
 
-iv) Tipo D: (euro) 5.
+iv) Tipo D: (euro) 25.
+
+> Alterado pelo/a [Despacho Normativo n.º 11/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2014-56305486), publicado em 2014-08-20.
 
 3 - Para efeitos do n.º 6 do n.º 3.º da [Portaria n.º 1119/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1119-2001-611687), de 21 de Setembro, deverá ser efectuado o pagamento de 50 % do valor das taxas fixadas, até ao 10.º dia útil antes da realização da caçada, sendo o remanescente liquidado no próprio dia.
 
-4 - Os valores a que se refere o n.º 9 do n.º 6.º da [Portaria n.º 1119/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1119-2001-611687), de 21 de Setembro, para as situações relativas à alínea a) do n.º 2 do presente despacho, são os seguintes:
+4 - Os valores a que se refere o n.º 9 do n.º 6.º da [Portaria n.º 1119/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1119-2001-611687), de 21 de setembro, para as situações relativas à alínea a) do n.º 2 do presente despacho, são os seguintes:
+
+> Alterado pelo/a [Despacho Normativo n.º 11/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2014-56305486), publicado em 2014-08-20.
 
 a) Por cada tiro falhado: (euro) 80;
 
-b) Por cada exemplar ferido e não cobrado: (euro) 940;
+b) Por cada exemplar ferido e não cobrado: (euro) 450;
+
+> Alterado pelo/a [Despacho Normativo n.º 11/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2014-56305486), publicado em 2014-08-20.
 
 c) Exemplar abatido que não o indicado pelo guia: valor a atribuir de acordo com a pontuação do troféu mas nunca inferior a (euro) 940;
 

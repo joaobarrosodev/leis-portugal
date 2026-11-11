@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 119-119",
+    "operacao": "remover",
+    "regra": "llm",
+    "antes": "§ 3.º A Missão de Combate às Tripanossomíases de Moçambique dependerá transitòriamente dos serviços provinciais de veterinária nos termos previstos em diploma especial.",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:199975:por",
+    "alterador": "pt:dre:413202:por"
+  }
+]

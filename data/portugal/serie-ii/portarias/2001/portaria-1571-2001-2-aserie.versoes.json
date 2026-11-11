@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:2800997:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-09-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6de728811c2cb28b"
+   ]
+  },
+  {
+   "date": "2009-10-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:2325584:por",
+     "title": "Portaria n.º 1038/2009",
+     "published": "2009-10-22",
+     "dre_path": "/dr/detalhe/portaria/1038-2009-2325584"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-9",
+    "Altera Artigo unidades 11-12",
+    "Altera Artigo unidades 14-14",
+    "Altera Artigo unidades 16-16",
+    "Altera Artigo unidades 17-19"
+   ],
+   "fragments": [
+    "d103deda7f3fc919"
+   ]
+  }
+ ],
+ "fragments": {
+  "6de728811c2cb28b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1571/2001 (2.ª série). - Pelo [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição política cinegética do concelho.\n\nDetermina o n.º 3 do artigo 154.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal de Vila Real de Santo António é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nCarlos Gomes Viegas;\n\nVítor Manuel da Conceição Rodrigues;\n\nRepresentantes dos agricultores:\n\nJosé António Domingos;\n\nManuel Rodrigues Vaz;\n\nRepresentante das associações de defesa do ambiente:\n\nAna Lídia Freitas Monteiro do Valle Fernandes;\n\nAutarca de freguesia:\n\nJosé Manuel Madeira Neto;\n\nRepresentante da Direcção Regional de Agricultura do Algarve:\n\nJosé António Oliveira Filipe;\n\nRepresentante do Instituto da Conservação da Natureza:\n\nNuno José Silva Grade.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n10 de Setembro de 2001. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural."
+  },
+  "d103deda7f3fc919": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1038/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2009-2325584), publicado em 2009-10-22.",
+    "Alterado pelo/a [Portaria n.º 1038/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2009-2325584), publicado em 2009-10-22.",
+    "Alterado pelo/a [Portaria n.º 1038/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2009-2325584), publicado em 2009-10-22.",
+    "Alterado pelo/a [Portaria n.º 1038/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2009-2325584), publicado em 2009-10-22.",
+    "Alterado pelo/a [Portaria n.º 1038/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2009-2325584), publicado em 2009-10-22."
+   ],
+   "markdown": "Portaria n.º 1571/2001 (2.ª série). - Pelo [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, confere-se aos conselhos cinegéticos e da conservação da fauna municipais um importante papel no âmbito da definição política cinegética do concelho.\n\nDetermina o n.º 3 do artigo 154.º daquele diploma que, por portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, seja fixada a composição de cada conselho.\n\nCom fundamento no disposto no artigo 154.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O Conselho Cinegético Municipal de Vila Real de Santo António é constituído pelos seguintes vogais:\n\nRepresentantes dos caçadores:\n\nCarlos Gomes Viegas.\n\nVítor Manuel da Conceição Rodrigues.\n\n> Alterado pelo/a [Portaria n.º 1038/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2009-2325584), publicado em 2009-10-22.\n\nRepresentantes dos agricultores:\n\nJosé António Domingos.\n\nManuel Rodrigues Vaz.\n\n> Alterado pelo/a [Portaria n.º 1038/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2009-2325584), publicado em 2009-10-22.\n\nRepresentante das associações de defesa do ambiente:\n\nAna Lídia Freitas Monteiro do Valle Fernandes.\n\n> Alterado pelo/a [Portaria n.º 1038/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2009-2325584), publicado em 2009-10-22.\n\nAutarca de freguesia:\n\nJosé Manuel Madeira Neto.\n\n> Alterado pelo/a [Portaria n.º 1038/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2009-2325584), publicado em 2009-10-22.\n\nRepresentante da Autoridade Florestal Nacional:\n\nAníbal António Vidigal Vinhas.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade:\n\n> Alterado pelo/a [Portaria n.º 1038/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2009-2325584), publicado em 2009-10-22.\n\nNuno José Silva Grade.\n\n2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.\n\n10 de Setembro de 2001. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural."
+  }
+ }
+}

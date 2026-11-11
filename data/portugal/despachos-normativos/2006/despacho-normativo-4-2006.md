@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-11-13'
+version_history:
+  file: despacho-normativo-4-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-01-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-11-13'
+    amending: pt:dre:3426349:por
+    amending_title: Despacho Normativo n.º 15/2006
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/4/2006/01/27/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:43:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 15/2006. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2006/despacho-normativo-4-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,7 +163,9 @@ Ao abrigo do disposto no artigo 9.º da [Lei n.º 46/86](https://diariodarepubli
 
 2 - A aprovação e a classificação nas disciplinas referidas no número anterior efectuam-se de acordo com as disposições constantes dos n.os 39 e 40 do regime de avaliação dos alunos do ensino secundário anexo ao [Despacho Normativo n.º 338/93](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/338-1993-668953), de 21 de Outubro, com as alterações introduzidas pelos Despachos Normativos n.os [45/96](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/45-1996-179543), de 31 de Outubro, e [11/2003](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2003-220344), de 3 de Março.
 
-3 - A aprovação e a classificação final de disciplinas dos cursos referidos no n.º 1 podem ainda obter-se por recurso à realização exclusiva de provas de exame nacional, sempre que o mesmo exista, ou pela realização de exames de equivalência à frequência, nos restantes casos.
+3 - (Revogado.)
+
+> Alterado pelo/a [Despacho Normativo n.º 15/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-2006-3426349), publicado em 2006-11-13.
 
 4 - A certificação dos cursos do ensino secundário não dispensa o aluno, para efeitos de candidatura ao ensino superior, do cumprimento dos restantes requisitos a que estiver sujeito.
 

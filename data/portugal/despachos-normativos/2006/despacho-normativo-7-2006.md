@@ -40,10 +40,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-08-22'
+version_history:
+  file: despacho-normativo-7-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-02-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-08-22'
+    amending: pt:dre:829810:por
+    amending_title: Despacho Normativo n.º 12/2011
+    changes:
+    - Altera Artigo unidades 26-29
+    - Altera Artigo unidades 32-34
+    - Altera Artigo unidades 37-38
+    - Adita Artigo depois da unidade 47
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/7/2006/02/06/p/dre/pt/html
@@ -69,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:43:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 12/2011. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2006/despacho-normativo-7-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -168,31 +186,35 @@ Funcionamento
 
 2 - A planificação do trabalho para cada grupo de nível de proficiência linguística é efectuada tendo em conta as características individuais dos alunos e do grupo que integram, bem como as orientações nacionais para o ensino da língua portuguesa como língua não materna.
 
-3 - O professor titular da turma do 1.º ciclo e os professores de cada conselho de turma devem contribuir para a construção de materiais didácticos e para a construção de glossários temáticos para as áreas curriculares.
+3 - Os grupos a que se refere o número anterior são organizados por níveis de proficiência linguística e não por ciclo ou nível de ensino, devendo os materiais didácticos a utilizar ser adequados à faixa etária dos alunos.
 
-4 - As actividades a desenvolver no âmbito do presente despacho normativo atendem às necessidades do aluno ou do grupo de alunos e são de frequência obrigatória.
+4 - Cada grupo de nível de proficiência linguística deve ser constituído, no mínimo, por 10 alunos, podendo, no entanto, caso tal não seja possível, serem agrupados aqueles níveis (iniciação e intermédio), de modo a respeitar esse mínimo.
 
-5 - As actividades a que se refere o número anterior não dispensam a frequência pelos alunos da área curricular disciplinar de Língua Portuguesa.
+5 - O professor titular da turma do 1.º ciclo e os professores de cada conselho de turma devem contribuir para a construção de materiais didácticos e para a construção de glossários temáticos para as áreas curriculares.
 
-6 - No decurso do ano lectivo o aluno, de acordo com o seu progresso, pode transitar de grupo de nível de proficiência linguística.
+6 - As actividades a desenvolver no âmbito do presente despacho normativo atendem às necessidades do aluno ou do grupo de alunos e são de frequência obrigatória.
+
+7 - No decurso do ano lectivo o aluno, de acordo com o seu progresso, pode transitar de grupo de nível de proficiência linguística.
+
+> Alterado pelo/a [Despacho Normativo n.º 12/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2011-829810), publicado em 2011-08-22.
 
 4.º
 
 Nível de iniciação (A1, A2) e nível intermédio (B1)
 
-1 - Os alunos que, em função dos resultados obtidos no teste diagnóstico, foram inseridos no nível de iniciação ou no nível intermédio beneficiam de actividades em língua portuguesa como língua não materna, cuja carga horária semanal corresponde a um período de noventa minutos, no âmbito da área curricular não disciplinar de Estudo Acompanhado.
+1 - Os alunos que se encontram no nível de iniciação ou no nível intermédio devem frequentar o PLNM, equivalente à disciplina de Língua Portuguesa, com a mesma carga horária desta disciplina.
 
-2 - A direcção executiva de cada escola ou agrupamento de escolas pode, ainda, se considerar necessário, dispor da oferta de escola para as actividades a desenvolver em língua portuguesa como língua não materna.
+2 - Deve ser reservado um período de 45 minutos da carga horária semanal atribuída ao PLNM para trabalhar a língua portuguesa enquanto língua veicular das restantes disciplinas.
 
-3 - As actividades de apoio à língua portuguesa como língua não materna devem ser planeadas, realizadas e avaliadas, quando necessário, em articulação com outros técnicos de educação, envolvendo os pais ou encarregados de educação e os alunos.
+> Alterado pelo/a [Despacho Normativo n.º 12/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2011-829810), publicado em 2011-08-22.
 
 5.º
 
 Nível avançado (B2, C1)
 
-1 - Os alunos que, em função dos resultados obtidos no teste diagnóstico, foram inseridos no nível avançado, consideram-se aptos no domínio da língua portuguesa, o que lhes permite acompanhar o currículo nacional.
+Os alunos que se encontram no nível avançado devem frequentar a disciplina de Língua Portuguesa e não o PLNM.
 
-2 - A direcção executiva de cada escola ou agrupamento de escolas pode, ainda, se considerar necessário, desenvolver actividades de enriquecimento no âmbito da língua portuguesa como língua não materna.
+> Alterado pelo/a [Despacho Normativo n.º 12/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2011-829810), publicado em 2011-08-22.
 
 6.º
 
@@ -211,6 +233,10 @@ d) O portfolio constitui o instrumento fundamental de registo inicial, das vári
 2 - Os alunos que, de acordo com a avaliação interna, atingiram as competências necessárias para transitar de grupo de nível de proficiência linguística podem fazê-lo em qualquer altura do ano lectivo.
 
 3 - A certificação em língua portuguesa como língua estrangeira é obtida mediante a realização de um teste de língua portuguesa concebido pelo Centro de Avaliação de Português Língua Estrangeira, da Faculdade de Letras da Universidade de Lisboa.
+
+4 - Os alunos de PLNM que obtenham aprovação na disciplina no final do ano lectivo transitam obrigatoriamente para o nível seguinte de proficiência linguística.
+
+> Aditado pelo/a [Despacho Normativo n.º 12/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2011-829810), publicado em 2011-08-22.
 
 7.º
 

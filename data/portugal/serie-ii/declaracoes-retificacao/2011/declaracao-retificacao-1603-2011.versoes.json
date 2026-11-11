@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:3237423:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2011-10-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "19b75f29ea5c5cdb"
+   ]
+  },
+  {
+   "date": "2011-12-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:3477660:por",
+     "title": "Declaração de Rectificação n.º 1989/2011",
+     "published": "2011-12-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/1989-2011-3477660"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "aafd95ce3d48e496"
+   ]
+  }
+ ],
+ "fragments": {
+  "19b75f29ea5c5cdb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Declaração de rectificação n.º 1603/2011\n\nPor ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 181, de 20 de Setembro de 2011, o despacho n.º 12393/2011, rectifica-se que onde se lê:\n\n«2 - A funcionária é nomeada para o exercício do referido cargo por possuir reconhecida aptidão e experiência profissional adequada, conforme curriculum vitae em anexo.»\n\ndeve ler-se:\n\n«2 - O presente despacho produz efeitos a 1 de Julho de 2001.\n\n3 - A funcionária é nomeada para o exercício do referido cargo por possuir reconhecida aptidão e experiência profissional adequada, conforme curriculum vitae em anexo.»\n\n14 de Outubro de 2011. - O Director do Departamento Geral de Administração, José Augusto Duarte.\n\n205260386"
+  },
+  "aafd95ce3d48e496": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2011-12-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 1989/2011](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1989-2011-3477660), publicado em 2011-12-30."
+   ],
+   "markdown": "Declaração de rectificação n.º 1603/2011\n\nPor ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 181, de 20 de Setembro de 2011, o despacho n.º 12393/2011, rectifica-se que onde se lê:\n\n«2 - A funcionária é nomeada para o exercício do referido cargo por possuir reconhecida aptidão e experiência profissional adequada, conforme curriculum vitae em anexo.»\n\ndeve ler-se:\n\n«2 - O presente despacho produz efeitos a 1 de Julho de 2011.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1989/2011](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1989-2011-3477660), publicado em 2011-12-30.\n\n3 - A funcionária é nomeada para o exercício do referido cargo por possuir reconhecida aptidão e experiência profissional adequada, conforme curriculum vitae em anexo.»\n\n14 de Outubro de 2011. - O Director do Departamento Geral de Administração, José Augusto Duarte.\n\n205260386"
+  }
+ }
+}

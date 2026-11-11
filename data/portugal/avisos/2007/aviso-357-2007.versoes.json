@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:520816:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-05-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f2c4e372e0104c87"
+   ]
+  },
+  {
+   "date": "2007-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:635831:por",
+     "title": "Aviso n.º 367/2007",
+     "published": "2007-06-28",
+     "dre_path": "/dr/detalhe/aviso/367-2007-635831"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 2-2"
+   ],
+   "fragments": [
+    "78452f6971380f38"
+   ]
+  }
+ ],
+ "fragments": {
+  "f2c4e372e0104c87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se torna público que, por notificação de 11 de Setembro de 2006, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Geórgia, em 21 de Agosto de 2006, aderido à Convenção Relativa à Supressão da Exigência da Legalidade dos Actos Públicos Estrangeiros, adoptada na Haia em 5 de Outubro de 1961.\n\nDe acordo com o artigo 12.º, n.º 3, a Convenção entrará em vigor para a Geórgia em 14 de Maio de 2007.\n\nDe acordo com o artigo 12.º, n.º 2, a Convenção produzirá efeitos apenas relativamente às relações entre a Geórgia e os Estados Contratantes que não levantem objecções à adesão nos seis meses posteriores à recepção da presente notificação.\n\nPor razões de ordem prática, o período de seis meses irá neste caso decorrer de 15 de Setembro de 2006 a 15 de Março de 2007.\n\nTendo feito a seguinte declaração:\n\n«Geórgia, 21 de Agosto de 2006:\n\nA presente Convenção não se aplica aos documentos emitidos pelas autoridades ou agentes, de facto, ilegítimos das regiões da Geórgia: a República Autónomoa da Abkhazia e a antiga Região Autónoma da Ossétia do Sul.»\n\nTendo designado as seguintes autoridades:\n\nDe acordo com o artigo 6.º da Convenção acima mencionada, a Geórgia designou:\n\nMinistério da Justiça da Geórgia, Ministério da Educação e Ciência da Geórgia, Supremo Tribunal da Geórgia, Ministério do Trabalho, Saúde e Protecção Social da Geórgia, para emitirem os certificados referidos no n.º 1 do artigo 3.º da referida Convenção.\n\nA República Portuguesa é Parte na mesma Convenção, a qual foi aprovada, para ratificação, pelo [Decreto-Lei n.º 48450](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48450-1968-272047), publicado no Diário do Governo, 1.ª série, n.º 148, de 24 de Junho de 1968, e ratificada em 6 de Dezembro de 1968, conforme o Aviso publicado no Diário do Governo, 1.ª série, n.º 50, de 28 de Fevereiro de 1969.\n\nA Convenção entrou em vigor para a República Portuguesa em 4 de Fevereiro de 1969, de acordo com o publicado no Diário do Governo, 1.ª série, n.º 50, de 28 de Fevereiro de 1969.\n\nAs entidades competentes para emitir a apostilha prevista no artigo 3.º da Convenção são a Procuradoria-Geral da República e os procuradores da República junto das Relações, conforme o Aviso publicado no Diário do Governo, 1.ª série, n.º 78, de 2 de Abril de 1969.\n\nDepartamento de Assuntos Jurídicos, 2 de Abril de 2007. - O Director, Luís Serradas Tavares."
+  },
+  "78452f6971380f38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2007-06-28",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 367/2007](https://diariodarepublica.pt/dr/detalhe/aviso/367-2007-635831), publicado em 2007-06-28."
+   ],
+   "markdown": "Por ordem superior se torna público que, por notificação de 11 de Setembro de 2006, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Geórgia, em 21 de Agosto de 2006, aderido à Convenção Relativa à Supressão da Exigência da Legalização dos Actos Públicos Estrangeiros, adoptada na Haia em 5 de Outubro de 1961.\n\n> Alterado pelo/a [Aviso n.º 367/2007](https://diariodarepublica.pt/dr/detalhe/aviso/367-2007-635831), publicado em 2007-06-28.\n\nDe acordo com o artigo 12.º, n.º 3, a Convenção entrará em vigor para a Geórgia em 14 de Maio de 2007.\n\nDe acordo com o artigo 12.º, n.º 2, a Convenção produzirá efeitos apenas relativamente às relações entre a Geórgia e os Estados Contratantes que não levantem objecções à adesão nos seis meses posteriores à recepção da presente notificação.\n\nPor razões de ordem prática, o período de seis meses irá neste caso decorrer de 15 de Setembro de 2006 a 15 de Março de 2007.\n\nTendo feito a seguinte declaração:\n\n«Geórgia, 21 de Agosto de 2006:\n\nA presente Convenção não se aplica aos documentos emitidos pelas autoridades ou agentes, de facto, ilegítimos das regiões da Geórgia: a República Autónomoa da Abkhazia e a antiga Região Autónoma da Ossétia do Sul.»\n\nTendo designado as seguintes autoridades:\n\nDe acordo com o artigo 6.º da Convenção acima mencionada, a Geórgia designou:\n\nMinistério da Justiça da Geórgia, Ministério da Educação e Ciência da Geórgia, Supremo Tribunal da Geórgia, Ministério do Trabalho, Saúde e Protecção Social da Geórgia, para emitirem os certificados referidos no n.º 1 do artigo 3.º da referida Convenção.\n\nA República Portuguesa é Parte na mesma Convenção, a qual foi aprovada, para ratificação, pelo [Decreto-Lei n.º 48450](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48450-1968-272047), publicado no Diário do Governo, 1.ª série, n.º 148, de 24 de Junho de 1968, e ratificada em 6 de Dezembro de 1968, conforme o Aviso publicado no Diário do Governo, 1.ª série, n.º 50, de 28 de Fevereiro de 1969.\n\nA Convenção entrou em vigor para a República Portuguesa em 4 de Fevereiro de 1969, de acordo com o publicado no Diário do Governo, 1.ª série, n.º 50, de 28 de Fevereiro de 1969.\n\nAs entidades competentes para emitir a apostilha prevista no artigo 3.º da Convenção são a Procuradoria-Geral da República e os procuradores da República junto das Relações, conforme o Aviso publicado no Diário do Governo, 1.ª série, n.º 78, de 2 de Abril de 1969.\n\nDepartamento de Assuntos Jurídicos, 2 de Abril de 2007. - O Director, Luís Serradas Tavares."
+  }
+ }
+}

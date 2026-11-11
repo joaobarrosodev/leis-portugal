@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - O quadro de pessoal da Secretaria-Geral, aprovado pelo [Decreto Regulamentar n.º 86/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/86-1977-279626), de 16 de Dezembro, conjugado com o quadro constante da [Portaria n.º 382/79](https://diariodarepublica.pt/dr/detalhe/portaria/382-1979-381529), de 31 de Julho, é substituído pelo quadro anexo I à presente portaria.",
+    "depois": "1 - Os quadros II e III anexos ao [Decreto Regulamentar n.º 86/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/86-1977-279626), de 16 de Dezembro, bem como o quadro constante da [Portaria n.º 382/79](https://diariodarepublica.pt/dr/detalhe/portaria/382-1979-381529), de 31 de Julho, são substituídos pelo quadro anexo I à presente portaria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:474529:por",
+    "alterador": "pt:dre:458213:por"
+  }
+]

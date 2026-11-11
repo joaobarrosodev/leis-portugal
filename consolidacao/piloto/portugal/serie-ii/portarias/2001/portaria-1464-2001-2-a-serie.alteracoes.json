@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 15-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Representante da Direcção Regional de Agricultura do Alentejo - António Plácido F. Costa Santos;\n\nRepresentante do Instituto da Conservação da Natureza - Rui Fernando Sameiro Santana Correia.",
+    "depois": "Representante da Autoridade Florestal Nacional - Viriato Pascoal Lopes Alves;\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade - João Mário Madeira Pargana.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3225033:por",
+    "alterador": "pt:dre:3227993:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 19-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Curso profissional de técnico de recuperação do património",
+    "depois": "## ANEXO — Curso profissional de técnico de recuperação do património edificado",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:544851:por",
+    "alterador": "pt:dre:629142:por"
+  }
+]

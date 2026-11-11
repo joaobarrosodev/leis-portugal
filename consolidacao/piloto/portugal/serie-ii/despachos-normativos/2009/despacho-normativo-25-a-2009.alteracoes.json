@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 39-39",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "12 - As candidaturas devem ser apresentadas, desde a entrada em vigor do presente despacho até 31 de Julho de 2009, em impresso próprio, na direcção regional de agricultura e pescas (DRAP) onde se localiza a parcela candidata à atribuição dos direitos.",
+    "depois": "12 - As candidaturas devem ser apresentadas, desde a data de entrada em vigor do presente despacho normativo, até 31 de Agosto de 2009, em impresso próprio, na Direcção Regional de Agricultura e Pescas (DRAP) onde se localiza a parcela candidata à atribuição dos direitos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3239103:por",
+    "alterador": "pt:dre:2078926:por"
+  }
+]

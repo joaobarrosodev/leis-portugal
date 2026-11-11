@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:2772437:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2011-10-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cd88eb5ee362b928"
+   ]
+  },
+  {
+   "date": "2011-12-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:2285608:por",
+     "title": "Despacho n.º 17015/2011",
+     "published": "2011-12-20",
+     "dre_path": "/dr/detalhe/despacho/17015-2011-2285608"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-3"
+   ],
+   "fragments": [
+    "f5e9dbf647b79ef9"
+   ]
+  }
+ ],
+ "fragments": {
+  "cd88eb5ee362b928": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Atento o disposto no n.º 10 do artigo 3.º, nos n.os 2 e 4 do artigo 8.º e no artigo 18.º, todos da Lei Orgânica do XIX Governo Constitucional, aprovada pelo [Decreto-Lei n.º 86-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2011-622306), de 12 de Julho, conjugados com o [Decreto-Lei n.º 212/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2006-545638), de 27 de Outubro, de harmonia com o disposto nos artigos 35.º e 37.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, na redacção conferida pelos Decretos-Leis n.os [6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro, e [18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro, e pela [Lei n.º 30/2008](https://diariodarepublica.pt/dr/detalhe/lei/30-2008-456541), de 10 de Julho, e tendo ainda em conta o preceituado no artigo 109.º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro, com a redacção dada pelo [Decreto-Lei n.º 278/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2009-491176), de 2 de Outubro, determino o seguinte:\n\n1 - Delego no Secretário de Estado da Saúde, licenciado Manuel Ferreira Teixeira, as competências que me são legalmente atribuídas relativamente à Secretaria-Geral do Ministério da Saúde, no que se refere a:\n\na) Serviços jurídicos e de contencioso, abrangendo a competência para a decisão de requerimentos e recursos administrativos cuja apreciação se insira no âmbito das atribuições e competências do mesmo serviço, ainda que relativos a actos ou assuntos com origem em serviço ou organismo do Ministério da Saúde, ou em serviço ou estabelecimento do Serviço Nacional de Saúde (SNS), com excepção dos que incidam sobre actos praticados pelo próprio;\n\nb) Aprovação e gestão dos orçamentos de funcionamento dos serviços não integrados no Serviço Nacional de Saúde, cujo acompanhamento de execução incumba àquele serviço central.\n\n2 - Delego ainda, com faculdade de subdelegação, no Secretário de Estado Adjunto do Ministro da Saúde, licenciado Fernando Serra Leal da Costa, e no Secretário de Estado da Saúde, licenciado Manuel Ferreira Teixeira, as minhas competências para no âmbito da delegação de poderes especificamente realizada nos mesmos através do meu despacho n.º 9209/2011, publicado no Diário da República, 2.ª série, n.º 140, de 22 de Julho de 2011, e relativamente aos serviços e organismos aí enunciados:\n\na) Praticar todos os actos decisórios relacionados com a realização e autorização de despesas com empreitadas de obras públicas e com locação ou aquisição de bens móveis e aquisição de serviços que me são conferidos nos termos conjugados das disposições aplicáveis do [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro, que aprova o Código dos Contratos Públicos, e do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, até aos montantes referidos na alínea c) do n.º 1 e da alínea c) do n.º 3 do artigo 17.º, incluindo a competência a que se refere o n.º 1 do artigo 22.º, todos do referido [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, bem como a competência para a decisão de contratar e as demais competências atribuídas nos termos do disposto nos n.os 1 e 3 do artigo 109.º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro;\n\nb) Autorizar, nos termos do disposto no n.º 1 do artigo 19.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, as despesas com seguros;\n\nc) Autorizar, nos termos do n.º 1 do artigo 20.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, as despesas com contratos de arrendamento de bens imóveis para instalação de serviços e organismos.\n\n3 - O presente despacho produz efeitos desde 28 de Junho de 2011, ficando deste modo ratificados todos os actos que desde essa data e no âmbito dos poderes ora delegados tenham sido praticados pelo Secretário de Estado Adjunto do Ministro da Saúde e pelo Secretário de Estado da Saúde.\n\n4 - É revogado o n.º 3.9 do meu despacho n.º 9209/2011, publicado no Diário da República, 2.ª série, n.º 140, de 22 de Julho de 2011, rectificado de acordo com a declaração de rectificação n.º 1326/2011, publicada no Diário da República, 2.ª série, n.º 163, de 25 de Agosto de 2011.\n\n11 de Outubro de 2011. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo.\n\n205231517"
+  },
+  "f5e9dbf647b79ef9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2011-12-20",
+   "changed_by": [
+    "Alterado pelo/a [Despacho n.º 17015/2011](https://diariodarepublica.pt/dr/detalhe/despacho/17015-2011-2285608), publicado em 2011-12-20."
+   ],
+   "markdown": "Atento o disposto no n.º 10 do artigo 3.º, nos n.os 2 e 4 do artigo 8.º e no artigo 18.º, todos da Lei Orgânica do XIX Governo Constitucional, aprovada pelo [Decreto-Lei n.º 86-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2011-622306), de 12 de Julho, conjugados com o [Decreto-Lei n.º 212/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2006-545638), de 27 de Outubro, de harmonia com o disposto nos artigos 35.º e 37.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, na redacção conferida pelos Decretos-Leis n.os [6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro, e [18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro, e pela [Lei n.º 30/2008](https://diariodarepublica.pt/dr/detalhe/lei/30-2008-456541), de 10 de Julho, e tendo ainda em conta o preceituado no artigo 109.º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro, com a redacção dada pelo [Decreto-Lei n.º 278/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2009-491176), de 2 de Outubro, determino o seguinte:\n\n1 - Delego no Secretário de Estado da Saúde, licenciado Manuel Ferreira Teixeira, com faculdade de subdelegação, as competências que me são legalmente atribuídas relativamente à Secretaria-Geral do Ministério da Saúde, no que se refere a:\n\n> Alterado pelo/a [Despacho n.º 17015/2011](https://diariodarepublica.pt/dr/detalhe/despacho/17015-2011-2285608), publicado em 2011-12-20.\n\na) Serviços jurídicos e de contencioso, abrangendo a competência para a decisão de requerimentos e recursos administrativos cuja apreciação se insira no âmbito das atribuições e competências do mesmo serviço, ainda que relativos a actos ou assuntos com origem em serviço ou organismo do Ministério da Saúde, ou em serviço ou estabelecimento do Serviço Nacional de Saúde (SNS), com excepção dos que incidam sobre actos praticados pelo próprio;\n\nb) Aprovação e gestão dos orçamentos de funcionamento dos serviços não integrados no Serviço Nacional de Saúde, cujo acompanhamento de execução incumba àquele serviço central.\n\n2 - Delego ainda, com faculdade de subdelegação, no Secretário de Estado Adjunto do Ministro da Saúde, licenciado Fernando Serra Leal da Costa, e no Secretário de Estado da Saúde, licenciado Manuel Ferreira Teixeira, as minhas competências para no âmbito da delegação de poderes especificamente realizada nos mesmos através do meu despacho n.º 9209/2011, publicado no Diário da República, 2.ª série, n.º 140, de 22 de Julho de 2011, e relativamente aos serviços e organismos aí enunciados:\n\na) Praticar todos os actos decisórios relacionados com a realização e autorização de despesas com empreitadas de obras públicas e com locação ou aquisição de bens móveis e aquisição de serviços que me são conferidos nos termos conjugados das disposições aplicáveis do [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro, que aprova o Código dos Contratos Públicos, e do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, até aos montantes referidos na alínea c) do n.º 1 e da alínea c) do n.º 3 do artigo 17.º, incluindo a competência a que se refere o n.º 1 do artigo 22.º, todos do referido [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, bem como a competência para a decisão de contratar e as demais competências atribuídas nos termos do disposto nos n.os 1 e 3 do artigo 109.º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro;\n\nb) Autorizar, nos termos do disposto no n.º 1 do artigo 19.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, as despesas com seguros;\n\nc) Autorizar, nos termos do n.º 1 do artigo 20.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, as despesas com contratos de arrendamento de bens imóveis para instalação de serviços e organismos.\n\n3 - O presente despacho produz efeitos desde 28 de Junho de 2011, ficando deste modo ratificados todos os actos que desde essa data e no âmbito dos poderes ora delegados tenham sido praticados pelo Secretário de Estado Adjunto do Ministro da Saúde e pelo Secretário de Estado da Saúde.\n\n4 - É revogado o n.º 3.9 do meu despacho n.º 9209/2011, publicado no Diário da República, 2.ª série, n.º 140, de 22 de Julho de 2011, rectificado de acordo com a declaração de rectificação n.º 1326/2011, publicada no Diário da República, 2.ª série, n.º 163, de 25 de Agosto de 2011.\n\n11 de Outubro de 2011. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo.\n\n205231517"
+  }
+ }
+}

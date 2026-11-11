@@ -32,10 +32,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-02-28'
+version_history:
+  file: declaracao-retificacao-9-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-01-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-02-28'
+    amending: pt:dre:292497:por
+    amending_title: Declaração de Rectificação n.º 28-T/91
+    changes:
+    - Altera Artigo unidades 2-2
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declrectif/9/1991/01/31/p/dre/pt/html
@@ -61,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T18:32:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 28-T/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/declaracoes-retificacao/1991/declaracao-retificacao-9-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -109,7 +124,9 @@ validation:
 
 # Declaração de rectificação n.º 9/91
 
-Segundo comunicação do Ministério da Agricultura, Pescas e Alimentação, a [Portaria n.º 108/90](https://diariodarepublica.pt/dr/detalhe/portaria/108-1990-334639), publicada no Diário da República, 1.ª série, n.º 249, de 27 de Outubro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Segundo comunicação do Ministério da Agricultura, Pescas e Alimentação, a [Portaria n.º 1086/90](https://diariodarepublica.pt/dr/detalhe/portaria/1086-1990-565790), publicada no Diário da República, 1.ª série, n.º 249, de 27 de Outubro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+
+> Alterado pelo/a [Declaração de Rectificação n.º 28-T/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-t-1991-292497), publicado em 1991-02-28.
 
 No artigo 20.º, n.º 2, alínea a), onde se lê «Para o exame da alínea a), na EPP» deve ler-se «Para o exame da alínea a) do n.º 1, na EPP».
 
