@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:512622:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Rectificação 85/2004: rectifica o sumário («Vila Nova de Paiva» → «Castelo de Paiva»); o sumário não faz parte do texto por unidades e o texto já diz Castelo de Paiva.",
+  "instrucoes": [
+    "Rectificação 85/2004: correcção do sumário — texto inexistente no original por unidades; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:417638:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O 1.º da Portaria n.º 1080/93 (alteradores 1 e 2, o mesmo diploma repetido) dá nova redação ao anexo I, mas o anexo só vem em imagem no documento original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo I; só em imagem, não aplicado.",
+    "Alterador 1, 2.º: entrada em funcionamento da alteração, não altera o texto do original.",
+    "Alterador 2: repetição do alterador 1; nada a mais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:414670:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O 1.º da Portaria n.º 1155/2000 dá nova redação ao anexo (plano de estudos), mas o quadro só vem em imagem no documento original; os títulos textuais do anexo ficam iguais.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo; quadro só em imagem, não aplicado.",
+    "Alterador 1, 2.º: regra de aplicação no tempo, não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

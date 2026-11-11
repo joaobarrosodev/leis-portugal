@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 45-45",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Contabilidade e Finanças Públicas ... 5",
+    "depois": "Contabilidade e Finanças Públicas ... 6",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:541645:por",
+    "alterador": "pt:dre:519980:por"
+  },
+  {
+    "artigo": "unidades 160-160",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Radiologia ... 10",
+    "depois": "Radiologia ... 20",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:541645:por",
+    "alterador": "pt:dre:519980:por"
+  },
+  {
+    "artigo": "unidades 311-311",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Conservação e Restauro ... 8",
+    "depois": "Conservação e Restauro ... 2\n\nGestão do Território e do Património Cultural ... 6",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:541645:por",
+    "alterador": "pt:dre:519980:por"
+  },
+  {
+    "artigo": "depois da unidade 330",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "Escola Superior Agrária de Viseu\n\nEngenharia Agrária ... 10\n\nEngenharia Agrícola ...10\n\nEngenharia das Ciências Vitivinícolas ... 10\n\nEngenharia das Indústrias Agro-Alimentares ... 10\n\nEngenharia Zootécnica ... 10",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:541645:por",
+    "alterador": "pt:dre:519980:por"
+  },
+  {
+    "artigo": "depois da unidade 332",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "Escola Superior de Tecnologia e Gestão de Lamego\n\nEngenharia Informática e Telecomunicações ... 3\n\nGestão e Informática ... 3\n\nGestão Turística, Cultural e Patrimonial ... 3\n\nEscola Superior de Tecnologia de Viseu\n\nContabilidade e Administração ... 10\n\nEngenharia do Ambiente ... 15\n\nEngenharia Civil ... 10\n\nEngenharia Electrotécnica ... 15\n\nEngenharia Mecânica e Gestão Industrial ... 15\n\nEngenharia de Sistemas e Informática ... 15\n\nGestão Comercial e da Produção ... 2\n\nTurismo ... 5",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:541645:por",
+    "alterador": "pt:dre:519980:por"
+  }
+]

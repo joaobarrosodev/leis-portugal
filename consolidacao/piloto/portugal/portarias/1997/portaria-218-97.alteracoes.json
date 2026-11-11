@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6.º As empresas que, em 31 de Dezembro de 1996, detinham veículos licenciados com tonelagem superior a 90% da dotação de carga atribuída podem, através de requerimento fundamentado, pedir aumentos suplementares de dotação de carga que sejam necessários para o licenciamento de novos veículos.",
+    "depois": "6.º As empresas de transporte público rodoviário de mercadorias, já detentoras de dotação de carga, podem, através de requerimento devidamente fundamentado, pedir aumentos suplementares de dotações de carga, nos seguintes casos:\n\na) Quando sejam necessários para o licenciamento de novos veículos;\n\nb) Quando sejam necessários para o licenciamento, em âmbito nacional, de veículos já licenciados para o transporte internacional e que não se encontram plenamente utilizados.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:527420:por",
+    "alterador": "pt:dre:643712:por"
+  }
+]

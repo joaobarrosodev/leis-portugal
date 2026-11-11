@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:454303:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "6.º São revogados os n.os 2.º, 3.º e 4.º da [Portaria n.º 84/83](https://diariodarepublica.pt/dr/detalhe/portaria/84-1983-308512), de 27 de Janeiro.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 6.º (revogação parcial da Portaria n.º 84/83); unidade 15 substituída.",
+    "Alterador 1, n.º 2.º: efeitos retroativos; não é alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

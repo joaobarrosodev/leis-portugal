@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Um representante do Instituto de Hidráulica, Engenharia Rural e Ambiente;",
+    "depois": "c) Um representante do Instituto de Desenvolvimento Rural e Hidráulica;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:516018:por",
+    "alterador": "pt:dre:480304:por"
+  },
+  {
+    "artigo": "depois da unidade 24",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "l) Um representante do Instituto da Conservação da Natureza.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:516018:por",
+    "alterador": "pt:dre:480304:por"
+  }
+]

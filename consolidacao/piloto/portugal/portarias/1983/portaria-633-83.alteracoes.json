@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O disposto na presente portaria aplica-se aos alunos que, sem terem obtido aprovação em disciplinas de Grego ou Latim no ensino secundário, se matricularam e inscreveram na Faculdade de Letras da Universidade de Lisboa em qualquer das variantes do curso de licenciatura em Línguas e Literaturas Clássicas e nas variantes do curso de licenciatura em Línguas e Literaturas Modernas com disciplinas de Latim no plano de estudos.",
+    "depois": "O disposto na presente portaria aplica-se aos alunos que, sem terem obtido aprovação em disciplinas de Grego ou Latim no ensino secundário, se matricularem e inscreverem na Faculdade de Letras da Universidade de Lisboa em qualquer das variantes do curso de licenciatura em Línguas e Literaturas Clássicas e nas variantes do curso de licenciatura em Línguas e Literaturas Modernas com disciplinas de Latim no plano de estudos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:451667:por",
+    "alterador": "pt:dre:443746:por"
+  }
+]

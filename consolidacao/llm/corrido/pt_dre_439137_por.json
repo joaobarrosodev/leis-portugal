@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:439137:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Artigo único da Portaria n.º 488/2009: substitui a planta anexa, que só existe em imagem no documento original; não há texto a alterar.",
+  "instrucoes": [
+    "Alterador 1, artigo único: substituição da planta anexa (imagem) — não aplicada, registada em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:494192:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Pela presente portaria esta zona de caça bem como a transferência de gestão são renovadas, por um período de seis anos, englobando vários terrenos cinegéticos sitos na freguesia de São João de Negrilhos, município de Aljustrel, com a área de 727 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2 do artigo único: substitui a planta anexa, que só existe em imagem — não aplicado.",
+  "instrucoes": [
+    "Alterador 1, artigo único, n.º 1: nova redação do n.º 1.º (área 727 ha) — substituída a unidade 8.",
+    "Alterador 1, artigo único, n.º 2: substituição da planta anexa (imagem) — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:447735:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 3.º: o anexo (plano de estudos) passa a ter a redacção do anexo da Portaria n.º 884/2003, cujos quadros só vêm em imagem; não aplicado. Alterador 1, 1.º e 2.º: mudança da denominação do curso para Turismo e desdobramento em ramos, sem instrução de alteração textual do original; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º: denominação do curso passa a Turismo; não é alteração textual, não aplicada.",
+    "Alterador 1, 2.º: o curso desdobra-se em ramos; disposição autónoma, não aplicada.",
+    "Alterador 1, 3.º: substituição do anexo por quadros em imagem; não aplicada.",
+    "Alterador 1, 4.º a 8.º: disposições autónomas da portaria alteradora; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

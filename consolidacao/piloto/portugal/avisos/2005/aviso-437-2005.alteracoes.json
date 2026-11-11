@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Portugal é Parte do mesmo Acordo, aprovado pelo [Decreto-Lei n.º 41735](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41735-1958-352675), publicado no Diário do Governo, 1.ª série, n.º 153, de 16 de Julho de 1958, tendo depositado o seu instrumento de ratificação em 2 de Abril de 1959, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 88, de 18 de Abril de 1959.",
+    "depois": "Portugal é Parte do mesmo Acordo, aprovado pelo [Decreto-Lei n.º 41735](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41735-1958-352675), publicado no Diário do Governo, 1.ª série, n.º 153, de 16 de Julho de 1958, tendo sido ratificado em 2 de Abril de 1959, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 88, de 18 de Abril de 1959.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:488352:por",
+    "alterador": "pt:dre:683854:por"
+  }
+]

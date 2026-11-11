@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:491701:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 16,
+      "texto": "4.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, na sua actual redacção, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 50 % relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;\n\nb) 20 % relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;\n\nc) 20 % relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;\n\nd) 10 % aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do n.º 4.º (corpo e alíneas a) a d)) — substituídas as unidades 12 a 16."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

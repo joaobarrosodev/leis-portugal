@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:532047:por",
+  "substituicoes": [
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "QUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: o anexo I passa a ter a redacção do anexo do alterador — substituída a unidade 25 pelos quadros n.os 1 a 4 (remissões para o documento); 22-24 (cabeçalho, curso, grau) mantêm-se.",
+    "Alterador 1, n.os 2.º a 4.º (número máximo de alunos, transição, aplicação) são normas próprias do alterador e não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

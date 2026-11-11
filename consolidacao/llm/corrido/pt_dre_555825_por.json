@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:555825:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1): altera os quantitativos da tabela anexa (praças de 3.ª em Angola), mas a tabela só existe em imagem no original (unidade 5); não há texto a alterar.",
+  "instrucoes": [
+    "Alterador 1, 1): novos quantitativos diários na tabela anexa para praças de 3.ª em Angola - não aplicado, tabela só em imagem",
+    "Alterador 1, 2): data de início do abono - não altera o texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

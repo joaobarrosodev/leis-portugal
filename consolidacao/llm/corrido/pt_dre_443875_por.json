@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:443875:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 3.º: revoga o anexo C da declaração modelo n.º 3 aprovado pela portaria; o anexo só existe em imagem (unidade 33) e a instrução não revoga a alínea c) do n.º 1.º como texto, pelo que não se aplica.",
+  "instrucoes": [
+    "Alterador 1, 1.º, 2.º e 4.º: aprova novos modelos de anexos C e I e mantém o anexo I da Portaria n.º 10/2007; não alteram o texto do original.",
+    "Alterador 1, 3.º: revogação do anexo C (impresso em imagem); não aplicada, ver nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que pela presente portaria a zona de caça turística do Azinhal, processo n.º 700-DGRF, situada na freguesia de Azinheira de Barros, município de Grândola, seja transferida para Pedro Sacadura Teixeira Cabral Duarte da Silva, com o número de identificação fiscal 182972330 e sede na Avenida do Infante Santo, 66-A, 5.º, direito, 1350-180 Lisboa.",
+    "depois": "Pela presente portaria, a zona de caça turística do Azinhal (processo n.º 700-AFN), situada na freguesia de Azinheira de Barros, município de Grândola, é transferida para Pedro Sacadura Teixeira Cabral Duarte da Silveira, com o número de identificação fiscal 182972330 e sede na Avenida do Infante Santo, 66-A, 5.º, direito, 1350-180 Lisboa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:454351:por",
+    "alterador": "pt:dre:492772:por"
+  }
+]

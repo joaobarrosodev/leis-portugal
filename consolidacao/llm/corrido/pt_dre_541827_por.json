@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:541827:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 355/2006), n.º 1.º: substitui e republica o anexo II, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição do anexo II (quadro em imagem) - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

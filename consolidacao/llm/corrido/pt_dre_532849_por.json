@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:532849:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 972/99: altera só o quadro n.º 3 do anexo, que no original está numa única imagem com os quadros n.os 1 a 4 e no alterador também só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redacção do quadro n.º 3 do anexo — quadro só em imagem, não aplicada.",
+    "Alterador 1, n.º 2.º (aplicação) não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

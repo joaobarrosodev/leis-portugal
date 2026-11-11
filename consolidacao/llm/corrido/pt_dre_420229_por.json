@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:420229:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o mapa anexo (anexo I) da Portaria n.º 600/87 é substituído pelo mapa anexo I da Portaria n.º 252/89, que só vem em imagem (ver documento original); não se pode aplicar textualmente.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui o mapa anexo à Portaria n.º 600/87 pelo mapa anexo I; o novo mapa só existe em imagem, não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º: substitui anexos da Portaria n.º 63-C/86, outro diploma; ignorado.",
+    "Alterador 1, 3.º: produção de efeitos, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

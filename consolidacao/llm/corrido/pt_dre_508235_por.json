@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:508235:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 193-A/97 art. 13.º, n.º 1: revoga as disposições do DL 56/91 em tudo o que contrariem o novo diploma — revogação condicional, não aplicada ao texto.",
+    "DL 193-A/97 arts. 1.º a 12.º (reprivatização, redução de capital, transferência de trabalhadores, reversão de terrenos): não alteram textualmente o DL 56/91 nem os estatutos anexos; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

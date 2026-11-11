@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:455173:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: substitui a planta anexa, que só existe em imagem (alteração não textual). Alterador 2, artigo 2.º: anexa terrenos à zona de caça (área total 561 ha) sem dar nova redação a qualquer ponto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição da planta anexa - não aplicada (imagem).",
+    "Alterador 1, 2.º a 5.º: dizem respeito a outra zona de caça - ignorados.",
+    "Alterador 2, artigo 2.º: anexação de 191 ha, sem redação nova para o texto - não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

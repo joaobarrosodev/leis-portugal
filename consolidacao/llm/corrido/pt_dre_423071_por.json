@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:423071:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 7.º: revoga a Portaria n.º 638/99 por inteiro (o n.º 5.º extingue o curso e o n.º 6.º mantém transitoriamente o plano de estudos para alunos que o iniciaram).",
+  "instrucoes": [
+    "Alterador 1, 5.º: extinção do curso de técnico de desenho animado — sem alteração textual.",
+    "Alterador 1, 7.º: revogação total do original — nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

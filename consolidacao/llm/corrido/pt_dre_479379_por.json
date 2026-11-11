@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:479379:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O 1.º do alterador 1 substitui o quadro de pessoal, que só existe em imagem (unidade 15 e anexo do alterador); os 2.º e 3.º do alterador são disposições próprias e não alteram textualmente o original.",
+  "instrucoes": [
+    "1.º do alterador 1 substitui o quadro de pessoal (imagem): não aplicado",
+    "2.º e 3.º do alterador 1 definem unidades orgânicas e conteúdos funcionais próprios, sem instrução de alteração do texto do original: nada feito"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

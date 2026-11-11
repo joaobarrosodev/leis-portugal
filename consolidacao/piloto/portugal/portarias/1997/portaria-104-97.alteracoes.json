@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 34-36",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Curso: Ciências Sociais\n\nGrau: licenciatura\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/038b00/07520753.pdf)",
+    "depois": "Curso de Ciências Sociais\n\nGrau: licenciatura\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/06/146b00/27312733.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:557406:por",
+    "alterador": "pt:dre:303227:por"
+  }
+]

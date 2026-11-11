@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:519235:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 982/2009), art. 1.º: o anexo (plano de estudos) passa a ter a redação do anexo da portaria, cujos quadros só vêm em imagem (ver documento original); não aplicável com segurança.",
+  "instrucoes": [
+    "Alterador 1: substituição do anexo (plano de estudos) — quadros só em imagem, não aplicada. Arts. 2.º e 3.º (transição e aplicação) não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

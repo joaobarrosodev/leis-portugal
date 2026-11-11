@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:438405:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada pelo período de seis anos, renovável automaticamente por um único e igual período, à Associação de Caçadores e Pescadores do Monte do Trigo, com o número de identificação fiscal 505698331 e sede na Rua de Évora, 38-A, 7220-231 Monte Trigo, a zona de caça associativa de Monte do Trigo (processo n.º 5053-AFN), englobando vários prédios rústicos, sitos na freguesia de Monte Trigo, município de Portel, com a área de 1480 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: no n.º 1.º, «é concessionada, pelo período de seis anos» passa a «é concessionada pelo período de seis anos, renovável automaticamente por um único e igual período» — substituída a unidade 6.",
+    "Alterador 1, n.os 2.º e 3.º: anexação de prédios e respetivos efeitos são disposições próprias do alterador, sem alteração textual do original — nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

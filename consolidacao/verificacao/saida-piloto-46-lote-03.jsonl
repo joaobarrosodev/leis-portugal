@@ -1,0 +1,34 @@
+{"id": "pt:dre:466843:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Rectificação: 53/83 -> 55/83 no n.º 1, aplicada com o texto original no lugar de [...]", "texto_esperado": ""}
+{"id": "pt:dre:466843:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:466846:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Isabel Maria -> Isabel Margarida, conforme a rectificação", "texto_esperado": ""}
+{"id": "pt:dre:466846:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Decreto Regulamentar 53/83 -> 55/83 no n.º 1, conforme a rectificação", "texto_esperado": ""}
+{"id": "pt:dre:466846:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:469250:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "2.º da Portaria 320/75 substitui o n.º 1.º; a redacção é copiada letra a letra (a instrução 1.º visa a Portaria 19777, não se aplica)", "texto_esperado": ""}
+{"id": "pt:dre:469250:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:471311:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "4.º da Portaria 770/88 revoga os n.os 5.º e 6.º; ficam '5.º - (Revogado.)' e '6.º - (Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:471311:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:472958:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Alínea a) do n.º 20.º substituída pela redacção do 1.º da Portaria 915/82, letra a letra", "texto_esperado": ""}
+{"id": "pt:dre:472958:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Aditamento do n.º 26.º-A conforme o 2.º da Portaria 915/82", "texto_esperado": ""}
+{"id": "pt:dre:472958:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:473141:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Eliminada a parte final da alínea e) do n.º 1; a redacção coincide com a do despacho que altera", "texto_esperado": ""}
+{"id": "pt:dre:473141:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:473289:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 3.º substituído pela redacção da Portaria 403/81 (verde-claro, Terá, superior esquerdo ao inferior direito)", "texto_esperado": ""}
+{"id": "pt:dre:473289:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:475972:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 14.º: a Portaria 179/99 alterou-o (1 e 2 novos), mas a Portaria 108/2000 (4.º) substituiu-o por inteiro: epígrafe 'Confirmação ou rectificação das declarações' e corpo único; o consolidado reflecte a redacção final", "texto_esperado": ""}
+{"id": "pt:dre:475972:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:475974:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Portaria 269/2006 substitui o corpo do n.º 9.º (epígrafe Regulamento mantida) pelo parágrafo único, letra a letra", "texto_esperado": ""}
+{"id": "pt:dre:475974:por", "instrucoes_em_falta": ["1.º da Portaria 592/2004: o anexo à Portaria 347/98 passa a ter a redacção do anexo da Portaria 592/2004 (ligação ao quadro 34393439.pdf); o anexo do consolidado não aparece alterado (a confirmar: o original aponta para 25802583.pdf)"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "Anexo aparentemente não actualizado com o anexo da Portaria 592/2004 (quadro 34393439.pdf); o resto sem alterações"}
+{"id": "pt:dre:477665:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Art. 1.º, alínea b) substituída conforme o art. 1.º do DL 259/85; a/n.º 1 e n.º 2 mantidos ('...')", "texto_esperado": ""}
+{"id": "pt:dre:477665:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Art. 2.º substituído pela redacção do DL 259/85 (n.os 1, 2 e 3), letra a letra", "texto_esperado": ""}
+{"id": "pt:dre:477665:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:477871:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "3.º da Portaria 161-A/97 revoga o anexo: fica '(Revogado.)'. Nota: os n.os 1.º e 2.º do alterador (novo modelo do cartão, exclusivo da INCM) não são redacções textuais; o anexo novo e os n.os 1.º/2.º do original não foram tocados, o que pode merecer revisão humana", "texto_esperado": ""}
+{"id": "pt:dre:477871:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:478652:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "2.º da Portaria 22557 rectifica 29.40.03 -> 28.40.03 no n.º 1.º", "texto_esperado": ""}
+{"id": "pt:dre:478652:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Aditamento dos n.os 4.º e 5.º conforme o 1.º da Portaria 22557, letra a letra", "texto_esperado": ""}
+{"id": "pt:dre:478652:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:479878:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "A RAR 26/99 redefine o objecto: ficam só os processos de privatização (redacção nova) e a OPA do BPA, que permanece igual", "texto_esperado": ""}
+{"id": "pt:dre:479878:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:480303:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Aditamento do n.º 1.º-A (epígrafe e corpo) conforme o 2.º da Portaria 1302/2003", "texto_esperado": ""}
+{"id": "pt:dre:480303:por", "instrucoes_em_falta": ["1.º da Portaria 1302/2003: o anexo da Portaria 1/2003 passa a ter a redacção do anexo da Portaria 1302/2003 (quadros 79117913.pdf); o anexo do consolidado não aparece alterado (o original aponta para 00030004.pdf; o cabeçalho 'Grau de bacharel'/'Grau de licenciado' também difere)"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "Anexo aparentemente não actualizado com o anexo da Portaria 1302/2003; o resto sem alterações"}
+{"id": "pt:dre:480973:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Rectificação 'registos por' -> 'registados por' na alínea b.1) do n.º 1 do anexo", "texto_esperado": ""}
+{"id": "pt:dre:480973:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}

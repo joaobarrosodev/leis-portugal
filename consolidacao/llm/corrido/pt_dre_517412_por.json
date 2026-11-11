@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:517412:por",
+  "substituicoes": [
+    {
+      "de": 135,
+      "ate": 136,
+      "texto": "Art. 43.º (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto 47558), art. 11.º: revoga o artigo 43.º do Decreto 46068 — unidades 135-136 substituídas por 'Art. 43.º (Revogado.)'. As restantes disposições alteram/revogam outros diplomas e foram ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 135-136: parágrafo que não está no alterador nem no original: Art. 43.º (Revogado.)"
+  ]
+}

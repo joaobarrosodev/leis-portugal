@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:420445:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o quadro anexo à Portaria n.º 523-A/79 é alterado pelo quadro anexo à Portaria n.º 31/84, que só vem em imagem (ver documento original); não se pode aplicar textualmente.",
+  "instrucoes": [
+    "Alterador 1, 1.º: altera o quadro anexo; o novo quadro só existe em imagem, não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º e 3.º: eficácia e encargos, sem alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

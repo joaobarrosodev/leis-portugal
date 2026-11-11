@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:452893:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 61/2008 retifica o sumário do decreto («nomeação ao cargo» por «nomeação para o cargo»), que não faz parte do texto das unidades; o corpo já diz «nomeação para o cargo».",
+  "instrucoes": [
+    "Alterador 1: retificação do sumário (ao cargo -> para o cargo); o sumário não está no texto e o corpo já está correto; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

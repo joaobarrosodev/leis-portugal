@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Pelo licenciamento de fornecedor - (euro) 100;",
+    "depois": "a) Licenciamento de fornecedor - (euro) 125;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:481478:por",
+    "alterador": "pt:dre:75341996:por;pt:dre:440515:por"
+  },
+  {
+    "artigo": "unidades 18-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Pelo exercício da actividade de fornecedor - (euro) 50/ano;\n\nc) Pelo pedido de inscrição de pomares de semente, clones, misturas clonais e progenitores familiares - (euro) 1000.\n\n2 - O valor das taxas devidas pela certificação de MFR é o seguinte:\n\na) Pela certificação de sementes e partes de plantas - (euro) 5 por certificado;\n\nb) Pela certificação da qualidade externa de plantas para arborização:\n\ni) Pela primeira visita para certificação - (euro) 130;\n\nii) Por cada visita suplementar - (euro) 180;\n\niii) Por cada 100 plantas certificadas ou fracção - (euro) 0,13.\n\n3 - Os fornecedores licenciados ao abrigo do artigo 50.º do Decreto-Lei n.º 205/2003, de 12 de Setembro, estão isentos do pagamento da taxa referida na alínea a) do n.º 1 deste número.\n\n4 - Os fornecedores que cumpram os requisitos previstos no n.º 3 do artigo 35.º do Decreto-Lei n.º 205/2003, de 12 de Setembro, estão apenas sujeitos ao pagamento de uma taxa única pela emissão do certificado de qualidade externa de plantas destinadas a arborização, no montante de (euro) 0,24 por cada 1000 plantas ou fracção.",
+    "depois": "b) Exercício anual da actividade de fornecedor - (euro) 65;\n\nc) Pedido de inscrição no Registo Nacional de Materiais de Base de Pomares de Semente, Clones, Mistura Coloniais e Progenitores Familiares - (euro) 1000;\n\nd) Certificação de MFR:\n\ni) Sementes e partes de plantas (por certificado) - (euro) 6;\n\ne) Certificação da qualidade externa de plantas para arborização:\n\ni) Primeira visita para certificação - (euro) 140;\n\nii) Cada visita suplementar - (euro) 190;\n\niii) Por cada 100 plantas certificadas ou fracção - (euro) 0,14.\n\n2 - Os fornecedores licenciados ao abrigo do artigo 50.º do [Decreto-Lei n.º 205/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), de 12 de Setembro, estão isentos do pagamento da taxa referida na alínea a) do n.º 1 deste número.\n\n3 - Os fornecedores que cumpram os requisitos previstos no n.º 3 do artigo 35.º do [Decreto-Lei n.º 205/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), de 12 de Setembro, estão apenas sujeitos ao pagamento de uma taxa única pela emissão do certificado de qualidade externa de plantas destinadas a arborização, no montante de (euro) 0,50 por cada 1000 plantas ou fracção.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:481478:por",
+    "alterador": "pt:dre:75341996:por;pt:dre:440515:por"
+  },
+  {
+    "artigo": "depois da unidade 27",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "4 - A taxa referida na alínea a) do n.º 1, já inclui o custo da inspeção inicial obrigatória decorrente da inscrição no registo oficial como operador económico.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:481478:por",
+    "alterador": "pt:dre:75341996:por;pt:dre:440515:por"
+  }
+]

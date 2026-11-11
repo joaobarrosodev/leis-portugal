@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:458389:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: revoga a nota (b) do quadro de pessoal anexo, que só existe em imagem (ver documento original); não há texto para alterar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: revogação da nota (b) do quadro anexo - não aplicada (quadro em imagem).",
+    "Alterador 1, 2.º: produção de efeitos do próprio alterador - ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

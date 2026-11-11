@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:542250:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1143/2000), n.º 1.º: nova redação do quadro n.º 2 do anexo, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do quadro n.º 2 do anexo (imagem) - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

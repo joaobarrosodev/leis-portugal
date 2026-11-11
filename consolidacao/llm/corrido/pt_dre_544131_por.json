@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:544131:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 1297/2003, 1.º: o anexo passa a ter nova redação, mas os quadros do novo anexo só vêm em imagem (ver quadro no documento original); não se aplica.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui o anexo (plano de estudos) - quadros só em imagem, não aplicado",
+    "Alterador 1, 2.º a 4.º: normas próprias, não alteram o texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

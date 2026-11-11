@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:433786:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 1464/2004 dá nova redação ao anexo do original (plano de estudos), mas os quadros do novo anexo só vêm em imagem; não se aplica com segurança.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui o anexo do original pelo anexo da portaria; quadros só em imagem, não aplicado (nao_aplicavel).",
+    "Alterador 1, n.os 2.º a 4.º: normas próprias (projeto, transição, aplicação); não se dirigem ao texto do original, ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

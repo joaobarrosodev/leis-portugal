@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:527211:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 905/2005, 6.º e 7.º: extingue o curso de Técnico Vitivinícola e revoga parcialmente a Portaria n.º 398/92 'nas partes que àqueles cursos respeitam', sem indicar que números ou alíneas são revogados (e o 8.º mantém os planos em vigor para os alunos que os iniciaram); revogação por âmbito, não textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, 6.º e 7.º: extinção do curso de Técnico Vitivinícola e revogação parcial por âmbito — sem alvo textual definido, não aplicada (nao_aplicavel).",
+    "Alterador 1, restantes números: criação de novo curso e normas próprias, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

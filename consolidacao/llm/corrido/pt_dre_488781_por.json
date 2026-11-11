@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:488781:por",
+  "substituicoes": [
+    {
+      "de": 24,
+      "ate": 25,
+      "texto": "1 - O número máximo de novos alunos a admitir anualmente não pode exceder 57.\n\n2 - A frequência global do curso não pode exceder 86 alunos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º da Portaria 277/2010 dá nova redação ao 5.º (números 1 e 2; epígrafe igual): substituídas as unidades 24-25.",
+    "Art. 2.º altera a Portaria 970/2009, não o original: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É aprovado o modelo, anexo a esta portaria, de cartões de identidade para uso pessoal dos funcionários integrados na carreira técnica superior de inspecção à educação.",
+    "depois": "1.º É aprovado o modelo, anexo a esta portaria, de cartões de identidade para uso pessoal dos funcionários integrados na carreira técnica superior de inspecção da Inspecção-Geral da Educação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:516926:por",
+    "alterador": "pt:dre:248873:por"
+  }
+]

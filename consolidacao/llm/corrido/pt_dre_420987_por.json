@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:420987:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, artigo 2.º: substitui os mapas III e IV que, por força do artigo 4.º do Decreto-Lei n.º 315/73, integram a Reforma Aduaneira; a instrução dirige-se à Reforma Aduaneira e os novos mapas só vêm em imagem (ver documento original), pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: altera artigos da Reforma Aduaneira (Decreto-Lei n.º 46311), outro diploma; ignorado.",
+    "Alterador 1, artigo 2.º: substitui os mapas III e IV da Reforma Aduaneira; novos mapas só em imagem, não aplicado (nao_aplicavel).",
+    "Alterador 1, artigo 3.º: encargos, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

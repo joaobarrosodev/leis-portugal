@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:555804:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a mudança de designação do curso (técnico de comércio) não é instrução textual sobre o original (não indica redação nova de nenhum número), e a alteração do plano de estudos vem em mapas só em imagem; nada aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o curso passa a designar-se técnico de comércio; alteração não textual, não aplicada.",
+    "Alterador 1, 2.º: alteração do plano de estudos segundo mapas anexos (só em imagem); não aplicada.",
+    "Alterador 1, 3.º: produção de efeitos; disposição própria, nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

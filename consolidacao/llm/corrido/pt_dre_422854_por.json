@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:422854:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: altera as taxas aprovadas pela Portaria n.º 249/96 pelas do anexo da Portaria n.º 772-A/96; o tarifário do original (unidade 12) e o novo tarifário só existem em imagem, pelo que a alteração não pode ser aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição das taxas do anexo (tarifário em imagem) — não aplicada.",
+    "Alterador 1, 2.º: entrada em vigor do próprio alterador — não dirigida ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

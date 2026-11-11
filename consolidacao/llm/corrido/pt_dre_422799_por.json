@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:422799:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.os 1.º e 2.º: alteram a concentração do hexaclorofeno (lista II, n.º 13) e do ácido tioglicólico e seus sais (lista III, n.º 11); as listas II e III e a nova redação só existem em imagem no original e no alterador. O n.º 3.º mantém o ácido tioláctico sem alteração.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova concentração do hexaclorofeno na lista II (quadro em imagem) — não aplicada.",
+    "Alterador 1, 2.º: nova concentração do ácido tioglicólico na lista III (quadro em imagem) — não aplicada.",
+    "Alterador 1, 3.º: mantém o ácido tioláctico — nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

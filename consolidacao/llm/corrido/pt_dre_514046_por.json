@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:514046:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "b) Para o trigo mole nacional e rijo da classe C a vigorar após 1 de Agosto de 1988, inclusive - os valores da alínea anterior, acrescidos de uma majoração de 500$00/t em Agosto de 1988 e de uma nova majoração de 500$00/t em Setembro do mesmo ano, mantendo-se o preço de Setembro em vigor até ao fim da vigência da portaria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 1, n.º 2.º: nova redação da alínea d) do n.º 1.º (centeio) cujo quadro de preços só vem em imagem; o cabeçalho 'Para o centeio:' fica igual e o quadro (unidade 11) não foi alterado.",
+  "instrucoes": [
+    "Alt. 1, n.º 1.º: nova redação da alínea b) do n.º 1.º -> substituída a unidade 8.",
+    "Alt. 1, n.º 2.º: nova redação da alínea d) do n.º 1.º -> quadro só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

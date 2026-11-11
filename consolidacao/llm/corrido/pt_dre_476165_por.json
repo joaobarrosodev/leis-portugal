@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:476165:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 526/93), n.º 4.º: extingue o lugar criado pelo n.º 1.º do original com a transição do titular — efeito não textual; nada a aplicar ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.os 1.º a 3.º: alteram outros quadros (Decreto Regulamentar n.º 9/91, Portaria n.º 371-A/91) — ignorados.",
+    "Alterador 1, n.º 4.º: extinção do lugar criado pelo original — não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

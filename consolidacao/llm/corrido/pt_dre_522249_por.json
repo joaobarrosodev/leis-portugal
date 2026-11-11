@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:522249:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 (Portaria n.º 494/95, repetida), n.º 1.º: o plano de estudos aprovado pela portaria passa a ser o dos anexos I e III da portaria alteradora, que só vêm em imagem no documento original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos (anexos I e III) — só em imagem, não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º a 4.º: precedências (anexo II), regime de transição e aplicação — disposições próprias, não alteram o texto do original.",
+    "Alterador 2: mesmo texto da Portaria n.º 494/95 — nada de novo a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

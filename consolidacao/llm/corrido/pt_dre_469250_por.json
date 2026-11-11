@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:469250:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "1.º O subdirector do Serviço de Electricidade e Telecomunicações é engenheiro electrotécnico com a patente de coronel ou tenente-coronel.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º do alterador 1: altera a Portaria n.º 19777, não o original - ignorado.",
+    "2.º do alterador 1: nova redação do n.º 1.º - substituída a unidade 4."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

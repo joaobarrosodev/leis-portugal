@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:427440:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, art. 3.º: substitui a tabela das actividades exercidas por conta própria a que se refere o artigo 2.º do Decreto-Lei n.º 312/76 pela tabela anexa ao Decreto-Lei n.º 138/78, que só vem em imagem (ver documento original); não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: revoga o artigo 31.º e altera os artigos 1.º, 5.º, 7.º, 15.º, 21.º, 38.º, 57.º, 66.º e 67.º do Código do Imposto Profissional; é alteração ao Código, não ao original: ignorada.",
+    "Alterador 1, art. 2.º: adita o artigo 7.º-A ao Código do Imposto Profissional; dirigido ao Código: ignorada.",
+    "Alterador 1, art. 3.º: substitui a tabela anexa a que se refere o artigo 2.º do Decreto-Lei n.º 312/76; a nova tabela só vem em imagem: não aplicada (nao_aplicavel).",
+    "Alterador 2, arts. 1.º a 5.º: alteram artigos e tabela do Código do Imposto Profissional; dirigidos ao Código, não ao original: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

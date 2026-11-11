@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:429622:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o quadro n.º 3 do anexo passa a ter a redacção do anexo à Portaria n.º 15/2001, que só vem em imagem (ver quadro no documento original); não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redacção do quadro n.º 3 do anexo; quadro só em imagem: não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

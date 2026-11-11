@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:556806:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: revoga a portaria apenas no que se refere aos serviços dos registos e do notariado do Nordeste; revogação parcial sem alvo textual delimitado (o Nordeste vem numa enumeração do n.º 1.º e os quadros só em imagem), não aplicável com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º: altera quadros de pessoal por quadro anexo próprio - não é alteração textual do original",
+    "Alterador 1, 2.º: revogação parcial quanto ao Nordeste - não aplicada, alvo não delimitado no texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

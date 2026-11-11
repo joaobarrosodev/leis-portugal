@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:422193:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: substitui o impresso C. P. mod. D 2.6 (modelo anexo) pelos modelos anexos à Portaria n.º 1226/97; os modelos só existem em imagem e a alteração não é textual (a designação na unidade 9 não muda). O n.º 2.º do alterador refere-se aos seus próprios impressos.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição do modelo anexo C. P. mod. D 2.6 por novos modelos (só em imagem) — não aplicada, não textual.",
+    "Alterador 1, 2.º: regra sobre os impressos do próprio alterador — não é instrução textual dirigida ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:531663:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 1534/2002: altera o quadro n.º 1 do anexo II, que no original e no alterador só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redacção do quadro n.º 1 do anexo II — quadro só em imagem, não aplicada.",
+    "Alterador 1, n.º 2.º (produção de efeitos) não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

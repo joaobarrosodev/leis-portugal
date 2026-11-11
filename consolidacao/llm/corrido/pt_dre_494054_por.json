@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:494054:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 1266/2009 substitui o anexo (quadros de lugares), que só existe em imagem no documento original; não há alteração textual a aplicar.",
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do anexo (só em imagem) — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

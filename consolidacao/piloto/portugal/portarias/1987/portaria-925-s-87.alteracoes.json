@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Para o trigo mole nacional e rijo da classe C a vigorar após 1 de Agosto de 1988, inclusive - os valores da alínea anterior, acrescidos de uma majoração de 500$00 por tonelada durante os meses de Agosto e de Setembro de 1988;",
+    "depois": "b) Para o trigo mole nacional e rijo da classe C a vigorar após 1 de Agosto de 1988, inclusive - os valores da alínea anterior, acrescidos de uma majoração de 500$00/t em Agosto de 1988 e de uma nova majoração de 500$00/t em Setembro do mesmo ano, mantendo-se o preço de Setembro em vigor até ao fim da vigência da portaria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514046:por",
+    "alterador": "pt:dre:377935:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 32-32",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b.1) Consumos de actividades comerciais, industriais, agrícolas e similares - aqueles que resultam da utilização de água no exercício de actividades comerciais, industriais ou agrícolas, incluindo os consumos das empresas públicas e das profissões liberais e dos registos por contadores em nome de quaisquer sociedades;",
+    "depois": "b.1) Consumos de actividades comerciais, industriais, agrícolas e similares - aqueles que resultam da utilização de água no exercício de actividades comerciais, industriais ou agrícolas, incluindo os consumos das empresas públicas e das profissões liberais e dos registados por contadores em nome de quaisquer sociedades;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:480973:por",
+    "alterador": "pt:dre:444270:por"
+  }
+]

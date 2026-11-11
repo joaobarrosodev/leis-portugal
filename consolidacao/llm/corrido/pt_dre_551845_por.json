@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:551845:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, ao Clube de Caça do Tarrafeirinho, com o número de pessoa colectiva 507189728, com sede no Apartado 197, 2000 Santarém, a zona de caça associativa do Tarrafeirinho (processo n.º 4216-DGRF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Coruche e Santana do Mato, município de Coruche, com uma área de 334 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: correção da área no n.º 1.º (3334 ha passa a 334 ha); o trecho citado diz «com uma área» onde o original diz «com a área»; substituído o trecho final do n.º 1.º (unidade 6) pelo texto do «deve ler-se»."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

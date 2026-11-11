@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:519621:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, a António Xavier de Lima - Empreendimentos Imobiliários e Turísticos, S. A., com o número de identificação de pessoa colectiva 502509953, com sede na Rua de 25 de Abril, 11 e 11-A, Paivas, 2845-389 Amora, a zona de caça turística da Herdade da Raposeira e anexas (processo n.º 4597-AFN), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de Cabeço de Vide, município de Fronteira, com a área de 989 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 929/2010), artigo único: nova redação do n.º 1.º (designação da concessionária e n.º de processo) — unidade 6 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:477871:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "3.º do alterador 1 revoga o anexo da Portaria n.º 981/95: conteúdo do anexo (unidade 20) passa a (Revogado.)",
+    "1.º e 2.º do alterador 1 aprovam o novo modelo no anexo do próprio alterador; não alteram textualmente o original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

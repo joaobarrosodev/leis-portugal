@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Os soldados recrutados ao abrigo da alínea e) do artigo 4.º do [Decreto n.º 42075](https://diariodarepublica.pt/dr/detalhe/decreto/42075-1958-342474), de 31 de Dezembro de 1958, quando não obtenham aproveitamento nas escalas de recrutas, nos cursos de pára-quedismo e nos tirocínios de pára-quedismo, passam à sua anterior situação de mancebos.",
+    "depois": "2.º Os soldados recrutados ao abrigo da alínea e) do artigo 4.º do Decreto-Lei n.º 42075, de 31 de Dezembro de 1958, quando não obtenham aproveitamento nos cursos de pára-quedismo e nos tirocínios de pára-quedismo, passam a ser considerados como pessoal privativo não permanente da Força Aérea e reclassificados em serviço geral - serviço interno.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:507852:por",
+    "alterador": "pt:dre:335945:por"
+  }
+]

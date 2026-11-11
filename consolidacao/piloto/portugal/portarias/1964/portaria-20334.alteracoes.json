@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º O subdirector do Serviço de Comunicações e Tráfego Aéreo é piloto aviador ou engenheiro electrotécnico com a patente de coronel ou tenente-coronel.",
+    "depois": "1.º O subdirector do Serviço de Electricidade e Telecomunicações é engenheiro electrotécnico com a patente de coronel ou tenente-coronel.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:469250:por",
+    "alterador": "pt:dre:336139:por"
+  }
+]

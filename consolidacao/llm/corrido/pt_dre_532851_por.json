@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:532851:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Retificação no quadro n.º 4 do anexo («História do Design II» por «Teoria do Design II»): o quadro só existe em imagem no documento original.",
+  "instrucoes": [
+    "Retifica o quadro n.º 4 do anexo: quadro só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

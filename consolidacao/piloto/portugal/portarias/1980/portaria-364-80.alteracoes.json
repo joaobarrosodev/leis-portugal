@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º O fundo dos cartões será de cor branca, tendo impresso, a verde claro, a designação «Instituto do Azeite e Produtos Oleaginosos». Terão na frente uma barra oblíqua, que irá do canto inferior esquerdo ao canto superior direito, contendo as cores da bandeira nacional, com a largura de 10 mm, e no verso, no canto inferior esquerdo, a indicação de que o modelo foi aprovado pela presente portaria.",
+    "depois": "3.º O fundo dos cartões será de cor branca, tendo impresso a verde-claro a designação «Instituto do Azeite e Produtos Oleaginosos». Terá na frente uma barra oblíqua, que irá do canto superior esquerdo ao canto inferior direito, contendo as cores da bandeira nacional, com a largura de 10 mm, e no verso, no canto inferior esquerdo, a indicação de que o modelo foi aprovado pela presente portaria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:473289:por",
+    "alterador": "pt:dre:573691:por"
+  }
+]

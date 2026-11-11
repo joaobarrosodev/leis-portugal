@@ -1,0 +1,45 @@
+{
+  "id": "pt:dre:512819:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "2 - Os elementos que constituem a CCCA são nomeados por um período de três anos, sendo um representante do membro do Governo responsável pela área do desporto, um representante do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, um representante do Ministério da Solidariedade e Segurança Social, um representante do Ministério da Economia, um representante da Federação Portuguesa Equestre, um representante da Associação Portuguesa de Criadores de Raças Selectas e um representante da sociedade concessionária, devendo o seu presidente ser designado pelo membro do Governo responsável pela área do desporto e gozar de voto de qualidade.",
+      "alterador": 1
+    },
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "a) A elaboração de um projecto de regulamento das apostas mútuas hípicas e um projecto de regulamento das corridas de cavalos, os quais serão objecto de resolução do Conselho de Ministros, mediante proposta conjunta do membro do Governo responsável pela área do desporto e dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e da Economia;",
+      "alterador": 1
+    },
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "c) Atribuição ao membro do Governo responsável pela área do desporto e ao Ministro da Economia de competência para, por despacho conjunto, fixarem o valor anual da aposta unitária para as diferentes modalidades, sob proposta da concessionária e mediante parecer da CCCA;",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "e) Permissão de outras espécies e ou modalidades de aposta por despacho conjunto do membro do Governo responsável pela área do desporto e do Ministro da Economia, sob proposta da concessionária e mediante parecer favorável da CCCA;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 14,
+      "texto": "f) Elaborar estudos sobre regimes fiscais aplicáveis às apostas mútuas hípicas, com base idêntica aos adoptados nos países com vasta experiência em corridas de cavalos, e consequentemente apresentar propostas legislativas relativas a esta matéria.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, n.º 1: nova redação do n.º 2 -> substituída a unidade 8.",
+    "Alt. 1, n.º 2: nova redação do n.º 3; alínea a) substituída (unidade 10), b) a e) mantidas ('...'), nova alínea f) inserida depois da unidade 14.",
+    "Alt. 1, n.º 3: nova redação do n.º 6; alíneas c) (unidade 20) e e) (unidade 25) substituídas, restantes mantidas ('...')."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

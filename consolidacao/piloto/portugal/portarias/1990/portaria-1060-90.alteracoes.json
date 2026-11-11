@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 39-41",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - A Escola organizará estágios com a seguinte duração:\n\na) Para o curso ministrado em regime diurno, um estágio, com duração total não inferior a 33 semanas;\n\nb) Para o curso ministrado em regime nocturno, um estágio com duração total não inferior a 20 semanas.",
+    "depois": "1 - A Escola organizará estágio ou estágios com duração total não inferior a 18 semanas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:555185:por",
+    "alterador": "pt:dre:232759:por"
+  }
+]

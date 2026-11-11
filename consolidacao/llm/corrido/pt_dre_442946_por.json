@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:442946:por",
+  "substituicoes": [
+    {
+      "de": 35,
+      "ate": 58,
+      "texto": "Licenciatura em Planeamento\n\n1 - Área científica do curso: Planeamento Regional e Urbano.\n\n2 - Duração normal do curso: dez semestres lectivos.\n\n3 - Total de unidades de crédito necessárias à conclusão do curso: 170 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\nPlaneamento Regional e Urbano ... 40\n\nEconomia ... 14\n\nGeografia ... 14\n\nArquitectura ... 13\n\nEngenharia Civil ... 9\n\nSociologia ... 7\n\nEngenharia do Ambiente ... 6\n\nAdministração ... 6\n\nMatemática ... 18\n\nCiências Físico-Químicas ... 7\n\nCiências Naturais ... 6\n\nLíngua Estrangeira ... 3\n\n4.2 - Conjunto das áreas científicas optativas:\n\nPlaneamento Regional e Urbano ... 12\n\nGeografia ... 12\n\nEconomia ... 12\n\nArquitectura ... 12\n\n4.3 - Projecto ... 15",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: o anexo passa a ter a redacção do anexo da Portaria n.º 242/88; substituí o conteúdo do anexo (unidades 35 a 58), mantendo o título ## ANEXO (unidade 34).",
+    "Alterador 1, 2.º e 3.º: entrada em funcionamento e regime de transição, sem alteração textual do original; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Alienação da TORRALTA;\n\nParticipação do IPE no capital da Companhia Real de Distribuição;\n\nProcesso de atribuição da terceira rede de telefones móveis;\n\nDação em pagamento das dívidas da Grão-Pará ao Estado;\n\nSubstituição de gestores das empresas públicas EDP, TRANSGÁS e PORTUCEL;\n\nProcessos de privatização do BTA, do BESCL, do Jornal de Notícias e Diário de Notícias, da Tranquilidade e da Mundial-Confiança;",
+    "depois": "Processos de privatização do BTA, do BESCL, do Jornal de Notícias, do Diário de Notícias, da Tranquilidade e da Mundial-Confiança;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:479878:por",
+    "alterador": "pt:dre:138568:por"
+  }
+]

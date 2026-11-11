@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:420796:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o anexo passa a ter a redacção do anexo à Portaria n.º 142/2005, cujos quadros n.os 1 a 4 só vêm em imagem (ver quadro no documento original); não se pode aplicar textualmente.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do anexo (plano de estudos); quadros só em imagem, não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º: aplicação no tempo, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

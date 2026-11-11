@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "e) O tempo de serviço anterior ao [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março, quando prestado em categorias correspondentes às actuais, segundo o disposto nos artigos 6.º e 7.º e anexo II do mesmo decreto-lei, anexo II da [Portaria n.º 787/77](https://diariodarepublica.pt/dr/detalhe/portaria/787-1977-280026), de 24 de Dezembro, e anexo IV do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), ou quando, tendo funcionado o n.º 4 do [Despacho Normativo n.º 135-A/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/135-a-1977-229920), de 25 de Maio, o tempo de serviço prestado em funções idênticas às que correspondem à sua actual categoria, desde que esta, pelo anexo I do [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496) e anexo I da [Portaria n.º 787/77](https://diariodarepublica.pt/dr/detalhe/portaria/787-1977-280026), estivesse posicionada no mesmo ou inferior nível salarial da anterior, segundo os mesmos anexos, salvo tratando-se de reclassificação obrigatória.",
+    "depois": "e) O tempo de serviço anterior ao [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março, quando prestado em categorias correspondentes às actuais, segundo o disposto nos artigos 6.º e 7.º e anexo II do mesmo decreto-lei, anexo II da [Portaria n.º 787/77](https://diariodarepublica.pt/dr/detalhe/portaria/787-1977-280026), de 24 de Dezembro, e anexo IV do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), ou quando, tendo funcionado o n.º 4 do [Despacho Normativo n.º 135-A/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/135-a-1977-229920), de 25 de Maio, o tempo de serviço prestado em funções idênticas às que correspondem à sua actual categoria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:473141:por",
+    "alterador": "pt:dre:575932:por"
+  }
+]

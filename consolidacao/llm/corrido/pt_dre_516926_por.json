@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:516926:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º É aprovado o modelo, anexo a esta portaria, de cartões de identidade para uso pessoal dos funcionários integrados na carreira técnica superior de inspecção da Inspecção-Geral da Educação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (retificação): no n.º 1.º, 'inspecção à educação' passa a 'inspecção da Inspecção-Geral da Educação' -> substituída a unidade 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

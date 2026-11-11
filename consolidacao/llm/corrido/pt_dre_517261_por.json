@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:517261:por",
+  "substituicoes": [
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "4 - O Conselho poderá convidar para nele tomarem assento outras entidades cuja participação julgue conveniente no desenvolvimento dos trabalhos, nomeadamente a Associação Nacional de Municípios, a Associação Nacional de Seguradoras, a Prevenção Rodoviária Portuguesa, o Automóvel Clube de Portugal, a Liga dos Bombeiros Portugueses, a BRISA e o Centro Rodoviário Português.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (DL 77/2007): o artigo 10.º, n.º 2, extingue o CNSR e transfere as suas competências para a ANSR, mas não revoga nem altera o texto da Resolução; não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 4 (acrescenta a BRISA e o Centro Rodoviário Português) — substituída a unidade 30.",
+    "Alterador 2: extinção do CNSR e sucessão pela ANSR (art. 10.º, n.º 2) — sem alteração textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

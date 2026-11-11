@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:458988:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 5.º: revoga a Portaria n.º 1037/80 por inteiro (a ressalva remete para a parte final do n.º 2 do n.º 3.º da própria Portaria n.º 1170/82); os n.os 1.º a 4.º do alterador são regime próprio, não nova redação do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º a 4.º: nova autorização de despesa em texto próprio, não altera a redação do original - ignorados.",
+    "Alterador 1, 5.º: revogação total do original - nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

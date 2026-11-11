@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º São anexados à presente zona de caça vários terrenos cinegéticos sitos nas freguesias de São Matias e São Brissos, município de Beja com a área de 811 ha.\n\n3.º Esta zona de caça, após a sua renovação e anexação dos terrenos acima referidos, ficará com a área total de 4809 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+    "depois": "2.º São anexados à presente zona de caça vários terrenos cinegéticos sitos nas freguesias de São Matias e São Brissos, município de Beja, com a área de 718 ha.\n\n3.º Esta zona de caça, após a sua renovação e anexação dos terrenos acima referidos, ficará com a área total de 4716 ha, conforme planta anexa a esta portaria e que dela faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:489982:por",
+    "alterador": "pt:dre:341819:por"
+  }
+]

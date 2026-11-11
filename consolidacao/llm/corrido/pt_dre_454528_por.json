@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:454528:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º É designada a Comissão Vitivinícola Regional do Ribatejo - Entidade Certificadora (CVRR-EC) como entidade certificadora para exercer funções de controlo da produção e comércio e de certificação dos produtos vitivinícolas com direito à DO «DoTejo» e à IG «Tejo».",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 10/2009) prorroga até 30 de Junho de 2009 o prazo do n.º 2.º sem dar nova redação ao texto; não é alteração textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: prorrogação do prazo do n.º 2.º até 30/6/2009; sem nova redação, não aplicada.",
+    "Alterador 2, artigo 12.º: no n.º 1.º, 'indicação geográfica (IG) «Ribatejano»' substituída por 'IG «Tejo»'; aplicada na unidade 8.",
+    "Alterador 3, artigo 16.º: no n.º 1.º, 'denominação de origem (DO) «Ribatejo»' substituída por 'DO «DoTejo»'; aplicada na unidade 8 (substituição única com as duas trocas, atribuída ao alterador 3). Artigo 15.º não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

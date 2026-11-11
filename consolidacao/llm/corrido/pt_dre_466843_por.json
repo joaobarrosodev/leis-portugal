@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:466843:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1 - É criado no quadro de pessoal do Gabinete de Gestão Financeira do Ministério da Justiça, aprovado pelo [Decreto Regulamentar n.º 55/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1983-452503), de 23 de Junho, um lugar de assessor, a extinguir quando vagar.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Retificação do n.º 1: Decreto Regulamentar n.º 53/83 passa a n.º 55/83 - substituída a unidade 5."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

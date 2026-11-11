@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Pela [Portaria n.º 1385/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1385-2001-576914), de 7 de Dezembro, foi criada a zona de caça municipal de Geraz do Lima (processo n.º 2709-DGRF), situada no município de Viana do Castelo, válida até 1 de Março de 2008, e transferida a sua gestão para o Clube de Caçadores de Viana do Castelo.",
+    "depois": "Pela [Portaria n.º 1385/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1385-2001-576914), de 7 de Dezembro, foi criada a zona de caça municipal de Geraz do Lima (processo n.º 2709-DGRF), situada no município de Viana do Castelo, válida até 1 de Março de 2008, e transferida a sua gestão para o Clube de Caçadores do Vale do Lima.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:449679:por",
+    "alterador": "pt:dre:494507:por"
+  }
+]

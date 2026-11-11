@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:555618:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 19,
+      "texto": "4.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: o plano de estudos anexo é substituído por um novo e o anexo original é revogado, mas o anexo só existe em imagem (sem unidade textual própria); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos anexo (só em imagem); não aplicado.",
+    "Alterador 1, 2.º: revogação do n.º 4.º; unidades 17 a 19 passam a «4.º - (Revogado.)».",
+    "Alterador 1, 2.º: revogação do anexo (só em imagem); não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

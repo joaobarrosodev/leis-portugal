@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:533803:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O plano de estudos (anexo) passa a ser o constante do anexo da Portaria n.º 697/2002, cujos quadros só vêm em imagem no documento original.",
+  "instrucoes": [
+    "1.º: novo plano de estudos no anexo: quadros só em imagem, não aplicado. 2.º a 4.º (opções, transição, aplicação) são normas próprias do alterador, sem alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

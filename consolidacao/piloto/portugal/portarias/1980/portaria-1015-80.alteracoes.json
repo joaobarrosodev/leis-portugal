@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º No distrito de Castelo Branco, os concelhos de Belmonte, Covilhã e Penamacor continuam integrados na área da responsabilidade do Centro de Saúde Mental da Covilhã.",
+    "depois": "3.º No distrito de Castelo Branco, os concelhos de Belmonte, Covilhã, Fundão e Penamacor continuam integrados na área de responsabilidade do Centro de Saúde Mental da Covilhã.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:459027:por",
+    "alterador": "pt:dre:573729:por"
+  }
+]

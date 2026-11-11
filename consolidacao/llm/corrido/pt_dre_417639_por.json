@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:417639:por",
+  "substituicoes": [
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "b) A obtenção da licenciatura em Gestão de Empresas, através da frequência dos 4.º e 5.º anos do plano de estudos constante do anexo III à presente portaria, para os alunos provenientes da opção em Gestão das Pequenas e Médias Empresas Industriais;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O 2.º da Portaria n.º 752/89 adita um anexo III, cujo conteúdo só vem em imagem no documento original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação da alínea b) do n.º 1 do 5.º; substituída a unidade 25 (n.º 1, alíneas a) e c) ficam com '...').",
+    "Alterador 1, 2.º: aditamento do anexo III; só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 75-92",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Área científica do curso:\n\nHistória Medieval.\n\n2 - Duração normal do curso:\n\n2 anos lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à obtenção do curso:\n\na) Obrigatórias:\n\nI) História Medieval ... 10\n\nII) Paleografia ... 2\n\nIII) Crítica Textual ... 2\n\nb) Optativas:\n\nI) Cartografia Histórica ... 6\n\nII) Métodos Quantitativos ... 6\n\nIII) Sociologia dos Fatos Religiosos ... 6\n\nTotal ... 20\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\nHistória.\n\n5 - Especialidade a que se refere o n.º 10.º:\n\nHistória da Idade Média.",
+    "depois": "1 - Área científica do curso: História Medieval.\n\n2 - Duração normal do curso: dois anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau: 32.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\nI - História Medieval ... 21\n\nII - Crítica Textual ... 6\n\nIII - Paleografia ... 5\n\n5 - Licenciatura a que se refere o n.º 1.º do n.º 5.º: História.\n\n6 - Especialidade a que se refere o n.º 10.º: História da Idade Média.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:451413:por",
+    "alterador": "pt:dre:548786:por"
+  }
+]

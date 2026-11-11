@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:531664:por",
+  "substituicoes": [
+    {
+      "de": 42,
+      "ate": 43,
+      "texto": "Curso de Ensino Básico - 1.º Ciclo\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: o anexo passa a ter a redacção do anexo do alterador — substituídas as unidades 42-43 pelo novo anexo (cabeçalhos e remissões para os quadros); 40-41 ficam iguais.",
+    "Alterador 1, n.os 2.º e 3.º (transição, produção de efeitos) não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

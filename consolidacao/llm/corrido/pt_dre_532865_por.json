@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:532865:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Nova redação do anexo na parte relativa à Academia da Força Aérea: o novo quadro só vem em imagem no documento original.",
+  "instrucoes": [
+    "Altera o anexo na parte da Academia da Força Aérea (vagas): quadro só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

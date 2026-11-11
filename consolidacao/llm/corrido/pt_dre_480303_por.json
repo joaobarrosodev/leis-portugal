@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:480303:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 11,
+      "texto": "1.º-A\n\nSeminário e Estágio\n\nAs unidades curriculares denominadas 'Seminário' e 'Estágio' realizam-se nos termos fixados por regulamento a aprovar pelo órgão legal estatutariamente competente do estabelecimento de ensino.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "O 1.º do alterador 1 dá nova redação ao anexo (plano de estudos), cujos quadros só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "1.º do alterador 1 substitui o anexo (quadros em imagem): não aplicado",
+    "2.º do alterador 1 adita o n.º 1.º-A (Seminário e Estágio): inserido depois da unidade 11",
+    "3.º e 4.º do alterador 1 são normas próprias (transição, aplicação): nada feito"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

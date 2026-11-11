@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - A Escola organizará um estágio com a duração total não inferior a 39 semanas.",
+    "depois": "1 - A Escola organizará um estágio com duração total não inferior a 18 semanas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:554584:por",
+    "alterador": "pt:dre:234909:por"
+  }
+]

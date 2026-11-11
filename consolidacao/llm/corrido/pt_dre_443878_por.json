@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:443878:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: rectifica o sumário (não o texto) retirando o 'de' antes de António José Gameiro Marques; o sumário não está nas unidades e a unidade 4 já tem a redacção correcta; nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

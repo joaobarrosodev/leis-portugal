@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:463199:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Quadrazais, município do Sabugal, com a área de 2870 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º do alterador 1: nova redação do n.º 1.º - substituída a unidade 6, mantendo a numeração 1.º.",
+    "1.º do alterador 1 (segundo parágrafo): aditado o n.º 1.º-A - inserido a seguir à unidade 6.",
+    "2.º e 3.º do alterador 1: manutenção de direitos e entrada em vigor - nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

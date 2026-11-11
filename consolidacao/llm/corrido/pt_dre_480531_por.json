@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:480531:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As retificações 1 e 2 incidem na coluna «Área funcional» do mapa anexo, que só existe em imagem (unidade 11); não aplicadas.",
+  "instrucoes": [
+    "Retificação 1 (pessoal técnico superior, área funcional no mapa): não aplicada, mapa em imagem",
+    "Retificação 2 (pessoal técnico, área funcional no mapa): não aplicada, mapa em imagem"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:498691:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 75/92) retifica «Cap. 04 - Inspecção-Geral da Segurança Social» no mapa, que só existe em imagem (unidade 3, ver documento original); o texto a retificar não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retificação no cap. 04 do mapa de alterações orçamentais, que vem só em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

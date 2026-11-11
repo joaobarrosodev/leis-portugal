@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:507852:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "2.º Os soldados recrutados ao abrigo da alínea e) do artigo 4.º do Decreto-Lei n.º 42075, de 31 de Dezembro de 1958, quando não obtenham aproveitamento nos cursos de pára-quedismo e nos tirocínios de pára-quedismo, passam a ser considerados como pessoal privativo não permanente da Força Aérea e reclassificados em serviço geral - serviço interno.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do n.º 2.º; substituída a unidade 6 mantendo o número 2.º."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:433803:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 274/2001 substitui o quadro n.º 10 do anexo do original, mas o quadro só vem em imagem (e no original os quadros n.os 1 a 14 também só estão em imagem); não se aplica com segurança.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui o quadro n.º 10 do anexo; quadro só em imagem, não aplicado (nao_aplicavel).",
+    "Alterador 1, n.º 2.º: norma de aplicação própria; não se dirige ao texto do original, ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:420601:por",
+  "substituicoes": [
+    {
+      "de": 57,
+      "ate": 58,
+      "texto": "Os planos de estudos dos cursos a que se refere a presente portaria serão fixados por despacho reitoral, a publicar na 2.ª série do Diário da República, nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), salvo se se verificar a previsão do n.º 4 do artigo 4.º",
+      "alterador": 1
+    },
+    {
+      "de": 93,
+      "ate": 93,
+      "texto": "2 - Os coeficientes de ponderação serão propostos pelo conselho científico, ouvidas as comissões permanentes de curso respectivas, e fixados por despacho reitoral, a publicar na 2.ª série do Diário da República.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 7.º (corpo único sem números, que substitui os n.os 1 e 2, unidades 57-58; número e epígrafe iguais).",
+    "Alterador 1, 1.º: nova redação do n.º 14.º; só o n.º 2 (unidade 93) muda, n.os 1 e 3 idênticos ao texto atual.",
+    "Alterador 1, 2.º: entrada em vigor, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:500193:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: as duas retificações de classificação económica (Ministério da Justiça e Ministério da Agricultura) incidem sobre o mapa das alterações orçamentais que só existe em imagem (unidade 3); não se aplicam ao texto.",
+  "instrucoes": [
+    "Alterador 1: retifica classificações económicas no mapa; mapa só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O disposto no presente diploma aplica-se a partir do ano lectivo de 2003-2004, inclusive.",
+    "depois": "O disposto no presente diploma aplica-se a partir do 2.º semestre do ano lectivo de 2002-2003, inclusive.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:437425:por",
+    "alterador": "pt:dre:569536:por"
+  }
+]

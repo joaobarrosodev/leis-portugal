@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:419775:por",
+  "substituicoes": [
+    {
+      "de": 194,
+      "ate": 194,
+      "texto": "Lisboa, 6 de Março de 1987. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral. - Pelo Instituto do Emprego e Formação Profissional, Álvaro Gonçalves Martins. - Pela Associação dos Industriais Metalúrgicos, Metalomecânicos e Afins de Portugal (AIMMAP), (Assinatura ilegível.) - Pela Associação Nacional das Empresas Metalúrgicas e Electromecânicas (ANEMM), (Assinatura ilegível.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Nas unidades 9, 15 e 27 as associações aparecem numa forma conjunta ('Associação [Nacional] dos Industriais Metalúrgicos e Metalomecânicos do Norte e do Sul') que não coincide letra a letra com as expressões a substituir; trocá-las exigiria reescrever a frase, por isso não foram alteradas.",
+  "instrucoes": [
+    "Alterador 1: onde se lê 'Associação dos Industriais Metalúrgicos e Metalomecânicos do Norte' / '... do Sul' deve ler-se AIMMAP / ANEMM; aplicado onde as expressões aparecem exatas (unidade 194); formas conjuntas nas unidades 9, 15 e 27 não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:499054:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "É exonerada, sob proposta do Governo, a embaixadora Maria da Graça Reynaud Campos Trocado Andresen Guimarães do cargo de Representante Permanente de Portugal junto dos Organismos e Organizações Internacionais (NUOI), em Genebra, por passar à disponibilidade, com efeitos a partir de 1 de setembro de 2013.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: altera a data de exoneração para 1 de setembro de 2013; na unidade 4, «8 de setembro de 2013» passa a «1 de setembro de 2013»."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

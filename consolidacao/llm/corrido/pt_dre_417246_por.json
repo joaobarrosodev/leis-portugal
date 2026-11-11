@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:417246:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O 1.º da Portaria n.º 617/89 substitui as tabelas de retribuições do anexo (Tabelas A e B), que só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição das tabelas do anexo; só em imagem, não aplicado.",
+    "Alterador 1, 2.º: produção de efeitos do próprio alterador, não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

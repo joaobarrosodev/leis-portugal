@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6.º Os averbamentos nas cédulas destinam-se a registar os factos de carácter exclusivamente profissional, constantes do «registo da inscrição marítima», que envolvam a formação, certificação e actividade dos marítimos.",
+    "depois": "6.º Os averbamentos nas cédulas destinam-se a registar os factos de carácter exclusivamente profissional, constantes do «registo de inscrição marítima», que envolvam a formação, certificação e actividade dos marítimos, bem como a atestar que a mesma constitui documento de identificação de marítimo do seu titular, para os fins da Convenção n.º 108 da OIT.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:547197:por",
+    "alterador": "pt:dre:532039:por"
+  },
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Registos de embarques e desembarques quando a embarcação se encontre em porto estrangeiro onde não exista autoridade consular portuguesa ou no alto mar.",
+    "depois": "b) Atestar que a cédula constitui documento de identificação de marítimo do seu titular, para fins da Convenção n.º 108 da OIT;\n\nc) Registos de embarques e desembarques quando a embarcação se encontre em porto estrangeiro onde não exista autoridade consular portuguesa ou no alto mar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:547197:por",
+    "alterador": "pt:dre:532039:por"
+  },
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "10.º Os averbamentos referidos no número anterior serão efectuados, datados e rubricados, no caso da alínea a), pelo director-geral do Pessoal do Mar e Estudos Náuticos ou, para as categorias específicas da marinha de pesca, pelo director-geral das Pescas e, no caso da alínea b), pelo comandante da embarcação.",
+    "depois": "10.º Os averbamentos referidos no número anterior serão efectuados, datados e rubricados, no caso das alíneas a) e b), pelo director-geral de Portos, Navegação e Transportes Marítimos e, no caso da alínea c), pelo comandante da embarcação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:547197:por",
+    "alterador": "pt:dre:532039:por"
+  },
+  {
+    "artigo": "unidades 19-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "11.º As rubricas dos directores-gerais e do comandante da embarcação, referidas no número anterior, serão autenticadas com o selo branco da respectiva direcção-geral ou com o carimbo da embarcação.",
+    "depois": "11.º As rubricas do director-geral e do comandante da embarcação, referidas no número anterior, serão autenticadas com o selo branco da Direcção-Geral ou com o carimbo da embarcação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:547197:por",
+    "alterador": "pt:dre:532039:por"
+  }
+]

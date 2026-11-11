@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:476170:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 944/99), n.º 8.º: revoga a portaria 'no que se refere aos serviços do registo predial de Vila Nova de Gaia' — revogação parcial por matéria, sem indicar as unidades (atinge parte da alínea a), parte do quadro em imagem e a alínea e)); alvo ambíguo, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.os 1.º a 7.º: criam novas conservatórias e fixam áreas e quadros por normas próprias — não alteram textualmente o original.",
+    "Alterador 1, n.º 8.º: revogação parcial por matéria (Vila Nova de Gaia) — não aplicada por alvo ambíguo (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

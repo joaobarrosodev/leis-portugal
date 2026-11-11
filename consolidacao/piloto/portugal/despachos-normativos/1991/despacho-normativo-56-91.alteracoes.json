@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - É criado no quadro de pessoal do Gabinete de Gestão Financeira do Ministério da Justiça, aprovado pelo [Decreto Regulamentar n.º 53/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1983-452521), de 23 de Junho, um lugar de assessor, a extinguir quando vagar.",
+    "depois": "1 - É criado no quadro de pessoal do Gabinete de Gestão Financeira do Ministério da Justiça, aprovado pelo [Decreto Regulamentar n.º 55/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1983-452503), de 23 de Junho, um lugar de assessor, a extinguir quando vagar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:466843:por",
+    "alterador": "pt:dre:477103:por"
+  }
+]

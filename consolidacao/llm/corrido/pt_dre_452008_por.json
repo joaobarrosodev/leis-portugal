@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:452008:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 10-AC/99): retifica o mapa, cujo onde se lê / deve ler-se só existe em imagem no documento original; não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1: retificação do mapa (em imagem): não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

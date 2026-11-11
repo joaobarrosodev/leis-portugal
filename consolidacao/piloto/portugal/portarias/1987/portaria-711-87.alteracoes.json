@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) A obtenção da licenciatura em Gestão de Empresas, através da frequência dos 4.º e 5.º anos do respectivo plano de estudos, para os alunos provenientes da opção em Gestão das Pequenas e Médias Empresas Industriais;",
+    "depois": "b) A obtenção da licenciatura em Gestão de Empresas, através da frequência dos 4.º e 5.º anos do plano de estudos constante do anexo III à presente portaria, para os alunos provenientes da opção em Gestão das Pequenas e Médias Empresas Industriais;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:417639:por",
+    "alterador": "pt:dre:547010:por"
+  }
+]

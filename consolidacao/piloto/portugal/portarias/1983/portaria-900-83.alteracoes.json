@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 35-58",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Área científica do curso:\n\nPlaneamento.\n\n2 - Duração normal do curso:\n\n10 semestres lectivos.\n\n3 - Total de unidades de crédito necessárias à conclusão do curso:\n\n170 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\nPlaneamento Regional e Urbano ... 62,5\n\nCiências do Ambiente ... 6,5\n\nCiências Sociais ... 8,5\n\nEconomia ... 12\n\nGeografia ... 21\n\nMatemática ... 26\n\nQuímica ... 9\n\nFísica ... 4\n\nGeologia ... 6,5\n\nLínguas ... 2\n\n4.2 - Áreas científicas optativas:\n\nPlaneamento Regional e Urbano ... 7\n\nCiências Sociais ... 7\n\nEconomia ... 7\n\nCiências do Ambiente ... 7\n\n4.3 - Projecto ... 5",
+    "depois": "Licenciatura em Planeamento\n\n1 - Área científica do curso: Planeamento Regional e Urbano.\n\n2 - Duração normal do curso: dez semestres lectivos.\n\n3 - Total de unidades de crédito necessárias à conclusão do curso: 170 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\nPlaneamento Regional e Urbano ... 40\n\nEconomia ... 14\n\nGeografia ... 14\n\nArquitectura ... 13\n\nEngenharia Civil ... 9\n\nSociologia ... 7\n\nEngenharia do Ambiente ... 6\n\nAdministração ... 6\n\nMatemática ... 18\n\nCiências Físico-Químicas ... 7\n\nCiências Naturais ... 6\n\nLíngua Estrangeira ... 3\n\n4.2 - Conjunto das áreas científicas optativas:\n\nPlaneamento Regional e Urbano ... 12\n\nGeografia ... 12\n\nEconomia ... 12\n\nArquitectura ... 12\n\n4.3 - Projecto ... 15",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:442946:por",
+    "alterador": "pt:dre:285173:por"
+  }
+]

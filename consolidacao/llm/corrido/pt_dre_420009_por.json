@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:420009:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O 1.º da Portaria n.º 835/89 (alteradores 1 e 2, o mesmo diploma repetido) dá nova redação aos quadros dos anexos I e II, que só vêm em imagem no documento original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação dos quadros dos anexos I e II; só em imagem, não aplicado.",
+    "Alterador 1, 2.º e 3.º: aplicação no tempo e regime de transição, não alteram o texto do original.",
+    "Alterador 2: repetição do alterador 1; nada a mais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

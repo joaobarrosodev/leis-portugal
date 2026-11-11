@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 42-43",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Curso: Ensino Básico - 1.º Ciclo\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/247b00/60026004.pdf)",
+    "depois": "Curso de Ensino Básico - 1.º Ciclo\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:531664:por",
+    "alterador": "pt:dre:534426:por"
+  }
+]

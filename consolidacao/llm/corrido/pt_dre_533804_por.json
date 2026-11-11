@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:533804:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 691/2001 muda a denominação do curso para Engenharia Mecânica - Energia e autoriza o regime nocturno do 2.º ciclo, com plano em anexo só em imagem, mas não dá nova redação a nenhuma unidade da Portaria n.º 756/99: alteração não textual.",
+  "instrucoes": [
+    "1.º: alteração da denominação do curso: não dá nova redação ao texto do original, não aplicado.",
+    "2.º a 5.º: regime nocturno, duração, plano de estudos (quadros em imagem) e aplicação: normas próprias do alterador, sem alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

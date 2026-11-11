@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:423237:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "8 - Para efeitos da presente resolução, consideram-se trabalhadores da Companhia de Seguros Tranquilidade, S. A., todas as pessoas que, à data da publicação deste diploma, mantenham com aquela sociedade um vínculo laboral, bem como as que hajam mantido vínculo laborar com a Tranquilidade Seguros, E. P., ou com as empresas privadas que por via de nacionalização ou qualquer outra se integraram nesta empresa pública, desde que o tempo de serviço prestado em qualquer dessas empresas, isolada ou cumulativamente, seja superior a três anos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 8 — unidade 14 substituída, mantendo o número «8 - ».",
+    "Alterador 1, n.º 2: produção de efeitos — não textual.",
+    "Alterador 2: é o mesmo diploma (RCM n.º 41/89) repetido, com a mesma instrução — já aplicada, nada mais a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

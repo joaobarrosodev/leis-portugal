@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:454351:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "Pela presente portaria, a zona de caça turística do Azinhal (processo n.º 700-AFN), situada na freguesia de Azinheira de Barros, município de Grândola, é transferida para Pedro Sacadura Teixeira Cabral Duarte da Silveira, com o número de identificação fiscal 182972330 e sede na Avenida do Infante Santo, 66-A, 5.º, direito, 1350-180 Lisboa.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do artigo único (dispositivo, unidade 7), corrigindo o nome do concessionário; unidade 7 substituída pela nova redação."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

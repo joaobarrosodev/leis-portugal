@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 34-35",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º Nos estabelecimentos de venda a retalho de carne de bovino e de outras espécies, bem como de produtos derivados, deverão estar afixados, em local bem visível, os preços legalmente estabelecidos e os que estiverem a ser praticados relativamente aos produtos ou peças em regime de venda livre.\n\n6.º As peças e porções individualizadas devem encontrar-se identificadas e marcadas com os preços de venda que lhes correspondem.",
+    "depois": "5.º - (Revogado.)\n\n6.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:471311:por",
+    "alterador": "pt:dre:357113:por"
+  }
+]

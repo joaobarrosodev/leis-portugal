@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:480973:por",
+  "substituicoes": [
+    {
+      "de": 32,
+      "ate": 32,
+      "texto": "b.1) Consumos de actividades comerciais, industriais, agrícolas e similares - aqueles que resultam da utilização de água no exercício de actividades comerciais, industriais ou agrícolas, incluindo os consumos das empresas públicas e das profissões liberais e dos registados por contadores em nome de quaisquer sociedades;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Retificação na alínea b.1) do n.º 1 do anexo: «dos registos por» passa a «dos registados por» na unidade 32"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:554079:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 222/98 substitui o quadro de pessoal anexo à Portaria n.º 1243/93 por um novo quadro que só vem em imagem; não há texto a aplicar. Os seus n.os 2.º e 3.º são disposições próprias, não instruções de alteração do texto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição do quadro de pessoal anexo (só em imagem); não aplicada.",
+    "Alterador 1, 2.º e 3.º: nova departamentalização e conteúdo funcional definidos no próprio diploma, sem instrução de alteração do original; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

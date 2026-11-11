@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:551633:por",
+  "substituicoes": [
+    {
+      "de": 2,
+      "ate": 2,
+      "texto": "Considerando que em 29 de Maio de 1993 cessou a comissão de serviço da licenciada Áurea Bebiano Costa e Moura, à data chefe de divisão na extinta Direcção-Geral da Qualidade do Ambiente;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retifica o nome no primeiro parágrafo do preâmbulo para 'Áurea Bebiano Costa e Moura' (unidade 2; o texto atual já tem 'Áurea' acentuado, alvo inequívoco)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

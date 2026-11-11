@@ -1,0 +1,79 @@
+{
+  "id": "pt:dre:527040:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 24,
+      "texto": "2.1 - Lotes destinados a equipamento - 27.382 m2\n\n2.2 - Lotes destinados a edifícios mistos: comércio, serviços e habitação - 30.525 m2\n\n2.3 - Frações destinadas a espaços verdes - 14.277 m2\n\n2.4 - Arruamentos e estacionamento - 28.706 m2\n\n3 - Área total de construção em edifícios de habitação, comércio e serviços - 16.550 m2\n\n4 - Área total de implantação de edifícios de habitação, comércio e serviços - 11.060 m2\n\n5 - População previsível - 341 habitantes.\n\n6 - Lotes destinados a equipamentos, habitação, comércio e serviços:\n\n6.1 - Designação do lote ou fração;",
+      "alterador": 1
+    },
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "6.3 - Área do lote ou fração;",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "6.7 - Área de construção;",
+      "alterador": 1
+    },
+    {
+      "de": 33,
+      "ate": 34,
+      "texto": "7 - Áreas de construção e de implantação complementares (integradas na habitação e anexos). - Serão consideradas áreas de construção e áreas de implantação complementares e supranumerárias, para além das indicadas no n.º 6, as seguintes:\n\n7.1 - Para os lotes destinados a edifícios de habitação unifamiliar isolada:",
+      "alterador": 1
+    },
+    {
+      "de": 47,
+      "ate": 47,
+      "texto": "7.2 - Para os lotes destinados a edifícios de habitação unifamiliar em banda aplicam-se, quando possível, as regras descritas nas alíneas a), d) e e) do n.º 7.1.",
+      "alterador": 1
+    },
+    {
+      "de": 49,
+      "ate": 51,
+      "texto": "9 - Junção de lotes - Os lotes destinados a moradias isoladas poderão ser agrupadas, nunca mais do que a duas, dando origem a um lote único, passando a área de construção, assim como a área de implantação, a ser, em cada agrupamento, igual ao somatório das áreas atribuídas a cada um dos lotes.\n\n10 - Estacionamento automóvel. - Cada lote destinado a habitação terá de prever na construção ou a descoberto, no seu interior, lugar para o estacionamento mínimo de dois carros.\n\n11 - Usos dos edifícios. - Nos edifícios destinados à habitação poderão eventualmente ocorrer outros usos, tais como: pequeno comércio diário, hotelaria e serviços (consultórios, gabinetes, ateliers, etc.).",
+      "alterador": 1
+    },
+    {
+      "de": 54,
+      "ate": 55,
+      "texto": "13 - Afastamentos, alinhamentos e recuos:\n\n13.1 - As construções habitacionais nos lotes para habitação unifamiliar isolada (I1 a I34), com frente igual ou superior a 20 m, possuirão os seguintes afastamentos mínimos e recuos obrigatórios:",
+      "alterador": 1
+    },
+    {
+      "de": 57,
+      "ate": 60,
+      "texto": "Lateral, ao lote contíguo: 5 m;\n\nTardoz, ao lote contíguo: 6 m.\n\nA fachada lateral poderá possuir um afastamento mínimo de 3 m ao lote contíguo, se esta fachada não possuir aberturas para compartimentos, tais como salas e quartos. Poderão estas fachadas possuir aberturas de iluminação e ventilação para instalações sanitárias, escadas, corredores, etc., se colocadas a uma altura que não interfira na privacidade do lote contíguo.\n\n13.2 - As construções habitacionais nos lotes para habitação unifamiliar em banda (B1 a B28) possuirão os seguintes afastamentos mínimos e recuos obrigatórios:",
+      "alterador": 1
+    },
+    {
+      "de": 62,
+      "ate": 63,
+      "texto": "Tardoz, ao lote contíguo: 6 m.\n\n13.3 - Os afastamentos mínimos, alinhamentos de fachada e recuos, referentes aos polígonos de implantação dos lotes E1, E7, M2, B28 a B32 e I35 a I37 estão representados na Planta de implantação. Salvaguardando-se o Lote E7 que não dispõe de recuo obrigatório, somente um recuo mínimo de 4 m.\n\n14 - Faseamento do plano de pormenor. - A implementação do Plano de Pormenor será faseada em função do programa de execução de infraestruturas:",
+      "alterador": 1
+    },
+    {
+      "de": 66,
+      "ate": 66,
+      "texto": "3.ª fase - Rua C e Impasse B;\n\n4.ª fase - Ligação viária da Praceta da Nossa Senhora da Orada com Rua D. João I, estacionamento público junto do lote E7 e prolongamento da Rua Capitão Salgueiro.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Aviso n.º 2821/2020: a nova redação do Quadro I (unidade 32) só vem em imagem, não aplicada. A republicação anexa difere da alteração em pormenores (n.º 1 «100.890», n.º 2 «Fracionamento», 7.1 d) «elétrico», n.º 10 «Cada fração»), não dados como alteração no artigo único; seguiu-se o artigo único de alteração.",
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação dos n.os 2.1, 2.2, 2.3, 2.4, 3, 4, 5, 6, 6.1, 6.3, 6.7 — substituídas as unidades 16-24, 26 e 30; 1, 2, 6.2, 6.4-6.6 e 6.8 com '...' mantidos.",
+    "Alterador 1, artigo único: Quadro I — só em imagem, não aplicado.",
+    "Alterador 1, artigo único: n.º 7 e 7.1 (corpo; alíneas a) a c) com '...') — unidades 33-34; 7.2 — unidade 47.",
+    "Alterador 1, artigo único: n.os 9, 10, 11 — unidades 49-51 (segundo parágrafo do 11 igual, mantido).",
+    "Alterador 1, artigo único: n.os 13, 13.1 e 13.2 — unidades 54-55, 57-60 e 62 ('fração' para 'lote', recuos); aditado o n.º 13.3 depois do 13.2.",
+    "Alterador 1, artigo único: n.º 14 — 'infraestruturas' (unidade 63) e 3.ª fase com ';' e nova 4.ª fase (unidade 66).",
+    "Alterador 1: republicação — não usada como fonte, ver nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

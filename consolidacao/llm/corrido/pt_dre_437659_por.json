@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:437659:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 1206/2000 substitui os quadros n.os 7, 8 e 9 do regime nocturno (anexo II), mas os quadros só vêm em imagem, no original e no alterador; não se aplica com segurança.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui os quadros n.os 7, 8 e 9 do regime nocturno; quadros só em imagem, não aplicado (nao_aplicavel).",
+    "Alterador 1, n.º 2.º: norma de aplicação própria; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

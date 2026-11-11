@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, ao Clube de Caça do Tarrafeirinho, com o número de pessoa colectiva 507189728, com sede no Apartado 197, 2000 Santarém, a zona de caça associativa do Tarrafeirinho (processo n.º 4216-DGRF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Coruche e Santana do Mato, município de Coruche, com a área de 3334 ha.",
+    "depois": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, ao Clube de Caça do Tarrafeirinho, com o número de pessoa colectiva 507189728, com sede no Apartado 197, 2000 Santarém, a zona de caça associativa do Tarrafeirinho (processo n.º 4216-DGRF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Coruche e Santana do Mato, município de Coruche, com uma área de 334 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:551845:por",
+    "alterador": "pt:dre:608232:por"
+  }
+]

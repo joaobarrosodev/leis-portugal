@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:455671:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "Pela [Portaria n.º 454/2002](https://diariodarepublica.pt/dr/detalhe/portaria/454-2002-288777), de 23 de Abril, alterada pela [Portaria n.º 1264-H/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1264-h-2004-616057), de 29 de Setembro, foi concessionada à Associação Recreativa de Caça e Pesca do Vale do Neiva a zona de caça associativa de Marrancos (processo n.º 2844-DGRF), situada no município de Vila Verde.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: retificação do nome da entidade no primeiro parágrafo - substituída a unidade 3."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

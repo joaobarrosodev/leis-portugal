@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:541669:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1430/2006 dá nova redação ao anexo (quadro de vagas), mas o anexo novo só vem em imagem ((ver documento original)); o anexo original também é imagem. Não se aplica texto.",
+  "instrucoes": [
+    "Nova redação do anexo (vagas de complemento de formação em Enfermagem) — só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

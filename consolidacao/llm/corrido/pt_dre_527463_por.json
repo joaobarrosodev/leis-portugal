@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:527463:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Ranhados, município de Meda, com a área de 2487 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 593/2005, 2.º: a planta anexa é substituída pela apensa ao alterador, que só vem em imagem; não aplicada.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2.º (área 2487 ha) — substituída a unidade 7, mantendo a numeração '2.º'.",
+    "Alterador 1, 2.º: substituição da planta anexa — só em imagem, não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

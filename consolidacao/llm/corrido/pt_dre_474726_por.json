@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:474726:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 464/99), n.º 2.º: revoga 'o n.º 7.º da Portaria n.º 697/95, de 28 de Junho', mas o original (de 3 de Julho) só tem os n.os 1.º e 2.º; a referência parece ser à Portaria n.º 678/95 (de 28 de Junho), alvo do resto do diploma. Não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: altera os n.os 2.º, 3.º, 4.º e 6.º da Portaria n.º 678/95 — outro diploma, ignorado.",
+    "Alterador 1, n.º 2.º: revogação do n.º 7.º, inexistente no original — não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

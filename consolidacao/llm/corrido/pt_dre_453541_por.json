@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:453541:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 362/2009 substitui a planta anexa à Portaria n.º 960/2008, que só existe em imagem (ver documento original); não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1, artigo único: substituição da planta anexa; anexo só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
