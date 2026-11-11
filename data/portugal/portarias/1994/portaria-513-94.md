@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-07-30'
+version_history:
+  file: portaria-513-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-07-30'
+    amending: pt:dre:307464:por
+    amending_title: Declaração de Rectificação n.º 108/94
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/513/1994/07/07/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:29:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 108/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-513-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,7 +143,9 @@ Ao abrigo do n.º 4 do artigo 10.º do [Decreto-Lei n.º 138/90](https://diariod
 
 Manda o Governo, pelos Ministros das Obras Públicas, Transportes e Comunicações, do Comércio e Turismo e do Ambiente e Recursos Naturais, o seguinte:
 
-1.º Fica sujeito à obrigatoriedade de indicação de preços a que se refere o artigo 10.º do [Decreto-Lei n.º 138/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1990-332222), de 26 de Abril, o custo do serviço telefónico cujo acesso é assegurado pelos empreendimentos turísticos, bem como nos estabelecimentos hoteleiros e similares dos hoteleiros.
+1.º Fica sujeito à obrigatoriedade de indicação de preços a que se refere o artigo 10.º do [Decreto-Lei n.º 138/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1990-332222), de 26 de Abril, o custo do serviço telefónico cujo acesso é assegurado pelos empreendimentos turísticos, nomeadamente pelos estabelecimentos hoteleiros e similares dos hoteleiros.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 108/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/108-1994-307464), publicado em 1994-07-30.
 
 2.º A tabela com a indicação do preço deve indicar a data da sua entrada em vigor.
 

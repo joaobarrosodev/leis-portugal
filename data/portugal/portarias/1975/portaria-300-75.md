@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-09-04'
+version_history:
+  file: portaria-300-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-05-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-09-04'
+    amending: pt:dre:307603:por
+    amending_title: Portaria n.º 540/75
+    changes:
+    - Altera Artigo unidades 20-20
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:43:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 540/75. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1975/portaria-300-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,7 +143,9 @@ c) Não tenham sido inibidos de conduzir nos últimos cinco anos por mais de tr�
 
 1.º Motoristas de automóveis-táxi da cidade de Coimbra com mais de dez anos de inscrição no Sindicato dos Motoristas do Distrito de Coimbra como sócios efectivos e, entre estes, aos que tenham exercido aquela profissão mais tempo nesta qualidade;
 
-2.º Cooperativa de motoristas profissionais inscritos no Sindicato dos Motoristas do Distrito de Coimbra como sócios efectivos.
+2.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 540/75](https://diariodarepublica.pt/dr/detalhe/portaria/540-1975-307603), publicado em 1975-09-04.
 
 8. Para efeitos da contagem do tempo referido no número anterior não serão considerados os períodos de interrupção do exercício efectivo da profissão, com excepção dos motivados por doença, devidamente comprovada.
 

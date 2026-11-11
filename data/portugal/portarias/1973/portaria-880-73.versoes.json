@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:410939:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1973-12-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ee1b58cc5a81d154"
+   ]
+  },
+  {
+   "date": "1979-03-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:383003:por",
+     "title": "Portaria n.º 138/79",
+     "published": "1979-03-30",
+     "dre_path": "/dr/detalhe/portaria/138-1979-383003"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 17-27"
+   ],
+   "fragments": [
+    "002460105c46c407"
+   ]
+  }
+ ],
+ "fragments": {
+  "ee1b58cc5a81d154": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Dezembro\n\nTornando-se necessário criar uma nova classe no quadro de oficiais da reserva naval e, bem assim, alterar a designação de uma das classes existentes:\n\nManda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:\n\n1.º O n.º 3.º da [Portaria n.º 21999](https://diariodarepublica.pt/dr/detalhe/portaria/21999-1966-472917), de 13 de Maio de 1966, passa a ter a redacção seguinte:\n\n3.º As classes e postos do quadro de oficiais da reserva naval são os seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/28800/23852385.pdf)\n\nA classe dos especialistas compreende vários ramos, definidos por despacho do Ministro da Marinha de acordo com as conveniências do serviço.\n\n2.º A designação «técnicos e especialistas» que figura nos n.os 10.º e 30.º da portaria referida no número anterior é substituída pela designação «especialistas».\n\n3.º Ao n.º 10.º da portaria citada é acrescentada uma nova alínea com a redacção seguinte:\n\n10.º ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Classes de técnicos - desempenho de funções equivalentes às que correspondem aos oficiais subalternos da classe de marinha, na medida em que a sua preparação e treino o permitam.\n\n4.º O n.º 3.º da [Portaria n.º 22016](https://diariodarepublica.pt/dr/detalhe/portaria/22016-1966-473492), de 26 de Maio de 1966, passa a ter a redacção seguinte:\n\n3.º As condições gerais e especiais de preferência para prestação de serviço na reserva naval são as seguintes:\n\na) Condições gerais de preferência:\n\n1) Ser voluntário ou oferecido;\n\n2) Possuir conhecimentos náuticos comprovados por documentação, nomeadamente cartas de patrão de costa ou de patrão de alto mar, obtidas em conformidade com o [Decreto-Lei n.º 37218](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37218-1948-370403), de 17 de Dezembro de 1948.\n\nb) Condições especiais de preferência:\n\n1) Classe de fuzileiros - Possuir melhores condições de aptidão para fuzileiro.\n\n2) Classe de técnicos. - Menor idade;\n\n3) Restantes classes. - Possuir melhores habilitações literárias referentes às especialidades que dão acesso à sua classe.\n\n5.º O n.º 4.º da portaria referida no número anterior passa a ter a seguinte redacção:\n\n4.º Os mancebos destinados a prestar serviço na reserva naval são observados por uma junta de recrutamento e selecção e os que forem seleccionados são alistados provisoriamente na mesma reserva como cadetes da respectiva classe.\n\nMinistério da Marinha, 30 de Novembro de 1973. - O Ministro da Marinha, Manuel Pereira Crespo."
+  },
+  "002460105c46c407": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1979-03-30",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 138/79](https://diariodarepublica.pt/dr/detalhe/portaria/138-1979-383003), publicado em 1979-03-30."
+   ],
+   "markdown": "de 12 de Dezembro\n\nTornando-se necessário criar uma nova classe no quadro de oficiais da reserva naval e, bem assim, alterar a designação de uma das classes existentes:\n\nManda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:\n\n1.º O n.º 3.º da [Portaria n.º 21999](https://diariodarepublica.pt/dr/detalhe/portaria/21999-1966-472917), de 13 de Maio de 1966, passa a ter a redacção seguinte:\n\n3.º As classes e postos do quadro de oficiais da reserva naval são os seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/28800/23852385.pdf)\n\nA classe dos especialistas compreende vários ramos, definidos por despacho do Ministro da Marinha de acordo com as conveniências do serviço.\n\n2.º A designação «técnicos e especialistas» que figura nos n.os 10.º e 30.º da portaria referida no número anterior é substituída pela designação «especialistas».\n\n3.º Ao n.º 10.º da portaria citada é acrescentada uma nova alínea com a redacção seguinte:\n\n10.º ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Classes de técnicos - desempenho de funções equivalentes às que correspondem aos oficiais subalternos da classe de marinha, na medida em que a sua preparação e treino o permitam.\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 138/79](https://diariodarepublica.pt/dr/detalhe/portaria/138-1979-383003), publicado em 1979-03-30.\n\nMinistério da Marinha, 30 de Novembro de 1973. - O Ministro da Marinha, Manuel Pereira Crespo."
+  }
+ }
+}

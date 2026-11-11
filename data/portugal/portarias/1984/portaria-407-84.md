@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-05-13'
+version_history:
+  file: portaria-407-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-06-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-05-13'
+    amending: pt:dre:152371:por
+    amending_title: Portaria n.º 254/85
+    changes:
+    - Altera Artigo unidades 6-14
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:03:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 254/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-407-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,23 +140,25 @@ Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional e d
 
 1.º A tabela de ajudas de custo constante da [Portaria n.º 868/83](https://diariodarepublica.pt/dr/detalhe/portaria/868-1983-439424), de 1 de Setembro, é substituída pela que seguidamente se publica, com efeitos a partir de 1 de Janeiro de 1984:
 
-Chefe do Estado-Maior-General das Forças Armadas e Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea ... 3440$00
+Chefe do Estado-Maior-General das Forças Armadas, Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea ... 4160$00
 
-Oficiais generais ... 2950$00
+Oficiais-generais ... 3570$00
 
-Oficiais superiores ... 2950$00
+Oficiais superiores ... 3570$00
 
-Outros oficiais, aspirantes a oficial e cadetes ... 2460$00
+Outros oficiais, aspirantes a oficial e cadetes ... 2980$00
 
-Sargentos-mores e sargentos-chefes ... 2460$00
+Sargentos-mor e sargentos-chefes ... 2980$00
 
-Outros sargentos, furriéis e subsargentos ... 2220$00
+Outros sargentos, furriéis e subsargentos ... 2690$00
 
-Primeiros-despenseiros, praças do grupo A da Armada e praças readmitidas, contratadas e convocadas do Exército e da Força Aérea ... 2220$00
+Primeiros-despenseiros, praças do grupo A da Armada e praças readmitidas, contratadas e convocadas do Exército e da Força Aérea ... 2690$00
 
-Primeiros-grumetes, segundos-grumetes alunos e segundos-grumetes da Armada, primeiros-cabos, segundos-cabos e soldados do Exército e da Força Aérea (ver nota a) ... 780$00
+Primeiros-grumetes, segundos-grumetes alunos e segundos-grumetes da Armada, primeiros-cabos, segundos-cabos e soldados do Exército e da Força Aérea (ver nota a) ... 950$00
 
-Outras praças (ver nota a) ... 490$00
+Outras praças (ver nota a) ... 600$00
+
+> Alterado pelo/a [Portaria n.º 254/85](https://diariodarepublica.pt/dr/detalhe/portaria/254-1985-152371), publicado em 1985-05-08.
 
 (nota a) Ajudas de custo a título de subsídio de alimentação.
 

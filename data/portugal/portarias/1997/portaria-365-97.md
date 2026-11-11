@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-06-30'
+version_history:
+  file: portaria-365-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-06-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-06-30'
+    amending: pt:dre:403285:por
+    amending_title: Declaração de Rectificação n.º 11-E/97
+    changes:
+    - Altera Artigo unidades 16-16
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/365/1997/06/02/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:02:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 11-E/97.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-365-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,7 +160,9 @@ O Ministro da Saúde concede a... a medalha... de dador benévolo de sangue, nos
 
 O Ministro da Saúde, ...
 
-O modelo de certificado de atribuição de medalhas a dadores tem as dimensões de 240 mm/355 mm, com esquadria inferior a negro, e em relevo, no medalhão central, o cunho da medalha do dador.»
+O modelo de certificado de atribuição de medalhas a dadores tem as dimensões de 240 mm/355 mm, com esquadria interior a dourado, e em relevo, no medalhão central, o cunho da medalha do dador.»
+
+> Alterado pelo/a [Declaração de Rectificação n.º 11-E/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-e-1997-403285), publicado em 1997-06-30.
 
 Ministério da Saúde.
 

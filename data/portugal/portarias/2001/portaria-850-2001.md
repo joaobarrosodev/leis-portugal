@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-08-31'
+version_history:
+  file: portaria-850-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-07-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-08-31'
+    amending: pt:dre:437856:por
+    amending_title: Declaração de Rectificação n.º 15-J/2001
+    changes:
+    - Altera Artigo unidades 9-12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/850/2001/07/26/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:34:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 15-J/2001.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-850-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,13 +151,15 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:
 
-a) 60%, relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;
+a) 40%, relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;
 
-b) 15%, relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;
+b) 10%, relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;
 
-c) 15%, relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;
+c) 25%, relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;
 
-d) 10% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º
+d) 25%, aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º
+
+> Alterado pelo/a [Declaração de Rectificação n.º 15-J/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-j-2001-437856), publicado em 2001-08-31.
 
 4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-12-08'
+version_history:
+  file: despacho-normativo-51-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-07-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-12-08'
+    amending: pt:dre:565254:por
+    amending_title: Despacho Normativo n.º 165/90
+    changes:
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:40:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 165/90. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1988/despacho-normativo-51-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,7 +161,9 @@ Ao abrigo do disposto no n.º 4 do artigo 16.º do [Decreto-Lei n.º 503/85](htt
 
 9 - No caso de mais de um concorrente oferecer o mesmo direito de compensação, a quantidade a adjudicar será rateada proporcionalmente às quantidades propostas, ficando o concorrente com o direito previsto na parte final do número seguinte.
 
-10 - Se, para respeitar o limite da quantidade do contingente posto a concurso, resultar a atribuição a um concorrente de uma quantidade inferior em mais de 10% à constante da sua proposta, este poderá, no prazo de 24 horas, requerer a retirada da mesma, sendo a respectiva caução libertada.
+10 - Se, para respeitar o limite da quantidade do contingente posto a concurso, resultar a atribuição a um concorrente de uma quantidade inferior em mais de 50% à constante da sua proposta, este poderá, no prazo de 24 horas, requerer a retirada da mesma, sendo a respectiva caução libertada.
+
+> Alterado pelo/a [Despacho Normativo n.º 165/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/165-1990-565254), publicado em 1990-12-07.
 
 11 - Os resultados do concurso estarão disponíveis na DGCE nas 24 horas seguintes ao termo do prazo para entrega das declarações a que se refere o n.º 2.
 

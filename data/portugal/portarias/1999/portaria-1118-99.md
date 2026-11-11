@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-08-01'
+version_history:
+  file: portaria-1118-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-08-01'
+    amending: pt:dre:197532:por
+    amending_title: Portaria n.º 892/2002
+    changes:
+    - Adita Artigo depois da unidade 10
+    - Altera Artigo unidades 26-33
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1118/1999/12/28/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:13:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 892/2002. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-1118-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,6 +194,20 @@ Plano de estudos
 
 É aprovado o plano de estudos do curso bietápico de licenciatura em Gestão Financeira e Fiscal do Instituto de Estudos Superiores Financeiros e Fiscais do Porto, cujo funcionamento foi autorizado pela [Portaria n.º 457-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/457-a-1998-300227), de 29 de Julho, alterada pela [Portaria n.º 680-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-a-1998-273989), de 31 de Agosto, nos termos do anexo à presente portaria.
 
+1.º-A
+
+Unidades curriculares de opção
+
+O elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino.
+
+1.º-B
+
+Duração do semestre lectivo
+
+O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.
+
+> Aditado pelo/a [Portaria n.º 892/2002](https://diariodarepublica.pt/dr/detalhe/portaria/892-2002-197532), publicado em 2002-07-27.
+
 2.º
 
 Número máximo de alunos
@@ -208,18 +238,54 @@ Pelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do 
 
 Curso de Gestão Financeira e Fiscal
 
-Grau de bacharel - 1.º ciclo
+Grau de bacharel
 
-[(ver quadros n.os 1 a 3 no documento original)](https://files.diariodarepublica.pt/1s/1999/12/300b00/93019304.pdf)
+1.º ciclo
+
+QUADRO N.º 1
+
+1.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)
+
+QUADRO N.º 2
+
+2.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)
+
+QUADRO N.º 3
+
+3.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)
+
+Grau de licenciado
+
+2.º ciclo
 
 Ramo de Finanças Empresariais
 
-Grau de licenciado - 2.º ciclo
+QUADRO N.º 4
 
-[(ver quadros n.os 4 e 5 no documento original)](https://files.diariodarepublica.pt/1s/1999/12/300b00/93019304.pdf)
+1.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)
 
 Ramo de Fiscalidade
 
-Grau de licenciado - 2.º ciclo
+QUADRO N.º 5
 
-[(ver quadros n.os 6 e 7 no documento original)](https://files.diariodarepublica.pt/1s/1999/12/300b00/93019304.pdf)
+1.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)
+
+Ramo de Instituições e Mercados Financeiros
+
+QUADRO N.º 6
+
+1.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)
+
+> Alterado pelo/a [Portaria n.º 892/2002](https://diariodarepublica.pt/dr/detalhe/portaria/892-2002-197532), publicado em 2002-07-27.

@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-12-30'
+version_history:
+  file: despacho-normativo-139-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-07-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-12-30'
+    amending: pt:dre:318149:por
+    amending_title: Despacho Normativo n.º 292/82
+    changes:
+    - Altera Artigo unidades 3-3
+    - Altera Artigo unidades 46-46
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:16:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 292/82. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1982/despacho-normativo-139-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,7 +131,9 @@ validation:
 
 Dando cumprimento ao disposto no artigo 13.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, com a nova redacção que lhe foi introduzida pelo [Decreto-Lei n.º 25/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1979-393621), de 19 de Fevereiro, e à Resolução do Conselho de Ministros n.º 61-A/81, de 10 de Fevereiro, o Ministro de Estado e das Finanças e do Plano e o Ministro da Habitação, Obras Públicas e Transportes determinam:
 
-1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1982 os projectos da CP - Caminhos de Ferro Portugueses, E. P., a seguir discriminados, cuja execução não deverá implicar a realização de uma formação bruta de capital fixo e de uma despesa de investimento superiores, respectivamente, a 3200000 contos e 3350200 contos.
+1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1982 os projectos da CP - Caminhos de Ferro Portugueses, E. P., a seguir discriminados, cuja execução deverá implicar a realização de uma formação bruta de capital fixo e de uma despesa de investimento superiores, respectivamente, a 2200000 contos e a 2350200 contos.
+
+> Alterado pelo/a [Despacho Normativo n.º 292/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/292-1982-318149), publicado em 1982-12-30.
 
 Projectos de desenvolvimento:
 
@@ -201,7 +219,9 @@ Aquisição de material circulante.
 
 3 - No presente ano fica vedado à empresa lançar e financiar qualquer projecto de investimento não contemplado nos n.os 1 e 2, salvo quando sujeito a autorização específica do Ministro de Estado e das Finanças e do Plano e do Ministro da Habitação, Obras Públicas e Transportes.
 
-4 - A despesa de investimento referida no n.º 1 será financiada por uma dotação de capital no montante de 2938 milhões de escudos. Esta e, eventualmente, outra dotação adicional poderão assumir a forma de empréstimo subordinado ou de quase capital, nos termos que venham a ser definidos.
+4 - A despesa de investimento referida no n.º 1 será financiada por uma dotação de capital no montante de 1938 milhões de escudos. Esta e eventualmente outra dotação adicional poderão assumir a forma de empréstimo subordinado ou de quase capital, nos termos que venham a ser definidos.
+
+> Alterado pelo/a [Despacho Normativo n.º 292/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/292-1982-318149), publicado em 1982-12-30.
 
 5 - É atribuído à CP - Caminhos de Ferro Portugueses, E. P., um subsídio não reembolsável no montante de 2354 milhões de escudos, a realizar por conta da dotação de 11000 milhões de escudos, inscrita no Orçamento Geral do Estado para 1982, que se destina a compensar a empresa, durante o corrente ano, pelas obrigações de serviço público que lhe são impostas pelo Estado ao abrigo do n.º 2 do artigo 29.º dos estatutos da empresa (anexos ao [Decreto-Lei n.º 109/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1977-139464), de 25 de Março).
 

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:360770:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-06-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "260cac55d8204756"
+   ]
+  },
+  {
+   "date": "1998-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:459408:por",
+     "title": "Portaria n.º 316/98",
+     "published": "1998-05-26",
+     "dre_path": "/dr/detalhe/portaria/316-1998-459408"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8"
+   ],
+   "fragments": [
+    "ded328225b2d534e"
+   ]
+  }
+ ],
+ "fragments": {
+  "260cac55d8204756": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Junho\n\nNos termos do n.º 3 do artigo 57.º, dos artigos 61.º e 62.º e do n.º 3 do artigo 64.º do Estatuto do Pessoal das Administrações dos Portos, aprovado pelo [Decreto-Lei n.º 101/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1988-286360), de 26 de Março, com a redacção do [Decreto-Lei n.º 316/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1991-618109), de 20 de Agosto:\n\nManda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administração do Território, o seguinte:\n\n1.º Os montantes da tabela de remunerações base e diuturnidades dos trabalhadores das administrações e juntas autónomas dos portos, estabelecidos pela [Portaria n.º 239/96](https://diariodarepublica.pt/dr/detalhe/portaria/239-1996-424146), de 4 de Julho, são actualizados em 2,3%, com efeitos a partir de 1 de Janeiro de 1997.\n\n2.º A tabela de remunerações dos titulares dos cargos de direcção e chefia das administrações e juntas autónomas dos portos, aprovada pela [Portaria n.º 239/96](https://diariodarepublica.pt/dr/detalhe/portaria/239-1996-424146), de 4 de Julho, é actualizada em 3%, com efeitos a partir de 1 de Janeiro de 1997, com arredondamento à centena de escudos imediatamente superior.\n\n3.º É extinto, com efeitos a partir de 1 de Julho de 1997, o prémio de rendibilidade previsto nos n.os 21.º e seguintes da [Portaria n.º 1238/95](https://diariodarepublica.pt/dr/detalhe/portaria/1238-1995-663876), de 12 de Outubro, integrando-se o respectivo montante na correspondente remuneração base, com arredondamento à centena de escudos imediatamente superior e sem prejuízo do disposto no número seguinte.\n\n4.º Os montantes de subsídio de turno e de isenção de horário de trabalho, o abono para falhas e o valor da remuneração horária para efeito de trabalho extraordinário, subsídio de prevenção e subsídio compensatório de trabalho por turnos continuarão a ser calculados com base na tabela resultante da aplicação do n.º 1.º da presente portaria.\n\n5.º Ficam revogados, a partir de 1 de Julho de 1997, os n.os 21.º, 22.º, 23.º e 24.º da [Portaria n.º 1238/95](https://diariodarepublica.pt/dr/detalhe/portaria/1238-1995-663876), de 12 de Outubro.\n\n6.º A presente portaria produz efeitos a partir de 1 de Janeiro de 1997.\n\nMinistério do Equipamento, do Planeamento e da Administração do Território.\n\nAssinada em 16 de Maio de 1997.\n\nO Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho."
+  },
+  "ded328225b2d534e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1998-05-31",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 316/98](https://diariodarepublica.pt/dr/detalhe/portaria/316-1998-459408), publicado em 1998-05-26."
+   ],
+   "markdown": "de 9 de Junho\n\nNos termos do n.º 3 do artigo 57.º, dos artigos 61.º e 62.º e do n.º 3 do artigo 64.º do Estatuto do Pessoal das Administrações dos Portos, aprovado pelo [Decreto-Lei n.º 101/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1988-286360), de 26 de Março, com a redacção do [Decreto-Lei n.º 316/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1991-618109), de 20 de Agosto:\n\nManda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administração do Território, o seguinte:\n\n1.º Os montantes da tabela de remunerações base e diuturnidades dos trabalhadores das administrações e juntas autónomas dos portos, estabelecidos pela [Portaria n.º 239/96](https://diariodarepublica.pt/dr/detalhe/portaria/239-1996-424146), de 4 de Julho, são actualizados em 2,3%, com efeitos a partir de 1 de Janeiro de 1997.\n\n2.º A tabela de remunerações dos titulares dos cargos de direcção e chefia das administrações e juntas autónomas dos portos, aprovada pela [Portaria n.º 239/96](https://diariodarepublica.pt/dr/detalhe/portaria/239-1996-424146), de 4 de Julho, é actualizada em 3%, com efeitos a partir de 1 de Janeiro de 1997, com arredondamento à centena de escudos imediatamente superior.\n\n3.º É extinto, com efeitos a partir de 1 de Julho de 1997, o prémio de rendibilidade previsto nos n.os 21.º e seguintes da [Portaria n.º 1238/95](https://diariodarepublica.pt/dr/detalhe/portaria/1238-1995-663876), de 12 de Outubro, integrando-se o respectivo montante na correspondente remuneração base, com arredondamento à centena de escudos imediatamente superior e sem prejuízo do disposto no número seguinte.\n\n4.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 316/98](https://diariodarepublica.pt/dr/detalhe/portaria/316-1998-459408), publicado em 1998-05-26.\n\n5.º Ficam revogados, a partir de 1 de Julho de 1997, os n.os 21.º, 22.º, 23.º e 24.º da [Portaria n.º 1238/95](https://diariodarepublica.pt/dr/detalhe/portaria/1238-1995-663876), de 12 de Outubro.\n\n6.º A presente portaria produz efeitos a partir de 1 de Janeiro de 1997.\n\nMinistério do Equipamento, do Planeamento e da Administração do Território.\n\nAssinada em 16 de Maio de 1997.\n\nO Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho."
+  }
+ }
+}

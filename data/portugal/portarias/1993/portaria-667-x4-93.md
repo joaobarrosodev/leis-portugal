@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-08-29'
+version_history:
+  file: portaria-667-x4-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-08-29'
+    amending: pt:dre:194612:por
+    amending_title: Portaria n.º 752/97
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/667-x4/1993/07/14/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:06:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 752/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-667-x4-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,7 +148,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos nas freguesias de Vidais e Landal, município das Caldas da Rainha, com uma área de 2978,4375 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Vidais e Landal, município das Caldas da Rainha, com a área de 2584,4375 ha.
+
+> Alterado pelo/a [Portaria n.º 752/97](https://diariodarepublica.pt/dr/detalhe/portaria/752-1997-194612), publicado em 1997-08-28.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 752/97](https://diariodarepublica.pt/dr/detalhe/portaria/752-1997-194612), publicado em 1997-08-28.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, ao Clube de Caçadores de Caldas da Rainha (registo no Instituto Florestal n.º 3.125.87), com sede na Avenida da Independência Nacional, 19, 7.º, esquerdo, Caldas da Rainha, a zona de caça associativa das freguesias de Vidais e Landal (processo n.º 1474 do Instituto Florestal).
 

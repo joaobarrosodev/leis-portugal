@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-09-03'
+version_history:
+  file: portaria-603-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-08-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-09-03'
+    amending: pt:dre:631451:por
+    amending_title: Portaria n.º 1045/2001
+    changes:
+    - Altera Artigo unidades 31-31
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/603/2000/08/14/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:24:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1045/2001. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-603-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,4 +193,6 @@ Curso de complemento de formação em Enfermagem
 
 Grau de licenciado
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/187b00/40064007.pdf)
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/200b00/55525553.pdf)
+
+> Alterado pelo/a [Portaria n.º 1045/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1045-2001-631451), publicado em 2001-08-29.

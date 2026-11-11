@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-12-30'
+version_history:
+  file: declaracao-retificacao-12-a-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-10-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-12-30'
+    amending: pt:dre:188556:por
+    amending_title: Declaração de Rectificação n.º 16-AI/2000
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declrectif/12-a/2000/10/06/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T18:55:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 16-AI/2000.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/declaracoes-retificacao/2000/declaracao-retificacao-12-a-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,7 +131,9 @@ Na alínea a), onde se lê «resolução e que dela fazem parte integrante» dev
 
 Na 1. 4 da subalínea eb), onde se lê «o Decreto-Lei n.º 23-A/97, de 20 de Maio» deve ler-se «o Decreto n.º 23-A/97, de 20 de Maio».
 
-A planta de ordenamento não foi, por lapso, publicada antes do Regulamento do Plano, pelo que se procede agora à sua publicação:
+O anexo a que se refere a alínea a) do texto da resolução, constituído por um extracto da planta de ordenamento, não foi, por lapso, publicado antes do Regulamento do Plano, pelo que se procede agora à sua publicação:
+
+> Alterado pelo/a [Declaração de Rectificação n.º 16-AI/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-ai-2000-188556), publicado em 2000-12-30.
 
 [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2000/10/231b01/00020003.pdf)
 

@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-03-31'
+version_history:
+  file: portaria-150-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-03-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-03-31'
+    amending: pt:dre:621327:por
+    amending_title: Declaração de Rectificação n.º 9-R/2001
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/150/2001/03/03/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:30:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 9-R/2001.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-150-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,7 +170,9 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Plano de estudos
 
-É aprovado o plano de estudos do curso de qualificação para o exercício de outras funções educativas na área de Educação Especial - Problemáticas de Risco da Escola Superior de Educação de Santarém, criado pela [Portaria n.º 281-B/99](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-1999-651148), de 24 de Abril, nos termos do anexo à presente portaria.
+É aprovado o plano de estudos do curso de qualificação para o exercício de outras funções educativas na área de Supervisão Pedagógica e Formação de Formadores da Escola Superior de Educação de Santarém, criado pela [Portaria n.º 281-B/99](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-1999-651148), de 24 de Abril, nos termos do anexo à presente portaria.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 9-R/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-r-2001-621327), publicado em 2001-03-31.
 
 2.º
 

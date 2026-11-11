@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-01-02'
+version_history:
+  file: portaria-1423-f-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-02'
+    amending: pt:dre:443909:por
+    amending_title: Decreto-Lei n.º 243/2008
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1423-f/2003/12/31/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:47:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 243/2008. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-1423-f-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,7 +156,9 @@ Manda o Governo, pelos Ministros das Finanças e da Economia, o seguinte:
 
 1.º Os preços de venda ao público da gasolina sem chumbo IO 95, do gasóleo rodoviário e do gasóleo colorido e marcado deixam de estar sujeitos ao regime de preços máximos de venda ao público.
 
-2.º Os operadores ficam obrigados a comunicar à Direcção-Geral de Geologia e Energia (DGGE) semanalmente, até às 12 horas de cada sexta-feira, o preço médio semanal de venda praticado para cada produto, por concelho, por posto e por tipo de posto. Deverão também ser comunicadas à DGGE as vendas anuais desses produtos, por concelho, por posto e por tipo de posto.
+2.º - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 243/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2008-443909), publicado em 2008-12-18.
 
 3.º Caso haja indícios ou suspeita de comportamento anticoncorrencial ou de abuso de poder de mercado por parte dos agentes (revendedores ou distribuidores), a DGGE deverá comunicá-los à Autoridade da Concorrência, fornecendo toda a informação que for solicitada.
 

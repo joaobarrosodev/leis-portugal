@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-03-30'
+version_history:
+  file: resolucao-conselho-ministros-4-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-02-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-03-30'
+    amending: pt:dre:477096:por
+    amending_title: Declaração de Rectificação n.º 52/91
+    changes:
+    - Altera Artigo unidades 2-2
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/4/1991/02/01/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:32:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 52/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1991/resolucao-conselho-ministros-4-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,7 +151,9 @@ validation:
 
 # Resolução do Conselho de Ministros n.º 4/91
 
-Ao abrigo do disposto na parte final da alínea b) do n.º 2 do artigo 4.º da [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), de 28 de Dezembro, do artigo 2.º da [Lei n.º 12/90](https://diariodarepublica.pt/dr/detalhe/lei/12-1990-332051), de 7 de Abril, conjugados com o estabelecido no artigo 14.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), no artigo 17.º do Decreto-Lei n.º 43454, ambos de 30 de Dezembro de 1960, e no artigo 11.º do [Decreto-Lei n.º 172-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-1986-518811), de 30 de Junho, entende o Governo prosseguir com as subscrições de títulos da dívida pública nominativos e amortizáveis, denominados «Certificados de aforro», sendo autorizada para o corrente ano, para aquela espécie de dívida, emissões que não poderão exceder 300 milhões de contos.
+Ao abrigo do disposto na alínea a) do n.º 2 do artigo 4.º da [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), de 28 de Dezembro, do artigo 2.º da [Lei n.º 12/90](https://diariodarepublica.pt/dr/detalhe/lei/12-1990-332051), de 7 de Abril, conjugados com o estabelecido no artigo 14.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), no artigo 17.º do Decreto-Lei n.º 43454, ambos de 30 de Dezembro de 1960, e no artigo 11.º do [Decreto-Lei n.º 172-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-1986-518811), de 30 de Junho, entende o Governo prosseguir com as subscrições de títulos da dívida pública nominativos e amortizáveis, denominados «Certificados de aforro», sendo autorizada para o corrente ano, para aquela espécie de dívida, emissões que não poderão exceder 300 milhões de contos.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 52/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/52-1991-477096), publicado em 1991-03-30.
 
 Assim:
 

@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-07-22'
+version_history:
+  file: portaria-118-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-02-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-07-22'
+    amending: pt:dre:394328:por
+    amending_title: Portaria n.º 731/2001
+    changes:
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 15-15
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/118/2001/02/23/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:28:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 731/2001. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-118-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,7 +138,9 @@ Manda o Governo, pelos Secretários de Estado da Comunicação Social e Adjunto 
 
 a) Tenham como objecto social a realização de inquéritos ou estudos de opinião;
 
-b) Tenham um capital social mínimo de 5000 contos;
+b) Tenham um capital social mínimo de 5000 contos, tratando-se de sociedades comerciais, ou dois anos de exercício efectivo da actividade, nos restantes casos;
+
+> Alterado pelo/a [Portaria n.º 731/2001](https://diariodarepublica.pt/dr/detalhe/portaria/731-2001-394328), publicado em 2001-07-17.
 
 c) Possuam um quadro mínimo permanente de três técnicos qualificados para a realização de sondagens de opinião;
 
@@ -136,7 +154,9 @@ b) Cópia autenticada do respectivo acto constitutivo;
 
 c) Identificação da estrutura e meios humanos afectos à área das sondagens, bem como do seu responsável técnico;
 
-d) Documentos curriculares do responsável e do pessoal técnico demonstrativos da experiência e capacidade exigível para a realização dos trabalhos a executar;
+d) Documentos curriculares do responsável e do pessoal técnico, demonstrativos da experiência e capacidade exigíveis para a realização dos trabalhos a executar e, tratando-se de entidades sem fins lucrativos, documentos que comprovem a realização de inquéritos ou estudos de opinião nos dois anos anteriores ao pedido;
+
+> Alterado pelo/a [Portaria n.º 731/2001](https://diariodarepublica.pt/dr/detalhe/portaria/731-2001-394328), publicado em 2001-07-17.
 
 e) Descrição pormenorizada das técnicas de recolha e tratamento de dados a utilizar, bem como dos princípios éticos pelos quais se pautará o exercício da sua actividade, tendo como referência mínima os códigos de conduta adoptados pela Associação Europeia para os Estudos de Opinião e de Marketing (ESOMAR).
 

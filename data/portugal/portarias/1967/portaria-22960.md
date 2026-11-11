@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-02-28'
+version_history:
+  file: portaria-22960.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-10-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-02-28'
+    amending: pt:dre:507394:por
+    amending_title: Portaria n.º 111/76
+    changes:
+    - Altera Artigo unidades 5-6
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:36:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 111/76. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1967/portaria-22960.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -102,9 +117,11 @@ Nestes termos, e para os efeitos do disposto no artigo 4.º do [Decreto-Lei n.º
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura:
 
-1.º É tornado obrigatório o registo, nas intendências de pecuária respectivas, das explorações suínas com mais de cinco animais e com qualquer número das que se dediquem à reprodução.
+1.º - (Revogado.)
 
-2.º Os proprietários dos suínos das explorações registadas ficam obrigados a indicar os efectivos que possuem referidos a 1 de Janeiro, 1 de Maio e 1 de Setembro de cada ano.
+2.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 111/76](https://diariodarepublica.pt/dr/detalhe/portaria/111-1976-507394), publicado em 1976-02-28.
 
 3.º Os impressos para registo das explorações suínas de que trata o n.º 1.º desta portaria, bem como os destinados a manifestar os efectivos suínos existentes nas datas indicadas no n.º 2.º, serão fornecidos gratuitamente pelas intendências de pecuária.
 

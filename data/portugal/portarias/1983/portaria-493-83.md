@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-10-02'
+version_history:
+  file: portaria-493-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-04-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-10-02'
+    amending: pt:dre:442927:por
+    amending_title: Portaria n.º 896/83
+    changes:
+    - Altera Artigo unidades 58-58
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:41:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 896/83. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-493-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -221,7 +236,9 @@ Os prazos de candidatura e de inscrição e o calendário lectivo serão fixados
 
 (Dispensa das provas complementares de doutoramento)
 
-Os titulares de aprovação no curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do grau de doutor em Engenharia Mecânica, nas especialidades de Máquinas Térmicas e de Tecnologia da Transferência de Calor.
+Os titulares de aprovação no curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do grau de doutor em Engenharia nas especialidades de Máquinas Térmicas, Tecnologia da Transferência de Calor e Mecânica dos Fluidos (compressíveis).
+
+> Alterado pelo/a [Portaria n.º 896/83](https://diariodarepublica.pt/dr/detalhe/portaria/896-1983-442927), publicado em 1983-09-27.
 
 13.º
 

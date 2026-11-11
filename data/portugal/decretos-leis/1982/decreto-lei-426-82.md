@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-09-07'
+version_history:
+  file: decreto-lei-426-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-10-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-09-07'
+    amending: pt:dre:370433:por
+    amending_title: Decreto-Lei n.º 303/88
+    changes:
+    - Altera Artigo unidades 20-23
+    - Altera Artigo unidades 30-30
+    - Altera Artigo unidades 31-31
 identifiers:
   celex: null
   eli: null
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:46:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 303/88. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-426-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,13 +153,19 @@ b) Participar na redistribuição no mercado de determinados riscos de natureza 
 
 Art. 5.º - 1 - O capital social inicial, integralmente realizado, é de 250000 contos, dividido em acções de 1000$00 cada uma.
 
-2 - Apenas podem deter acções da sociedade as seguintes entidades:
+2 - As acções da sociedade devem obrigatoriamente ser detidas pelas seguintes entidades:
 
-a) O Estado;
+a) Estado;
 
-b) As empresas públicas de seguros e os fundos existentes no âmbito da actividade seguradora;
+b) Empresas públicas;
 
-c) Quaisquer outras empresas públicas que não as referidas na alínea anterior.
+c) Sociedades anónimas de capitais maioritária ou exclusivamente públicos;
+
+d) Fundos existentes no âmbito da actividade seguradora;
+
+e) Quaisquer outras entidades públicas que não as referidas na alínea anterior.
+
+> Alterado pelo/a [Decreto-Lei n.º 303/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1988-370433), publicado em 1988-09-02.
 
 Art. 6.º - 1 - As acções são nominativas.
 
@@ -156,9 +179,13 @@ Art. 7.º - 1 - O aumento de capital depende, como regra, de deliberação da as
 
 3 - A realização dos aumentos de capital pode ser efectuada escalonadamente, nos termos que forem fixados pela assembleia geral.
 
-4 - Quando, num aumento de capital, haja accionistas que renunciem à subscrição de acções que lhe caberiam, poderão as mesmas ser subscritas pelos demais accionistas, na proporção das suas participações.
+4 - (Revogado.)
 
-Art. 8.º As acções só podem ser alienadas entre accionistas ou às entidades referidas no n.º 2 do artigo 5.º
+> Alterado pelo/a [Decreto-Lei n.º 303/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1988-370433), publicado em 1988-09-02.
+
+Art. 8.º As alienações de acções da sociedade não podem contrariar o disposto no n.º 2 do artigo 5.º
+
+> Alterado pelo/a [Decreto-Lei n.º 303/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1988-370433), publicado em 1988-09-02.
 
 ### CAPÍTULO III — Órgãos sociais
 

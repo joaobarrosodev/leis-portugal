@@ -28,10 +28,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-10-02'
+version_history:
+  file: resolucao-6-82-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-08-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-10-02'
+    amending: pt:dre:375419:por
+    amending_title: Declaração
+    changes:
+    - Altera Artigo unidades 62-62
+    - Altera Artigo unidades 67-67
+    - Altera Artigo unidades 85-85
+    - Altera Artigo unidades 147-147
 identifiers:
   celex: null
   eli: null
@@ -57,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:32:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/regional/acores/resolucoes/1982/resolucao-6-82-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -222,7 +240,9 @@ A Assembleia Regional é do parecer de adoptar a alínea l) do artigo 229.º, (p
 
 A Assembleia Regional preconiza o texto da alínea m) do artigo 229.º do projecto da AD, por corresponder a uma redacção mais correcta, pondo termo a relações entre causa e efeito que não eram inteiramente exactas.
 
-19 - Proposta de aditamento de uma alínea m) ao artigo 229.º, de acordo com projecto da FRS, artigo 126.º, n.º 6, a p. 89:
+19 - Artigo 229.º, alínea m), proposta de aditamento de uma alínea m) ao artigo 229.º, de acordo com projecto da FRS, artigo 126.º, n.º 6, a p. 89:
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375419), publicado em 1982-10-02.
 
 A Assembleia Regional é de parecer ser de adoptar aquela proposta, em virtude de ampliar o direito de participação política.
 
@@ -232,7 +252,9 @@ Aprovado o aditamento constante da proposta da AD (p. 52), por consagrar uma amp
 
 21 - Artigo 230.º:
 
-O artigo 230.º, como é reconhecido pelos comentadores, integra, na sua maior parte, proibições e limites já constantes de outros passos da Constituição. Acham-se nesta situação as matérias da sua alínea b), quanto ao trânsito de pessoas (cf. Constituição, artigos 17.º, 18.º e 44.º, n.º 1), e as da sua alínea c) [cf. Constituição, artigos 13.º, 17.º, 18.º, 51.º e 167.º, alínea c)]. Constituíram inovação restrita a matéria da alínea a), quanto aos direitos não garantidos constitucionalmente, seja em termos materiais, seja em termos orgânico-formais, e as restrições quanto ao trânsito de bens.
+O artigo 230.º, como é reconhecido pelos comentadores, integra, na sua maior parte, proibições e limites já constantes de outros passos da Constituição. Acham-se nesta situação as matérias da sua alínea b), quanto ao trânsito de pessoas (cf. Constituição, artigos 17.º, 18.º e 44.º, n.º 1), e as da sua alínea c) [cf. Constituição, artigos 13.º, 17.º, 18.º, 51.º e 167.º, alínea c)]. Constituíram inovação restritiva a matéria da alínea a), quanto aos direitos não garantidos constitucionalmente, seja em termos materiais, seja em termos orgânico-formais, e as restrições quanto ao trânsito de bens.
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375419), publicado em 1982-10-02.
 
 Relativamente à alínea a), entende-se que ela não pode ser mantida. Os direitos ditos fundamentais dos trabalhadores acham-se garantidos pela Constituição nos artigos 51.º a 60.º
 
@@ -268,7 +290,9 @@ O Ministro da República superintende nas funções administrativa exercidas pel
 
 24 - Artigo 233.º:
 
-A assembleia entende adoptar o projecto da AD, por conter melhorias formais e uma explicitação útil, consistente na referência expressa às relações regionais. Entende-se, ainda, que o actual n.º 3 deve ser eliminado, por estabelecer limitações que, por muito exactas que sejam, só devem ter lugar no Estatuto da Região.
+A assembleia entende adoptar o projecto da AD, por conter melhorias formais e uma explicitação útil, consistente na referência expressa às eleições regionais. Entende-se, ainda, que o actual n.º 3 deve ser eliminado, por estabelecer limitações que, por muito exactas que sejam, só devem ter lugar no Estatuto da Região.
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375419), publicado em 1982-10-02.
 
 25 - Artigo 234.º:
 
@@ -392,7 +416,9 @@ A possibilidade de autorizações legislativas às Assembleias Regionais - em ma
 
 36 - Artigo 170.º, n.º 4:
 
-A Assembleia é favorável ao novo n.º 4 do artigo 17.º do projecto da AD por o mesmo explicitar um entendimento que parece mais adequado.
+A Assembleia é favorável ao novo n.º 4 do artigo 170.º do projecto da AD por o mesmo explicitar um entendimento que parece mais adequado.
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375419), publicado em 1982-10-02.
 
 37 - Artigo 170.º, n.º 6:
 

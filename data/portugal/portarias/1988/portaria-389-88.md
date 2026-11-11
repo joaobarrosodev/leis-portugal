@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-05-28'
+version_history:
+  file: portaria-389-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-06-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-05-28'
+    amending: pt:dre:610903:por
+    amending_title: Portaria n.º 367/89
+    changes:
+    - Altera Artigo unidades 14-14
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:29:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 367/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-389-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,7 +171,9 @@ Assim, ao abrigo do disposto no artigo 201.º do [Decreto n.º 45266](https://di
 
 Manda o Governo, pelo Secretário de Estado da Segurança Social, que a tabela inserta na [Portaria n.º 301/87](https://diariodarepublica.pt/dr/detalhe/portaria/301-1987-666135), de 10 de Abril, seja substituída pela seguinte, com efeitos a partir de 1 de Janeiro de 1988:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/13800/25012502.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/11800/20422043.pdf)
+
+> Alterado pelo/a [Portaria n.º 367/89](https://diariodarepublica.pt/dr/detalhe/portaria/367-1989-610903), publicado em 1989-05-23.
 
 Ministério do Emprego e da Segurança Social.
 

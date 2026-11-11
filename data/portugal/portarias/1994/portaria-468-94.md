@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-07'
+version_history:
+  file: portaria-468-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-07'
+    amending: pt:dre:642901:por
+    amending_title: Portaria n.º 838/97
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/468/1994/07/01/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:28:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 838/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-468-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -174,7 +190,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Cebolais de Cima, município de Castelo Branco, com uma área de 1003,8550 ha, e na freguesia de Perais, município de Vila Velha de Ródão, com uma área de 858,16 ha, perfazendo uma área de 1862,0150 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Cebolais de Cima e Perais, municípios de Castelo Branco e Vila Velha de Ródão, com a área de 1486,4470 ha.
+
+> Alterado pelo/a [Portaria n.º 838/97](https://diariodarepublica.pt/dr/detalhe/portaria/838-1997-642901), publicado em 1997-09-06.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 838/97](https://diariodarepublica.pt/dr/detalhe/portaria/838-1997-642901), publicado em 1997-09-06.
 
 2.º Pelo presente diploma é concessionada, pelo período de 10 anos, à Associação Desportiva de Caça e Pesca de Cebolais de Cima (registo no Instituto Florestal n.º 2.1252.92), com sede na Avenida do Infante D. Henrique, 1, Cebolais de Cima, Castelo Branco, a zona de caça associativa de Cebolais de Cima (processo n.º 1530 do Instituto Florestal).
 

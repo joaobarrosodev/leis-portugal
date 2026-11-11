@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-09-04'
+version_history:
+  file: despacho-normativo-87-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-10-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-09-04'
+    amending: pt:dre:557000:por
+    amending_title: Despacho Normativo n.º 87/90
+    changes:
+    - Altera Artigo unidades 22-22
+    - Altera Artigo unidades 38-39
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:41:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 87/90. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1988/despacho-normativo-87-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -153,7 +169,9 @@ h) Demonstração do sistema contabilístico referente às existências de merca
 
 5 - Os armazéns de exportação deverão preencher os seguintes requisitos:
 
-a) Dimensão que permita responder às necessidades de armazenagem resultantes do volume de tráfego do requerente, não podendo, no continente, a área coberta ser inferior a 500 m2;
+a) Dimensão que permita responder às necessidades de armazenagem resultantes do volume de tráfego do requerente e, tratando-se de armazéns de exportação autorizados às empresas referidas nas alíneas b) e c) do n.º 2, não pode, no continente, a área coberta ser inferior a 500 m2;
+
+> Alterado pelo/a [Despacho Normativo n.º 87/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/87-1990-557000), publicado em 1990-08-30.
 
 b) Serem constituídos em instalações pertencentes à empresa requerente ou que, não sendo da sua propriedade, aquela prove estarem em condições legais de poder utilizar, nomeadamente através da exibição da escritura do contrato que legitime a utilização do armazém ou da exibição dos respectivos recibos das rendas;
 
@@ -185,9 +203,11 @@ Nestas condições, o director-geral das Alfândegas poderá permitir que a áre
 
 11 - É excluída a responsabilidade do titular do armazém sempre que as situações previstas no número anterior ocorram por culpa do exportador, nomeadamente em virtude da prestação de falsas declarações quanto ao conteúdo dos volumes.
 
-12 - Para garantia da responsabilidade estabelecida no n.º 10, o titular da autorização prestará caução por depósito ou fiança bancária, de montante a fixar pelo director da alfândega, tendo em conta, nomeadamente, a capacidade média de armazenagem e a carga fiscal de que as mercadorias possam ser passíveis no caso de desvio do fim a que se destinam ou de exportação sem o processamento dos competentes documentos aduaneiros (exportação e trânsito, se for caso disso).
+12 - Para garantia da responsabilidade estabelecida no n.º 10, o titular da autorização prestará caução por depósito, fiança bancária ou seguro-caução, de montante a fixar pelo director da alfândega, tendo em conta, nomeadamente, a capacidade média de armazenagem e a carga fiscal de que as mercadorias possam ser passíveis no caso de desvio do fim a que se destinam ou de exportação sem o processamento dos competentes documentos aduaneiros (exportação e trânsito, se for caso disso).
 
-O montante da garantia referida poderá ser modificado anualmente pelo director da alfândega, quer por iniciativa própria quer por solicitação do próprio titular, em função do movimento de mercadorias verificado no ano anterior.
+O montante da garantia referida poderá ser modificado anualmente pelo director da alfândega, quer por iniciativa própria, quer por solicitação do próprio titular, em função do movimento de mercadorias verificado no ano anterior.
+
+> Alterado pelo/a [Despacho Normativo n.º 87/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/87-1990-557000), publicado em 1990-08-30.
 
 13 - O titular da autorização deverá dispor de uma contabilidade organizada, utilizando o inventário permanente, a qual deverá ser submetida à aprovação das autoridades aduaneiras nos termos da alínea h) do n.º 4, de modo a permitir a estas um controle imediato sobre as mercadorias entradas em armazém, quer se trate de mercadorias já declaradas para exportação quer de carga em trânsito ou destinada a ser reexpedida ou reexportada.
 

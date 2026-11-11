@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-04-24'
+version_history:
+  file: portaria-22869.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-09-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-04-24'
+    amending: pt:dre:266129:por
+    amending_title: Portaria n.º 318/74
+    changes:
+    - Altera Artigo unidades 27-28
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:34:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 318/74. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1967/portaria-22869.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,9 +164,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 15.º O disposto no artigo 1793.º é aplicável nas acções pendentes e nos processos findos à data da entrada em vigor do Código Civil.
 
-16.º - 1. Até 31 de Maio de 1968 pode o marido da mãe intentar acção de impugnação da paternidade, com fundamento em qualquer dos factos referidos nas alíneas c) e d) do artigo 1817.º do Código Civil, relativamente ao filho nascido antes da entrada em vigor deste diploma, com prejuízo do disposto no artigo 1818.º
+16. - 1. Até 31 de Dezembro de 1977 pode o marido da mãe intentar acção de impugnação de paternidade, com fundamento em qualquer dos factos referidos nas alíneas c) e d) do artigo 1817.º do Código Civil, admitindo-se até essa data a impugnação oficiosa da legitimidade de menores de qualquer idade, em ambos os casos independentemente da data do nascimento destes.
 
-2. Dentro do mesmo prazo serão recebidos nos tribunais de menores os requerimentos a que se refere o artigo 1820.º, seguindo-se os demais termos da impugnação oficiosa, desde que o filho tenha menos de catorze anos de idade à data da apresentação do requerimento.
+2. O requerimento do Ministério Público para a impugnação oficiosa poderá igualmente ser feito, dentro do prazo e nas condições a que se refere o número anterior, pela mãe do filho de cuja legitimidade se trate.
+
+> Alterado pelo/a [Portaria n.º 318/74](https://diariodarepublica.pt/dr/detalhe/portaria/318-1974-266129), publicado em 1974-04-24.
 
 17.º O facto de se ter esgotado o período a que se refere o n.º 1 do artigo 1854.º não impede que as acções de investigação de maternidade ou paternidade ilegítima sejam propostas até 31 de Dezembro de 1968, desde que não tenha caducado antes, em face da legislação anterior, o direito de as propor.
 

@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-07-30'
+version_history:
+  file: portaria-372-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-06-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-07-30'
+    amending: pt:dre:307461:por
+    amending_title: Declaração de Rectificação n.º 104/94
+    changes:
+    - Altera Artigo unidades 3-3
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/372/1994/06/14/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:26:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 104/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-372-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,7 +131,9 @@ validation:
 
 de 14 de Junho
 
-Pela [Portaria n.º 1053/90](https://diariodarepublica.pt/dr/detalhe/portaria/1053-1990-555993), de 12 de Outubro, foi concessionada ao Clube de Caçadores das Cortes da Venda uma zona de caça associativa pelo período de 12 anos (processo n.º 453 da DGF).
+Pela [Portaria n.º 1052/90](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1990-555992), de 12 de Outubro, foi concessionada ao Clube de Caçadores das Cortes da Venda uma zona de caça associativa pelo período de 12 anos (processo n.º 453 da DGF).
+
+> Alterado pelo/a [Declaração de Rectificação n.º 104/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/104-1994-307461), publicado em 1994-07-30.
 
 Por efeito desta concessão, ficou o Clube de Caçadores das Cortes da Venda, como titular da zona de caça, sujeito ao cumprimento das obrigações legais e das decorrentes do plano de ordenamento e exploração cinegético.
 
@@ -129,7 +147,9 @@ Assim, com fundamento na alínea b) do n.º 1 do artigo 85.º do [Decreto-Lei n.
 
 Manda o Governo, pelo Ministro da Agricultura o seguinte:
 
-1.º É revogada a [Portaria n.º 1053/90](https://diariodarepublica.pt/dr/detalhe/portaria/1053-1990-555993), de 12 de Outubro, extinguindo-se, em consequência, a concessão para exploração cinegética na modalidade de zona de caça associativa atribuída ao Clube de Caçadores das Cortes da Venda.
+1.º É revogada a [Portaria n.º 1052/90](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1990-555992), de 12 de Outubro, extinguindo-se, em consequência, a concessão para exploração cinegética na modalidade de zona de caça associativa atribuída ao Clube de Caçadores das Cortes da Venda.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 104/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/104-1994-307461), publicado em 1994-07-30.
 
 2.º Fica o Clube de Caçadores das Cortes da Venda obrigado a proceder ao levantamento das tabuletas de sinalização no prazo de 30 dias contados do início da vigência do presente diploma.
 

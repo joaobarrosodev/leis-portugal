@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-10-16'
+version_history:
+  file: portaria-497-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-08-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-10-16'
+    amending: pt:dre:328451:por
+    amending_title: Portaria n.º 616/78
+    changes:
+    - Altera Artigo unidades 58-58
+    - Altera Artigo unidades 68-68
+    - Altera Artigo unidades 103-103
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:42:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 616/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1978/portaria-497-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -236,7 +253,9 @@ Lista de segundos-sargentos a não promover ao posto de primeiro-sargento por n�
 
 que posteriormente são enviadas para a Direcção do Serviço de Pessoal até 10 de Novembro, que, por sua vez, verifica as listas e submete-as a despacho ao general ajudante-general do Exército até 25 de Novembro.
 
-c) Os segundos-sargentos que constem «da lista a promover a primeiro-sargento», mas que não satisfaçam a condição especial referente a habilitações literárias, só serão promovidos, dentro do prazo de validade da lista, quando fizerem nova prova na Direcção do Serviço de Pessoal de possuírem a habilitação literária em falta. A data de promoção deverá reportar-se ao dia imediato àquele em que o sargento completa a condição de promoção em falta.
+c) Os segundos-sargentos que constem da lista a promover a primeiro-sargento, mas que não satisfaçam a condição especial referente a habilitações literárias, só serão promovidos, dentro do prazo de validade da lista, quando fizerem prova na Direcção do Serviço de Pessoal de possuírem a habilitação literária em falta. A data de promoção deverá reportar-se ao dia imediato àquele em que o sargento completa a condição de promoção em falta.
+
+> Alterado pelo/a [Portaria n.º 616/78](https://diariodarepublica.pt/dr/detalhe/portaria/616-1978-328451), publicado em 1978-10-16.
 
 d) Um segundo-sargento que não satisfaça a condição especial relativa a habilitações literárias poderá constar apenas três vezes consecutivas na relação anual dos segundos-sargentos a apreciar para promoção a primeiro-sargento, depois do que deixará de figurar nesse quantitativo. Posteriormente, a sua inclusão na referida lista só se fará depois de ter feito prova na Direcção do Serviço de Pessoal da habilitação literária que não possuía.
 
@@ -256,7 +275,9 @@ d) Os primeiros-sargentos que percam por doença ou desastre que não se enquadr
 
 e) Aos primeiros-sargentos nomeados para o curso de promoção a sargento-ajudante que não possam frequentar ou o tenham interrompido por factos que se enquadrem no disposto no [Decreto-Lei n.º 35/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1978-446527), de 17 de Fevereiro (e declaração inserta no Diário da República, n.º 65, de 18 de Março de 1978), são aplicadas as determinações referidas neste diploma.
 
-11 - A promoção ao posto de sargento-ajudante é feita de acordo com a escala reformulada de primeiros-sargentos, conforme se refere no n.º 1 da presente portaria e no artigo 21.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro, e Portarias n.os [388/77](https://diariodarepublica.pt/dr/detalhe/portaria/388-1977-250040) e [389/77](https://diariodarepublica.pt/dr/detalhe/portaria/389-1977-250037), ambas de 27 de Junho.
+11 - A promoção ao posto de sargento-ajudante é feita de acordo com a escala reformulada de primeiros-sargentos, conforme se refere no n.º 10 da presente portaria e no artigo 21.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro, e Portarias n.os [388/77](https://diariodarepublica.pt/dr/detalhe/portaria/388-1977-250040) e [389/77](https://diariodarepublica.pt/dr/detalhe/portaria/389-1977-250037), ambas de 27 de Junho.
+
+> Alterado pelo/a [Portaria n.º 616/78](https://diariodarepublica.pt/dr/detalhe/portaria/616-1978-328451), publicado em 1978-10-16.
 
 a) Anualmente são apreciados, para efeitos de possível inclusão em escala de «a não promover», os primeiros-sargentos que no ano da apreciação reunirem as condições especiais de promoção ao posto de sargento-ajudante, independentemente de terem sido apreciados no ano anterior.
 
@@ -326,6 +347,8 @@ c) A Direcção do Serviço de Pessoal, tanto nas promoções a sargento-ajudant
 
 d) Após a recepção das listas e dos processos referidos na alínea anterior, general ajudante-general do Exército proferirá, no período de trinta e cinco dias, despacho sobre a organização das mesmas.
 
-15 - Disposições finais. - Para proceder à apreciação dos sargentos os conselhos das armas e dos serviços observam regras idênticas às que forem estabelecidas para apreciação de oficiais e que constam do n.º 12 da [Portaria n.º 567/77](https://diariodarepublica.pt/dr/detalhe/portaria/567-1977-285969), de 15 de Setembro.
+15 - Disposições finais. - Para proceder à apreciação dos sargentos os conselhos das armas e dos serviços observam regras idênticas às que forem estabelecidas para apreciação de oficiais e que constam do n.º 12 da [Portaria n.º 576/77](https://diariodarepublica.pt/dr/detalhe/portaria/576-1977-286086), de 15 de Setembro.
+
+> Alterado pelo/a [Portaria n.º 616/78](https://diariodarepublica.pt/dr/detalhe/portaria/616-1978-328451), publicado em 1978-10-16.
 
 Estado-Maior do Exército, 24 de Agosto de 1978. - O Chefe do Estado-Maior do Exército, Pedro Alexandre Gomes Cardoso, general.

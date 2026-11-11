@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:392648:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-07-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c023cb7543f7e6c8"
+   ]
+  },
+  {
+   "date": "1993-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:451190:por",
+     "title": "Declaração de Rectificação n.º 193/93",
+     "published": "1993-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/193-1993-451190"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8"
+   ],
+   "fragments": [
+    "effd664d7901e274"
+   ]
+  }
+ ],
+ "fragments": {
+  "c023cb7543f7e6c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo em vista tornar claros e precisos os termos da atribuição de incentivos financeiros aos promotores, individuais ou associados, de programas de concertos ou ciclos de concertos, foram fixadas regras reguladoras da respectiva atribuição pelo [Despacho Normativo n.º 121/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/121-1992-300259), de 14 de Julho.\n\nTais normas, elaboradas no início de 1992, vieram na prática a revelar-se completamente inadequadas e em certos aspectos tornar-se um factor de perturbação na atribuição de incentivos.\n\nAssim, por exemplo, a aplicação do n.º 2 do artigo 9.º do regulamento aprovado por aquele despacho, que vincula o júri a atribuir, «atendendo à graduação estabelecida», «incentivos de montante igual ao solicitado pelos candidatos, até à concorrência da verba global afecta ao respectivo concurso», leva a que só poucos projectos apresentados possam ser contemplados, o que se torna contraproducente. Efectivamente, parece que o normal deveria ser o rateio da verba global pelos vários projectos contemplados e não a regra contida no regulamento.\n\nNestes termos, impõe-se desde já revogar o referido despacho normativo e, em seguida, proceder à sua revisão.\n\nAssim:\n\nAo abrigo da alínea d) do artigo 5.º do [Decreto-Lei n.º 106-H/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-h-1992-410289), de 1 de Junho, bem como do artigo 1.º e da alínea a) do artigo 2.º do [Decreto-Lei n.º 102/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1980-442304), de 9 de Maio, determina-se o seguinte:\n\n1 - É revogado o [Despacho Normativo n.º 191/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/191-1992-225801), de 14 de Julho.\n\n2 - O presente despacho normativo produz efeitos desde 12 de Fevereiro de 1993.\n\nPresidência do Conselho de Ministros, 22 de Junho de 1993. - O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes."
+  },
+  "effd664d7901e274": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1993-09-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 193/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/193-1993-451190), publicado em 1993-09-30."
+   ],
+   "markdown": "Tendo em vista tornar claros e precisos os termos da atribuição de incentivos financeiros aos promotores, individuais ou associados, de programas de concertos ou ciclos de concertos, foram fixadas regras reguladoras da respectiva atribuição pelo [Despacho Normativo n.º 121/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/121-1992-300259), de 14 de Julho.\n\nTais normas, elaboradas no início de 1992, vieram na prática a revelar-se completamente inadequadas e em certos aspectos tornar-se um factor de perturbação na atribuição de incentivos.\n\nAssim, por exemplo, a aplicação do n.º 2 do artigo 9.º do regulamento aprovado por aquele despacho, que vincula o júri a atribuir, «atendendo à graduação estabelecida», «incentivos de montante igual ao solicitado pelos candidatos, até à concorrência da verba global afecta ao respectivo concurso», leva a que só poucos projectos apresentados possam ser contemplados, o que se torna contraproducente. Efectivamente, parece que o normal deveria ser o rateio da verba global pelos vários projectos contemplados e não a regra contida no regulamento.\n\nNestes termos, impõe-se desde já revogar o referido despacho normativo e, em seguida, proceder à sua revisão.\n\nAssim:\n\nAo abrigo da alínea d) do artigo 5.º do [Decreto-Lei n.º 106-H/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-h-1992-410289), de 1 de Junho, bem como do artigo 1.º e da alínea a) do artigo 2.º do [Decreto-Lei n.º 102/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1980-442304), de 9 de Maio, determina-se o seguinte:\n\n1 - É revogado o [Despacho Normativo n.º 121/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/121-1992-300259), de 14 de Julho.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 193/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/193-1993-451190), publicado em 1993-09-30.\n\n2 - O presente despacho normativo produz efeitos desde 12 de Fevereiro de 1993.\n\nPresidência do Conselho de Ministros, 22 de Junho de 1993. - O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes."
+  }
+ }
+}

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-05-17'
+version_history:
+  file: portaria-815-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-11-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-05-17'
+    amending: pt:dre:296241:por
+    amending_title: Portaria n.º 278/78
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:15:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 278/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1973/portaria-815-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,7 +133,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunic
 
 a) Empresas exploradoras de veículos ligeiros de aluguer para transporte de passageiros: seis veículos;
 
-b) Empresas exploradoras de veículos ligeiros de aluguer para transporte de mercadorias: 10 t;
+b) Empresas exploradoras de veículos ligeiros de aluguer para transporte de mercadorias - 4 t;
+
+> Alterado pelo/a [Portaria n.º 278/78](https://diariodarepublica.pt/dr/detalhe/portaria/278-1978-296241), publicado em 1978-05-17.
 
 c) Empresas exploradoras de veículos pesados, ou ligeiros e pesados conjuntamente, de aluguer para transporte de mercadorias: 40 t.
 

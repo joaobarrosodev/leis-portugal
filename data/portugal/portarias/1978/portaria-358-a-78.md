@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-10-20'
+version_history:
+  file: portaria-358-a-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-07-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-10-20'
+    amending: pt:dre:328043:por
+    amending_title: Portaria n.º 631/78
+    changes:
+    - Altera Artigo unidades 7-8
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:39:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 631/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1978/portaria-358-a-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,9 +125,11 @@ Manda o Governo da República Portuguesa, pelo Ministro da Habitação e Obras P
 
 1 - As taxas de portagem a cobrar pela concessionária Brisa - Auto-Estradas de Portugal, S. A. R. L., no lanço Fogueteiro-Palmela, da Auto-Estrada do Sul, são as seguintes, de acordo com as classes dos veículos:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/15301/00010001.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/10/24200/22242224.pdf)
 
-2 - No caso de a exploração se efectuar com cobrança automática das portagens dos veículos automóveis ligeiros de passageiros, aos veículos das classes A e B serão aplicadas as taxas correspondentes à classe C.
+2 - No caso de a exploração se efectuar com cobrança automática das portagens dos veículos automóveis de passageiros, aos veículos da classe B serão aplicadas as taxas correspondentes à classe C.
+
+> Alterado pelo/a [Portaria n.º 631/78](https://diariodarepublica.pt/dr/detalhe/portaria/631-1978-328043), publicado em 1978-10-20.
 
 3 - As taxas de portagem são estabelecidas a título provisório e poderão ser revistas, face aos estudos económicos a realizar posteriormente e ao consignado no texto definitivo do contrato de concessão ainda em revisão.
 

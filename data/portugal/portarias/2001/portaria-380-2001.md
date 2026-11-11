@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-05-30'
+version_history:
+  file: portaria-380-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-04-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-05-30'
+    amending: pt:dre:1605526:por
+    amending_title: Despacho n.º 11457/2001 (2.ª série)
+    changes:
+    - Altera Artigo unidades 30-30
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/380/2001/04/11/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:31:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho n.º 11457/2001 (2.ª série).
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-380-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,7 +180,11 @@ Nos termos do n.º 3 do artigo 9.º do [Decreto-Lei n.º 15/2001](https://diario
 
 Fases de candidatura
 
-No final de Abril, Agosto e Dezembro de cada ano são encerrados os períodos de candidatura, iniciando-se o processo de instrução e decisão.
+1 - No final de Abril, Agosto e Dezembro de cada ano são encerrados os períodos de candidatura, iniciando-se o processo de instrução e decisão.
+
+2 - Excepcionalmente no ano de 2001, a 1.ª fase do período de candidatura termina em 31 de Maio.
+
+> Alterado pelo/a [Despacho n.º 11457/2001 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/despacho/11457-2001-1605526), publicado em 2001-05-30.
 
 6.º
 

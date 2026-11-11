@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-08-09'
+version_history:
+  file: portaria-702-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-11-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-08-09'
+    amending: pt:dre:429850:por
+    amending_title: Portaria n.º 499/76
+    changes:
+    - Altera Artigo unidades 33-33
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:53:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 499/76. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1975/portaria-702-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -176,7 +191,9 @@ a) Técnico de radiologia:
 
 b) Encarregado de câmara escura:
 
-1) Ter o curso de encarregado de câmara escura;
+1) Ter o curso de encarregado de câmara escura ou experiência comprovada da profissão;
+
+> Alterado pelo/a [Portaria n.º 499/76](https://diariodarepublica.pt/dr/detalhe/portaria/499-1976-429850), publicado em 1976-08-09.
 
 2) Não completar 35 anos de idade até ao dia 31 de Dezembro, inclusive, do ano em que for aberto o concurso.
 

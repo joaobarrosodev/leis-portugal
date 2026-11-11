@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:291243:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-07-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "be14aeb7dea1f00b"
+   ]
+  },
+  {
+   "date": "1994-07-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:307464:por",
+     "title": "Declaração de Rectificação n.º 108/94",
+     "published": "1994-07-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/108-1994-307464"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "b5b35422481fadb7"
+   ]
+  }
+ ],
+ "fragments": {
+  "be14aeb7dea1f00b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Julho\n\nO [Decreto-Lei n.º 318/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1990-555833), de 26 de Abril, que regula a obrigatoriedade de afixação de preços nos bens ou serviços, estabelece, quanto a estes, que a sua aplicação a serviços diferentes daqueles para os quais existia regulamentação específica ao tempo da sua publicação fica dependente de portaria conjunta dos Ministros do Ambiente e Recursos Naturais, do Comércio e Turismo e da tutela do respectivo sector de actividade.\n\nConsiderando a necessidade de protecção dos consumidores em matéria de informação sobre os preços dos serviços telefónicos prestados nos empreendimentos turísticos, nomeadamente nos estabelecimentos hoteleiros e similares dos hoteleiros;\n\nAo abrigo do n.º 4 do artigo 10.º do [Decreto-Lei n.º 138/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1990-332222), de 26 de Abril:\n\nManda o Governo, pelos Ministros das Obras Públicas, Transportes e Comunicações, do Comércio e Turismo e do Ambiente e Recursos Naturais, o seguinte:\n\n1.º Fica sujeito à obrigatoriedade de indicação de preços a que se refere o artigo 10.º do [Decreto-Lei n.º 138/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1990-332222), de 26 de Abril, o custo do serviço telefónico cujo acesso é assegurado pelos empreendimentos turísticos, bem como nos estabelecimentos hoteleiros e similares dos hoteleiros.\n\n2.º A tabela com a indicação do preço deve indicar a data da sua entrada em vigor.\n\n3.º A presente portaria não é aplicável às comunicações originárias dos postos públicos, quando existentes.\n\n4.º A presente portaria entra em vigor 30 dias após a data da sua publicação.\n\nMinistérios das Obras Públicas, Transportes e Comunicações, do Comércio e Turismo e do Ambiente e Recursos Naturais.\n\nAssinada em 31 de Maio de 1994.\n\nPelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado do Comércio. - Pela Ministra do Ambiente e Recursos Naturais, Joaquim Manuel Veloso Poças Martins, Secretário de Estado do Ambiente e do Consumidor."
+  },
+  "b5b35422481fadb7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1994-07-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 108/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/108-1994-307464), publicado em 1994-07-30."
+   ],
+   "markdown": "de 7 de Julho\n\nO [Decreto-Lei n.º 318/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1990-555833), de 26 de Abril, que regula a obrigatoriedade de afixação de preços nos bens ou serviços, estabelece, quanto a estes, que a sua aplicação a serviços diferentes daqueles para os quais existia regulamentação específica ao tempo da sua publicação fica dependente de portaria conjunta dos Ministros do Ambiente e Recursos Naturais, do Comércio e Turismo e da tutela do respectivo sector de actividade.\n\nConsiderando a necessidade de protecção dos consumidores em matéria de informação sobre os preços dos serviços telefónicos prestados nos empreendimentos turísticos, nomeadamente nos estabelecimentos hoteleiros e similares dos hoteleiros;\n\nAo abrigo do n.º 4 do artigo 10.º do [Decreto-Lei n.º 138/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1990-332222), de 26 de Abril:\n\nManda o Governo, pelos Ministros das Obras Públicas, Transportes e Comunicações, do Comércio e Turismo e do Ambiente e Recursos Naturais, o seguinte:\n\n1.º Fica sujeito à obrigatoriedade de indicação de preços a que se refere o artigo 10.º do [Decreto-Lei n.º 138/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1990-332222), de 26 de Abril, o custo do serviço telefónico cujo acesso é assegurado pelos empreendimentos turísticos, nomeadamente pelos estabelecimentos hoteleiros e similares dos hoteleiros.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 108/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/108-1994-307464), publicado em 1994-07-30.\n\n2.º A tabela com a indicação do preço deve indicar a data da sua entrada em vigor.\n\n3.º A presente portaria não é aplicável às comunicações originárias dos postos públicos, quando existentes.\n\n4.º A presente portaria entra em vigor 30 dias após a data da sua publicação.\n\nMinistérios das Obras Públicas, Transportes e Comunicações, do Comércio e Turismo e do Ambiente e Recursos Naturais.\n\nAssinada em 31 de Maio de 1994.\n\nPelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado do Comércio. - Pela Ministra do Ambiente e Recursos Naturais, Joaquim Manuel Veloso Poças Martins, Secretário de Estado do Ambiente e do Consumidor."
+  }
+ }
+}

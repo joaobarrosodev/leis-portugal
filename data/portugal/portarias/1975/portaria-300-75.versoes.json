@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:336299:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1975-05-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5d7e8dd80ca3a07e"
+   ]
+  },
+  {
+   "date": "1975-09-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:307603:por",
+     "title": "Portaria n.º 540/75",
+     "published": "1975-09-04",
+     "dre_path": "/dr/detalhe/portaria/540-1975-307603"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 20-20"
+   ],
+   "fragments": [
+    "f74e3107084b88f1"
+   ]
+  }
+ ],
+ "fragments": {
+  "5d7e8dd80ca3a07e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Maio\n\nPresentemente, na cidade de Coimbra, a oferta de serviços de transportes de passageiros em regime de aluguer, a táxi, revela-se escassa em face das crescentes solicitações da população urbana.\n\nTorna-se, assim, premente estabelecer o equilíbrio do funcionamento do mercado local no que diz respeito a este tipo de serviços de transportes, em ordem à satisfação do interesse da colectividade.\n\nPara o efeito, o contingente de veículos ligeiros de aluguer, a taxímetro, desta cidade é, pela presente portaria, fixado em noventa unidades, o que corresponde a um aumento de trinta licenças.\n\nEstas licenças, bem como as que correspondam a vagas preexistentes, são atribuídas mediante concurso nos termos que agora se regulamentam.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado dos Transportes e Comunicações, o seguinte:\n\n1. O contingente de veículos automóveis ligeiros de aluguer, a taxímetro, da cidade de Coimbra é fixado em noventa unidades.\n\n2. As novas licenças, bem como as que correspondem a vagas já existentes, serão atribuídas mediante concurso a abrir em 12 de Maio próximo.\n\n3. O concurso a que se refere o número anterior obedecerá ao disposto na presente portaria e no respectivo programa a elaborar pela Direcção-Geral de Transportes Terrestres.\n\n4. Poderão concorrer à atribuição das licenças, individualmente ou integrados na cooperativa referida em 2.º do n.º 7, os motoristas profissionais que à data do encerramento do concurso tenham, pelo menos, um ano de inscrição como sócios efectivos do Sindicato dos Motoristas do Distrito de Coimbra.\n\n5. Serão admitidos a concurso, mediante requerimento dirigido ao director-geral de Transportes Terrestres, todos os motoristas que, individualmente ou integrados na cooperativa referida em 2.º do n.º 7, apresentem documentos que façam prova de que obedecem aos requisitos exigidos nos n.os 4 e 6, segundo a forma prescrita no programa de concurso, no prazo de quinze dias a partir da data da abertura do mesmo.\n\n6. As licenças poderão ser atribuídas aos motoristas profissionais que, individualmente ou integrados na cooperativa referida em 2.º do n.º 7, obedeçam às seguintes condições:\n\na) Não terem sido condenados por crime punido com prisão efectiva;\n\nb) Terem bom comportamento moral e civil;\n\nc) Não tenham sido inibidos de conduzir nos últimos cinco anos por mais de três vezes ou que não tenham cometido qualquer infracção ao disposto na alínea c) do n.º 2 do artigo 61.º do Código da Estrada.\n\n7. A classificação dos requerentes obedecerá à seguinte ordem de prioridade:\n\n1.º Motoristas de automóveis-táxi da cidade de Coimbra com mais de dez anos de inscrição no Sindicato dos Motoristas do Distrito de Coimbra como sócios efectivos e, entre estes, aos que tenham exercido aquela profissão mais tempo nesta qualidade;\n\n2.º Cooperativa de motoristas profissionais inscritos no Sindicato dos Motoristas do Distrito de Coimbra como sócios efectivos.\n\n8. Para efeitos da contagem do tempo referido no número anterior não serão considerados os períodos de interrupção do exercício efectivo da profissão, com excepção dos motivados por doença, devidamente comprovada.\n\n9. A Direcção-Geral de Transportes Terrestres promoverá a publicação de uma lista de classificação provisória dos requerentes para efeitos de eventuais reclamações.\n\n10. A Direcção-Geral de Transportes Terrestres, depois de apreciadas as reclamações, promoverá a publicação da lista de classificação definitiva.\n\n11. Poderá, no entanto, a Direcção-Geral de Transportes Terrestres proceder à publicação de listas parcelares de classificação definitiva.\n\n12. Serão consideradas nulas e de nenhum efeito e consequentemente canceladas as licenças concedidas com fundamento em declarações falsas ou em pressupostos afectados por erro.\n\n13. O programa de concurso a elaborar pela Direcção-Geral de Transportes Terrestres será publicado no Diário do Governo e nos jornais diários da cidade de Coimbra.\n\n14. Consideram-se indeferidos os requerimentos entrados na Direcção-Geral de Transportes Terrestres anteriormente à data da abertura do concurso a que se refere a presente portaria.\n\nSecretaria de Estado dos Transportes e Comunicações, 24 de Abril de 1975. - O Secretário de Estado dos Transportes e Comunicações, António Machado Rodrigues."
+  },
+  "f74e3107084b88f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1975-09-04",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 540/75](https://diariodarepublica.pt/dr/detalhe/portaria/540-1975-307603), publicado em 1975-09-04."
+   ],
+   "markdown": "de 9 de Maio\n\nPresentemente, na cidade de Coimbra, a oferta de serviços de transportes de passageiros em regime de aluguer, a táxi, revela-se escassa em face das crescentes solicitações da população urbana.\n\nTorna-se, assim, premente estabelecer o equilíbrio do funcionamento do mercado local no que diz respeito a este tipo de serviços de transportes, em ordem à satisfação do interesse da colectividade.\n\nPara o efeito, o contingente de veículos ligeiros de aluguer, a taxímetro, desta cidade é, pela presente portaria, fixado em noventa unidades, o que corresponde a um aumento de trinta licenças.\n\nEstas licenças, bem como as que correspondam a vagas preexistentes, são atribuídas mediante concurso nos termos que agora se regulamentam.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado dos Transportes e Comunicações, o seguinte:\n\n1. O contingente de veículos automóveis ligeiros de aluguer, a taxímetro, da cidade de Coimbra é fixado em noventa unidades.\n\n2. As novas licenças, bem como as que correspondem a vagas já existentes, serão atribuídas mediante concurso a abrir em 12 de Maio próximo.\n\n3. O concurso a que se refere o número anterior obedecerá ao disposto na presente portaria e no respectivo programa a elaborar pela Direcção-Geral de Transportes Terrestres.\n\n4. Poderão concorrer à atribuição das licenças, individualmente ou integrados na cooperativa referida em 2.º do n.º 7, os motoristas profissionais que à data do encerramento do concurso tenham, pelo menos, um ano de inscrição como sócios efectivos do Sindicato dos Motoristas do Distrito de Coimbra.\n\n5. Serão admitidos a concurso, mediante requerimento dirigido ao director-geral de Transportes Terrestres, todos os motoristas que, individualmente ou integrados na cooperativa referida em 2.º do n.º 7, apresentem documentos que façam prova de que obedecem aos requisitos exigidos nos n.os 4 e 6, segundo a forma prescrita no programa de concurso, no prazo de quinze dias a partir da data da abertura do mesmo.\n\n6. As licenças poderão ser atribuídas aos motoristas profissionais que, individualmente ou integrados na cooperativa referida em 2.º do n.º 7, obedeçam às seguintes condições:\n\na) Não terem sido condenados por crime punido com prisão efectiva;\n\nb) Terem bom comportamento moral e civil;\n\nc) Não tenham sido inibidos de conduzir nos últimos cinco anos por mais de três vezes ou que não tenham cometido qualquer infracção ao disposto na alínea c) do n.º 2 do artigo 61.º do Código da Estrada.\n\n7. A classificação dos requerentes obedecerá à seguinte ordem de prioridade:\n\n1.º Motoristas de automóveis-táxi da cidade de Coimbra com mais de dez anos de inscrição no Sindicato dos Motoristas do Distrito de Coimbra como sócios efectivos e, entre estes, aos que tenham exercido aquela profissão mais tempo nesta qualidade;\n\n2.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 540/75](https://diariodarepublica.pt/dr/detalhe/portaria/540-1975-307603), publicado em 1975-09-04.\n\n8. Para efeitos da contagem do tempo referido no número anterior não serão considerados os períodos de interrupção do exercício efectivo da profissão, com excepção dos motivados por doença, devidamente comprovada.\n\n9. A Direcção-Geral de Transportes Terrestres promoverá a publicação de uma lista de classificação provisória dos requerentes para efeitos de eventuais reclamações.\n\n10. A Direcção-Geral de Transportes Terrestres, depois de apreciadas as reclamações, promoverá a publicação da lista de classificação definitiva.\n\n11. Poderá, no entanto, a Direcção-Geral de Transportes Terrestres proceder à publicação de listas parcelares de classificação definitiva.\n\n12. Serão consideradas nulas e de nenhum efeito e consequentemente canceladas as licenças concedidas com fundamento em declarações falsas ou em pressupostos afectados por erro.\n\n13. O programa de concurso a elaborar pela Direcção-Geral de Transportes Terrestres será publicado no Diário do Governo e nos jornais diários da cidade de Coimbra.\n\n14. Consideram-se indeferidos os requerimentos entrados na Direcção-Geral de Transportes Terrestres anteriormente à data da abertura do concurso a que se refere a presente portaria.\n\nSecretaria de Estado dos Transportes e Comunicações, 24 de Abril de 1975. - O Secretário de Estado dos Transportes e Comunicações, António Machado Rodrigues."
+  }
+ }
+}

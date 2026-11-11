@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-08-06'
+version_history:
+  file: portaria-100-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-01-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-08-06'
+    amending: pt:dre:577107:por
+    amending_title: Portaria n.º 666/81
+    changes:
+    - Adita Artigo depois da unidade 92
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:34:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 666/81. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-100-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -278,6 +293,14 @@ b) Tratando-se de outros candidatos, a entrada em exercício na escola que lhes 
 33.º Quando os interessados não possam tomar posse até 31 de Agosto devido a motivos estranhos à sua vontade, deverão fazê-lo nos trinta dias seguintes à publicação do seu provimento, no caso de pretenderem ser considerados nesse ano escolar como titulares da escola que lhes coube.
 
 34.º Se os professores referidos no número anterior não tomarem posse no prazo ali estabelecido, poderão fazê-lo até 31 de Agosto seguinte ao da publicação do provimento, mantendo a colocação que possuam, no ensino primário, à data da posse, até 1 de Setembro seguinte, com todas as regalias inerentes à sua qualidade de professores efectivos, excepto no que se refere à data de provimento na escola, que será a do primeiro dia do ano escolar da sua efectiva apresentação para exercer na mesma.
+
+34.º-A - O prazo para a tomada de posse a que se referem os n.os 29.º a 34.º desta portaria beneficia de uma dilação de trinta dias para os professores que se encontrem numa das seguintes situações:
+
+a) Residam nas Regiões Autónomas dos Açores ou da Madeira ou no território de Macau;
+
+b) Se encontrem em serviço no âmbito do ensino português no estrangeiro.
+
+> Aditado pelo/a [Portaria n.º 666/81](https://diariodarepublica.pt/dr/detalhe/portaria/666-1981-577107), publicado em 1981-08-05.
 
 35.º As dúvidas surgidas na execução desta portaria serão resolvidas por despacho ministerial.
 

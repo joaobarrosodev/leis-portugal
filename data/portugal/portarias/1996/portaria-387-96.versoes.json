@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:406538:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4a5c33be10122ffa"
+   ]
+  },
+  {
+   "date": "1996-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:516521:por",
+     "title": "Declaração de Rectificação n.º 14-H/96",
+     "published": "1996-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/14-h-1996-516521"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-10"
+   ],
+   "fragments": [
+    "d76a61d6a5660230"
+   ]
+  }
+ ],
+ "fragments": {
+  "4a5c33be10122ffa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Agosto\n\nConsiderando que se encontra requisitado na Secretaria-Geral do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas um funcionário pertencente ao quadro de efectivos interdepartamentais nas condições preceituadas na alínea c) do n.º 1 do artigo 18.º do [Decreto-Lei n.º 247/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1992-216106), de 7 de Novembro, na medida em que satisfaz necessidades permanentes de serviço;\n\nConsiderando o interesse por parte da Secretaria-Geral na integração do referido funcionário e que importa proceder ao alargamento do respectivo quadro de pessoal, criando o correspondente lugar;\n\nConsiderando que o referido funcionário reúne ainda as condições estipuladas na alínea a) do n.º 1 do artigo 21.º do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro:\n\nAo abrigo do disposto no n.º 1 do artigo 26.º do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro, conjugado com o disposto na alínea c) do n.º 1 do artigo 18.º do [Decreto-Lei n.º 247/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1992-216106), de 7 de Novembro:\n\nManda o Governo, pelos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas e pelo Ministro Adjunto, que o quadro de pessoal da Secretaria-Geral do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, aprovado pela [Portaria n.º 771/93](https://diariodarepublica.pt/dr/detalhe/portaria/771-1993-632879), de 3 de Setembro, seja alterado de acordo com o mapa anexo ao presente diploma, que dele faz parte integrante.\n\nPresidência do Conselho de Ministros e Ministérios das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas.\n\nAssinada em 11 de Julho de 1996.\n\nPelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - Pelo Ministro Adjunto, Fausto da Fonseca Correia, Secretário de Estado da Administração Pública.\n\nMAPA ANEXO\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26052605.pdf)"
+  },
+  "d76a61d6a5660230": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1996-09-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 14-H/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-h-1996-516521), publicado em 1996-09-30."
+   ],
+   "markdown": "de 21 de Agosto\n\nConsiderando que se encontra requisitado na Secretaria-Geral do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas um funcionário pertencente ao quadro de efectivos interdepartamentais nas condições preceituadas na alínea c) do n.º 1 do artigo 18.º do [Decreto-Lei n.º 247/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1992-216106), de 7 de Novembro, na medida em que satisfaz necessidades permanentes de serviço;\n\nConsiderando o interesse por parte da Secretaria-Geral na integração do referido funcionário e que importa proceder ao alargamento do respectivo quadro de pessoal, criando o correspondente lugar;\n\nConsiderando que o referido funcionário reúne ainda as condições estipuladas na alínea a) do n.º 1 do artigo 21.º do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro:\n\nAo abrigo do disposto no n.º 1 do artigo 26.º do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro, conjugado com o disposto na alínea c) do n.º 1 do artigo 18.º do [Decreto-Lei n.º 247/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1992-216106), de 7 de Novembro:\n\nManda o Governo, pelos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas e pelo Ministro Adjunto, que o quadro de pessoal da Secretaria-Geral do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, aprovado pela [Portaria n.º 771/93](https://diariodarepublica.pt/dr/detalhe/portaria/771-1993-632879), de 3 de Setembro, seja alterado de acordo com o mapa anexo ao presente diploma, que dele faz parte integrante.\n\nPresidência do Conselho de Ministros e Ministérios das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas.\n\nAssinada em 11 de Julho de 1996.\n\nPelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 14-H/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-h-1996-516521), publicado em 1996-09-30.\n\nMAPA ANEXO\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26052605.pdf)"
+  }
+ }
+}

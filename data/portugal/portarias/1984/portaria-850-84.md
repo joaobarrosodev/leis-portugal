@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-11-03'
+version_history:
+  file: portaria-850-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-11-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-11-03'
+    amending: pt:dre:177819:por
+    amending_title: Portaria n.º 818/85
+    changes:
+    - Altera Artigo unidades 83-83
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:14:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 818/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-850-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -287,7 +302,9 @@ Total ... 20
 
 (Duração normal)
 
-A duração normal do curso nas 3 áreas de especialização é de 3 semestres lectivos.
+A duração normal do curso nas 3 áreas de especialização é de 2 semestres lectivos.
+
+> Alterado pelo/a [Portaria n.º 818/85](https://diariodarepublica.pt/dr/detalhe/portaria/818-1985-177819), publicado em 1985-10-29.
 
 6.º
 

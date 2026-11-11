@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:301615:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-09-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9661a64c4d690f95"
+   ]
+  },
+  {
+   "date": "1992-10-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:225995:por",
+     "title": "Portaria n.º 971/92",
+     "published": "1992-10-12",
+     "dre_path": "/dr/detalhe/portaria/971-1992-225995"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 8"
+   ],
+   "fragments": [
+    "53642749c9f1bb76"
+   ]
+  }
+ ],
+ "fragments": {
+  "9661a64c4d690f95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Setembro\n\nSob proposta das comissões instaladoras do Instituto Politécnico de Faro e da sua Escola Superior de Gestão, Hotelaria e Turismo;\n\nAo abrigo do disposto no artigo 4.º do [Decreto-Lei n.º 303/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1980-470779), de 16 de Agosto, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nCriação\n\nO Instituto Politécnico de Faro, através da sua Escola Superior de Gestão, Hotelaria e Turismo, confere o grau de bacharel em Gestão Hoteleira, ministrando, em consequência, o respectivo curso.\n\n2.º\n\nPlano de estudos\n\nO plano de estudos do curso de bacharelato a que se refere o n.º 1.º é o constante do anexo à presente portaria.\n\n3.º\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessários ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de 10.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativas no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.\n\n4.º\n\nEstágios\n\n1 - O curso integrará dois estágios, com uma duração total não inferior a 22 semanas.\n\n2 - Os estágios revestem carácter escolar e têm por objectivo a aproximação do aluno à realidade da futura actividade profissional.\n\n3 - Os estágios serão objecto de avaliação, que se traduzirá numa classificação.\n\n4 - A realização e a avaliação dos estágios obedecerão a regulamento a aprovar pelo conselho científico.\n\n5 - O regulamento a que se refere o n.º 4 estará sujeito a homologação da comissão instaladora da Escola.\n\n5.º\n\nRegimes escolares\n\nOs regimes de frequência, avaliação de conhecimentos, transição de ano e de precedências são fixados pela Escola através do seu órgão competente.\n\n6.º\n\nCondições para a obtenção do grau\n\nSão condições para a obtenção do grau de bacharel, cumulativamente:\n\na) A aprovação na totalidade das disciplinas que integram o plano de estudos a que se refere o n.º 2.º;\n\nb) A realização, com aproveitamento, dos estágios a que se refere o n.º 4.º\n\n7.º\n\nClassificação final\n\n1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o plano de estudos a que se refere o n.º 2.º e dos estágios a que se refere o n.º 4.º\n\n2 - Os coeficientes de ponderação são fixados pelo conselho científico.\n\n8.º\n\nEntrada em funcionamento\n\nO curso referido no n.º 1.º entre em funcionamento progressivamente, um ano curricular em cada ano lectivo, a partir do ano lectivo de 1991-1992, inclusive.\n\nMinistério da Educação.\n\nAssinada em 29 de Agosto de 1991.\n\nPelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/217b00/49934994.pdf)"
+  },
+  "53642749c9f1bb76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1992-10-17",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 971/92](https://diariodarepublica.pt/dr/detalhe/portaria/971-1992-225995), publicado em 1992-10-12."
+   ],
+   "markdown": "de 20 de Setembro\n\nSob proposta das comissões instaladoras do Instituto Politécnico de Faro e da sua Escola Superior de Gestão, Hotelaria e Turismo;\n\nAo abrigo do disposto no artigo 4.º do [Decreto-Lei n.º 303/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1980-470779), de 16 de Agosto, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nCriação\n\nO Instituto Politécnico de Faro, através da sua Escola Superior de Gestão, Hotelaria e Turismo, confere o grau de bacharel em Gestão Hoteleira, ministrando, em consequência, o respectivo curso.\n\n1.º-A\n\nCurso de Gestão Hoteleira\n\n1 - O curso de Gestão Hoteleira poderá ser ministrado em Faro e em Portimão.\n\n2 - À transferência de alunos entre as duas localidades onde a Escola Superior de Gestão, Hotelaria e Turismo de Faro poderá ministrar o curso aplicam-se, com as necessárias adaptações, as regras do regime de transferência.\n\n> Aditado pelo/a [Portaria n.º 971/92](https://diariodarepublica.pt/dr/detalhe/portaria/971-1992-225995), publicado em 1992-10-12.\n\n2.º\n\nPlano de estudos\n\nO plano de estudos do curso de bacharelato a que se refere o n.º 1.º é o constante do anexo à presente portaria.\n\n3.º\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessários ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de 10.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativas no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.\n\n4.º\n\nEstágios\n\n1 - O curso integrará dois estágios, com uma duração total não inferior a 22 semanas.\n\n2 - Os estágios revestem carácter escolar e têm por objectivo a aproximação do aluno à realidade da futura actividade profissional.\n\n3 - Os estágios serão objecto de avaliação, que se traduzirá numa classificação.\n\n4 - A realização e a avaliação dos estágios obedecerão a regulamento a aprovar pelo conselho científico.\n\n5 - O regulamento a que se refere o n.º 4 estará sujeito a homologação da comissão instaladora da Escola.\n\n5.º\n\nRegimes escolares\n\nOs regimes de frequência, avaliação de conhecimentos, transição de ano e de precedências são fixados pela Escola através do seu órgão competente.\n\n6.º\n\nCondições para a obtenção do grau\n\nSão condições para a obtenção do grau de bacharel, cumulativamente:\n\na) A aprovação na totalidade das disciplinas que integram o plano de estudos a que se refere o n.º 2.º;\n\nb) A realização, com aproveitamento, dos estágios a que se refere o n.º 4.º\n\n7.º\n\nClassificação final\n\n1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o plano de estudos a que se refere o n.º 2.º e dos estágios a que se refere o n.º 4.º\n\n2 - Os coeficientes de ponderação são fixados pelo conselho científico.\n\n8.º\n\nEntrada em funcionamento\n\nO curso referido no n.º 1.º entre em funcionamento progressivamente, um ano curricular em cada ano lectivo, a partir do ano lectivo de 1991-1992, inclusive.\n\nMinistério da Educação.\n\nAssinada em 29 de Agosto de 1991.\n\nPelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/217b00/49934994.pdf)"
+  }
+ }
+}

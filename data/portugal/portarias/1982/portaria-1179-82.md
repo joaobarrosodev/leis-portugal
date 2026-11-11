@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-11-18'
+version_history:
+  file: portaria-1179-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-11-18'
+    amending: pt:dre:220891:por
+    amending_title: Portaria n.º 681/86
+    changes:
+    - Altera Artigo unidades 12-13
+    - Altera Artigo unidades 20-34
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:04:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 681/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-1179-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,9 +146,11 @@ O curso de licenciatura em Matemática da Universidade de Aveiro, criado pelo ar
 
 O curso desdobra-se nos seguintes ramos:
 
-a) Probabilidades e Estatística;
+a) Estatística, Investigação Operacional e Computação;
 
-b) Sistemas Lineares e Teoria do Controle.
+b) Teoria Matemática dos Sistemas.
+
+> Alterado pelo/a [Portaria n.º 681/86](https://diariodarepublica.pt/dr/detalhe/portaria/681-1986-220891), publicado em 1986-11-13.
 
 3.º
 
@@ -146,35 +164,43 @@ A área científica do curso é a Matemática.
 
 As áreas científicas e as unidades de crédito necessárias à conclusão do curso distribuem-se da seguinte forma:
 
-1) Ramo de Probabilidades e Estatística:
+1) Ramo de Estatística, Investigação Operacional e Computação:
 
 a) Obrigatórias:
 
-I) Análise ... 52,5
+I) Matemática ... 90,5
 
-II) Álgebra ... 18
+II) Física ... 4
 
-III) Geometria e Desenho ... 8
+b) Optativas:
 
-IV) Probabilidades e Estatística ... 43,5
+I) Matemática ... 16
 
-Total ... 122
+II) Electrónica ... 16
 
-2) Ramo de Sistemas Lineares e Teoria do Controle:
+c) Seminário ... 2
+
+Total ... 122,5
+
+2) Ramo de Teoria Matemática dos Sistemas:
 
 a) Obrigatórias:
 
-I) Análise ... 52,5
+I) Matemática ... 90,5
 
-II) Álgebra ... 18
+II) Física ... 4
 
-III) Geometria e Desenho ... 8
+b) Optativas:
 
-IV) Probabilidades e Estatística ... 15,5
+I) Matemática ... 16
 
-V) Sistemas Lineares e Teoria do Controle ... 28
+II) Física ... 16
 
-Total ... 122
+c) Seminário ... 12
+
+Total ... 122,5
+
+> Alterado pelo/a [Portaria n.º 681/86](https://diariodarepublica.pt/dr/detalhe/portaria/681-1986-220891), publicado em 1986-11-13.
 
 5.º
 

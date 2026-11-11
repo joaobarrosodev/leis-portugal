@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-10-15'
+version_history:
+  file: portaria-491-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-07-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-10-15'
+    amending: pt:dre:354735:por
+    amending_title: Portaria n.º 675/88
+    changes:
+    - Adita Artigo depois da unidade 12
+    - Altera Artigo unidades 26-47
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:06:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 675/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-491-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,6 +160,24 @@ O curso de licenciatura em Economia da Faculdade de Economia da Universidade Nov
 
 Os elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são os constantes do anexo à presente portaria.
 
+2.º-A
+
+Língua estrangeira
+
+Os alunos inscritos no curso a que se refere a presente portaria deverão prestar provas de conhecimento numa língua estrangeira, à sua escolha, dentro daquelas em que a Faculdade oferece formação e nas condições por esta fixadas em regulamento a aprovar pelo conselho científico.
+
+2.º-B
+
+Disciplinas de opção
+
+1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de dez.
+
+2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas de serviço de aulas a que é obrigado por lei.
+
+3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.
+
+> Aditado pelo/a [Portaria n.º 675/88](https://diariodarepublica.pt/dr/detalhe/portaria/675-1988-354735), publicado em 1988-10-10.
+
 3.º
 
 (Precedências)
@@ -170,25 +204,19 @@ Assinada em 26 de Junho de 1984.
 
 O Ministro da Educação, José Augusto Seabra.
 
-## ANEXO I — Licenciatura em economia
+## ANEXO I — Licenciatura em Economia
 
-1 - Área científica do curso:
+1 - Área científica do curso - Economia.
 
-Economia.
+2 - Duração normal do curso - dez semestres lectivos.
 
-2 - Duração normal do curso:
-
-8 semestres lectivos.
-
-3 - Condições necessárias à concessão do grau:
-
-124 unidades de crédito.
+3 - Condições necessárias à concessão do grau - 124 unidades de crédito.
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
 4.1 - Áreas científicas obrigatórias:
 
-a) Economia ... 35,5
+a) Economia ... 28,5
 
 b) Matemática ... 31,5
 
@@ -198,18 +226,20 @@ d) História Económica ... 7
 
 4.2 - Áreas científicas opcionais:
 
-a) Economia ... 42
+a) Economia ...49
 
-b) Matemática ... 42
+b) Matemática ... 49
 
-c) Gestão ... 42
+c) Gestão ... 49
 
-d) História Económica ... 42
+d) História Económica ... 49
 
-e) Sociologia ... 42
+e) Sociologia ... 49
 
-f) Psicologia Económica ... 42
+f) Psicologia Económica ... 49
 
-g) Ciência Política ... 42
+g) Ciência Política ... 49
 
-h) Direito Económico e Demografia ... 42
+h) Direito Económico e Demografia ... 49
+
+> Alterado pelo/a [Portaria n.º 675/88](https://diariodarepublica.pt/dr/detalhe/portaria/675-1988-354735), publicado em 1988-10-10.

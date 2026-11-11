@@ -1,0 +1,70 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:323960:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-05-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d672df022522c0d9",
+    "612b12910e655097"
+   ]
+  },
+  {
+   "date": "2009-10-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:483085:por",
+     "title": "Portaria n.º 1259/2009",
+     "published": "2009-10-15",
+     "dre_path": "/dr/detalhe/portaria/1259-2009-483085"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 11-12",
+    "Altera Artigo unidades 14-14",
+    "Altera Artigo unidades 15-15"
+   ],
+   "fragments": [
+    "cdfd570817e24a72",
+    "612b12910e655097"
+   ]
+  }
+ ],
+ "fragments": {
+  "d672df022522c0d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Maio\n\nReconhecendo o importante papel que desempenham os órgãos de comunicação social destinados às comunidades portuguesas no estrangeiro e tendo em vista valorizar os profissionais que neles trabalham, a [Lei n.º 1/99](https://diariodarepublica.pt/dr/detalhe/lei/1-1999-196219), de 13 de Janeiro, que aprova o Estatuto do Jornalista estipula no seu artigo 18.º que lhes seja atribuído um título de identificação.\n\nAssim, nos termos e para os efeitos do artigo 18.º da [Lei n.º 1/99](https://diariodarepublica.pt/dr/detalhe/lei/1-1999-196219), de 13 de Janeiro:\n\nManda o Governo, pelos Secretários de Estado da Comunicação Social e das Comunidades Portuguesas, o seguinte:\n\n1.º Os cidadãos que exerçam actividade jornalística em órgãos de comunicação social destinados às comunidades portuguesas no estrangeiro e aí sediados têm direito a um título de identificação, emitido pela Comissão da Carteira Profissional do Jornalista, adiante designada CCPJ, o qual deve ser exibido pelo seu titular sempre que este, encontrando-se em território nacional, pretenda ter acesso às fontes de informação.\n\n2.º O título de identificação referido no número anterior tem as dimensões de 88,5 mm x 55 mm, nele se contendo, no canto superior esquerdo, um espaço para inserção de uma fotografia a cores do respectivo titular e, no canto inferior esquerdo, a indicação do seu prazo de validade, de acordo com o modelo reproduzido no anexo I.\n\n3.º O título contém ainda, no local especificamente indicado para o efeito, um número próprio, o nome pelo qual o titular é conhecido no exercício da actividade, o número do seu documento de identificação e a designação do órgão de comunicação social ao qual está vinculado.\n\n4.º O título de identificação tem fundo branco, sendo castanho na zona circundante da fotografia e da expressão «Comunidades Portuguesas» e amarelo na zona do respectivo prazo de validade e na restante superfície colorida, incluindo o verso.\n\n5.º A emissão do título de identificação é requerida pelo interessado à CCPJ, devendo o requerimento ser instruído com os seguintes elementos:\n\na) Cópia certificada de documento de identificação;\n\nb) Duas fotografias recentes a cores, tipo passe;\n\nc) Documento comprovativo de que exerce actividade jornalística em órgão de comunicação social destinado às comunidades portuguesas no estrangeiro e aí sediado, com indicação da categoria e funções, passado pela referido órgão.\n\n6.º O título de identificação é válido pelo período de dois anos civis consecutivos, carecendo de renovação para o biénio subsequente.\n\n7.º A renovação é concedida a requerimento do interessado, a apresentar no ano imediatamente anterior ao fim do prazo de validade do título, sob pena de caducidade, devendo o requerimento ser instruído com os elementos previstos no n.º 5.º\n\n8.º A cessação do exercício da actividade jornalística em órgão de comunicação social destinado às comunidades portuguesas no estrangeiro e aí sediado implica a caducidade do título de identificação, devendo o titular proceder a sua devolução à CCPJ.\n\nAssinada em 13 de Abril de 1999.\n\nO Secretário de Estado da Comunicação Social, Alberto Arons Braga de Carvalho. - O Secretário de Estado das Comunidades Portuguesas, José Manuel Lello Ribeiro de Almeida."
+  },
+  "612b12910e655097": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Cartão de colaborador das comunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Cartão de colaborador das comunidades\n\n[(ver frente e verso no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116b00/26822682.pdf)"
+  },
+  "cdfd570817e24a72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-10-20",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1259/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1259-2009-483085), publicado em 2009-10-15.",
+    "Alterado pelo/a [Portaria n.º 1259/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1259-2009-483085), publicado em 2009-10-15.",
+    "Alterado pelo/a [Portaria n.º 1259/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1259-2009-483085), publicado em 2009-10-15."
+   ],
+   "markdown": "de 19 de Maio\n\nReconhecendo o importante papel que desempenham os órgãos de comunicação social destinados às comunidades portuguesas no estrangeiro e tendo em vista valorizar os profissionais que neles trabalham, a [Lei n.º 1/99](https://diariodarepublica.pt/dr/detalhe/lei/1-1999-196219), de 13 de Janeiro, que aprova o Estatuto do Jornalista estipula no seu artigo 18.º que lhes seja atribuído um título de identificação.\n\nAssim, nos termos e para os efeitos do artigo 18.º da [Lei n.º 1/99](https://diariodarepublica.pt/dr/detalhe/lei/1-1999-196219), de 13 de Janeiro:\n\nManda o Governo, pelos Secretários de Estado da Comunicação Social e das Comunidades Portuguesas, o seguinte:\n\n1.º Os cidadãos que exerçam actividade jornalística em órgãos de comunicação social destinados às comunidades portuguesas no estrangeiro e aí sediados têm direito a um título de identificação, emitido pela Comissão da Carteira Profissional do Jornalista, adiante designada CCPJ, o qual deve ser exibido pelo seu titular sempre que este, encontrando-se em território nacional, pretenda ter acesso às fontes de informação.\n\n2.º O título de identificação referido no número anterior tem as dimensões de 88,5 mm x 55 mm, nele se contendo, no canto superior esquerdo, um espaço para inserção de uma fotografia a cores do respectivo titular e, no canto inferior esquerdo, a indicação do seu prazo de validade, de acordo com o modelo reproduzido no anexo I.\n\n3.º O título contém ainda, no local especificamente indicado para o efeito, um número próprio, o nome pelo qual o titular é conhecido no exercício da actividade, o número do seu documento de identificação e a designação do órgão de comunicação social ao qual está vinculado.\n\n4.º O título de identificação tem fundo branco, sendo castanho na zona circundante da fotografia e da expressão «Comunidades Portuguesas» e amarelo na zona do respectivo prazo de validade e na restante superfície colorida, incluindo o verso.\n\n5.º A emissão do título de identificação é requerida pelo interessado à CCPJ, devendo o requerimento ser instruído com os seguintes elementos:\n\na) Cópia do bilhete de identidade ou de documento que permita a identificação civil do requerente;\n\nb) Uma fotografia recente a cores, tipo passe;\n\n> Alterado pelo/a [Portaria n.º 1259/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1259-2009-483085), publicado em 2009-10-15.\n\nc) Documento comprovativo de que exerce actividade jornalística em órgão de comunicação social destinado às comunidades portuguesas no estrangeiro e aí sediado, com indicação da categoria e funções, passado pela referido órgão.\n\n6.º O título de identificação é válido pelo período de dois anos, carecendo de renovação.\n\n> Alterado pelo/a [Portaria n.º 1259/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1259-2009-483085), publicado em 2009-10-15.\n\n7.º A renovação é concedida a requerimento do interessado, a apresentar no mês anterior ao termo de validade do título, sob pena de caducidade, devendo o requerimento ser instruído com os seguintes elementos:\n\na) Uma fotografia a cores, tipo passe, quando a fotografia anterior tenha sido entregue há mais de cinco anos;\n\nb) A declaração referida na alínea c) do n.º 5.º\n\n> Alterado pelo/a [Portaria n.º 1259/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1259-2009-483085), publicado em 2009-10-15.\n\n8.º A cessação do exercício da actividade jornalística em órgão de comunicação social destinado às comunidades portuguesas no estrangeiro e aí sediado implica a caducidade do título de identificação, devendo o titular proceder a sua devolução à CCPJ.\n\nAssinada em 13 de Abril de 1999.\n\nO Secretário de Estado da Comunicação Social, Alberto Arons Braga de Carvalho. - O Secretário de Estado das Comunidades Portuguesas, José Manuel Lello Ribeiro de Almeida."
+  }
+ }
+}

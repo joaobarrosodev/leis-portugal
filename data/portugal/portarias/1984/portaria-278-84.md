@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-03-07'
+version_history:
+  file: portaria-278-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-05-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-03-07'
+    amending: pt:dre:326128:por
+    amending_title: Portaria n.º 122/85
+    changes:
+    - Altera Artigo unidades 12-21
+    - Altera Artigo unidades 43-45
 identifiers:
   celex: null
   eli: null
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:00:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 122/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-278-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,25 +153,27 @@ Do estágio
 
 ... Horas
 
-a) Direito aduaneiro nacional ... 100
+a) Direito aduaneiro nacional ... 72
 
-b) Direito aduaneiro comunitário ... 45
+b) Direito aduaneiro comunitário ... 42
 
-c) Política pautal. Nomenclatura ... 130
+c) Política pautal. Nomenclatura ... 36
 
-d) Valor aduaneiro ... 15
+d) Valor aduaneiro ... 2
 
-e) Contabilidade ... 15
+e) Contabilidade ... 8
 
-f) Fiscalização aduaneira ... 15
+f) Fiscalização aduaneira ... 11
 
-g) Finanças públicas e fiscalidade ... 15
+g) Finanças públicas e fiscalidade ... 11
 
-h) Contencioso fiscal e técnico ... 15
+h) Contencioso fiscal e técnico ... 7
 
-i) Informática ... 15
+i) Informática ... 11
 
-j) Regime jurídico da função pública ... 10
+j) Regime jurídico da função pública ... 14
+
+> Alterado pelo/a [Portaria n.º 122/85](https://diariodarepublica.pt/dr/detalhe/portaria/122-1985-326128), publicado em 1985-03-02.
 
 k) Missão e estrutura orgânica das alfândegas ... 15
 
@@ -199,11 +217,13 @@ Do exame de aptidão
 
 17 - Os estagiários que obtiverem aproveitamento no estágio serão submetidos a um exame de aptidão de acordo com o n.º 1 do artigo 67.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho.
 
-18 - O exame de aptidão consistirá numa prova escrita sobre as matérias tratadas no estágio, que deverá realizar-se no prazo de 10 dias a contar da data do termo deste.
+18 - O exame de aptidão consistirá numa prova escrita e numa prova oral sobre as matérias tratadas no estágio, que deverão iniciar-se no prazo de 10 dias a contar da data do termo deste.
 
-19 - A prova escrita referida no número anterior será eliminatória para os concorrentes que obtiverem menos de 9,5 valores.
+19 - À prova escrita e à prova oral referidas no número anterior será dada a média aritmética dos valores que, de 0 a 20, lhe forem atribuídos por cada membro do júri, sem qualquer arredondamento.
 
-20 - À prova escrita será dada a média dos valores que, de 0 a 20, lhe forem atribuídos por cada membro do júri, sem qualquer arredondamento.
+20 - Ao exame de aptidão será dada a média aritmética dos valores da prova escrita e da prova oral sem qualquer arredondamento, ficando excluídos os concorrentes que obtiverem menos de 9,5 valores.
+
+> Alterado pelo/a [Portaria n.º 122/85](https://diariodarepublica.pt/dr/detalhe/portaria/122-1985-326128), publicado em 1985-03-02.
 
 21 - A lista de classificação final será homologada pelo director-geral no prazo de 10 dias.
 

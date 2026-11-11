@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:387283:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-06-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "efa03edc74c702cd"
+   ]
+  },
+  {
+   "date": "1985-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152371:por",
+     "title": "Portaria n.º 254/85",
+     "published": "1985-05-08",
+     "dre_path": "/dr/detalhe/portaria/254-1985-152371"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-14"
+   ],
+   "fragments": [
+    "b6a18097420e38f6"
+   ]
+  }
+ ],
+ "fragments": {
+  "efa03edc74c702cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Junho\n\nConsiderando que as ajudas de custo a abonar aos militares da Armada, do Exército e da Força Aérea por deslocações em território nacional devem ser actualizadas em termos idênticos aos adoptados para os funcionários civis do Estado através da [Portaria n.º 132/84](https://diariodarepublica.pt/dr/detalhe/portaria/132-1984-661124), de 2 de Março:\n\nManda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional e das Finanças e do Plano, o seguinte:\n\n1.º A tabela de ajudas de custo constante da [Portaria n.º 868/83](https://diariodarepublica.pt/dr/detalhe/portaria/868-1983-439424), de 1 de Setembro, é substituída pela que seguidamente se publica, com efeitos a partir de 1 de Janeiro de 1984:\n\nChefe do Estado-Maior-General das Forças Armadas e Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea ... 3440$00\n\nOficiais generais ... 2950$00\n\nOficiais superiores ... 2950$00\n\nOutros oficiais, aspirantes a oficial e cadetes ... 2460$00\n\nSargentos-mores e sargentos-chefes ... 2460$00\n\nOutros sargentos, furriéis e subsargentos ... 2220$00\n\nPrimeiros-despenseiros, praças do grupo A da Armada e praças readmitidas, contratadas e convocadas do Exército e da Força Aérea ... 2220$00\n\nPrimeiros-grumetes, segundos-grumetes alunos e segundos-grumetes da Armada, primeiros-cabos, segundos-cabos e soldados do Exército e da Força Aérea (ver nota a) ... 780$00\n\nOutras praças (ver nota a) ... 490$00\n\n(nota a) Ajudas de custo a título de subsídio de alimentação.\n\n2.º Nos casos em que não seja possível proporcionar alojamento a praças do SMO, é-lhes devido o abono de ajudas de custo no quantitativo fixado para primeiros-despenseiros, praças do grupo A da Armada e praças readmitidas, contratadas e convocadas do Exército e da Força Aérea.\n\nMinistérios da Defesa Nacional e das Finanças e do Plano.\n\nAssinada em 31 de Maio de 1984.\n\nO Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento."
+  },
+  "b6a18097420e38f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1985-05-13",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 254/85](https://diariodarepublica.pt/dr/detalhe/portaria/254-1985-152371), publicado em 1985-05-08."
+   ],
+   "markdown": "de 23 de Junho\n\nConsiderando que as ajudas de custo a abonar aos militares da Armada, do Exército e da Força Aérea por deslocações em território nacional devem ser actualizadas em termos idênticos aos adoptados para os funcionários civis do Estado através da [Portaria n.º 132/84](https://diariodarepublica.pt/dr/detalhe/portaria/132-1984-661124), de 2 de Março:\n\nManda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional e das Finanças e do Plano, o seguinte:\n\n1.º A tabela de ajudas de custo constante da [Portaria n.º 868/83](https://diariodarepublica.pt/dr/detalhe/portaria/868-1983-439424), de 1 de Setembro, é substituída pela que seguidamente se publica, com efeitos a partir de 1 de Janeiro de 1984:\n\nChefe do Estado-Maior-General das Forças Armadas, Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea ... 4160$00\n\nOficiais-generais ... 3570$00\n\nOficiais superiores ... 3570$00\n\nOutros oficiais, aspirantes a oficial e cadetes ... 2980$00\n\nSargentos-mor e sargentos-chefes ... 2980$00\n\nOutros sargentos, furriéis e subsargentos ... 2690$00\n\nPrimeiros-despenseiros, praças do grupo A da Armada e praças readmitidas, contratadas e convocadas do Exército e da Força Aérea ... 2690$00\n\nPrimeiros-grumetes, segundos-grumetes alunos e segundos-grumetes da Armada, primeiros-cabos, segundos-cabos e soldados do Exército e da Força Aérea (ver nota a) ... 950$00\n\nOutras praças (ver nota a) ... 600$00\n\n> Alterado pelo/a [Portaria n.º 254/85](https://diariodarepublica.pt/dr/detalhe/portaria/254-1985-152371), publicado em 1985-05-08.\n\n(nota a) Ajudas de custo a título de subsídio de alimentação.\n\n2.º Nos casos em que não seja possível proporcionar alojamento a praças do SMO, é-lhes devido o abono de ajudas de custo no quantitativo fixado para primeiros-despenseiros, praças do grupo A da Armada e praças readmitidas, contratadas e convocadas do Exército e da Força Aérea.\n\nMinistérios da Defesa Nacional e das Finanças e do Plano.\n\nAssinada em 31 de Maio de 1984.\n\nO Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento."
+  }
+ }
+}

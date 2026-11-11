@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-03-30'
+version_history:
+  file: portaria-880-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-12-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-03-30'
+    amending: pt:dre:383003:por
+    amending_title: Portaria n.º 138/79
+    changes:
+    - Altera Artigo unidades 17-27
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:17:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 138/79. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1973/portaria-880-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,26 +155,10 @@ d) ...
 
 e) Classes de técnicos - desempenho de funções equivalentes às que correspondem aos oficiais subalternos da classe de marinha, na medida em que a sua preparação e treino o permitam.
 
-4.º O n.º 3.º da [Portaria n.º 22016](https://diariodarepublica.pt/dr/detalhe/portaria/22016-1966-473492), de 26 de Maio de 1966, passa a ter a redacção seguinte:
+4.º - (Revogado.)
 
-3.º As condições gerais e especiais de preferência para prestação de serviço na reserva naval são as seguintes:
+5.º - (Revogado.)
 
-a) Condições gerais de preferência:
-
-1) Ser voluntário ou oferecido;
-
-2) Possuir conhecimentos náuticos comprovados por documentação, nomeadamente cartas de patrão de costa ou de patrão de alto mar, obtidas em conformidade com o [Decreto-Lei n.º 37218](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37218-1948-370403), de 17 de Dezembro de 1948.
-
-b) Condições especiais de preferência:
-
-1) Classe de fuzileiros - Possuir melhores condições de aptidão para fuzileiro.
-
-2) Classe de técnicos. - Menor idade;
-
-3) Restantes classes. - Possuir melhores habilitações literárias referentes às especialidades que dão acesso à sua classe.
-
-5.º O n.º 4.º da portaria referida no número anterior passa a ter a seguinte redacção:
-
-4.º Os mancebos destinados a prestar serviço na reserva naval são observados por uma junta de recrutamento e selecção e os que forem seleccionados são alistados provisoriamente na mesma reserva como cadetes da respectiva classe.
+> Alterado pelo/a [Portaria n.º 138/79](https://diariodarepublica.pt/dr/detalhe/portaria/138-1979-383003), publicado em 1979-03-30.
 
 Ministério da Marinha, 30 de Novembro de 1973. - O Ministro da Marinha, Manuel Pereira Crespo.

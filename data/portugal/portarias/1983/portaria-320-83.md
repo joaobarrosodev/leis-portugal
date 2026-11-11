@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-12-25'
+version_history:
+  file: portaria-320-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-03-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-12-25'
+    amending: pt:dre:396343:por
+    amending_title: Portaria n.º 943/84
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:37:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 943/84. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-320-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,7 +139,9 @@ Considerando finalmente que se torna urgente e inadiável o preenchimento daquel
 
 Manda o Governo da República Portuguesa, pelos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa, o seguinte:
 
-1.º Alargar, a título excepcional, a área de recrutamento para os lugares de director dos Palácios Nacionais da Ajuda, Mafra, Pena, Queluz e Sintra e do Arquivo Histórico do Ministério das Finanças de entre qualquer das categorias de conservador ou de técnico superior, desde que habilitados com licenciatura adequada e curriculum vitae que demonstre possuir a qualificação técnica e experiência necessárias ao desempenho daquelas funções.
+1.º Alargar, a título excepcional, a área de recrutamento para os lugares de director dos Palácios Nacionais da Ajuda, Mafra, Pena, Queluz e Sintra e do Arquivo Histórico do Ministério das Finanças de entre qualquer das categorias de conservador ou de entre indivíduos vinculados à função pública, desde que habilitados com licenciatura adequada e curriculum vitae que demonstre possuírem a qualificação técnica e a experiência necessárias ao desempenho daquelas funções.
+
+> Alterado pelo/a [Portaria n.º 943/84](https://diariodarepublica.pt/dr/detalhe/portaria/943-1984-396343), publicado em 1984-12-20.
 
 2.º Autorizar o preenchimento dos lugares de director do Museu Nacional de Literatura e do Museu de Évora de entre indivíduos, vinculados ou não à função pública, desde que habilitados com licenciatura e reconhecida competência, comprovada curricularmente.
 

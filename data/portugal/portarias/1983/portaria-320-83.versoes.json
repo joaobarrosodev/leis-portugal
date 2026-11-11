@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:312604:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-03-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "343e19ee23d226b6"
+   ]
+  },
+  {
+   "date": "1984-12-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:396343:por",
+     "title": "Portaria n.º 943/84",
+     "published": "1984-12-20",
+     "dre_path": "/dr/detalhe/portaria/943-1984-396343"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-10"
+   ],
+   "fragments": [
+    "ef82ccf9f9729b10"
+   ]
+  }
+ ],
+ "fragments": {
+  "343e19ee23d226b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Março\n\nConsiderando o disposto no n.º 4 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho;\n\nConsiderando a recente transferência dos palácios nacionais e do Arquivo Histórico do Ministério das Finanças para o Ministério da Cultura e Coordenação Científica, através do Instituto Português do Património Cultural, pelo [Decreto-Lei n.º 318/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1982-397900), de 11 de Agosto;\n\nConsiderando a recente criação do Museu Nacional de Literatura pelo [Decreto-Lei n.º 441/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/441-1982-377948), de 6 de Novembro, bem como a vacatura do lugar de director do Museu de Évora;\n\nConsiderando que os cargos de directores dos referidos serviços têm as categorias de director de serviços e de chefe de divisão;\n\nConsiderando que não existem presentemente técnicos que reúnam os requisitos gerais de provimento exigidos pela lei;\n\nConsiderando finalmente que se torna urgente e inadiável o preenchimento daqueles cargos:\n\nManda o Governo da República Portuguesa, pelos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa, o seguinte:\n\n1.º Alargar, a título excepcional, a área de recrutamento para os lugares de director dos Palácios Nacionais da Ajuda, Mafra, Pena, Queluz e Sintra e do Arquivo Histórico do Ministério das Finanças de entre qualquer das categorias de conservador ou de técnico superior, desde que habilitados com licenciatura adequada e curriculum vitae que demonstre possuir a qualificação técnica e experiência necessárias ao desempenho daquelas funções.\n\n2.º Autorizar o preenchimento dos lugares de director do Museu Nacional de Literatura e do Museu de Évora de entre indivíduos, vinculados ou não à função pública, desde que habilitados com licenciatura e reconhecida competência, comprovada curricularmente.\n\nMinistérios da Cultura e Coordenação Científica e da Reforma Administrativa, 14 de Março de 1983. - Pelo Ministro da Cultura e Coordenação Científica, António José Tomás Gomes de Pinho, Secretário de Estado da Cultura. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa."
+  },
+  "ef82ccf9f9729b10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1984-12-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 943/84](https://diariodarepublica.pt/dr/detalhe/portaria/943-1984-396343), publicado em 1984-12-20."
+   ],
+   "markdown": "de 28 de Março\n\nConsiderando o disposto no n.º 4 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho;\n\nConsiderando a recente transferência dos palácios nacionais e do Arquivo Histórico do Ministério das Finanças para o Ministério da Cultura e Coordenação Científica, através do Instituto Português do Património Cultural, pelo [Decreto-Lei n.º 318/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1982-397900), de 11 de Agosto;\n\nConsiderando a recente criação do Museu Nacional de Literatura pelo [Decreto-Lei n.º 441/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/441-1982-377948), de 6 de Novembro, bem como a vacatura do lugar de director do Museu de Évora;\n\nConsiderando que os cargos de directores dos referidos serviços têm as categorias de director de serviços e de chefe de divisão;\n\nConsiderando que não existem presentemente técnicos que reúnam os requisitos gerais de provimento exigidos pela lei;\n\nConsiderando finalmente que se torna urgente e inadiável o preenchimento daqueles cargos:\n\nManda o Governo da República Portuguesa, pelos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa, o seguinte:\n\n1.º Alargar, a título excepcional, a área de recrutamento para os lugares de director dos Palácios Nacionais da Ajuda, Mafra, Pena, Queluz e Sintra e do Arquivo Histórico do Ministério das Finanças de entre qualquer das categorias de conservador ou de entre indivíduos vinculados à função pública, desde que habilitados com licenciatura adequada e curriculum vitae que demonstre possuírem a qualificação técnica e a experiência necessárias ao desempenho daquelas funções.\n\n> Alterado pelo/a [Portaria n.º 943/84](https://diariodarepublica.pt/dr/detalhe/portaria/943-1984-396343), publicado em 1984-12-20.\n\n2.º Autorizar o preenchimento dos lugares de director do Museu Nacional de Literatura e do Museu de Évora de entre indivíduos, vinculados ou não à função pública, desde que habilitados com licenciatura e reconhecida competência, comprovada curricularmente.\n\nMinistérios da Cultura e Coordenação Científica e da Reforma Administrativa, 14 de Março de 1983. - Pelo Ministro da Cultura e Coordenação Científica, António José Tomás Gomes de Pinho, Secretário de Estado da Cultura. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa."
+  }
+ }
+}

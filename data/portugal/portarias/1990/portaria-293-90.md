@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-04-25'
+version_history:
+  file: portaria-293-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-04-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-04-25'
+    amending: pt:dre:223819:por
+    amending_title: Portaria n.º 337/95
+    changes:
+    - Altera Artigo unidades 16-16
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:17:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 337/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-293-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,4 +162,6 @@ Assinada em 3 de Abril de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/08900/18301831.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/093b00/22732274.pdf)
+
+> Alterado pelo/a [Portaria n.º 337/95](https://diariodarepublica.pt/dr/detalhe/portaria/337-1995-223819), publicado em 1995-04-20.

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-12-30'
+version_history:
+  file: despacho-normativo-132-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-12-30'
+    amending: pt:dre:318149:por
+    amending_title: Despacho Normativo n.º 292/82
+    changes:
+    - Adita Artigo depois da unidade 22
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:16:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 292/82. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1982/despacho-normativo-132-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,5 +159,9 @@ Aquisição de frota.
 5 - A utilização da verba referida no n.º 4 far-se-á até ao final do ano em curso, por disponibilização directa da Direcção-Geral do Tesouro de valores mensais e iguais correspondentes à diferença entre o montante atribuído e o montante de adiantamentos eventualmente efectuados até à data do presente despacho.
 
 6 - A empresa deverá apresentar ao Ministro de Estado e das Finanças e do Plano e ao Ministro da Habitação, Obras Públicas e Transportes, no prazo de 30 dias a contar da data da publicação do presente despacho, os instrumentos previsionais de gestão para 1982, actualizados de acordo com as alterações decorrentes dos números anteriores e outras que, entretanto, lhe tenham sido comunicadas, de acordo com o artigo 13.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, com a nova redacção introduzida pelo [Decreto-Lei n.º 25/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1979-393621), de 19 de Fevereiro.
+
+7 - É atribuída à Rodoviária Nacional uma dotação de 285 milhões de escudos para realização do capital estatutário a que se refere o artigo 20.º do Acordo de Saneamento Económico-Financeiro entre o Estado e a Rodoviária Nacional, E. P., publicado no Diário da República, 2.ª série, de 30 de Setembro de 1978.
+
+> Aditado pelo/a [Despacho Normativo n.º 292/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/292-1982-318149), publicado em 1982-12-30.
 
 Ministérios das Finanças e do Plano e da Habitação, Obras Públicas e Transportes, 31 de Maio de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - O Ministro da Habitação, Obras Públicas e Transportes, José Carlos Pinto Soromenho Viana Baptista.

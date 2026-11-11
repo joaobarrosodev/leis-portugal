@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-08-30'
+version_history:
+  file: despacho-normativo-229-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-10-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-08-30'
+    amending: pt:dre:219076:por
+    amending_title: Despacho Normativo n.º 79/86
+    changes:
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:18:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 79/86. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1982/despacho-normativo-229-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,7 +144,9 @@ a) Número mecanográfico, constituído por 6 algarismos, seguido de um dígito 
 
 b) Nome do docente;
 
-c) Datas em que o docente atingirá 5, 11 ou 18 anos de serviço contável para efeitos de fases;
+c) Datas em que o docente atingirá 5, 11 ou 17 anos de serviço contável para efeitos de fases e ainda as datas em que o docente atinge a 5.ª ou 6.ª fase, após 4 anos de bom e efectivo serviço docente prestado na fase imediatamente anterior.
+
+> Alterado pelo/a [Despacho Normativo n.º 79/86](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/79-1986-219076), publicado em 1986-08-30.
 
 d) Bonificações de tempo de serviço que influenciaram as datas referidas na alínea anterior;
 

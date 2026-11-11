@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:327126:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-02-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6ed60bd7d4c92044"
+   ]
+  },
+  {
+   "date": "1986-02-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:194247:por",
+     "title": "Portaria n.º 56/86",
+     "published": "1986-02-14",
+     "dre_path": "/dr/detalhe/portaria/56-1986-194247"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-7",
+    "Altera Artigo unidades 10-10"
+   ],
+   "fragments": [
+    "ae3191095e516ee6"
+   ]
+  }
+ ],
+ "fragments": {
+  "6ed60bd7d4c92044": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Fevereiro\n\nTendo em vista contribuir para um melhor preenchimento das atribuições do Ministério da Qualidade de Vida, nomeadamente as consagradas nas alíneas b), d), e) e g) do artigo 2.º do [Decreto-Lei n.º 49/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1983-308554), de 31 de Janeiro;\n\nTendo em consideração que, tanto no âmbito das universidades como no dos institutos de investigação, se têm vindo a realizar trabalhos de pesquisa no domínio do ambiente e que esses trabalhos são de grande importância para a prossecução da política do ambiente:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado do Ambiente, o seguinte:\n\n1.º Pelo presente diploma são criados 2 prémios para distinguir trabalhos de investigação no domínio do ambiente.\n\n2.º Estes prémios, a atribuir pela Secretaria de Estado do Ambiente, através da Direcção-Geral da Qualidade do Ambiente, terão o valor de 100000$00 e 50000$00, respectivamente.\n\n3.º A selecção dos trabalhos de investigação a premiar será levada a efeito por uma comissão, composta por 1 representante da Direcção-Geral da Qualidade do Ambiente, que, designado pelo Secretário de Estado do Ambiente, presidirá, por 1 representante da Associação Portuguesa de Recursos Hídricos, por 1 representante da Associação Portuguesa de Saneamento Básico, por 1 representante da Academia das Ciências de Lisboa e por 3 personalidades de reconhecida competência, nomeados e exonerados por despacho do Secretário de Estado do Ambiente.\n\n4.º Os prémios serão entregues anualmente no dia 5 de Junho, Dia Mundial do Ambiente.\n\n5.º A comissão reunirá anualmente de 1 a 30 de Abril, para apreciar os trabalhos dos candidatos, sob convocação do presidente da comissão.\n\n6.º A comissão deverá elaborar até 28 de Fevereiro do corrente ano o regulamento dos prémios, que será aprovado por despacho do Secretário de Estado do Ambiente.\n\nSecretaria de Estado do Ambiente.\n\nAssinada em 16 de Janeiro de 1985.\n\nO Secretário de Estado do Ambiente, Eduardo Guimarães de Oliveira Fernandes."
+  },
+  "ae3191095e516ee6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1986-02-19",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 56/86](https://diariodarepublica.pt/dr/detalhe/portaria/56-1986-194247), publicado em 1986-02-14.",
+    "Alterado pelo/a [Portaria n.º 56/86](https://diariodarepublica.pt/dr/detalhe/portaria/56-1986-194247), publicado em 1986-02-14."
+   ],
+   "markdown": "de 21 de Fevereiro\n\nTendo em vista contribuir para um melhor preenchimento das atribuições do Ministério da Qualidade de Vida, nomeadamente as consagradas nas alíneas b), d), e) e g) do artigo 2.º do [Decreto-Lei n.º 49/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1983-308554), de 31 de Janeiro;\n\nTendo em consideração que, tanto no âmbito das universidades como no dos institutos de investigação, se têm vindo a realizar trabalhos de pesquisa no domínio do ambiente e que esses trabalhos são de grande importância para a prossecução da política do ambiente:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado do Ambiente, o seguinte:\n\n1.º São criados 3 prémios para distinguir trabalhos de investigação no domínio do ambiente.\n\n2.º Os prémios referidos no número anterior, a atribuir pela Secretaria de Estado do Ambiente e dos Recursos Naturais, através da Direcção-Geral da Qualidade do Ambiente, terão o valor de 250000$00, 150000$00 e 100000$00, respectivamente.\n\n> Alterado pelo/a [Portaria n.º 56/86](https://diariodarepublica.pt/dr/detalhe/portaria/56-1986-194247), publicado em 1986-02-14.\n\n3.º A selecção dos trabalhos de investigação a premiar será levada a efeito por uma comissão, composta por 1 representante da Direcção-Geral da Qualidade do Ambiente, que, designado pelo Secretário de Estado do Ambiente, presidirá, por 1 representante da Associação Portuguesa de Recursos Hídricos, por 1 representante da Associação Portuguesa de Saneamento Básico, por 1 representante da Academia das Ciências de Lisboa e por 3 personalidades de reconhecida competência, nomeados e exonerados por despacho do Secretário de Estado do Ambiente.\n\n4.º Os prémios serão entregues anualmente no dia 5 de Junho, Dia Mundial do Ambiente.\n\n5.º A comissão mencionada no n.º 3.º reunirá anualmente, de 15 de Abril a 15 de Maio, para apreciar os trabalhos dos candidatos, sob convocação do respectivo presidente.\n\n> Alterado pelo/a [Portaria n.º 56/86](https://diariodarepublica.pt/dr/detalhe/portaria/56-1986-194247), publicado em 1986-02-14.\n\n6.º A comissão deverá elaborar até 28 de Fevereiro do corrente ano o regulamento dos prémios, que será aprovado por despacho do Secretário de Estado do Ambiente.\n\nSecretaria de Estado do Ambiente.\n\nAssinada em 16 de Janeiro de 1985.\n\nO Secretário de Estado do Ambiente, Eduardo Guimarães de Oliveira Fernandes."
+  }
+ }
+}

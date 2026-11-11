@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-12-12'
+version_history:
+  file: portaria-487-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-07-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-12-12'
+    amending: pt:dre:631776:por
+    amending_title: Portaria n.º 1066/99
+    changes:
+    - Adita Artigo depois da unidade 7
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/487/1999/07/06/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:15:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1066/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-487-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,6 +141,10 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 2.º Os processos autorizados para caçar as espécies cinegéticas indicadas no número anterior são os permitidos nos artigos 33.º a 48.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto, para cada espécie e regime cinegético.
 
+a) Nos terrenos de regime cinegético geral, no período de 1 de Janeiro a 27 de Fevereiro de 2000, apenas é permitida a caça ao tordo e ao estorninho-malhado pelo processo de espera.
+
+> Aditado pelo/a [Portaria n.º 1066/99](https://diariodarepublica.pt/dr/detalhe/portaria/1066-1999-631776), publicado em 1999-12-07.
+
 3.º Os limites diários de abate das espécies cinegéticas referidas no n.º 1.º, bem como os respectivos períodos e outras condicionantes venatórias, são os constantes do quadro anexo à presente portaria, da qual faz parte integrante.
 
 4.º Exceptuam-se do disposto no número anterior:
@@ -133,7 +153,9 @@ a) Os limites diários de abate fixados para a perdiz-vermelha, faisão, lebre, 
 
 b) O período venatório para a caça à lebre a corricão, que, quando estiverem em causa provas desportivas oficiais, poderá ser prorrogado até 27 de Fevereiro.
 
-5.º A Direcção-Geral das Florestas e as direcções regionais de agricultura estabelecerão por edital os locais, os processos e outras condicionantes venatórias nos períodos referidos no quadro anexo à presente portaria.
+5.º A Direcção-Geral das Florestas e as direcções regionais de agricultura estabelecerão por edital os locais e outras condicionantes venatórias nos períodos referidos no quadro anexo à presente portaria.
+
+> Alterado pelo/a [Portaria n.º 1066/99](https://diariodarepublica.pt/dr/detalhe/portaria/1066-1999-631776), publicado em 1999-12-07.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 17 de Junho de 1999.
 

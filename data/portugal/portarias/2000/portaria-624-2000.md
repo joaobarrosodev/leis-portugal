@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-12-16'
+version_history:
+  file: portaria-624-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-08-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-12-16'
+    amending: pt:dre:212212:por
+    amending_title: Portaria n.º 1462/2004
+    changes:
+    - Altera Artigo unidades 14-14
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/624/2000/08/19/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:24:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1462/2004. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-624-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,7 +177,9 @@ Autorização de funcionamento
 
 Número máximo de alunos
 
-O número de novos alunos a admitir anualmente não pode exceder 35.
+O número máximo de novos alunos a admitir anualmente não pode exceder 60.
+
+> Alterado pelo/a [Portaria n.º 1462/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1462-2004-212212), publicado em 2004-12-11.
 
 3.º
 

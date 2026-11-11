@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-05-13'
+version_history:
+  file: portaria-59-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-02-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-05-13'
+    amending: pt:dre:316166:por
+    amending_title: Portaria n.º 458/2001
+    changes:
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/59/2000/02/12/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:24:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 458/2001. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-59-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,13 +152,17 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 1.º Autorizar o Chefe do Estado-Maior-General das Forças Armadas a aprontar, sustentar e empregar as forças que constituirão o contingente nacional para Timor (CNT) e que, no âmbito da UNTAET-PKF, executam uma operação de apoio à manutenção da paz e segurança no território de Timor Leste na transição para a sua independência, nos termos dos números seguintes.
 
-2.º O CNT/UNTAET-PKF é constituído basicamente por elementos para o QG da UNTAET-PKF e pelo comando e QG do sector central e por elementos dos três ramos das Forças Armadas que integram as várias componentes da UNTAET-PKF, no total máximo de 800 efectivos.
+2.º O CNT/UNTAET-PKF é constituído basicamente por elementos para o QG da UNTAET-PKF e pelo comando e QG do sector central e por elementos dos três ramos das Forças Armadas que integram as várias componentes da UNTAET-PKF, no total máximo de 1000 efectivos.
+
+> Alterado pelo/a [Portaria n.º 458/2001](https://diariodarepublica.pt/dr/detalhe/portaria/458-2001-316166), publicado em 2001-05-08.
 
 3.º O CNT/UNTAET-PKF ficará sob a dependência operacional do comandante da UNTAET-PKF, com poderes de subdelegação.
 
 4.º Temporariamente, e em avaliação permanente, poderão ser utilizados outros meios dos três ramos das Forças Armadas para apoio e sustentação do CNT/UNTAET-PKF.
 
-5.º O CNT é estabelecido, previsivelmente, até 31 de Janeiro de 2001.
+5.º O CNT é estabelecido, previsivelmente, até 31 de Janeiro de 2002.
+
+> Alterado pelo/a [Portaria n.º 458/2001](https://diariodarepublica.pt/dr/detalhe/portaria/458-2001-316166), publicado em 2001-05-08.
 
 6.º De acordo com o n.º 5.º da portaria n.º 87/99 (2.ª série), de 30 de Dezembro, publicada no Diário da República, 2.ª série, de 28 de Janeiro de 1999, os militares que integrem o CNT/UNTAET-PKF desempenham funções em país de classe C.
 

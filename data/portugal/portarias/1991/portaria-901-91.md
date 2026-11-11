@@ -40,10 +40,24 @@ notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-09-30'
+version_history:
+  file: portaria-901-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-09-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-09-30'
+    amending: pt:dre:682186:por
+    amending_title: Declaração de Rectificação n.º 221/91
+    changes:
+    - Altera Artigo unidades 3-3
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/901/1991/09/04/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:03:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 221/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-901-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,7 +139,9 @@ validation:
 
 de 4 de Setembro
 
-Manda o Governo, pelo Secretário de Estado da Cultura, sob parecer dos serviços competentes, que, de acordo com o disposto na alínea a) do artigo 9.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, no n.º 2 do artigo 22.º da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho, e no n.º 1 do artigo 4.º do [Decreto-Lei n.º 216/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1990-575493), de 3 de Junho, seja fixado, conforme a planta anexa a esta portaria, o perímetro da zona especial de protecção da Estação Arqueológica de Chões de Alpombé, freguesia de Vale de Figueira, concelho de Santarém, classificada como imóvel de interesse público pelo [Decreto-Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1982-600772), de 26 de Fevereiro.
+Manda o Governo, pelo Secretário de Estado da Cultura, sob parecer dos serviços competentes, que, de acordo com o disposto na alínea a) do artigo 9.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, no n.º 2 do artigo 22.º da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho, e no n.º 1 do artigo 4.º do [Decreto-Lei n.º 216/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1990-575493), de 3 de Junho, seja fixado, conforme a planta anexa a esta portaria, o perímetro da zona especial de protecção da Estação Arqueológica de Chões de Alpompé, freguesia de Vale de Figueira, concelho de Santarém, classificada como imóvel de interesse público pelo [Decreto-Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1982-600772), de 26 de Fevereiro.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 221/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/221-1991-682186), publicado em 1991-09-30.
 
 Presidência do Conselho de Ministros.
 

@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-20'
+version_history:
+  file: portaria-360-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-05-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-20'
+    amending: pt:dre:483085:por
+    amending_title: Portaria n.º 1259/2009
+    changes:
+    - Altera Artigo unidades 11-12
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 15-15
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/360/1999/05/19/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:14:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1259/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-360-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,15 +147,25 @@ Manda o Governo, pelos Secretários de Estado da Comunicação Social e das Comu
 
 5.º A emissão do título de identificação é requerida pelo interessado à CCPJ, devendo o requerimento ser instruído com os seguintes elementos:
 
-a) Cópia certificada de documento de identificação;
+a) Cópia do bilhete de identidade ou de documento que permita a identificação civil do requerente;
 
-b) Duas fotografias recentes a cores, tipo passe;
+b) Uma fotografia recente a cores, tipo passe;
+
+> Alterado pelo/a [Portaria n.º 1259/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1259-2009-483085), publicado em 2009-10-15.
 
 c) Documento comprovativo de que exerce actividade jornalística em órgão de comunicação social destinado às comunidades portuguesas no estrangeiro e aí sediado, com indicação da categoria e funções, passado pela referido órgão.
 
-6.º O título de identificação é válido pelo período de dois anos civis consecutivos, carecendo de renovação para o biénio subsequente.
+6.º O título de identificação é válido pelo período de dois anos, carecendo de renovação.
 
-7.º A renovação é concedida a requerimento do interessado, a apresentar no ano imediatamente anterior ao fim do prazo de validade do título, sob pena de caducidade, devendo o requerimento ser instruído com os elementos previstos no n.º 5.º
+> Alterado pelo/a [Portaria n.º 1259/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1259-2009-483085), publicado em 2009-10-15.
+
+7.º A renovação é concedida a requerimento do interessado, a apresentar no mês anterior ao termo de validade do título, sob pena de caducidade, devendo o requerimento ser instruído com os seguintes elementos:
+
+a) Uma fotografia a cores, tipo passe, quando a fotografia anterior tenha sido entregue há mais de cinco anos;
+
+b) A declaração referida na alínea c) do n.º 5.º
+
+> Alterado pelo/a [Portaria n.º 1259/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1259-2009-483085), publicado em 2009-10-15.
 
 8.º A cessação do exercício da actividade jornalística em órgão de comunicação social destinado às comunidades portuguesas no estrangeiro e aí sediado implica a caducidade do título de identificação, devendo o titular proceder a sua devolução à CCPJ.
 

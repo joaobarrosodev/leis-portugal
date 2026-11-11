@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-09-30'
+version_history:
+  file: declaracao-78-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-09-30'
+    amending: pt:dre:354317:por
+    amending_title: Declaração de Rectificação n.º 145/94
+    changes:
+    - Altera Artigo unidades 2-2
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decl/78/1994/07/05/p/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T11:28:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 145/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/declaracoes/1994/declaracao-78-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -94,7 +109,9 @@ validation:
 
 # Declaração n.º 78/94
 
-De harmonia com o disposto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 46/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1984-660512), de 4 de Fevereiro, se publicam as seguintes alterações efectuadas no orçamento (1993) abaixo designado, autorizadas, nos termos do n.º 2 e da alínea b) do n.º 3 do artigo 5.º e dos n.os 1 e 2 do artigo 7.º do mesmo diploma, por despachos do ministro da tutela, do Secretário de Estado do Planeamento e do Desenvolvimento Regional e do Ministro das Finanças:
+De harmonia com o disposto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 46/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1984-660512), de 4 de Fevereiro, se publicam as seguintes transferências de verbas no Orçamento do Estado para 1994, autorizadas, nos termos dos n.os 2 e 3 do artigo 5.º do mesmo diploma, conjugado com o artigo 13.º do [Decreto-Lei n.º 77/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1994-275399), de 9 de Março, cujos despachos de autorização constam dos respectivos processos:
+
+> Alterado pelo/a [Declaração de Rectificação n.º 145/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/145-1994-354317), publicado em 1994-09-30.
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/153b00/35533557.pdf)
 

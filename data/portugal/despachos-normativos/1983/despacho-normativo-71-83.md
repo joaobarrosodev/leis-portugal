@@ -28,10 +28,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-10-19'
+version_history:
+  file: despacho-normativo-71-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-03-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-10-19'
+    amending: pt:dre:441482:por
+    amending_title: Despacho Normativo n.º 192/83
+    changes:
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 20-20
+    - Altera Artigo unidades 44-44
+    - Altera Artigo unidades 45-45
 identifiers:
   celex: null
   eli: null
@@ -57,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:26:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 192/83. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1983/despacho-normativo-71-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,7 +135,9 @@ I
 
 Milho
 
-1 - Os preços de aquisição do milho da produção a praticar pela Empresa Pública de Abastecimento de Cereais - EPAC na campanha de 1983 são fixados em 19$50/kg para os milhos brancos e 20$00/kg para os milhos amarelos e aplicam-se ao cereal que se apresente são, isento de cheiros estranhos e de depredadores vivos, com coloração própria e mais as seguintes características para a qualidade tipo:
+1 - Os preços de aquisição do milho da produção nacional a praticar pela Empresa Pública de Abastecimento de Cereais - EPAC na campanha de 1983 são fixados em 22$50 kg para os milhos brancos e 23$00/kg para os milhos amarelos, e aplicam-se ao cereal que se apresente são, isentos de cheiros estranhos e de predadores vivos, com coloração própria e mais as seguintes características para a qualidade tipo:
+
+> Alterado pelo/a [Despacho Normativo n.º 192/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/192-1983-441482), publicado em 1983-10-14.
 
 Teor de humidade - 14%;
 
@@ -131,7 +151,9 @@ Impurezas:
 
 1) Constituídas por grãos - 4%;
 
-2) Outras - 1%.
+2) Outras 1%.
+
+> Alterado pelo/a [Despacho Normativo n.º 192/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/192-1983-441482), publicado em 1983-10-14.
 
 2 - As tolerâncias para a qualidade mínima são as seguintes:
 
@@ -179,9 +201,13 @@ II
 
 Sorgo
 
-10 - A Empresa Pública de Abastecimento de Cereais - EPAC adquirirá ao preço de 17$50/kg o sorgo de produção nacional da campanha de 1983 que se encontre são, isento de cheiros estranhos e de depredadores vivos, com coloração própria e mais as seguintes características:
+10 - A Empresa Pública de Abastecimento de Cereais - EPAC adquirirá ao preço de 21$70/kg o sorgo da produção nacional da campanha de 1983 que se encontre são, isento de cheiros estranhos e de predadores vivos, com coloração própria e mais as seguintes características:
 
-Humidade - máximo 14%;
+> Alterado pelo/a [Despacho Normativo n.º 192/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/192-1983-441482), publicado em 1983-10-14.
+
+Humidade - máximo 14%
+
+> Alterado pelo/a [Despacho Normativo n.º 192/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/192-1983-441482), publicado em 1983-10-14.
 
 Peso específico - mínimo 71 kg/hl;
 

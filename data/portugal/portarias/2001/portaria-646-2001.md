@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-12-27'
+version_history:
+  file: portaria-646-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-12-27'
+    amending: pt:dre:219691:por
+    amending_title: Portaria n.º 1477/2004
+    changes:
+    - Altera Artigo unidades 26-27
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/646/2001/06/26/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:33:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1477/2004. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-646-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -171,9 +186,11 @@ A conclusão com aproveitamento de todas as unidades curriculares que integram o
 
 Número máximo de alunos
 
-1 - O número máximo de novos alunos a admitir anualmente não pode exceder 75.
+1 - O número máximo de novos alunos a admitir anualmente não pode exceder 100.
 
-2 - A frequência global do curso não pode exceder 300 alunos.
+2 - A frequência global do curso não pode exceder 400 alunos.
+
+> Alterado pelo/a [Portaria n.º 1477/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1477-2004-219691), publicado em 2004-12-22.
 
 7.º
 

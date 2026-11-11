@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-12-31'
+version_history:
+  file: portaria-859-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-08-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-12-31'
+    amending: pt:dre:402560:por
+    amending_title: Declaração de Rectificação n.º 271/91
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/859/1991/08/20/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:02:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 271/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-859-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,7 +137,9 @@ Manda o Governo, pelo Ministro da Administração Interna, o seguinte:
 
 2.º A área de responsabilidade do novo posto compreende as freguesias de Souselo, Espadanedo, Tarouquela, Moimenta, Travanca e Fornelos.
 
-3.º É alterada em conformidade a área de responsabilidade do posto de Lamego.
+3.º É alterada em conformidade a área de responsabilidade do posto de Cinfães.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 271/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/271-1991-402560), publicado em 1991-12-31.
 
 Ministério da Administração Interna.
 

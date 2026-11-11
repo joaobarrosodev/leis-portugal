@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-08-31'
+version_history:
+  file: despacho-normativo-144-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-07-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-08-31'
+    amending: pt:dre:285678:por
+    amending_title: Declaração de Rectificação n.º 157/93
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/144/1993/07/10/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:00:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 157/93.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1993/despacho-normativo-144-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,7 +139,9 @@ Considerando o disposto no artigo 3.º do [Decreto-Lei n.º 34/93](https://diari
 
 Determina-se o seguinte:
 
-1 - É criado no quadro de pessoal da Secretaria-Geral da Presidência do Conselho de Ministros, constante do anexo III à [Portaria n.º 461/87](https://diariodarepublica.pt/dr/detalhe/portaria/461-1987-421818), de 2 de Junho, um lugar de assessor principal.
+1 - É criado no quadro de pessoal da Secretaria-Geral da Presidência do Conselho de Ministros, a que se refere o artigo 16.º do [Decreto-Lei n.º 147/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1993-300009), de 3 de Maio, um lugar de assessor principal.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 157/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/157-1993-285678), publicado em 1993-08-31.
 
 2 - O lugar referido no número anterior será extinto quando vagar.
 

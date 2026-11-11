@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-10-31'
+version_history:
+  file: declaracao-144-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-10-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-10-31'
+    amending: pt:dre:406727:por
+    amending_title: Declaração de Rectificação n.º 250/91
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decl/144/1991/10/04/p/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T11:28:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 250/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/declaracoes/1991/declaracao-144-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -102,4 +117,6 @@ De acordo com o disposto na parte final do n.º 2 do artigo 6.º do [Decreto-Lei
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/229b00/51875191.pdf)
 
-10.ª Delegação da Direcção-Geral da Contabilidade Pública. - A Directora, Maria Isabel Teixeira Freire Alves.
+10.ª Delegação da Direcção-Geral da Contabilidade Pública, 11 de Setembro de 1991. - A Directora, Maria Isabel Teixeira Freire Alves.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 250/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/250-1991-406727), publicado em 1991-10-31.

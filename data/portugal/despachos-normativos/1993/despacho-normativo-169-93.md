@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-09-30'
+version_history:
+  file: despacho-normativo-169-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-07-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-09-30'
+    amending: pt:dre:451190:por
+    amending_title: Declaração de Rectificação n.º 193/93
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/169/1993/07/19/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:01:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 193/93.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1993/despacho-normativo-169-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,7 +148,9 @@ Assim:
 
 Ao abrigo da alínea d) do artigo 5.º do [Decreto-Lei n.º 106-H/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-h-1992-410289), de 1 de Junho, bem como do artigo 1.º e da alínea a) do artigo 2.º do [Decreto-Lei n.º 102/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1980-442304), de 9 de Maio, determina-se o seguinte:
 
-1 - É revogado o [Despacho Normativo n.º 191/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/191-1992-225801), de 14 de Julho.
+1 - É revogado o [Despacho Normativo n.º 121/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/121-1992-300259), de 14 de Julho.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 193/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/193-1993-451190), publicado em 1993-09-30.
 
 2 - O presente despacho normativo produz efeitos desde 12 de Fevereiro de 1993.
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-07-06'
+version_history:
+  file: portaria-422-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-08-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-07-06'
+    amending: pt:dre:160513:por
+    amending_title: Portaria n.º 432/97
+    changes:
+    - Altera Artigo unidades 25-25
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/422/1996/08/28/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:29:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 432/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-422-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,7 +177,9 @@ Podem candidatar-se à matrícula e inscrição no curso os candidatos que satis
 
 a) Ser titular do grau de bacharel ou de licenciado;
 
-b) Ter experiência profissional como educador de infância ou professor do 1.º ciclo do ensino básico.
+b) Ter experiência profissional como educador de infância ou professor do ensino básico ou secundário.
+
+> Alterado pelo/a [Portaria n.º 432/97](https://diariodarepublica.pt/dr/detalhe/portaria/432-1997-160513), publicado em 1997-07-01.
 
 6.º
 

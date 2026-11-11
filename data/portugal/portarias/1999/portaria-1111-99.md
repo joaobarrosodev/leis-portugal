@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-07-23'
+version_history:
+  file: portaria-1111-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-07-23'
+    amending: pt:dre:670527:por
+    amending_title: Portaria n.º 592/2003
+    changes:
+    - Altera Artigo unidades 26-29
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1111/1999/12/28/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:13:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 592/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-1111-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -207,10 +222,32 @@ Pelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do 
 
 Curso de Contabilidade
 
-Grau de bacharel - 1.º ciclo
+1.º ciclo - Grau de bacharel
 
-[(ver quadros n.os 1 a 3 no documento original)](https://files.diariodarepublica.pt/1s/1999/12/300b00/92889289.pdf)
+QUADRO N.º 1
 
-Grau de licenciado - 2.º ciclo
+1.º ano
 
-[(ver quadro n.º 4 no documento original)](https://files.diariodarepublica.pt/1s/1999/12/300b00/92889289.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)
+
+QUADRO N.º 2
+
+2.º ano
+
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)
+
+QUADRO N.º 3
+
+3.º ano
+
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)
+
+2.º ciclo - Grau de licenciado
+
+QUADRO N.º 4
+
+1.º ano
+
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)](https://files.diariodarepublica.pt/1s/2003/07/164b00/41954199.pdf)
+
+> Alterado pelo/a [Portaria n.º 592/2003](https://diariodarepublica.pt/dr/detalhe/portaria/592-2003-670527), publicado em 2003-07-18.

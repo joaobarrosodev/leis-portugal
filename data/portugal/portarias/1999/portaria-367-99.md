@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-03-18'
+version_history:
+  file: portaria-367-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-05-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-03-18'
+    amending: pt:dre:149052:por
+    amending_title: Portaria n.º 955/2005; Portaria n.º 269/2006
+    changes:
+    - Altera Artigo unidades 40-43
+    - Altera Artigo unidades 49-51
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/367/1999/05/19/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:14:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 955/2005; Portaria n.º
+    269/2006. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-367-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -211,13 +227,9 @@ As condições de acesso ao curso de especialização são as fixadas nos termos
 
 Regulamento
 
-1 - O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) e as respectivas alterações estão sujeitos a registo.
+O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.
 
-2 - O registo efectua-se através de despacho do Ministro da Educação, ouvida a comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto.
-
-3 - O Ministro da Educação recusa o registo do regulamento se o mesmo for desconforme com a lei ou com os estatutos da Universidade Lusófona de Humanidades e Tecnologias.
-
-4 - Após o registo, a entidade instituidora faz publicar o regulamento, bem como as suas alterações, na 2.ª série do Diário da República.
+> Alterado pelo/a [Portaria n.º 269/2006](https://diariodarepublica.pt/dr/detalhe/portaria/269-2006-667161), publicado em 2006-03-17.
 
 10.º
 
@@ -229,8 +241,10 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 ## ANEXO — Universidade Lusófona de Humanidades e Tecnologias
 
-Curso: Museologia
+Curso de especialização em Museologia
 
-Grau: mestre
+Grau de mestre
 
-[(ver quadros n.os 1 e 2 no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116b00/27052707.pdf)
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/189b00/58875888.pdf)
+
+> Alterado pelo/a [Portaria n.º 955/2005](https://diariodarepublica.pt/dr/detalhe/portaria/955-2005-149052), publicado em 2005-09-30.

@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-07-25'
+version_history:
+  file: despacho-normativo-158-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-10-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-07-25'
+    amending: pt:dre:183614:por
+    amending_title: Despacho Normativo n.º 61/85
+    changes:
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:28:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 61/85. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1984/despacho-normativo-158-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,7 +160,9 @@ Trigo, centeio, triticale, cevada e aveia
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/24300/32463248.pdf)
 
-2.º O trigo mole do tipo I integra o cereal proveniente de semente certificada das variedades Campodoro, Ímpeto, Mara, Nazereno Strampelli, Anza, Caia, Tejo e Mira de searas devidamente verificadas pelos serviços regionais de agricultura ou pela EPAC.
+2.º O trigo mole do tipo I integra o cereal das variedades Campodoro, Ímpeto, Mara, Nazereno, Strampelli, Anza, Caia, Mira e Tejo de searas devidamente verificadas pelos serviços regionais de agricultura ou pela EPAC.
+
+> Alterado pelo/a [Despacho Normativo n.º 61/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/61-1985-183614), publicado em 1985-07-20.
 
 O trigo mole do tipo II integra o cereal proveniente de todas as restantes variedades actualmente cultivadas.
 

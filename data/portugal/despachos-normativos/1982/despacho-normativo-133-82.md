@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-12-30'
+version_history:
+  file: despacho-normativo-133-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-12-30'
+    amending: pt:dre:318149:por
+    amending_title: Despacho Normativo n.º 292/82
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:16:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 292/82. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1982/despacho-normativo-133-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,7 +141,9 @@ Em bens do património da empresa:
 
 2 - No presente ano fica vedado à empresa lançar e financiar qualquer projecto de investimento, salvo quando sujeito a autorização específica do Ministro de Estado e das Finanças e do Plano e do Ministro da Habitação, Obras Públicas e Transportes.
 
-3 - É atribuída à CTM - Companhia de Transportes Marítimos, E. P., uma dotação para capital estatutário no montante de 1000 milhões de escudos, a realizar por conta da dotação de 17000 milhões de escudos inscrita no Orçamento Geral do Estado para 1982, que se destina ao saneamento da estrutura financeira da empresa.
+3 - É atribuída à CTM - Companhia de Transportes Marítimos uma dotação para capital estatutário no montante de 1300 milhões de escudos, a realizar por conta da dotação de 17 milhões de escudos inscrita no Orçamento Geral do Estado para 1982, que se destina ao saneamento da estrutura financeira da empresa.
+
+> Alterado pelo/a [Despacho Normativo n.º 292/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/292-1982-318149), publicado em 1982-12-30.
 
 4 - É atribuído à CTM - Companhia Portuguesa de Transportes Marítimos, E. P., um subsídio não reembolsável no montante de 500 milhões de escudos, a realizar por conta da dotação de 11000 milhões de escudos inscrita no Orçamento Geral do Estado para 1982, que se destina a compensar a empresa durante o corrente ano pelas obrigações de serviço público que lhe são impostas pelo Estado ao abrigo do n.º 2 do artigo 25.º do [Decreto-Lei n.º 77/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1980-681989), de 16 de Abril.
 

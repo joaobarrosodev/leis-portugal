@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-08-04'
+version_history:
+  file: portaria-634-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-09-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-08-04'
+    amending: pt:dre:651733:por
+    amending_title: Portaria n.º 654/2003
+    changes:
+    - Altera Artigo unidades 4-14
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:35:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 654/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-634-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,27 +134,9 @@ de 15 de Setembro
 
 Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos artigos 5.º, 6.º e 15.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, e nos artigos 1.º, 6.º e 13.º do [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de Outubro, o seguinte:
 
-1.º - a) É criada uma 2.ª conservatória do registo predial de 1.ª classe no concelho de Coimbra.
+1.º - (Revogado.)
 
-b) Cada uma das conservatórias resultantes do desdobramento da actual ficará com competência territorial sobre a área a seguir indicada:
-
-1.ª Conservatória do Registo Predial:
-
-Freguesia, de Almedina, Antuzede, Botão, Brasfemes, Eiras, Lamarosa, Santa Cruz, Santo António dos Olivais, São Bartolomeu, São Jorge do Campo, São Martinho de Árvore, São Paulo de Frades, São Silvestre, Sé Nova, Souselas, Torre de Vilela, Trouxemil e Vil de Matos;
-
-2.ª Conservatória do Registo Predial:
-
-Freguesias de Almalaguês, Ameal, Antanhol, Arzila, Assafarge, Castelo Viegas, Ceira, Cernache, Ribeira de Frades, Santa Clara, São Martinho do Bispo, Taveiro e Torres do Mondego.
-
-c) O quadro de oficiais de cada uma das conservatórias será assim constituído:
-
-Primeiro-ajudante - 1;
-
-Segundo-ajudante - 1;
-
-Terceiros-ajudantes - 2;
-
-Escriturários - 3;
+> Alterado pelo/a [Portaria n.º 654/2003](https://diariodarepublica.pt/dr/detalhe/portaria/654-2003-651733), publicado em 2003-07-30.
 
 2.º - a) São criadas conservatórias do registo predial e comercial em Castro Marim, Góis e Castanheira de Pêra, todas de 3.ª classe, a funcionar em regime de anexação com os serviços do registo civil e do notariado já existentes em cada um dos respectivos concelhos.
 

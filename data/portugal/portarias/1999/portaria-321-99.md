@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-11-25'
+version_history:
+  file: portaria-321-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-05-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-11-25'
+    amending: pt:dre:445526:por
+    amending_title: Portaria n.º 1301/2003
+    changes:
+    - Adita Artigo depois da unidade 10
+    - Altera Artigo unidades 20-26
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/321/1999/05/12/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:14:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1301/2003. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-321-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,6 +181,14 @@ Plano de estudos
 
 É aprovado o plano de estudos do curso bietápico de licenciatura em Jornalismo e Comunicação da Escola Superior de Educação de Portalegre, criado pela [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto, nos termos do anexo à presente portaria.
 
+1.º-A
+
+Estágio
+
+As unidades curriculares denominadas 'Estágio' realizam-se nos termos fixados por regulamento a aprovar pelo órgão legal e estatutariamente competente do estabelecimento de ensino.
+
+> Aditado pelo/a [Portaria n.º 1301/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1301-2003-445526), publicado em 2003-11-20.
+
 2.º
 
 Norma revogatória
@@ -183,16 +207,54 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 Escola Superior de Educação
 
-Curso: Jornalismo e Comunicação
+Curso de Jornalismo e Comunicação
 
-1.º ciclo
+1.º ciclo - Grau de bacharel
 
-Grau: bacharel
+QUADRO N.º 1
 
-[(ver quadros n.os 1 a 3 no documento original)](https://files.diariodarepublica.pt/1s/1999/05/110b00/25122513.pdf)
+1.º ano
 
-2.º ciclo
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)
 
-Grau: licenciado
+QUADRO N.º 2
 
-[(ver quadro n.º 4 no documento original)](https://files.diariodarepublica.pt/1s/1999/05/110b00/25122513.pdf)
+2.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)
+
+Opção de Jornalismo
+
+QUADRO N.º 3
+
+3.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)
+
+Opção de Publicidade e Relações Públicas
+
+QUADRO N.º 4
+
+3.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)
+
+2.º ciclo - Grau de licenciado
+
+Ramo de Jornalismo
+
+QUADRO N.º 5
+
+1.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)
+
+Ramo de Publicidade e Relações Públicas
+
+QUADRO N.º 6
+
+1.º ano
+
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)
+
+> Alterado pelo/a [Portaria n.º 1301/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1301-2003-445526), publicado em 2003-11-20.

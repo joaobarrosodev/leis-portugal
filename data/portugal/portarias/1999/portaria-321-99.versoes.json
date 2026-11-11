@@ -1,0 +1,77 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:321952:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-05-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9bea5ecf176fcf4d",
+    "7c24e1f18812bce9"
+   ]
+  },
+  {
+   "date": "2003-11-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:445526:por",
+     "title": "Portaria n.º 1301/2003",
+     "published": "2003-11-20",
+     "dre_path": "/dr/detalhe/portaria/1301-2003-445526"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 10",
+    "Altera Artigo unidades 20-26"
+   ],
+   "fragments": [
+    "dfcd20edafbc3fbc",
+    "0303e23c1b61d401"
+   ]
+  }
+ ],
+ "fragments": {
+  "9bea5ecf176fcf4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Maio\n\nSob proposta do Instituto Politécnico de Portalegre e da sua Escola Superior de Educação;\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro);\n\nConsiderando o disposto nas Portarias n.os [413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, e [413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto;\n\nAo abrigo do disposto na lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro), no artigo 4.º do [Decreto-Lei n.º 303/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1980-470779), de 16 de Agosto, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso bietápico de licenciatura em Jornalismo e Comunicação da Escola Superior de Educação de Portalegre, criado pela [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto, nos termos do anexo à presente portaria.\n\n2.º\n\nNorma revogatória\n\nFindo o processo de transição fixado nos termos do artigo 31.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, é revogada a [Portaria n.º 1082/94](https://diariodarepublica.pt/dr/detalhe/portaria/1082-1994-565630), de 7 de Dezembro, que autorizou o Instituto Politécnico de Portalegre, através da sua Escola Superior de Educação, a conferir o grau de bacharel em Jornalismo e Comunicação.\n\n3.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do ano lectivo de 1998-1999, inclusive.\n\nPelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior, em 25 de Março de 1999."
+  },
+  "7c24e1f18812bce9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Portalegre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Instituto Politécnico de Portalegre\n\nEscola Superior de Educação\n\nCurso: Jornalismo e Comunicação\n\n1.º ciclo\n\nGrau: bacharel\n\n[(ver quadros n.os 1 a 3 no documento original)](https://files.diariodarepublica.pt/1s/1999/05/110b00/25122513.pdf)\n\n2.º ciclo\n\nGrau: licenciado\n\n[(ver quadro n.º 4 no documento original)](https://files.diariodarepublica.pt/1s/1999/05/110b00/25122513.pdf)"
+  },
+  "dfcd20edafbc3fbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2003-11-25",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 1301/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1301-2003-445526), publicado em 2003-11-20."
+   ],
+   "markdown": "de 12 de Maio\n\nSob proposta do Instituto Politécnico de Portalegre e da sua Escola Superior de Educação;\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro);\n\nConsiderando o disposto nas Portarias n.os [413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, e [413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto;\n\nAo abrigo do disposto na lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro), no artigo 4.º do [Decreto-Lei n.º 303/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1980-470779), de 16 de Agosto, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso bietápico de licenciatura em Jornalismo e Comunicação da Escola Superior de Educação de Portalegre, criado pela [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto, nos termos do anexo à presente portaria.\n\n1.º-A\n\nEstágio\n\nAs unidades curriculares denominadas 'Estágio' realizam-se nos termos fixados por regulamento a aprovar pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n> Aditado pelo/a [Portaria n.º 1301/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1301-2003-445526), publicado em 2003-11-20.\n\n2.º\n\nNorma revogatória\n\nFindo o processo de transição fixado nos termos do artigo 31.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, é revogada a [Portaria n.º 1082/94](https://diariodarepublica.pt/dr/detalhe/portaria/1082-1994-565630), de 7 de Dezembro, que autorizou o Instituto Politécnico de Portalegre, através da sua Escola Superior de Educação, a conferir o grau de bacharel em Jornalismo e Comunicação.\n\n3.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do ano lectivo de 1998-1999, inclusive.\n\nPelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior, em 25 de Março de 1999."
+  },
+  "0303e23c1b61d401": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Portalegre",
+   "in_force_from": "2003-11-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1301/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1301-2003-445526), publicado em 2003-11-20."
+   ],
+   "markdown": "## ANEXO — Instituto Politécnico de Portalegre\n\nEscola Superior de Educação\n\nCurso de Jornalismo e Comunicação\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)\n\nOpção de Jornalismo\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)\n\nOpção de Publicidade e Relações Públicas\n\nQUADRO N.º 4\n\n3.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)\n\n2.º ciclo - Grau de licenciado\n\nRamo de Jornalismo\n\nQUADRO N.º 5\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)\n\nRamo de Publicidade e Relações Públicas\n\nQUADRO N.º 6\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)](https://files.diariodarepublica.pt/1s/2003/11/269b00/79097911.pdf)\n\n> Alterado pelo/a [Portaria n.º 1301/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1301-2003-445526), publicado em 2003-11-20."
+  }
+ }
+}

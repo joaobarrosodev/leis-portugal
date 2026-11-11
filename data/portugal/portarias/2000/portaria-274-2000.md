@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-05-31'
+version_history:
+  file: portaria-274-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-05-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-05-31'
+    amending: pt:dre:522259:por
+    amending_title: Declaração de Rectificação n.º 6-M/2000
+    changes:
+    - Altera Artigo unidades 27-27
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/274/2000/05/22/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:22:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 6-M/2000.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-274-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -203,4 +218,6 @@ e) Curso Técnico de Gestão e Recuperação de Espaços Verdes, nível 3, aprov
 
 Em 29 de Fevereiro de 2000.
 
-Pelo Ministro da Educação, Joaquim Manuel dos Santos Vigário Pacheco, Secretário de Estado do Orçamento. - O Ministro da Educação, Guilherme d'Oliveira Martins.
+Pelo Ministro das Finanças, Fernando Manuel dos Santos Vigário Pacheco, Secretário de Estado do Orçamento. - O Ministro da Educação, Guilherme d'Oliveira Martins.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 6-M/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-m-2000-522259), publicado em 2000-05-31.

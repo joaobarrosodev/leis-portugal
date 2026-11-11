@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-04-08'
+version_history:
+  file: portaria-950-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-08-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-08'
+    amending: pt:dre:603253:por
+    amending_title: Portaria n.º 345/2009
+    changes:
+    - Altera Artigo unidades 3-106
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/950/2001/08/03/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:35:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 345/2009. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-950-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,213 +130,183 @@ validation:
 
 de 3 de Agosto
 
-1.º Manda o Governo, pelo Ministro da Justiça, nos termos do disposto no n.º 4 do artigo 16.º da [Lei n.º 3/99](https://diariodarepublica.pt/dr/detalhe/lei/3-1999-196220), de 13 de Janeiro, ouvidos o Conselho Superior da Magistratura, a Procuradoria-Geral da República e a Ordem dos Advogados, que sejam classificados de primeiro acesso os tribunais judiciais das comarcas de:
+1.º São classificados de primeiro acesso os tribunais judiciais das comarcas de:
 
-Alcácer do Sal.
+Alfândega da Fé;
 
-Alfândega da Fé.
+Alijó;
 
-Alijó.
+Almeida;
 
-Almeida.
+Almodôvar;
 
-Almeirim.
+Alvaiázere;
 
-Almodôvar.
+Armamar;
 
-Alvaiázere.
+Arraiolos;
 
-Amares.
+Avis;
 
-Ansião.
+Baião;
 
-Armamar.
+Bombarral;
 
-Arraiolos.
+Boticas;
 
-Avis.
+Cabeceiras de Basto;
 
-Baião.
+Cadaval;
 
-Bombarral.
+Carrazeda de Ansiães;
 
-Boticas.
+Castelo de Paiva;
 
-Cabeceiras de Basto.
+Castelo de Vide;
 
-Cadaval.
+Castro Daire;
 
-Carrazeda de Ansiães.
+Celorico de Basto;
 
-Castelo de Paiva.
+Celorico da Beira;
 
-Castelo de Vide.
+Cinfães;
 
-Castro Daire.
+Condeixa-a-Nova;
 
-Celorico de Basto.
+Cuba;
 
-Celorico da Beira.
+Ferreira do Alentejo;
 
-Cinfães.
+Ferreira do Zêzere;
 
-Condeixa-a-Nova.
+Figueira de Castelo Rodrigo;
 
-Coruche.
+Figueiró dos Vinhos;
 
-Cuba.
+Fornos de Algodres;
 
-Estremoz.
+Fronteira;
 
-Ferreira do Alentejo.
+Golegã;
 
-Ferreira do Zêzere.
+Idanha-a-Nova;
 
-Figueira de Castelo Rodrigo.
+Lagoa;
 
-Figueiró dos Vinhos.
+Mação;
 
-Fornos de Algodres.
+Meda;
 
-Fronteira.
+Melgaço;
 
-Golegã.
+Mértola;
 
-Grândola.
+Mesão Frio;
 
-Idanha-a-Nova.
+Mira;
 
-Lagoa.
+Miranda do Douro;
 
-Mação.
+Mogadouro;
 
-Mealhada.
+Moimenta da Beira;
 
-Meda.
+Monchique;
 
-Melgaço.
+Mondim de Basto;
 
-Mértola.
+Montalegre;
 
-Mesão Frio.
+Moura;
 
-Mira.
+Murça;
 
-Miranda do Douro.
+Nelas;
 
-Mogadouro.
+Nisa;
 
-Moimenta da Beira.
+Nordeste;
 
-Monchique.
+Oleiros;
 
-Mondim de Basto.
+Oliveira de Frades;
 
-Montalegre.
+Palmela;
 
-Moura.
+Pampilhosa da Serra;
 
-Murça.
+Paredes de Coura;
 
-Nazaré.
+Penamacor;
 
-Nelas.
+Penela;
 
-Nisa.
+Pinhel;
 
-Nordeste.
+Ponte da Barca;
 
-Odemira.
+Portel;
 
-Oleiros.
+Porto Santo;
 
-Oliveira de Frades.
+Povoação;
 
-Ourique.
+Redondo;
 
-Palmela.
+Reguengos de Monsaraz;
 
-Pampilhosa da Serra.
+Resende;
 
-Paredes de Coura.
+Sabrosa;
 
-Penacova.
+Sabugal;
 
-Penamacor.
+Santa Cruz das Flores;
 
-Penela.
+Santa Cruz da Graciosa;
 
-Pinhel.
+São João da Pesqueira;
 
-Ponta do Sol.
+São Roque do Pico;
 
-Ponte da Barca.
+São Vicente;
 
-Ponte de Sor.
+Sátão;
 
-Portel.
+Serpa;
 
-Porto Santo.
+Soure;
 
-Povoação.
+Tábua;
 
-Redondo.
+Tabuaço;
 
-Reguengos de Monsaraz.
+Torre de Moncorvo;
 
-Resende.
+Trancoso;
 
-Sabrosa.
+Valpaços;
 
-Sabugal.
+Velas;
 
-Santa Cruz das Flores.
+Vila Flor;
 
-Santa Cruz da Graciosa.
+Vila Franca do Campo;
 
-São João da Pesqueira.
+Vila Nova de Cerveira;
 
-São Roque do Pico.
+Vila Nova de Foz Côa;
 
-São Vicente.
+Vila do Porto;
 
-Sátão.
+Vila Viçosa;
 
-Serpa.
+Vimioso;
 
-Sever do Vouga.
+Vinhais;
 
-Soure.
-
-Tábua.
-
-Tabuaço.
-
-Torre de Moncorvo.
-
-Trancoso.
-
-Valpaços.
-
-Velas.
-
-Vieira do Minho.
-
-Vila Flor
-
-Vila Franca do Campo
-
-Vila Nova de Cerveira.
-
-Vila Nova de Foz Côa.
-
-Vila do Porto.
-
-Vila Viçosa.
-
-Vimioso.
-
-Vinhais.
+> Alterado pelo/a [Portaria n.º 345/2009](https://diariodarepublica.pt/dr/detalhe/portaria/345-2009-603253), publicado em 2009-04-03.
 
 Vouzela.
 

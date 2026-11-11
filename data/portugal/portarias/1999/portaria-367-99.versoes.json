@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:323953:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-05-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4886583e1374aac8",
+    "c3c1427d5fb6a900"
+   ]
+  },
+  {
+   "date": "2006-03-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:149052:por",
+     "title": "Portaria n.º 955/2005",
+     "published": "2005-09-30",
+     "dre_path": "/dr/detalhe/portaria/955-2005-149052"
+    },
+    {
+     "id": "pt:dre:667161:por",
+     "title": "Portaria n.º 269/2006",
+     "published": "2006-03-17",
+     "dre_path": "/dr/detalhe/portaria/269-2006-667161"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 40-43",
+    "Altera Artigo unidades 49-51"
+   ],
+   "fragments": [
+    "eb1b3a92d4c1b46e",
+    "dd8415cf113d60fb"
+   ]
+  }
+ ],
+ "fragments": {
+  "4886583e1374aac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Maio\n\nA requerimento da COFAC - Cooperativa de Formação e Animação Cultural, C. R. L., entidade instituidora da Universidade Lusófona de Humanidades e Tecnologias, reconhecida como de interesse público pelo [Decreto-Lei n.º 92/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1998-167074), de 14 de Abril, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nTendo o Instituto Superior de Matemática e Gestão de Lisboa sido autorizado a ministrar o curso de licenciatura em Urbanismo através da [Portaria n.º 1124/91](https://diariodarepublica.pt/dr/detalhe/portaria/1124-1991-343937), de 29 de Outubro;\n\nTendo já decorrido cinco anos de funcionamento do referido curso;\n\nTendo a autorização de funcionamento do curso e o reconhecimento do grau transitado para a Universidade Lusófona de Humanidades e Tecnologias, ao abrigo do disposto no n.º 2 do artigo 7.º do [Decreto-Lei n.º 92/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1998-167074);\n\nInstruído, organizado e apreciado o processo nos termos dos artigos 57.º e 59.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro;\n\nColhido o parecer da comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto;\n\nAo abrigo do disposto nos artigos 39.º e 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAutorização de concessão do grau de mestre\n\nA Universidade Lusófona de Humanidades e Tecnologias é autorizada a conceder o grau de mestre na especialidade de Museologia.\n\n2.º\n\nRegime aplicável\n\nO regime aplicável à atribuição do grau de mestre é o fixado pelo [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809), de 13 de Outubro.\n\n3.º\n\nGrau\n\nO grau de mestre na especialidade de Museologia é concedido aos que satisfaçam, cumulativamente, as seguintes condições:\n\na) Conclusão com aproveitamento de todas as unidades curriculares que integram o plano de estudos do curso de especialização;\n\nb) Elaboração, discussão e aprovação de uma dissertação especialmente escrita para o efeito.\n\n4.º\n\nAutorização de funcionamento do curso\n\nÉ autorizado o funcionamento do curso de especialização nas instalações da Universidade Lusófona de Humanidades e Tecnologias sitas em Lisboa que estejam autorizadas nos termos da lei.\n\n5.º\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente não pode exceder 20.\n\n2 - A frequência global do curso de especialização não pode exceder 30 alunos.\n\n6.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso de especialização nos termos do anexo à presente portaria.\n\n7.º\n\nInício de funcionamento do curso\n\nO curso de especialização pode iniciar o seu funcionamento a partir do ano lectivo de 1999-2000, inclusive.\n\n8.º\n\nCondições de acesso\n\nAs condições de acesso ao curso de especialização são as fixadas nos termos da lei e do regulamento.\n\n9.º\n\nRegulamento\n\n1 - O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) e as respectivas alterações estão sujeitos a registo.\n\n2 - O registo efectua-se através de despacho do Ministro da Educação, ouvida a comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto.\n\n3 - O Ministro da Educação recusa o registo do regulamento se o mesmo for desconforme com a lei ou com os estatutos da Universidade Lusófona de Humanidades e Tecnologias.\n\n4 - Após o registo, a entidade instituidora faz publicar o regulamento, bem como as suas alterações, na 2.ª série do Diário da República.\n\n10.º\n\nCondicionamento\n\nA autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino de cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Educação, quer por não cumprimento dos pressupostos de autorização e reconhecimento, quer em consequência das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo.\n\nPelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior, em 20 de Abril de 1999."
+  },
+  "c3c1427d5fb6a900": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Universidade Lusófona de Humanidades e Tecnologias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Universidade Lusófona de Humanidades e Tecnologias\n\nCurso: Museologia\n\nGrau: mestre\n\n[(ver quadros n.os 1 e 2 no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116b00/27052707.pdf)"
+  },
+  "eb1b3a92d4c1b46e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-03-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 269/2006](https://diariodarepublica.pt/dr/detalhe/portaria/269-2006-667161), publicado em 2006-03-17."
+   ],
+   "markdown": "de 19 de Maio\n\nA requerimento da COFAC - Cooperativa de Formação e Animação Cultural, C. R. L., entidade instituidora da Universidade Lusófona de Humanidades e Tecnologias, reconhecida como de interesse público pelo [Decreto-Lei n.º 92/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1998-167074), de 14 de Abril, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nTendo o Instituto Superior de Matemática e Gestão de Lisboa sido autorizado a ministrar o curso de licenciatura em Urbanismo através da [Portaria n.º 1124/91](https://diariodarepublica.pt/dr/detalhe/portaria/1124-1991-343937), de 29 de Outubro;\n\nTendo já decorrido cinco anos de funcionamento do referido curso;\n\nTendo a autorização de funcionamento do curso e o reconhecimento do grau transitado para a Universidade Lusófona de Humanidades e Tecnologias, ao abrigo do disposto no n.º 2 do artigo 7.º do [Decreto-Lei n.º 92/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1998-167074);\n\nInstruído, organizado e apreciado o processo nos termos dos artigos 57.º e 59.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro;\n\nColhido o parecer da comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto;\n\nAo abrigo do disposto nos artigos 39.º e 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAutorização de concessão do grau de mestre\n\nA Universidade Lusófona de Humanidades e Tecnologias é autorizada a conceder o grau de mestre na especialidade de Museologia.\n\n2.º\n\nRegime aplicável\n\nO regime aplicável à atribuição do grau de mestre é o fixado pelo [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809), de 13 de Outubro.\n\n3.º\n\nGrau\n\nO grau de mestre na especialidade de Museologia é concedido aos que satisfaçam, cumulativamente, as seguintes condições:\n\na) Conclusão com aproveitamento de todas as unidades curriculares que integram o plano de estudos do curso de especialização;\n\nb) Elaboração, discussão e aprovação de uma dissertação especialmente escrita para o efeito.\n\n4.º\n\nAutorização de funcionamento do curso\n\nÉ autorizado o funcionamento do curso de especialização nas instalações da Universidade Lusófona de Humanidades e Tecnologias sitas em Lisboa que estejam autorizadas nos termos da lei.\n\n5.º\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente não pode exceder 20.\n\n2 - A frequência global do curso de especialização não pode exceder 30 alunos.\n\n6.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso de especialização nos termos do anexo à presente portaria.\n\n7.º\n\nInício de funcionamento do curso\n\nO curso de especialização pode iniciar o seu funcionamento a partir do ano lectivo de 1999-2000, inclusive.\n\n8.º\n\nCondições de acesso\n\nAs condições de acesso ao curso de especialização são as fixadas nos termos da lei e do regulamento.\n\n9.º\n\nRegulamento\n\nO regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.\n\n> Alterado pelo/a [Portaria n.º 269/2006](https://diariodarepublica.pt/dr/detalhe/portaria/269-2006-667161), publicado em 2006-03-17.\n\n10.º\n\nCondicionamento\n\nA autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino de cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Educação, quer por não cumprimento dos pressupostos de autorização e reconhecimento, quer em consequência das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo.\n\nPelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior, em 20 de Abril de 1999."
+  },
+  "dd8415cf113d60fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Universidade Lusófona de Humanidades e Tecnologias",
+   "in_force_from": "2006-03-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 955/2005](https://diariodarepublica.pt/dr/detalhe/portaria/955-2005-149052), publicado em 2005-09-30."
+   ],
+   "markdown": "## ANEXO — Universidade Lusófona de Humanidades e Tecnologias\n\nCurso de especialização em Museologia\n\nGrau de mestre\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/189b00/58875888.pdf)\n\n> Alterado pelo/a [Portaria n.º 955/2005](https://diariodarepublica.pt/dr/detalhe/portaria/955-2005-149052), publicado em 2005-09-30."
+  }
+ }
+}

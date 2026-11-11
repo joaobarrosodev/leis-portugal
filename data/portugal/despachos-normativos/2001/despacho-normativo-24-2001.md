@@ -40,10 +40,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-09-26'
+version_history:
+  file: despacho-normativo-24-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-05-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-09-26'
+    amending: pt:dre:611688:por
+    amending_title: Despacho Normativo n.º 36/2001
+    changes:
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 27-27
+    - Altera Artigo unidades 29-29
+    - Altera Artigo unidades 30-30
+    - Altera Artigo unidades 31-33
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/24/2001/05/19/p/dre/pt/html
@@ -69,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:37:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 36/2001. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2001/despacho-normativo-24-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,11 +175,15 @@ Assim, determina-se o seguinte:
 
 2 - Compete à Direcção-Geral de Veterinária (DGV):
 
-a) Garantir a execução do programa de vigilância da EEB apresentado à Comunidade por Portugal, para o período compreendido entre 1 de Janeiro e 31 de Dezembro de 2001, bem como do programa de testes a realizar em bovinos com mais de 30 meses de idade, no estrito cumprimento das Decisões da Comissão n.os [2000/773/CE](http://data.europa.eu/eli/dec/2000/773/oj?locale=pt), de 30 de Novembro, [2000/764/CE](http://data.europa.eu/eli/dec/2000/764/oj?locale=pt), de 29 de Novembro, que altera a Decisão n.º [98/272/CE](http://data.europa.eu/eli/dec/1998/272/oj?locale=pt), e do Regulamento (CE) n.º [2777/2000](http://data.europa.eu/eli/reg/2000/2777/oj?locale=pt), da Comissão, de 18 de Dezembro;
+a) Garantir a execução do programa de vigilância da EEB no estrito cumprimento da Decisão n.º [2001/499/CE](http://data.europa.eu/eli/dec/2001/499/oj?locale=pt), de 3 de Julho, e do Regulamento (CE) n.º [999/2001](http://data.europa.eu/eli/reg/2001/999/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de Maio, alterado pelo Regulamento (CE) n.º [1248/2001](http://data.europa.eu/eli/reg/2001/1248/oj?locale=pt), da Comissão, de 22 de Junho;
+
+> Alterado pelo/a [Despacho Normativo n.º 36/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-2001-611688), publicado em 2001-09-21.
 
 b) Registar todos os bovinos positivos à EEB que, no âmbito dos referidos programas, venham a verificar-se, promovendo o abate dos respectivos coabitantes de acordo com as regras fixadas;
 
-c) Tratar e divulgar toda a informação estatística correlacionada com a execução dos programas, nomeadamente a sua inclusão nos relatórios mensais a remeter à Comissão nos termos da Directiva n.º [98/653/CE](http://data.europa.eu/eli/dir/1998/653/oj?locale=pt).
+c) Tratar e divulgar toda a informação estatística correlacionada com a execução dos programas, nomeadamente a sua inclusão nos relatórios mensais a remeter à Comissão nos termos da Decisão n.º [2001/376/CE](http://data.europa.eu/eli/dec/2001/376/oj?locale=pt), de 18 de Abril.
+
+> Alterado pelo/a [Despacho Normativo n.º 36/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-2001-611688), publicado em 2001-09-21.
 
 3 - Compete ao Laboratório Nacional de Investigação Veterinária (LNIV):
 
@@ -189,19 +213,23 @@ b) Proceder às adjudicações de aquisição dos kits de teste e dos reagentes 
 
 c) Ceder a posição contratual ao LNIV nos contratos referidos na alínea anterior;
 
-d) Promover a obtenção das verbas necessárias às adjudicações feitas no âmbito do presente despacho, incluindo a organização dos processos com vista à obtenção da participação financeira comunitária prevista no n.º 2 do artigo 2.º do Regulamento (CE) n.º [2777/2000](http://data.europa.eu/eli/reg/2000/2777/oj?locale=pt), da Comissão, de 18 de Dezembro, e no n.º 2 do artigo 13.º da Decisão da Comissão n.º [2000/773/CE](http://data.europa.eu/eli/dec/2000/773/oj?locale=pt), de 30 de Novembro;
+d) Promover a obtenção das verbas necessárias às adjudicações feitas no âmbito do presente despacho, incluindo a organização dos processos com vista à obtenção da participação financeira comunitária estabelecida para Portugal na Decisão da Comissão n.º [2000/773/CE](http://data.europa.eu/eli/dec/2000/773/oj?locale=pt), de 30 de Novembro, alterada pela Decisão da Comissão n.º [2001/499/CE](http://data.europa.eu/eli/dec/2001/499/oj?locale=pt), de 3 de Julho;
+
+> Alterado pelo/a [Despacho Normativo n.º 36/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-2001-611688), publicado em 2001-09-21.
 
 e) Proceder ao pagamento das verbas resultantes dos contratos celebrados, contra a apresentação de facturas devidamente visadas pelo LNIV e controlar a execução das respectivas despesas, bem como a regularidade da aplicação dos respectivos montantes;
 
-f) Pagar aos laboratórios privados, mediante a apresentação dos comprovativos das despesas com a aquisição dos kits de teste e dos reagentes, bem como do número de testes realizados, devida e previamente visados pelo LNIV, o montante da comparticipação comunitária nos termos do n.º 2 do artigo 2.º do Regulamento (CE) n.º [2777/2000](http://data.europa.eu/eli/reg/2000/2777/oj?locale=pt).
+f) Pagar aos laboratórios privados, mediante a apresentação dos comprovativos das despesas com a aquisição dos kits de teste e dos reagentes, bem como do número de testes realizados, devida e previamente visados pelo LNIV, o montante da comparticipação comunitária, nos termos previstos na Decisão da Comissão n.º [2000/773/CE](http://data.europa.eu/eli/dec/2000/773/oj?locale=pt), de 30 de Novembro, alterada pela Decisão n.º [2001/499/CE](http://data.europa.eu/eli/dec/2001/499/oj?locale=pt), de 3 de Julho;
 
-5 - As aquisições de kits de teste e de reagentes necessários à execução dos testes rápidos para rastreio da EEB previstas na Decisão da Comissão n.º [2000/773/CE](http://data.europa.eu/eli/dec/2000/773/oj?locale=pt), de 30 de Novembro, e no Regulamento (CE) n.º [2777/2000](http://data.europa.eu/eli/reg/2000/2777/oj?locale=pt), da Comissão, de 18 de Dezembro, e normativos complementares, são havidas como de urgência imperiosa para efeitos do disposto na alínea b) do n.º 1 do artigo 60.º e ainda da alínea c) do n.º 1 do artigo 86.º, conjugado com o n.º 2 do artigo 79.º do Decreto-Lei n.º 197/99, de 8 de Junho.
+> Alterado pelo/a [Despacho Normativo n.º 36/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-2001-611688), publicado em 2001-09-21.
 
-6 - O LNIV e os demais laboratórios oficiais cobrarão pela prestação de serviços inerente à realização das análises, às entidades que o solicitarem, por teste, os seguintes montantes:
+5 - As aquisições de kits de teste e reagentes necessários à execução dos testes rápidos para rastreio da EEB previstas na Decisão da Comissão n.º [2000/773/CE](http://data.europa.eu/eli/dec/2000/773/oj?locale=pt), de 30 de Novembro, alterada pela Decisão da Comissão n.º [2001/499/CE](http://data.europa.eu/eli/dec/2001/499/oj?locale=pt), de 3 de Julho, e no Regulamento (CE) n.º [999/2001](http://data.europa.eu/eli/reg/2001/999/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de Maio, alterado pelo Regulamento (CE) n.º [1248/2001](http://data.europa.eu/eli/reg/2001/1248/oj?locale=pt), da Comissão, de 22 de Junho, e normativos complementares, são havidas como de urgência imperiosa para efeitos do disposto na alínea b) do n.º 1 do artigo 60.º e ainda na alínea c) do n.º 1 do artigo 86.º, conjugado com o n.º 2 do artigo 79.º, do Decreto-Lei n.º 197/99, de 8 de Junho.
 
-6.1 - A bovinos com idade superior a 30 meses - 6000$00;
+> Alterado pelo/a [Despacho Normativo n.º 36/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-2001-611688), publicado em 2001-09-21.
 
-6.2 - No âmbito do programa de vigilância - 3000$00.
+6 - O LNIV e os demais laboratórios oficiais cobrarão aos apresentantes para abate, no caso de bovinos aprovados para consumo humano, e à DGV, no caso de bovinos mortos nas explorações e ou rejeitados pela inspecção sanitária nos matadouros, pela prestação de serviços inerente à realização das análises, o valor de 5000$00 por teste.
+
+> Alterado pelo/a [Despacho Normativo n.º 36/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-2001-611688), publicado em 2001-09-21.
 
 O LNIV e os demais laboratórios oficiais transferirão para o INGA o valor correspondente ao diferencial entre os custos reais de aquisição dos kits de teste e dos reagentes e o valor da comparticipação comunitária, sempre que aqueles custos sejam superiores ao valor desta comparticipação.
 

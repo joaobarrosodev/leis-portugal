@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-01-31'
+version_history:
+  file: portaria-147-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-03-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-01-31'
+    amending: pt:dre:213619:por
+    amending_title: Portaria n.º 115-A/2004
+    changes:
+    - Altera Artigo unidades 34-36
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/147/2001/03/02/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:30:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 115-A/2004. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-147-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -221,11 +236,9 @@ Grupo Hospitalar dos Hospitais Civis de Lisboa
 
 O Grupo Hospitalar dos Hospitais Civis de Lisboa, constituído pelo Hospital de São José, Hospital de Santo António dos Capuchos, Hospital de Curry Cabral, Hospital de D. Estefânia, Maternidade do Dr. Alfredo da Costa, Hospital de Santa Marta e Hospital do Desterro, e adiante designado por Grupo, rege-se pelo disposto para os grupos de hospitais sob coordenação comum no [Decreto-Lei n.º 284/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1999-353350), de 27 de Fevereiro, e pelas disposições do presente Regulamento.
 
-2.º
+2.º - (Revogado.)
 
-Subgrupo Hospitalar dos Capuchos e Desterro
-
-O Hospital de Santo António dos Capuchos e o Hospital do Desterro constituem um subgrupo hospitalar sob administração comum, ficando a responsabilidade da administração cometida aos orgãos próprios do Hospital de Santo António dos Capuchos.
+> Alterado pelo/a [Portaria n.º 115-A/2004](https://diariodarepublica.pt/dr/detalhe/portaria/115-a-2004-213619), publicado em 2004-01-30.
 
 3.º
 

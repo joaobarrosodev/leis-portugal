@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-12-02'
+version_history:
+  file: portaria-377-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-05-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-12-02'
+    amending: pt:dre:437421:por
+    amending_title: Portaria n.º 1315/2003
+    changes:
+    - Altera Artigo unidades 20-26
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/377/1999/05/21/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:14:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1315/2003. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-377-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -189,16 +204,40 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 Instituto Superior de Engenharia
 
-Curso: Engenharia Química
+Curso de Engenharia Química
 
-1.º ciclo
+1.º ciclo - Grau de bacharel
 
-Grau: bacharel
+QUADRO N.º 1
 
-[(ver quadros n.os 1 a 3 no documento original)](https://files.diariodarepublica.pt/1s/1999/05/118b00/27662767.pdf)
+1.º ano
 
-2.º ciclo
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)
 
-Grau: licenciado
+QUADRO N.º 2
 
-[(ver quadros n.os 4 e 5 no documento original)](https://files.diariodarepublica.pt/1s/1999/05/118b00/27662767.pdf)
+2.º ano
+
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)
+
+QUADRO N.º 3
+
+3.º ano
+
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)
+
+2.º ciclo - Grau de licenciado
+
+QUADRO N.º 4
+
+1.º ano
+
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)
+
+QUADRO N.º 5
+
+2.º ano
+
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80888090.pdf)
+
+> Alterado pelo/a [Portaria n.º 1315/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1315-2003-437421), publicado em 2003-11-27.

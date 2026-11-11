@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:355950:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1988-09-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75c3e5d02ab6570c"
+   ]
+  },
+  {
+   "date": "2003-08-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:651733:por",
+     "title": "Portaria n.º 654/2003",
+     "published": "2003-07-30",
+     "dre_path": "/dr/detalhe/portaria/654-2003-651733"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-14"
+   ],
+   "fragments": [
+    "80dc4b4cfe049375"
+   ]
+  }
+ ],
+ "fragments": {
+  "75c3e5d02ab6570c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Setembro\n\nManda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos artigos 5.º, 6.º e 15.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, e nos artigos 1.º, 6.º e 13.º do [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de Outubro, o seguinte:\n\n1.º - a) É criada uma 2.ª conservatória do registo predial de 1.ª classe no concelho de Coimbra.\n\nb) Cada uma das conservatórias resultantes do desdobramento da actual ficará com competência territorial sobre a área a seguir indicada:\n\n1.ª Conservatória do Registo Predial:\n\nFreguesia, de Almedina, Antuzede, Botão, Brasfemes, Eiras, Lamarosa, Santa Cruz, Santo António dos Olivais, São Bartolomeu, São Jorge do Campo, São Martinho de Árvore, São Paulo de Frades, São Silvestre, Sé Nova, Souselas, Torre de Vilela, Trouxemil e Vil de Matos;\n\n2.ª Conservatória do Registo Predial:\n\nFreguesias de Almalaguês, Ameal, Antanhol, Arzila, Assafarge, Castelo Viegas, Ceira, Cernache, Ribeira de Frades, Santa Clara, São Martinho do Bispo, Taveiro e Torres do Mondego.\n\nc) O quadro de oficiais de cada uma das conservatórias será assim constituído:\n\nPrimeiro-ajudante - 1;\n\nSegundo-ajudante - 1;\n\nTerceiros-ajudantes - 2;\n\nEscriturários - 3;\n\n2.º - a) São criadas conservatórias do registo predial e comercial em Castro Marim, Góis e Castanheira de Pêra, todas de 3.ª classe, a funcionar em regime de anexação com os serviços do registo civil e do notariado já existentes em cada um dos respectivos concelhos.\n\nb) Os quadros de oficiais de cada uma das referidas repartições serão os seguintes:\n\nTerceiros-ajudantes - 2;\n\nEscriturários - 2.\n\n3.º - a) São desanexados os serviços do registo civil e predial de Albufeira, mantendo as conservatórias a actual classificação.\n\nb) Os respectivos quadros de oficiais serão os seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/21400/37723773.pdf)\n\n4.º A data de entrada em funcionamento das novas conservatórias e a da desanexação dos serviços do registo civil e predial de Albufeira serão fixados por despacho do director-geral dos Registos e do Notariado.\n\nMinistério da Justiça.\n\nAssinada em 5 de Setembro de 1988.\n\nPelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça."
+  },
+  "80dc4b4cfe049375": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2003-08-04",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 654/2003](https://diariodarepublica.pt/dr/detalhe/portaria/654-2003-651733), publicado em 2003-07-30."
+   ],
+   "markdown": "de 15 de Setembro\n\nManda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos artigos 5.º, 6.º e 15.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, e nos artigos 1.º, 6.º e 13.º do [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de Outubro, o seguinte:\n\n1.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 654/2003](https://diariodarepublica.pt/dr/detalhe/portaria/654-2003-651733), publicado em 2003-07-30.\n\n2.º - a) São criadas conservatórias do registo predial e comercial em Castro Marim, Góis e Castanheira de Pêra, todas de 3.ª classe, a funcionar em regime de anexação com os serviços do registo civil e do notariado já existentes em cada um dos respectivos concelhos.\n\nb) Os quadros de oficiais de cada uma das referidas repartições serão os seguintes:\n\nTerceiros-ajudantes - 2;\n\nEscriturários - 2.\n\n3.º - a) São desanexados os serviços do registo civil e predial de Albufeira, mantendo as conservatórias a actual classificação.\n\nb) Os respectivos quadros de oficiais serão os seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/21400/37723773.pdf)\n\n4.º A data de entrada em funcionamento das novas conservatórias e a da desanexação dos serviços do registo civil e predial de Albufeira serão fixados por despacho do director-geral dos Registos e do Notariado.\n\nMinistério da Justiça.\n\nAssinada em 5 de Setembro de 1988.\n\nPelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça."
+  }
+ }
+}

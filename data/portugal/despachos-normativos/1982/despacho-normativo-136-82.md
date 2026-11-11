@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-12-30'
+version_history:
+  file: despacho-normativo-136-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-07-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-12-30'
+    amending: pt:dre:318149:por
+    amending_title: Despacho Normativo n.º 292/82
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:16:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 292/82. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1982/despacho-normativo-136-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,7 +142,9 @@ Instalações oficinais.
 
 2 - No presente ano fica vedado à empresa lançar e financiar qualquer projecto de investimento não contemplado no n.º 1, salvo quando sujeito a autorização específica do Ministro de Estado e das Finanças e do Plano e do Ministro da Habitação, Obras Públicas e Transportes.
 
-3 - A despesa de investimento referida no n.º 1 será parcialmente financiada por uma dotação de capital estatutário no montante de 47 milhões de escudos. Esta e eventualmente outra dotação adicional poderão assumir a forma de empréstimo subordinado ou de quase capital, nos termos que venham a ser definidos.
+3 - A despesa de investimento referida no n.º 1 será parcialmente financiada por uma dotação de capital de 162 milhões de escudos. Esta e eventualmente outra dotação adicional poderão assumir a forma de empréstimo subordinado ou de quase capital, nos termos que venham a ser definidos.
+
+> Alterado pelo/a [Despacho Normativo n.º 292/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/292-1982-318149), publicado em 1982-12-30.
 
 4 - É atribuído ao STCP - Serviço de Transportes Colectivos do Porto um subsídio não reembolsável no montante de 600 milhões de escudos, a realizar por conta da dotação de 11000 milhões de escudos inscrita no Orçamento Geral do Estado para 1982, que se destina a compensar a empresa, durante o corrente ano, pelas obrigações de serviço público que lhe são impostas pelo Estado.
 

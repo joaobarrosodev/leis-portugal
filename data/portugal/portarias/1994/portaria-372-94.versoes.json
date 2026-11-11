@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:303596:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-06-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6d6376a42d6fdcdb"
+   ]
+  },
+  {
+   "date": "1994-07-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:307461:por",
+     "title": "Declaração de Rectificação n.º 104/94",
+     "published": "1994-07-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/104-1994-307461"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-3",
+    "Altera Artigo unidades 10-10"
+   ],
+   "fragments": [
+    "72eee1c17bc0102c"
+   ]
+  }
+ ],
+ "fragments": {
+  "6d6376a42d6fdcdb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Junho\n\nPela [Portaria n.º 1053/90](https://diariodarepublica.pt/dr/detalhe/portaria/1053-1990-555993), de 12 de Outubro, foi concessionada ao Clube de Caçadores das Cortes da Venda uma zona de caça associativa pelo período de 12 anos (processo n.º 453 da DGF).\n\nPor efeito desta concessão, ficou o Clube de Caçadores das Cortes da Venda, como titular da zona de caça, sujeito ao cumprimento das obrigações legais e das decorrentes do plano de ordenamento e exploração cinegético.\n\nVerificou-se, contudo, que a entidade gestora violou o cumprimento das obrigações a que estava vinculada, praticando actos proibidos por lei, nomeadamente usando na zona de caça instrumentos proibidos, abatendo espécies da fauna estritamente protegidas e utilizando processos proibidos.\n\nAcresce que os factos ilícitos devidamente comprovados foram praticados com dolo e reincidência, agravando a culpa do seu agente.\n\nEm conformidade com o disposto na alínea b) do n.º 1 do artigo 85.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro, pode o Ministro da Agricultura em qualquer altura revogar a concessão de zonas de caça quando os seus titulares não cumprem as obrigações a que estão vinculados.\n\nAssim, com fundamento na alínea b) do n.º 1 do artigo 85.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura o seguinte:\n\n1.º É revogada a [Portaria n.º 1053/90](https://diariodarepublica.pt/dr/detalhe/portaria/1053-1990-555993), de 12 de Outubro, extinguindo-se, em consequência, a concessão para exploração cinegética na modalidade de zona de caça associativa atribuída ao Clube de Caçadores das Cortes da Venda.\n\n2.º Fica o Clube de Caçadores das Cortes da Venda obrigado a proceder ao levantamento das tabuletas de sinalização no prazo de 30 dias contados do início da vigência do presente diploma.\n\nMinistério da Agricultura.\n\nAssinada em 13 de Maio de 1994.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  },
+  "72eee1c17bc0102c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1994-07-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 104/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/104-1994-307461), publicado em 1994-07-30.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 104/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/104-1994-307461), publicado em 1994-07-30."
+   ],
+   "markdown": "de 14 de Junho\n\nPela [Portaria n.º 1052/90](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1990-555992), de 12 de Outubro, foi concessionada ao Clube de Caçadores das Cortes da Venda uma zona de caça associativa pelo período de 12 anos (processo n.º 453 da DGF).\n\n> Alterado pelo/a [Declaração de Rectificação n.º 104/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/104-1994-307461), publicado em 1994-07-30.\n\nPor efeito desta concessão, ficou o Clube de Caçadores das Cortes da Venda, como titular da zona de caça, sujeito ao cumprimento das obrigações legais e das decorrentes do plano de ordenamento e exploração cinegético.\n\nVerificou-se, contudo, que a entidade gestora violou o cumprimento das obrigações a que estava vinculada, praticando actos proibidos por lei, nomeadamente usando na zona de caça instrumentos proibidos, abatendo espécies da fauna estritamente protegidas e utilizando processos proibidos.\n\nAcresce que os factos ilícitos devidamente comprovados foram praticados com dolo e reincidência, agravando a culpa do seu agente.\n\nEm conformidade com o disposto na alínea b) do n.º 1 do artigo 85.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro, pode o Ministro da Agricultura em qualquer altura revogar a concessão de zonas de caça quando os seus titulares não cumprem as obrigações a que estão vinculados.\n\nAssim, com fundamento na alínea b) do n.º 1 do artigo 85.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura o seguinte:\n\n1.º É revogada a [Portaria n.º 1052/90](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1990-555992), de 12 de Outubro, extinguindo-se, em consequência, a concessão para exploração cinegética na modalidade de zona de caça associativa atribuída ao Clube de Caçadores das Cortes da Venda.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 104/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/104-1994-307461), publicado em 1994-07-30.\n\n2.º Fica o Clube de Caçadores das Cortes da Venda obrigado a proceder ao levantamento das tabuletas de sinalização no prazo de 30 dias contados do início da vigência do presente diploma.\n\nMinistério da Agricultura.\n\nAssinada em 13 de Maio de 1994.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  }
+ }
+}

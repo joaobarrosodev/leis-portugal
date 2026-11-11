@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:292752:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-07-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c5701669e1ae2793"
+   ]
+  },
+  {
+   "date": "1978-10-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:328043:por",
+     "title": "Portaria n.º 631/78",
+     "published": "1978-10-20",
+     "dre_path": "/dr/detalhe/portaria/631-1978-328043"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-8"
+   ],
+   "fragments": [
+    "3e574b3a0eb05162"
+   ]
+  }
+ ],
+ "fragments": {
+  "c5701669e1ae2793": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Julho\n\nSem prejuízo das alterações que venham a considerar-se necessárias introduzir, nomeadamente em resultado da revisão em curso do contrato de concessão de auto-estradas, anexo ao [Decreto n.º 467/72](https://diariodarepublica.pt/dr/detalhe/decreto/467-1972-686606), de 22 de Novembro, impõe-se desde já fixar, a título provisório, as taxas de portagem a cobrar no lanço Fogueteiro-Palmela construído pela concessionária.\n\nObservado o disposto na base VII do referido contrato:\n\nManda o Governo da República Portuguesa, pelo Ministro da Habitação e Obras Públicas:\n\n1 - As taxas de portagem a cobrar pela concessionária Brisa - Auto-Estradas de Portugal, S. A. R. L., no lanço Fogueteiro-Palmela, da Auto-Estrada do Sul, são as seguintes, de acordo com as classes dos veículos:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/15301/00010001.pdf)\n\n2 - No caso de a exploração se efectuar com cobrança automática das portagens dos veículos automóveis ligeiros de passageiros, aos veículos das classes A e B serão aplicadas as taxas correspondentes à classe C.\n\n3 - As taxas de portagem são estabelecidas a título provisório e poderão ser revistas, face aos estudos económicos a realizar posteriormente e ao consignado no texto definitivo do contrato de concessão ainda em revisão.\n\nMinistério da Habitação e Obras Públicas, 22 de Junho de 1978. - O Ministro da Habitação e Obras Públicas, António Francisco Barroso de Sousa Gomes."
+  },
+  "3e574b3a0eb05162": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1978-10-20",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 631/78](https://diariodarepublica.pt/dr/detalhe/portaria/631-1978-328043), publicado em 1978-10-20."
+   ],
+   "markdown": "de 6 de Julho\n\nSem prejuízo das alterações que venham a considerar-se necessárias introduzir, nomeadamente em resultado da revisão em curso do contrato de concessão de auto-estradas, anexo ao [Decreto n.º 467/72](https://diariodarepublica.pt/dr/detalhe/decreto/467-1972-686606), de 22 de Novembro, impõe-se desde já fixar, a título provisório, as taxas de portagem a cobrar no lanço Fogueteiro-Palmela construído pela concessionária.\n\nObservado o disposto na base VII do referido contrato:\n\nManda o Governo da República Portuguesa, pelo Ministro da Habitação e Obras Públicas:\n\n1 - As taxas de portagem a cobrar pela concessionária Brisa - Auto-Estradas de Portugal, S. A. R. L., no lanço Fogueteiro-Palmela, da Auto-Estrada do Sul, são as seguintes, de acordo com as classes dos veículos:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/10/24200/22242224.pdf)\n\n2 - No caso de a exploração se efectuar com cobrança automática das portagens dos veículos automóveis de passageiros, aos veículos da classe B serão aplicadas as taxas correspondentes à classe C.\n\n> Alterado pelo/a [Portaria n.º 631/78](https://diariodarepublica.pt/dr/detalhe/portaria/631-1978-328043), publicado em 1978-10-20.\n\n3 - As taxas de portagem são estabelecidas a título provisório e poderão ser revistas, face aos estudos económicos a realizar posteriormente e ao consignado no texto definitivo do contrato de concessão ainda em revisão.\n\nMinistério da Habitação e Obras Públicas, 22 de Junho de 1978. - O Ministro da Habitação e Obras Públicas, António Francisco Barroso de Sousa Gomes."
+  }
+ }
+}

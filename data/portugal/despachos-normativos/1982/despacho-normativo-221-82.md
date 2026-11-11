@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-04-19'
+version_history:
+  file: despacho-normativo-221-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-10-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-04-19'
+    amending: pt:dre:311664:por
+    amending_title: Despacho Normativo n.º 91/83
+    changes:
+    - Altera Artigo unidades 3-3
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:18:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 91/83. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1982/despacho-normativo-221-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -108,6 +123,8 @@ validation:
 
 Ao abrigo do disposto no artigo 40.º do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro, determino:
 
-É revogado o n.º 2 do [Despacho Normativo n.º 196/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/196-1981-577114), de 5 de Agosto, sem prejuízo dos efeitos anteriormente produzidos.
+É revogado, para todos os efeitos legais, o n.º 2 do [Despacho Normativo n.º 196/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/196-1981-577114), de 5 de Agosto, desde a data da sua entrada em vigor.
+
+> Alterado pelo/a [Despacho Normativo n.º 91/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/91-1983-311664), publicado em 1983-04-19.
 
 Ministério da Educação, 22 de Setembro de 1982. - O Ministro da Educação, João José Fraústo da Silva.

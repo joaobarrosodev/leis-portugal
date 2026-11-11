@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:377939:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1988-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "29530c51088de967",
+    "514ddf12e677c91d"
+   ]
+  },
+  {
+   "date": "1989-10-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:549412:por",
+     "title": "Portaria n.º 946/89",
+     "published": "1989-10-21",
+     "dre_path": "/dr/detalhe/portaria/946-1989-549412"
+    },
+    {
+     "id": "pt:dre:549412:por",
+     "title": "Portaria n.º 946/89",
+     "published": "1989-10-21",
+     "dre_path": "/dr/detalhe/portaria/946-1989-549412"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 39-40",
+    "Altera Artigo unidades 44-46",
+    "Altera Artigo unidades 49-50"
+   ],
+   "fragments": [
+    "29530c51088de967",
+    "6b9d9b8be0646bbe"
+   ]
+  }
+ ],
+ "fragments": {
+  "29530c51088de967": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Julho\n\nSob proposta da Universidade da Beira Interior;\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho, e no [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nCriação\n\nA Universidade da Beira Interior confere o grau de licenciado em Física Aplicada, no ramo de Óptica, ministrando, em consequência, o respectivo curso.\n\n2.º\n\nOrganização\n\nO curso de licenciatura em Física Aplicada, no ramo de Óptica, ministrado pela Universidade da Beira Interior, adiante simplesmente designado por curso, organiza-se pelo sistema de unidades de crédito.\n\n3.º\n\nEstrutura curricular\n\nOs elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são os constantes do anexo a esta portaria.\n\n4.º\n\nPlano de estudos\n\n1 - O plano de estudos do curso será fixado por despacho, a publicar na 2.ª série do Diário da República, nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.\n\n2 - Do despacho a que se refere o n.º 1 constarão igualmente os coeficientes de ponderação a que se refere o n.º 6.º\n\n5.º\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de dez.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas de serviço de aulas a que e obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de uma delas.\n\n6.º\n\nClassificação final\n\n1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas em que o aluno realizou os créditos necessários à concessão do grau nos termos do disposto no anexo a esta portaria.\n\n2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.\n\n7.º\n\nEntrada em funcionamento\n\nO curso entrará em funcionamento progressivamente, um ano curricular em cada ano lectivo, a partir do ano lectivo de 1988-1989.\n\nMinistério da Educação.\n\nAssinada em 29 de Junho de 1988.\n\nPelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior."
+  },
+  "514ddf12e677c91d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1 - Área científica do curso:\n\nFísica Aplicada - Óptica.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total de unidades de crédito necessário à concessão do grau:\n\n154 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Física ... 32\n\nb) Matemática e Informática ... 27\n\nc) Química ... 16\n\nd) Óptica ... 32\n\ne) Gestão ... 2\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Física ... 15\n\nb) Óptica ... 15\n\n4.3 - Estágio ... 30"
+  },
+  "6b9d9b8be0646bbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": "1989-10-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 946/89](https://diariodarepublica.pt/dr/detalhe/portaria/946-1989-549412), publicado em 1989-10-21.",
+    "Alterado pelo/a [Portaria n.º 946/89](https://diariodarepublica.pt/dr/detalhe/portaria/946-1989-549412), publicado em 1989-10-21.",
+    "Alterado pelo/a [Portaria n.º 946/89](https://diariodarepublica.pt/dr/detalhe/portaria/946-1989-549412), publicado em 1989-10-21."
+   ],
+   "markdown": "## ANEXO\n\n1 - Área científica do curso:\n\nFísica Aplicada - Óptica.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau:\n\n155.\n\n> Alterado pelo/a [Portaria n.º 946/89](https://diariodarepublica.pt/dr/detalhe/portaria/946-1989-549412), publicado em 1989-10-21.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Física ... 32\n\nb) Matemática e Informática ... 31\n\nc) Química ... 12\n\nd) Óptica ... 20\n\n> Alterado pelo/a [Portaria n.º 946/89](https://diariodarepublica.pt/dr/detalhe/portaria/946-1989-549412), publicado em 1989-10-21.\n\ne) Gestão ... 2\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Física ... 28\n\nb) Óptica ... 8\n\n> Alterado pelo/a [Portaria n.º 946/89](https://diariodarepublica.pt/dr/detalhe/portaria/946-1989-549412), publicado em 1989-10-21.\n\n4.3 - Estágio ... 30"
+  }
+ }
+}

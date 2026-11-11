@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:305050:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-09-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8794be23699630dd"
+   ]
+  },
+  {
+   "date": "1991-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:682186:por",
+     "title": "Declaração de Rectificação n.º 221/91",
+     "published": "1991-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/221-1991-682186"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-3"
+   ],
+   "fragments": [
+    "8e723fa96638ec75"
+   ]
+  }
+ ],
+ "fragments": {
+  "8794be23699630dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Setembro\n\nManda o Governo, pelo Secretário de Estado da Cultura, sob parecer dos serviços competentes, que, de acordo com o disposto na alínea a) do artigo 9.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, no n.º 2 do artigo 22.º da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho, e no n.º 1 do artigo 4.º do [Decreto-Lei n.º 216/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1990-575493), de 3 de Junho, seja fixado, conforme a planta anexa a esta portaria, o perímetro da zona especial de protecção da Estação Arqueológica de Chões de Alpombé, freguesia de Vale de Figueira, concelho de Santarém, classificada como imóvel de interesse público pelo [Decreto-Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1982-600772), de 26 de Fevereiro.\n\nPresidência do Conselho de Ministros.\n\nAssinada em 23 de Julho de 1991.\n\nO Secretário de Estado da Cultura, Pedro Miguel Santana Lopes.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/203b00/46594659.pdf)"
+  },
+  "8e723fa96638ec75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-09-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 221/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/221-1991-682186), publicado em 1991-09-30."
+   ],
+   "markdown": "de 4 de Setembro\n\nManda o Governo, pelo Secretário de Estado da Cultura, sob parecer dos serviços competentes, que, de acordo com o disposto na alínea a) do artigo 9.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, no n.º 2 do artigo 22.º da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho, e no n.º 1 do artigo 4.º do [Decreto-Lei n.º 216/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1990-575493), de 3 de Junho, seja fixado, conforme a planta anexa a esta portaria, o perímetro da zona especial de protecção da Estação Arqueológica de Chões de Alpompé, freguesia de Vale de Figueira, concelho de Santarém, classificada como imóvel de interesse público pelo [Decreto-Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1982-600772), de 26 de Fevereiro.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 221/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/221-1991-682186), publicado em 1991-09-30.\n\nPresidência do Conselho de Ministros.\n\nAssinada em 23 de Julho de 1991.\n\nO Secretário de Estado da Cultura, Pedro Miguel Santana Lopes.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/203b00/46594659.pdf)"
+  }
+ }
+}

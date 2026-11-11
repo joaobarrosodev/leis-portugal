@@ -39,10 +39,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-04-02'
+version_history:
+  file: portaria-410-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-04-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-04-02'
+    amending: pt:dre:566037:por
+    amending_title: Portaria n.º 322/2005
+    changes:
+    - Altera Artigo unidades 39-39
+    - Altera Artigo unidades 43-43
+    - Altera Artigo unidades 46-46
+    - Altera Artigo unidades 49-49
+    - Altera Artigo unidades 52-52
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/410/2002/04/18/p/dre/pt/html
@@ -68,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:41:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 322/2005. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-410-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -206,7 +225,11 @@ Pelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Est
 
 ## ANEXO — Instituto Superior de Ciências Educativas de Mangualde
 
-Curso de Professores do Ensino Básico - 2.º Ciclo, variante de Matemática e Ciências da Natureza
+Curso de Professores do Ensino Básico - 2.º Ciclo
+
+Variante de Matemática e Ciências da Natureza
+
+> Alterado pelo/a [Portaria n.º 322/2005](https://diariodarepublica.pt/dr/detalhe/portaria/322-2005-566037), publicado em 2005-03-28.
 
 Grau de licenciado
 
@@ -214,22 +237,30 @@ QUADRO N.º 1
 
 1.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38553857.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38553857.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38553857.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38553857.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)
+
+> Alterado pelo/a [Portaria n.º 322/2005](https://diariodarepublica.pt/dr/detalhe/portaria/322-2005-566037), publicado em 2005-03-28.
 
 QUADRO N.º 2
 
 2.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38553857.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38553857.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38553857.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38553857.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)
+
+> Alterado pelo/a [Portaria n.º 322/2005](https://diariodarepublica.pt/dr/detalhe/portaria/322-2005-566037), publicado em 2005-03-28.
 
 QUADRO N.º 3
 
 3.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38553857.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38553857.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38553857.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38553857.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)
+
+> Alterado pelo/a [Portaria n.º 322/2005](https://diariodarepublica.pt/dr/detalhe/portaria/322-2005-566037), publicado em 2005-03-28.
 
 QUADRO N.º 4
 
 4.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38553857.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38553857.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38553857.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38553857.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)](https://files.diariodarepublica.pt/1s/2005/03/060b00/26252627.pdf)
+
+> Alterado pelo/a [Portaria n.º 322/2005](https://diariodarepublica.pt/dr/detalhe/portaria/322-2005-566037), publicado em 2005-03-28.

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-08-22'
+version_history:
+  file: portaria-633-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-08-22'
+    amending: pt:dre:437457:por
+    amending_title: Portaria n.º 537/98
+    changes:
+    - Altera Artigo unidades 16-27
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/633/1993/07/01/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:00:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 537/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-633-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,29 +163,15 @@ Diploma de estudos superiores especializados
 
 O modelo de diploma de estudos superiores especializados conferido pelo Instituto Politécnico de Santarém, através das suas Escolas Superiores Agrária, de Educação e de Gestão, é o constante do anexo III à presente portaria.
 
-4.º
+4.º - (Revogado.)
 
-Carta de curso do grau de bacharel - Escola Superior de Tecnologia de Tomar
+5.º - (Revogado.)
 
-O modelo de carta de curso do grau de bacharel conferido pelo Instituto Politécnico de Santarém, através da sua Escola Superior de Tecnologia de Tomar, é o constante do anexo IV à presente portaria.
+6.º - (Revogado.)
 
-5.º
+7.º - (Revogado.)
 
-Carta de curso do grau de licenciado - Escola Superior de Tecnologia de Tomar
-
-O modelo de carta de curso do grau de licenciado conferido pelo Instituto Politécnico de Santarém, através da sua Escola Superior de Tecnologia de Tomar, é o constante do anexo V à presente portaria.
-
-6.º
-
-Diploma de estudos superiores especializados - Escola Superior de Tecnologia de Tomar
-
-O modelo de diploma de estudos superiores especializados conferido pelo Instituto Politécnico de Santarém, através da sua Escola Superior de Tecnologia de Tomar, é o constante do anexo VI à presente portaria.
-
-7.º
-
-Texto bilingue
-
-As cartas de curso e diploma a que se referem os n.os 4.º a 6.º terão num lado o texto em latim e no outro lado o texto em português, devendo a forma gráfica de ambos os textos revestir-se de igual dignidade.
+> Alterado pelo/a [Portaria n.º 537/98](https://diariodarepublica.pt/dr/detalhe/portaria/537-1998-437457), publicado em 1998-08-17.
 
 Ministério da Educação.
 

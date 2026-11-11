@@ -38,10 +38,32 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-10-20'
+version_history:
+  file: portaria-173-a-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-10-20'
+    amending: pt:dre:282682:por
+    amending_title: Portaria n.º 602-A/86
+    changes:
+    - Altera Artigo unidades 6-6
+    - Altera Artigo unidades 20-20
+    - Altera Artigo unidades 22-23
+    - Altera Artigo unidades 24-24
+    - Altera Artigo unidades 27-28
+    - Altera Artigo unidades 30-31
+    - Altera Artigo unidades 33-33
+    - Altera Artigo unidades 35-36
+    - Altera Artigo unidades 38-38
 identifiers:
   celex: null
   eli: null
@@ -67,7 +89,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:41:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 602-A/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-173-a-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,7 +144,9 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Indústria e Comércio, ouvida a Direcção-Geral de Energia, e em conformidade com o [Decreto-Lei n.º 38/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1984-660718), de 2 de Fevereiro, o seguinte:
 
-1.º Preços dos combustíveis líquidos. - São fixados, para vigorarem no continente a partir das 0 horas do dia 1 de Maio de 1986, os seguintes preços:
+1.º Preço dos combustíveis líquidos. - São fixados, para vigorarem no continente a partir das 0 horas do dia 16 de Outubro de 1986, os seguintes preços:
+
+> Alterado pelo/a [Portaria n.º 602-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/602-a-1986-282682), publicado em 1986-10-15.
 
 Gasolina I.O. 98 RM:
 
@@ -149,43 +174,59 @@ Fuelóleo:
 
 a) Thick fuel oil de 1% de teor de enxofre:
 
-31$00 por quilograma;
+27$00 por quilograma;
+
+> Alterado pelo/a [Portaria n.º 602-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/602-a-1986-282682), publicado em 1986-10-15.
 
 b) Thick fuel oil de 3,5% de teor de enxofre:
 
-26$00 por quilograma, fornecido a granel nas instalações das companhias distribuidoras em Lisboa, Matosinhos e Sines;
+22$00 por quilograma, fornecido a granel nas instalações das companhias distribuidoras em Lisboa, Matosinhos e Sines;
 
-c) Para a Electricidade de Portugal (EDP), E. P., os preços dos produtos anteriores são, respectivamente, de 31$00 e 20$00 por quilograma, fornecidos também a granel nas instalações das companhias distribuidoras em Lisboa, Matosinhos e Sines.
+c) Para a Electricidade de Portugal (EDP), E. P., os preços dos produtos anteriores são, respectivamente, de 27$00 e 20$00 por quilograma, fornecidos também a granel nas instalações das companhias distribuidoras em Lisboa, Matosinhos e Sines.
 
-2.º Preços dos gases de petróleo liquefeitos. - São fixados, para vigorarem no continente a partir das 0 horas do dia 1 de Maio de 1986, os seguintes preços:
+> Alterado pelo/a [Portaria n.º 602-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/602-a-1986-282682), publicado em 1986-10-15.
+
+2.º Preços dos gases de petróleo liquefeitos. - São fixados, para vigorarem no continente a partir das 0 horas do dia 16 de Outubro de 1986, os seguintes preços:
+
+> Alterado pelo/a [Portaria n.º 602-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/602-a-1986-282682), publicado em 1986-10-15.
 
 Em garrafas de mais de 3 kg:
 
 Ao público, no estabelecimento do revendedor:
 
-Butano - 67$50 por quilograma;
+Butano - 60$50 por quilograma;
 
-Propano - 67$00 por quilograma;
+Propano - 60$00 por quilograma;
+
+> Alterado pelo/a [Portaria n.º 602-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/602-a-1986-282682), publicado em 1986-10-15.
 
 Ao público, no local de consumo:
 
-Butano - 70$00 por quilograma;
+Butano - 63$00 por quilograma;
 
-Propano - 70$00 por quilograma;
+Propano - 63$00 por quilograma;
+
+> Alterado pelo/a [Portaria n.º 602-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/602-a-1986-282682), publicado em 1986-10-15.
 
 Canalizado, no local de consumo:
 
-Vendido a granel ou em garrafas - 70$00 por quilograma;
+Vendido a granel ou em garrafas - 63$00 por quilograma;
+
+> Alterado pelo/a [Portaria n.º 602-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/602-a-1986-282682), publicado em 1986-10-15.
 
 A granel, à saída das instalações principais das empresas distribuidoras:
 
-Butano - 54$00 por quilograma;
+Butano - 39$00 por quilograma;
 
-Propano - 54$00 por quilograma;
+Propano - 39$00 por quilograma;
+
+> Alterado pelo/a [Portaria n.º 602-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/602-a-1986-282682), publicado em 1986-10-15.
 
 Em embalagens iguais ou inferiores a 3 kg os preços continuam livres.
 
-3.º Preço do gás de cidade. - O preço máximo de venda ao público do gás de cidade é fixado em 25$00/m3, só podendo o novo preço ser aplicado a gás consumido após a primeira leitura mensal do contador - na data habitual ou contratual - realizada posteriormente à data da publicação da presente portaria.
+3.º Preço do gás de cidade. - O preço máximo de venda ao público do gás de cidade é fixado em 23$00/m3, só podendo o novo preço ser aplicado a gás consumido após a primeira leitura mensal do contador - na data habitual ou contratual - realizada posteriormente à data da publicação da presente portaria.
+
+> Alterado pelo/a [Portaria n.º 602-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/602-a-1986-282682), publicado em 1986-10-15.
 
 Nos casos em que, por razões imputáveis ao consumidor, não for possível efectuar a leitura na data habitual ou contratual, o distribuidor poderá proceder a uma estimativa de consumo, recorrendo, para o efeito, às regras de cálculo normalmente usadas.
 

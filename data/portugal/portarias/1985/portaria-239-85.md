@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-08-27'
+version_history:
+  file: portaria-239-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-04-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-08-27'
+    amending: pt:dre:219104:por
+    amending_title: Portaria n.º 455/86; Portaria n.º 455/86
+    changes:
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: null
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:21:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 455/86; Portaria n.º
+    455/86. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-239-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,10 +159,14 @@ O Secretário de Estado da Administração Pública, José Manuel San-Bento de M
 
 Pessoal dirigente
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/09700/11271128.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19200/21172117.pdf)
+
+> Alterado pelo/a [Portaria n.º 455/86](https://diariodarepublica.pt/dr/detalhe/portaria/455-1986-219104), publicado em 1986-08-22.
 
 Tabela B
 
 Restante pessoal
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/09700/11271128.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19200/21172117.pdf)
+
+> Alterado pelo/a [Portaria n.º 455/86](https://diariodarepublica.pt/dr/detalhe/portaria/455-1986-219104), publicado em 1986-08-22.

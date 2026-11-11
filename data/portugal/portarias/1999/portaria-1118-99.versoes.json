@@ -1,0 +1,77 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:291888:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-12-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e289be0e9f44dc15",
+    "8f326150346d7e9a"
+   ]
+  },
+  {
+   "date": "2002-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:197532:por",
+     "title": "Portaria n.º 892/2002",
+     "published": "2002-07-27",
+     "dre_path": "/dr/detalhe/portaria/892-2002-197532"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 10",
+    "Altera Artigo unidades 26-33"
+   ],
+   "fragments": [
+    "fbe78e445bd6ac36",
+    "1529627e9eb62359"
+   ]
+  }
+ ],
+ "fragments": {
+  "e289be0e9f44dc15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Dezembro\n\nA requerimento da Espaço Atlântico - Formação Financeira, S. A., entidade instituidora do Instituto de Estudos Superiores Financeiros e Fiscais do Porto, reconhecido oficialmente, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo ([Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto), pela [Portaria n.º 1126/90](https://diariodarepublica.pt/dr/detalhe/portaria/1126-1990-564578), de 15 de Novembro;\n\nInstruído, organizado e apreciado o processo nos termos dos artigos 57.º e 59.º do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março), conjugado com o [Decreto-Lei n.º 234-C/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-c-1998-289611), de 28 de Julho;\n\nConsiderando o disposto nas Portarias n.os 413-A/98, de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho, e 457-A/98, de 29 de Julho, alterada pela [Portaria n.º 680-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-a-1998-273989), de 31 de Agosto;\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso bietápico de licenciatura em Gestão Financeira e Fiscal do Instituto de Estudos Superiores Financeiros e Fiscais do Porto, cujo funcionamento foi autorizado pela [Portaria n.º 457-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/457-a-1998-300227), de 29 de Julho, alterada pela [Portaria n.º 680-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-a-1998-273989), de 31 de Agosto, nos termos do anexo à presente portaria.\n\n2.º\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente não pode exceder 50.\n\n2 - A frequência global do curso não pode exceder 250 alunos.\n\n3.º\n\nCaducidade da autorização de funcionamento\n\nFindo o processo de transição fixado nos termos do artigo 31.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho, caduca a autorização de funcionamento dos seguintes cursos:\n\na) Bacharelato em Gestão e Ciência Fiscal, cujo funcionamento foi autorizado pela [Portaria n.º 1126/90](https://diariodarepublica.pt/dr/detalhe/portaria/1126-1990-564578), de 15 de Novembro, alterada pela [Portaria n.º 31/93](https://diariodarepublica.pt/dr/detalhe/portaria/31-1993-283743), de 8 de Janeiro;\n\nb) Curso de estudos superiores especializados em Gestão Financeira, cujo funcionamento foi autorizado pela [Portaria n.º 831/93](https://diariodarepublica.pt/dr/detalhe/portaria/831-1993-626987), de 8 de Setembro.\n\n4.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do ano lectivo de 1998-1999, inclusive.\n\nPelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 25 de Novembro de 1999."
+  },
+  "8f326150346d7e9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto de Estudos Superiores Financeiros e Fiscais do Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Instituto de Estudos Superiores Financeiros e Fiscais do Porto\n\nCurso de Gestão Financeira e Fiscal\n\nGrau de bacharel - 1.º ciclo\n\n[(ver quadros n.os 1 a 3 no documento original)](https://files.diariodarepublica.pt/1s/1999/12/300b00/93019304.pdf)\n\nRamo de Finanças Empresariais\n\nGrau de licenciado - 2.º ciclo\n\n[(ver quadros n.os 4 e 5 no documento original)](https://files.diariodarepublica.pt/1s/1999/12/300b00/93019304.pdf)\n\nRamo de Fiscalidade\n\nGrau de licenciado - 2.º ciclo\n\n[(ver quadros n.os 6 e 7 no documento original)](https://files.diariodarepublica.pt/1s/1999/12/300b00/93019304.pdf)"
+  },
+  "fbe78e445bd6ac36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2002-08-01",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 892/2002](https://diariodarepublica.pt/dr/detalhe/portaria/892-2002-197532), publicado em 2002-07-27."
+   ],
+   "markdown": "de 28 de Dezembro\n\nA requerimento da Espaço Atlântico - Formação Financeira, S. A., entidade instituidora do Instituto de Estudos Superiores Financeiros e Fiscais do Porto, reconhecido oficialmente, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo ([Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto), pela [Portaria n.º 1126/90](https://diariodarepublica.pt/dr/detalhe/portaria/1126-1990-564578), de 15 de Novembro;\n\nInstruído, organizado e apreciado o processo nos termos dos artigos 57.º e 59.º do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março), conjugado com o [Decreto-Lei n.º 234-C/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-c-1998-289611), de 28 de Julho;\n\nConsiderando o disposto nas Portarias n.os 413-A/98, de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho, e 457-A/98, de 29 de Julho, alterada pela [Portaria n.º 680-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-a-1998-273989), de 31 de Agosto;\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso bietápico de licenciatura em Gestão Financeira e Fiscal do Instituto de Estudos Superiores Financeiros e Fiscais do Porto, cujo funcionamento foi autorizado pela [Portaria n.º 457-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/457-a-1998-300227), de 29 de Julho, alterada pela [Portaria n.º 680-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-a-1998-273989), de 31 de Agosto, nos termos do anexo à presente portaria.\n\n1.º-A\n\nUnidades curriculares de opção\n\nO elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n1.º-B\n\nDuração do semestre lectivo\n\nO número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.\n\n> Aditado pelo/a [Portaria n.º 892/2002](https://diariodarepublica.pt/dr/detalhe/portaria/892-2002-197532), publicado em 2002-07-27.\n\n2.º\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente não pode exceder 50.\n\n2 - A frequência global do curso não pode exceder 250 alunos.\n\n3.º\n\nCaducidade da autorização de funcionamento\n\nFindo o processo de transição fixado nos termos do artigo 31.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho, caduca a autorização de funcionamento dos seguintes cursos:\n\na) Bacharelato em Gestão e Ciência Fiscal, cujo funcionamento foi autorizado pela [Portaria n.º 1126/90](https://diariodarepublica.pt/dr/detalhe/portaria/1126-1990-564578), de 15 de Novembro, alterada pela [Portaria n.º 31/93](https://diariodarepublica.pt/dr/detalhe/portaria/31-1993-283743), de 8 de Janeiro;\n\nb) Curso de estudos superiores especializados em Gestão Financeira, cujo funcionamento foi autorizado pela [Portaria n.º 831/93](https://diariodarepublica.pt/dr/detalhe/portaria/831-1993-626987), de 8 de Setembro.\n\n4.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do ano lectivo de 1998-1999, inclusive.\n\nPelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 25 de Novembro de 1999."
+  },
+  "1529627e9eb62359": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto de Estudos Superiores Financeiros e Fiscais do Porto",
+   "in_force_from": "2002-08-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 892/2002](https://diariodarepublica.pt/dr/detalhe/portaria/892-2002-197532), publicado em 2002-07-27."
+   ],
+   "markdown": "## ANEXO — Instituto de Estudos Superiores Financeiros e Fiscais do Porto\n\nCurso de Gestão Financeira e Fiscal\n\nGrau de bacharel\n\n1.º ciclo\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)\n\nGrau de licenciado\n\n2.º ciclo\n\nRamo de Finanças Empresariais\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)\n\nRamo de Fiscalidade\n\nQUADRO N.º 5\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)\n\nRamo de Instituições e Mercados Financeiros\n\nQUADRO N.º 6\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335536.pdf)\n\n> Alterado pelo/a [Portaria n.º 892/2002](https://diariodarepublica.pt/dr/detalhe/portaria/892-2002-197532), publicado em 2002-07-27."
+  }
+ }
+}

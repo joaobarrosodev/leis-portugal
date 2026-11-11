@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-02-20'
+version_history:
+  file: portaria-568-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-09-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-02-20'
+    amending: pt:dre:647898:por
+    amending_title: Portaria n.º 168/93
+    changes:
+    - Altera Artigo unidades 9-9
+    - Adita Artigo depois da unidade 9
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:49:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 168/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1975/portaria-568-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -103,7 +119,15 @@ Manda o Governo da República Portuguesa, pelo Ministro da Justiça, o seguinte:
 
 a) Para chefes dos Gabinetes, secretários e adjuntos dos Gabinetes do Ministro e do Secretário de Estado da Justiça, secretário-geral, directores-gerais e inspectores superiores - com a indicação de livre trânsito e assinados pelo Ministro;
 
-b) Para os restantes funcionários, cartões assinados pelo secretário-geral.
+b) Para o pessoal auxiliar de segurança do quadro da Secretaria-Geral do Ministério quando em serviço de segurança das entidades referidas na alínea anterior e, bem assim, das constantes do mapa I anexo ao [Decreto-Lei n.º 250/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1991-663908), de 16 de Julho, com indicação de livre trânsito e assinado pelo secretário-geral;
+
+c) Para os restantes funcionários, cartões assinados pelo secretário-geral.
+
+> Alterado pelo/a [Portaria n.º 168/93](https://diariodarepublica.pt/dr/detalhe/portaria/168-1993-647898), publicado em 1993-02-15.
+
+3.º-A - O disposto na alínea b) do número anterior é aplicável aos funcionários que, não pertencendo à carreira de auxiliar de segurança, prestem efectivamente esse serviço.
+
+> Aditado pelo/a [Portaria n.º 168/93](https://diariodarepublica.pt/dr/detalhe/portaria/168-1993-647898), publicado em 1993-02-15.
 
 4.º Os cartões deverão ser substituídos quando se verifique qualquer alteração nos elementos deles constantes e serão obrigatoriamente recolhidos quando os seus titulares cessem o exercício das respectivas funções.
 

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-01-25'
+version_history:
+  file: portaria-151-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-01-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-01-25'
+    amending: pt:dre:308339:por
+    amending_title: Portaria n.º 59/83
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:38:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 59/83. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-151-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,7 +141,9 @@ Considerando que, não obstante esta circunstância, é perfeitamente justificad
 
 Manda o Governo da República Portuguesa, pelo Ministro dos Transportes e Comunicações e pelo Secretário de Estado da Reforma Administrativa, nos termos do disposto no n.º 4 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, o seguinte:
 
-1.º Autorizar que, excepcionalmente, o primeiro provimento dos lugares de director de serviços da Direcção do Pessoal Aeronáutico e da Direcção da Navegação Aérea do quadro de pessoal dirigente da Direcção-Geral da Aviação Civil, a que se refere o n.º 1 do artigo 16.º do [Decreto-Lei n.º 242/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1979-381286), de 25 de Julho, se faça, por escolha do Ministro dos Transportes e Comunicações, de entre técnicos de aviação civil do quadro a que se refere o artigo 6.º do [Decreto-Lei n.º 333/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1980-469664), de 29 de Agosto, de categoria não inferior à de técnico principal e que possuam os conhecimentos técnicos indispensáveis e a prática efectiva do desempenho de funções de chefia, podendo ser dispensada a posse de licenciatura.
+1.º Autorizar que, excepcionalmente, o provimento dos lugares de director de serviços da Direcção do Pessoal Aeronáutico e da Direcção de Navegação Aérea do quadro do pessoal dirigente da Direcção-Geral da Aviação Civil, a que se refere o n.º 1 do artigo 16.º do [Decreto-Lei n.º 242/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1979-381286), de 25 de Julho, se faça por escolha do Ministro da Habitação, Obras Públicas e Transportes de entre técnicos da aviação civil do quadro a que se refere o artigo 6.º do [Decreto-Lei n.º 333/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1980-469664), de 29 de Agosto, de categoria não inferior à de técnico principal e que possuam os conhecimentos técnicos indispensáveis à prática efectiva do desempenho de funções de chefia ou técnicos de outra origem de reconhecido mérito, podendo ser dispensada a posse de licenciatura.
+
+> Alterado pelo/a [Portaria n.º 59/83](https://diariodarepublica.pt/dr/detalhe/portaria/59-1983-308339), publicado em 1983-01-25.
 
 2.º Para os efeitos do número anterior, o perfil dos funcionários a prover deverá obrigatoriamente incluir experiência nas áreas seguintes:
 

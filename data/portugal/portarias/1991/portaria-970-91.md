@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-10-17'
+version_history:
+  file: portaria-970-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-09-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-10-17'
+    amending: pt:dre:225995:por
+    amending_title: Portaria n.º 971/92
+    changes:
+    - Adita Artigo depois da unidade 8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/970/1991/09/20/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:05:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 971/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-970-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,6 +144,16 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 Criação
 
 O Instituto Politécnico de Faro, através da sua Escola Superior de Gestão, Hotelaria e Turismo, confere o grau de bacharel em Gestão Hoteleira, ministrando, em consequência, o respectivo curso.
+
+1.º-A
+
+Curso de Gestão Hoteleira
+
+1 - O curso de Gestão Hoteleira poderá ser ministrado em Faro e em Portimão.
+
+2 - À transferência de alunos entre as duas localidades onde a Escola Superior de Gestão, Hotelaria e Turismo de Faro poderá ministrar o curso aplicam-se, com as necessárias adaptações, as regras do regime de transferência.
+
+> Aditado pelo/a [Portaria n.º 971/92](https://diariodarepublica.pt/dr/detalhe/portaria/971-1992-225995), publicado em 1992-10-12.
 
 2.º
 

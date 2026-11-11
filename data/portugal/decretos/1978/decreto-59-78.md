@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-06-17'
+version_history:
+  file: decreto-59-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-06-17'
+    amending: pt:dre:579303:por
+    amending_title: Decreto Regulamentar n.º 27/81
+    changes:
+    - Altera Artigo unidades 40-41
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:50:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 27/81. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1978/decreto-59-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -181,9 +196,11 @@ Art. 18.º Nesta entrevista, o júri, tendo em conta as provas já prestadas pel
 
 Art. 19.º Findas as entrevistas, o júri reunirá e escolherá de entre os candidatos os que considere aptos para o exercício do serviço diplomático, graduando-os em mérito relativo. A respectiva lista será transcrita em edital, assinado pelo presidente do júri, para sua imediata afixação em lugar conveniente do Ministério e posterior publicação no Diário da República.
 
-Art. 20 - 1 - Os candidatos considerados aptos serão chamados, segundo a ordem por que forem graduados, para preencherem as vagas existentes e as que venham a abrir-se no período de um ano, a contar da publicação no Diário da República da lista referida no artigo anterior.
+Art. 20.º - 1 - Os candidatos considerados aptos serão chamados, segundo a ordem por que forem graduados, para preencherem as vagas existentes e as que venham a abrir-se no período de três anos a contar da publicação no Diário da República da lista referida no artigo anterior.
 
-2 - No fim desse período de um ano, o concurso prescreve, não tendo os candidatos considerados aptos e que até então não hajam sido chamados por inexistência de vagas, qualquer direito à ocupação das que posteriormente se vierem a dar.
+2 - No fim desse período de três anos o concurso prescreve, não tendo os candidatos considerados aptos e que até então não hajam sido chamados por inexistência de vagas qualquer direito à ocupação das que posteriormente se vierem a dar.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 27/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1981-579303), publicado em 1981-06-17.
 
 3 - Os candidatos não admitidos não terão quaisquer direitos emergentes do concurso.
 

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:351704:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-06-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "feb532cda2b432d3"
+   ]
+  },
+  {
+   "date": "1997-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:403285:por",
+     "title": "Declaração de Rectificação n.º 11-E/97",
+     "published": "1997-06-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/11-e-1997-403285"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 16-16"
+   ],
+   "fragments": [
+    "28bc2873025db3d5"
+   ]
+  }
+ ],
+ "fragments": {
+  "feb532cda2b432d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Junho\n\nHavendo que adequar o texto da [Portaria n.º 1075/91](https://diariodarepublica.pt/dr/detalhe/portaria/1075-1991-344444), de 23 de Outubro, ao texto do [Decreto-Lei n.º 294/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1990-557440), de 21 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 87/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1997-469585), de 18 de Abril;\n\nManda o Governo, pela Ministra da Saúde, ao abrigo do n.º 5 do artigo 28.º do [Decreto-Lei n.º 294/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1990-557440), de 21 de Setembro, o seguinte:\n\n1.º O n.º 2.º da [Portaria n.º 1075/91](https://diariodarepublica.pt/dr/detalhe/portaria/1075-1991-344444), de 23 de Outubro, passa a ter a seguinte redacção:\n\n«Dos galardões a que se refere o número anterior, a medalha de dador de sangue é concedida pelo Ministro da Saúde, sendo as restantes atribuídas pelo director do Instituto Português do Sangue, mediante proposta fundamentada do director, no primeiro caso, ou dos centros regionais de sangue e por iniciativa dos respectivos serviços, de outros serviços integrados da rede nacional de transfusão de sangue ou dos dadores de sangue interessados, no segundo caso.»\n\n2.º O anexo II da referida portaria é alterado nos seguintes termos:\n\n«ANEXO II\n\n(a que se refere o n.º 1.º)\n\nCertificado de atribuição de medalhas a dadores de sangue\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/126b00/26692669.pdf)\n\nMinistério da Saúde\n\nO Ministro da Saúde concede a... a medalha... de dador benévolo de sangue, nos termos do [Decreto-Lei n.º 294/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1990-557440), de 21 de Setembro.\n\n... de ... de ...\n\nO Ministro da Saúde, ...\n\nO modelo de certificado de atribuição de medalhas a dadores tem as dimensões de 240 mm/355 mm, com esquadria inferior a negro, e em relevo, no medalhão central, o cunho da medalha do dador.»\n\nMinistério da Saúde.\n\nAssinada em 30 de Abril de 1997.\n\nA Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina."
+  },
+  "28bc2873025db3d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1997-06-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 11-E/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-e-1997-403285), publicado em 1997-06-30."
+   ],
+   "markdown": "de 2 de Junho\n\nHavendo que adequar o texto da [Portaria n.º 1075/91](https://diariodarepublica.pt/dr/detalhe/portaria/1075-1991-344444), de 23 de Outubro, ao texto do [Decreto-Lei n.º 294/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1990-557440), de 21 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 87/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1997-469585), de 18 de Abril;\n\nManda o Governo, pela Ministra da Saúde, ao abrigo do n.º 5 do artigo 28.º do [Decreto-Lei n.º 294/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1990-557440), de 21 de Setembro, o seguinte:\n\n1.º O n.º 2.º da [Portaria n.º 1075/91](https://diariodarepublica.pt/dr/detalhe/portaria/1075-1991-344444), de 23 de Outubro, passa a ter a seguinte redacção:\n\n«Dos galardões a que se refere o número anterior, a medalha de dador de sangue é concedida pelo Ministro da Saúde, sendo as restantes atribuídas pelo director do Instituto Português do Sangue, mediante proposta fundamentada do director, no primeiro caso, ou dos centros regionais de sangue e por iniciativa dos respectivos serviços, de outros serviços integrados da rede nacional de transfusão de sangue ou dos dadores de sangue interessados, no segundo caso.»\n\n2.º O anexo II da referida portaria é alterado nos seguintes termos:\n\n«ANEXO II\n\n(a que se refere o n.º 1.º)\n\nCertificado de atribuição de medalhas a dadores de sangue\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/126b00/26692669.pdf)\n\nMinistério da Saúde\n\nO Ministro da Saúde concede a... a medalha... de dador benévolo de sangue, nos termos do [Decreto-Lei n.º 294/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1990-557440), de 21 de Setembro.\n\n... de ... de ...\n\nO Ministro da Saúde, ...\n\nO modelo de certificado de atribuição de medalhas a dadores tem as dimensões de 240 mm/355 mm, com esquadria interior a dourado, e em relevo, no medalhão central, o cunho da medalha do dador.»\n\n> Alterado pelo/a [Declaração de Rectificação n.º 11-E/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-e-1997-403285), publicado em 1997-06-30.\n\nMinistério da Saúde.\n\nAssinada em 30 de Abril de 1997.\n\nA Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina."
+  }
+ }
+}

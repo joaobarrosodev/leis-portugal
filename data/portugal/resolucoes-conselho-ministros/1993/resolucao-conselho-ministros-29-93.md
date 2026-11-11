@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-06-30'
+version_history:
+  file: resolucao-conselho-ministros-29-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-04-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-06-30'
+    amending: pt:dre:225407:por
+    amending_title: Declaração de Rectificação n.º 121/93
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/29/1993/04/26/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T22:58:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 121/93.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1993/resolucao-conselho-ministros-29-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,7 +133,9 @@ Considerando que, atentos os termos daquela lei, o [Decreto-Lei n.º 105/93](htt
 
 Considerando a proposta do conselho de administração da RNIP - Rodoviária Nacional - Investimentos e Participações, S. A., baseada nos relatórios dos seus consultores, o parecer da Secção Especializada do Conselho Nacional do Mercado de Valores Mobiliários e o parecer da Comissão de Acompanhamento das Reprivatizações relativamente aos referidos documentos;
 
-Considerando a competência atribuída ao Conselho de Ministros pelo artigo 12.º do [Decreto-Lei n.º 105/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1993-682991), de 7 de Abril:
+Considerando a competência atribuída ao Conselho de Ministros pelo artigo 7.º do [Decreto-Lei n.º 105/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1993-682991), de 7 de Abril:
+
+> Alterado pelo/a [Declaração de Rectificação n.º 121/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/121-1993-225407), publicado em 1993-06-30.
 
 Nos termos das alíneas d) e g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
 

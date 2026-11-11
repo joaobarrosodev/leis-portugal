@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-05-31'
+version_history:
+  file: portaria-373-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-06-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-05-31'
+    amending: pt:dre:459408:por
+    amending_title: Portaria n.º 316/98
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/373/1997/06/09/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:02:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 316/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-373-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +159,9 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 3.º É extinto, com efeitos a partir de 1 de Julho de 1997, o prémio de rendibilidade previsto nos n.os 21.º e seguintes da [Portaria n.º 1238/95](https://diariodarepublica.pt/dr/detalhe/portaria/1238-1995-663876), de 12 de Outubro, integrando-se o respectivo montante na correspondente remuneração base, com arredondamento à centena de escudos imediatamente superior e sem prejuízo do disposto no número seguinte.
 
-4.º Os montantes de subsídio de turno e de isenção de horário de trabalho, o abono para falhas e o valor da remuneração horária para efeito de trabalho extraordinário, subsídio de prevenção e subsídio compensatório de trabalho por turnos continuarão a ser calculados com base na tabela resultante da aplicação do n.º 1.º da presente portaria.
+4.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 316/98](https://diariodarepublica.pt/dr/detalhe/portaria/316-1998-459408), publicado em 1998-05-26.
 
 5.º Ficam revogados, a partir de 1 de Julho de 1997, os n.os 21.º, 22.º, 23.º e 24.º da [Portaria n.º 1238/95](https://diariodarepublica.pt/dr/detalhe/portaria/1238-1995-663876), de 12 de Outubro.
 

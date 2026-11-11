@@ -1,0 +1,116 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:374176:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-07-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "617010cb8a3c7a81",
+    "d106f72c7684d52c",
+    "32422cc39af5ec47",
+    "4f99b6fd2c0f6240",
+    "129a277f6f252f5d",
+    "c0783f980576fd3b",
+    "ad4a61ce3d811b80"
+   ]
+  },
+  {
+   "date": "1998-08-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:437457:por",
+     "title": "Portaria n.º 537/98",
+     "published": "1998-08-17",
+     "dre_path": "/dr/detalhe/portaria/537-1998-437457"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 16-27"
+   ],
+   "fragments": [
+    "cd747635d8b4ca10",
+    "d106f72c7684d52c",
+    "32422cc39af5ec47",
+    "4f99b6fd2c0f6240",
+    "129a277f6f252f5d",
+    "c0783f980576fd3b",
+    "ad4a61ce3d811b80"
+   ]
+  }
+ ],
+ "fragments": {
+  "617010cb8a3c7a81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Julho\n\nSob proposta das comissões instaladoras do Instituto Politécnico de Santarém e das suas Escolas Superiores;\n\nAo abrigo do disposto no n.º 2 do artigo 1.º do [Decreto Regulamentar n.º 63/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1987-498083), de 17 de Dezembro;\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro):\n\nManda o Governo, pelo Ministro da Educação, aprovar o seguinte:\n\n1.º\n\nCarta de curso de grau de bacharel\n\nO modelo de carta de curso do grau de bacharel conferido pelo Instituto Politécnico de Santarém, através das suas Escolas Superiores Agrária, de Educação e de Gestão, é o constante do anexo I à presente portaria.\n\n2.º\n\nCarta de curso do grau de licenciado\n\nO modelo de carta de curso do grau de licenciado conferido pelo Instituto Politécnico de Santarém, através das suas Escolas Superiores Agrária, de Educação e de Gestão, é o constante do anexo II à presente portaria.\n\n3.º\n\nDiploma de estudos superiores especializados\n\nO modelo de diploma de estudos superiores especializados conferido pelo Instituto Politécnico de Santarém, através das suas Escolas Superiores Agrária, de Educação e de Gestão, é o constante do anexo III à presente portaria.\n\n4.º\n\nCarta de curso do grau de bacharel - Escola Superior de Tecnologia de Tomar\n\nO modelo de carta de curso do grau de bacharel conferido pelo Instituto Politécnico de Santarém, através da sua Escola Superior de Tecnologia de Tomar, é o constante do anexo IV à presente portaria.\n\n5.º\n\nCarta de curso do grau de licenciado - Escola Superior de Tecnologia de Tomar\n\nO modelo de carta de curso do grau de licenciado conferido pelo Instituto Politécnico de Santarém, através da sua Escola Superior de Tecnologia de Tomar, é o constante do anexo V à presente portaria.\n\n6.º\n\nDiploma de estudos superiores especializados - Escola Superior de Tecnologia de Tomar\n\nO modelo de diploma de estudos superiores especializados conferido pelo Instituto Politécnico de Santarém, através da sua Escola Superior de Tecnologia de Tomar, é o constante do anexo VI à presente portaria.\n\n7.º\n\nTexto bilingue\n\nAs cartas de curso e diploma a que se referem os n.os 4.º a 6.º terão num lado o texto em latim e no outro lado o texto em português, devendo a forma gráfica de ambos os textos revestir-se de igual dignidade.\n\nMinistério da Educação.\n\nAssinada em 31 de Maio de 1993.\n\nO Ministro da Educação, António Fernando Couto dos Santos."
+  },
+  "d106f72c7684d52c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Instituto Politécnico de Santarém",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Instituto Politécnico de Santarém\n\nCarta de curso\n\nGrau de bacharel\n\nRepública (ver nota a) Portuguesa\n\n... (ver nota b), presidente da comissão instaladora do Instituto Politécnico de Santarém:\n\nFaço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver nota e), tendo frequentado a ... (ver nota f), concluiu o curso de ... (ver nota g), em ... (ver nota h), pelo que, em conformidade com as disposições legais em vigor, lhe mandei passar a presente, em que o declaro habilitado com o grau de bacharel em ... (ver nota i), com a classificação de ... (ver nota j) valores.\n\nInstituto Politécnico de Santarém, ... (ver nota l).\n\nO Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,\n\n... (ver nota m)\n\nO Presidente da Comissão Instaladora da ... (ver nota f),\n\n... (ver nota n)\n\nO Secretário da ... (ver nota f),\n\n... (ver nota o)\n\n(nota a) Emblema do Instituto Politécnico de Santarém.\n\n(nota b) Nome do presidente da comissão instaladora do Instituto Politécnico de Santarém.\n\n(nota c) Nome do titular da carta de curso.\n\n(nota d) Nome do pai e da mãe do titular da carta de curso.\n\n(nota e) Concelho e distrito de naturalidade do titular da carta de curso.\n\n(nota f) Denominação da escola superior através da qual é conferido o grau.\n\n(nota g) Designação do curso de bacharelato.\n\n(nota h) Data de conclusão do curso.\n\n(nota i) Designação do grau de bacharel.\n\n(nota j) Classificação final do curso.\n\n(nota l) Data de emissão da carta de curso.\n\n(nota m) Assinatura do presidente da comissão instaladora do Instituto Politécnico de Santarém, autenticada pelo selo branco do Instituto Politécnico.\n\n(nota n) Assinatura do presidente da comissão instaladora da escola superior através da qual foi conferido o grau, autenticada pelo selo branco do Instituto Politécnico.\n\n(nota o) Assinatura do secretário da escola superior, autenticada pelo selo branco respectivo, inutilizando as estampilhas fiscais do valor fixado na Tabela do Imposto do Selo."
+  },
+  "32422cc39af5ec47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Instituto Politécnico de Santarém",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Instituto Politécnico de Santarém\n\nCarta de curso\n\nGrau de licenciado\n\nRepública (ver nota a) Portuguesa\n\n... (ver nota b), presidente da comissão instaladora do Instituto Politécnico de Santarém:\n\nFaço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver nota e), tendo frequentado a ... (ver nota f), concluiu o curso de estudos superiores especializados em ... (ver nota g), em ... (ver nota h), tendo como habilitação precedente o ... (ver nota i), pelo que, em conformidade com as disposições legais em vigor, lhe mandei passar a presente, em que o declaro habilitado com o grau de licenciado em ... (ver nota j), com a classificação de ... (ver nota l) valores.\n\nInstituto Politécnico de Santarém, ... (ver nota m).\n\nO Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,\n\n... (ver nota n)\n\nO Presidente da Comissão Instaladora da ... (ver nota f),\n\n... (ver nota o)\n\nO Secretário da... (ver nota f),\n\n... (ver nota p)\n\n(nota a) Emblema do Instituto Politécnico de Santarém.\n\n(nota b) Nome do presidente da comissão instaladora do Instituto Politécnico de Santarém.\n\n(nota c) Nome do titular da carta de curso.\n\n(nota d) Nome do pai e da mãe do titular da carta de curso.\n\n(nota e) Concelho e distrito de naturalidade do titular da carta de curso.\n\n(nota f) Denominação da escola superior através da qual é conferido o grau.\n\n(nota g) Designação do curso de estudos superiores especializados.\n\n(nota h) Data de conclusão do curso de estudos superiores especializados.\n\n(nota i) Bacharelato que, nos termos do diploma legal aplicável, é considerado como formando um conjunto coerente com o curso de estudos superiores especializados em causa, nos termos do n.º 7 do artigo 13.º da Lei de Bases do Sistema Educativo.\n\n(nota j) Designação do grau de licenciado.\n\n(nota l) Classificação final da licenciatura.\n\n(nota m) Data de emissão da carta de curso.\n\n(nota n) Assinatura do presidente da comissão instaladora do Instituto Politécnico de Santarém, autenticada pelo selo branco do Instituto Politécnico.\n\n(nota o) Assinatura do presidente da comissão instaladora da escola superior através da qual foi conferido o grau, autenticada pelo selo branco do Instituto Politécnico.\n\n(nota p) Assinatura do secretário da escola superior, autenticada pelo selo branco respectivo, inutilizando as estampilhas fiscais do valor fixado na Tabela do Imposto do Selo."
+  },
+  "4f99b6fd2c0f6240": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Instituto Politécnico de Santarém",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Instituto Politécnico de Santarém\n\nDiploma\n\nRepública (ver nota a) Portuguesa\n\n... (ver nota b), presidente da comissão instaladora do Instituto Politécnico de Santarém:\n\nFaço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver nota e), tendo frequentado a ... (ver nota f), concluiu o curso de estudos superiores especializados em ... (ver nota g), em ... (ver nota h), pelo que, em conformidade com as disposições legais em vigor, lhe mandei passar a presente, em que o declaro habilitado com o diploma de estudos superiores especializados em ... (ver nota i), com a classificação de ... (ver nota j) valores.\n\nInstituto Politécnico de Santarém, ... (ver nota l).\n\nO Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,\n\n... (ver nota m)\n\nO Presidente da Comissão Instaladora da ... (ver nota f),\n\n... (ver nota n)\n\nO Secretário,\n\n... (ver nota o)\n\n(nota a) Emblema do Instituto Politécnico de Santarém.\n\n(nota b) Nome do presidente da comissão instaladora do Instituto Politécnico de Santarém.\n\n(nota c) Nome do titular da carta de curso.\n\n(nota d) Nome do pai e da mãe do titular da carta de curso.\n\n(nota e) Concelho e distrito de naturalidade do titular da carta de curso.\n\n(nota f) Denominação da escola superior através da qual é conferido o diploma.\n\n(nota g) Designação do curso de estudos superiores especializados.\n\n(nota h) Data de conclusão do curso.\n\n(nota i) Designação do diploma de estudos superiores especializados.\n\n(nota j) Classificação final do curso.\n\n(nota l) Data de emissão do diploma.\n\n(nota m) Assinatura do presidente da comissão instaladora do Instituto Politécnico de Santarém, autenticada pelo selo branco do Instituto Politécnico.\n\n(nota n) Assinatura do presidente da comissão instaladora da escola superior através da qual foi conferido o grau, autenticada pelo selo branco do Instituto Politécnico.\n\n(nota o) Assinatura do secretário da escola superior, autenticada pelo selo branco respectivo, inutilizando as estampilhas fiscais do valor fixado na Tabela do Imposto do Selo."
+  },
+  "129a277f6f252f5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Instituto Politécnico de Santarém",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Instituto Politécnico de Santarém\n\nEscola Superior de Tecnologia de Tomar\n\nCarta de curso\n\nGrau de bacharel\n\nRepública (ver nota a) Portuguesa\n\nPublicamente atestamos e asseguramos a todos e cada um que este diploma virem que o ilustre Sr. ... (ver nota b), filho de ... (ver nota c), nascido em ... (ver nota d), alcançou com louvor e honra (ver nota e) o grau de bacharel em Engenharia Técnica do curso de ... (ver nota f), na preclara Escola Superior de Tecnologia de Tomar, depois de completados os seus estudos e emitida a pública aprovação em que foi julgado idóneo por sufrágio dos mestres. E assim, portanto, esta alma mater o distinguiu com o grau de bacharel na Escola Superior de Tecnologia de Tomar, no dia ... do mês ... do ano de ... (ver nota g). Este facto foi anotado no «Livro dos Actos e Graus» e, como testemunho público, demos este texto, por nós assinado, apenso o selo magno desta academia, ao referido bem merecedor bacharel, em Tomar, no dia ... do mês ... do ano ... (ver nota h).\n\nO Presidente da Comissão Instaladora da Escola Superior de Tecnologia de Tomar,\n\n...\n\nO Secretário da Escola,\n\n...\n\nO Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,\n\n...\n\nO Administrador do Instituto,\n\n...\n\nInstituto Politécnico de Santarém\n\nEscola Superior de Tecnologia de Tomar\n\nCarta de curso\n\nGrau de bacharel\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/152b00/36183621.pdf)"
+  },
+  "c0783f980576fd3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO V — Instituto Politécnico de Santarém",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — Instituto Politécnico de Santarém\n\nEscola Superior de Tecnologia de Tomar\n\nCarta de curso\n\nGrau de licenciado\n\nRepública (ver nota a) Portuguesa\n\nPublicamente atestamos e asseguramos a todos e cada um que este diploma virem que o ilustre Sr. ... (ver nota b), filho de ... (ver nota c), nascido em ... (ver nota d), alcançou com louvor e honra (ver nota e) o grau de licenciado no curso de ... (ver nota f), na preclara Escola Superior de Tecnologia de Tomar, depois de completados os seus estudos e emitida a pública aprovação em que foi julgado idóneo por sufrágio dos mestres. E assim, portanto, esta alma mater o distinguiu com o grau de licenciado na Escola Superior de Tecnologia de Tomar, no dia ... do mês ... do ano de ... (ver nota g). Este facto foi anotado no «Livro dos Actos e Graus» e, como testemunho público, demos este texto, por nós assinado, apenso o selo magno desta academia, ao referido bem merecedor licenciado, em Tomar, no dia ... do mês ... do ano ... (ver nota h).\n\nO Presidente da Comissão Instaladora da Escola Superior de Tecnologia de Tomar,\n\n...\n\nO Secretário da Escola,\n\n...\n\nO Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,\n\n...\n\nO Administrador do Instituto,\n\n...\n\nInstituto Politécnico de Santarém\n\nEscola Superior de Tecnologia de Tomar\n\nCarta de curso\n\nGrau de licenciado\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/152b00/36183621.pdf)"
+  },
+  "ad4a61ce3d811b80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VI — Instituto Politécnico de Santarém",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — Instituto Politécnico de Santarém\n\nEscola Superior de Tecnologia de Tomar\n\nDiploma de estudos superiores especializados\n\nRepública (ver nota a) Portuguesa\n\nPublicamente atestamos e asseguramos a todos e cada um que este diploma virem que o ilustre Sr. ... (ver nota b), filho de ... (ver nota c), nascido em ... (ver nota d), alcançou com louvor e honra (ver nota e) ... no curso de estudos superiores especializados ... (ver nota f), na preclara Escola Superior de Tecnologia de Tomar, depois de completados os seus estudos e emitida a pública aprovação em que foi julgado idóneo por sufrágio dos mestres. E assim, portanto, esta alma mater o distinguiu com diploma de estudos superiores especializados na Escola Superior de Tecnologia de Tomar, no dia ... do mês ... do ano de ... (ver nota g). Este facto foi anotado no «Livro dos Actos e Graus» e, como testemunho público, demos este texto, por nós assinado, apenso o selo magno desta academia, ao referido bem merecedor diplomado, em Tomar, no dia ... do mês ... do ano ... (ver nota h).\n\nO Presidente da Comissão Instaladora da Escola Superior de Tecnologia de Tomar,\n\n...\n\nO Secretário da Escola,\n\n...\n\nO Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,\n\n...\n\nO Administrador do Instituto,\n\n...\n\nInstituto Politécnico de Santarém\n\nEscola Superior de Tecnologia de Tomar\n\nDiploma de estudos superiores especializados\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/152b00/36183621.pdf)"
+  },
+  "cd747635d8b4ca10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1998-08-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 537/98](https://diariodarepublica.pt/dr/detalhe/portaria/537-1998-437457), publicado em 1998-08-17."
+   ],
+   "markdown": "de 1 de Julho\n\nSob proposta das comissões instaladoras do Instituto Politécnico de Santarém e das suas Escolas Superiores;\n\nAo abrigo do disposto no n.º 2 do artigo 1.º do [Decreto Regulamentar n.º 63/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1987-498083), de 17 de Dezembro;\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro):\n\nManda o Governo, pelo Ministro da Educação, aprovar o seguinte:\n\n1.º\n\nCarta de curso de grau de bacharel\n\nO modelo de carta de curso do grau de bacharel conferido pelo Instituto Politécnico de Santarém, através das suas Escolas Superiores Agrária, de Educação e de Gestão, é o constante do anexo I à presente portaria.\n\n2.º\n\nCarta de curso do grau de licenciado\n\nO modelo de carta de curso do grau de licenciado conferido pelo Instituto Politécnico de Santarém, através das suas Escolas Superiores Agrária, de Educação e de Gestão, é o constante do anexo II à presente portaria.\n\n3.º\n\nDiploma de estudos superiores especializados\n\nO modelo de diploma de estudos superiores especializados conferido pelo Instituto Politécnico de Santarém, através das suas Escolas Superiores Agrária, de Educação e de Gestão, é o constante do anexo III à presente portaria.\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n6.º - (Revogado.)\n\n7.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 537/98](https://diariodarepublica.pt/dr/detalhe/portaria/537-1998-437457), publicado em 1998-08-17.\n\nMinistério da Educação.\n\nAssinada em 31 de Maio de 1993.\n\nO Ministro da Educação, António Fernando Couto dos Santos."
+  }
+ }
+}

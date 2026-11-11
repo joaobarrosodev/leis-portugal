@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-10-26'
+version_history:
+  file: portaria-510-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-10-26'
+    amending: pt:dre:549412:por
+    amending_title: Portaria n.º 946/89; Portaria n.º 946/89
+    changes:
+    - Altera Artigo unidades 39-40
+    - Altera Artigo unidades 44-46
+    - Altera Artigo unidades 49-50
 identifiers:
   celex: null
   eli: null
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:32:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 946/89; Portaria n.º
+    946/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-510-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -188,9 +205,11 @@ Física Aplicada - Óptica.
 
 Cinco anos lectivos.
 
-3 - Número total de unidades de crédito necessário à concessão do grau:
+3 - Número total mínimo de unidades de crédito necessário à concessão do grau:
 
-154 unidades de crédito.
+155.
+
+> Alterado pelo/a [Portaria n.º 946/89](https://diariodarepublica.pt/dr/detalhe/portaria/946-1989-549412), publicado em 1989-10-21.
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
@@ -198,18 +217,22 @@ Cinco anos lectivos.
 
 a) Física ... 32
 
-b) Matemática e Informática ... 27
+b) Matemática e Informática ... 31
 
-c) Química ... 16
+c) Química ... 12
 
-d) Óptica ... 32
+d) Óptica ... 20
+
+> Alterado pelo/a [Portaria n.º 946/89](https://diariodarepublica.pt/dr/detalhe/portaria/946-1989-549412), publicado em 1989-10-21.
 
 e) Gestão ... 2
 
 4.2 - Conjunto das áreas científicas optativas:
 
-a) Física ... 15
+a) Física ... 28
 
-b) Óptica ... 15
+b) Óptica ... 8
+
+> Alterado pelo/a [Portaria n.º 946/89](https://diariodarepublica.pt/dr/detalhe/portaria/946-1989-549412), publicado em 1989-10-21.
 
 4.3 - Estágio ... 30
