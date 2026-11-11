@@ -64,7 +64,7 @@ version_history:
     - Revoga Artigo 9.º
     - Revoga Artigo 10.º
     - Revoga Artigo 11.º
-    - Altera Artigo 12.º
+    - Revoga Artigo 12.º
 identifiers:
   celex: null
   eli: null
@@ -242,7 +242,7 @@ Para o desempenho das acções previstas no artigo anterior as CVR poderão actu
 
 (Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23.
+> Revogado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23.
 
 Visto e aprovado em Conselho de Ministros de 11 de Agosto de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Arlindo Marques Cunha.
 

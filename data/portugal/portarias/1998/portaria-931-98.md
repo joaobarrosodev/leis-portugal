@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-11-22'
+version_history:
+  file: portaria-931-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-10-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-11-22'
+    amending: pt:dre:229519:por
+    amending_title: Portaria n.º 979/98
+    changes:
+    - Adita Artigo depois da unidade 19
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/931/1998/10/24/p/dre/pt/html
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:12:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 979/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-931-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,3 +188,12 @@ Licenciaturas bietápicas
 Vagas a que se refere a alínea b2) do n.º 1 do artigo 13.º do Regulamento aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, para o ano lectivo de 1998-1999.
 
 [(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/246b00/55315532.pdf)
+
+
+Estabelecimento: Escola Superior de Comunicação Social do Instituto Politécnico de Lisboa.
+
+Curso: Comunicação Empresarial.
+
+Vagas: 8.
+
+> Aditado pelo/a [Portaria n.º 979/98](https://diariodarepublica.pt/dr/detalhe/portaria/979-1998-229519), publicado em 1998-11-17.

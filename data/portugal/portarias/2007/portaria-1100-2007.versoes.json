@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:640122:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-09-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "00a5a9a349c7b882",
+    "e9657881574e9aad"
+   ]
+  },
+  {
+   "date": "2007-10-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:642534:por",
+     "title": "Portaria n.º 1297/2007",
+     "published": "2007-10-01",
+     "dre_path": "/dr/detalhe/portaria/1297-2007-642534"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 15"
+   ],
+   "fragments": [
+    "00a5a9a349c7b882",
+    "3689e21c3a00f627"
+   ]
+  }
+ ],
+ "fragments": {
+  "00a5a9a349c7b882": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Setembro\n\nSob proposta dos órgãos legal e estatutariamente competentes dos estabelecimentos de ensino superior particular e cooperativo indicados no anexo da presente portaria;\n\nAo abrigo do disposto no n.º 2 do artigo 22.º do [Decreto-Lei n.º 353/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1999-582195), de 3 de Setembro:\n\nManda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:\n\n1.º\n\nFixação de vagas\n\nSão fixadas, nos termos dos anexos da presente portaria, as vagas para a candidatura à matrícula e inscrição, no ano lectivo de 2007-2008, nos cursos de complemento de formação em Enfermagem ministrados em estabelecimentos de ensino superior particular e cooperativo.\n\n2.º\n\nEntrada em vigor\n\nEsta portaria entra em vigor no dia imediato ao da sua publicação.\n\nO Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 24 de Agosto de 2007."
+  },
+  "e9657881574e9aad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Cursos de complemento de formação em Enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Cursos de complemento de formação em Enfermagem\n\nVagas para o ano lectivo de 2007-2008\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17200/0632906329.pdf)"
+  },
+  "3689e21c3a00f627": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Cursos de complemento de formação em Enfermagem",
+   "in_force_from": "2007-10-02",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 1297/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1297-2007-642534), publicado em 2007-10-01."
+   ],
+   "markdown": "## ANEXO — Cursos de complemento de formação em Enfermagem\n\nVagas para o ano lectivo de 2007-2008\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17200/0632906329.pdf)\n\n\nEscola Superior de Enfermagem de Artur Ravara - 35;\n\nEscola Superior de Enfermagem da Universidade da Madeira - 70.\n\n> Aditado pelo/a [Portaria n.º 1297/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1297-2007-642534), publicado em 2007-10-01."
+  }
+ }
+}

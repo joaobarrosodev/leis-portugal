@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-10-26'
+version_history:
+  file: portaria-466-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-07-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-10-26'
+    amending: pt:dre:549411:por
+    amending_title: Portaria n.º 945/89; Portaria n.º 945/89
+    changes:
+    - Adita Artigo depois da unidade 11
+    - Adita Artigo depois da unidade 135
 identifiers:
   celex: null
   eli: null
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:31:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 945/89; Portaria n.º
+    945/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-466-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,6 +174,10 @@ a) Formação Educacional;
 b) Matemática Aplicada em Ciências Actuariais;
 
 c) Matemática Aplicada em Investigação Operacional;
+
+d) Matemática Aplicada em Ciências Estatísticas.
+
+> Aditado pelo/a [Portaria n.º 945/89](https://diariodarepublica.pt/dr/detalhe/portaria/945-1989-549411), publicado em 1989-10-21.
 
 ministrando, em consequência, o respectivo curso.
 
@@ -406,3 +426,56 @@ Obtenção de 42 unidades de crédito.
 6 - Condições para a inscrição no estágio profissionalizante:
 
 Obtenção de 111 unidades de crédito.
+
+
+Anexo IV à [Portaria n.º 466/88](https://diariodarepublica.pt/dr/detalhe/portaria/466-1988-372655), de 18 de Julho
+
+Universidade Nova de Lisboa
+
+Faculdade de Ciências e Tecnologia
+
+Licenciatura em Matemática
+
+Ramo de Matemática Aplicada em Ciências Estatísticas
+
+1 - Áreas científicas do curso:
+
+a) Matemática;
+
+b) Ciências Estatísticas.
+
+2 - Duração normal do curso - cinco anos lectivos.
+
+3 - Número total mínimo de unidades de crédito necessário à concessão do grau - 155,5.
+
+4 - Áreas científicas e distribuição das unidades de crédito:
+
+4.1 - Áreas científicas obrigatórias:
+
+a) Matemática ... 77,5
+
+b) Ciências Estatísticas ... 33
+
+c) Informática ... 3
+
+d) Ciências Humanas e Sociais ... 4
+
+4.2 - Conjunto das áreas científicas optativas:
+
+a) Matemática ... 8
+
+b) Estatística ... 8
+
+c) Informática ... 8
+
+4.3 - Seminário ... 5
+
+4.4 - Projecto ... 5
+
+4.5 - Estágio profissionalizante ... 20
+
+5 - Condições para inscrição no ramo - obtenção de 42 unidades de crédito.
+
+6 - Condições para inscrição no estágio profissionalizante - obtenção de 109,5 unidades de crédito.
+
+> Aditado pelo/a [Portaria n.º 945/89](https://diariodarepublica.pt/dr/detalhe/portaria/945-1989-549411), publicado em 1989-10-21.

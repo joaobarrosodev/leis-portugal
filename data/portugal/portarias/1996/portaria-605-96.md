@@ -39,10 +39,26 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-11-29'
+version_history:
+  file: portaria-605-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-11-29'
+    amending: pt:dre:642971:por
+    amending_title: Portaria n.º 1034/99
+    changes:
+    - Altera Artigo unidades 6-6
+    - Altera Artigo unidades 18-18
+    - Adita Artigo depois da unidade 36
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/605/1996/10/25/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:34:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1034/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-605-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,7 +144,9 @@ Para aplicação daquele sistema importa definir os critérios gerais e específ
 
 Assim, ao abrigo do n.º 3 do artigo 5.º do [Decreto-Lei n.º 204/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1996-226421):
 
-Manda o Governo, pelo Ministro da Economia, que sejam aprovados os critérios gerais e específicos a observar na atribuição do direito ao uso do certificado de artesanato para as filigranas e pratas cinzeladas, anexos ao presente diploma e que dele fazem parte integrante.
+Manda o Governo, pelo Ministro da Economia, que sejam aprovados os critérios gerais e específicos a observar na atribuição do direito ao uso do certificado de artesanato para as filigranas, pratas cinzeladas, malhas manuais, bolsas de malha, ocos cobertos e chapas cobertas, anexos ao presente diploma e que dele fazem parte integrante.
+
+> Alterado pelo/a [Portaria n.º 1034/99](https://diariodarepublica.pt/dr/detalhe/portaria/1034-1999-642971), publicado em 1999-11-24.
 
 Ministério da Economia.
 
@@ -151,7 +170,11 @@ As soldas devem ser bem banhadas ou corridas e estar dentro dos toques legais.
 
 1.3 - Matéria-prima:
 
-A matéria-prima a utilizar deve ter um toque legal.
+a) A matéria-prima a utilizar deve ter um toque legal;
+
+b) Na fabricação de artefactos em ouro é factor determinante a utilização de ouro de toque 800(por mil).
+
+> Alterado pelo/a [Portaria n.º 1034/99](https://diariodarepublica.pt/dr/detalhe/portaria/1034-1999-642971), publicado em 1999-11-24.
 
 2 - Critérios específicos:
 
@@ -188,3 +211,34 @@ Estabilidade - quando colocado numa superfície dura plana, o objecto deve mante
 Gotejar - bicos ou goteiras abertas devem verter sem escorrer ou derramar;
 
 Isolamento térmico das asas - as asas dos objectos destinados a conter líquidos quentes devem ser isoladas termicamente, se for caso disso, de acordo com a sua funcionalidade.
+
+
+2.3 - Malhas manuais:
+
+a) Conceito de malha manual. - Cadeias formadas por elos de ouro, de prata, ou de platina, encadeados entre si e soldados manualmente;
+
+b) Operações manuais. - As malhas manuais devem ser feitas totalmente à mão, com excepção dos seus terminais, da trefilagem e da laminagem;
+
+c) Soldaduras. - Sem prejuízo do estabelecido no n.º 1.2, as soldas a aplicar nas malhas devem ser da tonalidade da peça.
+
+2.4 - Bolsas de malha:
+
+a) Conceito de bolsa de malha. - Saco constituído por uma rede resultante do entrelaçamento e soldadura de argolas de fio de ouro, prata ou platina, usado nomeadamente para o transporte de moedas;
+
+b) Operações manuais. - As bolsas de malha devem ser feitas totalmente à mão, com excepção dos seus bocais, da trefilagem e da laminagem;
+
+c) Soldaduras. - Sem prejuízo do disposto no n.º 1.2, as soldas a aplicar nas bolsas de malha devem ser da tonalidade da peça.
+
+2.5 - Ocos cobertos:
+
+a) Conceito de ocos cobertos. - Peças ocas, de ouro, prata ou platina, na superfície das quais são aplicados elementos de fios torcidos, ou lisos, ou granitos, devidamente soldados, que cubram pelo menos 50% da sua superfície;
+
+b) Operações manuais. - Os ocos cobertos devem ser feitos à mão, com excepção da laminagem, da trefilagem e do cadeado onde eles forem enfiados, se o cobrirem na totalidade.
+
+2.6 - Chapas cobertas:
+
+a) Conceito de chapas cobertas. - Peças em chapa de ouro, prata ou platina, sobre as quais são aplicados elementos de fio torcido, ou liso ou granitos, devidamente soldados, que cubram pelo menos 50% da sua superfície;
+
+b) Operações manuais. - As chapas cobertas devem ser feitas à mão, com excepção da laminagem e da trefilagem.
+
+> Aditado pelo/a [Portaria n.º 1034/99](https://diariodarepublica.pt/dr/detalhe/portaria/1034-1999-642971), publicado em 1999-11-24.

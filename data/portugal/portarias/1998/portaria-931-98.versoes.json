@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:239822:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-10-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d9c431e7580bb91e",
+    "b919a788d18b9fb2"
+   ]
+  },
+  {
+   "date": "1998-11-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:229519:por",
+     "title": "Portaria n.º 979/98",
+     "published": "1998-11-17",
+     "dre_path": "/dr/detalhe/portaria/979-1998-229519"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 19"
+   ],
+   "fragments": [
+    "d9c431e7580bb91e",
+    "e08ce03fdaff68a6"
+   ]
+  }
+ ],
+ "fragments": {
+  "d9c431e7580bb91e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Outubro\n\nSob proposta dos estabelecimentos de ensino superior politécnico público enumerados em anexo;\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro);\n\nAo abrigo do disposto no n.º 2 do artigo 14.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nVagas\n\nÉ aprovado, para a candidatura à matrícula e inscrição, no ano lectivo de 1998-1999, no 2.º ciclo dos cursos bietápicos de licenciatura do ensino politécnico público, ao abrigo da alínea b2) do n.º 1 do artigo 13.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, o número de vagas constante do anexo a esta portaria.\n\n2.º\n\nEntrada em vigor\n\nEsta portaria entra em vigor no dia imediato ao da sua publicação.\n\nMinistério da Educação.\n\nAssinada em 9 de Outubro de 1998.\n\nPelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior."
+  },
+  "b919a788d18b9fb2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Ensino superior politécnico público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Ensino superior politécnico público\n\nLicenciaturas bietápicas\n\nVagas a que se refere a alínea b2) do n.º 1 do artigo 13.º do Regulamento aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, para o ano lectivo de 1998-1999.\n\n[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/246b00/55315532.pdf)"
+  },
+  "e08ce03fdaff68a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Ensino superior politécnico público",
+   "in_force_from": "1998-11-22",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 979/98](https://diariodarepublica.pt/dr/detalhe/portaria/979-1998-229519), publicado em 1998-11-17."
+   ],
+   "markdown": "## ANEXO — Ensino superior politécnico público\n\nLicenciaturas bietápicas\n\nVagas a que se refere a alínea b2) do n.º 1 do artigo 13.º do Regulamento aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, para o ano lectivo de 1998-1999.\n\n[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/246b00/55315532.pdf)\n\n\nEstabelecimento: Escola Superior de Comunicação Social do Instituto Politécnico de Lisboa.\n\nCurso: Comunicação Empresarial.\n\nVagas: 8.\n\n> Aditado pelo/a [Portaria n.º 979/98](https://diariodarepublica.pt/dr/detalhe/portaria/979-1998-229519), publicado em 1998-11-17."
+  }
+ }
+}

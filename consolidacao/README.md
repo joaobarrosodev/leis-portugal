@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.272 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.282 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -24,11 +24,14 @@ Na última ronda em que cada diploma esteve, 2.285 ficaram com tudo `certo` e 77
 
 A contagem é aproximada (classificação por palavras-chave, não por leitura).
 
-### 2. Certos às cegas mas recusados pelo `acervo.py`: 11 diplomas
+### 2. Certos às cegas mas recusados pelo `acervo.py`: 11 diplomas, resolvidos a 11/11/2026
 
-**5 com uma consolidação anterior em `data/`:** DL 236/85 (`pt:dre:183049`), DL 350/88 (`355570`), Decreto 44240 (`516702`), DL 511/99 (`643086`) e DRR 17/2001/M (`348524`). Já tinham sido consolidados e verificados (os três primeiros a 27/10, os dois últimos no bloco 9); foram refeitos depois com mais alteradores e passaram de novo às cegas. O `acervo.py` só consolida a partir do texto original (`version.kind: original`) e recusa substituir uma consolidação nossa. Para os aplicar: aceitar substituir uma consolidação do leis-portugal quando o original do histórico (`*.versoes.json`, versão 1) é o original verificado.
+Os 11 passaram a verificação às cegas, mas o `acervo.py` recusava-os por duas razões técnicas. As duas foram corrigidas, e **10 estão agora em `data/`**: o total passa a **2.282 diplomas**.
 
-**6 em que o histórico não reproduz o consolidado:** `pt:dre:372655`, `605310`, `226426`, `239822`, `541645` e `640122`, todos de texto corrido. Em todos, a única diferença é **uma linha em branco a mais** que o histórico renderizado tem num ponto do texto; nenhuma diferença de conteúdo. A comparação em `acervo.py` só reduz `\n\n\n` a `\n\n` uma vez. Para os aplicar: normalizar todas as sequências de linhas em branco nos dois lados (`re.sub(r"\n{3,}", "\n\n", …)`) antes de comparar.
+- **6 em que o histórico não reproduzia o consolidado** (`pt:dre:372655`, `605310`, `226426`, `239822`, `541645` e `640122`, todos de texto corrido). A única diferença era uma linha em branco a mais num ponto do texto. Agora a comparação reduz todas as sequências de linhas em branco nos dois lados, e nada mais. Os 6 entraram.
+- **5 com uma consolidação nossa anterior em `data/`**: DL 236/85 (`183049`), DL 350/88 (`355570`), Decreto 44240 (`516702`), DL 511/99 (`643086`) e DRR 17/2001/M (`348524`). Foram refeitos e passaram de novo às cegas. Agora o `acervo.py` substitui uma consolidação do leis-portugal quando a versão 1 do histórico (`*.versoes.json`) é, bloco a bloco, o original verificado; o histórico novo parte desse original. Antes de aplicar comparou-se cada refeita com a anterior:
+  - **4 entraram**, porque corrigem a anterior: o DL 511/99 e o DRR 17/2001/M têm as assinaturas no sítio certo, antes do estatuto anexo; o Decreto 44240 junta um § 3.º que estava partido ao meio; o DL 350/88 tem "Revogado" em vez de "Alterado" na nota de um artigo revogado.
+  - **O DL 236/85 fica com a anterior** (`NAO_SUBSTITUIR` no `acervo.py`). A refeita também corrige uma nota "Alterado" para "Revogado", mas tira os parênteses de todas as epígrafes do original ("ARTIGO 1.º — (Conceito)" passa a "Conceito"). A verificação às cegas não apanhou isto. Mantém-se a anterior, mais fiel ao original.
 
 ### 3. Por pedir: grandes demais para o método atual
 

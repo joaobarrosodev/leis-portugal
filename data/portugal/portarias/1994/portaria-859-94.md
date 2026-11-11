@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-09-25'
+version_history:
+  file: portaria-859-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-09-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-09-25'
+    amending: pt:dre:475677:por
+    amending_title: Portaria n.º 649/95; Portaria n.º 802/99
+    changes:
+    - Adita Artigo depois da unidade 127
+    - Adita Artigo depois da unidade 127
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/859/1994/09/23/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:39:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 649/95; Portaria n.º
+    802/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-859-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -376,3 +392,64 @@ As frequências designadas para operação destes equipamentos são as seguintes
 35,200 MHz.
 
 A p. a. r. máxima permitida é de 100 mW e o seu funcionamento deve ser compatível com um espaçamento entre canais de 10 kHz.
+
+
+2.8 - Equipamentos de pequena potência para Imobilização de veículos
+
+2.8.1 - Caracterização dos equipamentos:
+
+Estes equipamentos caracterizam-se por:
+
+a) Serem exclusivamente utilizados para o fim de imobilização de veículos;
+
+b) Destinarem-se a uso privativo;
+
+c) Operarem numa base de não interferência e de não protecção relativamente a sistemas ou serviços devidamente autorizados.
+
+2.8.2 - Faixa de frequências e valores máximos de intensidade de campo:
+
+A faixa de frequências a ser utilizada deve ser de 9 kHz a 135 kHz e o valor de intensidade do campo magnético associado a qualquer sistema indutivo de imobilização de veículos não deverá exceder o valor de 42 dB(mi)A/m (medida efectuada a 10 m da fonte emissora).
+
+> Aditado pelo/a [Portaria n.º 649/95](https://diariodarepublica.pt/dr/detalhe/portaria/649-1995-475677), publicado em 1995-06-22.
+
+2.9 - Equipamentos de pequena potência PMR 446
+
+2.9.1 - Caracterização dos equipamentos:
+
+Estes equipamentos caracterizam-se por:
+
+a) Destinarem-se a uso privativo;
+
+b) Configurarem apenas estações móveis;
+
+c) Operarem numa base de não coordenação de frequências sem direito a protecção contra interferências causadas por outros utilizadores do mesmo serviço;
+
+d) Obedecerem ao especificado na norma ETS 300 296 do ETSI no que respeita a procedimentos de avaliação de conformidade;
+
+e) Utilizarem antena incorporada.
+
+2.9.2 - Faixa de frequências e valor máximo de potência aparente radiada (p. a. r.).
+
+A faixa de frequências designada para esta categoria de equipamentos está compreendida entre 446,0 MHz e 446,1 MHz e planificada para uma separação de 12,5 kHz entre canais adjacentes.
+
+As frequências centrais para operação desta categoria de equipamentos são as seguintes:
+
+F1 - 446,00625 MHz;
+
+F2 - 446,01875 MHz;
+
+F3 - 446,03125 MHz;
+
+F4 - 446,04375 MHz;
+
+F5 - 446,05625 MHz;
+
+F6 - 446,06875 MHz;
+
+F7 - 446,08125 MHz;
+
+F8 - 446,09375 MHz.
+
+A p. a. r. máxima permitida é de 500 mW.
+
+> Aditado pelo/a [Portaria n.º 802/99](https://diariodarepublica.pt/dr/detalhe/portaria/802-1999-560777), publicado em 1999-09-20.

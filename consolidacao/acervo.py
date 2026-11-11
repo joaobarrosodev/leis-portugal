@@ -76,6 +76,13 @@ def rondas() -> list[tuple[Path, Path]]:
 DUVIDAS_RESOLVIDAS = {"pt:dre:430016:por"}
 DE_FORA = {"pt:dre:431229:por", "pt:dre:542458:por"}
 
+# Consolidações refeitas que passaram às cegas mas não substituem a nossa anterior, por serem
+# menos fiéis ao original num ponto que a verificação não apanhou.
+NAO_SUBSTITUIR = {
+    # A refeita (27/10 → bloco de novembro) só corrige uma nota "Alterado" para "Revogado", mas
+    # tira os parênteses de todas as epígrafes do original ("ARTIGO 1.º — (Conceito)").
+    "pt:dre:183049:por": "a refeita tira os parênteses das epígrafes do original",
+}
 ROTULO = "Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas"
 ROTULO_LLM = "Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas"
 _NOTA_PILOTO = re.compile(r"^> (?:Alterado|Aditado|Revogado|Retificado) pelo/a .*, publicado em \d{4}-\d{2}-\d{2}\.\n\n?", re.M)
@@ -163,6 +170,18 @@ def _sem_titulo(texto: str) -> str:
     return re.sub(r"\A# [^\n]*\n+", "", texto.strip())
 
 
+def _linhas(texto: str) -> str:
+    return re.sub(r"\n{3,}", "\n\n", texto)
+
+
+def _original_do_historico(acervo: Acervo, caminho: Path, titulo: str) -> list[str] | None:
+    """Os blocos da versão 1 do histórico gravado por uma consolidação do leis-portugal."""
+    dados = acervo.read_history(caminho)
+    if not dados or not str(dados.get("consolidated_by") or "").startswith("leis-portugal") or len(dados.get("versions") or []) < 2:
+        return None
+    return blocos(render_version(dados, dados["versions"][0], title=titulo))
+
+
 def em_vigor(metadados: dict) -> str:
     entrada = (metadados.get("entry_into_force") or {}).get("date")
     return entrada or (metadados.get("entry_into_force_dates") or [None])[0] or metadados["publication_date"]
@@ -235,7 +254,18 @@ def main() -> int:
         if registo.version.label == rotulo and original.strip() == consolidado.strip():
             ja_aplicados += 1
             continue
-        if registo.version.kind != "original" or original.strip() != entrada["texto_original"].strip():
+        if registo.version.kind == "original":
+            if original.strip() != entrada["texto_original"].strip():
+                recusados.append(f"{id_}: o registo em data/ já não é o original verificado")
+                continue
+        elif id_ in NAO_SUBSTITUIR:
+            ja_aplicados += 1  # fica a consolidação anterior, também verificada às cegas
+            continue
+        elif registo.version.label in (ROTULO, ROTULO_LLM) and _original_do_historico(acervo, caminho, registo.title) == blocos(entrada["texto_original"]):
+            # Uma consolidação nossa anterior, refeita depois com mais alteradores e verificada
+            # de novo às cegas: substitui-se, partindo do original guardado no histórico (versão 1).
+            original = entrada["texto_original"]
+        else:
             recusados.append(f"{id_}: o registo em data/ já não é o original verificado")
             continue
 
@@ -262,7 +292,8 @@ def main() -> int:
         try:
             dados = historico(id_, registo.title, original, consolidado, versoes)
             # O título `# …` vem do registo, não do corpo (que pode ter outra capitalização).
-            assert _sem_titulo(render_version(dados, dados["versions"][1], title=registo.title)) == _sem_titulo(consolidado).replace("\n\n\n", "\n\n")
+            # Só se ignoram as linhas em branco repetidas, que os blocos do histórico não guardam.
+            assert _linhas(_sem_titulo(render_version(dados, dados["versions"][1], title=registo.title))) == _linhas(_sem_titulo(consolidado))
         except AssertionError:
             recusados.append(f"{id_}: o histórico não reproduz o consolidado")
             continue

@@ -35,7 +35,7 @@
     "Revoga Artigo 9.º",
     "Revoga Artigo 10.º",
     "Revoga Artigo 11.º",
-    "Altera Artigo 12.º"
+    "Revoga Artigo 12.º"
    ],
    "fragments": [
     "5240b86afe518f33",
@@ -50,7 +50,7 @@
     "c43f2ce4300d7b07",
     "78f0c801d5d59e24",
     "6c31affcebcd76a1",
-    "14c4e17b2bdf4d06"
+    "b7745763a55c0588"
    ]
   }
  ],
@@ -177,15 +177,15 @@
    ],
    "markdown": "###### Artigo 11.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23."
   },
-  "14c4e17b2bdf4d06": {
+  "b7745763a55c0588": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 12.º",
    "in_force_from": "2004-10-22",
    "changed_by": [
-    "Alterado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23."
+    "Revogado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23."
    ],
-   "markdown": "###### Artigo 12.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23.\n\nVisto e aprovado em Conselho de Ministros de 11 de Agosto de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Arlindo Marques Cunha.\n\nPromulgado em 9 de Setembro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Setembro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+   "markdown": "###### Artigo 12.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), publicado em 2004-08-23.\n\nVisto e aprovado em Conselho de Ministros de 11 de Agosto de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Arlindo Marques Cunha.\n\nPromulgado em 9 de Setembro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Setembro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
   }
  }
 }

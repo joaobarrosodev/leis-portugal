@@ -1,0 +1,103 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:372655:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1988-07-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "77d8211eed1e9d80",
+    "84fbed6e0b05d710",
+    "054ad1253c640c80",
+    "2d48b0c7058c70c3"
+   ]
+  },
+  {
+   "date": "1989-10-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:549411:por",
+     "title": "Portaria n.º 945/89",
+     "published": "1989-10-21",
+     "dre_path": "/dr/detalhe/portaria/945-1989-549411"
+    },
+    {
+     "id": "pt:dre:549411:por",
+     "title": "Portaria n.º 945/89",
+     "published": "1989-10-21",
+     "dre_path": "/dr/detalhe/portaria/945-1989-549411"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 11",
+    "Adita Artigo depois da unidade 135"
+   ],
+   "fragments": [
+    "988cbfe6f87f81f1",
+    "84fbed6e0b05d710",
+    "054ad1253c640c80",
+    "3c4093b7aa8661e3"
+   ]
+  }
+ ],
+ "fragments": {
+  "77d8211eed1e9d80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Julho\n\nSob proposta da Universidade Nova de Lisboa;\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho, e no [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nCriação\n\nA Universidade Nova de Lisboa, através da Faculdade de Ciências e Tecnologia, confere o grau de licenciado em Matemática nos seguintes ramos:\n\na) Formação Educacional;\n\nb) Matemática Aplicada em Ciências Actuariais;\n\nc) Matemática Aplicada em Investigação Operacional;\n\nministrando, em consequência, o respectivo curso.\n\n2.º\n\nAcesso aos ramos\n\n1 - A inscrição no ramo de Formação Educacional do curso de licenciatura em Matemática está sujeita a limitações quantitativas a fixar por despacho do Ministro da Educação, sob proposta do reitor da Universidade.\n\n2 - A inscrição nos restantes ramos do curso está sujeita a limitações quantitativas a fixar anualmente por despacho do reitor, sob proposta do conselho científico da Faculdade.\n\n3 - Se num determinado ano o número de alunos que se pretende inscrever num ramo for inferior a quinze, não poderão ser nesse ano abertas inscrições naquele ramo.\n\n4 - Aos alunos admitidos à inscrição no curso é sempre assegurada a inscrição num dos seus ramos.\n\n5 - A candidatura à inscrição em cada um dos ramos está dependente da obtenção prévia do número de unidades de crédito fixado nos respectivos anexos à presente portaria.\n\n6 - As regras e prazos de candidatura e de selecção para a inscrição nos ramos serão fixados por despacho do reitor, sob proposta do conselho científico.\n\n7 - Os despachos a que se referem os n.os 1, 2 e 6 serão objecto de publicação na 2.ª série do Diário da República e de afixação pública na Universidade, com a antecedência, respectivamente, de um mês antes da data de candidatura e de seis meses antes do início do ano lectivo a que dizem respeito.\n\n3.º\n\nOrganização\n\nO curso de licenciatura a que se refere o n.º 1.º, adiante simplesmente designado por curso, organiza-se pelo sistema de unidades de crédito.\n\n4.º\n\nEstrutura curricular\n\nOs elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são os constantes dos anexos a esta portaria.\n\n5.º\n\nPlano de estudos\n\n1 - Os planos de estudos serão fixados por despacho, a publicar na 2.ª série do Diário da República, nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690).\n\n2 - Do despacho a que se refere o n.º 1 constarão igualmente os coeficientes de ponderação a que se refere o n.º 9.º\n\n6.º\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de dez.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas de serviço de aulas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de uma delas.\n\n7.º\n\nEstágio do ramo de Formação Educacional da licenciatura em Matemática\n\nO estágio pedagógico do ramo de Formação Educacional, bem como a admissão ao mesmo, são regulados pela [Portaria n.º 431/79](https://diariodarepublica.pt/dr/detalhe/portaria/431-1979-377538), de 16 de Agosto, com a redacção que lhe foi dada pelas Portarias n.os [791/80](https://diariodarepublica.pt/dr/detalhe/portaria/791-1980-462201), de 6 de Outubro, [176/83](https://diariodarepublica.pt/dr/detalhe/portaria/176-1983-309694), de 2 de Março, e [494/84](https://diariodarepublica.pt/dr/detalhe/portaria/494-1984-386070), de 23 de Julho.\n\n8.º\n\nEstágios dos restantes ramos\n\nO requerimento dos estágios dos restantes ramos será aprovado pelo conselho científico, ouvidos os conselhos pedagógico e directivo.\n\n9.º\n\nClassificação final\n\n1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações do estágio e das unidades curriculares em que o aluno realizou os créditos necessários à obtenção do grau nos termos do disposto em anexo a esta portaria.\n\n2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.\n\n3 - A classificação final do ramo de Formação Educacional da licenciatura em Matemática é calculada nos termos da [Portaria n.º 792/81](https://diariodarepublica.pt/dr/detalhe/portaria/792-1981-565003), de 11 de Setembro.\n\n10.º\n\nEntrada em funcionamento\n\nA entrada em funcionamento da nova estrutura do curso da licenciatura em Matemática aprovada pela presente portaria, bem como das novas estruturas curriculares e planos de estudos a elas associados, far-se-á progressivamente a partir do ano lectivo de 1988-1989, inclusive.\n\n11.º\n\nRegime de transição\n\nO regime de transição será aprovado por despacho do reitor da Universidade Nova de Lisboa, sob proposta do conselho científico da Faculdade de Ciências e Tecnologia, ouvido o conselho pedagógico e o director.\n\n12.º\n\nDisposição revogatória\n\nSem prejuízo do disposto no n.º 11.º, é revogada a [Portaria n.º 340/87](https://diariodarepublica.pt/dr/detalhe/portaria/340-1987-665939), de 24 de Abril.\n\n13.º\n\nEntrada em vigor\n\nA presente portaria entra em vigor na data da sua publicação.\n\nMinistério da Educação.\n\nAssinada em 23 de Junho de 1988.\n\nPelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior."
+  },
+  "84fbed6e0b05d710": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Licenciatura em Matemática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Licenciatura em Matemática\n\nRamo de Formação Educacional\n\n1 - Áreas científicas do curso:\n\na) Matemática;\n\nb) Ciências da Educação.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) Obtenção de um mínimo de 130,5 unidades de crédito;\n\nb) Aprovação em estágio pedagógico.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Matemática ... 80,5\n\nb) Informática ... 3\n\nc) Psicopedagogia, Didáctica ... 14\n\nd) Ciências Humanas e Sociais ... 8\n\ne) Pedagogia-Didáctica da Matemática ... 8\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Física ... 11\n\nb) Economia ... 11\n\nc) Informática ... 11\n\nd) Matemática ... 11\n\n4.3 - Monografia ... 6\n\n5 - Condições para a inscrição no ramo:\n\nObtenção de 42 unidades de crédito."
+  },
+  "054ad1253c640c80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Licenciatura em Matemática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Licenciatura em Matemática\n\nRamo de Matemática Aplicada em Ciências Actuariais\n\n1 - Áreas científicas do curso:\n\na) Matemática;\n\nb) Ciências Actuariais.\n\n2 - Duração normal do curso: Cinco anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\nObtenção de um mínimo de 157,5 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Matemática ... 82,5\n\nb) Ciências Actuariais ... 20\n\nc) Economia ... 11\n\nd) Contabilidade ... 8\n\ne) Informática ... 7\n\nf) Direito ... 4\n\ng) Ciências Humanas e Sociais ... 4\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Matemática ... 3\n\nb) Informática ... 3\n\n4.3 - Estágio profissionalizante ... 18\n\n5 - Condições para a inscrição no ramo:\n\nObtenção de 42 unidades de crédito.\n\n6 - Condições para a inscrição no estágio profissionalizante:\n\nObtenção de 125,5 unidades de crédito."
+  },
+  "2d48b0c7058c70c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Licenciatura em Matemática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Licenciatura em Matemática\n\nRamo de Matemática Aplicada em Investigação Operacional\n\n1 - Área científica do curso:\n\nMatemática.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\nObtenção de um mínimo de 152 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Matemática ... 88\n\nb) Economia ... 16\n\nc) Informática ... 11\n\nd) Ciências Humanas e Sociais ... 4\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Matemática ... 8\n\nb) Informática ... 8\n\n4.3 - Seminário ... 5\n\n4.4 - Estágio profissionalizante ... 20\n\n5 - Condições para inscrição no ramo:\n\nObtenção de 42 unidades de crédito.\n\n6 - Condições para a inscrição no estágio profissionalizante:\n\nObtenção de 111 unidades de crédito."
+  },
+  "988cbfe6f87f81f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1989-10-26",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 945/89](https://diariodarepublica.pt/dr/detalhe/portaria/945-1989-549411), publicado em 1989-10-21."
+   ],
+   "markdown": "de 18 de Julho\n\nSob proposta da Universidade Nova de Lisboa;\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho, e no [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nCriação\n\nA Universidade Nova de Lisboa, através da Faculdade de Ciências e Tecnologia, confere o grau de licenciado em Matemática nos seguintes ramos:\n\na) Formação Educacional;\n\nb) Matemática Aplicada em Ciências Actuariais;\n\nc) Matemática Aplicada em Investigação Operacional;\n\nd) Matemática Aplicada em Ciências Estatísticas.\n\n> Aditado pelo/a [Portaria n.º 945/89](https://diariodarepublica.pt/dr/detalhe/portaria/945-1989-549411), publicado em 1989-10-21.\n\nministrando, em consequência, o respectivo curso.\n\n2.º\n\nAcesso aos ramos\n\n1 - A inscrição no ramo de Formação Educacional do curso de licenciatura em Matemática está sujeita a limitações quantitativas a fixar por despacho do Ministro da Educação, sob proposta do reitor da Universidade.\n\n2 - A inscrição nos restantes ramos do curso está sujeita a limitações quantitativas a fixar anualmente por despacho do reitor, sob proposta do conselho científico da Faculdade.\n\n3 - Se num determinado ano o número de alunos que se pretende inscrever num ramo for inferior a quinze, não poderão ser nesse ano abertas inscrições naquele ramo.\n\n4 - Aos alunos admitidos à inscrição no curso é sempre assegurada a inscrição num dos seus ramos.\n\n5 - A candidatura à inscrição em cada um dos ramos está dependente da obtenção prévia do número de unidades de crédito fixado nos respectivos anexos à presente portaria.\n\n6 - As regras e prazos de candidatura e de selecção para a inscrição nos ramos serão fixados por despacho do reitor, sob proposta do conselho científico.\n\n7 - Os despachos a que se referem os n.os 1, 2 e 6 serão objecto de publicação na 2.ª série do Diário da República e de afixação pública na Universidade, com a antecedência, respectivamente, de um mês antes da data de candidatura e de seis meses antes do início do ano lectivo a que dizem respeito.\n\n3.º\n\nOrganização\n\nO curso de licenciatura a que se refere o n.º 1.º, adiante simplesmente designado por curso, organiza-se pelo sistema de unidades de crédito.\n\n4.º\n\nEstrutura curricular\n\nOs elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são os constantes dos anexos a esta portaria.\n\n5.º\n\nPlano de estudos\n\n1 - Os planos de estudos serão fixados por despacho, a publicar na 2.ª série do Diário da República, nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690).\n\n2 - Do despacho a que se refere o n.º 1 constarão igualmente os coeficientes de ponderação a que se refere o n.º 9.º\n\n6.º\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de dez.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas de serviço de aulas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de uma delas.\n\n7.º\n\nEstágio do ramo de Formação Educacional da licenciatura em Matemática\n\nO estágio pedagógico do ramo de Formação Educacional, bem como a admissão ao mesmo, são regulados pela [Portaria n.º 431/79](https://diariodarepublica.pt/dr/detalhe/portaria/431-1979-377538), de 16 de Agosto, com a redacção que lhe foi dada pelas Portarias n.os [791/80](https://diariodarepublica.pt/dr/detalhe/portaria/791-1980-462201), de 6 de Outubro, [176/83](https://diariodarepublica.pt/dr/detalhe/portaria/176-1983-309694), de 2 de Março, e [494/84](https://diariodarepublica.pt/dr/detalhe/portaria/494-1984-386070), de 23 de Julho.\n\n8.º\n\nEstágios dos restantes ramos\n\nO requerimento dos estágios dos restantes ramos será aprovado pelo conselho científico, ouvidos os conselhos pedagógico e directivo.\n\n9.º\n\nClassificação final\n\n1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações do estágio e das unidades curriculares em que o aluno realizou os créditos necessários à obtenção do grau nos termos do disposto em anexo a esta portaria.\n\n2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.\n\n3 - A classificação final do ramo de Formação Educacional da licenciatura em Matemática é calculada nos termos da [Portaria n.º 792/81](https://diariodarepublica.pt/dr/detalhe/portaria/792-1981-565003), de 11 de Setembro.\n\n10.º\n\nEntrada em funcionamento\n\nA entrada em funcionamento da nova estrutura do curso da licenciatura em Matemática aprovada pela presente portaria, bem como das novas estruturas curriculares e planos de estudos a elas associados, far-se-á progressivamente a partir do ano lectivo de 1988-1989, inclusive.\n\n11.º\n\nRegime de transição\n\nO regime de transição será aprovado por despacho do reitor da Universidade Nova de Lisboa, sob proposta do conselho científico da Faculdade de Ciências e Tecnologia, ouvido o conselho pedagógico e o director.\n\n12.º\n\nDisposição revogatória\n\nSem prejuízo do disposto no n.º 11.º, é revogada a [Portaria n.º 340/87](https://diariodarepublica.pt/dr/detalhe/portaria/340-1987-665939), de 24 de Abril.\n\n13.º\n\nEntrada em vigor\n\nA presente portaria entra em vigor na data da sua publicação.\n\nMinistério da Educação.\n\nAssinada em 23 de Junho de 1988.\n\nPelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior."
+  },
+  "3c4093b7aa8661e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Licenciatura em Matemática",
+   "in_force_from": "1989-10-26",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 945/89](https://diariodarepublica.pt/dr/detalhe/portaria/945-1989-549411), publicado em 1989-10-21."
+   ],
+   "markdown": "## ANEXO III — Licenciatura em Matemática\n\nRamo de Matemática Aplicada em Investigação Operacional\n\n1 - Área científica do curso:\n\nMatemática.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\nObtenção de um mínimo de 152 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Matemática ... 88\n\nb) Economia ... 16\n\nc) Informática ... 11\n\nd) Ciências Humanas e Sociais ... 4\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Matemática ... 8\n\nb) Informática ... 8\n\n4.3 - Seminário ... 5\n\n4.4 - Estágio profissionalizante ... 20\n\n5 - Condições para inscrição no ramo:\n\nObtenção de 42 unidades de crédito.\n\n6 - Condições para a inscrição no estágio profissionalizante:\n\nObtenção de 111 unidades de crédito.\n\n\nAnexo IV à [Portaria n.º 466/88](https://diariodarepublica.pt/dr/detalhe/portaria/466-1988-372655), de 18 de Julho\n\nUniversidade Nova de Lisboa\n\nFaculdade de Ciências e Tecnologia\n\nLicenciatura em Matemática\n\nRamo de Matemática Aplicada em Ciências Estatísticas\n\n1 - Áreas científicas do curso:\n\na) Matemática;\n\nb) Ciências Estatísticas.\n\n2 - Duração normal do curso - cinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau - 155,5.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Matemática ... 77,5\n\nb) Ciências Estatísticas ... 33\n\nc) Informática ... 3\n\nd) Ciências Humanas e Sociais ... 4\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Matemática ... 8\n\nb) Estatística ... 8\n\nc) Informática ... 8\n\n4.3 - Seminário ... 5\n\n4.4 - Projecto ... 5\n\n4.5 - Estágio profissionalizante ... 20\n\n5 - Condições para inscrição no ramo - obtenção de 42 unidades de crédito.\n\n6 - Condições para inscrição no estágio profissionalizante - obtenção de 109,5 unidades de crédito.\n\n> Aditado pelo/a [Portaria n.º 945/89](https://diariodarepublica.pt/dr/detalhe/portaria/945-1989-549411), publicado em 1989-10-21."
+  }
+ }
+}
